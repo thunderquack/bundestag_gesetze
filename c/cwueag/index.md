@@ -18,7 +18,10 @@ Fundstelle
 :   BGBl I: 1994, 1954
 
 Zuletzt geändert durch
-:   Art. 1 G v. 27.2.2024 I Nr. 71
+:   Art. 6 Abs. 1 G v. 13.4.2017 I 872
+
+Änderung durch
+:   Art. 1 G v. 27.12.2024 I Nr. 71 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel

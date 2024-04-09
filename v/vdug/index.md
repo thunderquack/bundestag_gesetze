@@ -13,7 +13,7 @@ Ausfertigungsdatum
 :   2023-10-08
 
 Fundstelle
-:   BGBl I: 2023, Nr. 272, S. 2
+:   BGBl I: 2023, Nr. 272, 2
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

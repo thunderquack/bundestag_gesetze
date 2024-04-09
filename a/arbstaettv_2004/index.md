@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 2179
 
 Zuletzt geändert durch
-:   Art. 4 G v. 22.12.2020 I 3334
-
-Änderung durch
-:   Art. 10 G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 27.3.2024 I Nr. 109
 
 Diese Verordnung dient der Umsetzung
 

@@ -31,7 +31,7 @@ Zuletzt geändert durch
 :   Art. 22 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 23 G v. 27.3.2024 I Nr. 108 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 23 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Steuergegenstand und Geltungsbereich

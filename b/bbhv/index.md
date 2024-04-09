@@ -16,19 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 326
 
 Zuletzt geändert durch
-:   Art. 1 V v. 1.12.2020 I 2713; 2021 I 343
-
-Änderung durch
-:   Art. 1 V v. 6.3.2024 I Nr. 92 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 V v. 6.3.2024 I Nr. 92 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 V v. 6.3.2024 I Nr. 92 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 89 Nr. 7 G v. 20.8.2021 I 3932 ist berücksichtigt
+:   Art. 3 V v. 6.3.2024 I Nr. 92
 
 
 ## Eingangsformel
@@ -4643,7 +4631,8 @@ Folgende Wirkstoffe oder Wirkstoffgruppen sind nur unter den genannten Vorausset
 
 ### Anlage 9 Höchstbeträge für beihilfefähige Aufwendungen für Heilmittel
 
-(Fundstelle: BGBl. I 2018, 1247 - 1254;)
+(Fundstelle: BGBl. I 2018, 1247 - 1254;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Abschnitt 1
 ## Leistungsverzeichnis
