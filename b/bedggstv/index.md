@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.12.1997; 1998 I 5;
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 3 V v. 20.6.2023 I Nr. 159
+:   Art. 1 V v. 3.4.2024 I Nr. 114
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 

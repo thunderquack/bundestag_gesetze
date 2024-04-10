@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 13.5.2011 I 850, 2094;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 22.12.2023 I Nr. 412
-
-Änderung durch
-:   Art. 5 G v. 27.3.2024 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 27.3.2024 I Nr. 107
 
 
 ## Kapitel 1 - Fördern und Fordern

@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.01.2015 I 33;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 22.12.2023 I Nr. 412
-
-Änderung durch
-:   Art. 7 G v. 27.3.2024 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 27.3.2024 I Nr. 107
 
 
 ## Abschnitt 1 - Elterngeld
