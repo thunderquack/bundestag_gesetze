@@ -1,5 +1,5 @@
 ---
-Title: Paßgesetz
+Title: Passgesetz
 jurabk: PaßG 1986
 layout: default
 origslug: pa_g_1986
@@ -7,7 +7,7 @@ slug: passg_1986
 
 ---
 
-# Paßgesetz (PaßG 1986)
+# Passgesetz (PaßG 1986)
 
 Ausfertigungsdatum
 :   1986-04-19
