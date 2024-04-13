@@ -642,7 +642,8 @@ War der Täter an der Tat beteiligt, muss sich sein Beitrag zur Aufklärung nach
 
 
 
-2.  entgegen § 8 Absatz 1 eine MItteilung nicht richtig, nicht vollständig oder nicht unverzüglich macht,
+2.  entgegen § 8 Absatz 1 eine
+    Mitteilung                    nicht richtig, nicht vollständig oder nicht unverzüglich macht,
 
 
 3.  einer vollziehbaren Auflage nach § 10 zuwiderhandelt,
