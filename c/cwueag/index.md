@@ -18,11 +18,10 @@ Fundstelle
 :   BGBl I: 1994, 1954
 
 Zuletzt geändert durch
-:   Art. 6 Abs. 1 G v. 13.4.2017 I 872
+:   Art. 1 G v. 27.12.2024 I Nr. 71
 
-Änderung durch
-:   Art. 1 G v. 27.12.2024 I Nr. 71 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Stand: G tritt gem. § 21 Abs. 1 Satz 2 iVm Abschn. I Bek. v. 4.11.1996 II 2618 mWv 29.4.1997 in Kraft.
+Stand: §§ 1 bis 7, 12, 15 Abs. 1 Nr. 1 Buchst. b u. Nr. 3, Abs. 2 u. 3, § 16 Abs. 1 Nr. 1, Abs. 5 u. 6 u. §§ 19 u. 20 sind gem. § 21 Abs. 1 Satz 1 iVm Abschn. I Bek. v. 4.11.1996 II 2618 mWv 16.11.1996 in Kraft getreten.
 
 ## Eingangsformel
 

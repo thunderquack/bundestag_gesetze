@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1996, 1254
 
 Zuletzt geändert durch
-:   Art. 12 G v. 17.7.2023 I Nr. 191
-
-Änderung durch
-:   Art. 3 G v. 22.3.2024 I Nr. 101 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 22.3.2024 I Nr. 101
 
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall
