@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 12.11.2009 I 3710, 3973; 2011 I 363;
 
 Zuletzt geändert durch
-:   Art. 5b G v. 22.3.2024 I Nr. 101
-
-Änderung durch
-:   Art. 32 u. Art. 35 Abs. 10 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 32 u. Art. 35 Abs. 10 G v. 27.3.2024 I Nr. 108
 
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen

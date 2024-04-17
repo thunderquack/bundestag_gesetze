@@ -27,6 +27,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 23 G v. 2.3.2023 I Nr. 56 ist berücksichtigt
 
+Änderung durch
+:   Art. 7 Abs. 4 G v. 11.4.2024 I Nr. 119 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## I. - Allgemeine Vorschriften
 
@@ -1832,10 +1835,10 @@ Von folgenden Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht 
 3.  (weggefallen)
 
 
-4.  des Gesetzes über die Pflichtversicherung für Kraftfahrzeughalter vom 5. April 1965 (BGBl. I S. 213) und
+4.  des Pflichtversicherungsgesetzes und
 
 
-5.  des Gesetzes über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger vom 24. Juli 1956 (BGBl. I S. 667)
+5.  des Auslandsfahrzeug-Pflichtversicherungsgesetzes
 
 
 

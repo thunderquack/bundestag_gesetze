@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 6 G v. 20.7.2022 I 1166
 
+Änderung durch
+:   Art. 4 G v. 11.4.2024 I Nr. 120 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Errichtung der Genossenschaft
 
@@ -2013,4 +2016,9 @@ Die Festlegungen nach § 9 Absatz 3 Satz 1 und 3 sowie Absatz 4 Satz 1 und 3 in 
 ### § 175 Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie
 
 § 53a Absatz 2 Satz 1 Nummer 3 und § 89 Satz 3 in der ab dem 1. August 2022 geltenden Fassung sind erstmals auf Rechnungslegungsunterlagen für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten Vorschriften in der bis einschließlich 31. Juli 2022 geltenden Fassung sind letztmals anzuwenden auf Rechnungslegungsunterlagen für das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
+
+
+### § 176 Übergangsvorschrift zum Zweiten Gesetz zur Änderung des DWD-Gesetzes sowie zur Änderung handelsrechtlicher Vorschriften
+
+Die Größenmerkmale des § 267a Absatz 1 Satz 1 des Handelsgesetzbuchs in der ab dem 17. April 2024 geltenden Fassung sind für die Einstufung als Kleinstgenossenschaft in § 53a Absatz 1 Satz 1 erstmals anzuwenden auf die Prüfung für ein frühestens am 31. Dezember 2024 endendes Geschäftsjahr.
 

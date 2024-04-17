@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 2804
 
-Änderung durch
-:   Art. 1 V v. 22.3.2024 I Nr. 110 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 1 V v. 22.3.2024 I Nr. 110
 
 
 

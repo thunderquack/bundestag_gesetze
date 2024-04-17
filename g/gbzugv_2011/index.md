@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 126 G v. 10.8.2021 I 3436
 
+Änderung durch
+:   Art. 7 Abs. 6 G v. 11.4.2024 I Nr. 119 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -75,7 +78,7 @@ wird.
     d)  die abgabenrechtlichen Pflichten, die sich aus unternehmerischer Tätigkeit ergeben,
 
 
-    e)  § 1 des Pflichtversicherungsgesetzes vom 5. April 1965 (BGBl. I S. 213) in der jeweils geltenden Fassung,
+    e)  § 6 des Pflichtversicherungsgesetzes,
 
 
     f)  umweltschützende Vorschriften, insbesondere des Abfall- und Immissionsschutzrechts oder gegen

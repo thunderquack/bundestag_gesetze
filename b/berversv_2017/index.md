@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 2858
 
-Geändert durch
-:   Art. 7 G v. 17.8.2017 I 3214
+Zuletzt geändert durch
+:   Art. 7 Abs. 2 G v. 11.4.2024 I Nr. 119
 
 
 ## Eingangsformel
@@ -90,7 +90,7 @@ Die Versicherungsunternehmen haben ihre Bilanz und ihre Gewinn- und Verlust-Rech
 
 2.  bis einschließlich Seite 3 Zeile 17
 
-    a)  für das gesamte inländische und das im Wege des Dienstleistungsverkehrs gemäß § 57 Absatz 3 des Versicherungsaufsichtsgesetzes selbst abgeschlossene ausländische Versicherungsgeschäft,
+    a)  für das gesamte inländische und das im Wege des Dienstleistungsverkehrs gemäß § 57 Absatz 3 und 4 des Versicherungsaufsichtsgesetzes selbst abgeschlossene ausländische Versicherungsgeschäft,
 
 
     b)  für das gesamte durch Niederlassungen im Ausland selbst abgeschlossene Versicherungsgeschäft,
@@ -3344,7 +3344,7 @@ _\_\__\_\__\_\__\_\__\_\_\_\_
 
 *    *   1
 
-    *   Hierzu zählen alle Landfahrzeuge, die nicht der Pflichtversicherung in der Kraftfahrzeug-Haftpflichtversicherung gemäß § 2 Absatz 1 Nummer 6 des Pflichtversicherungsgesetzes unterliegen.
+    *   Hierzu zählen alle Landfahrzeuge, deren durch die Bauart bedingte Höchstgeschwindigkeit 6 Kilometer pro Stunde nicht übersteigt oder deren Halter gemäß § 2a des Pflichtversicherungsgesetzes nicht der Pflichtversicherung in der Kraftfahrzeug-Haftpflichtversicherung unterliegen.
 
 
 *    *   2
@@ -3394,14 +3394,14 @@ _\_\__\_\__\_\__\_\__\_\_\_\_
 
 ## Abschnitt D
 
-[^F799031_D_01_BJNR285800017BJNE003101124]
+[^F799031_D_01_BJNR285800017BJNE003102128]
 Bestandsgruppen
-[^F799031_D_02_BJNR285800017BJNE003101124]
+[^F799031_D_02_BJNR285800017BJNE003102128]
 ,
 ## 
 
 
-100[^F799031_D_03_BJNR285800017BJNE003101124]
+100[^F799031_D_03_BJNR285800017BJNE003102128]
  Inlandsgeschäft (einschließlich Dienstleistungsgeschäft)
 
     110 Einzelversicherung mit Überschussbeteiligung, bei der das Anlagerisiko vom Versicherungsunternehmen getragen wird
@@ -3415,7 +3415,7 @@ Bestandsgruppen
         113 Kapitalbildende Lebensversicherung mit überwiegendem Erlebensfallcharakter
 
 
-        114[^F799031_D_04_BJNR285800017BJNE003101124]
+        114[^F799031_D_04_BJNR285800017BJNE003102128]
  Berufsunfähigkeitsversicherung (einschließlich Berufsunfähigkeits-Zusatzversicherungen)
 
 
@@ -3585,7 +3585,7 @@ Bestandsgruppen
 Nach den vorgegebenen Klassifikationszahlen muss stets unterschieden werden. Der zahlenmäßige Ausweis erscheint immer nur auf der tiefsten Stufe der jeweiligen Risikoart.
 Nicht formgebundene Aufteilungen nach tieferen Stufen (unterschiedliche Ausscheideordnungen oder weitere Risikomerkmale wie z. B. Raucher/Nichtraucher, Berufsgruppen) sind nach zwei vollen Geschäftsjahren vorzunehmen, wenn der entsprechend objektiv umschriebene Teilbestand mindestens 30 000 Risiken umfasst oder der rechnungsmäßige Ertrag mindestens 5 Prozent vom Gesamtertrag der jeweiligen Risikoart beträgt.
 
-[^F799031_D_01_BJNR285800017BJNE003101124]:     In den Bestandsgruppen sind von den Lebensversicherungsunternehmen die Verträge zu erfassen, die                             a)                                nach dem 28. Juli 1994 abgeschlossen worden sind, aber weder unter Artikel 16 § 2 Satz 2 des Dritten Durchführungsgesetzes/EWG zum VAG noch unter Anlage 2 Abschnitt A Nummer 9 Unternummer 6 Satz 3 fallen, oder
+[^F799031_D_01_BJNR285800017BJNE003102128]:     In den Bestandsgruppen sind von den Lebensversicherungsunternehmen die Verträge zu erfassen, die                             a)                                nach dem 28. Juli 1994 abgeschlossen worden sind, aber weder unter Artikel 16 § 2 Satz 2 des Dritten Durchführungsgesetzes/EWG zum VAG noch unter Anlage 2 Abschnitt A Nummer 9 Unternummer 6 Satz 3 fallen, oder
 
 
     b)                                zwischen dem 1. Juli 1994 und dem 28. Juli 1994 nach nicht mehr genehmigten Tarifen abgeschlossen worden sind.
@@ -3593,7 +3593,7 @@ Nicht formgebundene Aufteilungen nach tieferen Stufen (unterschiedliche Ausschei
 
 
 Unbeschadet der nachfolgenden Anmerkungen 2 und 4 ist die Aufteilung des hier zu erfassenden Bestands durch die Gliederung der Bestandsgruppen vorgegeben.
-[^F799031_D_02_BJNR285800017BJNE003101124]: Umfasst eine der nachfolgend genannten Bestandsgruppen weniger als 10 000 Einzelverträge und beträgt die Bruttobeitragseinnahme einer dieser Bestandsgruppen weniger als 3 Prozent der gesamten Bruttobeitragseinnahme des hier zu erfassenden Bestands, kann sie wie folgt behandelt werden:                             a)                                Die Bestandsgruppen 111 und 112 können in der vertragsanzahlmäßig größeren Bestandsgruppe (111 oder 112) zusammengefasst werden.
+[^F799031_D_02_BJNR285800017BJNE003102128]: Umfasst eine der nachfolgend genannten Bestandsgruppen weniger als 10 000 Einzelverträge und beträgt die Bruttobeitragseinnahme einer dieser Bestandsgruppen weniger als 3 Prozent der gesamten Bruttobeitragseinnahme des hier zu erfassenden Bestands, kann sie wie folgt behandelt werden:                             a)                                Die Bestandsgruppen 111 und 112 können in der vertragsanzahlmäßig größeren Bestandsgruppe (111 oder 112) zusammengefasst werden.
 
 
 b)                                Buchstabe a gilt entsprechend für die Bestandsgruppen 113, 114 und 115.
@@ -3605,8 +3605,8 @@ c)                                Buchstabe a gilt entsprechend für die Bestand
 
 Bei Wegfall einer Voraussetzung für die gemeinsame Abrechnung zweier oder mehrerer Bestandsgruppen ist der getrennte Ausweis der betroffenen Bestandsgruppe gemäß Anmerkung 2 vorzunehmen. Hierfür ist es notwendig, dass durch entsprechende Maßnahmen diese Trennung stets möglich ist. Insbesondere muss die nicht direkt zuzuordnende Rückstellung für Beitragsrückerstattung nach objektiven Kriterien aufgeteilt werden. Das Verfahren hierfür ist gegenüber der Aufsichtsbehörde in einem internen Bericht zu erläutern.
 Für Fremdwährungsversicherungen ist sicherzustellen, dass durch entsprechende Vorkehrungen jederzeit zumindest der Zinsverlauf getrennt ermittelt werden kann.
-[^F799031_D_03_BJNR285800017BJNE003101124]: Alternativ zu der vorgegebenen Einteilung können die Berufsunfähigkeits- und Pflegerenten-Zusatzversicherungen auch in der Bestandsgruppe der jeweiligen Hauptversicherung abgerechnet werden. Hierfür ist es notwendig, dass durch entsprechende Vorkehrungen jederzeit zumindest der Risiko- und Zinsverlauf für diese Zusatzversicherungen ermittelt werden kann. Dieses Ergebnis ist auf Anfrage der Aufsichtsbehörde mitzuteilen. Anmerkung 2 bleibt hiervon unberührt.
-[^F799031_D_04_BJNR285800017BJNE003101124]: 
+[^F799031_D_03_BJNR285800017BJNE003102128]: Alternativ zu der vorgegebenen Einteilung können die Berufsunfähigkeits- und Pflegerenten-Zusatzversicherungen auch in der Bestandsgruppe der jeweiligen Hauptversicherung abgerechnet werden. Hierfür ist es notwendig, dass durch entsprechende Vorkehrungen jederzeit zumindest der Risiko- und Zinsverlauf für diese Zusatzversicherungen ermittelt werden kann. Dieses Ergebnis ist auf Anfrage der Aufsichtsbehörde mitzuteilen. Anmerkung 2 bleibt hiervon unberührt.
+[^F799031_D_04_BJNR285800017BJNE003102128]: 
 (zu § 24)
 
 ### Anlage 2 Anwendung der Formblätter und Nachweisungen

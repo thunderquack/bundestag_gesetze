@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 494 V v. 31.8.2015 I 1474
 
+Änderung durch
+:   Art. 7 Abs. 7 G v. 11.4.2024 I Nr. 119 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -26,17 +29,15 @@ Auf Grund des § 13 Abs. 2 und 3 und des § 14 des Pflichtversicherungsgesetzes 
 
 ## § 1
 
-Die Stellung des Entschädigungsfonds für Schäden aus Kraftfahrzeugunfällen nach den §§ 12 und 13 Abs. 4 des Pflichtversicherungsgesetzes in der Fassung des Gesetzes vom 5. April 1965 (Bundesgesetzblatt I S. 213) wird dem rechtsfähigen Verein "Verkehrsopferhilfe eingetragener Verein" in Hamburg (Verkehrsopferhilfe) mit seiner Zustimmung zugewiesen.
+Die Stellung des Entschädigungsfonds für Schäden aus Kraftfahrzeugunfällen nach den §§ 12 und 13 Abs. 4 des Pflichtversicherungsgesetzes, das zuletzt durch Artikel 1 des Gesetzes vom 11. April 2024 (BGBl. 2024 I Nr. 119) geändert worden ist wird dem rechtsfähigen Verein "Verkehrsopferhilfe eingetragener Verein" in Berlin (Verkehrsopferhilfe) mit seiner Zustimmung zugewiesen.
 
 
-## § 2
-
-Die Satzung der Verkehrsopferhilfe sowie jede Änderung der Satzung bedarf der Genehmigung des Bundesministers der Justiz und für Verbraucherschutz. Die Satzung ist im Bundesanzeiger bekanntzumachen.
+## § 2 (weggefallen)
 
 
-## § 3
 
-Die Verkehrsopferhilfe untersteht der Aufsicht des Bundesministers der Justiz und für Verbraucherschutz. Durch die Aufsicht soll sichergestellt werden, daß die Verkehrsopferhilfe ihre Aufgaben ordnungsgemäß erfüllt.
+## § 3 (weggefallen)
+
 
 
 ## § 4
@@ -69,27 +70,16 @@ Das Verfahren vor der Schiedsstelle ist schriftlich. Die Schiedsstelle hat vor d
 Ansprüche gegen die Verkehrsopferhilfe nach § 12 des Pflichtversicherungsgesetzes und § 10 dieser Verordnung können im Wege der Klage erst geltend gemacht werden, nachdem ein Verfahren vor der Schiedsstelle vorausgegangen ist, oder wenn seit der Anrufung der Schiedsstelle mehr als drei Monate verstrichen sind.
 
 
-## § 9a
-
-Die §§ 5 bis 9 finden auf die Regulierung von Ansprüchen nach § 12 Abs. 1 Nr. 4 des Pflichtversicherungsgesetzes keine Anwendung.
-
-
-## § 10
-
-Die Verkehrsopferhilfe hat im Rahmen des § 12 des Pflichtversicherungsgesetzes auch für Schäden einzutreten, die unter den Voraussetzungen des § 12 Abs. 1 Nr. 1 des Pflichtversicherungsgesetzes einem Deutschen außerhalb des Geltungsbereichs des Pflichtversicherungsgesetzes entstehen,
-
-a)  wenn in dem Staat, in dem sich der Unfall zugetragen hat, eine Stelle besteht, die Angehörigen dieses Staates in Fällen dieser Art Ersatz leistet, und
-
-
-b)  wenn und soweit deutsche Ersatzberechtigte von der Ersatzleistung durch diese Stelle ausgeschlossen sind.
+## § 9a (weggefallen)
 
 
 
+## § 10 (weggefallen)
 
 
-## § 11
 
-Die Verkehrsopferhilfe erbringt Leistungen an ausländische Staatsangehörige ohne festen Wohnsitz im Inland nur bei Vorliegen der Gegenseitigkeit. Dies gilt nicht, soweit völkerrechtliche Verträge der Bundesrepublik Deutschland dem entgegenstehen.
+## § 11 (weggefallen)
+
 
 
 ## § 12

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 24 G v. 2.3.2023 I Nr. 56
 
+Änderung durch
+:   Art. 7 Abs. 5 G v. 11.4.2024 I Nr. 119 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Die Neufassung dieser Verordnung dient der Umsetzung der Richtlinie 96/26/EG des Rates vom 29. April 1996 über den Zugang zum Beruf des Güter- und Personenkraftverkehrsunternehmers im innerstaatlichen und grenzüberschreitenden Verkehr sowie über die gegenseitige Anerkennung der Diplome, Prüfungszeugnisse und sonstigen Befähigungsnachweise für die Beförderung von Gütern und die Beförderung von Personen im Straßenverkehr und über Maßnahmen zur Förderung der tatsächlichen Inanspruchnahme der Niederlassungsfreiheit der betreffenden Verkehrsunternehmer (ABl. EG Nr. L 124 S. 1), zuletzt geändert durch Richtlinie 98/76/EG des Rates vom 1. Oktober 1998 (ABl. EG Nr. L 277 S. 17).
 
 
@@ -56,7 +59,7 @@ in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. Mär
     d)  die abgabenrechtlichen Pflichten, die sich aus unternehmerischer Tätigkeit ergeben,
 
 
-    e)  § 1 des Pflichtversicherungsgesetzes vom 5. April 1965 (BGBl. I S. 213) in der jeweils geltenden Fassung,
+    e)  § 6 des Pflichtversicherungsgesetzes,
 
 
     f)  umweltschützende Vorschriften, dabei insbesondere des Bundes-Immissionsschutzgesetzes oder solche der Straßenverkehrs-Zulassungs-Ordnung in ihren jeweils geltenden Fassungen.
@@ -107,7 +110,7 @@ Darüber hinaus können der Unternehmer und der Verkehrsleiter insbesondere dann
     d)  die abgabenrechtlichen Pflichten, die sich aus unternehmerischer Tätigkeit ergeben,
 
 
-    e)  § 1 des Pflichtversicherungsgesetzes vom 5. April 1965 (BGBl. I S. 213) in der jeweils geltenden Fassung,
+    e)  § 6 des Pflichtversicherungsgesetzes,
 
 
     f)  umweltschützende Vorschriften, insbesondere des Abfall- und Immissionsschutzrechts oder

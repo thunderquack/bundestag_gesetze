@@ -21,6 +21,8 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 20.11.2019 I 1724
 
+Stand: Änderung duch Art. 1 G v. 12.4.2024 I Nr. 121 mWv 18.4.2024 bzw. 1.8.2024 noch nicht berücksichtigt
+Stand: Änderung duch Art. 2 G v. 12.4.2024 I Nr. 121 mWv 1.1.2026 noch nicht berücksichtigt
 
 ## I. Teil - Verfassung und Zuständigkeit des Bundesverfassungsgerichts
 
