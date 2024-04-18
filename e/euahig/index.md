@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 1809
 
 Zuletzt geändert durch
-:   Art. 2 G v. 20.12.2022 I 2730
-
-Änderung durch
-:   Art. 31 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 31 G v. 27.3.2024 I Nr. 108
 
 [^BJNR180910013_01]:     Dieses Gesetzes dient der Umsetzung der Richtlinie 2011/16/EU des Rates vom 15. Februar 2011 über die Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung und zur Aufhebung der Richtlinie 77/799/EWG (ABl. L 64 vom 11.3.2011, S. 1).
 

@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.2.1997 I 378;
 
 Zuletzt geändert durch
-:   Art. 28 G v. 22.12.2023 I Nr. 411
-
-Änderung durch
-:   Art. 28 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 28 G v. 27.3.2024 I Nr. 108
 
 
 ## Abschnitt 1 - Steuerpflicht

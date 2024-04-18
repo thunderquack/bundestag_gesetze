@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.4.2006 I 846, 1202;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 21.12.2023 I Nr. 397
-
-Änderung durch
-:   Art. 17 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 17 G v. 27.3.2024 I Nr. 108
 
 
 ## Abschnitt I - Allgemeine Vorschriften

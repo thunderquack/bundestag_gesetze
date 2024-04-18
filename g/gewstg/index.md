@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.10.2002 I 4167;
 
 Zuletzt geändert durch
-:   Art. 22 G v. 22.12.2023 I Nr. 411
-
-Änderung durch
-:   Art. 19 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 19 G v. 27.3.2024 I Nr. 108
 
 
 ## Abschnitt I - Allgemeines

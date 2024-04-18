@@ -19,16 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.5.2000 I 717;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 2.6.2021 I 1259
-
-Änderung durch
-:   Art. 7 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 9 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 27.3.2024 I Nr. 108
 
 
 ## § 1 Anwendung auf Ehegatten und Lebenspartner

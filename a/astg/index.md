@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1972, 1713
 
 Zuletzt geändert durch
-:   Art. 5 G v. 21.12.2023 I Nr. 397
-
-Änderung durch
-:   Art. 10 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 27.3.2024 I Nr. 108
 
 
 ## Erster Teil - Internationale Verflechtungen

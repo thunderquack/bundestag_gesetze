@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.10.2002 I 4144;
 
 Zuletzt geändert durch
-:   Art. 21 G v. 22.12.2023 I Nr. 411
-
-Änderung durch
-:   Art. 18 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 18 G v. 27.3.2024 I Nr. 108
 
 
 ## Erster Teil - Steuerpflicht

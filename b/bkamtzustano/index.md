@@ -15,6 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2024, Nr. 117
 
+Stand: Ersetzt AnO 2030-11-48-9 v. 12.2.2009 I 386 (BNDErnAnO 2009) u. AnO 2030-14-163 v. 12.2.2009 I 387 (BKWid/VtrAnO)
 
 ## Eingangsformel
 

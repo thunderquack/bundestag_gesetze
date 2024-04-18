@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.2.2005 I 434;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 20.7.2023 I Nr. 199
-
-Änderung durch
-:   Art. 24 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 24 G v. 27.3.2024 I Nr. 108
 
 
 ## - - Zu § 3a des Gesetzes

@@ -746,7 +746,8 @@ Diese Verordnung ist auf Versicherungsvereine auf Gegenseitigkeit, die auf Grund
 
 ### Anlage 1 Kennzahlen und Versicherungszweige
 
-(Fundstelle: BGBl. I 2017, 2866 - 2882)
+(Fundstelle: BGBl. I 2017, 2866 - 2882
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Abschnitt A
 
