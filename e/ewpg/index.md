@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1423
 
-Änderung durch
-:   Art. 16 G v. 11.12.2023 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 16 G v. 11.12.2023 I Nr. 354
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen

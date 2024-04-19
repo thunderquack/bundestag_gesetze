@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 1185
 
 Zuletzt geändert durch
-:   Art. 7 G v. 19.6.2023 I Nr. 154
-
-Änderung durch
-:   Art. 14 G v. 11.12.2023 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 14 G v. 11.12.2023 I Nr. 354
 
 
 ## Übersicht

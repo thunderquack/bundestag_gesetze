@@ -15,6 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 775
 
+V aufgeh. durch
+:   § 2 Satz 2 V 53-10-2 v. 11.4.2024 I Nr. 127 mWv 1.5.2024
+
+Ersetzt durch
+:   V 53-10-2 v. 11.4.2024 I Nr. 127 (MLAnpV 2024)
+
 
 ## Eingangsformel
 

@@ -16,7 +16,7 @@ Ausfertigungsdatum
 :   2023-06-07
 
 Fundstelle
-:   BGBl II: 2023, Nr. 158
+:   BGBl II: 2023, Nr. 158 (Nr. 254)
 
 Stand: Die V tritt gem. Art. 2 Abs. 2 an dem Tag außer Kraft, an dem das Abkommen außer Kraft tritt
 Stand: V in Kraft gem. Art. 2 Abs. 1 iVm Satz 2 Bek. v 21.8.2023 I Nr. 254 mWv 20.7.2023

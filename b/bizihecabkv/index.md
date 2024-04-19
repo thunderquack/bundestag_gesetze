@@ -15,7 +15,7 @@ Ausfertigungsdatum
 :   2023-02-13
 
 Fundstelle
-:   BGBl II: 2023, Nr. 49
+:   BGBl II: 2023, Nr. 49 (Nr. 89)
 
 Stand: Die V tritt gem. Art. 2 Abs. 2 an dem Tag außer Kraft, an dem das Abkommen außer Kraft tritt
 Stand: Die V ist gem. Art. 2 Abs. 1 iVm Bek. v. 27.3.2023 II Nr. 89 am 20.2.2023 in Kraft getreten

@@ -14,7 +14,7 @@ Ausfertigungsdatum
 :   2023-06-14
 
 Fundstelle
-:   BGBl I: 2023, Nr. 151
+:   BGBl I: 2023, Nr. 151 (Nr. 241)
 
 Stand: Ersetzt V 806-22-1-75 v. 21.5.2012 I 1168 (KStoffVerfMAusbV 2012)
 [^F826528_01_BJNR0970B0023]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.

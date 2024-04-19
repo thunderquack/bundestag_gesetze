@@ -13,7 +13,7 @@ Ausfertigungsdatum
 :   2023-06-20
 
 Fundstelle
-:   BGBl I: 2023, Nr. 159, S. 2
+:   BGBl I: 2023, Nr. 159, 2
 
 Stand: Ersetzt V 2126-13-1 v. 21.5.2001 I 959 (TrinkwV 2001)
 
