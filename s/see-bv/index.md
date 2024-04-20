@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 28.7.2021 I 3236
 
+Änderung durch
+:   Art. 3 V v. 9.4.2024 I Nr. 126 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F785283_00_BJNR046000014]:     Die Verordnung dient auch der Umsetzung der                                         1.                                            Richtlinie 2012/35/EU des Europäischen Parlaments und des Rates vom 21. November 2012 zur Änderung der Richtlinie 2008/106/EG über Mindestanforderungen für die Ausbildung von Seeleuten (ABl. L 343 vom 14.12.2012, S. 78),
 
 
@@ -298,7 +301,7 @@ nachweisen.
 4.  die Befähigung in der Gefahrenabwehr auf dem Schiff,
 
 
-5.  die Befähigung zum Schiffsdienst auf einem Öltankschiff, einem Chemikalientankschiff oder einem Flüssiggastankschiff.
+5.  die Befähigung zum Schiffsdienst auf einem Öltankschiff, einem Chemikalientankschiff oder einem Flüssiggastankschiff,
 
 
 6.  den Schiffsdienst auf Schiffen, die dem IGF-Code unterliegen,
@@ -415,7 +418,7 @@ Die Befristung endet im Falle der Erteilung oder Gültigkeitsverlängerung von B
 
 (1) Das Bundesamt erteilt ein Befähigungszeugnis und verlängert dieses in seiner Gültigkeitsdauer mit den sich aus § 13 Absatz 1 des Seearbeitsgesetzes, dieser Verordnung und den sich aus den Regeln der Anlage zum STCW-Übereinkommen ergebenden Einschränkungen, soweit zutreffend, hinsichtlich der Schiffsgröße, der Antriebsleistung, des Fahrtgebietes, der nautischen oder der technischen Ausrüstung.
 
-(2) Sofern der Bewerber um ein Befähigungszeugnis für den nautischen Schiffsdienst kein Zeugnis über Kenntnisse der englischen Sprache nachweist, die mindestens den grundlegenden Kenntnissen entsprechend der Stufe A 2 des vom Europarat mit der Empfehlung (2008) 7 des Ministerrats vom 2. Juli 2008 und von der Europäischen Gemeinschaft mit der Entschließung des Rates vom 14. Februar 2002 zur Förderung der Sprachenvielfalt und des Erwerbs von Sprachkenntnissen im Rahmen der Umsetzung der Ziele des Europäischen Jahres der Sprachen 2001 (ABl. 2001 C 50, S. 1 ff) zur Anwendung empfohlenen gemeinsamen europäischen Referenzrahmens für Sprachen entsprechen, gilt das Befähigungszeugnis ausschließlich für die nationale Fahrt.
+(2) Sofern der Bewerber um ein Befähigungszeugnis für den nautischen Schiffsdienst kein Zeugnis über Kenntnisse der englischen Sprache nachweist, die mindestens den grundlegenden Kenntnissen entsprechend der Stufe A 2 des vom Europarat mit der Empfehlung (2008) 7 des Ministerrats vom 2. Juli 2008 und von der Europäischen Gemeinschaft mit der Entschließung des Rates vom 14. Februar 2002 zur Förderung der Sprachenvielfalt und des Erwerbs von Sprachkenntnissen im Rahmen der Umsetzung der Ziele des Europäischen Jahres der Sprachen 2001 (ABl. C 50 vom 23.2.2002, S. 1) zur Anwendung empfohlenen gemeinsamen europäischen Referenzrahmens für Sprachen entsprechen, gilt das Befähigungszeugnis ausschließlich für die nationale Fahrt.
 
 
 ### Abschnitt 3 - Berufseingangsprüfungen, berufsrechtliche Akkreditierung und Qualitätssicherung
@@ -666,7 +669,7 @@ Tätigkeiten, die als geeignet für den Fortbestand der Befähigung im Sinne des
 
 #### § 20 Befähigungszeugnisse und Befähigungsnachweise anderer Mitgliedstaaten der Europäischen Union oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
-(1) Ein Befähigungszeugnis im Sinne des Artikels 5 der Richtlinie 2008/106/EG des Europäischen Parlaments und des Rates vom 19. November 2008 über Mindestanforderungen für die Ausbildung von Seeleuten (ABl. L 323 vom 3.12.2008, S. 33), die zuletzt durch Artikel 1 der Richtlinie 2019/1159/EU (ABl. L 188 vom 12.7.2019, S. 94) geändert worden ist, in der jeweils geltenden Fassung eines anderen Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum wird auf Antrag vom Bundesamt anerkannt. Satz 1 gilt auch für Befähigungsnachweise zum Kapitän oder Schiffsoffizier auf Tankschiffen nach den Abschnitten A-V/1-1 und A-V/1-2 des STCW-Codes.
+(1) Ein Befähigungszeugnis im Sinne des Artikels 4 der Richtlinie (EU) 2022/993 des Europäischen Parlaments und des Rates vom 8. Juni 2022 über Mindestanforderungen für die Ausbildung von Seeleuten (ABl. L 169 vom 27.6.2022, S. 45) eines anderen Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum wird auf Antrag vom Bundesamt anerkannt. Satz 1 gilt auch für Befähigungsnachweise zum Kapitän oder Schiffsoffizier auf Tankschiffen nach den Abschnitten A-V/1-1 und A-V/1-2 des STCW-Codes.
 
 (2) Die Anerkennung erfolgt unverzüglich nach Antragstellung durch das Erteilen eines Vermerkes entsprechend den Anforderungen des Abschnittes A-I/2 Absatz 3 des STCW-Codes. Die Anerkennung beschränkt sich auf die im zur Anerkennung vorgelegten Befähigungszeugnis ausgewiesenen Funktionen, Dienststellungen und Verantwortungsebenen. Einschränkungen, die im vorgelegten Befähigungszeugnis enthalten sind, sind nach Maßgabe des STCW-Übereinkommens beizubehalten.
 
@@ -692,7 +695,7 @@ Ein Befähigungsnachweis oder ein Qualifikationsnachweis einer Vertragspartei de
 
 #### § 23 Täuschungen und sonstige rechtswidrige Praktiken im Zusammenhang mit Bescheinigungen
 
-Das Bundesamt wird im Rahmen der Führung des Seeleute-Befähigungs-Verzeichnisses nach § 9f des Seeaufgabengesetzes als zuständige Stelle im Sinne des Artikels 8 der Richtlinie 2008/106/EG tätig. Ihm obliegen die für die Aufdeckung und Bekämpfung von Täuschungen oder sonstigen rechtswidrigen Praktiken im Zusammenhang mit der Erteilung und Gültigkeitsverlängerung von Bescheinigungen erforderlichen Maßnahmen. Dies umfasst auch den Informationsaustausch mit den zuständigen ausländischen Stellen im Sinne des Artikels 8 Absatz 2 der Richtlinie 2008/106/EG unter Beachtung der Vorschriften des § 9f Absatz 4 und 5 des Seeaufgabengesetzes.
+Das Bundesamt wird im Rahmen der Führung des Seeleute-Befähigungs-Verzeichnisses nach § 9f des Seeaufgabengesetzes als zuständige Stelle im Sinne des Artikels 9 der Richtlinie (EU) 2022/993 tätig. Ihm obliegen die für die Aufdeckung und Bekämpfung von Täuschungen oder sonstigen rechtswidrigen Praktiken im Zusammenhang mit der Erteilung und Gültigkeitsverlängerung von Bescheinigungen erforderlichen Maßnahmen. Dies umfasst auch den Informationsaustausch mit den zuständigen ausländischen Stellen im Sinne des Artikels 9 Absatz 2 der Richtlinie (EU) 2022/993 unter Beachtung der Vorschriften des § 9f Absatz 4 und 5 des Seeaufgabengesetzes.
 
 
 #### § 24 Genehmigungen bei Abweichungen vom Ausbildungsgang und dem Erwerb von Bescheinigungen
@@ -704,7 +707,7 @@ Das Bundesamt wird im Rahmen der Führung des Seeleute-Befähigungs-Verzeichniss
 
 #### § 25 Ausnahmegenehmigungen
 
-Das Bundesamt kann, wenn Personen, Sachwerte und die Umwelt nicht gefährdet werden, auf Antrag eine Ausnahme nach Maßgabe des Artikels VIII des STCW-Übereinkommens oder des Artikels 16 der Richtlinie 2008/106/EG genehmigen, die es einem bestimmten Schiffsoffizier gestattet, auf einem bestimmten Kauffahrteischiff, das die Bundesflagge führt, während einer bestimmten Zeit, längstens für sechs Monate, Aufgaben wahrzunehmen, für die kein entsprechendes Befähigungszeugnis vorhanden ist. Für die Aufgaben des Kapitäns oder des Leiters der Maschinenanlage darf keine Ausnahme genehmigt werden, ausgenommen in Fällen höherer Gewalt, und auch dann nur für möglichst kurze Zeit.
+Das Bundesamt kann, wenn Personen, Sachwerte und die Umwelt nicht gefährdet werden, auf Antrag eine Ausnahme nach Maßgabe des Artikels VIII des STCW-Übereinkommens oder des Artikels 17 der Richtlinie (EU) 2022/993 genehmigen, die es einem bestimmten Schiffsoffizier gestattet, auf einem bestimmten Kauffahrteischiff, das die Bundesflagge führt, während einer bestimmten Zeit, längstens für sechs Monate, Aufgaben wahrzunehmen, für die kein entsprechendes Befähigungszeugnis vorhanden ist. Für die Aufgaben des Kapitäns oder des Leiters der Maschinenanlage darf keine Ausnahme genehmigt werden, ausgenommen in Fällen höherer Gewalt, und auch dann nur für möglichst kurze Zeit.
 
 
 #### § 26 Mitführungspflicht
@@ -1057,7 +1060,7 @@ Das Befähigungszeugnis zum Zweiten technischen Schiffsoffizier schließt die Be
 
 
 
-nachzuweisen. Im Falle des Satzes 1 Nummer 1 Buchstabe c kann Ausbildung und Seefahrtzeit auch als schulrechtliches Praktikum oder in Form von Praxissemestern während der Ausbildung an einer nach Landesrecht eingerichteten Ausbildungsstätte abgeleistet werden. Der Bewerber hat im Falle des Satzes 2 ein Ausbildungsberichtsheft zu führen, in dem der Leiter der Maschinenanlage oder ein befähigter Schiffsoffizier bestätigt, dass während der vorgeschriebenen Seefahrtzeit mindestens sechs Monate lang unter der Aufsicht des Leiters der Maschinenanlage oder eines befähigten Schiffsoffiziers Maschinenwachdienst geleistet und mit der Ausbildung an Bord die entsprechenden Anforderungen des Abschnittes A-III/1 des STCW-Codes erfüllt wurden.
+nachzuweisen. Im Falle des Satzes 1 Nummer 1 Buchstabe d kann Ausbildung und Seefahrtzeit auch als schulrechtliches Praktikum oder in Form von Praxissemestern während der Ausbildung an einer nach Landesrecht eingerichteten Ausbildungsstätte abgeleistet werden. Der Bewerber hat im Falle des Satzes 2 ein Ausbildungsberichtsheft zu führen, in dem der Leiter der Maschinenanlage oder ein befähigter Schiffsoffizier bestätigt, dass während der vorgeschriebenen Seefahrtzeit mindestens sechs Monate lang unter der Aufsicht des Leiters der Maschinenanlage oder eines befähigten Schiffsoffiziers Maschinenwachdienst geleistet und mit der Ausbildung an Bord die entsprechenden Anforderungen des Abschnittes A-III/1 des STCW-Codes erfüllt wurden.
 
 (2) Für den Erwerb des Zeugnisses über die Befähigung zum Zweiten technischen Schiffsoffizier TZO hat der Bewerber eine Seefahrtzeit von mindestens zwölf Monaten in der Dienststellung als Technischer Wachoffizier TWO nachzuweisen. Zum Zeitpunkt der Antragstellung muss der Fortbestand der Befähigung nach § 53 nachgewiesen werden.
 
@@ -1242,7 +1245,7 @@ nachzuweisen.
 
 Die Ausbildung nach Satz 1 Nummer 2 muss auch die Fachkunde im sicheren Umgang mit Freifallrettungsbooten vermitteln.
 
-(3) Für den Schiffsdienst auf schnellen Bereitschaftsbooten wird auf Antrag der Befähigungsnachweis über die Befähigung zum Führen von schnellen Bereitschaftsbooten SSB erteilt.
+(3) Für den Schiffsdienst auf schnellen Bereitschaftsbooten wird auf Antrag der Befähigungsnachweis über die Befähigung zum Führen von schnellen Bereitschaftsbooten SBB erteilt.
 
 (4) Für den Erwerb des Befähigungsnachweises nach Absatz 3 hat der Bewerber nachzuweisen
 
@@ -1280,7 +1283,7 @@ Für den Dienst als Beauftragter für die Gefahrenabwehr auf dem Schiff wird auf
 
 ### § 48 Befähigungsnachweise für Besatzungsmitglieder in der Gefahrenabwehr auf dem Schiff (Grundausbildung in der Gefahrenabwehr)
 
-(1) Für Seeleute wird auf Antrag der Befähigungsnachweis über eine Grundausbildung in der Gefahrenabwehr SRT auf dem Schiff erteilt. Unbeschadet der Verpflichtung des Kapitäns nach § 23 des Seearbeitsgesetzes zur Sicherheitsunterweisung müssen alle Personen, die keine Fahrgäste sind, eine Einführungsunterweisung an Bord nach Abschnitt A-VI/6 Absatz 1 des STCW-Codes durch den Beauftragten für die Gefahrenabwehr auf dem Schiff oder ein anderes qualifiziertes Besatzungsmitglied erhalten, damit sie befähigt sind,
+(1) Für Seeleute wird auf Antrag der Befähigungsnachweis über eine Grundausbildung in der Gefahrenabwehr auf dem Schiff SRT erteilt. Unbeschadet der Verpflichtung des Kapitäns nach § 23 des Seearbeitsgesetzes zur Sicherheitsunterweisung müssen alle Personen, die keine Fahrgäste sind, eine Einführungsunterweisung an Bord nach Abschnitt A-VI/6 Absatz 1 des STCW-Codes durch den Beauftragten für die Gefahrenabwehr auf dem Schiff oder ein anderes qualifiziertes Besatzungsmitglied erhalten, damit sie befähigt sind,
 
 1.  Gefahren für die Sicherheit, einschließlich Bedrohungen durch Piraten oder andere bewaffnete Überfälle, zu erkennen und zu melden,
 
@@ -1807,6 +1810,12 @@ Für Befähigungszeugnisse und Befähigungsnachweise im nautischen Schiffsdienst
     *   NWO 500
 
     *   Nautischer Wachoffizier küstennahe Fahrt BRZ 500
+
+
+*    *
+    *   NK 500
+
+    *   Kapitän küstennahe Fahrt BRZ 500
 
 
 *    *
@@ -4319,7 +4328,7 @@ Metallbearbeitung in einer Lehrwerkstatt oder überbetrieblichen Ausbildungsstä
 11.1 Prüfen von Bauteilen auf Oberflächenbeschaffenheit der Fügeflächen und Formtoleranz sowie Fixieren in montagegerechter Lage
 
 
-11.2 Verbinden und Sichern von Bauteile mit Schrauben, Muttern und Sicherungselementen unter Beachtung der Reihenfolge und des Anzugdrehmomentes sowie der Werkstoffpaarung
+11.2 Verbinden und Sichern von Bauteilen mit Schrauben, Muttern und Sicherungselementen unter Beachtung der Reihenfolge und des Anzugdrehmomentes sowie der Werkstoffpaarung
 
 
 
@@ -4404,7 +4413,7 @@ Elektrofertigung in einer Lehrwerkstatt oder überbetrieblichen Ausbildungsstät
 4.1 Unterscheiden von Messgeräten
 
 
-4.2 Auswählen von Messgeräten nach Art, der zu messenden Größen
+4.2 Auswählen von Messgeräten nach Art der zu messenden Größen
 
 
 4.3 Aufbauen von Messschaltungen und Darstellen von Signalinformationen

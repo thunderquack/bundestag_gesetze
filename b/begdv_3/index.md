@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1966, 300
 
 Stand: Konstitutive Neufassung gem. Art. I V v. 28.4.1966 I 300, in Kraft getreten am 4.5.1966
-Stand: Ersetzt V v. 6.4.1955 I 157
 Zuletzt geändert durch
-:   Art. 3 V v. 2.12.2021 I 5049
+:   Art. 3 V v. 17.4.2024 I Nr. 130
 
+Stand: Ersetzt V v. 6.4.1955 I 157
 
 ## I. - Selbständige Berufe
 
@@ -798,9 +798,10 @@ Der monatliche Höchstbetrag der Rente beträgt
     *
     *
 
-*    *   ab
+*    *   vom
 
-    *
+    *   ab
+
     *
     *
     *
@@ -808,20 +809,23 @@ Der monatliche Höchstbetrag der Rente beträgt
 
 *    *   1.9.2021
 
+    *   1.12.2023
+
+    *
+    *
+    *
+    *
+
+*    *   bis
+
     *
     *
     *
     *
     *
 
-*    *
-    *
-    *
-    *
-    *
-    *
+*    *   30.11.2023
 
-*    *
     *
     *
     *
@@ -830,7 +834,8 @@ Der monatliche Höchstbetrag der Rente beträgt
 
 *    *   Euro
 
-    *
+    *   Euro
+
     *
     *
     *
@@ -838,7 +843,8 @@ Der monatliche Höchstbetrag der Rente beträgt
 
 *    *   2 641
 
-    *
+    *   2 939
+
     *
     *
     *
@@ -1228,11 +1234,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         31\.8.2021
         Euro
 
-    *   ab
+    *   vom
         1\.9.2021
+        bis
+        30\.11.2023
         Euro
 
-    *
+    *   ab
+        1\.12.2023
+        Euro
+
     *
     *
     *
@@ -1241,7 +1252,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   776
 
-    *
+    *   864
+
     *
     *
     *
@@ -1393,7 +1405,7 @@ Für die Berücksichtigung des durch anderweitige Verwertung der Arbeitskraft er
 
 (3) Für die Einreihung in die Lebensaltersstufen ist das Lebensalter des Verfolgten in dem Zeitpunkt maßgebend, in dem die Voraussetzungen für den Anspruch auf Rente erfüllt waren.
 
-(4) Die monatlichen Rentenbeträge, die sich nach Maßgabe der Absätze 1 bis 3 errechnen, werden ab 1. Januar 1966 um 4 vom Hundert erhöht. Die sich danach ergebenden Rentenbeträge bis 750 Deutsche Mark monatlich werden ab 1. Oktober 1966 um weitere 4 vom Hundert erhöht; Rentenbeträge ab 751 Deutsche Mark monatlich werden ab 1. Oktober 1966 um 3 vom Hundert, mindestens jedoch um einen monatlichen Betrag von 30 Deutsche Mark erhöht. Die sich nach Satz 2 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Juli 1968 um weitere 4 vom Hundert erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Juli 1968 um 3,5 vom Hundert, mindestens jedoch um einen monatlichen Betrag von 36 Deutsche Mark erhöht. Die sich nach Satz 3 ergebenden Rentenbeträge bis 1 000 Deutsche Mark monatlich werden ab 1. April 1969 um weitere 4,8 v.H. erhöht; Rentenbeträge ab 1 001 Deutsche Mark monatlich werden ab 1. April 1969 um 4,3 v.H., mindestens jedoch um einen monatlichen Betrag von 46 Deutsche Mark erhöht. Die sich nach Satz 4 ergebenden Rentenbeträge bis 1 100 Deutsche Mark monatlich werden ab 1. September 1969 um weitere 8 v.H. erhöht; Rentenbeträge ab 1 101 Deutsche Mark monatlich werden ab 1. September 1969 um 7 v.H., mindestens jedoch um einen monatlichen Betrag von 78 Deutsche Mark erhöht. Die sich nach Satz 5 ergebenden Rentenbeträge bis 1 100 Deutsche Mark monatlich werden ab 1. Januar 1971 um weitere 12 v.H. erhöht; Rentenbeträge ab 1 101 Deutsche Mark monatlich werden ab 1. Januar 1971 um 10 v.H., mindestens jedoch um einen monatlichen Betrag von 132 Deutsche Mark erhöht. Die sich nach Satz 6 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Januar 1972 um weitere 8 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Januar 1972 um 5 v.H., mindestens jedoch um einen monatlichen Betrag von 72 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 374 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 7 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Januar 1973 um weitere 9,5 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Januar 1973 um 7 v.H., mindestens jedoch um einen monatlichen Betrag von 86 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 471 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 8 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Januar 1974 um weitere 12 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Januar 1974 um 9 v.H., mindestens jedoch um einen monatlichen Betrag von 108 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 605 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 9 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Januar 1975 um weitere 6 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Januar 1975 um 5 v.H., mindestens jedoch um einen monatlichen Betrag von 54 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 686 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 10 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Februar 1976 um weitere 5 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Februar 1976 um 4 v.H., mindestens jedoch um einen monatlichen Betrag von 45 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 750 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 11 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Februar 1977 um weitere 5 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Februar 1977 um 4 v.H., mindestens jedoch um einen monatlichen Betrag von 45 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 821 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 12 ergebenden Rentenbeträge bis 1 200 Deutsche Mark monatlich werden ab 1. März 1978 um weitere 4,2 v.H. erhöht; Rentenbeträge ab 1 201 Deutsche Mark monatlich werden ab 1. März 1978 um 3,7 v.H., mindestens jedoch um einen monatlichen Betrag von 50 Deutsche Mark erhöht, wobei der Höchstbetrag von 1 888 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 13 ergebenden Rentenbeträge bis 1 200 Deutsche Mark monatlich werden ab 1. März 1979 um weitere 4 v.H. erhöht; Rentenbeträge ab 1 201 Deutsche Mark monatlich werden ab 1. März 1979 um 3,4 v.H., mindestens jedoch um einen monatlichen Betrag von 48 Deutsche Mark erhöht, wobei der Höchstbetrag von 1 949 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 14 ergebenden Rentenbeträge bis 1 300 Deutsche Mark monatlich werden ab 1. März 1980 um weitere 6 v.H. erhöht; Rentenbeträge ab 1 301 Deutsche Mark monatlich werden ab 1. März 1980 um 5,5 v.H., mindestens jedoch um einen monatlichen Betrag von 78 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 055 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 15 ergebenden Rentenbeträge bis 1 300 Deutsche Mark monatlich werden ab 1. März 1981 um weitere 4,3 v.H. erhöht; Rentenbeträge ab 1 301 Deutsche Mark monatlich werden ab 1. März 1981 um 4 v.H., mindestens jedoch um einen monatlichen Betrag von 56 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 131 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 16 ergebenden Rentenbeträge bis 1 300 Deutsche Mark monatlich werden ab 1. Juli 1982 um weitere 3,4 v.H. erhöht; Rentenbeträge ab 1 301 Deutsche Mark monatlich werden ab 1. Juli 1982 um 3,2 v.H., mindestens jedoch um einen monatlichen Betrag von 45 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 200 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 17 ergebenden Rentenbeträge bis 1 400 Deutsche Mark monatlich werden ab 1. Juli 1983 um weitere 1,8 v.H. erhöht, Rentenbeträge ab 1 401 Deutsche Mark monatlich werden ab 1. Juli 1983 um 1,7 v.H., mindestens jedoch um einen monatlichen Betrag von 25 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 237 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 18 ergebenden Rentenbeträge bis 1 300 Deutsche Mark monatlich werden ab 1. Januar 1985 um weitere 4 v.H. erhöht, Rentenbeträge ab 1 301 Deutsche Mark monatlich werden ab 1. Januar 1985 um 3,6 v.H., mindestens jedoch um einen monatlichen Betrag von 52 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 317 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Januar 1985 geltenden Rentenbeträge werden ab 1. Januar 1986 um weitere 3 v.H. erhöht, wobei der Höchstbetrag von 2 390 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Januar 1986 geltenden Rentenbeträge werden ab 1. Januar 1987 um 3,3 v.H. erhöht, wobei der Höchstbetrag von 2 471 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Januar 1987 geltenden Rentenbeträge werden ab 1. März 1988 um 2,3 v.H., ab 1. Januar 1989 um weitere 1,4 v.H. und ab 1. Januar 1990 um weitere 4,2 v.H. erhöht, wobei der jeweils geltende Höchstbetrag gemäß § 33a nicht überschritten werden darf. Die seit dem 1. Januar 1990 geltenden Rentenbeträge werden ab 1. März 1991 um weitere 5,8 v.H. erhöht, wobei der Höchstbetrag von 2 780 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. März 1991 geltenden Rentenbeträge werden ab 1. Mai 1992 um weitere 7,5 v.H. erhöht, wobei der Höchstbetrag von 2 913 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Mai 1992 geltenden Rentenbeträge werden ab 1. Mai 1993 um weitere 1,5 v.H. erhöht, wobei der Höchstbetrag von 3 019 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Mai 1993 geltenden Rentenbeträge bis einschließlich 1 650 DM werden ab 1. Oktober 1994, Rentenbeträge ab 1 651 DM aufwärts ab 1. Januar 1995 um weitere 2 v.H. erhöht, wobei der Höchstbetrag von 3 080 DM nicht überschritten werden darf. Die bisher geltenden Rentenbeträge werden ab 1. April 1995 um weitere 3,2 v.H. erhöht, wobei der Höchstbetrag von 3 178 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. April 1995 geltenden Rentenbeträge werden ab 1. März 1997 um weitere 1,9 v.H. erhöht, wobei der Höchstbetrag vn 3 230 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. März 1997 geltenden Rentenbeträge werden ab 1. Januar 1998 um weitere 0,9 v.H. erhöht, wobei der Höchstbetrag von 3 268 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Januar 1998 geltenden Rentenbeträge werden ab 1. März 1999 um weitere 2,9 v.H. erhöht, wobei der Höchstbetrag von 3 363 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. März 1999 geltenden Rentenbeträge werden ab dem 1. Januar 2001 um weitere 1,8 vom Hundert erhöht, wobei der Höchstbetrag von 3 424 Deutsche Mark nicht überschritten werden darf. Ab dem 1. Januar 2002 werden die Rentenbeträge um weitere 2,2 vom Hundert erhöht, wobei der Höchstbetrag von 1 789 Euro nicht überschritten werden darf. Die seit dem 1. Januar 2002 geltenden Rentenbeträge werden ab dem 1. Februar 2003 um weitere 2,4 vom Hundert erhöht, wobei der Höchstbetrag von 1 832 Euro nicht überschritten werden darf. Ab dem 1. April 2004 werden die Rentenbeträge um weitere 1 vom Hundert erhöht, wobei der Höchstbetrag von 1 850 Euro nicht überschritten werden darf. Ab dem 1. August 2004 werden die Rentenbeträge um weitere 1 vom Hundert erhöht, wobei der Höchstbetrag von 1 869 Euro nicht überschritten werden darf. Die seit dem 1. August 2004 geltenden Rentenbeträge werden ab dem 1. Juni 2008 um weitere 7,8 vom Hundert erhöht, wobei der Höchstbetrag von 2 014 Euro nicht überschritten werden darf. Die seit dem 1. Juni 2008 geltenden Rentenbeträge werden ab dem 1. Juli 2010 um weitere 2,1 vom Hundert erhöht, wobei der Höchstbetrag von 2 057 Euro nicht überschritten werden darf. Die seit dem 1. Juli 2010 geltenden Rentenbeträge werden ab dem 1. Oktober 2012 um weitere 5,7 Prozent erhöht, wobei der Höchstbetrag von 2 174 Euro nicht überschritten werden darf. Die seit dem 1. Oktober 2012 geltenden Rentenbeträge werden ab dem 1. August 2014 um 5 Prozent erhöht, wobei der Höchstbetrag von 2 283 Euro nicht überschritten werden darf. Die seit dem 1. August 2014 geltenden Rentenbeträge werden ab dem 1. September 2016 um 4,6 Prozent erhöht, wobei der Höchstbetrag von 2 388 Euro nicht überschritten werden darf. Die seit dem 1. September 2016 geltenden Rentenbeträge werden ab dem 1. Januar 2019 um 7,3 Prozent erhöht, wobei der Höchstbetrag von 2 562 Euro nicht überschritten werden darf. Die seit dem 1. Januar 2019 geltenden Rentenbeträge werden ab dem 1. September 2021 um 3,1 Prozent erhöht, wobei der Höchstbetrag von 2 641 Euro nicht überschritten werden darf.
+(4) Die monatlichen Rentenbeträge, die sich nach Maßgabe der Absätze 1 bis 3 errechnen, werden ab 1. Januar 1966 um 4 vom Hundert erhöht. Die sich danach ergebenden Rentenbeträge bis 750 Deutsche Mark monatlich werden ab 1. Oktober 1966 um weitere 4 vom Hundert erhöht; Rentenbeträge ab 751 Deutsche Mark monatlich werden ab 1. Oktober 1966 um 3 vom Hundert, mindestens jedoch um einen monatlichen Betrag von 30 Deutsche Mark erhöht. Die sich nach Satz 2 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Juli 1968 um weitere 4 vom Hundert erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Juli 1968 um 3,5 vom Hundert, mindestens jedoch um einen monatlichen Betrag von 36 Deutsche Mark erhöht. Die sich nach Satz 3 ergebenden Rentenbeträge bis 1 000 Deutsche Mark monatlich werden ab 1. April 1969 um weitere 4,8 v.H. erhöht; Rentenbeträge ab 1 001 Deutsche Mark monatlich werden ab 1. April 1969 um 4,3 v.H., mindestens jedoch um einen monatlichen Betrag von 46 Deutsche Mark erhöht. Die sich nach Satz 4 ergebenden Rentenbeträge bis 1 100 Deutsche Mark monatlich werden ab 1. September 1969 um weitere 8 v.H. erhöht; Rentenbeträge ab 1 101 Deutsche Mark monatlich werden ab 1. September 1969 um 7 v.H., mindestens jedoch um einen monatlichen Betrag von 78 Deutsche Mark erhöht. Die sich nach Satz 5 ergebenden Rentenbeträge bis 1 100 Deutsche Mark monatlich werden ab 1. Januar 1971 um weitere 12 v.H. erhöht; Rentenbeträge ab 1 101 Deutsche Mark monatlich werden ab 1. Januar 1971 um 10 v.H., mindestens jedoch um einen monatlichen Betrag von 132 Deutsche Mark erhöht. Die sich nach Satz 6 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Januar 1972 um weitere 8 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Januar 1972 um 5 v.H., mindestens jedoch um einen monatlichen Betrag von 72 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 374 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 7 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Januar 1973 um weitere 9,5 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Januar 1973 um 7 v.H., mindestens jedoch um einen monatlichen Betrag von 86 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 471 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 8 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Januar 1974 um weitere 12 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Januar 1974 um 9 v.H., mindestens jedoch um einen monatlichen Betrag von 108 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 605 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 9 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Januar 1975 um weitere 6 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Januar 1975 um 5 v.H., mindestens jedoch um einen monatlichen Betrag von 54 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 686 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 10 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Februar 1976 um weitere 5 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Februar 1976 um 4 v.H., mindestens jedoch um einen monatlichen Betrag von 45 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 750 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 11 ergebenden Rentenbeträge bis 900 Deutsche Mark monatlich werden ab 1. Februar 1977 um weitere 5 v.H. erhöht; Rentenbeträge ab 901 Deutsche Mark monatlich werden ab 1. Februar 1977 um 4 v.H., mindestens jedoch um einen monatlichen Betrag von 45 Deutsche Mark erhöht, wobei jedoch der Höchstbetrag von 1 821 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 12 ergebenden Rentenbeträge bis 1 200 Deutsche Mark monatlich werden ab 1. März 1978 um weitere 4,2 v.H. erhöht; Rentenbeträge ab 1 201 Deutsche Mark monatlich werden ab 1. März 1978 um 3,7 v.H., mindestens jedoch um einen monatlichen Betrag von 50 Deutsche Mark erhöht, wobei der Höchstbetrag von 1 888 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 13 ergebenden Rentenbeträge bis 1 200 Deutsche Mark monatlich werden ab 1. März 1979 um weitere 4 v.H. erhöht; Rentenbeträge ab 1 201 Deutsche Mark monatlich werden ab 1. März 1979 um 3,4 v.H., mindestens jedoch um einen monatlichen Betrag von 48 Deutsche Mark erhöht, wobei der Höchstbetrag von 1 949 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 14 ergebenden Rentenbeträge bis 1 300 Deutsche Mark monatlich werden ab 1. März 1980 um weitere 6 v.H. erhöht; Rentenbeträge ab 1 301 Deutsche Mark monatlich werden ab 1. März 1980 um 5,5 v.H., mindestens jedoch um einen monatlichen Betrag von 78 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 055 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 15 ergebenden Rentenbeträge bis 1 300 Deutsche Mark monatlich werden ab 1. März 1981 um weitere 4,3 v.H. erhöht; Rentenbeträge ab 1 301 Deutsche Mark monatlich werden ab 1. März 1981 um 4 v.H., mindestens jedoch um einen monatlichen Betrag von 56 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 131 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 16 ergebenden Rentenbeträge bis 1 300 Deutsche Mark monatlich werden ab 1. Juli 1982 um weitere 3,4 v.H. erhöht; Rentenbeträge ab 1 301 Deutsche Mark monatlich werden ab 1. Juli 1982 um 3,2 v.H., mindestens jedoch um einen monatlichen Betrag von 45 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 200 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 17 ergebenden Rentenbeträge bis 1 400 Deutsche Mark monatlich werden ab 1. Juli 1983 um weitere 1,8 v.H. erhöht, Rentenbeträge ab 1 401 Deutsche Mark monatlich werden ab 1. Juli 1983 um 1,7 v.H., mindestens jedoch um einen monatlichen Betrag von 25 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 237 Deutsche Mark nicht überschritten werden darf. Die sich nach Satz 18 ergebenden Rentenbeträge bis 1 300 Deutsche Mark monatlich werden ab 1. Januar 1985 um weitere 4 v.H. erhöht, Rentenbeträge ab 1 301 Deutsche Mark monatlich werden ab 1. Januar 1985 um 3,6 v.H., mindestens jedoch um einen monatlichen Betrag von 52 Deutsche Mark erhöht, wobei der Höchstbetrag von 2 317 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Januar 1985 geltenden Rentenbeträge werden ab 1. Januar 1986 um weitere 3 v.H. erhöht, wobei der Höchstbetrag von 2 390 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Januar 1986 geltenden Rentenbeträge werden ab 1. Januar 1987 um 3,3 v.H. erhöht, wobei der Höchstbetrag von 2 471 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Januar 1987 geltenden Rentenbeträge werden ab 1. März 1988 um 2,3 v.H., ab 1. Januar 1989 um weitere 1,4 v.H. und ab 1. Januar 1990 um weitere 4,2 v.H. erhöht, wobei der jeweils geltende Höchstbetrag gemäß § 33a nicht überschritten werden darf. Die seit dem 1. Januar 1990 geltenden Rentenbeträge werden ab 1. März 1991 um weitere 5,8 v.H. erhöht, wobei der Höchstbetrag von 2 780 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. März 1991 geltenden Rentenbeträge werden ab 1. Mai 1992 um weitere 7,5 v.H. erhöht, wobei der Höchstbetrag von 2 913 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Mai 1992 geltenden Rentenbeträge werden ab 1. Mai 1993 um weitere 1,5 v.H. erhöht, wobei der Höchstbetrag von 3 019 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Mai 1993 geltenden Rentenbeträge bis einschließlich 1 650 DM werden ab 1. Oktober 1994, Rentenbeträge ab 1 651 DM aufwärts ab 1. Januar 1995 um weitere 2 v.H. erhöht, wobei der Höchstbetrag von 3 080 DM nicht überschritten werden darf. Die bisher geltenden Rentenbeträge werden ab 1. April 1995 um weitere 3,2 v.H. erhöht, wobei der Höchstbetrag von 3 178 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. April 1995 geltenden Rentenbeträge werden ab 1. März 1997 um weitere 1,9 v.H. erhöht, wobei der Höchstbetrag vn 3 230 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. März 1997 geltenden Rentenbeträge werden ab 1. Januar 1998 um weitere 0,9 v.H. erhöht, wobei der Höchstbetrag von 3 268 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. Januar 1998 geltenden Rentenbeträge werden ab 1. März 1999 um weitere 2,9 v.H. erhöht, wobei der Höchstbetrag von 3 363 Deutsche Mark nicht überschritten werden darf. Die seit dem 1. März 1999 geltenden Rentenbeträge werden ab dem 1. Januar 2001 um weitere 1,8 vom Hundert erhöht, wobei der Höchstbetrag von 3 424 Deutsche Mark nicht überschritten werden darf. Ab dem 1. Januar 2002 werden die Rentenbeträge um weitere 2,2 vom Hundert erhöht, wobei der Höchstbetrag von 1 789 Euro nicht überschritten werden darf. Die seit dem 1. Januar 2002 geltenden Rentenbeträge werden ab dem 1. Februar 2003 um weitere 2,4 vom Hundert erhöht, wobei der Höchstbetrag von 1 832 Euro nicht überschritten werden darf. Ab dem 1. April 2004 werden die Rentenbeträge um weitere 1 vom Hundert erhöht, wobei der Höchstbetrag von 1 850 Euro nicht überschritten werden darf. Ab dem 1. August 2004 werden die Rentenbeträge um weitere 1 vom Hundert erhöht, wobei der Höchstbetrag von 1 869 Euro nicht überschritten werden darf. Die seit dem 1. August 2004 geltenden Rentenbeträge werden ab dem 1. Juni 2008 um weitere 7,8 vom Hundert erhöht, wobei der Höchstbetrag von 2 014 Euro nicht überschritten werden darf. Die seit dem 1. Juni 2008 geltenden Rentenbeträge werden ab dem 1. Juli 2010 um weitere 2,1 vom Hundert erhöht, wobei der Höchstbetrag von 2 057 Euro nicht überschritten werden darf. Die seit dem 1. Juli 2010 geltenden Rentenbeträge werden ab dem 1. Oktober 2012 um weitere 5,7 Prozent erhöht, wobei der Höchstbetrag von 2 174 Euro nicht überschritten werden darf. Die seit dem 1. Oktober 2012 geltenden Rentenbeträge werden ab dem 1. August 2014 um 5 Prozent erhöht, wobei der Höchstbetrag von 2 283 Euro nicht überschritten werden darf. Die seit dem 1. August 2014 geltenden Rentenbeträge werden ab dem 1. September 2016 um 4,6 Prozent erhöht, wobei der Höchstbetrag von 2 388 Euro nicht überschritten werden darf. Die seit dem 1. September 2016 geltenden Rentenbeträge werden ab dem 1. Januar 2019 um 7,3 Prozent erhöht, wobei der Höchstbetrag von 2 562 Euro nicht überschritten werden darf. Die seit dem 1. Januar 2019 geltenden Rentenbeträge werden ab dem 1. September 2021 um 3,1 Prozent erhöht, wobei der Höchstbetrag von 2 641 Euro nicht überschritten werden darf. Die seit dem 1. September 2021 geltenden Rentenbeträge werden ab dem 1. Dezember 2023 um 11,3 Prozent erhöht, wobei der Höchstbetrag von 2 939 Euro nicht überschritten werden darf.
 
 (5) Die Rente wird mit Wirkung vom Ersten des Monats an gezahlt, in dem der Verfolgte das 65. Lebensjahr vollendet hat oder in seinem Beruf nicht mehr als 50 vom Hundert arbeitsfähig ist, frühestens jedoch vom 1. November 1953 an. Bei Frauen tritt an Stelle des 65. das 60. Lebensjahr.
 
@@ -2001,9 +2013,10 @@ Der monatliche Höchstbetrag der Rente beträgt
     *
     *
 
-*    *   ab
+*    *   vom
 
-    *
+    *   ab
+
     *
     *
     *
@@ -2011,20 +2024,23 @@ Der monatliche Höchstbetrag der Rente beträgt
 
 *    *   1.9.2021
 
+    *   1.12.2023
+
+    *
+    *
+    *
+    *
+
+*    *   bis
+
     *
     *
     *
     *
     *
 
-*    *
-    *
-    *
-    *
-    *
-    *
+*    *   30.11.2023
 
-*    *
     *
     *
     *
@@ -2033,7 +2049,8 @@ Der monatliche Höchstbetrag der Rente beträgt
 
 *    *   Euro
 
-    *
+    *   Euro
+
     *
     *
     *
@@ -2041,7 +2058,8 @@ Der monatliche Höchstbetrag der Rente beträgt
 
 *    *   2 641
 
-    *
+    *   2 939
+
     *
     *
     *
@@ -2672,8 +2690,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         31\.8.2021
         Euro
 
-    *   ab
+    *   vom
         1\.9.2021
+        bis
+        30\.11.2023
         Euro
 
 
@@ -2710,9 +2730,42 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   139
 
 
+*    *
+    *   ab
+        1\.12.2023
+        Euro
+
+    *
+    *
+    *
+
+*    *   den unverheirateten Verfolgten
+
+    *   1 488
+
+    *
+    *
+    *
+
+*    *   den verheirateten Verfolgten
+
+    *   1 874
+
+    *
+    *
+    *
+
+*    *   jedes nach dem bis zum 31.12.1974 geltenden Beamtenrecht kinderzuschlagsberechtigte Kind
+
+    *   155
+
+    *
+    *
+    *
 
 
-(4) Die §§ 26 und 27 finden entsprechende Anwendung.
+
+   (4) Die §§ 26 und 27 finden entsprechende Anwendung.
 
 
 ##### § 35 Grundlagen der Berechnung für die Rente des überlebenden Ehegatten und der Kinder
@@ -3045,9 +3098,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Euro,
 
 
-*    *   ab 1. September 2021
+*    *   bis 30. November 2023
 
     *   1 218
+
+    *   Euro,
+
+
+*    *   ab 1. Dezember 2023
+
+    *   1 356
 
     *   Euro.
 
@@ -3285,9 +3345,14 @@ Diese Beträge erhöhen sich für jedes Kind, für das nach dem bis zum 31. Deze
     *   135 Euro,
 
 
-*    *   ab 1. September 2021
+*    *   bis 30. November 2023
 
-    *   139 Euro.
+    *   139 Euro,
+
+
+*    *   ab 1. Dezember 2023
+
+    *   155 Euro.
 
 
 
@@ -3524,9 +3589,14 @@ Diese Beträge erhöhen sich für jedes Kind, für das nach dem bis zum 31. Deze
     *   424 Euro,
 
 
-*    *   ab 1. September 2021
+*    *   bis 30. November 2023
 
-    *   437 Euro.
+    *   437 Euro,
+
+
+*    *   ab 1. Dezember 2023
+
+    *   486 Euro.
 
 
 
@@ -3763,9 +3833,14 @@ Diese Beträge erhöhen sich für jedes Kind, für das nach dem bis zum 31. Deze
     *   556 Euro,
 
 
-*    *   ab 1. September 2021
+*    *   bis 30. November 2023
 
-    *   573 Euro.
+    *   573 Euro,
+
+
+*    *   ab 1. Dezember 2023
+
+    *   638 Euro.
 
 
 
@@ -4076,7 +4151,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   ab 1.9.2021
         Euro
 
-    *
+    *   ab 1.12.2023
+        Euro
+
     *
     *
     *
@@ -4086,7 +4163,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   836
 
-    *
+    *   930
+
     *
     *
     *
@@ -4334,7 +4412,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   ab 1.9.2021
         Euro
 
-    *
+    *   ab 1.12.2023
+        Euro
+
     *
     *
     *
@@ -4344,7 +4424,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   642
 
-    *
+    *   715
+
     *
     *
     *
@@ -4592,7 +4673,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   ab 1.9.2021
         Euro
 
-    *
+    *   ab 1.12.2023
+        Euro
+
     *
     *
     *
@@ -4602,7 +4685,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   321
 
-    *
+    *   357
+
     *
     *
     *
@@ -5806,13 +5890,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   29 630
 
     *   31 802
 
     *   32 888
+
+    *
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   32 978
+
+    *   35 396
+
+    *   36 604
 
     *
 
@@ -6530,13 +6626,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   33 429
 
     *   38 182
 
     *   40 556
+
+    *
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   37 206
+
+    *   42 497
+
+    *   45 139
 
     *
 
@@ -7254,13 +7362,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   40 661
 
     *   46 716
 
     *   49 748
+
+    *
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   45 256
+
+    *   51 995
+
+    *   55 370
 
     *
 
@@ -8008,7 +8128,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   51 973
 
@@ -8019,9 +8139,44 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   66 029
 
 
+*    *
+    *
+    *
+    *   Bis zum
+        vollendeten
+        35\.
+        Lebensjahr
+        Euro
+
+    *   Bis zum
+        vollendeten
+        45\.
+        Lebensjahr
+        Euro
+
+    *   Ab
+        vollendetem
+        45\.
+        Lebensjahr
+        Euro
+
+    *
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   57 846
+
+    *   65 667
+
+    *   69 580
+
+    *
 
 
-(zu § 22 der 3. DV-BEG)
+
+   (zu § 22 der 3. DV-BEG)
 
 ### Anlage 5a Besoldungsübersicht Rente
 
@@ -11009,13 +11164,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   29 630
 
     *   31 802
 
     *   32 888
+
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   32 978
+
+    *   35 396
+
+    *   36 604
 
 
 *    *   2.
@@ -11442,13 +11608,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   13 334
 
     *   20 671
 
     *   24 008
+
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   14 840
+
+    *   23 007
+
+    *   26 721
 
 
 *    *   3.
@@ -11875,13 +12052,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   8 892
 
     *   13 776
 
     *   16 008
+
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   9 888
+
+    *   15 336
+
+    *   17 820
 
 
 *    *   4.
@@ -12315,13 +12503,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   741
 
     *   1 148
 
     *   1 334
+
+
+*    *
+    *
+    *
+    *   ab 1.12.2023
+
+    *   824
+
+    *   1 278
+
+    *   1 485
 
 
 *    *   2.
@@ -12753,13 +12953,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   33 429
 
     *   38 182
 
     *   40 556
+
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   37 206
+
+    *   42 497
+
+    *   45 139
 
 
 *    *   2.
@@ -13186,13 +13397,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   15 043
 
     *   24 818
 
     *   29 606
+
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   16 743
+
+    *   27 623
+
+    *   32 951
 
 
 *    *   3.
@@ -13619,13 +13841,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   10 032
 
     *   16 548
 
     *   19 740
+
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   11 160
+
+    *   18 420
+
+    *   21 972
 
 
 *    *   4.
@@ -14059,13 +14292,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   836
 
     *   1 379
 
     *   1 645
+
+
+*    *
+    *
+    *
+    *   ab 1.12.2023
+
+    *   930
+
+    *   1 535
+
+    *   1 831
 
 
 *    *   3.
@@ -14498,13 +14743,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   40 661
 
     *   46 716
 
     *   49 748
+
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   45 256
+
+    *   51 995
+
+    *   55 370
 
 
 *    *   2.
@@ -14931,13 +15187,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   18 297
 
     *   30 365
 
     *   36 316
+
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   20 365
+
+    *   33 797
+
+    *   40 420
 
 
 *    *   3.
@@ -15364,13 +15631,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   12 204
 
     *   20 244
 
     *   24 216
+
+
+*    *
+    *
+    *   ab 1.12.2023
+
+    *   13 572
+
+    *   22 536
+
+    *   26 952
 
 
 *    *   4.
@@ -15804,13 +16082,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   1 017
 
     *   1 687
 
     *   2 018
+
+
+*    *
+    *
+    *
+    *   ab 1.12.2023
+
+    *   1 131
+
+    *   1 878
+
+    *   2 246
 
 
 
@@ -16408,7 +16698,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   51 973
 
@@ -16418,6 +16708,43 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   66 029
 
+
+*    *
+    *
+    *
+    *
+    *   Bis zum
+        vollendeten
+        35\.
+        Lebensjahr
+        Euro
+
+    *   Bis zum
+        vollendeten
+        45\.
+        Lebensjahr
+        Euro
+
+    *   Ab
+        vollendetem
+        45\.
+        Lebensjahr
+        Euro
+
+    *
+
+*    *
+    *
+    *
+    *   ab 1.12.2023
+
+    *   57 846
+
+    *   65 667
+
+    *   69 580
+
+    *
 
 *    *
     *   2.
@@ -16998,7 +17325,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   18 346
 
@@ -17008,6 +17335,43 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   47 541
 
+
+*    *
+    *
+    *
+    *
+    *   Bis zum
+        vollendeten
+        35\.
+        Lebensjahr
+        Euro
+
+    *   Bis zum
+        vollendeten
+        45\.
+        Lebensjahr
+        Euro
+
+    *   Ab
+        vollendetem
+        45\.
+        Lebensjahr
+        Euro
+
+    *
+
+*    *
+    *
+    *
+    *   ab 1.12.2023
+
+    *   20 420
+
+    *   36 117
+
+    *   48 010
+
+    *
 
 *    *
     *   3.
@@ -17588,7 +17952,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   12 228
 
@@ -17598,6 +17962,43 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   31 692
 
+
+*    *
+    *
+    *
+    *
+    *   Bis zum
+        vollendeten
+        35\.
+        Lebensjahr
+        Euro
+
+    *   Bis zum
+        vollendeten
+        45\.
+        Lebensjahr
+        Euro
+
+    *   Ab
+        vollendetem
+        45\.
+        Lebensjahr
+        Euro
+
+    *
+
+*    *
+    *
+    *
+    *   ab 1.12.2023
+
+    *   13 608
+
+    *   24 084
+
+    *   32 004
+
+    *
 
 *    *
     *   4.
@@ -18178,7 +18579,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1.9.2021
+    *   bis 30.11.2023
 
     *   1 019
 
@@ -18188,6 +18589,43 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   2 641
 
+
+*    *
+    *
+    *
+    *
+    *   Bis zum
+        vollendeten
+        35\.
+        Lebensjahr
+        Euro
+
+    *   Bis zum
+        vollendeten
+        45\.
+        Lebensjahr
+        Euro
+
+    *   Ab
+        vollendetem
+        45\.
+        Lebensjahr
+        Euro
+
+    *
+
+*    *
+    *
+    *
+    *   ab 1.12.2023
+
+    *   1 134
+
+    *   2 007
+
+    *   2 667
+
+    *
 
 
 

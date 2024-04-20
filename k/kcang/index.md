@@ -379,9 +379,6 @@ Cannabis und Vermehrungsmaterial sind am Wohnsitz und am gewöhnlichen Aufenthal
 ### Abschnitt 1 - (zukünftig in Kraft)
 
 
-### Abschnitt 1 - Erlaubnis für den gemeinschaftlichen Eigenanbau und die Weitergabe von Cannabis in Anbauvereinigungen
-
-
 #### (XXXX) §§ 11 bis 15 (zukünftig in Kraft)
 
 

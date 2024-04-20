@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 27.2.2024 I Nr. 66
 
+Änderung durch
+:   Art. 1 V v. 17.4.2024 I Nr. 132 mWv 20.4.2024 noch nicht berücksichtigt
+
 Diese Verordnung dient in Teilen auch der Umsetzung der Richtlinien des Rates
 
 -   82/176/EWG vom 22. März 1982 betreffend Grenzwerte und Qualitätsziele für Quecksilberableitungen aus dem Industriezweig Alkalichloridelektrolyse (ABl. EG Nr. L 81 S. 29),

@@ -17,10 +17,10 @@ Fundstelle
 :   BGBl I: 2007, 1816, 1864
 
 Neugefasst durch
-:   Bek. v. 3.9.2018 I 1358;
+:   Bek. v. 3.9.2018 I 1358, 1844
 
-Geändert durch
-:   Art. 3 V v. 19.6.2020 I 1480
+Zuletzt geändert durch
+:   Art. 2 V v. 11.4.2024 I Nr. 129
 
 [^F804041_01_BJNR186400007]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 241 vom 17.9.2015, S. 1).
 [^F804041_02_BJNR186400007]:     Die Verpflichtung aus Artikel 17 Absatz 5 der Verordnung (EG) Nr. 854/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit besonderen Verfahrensvorschriften für die amtliche Überwachung von zum menschlichen Verzehr bestimmten Erzeugnissen tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 206; L 226 vom 25.6.2004, S. 83) ist beachtet worden.
@@ -196,7 +196,7 @@ Die zuständige Behörde hat in landwirtschaftlichen Betrieben, in denen kleine 
 
 (1) Bei Tieren, die nach § 2a Absatz 1 der Tierische Lebensmittel-Hygieneverordnung zur amtlichen Untersuchung angemeldet worden sind, sind folgende Untersuchungen durchzuführen:
 
-1.  die amtliche Schlachttieruntersuchung nach Artikel 11 Absatz 2 und 5 der Durchführungsverordnung (EU) 2019/627 oder
+1.  die amtliche Schlachttieruntersuchung nach Artikel 11 Absatz 2 und 5 der Durchführungsverordnung (EU) 2019/627,
 
 
 2.  die amtliche Fleischuntersuchung nach Artikel 12 Absatz 2 und 3, auch in Verbindung mit Artikel 15 Absatz 2 und 3, Artikel 18 bis 24, Artikel 27 Absatz 1 Buchstabe a bis c, Artikel 29, 30, 32 Absatz 3, Artikel 33, 34 und 45 Buchstabe c bis u der Durchführungsverordnung (EU) 2019/627 und
@@ -226,7 +226,7 @@ Die zuständige Behörde kann abweichend von Satz 1 Nummer 3 die Untersuchung au
 
 (3) (weggefallen)
 
-(4) Fleisch, ausgenommen Fleisch von Geflügel oder Hasentieren, das nach Artikel 45 oder Artikel 28 Absatz 6 der Durchführungsverordnung (EU) 2019/627 genussuntauglich erklärt wurde, ist mit einem Kennzeichen nach Form und Inhalt des Musters der Anlage 1 Nummer 4 in der in den Absätzen 1 bis 3 geregelten Weise zu kennzeichnen.
+(4) Fleisch, ausgenommen Fleisch von Geflügel oder Hasentieren, das nach Artikel 45 oder Artikel 28 Absatz 6 der Durchführungsverordnung (EU) 2019/627 genussuntauglich erklärt wurde, ist mit einem Kennzeichen nach Form und Inhalt des Musters der Anlage 1 Nummer 4 in der in den Absätzen 1 bis 2 geregelten Weise zu kennzeichnen.
 
 (5) (weggefallen)
 
