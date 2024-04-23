@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 10.1.2024 I Nr. 8
 
 Änderung durch
-:   Art. 2 V v. 17.4.2024 I Nr. 132 mWv 20.4.2024 noch nicht berücksichtigt
+:   Art. 2 V v. 17.4.2024 I Nr. 132 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt V 751-1-8 v. 20.7.2001 I 1714; 2002 I 1459 (StrlSchV 2001)
 Diese Verordnung dient der Umsetzung der Richtlinie 2013/59/Euratom des Rates vom 5. Dezember 2013 zur Festlegung grundlegender Sicherheitsnormen für den Schutz vor den Gefahren einer Exposition gegenüber ionisierender Strahlung und zur Aufhebung der Richtlinien 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom und 2003/122/Euratom (ABl. L 13 vom 17.1.2014, S. 1) sowie der Umsetzung des Artikels 8d der Richtlinie 2009/71/Euratom des Rates vom 25. Juni 2009 über einen Gemeinschaftsrahmen für die nukleare Sicherheit kerntechnischer Anlagen (ABl. L 172 vom 2.7.2009, S. 18), in der durch die Richtlinie des Rates 2014/87/Euratom vom 8. Juli 2014 zur Änderung der Richtlinie 2009/71/Euratom über einen Gemeinschaftsrahmen für die nukleare Sicherheit kerntechnischer Anlagen (ABl. L 219 vom 25.7.2014, S. 42) geänderten Fassung.
@@ -1200,13 +1200,13 @@ Die Kurse sollen Praktika und Übungen im Strahlenschutz beinhalten. Von einer e
 2.  Ärzte, die nach § 14 Absatz 2 Satz 1 Nummer 3 des Strahlenschutzgesetzes am Ort der technischen Durchführung der Teleradiologie anwesend sind,
 
 
-3.  Personen mit einer erfolgreich abgeschlossenen sonstigen medizinischen Ausbildung nach § 145 Absatz 2 Nummer 5,
+3.  Personen mit einer erfolgreich abgeschlossenen sonstigen medizinischen Ausbildung nach § 145 Absatz 2 Satz 1 Nummer 5,
 
 
 4.  Tierärzte nach § 146 Absatz 1 Nummer 2,
 
 
-5.  Personen nach § 146 Absatz 2 Nummer 5.
+5.  Personen nach § 146 Absatz 2 Satz 1 Nummer 5.
 
 
 
@@ -2796,7 +2796,7 @@ Dieser Abschnitt findet keine Anwendung beim anzeigebedürftigen Betrieb eines L
 
 
 
-Abweichend von Nummer 2 ist die dort genannte Funktion für Dentalaufnahmegeräte mit Tubus und für Panoramaschichtgeräte nicht erforderlich.
+Abweichend von Satz 1 Nummer 2 ist die dort genannte Funktion für Dentalaufnahmegeräte mit Tubus und für Panoramaschichtgeräte nicht erforderlich.
 
 (2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass eine Anlage zur Erzeugung ionisierender Strahlung oder eine Bestrahlungsvorrichtung, die jeweils eine Photonen- oder Teilchenenergie von mindestens 1 Megaelektronenvolt bereitstellt, zur Behandlung von Personen nur verwendet wird, wenn sie die Überprüfung der Parameter zur Bestimmung der Dosisverteilung ermöglicht.
 
@@ -2896,7 +2896,7 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass ein aktuelles Besta
 1.  der ersten Bestrahlung oder nach Änderung des Bestrahlungsplans durch einen Arzt nach § 145 Absatz 1 Nummer 1 und einen Medizinphysik-Experten,
 
 
-2.  jeder weiteren Bestrahlung durch einen Arzt nach § 145 Absatz 1 Nummer 1 oder eine Person nach § 145 Absatz 2 Nummer 2 oder 3.
+2.  jeder weiteren Bestrahlung durch einen Arzt nach § 145 Absatz 1 Nummer 1 oder eine Person nach § 145 Absatz 2 Satz 1 Nummer 2 oder 3.
 
 
 
@@ -2932,7 +2932,7 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass ein aktuelles Besta
 
 (2) Der Arzt, der nach § 14 Absatz 2 Nummer 3 des Strahlenschutzgesetzes am Ort der technischen Durchführung anwesend zu sein hat, hat bei der Durchführung der Untersuchung in der Teleradiologie insbesondere die zur Feststellung der rechtfertigenden Indikation erforderlichen Angaben zu ermitteln und an den Teleradiologen weiterzuleiten.
 
-(3) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die technische Durchführung bei der Anwendung von ionisierender Strahlung am Menschen in der Teleradiologie durch nach § 145 Absatz 2 Nummer 2 oder 3 berechtigte Personen vorgenommen wird.
+(3) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die technische Durchführung bei der Anwendung von ionisierender Strahlung am Menschen in der Teleradiologie durch nach § 145 Absatz 2 Satz 1 Nummer 2 oder 3 berechtigte Personen vorgenommen wird.
 
 (4) Beim Betrieb einer Röntgeneinrichtung zur Teleradiologie hat der Strahlenschutzverantwortliche dafür zu sorgen, dass bei der an dem Teleradiologiesystem jeweils beteiligten anderen Einrichtung Kopien der Aufzeichnungen über die Qualitätssicherung vor Inbetriebnahme nach § 115 und über die Konstanzprüfungen nach § 116 sowie über die Sachverständigenprüfungen nach § 88 Absatz 4 Nummer 1 aller zum System gehörenden Röntgeneinrichtungen zur Einsicht verfügbar sind. Die Pflicht kann auch durch das Bereithalten der Aufzeichnungen in elektronischer Form erfüllt werden.
 
@@ -3285,7 +3285,7 @@ Satz 1 Nummer 3 und 5 gilt nicht für ein Forschungsvorhaben, für das eine Gene
 
 (2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass während der Anwendung radioaktiver Stoffe oder ionisierender Strahlung zum Zweck der medizinischen Forschung die ständige Erreichbarkeit des die Anwendungen leitenden Arztes oder Zahnarztes im Sinne des § 31 Absatz 4 Nummer 6 des Strahlenschutzgesetzes oder des Absatzes 1 (die Anwendungen leitender Arzt oder Zahnarzt) oder die ständige Erreichbarkeit eines Vertreters mit gleicher Qualifikation gewährleistet ist.
 
-(3) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass radioaktive Stoffe oder ionisierende Strahlung am Menschen zum Zweck der medizinischen Forschung nur von dem die Anwendungen leitenden oder einem von diesem beauftragten Arzt oder Zahnarzt mit der erforderlichen Fachkunde im Strahlenschutz angewendet werden. § 145 Absatz 2 bleibt unberührt.
+(3) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass radioaktive Stoffe oder ionisierende Strahlung am Menschen zum Zweck der medizinischen Forschung nur von dem die Anwendungen leitenden oder einem von diesem beauftragten Arzt oder Zahnarzt mit der erforderlichen Fachkunde im Strahlenschutz angewendet werden. § 145 Absatz 2 Satz 1 bleibt unberührt.
 
 (4) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die in das Forschungsvorhaben eingeschlossene Person vor Beginn der Anwendung radioaktiver Stoffe oder ionisierender Strahlung ärztlich oder zahnärztlich untersucht wird. Er hat dafür zu sorgen, dass die Befunde unverzüglich aufgezeichnet werden.
 
@@ -4648,7 +4648,7 @@ Der für die Bestimmung zuständigen Behörde sind auf Verlangen geeignete Nachw
 54. entgegen § 122 Absatz 4 Satz 1 nicht dafür sorgt, dass eine Person nach Vorliegen der dort genannten Voraussetzungen entlassen wird,
 
 
-55. entgegen § 123 Absatz 3, § 145 Absatz 2 oder § 146 Absatz 2 nicht dafür sorgt, dass die technische Durchführung durch eine dort genannte Person vorgenommen wird,
+55. entgegen § 123 Absatz 3, § 145 Absatz 2 Satz 1 oder § 146 Absatz 2 Satz 1 nicht dafür sorgt, dass die technische Durchführung durch eine dort genannte Person vorgenommen wird,
 
 
 56. entgegen § 136 Absatz 1 Satz 1 nicht dafür sorgt, dass radioaktive Stoffe oder ionisierende Strahlung unter den dort genannten Voraussetzungen angewendet werden,
@@ -4799,10 +4799,10 @@ Der für die Bestimmung zuständigen Behörde sind auf Verlangen geeignete Nachw
 38. entgegen § 183 Absatz 1 Satz 1 Nummer 6, auch in Verbindung mit Absatz 3 Satz 1, oder Absatz 3 Satz 2 Nummer 4 eine Kopie des Prüfberichts oder eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
 
-39. entgegen § 183 Absatz 1 Satz 1 Nummer 8, auch in Verbindung mit Absatz 3 Satz 1, eine Unterrichtung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
+39. entgegen § 183 Absatz 1 Satz 1 Nummer 8, auch in Verbindung mit Absatz 3 Satz 1, eine Unterrichtung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt oder
 
 
-40. entgegen § 183 Absatz 2 oder 4 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder eine Kopie nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übersendet oder
+40. (weggefallen)
 
 
 41. entgegen § 183 Absatz 3 Satz 2 Nummer 3 nicht, nicht richtig oder nicht vollständig Buch führt.
@@ -4943,25 +4943,25 @@ Bis zum Inkrafttreten Allgemeiner Verwaltungsvorschriften zur Störfallvorsorge 
 
 #### § 195 Ausrüstung bei der Anwendung am Menschen (§ 114)
 
-(1) § 114 Absatz 1 Nummer 1 gilt für Röntgeneinrichtungen, die vor dem 1. Juli 2002 erstmals in Betrieb genommen wurden, ab dem 1. Januar 2024.
+(1) § 114 Absatz 1 Satz 1 Nummer 1 gilt für Röntgeneinrichtungen, die vor dem 1. Juli 2002 erstmals in Betrieb genommen wurden, ab dem 1. Januar 2024.
 
-(2) § 114 Absatz 1 Nummer 2 gilt nur für Röntgeneinrichtungen, die nach dem 1. Januar 2023 erstmals in Betrieb genommen werden. Abweichend von Satz 1 gilt
+(2) § 114 Absatz 1 Satz 1 Nummer 2 gilt nur für Röntgeneinrichtungen, die nach dem 1. Januar 2023 erstmals in Betrieb genommen werden. Abweichend von Satz 1 gilt
 
-1.  für Röntgeneinrichtungen, die für die Computertomographie eingesetzt werden und die vor dem 31. Dezember 2018 erstmals in Betrieb genommen wurden, § 114 Absatz 1 Nummer 2 ab dem 1. Januar 2023,
-
-
-2.  für Röntgeneinrichtungen, die für die Durchleuchtung eingesetzt werden und die ab dem 6. Februar 2018 bis einschließlich 30. Dezember 2018 erstmals in Betrieb genommen wurden, § 114 Absatz 1 Nummer 2 ab dem 1. Januar 2023,
+1.  für Röntgeneinrichtungen, die für die Computertomographie eingesetzt werden und die vor dem 31. Dezember 2018 erstmals in Betrieb genommen wurden, § 114 Absatz 1 Satz 1 Nummer 2 ab dem 1. Januar 2023,
 
 
-3.  für Röntgeneinrichtungen, die für die Durchleuchtung mit erheblicher Exposition eingesetzt werden und die vor dem 6. Februar 2018 erstmals in Betrieb genommen wurden, § 114 Absatz 1 Nummer 2 ab dem 1. Januar 2023 und
+2.  für Röntgeneinrichtungen, die für die Durchleuchtung eingesetzt werden und die ab dem 6. Februar 2018 bis einschließlich 30. Dezember 2018 erstmals in Betrieb genommen wurden, § 114 Absatz 1 Satz 1 Nummer 2 ab dem 1. Januar 2023,
 
 
-4.  für Röntgeneinrichtungen, die für die Computertomographie oder für die Durchleuchtung eingesetzt werden und die ab dem 31. Dezember 2018 erstmals in Betrieb genommen wurden, § 114 Absatz 1 Nummer 2 ab dem 1. Januar 2021.
+3.  für Röntgeneinrichtungen, die für die Durchleuchtung mit erheblicher Exposition eingesetzt werden und die vor dem 6. Februar 2018 erstmals in Betrieb genommen wurden, § 114 Absatz 1 Satz 1 Nummer 2 ab dem 1. Januar 2023 und
+
+
+4.  für Röntgeneinrichtungen, die für die Computertomographie oder für die Durchleuchtung eingesetzt werden und die ab dem 31. Dezember 2018 erstmals in Betrieb genommen wurden, § 114 Absatz 1 Satz 1 Nummer 2 ab dem 1. Januar 2021.
 
 
 
 
-(3) § 114 Absatz 1 Nummer 4 gilt für Röntgeneinrichtungen, die vor dem 31. Dezember 2018 erstmals in Betrieb genommen worden sind, erst ab dem 1. Januar 2021.
+(3) § 114 Absatz 1 Satz 1 Nummer 4 gilt für Röntgeneinrichtungen, die vor dem 31. Dezember 2018 erstmals in Betrieb genommen worden sind, erst ab dem 1. Januar 2021.
 
 (4) § 114 Absatz 2 gilt für Anlagen zur Erzeugung ionisierender Strahlung und Bestrahlungsvorrichtungen, die vor dem 31. Dezember 2018 erstmals in Betrieb genommen worden sind, erst ab dem 1. Januar 2021.
 

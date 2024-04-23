@@ -16,11 +16,8 @@ Fundstelle
 :   BGBl I: 2020, 118, 1954
 
 Stand: Die V ist gem. Bek. v. 19.8.2020 I 1954 am 1.8.2020 in Kraft getreten
-Geändert durch
-:   Art. 1 V v. 26.4.2022 I 850
-
-Änderung durch
-:   Art. 1 V v. 12.4.2024 I Nr. 122 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 12.4.2024 I Nr. 122
 
 
 ## Eingangsformel

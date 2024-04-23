@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 2945
 
 Zuletzt geändert durch
-:   Art. 9 G v. 21.2.2024 I Nr. 54
+:   Art. 3 V v. 12.4.2024 I Nr. 125
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
