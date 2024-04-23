@@ -94,12 +94,14 @@ def find_and_parse_index_md(start_path):
                 chunks = parse(full_path, directory_name)
                 all_chunks.extend(chunks)
 
+    split_files = 3
+
     # Calculate the number of chunks per file
     total_chunks = len(all_chunks)
-    chunks_per_file = total_chunks // 3
+    chunks_per_file = total_chunks // split_files
 
     # Write the JSON lines to three separate files
-    for i in range(3):
+    for i in range(split_files):
         start_index = i * chunks_per_file
         end_index = (i + 1) * chunks_per_file if i < 2 else total_chunks
         file_chunks = all_chunks[start_index:end_index]

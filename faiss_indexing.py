@@ -18,8 +18,13 @@ dimension = 768  # Dimensionality of BERT embeddings
 def embedding(text):
     # make downcase of given text; the model is trained on lowercased text
     text = text.lower()
+    text = text.replace('\n', ' ')
+    replaced_text = text.replace('  ', ' ')
+    while (replaced_text!=text):
+        text = replaced_text
+        replaced_text = text.replace('  ', ' ')
     # Tokenize the text
-    inputs = tokenizer(text, return_tensors="pt", truncation=True, max_length=512)
+    inputs = tokenizer(text, return_tensors="pt", truncation='longest_first', max_length=512)
     # Extract the embeddings
     with torch.no_grad(): outputs = model(**inputs) # hidden states
     # Use the average of the last hidden states as the embedding vector
