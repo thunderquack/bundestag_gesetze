@@ -19,16 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.2.2005 I 386;
 
 Zuletzt geändert durch
-:   Art. 18 G v. 11.12.2023 I Nr. 354
-
-Änderung durch
-:   Art. 20 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 21 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 22 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 22 G v. 27.3.2024 I Nr. 108
 
 Änderung durch
 :   Art. 23 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

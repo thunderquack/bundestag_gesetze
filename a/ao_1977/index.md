@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 1.10.2002 I 3866; 2003 I 61;
 
 Zuletzt geändert durch
-:   Art. 24 G v. 22.12.2023 I Nr. 411
-
-Änderung durch
-:   Art. 12 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 G v. 27.3.2024 I Nr. 108
 
 Änderung durch
 :   Art. 13 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

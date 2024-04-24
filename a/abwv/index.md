@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 17.6.2004 I 1108, 2625;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 27.2.2024 I Nr. 66
-
-Änderung durch
-:   Art. 1 V v. 17.4.2024 I Nr. 132 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 17.4.2024 I Nr. 132
 
 Diese Verordnung dient in Teilen auch der Umsetzung der Richtlinien des Rates
 

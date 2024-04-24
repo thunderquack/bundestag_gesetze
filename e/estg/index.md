@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 8.10.2009 I 3366, 3862;
 
 Zuletzt geändert durch
-:   Art. 20 G v. 22.12.2023 I Nr. 411
-
-Änderung durch
-:   Art. 1 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 27.3.2024 I Nr. 108
 
 Änderung durch
 :   Art. 2 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
