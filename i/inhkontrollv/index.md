@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 562 (688)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.12.2022 I 2645
-
-Änderung durch
-:   Art. 21 G v. 11.12.2023 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 21 G v. 11.12.2023 I Nr. 354
 
 [^F771967_01_BJNR056210009]:     Diese Verordnung dient auch der weiteren Umsetzung der Richtlinie 2007/44/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Änderung der Richtlinie 92/49/EWG des Rates sowie der Richtlinien 2002/83/EG, 2004/39/EG, 2005/68/EG und 2006/48/EG in Bezug auf Verfahrensregeln und Bewertungskriterien für die aufsichtsrechtliche Beurteilung des Erwerbs und der Erhöhung von Beteiligungen im Finanzsektor (ABl. L 247 vom 21.9.2007, S. 1).
 

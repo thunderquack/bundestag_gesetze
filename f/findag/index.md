@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1310
 
 Zuletzt geändert durch
-:   Art. 25 G v. 8.10.2023 I Nr. 272
-
-Änderung durch
-:   Art. 22 G v. 11.12.2023 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 22 G v. 11.12.2023 I Nr. 354
 
 Änderung durch
 :   Art. 4 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

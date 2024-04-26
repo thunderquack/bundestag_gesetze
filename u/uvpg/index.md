@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 18.3.2021 I 540
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 2 G v. 4.12.2023 I Nr. 344
-
-Änderung durch
-:   Art. 2 G v. 20.12.2023 I Nr. 394 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 14c G v. 22.12.2023 I Nr. 405 ist berücksichtigt
+:   Art. 14c G v. 22.12.2023 I Nr. 405
 
 Änderung durch
 :   Art. 10 G v. 22.12.2023 I Nr. 409 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

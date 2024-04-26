@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 3.11.2017 I 3634
 
 Zuletzt geändert durch
-:   Art. 1 G v. 28.7.2023 I Nr. 221
-
-Änderung durch
-:   Art. 3 G v. 20.12.2023 I Nr. 394 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 20.12.2023 I Nr. 394
 
 [^F2415_BJNR003410960]:     Dieses Gesetz dient der Umsetzung folgender Richtlinien:                                1.                                    Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie 2013/17/EU (ABl. L 158 vom 10.6.2013, S. 193) geändert worden ist,
 

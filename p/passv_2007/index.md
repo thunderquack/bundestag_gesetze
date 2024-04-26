@@ -15,10 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2386
 
-Stand: Zuletzt geändert Art. 8 V v. 30.10.2023 I Nr. 290
-Änderung durch
-:   Art. 1 V v. 12.4.2024 I Nr. 125 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Stand: Zuletzt geändert Art. 1 V v. 12.4.2024 I Nr. 125
 
 ## Kapitel 1 - Passmuster
 

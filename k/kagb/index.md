@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1981
 
 Zuletzt geändert durch
-:   Art. 15 G v. 22.2.2023 I Nr. 51
-
-Änderung durch
-:   Art. 29 G v. 11.12.2023 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 29 G v. 11.12.2023 I Nr. 354
 
 Änderung durch
 :   Art. 12 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

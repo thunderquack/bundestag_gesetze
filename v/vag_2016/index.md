@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 434
 
 Zuletzt geändert durch
-:   Art. 9 G v. 31.5.2023 I Nr. 140
-
-Änderung durch
-:   Art. 31 G v. 11.12.2023 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 31 G v. 11.12.2023 I Nr. 354
 
 Änderung durch
 :   Art. 14 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

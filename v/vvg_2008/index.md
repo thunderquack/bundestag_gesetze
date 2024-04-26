@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 2631
 
 Zuletzt geändert durch
-:   Art. 17 G v. 22.2.2023 I Nr. 51
-
-Änderung durch
-:   Art. 32 G v. 11.12.2023 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 11.4.2024 I Nr. 119 ist berücksichtigt
+:   Art. 4 G v. 11.4.2024 I Nr. 119
 
 
 ## Teil 1 - Allgemeiner Teil

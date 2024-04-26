@@ -16,16 +16,10 @@ Fundstelle
 :   BGBl I: 2017, 1822
 
 Zuletzt geändert durch
-:   Art. 1 G v. 13.11.2023 I Nr. 311
-
-Änderung durch
-:   Art. 30 G v. 11.12.2023 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 34 Abs. 21 G v. 22.12.2023 I Nr. 411
 
 Mittelbare änderung durch
 :   Art. 34 Abs. 4 G v. 22.12.2023 I Nr. 411 ist berücksichtigt
-
-Änderung durch
-:   Art. 34 Abs. 21 G v. 22.12.2023 I Nr. 411 ist berücksichtigt
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten ist

@@ -17,14 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 720
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 7 G v. 9.12.2020 I 2773
-
-Änderung durch
-:   Art. 26 G v. 11.12.2023 I Nr. 354 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Stand: Bek. v. 6.6.2018 I 668 ist berücksichtigt
-Mittelbare änderung durch
-:   Art. 12 G v. 10.7.2018 I 1102 ist berücksichtigt
+:   Art. 26 G v. 11.12.2023 I Nr. 354
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -925,7 +918,7 @@ In Streitigkeiten vor den Zivilgerichten um die Rechte und Pflichten des Berecht
 
 
 *    *   Der Kunde möchte mit Wirkung zum . . . . . .  (bitte Datum des Kontenwechsels einsetzen)
-        zum Konto \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ _ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ (IBAN) bei . . . . . .
+        zum Konto \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ (IBAN) bei . . . . . .
         (empfangender Zahlungsdienstleister) wechseln.
 
 
@@ -1662,7 +1655,8 @@ Aufforderung durch den Kontoinhaber
 
 ### Anlage 4 Antrag auf Durchführung eines Verwaltungsverfahrens bei Ablehnung eines Antrags auf Abschluss eines Basiskontovertrags
 
-(Fundstelle: BGBl. I 2016, 744)
+(Fundstelle: BGBl. I 2016, 744
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Antrag auf Durchführung eines Verwaltungsverfahrens
 ## bei Ablehnung eines Antrags auf Abschluss eines Basiskontovertrags
