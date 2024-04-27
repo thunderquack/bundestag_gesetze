@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1996, 1794
 
 Zuletzt geändert durch
-:   Art. 1 V v. 6.7.2020 I 1603
-
-Änderung durch
-:   Art. 1 V v. 6.3.2024 I Nr. 74 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 6.3.2024 I Nr. 74
 
 Stand: Die §§ 1, 2 Abs. 1 Nr. 2 und 3, § 12 Nr. 3 und § 13 sind gem. § 15 dieser V und § 21 Abs. 2 des Ausführungsgesetzes zum Chemiewaffenübereinkommen (CWÜAG) iVm Abschn. I Bek. v. 4.11.1996 II 2618 mWv 29.4.1997 in Kraft getreten
 

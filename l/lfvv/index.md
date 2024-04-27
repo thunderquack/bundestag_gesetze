@@ -1,7 +1,7 @@
 ---
 Title: Verordnung mit Durchführungsvorschriften über die Verbringung von Lebensmitteln
   und Futtermitteln in die Europäische Union und über die amtlichen Kontrollen der
-  Verbringung (Lebensmittel-und-Futtermittel-Verbringungs-Verordnung – LFVV)
+  Verbringung
 jurabk: LFVV
 layout: default
 origslug: lfvv
@@ -9,7 +9,7 @@ slug: lfvv
 
 ---
 
-# Verordnung mit Durchführungsvorschriften über die Verbringung von Lebensmitteln und Futtermitteln in die Europäische Union und über die amtlichen Kontrollen der Verbringung (Lebensmittel-und-Futtermittel-Verbringungs-Verordnung – LFVV) (LFVV)
+# Verordnung mit Durchführungsvorschriften über die Verbringung von Lebensmitteln und Futtermitteln in die Europäische Union und über die amtlichen Kontrollen der Verbringung (LFVV)
 
 Ausfertigungsdatum
 :   2024-04-11
