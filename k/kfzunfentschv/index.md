@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1965, 2093
 
-Geändert durch
-:   Art. 494 V v. 31.8.2015 I 1474
-
-Änderung durch
-:   Art. 7 Abs. 7 G v. 11.4.2024 I Nr. 119 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 7 Abs. 7 G v. 11.4.2024 I Nr. 119
 
 
 ## Eingangsformel

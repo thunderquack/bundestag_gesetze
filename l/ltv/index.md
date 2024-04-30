@@ -18,6 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 19.12.2023 I Nr. 386
 
+Stand: Berichtigung v. 23.4.2024 I Nr. 138 ist berücksichtigt
 
 ## § 1
 
@@ -295,7 +296,7 @@ von einem von der Generaldirektion Wasserstraßen und Schifffahrt bestimmten Sac
 
 ## § 8
 
-§ 2 Absatz 1 Satz 1 Nummer 2 Buchstabe b ist ab dem 1. Januar 2024 nicht mehr anzuwenden.
+§ 2 Absatz 4 Satz 1 Nummer 2 Buchstabe b ist ab dem 1. Januar 2024 nicht mehr anzuwenden.
 
 (zu § 1 Absatz 1)
 

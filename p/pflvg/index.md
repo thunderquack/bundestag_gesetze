@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 213
 
 Zuletzt geändert durch
-:   Art. 11 G v. 19.6.2023 I Nr. 154
-
-Änderung durch
-:   Art. 1 G v. 11.4.2024 I Nr. 119 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 11.4.2024 I Nr. 119
 
 Neufassung durch
 :   Art. 1 G v. 5.4.1965 I 213 udB "Gesetz über die Pflichtversicherung für Kraftfahrzeughalter (Pflichtversicherungsgesetz)"

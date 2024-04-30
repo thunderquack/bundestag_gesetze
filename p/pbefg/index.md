@@ -28,7 +28,7 @@ Zuletzt geändert durch
 :   Art. 23 G v. 2.3.2023 I Nr. 56 ist berücksichtigt
 
 Änderung durch
-:   Art. 7 Abs. 4 G v. 11.4.2024 I Nr. 119 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 Abs. 4 G v. 11.4.2024 I Nr. 119 ist berücksichtigt
 
 
 ## I. - Allgemeine Vorschriften

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 3120
 
 Zuletzt geändert durch
-:   Art. 126 G v. 10.8.2021 I 3436
-
-Änderung durch
-:   Art. 7 Abs. 6 G v. 11.4.2024 I Nr. 119 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 Abs. 6 G v. 11.4.2024 I Nr. 119
 
 
 ## Eingangsformel
