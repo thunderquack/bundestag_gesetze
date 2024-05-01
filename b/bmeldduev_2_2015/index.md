@@ -802,7 +802,7 @@ Absatz 1 Satz 2 gilt entsprechend.
 
 *    *   10. Einzugsdatum
 
-    *   1301,
+    *   1301, 1301a,
 
 
 *    *   11. Auszugsdatum

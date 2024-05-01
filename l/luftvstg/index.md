@@ -259,7 +259,7 @@ Die Steuer bemisst sich nach der Lage des jeweils gewählten Zielorts und der An
     *   in einem Land der Anlage 1
         zu diesem Gesetz
 
-    *   13,03 Euro
+    *   15,53 Euro
 
 
 *    *   2.
@@ -267,19 +267,19 @@ Die Steuer bemisst sich nach der Lage des jeweils gewählten Zielorts und der An
     *   in einem Land der Anlage 2
         zu diesem Gesetz
 
-    *   33,01 Euro
+    *   39,34 Euro
 
 
 *    *   3.
 
     *   in anderen Ländern
 
-    *   59,43 Euro.
+    *   70,83 Euro.
 
 
 
 
-(2) Das Bundesministerium der Finanzen wird ab 2013 ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates die Steuersätze nach Absatz 1 jeweils mit Wirkung zu Beginn eines Kalenderjahres prozentual abzusenken. Die prozentuale Absenkung errechnet sich aus dem Verhältnis der jeweiligen Einnahmen des Vorjahres aus der Einbeziehung des Luftverkehrs in den Handel mit Treibhausgasemissionszertifikaten zu 1,75 Milliarden Euro. Die Einnahmen aus der Einbeziehung des Luftverkehrs in den Handel mit Treibhausgasemissionszertifikaten werden auf Basis der Einnahmen des jeweils ersten Halbjahres des Vorjahres geschätzt. Der abgesenkte Steuersatz wird auf volle Cent gerundet.
+(2) Das Bundesministerium der Finanzen wird ab dem Jahr 2025 ermächtigt und verpflichtet, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Steuersätze nach Absatz 1 jeweils mit Wirkung für das folgende Kalenderjahr prozentual abzusenken, sofern das Luftverkehrsteueraufkommen in dem Vorjahr den Betrag von 2,33 Milliarden Euro übersteigt. Die prozentuale Absenkung errechnet sich aus dem Verhältnis des 2,33 Milliarden Euro übersteigenden Aufkommensbetrags zum 31. Dezember des jeweiligen Vorjahres zu 2,33 Milliarden Euro. Der abgesenkte Steuersatz wird auf volle Cent gerundet.
 
 (3) Die Steuer wird ermäßigt auf einen Steuersatz in Höhe von 20 Prozent des Steuersatzes nach § 11 Absatz 1 Nummer 1 für Rechtsvorgänge, die zu Abflügen von Fluggästen berechtigen, die nicht bereits nach § 5 Nummer 4 steuerbefreit sind, von und zu einer inländischen, dänischen oder niederländischen Nordseeinsel, die nicht über einen tidenunabhängigen Straßen- oder Gleisanschluss mit dem Festland verbunden ist, wenn der Start- oder Zielort
 

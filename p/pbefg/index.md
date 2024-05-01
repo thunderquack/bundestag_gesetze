@@ -19,16 +19,7 @@ Neugefasst durch
 :   Bek. v. 8.8.1990 I 1690;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 3.12.2020 I 2694
-
-Änderung durch
-:   Art. 1 G v. 16.4.2021 I 822 (Nr. 19) mWv 1.8.2021 bzw. 1.9.2021 bzw. 1.1.2022 bzw. 1.7.2022 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 23 G v. 2.3.2023 I Nr. 56 ist berücksichtigt
-
-Änderung durch
-:   Art. 7 Abs. 4 G v. 11.4.2024 I Nr. 119 ist berücksichtigt
+:   Art. 7 Abs. 4 G v. 11.4.2024 I Nr. 119
 
 
 ## I. - Allgemeine Vorschriften

@@ -80283,7 +80283,7 @@ II. Niedersachsen ****
 
 *    *   7.
 
-    *   Jadebusen
+    *   Jadebusen\*
 
     *   53°28,96'N, 8°10,92'E
 
