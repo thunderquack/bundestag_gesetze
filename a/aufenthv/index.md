@@ -152,7 +152,7 @@ verpflichtet ist, dem Inhaber unter den dort festgelegten Voraussetzungen den Gr
 
 
 
-Passersatzpapiere nach Satz 1 Nummer 3 und 4 werden mit einer Gültigkeitsdauer von bis zu drei Jahren oder, sofern der Passinhaber im Besitz eines Aufenthaltstitels nach § 9 oder 9a des Aufenthaltsgesetzes oder eines auf Grund des Freizügigkeitsgesetzes/EU ausgestellten Dokuments ist, mit einer Gültigkeitsdauer von bis zu zehn Jahren ausgestellt; eine Verlängerung ist nicht zulässig. Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 werden abweichend von Absatz 4 Satz 1 auch als vorläufige Dokumente ohne Chip ausgegeben, deren Gültigkeit, auch nach Verlängerungen, ein Jahr nicht überschreiten darf. An Kinder bis zum vollendeten zwölften Lebensjahr können in begründeten Fällen abweichend von Absatz 4 Satz 1 Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 ohne Chip ausgegeben werden. Passersatzpapiere nach Satz 4 ohne Chip sind höchstens ein Jahr gültig, längstens jedoch bis zur Vollendung des zwölften Lebensjahres. Eine Verlängerung dieser Passersatzpapiere ist vor Ablauf der Gültigkeit bis zur Vollendung des zwölften Lebensjahres um jeweils ein Jahr zulässig; es ist jeweils ein aktuelles Lichtbild einzubringen. Passersatzpapiere nach Satz 1 Nummer 3 und 4, die an heimatlose Ausländer nach dem Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet ausgestellt werden, können mit einer Gültigkeitsdauer von bis zu zehn Jahren ausgestellt werden.
+Passersatzpapiere nach Satz 1 Nummer 3 und 4 werden mit einer Gültigkeitsdauer von bis zu drei Jahren oder, sofern der Passinhaber im Besitz eines Aufenthaltstitels nach den §§ 9 oder 9a des Aufenthaltsgesetzes oder eines auf Grund des Freizügigkeitsgesetzes/EU ausgestellten Dokuments ist, mit einer Gültigkeitsdauer von bis zu zehn Jahren ausgestellt; eine Verlängerung ist nicht zulässig. Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 werden abweichend von Absatz 4 Satz 1 auch als vorläufige Dokumente ohne Chip ausgegeben, deren Gültigkeit, auch nach Verlängerungen, ein Jahr nicht überschreiten darf. An Kinder bis zum vollendeten zwölften Lebensjahr können in begründeten Fällen abweichend von Absatz 4 Satz 1 Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 ohne Chip ausgegeben werden. Passersatzpapiere nach Satz 4 ohne Chip sind höchstens ein Jahr gültig, längstens jedoch bis zur Vollendung des zwölften Lebensjahres. Eine Verlängerung dieser Passersatzpapiere ist vor Ablauf der Gültigkeit bis zur Vollendung des zwölften Lebensjahres um jeweils ein Jahr zulässig; es ist jeweils ein aktuelles Lichtbild einzubringen. Passersatzpapiere nach Satz 1 Nummer 3 und 4, die an heimatlose Ausländer nach dem Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet ausgestellt werden, können mit einer Gültigkeitsdauer von bis zu zehn Jahren ausgestellt werden.
 
 (2) Passersatzpapiere nach Absatz 1 Satz 1 Nummer 1, 3 und 4 enthalten neben der Angabe der ausstellenden Behörde, dem Tag der Ausstellung, dem letzten Tag der Gültigkeitsdauer und der Seriennummer sowie dem Lichtbild und der Unterschrift des Inhabers des Passersatzpapiers ausschließlich folgende sichtbar aufgebrachte Angaben über den Inhaber des Passersatzpapiers:
 
@@ -1248,8 +1248,7 @@ Für die Ausstellung eines Aufenthaltstitels nach § 78a Absatz 1 Satz 1 des Auf
 3.  des Verlustes des Dokuments nach § 78 Absatz 1 des Aufenthaltsgesetzes,
 
 
-4.  des Verlustes der technischen Funktionsfähigkeit des
-    Chip                    oder
+4.  des Verlustes der technischen Funktionsfähigkeit des Chips oder
 
 
 5.  der Beantragung nach § 105b Satz 2 des Aufenthaltsgesetzes.
@@ -2005,8 +2004,7 @@ Ein Ausländer, dem ein Aufenthaltstitel nach § 4 Absatz 1 Satz 2 Nummer 2 bis 
 1.  der für den Wohnort, ersatzweise der für den Aufenthaltsort im Inland zuständigen Ausländerbehörde oder einer anderen nach Landesrecht zuständigen Stelle den Verlust und das Wiederauffinden des Dokuments anzuzeigen und das Dokument vorzulegen, wenn es wiederaufgefunden wurde; bei Verlust im Ausland können die Anzeige und die Vorlage auch gegenüber einer deutschen Auslandsvertretung erfolgen, welche die zuständige oder zuletzt zuständige Ausländerbehörde unterrichtet,
 
 
-2.  nach Kenntnis vom Verlust der technischen Funktionsfähigkeit des
-    Chip                    der zuständigen Ausländerbehörde das Dokument vorzulegen und die Neuausstellung zu beantragen.
+2.  nach Kenntnis vom Verlust der technischen Funktionsfähigkeit des Chips der zuständigen Ausländerbehörde das Dokument vorzulegen und die Neuausstellung zu beantragen.
 
 
 
@@ -3668,75 +3666,69 @@ Auf Seite 5 ist stets das in dieser Anlage wiedergegebene Klebeetikett aufzukleb
 
 ### Anlage D4c Ausweismuster Reiseausweis für Ausländer nach § 4 Absatz 1 Satz 1 Nummer 1
 
-(Fundstelle: BGBl. I 2017, 226 — 235)
+(Fundstelle: BGBl. 2024 I Nr. 125)
 
+– Einband –
 
-*    *   – Einband –
+![bgbl1_2024_j01250_1030.jpg](bgbl1_2024_j01250_1030.jpg)
+– Vorsatz und Passkartentitelseite –
 
-    *
-
-*    *        ![bgbl1_2017_j0162-1_1140.jpg](bgbl1_2017_j0162-1_1140.jpg)
-    *        ![bgbl1_2017_j0162-1_1150.jpg](bgbl1_2017_j0162-1_1150.jpg)
-
-
-
-   – Vorsatz und Passkartentitelseite –
-
-![bgbl1_2017_j0162-1_1160.jpg](bgbl1_2017_j0162-1_1160.jpg)
+![bgbl1_2024_j01250_1040.jpg](bgbl1_2024_j01250_1040.jpg)
 – Passkartendatenseite und Passbuchinnenseite 1 –
 
-![bgbl1_2017_j0162-1_1170.jpg](bgbl1_2017_j0162-1_1170.jpg)
+![bgbl1_2024_j01250_1050.jpg](bgbl1_2024_j01250_1050.jpg)
 Die Seiten 1 bis 32 sowie der hintere Einband
 werden am unteren Rand mit der Seriennummer perforiert.
 
 – Passbuchinnenseiten 2 und 3 –
 
-![bgbl1_2017_j0162-1_1180.jpg](bgbl1_2017_j0162-1_1180.jpg)
+![bgbl1_2024_j01250_1060.jpg](bgbl1_2024_j01250_1060.jpg)
 – Passbuchinnenseiten 4 und 5 –
 
-![bgbl1_2017_j0162-1_1190.jpg](bgbl1_2017_j0162-1_1190.jpg)
+![bgbl1_2024_j01250_1070.jpg](bgbl1_2024_j01250_1070.jpg)
 – Passbuchinnenseiten 6 und 7 –
 
-![bgbl1_2017_j0162-1_1200.jpg](bgbl1_2017_j0162-1_1200.jpg)
+![bgbl1_2024_j01250_1080.jpg](bgbl1_2024_j01250_1080.jpg)
 – Passbuchinnenseiten 8 und 9 –
 
-![bgbl1_2017_j0162-1_1210.jpg](bgbl1_2017_j0162-1_1210.jpg)
+![bgbl1_2024_j01250_1090.jpg](bgbl1_2024_j01250_1090.jpg)
 – Passbuchinnenseiten 10 und 11 –
 
-![bgbl1_2017_j0162-1_1220.jpg](bgbl1_2017_j0162-1_1220.jpg)
+![bgbl1_2024_j01250_1100.jpg](bgbl1_2024_j01250_1100.jpg)
 – Passbuchinnenseiten 12 und 13 –
 
-![bgbl1_2017_j0162-1_1230.jpg](bgbl1_2017_j0162-1_1230.jpg)
+![bgbl1_2024_j01250_1110.jpg](bgbl1_2024_j01250_1110.jpg)
 – Passbuchinnenseiten 14 und 15 –
 
-![bgbl1_2017_j0162-1_1240.jpg](bgbl1_2017_j0162-1_1240.jpg)
+![bgbl1_2024_j01250_1120.jpg](bgbl1_2024_j01250_1120.jpg)
 – Passbuchinnenseiten 16 und 17 –
 
-![bgbl1_2017_j0162-1_1250.jpg](bgbl1_2017_j0162-1_1250.jpg)
+![bgbl1_2024_j01250_1130.jpg](bgbl1_2024_j01250_1130.jpg)
 – Passbuchinnenseiten 18 und 19 –
 
-![bgbl1_2017_j0162-1_1260.jpg](bgbl1_2017_j0162-1_1260.jpg)
+![bgbl1_2024_j01250_1140.jpg](bgbl1_2024_j01250_1140.jpg)
 – Passbuchinnenseiten 20 und 21 –
 
-![bgbl1_2017_j0162-1_1270.jpg](bgbl1_2017_j0162-1_1270.jpg)
+![bgbl1_2024_j01250_1150.jpg](bgbl1_2024_j01250_1150.jpg)
 – Passbuchinnenseiten 22 und 23 –
 
-![bgbl1_2017_j0162-1_1280.jpg](bgbl1_2017_j0162-1_1280.jpg)
+![bgbl1_2024_j01250_1160.jpg](bgbl1_2024_j01250_1160.jpg)
 – Passbuchinnenseiten 24 und 25 –
 
-![bgbl1_2017_j0162-1_1290.jpg](bgbl1_2017_j0162-1_1290.jpg)
+![bgbl1_2024_j01250_1170.jpg](bgbl1_2024_j01250_1170.jpg)
 – Passbuchinnenseiten 26 und 27 –
 
-![bgbl1_2017_j0162-1_1300.jpg](bgbl1_2017_j0162-1_1300.jpg)
+![bgbl1_2024_j01250_1180.jpg](bgbl1_2024_j01250_1180.jpg)
 – Passbuchinnenseiten 28 und 29 –
 
-![bgbl1_2017_j0162-1_1310.jpg](bgbl1_2017_j0162-1_1310.jpg)
+![bgbl1_2024_j01250_1190.jpg](bgbl1_2024_j01250_1190.jpg)
 – Passbuchinnenseiten 30 und 31 –
 
-![bgbl1_2017_j0162-1_1320.jpg](bgbl1_2017_j0162-1_1320.jpg)
+![bgbl1_2024_j01250_1200.jpg](bgbl1_2024_j01250_1200.jpg)
 – Passbuchinnenseite 32 und Vorsatz des hinteren Einbandes –
 
-![bgbl1_2017_j0162-1_1330.jpg](bgbl1_2017_j0162-1_1330.jpg)
+![bgbl1_2024_j01250_1210.jpg](bgbl1_2024_j01250_1210.jpg)
+
 
 ### Anlage D4d Vorläufiger Reiseausweis für Ausländer nach § 4 Abs. 1 Satz 2
 
@@ -3794,75 +3786,69 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 ### Anlage D7a Ausweismuster Reiseausweis für Flüchtlinge nach § 4 Absatz 1 Satz 1 Nummer 3
 
-(Fundstelle: BGBl. I 2017, 236 — 245)
+(Fundstelle: BGBl. 2024 I Nr. 125)
 
+– Deckseiten –
 
-*    *   – Deckseiten –
+![bgbl1_2024_j01250_1220.jpg](bgbl1_2024_j01250_1220.jpg)
+– Vorsatz und Passkartentitelseite –
 
-    *
-
-*    *        ![bgbl1_2017_j0162-1_1340.jpg](bgbl1_2017_j0162-1_1340.jpg)
-    *        ![bgbl1_2017_j0162-1_1350.jpg](bgbl1_2017_j0162-1_1350.jpg)
-
-
-
-   – Vorsatz und Passkartentitelseite –
-
-![bgbl1_2017_j0162-1_1360.jpg](bgbl1_2017_j0162-1_1360.jpg)
+![bgbl1_2024_j01250_1230.jpg](bgbl1_2024_j01250_1230.jpg)
 – Passkartendatenseite und Passbuchinnenseite 1 –
 
-![bgbl1_2017_j0162-1_1370.jpg](bgbl1_2017_j0162-1_1370.jpg)
+![bgbl1_2024_j01250_1240.jpg](bgbl1_2024_j01250_1240.jpg)
 Die Seiten 1 bis 32 sowie der hintere Einband
 werden am unteren Rand mit der Seriennummer perforiert.
 
 – Passbuchinnenseiten 2 und 3 –
 
-![bgbl1_2017_j0162-1_1380.jpg](bgbl1_2017_j0162-1_1380.jpg)
+![bgbl1_2024_j01250_1250.jpg](bgbl1_2024_j01250_1250.jpg)
 – Passbuchinnenseiten 4 und 5 –
 
-![bgbl1_2017_j0162-1_1390.jpg](bgbl1_2017_j0162-1_1390.jpg)
+![bgbl1_2024_j01250_1260.jpg](bgbl1_2024_j01250_1260.jpg)
 – Passbuchinnenseiten 6 und 7 –
 
-![bgbl1_2017_j0162-1_1400.jpg](bgbl1_2017_j0162-1_1400.jpg)
+![bgbl1_2024_j01250_1270.jpg](bgbl1_2024_j01250_1270.jpg)
 – Passbuchinnenseiten 8 und 9 –
 
-![bgbl1_2017_j0162-1_1410.jpg](bgbl1_2017_j0162-1_1410.jpg)
+![bgbl1_2024_j01250_1280.jpg](bgbl1_2024_j01250_1280.jpg)
 – Passbuchinnenseiten 10 und 11 –
 
-![bgbl1_2017_j0162-1_1420.jpg](bgbl1_2017_j0162-1_1420.jpg)
+![bgbl1_2024_j01250_1290.jpg](bgbl1_2024_j01250_1290.jpg)
 – Passbuchinnenseiten 12 und 13 –
 
-![bgbl1_2017_j0162-1_1430.jpg](bgbl1_2017_j0162-1_1430.jpg)
+![bgbl1_2024_j01250_1300.jpg](bgbl1_2024_j01250_1300.jpg)
 – Passbuchinnenseiten 14 und 15 –
 
-![bgbl1_2017_j0162-1_1440.jpg](bgbl1_2017_j0162-1_1440.jpg)
+![bgbl1_2024_j01250_1310.jpg](bgbl1_2024_j01250_1310.jpg)
 – Passbuchinnenseiten 16 und 17 –
 
-![bgbl1_2017_j0162-1_1450.jpg](bgbl1_2017_j0162-1_1450.jpg)
+![bgbl1_2024_j01250_1320.jpg](bgbl1_2024_j01250_1320.jpg)
 – Passbuchinnenseiten 18 und 19 –
 
-![bgbl1_2017_j0162-1_1460.jpg](bgbl1_2017_j0162-1_1460.jpg)
+![bgbl1_2024_j01250_1330.jpg](bgbl1_2024_j01250_1330.jpg)
 – Passbuchinnenseiten 20 und 21 –
 
-![bgbl1_2017_j0162-1_1470.jpg](bgbl1_2017_j0162-1_1470.jpg)
+![bgbl1_2024_j01250_1340.jpg](bgbl1_2024_j01250_1340.jpg)
 – Passbuchinnenseiten 22 und 23 –
 
-![bgbl1_2017_j0162-1_1480.jpg](bgbl1_2017_j0162-1_1480.jpg)
+![bgbl1_2024_j01250_1350.jpg](bgbl1_2024_j01250_1350.jpg)
 – Passbuchinnenseiten 24 und 25 –
 
-![bgbl1_2017_j0162-1_1490.jpg](bgbl1_2017_j0162-1_1490.jpg)
+![bgbl1_2024_j01250_1360.jpg](bgbl1_2024_j01250_1360.jpg)
 – Passbuchinnenseiten 26 und 27 –
 
-![bgbl1_2017_j0162-1_1500.jpg](bgbl1_2017_j0162-1_1500.jpg)
+![bgbl1_2024_j01250_1370.jpg](bgbl1_2024_j01250_1370.jpg)
 – Passbuchinnenseiten 28 und 29 –
 
-![bgbl1_2017_j0162-1_1510.jpg](bgbl1_2017_j0162-1_1510.jpg)
+![bgbl1_2024_j01250_1380.jpg](bgbl1_2024_j01250_1380.jpg)
 – Passbuchinnenseiten 30 und 31 –
 
-![bgbl1_2017_j0162-1_1520.jpg](bgbl1_2017_j0162-1_1520.jpg)
-– Passbuchinnenseite 32 und Vorsatz des hinteren Einbandes –
+![bgbl1_2024_j01250_1390.jpg](bgbl1_2024_j01250_1390.jpg)
+– Passbuchinnenseite 32 und Vorsatz des hinteren Einbands –
 
-![bgbl1_2017_j0162-1_1530.jpg](bgbl1_2017_j0162-1_1530.jpg)
+![bgbl1_2024_j01250_1400.jpg](bgbl1_2024_j01250_1400.jpg)
+
 
 ### Anlage D7b Vorläufiger Reiseausweis für Flüchtlinge nach § 4 Abs. 1 Satz 2
 
@@ -3900,75 +3886,69 @@ vorzugsweise den Seiten 6 bis 11, aufzukleben ist;
 
 ### Anlage D8a Ausweismuster Reiseausweis für Staatenlose nach § 4 Absatz 1 Satz 1 Nummer 4
 
-(Fundstelle: BGBl. I 2017, 246 — 255)
+(Fundstelle: BGBl. 2024 I Nr. 125)
 
+– Einband –
 
-*    *   – Einband –
+![bgbl1_2024_j01250_1410.jpg](bgbl1_2024_j01250_1410.jpg)
+– Vorsatz und Passkartentitelseite –
 
-    *
-
-*    *        ![bgbl1_2017_j0162-1_1540.jpg](bgbl1_2017_j0162-1_1540.jpg)
-    *        ![bgbl1_2017_j0162-1_1550.jpg](bgbl1_2017_j0162-1_1550.jpg)
-
-
-
-   – Vorsatz und Passkartentitelseite –
-
-![bgbl1_2017_j0162-1_1560.jpg](bgbl1_2017_j0162-1_1560.jpg)
+![bgbl1_2024_j01250_1420.jpg](bgbl1_2024_j01250_1420.jpg)
 – Passkartendatenseite und Passbuchinnenseite 1 –
 
-![bgbl1_2017_j0162-1_1570.jpg](bgbl1_2017_j0162-1_1570.jpg)
+![bgbl1_2024_j01250_1430.jpg](bgbl1_2024_j01250_1430.jpg)
 Die Seiten 1 bis 32 sowie der hintere Einband
 werden am unteren Rand mit der Seriennummer perforiert.
 
 – Passbuchinnenseiten 2 und 3 –
 
-![bgbl1_2017_j0162-1_1580.jpg](bgbl1_2017_j0162-1_1580.jpg)
+![bgbl1_2024_j01250_1440.jpg](bgbl1_2024_j01250_1440.jpg)
 – Passbuchinnenseiten 4 und 5 –
 
-![bgbl1_2017_j0162-1_1590.jpg](bgbl1_2017_j0162-1_1590.jpg)
+![bgbl1_2024_j01250_1450.jpg](bgbl1_2024_j01250_1450.jpg)
 – Passbuchinnenseiten 6 und 7 –
 
-![bgbl1_2017_j0162-1_1600.jpg](bgbl1_2017_j0162-1_1600.jpg)
+![bgbl1_2024_j01250_1460.jpg](bgbl1_2024_j01250_1460.jpg)
 – Passbuchinnenseiten 8 und 9 –
 
-![bgbl1_2017_j0162-1_1610.jpg](bgbl1_2017_j0162-1_1610.jpg)
+![bgbl1_2024_j01250_1470.jpg](bgbl1_2024_j01250_1470.jpg)
 – Passbuchinnenseiten 10 und 11 –
 
-![bgbl1_2017_j0162-1_1620.jpg](bgbl1_2017_j0162-1_1620.jpg)
+![bgbl1_2024_j01250_1480.jpg](bgbl1_2024_j01250_1480.jpg)
 – Passbuchinnenseiten 12 und 13 –
 
-![bgbl1_2017_j0162-1_1630.jpg](bgbl1_2017_j0162-1_1630.jpg)
+![bgbl1_2024_j01250_1490.jpg](bgbl1_2024_j01250_1490.jpg)
 – Passbuchinnenseiten 14 und 15 –
 
-![bgbl1_2017_j0162-1_1640.jpg](bgbl1_2017_j0162-1_1640.jpg)
+![bgbl1_2024_j01250_1500.jpg](bgbl1_2024_j01250_1500.jpg)
 – Passbuchinnenseiten 16 und 17 –
 
-![bgbl1_2017_j0162-1_1650.jpg](bgbl1_2017_j0162-1_1650.jpg)
+![bgbl1_2024_j01250_1510.jpg](bgbl1_2024_j01250_1510.jpg)
 – Passbuchinnenseiten 18 und 19 –
 
-![bgbl1_2017_j0162-1_1660.jpg](bgbl1_2017_j0162-1_1660.jpg)
+![bgbl1_2024_j01250_1520.jpg](bgbl1_2024_j01250_1520.jpg)
 – Passbuchinnenseiten 20 und 21 –
 
-![bgbl1_2017_j0162-1_1670.jpg](bgbl1_2017_j0162-1_1670.jpg)
+![bgbl1_2024_j01250_1530.jpg](bgbl1_2024_j01250_1530.jpg)
 – Passbuchinnenseiten 22 und 23 –
 
-![bgbl1_2017_j0162-1_1680.jpg](bgbl1_2017_j0162-1_1680.jpg)
+![bgbl1_2024_j01250_1540.jpg](bgbl1_2024_j01250_1540.jpg)
 – Passbuchinnenseiten 24 und 25 –
 
-![bgbl1_2017_j0162-1_1690.jpg](bgbl1_2017_j0162-1_1690.jpg)
+![bgbl1_2024_j01250_1550.jpg](bgbl1_2024_j01250_1550.jpg)
 – Passbuchinnenseiten 26 und 27 –
 
-![bgbl1_2017_j0162-1_1700.jpg](bgbl1_2017_j0162-1_1700.jpg)
+![bgbl1_2024_j01250_1560.jpg](bgbl1_2024_j01250_1560.jpg)
 – Passbuchinnenseiten 28 und 29 –
 
-![bgbl1_2017_j0162-1_1710.jpg](bgbl1_2017_j0162-1_1710.jpg)
+![bgbl1_2024_j01250_1570.jpg](bgbl1_2024_j01250_1570.jpg)
 – Passbuchinnenseiten 30 und 31 –
 
-![bgbl1_2017_j0162-1_1720.jpg](bgbl1_2017_j0162-1_1720.jpg)
+![bgbl1_2024_j01250_1580.jpg](bgbl1_2024_j01250_1580.jpg)
 – Passbuchinnenseite 32 und Vorsatz des hinteren Einbandes –
 
-![bgbl1_2017_j0162-1_1730.jpg](bgbl1_2017_j0162-1_1730.jpg)
+![bgbl1_2024_j01250_1590.jpg](bgbl1_2024_j01250_1590.jpg)
+
 
 ### Anlage D8b Vorläufiger Reiseausweis für Staatenlose nach § 4 Abs. 1 Satz 2
 

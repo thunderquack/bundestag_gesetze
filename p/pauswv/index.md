@@ -735,14 +735,15 @@ Der Bundesrat hat zugestimmt.
 
 ### Anhang 1 Muster des Personalausweises
 
-(Fundstelle: BGBl. I 2021, 3691)
+(Fundstelle: BGBl. 2024 I Nr. 125)
 
 Vorderseite
 
-![bgbl1_2021_j3682-1_0050.jpg](bgbl1_2021_j3682-1_0050.jpg)
+![bgbl1_2024_j01250_1010.jpg](bgbl1_2024_j01250_1010.jpg)
 Rückseite
 
-![bgbl1_2021_j3682-1_0060.jpg](bgbl1_2021_j3682-1_0060.jpg)
+![bgbl1_2024_j01250_1020.jpg](bgbl1_2024_j01250_1020.jpg)
+
 
 ### Anhang 1a Muster des Aufklebers zur Anschriftenänderung des Personalausweises
 
@@ -829,7 +830,7 @@ Vorbemerkung:
 7.  Sofern neben dem Familiennamen auch ein Geburtsname vorhanden ist, ist der Geburtsname in einer eigenen Zeile einzutragen. Bei vorläufigen Personalausweisen und Ersatz-Personalausweisen ist dem Geburtsnamen die Zeichenfolge „GEB.“ unter Hinzufügung eines Leerzeichens voranzustellen.
 
 
-8.  Soweit ein oder mehrere Doktorgrade vorhanden sind, wird dieser oder werden diese im Datenfeld „Name“ eingetragen. Entsprechend der für die Eintragung des Doktorgrades bzw. der Doktorgrade benötigten Zeichenzahl verringert sich die Anzahl der verbleibenden Zeichen für den Namenseintrag.
+8.  Soweit ein oder mehrere Doktorgrade vorhanden sind, wird dieser bzw. werden diese im Personalausweis im Datenfeld „Doktorgrad“, im vorläufigen Personalausweis im Datenfeld „Name“ eingetragen. Die Anzahl der für den Namenseintrag vorgesehenen Zeichen verringert sich um die für die Eintragung des Doktorgrades bzw. der Doktorgrade benötigte Zeichenzahl, sofern diese Eintragung im Datenfeld „Name“ vorgenommen wird.
 
 
 9.  Die alphanummerische Seriennummer des Personalausweises wird ausschließlich aus den Buchstaben C, F, G, H, J, K, L, M, N, P, R, T, V, W, X, Y, Z und den Ziffern 1, 2, 3, 4, 5, 6, 7, 8, 9 gebildet. Beim vorläufigen Personalausweis und beim Ersatz-Personalausweis besteht die Seriennummer aus einem Buchstaben und sieben Ziffern.
@@ -846,7 +847,7 @@ Vorbemerkung:
     *   Anzahl der zur Verfügung stehenden Zeichen
 
 
-*    *[^F1_790187_BJNR146000010BJNE004406130]
+*    *[^F1_790187_BJNR146000010BJNE004407130]
    Schriftgröße
         1
         Schriftfont des Ausweisherstellers: (2 mm)
@@ -940,13 +941,23 @@ Vorbemerkung:
     *   Einträge in Schriftgröße 2 sind unzulässig
 
 
-*    *   Ordens- und Künstlername
+*    *   Doktorgrad
 
     *   20 Zeichen pro Zeile;
         1 Zeile (insgesamt 20 Zeichen)
 
-    *   30 Zeichen pro Zeile;
-        2 Zeilen (insgesamt 60 Zeichen)
+    *   31 Zeichen pro Zeile;
+        1 Zeile (insgesamt 32 Zeichen)
+
+
+*    *[^F829576_02_BJNR146000010BJNE004407130]
+   Ordens- und Künstlername
+
+    *   20 Zeichen pro Zeile;
+        1 Zeile (insgesamt 20 Zeichen)
+
+    *   31 Zeichen pro Zeile;
+        1 Zeile (insgesamt 32 Zeichen)
 
 
 *    *   ausstellende Behörde
@@ -1104,7 +1115,8 @@ Abschnitt 2
 
 
     Die Schriftgröße ist am Großbuchstaben E auszurichten.
-[^F1_790187_BJNR146000010BJNE004406130]: 
+[^F1_790187_BJNR146000010BJNE004407130]:     Gilt nur für den Personalausweis.
+[^F829576_02_BJNR146000010BJNE004407130]: 
 
 ### Anhang 3a Muster der eID-Karte
 
