@@ -272,11 +272,11 @@ Es ist verboten,
 
 
 
-### Unterabschnitt 3 - Fütterung
-
-
-
 #### § 13 (weggefallen)
+
+
+
+### Unterabschnitt 3 - Fütterung
 
 
 
