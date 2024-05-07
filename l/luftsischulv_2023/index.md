@@ -2402,7 +2402,8 @@ Schulungsinhalte für die Erst- und Wiederholungsschulungen für Sprengstoffspü
     *        *   **Sprengstoff**
 
         *
-            –   Rechtsvorschriften (z. B. SprenG, SprengV, SprengLR, GGBefG, ADR)
+            –   Rechtsvorschriften (z. B.
+                SprengG                                   , SprengV, SprengLR, GGBefG, ADR)
 
 
             –   Sprengstoffe, Zündmittel, Sprengzubehör
