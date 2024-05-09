@@ -17,3 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1997, Nr 26, 1266
 
+V aufgeh. durch
+:   § 4 Satz 2 V 96-1-2-176-1 v. 9.4.2024 I Nr. 144 mWv 8.8.2024
+
+V ersetzt durch
+:   V 96-1-2-176-1 v. 9.4.2024 I Nr. 144 (LuftVODV 176 2024)
+
