@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2019, 2763
 
 Zuletzt geändert durch
-:   Art. 26 G v. 27.3.2024 I Nr. 108
-
-Änderung durch
-:   Art. 27 G v. 27.3.2024 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 27 G v. 27.3.2024 I Nr. 108
 
 
 ## § 1 Anspruchsberechtigung

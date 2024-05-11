@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 19.12.2022 I 2632
 
+Änderung durch
+:   Art. 5 G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Aufgaben und Verwendungen
 

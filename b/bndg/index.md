@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 22.12.2023 I Nr. 410
 
+Änderung durch
+:   Art. 4 G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 noch nicht berücksichtigt
+
 Stand: Das G ist gem. Art. 6 Abs. 1 G v. 20.12.1990 I 2954 am 30.12.1990 in Kraft getreten
 
 ## Abschnitt 1 - Organisation, Aufgaben und allgemeine Befugnisse

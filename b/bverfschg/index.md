@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 22.12.2023 I Nr. 413
 
+Änderung durch
+:   Art. 2 G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Zusammenarbeit, Aufgaben der Verfassungsschutzbehörden
 
