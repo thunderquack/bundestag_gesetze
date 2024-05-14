@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 Abs. 1 G v. 14.9.2021 I 4250
 
+Änderung durch
+:   Art. 15 G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Grundlagen der Anstalt
 

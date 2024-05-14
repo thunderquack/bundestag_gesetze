@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 19.12.2022 I 2632; 2023 I Nr. 60
 
+Änderung durch
+:   Art. 14 G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 noch nicht berücksichtigt
+
 Stand: Ersetzt 2190-2 G v. 7.7.1997 I 1650 (BKAG 1997)
 
 ## Abschnitt 1 - Zentrale Einrichtungen zur Zusammenarbeit in kriminalpolizeilichen Angelegenheiten, Aufgaben des Bundeskriminalamtes

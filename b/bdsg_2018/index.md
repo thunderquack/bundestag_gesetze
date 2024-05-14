@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 22.12.2023 I Nr. 414
 
+Änderung durch
+:   Art. 7 G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 noch nicht berücksichtigt
+
 Stand: Ersetzt G 204-3 v. 20.12.1990 I 2954, 2955 (BDSG 1990)
 
 ## Teil 1 - Gemeinsame Bestimmungen

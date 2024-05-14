@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 29 G v. 23.6.2021 I 1858
 
+Änderung durch
+:   Art. 25 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -137,7 +140,7 @@ Auf Grund des § 2 Satz 2 des ZIS-Ausführungsgesetzes vom 31. März 2004 (BGBl.
     t)  § 27 Absatz 1 und 2 des Jugendschutzgesetzes,
 
 
-    u)  § 25 Absatz 1 Nummer 3 Variante 2 des Telekommunikation-Telemedien-Datenschutz-Gesetzes,
+    u)  § 25 Absatz 1 Nummer 3 Variante 2 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes,
 
 
     v)  § 5 des Hundeverbringungs- und -einfuhrbeschränkungsgesetzes;

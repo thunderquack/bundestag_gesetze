@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 7.11.1990 I 2479;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 9.5.2018 I 550
+:   Art. 28 G v. 6.5.2024 I Nr. 149
 
 
 ## § 1 Anwendungsbereich
@@ -560,7 +560,8 @@ Gewerbetreibende, die Vermögenswerte des Auftraggebers nach den §§ 3 oder 7 A
 
 ## Anlage 1 (zu § 15b Absatz 1)
 
-(Fundstelle: BGBl. I 2018, 552 — 554)
+(Fundstelle: BGBl. I 2018, 552 — 554
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## **A. Inhaltliche Anforderungen an die Weiterbildung für Immobilienmakler**
 
@@ -646,7 +647,7 @@ Gewerbetreibende, die Vermögenswerte des Auftraggebers nach den §§ 3 oder 7 A
 3.8.1 Dienstleistungs-Informationspflichten-Verordnung
 
 
-3.8.2 Telemediengesetz
+3.8.2 Digitale-Dienste-Gesetz
 
 
 3.8.3 Preisangabenverordnung
@@ -801,7 +802,7 @@ Gewerbetreibende, die Vermögenswerte des Auftraggebers nach den §§ 3 oder 7 A
 2.12.1 Dienstleistungs-Informationspflichten-Verordnung
 
 
-2.12.2 Telemediengesetz
+2.12.2 Digitale-Dienste-Gesetz
 
 
 2.12.3 Preisangabenverordnung

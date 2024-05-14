@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 6 Abs. 3 G v. 5.7.2021 I 2274
 
+Änderung durch
+:   Art. 33 G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 noch nicht berücksichtigt
+
 Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 241 vom 17.9.2015, S. 1).
 
 

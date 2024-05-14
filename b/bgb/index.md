@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 34 Abs. 3 G v. 22.12.2023 I Nr. 411
 
+Änderung durch
+:   Art. 17 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
 1.  Richtlinie 76/207/EWG des Rates vom 9. Februar 1976 zur Verwirklichung des Grundsatzes der Gleichbehandlung von Männern und Frauen hinsichtlich des Zugangs zur Beschäftigung, zur Berufsbildung und zum beruflichen Aufstieg sowie in Bezug auf die Arbeitsbedingungen (ABl. EG Nr. L 39 S. 40),
@@ -3408,7 +3411,7 @@ Dem Unternehmer stehen Personen gleich, die in seinem Namen oder Auftrag handeln
 
 (1) Fernabsatzverträge sind Verträge, bei denen der Unternehmer oder eine in seinem Namen oder Auftrag handelnde Person und der Verbraucher für die Vertragsverhandlungen und den Vertragsschluss ausschließlich Fernkommunikationsmittel verwenden, es sei denn, dass der Vertragsschluss nicht im Rahmen eines für den Fernabsatz organisierten Vertriebs- oder Dienstleistungssystems erfolgt.
 
-(2) Fernkommunikationsmittel im Sinne dieses Gesetzes sind alle Kommunikationsmittel, die zur Anbahnung oder zum Abschluss eines Vertrags eingesetzt werden können, ohne dass die Vertragsparteien gleichzeitig körperlich anwesend sind, wie Briefe, Kataloge, Telefonanrufe, Telekopien, E-Mails, über den Mobilfunkdienst versendete Nachrichten (SMS) sowie Rundfunk und Telemedien.
+(2) Fernkommunikationsmittel im Sinne dieses Gesetzes sind alle Kommunikationsmittel, die zur Anbahnung oder zum Abschluss eines Vertrags eingesetzt werden können, ohne dass die Vertragsparteien gleichzeitig körperlich anwesend sind, wie Briefe, Kataloge, Telefonanrufe, Telekopien, E-Mails, über den Mobilfunkdienst versendete Nachrichten (SMS) sowie Rundfunk und digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes.
 
 
 ###### § 312d Informationspflichten
@@ -3520,7 +3523,7 @@ bedarf die Kündigung des Verbrauchers oder die Vollmacht zur Kündigung der Tex
 
 ###### § 312i Allgemeine Pflichten im elektronischen Geschäftsverkehr
 
-(1) Bedient sich ein Unternehmer zum Zwecke des Abschlusses eines Vertrags über die Lieferung von Waren oder über die Erbringung von Dienstleistungen der Telemedien (Vertrag im elektronischen Geschäftsverkehr), hat er dem Kunden
+(1) Bedient sich ein Unternehmer zum Zwecke des Abschlusses eines Vertrags über die Lieferung von Waren oder über die Erbringung von Dienstleistungen digitaler Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes (Vertrag im elektronischen Geschäftsverkehr), hat er dem Kunden
 
 1.  angemessene, wirksame und zugängliche technische Mittel zur Verfügung zu stellen, mit deren Hilfe der Kunde Eingabefehler vor Abgabe seiner Bestellung erkennen und berichtigen kann,
 

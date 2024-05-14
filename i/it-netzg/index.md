@@ -19,6 +19,9 @@ Fundstelle
 Geändert durch
 :   Art. 72 V v. 19.6.2020 I 1328
 
+Änderung durch
+:   Art. 9 G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 noch nicht berücksichtigt
+
 
 ## § 1 Gegenstand der Zusammenarbeit; Koordinierungsgremium
 

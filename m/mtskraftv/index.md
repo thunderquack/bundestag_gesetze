@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 595 (3245); 2013, 3304
 
+Änderung durch
+:   Art. 27 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Der § 4 Abs. 2 ist gem. Bek. v. 23.8.2013 I 3304 am 31.8.2013 in Kraft getreten.
 Stand: Die §§ 5 und 7 sind gem. Bek. v. 23.8.2013 I 3304 am 1.12.2013 in Kraft getreten.
 
@@ -174,7 +177,7 @@ Der Antrag hat zudem folgende Angaben zu enthalten:
 3.  den Namen einer Kontaktperson unter Angabe von deren Telefonnummer,
 
 
-4.  und falls vorhanden, den Namen des gesetzlichen Vertreters oder des Verantwortlichen nach § 5 des Telemediengesetzes oder des § 55 Absatz 2 des Rundfunkstaatsvertrags sowie dessen Adresse und Telefonnummer sowie, falls vorhanden, dessen Telefaxnummer und E-Mail-Adresse.
+4.  und falls vorhanden, den Namen des gesetzlichen Vertreters oder des Verantwortlichen nach § 5 des Digitale-Dienste-Gesetzes oder des § 18 Absatz 2 des Medienstaatsvertrags sowie dessen Adresse und Telefonnummer sowie, falls vorhanden, dessen Telefaxnummer und E-Mail-Adresse.
 
 
 

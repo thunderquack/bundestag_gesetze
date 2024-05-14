@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 Abs. 23 G v. 21.6.2019 I 846
 
+Änderung durch
+:   Art. 20 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war.
 
@@ -31,7 +34,7 @@ Auf Grund des § 15 Absatz 5 des Vermögensanlagengesetzes, der durch Artikel 2 
 
 (1) Durch diese Verordnung werden die Anforderungen näher bestimmt, die an eine Bestätigung durch Nutzung von Fernkommunikationsmittel nach § 15 Absatz 4 des Gesetzes zu stellen sind, um die eigenhändige Unterzeichnung durch den Anleger nach § 15 Absatz 3 des Gesetzes in gleichwertiger Art und Weise zu ersetzen.
 
-(2) Fernkommunikationsmittel im Sinne des § 15 Absatz 4 des Gesetzes sind Kommunikationsmittel, die zur Anbahnung oder zum Abschluss eines Vertrags über eine Vermögensanlage zwischen einem Anleger und einem Anbieter oder Emittenten eingesetzt werden können, ohne dass die Vertragsparteien gleichzeitig körperlich anwesend sind, wie Telefonanrufe, Telekopien, E-Mails, über den Mobilfunkdienst versendete Nachrichten (SMS), Telemedien sowie Internetseiten.
+(2) Fernkommunikationsmittel im Sinne des § 15 Absatz 4 des Gesetzes sind Kommunikationsmittel, die zur Anbahnung oder zum Abschluss eines Vertrags über eine Vermögensanlage zwischen einem Anleger und einem Anbieter oder Emittenten eingesetzt werden können, ohne dass die Vertragsparteien gleichzeitig körperlich anwesend sind, wie Telefonanrufe, Telekopien, E-Mails, über den Mobilfunkdienst versendete Nachrichten (SMS), digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes sowie Internetseiten.
 
 
 ## § 2 Gleichwertigkeit der Bestätigung

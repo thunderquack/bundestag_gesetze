@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 3 G v. 26.2.2007 I 179
 
+Änderung durch
+:   Art. 23 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -34,10 +37,10 @@ Im Sinne dieses Gesetzes bezeichnet der Ausdruck
 
 1.  "zugangskontrollierte Dienste"
 
-    a)  Rundfunkdarbietungen im Sinne von § 2 des Rundfunkstaatsvertrages,
+    a)  Rundfunk im Sinne von § 2 Absatz 1 Satz 1 des Medienstaatsvertrages,
 
 
-    b)  Telemedien im Sinne von § 1 des Telemediengesetzes,
+    b)  digitale Dienste im Sinne von § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes,
 
 
 

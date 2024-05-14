@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 13 G v. 8.10.2023 I Nr. 272
 
+Änderung durch
+:   Art. 21 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Dieses Gesetz dient der Umsetzung der Richtlinie 2005/29/EG des Europäischen Parlaments und des Rates vom 11. Mai 2005 über unlautere Geschäftspraktiken von Unternehmen gegenüber Verbrauchern im Binnenmarkt und zur Änderung der Richtlinie 84/450/EWG des Rates, der Richtlinien 97/7/EG, 98/27/EG und 2002/65/EG des Europäischen Parlaments und des Rates sowie der Verordnung (EG) Nr. 2006/2004 des Europäischen Parlaments und des Rates (ABl. L 149 vom 11.6.2005, S. 22; berichtigt im ABl. L 253 vom 25.9.2009, S. 18) sowie der Richtlinie 2006/114/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über irreführende und vergleichende Werbung (kodifizierte Fassung) (ABl. L 376 vom 27.12.2006, S. 21). Es dient ferner der Umsetzung von Artikel 13 der Richtlinie 2002/58/EG des Europäischen Parlaments und des Rates vom 12. Juli 2002 über die Verarbeitung personenbezogener Daten und den Schutz der Privatsphäre in der elektronischen Kommunikation (ABl. L 201 vom 31.7.2002, S. 37), der zuletzt durch Artikel 2 Nummer 7 der Richtlinie 2009/136/EG (ABl. L 337 vom 18.12.2009, S. 11) geändert worden ist.
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen Parlaments und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 204 vom 21.7.1998, S. 37), die zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S. 81) geändert worden ist, sind beachtet worden.
@@ -359,7 +362,7 @@ Die Informationen nach Satz 1 müssen von der Anzeige der Suchergebnisse aus unm
     a)  bei der die Identität des Absenders, in dessen Auftrag die Nachricht übermittelt wird, verschleiert oder verheimlicht wird oder
 
 
-    b)  bei der gegen § 6 Absatz 1 des Telemediengesetzes verstoßen wird oder in der der Empfänger aufgefordert wird, eine Website aufzurufen, die gegen diese Vorschrift verstößt, oder
+    b)  bei der gegen § 6 Absatz 1 des Digitale-Dienste-Gesetzes verstoßen wird oder in der der Empfänger aufgefordert wird, eine Website aufzurufen, die gegen diese Vorschrift verstößt, oder
 
 
     c)  bei der keine gültige Adresse vorhanden ist, an die der Empfänger eine Aufforderung zur Einstellung solcher Nachrichten richten kann, ohne dass hierfür andere als die Übermittlungskosten nach den Basistarifen entstehen.
@@ -589,7 +592,7 @@ Anspruchsberechtigt nach § 8 Absatz 1 sind bei einem Verstoß gegen die Verordn
 
 (4) Der Anspruch auf Ersatz der erforderlichen Aufwendungen nach Absatz 3 ist für Anspruchsberechtigte nach § 8 Absatz 3 Nummer 1 ausgeschlossen bei
 
-1.  im elektronischen Geschäftsverkehr oder in Telemedien begangenen Verstößen gegen gesetzliche Informations- und Kennzeichnungspflichten oder
+1.  im elektronischen Geschäftsverkehr oder in digitalen Diensten nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes begangenen Verstößen gegen gesetzliche Informations- und Kennzeichnungspflichten oder
 
 
 2.  sonstigen Verstößen gegen die Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) und das Bundesdatenschutzgesetz durch Unternehmen sowie gewerblich tätige Vereine, sofern sie in der Regel weniger als 250 Mitarbeiter beschäftigen.
@@ -633,7 +636,7 @@ Anspruchsberechtigt nach § 8 Absatz 1 sind bei einem Verstoß gegen die Verordn
 
 (2) Für alle bürgerlichen Rechtsstreitigkeiten, mit denen ein Anspruch auf Grund dieses Gesetzes geltend gemacht wird, ist das Gericht zuständig, in dessen Bezirk der Beklagte seinen allgemeinen Gerichtsstand hat. Für alle bürgerlichen Rechtsstreitigkeiten, mit denen ein Anspruch auf Grund dieses Gesetzes geltend gemacht wird, ist außerdem das Gericht zuständig, in dessen Bezirk die Zuwiderhandlung begangen wurde. Satz 2 gilt nicht für
 
-1.  Rechtsstreitigkeiten wegen Zuwiderhandlungen im elektronischen Geschäftsverkehr oder in Telemedien oder
+1.  Rechtsstreitigkeiten wegen Zuwiderhandlungen im elektronischen Geschäftsverkehr oder in digitalen Diensten nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes oder
 
 
 2.  Rechtsstreitigkeiten, die von den nach § 8 Absatz 3 Nummer 2 bis 4 zur Geltendmachung eines Unterlassungsanspruchs Berechtigten geltend gemacht werden,

@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 16.7.2021 I 3026
 
+Änderung durch
+:   Art. 6 G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 noch nicht berücksichtigt
+
 
 ## § 1 Rechtsform, Name
 

@@ -2150,7 +2150,7 @@ Formular WpI-EEKNP
         Artikel 3 Absatz 2 Buchstabe c der Delegierten Verordnung (EU) 2017/1946
 
     *   *                        nicht erforderlich
-        *                        ja, Nr. \_ \_
+        *                        ja, Nr. _ \_
         *                        wird nachgereicht
 
 

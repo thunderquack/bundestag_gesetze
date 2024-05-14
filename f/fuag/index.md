@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 52 G v. 23.6.2021 I 1858
 
+Änderung durch
+:   Art. 1 G v. 6.5.2024 I Nr. 148 mWv 14.5.2024 noch nicht berücksichtigt
+
 [^F798863_01_BJNR194710017]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates vom 16. April 2014 über die Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die Bereitstellung von Funkanlagen auf dem Markt und zur Aufhebung der Richtlinie 1999/5/EG (ABl. L 153 vom 22.5.2014, S. 62).
 
 

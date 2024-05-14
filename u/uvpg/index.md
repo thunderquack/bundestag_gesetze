@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 18.3.2021 I 540
 
 Zuletzt geändert durch
-:   Art. 14c G v. 22.12.2023 I Nr. 405
-
-Änderung durch
-:   Art. 10 G v. 22.12.2023 I Nr. 409 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 22.12.2023 I Nr. 409
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2011/92/EU des Europäischen Parlaments und des Rates vom 13. Dezember 2011 über die Umweltverträglichkeitsprüfung bei bestimmten öffentlichen und privaten Projekten in der Fassung der Richtlinie 2014/52/EU (ABl. L 124 vom 25.4.2014, S. 1) und der Richtlinie 2001/42/EG des Europäischen Parlaments und des Rates vom 27. Juni 2001 über die Prüfung der Umweltauswirkungen bestimmter Pläne und Programme (ABl. L 197 vom 21.7.2001, S. 30).
 
