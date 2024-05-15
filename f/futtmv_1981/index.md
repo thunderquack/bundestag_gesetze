@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 2 V v. 11.4.2024 I Nr. 128
 
 Änderung durch
-:   Art. 30 G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 noch nicht berücksichtigt
+:   Art. 30 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Die Verordnung dient in der bis zum 24. März 2007 geltenden Fassung der Umsetzung der in der Fassung der Bekanntmachung der Futtermittelverordnung vom 24. Mai 2007 (BGBl. I S. 770) genannten Rechtsakte der Europäischen Gemeinschaft.
 Die Verordnung dient in der ab dem 25. März 2007 geltenden Fassung darüber hinaus der Umsetzung der folgenden Rechtsakte der Europäischen Gemeinschaft und der Europäischen Union:
@@ -154,7 +154,7 @@ Im Sinne dieser Verordnung sind:
     für die Vertragsverhandlungen und den Vertragsschluss ausschließlich Fernkommunikationsmittel verwenden, es sei denn, dass der Vertragsschluss nicht im Rahmen eines für den Fernabsatz organisierten Vertriebs- oder Dienstleistungssystems erfolgt,
 
 
-13. Fernkommunikationsmittel: Kommunikationsmittel, die zur Anbahnung oder zum Abschluss eines Vertrages eingesetzt werden können, ohne dass die Vertragsparteien gleichzeitig körperlich anwesend sind, wie Briefe, Kataloge, Telekopien, E-Mails oder Telemedien.
+13. Fernkommunikationsmittel: Kommunikationsmittel, die zur Anbahnung oder zum Abschluss eines Vertrages eingesetzt werden können, ohne dass die Vertragsparteien gleichzeitig körperlich anwesend sind, wie Briefe, Kataloge, Telekopien, E-Mails oder digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes.
 
 
 

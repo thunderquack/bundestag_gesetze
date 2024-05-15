@@ -23,7 +23,7 @@ Zuletzt geändert durch
 :   Art. 6 Abs. 3 G v. 5.7.2021 I 2274
 
 Änderung durch
-:   Art. 33 G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 noch nicht berücksichtigt
+:   Art. 33 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 241 vom 17.9.2015, S. 1).
 
@@ -116,7 +116,7 @@ Im Sinne dieser Verordnung ist
 
     b)  im Sinne des Teils 4 die Stelle,
 
-        aa) die nach § 101a Absatz 1 in Verbindung mit § 100a Absatz 4 Satz 1 der Strafprozessordnung, § 8a Absatz 1 Satz 1 Nummer 4 des Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 4a des MAD-Gesetzes oder § 3 des BND-Gesetzes, § 52 des Bundeskriminalamtgesetzes, § 77 des Zollfahndungsdienstgesetzes oder nach Landesrecht auf Grund der jeweiligen Anordnung berechtigt ist, Auskunftsverlangen über nach den §§ 9 und 12 des Telekommunikation-Telemedien-Datenschutz-Gesetzes erhobene Verkehrsdaten zu stellen, oder
+        aa) die nach § 101a Absatz 1 in Verbindung mit § 100a Absatz 4 Satz 1 der Strafprozessordnung, § 8a Absatz 1 Satz 1 Nummer 4 des Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 4a des MAD-Gesetzes oder § 3 des BND-Gesetzes, § 52 des Bundeskriminalamtgesetzes, § 77 des Zollfahndungsdienstgesetzes oder nach Landesrecht auf Grund der jeweiligen Anordnung berechtigt ist, Auskunftsverlangen über nach den §§ 9 und 12 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes erhobene Verkehrsdaten zu stellen, oder
 
 
         bb) der nach § 177 Absatz 1 Nummer 1 oder 2 des Telekommunikationsgesetzes Auskünfte über nach § 176 des Telekommunikationsgesetzes gespeicherte Verkehrsdaten erteilt werden dürfen;
@@ -903,7 +903,7 @@ Der Verpflichtete hat sicherzustellen, dass die Zugriffe auf seine für die Erte
 3.  die weiteren für die Suche verwendeten Daten einschließlich der Zeitpunkte (Datum und Uhrzeit auf der Grundlage der amtlichen Zeit), zwischen denen die Verkehrsdatensätze in Bezug auf die Kennung nach Nummer 2 erfasst werden,
 
 
-4.  die Angabe der Rechtsvorschrift (§§ 9 oder 12 des Telekommunikation-Telemedien-Datenschutz-Gesetzes oder § 176 des Telekommunikationsgesetzes), auf deren Grundlage die beauskunfteten Verkehrsdaten gespeichert wurden,
+4.  die Angabe der Rechtsvorschrift (§§ 9 oder 12 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes oder § 176 des Telekommunikationsgesetzes), auf deren Grundlage die beauskunfteten Verkehrsdaten gespeichert wurden,
 
 
 5.  die Adressierungsangabe des Anschlusses, an den die ermittelten Verkehrsdatensätze übermittelt werden,
@@ -916,7 +916,7 @@ Der Verpflichtete hat sicherzustellen, dass die Zugriffe auf seine für die Erte
 
 
 
-Die ermittelten Verkehrsdaten dürfen nicht protokolliert werden. Satz 1 gilt nicht für betrieblich erforderliche Zugriffe auf Daten, die nach den §§ 9 oder 12 des Telekommunikation-Telemedien-Datenschutz-Gesetzes gespeichert werden. Die Angaben nach Satz 3 Nummer 6 dürfen ausschließlich bei auf tatsächlichen Anhaltspunkten beruhenden Untersuchungen zur Aufklärung von Missbrauchs- oder Fehlerfällen verwendet werden. Im Übrigen gelten für die Protokollierung sowie für die Prüfung und Löschung der dafür erzeugten Protokolldaten § 16 Absatz 2 und § 17 entsprechend mit der Maßgabe, dass abweichend von § 17 Absatz 1 Satz 3 fünf vom Hundert der gestellten Auskunftsverlangen einer Prüfung zu unterziehen sind.
+Die ermittelten Verkehrsdaten dürfen nicht protokolliert werden. Satz 1 gilt nicht für betrieblich erforderliche Zugriffe auf Daten, die nach den §§ 9 oder 12 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes gespeichert werden. Die Angaben nach Satz 3 Nummer 6 dürfen ausschließlich bei auf tatsächlichen Anhaltspunkten beruhenden Untersuchungen zur Aufklärung von Missbrauchs- oder Fehlerfällen verwendet werden. Im Übrigen gelten für die Protokollierung sowie für die Prüfung und Löschung der dafür erzeugten Protokolldaten § 16 Absatz 2 und § 17 entsprechend mit der Maßgabe, dass abweichend von § 17 Absatz 1 Satz 3 fünf vom Hundert der gestellten Auskunftsverlangen einer Prüfung zu unterziehen sind.
 
 
 ## Teil 5 - Ergänzende technische Festlegungen, Übergangsvorschriften, Schlussbestimmungen

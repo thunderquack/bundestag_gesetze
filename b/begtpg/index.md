@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 16.7.2021 I 3026
 
 Änderung durch
-:   Art. 6 G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 noch nicht berücksichtigt
+:   Art. 6 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Rechtsform, Name
@@ -38,10 +38,13 @@ Die auf der Grundlage des Zehnten Teils des Telekommunikationsgesetzes vom 25. J
 2.  des Telekommunikationsrechts,
 
 
-3.  des Postrechts sowie
+3.  des Postrechts,
 
 
-4.  des Rechts des Zuganges zur Eisenbahninfrastruktur nach Maßgabe des Bundeseisenbahnverkehrsverwaltungsgesetzes
+4.  des Rechts des Zuganges zur Eisenbahninfrastruktur nach Maßgabe des Bundeseisenbahnverkehrsverwaltungsgesetzes sowie
+
+
+5.  des Rechts der digitalen Dienste nach Maßgabe des Digitale-Dienste-Gesetzes
 
 
 

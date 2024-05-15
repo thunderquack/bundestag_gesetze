@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 44 G v. 23.6.2021 I 1858
 
 Änderung durch
-:   Art. 34 G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 noch nicht berücksichtigt
+:   Art. 34 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -125,10 +125,10 @@ Vorgaben zur Genauigkeit und Zuverlässigkeit der Standortfeststellung werden in
 
 (4) Der Telefondiensteanbieter, der den unter einer Notrufnummer geäußerten Verbindungswunsch eines Nutzers entgegennimmt, hat der Notrufabfragestelle als Teil der Notrufverbindung zu übermitteln:
 
-1.  die Rufnummer des Anschlusses, von dem die Notrufverbindung ausgeht, auch wenn die Anzeige der Rufnummer im Einzelfall oder dauernd ausgeschlossen ist (§ 15 Absatz 1 Satz 3 des Telekommunikation-Telemedien-Datenschutz-Gesetzes),
+1.  die Rufnummer des Anschlusses, von dem die Notrufverbindung ausgeht, auch wenn die Anzeige der Rufnummer im Einzelfall oder dauernd ausgeschlossen ist (§ 15 Absatz 1 Satz 3 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes),
 
 
-2.  Angaben zum Standort des Endgerätes, von dem die Notrufverbindung ausgeht, auch wenn die Übermittlung von Angaben zum Standort im Einzelfall oder dauernd ausgeschlossen ist (§ 13 Absatz 3 des Telekommunikation-Telemedien-Datenschutz-Gesetzes), und
+2.  Angaben zum Standort des Endgerätes, von dem die Notrufverbindung ausgeht, auch wenn die Übermittlung von Angaben zum Standort im Einzelfall oder dauernd ausgeschlossen ist (§ 13 Absatz 3 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes), und
 
 
 3.  seine Anbieterkennung.

@@ -1571,7 +1571,8 @@ Ist die zuständige Behörde bei der Umweltverträglichkeitsprüfung zugleich Vo
 
 ### Anlage 1 Liste „UVP-pflichtige Vorhaben“
 
-(Fundstelle: BGBl. I 2021, 565 – 582)
+(Fundstelle: BGBl. I 2021, 565 – 582;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Nachstehende Vorhaben fallen nach § 1 Absatz 1 Nummer 1 in den Anwendungsbereich dieses Gesetzes. Soweit nachstehend eine allgemeine Vorprüfung oder eine standortbezogene Vorprüfung des Einzelfalls vorgesehen ist, nimmt dies Bezug auf die Regelungen des § 7 Absatz 1 und 2.
 

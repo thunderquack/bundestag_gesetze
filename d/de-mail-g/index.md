@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 7 G v. 10.8.2021 I 3436
 
 Änderung durch
-:   Art. 10 G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 noch nicht berücksichtigt
+:   Art. 10 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -257,7 +257,7 @@ Weitere Gründe für eine Löschung können vertraglich vereinbart werden.
 
 (3) Die Veröffentlichung der De-Mail-Adresse im Verzeichnisdienst auf ein Verlangen des Nutzers als Verbraucher nach Absatz 1 allein gilt nicht als Eröffnung des Zugangs im Sinne von § 3a Absatz 1 des Verwaltungsverfahrensgesetzes, § 36a Absatz 1 des Ersten Buches Sozialgesetzbuch oder des § 87a Absatz 1 Satz 1 der Abgabenordnung. Auf Verlangen des Nutzers muss der akkreditierte Diensteanbieter durch einen geeigneten Zusatz die Erklärung des Nutzers im Verzeichnisdienst veröffentlichen, den Zugang im Sinne von § 3a des Verwaltungsverfahrensgesetzes, § 36a Absatz 1 des Ersten Buches Sozialgesetzbuch und des § 87a Absatz 1 Satz 1 der Abgabenordnung eröffnen zu wollen. Die Veröffentlichung der De-Mail-Adresse des Nutzers als Verbraucher mit diesem Zusatz im Verzeichnisdienst gilt als Zugangseröffnung. Satz 2 gilt entsprechend für die Entscheidung des Nutzers, die Zugangseröffnung zurückzunehmen.
 
-(4) § 18 des Telekommunikation-Telemedien-Datenschutz-Gesetzes gilt entsprechend.
+(4) § 18 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes gilt entsprechend.
 
 
 ### § 8 Dokumentenablage
@@ -359,7 +359,7 @@ Der akkreditierte Diensteanbieter hat bei Gestaltung und Betrieb der De-Mail-Die
 
 ### § 15 Datenschutz
 
-Der akkreditierte Diensteanbieter darf personenbezogene Daten des Nutzers eines De-Mail-Kontos nur verarbeiten, soweit dies zur Bereitstellung der De-Mail-Dienste und deren Durchführung erforderlich ist; im Übrigen gelten die Regelungen des Telemediengesetzes, des Telekommunikationsgesetzes, des Telekommunikation-Telemedien-Datenschutz-Gesetzes und des Bundesdatenschutzgesetzes. Die datenschutzrechtlichen Regelungen dieser Gesetze gelten ergänzend zu der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung.
+Der akkreditierte Diensteanbieter darf personenbezogene Daten des Nutzers eines De-Mail-Kontos nur verarbeiten, soweit dies zur Bereitstellung der De-Mail-Dienste und deren Durchführung erforderlich ist; im Übrigen gelten die Regelungen des Digitale-Dienste-Gesetzes, des Telekommunikationsgesetzes, des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes und des Bundesdatenschutzgesetzes. Die datenschutzrechtlichen Regelungen dieser Gesetze gelten ergänzend zu der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung.
 
 
 ### § 16 Auskunftsanspruch
