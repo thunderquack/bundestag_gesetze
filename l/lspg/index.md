@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1993, 1814
 
 Zuletzt geändert durch
-:   Art. 2 G v. 14.11.2022 I 2030
+:   Art. 4 G v. 8.5.2024 I Nr. 153
 
 
 ## Eingangsformel

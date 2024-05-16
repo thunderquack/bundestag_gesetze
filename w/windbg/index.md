@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 26.7.2023 I Nr. 202
 
+Änderung durch
+:   Art. 12 G v. 8.5.2024 I Nr. 151 mWv 16.5.2024 bzw. 20.5.2024 noch nicht berücksichtigt
+
 
 ## § 1 Ziel des Gesetzes
 

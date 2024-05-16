@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 5.2.2024 I Nr. 33
 
+Änderung durch
+:   Art. 1 G v. 8.5.2024 I Nr. 151 mWv 16.5.2024 noch nicht berücksichtigt
+
 
 ## Teil 1 - Allgemeine Bestimmungen
 

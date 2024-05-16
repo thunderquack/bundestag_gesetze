@@ -16,10 +16,7 @@ Fundstelle
 :   RGBl: 1897, 219
 
 Zuletzt geändert durch
-:   Art. 29 G v. 27.3.2024 I Nr. 108
-
-Änderung durch
-:   Art. 2 G v. 11.4.2024 I Nr. 120 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 11.4.2024 I Nr. 120
 
 
 ## Erstes Buch - Handelsstand

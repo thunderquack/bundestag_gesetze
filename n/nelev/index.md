@@ -18,6 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 5a G v. 19.7.2022 I 1214
 
+Änderung durch
+:   Art. 1 V v. 16.5.2024 I Nr. 157 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 1 V v. 16.5.2024 I Nr. 158 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F799008_01_BJNR165100017]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 241 vom 17.9.2015, S. 1).
 
 

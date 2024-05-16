@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 G v. 20.7.2022 I 1237
 
+Änderung durch
+:   Art. 8 G v. 8.5.2024 I Nr. 151 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 

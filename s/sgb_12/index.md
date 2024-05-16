@@ -17,13 +17,7 @@ Fundstelle
 :   BGBl I: 2003, 3022, 3023
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.12.2023 I Nr. 408
-
-Mittelbare änderung durch
-:   Art. 14 Nr. 1 G v. 22.12.2023 I Nr. 408 ist berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 15 G v. 22.12.2023 I Nr. 408 ist berücksichtigt
+:   Art. 7 G v. 8.5.2024 I Nr. 152
 
 
 ## Inhaltsverzeichnis

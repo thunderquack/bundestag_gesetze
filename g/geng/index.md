@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 16.10.2006 I 2230;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 20.7.2022 I 1166
-
-Änderung durch
-:   Art. 4 G v. 11.4.2024 I Nr. 120 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 11.4.2024 I Nr. 120
 
 
 ## Abschnitt 1 - Errichtung der Genossenschaft

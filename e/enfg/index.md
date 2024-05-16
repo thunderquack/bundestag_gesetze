@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 26.7.2023 I Nr. 202
 
+Änderung durch
+:   Art. 11 G v. 8.5.2024 I Nr. 151 mWv 16.5.2024 noch nicht berücksichtigt
+
 
 ## Teil 1 - Allgemeine Bestimmungen
 

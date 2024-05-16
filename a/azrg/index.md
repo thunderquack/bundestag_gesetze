@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 20.4.2023 I Nr. 106
 
+Änderung durch
+:   Art. 1 G v. 8.5.2024 I Nr. 152 mWv 16.5.2024 bzw. 1.11.2024 bzw. 1.5.2025 bzw. 1.11.2025 bzw. 1.11.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 12 G v. 8.5.2024 I Nr. 152 mWv 16.5.2024 bzw. 1.11.2024 bzw. 1.11.2025 bzw. 1.11.2026 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 

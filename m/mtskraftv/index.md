@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 595 (3245); 2013, 3304
 
-Änderung durch
-:   Art. 27 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 27 G v. 6.5.2024 I Nr. 149
 
 Stand: Der § 4 Abs. 2 ist gem. Bek. v. 23.8.2013 I 3304 am 31.8.2013 in Kraft getreten.
 Stand: Die §§ 5 und 7 sind gem. Bek. v. 23.8.2013 I 3304 am 1.12.2013 in Kraft getreten.

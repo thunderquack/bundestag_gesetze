@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 27.3.2024 I Nr. 107
 
+Änderung durch
+:   Art. 10 G v. 8.5.2024 I Nr. 151 mWv 16.5.2024 noch nicht berücksichtigt
+
 Zur umsetzung der bverfge v. 30.6.2020 i 1993 - 1 bvr 1679/17 wurde § 10a dieses g durch
 :   Art. 1 Nr. 10 G v. 3.12.2020 I 2682 mWv 10.12.2020 eingeführt (vgl. BT-Drucksache 19/24039).
 

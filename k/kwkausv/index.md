@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 17.3.2023 I Nr. 81
 
+Änderung durch
+:   Art. 9 G v. 8.5.2024 I Nr. 151 mWv 16.5.2024 noch nicht berücksichtigt
+
 
 ## § 1 Anwendungsbereich
 
