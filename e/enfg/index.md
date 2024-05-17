@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 5 G v. 26.7.2023 I Nr. 202
 
 Änderung durch
-:   Art. 11 G v. 8.5.2024 I Nr. 151 mWv 16.5.2024 noch nicht berücksichtigt
+:   Art. 11 G v. 8.5.2024 I Nr. 151 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -70,7 +70,7 @@ Im Sinn dieses Gesetzes sind oder ist
 
 3.  „Energiemanagementsystem“ eines der folgenden Systeme:
 
-    a)[^F822722_01_BJNR127200022BJNE000300000]
+    a)[^F822722_01_BJNR127200022BJNE000301128]
   ein zertifiziertes Energiemanagementsystem nach DIN EN ISO 50001, Ausgabe Dezember 2018
         ,
 
@@ -78,7 +78,7 @@ Im Sinn dieses Gesetzes sind oder ist
     b)  ein Umweltmanagementsystem nach der Verordnung (EG) Nr. 1221/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über die freiwillige Teilnahme von Organisationen an einem Gemeinschaftssystem für Umweltmanagement und Umweltbetriebsprüfung und zur Aufhebung der Verordnung (EG) Nr. 761/2001, sowie der Beschlüsse der Kommission 2001/681/EG und 2006/193/EG (ABl. L 342 vom 22.12.2009, S. 1), die zuletzt durch die Verordnung (EU) 2018/2026 (ABl. L 325 vom 20.12.2018, S. 18) geändert worden ist, in der jeweils geltenden Fassung oder
 
 
-    c)[^F822722_02_BJNR127200022BJNE000300000]
+    c)[^F822722_02_BJNR127200022BJNE000301128]
   bei Unternehmen, die im letzten abgeschlossenen Geschäftsjahr weniger als 5 Gigawattstunden Strom verbraucht haben, ein nicht zertifiziertes Energiemanagementsystem auf Basis der DIN EN ISO 50005:2021
         mindestens entsprechend Umsetzungsstufe 3 oder die Mitgliedschaft in einem bei der Initiative Energieeffizienz- und Klimaschutz-Netzwerke angemeldeten Energieeffizienz- und Klimaschutznetzwerk,
 
@@ -149,7 +149,7 @@ Im Sinn dieses Gesetzes sind oder ist
         aa) nach § 19 oder § 50 des Erneuerbare-Energien-Gesetzes,
 
 
-        bb) nach einer Bestimmung, die den in Nummer 1 genannten Bestimmungen in früheren Fassungen des Erneuerbare-Energien-Gesetzes entspricht, oder
+        bb) nach einer Bestimmung, die den in Doppelbuchstabe aa genannten Bestimmungen in früheren Fassungen des Erneuerbare-Energien-Gesetzes entspricht, oder
 
 
         cc) nach dem Kraft-Wärme-Kopplungsgesetz oder
@@ -173,7 +173,7 @@ Im Sinn dieses Gesetzes sind oder ist
 21. „Verteilernetzbetreiber“ Betreiber von Elektrizitätsverteilernetzen im Sinn des § 3 Nummer 3 des Energiewirtschaftsgesetzes,
 
 
-22.[^F822722_03_BJNR127200022BJNE000300000]
+22.[^F822722_03_BJNR127200022BJNE000301128]
  „wirtschaftlich durchführbare Maßnahme“ jede Maßnahme, die bei der Wirtschaftlichkeitsbetrachtung im Rahmen des Energiemanagementsystems nach höchstens 90 Prozent der vorgesehenen Nutzungsdauer einen positiven Kapitalwert aufweist, der unter Zugrundelegung der DIN EN 17463, Ausgabe Dezember 2021
     , ermittelt worden ist.
 
@@ -181,9 +181,9 @@ Im Sinn dieses Gesetzes sind oder ist
 
 
     Amtlicher Hinweis: Zu beziehen bei der Beuth Verlag GmbH, 10772 Berlin, und in der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
-[^F822722_01_BJNR127200022BJNE000300000]:     Amtlicher Hinweis: Zu beziehen bei der Beuth Verlag GmbH, 10772 Berlin, und in der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
-[^F822722_02_BJNR127200022BJNE000300000]:     Amtlicher Hinweis: Zu beziehen bei der Beuth Verlag GmbH, 10772 Berlin, und in der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
-[^F822722_03_BJNR127200022BJNE000300000]: 
+[^F822722_01_BJNR127200022BJNE000301128]:     Amtlicher Hinweis: Zu beziehen bei der Beuth Verlag GmbH, 10772 Berlin, und in der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
+[^F822722_02_BJNR127200022BJNE000301128]:     Amtlicher Hinweis: Zu beziehen bei der Beuth Verlag GmbH, 10772 Berlin, und in der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
+[^F822722_03_BJNR127200022BJNE000301128]: 
 
 ### § 3 Sorgfaltsmaßstab
 
@@ -375,15 +375,18 @@ Einwände gegen Forderungen nach diesem Teil berechtigen zum Zahlungsaufschub od
 2.  zwischen den Verteilernetzbetreibern und den Übertragungsnetzbetreibern zum 31. August eines Kalenderjahres,
 
 
-3.  zwischen den Übertragungsnetzbetreibern und den stromkostenintensiven Unternehmen zum 31. August eines Kalenderjahres und
+3.  zwischen den Übertragungsnetzbetreibern und den stromkostenintensiven Unternehmen zum 31. August eines Kalenderjahres,
 
 
-4.  zwischen den Verteilernetzbetreibern und den Netznutzern nach den Bestimmungen des Netznutzungsvertrages.
+4.  zwischen den Verteilernetzbetreibern und den Netznutzern nach den Bestimmungen des Netznutzungsvertrages und
+
+
+5.  zwischen den Übertragungsnetzbetreibern einerseits und den Schienenbahnen und Verkehrsunternehmen mit elektrisch betriebenen Bussen im Linienverkehr andererseits zum 31. August eines Kalenderjahres, sofern die Abrechnung nach § 12 Absatz 3 durch den Übertragungsnetzbetreiber erfolgt.
 
 
 
 
-(2) Die sich aus den Jahresendabrechnungen nach Absatz 1 Nummer 1 bis 3 ergebenden Zahlungsansprüche müssen bis zum 15. September des Kalenderjahres ausgeglichen werden.
+(2) Die sich aus den Jahresendabrechnungen nach Absatz 1 Nummer 1 bis 3 und 5 ergebenden Zahlungsansprüche müssen bis zum 15. September des Kalenderjahres ausgeglichen werden.
 
 
 #### § 20 Nachträgliche Korrekturen
@@ -402,10 +405,13 @@ Einwände gegen Forderungen nach diesem Teil berechtigen zum Zahlungsaufschub od
 4.  aus einer Entscheidung der Bundesnetzagentur nach § 62 dieses Gesetzes, § 85 des Erneuerbare-Energien-Gesetzes oder § 31b des Kraft-Wärme-Kopplungsgesetzes,
 
 
-5.  aus einem vollstreckbaren Titel, der erst nach der Abrechnung nach § 15 ergangen ist, oder
+5.  aus einem vollstreckbaren Titel, der erst nach der Abrechnung nach § 15 ergangen ist,
 
 
-6.  aus einer nach § 26 Absatz 2 des Erneuerbare-Energien-Gesetzes zu einem späteren Zeitpunkt fällig gewordenen Zahlung.
+6.  aus einer nach § 26 Absatz 2 des Erneuerbare-Energien-Gesetzes zu einem späteren Zeitpunkt fällig gewordenen Zahlung oder
+
+
+7.  aus der unstreitigen Korrektur fehlerhafter oder unvollständiger Angaben.
 
 
 
@@ -615,7 +621,7 @@ Bei einem Unternehmen, das einer Branche nach Anlage 2 zuzuordnen ist, werden di
         bb) in dem Energiemanagementsystem nach Nummer 2 keine wirtschaftlich durchführbaren Maßnahmen konkret identifiziert worden sind oder
 
 
-        cc) es in dem dem Antragsjahr vorangegangenen Kalenderjahr mindestens 50 Prozent des nach diesem Gesetz für das zweite dem Antragsjahr vorangegangene Jahr gewährten Begrenzungsbetrags für Maßnahmen aufgewendet hat, die in dem Energiemanagementsystem nach Nummer 2 konkret identifiziert worden sind; für Maßnahmen, die nicht ohne eine erhebliche Unterbrechung des Produktionsablaufs umgesetzt werden können, muss die Auftragsvergabe an Dritte im Rahmen des vorgesehenen Projektablaufs in dem dem Antragsjahr vorangegangenen Kalenderjahr erfolgt sein; soweit die aufgewendete Investitionssumme 50 Prozent des nach diesem Gesetz für das zweite dem Antragsjahr vorangegangene Jahr gewährten Begrenzungsbetrags übersteigt, kann der überschießende Teil der Investitionssumme in den folgenden vier Jahren auf die erforderliche Investitionssumme angerechnet werden; Investitionssummen sind nicht anrechenbar, soweit sie zur Erfüllung der Voraussetzungen für die Gewährung einer anderen Beihilfe als der Begrenzung nach § 29 geltend gemacht werden,
+        cc) es in dem dem Antragsjahr vorangegangenen Kalenderjahr mindestens 100 Prozent des nach diesem Gesetz für das zweite dem Antragsjahr vorangegangene Jahr gewährten Begrenzungsbetrags für Maßnahmen aufgewendet hat, die in dem Energiemanagementsystem nach Nummer 2 konkret identifiziert worden sind; für Maßnahmen, die nicht ohne eine erhebliche Unterbrechung des Produktionsablaufs umgesetzt werden können, muss die Auftragsvergabe an Dritte im Rahmen des vorgesehenen Projektablaufs in dem dem Antragsjahr vorangegangenen Kalenderjahr erfolgt sein; soweit die aufgewendete Investitionssumme 100 Prozent des nach diesem Gesetz für das zweite dem Antragsjahr vorangegangene Jahr gewährten Begrenzungsbetrags übersteigt, kann der überschießende Teil der Investitionssumme in den folgenden vier Jahren auf die erforderliche Investitionssumme angerechnet werden; Investitionssummen sind nicht anrechenbar, soweit sie zur Erfüllung der Voraussetzungen für die Gewährung einer anderen Beihilfe als der Begrenzung nach § 29 geltend gemacht werden,
 
 
 
@@ -624,7 +630,7 @@ Bei einem Unternehmen, das einer Branche nach Anlage 2 zuzuordnen ist, werden di
     b)  mindestens 30 Prozent seines Stromverbrauchs durch ungeförderten Strom aus erneuerbaren Energien deckt oder
 
 
-    c)  Investitionen für Maßnahmen zur Dekarbonisierung des Produktionsprozesses in entsprechender Anwendung von Buchstabe a Doppelbuchstabe cc getätigt hat; soweit das Unternehmen einem Sektor angehört, für den die Delegierte Verordnung (EU) 2019/331 der Kommission vom 19. Dezember 2018 zur Festlegung EU-weiter Übergangsvorschriften zur Harmonisierung der kostenlosen Zuteilung von Emissionszertifikaten gemäß Artikel 10a der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates (ABl. L 59 vom 27.2.2019, S. 8) Produkt-Benchmarks festlegt, müssen die Maßnahmen die Treibhausgasemissionen der von diesem Unternehmen hergestellten Produkte auf einen Wert verringern, der unterhalb des für diese Produkte jeweils festgelegten Produkt-Benchmarkwertes liegt.
+    c)  Investitionen in Höhe von 50 Prozent des nach diesem Gesetz für das zweite dem Antragsjahr vorangegangene Jahr gewährten Begrenzungsbetrags für Maßnahmen zur erheblichen Dekarbonisierung des Produktionsprozesses in entsprechender Anwendung von Buchstabe a Doppelbuchstabe cc getätigt hat; soweit das Unternehmen einem Sektor angehört, für den die Delegierte Verordnung (EU) 2019/331 der Kommission vom 19. Dezember 2018 zur Festlegung EU-weiter Übergangsvorschriften zur Harmonisierung der kostenlosen Zuteilung von Emissionszertifikaten gemäß Artikel 10a der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates (ABl. L 59 vom 27.2.2019, S. 8) Produkt-Benchmarks festlegt, müssen die Maßnahmen die Treibhausgasemissionen der von diesem Unternehmen hergestellten Produkte auf einen Wert verringern, der deutlich unterhalb des für diese Produkte jeweils festgelegten Produkt-Benchmarkwertes liegt.
 
 
 
@@ -708,7 +714,7 @@ Die Nachweisführung erfolgt
         auf die Prüfung sind § 319 Absatz 2 bis 4, § 319b Absatz 1, § 320 Absatz 2 und § 323 des Handelsgesetzbuchs entsprechend anzuwenden; in dem Prüfungsvermerk ist darzulegen, dass die dem Prüfungsvermerk beigefügte Aufstellung mit hinreichender Sicherheit frei von wesentlichen Falschangaben und Abweichungen ist; bei der Prüfung der Bruttowertschöpfung ist eine Wesentlichkeitsschwelle von 5 Prozent ausreichend,
 
 
-    d)[^F822722_04_BJNR127200022BJNE003301311]
+    d)[^F822722_04_BJNR127200022BJNE003302128]
   den Nachweis über die Klassifizierung des Unternehmens durch die statistischen Ämter der Länder in Anwendung der Klassifikation der Wirtschaftszweige des Statistischen Bundesamtes, Ausgabe 2008
         , und die Einwilligung des Unternehmens, dass sich das Bundesamt für Wirtschaft und Ausfuhrkontrolle von den statistischen Ämtern der Länder die Klassifizierung des bei ihnen registrierten Unternehmens und seiner Betriebsstätten übermitteln lassen kann,
 
@@ -744,7 +750,7 @@ Die Nachweisführung erfolgt
     d)  für Buchstabe b durch einen Nachweis nach Nummer 1 Buchstabe e und
 
 
-    e)  für Buchstabe c durch eine Eigenerklärung, dass das Unternehmen Investitionen in dem erforderlichen Umfang getätigt hat und dass diese Investitionen nicht oder nicht in dem geltend gemachten Umfang zur Erfüllung der Voraussetzungen einer anderen Beihilfe als der Begrenzung nach § 29 geltend gemacht werden, verbunden mit der Aufstellung der durchgeführten Maßnahmen einschließlich des jeweiligen Investitionsvolumens und im Fall einer erheblichen Unterbrechung des Produktionsablaufs durch die umzusetzenden Maßnahmen zusätzlich mit der Auftragsbestätigung des beauftragten Dritten und im Fall, dass das Unternehmen einem der Sektoren angehört, die in der in § 30 Nummer 3 Buchstabe c genannten Delegierten Verordnung (EU) 2019/331 der Kommission vom 19. Dezember 2018 aufgeführt sind, zusätzlich mit der Aufstellung der durch die Durchführung der Maßnahmen verringerten Treibhausgasemissionen; der Inhalt dieser Eigenerklärung bedarf der Bestätigung einer prüfungsbefugten Stelle.
+    e)  für Buchstabe c durch eine Eigenerklärung, dass das Unternehmen Investitionen in dem erforderlichen Umfang getätigt hat und dass diese Investitionen nicht oder nicht in dem geltend gemachten Umfang zur Erfüllung der Voraussetzungen einer anderen Beihilfe als der Begrenzung nach § 29 geltend gemacht werden, verbunden mit der Aufstellung der durchgeführten Maßnahmen einschließlich des jeweiligen Investitionsvolumens sowie der durch die Durchführung der Maßnahmen verringerten Treibhausgasemissionen und im Fall einer erheblichen Unterbrechung des Produktionsablaufs durch die umzusetzenden Maßnahmen zusätzlich mit der Auftragsbestätigung des beauftragten Dritten; der Inhalt dieser Eigenerklärung bedarf der Bestätigung einer prüfungsbefugten Stelle.
 
 
 
@@ -753,7 +759,7 @@ Die Nachweisführung erfolgt
 
 
     Amtlicher Hinweis: Zu beziehen beim Statistischen Bundesamt, Gustav-Stresemann-Ring 11, 65189 Wiesbaden; auch zu beziehen über www.destatis.de.
-[^F822722_04_BJNR127200022BJNE003301311]: 
+[^F822722_04_BJNR127200022BJNE003302128]: 
 
 ##### § 33 Nachweisführung auf Basis eines gewillkürten Rumpfgeschäftsjahres
 
@@ -762,7 +768,7 @@ Unternehmen, die bis zum 30. April des Antragsjahres noch über kein abgeschloss
 
 ##### § 34 Selbständige Teile eines Unternehmens
 
-Die §§ 30 bis 33 sind für selbständige Teile eines Unternehmens, das einer Branche nach Anlage 2 zuzuordnen ist, entsprechend anzuwenden.
+Die §§ 30 bis 33 sind für selbständige Teile eines Unternehmens, das einer Branche nach Anlage 2 zuzuordnen ist, entsprechend anzuwenden, wobei für die Begrenzung nach § 31 Nummer 3 die Bruttowertschöpfung des Unternehmens maßgeblich ist.
 
 
 ##### § 35 Begriffsbestimmungen des Unterabschnitts, Branchenzuordnung
@@ -984,7 +990,7 @@ Die Begrenzungsentscheidung ergeht unter Vorbehalt der Nachprüfung. Sie kann au
 3.  Anträge nach § 37 Absatz 3 bis 5,
 
 
-4.  Anträge nach § 38 Absatz 3 bis 5,
+4.  Anträge nach § 38 Absatz 2 bis 4,
 
 
 5.  Anträge nach § 39.
@@ -1225,18 +1231,7 @@ Verteilernetzbetreiber müssen ihrem vorgelagerten Übertragungsnetzbetreiber ü
 
 
 
-    b)  einzeln sowie zusammengefasst die Endabrechnungen für die Umlagen für das jeweils vorangegangene Kalenderjahr für jeden Netznutzer, unter Angabe insbesondere, soweit einschlägig,
-
-        aa) der Nummern im Register,
-
-
-        bb) der Netzentnahmen aus ihrem Netz insgesamt und
-
-
-        cc) im Fall von Netzentnahmen, für die eine Verringerung der Umlagen in Anspruch genommen wurde, der Netzentnahmen aufgeschlüsselt nach Entnahmestelle und Letztverbraucher,
-
-
-
+    b)  zusammengefasst die Endabrechnungen für die Umlagen für das jeweils vorangegangene Kalenderjahr, unter Angabe insbesondere der Netzentnahmen aus ihrem Netz insgesamt und aufgeschlüsselt nach Kategorien von Netzentnahmen, für die eine Verringerung oder Begrenzung der Umlagen in Anspruch genommen wurde, und
 
 
     c)  die sonstigen für die Jahresendabrechnung des Belastungsausgleichs des vorangegangenen Kalenderjahres erforderlichen Angaben,
@@ -1316,7 +1311,7 @@ Verteilernetzbetreiber müssen ihrem vorgelagerten Übertragungsnetzbetreiber ü
     a)  die Ermittlung des EEG-Finanzierungsbedarfs, des KWKG-Finanzierungsbedarfs und der Offshore-Anbindungskosten und
 
 
-    b)  den Wert des Abzugs für Strom aus ausgeförderten Anlagen nach § 53 Absatz 2 des Erneuerbare-Energien-Gesetzes für das folgende Kalenderjahr.
+    b)  den Wert des Abzugs für Strom aus ausgeförderten Anlagen nach § 53 Absatz 4 des Erneuerbare-Energien-Gesetzes für das folgende Kalenderjahr.
 
 
 
@@ -1710,6 +1705,8 @@ Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, durch Re
 
 (5) Die Abschlagszahlungen auf den Anspruch nach § 6 Absatz 1 sollen im Kalenderjahr 2023 abweichend von § 7 Absatz 2 Satz 1 so bemessen werden, dass sie in diesem Jahr insgesamt dem für dieses Jahr in dem Bescheid nach § 3 Absatz 3a Satz 2 der Erneuerbare-Energien-Verordnung in der am 31. Dezember 2022 geltenden Fassung entsprechen.
 
+(6) Abweichend von § 52 Absatz 1 müssen dem zur Erhebung der Umlagen berechtigten Netzbetreiber Angaben über die Verringerung der Umlagen nicht vor der Auflösung des beihilferechtlichen Genehmigungsvorbehalts nach § 68 für die in Anspruch genommene Verringerung mitgeteilt werden.
+
 
 ### § 67 Übergangs- und Härtefallbestimmungen zur Besonderen Ausgleichsregelung
 
@@ -1738,9 +1735,17 @@ Die Begrenzung erfolgt
 
 Bei Unternehmen, die ihren Stromverbrauch in besonderer Weise aus erneuerbaren Energien decken, erfolgt die Begrenzung für die Jahre 2027 und 2028 entsprechend den Werten aus Satz 2 Nummer 1. Anträge nach diesem Absatz sind für das Begrenzungsjahr 2024 abweichend von § 40 bis zum 30. September 2023 zu stellen.
 
-(3) Für Anträge für die Begrenzungsjahre 2024 und 2025 sind bei der Anwendung des Absatzes 2 sowie von § 31 Nummer 3, § 32 Nummer 1 Buchstabe c, § 35 Absatz 1 Nummer 2 anstelle der letzten drei abgeschlossenen Geschäftsjahre zwei der letzten drei abgeschlossenen Geschäftsjahre zugrunde zu legen, wobei das Unternehmen selbst bestimmen kann, welche zwei der letzten drei abgeschlossenen Geschäftsjahre zugrunde gelegt werden sollen. Für Unternehmen mit nur zwei abgeschlossenen Geschäftsjahren sind bei Anträgen für die Begrenzungsjahre 2024 und 2025 unabhängig von § 33 Absatz 1 diese zwei abgeschlossenen Geschäftsjahre zugrunde zu legen. Satz 1 ist entsprechend für Anträge für die Begrenzungsjahre 2024 und 2025 nach Absatz 2 anzuwenden.
+(3) Abweichend von § 30 Nummer 3 Buchstabe a Doppelbuchstabe cc beträgt der aufzuwendende Betrag
 
-(4) In den Antragsjahren 2023 bis 2025 ist § 30 Nummer 3 Buchstabe a Doppelbuchstabe cc und § 30 Nummer 3 Buchstabe c mit der Maßgabe anzuwenden, dass 50 Prozent des jeweils beantragten Begrenzungsbetrags aufzuwenden sind. Abweichend von § 32 Nummer 3 Buchstabe c erfolgt der Nachweis durch Abgabe einer Eigenerklärung, dass das Unternehmen die Investition nach Satz 1 tätigen wird. Gibt ein Unternehmen in den Antragsjahren 2023 bis 2025 eine Eigenerklärung nach Satz 2 ab, ist eine Begrenzung für das Begrenzungsjahr vier Jahre nach Abgabe der jeweiligen Eigenerklärung nur zulässig, wenn das Unternehmen den Nachweis nach § 32 Nummer 3 Buchstabe d und e führt.
+1.  50 Prozent des nach diesem Gesetz für das zweite dem Antragsjahr vorangegangene Jahr gewährten Begrenzungsbetrags im Antragsjahr 2023 und
+
+
+2.  80 Prozent des nach diesem Gesetz für das zweite dem Antragsjahr vorangegangene Jahr gewährten Begrenzungsbetrags im Antragsjahr 2024.
+
+
+
+
+(4) In den Antragsjahren 2023 bis 2025 sind § 30 Nummer 3 Buchstabe a Doppelbuchstabe cc unter Berücksichtigung von Absatz 3 und § 30 Nummer 3 Buchstabe c auf Antrag mit der Maßgabe anzuwenden, dass der aufzuwendende Betrag der jeweilige Anteil des aufgrund der Prognosedaten nach § 29 Absatz 2 anzunehmenden Begrenzungsbetrags ist. Abweichend von § 32 Nummer 3 Buchstabe c und e erfolgt der Nachweis durch Abgabe einer Eigenerklärung, dass das Unternehmen die Investition nach Satz 1 tätigen wird. Hat das Unternehmen die Investition nach Satz 1 zum Ablauf des vierten auf die Eigenerklärung folgenden Antragsjahres nicht getätigt, wird die aufgrund der Eigenerklärung gewährte Begrenzung mit Wirkung für die Vergangenheit aufgehoben.
 
 (5) In den Antragsjahren 2023 bis 2025 gilt eine Maßnahme abweichend von § 2 Nummer 22 als wirtschaftlich durchführbar,
 
@@ -1755,13 +1760,14 @@ Bei Unternehmen, die ihren Stromverbrauch in besonderer Weise aus erneuerbaren E
 
 ### § 68 Beihilfevorbehalt
 
-Teil 4 Abschnitt 2 bis 4 dieses Gesetzes mit Ausnahme von § 38 darf erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission und nur nach Maßgabe der Genehmigung angewandt werden.
+§ 22, Teil 4 Abschnitt 3 und § 39 dieses Gesetzes dürfen erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission und nur nach Maßgabe der Genehmigung angewandt werden.
 
 (zu § 2)
 
 ### Anlage 1 Ermittlung des EEG-Finanzierungsbedarfs und des KWKG-Finanzierungsbedarfs
 
-(Fundstelle: BGBl. I 2022, 1296 - 1299)
+(Fundstelle: BGBl. I 2022, 1296 - 1299
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.  **EEG-Finanzierungsbedarf und KWKG-Finanzierungsbedarf**
@@ -1922,12 +1928,15 @@ Teil 4 Abschnitt 2 bis 4 dieses Gesetzes mit Ausnahme von § 38 darf erst nach d
     5.7 Bonuszahlungen nach § 3 Absatz 5 bis 7 der Erneuerbare-Energien-Verordnung,
 
 
-    5.8 die an die Bundesnetzagentur erstatteten Sachmittel für den Betrieb, die Erhaltung und die Weiterentwicklung des Registers nach § 111e Absatz 7 des Energiewirtschaftsgesetzes und
+    5.8 die an die Bundesnetzagentur erstatteten Sachmittel für den Betrieb, die Erhaltung und die Weiterentwicklung des Registers nach § 111e Absatz 7 des Energiewirtschaftsgesetzes,
 
 
 
 
-    5.9 Zahlungen von dem Bankkonto für die Aufgaben nach dem Erneuerbare-Energien-Gesetz nach § 47 Absatz 1 Satz 1 auf das Konto nach § 26 Absatz 1 Satz 1 des Strompreisbremsegesetzes zur Vorfinanzierung des Zuschusses zur anteiligen Finanzierung der Übertragungsnetzkosten nach § 24b des Energiewirtschaftsgesetzes.
+    5.9 Zahlungen von dem Bankkonto für die Aufgaben nach dem Erneuerbare-Energien-Gesetz nach § 47 Absatz 1 Satz 1 auf das Konto nach § 26 Absatz 1 Satz 1 des Strompreisbremsegesetzes zur Vorfinanzierung des Zuschusses zur anteiligen Finanzierung der Übertragungsnetzkosten nach § 24b des Energiewirtschaftsgesetzes und
+
+
+    5.10 die aufgrund von § 49d Absatz 5 Satz 1 des Energiewirtschaftsgesetzes an den Betreiber des Registers im Sinne von § 49d Absatz 1 Satz 1 des Energiewirtschaftsgesetzes erstatteten Personal- und Sachmittel, die für den Betrieb, die Erhaltung und die Weiterentwicklung dieses Registers erforderlich sind.
 
 
 
@@ -1972,13 +1981,13 @@ Teil 4 Abschnitt 2 bis 4 dieses Gesetzes mit Ausnahme von § 38 darf erst nach d
 
 9.  **Abgrenzung von Einnahmen und Ausgaben**
 
-    9.1 Bei der Ermittlung des EEG-Finanzierungsbedarfs sind die Einnahmen und Ausgaben für die Vermarktung des nach § 19 Absatz 1 Nummer 2 in Verbindung mit § 21 Absatz 1 Nummer 3 des Erneuerbare-Energien-Gesetzes vergüteten Stroms aus ausgeförderten Anlagen einschließlich der Zahlungen für diesen Strom eindeutig von den sonstigen Einnahmen und Ausgaben nach den Nummern 2, 3, 4 und 5 abzugrenzen. Die eindeutige Abgrenzung nach Satz 1 ist durch eine gesonderte Buchführung zu gewährleisten.
+    9.1 Bei der Ermittlung des EEG-Finanzierungsbedarfs sind die Einnahmen und Ausgaben für die Vermarktung des nach § 19 Absatz 1 Nummer 2 in Verbindung mit § 21 Absatz 1 Satz 1 Nummer 4 des Erneuerbare-Energien-Gesetzes vergüteten Stroms aus ausgeförderten Anlagen einschließlich der Zahlungen für diesen Strom eindeutig von den sonstigen Einnahmen und Ausgaben nach den Nummern 2, 3, 4 und 5 abzugrenzen. Die eindeutige Abgrenzung nach Satz 1 ist durch eine gesonderte Buchführung zu gewährleisten.
 
 
     9.2 Die nach Nummer 9.1 abgegrenzten Einnahmen und Ausgaben dürfen bei der Ermittlung des EEG-Finanzierungsbedarfs nicht berücksichtigt werden.
 
 
-    9.3 Bei der Ermittlung des EEG-Finanzierungsbedarfs ermitteln die Übertragungsnetzbetreiber den Wert des Abzugs für Strom aus ausgeförderten Anlagen nach § 53 Absatz 2 des Erneuerbare-Energien-Gesetzes in entsprechender Anwendung der Bestimmungen nach dieser Anlage. Dabei ist der Wert des Abzugs so zu bestimmen, dass sich die nach Nummer 9.2 bei der Ermittlung des EEG-Finanzierungsbedarfs nicht berücksichtigten Einnahmen und Ausgaben ausgleichen.
+    9.3 Bei der Ermittlung des EEG-Finanzierungsbedarfs ermitteln die Übertragungsnetzbetreiber den Wert des Abzugs für Strom aus ausgeförderten Anlagen nach § 53 Absatz 4 des Erneuerbare-Energien-Gesetzes in entsprechender Anwendung der Bestimmungen nach dieser Anlage. Dabei ist der Wert des Abzugs so zu bestimmen, dass sich die nach Nummer 9.2 bei der Ermittlung des EEG-Finanzierungsbedarfs nicht berücksichtigten Einnahmen und Ausgaben ausgleichen.
 
 
     9.4 Soweit der Jahresmarktwert für ausgeförderte Anlagen im Sinn des § 3 Nummer 3a des Erneuerbare-Energien-Gesetzes 10 Cent pro Kilowattstunde übersteigt, müssen die Übertragungsnetzbetreiber die darüber hinausgehenden Einnahmen aus der Vermarktung des Stroms aus diesen Anlagen zum Ausgleich des EEG-Finanzierungsbedarfs verwenden; die Nummern 9.1 bis 9.3 sind insoweit nicht anzuwenden.

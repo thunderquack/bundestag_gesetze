@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1966, 557
 
 Zuletzt geändert durch
-:   Art. 8 G v. 10.3.2023 I Nr. 64
-
-Änderung durch
-:   Art. 2 G v. 17.1.2024 I Nr. 12 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 17.1.2024 I Nr. 12
 
 
 ## Erster Teil - Der Patentanwalt

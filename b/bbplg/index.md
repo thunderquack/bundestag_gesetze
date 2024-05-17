@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 5.20224 I Nr. 32
 
 Änderung durch
-:   Art. 6 G v. 8.5.2024 I Nr. 151 mWv 16.5.2024 noch nicht berücksichtigt
+:   Art. 6 G v. 8.5.2024 I Nr. 151 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Das G tritt gem. Art. 5 Abs. 1 G v. 23.7.2013 I 2543 am 27.7.2013 in Kraft
 Stand: § 1 iVm Nr. 33 der Anlage ist gem. Bek. v. 18.2.2014 I 148 am 8.1.2014 in Kraft getreten
@@ -27,7 +27,7 @@ Stand: § 1 iVm Nr. 29 der Anlage ist gem. Bek. v. 17.3.2014 I 271 am 7.3.2014 i
 
 ## § 1 Gegenstand des Bundesbedarfsplans
 
-(1) Für die in der Anlage zu diesem Gesetz aufgeführten Vorhaben, die der Anpassung, Entwicklung und dem Ausbau der Übertragungsnetze zur Einbindung von Elektrizität aus erneuerbaren Energiequellen, zur Interoperabilität der Elektrizitätsnetze innerhalb der Europäischen Union, zum Anschluss neuer Kraftwerke oder zur Vermeidung struktureller Engpässe im Übertragungsnetz dienen, werden die energiewirtschaftliche Notwendigkeit und der vordringliche Bedarf zur Gewährleistung eines sicheren und zuverlässigen Netzbetriebs als Bundesbedarfsplan gemäß § 12e des Energiewirtschaftsgesetzes festgestellt. Die Realisierung dieser Vorhaben ist aus Gründen eines überragenden öffentlichen Interesses und im Interesse der öffentlichen Sicherheit erforderlich.
+(1) Für die in der Anlage zu diesem Gesetz aufgeführten Vorhaben, die der Anpassung, Entwicklung und dem Ausbau der Übertragungsnetze zur Einbindung von Elektrizität aus erneuerbaren Energiequellen, zur Interoperabilität der Elektrizitätsnetze innerhalb der Europäischen Union, zum Anschluss neuer Kraftwerke oder zur Vermeidung struktureller Engpässe im Übertragungsnetz dienen, werden die energiewirtschaftliche Notwendigkeit und der vordringliche Bedarf zur Gewährleistung eines sicheren und zuverlässigen Netzbetriebs als Bundesbedarfsplan gemäß § 12e des Energiewirtschaftsgesetzes festgestellt. Die Realisierung dieser Vorhaben ist aus Gründen eines überragenden öffentlichen Interesses und im Interesse der öffentlichen Gesundheit und Sicherheit erforderlich.
 
 (2) Zu den Vorhaben nach Absatz 1 gehören auch die für den Betrieb von Energieleitungen notwendigen Anlagen einschließlich der notwendigen Änderungen an den Netzverknüpfungspunkten. Die Vorhaben beginnen und enden jeweils an den Netzverknüpfungspunkten.
 

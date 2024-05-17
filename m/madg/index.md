@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 2954, 2977
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.12.2023 I Nr. 413
-
-Änderung durch
-:   Art. 3 G v. 6.5.2024 I Nr. 149 mWv 14.5.2024 noch nicht berücksichtigt
+:   Art. 3 G v. 6.5.2024 I Nr. 149
 
 
 ## § 1 Aufgaben
@@ -116,7 +113,7 @@ Die §§ 8a und 8b des Bundesverfassungsschutzgesetzes sind mit der Maßgabe ent
 1.  Telekommunikationsdienste erbringt oder daran mitwirkt, über Bestandsdaten nach § 3 Nummer 6 und § 172 des Telekommunikationsgesetzes,
 
 
-2.  Telemediendienste erbringt oder daran mitwirkt, über Bestandsdaten nach § 2 Absatz 2 Nummer 2 des Telekommunikation-Telemedien-Datenschutz-Gesetzes.
+2.  digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes erbringt oder daran mitwirkt, über Bestandsdaten nach § 2 Absatz 2 Nummer 2 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes.
 
 
 

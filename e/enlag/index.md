@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 9 G v. 22.12.2023 I Nr. 405
 
 Änderung durch
-:   Art. 4 G v. 8.5.2024 I Nr. 151 mWv 16.5.2024 noch nicht berücksichtigt
+:   Art. 4 G v. 8.5.2024 I Nr. 151 mWv 1textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Das G ist gem. Art. 7 G v. 21.8.2009 I 2870 am 26.8.2009 in Kraft getreten
 
@@ -27,7 +27,7 @@ Stand: Das G ist gem. Art. 7 G v. 21.8.2009 I 2870 am 26.8.2009 in Kraft getrete
 
 (1) Für Vorhaben nach § 43 Absatz 1 Satz 1 des Energiewirtschaftsgesetzes im Bereich der Höchstspannungsnetze mit einer Nennspannung von 380 Kilovolt oder mehr, die der Anpassung, Entwicklung und dem Ausbau der Übertragungsnetze zur Einbindung von Elektrizität aus erneuerbaren Energiequellen, zur Interoperabilität der Elektrizitätsnetze innerhalb der Europäischen Union, zum Anschluss neuer Kraftwerke oder zur Vermeidung struktureller Engpässe im Übertragungsnetz dienen und für die daher ein vordringlicher Bedarf besteht, ist ein Bedarfsplan diesem Gesetz als Anlage beigefügt.
 
-(2) Die in den Bedarfsplan aufgenommenen Vorhaben entsprechen den Zielsetzungen des § 1 des Energiewirtschaftsgesetzes. Für diese Vorhaben stehen damit die energiewirtschaftliche Notwendigkeit und der vordringliche Bedarf fest. Die Realisierung dieser Vorhaben ist aus Gründen eines überragenden öffentlichen Interesses und im Interesse der öffentlichen Sicherheit erforderlich. Diese Feststellungen sind für die Planfeststellung und die Plangenehmigung nach den §§ 43 bis 43d des Energiewirtschaftsgesetzes verbindlich.
+(2) Die in den Bedarfsplan aufgenommenen Vorhaben entsprechen den Zielsetzungen des § 1 des Energiewirtschaftsgesetzes. Für diese Vorhaben stehen damit die energiewirtschaftliche Notwendigkeit und der vordringliche Bedarf fest. Die Realisierung dieser Vorhaben ist aus Gründen eines überragenden öffentlichen Interesses und im Interesse der öffentlichen Gesundheit und Sicherheit erforderlich. Diese Feststellungen sind für die Planfeststellung und die Plangenehmigung nach den §§ 43 bis 43d des Energiewirtschaftsgesetzes verbindlich.
 
 (3) Für die in den Bedarfsplan aufgenommenen Vorhaben gilt § 50 Abs. 1 Nr. 6 der Verwaltungsgerichtsordnung. Dies ist auch anzuwenden für auf diese Vorhaben bezogene Zulassungen des vorzeitigen Baubeginns und Anzeigeverfahren.
 
