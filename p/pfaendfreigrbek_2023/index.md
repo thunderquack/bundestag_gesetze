@@ -76,6 +76,7 @@ Der Bundesminister der Justiz
 (Fundstelle: BGBl. 2023 I Nr. 79, S. 3 - 24)
 
 
+
 *    *   Auszahlung für Monate
 
 

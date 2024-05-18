@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.8.2002 I 3422, 4346;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 8.10.2023 I Nr. 272
-
-Änderung durch
-:   Art. 18 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 18 G v. 6.5.2024 I Nr. 149
 
 
 ## Abschnitt 1 - Ansprüche bei Verbraucherrechts- und anderen Verstößen

@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Zuletzt geändert durch
-:   Art. 34 Abs. 3 G v. 22.12.2023 I Nr. 411
-
-Änderung durch
-:   Art. 17 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 17 G v. 6.5.2024 I Nr. 149
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 

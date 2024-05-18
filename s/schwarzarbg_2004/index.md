@@ -16,13 +16,8 @@ Fundstelle
 :   BGBl I: 2004, 1842
 
 Zuletzt geändert durch
-:   Art. 4 G v. 28.6.2023 I Nr. 172
+:   Art. 24 G v. 6.5.2024 I Nr. 149
 
-Änderung durch
-:   Art. 23 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Stand: Bek. v. 18.10.2021 BAnz AT 29.10.2021 B3 ist berücksichtigt
-Stand: Bek. v. 16.2.2022 I 306 ist berücksichtigt
 
 ## Abschnitt 1 - Zweck
 

@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 1090
 
-Geändert durch
-:   Art. 3 G v. 26.2.2007 I 179
-
-Änderung durch
-:   Art. 23 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 23 G v. 6.5.2024 I Nr. 149
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

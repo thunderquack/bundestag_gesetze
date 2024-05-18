@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 3.3.2010 I 254;
 
 Zuletzt geändert durch
-:   Art. 13 G v. 8.10.2023 I Nr. 272
-
-Änderung durch
-:   Art. 21 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 21 G v. 6.5.2024 I Nr. 149
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2005/29/EG des Europäischen Parlaments und des Rates vom 11. Mai 2005 über unlautere Geschäftspraktiken von Unternehmen gegenüber Verbrauchern im Binnenmarkt und zur Änderung der Richtlinie 84/450/EWG des Rates, der Richtlinien 97/7/EG, 98/27/EG und 2002/65/EG des Europäischen Parlaments und des Rates sowie der Verordnung (EG) Nr. 2006/2004 des Europäischen Parlaments und des Rates (ABl. L 149 vom 11.6.2005, S. 22; berichtigt im ABl. L 253 vom 25.9.2009, S. 18) sowie der Richtlinie 2006/114/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über irreführende und vergleichende Werbung (kodifizierte Fassung) (ABl. L 376 vom 27.12.2006, S. 21). Es dient ferner der Umsetzung von Artikel 13 der Richtlinie 2002/58/EG des Europäischen Parlaments und des Rates vom 12. Juli 2002 über die Verarbeitung personenbezogener Daten und den Schutz der Privatsphäre in der elektronischen Kommunikation (ABl. L 201 vom 31.7.2002, S. 37), der zuletzt durch Artikel 2 Nummer 7 der Richtlinie 2009/136/EG (ABl. L 337 vom 18.12.2009, S. 11) geändert worden ist.
 
