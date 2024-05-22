@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 29.08.2016 I 2004;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 11.4.2024 I Nr. 128
-
-Änderung durch
-:   Art. 30 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 30 G v. 6.5.2024 I Nr. 149
 
 Die Verordnung dient in der bis zum 24. März 2007 geltenden Fassung der Umsetzung der in der Fassung der Bekanntmachung der Futtermittelverordnung vom 24. Mai 2007 (BGBl. I S. 770) genannten Rechtsakte der Europäischen Gemeinschaft.
 Die Verordnung dient in der ab dem 25. März 2007 geltenden Fassung darüber hinaus der Umsetzung der folgenden Rechtsakte der Europäischen Gemeinschaft und der Europäischen Union:

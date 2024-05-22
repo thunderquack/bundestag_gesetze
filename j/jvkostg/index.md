@@ -15,7 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 2586, 2655
 
-Stand: Zuletzt geändert Art. 3 G v. 14.12.2023 I Nr. 365
+Stand: Zuletzt geändert Art. 3 G v. 14.12.2023 I Nr. 365; 2024 I Nr. 165
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -197,7 +197,7 @@ Kosten, die bei richtiger Behandlung der Sache nicht entstanden wären, werden n
 
 (1) Die Kosten für Amtshandlungen, die auf Antrag durchgeführt werden, schuldet, wer den Antrag gestellt hat, soweit nichts anderes bestimmt ist.
 
-(2) Absatz 1 gilt nicht in den in § 12 Satz 1 bezeichneten Angelegenheiten für den Verfolgten oder Verurteilten sowie im Schlichtungsverfahren nach § 57a des Luftverkehrsgesetzes. Die §§ 57a und 87n Absatz 6 des Gesetzes über die internationale Rechtshilfe in Strafsachen bleiben unberührt.
+(2) Absatz 1 gilt nicht in den in § 12 Satz 1 bezeichneten Angelegenheiten für den Verfolgten oder Verurteilten sowie im Schlichtungsverfahren nach § 57a des Luftverkehrsgesetzes. Die §§ 57a und 87n Absatz 6 des Gesetzes über die internationale Rechtshilfe in Strafsachen sowie § 15 Absatz 5 des Deutsch-Schweizerischer-Polizeivertrag-Umsetzungsgesetzes bleiben unberührt.
 
 
 ### § 15 Datenabruf aus einem Register oder dem Grundbuch

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2446
 
 Zuletzt geändert durch
-:   Art. 1 G v. 22.9.2021 I 4363
-
-Änderung durch
-:   Art. 1 G v. 8.5.2024 I Nr. 153 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 8.5.2024 I Nr. 153
 
 
 ## § 1 Zwecke der Umweltstatistik, Anordnung als Bundesstatistik
@@ -733,7 +730,7 @@ Die Erhebungsmerkmale nach Satz 1 Nummer 1 werden nach Umweltmaßnahmen sowie na
 
 (3) Soweit bei Verwaltungsstellen auf Grund nichtstatistischer Rechts- oder Verwaltungsvorschriften Angaben zu den Erhebungsmerkmalen einer Erhebung nach diesem Gesetz angefallen sind, dürfen auch die Verwaltungsstellen befragt werden. Insoweit sind neben den nach § 14 Abs. 2 Auskunftspflichtigen auch die Verwaltungsstellen auskunftspflichtig.
 
-(4) Für Unternehmen, Betriebe und Einrichtungen, deren Inhaber oder Inhaberinnen Existenzgründer oder Existenzgründerinnen sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von Absatz 1 keine Auskunftspflicht für Erhebungen nach den §§ 11 und 12. In den beiden folgenden Kalenderjahren besteht dann keine Auskunftspflicht, wenn das Unternehmen , der Betrieb oder die Einrichtung im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 800 000 Euro erwirtschaftet hat. Gesellschaften können sich auf die Befreiung von der Auskunftspflicht berufen, wenn alle an der Gesellschaft Beteiligten Existenzgründer oder Existenzgründerinnen sind.
+(4) Für Unternehmen, Betriebe und Einrichtungen, deren Inhaber oder Inhaberinnen Existenzgründer oder Existenzgründerinnen sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von Absatz 1 keine Auskunftspflicht für Erhebungen nach den §§ 11 und 12. In den beiden folgenden Kalenderjahren besteht dann keine Auskunftspflicht, wenn das Unternehmen, der Betrieb oder die Einrichtung im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 800 000 Euro erwirtschaftet hat. Gesellschaften können sich auf die Befreiung von der Auskunftspflicht berufen, wenn alle an der Gesellschaft Beteiligten Existenzgründer oder Existenzgründerinnen sind.
 
 (5) Existenzgründer und Existenzgründerinnen im Sinne von Absatz 4 sind natürliche Personen, die eine gewerbliche oder freiberufliche Tätigkeit in Form einer Neugründung, einer Übernahme oder einer tätigen Beteiligung aus abhängiger Beschäftigung oder aus der Nichtbeschäftigung heraus aufnehmen.
 

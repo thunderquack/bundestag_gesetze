@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.3.2022 I 610;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 14.12.2023 I Nr. 365
+:   Art. 4 G v. 14.12.2023 I Nr. 365; 2024 I Nr. 165
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -956,7 +956,7 @@ Der Rechtsanwalt, der nach § 57 oder § 58 der Zivilprozessordnung, § 118e der
 
 ### § 42 Feststellung einer Pauschgebühr
 
-(1) In Strafsachen, gerichtlichen Bußgeldsachen, Verfahren nach dem Gesetz über die internationale Rechtshilfe in Strafsachen, in Verfahren nach dem IStGH-Gesetz, in Freiheitsentziehungs- und Unterbringungssachen sowie in Verfahren nach § 151 Nummer 6 und 7 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit stellt das Oberlandesgericht, zu dessen Bezirk das Gericht des ersten Rechtszugs gehört, auf Antrag des Rechtsanwalts eine Pauschgebühr für das ganze Verfahren oder für einzelne Verfahrensabschnitte durch unanfechtbaren Beschluss fest, wenn die in den Teilen 4 bis 6 des Vergütungsverzeichnisses bestimmten Gebühren eines Wahlanwalts wegen des besonderen Umfangs oder der besonderen Schwierigkeit nicht zumutbar sind. Dies gilt nicht, soweit Wertgebühren entstehen. Beschränkt sich die Feststellung auf einzelne Verfahrensabschnitte, sind die Gebühren nach dem Vergütungsverzeichnis, an deren Stelle die Pauschgebühr treten soll, zu bezeichnen. Die Pauschgebühr darf das Doppelte der für die Gebühren eines Wahlanwalts geltenden Höchstbeträge nach den Teilen 4 bis 6 des Vergütungsverzeichnisses nicht übersteigen. Für den Rechtszug, in dem der Bundesgerichtshof für das Verfahren zuständig ist, ist er auch für die Entscheidung über den Antrag zuständig.
+(1) In Strafsachen, gerichtlichen Bußgeldsachen, Verfahren nach dem Gesetz über die internationale Rechtshilfe in Strafsachen, in Verfahren nach dem Deutsch-Schweizerischer-Polizeivertrag-Umsetzungsgesetz, in Verfahren nach dem IStGH-Gesetz, in Freiheitsentziehungs- und Unterbringungssachen sowie in Verfahren nach § 151 Nummer 6 und 7 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit stellt das Oberlandesgericht, zu dessen Bezirk das Gericht des ersten Rechtszugs gehört, auf Antrag des Rechtsanwalts eine Pauschgebühr für das ganze Verfahren oder für einzelne Verfahrensabschnitte durch unanfechtbaren Beschluss fest, wenn die in den Teilen 4 bis 6 des Vergütungsverzeichnisses bestimmten Gebühren eines Wahlanwalts wegen des besonderen Umfangs oder der besonderen Schwierigkeit nicht zumutbar sind. Dies gilt nicht, soweit Wertgebühren entstehen. Beschränkt sich die Feststellung auf einzelne Verfahrensabschnitte, sind die Gebühren nach dem Vergütungsverzeichnis, an deren Stelle die Pauschgebühr treten soll, zu bezeichnen. Die Pauschgebühr darf das Doppelte der für die Gebühren eines Wahlanwalts geltenden Höchstbeträge nach den Teilen 4 bis 6 des Vergütungsverzeichnisses nicht übersteigen. Für den Rechtszug, in dem der Bundesgerichtshof für das Verfahren zuständig ist, ist er auch für die Entscheidung über den Antrag zuständig.
 
 (2) Der Antrag ist zulässig, wenn die Entscheidung über die Kosten des Verfahrens rechtskräftig ist. Der gerichtlich bestellte oder beigeordnete Rechtsanwalt kann den Antrag nur unter den Voraussetzungen des § 52 Absatz 1 Satz 1, Absatz 2, auch in Verbindung mit § 53 Absatz 1, stellen. Der Auftraggeber, in den Fällen des § 52 Absatz 1 Satz 1 der Beschuldigte, ferner die Staatskasse und andere Beteiligte, wenn ihnen die Kosten des Verfahrens ganz oder zum Teil auferlegt worden sind, sind zu hören.
 
@@ -1184,7 +1184,7 @@ Bestimmen sich die Gebühren nach dem Gegenstandswert, werden bei einem Gegensta
 
 ### § 51 Festsetzung einer Pauschgebühr
 
-(1) In Strafsachen, gerichtlichen Bußgeldsachen, Verfahren nach dem Gesetz über die internationale Rechtshilfe in Strafsachen, in Verfahren nach dem IStGH-Gesetz, in Freiheitsentziehungs- und Unterbringungssachen sowie in Verfahren nach § 151 Nummer 6 und 7 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit ist dem gerichtlich bestellten oder beigeordneten Rechtsanwalt für das ganze Verfahren oder für einzelne Verfahrensabschnitte auf Antrag eine Pauschgebühr zu bewilligen, die über die Gebühren nach dem Vergütungsverzeichnis hinausgeht, wenn die in den Teilen 4 bis 6 des Vergütungsverzeichnisses bestimmten Gebühren wegen des besonderen Umfangs oder der besonderen Schwierigkeit nicht zumutbar sind. Dies gilt nicht, soweit Wertgebühren entstehen. Beschränkt sich die Bewilligung auf einzelne Verfahrensabschnitte, sind die Gebühren nach dem Vergütungsverzeichnis, an deren Stelle die Pauschgebühr treten soll, zu bezeichnen. Eine Pauschgebühr kann auch für solche Tätigkeiten gewährt werden, für die ein Anspruch nach § 48 Absatz 6 besteht. Auf Antrag ist dem Rechtsanwalt ein angemessener Vorschuss zu bewilligen, wenn ihm insbesondere wegen der langen Dauer des Verfahrens und der Höhe der zu erwartenden Pauschgebühr nicht zugemutet werden kann, die Festsetzung der Pauschgebühr abzuwarten.
+(1) In Strafsachen, gerichtlichen Bußgeldsachen, Verfahren nach dem Gesetz über die internationale Rechtshilfe in Strafsachen, in Verfahren nach dem Deutsch-Schweizerischer-Polizeivertrag-Umsetzungsgesetz, in Verfahren nach dem IStGH-Gesetz, in Freiheitsentziehungs- und Unterbringungssachen sowie in Verfahren nach § 151 Nummer 6 und 7 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit ist dem gerichtlich bestellten oder beigeordneten Rechtsanwalt für das ganze Verfahren oder für einzelne Verfahrensabschnitte auf Antrag eine Pauschgebühr zu bewilligen, die über die Gebühren nach dem Vergütungsverzeichnis hinausgeht, wenn die in den Teilen 4 bis 6 des Vergütungsverzeichnisses bestimmten Gebühren wegen des besonderen Umfangs oder der besonderen Schwierigkeit nicht zumutbar sind. Dies gilt nicht, soweit Wertgebühren entstehen. Beschränkt sich die Bewilligung auf einzelne Verfahrensabschnitte, sind die Gebühren nach dem Vergütungsverzeichnis, an deren Stelle die Pauschgebühr treten soll, zu bezeichnen. Eine Pauschgebühr kann auch für solche Tätigkeiten gewährt werden, für die ein Anspruch nach § 48 Absatz 6 besteht. Auf Antrag ist dem Rechtsanwalt ein angemessener Vorschuss zu bewilligen, wenn ihm insbesondere wegen der langen Dauer des Verfahrens und der Höhe der zu erwartenden Pauschgebühr nicht zugemutet werden kann, die Festsetzung der Pauschgebühr abzuwarten.
 
 (2) Über die Anträge entscheidet das Oberlandesgericht, zu dessen Bezirk das Gericht des ersten Rechtszugs gehört, und im Fall der Beiordnung einer Kontaktperson (§ 34a des Einführungsgesetzes zum Gerichtsverfassungsgesetz) das Oberlandesgericht, in dessen Bezirk die Justizvollzugsanstalt liegt, durch unanfechtbaren Beschluss. Der Bundesgerichtshof ist für die Entscheidung zuständig, soweit er den Rechtsanwalt bestellt hat. In dem Verfahren ist die Staatskasse zu hören. § 42 Absatz 3 ist entsprechend anzuwenden.
 
@@ -1278,7 +1278,7 @@ Gegen Entscheidungen der Verwaltungsbehörde im Bußgeldverfahren nach den Vorsc
 
 (2) Für den durch die Staatsanwaltschaft beigeordneten Zeugenbeistand gelten die Vorschriften über den gerichtlich beigeordneten Zeugenbeistand entsprechend. Über Anträge nach § 51 Absatz 1 entscheidet das Oberlandesgericht, in dessen Bezirk die Staatsanwaltschaft ihren Sitz hat. Hat der Generalbundesanwalt einen Zeugenbeistand beigeordnet, entscheidet der Bundesgerichtshof.
 
-(3) Für den nach § 87e des Gesetzes über die internationale Rechtshilfe in Strafsachen in Verbindung mit § 53 des Gesetzes über die internationale Rechtshilfe in Strafsachen durch das Bundesamt für Justiz bestellten Beistand gelten die Vorschriften über den gerichtlich bestellten Rechtsanwalt entsprechend. An die Stelle des Urkundsbeamten der Geschäftsstelle tritt das Bundesamt. Über Anträge nach § 51 Absatz 1 entscheidet das Bundesamt gleichzeitig mit der Festsetzung der Vergütung.
+(3) Für den nach § 87e des Gesetzes über die internationale Rechtshilfe in Strafsachen in Verbindung mit § 53 des Gesetzes über die internationale Rechtshilfe in Strafsachen und den nach § 5 des Deutsch-Schweizerischer-Polizeivertrag-Umsetzungsgesetzes durch das Bundesamt für Justiz bestellten Beistand gelten die Vorschriften über den gerichtlich bestellten Rechtsanwalt entsprechend. An die Stelle des Urkundsbeamten der Geschäftsstelle tritt das Bundesamt. Über Anträge nach § 51 Absatz 1 entscheidet das Bundesamt gleichzeitig mit der Festsetzung der Vergütung.
 
 (4) Gegen Entscheidungen der Staatsanwaltschaft und des Bundesamts für Justiz nach den Vorschriften dieses Abschnitts kann gerichtliche Entscheidung beantragt werden. Zuständig ist das Landgericht, in dessen Bezirk die Justizbehörde ihren Sitz hat. Bei Entscheidungen des Generalbundesanwalts entscheidet der Bundesgerichtshof.
 
@@ -1631,7 +1631,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   **Abschnitt 1**
 
-    *   **Verfahren nach dem Gesetz über die internationale Rechtshilfe in Strafsachen und Verfahren nach dem Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof**
+    *   **Verfahren nach dem Gesetz über die internationale Rechtshilfe in Strafsachen, Verfahren nach dem Deutsch-Schweizerischer-Polizeivertrag-Umsetzungsgesetz und Verfahren nach dem Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof**
 
 
 *    *
@@ -4651,7 +4651,8 @@ Sonstige Verfahren
 
 
 *    *   Abschnitt 1
-        Verfahren nach dem Gesetz über die internationale Rechtshilfe in Strafsachen
+        Verfahren nach dem Gesetz über die internationale Rechtshilfe in Strafsachen,
+        Verfahren nach dem Deutsch-Schweizerischer-Polizeivertrag-Umsetzungsgesetz
         und Verfahren nach dem Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof ****
 
 
@@ -4660,7 +4661,7 @@ Sonstige Verfahren
 
 
 *    *   Vorbemerkung 6.1.1:
-        Die Gebühr nach diesem Unterabschnitt entsteht für die Tätigkeit gegenüber der Bewilligungsbehörde in Verfahren nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über die internationale Rechtshilfe in Strafsachen.
+        Die Gebühr nach diesem Unterabschnitt entsteht für die Tätigkeit gegenüber der Bewilligungsbehörde in Verfahren nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über die internationale Rechtshilfe in Strafsachen oder dem Deutsch-Schweizerischer-Polizeivertrag-Umsetzungsgesetz.
 
 
 *    *   6100

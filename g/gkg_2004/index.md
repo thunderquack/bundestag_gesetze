@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.2.2014 I 154;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 14.12.2023 I Nr. 365
+:   Art. 2 G v. 14.12.2023 I Nr. 365; 2024 I Nr. 165
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -90,7 +90,7 @@ Zuletzt geändert durch
 17a. nach dem Verbraucherrechtedurchsetzungsgesetz;
 
 
-18. nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über die internationale Rechtshilfe in Strafsachen;
+18. nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über die internationale Rechtshilfe in Strafsachen sowie nach dem Deutsch-Schweizerischer-Polizeivertrag-Umsetzungsgesetz;
 
 
 19. nach dem Kohlendioxid-Speicherungsgesetz;
@@ -1690,7 +1690,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **Teil 3**
 
-    *   **Strafsachen und gerichtliche Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes, sowie Verfahren nach dem Gesetz über die internationale Rechtshilfe in Strafsachen**
+    *   **Strafsachen und gerichtliche Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes, sowie Vollstreckungshilfeverfahren wegen im Ausland verhängter Geldsanktionen**
 
 
 *    *
@@ -4564,8 +4564,8 @@ Insolvenzverfahren und ähnliche Verfahren
 
 Teil 3
 Strafsachen und gerichtliche Verfahren nach dem Strafvollzugsgesetz,
-auch in Verbindung mit § 92 des Jugendgerichtsgesetzes, sowie Verfahren nach
-dem Gesetz über die internationale Rechtshilfe in Strafsachen
+auch in Verbindung mit § 92 des Jugendgerichtsgesetzes, sowie
+Vollstreckungshilfeverfahren wegen im Ausland verhängter Geldsanktionen
 ## 
 
 
@@ -5240,7 +5240,7 @@ dem Gesetz über die internationale Rechtshilfe in Strafsachen
 
 
 *    *   Vorbemerkung 3.9.1:
-        Die Vorschriften dieses Abschnitts gelten für gerichtliche Verfahren nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über die internationale Rechtshilfe in Strafsachen.
+        Die Vorschriften dieses Abschnitts gelten für gerichtliche Verfahren nach Abschnitt 2 Unterabschnitt 2 des Neunten Teils des Gesetzes über die internationale Rechtshilfe in Strafsachen sowie für Verfahren nach dem Deutsch-Schweizerischer-Polizeivertrag-Umsetzungsgesetz.
 
 
 *    *   3910
@@ -5258,7 +5258,7 @@ dem Gesetz über die internationale Rechtshilfe in Strafsachen
 
 *    *   3911
 
-    *   Verfahren über den Antrag auf gerichtliche Entscheidung gegen die Entscheidung der Bewilligungsbehörde nach § 87f Abs. 5 Satz 2 IRG:
+    *   Verfahren über den Antrag auf gerichtliche Entscheidung gegen die Entscheidung der Bewilligungsbehörde nach § 87f Abs. 5 Satz 2 IRG oder § 7 Absatz 2 Satz 2 DECHPolVtrUG:
         Der Antrag wird verworfen
         ..........
 

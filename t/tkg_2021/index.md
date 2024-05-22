@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 1858
 
 Zuletzt geändert durch
-:   Art. 5 G v. 14.3.2023 I Nr. 71
-
-Änderung durch
-:   Art. 35 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 35 G v. 6.5.2024 I Nr. 149
 
 Stand: Ersetzt G v. 22.6.2004 I 1190 (TKG 2004)
 
