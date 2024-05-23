@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2263
 
 Zuletzt geändert durch
-:   Art. 4 G v. 17.7.2023 I Nr. 190
-
-Änderung durch
-:   Art. 3 Abs. 8 G v. 22.3.2024 I Nr. 104 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet (Ausnahme Anlage 12)
+:   Art. 3 Abs. 8 G v. 22.3.2024 I Nr. 104
 
 
 ## Eingangsformel

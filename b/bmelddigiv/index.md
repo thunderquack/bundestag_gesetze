@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2022, 683
 
 Zuletzt geändert durch
-:   Art. 3 V v. 23.6.2023 I Nr. 169
-
-Änderung durch
-:   Art. 3 Abs. 7 G v. 22.3.2024 I Nr. 104 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 Abs. 7 G v. 22.3.2024 I Nr. 104
 
 
 ## § 1 Anwendungsbereich
