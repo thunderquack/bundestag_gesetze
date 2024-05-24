@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1981, 1420
 
 Zuletzt geändert durch
-:   Art. 2 G v. 6.3.2017 I 403
-
-Änderung durch
-:   Art. 5 G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 27.3.2024 I Nr. 109
 
 
 ## Eingangsformel

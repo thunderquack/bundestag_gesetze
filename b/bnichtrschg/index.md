@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2007, 1595
 
 Geändert durch
-:   Art. 2 G v. 9.6.2021 I 1730
-
-Änderung durch
-:   Art. 8 G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 27.3.2024 I Nr. 109
 
 
 

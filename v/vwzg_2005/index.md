@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2354
 
 Zuletzt geändert durch
-:   Art. 6 G v. 10.8.2021 I 3436
-
-Änderung durch
-:   Art. 34 Abs. 5 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 34 Abs. 5 G v. 22.12.2023 I Nr. 411
 
 
 

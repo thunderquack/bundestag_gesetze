@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 74, 80
 
 Zuletzt geändert durch
-:   Art. 7d G v. 19.7.2023 I Nr. 197
-
-Änderung durch
-:   Art. 4 G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 27.3.2024 I Nr. 109
 
 
 ## § 1 Grundsätze

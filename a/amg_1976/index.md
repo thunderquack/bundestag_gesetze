@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 12.12.2005 I 3394;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 19.7.2023 I Nr. 197
-
-Änderung durch
-:   Art. 7 G v. 27.3.2024 I Nr. 109 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 27.3.2024 I Nr. 109
 
 
 ## Erster Abschnitt - Zweck des Gesetzes und Begriffsbestimmungen, Anwendungsbereich
