@@ -4422,7 +4422,7 @@ Abschnitt I
     *
 
 
-[^F827671_02_BJNR069500995BJNE003651311]
+[^F827671_02_BJNR069500995BJNE003655311]
 
 
 
@@ -7523,6 +7523,33 @@ Abschnitt I
     *
     *
     *   befristet bis
+
+    *
+    *
+
+*    *
+    *
+    *   eee)
+
+    *   § 19d Absatz 1a AufenthG
+        (Aufenthaltserlaubnis für qualifizierte Geduldete im Anschluss an eine Ausbildungsduldung)
+
+    *
+    *   (2)\*
+
+
+*    *
+    *
+    *
+    *   erteilt am
+
+    *
+    *
+
+*    *
+    *
+    *
+    *   widerrufen am
 
     *
     *
@@ -14045,7 +14072,7 @@ Abschnitt II
 *    *   – Geschäftszeichen der Registerbehörde
         (Visadatei-Nummer)
 
-    *[^f756180_08_BJNR069500995BJNE003651311]
+    *[^f756180_08_BJNR069500995BJNE003655311]
    (7)
 
     *   – Zuspeicherung durch die
@@ -14260,7 +14287,7 @@ Abschnitt II
 
     *   Antrag abgelehnt
 
-    *[^f756180_09_BJNR069500995BJNE003651311]
+    *[^f756180_09_BJNR069500995BJNE003655311]
    (2)
 
     *
@@ -14880,6 +14907,6 @@ Abschnitt III
 
 
     Bei Antrag auf Erteilung eines Visums.
-[^f756180_08_BJNR069500995BJNE003651311]:     Bei Visumentscheidung.
-[^f756180_09_BJNR069500995BJNE003651311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
-[^F827671_02_BJNR069500995BJNE003651311]: 
+[^f756180_08_BJNR069500995BJNE003655311]:     Bei Visumentscheidung.
+[^f756180_09_BJNR069500995BJNE003655311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
+[^F827671_02_BJNR069500995BJNE003655311]: 

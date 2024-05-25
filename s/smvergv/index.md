@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 2465
 
 Zuletzt geändert durch
-:   Art. 16 G v. 9.7.2021 I 2444
-
-Änderung durch
-:   Art. 24 G v. 22.12.2023 I Nr. 414 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 24 G v. 22.12.2023 I Nr. 414
 
 
 ## Eingangsformel

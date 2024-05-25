@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 4.11.2009 I 3701;
 
 Zuletzt geändert durch
-:   Art. 9 G v. 9.7.2021 I 2444
-
-Änderung durch
-:   Art. 22 G v. 22.12.2023 I Nr. 414 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 22 G v. 22.12.2023 I Nr. 414
 
 
 ## § 1

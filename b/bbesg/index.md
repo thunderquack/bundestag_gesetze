@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.6.2009 I 1434;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 17.7.2023 I Nr. 190
-
-Änderung durch
-:   Art. 1 G v. 22.12.2023 I Nr. 414 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 22.12.2023 I Nr. 414
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

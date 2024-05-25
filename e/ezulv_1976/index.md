@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 3.12.1998 I 3497;
 
 Zuletzt geändert durch
-:   Art. 74 G v. 20.8.2021 I 3932
-
-Änderung durch
-:   Art. 23 G v. 22.12.2023 I Nr. 414 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 23 G v. 22.12.2023 I Nr. 414
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
