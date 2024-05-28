@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1691
 
+Änderung durch
+:   Art. 1 G v. 20.5.2024 I Nr. 167 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Dieses Gesetz dient der Umsetzung der Richtlinie (EU) 2019/1161 des Europäischen Parlaments und des Rates vom 20. Juni 2019 zur Änderung der Richtlinie 2009/33/EG über die Förderung sauberer und energieeffizienter Straßenfahrzeuge (ABl. L 188 vom 12.7.2019, S. 116).
 
 
@@ -42,10 +45,10 @@ Im Sinne dieses Gesetzes ist
     2                    g/km nicht übersteigen und dessen Luftschadstoffemissionen im praktischen Fahrbetrieb unterhalb des in der Tabelle der Anlage 1 festgelegten Prozentsatzes der anwendbaren Emissionsgrenzwerte liegen;
 
 
-5.  "sauberes schweres Nutzfahrzeug" ein Fahrzeug der Klasse M3, N2 oder N3 gemäß Artikel 4 Absatz 1 Buchstabe a Unterbuchstabe iii, Buchstabe b Unterbuchstabe ii und iii der Verordnung (EU) 2018/858, das mit alternativen Kraftstoffen im Sinne von Artikel 2 Nummer 1 und 2 der Richtlinie
-[^F816768_02_BJNR169110021BJNE000200000]
-    2014/94/EU                    des Europäischen Parlaments und des Rates vom 22. Oktober 2014 über den Aufbau der Infrastruktur für alternative Kraftstoffe (ABl. L 307 vom 28.10.2014, S. 1), die durch die Delegierte Verordnung (EU) 2018/674 (ABl. L 114 vom 4.5.2018, S. 1) geändert worden ist, betrieben wird, soweit diese Kraftstoffe die Anforderungen der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen in der jeweils geltenden Fassung erfüllen oder der DIN EN 15940
-    , Ausgabe Oktober 2019, entsprechen, ausgenommen Kraftstoffe, die aus Rohstoffen mit einem hohen Risiko indirekter Landnutzungsänderungen erzeugt wurden, für die gemäß Artikel 26 der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. L 328 vom 21.12.2018, S. 82, L 311 vom 25.9.2020, S. 11) eine erhebliche Ausweitung des Erzeugungsgebiets auf Flächen mit hohem Kohlenstoffbestand zu verzeichnen ist; bei Fahrzeugen, die mit flüssigen Biobrennstoffen oder synthetischen oder paraffinhaltigen Kraftstoffen betrieben werden, dürfen diese Kraftstoffe nicht mit konventionellen fossilen Brennstoffen vermischt werden;
+5.  „sauberes schweres Nutzfahrzeug“ ein Fahrzeug der Klasse M
+    3                   , N
+    2                    oder N
+    3                    nach Artikel 4 Absatz 1 Buchstabe a Unterbuchstabe iii, Buchstabe b Unterbuchstabe ii und iii der Verordnung (EU) 2018/858, das mit alternativen Kraftstoffen im Sinne des Artikels 2 Nummer 1 und 2 der Richtlinie 2014/94/EU des Europäischen Parlaments und des Rates vom 22. Oktober 2014 über den Aufbau der Infrastruktur für alternative Kraftstoffe (ABl. L 307 vom 28.10.2014, S. 1), die durch die Delegierte Verordnung (EU) 2018/674 (ABl. L 114 vom 4.5.2018, S. 1) geändert worden ist, betrieben wird;
 
 
 6.  "emissionsfreies schweres Nutzfahrzeug" ein Fahrzeug im Sinne von Nummer 5
@@ -74,9 +77,20 @@ Im Sinne dieses Gesetzes ist
 
 
 
+Im Fall des Satzes 1 Nummer 5 dürfen Fahrzeuge nur mit flüssigen oder gasförmigen Kraftstoffen betrieben werden, die die Anforderungen der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen in der jeweils geltenden Fassung erfüllen. Ein Fahrzeug gilt nicht als sauberes schweres Nutzfahrzeug, sofern es betrieben wird mit
 
-    Amtlicher Hinweis: Die DIN EN 15940 ist vom Beuth Verlag GmbH, Berlin, zu beziehen und beim Deutschen Patentamt archivmäßig gesichert niedergelegt.
-[^F816768_02_BJNR169110021BJNE000200000]: 
+1.  Biokraftstoffen, die aus Rohstoffen mit einem hohen Risiko indirekter Landnutzungsänderungen erzeugt wurden, für die entsprechend Artikel 26 der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. L 328 vom 21.12.2018, S. 82; L 311 vom 25.9.2020, S. 11) eine erhebliche Ausweitung des Erzeugungsgebiets auf Flächen mit hohem Kohlenstoffbestand zu verzeichnen ist,
+
+
+2.  paraffinischen Dieselkraftstoffen, die aus fossilen Rohstoffen erzeugt wurden, oder
+
+
+3.  strombasierten paraffinischen Dieselkraftstoffen, die aus fossilen Rohstoffen oder mit fossiler Energie erzeugt wurden.
+
+
+
+Ferner dürfen im Fall von Fahrzeugen, die mit flüssigen Biokraftstoffen, synthetischen oder paraffinischen Kraftstoffen betrieben werden, diese Kraftstoffe nicht mit konventionellen fossilen Kraftstoffen vermischt werden. Das Einhalten der Anforderungen an die verwendeten Kraftstoffe ist durch die öffentlichen Auftraggeber oder Sektorenauftraggeber bei der Auftragsvergabe durch vertragliche Verpflichtungen sicherzustellen. Werden Fahrzeuge mit Verbrennungsmotoren eingesetzt, so müssen diese nach der Abgasnorm Euro VI oder neuer typgenehmigt sein.
+
 
 ## § 3 Sachlicher Anwendungsbereich
 
@@ -190,7 +204,7 @@ Dieses Gesetz gilt für die Beschaffung bestimmter Straßenfahrzeuge und Dienstl
 
 ## § 5 Einhaltung von Mindestzielen
 
-(1) Öffentliche Auftraggeber und Sektorenauftraggeber haben bei der Beschaffung von Fahrzeugen und Dienstleistungen die für den jeweiligen Referenzzeitraum nach § 6 festgelegten Mindestziele insgesamt einzuhalten. Die Mindestziele bestimmen sich als Mindestprozentsatz sauberer leichter Nutzfahrzeuge und sauberer schwerer Nutzfahrzeuge einschließlich emissionsfreier schwerer Nutzfahrzeuge an der Gesamtzahl der gemäß § 3 in dem jeweiligen Referenzzeitraum beschafften sauberen leichten oder sauberen schweren Nutzfahrzeuge.
+(1) Öffentliche Auftraggeber und Sektorenauftraggeber haben bei der Beschaffung von Fahrzeugen und Dienstleistungen die für den jeweiligen Referenzzeitraum nach § 6 festgelegten Mindestziele insgesamt einzuhalten. Die Mindestziele bestimmen sich als Mindestprozentsatz sauberer leichter Nutzfahrzeuge und sauberer schwerer Nutzfahrzeuge einschließlich emissionsfreier schwerer Nutzfahrzeuge an der Gesamtzahl der in dem jeweiligen Referenzzeitraum nach § 3 Nummer 1 beschafften oder der in den nach § 3 Nummer 2 und 3 beschafften Dienstleistungen eingesetzten leichten oder schweren Nutzfahrzeuge.
 
 (2) Die Länder haben die Einhaltung der Mindestziele durch die öffentlichen Auftraggeber und Sektorenauftraggeber zu überwachen. Die Länder können für ihren Zuständigkeitsbereich zulassen, dass öffentliche Auftraggeber und Sektorenauftraggeber die für den jeweiligen Referenzzeitraum nach § 6 festgelegten Mindestziele nicht einhalten müssen, soweit die Mindestziele bereits durch andere öffentliche Auftraggeber oder Sektorenauftraggeber innerhalb des Landes übererfüllt werden. Die Länder können zur Einhaltung der Mindestziele auch Vereinbarungen mit den jeweiligen Branchenverbänden abschließen. Dabei müssen die Mindestziele nach § 6 innerhalb des jeweiligen Landes insgesamt eingehalten werden.
 
@@ -200,6 +214,8 @@ Dieses Gesetz gilt für die Beschaffung bestimmter Straßenfahrzeuge und Dienstl
 ## § 6 Geltung und Berechnung von Mindestzielen
 
 (1) Bei der Beschaffung sauberer leichter Nutzfahrzeuge gelten für den Referenzzeitraum vom 2. August 2021 bis zum 31. Dezember 2025 sowie vom 1. Januar 2026 bis zum 31. Dezember 2030 die in der Anlage 1 jeweils genannten Emissionsgrenzwerte. Für den Anteil dieser Fahrzeuge an der Gesamtzahl der beschafften leichten Nutzfahrzeuge gilt in beiden Referenzzeiträumen jeweils ein Mindestziel von 38,5 Prozent. Die weitergehenden Verpflichtungen für die Bundesverwaltung bleiben davon unberührt.
+
+(1a) Für die öffentlichen Auftraggeber und Sektorenauftraggeber des Bundes gilt bei der Beschaffung sauberer leichter Nutzfahrzeuge im Referenzzeitraum vom 1. Januar 2026 bis zum 31. Dezember 2030 abweichend von § 6 Absatz 1 Satz 2 ein Mindestziel von 42,5 Prozent. Juristische Personen des Privatrechts sind hiervon nur erfasst, wenn der Bund als Gesellschafter den gesamten Geschäftsanteil hält. Abweichend davon werden juristische Personen des Privatrechts für die Verpflichtung nach § 7 Absatz 1 Satz 1 dem Bund zugeordnet, wenn der Bund als Gesellschafter den größten Geschäftsanteil hält.
 
 (2) Bei der Beschaffung sauberer schwerer Nutzfahrzeuge gelten für ihren Anteil an der Gesamtzahl der beschafften schweren Nutzfahrzeuge folgende Mindestziele:
 
@@ -244,7 +260,7 @@ Dieses Gesetz gilt für die Beschaffung bestimmter Straßenfahrzeuge und Dienstl
 
 (1) Der Bund und die Länder stellen in ihrem jeweiligen Zuständigkeitsbereich sicher, dass die öffentlichen Auftraggeber und die Sektorenauftraggeber insgesamt die Mindestziele für die Beschaffung von Fahrzeugen und Dienstleistungen einhalten. Die Länder erstellen dabei jährlich einen Bericht an den Bund über die Erfüllung ihrer Aufgaben im Sinne des § 5 Absatz 2 und 3.
 
-(2) Der Bund erlässt Verwaltungsvorschriften, die sicherstellen, dass die in § 5 benannten Mindestziele durch die öffentlichen Auftraggeber und Sektorenauftraggeber des Bundes erreicht werden. Dabei werden auch Verpflichtungen für die Bundesverwaltung nach dem Bundesklimaschutzgesetz und dem Klimaschutzprogramm 2030 berücksichtigt.
+(2) Der Bund erlässt Verwaltungsvorschriften, die sicherstellen, dass die in § 5 benannten Mindestziele durch die öffentlichen Auftraggeber und Sektorenauftraggeber des Bundes erreicht werden. Dabei werden auch Verpflichtungen für die Bundesverwaltung nach dem Bundes-Klimaschutzgesetz und dem Klimaschutzprogramm 2030 berücksichtigt.
 
 (3) Weitergehende Verpflichtungen für die Bundesverwaltung führen zu einem Übertreffen der Mindestziele.
 
@@ -284,7 +300,7 @@ Ferner haben sie zusätzliche Daten anzugeben sowie weitere Einzelheiten bei der
 
 ## § 9 Berichterstattung und Datenübermittlung, Verordnungsermächtigung
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur legt im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie der Europäischen Kommission nach Artikel 10 Absatz 2 der Richtlinie (EU) 2019/1161 des Europäischen Parlaments und des Rates vom 20. Juni 2019 zur Änderung der Richtlinie 2009/33/EG über die Förderung sauberer und energieeffizienter Straßenfahrzeuge (ABl. L 188 vom 12.7.2019. S. 116) Berichte über die Umsetzung der Richtlinie (EU) 2019/1161 vor. Die Berichte müssen folgende Angaben enthalten:
+(1) Das Bundesministerium für Digitales und Verkehr legt im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz der Europäischen Kommission nach Artikel 10 Absatz 2 der Richtlinie (EU) 2019/1161 des Europäischen Parlaments und des Rates vom 20. Juni 2019 zur Änderung der Richtlinie 2009/33/EG über die Förderung sauberer und energieeffizienter Straßenfahrzeuge (ABl. L 188 vom 12.7.2019. S. 116) Berichte über die Umsetzung der Richtlinie (EU) 2019/1161 vor. Die Berichte müssen folgende Angaben enthalten:
 
 1.  getroffene Maßnahmen zur Umsetzung der Richtlinie (EU) 2019/1161,
 
@@ -302,7 +318,7 @@ Ferner haben sie zusätzliche Daten anzugeben sowie weitere Einzelheiten bei der
 
 (2) Die Berichterstattung nach Absatz 1 erfolgt erstmals bis zu dem nach Artikel 10 Absatz 2 Satz 1 der Richtlinie (EU) 2019/1161 genannten Datum und danach jeweils im Abstand von drei Jahren.
 
-(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, zum Zwecke der Berichterstattung nach § 9 Absatz 1 und zur Überprüfung, ob die Mindestziele nach § 5 eingehalten werden, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Folgendes zu regeln:
+(3) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, zum Zwecke der Berichterstattung nach § 9 Absatz 1 und zur Überprüfung, ob die Mindestziele nach § 5 eingehalten werden, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Folgendes zu regeln:
 
 1.  die Erhebung und Speicherung von Daten über Fahrzeugnachrüstungen nach § 6 Absatz 7,
 
@@ -337,8 +353,16 @@ Soweit bei der Übertragung auf ein Unternehmen des Bundes hoheitliche Aufgaben 
 
 ## § 10 Anwendungsvorschrift
 
-Dieses Gesetz gilt für Beschaffungen im Sinne des § 3, deren Auftragsbekanntmachung nach dem 2. August 2021 veröffentlicht wird oder bei denen nach dem 2. August 2021 zur Abgabe eines Angebotes aufgefordert wird.
+(1) Dieses Gesetz gilt für Beschaffungen im Sinne des § 3, deren Auftragsbekanntmachung nach dem 2. August 2021 veröffentlicht wird oder bei denen nach dem 2. August 2021 zur Abgabe eines Angebotes aufgefordert wird.
 
+(2) Für Beschaffungen im Sinne des § 3, deren Auftragsbekanntmachung bis zum Ablauf des 27. Mai 2024 veröffentlicht worden ist oder bei denen bis zum Ablauf dieses Tages zur Abgabe eines Angebots aufgefordert worden ist, ist § 2 Nummer 5 in der bis zum 27. Mai 2024 geltenden Fassung weiter anzuwenden.
+
+[^F829621_02_BJNR169110021BJNE001001125]
+(3) § 2 Satz 1 Nummer 5 in Verbindung mit den Sätzen 2 bis 6 in der ab dem 28. Mai 2024 geltenden Fassung ist erst ab dem Tag anzuwenden, an dem erstmals eine Änderung der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen vom 8. Dezember 2010 (BGBl. I S. 1849), die zuletzt durch Artikel 1 der Verordnung vom 13. Dezember 2019 (BGBl. I S. 2739) geändert worden ist, nach dem 28. Mai 2024 in Kraft tritt, die das Inverkehrbringen von Kraftstoffen nach DIN EN 15940
+, Ausgabe Juli 2023, in Reinform ermöglicht. Das Bundesministerium für Digitales und Verkehr hat den nach Satz 1 maßgeblichen Tag im Bundesgesetzblatt bekanntzugeben. Bis zu dem nach Satz 1 maßgeblichen Tag ist für Beschaffungen im Sinne des § 3, deren Auftragsbekanntmachung ab dem 28. Mai 2024 veröffentlicht worden ist oder bei denen ab diesem Tag zur Abgabe eines Angebots aufgefordert worden ist, § 2 Nummer 5 in der bis zum 27. Mai 2024 geltenden Fassung weiter anzuwenden.
+
+    Amtlicher Hinweis: Die DIN EN 15940 ist bei der Beuth-Verlag GmbH, Berlin und Köln, erschienen und dort zu beziehen.
+[^F829621_02_BJNR169110021BJNE001001125]: 
 (zu § 2 Nummer 4, § 6 Absatz 1)
 
 ## Anlage 1 Emissionsgrenzwerte für saubere leichte Nutzfahrzeuge
