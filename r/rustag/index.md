@@ -16,10 +16,7 @@ Fundstelle
 :   RGBl: 1913, 583
 
 Zuletzt geändert durch
-:   Art. 5 G v. 16.8.2023 I Nr. 217
-
-Änderung durch
-:   Art. 1 G v. 22.3.2024 I Nr. 104 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 22.3.2024 I Nr. 104
 
 Änderung durch
 :   Art. 2 G v. 22.3.2024 I Nr. 104 mit zukünftiger Wirkung noch nicht berücksichtigt

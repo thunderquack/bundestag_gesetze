@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1691
 
-Änderung durch
-:   Art. 1 G v. 20.5.2024 I Nr. 167 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 1 G v. 20.5.2024 I Nr. 167
 
 Dieses Gesetz dient der Umsetzung der Richtlinie (EU) 2019/1161 des Europäischen Parlaments und des Rates vom 20. Juni 2019 zur Änderung der Richtlinie 2009/33/EG über die Förderung sauberer und energieeffizienter Straßenfahrzeuge (ABl. L 188 vom 12.7.2019, S. 116).
 
