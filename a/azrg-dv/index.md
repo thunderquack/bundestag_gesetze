@@ -622,6 +622,7 @@ Abschnitt I
             – sonstige nicht in
             Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes
             – Staatsanwaltschaften
+            – Vollzugseinrichtungen
             – Gerichte
             – Bundesamt für Justiz
             – Staatsangehörigkeits- und Vertriebenenbehörden
@@ -1201,7 +1202,7 @@ Abschnitt I
         (§ 3 des AZR-Gesetzes)
 
 
-*    *   § 3 Absatz 2 Nummer 4 bis 11 in Verbindung mit § 2 Absatz 1a und 2 Nummer 1, § 3 Absatz 3a in Verbindung mit § 2 Absatz 2 Nummer 3 zu Buchstabe c bis f und h bis i
+*    *   § 3 Absatz 2 Nummer 4 bis 11 in Verbindung mit § 2 Absatz 1a und 2 Nummer 1, § 3 Absatz 3a in Verbindung mit § 2 Absatz 2 Nummer 3 zu Buchstabe c bis f und h bis i, § 3 Absatz 3e in Verbindung mit § 2 Absatz 2 Nummer 2
 
     *   (1)
 
@@ -1269,6 +1270,9 @@ Abschnitt I
 
 
         –   Staatsanwaltschaften
+
+
+        –   Vollzugseinrichtungen
 
 
         –   Statistisches Bundesamt zu Spalte A Buchstabe a (pseudonymisiertes Geschäftszeichen der Eltern von begleiteten Minderjährigen) und j
@@ -1576,6 +1580,9 @@ Abschnitt I
             –   Staatsanwaltschaften
 
 
+            –   Vollzugseinrichtungen
+
+
             –   Gerichte zu Spalte A Buchstabe a bis d, f und h
 
 
@@ -1844,6 +1851,7 @@ Abschnitt I
     *   (7)
 
     *   – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen
+        – Aufnahmeeinrichtungen
         – mit grenzpolizeilichen Aufgaben betraute Behörden
         – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde
         – Bundesamt für Migration und Flüchtlinge
@@ -1970,6 +1978,9 @@ Abschnitt I
         –   Staatsanwaltschaften
 
 
+        –   Vollzugseinrichtungen
+
+
         –   oberste Bundes- und
             Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind
 
@@ -1985,7 +1996,7 @@ Abschnitt I
 
 *    *   a)
 
-    *   Fingerabdruckdaten einschließlich Referenznummer
+    *   Fingerabdruckdaten einschließlich Referenznummern
 
     *
     *   (7)
@@ -2091,6 +2102,9 @@ Abschnitt I
 
 
         –   Staatsanwaltschaften
+
+
+        –   Vollzugseinrichtungen
 
 
         –   oberste Bundes- und
@@ -2264,7 +2278,8 @@ Abschnitt I
 
     *
     *   – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis g
-        – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe a, c, d, e und g
+        – Aufnahmeeinrichtungen zu Spalte A Buchstabe a bis g
+        – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe a und c bis g
         – Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden zu Spalte A Buchstabe a, d und e
         – Zuspeicherung durch die Registerbehörde zu Spalte A Buchstabe e und h
 
@@ -2280,7 +2295,7 @@ Abschnitt I
 
 *    *   b)
 
-    *   Zuzug von einer anderen Ausländerbehörde am
+    *   Zuzug/Zuständigkeitswechsel am
 
     *   (5)
 
@@ -2684,6 +2699,9 @@ Abschnitt I
         –   Staatsanwaltschaften
 
 
+        –   Vollzugseinrichtungen
+
+
         –   Gerichte
 
 
@@ -2855,6 +2873,9 @@ Abschnitt I
 
 
             –   Staatsanwaltschaften
+
+
+            –   Vollzugseinrichtungen
 
 
             –   Gerichte
@@ -3317,10 +3338,10 @@ Abschnitt I
 
 *    *   y)
 
-    *   räumliche Beschränkung nach
-        aa)   § 56 Absatz 1 oder Absatz         2 AsylG
-        Bezirk der         Ausländerbehörde
-        kraft Gesetzes entstanden         am
+    *   Räumliche Beschränkung nach
+        aa)   § 56 Absatz 1 oder Absatz 2 AsylG
+        Bezirk der Ausländerbehörde
+        kraft Gesetzes entstanden am
         geändert am
         erlischt am
 
@@ -3331,8 +3352,8 @@ Abschnitt I
 
 *    *
     *   bb)   § 59b Absatz 1 AsylG
-        Bezirk der         Ausländerbehörde
-        erteilt am
+        Bezirk der Ausländerbehörde
+        angeordnet am
         befristet bis
 
     *
@@ -3589,6 +3610,9 @@ Abschnitt I
         –   Staatsanwaltschaften
             zu Spalte A Buch-
             stabe b
+
+
+        –   Vollzugseinrichtungen
 
 
         –   Gerichte zu Spalte A
@@ -3885,6 +3909,9 @@ Abschnitt I
         –   Aufnahmeeinrichtungen
 
 
+        –   Bundesamt für Migration und Flüchtlinge
+
+
         –   Bundeskriminalamt
 
 
@@ -3933,6 +3960,9 @@ Abschnitt I
 
 
         –   Staatsanwaltschaften
+
+
+        –   Vollzugseinrichtungen
 
 
         –   Statistisches Bundesamt
@@ -3995,7 +4025,7 @@ Abschnitt I
         (§ 3 des AZR-Gesetzes)
 
 
-*    *   § 3 Absatz 1 Nummer 3, 6 und 7 sowie Absatz 3f in Verbindung mit § 2 Absatz 2 Nummer 3
+*    *   § 3 Absatz 1 Nummer 3, 6 und 7 sowie Absatz 3f in Verbindung mit § 2 Absatz 2 Nummer 2 und 3
 
     *
     *
@@ -4008,18 +4038,18 @@ Abschnitt I
     *
     *
     *   – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen
-        – Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden zu Spalte A Buchstaben d und e
+        – Aufnahmeeinrichtungen zu Spalte A Buchstabe i
+        – Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden zu Spalte A Buchstabe d und e
 
     *
         I)  Die Daten zu Spalte A
-            Buchstabe b und c jeweils Doppelbuchstabe cc und dd werden nur an das Bundeskriminalamt in seiner Funktion als SIRENE-Büro übermittelt.
+            Buchstabe b Doppelbuchstabe cc und dd und Buchstabe c Doppelbuchstabe cc und dd werden nur an das Bundeskriminalamt in seiner Funktion als SIRENE-Büro übermittelt.
 
 
             –   Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen
 
 
-            –   Aufnahmeeinrich-
-                tungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes
+            –   Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes
 
 
             –   Bundesamt für
@@ -4033,16 +4063,14 @@ Abschnitt I
                 polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden
 
 
-            –   oberste Bundes- und
-                Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind
+            –   oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind
 
 
             –   Bundesagentur für
                 Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes
 
 
-            –   deutsche Auslands-
-                vertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren
+            –   deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren
 
 
             –   Statistisches Bundesamt zu Spalte A Buchstabe a bis k
@@ -4090,7 +4118,9 @@ Abschnitt I
 *    *
     *   cc)
 
-    *   Schengen-Identifikationsnummer für die Ausschreibung im Schengener Informationssystem (Schengen-ID-Nummer)
+    *   Schengen-Identifikationsnummer für die Ausschreibung im Schengener
+        Informationssystem                      (Schengen-
+        ID-Nummer)
 
     *
     *   (7)
@@ -4146,7 +4176,9 @@ Abschnitt I
 *    *
     *   cc)
 
-    *   Schengen-Identifikationsnummer für die Ausschreibung im Schengener Informationssystem (Schengen-ID-Nummer)
+    *   Schengen-Identifikationsnummer für die Ausschreibung im Schengener
+        Informationssystem                      (Schengen-
+        ID-Nummer)
 
     *
     *   (7)
@@ -4198,13 +4230,14 @@ Abschnitt I
 
     *   Schengen-Identifikationsnummer für die Ausschreibung im Schengener Informationssystem (Schengen-ID-Nummer)
 
-    *
+    *   (1)
+
     *   (7)
 
     *
     *
         II.
-            –   Für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden
+            –   für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden
 
 
             –   Bundeskriminalamt
@@ -4213,11 +4246,13 @@ Abschnitt I
             –   Landeskriminalämter
 
 
-            –   Sonstige Polizeivoll-
-                zugsbehörden
+            –   sonstige Polizeivollzugsbehörden
 
 
             –   Staatsanwaltschaften
+
+
+            –   Vollzugseinrichtungen
 
 
             –   Gerichte
@@ -4230,15 +4265,11 @@ Abschnitt I
 
 
             –   Bundesagentur für
-                Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes
+                Arbeit und die für die Grundsicherung für Arbeitsuchende zuständigen Stellen zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes
 
 
             –   Bundesagentur für
                 Arbeit zur Aufgabenerfüllung nach § 23a des AZR-Gesetzes zu Spalte A Buchstabe a bis k
-
-
-            –   Die für die Grund-
-                sicherung für Arbeitsuchende zuständigen Stellen
 
 
             –   Jugendämter
@@ -4247,15 +4278,10 @@ Abschnitt I
             –   Träger der Deutschen Rentenversicherung
 
 
-            –   Staatsangehörigkeit-
-                behörden
+            –   Staatsangehörigkeitsbehörden
 
 
             –   Zollkriminalamt
-
-
-            –   Zentralstelle für
-                Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 
 
@@ -4304,8 +4330,7 @@ Abschnitt I
         gültig bis
         ausstellende Behörde
 
-    *   (1)
-
+    *
     *   (2)
 
     *
@@ -4337,7 +4362,8 @@ Abschnitt I
         gestellt am
 
     *
-    *   (1)\*
+    *[^F829919_01_BJNR069500995BJNE003659311]
+   (1)
 
     *
 
@@ -4347,7 +4373,7 @@ Abschnitt I
         gestellt am
 
     *
-    *   (1)\*
+    *   (1)
 
     *
 
@@ -4357,7 +4383,7 @@ Abschnitt I
         gestellt am
 
     *
-    *   (1)\*
+    *   (1)
 
     *
 
@@ -4374,6 +4400,17 @@ Abschnitt I
 
     *
     *
+        *
+            –   Zentralstelle für
+                Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28
+                Absatz 1                                  Satz 2 Nummer 2 des Geldwäschegesetzes
+
+
+
+
+
+
+
 
 *    *   l)
 
@@ -4404,6 +4441,7 @@ Abschnitt I
 
     *
     *
+    *
 
 *    *   § 3 Absatz 4 Nummer 3, 6 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 und 4
 
@@ -4413,7 +4451,7 @@ Abschnitt I
     *   – wie vorstehend –
 
     *   *§ 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes*
-        – nur die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen –
+        – nur die zu Personenkreis (1) in Spalte D Ziffer I genannten Stellen –
 
 
 *    *   Aufenthaltsstatus
@@ -4425,7 +4463,6 @@ Abschnitt I
     *
 
 
-[^F827671_02_BJNR069500995BJNE003655311]
 
 
 
@@ -4470,7 +4507,7 @@ Abschnitt I
 *    *
         a)  Entscheidungen der
             Bundesagentur für
-            Arbeit über die Zustimmung zur Beschäftigung
+            Arbeit über die Zustimmung zur Beschäftigung nach § 39 AufenthG (reguläres Verfahren)
 
             aa) Zustimmung der
                 Bundesagentur für Arbeit
@@ -4602,6 +4639,9 @@ Abschnitt I
 
 
         –   Staatsanwaltschaften
+
+
+        –   Vollzugseinrichtungen
 
 
         –   Gerichte
@@ -5634,6 +5674,9 @@ Abschnitt I
 
 
             –   Staatsanwaltschaften
+
+
+            –   Vollzugseinrichtungen
 
 
             –   Gerichte
@@ -9525,6 +9568,7 @@ Abschnitt I
             – sonstige nicht in
             Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes
             – Staatsanwaltschaften
+            – Vollzugseinrichtungen
             – Gerichte
             – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
             – Behörden der Zollverwaltung
@@ -9930,6 +9974,9 @@ Abschnitt I
             –   Staatsanwaltschaften
 
 
+            –   Vollzugseinrichtungen
+
+
             –   Gerichte
 
 
@@ -10150,6 +10197,7 @@ Abschnitt I
             – Bundeskriminalamt
             – Landeskriminalämter
             – Staatsanwaltschaften
+            – Vollzugseinrichtungen
             – Gerichte
             – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
             – Behörden der Zollverwaltung
@@ -10638,6 +10686,8 @@ Abschnitt I
     *
     *   – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen
         – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe c und e
+        – mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A Buchstabe b
+        – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde zu Spalte A Buchstabe b
 
     *   Die Daten zu Spalte A Buchstabe c bis f jeweils Doppelbuchstabe cc und dd werden nur an das Bundeskriminalamt in seiner Funktion als SIRENE-Büro übermittelt.
         – Ausländerbehörden
@@ -10653,6 +10703,7 @@ Abschnitt I
         – Bundeskriminalamt
         – Landeskriminalämter
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – Behörden der Zollverwaltung
         – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen
@@ -10933,7 +10984,7 @@ Abschnitt I
 
     *
     *
-    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 21, 23 des AZR-Gesetzes*
+    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes*
 
 
 *    *   Einreise- und Aufenthaltsverbot
@@ -11086,11 +11137,13 @@ Abschnitt I
         – Bundeskriminalamt
         – Landeskriminalämter
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – Behörden der Zollverwaltung
         – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen
         – die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen
-        – Statistisches Bundesamt zu Spalte A Buchstabe a bis f
+        – Jugendämter
+        – Statistisches Bundesamt
 
 
 *    *   d)
@@ -11235,6 +11288,7 @@ Abschnitt I
         – Bundeskriminalamt
         – Landeskriminalämter
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – Behörden der Zollverwaltung
         – Bundesagentur für Arbeit
@@ -11344,6 +11398,7 @@ Abschnitt I
             – Bundeskriminalamt
             – Landeskriminalämter
             – Staatsanwaltschaften
+            – Vollzugseinrichtungen
             – Gerichte
             – Behörden der Zollver-
             waltung
@@ -11622,6 +11677,9 @@ Abschnitt I
 
 
         –   Staatsanwaltschaften
+
+
+        –   Vollzugseinrichtungen
 
 
         –   Gerichte
@@ -12119,6 +12177,7 @@ Abschnitt I
             – sonstige nicht in
             Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes
             – Staatsanwaltschaften
+            – Vollzugseinrichtungen
             – Gerichte
             – Behörden der Zollver-
             waltung
@@ -12240,6 +12299,7 @@ Abschnitt I
         – Landeskriminalämter
         – sonstige Polizeivollzugsbehörden
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – Bundesagentur für Arbeit und Behörden der Zollverwaltung
         – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen
@@ -12356,6 +12416,7 @@ Abschnitt I
         – Bundeskriminalamt
         – Landeskriminalämter
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – Behörden der Zollverwaltung
         – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen
@@ -12590,6 +12651,7 @@ Abschnitt I
     *   – Landeskriminalämter
         – sonstige Polizeivollzugsbehörden
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
 
 
@@ -12658,6 +12720,7 @@ Abschnitt I
         – Bundeskriminalamt
         – Landeskriminalämter
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
 
 
@@ -12836,6 +12899,7 @@ Abschnitt I
             – sonstige nicht in
             Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes
             – Staatsanwaltschaften
+            – Vollzugseinrichtungen
             – Gerichte
             – Zollkriminalamt
             – Behörden der Zollverwaltung
@@ -12957,6 +13021,7 @@ Abschnitt I
         – Landeskriminalämter
         – sonstige Polizeivollzugsbehörden
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren
         – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
@@ -13089,6 +13154,7 @@ Abschnitt I
         – Landeskriminalämter
         – sonstige Polizeivollzugsbehörden
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
 
 
 *    *   b)
@@ -13173,6 +13239,7 @@ Abschnitt I
         – Landeskriminalämter
         – sonstige Polizeivollzugsbehörden
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren
 
@@ -13257,6 +13324,7 @@ Abschnitt I
         – Landeskriminalämter
         – sonstige Polizeivollzugsbehörden
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren
 
@@ -13341,6 +13409,7 @@ Abschnitt I
         – Landeskriminalämter
         – sonstige Polizeivollzugsbehörden
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren
 
@@ -13426,6 +13495,7 @@ Abschnitt I
         – Landeskriminalämter
         – sonstige Polizeivollzugsbehörden
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren
 
@@ -13508,6 +13578,7 @@ Abschnitt I
         – Landeskriminalämter
         – sonstige Polizeivollzugsbehörden
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Gerichte
         – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visaverfahren
         – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
@@ -14075,13 +14146,14 @@ Abschnitt II
 *    *   – Geschäftszeichen der Registerbehörde
         (Visadatei-Nummer)
 
-    *[^f756180_08_BJNR069500995BJNE003655311]
+    *[^f756180_08_BJNR069500995BJNE003659311]
    (7)
 
     *   – Zuspeicherung durch die
         Registerbehörde
 
     *   – Ausländerbehörden
+        – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes
         – in der Rechtsverordnung nach § 58 Abs. 1 des
         Bundespolizeigesetzes bestimmte Bundespolizeibehörde
         – andere mit der polizeilichen Kontrolle des
@@ -14097,6 +14169,7 @@ Abschnitt II
         – Militärischer Abschirmdienst
         – Gerichte
         – Staatsanwaltschaften
+        – Vollzugseinrichtungen
         – Bundesagentur für Arbeit und Behörden der Zollverwaltung
         – deutsche Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visumverfahren
         – Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
@@ -14290,7 +14363,7 @@ Abschnitt II
 
     *   Antrag abgelehnt
 
-    *[^f756180_09_BJNR069500995BJNE003655311]
+    *[^f756180_09_BJNR069500995BJNE003659311]
    (2)
 
     *
@@ -14470,8 +14543,16 @@ Abschnitt II
 
 *    *   c)
 
-    *   Stelle, bei der sie
-        vorliegt
+    *   Verpflichtungserklärung nach § 66 Absatz 2 AufenthG und § 68 Absatz 1 AufenthG
+        abgegeben am
+
+    *
+    *
+    *
+
+*    *   d)
+
+    *   Stelle, bei der sie vorliegt zu Buchstabe a bis c
 
     *   (7)
 
@@ -14548,7 +14629,7 @@ Abschnitt II
 
 *    *   Entscheidungen der
         Bundesagentur für Arbeit über die Zustimmung zur Beschäftigung/Fest-
-        stellung zustimmungsfreier Beschäftigung
+        stellung zustimmungsfreier Beschäftigung nach § 39 AufenthG (reguläres Verfahren)
 
     *
     *
@@ -14819,6 +14900,9 @@ Abschnitt III
         –   Staatsanwaltschaften
 
 
+        –   Vollzugseinrichtungen
+
+
         –   Gerichte
 
 
@@ -14909,7 +14993,7 @@ Abschnitt III
 
 
 
-    Bei Antrag auf Erteilung eines Visums.
-[^f756180_08_BJNR069500995BJNE003655311]:     Bei Visumentscheidung.
-[^f756180_09_BJNR069500995BJNE003655311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
-[^F827671_02_BJNR069500995BJNE003655311]: 
+[^f756180_08_BJNR069500995BJNE003659311]:     Bei Antrag auf Erteilung eines Visums.
+[^f756180_09_BJNR069500995BJNE003659311]:     Bei Visumentscheidung.
+[^F829919_01_BJNR069500995BJNE003659311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
+

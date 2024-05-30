@@ -16,10 +16,7 @@ Fundstelle
 :   BAnz: AT 19.12.2022 V1
 
 Zuletzt geändert durch
-:   Art. 1a V v. 17.10.2023 I Nr. 281
-
-Änderung durch
-:   Art. 1 V v. 10.5.2024 I Nr. 156 mWv 17.5.2024 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 10.5.2024 I Nr. 156
 
 
 ## Eingangsformel
@@ -394,14 +391,14 @@ Sofern der Betriebsinhaber Zahlungen für eine Öko-Regelung oder mehrere Öko-R
     a)  § 20 Absatz 1 Nummer 1 Buchstabe a des GAP-Direktzahlungen-Gesetzes: Flächen nach Lage und Größe,
 
 
-    b)  § 20 Absatz 1 Nummer 1 Buchstabe b des GAP-Direktzahlungen-Gesetzes: Blühflächen und streifen nach Lage und Größe und Angabe des Jahres der Aussaat sowie der Kategorie der Saatgutmischung nach Nummer 1.2.5 der Anlage 5 zur GAP-Direktzahlungen-Verordnung,
+    b)  § 20 Absatz 1 Nummer 1 Buchstabe b des GAP-Direktzahlungen-Gesetzes: Blühflächen und -streifen nach Lage und Größe und Angabe des Jahres der Aussaat sowie der Kategorie der Saatgutmischung nach Nummer 1.2.5 der Anlage 5 zur GAP-Direktzahlungen-Verordnung,
 
 
     c)  § 20 Absatz 1 Nummer 1 Buchstabe c des GAP-Direktzahlungen-Gesetzes: die Angaben nach Buchstabe b,
 
 
     d)  § 20 Absatz 1 Nummer 1 Buchstabe d des GAP-Direktzahlungen-Gesetzes:
-        Altgrasstreifen                          und flächen nach Lage und Größe,
+        Altgrasstreifen                          und -flächen nach Lage und Größe,
 
 
     e)  § 20 Absatz 1 Nummer 2 des GAP-Direktzahlungen-Gesetzes: für das gesamte Ackerland mit Ausnahme des brachliegenden Ackerlandes die Kulturarten nach Nutzungscode, die im Zeitraum vom 1. Juni bis zum 15. Juli des Antragsjahres am längsten auf der jeweiligen Fläche stehen als Hauptfruchtart im Sinne der Anlage 5 Nummer 2 zur GAP-Direktzahlungen-Verordnung sowie die Flächen nach Lage und Größe,
@@ -432,10 +429,10 @@ Sofern der Betriebsinhaber Zahlungen für eine Öko-Regelung oder mehrere Öko-R
 
 (1) Sofern der Betriebsinhaber die Zahlung für Mutterschafe und -ziegen beantragt, hat er im Sammelantrag zusätzlich folgende Angaben zu machen und folgende Erklärung beizufügen:
 
-1.  die Anzahl der Mutterschafe und ziegen, für die diese Zahlung beantragt wird,
+1.  die Anzahl der Mutterschafe und -ziegen, für die diese Zahlung beantragt wird,
 
 
-2.  die Identifikation der Mutterschafe und ziegen, für die diese Zahlung beantragt wird, und eine Erklärung, dass diese Tiere am 1. Januar des Antragsjahres mindestens 10 Monate alt waren,
+2.  die Identifikation der Mutterschafe und -ziegen, für die diese Zahlung beantragt wird, und eine Erklärung, dass diese Tiere am 1. Januar des Antragsjahres mindestens 10 Monate alt waren,
 
 
 3.  den Aufenthaltsort der Tiere, für die diese Zahlung beantragt wird, insbesondere sofern sich diese in einem anderen Land als dem der Stellung des Sammelantrags befinden,

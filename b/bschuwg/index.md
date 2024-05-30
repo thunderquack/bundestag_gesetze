@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 1466
 
 Zuletzt geändert durch
-:   Art. 1 G v. 16.7.2021 I 3372
-
-Änderung durch
-:   Art. 1 G v. 20.5.2025 I Nr. 166 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 20.5.2024 I Nr. 166
 
 
 
