@@ -256,7 +256,7 @@ Ausgenommen sind
     a)  die kein Aufenthaltsrecht haben oder
 
 
-    b)  deren Aufenthaltsrecht sich allein aus dem Zweck der Arbeitsuche ergibt,
+    b)  deren Aufenthaltsrecht sich allein aus dem Zweck der Arbeitsuche, der Ausbildungs- oder Studienplatzsuche oder aus einer Aufenthaltserlaubnis nach § 20a des Aufenthaltsgesetzes ergibt,
 
 
 
