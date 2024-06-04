@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.9.1995 I 1195;
 
 Zuletzt geändert durch
-:   Art. 4a G v. 19.7.2023 I Nr. 197
-
-Änderung durch
-:   Art. 8z4 G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8z4 G v. 12.12.2023 I Nr. 359
 
 
 ## Erster Abschnitt - Allgemeine Bestimmung

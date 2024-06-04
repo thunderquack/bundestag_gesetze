@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 274
 
-Änderung durch
-:   Art. 7 G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 7 G v. 12.12.2023 I Nr. 359
 
 Stand: Ersetzt G 2124-18 v. 2.8.1993 I 1402 (MTAG 1993)
 

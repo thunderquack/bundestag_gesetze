@@ -20,16 +20,7 @@ Neugefasst durch
 :   Bek. v. 10.4.1991 I 886;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 26.7.2023 I Nr. 202
-
-Änderung durch
-:   Art. 8x G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 5 G v. 22.12.2023 I Nr. 406 ist berücksichtigt
-
-Änderung durch
-:   Art. 8a G v. 22.3.2024 I Nr. 101 ist berücksichtigt
+:   Art. 8a G v. 22.3.2024 I Nr. 101
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften

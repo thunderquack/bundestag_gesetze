@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 306
 
 Zuletzt geändert durch
-:   Art. 3e G v. 28.6.2022 I 938
-
-Änderung durch
-:   Art. 8z G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8z G v. 12.12.2023 I Nr. 359
 
 Stand: G ersetzt G 2121-6-26 v. 7.10.1994 I 2835 (GÜG) mWv 19.3.2008
 

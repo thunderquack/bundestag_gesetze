@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2346
 
 Zuletzt geändert durch
-:   Art. 15e G v. 11.7.2021 I 2754
-
-Änderung durch
-:   Art. 8y G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8y G v. 12.12.2023 I Nr. 359
 
 
 ## Abschnitt 1 - Deutsches Rotes Kreuz

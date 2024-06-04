@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2020, 2295
 
 Geändert durch
-:   Art. 3 V v. 7.6.2023 I Nr. 148
-
-Änderung durch
-:   Art. 8z6 G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8z6 G v. 12.12.2023 I Nr. 359
 
 [^F813654_01_BJNR229510020]:     Diese Verordnung dient der Umsetzung der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22; L 271 vom 16.10.2007, S. 18; L 93 vom 4.4.2008, S. 28; L 33 vom 3.2.2009, S. 49; L 305 vom 24.10.2014, S. 115), die zuletzt durch den Delegierten Beschluss (EU) 2020/548 (ABl. L 131 vom 24.4.2020, S. 1) geändert worden ist.
 
