@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 32 u. Art. 35 Abs. 10 G v. 27.3.2024 I Nr. 108
 
+Änderung durch
+:   Art. 2 G v. 30.5.2024 I Nr. 173 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
 

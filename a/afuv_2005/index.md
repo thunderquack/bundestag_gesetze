@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 21.6.2023 I Nr. 160
 
+Änderung durch
+:   Art. 1 V v. 27.5.2024 I Nr. 175 mWv 24.6.2024 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 
