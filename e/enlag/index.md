@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2870
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.12.2023 I Nr. 405
-
-Änderung durch
-:   Art. 4 G v. 8.5.2024 I Nr. 151 mWv 1textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 8.5.2024 I Nr. 151
 
 Stand: Das G ist gem. Art. 7 G v. 21.8.2009 I 2870 am 26.8.2009 in Kraft getreten
 

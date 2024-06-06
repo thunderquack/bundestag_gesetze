@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2543; 2014, 148, 271
 
 Zuletzt geändert durch
-:   Art. 3 G v. 5.20224 I Nr. 32
-
-Änderung durch
-:   Art. 6 G v. 8.5.2024 I Nr. 151 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 8.5.2024 I Nr. 151
 
 Stand: Das G tritt gem. Art. 5 Abs. 1 G v. 23.7.2013 I 2543 am 27.7.2013 in Kraft
 Stand: § 1 iVm Nr. 33 der Anlage ist gem. Bek. v. 18.2.2014 I 148 am 8.1.2014 in Kraft getreten

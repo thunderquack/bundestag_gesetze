@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1970 (3621)
 
 Zuletzt geändert durch
-:   Art. 1 G v. 5.2.2024 I Nr. 32
-
-Änderung durch
-:   Art. 2 G v. 8.5.2024 I Nr. 151 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 8.5.2024 I Nr. 151
 
 Änderung durch
 :   Art. 1 G v. 14.5.2024 I Nr. 161 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -2869,7 +2866,7 @@ Das Interesse des Anschlussnehmers an kostengünstigen Lösungen ist dabei beson
 
 #### § 19 Technische Vorschriften
 
-(1) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, unter Berücksichtigung der nach § 17 festgelegten Bedingungen für den Netzanschluss von Erzeugungsanlagen, Anlagen zur Speicherung elektrischer Energie Elektrizitätsverteilernetzen, Anlagen direkt angeschlossener Kunden, Verbindungsleitungen und Direktleitungen technische Mindestanforderungen an deren Auslegung und deren Betrieb (technische Anschlussbedingungen) festzulegen und im Internet zu veröffentlichen. Dabei werden die allgemeinen technischen Mindestanforderungen nach Absatz 4 über die technischen Anschlussbedingungen in den Netzanschlussvertrag oder in das sonstige dem Netzanschluss zugrunde liegende Schuldverhältnis einbezogen.
+(1) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, unter Berücksichtigung der nach § 17 festgelegten Bedingungen für den Netzanschluss von Erzeugungsanlagen, Anlagen zur Speicherung elektrischer Energie, Elektrizitätsverteilernetzen, Anlagen direkt angeschlossener Kunden, Verbindungsleitungen und Direktleitungen technische Mindestanforderungen an deren Auslegung und deren Betrieb (technische Anschlussbedingungen) festzulegen und im Internet zu veröffentlichen. Dabei werden die allgemeinen technischen Mindestanforderungen nach Absatz 4 über die technischen Anschlussbedingungen in den Netzanschlussvertrag oder in das sonstige dem Netzanschluss zugrunde liegende Schuldverhältnis einbezogen.
 
 (1a) Anforderungen in den technischen Anschlussbedingungen, die im Widerspruch zu den allgemeinen technischen Mindestanforderungen nach Absatz 4 stehen, sind unwirksam. Ergänzungen zu den allgemeinen technischen Mindestanforderungen nach Absatz 4 sind nur zulässig, soweit
 

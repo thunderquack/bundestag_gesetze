@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 1690
 
 Zuletzt geändert durch
-:   Art. 10 G v. 22.12.2023 I Nr. 405
-
-Änderung durch
-:   Art. 5 G v. 8.5.2024 I Nr. 151 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 8.5.2024 I Nr. 151
 
 Stand: Das G ist gem. Art. 7 Abs. 1 G v. 28.7.2011 I 1690 am 5.8.2011 in Kraft getreten
 
