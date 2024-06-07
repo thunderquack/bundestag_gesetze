@@ -15,6 +15,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1102
 
+V aufgeh. durch
+:   Art. 4 Satz 2 V v. 3.6.2024 I Nr. 179 mWv 1.8.2026
+
+Ersetzt durch
+:   V 806-22-1-154 v. 3.6.2024 I Nr. 179 (TiefbauBAusbV)
+
+Ersetzt durch
+:   V 806-22-1-155 v. 3.6.2024 I Nr. 179 (HochbauBAusbV)
+
+Ersetzt durch
+:   V 806-22-1-156 v. 3.6.2024 I Nr. 179 (AusbauBAusbV)
+
 Zuletzt geändert durch
 :   Art. 1 V v. 20.2.2009 I 399
 

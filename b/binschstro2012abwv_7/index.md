@@ -13,7 +13,7 @@ Ausfertigungsdatum
 :   2024-04-29
 
 Fundstelle
-:   BGBl. I: 2024, Nr. 143
+:   BGBl. I: 2024, Nr. 143 (Nr. 180)
 
 Stand: Die V tritt gem. § 4 mit Ablauf des 31.5.2027 außer Kraft
 
@@ -94,7 +94,7 @@ II. Vorübergehende Regelungen
         2.  Auf der Spree-Oder-Wasserstraße von der Mündung in die Untere Havel-Wasserstraße (km 0,00) bis zum Abzweig des Teltowkanals (km 35,12) ist das Stillliegen außerhalb einer durch die Tafelzeichen E.5 bis E.5.15 gekennzeichneten Liegestelle und außerhalb von genehmigten Liegeplätzen verboten. Satz 1 gilt nicht für den Nebenarm der Insel der Jugend, den Rummelsburger See, den Seenebenarm um die Liebesinsel und die Insel Kratzbruch sowie die Müggelspree.
 
 
-        3.  Auf der Spree-Oder-Wasserstraße vom Abzweig des Teltowkanals (km 35,12) bis zur Einmündung in die Oder (km 130,17), dem Nebenarm der Insel der Jugend, dem Rummelsburger See, dem Seenebenarm um die Liebesinsel und die Insel Kratzbruch, der Müggelspree, der Großen Krampe und den Rüdersdorfern Gewässern muss sich eine beaufsichtigende Person nach § 7.08 Nummer 4 Satz 1 während des Stillliegens außerhalb einer gekennzeichneten Liegestelle oder eines genehmigten Liegeplatzes ständig an Bord aufhalten. Im Falle eines Verbandes gilt Satz 1 mit der Maßgabe, dass eine beaufsichtigende Person für den Verband hinreichend ist. Die beaufsichtigende Person muss
+        3.  Auf der Spree-Oder-Wasserstraße vom Abzweig des Teltowkanals (km 35,12) bis zur Einmündung in die Oder (km 130,17), dem Nebenarm der Insel der Jugend, dem Rummelsburger See, dem Seenebenarm um die Liebesinsel und die Insel Kratzbruch, der Müggelspree, der Großen Krampe und den Rüdersdorfern Gewässern muss sich eine beaufsichtigende Person nach § 7.08 Nummer 5 Satz 1 während des Stillliegens außerhalb einer gekennzeichneten Liegestelle oder eines genehmigten Liegeplatzes ständig an Bord aufhalten. Im Falle eines Verbandes gilt Satz 1 mit der Maßgabe, dass eine beaufsichtigende Person für den Verband hinreichend ist. Die beaufsichtigende Person muss
 
             a)  mit den Befugnissen des Eigentümers oder der Eigentümerin des oder der von ihr beaufsichtigten Fahrzeugs, Schwimmkörpers oder schwimmenden Anlage ausgestattet sein,
 
@@ -106,7 +106,7 @@ II. Vorübergehende Regelungen
 
 
 
-            § 7.08 Nummer 4 Satz 2 ist nicht anzuwenden.
+            § 7.08 Nummer 5 Satz 2 ist nicht anzuwenden.
 
 
         4.  Auf einem See oder einer seeartigen Erweiterung ist § 7.01 Nummer 1 Satz 1 unter der Voraussetzung, dass die durchgehende Schifffahrt nicht behindert wird, nicht anzuwenden."

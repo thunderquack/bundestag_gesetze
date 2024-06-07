@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 25.2.2008 I 162;
 
 Zuletzt geändert durch
-:   Art. 7 Abs. 1 G v. 11.4.2024 I Nr. 119
-
-Änderung durch
-:   Art. 3 G v. 8.5.2024 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 8.5.2024 I Nr. 152
 
 Mittelbare änderung durch
 :   Art. 4 G v. 20.12.2023 I Nr. 390 betreffend § 104 Abs. 17 ist nicht mehr ausführbar
@@ -4779,7 +4776,7 @@ Das Bundesamt für Migration und Flüchtlinge hat unbeschadet der Aufgaben nach 
 5a. Prüfung der Mitteilungen nach § 16c Absatz 1, § 18e Absatz 1 und § 19a Absatz 1 sowie Ausstellung der Bescheinigungen nach § 16c Absatz 4, § 18e Absatz 5 und § 19a Absatz 4 oder Ablehnung der Einreise und des Aufenthalts;
 
 
-6.  Datenerhebung und verwendung im Fall vorübergehenden Schutzes;
+6.  Datenerhebung und -verwendung im Fall vorübergehenden Schutzes;
 
 
 7.  Koordinierung der Programme und Mitwirkung an Projekten zur Förderung der freiwilligen Rückkehr sowie Auszahlung hierfür bewilligter Mittel;

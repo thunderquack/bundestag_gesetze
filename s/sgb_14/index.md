@@ -1,5 +1,5 @@
 ---
-Title: Sozialgesetzbuch Vierzehntes Buch – Soziale Entschädigung –
+Title: Sozialgesetzbuch Vierzehntes Buch - Soziale Entschädigung -
 jurabk: SGB 14
 layout: default
 origslug: sgb_14
@@ -7,7 +7,7 @@ slug: sgb_14
 
 ---
 
-# Sozialgesetzbuch Vierzehntes Buch – Soziale Entschädigung – (SGB 14)
+# Sozialgesetzbuch Vierzehntes Buch - Soziale Entschädigung - (SGB 14)
 
 Ausfertigungsdatum
 :   2019-12-12
