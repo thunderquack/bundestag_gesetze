@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2007, 60
 
 Zuletzt geändert durch
-:   Art. 2 V v. 12.11.2021 I 4932
+:   Art. 1 V v. 4.6.2024 I Nr. 183
 
 
 
@@ -92,6 +92,11 @@ hergestellt worden sind und der Betrieb, in dem die Stoffe angefallen sind, nach
 ## § 10 Zugänglichkeit der DIN-Normen
 
 DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth Verlag GmbH, Berlin, erschienen und in der Deutschen Nationalbibliothek archivmäßig gesichert hinterlegt.
+
+
+## § 11 Anpassung der Treibhausgasminderungs-Quote
+
+Die in § 37a Absatz 4 Satz 2 des Bundes-Immissionsschutzgesetzes genannten Prozentsätze für das Kalenderjahr 2024 und die nachfolgenden Kalenderjahre werden um jeweils 0,1 Prozentpunkte angehoben.
 
 (zu § 4)
 
