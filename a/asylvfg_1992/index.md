@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.9.2008 I 1798;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 21.2.2024 I Nr. 54
-
-Änderung durch
-:   Art. 9 G v. 8.5.2024 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 8.5.2024 I Nr. 152
 
 Stand: Dieses G ersetzt das G 26-5 v. 16.7.1982 I 946 (AsylVfG)
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
