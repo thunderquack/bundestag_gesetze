@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 162
 
-Geändert durch
-:   Art. 166 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 10 G v. 8.5.2024 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 10 G v. 8.5.2024 I Nr. 152
 
 
 ## Eingangsformel
