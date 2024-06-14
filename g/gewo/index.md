@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.2.1999 I 202
 
 Zuletzt geändert durch
-:   Art. 11 G v. 28.6.2023 I Nr. 172
-
-Änderung durch
-:   Art. 8 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 5 G v. 17.1.2024 I Nr. 12 ist berücksichtigt
+:   Art. 5 G v. 17.1.2024 I Nr. 12
 
 
 ## Titel I - Allgemeine Bestimmungen

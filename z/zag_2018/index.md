@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 2446 (2019 I 1113)
 
 Zuletzt geändert durch
-:   Art. 27 G v. 11.12.2023 I Nr. 354
-
-Änderung durch
-:   Art. 11 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 22.12.2023 I Nr. 411
 
 Stand: Ersetzt G 7610-16 v. 25.6.2009 I 1506 (ZAG)
 

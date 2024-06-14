@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 2102
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22. 5.2005 I 1373
-
-Änderung durch
-:   Art. 16 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 16 G v. 22.12.2023 I Nr. 411
 
 
 ## § 1 Errichtung durch Umwandlung

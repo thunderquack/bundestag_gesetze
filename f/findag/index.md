@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1310
 
 Zuletzt geändert durch
-:   Art. 22 G v. 11.12.2023 I Nr. 354
-
-Änderung durch
-:   Art. 4 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 22.12.2023 I Nr. 411
 
 
 ## Erster Abschnitt - Errichtung, Aufsicht, Aufgaben
@@ -533,7 +530,7 @@ Soweit die Kosten der Bundesanstalt nicht durch Gebühren, gesonderte Erstattung
 4.  Aufgaben der Bundesanstalt als Abwicklungsbehörde nach § 3 Absatz 1 des Sanierungs- und Abwicklungsgesetzes sowie Aufgaben der Bundesanstalt nach dem Restrukturierungsfondsgesetz und der Verordnung (EU) Nr. 806/2014 (Aufgabenbereich Abwicklung),
 
 
-5.  Bilanzkontrollemittenten (Aufgabenbereich Bilanzkontrolle)
+5.  Bilanzkontrollemittenten (Aufgabenbereich Bilanzkontrolle).
 
 
 

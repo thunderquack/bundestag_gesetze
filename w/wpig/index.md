@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 990
 
 Zuletzt geändert durch
-:   Art. 28 G v. 11.12.2023 I Nr. 354
-
-Änderung durch
-:   Art. 7 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 22.12.2023 I Nr. 411
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
@@ -302,7 +299,7 @@ Alle Betriebsstellen eines Wertpapierinstituts mit Hauptverwaltung in einem ande
 
 
 
-(20) Aufnahmevertragsstaat eines Wertpapierinstituts ist der Vertragsstaat, in dem das Wertpapierinstitut eine Zweigniederlassung unterhält oder Wertpapierdienstleistungen im Wege des grenzüberschreitenden Dienstleistungsverkehrs erbringt;
+(20) Aufnahmevertragsstaat eines Wertpapierinstituts ist der Vertragsstaat, in dem das Wertpapierinstitut eine Zweigniederlassung unterhält oder Wertpapierdienstleistungen im Wege des grenzüberschreitenden Dienstleistungsverkehrs erbringt.
 
 (21) Systemrisiko im Sinne dieses Gesetzes ist das Risiko einer Störung des Finanzsystems mit möglicherweise schwerwiegenden negativen Auswirkungen auf das Finanzsystem und die Realwirtschaft.
 

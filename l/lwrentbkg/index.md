@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 12.12.2013 I 4120
 
 Zuletzt geändert durch
-:   Art. 14 Abs. 7 G v. 17.7.2017 I 2446
-
-Änderung durch
-:   Art. 17 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 17 G v. 22.12.2023 I Nr. 411
 
 
 ## § 1 Rechtsform, Sitz

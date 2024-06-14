@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2776;
 
 Zuletzt geändert durch
-:   Art. 20 G v. 11.12.2023 I Nr. 354
-
-Änderung durch
-:   Art. 6 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 22.12.2023 I Nr. 411
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften

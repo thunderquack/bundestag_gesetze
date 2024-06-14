@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1373
 
 Zuletzt geändert durch
-:   Art. 8 G v. 20.7.2022 I 1166
-
-Mittelbare änderung durch
-:   Art. 10 G v. 20.7.2022 I 1166 ist berücksichtigt
-
-Änderung durch
-:   Art. 9 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 22.12.2023 I Nr. 411
 
 
 ## Abschnitt 1 - Anwendungsbereich, Erlaubnis und Aufsicht

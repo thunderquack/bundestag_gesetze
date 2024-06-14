@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 3245
 
 Zuletzt geändert durch
-:   Art. 2 V v. 19.12.2022 I 2645
-
-Änderung durch
-:   Art. 18 G v. 22.12.2023 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 18 G v. 22.12.2023 I Nr. 411
 
 Diese Verordnung dient auch der weiteren Umsetzung der Richtlinie 2006/48/EG des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Aufnahme und Ausübung der Tätigkeit der Kreditinstitute (Neufassung) (ABl. EU Nr. L 177 S. 1) und der Richtlinie 2006/49/EG des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die angemessene Eigenkapitalausstattung von Wertpapierfirmen und Kreditinstituten (Neufassung) (ABl. EU Nr. L 177 S. 201).
 
