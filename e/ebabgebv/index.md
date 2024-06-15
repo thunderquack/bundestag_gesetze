@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2021, 3182
 
 Zuletzt geändert durch
-:   Art. 3 V v. 30.11.2023 I Nr. 345
+:   Art. 1 V v. 5.6.2024 I Nr. 189
 
 
 ## § 1 Erhebung von Gebühren und Auslagen

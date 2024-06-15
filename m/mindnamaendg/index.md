@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1997, 1406
 
 Zuletzt geändert durch
-:   Art. 32 V v. 19.6.2020 I 1328
+:   Art. 3 G v. 11.6.2024 I Nr. 185
 
 
 ## § 1

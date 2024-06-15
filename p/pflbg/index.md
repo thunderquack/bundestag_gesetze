@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 2581
 
 Zuletzt geändert durch
-:   Art. 9a G v. 11.7.2021 I 2754
-
-Änderung durch
-:   Art. 1 G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2a G v. 12.12.2023 I Nr. 359 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2a G v. 12.12.2023 I Nr. 359
 
 [^F799294_01_BJNR258110017]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22; L 271 vom 16.10.2007, S. 18), die zuletzt durch den Delegierten Beschluss (EU) 2016/790 (ABl. L 134 vom 24.5.2016, S. 135) geändert worden ist.
 

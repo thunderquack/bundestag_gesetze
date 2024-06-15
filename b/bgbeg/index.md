@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 11.12.2023 I Nr. 354
 
+Änderung durch
+:   Art. 2 G v. 11.6.2024 I Nr. 185 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Allgemeine Vorschriften
 

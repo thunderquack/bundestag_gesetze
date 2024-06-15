@@ -19,6 +19,9 @@ Neugefasst durch
 :   Bek. v. 10.8.2007 I 1902;
 
 Stand: zuletzt geändert Art. 1 G v. 20.12.2023 I Nr. 390
+Änderung durch
+:   Art. 5 Abs. 1 G v. 11.6.2024 I Nr. 185 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
 

@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 975
 
+Geändert durch
+:   Art. 2 V v. 5.6.2024 I Nr. 189
+
 
 ## Eingangsformel
 
