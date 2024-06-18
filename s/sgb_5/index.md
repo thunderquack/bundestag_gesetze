@@ -38,7 +38,7 @@ Zuletzt geändert durch
 :   Art. 31 G v. 6.5.2024 I Nr. 149 ist berücksichtigt
 
 Änderung durch
-:   Art. 3 G v. 30.5.2024 I Nr. 173 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 30.5.2024 I Nr. 173 ist berücksichtigt
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften

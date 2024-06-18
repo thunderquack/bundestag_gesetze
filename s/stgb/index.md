@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.11.1998 I 3322;
 
 Zuletzt geändert durch
-:   Art. 12 G v. 27.3.2024 I Nr. 109
+:   Art. 1 G v. 12.6.2024 I Nr. 190
 
 
 ## Allgemeiner Teil - 
@@ -199,7 +199,7 @@ Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für folgende T
 
 
 
-16. Bestechlichkeit und Bestechung von Mandatsträgern (§ 108e), wenn
+16. Bestechlichkeit und Bestechung von Mandatsträgern (§ 108e) und unzulässige Interessenwahrnehmung (§ 108f), wenn
 
     a)  der Täter zur Zeit der Tat Mitglied einer deutschen Volksvertretung oder Deutscher ist oder
 
@@ -3279,6 +3279,26 @@ Die §§ 107 bis 108c gelten für Wahlen zu den Volksvertretungen, für die Wahl
 
 
 (5) Neben einer Freiheitsstrafe von mindestens sechs Monaten kann das Gericht die Fähigkeit, Rechte aus öffentlichen Wahlen zu erlangen, und das Recht, in öffentlichen Angelegenheiten zu wählen oder zu stimmen, aberkennen.
+
+
+#### § 108f Unzulässige Interessenwahrnehmung
+
+(1) Wer einen ungerechtfertigten Vermögensvorteil für sich oder einen Dritten als Gegenleistung dafür fordert, sich versprechen lässt oder annimmt, dass er während seines Mandates zur Wahrnehmung von Interessen des Vorteilsgebers oder eines Dritten eine Handlung vornehme oder unterlasse, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft. Satz 1 gilt nur für folgende Mandatsträger und nur dann, wenn eine solche entgeltliche Interessenwahrnehmung die für die Rechtsstellung des Mandatsträgers maßgeblichen Vorschriften verletzen würde:
+
+1.  Mitglieder einer Volksvertretung des Bundes oder der Länder,
+
+
+2.  Mitglieder des Europäischen Parlaments und
+
+
+3.  Mitglieder der parlamentarischen Versammlung einer internationalen Organisation.
+
+
+
+
+(2) Wer einem in Absatz 1 Satz 2 genannten Mandatsträger einen ungerechtfertigten Vermögensvorteil für diesen Mandatsträger oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, dass dieser Mandatsträger während seines Mandates zur Wahrnehmung von Interessen des Vorteilsgebers oder eines Dritten eine Handlung vornehme oder unterlasse, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft. Satz 1 gilt nur, wenn eine solche entgeltliche Interessenwahrnehmung die für die Rechtsstellung des Mandatsträgers maßgeblichen Vorschriften verletzen würde.
+
+(3) § 108e Absatz 4 und 5 gilt entsprechend.
 
 
 ### Fünfter Abschnitt - Straftaten gegen die Landesverteidigung

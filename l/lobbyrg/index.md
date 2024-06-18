@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 818
 
-Geändert durch
-:   Art. 1 G v. 15.1.2024 I Nr. 10
+Zuletzt geändert durch
+:   Art. 4 G v. 12.6.2024 I Nr. 190
 
 
 ## Eingangsformel
@@ -417,7 +417,7 @@ Die Eintragung ist unverzüglich vorzunehmen, sobald eine der in Satz 1 genannte
 3.  entgegen § 3 Absatz 3 Satz 2 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig aktualisiert oder
 
 
-4.  entgegen § 4 Absatz 2 Satz 2, auch in Verbindung mit den Sätzen 3 und 4, eine Bestätigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt.
+4.  entgegen § 4 Absatz 2 Satz 2, auch in Verbindung mit den Sätzen 3 oder 4, eine Bestätigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt.
 
 
 

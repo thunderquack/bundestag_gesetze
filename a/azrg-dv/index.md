@@ -2059,7 +2059,7 @@ Abschnitt I
     *
     *
     *
-    *   *§§ 14, 15, 16, 17, § 17b, 18a, 18b, 18c, 18d, 18e, 19, 23, 23a, 24a des AZR-Gesetzes*
+    *   *§§ 14, 15, 16 bis 19, 23, 23a, 24a des AZR-Gesetzes*
 
 
 *    *   Anschrift im Bundesgebiet
@@ -2095,7 +2095,7 @@ Abschnitt I
         –   Bundeskriminalamt
 
 
-        –   Landeskrimnalämter
+        –   Landeskriminalämter
 
 
         –   Sonstige Polizeivollzugsbehörden des Bundes und der Länder

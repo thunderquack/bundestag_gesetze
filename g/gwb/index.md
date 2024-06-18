@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.6.2013 I 1750, 3245;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.12.2023 I Nr. 405
+:   Art. 3 G v. 12.6.2024 I Nr. 190
 
 Änderung durch
 :   Art. 20 Nr. 1 G v. 9.12.2004 I 3220 war nicht ausführbar, da zu diesem Zeitpunkt keine amtliche Inhaltsübersicht existierte
@@ -4262,7 +4262,7 @@ Bei öffentlichen Aufträgen und Wettbewerben, die Verteidigungs- oder Sicherhei
 6.  § 299 des Strafgesetzbuchs (Bestechlichkeit und Bestechung im geschäftlichen Verkehr), §§ 299a und 299b des Strafgesetzbuchs (Bestechlichkeit und Bestechung im Gesundheitswesen),
 
 
-7.  § 108e des Strafgesetzbuchs (Bestechlichkeit und Bestechung von Mandatsträgern),
+7.  § 108e des Strafgesetzbuchs (Bestechlichkeit und Bestechung von Mandatsträgern) oder § 108f des Strafgesetzbuchs (unzulässige Interessenwahrnehmung),
 
 
 8.  den §§ 333 und 334 des Strafgesetzbuchs (Vorteilsgewährung und Bestechung), jeweils auch in Verbindung mit § 335a des Strafgesetzbuchs (Ausländische und internationale Bedienstete),

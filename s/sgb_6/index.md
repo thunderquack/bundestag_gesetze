@@ -20,13 +20,10 @@ Neugefasst durch
 :   Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 27.3.2024 I Nr. 107
-
-Änderung durch
-:   Art. 1 G v. 30.5.2024 I Nr. 173 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 30.5.2024 I Nr. 173
 
 Mittelbare änderung durch
-:   Art. 5 G v. 30.5.2024 I Nr. 173 berücksichtigt
+:   Art. 5 G v. 30.5.2024 I Nr. 173 ist berücksichtigt
 
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2024 v. 29.11.2023 I Nr. 322 ist berücksichtigt
 

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.5.1975 I 1077;
 
 Zuletzt geändert durch
-:   Art. 14a G v. 27.3.2024 I Nr. 109
+:   Art. 2 G v. 12.6.2024 I Nr. 190
 
 
 ## Erster Titel - Gerichtsbarkeit
@@ -1715,7 +1715,7 @@ Eine besondere Bedeutung des Falles ist auch anzunehmen, wenn in den Fällen des
 
 ### § 120b
 
-In Strafsachen sind die Oberlandesgerichte, in deren Bezirk die Landesregierungen ihren Sitz haben, zuständig für die Verhandlung und Entscheidung im ersten Rechtszug bei Bestechlichkeit und Bestechung von Mandatsträgern (§ 108e des Strafgesetzbuches). § 120 Absatz 3 und 5 gilt entsprechend.
+In Strafsachen sind die Oberlandesgerichte, in deren Bezirk die Landesregierungen ihren Sitz haben, zuständig für die Verhandlung und Entscheidung im ersten Rechtszug bei Bestechlichkeit und Bestechung von Mandatsträgern (§ 108e des Strafgesetzbuches) und unzulässiger Interessenwahrnehmung (§ 108f des Strafgesetzbuches). § 120 Absatz 3 und 5 gilt entsprechend.
 
 
 ### § 121

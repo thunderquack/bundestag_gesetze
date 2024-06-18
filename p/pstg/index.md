@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 122
 
 Zuletzt geändert durch
-:   Art. 3 G v. 17.7.2023 I Nr. 190
-
-Änderung durch
-:   Art. 4 G v. 11.6.2024 I Nr. 185 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 11.6.2024 I Nr. 185
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
