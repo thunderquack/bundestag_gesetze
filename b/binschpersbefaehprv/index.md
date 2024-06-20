@@ -15,6 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: AT 14.01.2022 V2
 
+Stand: Zukünftige amtl. Langüberschrift: Verordnung über die Durchführung von Befähigungsprüfungen auf Führungsebene nach der Binnenschiffspersonalverordnung (ab 1.7.2024 I Nr. 193)
+Stand: Zukünftige amtl. Kurzüberschrift: Binnenschiffspersonal-Befähigungsprüfungsverordnung für die Führungsebene (ab 1.7.2024 I Nr. 193)
+Stand: Zukünftige amtl. Buchstabenabkürzung: BinSchPersFührEBefähPrV (ab 1.7.2024 I Nr. 193)
+Änderung durch
+:   Art. 1 V v. 14.6.2024 I Nr. 193 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+[^F601410022_01_BJNR601410022]:     Nichtamtlicher Hinweis: Die Überschrift wurde gem. Art. 1 Nr. 1 V v. 14.6.2024 I Nr. 193 mWv 1.7.2024 wie folgt gefasst:  **Verordnung über die Durchführung von Befähigungsprüfungen auf Führungsebene nach der Binnenschiffspersonalverordnung**  **(Binnenschiffspersonal-Befähigungsprüfungsverordnung für die Führungsebene — BinSchPersFührEBefähPrV)**
+
 
 ## Eingangsformel
 

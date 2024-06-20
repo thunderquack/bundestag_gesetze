@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 125
 
+Geändert durch
+:   Art. 2 V v. 14.6.2024 I Nr. 193
+
 
 ## Eingangsformel
 

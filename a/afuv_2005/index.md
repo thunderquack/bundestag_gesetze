@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 242
 
 Zuletzt geändert durch
-:   Art. 1 V v. 21.6.2023 I Nr. 160
-
-Änderung durch
-:   Art. 1 V v. 27.5.2024 I Nr. 175 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 27.5.2024 I Nr. 175
 
 
 ## Eingangsformel

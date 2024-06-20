@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 28.8.2023 I Nr. 236
 
+Änderung durch
+:   Art. 2 V v. 10.6.2024 I Nr. 191 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -6361,12 +6364,38 @@ Abschnitt I
         Buchstabe b
 
 
-*    *   (200)
+*    *   200
 
-    *   (aufgehoben)
+    *   Als Halter eine Flüssiggasanlage nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig prüfen lässt um
+
+    *   § 60 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3 Satz 1,
+        § 69a Absatz 2 Nummer 20
 
     *
+
+*    *   200.1
+
+    *   mehr als 2 bis zu 4 Monate
+
     *
+    *   15 €
+
+
+*    *   200.2
+
+    *   mehr als 4 bis zu 8 Monate
+
+    *
+    *   25 €
+
+
+*    *   200.3
+
+    *   mehr als 8 Monate
+
+    *
+    *   60 €
+
 
 *    *
     *   Besetzung von Kraftomnibussen ****
@@ -6802,7 +6831,7 @@ Abschnitt I
     *   Fahrzeug trotz erloschener Betriebserlaubnis in Betrieb genommen und dadurch die Umwelt wesentlich beeinträchtigt
 
     *   § 19 Absatz 5 Satz 1
-        § 69a Absatz 2 Nummer 1a
+        § 69a Absatz 2 Nummer 1b
 
     *
 
@@ -7803,12 +7832,11 @@ Abschnitt II
 
 *    *   250a
 
-    *   Vorschriftswidrig ein Verbot für Kraftwagen mit einem die Gesamtmasse beschränkenden Zusatzzeichen (Zeichen 251 mit Zusatzzeichen 1053-33) oder eine tatsächliche Höhenbeschränkung (Zeichen 265) nicht beachtet, wobei die Straßenfläche zusätzlich durch Verkehrseinrichtungen (Anlage 4 lfd. Nr. 1 bis 4 zu § 43 Absatz 3) gekennzeichnet ist.
+    *   Vorschriftswidrig ein Verbot für Kraftwagen mit einem die Gesamtmasse beschränkenden Zusatzzeichen (Zeichen 251 mit Zusatzzeichen 1053-33) oder eine tatsächliche Höhenbeschränkung (Zeichen 265) nicht beachtet, wobei die Straßenfläche zusätzlich durch Verkehrseinrichtungen (Anlage 4 lfd. Nr. 1 bis 4 zu § 43 Absatz 3 StVO) gekennzeichnet ist.
 
-    *   § 41 Absatz 1 i.V.m.
-        Anlage 2 lfd. Nr. 27 Spalte 3, lfd. Nr. 29
-        (Zeichen 251)                      Spalte 3, lfd. Nr. zu 36 bis 40,
-        lfd. Nr. 39 (Zeichen 265)
+    *   § 41 Absatz 1 i. V. m. Anlage 2
+        lfd. Nr. 27 Spalte 3, lfd. Nr. 29 (Zeichen 251) Spalte 3, lfd. Nr. zu 36 bis 40, lfd. Nr. 39
+        (Zeichen 265)
         § 43 Absatz 3 Satz 2
         § 49 Absatz 3 Nummer 4, 6
 
@@ -7818,21 +7846,21 @@ Abschnitt II
 
 
 *    *
-    *   Aushändigen von Führerscheinen und Bescheinigungen ****
+    *   b) Fahrerlaubnis-Verordnung
+        Aushändigen von Führerscheinen und Bescheinigungen ****
 
     *
     *
 
 *    *   251
 
-    *   Führerschein, Bescheinigung oder die Übersetzung
-        des ausländischen Führerscheins auf Verlangen nicht ausgehändigt
+    *   Führerschein, Bescheinigung oder die Übersetzung des ausländischen Führerscheins auf Verlangen nicht ausgehändigt
 
     *   § 4 Absatz 2 Satz 2, 3
         § 5 Absatz 4 Satz 2, 3
         § 48 Absatz 3 Satz 2
         § 48a Absatz 3 Satz 2
-        § 74 Absatz 4 Satz 2
+        § 74 Absatz 4 Satz 5
         § 75 Nummer 4
         § 75 Nummer 13
 
@@ -7844,7 +7872,7 @@ Abschnitt II
     *   Beim begleiteten Fahren ab 17 Jahren ein Kraftfahrzeug der Klasse B oder BE ohne Begleitung geführt
 
     *   § 48a Absatz 2 Satz 1
-        § 75 Nummer 15
+        § 75 Nummer 9
 
     *   70 €
 
@@ -7863,30 +7891,40 @@ Abschnitt II
 
 *    *   252
 
-    *   Die Zulassungsbescheinigung Teil I oder sonstige
-        Bescheinigung auf Verlangen nicht ausgehändigt oder nicht wie vorgeschrieben ausgelegt
+    *   Die Zulassungsbescheinigung Teil I oder sonstige Bescheinigung auf Verlangen nicht ausgehändigt
 
-    *   § 4 Absatz 5 Satz 1
-        § 13 Absatz 6 Satz 1
-        § 28 Satz 2
-        § 31 Satz 3
-        § 32 Absatz 2
-        § 52 Absatz 1 Satz 6
-        § 77 Nummer 4 und Nummer 22
+    *   § 4 Absatz 5 Satz 1
+        § 13 Absatz 6 Satz 1
+        § 28 Satz 2
+        § 31 Satz 3
+        § 52 Absatz 1 Satz 6
+        § 77 Nummer 4
 
     *   10 €
 
 
+*    *
+    *   Betriebsverbot und Beschränkungen ****
+
+    *
+    *
+
 *    *   253
 
-    *   Einem Verbot, ein Fahrzeug in Betrieb zu setzen,
-        zuwidergehandelt oder Beschränkung nicht beachtet
+    *   Einem Verbot, ein Fahrzeug in Betrieb zu setzen, zuwidergehandelt oder Beschränkung nicht beachtet
 
-    *   § 5 Absatz 1
-        § 77 Nummer 6
+    *   § 5 Absatz 1 Satz 1
+        § 77 Nummer 6
 
     *   70 €
 
+
+*    *
+    *   d) Straßenverkehrs-Zulassungs-Ordnung
+        Erlöschen der Betriebserlaubnis ****
+
+    *
+    *
 
 *    *   253a
 
@@ -7914,7 +7952,8 @@ Abschnitt II
 
 
 *    *
-    *   Achslast, Gesamtgewicht, Anhängelast hinter Kraftfahrzeugen ****
+    *   Achslast, Gesamtgewicht,
+        Anhängelast hinter Kraftfahrzeugen ****
 
     *
     *
@@ -7937,8 +7976,7 @@ Abschnitt II
 
 *    *   255
 
-    *   Urkunde über eine Ausnahmegenehmigung auf
-        Verlangen nicht ausgehändigt
+    *   Urkunde über eine Ausnahmegenehmigung auf Verlangen nicht ausgehändigt
 
     *   § 70 Absatz 3a Satz 1
         § 69a Absatz 5 Nummer 7

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 V v. 20.7.2023 I Nr. 199
 
+Änderung durch
+:   Art. 3 V v. 10.6.2024 I Nr. 191 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F807515_01_BJNR075610019]:     Notifiziert gemäß Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 241 vom 17.9.2015, S. 1).
 
 
@@ -142,7 +145,7 @@ Zum Führen eines Elektrokleinstfahrzeugs sind Personen berechtigt, die das 14. 
 
 (2) Die Versorgung der Beleuchtungsanlage kann über eine Kopplung an den Energiespeicher für den Antrieb erfolgen.
 
-(3) Die seitliche Kennzeichnung hat mit gelben Rückstrahlern nach beiden Seiten wirkend gemäß Nummer 18 der Technischen Anforderungen an Fahrzeugteile bei der Bauartprüfung nach § 22a StVZO vom 5. Juli 1973 (VkBl. S. 558), die zuletzt durch die Bekanntmachung vom 23. Februar 1994 (VkBl. S. 233) geändert worden ist, oder mit ringförmig zusammenhängenden retroreflektierenden weißen Streifen an den Reifen oder Felgen des Vorderrades und des Hinterrades zu erfolgen. Bei einachsigen Elektrokleinstfahrzeugen reicht die Kennzeichnung der außenliegenden Räder.
+(3) Die seitliche Kennzeichnung hat mit gelben Rückstrahlern nach beiden Seiten wirkend gemäß Nummer 18 der Technischen Anforderungen an Fahrzeugteile bei der Bauartprüfung nach § 22a StVZO vom 5. Juli 1973 (VkBl. S. 558), die zuletzt durch die Bekanntmachung vom 23. Februar 1994 (VkBl. S. 233) geändert worden ist, oder mit ringförmig zusammenhängenden retroreflektierenden weißen Streifen an den Reifen oder Felgen des Vorderrades und des Hinterrades zu erfolgen. Bei einachsigen Elektrokleinstfahrzeugen reicht die Kennzeichnung der außenliegenden Räder. Zusätzliche nach der Seite wirkende bauartgenehmigte gelbe rückstrahlende Mittel sind zulässig.
 
 (4) Bei Elektrokleinstfahrzeugen ist die Ausrüstung mit nach vorne und nach hinten wirkenden Fahrtrichtungsanzeigern entsprechend § 67 Absatz 5 Satz 6 der Straßenverkehrs-Zulassungs-Ordnung zulässig. Zusätzlich
 

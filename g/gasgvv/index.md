@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 2391, 2396
 
 Zuletzt geändert durch
-:   Art. 5 G v. 19.7.2022 I 1214
-
-Änderung durch
-:   Art. 4 G v. 20.12.2022 I 2512 (Nr. 54) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 14.6.2024 I Nr. 192
 
 
 
@@ -366,5 +363,5 @@ Gerichtsstand für die beiderseitigen Verpflichtungen aus dem Grundversorgungsve
 
 ### § 23 Übergangsregelung
 
-Die erstmalige Veröffentlichung des Musters der Abwendungsvereinbarung des Grundversorgers auf dessen Internetseite nach § 2 Absatz 3 Satz 7 hat spätestens zum 1. Januar 2022 zu erfolgen. § 19 Absatz 5 Satz 9 ist bis zum Ablauf des 30. April 2024 anwendbar.
+Die erstmalige Veröffentlichung des Musters der Abwendungsvereinbarung des Grundversorgers auf dessen Internetseite nach § 2 Absatz 3 Satz 7 hat spätestens zum 1. Januar 2022 zu erfolgen. § 19 Absatz 5 Satz 9 ist ab dem 20. Juni 2024 bis zum Ablauf des 30. April 2025 anzuwenden.
 
