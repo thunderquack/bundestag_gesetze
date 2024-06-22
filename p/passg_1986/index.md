@@ -21,6 +21,9 @@ Neugefasst durch
 Geändert durch
 :   Art. 3 Abs. 1 G v. 22.3.2024 I Nr. 104
 
+Änderung durch
+:   Art. 2 G v. 19.6.2024 I Nr. 206 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Passvorschriften
 

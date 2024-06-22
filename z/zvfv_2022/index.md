@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 24.11.2023 I Nr. 320
 
+Änderung durch
+:   Art. 1 V v. 17.6.2024 I Nr. 203 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 310-4-16 v. 23.8.2012 I 1822 (ZVFV)
 
 ## § 1 Einführung von Formularen

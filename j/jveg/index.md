@@ -20,6 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 17 G v. 25.6.2021 I 2154
 
+Änderung durch
+:   Art. 10 G v. 19.6.2024 I Nr. 206 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 

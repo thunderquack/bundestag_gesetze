@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 1016 (4043)
 
 Zuletzt geändert durch
-:   Art. 7 V v. 5.4.2023 II Nr. 105
-
-Änderung durch
-:   Art. 7 V v. 18.3.2024 I Nr. 100 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 V v. 18.3.2024 I Nr. 100
 
 
 ## § 1 Anwendungsbereich
@@ -593,7 +590,7 @@ Ist ein Sportbootführerschein, der in einem amtlichen Register verzeichnet ist,
 
 ## Anlage 1 Muster für den amtlichen Sportbootführerschein
 
-(Fundstelle: BGBl. I 2022, 2213)
+(Fundstelle: BGBl. I 2022, 2213; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Vorderseite
 
@@ -1864,7 +1861,7 @@ Durch die Prüfung ist der Nachweis über die folgenden Kenntnisse entsprechend 
 
 ## Anlage 4 Praktische Prüfung zum Erwerb des Sportbootführerscheins
 
-(Fundstelle: BGBl. I 2017, 1031 - 1033)
+(Fundstelle: BGBl. I 2017, 1031 - 1033; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1\. Allgemeines ****
 
@@ -2369,7 +2366,7 @@ Ansprüche auf Teilnahme an der Prüfung, Vorschlag zur Bestellung und Einsatz a
 
 ## Anlage 7 Belehrung gemäß § 10 Absatz 3 Satz 3
 
-(Fundstelle: BGBl. I 2017, 1036)
+(Fundstelle: BGBl. I 2017, 1036; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Die für die beliehenen Verbände tätigen Prüfer erhalten Entscheidungsbefugnisse für die Ausübung ihrer Prüfungstätigkeit und treten dem Bewerber um eine Fahrerlaubnis als Hoheitsträger gegenüber.
 

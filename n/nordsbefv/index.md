@@ -17,8 +17,8 @@ Fundstelle
 :   BGBl I: 2023, Nr. 113
 
 Stand: Ersetzt V 940-9-16 v. 12.2.1992 I 242 (NPNordSBefV)
-Änderung durch
-:   Art. 3 V v. 18.3.2024 I Nr. 100 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 3 V v. 18.3.2024 I Nr. 100
 
 
 ## Eingangsformel
@@ -298,7 +298,7 @@ Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft. Gleichzeitig trit
 
 ## Anlage 1 Übersichtskarten Nordsee-Befahrensverordnung
 
-(Fundstelle: BGBl. 2023 I Nr. 113 Anlageband, S. 2 - 3)
+(Fundstelle: BGBl. 2023 I Nr. 113 Anlageband, S. 1 - 2)
 
 Übersichtskarte nach § 3 Absatz 1 der Nordsee-Befahrensverordnung, nördlicher Teil
 ![bgbl1_2023_j0113_0010.jpg](bgbl1_2023_j0113_0010.jpg)
@@ -308,7 +308,7 @@ Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft. Gleichzeitig trit
 
 ## Anlage 2 Geltungsbereich, Allgemeine Schutzgebiete, Besondere Schutzgebiete
 
-(Fundstelle: BGBl. 2023 I Nr. 113 Anlageband, S. 4 - 219)
+(Fundstelle: BGBl. 2023 I Nr. 113 Anlageband, S. 3 - 218)
 
 **Abschnitt 1 – Geltungsbereich**
 
@@ -64525,6 +64525,8 @@ III. Schleswig-Holstein ****
    (zu § 3 Absatz 3, § 6 Absatz 2 Satz 2, § 6 Absatz 3 Satz 2, § 7 Absatz 7, § 9 Satz 2)
 
 ## Anlage 3 Erlaubniszonen und Routen für Sport- und Freizeitzwecke sowie für die gewerbliche Nutzung
+
+(Fundstelle: BGBl. 2023 I Nr. 113 Anlageband, S. 219 - 277; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Es gelten vorbehaltlich des § 6 Absatz 4 im Geltungsbereich gemäß § 3 Absatz 2 folgende Bereichsausweisungen:
 

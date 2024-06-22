@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 3262, 3263
 
 Zuletzt geändert durch
-:   Art. 6 G v. 24.10.2022 I 1838
+:   Art. 1 V v. 17.6.2024 I Nr. 204
 
 
 ## Abschnitt 1 - Allgemeines

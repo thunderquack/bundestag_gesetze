@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1980, 1654
 
+G aufgeh. durch
+:   Art. 13 Abs. 1 Satz 2 G v. 19.6.2024 I Nr. 206 mWv 1.11.2024
+
 Zuletzt geändert durch
 :   Art. 2 Abs. 3 G v. 20.7.2017 I 2787
 

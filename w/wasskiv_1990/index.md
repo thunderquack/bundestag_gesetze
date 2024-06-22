@@ -15,10 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 107
 
-Stand: Zuletzt geändert Art. 36 V v. 2.6.2016 I 1257
-Änderung durch
-:   Art. 5 V v. 18.3.2024 I Nr. 100 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Stand: Zuletzt geändert Art. 5 V v. 18.3.2024 I Nr. 100
 
 ## Eingangsformel
 

@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 2 G v. 11.6.2024 I Nr. 185 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 11 G v. 19.6.2024 I Nr. 206 ist berücksichtigt
+
 
 ## Erster Teil - Allgemeine Vorschriften
 
