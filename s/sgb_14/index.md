@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2019, 2652
 
 Zuletzt geändert durch
-:   Art. 11 G v. 22.12.2023 I Nr. 408
-
-Änderung durch
-:   Art. 1 V v. 17.6.2024 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 17.6.2024 I Nr. 195
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
