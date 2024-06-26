@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 1890
 
-Geändert durch
-:   Art. 4 V v. 27.1.2014 I 90
-
-Änderung durch
-:   Art. 1 V v. 11.6.2024 I Nr. 186 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 11.6.2024 I Nr. 186
 
 [^f781321_01_BJNR189000013]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 

@@ -19,12 +19,8 @@ Neugefasst durch
 :   Bek. v. 14.4.2013 I 778, 2014 I 46;
 
 Zuletzt geändert durch
-:   Art. 20 G v. 22.2.2023 I Nr. 51
+:   Art. 6 G v. 19.6.2024 I Nr. 206
 
-Änderung durch
-:   Art. 6 G v. 19.6.2024 I Nr. 206 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Stand: Bek. v. 15.8.2023 I Nr. 216 ist berücksichtigt
 
 ## Erster Abschnitt - Aufgaben und Stellung des Rechtspflegers
 

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2586
 
 Zuletzt geändert durch
-:   Art. 3 G v. 20.12.2023 I Nr. 391
-
-Änderung durch
-:   Art. 9 G v. 19.6.2024 I Nr. 206 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 19.6.2024 I Nr. 206
 
 
 ## Kapitel 1 - Vorschriften für Gerichte und Notare

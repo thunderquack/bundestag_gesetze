@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2024, Nr. 109, 28
 
+Geändert durch
+:   Art. 2 G v. 20.6.2024 I Nr. 207
+
 
 ## Kapitel 1 - Allgemeine Vorschriften
 
@@ -521,7 +524,7 @@ Die zuständigen Behörden der Länder wirken bei der Erstellung des Jahresberic
 
 
 
-4.  Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken besitzt, ohne zugleich im Besitz einer Erlaubnis nach § 4 für den Erwerb oder ohne nach § 5 oder § 22 von der Erlaubnispflicht ausgenommen zu sein,
+4.  Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken besitzt, ohne zugleich im Besitz einer Erlaubnis nach § 4 für den Erwerb oder ohne nach § 5 oder § 22 von der Erlaubnispflicht ausgenommen zu sein, oder
 
 
 5.  entgegen § 13 Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken durchführt.
@@ -529,7 +532,7 @@ Die zuständigen Behörden der Länder wirken bei der Erstellung des Jahresberic
 
 
 
-(2) Absatz 1 Nummer 3 Buchstabe a und h und Nummer 4 findet keine Anwendung in den Fällen, in denen der Täter
+(2) Absatz 1 Nummer 3 Buchstabe a und g und Nummer 4 findet keine Anwendung in den Fällen, in denen der Täter
 
 1.  nicht mehr als die folgenden Mengen an Cannabis zu medizinischen Zwecken oder an Cannabis zu medizinisch-wissenschaftlichen Zwecken, jeweils bei Blüten, blütennahen Blättern oder sonstigem Pflanzenmaterial bezogen auf das Gewicht nach dem Trocknen, besitzt:
 

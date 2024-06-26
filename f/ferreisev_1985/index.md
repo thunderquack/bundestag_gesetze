@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1985, 774
 
 Zuletzt geändert durch
-:   Art. 1 V v. 28.6.2023 I Nr. 173
+:   Art. 1 V v. 19.6.2024 I Nr. 208
 
 
 ## Eingangsformel
@@ -123,47 +123,54 @@ Auf Grund des § 6 Abs. 1 Nr. 3 des Straßenverkehrsgesetzes in der im Bundesges
 
 *    *   13
 
+    *   A 67
+
+    *   von Darmstädter Kreuz bis Viernheimer Dreieck
+
+
+*    *   14
+
     *   A 81
 
     *   von der Anschlussstelle Stuttgart-Zuffenhausen bis Anschlussstelle Gärtringen
 
 
-*    *   14
+*    *   15
 
     *   A 92
 
     *   von Autobahndreieck München-Feldmoching bis Anschlussstelle Oberschleißheim und von Autobahnkreuz Neufahrn bis Anschlussstelle Erding
 
 
-*    *   15
+*    *   16
 
     *   A 93
 
     *   von Autobahndreieck Inntal bis Anschlussstelle Reischenhart
 
 
-*    *   16
+*    *   17
 
     *   A 99
 
     *   von Autobahndreieck München Süd-West über Autobahnkreuz München-West, Autobahndreieck München-Allach, Autobahndreieck München-Feldmoching, Autobahnkreuz München-Nord, Autobahnkreuz München-Ost, Autobahnkreuz München-Süd sowie Autobahndreieck München/Eschenried
 
 
-*    *   17
+*    *   18
 
     *   A 831
 
     *   von Anschlussstelle Stuttgart-Vaihingen bis Autobahnkreuz Stuttgart
 
 
-*    *   18
+*    *   19
 
     *   A 980
 
     *   von Autobahnkreuz Allgäu bis Anschlussstelle Waltenhofen
 
 
-*    *   19
+*    *   20
 
     *   A 995
 
