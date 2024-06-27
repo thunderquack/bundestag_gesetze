@@ -19,7 +19,7 @@ Geändert durch
 :   Art. 1 V v. 18.3.2013 I 585
 
 Änderung durch
-:   Art. 1 V v. 21.6.2024 I Nr. 211 v. 21.6.2024 noch nicht berücksichtigt
+:   Art. 1 V v. 21.6.2024 I Nr. 211 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel

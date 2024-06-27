@@ -298,7 +298,7 @@ Als zusätzliches Auswahldatum darf unter den Voraussetzungen des § 38 Absatz 1
 
 *    *   8.
 
-    *   derzeitige Staatsangehörigkeiten einschließlich der nach § 3 Absatz 2 Nummer 5 des Bundesmeldegesetzes gespeicherten Daten
+    *   derzeitige Staatsangehörigkeiten
 
     *   1001 bis 1004,
 
@@ -709,9 +709,9 @@ Zusätzlich zu den Daten nach Satz 2 sind in der Trefferliste die folgenden Hinw
 
 *    *   8.
 
-    *   derzeitige Staatsangehörigkeiten einschließlich der nach § 3 Absatz 2 Nummer 5 des Bundesmeldegesetzes gespeicherten Daten
+    *   derzeitige Staatsangehörigkeiten
 
-    *   1001, 2401,
+    *   1001,
 
 
 *    *   9.

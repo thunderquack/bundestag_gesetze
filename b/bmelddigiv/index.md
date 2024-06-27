@@ -785,10 +785,9 @@ Die Verwaltungsportale können zum Zweck der Weiterleitung der Meldedaten in ein
 
 *    *   23.
 
-    *   die Tatsache, dass die deutsche Staatsangehörigkeit nach § 4 Absatz 3 oder § 40b des Staatsangehörigkeitsgesetzes erworben wurde und nach § 29 des Staatsangehörigkeitsgesetzes ein Verlust der deutschen Staatsangehörigkeit eintreten kann
+    *   (weggefallen)
 
-    *   2401,
-
+    *
 
 *    *   24.
 

@@ -27,11 +27,11 @@ Auf Grund des § 56 Absatz 1 Nummer 2 und 3 und Absatz 2 des Bundesmeldegesetzes
 
 ## § 1 Allgemeines
 
-(1) Diese Verordnung regelt die Durchführung von regelmäßigen Datenübermittlungen der Meldebehörden an das Bundesamt für Personalmanagement der Bundeswehr, an die Datenstelle der Rentenversicherung, an das Bundesamt für Justiz, an das Kraftfahrt-Bundesamt, an das Bundeszentralamt für Steuern, an das Bundesverwaltungsamt und an das Ausländerzentralregister.
+(1) Diese Verordnung regelt die Durchführung von regelmäßigen Datenübermittlungen der Meldebehörden an das Bundesamt für Personalmanagement der Bundeswehr, an die Datenstelle der Rentenversicherung, an das Bundesamt für Justiz, an das Kraftfahrt-Bundesamt, an das Bundeszentralamt für Steuern und an das Ausländerzentralregister.
 
 (2) Meldebehörde im Sinne dieser Verordnung ist bei mehreren Wohnungen der betroffenen Person die Meldebehörde der Hauptwohnung.
 
-(3) Die zu übermittelnden Daten sind in den §§ 4 bis 10 unter Angabe der Blatt-Nummern des Datensatzes für das Meldewesen – Einheitlicher Bundes-/Länderteil – (DSMeld) in der jeweils gültigen Fassung bezeichnet.
+(3) Die zu übermittelnden Daten sind in den §§ 4 bis 11 unter Angabe der Blatt-Nummern des Datensatzes für das Meldewesen – Einheitlicher Bundes-/Länderteil – (DSMeld) in der jeweils gültigen Fassung bezeichnet.
 
 
 ## § 2 Verfahren der Datenübermittlung
@@ -571,176 +571,7 @@ Diese Mitteilungspflicht gilt entsprechend bei der erstmaligen Erfassung eines E
 Absatz 1 Satz 2 gilt entsprechend.
 
 
-## § 10 Datenübermittlung an das Bundesverwaltungsamt
-
-(1) Die Meldebehörden übermitteln auf Grund des § 34 Absatz 2 Satz 1 des Staatsangehörigkeitsgesetzes für die Durchführung des Optionsverfahrens in Fällen des Erwerbs der deutschen Staatsangehörigkeit nach § 4 Absatz 3 oder § 40b des Staatsangehörigkeitsgesetzes, in denen nach § 29 des Staatsangehörigkeitsgesetzes ein Verlust der deutschen Staatsangehörigkeit eintreten kann, dem Bundesverwaltungsamt bis zum zehnten Tag des Kalendermonats, der dem Monat der Vollendung des 21. Lebensjahres einer in das Ausland verzogenen Person vorausgeht, folgende Daten dieser Person (BVA-Optionsmitteilung Wegzug):
-
-*    *
-    *
-    *   Blattnummer des
-        DSMeld (Datenblatt)
-
-
-*    *   1.
-
-    *   Familienname
-
-    *   0101 bis 0106,
-
-
-*    *   2.
-
-    *   frühere Namen
-
-    *   0201 bis 0204,
-
-
-*    *   3.
-
-    *   Vornamen
-
-    *   0301, 0302,
-
-
-*    *   4.
-
-    *   Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den Staat
-
-    *   0601 bis 0605,
-
-
-*    *   5.
-
-    *   Geschlecht
-
-    *   0701,
-
-
-*    *   6.
-
-    *   derzeitige und frühere Anschriften und soweit bekannt, die neue Anschrift im Ausland
-
-    *   1201 bis 1213a, 1232, 1233,
-
-
-*    *   7.
-
-    *   Einzugsdatum, Auszugsdatum, Datum des letzten Zuzugs aus dem Ausland, Datum des letzten Wegzugs in das Ausland
-
-    *   1301, 1305, 1306, 1314,
-
-
-*    *   8.
-
-    *   derzeitige Staatsangehörigkeiten
-
-    *   1001,
-
-
-*    *   9.
-
-    *   die Tatsache, dass nach § 29 des Staatsangehörigkeitsgesetzes ein Verlust der deutschen Staatsangehörigkeit eintreten kann
-
-    *   2401,
-
-
-*    *   10.
-
-    *   Auskunftssperren nach § 51 des Bundesmeldegesetzes
-
-    *   1801.
-
-
-
-
-(2) Die Meldebehörden übermitteln auf Grund des § 34 Absatz 2 Satz 2 des Staatsangehörigkeitsgesetzes für die Durchführung des Optionsverfahrens in Fällen des Erwerbs der deutschen Staatsangehörigkeit nach § 4 Absatz 3 oder § 40b des Staatsangehörigkeitsgesetzes, in denen nach § 29 des Staatsangehörigkeitsgesetzes ein Verlust der deutschen Staatsangehörigkeit eintreten kann, dem Bundesverwaltungsamt bei einer aus dem Ausland zuziehenden Person, die das 21. Lebensjahr vollendet hat, nach Abschluss des Rückmeldeverfahrens unverzüglich folgende Daten dieser Person (BVA-Optionsmitteilung Wiederzuzug):
-
-*    *
-    *
-    *   Blattnummer des
-        DSMeld (Datenblatt)
-
-
-*    *   1.
-
-    *   Familienname
-
-    *   0101 bis 0106,
-
-
-*    *   2.
-
-    *   frühere Namen
-
-    *   0201 bis 0204,
-
-
-*    *   3.
-
-    *   Vornamen
-
-    *   0301, 0302,
-
-
-*    *   4.
-
-    *   Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den Staat
-
-    *   0601 bis 0605,
-
-
-*    *   5.
-
-    *   Geschlecht
-
-    *   0701,
-
-
-*    *   6.
-
-    *   derzeitige und frühere Anschriften und bei Zuzug aus dem Ausland auch die letzte frühere Anschrift im Inland
-
-    *   1201 bis 1213a,
-
-
-*    *   7.
-
-    *   bei Zuzug aus dem Ausland (Staat)
-
-    *   1223,
-
-
-*    *   8.
-
-    *   Einzugsdatum, Auszugsdatum, Datum des letzten Zuzugs aus dem Ausland, Datum des letzten Wegzugs in das Ausland
-
-    *   1301, 1305, 1306, 1314,
-
-
-*    *   9.
-
-    *   derzeitige Staatsangehörigkeiten
-
-    *   1001,
-
-
-*    *   10.
-
-    *   die Tatsache, dass nach § 29 des Staatsangehörigkeitsgesetzes ein Verlust der deutschen Staatsangehörigkeit eintreten kann
-
-    *   2401,
-
-
-*    *   11.
-
-    *   Auskunftssperren nach § 51 des Bundesmeldegesetzes
-
-    *   1801.
-
-
-
-
-(3) (weggefallen)
+## § 10 (weggefallen)
 
 
 ## § 11 Datenübermittlung an das Ausländerzentralregister

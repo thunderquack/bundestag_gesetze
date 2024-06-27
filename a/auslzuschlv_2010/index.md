@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1177 (1244)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 20.6.2023 I Nr. 162
+:   Art. 1 V v. 20.6.2024 I Nr. 209
 
 
 ## Eingangsformel
@@ -2062,7 +2062,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
 ## Anlage 2 (zu § 1 Absatz 2 Satz 3)
 
-(Fundstelle: BGBl. 2023 I Nr. 162, S. 8 – 9)
+(Fundstelle: BGBl. 2024 I Nr. 209, S. 3 – 5)
 
 
 *    *
@@ -2174,6 +2174,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
 *    *   12
 
+    *
     *   Saragossa
 
     *   3
@@ -2339,7 +2340,6 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
 *    *   35
 
-    *
     *   Shawbury/Shrewsbury
 
     *   6
@@ -2453,115 +2453,122 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
 *    *   50
 
+    *   El Paso
+
+    *   8
+
+
+*    *   51
+
     *   Fort Huachuca (Arizona)
 
     *   10
 
 
-*    *   51
-
-    *   Fort Leavenworth (Kansas)
-
-    *   9
-
-
 *    *   52
 
-    *   Fort Leonard Wood (Missouri)
+    *
+    *   Fort Leavenworth (Kansas)
 
     *   9
 
 
 *    *   53
 
-    *   Fort Sill (Oklahoma)
+    *   Fort Leonard Wood (Missouri)
 
     *   9
 
 
 *    *   54
 
-    *   Goodyear/Phoenix (Arizona)
+    *   Fort Sill (Oklahoma)
 
     *   9
 
 
 *    *   55
 
+    *   Goodyear/Phoenix (Arizona)
+
+    *   9
+
+
+*    *   56
+
     *   Hampton Roads (Fort Eustice, Fort Lee), Virginia Beach (Dam Neck), Suffolk, Norfolk, Langley AFB/Newport News (Virginia)
 
     *   6
 
 
-*    *   56
+*    *   57
 
     *   Honolulu (Hawaii)
 
     *   10
 
 
-*    *   57
+*    *   58
 
-    *   Jacksonville/Maryport (Florida)
+    *   Großraum Jacksonville/Mayport/Starke (Florida)
 
     *   9
 
 
-*    *   58
+*    *   59
 
     *   Kirtland AFB (New Mexico)
 
     *   8
 
 
-*    *   59
+*    *   60
 
     *   Monterey (Kalifornien)
 
     *   8
 
 
-*    *   60
+*    *   61
 
     *   Panama City/Tyndall AFB (Florida)
 
     *   9
 
 
-*    *   61
+*    *   62
 
     *   Pensacola/Eglin AFB (Florida)
 
     *   9
 
 
-*    *   62
+*    *   63
 
     *   Reston/Dulles AFB (Virginia)
 
     *   8
 
 
-*    *   63
+*    *   64
 
     *   Sheppard AFB/Wichita Falls (Texas)
 
     *   9
 
 
-*    *   64
+*    *   65
 
     *   Tucson (Arizona)
 
     *   9
 
 
-*    *   65
+*    *   66
 
     *   Yuma (Arizona)
 
     *   10
-
 
 
 
