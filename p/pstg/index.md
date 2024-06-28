@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 4 G v. 19.6.2024 I Nr. 206 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 4 G v. 24.6.2024 I Nr. 212 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Kapitel 1 - Allgemeine Bestimmungen
 

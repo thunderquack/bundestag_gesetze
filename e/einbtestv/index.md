@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1649
 
-Geändert durch
-:   Art. 1 V v. 18.3.2013 I 585
-
-Änderung durch
-:   Art. 1 V v. 21.6.2024 I Nr. 211 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 21.6.2024 I Nr. 211
 
 
 ## Eingangsformel
@@ -8765,7 +8762,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 
-2.  Für wie viele Jahre wird der Landtag in Brandenburg gewählt?
+3.  Für wie viele Jahre wird der Landtag in Brandenburg gewählt?
 
     *   3
 

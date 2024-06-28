@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 V v. 12.12.2018 I 2446
 
+Änderung durch
+:   Art. 5 V v. 24.6.2024 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -333,7 +336,7 @@ Auf die Wahrnehmung der Geschäfte der Topographiestelle und der Topographieabte
 11. Bearbeitung von international registrierten Marken, deren Schutz auf das Gebiet der Bundesrepublik Deutschland erstreckt worden ist;
 
 
-12. Bearbeitung von Anträgen auf Eintragung einer geographischen Angabe oder Ursprungsbezeichnung und von Einsprüchen nach der Verordnung (EG) Nr. 510/2006 des Rates vom 20. März 2006 zum Schutz von geografischen Angaben und Ursprungsbezeichnungen für Agrarerzeugnisse und Lebensmittel (ABl. EU Nr. L 93 S. 12), mit Ausnahme der in diesen Verfahren zu treffenden Entscheidungen, jedoch einschließlich der Feststellung, daß der Einspruch wegen fehlender Zahlung der Einspruchsgebühr als nicht erhoben gilt, sowie der Weiterleitung von Anträgen und Einsprüchen an das Bundesministerium der Justiz und für Verbraucherschutz;
+12. Bearbeitung von Anträgen auf Eintragung einer geographischen Angabe oder Ursprungsbezeichnung und von Einsprüchen nach der Verordnung (EU) 2024/1143 des Europäischen Parlaments und des Rates vom 11. April 2024 über geografische Angaben für Wein, Spirituosen und landwirtschaftliche Erzeugnisse und über garantiert traditionelle Spezialitäten und fakultative Qualitätsangaben für landwirtschaftliche Erzeugnisse sowie zur Änderung der Verordnungen (EU) Nr. 1308/2013, (EU) 2019/787 und (EU) 2019/1753 und zur Aufhebung der Verordnung (EU) Nr. 1151/2012 (ABl. L, 2024/1143, 23.4.2024) in der jeweils geltenden Fassung, mit Ausnahme der in diesen Verfahren zu treffenden Entscheidungen, jedoch einschließlich der Feststellung, daß der Einspruch wegen fehlender Zahlung der Einspruchsgebühr als nicht erhoben gilt, sowie der Weiterleitung von Anträgen und Einsprüchen an das Bundesministerium der Justiz und für Verbraucherschutz;
 
 
 13. Bearbeitung von Verfahren der Akteneinsicht;
@@ -420,9 +423,9 @@ Auf die Wahrnehmung der Geschäfte der Topographiestelle und der Topographieabte
 
 
 
-## § 8
+## § 8 Übergangsregelung
 
--
+Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU) 2024/1143 enthaltenen Übergangsbestimmungen Vorschriften der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) in der jeweils in Bezug genommenen Fassung weiterhin Anwendung finden, ist § 5 Absatz 1 Nummer 12 in seiner bis zum 27. Juni 2024 geltenden Fassung weiter anzuwenden.
 
 
 ## § 9 Inkrafttreten

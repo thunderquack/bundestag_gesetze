@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 1 G v. 11.6.2024 I Nr. 185 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 1 G v. 24.6.2024 I Nr. 212 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
 1.  Richtlinie 76/207/EWG des Rates vom 9. Februar 1976 zur Verwirklichung des Grundsatzes der Gleichbehandlung von Männern und Frauen hinsichtlich des Zugangs zur Beschäftigung, zur Berufsbildung und zum beruflichen Aufstieg sowie in Bezug auf die Arbeitsbedingungen (ABl. EG Nr. L 39 S. 40),
