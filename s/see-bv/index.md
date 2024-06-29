@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 3 V v. 9.4.2024 I Nr. 126 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 3 V v. 25.6.2024 I Nr. 217 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F785283_00_BJNR046000014]:     Die Verordnung dient auch der Umsetzung der                                         1.                                            Richtlinie 2012/35/EU des Europäischen Parlaments und des Rates vom 21. November 2012 zur Änderung der Richtlinie 2008/106/EG über Mindestanforderungen für die Ausbildung von Seeleuten (ABl. L 343 vom 14.12.2012, S. 78),
 
 

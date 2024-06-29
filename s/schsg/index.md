@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 1 V v. 9.4.2024 I Nr. 126 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 2 V v. 25.6.2024 I Nr. 217 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Anwendungsbereich und Begriffsbestimmungen
 

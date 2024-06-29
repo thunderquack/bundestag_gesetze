@@ -19,13 +19,13 @@ Zuletzt geändert durch
 :   Art. 2 V v. 1.6.2022 I 867
 
 Mittelbare änderung durch
-:   Art. 1 V v. 24.6.2024 I Nr. 216 noch nicht berücksichtigt
+:   Art. 1 V v. 24.6.2024 I Nr. 216 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
-:   Art. 2 V v. 24.6.2024 I Nr. 216 noch nicht berücksichtigt
+:   Art. 2 V v. 24.6.2024 I Nr. 216 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 3 V v. 24.6.2024 I Nr. 216 mWv 1.7.2024 noch nicht berücksichtigt
+:   Art. 3 V v. 24.6.2024 I Nr. 216 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Durch diese Verordnung sind die Verpflichtungen aus der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 241 vom 17.9.2015, S. 1) beachtet worden.
 
@@ -67,6 +67,14 @@ Pflanzenschutzmittel, die aus einem in Anlage 2 aufgeführten Stoff bestehen ode
 
 
 nicht angewandt werden dürfen.
+
+
+## § 3a (weggefallen)
+
+
+
+## § 3b (weggefallen)
+
 
 
 ## § 4 Verbot der Anwendung in Gebieten mit Bedeutung für den Naturschutz
@@ -1005,5 +1013,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
+
+
+
+## Anlage 4 (weggefallen)
 
 
