@@ -1076,7 +1076,7 @@ I.6 Zu Kapitel VI der Anlage zu SOLAS (Beförderung von Ladung):
 
 I.7 Zu Kapitel VII der Anlage zu SOLAS (Beförderung gefährlicher Güter):
 
-[^bjnr286010998bjne001635308_01_BJNR286010998BJNE001663123]
+[^bjnr286010998bjne001635308_01_BJNR286010998BJNE001664119]
     (soweit der Anwendungsbereich dieses Gesetzes nach seinem § 1 Absatz 3 Nummer 3 in Verbindung mit § 9 Absatz 1 Satz 1 Nummer 5 Seeaufgabengesetz gegeben ist)
 
     Zu Regel 8:
@@ -1673,7 +1673,7 @@ II.0.7 Änderungen vom Dezember 2003 (MEPC.111(50))
     (BGBl. 2005 II S. 314)
 
 
-[^bjnr286010998bjne001638308_II.0.8_BJNR286010998BJNE001663123]
+[^bjnr286010998bjne001638308_II.0.8_BJNR286010998BJNE001664119]
     II.0.8
 *   Änderung vom April 2004 (MEPC.115(51))
 
@@ -2462,7 +2462,7 @@ IV.1 Empfehlungen zur Vermessung oben offener Containerschiffe
 
 
 
-**VI.**[^bjnr286010998bjne001635308_00_BJNR286010998BJNE001663123]
+**VI.**[^bjnr286010998bjne001635308_00_BJNR286010998BJNE001664119]
  Regel I/2 Absatz 11, I/4 und I/14 sowie - soweit es sich um die Verantwortlichkeiten des Schiffseigentümers und des Schiffsführers nach den §§ 7 bis 9 dieses Gesetzes handelt - die Kapitel II bis VIII
     **in Verbindung mit Regel I/1 der Anlage zum Internationalen Übereinkommen von 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (STCW-Übereinkommen)**
 
@@ -2639,7 +2639,7 @@ IX.1 Zur Anlage:
 
 
 
-    2.[^bjnr26010998bjne001635308_03_BJNR286010998BJNE001663123]
+    2.[^bjnr26010998bjne001635308_03_BJNR286010998BJNE001664119]
   den in Abschnitt D Nr. 1 bis 4, 5, 6 bis 7.3, 8 bis 8.5, 9, 10 bis 10.4, 11 bis 11.2, 12 bis 12.2
         , 12.4, 13 bis 13.1, 14.1 und 15 bis 19 genannten Richtlinien.
 
@@ -4241,7 +4241,7 @@ VI.2 Zur Anlage:
 
 
 
-**D.**[^bjnr286010998bjne001635308_04_BJNR286010998BJNE001663123]
+**D.**[^bjnr286010998bjne001635308_04_BJNR286010998BJNE001664119]
  Rechtsakte der Europäischen Gemeinschaften und der Europäischen Union
     **:**
 
@@ -4296,7 +4296,7 @@ VI.2 Zur Anlage:
         (ABl. L 257 vom 28.8.2014, S. 146; L 146 vom 11.6.2018, S. 8), geändert durch die delegierte Richtlinie 2021/1206/EU vom 30.4.2021 (ABl. L 261 vom 22.7.2021, S. 45),
 
 
-    11.[^F805382_01_BJNR286010998BJNE001663123]
+    11.[^F805382_01_BJNR286010998BJNE001664119]
  Artikel 3, 5 bis 7 und 11 in Verbindung mit den Anhängen I bis V sowie mit den Artikeln 1 und 2 der Richtlinie 97/70/EG des Rates vom 11. Dezember 1997 über eine harmonisierte Sicherheitsregelung für Fischereifahrzeuge von 24 Meter Länge und mehr (ABl. L 34 vom 9.2.1998, S. 1)
         , zuletzt geändert durch Artikel 1 der Verordnung (EG) Nr. 219/2009 (ABl. L 87 vom 31.3.2009, S. 109)
 
@@ -4326,14 +4326,7 @@ VI.2 Zur Anlage:
     18. Artikel 5 Absatz 1 und 2 sowie Artikel 7 in Verbindung mit Artikel 1 und 2 sowie dem Anhang der Richtlinie 2010/65/EU des Europäischen Parlaments und des Rates vom 20. Oktober 2010 über Meldeformalitäten für Schiffe beim Einlaufen in und/oder Auslaufen aus Häfen der Mitgliedstaaten und zur Aufhebung der Richtlinie 2002/6/EG (ABl. L 283 vom 29.10.2010, S. 1), zuletzt geändert durch Artikel 21 der Richtlinie (EU) 2019/883 (ABl. L 151 vom 7.6.2019, S. 116)
 
 
-    19. (weggefallen)
-
-
-    20. Artikel 4 bis 10 der Richtlinie 2003/25/EG des Europäischen Parlaments und des Rates vom 14. April 2003 über besondere Stabilitätsanforderungen für Ro-Ro-Fahrgastschiffe (ABl. L 123 vom 17.5.2003, S. 22), zuletzt geändert durch Artikel 1 und 2 in Verbindung mit Nummer 9.10 des Anhangs der Verordnung (EG) Nr. 1137/2008 (ABl. L 311 vom 21.11.2008, S. 1)
-
-
-    21. Artikel 5, 6 Absatz 1 bis 6 sowie 8 und 9 Buchstabe b, Artikel 7 Absatz 1 und 2, Artikel 8 Absatz 2 und 4 der Richtlinie (EU)
-        2016/802                          des Europäischen Parlaments und des Rates vom 11. Mai 2016 über eine Verringerung des Schwefelgehalts bestimmter flüssiger Kraft- oder Brennstoffe (ABl. L 132 vom 21.5.2016, S. 58)
+    19. Artikel 5, 6 Absatz 1 bis 6 sowie 8 und 9 Buchstabe b, Artikel 7 Absatz 1 und 2, Artikel 8 Absatz 2 und 4 der Richtlinie (EU) 2016/802 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über eine Verringerung des Schwefelgehalts bestimmter flüssiger Kraft- oder Brennstoffe (ABl. L 132 vom 21.5.2016, S. 58)
 
 
 
@@ -4950,9 +4943,9 @@ VI.2 Zur Anlage:
 
 
     Vgl. § 1 der Gefahrgutverordnung See in der Fassung der Bekanntmachung vom 9. Februar 2016 (BGBl. I S. 182), in der jeweiligen Fassung
-[^bjnr286010998bjne001635308_01_BJNR286010998BJNE001663123]:     Artikel 6 Nr. 1 der Verordnung vom 28. Juni 2006 (BGBl. I S. 1417).
-[^bjnr286010998bjne001638308_II.0.8_BJNR286010998BJNE001663123]:     Eine deutsche Übersetzung der in Kapitel IV der Anlage zum STCW-Übereinkommen genannten Vorschriften der Vollzugsverordnung für den Funkdienst (Radio Regulations) der Internationalen Fernmeldeunion nach dem Stand vom 1. September 2001, soweit sie den mobilen Seefunkdienst und den mobilen Seefunkdienst über Satelliten betreffen, kann beim Bundesministerium für Verkehr und digitale Infrastruktur, Robert-Schuman-Platz 1, 53175 Bonn, bezogen werden.
-[^bjnr286010998bjne001635308_00_BJNR286010998BJNE001663123]:     Die in Abschnitt D Nr. 12.1 genannte Richtlinie gilt für Norwegen eingeschränkt, vgl. ABl. EU 2004 Nr. L 88 S. 55.
-[^bjnr26010998bjne001635308_03_BJNR286010998BJNE001663123]:     Das Bundesministerium für Verkehr-, Bau- und Wohnungswesen hat den Wortlaut der in diesem Abschnitt aufgeführten Regelungen, soweit sie vor dem 1. Januar 2001 in Kraft getreten sind, im Verkehrsblatt 2001 S. 313, Anlagenband B 8126 zusammenfassend veröffentlicht.
-[^bjnr286010998bjne001635308_04_BJNR286010998BJNE001663123]:     Artikel 3 der Richtlinie verweist zusätzlich auf das Protokoll vom 2. April 1993 zu dem Internationalen Übereinkommen von Torremolinos über die Sicherheit von Fischereifahrzeugen von 1997 („Torremolinos-Protokoll“) (VkBl. 1999 S. 142, Anlagenband B 8319).
-[^F805382_01_BJNR286010998BJNE001663123]: 
+[^bjnr286010998bjne001635308_01_BJNR286010998BJNE001664119]:     Artikel 6 Nr. 1 der Verordnung vom 28. Juni 2006 (BGBl. I S. 1417).
+[^bjnr286010998bjne001638308_II.0.8_BJNR286010998BJNE001664119]:     Eine deutsche Übersetzung der in Kapitel IV der Anlage zum STCW-Übereinkommen genannten Vorschriften der Vollzugsverordnung für den Funkdienst (Radio Regulations) der Internationalen Fernmeldeunion nach dem Stand vom 1. September 2001, soweit sie den mobilen Seefunkdienst und den mobilen Seefunkdienst über Satelliten betreffen, kann beim Bundesministerium für Verkehr und digitale Infrastruktur, Robert-Schuman-Platz 1, 53175 Bonn, bezogen werden.
+[^bjnr286010998bjne001635308_00_BJNR286010998BJNE001664119]:     Die in Abschnitt D Nr. 12.1 genannte Richtlinie gilt für Norwegen eingeschränkt, vgl. ABl. EU 2004 Nr. L 88 S. 55.
+[^bjnr26010998bjne001635308_03_BJNR286010998BJNE001664119]:     Das Bundesministerium für Verkehr-, Bau- und Wohnungswesen hat den Wortlaut der in diesem Abschnitt aufgeführten Regelungen, soweit sie vor dem 1. Januar 2001 in Kraft getreten sind, im Verkehrsblatt 2001 S. 313, Anlagenband B 8126 zusammenfassend veröffentlicht.
+[^bjnr286010998bjne001635308_04_BJNR286010998BJNE001664119]:     Artikel 3 der Richtlinie verweist zusätzlich auf das Protokoll vom 2. April 1993 zu dem Internationalen Übereinkommen von Torremolinos über die Sicherheit von Fischereifahrzeugen von 1997 („Torremolinos-Protokoll“) (VkBl. 1999 S. 142, Anlagenband B 8319).
+[^F805382_01_BJNR286010998BJNE001664119]: 

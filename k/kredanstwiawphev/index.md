@@ -88,32 +88,32 @@ Für Erträge, die unter mehrere Ermäßigungstatbestände des Satzes 4 fallen, 
 
 (1) Der Beitragssatz beträgt
 
-1.  2,46 Prozent bei Kreditinstituten, die keine CRR-Kreditinstitute im Sinne des § 1 Einlagensicherungsgesetzes sind und denen eine Erlaubnis zum Betreiben von Bankgeschäften im Sinne des § 1 Absatz 1 Satz 2 Nummer 4 oder 10 des Kreditwesengesetzes erteilt worden ist; ist das Institut befugt, sich bei der Erbringung der Bankgeschäfte oder von Finanzdienstleistungen Besitz oder Eigentum an Geldern oder Wertpapieren von Kunden zu verschaffen, beträgt der Beitragssatz 7,7 Prozent;
+1.  1,23 Prozent bei Kreditinstituten, die keine CRR-Kreditinstitute im Sinne des § 1 Einlagensicherungsgesetzes sind und denen eine Erlaubnis zum Betreiben von Bankgeschäften im Sinne des § 1 Absatz 1 Satz 2 Nummer 4 oder 10 des Kreditwesengesetzes erteilt worden ist; ist das Institut befugt, sich bei der Erbringung der Bankgeschäfte oder von Finanzdienstleistungen Besitz oder Eigentum an Geldern oder Wertpapieren von Kunden zu verschaffen, beträgt der Beitragssatz 3,85 Prozent;
 
 
-2.  3,85 Prozent bei Kreditinstituten und Finanzdienstleistungsinstituten, die nicht unter Nummer 1 fallen und keine CRR-Kreditinstitute im Sinne des § 1 Einlagensicherungsgesetzes sind, denen eine Erlaubnis zur Erbringung von Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1, 1a, 1b, 1c, 1d, 2 oder 3 des Kreditwesengesetzes erteilt worden ist und die befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen; besitzt das Institut zusätzlich die Erlaubnis zur Erbringung von Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 4 oder § 32 Absatz 1a des Kreditwesengesetzes, beträgt der Beitragssatz 7,7 Prozent;
+2.  1,92 Prozent bei Kreditinstituten und Finanzdienstleistungsinstituten, die nicht unter Nummer 1 fallen und keine CRR-Kreditinstitute im Sinne des § 1 Einlagensicherungsgesetzes sind, denen eine Erlaubnis zur Erbringung von Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1, 1a, 1b, 1c, 1d, 2 oder 3 des Kreditwesengesetzes erteilt worden ist und die befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen; besitzt das Institut zusätzlich die Erlaubnis zur Erbringung von Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 4 oder § 32 Absatz 1a des Kreditwesengesetzes, beträgt der Beitragssatz 3,85 Prozent;
 
 
-3.  1,23 Prozent bei Kreditinstituten und Finanzdienstleistungsinstituten, die nicht unter Nummer 1 fallen und keine CRR-Kreditinstitute im Sinne des § 1 Einlagensicherungsgesetzes sind, denen eine Erlaubnis zur Erbringung von Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1, 1a, 1b, 1c, 1d, 2 oder 3 des Kreditwesengesetzes erteilt worden ist und die nicht befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen;
+3.  0,61 Prozent bei Kreditinstituten und Finanzdienstleistungsinstituten, die nicht unter Nummer 1 fallen und keine CRR-Kreditinstitute im Sinne des § 1 Einlagensicherungsgesetzes sind, denen eine Erlaubnis zur Erbringung von Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1, 1a, 1b, 1c, 1d, 2 oder 3 des Kreditwesengesetzes erteilt worden ist und die nicht befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen;
 
 
-4.  2,46 Prozent bei Kreditinstituten und Finanzdienstleistungsinstituten, die nicht unter Nummer 1 fallen und keine CRR-Kreditinstitute im Sinne des § 1 Einlagensicherungsgesetzes sind und denen eine Erlaubnis zur Erbringung von Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 4 oder des § 32 Absatz 1a des Kreditwesengesetzes erteilt worden ist; ist das Institut befugt, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen und ist dem Institut keine Erlaubnis zur Erbringung von Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1, 1a, 1b, 1c, 1d, 2 oder 3 des Kreditwesengesetzes erteilt worden, beträgt der Beitragssatz 3,85 Prozent;
+4.  1,23 Prozent bei Kreditinstituten und Finanzdienstleistungsinstituten, die nicht unter Nummer 1 fallen und keine CRR-Kreditinstitute im Sinne des § 1 Einlagensicherungsgesetzes sind und denen eine Erlaubnis zur Erbringung von Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 4 oder des § 32 Absatz 1a des Kreditwesengesetzes erteilt worden ist; ist das Institut befugt, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen und ist dem Institut keine Erlaubnis zur Erbringung von Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1, 1a, 1b, 1c, 1d, 2 oder 3 des Kreditwesengesetzes erteilt worden, beträgt der Beitragssatz 1,92 Prozent;
 
 
-5.  3,85 Prozent bei Wertpapierinstituten, denen eine Erlaubnis im Sinne des § 2 Absatz 2 Nummer 3 bis 9 des Wertpapierinstitutsgesetzes erteilt worden ist und die befugt sind, sich bei der Erbringung von Wertpapierdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen; besitzt das Institut zusätzlich die Erlaubnis zur Erbringung von Wertpapierdienstleistungen im Sinne des § 2 Absatz 2 Nummer 10 oder des § 15 Absatz 3 des Wertpapierinstitutsgesetzes, beträgt der Beitragssatz 7,7 Prozent;
+5.  1,92 Prozent bei Wertpapierinstituten, denen eine Erlaubnis im Sinne des § 2 Absatz 2 Nummer 3 bis 9 des Wertpapierinstitutsgesetzes erteilt worden ist und die befugt sind, sich bei der Erbringung von Wertpapierdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen; besitzt das Institut zusätzlich die Erlaubnis zur Erbringung von Wertpapierdienstleistungen im Sinne des § 2 Absatz 2 Nummer 10 oder des § 15 Absatz 3 des Wertpapierinstitutsgesetzes, beträgt der Beitragssatz 3,85 Prozent;
 
 
-6.  1,23 Prozent bei Wertpapierinstituten, denen eine Erlaubnis im Sinne des § 2 Absatz 2 Nummer 3 bis 9 des Wertpapierinstitutsgesetzes erteilt worden ist und die nicht befugt sind, sich bei der Erbringung von Wertpapierdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen;
+6.  0,61 Prozent bei Wertpapierinstituten, denen eine Erlaubnis im Sinne des § 2 Absatz 2 Nummer 3 bis 9 des Wertpapierinstitutsgesetzes erteilt worden ist und die nicht befugt sind, sich bei der Erbringung von Wertpapierdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen;
 
 
-7.  2,46 Prozent bei Wertpapierinstituten, denen eine Erlaubnis im Sinne des § 2 Absatz 2 Nummer 10 oder des § 15 Absatz 3 des Wertpapierinstitutsgesetzes erteilt worden ist; ist das Institut befugt, sich bei der Erbringung von Wertpapierdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen und ist dem Institut keine Erlaubnis zur Erbringung von Wertpapierdienstleistungen im Sinne des § 2 Absatz 2 Nummer 3 bis 9 des Wertpapierinstitutsgesetzes erteilt worden, beträgt der Beitragssatz 3,85 Prozent;
+7.  1,23 Prozent bei Wertpapierinstituten, denen eine Erlaubnis im Sinne des § 2 Absatz 2 Nummer 10 oder des § 15 Absatz 3 des Wertpapierinstitutsgesetzes erteilt worden ist; ist das Institut befugt, sich bei der Erbringung von Wertpapierdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen und ist dem Institut keine Erlaubnis zur Erbringung von Wertpapierdienstleistungen im Sinne des § 2 Absatz 2 Nummer 3 bis 9 des Wertpapierinstitutsgesetzes erteilt worden, beträgt der Beitragssatz 1,92 Prozent;
 
 
-8.  2,46 Prozent bei Wertpapierinstituten, denen eine Erlaubnis im Sinne des § 2 Absatz 2 Nummer 1 oder 2 des
-    Wertpapierinstitutsgesetzes                    erteilt worden ist; ist das Institut befugt, sich bei der Erbringung von Wertpapierdienstleistungen Besitz oder Eigentum an Geldern oder Wertpapieren von Kunden zu verschaffen, beträgt der Beitragssatz 7,7 Prozent;
+8.  1,23 Prozent bei Wertpapierinstituten, denen eine Erlaubnis im Sinne des § 2 Absatz 2 Nummer 1 oder 2 des
+    Wertpapierinstitutsgesetzes                    erteilt worden ist; ist das Institut befugt, sich bei der Erbringung von Wertpapierdienstleistungen Besitz oder Eigentum an Geldern oder Wertpapieren von Kunden zu verschaffen, beträgt der Beitragssatz 3,85 Prozent;
 
 
-9.  1,23 Prozent bei Kapitalverwaltungsgesellschaften im Sinne des § 1 Absatz 1 Nummer 3 des Anlegerentschädigungsgesetzes, die nicht befugt sind, sich bei der Erbringung von Dienst- oder Nebendienstleistungen nach § 20 Absatz 2 Nummer 1 bis 3 oder Absatz 3 Nummer 2 bis 5 des Kapitalanlagegesetzbuchs Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen; ist die Kapitalverwaltungsgesellschaft befugt, sich bei der Erbringung von Dienst- oder Nebendienstleistungen nach § 20 Absatz 2 Nummer 1 bis 3 oder Absatz 3 Nummer 2 bis 5 des Kapitalanlagegesetzbuchs Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, beträgt der Beitragssatz 3,85 Prozent.
+9.  0,61 Prozent bei Kapitalverwaltungsgesellschaften im Sinne des § 1 Absatz 1 Nummer 3 des Anlegerentschädigungsgesetzes, die nicht befugt sind, sich bei der Erbringung von Dienst- oder Nebendienstleistungen nach § 20 Absatz 2 Nummer 1 bis 3 oder Absatz 3 Nummer 2 bis 5 des Kapitalanlagegesetzbuchs Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen; ist die Kapitalverwaltungsgesellschaft befugt, sich bei der Erbringung von Dienst- oder Nebendienstleistungen nach § 20 Absatz 2 Nummer 1 bis 3 oder Absatz 3 Nummer 2 bis 5 des Kapitalanlagegesetzbuchs Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, beträgt der Beitragssatz 1,92 Prozent.
 
 
 
@@ -137,7 +137,7 @@ Auf Antrag kann die Entschädigungseinrichtung in folgenden Fällen eine abweich
 1.  Ein Institut kann einer Gruppe mit geringeren Beitragssätzen zugewiesen werden, wenn es nachweist, dass die beitragsrelevanten Erträge aus Geschäften, die zu höheren Beitragssätzen führen würden, geringfügig waren; die Erträge waren im Regelfall geringfügig, wenn sie 10 Prozent der beitragsrelevanten Erträge nicht übersteigen.
 
 
-2.  Im Falle einer Änderung der Erlaubnis eines Instituts oder der Befugnis, sich bei der Erbringung von Wertpapierdienstleistungen, Finanzdienstleistungen oder Bankgeschäften nach § 1 Absatz 1 Satz 2 Nummer 4 oder 10 des Kreditwesengesetzes Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, können der Beitragsbemessung diejenigen Verhältnisse zugrunde gelegt werden, die einen niedrigeren Beitragssatz begründen, wenn das Institut nachweist, dass diese Verhältnisse im letzten Geschäftsjahr zeitlich überwogen.
+2.  Im Falle einer Änderung der Erlaubnis eines Instituts oder der Befugnis, sich bei der Erbringung von Wertpapiergeschäften nach § 1 Absatz 2 des Anlegerentschädigungsgesetzes Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, können der Beitragsbemessung diejenigen Verhältnisse zugrunde gelegt werden, die einen niedrigeren Beitragssatz begründen, wenn das Institut nachweist, dass diese Verhältnisse im letzten Geschäftsjahr zeitlich überwogen.
 
 
 
@@ -352,6 +352,11 @@ Die §§ 1, 2a, 2c, 4, 5 und 6 in der ab dem 8. Dezember 2016 geltenden Fassung 
 ## § 7e Übergangsvorschriften zur Achten Verordnung zur Änderung der EdW-Beitragsverordnung
 
 Die §§ 1, 2 und 2a in der ab dem 31. August 2018 geltenden Fassung sind erstmals auf das am 30. September 2018 endende Abrechnungsjahr anzuwenden.
+
+
+## § 7f Übergangsvorschriften zur Neunten Verordnung zur Änderung der EdW-Beitragsverordnung
+
+Die §§ 2a und 2b in der ab dem 1. Juli 2024 geltenden Fassung sind erstmals auf das am 30. September 2024 endende Abrechnungsjahr anzuwenden.
 
 
 ## § 8 Inkrafttreten

@@ -218,7 +218,7 @@ Gebühren für
 
     *   § 5a Absatz 2 AEG
 
-    *   nach Zeitaufwand, mindestens 360 und höchstens 2 400 Euro
+    *   nach Zeitaufwand
 
 
 *    *   1.3
@@ -412,22 +412,7 @@ Gebühren für
 
     *   Anhörungsverfahren, auch bei Plangenehmigung, bei der eine Umweltverträglichkeitsprüfung durchzuführen ist
 
-    *   § 18 Absatz 1 AEG i. V. m.:
-
-        –   § 73 VwVfG,
-
-
-        –   § 18b AEG,
-
-
-        –   §§ 17 bis 27 UVPG oder
-
-
-        –   § 73 Absatz 3 Satz 1 und 2
-            sowie Absatz 5 bis 7 VwVfG
-
-
-
+    *   § 18 Absatz 1 AEG i. V. m. § 73 VwVfG oder §§ 18 Absatz 1, 18b AEG i. V. m. §§ 17 bis 27 UVPG i. V. m. § 73 Absatz 3 Satz 1 und 2 sowie Absatz 5 bis 7 VwVfG
 
     *
         a)  42 000 Euro bei
@@ -458,10 +443,7 @@ Gebühren für
 
     *   § 18c Nummer 1 bis 3 AEG
 
-    *   nach Zeitaufwand,
-        mindestens 2 500
-        und höchstens
-        9 000 Euro
+    *   nach Zeitaufwand
 
 
 *    *   2.7
@@ -547,7 +529,7 @@ Gebühren für
 
 *    *   2.13
 
-    *   Scopingverfahren
+    *   Unterrichtung über den Untersuchungsrahmen
 
     *   § 18 Absatz 1 AEG i. V. m. § 15 Absatz 1 UVPG
 
@@ -718,10 +700,7 @@ Gebühren für
 
     *   § 32 Absatz 1 EBO
 
-    *   nach Zeitaufwand,
-        mindestens 2 000
-        und höchstens
-        300 000 Euro
+    *   nach Zeitaufwand
 
 
 *    *   4.4
@@ -739,10 +718,7 @@ Gebühren für
 
     *   Abschnitt A Buchstabe a Absatz 4 ESO 1959
 
-    *   nach Zeitaufwand,
-        mindestens 700
-        und höchstens
-        6 000 Euro
+    *   nach Zeitaufwand
 
 
 
@@ -808,7 +784,7 @@ Gebühren für
 
     *   §§ 4 und 5 Absatz 1 ESiV i. V. m. Artikel 3 Absatz 2 der Durchführungsverordnung (EU) 2018/763
 
-    *   nach Zeitaufwand, mindestens 600 und höchstens 75 000 Euro
+    *   nach Zeitaufwand
 
 
 *    *   6.2
@@ -817,7 +793,7 @@ Gebühren für
 
     *   §§ 4 und 5 Absatz 1 ESiV i. V. m. Artikel 8 der Durchführungsverordnung (EU) 2018/763
 
-    *   nach Zeitaufwand, mindestens 600 und höchstens 75 000 Euro
+    *   nach Zeitaufwand
 
 
 *    *   6.3
@@ -848,7 +824,7 @@ Gebühren für
 
     *   §§ 14 und 16 Absatz 1 und 3 ESiV
 
-    *   nach Zeitaufwand, mindestens 600 und höchstens 100 000 Euro
+    *   nach Zeitaufwand
 
 
 *    *   6.5
@@ -857,14 +833,30 @@ Gebühren für
 
     *   §§ 14 und 16 Absatz 1 ESiV i. V. m. Artikel 3 der Delegierten Verordnung (EU) 2018/761
 
-    *   mit mindestens 10 000 Streckenkilometern oder mit mindestens 10 000 Verkehrsstationen:
-        9 981 000 Euro
-        mit mindestens 2 000 und weniger als 10 000 Streckenkilometern oder mit mindestens 2 000 und weniger als 10 000 Verkehrsstationen:
-        990 480 Euro
-        mit mindestens 500 und weniger als 2 000 Streckenkilometern oder mit mindestens 500 und weniger als 2 000 Verkehrsstationen:
-        6 480 Euro
-        mit weniger als 500 Streckenkilometern oder mit weniger als 500 Verkehrsstationen:
-        3 480 Euro
+    *   mit mindestens 10 000 Streckenkilometern:
+        9 981 000 Euro
+        mit mindestens 2 000 und weniger als 10 000 Streckenkilometern:
+        990 480 Euro
+        mit mindestens 500 und weniger als 2 000 Streckenkilometern:
+        6 480 Euro
+        mit weniger als 500 Streckenkilometern:
+        3 480 Euro
+
+
+*    *   6.6
+
+    *   Jährliche Aufsicht über das Sicherheitsmanagementsystem eines Eisenbahninfrastrukturunternehmens
+
+    *   §§ 14 und 16 Absatz 1 ESiV i. V. m. Artikel 3 der Delegierten Verordnung (EU) 2018/761
+
+    *   mit mindestens 10 000 Verkehrsstationen:
+        9 981 000 Euro
+        mit mindestens 2 000 und weniger als 10 000 Verkehrsstationen:
+        990 480 Euro
+        mit mindestens 500 und weniger als 2 000 Verkehrsstationen:
+        6 480 Euro
+        mit weniger als 500 Verkehrsstationen:
+        3 480 Euro
 
 
 
@@ -1193,10 +1185,7 @@ Gebühren für
 
     *   § 21 Absatz 1 ArbSchG
 
-    *   nach Zeitaufwand,
-        mindestens 360
-        und höchstens
-        2 400 Euro
+    *   nach Zeitaufwand
 
 
 *    *   8.3
@@ -1701,12 +1690,13 @@ Gebühren für
 
 ## Anhang Anhang zum Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2021, 3195 - 3204)
+(Fundstelle: BGBl. I 2021, 3195 - 3204;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Anwendung der Gebührentafeln
 
 
-1.  Die Gebührenbemessung für die Nummern 1.5, 2.1, 2.4 und 2.7 sowie 7.7, 7.8, 7.9, 7.13, 7.14 und 7.15 richtet sich nach den Baukosten und gegebenenfalls den nach Schwierigkeitsgraden in Gebührenzonen eingeteilten Bewertungsmerkmalen.
+1.  Die Gebührenbemessung für die Nummern 1.5, 2.1, 2.4 und 2.7 sowie 7.7, 7.8, 7.9, 7.13, 7.14 und 7.15 richtet sich nach den Baukosten und gegebenenfalls den nach Schwierigkeitsgraden in Gebührenzonen eingeteilten Bewertungsmerkmalen. Satz 1 gilt entsprechend für die Nummern 2.2, 2.8 und 2.10. Wird der Plan in den Fällen der Nummern 2.7, 2.8 und 2.10 geändert, so sind die Baukosten heranzuziehen, die für den Gegenstand der Änderung anfallen.
 
 
 2.  Nicht zu den Baukosten im Sinne der Gebührenbemessung gehören die Kosten für:

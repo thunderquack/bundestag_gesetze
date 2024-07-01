@@ -193,7 +193,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
 ## Anlage 1 (zu § 1 Absatz 2 Satz 1)
 
-(Fundstelle: BGBl. 2023 I Nr. 162, S. 1 – 7)
+(Fundstelle: BGBl. 2024 I Nr. 209, S. 5 – 11)
 
 
 *    *
@@ -201,7 +201,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Dienstort
 
-    *   Zonenstufe
+    *   Dienstortstufe
 
 
 *    *
@@ -222,7 +222,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Tirana
 
-    *   11
+    *   10
 
 
 *    *   2
@@ -231,7 +231,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Brüssel
 
-    *   3
+    *   2
 
 
 *    *   3
@@ -258,7 +258,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Kopenhagen
 
-    *   4
+    *   2
 
 
 *    *   6
@@ -267,7 +267,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Tallinn
 
-    *   9
+    *   8
 
 
 *    *   7
@@ -276,7 +276,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Helsinki
 
-    *   8
+    *   6
 
 
 *    *   8
@@ -292,7 +292,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Bordeaux
 
-    *   2
+    *   3
 
 
 *    *   10
@@ -306,7 +306,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Marseille
 
-    *   2
+    *   3
 
 
 *    *   12
@@ -329,7 +329,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Thessaloniki
 
-    *   6
+    *   5
 
 
 *    *   15
@@ -338,7 +338,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Dublin
 
-    *   2
+    *   3
 
 
 *    *   16
@@ -356,14 +356,14 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Rom
 
-    *   2
+    *   1
 
 
 *    *   18
 
     *   Mailand
 
-    *   2
+    *   1
 
 
 *    *   19
@@ -381,7 +381,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Zagreb
 
-    *   6
+    *   5
 
 
 *    *   21
@@ -390,7 +390,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Riga
 
-    *   8
+    *   7
 
 
 *    *   22
@@ -399,7 +399,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Wilna
 
-    *   4
+    *   5
 
 
 *    *   23
@@ -417,7 +417,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Valletta
 
-    *   3
+    *   2
 
 
 *    *   25
@@ -444,14 +444,14 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Den Haag
 
-    *   4
+    *   2
 
 
 *    *   28
 
     *   Amsterdam
 
-    *   4
+    *   1
 
 
 *    *   29
@@ -469,7 +469,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Oslo
 
-    *   5
+    *   4
 
 
 *    *   31
@@ -478,7 +478,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Wien
 
-    *   2
+    *   1
 
 
 *    *   32
@@ -487,14 +487,14 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Warschau
 
-    *   3
+    *   4
 
 
 *    *   33
 
     *   Breslau
 
-    *   5
+    *   6
 
 
 *    *   34
@@ -533,21 +533,21 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Bukarest
 
-    *   9
+    *   7
 
 
 *    *   39
 
     *   Hermannstadt
 
-    *   12
+    *   10
 
 
 *    *   40
 
     *   Temeswar
 
-    *   11
+    *   9
 
 
 *    *   41
@@ -561,42 +561,21 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
 *    *   42
 
-    *   Jekaterinburg
-
-    *   14
-
-
-*    *   43
-
-    *   Kaliningrad
-
-    *   12
-
-
-*    *   44
-
-    *   Nowosibirsk
-
-    *   16
-
-
-*    *   45
-
     *   St. Petersburg
 
     *   12
 
 
-*    *   46
+*    *   43
 
     *   Schweden
 
     *   Stockholm
 
-    *   6
+    *   5
 
 
-*    *   47
+*    *   44
 
     *   Schweiz
 
@@ -605,14 +584,14 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   4
 
 
-*    *   48
+*    *   45
 
     *   Genf
 
     *   3
 
 
-*    *   49
+*    *   46
 
     *   Serbien
 
@@ -621,7 +600,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   8
 
 
-*    *   50
+*    *   47
 
     *   Slowakische Republik
 
@@ -630,16 +609,16 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   5
 
 
-*    *   51
+*    *   48
 
     *   Slowenien
 
-    *   Laibach
+    *   Ljubljana
 
     *   4
 
 
-*    *   52
+*    *   49
 
     *   Spanien
 
@@ -648,44 +627,44 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   3
 
 
-*    *   53
+*    *   50
 
     *   Barcelona
 
-    *   2
+    *   3
 
 
-*    *   54
+*    *   51
 
     *   Las Palmas de Gran Canaria
 
     *   2
 
 
-*    *   55
+*    *   52
 
     *   Malaga
 
-    *   2
+    *   3
 
 
-*    *   56
+*    *   53
 
     *   Palma de Mallorca
 
     *   2
 
 
-*    *   57
+*    *   54
 
     *   Tschechische Republik
 
     *   Prag
 
-    *   6
+    *   5
 
 
-*    *   58
+*    *   55
 
     *   Türkei
 
@@ -694,69 +673,69 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   7
 
 
-*    *   59
+*    *   56
 
     *   Antalya
 
     *   6
 
 
-*    *   60
+*    *   57
 
     *   Istanbul
 
-    *   5
+    *   6
+
+
+*    *   58
+
+    *   Izmir
+
+    *   6
+
+
+*    *   59
+
+    *   Ukraine
+
+    *   Kyjiw
+
+    *   15
+
+
+*    *   60
+
+    *   Donezk
+
+    *   19
 
 
 *    *   61
 
-    *   Izmir
+    *   Ungarn
+
+    *   Budapest
 
     *   5
 
 
 *    *   62
 
-    *   Ukraine
-
-    *   Kiew
-
-    *   15
-
-
-*    *   63
-
-    *   Donezk
-
-    *   18
-
-
-*    *   64
-
-    *   Ungarn
-
-    *   Budapest
-
-    *   4
-
-
-*    *   65
-
     *   Vereinigtes Königreich
 
     *   London
 
-    *   4
+    *   3
 
 
-*    *   66
+*    *   63
 
     *   Edinburgh
 
     *   5
 
 
-*    *   67
+*    *   64
 
     *   Weißrussland
 
@@ -765,7 +744,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   12
 
 
-*    *   68
+*    *   65
 
     *   Zypern
 
@@ -778,16 +757,16 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
         **Afrika**
 
 
-*    *   69
+*    *   66
 
     *   Ägypten
 
     *   Kairo
 
-    *   16
+    *   14
 
 
-*    *   70
+*    *   67
 
     *   Algerien
 
@@ -796,16 +775,16 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   14
 
 
-*    *   71
+*    *   68
 
     *   Angola
 
     *   Luanda
 
-    *   20
+    *   19
 
 
-*    *   72
+*    *   69
 
     *   Äthiopien
 
@@ -814,7 +793,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   73
+*    *   70
 
     *   Benin
 
@@ -823,16 +802,16 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   17
 
 
-*    *   74
+*    *   71
 
     *   Botsuana
 
     *   Gaborone
 
-    *   16
+    *   15
 
 
-*    *   75
+*    *   72
 
     *   Burkina Faso
 
@@ -841,7 +820,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   76
+*    *   73
 
     *   Burundi
 
@@ -850,7 +829,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   77
+*    *   74
 
     *   Côte d´Ivoire
 
@@ -859,7 +838,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   78
+*    *   75
 
     *   Dschibuti
 
@@ -868,7 +847,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   79
+*    *   76
 
     *   Eritrea
 
@@ -877,7 +856,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   80
+*    *   77
 
     *   Gabun
 
@@ -886,7 +865,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   81
+*    *   78
 
     *   Gambia
 
@@ -895,7 +874,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   16
 
 
-*    *   82
+*    *   79
 
     *   Ghana
 
@@ -904,7 +883,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   17
 
 
-*    *   83
+*    *   80
 
     *   Guinea
 
@@ -913,7 +892,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   84
+*    *   81
 
     *   Kamerun
 
@@ -922,16 +901,16 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   85
+*    *   82
 
     *   Kenia
 
     *   Nairobi
 
-    *   15
+    *   14
 
 
-*    *   86
+*    *   83
 
     *   Kongo
 
@@ -940,7 +919,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   87
+*    *   84
 
     *   Kongo,
         Demokratische Republik
@@ -950,7 +929,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   88
+*    *   85
 
     *   Liberia
 
@@ -959,7 +938,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   89
+*    *   86
 
     *   Libyen
 
@@ -968,7 +947,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   90
+*    *   87
 
     *   Madagaskar
 
@@ -977,16 +956,16 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   91
+*    *   88
 
     *   Malawi
 
     *   Lilongwe
 
-    *   18
+    *   17
 
 
-*    *   92
+*    *   89
 
     *   Mali
 
@@ -995,7 +974,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   93
+*    *   90
 
     *   Marokko
 
@@ -1004,7 +983,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   10
 
 
-*    *   94
+*    *   91
 
     *   Mauretanien
 
@@ -1013,7 +992,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   95
+*    *   92
 
     *   Mosambik
 
@@ -1022,7 +1001,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   18
 
 
-*    *   96
+*    *   93
 
     *   Namibia
 
@@ -1031,7 +1010,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   12
 
 
-*    *   97
+*    *   94
 
     *   Niger
 
@@ -1040,7 +1019,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   98
+*    *   95
 
     *   Nigeria
 
@@ -1049,23 +1028,23 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   99
+*    *   96
 
     *   Lagos
 
     *   20
 
 
-*    *   100
+*    *   97
 
     *   Ruanda
 
     *   Kigali
 
-    *   18
+    *   17
 
 
-*    *   101
+*    *   98
 
     *   Sambia
 
@@ -1074,7 +1053,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   15
 
 
-*    *   102
+*    *   99
 
     *   Senegal
 
@@ -1083,7 +1062,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   18
 
 
-*    *   103
+*    *   100
 
     *   Sierra Leone
 
@@ -1092,7 +1071,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   104
+*    *   101
 
     *   Simbabwe
 
@@ -1101,7 +1080,16 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   105
+*    *   102
+
+    *   Somalia
+
+    *   Mogadischu
+
+    *   20
+
+
+*    *   103
 
     *   Sudan
 
@@ -1110,23 +1098,23 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   106
+*    *   104
 
     *   Südafrika
 
     *   Pretoria
 
-    *   9
+    *   8
 
 
-*    *   107
+*    *   105
 
     *   Kapstadt
 
-    *   10
+    *   9
 
 
-*    *   108
+*    *   106
 
     *   Südsudan
 
@@ -1135,7 +1123,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   109
+*    *   107
 
     *   Tansania
 
@@ -1144,7 +1132,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   110
+*    *   108
 
     *   Togo
 
@@ -1153,7 +1141,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   111
+*    *   109
 
     *   Tschad
 
@@ -1162,7 +1150,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   112
+*    *   110
 
     *   Tunesien
 
@@ -1171,7 +1159,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   10
 
 
-*    *   113
+*    *   111
 
     *   Uganda
 
@@ -1184,7 +1172,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
         **Amerika**
 
 
-*    *   114
+*    *   112
 
     *   Argentinien
 
@@ -1193,7 +1181,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   10
 
 
-*    *   115
+*    *   113
 
     *   Bolivien
 
@@ -1202,7 +1190,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   16
 
 
-*    *   116
+*    *   114
 
     *   Brasilien
 
@@ -1211,35 +1199,35 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   12
 
 
-*    *   117
+*    *   115
 
     *   Porto Alegre
 
     *   12
 
 
-*    *   118
+*    *   116
 
     *   Recife
+
+    *   12
+
+
+*    *   117
+
+    *   Rio de Janeiro
+
+    *   12
+
+
+*    *   118
+
+    *   São Paulo
 
     *   11
 
 
 *    *   119
-
-    *   Rio de Janeiro
-
-    *   13
-
-
-*    *   120
-
-    *   São Paulo
-
-    *   14
-
-
-*    *   121
 
     *   Chile
 
@@ -1248,43 +1236,43 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   12
 
 
-*    *   122
+*    *   120
 
     *   Costa Rica
 
     *   San José
+
+    *   12
+
+
+*    *   121
+
+    *   Dominikanische Republik
+
+    *   Santo Domingo
+
+    *   15
+
+
+*    *   122
+
+    *   Ecuador
+
+    *   Quito
 
     *   11
 
 
 *    *   123
 
-    *   Dominikanische Republik
-
-    *   Santo Domingo
-
-    *   14
-
-
-*    *   124
-
-    *   Ecuador
-
-    *   Quito
-
-    *   12
-
-
-*    *   125
-
     *   El Salvador
 
     *   San Salvador
 
-    *   18
+    *   19
 
 
-*    *   126
+*    *   124
 
     *   Guatemala
 
@@ -1293,7 +1281,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   15
 
 
-*    *   127
+*    *   125
 
     *   Haiti
 
@@ -1302,16 +1290,16 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   128
+*    *   126
 
     *   Honduras
 
     *   Tegucigalpa
 
-    *   20
+    *   19
 
 
-*    *   129
+*    *   127
 
     *   Jamaika
 
@@ -1320,7 +1308,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   19
 
 
-*    *   130
+*    *   128
 
     *   Kanada
 
@@ -1329,46 +1317,46 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   5
 
 
-*    *   131
+*    *   129
 
     *   Montreal
 
-    *   6
+    *   5
 
 
-*    *   132
+*    *   130
 
     *   Toronto
 
     *   5
 
 
-*    *   133
+*    *   131
 
     *   Vancouver
 
     *   4
 
 
-*    *   134
+*    *   132
 
     *   Kolumbien
 
     *   Bogotá
 
-    *   10
+    *   9
 
 
-*    *   135
+*    *   133
 
     *   Kuba
 
     *   Havanna
 
-    *   19
+    *   18
 
 
-*    *   136
+*    *   134
 
     *   Mexiko
 
@@ -1377,16 +1365,16 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   12
 
 
-*    *   137
+*    *   135
 
     *   Nicaragua
 
     *   Managua
 
-    *   19
+    *   18
 
 
-*    *   138
+*    *   136
 
     *   Panama
 
@@ -1395,43 +1383,43 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   12
 
 
-*    *   139
+*    *   137
 
     *   Paraguay
 
     *   Asunción
 
-    *   13
+    *   12
 
 
-*    *   140
+*    *   138
 
     *   Peru
 
     *   Lima
 
-    *   13
+    *   12
 
 
-*    *   141
+*    *   139
 
     *   Trinidad und Tobago
 
     *   Port-of-Spain
 
-    *   18
+    *   17
 
 
-*    *   142
+*    *   140
 
     *   Uruguay
 
     *   Montevideo
 
-    *   11
+    *   12
 
 
-*    *   143
+*    *   141
 
     *   Venezuela
 
@@ -1440,65 +1428,65 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   19
 
 
-*    *   144
+*    *   142
 
     *   Vereinigte Staaten
 
     *   Washington
 
-    *   7
-
-
-*    *   145
-
-    *   Atlanta
-
     *   8
 
 
-*    *   146
+*    *   143
 
-    *   Boston
+    *   Atlanta
 
     *   7
 
 
-*    *   147
+*    *   144
+
+    *   Boston
+
+    *   6
+
+
+*    *   145
 
     *   Chicago
 
     *   7
 
 
-*    *   148
+*    *   146
 
     *   Houston
 
     *   6
 
 
-*    *   149
+*    *   147
 
     *   Los Angeles
 
     *   7
 
 
-*    *   150
+*    *   148
 
     *   Miami
 
     *   6
 
 
-*    *   151
+*    *   149
 
     *   New York
 
-    *   8
+    *   7
 
 
-*    *   152
+*    *   150
 
     *   San Francisco
 
@@ -1509,7 +1497,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
         **Asien**
 
 
-*    *   153
+*    *   151
 
     *   Afghanistan
 
@@ -1518,16 +1506,16 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   154
+*    *   152
 
     *   Armenien
 
     *   Eriwan
 
-    *   13
+    *   11
 
 
-*    *   155
+*    *   153
 
     *   Aserbaidschan
 
@@ -1536,16 +1524,16 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   14
 
 
-*    *   156
+*    *   154
 
     *   Bahrain
 
     *   Manama
 
-    *   14
+    *   13
 
 
-*    *   157
+*    *   155
 
     *   Bangladesch
 
@@ -1554,16 +1542,16 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   158
+*    *   156
 
     *   Brunei
 
     *   Bandar Seri Begawan
 
-    *   14
+    *   15
 
 
-*    *   159
+*    *   157
 
     *   China
 
@@ -1572,42 +1560,42 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   13
 
 
-*    *   160
+*    *   158
 
     *   Chengdu
 
     *   15
 
 
-*    *   161
+*    *   159
 
     *   Hongkong
 
-    *   12
+    *   11
 
 
-*    *   162
+*    *   160
 
     *   Kanton
 
     *   15
 
 
-*    *   163
+*    *   161
 
     *   Shanghai
 
     *   12
 
 
-*    *   164
+*    *   162
 
     *   Shenyang
 
     *   19
 
 
-*    *   165
+*    *   163
 
     *   Georgien
 
@@ -1616,7 +1604,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   14
 
 
-*    *   166
+*    *   164
 
     *   Indien
 
@@ -1625,35 +1613,35 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   15
 
 
-*    *   167
+*    *   165
 
     *   Bangalore
 
     *   14
 
 
-*    *   168
+*    *   166
 
     *   Chennai
+
+    *   14
+
+
+*    *   167
+
+    *   Kalkutta
 
     *   15
 
 
-*    *   169
-
-    *   Kalkutta
-
-    *   16
-
-
-*    *   170
+*    *   168
 
     *   Mumbai
 
     *   14
 
 
-*    *   171
+*    *   169
 
     *   Indonesien
 
@@ -1662,7 +1650,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   14
 
 
-*    *   172
+*    *   170
 
     *   Irak
 
@@ -1671,14 +1659,14 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   173
+*    *   171
 
     *   Erbil
 
     *   20
 
 
-*    *   174
+*    *   172
 
     *   Iran
 
@@ -1687,32 +1675,32 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   175
+*    *   173
 
     *   Israel
 
     *   Tel Aviv
 
-    *   14
+    *   13
 
 
-*    *   176
+*    *   174
 
     *   Japan
 
     *   Tokyo
 
-    *   11
+    *   9
 
 
-*    *   177
+*    *   175
 
     *   Osaka-Kobe
 
-    *   12
+    *   10
 
 
-*    *   178
+*    *   176
 
     *   Jemen
 
@@ -1721,16 +1709,16 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   179
+*    *   177
 
     *   Jordanien
 
     *   Amman
 
-    *   12
+    *   13
 
 
-*    *   180
+*    *   178
 
     *   Kambodscha
 
@@ -1739,7 +1727,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   181
+*    *   179
 
     *   Kasachstan
 
@@ -1748,14 +1736,14 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   15
 
 
-*    *   182
+*    *   180
 
     *   Almaty
 
     *   14
 
 
-*    *   183
+*    *   181
 
     *   Katar
 
@@ -1764,16 +1752,16 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   13
 
 
-*    *   184
+*    *   182
 
     *   Kirgisistan
 
     *   Bischkek
 
-    *   19
+    *   18
 
 
-*    *   185
+*    *   183
 
     *   Korea, Demokratische Volksrepublik
 
@@ -1782,7 +1770,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   186
+*    *   184
 
     *   Korea, Republik
 
@@ -1791,25 +1779,25 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   9
 
 
-*    *   187
+*    *   185
 
     *   Kuwait
 
     *   Kuwait
 
-    *   13
+    *   15
 
 
-*    *   188
+*    *   186
 
     *   Laos
 
     *   Vientiane
 
-    *   17
+    *   16
 
 
-*    *   189
+*    *   187
 
     *   Libanon
 
@@ -1818,16 +1806,16 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   15
 
 
-*    *   190
+*    *   188
 
     *   Malaysia
 
     *   Kuala Lumpur
 
-    *   9
+    *   8
 
 
-*    *   191
+*    *   189
 
     *   Mongolei
 
@@ -1836,7 +1824,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   192
+*    *   190
 
     *   Myanmar
 
@@ -1845,7 +1833,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   193
+*    *   191
 
     *   Nepal
 
@@ -1854,7 +1842,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   194
+*    *   192
 
     *   Oman
 
@@ -1863,7 +1851,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   14
 
 
-*    *   195
+*    *   193
 
     *   Pakistan
 
@@ -1872,48 +1860,48 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   16
 
 
-*    *   196
+*    *   194
 
     *   Karachi
+
+    *   16
+
+
+*    *   195
+
+    *   Philippinen
+
+    *   Manila
+
+    *   12
+
+
+*    *   196
+
+    *   Saudi-Arabien
+
+    *   Riad
 
     *   17
 
 
 *    *   197
 
-    *   Philippinen
+    *   Djidda
 
-    *   Manila
-
-    *   13
+    *   17
 
 
 *    *   198
 
-    *   Saudi-Arabien
+    *   Singapur
 
-    *   Riad
+    *   Singapur
 
-    *   18
+    *   9
 
 
 *    *   199
-
-    *   Djidda
-
-    *   16
-
-
-*    *   200
-
-    *   Singapur
-
-    *   Singapur
-
-    *   8
-
-
-*    *   201
 
     *   Sri Lanka
 
@@ -1922,7 +1910,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   16
 
 
-*    *   202
+*    *   200
 
     *   Syrien
 
@@ -1931,7 +1919,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   20
 
 
-*    *   203
+*    *   201
 
     *   Tadschikistan
 
@@ -1940,7 +1928,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   19
 
 
-*    *   204
+*    *   202
 
     *   Thailand
 
@@ -1949,7 +1937,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   13
 
 
-*    *   205
+*    *   203
 
     *   Turkmenistan
 
@@ -1958,32 +1946,32 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   18
 
 
-*    *   206
+*    *   204
 
     *   Usbekistan
 
     *   Taschkent
 
-    *   18
+    *   17
 
 
-*    *   207
+*    *   205
 
     *   Vereinigte Arabische Emirate
 
     *   Abu Dhabi
 
-    *   13
-
-
-*    *   208
-
-    *   Dubai
-
     *   12
 
 
-*    *   209
+*    *   206
+
+    *   Dubai
+
+    *   11
+
+
+*    *   207
 
     *   Vietnam
 
@@ -1992,7 +1980,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   16
 
 
-*    *   210
+*    *   208
 
     *   Ho-Chi-Minh-Stadt
 
@@ -2003,32 +1991,32 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
         **Australien, Neuseeland und Ozeanien**
 
 
-*    *   211
+*    *   209
 
     *   Australien
 
     *   Canberra
 
-    *   9
-
-
-*    *   212
-
-    *   Sydney
-
     *   8
 
 
-*    *   213
+*    *   210
+
+    *   Sydney
+
+    *   7
+
+
+*    *   211
 
     *   Fidschi
 
     *   Suva
 
-    *   16
+    *   15
 
 
-*    *   214
+*    *   212
 
     *   Neuseeland
 
@@ -2041,7 +2029,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
         **Weitere Dienstorte**
 
 
-*    *   215
+*    *   213
 
     *
     *   Ramallah (Palästinensisches Autonomiegebiet)
@@ -2049,20 +2037,19 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   19
 
 
-*    *   216
+*    *   214
 
     *
     *   Taipei (Taiwan)
 
-    *   11
-
+    *   10
 
 
 
 
 ## Anlage 2 (zu § 1 Absatz 2 Satz 3)
 
-(Fundstelle: BGBl. 2024 I Nr. 209, S. 3 – 5)
+(Fundstelle: BGBl. 2024 I Nr. 209, S. 11 – 13)
 
 
 *    *
@@ -2070,7 +2057,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
     *   Dienstort
 
-    *   Zonenstufe
+    *   Dienstortstufe
 
 
 *    *
@@ -2096,35 +2083,56 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
 
 *    *   2
 
-    *   Italien
+    *   Nancy/Toul
 
-    *   Catania/Sigonella/Lentini/Motta Sant´Anastasia
-
-    *   5
+    *   4
 
 
 *    *   3
 
-    *   Ghedi
+    *   Cayenne/Französisch-Guayana
 
-    *   5
+    *   15
 
 
 *    *   4
 
-    *   Neapel/Giugliano
+    *   Italien
 
-    *   5
+    *   Catania/Sigonella/Lentini/Motta Sant´Anastasia
+
+    *   3
 
 
 *    *   5
 
-    *   Poggio Renatico/Ferrara
+    *   Ghedi
 
-    *   5
+    *   3
 
 
 *    *   6
+
+    *   Neapel/Giugliano/Lago Patria
+
+    *   4
+
+
+*    *   7
+
+    *   Poggio Renatico/Ferrara
+
+    *   3
+
+
+*    *   8
+
+    *   Turin
+
+    *   2
+
+
+*    *   9
 
     *   Litauen
 
@@ -2133,7 +2141,14 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   8
 
 
-*    *   7
+*    *   10
+
+    *   Rudninkai/Pabrade/Ukmerge/Zapalskiai
+
+    *   8
+
+
+*    *   11
 
     *   Polen
 
@@ -2142,59 +2157,14 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   5
 
 
-*    *   8
-
-    *   Spanien
-
-    *   Albacete
-
-    *   3
-
-
-*    *   9
-
-    *   Betera
-
-    *   3
-
-
-*    *   10
-
-    *   Moron
-
-    *   3
-
-
-*    *   11
-
-    *   Rota
-
-    *   3
-
-
 *    *   12
 
-    *
-    *   Saragossa
+    *   Posen
 
-    *   3
+    *   5
 
 
 *    *   13
-
-    *   Sevilla
-
-    *   3
-
-
-*    *   14
-
-    *   Valencia
-
-    *   3
-
-
-*    *   15
 
     *   Tschechische Republik
 
@@ -2203,7 +2173,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   7
 
 
-*    *   16
+*    *   14
 
     *   Vereinigtes Königreich
 
@@ -2212,161 +2182,162 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   6
 
 
-*    *   17
+*    *   15
 
     *   Bicester
 
-    *   5
+    *   4
 
 
-*    *   18
+*    *   16
 
     *   Blackwater
 
-    *   5
+    *   4
 
 
-*    *   19
+*    *   17
 
     *   Blandford
 
     *   6
 
 
-*    *   20
+*    *   18
 
     *   Brize Norton
 
     *   5
 
 
-*    *   21
+*    *   19
 
     *   Bristol
 
     *   5
 
 
-*    *   22
+*    *   20
 
     *   Camberley
 
-    *   5
+    *   4
 
 
-*    *   23
+*    *   21
 
     *   Coningsby
 
     *   6
 
 
-*    *   24
+*    *   22
 
     *   Culdrose/Helston
 
     *   5
 
 
-*    *   25
+*    *   23
 
     *   Fareham
 
     *   5
 
 
-*    *   26
+*    *   24
 
     *   High Wycombe/Waters Ash
 
-    *   5
+    *   4
 
 
-*    *   27
+*    *   25
 
+    *
     *   Honington/Cranwell RAF
 
     *   5
 
 
-*    *   28
+*    *   26
 
     *   Huntingdon
 
     *   5
 
 
-*    *   29
+*    *   27
 
     *   Innsworth
 
     *   5
 
 
-*    *   30
+*    *   28
 
     *   Lossiemouth
 
     *   6
 
 
-*    *   31
+*    *   29
 
     *   Plymouth
 
     *   5
 
 
-*    *   32
+*    *   30
 
     *   Portsmouth
 
     *   5
 
 
-*    *   33
+*    *   31
 
     *   Preston
 
     *   5
 
 
-*    *   34
+*    *   32
 
     *   Salisbury
 
     *   6
 
 
-*    *   35
+*    *   33
 
     *   Shawbury/Shrewsbury
 
     *   6
 
 
-*    *   36
+*    *   34
 
     *   Shrivenham/Swindon
 
     *   5
 
 
-*    *   37
+*    *   35
 
     *   Warminster
 
     *   6
 
 
-*    *   38
+*    *   36
 
     *   Warton
 
     *   5
 
 
-*    *   39
+*    *   37
 
     *   Yeovilton
 
@@ -2377,7 +2348,7 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
         **Amerika**
 
 
-*    *   40
+*    *   38
 
     *   Kanada
 
@@ -2386,35 +2357,35 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   10
 
 
-*    *   41
+*    *   39
 
     *   Kelowna
 
-    *   7
+    *   6
 
 
-*    *   42
+*    *   40
 
     *   Southport/Portage la Prairie
 
     *   10
 
 
-*    *   43
+*    *   41
 
     *   St. Johns
 
     *   7
 
 
-*    *   44
+*    *   42
 
     *   Winnipeg
 
     *   10
 
 
-*    *   45
+*    *   43
 
     *   Vereinigte Staaten
 
@@ -2423,148 +2394,205 @@ Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz �
     *   8
 
 
-*    *   46
+*    *   44
 
     *   Albuquerque (New Mexico)
 
     *   8
 
 
+*    *   45
+
+    *   Carlisle Barraks (Pennsylvania)
+
+    *   8
+
+
+*    *   46
+
+    *   Colorado Springs (Colorado)
+
+    *   8
+
+
 *    *   47
-
-    *   Charleston AFB (South Carolina)
-
-    *   7
-
-
-*    *   48
 
     *   Dallas (Texas)
 
-    *   9
+    *   8
 
 
-*    *   49
+*    *   48
 
     *   Dayton (Ohio)/Wright Patterson AFB
 
     *   8
 
 
-*    *   50
+*    *   49
 
-    *   El Paso
+    *   El Paso (Texas)
 
     *   8
 
 
+*    *   50
+
+    *   Fort Eisenhower (Fort Gordon alt) (Georgia)
+
+    *   9
+
+
 *    *   51
+
+    *   Fort Benning (Georgia)
+
+    *   9
+
+
+*    *   52
 
     *   Fort Huachuca (Arizona)
 
     *   10
 
 
-*    *   52
-
-    *
-    *   Fort Leavenworth (Kansas)
-
-    *   9
-
-
 *    *   53
 
-    *   Fort Leonard Wood (Missouri)
+    *   Fort Leavenworth (Kansas)
 
-    *   9
+    *   8
 
 
 *    *   54
 
-    *   Fort Sill (Oklahoma)
+    *   Fort Liberty (Fort Bragg alt)/Fayetteville (North Carolina))
 
-    *   9
+    *   8
 
 
 *    *   55
 
-    *   Goodyear/Phoenix (Arizona)
+    *   Fort Leonard Wood (Missouri)
 
-    *   9
+    *   8
 
 
 *    *   56
 
-    *   Hampton Roads (Fort Eustice, Fort Lee), Virginia Beach (Dam Neck), Suffolk, Norfolk, Langley AFB/Newport News (Virginia)
-
-    *   6
-
-
-*    *   57
-
-    *   Honolulu (Hawaii)
-
-    *   10
-
-
-*    *   58
-
-    *   Großraum Jacksonville/Mayport/Starke (Florida)
+    *   Fort Novosel (Fort Rucker alt)/Enterprise (Alabama)
 
     *   9
 
 
+*    *   57
+
+    *   Fort Sill (Oklahoma)
+
+    *   8
+
+
+*    *   58
+
+    *   Goodyear/Phoenix (Arizona)
+
+    *   8
+
+
 *    *   59
+
+    *   Hampton Roads (Fort Eustis,
+        Fort Gregg-Adams (Fort Lee alt)), Virginia Beach (Dam Neck), Suffolk, Norfolk, Langley AFB/Newport News (Virginia)
+
+    *   6
+
+
+*    *   60
+
+    *
+    *   Honolulu (Hawaii)
+
+    *   9
+
+
+*    *   61
+
+    *   Jacksonville/Mayport/Starke (Florida)
+
+    *   7
+
+
+*    *   62
 
     *   Kirtland AFB (New Mexico)
 
     *   8
 
 
-*    *   60
+*    *   63
 
-    *   Monterey (Kalifornien)
+    *   Maxwell AFB/Montgomery
 
-    *   8
+    *   9
 
 
-*    *   61
+*    *   64
+
+    *   Orlando (Florida)
+
+    *   7
+
+
+*    *   65
 
     *   Panama City/Tyndall AFB (Florida)
 
     *   9
 
 
-*    *   62
+*    *   66
 
     *   Pensacola/Eglin AFB (Florida)
 
     *   9
 
 
-*    *   63
+*    *   67
 
     *   Reston/Dulles AFB (Virginia)
+
+    *   9
+
+
+*    *   68
+
+    *   Redstone/Huntsville (Alabama)
 
     *   8
 
 
-*    *   64
+*    *   69
 
     *   Sheppard AFB/Wichita Falls (Texas)
 
-    *   9
+    *   8
 
 
-*    *   65
+*    *   70
+
+    *   Tampa (Florida)
+
+    *   7
+
+
+*    *   71
 
     *   Tucson (Arizona)
 
-    *   9
+    *   8
 
 
-*    *   66
+*    *   72
 
     *   Yuma (Arizona)
 

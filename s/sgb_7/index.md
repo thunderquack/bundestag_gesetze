@@ -4144,7 +4144,7 @@ Die Vorschriften des Ersten bis Neunten Kapitels gelten für Versicherungsfälle
 
 (4) Für Versicherte an Bord von Seeschiffen und für nach § 2 Abs. 1 Nr. 7 versicherte Küstenschiffer und Küstenfischer ist § 1152 Abs. 6 der Reichsversicherungsordnung in der am Tag vor Inkrafttreten dieses Gesetzes geltenden Fassung weiter anzuwenden mit der Maßgabe, daß an die Stelle der dort genannten Vorschriften der Reichsversicherungsordnung § 92 dieses Buches tritt.
 
-(5) Die Vorschriften über die Anpassung der vom Jahresarbeitsverdienst abhängigen Geldleistungen und über die Höhe und die Anpassung des Pflegegeldes gelten nicht für Versicherungsfälle in dem in Artikel 3 des Einigungsvertrags genannten Gebiet; für diese Versicherungsfälle sind § 1151 Abs. 1 und § 1153 der Reichsversicherungsordnung in der am Tag vor Inkrafttreten dieses Gesetzes geltenden Fassung weiter anzuwenden mit der Maßgabe, daß an die Stelle der dort genannten Vorschriften der Reichsversicherungsordnung § 44 Abs. 2 und 4 sowie § 95 dieses Buches treten. Abweichend von Satz 1 ist bei den Anpassungen ab dem 1. Juli 2001 der Vomhundertsatz maßgebend, um den sich die Renten aus der gesetzlichen Rentenversicherung in dem in Artikel 3 des Einigungsvertrages genannten Gebiet verändern. § 1151 Abs. 1 der Reichsversicherungsordnung gilt mit der Maßgabe, dass ab 1. Januar 2002 an die Stelle des Pflegegeldrahmens in Deutscher Mark der Pflegegeldrahmen in Euro tritt, indem die zuletzt am 1. Juli 2001 angepassten Beträge in Euro umgerechnet und auf volle Euro-Beträge aufgerundet werden.
+(5) (weggefallen)
 
 (6) Für die Feststellung und Zahlung von Renten bei Versicherungsfällen, die vor dem 1. Januar 1992 eingetreten sind, ist § 1154 der Reichsversicherungsordnung in der am Tag vor Inkrafttreten dieses Gesetzes geltenden Fassung weiter anzuwenden mit der Maßgabe, daß an die Stelle der dort genannten Vorschriften der Reichsversicherungsordnung die §§ 56 und 81 bis 91 dieses Buches treten.
 
@@ -4155,11 +4155,9 @@ Die Vorschriften des Ersten bis Neunten Kapitels gelten für Versicherungsfälle
 (9) (weggefallen)
 
 
-### § 216 Bezugsgröße (Ost) und aktueller Rentenwert (Ost)
+### § 216 
 
-(1) Soweit Vorschriften dieses Buches beim Jahresarbeitsverdienst oder beim Sterbegeld an die Bezugsgröße anknüpfen, ist die Bezugsgröße für das in Artikel 3 des Einigungsvertrags genannte Gebiet (Bezugsgröße (Ost)) maßgebend, wenn es sich um einen Versicherungsfall in diesem Gebiet handelt.
-
-(2) Soweit Vorschriften dieses Buches bei Einkommensanrechnungen auf Leistungen an Hinterbliebene an den aktuellen Rentenwert anknüpfen, ist der aktuelle Rentenwert (Ost) maßgebend, wenn der Berechtigte seinen gewöhnlichen Aufenthalt in dem in Artikel 3 des Einigungsvertrags genannten Gebiet hat.
+Soweit Vorschriften dieses Buches beim Jahresarbeitsverdienst oder beim Sterbegeld an die Bezugsgröße anknüpfen, ist die Bezugsgröße für das in Artikel 3 des Einigungsvertrags genannte Gebiet (Bezugsgröße (Ost)) maßgebend, wenn es sich um einen Versicherungsfall in diesem Gebiet handelt.
 
 
 ### § 217 Bestandsschutz

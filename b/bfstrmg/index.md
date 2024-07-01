@@ -27,7 +27,7 @@ Zuletzt geändert durch
 1.  die für den Güterkraftverkehr bestimmt sind oder verwendet werden und
 
 
-2.  deren technisch zulässige Gesamtmasse mindestens 7,5 Tonnen beträgt.
+2.  deren technisch zulässige Gesamtmasse mehr als 3,5 Tonnen beträgt.
 
 
 
@@ -59,7 +59,10 @@ Im Fall von Fahrzeugkombinationen besteht eine Pflicht zur Entrichtung der Maut 
 8.  überwiegend mit Erdgas betriebene Fahrzeuge, die werksseitig für den Betrieb mit CNG, LNG oder als Zweistoffmotor mit LNG/Diesel ausgeliefert wurden und über eine Systemgenehmigung gemäß Verordnung VO (EG) Nr. 595/2009 verfügen, im Zeitraum vom 1. Januar 2019 bis zum 31. Dezember 2023,
 
 
-9.  emissionsfreie Fahrzeuge im Sinne der Nummer 7 mit einer technisch zulässigen Gesamtmasse von bis zu 4,25 Tonnen.
+9.  emissionsfreie Fahrzeuge im Sinne der Nummer 7 mit einer technisch zulässigen Gesamtmasse von bis zu 4,25 Tonnen,
+
+
+10. Fahrzeuge nach § 1 Absatz 1 Satz 2 mit einer technisch zulässigen Gesamtmasse von weniger als 7,5 Tonnen, die zur Beförderung von Material, Ausrüstungen oder Maschinen, die der Fahrer zur Ausübung seines Handwerks oder seines mit dem Handwerk vergleichbaren Berufs benötigt, oder zur Auslieferung von handwerklich hergestellten Gütern, wenn die Beförderung nicht gewerblich erfolgt, benutzt werden.
 
 
 
@@ -736,26 +739,31 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
 (9) Für Sachverhalte, die ab dem 1. Januar 2023 und bis zum Ablauf des 30. November 2023 entstanden sind, bestimmt sich der Mautsatz abweichend von § 3 Absatz 3 nach der Anlage 10. Im Rahmen der Anlage 10 ist die Straßenverkehrs-Zulassungs-Ordnung in der am 30. November 2023 geltenden Fassung anzuwenden.
 
+(10) Für Sachverhalte, die ab dem 1. Dezember 2023 und bis zum Ablauf des 30. Juni 2024 entstanden sind, bestimmt sich der Mautsatz abweichend von § 3 Absatz 3 nach der Anlage 11.
+
 
 ## § 15 (weggefallen)
 
 
 ## Anlage 1 (zu § 3 Absatz 3) Berechnung der Höhe des Mautsatzes
 
-(Fundstelle: BGBl. 2023 I Nr. 315, S. 5 – 6)
+(Fundstelle: BGBl. 2023 I Nr. 315, S. 8 – 9)
 
-1.  Mautteilsatz für die Infrastrukturkosten je Kilometer nach § 3 Absatz 1 Nummer 1 für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen
+1.  Mautteilsatz für die Infrastrukturkosten je Kilometer nach § 3 Absatz 1 Nummer 1 beträgt für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen
 
-    a)  mit einer technisch zulässigen Gesamtmasse von 7,5 Tonnen bis unter 12 Tonnen unabhängig von der Anzahl der Achsen 0,067 Euro,
-
-
-    b)  mit einer technisch zulässigen Gesamtmasse von 12 Tonnen bis 18 Tonnen unabhängig von der Anzahl der Achsen 0,109 Euro,
+    a)  mit einer technisch zulässigen Gesamtmasse von mehr als 3,5 Tonnen bis weniger als 7,5 Tonnen unabhängig von der Anzahl der Achsen 0,052 Euro,
 
 
-    c)  mit einer technisch zulässigen Gesamtmasse von mehr als 18 Tonnen sowie bis zu drei Achsen 0,143 Euro,
+    b)  mit einer technisch zulässigen Gesamtmasse ab 7,5 Tonnen bis weniger als 12 Tonnen unabhängig von der Anzahl der Achsen 0,066 Euro,
 
 
-    d)  mit einer technisch zulässigen Gesamtmasse von mehr als 18 Tonnen sowie vier oder mehr Achsen 0,155 Euro.
+    c)  mit einer technisch zulässigen Gesamtmasse ab 12 Tonnen bis einschließlich 18 Tonnen unabhängig von der Anzahl der Achsen 0,107 Euro,
+
+
+    d)  mit einer technisch zulässigen Gesamtmasse von mehr als 18 Tonnen und bis zu drei Achsen 0,141 Euro,
+
+
+    e)  mit einer technisch zulässigen Gesamtmasse von mehr als 18 Tonnen und mit vier oder mehr Achsen 0,155 Euro.
 
 
 
@@ -767,6 +775,8 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
         *            *   Kategorie
 
+            *   *                                    3,5 bis*                                    7,5 t
+
             *   7,5 bis*                                    12 t
 
             *   12 bis 18 t
@@ -774,11 +784,12 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
             *   *                                    18 t mit
                 bis zu 3 Achsen
 
-            *   *                                    18 t mit
-                4 oder mehr Achsen
+            *   *                                    18 t mit 4 oder mehr Achsen
 
 
         *            *   A
+
+            *   0,011
 
             *   0,015
 
@@ -793,6 +804,8 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
             *   0,043
 
+            *   0,043
+
             *   0,052
 
             *   0,062
@@ -801,6 +814,8 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
 
         *            *   C
+
+            *   0,055
 
             *   0,059
 
@@ -813,6 +828,8 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
         *            *   D
 
+            *   0,079
+
             *   0,088
 
             *   0,101
@@ -823,6 +840,8 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
 
         *            *   E
+
+            *   0,098
 
             *   0,113
 
@@ -835,6 +854,8 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
         *            *   F
 
+            *   0,102
+
             *   0,114
 
             *   0,123
@@ -845,6 +866,8 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
 
         *            *   G
+
+            *   0,001
 
             *   0,001
 
@@ -917,7 +940,9 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
 3.  Mautteilsatz für die verursachten Lärmbelastungskosten je Kilometer differenziert nach technisch zulässiger Gesamtmasse und Achsanzahl für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen nach § 3 Absatz 1 Nummer 3 in Euro:
 
-    *        *   7,5 bis*                              12 t
+    *        *   *                              3,5 bis*                              7,5 t
+
+        *   7,5 bis*                              12 t
 
         *   12 bis 18 t
 
@@ -928,7 +953,9 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
             4 Achsen oder mehr
 
 
-    *        *   0,016
+    *        *   0,014
+
+        *   0,016
 
         *   0,016
 
@@ -942,19 +969,23 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
 4.  Mautteilsatz für Kosten für verkehrsbedingte Kohlenstoffdioxid-Emissionen je Kilometer nach § 3 Absatz 1 Nummer 4
 
-    a)  für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen differenziert nach Kohlenstoffdioxid-Emissionsklasse, Schadstoffklasse, technisch zulässiger Gesamtmasse und Achsanzahl in Euro:
+    a)  für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen differenziert nach Kohlenstoffdioxid-Emissionsklasse, Schadstoffklasse, technisch zulässiger Gesamtmasse und Achsanzahl je Kilometer nach § 3 Absatz 1 Nummer 4 in Euro:
 
         *            *   Kohlenstoffdioxid-
                 Emissionsklasse
+
+            *   *                                    3,5 bis
+                *                                    7,5 t
 
             *   7,5 bis*                                    12 t
 
             *   12 bis 18 t
 
             *   *                                    18 t mit
-                bis zu 3 Achsen
+                bis zu
+                3 Achsen
 
-            *   *                                    18 t mit
+            *   *                                    18 t und
                 4 Achsen
 
             *   *                                    18 t mit
@@ -964,6 +995,8 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
         *            *   1
 
             *   EURO I und schlechter
+
+            *   0,080
 
             *   0,080
 
@@ -981,6 +1014,8 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
             *   0,080
 
+            *   0,080
+
             *   0,104
 
             *   0,138
@@ -995,6 +1030,8 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
             *   0,080
 
+            *   0,080
+
             *   0,100
 
             *   0,134
@@ -1005,6 +1042,8 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
 
         *            *   EURO VI
+
+            *   0,074
 
             *   0,080
 
@@ -1019,6 +1058,8 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
         *            *   2
 
+            *   0,070
+
             *   0,076
 
             *   0,096
@@ -1032,6 +1073,8 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
         *            *   3
 
+            *   0,067
+
             *   0,072
 
             *   0,090
@@ -1044,6 +1087,8 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
 
         *            *   4
+
+            *   0,037
 
             *   0,040
 
@@ -1068,11 +1113,13 @@ Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen richtet si
 
             *   0
 
+            *   0
 
 
 
 
-    b)  Die Zuordnung der Fahrzeuge nach § 1 Absatz 1 Satz 2 zu den in Buchstabe a aufgeführten Kohlenstoffdioxid-Emissionsklassen erfolgt nach Artikel 7ga Absatz 2 Satz 1 in Verbindung mit Artikel 2 Absatz 1 Nummer 28, 30, 34 bis 38 der Richtlinie 1999/62/EG des Europäischen Parlaments und des Rates vom 17. Juni 1999 über die Erhebung von Gebühren für die Benutzung von Straßeninfrastrukturen durch Fahrzeuge (ABl. L 187 vom 20.7.1999, S. 42), zuletzt geändert durch die Richtlinie (EU) 2022/362 des Europäischen Parlaments und des Rates vom 24. Februar 2022. Im Sinne des Artikels 7ga Absatz 2 Satz 2 wird die Einstufung eines Fahrzeugs der Kohlenstoffdioxid-Emissionsklassen 2 und 3 sechs Jahre nach seiner Erstzulassung auf Basis der zum Überprüfungszeitpunkt geltenden Grenzwerte neu ermittelt. Die gegebenenfalls neu ermittelte Kohlenstoffdioxid-Emissionsklasse wird spätestens nach sechs Jahren und einem Tag nach dem Tag der Erstzulassung des betroffenen Fahrzeugs wirksam.
+
+    b)  Die Zuordnung der Fahrzeuge nach § 1 Absatz 1 Satz 2 zu den in Buchstabe a aufgeführten Kohlenstoffdioxid-Emissionsklassen erfolgt nach Artikel 7ga Absatz 2 Satz 1 in Verbindung mit Artikel 2 Absatz 1 Nummer 28, 30, 34 bis 38 der Richtlinie 1999/62/EG des Europäischen Parlaments und des Rates vom 17. Juni 1999 über die Erhebung von Gebühren für die Benutzung von Straßeninfrastrukturen durch Fahrzeuge (ABl. L 187 vom 20.7.1999, S. 42), zuletzt geändert durch die Richtlinie (EU) 2022/362 des Europäischen Parlaments und des Rates vom 24. Februar 2022. Im Sinne des Artikels 7ga Absatz 2 Satz 2 Satz 1 wird die Einstufung eines Fahrzeugs der Kohlenstoffdioxid-Emissionsklassen 2 und 3 sechs Jahre nach seiner Erstzulassung auf Basis der zum Überprüfungszeitpunkt geltenden Grenzwerte neu ermittelt. Die gegebenenfalls neu ermittelte Kohlenstoffdioxid-Emissionsklasse wird spätestens nach sechs Jahren und einem Tag nach dem Tag der Erstzulassung des betroffenen Fahrzeugs wirksam.
 
 
 
@@ -1964,6 +2011,347 @@ Fundstelle: BGBl. I 2021, 1612)
         *   0,016
 
         *   0,012
+
+
+
+
+
+
+
+
+## Anlage 11 (zu § 14 Absatz 10) Mautsätze im Zeitraum vom 1. Dezember 2023 bis zum 30. Juni 2024
+
+(Fundstelle: BGBl. 2023 I Nr. 315, S. 9 – 11)
+
+1.  Mautteilsatz für die Infrastrukturkosten je Kilometer nach § 3 Absatz 1 Nummer 1 für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen
+
+    a)  mit einer technisch zulässigen Gesamtmasse von 7,5 Tonnen bis unter 12 Tonnen unabhängig von der Anzahl der Achsen 0,067 Euro,
+
+
+    b)  mit einer technisch zulässigen Gesamtmasse von 12 Tonnen bis 18 Tonnen unabhängig von der Anzahl der Achsen 0,109 Euro,
+
+
+    c)  mit einer technisch zulässigen Gesamtmasse von mehr als 18 Tonnen sowie bis zu drei Achsen 0,143 Euro,
+
+
+    d)  mit einer technisch zulässigen Gesamtmasse von mehr als 18 Tonnen sowie vier oder mehr Achsen 0,155 Euro.
+
+
+
+
+
+2.  Mautteilsatz für die verursachten Luftverschmutzungskosten je Kilometer nach § 3 Absatz 1 Nummer 2
+
+    a)  für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen je Kilometer differenziert nach technisch zulässiger Gesamtmasse und Achsanzahl in Euro:
+
+        *            *   Kategorie
+
+            *   7,5 bis*                                    12 t
+
+            *   12 bis 18 t
+
+            *   *                                    18 t mit
+                bis zu 3 Achsen
+
+            *   *                                    18 t mit
+                4 oder mehr Achsen
+
+
+        *            *   A
+
+            *   0,015
+
+            *   0,015
+
+            *   0,022
+
+            *   0,023
+
+
+        *            *   B
+
+            *   0,043
+
+            *   0,052
+
+            *   0,062
+
+            *   0,062
+
+
+        *            *   C
+
+            *   0,059
+
+            *   0,063
+
+            *   0,080
+
+            *   0,087
+
+
+        *            *   D
+
+            *   0,088
+
+            *   0,101
+
+            *   0,134
+
+            *   0,149
+
+
+        *            *   E
+
+            *   0,113
+
+            *   0,121
+
+            *   0,164
+
+            *   0,182
+
+
+        *            *   F
+
+            *   0,114
+
+            *   0,123
+
+            *   0,169
+
+            *   0,187
+
+
+        *            *   G
+
+            *   0,001
+
+            *   0,001
+
+            *   0,001
+
+            *   0,001
+
+
+
+
+
+    b)  Zuordnung der Fahrzeuge nach § 1 Absatz 1 zu den in Buchstabe a aufgeführten Kategorien A bis F auf Grund ihrer Schadstoffklasse sowie zur Kategorie G:
+
+        aa)
+            Kategorie A Fahrzeuge der Schadstoffklasse EURO VI,
+
+
+
+
+
+        bb)
+            Kategorie B Fahrzeuge der EEV Klasse 1 und der Schadstoffklasse EURO V,
+
+
+
+
+
+        cc)
+            Kategorie C Fahrzeuge der Schadstoffklasse EURO IV,
+
+
+
+
+
+        dd)
+            Kategorie D Fahrzeuge der Schadstoffklasse EURO III,
+
+
+
+
+
+        ee)
+            Kategorie E Fahrzeuge der Schadstoffklasse EURO II,
+
+
+
+
+
+        ff)
+            Kategorie F Fahrzeuge der Schadstoffklasse EURO I sowie Fahrzeuge, die keiner EURO-Schadstoffklasse oder EEV Klasse angehören,
+
+
+
+
+
+        gg)
+            Kategorie G Umweltfreundlichere Fahrzeuge als Kategorie A (inklusive emissionsfreie Fahrzeuge ab dem 1. Januar 2026).
+
+
+
+
+
+
+
+
+
+
+
+3.  Mautteilsatz für die verursachten Lärmbelastungskosten je Kilometer differenziert nach technisch zulässiger Gesamtmasse und Achsanzahl für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen nach § 3 Absatz 1 Nummer 3 in Euro:
+
+    *        *   7,5 bis*                              12 t
+
+        *   12 bis 18 t
+
+        *   *                              18 t mit
+            bis zu 3 Achsen
+
+        *   *                              18 t mit
+            4 Achsen oder mehr
+
+
+    *        *   0,016
+
+        *   0,016
+
+        *   0,016
+
+        *   0,012
+
+
+
+
+
+4.  Mautteilsatz für Kosten für verkehrsbedingte Kohlenstoffdioxid-Emissionen je Kilometer nach § 3 Absatz 1 Nummer 4
+
+    a)  für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen differenziert nach Kohlenstoffdioxid-Emissionsklasse, Schadstoffklasse, technisch zulässiger Gesamtmasse und Achsanzahl in Euro:
+
+        *            *   Kohlenstoffdioxid-
+                Emissionsklasse
+
+            *   7,5 bis*                                    12 t
+
+            *   12 bis 18 t
+
+            *   *                                    18 t mit
+                bis zu 3 Achsen
+
+            *   *                                    18 t mit
+                4 Achsen
+
+            *   *                                    18 t mit
+                5 und mehr Achsen
+
+
+        *            *   1
+
+            *   EURO I und schlechter
+
+            *   0,080
+
+            *   0,104
+
+            *   0,158
+
+            *   0,158
+
+            *   0,162
+
+
+        *            *   EURO II
+                EURO III
+
+            *   0,080
+
+            *   0,104
+
+            *   0,138
+
+            *   0,138
+
+            *   0,162
+
+
+        *            *   EURO IV
+                EURO V EEV Klasse 1
+
+            *   0,080
+
+            *   0,100
+
+            *   0,134
+
+            *   0,134
+
+            *   0,160
+
+
+        *            *   EURO VI
+
+            *   0,080
+
+            *   0,100
+
+            *   0,124
+
+            *   0,134
+
+            *   0,158
+
+
+        *            *   2
+
+            *   0,076
+
+            *   0,096
+
+            *   0,118
+
+            *   0,128
+
+            *   0,150
+
+
+        *            *   3
+
+            *   0,072
+
+            *   0,090
+
+            *   0,111
+
+            *   0,120
+
+            *   0,142
+
+
+        *            *   4
+
+            *   0,040
+
+            *   0,050
+
+            *   0,063
+
+            *   0,068
+
+            *   0,079
+
+
+        *            *   5
+
+            *   0
+
+            *   0
+
+            *   0
+
+            *   0
+
+            *   0
+
+
+
+
+
+    b)  Die Zuordnung der Fahrzeuge nach § 1 Absatz 1 Satz 2 zu den in Buchstabe a aufgeführten Kohlenstoffdioxid-Emissionsklassen erfolgt nach Artikel 7ga Absatz 2 Satz 1 in Verbindung mit Artikel 2 Absatz 1 Nummer 28, 30, 34 bis 38 der Richtlinie 1999/62/EG des Europäischen Parlaments und des Rates vom 17. Juni 1999 über die Erhebung von Gebühren für die Benutzung von Straßeninfrastrukturen durch Fahrzeuge (ABl. L 187 vom 20.7.1999, S. 42), zuletzt geändert durch die Richtlinie (EU) 2022/362 des Europäischen Parlaments und des Rates vom 24. Februar 2022. Im Sinne des Artikels 7ga Absatz 2 Satz 2 wird die Einstufung eines Fahrzeugs der Kohlenstoffdioxid-Emissionsklassen 2 und 3 sechs Jahre nach seiner Erstzulassung auf Basis der zum Überprüfungszeitpunkt geltenden Grenzwerte neu ermittelt. Die gegebenenfalls neu ermittelte Kohlenstoffdioxid-Emissionsklasse wird spätestens nach sechs Jahren und einem Tag nach dem Tag der Erstzulassung des betroffenen Fahrzeugs wirksam.
 
 
 

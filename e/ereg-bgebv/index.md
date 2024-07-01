@@ -53,7 +53,7 @@ Die Regulierungsbehörde ist befugt, festgesetzte Gebühren gemäß § 59 der Bu
 
 (1) Unternehmen im Sinne des § 2 Absatz 1 des Allgemeinen Eisenbahngesetzes, die Eisenbahnverkehrsdienste hauptsächlich aus Gründen historischen Interesses oder zu touristischen Zwecken erbringen, sowie Unternehmen, die eine Eisenbahninfrastruktur hauptsächlich aus Gründen historischen Interesses oder zu touristischen Zwecken betreiben, sind von der Zahlung von Gebühren befreit.
 
-(2) Entscheidungen nach § 2 Absatz 4 bis 7 und 9, § 7 Absatz 6 sowie § 13 Absatz 5 des Eisenbahnregulierungsgesetzes ergehen gebührenfrei. Dies gilt auch für Entscheidungen über die Gewährung von Ausnahmen von den Verpflichtungen nach unmittelbar geltenden europäischen Rechtsakten.
+(2) Entscheidungen nach § 2 Absatz 4, 6 und 6a, § 2a Absatz 2 und 4, § 2b Absatz 2 und 3 sowie § 13 Absatz 3 des Eisenbahnregulierungsgesetzes ergehen gebührenfrei. Dies gilt auch für Entscheidungen über die Gewährung von Ausnahmen von den Verpflichtungen nach unmittelbar geltenden europäischen Rechtsakten.
 
 (3) Keine Gebühren werden erhoben für
 
@@ -81,7 +81,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ## Anlage Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2021, 977 – 979)
+(Fundstelle: BGBl. I 2021, 977 – 979;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
@@ -107,16 +108,16 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   Anordnung auf unverzügliche Anwendung der in § 2 Absatz 3 Nummer 2 ERegG bezeichneten Vorschriften
 
-    *   § 2 Absatz 11 ERegG
+    *   § 2 Absatz 8 ERegG
 
     *   1 000
 
 
 *    *   3
 
-    *   Durchführung des Höchstpreisverfahrens nach § 13 Absatz 3 Nummer 5 in Verbindung mit § 52 Absatz 8 ERegG
+    *   Durchführung des Höchstpreisverfahrens nach § 13 Absatz 2 Satz 2 und 3 in Verbindung mit § 52 Absatz 8 ERegG
 
-    *   § 13 Absatz 3 Nummer 5 in Verbindung mit § 52 Absatz 8 ERegG
+    *   § 13 Absatz 2 Satz 2 und 3 in Verbindung mit § 52 Absatz 8 ERegG
 
     *   250
 
@@ -127,9 +128,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   § 25 ERegG
 
-    *   Betreiber von Schienenwegen, dessen Schienennetz eine Streckenlänge von weniger als 10 000 km umfasst:
+    *   Betreiber der Schienenwege, dessen Schienennetz eine Streckenlänge von weniger als 10 000 km umfasst:
         4 000 – 22 500
-        Betreiber von Schienenwegen, dessen Schienennetz eine Streckenlänge von mehr als 10 000 km umfasst:
+        Betreiber der Schienenwege, dessen Schienennetz eine Streckenlänge von mehr als 10 000 km umfasst:
         150 000 – 395 000
 
 
@@ -139,9 +140,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   §§ 25 und 26 ERegG
 
-    *   Betreiber von Schienenwegen, dessen Schienennetz eine Streckenlänge von weniger als 10 000 km umfasst:
+    *   Betreiber der Schienenwege, dessen Schienennetz eine Streckenlänge von weniger als 10 000 km umfasst:
         900 – 11 000
-        Betreiber von Schienenwegen, dessen Schienennetz eine Streckenlänge von mehr als 10 000 km umfasst:
+        Betreiber der Schienenwege, dessen Schienennetz eine Streckenlänge von mehr als 10 000 km umfasst:
         23 000 – 87 000
 
 
@@ -165,7 +166,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 *    *   8
 
-    *   Genehmigung der Entgelte für Betreiber der Schienenwege, die von den Entgeltvorschriften nach § 2 ERegG befreit sind
+    *   Genehmigung der Entgelte für Betreiber der Schienenwege, die von den Entgeltvorschriften nach § 2a ERegG befreit sind
 
     *   § 33 Absatz 1 Nummer 1 ERegG
 
@@ -190,9 +191,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   § 45 Absatz 1 und § 46 Absatz 1 bis 4 ERegG
 
-    *   Betreiber von Schienenwegen, dessen Schienennetz eine Streckenlänge von weniger als 10 000 km umfasst:
+    *   Betreiber der Schienenwege, dessen Schienennetz eine Streckenlänge von weniger als 10 000 km umfasst:
         2 000 – 14 500
-        Betreiber von Schienenwegen, dessen Schienennetz eine Streckenlänge von mehr als 10 000 km umfasst:
+        Betreiber der Schienenwege, dessen Schienennetz eine Streckenlänge von mehr als 10 000 km umfasst:
         46 000 – 152 000
 
 
@@ -228,20 +229,20 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 *    *   12.1
 
     *   Überprüfung des Entwurfs oder der Endfassung der Schienennetz-Nutzungsbedingungen und der darin festgelegten Kriterien
-        (Sofern der Schwerpunkt der Prüfung der Schienennetz-Nutzungsbedingungen nicht in der Prüfung der Entgeltregelung liegt.)
+        (sofern der Schwerpunkt der Prüfung der Schienennetz-Nutzungsbedingungen nicht in der Prüfung der Entgeltregelung liegt.)
 
     *   § 66 Absatz 4 Nummer 1, 3 und 8 ERegG
 
-    *   Betreiber von Schienenwegen, dessen Schienennetz eine Streckenlänge von weniger als 10 000 km umfasst:
+    *   Betreiber der Schienenwege, dessen Schienennetz eine Streckenlänge von weniger als 10 000 km umfasst:
         3 000 – 17 000
-        Betreiber von Schienenwegen, dessen Schienennetz eine Streckenlänge von mehr als 10 000 km umfasst:
+        Betreiber der Schienenwege, dessen Schienennetz eine Streckenlänge von mehr als 10 000 km umfasst:
         42 000 – 140 000
 
 
 *    *   12.2
 
     *   Überprüfung des Entwurfs oder der Endfassung der Nutzungsbedingungen für Serviceeinrichtungen und der darin festgelegten Kriterien
-        (Sofern der Schwerpunkt der Prüfung der Nutzungsbedingungen für Serviceeinrichtungen nicht in der Prüfung der Entgeltregelung liegt.)
+        (sofern der Schwerpunkt der Prüfung der Nutzungsbedingungen für Serviceeinrichtungen nicht in der Prüfung der Entgeltregelung liegt.)
 
     *   § 66 Absatz 4 Nummer 2, 3 und 8 ERegG
 
@@ -260,14 +261,14 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 *    *   12.4
 
     *   Überprüfung der Entgeltregelung (Höhe und Struktur der Wegeentgelte und der Höhe und Struktur der sonstigen Entgelte), die der Zugangsberechtigte zu zahlen hat
-        (Sofern der Schwerpunkt der Prüfung der Schienennetz-Nutzungsbedingungen oder der Nutzungsbedingungen für Serviceeinrichtungen in der Prüfung der Entgeltregelung liegt)
+        (sofern der Schwerpunkt der Prüfung der Schienennetz-Nutzungsbedingungen oder der Nutzungsbedingungen für Serviceeinrichtungen in der Prüfung der Entgeltregelung liegt)
 
     *   § 66 Absatz 4 Nummer 5 bis 7 ERegG
 
     *   Beschwerde oder Verfahren von Amts wegen gegen einen Betreiber der Schienenwege:
-        Betreiber von Schienenwegen, dessen Schienennetz eine Streckenlänge von weniger als 10 000 km umfasst:
+        Betreiber der Schienenwege, dessen Schienennetz eine Streckenlänge von weniger als 10 000 km umfasst:
         3 000 – 12 000
-        Betreiber von Schienenwegen, dessen Schienennetz eine Streckenlänge von mehr als 10 000 km umfasst:
+        Betreiber der Schienenwege, dessen Schienennetz eine Streckenlänge von mehr als 10 000 km umfasst:
         38 000 – 130 000
         Beschwerde oder Verfahren von Amts wegen gegen einen Betreiber einer Serviceeinrichtung:
         3 000 – 71 000
@@ -289,9 +290,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   § 67 Absatz 1 Satz 1 ERegG
 
     *   Entscheidung gegen einen Betreiber der Schienenwege
-        Betreiber von Schienenwegen, dessen Schienennetz eine Streckenlänge von weniger als 10 000 km umfasst:
+        Betreiber der Schienenwege, dessen Schienennetz eine Streckenlänge von weniger als 10 000 km umfasst:
         3 000 – 17 000
-        Betreiber von Schienenwegen, dessen Schienennetz eine Streckenlänge von mehr als 10 000 km umfasst:
+        Betreiber der Schienenwege, dessen Schienennetz eine Streckenlänge von mehr als 10 000 km umfasst:
         42 000 – 140 000
         Entscheidung gegen einen Betreiber einer Serviceeinrichtung:
         3 000 – 71 000
@@ -308,7 +309,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 *    *   15
 
-    *   Maßnahme bei Verstoß gegen die Bestimmungen zur Entflechtung nach den §§ 5 bis 8 und 12 ERegG
+    *   Maßnahme bei Verstoß gegen die Bestimmungen zur Entflechtung nach den §§ 5 bis 8d und 12 ERegG
 
     *   § 70 Absatz 1 in Verbindung mit § 67 Absatz 1 ERegG
 
