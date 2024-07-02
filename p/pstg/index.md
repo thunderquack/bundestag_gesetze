@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 122
 
 Zuletzt geändert durch
-:   Art. 4 G v. 11.6.2024 I Nr. 185
-
-Änderung durch
-:   Art. 4 G v. 19.6.2024 I Nr. 206 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 24.6.2024 I Nr. 212 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 24.6.2024 I Nr. 212
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen

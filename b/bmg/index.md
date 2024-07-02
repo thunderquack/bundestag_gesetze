@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1084
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 3 G v. 22.3.2024 I Nr. 104
-
-Änderung durch
-:   Art. 3 G v. 19.6.2024 I Nr. 206 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 19.6.2024 I Nr. 206
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen

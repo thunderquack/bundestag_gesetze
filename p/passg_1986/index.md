@@ -18,11 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 30.10.2023 I Nr. 291
 
-Geändert durch
-:   Art. 3 Abs. 1 G v. 22.3.2024 I Nr. 104
-
-Änderung durch
-:   Art. 2 G v. 19.6.2024 I Nr. 206 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 2 G v. 19.6.2024 I Nr. 206
 
 
 ## Erster Abschnitt - Passvorschriften
