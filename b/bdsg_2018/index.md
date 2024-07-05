@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 2097
 
 Zuletzt geändert durch
-:   Art. 10 G v. 22.12.2023 I Nr. 414
-
-Änderung durch
-:   Art. 7 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 6.5.2024 I Nr. 149
 
 Stand: Ersetzt G 204-3 v. 20.12.1990 I 2954, 2955 (BDSG 1990)
 

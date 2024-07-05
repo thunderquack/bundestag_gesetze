@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 666
 
 Zuletzt geändert durch
-:   Art. 7 G v. 10.8.2021 I 3436
-
-Änderung durch
-:   Art. 10 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 6.5.2024 I Nr. 149
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war

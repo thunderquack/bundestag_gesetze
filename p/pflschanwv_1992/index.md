@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 1887
 
 Zuletzt geändert durch
-:   Art. 2 V v. 1.6.2022 I 867
-
-Mittelbare änderung durch
-:   Art. 1 V v. 24.6.2024 I Nr. 216 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 2 V v. 24.6.2024 I Nr. 216 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 V v. 24.6.2024 I Nr. 216 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 24.6.2024 I Nr. 216
 
 Durch diese Verordnung sind die Verpflichtungen aus der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 241 vom 17.9.2015, S. 1) beachtet worden.
 
@@ -213,15 +204,12 @@ Im Rahmen der §§ 1 bis 4 bleiben produktionstechnisch bedingte, geringfügige 
 
 
 
-
-## § 9 (weggefallen)
-
 (zu den §§ 1 und 5 Abs. 1)
 
 ## Anlage 1 Vollständiges Anwendungsverbot
 
-Fundstelle des Originaltextes: BGBl. I 2003, 1534;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+(Fundstelle: BGBl. I 2003, 1534;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Nummer
 
@@ -1044,7 +1032,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Anlage 4 Besondere Abgabebedingungen
 
-(Fundstelle: BGBl. 2024 Nr. 216, S. 4)
+(Fundstelle: BGBl. 2024 I Nr. 216, S. 4)
 
 
 *    *   Nummer

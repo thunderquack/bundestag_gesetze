@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2003, 1791
 
 Zuletzt geändert durch
-:   Art. 1 V v. 23.11.2022 I 2066
-
-Änderung durch
-:   Art. 13 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 13 G v. 6.5.2024 I Nr. 149
 
 
 ## Eingangsformel
@@ -215,7 +212,8 @@ Die Bundeszentrale für Kinder- und Jugendmedienschutz hat den als öffentlich g
 
 (2) Wird ein digitaler Dienst in die Liste aufgenommen oder aus dieser gestrichen, so teilt die Bundeszentrale für Kinder- und Jugendmedienschutz der Kommission für Jugendmedienschutz den Zeitpunkt der Entscheidung mit.
 
-(3) Bei erfolgloser Zustellung soll die Bundeszentrale für Kinder- und Jugendmedienschutz die Entscheidungen den im Bereich der digitalen Dienste anerkannten Einrichtungen der Selbstkontrolle mitteilen.
+(3) Bei erfolgloser Zustellung soll die Bundeszentrale für Kinder- und Jugendmedienschutz die Entscheidungen den im Bereich der
+digitalen Dienste              anerkannten Einrichtungen der Selbstkontrolle mitteilen.
 
 
 ## § 16 Inkrafttreten

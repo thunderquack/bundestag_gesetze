@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 1354 (2019 I 400)
 
 Zuletzt geändert durch
-:   Art. 3 G v. 19.12.2022 I 2632; 2023 I Nr. 60
-
-Änderung durch
-:   Art. 14 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 14 G v. 6.5.2024 I Nr. 149
 
 Stand: Ersetzt 2190-2 G v. 7.7.1997 I 1650 (BKAG 1997)
 
@@ -2374,7 +2371,8 @@ Die Wohnung umfasst die Wohn- und Nebenräume, Arbeits-, Betriebs- und Geschäft
 
 
 
-(2) Unter den Voraussetzungen des Absatzes 1 darf von demjenigen, der geschäftsmäßig eigene oder fremde digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetze zur Nutzung bereithält oder den Zugang zur Nutzung vermittelt, Auskunft über Bestandsdaten gemäß § 2 Absatz 2 Nummer 2 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes (§ 22 Absatz 1 Satz 1 und § 23 Absatz 1 Satz 1 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes).
+(2) Unter den Voraussetzungen des Absatzes 1 darf von demjenigen, der geschäftsmäßig eigene oder fremde
+digitale Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes              zur Nutzung bereithält oder den Zugang zur Nutzung vermittelt, Auskunft über Bestandsdaten gemäß § 2 Absatz 2 Nummer 2 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes (§ 22 Absatz 1 Satz 1 und § 23 Absatz 1 Satz 1 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes).
 
 (3) Bezieht sich das Auskunftsverlangen nach Absatz 1 auf Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 174 Absatz 1 Satz 2 des Telekommunikationsgesetzes), darf die Auskunft nur verlangt werden, wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen. Bezieht sich das Auskunftsverlangen nach Absatz 2 auf nach als Bestandsdaten erhobene Passwörter oder auf andere Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 23 Absatz 1 Satz 1 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes), darf die Auskunft nur verlangt werden zur Abwehr einer konkreten Gefahr für Leib, Leben, Freiheit oder die sexuelle Selbstbestimmung der zu schützenden Person oder für den Bestand des Bundes oder eines Landes oder die freiheitlich demokratische Grundordnung und wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen. Auskunftsverlangen nach den Sätzen 1 und 2 dürfen nur auf Antrag der Präsidentin oder des Präsidenten des Bundeskriminalamts oder ihrer oder seiner Vertretung durch das Gericht angeordnet werden. In den Fällen des Satzes 1 ist Satz 3 nicht anzuwenden, wenn
 

@@ -129,3 +129,8 @@ Die bundeseinheitliche Wirtschaftsnummer für Unternehmen nach § 2 des Unterneh
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+
+## Schlussformel
+
+Der Bundesrat hat zugestimmt.
+

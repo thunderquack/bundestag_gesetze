@@ -16,13 +16,10 @@ Fundstelle
 :   BGBl I: 2005, 2618 (3007)
 
 Neugefasst durch
-:   Bek. v. 15.9.2021 I 4253; 2022 I 28
+:   Bek. v. 15.9.2021 I 4253, 2022 I 28;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 6 G v. 20.12.2022 I 2752
-
-Änderung durch
-:   Art. 11 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 6.5.2024 I Nr. 149
 
 [^F775632_01_BJNR261810005]:     Das Gesetz dient der Umsetzung der in der Anlage zu Fußnote               1               ) des Gesetzes zur Neuordnung des Lebensmittel- und des Futtermittelrechts vom 1. September 2005 (BGBl. I S. 2618, 3007) in den Nummern 1 bis 72 und 75 aufgeführten Rechtsakte.
 [^F775632_02_BJNR261810005]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen Parlaments und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 204 vom 21.7.1998, S. 37), die zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S. 81) geändert worden ist, sind beachtet worden.

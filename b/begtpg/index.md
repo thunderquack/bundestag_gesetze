@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2005, 1970, 2009
 
 Zuletzt geändert durch
-:   Art. 3 G v. 16.7.2021 I 3026
-
-Änderung durch
-:   Art. 6 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 6.5.2024 I Nr. 149
 
 
 ## § 1 Rechtsform, Name

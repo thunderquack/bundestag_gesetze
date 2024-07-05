@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2702, 2706
 
-Geändert durch
-:   Art. 72 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 9 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 9 G v. 6.5.2024 I Nr. 149
 
 
 ## § 1 Gegenstand der Zusammenarbeit; Koordinierungsgremium

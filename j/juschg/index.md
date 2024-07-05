@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 2730
 
 Zuletzt geändert durch
-:   Art. 1 G v. 9.4.2021 I 742
-
-Änderung durch
-:   Art. 12 G v. 6.5.2024 I Nr. 149 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 G v. 6.5.2024 I Nr. 149
 
 Stand: Das G tritt gem. § 30 Abs. 1 Satz 1 an dem Tag in Kraft, an dem der Staatsvertrag der Länder über den Schutz der Menschenwürde und den Jugendschutz in Rundfunk und Telemedien in Kraft tritt\*. In Kraft gem. Bek. v. 1.4.2003 I 476 mWv 1.4.2003
 
