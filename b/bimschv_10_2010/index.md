@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1849
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.12.2019 I 2739
-
-Änderung durch
-:   Art. 1 V v. 28.5.2024 I Nr. 169 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 28.5.2024 I Nr. 169
 
 [^F1_774781_BJNR184900010]:     Diese Verordnung dient der Umsetzung der:                                –                                    Richtlinie 98/70/EG des Europäischen Parlaments und des Rates vom 13. Oktober 1998 über die Qualität von Otto- und Dieselkraftstoffen und zur Änderung der Richtlinie 93/12/EWG des Rates (ABl. L 350 vom 28.12.1998, S. 58), die zuletzt durch die Richtlinie 2009/30/EG (ABl. L 140 vom 5.6.2009, S. 88) geändert worden ist,
 
@@ -122,13 +119,7 @@ Es verordnen
 
 (14) Inverkehrbringen ist jedes Überlassen an andere.
 
-(15) Kombinierte Nomenklatur ist die Warennomenklatur nach Artikel 1 in Verbindung mit Anhang I der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1; L 341 vom 3.12.1987, S. 38; L 378 vom 31.12.1987, S. 120; L 130 vom 26.5.1988, S. 42; L 151 vom 8.6.2016, S. 22), die zuletzt durch die Verordnung (EU) 2022/2465 (ABl. L 322 vom 16.12.2022, S. 81) geändert worden ist.
-
-(16) (weggefallen)
-
-(17) (weggefallen)
-
-(18) (weggefallen)
+(15)              Kombinierte Nomenklatur ist die Warennomenklatur nach Artikel 1 in Verbindung mit Anhang I der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1; L 341 vom 3.12.1987, S. 38; L 378 vom 31.12.1987, S. 120; L 130 vom 26.5.1988, S. 42; L 151 vom 8.6.2016, S. 22), die zuletzt durch die Verordnung (EU) 2022/2465 (ABl. L 322 vom 16.12.2022, S. 81) geändert worden ist.
 
 
 ## § 2 Chlor- und Bromverbindungen
@@ -362,7 +353,7 @@ Für die Auszeichnung der Zapfsäulen ist das Zeichen nach Teil a der jeweils zu
 
 (5) Die Absätze 1 bis 3 finden keine Anwendung im Bereich der Kraft- und Brennstoffe nach § 1 Absatz 4 bis 10.
 
-(6) Der Betreiber eines Ladepunktes hat die Verbraucherinformation nach Abschnitt 6.3 der DIN EN 17186, Ausgabe Oktober 2019, gemäß der Sätze 2 und 4 am Ladepunkt anzubringen. In der Verbraucherinformation ist in Abschnitt A des Zeichens nach Abschnitt 6.3.1 der DIN EN 17186, Ausgabe Oktober 2019, der Text „Laden von E-Fahrzeugen“ einzutragen. Für das Zeichen in Abschnitt B des Zeichens wird eine Mindestbreite von 40 Millimetern empfohlen. In Abschnitt C des Zeichens ist gemäß der Empfehlung der DIN EN 17186, Ausgabe Oktober 2019, die berechnete Leistung anzugeben.
+(6)              Der Betreiber eines Ladepunktes hat die Verbraucherinformation nach Abschnitt 6.3 der DIN EN 17186, Ausgabe Oktober 2019, gemäß der Sätze 2 und 4 am Ladepunkt anzubringen. In der Verbraucherinformation ist in Abschnitt A des Zeichens nach Abschnitt 6.3.1 der DIN EN 17186, Ausgabe Oktober 2019, der Text „Laden von E-Fahrzeugen“ einzutragen. Für das Zeichen in Abschnitt B des Zeichens wird eine Mindestbreite von 40 Millimetern empfohlen. In Abschnitt C des Zeichens ist gemäß der Empfehlung der DIN EN 17186, Ausgabe Oktober 2019, die berechnete Leistung anzugeben.
 
 
 ## § 14 Nachweisführung
@@ -567,7 +558,8 @@ Als Referenzverfahren dient das Prüfverfahren nach DIN EN ISO 8754, Ausgabe Dez
 
 (2) Ordnungswidrig im Sinne des § 95 Absatz 1 Nummer 5 Buchstabe c des Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 13 Absatz 6 Satz 1 einen dort genannten Hinweis oder eine dort genannte Verbraucherinformation nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise anbringt.
 
-(3) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach Absatz 1 Nummer 4 wird im Anwendungsbereich des § 1 Absatz 1 Nummer 2 erster Halbsatz des Binnenschifffahrtsaufgabengesetzes in der Fassung der Bekanntmachung vom 20. März 2023 (BGBl. 2023 I Nr. 82, Nr. 126), das durch Artikel 14 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 409) geändert worden ist auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
+(3) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach Absatz 1 Nummer 4 wird im Anwendungsbereich des § 1 Absatz 1 Nummer 2 erster Halbsatz des Binnenschifffahrtsaufgabengesetzes in der Fassung der Bekanntmachung vom 20. März 2023 (BGBl. 2023 I Nr. 82, Nr. 126), das durch Artikel 14 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 409) geändert worden ist
+,              auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
 
 ## § 21 Übergangsvorschriften

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 266
 
 Zuletzt geändert durch
-:   Art. 7 Abs. 6 G v. 31.10.2022 I 1966
-
-Änderung durch
-:   Art. 5 Abs. 3 G v. 11.6.2024 I Nr. 185 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 Abs. 3 G v. 11.6.2024 I Nr. 185
 
 
 ## Abschnitt 1 - Begründung der Lebenspartnerschaft
