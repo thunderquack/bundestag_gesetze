@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 11.6.2024 I Nr. 185
-
-Änderung durch
-:   Art. 1 G v. 24.6.2024 I Nr. 212 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 24.6.2024 I Nr. 212
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
