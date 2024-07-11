@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 1444
 
+V aufgeh. durch
+:   Art. 4 Abs. 1 Satz 2 V v. 4.7.2024 I Nr. 227 mWv 1.8.2024
+
 Zuletzt geändert durch
 :   Art. 62 G v. 20.8.2021 I 3932
 
