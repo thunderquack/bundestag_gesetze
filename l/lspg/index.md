@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1993, 1814
 
 Zuletzt geändert durch
-:   Art. 4 G v. 8.5.2024 I Nr. 153
-
-Änderung durch
-:   Art. 3 V v. 24.6.2024 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 24.6.2024 I Nr. 215
 
 
 ## Eingangsformel

@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 63 G v. 20.8.2021 I 3932
 
 Änderung durch
-:   Art. 2 V v. 4.7.2024 I Nr. 227 mWv 1.8.2024 noch nicht berücksichtigt
+:   Art. 2 V v. 4.7.2024 I Nr. 227 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel

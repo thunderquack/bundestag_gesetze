@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 2428
 
 Zuletzt geändert durch
-:   Art. 1 V v. 27.1.2016 I 157
-
-Änderung durch
-:   Art. 8 V v. 24.6.2024 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 V v. 24.6.2024 I Nr. 215
 
 
 ## Eingangsformel

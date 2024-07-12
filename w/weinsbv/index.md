@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 143
 
 Zuletzt geändert durch
-:   Art. 2 V v. 19.4.2023 I Nr. 114
-
-Änderung durch
-:   Art. 7 V v. 24.6.2024 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 V v. 24.6.2024 I Nr. 215
 
 
 ## Eingangsformel

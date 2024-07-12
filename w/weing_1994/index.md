@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 18.1.2011 I 66;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 8.5.2024 I Nr. 153
-
-Änderung durch
-:   Art. 2 V v. 24.6.2024 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 24.6.2024 I Nr. 215
 
 
 ## 1. Abschnitt - Allgemeine Bestimmungen

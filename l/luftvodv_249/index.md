@@ -17,3 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: AT 08.02.2013 V1
 
+V aufgeh. durch
+:   § 6 Satz 2 V 96-1-2-249-1 v. 8.7.2024 I Nr. 231 mWv 31.10.2024
+
+Ersetzt durch
+:   V 96-1-2-249-1 v. 8.7.2024 I Nr. 231 (LuftVODV 249 2024)
+

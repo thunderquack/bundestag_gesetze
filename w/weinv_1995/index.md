@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.4.2009 I 827;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 4.11.2023 I Nr. 304
-
-Änderung durch
-:   Art. 6 V v. 24.6.2024 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 V v. 24.6.2024 I Nr. 215
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien für Erzeugnisse des Weinsektors:
 
