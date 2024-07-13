@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 3812
 
 Zuletzt geändert durch
-:   Art. 5 V v. 12.12.2018 I 2446
-
-Änderung durch
-:   Art. 5 V v. 24.6.2024 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 V v. 24.6.2024 I Nr. 215
 
 
 ## Eingangsformel

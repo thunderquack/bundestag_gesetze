@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 872
 
 Zuletzt geändert durch
-:   Art. 6 G v. 10.8.2021 I 3490
-
-Änderung durch
-:   Art. 4 V v. 24.6.2024 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 V v. 24.6.2024 I Nr. 215
 
 
 ## Eingangsformel
