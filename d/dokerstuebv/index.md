@@ -19,6 +19,9 @@ Fundstelle
 Geändert durch
 :   Art. 10 G v. 25.6.2021 I 2099
 
+Änderung durch
+:   Art. 40 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -96,7 +99,9 @@ Auf Grund des § 32b Absatz 5 Satz 1 der Strafprozessordnung, der durch Artikel 
 
 ## § 6 Ersatzmaßnahmen
 
-Ist aus technischen Gründen eine Übermittlung nach § 5 vorübergehend nicht möglich, so ist die Übermittlung auch auf andere Weise, etwa in Papierform oder auf einem physischen Datenträger nach § 7 Absatz 1 Nummer 3, zulässig. Auf Anforderung ist die elektronische Fassung des Dokuments oder Ermittlungsvorgangs nachzureichen.
+(1) Ist aus technischen Gründen eine Übermittlung nach § 5 vorübergehend nicht möglich, so ist die Übermittlung auch auf andere Weise, etwa in Papierform oder auf einem physischen Datenträger nach § 7 Absatz 1 Nummer 3, zulässig. Auf Anforderung ist die elektronische Fassung des Dokuments oder Ermittlungsvorgangs nachzureichen.
+
+(2) Können die nach § 5 Absatz 1 Nummer 3 der Elektronischer-Rechtsverkehr-Verordnung bekanntgemachten Höchstgrenzen für die Anzahl oder das Volumen elektronischer Dokumente nicht eingehalten werden, so ist die Übermittlung auch auf einem physischen Datenträger nach § 7 Absatz 1 Nummer 3 zulässig.
 
 
 ## § 7 Bekanntmachung technischer Anforderungen

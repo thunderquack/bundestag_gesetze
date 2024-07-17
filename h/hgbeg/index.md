@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1897, 437
 
 Zuletzt geändert durch
-:   Art. 3 G v. 11.4.2024 I Nr. 120
+:   Art. 12 G v. 12.7.2024 I Nr. 234
 
 
 ## Erster Abschnitt - Einführung des Handelsgesetzbuchs
@@ -981,4 +981,13 @@ Die §§ 289f, 334 Absatz 1, § 340n Absatz 1 und § 341n Absatz 1 des Handelsge
 (1) § 267 Absatz 1 und 2, § 267a Absatz 1 und § 293 Absatz 1 Satz 1 des Handelsgesetzbuchs in der jeweils ab dem 17. April 2024 geltenden Fassung sind erstmals auf Jahres- und Konzernabschlüsse, Lageberichte sowie Konzernlageberichte für das nach dem 31. Dezember 2023 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 genannten Vorschriften in der bis einschließlich 16. April 2024 geltenden Fassung sind letztmals auf Jahres- und Konzernabschlüsse, Lageberichte sowie Konzernlageberichte für das vor dem 1. Januar 2024 beginnende Geschäftsjahr anzuwenden.
 
 (2) § 267 Absatz 1 und 2, § 267a Absatz 1 und § 293 Absatz 1 Satz 1 des Handelsgesetzbuchs in der jeweils ab dem 17. April 2024 geltenden Fassung dürfen bereits auf Jahres- und Konzernabschlüsse, Lageberichte sowie Konzernlageberichte für das nach dem 31. Dezember 2022 beginnende Geschäftsjahr angewendet werden, jedoch nur insgesamt. Wird von dieser Möglichkeit Gebrauch gemacht, sind die in Satz 1 genannten Vorschriften in der bis einschließlich 16. April 2024 geltenden Fassung letztmals auf Jahres- und Konzernabschlüsse, Lageberichte sowie Konzernlageberichte für das vor dem 1. Januar 2023 beginnende Geschäftsjahr anzuwenden.
+
+
+## Fünfundfünfzigster Abschnitt - Übergangsvorschrift zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs
+
+
+
+### Art 94
+
+Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von § 335 Absatz 2a und § 335a Absatz 4 des Handelsgesetzbuchs in Papierform erstellt, geführt und übermittelt werden. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von § 335 Absatz 2a und § 335a Absatz 4 des Handelsgesetzbuchs in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
 

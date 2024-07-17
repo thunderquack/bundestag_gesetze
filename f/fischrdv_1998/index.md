@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 1355
 
 Zuletzt geändert durch
-:   Art. 1 V v. 7.2.2018 I 196
-
-Änderung durch
-:   Art. 1 V v. 23.4.2024 I Nr. 136 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 23.4.2024 I Nr. 136
 
 
 ## Eingangsformel

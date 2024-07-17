@@ -21,6 +21,12 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 6 G v. 19.12.2022 I 2632
 
+Änderung durch
+:   Art. 20 G v. 12.7.2024 I Nr. 234 mWv 17.7.2024 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 21 G v. 12.7.2024 I Nr. 234 mWv 1.1.2036 noch nicht berücksichtigt
+
 
 ## Erster Teil - Anwendungsbereich
 

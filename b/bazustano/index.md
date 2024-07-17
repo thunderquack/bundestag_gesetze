@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 127
 
+Änderung durch
+:   Art. 1 AnO v. 28.6.2024 I Nr. 232 mWv 1.4.2024 bzw. 1.10.2024 noch nicht berücksichtigt
+
 Stand: Ersetzt AnO 860-3-31 v. 22.7.2008 I 1405 (BAVorstBeamtRuaAnO 2008)
 
 ## Eingangsformel

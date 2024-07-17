@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.3.2003 I 310, 919;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 21.11.2023 I Nr. 315
+:   Art. 1 G v. 12.7.2024 I Nr. 233
 
 Entfristung durch
 :   Art. 1 G v. 3.12.2020 I 2667 ist berücksichtigt
@@ -107,7 +107,7 @@ Der Hersteller eines solchen Kraftfahrzeugs hat in der Systembeschreibung verbin
 
 ### § 1c Evaluierung
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird die Anwendung der Regelungen in Artikel 1 des Gesetzes vom 16. Juni 2017 (BGBl. I S. 1648) nach Ablauf des Jahres 2019 auf wissenschaftlicher Grundlage evaluieren. Die Bundesregierung unterrichtet den Deutschen Bundestag über die Ergebnisse der Evaluierung.
+Das Bundesministerium für Digitales und Verkehr wird die Anwendung der Regelungen in Artikel 1 des Gesetzes vom 16. Juni 2017 (BGBl. I S. 1648) nach Ablauf des Jahres 2019 auf wissenschaftlicher Grundlage evaluieren. Die Bundesregierung unterrichtet den Deutschen Bundestag über die Ergebnisse der Evaluierung.
 
 
 ### § 1d Kraftfahrzeuge mit autonomer Fahrfunktion in festgelegten Betriebsbereichen
@@ -428,7 +428,7 @@ Die für die Genehmigung von festgelegten Betriebsbereichen nach Bundes- oder La
 
 ### § 1j Verordnungsermächtigung
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten der Zulassung und des Betriebs von Kraftfahrzeugen mit autonomer Fahrfunktion auf öffentlichen Straßen nach den §§ 1d bis 1i zu regeln betreffend
+(1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten der Zulassung und des Betriebs von Kraftfahrzeugen mit autonomer Fahrfunktion auf öffentlichen Straßen nach den §§ 1d bis 1i zu regeln betreffend
 
 1.  die technischen Anforderungen und das Verfahren zur Erteilung einer Betriebserlaubnis gemäß § 1e Absatz 2 bis 4 durch das Kraftfahrt-Bundesamt, einschließlich
 
@@ -487,19 +487,19 @@ Die für die Genehmigung von festgelegten Betriebsbereichen nach Bundes- oder La
 
 
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Ausnahmen von den auf Grundlage des Absatzes 1 erlassenen Rechtsverordnungen zur Erprobung neuartiger Fahrzeugsteuerungseinrichtungen zu regeln. Es wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates diese Ermächtigung auf das Kraftfahrt-Bundesamt zu übertragen.
+(2) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Ausnahmen von den auf Grundlage des Absatzes 1 erlassenen Rechtsverordnungen zur Erprobung neuartiger Fahrzeugsteuerungseinrichtungen zu regeln. Es wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates diese Ermächtigung auf das Kraftfahrt-Bundesamt zu übertragen.
 
 
 ### § 1k Ausnahmen
 
-(1) Für Kraftfahrzeuge mit autonomer Fahrfunktion gemäß § 1d Absatz 1, die für militärische, nachrichtendienstliche oder polizeiliche Zwecke, für Zwecke der Zollfahndung, des Zivil- oder Katastrophenschutzes, der Brandbekämpfung, der Straßenbauverwaltung oder der Rettungsdienste bestimmt sind, können das Bundesministerium der Finanzen, das Bundesministerium des Innern, für Bau und Heimat, das Bundesministerium der Verteidigung, das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundeskanzleramt und die nach Landesrecht zuständigen Behörden Dienststellen in ihren jeweiligen Geschäftsbereichen, das Bundesministerium der Verteidigung Dienststellen der Bundeswehr bestimmen, die die Aufgaben des Kraftfahrt-Bundesamts an dessen Stelle für den jeweiligen Geschäftsbereich wahrnehmen.
+(1) Für Kraftfahrzeuge mit autonomer Fahrfunktion gemäß § 1d Absatz 1, die für militärische, nachrichtendienstliche oder polizeiliche Zwecke, für Zwecke der Zollfahndung, des Zivil- oder Katastrophenschutzes, der Brandbekämpfung, der Straßenbauverwaltung oder der Rettungsdienste bestimmt sind, können das Bundesministerium der Finanzen, das Bundesministerium des Innern und für Heimat, das Bundesministerium der Verteidigung, das Bundesministerium für Digitales und Verkehr, das Bundeskanzleramt und die nach Landesrecht zuständigen Behörden Dienststellen in ihren jeweiligen Geschäftsbereichen, das Bundesministerium der Verteidigung Dienststellen der Bundeswehr bestimmen, die die Aufgaben des Kraftfahrt-Bundesamts an dessen Stelle für den jeweiligen Geschäftsbereich wahrnehmen.
 
 (2) Kraftfahrzeuge mit autonomer Fahrfunktion, die in der Bundeswehr, in der Bundespolizei, im Bundeskriminalamt, im Bundesnachrichtendienst, im Bundesamt für Verfassungsschutz, im Zollkriminalamt, in der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes, in der Landespolizei, in den Landeskriminalämtern, in den Landesämtern für Verfassungsschutz, im Zivil- und Katastrophenschutz, in den Feuerwehren, in den Rettungsdiensten oder in den Straßenbauverwaltungen eingesetzt werden, dürfen von den technischen Vorgaben, von Regelungen zur Festlegung von Betriebsbereichen und von Betriebsvorschriften sowie von den gemäß § 1j Absatz 1 erlassenen Verordnungen abweichen, wenn die Kraftfahrzeuge zur Erfüllung hoheitlicher Aufgaben bestimmt, für diese Zwecke gebaut oder ausgerüstet sind und wenn gewährleistet ist, dass die Kraftfahrzeuge unter gebührender Berücksichtigung der öffentlichen Sicherheit eingesetzt werden. Technische Voraussetzungen, Regelungen zur Festlegung von Betriebsbereichen und Betriebsvorschriften sind dabei sinngemäß anzuwenden, sofern es der jeweilige Zweck nach Absatz 1 zulässt; Abweichungen sind auf das zwingend erforderliche Maß zu beschränken.
 
 
 ### § 1l Evaluierung
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird die Anwendung der Regelungen des Gesetzes vom 12. Juli 2021 (BGBl. I S. 3108) nach Ablauf des Jahres 2023 insbesondere im Hinblick auf die Auswirkungen auf die Entwicklung des autonomen Fahrens, die Vereinbarkeit mit Datenschutzvorschriften sowie die aufgrund von Erprobungsgenehmigungen im Sinne des § 1i Absatz 2 gewonnenen Erkenntnisse auf wissenschaftlicher Grundlage in nicht personenbezogener Form evaluieren und den Deutschen Bundestag über die Ergebnisse der Evaluierung unterrichten. Sofern erforderlich, soll das Bundesministerium für Verkehr und digitale Infrastruktur die Evaluierung zu einem von ihm festzulegenden Zeitpunkt bis zum Jahr 2030 erneut durchführen.
+Das Bundesministerium für Digitales und Verkehr wird die Anwendung der Regelungen des Gesetzes vom 12. Juli 2021 (BGBl. I S. 3108) nach Ablauf des Jahres 2023 insbesondere im Hinblick auf die Auswirkungen auf die Entwicklung des autonomen Fahrens, die Vereinbarkeit mit Datenschutzvorschriften sowie die aufgrund von Erprobungsgenehmigungen im Sinne des § 1i Absatz 2 gewonnenen Erkenntnisse auf wissenschaftlicher Grundlage in nicht personenbezogener Form evaluieren und den Deutschen Bundestag über die Ergebnisse der Evaluierung unterrichten. Sofern erforderlich, soll das Bundesministerium für Digitales und Verkehr die Evaluierung zu einem von ihm festzulegenden Zeitpunkt bis zum Jahr 2030 erneut durchführen.
 
 
 ### § 2 Fahrerlaubnis und Führerschein
@@ -906,12 +906,12 @@ Die Empfänger nach Satz 2 haben die Daten unverzüglich zu löschen, wenn sie n
 
 (7) Jeder Inhaber einer Seminarerlaubnis Verkehrspsychologie hat alle zwei Jahre an einer insbesondere die Fahreignung betreffenden verkehrspsychologischen Fortbildung von mindestens sechs Stunden teilzunehmen.
 
-(8) Die Durchführung der verkehrspsychologischen Teilmaßnahme des Fahreignungsseminars unterliegt der Überwachung der nach Landesrecht zuständigen Behörde. Die nach Landesrecht zuständige Behörde kann sich bei der Überwachung geeigneter Personen oder Stellen nach Landesrecht bedienen. Die nach Landesrecht zuständige Behörde hat mindestens alle zwei Jahre an Ort und Stelle zu prüfen, ob die gesetzlichen Anforderungen an die Durchführung der verkehrspsychologischen Teilmaßnahme eingehalten werden. Der Inhaber der Seminarerlaubnis Verkehrspsychologie hat die Prüfung zu ermöglichen. Die in Satz 3 genannte Frist kann von der nach Landesrecht zuständigen Behörde auf vier Jahre verlängert werden, wenn in zwei aufeinanderfolgenden Überprüfungen keine oder nur geringfügige Mängel festgestellt worden sind. Die nach Landesrecht zuständige Behörde kann von der wiederkehrenden Überwachung nach den Sätzen 1 bis 5 absehen, wenn der Inhaber einer Seminarerlaubnis Verkehrspsychologie sich einem von der nach Landesrecht zuständigen Behörde anerkannten Qualitätssicherungssystem angeschlossen hat. Im Fall des Satzes 6 bleibt die Befugnis der nach Landesrecht zuständigen Behörde zur Überwachung im Sinne der Sätze 1 bis 5 unberührt. Das Bundesministerium für Verkehr und digitale Infrastruktur soll durch Rechtsverordnung mit Zustimmung des Bundesrates Anforderung an Qualitätssicherungssysteme und Regeln für die Durchführung der Qualitätssicherung bestimmen.
+(8) Die Durchführung der verkehrspsychologischen Teilmaßnahme des Fahreignungsseminars unterliegt der Überwachung der nach Landesrecht zuständigen Behörde. Die nach Landesrecht zuständige Behörde kann sich bei der Überwachung geeigneter Personen oder Stellen nach Landesrecht bedienen. Die nach Landesrecht zuständige Behörde hat mindestens alle zwei Jahre an Ort und Stelle zu prüfen, ob die gesetzlichen Anforderungen an die Durchführung der verkehrspsychologischen Teilmaßnahme eingehalten werden. Der Inhaber der Seminarerlaubnis Verkehrspsychologie hat die Prüfung zu ermöglichen. Die in Satz 3 genannte Frist kann von der nach Landesrecht zuständigen Behörde auf vier Jahre verlängert werden, wenn in zwei aufeinanderfolgenden Überprüfungen keine oder nur geringfügige Mängel festgestellt worden sind. Die nach Landesrecht zuständige Behörde kann von der wiederkehrenden Überwachung nach den Sätzen 1 bis 5 absehen, wenn der Inhaber einer Seminarerlaubnis Verkehrspsychologie sich einem von der nach Landesrecht zuständigen Behörde anerkannten Qualitätssicherungssystem angeschlossen hat. Im Fall des Satzes 6 bleibt die Befugnis der nach Landesrecht zuständigen Behörde zur Überwachung im Sinne der Sätze 1 bis 5 unberührt. Das Bundesministerium für Digitales und Verkehr soll durch Rechtsverordnung mit Zustimmung des Bundesrates Anforderung an Qualitätssicherungssysteme und Regeln für die Durchführung der Qualitätssicherung bestimmen.
 
 
 ### § 4b Evaluierung
 
-Das Fahreignungsseminar, die Vorschriften hierzu und der Vollzug werden von der Bundesanstalt für Straßenwesen wissenschaftlich begleitet und evaluiert. Die Evaluierung hat insbesondere zu untersuchen, ob das Fahreignungsseminar eine verhaltensverbessernde Wirkung im Hinblick auf die Verkehrssicherheit hat. Die Bundesanstalt für Straßenwesen legt das Ergebnis der Evaluierung bis zum 1. Mai 2019 dem Bundesministerium für Verkehr und digitale Infrastruktur in einem Bericht zur Weiterleitung an den Deutschen Bundestag vor.
+Das Fahreignungsseminar, die Vorschriften hierzu und der Vollzug werden von der Bundesanstalt für Straßenwesen wissenschaftlich begleitet und evaluiert. Die Evaluierung hat insbesondere zu untersuchen, ob das Fahreignungsseminar eine verhaltensverbessernde Wirkung im Hinblick auf die Verkehrssicherheit hat. Die Bundesanstalt für Straßenwesen legt das Ergebnis der Evaluierung bis zum 1. Mai 2019 dem Bundesministerium für Digitales und Verkehr in einem Bericht zur Weiterleitung an den Deutschen Bundestag vor.
 
 
 ### § 5 Verlust von Dokumenten und Kennzeichen
@@ -926,7 +926,7 @@ Besteht eine Verpflichtung zur Ablieferung oder Vorlage eines Führerscheins, Fa
 
 ### § 5b Unterhaltung der Verkehrszeichen
 
-(1) Die Kosten der Beschaffung, Anbringung, Entfernung, Unterhaltung und des Betriebs der amtlichen Verkehrszeichen und -einrichtungen sowie der sonstigen vom Bundesministerium für Verkehr und digitale Infrastruktur zugelassenen Verkehrszeichen und -einrichtungen trägt der Träger der Straßenbaulast für diejenige Straße, in deren Verlauf sie angebracht werden oder angebracht worden sind, bei geteilter Straßenbaulast der für die durchgehende Fahrbahn zuständige Träger der Straßenbaulast. Ist ein Träger der Straßenbaulast nicht vorhanden, so trägt der Eigentümer der Straße die Kosten.
+(1) Die Kosten der Beschaffung, Anbringung, Entfernung, Unterhaltung und des Betriebs der amtlichen Verkehrszeichen und -einrichtungen sowie der sonstigen vom Bundesministerium für Digitales und Verkehr zugelassenen Verkehrszeichen und -einrichtungen trägt der Träger der Straßenbaulast für diejenige Straße, in deren Verlauf sie angebracht werden oder angebracht worden sind, bei geteilter Straßenbaulast der für die durchgehende Fahrbahn zuständige Träger der Straßenbaulast. Ist ein Träger der Straßenbaulast nicht vorhanden, so trägt der Eigentümer der Straße die Kosten.
 
 (2) Diese Kosten tragen abweichend vom Absatz 1
 
@@ -950,7 +950,7 @@ f)  die Träger der Straßenbaulast der Straßen, von denen der Verkehr umgeleit
 
 
 
-(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates bei der Einführung neuer amtlicher Verkehrszeichen und -einrichtungen zu bestimmen, dass abweichend von Absatz 1 die Kosten entsprechend den Regelungen des Absatzes 2 ein anderer zu tragen hat.
+(3) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates bei der Einführung neuer amtlicher Verkehrszeichen und -einrichtungen zu bestimmen, dass abweichend von Absatz 1 die Kosten entsprechend den Regelungen des Absatzes 2 ein anderer zu tragen hat.
 
 (4) Kostenregelungen auf Grund kreuzungsrechtlicher Vorschriften nach Bundes- und Landesrecht bleiben unberührt.
 
@@ -961,7 +961,7 @@ f)  die Träger der Straßenbaulast der Straßen, von denen der Verkehr umgeleit
 
 ### § 6 Verordnungsermächtigungen
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, soweit es zur Abwehr von Gefahren für die Sicherheit oder Leichtigkeit des Verkehrs auf öffentlichen Straßen erforderlich ist, Rechtsverordnungen mit Zustimmung des Bundesrates über Folgendes zu erlassen:
+(1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, soweit es zur Abwehr von Gefahren für die Sicherheit oder Leichtigkeit des Verkehrs auf öffentlichen Straßen erforderlich ist, Rechtsverordnungen mit Zustimmung des Bundesrates über Folgendes zu erlassen:
 
 1.  die Zulassung von Personen zum Straßenverkehr, insbesondere über
 
@@ -1078,7 +1078,7 @@ f)  die Träger der Straßenbaulast der Straßen, von denen der Verkehr umgeleit
     a)  zugunsten schwerbehinderter Menschen mit außergewöhnlicher Gehbehinderung, mit beidseitiger Amelie oder Phokomelie oder vergleichbaren Funktionseinschränkungen sowie zugunsten blinder Menschen,
 
 
-    b)  zugunsten der Bewohner städtischer Quartiere mit erheblichem Parkraummangel,
+    b)  zugunsten der Bewohner städtischer Quartiere mit erheblichem Parkraummangel, der nachweislich besteht oder auf Grund konkretisierter städtebaulich-verkehrsplanerischer Erwägungen zu erwarten ist,
 
 
     c)  zur Erforschung des Unfallgeschehens, des Verkehrsverhaltens, der Verkehrsabläufe oder zur Erprobung geplanter verkehrssichernder oder verkehrsregelnder Maßnahmen,
@@ -1087,7 +1087,7 @@ f)  die Träger der Straßenbaulast der Straßen, von denen der Verkehr umgeleit
 
 
 
-16. die Einrichtung von Sonderfahrspuren für Linienomnibusse und Taxen,
+16. die Einrichtung von Sonderfahrspuren für Linienomnibusse und Taxen sowie zur Erprobung neuer Mobilitätsformen oder der Verringerung der Anzahl von Fahrten,
 
 
 17. die Einrichtung und Nutzung von fahrzeugführerlosen Parksystemen im niedrigen Geschwindigkeitsbereich auf Parkflächen,
@@ -1099,7 +1099,7 @@ f)  die Träger der Straßenbaulast der Straßen, von denen der Verkehr umgeleit
 
 Rechtsverordnungen nach Satz 1 Nummer 18 über allgemeine Ausnahmen von Verkehrsvorschriften nach diesem Gesetz sind für die Dauer von längstens fünf Jahren zu befristen; eine einmalige Verlängerung der Geltungsdauer um längstens fünf Jahre ist zulässig. Rechtsverordnungen können nicht nach Satz 1 erlassen werden über solche Regelungsgegenstände, über die Rechtsverordnungen nach Absatz 2 erlassen werden dürfen. Die Abwehr von Gefahren für die Sicherheit oder Leichtigkeit des Verkehrs auf öffentlichen Straßen nach Satz 1 umfasst auch den straßenverkehrsrechtlichen Schutz von Maßnahmen zur Rettung aus Gefahren für Leib und Leben von Menschen oder den Schutz zivilrechtlicher Schadensersatzansprüche Unfallbeteiligter.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, soweit es zur Abwehr von Gefahren für die Sicherheit oder Leichtigkeit des Verkehrs auf öffentlichen Straßen erforderlich ist, Rechtsverordnungen ohne Zustimmung des Bundesrates über Folgendes zu erlassen:
+(2) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, soweit es zur Abwehr von Gefahren für die Sicherheit oder Leichtigkeit des Verkehrs auf öffentlichen Straßen erforderlich ist, Rechtsverordnungen ohne Zustimmung des Bundesrates über Folgendes zu erlassen:
 
 1.  die Typgenehmigung von Fahrzeugen, Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, sofern sie unionsrechtlichen Vorgaben unterliegt, über die Fahrzeugeinzelgenehmigung, sofern ihr nach Unionrecht eine Geltung in allen Mitgliedstaaten der Europäischen Union zukommt, sowie über das Anbieten zum Verkauf, das Inverkehrbringen, die Inbetriebnahme, das Veräußern oder die Einfuhr von derart genehmigten oder genehmigungspflichtigen Fahrzeugen, Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, insbesondere über
 
@@ -1230,9 +1230,11 @@ Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 1, 2, 5 und 8, auch in Verbindung
 
 
 
+(4a) Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 2, 8, 15 Buchstabe b oder c, Nummer 16 oder 18 können auch erlassen werden zur Verbesserung des Schutzes der Umwelt, darunter des Klimaschutzes, zum Schutz der Gesundheit oder zur Unterstützung der städtebaulichen Entwicklung, soweit sie nicht bereits nach Absatz 4 erlassen werden können. Diese Rechtsverordnungen sollen insbesondere vorsehen, dass Gemeinden bei den nach Landesrecht für die Ausführung der Rechtsverordnungen bestimmten Behörden den Erlass von Anordnungen zur Gewährleistung der Sicherheit und Leichtigkeit des Verkehrs, zur Verbesserung des Schutzes der Umwelt, zum Schutz der Gesundheit oder zur Unterstützung der städtebaulichen Entwicklung beantragen können. Die nach Satz 1 erlassenen Rechtsverordnungen und auf ihnen beruhenden Anordnungen müssen neben der Verbesserung des Schutzes der Umwelt, des Schutzes der Gesundheit oder der Unterstützung der städtebaulichen Entwicklung die Leichtigkeit des Verkehrs berücksichtigen und dürfen die Sicherheit des Verkehrs nicht beeinträchtigen.
+
 (5) Rechtsverordnungen nach Absatz 1 oder 2 können auch zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union und zur Durchführung von zwischenstaatlichen Vereinbarungen im Anwendungsbereich dieses Gesetzes erlassen werden.
 
-(6) Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 1, 5 oder 8 oder nach Absatz 2, sofern sie jeweils in Verbindung mit Absatz 4 Satz 1 Nummer 2 oder Satz 2 Nummer 1 erlassen werden, oder Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 12 werden vom Bundesministerium für Verkehr und digitale Infrastruktur und vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gemeinsam erlassen. Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 11, 13 oder 14 oder nach Absatz 3 Nummer 2 in Verbindung mit Absatz 1 Nummer 1 oder 6 können auch zum Zweck der Bekämpfung von Straftaten erlassen werden. Im Fall des Satzes 2 werden diese Rechtsverordnungen vom Bundesministerium für Verkehr und digitale Infrastruktur und vom Bundesministerium des Innern, für Bau und Heimat gemeinsam erlassen. Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 1, 2, 5 oder 8 oder nach Absatz 2, sofern sie jeweils in Verbindung mit Absatz 4 Satz 1 Nummer 3 erlassen werden, werden vom Bundesministerium für Verkehr und digitale Infrastruktur und vom Bundesministerium der Justiz und für Verbraucherschutz gemeinsam erlassen.
+(6) Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 1, 5 oder 8 oder nach Absatz 2, sofern sie jeweils in Verbindung mit Absatz 4 Satz 1 Nummer 2 oder Satz 2 Nummer 1 erlassen werden, oder Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 12 werden vom Bundesministerium für Digitales und Verkehr und vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz gemeinsam erlassen. Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 11, 13 oder 14 oder nach Absatz 3 Nummer 2 in Verbindung mit Absatz 1 Nummer 1 oder 6 können auch zum Zweck der Bekämpfung von Straftaten erlassen werden. Im Fall des Satzes 2 werden diese Rechtsverordnungen vom Bundesministerium für Digitales und Verkehr und vom Bundesministerium des Innern und für Heimat gemeinsam erlassen. Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 1, 2, 5 oder 8 oder nach Absatz 2, sofern sie jeweils in Verbindung mit Absatz 4 Satz 1 Nummer 3 erlassen werden, werden vom Bundesministerium für Digitales und Verkehr und vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz gemeinsam erlassen. Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 2, 8, 15 Buchstabe b oder c, Nummer 16 oder 18, sofern sie jeweils in Verbindung mit Absatz 4a erlassen werden, werden vom Bundesministerium für Digitales und Verkehr, vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz und vom Bundesministerium für Wirtschaft und Klimaschutz gemeinsam erlassen.
 
 (7) Keiner Zustimmung des Bundesrates bedürfen Rechtsverordnungen
 
@@ -1245,7 +1247,7 @@ Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 1, 2, 5 und 8, auch in Verbindung
 
 Vor ihrem Erlass sind die zuständigen obersten Landesbehörden zu hören.
 
-(8) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates, jedoch unbeschadet des Absatzes 6,
+(8) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates, jedoch unbeschadet des Absatzes 6,
 
 1.  sofern Verordnungen nach diesem Gesetz geändert oder abgelöst werden, Verweisungen in Gesetzen und Rechtsverordnungen auf diese geänderten oder abgelösten Vorschriften durch Verweisungen auf die jeweils inhaltsgleichen neuen Vorschriften zu ersetzen,
 
@@ -1293,7 +1295,7 @@ Vor ihrem Erlass sind die zuständigen obersten Landesbehörden zu hören.
 
 
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, die gebührenpflichtigen Amtshandlungen sowie die Gebührensätze für die einzelnen Amtshandlungen, einschließlich Prüfungen und Überprüfungen im Rahmen der Qualitätssicherung, Abnahmen, Begutachtungen, Untersuchungen, Verwarnungen - ausgenommen Verwarnungen im Sinne des Gesetzes über Ordnungswidrigkeiten -, Informationserteilungen und Registerauskünften im Sinne des Absatzes 1 durch Rechtsverordnung zu bestimmen und dabei feste Sätze, auch in Form von Zeitgebühren, oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den Amtshandlungen, einschließlich Prüfungen, Abnahmen, Begutachtungen, Untersuchungen, Verwarnungen - ausgenommen Verwarnungen im Sinne des Gesetzes über Ordnungswidrigkeiten -, Informationserteilungen und Registerauskünften verbundene Personal- und Sachaufwand gedeckt wird; der Sachaufwand kann den Aufwand für eine externe Begutachtung umfassen; bei begünstigenden Amtshandlungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden. Im Bereich der Gebühren der Landesbehörden übt das Bundesministerium für Verkehr und digitale Infrastruktur die Ermächtigung auf der Grundlage eines Antrags oder einer Stellungnahme von mindestens fünf Ländern beim Bundesministerium für Verkehr und digitale Infrastruktur aus. Der Antrag oder die Stellungnahme sind mit einer Schätzung des Personal- und Sachaufwands zu begründen. Das Bundesministerium für Verkehr und digitale Infrastruktur kann die übrigen Länder ebenfalls zur Beibringung einer Schätzung des Personal- und Sachaufwands auffordern.
+(2) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, die gebührenpflichtigen Amtshandlungen sowie die Gebührensätze für die einzelnen Amtshandlungen, einschließlich Prüfungen und Überprüfungen im Rahmen der Qualitätssicherung, Abnahmen, Begutachtungen, Untersuchungen, Verwarnungen - ausgenommen Verwarnungen im Sinne des Gesetzes über Ordnungswidrigkeiten -, Informationserteilungen und Registerauskünften im Sinne des Absatzes 1 durch Rechtsverordnung zu bestimmen und dabei feste Sätze, auch in Form von Zeitgebühren, oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den Amtshandlungen, einschließlich Prüfungen, Abnahmen, Begutachtungen, Untersuchungen, Verwarnungen - ausgenommen Verwarnungen im Sinne des Gesetzes über Ordnungswidrigkeiten -, Informationserteilungen und Registerauskünften verbundene Personal- und Sachaufwand gedeckt wird; der Sachaufwand kann den Aufwand für eine externe Begutachtung umfassen; bei begünstigenden Amtshandlungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden. Im Bereich der Gebühren der Landesbehörden übt das Bundesministerium für Digitales und Verkehr die Ermächtigung auf der Grundlage eines Antrags oder einer Stellungnahme von mindestens fünf Ländern beim Bundesministerium für Digitales und Verkehr aus. Der Antrag oder die Stellungnahme sind mit einer Schätzung des Personal- und Sachaufwands zu begründen. Das Bundesministerium für Digitales und Verkehr kann die übrigen Länder ebenfalls zur Beibringung einer Schätzung des Personal- und Sachaufwands auffordern.
 
 (3) Im Übrigen findet das Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung Anwendung. In den Rechtsverordnungen nach Absatz 2 können jedoch die Kostenbefreiung, die Kostengläubigerschaft, die Kostenschuldnerschaft, der Umfang der zu erstattenden Auslagen und die Kostenerhebung abweichend von den Vorschriften des Verwaltungskostengesetzes geregelt werden.
 
@@ -1309,10 +1311,10 @@ Vor ihrem Erlass sind die zuständigen obersten Landesbehörden zu hören.
 
 (8) Die Zulassung eines Fahrzeugs oder die Zuteilung eines Kennzeichens für ein zulassungsfreies Fahrzeug kann durch Rechtsvorschriften davon abhängig gemacht werden, dass die nach Absatz 1 in Verbindung mit einer Rechtsverordnung nach Absatz 2 für die Zulassung des Fahrzeugs oder Zuteilung des Kennzeichens vorgesehenen Gebühren und Auslagen, einschließlich rückständiger Gebühren und Auslagen aus vorausgegangenen Zulassungsvorgängen, entrichtet sind. Eine solche Regelung darf
 
-1.  für den Fall eines in bundesrechtlichen Vorschriften geregelten internetbasierten Zulassungsverfahrens vom Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung mit Zustimmung des Bundesrates,
+1.  für den Fall eines in bundesrechtlichen Vorschriften geregelten internetbasierten Zulassungsverfahrens vom Bundesministerium für Digitales und Verkehr durch Rechtsverordnung mit Zustimmung des Bundesrates,
 
 
-2.  von den Ländern in den übrigen Fällen sowie im Fall der Nummer 1, solange und soweit das Bundesministerium für Verkehr und digitale Infrastruktur von seiner Ermächtigung nach Nummer 1 nicht Gebrauch gemacht hat,
+2.  von den Ländern in den übrigen Fällen sowie im Fall der Nummer 1, solange und soweit das Bundesministerium für Digitales und Verkehr von seiner Ermächtigung nach Nummer 1 nicht Gebrauch gemacht hat,
 
 
 
@@ -1342,7 +1344,7 @@ getroffen werden.
 
 ### § 6c Herstellung, Vertrieb und Ausgabe von Kennzeichenvorprodukten
 
-§ 6b Abs. 1, 3, 4 Nr. 1 sowie Abs. 5 gilt entsprechend für die Herstellung, den Vertrieb oder die Ausgabe von bestimmten - nach näherer Bestimmung durch das Bundesministerium für Verkehr und digitale Infrastruktur festzulegenden (§ 6 Absatz 1 Satz 1 Nummer 6 in Verbindung mit Absatz 3 Nummer 2) - Kennzeichenvorprodukten, bei denen nur noch die Beschriftung fehlt.
+§ 6b Abs. 1, 3, 4 Nr. 1 sowie Abs. 5 gilt entsprechend für die Herstellung, den Vertrieb oder die Ausgabe von bestimmten - nach näherer Bestimmung durch das Bundesministerium für Digitales und Verkehr festzulegenden (§ 6 Absatz 1 Satz 1 Nummer 6 in Verbindung mit Absatz 3 Nummer 2) - Kennzeichenvorprodukten, bei denen nur noch die Beschriftung fehlt.
 
 
 ### § 6d Auskunft und Prüfung
@@ -1356,7 +1358,7 @@ getroffen werden.
 
 ### § 6e Führen von Kraftfahrzeugen in Begleitung
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Senkung des Unfallrisikos junger Fahranfänger die erforderlichen Vorschriften zu erlassen, insbesondere über
+(1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Senkung des Unfallrisikos junger Fahranfänger die erforderlichen Vorschriften zu erlassen, insbesondere über
 
 1.  das Herabsetzen des allgemein vorgeschriebenen Mindestalters zum Führen von Kraftfahrzeugen mit einer Fahrerlaubnis der Klassen B und BE,
 
@@ -1402,7 +1404,7 @@ getroffen werden.
 
 ### § 6f Entgelte für Begutachtungsstellen für Fahreignung
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur kann durch Rechtsverordnung mit Zustimmung des Bundesrates die Entgelte der Begutachtungsstellen für Fahreignung festsetzen, soweit
+Das Bundesministerium für Digitales und Verkehr kann durch Rechtsverordnung mit Zustimmung des Bundesrates die Entgelte der Begutachtungsstellen für Fahreignung festsetzen, soweit
 
 1.  die Begutachtungsstellen aus Anlass von Verwaltungsverfahren nach straßenverkehrsrechtlichen Vorschriften medizinisch-psychologische Untersuchungen durchführen und
 
@@ -1440,7 +1442,7 @@ Ein nach Satz 1 erlassener Verwaltungsakt steht einen Monat, beginnend mit dem T
 
 Personen im Sinne des Satzes 1 müssen fachlich geeignet, zuverlässig, auch hinsichtlich ihrer Finanzen, und unabhängig von den Interessen der sonstigen Beteiligten sein.
 
-(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+(4) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  die Einzelheiten des Erlasses und der Aufhebung eines Verwaltungsaktes im Sinne des Absatzes 2 zu regeln, insbesondere
 
@@ -1517,7 +1519,7 @@ Personen im Sinne des Satzes 1 müssen fachlich geeignet, zuverlässig, auch hin
 
 Das in Satz 1 Nummer 9 vorgesehene Dateisystem darf weder mit dem Zentralen Fahrzeugregister des Kraftfahrt-Bundesamtes noch mit den örtlichen Fahrzeugregistern der Zulassungsbehörden verknüpft werden.
 
-(5) Für Vorschriften des Verwaltungsverfahrens in den Absätzen 1 bis 3 und in Rechtsverordnungen auf Grund des Absatzes 4 kann durch Rechtsverordnung des Bundesministeriums für Verkehr und digitale Infrastruktur mit Zustimmung des Bundesrates vorgeschrieben werden, dass von diesen Vorschriften durch Landesrecht nicht abgewichen werden kann. Die Vorschriften, von denen durch Landesrecht nicht abgewichen werden kann, sind dabei zu nennen.
+(5) Für Vorschriften des Verwaltungsverfahrens in den Absätzen 1 bis 3 und in Rechtsverordnungen auf Grund des Absatzes 4 kann durch Rechtsverordnung des Bundesministeriums für Digitales und Verkehr mit Zustimmung des Bundesrates vorgeschrieben werden, dass von diesen Vorschriften durch Landesrecht nicht abgewichen werden kann. Die Vorschriften, von denen durch Landesrecht nicht abgewichen werden kann, sind dabei zu nennen.
 
 
 ## II. - Haftpflicht
@@ -1838,7 +1840,7 @@ wird, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht i
 
 
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Satz 1 Nummer 2 geahndet werden können.
+Das Bundesministerium für Digitales und Verkehr wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Satz 1 Nummer 2 geahndet werden können.
 
 (3) Die Ordnungswidrigkeit kann in den Fällen
 
@@ -1875,7 +1877,7 @@ geahndet werden.
 
 (4) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu dreitausend Euro geahndet werden.
 
-(5) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium der Justiz und für Verbraucherschutz mit Zustimmung des Bundesrates die Liste der berauschenden Mittel und Substanzen in der Anlage zu dieser Vorschrift zu ändern oder zu ergänzen, wenn dies nach wissenschaftlicher Erkenntnis im Hinblick auf die Sicherheit des Straßenverkehrs erforderlich ist.
+(5) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium der Justiz mit Zustimmung des Bundesrates die Liste der berauschenden Mittel und Substanzen in der Anlage zu dieser Vorschrift zu ändern oder zu ergänzen, wenn dies nach wissenschaftlicher Erkenntnis im Hinblick auf die Sicherheit des Straßenverkehrs erforderlich ist.
 
 
 ### § 24b (weggefallen)
@@ -1941,7 +1943,7 @@ geahndet werden.
 
 ### § 26a Bußgeldkatalog
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
+(1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
 
 1.  die Erteilung einer Verwarnung (§ 56 des Gesetzes über Ordnungswidrigkeiten) wegen einer Ordnungswidrigkeit nach § 24 Absatz 1,
 
@@ -2348,7 +2350,7 @@ Die Absätze 2 und 3 sowie Absatz 4 wegen des Anlasses der Abrufe sind entsprech
 
 ### § 30c Verordnungsermächtigungen, Ausführungsvorschriften
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, Rechtsverordnungen mit Zustimmung des Bundesrates zu erlassen über
+Das Bundesministerium für Digitales und Verkehr wird ermächtigt, Rechtsverordnungen mit Zustimmung des Bundesrates zu erlassen über
 
 1.  den Inhalt der Eintragungen einschließlich der Personendaten nach § 28 Abs. 3,
 
@@ -2375,7 +2377,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 
 
-Die Rechtsverordnungen nach Satz 1 Nummer 7, soweit Justizbehörden betroffen sind, und nach Satz 1 Nummer 8 werden im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz erlassen.
+Die Rechtsverordnungen nach Satz 1 Nummer 7, soweit Justizbehörden betroffen sind, und nach Satz 1 Nummer 8 werden im Einvernehmen mit dem Bundesministerium der Justiz erlassen.
 
 
 ## V. - Fahrzeugregister
@@ -3264,7 +3266,7 @@ Auf die Verarbeitung von Daten, die keinen Bezug zu einer bestimmten oder bestim
 
 ### § 47 Verordnungsermächtigungen, Ausführungsvorschriften
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, Rechtsverordnung mit Zustimmung des Bundesrates zu erlassen
+Das Bundesministerium für Digitales und Verkehr wird ermächtigt, Rechtsverordnung mit Zustimmung des Bundesrates zu erlassen
 
 1.  darüber,
 
@@ -3555,7 +3557,7 @@ Auskunft erteilt werden.
 
 ### § 63 Verordnungsermächtigungen, Ausführungsvorschriften
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, Rechtsverordnungen mit Zustimmung des Bundesrates zu erlassen
+Das Bundesministerium für Digitales und Verkehr wird ermächtigt, Rechtsverordnungen mit Zustimmung des Bundesrates zu erlassen
 
 1.  über die Übermittlung der Daten durch den Hersteller von Führerscheinen an das Kraftfahrt-Bundesamt und die dortige Speicherung nach § 48 Abs. 3 Satz 4,
 
@@ -3614,7 +3616,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 ### § 63b Verordnungsermächtigungen
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Benehmen mit der Beauftragten für den Datenschutz und die Informationsfreiheit, zur Durchführung von § 63a Rechtsverordnungen zu erlassen über
+Das Bundesministerium für Digitales und Verkehr wird ermächtigt, im Benehmen mit der Beauftragten für den Datenschutz und die Informationsfreiheit, zur Durchführung von § 63a Rechtsverordnungen zu erlassen über
 
 1.  die technische Ausgestaltung und den Ort des Speichermediums sowie die Art und Weise der Speicherung gemäß § 63a Absatz 1,
 
@@ -3670,7 +3672,7 @@ Alle Daten sind von der in Absatz 1 genannten Behörde, sofern sie nach den vorg
 
 ### § 63d Informationen an die Halter
 
-Das Kraftfahrt-Bundesamt darf die nach § 33 Absatz 1 gespeicherten Fahrzeugdaten und Halterdaten im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur zu den in § 32 Absatz 3 genannten Zwecken verwenden und im Einzelfall schriftliche Informationen an die Fahrzeughalter übermitteln, um sie über Maßnahmen im Sinne des § 32 Absatz 3 zu informieren. Das Bundesministerium für Verkehr und digitale Infrastruktur erteilt sein Einvernehmen nach Satz 1, wenn es die jeweilige Maßnahme für geeignet hält, die in § 32 Absatz 3 Nummer 2 genannten Zwecke unter Berücksichtigung der Umstände des Einzelfalls und unter Abwägung dieser Zwecke mit den Interessen der betroffenen Fahrzeughalter angemessen zu fördern. Die Eignung der angemessenen Zweckförderung wird bei staatlich geförderten Maßnahmen vermutet, so dass das Einvernehmen ohne nähere Prüfung erteilt werden darf.
+Das Kraftfahrt-Bundesamt darf die nach § 33 Absatz 1 gespeicherten Fahrzeugdaten und Halterdaten im Einvernehmen mit dem Bundesministerium für Digitales und Verkehr zu den in § 32 Absatz 3 genannten Zwecken verwenden und im Einzelfall schriftliche Informationen an die Fahrzeughalter übermitteln, um sie über Maßnahmen im Sinne des § 32 Absatz 3 zu informieren. Das Bundesministerium für Digitales und Verkehr erteilt sein Einvernehmen nach Satz 1, wenn es die jeweilige Maßnahme für geeignet hält, die in § 32 Absatz 3 Nummer 2 genannten Zwecke unter Berücksichtigung der Umstände des Einzelfalls und unter Abwägung dieser Zwecke mit den Interessen der betroffenen Fahrzeughalter angemessen zu fördern. Die Eignung der angemessenen Zweckförderung wird bei staatlich geförderten Maßnahmen vermutet, so dass das Einvernehmen ohne nähere Prüfung erteilt werden darf.
 
 
 ### § 63e Datenerhebung, Datenspeicherung und Datenverwendung für das Verkehrsmanagement
@@ -3811,7 +3813,7 @@ Die Bundesanstalt für Straßenwesen darf die personenbezogenen Daten nach Absat
 
 (3) Die personenbezogenen Daten nach Absatz 1 dürfen von der Bundesanstalt für Straßenwesen ausschließlich für den in Absatz 1 genannten Zweck verarbeitet werden und nur zum Zweck der Erhebung weiterer Daten nach Absatz 1 übermittelt werden. Sie sind unverzüglich nach Erreichen des Erhebungsumfangs in der Unfallakte oder nach sonstiger Beendigung der Erhebung zu anonymisieren. Eine Verarbeitung der personenbezogenen Daten durch Dritte zu anderen Zwecken oder eine Beschlagnahme dieser Daten bei der Bundesanstalt für Straßenwesen nach anderen Rechtsvorschriften ist unzulässig.
 
-(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, Rechtsverordnungen zu erlassen über die Verarbeitung von Straßenverkehrs- und Unfalldaten durch die Bundesanstalt für Straßenwesen zum Zweck der Verkehrsunfallforschung, insbesondere über
+(4) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, Rechtsverordnungen zu erlassen über die Verarbeitung von Straßenverkehrs- und Unfalldaten durch die Bundesanstalt für Straßenwesen zum Zweck der Verkehrsunfallforschung, insbesondere über
 
 1.  die Art und den Umfang der zu verarbeitenden nichtpersonenbezogenen Daten und
 

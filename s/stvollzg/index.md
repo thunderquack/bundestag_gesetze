@@ -19,6 +19,15 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 27 G v. 5.10.2021 I 4607
 
+Änderung durch
+:   Art. 5 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 6 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 7 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -1249,6 +1258,12 @@ Vollzug der Disziplinarmaßnahmen.
 #### § 110a Elektronische Aktenführung; Verordnungsermächtigungen
 
 (1) Die Gerichtsakten können elektronisch geführt werden. Die Landesregierungen bestimmen durch Rechtsverordnung den Zeitpunkt, von dem an die Akten elektronisch geführt werden. Sie können die Einführung der elektronischen Aktenführung dabei auf einzelne Gerichte oder auf allgemein bestimmte Verfahren beschränken und bestimmen, dass Akten, die in Papierform angelegt wurden, auch nach Einführung der elektronischen Aktenführung in Papierform weitergeführt werden; wird von der Beschränkungsmöglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren die Akten elektronisch zu führen sind. Die Ermächtigung kann durch Rechtsverordnung auf die zuständigen Landesministerien übertragen werden.
+
+(1a) Die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die vor dem 1. Januar 2026 in Papierform angelegt wurden, ab einem bestimmten Stichtag oder Ereignis in elektronischer Form weitergeführt werden. Die Zulassung der Weiterführung in elektronischer Form kann auf einzelne Gerichte oder auf allgemein bestimmte Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in elektronischer Form weitergeführt werden. Die Ermächtigung kann durch Rechtsverordnung auf die zuständigen Landesministerien übertragen werden.
+
+(1b) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 in Papierform erstellt, geführt und übermittelt werden. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
+
+(1c) Die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die elektronisch angelegt wurden, ab einem bestimmten Ereignis bis zum 31. Dezember 2025 in Papierform weitergeführt werden. Die Zulassung der Weiterführung in Papierform kann auf einzelne Gerichte oder auf allgemein bestimmte Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in elektronischer Form weitergeführt werden. Die Ermächtigung kann durch Rechtsverordnung auf die zuständigen Landesministerien übertragen werden.
 
 (2) Die Landesregierungen bestimmen durch Rechtsverordnung die für die elektronische Aktenführung geltenden organisatorischen und dem Stand der Technik entsprechenden technischen Rahmenbedingungen einschließlich der einzuhaltenden Anforderungen des Datenschutzes, der Datensicherheit und der Barrierefreiheit. Sie können die Ermächtigung durch Rechtsverordnung auf die zuständigen Landesministerien übertragen.
 

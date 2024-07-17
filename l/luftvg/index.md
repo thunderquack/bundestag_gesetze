@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.5.2007 I 698;
 
 Zuletzt geändert durch
-:   Art. 15 G v. 8.10.2023 I Nr. 272
-
-Änderung durch
-:   Art. 6 G v. 22.12.2023 I Nr. 409 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 22.12.2023 I Nr. 409
 
 
 ## Erster Abschnitt - Luftverkehr
@@ -1578,7 +1575,7 @@ Absatz 1 Nummer 13 Satz 2 bis 5 gilt entsprechend.
 
 (5a) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach § 58 Abs. 1 Nr. 13 geahndet werden können.
 
-(5b) Die Festlegung und Änderung von Gebühren nach Absatz 5 Satz 1 Nummer 4 bedürfen des Einvernehmens mit dem Bundesministerium der Finanzen. Die Gebühren werden zur Deckung des Verwaltungsaufwands erhoben. Zur Ermittlung des Verwaltungsaufwands sind die Kosten, die nach betriebswirtschaftlichen Grundsätzen als Einzel-und Gemeinkosten zurechenbar und ansatzfähig sind, insbesondere Personal- und Sachkosten sowie kalkulatorische Kosten, zugrunde zu legen.
+(5b) Die Festlegung und Änderung von Gebühren nach Absatz 5 Satz 1 Nummer 4 bedürfen des Einvernehmens mit dem Bundesministerium der Finanzen. Die Gebühren werden zur Deckung des Verwaltungsaufwands erhoben. Zur Ermittlung des Verwaltungsaufwands sind die Kosten, die nach betriebswirtschaftlichen Grundsätzen als Einzel- und Gemeinkosten zurechenbar und ansatzfähig sind, insbesondere Personal- und Sachkosten sowie kalkulatorische Kosten, zugrunde zu legen.
 
 (6) Das Bundesministerium für Digitales und Verkehr erlässt die zur Durchführung dieses Gesetzes und der dazu ergangenen Rechtsverordnungen notwendigen allgemeinen Verwaltungsvorschriften. Allgemeine Verwaltungsvorschriften zur Durchführung der in § 31 Abs. 2 bezeichneten Aufgaben bedürfen der Zustimmung des Bundesrates. Soweit die allgemeinen Verwaltungsvorschriften dem Schutz vor Fluglärm oder dem Schutz vor Luftverunreinigungen durch Luftfahrzeuge dienen, werden sie vom Bundesministerium für Digitales und Verkehr und vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz mit Zustimmung des Bundesrates erlassen.
 

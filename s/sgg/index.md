@@ -21,6 +21,15 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 22.3.2024 I Nr. 105
 
+Änderung durch
+:   Art. 25 G v. 12.7.2024 I Nr. 234 mWv 17.7.2024 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 26 G v. 12.7.2024 I Nr. 234 mWv 1.1.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 27 G v. 12.7.2024 I Nr. 234 mWv 1.1.2036 noch nicht berücksichtigt
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 

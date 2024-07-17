@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 36 G v. 10.8.2021 I 3436
 
+Änderung durch
+:   Art. 37 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Neufassung des Anfechtungsgesetzes
 
@@ -589,6 +592,13 @@ Auf Insolvenzverfahren, die vor dem 31. Dezember 2020 beantragt worden sind, sin
 ### Art 103m Überleitungsvorschrift zum Sanierungs- und Insolvenzrechtsfortentwicklungsgesetz
 
 Auf Insolvenzverfahren, die vor dem 1. Januar 2021 beantragt worden sind, sind die bis dahin geltenden Vorschriften weiter anzuwenden. § 15b der Insolvenzordnung in der Fassung des Sanierungs- und Insolvenzrechtsfortentwicklungsgesetzes vom 22. Dezember 2020 (BGBl. I S. 3256) ist erstmals auf Zahlungen anzuwenden, die nach dem 31. Dezember 2020 vorgenommen worden sind. Auf Zahlungen, die vor dem 1. Januar 2021 vorgenommen worden sind, sind die bis zum 31. Dezember 2020 geltenden gesetzlichen Vorschriften weiterhin anzuwenden.
+
+
+### Art 103n Überleitungsvorschrift zum Gesetz zur weiteren Digitalisierung der Justiz
+
+(1) Auf Insolvenzverfahren, die vor dem 17. Juli 2024 eröffnet worden sind, sind § 5 Absatz 5 und § 8 Absatz 3 der Insolvenzordnung in der bis dahin geltenden Fassung weiter anzuwenden. § 5 Absatz 6 und § 28 Absatz 4 der Insolvenzordnung sind auf diese Verfahren nicht anzuwenden.
+
+(2) § 174 Absatz 4 Satz 1 und 2 der Insolvenzordnung in der ab dem 17. Juli 2024 geltenden Fassung ist auch auf solche Insolvenzverfahren anzuwenden, die vor dem 17. Juli 2024 eröffnet worden sind.
 
 
 ## Art 104 Anwendung des neuen Rechts
