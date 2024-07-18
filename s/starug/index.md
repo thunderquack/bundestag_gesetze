@@ -1250,7 +1250,9 @@ Auf Antrag des Schuldners stellt das Gericht in einem Beschluss seine internatio
 
 #### § 86 Öffentliche Bekanntmachung; Verordnungsermächtigung
 
-(1) Die öffentliche Bekanntmachung erfolgt durch eine zentrale und länderübergreifende Veröffentlichung im Internet \*) www.restrukturierungsbekanntmachung.de; diese kann auszugsweise geschehen. Die Bekanntmachung gilt als bewirkt, sobald nach dem Tag der Veröffentlichung zwei weitere Tage verstrichen sind.
+[^BJNR325610020BJNE008701125_1]
+(1) Die öffentliche Bekanntmachung erfolgt durch eine zentrale und länderübergreifende Veröffentlichung im Internet
+; diese kann auszugsweise geschehen. Die Bekanntmachung gilt als bewirkt, sobald nach dem Tag der Veröffentlichung zwei weitere Tage verstrichen sind.
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der zentralen und länderübergreifenden Veröffentlichung im Internet zu regeln. Dabei sind insbesondere Löschungsfristen vorzusehen sowie Vorschriften, die sicherstellen, dass die Veröffentlichungen
 
@@ -1264,6 +1266,8 @@ Auf Antrag des Schuldners stellt das Gericht in einem Beschluss seine internatio
 
 (3) Die öffentliche Bekanntmachung genügt zum Nachweis der Zustellung an alle Beteiligten, auch wenn dieses Gesetz neben ihr eine besondere Zustellung vorschreibt.
 
+    www.restrukturierungsbekanntmachung.de
+[^BJNR325610020BJNE008701125_1]: 
 
 #### § 87 Restrukturierungsforum; Verordnungsermächtigung
 

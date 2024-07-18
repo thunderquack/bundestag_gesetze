@@ -22,10 +22,10 @@ Zuletzt geändert durch
 :   Art. 6 G v. 19.12.2022 I 2632
 
 Änderung durch
-:   Art. 20 G v. 12.7.2024 I Nr. 234 mWv 17.7.2024 noch nicht berücksichtigt
+:   Art. 20 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 21 G v. 12.7.2024 I Nr. 234 mWv 1.1.2036 noch nicht berücksichtigt
+:   Art. 21 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Anwendungsbereich
@@ -1260,12 +1260,12 @@ Im Zusammenhang mit deutschen Rechtshilfeersuchen kann einem ausländischen Staa
 
 kann die Urschrift bereits vor Abschluss des Verfahrens vernichtet werden. Verfahrensinterne Erklärungen des Betroffenen und Dritter sowie ihnen beigefügte einfache Abschriften können unter den Voraussetzungen von Satz 1 vernichtet werden.
 
-(7) Im Übrigen gelten für die elektronische Kommunikation und die elektronische Aktenführung § 32 Absatz 1 Satz 3 zweiter Halbsatz und Absatz 2, § 32a Absatz 4 Satz 1 Nummer 1 bis 5, Absatz 5 Satz 2 und Absatz 6 Satz 2, § 32b Absatz 1 bis 4, § 32c Satz 1 bis 4, § 32d Satz 1, § 32e Absatz 2 bis 4, die §§ 32f sowie 497 der Strafprozessordnung sinngemäß. Abweichend von § 32b Absatz 1 Satz 2 der Strafprozessordnung ist bei der automatisierten Herstellung eines zu signierenden elektronischen Dokuments statt seiner die begleitende Verfügung zu signieren. § 32c Satz 1 gilt mit der Maßgabe, dass die Zustimmung des Bundesrates nicht erforderlich ist.
+(7) Im Übrigen gelten für die elektronische Kommunikation und die elektronische Aktenführung § 32 Absatz 1 Satz 3 zweiter Halbsatz und Absatz 2, § 32a Absatz 3 und 4 Satz 1 Nummer 1 bis 5, Absatz 5 Satz 2 und Absatz 6 Satz 2, § 32b Absatz 1 bis 4, § 32c Satz 1 bis 4, § 32d Satz 1, § 32e Absatz 2 bis 4, die §§ 32f und 497 der Strafprozessordnung sowie § 15 Absatz 1 des Einführungsgesetzes zur Strafprozessordnung sinngemäß. Abweichend von § 32b Absatz 1 Satz 2 der Strafprozessordnung ist bei der automatisierten Herstellung eines zu signierenden elektronischen Dokuments statt seiner die begleitende Verfügung zu signieren. § 32c Satz 1 gilt mit der Maßgabe, dass die Zustimmung des Bundesrates nicht erforderlich ist.
 
 
 #### § 77b Verordnungsermächtigung
 
-Das Bundesministerium der Justiz und für Verbraucherschutz und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung,
+(1) Das Bundesministerium der Justiz und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung,
 
 1.  den Zeitpunkt, von dem an elektronische Dokumente nach § 77a Absatz 1 eingereicht werden können,
 
@@ -1283,7 +1283,16 @@ Das Bundesministerium der Justiz und für Verbraucherschutz und die Landesregier
 
 
 
-Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Die Zulassung der elektronischen Übermittlung nach § 77a Absatz 1 kann auf einzelne Gerichte und Behörden sowie auf einzelne Verfahren beschränkt werden. Die elektronische Aktenführung nach § 77a Absatz 4 kann auf das Verfahren bei einzelnen Behörden oder auf Verfahrensabschnitte beschränkt werden.
+(2) Das Bundesministerium der Justiz und die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen,
+
+1.  dass Akten, die vor dem in Absatz 1 Nummer 3 bezeichneten Zeitpunkt in Papierform angelegt wurden, ab einem bestimmten Stichtag oder Ereignis in elektronischer Form weitergeführt werden und
+
+
+2.  dass Akten, die elektronisch angelegt wurden, ab einem bestimmten Ereignis in Papierform weitergeführt werden.
+
+
+
+(3) Die elektronische Aktenführung nach § 77a Absatz 4 sowie die Zulassung der Weiterführung in elektronischer beziehungsweise Papierform können jeweils auf einzelne Gerichte oder Behörden oder auf allgemein bestimmte Verfahren oder Verfahrensabschnitte beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren oder Verfahrensabschnitten die Akten elektronisch geführt werden oder geführt werden können und in welchen Verfahren oder Verfahrensabschnitten die Akten in elektronischer beziehungsweise Papierform weitergeführt werden. Die Rechtsverordnung des Bundesministeriums der Justiz bedarf nicht der Zustimmung des Bundesrates. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Die Zulassung der elektronischen Übermittlung nach § 77a Absatz 1 kann auf einzelne Gerichte und Behörden sowie auf einzelne Verfahren oder Verfahrensabschnitte beschränkt werden.
 
 
 ### Abschnitt 2 - Schutz personenbezogener Daten im Rechtshilfeverkehr

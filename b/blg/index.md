@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1956, 815
 
 Zuletzt geändert durch
-:   Art. 27 G v. 23.6.2021 I 1858
+:   Art. 19 G v. 15.7.2024 I Nr. 236
 
 
 ## Grundvorschrift

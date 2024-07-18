@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2018, 127
 
 Änderung durch
-:   Art. 1 AnO v. 28.6.2024 I Nr. 232 mWv 1.4.2024 bzw. 1.10.2024 noch nicht berücksichtigt
+:   Art. 1 AnO v. 28.6.2024 I Nr. 232 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt AnO 860-3-31 v. 22.7.2008 I 1405 (BAVorstBeamtRuaAnO 2008)
 
@@ -187,7 +187,7 @@ ordnet der Vorstand der Bundesagentur für Arbeit an:
     4.4 Die Befugnis zu Entscheidungen nach § 78a Absatz 4 des Bundesbeamtengesetzes (Zahlung durch den Dienstherrn bei Schmerzensgeldansprüchen) wird übertragen auf die Geschäftsführerinnen und Geschäftsführer oder die Vorsitzenden der Geschäftsführungen der Agenturen für Arbeit, die Vorsitzenden der Geschäftsführungen der Regionaldirektionen, die Leiterinnen und Leiter der besonderen Dienststellen, sowie die Geschäftsführerin oder den Geschäftsführer Personal und Organisationsentwicklung in der Zentrale soweit sie nach Maßgabe der Nummer 1 für die Ernennung zuständig sind.
 
 
-    4.5 Die Befugnis nach § 66 des Bundesbeamtengesetzes, die Führung der Dienstgeschäfte zu verbieten, wird übertragen auf den für die Erhebung der Disziplinarklage zuständigen Dienstvorgesetzten.
+    4.5 Nach § 66 des Bundesbeamtengesetzes wird die Befugnis, die Führung der Dienstgeschäfte zu verbieten, auf die für die Zurückstufung oder die Entfernung aus dem Beamtenverhältnis zuständigen Dienstvorgesetzten übertragen.
 
 
 
@@ -206,14 +206,14 @@ ordnet der Vorstand der Bundesagentur für Arbeit an:
 
 **7.** **Befugnisse nach dem Bundesdisziplinargesetz**
 
-    Die Befugnisse als oberste Dienstbehörde im Sinne des Bundesdisziplinargesetzes werden im Rahmen der dem Vorstand der Bundesagentur für Arbeit nach § 1 Nummer 1 der Verordnung zur Durchführung des Bundesdisziplinargesetzes bei den bundesunmittelbaren Körperschaften mit Dienstherrnfähigkeit im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales übertragenen Befugnisse – mit Ausnahme für die Mitglieder der Geschäftsführung der Agenturen für Arbeit sowie für die Leiterinnen und Leiter der besonderen Dienststellen – wie folgt übertragen:
+    Im Rahmen der dem Vorstand der Bundesagentur für Arbeit nach § 1 Nummer 1 der Verordnung zur Durchführung des Bundesdisziplinargesetzes bei den bundesunmittelbaren Körperschaften mit Dienstherrnfähigkeit im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales übertragenen Befugnisse werden – mit Ausnahme für die Mitglieder der Geschäftsführung der Agenturen für Arbeit sowie für die Leiterinnen und Leiter der besonderen Dienststellen – wie folgt übertragen:
 
-    7.1 Nach § 33 Absatz 3 Nummer 1 in Verbindung mit Absatz 5 des Bundesdisziplinargesetzes die Befugnis, die Kürzung der Dienstbezüge bis zum Höchstmaß festzusetzen, richtet sich nach Nummer 1 mit folgender Ausnahme:
+    7.1 Nach § 34 Absatz 5 des Bundesdisziplinargesetzes wird die Befugnis, nach § 34 Absatz 2 Nummer 1 die Kürzung der Dienstbezüge bis zum Höchstmaß festzusetzen, auf die nach Nummer 1 für die Ernennung, Entlassung und Versetzung in den Ruhestand zuständigen Dienstvorgesetzten mit folgender Ausnahme übertragen:
 
         Für die in Nummer 1.1.1 genannten Beamtinnen und Beamten der Agenturen für Arbeit sind die Vorsitzenden der Geschäftsführungen der jeweiligen Regionaldirektion zuständig.
 
 
-    7.2 Nach § 34 Absatz 1 des Bundesdisziplinargesetzes richtet sich die Befugnis, Disziplinarklage zu erheben, nach Nummer 1 mit folgender Ausnahme:
+    7.2 Nach § 34 Absatz 5 des Bundesdisziplinargesetzes wird die Befugnis, nach § 34 Absatz 4 die Zurückstufung oder die Entfernung aus dem Beamtenverhältnis auszusprechen, auf die nach Nummer 1 für die Ernennung, Entlassung und Versetzung in den Ruhestand zuständigen Dienstvorgesetzten mit folgender Ausnahme übertragen:
 
         Für die in Nummer 1.1.1 genannten Beamtinnen und Beamten der Agenturen für Arbeit sind die Vorsitzenden der Geschäftsführung der jeweiligen Regionaldirektion zuständig.
 
@@ -248,7 +248,17 @@ ordnet der Vorstand der Bundesagentur für Arbeit an:
 Der Vorstand kann die übertragenen Befugnisse in Einzelfällen selbst ausüben. Der Vorbehalt gilt entsprechend im Verhältnis der Vorsitzenden der Geschäftsführung der Regionaldirektionen zu den Vorsitzenden der Geschäftsführung der Agenturen für Arbeit oder Geschäftsführerinnen oder Geschäftsführern der Agenturen für Arbeit in deren Bezirk.
 
 
-## III. Schlussvorschriften
+## III. Übergangsregelungen
+
+Die Anordnung des Vorstands der Bundesagentur für Arbeit über die Übertragung von Befugnissen auf dem Gebiet des Beamten-, Versorgungs- und Disziplinarrechts in der Fassung vom 28. Dezember 2017 (BGBl. 2018 I S. 127) ist weiterhin anzuwenden:
+
+a)  auf vor dem 1. April 2024 eingeleitete Disziplinarverfahren,
+
+
+
+
+
+## IV. Schlussvorschriften
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung in Kraft. Gleichzeitig wird die Anordnung des Vorstands der Bundesagentur für Arbeit über die Übertragung von Befugnissen auf dem Gebiet des Beamten-, Versorgungs- und Disziplinarrechts vom 22. Juli 2008 (BGBl. I S. 1405) aufgehoben.
 
