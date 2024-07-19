@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 10.8.2021 I 3424
 
+Änderung durch
+:   Art. 14 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 14 G v. 15.7.2024 I Nr. 237 ist berücksichtigt
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -2449,14 +2455,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   2015
-
-    *   Pauschale für die Inanspruchnahme von Videokonferenzverbindung:
-        je Verfahren für jede angefangene halbe Stunde ..........
-
-    *   15,00 €
-
-
-*    *   2016
 
     *   Umsatzsteuer auf die Kosten
         Dies gilt nicht, wenn die Umsatzsteuer nach § 19 Abs. 1 UStG unerhoben bleibt.

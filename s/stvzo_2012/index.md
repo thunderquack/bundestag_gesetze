@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 679
 
 Zuletzt geändert durch
-:   Art. 8 V v. 20.7.2023 I Nr. 199
-
-Änderung durch
-:   Art. 1 V v. 10.6.2024 I Nr. 191 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 10.6.2024 I Nr. 191
 
 
 ## A. - Personen (weggefallen)

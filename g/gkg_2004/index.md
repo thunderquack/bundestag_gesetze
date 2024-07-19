@@ -21,6 +21,12 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 14.12.2023 I Nr. 365; 2024 I Nr. 165
 
+Änderung durch
+:   Art. 13 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 12 G v. 15.7.2024 I Nr. 237 ist berücksichtigt
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -7835,14 +7841,6 @@ Auslagen
     *
 
 *    *   9019
-
-    *   Pauschale für die Inanspruchnahme von Videokonferenzverbindungen:
-        je Verfahren für jede angefangene halbe Stunde ..........
-
-    *   15,00 €
-
-
-*    *   9020
 
     *   Umsatzsteuer auf die Kosten
         Dies gilt nicht, wenn die Umsatzsteuer nach § 19 Abs. 1 UStG unerhoben bleibt.

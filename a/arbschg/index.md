@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1996, 1246
 
 Zuletzt geändert durch
-:   Art. 2 G v. 31.5.2023 I Nr. 140
+:   Art. 32 G v. 15.7.2024 I Nr. 236
 
 Änderung der inhaltsübersicht durch
 :   Art. 1 Nr. 1 V v. 23.10.2013 I 3882 ist nicht ausführbar, da dieses G keine amtliche Inhaltsübersicht hat
@@ -513,8 +513,11 @@ zu machen. Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durc
 8.  Verstöße gegen das Gesetz zur Sicherung von Arbeitnehmerrechten in der Fleischwirtschaft,
 
 
+9.  Verstöße gegen Vorgaben für Pakete mit erhöhtem Gewicht nach dem Postgesetz,
 
-unterrichten sie die für die Verfolgung und Ahndung der Verstöße nach den Nummern 1 bis 8 zuständigen Behörden, die Träger der Sozialhilfe sowie die Behörden nach § 71 des Aufenthaltsgesetzes. In den Fällen des Satzes 1 arbeiten die zuständigen Behörden insbesondere mit den Agenturen für Arbeit, den Hauptzollämtern, den Rentenversicherungsträgern, den Krankenkassen als Einzugsstellen für die Sozialversicherungsbeiträge, den Trägern der gesetzlichen Unfallversicherung, den nach Landesrecht für die Verfolgung und Ahndung von Verstößen gegen das Gesetz zur Bekämpfung der Schwarzarbeit zuständigen Behörden, den Trägern der Sozialhilfe, den in § 71 des Aufenthaltsgesetzes genannten Behörden und den Finanzbehörden zusammen.
+
+
+unterrichten sie die für die Verfolgung und Ahndung der Verstöße nach den Nummern 1 bis 9 zuständigen Behörden, die Träger der Sozialhilfe sowie die Behörden nach § 71 des Aufenthaltsgesetzes. In den Fällen des Satzes 1 arbeiten die zuständigen Behörden insbesondere mit den Agenturen für Arbeit, den Hauptzollämtern, den Rentenversicherungsträgern, den Krankenkassen als Einzugsstellen für die Sozialversicherungsbeiträge, den Trägern der gesetzlichen Unfallversicherung, den nach Landesrecht für die Verfolgung und Ahndung von Verstößen gegen das Gesetz zur Bekämpfung der Schwarzarbeit zuständigen Behörden, den Trägern der Sozialhilfe, den in § 71 des Aufenthaltsgesetzes genannten Behörden, den Finanzbehörden und der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen zusammen.
 
 (4) Die zuständigen obersten Landesbehörden haben über die Überwachungstätigkeit der ihnen unterstellten Behörden einen Jahresbericht zu veröffentlichen. Der Jahresbericht umfaßt auch Angaben zur Erfüllung von Unterrichtungspflichten aus internationalen Übereinkommen oder Rechtsakten der Europäischen Gemeinschaften, soweit sie den Arbeitsschutz betreffen.
 

@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 23 G v. 27.3.2024 I Nr. 108
 
+Änderung durch
+:   Art. 22 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Steuergegenstand und Geltungsbereich
 
@@ -841,7 +844,7 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
     a)  auf Grund individuell ausgehandelter Vereinbarungen oder
 
 
-    b)  auf Grund allgemeiner Geschäftsbedingungen zu abweichenden Qualitätsbedingungen oder zu günstigeren Preisen als den nach den allgemein für jedermann zugänglichen Tarifen oder als den nach § 19 des Postgesetzes vom 22. Dezember 1997 (BGBl. I S. 3294), das zuletzt durch Artikel 272 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in der jeweils geltenden Fassung, genehmigten Entgelten;
+    b)  auf Grund allgemeiner Geschäftsbedingungen zu abweichenden Qualitätsbedingungen oder zu günstigeren Preisen als den nach den allgemein für jedermann zugänglichen Tarifen oder als den nach § 40 Absatz 1 des Postgesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 236), in der jeweils geltenden Fassung, genehmigten Entgelten;
 
 
 

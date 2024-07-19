@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 1865
 
 Zuletzt geändert durch
-:   Art. 40 G v. 2.3.2023 I Nr. 56
+:   Art. 42 G v. 15.7.2024 I Nr. 236
 
 
 ## § 1 Zweck
@@ -145,7 +145,7 @@ Verkehrsleistungen im Sinne dieses Gesetzes dürfen nur auf bestimmte Zeit, län
 3.  Bundespolizeipräsidium,
 
 
-4.  Bundesamt für das Personalmanagement der Bundeswehr, für die Streitkräfte einschließlich der verbündeten Streitkräfte,
+4.  Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr, für die Streitkräfte einschließlich der verbündeten Streitkräfte,
 
 
 5.  Bundesanstalt für Landwirtschaft und Ernährung,

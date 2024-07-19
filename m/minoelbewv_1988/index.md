@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 2.3.2023 I Nr. 56
 
+Änderung durch
+:   Art. 27 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -246,7 +249,7 @@ Als Produkte im Sinne der Nummern 1 und 2 gelten auch andere zur Herstellung von
 
         das Bundesministerium des Innern, für Bau und Heimat für die Bundespolizei,
 
-        das Bundesministerium für Wirtschaft und Energie für die Unternehmen, die gemäß § 1 des Postsicherstellungsgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind, sowie für die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen,
+        das Bundesministerium für Wirtschaft und Energie für die Unternehmen, die gemäß Kapitel 12 des Postgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind, sowie für die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen,
 
         das Bundesministerium für Verkehr und digitale Infrastruktur für die Eisenbahnen des Bundes und das Bundesamt für Logistik und Mobilität
 

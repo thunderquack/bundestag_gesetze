@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 8.10.1968 I 1082;
 
 Zuletzt geändert durch
-:   Art. 34 Abs. 10 G v. 22.12.2023 I Nr. 411
+:   Art. 40 G v. 15.7.2024 I Nr. 236
 
 
 ## Erster Abschnitt - Sicherstellung durch Rechtsverordnungen
@@ -517,7 +517,7 @@ Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungsw
 
 ### § 30 Ausnahmen und Sonderregelungen
 
-(1) Die Streitkräfte, die Bundespolizei, die Polizei, die Organisationen des Zivilschutzes und die Unternehmen, die nach § 1 des Postsicherstellungsgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind, sind von Verpflichtungen nach diesem Gesetz und den auf den Grund dieses Gesetzes erlassenen Rechtsverordnungen ausgenommen, soweit dieses Gesetz nichts anderes bestimmt. Dies gilt auch hinsichtlich der für sie auf Grund des Bundesleistungsgesetzes zum Gebrauch in Anspruch genommenen Verkehrsmittel, -anlagen und -einrichtungen. Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Ausnahmen zuzulassen.
+(1) Die Streitkräfte, die Bundespolizei, die Polizei, die Organisationen des Zivilschutzes und die Unternehmen, die nach Kapitel 12 des Postgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind, sind von Verpflichtungen nach diesem Gesetz und den auf den Grund dieses Gesetzes erlassenen Rechtsverordnungen ausgenommen, soweit dieses Gesetz nichts anderes bestimmt. Dies gilt auch hinsichtlich der für sie auf Grund des Bundesleistungsgesetzes zum Gebrauch in Anspruch genommenen Verkehrsmittel, -anlagen und -einrichtungen. Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Ausnahmen zuzulassen.
 
 (2) Rechtsverordnungen über die Benutzung von Verkehrswegen, -anlagen und -einrichtungen (§ 1 Abs. 1 Nr. 1) sowie über das Verhalten bei deren Benutzung und die Verpflichtung zur Benutzung bestimmter Verkehrswege (§ 1 Abs. 2 Nr. 4) gelten für die nach Absatz 1 Satz 1 und 3 ausgenommenen Organisationen, wenn und soweit sie dies vorsehen. Soweit es im Einzelfall zur Erfüllung lebens- oder verteidigungswichtiger Aufgaben dringend geboten ist, können diese Organisationen von den Vorschriften über das Verhalten bei der Benutzung abweichen; bei Abweichungen von den Vorschriften über die Benutzung und über die Verpflichtung, bestimmte Verkehrswege zu benutzen, haben sie das Benehmen mit den zuständigen Behörden herzustellen.
 

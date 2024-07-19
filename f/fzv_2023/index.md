@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2023, Nr. 199, 2
 
 Geändert durch
-:   Art. 2 Abs. 7 G v. 4.12.2023 I Nr. 344
-
-Änderung durch
-:   Art. 4 V v. 10.6.2024 I Nr. 191 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 V v. 10.6.2024 I Nr. 191
 
 Stand: Ersetzt V 9232-14 v. 3.2.2011 I 139 (FZV 2011)
 

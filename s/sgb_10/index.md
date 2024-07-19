@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 18.1.2001 I 130;
 
 Zuletzt geändert durch
-:   Art. 7 Abs. 3 G v. 11.4.2024 I Nr. 119
+:   Art. 33 G v. 15.7.2024 I Nr. 236
 
 
 ## Erstes Kapitel - Verwaltungsverfahren

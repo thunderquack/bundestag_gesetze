@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 34 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 1 G v. 15.7.2024 I Nr. 237 mWv 19.7.2024 noch nicht berücksichtigt
+
 
 ## Erster Titel - Gerichtsbarkeit
 

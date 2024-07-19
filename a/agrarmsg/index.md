@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.8.2021 I 4036;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 21 G v. 20.12.2022 I 2752
+:   Art. 30 G v. 15.7.2024 I Nr. 236
 
 
 ## Teil 1 - Anwendungsbereich und Begriffsbestimmungen

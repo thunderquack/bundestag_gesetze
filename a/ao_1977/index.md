@@ -21,6 +21,12 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 14 G v. 27.3.2024 I Nr. 108
 
+Änderung durch
+:   Art. 20 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 18 G v. 15.7.2024 I Nr. 237 ist berücksichtigt
+
 Stand: Bek. v. 12.10.2023 I Nr. 293 mWv 1.11.2023 ist berücksichtigt
 
 ## Erster Teil - Einleitende Vorschriften
@@ -671,7 +677,7 @@ In den Fällen von Satz 1 Nummer 4 dürfen die Daten ausschließlich für Zwecke
 1.  die für den öffentlichen Dienst besonders Verpflichteten (§ 11 Abs. 1 Nr. 4 des Strafgesetzbuchs),
 
 
-1a. die in § 193 Abs. 2 des Gerichtsverfassungsgesetzes genannten Personen,
+1a. die in § 193 Absatz 3 des Gerichtsverfassungsgesetzes genannten Personen,
 
 
 2.  amtlich zugezogene Sachverständige,

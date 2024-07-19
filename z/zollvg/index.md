@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 Abs. 6 G v. 5.7.2021 I 2274
 
+Änderung durch
+:   Art. 23 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil I - Erfassung des Warenverkehrs
 
@@ -80,7 +83,7 @@ Darüber hinaus wirken die Behörden des Zollfahndungsdienstes im Rahmen des Abs
 
 ### § 5 Sondervorschriften für Postsendungen
 
-(1) Sofern Postsendungen nicht bereits nach Maßgabe des Zollkodex der Union und sonstiger unionsrechtlicher Vorschriften zu gestellen sind, haben Postdienstleister, die Postdienstleistungen im Sinne des § 4 Nummer 1 des Postgesetzes erbringen, Postsendungen der zuständigen Zollstelle spätestens am nächsten Werktag anzuzeigen und auf Verlangen zur Nachprüfung vorzulegen, wenn zureichende tatsächliche Anhaltspunkte dafür bestehen, dass mit ihnen
+(1) Sofern Postsendungen nicht bereits nach Maßgabe des Zollkodex der Union und sonstiger unionsrechtlicher Vorschriften zu gestellen sind, haben Postdienstleister, die Postdienstleistungen im Sinne des § 3 Nummer 15 des Postgesetzes erbringen, Postsendungen der zuständigen Zollstelle spätestens am nächsten Werktag anzuzeigen und auf Verlangen zur Nachprüfung vorzulegen, wenn zureichende tatsächliche Anhaltspunkte dafür bestehen, dass mit ihnen
 
 1.  Waren unter Verstoß gegen Einfuhr-, Durchfuhr- oder Ausfuhrverbote in den, durch den oder aus dem Geltungsbereich dieses Gesetzes verbracht werden,
 

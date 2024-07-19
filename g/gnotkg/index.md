@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 19.6.2024 I Nr. 206
 
+Änderung durch
+:   Art. 15 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 15 G v. 15.7.2024 I Nr. 237 ist berücksichtigt
+
 
 ## Kapitel 1 - Vorschriften für Gerichte und Notare
 
@@ -6174,14 +6180,6 @@ Teil 3
 
 
 *    *   31016
-
-    *   Pauschale für die Inanspruchnahme von Videokonferenzverbindungen:
-        je Verfahren für jede angefangene halbe Stunde ..........
-
-    *   15,00 €
-
-
-*    *   31017
 
     *   Umsatzsteuer auf die Kosten
         Dies gilt nicht, wenn die Umsatzsteuer nach § 19 Abs. 1 UStG unerhoben bleibt.

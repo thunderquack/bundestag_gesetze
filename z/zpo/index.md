@@ -24,6 +24,12 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 13 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 5 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 6 G v. 15.7.2024 I Nr. 237 mWv 19.7.2024 noch nicht berücksichtigt
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -1751,7 +1757,7 @@ Soll durch die Zustellung eine Frist gewahrt werden oder die Verjährung neu beg
 
 ###### § 168 Aufgaben der Geschäftsstelle
 
-(1) Die Geschäftsstelle führt die Zustellung nach §§ 173 bis 176 Absatz 1 aus. Sie kann einen nach § 33 Abs. 1 des Postgesetzes beliehenen Unternehmer (Post) oder einen Justizbediensteten mit der Ausführung der Zustellung beauftragen. Den Auftrag an die Post erteilt die Geschäftsstelle auf dem dafür vorgesehenen Vordruck.
+(1) Die Geschäftsstelle führt die Zustellung nach §§ 173 bis 176 Absatz 1 aus. Sie kann einen nach § 61 des Postgesetzes beliehenen Unternehmer (Post) oder einen Justizbediensteten mit der Ausführung der Zustellung beauftragen. Den Auftrag an die Post erteilt die Geschäftsstelle auf dem dafür vorgesehenen Vordruck.
 
 (2) Der Vorsitzende des Prozessgerichts oder ein von ihm bestimmtes Mitglied können einen Gerichtsvollzieher oder eine andere Behörde mit der Ausführung der Zustellung beauftragen, wenn eine Zustellung nach Absatz 1 keinen Erfolg verspricht.
 

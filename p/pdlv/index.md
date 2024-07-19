@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2178
 
-Zuletzt geändert durch
-:   Art. 3 G v. 9.3.2021 I 324
+Aufgeh. durch
+:   Art. 43 Abs. 3 G v. 15.7.2024 I Nr. 236 mWv 19.7.2024
 
 
 

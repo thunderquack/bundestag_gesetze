@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 2.3.2023 I Nr. 56
 
+Änderung durch
+:   Art. 39 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## 1. Abschnitt - Allgemeine Vorschriften
 
@@ -106,7 +109,7 @@ Zuletzt geändert durch
 8.  die im Rahmen der Gewerbeausübung erfolgende Beförderung von Betriebseinrichtungen für eigene Zwecke sowie
 
 
-9.  die Beförderung von Postsendungen im Rahmen von Universaldienstleistungen durch Postdienstleister gemäß § 1 Absatz 1 der Post-Universaldienstleistungsverordnung.
+9.  die Beförderung von Postsendungen im Rahmen von Universaldienstleistungen durch Postdienstleister gemäß § 16 Absatz 1 des Postgesetzes.
 
 
 

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 16 G v. 27.3.2024 I Nr. 108
 
+Änderung durch
+:   Art. 21 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Bek. v. 12.10.2023 I Nr. 293 mWv 1.11.2023 ist berücksichtigt
 
 ## Erster Abschnitt - Änderung von Gesetzen auf dem Gebiet des Finanzwesens

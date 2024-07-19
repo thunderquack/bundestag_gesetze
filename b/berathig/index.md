@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 25.6.2021 I 2154
 
+Änderung durch
+:   Art. 2 G v. 15.7.2024 I Nr. 237 mWv 19.7.2024 noch nicht berücksichtigt
+
 
 ## § 1 Voraussetzungen
 

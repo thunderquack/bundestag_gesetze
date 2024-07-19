@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 498
 
 Zuletzt geändert durch
-:   Art. 3 V v. 28.8.2023 I Nr. 236
-
-Änderung durch
-:   Art. 2 V v. 10.6.2024 I Nr. 191 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 10.6.2024 I Nr. 191
 
 
 ## Eingangsformel
@@ -6139,7 +6136,9 @@ Abschnitt I
 
     *   Als Halter die Inbetriebnahme eines Fahrzeugs angeordnet oder zugelassen, obwohl die Betriebserlaubnis erloschen war, und dadurch die Umwelt wesentlich beeinträchtigt
 
-    *
+    *   § 19 Absatz 5 Satz 1
+        § 69a Absatz 2 Nummer 1b
+
     *
 
 *    *   189b.1
