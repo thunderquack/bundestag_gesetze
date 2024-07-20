@@ -25,7 +25,10 @@ Zuletzt geändert durch
 :   Art. 13 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 12 G v. 15.7.2024 I Nr. 237 ist berücksichtigt
+:   Art. 13 G v. 15.7.2024 I Nr. 237 ist berücksichtigt
+
+Änderung durch
+:   Art. 6 G v. 16.7.2024 I Nr. 240 mWv 20.7.2024 noch nicht berücksichtigt
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

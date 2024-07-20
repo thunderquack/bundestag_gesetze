@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 12 G v. 25.6.2021 I 2154
 
 Änderung durch
-:   Art. 2 G v. 15.7.2024 I Nr. 237 mWv 19.7.2024 noch nicht berücksichtigt
+:   Art. 2 G v. 15.7.2024 I Nr. 237 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Voraussetzungen
@@ -74,7 +74,7 @@ Sie kann durch die in den Sätzen 1 und 2 genannten Personen (Beratungspersonen)
 
 (1) Über den Antrag auf Beratungshilfe entscheidet das Amtsgericht, in dessen Bezirk die Rechtsuchenden ihren allgemeinen Gerichtsstand haben. Haben Rechtsuchende im Inland keinen allgemeinen Gerichtsstand, so ist das Amtsgericht zuständig, in dessen Bezirk ein Bedürfnis für Beratungshilfe auftritt.
 
-(2) Der Antrag kann mündlich oder schriftlich gestellt werden; § 130a der Zivilprozessordnung und auf dessen Grundlage erlassene Rechtsverordnungen gelten entsprechend. Der Sachverhalt, für den Beratungshilfe beantragt wird, ist anzugeben.
+(2) Der Antrag kann vor der Geschäftsstelle zu Protokoll erklärt oder schriftlich gestellt werden; § 130a der Zivilprozessordnung und auf dessen Grundlage erlassene Rechtsverordnungen gelten entsprechend. Der Sachverhalt, für den Beratungshilfe beantragt wird, ist anzugeben.
 
 (3) Dem Antrag sind beizufügen:
 
@@ -85,6 +85,7 @@ Sie kann durch die in den Sätzen 1 und 2 genannten Personen (Beratungspersonen)
 
 
 
+In geeigneten Fällen kann die Geschäftsstelle Erklärungen und Versicherungen nach Satz 1 auch zu Protokoll aufnehmen.
 
 (4) Das Gericht kann verlangen, dass Rechtsuchende ihre tatsächlichen Angaben glaubhaft machen, und kann insbesondere auch die Abgabe einer Versicherung an Eides statt fordern. Es kann Erhebungen anstellen, insbesondere die Vorlegung von Urkunden anordnen und Auskünfte einholen. Zeugen und Sachverständige werden nicht vernommen.
 

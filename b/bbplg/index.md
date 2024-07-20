@@ -16,11 +16,9 @@ Fundstelle
 :   BGBl I: 2013, 2543; 2014, 148, 271
 
 Zuletzt geändert durch
-:   Art. 6 G v. 8.5.2024 I Nr. 151
+:   Art. 1 G v. 16.7.2024 I Nr. 239
 
-Stand: Das G tritt gem. Art. 5 Abs. 1 G v. 23.7.2013 I 2543 am 27.7.2013 in Kraft
-Stand: § 1 iVm Nr. 33 der Anlage ist gem. Bek. v. 18.2.2014 I 148 am 8.1.2014 in Kraft getreten
-Stand: § 1 iVm Nr. 29 der Anlage ist gem. Bek. v. 17.3.2014 I 271 am 7.3.2014 in Kraft getreten
+Stand: Das G tritt gem. Art. 5 Abs. 1 G v. 23.7.2013 I 2543 am 27.7.2013 in Kraft. Abweichend davon ist § 1 iVm Nr. 33 der Anlage gem. Bek. v. 18.2.2014 I 148 am 8.1.2014 u. § 1 iVm Nr. 29 der Anlage gem. Bek. v. 17.3.2014 I 271 am 7.3.2014 in Kraft getreten.
 
 ## § 1 Gegenstand des Bundesbedarfsplans
 
@@ -1052,7 +1050,122 @@ Vorhaben, für die die energiewirtschaftliche Notwendigkeit und der vordringlich
 
     *   Höchstspannungsleitung Hemmingstedt/Lieth/Lohe-Rickelshof/Wöhrden – Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin; Gleichstrom
 
-    *   A1, B, E, H
+    *   A1, B, E
+
+
+*    *   81a
+
+    *   Höchstspannungsleitung Pöschendorf/Hadenfeld/Kaisborstel/Agethorst/Mehlbek – Klein Rogahn/Stralendorf/Warsow/Holthusen/Schossin; Gleichstrom
+
+    *   A1, B, E
+
+
+*    *   81b
+
+    *   Höchstspannungsleitung Grenzkorridor N-V – Pöschendorf/Hadenfeld/Kaisborstel/Agethorst/Mehlbek; Gleichstrom mit den Bestandteilen
+
+    *   B, E
+
+
+*    *
+    *   – Grenzkorridor N-V – Hemmingstedt/Epenwöhrden
+
+    *
+
+*    *
+    *   – Hemmingstedt/Epenwöhrden – Pöschendorf/Hadenfeld/Kaisborstel/Agethorst/Mehlbek
+
+    *   A2, G
+
+
+*    *   81c
+
+    *   Höchstspannungsleitung Grenzkorridor N-V – Pöschendorf/Hadenfeld/Kaisborstel/Agethorst/Mehlbek; Gleichstrom mit den Bestandteilen
+
+    *   B, E
+
+
+*    *
+    *   – Grenzkorridor N-V – Hemmingstedt/Epenwöhrden
+
+    *
+
+*    *
+    *   – Hemmingstedt/Epenwöhrden – Pöschendorf/Hadenfeld/Kaisborstel/Agethorst/Mehlbek
+
+    *   A2, G
+
+
+*    *   81d
+
+    *   Höchstspannungsleitung Grenzkorridor N-V – Ämter Büchen/Breitenfelde/Schwarzenbek-Land; Gleichstrom mit den Bestandteilen
+
+    *   B, E
+
+
+*    *
+    *   – Grenzkorridor N-V – Hemmingstedt/Epenwöhrden
+
+    *
+
+*    *
+    *   – Hemmingstedt/Epenwöhrden – Seth/Leezen/Groß Niendorf/Travenbrück
+
+    *   A2, G
+
+
+*    *
+    *   – Seth/Leezen/Groß Niendorf/Travenbrück – Ämter Büchen/Breitenfelde/Schwarzenbek-Land
+
+    *   A2, G
+
+
+*    *   81e
+
+    *   Höchstspannungsleitung Grenzkorridor N-V – Ämter Büchen/Breitenfelde/Schwarzenbek-Land; Gleichstrom mit den Bestandteilen
+
+    *   B, E
+
+
+*    *
+    *   – Grenzkorridor N-V – Hemmingstedt/Epenwöhrden
+
+    *
+
+*    *
+    *   – Hemmingstedt/Epenwöhrden – Seth/Leezen/Groß Niendorf/Travenbrück
+
+    *   A2, G
+
+
+*    *
+    *   – Seth/Leezen/Groß Niendorf/Travenbrück – Ämter Büchen/Breitenfelde/Schwarzenbek-Land
+
+    *   A2, G
+
+
+*    *   81f
+
+    *   Höchstspannungsleitung Grenzkorridor N-V – Wiemersdorf/Hardebek; Gleichstrom mit den Bestandteilen
+
+    *   B, E
+
+
+*    *
+    *   – Grenzkorridor N-V – Hemmingstedt/Epenwöhrden
+
+    *
+
+*    *
+    *   – Hemmingstedt/Epenwöhrden – Hagen/Fuhlendorf/Bad Bramstedt/Bimöhlen
+
+    *   A2, G
+
+
+*    *
+    *   – Hagen/Fuhlendorf/Bad Bramstedt/Bimöhlen – Wiemersdorf/Hardebek
+
+    *   A2, G
 
 
 *    *   82
@@ -1060,6 +1173,49 @@ Vorhaben, für die die energiewirtschaftliche Notwendigkeit und der vordringlich
     *   Höchstspannungsleitung Ovelgönne/Rastede/Wiefelstede/Westerstede – Bürstadt; Gleichstrom
 
     *   A1, B, E
+
+
+*    *   82a
+
+    *   Höchstspannungsleitung Ovelgönne/Rastede/Wiefelstede/Westerstede – Hofheim am Taunus; Gleichstrom
+
+    *   A1, B, E
+
+
+*    *   82b
+
+    *   Höchstspannungsleitung Grenzkorridor N-III – Kriftel; Gleichstrom mit den Bestandteilen
+
+    *   B, E
+
+
+*    *
+    *   – Grenzkorridor N-III – Ovelgönne/Rastede/Wiefelstede/Westerstede
+
+    *
+
+*    *
+    *   – Ovelgönne/Rastede/Wiefelstede/Westerstede – Kriftel
+
+    *   A1
+
+
+*    *   82c
+
+    *   Höchstspannungsleitung Grenzkorridor N-III – Bürstadt/Biblis/Groß-Rohrheim/Gernsheim/Biebesheim am Rhein; Gleichstrom mit den Bestandteilen
+
+    *   B, E
+
+
+*    *
+    *   – Grenzkorridor N-III – Ovelgönne/Rastede/Wiefelstede/Westerstede
+
+    *
+
+*    *
+    *   – Ovelgönne/Rastede/Wiefelstede/Westerstede – Bürstadt/Biblis/Groß-Rohrheim/Gernsheim/Biebesheim am Rhein
+
+    *   A1
 
 
 *    *   83

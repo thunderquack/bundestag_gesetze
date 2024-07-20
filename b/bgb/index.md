@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 24.6.2024 I Nr. 212
+:   Art. 9 G v. 16.7.2024 I Nr. 240
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
@@ -1840,7 +1840,7 @@ Schweben zwischen dem Schuldner und dem Gläubiger Verhandlungen über den Anspr
 6.  die Zustellung der Streitverkündung,
 
 
-6a. die Zustellung der Anmeldung zu einem Musterverfahren für darin bezeichnete Ansprüche, soweit diesen der gleiche Lebenssachverhalt zugrunde liegt wie den Feststellungszielen des Musterverfahrens und wenn innerhalb von drei Monaten nach dem rechtskräftigen Ende des Musterverfahrens die Klage auf Leistung oder Feststellung der in der Anmeldung bezeichneten Ansprüche erhoben wird,
+6a. die öffentliche Bekanntmachung des Vorlagebeschlusses in einem Musterverfahren für Ansprüche, denen derselbe Lebenssachverhalt zugrunde liegt wie den Feststellungszielen des Musterverfahrens, wenn die Ansprüche zum Musterverfahren angemeldet werden,
 
 
 7.  die Zustellung des Antrags auf Durchführung eines selbständigen Beweisverfahrens,

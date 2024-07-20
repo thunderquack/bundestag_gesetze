@@ -19,7 +19,7 @@ Geändert durch
 :   Art. 2 V v. 16.12.2022 I 2368
 
 Änderung durch
-:   Art. 3 G v. 15.7.2024 I Nr. 237 mWv 19.7.2024 noch nicht berücksichtigt
+:   Art. 3 G v. 15.7.2024 I Nr. 237 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -31,7 +31,7 @@ Auf Grund des § 11 des Beratungshilfegesetzes vom 18. Juni 1980 (BGBl. I S. 689
 
 Im Bereich der Beratungshilfe sind zu verwenden:
 
-1.  vom Rechtsuchenden für den Antrag auf Gewährung von Beratungshilfe das in Anlage 1 bestimmte Formular mit Hinweisblatt, falls der Rechtsuchende eine natürliche Person ist und den Antrag nicht mündlich stellt,
+1.  vom Rechtsuchenden für den Antrag auf Gewährung von Beratungshilfe das in Anlage 1 bestimmte Formular mit Hinweisblatt, falls der Rechtsuchende eine natürliche Person ist und den Antrag nicht vor der Geschäftsstelle zu Protokoll erklärt,
 
 
 2.  von der Beratungsperson für ihren Antrag auf Zahlung einer Vergütung das in Anlage 2 bestimmte Formular.

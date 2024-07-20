@@ -23,6 +23,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 16 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 7 G v. 16.7.2024 I Nr. 240 mWv 20.7.2024 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
