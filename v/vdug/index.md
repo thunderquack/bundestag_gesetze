@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2023, Nr. 272, 2
 
 Änderung durch
-:   Art. 5 G v. 16.7.2024 I Nr. 240 mWv 20.7.2024 noch nicht berücksichtigt
+:   Art. 5 G v. 16.7.2024 I Nr. 240 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -35,6 +35,8 @@ Fundstelle
 
 
 (2) Kleine Unternehmen gelten als Verbraucher im Sinne dieses Gesetzes. Kleine Unternehmen sind solche, die weniger als 10 Personen beschäftigen und deren Jahresumsatz oder Jahresbilanz 2 Millionen Euro nicht übersteigt.
+
+(3) Der Zulässigkeit einer Verbandsklage nach diesem Gesetz steht nicht entgegen, dass wegen desselben Lebenssachverhalts ein Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz eröffnet worden ist.
 
 
 ### § 2 Klageberechtigte Stellen

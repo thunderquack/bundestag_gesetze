@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 1485
 
 Zuletzt geändert durch
-:   Art. 1 G v. 2.3.2023 I Nr. 56
-
-Änderung durch
-:   Art. 39 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 39 G v. 15.7.2024 I Nr. 236
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften

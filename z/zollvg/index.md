@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 2125; 1993, 2493
 
 Zuletzt geändert durch
-:   Art. 6 Abs. 6 G v. 5.7.2021 I 2274
-
-Änderung durch
-:   Art. 23 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 23 G v. 15.7.2024 I Nr. 236
 
 
 ## Teil I - Erfassung des Warenverkehrs

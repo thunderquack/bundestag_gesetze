@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 1596
 
 Zuletzt geändert durch
-:   Art. 1 AnO v. 7.10.2022 I 1833
+:   Art. 1 AnO v. 15.7.2024 I Nr. 242
 
 
 ## Eingangsformel

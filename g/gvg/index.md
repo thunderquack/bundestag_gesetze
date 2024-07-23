@@ -28,7 +28,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 15.7.2024 I Nr. 237 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 3 G v. 16.7.2024 I Nr. 240 mWv 20.7.2024 noch nicht berücksichtigt
+:   Art. 3 G v. 16.7.2024 I Nr. 240 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Titel - Gerichtsbarkeit
@@ -884,7 +884,7 @@ Bis zu welchem Tag die Vorschlagslisten aufzustellen und dem Richter beim Amtsge
 2.  für die Ansprüche gegen Richter und Beamte wegen Überschreitung ihrer amtlichen Befugnisse oder wegen pflichtwidriger Unterlassung von Amtshandlungen;
 
 
-3.  für Ansprüche, die auf eine falsche, irreführende oder unterlassene öffentliche Kapitalmarktinformation, auf die Verwendung einer falschen oder irreführenden öffentlichen Kapitalmarktinformation oder auf die Unterlassung der gebotenen Aufklärung darüber, dass eine öffentliche Kapitalmarktinformation falsch oder irreführend ist, gestützt werden;
+3.  für die in § 1 Absatz 1 des Kapitalanleger-Musterverfahrensgesetzes genannten Ansprüche;
 
 
 4.  für Verfahren nach

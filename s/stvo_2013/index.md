@@ -17,10 +17,7 @@ Fundstelle
 
 Stand: Konstitutive Neufassung gem. V v. 6.3.2013 I 367, in Kraft getreten am 1.4.2013
 Zuletzt geändert durch
-:   Art. 2 V v. 28.8.2023 I Nr. 236
-
-Änderung durch
-:   Art. 38 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 38 G v. 15.7.2024 I Nr. 236
 
 
 ## I. - Allgemeine Verkehrsregeln

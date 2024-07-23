@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1882
 
 Zuletzt geändert durch
-:   Art. 13 G v. 28.6.2023 I Nr. 172
-
-Änderung durch
-:   Art. 37 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 37 G v. 15.7.2024 I Nr. 236
 
 
 ## Abschnitt 1 - Lenk- und Ruhezeiten im nationalen Bereich

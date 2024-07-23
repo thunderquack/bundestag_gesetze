@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.6.1993 I 845; 1995 I 248
 
 Zuletzt geändert durch
-:   Art. 34 Abs. 17 G v. 22.12.2023 I Nr. 411
-
-Änderung durch
-:   Art. 24 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 24 G v. 15.7.2024 I Nr. 236
 
 
 ## Präambel

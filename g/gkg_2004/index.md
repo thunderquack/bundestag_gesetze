@@ -28,7 +28,7 @@ Zuletzt geändert durch
 :   Art. 13 G v. 15.7.2024 I Nr. 237 ist berücksichtigt
 
 Änderung durch
-:   Art. 6 G v. 16.7.2024 I Nr. 240 mWv 20.7.2024 noch nicht berücksichtigt
+:   Art. 6 G v. 16.7.2024 I Nr. 240 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -298,7 +298,7 @@ In Verfahren vor den Gerichten für Arbeitssachen sind die Vorschriften dieses A
 
 ### § 12 Bürgerliche Rechtsstreitigkeiten, Verfahren nach der Zivilprozessordnung
 
-(1) In bürgerlichen Rechtsstreitigkeiten soll die Klage erst nach Zahlung der Gebühr für das Verfahren im Allgemeinen zugestellt werden. Wird der Klageantrag erweitert, soll vor Zahlung der Gebühr für das Verfahren im Allgemeinen keine gerichtliche Handlung vorgenommen werden; dies gilt auch in der Rechtsmittelinstanz. Die Anmeldung zum Musterverfahren (§ 10 Absatz 2 des Kapitalanleger-Musterverfahrensgesetzes) soll erst nach Zahlung der Gebühr nach Nummer 1902 des Kostenverzeichnisses zugestellt werden.
+(1) In bürgerlichen Rechtsstreitigkeiten soll die Klage erst nach Zahlung der Gebühr für das Verfahren im Allgemeinen zugestellt werden. Wird der Klageantrag erweitert, soll vor Zahlung der Gebühr für das Verfahren im Allgemeinen keine gerichtliche Handlung vorgenommen werden; dies gilt auch in der Rechtsmittelinstanz. Die Anmeldung zum Musterverfahren (§ 13 des Kapitalanleger-Musterverfahrensgesetzes) soll erst nach Zahlung der Gebühr nach Nummer 1902 des Kostenverzeichnisses zugestellt werden.
 
 (2) Absatz 1 gilt nicht
 
@@ -450,7 +450,7 @@ Dies gilt auch dann, wenn die Kosten bei einem ersuchten Gericht entstanden sind
 
 (3) In Verfahren über Anträge auf Ausstellung einer Bestätigung nach § 1079 der Zivilprozessordnung, einer Bescheinigung nach § 1110 der Zivilprozessordnung oder nach § 57, § 58 oder § 59 des Anerkennungs- und Vollstreckungsausführungsgesetzes schuldet die Kosten der Antragsteller.
 
-(4) Im erstinstanzlichen Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz ist Absatz 1 nicht anzuwenden. Die Kosten für die Anmeldung eines Anspruchs zum Musterverfahren schuldet der Anmelder. Im Verfahren über die Rechtsbeschwerde nach § 20 des Kapitalanleger-Musterverfahrensgesetzes schuldet neben dem Rechtsbeschwerdeführer auch der Beteiligte, der dem Rechtsbeschwerdeverfahren auf Seiten des Rechtsbeschwerdeführers beigetreten ist, die Kosten.
+(4) Im erstinstanzlichen Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz ist Absatz 1 nicht anzuwenden. Die Kosten für die Anmeldung eines Anspruchs zum Musterverfahren schuldet der Anmelder. Im Verfahren über die Rechtsbeschwerde nach § 23 des Kapitalanleger-Musterverfahrensgesetzes schuldet neben dem Rechtsbeschwerdeführer auch der Beteiligte, der dem Rechtsbeschwerdeverfahren auf Seiten des Rechtsbeschwerdeführers beigetreten ist, die Kosten.
 
 
 ### § 23 Insolvenzverfahren
@@ -830,9 +830,9 @@ In Verfahren nach dem Agrarorganisationen-und-Lieferketten-Gesetz bestimmt sich 
 
 #### § 51a Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz
 
-(1) Für die Anmeldung eines Anspruchs zum Musterverfahren (§ 10 Absatz 2 des Kapitalanleger-Musterverfahrensgesetzes) bestimmt sich der Wert nach der Höhe des Anspruchs.
+(1) Für die Anmeldung eines Anspruchs zum Musterverfahren (§ 13 des Kapitalanleger-Musterverfahrensgesetzes) bestimmt sich der Wert nach der Höhe des Anspruchs.
 
-(2) Im Rechtsbeschwerdeverfahren ist bei der Bestimmung des Streitwerts von der Summe der in sämtlichen nach § 8 des Kapitalanleger-Musterverfahrensgesetzes ausgesetzten Verfahren geltend gemachten Ansprüche auszugehen, soweit diese von den Feststellungszielen des Musterverfahrens betroffen sind.
+(2) Im Rechtsbeschwerdeverfahren ist bei der Bestimmung des Streitwerts von der Summe der in sämtlichen nach § 10 des Kapitalanleger-Musterverfahrensgesetzes ausgesetzten Verfahren geltend gemachten Ansprüche auszugehen, soweit diese von den Feststellungszielen des Musterverfahrens betroffen sind.
 
 (3) Der Musterkläger und die Beigeladenen schulden im Rechtsbeschwerdeverfahren Gerichtsgebühren jeweils nur nach dem Wert, der sich aus den von ihnen im Ausgangsverfahren geltend gemachten Ansprüchen, die von den Feststellungszielen des Musterverfahrens betroffen sind, ergibt.
 
@@ -2598,7 +2598,7 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 
 *    *
     *   (1) Soweit wegen desselben Streitgegenstands ein Mahnverfahren vorausgegangen ist, entsteht die Gebühr mit dem Eingang der Akten bei dem Gericht, an das der Rechtsstreit nach Erhebung des Widerspruchs oder Einlegung des Einspruchs abgegeben wird; in diesem Fall wird eine Gebühr 1100 nach dem Wert des Streitgegenstands angerechnet, der in das Prozessverfahren übergegangen ist. Satz 1 gilt entsprechend, wenn wegen desselben Streitgegenstands ein Europäisches Mahnverfahren vorausgegangen ist.
-        (2) Soweit der Kläger wegen desselben Streitgegenstands einen Anspruch zum Musterverfahren angemeldet hat (§ 10 Abs. 2 KapMuG), wird insoweit die Gebühr 1902 angerechnet.
+        (2) Soweit der Kläger wegen desselben Streitgegenstands einen Anspruch zum Musterverfahren angemeldet hat (§ 13 KapMuG), wird insoweit die Gebühr 1902 angerechnet.
 
     *
 
@@ -2631,7 +2631,7 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
         2.  Anerkenntnisurteil, Verzichtsurteil oder Urteil, das nach § 313a Abs. 2 ZPO keinen Tatbestand und keine Entscheidungsgründe enthält, oder nur deshalb Tatbestand und die Entscheidungsgründe enthält, weil zu erwarten ist, dass das Urteil im Ausland geltend gemacht wird (§ 313a Abs. 4 Nr. 5 ZPO),
 
 
-        3.  gerichtlichen Vergleich oder Beschluss nach § 23 Abs. 3 KapMuG oder
+        3.  gerichtlichen Vergleich oder Beschluss nach § 26 Abs. 3 KapMuG oder
 
 
 
@@ -3664,7 +3664,7 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 
 *    *   1821
 
-    *   Verfahren über Rechtsbeschwerden nach § 20 KapMuG ..........
+    *   Verfahren über Rechtsbeschwerden nach § 23 KapMuG ..........
 
     *   5,0
 
@@ -3753,7 +3753,7 @@ Zivilrechtliche Verfahren vor den ordentlichen Gerichten
 
 *    *   1902
 
-    *   Anmeldung eines Anspruchs zum Musterverfahren (§ 10 Abs. 2 KapMuG) ..........
+    *   Anmeldung eines Anspruchs zum Musterverfahren (§ 13 KapMuG) ..........
 
     *   0,5
 
@@ -7650,7 +7650,7 @@ Auslagen
 
 *    *
     *   (1) Auslagen werden nicht erhoben für die Bekanntmachung in einem elektronischen Informations- und Kommunikationssystem, wenn das Entgelt nicht für den Einzelfall oder nicht für ein einzelnes Verfahren berechnet wird. Nicht erhoben werden ferner Auslagen für die Bekanntmachung eines besonderen Prüfungstermins (§ 177 InsO, § 18 SVertO).
-        (2) Die Auslagen für die Bekanntmachung eines Vorlagebeschlusses gemäß § 6 Abs. 4 KapMuG gelten als Auslagen des Musterverfahrens.
+        (2) Die Auslagen für die Bekanntmachung eines Vorlagebeschlusses gemäß § 7 Abs. 4 KapMuG gelten als Auslagen des Musterverfahrens.
 
     *
 
@@ -7838,8 +7838,8 @@ Auslagen
 
 *    *
     *   (1) Die im erstinstanzlichen Musterverfahren entstehenden Auslagen nach Nummer 9005 werden vom Tag nach der Auszahlung bis zum rechtskräftigen Abschluss des Musterverfahrens mit 5 Prozentpunkten über dem Basiszinssatz nach § 247 BGB verzinst.
-        (2) Auslagen und Zinsen werden nur erhoben, wenn der Kläger nicht innerhalb von einem Monat ab Zustellung des Aussetzungsbeschlusses nach § 8 KapMuG seine Klage in der Hauptsache zurücknimmt.
-        (3) Der Anteil bestimmt sich nach dem Verhältnis der Höhe des von dem Kläger geltend gemachten Anspruchs, soweit dieser von den Feststellungszielen des Musterverfahrens betroffen ist, zu der Gesamthöhe der vom Musterkläger und den Beigeladenen des Musterverfahrens in den Prozessverfahren geltend gemachten Ansprüche, soweit diese von den Feststellungszielen des Musterverfahrens betroffen sind. Der Anspruch des Musterklägers oder eines Beigeladenen ist hierbei nicht zu berücksichtigen, wenn er innerhalb von einem Monat ab Zustellung des Aussetzungsbeschlusses nach § 8 KapMuG seine Klage in der Hauptsache zurücknimmt.
+        (2) Auslagen und Zinsen werden nur erhoben, wenn der Kläger nicht innerhalb von einem Monat ab Zustellung des Aussetzungsbeschlusses nach § 10 KapMuG oder unter den in § 18 Abs. 2 KapMuG genannten Voraussetzungen seine Klage in der Hauptsache zurücknimmt.
+        (3) Der Anteil bestimmt sich nach dem Verhältnis der Höhe des von dem Kläger geltend gemachten Anspruchs, soweit dieser von den Feststellungszielen des Musterverfahrens betroffen ist, zu der Gesamthöhe der vom Musterkläger und den Beigeladenen des Musterverfahrens in den Prozessverfahren geltend gemachten Ansprüche, soweit diese von den Feststellungszielen des Musterverfahrens betroffen sind. Der Anspruch des Musterklägers oder eines Beigeladenen ist hierbei nicht zu berücksichtigen, wenn er innerhalb von einem Monat ab Zustellung des Aussetzungsbeschlusses nach § 10 KapMuG oder unter den in § 18 Abs. 2 KapMuG genannten Voraussetzungen seine Klage in der Hauptsache zurücknimmt.
 
     *
 
