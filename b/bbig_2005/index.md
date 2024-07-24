@@ -21,6 +21,15 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 10a G v. 16.8.2023 I Nr. 217
 
+Änderung durch
+:   Art. 1 G v. 19.7.2024 I Nr. 246 mWv 1.8.2024 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 2 G v. 19.7.2024 I Nr. 246 mit bedingt zukünftiger Wirkung noch nicht berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 3 G v. 19.7.2024 I Nr. 246 mWv 24.7.2024 noch nicht berücksichtigt
+
 
 ## Teil 1 - Allgemeine Vorschriften
 

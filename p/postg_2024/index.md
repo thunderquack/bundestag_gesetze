@@ -688,7 +688,8 @@ Die Zustellung hat werktäglich zu erfolgen.
 
 (1) Stellt die Bundesnetzagentur fest, dass ein Universaldienstanbieter seine Verpflichtungen nach diesem Abschnitt andauernd, wiederholt oder schwerwiegend nicht erfüllt, kann die Bundesnetzagentur nach Anhörung die erforderlichen Maßnahmen anordnen, um die Einhaltung der Vorgaben dieses Kapitels sicherzustellen. Sie kann insbesondere in den Fällen des § 17 Absatz 1 Satz 3 bis 6 den Betrieb einer Universaldienstfiliale oder einer automatisierten Station anordnen, soweit der Universaldienstanbieter nicht nachweist, dass im Einvernehmen mit der kommunalen Gebietskörperschaft von den Vorgaben des § 17 Absatz 1 Satz 3 bis 5 abgewichen wurde. Dem betroffenen Anbieter ist eine angemessene Frist zur Umsetzung der Anordnung zu setzen. Die Bundesnetzagentur hat beim Erlass von Maßnahmen nach Satz 1 die jeweilige Versorgungssituation sowie die Nachfrage nach Universaldienstleistungen zu berücksichtigen.
 
-(2) Zur Durchsetzung von Anordnungen nach Absatz 1 Satz 1 kann nach Maßgabe des Verwaltungsvollstreckungsgesetzes ein Zwangsgeld von bis zu 10 Millionen Euro festgesetzt werden. Das Zwangsgeld kann mehrfach festgesetzt werden.
+(2) Zur Durchsetzung von Anordnungen nach Absatz 1 Satz 1 kann nach Maßgabe des
+Verwaltungs-Vollstreckungsgesetzes              ein Zwangsgeld von bis zu 10 Millionen Euro festgesetzt werden. Das Zwangsgeld kann mehrfach festgesetzt werden.
 
 
 #### § 23 Erprobung neuer Modelle der Postversorgung

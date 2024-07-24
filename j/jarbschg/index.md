@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 965
 
 Zuletzt geändert durch
-:   Art. 9 G v. 27.3.2024 I Nr. 109
+:   Art. 5 G v. 19.7.2024 I Nr. 246
 
 
 ## Eingangsformel

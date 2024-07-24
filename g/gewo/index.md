@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 28 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 6 G v. 19.7.2024 I Nr. 245 ist berücksichtigt
+
 
 ## Titel I - Allgemeine Bestimmungen
 
@@ -3711,7 +3714,7 @@ erteilt.
 
 ### § 150e Elektronische Antragstellung
 
-(1) Erfolgt die Antragstellung abweichend von § 150 Absatz 2 oder Absatz 3 elektronisch, ist der Antrag unter Nutzung des im Internet angebotenen Zugangs unmittelbar bei der Registerbehörde oder über das Nutzerkonto nach § 3 Absatz 2 Satz 1 des Onlinezugangsgesetzes zu stellen. Der Antragsteller kann sich bei der Antragstellung nicht durch einen Bevollmächtigten vertreten lassen. Handelt der Antragsteller als gesetzlicher Vertreter, hat er seine Vertretungsmacht nachzuweisen.
+(1) Erfolgt die Antragstellung abweichend von § 150 Absatz 2 oder Absatz 3 elektronisch, ist der Antrag unter Nutzung des im Internet angebotenen Zugangs unmittelbar bei der Registerbehörde oder über das Nutzerkonto nach § 3 Absatz 1 Satz 1 des Onlinezugangsgesetzes zu stellen. Der Antragsteller kann sich bei der Antragstellung nicht durch einen Bevollmächtigten vertreten lassen. Handelt der Antragsteller als gesetzlicher Vertreter, hat er seine Vertretungsmacht nachzuweisen.
 
 (2) Der elektronische Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes ist zu führen. Der Nachweis ist ausschließlich über elektronische Identifizierungssysteme zulässig, die mit dem Vertrauensniveau „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) notifiziert sind. Um den elektronischen Identitätsnachweis führen zu können, müssen aus dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises, der eID-Karte, eines mobilen Endgeräts oder des elektronischen Aufenthaltstitels an die Registerbehörde übermittelt werden:
 

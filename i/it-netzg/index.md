@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 6.5.2024 I Nr. 149
 
+Änderung durch
+:   Art. 3 G v. 19.7.2024 I Nr. 245 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Gegenstand der Zusammenarbeit; Koordinierungsgremium
 
@@ -44,9 +47,11 @@ Zuletzt geändert durch
 (2) Verbindungsnetz im Sinne dieses Gesetzes ist das informationstechnische Netz, welches die informationstechnischen Netze des Bundes und der Länder verbindet. Die Übergabepunkte zu den jeweils verbundenen Netzen werden gemeinsam vereinbart.
 
 
-## § 3 Datenaustausch über das Verbindungsnetz
+## § 3 Datenaustausch; Verordnungsermächtigung
 
-Der Datenaustausch zwischen dem Bund und den Ländern erfolgt über das Verbindungsnetz.
+(1) Der Datenaustausch zwischen dem Bund und den Ländern erfolgt über das Verbindungsnetz. Im Anwendungsbereich des Onlinezugangsgesetzes kann der Datenaustausch auch über andere Netze des Bundes, die einen dem beabsichtigten Datenaustausch entsprechenden IT-Sicherheitsstandard aufweisen, erfolgen.
+
+(2) Das Bundesministerium des Innern und für Heimat wird ermächtigt, nach Prüfung durch das Bundesamt für Sicherheit in der Informationstechnik und im Benehmen mit dem Koordinierungsgremium durch Rechtsverordnung ohne Zustimmung des Bundesrates andere Netze nach Absatz 1 sowie deren Anschlussklassen und IT-Sicherheitsstandards festzulegen.
 
 
 ## § 4 Beschlüsse über das Verbindungsnetz
@@ -99,6 +104,8 @@ Der Datenaustausch zwischen dem Bund und den Ländern erfolgt über das Verbindu
 (2) Der Bund und die Länder sowie gegebenenfalls angeschlossene weitere öffentliche Stellen tragen jeweils die Kosten für den jeweiligen Anschluss ihres Netzes an das Verbindungsnetz.
 
 (3) Entstehen durch Anforderungen des Bundes, die über die gemeinsamen Festlegungen hinausgehen, zusätzliche Anschlusskosten, sind diese vom Bund zu tragen.
+
+(4) Für andere Netze des Bundes nach § 3 Absatz 1 Satz 2 gelten die Absätze 2 und 3 entsprechend.
 
 
 ## § 8 Übergangsregelung

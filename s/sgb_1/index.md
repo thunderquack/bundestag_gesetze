@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2a G v. 22.12.2023 I Nr. 408
 
+Änderung durch
+:   Art. 4 G v. 19.7.2024 I Nr. 245 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -905,6 +908,8 @@ Sofern die Absätze 1 bis 5 nicht gemäß Satz 1 anzuwenden sind, gelten für de
 (3) Ist ein der Behörde übermitteltes elektronisches Dokument für sie zur Bearbeitung nicht geeignet, teilt sie dies dem Absender unter Angabe der für sie geltenden technischen Rahmenbedingungen unverzüglich mit. Macht ein Empfänger geltend, er könne das von der Behörde übermittelte elektronische Dokument nicht bearbeiten, übermittelt sie es ihm erneut in einem geeigneten elektronischen Format oder als Schriftstück.
 
 (4) Die Träger der Sozialversicherung einschließlich der Bundesagentur für Arbeit, ihre Verbände und Arbeitsgemeinschaften verwenden unter Beachtung der Grundsätze der Wirtschaftlichkeit und Sparsamkeit im jeweiligen Sozialleistungsbereich Vertrauensdienste, die eine gemeinsame und bundeseinheitliche Kommunikation und Übermittlung der Daten und die Überprüfbarkeit der qualifizierten elektronischen Signatur auf Dauer sicherstellen. Diese Träger sollen über ihren jeweiligen Bereich hinaus Vertrauensdienste im Sinne des Satzes 1 verwenden. Die Sätze 1 und 2 gelten entsprechend für die Leistungserbringer nach dem Fünften und dem Elften Buch und die von ihnen gebildeten Organisationen.
+
+(5) Die Identifizierung und Authentifizierung der Nutzer im Sinne des § 2 Absatz 4 Nummer 1 des Onlinezugangsgesetzes für die Inanspruchnahme elektronischer Verwaltungsleistungen nach dem Sozialgesetzbuch kann in Ergänzung zum zentralen Bürgerkonto nach § 3 Absatz 1 Satz 1 des Onlinezugangsgesetzes auch über die Nutzerkonten der Leistungsträger erfolgen.
 
 
 #### § 37 Vorbehalt abweichender Regelungen

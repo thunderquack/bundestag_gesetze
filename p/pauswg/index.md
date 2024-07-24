@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 2 G v. 22.3.2024 I Nr. 104
 
+Änderung durch
+:   Art. 8e G v. 19.7.2024 I Nr. 245 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -369,6 +372,8 @@ Bei einer Identitätsüberprüfung nach § 16 darf auch die aufgedruckte Zugangs
 (2) Der Ausweishersteller schaltet die Funktion aus, wenn die antragstellende Person zum Zeitpunkt der Antragstellung noch nicht 16 Jahre alt ist.
 
 (3) Auf Antrag des Ausweisinhabers und unter Vorlage des Personalausweises kann ein ausgeschalteter elektronischer Identitätsnachweis während der Gültigkeitsdauer des Personalausweises eingeschaltet werden, wenn der Ausweisinhaber zum Zeitpunkt der Antragstellung bereits 16 Jahre alt ist.
+
+(3a) Das Bundesministerium des Innern und für Heimat soll nach Prüfung durch das Bundesamt für Sicherheit in der Informationstechnik für Fälle, in denen der Nachweis der Identität durch einen elektronischen Identitätsnachweis nach § 18 dieses Gesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes erbracht wurde, für die spätere Authentisierung des Inhabers des elektronischen Identitätsnachweises auch andere Authentisierungsmittel befristet zulassen. Das Bundesministerium des Innern und für Heimat gibt die Zulassung und die Dauer der Befristung im Bundesanzeiger bekannt.
 
 (4) Der Sperrlistenbetreiber nach § 7 Abs. 4 Satz 2 stellt jedem Diensteanbieter über jederzeit öffentlich erreichbare Kommunikationsverbindungen eine für ihn errechnete, aktuelle Liste bereit, die ausschließlich die Sperrmerkmale von Personalausweisen mit gesperrtem elektronischen Identitätsnachweis enthält (Sperrliste). Die Diensteanbieter rufen die für sie errechnete Sperrliste regelmäßig ab und gleichen sie im Rahmen des elektronischen Identitätsnachweises lokal mit zu akzeptierenden Personalausweisen ab.
 

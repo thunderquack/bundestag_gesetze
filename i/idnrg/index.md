@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 8.5.2024 I Nr. 152
 
+Änderung durch
+:   Art. 8f G v. 19.7.2024 I Nr. 245 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Das G ist gem. Art. 22 Satz 2 iVm Bek. v. 24.8.2023 I Nr. 230 mWv 31.8.2023 in Kraft getreten
 Stand: § 12 ist gem. Art. 22 Satz 1 mWv 7.4.2021 in Kraft getreten
 
@@ -182,7 +185,10 @@ Die Verarbeitung der Identifikationsnummer nach diesem Gesetz durch öffentliche
 1.  Enthält das Datenabrufersuchen mindestens den Familiennamen, den Wohnort, die Postleitzahl sowie das Geburtsdatum der betroffenen Person, übermittelt die Registermodernisierungsbehörde der ersuchenden Stelle die Identifikationsnummer sowie die weiteren zur betroffenen Person gespeicherten Daten nach § 4 Absatz 2 und 3, soweit sie zur Erfüllung der Aufgaben der ersuchenden Stelle erforderlich sind.
 
 
-2.  Enthält das Datenabrufersuchen mindestens die Identifikationsnummer und das Geburtsdatum der betroffenen Person, übermittelt die Registermodernisierungsbehörde der ersuchenden Stelle die übrigen zur Person gespeicherten Daten nach § 4 Absatz 2 und 3, soweit sie zur Erfüllung der Aufgaben der ersuchenden Stelle erforderlich sind.
+2.  Sofern ein Datenabrufersuchen nach Nummer 1 nicht veranlasst werden kann, weil Wohnort und Postleitzahl nicht vorliegen, kann ein Datenabrufersuchen durchgeführt werden, wenn das Datenabrufersuchen mindestens den Familiennamen, den Vornamen und das Geburtsdatum enthält.
+
+
+3.  Enthält das Datenabrufersuchen mindestens die Identifikationsnummer und das Geburtsdatum der betroffenen Person, übermittelt die Registermodernisierungsbehörde der ersuchenden Stelle die übrigen zur Person gespeicherten Daten nach § 4 Absatz 2 und 3, soweit sie zur Erfüllung der Aufgaben der ersuchenden Stelle erforderlich sind.
 
 
 

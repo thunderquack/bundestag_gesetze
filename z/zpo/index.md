@@ -33,6 +33,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 4 G v. 16.7.2024 I Nr. 240 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 8c G v. 19.7.2024 I Nr. 245 ist berücksichtigt
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -3817,12 +3820,12 @@ Nr. 910/2014              des Europäischen Parlaments und des Rates vom 23. Jul
 
 (2) Hat sich eine natürliche Person bei einem ihr allein zugeordneten De-Mail-Konto sicher angemeldet (§ 4 Absatz 1 Satz 2 des De-Mail-Gesetzes), so kann für eine von diesem De-Mail-Konto versandte elektronische Nachricht der Anschein der Echtheit, der sich aus der Überprüfung der Absenderbestätigung gemäß § 5 Absatz 5 des De-Mail-Gesetzes ergibt, nur durch Tatsachen erschüttert werden, die ernstliche Zweifel daran begründen, dass die Nachricht von dieser Person mit diesem Inhalt versandt wurde.
 
-(3) Auf elektronische Dokumente, die von einer öffentlichen Behörde innerhalb der Grenzen ihrer Amtsbefugnisse oder von einer mit öffentlichem Glauben versehenen Person innerhalb des ihr zugewiesenen Geschäftskreises in der vorgeschriebenen Form erstellt worden sind (öffentliche elektronische Dokumente), finden die Vorschriften über die Beweiskraft öffentlicher Urkunden entsprechende Anwendung. Ist das Dokument von der erstellenden öffentlichen Behörde oder von der mit öffentlichem Glauben versehenen Person mit einer qualifizierten elektronischen Signatur versehen, gilt § 437 entsprechend. Das Gleiche gilt, wenn das Dokument im Auftrag der erstellenden öffentlichen Behörde oder der mit öffentlichem Glauben versehenen Person durch einen akkreditierten Diensteanbieter mit seiner qualifizierten elektronischen Signatur gemäß § 5 Absatz 5 des De-Mail-Gesetzes versehen ist und die Absenderbestätigung die erstellende öffentliche Behörde oder die mit öffentlichem Glauben versehene Person als Nutzer des De-Mail-Kontos ausweist.
+(3) Auf elektronische Dokumente, die von einer Behörde innerhalb der Grenzen ihrer Amtsbefugnisse oder von einer mit öffentlichem Glauben versehenen Person innerhalb des ihr zugewiesenen Geschäftskreises in der vorgeschriebenen Form erstellt worden sind (öffentliche elektronische Dokumente), finden die Vorschriften über die Beweiskraft öffentlicher Urkunden entsprechende Anwendung. Ist das Dokument von der Behörde mit einer qualifizierten elektronischen Signatur oder einem qualifizierten elektronischen Siegel oder von der mit öffentlichem Glauben versehenen Person mit einer qualifizierten elektronischen Signatur versehen, so gilt § 437 entsprechend. Das Gleiche gilt, wenn das Dokument im Auftrag der Behörde oder der mit öffentlichem Glauben versehenen Person durch einen akkreditierten Diensteanbieter mit seiner qualifizierten elektronischen Signatur gemäß § 5 Absatz 5 des De-Mail-Gesetzes versehen ist und die Absenderbestätigung die Behörde oder die mit öffentlichem Glauben versehene Person als Nutzer des De-Mail-Kontos ausweist.
 
 
 ##### § 371b Beweiskraft gescannter öffentlicher Urkunden
 
-Wird eine öffentliche Urkunde nach dem Stand der Technik von einer öffentlichen Behörde oder von einer mit öffentlichem Glauben versehenen Person in ein elektronisches Dokument übertragen und liegt die Bestätigung vor, dass das elektronische Dokument mit der Urschrift bildlich und inhaltlich übereinstimmt, finden auf das elektronische Dokument die Vorschriften über die Beweiskraft öffentlicher Urkunden entsprechende Anwendung. Sind das Dokument und die Bestätigung mit einer qualifizierten elektronischen Signatur versehen, gilt § 437 entsprechend.
+Wird eine öffentliche Urkunde nach dem Stand der Technik von einer Behörde oder von einer mit öffentlichem Glauben versehenen Person in ein elektronisches Dokument übertragen und liegt die Bestätigung vor, dass das elektronische Dokument mit der Urschrift bildlich und inhaltlich übereinstimmt, finden auf das elektronische Dokument die Vorschriften über die Beweiskraft öffentlicher Urkunden entsprechende Anwendung. Sind das Dokument und die Bestätigung von der Behörde mit einer qualifizierten elektronischen Signatur oder einem qualifizierten elektronischen Siegel oder von der mit öffentlichem Glauben versehenen Person mit einer qualifizierten elektronischen Signatur versehen, so gilt § 437 entsprechend.
 
 
 ##### § 372 Beweisaufnahme
