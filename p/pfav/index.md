@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 22.4.2021 I 842
 
+Änderung durch
+:   Art. 3 V v. 19.7.2024 I Nr. 250 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Kapitel 5 tritt gem. § 30 Satz 1 dieser V am 1.7.2016 in Kraft
 
 ## Eingangsformel

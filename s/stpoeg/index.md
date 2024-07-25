@@ -16,16 +16,7 @@ Fundstelle
 :   RGBl: 1877, 346
 
 Zuletzt geändert durch
-:   Art. 6b G v. 16.9.2022 I 1454
-
-Änderung durch
-:   Art. 2 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 12.7.2024 I Nr. 234
 
 
 ## Eingangsformel

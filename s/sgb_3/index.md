@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 6.5.2024 I Nr. 148
 
+Änderung durch
+:   Art. 2 G v. 19.7.2024 I Nr. 249 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 

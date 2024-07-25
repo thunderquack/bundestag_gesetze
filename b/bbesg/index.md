@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 22.12.2023 I Nr. 414
 
+Änderung durch
+:   Art. 7 G v. 19.7.2024 I Nr. 247 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -430,9 +433,7 @@ Verringert sich während eines Dienstverhältnisses nach § 1 Absatz 1 das Grund
 
 #### § 20 Bundesbesoldungsordnungen A und B
 
-(1) Die Ämter der Beamten und Soldaten und ihre Besoldungsgruppen werden in Bundesbesoldungsordnungen geregelt. Dabei sind die Ämter nach ihrer Wertigkeit unter Berücksichtigung der gemeinsamen Belange aller Dienstherren den Besoldungsgruppen zuzuordnen.
-
-(2) Die Bundesbesoldungsordnung A – aufsteigende Gehälter – und die Bundesbesoldungsordnung B – feste Gehälter – sind Anlage I. Die Grundgehaltssätze der Besoldungsgruppen sind in Anlage IV ausgewiesen.
+Die Ämter der Beamten und Soldaten und die Zuordnung der Ämter entsprechend ihrer Wertigkeit zu den Besoldungsgruppen sind in Anlage I Bundesbesoldungsordnungen A und B geregelt. Die Grundgehälter der Besoldungsgruppen sind in Anlage IV ausgewiesen.
 
 
 #### § 21 (weggefallen)
@@ -1765,7 +1766,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 **1. Amtsbezeichnungen**
 
-(1) Weibliche Beamte führen die Amtsbezeichnung soweit möglich in der weiblichen Form.
+(1) Weibliche Beamte führen die Amtsbezeichnung soweit möglich in der weiblichen Form. Personen, für die im Personenstandsregister weder die Geschlechtsangabe „weiblich“ noch „männlich“ eingetragen ist, können wählen, ob sie eine Amtsbezeichnung soweit möglich in männlicher oder weiblicher Form oder als Doppelbezeichnung führen. Jeder Amtsbezeichnung kann auf Wunsch der Klammerzusatz „(divers)“ oder „(ohne Geschlechtsangabe)“ hinzugefügt werden.
 
 (2) Die in den Bundesbesoldungsordnungen A und B gesperrt gedruckten Amtsbezeichnungen sind Grundamtsbezeichnungen. Den Grundamtsbezeichnungen können Zusätze beigefügt werden, die hinweisen auf
 
@@ -2295,7 +2296,8 @@ Die Bereiche nach Satz 1 Nummer 3 Buchstabe b bestimmt das Bundesministerium der
 
 Beamte, die in der Zentrale der Bundesagentur für Arbeit verwendet werden, erhalten eine Zulage nach Anlage IX. Mit der Zulage werden auch die mit der Tätigkeit allgemein verbundenen Aufwendungen abgegolten.
 
-## Bundesbesoldungsordnung A
+Bundesbesoldungsordnung A
+## Aufsteigende Gehälter
 
 **Besoldungsgruppe A 2**
 ## (weggefallen)
@@ -2304,18 +2306,18 @@ Beamte, die in der Zentrale der Bundesagentur für Arbeit verwendet werden, erha
 
 Hauptamtsgehilfe
 
-[^F816618_01_BJNR011740975BJNE025059360]
+[^F816618_01_BJNR011740975BJNE025060130]
 Oberaufseher
 
 Oberschaffner
 
 Oberwachtmeister
-[^F816618_02_BJNR011740975BJNE025059360]
+[^F816618_02_BJNR011740975BJNE025060130]
 ,
 
 Grenadier, Jäger, Panzerschütze, Panzergrenadier, Panzerjäger, Kanonier, Panzerkanonier, Pionier, Panzerpionier, Funker, Panzerfunker, Schütze, Flieger, Sanitätssoldat, Matrose
 
-[^F816618_03_BJNR011740975BJNE025059360]
+[^F816618_03_BJNR011740975BJNE025060130]
 Gefreiter
 
 
@@ -2323,34 +2325,34 @@ Gefreiter
 
 Amtsmeister
 
-[^f780997_08_BJNR011740975BJNE025059360]
+[^f780997_08_BJNR011740975BJNE025060130]
 Hauptaufseher
 
 Hauptschaffner
 
 Hauptwachtmeister
-[^f780997_09_BJNR011740975BJNE025059360]
+[^f780997_09_BJNR011740975BJNE025060130]
 ,
 
 Oberwart
-[^f780997_10_BJNR011740975BJNE025059360]
+[^f780997_10_BJNR011740975BJNE025060130]
 ,
 
 Obergefreiter
 
-[^f780997_11_BJNR011740975BJNE025059360]
+[^f780997_11_BJNR011740975BJNE025060130]
 Hauptgefreiter
 
 ## **Besoldungsgruppe A 5**
 
-[^f780997_12_BJNR011740975BJNE025059360]
+[^f780997_12_BJNR011740975BJNE025060130]
 Betriebsassistent
-[^f780997_13_BJNR011740975BJNE025059360]
+[^f780997_13_BJNR011740975BJNE025060130]
 ,
 
 Erster Hauptwachtmeister
 ,
-[^f780997_14_BJNR011740975BJNE025059360]
+[^f780997_14_BJNR011740975BJNE025060130]
 ,
 
 Hauptwart
@@ -2372,46 +2374,46 @@ Seekadett
 
 ## **Besoldungsgruppe A 6**
 
-[^f780997_16_BJNR011740975BJNE025059360]
+[^f780997_16_BJNR011740975BJNE025060130]
 Betriebsassistent
 
 Erster Hauptwachtmeister
-[^f780997_17_BJNR011740975BJNE025059360]
+[^f780997_17_BJNR011740975BJNE025060130]
 ,
 
 Hauptwart
 
 Oberamtsmeister
 
-[^f780997_18_BJNR011740975BJNE025059360]
+[^f780997_18_BJNR011740975BJNE025060130]
 Sekretär
 
 Korporal
 
-[^bjnr011740975bjne025047116_05_BJNR011740975BJNE025059360]
+[^bjnr011740975bjne025047116_05_BJNR011740975BJNE025060130]
 Stabskorporal
 
-[^f780997_19_BJNR011740975BJNE025059360]
+[^f780997_19_BJNR011740975BJNE025060130]
 Stabsunteroffizier
 
 Obermaat
 
 ## **Besoldungsgruppe A 7**
 
-[^f780997_20_BJNR011740975BJNE025059360]
+[^f780997_20_BJNR011740975BJNE025060130]
 Brandmeister
 
-[^f780997_21_BJNR011740975BJNE025059360]
+[^f780997_21_BJNR011740975BJNE025060130]
 Oberlokomotivführer
 
-[^f780997_22_BJNR011740975BJNE025059360]
+[^f780997_22_BJNR011740975BJNE025060130]
 Obersekretär
 
 Oberwerkmeister
 
 Polizeimeister
 
-[^f780997_23_BJNR011740975BJNE025059360]
+[^f780997_23_BJNR011740975BJNE025060130]
 Stabsunteroffizier
 
 Obermaat
@@ -2424,7 +2426,7 @@ Fähnrich
 
 Fähnrich zur See
 
-[^f780997_24_BJNR011740975BJNE025059360]
+[^f780997_24_BJNR011740975BJNE025060130]
 Oberfeldwebel
 
 Oberbootsmann
@@ -2441,7 +2443,7 @@ Oberbrandmeister
 
 Polizeiobermeister
 
-[^f780997_25_BJNR011740975BJNE025059360]
+[^f780997_25_BJNR011740975BJNE025060130]
 Hauptfeldwebel
 
 Hauptbootsmann
@@ -2452,7 +2454,7 @@ Oberfähnrich zur See
 
 ## **Besoldungsgruppe A 9**
 
-[^bjnr011740975bjne025047116_stern_BJNR011740975BJNE025059360]
+[^bjnr011740975bjne025047116_stern_BJNR011740975BJNE025060130]
 Amtsinspektor
 
 Betriebsinspektor
@@ -2483,7 +2485,7 @@ Leutnant
 
 Leutnant zur See
 
-[^f780997_29_BJNR011740975BJNE025059360]
+[^f780997_29_BJNR011740975BJNE025060130]
 **Besoldungsgruppe A 10**
 ## 
 
@@ -2501,16 +2503,16 @@ Oberleutnant
 
 Oberleutnant zur See
 
-[^f780997_30_BJNR011740975BJNE025059360]
+[^f780997_30_BJNR011740975BJNE025060130]
 **Besoldungsgruppe A 11**
 ## 
 
 Amtmann
 
-[^f780997_31_BJNR011740975BJNE025059360]
+[^f780997_31_BJNR011740975BJNE025060130]
 Kanzler
 
-[^f780997_32_BJNR011740975BJNE025059360]
+[^f780997_32_BJNR011740975BJNE025060130]
 Kriminalhauptkommissar
 
 Polizeihauptkommissar
@@ -2525,12 +2527,12 @@ Kapitänleutnant
 
 Amtsrat
 
-[^f780997_33_BJNR011740975BJNE025059360]
+[^f780997_33_BJNR011740975BJNE025060130]
 Kanzler Erster Klasse
-[^f780997_34_BJNR011740975BJNE025059360]
+[^f780997_34_BJNR011740975BJNE025060130]
 ,
 
-[^f780997_35_BJNR011740975BJNE025059360]
+[^f780997_35_BJNR011740975BJNE025060130]
 Kriminalhauptkommissar
 
 Polizeihauptkommissar
@@ -2548,7 +2550,7 @@ Hauptmann
 
 Kapitänleutnant
 
-[^f780997_36_BJNR011740975BJNE025059360]
+[^f780997_36_BJNR011740975BJNE025060130]
 **Besoldungsgruppe A 13**
 ## 
 
@@ -2563,9 +2565,9 @@ Erster Kriminalhauptkommissar
 
 Erster Polizeihauptkommissar
 
-[^f780997_38_BJNR011740975BJNE025059360]
+[^f780997_38_BJNR011740975BJNE025060130]
 Kanzler Erster Klasse
-[^f780997_39_BJNR011740975BJNE025059360]
+[^f780997_39_BJNR011740975BJNE025060130]
 ,
 
 Konsul
@@ -2574,7 +2576,7 @@ Kustos
 
 Legationsrat
 
-[^f780997_40_BJNR011740975BJNE025059360]
+[^f780997_40_BJNR011740975BJNE025060130]
 Militärrabbiner
 
 Oberamtsrat
@@ -2592,16 +2594,16 @@ Rat
 
 Seehauptkapitän
 
-[^f780997_41_BJNR011740975BJNE025059360]
+[^f780997_41_BJNR011740975BJNE025060130]
 Fachschuloberlehrer
-[^f780997_42_BJNR011740975BJNE025059360]
+[^f780997_42_BJNR011740975BJNE025060130]
 ,
-[^f780997_43_BJNR011740975BJNE025059360]
+[^f780997_43_BJNR011740975BJNE025060130]
 ,
 
 Studienrat
 
-–[^f780997_44_BJNR011740975BJNE025059360]
+–[^f780997_44_BJNR011740975BJNE025060130]
    im höheren Dienst –
 
 
@@ -2632,10 +2634,10 @@ Akademischer Oberrat
 
 Konsul Erster Klasse
 
-[^f780997_47_BJNR011740975BJNE025059360]
+[^f780997_47_BJNR011740975BJNE025060130]
 Legationsrat Erster Klasse
 
-[^f780997_49_BJNR011740975BJNE025059360]
+[^f780997_49_BJNR011740975BJNE025060130]
 Militärrabbiner
 
 Oberkustos
@@ -2646,7 +2648,7 @@ Pfarrer
 
 Fachschuldirektor
 
-–[^f780997_50_BJNR011740975BJNE025059360]
+–[^f780997_50_BJNR011740975BJNE025060130]
    als Leiter einer Bundeswehrfachschule mit Lehrgängen, die zu einem Abschluss führen, der dem der Realschule entspricht –
 
 
@@ -2654,9 +2656,9 @@ Fachschuldirektor
 
 Fachschuloberlehrer
 
-–[^f780997_51_BJNR011740975BJNE025059360]
+–[^f780997_51_BJNR011740975BJNE025060130]
    als der ständige Vertreter des Direktors einer Fachschule als Leiter einer Fachschule mit beruflichem Unterricht mit bis zu 360 Unterrichtsteilnehmern –
-[^f780997_52_BJNR011740975BJNE025059360]
+[^f780997_52_BJNR011740975BJNE025060130]
     ,
 
 
@@ -2667,7 +2669,7 @@ Fachschuloberlehrer
 
 Oberstudienrat
 
-–[^f780997_53_BJNR011740975BJNE025059360]
+–[^f780997_53_BJNR011740975BJNE025060130]
    im höheren Dienst –
 
 
@@ -2680,7 +2682,7 @@ Regierungsschulrat
 
 
 
-[^f780997_48_BJNR011740975BJNE025059360]
+[^f780997_48_BJNR011740975BJNE025060130]
 Oberstleutnant
 
 Fregattenkapitän
@@ -2700,20 +2702,20 @@ Akademischer Direktor
 
 
 
-[^f780997_54_BJNR011740975BJNE025059360]
+[^f780997_54_BJNR011740975BJNE025060130]
 Botschafter
 
 Botschaftsrat
 
-[^f780997_55_BJNR011740975BJNE025059360]
+[^f780997_55_BJNR011740975BJNE025060130]
 Bundesbankdirektor
 
 Dekan
 
-[^f780997_56_BJNR011740975BJNE025059360]
+[^f780997_56_BJNR011740975BJNE025060130]
 Direktor
 
-[^f780997_57_BJNR011740975BJNE025059360]
+[^f780997_57_BJNR011740975BJNE025060130]
 Generalkonsul
 
 Gesandter
@@ -2728,9 +2730,9 @@ Vortragender Legationsrat
 
 Direktor einer Fachschule
 
-–[^f780997_61_BJNR011740975BJNE025059360]
+–[^f780997_61_BJNR011740975BJNE025060130]
    als Leiter einer Fachschule mit beruflichem Unterricht mit bis zu 360 Unterrichtsteilnehmern –
-[^f780997_62_BJNR011740975BJNE025059360]
+[^f780997_62_BJNR011740975BJNE025060130]
     ,
 
 
@@ -2755,9 +2757,9 @@ Studiendirektor
 
 
 
-[^f780997_60_BJNR011740975BJNE025059360]
+[^f780997_60_BJNR011740975BJNE025060130]
 Oberstleutnant
-[^f780997_64_BJNR011740975BJNE025059360]
+[^f780997_64_BJNR011740975BJNE025060130]
 ,
 
 Fregattenkapitän
@@ -2779,37 +2781,37 @@ Abteilungsdirektor
 
 Abteilungspräsident
 
-[^f809527_04_BJNR011740975BJNE025059360]
+[^f809527_04_BJNR011740975BJNE025060130]
 Botschafter
 
+[^f809527_10_BJNR011740975BJNE025060130]
 Botschaftsrat Erster Klasse
 
-[^f809527_05_BJNR011740975BJNE025059360]
+[^f809527_05_BJNR011740975BJNE025060130]
 Bundesbankdirektor
 
-[^f809527_06_BJNR011740975BJNE025059360]
+[^f809527_06_BJNR011740975BJNE025060130]
 Direktor
 
-[^f809527_07_BJNR011740975BJNE025059360]
+[^f809527_07_BJNR011740975BJNE025060130]
 Generalkonsul
 
 Gesandter
 
 Leitender Akademischer Direktor
 
-[^f809527_08_BJNR011740975BJNE025059360]
+[^f809527_08_BJNR011740975BJNE025060130]
 – als wissenschaftlicher Mitarbeiter an einer Hochschule –
 
 Leitender Dekan
 
-[^f809527_09_BJNR011740975BJNE025059360]
+[^f809527_09_BJNR011740975BJNE025060130]
 Leitender Direktor
 
 Leitender Militärrabbiner
 
 Ministerialrat
 
-[^f809527_10_BJNR011740975BJNE025059360]
 – bei einer obersten Bundesbehörde oder beim Bundeseisenbahnvermögen –
 
 Museumsdirektor und Professor
@@ -2822,10 +2824,10 @@ Leitender Regierungsschuldirektor
 
 Oberstudiendirektor
 
-[^f809527_11_BJNR011740975BJNE025059360]
+[^f809527_11_BJNR011740975BJNE025060130]
 – im höheren Dienst als Leiter einer Fachschule mit beruflichem Unterricht mit mehr als 360 Unterrichtsteilnehmern –
 
-[^f809527_12_BJNR011740975BJNE025059360]
+[^f809527_12_BJNR011740975BJNE025060130]
 Oberst
 
 Kapitän zur See
@@ -2840,11 +2842,15 @@ Flottenarzt
 
 Oberstveterinär
 
-## Bundesbesoldungsordnung B
+Bundesbesoldungsordnung B
+## Feste Gehälter
 
 ## **Besoldungsgruppe B 1**
 
-[^f809527_13_BJNR011740975BJNE025059360]
+[^f809527_13a_BJNR011740975BJNE025060130]
+Direktor
+
+[^f809527_13_BJNR011740975BJNE025060130]
 Direktor und Professor
 
 ## **Besoldungsgruppe B 2**
@@ -2860,21 +2866,21 @@ Abteilungsdirektor, Abteilungspräsident
 
 
 
-[^f809527_14_BJNR011740975BJNE025059360]
+[^f809527_14_BJNR011740975BJNE025060130]
 Direktor
 
-[^f809527_15_BJNR011740975BJNE025059360]
+[^f809527_15_BJNR011740975BJNE025060130]
 Direktor und Professor
 
 Vizepräsident
 
-–[^f809527_16_BJNR011740975BJNE025059360]
+–[^f809527_16_BJNR011740975BJNE025060130]
    bei einer Dienststelle oder sonstigen Einrichtung, wenn der Leiter in die Besoldungsgruppe B 5 eingestuft ist –
 
 
 
 
-[^f809527_17_BJNR011740975BJNE025059360]
+[^f809527_17_BJNR011740975BJNE025060130]
 Oberst
 
 Kapitän zur See
@@ -2934,19 +2940,22 @@ Abteilungspräsident beim Bundesamt für Soziale Sicherung
 
 
 
-[^f809527_18_BJNR011740975BJNE025059360]
+[^f809527_18_BJNR011740975BJNE025060130]
 Botschafter
 
-[^f809527_19_BJNR011740975BJNE025059360]
+[^f809527_23_BJNR011740975BJNE025060130]
+Botschaftsrat Erster Klasse
+
+[^f809527_19_BJNR011740975BJNE025060130]
 Bundesbankdirektor
 
-[^f809527_20_BJNR011740975BJNE025059360]
+[^f809527_20_BJNR011740975BJNE025060130]
 Direktor
 
-[^f809527_21_BJNR011740975BJNE025059360]
+[^f809527_21_BJNR011740975BJNE025060130]
 Direktor und Professor
 
-[^f809527_22_BJNR011740975BJNE025059360]
+[^f809527_22_BJNR011740975BJNE025060130]
 Generalkonsul
 
 Gesandter
@@ -2971,20 +2980,19 @@ Leitender Postdirektor
 
 Ministerialrat
 
-–[^f809527_23_BJNR011740975BJNE025059360]
-   bei einer obersten Bundesbehörde oder beim Bundeseisenbahnvermögen –
-[^f809527_24_BJNR011740975BJNE025059360]
+–   bei einer obersten Bundesbehörde oder beim Bundeseisenbahnvermögen –
+[^f809527_24_BJNR011740975BJNE025060130]
     ,
 
 
-–   als Mitglied des Bundesrechnungshofes –
+–   Ministerialrat als Mitglied des Bundesrechnungshofes –
 
 
 
 
 Vizepräsident
 
-–[^f809527_25_BJNR011740975BJNE025059360]
+–[^f809527_25_BJNR011740975BJNE025060130]
    bei einer Dienststelle oder sonstigen Einrichtung, wenn der Leiter in die Besoldungsgruppe B 6 eingestuft ist –
 
 
@@ -2992,7 +3000,7 @@ Vizepräsident
 
 Vortragender Legationsrat Erster Klasse
 
-[^f809527_26_BJNR011740975BJNE025059360]
+[^f809527_26_BJNR011740975BJNE025060130]
 Oberst
 
 Kapitän zur See
@@ -3009,20 +3017,26 @@ Oberstveterinär
 
 ## **Besoldungsgruppe B 4**
 
-[^f809527_27_BJNR011740975BJNE025059360]
+[^f809527_27_BJNR011740975BJNE025060130]
 Direktor
 
-[^f809527_28_BJNR011740975BJNE025059360]
+[^f809527_30a_BJNR011740975BJNE025060130]
+Direktor und Professor
+
+[^f809527_28_BJNR011740975BJNE025060130]
 Erster Direktor
 
 Leitender Direktor des Marinearsenals
 
-[^f809527_29_BJNR011740975BJNE025059360]
+[^f809527_29_BJNR011740975BJNE025060130]
 Präsident
+
+[^f809527_30aa_BJNR011740975BJNE025060130]
+Präsident und Professor
 
 Vizepräsident
 
-–[^f809527_30_BJNR011740975BJNE025059360]
+–[^f809527_30_BJNR011740975BJNE025060130]
    bei einer Dienststelle oder sonstigen Einrichtung, wenn der Leiter in die Besoldungsgruppe B 7 eingestuft ist –
 
 
@@ -3031,16 +3045,16 @@ Vizepräsident
 
 ## **Besoldungsgruppe B 5**
 
-[^f809527_31_BJNR011740975BJNE025059360]
+[^f809527_31_BJNR011740975BJNE025060130]
 Bundesbankdirektor
 
-[^f809527_32_BJNR011740975BJNE025059360]
+[^f809527_32_BJNR011740975BJNE025060130]
 Direktor
 
-[^f809527_33_BJNR011740975BJNE025059360]
+[^f809527_33_BJNR011740975BJNE025060130]
 Direktor und Professor
 
-[^f809527_34_BJNR011740975BJNE025059360]
+[^f809527_34_BJNR011740975BJNE025060130]
 Erster Direktor
 
 Generaldirektor der Staatsbibliothek der Stiftung Preußischer Kulturbesitz
@@ -3049,18 +3063,18 @@ Generaldirektor und Professor der Staatlichen Museen der Stiftung Preußischer K
 
 Inspekteur der Bereitschaftspolizeien der Länder
 
-[^f809527_35_BJNR011740975BJNE025059360]
+[^f809527_35_BJNR011740975BJNE025060130]
 Oberdirektor
 
-[^f809527_36_BJNR011740975BJNE025059360]
+[^f809527_36_BJNR011740975BJNE025060130]
 Präsident
 
-[^f809527_37_BJNR011740975BJNE025059360]
+[^f809527_37_BJNR011740975BJNE025060130]
 Präsident und Professor
 
 Vizepräsident, Vizedirektor
 
-–[^f809527_38_BJNR011740975BJNE025059360]
+–[^f809527_38_BJNR011740975BJNE025060130]
    bei einer Dienststelle oder sonstigen Einrichtung, wenn der Leiter in die Besoldungsgruppe B 8 eingestuft ist –
 
 
@@ -3069,28 +3083,28 @@ Vizepräsident, Vizedirektor
 
 ## **Besoldungsgruppe B 6**
 
-[^f809527_39_BJNR011740975BJNE025059360]
+[^f809527_39_BJNR011740975BJNE025060130]
 Botschafter
 
-[^f809527_40_BJNR011740975BJNE025059360]
+[^f809527_40_BJNR011740975BJNE025060130]
 Bundesbankdirektor
 
 Bundeswehrdisziplinaranwalt
 
 Direktionspräsident bei der Generalzolldirektion
 
-[^f809527_41_BJNR011740975BJNE025059360]
+[^f809527_41_BJNR011740975BJNE025060130]
 Direktor
 
-[^f809527_42_BJNR011740975BJNE025059360]
+[^f809527_42_BJNR011740975BJNE025060130]
 Direktor und Professor
 
-[^f809527_43_BJNR011740975BJNE025059360]
+[^f809527_43_BJNR011740975BJNE025060130]
 Erster Direktor
 
 Generaldirektor der Deutschen Nationalbibliothek
 
-[^f809527_44_BJNR011740975BJNE025059360]
+[^f809527_44_BJNR011740975BJNE025060130]
 Generalkonsul
 
 Gesandter
@@ -3105,10 +3119,10 @@ Ministerialdirigent
 
 –   bei einer obersten Bundesbehörde
 
-[^f809527_45_BJNR011740975BJNE025059360]
+[^f809527_45_BJNR011740975BJNE025060130]
     als Leiter einer Abteilung,
 
-[^f809527_46_BJNR011740975BJNE025059360]
+[^f809527_46_BJNR011740975BJNE025060130]
     als Leiter einer Unterabteilung,
 
     als der ständige Vertreter eines in die Besoldungsgruppe B 9 eingestuften Abteilungsleiters, soweit kein Unterabteilungsleiter vorhanden ist –
@@ -3119,18 +3133,18 @@ Ministerialdirigent
 
 
 
-[^f809527_47_BJNR011740975BJNE025059360]
+[^f809527_47_BJNR011740975BJNE025060130]
 Oberdirektor
 
-[^f809527_48_BJNR011740975BJNE025059360]
+[^f809527_48_BJNR011740975BJNE025060130]
 Präsident
 
-[^f809527_49_BJNR011740975BJNE025059360]
+[^f809527_49_BJNR011740975BJNE025060130]
 Präsident und Professor
 
 Vizepräsident
 
-–[^f809527_50_BJNR011740975BJNE025059360]
+–[^f809527_50_BJNR011740975BJNE025060130]
    bei einer Dienststelle oder sonstigen Einrichtung, wenn der Leiter in die Besoldungsgruppe B 9 eingestuft ist –
 
 
@@ -3151,7 +3165,7 @@ Admiralarzt
 
 ## **Besoldungsgruppe B 7**
 
-[^f809527_51_BJNR011740975BJNE025059360]
+[^f809527_51_BJNR011740975BJNE025060130]
 Direktor
 
 Ministerialdirigent
@@ -3161,13 +3175,13 @@ Ministerialdirigent
 
 
 
-[^f809527_52_BJNR011740975BJNE025059360]
+[^f809527_52_BJNR011740975BJNE025060130]
 Oberdirektor
 
-[^f809527_53_BJNR011740975BJNE025059360]
+[^f809527_53_BJNR011740975BJNE025060130]
 Präsident
 
-[^f809527_54_BJNR011740975BJNE025059360]
+[^f809527_54_BJNR011740975BJNE025060130]
 Präsident und Professor
 
 Vizepräsident
@@ -3190,37 +3204,37 @@ Admiralstabsarzt
 
 ## **Besoldungsgruppe B 8**
 
-[^f809527_55_BJNR011740975BJNE025059360]
+[^f809527_55_BJNR011740975BJNE025060130]
 Direktor
 
-[^f809527_56_BJNR011740975BJNE025059360]
+[^f809527_56_BJNR011740975BJNE025060130]
 Erster Direktor
 
-[^f809527_57_BJNR011740975BJNE025059360]
+[^f809527_57_BJNR011740975BJNE025060130]
 Präsident
 
-[^f809527_58_BJNR011740975BJNE025059360]
+[^f809527_58_BJNR011740975BJNE025060130]
 Präsident und Professor
 
 ## **Besoldungsgruppe B 9**
 
-[^f809527_59_BJNR011740975BJNE025059360]
+[^f809527_59_BJNR011740975BJNE025060130]
 Botschafter
 
-[^f809527_60_BJNR011740975BJNE025059360]
+[^f809527_60_BJNR011740975BJNE025060130]
 Bundesbankdirektor
 
 Direktor beim Bundesverfassungsgericht
 
 Ministerialdirektor
 
-–[^f809527_61_BJNR011740975BJNE025059360]
+–[^f809527_61_BJNR011740975BJNE025060130]
    bei einer obersten Bundesbehörde als Leiter einer Abteilung –
 
 
 
 
-[^f809527_62_BJNR011740975BJNE025059360]
+[^f809527_62_BJNR011740975BJNE025060130]
 Präsident
 
 Vizepräsident des Bundesrechnungshofes
@@ -3250,7 +3264,7 @@ Ministerialdirektor
 
 Präsident der Deutschen Rentenversicherung Bund
 
-[^f809527_63_BJNR011740975BJNE025059360]
+[^f809527_63_BJNR011740975BJNE025060130]
 General
 
 Admiral
@@ -3262,118 +3276,121 @@ Präsident des Bundesrechnungshofes
 Staatssekretär
 
     Erhält eine Amtszulage nach Anlage IX.
-[^f780997_08_BJNR011740975BJNE025059360]:     Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.
-[^f780997_09_BJNR011740975BJNE025059360]:     Als Eingangsamt.
-[^f780997_10_BJNR011740975BJNE025059360]:     Erhält eine Amtszulage nach Anlage IX.
-[^f780997_11_BJNR011740975BJNE025059360]:     Erhält eine Amtszulage nach Anlage IX.
-[^f780997_12_BJNR011740975BJNE025059360]:     Soweit nicht in der Besoldungsgruppe A 6.
-[^f780997_13_BJNR011740975BJNE025059360]:     Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.
-[^f780997_14_BJNR011740975BJNE025059360]:     Soweit nicht in der Besoldungsgruppe A 5.
-[^f780997_16_BJNR011740975BJNE025059360]:     Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX.
-[^f780997_17_BJNR011740975BJNE025059360]:     Als Eingangsamt.
-[^f780997_18_BJNR011740975BJNE025059360]:     Soweit nicht in der Besoldungsgruppe A 7.
-[^f780997_19_BJNR011740975BJNE025059360]:     Erhält eine Amtszulage nach Anlage IX.
-[^bjnr011740975bjne025047116_05_BJNR011740975BJNE025059360]:     Als Eingangsamt.
-[^f780997_20_BJNR011740975BJNE025059360]:     Auch als Eingangsamt.
-[^f780997_21_BJNR011740975BJNE025059360]:     Auch als Eingangsamt für Laufbahnen des mittleren technischen Dienstes.
-[^f780997_22_BJNR011740975BJNE025059360]:     Soweit nicht in der Besoldungsgruppe A 6.
-[^f780997_23_BJNR011740975BJNE025059360]:     Erhält eine Amtszulage nach Anlage IX.
-[^f780997_24_BJNR011740975BJNE025059360]:     Erhält eine Amtszulage nach Anlage IX.
-[^f780997_25_BJNR011740975BJNE025059360]:     Beamte und Soldaten in Funktionen, die sich von denen der Besoldungsgruppe A 9 abheben, können eine Amtszulage nach Anlage IX erhalten.
-[^bjnr011740975bjne025047116_stern_BJNR011740975BJNE025059360]:     Auch als Eingangsamt (siehe § 23 Absatz 2).
-[^f780997_29_BJNR011740975BJNE025059360]:     Auch als Eingangsamt (siehe § 23 Absatz 2).
-[^f780997_30_BJNR011740975BJNE025059360]:     Im Auswärtigen Dienst.
-[^f780997_31_BJNR011740975BJNE025059360]:     Soweit nicht in der Besoldungsgruppe A 12.
-[^f780997_32_BJNR011740975BJNE025059360]:     Soweit nicht in der Besoldungsgruppe A 13.
-[^f780997_33_BJNR011740975BJNE025059360]:     Im Auswärtigen Dienst.
-[^f780997_34_BJNR011740975BJNE025059360]:     Soweit nicht in der Besoldungsgruppe A 11.
-[^f780997_35_BJNR011740975BJNE025059360]:     Beamte des gehobenen Dienstes und Soldaten im Dienstgrad Stabshauptmann oder Stabskapitänleutnant in Funktionen, die sich von denen der Besoldungsgruppe A 13 abheben, können eine Amtszulage nach Anlage IX erhalten.
-[^f780997_36_BJNR011740975BJNE025059360]:     Soweit nicht in der Besoldungsgruppe A 12.
-[^f780997_38_BJNR011740975BJNE025059360]:     Im Auswärtigen Dienst.
-[^f780997_39_BJNR011740975BJNE025059360]:     Soweit nicht in der Besoldungsgruppe A 14.
-[^f780997_40_BJNR011740975BJNE025059360]:     Mit der Befähigung für das Lehramt an Realschulen.
-[^f780997_41_BJNR011740975BJNE025059360]:     Erhält als der ständige Vertreter eines Fachschuldirektors oder als Fachvorsteher eine Amtszulage nach Anlage IX.
-[^f780997_42_BJNR011740975BJNE025059360]:     Als Eingangsamt.
-[^f780997_43_BJNR011740975BJNE025059360]:     Mit der Befähigung für das Lehramt an Gymnasien oder beruflichen Schulen.
-[^f780997_44_BJNR011740975BJNE025059360]:     Führt während der Verwendung als Leiter einer Botschaft oder Gesandtschaft die Amtsbezeichnung „Botschafter“ oder „Gesandter“.
-[^f780997_47_BJNR011740975BJNE025059360]:     Soweit nicht in der Besoldungsgruppe A 15.
-[^f780997_48_BJNR011740975BJNE025059360]:     Soweit nicht in der Besoldungsgruppe A 13.
-[^f780997_49_BJNR011740975BJNE025059360]:     Erhält eine Amtszulage nach Anlage IX.
-[^f780997_50_BJNR011740975BJNE025059360]:     Mit der Befähigung für das Lehramt an Realschulen.
-[^f780997_51_BJNR011740975BJNE025059360]:     Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.
-[^f780997_52_BJNR011740975BJNE025059360]:     Mit der Befähigung für das Lehramt an Gymnasien oder beruflichen Schulen.
-[^f780997_53_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 6, B 9.
-[^f780997_54_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 5, B 6, B 9.
-[^f780997_55_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 16, B 2, B 3, B 4, B 6, B 7, B 8, B 9. Prüfer als Gruppenleiter beim Deutschen Patent- und Markenamt erhalten eine Amtszulage nach Anlage IX.
-[^f780997_56_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 6.
-[^f780997_57_BJNR011740975BJNE025059360]:     Soweit nicht in der Besoldungsgruppe A 14.
-[^f780997_60_BJNR011740975BJNE025059360]:     Erhält eine Amtszulage nach Anlage IX.
-[^f780997_61_BJNR011740975BJNE025059360]:     Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.
-[^f780997_62_BJNR011740975BJNE025059360]:     Auf herausgehobenen Dienstposten.
-[^f780997_64_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 6, B 9.
-[^f809527_04_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 5, B 6, B 9.
-[^f809527_05_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, B 2, B 3, B 4, B 5, B 6, B 7, B 8, B 9.
-[^f809527_06_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 6.
-[^f809527_07_BJNR011740975BJNE025059360]:     Nur in Stellen von besonderer Bedeutung.
-[^f809527_08_BJNR011740975BJNE025059360]:     Für die Leiter von besonders großen und besonders bedeutenden unteren Verwaltungsbehörden sowie die Leiter von Mittelbehörden oder Oberbehörden können nach Maßgabe des Haushalts Planstellen mit einer Amtszulage nach Anlage IX ausgestattet werden.
-[^f809527_09_BJNR011740975BJNE025059360]:     Soweit nicht in der Besoldungsgruppe B 3.
-[^f809527_10_BJNR011740975BJNE025059360]:     Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.
-[^f809527_11_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 2, B 3.
-[^f809527_12_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 2, B 3, B 5, B 6.
-[^f809527_13_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 4, B 5, B 6, B 7, B 8, B 9.
-[^f809527_14_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 1, B 3, B 5, B 6.
-[^f809527_15_BJNR011740975BJNE025059360]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.
-[^f809527_16_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 16, B 3.
-[^f809527_17_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6, B 9.
-[^f809527_18_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 5, B 6, B 9.
-[^f809527_19_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 2, B 4, B 5, B 6, B 7, B 8, B 9.
-[^f809527_20_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 1, B 2, B 5, B 6.
-[^f809527_21_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6.
-[^f809527_22_BJNR011740975BJNE025059360]:     Soweit nicht in der Besoldungsgruppe A 16.
-[^f809527_23_BJNR011740975BJNE025059360]:     Der Leiter des Präsidialbüros des Präsidenten des Deutschen Bundestages erhält eine Stellenzulage in Höhe des Unterschiedsbetrages zwischen dem Grundgehalt der Besoldungsgruppe B 3 und dem Grundgehalt der Besoldungsgruppe B 6.
-[^f809527_24_BJNR011740975BJNE025059360]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.
-[^f809527_25_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 16, B 2.
-[^f809527_26_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 2, B 3, B 6, B 7, B 8, B 9.
-[^f809527_27_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 5, B 6.
-[^f809527_28_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 5, B 6, B 7, B 8, B 9.
-[^f809527_29_BJNR011740975BJNE025059360]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.
-[^f809527_30_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 6, B 9.
-[^f809527_31_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 2, B 3, B 4, B 6, B 7, B 8, B 9.
-[^f809527_32_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 1, B 2, B 3, B 6.
-[^f809527_33_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 4, B 6, B 8.
-[^f809527_34_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 6, B 7.
-[^f809527_35_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 4, B 6, B 7, B 8, B 9.
-[^f809527_36_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 6, B 7, B 8.
-[^f809527_37_BJNR011740975BJNE025059360]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.
-[^f809527_38_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 9.
-[^f809527_39_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 5, B 9.
-[^f809527_40_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 2, B 3, B 4, B 5, B 7, B 8, B 9.
-[^f809527_41_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 1, B 2, B 3, B 5.
-[^f809527_42_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 8.
-[^f809527_43_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3.
-[^f809527_44_BJNR011740975BJNE025059360]:     Soweit die Funktion nicht dem Amt des Ministerialdirektors in die Besoldungsgruppe B 9 zugeordnet ist.
-[^f809527_45_BJNR011740975BJNE025059360]:     Soweit die Funktion nicht dem Amt des Ministerialrats in die Besoldungsgruppe B 3 zugeordnet ist.
-[^f809527_46_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 5, B 7.
-[^f809527_47_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 7, B 8, B 9.
-[^f809527_48_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 5, B 7, B 8.
-[^f809527_49_BJNR011740975BJNE025059360]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört.
-[^f809527_50_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 2, B 3, B 4, B 6, B 8, B 9; nur bei Trägern der Sozialversicherung.
-[^f809527_51_BJNR011740975BJNE025059360]:     Für höchstens einen Geschäftsführer, dessen Funktion sich von denen der Geschäftsführer in den Besoldungsgruppen B 5, B 6 abhebt.
-[^f809527_52_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6, B 8, B 9.
-[^f809527_53_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 5, B 6, B 8.
-[^f809527_54_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 2, B 3, B 4, B 6, B 7, B 9; nur bei Trägern der Sozialversicherung.
-[^f809527_55_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6.
-[^f809527_56_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6, B 7, B 9.
-[^f809527_57_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 5, B 6, B 7.
-[^f809527_58_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 6.
-[^f809527_59_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 5, B 6.
-[^f809527_60_BJNR011740975BJNE025059360]:     Soweit die Funktion nicht dem Amt des Ministerialdirigenten in Besoldungsgruppe B 6 zugeordnet ist. Auch in der Funktion einer übergeordneten Leitung mehrerer Abteilungen.
-[^f809527_61_BJNR011740975BJNE025059360]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6, B 7, B 8.
-[^f809527_62_BJNR011740975BJNE025059360]:     Erhält als Generalinspekteur der Bundeswehr eine Amtszulage nach Anlage IX.
-[^f809527_63_BJNR011740975BJNE025059360]:     Erhält eine Amtszulage nach Anlage IX.
-[^F816618_01_BJNR011740975BJNE025059360]:     Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.
-[^F816618_02_BJNR011740975BJNE025059360]:     Erhält eine Amtszulage nach Anlage IX.
-[^F816618_03_BJNR011740975BJNE025059360]: 
+[^f780997_08_BJNR011740975BJNE025060130]:     Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.
+[^f780997_09_BJNR011740975BJNE025060130]:     Als Eingangsamt.
+[^f780997_10_BJNR011740975BJNE025060130]:     Erhält eine Amtszulage nach Anlage IX.
+[^f780997_11_BJNR011740975BJNE025060130]:     Erhält eine Amtszulage nach Anlage IX.
+[^f780997_12_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 6.
+[^f780997_13_BJNR011740975BJNE025060130]:     Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.
+[^f780997_14_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 5.
+[^f780997_16_BJNR011740975BJNE025060130]:     Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX.
+[^f780997_17_BJNR011740975BJNE025060130]:     Als Eingangsamt.
+[^f780997_18_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 7.
+[^f780997_19_BJNR011740975BJNE025060130]:     Erhält eine Amtszulage nach Anlage IX.
+[^bjnr011740975bjne025047116_05_BJNR011740975BJNE025060130]:     Als Eingangsamt.
+[^f780997_20_BJNR011740975BJNE025060130]:     Auch als Eingangsamt.
+[^f780997_21_BJNR011740975BJNE025060130]:     Auch als Eingangsamt für Laufbahnen des mittleren technischen Dienstes.
+[^f780997_22_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 6.
+[^f780997_23_BJNR011740975BJNE025060130]:     Erhält eine Amtszulage nach Anlage IX.
+[^f780997_24_BJNR011740975BJNE025060130]:     Erhält eine Amtszulage nach Anlage IX.
+[^f780997_25_BJNR011740975BJNE025060130]:     Beamte und Soldaten in Funktionen, die sich von denen der Besoldungsgruppe A 9 abheben, können eine Amtszulage nach Anlage IX erhalten.
+[^bjnr011740975bjne025047116_stern_BJNR011740975BJNE025060130]:     Auch als Eingangsamt (siehe § 23 Absatz 2).
+[^f780997_29_BJNR011740975BJNE025060130]:     Auch als Eingangsamt (siehe § 23 Absatz 2).
+[^f780997_30_BJNR011740975BJNE025060130]:     Im Auswärtigen Dienst.
+[^f780997_31_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 12.
+[^f780997_32_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 13.
+[^f780997_33_BJNR011740975BJNE025060130]:     Im Auswärtigen Dienst.
+[^f780997_34_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 11.
+[^f780997_35_BJNR011740975BJNE025060130]:     Beamte des gehobenen Dienstes und Soldaten im Dienstgrad Stabshauptmann oder Stabskapitänleutnant in Funktionen, die sich von denen der Besoldungsgruppe A 13 abheben, können eine Amtszulage nach Anlage IX erhalten.
+[^f780997_36_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 12.
+[^f780997_38_BJNR011740975BJNE025060130]:     Im Auswärtigen Dienst.
+[^f780997_39_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 14.
+[^f780997_40_BJNR011740975BJNE025060130]:     Mit der Befähigung für das Lehramt an Realschulen.
+[^f780997_41_BJNR011740975BJNE025060130]:     Erhält als der ständige Vertreter eines Fachschuldirektors oder als Fachvorsteher eine Amtszulage nach Anlage IX.
+[^f780997_42_BJNR011740975BJNE025060130]:     Als Eingangsamt.
+[^f780997_43_BJNR011740975BJNE025060130]:     Mit der Befähigung für ein Lehramt.
+[^f780997_44_BJNR011740975BJNE025060130]:     Führt während der Verwendung als Leiter einer Botschaft oder Gesandtschaft die Amtsbezeichnung „Botschafter“ oder „Gesandter“.
+[^f780997_47_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 15.
+[^f780997_48_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 13.
+[^f780997_49_BJNR011740975BJNE025060130]:     Erhält eine Amtszulage nach Anlage IX.
+[^f780997_50_BJNR011740975BJNE025060130]:     Mit der Befähigung für das Lehramt an Realschulen.
+[^f780997_51_BJNR011740975BJNE025060130]:     Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.
+[^f780997_52_BJNR011740975BJNE025060130]:     Mit der Befähigung für ein Lehramt.
+[^f780997_53_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 6, B 9.
+[^f780997_54_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 5, B 6, B 9.
+[^f780997_55_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 16, B 2, B 3, B 4, B 6, B 7, B 8, B 9. Prüfer als Gruppenleiter beim Deutschen Patent- und Markenamt erhalten eine Amtszulage nach Anlage IX.
+[^f780997_56_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 6.
+[^f780997_57_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 14.
+[^f780997_60_BJNR011740975BJNE025060130]:     Erhält eine Amtszulage nach Anlage IX.
+[^f780997_61_BJNR011740975BJNE025060130]:     Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.
+[^f780997_62_BJNR011740975BJNE025060130]:     Auf herausgehobenen Dienstposten.
+[^f780997_64_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 6, B 9.
+[^f809527_04_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 5, B 6, B 9.
+[^f809527_05_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, B 2, B 3, B 4, B 5, B 6, B 7, B 8, B 9.
+[^f809527_06_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 6.
+[^f809527_07_BJNR011740975BJNE025060130]:     Nur in Stellen von besonderer Bedeutung.
+[^f809527_08_BJNR011740975BJNE025060130]:     Für die Leiter von besonders großen und besonders bedeutenden unteren Verwaltungsbehörden sowie die Leiter von Mittelbehörden oder Oberbehörden können nach Maßgabe des Haushalts Planstellen mit einer Amtszulage nach Anlage IX ausgestattet werden.
+[^f809527_09_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe B 3.
+[^f809527_10_BJNR011740975BJNE025060130]:     Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.
+[^f809527_11_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 2, B 3.
+[^f809527_12_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 2, B 3, B 4, B 5, B 6.
+[^f809527_13_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 2, B 3, B 4, B 5, B 6, B 7, B 8.
+[^f809527_13a_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 3, B 4, B 5, B 6, B 7, B 8.
+[^f809527_14_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 1, B 3, B 4, B 5, B 6.
+[^f809527_15_BJNR011740975BJNE025060130]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.
+[^f809527_16_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 16, B 3.
+[^f809527_17_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6, B 9.
+[^f809527_18_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 5, B 6, B 9.
+[^f809527_19_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 4, B 5, B 6, B 7, B 8.
+[^f809527_20_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 1, B 2, B 4, B 5, B 6.
+[^f809527_21_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6.
+[^f809527_22_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 16.
+[^f809527_23_BJNR011740975BJNE025060130]:     Der Leiter des Präsidialbüros des Präsidenten des Deutschen Bundestages erhält eine Stellenzulage in Höhe des Unterschiedsbetrages zwischen dem Grundgehalt der Besoldungsgruppe B 3 und dem Grundgehalt der Besoldungsgruppe B 6.
+[^f809527_24_BJNR011740975BJNE025060130]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.
+[^f809527_25_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 16, B 2.
+[^f809527_26_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 5, B 6, B 7, B 8.
+[^f809527_27_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 5, B 6.
+[^f809527_28_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 5, B 6, B 7, B 8, B 9.
+[^f809527_29_BJNR011740975BJNE025060130]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.
+[^f809527_30_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 1, B 2, B 3, B 5, B 6.
+[^f809527_30a_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 5, B 6, B 7, B 8.
+[^f809527_30aa_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 6, B 9.
+[^f809527_31_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 4, B 6, B 7, B 8.
+[^f809527_32_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 1, B 2, B 3, B 4, B 6.
+[^f809527_33_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 4, B 6, B 8.
+[^f809527_34_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 6, B 7.
+[^f809527_35_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 4, B 6, B 7, B 8, B 9.
+[^f809527_36_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 4, B 6, B 7, B 8.
+[^f809527_37_BJNR011740975BJNE025060130]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.
+[^f809527_38_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 9.
+[^f809527_39_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 5, B 9.
+[^f809527_40_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 4, B 5, B 7, B 8.
+[^f809527_41_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 1, B 2, B 3, B 4, B 5.
+[^f809527_42_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 8.
+[^f809527_43_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3.
+[^f809527_44_BJNR011740975BJNE025060130]:     Soweit die Funktion nicht dem Amt des Ministerialdirektors in die Besoldungsgruppe B 9 zugeordnet ist.
+[^f809527_45_BJNR011740975BJNE025060130]:     Soweit die Funktion nicht dem Amt des Ministerialrats in die Besoldungsgruppe B 3 zugeordnet ist.
+[^f809527_46_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 5, B 7.
+[^f809527_47_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 7, B 8, B 9.
+[^f809527_48_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 4, B 5, B 7, B 8.
+[^f809527_49_BJNR011740975BJNE025060130]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört.
+[^f809527_50_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 4, B 5, B 6, B 8.
+[^f809527_51_BJNR011740975BJNE025060130]:     Für höchstens einen Geschäftsführer, dessen Funktion sich von denen der Geschäftsführer in den Besoldungsgruppen B 5, B 6 abhebt.
+[^f809527_52_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6, B 8, B 9.
+[^f809527_53_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 4, B 5, B 6, B 8.
+[^f809527_54_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 4, B 5, B 6, B 7.
+[^f809527_55_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6.
+[^f809527_56_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6, B 7, B 9.
+[^f809527_57_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 4, B 5, B 6, B 7.
+[^f809527_58_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 6.
+[^f809527_59_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 5, B 6.
+[^f809527_60_BJNR011740975BJNE025060130]:     Soweit die Funktion nicht dem Amt des Ministerialdirigenten in Besoldungsgruppe B 6 zugeordnet ist. Auch in der Funktion einer übergeordneten Leitung mehrerer Abteilungen.
+[^f809527_61_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6, B 7, B 8.
+[^f809527_62_BJNR011740975BJNE025060130]:     Erhält als Generalinspekteur der Bundeswehr eine Amtszulage nach Anlage IX.
+[^f809527_63_BJNR011740975BJNE025060130]:     Erhält eine Amtszulage nach Anlage IX.
+[^F816618_01_BJNR011740975BJNE025060130]:     Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.
+[^F816618_02_BJNR011740975BJNE025060130]:     Erhält eine Amtszulage nach Anlage IX.
+[^F816618_03_BJNR011740975BJNE025060130]: 
 (zu § 32 Satz 1)
 
 ### Anlage II Bundesbesoldungsordnung W
@@ -3395,7 +3412,7 @@ Professoren an einer Hochschule, die zugleich das Amt eines Richters der Besoldu
 
 ## **3. Amtsbezeichnungen**
 
-Weibliche Beamte führen die Amtsbezeichnung in der weiblichen Form.
+Weibliche Beamte führen die Amtsbezeichnung in der weiblichen Form. Personen, für die im Personenstandsregister weder die Geschlechtsangabe „weiblich“ noch „männlich“ eingetragen ist, können wählen, ob sie eine Amtsbezeichnung in männlicher oder weiblicher Form oder als Doppelbezeichnung führen. Jeder Amtsbezeichnung kann auf Wunsch der Klammerzusatz „(divers)“ oder „(ohne Geschlechtsangabe)“ hinzugefügt werden.
 
 ## **Besoldungsgruppe W 1**
 
@@ -3403,15 +3420,15 @@ Professor als Juniorprofessor
 
 ## **Besoldungsgruppe W 2**
 
-[^f780997_131_BJNR011740975BJNE012419130]
+[^f780997_131_BJNR011740975BJNE012420130]
 Professor
 
 Universitätsprofessor
 
 Präsident der ...
-[^f780997_132_BJNR011740975BJNE012419130]
+[^f780997_132_BJNR011740975BJNE012420130]
 ,
-[^f780997_133_BJNR011740975BJNE012419130]
+[^f780997_133_BJNR011740975BJNE012420130]
 ,
 
 Vizepräsident der ...
@@ -3424,15 +3441,15 @@ Kanzler der ...
 
 ## **Besoldungsgruppe W 3**
 
-[^f780997_134_BJNR011740975BJNE012419130]
+[^f780997_134_BJNR011740975BJNE012420130]
 Professor
 
 Universitätsprofessor
 
 Präsident der …
-[^f780997_135_BJNR011740975BJNE012419130]
+[^f780997_135_BJNR011740975BJNE012420130]
 ,
-[^f780997_136_BJNR011740975BJNE012419130]
+[^f780997_136_BJNR011740975BJNE012420130]
 ,
 
 Vizepräsident der …
@@ -3444,12 +3461,12 @@ Kanzler der …
 ,
 
     Soweit nicht in der Besoldungsgruppe W 3.
-[^f780997_131_BJNR011740975BJNE012419130]:     Der Amtsbezeichnung ist ein Zusatz beizufügen, der auf die Hochschule hinweist, der der Amtsinhaber angehört.
-[^f780997_132_BJNR011740975BJNE012419130]:     Soweit nicht in Besoldungsgruppen der Bundesbesoldungsordnungen A und B (§ 32 Satz 3).
-[^f780997_133_BJNR011740975BJNE012419130]:     Soweit nicht in der Besoldungsgruppe W 2.
-[^f780997_134_BJNR011740975BJNE012419130]:     Der Amtsbezeichnung ist ein Zusatz beizufügen, der auf die Hochschule hinweist, der der Amtsinhaber angehört.
-[^f780997_135_BJNR011740975BJNE012419130]:     Soweit nicht in Besoldungsgruppen der Bundesbesoldungsordnungen A und B (§ 32 Satz 3).
-[^f780997_136_BJNR011740975BJNE012419130]: 
+[^f780997_131_BJNR011740975BJNE012420130]:     Der Amtsbezeichnung ist ein Zusatz beizufügen, der auf die Hochschule hinweist, der der Amtsinhaber angehört.
+[^f780997_132_BJNR011740975BJNE012420130]:     Soweit nicht in Besoldungsgruppen der Bundesbesoldungsordnungen A und B (§ 32 Satz 3).
+[^f780997_133_BJNR011740975BJNE012420130]:     Soweit nicht in der Besoldungsgruppe W 2.
+[^f780997_134_BJNR011740975BJNE012420130]:     Der Amtsbezeichnung ist ein Zusatz beizufügen, der auf die Hochschule hinweist, der der Amtsinhaber angehört.
+[^f780997_135_BJNR011740975BJNE012420130]:     Soweit nicht in Besoldungsgruppen der Bundesbesoldungsordnungen A und B (§ 32 Satz 3).
+[^f780997_136_BJNR011740975BJNE012420130]: 
 (zu § 37 Satz 1)
 
 ### Anlage III Bundesbesoldungsordnung R
@@ -3460,7 +3477,7 @@ Vorbemerkungen
 
 **1. Amtsbezeichnungen**
 
-Weibliche Richter und Staatsanwälte führen die Amtsbezeichnungen in der weiblichen Form.
+Weibliche Richter und Staatsanwälte führen die Amtsbezeichnungen in der weiblichen Form. Personen, für die im Personenstandsregister weder die Geschlechtsangabe „weiblich“ noch „männlich“ eingetragen ist, können wählen, ob sie eine Amtsbezeichnung in männlicher oder weiblicher Form oder als Doppelbezeichnung führen. Jeder Amtsbezeichnung kann auf Wunsch der Klammerzusatz „(divers)“ oder „(ohne Geschlechtsangabe)“ hinzugefügt werden.
 
 **2. Zulage für Richter und Staatsanwälte bei obersten Gerichtshöfen des Bundes sowie bei obersten Behörden**
 
@@ -3479,7 +3496,7 @@ Richter am Bundespatentgericht
 
 Vorsitzender Richter am Truppendienstgericht
 
-[^f780997_137_BJNR011740975BJNE012512116]
+[^f780997_137_BJNR011740975BJNE012513130]
 Vizepräsident des Truppendienstgerichts
 
 Staatsanwalt beim Bundesgerichtshof
@@ -3520,7 +3537,7 @@ Bundesanwalt beim Bundesgerichtshof
 –   als Abteilungsleiter bei der Bundesanwaltschaft –
 
 
-–[^f809527_64_BJNR011740975BJNE012512116]
+–[^f809527_64_BJNR011740975BJNE012513130]
    als der ständige Vertreter des Generalbundesanwalts –
 
 
@@ -3540,7 +3557,7 @@ Vorsitzender Richter am Bundesverwaltungsgericht
 
 Präsident des Bundespatentgerichts
 
-[^f780997_138_BJNR011740975BJNE012512116]
+[^f780997_138_BJNR011740975BJNE012513130]
 Vizepräsident des Bundesarbeitsgerichts
 
 Vizepräsident des Bundesfinanzhofs
@@ -3568,9 +3585,9 @@ Präsident des Bundessozialgerichts
 Präsident des Bundesverwaltungsgerichts
 
     Erhält als der ständige Vertreter des Präsidenten eine Amtszulage nach Anlage IX.
-[^f780997_137_BJNR011740975BJNE012512116]:     Erhält eine Amtszulage nach Anlage IX.
-[^f780997_138_BJNR011740975BJNE012512116]:     Erhält eine Amtszulage nach Anlage IX.
-[^f809527_64_BJNR011740975BJNE012512116]: 
+[^f780997_137_BJNR011740975BJNE012513130]:     Erhält eine Amtszulage nach Anlage IX.
+[^f780997_138_BJNR011740975BJNE012513130]:     Erhält eine Amtszulage nach Anlage IX.
+[^f809527_64_BJNR011740975BJNE012513130]: 
 (zu § 20 Absatz 2 Satz 2, § 32 Satz 2, § 37 Satz 2)
 
 ### Anlage IV Gültig ab 1. März 2024

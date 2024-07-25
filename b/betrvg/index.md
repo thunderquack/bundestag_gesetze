@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 25.9.2001 I 2518
 
 Zuletzt geändert durch
-:   Art. 6d G v. 16.9.2022 I 1454
+:   Art. 1 G v. 19.7.2024 I Nr. 248
 
 § 21a idF d. Art. 1 Nr. 51 G v. 23.7.2001 I 1852 dient der Umsetzung des Artikels 6 der Richtlinie 2001/23/EG des Rates vom 12. März 2001 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Wahrung von Ansprüchen der Arbeitnehmer beim Übergang von Unternehmen, Betrieben oder Betriebsteilen (ABl. EG Nr. L 82 S. 16). § 75 idF d. Art. 1 Nr. 51 G v. 23.7.2001 I 1852 dient teilweise der Umsetzung der Richtlinie 2000/78/EG des Rates vom 27. November 2000 zur Festlegung eines allgemeinen Rahmens für die Verwirklichung der Gleichbehandlung in Beschäftigung und Beruf (ABl. EG Nr. L 303 S. 16).
 
@@ -604,7 +604,7 @@ Sonstige Bestimmungen über die Geschäftsführung sollen in einer schriftlichen
 
 (3) Zum Ausgleich für Betriebsratstätigkeit, die aus betriebsbedingten Gründen außerhalb der Arbeitszeit durchzuführen ist, hat das Betriebsratsmitglied Anspruch auf entsprechende Arbeitsbefreiung unter Fortzahlung des Arbeitsentgelts. Betriebsbedingte Gründe liegen auch vor, wenn die Betriebsratstätigkeit wegen der unterschiedlichen Arbeitszeiten der Betriebsratsmitglieder nicht innerhalb der persönlichen Arbeitszeit erfolgen kann. Die Arbeitsbefreiung ist vor Ablauf eines Monats zu gewähren; ist dies aus betriebsbedingten Gründen nicht möglich, so ist die aufgewendete Zeit wie Mehrarbeit zu vergüten.
 
-(4) Das Arbeitsentgelt von Mitgliedern des Betriebsrats darf einschließlich eines Zeitraums von einem Jahr nach Beendigung der Amtszeit nicht geringer bemessen werden als das Arbeitsentgelt vergleichbarer Arbeitnehmer mit betriebsüblicher beruflicher Entwicklung. Dies gilt auch für allgemeine Zuwendungen des Arbeitgebers.
+(4) Das Arbeitsentgelt von Mitgliedern des Betriebsrats darf einschließlich eines Zeitraums von einem Jahr nach Beendigung der Amtszeit nicht geringer bemessen werden als das Arbeitsentgelt vergleichbarer Arbeitnehmer mit betriebsüblicher beruflicher Entwicklung. Dies gilt auch für allgemeine Zuwendungen des Arbeitgebers. Zur Bestimmung der vergleichbaren Arbeitnehmer nach Satz 1 ist auf den Zeitpunkt der Übernahme des Betriebsratsamtes abzustellen, soweit nicht ein sachlicher Grund für eine spätere Neubestimmung vorliegt. Arbeitgeber und Betriebsrat können in einer Betriebsvereinbarung ein Verfahren zur Festlegung vergleichbarer Arbeitnehmer regeln. Die Konkretisierung der Vergleichbarkeit in einer solchen Betriebsvereinbarung kann nur auf grobe Fehlerhaftigkeit überprüft werden; Gleiches gilt für die Festlegung der Vergleichspersonen, soweit sie einvernehmlich zwischen Arbeitgeber und Betriebsrat erfolgt und in Textform dokumentiert ist.
 
 (5) Soweit nicht zwingende betriebliche Notwendigkeiten entgegenstehen, dürfen Mitglieder des Betriebsrats einschließlich eines Zeitraums von einem Jahr nach Beendigung der Amtszeit nur mit Tätigkeiten beschäftigt werden, die den Tätigkeiten der in Absatz 4 genannten Arbeitnehmer gleichwertig sind.
 
@@ -1167,7 +1167,7 @@ Die Jugend- und Auszubildendenvertretung kann vor oder nach jeder Betriebsversam
 
 #### § 78 Schutzbestimmungen
 
-Die Mitglieder des Betriebsrats, des Gesamtbetriebsrats, des Konzernbetriebsrats, der Jugend- und Auszubildendenvertretung, der Gesamt-Jugend- und Auszubildendenvertretung, der Konzern-Jugend- und Auszubildendenvertretung, des Wirtschaftsausschusses, der Bordvertretung, des Seebetriebsrats, der in § 3 Abs. 1 genannten Vertretungen der Arbeitnehmer, der Einigungsstelle, einer tariflichen Schlichtungsstelle (§ 76 Abs. 8) und einer betrieblichen Beschwerdestelle (§ 86) sowie Auskunftspersonen (§ 80 Absatz 2 Satz 4) dürfen in der Ausübung ihrer Tätigkeit nicht gestört oder behindert werden. Sie dürfen wegen ihrer Tätigkeit nicht benachteiligt oder begünstigt werden; dies gilt auch für ihre berufliche Entwicklung.
+Die Mitglieder des Betriebsrats, des Gesamtbetriebsrats, des Konzernbetriebsrats, der Jugend- und Auszubildendenvertretung, der Gesamt-Jugend- und Auszubildendenvertretung, der Konzern-Jugend- und Auszubildendenvertretung, des Wirtschaftsausschusses, der Bordvertretung, des Seebetriebsrats, der in § 3 Abs. 1 genannten Vertretungen der Arbeitnehmer, der Einigungsstelle, einer tariflichen Schlichtungsstelle (§ 76 Abs. 8) und einer betrieblichen Beschwerdestelle (§ 86) sowie Auskunftspersonen (§ 80 Absatz 2 Satz 4) dürfen in der Ausübung ihrer Tätigkeit nicht gestört oder behindert werden. Sie dürfen wegen ihrer Tätigkeit nicht benachteiligt oder begünstigt werden; dies gilt auch für ihre berufliche Entwicklung. Eine Begünstigung oder Benachteiligung liegt im Hinblick auf das gezahlte Arbeitsentgelt nicht vor, wenn das Mitglied einer in Satz 1 genannten Vertretung in seiner Person die für die Gewährung des Arbeitsentgelts erforderlichen betrieblichen Anforderungen und Kriterien erfüllt und die Festlegung nicht ermessensfehlerhaft erfolgt.
 
 
 #### § 78a Schutz Auszubildender in besonderen Fällen
