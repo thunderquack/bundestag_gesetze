@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1984, 346
 
 Zuletzt geändert durch
-:   Art. 3 V v. 7.12.2021 I 5190
+:   Art. 1 V v. 9.7.2024 I Nr. 251
 
 
 ## Eingangsformel
@@ -3861,13 +3861,21 @@ Die in diesem Gebührenverzeichnis enthaltenen Verweisungen auf JAR-Regelungen b
     *        *
         *   a)
 
-        *   natürliche und juristische Personen nach Absatz 3
+        *   natürliche Personen nach Absatz 3
 
-        *   20 bis 50 EUR
+        *   20 EUR
 
 
     *        *
         *   b)
+
+        *   juristische Personen nach Absatz 3
+
+        *   50 EUR
+
+
+    *        *
+        *   c)
 
         *   Luftsportverbände nach Absatz 4, je durch den jeweiligen Verband registriertem Mitglied
 

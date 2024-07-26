@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 6 G v. 17.1.2024 I Nr. 12
 
 Änderung durch
-:   Art. 4 G v. 19.7.2024 I Nr. 246 mWv 1.8.2024 noch nicht berücksichtigt
+:   Art. 4 G v. 19.7.2024 I Nr. 246 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Ausübung eines Handwerks und eines handwerksähnlichen Gewerbes
