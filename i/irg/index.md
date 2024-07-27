@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.6.1994 I 1537;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 19.12.2022 I 2632
-
-Änderung durch
-:   Art. 20 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 21 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 21 G v. 12.7.2024 I Nr. 234
 
 
 ## Erster Teil - Anwendungsbereich

@@ -16,6 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 400
 
+Stand: AnO aufgeh. nach Maßgabe d. Abschn. III AnO v. 9.7.2024 I Nr. 252 mWv 1.10.2024
+Ersetzt durch
+:   AnO 2031-4-45 v. 9.7.2024 I Nr. 252 (BMinJGuBDiszAnO)
+
 
 
 ## (XXXX)
