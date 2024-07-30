@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2911
 
 Zuletzt geändert durch
-:   Art. 36 G v. 10.8.2021 I 3436
-
-Änderung durch
-:   Art. 37 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 37 G v. 12.7.2024 I Nr. 234
 
 
 ## Erster Teil - Neufassung des Anfechtungsgesetzes

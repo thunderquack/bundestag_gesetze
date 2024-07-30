@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 410
 
-Änderung durch
-:   Art. 42 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 42 G v. 12.7.2024 I Nr. 234
 
 
 ## Eingangsformel

@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.5.1975 I 1077;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 12.6.2024 I Nr. 190
-
-Änderung durch
-:   Art. 34 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 34 G v. 12.7.2024 I Nr. 234
 
 Änderung durch
 :   Art. 1 G v. 15.7.2024 I Nr. 237 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

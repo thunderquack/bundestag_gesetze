@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 244
 
-Geändert durch
-:   Art. 10 G v. 25.6.2021 I 2099
-
-Änderung durch
-:   Art. 40 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 40 G v. 12.7.2024 I Nr. 234
 
 
 ## Eingangsformel
