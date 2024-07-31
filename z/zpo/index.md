@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781;
 
 Zuletzt geändert durch
-:   Art. 13 G v. 12.7.2024 I Nr. 234
-
-Änderung durch
-:   Art. 5 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 15.7.2024 I Nr. 236
 
 Änderung durch
 :   Art. 6 G v. 15.7.2024 I Nr. 237 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

@@ -16,12 +16,8 @@ Fundstelle
 :   BGBl I: 1976, 3341 (1977 I 667)
 
 Zuletzt geändert durch
-:   Art. 21 G v. 15.7.2024 I Nr. 236
+:   Art. 8b G v. 19.7.2024 I Nr. 245
 
-Änderung durch
-:   Art. 8b G v. 19.7.2024 I Nr. 245 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Stand: Bek. v. 12.10.2023 I Nr. 293 mWv 1.11.2023 ist berücksichtigt
 
 ## Erster Abschnitt - Änderung von Gesetzen auf dem Gebiet des Finanzwesens
 

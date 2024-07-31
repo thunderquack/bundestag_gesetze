@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2586
 
 Zuletzt geändert durch
-:   Art. 9 G v. 19.6.2024 I Nr. 206
-
-Änderung durch
-:   Art. 15 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15 G v. 15.7.2024 I Nr. 236
 
 Änderung durch
 :   Art. 15 G v. 15.7.2024 I Nr. 237 ist berücksichtigt

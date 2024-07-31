@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 199, 2
 
-Geändert durch
-:   Art. 4 V v. 10.6.2024 I Nr. 191
-
-Änderung durch
-:   Art. 8 G v. 19.7.2024 I Nr. 245 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 8 G v. 19.7.2024 I Nr. 245
 
 Stand: Ersetzt V 9232-14 v. 3.2.2011 I 139 (FZV 2011)
 

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2020, 3256
 
 Zuletzt geändert durch
-:   Art. 38 G v. 12.7.2024 I Nr. 234
-
-Änderung durch
-:   Art. 7 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 15.7.2024 I Nr. 236
 
 
 ## Teil 1 - Krisenfrüherkennung und Krisenmanagement

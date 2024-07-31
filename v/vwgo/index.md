@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.3.1991 I 686;
 
 Zuletzt geändert durch
-:   Art. 30 G v. 12.7.2024 I Nr. 234
-
-Änderung durch
-:   Art. 11 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 15.7.2024 I Nr. 236
 
 Änderung durch
 :   Art. 11 G v. 15.7.2024 I Nr. 237 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

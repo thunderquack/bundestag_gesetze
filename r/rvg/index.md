@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.3.2022 I 610;
 
 Zuletzt geändert durch
-:   Art. 35 G v. 12.7.2024 I Nr. 234
-
-Änderung durch
-:   Art. 17 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 17 G v. 15.7.2024 I Nr. 236
 
 Änderung durch
 :   Art. 8 G v. 16.7.2024 I Nr. 240 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

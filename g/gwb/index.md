@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.6.2013 I 1750, 3245;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 12.6.2024 I Nr. 190
-
-Änderung durch
-:   Art. 25 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 25 G v. 15.7.2024 I Nr. 236
 
 Änderung durch
 :   Art. 20 Nr. 1 G v. 9.12.2004 I 3220 war nicht ausführbar, da zu diesem Zeitpunkt keine amtliche Inhaltsübersicht existierte

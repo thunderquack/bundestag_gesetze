@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.7.1979 I 853, 1036;
 
 Zuletzt geändert durch
-:   Art. 24 G v. 12.7.2024 I Nr. 234
-
-Änderung durch
-:   Art. 10 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 15.7.2024 I Nr. 236
 
 Änderung durch
 :   Art. 9 G v. 15.7.2024 I Nr. 237 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

@@ -19,12 +19,8 @@ Neugefasst durch
 :   Bek. v. 1.10.2002 I 3866; 2003 I 61;
 
 Zuletzt geändert durch
-:   18 G v. 15.7.2024 I Nr. 237
+:   Art. 8a G v. 19.7.2024 I Nr. 245
 
-Änderung durch
-:   Art. 8a G v. 19.7.2024 I Nr. 245 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Stand: Bek. v. 12.10.2023 I Nr. 293 mWv 1.11.2023 ist berücksichtigt
 
 ## Erster Teil - Einleitende Vorschriften
 
