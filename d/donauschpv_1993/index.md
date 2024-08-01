@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 741 (1994 I 523) (1995 II 95)
 
+V aufgeh. durch
+:   Art. 7 Nr. 1 V v. 23.7.2024 I Nr. 253 mWv 1.9.2024
+
 Zuletzt geändert durch
 :   Art. 3 V v. 8.9.2022 I 1499
 

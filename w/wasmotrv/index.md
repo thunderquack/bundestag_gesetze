@@ -16,6 +16,9 @@ Fundstelle
 :   BGBl I: 1995, 769
 
 Stand: Zuletzt geändert Art. 3 V v. 31.10.2019 I 1518
+Änderung durch
+:   Art. 6 V v. 23.7.2024 I Nr. 253 mWv 1.9.2024 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 

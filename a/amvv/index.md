@@ -2062,6 +2062,7 @@ b)  bis zu 15 mg Nicotin je abgeteilter Arzneiform und in einer Tagesdosis bis z
 **Nifenalol**
 **Nifluminsäure**
 **Nifuratel**
+**Nifuroxazid**
 **Nifurpirinol**
 **Nifurprazin**
 **Nilotinib**

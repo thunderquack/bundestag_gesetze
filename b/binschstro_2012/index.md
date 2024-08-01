@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 2 V v. 18.3.2024 I Nr. 100, Nr. 115 mWv 1.5.2024 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 2 V v. 23.7.2024 I Nr. 253 mWv 1.9.2024 noch nicht berücksichtigt
+
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen Parlaments und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 204 vom 21.7.1998, S. 37), die zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S. 81) geändert worden ist, sind beachtet worden.
 
 

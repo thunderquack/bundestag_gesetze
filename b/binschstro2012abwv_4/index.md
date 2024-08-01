@@ -15,4 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   VkBl: 2020, 295
 
-Stand: Die V tritt gem. § 5 idF d. Art. 1 Nr. 1 V v. 28.4.2023 I Nr. 118 mit Ablauf des 4.5.2026 außer Kraft
+Die v tritt gem. § 5 idf d. art. 1 nr. 1 v v. 28.4.2023 i nr. 118 mit ablauf des 4.5.2026 außer kraft; v aufgeh. durch
+:   Art. 7 Nr. 2 V v. 23.7.2024 I Nr. 253 mWv 1.9.2024
+

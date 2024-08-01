@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2021, 4744
 
 Zuletzt geändert durch
-:   Art. 5 V v. 22.11.2023 II Nr. 321
+:   Art. 3 V v. 23.7.2024 I Nr. 253
 
 
 ## Eingangsformel

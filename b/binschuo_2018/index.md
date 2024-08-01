@@ -22,6 +22,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 6 V v. 5.4.2023 II Nr. 105 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 4 V v. 23.7.2024 I Nr. 253 mWv 1.9.2024 noch nicht berücksichtigt
+
 [^F804091_01_BJNR139810018]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2016/1629 des Europäischen Parlaments und des Rates vom 14. September 2016 zur Festlegung technischer Vorschriften für Binnenschiffe, zur Änderung der Richtlinie 2009/100/EG und zur Aufhebung der Richtlinie 2006/87/EG (ABl. L 252 vom 16.9.2016, S. 118) und der Umsetzung der Delegierten Richtlinie (EU) 2018/970 der Kommission vom 18. April 2018 zur Änderung der Anhänge II, III und V der Richtlinie (EU) 2016/1629 des Europäischen Parlaments und des Rates zur Festlegung technischer Vorschriften für Binnenschiffe (ABl. L 174 vom 10.7.2018, S. 15).
 [^F804091_02_BJNR139810018]:     Diese Verordnung dient der Umsetzung der von der Zentralkommission für die Rheinschifffahrt am 7. Dezember 2017 geänderten Fassung der Rheinschiffsuntersuchungsordnung auf der Bundeswasserstraße Rhein angenommen mit Beschluss 2017-II-20 vom 7. Dezember 2017.
 
