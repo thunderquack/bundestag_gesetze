@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2021, 591 (2023 I Nr. 230, Nr. 293)
 
 Zuletzt geändert durch
-:   Art. 11 G v. 9.7.2021 I 2467
+:   Art. 3 G v. 19.7.2024 I Nr. 246
 
 Stand: Bek. v 12.10.2023 I Nr 293 ist berücksichtigt
 
