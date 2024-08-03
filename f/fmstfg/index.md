@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 1982
 
 Zuletzt geändert durch
-:   Art. 1 G v. 22.12.2023 I Nr. 406
+:   Art. 2 G v. 30.7.2024 I Nr. 254
 
 
 ## Abschnitt 1 - Finanzmarktstabilisierung

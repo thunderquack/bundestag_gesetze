@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 3955, 3956
 
 Zuletzt geändert durch
-:   Art. 1 G v. 13.11.2023 I Nr. 310
+:   Art. 1 G v. 30.7.2024 I Nr. 254
 
 Das g tritt gem. § 20 mit ablauf des 31.12.2019 außer kraft; § 20 aufgeh. durch
 :   Art. 2 Nr. 21 G v. 14.8.2017 I 3122 mWv 1.1.2020; Art. 2 Nr. 21 aufgeh. durch Art. 4 Nr. 2 G v. 17.12.2018 I 2522; § 20 aufgeh. durch Art. 1 Nr. 2 G v. 17.12.2018 I 2522 mWv 21.12.2018; dadurch ist die Geltung dieses G über den 31.12.2019 hinaus verlängert worden
@@ -98,32 +98,59 @@ Das g tritt gem. § 20 mit ablauf des 31.12.2019 außer kraft; § 20 aufgeh. dur
 
 *    *   2024
 
-    *   minus 10 980 407 683 Euro
+    *   minus 12 480 407 683 Euro
 
-    *   8 580 407 683 Euro
+    *   10 080 407 683 Euro
 
     *   2 400 000 000 Euro
 
 
 *    *   2025
 
-    *   minus 10 605 407 683 Euro
+    *   minus 11 305 407 683 Euro
 
-    *   8 205 407 683 Euro
+    *   8 905 407 683 Euro
 
     *   2 400 000 000 Euro
 
 
 *    *   2026
 
-    *   minus 10 605 407 683 Euro
+    *   minus 11 305 407 683 Euro
 
-    *   8 205 407 683 Euro
+    *   8 905 407 683 Euro
 
     *   2 400 000 000 Euro
 
 
-*    *   ab 2027
+*    *   2027
+
+    *   minus 11 117 407 683 Euro
+
+    *   8 717 407 683 Euro
+
+    *   2 400 000 000 Euro
+
+
+*    *   2028
+
+    *   minus 11 117 407 683 Euro
+
+    *   8 717 407 683 Euro
+
+    *   2 400 000 000 Euro
+
+
+*    *   2029
+
+    *   minus 11 017 407 683 Euro
+
+    *   8 617 407 683 Euro
+
+    *   2 400 000 000 Euro
+
+
+*    *   ab 2030
 
     *   minus 10 417 407 683 Euro
 
@@ -182,7 +209,7 @@ Der Verteilung der Umsatzsteuer unter den Ländern ist ein angemessener Ausgleic
 
 (1) Als Steuereinnahmen eines Landes gelten die ihm im Ausgleichsjahr zugeflossenen Einnahmen
 
-1.  aus seinem Anteil an der Einkommensteuer und der Körperschaftsteuer;
+1.  aus seinem Anteil an der Einkommensteuer, der Körperschaftsteuer und der Mindeststeuer;
 
 
 2.  aus seinem Anteil an der Gewerbesteuerumlage nach § 6 des Gemeindefinanzreformgesetzes;
@@ -372,7 +399,7 @@ Die Verteilung der Umsatzsteuer und der Finanzkraftausgleich werden während des
 
 (1) Der Zahlungsverkehr wird während des Ausgleichsjahres in der Weise abgewickelt, dass die Ablieferung des Bundesanteils an der durch Landesfinanzbehörden verwalteten Umsatzsteuer um die Beträge erhöht oder ermäßigt wird, die nach der vorläufigen Bemessung der nach dem Verhältnis der Einwohnerzahlen der Länder verteilten Länderanteile an der Umsatzsteuer nach § 2 Satz 1 sowie der vorläufig erhobenen Abschläge und der vorläufig gewährten Zuschläge nach § 10 zu verrechnen sind. Soweit der Anspruch eines Landes aus diesen Verrechnungen durch den Bundesanteil an der Umsatzsteuer nicht voll gedeckt wird, überweist das Bundesministerium der Finanzen diesem Land den nicht gedeckten Teil des vorläufigen Ausgleichsanspruchs in monatlichen Teilbeträgen. Soweit die Verpflichtung eines Landes aus diesen Verrechnungen über dem Aufkommen der von Landesfinanzbehörden verwalteten Umsatzsteuer liegt, ist der darüber liegende Teil von dem Land dem Bundesministerium der Finanzen in monatlichen Teilbeträgen zu überweisen. Die für die Aufteilung des Umsatzsteueraufkommens auf Bund, Länder und Gemeinden in § 1 Absatz 2 genannten Beträge werden gesondert im Rahmen des Zahlungsverkehrs der Einfuhrumsatzsteuer nach Absatz 2 berücksichtigt; Entsprechendes gilt für unterjährige Gesetzesänderungen mit Auswirkungen auf die Umsatzsteueranteile nach § 1 Absatz 1 im laufenden Ausgleichsjahr.
 
-(2) Der Länderanteil an der durch Bundesfinanzbehörden verwalteten Einfuhrumsatzsteuer wird auf die Länder nach der Einwohnerzahl verteilt und in monatlichen Teilbeträgen überwiesen.
+(2) Der Länderanteil an der durch Bundesfinanzbehörden verwalteten Einfuhrumsatzsteuer wird auf die Länder nach der Einwohnerzahl verteilt und in monatlichen Teilbeträgen überwiesen. Im Ausgleichsjahr 2024 gilt ein Betrag von 1 750 000 000 Euro aus der in den Monaten Januar bis Juni überwiesenen Teilbetragssumme als Abschlagszahlung auf eine flüchtlingskostenbezogene Pro-Kopf-Pauschale.
 
 (3) Die Differenzen der vorläufigen Umsatzsteueranteile, Zuschläge und Abschläge nach § 13 zu den auf der Grundlage der tatsächlichen Entwicklung der Bemessungsgrundlagen bestimmten Umsatzsteueranteilen, Zuschlägen und Abschlägen des Ausgleichsjahres werden vierteljährlich vorläufig abgerechnet.
 

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2024, Nr. 1
 
+Zuletzt geändert durch
+:   Art. 3 V v. 23.7.2024 I Nr. 256
+
 Stand: Die Anlage zu § 2 Absatz 1, Abschnitte 3 und 4 ist gem. § 6 Abs. 2 dieser V am 1.2.2024 in Kraft getreten
 
 ## Eingangsformel
@@ -42,7 +45,7 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 5.  Vertrauensdienstegesetz vom 18. Juli 2017 (BGBl. I S. 2745), das durch Artikel 2 des Gesetzes vom 18. Juli 2017 (BGBl. I S. 2745) geändert worden ist, in der jeweils geltenden Fassung,
 
 
-6.  Telekommunikation-Telemedien-Datenschutz-Gesetz vom 23. Juni 2021 (BGBl. I S. 1982; 2022 I S. 1045), das durch Artikel 4 des Gesetzes vom 12. August 2021 (BGBl. I S. 3544) geändert worden ist, in der jeweils geltenden Fassung,
+6.  Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz vom 23. Juni 2021 (BGBl. I S. 1982; 2022 I S. 1045), das zuletzt durch Artikel 8 des Gesetzes vom 6. Mai 2024 (BGBl. 2024 I Nr. 149) geändert worden ist,
 
 
 7.  Amateurfunkgesetz vom 23. Juni 1997 (BGBl. I S. 1494), das zuletzt durch Artikel 53 des Gesetzes vom 23. Juni 2021 (BGBl. I S. 1858) geändert worden ist, in der jeweils geltenden Fassung,
@@ -86,7 +89,12 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 Für den Zeitaufwand von Verwaltungsbeschäftigten der Bundesnetzagentur und des Bundesamtes für Sicherheit in der Informationstechnik des mittleren, gehobenen und höheren Dienstes gelten die Stundensätze nach Anlage 1 Teil A Abschnitt 1 Nummer 1 der Allgemeinen Gebührenverordnung vom 11. Februar 2015 (BGBl. I S. 130), die zuletzt durch Artikel 1 der Verordnung vom 11. Februar 2021 (BGBl. I S. 204) geändert worden ist, in der jeweils geltenden Fassung.
 
 
-## § 6 Inkrafttreten
+## § 6 Übergangsvorschrift
+
+Abschnitt 1 Unterabschnitt 5 Nummer 5.8 bis 5.10 der Anlage ist auf alle dort genannten gebührenfähigen Leistungen anzuwenden, die ab dem 1. Dezember 2021 begonnen wurden.
+
+
+## § 7 Inkrafttreten
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. Dezember 2021 in Kraft. Die Gebührentatbestände der Anlage zu § 2 Absatz 1 Abschnitt 1 Unterabschnitt 1 Nummern 1.1.6, 1.1.7, 1.1.8 und 1.1.9, Unterabschnitt 5 Nummern 5.2, 5.3, 5.4, 5.6 und 5.15, Unterabschnitt 9 Nummer 9.1, Unterabschnitt 10 Nummer 10.1 sowie Abschnitt 2 Nummern 1, 2, 3 und 4 sind ab dem 5. Januar 2024 anwendbar.
 
@@ -135,7 +143,7 @@ Abschnitt 1 Telekommunikationsgesetz (TKG) und Verordnung (EU) 2015/2120 des Eur
 
 
 
-Abschnitt 2 Telekommunikation-Telemedien-Datenschutz-Gesetz (TTDSG)
+Abschnitt 2 Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG)
 
 
 Abschnitt 3 Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (eIDAS-Verordnung) und Vertrauensdienstegesetz (VDG)
@@ -764,21 +772,21 @@ Abschnitt 4 Amateurfunkgesetz (AFuG) und Amateurfunkverordnung (AFuV)
 
     *   Entgeltgenehmigung nach § 39 Absatz 1 Nummer 1 TKG anhand der Maßstäbe des § 37 TKG
 
-    *   7 000 bis 277 500
+    *   7 000 bis 184 500
 
 
 *    *   5.9
 
     *   Entgeltgenehmigung nach § 39 Absatz 1 Nummer 2 TKG auf der Grundlage der auf die einzelnen Dienste entfallenden Kosten der effizienten Leistungsbereitstellung nach § 42 TKG
 
-    *   7 000 bis 277 500
+    *   7 000 bis 184 500
 
 
 *    *   5.10
 
     *   Entgeltgenehmigung nach § 39 Absatz 1 Nummer 3 TKG auf der Grundlage einer anderen Vorgehensweise
 
-    *   5 500 bis 218 500
+    *   5 500 bis 145 500
 
 
 *    *   5.11
@@ -1007,7 +1015,7 @@ Kontrolle und Durchsetzung der Einhaltung der Vorschriften des Teils 10 Abschnit
 ## Abschnitt 2
 
 
-## Telekommunikation-Telemedien-Datenschutz-Gesetz (TTDSG)
+## Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG)
 
 
 
@@ -1021,28 +1029,28 @@ Kontrolle und Durchsetzung der Einhaltung der Vorschriften des Teils 10 Abschnit
 
 *    *   1
 
-    *   Nachträgliche Missbrauchsprüfung des Entgelts nach § 18 Absatz 2 Satz 2 TTDSG
+    *   Nachträgliche Missbrauchsprüfung des Entgelts nach § 18 Absatz 2 Satz 2 TDDDG
 
     *   500 bis 20 000
 
 
 *    *   2
 
-    *   Entgeltgenehmigung nach § 18 Absatz 2 Satz 3 TTDSG
+    *   Entgeltgenehmigung nach § 18 Absatz 2 Satz 3 TDDDG
 
     *   500 bis 20 000
 
 
 *    *   3
 
-    *   Maßnahme nach § 30 Absatz 2 TTDSG zur Sicherstellung der Einhaltung der Vorschriften des Teils 2 TTDSG
+    *   Maßnahme nach § 30 Absatz 2 TDDDG zur Sicherstellung der Einhaltung der Vorschriften des Teils 2 TDDDG
 
     *   nach Zeitaufwand
 
 
 *    *   4
 
-    *   Vollständige oder teilweise Untersagung des Betriebs einer Telekommunikationsanlage oder des Erbringens eines Telekommunikationsdienstes nach § 30 Absatz 3 TTDSG
+    *   Vollständige oder teilweise Untersagung des Betriebs einer Telekommunikationsanlage oder des Erbringens eines Telekommunikationsdienstes nach § 30 Absatz 3 TDDDG
 
     *   nach Zeitaufwand
 
@@ -1124,51 +1132,78 @@ Kontrolle und Durchsetzung der Einhaltung der Vorschriften des Teils 10 Abschnit
 
 *    *   1.1
 
-    *   Durchführung einer Erstprüfung für die Klasse A im Rahmen der §§ 3 bis 7 AFuV
+    *   Durchführung einer Erstprüfung für die Klasse N im Rahmen der §§ 3 bis 7 AFuV
 
-    *   71,50
+    *   68,00
 
 
 *    *   1.2
 
     *   Durchführung einer Erstprüfung für die Klasse E im Rahmen der §§ 3 bis 7 AFuV
 
-    *   56,00
+    *   73,50
 
 
 *    *   1.3
 
-    *   Durchführung einer Wiederholungsprüfung für Klasse A oder E im Rahmen der §§ 3 bis 7 AFuV
+    *   Durchführung einer Erstprüfung für die Klasse A im Rahmen der §§ 3 bis 7 AFuV
 
-    *   46,00
+    *   81,00
 
 
 *    *   1.4
 
-    *   Durchführung einer Zusatzprüfung für Inhaber der Zeugnisklasse E zum Erwerb einer Prüfungsbescheinigung oder eines Amateurfunkzeugnisses der Klasse A im Rahmen der §§ 3 bis 7 AFuV
+    *   Durchführung einer Wiederholungsprüfung im Rahmen der §§ 3 bis 7 AFuV
 
-    *   41,00
+    *   42,50
+
+
+*    *   1.4.1
+
+    *   Die Gebühr erhöht sich für jeden wiederholten Prüfungsteil um
+
+    *   5,50
 
 
 *    *   1.5
+
+    *   Durchführung einer Zusatzprüfung zum Erwerb einer Prüfungsbescheinigung für die Amateurfunkklasse E oder A im Rahmen der §§ 3 bis 7 AFuV
+
+    *
+
+*    *   1.5.1
+
+    *   Zusatzprüfung Klasse N nach E
+
+    *   48,00
+
+
+*    *   1.5.2
+
+    *   Zusatzprüfung Klasse N nach A
+
+    *   57,00
+
+
+*    *   1.5.3
+
+    *   Zusatzprüfung Klasse E nach A
+
+    *   50,50
+
+
+*    *   1.6
 
     *   Durchführung einer Zusatzprüfung Morsen im Rahmen der §§ 3 bis 7 AFuV
 
     *   84,00
 
 
-*    *   1.6
-
-    *   Ausstellung einer Amateurfunk-Prüfungsbescheinigung oder Amateurfunk-Zeugnisurkunde als Zweitschrift oder im Rahmen der Regelungen nach § 8 Absatz 1 Satz 2 AFuV
-
-    *   16,00
-
-
 *    *   1.7
 
     *   Prüfen und Anerkennen einer Amateurfunk-Genehmigung anderer Verwaltungen oder einer nicht CEPT-konformen Prüfungsbescheinigung nach § 8 Absatz 2 AFuV
 
-    *   35,00
+    *   31,50
 
 
 *    *   **2**
