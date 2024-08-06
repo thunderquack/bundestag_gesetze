@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2265
 
 Zuletzt geändert durch
-:   Art. 5 G v. 20.4.2023 I Nr. 106
-
-Änderung durch
-:   Art. 1 G v. 8.5.2024 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 12 G v. 8.5.2024 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 G v. 8.5.2024 I Nr. 152
 
 
 ## Eingangsformel
@@ -1075,6 +1069,8 @@ An die Jugendämter werden zur Erfüllung ihrer Aufgaben nach dem Achten Buch So
 ##### § 18e Datenübermittlung an die Meldebehörden
 
 An die zuständige Meldebehörde werden zur Erfüllung ihrer Aufgaben in den Fällen des § 2 Absatz 1a und 2 Nummer 1 und 2 zu Ausländern, die keine freizügigkeitsberechtigten Unionsbürger sind, unverzüglich nach der Unterbringung in einer Aufnahmeeinrichtung neben den Grundpersonalien die AZR-Nummer nur zum Zweck der eindeutigen Zuordnung, die gegenwärtige Anschrift im Bundesgebiet sowie Übermittlungssperren in einem automatisierten Verfahren übermittelt. Ebenso werden Änderungen dieser Daten übermittelt. Bei Änderung der gegenwärtigen Anschrift im Bundesgebiet ist auch die Anschrift vor Änderung zu übermitteln.
+
+(2) (weggefallen)
 
 
 ##### § 18f Datenübermittlung an die Familienkasse Direktion der Bundesagentur für Arbeit
