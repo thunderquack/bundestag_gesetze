@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.2.2010 I 150;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 22.1.2024 I Nr. 17
-
-Änderung durch
-:   Art. 2 G v. 19.9.2024 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 19.7.2024 I Nr. 247
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

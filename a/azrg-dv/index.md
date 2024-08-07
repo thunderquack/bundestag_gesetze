@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 695
 
 Zuletzt geändert durch
-:   Art. 11 V v. 30.10.2023 I Nr. 290
-
-Änderung durch
-:   Art. 2 G v. 8.5.2024 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 13 G v. 8.5.2024 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 13 G v. 8.5.2024 I Nr. 152
 
 Mittelbare änderung durch
 :   Art. 8 G v. 21.2.2024 I Nr. 54 ist berücksichtigt

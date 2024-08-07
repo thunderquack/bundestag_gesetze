@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 284
 
 Zuletzt geändert durch
-:   Art. 1 V v. 27.1.2023 I Nr. 30
-
-Änderung durch
-:   Art. 9 G v. 19.9.2024 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 19.7.2024 I Nr. 247
 
 
 ## Eingangsformel

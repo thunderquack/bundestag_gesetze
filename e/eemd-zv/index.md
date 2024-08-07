@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 3 V v. 27.11.2023 I Nr. 329
 
 Änderung durch
-:   Art. 2 V v. 1.8.2024 I Nr. 258 mWv 1.9.2024 noch nicht berücksichtigt
+:   Art. 2 V v. 1.8.2024 I Nr. 258 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel

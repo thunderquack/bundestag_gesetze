@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 3386
 
 Zuletzt geändert durch
-:   Art. 71 G v. 20.8.2021 I 3932
-
-Änderung durch
-:   Art. 3 G v. 19.9.2024 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 19.7.2024 I Nr. 247
 
 
 ## § 1 Geltungsbereich

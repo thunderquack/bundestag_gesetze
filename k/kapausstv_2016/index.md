@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 795
 
 Zuletzt geändert durch
-:   Art. 6 Abs. 10 G v. 19.12.2018 I 2672
-
-Änderung durch
-:   Art. 2 V v. 19.7.2024 I Nr. 250 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 19.7.2024 I Nr. 250
 
 
 ## Eingangsformel
