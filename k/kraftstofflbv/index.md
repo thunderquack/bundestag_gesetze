@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1982, 520
 
 Zuletzt geändert durch
-:   Art. 37 G v. 23.6.2021 I 1858
-
-Änderung durch
-:   Art. 29 G v. 15.7.2024 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 29 G v. 15.7.2024 I Nr. 236
 
 
 ## Eingangsformel

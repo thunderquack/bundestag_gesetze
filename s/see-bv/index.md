@@ -24,16 +24,13 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 3 V v. 25.6.2024 I Nr. 217 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
-[^F785283_00_BJNR046000014]:     Die Verordnung dient auch der Umsetzung der                                         1.                                            Richtlinie 2012/35/EU des Europäischen Parlaments und des Rates vom 21. November 2012 zur Änderung der Richtlinie 2008/106/EG über Mindestanforderungen für die Ausbildung von Seeleuten (ABl. L 343 vom 14.12.2012, S. 78),
+[^F785283_00_BJNR046000014]:     Die Verordnung dient auch der Umsetzung der                                         1.                                            Richtlinie (EU) 2022/993 des Europäischen Parlaments und des Rates vom 8. Juni 2022 über Mindestanforderungen für die Ausbildung von Seeleuten (ABl. L 169 vom 27.6.2022, S. 45),
 
 
-    2\.                                            Richtlinie 2008/106/EG des Europäischen Parlaments und des Rates vom 19. November 2008 über Mindestanforderungen für die Ausbildung von Seeleuten (Neufassung) (ABl. L 323 vom 3.12.2008, S. 33),
+    2\.                                            Richtlinie 2005/45/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die gegenseitige Anerkennung von Befähigungszeugnissen der Mitgliedstaaten für Seeleute und zur Änderung der Richtlinie 2001/25/EG (ABl. L 255 vom 30.9.2005, S. 160),
 
 
-    3\.                                            Richtlinie 2005/45/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die gegenseitige Anerkennung von Befähigungszeugnissen der Mitgliedstaaten für Seeleute und zur Änderung der Richtlinie 2001/25/EG (ABl. L 255 vom 30.9.2005, S. 160),
-
-
-    4\.                                            Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22), soweit Berufe in der Seeschifffahrt berührt sind.
+    3\.                                            Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22), soweit Berufe in der Seeschifffahrt berührt sind.
 
 
 

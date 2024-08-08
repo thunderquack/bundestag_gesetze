@@ -19,7 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 4.4.2024 I Nr. 116
 
-Die v tritt nach ihrem § 6 abs. 2 mit ablauf des 12.6.2009 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 6 abs. 2 aufgeh. durch
+Die v tritt nach ihrem § 6 abs. 2 mit ablauf des 12.6.2009 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird; § 6 abs. 2 aufgeh. durch
 :   Art. 1 Nr. 2 V v. 2.6.2009 eBAnz AT 59 V1, dadurch ist die Geltung der V über den 12.6.2009 hinaus verlängert worden
 
 
