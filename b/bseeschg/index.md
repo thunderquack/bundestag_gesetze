@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 17.6.2016 I 1489;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 14.3.2023 I Nr. 73
-
-Änderung durch
-:   Art. 2 V v. 9.4.2024 I Nr. 126 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 9.4.2024 I Nr. 126
 
 
 ## § 1

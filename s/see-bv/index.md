@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 460
 
 Zuletzt geändert durch
-:   Art. 1 V v. 28.7.2021 I 3236
-
-Änderung durch
-:   Art. 3 V v. 9.4.2024 I Nr. 126 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 V v. 25.6.2024 I Nr. 217 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 25.6.2024 I Nr. 217
 
 [^F785283_00_BJNR046000014]:     Die Verordnung dient auch der Umsetzung der                                         1.                                            Richtlinie (EU) 2022/993 des Europäischen Parlaments und des Rates vom 8. Juni 2022 über Mindestanforderungen für die Ausbildung von Seeleuten (ABl. L 169 vom 27.6.2022, S. 45),
 
@@ -4184,7 +4178,8 @@ Metallbearbeitung in einer Lehrwerkstatt bzw. überbetrieblichen Ausbildungsstä
 
 ### Anlage 6a Anforderungen an die Ausbildung in der Elektrofertigung und Metallbearbeitung
 
-(Fundstelle: BGBl. I 2021, 3268 - 3270)
+(Fundstelle: BGBl. I 2021, 3268 - 3270;
+bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 Eine Ausbildung in der Elektrofertigung und Metallbearbeitung muss mindestens folgende Kenntnisse, Verständnisse und Fachkunde vermitteln:
 

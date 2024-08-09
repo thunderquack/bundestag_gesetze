@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 3240 (3692)
 
 Zuletzt geändert durch
-:   Art. 63 G v. 20.8.2021 I 3932
-
-Änderung durch
-:   Art. 2 V v. 4.7.2024 I Nr. 227 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 4.7.2024 I Nr. 227
 
 
 ## Eingangsformel
