@@ -91,10 +91,10 @@ gekennzeichnet ist oder, soweit es in den Verkehr gebracht würde, zu kennzeichn
 
 (6) Für die Begriffe
 
-1.  "durch einen genetisch veränderten Organismus hergestellt"                    gilt die Begriffsbestimmung in Artikel 2 Buchstabe v der Verordnung (EG) Nr. 834/2007 und
+1.  „durch einen genetisch veränderten Organismus hergestellt” gilt die Begriffsbestimmung in Artikel 2 Buchstabe v der Verordnung (EG) Nr. 834/2007 und
 
 
-2.  "Verarbeitungshilfsstoff"                    gilt die Begriffsbestimmung in Artikel 2 Buchstabe y der Verordnung (EG) Nr. 834/2007.
+2.  „Verarbeitungshilfsstoff” gilt die Begriffsbestimmung in Artikel 2 Buchstabe y der Verordnung (EG) Nr. 834/2007.
 
 
 
