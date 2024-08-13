@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.2.2014 I 154;
 
 Zuletzt geändert durch
-:   Art. 13 G v. 15.7.2024 I Nr. 236
-
-Änderung durch
-:   Art. 13 G v. 15.7.2024 I Nr. 237 ist berücksichtigt
+:   Art. 13 G v. 15.7.2024 I Nr. 237
 
 Änderung durch
 :   Art. 6 G v. 16.7.2024 I Nr. 240 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

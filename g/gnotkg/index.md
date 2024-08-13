@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2586
 
 Zuletzt geändert durch
-:   Art. 15 G v. 15.7.2024 I Nr. 236
-
-Änderung durch
-:   Art. 15 G v. 15.7.2024 I Nr. 237 ist berücksichtigt
+:   Art. 15 G v. 15.7.2024 I Nr. 237
 
 
 ## Kapitel 1 - Vorschriften für Gerichte und Notare
