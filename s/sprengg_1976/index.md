@@ -2981,7 +2981,6 @@ Lager für explosionsgefährliche Stoffe, die bei Inkrafttreten dieses Gesetzes 
 
     *        *[^F797933_04_BJNR027370976BJNE006804118]
    **sonstige sprengkräftige Kriegswaffen**                              nach der Anlage (Kriegswaffenliste) zum Gesetz über die Kontrolle von Kriegswaffen in der Fassung der Bekanntmachung vom 22. November 1990 (BGBl. I S. 2506), das zuletzt durch Artikel 30 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in der jeweils geltenden Fassung
-            .
 
         *
 

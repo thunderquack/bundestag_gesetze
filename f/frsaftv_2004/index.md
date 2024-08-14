@@ -1024,7 +1024,6 @@ In den Fällen der Nummern 4 und 5 sind die Bezeichnungen der Lebensmittel durch
 *    *   Glucuronolacton
 
     *   2 400
-        .
 
 
 

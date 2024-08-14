@@ -88,7 +88,7 @@ Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum „1. 1.
 
 Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt ergänzt:
 
-*    *   Jahr
+*    *   „Jahr
 
     *   Umrechnungswert
 
@@ -105,8 +105,7 @@ Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt ergänzt:
 *    *   2015
 
     *
-    *   1,1717
-        .
+    *   1,1717“
 
 
 

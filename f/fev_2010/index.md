@@ -13643,8 +13643,6 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
 
 
 
-    .
-
 
 
 

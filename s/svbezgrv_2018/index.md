@@ -106,7 +106,6 @@ Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt ergänzt:
 
     *
     *   1,1248”
-        .
 
 
 

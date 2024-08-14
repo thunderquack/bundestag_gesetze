@@ -1528,7 +1528,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-
 ### Anlage 2 (zu § 10 Absatz 1)
 
 (Fundstelle: BGBl. I 2013, 320 - 322;

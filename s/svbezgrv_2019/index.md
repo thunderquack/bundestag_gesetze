@@ -93,10 +93,9 @@ Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt ergänzt:
     *   Umrechnungswert
 
 
-*    *   ʺ                       2017
+*    *   „2017
 
-    *   1,1374ʺ
-        .
+    *   1,1374“
 
 
 

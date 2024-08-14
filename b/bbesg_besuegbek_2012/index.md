@@ -6305,7 +6305,7 @@ Gültig ab 1. August 2013 für Postnachfolgeunternehmen
 
 
     Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
-[^f777573_11_BJNR177100012BJNE000400000]: [^f777573_41_BJNR177100012BJNE000400000]:     Gemäß Artikel 1 Nummer 23 Buchstabe a in Verbindung mit Artikel 11 Absatz 1 des Gesetzes vom 15. März 2012 (BGBl. I S. 462, 1489) wird die Nummer 5a ab 22. März 2012 wie folgt gefasst:                       „ Nummer 5a
+[^f777573_11_BJNR177100012BJNE000400000]: [^f777573_41_BJNR177100012BJNE000400000]:     Gemäß Artikel 1 Nummer 23 Buchstabe a in Verbindung mit Artikel 11 Absatz 1 des Gesetzes vom 15. März 2012 (BGBl. I S. 462, 1489) wird die Nummer 5a ab 22. März 2012 wie folgt gefasst:                                                         „Nummer 5a
 
 
 
@@ -6481,11 +6481,11 @@ Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 s
 
 Beamte des höheren Dienstes und Offiziere des Truppendienstes ab Besoldungsgruppe A 13
 
-224,39”                       .
+224,39”
 
 
 
-[^f777573_42_BJNR177100012BJNE000400000]: Gemäß Artikel 1 Nummer 23 Buchstabe b in Verbindung mit Artikel 11 Absatz 1 des Gesetzes vom 15. März 2012 (BGBl. I S. 462, 1489) wird die Nummer 6 ab 22. März 2012 wie folgt gefasst:                       „ Nummer 6
+[^f777573_42_BJNR177100012BJNE000400000]: Gemäß Artikel 1 Nummer 23 Buchstabe b in Verbindung mit Artikel 11 Absatz 1 des Gesetzes vom 15. März 2012 (BGBl. I S. 462, 1489) wird die Nummer 6 ab 22. März 2012 wie folgt gefasst:                                                         „Nummer 6
 
 
 
@@ -6539,7 +6539,7 @@ Absatz 1 Satz 2
 
 
 
-585,38”                       .
+585,38”
 
 
 
