@@ -14,12 +14,12 @@ Ausfertigungsdatum
 :   1984-04-14
 
 Fundstelle
-:   BGBl I: 1984, 629 (1986 II 409)
+:   BGBl I: 1984, 629
 
 Zuletzt geändert durch
 :   Art. 2 Abs. 177 G v. 7.8.2013 I 3154
 
-Stand: In Kraft gem. § 3 Abs 1 iVm Bek. v. 7.1.1986 II 409 mWv 1.1.1986
+Stand: In Kraft gem. § 3 Abs. 1 iVm Bek. v. 7.1.1986 II 409 mWv 1.1.1986
 
 ## Eingangsformel
 

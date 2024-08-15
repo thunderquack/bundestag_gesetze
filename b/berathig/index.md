@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 689
 
 Zuletzt geändert durch
-:   Art. 12 G v. 25.6.2021 I 2154
-
-Änderung durch
-:   Art. 2 G v. 15.7.2024 I Nr. 237 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 15.7.2024 I Nr. 237
 
 
 ## § 1 Voraussetzungen

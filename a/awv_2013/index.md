@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2865
 
 Zuletzt geändert durch
-:   Art. 3 G v. 27.2.2024 I Nr. 71
-
-Änderung durch
-:   Art. 1 V v. 17.7.2024 I Nr. 243 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 17.7.2024 I Nr. 243
 
 Stand: V in Kraft gem. § 83 Satz 1 iVm Art. 4 Abs. 1 Satz 1 G v. 6.6.2013 I 1482 mWv 1.9.2013
 

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1663
 
-Änderung durch
-:   Art. 7 G v. 15.7.2024 I Nr. 237 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 7 G v. 15.7.2024 I Nr. 237
 
 
 ## Eingangsformel
