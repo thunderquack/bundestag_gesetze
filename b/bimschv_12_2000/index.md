@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.3.2017 I 483;
 
 Zuletzt geändert durch
-:   Art. 107 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 7 G v. 3.7.2024 I Nr. 225 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 3.7.2024 I Nr. 225
 
 
 ## Erster Teil - Allgemeine Vorschriften

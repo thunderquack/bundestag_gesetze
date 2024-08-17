@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek v. 29.5.1992 I 1001;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 22.3.2023 I Nr. 88
-
-Änderung durch
-:   Art. 4 G v. 3.7.2024 I Nr. 225 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 3.7.2024 I Nr. 225
 
 
 ## Erster Teil - Allgemeine Vorschriften

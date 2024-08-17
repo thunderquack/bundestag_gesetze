@@ -16,7 +16,7 @@ Fundstelle
 :   BAnz: 2003, Nr 41, 3702
 
 Zuletzt geändert durch
-:   Art. 74 § 4 V v. 2.6.2016 I 1257
+:   Art. 1 V v. 13.8.2024 I Nr. 262
 
 
 ## Eingangsformel
