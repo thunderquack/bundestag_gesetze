@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 272, 2
 
-Änderung durch
-:   Art. 5 G v. 16.7.2024 I Nr. 240 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 5 G v. 16.7.2024 I Nr. 240
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

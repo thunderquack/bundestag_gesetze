@@ -10076,7 +10076,8 @@ Abschnitt I
     *
 
 *    *   Bescheinigung des Daueraufenthaltsrechts EU-/EWR-Bürger
-        erteilt am
+        ausgestellt am
+        gültig bis
 
     *   (3)
 

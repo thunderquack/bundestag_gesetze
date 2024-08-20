@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2004, 718, 776
 
 Zuletzt geändert durch
-:   Art. 16 G v. 15.7.2024 I Nr. 236
-
-Änderung durch
-:   Art. 7 G v. 16.7.2024 I Nr. 240 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 16.7.2024 I Nr. 240
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
