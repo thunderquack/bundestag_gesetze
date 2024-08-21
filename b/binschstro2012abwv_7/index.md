@@ -84,8 +84,15 @@ I.  Inhaltsübersicht
 II. Vorübergehende Regelungen
 
     1.  § 21.10 ist in folgender Fassung anzuwenden:
-        "§ 21.10
-        ## Stillliegen
+
+
+        *            *   „§ 21.10
+
+
+        *            *   Stillliegen
+
+
+
 
 
         1.  Das Stillliegen an den mit Tafelzeichen E.5, E.6 oder E.7 (Anlage 7) gekennzeichneten Liegestellen in Kanälen ist nur in einer Schiffsbreite gestattet.
@@ -109,19 +116,25 @@ II. Vorübergehende Regelungen
             § 7.08 Nummer 5 Satz 2 ist nicht anzuwenden.
 
 
-        4.  Auf einem See oder einer seeartigen Erweiterung ist § 7.01 Nummer 1 Satz 1 unter der Voraussetzung, dass die durchgehende Schifffahrt nicht behindert wird, nicht anzuwenden."
-
+        4.  Auf einem See oder einer seeartigen Erweiterung ist § 7.01 Nummer 1 Satz 1 unter der Voraussetzung, dass die durchgehende Schifffahrt nicht behindert wird, nicht anzuwenden.“
 
 
 
 
 
     2.  § 21.24 ist in folgender Fassung anzuwenden:
-        "§ 21.24
-        ## Sonderbestimmungen für Kleinfahrzeuge
 
 
-        1.  Auf der **Spree-Oder-Wasserstraße**                                      vom Kanzleramtssteg (km 14,10) bis zur Oberbaumbrücke (km 20,70) – einschließlich Spreekanal – ist
+        *            *   „§ 21.24
+
+
+        *            *   Sonderbestimmungen für Kleinfahrzeuge
+
+
+
+
+
+        1.  Auf der **Spree-Oder-Wasserstraße**                                vom Kanzleramtssteg (km 14,10) bis zur Oberbaumbrücke (km 20,70) – einschließlich Spreekanal – ist
 
             a)  der Verkehr eines Kleinfahrzeugs, das ohne Maschinenantrieb fährt,
 
@@ -136,7 +149,7 @@ II. Vorübergehende Regelungen
             verboten. Satz 1 Buchstabe b gilt nicht für ein Kleinfahrzeug, das mit einer Antriebsmaschine ausgestattet ist, deren Nutzleistung mindestens 3,69 kW beträgt, und dessen Schiffsführer oder Schiffsführerin über eine Fahrerlaubnis oder ein Befähigungszeugnis für ein Fahrzeug unter Antriebsmaschine nach der Sportbootführerscheinverordnung, der Binnenschiffspersonalverordnung oder der Rheinschiffspersonalverordnung verfügt. Satz 1 Buchstabe c gilt auch auf dem Landwehrkanal. Die zuständige Behörde kann abweichend von Satz 1 Buchstabe c, auch in Verbindung mit Satz 3, Ausnahmen zulassen.
 
 
-        2.  Auf dem **Gosener Graben**                                      ist der Verkehr eines Kleinfahrzeugs mit Maschinenantrieb verboten.
+        2.  Auf dem **Gosener Graben**                                ist der Verkehr eines Kleinfahrzeugs mit Maschinenantrieb verboten.
 
 
         3.  Ein Kleinfahrzeug muss auf einem Kanal, in einem engen Fahrwasser und auf einem unübersichtlichen Gewässerabschnitt grundsätzlich rechts fahren.
@@ -145,8 +158,7 @@ II. Vorübergehende Regelungen
         4.  Ein schleppendes Kleinfahrzeug darf höchstens neun Kleinfahrzeuge im Anhang führen. Es dürfen höchstens drei Kleinfahrzeuge gekuppelt fahren.
 
 
-        5.  Abweichend von § 3.20 braucht ein Kleinfahrzeug bei Nacht kein weißes Licht zu führen, wenn es an einer genehmigten Liegestelle stillliegt."
-
+        5.  Abweichend von § 3.20 braucht ein Kleinfahrzeug bei Nacht kein weißes Licht zu führen, wenn es an einer genehmigten Liegestelle stillliegt.“
 
 
 

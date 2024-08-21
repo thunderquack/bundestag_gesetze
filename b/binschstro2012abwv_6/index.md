@@ -204,9 +204,15 @@ II. Vorübergehende Regelungen
 
     2.  Das Kapitel 1 der Binnenschifffahrtsstraßen-Ordnung ist in der um den nachstehenden § 1.28 ergänzten Fassung anzuwenden:
 
-        „§ 1.28
-        Abweichungen von dieser Verordnung für ein Fahrzeug, bei dem Aufgaben der Navigation
-        ## ferngesteuert wahrgenommen werden
+
+        *            *   „§ 1.28
+
+
+        *            *   Abweichungen von dieser Verordnung für ein Fahrzeug, bei dem Aufgaben der Navigation
+                ferngesteuert wahrgenommen werden
+
+
+
 
 
         1.  Zu Versuchszwecken kann die zuständige Behörde auf Antrag für ein Fahrzeug, bei dem Aufgaben der Navigation ferngesteuert wahrgenommen werden sollen, Ausnahmen von Anforderungen dieser Verordnung für einen bestimmten Zeitraum für einen bestimmten Streckenabschnitt widerruflich genehmigen. Die Genehmigung darf nur auf der Grundlage einer Begutachtung der für die technische Zulassung von Fahrzeugen zuständigen Stelle nach Maßgabe der Nummer 2 erfolgen. Die Genehmigung ist – auch nachträglich – mit den für die Sicherheit und Leichtigkeit des Verkehrs sowie dem Schutz von Personen und Ladung erforderlichen Nebenbestimmungen zu versehen; dies gilt auch hinsichtlich Anforderungen an die Einrichtung, die Ausrüstung und den Betrieb des Fahrzeugs sowie die Einrichtung und die Ausrüstung der Fernsteuerungszentrale und den Betrieb des Fahrzeugs durch die Fernsteuerungszentrale.
@@ -344,7 +350,6 @@ II. Vorübergehende Regelungen
 
 
         9.  Die Nummern 1, 2 und 4 bis 8 gelten nicht für ein Kleinfahrzeug, das keiner Untersuchungspflicht unterliegt oder nicht untersucht worden ist. Im Einzelfall kann die zuständige Behörde zu Versuchszwecken die ferngesteuerte Wahrnehmung von Aufgaben der Navigation auf einem Kleinfahrzeug zulassen. Nummer 1 Satz 2 in Verbindung mit Nummer 2 Satz 1 ist entsprechend anzuwenden.“
-
 
 
 

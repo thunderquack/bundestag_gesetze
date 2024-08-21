@@ -22,18 +22,18 @@ Fundstelle
 Das Ordenskapitel des Ordens Pour le mérite für Wissenschaften und Künste hat am 26. September 2021 folgende Änderungen der Satzung des Ordens beschlossen:
 
 –   § 2 Absatz 3 wird um folgende Formulierung ergänzt:
-    "Mitglieder, welche das 90. Lebensjahr vollendet haben, werden in die Zahl der Mitglieder nicht eingerechnet; sie behalten ihre vollen Rechte."
 
+    „Mitglieder, welche das 90. Lebensjahr vollendet haben, werden in die Zahl der Mitglieder nicht eingerechnet; sie behalten ihre vollen Rechte.“
 
 
 –   § 4 Absatz 2 ist neu:
-    "(2) Sitzungen sind in der Regel physische Zusammenkünfte. Die Teilnahme per elektronischer Kommunikation wie Telefon- oder Videokonferenzen ist zulässig."
 
+    „(2) Sitzungen sind in der Regel physische Zusammenkünfte. Die Teilnahme per elektronischer Kommunikation wie Telefon- oder Videokonferenzen ist zulässig.“
 
 
 –   § 6 Absatz 4 wird neu gefasst:
-    "(4) Eine Wahl kann nur stattfinden, wenn sich mindestens die Hälfte der inländischen Mitglieder des Kapitels an ihr beteiligt."
 
+    „ (4) Eine Wahl kann nur stattfinden, wenn sich mindestens die Hälfte der inländischen Mitglieder des Kapitels an ihr beteiligt.“
 
 
 

@@ -64,7 +64,7 @@ Im Sinne dieser Verordnung sind
 
 (1) Wohnungsunternehmen haben abweichend von § 275 Absatz 2 und 3 des Handelsgesetzbuchs bei der Aufstellung der Gewinn- und Verlustrechnung nach dem Gesamtkostenverfahren oder dem Umsatzkostenverfahren den Posten 1 wie folgt auszuweisen:
 
-"1. Umsatzerlöse
+„1. Umsatzerlöse
 
     a)  aus Bewirtschaftungstätigkeit
 
@@ -75,7 +75,7 @@ Im Sinne dieser Verordnung sind
     c)  aus Betreuungstätigkeit
 
 
-    d)  aus anderen Lieferungen und Leistungen".
+    d)  aus anderen Lieferungen und Leistungen“.
 
 
 
@@ -86,12 +86,10 @@ Die Umsatzerlöse dürfen zusammengefasst in Posten 1 ausgewiesen werden, wenn d
 
 (2) Wohnungsunternehmen haben abweichend von § 275 Absatz 2 des Handelsgesetzbuchs bei der Aufstellung der Gewinn- und Verlustrechnung nach dem Gesamtkostenverfahren die Posten 2 und 5 wie folgt auszuweisen:
 
-"2. Erhöhung oder Verminderung des Bestands an zum Verkauf bestimmten Grundstücken mit fertigen oder unfertigen Bauten sowie unfertigen Leistungen",
+„2. Erhöhung oder Verminderung des Bestands an zum Verkauf bestimmten Grundstücken mit fertigen oder unfertigen Bauten sowie unfertigen Leistungen“,
 
 
-
-
-"5. Aufwendungen für bezogene Lieferungen und Leistungen
+„5. Aufwendungen für bezogene Lieferungen und Leistungen
 
     a)  Aufwendungen für Bewirtschaftungstätigkeit
 
@@ -102,7 +100,7 @@ Die Umsatzerlöse dürfen zusammengefasst in Posten 1 ausgewiesen werden, wenn d
     c)  Aufwendungen für Betreuungstätigkeit
 
 
-    d)  Aufwendungen für andere Lieferungen und Leistungen".
+    d)  Aufwendungen für andere Lieferungen und Leistungen“.
 
 
 

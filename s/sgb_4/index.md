@@ -3970,9 +3970,17 @@ Wertguthaben für Beschäftigte, die am 1. Januar 2009 abweichend von § 7d Absa
 
 (3) Für Wertguthabenvereinbarungen nach § 7b, die vor dem 31. Dezember 2008 geschlossen worden sind und in denen entgegen § 7e Absatz 1 und 2 keine Vorkehrungen für den Fall der Insolvenz des Arbeitgebers vereinbart sind, gilt § 7e Absatz 5 und 6 mit Wirkung ab dem 1. Juni 2009.
 
-[^f772675_18_BJNR138450976BJNE022701308]:     ## Gemäß Artikel 1 Nummer 22 in Verbindung mit Artikel 10 Absatz 8 des Gesetzes vom 15. Juli 2009 (BGBl. I S. 1939) wird am 1. Oktober 2009 nach § 116 folgender § 116a eingefügt:                             „§ 116a               Übergangsregelung zur Beitragshaftung
+[^f772675_18_BJNR138450976BJNE022701308]:     Gemäß Artikel 1 Nummer 22 in Verbindung mit Artikel 10 Absatz 8 des Gesetzes vom 15. Juli 2009 (BGBl. I S. 1939) wird am 1. Oktober 2009 nach § 116 folgender § 116a eingefügt:                                                         „§ 116a
 
-    § 28e Absatz 3b und 3d Satz 1 in der am 30. September 2009 geltenden Fassung finden weiter Anwendung, wenn der Unternehmer mit der Erbringung der Bauleistungen vor dem 1. Oktober 2009 beauftragt worden ist.“
+
+Übergangsregelung zur Beitragshaftung
+
+
+
+
+§ 28e Absatz 3b und 3d Satz 1 in der am 30. September 2009 geltenden Fassung finden weiter Anwendung, wenn der Unternehmer mit der Erbringung der Bauleistungen vor dem 1. Oktober 2009 beauftragt worden ist.“
+
+
 
 
 

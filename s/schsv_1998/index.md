@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 3013, 3023
 
 Zuletzt geändert durch
-:   Art. 2 V v. 3.3.2020 I 412
-
-Änderung durch
-:   Art. 1 V v. 25.6.2024 I Nr. 217 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 25.6.2024 I Nr. 217
 
 
 ## § 1 Zielsetzung und Geltungsbereich
