@@ -1,5 +1,5 @@
 ---
-Title: Anordnung über Bauvorlagen, bautechnische Prüfungen und Überwachung
+Title: Anordnung über Bauvorlagen, Bautechnische Prüfungen und Überwachung
 jurabk: BauPÜAnO
 layout: default
 origslug: baup_ano
@@ -7,7 +7,7 @@ slug: baupueano
 
 ---
 
-# Anordnung über Bauvorlagen, bautechnische Prüfungen und Überwachung (BauPÜAnO)
+# Anordnung über Bauvorlagen, Bautechnische Prüfungen und Überwachung (BauPÜAnO)
 
 Ausfertigungsdatum
 :   1990-08-13

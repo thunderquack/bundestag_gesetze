@@ -17,7 +17,7 @@ Fundstelle
 :   eBAnz: 2010, AT41 V1
 
 Zuletzt geändert durch
-:   Art. 1 V v. 18.8.2020 BAnz AT 28.08.2020 V2
+:   Art. 1 V v. 16.8.2024 I Nr. 265
 
 
 ## Eingangsformel
@@ -62,12 +62,24 @@ Diese Verordnung tritt am Tag nach der Verkündigung in Kraft.
 
 *    *   Wirkstoff
 
-    *[^F1_812972_BJNR604100010BJNE000404116]
+    *[^F1_812972_BJNR604100010BJNE000405125]
    Code
 
     *   Erzeugnisgruppe
 
     *   Rückstandshöchstgehalt mg/kg
+
+
+*    *   Folpet
+        Rückstand:
+        Folpet (Summe aus
+        Folpet und Phthalimid, ausgedrückt als Folpet)
+
+    *   0130000
+
+    *   Kernobst
+
+    *   6
 
 
 *    *   Metobromuron
@@ -85,4 +97,4 @@ Diese Verordnung tritt am Tag nach der Verkündigung in Kraft.
 _\_\__\_\__\_\__\_\_
 
     Code und Erzeugnisgruppe im Sinne des Anhangs I der Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom 16.3.2005, S. 1), die zuletzt durch die Verordnung (EU) 2020/1085 (ABl. L 239 vom 24.7.2020, S. 7) geändert worden ist.
-[^F1_812972_BJNR604100010BJNE000404116]: 
+[^F1_812972_BJNR604100010BJNE000405125]: 

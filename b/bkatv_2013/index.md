@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 498
 
 Zuletzt geändert durch
-:   Art. 2 V v. 10.6.2024 I Nr. 191
+:   Art. 3 G v. 16.8.2024 I Nr. 266
 
 
 ## Eingangsformel
@@ -27,7 +27,7 @@ Auf Grund des § 26a des Straßenverkehrsgesetzes in der Fassung der Bekanntmach
 
 ## § 1 Bußgeldkatalog
 
-(1) Bei Ordnungswidrigkeiten nach § 24 Absatz 1, § 24a Absatz 1 bis 3 und § 24c Absatz 1 und 2 des Straßenverkehrsgesetzes, die in der Anlage zu dieser Verordnung (Bußgeldkatalog – BKat) aufgeführt sind, ist eine Geldbuße nach den dort bestimmten Beträgen festzusetzen. Bei Ordnungswidrigkeiten nach § 24 Absatz 1 des Straßenverkehrsgesetzes, bei denen im Bußgeldkatalog ein Regelsatz von bis zu 55 Euro bestimmt ist, ist ein entsprechendes Verwarnungsgeld zu erheben.
+(1) Bei Ordnungswidrigkeiten nach § 24 Absatz 1, § 24a Absatz 1 bis 2a und § 24c Absatz 1 und 2 des Straßenverkehrsgesetzes, die in der Anlage zu dieser Verordnung (Bußgeldkatalog – BKat) aufgeführt sind, ist eine Geldbuße nach den dort bestimmten Beträgen festzusetzen. Bei Ordnungswidrigkeiten nach § 24 Absatz 1 des Straßenverkehrsgesetzes, bei denen im Bußgeldkatalog ein Regelsatz von bis zu 55 Euro bestimmt ist, ist ein entsprechendes Verwarnungsgeld zu erheben.
 
 (2) Die im Bußgeldkatalog bestimmten Beträge sind Regelsätze. Sie gehen von gewöhnlichen Tatumständen sowie in Abschnitt I des Bußgeldkatalogs von fahrlässiger und in Abschnitt II des Bußgeldkatalogs von vorsätzlicher Begehung aus.
 
@@ -53,7 +53,7 @@ Auf Grund des § 26a des Straßenverkehrsgesetzes in der Fassung der Bekanntmach
 
 ## § 3 Bußgeldregelsätze
 
-(1) Etwaige Eintragungen des Betroffenen im Fahreignungsregister sind im Bußgeldkatalog nicht berücksichtigt, soweit nicht in den Nummern 152.1, 241.1, 241.2, 242.1 und 242.2 des Bußgeldkatalogs etwas anderes bestimmt ist.
+(1) Etwaige Eintragungen des Betroffenen im Fahreignungsregister sind im Bußgeldkatalog nicht berücksichtigt, soweit nicht in den Nummern 152.1, 241.1, 241.2, 242.1, 242.2, 243.1, 243.2, 243a.1 und 243a.2 des Bußgeldkatalogs etwas anderes bestimmt ist.
 
 (2) Wird ein Tatbestand der Nummer 119, der Nummer 198.1 in Verbindung mit Tabelle 3 des Anhangs oder der Nummern 212, 214.1, 214.2 oder 223 des Bußgeldkatalogs, für den ein Regelsatz von mehr als 55 Euro vorgesehen ist, vom Halter eines Kraftfahrzeugs verwirklicht, so ist derjenige Regelsatz anzuwenden, der in diesen Fällen für das Anordnen oder Zulassen der Inbetriebnahme eines Kraftfahrzeugs durch den Halter vorgesehen ist.
 
@@ -110,7 +110,7 @@ des Bußgeldkatalogs verwirklicht wird. Wird in diesen Fällen ein Fahrverbot an
 
 (2) Wird ein Fahrverbot wegen beharrlicher Verletzung der Pflichten eines Kraftfahrzeugführers zum ersten Mal angeordnet, so ist seine Dauer in der Regel auf einen Monat festzusetzen. Ein Fahrverbot kommt in der Regel in Betracht, wenn gegen den Führer eines Kraftfahrzeugs wegen einer Geschwindigkeitsüberschreitung von mindestens 26 km/h bereits eine Geldbuße rechtskräftig festgesetzt worden ist und er innerhalb eines Jahres seit Rechtskraft der Entscheidung eine weitere Geschwindigkeitsüberschreitung von mindestens 26 km/h begeht.
 
-(3) Bei Ordnungswidrigkeiten nach § 24a des Straßenverkehrsgesetzes ist ein Fahrverbot (§ 25 Absatz 1 Satz 2 des Straßenverkehrsgesetzes) in der Regel mit der in den Nummern 241, 241.1, 241.2, 242, 242.1 und 242.2 des Bußgeldkatalogs vorgesehenen Dauer anzuordnen.
+(3) Bei Ordnungswidrigkeiten nach § 24a des Straßenverkehrsgesetzes ist ein Fahrverbot (§ 25 Absatz 1 Satz 2 des Straßenverkehrsgesetzes) in der Regel mit der in den Nummern 241, 241.1, 241.2, 242, 242.1, 242.2, 243, 243.1, 243.2, 243a, 243a.1 und 243a.2 des Bußgeldkatalogs vorgesehenen Dauer anzuordnen.
 
 (4) Wird von der Anordnung eines Fahrverbots ausnahmsweise abgesehen, so soll das für den betreffenden Tatbestand als Regelsatz vorgesehene Bußgeld angemessen erhöht werden.
 
@@ -7539,8 +7539,7 @@ Abschnitt I
 
 
 *    *
-    *   B.
-        Zuwiderhandlungen gegen
+    *   B. Zuwiderhandlungen gegen
         §§ 24a, 24c StVG ****
 
     *
@@ -7554,35 +7553,85 @@ Abschnitt I
 
 *    *   241
 
-    *   Kraftfahrzeug geführt mit einer Atemalkoholkonzentration von 0,25 mg/l oder mehr oder mit einer Blutalkoholkonzentration von 0,5 Promille oder mehr oder
-        mit einer Alkoholmenge im Körper, die zu einer solchen Atem- oder Blutalkoholkonzentration führt
+    *   Kraftfahrzeug geführt mit einer Atemalkoholkonzentration von 0,25 mg/l oder mehr oder mit einer Blutalkoholkonzentration von 0,5 Promille oder mehr oder mit einer Alkoholmenge im Körper, die zu einer solchen Atem- oder Blutalkoholkonzentration führt
 
     *   § 24a Absatz 1
 
     *   500 €
-        Fahrverbot
+        **Fahrverbot**
         **1 Monat**
 
 
 *    *   241.1
 
     *
-    *   bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+        *   bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+
+
+
 
     *
     *   1 000 €
-        Fahrverbot
+        **Fahrverbot**
         **3 Monate**
 
 
 *    *   241.2
 
     *
-    *   bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+        *   bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+
+
+
 
     *
     *   1 500 €
-        Fahrverbot
+        **Fahrverbot**
+        **3 Monate**
+
+
+*    *
+    *   3,5-ng/ml-Tetrahydrocannabinol-Grenze ****
+
+    *
+    *
+
+*    *   242
+
+    *   Kraftfahrzeug geführt mit 3,5 ng/ml oder mehr Tetrahydrocannabinol im Blutserum
+
+    *   § 24a Absatz 1a
+
+    *   500 €
+        **Fahrverbot**
+        **1 Monat**
+
+
+*    *   242.1
+
+    *
+        *   bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+
+
+
+
+    *
+    *   1 000 €
+        **Fahrverbot**
+        **3 Monate**
+
+
+*    *   242.2
+
+    *
+        *   bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+
+
+
+
+    *
+    *   1 500 €
+        **Fahrverbot**
         **3 Monate**
 
 
@@ -7592,55 +7641,110 @@ Abschnitt I
     *
     *
 
-*    *   242
+*    *   243
 
     *   Kraftfahrzeug unter Wirkung eines in der Anlage zu
         § 24a Absatz 2 StVG genannten berauschenden Mittels geführt
 
-    *   § 24a Absatz 2 Satz 1 i. V. m.
-        Absatz 3
+    *   § 24a Absatz 2 Satz 1
 
     *   500 €
-        Fahrverbot
+        **Fahrverbot**
         **1 Monat**
 
 
-*    *   242.1
+*    *   243.1
 
     *
-    *   bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+        *   bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+
+
+
 
     *
     *   1 000 €
-        Fahrverbot
+        **Fahrverbot**
         **3 Monate**
 
 
-*    *   242.2
+*    *   243.2
 
     *
-    *   bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+        *   bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+
+
+
 
     *
     *   1 500 €
-        Fahrverbot
+        **Fahrverbot**
         **3 Monate**
 
 
 *    *
-    *   Alkoholverbot für Fahranfänger und Fahranfängerinnen ****
+    *   Alkoholverbot für Cannabiskonsumenten und Cannabiskonsumentinnen ****
 
     *
     *
 
-*    *   243
+*    *   243a
 
-    *   In der Probezeit nach § 2a StVG oder vor Vollendung
-        des 21. Lebensjahres als Führer eines Kraftfahrzeugs alkoholische Getränke zu sich genommen oder die
-        Fahrt unter der Wirkung eines solchen Getränks
-        angetreten
+    *   Als Führer eines Kraftfahrzeugs im Straßenverkehr 3,5 ng/ml oder mehr Tetrahydrocannabinol im Blutserum und
 
-    *   § 24c Absatz 1, 2
+        1.  ein alkoholisches Getränk zu sich genommen oder
+
+
+        2.  die Fahrt unter der Wirkung eines alkoholischen Getränks angetreten
+
+
+
+
+    *   § 24a Absatz 2a
+
+    *   1 000 €
+        **Fahrverbot**
+        **1 Monat**
+
+
+*    *   243a.1
+
+    *
+        *   bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+
+
+
+
+    *
+    *   1 500 €
+        **Fahrverbot**
+        **3 Monate**
+
+
+*    *   243a.2
+
+    *
+        *   bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
+
+
+
+
+    *
+    *   2 000 €
+        **Fahrverbot**
+        **3 Monate**
+
+
+*    *
+    *   Alkohol- und Cannabisverbot für Fahranfänger und Fahranfängerinnen ****
+
+    *
+    *
+
+*    *   243b
+
+    *   In der Probezeit nach § 2a StVG oder vor Vollendung des 21. Lebensjahres als Führer eines Kraftfahrzeugs im Straßenverkehr ein alkoholisches Getränk oder die Substanz Tetrahydrocannabinol zu sich genommen oder die Fahrt unter der Wirkung eines alkoholischen Getränks oder der Substanz Tetrahydrocannabinol angetreten
+
+    *   § 24c Absatz 1
 
     *   250 €
 

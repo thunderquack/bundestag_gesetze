@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1980
 
 Zuletzt geändert durch
-:   Art. 14 G v. 27.3.2024 I Nr. 109
+:   Art. 2 G v. 16.8.2024 I Nr. 266
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Nr. 41) ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -918,6 +918,7 @@ Zur Vorbereitung von Entscheidungen über die Erteilung oder Verlängerung der F
 
 
 
+Im Falle des Satzes 1 Nummer 2 Buchstabe b sind Zuwiderhandlungen, die ausschließlich gegen § 24c des Straßenverkehrsgesetzes begangen worden sind, nicht zu berücksichtigen.
 
 
 #### § 14 Klärung von Eignungszweifeln im Hinblick auf Betäubungsmittel und Arzneimittel
@@ -944,10 +945,11 @@ vorliegt. Die Beibringung eines ärztlichen Gutachtens kann angeordnet werden, w
 2.  zu klären ist, ob der Betroffene noch abhängig ist oder – ohne abhängig zu sein – weiterhin die in Absatz 1 genannten Mittel oder Stoffe einnimmt, oder
 
 
-3.  wiederholt Zuwiderhandlungen im Straßenverkehr nach § 24a des Straßenverkehrsgesetzes begangen wurden. § 13 Nummer 2 Buchstabe b bleibt unberührt.
+3.  wiederholt Zuwiderhandlungen im Straßenverkehr nach § 24a des Straßenverkehrsgesetzes begangen wurden.
 
 
 
+Im Falle des Satzes 1 Nummer 3 bleiben § 13 Satz 1 Nummer 2 Buchstabe b und § 13a Satz 1 Nummer 2 Buchstabe b unberührt.
 
 
 #### § 15 Fahrerlaubnisprüfung
@@ -2098,6 +2100,9 @@ Die Fahrerlaubnisbehörde hat bei Beantragung der Fahrerlaubnis oder bei Beantra
 (6) Die begleitende Person darf den Inhaber einer Prüfungsbescheinigung nach Absatz 3 nicht begleiten, wenn sie
 
 1.  0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt,
+
+
+1a. 3,5 ng/ml oder mehr Tetrahydrocannabinol im Blutserum hat,
 
 
 2.  unter der Wirkung eines in der Anlage zu § 24a des Straßenverkehrsgesetzes genannten berauschenden Mittels steht.
@@ -6381,7 +6386,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   9.2.1
 
     *   Missbrauch
-        (Das Führen von Fahrzeugen und ein die Fahrsicherheit beeinträchtigender Cannabiskonsum können nicht hinreichend sicher getrennt werden.)
+        (Das Führen von Fahrzeugen und
+        ein Cannabiskonsum mit nicht
+        fernliegender verkehrssicherheitsrelevanter Wirkung beim Führen
+        eines Fahrzeugs können nicht
+        hinreichend sicher getrennt werden.)
 
     *   nein
 
@@ -6752,7 +6761,7 @@ Grundlage für die Beurteilung der Eignung zum Führen von Kraftfahrzeugen sind 
     e)  Über die Untersuchung sind Aufzeichnungen anzufertigen.
 
 
-    f)  In den Fällen der §§ 13 und 14 ist Gegenstand der Untersuchung auch das voraussichtliche künftige Verhalten des Betroffenen, insbesondere ob zu erwarten ist, dass er nicht oder nicht mehr ein Kraftfahrzeug unter Einfluss von Alkohol oder Betäubungsmitteln oder Cannabis oder Arzneimitteln führen wird. Hat Abhängigkeit von Alkohol oder Betäubungsmitteln oder Cannabis oder Arzneimitteln vorgelegen, muss sich die Untersuchung darauf erstrecken, dass eine stabile Abstinenz besteht. Bei Alkoholmissbrauch, ohne dass Abhängigkeit vorhanden war oder ist, muss sich die Untersuchung darauf erstrecken, ob der Betroffene den Konsum von Alkohol einerseits und das Führen von Kraftfahrzeugen im Straßenverkehr andererseits zuverlässig voneinander trennen kann. Dem Betroffenen kann die Fahrerlaubnis nur dann erteilt werden, wenn sich bei ihm ein grundlegender Wandel in seiner Einstellung zum Führen von Kraftfahrzeugen unter Einfluss von Alkohol oder Betäubungsmitteln oder Cannabis oder Arzneimitteln vollzogen hat. Es müssen zum Zeitpunkt der Erteilung der Fahrerlaubnis Bedingungen vorhanden sein, die einen Rückfall als unwahrscheinlich erscheinen lassen. Das Gutachten kann auch geeignete Kurse zur Wiederherstellung der Kraftfahreignung empfehlen. Die Empfehlung darf nur gegenüber Personen erfolgen, die zum Zeitpunkt der Begutachtung nicht Inhaber einer Fahrerlaubnis sind.
+    f)  In den Fällen der §§ 13, 13a und 14 ist Gegenstand der Untersuchung auch das voraussichtliche künftige Verhalten der betroffenen Person, insbesondere ob zu erwarten ist, dass sie nicht oder nicht mehr ein Kraftfahrzeug unter Einfluss von Alkohol, Cannabis, Betäubungsmitteln oder Arzneimitteln führen wird. Hat Abhängigkeit von Alkohol, Cannabis, Betäubungsmitteln oder Arzneimitteln vorgelegen, muss sich die Untersuchung darauf erstrecken, dass eine stabile Abstinenz besteht. Bei Alkoholmissbrauch, ohne dass Abhängigkeit vorhanden war oder ist, muss sich die Untersuchung darauf erstrecken, ob die betroffene Person den Konsum von Alkohol einerseits und das Führen von Kraftfahrzeugen im Straßenverkehr andererseits zuverlässig voneinander trennen kann. Satz 3 gilt entsprechend bei Cannabismissbrauch. Der betroffenen Person kann die Fahrerlaubnis nur dann erteilt werden, wenn sich bei ihr ein grundlegender Wandel in ihrer Einstellung zum Führen von Kraftfahrzeugen unter Einfluss von Alkohol, Cannabis, Betäubungsmitteln oder Arzneimitteln vollzogen hat. Es müssen zum Zeitpunkt der Erteilung der Fahrerlaubnis Bedingungen vorhanden sein, die einen Rückfall als unwahrscheinlich erscheinen lassen. Das Gutachten kann auch geeignete Kurse zur Wiederherstellung der Kraftfahreignung empfehlen. Die Empfehlung darf nur gegenüber Personen erfolgen, die zum Zeitpunkt der Begutachtung nicht Inhaber einer Fahrerlaubnis sind.
 
 
     g)  In den Fällen des § 2a Absatz 4 Satz 1 und Absatz 5 Satz 5 oder des § 4 Absatz 10 Satz 4 des Straßenverkehrsgesetzes oder des § 11 Absatz 3 Nummer 4 bis 9 dieser Verordnung ist Gegenstand der Untersuchung auch die Erwartung an das voraussichtliche künftige Verhalten des Betroffenen, dass er nicht mehr erheblich oder wiederholt gegen verkehrsrechtliche Bestimmungen oder gegen Strafgesetze verstoßen wird. Es sind die Bestimmungen von Buchstabe f Satz 4 bis 6 entsprechend anzuwenden.
@@ -12753,7 +12762,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
     Unerlaubtes Entfernen vom Unfallort (§ 142)
 
-[^f774694_14_12_BJNR198000010BJNE010308123]
+[^f774694_14_12_BJNR198000010BJNE010309123]
     Fahrlässige Tötung (§ 222)
 
     Fahrlässige Körperverletzung (§ 229)\*)
@@ -12867,7 +12876,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 2.2 Verstöße gegen die Vorschriften der Fahrzeug-Zulassungsverordnung über den Gebrauch oder das Gestatten des Gebrauchs von Fahrzeugen ohne die erforderliche Zulassung (§ 3 Absatz 1) oder ohne dass sie einem genehmigten Typ entsprechen oder eine Einzelgenehmigung erteilt ist (§ 4 Absatz 1)
 
 
-2.3 Verstöße gegen § 24a oder § 24c des Straßenverkehrsgesetzes (Alkohol, berauschende Mittel)
+2.3 Verstöße gegen § 24a oder § 24c des Straßenverkehrsgesetzes (Alkohol, Cannabis, andere berauschende Mittel)
 
 
 2.4 Verstöße gegen die Vorschriften der Fahrerlaubnis-Verordnung über das Befördern von Fahrgästen ohne die erforderliche Fahrerlaubnis zur Fahrgastbeförderung oder das Anordnen oder Zulassen solcher Beförderungen (§ 48 Absatz 1 oder 7)
@@ -12885,7 +12894,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 1.1 Straftaten nach dem Strafgesetzbuch
 
-[^f774694_14_13_BJNR198000010BJNE010308123]
+[^f774694_14_13_BJNR198000010BJNE010309123]
     Fahrlässige Tötung (§ 222)
 
     Fahrlässige Körperverletzung (§ 229)\*)
@@ -12906,8 +12915,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 
     Für die Einordnung einer fahrlässigen Tötung oder fahrlässigen Körperverletzung in Abschnitt A oder B ist die Einordnung des der Tat zugrunde liegenden Verkehrsverstoßes maßgebend.
-[^f774694_14_12_BJNR198000010BJNE010308123]:     Für die Einordnung einer fahrlässigen Tötung oder fahrlässigen Körperverletzung in Abschnitt A oder B ist die Einordnung des der Tat zugrunde liegenden Verkehrsverstoßes maßgebend.
-[^f774694_14_13_BJNR198000010BJNE010308123]: 
+[^f774694_14_12_BJNR198000010BJNE010309123]:     Für die Einordnung einer fahrlässigen Tötung oder fahrlässigen Körperverletzung in Abschnitt A oder B ist die Einordnung des der Tat zugrunde liegenden Verkehrsverstoßes maßgebend.
+[^f774694_14_13_BJNR198000010BJNE010309123]: 
 (zu § 40)
 
 ### Anlage 13 Bezeichnung und Bewertung der im Rahmen des Fahreignungs-Bewertungssystems zu berücksichtigenden Straftaten und Ordnungswidrigkeiten
@@ -13135,7 +13144,7 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
 
         *   Ordnungswidrigkeit
 
-        *[^f785129_07_BJNR198000010BJNE010408124]
+        *[^f785129_07_BJNR198000010BJNE010409123]
    laufende Nummer der Anlage zur Bußgeldkatalog-Verordnung (BKat)
 
 
@@ -13146,11 +13155,19 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
         *   241, 241.1, 241.2
 
 
+    *        *   2.2.1a
+
+        *   Kraftfahrzeug geführt mit 3,5 ng/ml oder mehr Tetrahydrocannabinol im Blutserum
+
+        *   242, 242.1, 242.2, 243a, 243a.1, 243a.2
+
+
     *        *   2.2.2
 
-        *   Kraftfahrzeug unter der Wirkung eines in der Anlage zu § 24a Absatz 2 des Straßenverkehrsgesetzes genannten berauschenden Mittels geführt
+        *   Kraftfahrzeug unter der Wirkung eines in der Anlage zu § 24a Absatz 2 des Straßenverkehrsgesetzes genannten berauschenden
+            Mittels geführt
 
-        *   242, 242.1, 242.2
+        *   243, 243.1, 243.2
 
 
     *        *   2.2.3
@@ -13244,7 +13261,7 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
 
         *   des § 24c des Straßenverkehrsgesetzes
 
-        *   243
+        *   243b
 
 
 
@@ -13257,7 +13274,7 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
 
         *   Verstöße gegen die Vorschriften über
 
-        *[^f785129_08_BJNR198000010BJNE010408124]
+        *[^f785129_08_BJNR198000010BJNE010409123]
    laufende Nummer des BKat
 
 
@@ -13463,7 +13480,7 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
 
         *   Verstöße gegen die Vorschriften über
 
-        *[^f785129_09_BJNR198000010BJNE010408124]
+        *[^f785129_09_BJNR198000010BJNE010409123]
    laufende Nummer des BKat
 
 
@@ -13647,10 +13664,10 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
 
 
     Bußgeldkatalog
-[^f785129_07_BJNR198000010BJNE010408124]:     Bußgeldkatalog
-[^f785129_08_BJNR198000010BJNE010408124]:     Bußgeldkatalog
-[^f785129_09_BJNR198000010BJNE010408124]:     Bußgeldkatalog
-[^f785129_10_BJNR198000010BJNE010408124]: 
+[^f785129_07_BJNR198000010BJNE010409123]:     Bußgeldkatalog
+[^f785129_08_BJNR198000010BJNE010409123]:     Bußgeldkatalog
+[^f785129_09_BJNR198000010BJNE010409123]:     Bußgeldkatalog
+[^f785129_10_BJNR198000010BJNE010409123]: 
 (zu § 66 Absatz 2)
 
 ### Anlage 14 Voraussetzungen für die amtliche Anerkennung als Träger von Begutachtungsstellen für Fahreignung
