@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1984, 629
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 177 G v. 7.8.2013 I 3154
+:   Art. 1 V v. 21.8.2024 I Nr. 268
 
 Stand: In Kraft gem. § 3 Abs. 1 iVm Bek. v. 7.1.1986 II 409 mWv 1.1.1986
 
