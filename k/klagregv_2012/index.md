@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 2694
 
 Zuletzt geändert durch
-:   Art. 8 Abs. 3 G v. 8.7.2019 I 1002
-
-Änderung durch
-:   Art. 2 G v. 19.7.2024 I Nr. 240 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 19.7.2024 I Nr. 240
 
 
 ## Eingangsformel
