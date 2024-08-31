@@ -13,7 +13,7 @@ Ausfertigungsdatum
 :   2024-08-23
 
 Fundstelle
-:   BGBl I: 2024, Nr. 271
+:   BGBl. I: 2024, Nr. 271
 
 
 ## (XXXX)
