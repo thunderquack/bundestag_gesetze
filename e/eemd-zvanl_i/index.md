@@ -845,7 +845,7 @@ Tabelle 1: Übersicht über das Verfahren zur Feststellung der Gebrauchstauglich
 
     *   23.08.2012
 
-    *   RT
+    *   BAG, RT
 
     *   Inhaltliche Überarbeitung, Wegfall der Annahmeprüfung, sprachliche Bearbeitung
 
@@ -854,7 +854,7 @@ Tabelle 1: Übersicht über das Verfahren zur Feststellung der Gebrauchstauglich
 
     *   13.11.2014
 
-    *   BAG
+    *   BAG, RT
 
     *   Redaktionelle Überarbeitung
 
@@ -890,7 +890,7 @@ Tabelle 1: Übersicht über das Verfahren zur Feststellung der Gebrauchstauglich
 
     *   30.10.2020
 
-    *   RT
+    *   RT, BAG
 
     *   Einarbeitung Reviewkommentare und Anmerkungen TC/BAG
 
@@ -899,7 +899,7 @@ Tabelle 1: Übersicht über das Verfahren zur Feststellung der Gebrauchstauglich
 
     *   04.12.2020
 
-    *   RT
+    *   RT, BAG
 
     *   Überarbeitung und QS nach Review Referat 42
 
@@ -908,7 +908,7 @@ Tabelle 1: Übersicht über das Verfahren zur Feststellung der Gebrauchstauglich
 
     *   15.06.2021
 
-    *   RT
+    *   RT, BAG
 
     *   Überarbeitung: Aufrechterhaltung Gebrauchstauglichkeit
 
@@ -917,9 +917,27 @@ Tabelle 1: Übersicht über das Verfahren zur Feststellung der Gebrauchstauglich
 
     *   07.09.2021
 
-    *   RT
+    *   RT, BAG
 
     *   Redaktionelle Überarbeitung und Erstellung Version zur Veröffentlichung
+
+
+*    *   2.1
+
+    *   12.01.2022
+
+    *   RT, BAG
+
+    *   Konkretisierung Vorgaben zu EETS-Bordgeräten in Kapitel 4.3 (Zwischenversion)
+
+
+*    *   2.2
+
+    *   01.03.2024
+
+    *   RT, BALM
+
+    *   Überarbeitung entsprechend den Änderungen im BFStrMG
 
 
 
@@ -1429,7 +1447,7 @@ Die Anzahl der in den Prüfphasen einzusetzenden Bordgeräte ist abhängig von d
 
 Falls der EETS-Anbieter gleichzeitig Bordgeräte verschiedener Hersteller oder unterschiedliche Varianten oder Versionen eines Bordgerätes einsetzt, gelten die nachfolgenden Vorgaben sinngemäß für jeden Bordgeräte-Typ sowie jede Version oder Variante.
 
-Spätestens zu Beginn der Phase 1 hat der EETS-Anbieter die in Kapitel 3.3.1.2 vorgegebene Anzahl an Bordgeräten an den Mauterheber zu übergeben, wobei alle von ihm eingesetzten Bordgerätetypen in der aktuellen Konfiguration oder Version berücksichtigt sein müssen. Mindestens 25 dieser Bordgeräte verbleiben auch nach der Durchführung der Gebrauchstauglichkeitsprüfung beim Mauterheber, um bei eventuell notwendigen erneuten Prüfungen (siehe Kapitel 3.5.1.2 und 3.5.1.3) eingesetzt zu werden. Bei neu hinzukommenden Bordgerätetypen ist der EETS-Anbieter verpflichtet, dem Mauterheber entsprechende Exemplare zur Verfügung zu stellen. Die übergebenen Exemplare verbleiben dauerhaft und zeitlich unbegrenzt beim Mauterheber und müssen vom EETS-Anbieter ständig auf aktuellem Stand gehalten werden (Software- und Betriebsdaten).
+Spätestens zu Beginn der Phase 1 hat der EETS-Anbieter die in Kapitel 3.3.1.2 vorgegebene Anzahl an Bordgeräten an den Mauterheber zu übergeben, wobei alle von ihm eingesetzten Bordgerätetypen in der aktuellen Konfiguration oder Version berücksichtigt sein müssen. Mindestens 25 dieser Bordgeräte verbleiben auch nach der Durchführung der Gebrauchstauglichkeitsprüfung beim Mauterheber, um bei eventuell notwendigen erneuten Prüfungen (siehe Kapitel 3.5.1.2 und 3.5.1.3) eingesetzt zu werden. Bei neu hinzukommenden Bordgerätetypen ist der EETS-Anbieter verpflichtet, dem Mauterheber entsprechende Exemplare zur Verfügung zu stellen. Die übergebenen Exemplare verbleiben dauerhaft und zeitlich unbegrenzt beim Mauterheber und müssen vom EETS-Anbieter ständig auf aktuellem Stand gehalten werden (Software- und Betriebsdaten). Die Bordgeräte verbleiben in den LKW der Feldtestflotte des nationalen Mautbetreibers verbaut und werden bei Fahrten der LKW mitgeführt. Der EETS-Anbieter soll daher nach Möglichkeit die Anbindung der Schnittstellen an die Testumgebung des Mauterhebungsdienstes und die Fahrspurübermittlung an den Mauterhebungsdienst (Schnittstelle 005) für diese Bordgeräte aufrechterhalten. Die vom Mauterhebungsdienst erzeugten Mautbuchungsnachweise (Schnittstelle 007R) sowie identifizierte Bordgeräte-Auffälligkeiten (Schnittstelle 009) sollten ebenfalls vom EETS-Anbieter entgegengenommen werden. Durch das Aufrechterhalten der Anbindung und des Datenflusses kann sichergestellt werden, dass erneute Prüfungen (siehe Kapitel 3.5.1.2 und 3.5.1.3) zügig aufgenommen und durchgeführt werden können. Für den Betrieb der Anbindung und der Datenflüsse außerhalb von Prüfungsphasen gelten keine gesonderten Service Level Agreements. Im Vorfeld einer länger andauernden Nichtverfügbarkeit von Schnittstellen oder sonstiger Einschränkungen ist der jeweilige Schnittstellenpartner zu informieren. Wenn für die Durchführung erneuter Prüfungen gemäß Kapitel 3.5.1.2 und 3.5.1.3 eine bestimmte Art und Qualität (z. B. speziell konfigurierte Bordgeräte) oder Verfügbarkeit von Testdaten benötigt wird, wird der Mauterheber dies dem EETS-Anbieter spätestens vier Wochen vor der Durchführung der Prüfungen ankündigen sowie zeitlich und inhaltlich mit dem EETS-Anbieter abstimmen.
 
 Der EETS-Anbieter hat spätestens zu Beginn des ersten Prüfblocks eine detaillierte Dokumentation der von ihm eingesetzten Bordgeräte zur Verfügung zu stellen. **Diese Dokumentation ist bei jeglichen Änderungen der Bordgeräte während und nach Abschluss der Gebrauchstauglichkeitsprüfung zu aktualisieren.**              Alle Änderungen sind detailliert zu dokumentieren, insbesondere ist jede Änderung hinsichtlich der möglichen Auswirkungen auf die Gebrauchstauglichkeit und Interoperabilität mit dem EETS-Teilsystem des Mauterhebers zu bewerten.
 
@@ -1732,7 +1750,7 @@ Tabelle 7: Liste der Prüfszenarien für Phase 3 – Pilotbetrieb
 
     *   Bearbeiter
 
-    *   Bearbeitung / Änderung
+    *   Bearbeitung/Änderung
 
 
 *    *   0.01
@@ -1748,7 +1766,7 @@ Tabelle 7: Liste der Prüfszenarien für Phase 3 – Pilotbetrieb
 
     *   17.07.2012
 
-    *   RTDE
+    *   RTDE, BAG
 
     *   Fertigstellung
 
@@ -1757,7 +1775,7 @@ Tabelle 7: Liste der Prüfszenarien für Phase 3 – Pilotbetrieb
 
     *   13.05.2013
 
-    *   RTDE
+    *   RTDE, BAG
 
     *   Komplettüberarbeitung zur Anpassung an veränderte Rahmenbedingungen
 
@@ -1777,7 +1795,8 @@ Tabelle 7: Liste der Prüfszenarien für Phase 3 – Pilotbetrieb
 
     *   BAG, RT
 
-    *   Grundlegende Überarbeitung: Anpassung an aktuelle Schnittstellenversionen und Umstellung der Prüfumgebung beim BAG.
+    *   Grundlegende Überarbeitung:
+        Anpassung an aktuelle Schnittstellenversionen und Umstellung der Prüfumgebung beim BAG.
 
 
 *    *   1.1
@@ -1803,7 +1822,8 @@ Tabelle 7: Liste der Prüfszenarien für Phase 3 – Pilotbetrieb
 
     *   BAG
 
-    *   Grundlegende Überarbeitung: Redaktionelle Änderungen, Mauterhebungsdienst
+    *   Grundlegende Überarbeitung:
+        Redaktionelle Änderungen, Mauterhebungsdienst
 
 
 *    *
@@ -1820,14 +1840,15 @@ Tabelle 7: Liste der Prüfszenarien für Phase 3 – Pilotbetrieb
 
     *   BAG, RT
 
-    *   Grundlegende Überarbeitung: Redaktionelle Änderungen, Anpassungen an Mauterhebungsdienst
+    *   Grundlegende Überarbeitung:
+        Redaktionelle Änderungen, Anpassungen an Mauterhebungsdienst
 
 
 *    *   1.91
 
     *   30.10.2020
 
-    *   RT
+    *   RT, BAG
 
     *   Einarbeitung Reviewkommentare TC
 
@@ -1836,7 +1857,7 @@ Tabelle 7: Liste der Prüfszenarien für Phase 3 – Pilotbetrieb
 
     *   04.12.2020
 
-    *   RT
+    *   RT, BAG
 
     *   Überarbeitung und QS nach Review Referat 42
 
@@ -1845,7 +1866,7 @@ Tabelle 7: Liste der Prüfszenarien für Phase 3 – Pilotbetrieb
 
     *   04.12.2020
 
-    *   RT
+    *   RT, BAG
 
     *   Überarbeitung und QS nach Review Referat 42
 
@@ -1854,27 +1875,46 @@ Tabelle 7: Liste der Prüfszenarien für Phase 3 – Pilotbetrieb
 
     *   07.05.2021
 
-    *   RT
+    *   RT, BAG
 
-    *   Überarbeitung: Aufrechterhaltung Gebrauchstauglichkeit, Vertriebsmodell, Vorgaben an produktive Bordgeräte in Pilotphase
+    *   Überarbeitung:
+        Aufrechterhaltung Gebrauchstauglichkeit, Vertriebsmodell, Vorgaben an produktive Bordgeräte in Pilotphase
 
 
 *    *   1.97
 
     *   15.06.2021
 
-    *   RT
+    *   RT, BAG
 
-    *   Ergänzung Bordgerätestatus Reporting während MED Kompatibilitätstests
+    *   Ergänzung Bordgerätestatus Reporting während MED-Kompatibilitätstests
 
 
 *    *   2.0
 
     *   07.09.2021
 
-    *   RT
+    *   RT, BAG
 
     *   Redaktionelle Überarbeitung und Erstellung Version zur Veröffentlichung
+
+
+*    *   2.1
+
+    *   12.01.2022
+
+    *   RT, BAG
+
+    *   Konkretisierung in Kapitel 5.2 (Zwischenversion)
+
+
+*    *   2.2
+
+    *   01.03.2024
+
+    *   RT, BALM
+
+    *   Überarbeitung entsprechend den Änderungen im BFStrMG; Ergänzung Vorgaben Pilotbetrieb für Bordgeräte mit Smartphone-Bedienung in Kapitel 6.2
 
 
 
@@ -2599,7 +2639,7 @@ In der nachfolgenden Tabelle sind die Schwerpunkte aufgeführt, die bei der Doku
     *   Nicht-mautpflichtige Befahrungen
 
     *   Beschreibung der Geschäftsprozesse der Fahrspurerhebung und Mautbefreiung.
-        Prüfung des Verfahrens zur Unterscheidung von mautpflichtigen und nichtmautpflichtigen Fahrzeugen, auch unter Berücksichtigung der Behandlung von Ausnahmen von der regulären Gebührenpflicht und der sich daraus ergebenden Folge, keine Fahrspurdaten über die Schnittstelle 005 an den Mauterheber zu übermitteln (z.B. Sattelzugmaschinen, deren zulässiges Gesamtgewicht ohne Auflieger weniger als 7,5 t beträgt)
+        Prüfung des Verfahrens zur Unterscheidung von mautpflichtigen und nichtmautpflichtigen Fahrzeugen, auch unter Berücksichtigung der Behandlung von Ausnahmen von der regulären Gebührenpflicht und der sich daraus ergebenden Folge, keine Fahrspurdaten über die Schnittstelle 005 an den Mauterheber zu übermitteln
 
 
 *    *   32
@@ -3204,6 +3244,8 @@ Die Probebetriebsumgebung unterstützt alle für diese Prüfphase relevanten Ver
 
 Der EETS-Anbieter stellt dazu sein wirkbetriebsnahes Erprobungssystem oder alternativ sein Wirkbetriebssystem zur Verfügung, welches über die technischen Schnittstellen an das wirkbetriebsnahe Erprobungssystem des Mauterhebers angebunden wird. Zu diesem Zweck werden zwischen EETS-Anbieter und Mauterheber sowie dem nationalen Mautbetreiber die notwendigen Systemzugangsschlüssel und weitere notwendige und sicherheitsrelevante Informationen ausgetauscht. Nach erfolgter Anbindung der Systeme wird die Funktionsfähigkeit der Probebetriebsumgebung verifiziert, erst dann können die Prüfungen beginnen.
 
+Bordgeräte des EETS-Anbieters, die in den Kompatibilitätstests der Phase 1 eingesetzt wurden, sind im Vorfeld der Prüfaktivitäten des Probebetriebs zu deaktivieren.
+
 Die Durchführung der Prüffälle des Probebetriebs auf Grundlage der vom Mauterheber bereitgestellten Prüfspezifikation erfolgt durch den EETS-Anbieter. Die Prüfungen werden unter anderem durch Fahrten auf ausgewählten Referenzstrecken durchgeführt, die sowohl Teile des mautpflichtigen und des nicht-mautpflichtigen Streckennetzes enthalten.
 
 Die Referenzstrecken sind in den entsprechenden Prüffällen des Prüfszenarios P2-001 festgelegt und in der Prüfspezifikation dokumentiert, welche den Prüfkatalog „Probebetrieb“ Anlage [4] konkretisiert.
@@ -3260,7 +3302,7 @@ Um einen Überblick über die Inhalte der Prüfphase zu geben, werden in den fol
 
 *    *   **Durchführung**
 
-    *   Es werden Befahrungen mit einer Testflotte im realen Streckennetz durchgeführt. Die Befahrungen umfassen Fahrten auf vorgegebenen Referenzstrecken sowie Fahrmanöver, die verschiedene typische Konstellationen des Streckennetzes und der mautpflichtigen Fahrzeuge abbilden (z.B. Änderung Deklarationsparameter, Fahrzeuge mit zulässigem Gesamtgewicht unterhalb der Mautpflichtgrenze). Der EETS-Anbieter übermittelt die Fahrspuren an den Mauterhebungsdienst des nationalen Mautbetreibers. Ausgehend von den vom EETS-Anbieter an den nationalen Mautbetreiber übermittelten Fahrspuren findet bei diesem die Erstellung von Mautbuchungsnachweisen statt.
+    *   Es werden Befahrungen mit einer Testflotte im realen Streckennetz durchgeführt. Die Befahrungen umfassen Fahrten auf vorgegebenen Referenzstrecken sowie Fahrmanöver, die verschiedene typische Konstellationen des Streckennetzes und der mautpflichtigen Fahrzeuge abbilden (z.B. Änderung Deklarationsparameter). Der EETS-Anbieter übermittelt die Fahrspuren an den Mauterhebungsdienst des nationalen Mautbetreibers. Ausgehend von den vom EETS-Anbieter an den nationalen Mautbetreiber übermittelten Fahrspuren findet bei diesem die Erstellung von Mautbuchungsnachweisen statt.
         Die Mautbuchungsnachweise werden vom nationalen Mautbetreiber zurück an den EETS-Anbieter übermittelt. Weiterhin werden abschnittsbezogene Erhebungsdaten und Mautbuchungsnachweise vom nationalen Mautbetreiber an den Mauterheber gesendet.
 
 
@@ -3422,16 +3464,16 @@ Dabei gelten insbesondere die folgenden Randbedingungen des Wirkbetriebs:
 
 *Vorgaben für die Nutzerreferenzgruppe:*
 
-1.[^bjne60862001bjne003403123_01_BJNR608620018BJNE003404123]
+1.[^bjne60862001bjne003403123_01_BJNR608620018BJNE003405123]
   Anzahl der aktiven Fahrzeuge
-[^bjne60862001bjne003403123_02_BJNR608620018BJNE003404123]
+[^bjne60862001bjne003403123_02_BJNR608620018BJNE003405123]
     : mindestens 100 (im Durchschnitt über die Dauer des Pilotbetriebs)
 
 
 2.  Fahrzeuge auf der Nutzerliste: maximal 2000 Fahrzeuge
 
 
-3.[^bjne60862001bjne003403123_03_BJNR608620018BJNE003404123]
+3.[^bjne60862001bjne003403123_03_BJNR608620018BJNE003405123]
   Verteilung der Bordgerätetypen: minimal 15 Fahrzeuge pro Gerätetyp
 
 
@@ -3453,6 +3495,9 @@ Vorgaben in Bezug auf die zu erreichenden Mengen:
 
 
 3.  Die Zeitdauer des Pilotbetriebs beträgt mindestens drei Monate.
+
+
+4.  Für den Fall, dass Bordgeräte eingesetzt werden, die auch über eine Smartphone-Applikation gesteuert werden können, müssen mindestens 500 Bordgeräte oder die Hälfte der auf der Nutzerliste aufgeführten Bordgeräte zumindest einmal im Pilotzeitraum über die Smartphone-Applikation bedient worden sein.
 
 
 
@@ -3571,7 +3616,8 @@ In den folgenden Abschnitten werden die einzelnen Prüfszenarien beschrieben.
         Die Gesamtbewertung erfolgt abschließend durch den Mauterheber. Dabei umfasst die Prüfung mindestens, dass die vom EETS-Anbieter vorgelegten Prüfergebnisse hinsichtlich der Prüfkriterien abgeglichen, bewertet sowie dokumentiert werden.
         Einhaltung der folgenden Vorgaben für das Prüfszenario:
 
-        1.  Es sind alle Gewichts- und Achsklassen sowie mindestens zwei verschiedene Schadstoffklassen abzudecken.
+        1.  Es sind alle Gewichts- und Achsklassen sowie mindestens zwei verschiedene Schadstoffklassen und zwei verschiedene CO
+            2                           -Emissionsklassen abzudecken.
 
 
         2.  Jedes Fahrzeug darf nur ein Bordgerät des EETS-Anbieters enthalten.
@@ -3606,7 +3652,7 @@ In den folgenden Abschnitten werden die einzelnen Prüfszenarien beschrieben.
             9.3. Nutzerlistenquote
 
 
-            9.4. Quote für abschnittsbezogene Erhebungsdaten
+            9.4. Fahrspurquote
 
 
 
@@ -3616,7 +3662,7 @@ In den folgenden Abschnitten werden die einzelnen Prüfszenarien beschrieben.
 
 
 
-**P3-002 – korrekte Abrechnung und Auskehr**
+**6.3.2 P3-002 – korrekte Abrechnung und Auskehr**
 
 
 *    *   **Ziel**
@@ -4086,21 +4132,23 @@ dieses vertreten durch das
 
 ## **Prüfkatalog „Schnittstellenprüfung“**
 
+### **Dokumentenhistorie**
 
-*    *   **Version**
 
-    *   **Datum**
+*    *   Version
 
-    *   **Bearbeiter**
+    *   Datum
 
-    *   **Bearbeitung / Änderung**
+    *   Bearbeiter
+
+    *   Bearbeitung/Änderung
 
 
 *    *   0.1
 
     *   17.09.2020
 
-    *   RT
+    *   RT, BAG
 
     *   Erstellung erster unvollständiger Entwurf
 
@@ -4109,7 +4157,7 @@ dieses vertreten durch das
 
     *   04.12.2020
 
-    *   RT
+    *   RT, BAG
 
     *   Überarbeitung nach Review Prüfspezifikation SSP, QS und Finalisierung
 
@@ -4118,9 +4166,18 @@ dieses vertreten durch das
 
     *   07.09.2021
 
-    *   RT
+    *   RT, BAG
 
     *   Redaktionelle Überarbeitung und Ergänzung fehlende Beschreibung bei P1-SSP-006.1
+
+
+*    *   1.2
+
+    *   01.03.2024
+
+    *   RT, BALM
+
+    *   Überarbeitung entsprechend der Änderungen im BFStrMG
 
 
 
@@ -4488,23 +4545,23 @@ Bundesministerium für Digitales und Verkehr (BMDV)
 
 ## **Prüfkatalog „DSRC-Kompatibilitätstests“**
 
-**Dokumentenhistorie**
+### **Dokumentenhistorie**
 
 
-*    *   **Version**
+*    *   Version
 
-    *   **Datum**
+    *   Datum
 
-    *   **Bearbeiter**
+    *   Bearbeiter
 
-    *   **Bearbeitung / Änderung**
+    *   Bearbeitung/Änderung
 
 
 *    *   0.1
 
     *   17.09.2020
 
-    *   RT
+    *   RT, BAG
 
     *   Erstellung erster unvollständiger Entwurf
 
@@ -4513,7 +4570,7 @@ Bundesministerium für Digitales und Verkehr (BMDV)
 
     *   30.10.2020
 
-    *   RT
+    *   RT, BAG
 
     *   Einarbeitung Review TC
 
@@ -4522,7 +4579,7 @@ Bundesministerium für Digitales und Verkehr (BMDV)
 
     *   04.12.2020
 
-    *   RT
+    *   RT, BAG
 
     *   QS und Finalisierung
 
@@ -4531,9 +4588,20 @@ Bundesministerium für Digitales und Verkehr (BMDV)
 
     *   07.07.2021
 
-    *   RT
+    *   RT, BAG
 
     *   Ergänzung Prüffälle für Version 3.0 der SST 301
+
+
+*    *   2.1
+
+    *   01.03.2024
+
+    *   RT, BALM
+
+    *   Wegfall der Testfälle für SST 301 v2.1
+        Ergänzung betrieblicher Testfälle für SST 301 v3.1
+        Überarbeitung entsprechend der Änderungen des BFStrMG
 
 
 
@@ -4545,1930 +4613,7 @@ Die DSRC-Kompatibilitätstests umfassen dabei sowohl funktionale als auch betrie
 
 Die in diesem Prüfkatalog aufgeführten Prüffalle werden durch die Prüfspezifikation „DSRC-Kompatibilitätstests“ detailliert und konkretisiert.
 
-Die Prüffälle werden unterschieden in Bezug auf die Version der Schnittstellenspezifikation SST 301 auf die sie sich beziehen.
-
-**2 Prüffälle für SST301 Version 2.2**
-
-**2.1 P1-KTD-001: Betriebliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation**
-
-
-*    *   **Name / ID**
-
-    *   **Beschreibung**
-
-    *   **Ziel**
-
-
-*    *   DSRC\_A0BA\_BI01\_0010
-
-    *   Die Bake sendet BSTs für AIDs 1, 20 und 21 mit einem profile, das von der OBU nicht unterstützt wird. Die OBU soll nicht antworten. Das wird wiederholt mit einem weiteren von der OBU nicht unterstützten profile wiederholt.
-
-    *
-
-*    *   DSRC\_A0BA\_BI02\_0010
-
-    *   Die Bake sendet BSTs für eine von der OBU nicht unterstütze Anwendung in der mandApplicationList und leerer nonmandApplicationList. Die OBU soll nicht antworten. Das wird wiederholt mit einer weiteren von der OBU nicht unterstützten Anwendung in der mandApplicationList und der vorigen Anwendung in der nonmandApplicationList.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul applicationIds korrekt handhabt.
-
-
-*    *   DSRC\_A0BA\_BI03\_0011
-
-    *   Die Bake sendet BSTs für eine von der OBU nicht unterstütze Anwendung mit EID in der mandApplicationList und AID=20 in der nonmandApplicationList. Die OBU soll nicht antworten.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul applicationIds korrekt handhabt.
-
-
-*    *   DSRC\_A0BA\_BV01\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten soll. Dann schickt sie eine BST, die die OBU nicht beantworten soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die Initialisierung korrekt durchführt.
-
-
-*    *   DSRC\_A0BA\_BV02\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten soll, und zwei RELEASEs. Dann schickt sie ein weiteres ECHO, das die OBU nicht
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die Initialisierung korrekt durchführt.
-
-
-*    *   DSRC\_A0BA\_BV02\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten soll, und zwei RELEASEs. Dann schickt sie ein weiteres ECHO, das die OBU nicht
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die Initialisierung korrekt durchführt.
-
-
-*    *   DSRC\_A0BA\_BV03\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten soll. Der ganze Vorgang wird wiederholt, wobei erst die manufacturerID und dann die individualId der BST verändert wird.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die Initialisierung korrekt durchführt.
-
-
-*    *   DSRC\_A0BA\_BV04\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten soll. Der ganze Vorgang wird wiederholt, wobei die beacon time der BST um 256 Sekunden erhöht wird.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die Initialisierung korrekt durchführt.
-
-
-
-
-*    *   DSRC\_A0BA\_BV09\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 mit profile=0 und leerer profileList durch. In der VST soll der Wert von Profile auf 0 gesetzt sein. Der Vorgang wird wiederholt mit einer BST mit neuer BeaconID, profile=0 und profileList=1,U, wobei in der VST profile wieder den Wert 0 haben soll. Der Vorgang wird wiederholt mit einer BST mit neuer BeaconID, profile=1 und leerer profileList, wobei in der VST profile wieder den Wert 1 haben soll. Der Vorgang wird wiederholt mit einer BST mit neuer BeaconID, profile=1 und profileList=0,U, wobei in der VST profile wieder den Wert 1 haben soll. U hat den Wert eines Profils, das die OBU nicht unterstützt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das Profil korrekt handhabt.
-
-
-*    *   DSRC\_A0BA\_BV10\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Die VST wird auf ein korrektes Format hin überprüft.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die BST mit einer korrekten VST beantwortet.
-
-
-*    *   DSRC\_A0DA\_BI01\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie jeweils ein SET.rq für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55, 60, 62 und 63, das jeweils mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET dazu aufgefordert wird.
-
-
-*    *   DSRC\_A0DA\_BI02\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein SET.rq für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55, 60, 62 und 63, das mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET dazu aufgefordert wird.
-
-
-*    *   DSRC\_A0DA\_BI03\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein SET.rq für Attribute 0, 24 und 32, das mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET dazu aufgefordert wird.
-
-
-*    *   DSRC\_A0DA\_BI04\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie jeweils ein SET.rq für Attribute 0, 24 und 32, das jeweils mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET dazu aufgefordert wird.
-
-
-*    *   DSRC\_A0DA\_BI05\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein SET.rq für Attribute 49, 50, 51, 52, 53, 61 und 64, das mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET dazu aufgefordert wird.
-
-
-*    *   DSRC\_A0DA\_BI06\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie jeweils ein SET.rq für Attribute 49, 50, 51, 52, 53, 61 und 64, das jeweils mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET dazu aufgefordert wird.
-
-
-*    *   DSRC\_A0DA\_BI07\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET.rq mit ungültigen accessCredentials für Attribute 24 und 32, das mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET dazu aufgefordert wird.
-
-
-
-
-*    *   DSRC\_A0DA\_BI08\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET.rq mit ungültigen accessCredentials für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55, 60, 62 und 63, das mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET dazu aufgefordert wird.
-
-
-*    *   DSRC\_A0DA\_BI09\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET.rq mit ungültigen accessCredentials für Attribute 49, 50, 51, 52, 53, 61 und 64, das mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET dazu aufgefordert wird.
-
-
-*    *   DSRC\_A0DA\_BI10\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET\_STAMPED.rq mit ungültigen accessCredentials für Attribute 24 und 32, das mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET\_STAMPED dazu aufgefordert wird.
-
-
-*    *   DSRC\_A0DA\_BI11\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET\_STAMPED.rq mit ungültigen accessCredentials für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55, 60, 62 und 63, das mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET\_STAMPED dazu aufgefordert wird.
-
-
-*    *   DSRC\_A0DA\_BI12\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET\_STAMPED.rq mit ungültigen accessCredentials für Attribute 49, 50, 51, 52, 53, 61 und 64, das mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET\_STAMPED dazu aufgefordert wird.
-
-
-*    *   DSRC\_A0DA\_BV01\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET.rq für Attribute 24 und 32, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0DA\_BV02\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET.rq für Attribute 24, das ordnungsgemäß beantwortet werden soll. Dann sendet sie ein GET.rq für Attribute 32, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0DA\_BV03\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET.rq für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55, 60, 62 und 63, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0DA\_BV04\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie jeweils ein GET.rq für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55, 60, 62 und 63, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0DA\_BV05\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET.rq für Attribute 49, 50, 51, 52, 53, 61 und 64, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-Befehl korrekt handhabt.
-
-
-
-
-*    *   DSRC\_A0DA\_BV06\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie jeweils ein GET.rq für Attribute 49, 50, 51, 52, 53, 61 und 64, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0DA\_BV07\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET\_STAMPED.rq für Attribute 24 und 32, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0DA\_BV09\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET\_STAMPED.rq für Attribute 49, 50, 51, 52, 53, 61 und 64, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0DA\_BV10\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET\_STAMPED.rq für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55, 60, 62 und 63, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0FU\_BI02\_0010
-
-    *   Die Bake führt vorab eine reguläre Initialisierungsphase durch, um die Bereitschaft der OBU zur Kommunikation zu überprüfen. Anschließend sendet sie je eine BST mit PDU-Nummern 0 und 1, die von der OBU nicht beantwortet werden sollen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Nummern korrekt erkennt.
-
-
-
-
-*    *   DSRC\_A0FU\_BI03\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Dann sendet sie je eine PDU mit mode=1 und flow control=7 und allen ungültigen Werten des Fragmentzählers, die von der OBU nicht beantwortet werden sollen. Abschließend sendet sie eine PDU mit mode=1 und flow control=7 und dem gültigen Wert des Fragmentzählers (0), die von der OBU beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Fragmente korrekt erkennt.
-
-
-*    *   DSRC\_A0FU\_BI04\_0010
-
-    *   Die Bake sendet je eine BST mit allen ungültigen Werten des Fragmentzählers, die von der OBU nicht beantwortet werden sollen. Abschließend führt sie eine reguläre Initialisierung durch, um zu überprüfen, dass die OBU noch korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Fragmente korrekt erkennt.
-
-
-*    *   DSRC\_A0FU\_BI06\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie "chained" PDUs in einem Rahmen, von denen die erste einen Fehler erzeugen und die zweite mit "chaining error" beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Nummern korrekt erkennt.
-
-
-*    *   DSRC\_A0FU\_BV01\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET.rq für ein geeignetes Attribut, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0FU\_BV08\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein ACTION.rq mit mode=1 und FlowControl=7 (z.B. ECHO), das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0FU\_BV09\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein SET\_MMI.rq mit mode=0 und FlowControl=4. Der Tester überprüft, ob die OBU das SET\_MMI ausführt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-Befehl korrekt handhabt.
-
-
-
-
-*    *   DSRC\_A0FU\_BV10\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein SET\_MMI.rq mit mode=0 und FlowControl=1. Der Tester überprüft, ob die OBU das SET\_MMI ausführt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0FU\_BV11\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein SET\_MM.rq mit mode=0 und FlowControl=1 an die Broadcast-LID. Der Tester überprüft, ob die OBU das SET\_MMI ausführt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0FU\_BV12\_0010
-
-    *   Die Bake sendet ein SET\_MMI.rq mit mode=0 und FlowControl=1 an die Broadcast-LID. Der Tester überprüft, ob die OBU das SET\_MMI ausführt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0FU\_BV13\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie je ein ECHO.rq mit PDU number 2 bis 31, das jeweils ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Fragmente korrekt erkennt.
-
-
-
-
-*    *   DSRC\_A0FU\_BV14\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch, wobei die OBU Anwendungen für zwei ElementIDs != 0 (EID1, EID2) anmelden soll. Dann sendet sie ECHO.rq mit jeweils neuen Daten für EID1, EID2, EID1 und EID2, die jeweils ordnungsgemäß beantwortet werden sollen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in einer Transaktion PDUs für mehrere Elemente empfangen kann.
-
-
-*    *   DSRC\_A0FU\_BV16\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie "concatenated" (nicht "chained") PDUs in einem Rahmen, die jeweils ordnungsgemäß in einem Rahmen beantwortet werden sollen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Fragmente korrekt erkennt.
-
-
-*    *   DSRC\_A0FU\_BV17\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET.rq für Attribut 32, das ordnungsgemäß beantwortet werden soll. Dann sendet sie jeweils ein GET.rq mit falschen AccessCredentials, AttributeIdList mit nicht existierendem Attribut 31 und falscher EID, die jeweils mit Fehlermeldung beantwortet werden sollen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0FU\_BV19\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET\_STAMPED.rq für Attribut 32, das ordnungsgemäß beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq mit falschen AccessCredentials, AttributeIdList mit nicht existierendem Attribut 31, falscher EID und ungültigem Wert 11 und 121 für den keyRef-Parameter, die jeweils mit Fehlermeldung beantwortet werden sollen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0FU\_BV20\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein SET\_MMI.rq mit mode=0 und flowControl=1, dessen Ausführung der Tester bestätigen soll. Dann sendet sie ein SET\_MMI.rq mit mode=0 und flowControl=4, dessen Ausführung der Tester bestätigen soll und das von der OBU korrekt beantwortet werden soll. Zuletzt sendet sie ein SET\_MMI.rq mit ungültigem ActionParameter 129 (0x81), das mit Fehlermeldung beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den SET\_MMI-Befehl korrekt handhabt.
-
-
-
-
-*    *   DSRC\_A0FU\_BV21\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein ECHO.rq mit mode=0. Dann sendet sie ein ECHO.rq mit mode=1 und flowControl=7, das von der OBU korrekt beantwortet werden soll. Zuletzt sendet sie ein ECHO.rq mit ungültigem ActionParameter (hex. 11 01 20 04 12 34 56 78 70), das mit Fehlermeldung beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ECHO-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0SE\_BV01\_0010
-
-    *   Für diesen Testfall wird der keyRef-Wert 1 benutzt. Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET\_STAMPED.rq für Attribut 32, das regulär beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen accesssCredentials, für das ungültige Attribut 31, für eine ungültige EID und mit ungültigem keyRef 11 und 121, die jeweils mit Fehlercode beantwortet werden sollen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0SE\_BV02\_0010
-
-    *   Für diesen Testfall wird der keyRef-Wert 2 benutzt. Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET\_STAMPED.rq für Attribut 32, das regulär beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen accesssCredentials, für das ungültige Attribut 31, für eine ungültige EID und mit ungültigem keyRef 11 und 121, die jeweils mit Fehlercode beantwortet werden sollen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0SE\_BV03\_0010
-
-    *   Für diesen Testfall wird der keyRef-Wert 3 benutzt. Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET\_STAMPED.rq für Attribut 32, das regulär beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen accesssCredentials, für das ungültige Attribut 31, für eine ungültige EID und mit ungültigem keyRef 11 und 121, die jeweils mit Fehlercode beantwortet werden sollen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0SE\_BV04\_0010
-
-    *   Für diesen Testfall wird der keyRef-Wert 4 benutzt. Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET\_STAMPED.rq für Attribut 32, das regulär beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen accesssCredentials, für das ungültige Attribut 31, für eine ungültige EID und mit ungültigem keyRef 11 und 121, die jeweils mit Fehlercode beantwortet werden sollen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0SE\_BV05\_0010
-
-    *   Für diesen Testfall wird der keyRef-Wert 5 benutzt. Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET\_STAMPED.rq für Attribut 32, das regulär beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen accesssCredentials, für das ungültige Attribut 31, für eine ungültige EID und mit ungültigem keyRef 11 und 121, die jeweils mit Fehlercode beantwortet werden sollen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-
-
-*    *   DSRC\_A0SE\_BV06\_0010
-
-    *   Für diesen Testfall wird der keyRef-Wert 6 benutzt. Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET\_STAMPED.rq für Attribut 32, das regulär beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen accesssCredentials, für das ungültige Attribut 31, für eine ungültige EID und mit ungültigem keyRef 11 und 121, die jeweils mit Fehlercode beantwortet werden sollen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0SE\_BV07\_0010
-
-    *   Für diesen Testfall wird der keyRef-Wert 7 benutzt. Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET\_STAMPED.rq für Attribut 32, das regulär beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen accesssCredentials, für das ungültige Attribut 31, für eine ungültige EID und mit ungültigem keyRef 11 und 121, die jeweils mit Fehlercode beantwortet werden sollen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A0SE\_BV08\_0010
-
-    *   Für diesen Testfall wird der keyRef-Wert 8 benutzt. Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET\_STAMPED.rq für Attribut 32, das regulär beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen accesssCredentials, für das ungültige Attribut 31, für eine ungültige EID und mit ungültigem keyRef 11 und 121, die jeweils mit Fehlercode beantwortet werden sollen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1BA\_BI01\_0010
-
-    *   Die Bake sendet eine BST mit einem profile 13 (hex D), das von der OBU/das DSRC-Modul nicht unterstützt wird. Die OBU/das DSRC-Modul soll nicht antworten. Das wird wiederholt mit einem weiteren von der OBU nicht unterstützten profile 17 (hex 11) wiederholt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das Profil korrekt handhabt.
-
-
-*    *   DSRC\_A1BA\_BI02\_0010
-
-    *   Die Bake sendet BSTs für die von der OBU nicht unterstütze Anwendung 19 (hex 13) in der mandApplicationList und leerer nonmandApplicationList. Die OBU soll nicht antworten. Das wird wiederholt mit einer weiteren von der OBU nicht unterstützten Anwendung 31 (hex 1F) in der mandApplicationList und 19 in der nonmandApplicationList.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul applicationIds korrekt handhabt.
-
-
-*    *   DSRC\_A1BA\_BI03\_0011
-
-    *   Die Bake sendet BSTs für eine von der OBU/das DSRC-Modul nicht unterstütze Anwendung 19 (hex 13) mit EID in der mandApplicationList und AID=20 in der nonmandApplicationList. Die OBU/das DSRC-modul soll nicht antworten.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul applicationIds korrekt handhabt.
-
-
-*    *   DSRC\_A1BA\_BV01\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein ECHO.rq, das die OBU/das DSRC-Modul beantworten soll. Dann wiederholt sie ihre BST (evtl. mit neuer BeaconTime, wenn diese sich mittlerweile verändert hat), die die OBU nicht beantworten soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die Initialisierung korrekt durchführt.
-
-
-*    *   DSRC\_A1BA\_BV02\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten soll, und zwei RELEASEs. Dann schickt sie ein weiteres ECHO, das die OBU nicht beantworten soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die Initialisierung korrekt durchführt.
-
-
-
-
-*    *   DSRC\_A1BA\_BV03\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten soll. Der ganze Vorgang wird einmal wiederholt mit um 1 erhöhter manufacturerID in der BST und dann nochmals wiederholt mit der vorigen, erhöhten manufacturerID und um 1 erhöhter individualId der BST.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die Initialisierung korrekt durchführt.
-
-
-*    *   DSRC\_A1BA\_BV04\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten soll. Der ganze Vorgang wird wiederholt, wobei die beacon time der BST um 256 Sekunden erhöht wird.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die Initialisierung korrekt durchführt.
-
-
-*    *   DSRC\_A1BA\_BV09\_0010
-
-    *   Die Bake sendet eine BST mit einem profile 13 (hex D), das von der OBU nicht unterstützt wird. Die OBU soll nicht antworten. Das wird wiederholt mit einem weiteren von der OBU nicht unterstützten profile 17 (hex 11) wiederholt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das Profil korrekt handhabt.
-
-
-*    *   DSRC\_A1BA\_BV10\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Die VST wird auf ein korrektes Format hin überprüft.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die BST mit einer korrekten VST beantwortet.
-
-
-*    *   DSRC\_A1DA\_BI01\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie jeweils ein SET.rq für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55, 60, 62 und 63, das jeweils mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET dazu aufgefordert wird.
-
-
-*    *   DSRC\_A1DA\_BI02\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein SET.rq für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55, 60, 62 und 63, das mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET dazu aufgefordert wird.
-
-
-*    *   DSRC\_A1DA\_BI03\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein SET.rq für Attribute 0, 24 und 32, das mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET dazu aufgefordert wird.
-
-
-*    *   DSRC\_A1DA\_BI04\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie jeweils ein SET.rq für Attribute 0, 24 und 32, das jeweils mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET dazu aufgefordert wird.
-
-
-*    *   DSRC\_A1DA\_BI05\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein SET.rq für Attribute 49, 50, 51, 52, 53, 61 und 64, das mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET dazu aufgefordert wird.
-
-
-*    *   DSRC\_A1DA\_BI06\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie jeweils ein SET.rq für Attribute 49, 50, 51, 52, 53, 61 und 64, das jeweils mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET dazu aufgefordert wird.
-
-
-
-
-*    *   DSRC\_A1DA\_BI07\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET.rq mit ungültigen accessCredentials für Attribute 24 und 32, das mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET dazu aufgefordert wird.
-
-
-*    *   DSRC\_A1DA\_BI08\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET.rq mit ungültigen accessCredentials für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55, 60, 62 und 63, das mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET dazu aufgefordert wird.
-
-
-*    *   DSRC\_A1DA\_BI09\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET.rq mit ungültigen accessCredentials für Attribute 49, 50, 51, 52, 53, 61 und 64, das mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET dazu aufgefordert wird.
-
-
-*    *   DSRC\_A1DA\_BI10\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET\_STAMPED.rq mit ungültigen accessCredentials für Attribute 24 und 32, das mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET\_STAMPED dazu aufgefordert wird.
-
-
-*    *   DSRC\_A1DA\_BI11\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET\_STAMPED.rq mit ungültigen accessCredentials für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55, 60, 62 und 63, das mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET\_STAMPED dazu aufgefordert wird.
-
-
-*    *   DSRC\_A1DA\_BI12\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET\_STAMPED.rq mit ungültigen accessCredentials für Attribute 49, 50, 51, 52, 53, 61 und 64, das mit Fehlercode beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET\_STAMPED dazu aufgefordert wird.
-
-
-*    *   DSRC\_A1DA\_BV01\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET.rq für Attribute 24 und 32, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1DA\_BV02\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET.rq für Attribute 24, das ordnungsgemäß beantwortet werden soll. Dann sendet sie ein GET.rq für Attribute 32, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1DA\_BV03\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET.rq für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55, 60, 62 und 63, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1DA\_BV04\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie jeweils ein GET.rq für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55, 60, 62 und 63, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-Befehl korrekt handhabt.
-
-
-
-
-*    *   DSRC\_A1DA\_BV05\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET.rq für Attribute 49, 50, 51, 52, 53, 61 und 64, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1DA\_BV06\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie jeweils ein GET.rq für Attribute 49, 50, 51, 52, 53, 61 und 64, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1DA\_BV07\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET\_STAMPED.rq für Attribute 24 und 32, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1DA\_BV09\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET\_STAMPED.rq für Attribute 49, 50, 51, 52, 53, 61 und 64, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1DA\_BV10\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch. Anschließend sendet sie ein GET\_STAMPED.rq für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55, 60, 62 und 63, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1FU\_BI02\_0010
-
-    *   Die Bake führt vorab eine reguläre Initialisierungsphase durch, um die Bereitschaft der OBU zur Kommunikation zu überprüfen. Anschließend sendet sie je eine BST mit PDU-Nummern 0 und 1, die von der OBU nicht beantwortet werden sollen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Nummern korrekt erkennt.
-
-
-*    *   DSRC\_A1FU\_BI03\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Dann sendet sie je eine PDU mit mode=1 und flow control=7 und allen ungültigen Werten des Fragmentzählers, die von der OBU nicht beantwortet werden sollen. Abschließend sendet sie eine PDU mit mode=1 und flow control=7 und dem gültigen Wert des Fragmentzählers (0), die von der OBU beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Fragmente korrekt erkennt.
-
-
-*    *   DSRC\_A1FU\_BI04\_0010
-
-    *   Die Bake sendet je eine BST mit allen ungültigen Werten des Fragmentzählers, die von der OBU nicht beantwortet werden sollen. Abschließend führt sie eine reguläre Initialisierung durch, um zu überprüfen, dass die OBU noch korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Fragmente korrekt erkennt.
-
-
-*    *   DSRC\_A1FU\_BI06\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie "chained" PDUs in einem Rahmen, von denen die erste einen Fehler erzeugen und die zweite mit "chaining error" beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Nummern korrekt erkennt.
-
-
-*    *   DSRC\_A1FU\_BV01\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET.rq für ein geeignetes Attribut, das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1FU\_BV08\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein ACTION.rq mit mode=1 und FlowControl=7 (z.B. ECHO), das ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-Befehl korrekt handhabt.
-
-
-
-
-*    *   DSRC\_A1FU\_BV09\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein ACTION.rq mit mode=0 und FlowControl=4 (z.B. SET\_MMI). Der Tester überprüft, ob die OBU das SET\_MMI ausführt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1FU\_BV10\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein ACTION.rq mit mode=0 und FlowControl=1 (z.B. SET\_MMI). Der Tester überprüft, ob die OBU das SET\_MMI ausführt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1FU\_BV11\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein ACTION.rq mit mode=0 und FlowControl=1 (z.B. SET\_MMI) an die Broadcast-LID. Der Tester überprüft, ob die OBU das SET\_MMI ausführt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1FU\_BV12\_0010
-
-    *   Die Bake sendet ein ACTION.rq mit mode=0 und FlowControl=1 (z.B. SET\_MMI) an die Broadcast-LID. Der Tester überprüft, ob die OBU das SET\_MMI ausführt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1FU\_BV13\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie je ein ECHO.rq mit PDU number 2 bis 31, das jeweils ordnungsgemäß beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Fragmente korrekt erkennt.
-
-
-*    *   DSRC\_A1FU\_BV14\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch, wobei die OBU Anwendungen für zwei ElementIDs != 0 (EID1, EID2) anmelden soll. Dann sendet sie ECHO.rq mit jeweils neuen Daten für EID1, EID2, EID1 und EID2, die jeweils ordnungsgemäß beantwortet werden sollen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in einer Transaktion PDUs für mehrere Elemente.
-
-
-*    *   DSRC\_A1FU\_BV16\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie "concatenated" (nicht "chained") PDUs in einem Rahmen, die jeweils ordnungsgemäß in einem Rahmen beantwortet werden sollen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Fragmente korrekt erkennt.
-
-
-*    *   DSRC\_A1FU\_BV17\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET.rq für ein geeignetes Attribut, das ordnungsgemäß beantwortet werden soll. Dann sendet sie jeweils ein GET.rq mit falschen AccessCredentials, AttributeIdList mit nicht existierendem Attribut und falscher EID, die jeweils mit Fehlermeldung beantwortet werden sollen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1FU\_BV19\_0011
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET\_STAMPED.rq für ein geeignetes Attribut, das ordnungsgemäß beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq mit falschen AccessCredentials, AttributeIdList mit nicht existierendem Attribut, falscher EID und ungültigem Wert für den keyRef-Parameter, die jeweils mit Fehlermeldung beantwortet werden sollen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-
-
-*    *   DSRC\_A1FU\_BV20\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein SET\_MMI.rq mit mode=0 und flowControl=1, dessen Ausführung der Tester bestätigen soll. Dann sendet sie ein SET\_MMI.rq mit mode=0 und flowControl=4, dessen Ausführung der Tester bestätigen soll und das von der OBU korrekt beantwortet werden soll. Zuletzt sendet sie ein SET\_MMI.rq mit ungültigem ActionParameter, das mit Fehlermeldung beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den SET\_MMI-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1FU\_BV21\_0010
-
-    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein ECHO.rq mit mode=0. Dann sendet sie ein ECHO.rq mit mode=1 und flowControl=7, das von der OBU korrekt beantwortet werden soll. Zuletzt sendet sie ein ECHO.rq mit ungültigem ActionParameter, das mit Fehlermeldung beantwortet werden soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ECHO-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1SE\_BV01\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET\_STAMPED.rq für ein geeignetes Attribut, das regulär beantwortet werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen accesssCredentials, für ein ungültiges Attribut, für eine ungültige EID und mit ungültigem keyRef, die jeweils mit Fehlercode beantwortet werden sollen. Für diesen Testfall wird der keyRef-Wert 1 benutzt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1SE\_BV02\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET\_STAMPED.rq für ein geeignetes Attribut, das regulär beantwortet werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen accesssCredentials, für ein ungültiges Attribut, für eine ungültige EID und mit ungültigem keyRef, die jeweils mit Fehlercode beantwortet werden sollen. Für diesen Testfall wird der keyRef-Wert 2 benutzt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1SE\_BV03\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET\_STAMPED.rq für ein geeignetes Attribut, das regulär beantwortet werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen accesssCredentials, für ein ungültiges Attribut, für eine ungültige EID und mit ungültigem keyRef, die jeweils mit Fehlercode beantwortet werden sollen. Für diesen Testfall wird der keyRef-Wert 3 benutzt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-
-
-*    *   DSRC\_A1SE\_BV04\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET\_STAMPED.rq für ein geeignetes Attribut, das regulär beantwortet werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen accesssCredentials, für ein ungültiges Attribut, für eine ungültige EID und mit ungültigem keyRef, die jeweils mit Fehlercode beantwortet werden sollen. Für diesen Testfall wird der keyRef-Wert 4 benutzt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1SE\_BV05\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt Die Bake eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET\_STAMPED.rq für ein geeignetes Attribut, das regulär beantwortet werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen accesssCredentials, für ein ungültiges Attribut, für eine ungültige EID und mit ungültigem keyRef, die jeweils mit Fehlercode beantwortet werden sollen. Für diesen Testfall wird der keyRef-Wert 5 benutzt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1SE\_BV06\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET\_STAMPED.rq für ein geeignetes Attribut, das regulär beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen accesssCredentials, für ein ungültiges Attribut, für eine ungültige EID und mit ungültigem keyRef, die jeweils mit Fehlercode beantwortet werden sollen. Für diesen Testfall wird der keyRef-Wert 6 benutzt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1SE\_BV07\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET\_STAMPED.rq für ein geeignetes Attribut, das regulär beantwortet werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen accesssCredentials, für ein ungültiges Attribut, für eine ungültige EID und mit ungültigem keyRef, die jeweils mit Fehlercode beantwortet werden sollen. Für diesen Testfall wird der keyRef-Wert 7 benutzt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-*    *   DSRC\_A1SE\_BV08\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein GET\_STAMPED.rq für ein geeignetes Attribut, das regulär beantwortet werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen accesssCredentials, für ein ungültiges Attribut, für eine ungültige EID und mit ungültigem keyRef, die jeweils mit Fehlercode beantwortet werden sollen. Für diesen Testfall wird der keyRef-Wert 8 benutzt.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET\_STAMPED-Befehl korrekt handhabt.
-
-
-
-
-*    *   DSRC\_LLC\_\_BI01\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake BSTs für AIDs 1, 20 und 21, bei der die beiden Füllbits im LLC-Kontrollfeld auf die ungültigen Werte 00, 01 und 10 gesetzt sind. Die OBU soll nicht antworten. Anschließend wird mit einer normalen BST überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen mit falsch gesetzten Füllbits im LLC-Kontrollfeld erkennt und ignoriert.
-
-
-*    *   DSRC\_LLC\_\_BI02\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Anschließend sendet sie einen ECHO-Befehl, bei dem ein halbes Byte entfernt wird. Die OBU soll nicht reagieren. Anschließend wird mit einem korrekten ECHO-Befehl überprüft, ob die OBU noch korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen mit nicht ganzzahliger Anzahl von Bytes erkennt und ignoriert.
-
-
-*    *   DSRC\_LLC\_\_BI03\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Anschließend sendet sie ECHO-Befehle mit P-Bit=1, aber allen ungültigen Werten der modifier-Bits. Die OBU soll nicht reagieren. Dann sendet sie ECHO-Befehle mit P-Bit=1, aber allen ungültigen Werten der reserved-Bits. Die OBU soll nicht reagieren. Abschließend wird mit einem korrekten ECHO-Befehl überprüft, ob die OBU noch korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen mit ungültigen modifier- und reserved-Bits im LLC-Kontrollfeld erkennt und ignoriert.
-
-
-*    *   DSRC\_LLC\_\_BI04\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Anschließend sendet sie ein ECHO.rq mit der LID 0xFF, das die OBU nicht beantworten soll. Danach sendet sie ECHO.rq an alle Multicast-LIDs, die die OBU ebenfalls nicht beantworten soll. Nach jedem ungültigen Rahmen wird mit einem gültigen ECHO.rq an die OBU überprüft, ob sie noch auf valide ACn-Befehle reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul ACn-Rahmen mit Broadcast- oder Multicast-LID ignoriert.
-
-
-*    *   DSRC\_LLC\_\_BI05\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake BSTs für AIDs 1, 20 und 21, bei der in der Nachricht ein halbes Byte fehlt. Die OBU soll nicht antworten. Anschließend wird mit einer normalen BST überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen mit nicht ganzzahliger Anzahl von Bytes erkennt und ignoriert.
-
-
-*    *   DSRC\_LLC\_\_BI06\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Anschließend sendet sie ein ECHO.rq mit P-Bit im LLC-Kontrollfeld = 1, aber ohne LSDU, der von der OBU ignoriert werden soll. Abschließend wird mit einem gültigen ECHO.rq an die OBU überprüft, ob sie noch auf valide ACn-Befehle reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul ACn-Befehle mit p-Bit=1, aber ohne LSDU ignoriert.
-
-
-*    *   DSRC\_LLC\_\_BI07\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Anschließend sendet sie ein ECHO.rq, das von der OBU beantwortet werden soll. Die Bake wiederholt das ECHO.rq unverändert und erwartet die gleiche Antwort wie vorher. Danach sendet die Bake einen ECHO.rq mit invertiertem n-Bit und anderen ECHO-Daten und erwartet eine korrekte Antwort auf den neuen Befehl.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul doppelt ACn-Befehle korrekt verarbeitet.
-
-
-*    *   DSRC\_LLC\_\_BV01\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Das P-Bit im LLC-Kontrollfeld der VST soll den Wert 0 haben.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul UI-Befehle austauschen kann.
-
-
-*    *   DSRC\_LLC\_\_BV02\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Danach sendet sie ein SET\_MMI.rq als AC0-Befehl; als Antwort wird eine AC1-Antwort mit Final-Bit=0 und status subfield=NR\_OK erwartet. Dann sendet die Bake ein SET\_MMI.rq als AC1-Befehl; als Antwort wird eine AC0-Antwort mit Final-Bit=0 und status subfield=NR\_OK erwartet.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul ACn-Befehle empfangen kann.
-
-
-*    *   DSRC\_LLC\_\_BV03\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Danach sendet sie ein ECHO.rq als AC0-Befehl; als Antwort wird eine AC1-Antwort mit Final-Bit=1 und status subfield=OK\_OK erwartet. Dann sendet die Bake ein ECHO.rq als AC1-Befehl; als Antwort wird eine AC0-Antwort mit Final-Bit=1 und status subfield=OK\_OK erwartet.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul ACn-Befehle austauschen kann.
-
-
-*    *   DSRC\_LLC\_\_BV05\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Dann sendet sie einen ACn-Befehl, der dazu führt, dass die OBU die late response-Prozedur ausführt. Als Antwort wird ein Rahmen mit LLC status subfield=NE\_OK erwartet. Die Bake wiederholt BSTs, bis die angenommene Verarbeitungsdauer der OBU abgelaufen ist, und erwartet dann ein private window request. Die Bake sendet ein private window response und erwartet die Antwort auf den ACn-Befehl in einem UI-Rahmen.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die late response-Prozedur korrekt durchführt.
-
-
-*    *   DSRC\_MAC\_\_BI01\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21, bei der in der Nachricht zwei Bitfehler auftreten. Die OBU soll nicht antworten. Anschließend wird mit einer ungestörten BST überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen mit zweifachem Bitfehler in der Nachricht ignoriert.
-
-
-
-
-*    *   DSRC\_MAC\_\_BI02\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21, bei der in der FCS zwei Bitfehler auftreten. Die OBU soll nicht antworten. Anschließend wird mit einer ungestörten BST überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen mit zweifachem Bitfehler in der FCS ignoriert.
-
-
-*    *   DSRC\_MAC\_\_BI03\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake sendet eine BST für AIDs 1, 20 und 21, bei der in der Nachricht 15 aufeinanderfolgende Bit invertiert werden. Die OBU soll nicht antworten. Anschließend wird mit einer ungestörten BST überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen mit 15 konsekutiven Bitfehlern in der Nachricht ignoriert.
-
-
-*    *   DSRC\_MAC\_\_BI04\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21, bei der das Einfügen der 0-Bits unterbleibt. Die OBU soll nicht antworten. Anschließend wird mit einer ungestörten BST überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen ohne 0-Bit insertion in der LID ignoriert.
-
-
-*    *   DSRC\_MAC\_\_BI05\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21, bei der das end flag durch ein Abort-Byte ersetzt wird. Die OBU soll nicht antworten. Anschließend wird mit einer ungestörten BST überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen mit einem Abort-Byte anstelle der end flag ignoriert.
-
-
-*    *   DSRC\_MAC\_\_BI06\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21, bei der die ProfileList so lang ist, dass die maximal erlaubte Rahmenlänge (128 Bytes incl. Flags und FCS) überschritten wird. Die OBU soll nicht antworten.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul Rahmen erkennt und ignoriert, die länger als die vom Standard erlaubten 128 Byte (incl. Flags und FCS) sind.
-
-
-*    *   DSRC\_MAC\_\_BI07\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Anschließend sendet sie privateWindowRequests, bei der die LID 5 statt der vorgesehenen 4 Byte lang ist und bei der die ersten 4 der 5 Byte der LID der OBU entsprechen. Zuletzt wird überprüft, ob die OBU noch auf valide window allocations reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul eine falsche LID erkennt und ignoriert.
-
-
-*    *   DSRC\_MAC\_\_BI08\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Anschließend sendet sie privateWindowRequests ohne MAC-Kontrollfeld. Zuletzt wird überprüft, ob die OBU noch auf valide window allocations reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen ohne MAC-Kontrollfeld erkennt und ignoriert.
-
-
-*    *   DSRC\_MAC\_\_BI09\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21, bei der das A-Bit im MAC-Kontrollfeld auf 0 gesetzt ist. Die OBU soll nicht antworten. Anschließend wird mit einer normalen BST überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das A-Bit im MAC-Kontrollfeld beachtet.
-
-
-
-
-*    *   DSRC\_MAC\_\_BI10\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21, bei der das D-Bit im MAC-Kontrollfeld auf 1 gesetzt ist. Die OBU soll nicht antworten. Anschließend wird mit einer normalen BST überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in der BST das D-Bit im MAC-Kontrollfeld beachtet.
-
-
-*    *   DSRC\_MAC\_\_BI11\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21 und erwartet ein private window request. Danach sendet sie ein private window allocation, bei dem das D-Bit im MAC-Kontrollfeld auf 1 gesetzt ist. Die OBU soll nicht antworten. Anschließend wird mit einem korrekten private window allocation überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in privaten Rahmen das D-Bit im MAC-Kontrollfeld beachtet.
-
-
-*    *   DSRC\_MAC\_\_BI12\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21, bei der das L-Bit im MAC-Kontrollfeld auf 0 gesetzt ist. Die OBU soll nicht antworten. Anschließend wird mit einer normalen BST überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen mit falsch gesetztem L-Bit im MAC-Kontrollfeld erkennt und ignoriert.
-
-
-*    *   DSRC\_MAC\_\_BI13\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21 und erwartet ein private window request. Danach sendet sie ein private window allocation, bei dem das L-Bit im MAC-Kontrollfeld auf 1 gesetzt ist. Die OBU soll nicht antworten. Anschließend wird mit einem korrekten private window allocation überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen mit falsch gesetztem L-Bit im MAC-Kontrollfeld erkennt und ignoriert.
-
-
-*    *   DSRC\_MAC\_\_BI14\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21 und erwartet ein private window request. Danach sendet sie ein private window allocation, bei dem das C/R-Bit im MAC-Kontrollfeld auf 1 gesetzt ist. Die OBU soll nicht antworten. Anschließend wird mit einem korrekten private window allocation überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen mit falsch gesetztem C/R-Bit im MAC-Kontrollfeld erkennt und ignoriert.
-
-
-*    *   DSRC\_MAC\_\_BI15\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21 und erwartet ein private window request. Danach sendet sie ein private window allocation, bei dem die Füllbits im MAC-Kontrollfeld auf 1 gesetzt sind. Die OBU soll nicht antworten. Anschließend wird mit einem korrekten private window allocation überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen mit falsch gesetzten Füllbits im MAC-Kontrollfeld erkennt und ignoriert.
-
-
-*    *   DSRC\_MAC\_\_BI16\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21, bei der das Radiosignal über 15 zusammenhängende Bit unterdrückt wird. Die OBU soll nicht antworten. Anschließend wird mit einer ungestörten BST überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen mit einer Funkstörung über 15 zusammenhängende Bit ignoriert.
-
-
-*    *   DSRC\_MAC\_\_BI17\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21, bei der das Radiosignal während der start flag unterdrückt wird. Die OBU soll nicht antworten. Anschließend wird mit einer ungestörten BST überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen mit einer Funkstörung während der start flag ignoriert.
-
-
-*    *   DSRC\_MAC\_\_BI18\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21, bei der das Radiosignal während der end flag unterdrückt wird. Die OBU soll nicht antworten. Anschließend wird mit einer ungestörten BST überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen mit einer Funkstörung während der end flag ignoriert.
-
-
-*    *   DSRC\_MAC\_\_BI19\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21 und erwartet ein private window request. Danach sendet sie ein private window allocation mit der LID 0xFF. Die OBU soll nicht antworten. Anschließend wird mit einem korrekten private window allocation überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen mit der Broadcast-LID anstelle der privaten ignoriert.
-
-
-*    *   DSRC\_MAC\_\_BI20\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21 und erwartet ein private window request. Dann sendet sie ein private window allocation mit einer Multicast-LID. Die OBU soll nicht antworten. Anschließend wird mit einem korrekten private window allocation überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen Rahmen mit einer Multicast-LID anstelle der privaten ignoriert.
-
-
-*    *   DSRC\_MAC\_\_BI21\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21 und erwartet ein private window request. Danach sendet sie ein private window allocation, bei dem das A-Bit im MAC-Kontrollfeld auf 0 gesetzt ist. Die OBU soll nicht antworten. Anschließend wird mit einem korrekten private window allocation überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in privaten Rahmen das A-Bit im MAC-Kontrollfeld beachtet.
-
-
-*    *   DSRC\_MAC\_\_BI22\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase für AIDs 1, 20 und FIXME LA durch. Anschließend sendet sie einen ACn-Befehl, wobei das A-Bit des Rahmens auf 0 gesetzt wird. Zuletzt wird mit einem ACn-Befehl mit korrektem A-Bit überprüft, ob die OBU noch korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in privaten Rahmen das A-Bit im MAC-Kontrollfeld beachtet.
-
-
-*    *   DSRC\_MAC\_\_BI23\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21 und erwartet ein private window request. Dann sendet sie ein private window allocation mit gültiger, aber von der LID des private windows request abweichender LID. Die OBU soll nicht antworten. Anschließend wird mit einem korrekten private window allocation überprüft, ob die OBU korrekt reagiert.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in privaten Rahmen die LID beachtet.
-
-
-*    *   DSRC\_MAC\_\_BI24\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21 und erwartet ein private window request. Die Bake ignoriert das window request und wiederholt die BST. Die OBU soll ihr private window request wiederholen
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul private window requests korrekt wiederholt.
-
-
-*    *   DSRC\_MAC\_\_BV01\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21, bei der die ProfileList so lang ist, dass die maximal erlaubte Rahmenlänge (128 Bytes incl. Flags und FCS) erreicht wird. Die OBU soll mit einem private Windows request antworten.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul auch DSRC-Rahmen der durch den Standard festgelegten Maximallänge korrekt verarbeiten kann.
-
-
-*    *   DSRC\_MAC\_\_BV02\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Anschließend sendet sie T1 nach dem Ende der VST ein ECHO.rq. Eine Antwort der OBU wird erwartet
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul auch DSRC-Rahmen verarbeiten kann, die im vom Standard erlaubten zeitlichen Mindestabstand versendet wurden.
-
-
-*    *   DSRC\_MAC\_\_BV03\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21 und erwartet ein private window request. Das wird X male wiederholt und dann ausgewertet, ob die window requests zeitlich im erlaubten Bereich lagen
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul jedes der drei public uplink windows benutzt.
-
-
-*    *   DSRC\_MAC\_\_BV04\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Anschließend sendet sie ein SET\_MMI.rq ohne window allocation und dann unmittelbar im zeitlichen Abstand von T2 eine neue BST. Eine Antwort der OBU wird erwartet.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul auch DSRC-Rahmen verarbeiten kann, die im vom Standard erlaubten zeitlichen Mindestabstand versendet wurden.
-
-
-*    *   DSRC\_MAC\_\_BV05\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Dabei wird die Zeit zwischen dem Ende des End flag des private window allocation und dem ersten Bit der Präambel der VST sowie dem Ende des letzten Bit der End flag der VST gemessen. Beide Werte sollen die Vorgaben aus dem Standard einhalten.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul bei privaten Rahmen das vom Standard vorgegebene Timing einhält.
-
-
-*    *   DSRC\_MAC\_\_BV06\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Die Bake ignoriert die VST und sendet ein private window allocation mit dem gleichen S-Bit wie beim vorigen window alocation. Es wird erwartet, dass die OBU mit einer VST antwortet.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das S-Bit und das L-Bit des MAC-Kontrollfeldes korrekt verarbeitet und Wiederholungen der VST korrekt verarbeiten kann.
-
-
-*    *   DSRC\_MAC\_\_BV07\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt sie Bake eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Anschließend sendet die Bake ein ECHO mit ECHO\_DATA1 und erwartet ein ECHO.rs mit ECHO\_DATA1. Dann sendet die Bake ein ECHO mit ECHO\_DATA2 und dem gleichen Wert des s-Bits wie zuvor und erwartet ein ECHO.rs mit ECHO\_DATA2. Dann sendet die Bake ein private window allocation mit dem gleichen Wert des S-Bit und erwartet ein ECHO.rs mit ECHO\_DATA2.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das S-Bit und das L-Bit des MAC-Kontrollfeldes bei Rahmen mit LPDU korrekt verarbeitet.
-
-
-*    *   DSRC\_MAC\_\_BV08\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST für AIDs 1, 20 und 21 und erwartet ein private window request. Das wird X male wiederholt und dann ausgewertet, ob die private window requests gleichmäßig benutzt wurden
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul jedes der drei public uplink windows benutzt.
-
-
-*    *   DSRC\_MAC\_\_BV09\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake eine reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch, wobei das C/R-Bit des private window allocation auf 1 gesetzt wird. Anschließend sendet die Bake ein private window request mit C/R=0 und gleichem s-Bit wie vorher. Die OBU soll eine VST schicken.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul beide gültigen Werte des C/R-Bit des MAC-Kontrollfeldes eines private window requests korrekt verarbeitet.
-
-
-*    *   DSRC\_SFXX\_2BKN\_0010
-
-    *   Zunächst wird testweise eine Transaktion separat mit jeder der beteiligten Baken ausgelöst. Falls keine Kommunikation mit der OBU erfolgt, wird der Testlauf abgebrochen. Dann werden bei gleichbleibender BeaconId an beiden Baken im Parallelbetrieb CCC-Transaktionen durchgeführt. Es wird erwartet, dass das DSRC Modul beim Empfang einer zyklischen BST die Transaktion zu den RSUs ändert und, das das Modul nach dem Ablauf der 2 Baken-Testphase noch eine Transaktion mit einer einzelnen Bake durchführen kann. Nach Ablauf der Testdauer wird ermittelt, ob die OBUs die Bakenbefehle immer mit der korrekten LID und gemäß des Protokollablaufs beantwortet haben.
-
-    *   Es soll nachgewiesen werden, dass das DSRC-Modul sich in einer worst case-Situation, die aber bei der manuellen Kontrolle gelegentlich auftritt, korrekt verhält.
-
-
-*    *   DSRC\_SFXX\_BLIM\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann sendet die Bake 200 Mal eine BST und registriert, ob die OBU bis zuletzt mit einem private window request antwortet.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul alle empfangenen BSTs richtig auswertet.
-
-
-*    *   DSRC\_SFXX\_D003\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann führt die Bake Transaktionen mit zeitlichen Unterbrechungen und Übertragungswiederholungen durch.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul korrekte Kontrollfeldkombinationen benutzt.
-
-
-*    *   DSRC\_SFXX\_FUL1\_0010
-
-    *   Das Dämpfungsglied wird für den gewünschten Pegelverlauf eingestellt, die Bake führt eine CCC-Transaktion durch und das Log wird auf korrekte LID, Kontrollfelder und Vollständigkeit der Transaktion überprüft. Der Testfall wird als Dauertest über einen einstellbaren Zeitraum wiederholt. Abschließend wird die Transaktionserfolgsrate ausgegeben.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul unter Funkbedingungen, die dem Wirkbetrieb möglichst nahe kommen, ordnungsgemäß Transaktionen durchführen kann.
-
-
-*    *   DSRC\_SFXX\_FUL2\_0010
-
-    *   Das Dämpfungsglied wird für den gewünschten Pegelverlauf eingestellt, die Bake führt eine CCC-Transaktion durch und das Log wird auf korrekte LID, Kontrollfelder und Vollständigkeit der Transaktion überprüft. Der Testfall wird als Dauertest über einen einstellbaren Zeitraum wiederholt. Abschließend wird die Transaktionserfolgsrate ausgegeben.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul unter Funkbedingungen, die dem Wirkbetrieb möglichst nahe kommen, ordnungsgemäß Transaktionen durchführen kann.
-
-
-*    *   DSRC\_SFXX\_FUL3\_0010
-
-    *   Das Dämpfungsglied wird für den gewünschten Pegelverlauf eingestellt, die Bake führt eine CCC-Transaktion durch und das Log wird auf korrekte LID, Kontrollfelder und Vollständigkeit der Transaktion überprüft. Der Testfall wird als Dauertest über einen einstellbaren Zeitraum wiederholt. Abschließend wird die Transaktionserfolgsrate ausgegeben.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul unter Funkbedingungen, die dem Wirkbetrieb möglichst nahe kommen, ordnungsgemäß Transaktionen durchführen kann.
-
-
-*    *   DSRC\_SFXX\_LID\_\_0010
-
-    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann wird nach einer regulären Initialisierungsphase das erste GET der CCC-Transaktion gesendet, das ordnungsgemäß beantwortet werden soll. Dann wird der GET-Befehl mit zwei verschiedenen, verfälschten LIDs wiederholt, die beide nicht beantwortet werden sollen. Dann sendet die Bake jeweils ein RELEASE an zwei verfälschte LIDs. Anschließend sendet die Bake den zweiten GET-Befehl der Transaktion an die OBU, der beantwortet werden soll. Dann sendet die Bake den gleichen GET-Befehl an zwei verfälschte LIDs, wobei die OBU nicht antworten soll.
-
-    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die LID korrekt handhabt.
-
-
-*    *   DSRC\_SFXX\_STPW\_0010
-
-    *   Zunächst wird die Sendeleistung der Bake auf den gewünschten Wert eingestellt und testweise eine Transaktion ausgelöst. Falls keine Kommunikation mit der OBU erfolgt, wird der Testlauf abgebrochen. Dann werden bei laufend wechselnder BeaconId im Dauertest CCC-Transaktionen durchgeführt. Nach Ablauf der Testdauer wird die Bake angehalten und das Log auf die zeitliche Lage der private windows requests untersucht. Für eine tiefergehende Analyse wird aus den Sendezeitpunkten zusätzlich ein PDF und ein CSV erzeugt.
-
-    *   Es soll nachgewiesen werden, dass ein DSRC-Modul alle drei public Anmeldefenster gleichmäßig nutzt. Darüber hinaus werden Statistiken zur zeitlichen Lage der private windows requests erhoben.
-
-
-*    *   DSRC\_SFXX\_STPW\_0015
-
-    *   Zunächst wird die Sendeleistung der Bake auf den gewünschten Wert eingestellt und testweise eine Transaktion ausgelöst. Falls keine Kommunikation mit der OBU erfolgt, wird der Testlauf abgebrochen. Dann werden bei laufend wechselnder BeaconId im Dauertest CCC-Transaktionen durchgeführt. Nach Ablauf der Testdauer wird die Bake angehalten und das Log auf die zeitliche Lage der private windows requests untersucht. Für eine tiefergehende Analyse wird aus den Sendezeitpunkten zusätzlich ein PDF und ein CSV erzeugt.
-
-    *   Es soll nachgewiesen werden, dass das DSRC-Modul das erlaubte Zeitfenster für Übertragungen in private uplink windows einhält. Darüber hinaus werden Statistiken zur zeitlichen Lage der Übertragungen erhoben.
-
-
-*    *   DSRC\_SFXX\_STPW\_0020
-
-    *   Zunächst wird die Sendeleistung der Bake auf den gewünschten Wert eingestellt und testweise eine Transaktion ausgelöst. Falls keine Kommunikation mit der OBU erfolgt, wird der Testlauf abgebrochen. Dann werden bei laufend wechselnder BeaconId im Dauertest CCC-Transaktionen durchgeführt. Nach Ablauf der Testdauer wird die Bake angehalten und das Log auf die zeitliche Lage der private windows requests untersucht. Für eine tiefergehende Analyse wird aus den Sendezeitpunkten zusätzlich ein PDF und ein CSV erzeugt.
-
-    *   Es soll nachgewiesen werden, dass mehrere DSRC-Module jeweils alle drei public Anmeldefenster gleichmäßig nutzt. Darüber hinaus werden Statistiken zur zeitlichen Lage der private windows requests erhoben.
-
-
-*    *   DSRC\_SFXX\_STTD\_0010
-
-    *   Zunächst wird testweise eine Transaktion ausgelöst. Falls keine Kommunikation mit der OBU erfolgt, wird der Testlauf abgebrochen. Dann werden bei laufend wechselnder BeaconId im Dauertest CCC-Transaktionen durchgeführt. Nach Ablauf der Testdauer wird die Bake angehalten und aus dem Log die Verteilung der Transaktionsdauern ermittelt.
-
-    *   Es soll nachgewiesen werden, dass das DSRC-Modul Transaktionen innerhalb der vorgesehenen Dauer durchführen kann.
-
-
-*    *   DSRC\_SFXX\_STTD\_0020
-
-    *   Zunächst wird in einer Schleife die Transaktionserfolgsrate gemessen und ausgegeben, so dass der Tester die OBU so platzieren kann, dass die Echoerfolgsrate etwa bei 50% liegt. Dann werden bei laufend wechselnder BeaconId im Dauertest CCC-Transaktionen durchgeführt. Nach Ablauf der Testdauer wird die Bake angehalten und aus dem Log die Verteilung der Transaktionsdauern ermittelt.
-
-    *   Es soll nachgewiesen werden, dass das DSRC-Modul auch bei mäßigen Kommunikationsbedingungen Transaktionen innerhalb der vorgesehenen Dauer durchführen kann.
-
-
-*    *   DSRC\_SFXX\_STTD\_0030
-
-    *   Zunächst wird in einer Schleife die Transaktionserfolgsrate gemessen und ausgegeben, so dass der Tester die
-        Obu                      so platzieren kann, dass die Echoerfolgsrate etwa bei 15% liegt. Dann werden bei laufend wechselnder BeaconId im Dauertest CCC-Transaktionen durchgeführt. Nach Ablauf der Testdauer wird die Bake angehalten und aus dem Log die Verteilung der Transaktionsdauern ermittelt.
-
-    *   Es soll nachgewiesen werden, dass das DSRC-Modul auch bei schwachen Kommunikationsbedingungen Transaktionen innerhalb der vorgesehenen Dauer durchführen kann.
-
-
-*    *   DSRC\_SFXX\_ABAA\_0010
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob die OBU/DSRC-Modul kommunikationsbereit ist.
-        Der Tester stellt die Achszahl auf den kleinstmöglichen Wert ein und bestätigt die Einstellung. Die Bake wird für eine CCC-Transaktion konfiguriert und aktiviert. Nach einer Wartezeit von 5 Sekunden werden die Bakenübertragungen angehalten. Die Transaktionsdaten werden darauf untersucht, ob eine OBU geantwortet hat. Die Bake wird für CCC-Transaktionen alle 10s mit einer wechselnden Beacon-ID konfiguriert und für 3 Minuten aktiviert. Der Tester stellt über die Testdauer (3 Minuten) den Wert der Achszahl mindestens 10 Mal auf verschiedene Werte ein. Die Bakenübertragungen werden angehalten und die Transaktionsdaten aus der Bake ausgelesen. Das Log wird bezüglich der achszahlbezogenen Attribute (17, 46, 48, 62) ausgewertet.
-        Aus dem Log muss ersichtlich sein, dass die achszahlbezogenen Attribute (17, 46, 48, 62) nach jeder Einstellung der Achszahl entsprechend den CCC-Attribute-Vorgaben geändert worden sind
-
-    *   Es soll nachgewiesen werden, dass das FzG des EETS-Anbieters alle von der eingestellten Achszahl (Attribut 19) abhängigen Attribute (17, 46, 48, 62) gleichzeitig ändert und so die Datenkonsistenz gewährleistet ist, wenn der Nutzer eine andere Achszahl einstellt. Somit wird erwartet, dass sich eine Achszahl-Änderung im Bereich der Kommunikationszone der Bake sich auf alle betroffenen Attribute gleichzeitig ausgewirkt hat.
-
-
-*    *   DSRC\_SFXX\_ABAG\_0010
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters kommunikationsbereit ist. Der Tester stellt das Gewicht auf den kleinstmöglichen Wert ein und bestätigt die Einstellung. Die Bake wird für eine CCC-Transaktion konfiguriert und aktiviert. Nach einer Wartezeit von 5 Sekunden werden die Bakenübertragungen angehalten. Die Transaktionsdaten werden darauf untersucht, ob eine OBU geantwortet hat. Die Bake wird für CCC-Transaktionen alle 10s mit einer wechselnden Beacon-ID konfiguriert und für 3 Minuten aktiviert. Der Tester stellt über die Testdauer (3 Minuten) den Wert für das Gewicht mindestens 10 Mal auf verschiedene Werte ein. Die Bakenübertragungen werden angehalten. Die Transaktionsdaten werden aus der Bake ausgelesen. Das Log wird bezüglich der gewichtbezogenen Attribute (20, 46, 60) ausgewertet.
-        Aus dem Log muss ersichtlich sein, dass die gewichtbezogenen Attribute (20, 46, 60) nach jeder Einstellung des Gewichtes entsprechend den CCC-Attribute-Vorgaben geändert worden sind.
-
-    *   Es soll nachgewiesen werden, dass das FzG des EETS-Anbieters alle vom eingestellten Gewicht (Attribut 55) abhängigen Attribute (20, 46, 60) gleichzeitig ändert und so die Datenkonsistenz gewährleistet ist, wenn der Nutzer ein anderes Gewicht einstellt.
-        Somit wird erwartet, dass sich eine Gewichtsänderung im Bereich der Kommunikationszone der Bake auf alle betroffenen Attribute gleichzeitig ausgewirkt hat.
-
-
-*    *   DSRC\_SFXX\_ACXX\_0010
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters kommunikationsbereit ist. Die Bake wird für eine CCC-Transaktion und für die Abfrage des Attributes 52 konfiguriert und aktiviert. Nach einer Wartezeit von 5 Sekunden werden die Bakenübertragungen angehalten. Die Transaktionsdaten werden aus der Bake ausgelesen.
-        Das Log wird bezüglich des Attributes 52 ausgewertet, ob der erste Eintrag Null oder der BALM Context ist und ob die Sequenzlänge <= 4 ist.
-
-    *   Es soll nachgewiesen werden, dass in der ersten Sequenz des Attributs ActiveContexts (Attribut 52) entweder ein Nullwert oder der BALM-Wert ausgegeben wird und ob die Sequenzlänge <= 4 ist.
-
-
-*    *   DSRC\_SFXX\_ALAT\_0010
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters kommunikationsbereit ist. Die Bake wird für eine CCC-Transaktion in der Form konfiguriert, dass jedes Attribut einzeln durch ein Get.rq abgefragt wird. Nach der Attributen-Abfrage wird die Bakenübertragung angehalten. Die Transaktionsdaten werden aus der Bake ausgelesen. Das Log wird bezüglich der Attribute entsprechend den Attributformaten im Standard, der Werte gemäß den Vorgaben vom Einzeldokument 4.3.1 V2.1 und bzgl. der Identifikationsdaten der VST ausgewertet.
-        Die CCC-ContextMark/ ManufactuerId/ EquipementClass müssen valide sein und dem Wert des EETS-Providers entsprechen. Alle CCC ISO 12813:2015 und Anlage 2 Einzeldokument 4.3.1 V2.1 Attribute (0, 16, 17, 18, 19, 20, 22, 24, 32, 46, 48, 49, 50, 51, 52, 53, 55, 60, 61, 62, 63, 64) müssen korrekt gelesen werden und entsprechend den Attributformaten im Standard gültig sein.
-
-    *   Es soll nachgewiesen werden, dass das FzG des EETS-Anbieters alle der für CCC (ISO 12813:2015 und Anlage 2 Einzeldokument 4.3.1 V2.1) erforderlichen Attribute (0, 16, 17, 18, 19, 20, 22, 24, 32, 46, 48, 49, 50, 51, 52, 53, 55, 60, 61, 62, 63, 64) unterstützt.
-        Weiterhin sollen die Identifikationsdaten des Moduls aus der VST ermittelt werden, die aus den Parametern CCC-ContextMark, ManufacturerID und EquipmentClass bestehen.
-
-
-*    *   DSRC\_SFXX\_AWKT\_0010
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters kommunikationsbereit sind. Die Bake sendet danach eine neue BST mit der neuen Beacon-ID (1) und erwartet eine private Windows.req vom FzG des EETS-Anbieters. Danach pausiert die Bake für 95ms. Anschließend sendet die Bake eine zweite BST mit einer neuen Beacon-ID (2) und erwartet wieder ein private Windows.req vom FzG des EETS-Anbieters. Die Dauer ab der BST mit Beacon-ID (1) bis zum private window request nach der BST mit Beacon-ID (2) wird gemessen.
-        Das FzG des EETS-Anbieters muss jeweils ein Private Windows Request auf die BST mit der Beacon-ID (1) und Beacon-ID (2) geantwortet haben. Die zeitliche Differenz der Antworten muss <100 ms betragen. Erfolgt keine Antwort oder verspätet diese, so wäre das FzG des EETS-Anbieters in den Energiesparmodus gefallen.
-
-    *   Es soll nachgewiesen werden, dass die Dauer vor dem Umschalten in den Energiesparmodus und damit die AwakeT-Dauer des FzG des EETS-Anbieters >100ms beträgt.
-        Hinweis: Dieser Test erfolgt als Labortest.
-
-
-*    *   DSRC\_SFXX\_BCKT\_0010
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters kommunikationsbereit ist. Danach wird eine vollständige CCC-Transaktion mit dem FzG des EETS-Anbieters mit einer neuen Beacon-ID (1) und einem abschließenden Release (1) der Bake durchgeführt. Anschließend sendet Bake BSTs im Abstand von 50 ms mit einer neuen Beacon-ID (2). Es wird die Zeit zwischen dem Release (1) und dem privaten Windows.req auf die BST mit der Beacon-ID (2) ermittelt.
-        Die Blocking-Time des FzG des EETS-Anbieters nach dem Release (1) der Bake bis zum nächsten Private Windows Request nach der Beacon-ID (2) muss <= 3sec sein.
-
-    *   Es soll nachgewiesen werden, dass die Dauer des BlockingTimer des FzG des EETS-Anbieters nicht größer als 3 Sekunden ist.
-        Hinweis: Dieser Test erfolgt als Labortest.
-
-
-*    *   DSRC\_SFXX\_BV02\_0001
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters kommunikationsbereit ist. Für den eigentlichen Testfall wird eine Initialisierung (BST-VST) mit einer neuen BeaconID und einem anschließenden EVENT-REPORT.request(RELEASE) mit Mode=0 und FlowControl=1 konfiguriert und aktiviert. Danach wird mit der gleichen LID ein ECHO.rq Command mit Poll Bit = 0 und ohne Nutzdaten gesendet und überprüft, ob die OBU/DSRC Modul widererwarten noch reagiert.
-        Das FzG des EETS-Anbieters soll nach dem EVENT-REPORT.request (RELEASE) auf das ECHO nicht mehr reagieren.
-
-    *
-
-*    *   DSRC\_SFXX\_BV02\_0002
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters kommunikationsbereit ist. Für den eigentlichen Testfall wird eine Initialisierung (BST-VST) mit einer neuen BeaconID und einem anschließenden EVENT-REPORT.request(RELEASE) mit Mode=0 und FlowControl=1 konfiguriert und aktiviert. Danach wird mit der gleichen BST gesendet und überprüft, ob das FzG des EETS-Anbieters wieder erwarten reagiert. Anschließend wird nach 5s erneut die gleiche BST wiederholt und überprüft, ob das FzG des EETS-Anbieters wieder erwarten reagiert.
-        Das FzG des EETS-Anbieters soll nach dem EVENT-REPORT.request (RELEASE) auf die BST nicht mehr reagieren.
-
-    *   Es soll nachgewiesen werden, dass das FzG des EETS-Anbieters den RELEASE-Befehl mit einem ECHO.rq korrekt verarbeitet.
-        Hinweis: Der Testfall ist abgeleitet aus dem CCC ISO\_TS\_13143-1:2016 Normtestfall TP/AP-BAS/OBU/BV/02 (ECHO.rq mit Poll Bit=0, siehe ISO TS-13143-1).
-
-
-*    *   DSRC\_SFXX\_BV02\_0003
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters kommunikationsbereit ist. Für den eigentlichen Testfall wird eine Initialisierung (BST-VST) mit einer neuen BeaconID durchgeführt, ein ECHO.rq (Poll Bit=1) gesendet, das beantwortet werden soll, und anschließend mit einem EVENT-REPORT.request(RELEASE) mit Mode=0 und FlowControl=1 die Transaktion abgeschlossen. Danach wird die gleiche BST wiederholt und überprüft, ob das FzG des EETS-Anbieters widererwarten reagiert. Anschließend wird nach 5s erneut die gleiche BST wiederholt und überprüft, ob das FzG des EETS-Anbieters widererwarten reagiert. Die Transaktionsdaten werden aus der Bake ausgelesen und ausgewertet.
-        Nach einem RELEASE soll das FzG des EETS-Anbieters nicht mehr auf die ursprüngliche BST antworten.
-
-    *   Es soll nachgewiesen werden, dass das FzG des EETS-Anbieters den RELEASE-Befehl mit ECHO.rq (Poll Bit=1) korrekt verarbeitet.
-        Hinweis: Der Testfall ist abgeleitet aus dem CCC ISO\_TS\_13143-1:2016 Normtestfall TP/AP-BAS/OBU/BV/02 (ECHO.rq mit Poll Bit=1: Initialisierung, private ACn, RELEASE, Initialisierungsversuch).
-
-
-*    *   DSRC\_SFXX\_BV04\_0010
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters kommunikationsbereit ist. Für den eigentlichen Testfall wird eine Initialisierung (BST-VST) mit einer neuen BeaconID mit mode=1 und FlowControl=2 konfiguriert und aktiviert. Danach sendet die Bake ein ECHO.rq Befehl, welcher von der OBU beantwortet werden soll. Nach 256 Sekunden sendet die Bake erneut eine BST mit gleicher BeaconID mit mode=1 und FlowControl=2, die von der OBU mit einer neuen LID (und in der Folge VST) wieder beantwortet werden soll.
-        Nach Ablauf der 256s soll das FzG des EETS-Anbieters wieder auf die ursprüngliche BST reagieren.
-
-    *   Es soll geprüft werden, dass das FzG des EETS-Anbieters den Parameter beaconTime der BST nach 256s korrekt handhabt.
-        Hinweis: Der Testfall ist abgeleitet aus dem CCC ISO\_TS\_13143-1:2016 Normtestfall TP/AP-BAS/OBU/BV/04.
-
-
-*    *   DSRC\_SFXX\_DLAY\_0010
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters kommunikationsbereit ist. Dann führt die Bake eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durch. Danach sendet die Bake ein ECHO.rq, für das eine Antwort erwartet wird. Dieser ECHO.rq wird mit einer um 0.1ms wachsenden Pause wiederholt bis eine Pause von 1s erreicht wird. Wenn die OBU alle ECHO.rq beantwortet hat, ist der Testfall bestanden.
-        Alle ECHOs werden beantwortet, die Beantwortung der ECHO ist unabhängig von der zeitlichen Pause.
-        Das FzG des EETS-Anbieters soll unabhängig von der Unterbrechungsdauer auf die ACn-Befehle der Bake antworten.
-
-    *   Es soll nachgewiesen werden, dass das FzG des EETS-Anbieters auch bei unterschiedlich langen Pausen, wie sie bei schwachen Funkbedingungen üblich sind, kommunikationsbereit bleibt.
-        Hinweis: Dieser Test erfolgt als Labortest.
-
-
-*    *   DSRC\_SFXX\_HNG1\_0010
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters kommunikationsbereit ist. Dann führt die Bake erneut eine Initialisierung (BST-VST) mit einer neuen Beacon-ID mit dem FzG des EETS-Anbieters durch. Die Bake sendet ein GET\_STAMPED.rq mit einer anderen LID für Attribut 32, das mit einem GET\_STAMPED.rq für Attribute 24, 16, 19, 55, 22, 17, 61, 62 verkettet ist, das FzG des EETS-Anbieters darf nicht darauf reagieren. Die Bake sendet ein GET\_STAMPED.rq mit einer anderen LID für die Attribute 32, 60, 50, 52, 49, das FzG des EETS-Anbieters darf nicht darauf reagieren. Die Bake sendet ein RELEASE mit einem anderen LID, das FzG des EETS-Anbieters darf nicht darauf reagieren. Die Bake sendet ein GET\_STAMPED.rq mit der LID für das oben registrierte FzG des EETS-Anbieters für das Attribut 32, das mit einem GET\_STAMPED.rq für die Attribute 24, 16, 19, 55, 22, 17, 61, 62 verkettet wurde. Die Bake sendet ein GET\_STAMPED.rq mit der LID für das oben registrierte FzG des EETS-Anbieters für die Attribute 32, 60, 50, 52, 49. Die Bake sendet ein RELEASE mit der LID für das oben registrierte FzG des EETS-Anbieters.
-        Das FzG des EETS-Anbieters darf nicht auf die Transaktion mit der fremden LID reagieren und muss die Transaktion nach Unterbrechung (Fremde LID Transaktion) erfolgreich weiterführen.
-
-    *   Es soll geprüft werden, dass das FzG des EETS-Anbieters auch dann sauber kommuniziert, wenn die Bake nach der Initialisierung weitere Transaktionsphasen mit einer anderen LID durchführt (was vom FzG des EETS-Anbieters nicht beantwortet werden darf).
-        Hinweis: Dieser Test erfolgt als Labortest.
-
-
-*    *   DSRC\_SFXX\_HNG2\_0010
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters kommunikationsbereit ist. Dann führt die Bake erneut eine Initialisierung (BST-VST) mit einer neuen Beacon-ID mit dem FzG des EETS-Anbieters durch. Die Bake wartet für die Dauer von zwei Datenaustauschphasen einer CCC-Transaktion (20ms) Die Bake sendet ein RELEASE mit einem anderen LID, das FzG des EETS-Anbieters darf nicht darauf reagieren. Die Bake sendet ein GET\_STAMPED.rq mit der LID für das oben registrierte FzG des EETS-Anbieters für das Attribut 32, welches mit einem GET\_STAMPED.rq für die Attribute 24, 16, 19, 55, 22, 17, 61, 62 verkettet wurde. Die Bake sendet ein GET\_STAMPED.rq mit der LID für das oben registrierte FzG des EETS-Anbieters für die Attribute 32, 60, 50, 52, 49. Die Bake sendet ein RELEASE mit der LID für das oben registrierte FzG des EETS-Anbieters.
-        Das FzG des EETS-Anbieters darf durch die Unterbrechung (z.B. Kommunikationsstörung) und durch den Empfang einer fremden LID Nachricht (fremdes RELEASE) nicht in ihrer gesamten Transaktion gestört werden. Die CCC-Transaktion muss erfolgreich zu Ende geführt werden.
-
-    *   Es soll nachgewiesen werden, dass das FzG des EETS-Anbieters auch dann sauber kommuniziert, wenn die Bake die Kommunikation nach der Initialisierung unterbricht und später wiederaufnimmt.
-        Hinweis: Dieser Test erfolgt als Labortest.
-
-
-*    *   DSRC\_SFXX\_HNG3\_0010
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob die OBU/DSRC-Modul kommunikationsbereit ist. Dann führt die Bake erneut eine Initialisierung (BST-VST) mit einer neuen Beacon-ID mit der OBU/DSRC Modul durch. Die Bake wartet für die Dauer einer gesamten CCC-Transaktion (30ms). Anschließend führt die Bake erneut eine neue Initialisierung (BST-VST) mit einer neuen Beacon-ID mit dem FzG des EETS-Anbieters durch. Die Bake sendet ein GET\_STAMPED.rq mit der LID für das oben registrierte FzG des EETS-Anbieters für das Attribut 32, welche mit einem GET\_STAMPED.rq für die Attribute 24, 16, 19, 55, 22, 17, 61, 62 verkettet wurde. Die Bake sendet ein GET\_STAMPED.rq mit der LID für das oben registrierte FzG des EETS-Anbieters für die Attribute 32, 60, 50, 52, 49. Die Bake sendet ein RELEASE mit der LID für das oben registrierte FzG des EETS-Anbieters.
-        Das FzG des EETS-Anbieters soll nach einer ersten Initialisierungsphase, bei der die Transaktion nicht weitergeführt werden kann mit einer anschließenden Pause auch eine zweite Initialisierungsphase mit einer erfolgreichen Transaktion durchführen (KonMa-Anwendungsfall).
-
-    *   Es soll geprüft werden, dass das FzG des EETS-Anbieters auch dann sauber kommuniziert, wenn die Bake nach der Initialisierung die Kommunikation unterbricht und wieder neu initialisiert.
-        Hinweis: Dieser Test erfolgt als Labortest.
-
-
-*    *   DSRC\_SFXX\_HNG4\_0010
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters kommunikationsbereit ist. Dann führt die Bake erneut eine Initialisierung (BST-VST) mit einer neuen Beacon-ID mit dem FzG des EETS-Anbieters durch. Die Bake sendet während der gesamten Dauer (30 ms) einer CCC-Transaktion Zufallsdaten (fehlerhafte DSRC-Daten). Anschließend führt die Bake erneut eine neue Initialisierung (BST-VST) mit einer neuen Beacon-ID mit dem FzG des EETS-Anbieters durch. Die Bake sendet ein GET\_STAMPED.rq mit der LID für die oben registrierte OBU/DSRC Modul für das Attribut 32, die mit einem GET\_STAMPED.rq für die Attribute 24, 16, 19, 55, 22, 17, 61, 62 verkettet wurde. Die Bake sendet ein GET\_STAMPED.rq mit der LID für das oben registrierte FzG des EETS-Anbieters für die Attribute 32, 60, 50, 52, 49. Die Bake sendet ein RELEASE mit der LID für das oben registrierte FzG des EETS-Anbieters.
-        Das FzG des EETS-Anbieters soll eine CCC-Transaktion nach einer ersten Initialisierungsphase, bei der die Transaktion aufgrund CRC gestörten DSRC-Rahmen nicht weitergeführt werden kann, mit einer zweiten Initialisierungsphase weiterführen und mit einer erfolgreichen CCC-Transaktion beenden (KonMa-Anwendungsfall).
-
-    *   Es soll geprüft werden, dass das FzG des EETS-Anbieters auch dann sauber kommuniziert, wenn die Bake nach der Initialisierung fehlerhafte Frames versendet und dann eine neue Transaktion durchführt.
-        Hinweis: Dieser Test erfolgt als Labortest.
-
-
-*    *   DSRC\_SFXX\_SETA\_0010
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters kommunikationsbereit ist. Der Tester stellt im FzG des EETS-Anbieters die Achszahl auf den kleinstmöglichsten Wert ein und bestätigt die Einstellung. Dann gibt der Tester die Achszahl wie in dem FzG des EETS-Anbieters am Testplatz ein. Die Bake wird für eine CCC-Transaktion konfiguriert und aktiviert. Nach einer Wartezeit von 5 Sekunden werden die Bakenübertragungen angehalten. Die Transaktionsdaten werden darauf untersucht, ob eine OBU geantwortet hat. Der Tester stellt im FzG des EETS-Anbieters die Achszahl um eine Stelle höher ein und bestätigt die Einstellung Dann übergibt der Tester dieselbe Achszahl in einem Dialog an die Testausführung. Die Bake wird erneut für eine CCC-Transaktion mit einer anderen BeaconID konfiguriert und aktiviert. Nach einer Wartezeit von 5 Sekunden werden die Bakenübertragungen angehalten. Diese Achszahlerhöhung mit der daran folgenden Bakentransaktion wird bis zur maximalen Einstellmöglichkeit weitergeführt. Die Transaktionsdaten werden aus der Bake ausgelesen. Das Log wird bezüglich der eingestellten Achszahlen (Attribut 19) ausgewertet.
-        Es müssen alle Achszahlen gemäß der Bedienungsanleitung der OBU/DSRC-Modul einstellbar sein.
-        Alle eingestellten Achszahlen werden im Logfile auf die Teilattribute von Attribut 19 auf Traktor und Trailer aufgeteilt.
-
-    *   Es soll nachgewiesen werden, dass vom Nutzer alle Einstellmöglichkeiten der Achszahl korrekt im entsprechenden Attribut 19 gespeichert und bei einer CCC-Transaktion an die Bake übertragen werden.
-
-
-*    *   DSRC\_SFXX\_SETG\_0010
-
-    *   Es wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters kommunikationsbereit ist. Der Tester stellt in dem FzG des EETS-Anbieters (je nach Typ des FzG des EETS-Anbieters) das Gewicht oder die Gewichtsklasse auf den kleinstmöglichsten Wert ein und bestätigt die Einstellung. Der Tester gibt dasselbe Gewicht oder dieselbe Gewichtsklasse wie in dem FzG des EETS-Anbieters am Testplatz ein. Die Bake wird für eine CCC-Transaktion konfiguriert und aktiviert. Nach einer Wartezeit von 5 Sekunden werden die Bakenübertragungen angehalten. Die Transaktionsdaten werden darauf untersucht, ob eine OBU geantwortet hat. Der Tester stellt in dem FzG des EETS-Anbieters das Gewicht oder die Gewichtsklasse auf den nächst höheren Wert (einmal Tastendruck Gewicht bzw. Gewichtsklasse, aber mindestens in 1000 kg-Schritten) ein und bestätigt die Einstellung.
-        Hinweis: Die Einstellmöglichkeiten für Gewicht bzw. Gewichtsklasse unterscheiden sich je nach FzG Typ des EETS-Anbieters. Der Tester gibt dann das Gewicht oder die Gewichtsklasse wie in dem FzG des EETS-Anbieters am Testplatz ein. Die Bake wird erneut für eine CCC-Transaktion mit einer anderen BeaconID konfiguriert und aktiviert. Nach einer Wartezeit von 5 Sekunden werden die Bakenübertragungen angehalten. Die letzten 4 Schritten werden solange wiederholt, bis das maximale Gewicht oder die maximale Gewichtsklasse erreicht ist. Die Transaktionsdaten werden aus der Bake ausgelesen. Das Log wird bezüglich des eingestellten Gewichts (Attribut 55) ausgewertet. Erwartet wird, dass das Attribut 55 jeweils das eingestellte Gewicht oder Gewichtsklasse enthält
-        Es müssen alle Gewichtsangaben gemäß der Bedienungsanleitung des FzG des EETS-Anbieters einstellbar sein.
-        Alle eingestellten Gewichte müssen mit den Baken-Logwerten vom Attribut 55 übereinstimmen.
-
-    *   Es soll nachgewiesen werden, dass das vom Nutzer eingestellte Gewicht korrekt im entsprechenden Attribut (55) gespeichert und bei einer CCC-Transaktion an die Bake übertragen wird.
-
-
-*    *   DSRC\_SFXX\_STPW\_0030
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob alle OBUs/DSRC-Module (FzG des EETS-Anbieters und drei weitere DSRC-Module) kommunikationsbereit sind. Die Bake wird für einen Dauertest konfiguriert, der über eine Zeit von 5 Stunden mit folgenden Einstellungen durchgeführt wird:
-
-        -   Beacon Change Intervall 15s
-
-
-        -   CCC-Transaktionen für Max 15s
-
-
-        -   Nach der Transaktion wird die Bake für 15s angehalten
-
-
-
-        (Simulation des Verlassens der Kommunikationszone) Nach Ablauf der Testdauer wird das Bakelog auf die zeitliche Lage der public windows requests untersucht. Darüber hinaus werden Statistiken zur zeitlichen Lage der public windows requests erhoben (PublicWindows Zeitüberlappung und -Verletzungen).
-        Alle FzG des EETS-Anbieters weisen eine statistische Gleichverteilung der Public Windows auf. Es finden keine Überlappungen der Public Windows statt.
-        Alle FzG des EETS-Anbieters halten die in der Norm vorgegebenen Zeiteinheiten für die Public Windows ein.
-
-    *   Es soll nachgewiesen werden, dass das FzG des EETS-Anbieters im Zusammenspiel mit drei weiteren OBUs (Module verschiedener Typen und Hersteller) alle drei public Anmeldefenster gleichmäßig nutzt und die Module sich nicht gegenseitig stören.
-        Hinweis: Dieser Test erfolgt als Labortest.
-
-
-*    *   DSRC\_SFXX\_STTD\_0040
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob alle OBUs/DSRC-Module kommunikationsbereit sind. Die Bake wird für einen Dauertest konfiguriert, der über einen Zeitraum von 5 Stunden mit folgenden Einstellungen durchgeführt wird:
-
-        -   Beacon Change Intervall 15s
-
-
-        -   CCC-Transaktionen für Max 15s
-
-
-        -   Nach der Transaktion wird die Bake für 15s angehalten
-
-
-
-        (Simulation des Verlassens der Kommunikationszone) Nach Ablauf der Testdauer wird aus dem Baken-Logs die Verteilung pro OBU/DSRC Modul Transaktionszeiten ermittelt.
-        Die FzG des EETS-Anbieters müssen im Dauertest Transaktionen innerhalb der Transaktionszeiten (<70ms) korrekt durchführen.
-
-    *   Es soll nachgewiesen werden, dass das FzG des EETS-Anbieters Transaktionen innerhalb der vorgesehenen Transaktionszeiten (<70 ms) mit der DSRC Bake durchführen kann, wenn mehrere DSRC-Module (max. 3 weitere Module verschiedener Typen und Hersteller) gleichzeitig kommunizieren.
-        Hinweis: Dieser Test erfolgt als Labortest.
-
-
-*    *   DSRC\_SFXX\_TRPT\_0040
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters kommunikationsbereit ist. Die Bake wird für einen Dauertest konfiguriert, der über einen Zeitraum von 5 Stunden mit folgenden Einstellungen durchgeführt wird:
-
-        -   Beacon Change Intervall 15s
-
-
-        -   CCC-Transaktionen für Max 15s
-
-
-        -   Nach der Transaktion wird die Bake für 15s angehalten
-
-
-
-        (Simulation des Verlassens der Kommunikationszone) Nach Ablauf der Testdauer wird aus dem Bake-Log die Anzahl der durchgeführten Transaktionen mit den zu erwartenden Transaktionen verglichen.
-        Die Anzahl der erfolgreich durchgeführten CCC-Transaktionen ist gleich der Anzahl der Transaktionsversuche.
-
-    *   Es soll nachgewiesen werden, dass in einem Dauerlauf das FzG des EETS-Anbieters alle CCC-Transaktionen erfolgreich durchführt.
-        Hinweis: Dieser Test erfolgt als Labortest.
-
-
-*    *   DSRC\_SFXX\_WKUP\_0010
-
-    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID durchgeführt, um festzustellen, ob die OBU/DSRC-Module kommunikationsbereit sind. Die Bake pausiert für 10 Sekunden. Dann sendet Bake BSTs, bis sie ein private window request empfängt. Die Dauer ab der ersten BST bis zum private window request wird gemessen.
-        Die Dauer ab der ersten BST bis zum Private Window Request muss unterhalb von 20 ms liegen.
-
-    *   Es soll sicherstellt werden, dass die Wakeup-Dauer des FzG des EETS-Anbieters unter 20ms liegt.
-        Hinweis: Dieser Test erfolgt als Labortest.
-
-
-
-**2.2 P1-KTD-002: Fachliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation**
-
-
-*    *   **Name / ID**
-
-    *   **Beschreibung**
-
-    *   **Ziel**
-
-
-*    *   AutoKST\_SVF\_FG06AV
-
-    *   In diesem Testfall wird die Erzeugung der Fallgruppe 6 (Falschdeklarierer) mit einem Test-FzG überprüft. Ein Test-FzG wird im Test-LKW (mit Anhänger) benutzt und auf eine geringere Achszahl bzw. Gewichtsklasse personalisiert, als der Test-LKW inklusive Anhänger tatsächlich besitzt. Bei einer Durchfahrt unter der Test-Kontrollstelle wird überprüft, ob die Test-Kontrollstelle gemäß Tarifparametermodell (gültig ab 01.01.2019) einen Falschdeklarier erkennt. Es werden u.a. folgende Parameter auf Korrektheit geprüft:
-
-        •   Kennzeichen (FzG-Kennzeichen)
-
-
-        •   Nationalität
-
-
-        •   Achsen
-
-
-        •   Gewicht
-
-
-        •   Status (OBU-Status: OK= LED grün, NOK=LED rot)
-
-
-        •   Euro-Schadstoffklasse
-
-
-        •   Partikelminderungsfilter
-
-
-
-
-    *
-        •   Ein Test-LKW mit Test-Fahrzeuggerät (FzG), aber unzureichend deklarierter Achsklasse und/oder Gewichtsklasse erzeugt eine Fallgruppe 6 (Falschdeklarierer)
-
-
-        •   Korrekte und vollständige DSRC-Daten
-
-
-
-
-
-*    *   AutoKST\_SVF\_FG06AV\_2xFzG
-
-    *   Ein mautpflichtiges Fahrzeug ist mit einem Fahrzeuggerät (FzG\_1) des EETS-Anbieters sowie einem zweiten deaktivierten/gesperrten Fahrzeuggerät (FzG\_2) eines weiteren Anbieters ausgestattet. Um einen Kontrollfall inklusive DSRC-Daten zu erzeugen, wird das Szenario in Form eines Falschdeklarierers durchgeführt.
-        FzG\_1 und FzG\_2 werden im Test-LKW (mit Anhänger) positioniert. FzG\_1 wird auf eine geringere Achszahl bzw. Gewichtsklasse deklariert, als der Test-LKW inklusive Anhänger tatsächlich besitzt. FzG\_2 befindet sich im Status NOK (gesperrt/deaktiviert).
-        Es werden u.a. folgende Parameter beider FzG auf Korrektheit geprüft:
-
-        •   Kennzeichen (FzG-Kennzeichen)
-
-
-        •   Nationalität
-
-
-        •   Achsen
-
-
-        •   Gewicht
-
-
-        •   Status (OBU-Status: OK= LED grün, NOK=LED rot)
-
-
-        •   Euro-Schadstoffklasse
-
-
-        •   Partikelminderungsfilter
-
-
-
-
-    *
-        •   Ein Test-LKW mit falsch deklariertem Test-FzG (FzG\_1) und einem weiteren FzG (FzG\_2) im Status NOK erzeugt einen Verdachtsfall der Fallgruppe 6 (Falschdeklarierer).
-
-
-        •   Korrekte und vollständige DSRC-Daten beider Fahrzeuggeräte
-
-
-
-        Hinweis: Nur eine Auffälligkeit des im Rahmen der GTP zu testenden EETS-Fahrzeuggeräts (FzG\_1) kann zum Fehlschlagen des Testfalls führen.
-
-
-
-
-*    *   AutoKST\_SVF\_FG07\_mautfreier\_Modus
-
-    *   In diesem Testfall wird die Erzeugung der Fallgruppe 7 (mautfreier Modus) mit einem Test-FzG überprüft. Ein Test-FzG wird im Test-LKW (mit Anhänger) angeschlossen. Anschließend wird das Test-FzG in den mautfreien Modus eingestellt. Bei der Durchfahrt an der Kontrollstelle wird überprüft ob die Kontrollstelle eine FG7 erkennt. Es werden u.a. folgende Parameter auf Korrektheit geprüft:
-
-        •   Kennzeichen (FzG-Kennzeichen)
-
-
-        •   Nationalität
-
-
-        •   Achsen
-
-
-        •   Gewicht
-
-
-        •   Status (OBU-Status: OK= LED grün, NOK=LED rot)
-
-
-        •   Euro-Schadstoffklasse
-
-
-        •   Partikelminderungsfilter
-
-
-
-
-    *
-        •   Ein Test-LKW mit Test-FzG, welches sich im mautfreien Modus befindet, erzeugt eine Fallgruppe (FG) 7.
-
-
-        •   Korrekte und vollständige DSRC-Daten
-
-
-
-
-
-*    *   AutoKST\_SVF\_FG12
-
-    *   In diesem Testfall wird die Erzeugung der Fallgruppe 12 mit einem Test-FzG überprüft. Der Test-LKW dessen Test-FzG mit dem Status "gesperrt" eingesetzt ist, passiert die Kontrollstelle. Die DSRC-Daten aus dem Test-FzG werden von der Test-Kontrollstelle ausgelesen. Der Status "gesperrt" wird festgestellt und die Test-Kontrollstelle erzeugt einen Verdachtsfall der Fallgruppe 12. Dieser wird anschließend an die Test-Kontrollzentrale gesendet.
-        Es werden u.a. folgende Parameter auf Korrektheit geprüft:
-
-        •   Kennzeichen (FzG-Kennzeichen)
-
-
-        •   Nationalität
-
-
-        •   Achsen
-
-
-        •   Gewicht
-
-
-        •   Status (OBU-Status: OK= LED grün, NOK=LED rot)
-
-
-        •   Euro-Schadstoffklasse
-
-
-        •   Partikelminderungsfilter
-
-
-
-
-    *
-        •   Ein LKW mit einem eingebauten FzG, welches gesperrt ist, erzeugt eine Fallgruppe 12
-
-
-        •   Korrekte und vollständige DSRC-Daten
-
-
-
-
-
-*    *   AutoKST\_SVF\_FG16
-
-    *   Der Test-LKW befindet sich im automatischen Verfahren. Das Test-FzG wurde den Klassifikationsdaten entsprechend des Test-LKWs oder höher (Überzahler) konfiguriert. Der Test-LKW passiert die Test-Kontrollstelle, der DSRC-Datensatz aus dem Test-FzG wird ausgelesen. Die Test-Kontrollstelle entscheidet aufgrund der deklarierten Parameter und der Sensorikdaten auf Fallgruppe 16. Der Fall wird nicht an die Kontrollzentrale verschickt und in der Test-Kontrollstelle gelöscht.
-        Es werden u.a. folgende Parameter auf Korrektheit geprüft:
-
-        •   Kennzeichen (FzG-Kennzeichen)
-
-
-        •   Nationalität
-
-
-        •   Achsen
-
-
-        •   Gewicht
-
-
-        •   Status (OBU-Status: OK= LED grün, NOK=LED rot)
-
-
-        •   Euro-Schadstoffklasse
-
-
-        •   Partikelminderungsfilter
-
-
-
-
-    *
-        •   Ein Test-LKW mit korrekt eingestelltem Test-FzG erzeugt die Fallgruppe 16 (Gutzahler AV)
-
-
-        •   Korrekte und vollständige DSRC-Daten
-
-
-        •   Die Falldaten werden nicht an die Kontrollzentrale verschickt und in der Test-Kontrollstelle gelöscht.
-
-
-
-
-
-
-
-*    *   AutoKST\_Verifikation\_EETS\_Masterkeys
-
-    *   In diesem Testfall wird der neu aufgespielte EETS-Masterkey auf der dezentralen Komponente (automaische Kontrolleinrichtung/ Kontrollsäule) verifiziert.
-        Es werden u.a. folgende Parameter auf Korrektheit geprüft:
-
-        •   Kennzeichen (FzG-Kennzeichen)
-
-
-        •   Nationalität
-
-
-
-
-    *
-        •   Ein Test-LKW mit einem Test-FzG des EETS-Anbieters passiert als Gutzahler die Kontrollstelle
-
-
-        •   DSRC-Daten werden vollständig erfasst und entschlüsselt
-
-
-
-
-
-*    *   KonAu\_Installation\_EETS\_Masterkeys
-
-    *   Installation der EETS-Schlüssel auf der KonAu.
-
-    *   Es wird nachgewiesen, dass sich die EETS-Schlüssel korrekt auf der automatischen Kontrolleinrichtung (KonAu) installieren lassen und diese danach keine Auffälligkeiten aufweist.
-
-
-
-
-*    *   KonB\_DezKst\_SVF\_FG
-
-    *   Ein Test-LKW passiert eine Kontrollstelle und ein Verdachtsfall wird angelegt. Dieser Verdachtsfall wird in der Kontrollzentrale mit der passenden Fallgruppe gespeichert. Kontrollfall- und Nacherhebungsdaten werden aus der Kontrollzentrale in die Kontrollbehörde (BALM) übertragen. Anschließend werden die Daten in das System der Kontrollbehörde (BALM) übernommen und aufbereitet.
-
-        •   Übertragung bis zur Kontrollbehörde (BALM) sowie die Rückantwort an die Kontrollzentrale werden überprüft.
-
-
-
-
-    *
-        •   Sicherstellung, dass der Kontrollfall aus der Kontrollzentrale korrekt in der Kontrollbehörde (BALM) ankommt.
-
-
-        •   Gewährleistung Interoperabilität Kontrollstelle zu weiterführenden Systemen.
-
-
-
-
-
-*    *   KonMa\_auswinken\_VKB
-
-    *
-        •   Das Fahrzeug wird ausgewunken. Ein Kontrollbericht mit der FG19 wird ohne weitere Kontrolle erstellt.
-
-
-
-
-    *
-        •   Erfolgreiches Erstellen eines Kontrollberichts (FG19)
-
-
-
-
-
-*    *   KonMa\_EETS-Masterkeys\_DSRC-Bake
-
-    *
-        •   Es wird geprüft ob die EETS-Masterkeys in die DSRC-Bake geladen werden und aktiv sind.
-
-
-
-
-    *
-        •   EETS-Masterkeys werden in DSRC-Bake geladen.
-
-
-
-
-
-*    *   KonMa\_Installation\_EETS\_Masterkeys
-
-    *   Es wird geprüft ob die Installation der EETS Masterkeys auf der manuellen Kontrolle erfolgreich ist.
-
-    *   EETS-Masterkeys werden auf der manuellen Kontrolle im Verzeichnis abgelegt.
-
-
-*    *   KonMa\_KonZ\_2.0\_Berichte\_ weiterverarbeiten\_in\_KonB
-
-    *   Dieser Testfall prüft die Weiterverarbeitung von Kontrollfällen mit einem Kontrollbericht über die Kontrollzentrale bis in die Kontrollbehörde (BALM).
-        Die Überprüfung erfolgt für den Kontrollfall, Kontrollfalldaten bzw. die erfassten Beweismittel. Es wird die e-Akte in SC-OWI überprüft.
-
-        •   Optional: Die Anreichung der e-Akte mit den zugehörigen DSRC-Daten prüfen.
-
-
-
-
-    *
-        •   Absicherung der Übermittlung von Fahrzeugkontrollfällen nach SC-OWI
-
-
-        •   Optional: Absicherung der DSRC-Daten Anreicherung
-
-
-        •   Vollständigkeit und inhaltliche Richtigkeit der e-Akte in SC-OWI für Fahrzeugkontrollfälle prüfen
-
-
-
-
-
-
-
-*    *   KonMa\_Mobile\_Kontrolle
-
-    *   In diesem Testfall wird die Auslesung eines EETS-FzGs im Test-LKW mit einer KonMa im Modus mobile Kontrolle durchgeführt. Durchführung einer Mobile-Kontrolle
-        Die entsprechenden Daten des Kontrollfalls bei einer DSRC-/OBE-Auslesung werden vollständig und korrekt angezeigt.
-        Es werden u.a. folgende Parameter der DSRC-Datenauslesung geprüft:
-
-        •   Kennzeichen
-
-
-        •   Status
-
-
-        •   Land
-
-
-        •   Maut-Schadstoffklasse
-
-
-        •   zulässiges Gesamtgewicht
-
-
-        •   Achsen
-
-
-        •   Fallgruppe
-
-
-        •   LED
-
-
-        •   LED-Wechsel
-
-
-
-
-    *
-        •   Mit der manuellen Kontrolle wird eine Mobile Kontrolle gemäß den Testparametern erfolgreich durchführt.
-
-
-        •   Die entsprechenden DSRC-Daten des Kontrollfalls werden vollständig und korrekt angezeigt.
-
-
-
-        Die Fallgruppe wird durch die manuelle Kontrolle korrekt angezeigt.
-
-
-
-
-*    *   KonMa\_Standkontrolle\_Start\_KB
-
-    *   In diesem Testfall wird die Auslesung eines EETS-FzGs, das sich im mautfreien Modus befindet, im Test-LKW mit einer KonMa im Modus Standkontrolle mit dem Handheld durchgeführt.
-
-        •   Beginnen und Durchführung der Standkontrolle zum Erstellen eines Kontrollberichtes.
-
-
-        •   Auslesung der DSRC-Daten mit Handheld
-
-
-        •   Abschluss des Kontrollberichtes
-
-
-
-
-    *
-        •   Mit der manuellen Kontrolle wird eine Standkontrolle gemäß den genannten Testparametern im Szenario erfolgreich gestartet.
-
-
-        •   Die entsprechenden Daten des Kontrollfalls werden vollständig und korrekt angezeigt.
-
-
-        •   Es wird die Kontrollberichterstellung durchgeführt.
-
-
-
-
-
-*    *   KonMa\_Verifikation\_EETS\_Masterkeys
-
-    *   In diesem Testfall wird der neu aufgespielte EETS-Masterkey auf der KonMa verifiziert.
-        Es werden u.a. folgende Parameter der DSRC-Datenauslesung geprüft:
-
-        •   Kennzeichen
-
-
-        •   Status
-
-
-        •   Land
-
-
-
-
-    *
-        •   DSRC-Daten des EETS-FzG werden von der manuellen Kontrolle vollständig erfasst und entschlüsselt
-
-
-
-
-
-*    *   KonSL\_Installation\_EETS\_Masterkeys
-
-    *
-        •   Installation der EETS-Schlüssel auf der Kontrollsäule nach SW-Update.
-
-
-
-
-    *
-        •   Es gibt eine Kontrollsäule, auf der bereits eine ältere SW-Version installiert ist.
-
-
-        •   Die neue SW-Version ist geliefert.
-
-
-        •   Die neue SW-Version ist verteilt worden.
-
-
-
-        Es liegt ein valides Paket mit validen EETS-Keys vor ("\*.xer-File"), das sich von dem bereits installierten Paket unterscheidet.
-
-
-
-
-*    *   KonZ\_2.0\_DezKst\_SVF
-
-    *   Die Test-Kontrollstelle erstellt einen Verdachtsfall und sendet diesen mit den Beweismitteln an die Test-Kontrollzentrale.
-        In der WebGUI wird nach dem KFZ-Kennzeichen selektiert und anhand des von der Test-Kontrollstelle gelesenen Kennzeichens überprüft.
-        In diesem Testfall wird die Verarbeitung eines Verdachtsfalls in der Test-Kontrollzentrale einer durch die Test-Kontrollstelle durchgeführten Fahrt überprüft.
-
-        •   Nach der Sachverhaltsfeststellung wird der Verdachtsfall in der Kontrollfallverwaltung verarbeitet, bis der fertige Kontrollfall an die Kontrollbehörde (BALM) exportiert wird.
-
-
-
-
-    *
-        •   Überprüfung der korrekten Weiterleitung des Verdachtsfalls an die Kontrollzentrale.
-
-
-        •   Überprüfung aller relevanten DSRC-Parameter in der Kontrollzentrale
-
-
-        •   Datenerzeugung und Sichtung des entstehenden Kontrollfalles
-
-
-        •   Überprüfung Versand an die Kontrollbehörde (BALM)
-
-
-
-
-
-
-### **3 Prüffälle für SST 301 Version 3.1**
-
-**3.1 P1-KTD-001: Betriebliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation**
+**2 P1-KTD-001: Betriebliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation**
 
 
 *    *   Name/ID
@@ -7885,7 +6030,7 @@ Die Prüffälle werden unterschieden in Bezug auf die Version der Schnittstellen
         –   der aktuellste Eintrag einen Zeitstempel hat, der weniger als 6 Minuten alt und der Zustand noGoUserSwitchOff-3 ist.
 
 
-        –   Der Benutzer wird aufgefordert die Stromversorgung einzuschliessen.
+        –   Der Benutzer wird aufgefordert die Stromversorgung anzuschließen.
 
 
         –   Die Bake führt eine CCC-Transaktion
@@ -8283,8 +6428,418 @@ Die Prüffälle werden unterschieden in Bezug auf die Version der Schnittstellen
     *   Es soll nachgewiesen werden, dass das DSRC-Modul sich in einer worst case-Situation, die aber bei einer Vorbeifahrt einer KonMA unter der KonAU auftritt, korrekt verhält.
 
 
+*    *   DSRC\_SFXX\_CO2C\_0010
 
-**3.2 P1-KTD-002: Fachliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation**
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann wird mit der Bake eine CCC-2019-Transaktion durchgeführt. Abschließend wird das Bakenlog ausgelesen und überprüft, ob die genannten Bits des Teilattributs VehicleSpecificCharacteristics.FutureCharacteristics korrekt gesetzt sind.
+        Erwartetes Ergebnis:
+        Die Bit-Struktur im Teilattribut VehicleSpecificCharacteristics.FutureCharacteristics ist korrekt gesetzt:
+        SS = 01'B OOO = 000'B
+
+    *   Das Teilattribut VehicleSpecificCharacteristics.FutureCharacteristics hat die Bit-Struktur FSSOOOPP und muss für die Bit-Struktur SSOOO wie folgt belegt werden mit:
+        SS – cO2Scheme, muss mit 01'B belegt werden, um die
+        CO
+        2                     -Schemadefinition gemäß EU-Verordnung 2022/362 Artikel 1 (11), der Artikel 7ga in Richtlinie 1999/62 einfügt, zu referenzieren.
+        OOO – cO2Class, muss mit 000'B belegt werden, wenn keine
+        CO
+        2                     -Emissionsklasse zugeordnet werden kann, ansonsten mit den Werten 001'B, 010'B, 011'B, 100'B, 101'B für die
+        CO
+        2                     -Emissionsklassen 1 bis 5.
+
+
+*    *   DSRC\_SFXX\_CO2C\_0011
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann wird mit der Bake eine CCC-2019-Transaktion durchgeführt. Abschließend wird das Bakenlog ausgelesen und überprüft, ob die genannten Bits des Teilattributs
+        VehicleSpecificCharacteristics.                     FutureCharacteristics korrekt gesetzt sind.
+        Erwartetes Ergebnis:
+        Die Bit-Struktur im Teilattribut VehicleSpecificCharacteristics.FutureCharacteristics ist korrekt gesetzt:
+        SS = 01'B OOO = 001'B
+
+    *   Das Teilattribut
+        VehicleSpecificCharacteristics.
+        FutureCharacteristics                      hat die Bit-Struktur FSSOOOPP und muss für die Bit-Struktur SSOOO wie folgt belegt werden mit:
+        SS – cO2Scheme, muss mit 01'B belegt werden, um die
+        CO
+        2                     -Schemadefinition gemäß EU-Verordnung 2022/362 Artikel 1 (11), der Artikel 7ga in Richtlinie 1999/62 einfügt, zu referenzieren.
+        OOO – cO2Class, muss mit 000'B belegt werden, wenn keine
+        CO
+        2                     -Emissionsklasse zugeordnet werden kann, ansonsten mit den Werten 001'B, 010'B, 011'B, 100'B, 101'B für die
+        CO
+        2                     -Emissionsklassen 1 bis 5.
+
+
+*    *   DSRC\_SFXX\_CO2C\_0012
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann wird mit der Bake eine CCC-2019-Transaktion durchgeführt. Abschließend wird das Bakenlog ausgelesen und überprüft, ob die genannten Bits des Teilattributs
+        VehicleSpecificCharacteristics.                     FutureCharacteristics korrekt gesetzt sind.
+        Erwartetes Ergebnis:
+        Die Bit-Struktur im Teilattribut VehicleSpecificCharacteristics.FutureCharacteristics ist korrekt gesetzt:
+        SS = 01'B OOO = 010'B
+
+    *   Das Teilattribut
+        VehicleSpecificCharacteristics.
+        FutureCharacteristics                      hat die Bit-Struktur FSSOOOPP und muss für die Bit-Struktur SSOOO wie folgt belegt werden mit:
+        SS – cO2Scheme, muss mit 01'B belegt werden, um die
+        CO
+        2                     -Schemadefinition gemäß EU-Verordnung 2022/362 Artikel 1 (11), der Artikel 7ga in Richtlinie 1999/62 einfügt, zu referenzieren.
+        OOO – cO2Class, muss mit 000'B belegt werden, wenn keine
+        CO
+        2                     -Emissionsklasse zugeordnet werden kann, ansonsten mit den Werten 001'B, 010'B, 011'B, 100'B, 101'B für die
+        CO
+        2                     -Emissionsklassen 1 bis 5.
+
+
+*    *   DSRC\_SFXX\_CO2C\_0013
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann wird mit der Bake eine CCC-2019-Transaktion durchgeführt. Abschließend wird das Bakenlog ausgelesen und überprüft, ob die genannten Bits des Teilattributs
+        VehicleSpecificCharacteristics.                     FutureCharacteristics korrekt gesetzt sind.
+        Erwartetes Ergebnis:
+        Die Bit-Struktur im Teilattribut VehicleSpecificCharacteristics.FutureCharacteristics ist korrekt gesetzt:
+        SS = 01'B OOO = 011'B
+
+    *   Das Teilattribut
+        VehicleSpecificCharacteristics.
+        FutureCharacteristics                      hat die Bit-Struktur FSSOOOPP und muss für die Bit-Struktur SSOOO wie folgt belegt werden mit:
+        SS – cO2Scheme, muss mit 01'B belegt werden, um die
+        CO
+        2                     -Schemadefinition gemäß EU-Verordnung 2022/362 Artikel 1 (11), der Artikel 7ga in Richtlinie 1999/62 einfügt, zu referenzieren.
+        OOO – cO2Class, muss mit 000'B belegt werden, wenn keine
+        CO
+        2                     -Emissionsklasse zugeordnet werden kann, ansonsten mit den Werten 001'B, 010'B, 011'B, 100'B, 101'B für die
+        CO
+        2                     -Emissionsklassen 1 bis 5.
+
+
+*    *   DSRC\_SFXX\_CO2C\_0014
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann wird mit der Bake eine CCC-2019-Transaktion durchgeführt. Abschließend wird das Bakenlog ausgelesen und überprüft, ob die genannten Bits des Teilattributs
+        VehicleSpecificCharacteristics.                     FutureCharacteristics korrekt gesetzt sind.
+        Erwartetes Ergebnis:
+        Die Bit-Struktur im Teilattribut VehicleSpecificCharacteristics.FutureCharacteristics ist korrekt gesetzt:
+        SS = 01'B OOO = 100'B
+
+    *   Das Teilattribut
+        VehicleSpecificCharacteristics.
+        FutureCharacteristics                      hat die Bit-Struktur FSSOOOPP und muss für die Bit-Struktur SSOOO wie folgt belegt werden mit:
+        SS – cO2Scheme, muss mit 01'B belegt werden, um die
+        CO
+        2                     -Schemadefinition gemäß EU-Verordnung 2022/362 Artikel 1 (11), der Artikel 7ga in Richtlinie 1999/62 einfügt, zu referenzieren.
+        OOO – cO2Class, muss mit 000'B belegt werden, wenn keine
+        CO
+        2                     -Emissionsklasse zugeordnet werden kann, ansonsten mit den Werten 001'B, 010'B, 011'B, 100'B, 101'B für die
+        CO
+        2                     -Emissionsklassen 1 bis 5.
+
+
+*    *   DSRC\_SFXX\_CO2C\_0015
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann wird mit der Bake eine CCC-2019-Transaktion durchgeführt. Abschließend wird das Bakenlog ausgelesen und überprüft, ob die genannten Bits des Teilattributs
+        VehicleSpecificCharacteristics.                     FutureCharacteristics korrekt gesetzt sind.
+        Erwartetes Ergebnis:
+        Die Bit-Struktur im Teilattribut VehicleSpecificCharacteristics.FutureCharacteristics ist korrekt gesetzt:
+        SS = 01'B OOO = 101'B
+
+    *   Das Teilattribut
+        VehicleSpecificCharacteristics.
+        FutureCharacteristics                      hat die Bit-Struktur FSSOOOPP und muss für die Bit-Struktur SSOOO wie folgt belegt werden mit:
+        SS – cO2Scheme, muss mit 01'B belegt werden, um die
+        CO
+        2                     -Schemadefinition gemäß EU-Verordnung 2022/362 Artikel 1 (11), der Artikel 7ga in Richtlinie 1999/62 einfügt, zu referenzieren.
+        OOO – cO2Class, muss mit 000'B belegt werden, wenn keine
+        CO
+        2                     -Emissionsklasse zugeordnet werden kann, ansonsten mit den Werten 001'B, 010'B, 011'B, 100'B, 101'B für die
+        CO
+        2                     -Emissionsklassen 1 bis 5.
+
+
+*    *   DSRC\_SFXX\_CO2S\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann wird mit der Bake eine CCC-2019-Transaktion durchgeführt. Abschließend wird das Bakenlog ausgelesen und überprüft, ob die genannten Bits des Teilattributs
+        VehicleSpecificCharacteristics.                     FutureCharacteristics korrekt gesetzt sind.
+        Erwartetes Ergebnis:
+        Die Bits im Teilattribut
+        VehicleSpecificCharacteristics.                     FutureCharacteristics sind korrekt gesetzt:
+        PP = 00'B
+
+    *   Optionaler Testfall:
+        Das Teilattribut
+        VehicleSpecificCharacteristics.
+        FutureCharacteristics                      hat die Bit-Struktur FSSOOOPP und die Teilstruktur PP kann wie folgt belegt werden mit:
+
+        –   PP – suspensionType –
+            Die Komponente sollte korrekt nach folgenden Vorgaben belegt werden, wird durch den Mauterheber jedoch derzeit nicht ausgewertet:
+
+
+        –   00'B – means information is not available,
+
+
+        –   01'B – means the vehicle uses air suspensions,
+
+
+        –   10'B – means the vehicle uses hydraulic suspensions,
+
+
+        –   11'B – means the vehicle uses electric suspensions.
+
+
+
+        Dieser Testfall soll nachweisen,
+        dass die Komponente PP nach geeigneter Personalisierung des DUT den Wert 00'B hat.
+
+
+*    *   DSRC\_SFXX\_CO2S\_0011
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann wird mit der Bake eine CCC-2019-Transaktion durchgeführt. Abschließend wird das Bakenlog ausgelesen und überprüft, ob die genannten Bits des Teilattributs
+        VehicleSpecificCharacteristics.                     FutureCharacteristics korrekt gesetzt sind.
+        Erwartetes Ergebnis:
+        Die Bits im Teilattribut
+        VehicleSpecificCharacteristics.                     FutureCharacteristics sind korrekt gesetzt:
+        PP = 01'B
+
+    *   Optionaler Testfall:
+        Das Teilattribut
+        VehicleSpecificCharacteristics.
+        FutureCharacteristics                      hat die Bit-Struktur FSSOOOPP und die Teilstruktur PP kann wie folgt belegt werden mit:
+
+        –   PP – suspensionType –
+            Die Komponente sollte korrekt nach folgenden Vorgaben belegt werden, wird durch den Mauterheber jedoch derzeit nicht ausgewertet:
+
+
+        –   00'B – means information is not available;
+
+
+        –   01'B – means the vehicle uses air suspensions
+
+
+        –   10'B – means the vehicle uses hydraulic suspensions
+
+
+        –   11'B – means the vehicle uses electric suspensions.
+
+
+
+        Dieser Testfall soll nachweisen,
+        dass die Komponente PP nach geeigneter Personalisierung des DUT den Wert 01'B hat.
+
+
+*    *   DSRC\_SFXX\_CO2S\_0012
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann wird mit der Bake eine CCC-2019-Transaktion durchgeführt. Abschließend wird das Bakenlog ausgelesen und überprüft, ob die genannten Bits des Teilattributs
+        VehicleSpecificCharacteristics.                     FutureCharacteristics korrekt gesetzt sind.
+        Erwartetes Ergebnis:
+        Die Bits im Teilattribut
+        VehicleSpecificCharacteristics.                     FutureCharacteristics sind korrekt gesetzt:
+        PP = 10'B
+
+    *   Optionaler Testfall:
+        Das Teilattribut
+        VehicleSpecificCharacteristics.
+        FutureCharacteristics                      hat die Bit-Struktur FSSOOOPP und die Teilstruktur PP kann wie folgt belegt werden mit:
+
+        –   PP – suspensionType –
+            Die Komponente sollte korrekt nach folgenden Vorgaben belegt werden, wird durch den Mauterheber jedoch derzeit nicht ausgewertet:
+
+
+        –   00'B – means information is not available;
+
+
+        –   01'B – means the vehicle uses air suspensions
+
+
+        –   10'B – means the vehicle uses hydraulic suspensions
+
+
+        –   11'B – means the vehicle uses electric suspensions.
+
+
+
+        Dieser Testfall soll nachweisen,
+        dass die Komponente PP nach geeigneter Personalisierung des DUT den Wert 10'B hat.
+
+
+*    *   DSRC\_SFXX\_CO2S\_0013
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann wird mit der Bake eine CCC-2019-Transaktion durchgeführt. Abschließend wird das Bakenlog ausgelesen und überprüft, ob die genannten Bits des Teilattributs
+        VehicleSpecificCharacteristics.                     FutureCharacteristics korrekt gesetzt sind.
+        Erwartetes Ergebnis:
+        Die Bits im Teilattribut
+        VehicleSpecificCharacteristics.                     FutureCharacteristics sind korrekt gesetzt:
+        PP = 11'B
+
+    *   Optionaler Testfall:
+        Das Teilattribut
+        VehicleSpecificCharacteristics.
+        FutureCharacteristics                      hat die Bit-Struktur FSSOOOPP und die Teilstruktur PP kann wie folgt belegt werden mit:
+
+        –   PP – suspensionType –
+            Die Komponente sollte korrekt nach folgenden Vorgaben belegt werden, wird durch den Mauterheber jedoch derzeit nicht ausgewertet:
+
+
+        –   00'B – means information is not available;
+
+
+        –   01'B – means the vehicle uses air suspensions
+
+
+        –   10'B – means the vehicle uses hydraulic suspensions
+
+
+        –   11'B – means the vehicle uses electric suspensions.
+
+
+
+        Dieser Testfall soll nachweisen,
+        dass die Komponente PP nach geeigneter Personalisierung des DUT den Wert 11'B hat.
+
+
+*    *   DSRC\_SFXX\_FXXX\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann wird mit der Bake eine CCC-2019-Transaktion durchgeführt. Abschließend wird das Bakenlog ausgelesen und überprüft, ob die genannten Bits des Teilattributs
+        VehicleSpecificCharacteristics.                     FutureCharacteristics korrekt gesetzt sind.
+        Erwartetes Ergebnis:
+        Die Bits im Teilattribut
+        VehicleSpecificCharacteristics.                     FutureCharacteristics sind korrekt gesetzt:
+
+        –   F = 0'B oder 1'B
+
+
+
+
+    *   Optionaler Testfall:
+        Das Teilattribut
+        VehicleSpecificCharacteristics.
+        FutureCharacteristics                      hat die Bit-Struktur FSSOOOPP und kann wie folgt belegt werden mit:
+
+        –   F – futureElement, kann mit 0'B
+            oder 1'B belegt werden
+
+
+
+        Der Testfall soll nachweisen, dass die Komponente F korrekt belegt ist, sofern der EETS-Anbieter die Belegung dieses Datenelements unterstützt.
+
+
+*    *   DSRC\_SFXX\_TSPS\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann wird mit der Bake eine CCC-2019-Transaktion durchgeführt. Danach wird das Bakenlog ausgelesen und die tspStatus-Werte extrahiert. Abschließend wird überprüft, ob die tspStatus-Werte und ihre Bedeutung inhaltlich zum jeweiligen Statuswechsel passen.
+        Erwartetes Ergebnis:
+        Alle gefundenen tspStatus haben in Bezug auf den jeweiligen Statuswechsel einen plausiblen Wert gemäß EETS-Anbieterspezifikation.
+
+    *   Optionaler Testfall:
+        Die Attribute UserConfirmation, ExtendedOBUStatusHistoryPart1 und ExtendedOBUStatusHistoryPart2 haben jeweils tspStatus-Teilattribute, die bei Statuswechsel einen EETS-Anbieterspezifischen Statuscode enthalten können. Die Bedeutung der tspStatus-Werte kann von jedem EETS-Anbieter frei festgelegt werden und laut Gebietsvorgaben kann der Mauterheber den Mautdienstanbieter ersuchen, die Bedeutung einer speziellen Belegung des Datenelements zu erläutern.
+        Der Testfall soll den tspStatus-Wert auslesen und dieser soll in Bezug auf den durchgeführten Statuswechsel einen plausiblen Grund gemäß EETS-Anbieterspezifikation aufzeigen.
+
+
+*    *   DSRC\_SFXX\_VSDE\_0000
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann wird mit der Bake eine CCC-2019-Transaktion durchgeführt das Bakenlog ausgelesen und überprüft, ob der Wert des Teilattributs
+        VehicleSpecificCharacteristics.                     descriptiveCharacteristics den vorgegebenen Wert hat.
+        Erwartetes Ergebnis:
+        Das Teilattribut
+        VehicleSpecificCharacteristics.                     descriptiveCharacteristics hat jeweils den vorgegebenen Wert.
+        Optional:
+        Falls ein Dienstanbieter das Teilattribut fachlich nutzt, so wird eine manuelle Prüfung auf korrekte Belegung durchgeführt und dies im Testreport dokumentiert.
+
+    *   Optionaler Testfall:
+        Das Teilattribut
+        VehicleSpecificCharacteristics.
+        descriptiveCharacteristics                      kann optional durch den Dienstanbieter belegt werden.
+        Dieser Testfall soll nachweisen, dass die Komponente descriptiveCharacteristics nach geeigneter Personalisierung des DUT den Wert 0 hat.
+        Dieser Testfall soll prüfen, ob der Parameter descriptiveCharacteristics dem in der Konfigurationsmatrix der OBU vorgegebenen Wert entspricht.
+
+
+*    *   DSRC\_SFXX\_VSEE\_0000
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist.
+        Für die Werte 0 (Minimalwert), 2 (Zwischenwert), 7 (Maximalwert) und 15 (Zusatzwert) wird jeweils
+
+        –   der Tester aufgefordert, eine
+            geeignete personalisierte OBU vor der Testbake zu
+            positionieren
+
+
+        –   mit der Bake eine CCC-2019-Transaktion durchgeführt
+
+
+        –   das Bakenlog ausgelesen
+            und überprüft, ob der Wert des Teilattributs Vehicle
+            SpecificCharacteristics.
+            environmentalCharacteristics.                           euroValue den vorgegebenen Wert hat.
+
+
+
+        Erwartetes Ergebnis:
+        Das Teilattribut
+        VehicleSpecificCharacteristics.environmentalCharacteristics.euroValue hat jeweils den vorgegebenen Wert.
+
+    *   Das Teilattribut
+        VehicleSpecificCharacteristics.
+        environmentalCharacteristics.
+        euroValue                      kann mit Werten von 0 bis 7 einschließlich, sowie 15 belegt werden.
+        Dieser Testfall soll exemplarisch anhand einiger Werte nachweisen, dass die OBU den gültigen Wertebereich unterstützt.
+
+
+*    *   DSRC\_SFXX\_VSEN\_0000
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Für die Werte 0 (Minimalwert), 28 (Zwischenwert), 52 (Maximalwert) und 255 (Zusatzwert) wird jeweils
+
+        –   der Tester aufgefordert, eine
+            geeignete personalisierte OBU vor der Testbake zu
+            positionieren
+
+
+        –   mit der Bake eine CCC-2019-Transaktion durchgeführt
+
+
+        –   das Bakenlog ausgelesen und überprüft, ob der Wert des Teilattributs Vehicle
+            SpecificCharacteristics.
+            engineCharacteristics                            den vorgegebenen Wert hat.
+
+
+
+        Erwartetes Ergebnis:
+        Das Teilattribut
+        VehicleSpecificCharacteristics.engineCharacteristics hat jeweils den vorgegebenen Wert.
+
+    *   Optionaler Testfall:
+        Das Teilattribut
+        VehicleSpecificCharacteristics.
+        engineCharacteristics                      kann durch den Dienstanbieter optional mit Werten von 0 bis einschließlich 52 und 255 belegt werden. Dieser Testfall soll exemplarisch anhand einiger Werte nachweisen, dass die OBU den gültigen Wertebereich unterstützt.
+
+
+*    *   DSRC\_SFXX\_GNSS\_0000
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann wird mit der Bake eine CCC-2019-Transaktion durchgeführt. Abschließend wird das Bakenlog ausgelesen und überprüft, ob das Attribut korrekt geparst werden kann, ob die GPS-Position der tatsächlichen OBU-Position entspricht und die letzte Aktualisierung höchstens 60 Sekunden vor der Transaktion erfolgt ist.
+        Erwartetes Ergebnis:
+        Das Attribut hat die richtige Länge und kann geparst werden, die GPS-Position laut Attribut entspricht den GPS-Koordinaten des Testlabors und die letzte Aktualisierung liegt höchstens 60 Sekunden zurück.
+
+    *   Die Attributdefinition hat sich in den letzten Versionen der Norm (ISO FDIS 12813) mehrfach geändert. Es ist möglich, dass es dadurch bei der Implementierung des Attributs bei den OBU-Lieferanten zu Fehlern gekommen ist.
+        Die gültige Version basiert auf ISO FDIS 12813:2023. Der Testfall soll nachweisen, dass
+
+        –   die Kodierung des Attributs
+            gemäß PER (packed encoding rules) korrekt umgesetzt wurde, andernfalls ob die akzeptierte Umsetzung gemäß dem legacy encoding korrekt implementiert ist
+
+
+        –   die OBU die GPS-Position
+            korrekt setzt
+
+
+        –   die OBU das Attribut im vorgesehenen Zeitrahmen aktualisiert
+
+
+
+
+
+*    *   DSRC\_SFXX\_HISN\_0012
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen, dass die OBU kommunikationsbereit ist. Dann wird der Tester aufgefordert, die OBU in den Zustand 2-„noGoContractual“ zu versetzen. Dazu muss evtl. Unterstützung vom Dienstanbieter angefordert werden.
+        Mit der Bake wird eine CCC-2019-Transaktion durchgeführt. Abschließend wird das Bakenlog ausgelesen und überprüft, ob im Attribut ExtendedOBUStatusHistoryPart1 bzw. ExtendedOBUStatusHistoryPart2 der StatusIndicator korrekt gesetzt ist.
+        Erwartetes Ergebnis:
+        Der Status 2-„noGoContractual“ wurde erreicht.
+
+    *   Der StatusIndicator im Attribut ExtendedOBUStatusHistoryPart1 und ExtendedOBUStatusHistoryPart2 zeigt an, ob die OBU erhebungsbereit ist bzw. welche Art von Störung vorliegt. Dieser Testfall soll zeigen, dass der Wert des StatusIndicators unter den passenden Umständen den Wert 2-„noGoContractual“ annimmt.
+
+
+
+**3 P1-KTD-002: Fachliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation**
 
 
 *    *   Name/ID
@@ -8296,168 +6851,155 @@ Die Prüffälle werden unterschieden in Bezug auf die Version der Schnittstellen
 
 *    *   AutoKST\_SVF\_FG06AV
 
-    *   Fahrzeuggeräte von neuen EETS-Providern durchlaufen eine Gebrauchstauglichkeitsprüfung (GTP). Im Rahmen der Kompatibilitätstests wird die Umsetzung der funktionalen Anforderungen an die EETS-Fahrzeuggeräte in einem E2E-Szenario überprüft.
+    *   Fahrzeuggeräte von neuen EETS-Anbietern durchlaufen eine Gebrauchstauglichkeitsprüfung (GTP). Im Rahmen der Kompatibilitätstests wird die Umsetzung der funktionalen Anforderungen an die EETS-Fahrzeuggeräte in einem E2E-Szenario überprüft.
         In diesem Testfall wird die Erzeugung der Fallgruppe 6 (Falschdeklarierer) mit einem Test-FzG überprüft. Ein Test-FzG wird im Test-LKW (mit Anhänger) benutzt und auf eine geringere Achszahl bzw. Gewichtsklasse personalisiert, als der Test-LKW inklusive Anhänger tatsächlich besitzt. Bei einer Durchfahrt unter der Test-Kontrollstelle wird überprüft, ob die Test-Kontrollstelle gemäß aktuellem Tarifparametermodell einen Falschdeklarier erkennt.
-        Für die Kommunikation mit den EETS-Fahrzeuggeräten müssen die Kontrollstellen neben der Gebietsvorgaben V2.1/2.2 auch die Vorgaben der Version 3.0/3.1 unterstützen. Anhand der ContextMark kann die Kontrollstelle entscheiden, ob die weitere Kommunikation nach den neuen Gebietsvorgaben 3.0/3.1 zu erfolgen hat oder nicht.
 
     *   Ein Test-LKW mit Test-FzG, aber unzureichend deklarierter Achsklasse und/oder Gewichtsklasse erzeugt eine Fallgruppe 6 (Falschdeklarierer).
-        Korrekte und vollständige DSRC-Daten (gemäß SST-Spezifikation 301 Version 3.0/3.1).
+        Korrekte und vollständige DSRC-Daten
+        (gemäß SST-Spezifikation 301).
 
 
 *    *   AutoKST\_SVF\_ FG06AV\_2xFzG
 
     *   Der Testfall prüft ein häufig im Pilotbetrieb auftretendes Szenario:
-        Ein mautpflichtiges Fahrzeug ist mit einem Fahrzeuggerät (FzG\_1) des EETS-Anbieters sowie einem zweiten deaktivierten/gesperrten Fahrzeuggerät (FzG\_2) eines weiteren Anbieters ausgestattet. Um einen Kontrollfall inklusive DSRC-Daten zu erzeugen, wird das Szenario in Form eines Falschdeklarierers durchgeführt.
-        FzG\_1 und FzG\_2 werden im Test-LKW (mit Anhä̈nger) positioniert. FzG\_1 wird auf eine geringere Achszahl bzw. Gewichtsklasse deklariert, als der Test-LKW inklusive Anhänger tatsächlich besitzt. FzG\_2 befindet sich im Status NOK (gesperrt/deaktiviert).
-        Für die Kommunikation mit den EETS-Fahrzeuggeräten müssen die Kontrollstellen neben der Gebietsvorgaben V2.1/2.2 auch die Vorgaben der Version 3.0/3.1 unterstützen.
-        Anhand der ContextMark kann die Kontrollstelle entscheiden, ob die weitere Kommunikation nach den neuen Gebietsvorgaben 3.0/3.1 zu erfolgen hat oder nicht.
+        Ein mautpflichtiges Fahrzeug ist mit einem Fahrzeuggerät (FzG\_1) des EETS-Anbieters sowie einem zweiten deaktivierten/gesperrten Fahrzeuggerät (FzG\_2) eines weiteren Anbieters ausgestattet. Um einen Kontrollfall inklusive DSRC-Daten zu erzeugen, wird das Szenario in Form eines Falschdeklarierers durchgeführt. FzG\_1 und FzG\_2 werden im Test- LKW (mit Anhänger) positioniert. FzG\_1 wird auf eine geringere Achszahl bzw. Gewichtsklasse deklariert, als der Test-LKW inklusive Anhänger tatsächlich besitzt. FzG\_2 befindet sich im Status NOK (gesperrt/deaktiviert).
 
     *   Ein Test-LKW mit falsch deklariertem Test-FzG (FzG\_1) und einem weiteren FzG (FzG\_2) im Status NOK erzeugt einen Verdachtsfall der Fallgruppe 6 (Falschdeklarierer).
         Die DSRC-Daten beider Fahrzeuggeräte werden korrekt und vollständig übertragen, wobei ausschließlich eine Auffälligkeit des im Rahmen der Gebrauchstauglichkeitsprüfung zu testenden EETS-Fahrzeuggeräts (FzG\_1) zum Fehlschlagen des Testfalls führen kann.
-        Kommunikation gemäß SST-Spezifikation 301 (Version 3.0/3.1).
+        Kommunikation gemäß SST-Spezifikation 301.
 
 
-*    *   AutoKST\_SVF\_FG07\_
-        mautfreier\_Modus
+*    *   AutoKST\_SVF\_FG07\_ mautfreier\_Modus
 
-    *   Fahrzeuggeräte von neuen EETS-Providern durchlaufen eine Gebrauchstauglichkeitsprüfung (GTP). Im Rahmen der Kompatibilitätstests wird die Umsetzung der funktionalen Anforderungen an die EETS-Fahrzeuggeräte in einem E2E-Szenario überprüft.
-        In diesem Testfall wird die Erzeugung der Fallgruppe 7 mit einem Test-FzG überprüft.
-        Ein Test-FzG wird im Test-LKW (mit Anhänger) angeschlossen. Anschließend wird das Test-FzG so eingestellt, dass das Fahrzeug damit im Gebiet BFstrMG nicht mautpflichtig ist.
-        Bei der Durchfahrt an der Kontrollstelle wird überprüft ob die Kontrollstelle eine FG7 erkennt.
-        Für die Kommunikation mit den EETS-Fahrzeuggeräten müssen die Kontrollstellen neben der Gebietsvorgaben V2.1/2.2 auch die Vorgaben der Version 3.0 unterstützen.
-        Anhand der ContextMark kann die Kontrollstelle entscheiden, ob die weitere Kommunikation nach den neuen Gebietsvorgaben
-        3\.0/3.1 zu erfolgen hat oder nicht.
+    *   In diesem Testfall wird die Erzeugung der Fallgruppe 7 mit einem Test-FzG überprüft.
+        Ein Test-FzG wird im Test-LKW (mit Anhänger) angeschlossen. Anschließend wird das Test-FzG so eingestellt, dass das Fahrzeug damit im Gebiet BFStrMG nicht mautpflichtig ist.
+        Bei der Durchfahrt an der Kontrollstelle wird überprüft, ob die Kontrollstelle eine FG7 erkennt.
 
     *   Ein Test-LKW mit Test-FzG, welches sich im mautfreien Modus befindet, erzeugt eine Fallgruppe 7.
 
-        •   Auswertung nach SST 301 v.3.0/3.1 durch
-            Attribut ExtendedOBUStatusHistoryPart1.
-
-
-        •   Korrekte und vollständige DSRC-Daten (gemäß SST-Spezifikation 301 Version 3.0/3.1).
+        –   Auswertung nach SST 301
+            durch Attribut ExtendedOBUStatusHistoryPart1.
 
 
 
+        Korrekte und vollständige
+        DSRC-Daten
+        (gemäß SST-Spezifikation 301).
 
 
 *    *   AutoKST\_SVF\_FG12
 
-    *   Fahrzeuggeräte von neuen EETS-Providern durchlaufen eine Gebrauchstauglichkeitsprüfung (GTP). Im Rahmen der Kompatibilitätstests wird die Umsetzung der funktionalen Anforderungen an die EETS-Fahrzeuggeräte in einem E2E-Szenario überprüft.
-        In diesem Testfall wird die Erzeugung der Fallgruppe 12 mit einem Test-FzG überprüft. Der Test-LKW dessen Test-FzG mit dem Status "gesperrt" eingesetzt ist, passiert die Kontrollstelle. Die DSRC-Daten aus dem Test-FzG werden von der Test-Kontrollstelle ausgelesen. Der Status "gesperrt" wird festgestellt und die Test-Kontrollstelle erzeugt einen Verdachtsfall der Fallgruppe 12. Dieser wird anschließend an die Test-KonZ\_2.0 gesendet.
-        Für die Kommunikation mit den EETS-Fahrzeuggeräten müssen die Kontrollstellen neben der Gebietsvorgaben V2.1/2.2 auch die Vorgaben der Version 3.0/3.1 unterstützen.
-        Anhand der ContextMark kann die Kontrollstelle entscheiden, ob die weitere Kommunikation nach den neuen Gebietsvorgaben
-        3\.0/3.1 zu erfolgen hat oder nicht.
+    *   In diesem Testfall wird die Erzeugung der Fallgruppe 12 mit einem Test-FzG überprüft. Der Test-LKW, dessen Test-FzG mit dem Status „gesperrt“ eingesetzt ist, passiert die Kontrollstelle. Die DSRC-Daten aus dem Test-FzG werden von der
+        Test-Kontrollstelle                      ausgelesen. Der Status „gesperrt“
+        wird festgestellt und die Test-Kontrollstelle erzeugt einen Verdachtsfall der Fallgruppe 12. Dieser wird anschließend an die Test-KonZ\_2.0 gesendet.
 
-    *   Ein LKW mit einem eingebauten FzG, welches gesperrt ist, erzeugt eine FG 12
-        Auswertung nach SST 301 v.3.0/3.1 durch Attribut ExtendedOBUStatusHistoryPart1: FzG-Status
-        "noGoContractual" oder "noGoPaymentMeans" (Parameter entsprechen der jeweiligen Testkonfiguration)".
-
-        •   Korrekte und vollständige DSRC-Daten
-            (gemäß SST-Spezifikation 301 Version 3.0/3.1).
-
-
-
+    *   Ein LKW mit einem eingebauten FzG, welches gesperrt ist, erzeugt eine FG-12-Auswertung nach SST 301 durch Attribut ExtendedOBUStatusHistoryPart1:
+        FzG-Status „noGoContractual“
+        oder
+        „noGoPaymentMeans“
+        (Parameter entsprechen der jeweiligen Testkonfiguration).
+        Korrekte und vollständige
+        DSRC-Daten
+        (gemäß SST-Spezifikation 301).
 
 
 *    *   AutoKST\_SVF\_FG16
 
-    *   Fahrzeuggeräte von neuen EETS-Providern durchlaufen eine Gebrauchstauglichkeitsprüfung (GTP). Im Rahmen der Kompatibilitätstests wird die Umsetzung der funktionalen Anforderungen an die EETS-Fahrzeuggeräte in einem E2E-Szenario überprüft.
-        Der Test-LKW befindet sich im automatischen Verfahren. Das Test-FzG wurde den Klassifikationsdaten entsprechend des Test-LKWs oder höher (Überzahler) konfiguriert.
-        Der Test-LKW passiert die Test-Kontrollstelle, der DSRC-Datensatz aus dem Test-FzG wird ausgelesen.
-        Die Test-Kontrollstelle entscheidet aufgrund der deklarierten Parameter und der Sensorikdaten auf FG16.
+    *   Der Test-LKW befindet sich im automatischen Verfahren. Das Test-FzG wurde den Klassifikationsdaten entsprechend des Test-LKWs oder höher (Überzahler) konfiguriert.
+        Der Test-LKW passiert die Test-Kontrollstelle, der DSRC-Datensatz aus dem Test-FzG wird ausgelesen. Die Test-Kontrollstelle entscheidet aufgrund der deklarierten Parameter und der Sensorikdaten auf FG16.
         Der Fall wird nicht an die KonZ\_2.0 verschickt und in der Test-Kontrollstelle gelöscht.
 
-    *   Ein Test-LKW mit korrekt eingestelltem Test-FzG erzeugt die FG16 (Gutzahler AV).
-        Korrekte und vollständige DSRC-Daten (gemäß SST-Spezifikation 301 Version 3.0/3.1).
+    *   Ein Test-LKW mit korrekt eingestelltem Test-FzG erzeugt die FG16
+        (Gutzahler AV).
+        Korrekte und vollständige
+        DSRC-Daten
+        (gemäß SST-Spezifikation 301).
         Die Falldaten werden nicht an die KonZ\_2.0 verschickt und in der Test-Kontrollstelle gelöscht.
 
 
-*    *   AutoKST\_
-        Verifikation\_EETS\_
-        Masterkey
+*    *   AutoKST\_ Verifikation\_
+        EETS\_ Masterkey
 
-    *   Fahrzeuggeräte von neuen EETS-Providern durchlaufen eine Gebrauchstauglichkeitsprüfung (GTP). Im Rahmen des Kompatibilitätstests wird die Umsetzung der funktionalen Anforderungen an die EETS-Fahrzeuggeräte in einem E2E-Szenario überprüft.
-        In diesem Testfall wird der neu aufgespielte EETS-Masterkey auf der dezentralen Komponente (KonAu/KonSL) verifiziert.
+    *   In diesem Testfall wird der neu aufgespielte EETS-Masterkey auf der dezentralen Komponente (KonAu/KonSL) verifiziert.
 
     *   Ein Test-LKW mit einem Test-FzG des EETS-Anbieters passiert als Gutzahler die Kontrollstelle.
-        DSRC-Daten werden vollständig erfasst und entschlüsselt (gemäß SST-Spezifikation 301 Version 3.0/3.1).
+        DSRC-Daten werden vollständig erfasst und entschlüsselt
+        (gemäß SST-Spezifikation 301).
+
+
+*    *   FzG\_Parameter\_Eingabe
+
+    *   Variable Fahrzeugparameter dürfen während der Fahrt (am Fahrzeuggerät selbst oder über eine App auf einem mit dem Fahrzeuggerät verbundenen Mobilgerät) nicht geändert werden. In diesem Testfall wird geprüft, ob das Test-Fahrzeuggerät eine Anpassung der variablen Fahrzeugparameter während der Fahrt unterbindet.
+
+    *   Anpassung der variablen Fahrzeugparameter während der Fahrt nicht mehr möglich.
 
 
 *    *   KonB\_DezKst\_SVF\_FG
 
-    *   Fahrzeuggeräte von neuen EETS-Providern durchlaufen eine Gebrauchstauglichkeitsprüfung (GTP). Im Rahmen der Kompatibilitätstests wird die Umsetzung der funktionalen Anforderungen an die EETS-Fahrzeuggeräte in einem E2E-Szenario überprüft.
-        Ein Test-LKW passiert eine Kontrollstelle und ein Verdachtsfall wird angelegt. Dieser Verdachtsfall wird in der KonZ2.0 mit der passenden Fallgruppe gespeichert.
+    *   Ein Test-LKW passiert eine Kontrollstelle und ein Verdachtsfall wird angelegt. Dieser Verdachtsfall wird in der KonZ\_2.0 mit der passenden Fallgruppe gespeichert.
+        Kontrollfall- und Nacherhebungsdaten werden aus der KonZ\_2.0 in die KonB (zunächst aKA) übertragen. Anschließend werden die Daten in die VB übernommen und aufbereitet.
+        Übertragung bis ins SC-OWI sowie die Rückantwort an die KonZ\_2.0 werden überprüft.
 
     *   Sicherstellung, dass der Kontrollfall aus der KonZ\_2.0 korrekt in der KonB ankommt.
         Gewährleistung Interoperabilität Kontrollstelle zu weiterführenden Systemen.
 
 
-*    *
-    *   Kontrollfall- und Nacherhebungsdaten werden aus der KonZ\_2.0 in die KonB (zunächst aKA) übertragen. Anschließend werden die Daten in die VB übernommen und aufbereitet.
-        Übertragung bis ins SC-OWI sowie die Rückantwort an die KonZ\_2.0 werden überprüft.
-
-    *
-
 *    *   KonMa\_auswinken\_VKB
 
-    *   Das Fahrzeug wird ausgewunken. Ein verkürzter Kontrollbericht (VKB, FG19) wird ohne weitere Kontrolle erstellt.
+    *   Das Fahrzeug wird ausgewunken. Ein verkürzter Kontrollbericht
+        (VKB, FG19) wird ohne weitere Kontrolle erstellt.
 
     *   Erfolgreiches Erstellen eines VKB (FG19).
 
 
-*    *   KonMa\_KonZ\_2.0\_
-        Berichte\_weiterverarbeiten\_
-        in\_KonB
+*    *   KonMa\_KonZ\_ Berichte\_
+        weiterverarbeiten\_ in\_KonB
 
     *   Dieser Testfall prüft die Weiterverarbeitung von Kontrollfällen mit einem Kontrollbericht über die KonZ\_2.0 bis in die KonB.
         Die Überprüfung erfolgt für den Kontrollfall, Kontrollfalldaten bzw. die erfassten Beweismittel. Es wird die e-Akte in SC-OWI überprüft.
-        Optional: Die Anreichung der e-Akte mit den zugehörigen DSRC-Daten prüfen.
+        Optional:
+        Die Anreichung der e-Akte mit den zugehörigen DSRC-Daten prüfen.
 
     *   Absicherung der Übermittlung von Fahrzeugkontrollfällen nach SC-OWI.
-        Optional: Absicherung der DSRC-Daten Anreicherung.
+        Optional:
+        Absicherung der DSRC-Daten-Anreicherung.
         Vollständigkeit und inhaltliche Richtigkeit der e-Akte in SC-OWI für Fahrzeugkontrollfälle prüfen.
 
 
 *    *   KonMa\_Mobile\_Kontrolle
 
-    *   Fahrzeuggeräte von neuen EETS-Providern durchlaufen eine Gebrauchstauglichkeitsprüfung (GTP). Im Rahmen der Kompatibilitätstests wird die Umsetzung der funktionalen Anforderungen an die EETS-Fahrzeuggeräte in einem E2E-Szenario überprüft.
-        Aufgrund einer Erweiterung der DSRC-Schnittstelle muss die KonMa mit den DSRC-Formaten Gebietsvorgaben 2.1/2.2 und Gebietsvorgaben 3.0/3.1 umgehen können.
-        In diesem Testfall wird die Auslesung eines EETS-FzGs im Test-LKW mit einer KonMa im Modus mobile Kontrolle durchgeführt.
-        Durchführung einer Mobile-Kontrolle
-        Die entsprechenden Daten des Kontrollfalls bei einer DSRC-/OBE-Auslesung werden vollständig und korrekt angezeigt.
+    *   In diesem Testfall wird die Auslesung eines EETS-FzGs im Test-LKW mit einer KonMa im Modus mobile Kontrolle durchgeführt.
+        Durchführung einer Mobilen Kontrolle. Die entsprechenden Daten des Kontrollfalls bei einer DSRC-/OBE-Auslesung werden vollständig und korrekt angezeigt.
 
     *   Mit der KonMa wird eine Mobile Kontrolle gemäß den Testparametern erfolgreich durchgeführt.
-        Die entsprechenden DSRC-Daten des Kontrollfalls werden vollständig und korrekt angezeigt (gemäß SST-Spezifikation 301 Version 3.0/3.1).
+        Die entsprechenden DSRC-Daten des Kontrollfalls werden vollständig und korrekt angezeigt
+        (gemäß SST-Spezifikation 301).
         Die Fallgruppe wird durch die KonMa korrekt angezeigt.
 
 
-*    *   KonMa\_Standkontrolle\_
-        Start\_KB
+*    *   KonMa\_Standkontrolle\_ Start\_KB
 
-    *   Fahrzeuggeräte von neuen EETS-Providern durchlaufen eine Gebrauchstauglichkeitsprüfung (GTP). Im Rahmen der Kompatibilitätstests wird die Umsetzung der funktionalen Anforderungen an die EETS-Fahrzeuggeräte in einem E2E-Szenario überprüft.
-        Aufgrund einer Erweiterung der DSRC-Schnittstelle muss die KonMa mit den DSRC-Formaten Gebietsvorgaben 2.1/2.2 und Gebietsvorgaben 3.0/3.1 umgehen können.
-        In diesem Testfall wird die Auslesung eines EETS-FzGs im Test-LKW mit einer KonMa im Modus Standkontrolle mit dem Handheld durchgeführt. Das Test-FzG ist so eingestellt, dass das Fahrzeug damit im Gebiet BFstrMG nicht mautpflichtig ist. Bei der Kontrolle wird festgestellt, dass es sich bei dem Fahrzeug um ein mautpflichtiges Fahrzeug handelt und sich demnach eine FG7 (Nichtzahler) ergibt.
+    *   In diesem Testfall wird die Auslesung eines EETS-FzGs im Test-LKW mit einer KonMa im Modus Standkontrolle mit dem Handheld durchgeführt. Das Test-FzG ist so eingestellt, dass das Fahrzeug damit im Gebiet BFStrMG nicht mautpflichtig ist. Bei der Kontrolle wird festgestellt, dass es sich bei dem Fahrzeug um ein mautpflichtiges Fahrzeug handelt und sich demnach eine FG7
+        (Nichtzahler) ergibt.
         Beginnen und Durchführung der Standkontrolle zum Erstellen eines Kontrollberichts.
-        Auslesung der DSRC-Daten mit Handheld
+        Auslesung der DSRC-Daten mit Handheld.
         Abschluss des Kontrollberichts.
 
     *   Mit der KonMa wird eine Standkontrolle gemäß den genannten Testparametern im Szenario erfolgreich gestartet.
-        Die entsprechenden Daten des Kontrollfalls werden vollständig und korrekt angezeigt (gemäß SST-Spezifikation 301 Version 3.0/3.1).
+        Die entsprechenden Daten des Kontrollfalls werden vollständig und korrekt angezeigt
+        (gemäß SST-Spezifikation 301).
         Es wird die Kontrollberichterstellung durchgeführt.
 
 
 *    *   KonZ\_2.0\_DezKst\_SVF
 
-    *   Fahrzeuggeräte von neuen EETS-Providern durchlaufen eine Gebrauchstauglichkeitsprüfung (GTP).
-        Im Rahmen der Kompatibilitätstests wird die Umsetzung der funktionalen Anforderung an die EETS-Fahrzeuggeräte überprüft.
-        Die Test-Kontrollstelle erstellt einen Verdachtsfall und sendet diesen mit den Beweismitteln an die Test-KonZ\_2.0.
-        In der WebGUI wird nach dem KFZ-Kennzeichen selektiert und anhand des von der Test-Kontrollstelle gelesenen Kennzeichens überprüft.
-        In diesem Testfall wird die Verarbeitung eines Verdachtsfalls in der Test-KonZ\_2.0 einer durch die Test-Kontrollstelle durchgeführten Fahrt überprüft.
+    *   Die Test-Kontrollstelle erstellt einen Verdachtsfall und sendet diesen mit den Beweismitteln an die Test-KonZ\_2.0.
+        In der WebGUI wird nach dem KFZ-Kennzeichen selektiert und anhand des von der Test-Kontrollstelle gelesenen Kennzeichens überprüft. In diesem Testfall wird die Verarbeitung eines Verdachtsfalls in der Test-KonZ\_2.0 einer durch die Test-Kontrollstelle durchgeführten Fahrt überprüft.
         Nach der Sachverhaltsfeststellung wird der Verdachtsfall in der Kontrollfallverwaltung verarbeitet, bis der fertige Kontrollfall an das SC-OWI (KonB) exportiert wird.
-        Aufgrund einer Erweiterung der DSRC-Schnittstelle muss die KonZ mit den DSRC-Formaten Gebietsvorgaben 2.1/2.2 und Gebietsvorgaben 3.0/3.1 umgehen können.
 
     *   Überprüfung der korrekten Weiterleitung des Verdachtsfalls von der Kontrollstelle an die KonZ\_2.0.
-        Überprüfung aller relevanten DSRC-Parameter in der Kontrollzentrale (gemäß SST-Spezifikation 301 Version 3.0/3.1).
+        Überprüfung aller relevanten DSRC-Parameter in der Kontrollzentrale
+        (gemäß SST-Spezifikation 301).
 
 
 
@@ -8478,20 +7020,20 @@ dieses vertreten durch das
 ### **Dokumentenhistorie**
 
 
-*    *   **Version**
+*    *   Version
 
-    *   **Datum**
+    *   Datum
 
-    *   **Bearbeiter**
+    *   Bearbeiter
 
-    *   **Bearbeitung / Änderung**
+    *   Bearbeitung/Änderung
 
 
 *    *   0.1
 
     *   17.09.2020
 
-    *   RT
+    *   RT, BAG
 
     *   Erstellung erster unvollständiger Entwurf
 
@@ -8500,7 +7042,7 @@ dieses vertreten durch das
 
     *   30.10.2020
 
-    *   RT
+    *   RT, BAG
 
     *   Überarbeitung nach Vorlage Prüfspezifikation KT MED
 
@@ -8509,7 +7051,7 @@ dieses vertreten durch das
 
     *   04.12.2020
 
-    *   RT
+    *   RT, BAG
 
     *   Überarbeitung nach Vorlage Prüfspezifikation KT MED v1.0, QS und Finalisierung
 
@@ -8518,9 +7060,18 @@ dieses vertreten durch das
 
     *   18.06.2021
 
-    *   RT
+    *   RT, BAG
 
     *   Ergänzung Fahrmanöver MF\_09 und MF\_10 in P1-KTM-001
+
+
+*    *   1.2
+
+    *   01.03.2024
+
+    *   RT, BALM
+
+    *   Redaktionelle Überarbeitung entsprechend der Änderungen im BFStrMG und Umbenennung BAG in BALM
 
 
 
@@ -8694,20 +7245,20 @@ dieses vertreten durch das
 ### **Dokumentenhistorie**
 
 
-*    *   **Version**
+*    *   Version
 
-    *   **Datum**
+    *   Datum
 
-    *   **Bearbeiter**
+    *   Bearbeiter
 
-    *   **Bearbeitung / Änderung**
+    *   Bearbeitung/Änderung
 
 
 *    *   0.1
 
     *   17.09.2020
 
-    *   RT
+    *   RT, BAG
 
     *   Erstellung erster unvollständiger Entwurf
 
@@ -8716,7 +7267,7 @@ dieses vertreten durch das
 
     *   30.10.2020
 
-    *   RT
+    *   RT, BAG
 
     *   Überarbeitung nach Review und Abstimmung mit BAG und TC
 
@@ -8725,9 +7276,18 @@ dieses vertreten durch das
 
     *   04.12.2020
 
-    *   RT
+    *   RT, BAG
 
     *   QS und Finalisierung
+
+
+*    *   1.1
+
+    *   01.03.2024
+
+    *   RT, BALM
+
+    *   Überarbeitung entsprechend der Änderungen des BFStrMG
 
 
 
@@ -8798,7 +7358,7 @@ Die in diesem Prüfkatalog aufgeführten Prüffalle werden durch die Prüfspezif
 
 *    *   P2.001.6
 
-    *   Fahrt mit Fahrzeug unterhalb der Mautpflichtgrenze (< 7,5t)
+    *   Fahrt mit Fahrzeug unterhalb der Mautpflichtgrenze (*                      3,5 t)
 
     *   Durchführung einer Befahrung des mautpflichtigen Streckennetzes mit einem unterhalb der Mautpflichtgrenze deklarierten Bordgerät
 
@@ -8833,7 +7393,7 @@ Die in diesem Prüfkatalog aufgeführten Prüffalle werden durch die Prüfspezif
 
     *   Simulation der Auskehr und Durchführung des Auskehrreportings für die in P2.001 durchgeführten Fahrten
 
-    *   Nachweis, das das Auskehrreporting korrekt und vollständig erfolgt
+    *   Nachweis, dass das Auskehrreporting korrekt und vollständig erfolgt
 
 
 *    *   P2.002.2
@@ -8889,7 +7449,7 @@ Die in diesem Prüfkatalog aufgeführten Prüffalle werden durch die Prüfspezif
 
     *   Störung Bordgerät
 
-    *   Der EA verhindert während einer Fahrt auf dem mautpflichtigen Streckennetz die Übermittlung von Fahrspuren eines Bordgerätes. Die Störung wird > 72h nach Abschluss der Fahrt beseitigt und die aufgezeichneten Fahrspurdaten werden übermittelt. Die technissche Auffälligkeit wird erkannt und an den EA übermittelt.
+    *   Der EA verhindert während einer Fahrt auf dem mautpflichtigen Streckennetz die Übermittlung von Fahrspuren eines Bordgerätes. Die Störung wird > 72h nach Abschluss der Fahrt beseitigt und die aufgezeichneten Fahrspurdaten werden übermittelt. Die technische Auffälligkeit wird erkannt und an den EA übermittelt.
 
     *   Nachweis der Funktionsfähigkeit des Prozesses der Erkennung von Auffälligkeiten von Bordgeräten und der korrekten Interaktion zwischen Mauterheber und EA in diesem Fall.
 
@@ -8898,9 +7458,9 @@ Die in diesem Prüfkatalog aufgeführten Prüffalle werden durch die Prüfspezif
 
     *   Bereitstellung Informationen zu technischem Zustand EETS-Bordgerät über die SST 016
 
-    *   Der Mauterheber stellt über die organisatorische Schnittstelle 016 ein eAnfrage zum technischen Zustand eines Bordgeräts an den EA, welche vom EA beantwortet wird.
+    *   Der Mauterheber stellt über die organisatorische Schnittstelle 016 eine Anfrage zum technischen Zustand eines Bordgeräts an den EA, welche vom EA beantwortet wird.
 
-    *   Nachweis der spezifikationskonformen Bereitstellung von Informatione zum technischen Zustand eines Bordgeräts über die SST 016 durch den EA
+    *   Nachweis der spezifikationskonformen Bereitstellung von Informationen zum technischen Zustand eines Bordgeräts über die SST 016 durch den EA
 
 
 
@@ -8920,16 +7480,16 @@ Die in diesem Prüfkatalog aufgeführten Prüffalle werden durch die Prüfspezif
 
     *   Kontrolle von Bordgeräten vor und nach Sperrlisteneintrag
 
-    *   Es werden zwei Befahrungen des mautplichtigen Streckennetzes durchgeführt auf welchen jeweils eine automatische Kontrolle erfolgt. Zwischen den beiden Befahrungen wird das Bordgerät gesperrt. Im Rahmen des bei der zweiten Kontrolle entstehenden Verdachtsfalls werden die auf Anfrage des Mauterhebers die Fahrzeug- und Halterdaten über die SST002b vom EA übermittelt
+    *   Es werden zwei Befahrungen des mautpflichtigen Streckennetzes durchgeführt, auf welchen jeweils eine automatische Kontrolle erfolgt. Zwischen den beiden Befahrungen wird das Bordgerät gesperrt. Im Rahmen des bei der zweiten Kontrolle entstehenden Verdachtsfalls werden auf Anfrage des Mauterhebers die Fahrzeug- und Halterdaten über die SST002b vom EA übermittelt.
 
     *   Nachweis der Funktionsfähigkeit des Sperrprozesses der Bordgeräte inklusive der korrekten Aktualisierung der Sperrliste und Übermittlung plausibler Werte über die DSRC-Schnittstelle. Nachweis der Funktionsfähigkeit der Abfrage von Fahrzeug- und Halterdaten über die SST002b im Rahmen des Ahndungsprozesses des Mauterhebers.
 
 
 
     Aktives Fahrzeug: Ein Fahrzeug, das innerhalb des Pilotbetriebs mindestens eine mautpflichtige Befahrung im Mautgebiet BFStrMG durchgeführt hat.
-[^bjne60862001bjne003403123_01_BJNR608620018BJNE003404123]:     Die Erreichung der minimalen Anzahl von aktiven Fahrzeugen ermittelt sich wie folgt: „Summe der aktiven Fahrzeuge (OBU-IDs) über alle Tage des Pilotbetriebs“ / „Tage des Pilotbetriebs“
-[^bjne60862001bjne003403123_02_BJNR608620018BJNE003404123]:     Definition „Gerätetyp“: Eindeutige Kombination aus Hardware und Software eines Bordgeräts. Hinweis: Auslaufende Gerätetypen müssen in der Nutzerreferenzgruppe nicht berücksichtigt werden, wenn der EETS-Anbieter plausibel darlegen kann, dass er sie bis zum Zeitpunkt der Erteilung der endgültigen Betriebserlaubnis aus seiner Flotte entfernt haben wird oder nicht im Mautgebiet BFStrMG einsetzen wird.
-[^bjne60862001bjne003403123_03_BJNR608620018BJNE003404123]: 
+[^bjne60862001bjne003403123_01_BJNR608620018BJNE003405123]:     Die Erreichung der minimalen Anzahl von aktiven Fahrzeugen ermittelt sich wie folgt: „Summe der aktiven Fahrzeuge (OBU-IDs) über alle Tage des Pilotbetriebs“ / „Tage des Pilotbetriebs“
+[^bjne60862001bjne003403123_02_BJNR608620018BJNE003405123]:     Definition „Gerätetyp“: Eindeutige Kombination aus Hardware und Software eines Bordgeräts. Hinweis: Auslaufende Gerätetypen müssen in der Nutzerreferenzgruppe nicht berücksichtigt werden, wenn der EETS-Anbieter plausibel darlegen kann, dass er sie bis zum Zeitpunkt der Erteilung der endgültigen Betriebserlaubnis aus seiner Flotte entfernt haben wird oder nicht im Mautgebiet BFStrMG einsetzen wird.
+[^bjne60862001bjne003403123_03_BJNR608620018BJNE003405123]: 
 
 ## Anlage 4 zur Prüfvereinbarung
 

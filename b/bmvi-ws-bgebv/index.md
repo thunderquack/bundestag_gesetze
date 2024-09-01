@@ -90,53 +90,50 @@ Im Zuständigkeitsbereich des Bundesministeriums für Digitales und Verkehr für
 18. Wasserskiverordnung (WaSkiV),
 
 
-19. Donauschifffahrtspolizeiverordnung (DonauSchPV),
+19. Talsperrenverordnung (TspV),
 
 
-20. Talsperrenverordnung (TspV),
+20. Binnenschiffseichordnung (BinSchEO),
 
 
-21. Binnenschiffseichordnung (BinSchEO),
+21. Schiffsregistergesetz (SchRG),
 
 
-22. Schiffsregistergesetz (SchRG),
+22. Schiffsregisterordnung (SchRegO),
 
 
-23. Schiffsregisterordnung (SchRegO),
+23. Binnenschiffsgüter-Berufszugangsverordnung (BinSchZV),
 
 
-24. Binnenschiffsgüter-Berufszugangsverordnung (BinSchZV),
+24. Seeschifffahrtsstraßenordnung (SeeSchStrO),
 
 
-25. Seeschifffahrtsstraßenordnung (SeeSchStrO),
+25. Verordnung zur Einführung der Schifffahrtsordnung Emsmündung (EmsSchEV),
 
 
-26. Verordnung zur Einführung der Schifffahrtsordnung Emsmündung (EmsSchEV),
+25a. Schifffahrtordnung Emsmündung (EmsSchO),
 
 
-26a. Schifffahrtordnung Emsmündung (EmsSchO),
+25b. Sperr- und Warngebietverordnung (SperrWarnGebV),
 
 
-26b. Sperr- und Warngebietverordnung (SperrWarnGebV),
+26. Seeaufgabengesetz (SeeAufgG),
 
 
-27. Seeaufgabengesetz (SeeAufgG),
+27. Verordnung zu den internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See,
 
 
-28. Verordnung zu den internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See,
+28. See-Sportboot-Verordnung (SeeSpbootV),
 
 
-29. See-Sportboot-Verordnung (SeeSpbootV),
+29. Seelotsgesetz (SeeLG),
 
 
-30. Seelotsgesetz (SeeLG),
-
-
-31. Seelotsenaus- und -fortbildungsverordnung
+30. Seelotsenaus- und -fortbildungsverordnung
     (SeeLAuFV),
 
 
-31a. Seelotseignungsverordnung (SeeLotsEigV),
+31. Seelotseignungsverordnung (SeeLotsEigV),
 
 
 32. Verordnung über das Seelotswesen außerhalb der Reviere (SeelotRevierV),
@@ -1629,7 +1626,6 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
     *   § 1.10 Nummer 2 BinSchStrO
         § 1.10a Nummer 1 RheinSchPV
         § 1.10a Nummer 1MoselSchPV
-        § 1.10 Nummer 5 der Anlage A zur DonauSchPV
         Artikel 32.06 und 33.04 ES-TRIN
 
     *   14,85
@@ -2096,9 +2092,8 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 
     *   **Zulassung von Fahrzeugen und Verbänden, die die festgesetzten Abmessungen oder Abladetiefen überschreiten**
 
-    *   § 1.06 Nummer 2 BinSchStrO
-        § 9.06 Nummer 3 Buchstabe a, §§ 11.01, 11.02 RheinSchPV
-        § 8.01 MoselSchPV
+    *   § 1.06 Nummer 2, § 28.02 Nummer 5 BinSchStrO
+        § 9.06 Nummer 3 Buchstabe a, §§ 11.01, 11.02 RheinSchPV
         § 8.01 MoselSchPV
 
     *
@@ -2143,7 +2138,6 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
     *   § 1.21 Nummer 2 Satz 1 BinSchStrO
         § 1.21 Nummer 1 Satz 2 RheinSchPV
         § 1.21 Nummer 1 Satz 2 MoselSchPV
-        § 1.21 Nummer 2 Anlage A zur DonauSchPV
 
     *   104 – 282
 
@@ -2155,7 +2149,6 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
     *   § 1.23 Satz 1 BinSchStrO
         § 1.23 RheinSchPV
         § 1.23 MoselSchPV
-        § 1.23 Anlage A zur DonauSchPV
         § 16 Absatz 1 TspV
 
     *
@@ -2200,7 +2193,6 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
         BinSchStrO
         § 3.20 Nummer 4 RheinSchPV
         § 3.20 Nummer 4 MoselSchPV
-        § 8.10 Anlage A zur DonauSchPV
 
     *   66,90
 
@@ -2222,8 +2214,6 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
     *   § 3.25 Nummer 3 BinSchStrO
         § 3.25 Nummer 3 RheinSchPV
         § 3.25 Nummer 3 MoselSchPV
-        § 3.27 Nummer 3, § 3.41 Nummer 5
-        DonauSchPV
 
     *   66,90
 
@@ -2235,7 +2225,6 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
     *   § 7.08 BinSchStrO
         § 7.08 RheinSchPV
         § 7.08 MoselSchPV
-        § 8.14 DonauSchPV
 
     *   66,90
 
@@ -2277,8 +2266,6 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
     *   § 1.21 Nummer 2 Satz 1 BinSchStrO
         § 1.21 Nummer 1 Satz 2 RheinSchPV
         § 1.21 Nummer 1 Satz 2 MoselSchPV
-        § 1.21 Nummer 2 Anlage A
-        zur DonauSchPV
 
     *   66,90
 
@@ -2287,13 +2274,9 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 
     *   Erlaubnis zum Gebrauchmachen von bestimmten Lichtern, Flaggen und Tafeln zum Schutz gegen Wellenschlag als Ausnahme
 
-    *   § 3.29 Nummer 2 Buchstabe b
-        BinSchStrO
+    *   § 3.29 Nummer 2 Buchstabe b BinSchStrO
         § 3.29 Nummer 2 Buchstabe b RheinSchPV
-        § 3.29 Nummer 2 Buchstabe b
-        MoselSchPV
-        § 3.48 Nummer 2 Buchstabe b
-        DonauSchPV
+        § 3.29 Nummer 2 Buchstabe b MoselSchPV
 
     *   66,90
 
@@ -2314,10 +2297,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 
     *   § 6.29 Nummer 5 Satz 1 Buchstabe b BinSchStrO
         § 6.29 Buchstabe b RheinSchPV
-        § 6.29 Nummer 2 Buchstabe b
-        MoselSchPV
-        § 6.29 Satz 1 Buchstabe b Anlage A
-        zur DonauSchPV
+        § 6.29 Nummer 2 Buchstabe b MoselSchPV
 
     *
 
@@ -2368,7 +2348,6 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
     *   § 7.07 Nummer 3 BinSchStrO,
         § 7.07 Nummer 3 RheinSchPV
         § 7.07 Nummer 3 MoselSchPV
-        § 7.07 Nummer 3 DonauSchPV
 
     *   55,80
 
@@ -2377,12 +2356,10 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 
     *   den Bestimmungen über den Einsatz von Trägerschiffsleichtern und Verbänden
 
-    *   § 8.04, § 10.14, § 11.03 Nummer 2,
-        § 12.03, § 13.03 Nummer 2,
-        § 14.03 Nummer 1, § 16.03, § 18.03, § 19.03, § 20.14, § 21.03, § 22.03,
-        § 23.03, § 24.03, § 25.03, BinSchStrO
-        § 8.03 RheinSchPV
-        § 8.04 MoselSchPV
+    *   § 8.04, § 10.14, § 11.03 Nummer 3, § 12.03 Nummer 3, § 13.03 Nummer 2,
+        § 14.03 Nummer 1, § 16.03 Satz 1, § 18.03 Nummer 2, § 19.03 Nummer 2, § 20.14 Satz 2, § 21.03 Nummer 4, § 22.03 Nummer 3, § 23.03 Nummer 4, § 24.03 Nummer 3, § 25.03 Nummer 3, § 28.03 Nummer 1 Satz 2 BinSchStrO
+        § 8.03 Nummer 3 RheinSchPV
+        § 8.04 Satz 2 MoselSchPV
 
     *   74,40
 
@@ -2391,10 +2368,9 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 
     *   den Bestimmungen über die Schifffahrt bei Hochwasser
 
-    *   § 10.11 Nummer 3, § 11.11 Nummer 3, § 12.11 Nummer 3, § 13.11 Nummer 1, § 16.11 Nummer 3, § 17.11 Nummer 3 und § 20.11 Nummer 3 BinSchStrO
-        § 10.01 Nummer 5 RheinSchPV
-        § 10.02 Nummer 1 MoselSchPV
-        § 10.01 Nummer 2 DonauSchPV
+    *   § 10.11 Nummer 3, § 11.11 Nummer 6, § 12.11 Nummer 3, § 13.11 Nummer 1 Satz 2, § 16.11 Nummer 3, § 20.11 Nummer 3, § 28.11 Nummer 2 BinSchStrO
+        § 10.01 Nummer 5 Satz 2 RheinSchPV
+        § 10.02 Nummer 1 Buchstabe a Satz 2 MoselSchPV
 
     *   104
 

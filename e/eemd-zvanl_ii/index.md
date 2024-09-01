@@ -2462,7 +2462,10 @@ Die in dieser Anlage enthaltenen Regelungen dienen als Grundlage zur Berechnung 
             R
             KJ, m                              –
             Z
-            KJ, m                             )
+            KJ, m                             ) +
+            NZlgK
+            VP                              \*
+            km
 
 
 
@@ -2491,7 +2494,7 @@ Die in dieser Anlage enthaltenen Regelungen dienen als Grundlage zur Berechnung 
 
         *   =
 
-        *   auf dem Konto des Mauterhebers in Summe wertgestellte Zahlungen in Euro im jeweiligen Kalendermonat
+        *   Auf dem Konto des Mauterhebers in Summe wertgestellte Zahlungen in Euro im jeweiligen Kalendermonat
             m                              des jeweiligen Kalenderjahres
             KJ
 
@@ -2538,20 +2541,47 @@ Die in dieser Anlage enthaltenen Regelungen dienen als Grundlage zur Berechnung 
         *   Vergütungsperiode, für die der Nutzungs- und Zahlungsprovisionssatz angewendet wird
 
 
+    *        *   km
+
+        *   =
+
+        *   Im jeweiligen Kalendermonat
+            m                              des Kalenderjahres
+            KJ                              abgerechnete Fahrleistung
 
 
-    Der Nutzungs- und Zahlungsprovisionssatz für die **Vergütungsperiode 2023 bis 2025 (01.03.2023 bis 31.12.2025)**                    beträgt:
+    *        *   NZlgK
+            VP
+
+        *   =
+
+        *   Vergütung pro abgerechnetem Kilometer Fahrleistung in der Vergütungsperiode
+            VP
+
+
+
+
+    Der Nutzungs- und Zahlungsprovisionssatz für die Vergütungsperiode 2024 bis 2025 (01.09.2024 bis 31.12.2025) beträgt:
 
     *        *   NZlgP
-            2023–2025
-
-        *   = [1,99] %
+            2024–2025                              = [1,23] %
 
 
 
 
-    Wurde beim Mauterheber eine berechtigte Erstattung durch einen Nutzer des EETS-Anbieters beantragt und wurde dieser Antrag durch den Mauterheber positiv beschieden, mindert sich das Nutzungs- und Zahlungsprovisionsentgelt entsprechend. Der Mauterheber teilt dem EETS-Anbieter jeweils bis zum siebten Werktag eines Monats für den vorangegangenen Monat mit, wie viele Anträge auf Erstattung in welcher Höhe (R
+    Die Vergütung pro abgerechnetem Kilometer Fahrleistung für die Vergütungsperiode 2024 bis 2025 (01.09.2024 bis 31.12.2025) beträgt:
+
+
+    *        *   NZlgK
+            2024–2025                              = 0,00076 EUR/km
+
+
+
+    Wurde beim Mauterheber eine berechtigte Erstattung durch einen Nutzer des EETS-Anbieters beantragt und wurde dieser Antrag durch den Mauterheber positiv beschieden, mindert sich das Nutzungs- und Zahlungsprovisionsentgelt entsprechend. Der Mauterheber teilt dem EETS-Anbieter jeweils bis zum siebten Werktag eines Monats für den vorangegangenen Monat mit, wie viele Anträge auf Erstattung in welcher Höhe (
+    R
     KJ, m                   ) positiv beschieden wurden.
+
+    Die abgerechnete Fahrleistung km wird ermittelt auf Basis der aktiven Fahrzeuggeräte gemäß Ziffer 1.2. Dafür werden für den gesamten Betrachtungszeitraum die Tariflängen der abgerechneten Abschnitte in den abschnittsbezogenen Erhebungsdaten dieser Fahrzeuggeräte addiert. Als Zeitpunkt der Befahrung eines mautpflichtigen Abschnitts gilt die entsprechende Regelung in Ziffer 1.2. Von der abgerechneten Fahrleistung wird die Summe der Tariflängen der Abschnitte abgezogen, deren Mautbeträge dem Nutzer des EETS-Anbieters vom Mauterheber im Rahmen eines Erstattungsverfahrens vollständig rückerstattet wurden.
 
     Die Höhe des Nutzungs- und Zahlungsprovisionssatzes wird für die nachfolgende Vergütungsperiode gemäß den Vorgaben in Nummer 2 angepasst.
 
@@ -2686,18 +2716,6 @@ Die in dieser Anlage enthaltenen Regelungen dienen als Grundlage zur Berechnung 
 
     Im Rahmen der regelmäßigen Aktualisierung des Vergütungsmodells zum Ende einer Vergütungsperiode wird der Mauterheber den Entwurf des angepassten EETS-Vergütungsmodells spätestens sechs Kalendermonate vor dem jeweiligen Gültigkeitsbeginn einer neuen Vergütungsperiode an die in Deutschland zugelassenen oder sich im Zulassungsverfahren befindlichen EETS-Anbieter übermitteln. Anschließend übermitteln die EETS-Anbieter innerhalb von vier Kalenderwochen ihre Anmerkungen zum Entwurf an den Mauterheber. Nach Übermittlung der Anmerkungen wird der Mauterheber den EETS-Anbietern im Rahmen eines Anhörungstermins die Änderungen erläutern und den EETS-Anbietern Raum für Fragen und Anmerkungen einräumen. Der Mauterheber prüft die Anmerkungen und die Ergebnisse des Anhörungstermins und überarbeitet ggf. das Vergütungsmodell. Der Mauterheber übermittelt das finale Vergütungsmodell vier Kalendermonate vor dem jeweiligen Gültigkeitsbeginn einer neuen Vergütungsperiode an die EETS-Anbieter.
 
-    Der Mauterheber behält sich vor, dass Vergütungsmodell innerhalb der Laufzeit der Vergütungsperiode 2023 bis 2025 zum 01.09.2024 in Bezug auf zwei Aspekte anzupassen:
-
-    1.  Änderung des Nutzungs- und Zahlungsprovisionsentgelts, sofern sich das Zahlungsprovisionsentgelt beim nationalen Betreiber ändert,
-
-
-    2.  Indexierung des AV-Entgelts, sofern die Berechnung gemäß Nummer 2.1 dieser Anlage eine Erhöhung von mehr als 2,5 % ergibt. Das AV-Entgelt wird in diesem Fall um den Wert erhöht, der den Betrag von 2,5 % übersteigt.
-
-
-
-
-    Sofern der Mauterheber eine Anpassung des Vergütungsmodells zum 01.09.2024 vorsieht, kommt das Verfahren gemäß Nummer 2 Absatz 3 entsprechend zur Anwendung.
-
     Die Überprüfung und Anpassung des EETS-Vergütungsmodells erfolgen in folgenden Bereichen:
 
     1.  Indexierung des AV-Tarifs
@@ -2729,8 +2747,7 @@ Die in dieser Anlage enthaltenen Regelungen dienen als Grundlage zur Berechnung 
     ![banzat_2023_825202_12.jpg](banzat_2023_825202_12.jpg)    bzw.
     ![banzat_2023_825202_13.jpg](banzat_2023_825202_13.jpg)    ) zu
 
-    1.  25 % mit dem vom Statistischen Bundesamt veröffentlichten „Index der durchschnittlichen Bruttomonatsverdienste der vollzeitbeschäftigten Arbeitnehmer nach Wirtschaftszweigen und Quartalen – Deutschland“ – J62 Erbringung von Dienstleistungen der Informationstechnologie, aus der Fachserie 16, Reihe 2.2 (
-        Personal                         ) und
+    1.  25 % mit dem vom Statistischen Bundesamt veröffentlichten „Index der durchschnittlichen Bruttomonatsverdienste: Deutschland, Quartale, Wirtschaftszweige WZ08-62“ und
 
 
     2.  25 % mit dem vom Statistischen Bundesamt veröffentlichten Erzeugerpreisindex für den Wirtschaftszweig „Telekommunikation“ (WZ08-61) (
@@ -2788,6 +2805,10 @@ Die in dieser Anlage enthaltenen Regelungen dienen als Grundlage zur Berechnung 
 
 
 
+    Abweichend zu Ziffer 2.1 Satz 1 erfolgt eine Wertsicherung des AV-Tarifs zum 01.09.2024, sofern die Erhöhung mehr als 2,5 % beträgt. In diesem Fall wird der AV-Tarif um den Wert erhöht, der den Betrag von 2,5 % übersteigt. Die Indexwerte
+
+    ![bgbl1_2024_j02580_0010.jpg](bgbl1_2024_j02580_0010.jpg)
+    werden auf Basis der vom Statistischen Bundesamt für das 2. Quartal 2024 veröffentlichten Statistiken bestimmt, sobald diese vorliegen. Sofern diese Indexwerte nicht rechtzeitig für die Abrechnung ab dem 01.09.2024 zur Verfügung stehen, erfolgt die Bestimmung zum frühestmöglichen Zeitpunkt und eine eventuelle Erhöhung des AV-Tarifs wird rückwirkend ab 01.09.2024 gezahlt.
 
 
 2.2 Prüfung und Bewertung der Entwicklung des EETS in Europa
@@ -2871,7 +2892,7 @@ Die in dieser Anlage enthaltenen Regelungen dienen als Grundlage zur Berechnung 
 
     *        *   B
 
-        *[^f825202_01_BJNR608630018BJNE005101123]
+        *[^f825202_01_BJNR608630018BJNE005102123]
    Aktualisierung der Backoffice-Schnittstellen auf die neue Version des Standards CEN TS 16986:202X (Teil 1)
 
         *   69 414 EUR
@@ -3007,4 +3028,4 @@ Die in dieser Anlage enthaltenen Regelungen dienen als Grundlage zur Berechnung 
 
 
     Das Änderungsvorhaben wird nicht vollständig in der Vergütungsperiode 2021 bis 2023 umgesetzt und als Teil 2 in der nachfolgenden Vergütungsperiode fortgesetzt.
-[^f825202_01_BJNR608630018BJNE005101123]: 
+[^f825202_01_BJNR608630018BJNE005102123]: 
