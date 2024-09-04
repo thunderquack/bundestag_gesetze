@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 813
 
+Geändert durch
+:   Art. 1 V v. 29.8.2024 I Nr. 273
+
 
 ## Eingangsformel
 

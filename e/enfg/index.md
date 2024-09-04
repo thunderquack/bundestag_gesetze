@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2022, 1237, 1272
 
 Zuletzt geändert durch
-:   Art. 5 G v. 26.7.2023 I Nr. 202
-
-Änderung durch
-:   Art. 11 G v. 8.5.2024 I Nr. 151 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 8.5.2024 I Nr. 151
 
 
 ## Teil 1 - Allgemeine Bestimmungen

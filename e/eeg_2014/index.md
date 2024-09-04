@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1066
 
 Zuletzt geändert durch
-:   Art. 1 G v. 5.2.2024 I Nr. 33
-
-Änderung durch
-:   Art. 1 G v. 8.5.2024 I Nr. 151 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 8.5.2024 I Nr. 151
 
 
 ## Teil 1 - Allgemeine Bestimmungen

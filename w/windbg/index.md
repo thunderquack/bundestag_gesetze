@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2022, 1353
 
 Zuletzt geändert durch
-:   Art. 6 G v. 26.7.2023 I Nr. 202
-
-Änderung durch
-:   Art. 12 G v. 8.5.2024 I Nr. 151 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 G v. 8.5.2024 I Nr. 151
 
 
 ## § 1 Ziel des Gesetzes

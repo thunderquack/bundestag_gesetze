@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2018, 1853
 
 Zuletzt geändert durch
-:   Art. 15 G v. 20.7.2022 I 1237
-
-Änderung durch
-:   Art. 8 G v. 8.5.2024 I Nr. 151 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 8.5.2024 I Nr. 151
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
