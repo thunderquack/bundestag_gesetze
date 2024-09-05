@@ -15,6 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 1508
 
+V aufgeh. durch
+:   § 2 Satz 2 V 8253-1-3-36 v. 30.8.2024 I Nr. 274 mWv 1.1.2025
+
+Ersetzt durch
+:   V 8253-1-3-36 v. 30.8.2024 I Nr. 274 (KSAbg2025V)
+
 
 ## Eingangsformel
 
