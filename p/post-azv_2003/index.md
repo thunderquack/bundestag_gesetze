@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 7.12.2015 I 2204
 
+Änderung durch
+:   Art. 1 V v. 16.8.2024 I Nr. 276 mWv 1.3.2024 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 
