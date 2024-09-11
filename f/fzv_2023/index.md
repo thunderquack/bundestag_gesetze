@@ -4222,7 +4222,7 @@ Eine Nacherfassung der Daten nach Satz 1 für Fahrzeuge, die zu diesem Zeitpunkt
     *        *   Unterscheidungszeichen des Verwaltungsbezirkes am Sitz des Konsulats
 
         *   Berufskonsularische Vertretungen und in Abhängigkeit vom Status der bevorrechtigten Person
-            (Zulassungsbehörde am Sitz des Konsulats
+            (Zulassungsbehörde am Sitz des Konsulats)
 
 
 
