@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2003, 2495
 
 Zuletzt geändert durch
-:   Art. 2 V v. 7.12.2015 I 2204
-
-Änderung durch
-:   Art. 1 V v. 16.8.2024 I Nr. 276 mWv 1.3.2024 noch nicht berücksichtigt
+:   Art. 1 V v. 16.8.2024 I Nr. 276
 
 
 ## Eingangsformel
@@ -84,7 +81,24 @@ sofern zwingende betriebliche Belange nicht entgegenstehen.
 
 ## § 7 Erprobung neuer Arbeitszeitmodelle
 
-Zur besseren Anpassung des Personaleinsatzes an den Arbeitsanfall kann der Vorstand der Deutschen Post AG neue Arbeitszeitmodelle zur Erprobung einführen, die eine variable Abweichung von der dienstplanmäßigen Einteilung der Arbeitszeit ermöglichen, sofern die Voraussetzungen dafür auf Grund der geltenden Arbeitszeitregelungen für vergleichbare Arbeitnehmerinnen und Arbeitnehmer der Deutschen Post AG vorliegen. Die Schwankungsbreite der Mehr- und Minderleistungen darf höchstens das Dreifache der regelmäßigen Arbeitszeit nach § 1 Abs. 1 der Arbeitszeitverordnung betragen. § 3 Abs. 1 Satz 2 der Arbeitszeitverordnung bleibt unberührt. Mehr- und Minderleistungen sind innerhalb eines Zeitraums von längstens 18 Monaten auszugleichen. Mit dem Zeitpunkt des Ausgleichs beginnt der nächste Ausgleichszeitraum.
+(1) Zur besseren Anpassung des Personaleinsatzes an den Arbeitsanfall kann der Vorstand der Deutschen Post AG neue Arbeitszeitmodelle zur Erprobung einführen, die eine variable Abweichung von der dienstplanmäßigen Einteilung der Arbeitszeit ermöglichen, sofern die Voraussetzungen dafür auf Grund der geltenden Arbeitszeitregelungen für vergleichbare Arbeitnehmerinnen und Arbeitnehmer der Deutschen Post AG vorliegen. Die Schwankungsbreite der Mehr- und Minderleistungen darf höchstens das Dreifache der in der Arbeitszeitverordnung festgelegten regelmäßigen Arbeitszeit betragen. Die in der Arbeitszeitverordnung festgelegten täglichen und wöchentlichen Höchstarbeitszeiten bleiben unberührt. Mehr- und Minderleistungen sind innerhalb eines Zeitraums von längstens 18 Monaten auszugleichen. Mit dem Zeitpunkt des Ausgleichs beginnt der nächste Ausgleichszeitraum.
+
+(2) Für Beamtinnen und Beamte, die ganz oder teilweise Zustelltätigkeit verrichten, gilt Absatz 1 mit der Maßgabe, dass
+
+1.  Mehr- und Minderleistungen innerhalb eines Zeitraums von 12 Monaten auszugleichen sind,
+
+
+2.  ein Freizeitausgleich für Mehrleistungen auch an Tagen erfolgen kann, an denen der planmäßige Dienst bereits aufgenommen wurde, wenn innerhalb der ersten Stunde nach planmäßigem Dienstbeginn der Freizeitausgleich mit der oder dem unmittelbaren Vorgesetzten vereinbart und angetreten wird; in diesem Fall gilt als Freizeitausgleich die planmäßige Dienstzeit abzüglich drei Stunden,
+
+
+3.  Beamtinnen und Beamte, die an einem dienstplanmäßig freien Tag eingesetzt werden, eine Zeitgutschrift von zwei Stunden erhalten und
+
+
+4.  Beamtinnen und Beamte, die an einem dienstplanmäßig freien Tag mindestens zwei Stunden in Rufbereitschaft sind, eine Zeitgutschrift von einer Stunde erhalten.
+
+
+
+Die organisatorischen Einzelheiten regelt der Vorstand der Deutschen Post AG. Er orientiert sich dabei an den Bestimmungen, die für die bei der Deutschen Post AG tätigen Arbeitnehmerinnen und Arbeitnehmer gelten.
 
 
 ## § 8 Arbeitszeit bei einem anderen Unternehmen oder einer öffentlichen Einrichtung
