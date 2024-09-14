@@ -16,6 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 490
 
+V aufgeh. durch
+:   § 16 Satz 2 V 7110-3-216 v. 9.9.2024 I Nr. 277 mWv 1.8.2025
+
+Ersetzt durch
+:   V 7110-3-216 v. 9.9.2024 I Nr. 277 (LandBauMechMstrV)
+
 Zuletzt geändert durch
 :   Art. 2 Abs. 33 V v. 18.1.2022 I 39
 
