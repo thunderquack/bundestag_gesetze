@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 2938
 
 Zuletzt geändert durch
-:   Art. 1 V v. 20.12.2022 I 2867
+:   Art. 1 V v. 9.9.2024 I Nr. 280
 
 
 ## Eingangsformel
@@ -212,5 +212,5 @@ Eine Zielbewertung oder Leistungsbeurteilung entfällt, wenn die Beamtin oder de
 
 (3) § 6 Absatz 1 des Bundesbesoldungsgesetzes gilt entsprechend.
 
-(4) Die Filialzulage wird letztmalig für Februar 2024 gewährt.
+(4) Die Filialzulage wird letztmalig für März 2026 gewährt.
 

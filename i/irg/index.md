@@ -1277,12 +1277,14 @@ kann die Urschrift bereits vor Abschluss des Verfahrens vernichtet werden. Verfa
 
 
 
+
 (2) Das Bundesministerium der Justiz und die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen,
 
 1.  dass Akten, die vor dem in Absatz 1 Nummer 3 bezeichneten Zeitpunkt in Papierform angelegt wurden, ab einem bestimmten Stichtag oder Ereignis in elektronischer Form weitergeführt werden und
 
 
 2.  dass Akten, die elektronisch angelegt wurden, ab einem bestimmten Ereignis in Papierform weitergeführt werden.
+
 
 
 

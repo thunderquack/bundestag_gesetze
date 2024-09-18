@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 10 V v. 19.6.2020 I 1328
 
+Änderung durch
+:   Art. 1 V v. 12.9.2024 I Nr. 283 mWv 18.9.2024 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Wahlorgane
 
