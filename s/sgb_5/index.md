@@ -16078,7 +16078,8 @@ Die Vertrauensstelle überführt die Lieferpseudonyme in periodenübergreifende 
 
 #### § 367 Vereinbarung über technische Verfahren zu telemedizinischen Konsilien
 
-(1) Die Kassenärztlichen Bundesvereinigungen und die Deutsche Krankenhausgesellschaft vereinbaren bis zum 31. März 2020 mit dem Spitzenverband Bund der Krankenkassen in Abstimmung mit dem Bundesamt für Sicherheit in der Informationstechnik und der Gesellschaft für Telematik sowie im Benehmen mit der Deutschen Gesetzlichen Unfallversicheurng e. V. die Anforderungen an die technischen Verfahren zu telemedizinischen Konsilien, insbesondere Einzelheiten hinsichtlich der Qualität und der Sicherheit, und die Anforderungen an die technische Umsetzung.
+(1) Die Kassenärztlichen Bundesvereinigungen und die Deutsche Krankenhausgesellschaft vereinbaren bis zum 31. März 2020 mit dem Spitzenverband Bund der Krankenkassen in Abstimmung mit dem Bundesamt für Sicherheit in der Informationstechnik und der Gesellschaft für Telematik sowie im Benehmen mit der Deutschen Gesetzlichen
+Unfallversicheurng              e. V. die Anforderungen an die technischen Verfahren zu telemedizinischen Konsilien, insbesondere Einzelheiten hinsichtlich der Qualität und der Sicherheit, und die Anforderungen an die technische Umsetzung.
 
 (2) Kommt die Vereinbarung nach Absatz 1 nicht zustande, so ist auf Antrag eines der Vereinbarungspartner ein Schlichtungsverfahren nach § 370 bei der Schlichtungsstelle nach § 319 einzuleiten.
 
