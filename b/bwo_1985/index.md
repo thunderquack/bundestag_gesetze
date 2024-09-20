@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 10 V v. 19.6.2020 I 1328
 
 Änderung durch
-:   Art. 1 V v. 12.9.2024 I Nr. 283 mWv 18.9.2024 noch nicht berücksichtigt
+:   Art. 1 V v. 12.9.2024 I Nr. 283 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Wahlorgane
@@ -31,7 +31,7 @@ Zuletzt geändert durch
 
 ### § 1 Bundeswahlleiter
 
-Der Bundeswahlleiter und sein Stellvertreter werden auf unbestimmte Zeit ernannt. Das Bundesministerium des Innern, für Bau und Heimat macht die Namen des Bundeswahlleiters und seines Stellvertreters sowie die Anschriften ihrer Dienststellen mit Telekommunikationsanschlüssen öffentlich bekannt.
+Der Bundeswahlleiter und sein Stellvertreter werden auf unbestimmte Zeit ernannt. Das Bundesministerium des Innern und für Heimat macht die Namen des Bundeswahlleiters und seines Stellvertreters sowie die Anschriften ihrer Dienststellen mit Telekommunikationsanschlüssen öffentlich bekannt.
 
 
 ### § 2 Landeswahlleiter
@@ -137,7 +137,7 @@ Die Übernahme eines Wahlehrenamtes können ablehnen
 2.  Mitglieder des Europäischen Parlaments, des Deutschen Bundestages oder eines Landtages,
 
 
-3.  Wahlberechtigte, die am Wahltage das 65. Lebensjahr vollendet haben,
+3.  Wahlberechtigte, die am Wahltage das 67. Lebensjahr vollendet haben,
 
 
 4.  Wahlberechtigte, die glaubhaft machen, dass ihnen die Fürsorge für ihre Familie die Ausübung des Amtes in besonderer Weise erschwert,
@@ -248,7 +248,7 @@ Geldbußen nach § 49a Abs. 1 Nr. 1 des Bundeswahlgesetzes fließen in die Kasse
 
 
 
-(3) Verlegt ein Wahlberechtigter, der nach Absatz 1 in das Wählerverzeichnis eingetragen ist, seine Wohnung und meldet er sich vor Beginn der Einsichtsfrist für das Wählerverzeichnis (§ 17 Abs. 1 Satz 2 des Bundeswahlgesetzes) bei der Meldebehörde des Zuzugsortes an, so wird er in das Wählerverzeichnis der Gemeinde des Zuzugsortes nur auf Antrag eingetragen. Ein nach Absatz 1 in das Wählerverzeichnis eingetragener Wahlberechtigter, der sich innerhalb derselben Gemeinde für eine Wohnung anmeldet, bleibt in dem Wählerverzeichnis des Wahlbezirks eingetragen, für den er am Stichtag gemeldet war. Der Wahlberechtigte ist bei der Anmeldung über die Regelung in den Sätzen 1 und 2 zu belehren. Erfolgt die Eintragung auf Antrag, benachrichtigt die Gemeindebehörde des Zuzugsortes hiervon unverzüglich die Gemeindebehörde des Fortzugsortes, die den Wahlberechtigten in ihrem Wählerverzeichnis streicht. Wenn im Falle des Satzes 1 bei der Gemeindebehörde des Fortzugsortes eine Mitteilung über den Ausschluss vom Wahlrecht vorliegt oder nachträglich eingeht, benachrichtigt sie hiervon unverzüglich die Gemeindebehörde des Zuzugsortes, die den Wahlberechtigten in ihrem Wählerverzeichnis streicht; der Betroffene ist von der Streichung zu unterrichten.
+(3) Verlegt ein Wahlberechtigter, der nach Absatz 1 in das Wählerverzeichnis eingetragen ist, seine Wohnung und meldet er sich vor Beginn der Einsichtsfrist für das Wählerverzeichnis (§ 17 Abs. 1 Satz 2 des Bundeswahlgesetzes) bei der Meldebehörde des Zuzugsortes an, so wird er in das Wählerverzeichnis des Wahlbezirks des Zuzugsortes nur auf Antrag eingetragen. Ein nach Absatz 1 in das Wählerverzeichnis eingetragener Wahlberechtigter, der sich innerhalb derselben Gemeinde für eine Wohnung anmeldet, die im selben Wahlkreis liegt, bleibt in dem Wählerverzeichnis des Wahlbezirks eingetragen, für den er am Stichtag gemeldet war. Der Wahlberechtigte ist bei der Anmeldung über die Regelung in den Sätzen 1 und 2 zu belehren. Erfolgt die Eintragung auf Antrag, benachrichtigt die Gemeindebehörde des Zuzugsortes hiervon unverzüglich die Gemeindebehörde des Fortzugsortes, die den Wahlberechtigten in ihrem Wählerverzeichnis streicht. Wenn im Falle des Satzes 1 bei der Gemeindebehörde des Fortzugsortes eine Mitteilung über den Ausschluss vom Wahlrecht vorliegt oder nachträglich eingeht, benachrichtigt sie hiervon unverzüglich die Gemeindebehörde des Zuzugsortes, die den Wahlberechtigten in ihrem Wählerverzeichnis streicht; der Betroffene ist von der Streichung zu unterrichten.
 
 (4) Für Wahlberechtigte, die am Stichtag nicht für eine Wohnung gemeldet sind und sich vor dem Beginn der Einsichtsfrist für das Wählerverzeichnis bei der Meldebehörde für eine Wohnung anmelden, gilt Absatz 3 Satz 1 und 3 entsprechend.
 
@@ -314,22 +314,26 @@ Geldbußen nach § 49a Abs. 1 Nr. 1 des Bundeswahlgesetzes fließen in die Kasse
 
 #### § 18 Verfahren für die Eintragung in das Wählerverzeichnis auf Antrag
 
-(1) Der Antrag auf Eintragung in das Wählerverzeichnis ist schriftlich bis spätestens zum 21. Tage vor der Wahl bei der zuständigen Gemeindebehörde zu stellen. Er muss den Familiennamen, die Vornamen, das Geburtsdatum und die genaue Anschrift des Wahlberechtigten enthalten. Sammelanträge sind, abgesehen von den Fällen des Absatzes 5, zulässig; sie müssen von allen aufgeführten Wahlberechtigten persönlich und handschriftlich unterzeichnet sein. Ein Wahlberechtigter mit Behinderungen kann sich hierbei der Hilfe einer anderen Person bedienen; § 57 gilt entsprechend.
+(1) Der Antrag auf Eintragung in das Wählerverzeichnis ist schriftlich bis spätestens zum 21. Tage vor der Wahl bei der zuständigen Gemeindebehörde zu stellen. Er muss den Familiennamen, die Vornamen, das Geburtsdatum und die genaue Anschrift des Wahlberechtigten enthalten. Sammelanträge sind, abgesehen von den Fällen der Absätze 4 und 5, zulässig; sie müssen von allen aufgeführten Wahlberechtigten persönlich und handschriftlich unterzeichnet sein. Ein Wahlberechtigter mit Behinderungen kann sich hierbei der Hilfe einer anderen Person bedienen; § 57 gilt entsprechend.
 
-(2) (weggefallen)
+(2) In den Fällen des § 16 Absatz 2 Nummer 1 sind Wahlberechtigte bis zum Wahltage im Wählerverzeichnis der Gemeinde zu führen, die nach § 17 Absatz 2 Nummer 2 oder 3 zuständig ist, auch wenn nach dem Stichtag eine Neuanmeldung bei einer anderen Meldebehörde des Wahlgebietes erfolgt. Sie sind bei der Anmeldung entsprechend zu unterrichten.
 
-(3) In den Fällen des § 16 Abs. 2 Nr. 1 sind Wahlberechtigte bis zum Wahltage im Wählerverzeichnis der Gemeinde zu führen, die nach § 17 Abs. 2 Nr. 2 zuständig ist, auch wenn nach dem Stichtag eine Neuanmeldung bei einer anderen Meldebehörde des Wahlgebietes erfolgt. Sie sind bei der Anmeldung entsprechend zu unterrichten.
+(3) In den Fällen des § 16 Absatz 2 Nummer 1 Buchstabe b ist der Bundeswahlleiter von der Eintragung in das Wählerverzeichnis unverzüglich zu unterrichten. Erhält der Bundeswahlleiter Mitteilungen verschiedener Gemeindebehörden über die Eintragung desselben Antragstellers in das Wählerverzeichnis, so hat er diejenige Gemeindebehörde, deren Unterrichtung über die Eintragung in das Wählerverzeichnis nach der ersten Mitteilung eingeht, unverzüglich von der Eintragung des Wahlberechtigten in das Wählerverzeichnis der zuerst mitteilenden Gemeinde zu benachrichtigen. Die vom Bundeswahlleiter benachrichtigte Gemeindebehörde hat den Wahlberechtigten im Wählerverzeichnis zu streichen.
 
-(4) (weggefallen)
+(4) In den Fällen des § 16 Absatz 2 Nummer 2 in Verbindung mit § 12 Absatz 2 Satz 1 Nummer 1 des Bundeswahlgesetzes haben Wahlberechtigte im Antrag auf Eintragung in das Wählerverzeichnis nach Anlage 2 der Gemeindebehörde gegenüber zu versichern, dass die Voraussetzungen der Wahlberechtigung erfüllt sind und in keiner anderen Gemeinde im Wahlgebiet ein Antrag auf Eintragung in das Wählerverzeichnis gestellt wurde. Die Schriftform des Antrags gilt auch durch Telefax, E-Mail oder durch sonstige dokumentierbare elektronische Übermittlung als gewahrt.
 
-(5) In den Fällen des § 16 Abs. 2 Nr. 2 hat der Wahlberechtigte in seinem Antrag auf Eintragung in das Wählerverzeichnis nach Anlage 2 der Gemeindebehörde gegenüber durch Abgabe einer Versicherung an Eides statt den Nachweis für seine Wahlberechtigung zu erbringen und zu erklären, dass er in keiner anderen Gemeinde im Wahlgebiet einen Antrag auf Eintragung in das Wählerverzeichnis gestellt hat. Vordrucke und Merkblätter für die Antragstellung können bei den diplomatischen und berufskonsularischen Vertretungen der Bundesrepublik Deutschland im Ausland, beim Bundeswahlleiter und bei den Kreiswahlleitern angefordert werden. Bestehen Zweifel an Angaben des Antragstellers, hat die Gemeindebehörde den Sachverhalt unverzüglich aufzuklären. Der Bundeswahlleiter ist von der Eintragung in das Wählerverzeichnis unverzüglich durch Übersendung der Zweitausfertigung des Antrages nach Anlage 2 oder einer Kopie der Erstausfertigung des Antrages nach Anlage 2, auf der die Eintragung in das Wählerverzeichnis vermerkt ist, zu unterrichten. Erhält der Bundeswahlleiter Mitteilungen verschiedener Gemeindebehörden über die Eintragung desselben Antragstellers in das Wählerverzeichnis, so hat er diejenige Gemeindebehörde, deren Unterrichtung über die Eintragung in das Wählerverzeichnis nach der ersten Mitteilung eingeht, unverzüglich von der Eintragung des Wahlberechtigten in das Wählerverzeichnis der zuerst mitteilenden Gemeinde zu benachrichtigen. Die vom Bundeswahlleiter benachrichtigte Gemeindebehörde hat den Wahlberechtigten im Wählerverzeichnis zu streichen und ihn davon zu unterrichten.
+(5) In den Fällen des § 16 Absatz 2 Nummer 2 in Verbindung mit § 12 Absatz 2 Satz 1 Nummer 2 des Bundeswahlgesetzes hat der Wahlberechtigte in seinem Antrag auf Eintragung in das Wählerverzeichnis nach Anlage 2a der Gemeindebehörde gegenüber durch Abgabe einer Versicherung an Eides statt den Nachweis für seine Wahlberechtigung zu erbringen und zu erklären, dass er in keiner anderen Gemeinde im Wahlgebiet einen Antrag auf Eintragung in das Wählerverzeichnis gestellt hat.
 
-(6) Kehrt ein Wahlberechtigter nach § 12 Absatz 2 Satz 1 des Bundeswahlgesetzes in das Wahlgebiet zurück und meldet er sich dort nach dem Stichtag nach § 16 Absatz 1, aber vor Beginn der Einsichtsfrist für das Wählerverzeichnis nach § 17 Absatz 1 Satz 2 Bundeswahlgesetz für eine Wohnung an, so wird er in das Wählerverzeichnis der Gemeinde des Zuzugsortes nur auf Antrag nach Anlage 1 eingetragen, mit dem er der Gemeindebehörde gegenüber durch Abgabe einer Versicherung an Eides statt den Nachweis für seine Wahlberechtigung erbringt und erklärt, dass er noch keinen anderen Antrag auf Eintragung in das Wählerverzeichnis gestellt hat. Der Wahlberechtigte ist bei der Anmeldung darüber zu belehren. Die Gemeindebehörde hat den Bundeswahlleiter unverzüglich von der Eintragung eines solchen Wahlberechtigten in das Wählerverzeichnis durch Übersendung der Zweitausfertigung des Antrages nach Anlage 1 oder einer Kopie der Erstausfertigung des Antrages nach Anlage 1, auf der die Eintragung in das Wählerverzeichnis vermerkt ist, zu unterrichten. Absatz 5 Satz 5 und 6 gilt entsprechend.
+(5a) Vordrucke und Merkblätter für die Antragstellung nach § 16 Absatz 2 Nummer 2 können auch bei den diplomatischen und berufskonsularischen Vertretungen der Bundesrepublik Deutschland im Ausland, beim Bundeswahlleiter und bei den Kreiswahlleitern angefordert werden. Bestehen Zweifel an Angaben des Antragstellers, hat die Gemeindebehörde den Sachverhalt unverzüglich aufzuklären. Der Bundeswahlleiter ist von der Eintragung in das Wählerverzeichnis unverzüglich mit den Informationen des Antrags nach Anlage 2 oder Anlage 2a über den Antragsteller zu unterrichten. Absatz 3 Satz 2 gilt entsprechend. Die vom Bundeswahlleiter benachrichtigte Gemeindebehörde hat den Wahlberechtigten im Wählerverzeichnis zu streichen und ihn davon zu unterrichten.
+
+(6) Kehrt ein Wahlberechtigter nach § 12 Absatz 2 Satz 1 des Bundeswahlgesetzes in das Wahlgebiet zurück und meldet er sich dort nach dem Stichtag nach § 16 Absatz 1, aber vor Beginn der Einsichtsfrist für das Wählerverzeichnis nach § 17 Absatz 1 Satz 2 Bundeswahlgesetz für eine Wohnung an, so wird er in das Wählerverzeichnis der Gemeinde des Zuzugsortes nur auf Antrag nach Anlage 1 eingetragen, mit dem er der Gemeindebehörde gegenüber durch Abgabe einer Versicherung an Eides statt den Nachweis für seine Wahlberechtigung erbringt und erklärt, dass er noch keinen anderen Antrag auf Eintragung in das Wählerverzeichnis gestellt hat. Der Wahlberechtigte ist bei der Anmeldung darüber zu belehren. Die Gemeindebehörde hat den Bundeswahlleiter unverzüglich von der Eintragung eines solchen Wahlberechtigten in das Wählerverzeichnis mit den Informationen des Antrages nach Anlage 1 über den Antragsteller, auf der die Eintragung in das Wählerverzeichnis vermerkt ist, zu unterrichten. Absatz 3 Satz 2 gilt entsprechend. Die vom Bundeswahlleiter benachrichtigte Gemeindebehörde hat den Wahlberechtigten im Wählerverzeichnis zu streichen und ihn davon zu unterrichten.
+
+(7) Die Unterrichtungen nach Absatz 3 Satz 1, Absatz 5a Satz 3 und Absatz 6 Satz 3 erfolgen durch elektronische Übermittlung in einem durch den Bundeswahlleiter zur Verfügung gestellten Verfahren. Es sind geeignete technische und organisatorische Maßnahmen zum Schutz vor unbefugtem Zugriff auf die Daten zu treffen.
 
 
 #### § 19 Benachrichtigung der Wahlberechtigten
 
-(1) Spätestens am Tage vor der Bereithaltung des Wählerverzeichnisses zur Einsichtnahme benachrichtigt die Gemeindebehörde jeden Wahlberechtigten, der in das Wählerverzeichnis eingetragen ist, nach dem Muster der Anlage 3. Die Mitteilung soll enthalten
+(1) Spätestens am Tage vor der Bereithaltung des Wählerverzeichnisses zur Einsichtnahme benachrichtigt die Gemeindebehörde jeden Wahlberechtigten, der in das Wählerverzeichnis eingetragen ist, nach dem Muster der Anlage 3. Die äußerlich als amtliche Wahlunterlage erkennbare Mitteilung soll enthalten
 
 1.  den Familiennamen, die Vornamen und die Wohnung des Wahlberechtigten,
 
@@ -409,12 +413,12 @@ Erfolgt die Eintragung eines Wahlberechtigten, der nach § 16 Abs. 2 bis 5 auf A
 
 
 
-Die Bekanntmachung ist nach Anlage 6 von den Botschaften durch mindestens eine deutschsprachige Anzeige in einer überregionalen Tages- oder Wochenzeitung vorzunehmen; zusätzlich kann der Inhalt der Bekanntmachung von den Berufskonsulaten, wenn dies nach den örtlichen Verhältnissen angezeigt ist, durch deutschsprachige Anzeigen in regionalen Tageszeitungen sowie von den Botschaften und Berufskonsulaten im Internet veröffentlicht werden. Kann die Bekanntmachung in begründeten Einzelfällen nicht erfolgen oder erscheint sie nicht gerechtfertigt, so ist sie durch Aushang im Dienstgebäude der Vertretung und, soweit möglich, durch Unterrichtung der einzelnen bekannten Betroffenen vorzunehmen.
+Die Bekanntmachung ist nach Anlage 6 auf den Internetseiten der Botschaften und Berufskonsulate vorzunehmen und bis zum Ablauf des Wahltages bereitzustellen. Der Inhalt der Bekanntmachung wird zusätzlich auf der Internetseite des Auswärtigen Amtes veröffentlicht. Kann die Bekanntmachung in begründeten Einzelfällen nicht erfolgen oder erscheint sie nicht gerechtfertigt, so ist sie durch Aushang im Dienstgebäude der Vertretung und, soweit möglich, durch Unterrichtung der einzelnen bekannten Betroffenen vorzunehmen.
 
 
 #### § 21 Einsicht in das Wählerverzeichnis
 
-(1) Die Gemeindebehörde hält das Wählerverzeichnis mindestens am Ort der Gemeindeverwaltung während der allgemeinen Öffnungszeiten zur Einsichtnahme bereit. Wird das Wählerverzeichnis im automatisierten Verfahren geführt, kann die Einsichtnahme durch ein Datensichtgerät ermöglicht werden. Es ist sicherzustellen, dass Bemerkungen (§ 23 Abs. 3) im Klartext gelesen werden können. Das Datensichtgerät darf nur von einem Bediensteten der Gemeindebehörde bedient werden.
+(1) Die Gemeindebehörde hält das Wählerverzeichnis mindestens am Ort der Gemeindeverwaltung an den Werktagen vom 20. bis zum 16. Tag vor der Wahl während der allgemeinen Öffnungszeiten zur Einsichtnahme bereit. Wird das Wählerverzeichnis im automatisierten Verfahren geführt, kann die Einsichtnahme durch ein Datensichtgerät ermöglicht werden. Es ist sicherzustellen, dass Bemerkungen (§ 23 Abs. 3) im Klartext gelesen werden können. Das Datensichtgerät darf nur von einem Bediensteten der Gemeindebehörde bedient werden.
 
 (2) (weggefallen)
 
@@ -429,14 +433,14 @@ Die Bekanntmachung ist nach Anlage 6 von den Botschaften durch mindestens eine d
 
 (3) Will die Gemeindebehörde einem Einspruch gegen die Eintragung eines anderen stattgeben, so hat sie diesem vor der Entscheidung Gelegenheit zur Äußerung zu geben.
 
-(4) Die Gemeindebehörde hat ihre Entscheidung dem Einspruchsführer und dem Betroffenen spätestens am zehnten Tage vor der Wahl zuzustellen und auf den zulässigen Rechtsbehelf hinzuweisen. Einem auf Eintragung gerichteten Einspruch gibt die Gemeindebehörde in der Weise statt, dass sie dem Wahlberechtigten nach Berichtigung des Wählerverzeichnisses die Wahlbenachrichtigung zugehen lässt. In den Fällen des § 18 Abs. 5 und 6 unterrichtet sie unverzüglich die zuständigen Stellen von der Eintragung.
+(4) Die Gemeindebehörde hat ihre Entscheidung dem Einspruchsführer und dem Betroffenen spätestens am zehnten Tage vor der Wahl zuzustellen und auf den zulässigen Rechtsbehelf hinzuweisen. Einem auf Eintragung gerichteten Einspruch gibt die Gemeindebehörde in der Weise statt, dass sie dem Wahlberechtigten nach Berichtigung des Wählerverzeichnisses die Wahlbenachrichtigung zugehen lässt. In den Fällen des § 18 Absatz 3 bis 6 unterrichtet sie unverzüglich die zuständigen Stellen von der Eintragung.
 
-(5) Gegen die Entscheidung der Gemeindebehörde kann binnen zwei Tagen nach Zustellung Beschwerde an den Kreiswahlleiter eingelegt werden. Die Beschwerde ist schriftlich oder zur Niederschrift bei der Gemeindebehörde einzulegen. Die Gemeindebehörde legt die Beschwerde mit den Vorgängen unverzüglich dem Kreiswahlleiter vor. Der Kreiswahlleiter hat über die Beschwerde spätestens am vierten Tage vor der Wahl zu entscheiden; Absatz 3 gilt entsprechend. Die Beschwerdeentscheidung ist den Beteiligten und der Gemeindebehörde bekannt zu geben. Sie ist vorbehaltlich anderer Entscheidung im Wahlprüfungsverfahren endgültig.
+(5) Gegen die Entscheidung der Gemeindebehörde kann binnen zwei Tagen nach Zustellung Beschwerde an den Kreiswahlleiter eingelegt werden. Die Beschwerde ist schriftlich oder zur Niederschrift bei der Gemeindebehörde einzulegen; Absatz 2 Satz 3 gilt entsprechend. Die Gemeindebehörde legt die Beschwerde mit den Vorgängen unverzüglich dem Kreiswahlleiter vor. Der Kreiswahlleiter hat über die Beschwerde spätestens am vierten Tage vor der Wahl zu entscheiden; Absatz 3 gilt entsprechend. Die Beschwerdeentscheidung ist den Beteiligten und der Gemeindebehörde bekannt zu geben. Sie ist vorbehaltlich anderer Entscheidung im Wahlprüfungsverfahren endgültig.
 
 
 #### § 23 Berichtigung des Wählerverzeichnisses
 
-(1) Nach Beginn der Einsichtsfrist ist die Eintragung oder Streichung von Personen sowie die Vornahme sonstiger Änderungen im Wählerverzeichnis nur noch auf rechtzeitigen Einspruch zulässig. § 16 Abs. 2 bis 5, § 18 Abs. 5 Satz 6 und Abs. 6 Satz 4 sowie § 30 bleiben unberührt.
+(1) Nach Beginn der Einsichtsfrist ist die Eintragung oder Streichung von Personen sowie die Vornahme sonstiger Änderungen im Wählerverzeichnis nur noch auf rechtzeitigen Einspruch zulässig. § 16 Absatz 2 bis 5, § 18 Absatz 3 Satz 3, Absatz 5a Satz 5 und Absatz 6 Satz 4 sowie § 30 bleiben unberührt.
 
 (2) Ist das Wählerverzeichnis offensichtlich unrichtig oder unvollständig, so kann die Gemeindebehörde den Mangel auch von Amts wegen beheben. Dies gilt nicht für Mängel, die Gegenstand eines Einspruchsverfahrens sind. § 22 Abs. 3 bis 5 gilt entsprechend. Die Frist für die Zustellung der Entscheidung (§ 22 Abs. 4 Satz 1) und für die Beschwerdeentscheidung (§ 22 Abs. 5 Satz 4) gilt nur, wenn die von Amts wegen behebbaren Mängel vor dem zwölften Tage vor der Wahl bekannt werden.
 
@@ -481,13 +485,13 @@ Der Wahlschein wird nach dem Muster der Anlage 9 von der Gemeindebehörde erteil
 
 #### § 27 Wahlscheinanträge
 
-(1) Die Erteilung eines Wahlscheines kann schriftlich oder mündlich bei der Gemeindebehörde beantragt werden. Die Schriftform gilt auch durch Telegramm, Fernschreiben, Telefax, E-Mail oder durch sonstige dokumentierbare elektronische Übermittlung als gewahrt. Eine telefonische Antragstellung ist unzulässig. Ein Wahlberechtigter mit Behinderungen kann sich bei der Antragstellung der Hilfe einer anderen Person bedienen; § 57 gilt entsprechend.
+(1) Die Erteilung eines Wahlscheines kann schriftlich oder mündlich bei der Gemeindebehörde beantragt werden. Die Schriftform gilt auch durch Telefax, E-Mail oder durch sonstige dokumentierbare elektronische Übermittlung als gewahrt. Eine telefonische Antragstellung ist unzulässig. Ein Wahlberechtigter mit Behinderungen kann sich bei der Antragstellung der Hilfe einer anderen Person bedienen; § 57 gilt entsprechend.
 
 (2) Der Antragsteller muss den Familiennamen, die Vornamen, das Geburtsdatum und seine Wohnanschrift (Straße, Hausnummer, Postleitzahl, Ort) angeben.
 
 (3) Wer den Antrag für einen anderen stellt, muss durch Vorlage einer schriftlichen Vollmacht nachweisen, dass er dazu berechtigt ist.
 
-(4) Wahlscheine können bis zum zweiten Tage vor der Wahl, 18.00 Uhr, beantragt werden. In den Fällen des § 25 Abs. 2 können Wahlscheine noch bis zum Wahltage, 15.00 Uhr, beantragt werden. Gleiches gilt, wenn bei nachgewiesener plötzlicher Erkrankung der Wahlraum nicht oder nur unter nicht zumutbaren Schwierigkeiten aufgesucht werden kann; in diesem Fall hat die Gemeindebehörde vor Erteilung des Wahlscheines den für den Wahlbezirk des Wahlberechtigten zuständigen Wahlvorsteher davon zu unterrichten, der entsprechend § 53 Abs. 2 zu verfahren hat.
+(4) Wahlscheine können bis zum zweiten Tage vor der Wahl, 15.00 Uhr, beantragt werden. In den Fällen des § 25 Abs. 2 können Wahlscheine noch bis zum Wahltage, 15.00 Uhr, beantragt werden. Gleiches gilt, wenn bei nachgewiesener plötzlicher Erkrankung der Wahlraum nicht oder nur unter nicht zumutbaren Schwierigkeiten aufgesucht werden kann; in diesem Fall hat die Gemeindebehörde vor Erteilung des Wahlscheines den für den Wahlbezirk des Wahlberechtigten zuständigen Wahlvorsteher davon zu unterrichten, der entsprechend § 53 Abs. 2 zu verfahren hat.
 
 (5) Bei Wahlberechtigten, die nach § 16 Abs. 2 nur auf Antrag in das Wählerverzeichnis eingetragen werden, gilt der Antrag zugleich als Antrag auf Erteilung eines Wahlscheines, es sei denn, der Wahlberechtigte will vor dem Wahlvorstand seines Wahlbezirks wählen.
 
@@ -517,19 +521,19 @@ Der Wahlschein wird nach dem Muster der Anlage 9 von der Gemeindebehörde erteil
 
 Satz 1 gilt nicht in den Fällen des § 29 Absatz 1.
 
-(4) Wahlschein und Briefwahlunterlagen werden dem Wahlberechtigten an seine Wohnanschrift übersandt oder amtlich überbracht, soweit sich aus dem Antrag keine andere Anschrift oder die Abholung der Unterlagen ergibt. Wird die Versendung an eine andere Anschrift in einer Form nach § 27 Absatz 1 Satz 2 beantragt, gehört zur Versendung der Briefwahlunterlagen die gleichzeitige Versendung einer Mitteilung an die Wohnanschrift. Postsendungen sind von der Gemeindebehörde freizumachen. Die Gemeindebehörde übersendet dem Wahlberechtigten Wahlschein und Briefwahlunterlagen mit Luftpost, wenn sich aus seinem Antrag ergibt, dass er aus einem außereuropäischen Gebiet wählen will, oder wenn dieses sonst geboten erscheint.
+(4) Wahlschein und Briefwahlunterlagen werden äußerlich erkennbar als amtliche Wahlunterlagen gekennzeichnet und dem Wahlberechtigten an seine Wohnanschrift übersandt oder amtlich überbracht, soweit sich aus dem Antrag keine andere Anschrift oder die Abholung der Unterlagen ergibt. Wird die Versendung an eine andere Anschrift in einer Form nach § 27 Absatz 1 Satz 2 beantragt, gehört zur Versendung der Briefwahlunterlagen die gleichzeitige Versendung einer Mitteilung an die Wohnanschrift. Postsendungen sind von der Gemeindebehörde freizumachen. Die Gemeindebehörde übersendet dem Wahlberechtigten Wahlschein und Briefwahlunterlagen mit Luftpost, wenn sich aus seinem Antrag ergibt, dass er aus einem außereuropäischen Gebiet wählen will, oder wenn dieses sonst geboten erscheint.
 
 (5) Holt der Wahlberechtigte persönlich den Wahlschein und die Briefwahlunterlagen bei der Gemeindebehörde ab, so soll ihm Gelegenheit gegeben werden, die Briefwahl an Ort und Stelle auszuüben. Es ist sicherzustellen, dass der Stimmzettel unbeobachtet gekennzeichnet und in den Stimmzettelumschlag gelegt werden kann. An einen anderen als den Wahlberechtigten persönlich dürfen Wahlschein und Briefwahlunterlagen nur ausgehändigt werden, wenn die Berechtigung zur Empfangnahme durch Vorlage einer schriftlichen Vollmacht nachgewiesen wird. § 27 Abs. 1 Satz 4 gilt entsprechend. Von der Vollmacht kann nur Gebrauch gemacht werden, wenn die bevollmächtigte Person nicht mehr als vier Wahlberechtigte vertritt; dies hat sie der Gemeindebehörde vor der Empfangnahme der Unterlagen schriftlich zu versichern. Auf Verlangen hat sich die bevollmächtigte Person auszuweisen.
 
 (6) Über die erteilten Wahlscheine führt die Gemeindebehörde ein Wahlscheinverzeichnis, in dem die Fälle des § 25 Abs. 1 und die des Absatzes 2 getrennt gehalten werden. Das Verzeichnis wird als Liste oder als Sammlung der Durchschriften der Wahlscheine geführt. Auf dem Wahlschein wird die Nummer eingetragen, unter der er im Wahlscheinverzeichnis vermerkt ist, sowie die Nummer, unter der der Wahlberechtigte im Wählerverzeichnis geführt wird, oder der vorgesehene Wahlbezirk. Bei nicht in das Wählerverzeichnis eingetragenen Wahlberechtigten wird auf dem Wahlschein vermerkt, dass dessen Erteilung nach § 25 Abs. 2 erfolgt ist und welchem Wahlbezirk der Wahlberechtigte zugeordnet wird. Werden nach Abschluss des Wählerverzeichnisses noch Wahlscheine erteilt, so ist darüber ein besonderes Verzeichnis nach den Sätzen 1 bis 3 zu führen.
 
-(7) Wird einem Wahlberechtigten ein Wahlschein nach § 25 Abs. 2 erteilt, hat die Gemeindebehörde bei Wahlberechtigten nach § 12 Abs. 2 Satz 1 des Bundeswahlgesetzes unverzüglich den Bundeswahlleiter zu unterrichten. § 18 Abs. 5 Satz 5 und 6 gilt entsprechend.
+(7) Wird einem Wahlberechtigten ein Wahlschein nach § 25 Abs. 2 erteilt, hat die Gemeindebehörde bei Wahlberechtigten nach § 12 Abs. 2 Satz 1 des Bundeswahlgesetzes unverzüglich den Bundeswahlleiter zu unterrichten. § 18 Absatz 5a Satz 4 und 5 gilt entsprechend.
 
 (8) Wird ein Wahlberechtigter, der bereits einen Wahlschein erhalten hat, im Wählerverzeichnis gestrichen, so ist der Wahlschein für ungültig zu erklären. Die Gemeindebehörde führt darüber ein Verzeichnis, in das der Name des Wahlberechtigten und die Nummer des für ungültig erklärten Wahlscheines aufzunehmen ist; sie hat das Wahlscheinverzeichnis zu berichtigen. Die Gemeindebehörde verständigt den Kreiswahlleiter, der alle Wahlvorstände des Wahlkreises über die Ungültigkeit des Wahlscheines unterrichtet. In den Fällen des § 39 Abs. 5 des Bundeswahlgesetzes ist im Wahlscheinverzeichnis und im Verzeichnis der für ungültig erklärten Wahlscheine in geeigneter Form zu vermerken, dass die Stimme eines Wählers, der bereits an der Briefwahl teilgenommen hat, nicht ungültig ist.
 
 (9) Nach Abschluss des Wählerverzeichnisses übersendet die Gemeindebehörde, sofern sie nicht selbst oder eine andere Gemeindebehörde oder die Verwaltungsbehörde des Kreises für die Durchführung der Briefwahl zuständig ist, dem Kreiswahlleiter auf schnellstem Wege das Verzeichnis nach Absatz 8 Satz 2 und Nachträge zu diesem Verzeichnis oder eine Mitteilung, dass Wahlscheine nicht für ungültig erklärt worden sind, so rechtzeitig, dass sie dort spätestens am Wahltage vormittags eingehen. Ist eine andere Gemeindebehörde nach § 7 Nr. 3 mit der Durchführung der Briefwahl betraut worden oder ist die Verwaltungsbehörde des Kreises zuständig, hat die Gemeindebehörde das Verzeichnis und die Nachträge oder eine Mitteilung entsprechend Satz 1 der beauftragten Gemeindebehörde oder der Verwaltungsbehörde des Kreises zu übersenden.
 
-(10) Verlorene Wahlscheine werden nicht ersetzt. Versichert ein Wahlberechtigter glaubhaft, dass ihm der beantragte Wahlschein nicht zugegangen ist, kann ihm bis zum Tage vor der Wahl, 12.00 Uhr, ein neuer Wahlschein erteilt werden; Absatz 8 Satz 1 bis 3 und Absatz 9 gelten entsprechend.
+(10) Versichert ein Wahlberechtigter glaubhaft, dass ihm der beantragte Wahlschein nicht zugegangen ist oder er ihn verloren hat, kann ihm bis zum Tage vor der Wahl, 12.00 Uhr, ein neuer Wahlschein erteilt werden; Absatz 8 Satz 1 bis 3 und Absatz 9 gelten entsprechend.
 
 
 #### § 29 Erteilung von Wahlscheinen an bestimmte Personengruppen
@@ -592,7 +596,7 @@ Nachdem der Wahltag bestimmt ist, fordern die Kreis- und Landeswahlleiter durch 
 
 
 
-(2) Der Bundeswahlleiter lädt die Vereinigungen, die ihre Beteiligung an der Wahl angezeigt haben, zu der Sitzung, in der über ihre Anerkennung als Partei für die Wahl entschieden wird. In der Ladung weist er auf die Bekanntgabe der Entscheidung in der Sitzung und die Rechtsfolgen hin. Er legt dem Bundeswahlausschuss die Beteiligungsanzeigen vor und berichtet über das Ergebnis der Vorprüfung. Vor der Beschlussfassung ist den erschienenen Beteiligten Gelegenheit zur Äußerung zu geben.
+(2) Der Bundeswahlleiter lädt die Vereinigungen, die ihre Beteiligung an der Wahl angezeigt haben, zu der Sitzung, in der über ihre Anerkennung als Partei für die Wahl entschieden wird. In der Ladung weist er auf die Bekanntgabe der Entscheidung in der Sitzung und die Rechtsfolgen hin. Er legt dem Bundeswahlausschuss die Beteiligungsanzeigen vor und berichtet über das Ergebnis der Vorprüfung. Geben die Namen mehrerer Parteien oder deren Kurzbezeichnungen zu Verwechselungen Anlass, so legt der Bundeswahlausschuss eine Unterscheidungsbezeichnung fest, die einem oder mehreren Wahlvorschlägen bei Zulassung beizufügen ist. Vor der Beschlussfassung ist den erschienenen Beteiligten Gelegenheit zur Äußerung zu geben.
 
 (3) Im Anschluss an die Feststellung nach § 18 Abs. 4 des Bundeswahlgesetzes gibt der Bundeswahlleiter die Entscheidung des Bundeswahlausschusses in der Sitzung unter kurzer Angabe der Gründe bekannt. Ist eine Partei oder Vereinigung wegen der Feststellung an der Einreichung von Wahlvorschlägen gehindert, weist er dabei auf den Rechtsbehelf der Beschwerde nach § 18 Absatz 4a des Bundeswahlgesetzes, die hierfür geltende Frist und die Rechtsfolgen einer Beschwerde hin. Die Entscheidung ist vom Bundeswahlleiter öffentlich bekanntzumachen.
 
@@ -610,7 +614,7 @@ Nachdem der Wahltag bestimmt ist, fordern die Kreis- und Landeswahlleiter durch 
 
 
 
-Er soll ferner Namen und Anschriften der Vertrauensperson und der stellvertretenden Vertrauensperson enthalten.
+Er soll ferner Namen, Anschrift, Telefonnummer und E-Mail-Adresse der Vertrauensperson und der stellvertretenden Vertrauensperson enthalten.
 
 (2) Kreiswahlvorschläge von Parteien sind von mindestens drei Mitgliedern des Vorstandes des Landesverbandes, darunter dem Vorsitzenden oder seinem Stellvertreter, persönlich und handschriftlich zu unterzeichnen. Hat eine Partei in einem Land keinen Landesverband oder keine einheitliche Landesorganisation, so müssen die Kreiswahlvorschläge von den Vorständen der nächstniedrigen Gebietsverbände, in deren Bereich der Wahlkreis liegt, dem Satz 1 gemäß unterzeichnet sein. Die Unterschriften des einreichenden Vorstandes genügen, wenn er innerhalb der Einreichungsfrist nachweist, dass dem Landeswahlleiter eine schriftliche, dem Satz 1 entsprechende Vollmacht der anderen beteiligten Vorstände vorliegt.
 
@@ -618,10 +622,10 @@ Er soll ferner Namen und Anschriften der Vertrauensperson und der stellvertreten
 
 (4) Muss ein Kreiswahlvorschlag von mindestens 200 Wahlberechtigten des Wahlkreises unterzeichnet sein, so sind die Unterschriften auf amtlichen Formblättern nach Anlage 14 unter Beachtung folgender Vorschriften zu erbringen:
 
-1.  Der Kreiswahlleiter liefert die Formblätter auf Anforderung kostenfrei; er kann sie auch als Druckvorlage oder elektronisch bereitstellen. Bei der Anforderung sind Familienname, Vornamen und Anschrift (Hauptwohnung) des vorzuschlagenden Bewerbers anzugeben. Wird bei der Anforderung der Nachweis erbracht, dass für den Bewerber im Melderegister eine Auskunftssperre gemäß § 51 Absatz 1 des Bundesmeldegesetzes eingetragen ist, wird anstelle seiner Anschrift (Hauptwohnung) eine Erreichbarkeitsanschrift verwendet; die Angabe eines Postfachs genügt nicht. Als Bezeichnung des Trägers des Wahlvorschlages, der den Kreiswahlvorschlag einreichen will, sind außerdem bei Parteien deren Namen und, sofern sie eine Kurzbezeichnung verwenden, auch diese, bei anderen Kreiswahlvorschlägen deren Kennwort anzugeben. Parteien haben ferner die Aufstellung des Bewerbers in einer Mitglieder- oder einer besonderen oder allgemeinen Vertreterversammlung nach § 21 des Bundeswahlgesetzes zu bestätigen. Der Kreiswahlleiter hat die in den Sätzen 2 bis 4 genannten Angaben im Kopf der Formblätter zu vermerken.
+1.  Der Kreiswahlleiter liefert die Formblätter auf Anforderung kostenfrei; er kann sie auch als Druckvorlage oder elektronisch bereitstellen. Bei der Anforderung sind Familienname, Vornamen und Anschrift (Hauptwohnung) des vorzuschlagenden Bewerbers anzugeben. Wird bei der Anforderung der Nachweis erbracht, dass für den Bewerber im Melderegister eine Auskunftssperre gemäß § 51 Absatz 1 des Bundesmeldegesetzes eingetragen ist, wird anstelle seiner Anschrift (Hauptwohnung) eine Erreichbarkeitsanschrift verwendet; die Angabe eines Postfachs genügt nicht. Als Bezeichnung des Trägers des Wahlvorschlages, der den Kreiswahlvorschlag einreichen will, sind außerdem bei Parteien deren Namen und, sofern sie eine Kurzbezeichnung verwenden, auch diese, bei anderen Kreiswahlvorschlägen deren Kennwort anzugeben. Parteien haben ferner die Aufstellung des Bewerbers in einer Mitglieder- oder einer besonderen oder allgemeinen Vertreterversammlung nach § 21 des Bundeswahlgesetzes zu bestätigen. Der Kreiswahlleiter hat im Kopf der Formblätter die in Nummer 1 Satz 4 genannten Angaben sowie Familienname, Vorname und Wohnort (Ort der Hauptwohnung) des vorzuschlagenden Bewerbers zu vermerken. Wird der Nachweis erbracht, dass für den Bewerber im Melderegister eine Auskunftssperre gemäß § 51 Absatz 1 des Bundesmeldegesetzes eingetragen ist, wird anstelle seines Wohnortes der Ort seiner Erreichbarkeitsanschrift verwendet; die Angabe eines Postfachs genügt nicht.
 
 
-2.  Die Wahlberechtigten, die einen Kreiswahlvorschlag unterstützen, müssen die Erklärung auf dem Formblatt persönlich und handschriftlich unterzeichnen; neben der Unterschrift sind Familienname, Vornamen, Geburtsdatum und Anschrift (Hauptwohnung) des Unterzeichners sowie der Tag der Unterzeichnung anzugeben. Von Wahlberechtigten im Sinne des § 12 Abs. 2 Satz 1 des Bundeswahlgesetzes ist der Nachweis für die Wahlberechtigung durch die Angaben gemäß Anlage 2 und Abgabe einer Versicherung an Eides statt zu erbringen.
+2.  Die Wahlberechtigten, die einen Kreiswahlvorschlag unterstützen, müssen die Erklärung auf dem Formblatt persönlich und handschriftlich unterzeichnen; neben der Unterschrift sind Familienname, Vornamen, Geburtsdatum und Anschrift (Hauptwohnung) des Unterzeichners sowie der Tag der Unterzeichnung anzugeben. Von Wahlberechtigten im Sinne des § 12 Absatz 2 Satz 1 Nummer 1 des Bundeswahlgesetzes ist der Nachweis für die Wahlberechtigung durch die Angaben gemäß Anlage 2 und die Abgabe einer Versicherung zu erbringen. Von Wahlberechtigten nach § 12 Absatz 2 Satz 1 Nummer 2 des Bundeswahlgesetzes ist der Nachweis für die Wahlberechtigung durch die Angaben gemäß Anlage 2a und die Abgabe einer Versicherung an Eides statt zu erbringen.
 
 
 3.  Für jeden Unterzeichner ist auf dem Formblatt oder gesondert eine Bescheinigung der Gemeindebehörde, bei der er im Wählerverzeichnis einzutragen ist, beizufügen, dass er im Zeitpunkt der Unterzeichnung in dem betreffenden Wahlkreis wahlberechtigt ist. Gesonderte Bescheinigungen des Wahlrechts sind vom Träger des Wahlvorschlages bei der Einreichung des Kreiswahlvorschlages mit den Unterstützungsunterschriften zu verbinden. Wer für einen anderen eine Bescheinigung des Wahlrechts beantragt, muss nachweisen, dass der Betreffende den Kreiswahlvorschlag unterstützt.
@@ -661,12 +665,12 @@ Er soll ferner Namen und Anschriften der Vertrauensperson und der stellvertreten
 
 (6) Die Bescheinigung des Wahlrechts (Absatz 4 Nr. 3) und die Bescheinigung der Wählbarkeit (Absatz 5 Nr. 2) sind kostenfrei zu erteilen. Die Gemeindebehörde darf für jeden Wahlberechtigten die Bescheinigung des Wahlrechts nur einmal zu einem Kreiswahlvorschlag erteilen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist.
 
-(7) Für Bewerber, die keine Wohnung in der Bundesrepublik Deutschland innehaben und sich dort auch sonst nicht gewöhnlich aufhalten, erteilt das Bundesministerium des Innern, für Bau und Heimat die Wählbarkeitsbescheinigung. Sie ist bei der für den Wohnort des Bewerbers zuständigen diplomatischen oder berufskonsularischen Vertretung der Bundesrepublik Deutschland, sonst unmittelbar unter Vorlage der erforderlichen Nachweise zu beantragen.
+(7) Für Bewerber, die keine Wohnung in der Bundesrepublik Deutschland innehaben und sich dort auch sonst nicht gewöhnlich aufhalten, erteilt das Bundesministerium des Innern und für Heimat die Wählbarkeitsbescheinigung. Sie ist bei der für den Wohnort des Bewerbers zuständigen diplomatischen oder berufskonsularischen Vertretung der Bundesrepublik Deutschland, sonst unmittelbar unter Vorlage der erforderlichen Nachweise zu beantragen.
 
 
 #### § 35 Vorprüfung der Kreiswahlvorschläge durch den Kreiswahlleiter
 
-(1) Der Kreiswahlleiter vermerkt auf jedem Kreiswahlvorschlag den Tag und bei Eingang am letzten Tage der Einreichungsfrist außerdem die Uhrzeit des Eingangs und übersendet dem Landeswahlleiter und dem Bundeswahlleiter sofort je einen Abdruck. Er prüft unverzüglich, ob die eingegangenen Kreiswahlvorschläge vollständig sind und den Erfordernissen des Bundeswahlgesetzes und dieser Verordnung entsprechen.
+(1) Der Kreiswahlleiter vermerkt auf jedem Kreiswahlvorschlag den Tag und bei Eingang am letzten Tage der Einreichungsfrist außerdem die Uhrzeit des Eingangs. Er prüft unverzüglich, ob die eingegangenen Kreiswahlvorschläge vollständig sind und den Erfordernissen des Bundeswahlgesetzes und dieser Verordnung entsprechen. Die von ihm geprüften Kreiswahlvorschläge übersendet der Kreiswahlleiter in einem durch den Bundeswahlleiter zur Verfügung gestellten elektronischen Verfahren dem Landeswahlleiter und dem Bundeswahlleiter. Es sind geeignete technische und organisatorische Maßnahmen zum Schutz vor unbefugtem Zugriff auf die Daten zu treffen.
 
 (2) Wird dem Kreiswahlleiter bekannt, dass ein im Wahlkreis vorgeschlagener Bewerber noch in einem anderen Wahlkreis vorgeschlagen worden ist, so weist er den Kreiswahlleiter des anderen Wahlkreises auf die Doppelbewerbung hin.
 
@@ -681,18 +685,18 @@ Er soll ferner Namen und Anschriften der Vertrauensperson und der stellvertreten
 
 (3) Der Kreiswahlausschuss prüft die eingegangenen Kreiswahlvorschläge und beschließt über ihre Zulassung oder Zurückweisung. Vor einer Entscheidung ist der erschienenen Vertrauensperson des betroffenen Wahlvorschlages Gelegenheit zur Äußerung zu geben.
 
-(4) Der Kreiswahlausschuss stellt die zugelassenen Kreiswahlvorschläge mit den in § 34 Abs. 1 Satz 2 bezeichneten Angaben fest. Fehlt bei einem anderen Kreiswahlvorschlag (§ 20 Abs. 3 des Bundeswahlgesetzes) das Kennwort oder erweckt es den Eindruck, als handele es sich um den Kreiswahlvorschlag einer Partei, oder ist es geeignet, Verwechslungen mit einem früher eingereichten Kreiswahlvorschlag hervorzurufen, so erhält der Kreiswahlvorschlag den Namen des Bewerbers als Kennwort. Geben die Namen mehrerer Parteien oder deren Kurzbezeichnungen zu Verwechslungen Anlass, so fügt der Kreiswahlausschuss einem Wahlvorschlag oder mehreren Wahlvorschlägen eine Unterscheidungsbezeichnung bei; hat der Landeswahlausschuss eine Unterscheidungsregelung getroffen (§ 41 Abs. 1), so gilt diese.
+(4) Der Kreiswahlausschuss stellt die zugelassenen Kreiswahlvorschläge mit den in § 34 Abs. 1 Satz 2 bezeichneten Angaben und unter der Bedingung, dass die Landesliste der einreichenden Partei nach § 28 des Bundeswahlgesetzes zugelassen wird, fest. Fehlt bei einem anderen Kreiswahlvorschlag (§ 20 Abs. 3 des Bundeswahlgesetzes) das Kennwort oder erweckt es den Eindruck, als handele es sich um den Kreiswahlvorschlag einer Partei, oder ist es geeignet, Verwechslungen mit einem früher eingereichten Kreiswahlvorschlag hervorzurufen, so erhält der Kreiswahlvorschlag den Namen des Bewerbers als Kennwort.
 
 (5) Der Kreiswahlleiter gibt die Entscheidung des Kreiswahlausschusses in der Sitzung im Anschluss an die Beschlussfassung unter kurzer Angabe der Gründe bekannt und weist auf den zulässigen Rechtsbehelf hin.
 
 (6) Die Niederschrift über die Sitzung (§ 5 Abs. 7) ist nach dem Muster der Anlage 19 zu fertigen; der Niederschrift sind die zugelassenen Kreiswahlvorschläge in der vom Kreiswahlausschuss festgestellten Fassung beizufügen.
 
-(7) Nach der Sitzung übersendet der Kreiswahlleiter dem Landeswahlleiter und dem Bundeswahlleiter sofort eine Ausfertigung der Niederschrift und weist dabei auf ihm bedenklich erscheinende Entscheidungen besonders hin. Er ist verpflichtet, dem Bundeswahlleiter auf Verlangen alle für die Einlegung einer Beschwerde erforderlichen Auskünfte zu erteilen und Feststellungen zu treffen.
+(7) Nach der Sitzung übersendet der Kreiswahlleiter dem Landeswahlleiter und dem Bundeswahlleiter sofort die geprüften Kreiswahlvorschläge in einem durch den Bundeswahlleiter zur Verfügung gestellten elektronischen Verfahren sowie eine Ausfertigung der Niederschrift. Es sind geeignete technische und organisatorische Maßnahmen zum Schutz vor unbefugtem Zugriff auf die Daten zu treffen. Der Kreiswahlleiter weist bei der Übermittlung auf ihm bedenklich erscheinende Entscheidungen besonders hin. Er ist verpflichtet, dem Bundeswahlleiter auf Verlangen alle für die Einlegung einer Beschwerde erforderlichen Auskünfte zu erteilen und Feststellungen zu treffen.
 
 
 #### § 37 Beschwerde gegen Entscheidungen des Kreiswahlausschusses
 
-(1) Die Beschwerde gegen eine Entscheidung des Kreiswahlausschusses ist schriftlich oder zur Niederschrift beim Kreiswahlleiter einzulegen. Der Bundeswahlleiter hat seine Beschwerde beim Kreiswahlleiter, der Kreiswahlleiter seine Beschwerde beim Landeswahlleiter einzulegen. Die Schriftform gilt auch durch Telegramm, Fernschreiben oder Telefax als gewahrt. Der Kreiswahlleiter unterrichtet unverzüglich den Landeswahlleiter und den Bundeswahlleiter über die eingegangenen Beschwerden und verfährt nach den Anweisungen des Landeswahlleiters.
+(1) Die Beschwerde gegen eine Entscheidung des Kreiswahlausschusses ist schriftlich oder zur Niederschrift beim Kreiswahlleiter einzulegen. Der Bundeswahlleiter hat seine Beschwerde beim Kreiswahlleiter, der Kreiswahlleiter seine Beschwerde beim Landeswahlleiter einzulegen. Die Schriftform gilt auch durch Telefax als gewahrt. Der Kreiswahlleiter unterrichtet unverzüglich den Landeswahlleiter und den Bundeswahlleiter über die eingegangenen Beschwerden und verfährt nach den Anweisungen des Landeswahlleiters.
 
 (2) Der Landeswahlleiter lädt die Beschwerdeführer, die Vertrauenspersonen der betroffenen Kreiswahlvorschläge sowie den Kreiswahlleiter und den Bundeswahlleiter zu der Sitzung, in der über die Beschwerde entschieden wird. Den Vertrauenspersonen ist Gelegenheit zur Äußerung zu geben.
 
@@ -701,7 +705,7 @@ Er soll ferner Namen und Anschriften der Vertrauensperson und der stellvertreten
 
 #### § 38 Bekanntmachung der Kreiswahlvorschläge
 
-Der Kreiswahlleiter ordnet die zugelassenen Kreiswahlvorschläge unter fortlaufenden Nummern in der Reihenfolge, wie sie durch § 30 Abs. 3 Satz 3 und 4 des Bundeswahlgesetzes und durch die Mitteilung des Landeswahlleiters nach § 43 Abs. 2 bestimmt ist, und macht sie öffentlich bekannt. Parteien, für die eine Landesliste, aber kein Kreiswahlvorschlag zugelassen ist, erhalten eine Leernummer. Die Bekanntmachung enthält für jeden Kreiswahlvorschlag die in § 34 Abs. 1 Satz 2 bezeichneten Angaben; statt des Geburtsdatums ist jedoch jeweils nur das Geburtsjahr des Bewerbers anzugeben. Weist ein Bewerber bis zum Ablauf der Einreichungsfrist gegenüber dem Kreiswahlleiter nach, dass für ihn im Melderegister ein Sperrvermerk gemäß § 51 Absatz 1 des Bundesmeldegesetzes eingetragen ist, ist anstelle seiner Anschrift (Hauptwohnung) eine Erreichbarkeitsanschrift zu verwenden; die Angabe eines Postfachs genügt nicht. Der Kreiswahlleiter unterrichtet unverzüglich den Landeswahlleiter und den Bundeswahlleiter über die Erreichbarkeitsanschrift. Der Bundeswahlleiter veröffentlicht den Inhalt der öffentlichen Bekanntmachungen der Kreiswahlleiter im Wahlgebiet.
+Der Kreiswahlleiter stellt vor der öffentlichen Bekanntmachung der zugelassenen Kreiswahlvorschläge den Bedingungseintritt des § 26 Absatz 1 Satz 3 des Bundeswahlgesetzes nach dem Muster der Anlage 19a fest. Er ordnet die zugelassenen Kreiswahlvorschläge unter fortlaufenden Nummern in der Reihenfolge, wie sie durch § 30 Abs. 3 Satz 3 und 4 des Bundeswahlgesetzes und durch die Mitteilung des Landeswahlleiters nach § 43 Abs. 2 bestimmt ist, und macht sie öffentlich bekannt. Parteien, für die eine Landesliste, aber kein Kreiswahlvorschlag zugelassen ist, erhalten eine Leernummer. Die Bekanntmachung enthält für jeden Kreiswahlvorschlag die in § 34 Abs. 1 Satz 2 bezeichneten Angaben; statt des Geburtsdatums ist jedoch jeweils nur das Geburtsjahr und statt der Anschrift nur der Wohnort (Ort der Hauptwohnung) des Bewerbers anzugeben. Weist ein Bewerber bis zum Ablauf der Einreichungsfrist gegenüber dem Kreiswahlleiter nach, dass für ihn im Melderegister eine Auskunftssperre gemäß § 51 Absatz 1 des Bundesmeldegesetzes eingetragen ist, ist anstelle seines Wohnortes der Ort seiner Erreichbarkeitsanschrift zu verwenden; die Angabe eines Postfachs genügt nicht. Der Kreiswahlleiter unterrichtet unverzüglich den Landeswahlleiter und den Bundeswahlleiter über die Erreichbarkeitsanschrift. Der Bundeswahlleiter veröffentlicht den Inhalt der öffentlichen Bekanntmachungen der Kreiswahlleiter im Wahlgebiet.
 
 
 #### § 39 Inhalt und Form der Landeslisten
@@ -723,7 +727,7 @@ Sie soll ferner Namen und Anschriften der Vertrauensperson und der stellvertrete
 
 (4) Der Landesliste sind beizufügen
 
-1.  die Erklärungen der vorgeschlagenen Bewerber, dass sie ihrer Aufstellung zustimmen und für keine andere Landesliste ihre Zustimmung zur Benennung als Bewerber gegeben haben, sowie eine Versicherung an Eides statt gegenüber dem Landeswahlleiter, dass sie nicht Mitglied einer anderen als der den Wahlvorschlag einreichenden Partei sind, jeweils nach dem Muster der Anlage 22; für die Abnahme der Versicherung an Eides statt gilt § 21 Abs. 6 Satz 3 des Bundeswahlgesetzes entsprechend,
+1.  die Erklärungen der vorgeschlagenen Bewerber, dass sie ihrer Aufstellung zustimmen und für keine andere Landesliste ihre Zustimmung zur Benennung als Bewerber gegeben haben, sowie eine Versicherung an Eides statt gegenüber dem Landeswahlleiter, dass sie nicht Mitglied einer anderen als der den Wahlvorschlag einreichenden Partei sind und es sich bei ihnen nicht um einen Bewerber in einem anderen Kreiswahlvorschlag nach § 20 Absatz 3 des Bundeswahlgesetzes handelt, jeweils nach dem Muster der Anlage 22; für die Abnahme der Versicherung an Eides statt gilt § 21 Abs. 6 Satz 3 des Bundeswahlgesetzes entsprechend,
 
 
 2.  die Bescheinigungen der zuständigen Gemeindebehörden nach dem Muster der Anlage 16, dass die vorgeschlagenen Bewerber wählbar sind,
@@ -742,23 +746,23 @@ Sie soll ferner Namen und Anschriften der Vertrauensperson und der stellvertrete
 
 #### § 40 Vorprüfung der Landeslisten durch den Landeswahlleiter
 
-(1) Der Landeswahlleiter vermerkt auf jeder Landesliste den Tag und bei Eingang am letzten Tage der Einreichungsfrist außerdem die Uhrzeit des Eingangs und übersendet dem Bundeswahlleiter sofort einen Abdruck. Er prüft unverzüglich, ob die eingegangenen Landeslisten vollständig sind und den Erfordernissen des Bundeswahlgesetzes und dieser Verordnung entsprechen.
+(1) Der Landeswahlleiter vermerkt auf jeder Landesliste den Tag und bei Eingang am letzten Tage der Einreichungsfrist außerdem die Uhrzeit des Eingangs. Er prüft unverzüglich, ob die eingegangenen Landeslisten vollständig sind und den Erfordernissen des Bundeswahlgesetzes und dieser Verordnung entsprechen. Die von ihm geprüften Landeslisten übersendet der Landeswahlleiter in einem durch den Bundeswahlleiter zur Verfügung gestellten elektronischen Verfahren dem Bundeswahlleiter. Es sind geeignete technische und organisatorische Maßnahmen zum Schutz vor unbefugtem Zugriff auf die Daten zu treffen.
 
-(2) Wird dem Landeswahlleiter bekannt, dass ein auf einer Landesliste vorgeschlagener Bewerber noch auf einer anderen Landesliste vorgeschlagen worden ist, so weist er den Landeswahlleiter des anderen Landes auf die Doppelbewerbung hin.
+(2) Wird dem Landeswahlleiter bekannt, dass ein auf einer Landesliste vorgeschlagener Bewerber noch auf einer anderen Landesliste oder als Bewerber in einem anderen Kreiswahlvorschlag nach § 20 Absatz 3 des Bundeswahlgesetzes vorgeschlagen worden ist, so weist er den Landeswahlleiter des anderen Landes auf die Doppelbewerbung hin.
 
 (3) Wird der Landeswahlausschuss nach § 27 Abs. 5 des Bundeswahlgesetzes in Verbindung mit § 25 Abs. 4 des Bundeswahlgesetzes im Mängelbeseitigungsverfahren angerufen, gilt § 35 Abs. 3 entsprechend.
 
 
 #### § 41 Zulassung der Landeslisten
 
-(1) Der Landeswahlausschuss stellt die zugelassenen Landeslisten mit den in § 39 Abs. 1 Satz 2 bezeichneten Angaben und mit der maßgebenden Bewerberreihenfolge fest. Geben die Namen mehrerer Parteien oder deren Kurzbezeichnungen im Land zu Verwechslungen Anlass, so fügt der Landeswahlausschuss einer Landesliste oder mehreren Landeslisten eine Unterscheidungsbezeichnung bei.
+(1) Der Landeswahlausschuss stellt die zugelassenen Landeslisten mit den in § 39 Abs. 1 Satz 2 bezeichneten Angaben und mit der maßgebenden Bewerberreihenfolge fest.
 
-(2) Für das Verfahren gilt § 36 Abs. 1 bis 3, 5 und 6 entsprechend. Der Niederschrift sind die zugelassenen Landeslisten in der vom Landeswahlausschuss festgestellten Fassung beizufügen. Der Landeswahlleiter übersendet dem Bundeswahlleiter sofort eine Ausfertigung der Niederschrift und ihrer Anlagen.
+(2) Für das Verfahren gilt § 36 Abs. 1 bis 3, 5 und 6 entsprechend. Der Niederschrift sind die zugelassenen Landeslisten in der vom Landeswahlausschuss festgestellten Fassung beizufügen. Der Landeswahlleiter übersendet dem Bundeswahlleiter sofort eine Ausfertigung der Niederschrift und ihrer Anlagen sowie die zugelassenen Landeslisten in einem durch den Bundeswahlleiter zur Verfügung gestellten elektronischen Verfahren eine Ausfertigung der Niederschrift und ihrer Anlagen. Es sind geeignete technische und organisatorische Maßnahmen zum Schutz vor unbefugtem Zugriff auf die Daten zu treffen.
 
 
 #### § 42 Beschwerde gegen Entscheidungen des Landeswahlausschusses
 
-(1) Die Beschwerde gegen eine Entscheidung des Landeswahlausschusses ist schriftlich oder zur Niederschrift beim Landeswahlleiter einzulegen; der Landeswahlleiter hat seine Beschwerde beim Bundeswahlleiter einzulegen. Die Schriftform gilt auch durch Telegramm, Fernschreiben oder Telefax als gewahrt. Der Landeswahlleiter unterrichtet unverzüglich den Bundeswahlleiter über die eingegangenen Beschwerden und verfährt nach dessen Anweisungen.
+(1) Die Beschwerde gegen eine Entscheidung des Landeswahlausschusses ist schriftlich oder zur Niederschrift beim Landeswahlleiter einzulegen; der Landeswahlleiter hat seine Beschwerde beim Bundeswahlleiter einzulegen. Die Schriftform gilt auch durch Telefax als gewahrt. Der Landeswahlleiter unterrichtet unverzüglich den Bundeswahlleiter über die eingegangenen Beschwerden und verfährt nach dessen Anweisungen.
 
 (2) Der Bundeswahlleiter lädt die Beschwerdeführer, die Vertrauenspersonen der betroffenen Landeslisten und den Landeswahlleiter zu der Sitzung, in der über die Beschwerde entschieden wird. Den Vertrauenspersonen ist Gelegenheit zur Äußerung zu geben.
 
@@ -767,7 +771,7 @@ Sie soll ferner Namen und Anschriften der Vertrauensperson und der stellvertrete
 
 #### § 43 Bekanntmachung der Landeslisten
 
-(1) Der Landeswahlleiter ordnet die endgültig zugelassenen Landeslisten in der durch § 30 Abs. 3 Satz 1 und 2 des Bundeswahlgesetzes bestimmten Reihenfolge unter fortlaufenden Nummern und macht sie öffentlich bekannt. Die Bekanntmachung enthält für jede Landesliste die in § 39 Abs. 1 Satz 2 bezeichneten Angaben; statt des Geburtsdatums ist jedoch nur das Geburtsjahr der Bewerber anzugeben. Weist ein Bewerber bis zum Ablauf der Einreichungsfrist gegenüber dem Landeswahlleiter nach, dass für ihn im Melderegister ein Sperrvermerk gemäß § 51 Absatz 1 des Bundesmeldegesetzes eingetragen ist, ist anstelle seiner Anschrift (Hauptwohnung) eine Erreichbarkeitsanschrift zu verwenden; die Angabe eines Postfachs genügt nicht. Der Landeswahlleiter unterrichtet unverzüglich den Bundeswahlleiter über die Erreichbarkeitsanschrift. Der Bundeswahlleiter veröffentlicht den Inhalt der öffentlichen Bekanntmachungen der Landeswahlleiter im Wahlgebiet.
+(1) Der Landeswahlleiter ordnet die endgültig zugelassenen Landeslisten in der durch § 30 Abs. 3 Satz 1 und 2 des Bundeswahlgesetzes bestimmten Reihenfolge unter fortlaufenden Nummern und macht sie öffentlich bekannt. Die Bekanntmachung enthält für jede Landesliste die in § 39 Abs. 1 Satz 2 bezeichneten Angaben; statt des Geburtsdatums ist jedoch nur das Geburtsjahr der Bewerber und statt der Anschrift nur der Wohnort (Ort der Hauptwohnung) anzugeben. Weist ein Bewerber bis zum Ablauf der Einreichungsfrist gegenüber dem Landeswahlleiter nach, dass für ihn im Melderegister eine Auskunftssperre gemäß § 51 Absatz 1 des Bundesmeldegesetzes eingetragen ist, ist anstelle seines Wohnortes der Ort seiner Erreichbarkeitsanschrift zu verwenden; die Angabe eines Postfachs genügt nicht. Der Landeswahlleiter unterrichtet unverzüglich den Bundeswahlleiter über die Erreichbarkeitsanschrift. Der Bundeswahlleiter veröffentlicht den Inhalt der öffentlichen Bekanntmachungen der Landeswahlleiter im Wahlgebiet.
 
 (2) Gleichzeitig teilt der Landeswahlleiter den Kreiswahlleitern die Reihenfolge der Landeslisten und die Familiennamen und Vornamen der ersten fünf Bewerber mit.
 
@@ -779,20 +783,20 @@ Sie soll ferner Namen und Anschriften der Vertrauensperson und der stellvertrete
 
 (1) Der Stimmzettel ist mindestens 21 x 29,7 cm (DIN A4) groß und aus weißem oder weißlichem Papier. Das Papier muss so beschaffen sein, dass nach Kennzeichnung und Faltung durch den Wähler andere Personen nicht erkennen können, wie er gewählt hat. Der Stimmzettel enthält nach dem Muster der Anlage 26 je in der Reihenfolge und unter der Nummer ihrer Bekanntmachung
 
-1.  für die Wahl im Wahlkreis in schwarzem Druck die zugelassenen Kreiswahlvorschläge unter Angabe des Familiennamens, Vornamens, Berufs oder Standes und des Wohnortes (Hauptwohnung) des Bewerbers sowie des Namens der Partei, sofern sie eine Kurzbezeichnung verwendet, auch dieser, oder des Kennworts bei anderen Kreiswahlvorschlägen (§ 20 Abs. 3 des Bundeswahlgesetzes) und rechts von dem Namen jedes Bewerbers einen Kreis für die Kennzeichnung; bei einem Nachweis nach § 38 Satz 4 ist anstelle des Wohnortes (Hauptwohnung) der Ort der Erreichbarkeitsanschrift anzugeben,
+1.  für die Wahl im Wahlkreis in schwarzem Druck die zugelassenen Kreiswahlvorschläge unter Angabe des Familiennamens, Vornamens, Berufs oder Standes und des Wohnortes (Hauptwohnung) des Bewerbers sowie des Namens der Partei, sofern sie eine Kurzbezeichnung und Zusatzbezeichnung verwendet, auch diese, oder des Kennworts bei anderen Kreiswahlvorschlägen (§ 20 Abs. 3 des Bundeswahlgesetzes) und rechts von dem Namen jedes Bewerbers einen Kreis für die Kennzeichnung; bei einem Nachweis nach § 38 Satz 5 ist anstelle des Wohnortes (Hauptwohnung) der Ort der Erreichbarkeitsanschrift anzugeben,
 
 
-2.  für die Wahl nach Landeslisten in blauem Druck die zugelassenen Landeslisten unter Angabe des Namens der Partei, sofern sie eine Kurzbezeichnung verwendet, auch dieser, sowie der Familiennamen und Vornamen der ersten fünf Bewerber und links von der Parteibezeichnung einen Kreis für die Kennzeichnung.
+2.  für die Wahl nach Landeslisten in blauem Druck die zugelassenen Landeslisten unter Angabe des Namens der Partei, sofern sie eine Kurzbezeichnung und Zusatzbezeichnung verwendet, auch diese, sowie der Familiennamen und Vornamen der ersten fünf Bewerber und links von der Parteibezeichnung einen Kreis für die Kennzeichnung.
 
 
 
-Zusätzlich kann ein eingetragener Ordens- oder Künstlername (§ 5 Absatz 2 Nummer 12 des Personalausweisgesetzes, § 4 Absatz 1 Nummer 4 des Passgesetzes) angegeben werden. Jeder Wahlkreisbewerber und jede Landesliste erhält ein abgegrenztes Feld. Die Stimmzettel müssen in jedem Wahlbezirk von gleicher Farbe und Beschaffenheit sein.
+Zusätzlich können nur ein eingetragener Doktorgrad (§ 5 Absatz 2 Nummer 3 des Personalausweisgesetzes, § 4 Absatz 1 Satz 2 Nummer 3 des Passgesetzes) und ein eingetragener Ordens- oder Künstlername (§ 5 Absatz 2 Nummer 12 des Personalausweisgesetzes, § 4 Absatz 1 Satz 2 Nummer 4 des Passgesetzes) angegeben werden. Familiennamen sind vollständig anzugeben. Bei mehreren Vornamen kann ein Rufname bestimmt werden. Jeder Wahlkreisbewerber und jede Landesliste erhält ein abgegrenztes Feld. Die Stimmzettel müssen in jedem Wahlbezirk von gleicher Farbe und Beschaffenheit sein.
 
 (2) Zur Verwendung von Stimmzettelschablonen wird die rechte obere Ecke des Stimmzettels gelocht oder abgeschnitten. Muster der Stimmzettel werden unverzüglich nach ihrer Fertigstellung den Blindenvereinen, die ihre Bereitschaft zur Herstellung von Stimmzettelschablonen erklärt haben, zur Verfügung gestellt.
 
-(3) Die Stimmzettelumschläge für die Briefwahl sollen 11,4 x 16,2 cm (DIN C6) groß und blau und nach dem Muster der Anlage 10 beschriftet sein.
+(3) Die Stimmzettelumschläge für die Briefwahl sollen weiß, blickdicht und nach dem Muster der Anlage 10 beschriftet sein. Bei zeitgleicher Durchführung von Wahlen oder Abstimmungen dürfen die Stimmzettelumschläge der Bundestagswahl nicht für die anderen Wahlen oder Abstimmungen mitbenutzt werden. Die Stimmzettelumschläge der Bundestagswahl sollen sich von Stimmzettelumschlägen zeitgleicher Wahlen oder Abstimmungen farblich unterscheiden. Ist eine farbliche Unterscheidung nicht möglich, sind Unterscheidungsmerkmale auf den Stimmzettelumschlägen der Bundestagswahl anzubringen.
 
-(4) Die Wahlbriefumschläge sollen etwa 12 x 17,6 cm groß und hellrot und nach dem Muster der Anlage 11 beschriftet sein.
+(4) Die Wahlbriefumschläge sollen hellrot und nach dem Muster der Anlage 11 beschriftet sein. Bei zeitgleicher Durchführung von Wahlen oder Abstimmungen dürfen die Wahlbriefumschläge der Bundestagswahl mitbenutzt werden; § 50 Absatz 2 Satz 2 des Bundeswahlgesetzes gilt entsprechend.
 
 (5) Schriftart, Schriftgröße und Kontrast sollen so gewählt werden, dass die Lesbarkeit erleichtert wird.
 
@@ -807,7 +811,7 @@ Zusätzlich kann ein eingetragener Ordens- oder Künstlername (§ 5 Absatz 2 Num
 
 (1) Die Gemeindebehörde bestimmt für jeden Wahlbezirk einen Wahlraum. Soweit möglich, stellen die Gemeinden Wahlräume in Gemeindegebäuden zur Verfügung. Die Wahlräume sollen nach den örtlichen Verhältnissen so ausgewählt und eingerichtet werden, dass allen Wahlberechtigten, insbesondere Menschen mit Behinderungen und anderen Menschen mit Mobilitätsbeeinträchtigung, die Teilnahme an der Wahl möglichst erleichtert wird. Die Gemeindebehörden teilen frühzeitig und in geeigneter Weise mit, welche Wahlräume barrierefrei sind.
 
-(2) In größeren Wahlbezirken, in denen sich die Wählerverzeichnisse teilen lassen, kann gleichzeitig in verschiedenen Gebäuden oder in verschiedenen Räumen desselben Gebäudes oder an verschiedenen Tischen des Wahlraumes gewählt werden. Für jeden Wahlraum oder Tisch wird ein Wahlvorstand gebildet. Sind mehrere Wahlvorstände in einem Wahlraum tätig, so bestimmt die Gemeindebehörde, welcher Vorstand für Ruhe und Ordnung im Wahlraum sorgt.
+(2) In größeren Wahlbezirken, in denen sich die Wählerverzeichnisse teilen lassen, kann gleichzeitig in verschiedenen Gebäuden oder in verschiedenen Räumen desselben Gebäudes oder an verschiedenen Tischen des Wahlraumes gewählt werden; § 68 Absatz 2 gilt entsprechend. Für jeden Wahlraum oder Tisch wird ein Wahlvorstand gebildet. Sind mehrere Wahlvorstände in einem Wahlraum tätig, so bestimmt die Gemeindebehörde, welcher Vorstand für Ruhe und Ordnung im Wahlraum sorgt.
 
 
 #### § 47 Wahlzeit
@@ -998,7 +1002,7 @@ Der Inhaber eines Wahlscheines nennt seinen Namen, weist sich aus und übergibt 
 
 #### § 60 Schluss der Wahlhandlung
 
-Sobald die Wahlzeit (§ 47) abgelaufen ist, wird dies vom Wahlvorsteher bekanntgegeben. Von da ab sind nur noch die Wähler zur Stimmabgabe zuzulassen, die vor Ablauf der Wahlzeit erschienen sind und sich im Wahlraum oder aus Platzgründen davor befinden. Nach Ablauf der Wahlzeit eintreffenden Personen ist der Zutritt zur Stimmabgabe zu sperren. Nachdem die vor Ablauf der Wahlzeit erschienenen Wähler ihre Stimme abgegeben haben, erklärt der Wahlvorsteher die Wahlhandlung für geschlossen.
+Ist die Wahlzeit (§ 47) abgelaufen, wird dies vom Wahlvorsteher bekanntgegeben. Von da ab sind nur noch die Wahlberechtigten zur Stimmabgabe zuzulassen, die vor Ablauf der Wahlzeit erschienen sind und sich im Wahlraum oder aus Platzgründen davor befinden. Nach Ablauf der Wahlzeit eintreffenden Personen ist der Zutritt zur Stimmabgabe zu sperren. Nachdem die vor Ablauf der Wahlzeit erschienenen Wähler ihre Stimme abgegeben haben, erklärt der Wahlvorsteher die Wahlhandlung für geschlossen.
 
 
 ### Zweiter Unterabschnitt - Besondere Regelungen
@@ -1104,7 +1108,7 @@ Im Anschluss an die Wahlhandlung ermittelt der Wahlvorstand vorbehaltlich § 68 
 
 (1) Vor dem Öffnen der Wahlurne werden alle nicht benutzten Stimmzettel vom Wahltisch entfernt. Zunächst werden die Zahl der Stimmabgabevermerke im Wählerverzeichnis und die Zahl der eingenommenen Wahlscheine festgestellt. Sodann werden die Stimmzettel der Wahlurne entnommen, entfaltet und gezählt. Ergibt sich dabei auch nach wiederholter Zählung keine Übereinstimmung, so ist dies in der Wahlniederschrift zu vermerken und soweit möglich zu erläutern.
 
-(2) Ergibt die Feststellung nach Absatz 1 Satz 2, dass weniger als 50 Wähler ihre Stimme abgegeben haben, ordnet der Kreiswahlleiter an, dass der Wahlvorstand dieses Wahlbezirks (abgebender Wahlvorstand) die verschlossene Wahlurne, das Wählerverzeichnis, die Abschlussbeurkundung und die eingenommenen Wahlscheine dem Wahlvorstand eines bestimmten anderen Wahlbezirks des gleichen Wahlkreises (aufnehmender Wahlvorstand) zur gemeinsamen Ermittlung und Feststellung des Wahlergebnisses unverzüglich zu übergeben hat. Am Wahlraum des abgebenden Wahlvorstands ist ein Hinweis anzubringen, wo die gemeinsame Ermittlung und Feststellung des Wahlergebnisses erfolgt. Der Transport der nach Satz 1 zu übergebenden Gegenstände erfolgt in Anwesenheit des Wahlvorstehers und des Schriftführers, eines weiteren Mitglieds des Wahlvorstands und soweit möglich weiterer gemäß § 54 anwesender Personen. Der aufnehmende Wahlvorstand verfährt entsprechend § 61 Absatz 6 Satz 7 und 8. Die Übergabe der Wahlurne und der Wahlunterlagen ist in den Wahlniederschriften des abgebenden und des aufnehmenden Wahlvorstands zu vermerken.
+(2) Ergibt die Feststellung nach Absatz 1 Satz 2, dass weniger als 30 Wähler ihre Stimme abgegeben haben, ordnet der Kreiswahlleiter an, dass der Wahlvorstand dieses Wahlbezirks als abgebender Wahlvorstand die verschlossene Wahlurne oder die Stimmzettel in einem verschlossenen und versiegelten Umschlag, das Wählerverzeichnis, die Abschlussbeurkundung und die eingenommenen Wahlscheine dem Wahlvorstand eines bestimmten anderen Wahlbezirks des gleichen Wahlkreises als aufnehmender Wahlvorstand zur gemeinsamen Ermittlung und Feststellung des Wahlergebnisses unverzüglich zu übergeben hat. Am Wahlraum des abgebenden Wahlvorstands ist ein Hinweis anzubringen, wo die gemeinsame Ermittlung und Feststellung des Wahlergebnisses stattfindet. Der Transport der nach Satz 1 zu übergebenden Gegenstände erfolgt in Anwesenheit des Wahlvorstehers und des Schriftführers, eines weiteren Mitglieds des Wahlvorstands und soweit möglich weiterer gemäß § 54 anwesender Personen. Der aufnehmende Wahlvorstand verfährt entsprechend § 61 Absatz 6 Satz 7 und 8. Die Übergabe der Wahlurne und der Wahlunterlagen ist in den Wahlniederschriften des abgebenden und des aufnehmenden Wahlvorstands zu vermerken.
 
 
 ### § 69 Zählung der Stimmen
@@ -1121,7 +1125,7 @@ Im Anschluss an die Wahlhandlung ermittelt der Wahlvorstand vorbehaltlich § 68 
 
 
 
-Stimmzettel, die Anlass zu Bedenken geben, werden ausgesondert und von einem vom Wahlvorsteher hierzu bestimmten Beisitzer in Verwahrung genommen.
+Alle übrigen Stimmzettel werden ausgesondert und von einem vom Wahlvorsteher hierzu bestimmten Beisitzer in Verwahrung genommen.
 
 (2) Die Beisitzer, die die nach Landeslisten geordneten Stimmzettel (Absatz 1 Satz 1 Nr. 1) unter ihrer Aufsicht haben, übergeben die einzelnen Stapel nacheinander zu einem Teil dem Wahlvorsteher, zum anderen Teil seinem Stellvertreter. Diese prüfen, ob die Kennzeichnung der Stimmzettel eines jeden Stapels gleichlautet, und sagen zu jedem Stapel laut an, für welchen Bewerber und für welche Landesliste er Stimmen enthält. Gibt ein Stimmzettel dem Wahlvorsteher oder seinem Stellvertreter Anlass zu Bedenken, so fügen sie diesen den nach Absatz 1 Satz 2 ausgesonderten Stimmzetteln bei.
 
@@ -1146,7 +1150,7 @@ Stimmzettel, die Anlass zu Bedenken geben, werden ausgesondert und von einem vom
 3.  die ungekennzeichneten Stimmzettel,
 
 
-4.  die Stimmzettel, die Anlass zu Bedenken gegeben haben
+4.  die übrigen Stimmzettel
 
 
 
@@ -1184,7 +1188,7 @@ Im Anschluss an die Feststellungen nach § 67 gibt der Wahlvorsteher das Wahlerg
 
 
 
-(3) Der Kreiswahlleiter ermittelt nach den Schnellmeldungen der Gemeindebehörden das vorläufige Wahlergebnis im Wahlkreis. Er teilt unter Einbeziehung der Ergebnisse der Briefwahl (§ 75 Abs. 4) das vorläufige Wahlergebnis auf schnellstem Wege dem Landeswahlleiter mit; dabei gibt er an, welcher Bewerber als gewählt gelten kann. Der Landeswahlleiter meldet dem Bundeswahlleiter die eingehenden Wahlkreisergebnisse sofort und laufend weiter.
+(3) Der Kreiswahlleiter ermittelt nach den Schnellmeldungen der Gemeindebehörden das vorläufige Wahlergebnis im Wahlkreis. Er teilt unter Einbeziehung der Ergebnisse der Briefwahl (§ 75 Abs. 4) das vorläufige Wahlergebnis auf schnellstem Wege dem Landeswahlleiter mit. Hat bei der Wahl im Wahlkreis der Bewerber eines anderen Kreiswahlvorschlages (§ 20 Absatz 3 des Bundeswahlgesetzes) die meisten Erststimmen auf sich vereinigt, stellt er dies fest. Der Landeswahlleiter meldet dem Bundeswahlleiter die eingehenden Wahlkreisergebnisse sofort und laufend weiter.
 
 (4) Der Landeswahlleiter ermittelt nach den Schnellmeldungen der Kreiswahlleiter das vorläufige zahlenmäßige Wahlergebnis im Land und meldet es auf schnellstem Wege dem Bundeswahlleiter.
 
@@ -1278,7 +1282,7 @@ soweit sie nicht der Wahlniederschrift beigefügt sind, versiegelt die einzelnen
 
 ### § 76 Ermittlung und Feststellung des Wahlergebnisses im Wahlkreis
 
-(1) Der Kreiswahlleiter prüft die Wahlniederschriften der Wahlvorstände auf Vollständigkeit und Ordnungsmäßigkeit. Er stellt nach den Wahlniederschriften das endgültige Ergebnis der Wahl im Wahlkreis und der Wahl nach Landeslisten wahlbezirksweise und nach Briefwahlvorständen geordnet nach dem Muster der Anlage 30 zusammen. Dabei bildet der Kreiswahlleiter für die Gemeinden und Kreise Zwischensummen, im Falle einer Anordnung nach § 8 Abs. 3 des Bundeswahlgesetzes auch für die Briefwahlergebnisse. Ergeben sich aus der Wahlniederschrift oder aus sonstigen Gründen Bedenken gegen die Ordnungsmäßigkeit des Wahlgeschäfts, so klärt sie der Kreiswahlleiter soweit wie möglich auf.
+(1) Der Kreiswahlleiter prüft die Wahlniederschriften der Wahlvorstände auf Vollständigkeit und Ordnungsmäßigkeit. Er stellt nach den Wahlniederschriften das endgültige Ergebnis der Wahl im Wahlkreis und der Wahl nach Landeslisten wahlbezirksweise und nach Briefwahlvorständen geordnet nach dem Muster der Anlage 30 zusammen. Dabei bildet der Kreiswahlleiter für die Gemeinden und Kreise Zwischensummen, im Falle einer Anordnung nach § 8 Abs. 3 des Bundeswahlgesetzes auch für die Briefwahlergebnisse. Ergeben sich aus der Wahlniederschrift oder aus sonstigen Gründen Bedenken gegen die Ordnungsmäßigkeit des Wahlgeschäfts, so klärt sie der Kreiswahlleiter soweit wie möglich auf. Im Falle einer Nachzählung von Stimmzetteln macht der Kreiswahlleiter die Nachzählung durch Aushang am oder im Eingang des Sitzungsgebäudes bekannt. Dabei ist die Nummer des Wahlbezirks der nachzuzählenden Stimmzettel anzugeben und auf die Öffentlichkeit der Nachzählung hinzuweisen. Die Wahlniederschrift des Wahlvorstands des betroffenen Wahlbezirks und die Niederschrift über die Prüfung der Stimmzettelbündel legt der Kreiswahlleiter dem Kreiswahlausschuss vor.
 
 (2) Nach Berichterstattung durch den Kreiswahlleiter ermittelt der Kreiswahlausschuss das Wahlergebnis des Wahlkreises und stellt fest
 
@@ -1303,24 +1307,24 @@ soweit sie nicht der Wahlniederschrift beigefügt sind, versiegelt die einzelnen
 
 Der Kreiswahlausschuss ist berechtigt, Feststellungen des Wahlvorstandes zu berichtigen und dabei auch über die Gültigkeit abgegebener Stimmen abweichend zu beschließen. Ungeklärte Bedenken vermerkt er in der Niederschrift.
 
-(3) Der Kreiswahlausschuss stellt ferner fest, welcher Bewerber im Wahlkreis gewählt ist.
+(3) (weggefallen)
 
-(4) Ist bei der Wahl im Wahlkreis der Bewerber eines anderen Kreiswahlvorschlages (§ 20 Abs. 3 des Bundeswahlgesetzes) oder der Bewerber einer Partei, für die im Land keine Landesliste zugelassen ist, gewählt worden, so fordert der Kreiswahlleiter von allen Gemeindebehörden die für diesen Bewerber abgegebenen Stimmzettel ein und fügt ihnen die durch Briefwahl abgegebenen sowie die bei den Wahlniederschriften befindlichen, auf diesen Bewerber lautenden Stimmzettel bei. Gleiches gilt, wenn der Bewerber einer Partei gewählt worden ist, die nach dem vorläufigen Wahlergebnis im Wahlgebiet (§ 71 Absatz 5) oder nach der abschließenden Ermittlung des Stimmanteils der einzelnen Parteien im Wahlgebiet und der Zahl der von den einzelnen Parteien im Wahlgebiet errungenen Wahlkreissitze durch den Bundeswahlleiter (§ 78 Absatz 1 Satz 2 Nummer 3 und 4) nach § 6 Absatz 3 des Bundeswahlgesetzes bei der Sitzverteilung nicht berücksichtigt wird. Der Kreiswahlausschuss stellt fest, wieviel Zweitstimmen nach § 6 Abs. 1 Satz 2 des Bundeswahlgesetzes unberücksichtigt bleiben und bei welchen Landeslisten sie abzusetzen sind.
+(4) Hat bei der Wahl im Wahlkreis der Bewerber eines anderen Kreiswahlvorschlages (§ 20 Absatz 3 des Bundeswahlgesetzes) die meisten Erststimmen auf sich vereinigt, so fordert der Kreiswahlleiter von allen Gemeindebehörden die für diesen Bewerber abgegebenen Stimmzettel ein und fügt ihnen die durch Briefwahl abgegebenen sowie die bei den Wahlniederschriften befindlichen, auf diesen Bewerber lautenden Stimmzettel bei. Der Kreiswahlausschuss stellt fest, wie viele Zweitstimmen nach § 4 Absatz 2 Satz 2 Nummer 1 des Bundeswahlgesetzes unberücksichtigt bleiben und bei welchen Landeslisten sie abzusetzen sind.
 
-(5) Im Anschluss an die Feststellung gibt der Kreiswahlleiter das Wahlergebnis mit den in Absatz 2 Satz 1 sowie in den Absätzen 3 und 4 bezeichneten Angaben mündlich bekannt.
+(5) Im Anschluss an die Feststellung gibt der Kreiswahlleiter das Wahlergebnis mit den in Absatz 2 Satz 1 bezeichneten Angaben mündlich bekannt.
 
 (6) Die Niederschrift über die Sitzung (§ 5 Abs. 7) ist nach dem Muster der Anlage 32 zu fertigen. Die Niederschrift und die ihr beigefügte Zusammenstellung des Wahlergebnisses nach dem Muster der Anlage 30 sind von allen Mitgliedern des Kreiswahlausschusses, die an der Verhandlung teilgenommen haben, und von dem Schriftführer zu unterzeichnen.
 
-(7) Der Kreiswahlleiter benachrichtigt den Gewählten nach der mündlichen Bekanntgabe des endgültigen Wahlergebnisses und weist ihn auf die Vorschriften des § 45 Abs. 1 des Bundeswahlgesetzes, bei einer Ersatzwahl (§ 48 Abs. 2 des Bundeswahlgesetzes) auf die Vorschriften des § 45 Abs. 1 und 2 des Bundeswahlgesetzes hin. Bei einer Wiederholungswahl (§ 44 des Bundeswahlgesetzes) benachrichtigt er den Gewählten mittels Zustellung (§ 87 Abs. 1) und weist ihn auf die Vorschriften des § 45 Abs. 3 des Bundeswahlgesetzes hin.
+(7) (weggefallen)
 
 (8) Der Kreiswahlleiter übersendet dem Landeswahlleiter und dem Bundeswahlleiter auf schnellstem Wege eine Ausfertigung der Niederschrift des Kreiswahlausschusses mit der dazugehörigen Zusammenstellung.
 
-(9) Der Landeswahlleiter benachrichtigt den Bundeswahlleiter und den Präsidenten des Deutschen Bundestages sofort, wenn der gewählte Bewerber die Wahl abgelehnt hat. Bei einer Wiederholungswahl (§ 44 des Bundeswahlgesetzes) teilt zudem der Kreiswahlleiter sofort nach Ablauf der Frist des § 44 Abs. 4 Satz 2 des Bundeswahlgesetzes dem Landeswahlleiter und dem Bundeswahlleiter sowie dem Präsidenten des Deutschen Bundestages mit, an welchem Tag die Annahmeerklärung des gewählten Bewerbers eingegangen ist. Im Falle des § 45 Abs. 3 Satz 3 des Bundeswahlgesetzes teilt er mit, an welchem Tag die Benachrichtigung zugestellt worden ist.
+(9) (weggefallen)
 
 
 ### § 77 Ermittlung und Feststellung des Zweitstimmenergebnisses im Land
 
-(1) Der Landeswahlleiter prüft die Wahlniederschriften der Kreiswahlausschüsse und stellt danach die endgültigen Wahlergebnisse in den einzelnen Wahlkreisen des Landes (§ 76 Abs. 2 und 4) nach dem Muster der Anlage 30 zum Wahlergebnis des Landes zusammen.
+(1) Der Landeswahlleiter prüft die Wahlniederschriften der Kreiswahlausschüsse und stellt danach die endgültigen Wahlergebnisse in den einzelnen Wahlkreisen des Landes (§ 76 Absatz 2) nach dem Muster der Anlage 30 zum Wahlergebnis des Landes zusammen.
 
 (2) Nach Berichterstattung durch den Landeswahlleiter ermittelt der Landeswahlausschuss das Zweitstimmenergebnis im Land und stellt fest
 
@@ -1333,10 +1337,13 @@ Der Kreiswahlausschuss ist berechtigt, Feststellungen des Wahlvorstandes zu beri
 3.  die Zahlen der gültigen und ungültigen Zweitstimmen,
 
 
-4.  die Zahlen der für die einzelnen Landeslisten abgegebenen gültigen Zweitstimmen und
+4.  die Zahlen der für die einzelnen Landeslisten abgegebenen gültigen Zweitstimmen,
 
 
-5.  im Falle des § 6 Abs. 1 Satz 2 des Bundeswahlgesetzes die Zahlen der für die Sitzverteilung zu berücksichtigenden Zweitstimmen der einzelnen Landeslisten (bereinigte Zahlen).
+5.  im Falle des § 4 Absatz 2 Satz 2 Nummer 1 des Bundeswahlgesetzes die Zahlen der für die Sitzverteilung zu berücksichtigenden Zweitstimmen der einzelnen Landeslisten (bereinigte Zahlen) und
+
+
+6.  welche Bewerber vorläufig als gewählt festzustellen sind.
 
 
 
@@ -1344,12 +1351,14 @@ Der Landeswahlausschuss ist berechtigt, rechnerische Berichtigungen an den Fests
 
 (3) Im Anschluss an die Feststellung gibt der Landeswahlleiter das Wahlergebnis mit den in Absatz 2 Satz 1 bezeichneten Angaben mündlich bekannt.
 
+(3a) Der Landeswahlleiter benachrichtigt die vorläufig als gewählt festgestellten Bewerber und weist sie auf das Erfordernis der abschließenden Feststellung ihrer Wahl durch den Bundeswahlausschuss hin sowie darauf, dass sie nach der abschließenden Feststellung des Ergebnisses durch den Bundeswahlleiter nach § 42 Absatz 3 Satz 1 des Bundeswahlgesetzes die Mitgliedschaft im Deutschen Bundestag mit Eröffnung der ersten Sitzung nach der Wahl erlangen und eine Ablehnung des Erwerbs der Mitgliedschaft gegenüber dem Landeswahlleiter erfolgen muss.
+
 (4) Die Niederschrift über die Sitzung (§ 5 Abs. 7) ist nach dem Muster der Anlage 33 zu fertigen. § 76 Abs. 6 Satz 2 gilt entsprechend.
 
-(5) Der Landeswahlleiter übersendet dem Bundeswahlleiter eine Ausfertigung der Niederschrift mit der Feststellung des Zweitstimmenergebnisses sowie eine Zusammenstellung der Wahlergebnisse in den einzelnen Wahlkreisen des Landes (Absatz 1).
+(5) Der Landeswahlleiter übersendet dem Bundeswahlleiter eine Ausfertigung der Niederschrift mit der Feststellung des Zweitstimmenergebnisses, der vorläufig als gewählt festgestellten Bewerber sowie eine Zusammenstellung der Wahlergebnisse in den einzelnen Wahlkreisen des Landes (Absatz 1).
 
 
-### § 78 Abschließende Ermittlung und Feststellung des Ergebnisses der Landeslistenwahl
+### § 78 Abschließende Ermittlung und Feststellung des Ergebnisses
 
 (1) Der Bundeswahlleiter prüft die Wahlniederschriften der Landeswahlausschüsse. Er ermittelt nach den Niederschriften der Landes- und Kreiswahlausschüsse
 
@@ -1362,22 +1371,16 @@ Der Landeswahlausschuss ist berechtigt, rechnerische Berichtigungen an den Fests
 3.  den Prozentsatz des Stimmenanteils der einzelnen Parteien im Wahlgebiet an der Gesamtzahl der gültigen Zweitstimmen,
 
 
-4.  die Zahl der von den einzelnen Parteien im Wahlgebiet errungenen Wahlkreissitze,
+4.  die Zahl der von den einzelnen Parteien im Wahlgebiet errungenen Wahlkreissitze sowie
 
 
-5.  die bereinigten Zweitstimmenzahlen der Landeslisten und jeder Partei,
-
-
-6.  die Zahl der erfolgreichen Wahlkreisbewerber, die nach § 6 Abs. 1 Satz 3 des Bundeswahlgesetzes von der Gesamtzahl der Abgeordneten abzuziehen sind, und
-
-
-7.  die Zahl der in der ersten Verteilung (§ 6 Absatz 2 Satz 1 Bundeswahlgesetz) den Ländern nach Bevölkerungsanteil (§ 3 Absatz 1 Bundeswahlgesetz) gemäß den letzten amtlichen Bevölkerungszahlen zuzuordnenden Sitze.
+5.  die bereinigten Zweitstimmenzahlen der Landeslisten und jeder Partei.
 
 
 
-Ergeben sich danach gegenüber dem vorläufigen Wahlergebnis im Wahlgebiet (§ 71 Absatz 5) Änderungen für die Berücksichtigung von Parteien bei der Sitzverteilung nach § 6 Absatz 3 des Bundeswahlgesetzes, teilt der Bundeswahlleiter dies den betroffenen Kreiswahlleitern und Landeswahlleitern im Hinblick auf § 76 Absatz 4 und § 77 Absatz 2 Nummer 5 auf schnellstem Wege mit und ermittelt die Zahlen nach den geänderten Niederschriften der Kreiswahlausschüsse und Landeswahlausschüsse. Er berechnet nach Maßgabe des § 6 des Bundeswahlgesetzes die Stimmenzahlen der einzelnen Landeslisten und der Parteien sowie die Gesamtzahl der Sitze und verteilt die Sitze auf die Parteien und deren Landeslisten.
+Er berechnet nach Maßgabe der §§ 4 und 6 des Bundeswahlgesetzes die Stimmenzahlen der einzelnen Parteien und Landeslisten, verteilt die Sitze auf die Parteien und deren Landeslisten und reiht die Bewerber einer Partei nach Land und fallendem Erststimmenanteil nach § 6 des Bundeswahlgesetzes.
 
-(2) Nach Berichterstattung durch den Bundeswahlleiter ermittelt der Bundeswahlausschuss das Gesamtergebnis der Landeslistenwahl und stellt für das Wahlgebiet fest
+(2) Nach Berichterstattung durch den Bundeswahlleiter ermittelt der Bundeswahlausschuss das Gesamtergebnis der Landeslistenwahl und stellt für das Wahlgebiet abschließend fest
 
 1.  die Zahl der Wahlberechtigten,
 
@@ -1391,7 +1394,7 @@ Ergeben sich danach gegenüber dem vorläufigen Wahlergebnis im Wahlgebiet (§ 7
 4.  die Zahlen der auf die einzelnen Parteien entfallenen gültigen Zweitstimmen,
 
 
-5.  die Parteien, die nach § 6 Absatz 3 des Bundeswahlgesetzes
+5.  die Parteien, die nach § 4 Absatz 2 des Bundeswahlgesetzes
 
     a)  an der Verteilung der Listensitze teilnehmen,
 
@@ -1408,24 +1411,27 @@ Ergeben sich danach gegenüber dem vorläufigen Wahlergebnis im Wahlgebiet (§ 7
 7.  die Zahl der Sitze, die auf die einzelnen Parteien und Landeslisten entfallen,
 
 
-8.  welche Landeslistenbewerber gewählt sind.
+8.  die Zahl der erfolgreichen Wahlkreisbewerber gemäß § 6 Absatz 2 des Bundeswahlgesetzes und
+
+
+9.  welche Bewerber gewählt sind.
 
 
 
 Der Bundeswahlausschuss ist berechtigt, rechnerische Berichtigungen an den Feststellungen der Landeswahlausschüsse vorzunehmen.
 
-(3) Im Anschluss an die Ermittlung und Feststellung gibt der Bundeswahlleiter das Wahlergebnis mit den in Absatz 2 Satz 1 Nr. 1 bis 7 bezeichneten Angaben mündlich bekannt. Gleichzeitig weist er darauf hin, dass er die Feststellung nach Absatz 2 Satz 1 Nr. 8 durch Aushang im Sitzungsraum bekanntgibt.
+(3) Im Anschluss an die Ermittlung und Feststellung gibt der Bundeswahlleiter das Wahlergebnis mit den in Absatz 2 Satz 1 Nummer 1 bis 8 bezeichneten Angaben mündlich bekannt. Gleichzeitig weist er darauf hin, dass er die Feststellung nach Absatz 2 Satz 1 Nummer 9 durch Aushang im Sitzungsraum bekanntgibt.
 
 (4) § 76 Abs. 6 findet entsprechende Anwendung.
 
-(5) Der Bundeswahlleiter teilt den Landeswahlleitern mit, welche Landeslistenbewerber gewählt sind.
+(5) Der Bundeswahlleiter teilt den Landeswahlleitern mit, welche Bewerber gewählt sind.
 
 
 ### § 79 Bekanntmachung der endgültigen Wahlergebnisse
 
 (1) Sobald die Feststellungen aller Wahlausschüsse abgeschlossen sind, machen
 
-1.  der Kreiswahlleiter das endgültige Wahlergebnis für den Wahlkreis mit den in § 76 Abs. 2 Satz 1 bezeichneten Angaben und dem Namen des gewählten Wahlkreisbewerbers,
+1.  der Kreiswahlleiter das endgültige Wahlergebnis für den Wahlkreis mit den in § 76 Abs. 2 Satz 1 bezeichneten Angaben,
 
 
 2.  der Landeswahlleiter das endgültige Wahlergebnis für das Land mit den in § 76 Abs. 2 Satz 1 unter den Nummern 3 und 5 und in § 77 Abs. 2 Satz 1 bezeichneten Angaben, gegliedert nach Wahlkreisen, und den Namen der im Land gewählten Bewerber,
@@ -1440,11 +1446,11 @@ Der Bundeswahlausschuss ist berechtigt, rechnerische Berichtigungen an den Fests
 (2) Eine Ausfertigung ihrer Bekanntmachungen übersenden der Landeswahlleiter dem Bundeswahlleiter und der Bundeswahlleiter dem Präsidenten des Deutschen Bundestages.
 
 
-### § 80 Benachrichtigung der gewählten Landeslistenbewerber
+### § 80 Benachrichtigung der gewählten Bewerber
 
-(1) Der Landeswahlleiter benachrichtigt die vom Bundeswahlausschuss für gewählt erklärten Landeslistenbewerber nach der mündlichen Bekanntgabe des endgültigen Wahlergebnisses durch den Bundeswahlleiter und weist sie auf die Vorschriften des § 45 Abs. 1 des Bundeswahlgesetzes hin. Bei einer Wiederholungswahl (§ 44 des Bundeswahlgesetzes) benachrichtigt er die Gewählten mittels Zustellung (§ 87 Abs. 1) und weist sie auf die Vorschriften des § 45 Abs. 3 des Bundeswahlgesetzes hin.
+(1) Der Bundeswahlleiter benachrichtigt die vom Bundeswahlausschuss abschließend für gewählt festgestellten Bewerber nach seiner mündlichen Bekanntgabe des endgültigen Wahlergebnisses und weist sie auf die Vorschriften des § 42 Absatz 2 Satz 2 und § 45 Absatz 1 des Bundeswahlgesetzes hin. Bei einer Wiederholungswahl (§ 44 des Bundeswahlgesetzes) benachrichtigt er die Gewählten mittels Zustellung (§ 87 Absatz 1) und weist sie auf die Vorschriften des § 45 Absatz 2 des Bundeswahlgesetzes hin.
 
-(2) Der Landeswahlleiter benachrichtigt den Bundeswahlleiter und den Präsidenten des Deutschen Bundestages sofort, wenn ein gewählter Bewerber die Wahl abgelehnt hat. Bei einer Wiederholungswahl (§ 44 des Bundeswahlgesetzes) teilt er sofort nach Ablauf der Frist des § 44 Abs. 4 Satz 2 des Bundeswahlgesetzes mit, an welchen Tagen die Annahmeerklärungen der gewählten Bewerber eingegangen sind und welche Bewerber die Wahl abgelehnt haben. In den Fällen des § 45 Abs. 3 Satz 3 des Bundeswahlgesetzes teilt er mit, an welchen Tagen die Benachrichtigungen zugestellt worden sind.
+(2) Der Landeswahlleiter benachrichtigt den Bundeswahlleiter und den Präsidenten des Deutschen Bundestages sofort, wenn ein gewählter Bewerber die Wahl abgelehnt hat. Bei einer Wiederholungswahl (§ 44 des Bundeswahlgesetzes) teilt er sofort nach Ablauf der Frist des § 44 Abs. 4 Satz 2 des Bundeswahlgesetzes mit, an welchen Tagen die Annahmeerklärungen der gewählten Bewerber eingegangen sind und welche Bewerber die Wahl abgelehnt haben. In den Fällen des § 45 Absatz 2 Satz 3 des Bundeswahlgesetzes teilt er mit, an welchen Tagen die Benachrichtigungen zugestellt worden sind.
 
 
 ### § 81 Überprüfung der Wahl durch die Landeswahlleiter und den Bundeswahlleiter
@@ -1454,7 +1460,7 @@ Der Bundeswahlausschuss ist berechtigt, rechnerische Berichtigungen an den Fests
 (2) Auf Anforderung haben die Kreiswahlleiter dem Landeswahlleiter und über diesen dem Bundeswahlleiter die bei ihnen, den Gemeinden und Verwaltungsbehörden der Kreise vorhandenen Wahlunterlagen zu übersenden. Der Bundeswahlleiter kann verlangen, dass ihm die Landeswahlleiter die bei ihnen vorhandenen Wahlunterlagen übersenden.
 
 
-## Fünfter Abschnitt - Nachwahl, Wiederholungswahl, Berufung von Listennachfolgern
+## Fünfter Abschnitt - Nachwahl, Wiederholungswahl, Berufung von Nachfolgern
 
 
 
@@ -1487,20 +1493,41 @@ Der Bundeswahlausschuss ist berechtigt, rechnerische Berichtigungen an den Fests
 
 (5) Wahlscheine dürfen nur von Gemeinden in dem Gebiet, in dem die Wiederholungswahl stattfindet, erteilt werden. Wird die Wahl vor Ablauf von sechs Monaten nach der Hauptwahl nur in einzelnen Wahlbezirken wiederholt, so erhalten Personen, die bei der Hauptwahl in diesen Wahlbezirken mit Wahlschein gewählt haben, auf Antrag ihren Wahlschein mit Gültigkeitsvermerk für die Wiederholungswahl zurück, wenn sie inzwischen aus dem Gebiet der Wiederholungswahl verzogen sind.
 
-(6) Wahlvorschläge können nur geändert werden, wenn sich dies aus der Wahlprüfungsentscheidung ergibt oder wenn ein Bewerber gestorben oder nicht mehr wählbar ist.
+(6) Wahlvorschläge können geändert werden, wenn sich dies aus der Wahlprüfungsentscheidung ergibt oder wenn ein Bewerber gestorben oder nicht mehr wählbar ist. Eine Änderung der Wahlvorschläge ist außerdem möglich bei:
+
+1.  Änderungen des Namens einer Partei,
+
+
+2.  Änderungen der Kurzbezeichnung einer Partei, wenn eine Partei eine solche verwendet,
+
+
+3.  Änderungen des Namens eines Bewerbers,
+
+
+4.  Zusatzbezeichnungen, sofern sie im Wahlverfahren verwendet werden sollen,
+
+
+5.  einem zwischenzeitlich eingetragenen Doktorgrad (§ 5 Absatz 2 Nummer 3 des Personalausweisgesetzes, § 4 Absatz 1 Satz 2 Nummer 3 des Passgesetzes) und
+
+
+6.  einem zwischenzeitlich eingetragenen Ordens- oder Künstlernamen (§ 5 Absatz 2 Nummer 12 des Personalausweisgesetzes, § 4 Absatz 1 Satz 2 Nummer 4 des Passgesetzes).
+
+
+
+Über die Zulässigkeit von Änderungen nach den Sätzen 1 und 2 beschließen die jeweils zuständigen Wahlausschüsse.
 
 (7) Der Landeswahlleiter kann im Rahmen der Wahlprüfungsentscheidung Regelungen zur Anpassung des Wiederholungswahlverfahrens an besondere Verhältnisse treffen.
 
 
-### § 84 Berufung von Listennachfolgern
+### § 84 Berufung von Nachfolgern
 
-(1) Liegen die Voraussetzungen für eine Listennachfolge vor, so benachrichtigt der Landeswahlleiter den nächsten Listenbewerber mittels Zustellung (§ 87 Abs. 1) und weist ihn auf die Vorschrift des § 45 Abs. 3 des Bundeswahlgesetzes hin. Er fordert ihn auf, ihm innerhalb einer Woche schriftlich zu erklären, ob er die Nachfolge annimmt, und an Eides statt zu versichern, dass er nicht aus der die Liste einreichenden Partei ausgeschieden oder Mitglied einer anderen Partei geworden ist. Für die Abnahme der Versicherung an Eides statt gilt § 21 Abs. 6 Satz 3 des Bundeswahlgesetzes entsprechend.
+(1) Liegen die Voraussetzungen für eine Nachfolge vor, so benachrichtigt der Landeswahlleiter den gemäß § 48 Absatz 1 Sätze 1 bis 4 des Bundeswahlgesetzes nachfolgenden Bewerber der Partei mittels Zustellung (§ 87 Abs. 1) und weist ihn auf die Vorschrift des § 45 Absatz 2 des Bundeswahlgesetzes hin. Er fordert ihn auf, ihm innerhalb einer Woche schriftlich zu erklären, ob er die Nachfolge annimmt, und an Eides statt zu versichern, dass er nicht aus der Partei ausgeschieden oder Mitglied einer anderen Partei geworden ist. Für die Abnahme der Versicherung an Eides statt gilt § 21 Abs. 6 Satz 3 des Bundeswahlgesetzes entsprechend.
 
-(2) Der Landeswahlleiter teilt dem Bundeswahlleiter und dem Präsidenten des Deutschen Bundestages Familiennamen, Vornamen, Beruf oder Stand und Anschrift (Hauptwohnung) des Listennachfolgers sowie den Tag, an dem seine Annahmeerklärung eingegangen ist, sofort mit. Der Landeswahlleiter verfährt entsprechend, wenn ein Wahlkreisabgeordneter ausscheidet und kein Listenbewerber nachfolgt. Im Falle des § 45 Abs. 3 Satz 3 des Bundeswahlgesetzes teilt er mit, an welchem Tag die Benachrichtigung zugestellt worden ist.
+(2) Der Landeswahlleiter teilt dem Bundeswahlleiter und dem Präsidenten des Deutschen Bundestages Familiennamen, Vornamen, Beruf oder Stand und Anschrift (Hauptwohnung) des Nachfolgers sowie den Tag, an dem seine Annahmeerklärung eingegangen ist, sofort mit. Der Landeswahlleiter verfährt entsprechend, wenn ein Abgeordneter ausscheidet und kein Bewerber nachfolgt. Im Falle des § 45 Absatz 2 Satz 3 des Bundeswahlgesetzes teilt er mit, an welchem Tag die Benachrichtigung zugestellt worden ist.
 
-(3) Der Bundeswahlleiter macht entsprechend § 79 Absatz 1 öffentlich bekannt, welcher Bewerber in den Deutschen Bundestag eingetreten ist, und übersendet eine Abschrift der Bekanntmachung an den Präsidenten des Deutschen Bundestages. Der Bundeswahlleiter verfährt entsprechend, wenn ein Wahlkreisabgeordneter ausscheidet und kein Listenbewerber nachfolgt.
+(3) Der Bundeswahlleiter macht entsprechend § 79 Absatz 1 öffentlich bekannt, welcher Bewerber in den Deutschen Bundestag eingetreten ist, und übersendet eine Abschrift der Bekanntmachung an den Präsidenten des Deutschen Bundestages. Der Bundeswahlleiter verfährt entsprechend, wenn ein Abgeordneter ausscheidet und kein Bewerber nachfolgt.
 
-(4) Ein nicht gewählter Bewerber verliert seine Anwartschaft als Listennachfolger, wenn er dem Landeswahlleiter schriftlich seine Ablehnung erklärt. Die Ablehnung kann nicht widerrufen werden.
+(4) Ein nicht gewählter Bewerber verliert seine Anwartschaft als Nachfolger, wenn er dem Landeswahlleiter schriftlich seine Ablehnung erklärt. Die Ablehnung kann nicht widerrufen werden.
 
 
 ## Sechster Abschnitt - Übergangs- und Schlussbestimmungen
@@ -1509,22 +1536,26 @@ Der Bundeswahlausschuss ist berechtigt, rechnerische Berichtigungen an den Fests
 
 ### § 85 Datenschutzrechtliche Spezialregelungen
 
-(1) Hinsichtlich der im Wählerverzeichnis enthaltenen personenbezogenen Daten besteht abweichend von § 1 Absatz 8 des Bundesdatenschutzgesetzes in Verbindung mit Artikel 15 Absatz 1 und Absatz 3 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) das Recht auf Auskunft und das Recht auf Erhalt einer Kopie abschließend durch das unter den Voraussetzungen des § 17 Absatz 1 des Bundeswahlgesetzes in Verbindung mit § 21 gewährleistete Recht auf Einsicht in das Wählerverzeichnis und das Recht auf Anfertigen von Auszügen aus dem Wählerverzeichnis.
+(1) Hinsichtlich der im Wählerverzeichnis enthaltenen personenbezogenen Daten besteht abweichend von Artikel 15 Absatz 1 und Absatz 3 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) das Recht auf Auskunft und das Recht auf Erhalt einer Kopie abschließend durch das unter den Voraussetzungen des § 17 Absatz 1 des Bundeswahlgesetzes in Verbindung mit § 21 gewährleistete Recht auf Einsicht in das Wählerverzeichnis und das Recht auf Anfertigen von Auszügen aus dem Wählerverzeichnis.
 
-(2) Hinsichtlich der im Wählerverzeichnis enthaltenen personenbezogenen Daten besteht abweichend von § 1 Absatz 8 des Bundesdatenschutzgesetzes in Verbindung mit Artikel 16 und Artikel 18 der Verordnung (EU) 2016/679 das Recht auf Berichtigung und das Recht auf Einschränkung der Verarbeitung abschließend durch die unter den Voraussetzungen des § 17 Absatz 1 des Bundeswahlgesetzes in Verbindung mit § 16 Absatz 8 und des § 17 Absatz 1 des Bundeswahlgesetzes in Verbindung mit § 22 gewährleisteten Einspruchsrechte.
+(2) Hinsichtlich der im Wählerverzeichnis enthaltenen personenbezogenen Daten besteht abweichend von Artikel 16 und Artikel 18 der Verordnung (EU) 2016/679 das Recht auf Berichtigung und das Recht auf Einschränkung der Verarbeitung abschließend durch die unter den Voraussetzungen des § 17 Absatz 1 des Bundeswahlgesetzes in Verbindung mit § 16 Absatz 8 und des § 17 Absatz 1 des Bundeswahlgesetzes in Verbindung mit § 22 gewährleisteten Einspruchsrechte.
 
-(3) Hinsichtlich der in Wahlvorschlägen enthaltenen personenbezogenen Daten besteht im Zeitraum vom Ablauf der Frist für die Einreichung der Wahlvorschläge bis zum Ablauf des Wahltages abweichend von § 1 Absatz 8 des Bundesdatenschutzgesetzes in Verbindung mit Artikel 16 und Artikel 18 der Verordnung (EU) 2016/679 das Recht auf Berichtigung und das Recht auf Einschränkung der Verarbeitung abschließend durch die unter den Voraussetzungen des § 25 des Bundeswahlgesetzes und des § 27 Absatz 5 des Bundeswahlgesetzes in Verbindung mit § 25 des Bundeswahlgesetzes gewährleisteten Mängelbeseitigungsverfahren.
+(3) Hinsichtlich der in Wahlvorschlägen enthaltenen personenbezogenen Daten besteht im Zeitraum vom Ablauf der Frist für die Einreichung der Wahlvorschläge bis zum Ablauf des Wahltages abweichend von Artikel 16 und Artikel 18 der Verordnung (EU) 2016/679 das Recht auf Berichtigung und das Recht auf Einschränkung der Verarbeitung abschließend durch die unter den Voraussetzungen des § 25 des Bundeswahlgesetzes und des § 27 Absatz 5 des Bundeswahlgesetzes in Verbindung mit § 25 des Bundeswahlgesetzes gewährleisteten Mängelbeseitigungsverfahren.
 
-(4) Hinsichtlich der für die Führung des Wählerverzeichnisses und für die Erteilung eines Wahlscheines verarbeiteten personenbezogenen Daten erfolgt die Information der betroffenen Person abweichend von § 1 Absatz 8 des Bundesdatenschutzgesetzes in Verbindung mit Artikel 13 der Verordnung (EU) 2016/679 abschließend durch die Bekanntmachung nach §§ 14, 17, 36 des Bundeswahlgesetzes in Verbindung mit § 20.
+(4) Hinsichtlich der für die Führung des Wählerverzeichnisses und für die Erteilung eines Wahlscheines verarbeiteten personenbezogenen Daten erfolgt die Information der betroffenen Person abweichend von Artikel 13 der Verordnung (EU) 2016/679 abschließend durch die Bekanntmachung nach §§ 14, 17, 36 des Bundeswahlgesetzes in Verbindung mit § 20.
+
+(5) Hinsichtlich der Ansprüche nach Artikel 15 Absatz 1 und Absatz 3, Artikel 16 und Artikel 18 sowie Artikel 13 der Verordnung (EU) 2016/679 gegenüber den Wahlorganen nach § 8 Absatz 1 Satz 1 des Bundeswahlgesetzes gelten die Absätze 1 bis 4 entsprechend.
 
 
 ### § 86 Öffentliche Bekanntmachungen
 
-(1) Die nach dem Bundeswahlgesetz und dieser Verordnung vorgeschriebenen öffentlichen Bekanntmachungen erfolgen durch das Bundesministerium des Innern, für Bau und Heimat im Bundesanzeiger, den Bundeswahlleiter im Bundesanzeiger, die Landeswahlleiter im Staatsanzeiger oder Ministerial- oder Amtsblatt der Landesregierung oder des Innenministeriums, die Kreiswahlleiter und Verwaltungsbehörden des Kreises in den Amtsblättern oder Zeitungen, die allgemein für Bekanntmachungen der Kreise und kreisfreien Städte des Wahlkreises bestimmt sind, die Gemeindebehörden in ortsüblicher Weise.
+(1) Die nach dem Bundeswahlgesetz und dieser Verordnung vorgeschriebenen öffentlichen Bekanntmachungen erfolgen durch das Bundesministerium des Innern und für Heimat im Bundesanzeiger, den Bundeswahlleiter im Bundesanzeiger, die Landeswahlleiter im Staatsanzeiger oder Ministerial- oder Amtsblatt der Landesregierung oder des Innenministeriums, die Kreiswahlleiter und Verwaltungsbehörden des Kreises in der Art und Weise, die allgemein für Bekanntmachungen der Kreise und kreisfreien Städte des Wahlkreises bestimmt sind, die Gemeindebehörden in ortsüblicher Weise.
 
 (2) Für die öffentliche Bekanntmachung nach § 5 Abs. 3 genügt Aushang am oder im Eingang des Sitzungsgebäudes mit dem Hinweis, dass jedermann Zutritt zu der Sitzung hat.
 
-(3) Der Inhalt der nach dem Bundeswahlgesetz und dieser Verordnung vorgeschriebenen öffentlichen Bekanntmachungen kann zusätzlich im Internet veröffentlicht werden. Dabei sind die Unversehrtheit, Vollständigkeit und Ursprungszuordnung der Veröffentlichung nach aktuellem Stand der Technik zu gewährleisten. Statt einer Anschrift ist nur der Wohnort anzugeben. Personenbezogene Daten in Internetveröffentlichungen von öffentlichen Bekanntmachungen nach § 38 und § 43 Absatz 1 sind spätestens sechs Monate nach Bekanntgabe des endgültigen Wahlergebnisses, von öffentlichen Bekanntmachungen nach § 79 Absatz 1 und § 84 Absatz 3 spätestens sechs Monate nach dem Ende der Wahlperiode zu löschen.
+(3) Der Inhalt der nach dem Bundeswahlgesetz und dieser Verordnung vorgeschriebenen öffentlichen Bekanntmachungen kann zusätzlich im Internet veröffentlicht werden. Dabei sind die Unversehrtheit, Vollständigkeit und Ursprungszuordnung der Veröffentlichung nach aktuellem Stand der Technik zu gewährleisten. Personenbezogene Daten in Internetveröffentlichungen von öffentlichen Bekanntmachungen nach § 38 und § 43 Absatz 1 sind spätestens sechs Monate nach Bekanntgabe des endgültigen Wahlergebnisses, von öffentlichen Bekanntmachungen nach § 79 Absatz 1 und § 84 Absatz 3 spätestens sechs Monate nach dem Ende der Wahlperiode zu löschen.
+
+(4) Der Bundeswahlleiter übermittelt dem Deutschen Bundestag die Anschriften oder Erreichbarkeitsanschriften sowie Geburtsdaten der zugelassenen Bewerber, der vorläufig Gewählten sowie der Gewählten.
 
 
 ### § 87 Zustellungen, Versicherungen an Eides statt
@@ -1601,11 +1632,11 @@ für seinen Wahlkreis, soweit nicht der Landeswahlleiter die Beschaffung überni
 
 (2a) Der Landeswahlleiter kann zur Kosteneinsparung den Druck oder den Versand der Wahlbenachrichtigung oder beides nach § 19 Abs. 1 Satz 1 ganz oder teilweise übernehmen. Die Gemeindebehörden übermitteln dem Landeswahlleiter oder der von ihm benannten Stelle rechtzeitig die hierfür benötigten Daten und Unterlagen.
 
-(3) Der Bundeswahlleiter beschafft die Anträge für außerhalb des Wahlgebietes lebende Wahlberechtigte zur Teilnahme an der Wahl zum Deutschen Bundestag (Anlage 2) nebst den Merkblättern hierzu (noch Anlage 2).
+(3) Der Bundeswahlleiter stellt elektronisch ausfüllbare Vordrucke und Formblätter nach den Anlagen 1, 2, noch Anlage 2, 2a, noch Anlage 2a, 29, 31, 32 und 33 zur Verfügung.
 
 (4) Die Gemeindebehörde beschafft die für die Wahlbezirke und Gemeinden erforderlichen Vordrucke, soweit nicht Bundes-, Landes- oder Kreiswahlleiter die Lieferung übernehmen.
 
-(5) Die Beschaffung der Vordrucke und Formblätter nach den Anlagen 1, 2, 5, 8, 9, 13 bis 25, 27 bis 29 und 31 bis 33 kann auch durch elektronische Bereitstellung erfolgen.
+(5) Die Beschaffung der Vordrucke und Formblätter nach den Anlagen 5, 8, 9, 13 bis 25, 27 und 28 kann auch durch elektronische Bereitstellung erfolgen.
 
 
 ### § 89 Sicherung der Wahlunterlagen
@@ -1647,7 +1678,7 @@ In den Ländern Berlin, Bremen und Hamburg bestimmt der Senat, welche Stellen di
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *              Antrag auf Eintragung in das Wählerverzeichnis für Rückkehrer aus dem Ausland
-## – Erstausfertigung –
+## 
 
 
 *    *
@@ -1662,10 +1693,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   **Bitte**
 
-        –   füllen Sie den Antrag in zweifacher Ausfertigung in Druck- oder Maschinenschrift aus,
+        –   füllen Sie den Antrag in Druck- oder Maschinenschrift aus,
 
 
         –   beachten Sie die Erläuterungen im Merkblatt zu den Randnummern,
+
+
+        –   bei Versand des Antrages diesen ausschließlich per Post versenden,
 
 
         –   das Zutreffende ankreuzen*
@@ -1701,7 +1735,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *[^f797800_01_BJNR017690985BJNE011108377]
+    *[^f797800_01_BJNR017690985BJNE011109126]
    Mein Familienname, unter dem ich zuletzt für eine Wohnung in der Bundesrepublik Deutschland
         bei der Meldebehörde gemeldet war,
         *                      ist unverändert*                      lautete damals:
@@ -1892,7 +1926,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    **Wird von der Gemeindebehörde ausgefüllt.**
 
 Rückseite
-der Erstausfertigung
 
 **Muster für amtliche Vermerke**
 
@@ -1983,7 +2016,7 @@ der Erstausfertigung
 *    *   6.1
 
     *   Mindestens dreimonatiger ununterbrochener Aufenthalt
-[^f797800_02_BJNR017690985BJNE011108377]
+[^f797800_02_BJNR017690985BJNE011109126]
         in der Bundesrepublik Deutschland
 
     *   *                      nein
@@ -2045,8 +2078,8 @@ der Erstausfertigung
     *   Bezeichnung des Wahlbezirks
 
 
-*    *   *                      Übersendung der Zweitausfertigung des
-        Antrages an den Bundeswahlleiter
+*    *   *                      Unterrichtung des Bundeswahlleiters
+        durch elektronische Übermittlung
         am (Datum)
 
     *
@@ -2054,303 +2087,6 @@ der Erstausfertigung
 *    *   *                      Zurückweisung (s. Anlage)
 
 
-
-*              Antrag auf Eintragung in das Wählerverzeichnis für Rückkehrer aus dem Ausland
-## – Zweitausfertigung –
-
-
-*    *
-    *
-    *
-    *
-
-*    *   *
-
-    *   An die Gemeindebehörde
-
-    *
-    *   **Bitte**
-
-        –   füllen Sie den Antrag in zweifacher Ausfertigung in Druck- oder Maschinenschrift aus,
-
-
-        –   beachten Sie die Erläuterungen im Merkblatt zu den Randnummern,
-
-
-        –   das Zutreffende ankreuzen*
-
-
-
-
-
-*    *
-    *   ..........
-
-    *
-
-*    *
-    *   ..........
-
-    *
-
-*    *
-    *
-    *
-    *
-
-
-
-*    *
-    *
-    *
-
-*    *
-    *   Familienname – ggf. auch Geburtsname – Vornamen
-
-    *
-
-*    *
-    *   Mein Familienname, unter dem ich zuletzt für eine Wohnung in der Bundesrepublik Deutschland
-        bei der Meldebehörde gemeldet war,
-        *                      ist unverändert*                      lautete damals:
-
-    *
-
-*    *
-    *   Geburtsdatum
-
-    *   Tag
-
-    *   Monat
-
-    *   Jahr
-
-    *   E-Mail: (für Rückfragen)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   *
-
-    *   Meine derzeitige Wohnung
-        (vollständige Wohnanschrift am Zuzugsort im Inland)
-
-    *   besteht seit (Meldedatum):
-
-    *
-    *
-
-*    *
-    *
-    *   Tag
-
-    *   Monat
-
-    *   Jahr
-
-    *
-    *
-
-*    *
-    *   ..........
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   ..........
-
-    *
-
-*    *   *
-
-    *   Ich hatte vor meinem Umzug ins Ausland in der Bundesrepublik Deutschland\*) mindestens 3 Monate ununterbrochen und zuletzt folgende bei der Meldebehörde gemeldete Wohnung(en) inne:
-
-    *
-
-*    *
-    *   vom
-
-    *   bis zum
-
-    *   (Straße, Hausnummer, Postleitzahl, Ort)
-
-    *
-
-*    *
-    *   vom
-
-    *   bis zum
-
-    *   (Straße, Hausnummer, Postleitzahl, Ort)
-
-    *
-
-*    *   *
-
-    *   und bin fortgezogen am (Datum der Abmeldung)
-
-    *   nach (Ort, Staat)
-
-    *
-
-*    *   *
-
-    *   Ich bin im Besitz eines
-        *                      Personalausweises
-        *                      Reisepasses
-
-    *   Ausweis-Nummer:
-
-    *   ausgestellt am:
-
-    *
-
-*    *   von (ausstellende Behörde)
-
-    *
-    *
-
-*    *   *
-
-    *   **Ich versichere gegenüber der Gemeindebehörde an Eides statt:**
-
-    *
-
-*    *   *
-
-    *   *                      Ich bin Deutsche(r) im Sinne des Artikels 116 Abs. 1 des Grundgesetzes.
-
-    *
-
-*    *
-    *   *                      Ich habe das 18. Lebensjahr vollendet.
-
-    *   **oder**
-
-    *   *                      Ich werde das 18. Lebensjahr bis zum Wahltag vollenden.
-
-    *
-
-*    *   *
-
-    *   *                      Ich bin nicht vom Wahlrecht ausgeschlossen.
-
-    *
-
-*    *   *
-
-    *   *                      Ich habe innerhalb der letzten 25 Jahre und nach Vollendung meines 14. Lebensjahres mindestens 3 Monate ununterbrochen in der Bundesrepublik Deutschland eine Wohnung innegehabt oder mich sonst gewöhnlich aufgehalten.
-
-    *   **oder**
-
-    *   *                      Ich habe aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben und bin von ihnen betroffen.
-        **In diesem Fall bitte auf gesondertem Blatt begründen, gegebenenfalls ergänzende Unterlagen beifügen.**
-
-    *
-
-*    *   *
-
-    *   *                      Ich habe keinen anderen Antrag auf Eintragung in das Wählerverzeichnis für die Wahl zum Deutschen Bundestag gestellt.
-
-    *
-
-*    *
-    *   **Mir ist bekannt, dass sich strafbar macht, wer durch falsche Angaben die Eintragung in das Wählerverzeichnis erwirkt, und wer unbefugt wählt oder dies versucht.**
-        **Ich werde deshalb unverzüglich gegenüber der Gemeindebehörde diesen Antrag zurücknehmen und an der Wahl nicht teilnehmen, wenn ich bis zum Wahltag nicht mehr Deutsche(r) oder vom Wahlrecht ausgeschlossen sein sollte.**
-
-    *
-
-*    *   *
-
-    *   ..........
-        Datum, Unterschrift des **Antragstellers**                     /der **Antragstellerin**                      (Vor- und Familienname)
-
-    *
-
-*    *   *
-
-    *   **Ich versichere gegenüber der Gemeindebehörde an Eides statt**                     , dass ich den Antrag **als Hilfsperson**                      nach den Angaben des Antragstellers ausgefüllt habe und die darin gemachten Angaben nach meiner Kenntnis der Wahrheit entsprechen.
-        ..........
-        Datum, Unterschrift der **Hilfsperson**                      (Vor- und Familienname)
-
-    *
-
-*    *
-    *
-    *
-
-
-   Rückseite der
-Zweitausfertigung
-
-Datenerfassung für den Bundeswahlleiter
-Statistisches Bundesamt
-Zweigstelle Bonn
-Postfach 17 03 77
-53029 Bonn
-
-
-*    *
-    *
-    *
-
-*    *
-    *   **Vom Antragsteller nicht abzusenden.**
-        **Wird von der Gemeindebehörde übersandt.**
-
-
-*    *
-    *
-
-
-
-   **Betreff: Register nach § 18 Abs. 6 BWO**
-
-Name und Anschrift der Gemeindebehörde:
-
-..........
-
-Der Antragsteller wird in das Wählerverzeichnis der Gemeinde eingetragen.
-
-Die Gemeinde gehört zum Wahlkreis:
-
-
-*    *   ..........
-
-    *   ..........
-
-
-*    *   Nummer
-
-    *   und Name des Wahlkreises
-
-
-
-
-..........
-Ort, Datum
-
-Im Auftrag
-
-..........
-(Unterschrift des Beauftragten der Gemeindebehörde)
 
 ## Merkblatt zu dem Antrag auf Eintragung in das Wählerverzeichnis für Rückkehrer aus dem Ausland
 
@@ -2373,7 +2109,7 @@ Im Auftrag
         –   **entweder**                              nach Vollendung ihres 14. Lebensjahres mindestens drei Monate ununterbrochen in der Bundesrepublik Deutschland eine Wohnung innegehabt oder sich sonst gewöhnlich aufgehalten haben und dieser Aufenthalt nicht länger als 25 Jahre zurückliegt,
 
 
-        –[^f797800_03_BJNR017690985BJNE011108377]
+        –[^f797800_03_BJNR017690985BJNE011109126]
    **oder**                              aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben haben **und**                              von ihnen betroffen sind.
             Siehe hierzu auch die Erläuterungen unter*                             .
 
@@ -2388,17 +2124,17 @@ Im Auftrag
 
 
         –   Wer sich **nach dem 42. Tag, aber vor dem 21. Tag vor der Wahl**                              anmeldet, wird in das Wählerverzeichnis der Gemeinde am Zuzugsort in der Bundesrepublik Deutschland **nur auf Antrag nach Anlage 1**                              (zu § 18 Absatz 6 Bundeswahlordnung) für Rückkehrer eingetragen.
-            Wer bereits vor seiner Rückkehr **vom Ausland aus**                              einen Antrag nach Anlage 2 (zu § 18 Absatz 5 Bundeswahlordnung) für im Ausland lebende Deutsche gestellt hatte, hat sein Wahlrecht in der Gemeinde auszuüben, in der er aufgrund seiner Antragstellung in das Wählerverzeichnis eingetragen worden ist.
+            Wer bereits vor seiner Rückkehr **vom Ausland aus**                              einen Antrag nach Anlage 2 (zu § 18 Absatz 4 Bundeswahlordnung) oder Anlage 2a (zu § 18 Absatz 5 Bundeswahlordnung) für im Ausland lebende Deutsche gestellt hatte, hat sein Wahlrecht in der Gemeinde auszuüben, in der er aufgrund seiner Antragstellung in das Wählerverzeichnis eingetragen worden ist.
 
 
-        –   Wer sich erst **nach dem 21. Tag vor der Wahl**                              in der Bundesrepublik Deutschland **anmelden wird**                             , muss bereits **vor**                              seiner Rückkehr in die Bundesrepublik Deutschland **vom Ausland aus**                              bis zum 21. Tag vor der Wahl bei der zuständigen Gemeindebehörde den Antrag auf Eintragung in das Wählerverzeichnis **nach Anlage 2**                              (zu § 18 Absatz 5 Bundeswahlordnung) für im Ausland lebende Deutsche stellen, weil er sonst nicht mehr in das Wählerverzeichnis eingetragen wird.
+        –   Wer sich erst **nach dem 21. Tag vor der Wahl**                              in der Bundesrepublik Deutschland **anmelden wird**                             , muss bereits **vor**                              seiner Rückkehr in die Bundesrepublik Deutschland **vom Ausland aus**                              bis zum 21. Tag vor der Wahl bei der zuständigen Gemeindebehörde den Antrag auf Eintragung in das Wählerverzeichnis nach Anlage 2 (zu § 18 Absatz 4 Bundeswahlordnung) oder Anlage 2a (zu § 18 Absatz 5 Bundeswahlordnung) für im Ausland lebende Deutsche stellen, weil er sonst nicht mehr in das Wählerverzeichnis eingetragen wird.
 
 
 
 
 
 *    *
-    *   Für jeden Antragsteller ist ein besonderes Formblatt (in Erst- und Zweitausfertigung) auszufüllen. Sammelanträge sind nicht möglich.
+    *   Für jeden Antragsteller ist ein besonderes Formblatt auszufüllen. Sammelanträge sind nicht möglich.
 
 
 *    *   *
@@ -2512,1257 +2248,36 @@ Im Auftrag
 
 
     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen zuzüglich des Gebietes des früheren Berlin (Ost)).
-[^f797800_01_BJNR017690985BJNE011108377]:     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet(Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen zuzüglich des Gebietes des früheren Berlin (Ost)).
-[^f797800_02_BJNR017690985BJNE011108377]:     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen zuzüglich des Gebietes des früheren Berlin (Ost)).
-[^f797800_03_BJNR017690985BJNE011108377]: 
+[^f797800_01_BJNR017690985BJNE011109126]:     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet(Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen zuzüglich des Gebietes des früheren Berlin (Ost)).
+[^f797800_02_BJNR017690985BJNE011109126]:     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen zuzüglich des Gebietes des früheren Berlin (Ost)).
+[^f797800_03_BJNR017690985BJNE011109126]: 
 
-### Anlage 2 (zu § 18 Abs. 5)
+### Anlage 2 (zu § 18 Absatz 4)
 
-(Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 3 - 8;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2024 I Nr. 283, S. 13 – 16)
 
-*              Antrag auf Eintragung in das Wählerverzeichnis für im Ausland lebende Deutsche
-## – Erstausfertigung –
 
 
-*    *
-    *
-    *
-    *
+### Anlage 2a (zu § 18 Absatz 5)
 
-*    *   *
+(Fundstelle: BGBl. 2024 I Nr. 283, S. 17 – 20)
 
-    *   An die Gemeindebehörde
 
-    *
-    *   **Bitte**
-
-        –   füllen Sie den Antrag in zweifacher Ausfertigung in Druck- oder Maschinenschrift aus,
-
-
-        –   beachten Sie die Erläuterungen im Merkblatt zu den Randnummern,
-
-
-        –   das Zutreffende ankreuzen*
-
-
-
-
-
-*    *
-    *   ..........
-
-    *
-
-*    *
-    *   ..........
-
-    *
-
-*    *
-    *
-    *
-    *
-
-
-
-*    *
-    *
-    *
-
-*    *
-    *   Familienname – ggf. auch Geburtsname – Vornamen
-
-    *
-
-*    *
-    *[^bjnr017690985bjne011215377_01_BJNR017690985BJNE011215377]
-   Mein Familienname, unter dem ich zuletzt für eine Wohnung in der Bundesrepublik Deutschland
-        bei der Meldebehörde gemeldet war,
-        *                      ist unverändert*                      lautete damals:
-
-    *
-
-*    *
-    *   Geburtsdatum
-
-    *   Tag
-
-    *   Monat
-
-    *   Jahr
-
-    *   E-Mail: (für Rückfragen)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   *
-
-    *   Meine derzeitige Wohnung (vollständige Wohnanschrift im Ausland)
-
-    *
-    *
-    *
-
-*    *
-    *   ..........
-
-    *
-    *
-
-*    *   *
-
-    *   Ich hatte vor meinem Umzug ins Ausland in der Bundesrepublik Deutschland\*) mindestens 3 Monate ununterbrochen und zuletzt folgende bei der Meldebehörde gemeldete Wohnung(en) inne:
-
-    *
-
-*    *
-    *   vom
-
-    *   bis zum
-
-    *   (Straße, Hausnummer, Postleitzahl, Ort)
-
-    *
-
-*    *
-    *   vom
-
-    *   bis zum
-
-    *   (Straße, Hausnummer, Postleitzahl, Ort)
-
-    *
-
-*    *   *
-
-    *   und bin fortgezogen am (Datum der Abmeldung)
-
-    *   nach (Ort, Staat)
-
-    *
-
-*    *   *
-
-    *   Ich bin im Besitz eines
-        *                      Personalausweises
-        *                      Reisepasses
-
-    *   Ausweis-Nummer:
-
-    *   ausgestellt am:
-
-    *
-
-*    *   von (ausstellende Behörde)
-
-    *
-    *
-
-*    *   *
-
-    *   **Ich versichere gegenüber der Gemeindebehörde an Eides statt:**
-
-    *
-
-*    *   *
-
-    *   *                      Ich bin Deutsche(r) im Sinne des Artikels 116 Absatz 1 des Grundgesetzes.
-
-    *
-
-*    *
-    *   *                      Ich habe das 18. Lebensjahr vollendet.
-
-    *   **oder**
-
-    *   *                      Ich werde das 18. Lebensjahr bis zum Wahltag vollenden.
-
-    *
-
-*    *   *
-
-    *   *                      Ich bin nicht vom Wahlrecht ausgeschlossen.
-
-    *
-
-*    *   *
-
-    *   *                      Ich habe innerhalb der letzten 25 Jahre und nach Vollendung meines 14. Lebensjahres mindestens 3 Monate ununterbrochen in der Bundesrepublik Deutschland eine Wohnung innegehabt oder mich sonst gewöhnlich aufgehalten.
-
-    *   **oder**
-
-    *   *                      Ich habe aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben und bin von ihnen betroffen.
-        **In diesem Fall bitte auf gesondertem Blatt begründen, gegebenenfalls ergänzende Unterlagen beifügen.**
-
-    *
-
-*    *   *
-
-    *   *                      Ich habe keinen anderen Antrag auf Eintragung in das Wählerverzeichnis für die Wahl zum Deutschen Bundestag gestellt.
-
-    *
-
-*    *
-    *   **Mir ist bekannt, dass sich strafbar macht, wer durch falsche Angaben die Eintragung in das Wählerverzeichnis erwirkt, und wer unbefugt wählt oder dies versucht.**
-        **Ich werde deshalb unverzüglich gegenüber der Gemeindebehörde diesen Antrag zurücknehmen und an der Wahl nicht teilnehmen, wenn ich bis zum Wahltag nicht mehr Deutsche(r) oder vom Wahlrecht ausgeschlossen sein sollte.**
-
-    *
-
-*    *   *
-
-    *   *                      Die Wahlunterlagen sollen an meine oben angegebene derzeitige Wohnung übersandt werden.
-
-    *
-
-*    *
-    *   *                      Die Wahlunterlagen sollen mir an folgende Anschrift übersandt werden:
-
-    *
-
-*    *
-    *   (Straße, Hausnummer)
-
-    *   ..........
-
-    *
-
-*    *
-    *   (Postleitzahl, Ort, Staat)
-
-    *   ..........
-
-    *
-
-*    *   *
-
-    *   ..........
-        Datum, Unterschrift des **Antragstellers**                     /der **Antragstellerin**                      (Vor- und Familienname)
-
-    *
-
-*    *   *
-
-    *   **Ich versichere gegenüber der Gemeindebehörde an Eides statt**                     , dass ich den Antrag **als Hilfsperson**                      nach den Angaben des Antragstellers ausgefüllt habe und die darin gemachten Angaben nach meiner Kenntnis der Wahrheit entsprechen.
-        ..........
-        Datum, Unterschrift der **Hilfsperson**                      (Vor- und Familienname)
-
-    *
-
-*    *
-    *
-    *
-
-
-   **Wird von der Gemeindebehörde ausgefüllt.**
-
-Rückseite
-der Erstausfertigung
-
-**Muster für amtliche Vermerke**
-
-
-*    *   1
-
-    *   Zuständigkeit der Gemeindebehörde
-
-    *
-    *   *                      ja
-
-
-*    *   *                      Nein. Urschriftlich zuständigkeitshalber abgegeben an die Gemeindebehörde
-        (Gemeindebehörde)
-
-
-*    *   Begründung
-
-
-*    *   (Ort, Datum)
-
-    *   Im Auftrag (Unterschrift des Beauftragten der Gemeindebehörde)
-
-
-*    *   2
-
-    *   Antragseingang
-
-    *
-
-*    *
-    *   am (Datum)
-
-    *   21. Tag vor der Wahl
-
-    *
-    *
-    *   Antragseingang
-
-
-*    *
-    *
-    *   =
-
-    *
-    *
-    *   *                      verspätet
-
-    *   *                      rechtzeitig
-
-
-*    *   3
-
-    *   Status als Deutscher nachgewiesen
-
-    *   *                      nein
-
-    *   *                      ja
-
-
-*    *   4
-
-    *   18. Lebensjahr am Wahltag vollendet
-
-    *   *                      nein
-
-    *   *                      ja
-
-
-*    *   5
-
-    *   Wahlausschlussgrund nach § 13 BWG
-
-    *   *                      vorhanden
-
-    *   *                      nicht vorhanden
-
-
-*    *   6
-
-    *   Weitere wahlrechtliche Voraussetzungen
-
-    *
-
-*    *   6.1
-
-    *   Mindestens dreimonatiger ununterbrochener Aufenthalt
-[^bjnr017690985bjne012215377_02_BJNR017690985BJNE011215377]
-        in der Bundesrepublik Deutschland
-
-    *   *                      nein
-
-    *   *                      ja
-
-
-*    *   innerhalb der letzten 25 Jahre
-
-    *   *                      nein
-
-    *   *                      ja
-
-
-*    *   nach Vollendung des 14. Lebensjahres
-
-    *   *                      nein
-
-    *   *                      ja
-
-
-*    *   6.2
-
-    *   Antragsteller hat aus anderen Gründen persönlich und unmittelbar
-        Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik
-        Deutschland erworben und ist von ihnen betroffen
-
-    *   *                      nein
-
-    *   *                      ja
-
-
-*    *   7
-
-    *   Wahlrechtsvoraussetzungen
-        erfüllt nach
-
-    *   § 12 Absatz 2 Satz 1 Nummer 1 BWG
-
-    *   *                      nein
-
-    *   *                      ja
-
-
-*    *   § 12 Absatz 2 Satz 1 Nummer 2 BWG
-
-    *   *                      nein
-
-    *   *                      ja
-
-
-*    *   8
-
-    *   Erledigung des Antrages
-
-
-*    *   *                      Eintragung in das Wählerverzeichnis
-
-    *   Bezeichnung des Wahlbezirks
-
-
-*    *   *                      Erteilung des Wahlscheines
-
-    *   Wahlscheinnummer
-
-
-*    *   *                      Vermerk über die Wahlscheinerteilung im Wählerverzeichnis
-
-
-*    *
-    *   *                      Absendung des Wahlscheines und der Briefwahlunterlagen per Luftpost
-
-    *   *                      Übersendung der Zweitausfertigung des Antrages an den Bundeswahlleiter
-
-
-*    *
-    *   am (Datum)
-
-    *   am (Datum)
-
-
-*    *
-    *   *                      Zurückweisung (s. Anlage)
-
-
-
-*              Antrag auf Eintragung in das Wählerverzeichnis für im Ausland lebende Deutsche
-## - Zweitausfertigung -
-
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   *
-
-    *
-    *   An die Gemeindebehörde
-
-    *
-    *   **Bitte**
-
-    *
-    *
-
-*    *
-    *
-    *   . . . . . . . . . . . . . . . .
-
-    *
-    *
-        -   füllen Sie den Antrag in zweifacher Ausfertigung in Druck- oder Maschinenschrift aus,
-
-
-
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-        -   beachten Sie die Erläuterungen im Merkblatt zu den Randnummern,
-
-
-
-
-    *
-
-*    *
-    *
-    *   . . . . . . . . . . . . . . . .
-
-    *
-    *
-        -   das Zutreffende ankreuzen X
-
-
-
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *   Familienname — ggf. auch Geburtsname — Vornamen
-
-    *
-
-*    *
-    *
-    *   Mein Familienname, unter dem ich zuletzt für eine Wohnung in der Bundesrepublik Deutschland\*) bei der Meldebehörde gemeldet war,
-
-    *
-
-*    *
-    *
-    *
-        *   ist unverändert
-
-
-
-
-    *
-        *   lautete damals:
-
-
-
-
-    *
-
-*    *
-    *
-    *   Geburtsdatum
-
-    *   Tag
-
-    *   Monat
-
-    *   Jahr
-
-    *   E-Mail (für Rückfragen):
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   *
-
-    *
-    *   Meine derzeitige Wohnung (vollständige Wohnanschrift im Ausland):
-
-    *
-
-*    *
-    *
-    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-    *
-
-*    *   *
-
-    *
-    *   Ich hatte vor meinem Umzug ins Ausland in der Bundesrepublik Deutschland\*) mindestens 3 Monate ununterbrochen und zuletzt folgende bei der Meldebehörde gemeldete Wohnung(en) inne:
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *   vom
-
-    *   bis zum
-
-    *   (Straße, Hausnummer, Postleitzahl, Ort)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *   vom
-
-    *   bis zum
-
-    *   (Straße, Hausnummer, Postleitzahl, Ort)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   *
-
-    *
-    *   und bin fortgezogen am (Datum der Abmeldung)
-
-    *   nach (Ort, Staat)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   *
-
-    *
-    *   Ich bin im Besitz eines
-
-        *   Personalausweises
-
-
-        *   Reisepasses
-
-
-
-
-    *   Ausweis-Nummer:
-
-    *   ausgestellt am:
-
-    *
-
-*    *
-    *
-    *   von (ausstellende Behörde)
-
-    *
-
-*    *   *
-
-    *
-    *   **Ich versichere gegenüber der Gemeindebehörde an Eides statt:**
-
-    *
-
-*    *   *
-
-    *
-    *
-        *   Ich bin Deutsche(r) im Sinne des Artikels 116 Absatz 1 des Grundgesetzes.
-
-
-
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-        *   Ich habe das 18. Lebensjahr vollendet.
-
-
-
-
-    *   **oder**
-
-    *
-        *   Ich werde das 18. Lebensjahr bis zum Wahltag vollenden.
-
-
-
-
-    *
-
-*    *   *
-
-    *
-    *
-        *   Ich bin nicht vom Wahlrecht ausgeschlossen.
-
-
-
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   *
-
-    *
-    *
-        *   Ich habe innerhalb der letzten 25 Jahre und nach Vollendung meines 14. Lebensjahres mindestens 3 Monate ununterbrochen in der Bundesrepublik Deutschland eine Wohnung innegehabt oder mich sonst gewöhnlich aufgehalten.
-
-
-
-
-    *   **oder**
-
-    *
-        *   Ich habe aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben und bin von ihnen betroffen.
-
-
-        *   **In diesem Fall bitte auf gesondertem Blatt begründen, gegebenenfalls ergänzende Unterlagen beifügen.**
-
-
-
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   *
-
-    *
-    *
-        *   Ich habe keinen anderen Antrag auf Eintragung in das Wählerverzeichnis für die Wahl zum Deutschen Bundestag gestellt.
-
-
-
-
-    *
-
-*    *
-    *
-    *   **Mir ist bekannt, dass sich strafbar macht, wer durch falsche Angaben die Eintragung in das Wählerverzeichnis erwirkt, und wer unbefugt wählt oder dies versucht.**
-        **Ich werde deshalb unverzüglich gegenüber der Gemeindebehörde diesen Antrag zurücknehmen und an der Wahl nicht teilnehmen, wenn ich bis zum Wahltag nicht mehr Deutsche(r) oder vom Wahlrecht ausgeschlossen sein sollte.**
-
-    *
-
-*    *   *
-
-    *
-    *
-        *   Die Wahlunterlagen sollen an meine oben angegebene derzeitige Wohnung übersandt werden.
-
-
-        *   Die Wahlunterlagen sollen mir an folgende Anschrift übersandt werden:
-
-
-
-
-    *
-
-*    *
-    *
-    *   (Straße, Hausnummer) . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-    *
-
-*    *
-    *
-    *   (Postleitzahl, Ort, Staat) . . . . . . . . . . . . . . . . . . . . . . . .
-
-    *
-
-*    *   *
-
-    *
-    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-        Datum, Unterschrift des **Antragstellers**                     /der **Antragstellerin**                      (Vor- und Familienname)
-
-    *
-
-*    *   *
-
-    *
-    *   **Ich versichere gegenüber der Gemeindebehörde an Eides statt,**                      dass ich den Antrag **als Hilfsperson**                      nach den Angaben des Antragstellers ausgefüllt habe und die darin gemachten Angaben nach meiner Kenntnis der Wahrheit entsprechen.
-        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-        Datum, Unterschrift der Hilfsperson (Vor- und Familienname)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-
-
-
-*    *   Rückseite
-        der Zweitausfertigung
-
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *   Datenerfassung für den
-        Bundeswahlleiter
-        Statistisches Bundesamt
-        Zweigstelle Bonn
-        Postfach 17 03 77
-        53029 Bonn
-
-    *
-    *
-    *
-
-*    *
-    *
-    *
-        *            *   Vom Antragsteller nicht abzusenden.
-                **Wird von der Gemeindebehörde übersandt.**
-
-
-
-
-
-*    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *   **Betr.: Register nach § 18 Abs. 5 BWO**
-
-    *
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *   Der Antragsteller wird in das Wählerverzeichnis der Gemeinde eingetragen.
-
-
-*    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *   (Name und Anschrift der Gemeindebehörde)
-
-
-*    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *   .........................................................................................................................................................................
-
-    *   .........................................
-
-    *   .........................................
-
-
-*    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *   Die Gemeinde gehört zum Wahlkreis: .......................................................................................................................................................
-
-    *   .........................................
-
-
-*    *   (Nummer und Name des Wahlkreises)
-
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *   (Ort, Datum)
-
-    *
-    *
-    *
-
-*    *   ...............................................................................................................
-
-    *   .........................................
-
-    *   .........................................
-
-    *   .........................................
-
-
-*    *
-    *
-    *
-    *
-
-*    *   Im Auftrag
-
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *   .............................................................................................................................................................
-
-    *
-    *
-
-*    *   (Unterschrift des Beauftragten der Gemeindebehörde)
-
-    *
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
-
-
-
-## Merkblatt zu dem Antrag auf Eintragung in das Wählerverzeichnis für im Ausland lebende Deutsche
-
-Wahlberechtigte, die in der Bundesrepublik Deutschland **noch**              für eine Wohnung **gemeldet**              sind, dürfen den Antrag **nicht**              stellen.
-
-*    *   *
-
-    *   **Antrag auf Eintragung in das Wählerverzeichnis vom Ausland aus**
-
-
-*    *
-    *   Wahlberechtigte können an der Wahl zum Deutschen Bundestag grundsätzlich nur teilnehmen, wenn sie in der Bundesrepublik Deutschland in einem Wählerverzeichnis eingetragen sind.
-
-
-*    *
-    *   Wahlberechtigt sind nach § 12 Absatz 1 Bundeswahlgesetz alle Deutschen im Sinne des Artikels 116 Absatz 1 des Grundgesetzes, die am Wahltag das 18. Lebensjahr vollendet haben, nicht nach § 13 Bundeswahlgesetz vom Wahlrecht ausgeschlossen sind und **seit mindestens drei Monaten in der Bundesrepublik Deutschland**                        eine Wohnung innehaben oder sich sonst gewöhnlich aufhalten.
-
-
-*    *
-    *   Deutsche, die **außerhalb der Bundesrepublik Deutschland**                        leben und in der Bundesrepublik Deutschland nicht für eine Wohnung gemeldet sind, werden nur auf **förmlichen Antrag**                        (amtliches Formblatt) und nur nach Abgabe einer **Versicherung an Eides statt**                        in ein Wählerverzeichnis eingetragen, sofern sie
-
-        –   **entweder**                              nach Vollendung ihres 14. Lebensjahres mindestens drei Monate ununterbrochen in der Bundesrepublik Deutschland eine Wohnung innegehabt oder sich sonst gewöhnlich aufgehalten haben und dieser Aufenthalt nicht länger als 25 Jahre zurückliegt,
-
-
-        –[^f797800_04_BJNR017690985BJNE011215377]
-   **oder**                              aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben haben **und**                              von ihnen betroffen sind.
-            Siehe hierzu auch die Erläuterungen unter*                             .
-
-
-
-
-
-*    *
-    *   Für jeden Antragsteller ist ein besonderes Formblatt (in Erst- und Zweitausfertigung) auszufüllen. Sammelanträge sind nicht möglich. Der Antrag sollte frühestmöglich gestellt werden; er muss **spätestens bis zum 21. Tag**                        vor der Wahl bei der zuständigen Gemeindebehörde persönlich und handschriftlich unterzeichnet **im Original eingegangen**                        sein. Die Antragsfrist kann nicht verlängert werden. Der in das Wählerverzeichnis eingetragene Wahlberechtigte erhält über die Eintragung keine Benachrichtigung. Ihm werden – bei frühestmöglicher Antragstellung – der Wahlschein und die Briefwahlunterlagen ca. 1 Monat vor dem Wahltag übersandt.
-
-
-*    *
-    *   **Im Falle des Fortzuges**                        aus der Bundesrepublik Deutschland\*) ist zu beachten:
-
-        –   Wer bereits vor dem 42. Tage vor der Wahl aus der Bundesrepublik Deutschland
-            fortgezogen ist, muss seine Eintragung in das Wählerverzeichnis beantragen.
-
-
-        –   Wer erst nach dem 42. Tage vor der Wahl fortzieht, d.h. sich erst nach diesem Termin abmeldet, braucht diesen Antrag nicht zu stellen. In diesem Falle erfolgt von Amts wegen die Eintragung in das Wählerverzeichnis seiner Fortzugsgemeinde.
-
-
-
-
-
-*    *
-    *   **Kehren Deutsche**                       , die im Ausland gelebt haben und in der Bundesrepublik Deutschland in dieser Zeit nicht für eine Wohnung gemeldet waren, **in das Inland zurück**                        und melden sich hier wieder für eine Wohnung an (Rückkehrer aus dem Ausland), gilt für die Erforderlichkeit und Art der Antragstellung Folgendes:
-
-        –   Wer in die Bundesrepublik Deutschland zurückkehrt und sich hier **vor dem 42. Tag vor der Wahl**                              für eine Wohnung anmeldet, braucht und darf keinen Antrag auf Eintragung in das Wählerverzeichnis stellen, weil er, wie jeder im Inland gemeldete Wahlberechtigte, **von Amts wegen**                              am Zuzugsort von der Gemeindebehörde in das Wählerverzeichnis eingetragen wird.
-
-
-        –   Wer sich **nach dem 42. Tag, aber vor dem 21. Tag vor der Wahl**                              anmeldet, wird in das Wählerverzeichnis der Gemeindebehörde am Zuzugsort in der Bundesrepublik Deutschland **nur auf Antrag nach Anlage 1**                              (zu § 18 Absatz 6 Bundeswahlordnung) für Rückkehrer eingetragen. Wer bereits vor seiner Rückkehr **vom Ausland aus**                              einen Antrag nach Anlage 2 (zu § 18 Absatz 5 Bundeswahlordnung) für im Ausland lebende Deutsche gestellt hatte, hat sein Wahlrecht in der Gemeinde auszuüben, in der er aufgrund seiner Antragstellung in das Wählerverzeichnis eingetragen worden ist.
-
-
-        –   Wer sich erst **nach dem 21. Tag vor der Wahl**                              in der Bundesrepublik Deutschland **anmelden wird**                             , muss bereits **vor**                              seiner Rückkehr in die Bundesrepublik Deutschland **vom Ausland aus**                              bis zum 21. Tag vor der Wahl bei der zuständigen Gemeindebehörde den Antrag auf Eintragung in das Wählerverzeichnis **nach Anlage 2**                              (zu § 18 Absatz 5 Bundeswahlordnung) für im Ausland lebende Deutsche stellen, weil er sonst nicht mehr in das Wählerverzeichnis eingetragen wird.
-
-
-
-
-
-*    *   *
-
-    *   **Zuständige Gemeindebehörde, an die der Antrag**                        auf Eintragung in das Wählerverzeichnis für Deutsche, die im Ausland leben **nach Anlage 2**                        (zu § 18 Absatz 5 Bundeswahlordnung) **zu richten ist,**                        ist die Gemeindebehörde der **letzten**                        – gemeldeten – Hauptwohnung in der Bundesrepublik Deutschland\*).
-
-
-*    *
-    *   Für Deutsche, die nie in der Bundesrepublik Deutschland
-        gemeldet waren, die Behörde der Gemeinde, mit der sie im Sinne des § 12 Absatz 2 Satz 1 Nummer 2 des Bundeswahlgesetzes am engsten verbunden sind; die insoweit maßgeblichen Tatsachen sind glaubhaft zu machen (siehe hierzu die Erläuterungen unter*                       ).
-
-
-*    *
-    *   Für **Seeleute,**                        die nicht von Amts wegen in das Wählerverzeichnis einzutragen sind, gelten Sonderbestimmungen nach § 17 Absatz 2 Nummer 5 der Bundeswahlordnung (BWO).
-
-
-*    *   *
-
-    *   Von **Seeleuten,**                        die auf einem Schiff **unter fremder Flagge**                        fahren, mit folgenden Angaben auszufüllen: Name des Schiffes, Name des Reeders, Sitz des Reeders (Ort und Staat).
-
-
-*    *   *
-
-    *   Anzugeben ist die vor dem Fortzug aus der Bundesrepublik Deutschland\*) zuletzt mindestens drei Monate ununterbrochen innegehabte und bei der Meldebehörde gemeldete Wohnung. Wurde diese Dreimonatsfrist nur durch das Innehaben weiterer gemeldeter Wohnungen erfüllt, so sind auch diese anzugeben.
-
-
-*    *
-    *   Wenn der Antragsteller sich in der Bundesrepublik Deutschland\*) gewöhnlich aufgehalten hat, ohne für eine Wohnung gemeldet zu sein, bitte statt der Anschrift angeben: „Mein Aufenthalt ist bekannt der
-        ..........“
-        (Angabe der Gemeindebehörde, der der gewöhnliche Aufenthalt zuletzt angezeigt oder sonst nachgewiesen war).
-
-
-*    *
-    *   Von Seeleuten (siehe die Erläuterungen unter*                       ), die zuletzt auf einem Seeschiff gemustert waren, das die Bundesflagge zu führen berechtigt war, und danach nur noch auf Schiffen unter fremder Flagge fahren, mit folgenden Angaben auszufüllen: Name des letzten deutschen Schiffes, Name des Reeders, Sitz des Reeders (Ort, Land).
-
-
-*    *   *
-
-    *   Von Seeleuten (siehe die Erläuterungen unter*                       ) hier mit folgenden Angaben auszufüllen: Datum der letzten Abmusterung von einem Seeschiff, das die deutsche Flagge zu führen berechtigt war, Name und Nationalität des Seeschiffes unter fremder Flagge.
-
-
-*    *   *
-
-    *   Angaben nur für
-        ein                        Dokument erforderlich.
-
-
-*    *   *
-
-    *   Die Eintragung in das Wählerverzeichnis erfolgt nur, wenn die Wahlberechtigung des Antragstellers für die Wahl zum Deutschen Bundestag nachgewiesen ist. Dazu muss die vorgedruckte Versicherung an Eides statt abgegeben werden. **Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.**                        Wenn eine der Voraussetzungen der Wahlberechtigung bis zum Wahltage fortfällt, muss der Antrag zurückgenommen werden.
-
-
-*    *   *
-
-    *   Deutsche im Sinne des Artikels 116 Absatz 1 des Grundgesetzes sind Personen, die
-
-        1.  die deutsche Staatsangehörigkeit oder
-
-
-        2.  als Spätaussiedler/Spätaussiedlerinnen oder als deren in den Aufnahmebescheid einbezogene Ehegatten oder Abkömmlinge auf Grund ihrer Aufnahme in Deutschland nach § 4 Absatz 3 des Bundesvertriebenengesetzes (BVFG) vor Ausstellung der Bescheinigung nach § 15 Absatz 1 oder 2 BVFG, mit der sie nach § 7 des Staatsangehörigkeitsgesetzes die deutsche Staatsangehörigkeit erwerben, vorübergehend die Rechtsstellung als (Status-) Deutsche ohne deutsche Staatsangehörigkeit
-
-
-
-
-
-*    *
-    *   besitzen.
-
-
-*    *   *
-
-    *   Vom Wahlrecht zum Deutschen Bundestag ist nach § 13 des Bundeswahlgesetzes ausgeschlossen, wer infolge Richterspruchs das Wahlrecht nicht besitzt.
-
-
-*    *   *
-
-    *   Das **linke Kästchen**                        ist anzukreuzen, wenn **alle**                        dort genannten Voraussetzungen auf den Antragsteller/die Antragstellerin zutreffen. Dies gilt auch, wenn der Antragsteller/die Antragstellerin sich in der Bundesrepublik Deutschland gewöhnlich aufgehalten hat, ohne für eine Wohnung gemeldet zu sein. Vergleiche die Erläuterungen unter*                        Absatz 2.
-
-
-*    *
-    *   Das **rechte Kästchen**                        ist anzukreuzen, wenn **nicht alle**                        der beim linken Kästchen genannten Voraussetzungen auf den Antragsteller/die Antragstellerin zutreffen (zum Beispiel weil er/sie niemals eine Wohnung in der Bundesrepublik Deutschland inne hatte oder ein Fortzug länger als 25 Jahre zurückliegt), er/sie aber **statt dessen**                        aus anderen, vergleichbaren Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben hat und gegenwärtig von ihnen betroffen ist.
-
-
-*    *
-    *   In diesen Fällen ist auf einem gesonderten Blatt zu begründen, wodurch und in welcher Weise der Antragsteller/die Antragstellerin persönlich und unmittelbar (auf Grund eigener Erfahrung) Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben hat und gegenwärtig von ihnen betroffen ist. Zum Beleg können dem Antrag Unterlagen beigefügt werden.
-
-
-*    *
-    *   Wahlberechtigt können **beispielsweise**                        folgende dauerhaft im Ausland lebende deutsche Staatsangehörige sein (für die nicht bereits die beim linken Kästchen genannten Voraussetzungen zutreffen):
-
-        –   Ortskräfte an deutschen Auslandsvertretungen, deutsche Mitarbeiter an Goetheinstituten, an den deutschen geisteswissenschaftlichen Instituten im Ausland, an deutschen Auslandsschulen, bei den Auslandsbüros der politischen Stiftungen, der deutschen Entwicklungszusammenarbeit oder der Auslandshandelskammern sowie Korrespondenten deutscher Medien;
-
-
-        –   Sogenannte Grenzpendler, die ihre Arbeits- oder Dienstleistung regelmäßig im Inland erbringen;
-
-
-        –   Auslandsdeutsche, die durch ein Engagement in deutschen Verbänden, Parteien und sonstigen Organisationen in erheblichem Umfang am politischen und gesellschaftlichen Leben der Bundesrepublik Deutschland teilnehmen.
-
-
-
-
-
-*    *
-    *   Die **Antragstellung**                        hat bei der Gemeinde zu erfolgen, bei der der Antragsteller/die Antragstellerin zu einem früheren Zeitpunkt gemeldet war, unabhängig davon, wie lange der Fortzug zurück liegt. Auslandsdeutsche, die nie in der Bundesrepublik Deutschland gemeldet waren, müssen ihren Antrag bei der Gemeinde stellen, mit der sie in Bezug auf ihre Vertrautheit mit und Betroffenheit von den politischen Verhältnissen in der Bundesrepublik Deutschland am engsten verbunden sind.
-        Dies ist ebenfalls zu begründen.
-
-
-*    *   *
-
-    *   Niemand darf an der Wahl zum Deutschen Bundestag mehrfach teilnehmen. Es ist deshalb nicht zulässig und wäre eine strafbare Wahlfälschung, wenn sich jemand an der Bundestagswahl mehrfach beteiligen würde.
-
-
-*    *   *
-
-    *   Die Stimmabgabe kann auch in einem Wahlraum vor einem Wahlvorstand in dem Wahlkreis erfolgen, in dem der Wahlschein gültig ist. Dann ist der Wahlschein dem Wahlvorstand auszuhändigen.
-
-
-*    *   *
-
-    *   Mit der Unterschrift versichert der Antragsteller die Richtigkeit seiner Angaben. Wahlberechtigte, die des Lesens unkundig oder wegen einer Behinderung nicht in der Lage sind, den Antrag und die Versicherung an Eides statt selbst auszufüllen und abzugeben, bedienen sich dabei der Hilfe einer anderen Person. Diese hat auch den Antrag und die Versicherung an Eides statt zu unterschreiben. Die Hilfsperson muss das 16. Lebensjahr vollendet haben. Vgl. im Übrigen die Erläuterungen unter*                       .
-
-
-*    *   *
-
-    *   Bedient sich der Antragsteller aus einem der in den Erläuterungen unter*                        genannten Gründe der Hilfe einer anderen Person, hat diese die Versicherung an Eides statt zu unterschreiben. **Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.**
-
-
-
-
-    Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen zuzüglich des Gebietes des früheren Berlin (Ost)).
-[^bjnr017690985bjne011215377_01_BJNR017690985BJNE011215377]:     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen zuzüglich des Gebietes des früheren Berlin (Ost)).
-[^bjnr017690985bjne012215377_02_BJNR017690985BJNE011215377]:     Zu berücksichtigen ist auch eine frühere Wohnung oder ein früherer Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen zuzüglich des Gebietes des früheren Berlin (Ost)).
-[^f797800_04_BJNR017690985BJNE011215377]: 
 
 ### Anlage 3 (zu § 19 Absatz 1)
 
 (Fundstelle: BGBl. I 2017, 595);
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-[^f797800_05_BJNR017690985BJNE011312377]
+[^f797800_05_BJNR017690985BJNE011313126]
 Wahlbenachrichtigung
 ## ****
 
 
 *    *   **Stadt Bonn**
+[^f797800_08_BJNR017690985BJNE011313126]
         Die Oberbürgermeisterin
-        4) ****
+        ****
 
     *
     *
@@ -3773,7 +2288,7 @@ Wahlbenachrichtigung
 *    *
     *
     *   **Wahlbenachrichtigung**
-[^f797800_06_BJNR017690985BJNE011312377]
+[^f797800_06_BJNR017690985BJNE011313126]
         für die Wahl zum Deutschen Bundestag
 
     *
@@ -3781,7 +2296,7 @@ Wahlbenachrichtigung
     *
     *
     *   Freimachungs-
-[^f797800_11_BJNR017690985BJNE011312377]
+[^f797800_11_BJNR017690985BJNE011313126]
         vermerk
 
     *
@@ -3789,7 +2304,7 @@ Wahlbenachrichtigung
 *    *
     *
     *   Wahltag: Sonntag, der …………………………
-        7)                       , Wahlzeit: 8.00 Uhr bis 18.00 Uhr
+        , Wahlzeit: 8.00 Uhr bis 18.00 Uhr
 
     *
     *
@@ -3817,12 +2332,11 @@ Wahlbenachrichtigung
     *
 
 *    *
-    *[^f797800_08_BJNR017690985BJNE011312377]
-   Wahlraum
+    *   Wahlraum
         ****
         Schulgebäude Agnesstraße 1
         53225 Bonn
-[^f797800_09_BJNR017690985BJNE011312377]
+[^f797800_09_BJNR017690985BJNE011313126]
         barrierefrei/nicht barrierefrei
 
     *   **Wahlkreis/** **Wahlbezirk/**
@@ -3832,7 +2346,7 @@ Wahlbenachrichtigung
     *
     *
     *   ggf. Weisung zum Sendungsverbleib bei
-[^f797800_12_BJNR017690985BJNE011312377]
+[^f797800_12_BJNR017690985BJNE011313126]
         Unzustellbarkeit und Umzug
         ****
 
@@ -3840,8 +2354,9 @@ Wahlbenachrichtigung
 
 *    *
     *   Auskünfte zu barrierefreien Wahlräumen erhalten Sie unter der Telefonnummer: …… / …………………,
-[^f797800_10_BJNR017690985BJNE011312377]
+[^f797800_10_BJNR017690985BJNE011313126]
         zu Hilfsmitteln für Blinde und Sehbehinderte unter der Telefonnummer: …… / …………………
+        Informationen in Leichter Sprache unter www.bundeswahlleiter.de/info/leichte-sprache.html
 
     *
     *
@@ -3861,7 +2376,7 @@ Wahlbenachrichtigung
 
     *
     *
-    *[^f797800_07_BJNR017690985BJNE011312377]
+    *[^f797800_07_BJNR017690985BJNE011313126]
    Herrn/Frau
         ..........
         ..........
@@ -3870,13 +2385,14 @@ Wahlbenachrichtigung
     *
 
 *    *   Wenn Sie durch Briefwahl oder in einem anderen Wahlraum in Ihrem Wahlkreis wählen wollen, müssen Sie einen Wahlschein beantragen. Den Antrag können Sie mit dem Vordruck auf der Rückseite stellen. Er kann auch ohne Vordruck schriftlich, elektronisch oder mündlich (nicht telefonisch) gestellt werden. Dabei sind Familienname, Vornamen, Geburtsdatum und Anschrift (Straße, Hausnummer, Postleitzahl, Ort) anzugeben; auch dann soll die oben mitgeteilte Nummer im Wählerverzeichnis angegeben werden. Der Antrag kann bei der zuständigen Gemeindebehörde abgegeben oder in einem frankierten Umschlag übersandt werden. Wahlscheinanträge werden von der Gemeindebehörde nur bis zum ………
-        7)                        18.00 Uhr entgegengenommen, bei nachgewiesener plötzlicher Erkrankung noch bis zum Wahltag um 15.00 Uhr.
+        15\.00 Uhr entgegengenommen, bei nachgewiesener plötzlicher Erkrankung noch bis zum Wahltag um 15.00 Uhr.
 
     *
     *
     *
 
-*    *   Der Wahlschein mit Briefwahlunterlagen wird Ihnen auf dem Postweg übersandt oder überbracht. Sie können ihn auch persönlich bei der Gemeindebehörde abholen. Wer für einen anderen einen Wahlschein beantragt oder abholt, muss eine schriftliche Vollmacht des Wahlberechtigten vorlegen.
+*    *   Der Wahlschein mit Briefwahlunterlagen wird Ihnen auf dem Postweg übersandt oder überbracht. Sie können ihn auch persönlich bei der Gemeindebehörde abholen. Wer für einen anderen einen Wahlschein beantragt oder abholt, muss eine schriftliche Vollmacht des Wahlberechtigten vorlegen. Falls Sie Briefwahlunterlagen beantragt haben, Ihnen diese aber nicht zugehen oder Sie diese verloren haben, haben Sie noch die Möglichkeit, bis spätestens …
+        , 12.00 Uhr einen neuen Wahlschein mit Briefwahlunterlagen zu beantragen. Wenden Sie sich in diesen Fällen umgehend an Ihr Wahlamt. Ohne Wahlschein können Sie weder in einem Wahllokal noch per Briefwahl wählen.
 
     *
     *
@@ -3912,14 +2428,14 @@ Wahlbenachrichtigung
 
 
 
-[^f797800_05_BJNR017690985BJNE011312377]:    Muster für die Versendung der Wahlbenachrichtigung. Auf der Rückseite ist ein Vordruck für den               Wahlscheinantrag (Anlage 4) aufzudrucken.
-[^f797800_06_BJNR017690985BJNE011312377]:     Muster der Wahlbenachrichtigung kann ggf. auch für zeitgleiche Landtags- und Kommunalwahlen               verwendet werden.
-[^f797800_07_BJNR017690985BJNE011312377]:     Die Nummer im Wählerverzeichnis und die Nummer des Wahlbezirks können in die Anschrift               aufgenommen werden.
-[^f797800_08_BJNR017690985BJNE011312377]:     Bei Verwendung des Kartenformats sind Absender- und Wahlraumadresse im oberen Drittel               der Wahlbenachrichtigung zu positionieren, um maschinelle Falschauslesungen durch den               Postdienstleister zu vermeiden.
+[^f797800_05_BJNR017690985BJNE011313126]:    Muster für die Versendung der Wahlbenachrichtigung. Auf der Rückseite ist ein Vordruck für den               Wahlscheinantrag (Anlage 4) aufzudrucken.
+[^f797800_06_BJNR017690985BJNE011313126]:     Muster der Wahlbenachrichtigung kann ggf. auch für zeitgleiche Landtags- und Kommunalwahlen               verwendet werden.
+[^f797800_07_BJNR017690985BJNE011313126]:     Die Nummer im Wählerverzeichnis und die Nummer des Wahlbezirks können in die Anschrift               aufgenommen werden.
+[^f797800_08_BJNR017690985BJNE011313126]:     Bei Verwendung des Kartenformats sind Absender- und Wahlraumadresse im oberen Drittel               der Wahlbenachrichtigung zu positionieren, um maschinelle Falschauslesungen durch den               Postdienstleister zu vermeiden.
     Für jeden Wahlraum ist – ggf. durch Piktogramm – eine Angabe zur Barrierefreiheit anzufügen.
-[^f797800_09_BJNR017690985BJNE011312377]:     Z. B. bundesweite Telefonnummer des Deutschen Blinden- und Sehbehindertenverbandes, DBSV
-[^f797800_10_BJNR017690985BJNE011312377]:     Wird von der Gemeindebehörde beim Druck der Wahlbenachrichtigungen eingesetzt.
-[^f797800_11_BJNR017690985BJNE011312377]: [^f797800_12_BJNR017690985BJNE011312377]:     Die Rücksendung der Wahlbenachrichtigung bei Unzustellbarkeit und die Nachsendung der               Wahlbenachrichtigung bei Umzug des Wahlberechtigten mit Mitteilung der neuen Anschrift an               die Gemeindebehörde (früher Vorausverfügung), ist durch die Beauftragung eines entsprechenden Versendungsprodukts beim jeweiligen Postdienstleister möglich. Die genaue Formulierung               der Weisung ist von der Gemeindebehörde in Absprache mit dem jeweiligen Postdienstleister               einzutragen.
+[^f797800_09_BJNR017690985BJNE011313126]:     Z. B. bundesweite Telefonnummer des Deutschen Blinden- und Sehbehindertenverbandes, DBSV
+[^f797800_10_BJNR017690985BJNE011313126]:     Wird von der Gemeindebehörde beim Druck der Wahlbenachrichtigungen eingesetzt.
+[^f797800_11_BJNR017690985BJNE011313126]: [^f797800_12_BJNR017690985BJNE011313126]:     Die Rücksendung der Wahlbenachrichtigung bei Unzustellbarkeit und die Nachsendung der               Wahlbenachrichtigung bei Umzug des Wahlberechtigten mit Mitteilung der neuen Anschrift an               die Gemeindebehörde (früher Vorausverfügung), ist durch die Beauftragung eines entsprechenden Versendungsprodukts beim jeweiligen Postdienstleister möglich. Die genaue Formulierung               der Weisung ist von der Gemeindebehörde in Absprache mit dem jeweiligen Postdienstleister               einzutragen.
 
 
 ### Anlage 4 (zu § 19 Absatz 2)
@@ -3928,7 +2444,7 @@ Wahlbenachrichtigung
 
 Rückseite der Wahlbenachrichtigung
 
-*    *[^f797800_13_BJNR017690985BJNE011410305]
+*    *[^f797800_13_BJNR017690985BJNE011411126]
    **Wahlscheinantrag**
         (Wahlscheinantrag bitte bei der Gemeindebehörde abgeben
         oder bei Postversand im **frankierten Umschlag**                        absenden)
@@ -3941,8 +2457,7 @@ Rückseite der Wahlbenachrichtigung
     *
 
 *    *
-    *   Wahlscheinantrag nur ausfüllen, unterschreiben und absenden, wenn Sie nicht in Ihrem Wahlraum, sondern
-        in **einem anderen Wahlbezirk Ihres Wahlkreises**                        oder **durch Briefwahl**                        wählen wollen.
+    *   Wahlscheinantrag nur ausfüllen, unterschreiben und absenden, wenn Sie nicht in Ihrem Wahlraum, sondern durch Briefwahl oder in einem anderen Wahlbezirk Ihres Wahlkreises wählen wollen. Bei Wahl in einem Wahlraum muss dann der Wahlschein vorgelegt werden.
 
     *
     *   Für amtliche
@@ -3950,7 +2465,7 @@ Rückseite der Wahlbenachrichtigung
 
 
 *    *   An die
-[^f797800_14_BJNR017690985BJNE011410305]
+[^f797800_14_BJNR017690985BJNE011411126]
         Gemeindebehörde
         ..........
         ..........
@@ -3962,7 +2477,6 @@ Rückseite der Wahlbenachrichtigung
 
 
 *    *   für die umseitig angegebene Wahl
-        2)
         ..........
 
 
@@ -3970,7 +2484,7 @@ Rückseite der Wahlbenachrichtigung
 
 
 *    *
-        *            *[^f797800_15_BJNR017690985BJNE011410305]
+        *            *[^f797800_15_BJNR017690985BJNE011411126]
    Ich beantrage die Erteilung eines Wahlscheins
 
             *
@@ -3987,7 +2501,7 @@ Rückseite der Wahlbenachrichtigung
         Eine **schriftliche Vollmacht**
         oder beglaubigte Abschrift zum Nachweis meiner Berechtigung
         zur Antragstellung füge ich
-[^f797800_16_BJNR017690985BJNE011410305]
+[^f797800_16_BJNR017690985BJNE011411126]
         diesem Antrag bei.
         Die Vollmacht kann mit diesem Formular erteilt werden (siehe 1. Kästchen unten).
 
@@ -4013,7 +2527,6 @@ Rückseite der Wahlbenachrichtigung
 
 
 *    *   Der Wahlschein mit den Briefwahlunterlagen
-        3)
 
 
 *    *   *                        soll an meine obige Anschrift geschickt werden.
@@ -4128,11 +2641,11 @@ Rückseite der Wahlbenachrichtigung
 
 
 
-   Muster für den Antrag auf Erteilung eines Wahlscheins mit Briefwahlunterlagen.
-[^f797800_13_BJNR017690985BJNE011410305]:     Angaben sind von der Gemeinde voreinzutragen.
-[^f797800_14_BJNR017690985BJNE011410305]:     Zutreffendes bitte ankreuzen.
-[^f797800_15_BJNR017690985BJNE011410305]:     Wer den Antrag für einen anderen stellt, muss durch Vorlage einer schriftlichen Vollmacht nachweisen, dass er dazu berechtigt ist (§ 27 Absatz 3 Bundeswahlordnung).
-[^f797800_16_BJNR017690985BJNE011410305]: 
+   Muster für den Antrag auf Erteilung eines Wahlscheins mit Briefwahlunterlagen. Wahlscheinanträge so rechtzeitig versenden, dass sie spätestens am zweiten Tag vor der Wahl, 15 Uhr bei der angegebenen Gemeindebehörde eingehen.
+[^f797800_13_BJNR017690985BJNE011411126]:     Angaben sind von der Gemeinde voreinzutragen.
+[^f797800_14_BJNR017690985BJNE011411126]:     Zutreffendes bitte ankreuzen.
+[^f797800_15_BJNR017690985BJNE011411126]:     Wer den Antrag für einen anderen stellt, muss durch Vorlage einer schriftlichen Vollmacht nachweisen, dass er dazu berechtigt ist (§ 27 Absatz 3 Bundeswahlordnung).
+[^f797800_16_BJNR017690985BJNE011411126]: 
 
 ### Anlage 5 (zu § 20 Abs. 1)
 
@@ -4163,12 +2676,12 @@ für die Wahl zum Deutschen Bundestag
 
 
 *    *
-    *[^BJNR017690985BJNE011507160_01_BJNR017690985BJNE011513377]
+    *[^BJNR017690985BJNE011507160_01_BJNR017690985BJNE011514126]
    während der allgemeinen Öffnungszeiten
 
 
 *    *
-    *[^BJNR017690985BJNE011507160_02_BJNR017690985BJNE011513377]
+    *[^BJNR017690985BJNE011507160_02_BJNR017690985BJNE011514126]
    ................................................................................................................................................................................................................................................................
 
 
@@ -4184,8 +2697,8 @@ für die Wahl zum Deutschen Bundestag
     *
 
 *    *
-    *   für Wahlberechtigte zur Einsichtnahme bereitgehalten. Jeder Wahlberechtigte kann die Richtigkeit oder Vollständigkeit der zu seiner Person im Wählerverzeichnis eingetragenen Daten überprüfen. Sofern ein Wahlberechtigter die Richtigkeit oder Vollständigkeit der Daten von anderen im Wählerverzeichnis eingetragenen Personen überprüfen will, hat er Tatsachen glaubhaft zu machen, aus denen sich eine Unrichtigkeit oder Unvollständigkeit des Wählerverzeichnisses ergeben kann. Das Recht auf Überprüfung besteht nicht hinsichtlich der Daten von Wahlberechtigten, für die im Melderegister ein Sperrvermerk gemäß § 51 Absatz 1 des Bundesmeldegesetzes eingetragen ist.
-[^BJNR017690985BJNE011507160_03_BJNR017690985BJNE011513377]
+    *   für Wahlberechtigte zur Einsichtnahme bereitgehalten. Jeder Wahlberechtigte kann die Richtigkeit oder Vollständigkeit der zu seiner Person im Wählerverzeichnis eingetragenen Daten überprüfen. Sofern ein Wahlberechtigter die Richtigkeit oder Vollständigkeit der Daten von anderen im Wählerverzeichnis eingetragenen Personen überprüfen will, hat er Tatsachen glaubhaft zu machen, aus denen sich eine Unrichtigkeit oder Unvollständigkeit des Wählerverzeichnisses ergeben kann. Das Recht auf Überprüfung besteht nicht hinsichtlich der Daten von Wahlberechtigten, für die im Melderegister eine Auskunftssperre gemäß § 51 Absatz 1 des Bundesmeldegesetzes eingetragen ist.
+[^BJNR017690985BJNE011507160_03_BJNR017690985BJNE011514126]
         Das Wählerverzeichnis wird im automatisierten Verfahren geführt. Die Einsichtnahme ist durch ein Datensichtgerät möglich.
         Wählen kann nur, wer in das Wählerverzeichnis eingetragen ist oder einen Wahlschein hat.
 
@@ -4199,7 +2712,7 @@ für die Wahl zum Deutschen Bundestag
 
 
 *    *
-    *[^BJNR017690985BJNE011507160_04_BJNR017690985BJNE011513377]
+    *[^BJNR017690985BJNE011507160_04_BJNR017690985BJNE011514126]
    spätestens am ........................................................................ bis ................................................... Uhr, bei der Gemeindebehörde
         (16. Tag vor der Wahl)
 
@@ -4337,13 +2850,13 @@ für die Wahl zum Deutschen Bundestag
 
 
 *    *
-    *   ........................................................................ 18.00 Uhr, bei der Gemeindebehörde mündlich, schriftlich oder elektronisch beantragt werden.
+    *   ........................................................................ 15.00 Uhr, bei der Gemeindebehörde mündlich, schriftlich oder elektronisch beantragt werden.
         (2. Tag vor der Wahl)
 
 
 *    *
     *   Im Falle nachweislich plötzlicher Erkrankung, die ein Aufsuchen des Wahlraumes nicht oder nur unter nicht zumutbaren Schwierigkeiten möglich macht, kann der Antrag noch bis zum Wahltage, 15.00 Uhr, gestellt werden.
-        Versichert ein Wahlberechtigter glaubhaft, dass ihm der beantragte Wahlschein nicht zugegangen ist, kann ihm bis zum Tage **vor**                        der Wahl, 12.00 Uhr, ein neuer Wahlschein erteilt werden.
+        Versichert ein Wahlberechtigter glaubhaft, dass ihm der beantragte Wahlschein nicht zugegangen ist oder er ihn verloren hat, kann ihm bis zum Tage **vor**                        der Wahl, 12.00 Uhr, ein neuer Wahlschein erteilt werden.
         Nicht in das Wählerverzeichnis eingetragene Wahlberechtigte können aus den unter 5.2 Buchstabe a bis c angegebenen Gründen den Antrag auf Erteilung eines Wahlscheines noch bis zum Wahltage, 15.00 Uhr, stellen.
         Wer den Antrag für einen anderen stellt, muss durch Vorlage einer **schriftlichen Vollmacht**                        nachweisen, dass er dazu berechtigt ist. Ein Wahlberechtigter mit Behinderung kann sich bei der Antragstellung der Hilfe einer anderen Person bedienen.
 
@@ -4369,7 +2882,7 @@ für die Wahl zum Deutschen Bundestag
 *    *
     *   -
 
-    *   einen amtlichen blauen Stimmzettelumschlag,
+    *   einen amtlichen Stimmzettelumschlag,
 
 
 *    *
@@ -4389,7 +2902,7 @@ für die Wahl zum Deutschen Bundestag
         Ein Wahlberechtigter, der des Lesens unkundig oder wegen einer Behinderung an der Abgabe seiner Stimme gehindert ist, kann sich zur Stimmabgabe der Hilfe einer anderen Person bedienen. Die Hilfsperson muss das 16. Lebensjahr vollendet haben. Die Hilfeleistung ist auf technische Hilfe bei der Kundgabe einer vom Wahlberechtigten selbst getroffenen und geäußerten Wahlentscheidung beschränkt. Unzulässig ist eine Hilfeleistung, die unter missbräuchlicher Einflussnahme erfolgt, die selbstbestimmte Willensbildung oder Entscheidung des Wahlberechtigten ersetzt oder verändert oder wenn ein Interessenkonflikt der Hilfsperson besteht. Die Hilfsperson ist zur Geheimhaltung der Kenntnisse verpflichtet, die sie bei der Hilfeleistung von der Wahl einer anderen Person erlangt hat.
 
         Bei der Briefwahl muss der Wähler den Wahlbrief mit dem Stimmzettel und dem Wahlschein so rechtzeitig an die angegebene Stelle absenden, dass der Wahlbrief dort spätestens am Wahltage bis 18.00 Uhr eingeht.
-[^BJNR017690985BJNE011507160_05_BJNR017690985BJNE011513377]
+[^BJNR017690985BJNE011507160_05_BJNR017690985BJNE011514126]
         Der Wahlbrief wird innerhalb der Bundesrepublik Deutschland ohne besondere Versendungsform ausschließlich von ..........
         unentgeltlich befördert. Er kann auch bei der auf dem Wahlbrief angegebenen Stelle angegeben werden.
 
@@ -4422,11 +2935,11 @@ für die Wahl zum Deutschen Bundestag
 _\_\__\_\__\_\__\_\__\_\_
 
     Wenn andere Zeiten bestimmt sind, diese angeben.
-[^BJNR017690985BJNE011507160_01_BJNR017690985BJNE011513377]:     Für jeden Ort der Einsichtnahme ist anzugeben, ob er barrierefrei oder nicht barrierefrei ist. Wenn mehrere Einsichtsstellen eingerichtet sind, diese und die ihnen zugeteilten Ortsteile oder dgl. oder die Nummern der Wahlbezirke angeben.
-[^BJNR017690985BJNE011507160_02_BJNR017690985BJNE011513377]:     Nichtzutreffendes streichen.
-[^BJNR017690985BJNE011507160_03_BJNR017690985BJNE011513377]:     Dienststelle, Gebäude und Zimmer angeben.
-[^BJNR017690985BJNE011507160_04_BJNR017690985BJNE011513377]:     Gemäß § 36 Abs. 4 des Bundeswahlgesetzes amtlich bekannt gemachtes Postunternehmen einsetzen.
-[^BJNR017690985BJNE011507160_05_BJNR017690985BJNE011513377]: 
+[^BJNR017690985BJNE011507160_01_BJNR017690985BJNE011514126]:     Für jeden Ort der Einsichtnahme ist anzugeben, ob er barrierefrei oder nicht barrierefrei ist. Wenn mehrere Einsichtsstellen eingerichtet sind, diese und die ihnen zugeteilten Ortsteile oder dgl. oder die Nummern der Wahlbezirke angeben.
+[^BJNR017690985BJNE011507160_02_BJNR017690985BJNE011514126]:     Nichtzutreffendes streichen.
+[^BJNR017690985BJNE011507160_03_BJNR017690985BJNE011514126]:     Dienststelle, Gebäude und Zimmer angeben.
+[^BJNR017690985BJNE011507160_04_BJNR017690985BJNE011514126]:     Gemäß § 36 Abs. 4 des Bundeswahlgesetzes amtlich bekannt gemachtes Postunternehmen einsetzen.
+[^BJNR017690985BJNE011507160_05_BJNR017690985BJNE011514126]: 
 
 ### Anlage 6 (zu § 20 Abs. 2)
 
@@ -4768,11 +3281,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-        *            *   **Verlorene Wahlscheine werden nicht ersetzt**
-
-
-
-
 
 *    *
     *
@@ -4782,9 +3290,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   **Wahlschein für die Wahl zum Deutschen Bundestag am**                      .....................................................................................................................................................................
 
 
-*    *[^BJNR017690985BJNE011908377_01_BJNR017690985BJNE011910377]
+*    *[^BJNR017690985BJNE011908377_01_BJNR017690985BJNE011911126]
    (Zu den Ziffern
-[^BJNR017690985BJNE011908377_04_BJNR017690985BJNE011910377]
+[^BJNR017690985BJNE011908377_04_BJNR017690985BJNE011911126]
         bis
         finden Sie Hinweise in den Erläuterungen)
 
@@ -4846,7 +3354,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *[^BJNR017690985BJNE011908377_02_BJNR017690985BJNE011910377]
+*    *[^BJNR017690985BJNE011908377_02_BJNR017690985BJNE011911126]
    wohnhaft in
         (Straße, Hausnummer, Postleitzahl, Wohnort)                      ......................................................................................................................................................................................................
 
@@ -4902,7 +3410,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-*    *[^BJNR017690985BJNE011908377_03_BJNR017690985BJNE011910377]
+*    *[^BJNR017690985BJNE011908377_03_BJNR017690985BJNE011911126]
    Versicherung an Eides statt zur Briefwahl
         ****
 
@@ -4983,21 +3491,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    **Erläuterungen**
 
     Falls erforderlich, von der Gemeindebehörde ankreuzen.
-[^BJNR017690985BJNE011908377_01_BJNR017690985BJNE011910377]:     Nur ausfüllen, wenn Versandanschrift nicht mit der Wohnung übereinstimmt.
-[^BJNR017690985BJNE011908377_02_BJNR017690985BJNE011910377]:     Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.
-[^BJNR017690985BJNE011908377_03_BJNR017690985BJNE011910377]:     Wähler, die des Lesens unkundig oder wegen einer Behinderung gehindert sind, den Stimmzettel zu kennzeichnen, können sich der Hilfe einer anderen Person bedienen. Die Hilfeleistung ist auf technische Hilfe bei der Kundgabe einer vom Wahlberechtigten selbst getroffenen und geäußerten Wahlentscheidung beschränkt. Unzulässig ist eine Hilfeleistung, die unter missbräuchlicher Einflussnahme erfolgt, die selbstbestimmte Willensbildung oder Entscheidung des Wahlberechtigten ersetzt oder verändert oder wenn ein Interessenkonflikt der Hilfsperson besteht. Die Hilfsperson muss das 16. Lebensjahr vollendet haben. Sie hat die „Versicherung an Eides statt zur Briefwahl“ zu unterzeichnen. Außerdem ist die Hilfsperson zur Geheimhaltung der Kenntnisse verpflichtet, die sie durch die Hilfeleistung erlangt hat. Auf die Strafbarkeit einer im Rahmen zulässiger Assistenz entgegen der Wahlentscheidung des Wahlberechtigten oder ohne eine geäußerte Wahlentscheidung des Wahlberechtigten erfolgten Stimmabgabe wird hingewiesen.
-[^BJNR017690985BJNE011908377_04_BJNR017690985BJNE011910377]: 
+[^BJNR017690985BJNE011908377_01_BJNR017690985BJNE011911126]:     Nur ausfüllen, wenn Versandanschrift nicht mit der Wohnung übereinstimmt.
+[^BJNR017690985BJNE011908377_02_BJNR017690985BJNE011911126]:     Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.
+[^BJNR017690985BJNE011908377_03_BJNR017690985BJNE011911126]:     Wähler, die des Lesens unkundig oder wegen einer Behinderung gehindert sind, den Stimmzettel zu kennzeichnen, können sich der Hilfe einer anderen Person bedienen. Die Hilfeleistung ist auf technische Hilfe bei der Kundgabe einer vom Wahlberechtigten selbst getroffenen und geäußerten Wahlentscheidung beschränkt. Unzulässig ist eine Hilfeleistung, die unter missbräuchlicher Einflussnahme erfolgt, die selbstbestimmte Willensbildung oder Entscheidung des Wahlberechtigten ersetzt oder verändert oder wenn ein Interessenkonflikt der Hilfsperson besteht. Die Hilfsperson muss das 16. Lebensjahr vollendet haben. Sie hat die „Versicherung an Eides statt zur Briefwahl“ zu unterzeichnen. Außerdem ist die Hilfsperson zur Geheimhaltung der Kenntnisse verpflichtet, die sie durch die Hilfeleistung erlangt hat. Auf die Strafbarkeit einer im Rahmen zulässiger Assistenz entgegen der Wahlentscheidung des Wahlberechtigten oder ohne eine geäußerte Wahlentscheidung des Wahlberechtigten erfolgten Stimmabgabe wird hingewiesen.
+[^BJNR017690985BJNE011908377_04_BJNR017690985BJNE011911126]: 
 
 ### Anlage 10 (zu § 28 Abs. 3 und § 45 Abs. 3)
 
 (Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 18;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-[^BJNR017690985BJNE012004160_01]
+[^BJNR017690985BJNE012004160_01_BJNR017690985BJNE012005126]
 Vorderseite des Stimmzettelumschlags für die Briefwahl
 ## ****
-
-### (DIN C6) blau
 
 
 *    *
@@ -5050,7 +3556,7 @@ Vorderseite des Stimmzettelumschlags für die Briefwahl
 
 
    Bei zeitgleichen Landtags- oder Kommunalwahlen können auf der Vorderseite des Stimmzettelumschlags nach dem Wort „Briefwahl“ die Wörter „bei der Bundestagswahl“ angefügt werden.
-[^BJNR017690985BJNE012004160_01]: 
+[^BJNR017690985BJNE012004160_01_BJNR017690985BJNE012005126]: 
 
 ### Anlage 11 (zu § 28 Abs. 3 und § 45 Abs. 4)
 
@@ -5059,8 +3565,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## **Vorderseite des Wahlbriefumschlags**
 
-[^BJNR017690985BJNE012107160_07_BJNR017690985BJNE012109305]
-(etwa 12,0 x 17,6 cm) hellrot (maschinenlesbar)
+[^BJNR017690985BJNE012107160_07_BJNR017690985BJNE012110126]
+hellrot (maschinenlesbar)
 ### 
 
 
@@ -5088,14 +3594,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
     *
-        *            *   unentgeltlich
-                außschließlich
-                innerhalb der
-                Bundesrepublik
-                Deutschland
-                bei Versendung
-[^BJNR017690985BJNE012107160_02_BJNR017690985BJNE012109305]
-                durch ..
+        *            *[^BJNR017690985BJNE012107160_02_BJNR017690985BJNE012110126]
+   Unentgeltliche Beförderung in Deutschland durch
 
 
 
@@ -5112,7 +3612,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *[^BJNR017690985BJNE012107160_01_BJNR017690985BJNE012109305]
+    *[^BJNR017690985BJNE012107160_01_BJNR017690985BJNE012110126]
    Wahlbezirk: ..................................................................................................
 
     *
@@ -5154,21 +3654,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *[^BJNR017690985BJNE012107160_03_BJNR017690985BJNE012109305]
+    *[^BJNR017690985BJNE012107160_03_BJNR017690985BJNE012110126]
    ...............................................................................
 
     *
 
 *    *
     *
-    *[^BJNR017690985BJNE012107160_04_BJNR017690985BJNE012109305]
+    *[^BJNR017690985BJNE012107160_04_BJNR017690985BJNE012110126]
    ...............................................................................
 
     *
 
 *    *
     *
-    *[^BJNR017690985BJNE012107160_05_BJNR017690985BJNE012109305]
+    *[^BJNR017690985BJNE012107160_05_BJNR017690985BJNE012110126]
    ...............................................................................
 
     *
@@ -5238,7 +3738,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   2.
 
-    *   den **verschlossenen blauen Stimmzettelumschlag**
+    *   den **verschlossenen weißen Stimmzettelumschlag**
 
     *
     *
@@ -5290,7 +3790,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *[^BJNR017690985BJNE012107160_06_BJNR017690985BJNE012109305]
+    *[^BJNR017690985BJNE012107160_06_BJNR017690985BJNE012110126]
    Der Wahlbrief kann auch dort
         abgegeben werden.
 
@@ -5326,12 +3826,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    _\_\__\_\__\_\__\_\__\_\__\_\_\_\_
 
     Wahlschein-Nr. oder Wahlbezirk müssen von der Ausgabestelle angegeben werden.
-[^BJNR017690985BJNE012107160_01_BJNR017690985BJNE012109305]:     Gemäß § 36 Abs. 4 des Bundeswahlgesetzes ist von der Ausgabestelle das amtlich bekannt gemachte Postunternehmen einzusetzen.
-[^BJNR017690985BJNE012107160_02_BJNR017690985BJNE012109305]:     Anstelle der Punktierung ist von der Ausgabestelle der Wahlbriefempfänger gemäß § 66 Abs. 2 BWO einzusetzen.
-[^BJNR017690985BJNE012107160_03_BJNR017690985BJNE012109305]:     Anstelle der Punktierung ist von der Ausgabestelle die Anschrift (Straße und Hausnummer) des Wahlbriefempfängers - falls vorhanden, dessen Postfach - einzusetzen.
-[^BJNR017690985BJNE012107160_04_BJNR017690985BJNE012109305]:     Anstelle der Punktierung sind von der Ausgabestelle Postleitzahl und Bestimmungsort des Wahlbriefempfängers - falls vorhanden, die Postfach-Postleitzahl - einzusetzen.
-[^BJNR017690985BJNE012107160_05_BJNR017690985BJNE012109305]:     Kann von der Ausgabestelle durch eine abweichende Adresse ersetzt werden (z. B. wenn vorderseitig angegebene Anschrift Postfachadresse ist).
-[^BJNR017690985BJNE012107160_06_BJNR017690985BJNE012109305]: [^BJNR017690985BJNE012107160_07_BJNR017690985BJNE012109305]:     Die Maschinenlesbarkeit ist sicherzustellen durch ein hellrotes Papier nach dem Farbmodell CMYK 0/60/15/0 auf Naturpapier (inklusive Recycling-Papier) und Beachtung folgender Faktoren der Papierbeschaffenheit:                             1.                                Papierflächengewicht: mindestens 70 g/qm
+[^BJNR017690985BJNE012107160_01_BJNR017690985BJNE012110126]:     Gemäß § 36 Absatz 4 des Bundeswahlgesetzes ist von der Ausgabestelle der amtlich bekannt gemachte Postdienstleister einzusetzen. Die Gestaltung des Frankiervermerks erfolgt nach Absprache mit dem amtlich bekannt gemachten Postdienstleister.
+[^BJNR017690985BJNE012107160_02_BJNR017690985BJNE012110126]:     Anstelle der Punktierung ist von der Ausgabestelle der Wahlbriefempfänger gemäß § 66 Abs. 2 BWO einzusetzen.
+[^BJNR017690985BJNE012107160_03_BJNR017690985BJNE012110126]:     Anstelle der Punktierung ist von der Ausgabestelle die Anschrift (Straße und Hausnummer) des Wahlbriefempfängers - falls vorhanden, dessen Postfach - einzusetzen.
+[^BJNR017690985BJNE012107160_04_BJNR017690985BJNE012110126]:     Anstelle der Punktierung sind von der Ausgabestelle Postleitzahl und Bestimmungsort des Wahlbriefempfängers - falls vorhanden, die Postfach-Postleitzahl - einzusetzen.
+[^BJNR017690985BJNE012107160_05_BJNR017690985BJNE012110126]:     Kann von der Ausgabestelle durch eine abweichende Adresse ersetzt werden (z. B. wenn vorderseitig angegebene Anschrift Postfachadresse ist).
+[^BJNR017690985BJNE012107160_06_BJNR017690985BJNE012110126]: [^BJNR017690985BJNE012107160_07_BJNR017690985BJNE012110126]:     Die Maschinenlesbarkeit ist sicherzustellen durch ein hellrotes Papier nach dem Farbmodell CMYK 0/60/15/0 auf Naturpapier (inklusive Recycling-Papier) und Beachtung folgender Faktoren der Papierbeschaffenheit:                             1.                                Papierflächengewicht: mindestens 70 g/qm
 
 
     2\.                                Druckqualität und Kontrast: Abriebfestigkeit der in dunkler Schrift aufgebrachten Aufschrift, die sich mit deutlichem Kontrast abheben muss
@@ -5360,7 +3860,7 @@ Anbei erhalten Sie die Unterlagen für die Wahl zum ........... Deutschen Bundes
 
     *   3.
 
-    *   den amtlichen blauen Stimmzettelumschlag,
+    *   den amtlichen weißen Stimmzettelumschlag,
 
 
 *    *   2.
@@ -5404,7 +3904,7 @@ Bitte nachstehende "Wichtige Hinweise für Briefwähler" und umseitigen "Wegweis
 
 *    *   2.
 
-    *   Den **Wahlschein**                        nicht in den blauen Stimmzettelumschlag legen, sondern mit diesem **in den roten Wahlbriefumschlag**                        stecken. Sonst ist die Stimmabgabe ungültig.
+    *   Den **Wahlschein**                        nicht in den weißen Stimmzettelumschlag legen, sondern mit diesem **in den roten Wahlbriefumschlag**                        stecken. Sonst ist die Stimmabgabe ungültig.
 
 
 *    *
@@ -5424,10 +3924,9 @@ Bitte nachstehende "Wichtige Hinweise für Briefwähler" und umseitigen "Wegweis
 
 *    *   4.
 
-    *   Wahlbrief so **rechtzeitig**                        versenden, dass er spätestens am Wahltag bis 18.00 Uhr bei dem auf dem Wahlbrief angegebenen Empfänger **eingeht!**                        Der Wahlbrief kann auch dort abgegeben werden.
-[^BJNR017690985BJNE012208377_01_BJNR017690985BJNE012210377]
-        **Innerhalb der Bundesrepublik Deutschland**                          sollte der Wahlbrief spätestens drei Werktage vor der Wahl **(Donnerstag, den .... 20..),**                          bei entfernt liegenden Orten noch früher, bei ...
-        eingeliefert werden. Die Versendung durch …………………
+    *   Wahlbrief unter Berücksichtigung der Postlaufzeiten so rechtzeitig versenden, dass er spätestens am Wahltag bis 18.00 Uhr bei dem auf dem Wahlbrief angegebenen Empfänger **eingeht!**                        Der Wahlbrief kann auch dort abgegeben werden.
+[^BJNR017690985BJNE012208377_01_BJNR017690985BJNE012211126]
+        Die Versendung durch …………………
         innerhalb der Bundesrepublik Deutschland ist unentgeltlich. Wird eine besondere Beförderungsform, gewünscht, so muss das dafür fällige - zusätzliche - Leistungsentgelt entrichtet werden.
 
         Bei Beförderung durch ein anderes Postunternehmen ist das dafür fällige Leistungsentgelt in voller Höhe zu entrichten; ansonsten kann eine ordnungsgemäße Beförderung nicht gewährleistet werden.
@@ -5449,9 +3948,9 @@ Bitte nachstehende "Wichtige Hinweise für Briefwähler" und umseitigen "Wegweis
 Rückseite des Merkblatts zur Briefwahl
 ## **Wegweiser für die Briefwahl**
 
-![bgbl1_2020_j0199-1_0010.jpg](bgbl1_2020_j0199-1_0010.jpg)
+![bgbl1_2024_j02830_0010.jpg](bgbl1_2024_j02830_0010.jpg)
     Gemäß § 36 Abs. 4 des Bundeswahlgesetzes amtlich bekannt gemachtes Postunternehmen einsetzen.
-[^BJNR017690985BJNE012208377_01_BJNR017690985BJNE012210377]: 
+[^BJNR017690985BJNE012208377_01_BJNR017690985BJNE012211126]: 
 
 ### Anlage 13 (zu § 34 Abs. 1)
 
@@ -5481,8 +3980,8 @@ Rückseite des Merkblatts zur Briefwahl
 ## **Kreiswahlvorschlag**
 
 
-*    *[^BJNR017690985BJNE012307160_01]
-   der
+*    *   A. … (Name der Partei und Anschrift – in der Regel des Landesverbandes – sowie ihre Kurzbezeichnung)
+        oder B. … (Kennwort des anderen Kreiswahlvorschlags (§ 20 Absatz 3 des Bundeswahlgesetzes))
         ............................................................................................................................................................................................................................................................................................
 
 
@@ -5585,7 +4084,7 @@ Rückseite des Merkblatts zur Briefwahl
 
 
 *    *
-    *   (Straße, Hausnummer, Postleitzahl, Wohnort, Fernruf)
+    *   (Straße, Hausnummer, Postleitzahl, Wohnort, Telefonnummer, E-Mail-Adresse)
 
 
 *    *
@@ -5620,7 +4119,7 @@ Rückseite des Merkblatts zur Briefwahl
 
 
 *    *
-    *   (Straße, Hausnummer, Postleitzahl, Wohnort, Fernruf)
+    *   (Straße, Hausnummer, Postleitzahl, Wohnort, Telefonnummer, E-Mail-Adresse)
 
 
 *    *
@@ -5648,7 +4147,7 @@ Rückseite des Merkblatts zur Briefwahl
 *    *
     *   c)
 
-    *[^BJNR017690985BJNE012307160_02]
+    *[^BJNR017690985BJNE012307160_02_BJNR017690985BJNE012308126]
    .................... Unterstützungsunterschriften mit dem Nachweis der Wahlberechtigung der Unterzeichner des Kreiswahlvorschlages
         , soweit diese nicht als Mitglied des Vorstandes des Landesverbandes einer Partei oder, wenn Landesverbände nicht bestehen, als Mitglieder von Vorständen der nächstniedrigen Gebietsverbände, in deren Bereich der Wahlkreis liegt, unterzeichnen,
 
@@ -5656,7 +4155,7 @@ Rückseite des Merkblatts zur Briefwahl
 *    *
     *   d)
 
-    *[^BJNR017690985BJNE012307160_03]
+    *[^BJNR017690985BJNE012307160_03_BJNR017690985BJNE012308126]
    eine Ausfertigung der Niederschrift über die Beschlussfassung der Mitglieder- oder Vertreterversammlung nebst Versicherung an Eides statt (§ 21 Abs. 6 des Bundeswahlgesetzes)
         ,
 
@@ -5664,7 +4163,7 @@ Rückseite des Merkblatts zur Briefwahl
 *    *
     *   e)
 
-    *[^BJNR017690985BJNE012307160_04]
+    *[^BJNR017690985BJNE012307160_04_BJNR017690985BJNE012308126]
    der Nachweis, dass dem Landeswahlleiter eine schriftliche Vollmacht der anderen beteiligten Vorstände vorliegt.
 
 
@@ -5690,7 +4189,7 @@ Rückseite des Merkblatts zur Briefwahl
 
 
    (Unterschriften von drei Mitgliedern des Vorstandes des Landesverbandes der Partei
-[^BJNR017690985BJNE012307160_05]
+[^BJNR017690985BJNE012307160_05_BJNR017690985BJNE012308126]
 oder von drei Wahlberechtigten
 )
 
@@ -5741,7 +4240,7 @@ oder von drei Wahlberechtigten
     *   ..........................................................................................
 
 
-*    *[^BJNR017690985BJNE012307160_06]
+*    *[^BJNR017690985BJNE012307160_06_BJNR017690985BJNE012308126]
    (Funktion)
 
     *   (Funktion)
@@ -5752,13 +4251,12 @@ oder von drei Wahlberechtigten
 
 _\_\__\_\__\_\__\_\__\_\_\_\_
 
-    Name der Partei und Anschrift (i.d.R. des Landesverbandes) sowie ihre Kurzbezeichnung. Bei anderen Kreiswahlvorschlägen (§ 20 Abs. 3 des Bundeswahlgesetzes) ist als Bezeichnung das Kennwort anzugeben.
-[^BJNR017690985BJNE012307160_01]:     Bei anderen Kreiswahlvorschlägen (§ 20 Abs. 3 des Bundeswahlgesetzes) und bei Kreiswahlvorschlägen von solchen Parteien, die im Deutschen Bundestag oder in einem Landtag seit deren letzter Wahl nicht auf Grund eigener Wahlvorschläge ununterbrochen mit mindestens fünf Abgeordneten vertreten waren.
-[^BJNR017690985BJNE012307160_02]:     Nur bei Kreiswahlvorschlägen von Parteien.
-[^BJNR017690985BJNE012307160_03]:     Kreiswahlvorschläge von Parteien müssen von mindestens drei Mitgliedern des Vorstandes des Landesverbandes, darunter dem Vorsitzenden oder seinem Stellvertreter, oder wenn Landesverbände nicht bestehen, von den Vorständen der nächstniedrigen Gebietsverbände, in deren Bereich der Wahlkreis liegt, persönlich und handschriftlich unterzeichnet sein, oder es muss der Nachweis beigefügt werden, dass dem Landeswahlleiter eine entsprechende Vollmacht der anderen beteiligten Vorstände vorliegt.
-[^BJNR017690985BJNE012307160_04]:     Bei anderen Kreiswahlvorschlägen (§ 20 Abs. 3 des Bundeswahlgesetzes) haben drei Unterzeichner ihre Unterschriften auf dem Kreiswahl vorschlag selbst zu leisten.
-[^BJNR017690985BJNE012307160_05]:     Entfällt bei anderen Kreiswahlvorschlägen (§ 20 Abs. 3 des Bundeswahlgesetzes); stattdessen sind hier Familienname, Vornamen, Geburtsdatum und Anschrift (Hauptwohnung) der in Anmerkung 5 bezeichneten Unterzeichner des Wahlvorschlages anzugeben, damit diesen ihre Wahlrechtsbescheinigungen zugeordnet werden können.
-[^BJNR017690985BJNE012307160_06]: 
+    Bei anderen Kreiswahlvorschlägen (§ 20 Abs. 3 des Bundeswahlgesetzes) und bei Kreiswahlvorschlägen von solchen Parteien, die im Deutschen Bundestag oder in einem Landtag seit deren letzter Wahl nicht auf Grund eigener Wahlvorschläge ununterbrochen mit mindestens fünf Abgeordneten vertreten waren.
+[^BJNR017690985BJNE012307160_02_BJNR017690985BJNE012308126]:     Nur bei Kreiswahlvorschlägen von Parteien.
+[^BJNR017690985BJNE012307160_03_BJNR017690985BJNE012308126]:     Kreiswahlvorschläge von Parteien müssen von mindestens drei Mitgliedern des Vorstandes des Landesverbandes, darunter dem Vorsitzenden oder seinem Stellvertreter, oder wenn Landesverbände nicht bestehen, von den Vorständen der nächstniedrigen Gebietsverbände, in deren Bereich der Wahlkreis liegt, persönlich und handschriftlich unterzeichnet sein, oder es muss der Nachweis beigefügt werden, dass dem Landeswahlleiter eine entsprechende Vollmacht der anderen beteiligten Vorstände vorliegt.
+[^BJNR017690985BJNE012307160_04_BJNR017690985BJNE012308126]:     Bei anderen Kreiswahlvorschlägen (§ 20 Abs. 3 des Bundeswahlgesetzes) haben drei Unterzeichner ihre Unterschriften auf dem Kreiswahl vorschlag selbst zu leisten.
+[^BJNR017690985BJNE012307160_05_BJNR017690985BJNE012308126]:     Entfällt bei anderen Kreiswahlvorschlägen (§ 20 Abs. 3 des Bundeswahlgesetzes); stattdessen sind hier Familienname, Vornamen, Geburtsdatum und Anschrift (Hauptwohnung) der in Anmerkung 5 bezeichneten Unterzeichner des Wahlvorschlages anzugeben, damit diesen ihre Wahlrechtsbescheinigungen zugeordnet werden können.
+[^BJNR017690985BJNE012307160_06_BJNR017690985BJNE012308126]: 
 
 ### Anlage 14 (zu § 34 Abs. 4)
 
@@ -5832,7 +4330,7 @@ Eine Unterschrift ist nur gültig, wenn sie der Unterzeichner persönlich und ha
 
 *    *
     *   in dem ........................................................................................................................................................................................................................................................................................
-[^BJNR017690985BJNE012410377_01_BJNR017690985BJNE012411377]
+[^BJNR017690985BJNE012410377_01_BJNR017690985BJNE012412126]
         (Familienname, Vornamen, Anschrift - Hauptwohnung -)
 
     *
@@ -5867,7 +4365,7 @@ Eine Unterschrift ist nur gültig, wenn sie der Unterzeichner persönlich und ha
 
 *    *
     *   .......................................................................................................................................................................................................................................................................................................
-[^BJNR017690985BJNE012410377_02_BJNR017690985BJNE012411377]
+[^BJNR017690985BJNE012410377_02_BJNR017690985BJNE012412126]
         (Straße und Hausnummer - Hauptwohnung -)
 
     *
@@ -5879,7 +4377,7 @@ Eine Unterschrift ist nur gültig, wenn sie der Unterzeichner persönlich und ha
     *
 
 *    *
-    *[^BJNR017690985BJNE012410377_03_BJNR017690985BJNE012411377]
+    *[^BJNR017690985BJNE012410377_03_BJNR017690985BJNE012412126]
    Ich bin damit einverstanden, dass für mich eine Bescheinigung des Wahlrechts eingeholt wird.
 
     *
@@ -5939,7 +4437,7 @@ Eine Unterschrift ist nur gültig, wenn sie der Unterzeichner persönlich und ha
 
 
 *    *
-    *[^BJNR017690985BJNE012410377_04_BJNR017690985BJNE012411377]
+    *[^BJNR017690985BJNE012410377_04_BJNR017690985BJNE012412126]
    Bescheinigung des Wahlrechts
         ****
 
@@ -5982,9 +4480,9 @@ Eine Unterschrift ist nur gültig, wenn sie der Unterzeichner persönlich und ha
 
    _\_\__\_\__\_\__\_\_\_\_
 
-[^BJNR017690985BJNE012410377_05_BJNR017690985BJNE012411377]
+[^BJNR017690985BJNE012410377_05_BJNR017690985BJNE012412126]
 **Bescheinigung des Wahlrechts**
-[^BJNR017690985BJNE012410377_06_BJNR017690985BJNE012411377]
+[^BJNR017690985BJNE012410377_06_BJNR017690985BJNE012412126]
 ## 
 
 ### für die Wahl zum ....................... Deutschen Bundestag
@@ -6063,80 +4561,118 @@ _\_\__\_\__\_\__\_\_\_\_
 
 
 Rückseite
-des Formblatts für eine Unterstützungsunterschrift
-## (Kreiswahlvorschlag)
+## des Formblatts für eine Unterstützungsunterschrift (Kreiswahlvorschlag)
 
-## **Informationen zum Datenschutz**
+## Informationen zum Datenschutz
 
-Für die mit Ihrer Unterstützungsunterschrift angegebenen personenbezogenen Daten gilt:
+Die mit Ihrer Unterstützungsunterschrift angegebenen personenbezogenen Daten sind notwendig, um die Mindestzahl von Unterstützungsunterschriften für Wahlvorschläge nach § 20 Absatz 2 Bundeswahlgesetz und § 20 Absatz 3 Bundeswahlgesetz nachzuweisen. Die Verarbeitung der personenbezogenen Daten erfolgt auf der Grundlage von Artikel 6 Absatz 1 Buchstabe c und Artikel 9 Absatz 2 Buchstabe g Datenschutz-Grundverordnung (DSGVO) in Verbindung mit den §§ 19, 20, 25 und 26 Bundeswahlgesetz und den §§ 34, 35, 36 Bundeswahlordnung.
 
-1.  Die Verarbeitung der personenbezogenen Daten dient dazu, die Mindestzahl von Unterstützungsunterschriften für Wahlvorschläge nach § 20 Absatz 2 Bundeswahlgesetz und § 20 Absatz 3 Bundeswahlgesetz nachzuweisen.
+Sie sind nicht verpflichtet, Ihre personenbezogenen Daten bereitzustellen. Ihre Unterstützungsunterschrift für den Wahlvorschlag ist jedoch nur mit diesen Angaben gültig.
 
-    Die Verarbeitung der personenbezogenen Daten erfolgt auf der Grundlage von § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 6 Absatz 1 Buchstabe c und Artikel 9 Absatz 2 Buchstabe g Datenschutz-Grundverordnung in Verbindung mit den §§ 19, 20, 25 und 26 Bundeswahlgesetz und den §§ 34, 35, 36 Bundeswahlordnung.
+Verantwortlich für die Verarbeitung Ihrer Daten ist die Unterstützungsunterschriften sammelnde Partei oder der Unterstützungsunterschriften sammelnde Einzelbewerber (§ 20 Absatz 3 Bundeswahlgesetz)
 
+[^F831225_8_BJNR017690985BJNE012412126]
+(……………………………….....................................................................................................................................................................)
+.
 
-2.  Sie sind nicht verpflichtet, Ihre personenbezogenen Daten bereitzustellen.
+Die Kontaktdaten des Datenschutzbeauftragten lauten:
 
-    Ihre Unterstützungsunterschrift für den Wahlvorschlag ist jedoch nur mit diesen Angaben gültig.
+[^F831225_9_BJNR017690985BJNE012412126]
+……………………………….....................................................................................................................................................................
 
+Sofern Sie keine Bescheinigung Ihres Wahlrechts beigefügt und Ihr Einverständnis in die Einholung der Bescheinigung des Wahlrechts gegeben haben, lässt die Partei oder der Einzelbewerber Ihre Wahlberechtigung durch die Gemeindebehörden prüfen, bei der Sie mit Ihrem Hauptwohnsitz gemeldet sind. Anschließend reicht die Partei oder der Einzelbewerber die Unterstützungsunterschriften beim Kreiswahlleiter ein. Dieser übergibt sie dem Kreiswahlausschuss, der über die Zulassung des Kreisvorschlages entscheidet.
 
-3.[^f810550_01_BJNR017690985BJNE012411377]
-  Verantwortlich für die Verarbeitung der mit Ihrer Unterstützungsunterschrift angegebenen personenbezogenen Daten ist die Unterstützungsunterschriften sammelnde Partei oder der Unterstützungsunterschriften sammelnde Einzelbewerber (§ 20 Absatz 3 Bundeswahlgesetz) (……………………………………………)
-    .
+Im Falle einer Beschwerde gegen die Zurückweisung eines Kreiswahlvorschlages nach § 26 Absatz 2 Bundeswahlgesetz können Ihre Daten auch dem Landeswahlausschuss, dem Landeswahlleiter und dem Bundeswahlleiter übermittelt werden.
 
-[^f810550_02_BJNR017690985BJNE012411377]
-    Nach Einreichung der Unterstützungsunterschriften beim Kreiswahlleiter ist der Kreiswahlleiter (………………………………)
-    für die Verarbeitung der personenbezogenen Daten verantwortlich.
+Im Falle von Wahleinsprüchen können Ihre Daten auch dem Deutschen Bundestag, den sonstigen nach dem Wahlprüfungsgesetz am Verfahren Beteiligten sowie dem Bundesverfassungsgericht, in anderen Fällen auch anderen Gerichten übermittelt werden.
 
-    Verantwortlich für die Verarbeitung der personenbezogenen Daten bei der Erstellung der Wahlrechtsbescheinigung ist die Gemeindebehörde, bei der Sie mit Ihrem Hauptwohnsitz gemeldet sind.
+Dieses Formblatt wird nach Ablauf von sechs Monaten seit der Wahl vernichtet, wenn nicht der Bundeswahlleiter mit Rücksicht auf ein schwebendes Wahlprüfungsverfahren etwas anderes anordnet oder sie für die Strafverfolgungsbehörde zur Ermittlung einer Wahlstraftat von Bedeutung sein können, vgl. § 90 Absatz 2 Bundeswahlordnung.
 
+Im Zusammenhang mit der Verarbeitung Ihrer personenbezogenen Daten stehen Ihnen bestimmte Rechte nach Maßgabe der DSGVO zu. Sie haben gemäß Artikel 15 DSGVO das Recht auf Auskunft über die zu Ihrer Person gespeicherten Daten. Ein Recht auf Berichtigung steht Ihnen gemäß Artikel 16 DSGVO zu, sofern Ihre verarbeiteten personenbezogenen Daten unrichtig sind. Liegen die gesetzlichen Voraussetzungen vor, können Sie gemäß Artikel 17 DSGVO die Löschung Ihrer Daten oder gemäß Artikel 18 DSGVO die Einschränkung der Datenverarbeitung verlangen. Unter den Voraussetzungen des Artikels 21 DSGVO können Sie Widerspruch gegen die Datenverarbeitung einlegen.
 
-4.  Empfänger der personenbezogenen Daten ist der Kreiswahlausschuss (Postanschrift: c/o Kreiswahlleiter, siehe oben Nummer 3).
+Liegt aus Ihrer Sicht ein Verstoß gegen datenschutzrechtliche Vorschriften vor, haben Sie zudem das Recht, sich bei einer Datenschutzaufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch die Partei oder den Einzelbewerber zu beschweren.
 
-    Im Falle einer Beschwerde gegen die Zurückweisung eines Kreiswahlvorschlages nach § 26 Absatz 2 Bundeswahlgesetz können auch der Landeswahlausschuss, der Landeswahlleiter und der Bundeswahlleiter Empfänger der personenbezogenen Daten sein.
+**
 
-    Im Falle von Wahleinsprüchen können auch der Deutsche Bundestag, die sonstigen nach dem Wahlprüfungsgesetz am Verfahren Beteiligten sowie das Bundesverfassungsgericht, in anderen Fällen auch andere Gerichte Empfänger der personenbezogenen Daten sein.
-
-
-5.  Die Frist für die Speicherung der personenbezogenen Daten richtet sich nach § 90 Absatz 2 Bundeswahlordnung: Formblätter mit Unterstützungsunterschriften für Wahlvorschläge sind nach Ablauf von sechs Monaten seit der Wahl zu vernichten, wenn nicht der Bundeswahlleiter mit Rücksicht auf ein schwebendes Wahlprüfungsverfahren etwas anderes anordnet oder sie für die Strafverfolgungsbehörde zur Ermittlung einer Wahlstraftat von Bedeutung sein können.
-
-
-6.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 15 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen über die Verarbeitung Ihrer personenbezogenen Daten Auskunft verlangen.
+[^F831225_10_BJNR017690985BJNE012412126]
+Bescheinigung des Wahlrechts
+[^F831225_11_BJNR017690985BJNE012412126]
+## **für die Wahl zum ………………………… Deutschen Bundestag**
 
 
-7.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 16 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen die Berichtigung Ihrer personenbezogenen Daten verlangen. Dadurch wird Ihre Unterstützungsunterschrift nicht zurückgenommen.
+*    *   Herr/Frau
+
+    *
+
+*    *   Familienname: ......................................................................................................................................................................................................................................................................
 
 
-8.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 17 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen die unverzügliche Löschung Ihrer personenbezogenen Daten verlangen, soweit Ihre personenbezogenen Daten für die Zwecke, für die sie verarbeitet wurden nicht mehr notwendig sind und die Speicherfrist abgelaufen ist, Ihre personenbezogenen Daten unrechtmäßig verarbeitet wurden oder der Verantwortliche zur Löschung verpflichtet ist. Dadurch wird Ihre Unterstützungsunterschrift nicht zurückgenommen.
+*    *   Vornamen: .............................................................................................................................................................................................................................................................................
 
 
-9.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 18 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen statt der Löschung die Einschränkung der Verarbeitung verlangen, soweit Ihre personenbezogenen Daten für die Zwecke, für die sie verarbeitet wurden nicht mehr notwendig sind oder Ihre personenbezogenen Daten unrechtmäßig verarbeitet wurden. Sie können die Einschränkung der Verarbeitung auch dann verlangen, wenn Sie der Auffassung sind, dass Ihre personenbezogenen Daten unrichtig sind. Durch einen Antrag auf Einschränkung der Verarbeitung wird Ihre Unterstützungsunterschrift nicht zurückgenommen.
+*    *   Geburtsdatum: ......................................................................................................................................................................................................................................................................
 
 
-10. Beschwerden können Sie an den zuständigen Landesdatenschutzbeauftragten und gegebenenfalls an den Datenschutzbeauftragten des jeweils für die Datenverarbeitung Verantwortlichen (siehe oben Nummer 3) oder an den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit (Postanschrift: Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit, Postfach 1468, 53004 Bonn; E-Mail: poststelle@bfdi.bund.de) richten.
+*    *   Anschrift (Hauptwohnung)
+
+    *
+
+*    *   Straße, Hausnummer: ..........................................................................................................................................................................................................................................................
 
 
-11. Sie können diese Informationen auch auf der Homepage des Bundeswahlleiters unter www.bundeswahlleiter.de ansehen.
+*    *   Postleitzahl, Wohnort: ..........................................................................................................................................................................................................................................................
+
+
+*    *
+    *
+    *
+
+*    *   ist Deutsche(r) im Sinne des Artikels 116 Absatz 1 des Grundgesetzes.
+        Er/Sie erfüllt die sonstigen Wahlrechtsvoraussetzungen des § 12 des Bundeswahlgesetzes, ist nicht nach § 13 des Bundeswahlgesetzes vom Wahlrecht ausgeschlossen und
+
+
+*    *   ist im Wahlkreis ...............................................................................................................................................................................................................................................................................
+        (Nummer und Name)
+
+
+*    *   wahlberechtigt.
+
+    *
+
+*    *
+    *   (Dienstsiegel)
+
+    *   ...................................................., den ................................................
+
+
+*    *
+    *   Die Gemeindebehörde
+
+
+*    *
+    *   ............................................................................................................
 
 
 
 
     Wird bei der Anforderung des amtlichen Formblatts der Nachweis erbracht, dass für den Bewerber im Melderegister eine Auskunftssperre gemäß § 51 Absatz 1 des Bundesmeldegesetzes eingetragen ist, wird anstelle seiner Anschrift (Hauptwohnung) eine Erreichbarkeitsanschrift verwendet; die Angabe eines Postfachs genügt nicht.
-[^BJNR017690985BJNE012410377_01_BJNR017690985BJNE012411377]:     Bei außerhalb der Bundesrepublik Deutschland lebenden Wahlberechtigten ist der Nachweis für die Wahlberechtigung durch die Angaben gemäß Anlage 2 und Abgabe einer Versicherung an Eides statt zu erbringen.
-[^BJNR017690985BJNE012410377_02_BJNR017690985BJNE012411377]:     Wenn der Unterzeichner die Bescheinigung seines Wahlrechts selbst einholen will, streichen.
-[^BJNR017690985BJNE012410377_03_BJNR017690985BJNE012411377]:     Die Gemeindebehörde darf das Wahlrecht nur einmal für einen Kreiswahlvorschlag und eine Landesliste bescheinigen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners muss im Zeitpunkt der Unterzeichnung gegeben sein.
-[^BJNR017690985BJNE012410377_04_BJNR017690985BJNE012411377]:     Muster für den Fall einer gesonderten Erteilung der Wahlrechtsbescheinigung nach § 34 Abs. 4 Nr. 3 der Bundeswahlordnung.
-[^BJNR017690985BJNE012410377_05_BJNR017690985BJNE012411377]:     Die Gemeindebehörde darf das Wahlrecht nur einmal für einen Kreiswahlvorschlag und eine Landesliste bescheinigen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners muss im Zeitpunkt der Unterzeichnung gegeben sein.
-[^BJNR017690985BJNE012410377_06_BJNR017690985BJNE012411377]:     Name und Kontaktdaten sind von der Partei oder dem Einzelbewerber (§ 20 Absatz 3 Bundeswahlgesetz) einzutragen.
-[^f810550_01_BJNR017690985BJNE012411377]:     Kreiswahlleiter, Dienststelle und Kontaktdaten des Kreiswahlleiters sind vom Kreiswahlleiter einzutragen.
-[^f810550_02_BJNR017690985BJNE012411377]: 
+[^BJNR017690985BJNE012410377_01_BJNR017690985BJNE012412126]:     Bei außerhalb der Bundesrepublik Deutschland lebenden Wahlberechtigten ist der Nachweis für die Wahlberechtigung durch die Angaben gemäß Anlage 2 und Abgabe einer Versicherung an Eides statt zu erbringen.
+[^BJNR017690985BJNE012410377_02_BJNR017690985BJNE012412126]:     Wenn der Unterzeichner die Bescheinigung seines Wahlrechts selbst einholen will, streichen.
+[^BJNR017690985BJNE012410377_03_BJNR017690985BJNE012412126]:     Die Gemeindebehörde darf das Wahlrecht nur einmal für einen Kreiswahlvorschlag und eine Landesliste bescheinigen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners muss im Zeitpunkt der Unterzeichnung gegeben sein.
+[^BJNR017690985BJNE012410377_04_BJNR017690985BJNE012412126]:     Muster für den Fall einer gesonderten Erteilung der Wahlrechtsbescheinigung nach § 34 Abs. 4 Nr. 3 der Bundeswahlordnung.
+[^BJNR017690985BJNE012410377_05_BJNR017690985BJNE012412126]:     Die Gemeindebehörde darf das Wahlrecht nur einmal für einen Kreiswahlvorschlag und eine Landesliste bescheinigen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners muss im Zeitpunkt der Unterzeichnung gegeben sein.
+[^BJNR017690985BJNE012410377_06_BJNR017690985BJNE012412126]:     Name und Kontaktdaten sind von der Partei oder dem Einzelbewerber (§ 20 Absatz 3 Bundeswahlgesetz) einzutragen.
+[^F831225_8_BJNR017690985BJNE012412126]:     Der Verantwortliche hat die Kontaktdaten nur anzugeben, wenn ein Datenschutzbeauftragter benannt wurde.
+[^F831225_9_BJNR017690985BJNE012412126]:     Muster für den Fall einer gesonderten Erteilung der Wahlrechtsbescheinigung nach § 34 Absatz 4 Nummer 3 der Bundeswahlordnung.
+[^F831225_10_BJNR017690985BJNE012412126]:     Die Gemeindebehörde darf das Wahlrecht nur einmal für einen Kreiswahlvorschlag und eine Landesliste bescheinigen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners muss im Zeitpunkt der Unterzeichnung gegeben sein.
+[^F831225_11_BJNR017690985BJNE012412126]: 
 
 ### Anlage 15 (zu § 34 Abs. 5 Nr. 1 und 3 Buchstabe b)
 
 (Fundstelle: BGBl. I 2008, 480);
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-[^BJNR017690985BJNE012504160_01_BJNR017690985BJNE012505377]
+[^BJNR017690985BJNE012504160_01_BJNR017690985BJNE012506126]
 **Zustimmungserklärung für Bewerber eines Kreiswahlvorschlages**
 ## 
 
@@ -6205,7 +4741,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (Name der Partei und ihre Kurzbezeichnung)
 
 
-*    *[^BJNR017690985BJNE012504160_02_BJNR017690985BJNE012505377]
+*    *[^BJNR017690985BJNE012504160_02_BJNR017690985BJNE012506126]
    im Land ...................................................................................................................................................................................................................................................... zugestimmt.
         (Name des Landes)
 
@@ -6230,7 +4766,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
-*    *[^BJNR017690985BJNE012504160_03_BJNR017690985BJNE012505377]
+*    *[^BJNR017690985BJNE012504160_03_BJNR017690985BJNE012506126]
    Ich versichere gegenüber dem Kreiswahlleiter an Eides statt, dass ich nicht Mitglied einer anderen als der den Wahlvorschlag einreichenden Partei bin.
 
 
@@ -6253,69 +4789,54 @@ Rückseite
 der Zustimmungserklärung für Bewerber eines Kreiswahlvorschlages
 ## 
 
-## **Informationen zum Datenschutz**
+## Informationen zum Datenschutz
 
-Für die mit Ihrer Zustimmungserklärung angegebenen personenbezogenen Daten gilt:
+Die mit Ihrer Zustimmungserklärung angegebenen personenbezogenen Daten sind notwendig, um Ihre Zustimmung zur Benennung als Bewerber eines Kreiswahlvorschlages nach § 20 Absatz 1 Bundeswahlgesetz nachzuweisen. Die Verarbeitung der personenbezogenen Daten erfolgt auf der Grundlage von Artikel 6 Absatz 1 Buchstabe c und Artikel 9 Absatz 2 Buchstabe g Datenschutz-Grundverordnung (DSGVO) in Verbindung mit den §§ 19, 20, 25 und 26 Bundeswahlgesetz und den §§ 34, 35, 36 Bundeswahlordnung.
 
-1.  Die Verarbeitung der personenbezogenen Daten dient dazu, Ihre Zustimmung zur Benennung als Bewerber nach § 20 Absatz 1 Bundeswahlgesetz nachzuweisen.
+Sie sind nicht verpflichtet, Ihre personenbezogenen Daten bereitzustellen. Die Zustimmungserklärung ist aber nur mit diesen Angaben gültig.
 
-    Die Verarbeitung der personenbezogenen Daten erfolgt auf der Grundlage von § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 6 Absatz 1 Buchstabe c und Artikel 9 Absatz 2 Buchstabe g Datenschutz-Grundverordnung in Verbindung mit den §§ 19, 20, 25 und 26 Bundeswahlgesetz und den §§ 34, 35, 36 Bundeswahlordnung.
+Verantwortlich für die Verarbeitung der mit Ihrer Zustimmungserklärung angegebenen personenbezogenen Daten ist, außer bei anderen Kreiswahlvorschlägen im Sinne des § 20 Absatz 3 Bundeswahlgesetz, die den Wahlvorschlag einreichende Partei
 
-    Ihre personenbezogenen Daten werden auch für die öffentliche Bekanntmachung der vom Kreiswahlausschuss zugelassenen Kreiswahlvorschläge nach § 26 Absatz 3 Bundeswahlgesetz in Verbindung mit § 38 Bundeswahlordnung und für die Erstellung der Stimmzettel nach § 30 Bundeswahlgesetz in Verbindung mit § 45 Bundeswahlordnung verarbeitet.
+[^F831225_15_BJNR017690985BJNE012506126]
+(.......................................................................................................................................................................................................................................)
+.
 
+Die Partei reicht Ihre Zustimmungserklärung beim Kreiswahlleiter ein. Dieser übergibt sie dem Kreiswahlausschuss, der über die Zulassung des Kreiswahlvorschlages entscheidet.
 
-2.  Sie sind nicht verpflichtet, Ihre personenbezogenen Daten bereitzustellen.
+Soweit Sie Ihre Zustimmung zur Benennung als Bewerber eines anderen Kreiswahlvorschlages im Sinne des § 20 Absatz 3 Bundeswahlgesetz – also als Einzelbewerber – erteilt haben, ist der Kreiswahlleiter
 
-    Die Zustimmungserklärung ist aber nur mit diesen Angaben gültig.
+[^F831225_16_BJNR017690985BJNE012506126]
+(.......................................................................................................................................................................................................................................)
+verantwortlich
 
+[^F831225_17_BJNR017690985BJNE012506126]
+für die Verarbeitung der mit Ihrer Zustimmungserklärung angegebenen personenbezogenen Daten. Dieser übergibt sie dem Kreiswahlausschuss, der über die Zulassung des Kreiswahlvorschlages entscheidet.
 
-3.[^f810550_03_BJNR017690985BJNE012505377]
-  Verantwortlich für die Verarbeitung der mit Ihrer Zustimmungserklärung angegebenen personenbezogenen Daten ist, außer bei anderen Kreiswahlvorschlägen im Sinne des § 20 Absatz 3 Bundeswahlgesetz, die den Wahlvorschlag einreichende Partei (………………………………………)
-    .
+Im Falle einer Beschwerde gegen die Zurückweisung eines Kreiswahlvorschlages nach § 26 Absatz 2 Bundeswahlgesetz können Ihre Daten auch dem Landeswahlausschuss, dem Landeswahlleiter und dem Bundeswahlleiter übermittelt werden.
 
-[^f810550_04_BJNR017690985BJNE012505377]
-    Nach Einreichung des Kreiswahlvorschlags beim Kreiswahlleiter ist der Kreiswahlleiter (………………………………………)
-    für die Verarbeitung der personenbezogenen Daten verantwortlich.
+Die Kontaktdaten des Datenschutzbeauftragten lauten:
 
+[^F831225_18_BJNR017690985BJNE012506126]
+.......................................................................................................................................................................................................................................
 
-4.  Empfänger der personenbezogenen Daten sind der Kreiswahlausschuss (Postanschrift: c/o Kreiswahlleiter, siehe oben Nummer 3), der zuständige Landeswahlleiter und der Bundeswahlleiter.
+Im Falle von Wahleinsprüchen können Ihre Daten auch dem Deutschen Bundestag, den sonstigen nach Wahlprüfungsgesetz am Verfahren Beteiligten sowie dem Bundesverfassungsgericht, in anderen Fällen auch anderen Gerichten übermittelt werden.
 
-    Im Falle einer Beschwerde gegen die Zurückweisung eines Kreiswahlvorschlages nach § 26 Absatz 2 Bundeswahlgesetz kann auch der Landeswahlausschuss Empfänger der personenbezogenen Daten sein.
+Sofern der Kreiswahlvorschlag vom Kreiswahlausschuss zugelassen wird, werden Ihre Daten nach § 26 Absatz 3 Bundeswahlgesetz in Verbindung mit § 36 Bundeswahlordnung und durch die Erstellung der Stimmzettel nach § 30 Bundeswahlgesetz in Verbindung mit § 45 Bundeswahlordnung öffentlich bekannt gemacht und können zusätzlich im Internet veröffentlicht werden (§ 86 Bundeswahlordnung).
 
-    Im Falle von Wahleinsprüchen können auch der Deutsche Bundestag, die sonstigen nach dem Wahlprüfungsgesetz am Verfahren Beteiligten sowie das Bundesverfassungsgericht, in anderen Fällen auch andere Gerichte Empfänger der personenbezogenen Daten sein.
+Diese Zustimmungserklärung kann 60 Tage vor der Wahl des neuen Deutschen Bundestages vernichtet werden. Der Landeswahlleiter kann zulassen, dass die Unterlagen früher vernichtet werden, soweit sie nicht für ein schwebendes Wahlprüfungsverfahren oder für die Strafverfolgungsbehörde zur Ermittlung einer Wahlstraftat von Bedeutung sein können, vgl. § 90 Absatz 3 Bundeswahlordnung.
 
-    Die personenbezogenen Daten in den vom Kreiswahlausschuss zugelassenen Kreiswahlvorschlägen werden öffentlich bekannt gemacht und können zusätzlich im Internet veröffentlicht werden (§ 86 Bundeswahlordnung).
+Im Zusammenhang mit der Verarbeitung Ihrer personenbezogenen Daten stehen Ihnen bestimmte Rechte nach Maßgabe der DSGVO zu. Sie haben gemäß Artikel 15 DSGVO das Recht auf Auskunft über die zu Ihrer Person gespeicherten Daten. Ein Recht auf Berichtigung steht Ihnen gemäß 16 DSGVO zu, sofern Ihre verarbeiteten personenbezogenen Daten unrichtig sind. Nach Ablauf der Frist für die Einreichung der Wahlvorschläge bis zum Ablauf des Wahltages können Sie als Einzelbewerber die Berichtigung Ihrer personenbezogenen Daten nur unter den Voraussetzungen des § 25 Bundeswahlgesetz verlangen. Liegen die gesetzlichen Voraussetzungen vor, können Sie gemäß Artikel 17 DSGVO die Löschung Ihrer Daten oder gemäß Artikel 18 DSGVO die Einschränkung der Datenverarbeitung verlangen. Nach Ablauf der Frist für die Einreichung der Wahlvorschläge bis zum Ablauf des Wahltages können Sie als Einzelbewerber die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten nur unter den Voraussetzungen des § 25 Bundeswahlgesetz verlangen. Unter den Voraussetzungen des Artikels 21 DSGVO können Sie Widerspruch gegen die Datenverarbeitung einlegen.
 
-
-5.  Die Frist für die Speicherung der personenbezogenen Daten richtet sich nach § 90 Absatz 3 Bundeswahlordnung: Wahlunterlagen können 60 Tage vor der Wahl des neuen Deutschen Bundestages vernichtet werden. Der Landeswahlleiter kann zulassen, dass die Unterlagen früher vernichtet werden, soweit sie nicht für ein schwebendes Wahlprüfungsverfahren oder für die Strafverfolgungsbehörde zur Ermittlung einer Wahlstraftat von Bedeutung sein können.
-
-
-6.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 15 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen über die Verarbeitung Ihrer personenbezogenen Daten Auskunft verlangen.
-
-
-7.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 16 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen die Berichtigung Ihrer personenbezogenen Daten verlangen. Dadurch wird Ihre Zustimmung zur Benennung als Bewerber nicht zurückgenommen. Nach Ablauf der Frist für die Einreichung der Wahlvorschläge bis zum Ablauf des Wahltages können Sie die Berichtigung Ihrer personenbezogenen Daten nur unter den Voraussetzungen des § 25 Bundeswahlgesetz verlangen.
-
-
-8.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 17 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen die unverzügliche Löschung Ihrer personenbezogenen Daten verlangen, soweit Ihre personenbezogenen Daten für die Zwecke, für die sie verarbeitet wurden nicht mehr notwendig sind und die Speicherfrist abgelaufen ist, Ihre personenbezogenen Daten unrechtmäßig verarbeitet wurden oder der Verantwortliche zur Löschung verpflichtet ist. Dadurch wird Ihre Zustimmung zur Benennung als Bewerber nicht zurückgenommen.
-
-
-9.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 18 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen statt der Löschung die Einschränkung der Verarbeitung verlangen, soweit Ihre personenbezogenen Daten für die Zwecke, für die sie verarbeitet wurden nicht mehr notwendig sind oder Ihre personenbezogenen Daten unrechtmäßig verarbeitet wurden. Sie können die Einschränkung der Verarbeitung auch dann verlangen, wenn Sie der Auffassung sind, dass Ihre personenbezogenen Daten unrichtig sind. Nach Ablauf der Frist für die Einreichung der Wahlvorschläge bis zum Ablauf des Wahltages können Sie die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten nur unter den Voraussetzungen des § 25 Bundeswahlgesetz verlangen. Durch einen Antrag auf Einschränkung der Verarbeitung wird Ihre Zustimmung zur Benennung als Bewerber nicht zurückgenommen.
-
-
-10. Beschwerden können Sie an den zuständigen Landesdatenschutzbeauftragten und gegebenenfalls an den Datenschutzbeauftragten des jeweils für die Datenverarbeitung Verantwortlichen (siehe oben Nummer 3) oder an den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit (Postanschrift: Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit, Postfach 1468, 53004 Bonn; E-Mail: poststelle@bfdi.bund.de) richten.
-
-
-11. Sie können diese Informationen auch auf der Homepage des Bundeswahlleiters unter www.bundeswahlleiter.de ansehen.
-
-
-
+Liegt aus Ihrer Sicht ein Verstoß gegen datenschutzrechtliche Vorschriften vor, haben Sie zudem das Recht, sich bei einer Datenschutzaufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch die Partei oder den Kreiswahlleiter zu beschweren.
 
     Vollständig und in Maschinen- oder Druckschrift ausfüllen.
-[^BJNR017690985BJNE012504160_01_BJNR017690985BJNE012505377]:     Nichtzutreffendes streichen.
-[^BJNR017690985BJNE012504160_02_BJNR017690985BJNE012505377]:     Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.
-[^BJNR017690985BJNE012504160_03_BJNR017690985BJNE012505377]:     Name und Kontaktdaten sind von der Partei einzutragen.
-[^f810550_03_BJNR017690985BJNE012505377]:     Kreiswahlleiter, Dienststelle und Kontaktdaten des Kreiswahlleiters sind vom Kreiswahlleiter einzutragen.
-[^f810550_04_BJNR017690985BJNE012505377]: 
+[^BJNR017690985BJNE012504160_01_BJNR017690985BJNE012506126]:     Nichtzutreffendes streichen.
+[^BJNR017690985BJNE012504160_02_BJNR017690985BJNE012506126]:     Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.
+[^BJNR017690985BJNE012504160_03_BJNR017690985BJNE012506126]:     Name und Kontaktdaten sind von der Partei einzutragen.
+[^F831225_15_BJNR017690985BJNE012506126]:     Kreiswahlleiter, Dienststelle und Kontaktdaten des Kreiswahlleiters sind vom Kreiswahlleiter einzutragen.
+[^F831225_16_BJNR017690985BJNE012506126]:     Nichtzutreffendes streichen.
+[^F831225_17_BJNR017690985BJNE012506126]:     Der Verantwortliche hat die Kontaktdaten nur anzugeben, wenn ein Datenschutzbeauftragter benannt wurde.
+[^F831225_18_BJNR017690985BJNE012506126]: 
 
 ### Anlage 16 (zu § 34 Abs. 5 Nr. 2 und § 39 Abs. 4 Nr. 2)
 
@@ -6383,7 +4904,7 @@ für die Wahl zum Deutschen Bundestag
 *    *
     *
 
-*    *[^BJNR017690985BJNE012607160_01_BJNR017690985BJNE012608377]
+*    *[^BJNR017690985BJNE012607160_01_BJNR017690985BJNE012609126]
    Ich bin damit einverstanden, dass für mich eine Bescheinigung der Wählbarkeit eingeholt wird.
 
 
@@ -6405,73 +4926,48 @@ für die Wahl zum Deutschen Bundestag
 
 
 Rückseite
-der Bescheinigung der Wählbarkeit für die
-## Wahl zum Deutschen Bundestag
+## der Bescheinigung der Wählbarkeit für die Wahl zum Deutschen Bundestag
 
-## **Informationen zum Datenschutz**
+## Informationen zum Datenschutz
 
-Für die in Ihren Angaben auf der Vorderseite enthaltenen personenbezogenen Daten gilt:
+Ihre Angaben auf der Vorderseite sind notwendig, um Ihre Wählbarkeit nach § 15 Bundeswahlgesetz nachzuweisen. Die Verarbeitung der personenbezogenen Daten erfolgt bei einem Bewerber eines Kreiswahlvorschlages auf der Grundlage von Artikel 6 Absatz 1 Buchstabe c und Artikel 9 Absatz 2 Buchstabe g Datenschutz-Grundverordnung (DSGVO) in Verbindung mit den §§ 15, 19, 20, 25 und 26 Bundeswahlgesetz und den §§ 34, 35, 36 Bundeswahlordnung, bei einem Bewerber einer Landesliste auf der Grundlage von Artikel 6 Absatz 1 Buchstabe c und Artikel 9 Absatz 2 Buchstabe g DSGVO in Verbindung mit den §§ 15, 19, 25, 27 und 28 Bundeswahlgesetz und den §§ 39, 40, 41 Bundeswahlordnung.
 
-1.  Die Verarbeitung der personenbezogenen Daten dient dazu, Ihre Wählbarkeit nach § 15 Bundeswahlgesetz nachzuweisen.
+Sie sind nicht verpflichtet, Ihre personenbezogenen Daten bereitzustellen. Die Wählbarkeitsbescheinigung ist jedoch nur mit diesen Angaben gültig.
 
-[^f810550_05_BJNR017690985BJNE012608377]
-    Die Verarbeitung der personenbezogenen Daten erfolgt bei einem Bewerber eines Kreiswahlvorschlages auf der Grundlage von § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 6 Absatz 1 Buchstabe c und Artikel 9 Absatz 2 Buchstabe g Datenschutz-Grundverordnung in Verbindung mit den §§ 15, 19, 20, 25 und 26 Bundeswahlgesetz und den §§ 34, 35, 36 Bundeswahlordnung, bei einem Bewerber einer Landesliste auf der Grundlage von § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 6 Absatz 1 Buchstabe c und Artikel 9 Absatz 2 Buchstabe g Datenschutz-Grundverordnung in Verbindung mit den §§ 15, 19, 25, 27 und 28 Bundeswahlgesetz und den §§ 39, 40, 41 Bundeswahlordnung.
+Verantwortlich für die Verarbeitung der personenbezogenen Daten auf der Vorderseite ist die Gemeindebehörde, bei der Sie mit Ihrem Hauptwohnsitz gemeldet sind. Anschließend übergeben Sie Ihre Daten der Partei, als deren Bewerber Sie benannt werden.
 
+Holt eine Partei auf Grundlage Ihres Einverständnisses die Bescheinigung Ihrer Wählbarkeit ein, ist die die Wählbarkeitsbescheinigung einholende Partei
 
-2.  Sie sind nicht verpflichtet, Ihre personenbezogenen Daten bereitzustellen.
+[^F831225_20_BJNR017690985BJNE012609126]
+(......................................................................................................................................................................................................)
 
-    Die Wählbarkeitsbescheinigung ist jedoch nur mit diesen Angaben gültig.
+verantwortlich für die Verarbeitung der personenbezogenen Daten.
 
+Die Kontaktdaten des Datenschutzbeauftragten lauten:
 
-3.  Verantwortlich für die Verarbeitung der personenbezogenen Daten auf der Vorderseite sind die Gemeindebehörde, bei der Sie mit Ihrem Hauptwohnsitz gemeldet sind, und, außer bei anderen Kreiswahlvorschlägen im Sinne des § 20 Absatz 3 Bundeswahlgesetz
-[^f810550_06_BJNR017690985BJNE012608377]
-    , die die Wählbarkeitsbescheinigung einreichende Partei (………………………………………)
-    .
+[^F831225_21_BJNR017690985BJNE012609126]
+......................................................................................................................................................................................................
 
-    Nach Einreichung der Wählbarkeitsbescheinigung beim Kreiswahlleiter beziehungsweise Landeswahlleiter
-    ist der Kreiswahlleiter beziehungsweise der Landeswahlleiter
-[^f810550_07_BJNR017690985BJNE012608377]
-    (………………………………………)
-    verantwortlich.
+Bei Kreiswahlvorschlägen übermittelt die Partei Ihre Daten anschließend dem Kreiswahlleiter. Dieser übergibt sie dem Kreiswahlausschuss, der über die Zulassung des Kreiswahlvorschlages entscheidet.
 
+Werden Sie als Bewerber einer Landesliste benannt, übermittelt die Partei Ihre Daten anschließend dem Landeswahlleiter. Dieser übergibt sie dem Landeswahlausschuss, der über die Zulassung der Landesliste entscheidet.
 
-4.  Empfänger der personenbezogenen Daten ist bei einem Bewerber eines Kreiswahlvorschlages der Kreiswahlausschuss (Postanschrift: c/o Kreiswahlleiter, siehe oben Nummer 3), bei einem Bewerber einer Landesliste der Landeswahlausschuss (Postanschrift: c/o Landeswahlleiter, siehe oben Nummer 3).
+Im Falle einer Beschwerde gegen die Zurückweisung eines Kreiswahlvorschlages nach § 26 Absatz 2 Bundeswahlgesetz können Ihre Daten auch dem Landeswahlausschuss, dem Landeswahlleiter und dem Bundeswahlleiter, im Falle einer Beschwerde gegen die Zurückweisung einer Landesliste nach § 28 Absatz 2 Bundeswahlgesetz dem Bundeswahlausschuss und dem Bundeswahlleiter übermittelt werden.
 
-    Im Falle einer Beschwerde gegen die Zurückweisung eines Kreiswahlvorschlages nach § 26 Absatz 2 Bundeswahlgesetz können auch der Landeswahlausschuss, der Landeswahlleiter und der Bundeswahlleiter, im Falle einer Beschwerde gegen die Zurückweisung einer Landesliste nach § 28 Absatz 2 Bundeswahlgesetz der Bundeswahlausschuss und der Bundeswahlleiter Empfänger der personenbezogenen Daten sein.
+Im Falle von Wahleinsprüchen können Ihre Daten auch dem Deutschen Bundestag, den sonstigen nach dem Wahlprüfungsgesetz am Verfahren Beteiligten sowie dem Bundesverfassungsgericht, in anderen Fällen auch anderen Gerichten übermittelt werden.
 
-    Im Falle von Wahleinsprüchen können auch der Deutsche Bundestag, die sonstigen nach dem Wahlprüfungsgesetz am Verfahren Beteiligten sowie das Bundesverfassungsgericht, in anderen Fällen auch andere Gerichte Empfänger der personenbezogenen Daten sein.
+Diese Bescheinigung kann 60 Tage vor der Wahl des neuen Deutschen Bundestages vernichtet werden. Der Landeswahlleiter kann zulassen, dass die Unterlagen früher vernichtet werden, soweit sie nicht für ein schwebendes Wahlprüfungsverfahren oder für die Strafverfolgungsbehörde zur Ermittlung einer Wahlstraftat von Bedeutung sein können, vgl. § 90 Absatz 3 Bundeswahlordnung.
 
+Im Zusammenhang mit der Verarbeitung Ihrer personenbezogenen Daten stehen Ihnen bestimmte Rechte nach Maßgabe der DSGVO zu. Sie haben gemäß Artikel 15 DSGVO das Recht auf Auskunft über die zu Ihrer Person gespeicherten Daten. Ein Recht auf Berichtigung steht Ihnen gemäß Artikel 16 DSGVO zu, sofern Ihre verarbeiteten personenbezogenen Daten unrichtig sind. Liegen die gesetzlichen Voraussetzungen vor, können Sie gemäß Artikel 17 DSGVO die Löschung Ihrer Daten oder gemäß Artikel 18 DSGVO die Einschränkung der Datenverarbeitung verlangen. Unter den Voraussetzungen des Artikels 21 DSGVO können Sie Widerspruch gegen die Datenverarbeitung einlegen.
 
-5.  Die Frist für die Speicherung der personenbezogenen Daten richtet sich nach § 90 Absatz 3 Bundeswahlordnung: Wahlunterlagen können 60 Tage vor der Wahl des neuen Deutschen Bundestages vernichtet werden. Der Landeswahlleiter kann zulassen, dass die Unterlagen früher vernichtet werden, soweit sie nicht für ein schwebendes Wahlprüfungsverfahren oder für die Strafverfolgungsbehörde zur Ermittlung einer Wahlstraftat von Bedeutung sein können.
-
-
-6.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 15 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen über die Verarbeitung Ihrer personenbezogenen Daten Auskunft verlangen.
-
-
-7.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 16 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen die Berichtigung Ihrer personenbezogenen Daten verlangen. Dadurch wird die ausgestellte Wählbarkeitsbescheinigung nicht ungültig. Nach Ablauf der Frist für die Einreichung der Wahlvorschläge bis zum Ablauf des Wahltages können Sie die Berichtigung Ihrer personenbezogenen Daten nur unter den Voraussetzungen des § 25 Bundeswahlgesetz beziehungsweise des § 27 Absatz 5 Bundeswahlgesetz in Verbindung mit § 25 Bundeswahlgesetz verlangen.
-
-
-8.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 17 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen die unverzügliche Löschung Ihrer personenbezogenen Daten verlangen, soweit Ihre personenbezogenen Daten für die Zwecke, für die sie verarbeitet wurden nicht mehr notwendig sind und die Speicherfrist abgelaufen ist, Ihre personenbezogenen Daten unrechtmäßig verarbeitet wurden oder der Verantwortliche zur Löschung verpflichtet ist. Dadurch wird die ausgestellte Wählbarkeitsbescheinigung nicht ungültig.
-
-
-9.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 18 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen statt der Löschung die Einschränkung der Verarbeitung verlangen, soweit Ihre personenbezogenen Daten für die Zwecke, für die sie verarbeitet wurden nicht mehr notwendig sind oder Ihre personenbezogenen Daten unrechtmäßig verarbeitet wurden. Sie können die Einschränkung der Verarbeitung auch dann verlangen, wenn Sie der Auffassung sind, dass Ihre personenbezogenen Daten unrichtig sind. Nach Ablauf der Frist für die Einreichung der Wahlvorschläge bis zum Ablauf des Wahltages können Sie die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten nur unter den Voraussetzungen des § 25 Bundeswahlgesetz beziehungsweise des § 27 Absatz 5 Bundeswahlgesetz in Verbindung mit § 25 Bundeswahlgesetz verlangen. Durch einen Antrag auf Einschränkung der Verarbeitung wird die ausgestellte Wählbarkeitsbescheinigung nicht ungültig.
-
-
-10. Beschwerden können Sie an den zuständigen Landesdatenschutzbeauftragten und gegebenenfalls an den Datenschutzbeauftragten des jeweils für die Datenverarbeitung Verantwortlichen (siehe oben Nummer 3) oder an den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit (Postanschrift: Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit, Postfach 1468, 53004 Bonn; E-Mail: poststelle@bfdi.bund.de) richten.
-
-
-11. Sie können diese Informationen auch auf der Homepage des Bundeswahlleiters unter www.bundeswahlleiter.de ansehen.
-
-
-
+Liegt aus Ihrer Sicht ein Verstoß gegen datenschutzrechtliche Vorschriften vor, haben Sie zudem das Recht, sich bei der Datenschutzaufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch die Partei oder die Gemeindebehörde zu beschweren.
 
 _\_\__\_\__\_\__\_\__
 
     Wenn der Bewerber die Bescheinigung seiner Wählbarkeit selbst einholt, streichen.
-[^BJNR017690985BJNE012607160_01_BJNR017690985BJNE012608377]:     Nichtzutreffendes streichen.
-[^f810550_05_BJNR017690985BJNE012608377]:     Name und Kontaktdaten sind von der Partei einzutragen.
-[^f810550_06_BJNR017690985BJNE012608377]:     Kreis- bzw. Landeswahlleiter, Dienststelle und Kontaktdaten sind einzutragen.
-[^f810550_07_BJNR017690985BJNE012608377]: 
+[^BJNR017690985BJNE012607160_01_BJNR017690985BJNE012609126]:     Name und Kontaktdaten sind von der Partei einzutragen.
+[^F831225_20_BJNR017690985BJNE012609126]:     Der Verantwortliche hat die Kontaktdaten nur anzugeben, wenn ein Datenschutzbeauftragter benannt wurde.
+[^F831225_21_BJNR017690985BJNE012609126]: 
 
 ### Anlage 17 (zu § 34 Abs. 5 Nr. 3 Buchstabe a)
 
@@ -6499,9 +4995,9 @@ _\_\__\_\__\_\__\_\__
 
 
 
-*    *[^BJNR017690985BJNE012706160_01]
+*    *[^BJNR017690985BJNE012706160_01_BJNR017690985BJNE012707126]
    Niederschrift
-[^BJNR017690985BJNE012706160_02]
+[^BJNR017690985BJNE012706160_02_BJNR017690985BJNE012707126]
         über die Mitglieder-/Vertreterversammlung
         **zur Aufstellung des Wahlkreisbewerbers**
 
@@ -6529,7 +5025,7 @@ _\_\__\_\__\_\__\_\__
 
 
 
-*    *[^BJNR017690985BJNE012706160_03]
+*    *[^BJNR017690985BJNE012706160_03_BJNR017690985BJNE012707126]
    *
 
     *   eine Mitgliederversammlung der Partei im Wahlkreis
@@ -6600,7 +5096,7 @@ _\_\__\_\__\_\__\_\__
     *
 
 *    *   Erschienen waren ............................................... stimmberechtigte Mitglieder/Vertreter.
-[^BJNR017690985BJNE012706160_04]
+[^BJNR017690985BJNE012706160_04_BJNR017690985BJNE012707126]
         (Zahl)
 
 
@@ -6687,7 +5183,7 @@ _\_\__\_\__\_\__\_\__
 
 
 *    *
-    *[^BJNR017690985BJNE012706160_05]
+    *[^BJNR017690985BJNE012706160_05_BJNR017690985BJNE012707126]
    als Bewerber gewählt ist, wer
         .......................................................................................................................................................................................................................................
 
@@ -6816,7 +5312,7 @@ _\_\__\_\__\_\__\_\__
     *
     *
 
-*    *[^BJNR017690985BJNE012706160_06]
+*    *[^BJNR017690985BJNE012706160_06_BJNR017690985BJNE012707126]
    In einem 2. Wahlgang
         wurde zwischen folgenden Bewerbern
 
@@ -6933,7 +5429,7 @@ _\_\__\_\__\_\__\_\__
     *
     *
     *   ..........................................................................................................................................................................................................................
-        (Familiennamen und Vornamen von 2 Teilnehmern)
+        (Familiennamen und Vornamen von mindestens zwei Teilnehmern)
 
 
 *    *
@@ -6975,12 +5471,12 @@ _\_\__\_\__\_\__\_\__
 _\_\__\_\__\_\__\_\_\_\_
 
     Bei Aufstellung von Bewerbern gemäß § 21 Abs. 2 des Bundeswahlgesetzes ist für jeden Wahlkreis eine gesonderte Niederschrift zu erstellen.
-[^BJNR017690985BJNE012706160_01]:     Nichtzutreffendes streichen.
-[^BJNR017690985BJNE012706160_02]:     Zutreffendes ankreuzen.
-[^BJNR017690985BJNE012706160_03]:     Es empfiehlt sich, eine Anwesenheitsliste zu führen, aus der Vor- und Familiennamen und Anschriften der Teilnehmer hervorgehen.
-[^BJNR017690985BJNE012706160_04]:     Wahlverfahren (z. B. einfache, absolute Mehrheit) angeben.
-[^BJNR017690985BJNE012706160_05]:     Wenn nach dem Wahlverfahren vorgesehen.
-[^BJNR017690985BJNE012706160_06]: 
+[^BJNR017690985BJNE012706160_01_BJNR017690985BJNE012707126]:     Nichtzutreffendes streichen.
+[^BJNR017690985BJNE012706160_02_BJNR017690985BJNE012707126]:     Zutreffendes ankreuzen.
+[^BJNR017690985BJNE012706160_03_BJNR017690985BJNE012707126]:     Es empfiehlt sich, eine Anwesenheitsliste zu führen, aus der Vor- und Familiennamen und Anschriften der Teilnehmer hervorgehen.
+[^BJNR017690985BJNE012706160_04_BJNR017690985BJNE012707126]:     Wahlverfahren (z. B. einfache, absolute Mehrheit) angeben.
+[^BJNR017690985BJNE012706160_05_BJNR017690985BJNE012707126]:     Wenn nach dem Wahlverfahren vorgesehen.
+[^BJNR017690985BJNE012706160_06_BJNR017690985BJNE012707126]: 
 
 ### Anlage 18 (zu § 34 Abs. 5 Nr. 3 Buchstabe a)
 
@@ -6993,14 +5489,14 @@ _\_\__\_\__\_\__\_\_\_\_
         (Nummer und Name)
 
 
-*    *[^BJNR017690985BJNE012806160_01]
+*    *[^BJNR017690985BJNE012806160_01_BJNR017690985BJNE012807126]
    an Eides statt,
 
     *
 
 *    *   1.
 
-    *[^BJNR017690985BJNE012806160_02]
+    *[^BJNR017690985BJNE012806160_02_BJNR017690985BJNE012807126]
    dass die Mitgliederversammlung/Vertreterversammlung
 
     *
@@ -7078,8 +5574,8 @@ _\_\__\_\__\_\__\_\_\_\_
 *    *
     *   Der Leiter der Versammlung
 
-    *   Die von der Versammlung
-        bestimmten 2 Teilnehmer
+    *   Die von der Versammlung bestimmten weiteren Teilnehmer
+        für die Abgabe der Versicherung an Eides statt
 
 
 *    *
@@ -7116,8 +5612,8 @@ _\_\__\_\__\_\__\_\_\_\_
 _\_\__\_\__\_\__\_\__\_\_
 
     Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.
-[^BJNR017690985BJNE012806160_01]:     Nichtzutreffendes streichen.
-[^BJNR017690985BJNE012806160_02]: 
+[^BJNR017690985BJNE012806160_01_BJNR017690985BJNE012807126]:     Nichtzutreffendes streichen.
+[^BJNR017690985BJNE012806160_02_BJNR017690985BJNE012807126]: 
 
 ### Anlage 19 (zu § 36 Abs. 6)
 
@@ -7431,12 +5927,11 @@ für die Wahl zum Deutschen Bundestag
 
 
 *    *
-    *   gaben zu Verwechslungen Anlass.
+    *   gaben zu Verwechslungen Anlass. Der Bundeswahlausschuss hat in der Sitzung vom … eine Unterscheidungsbezeichnung beigefügt.
 
 
 *    *
-    *   Bei dem anderen Kreiswahlvorschlag (§ 20 Abs. 3 des Bundeswahlgesetzes) .................................................... fehlte das Kennwort/war das Kennwort geeignet, Verwechslungen hervorzurufen/erweckte das Kennwort den Eindruck, als handele es sich um den Kreiswahlvorschlag einer Partei.
-
+    *
 
 *    *
     *   Die Vertrauensperson(en) des/der betroffenen Wahlvorschlages/Wahlvorschläge wurde(n) dazu gehört.
@@ -7449,25 +5944,12 @@ für die Wahl zum Deutschen Bundestag
 
 *    *   VIII.
 
-    *   Zur Vermeidung von Verwechslungen beschloss der Wahlausschuss,
-
-
-*    *
-    *   -
-
-    *   dem Wahlvorschlag ...................................................................................................................................................................................... folgende Unterscheidungsbezeichnung
+    *   Bei dem anderen Kreiswahlvorschlag (§ 20 Absatz 3 des Bundeswahlgesetzes) ……………………………… fehlte das Kennwort/war das Kennwort geeignet, Verwechslungen hervorzurufen/erweckte das Kennwort den Eindruck, als handele es sich um den Kreiswahlvorschlag einer Partei. Zur Vermeidung von Verwechslungen beschloss der Wahlausschuss, dem anderen Kreiswahlvorschlag (§ 20 Absatz 3 des Bundeswahlgesetzes) … den Bewerbernamen als Kennwort zu geben.
 
 
 *    *
     *
-    *   beizufügen: .....................................................................................................................................................................................................................................................................
-
-
-*    *
-    *   -
-
-    *   dem Wahlvorschlag .......................................................................................................................................................................... den Bewerbernamen als Kennwort zu geben.
-
+    *
 
 
 
@@ -7667,7 +6149,7 @@ für die Wahl zum Deutschen Bundestag
 
 *    *   XI.
 
-    *   Der Kreiswahlleiter gab die Entscheidung des Kreiswahlausschusses in der Sitzung im Anschluss an die Beschlussfassung unter kurzer Angabe der Gründe bekannt und wies auf den zulässigen Rechtsbehelf hin.
+    *   Der Kreiswahlleiter gab die Entscheidung des Kreiswahlausschusses unter der Bedingung, dass die Landesliste der einreichenden Partei nach § 28 des Bundeswahlgesetzes zugelassen wird, in der Sitzung im Anschluss an die Beschlussfassung unter kurzer Angabe der Gründe bekannt und wies auf den zulässigen Rechtsbehelf hin.
 
 
 *    *
@@ -7738,9 +6220,15 @@ für die Wahl zum Deutschen Bundestag
 
 
 
+### Anlage 19a zu § 38 Satz 1)
+
+   (Fundstelle: BGBl. 2024 I Nr. 283, S. 30)
+
+
+
 ### Anlage 20 (zu § 39 Abs. 1)
 
-   (Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 35;
+(Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 35;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
@@ -7801,7 +6289,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.
 
-    *[^BJNR017690985BJNE013007377_01]
+    *[^BJNR017690985BJNE013007377_01_BJNR017690985BJNE013008126]
    Auf Grund der §§ 18ff. des Bundeswahlgesetzes und des § 39 der Bundeswahlordnung werden als Bewerber für das Land .....................................................................................................................................................................................
         vorgeschlagen:
 
@@ -7927,13 +6415,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *   (Straße, Hausnummer, Postleitzahl, Wohnort, Fernruf)
+    *   (Straße, Hausnummer, Postleitzahl, Wohnort, Telefonnummer, E-Mail-Adresse)
 
     *
 
 *    *
     *
     *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Stellvertretende Vertrauensperson ist:
+
     *
     *
     *
@@ -7963,7 +6459,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *   (Straße, Hausnummer, Postleitzahl, Wohnort, Fernruf)
+    *   (Straße, Hausnummer, Postleitzahl, Wohnort, Telefonnummer, E-Mail-Adresse)
 
     *
 
@@ -7998,7 +6494,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   c)
 
-    *[^BJNR017690985BJNE013007377_02]
+    *[^BJNR017690985BJNE013007377_02_BJNR017690985BJNE013008126]
    Unterstützungsunterschriften mit dem Nachweis der Wahlberechtigung der Unterzeichner,
 
     *
@@ -8013,7 +6509,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   e)
 
-    *[^BJNR017690985BJNE013007377_03]
+    *[^BJNR017690985BJNE013007377_03_BJNR017690985BJNE013008126]
    eine Vollmacht der anderen beteiligten Vorstände.
 
     *
@@ -8036,7 +6532,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *   (Persönliche und handschriftliche Unterschriften von drei Mitgliedern des Vorstandes des Landesverbandes der Partei
-[^BJNR017690985BJNE013007377_04]
+[^BJNR017690985BJNE013007377_04_BJNR017690985BJNE013008126]
         )
 
     *
@@ -8082,9 +6578,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    _\_\__\_\__\_\__\_\__\_\__\_\_
 
     Bundesland angeben. Die Bewerber können unter Verwendung des angegebenen Schemas auch in einer Anlage aufgeführt werden.
-[^BJNR017690985BJNE013007377_01]:     Bei Landeslisten von Parteien, die im Deutschen Bundestag oder einem Landtag seit deren letzter Wahl nicht auf Grund eigener Wahlvorschläge ununterbrochen mit mindestens fünf Abgeordneten vertreten waren.
-[^BJNR017690985BJNE013007377_02]:     Die Unterschriften des einreichenden Vorstandes genügen, wenn dieser innerhalb der Einreichungsfrist eine entsprechende schriftliche Vollmacht der anderen beteiligten Vorstände beibringt.
-[^BJNR017690985BJNE013007377_03]: [^BJNR017690985BJNE013007377_04]:     Die Landesliste muss von mindestens drei Mitgliedern des Vorstandes des Landesverbandes der Partei, darunter dem Vorsitzenden oder seinem Stellvertreter, persönlich und handschriftlich unterzeichnet sein. Hat eine Partei im Land keinen Landesverband oder keine einheitliche Landesorganisation, so muss die Landesliste von allen Vorständen der nächstniedrigen Gebietsverbände, die im Bereich des Landes liegen, unterzeichnet sein. Siehe auch Anmerkung             .
+[^BJNR017690985BJNE013007377_01_BJNR017690985BJNE013008126]:     Bei Landeslisten von Parteien, die im Deutschen Bundestag oder einem Landtag seit deren letzter Wahl nicht auf Grund eigener Wahlvorschläge ununterbrochen mit mindestens fünf Abgeordneten vertreten waren.
+[^BJNR017690985BJNE013007377_02_BJNR017690985BJNE013008126]:     Die Unterschriften des einreichenden Vorstandes genügen, wenn dieser innerhalb der Einreichungsfrist eine entsprechende schriftliche Vollmacht der anderen beteiligten Vorstände beibringt.
+[^BJNR017690985BJNE013007377_03_BJNR017690985BJNE013008126]: [^BJNR017690985BJNE013007377_04_BJNR017690985BJNE013008126]:     Die Landesliste muss von mindestens drei Mitgliedern des Vorstandes des Landesverbandes der Partei, darunter dem Vorsitzenden oder seinem Stellvertreter, persönlich und handschriftlich unterzeichnet sein. Hat eine Partei im Land keinen Landesverband oder keine einheitliche Landesorganisation, so muss die Landesliste von allen Vorständen der nächstniedrigen Gebietsverbände, die im Bereich des Landes liegen, unterzeichnet sein. Siehe auch Anmerkung             .
 
 
 ### Anlage 21 (zu § 39 Abs. 3)
@@ -8158,7 +6654,7 @@ Eine Unterschrift ist nur gültig, wenn sie der Unterzeichner persönlich und ha
 *    *   Anschrift (Hauptwohnung)
 
 
-*    *[^BJNR017690985BJNE013107377_01_BJNR017690985BJNE013108377]
+*    *[^BJNR017690985BJNE013107377_01_BJNR017690985BJNE013109126]
    Straße, Hausnummer:
         ..........................................................................................................................................................................................................................................................
 
@@ -8166,7 +6662,7 @@ Eine Unterschrift ist nur gültig, wenn sie der Unterzeichner persönlich und ha
 *    *   Postleitzahl, Wohnort: ............................................................................................................................................................................................................................................................
 
 
-*    *[^BJNR017690985BJNE013107377_02_BJNR017690985BJNE013108377]
+*    *[^BJNR017690985BJNE013107377_02_BJNR017690985BJNE013109126]
    Ich bin damit einverstanden, dass für mich eine Bescheinigung des Wahlrechts eingeholt wird.
 
 
@@ -8195,7 +6691,7 @@ Eine Unterschrift ist nur gültig, wenn sie der Unterzeichner persönlich und ha
 *    *
     *
 
-*    *[^BJNR017690985BJNE013107377_03_BJNR017690985BJNE013108377]
+*    *[^BJNR017690985BJNE013107377_03_BJNR017690985BJNE013109126]
    **Bescheinigung des Wahlrechts**
 
 
@@ -8230,9 +6726,9 @@ Eine Unterschrift ist nur gültig, wenn sie der Unterzeichner persönlich und ha
 
    _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__
 
-[^BJNR017690985BJNE013107377_04_BJNR017690985BJNE013108377]
+[^BJNR017690985BJNE013107377_04_BJNR017690985BJNE013109126]
 **Bescheinigung des Wahlrechts**
-[^BJNR017690985BJNE013107377_05_BJNR017690985BJNE013108377]
+[^BJNR017690985BJNE013107377_05_BJNR017690985BJNE013109126]
 für die Wahl zum Deutschen Bundestag
 ## am ..............................................................
 
@@ -8314,72 +6810,123 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__
 
 
 Rückseite
-des Formblatts für eine Unterstützungsunterschrift
-## (Landesliste)
+## des Formblatts für eine Unterstützungsunterschrift (Landesliste)
 
-## **Informationen zum Datenschutz**
+## Informationen zum Datenschutz
 
-Für die mit Ihrer Unterstützungsunterschrift angegebenen personenbezogenen Daten gilt:
+Die mit Ihrer Unterstützungsunterschrift angegebenen personenbezogenen Daten sind notwendig, um die Mindestzahl von Unterstützungsunterschriften für Wahlvorschläge nach § 27 Absatz 1 Bundeswahlgesetz nachzuweisen. Die Verarbeitung der personenbezogenen Daten erfolgt auf der Grundlage von Artikel 6 Absatz 1 Buchstabe c und Artikel 9 Absatz 2 Buchstabe g Datenschutz-Grundverordnung (DSGVO) in Verbindung mit den §§ 19, 25, 27 und 28 Bundeswahlgesetz und den §§ 39, 40, 41 Bundeswahlordnung.
 
-1.  Die Verarbeitung der personenbezogenen Daten dient dazu, die Mindestzahl von Unterstützungsunterschriften für Wahlvorschläge nach § 27 Absatz 1 Bundeswahlgesetz nachzuweisen.
+Sie sind nicht verpflichtet, Ihre personenbezogenen Daten bereitzustellen. Ihre Unterstützungsunterschrift für den Wahlvorschlag ist jedoch nur mit diesen Angaben gültig.
 
-    Die Verarbeitung der personenbezogenen Daten erfolgt auf der Grundlage von § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 6 Absatz 1 Buchstabe c und Artikel 9 Absatz 2 Buchstabe g Datenschutz-Grundverordnung in Verbindung mit den §§ 19, 25, 27 und 28 Bundeswahlgesetz und den §§ 39, 40, 41 Bundeswahlordnung.
+Verantwortlich für die Verarbeitung der mit Ihrer Unterstützungsunterschrift angegebenen personenbezogenen Daten ist die Unterstützungsunterschriften sammelnde Partei
 
+[^F831225_26_BJNR017690985BJNE013109126]
+(.................................................................................................................................................................................................................. )
+.
 
-2.  Sie sind nicht verpflichtet, Ihre personenbezogenen Daten bereitzustellen.
+Die Kontaktdaten des Datenschutzbeauftragten lauten:
 
-    Ihre Unterstützungsunterschrift für den Wahlvorschlag ist jedoch nur mit diesen Angaben gültig.
+[^F831225_27_BJNR017690985BJNE013109126]
+..................................................................................................................................................................................................................
 
+Sofern Sie keine Bescheinigung Ihres Wahlrechts beigefügt haben, lässt die Partei Ihre Wahlberechtigung durch die Gemeindebehörde prüfen, bei der Sie mit Ihrem Hauptwohnsitz gemeldet sind. Anschließend reicht die Partei die Unterstützungsunterschriften beim Landeswahlleiter ein. Dieser übergibt sie dem Landeswahlausschuss, der über die Zulassung der Landesliste entscheidet.
 
-3.[^f810550_08_BJNR017690985BJNE013108377]
-  Verantwortlich für die Verarbeitung der mit Ihrer Unterstützungsunterschrift angegebenen personenbezogenen Daten ist die Unterstützungsunterschriften sammelnde Partei (………………………………………)
-    .
+Im Falle einer Beschwerde gegen die Zurückweisung einer Landesliste nach § 28 Absatz 2 Bundeswahlgesetz können Ihre Daten auch dem Bundeswahlausschuss und dem Bundeswahlleiter übermittelt werden.
 
-[^f810550_09_BJNR017690985BJNE013108377]
-    Nach Einreichung der Unterstützungsunterschriften beim Landeswahlleiter ist der Landeswahlleiter (…………………………)
-    für die Verarbeitung der personenbezogenen Daten verantwortlich.
+Im Falle von Wahleinsprüchen können Ihre Daten auch dem Deutschen Bundestag, den sonstigen nach dem Wahlprüfungsgesetz am Verfahren Beteiligten sowie dem Bundesverfassungsgericht, in anderen Fällen auch anderen Gerichten übermittelt werden.
 
-    Verantwortlich für die Verarbeitung der personenbezogenen Daten bei der Erstellung der Wahlrechtsbescheinigung ist die Gemeindebehörde, bei der Sie mit Ihrem Hauptwohnsitz gemeldet sind.
+Dieses Formblatt wird nach Ablauf von sechs Monaten seit der Wahl vernichtet, wenn nicht der Bundeswahlleiter mit Rücksicht auf ein schwebendes Wahlprüfungsverfahren etwas anderes anordnet oder sie für die Strafverfolgungsbehörde zur Ermittlung einer Wahlstraftat von Bedeutung sein können, vgl. § 90 Absatz 2 Bundeswahlordnung.
 
+Im Zusammenhang mit der Verarbeitung Ihrer personenbezogenen Daten stehen Ihnen bestimmte Rechte nach Maßgabe der DSGVO zu. Sie haben gemäß Artikel 15 DSGVO das Recht auf Auskunft über die zu Ihrer Person gespeicherten Daten. Ein Recht auf Berichtigung steht Ihnen gemäß Artikel 16 DSGVO zu, sofern Ihre verarbeiteten personenbezogenen Daten unrichtig sind. Liegen die gesetzlichen Voraussetzungen vor, können Sie gemäß Artikel 17 DSGVO die Löschung Ihrer Daten oder gemäß Artikel 18 DSGVO die Einschränkung der Datenverarbeitung verlangen. Unter den Voraussetzungen des Artikels 21 DSGVO können Sie Widerspruch gegen die Datenverarbeitung einlegen.
 
-4.  Empfänger der personenbezogenen Daten ist der Landeswahlausschuss (Postanschrift: c/o Landeswahlleiter, siehe oben Nummer 3).
+Liegt aus Ihrer Sicht ein Verstoß gegen datenschutzrechtliche Vorschriften vor, haben Sie zudem das Recht, sich bei einer Datenschutzaufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch die Partei zu beschweren.
 
-    Im Falle einer Beschwerde gegen die Zurückweisung einer Landesliste nach § 28 Absatz 2 Bundeswahlgesetz können auch der Bundeswahlausschuss und der Bundeswahlleiter Empfänger der personenbezogenen Daten sein.
+**
 
-    Im Falle von Wahleinsprüchen können auch der Deutsche Bundestag, die sonstigen nach dem Wahlprüfungsgesetz am Verfahren Beteiligten sowie das Bundesverfassungsgericht, in anderen Fällen auch andere Gerichte Empfänger der personenbezogenen Daten sein.
-
-
-5.  Die Frist für die Speicherung der personenbezogenen Daten richtet sich nach § 90 Absatz 2 Bundeswahlordnung: Formblätter mit Unterstützungsunterschriften für Wahlvorschläge sind nach Ablauf von sechs Monaten seit der Wahl zu vernichten, wenn nicht der Bundeswahlleiter mit Rücksicht auf ein schwebendes Wahlprüfungsverfahren etwas anderes anordnet oder sie für die Strafverfolgungsbehörde zur Ermittlung einer Wahlstraftat von Bedeutung sein können.
-
-
-6.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 15 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen über die Verarbeitung Ihrer personenbezogenen Daten Auskunft verlangen.
-
-
-7.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 16 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen die Berichtigung Ihrer personenbezogenen Daten verlangen. Dadurch wird Ihre Unterstützungsunterschrift nicht zurückgenommen.
+[^F831225_28_BJNR017690985BJNE013109126]
+Bescheinigung des Wahlrechts
+[^F831225_29_BJNR017690985BJNE013109126]
+für die Wahl zum Deutschen Bundestag
+## **am ……………………………………………………**
 
 
-8.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 17 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen die unverzügliche Löschung Ihrer personenbezogenen Daten verlangen, soweit Ihre personenbezogenen Daten für die Zwecke, für die sie verarbeitet wurden nicht mehr notwendig sind und die Speicherfrist abgelaufen ist, Ihre personenbezogenen Daten unrechtmäßig verarbeitet wurden oder der Verantwortliche zur Löschung verpflichtet ist. Dadurch wird Ihre Unterstützungsunterschrift nicht zurückgenommen.
+*    *   Herr/Frau
 
 
-9.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 18 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen statt der Löschung die Einschränkung der Verarbeitung verlangen, soweit Ihre personenbezogenen Daten für die Zwecke, für die sie verarbeitet wurden nicht mehr notwendig sind oder Ihre personenbezogenen Daten unrechtmäßig verarbeitet wurden. Sie können die Einschränkung der Verarbeitung auch dann verlangen, wenn Sie der Auffassung sind, dass Ihre personenbezogenen Daten unrichtig sind. Durch einen Antrag auf Einschränkung der Verarbeitung wird Ihre Unterstützungsunterschrift nicht zurückgenommen.
+*    *   Familienname:
+
+    *   ..................................................................
 
 
-10. Beschwerden können Sie an den zuständigen Landesdatenschutzbeauftragten und gegebenenfalls an den Datenschutzbeauftragten des jeweils für die Datenverarbeitung Verantwortlichen (siehe oben Nummer 3) oder an den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit (Postanschrift: Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit, Postfach 1468, 53004 Bonn; E-Mail: poststelle@bfdi.bund.de) richten.
+*    *   Vornamen:
+
+    *   ..................................................................
 
 
-11. Sie können diese Informationen auch auf der Homepage des Bundeswahlleiters unter www.bundeswahlleiter.de ansehen.
+*    *   Geburtsdatum:
+
+    *   ..................................................................
+
+
+*    *   Anschrift (Hauptwohnung)
+
+
+*    *   Straße, Hausnummer:
+
+    *   ..................................................................
+
+
+*    *   Postleitzahl, Wohnort:
+
+    *   ..................................................................
+
+
+*    *
+    *
+
+*    *   ist Deutsche(r) im Sinne des Artikels 116 Absatz 1 des Grundgesetzes.
+        Er/Sie erfüllt die sonstigen Wahlrechtsvoraussetzungen des § 12 des Bundeswahlgesetzes, ist nicht nach § 13 des Bundeswahlgesetzes vom Wahlrecht ausgeschlossen und
+
+
+*    *   ist im Land ..................................................................
+        (Name des Landes)
+
+
+*    *   wahlberechtigt.
+
+
+*    *
+
+*    *
+
+*    *
+    *   .................................................................., den ..................................................................
+
+
+*    *   (Dienstsiegel)
+
+    *   Die Gemeindebehörde
+
+
+*    *
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *
+    *
 
 
 
-
-    Bei außerhalb der Bundesrepublik Deutschland lebenden Wahlberechtigten ist der Nachweis für die Wahlberechtigung durch die Angaben gemäß Anlage 2 und Abgabe einer Versicherung an Eides statt zu erbringen.
-[^BJNR017690985BJNE013107377_01_BJNR017690985BJNE013108377]:     Wenn der Unterzeichner die Bescheinigung seines Wahlrechts selbst einholen will, streichen.
-[^BJNR017690985BJNE013107377_02_BJNR017690985BJNE013108377]:     Die Gemeindebehörde darf das Wahlrecht jeweils nur einmal für einen Kreiswahlvorschlag und eine Landesliste bescheinigen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners muss im Zeitpunkt der Unterzeichnung gegeben sein.
-[^BJNR017690985BJNE013107377_03_BJNR017690985BJNE013108377]:     Muster für den Fall einer gesonderten Erteilung der Wahlrechtsbescheinigung nach § 39 Abs. 3 in Verbindung mit § 34 Abs. 4 Nr. 3 der Bundeswahlordnung.
-[^BJNR017690985BJNE013107377_04_BJNR017690985BJNE013108377]:     Die Gemeindebehörde darf das Wahlrecht jeweils nur einmal für einen Kreiswahlvorschlag und eine Landesliste bescheinigen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners muss im Zeitpunkt der Unterzeichnung gegeben sein.
-[^BJNR017690985BJNE013107377_05_BJNR017690985BJNE013108377]:     Name und Kontaktdaten sind von der Partei einzutragen.
-[^f810550_08_BJNR017690985BJNE013108377]:     Landeswahlleiter, Dienststelle und Kontaktdaten des Landeswahlleiters sind vom Landeswahlleiter einzutragen.
-[^f810550_09_BJNR017690985BJNE013108377]: 
+   Bei außerhalb der Bundesrepublik Deutschland lebenden Wahlberechtigten ist der Nachweis für die Wahlberechtigung durch die Angaben gemäß Anlage 2 und Abgabe einer Versicherung an Eides statt zu erbringen.
+[^BJNR017690985BJNE013107377_01_BJNR017690985BJNE013109126]:     Wenn der Unterzeichner die Bescheinigung seines Wahlrechts selbst einholen will, streichen.
+[^BJNR017690985BJNE013107377_02_BJNR017690985BJNE013109126]:     Die Gemeindebehörde darf das Wahlrecht jeweils nur einmal für einen Kreiswahlvorschlag und eine Landesliste bescheinigen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners muss im Zeitpunkt der Unterzeichnung gegeben sein.
+[^BJNR017690985BJNE013107377_03_BJNR017690985BJNE013109126]:     Muster für den Fall einer gesonderten Erteilung der Wahlrechtsbescheinigung nach § 39 Abs. 3 in Verbindung mit § 34 Abs. 4 Nr. 3 der Bundeswahlordnung.
+[^BJNR017690985BJNE013107377_04_BJNR017690985BJNE013109126]:     Die Gemeindebehörde darf das Wahlrecht jeweils nur einmal für einen Kreiswahlvorschlag und eine Landesliste bescheinigen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners muss im Zeitpunkt der Unterzeichnung gegeben sein.
+[^BJNR017690985BJNE013107377_05_BJNR017690985BJNE013109126]:     Name und Kontaktdaten sind von der Partei einzutragen.
+[^F831225_26_BJNR017690985BJNE013109126]:     Der Verantwortliche hat die Kontaktdaten nur anzugeben, wenn ein Datenschutzbeauftragter benannt wurde.
+[^F831225_27_BJNR017690985BJNE013109126]:     Muster für den Fall einer gesonderten Erteilung der Wahlrechtsbescheinigung nach § 39 Absatz 3 in Verbindung mit § 34 Absatz 4 Nummer 3 der Bundeswahlordnung.
+[^F831225_28_BJNR017690985BJNE013109126]:     Die Gemeindebehörde darf das Wahlrecht jeweils nur einmal für einen Kreiswahlvorschlag und eine Landesliste bescheinigen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners muss im Zeitpunkt der Unterzeichnung gegeben sein.
+[^F831225_29_BJNR017690985BJNE013109126]: 
 
 ### Anlage 22 (zu § 39 Abs. 4 Nr. 1)
 
@@ -8387,7 +6934,7 @@ Für die mit Ihrer Unterstützungsunterschrift angegebenen personenbezogenen Dat
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Zustimmungserklärung und Versicherung an Eides statt
-[^BJNR017690985BJNE013204160_01_BJNR017690985BJNE013205377]
+[^BJNR017690985BJNE013204160_01_BJNR017690985BJNE013206126]
 **zur Parteimitgliedschaft für Bewerber einer Landesliste**
 ## 
 
@@ -8449,8 +6996,8 @@ Zustimmungserklärung und Versicherung an Eides statt
 
 *    *
 
-*    *[^BJNR017690985BJNE013204160_02_BJNR017690985BJNE013205377]
-   Ich versichere, dass ich für keine andere Landesliste im Wahlgebiet meine Zustimmung zur Benennung als Bewerber gegeben habe. Ich versichere gegenüber dem Landeswahlleiter an Eides statt, dass ich nicht Mitglied einer anderen als der den Wahlvorschlag einreichenden Partei bin.
+*    *[^BJNR017690985BJNE013204160_02_BJNR017690985BJNE013206126]
+   Ich versichere, dass ich für keine andere Landesliste im Wahlgebiet meine Zustimmung zur Benennung als Bewerber gegeben habe. Ich versichere gegenüber dem Landeswahlleiter an Eides statt, dass ich nicht Mitglied einer anderen als der den Wahlvorschlag einreichenden Partei und kein Bewerber nach § 20 Absatz 3 des Bundeswahlgesetzes bin.
 
 
 *    *
@@ -8466,7 +7013,7 @@ Zustimmungserklärung und Versicherung an Eides statt
         (Nummer und Name)
 
 
-*    *[^BJNR017690985BJNE013204160_03_BJNR017690985BJNE013205377]
+*    *[^BJNR017690985BJNE013204160_03_BJNR017690985BJNE013206126]
    zugestimmt.
 
 
@@ -8502,69 +7049,45 @@ Zustimmungserklärung und Versicherung an Eides statt
 Rückseite
 ## der Zustimmungserklärung und Versicherung an Eides statt zur Parteimitgliedschaft für Bewerber einer Landesliste
 
-## **Informationen zum Datenschutz**
+## Informationen zum Datenschutz
 
-Für die mit Ihrer Zustimmungserklärung angegebenen personenbezogenen Daten gilt:
+Die mit Ihrer Zustimmungserklärung angegebenen personenbezogenen Daten sind notwendig, um Ihre Zustimmung zur Benennung als Bewerber einer Landesliste nach § 27 Absatz 4 Bundeswahlgesetz nachzuweisen. Die Verarbeitung der personenbezogenen Daten erfolgt auf der Grundlage von Artikel 6 Absatz 1 Buchstabe c und Artikel 9 Absatz 2 Buchstabe g Datenschutz-Grundverordnung (DSGVO) in Verbindung mit den §§ 19, 25, 27 und 28 Bundeswahlgesetz und den §§ 39, 40, 41 Bundeswahlordnung.
 
-1.  Die Verarbeitung der personenbezogenen Daten dient dazu, Ihre Zustimmung zur Benennung als Bewerber nach § 27 Absatz 4 Bundeswahlgesetz nachzuweisen.
+Sie sind nicht verpflichtet, Ihre personenbezogenen Daten bereitzustellen. Die Zustimmungserklärung ist aber nur mit diesen Angaben gültig.
 
-    Die Verarbeitung der personenbezogenen Daten erfolgt auf der Grundlage von § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 6 Absatz 1 Buchstabe c und Artikel 9 Absatz 2 Buchstabe g Datenschutz-Grundverordnung in Verbindung mit den §§ 19, 25, 27 und 28 Bundeswahlgesetz und den §§ 39, 40, 41 Bundeswahlordnung.
+Verantwortlich für die Verarbeitung der mit Ihrer Zustimmungserklärung angegebenen personenbezogenen Daten ist die den Wahlvorschlag einreichende Partei
 
-    Ihre personenbezogenen Daten werden auch für die öffentliche Bekanntmachung der vom Landeswahlausschuss zugelassenen Landeslisten nach § 28 Absatz 3 Bundeswahlgesetz in Verbindung mit § 43 Bundeswahlordnung und für die Erstellung der Stimmzettel nach § 30 Bundeswahlgesetz in Verbindung mit § 45 Bundeswahlordnung verarbeitet.
+[^F831225_33_BJNR017690985BJNE013206126]
+(..............................................................................................................................................................................................................................)
+.
 
+Die Kontaktdaten des Datenschutzbeauftragten lauten:
 
-2.  Sie sind nicht verpflichtet, Ihre personenbezogenen Daten bereitzustellen.
+[^F831225_34_BJNR017690985BJNE013206126]
+..............................................................................................................................................................................................................................
 
-    Die Zustimmungserklärung ist aber nur mit diesen Angaben gültig.
+Die Partei reicht Ihre Zustimmungserklärung beim Landeswahlleiter ein. Dieser übergibt sie dem Landeswahlausschuss, der über die Zulassung der Landesliste entscheidet.
 
+Im Falle einer Beschwerde gegen die Zurückweisung einer Landesliste nach § 28 Absatz 2 Bundeswahlgesetz können Ihre Daten auch dem Bundeswahlleiter und dem Bundeswahlausschuss übermittelt werden.
 
-3.[^f810550_10_BJNR017690985BJNE013205377]
-  Verantwortlich für die Verarbeitung der mit Ihrer Zustimmungserklärung angegebenen personenbezogenen Daten ist die den Wahlvorschlag einreichende Partei (………………………………………)
-    .
+Im Falle von Wahleinsprüchen können Ihre Daten auch dem Deutschen Bundestag, des sonstigen nach dem Wahlprüfungsgesetz am Verfahren Beteiligten sowie dem Bundesverfassungsgericht, in anderen Fällen auch anderen Gerichten übermittelt werden.
 
-[^f810550_11_BJNR017690985BJNE013205377]
-    Nach Einreichung der Landesliste beim Landeswahlleiter ist der Landeswahlleiter (………………………………………)
-    für die Verarbeitung der personenbezogenen Daten verantwortlich.
+Sofern die Landesliste vom Landeswahlausschuss zugelassen wird, werden Ihre Daten nach § 28 Absatz 3 Bundeswahlgesetz in Verbindung mit § 43 Bundeswahlordnung und durch die Erstellung der Stimmzettel nach § 30 Bundeswahlgesetz in Verbindung mit § 45 Bundeswahlordnung öffentlich bekannt gemacht und können zusätzlich im Internet veröffentlicht werden (§ 86 Bundeswahlordnung).
 
+Diese Zustimmungserklärung kann 60 Tage vor der Wahl des neuen Deutschen Bundestages vernichtet werden, soweit sie nicht für ein schwebendes Wahlprüfungsverfahren oder für die Strafverfolgungsbehörde zur Ermittlung einer Wahlstraftat von Bedeutung sein können, vgl. § 90 Absatz 3 Bundeswahlordnung.
 
-4.  Empfänger der personenbezogenen Daten sind der Landeswahlausschuss (Postanschrift: c/o Landeswahlleiter, siehe oben Nummer 3), der Bundeswahlleiter und gegebenenfalls die Kreiswahlleiter.
+Im Zusammenhang mit der Verarbeitung Ihrer personenbezogenen Daten stehen Ihnen bestimmte Rechte nach Maßgabe der DSGVO zu. Sie haben gemäß Artikel 15 DSGVO das Recht auf Auskunft über die zu Ihrer Person gespeicherten Daten. Ein Recht auf Berichtigung steht Ihnen gemäß Artikel 16 DSGVO zu, sofern Ihre verarbeiteten personenbezogenen Daten unrichtig sind. Liegen die gesetzlichen Voraussetzungen vor, können Sie gemäß Artikel 17 DSGVO die Löschung Ihrer Daten oder gemäß Artikel 18 DSGVO die Einschränkung der Datenverarbeitung verlangen. Unter den Voraussetzungen des Artikels 21 DSGVO können Sie Widerspruch gegen die Datenverarbeitung einlegen.
 
-    Im Falle einer Beschwerde gegen die Zurückweisung einer Landesliste nach § 28 Absatz 2 Bundeswahlgesetz kann auch der Bundeswahlausschuss Empfänger der personenbezogenen Daten sein.
-
-    Im Falle von Wahleinsprüchen können auch der Deutsche Bundestag, die sonstigen nach dem Wahlprüfungsgesetz am Verfahren Beteiligten sowie das Bundesverfassungsgericht, in anderen Fällen auch andere Gerichte Empfänger der personenbezogenen Daten sein.
-
-    Die personenbezogenen Daten in den vom Landeswahlausschuss zugelassenen Landeslisten werden öffentlich bekannt gemacht und können zusätzlich im Internet veröffentlicht werden (§ 86 Bundeswahlordnung).
-
-
-5.  Die Frist für die Speicherung der personenbezogenen Daten richtet sich nach § 90 Absatz 3 Bundeswahlordnung: Wahlunterlagen können 60 Tage vor der Wahl des neuen Deutschen Bundestages vernichtet werden. Der Landeswahlleiter kann zulassen, dass die Unterlagen früher vernichtet werden, soweit sie nicht für ein schwebendes Wahlprüfungsverfahren oder für die Strafverfolgungsbehörde zur Ermittlung einer Wahlstraftat von Bedeutung sein können.
-
-
-6.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 15 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen über die Verarbeitung Ihrer personenbezogenen Daten Auskunft verlangen.
-
-
-7.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 16 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen die Berichtigung Ihrer personenbezogenen Daten verlangen. Dadurch wird Ihre Zustimmung zur Benennung als Bewerber nicht zurückgenommen. Nach Ablauf der Frist für die Einreichung der Wahlvorschläge bis zum Ablauf des Wahltages können Sie die Berichtigung Ihrer personenbezogenen Daten nur unter den Voraussetzungen des § 27 Absatz 5 Bundeswahlgesetz in Verbindung mit § 25 Bundeswahlgesetz verlangen.
-
-
-8.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 17 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen die unverzügliche Löschung Ihrer personenbezogenen Daten verlangen, soweit Ihre personenbezogenen Daten für die Zwecke, für die sie verarbeitet wurden nicht mehr notwendig sind und die Speicherfrist abgelaufen ist, Ihre personenbezogenen Daten unrechtmäßig verarbeitet wurden oder der Verantwortliche zur Löschung verpflichtet ist. Dadurch wird Ihre Zustimmung zur Benennung als Bewerber nicht zurückgenommen.
-
-
-9.  Nach § 1 Absatz 8 Bundesdatenschutzgesetz in Verbindung mit Artikel 18 Datenschutz-Grundverordnung können Sie von dem Verantwortlichen statt der Löschung die Einschränkung der Verarbeitung verlangen, soweit Ihre personenbezogenen Daten für die Zwecke, für die sie verarbeitet wurden nicht mehr notwendig sind oder Ihre personenbezogenen Daten unrechtmäßig verarbeitet wurden. Sie können die Einschränkung der Verarbeitung auch dann verlangen, wenn Sie der Auffassung sind, dass Ihre personenbezogenen Daten unrichtig sind. Nach Ablauf der Frist für die Einreichung der Wahlvorschläge bis zum Ablauf des Wahltages können Sie die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten nur unter den Voraussetzungen des § 27 Absatz 5 Bundeswahlgesetz in Verbindung mit § 25 Bundeswahlgesetz verlangen. Durch einen Antrag auf Einschränkung der Verarbeitung wird Ihre Zustimmung zur Benennung als Bewerber nicht zurückgenommen.
-
-
-10. Beschwerden können Sie an den zuständigen Landesdatenschutzbeauftragten und gegebenenfalls an den Datenschutzbeauftragten des jeweils für die Datenverarbeitung Verantwortlichen (siehe oben Nummer 3) oder an den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit (Postanschrift: Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit, Postfach 1468, 53004 Bonn; E-Mail: poststelle@bfdi.bund.de) richten.
-
-
-11. Sie können diese Informationen auch auf der Homepage des Bundeswahlleiters unter www.bundeswahlleiter.de ansehen.
-
-
-
+Liegt aus Ihrer Sicht ein Verstoß gegen datenschutzrechtliche Vorschriften vor, haben Sie zudem das Recht, sich bei einer Datenschutzaufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch die Partei zu beschweren.
 
     Vollständig und in Maschinen- oder Druckschrift ausfüllen.
-[^BJNR017690985BJNE013204160_01_BJNR017690985BJNE013205377]:     Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.
-[^BJNR017690985BJNE013204160_02_BJNR017690985BJNE013205377]:     Nichtzutreffendes streichen.
-[^BJNR017690985BJNE013204160_03_BJNR017690985BJNE013205377]:     Name und Kontaktdaten sind von der Partei einzutragen.
-[^f810550_10_BJNR017690985BJNE013205377]:     Landeswahlleiter, Dienststelle und Kontaktdaten des Landeswahlleiters sind vom Landeswahlleiter einzutragen.
-[^f810550_11_BJNR017690985BJNE013205377]: 
+[^BJNR017690985BJNE013204160_01_BJNR017690985BJNE013206126]:     Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.
+[^BJNR017690985BJNE013204160_02_BJNR017690985BJNE013206126]:     Nichtzutreffendes streichen.
+[^BJNR017690985BJNE013204160_03_BJNR017690985BJNE013206126]:     Name und Kontaktdaten sind von der Partei einzutragen.
+[^f810550_10_BJNR017690985BJNE013206126]:     Landeswahlleiter, Dienststelle und Kontaktdaten des Landeswahlleiters sind vom Landeswahlleiter einzutragen.
+[^f810550_11_BJNR017690985BJNE013206126]:     Name und Kontaktdaten sind von der Partei einzutragen.
+[^F831225_33_BJNR017690985BJNE013206126]:     Der Verantwortliche hat die Kontaktdaten nur anzugeben, wenn ein Datenschutzbeauftragter benannt wurde.
+[^F831225_34_BJNR017690985BJNE013206126]: 
 
 ### Anlage 23 (zu § 39 Abs. 4 Nr. 3)
 
@@ -8595,7 +7118,7 @@ Für die mit Ihrer Zustimmungserklärung angegebenen personenbezogenen Daten gil
 
 
    Niederschrift
-[^BJNR017690985BJNE013306160_01]
+[^BJNR017690985BJNE013306160_01_BJNR017690985BJNE013307126]
 über die Mitglieder-/Vertreterversammlung
 ## **zur Aufstellung der Bewerber für die Landesliste**
 
@@ -8616,7 +7139,7 @@ Für die mit Ihrer Zustimmungserklärung angegebenen personenbezogenen Daten gil
 
 
 
-*    *[^BJNR017690985BJNE013306160_02]
+*    *[^BJNR017690985BJNE013306160_02_BJNR017690985BJNE013307126]
    *
 
     *   eine Mitgliederversammlung der Partei im Land
@@ -8677,7 +7200,7 @@ Für die mit Ihrer Zustimmungserklärung angegebenen personenbezogenen Daten gil
 
 
 *    *   Erschienen waren ............................ stimmberechtigte Mitglieder/Vertreter.
-[^BJNR017690985BJNE013306160_03]
+[^BJNR017690985BJNE013306160_03_BJNR017690985BJNE013307126]
         (Zahl)
 
 
@@ -8758,7 +7281,7 @@ Für die mit Ihrer Zustimmungserklärung angegebenen personenbezogenen Daten gil
 
 
 *    *
-    *[^BJNR017690985BJNE013306160_04]
+    *[^BJNR017690985BJNE013306160_04_BJNR017690985BJNE013307126]
    als Bewerber gewählt ist, wer
         .............................................................................................................................................................................................................................................
 
@@ -8807,7 +7330,7 @@ Für die mit Ihrer Zustimmungserklärung angegebenen personenbezogenen Daten gil
     *
     *
 
-*    *[^BJNR017690985BJNE013306160_05]
+*    *[^BJNR017690985BJNE013306160_05_BJNR017690985BJNE013307126]
    mit verdeckten Stimmzetteln abgestimmt worden ist. Für die Abstimmung wurden einheitliche Stimmzettel verwendet. Jeder anwesende stimmberechtigte Teilnehmer erhielt einen Stimmzettel. Die Abstimmungsteilnehmer vermerkten den/die Namen des/der von ihnen gewünschten Bewerber(s) auf dem Stimmzettel und gaben diesen verdeckt ab. Nach Schluss der Stimmabgabe wurden die Stimmen ausgezählt, die gewählten Bewerber ermittelt und das Wahlergebnis bekannt gegeben. Die einzelnen Wahlgänge ergaben, dass für die Landesliste folgende Bewerber in der nachstehenden Reihenfolge aufgestellt sind:
 
 
@@ -8898,7 +7421,7 @@ usw.
 *    *
     *
     *   ...............................................................................................................................................................
-        (Familiennamen und Vornamen von 2 Teilnehmern)
+        (Familiennamen und Vornamen von mindestens zwei Teilnehmern)
 
 
 *    *
@@ -8939,11 +7462,11 @@ usw.
 _\_\__\_\__\_\__\_\__\_\__\_\__
 
     Nichtzutreffendes streichen.
-[^BJNR017690985BJNE013306160_01]:     Zutreffendes ankreuzen.
-[^BJNR017690985BJNE013306160_02]:     Es empfiehlt sich, eine Anwesenheitsliste zu führen, aus der Vor- und Familiennamen und Anschriften der Teilnehmer hervorgehen.
-[^BJNR017690985BJNE013306160_03]:     Wahlverfahren (z. B. einfache, absolute Mehrheit) angeben.
-[^BJNR017690985BJNE013306160_04]:     Die Bewerber können unter Verwendung des nachstehenden Schemas auch in einer Anlage aufgeführt werden.
-[^BJNR017690985BJNE013306160_05]: 
+[^BJNR017690985BJNE013306160_01_BJNR017690985BJNE013307126]:     Zutreffendes ankreuzen.
+[^BJNR017690985BJNE013306160_02_BJNR017690985BJNE013307126]:     Es empfiehlt sich, eine Anwesenheitsliste zu führen, aus der Vor- und Familiennamen und Anschriften der Teilnehmer hervorgehen.
+[^BJNR017690985BJNE013306160_03_BJNR017690985BJNE013307126]:     Wahlverfahren (z. B. einfache, absolute Mehrheit) angeben.
+[^BJNR017690985BJNE013306160_04_BJNR017690985BJNE013307126]:     Die Bewerber können unter Verwendung des nachstehenden Schemas auch in einer Anlage aufgeführt werden.
+[^BJNR017690985BJNE013306160_05_BJNR017690985BJNE013307126]: 
 
 ### Anlage 24 (zu § 39 Abs. 4 Nr. 3)
 
@@ -8954,13 +7477,13 @@ _\_\__\_\__\_\__\_\__\_\__\_\__
 Wir versichern dem Landeswahlleiter des Landes .....................................................................................................................................................................................................................
 (Name des Landes)
 
-[^BJNR017690985BJNE013405377_01]
+[^BJNR017690985BJNE013405377_01_BJNR017690985BJNE013406126]
 an Eides statt,
 
 
 *    *   1.
 
-    *[^BJNR017690985BJNE013405377_02]
+    *[^BJNR017690985BJNE013405377_02_BJNR017690985BJNE013406126]
    dass die Mitgliederversammlung/Vertreterversammlung
 
 
@@ -9030,8 +7553,7 @@ an Eides statt,
 
 *    *   Die Leiter der Versammlung
 
-    *   Die von der Versammlung
-        bestimmten 2 Teilnehmer
+    *   Die von der Versammlung bestimmten weiteren Teilnehmer für die Abgabe der Versicherung an Eides statt
 
 
 *    *   ................................................................................................
@@ -9063,17 +7585,16 @@ an Eides statt,
 _\_\__\_\__\_\__\_\__\_\__\_\__\_\__
 
     Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.
-[^BJNR017690985BJNE013405377_01]:     Nichtzutreffendes streichen.
-[^BJNR017690985BJNE013405377_02]: 
+[^BJNR017690985BJNE013405377_01_BJNR017690985BJNE013406126]:     Nichtzutreffendes streichen.
+[^BJNR017690985BJNE013405377_02_BJNR017690985BJNE013406126]: 
 
 ### Anlage 25 (weggefallen)
 
 
-### Anlage 26 (zu § 28 Abs. 3 und § 45 Abs. 1)
+### Anlage 26 (zu § 28 Absatz 3 und § 45 Absatz 1)
 
-(Inhalt: nicht darstellbares Stimmzettelmuster,
-Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 43;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2024 I Nr. 283, S. 36)
+
 
 
 ### Anlage 27 (zu § 48 Abs. 1)
@@ -9400,7 +7921,7 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\_
 (Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 46 - 47
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-[^BJNR017690985BJNE013805377_01]
+[^BJNR017690985BJNE013805377_01_BJNR017690985BJNE013806126]
 Wahlbezirk (Name oder Nr.)
 ...........................................................
 Briefwahlvorstand Nr.
@@ -9453,7 +7974,7 @@ Schnellmeldung
 
 
 
-    *[^BJNR017690985BJNE013805377_02]
+    *[^BJNR017690985BJNE013805377_02_BJNR017690985BJNE013806126]
 
     *
 
@@ -9463,7 +7984,7 @@ Schnellmeldung
 
 
 
-    *[^BJNR017690985BJNE013805377_03]
+    *[^BJNR017690985BJNE013805377_03_BJNR017690985BJNE013806126]
    Wahlberechtigte
 
     *   ................................
@@ -9564,8 +8085,8 @@ Schnellmeldung
 
 
 *    *
-    *[^BJNR017690985BJNE013805377_04]
-   Als gewählt gelten kann der Bewerber
+    *[^BJNR017690985BJNE013805377_04_BJNR017690985BJNE013806126]
+   Als Bewerber mit den meisten Erststimmen wird der Bewerber nach § 20 Absatz 3 Bundeswahlgesetz festgestellt
 
     *
 
@@ -9574,12 +8095,9 @@ Schnellmeldung
     *
 
 *    *
-    *   ..........................................................................................
+    *   .........................................................................
 
-    *   ...................................................
-        (Name der Partei - Kurzbezeichnung -
-        oder Kennwort des anderen
-        Kreiswahlvorschlages)
+    *   ................................
 
 
 *    *
@@ -9775,5197 +8293,34 @@ Schnellmeldung
    _\_\__\_\__\_\__\_\__\_\__\_\_
 
     Nichtzutreffendes streichen.
-[^BJNR017690985BJNE013805377_01]:     Nach Abschnitt 4 der Wahlniederschrift Anlage 29, bei der Briefwahl nach Abschnitt 4 der Wahlniederschrift Anlage 31, siehe auch die Zusammenstellung der Wahlergebnisse in Anlage 30.
-[^BJNR017690985BJNE013805377_02]:     Vom Briefwahlvorstand nicht auszufüllen.
-[^BJNR017690985BJNE013805377_03]:     Nur in der Schnellmeldung des Kreiswahlleiters angegeben.
-[^BJNR017690985BJNE013805377_04]: 
+[^BJNR017690985BJNE013805377_01_BJNR017690985BJNE013806126]:     Nach Abschnitt 4 der Wahlniederschrift Anlage 29, bei der Briefwahl nach Abschnitt 4 der Wahlniederschrift Anlage 31, siehe auch die Zusammenstellung der Wahlergebnisse in Anlage 30.
+[^BJNR017690985BJNE013805377_02_BJNR017690985BJNE013806126]:     Vom Briefwahlvorstand nicht auszufüllen.
+[^BJNR017690985BJNE013805377_03_BJNR017690985BJNE013806126]:     Nur in der Schnellmeldung des Kreiswahlleiters angegeben.
+[^BJNR017690985BJNE013805377_04_BJNR017690985BJNE013806126]: 
 
 ### Anlage 29 (zu § 72 Absatz 1)
 
-(Fundstelle: BGBl. I 2020, 208 - 221)
+(Fundstelle: BGBl. 2024 I Nr. 283, S. 37 - 50)
 
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Gemeinde:
-
-    *
-    *
-    *   (Bitte Zutreffendes ankreuzen:)
-
-    *
-
-*    *
-    *   Kreis:
-
-    *
-    *
-    *   *                     Allgemeiner Wahlbezirk
-        *                     Sonderwahlbezirk
-        *                     Wahlbezirk mit beweglichem Wahlvorstand
-
-    *
-
-*    *
-    *   Wahlkreis:
-
-    *
-    *
-    *
-
-*    *
-    *   Land:
-
-    *
-    *
-    *
-
-*    *
-    *   Wahlbezirk-Nr.:
-        (Name oder Nummer)
-
-    *
-    *
-    *   Diese Wahlniederschrift ist vollständig auszufüllen und bei Punkt 5.6 von allen Mitgliedern des Wahlvorstandes zu unterschreiben.
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-
-   Wahlniederschrift
-über die Ermittlung und Feststellung des Ergebnisses der Wahl im Wahlbezirk
-**der Wahl zum Deutschen Bundestag**
-
-am ..........
-
-
-**1.** **Wahlvorstand**
-
-    Zu der Bundestagswahl waren für den Wahlbezirk vom Wahlvorstand erschienen:
-
-    *        *   Familienname
-
-        *   Vornamen
-
-        *   Funktion
-
-
-    *        *   1.
-
-        *
-        *
-        *   als Wahlvorsteher
-
-
-    *        *   2.
-
-        *
-        *
-        *   als stellv. Wahlvorsteher
-
-
-    *        *   3.
-
-        *
-        *
-        *   als Schriftführer
-
-
-    *        *   4.
-
-        *
-        *
-        *   als Beisitzer
-
-
-    *        *   5.
-
-        *
-        *
-        *   als Beisitzer
-
-
-    *        *   6.
-
-        *
-        *
-        *   als Beisitzer
-
-
-    *        *   7.
-
-        *
-        *
-        *   als Beisitzer
-
-
-    *        *   8.
-
-        *
-        *
-        *   als Beisitzer
-
-
-    *        *   9.
-
-        *
-        *
-        *   als Beisitzer
-
-
-
-
-    Anstelle der nicht erschienenen oder ausgefallenen Mitglieder des Wahlvorstandes ernannte der Wahlvorsteher folgende anwesende oder herbeigerufene Wahlberechtigte zu Mitgliedern des Wahlvorstandes und wies sie auf ihre Verpflichtung zur unparteiischen Wahrnehmung ihres Amtes und zur Verschwiegenheit über die ihnen bei ihrer amtlichen Tätigkeit bekannt gewordenen Angelegenheiten hin:
-
-    *        *   Familienname
-
-        *   Vornamen
-
-        *   Uhrzeit
-
-
-    *        *   1.
-
-        *
-        *
-        *
-
-    *        *   2.
-
-        *
-        *
-        *
-
-    *        *   3.
-
-        *
-        *
-        *
-
-
-
-   Als Hilfskräfte waren zugezogen:
-
-    *        *   Familienname
-
-        *   Vornamen
-
-        *   Aufgabe
-
-
-    *        *   1.
-
-        *
-        *
-        *
-
-    *        *   2.
-
-        *
-        *
-        *
-
-    *        *   3.
-
-        *
-        *
-        *
-
-
-
-
-
-
-
-*    *   **2.**
-
-    *   **Wahlhandlung**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **2.1**
-
-    *   **Eröffnung der Wahlhandlung**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Der Wahlvorsteher eröffnete die Wahlhandlung damit, dass er die anwesenden Mitglieder des Wahlvorstandes auf ihre Verpflichtung zur unparteiischen Wahrnehmung ihres Amtes und zur Verschwiegenheit über die ihnen bei ihrer amtlichen Tätigkeit bekannt gewordenen Angelegenheiten hinwies; er stellte die Erteilung dieses Hinweises an alle Beisitzer vor Aufnahme ihrer Tätigkeit sicher. Er belehrte sie über ihre Aufgaben.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Abdrucke des Bundeswahlgesetzes und der Bundeswahlordnung lagen im Wahlraum vor.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **2.2**
-
-    *   **Vorbereitung des Wahlraums**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Damit die Wähler die Stimmzettel unbeobachtet kennzeichnen konnten, waren im Wahlraum Wahlkabinen oder Tische mit Sichtblenden oder Nebenräume, die nur vom Wahlraum aus betretbar waren, hergerichtet:
-
-    *
-    *   (Bitte eintragen:)
-
-    *
-
-*    *
-    *
-    *
-    *   Zahl der Wahlkabinen oder Tische mit Sichtblenden:
-
-    *
-
-*    *
-    *
-    *
-    *   ..............................
-
-    *
-
-*    *
-    *
-    *
-    *   Zahl der Nebenräume:
-
-    *
-
-*    *
-    *
-    *
-    *   ..............................
-
-    *
-
-*    *
-    *   Vom Tisch des Wahlvorstandes konnten die Wahlkabinen oder Tische mit Sichtblenden oder Eingänge zu den Nebenräumen überblickt werden.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **2.3**
-
-    *   **Vorbereitung der Wahlurne**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Der Wahlvorstand stellte fest, dass sich die Wahlurne in ordnungsgemäßem Zustand befand und leer war.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Sodann wurde die Wahlurne
-
-    *
-    *   (Bitte Zutreffendes ankreuzen:)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   versiegelt.
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   verschlossen; der Wahlvorsteher nahm den
-        Schlüssel in Verwahrung.
-
-    *
-
-*    *   **2.4**
-
-    *   **Beginn der Stimmabgabe**
-
-    *
-    *
-    *
-    *
-
-*    *
-    *   Mit der Stimmabgabe wurde um
-
-    *
-    *
-        *            *   (Bitte eintragen:)
-                .......... Uhr
-                ..........Minuten begonnen.
-
-            *
-
-
-
-    *
-
-*    *   **2.5**
-
-    *   Berichtigungen aufgrund nachträglich
-        **ausgestellter Wahlscheine**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Vor Beginn der Stimmabgabe:
-
-    *
-    *   (Bitte Zutreffendes ankreuzen:)
-
-    *
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   Ein Verzeichnis über nachträglich ausgestellte Wahlscheine lag nicht vor. Das Wählerverzeichnis war nicht zu berichtigen.
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   Vor Beginn der Stimmabgabe berichtigte der Wahlvorsteher das Wählerverzeichnis nach dem Verzeichnis der nachträglich erteilten Wahlscheine, indem er bei den Namen der nachträglich mit Wahlscheinen versehenen Wahlberechtigten in der Spalte für die Stimmabgabe den Vermerk „Wahlschein“ oder den Buchstaben „W“ eintrug. Der Wahlvorsteher berichtigte auch die Zahlen der Abschlussbescheinigung der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet.
-
-    *
-
-
-
-
-*    *
-    *   Während der Stimmabgabe:
-
-    *
-    *   *
-
-    *   Der Wahlvorsteher berichtigte das Wählerverzeichnis später aufgrund der durch die Gemeindebehörde am Wahltag erfolgten Mitteilungen über die noch am Wahltag an erkrankte Wahlberechtigte erteilten Wahlscheine, indem er bei den Namen der noch am Wahltag mit Wahlscheinen versehenen Wahlberechtigten in der Spalte für die Stimmabgabe den Vermerk „Wahlschein“ oder den Buchstaben „W“ eintrug. Der Wahlvorsteher berichtigte auch die Zahlen der Abschlussbescheinigung der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet.
-
-    *
-
-*    *   **2.6**
-
-    *   **Ungültigkeit von Wahlscheinen**
-
-    *
-    *   (Bitte Zutreffendes ankreuzen:)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   Der Wahlvorstand hat eine Mitteilung über die Ungültigkeit von Wahlscheinen nicht erhalten.
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   Der Wahlvorstand wurde vom
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   ..............................
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   unterrichtet, dass folgende(r) Wahlschein(e) für ungültig erklärt worden ist/sind:
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   ..............................
-        (Bitte Vor- und Familienname des Wahlschein-
-        inhabers sowie Wahlschein-Nummer eintragen)
-
-    *
-
-*    *   **2.7**
-
-    *   **Beweglicher Wahlvorstand**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Im Wahlbezirk
-
-    *
-    *   (Bitte Zutreffendes ankreuzen:)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   war kein beweglicher Wahlvorstand tätig.
-        (Weiter bei Punkt 2.8)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   war ein beweglicher Wahlvorstand tätig.
-        (Bitte Zutreffendes ankreuzen:)
-        Im Wahlbezirk befindet sich
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   das kleinere Krankenhaus/Alten- oder
-        Pflegeheim
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   ..............................,
-        (Bezeichnung)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   das Kloster
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   ..............................,
-        (Bezeichnung)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   die sozialtherapeutische Anstalt
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   ..............................,
-        (Bezeichnung)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   die Justizvollzugsanstalt
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   ..............................,
-        (Bezeichnung)
-
-    *
-
-*    *
-    *
-    *
-    *   für das/die die Gemeinde die Stimmabgabe vor einem beweglichen Wahlvorstand zugelassen hat.
-
-    *
-
-*    *
-    *
-    *
-    *   Die personelle Zusammensetzung des/der beweglichen Wahlvorstandes/Wahlvorstände für die einzelne(n) Anstalt(en) (drei Mitglieder des Wahlvorstandes einschließlich des Wahlvorstehers oder seines Stellvertreters) ist aus den dieser Niederschrift als
-
-    *
-
-*    *
-    *
-    *
-    *   Anlagen Nr. ..........bis ..........
-        beigefügten besonderen Niederschriften ersichtlich.
-
-    *
-
-
-
-
-*    *
-    *   Der bewegliche Wahlvorstand begab sich zu der von der Gemeindebehörde bestimmten Wahlzeit in die Einrichtung(en) und übergab dort den Wahlberechtigten die Stimmzettel. Er wies die Wahlberechtigten, die sich bei der Stimmabgabe der Hilfe einer anderen Person bedienen wollten, darauf hin, dass sie auch ein von ihnen bestimmtes Mitglied des Wahlvorstandes als Hilfsperson in Anspruch nehmen können. Die Wähler hatten die Möglichkeit, den Stimmzettel unbeobachtet zu kennzeichnen.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Nach Prüfung der Wahlscheine warfen die Wähler ihre gefalteten Stimmzettel in die vom beweglichen Wahlvorstand mitgebrachte verschlossene Wahlurne. Soweit ein Wähler es wünschte, warf der Wahlvorsteher oder sein Stellvertreter den gefalteten Stimmzettel in die Wahlurne. Der bewegliche Wahlvorstand vereinnahmte die Wahlscheine und brachte nach Schluss der Stimmabgabe die verschlossene Wahlurne und die eingenommenen Wahlscheine unverzüglich in den Wahlraum zurück. Hier verblieb die verschlossene Wahlurne bis zum Schluss der Wahlhandlung unter ständiger Aufsicht des Wahlvorstandes.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **2.8**
-
-    *   **Beweglicher Wahlvorstand im Sonderwahlbezirk**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Im Sonderwahlbezirk
-
-    *
-    *   (Bitte Zutreffendes ankreuzen:)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   war kein beweglicher Wahlvorstand tätig.
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   begab sich ein beweglicher Wahlvorstand in die Krankenzimmer und verfuhr wie unter Punkt 2.7 beschrieben.
-
-    *
-
-*    *   **2.9**
-
-    *   **Besondere Vorfälle während der Wahlhandlung**
-
-    *
-    *   (Bitte Zutreffendes ankreuzen:)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   waren nicht zu verzeichnen.
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   waren zu verzeichnen. Über die besonderen Vorfälle (z. B. Zurückweisung von Wählern in den Fällen des § 56 Absatz 6 und 7 und des § 59 der Bundeswahlordnung) wurden Niederschriften angefertigt, die als Anlagen
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-        *            *   Nr. ……… bis ……… beigefügt sind.
-
-            *
-
-
-
-    *
-    *
-
-*    *   **2.10**
-
-    *   **Ablauf der Wahlzeit**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Um 18.00 Uhr gab der Wahlvorsteher den Ablauf der Wahlzeit bekannt. Danach wurden nur noch die Wähler zur Stimmabgabe zugelassen, die vor Ablauf der Wahlzeit erschienen waren und sich im Wahlraum oder aus Platzgründen davor befanden. Nach Ablauf der Wahlzeit eintreffenden Personen wurde der Zutritt zur Stimmabgabe gesperrt. Nachdem die vor Ablauf der Wahlzeit erschienenen Wähler ihre Stimme abgegeben hatten, erklärte der Wahlvorsteher die Wahlhandlung für geschlossen.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-        *            *   Um ……… Uhr ……… Minuten
-
-            *
-
-
-
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *   erklärte der Wahlvorsteher die Wahl für geschlossen.
-
-    *
-
-*    *
-    *   Vom Wahltisch wurden alle nicht benutzten
-        Stimmzettel entfernt.
-
-    *
-    *
-    *
-    *
-    *
-
-
-
-
-*    *   **3.**
-
-    *   **Ermittlung und Feststellung des Wahlergebnisses im Wahlbezirk**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **3.1**
-
-    *   **Leitung der Ergebnisfeststellung**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Die Ermittlung und Feststellung des Wahlergebnisses wurden im Anschluss an die Stimmabgabe unter der Leitung des Wahlvorstehers vorgenommen.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **3.2**
-
-    *   **Zahl der Wähler; Öffnung der Wahlurne**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   a)
-
-    *   Zunächst wurden die im Wählerverzeichnis eingetragenen Stimmabgabevermerke gezählt.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *   Die Zählung ergab
-
-    *
-    *   (Bitte Zahl eintragen:)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   ………… Stimmabgabevermerke
-
-    *
-
-*    *
-    *   b)
-
-    *   Dann wurden die eingenommenen Wahlscheine gezählt.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *   Die Zählung ergab
-
-    *
-    *   *………… Wahlscheine*                        (= Wähler mit Wahlschein)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *   Diese Zahl hinten in **Abschnitt 4**                        bei
-        ![bgbl1_2020_j0199-1_0020.jpg](bgbl1_2020_j0199-1_0020.jpg)        eintragen.
-
-    *
-    *
-
-*    *
-    *   c)
-
-    *   Die Feststellung der Zahl der Stimmabgabevermerke im Wählerverzeichnis und der eingenommenen Wahlscheine ergab, dass
-
-    *
-    *   *
-
-    *   mehr als 50 Wähler ihre Stimme abgegeben haben
-        (weiter bei Punkt 3.2 e))
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   *
-
-    *   weniger als 50 Wähler ihre Stimme abgegeben haben; der Kreiswahlleiter wurde unterrichtet
-        (weiter bei Punkt 3.2 d)).
-
-    *
-
-*    *
-    *   d)
-
-    *   Weil weniger als 50 Wähler ihre Stimme abgegeben haben, hat der Kreiswahlleiter nach § 68 Absatz 2 die gemeinsame Ermittlung und Feststellung des Wahlergebnisses mit einem von ihm bestimmten anderen Wahlvorstand
-
-    *
-    *
-        *            *   um ……… Uhr ……… Minuten angeordnet.
-
-            *
-
-
-
-    *
-
-*    *
-    *
-    *   Der Wahlvorstand des Wahlbezirks mit weniger als 50 Wählern (abgebender Wahlvorstand)
-
-    *
-    *   ..............................
-        (abgebender Wahlvorstand/Name oder Nummer des Wahlbezirks)
-
-    *
-
-*    *
-    *
-    *   hat die verschlossene Wahlurne, die Abschlussbeurkundung, das Wählerverzeichnis und die eingenommenen Wahlscheine dem vom Kreiswahlleiter bestimmten Wahlvorstand (aufnehmender Wahlvorstand)
-
-    *
-    *   ..............................
-        (aufnehmender Wahlvorstand/Name oder Nummer des Wahlbezirks)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-        *            *   um ……… Uhr ……… Minuten übergeben.
-
-            *
-
-
-
-    *
-
-*    *
-    *
-    *   Am Wahlraum des abgebenden Wahlvorstands wurde ein Hinweis angebracht, wo die gemeinsame Ermittlung und Feststellung des Wahlergebnisses erfolgt. Beim Transport der zu übergebenden Gegenstände waren der Wahlvorsteher und der Schriftführer, ein weiteres Mitglied des Wahlvorstands und soweit möglich weitere im Wahlraum anwesende Wahlberechtigte als Vertreter der Öffentlichkeit anwesend.
-
-    *
-    *   *
-
-    *   (Bitte durch Ankreuzen bestätigen)
-        (Weiter bei Punkt 5.4)
-
-    *
-
-
-
-
-*    *
-    *   e)
-
-    *   Sodann wurde die Wahlurne geöffnet; die Stimmzettel wurden entnommen.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *   Der Wahlvorsteher überzeugte sich, dass die Wahlurne leer war.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   f)
-
-    *   Der Inhalt der Wahlurne wurde vor der Auszählung mit dem Inhalt einer anderen Wahlurne vermischt, weil
-
-    *
-    *   (Soweit zutreffend ankreuzen, sonst weiter bei Punkt 3.2 g))
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   *
-
-    *   im Wahlbezirk/Sonderwahlbezirk ein beweglicher Wahlvorstand tätig war
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   *
-
-    *   aufgrund der Anordnung des Kreiswahlleiters
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *   von ……… Uhr ……… Minuten die verschlossene Wahlurne, das Wählerverzeichnis, die Abschlussbeurkundung und die eingenommenen Wahlscheine des
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *   ..............................
-        (abgebender Wahlvorstand/Name oder Nummer des Wahlbezirks)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *   um ……… Uhr ……… Minuten zur gemeinsamen Ermittlung und Feststellung des Wahlergebnisses übernommen wurden.
-
-    *
-
-*    *
-    *
-    *   Bei der Zahl der Wähler (3.2 a), b), g)) und der Zahl der Wahlberechtigten (3.3) sind die Zahlen aus den Wählerverzeichnissen, Abschlussbeurkundungen, eingenommenen Wahlscheinen und Stimmzetteln des abgebenden und des aufnehmenden Wahlvorstands zusammenzuzählen.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *   Nach der Vermischung sind die Stimmzettel gemeinsam auszuzählen (ab 3.2 g)).
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   g)
-
-    *   Sodann wurden die Stimmzettel gezählt.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *   Die Zählung ergab
-
-    *
-    *   (Bitte Zahl eintragen:)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   ………… Stimmzettel (= Wähler insgesamt)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *   Diese Zahl hinten in **Abschnitt 4**                        bei
-        ![bgbl1_2020_j0199-1_0030.jpg](bgbl1_2020_j0199-1_0030.jpg)        eintragen.
-
-    *
-    *
-
-*    *
-    *
-    *   a) + b) zusammen ergab
-
-    *
-    *   …………… Personen.
-
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *   (Bitte Zutreffendes ankreuzen:)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   *
-
-    *   Die Gesamtzahl a) + b) stimmte mit der Zahl der Stimmzettel unter g) überein.
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   *
-
-    *   Die Gesamtzahl a) + b) war
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   um …………… (Anzahl) größer
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   um …………… (Anzahl) kleiner
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   als die Zahl der Stimmzettel.
-
-    *
-
-
-
-
-*    *
-    *
-    *
-    *   Die Verschiedenheit, die auch bei wiederholter Zählung bestehen blieb, erklärt sich aus folgenden Gründen:
-
-    *
-
-*    *
-    *
-    *
-    *   (Bitte erläutern:)
-
-    *
-    *
-
-*    *
-    *
-    *
-    *   ............................................................
-        ............................................................
-        ............................................................
-        ............................................................
-
-    *
-
-*    *   **3.3**
-
-    *   **Zahl der Wahlberechtigten**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Der Schriftführer übertrug aus der Bescheinigung über den Abschluss des Wählerverzeichnisses
-
-    *
-    *   die Zahl der Wahlberechtigten hinten in Abschnitt 4 unter
-
-    *
-
-*    *
-    *
-    *
-    *        ![bgbl1_2020_j0199-1_0040.jpg](bgbl1_2020_j0199-1_0040.jpg)   der Wahlniederschrift.
-
-    *
-
-*    *
-    *
-    *
-    *   Sofern der Wahlvorsteher Berichtigungen aufgrund nachträglich ausgestellter Wahlscheine vorgenommen hat (siehe Abschnitt 2.5), ist die berichtigte Zahl einzutragen.
-
-    *
-
-*    *   **3.4**
-
-    *   **Zählung der Stimmen; Stimmzettelstapel**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Nunmehr bildeten mehrere Beisitzer unter Aufsicht des Wahlvorstehers folgende Stimmzettelstapel und behielten sie unter Aufsicht:
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   3.4.1
-
-    *
-        a)  Die nach den Landeslisten getrennten Stapel mit den Stimmzetteln, auf denen die Erst- und Zweitstimme zweifelsfrei gültig für den Bewerber und die Landesliste **derselben Partei**                              abgegeben worden war
-
-
-        b)  einen gemeinsamen Stapel mit
-
-            –   den Stimmzetteln, auf denen die Erst- und die Zweitstimme zweifelsfrei gültig für Bewerber und Landeslisten **verschiedener**                                    Wahlvorschlagsträger abgegeben worden waren und
-
-
-            –   den Stimmzetteln, auf denen nur die Erst- oder nur die Zweitstimme jeweils zweifelsfrei gültig und die **andere Stimme nicht abgegeben**                                    worden war,
-
-
-
-
-
-        c)  einen Stapel mit den **ungekennzeichneten**                              Stimmzetteln
-
-
-        d)  einen Stapel mit den Stimmzetteln, die Anlass zu **Bedenken**                              gaben und über die später vom Wahlvorstand Beschluss zu fassen war.
-
-
-
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Der Stapel zu d) wurde ausgesondert und von einem vom Wahlvorsteher dazu bestimmten Beisitzer in Verwahrung genommen.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   3.4.2
-
-    *   Die Beisitzer, die die nach Landeslisten geordneten Stapel zu a) unter ihrer Aufsicht hatten, übergaben die einzelnen Stapel zu a) in der Reihenfolge der Landeslisten auf dem Stimmzettel nacheinander zu einem Teil dem Wahlvorsteher, zum anderen Teil seinem Stellvertreter. Diese prüften, ob die Kennzeichnung der Stimmzettel eines jeden Stapels gleich lautete und sagten zu jedem Stapel laut an, für welchen Bewerber und für welche Landesliste er Stimmen enthielt. Gab ein Stimmzettel dem Wahlvorsteher oder seinem Stellvertreter Anlass zu Bedenken, so fügten sie den Stimmzettel dem Stapel zu d) bei.
-
-    *
-    *
-    *
-    *
-    *
-
-
-
-
-*    *
-    *   Nunmehr prüfte der Wahlvorsteher den Stapel zu c) mit den ungekennzeichneten Stimmzetteln, die ihm hierzu von dem Beisitzer, der sie in Verwahrung hatte, übergeben wurden. Der Wahlvorsteher sagte an, dass hier beide Stimmen ungültig sind.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Danach zählten je zwei vom Wahlvorsteher bestimmte Beisitzer nacheinander je einen der zu a) und c) gebildeten Stapel unter gegenseitiger Kontrolle durch und ermittelten
-
-    *
-    *   **(Zwischensummenbildung I)**
-
-    *
-
-*    *
-    *   **die Zahl der für die einzelnen Bewerber**
-
-    *
-    *   = Zeilen D1, D2, D3 usw. in Abschnitt 4
-
-    *
-
-*    *
-    *   **die Zahl der für die einzelnen Landeslisten**
-
-    *
-    *   = Zeilen F1, F2, F3 usw. in Abschnitt 4
-
-    *
-
-*    *
-    *   abgegebenen Stimmen sowie
-
-    *
-    *
-    *
-
-*    *
-    *   **die Zahl der ungültigen Erststimmen**                        und
-
-    *
-    *   = Zeile C in Abschnitt 4
-
-    *
-
-*    *
-    *   **die Zahl der ungültigen Zweitstimmen.**
-
-    *
-    *   = Zeile E in Abschnitt 4
-
-    *
-
-*    *
-    *   Die so ermittelten Stimmenzahlen wurden als **Zwischensummen I (ZS I)**                        vom Schriftführer hinten in **Abschnitt 4**                        in den genannten Zeilen **eingetragen**                       .
-
-    *
-    *   *
-
-    *   (Nach Eintragung durch Ankreuzen bestätigen)
-
-    *
-
-*    *   3.4.3
-
-    *   Sodann übergab der Beisitzer, der den nach b) gebildeten Stapel unter seiner Aufsicht hatte, den Stapel dem Wahlvorsteher.
-
-    *
-    *
-    *
-
-*    *   3.4.3.1
-
-    *   Der Wahlvorsteher legte die Stimmzettel zunächst getrennt nach Zweitstimmen für die einzelnen Landeslisten und las bei jedem Stimmzettel laut vor, für welche Landesliste die Zweitstimme abgegeben worden war. Bei den Stimmzetteln, auf denen nur die Erststimme abgegeben worden war, sagte er an, dass die nicht abgegebene Zweitstimme ungültig ist, und bildete daraus einen weiteren Stapel. Stimmzettel, die dem Wahlvorsteher Anlass zu Bedenken gaben, fügte er dem Stapel zu d) bei.
-
-    *
-    *
-    *
-
-*    *
-    *   Danach zählten je zwei vom Wahlvorsteher bestimmte Beisitzer nacheinander die vom Wahlvorsteher gebildeten Stapel unter gegenseitiger Kontrolle durch und ermittelten
-
-    *
-    *   **(Zwischensummenbildung II – Zweitstimmen –)**
-
-    *
-
-*    *
-    *   **die Zahl der für die einzelnen Landeslisten abgegebenen Stimmen**
-
-    *
-    *   = Zeilen F1, F2, F3 usw. in Abschnitt 4
-
-    *
-
-*    *
-    *   sowie
-
-    *
-    *
-    *
-
-*    *
-    *   **die Zahl der ungültigen Zweitstimmen.**
-
-    *
-    *   = Zeile E in Abschnitt 4
-
-    *
-
-*    *
-    *   Die so ermittelten Stimmenzahlen wurden als **Zwischensummen II (ZS II)**                        vom Schriftführer hinten in **Abschnitt 4**                        in den genannten Zeilen **eingetragen**                       .
-
-    *
-    *   *
-
-    *   (Nach Eintragung durch Ankreuzen bestätigen)
-
-    *
-
-
-
-
-*    *   3.4.3.2
-
-    *   Anschließend ordnete der Wahlvorsteher die Stimmzettel aus dem Stapel zu b) neu, und zwar nach den für die einzelnen Bewerber abgegebenen Erststimmen. Dabei wurde entsprechend 3.4.3.1 verfahren und
-
-    *
-    *   **(Zwischensummenbildung II – Erststimmen –)**
-
-    *
-
-*    *
-    *   **die Zahl der für die einzelnen Bewerber abgegebenen Stimmen**
-
-    *
-    *   = Zeilen D1, D2, D3 usw. in Abschnitt 4
-
-    *
-
-*    *
-    *   sowie
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   **die Zahl der ungültigen Erststimmen**
-
-    *
-    *   = Zeile C in Abschnitt 4
-
-    *
-
-*    *
-    *   ermittelt.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Die so ermittelten Stimmenzahlen wurden als **Zwischensummen II (ZS II)**                        vom Schriftführer hinten in **Abschnitt 4**                        in den genannten Zeilen **eingetragen**                       .
-
-    *
-    *   *
-
-    *   (Nach Eintragung durch Ankreuzen bestätigen)
-
-    *
-
-*    *   3.4.4
-
-    *   Die Zählungen nach 3.4.2 und 3.4.3 verliefen wie folgt:
-
-    *
-    *   (Bitte Zutreffendes ankreuzen:)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   Unstimmigkeiten bei den Zählungen haben sich nicht ergeben.
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   Da sich zahlenmäßige Abweichungen ergaben, zählten die beiden Beisitzer den betreffenden Stapel nacheinander erneut.
-
-    *
-
-*    *
-    *   Danach ergab sich Übereinstimmung zwischen den Zählungen.
-
-    *
-    *   *
-
-    *   (Bitte durch Ankreuzen bestätigen)
-
-    *
-
-*    *   3.4.5
-
-    *   Zum Schluss entschied der Wahlvorstand über die Gültigkeit der Stimmen, die auf den übrigen in dem Stapel zu d) ausgesonderten Stimmzetteln abgegeben worden waren. Der Wahlvorsteher gab die Entscheidung mündlich bekannt und sagte jeweils bei gültigen Stimmen an, für welchen Bewerber oder für welche Landesliste die Stimme abgegeben worden war. Er vermerkte auf der Rückseite jedes Stimmzettels, ob beide Stimmen oder nur die Erststimme oder nur die Zweitstimme für gültig oder ungültig erklärt worden waren, und versah die Stimmzettel mit fortlaufenden Nummern.
-
-    *
-    *   **(Zwischensummenbildung ZS III)**
-
-    *
-
-*    *
-    *   Die so ermittelten gültigen oder ungültigen Stimmen wurden als **Zwischensummen III (ZS III)**                        vom Schriftführer hinten in **Abschnitt 4 eingetragen**                       .
-
-    *
-    *   *
-
-    *   (Nach Eintragung durch Ankreuzen bestätigen)
-
-    *
-
-*    *   3.4.6
-
-    *   Der Schriftführer zählte die Zwischensummen der ungültigen Erst- und Zweitstimmen sowie der gültigen Stimmen jeweils für die einzelnen Wahlvorschläge zusammen. Zwei vom Wahlvorsteher bestimmte Beisitzer überprüften die Zusammenzählung.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **3.5**
-
-    *   Sammlung und Beaufsichtigung der
-        **Stimmzettel**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Die vom Wahlvorsteher bestimmten Beisitzer sammelten
-
-        a)  die Stimmzettel, auf denen die Erst- und die Zweitstimme oder nur die Erststimme abgegeben worden waren, getrennt nach den Bewerbern, denen die Erststimme zugefallen war,
-
-
-        b)  die Stimmzettel, auf denen nur die Zweitstimme abgegeben worden war, getrennt nach den Wahlvorschlägen, denen die Stimmen zugefallen waren,
-
-
-        c)  die ungekennzeichneten Stimmzettel und
-
-
-
-
-    *
-    *
-    *
-    *
-    *
-
-
-
-
-*    *
-    *
-        d)  die Stimmzettel, die Anlass zu Bedenken gegeben hatten,
-
-
-
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   je für sich und behielten sie unter ihrer Aufsicht.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *   Die in d) bezeichneten Stimmzettel sind als Anlagen unter den fortlaufenden Nummern
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *   .......... bis  .........
-
-    *   beigefügt.
-
-
-*    *   **3.6**
-
-    *   Feststellung und Bekanntgabe des
-        **Wahlergebnisses**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Das im nachstehenden Abschnitt 4 der Wahlniederschrift enthaltene Ergebnis wurde vom Wahlvorstand als das Wahlergebnis im Wahlbezirk festgestellt und vom Wahlvorsteher mündlich bekannt gegeben.
-
-    *
-    *   *
-
-    *   (Bitte durch Ankreuzen bestätigen)
-
-    *
-    *
-
-*    *   **4.**
-
-    *   **Wahlergebnis**
-
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Kennbuchstaben für die Zahlenangaben
-
-    *
-    *
-    *   (Wahlniederschrift und Vordruck für die Schnellmeldung sind aufeinander abgestimmt. Die einzelnen Zahlen des Wahlergebnisses sind in die Schnellmeldung (siehe Punkt 5.3) bei demselben Kennbuchstaben einzutragen, mit dem sie in der Wahlniederschrift bezeichnet sind.)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-
-*    *
-    *        ![bgbl1_2020_j0199-1_0050.jpg](bgbl1_2020_j0199-1_0050.jpg)[^f810550_12_BJNR017690985BJNE013910377]
-   Wahlberechtigte laut Wählerverzeichnis ohne Sperrvermerk „W“ (Wahlschein)
-
-    *
-    *   ............................................................
-
-    *
-
-*    *
-    *        ![bgbl1_2020_j0199-1_0060.jpg](bgbl1_2020_j0199-1_0060.jpg)   Wahlberechtigte laut Wählerverzeichnis mit Sperrvermerk „W“ (Wahlschein)
-
-    *
-    *   ............................................................
-
-    *
-
-*    *
-    *        ![bgbl1_2020_j0199-1_0070.jpg](bgbl1_2020_j0199-1_0070.jpg)   im Wählerverzeichnis insgesamt
-        eingetragene Wahlberechtigte
-        1)
-
-    *
-    *   ............................................................
-
-    *
-
-*    *
-    *        ![bgbl1_2020_j0199-1_0080.jpg](bgbl1_2020_j0199-1_0080.jpg)   Wähler insgesamt
-        [vgl. oben 3.2 g)]
-
-    *
-    *   ............................................................
-
-    *
-
-*    *
-    *        ![bgbl1_2020_j0199-1_0090.jpg](bgbl1_2020_j0199-1_0090.jpg)   darunter Wähler mit Wahlschein
-        [vgl. oben 3.2 b)]
-
-    *
-    *   ............................................................
-
-    *
-
-
-
-
-*    *   Ergebnis der Wahl im Wahlkreis ( **Erststimmen**                       )
-
-
-*    *   Summe
-        ![bgbl1_2020_j0199-1_0100.jpg](bgbl1_2020_j0199-1_0100.jpg)        +
-        ![bgbl1_2020_j0199-1_0110.jpg](bgbl1_2020_j0199-1_0110.jpg)        muss mit
-        ![bgbl1_2020_j0199-1_0120.jpg](bgbl1_2020_j0199-1_0120.jpg)        übereinstimmen.
-
-
-
-
-*    *
-    *
-    *   **ZS I**
-
-    *   **ZS II**
-
-    *   **ZS III**
-
-    *   **Insgesamt**
-
-
-*    *   C
-
-    *   **Ungültige**                        Erststimmen
-
-    *
-    *
-    *
-    *
-
-
-
-   **Gültige**              Erststimmen:
-
-*    *
-    *   Von den **gültigen**                        Erststimmen entfielen auf den Bewerber
-        (Vor- und Familienname des Bewerbers sowie Kurzbezeichnung der Partei/bei anderen Kreiswahlvorschlägen das Kennwort – laut Stimmzettel –)
-
-    *   **ZS I**
-
-    *   **ZS II**
-
-    *   **ZS III**
-
-    *   **Insgesamt**
-
-
-*    *   D1
-
-    *   1. ............................................................
-
-    *
-    *
-    *
-    *
-
-*    *   D2
-
-    *   2. ............................................................
-
-    *
-    *
-    *
-    *
-
-*    *   D3
-
-    *   3. ............................................................
-
-    *
-    *
-    *
-    *
-
-*    *   D4
-
-    *   4. ............................................................
-
-    *
-    *
-    *
-    *
-
-*    *
-    *   usw.
-
-    *
-    *
-    *
-    *
-
-*    *   D
-
-    *   **Gültige**                        Erststimmen insgesamt
-
-    *
-    *
-    *
-    *
-
-
-
-
-*    *   Ergebnis der Wahl nach Landeslisten ( **Zweitstimmen**                       )
-
-
-*    *   Summe
-        ![bgbl1_2020_j0199-1_0130.jpg](bgbl1_2020_j0199-1_0130.jpg)        +
-        ![bgbl1_2020_j0199-1_0140.jpg](bgbl1_2020_j0199-1_0140.jpg)        muss mit
-        ![bgbl1_2020_j0199-1_0150.jpg](bgbl1_2020_j0199-1_0150.jpg)        übereinstimmen.
-
-
-
-
-*    *
-    *
-    *   **ZS I**
-
-    *   **ZS II**
-
-    *   **ZS III**
-
-    *   **Insgesamt**
-
-
-*    *   E
-
-    *   **Ungültige**                        Zweitstimmen
-
-    *
-    *
-    *
-    *
-
-
-
-   **Gültige**              Zweitstimmen:
-
-*    *
-    *   Von den **gültigen**                        Zweitstimmen entfielen auf die Landesliste der
-        (Kurzbezeichnung der Partei – laut Stimmzettel –)
-
-    *   **ZS I**
-
-    *   **ZS II**
-
-    *   **ZS III**
-
-    *   **Insgesamt**
-
-
-*    *   F1
-
-    *   1. ............................................................
-
-    *
-    *
-    *
-    *
-
-*    *   F2
-
-    *   2. ............................................................
-
-    *
-    *
-    *
-    *
-
-*    *   F3
-
-    *   3. ............................................................
-
-    *
-    *
-    *
-    *
-
-*    *   F4
-
-    *   4. ............................................................
-
-    *
-    *
-    *
-    *
-
-*    *
-    *   usw.
-
-    *
-    *
-    *
-    *
-
-*    *   F
-
-    *   **Gültige**                        Zweitstimmen insgesamt
-
-    *
-    *
-    *
-    *
-
-
-
-
-*    *   **5.**
-
-    *   **Abschluss der Wahlergebnisfeststellung**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **5.1**
-
-    *   Besondere Vorkommnisse bei der
-        **Ergebnisfeststellung**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Bei der Ermittlung und Feststellung des Wahlergebnisses waren als besondere Vorkommnisse zu verzeichnen:
-
-    *
-    *   ............................................................
-        ............................................................
-
-    *
-
-*    *
-    *   Der Wahlvorstand fasste in diesem Zusammenhang folgende Beschlüsse:
-
-    *
-    *
-        *            *
-            *
-
-
-   ............................................................
-        ............................................................
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   **5.2**
-
-    *   **Erneute Zählung**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   (Wenn keine Nachzählung stattgefunden hat, ist der gesamte Abschnitt 5.2 zu streichen.)
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Das/Die Mitglied(er) des Wahlvorstandes
-
-    *
-    *   ..............................
-        (Vor- und Familienname)
-
-    *
-
-*    *
-    *   beantragte(n) vor Unterzeichnung der Wahlniederschrift eine erneute Zählung der Stimmen, weil
-
-    *
-    *   ..............................
-        ..............................
-        ..............................
-        (Angabe der Gründe)
-
-    *
-
-*    *
-    *   Daraufhin wurde der Zählvorgang (vgl. Abschnitt 3.4) wiederholt. Das in Abschnitt 4 der Wahlniederschrift enthaltene Wahlergebnis für den Wahlbezirk wurde
-
-    *
-    *   (Bitte Zutreffendes ankreuzen:)
-
-    *
-
-*    *
-    *
-    *   *
-
-    *   mit dem gleichen Ergebnis erneut festgestellt
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   berichtigt
-        (Die berichtigten Zahlen sind in Abschnitt 4 mit anderer Farbe oder auf andere Weise kenntlich zu machen. Alte Zahlenangaben bitte nicht löschen oder radieren.)
-
-    *
-
-*    *
-    *   und vom Wahlvorsteher mündlich bekannt gegeben.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **5.3**
-
-    *   **Schnellmeldung**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Das Wahlergebnis aus Abschnitt 4 wurde auf den Vordruck für die Schnellmeldung nach dem Muster der Anlage 28 zur Bundeswahlordnung übertragen und
-
-    *
-    *   auf schnellstem Wege (z. B. telefonisch)
-
-    *
-
-*    *
-    *
-    *
-    *   ..............................
-        (Bitte Art der Übermittlung eintragen)
-
-    *
-
-*    *
-    *
-    *
-    *   an .............................. übermittelt.
-        (Bitte Empfänger eintragen)
-
-    *
-
-*    *   **5.4**
-
-    *   **Anwesenheit des Wahlvorstandes**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Während der Wahlhandlung waren immer mindestens drei, während der Ermittlung und Feststellung des Wahlergebnisses mindestens fünf Mitglieder des Wahlvorstandes, darunter jeweils der Wahlvorsteher und der Schriftführer oder ihre Stellvertreter, anwesend.
-
-    *
-    *
-    *
-    *
-    *
-
-
-
-
-*    *   **5.5**
-
-    *   Öffentlichkeit der Wahlhandlung und
-        **Ergebnisfeststellung**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Die Wahlhandlung sowie die Ermittlung und Feststellung des Wahlergebnisses waren öffentlich.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **5.6**
-
-    *   **Versicherung zur Richtigkeit der Niederschrift**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Vorstehende Niederschrift wurde von den Mitgliedern des Wahlvorstandes genehmigt und von ihnen unterschrieben.
-
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *   **Ort und Datum**
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   **Der Wahlvorsteher**
-
-    *
-    *   **Die übrigen Beisitzer**
-
-    *
-
-*    *
-
-*    *
-    *   **Der Stellvertreter**
-
-    *
-    *
-    *
-
-*    *
-
-*    *
-    *   **Der Schriftführer**
-
-    *
-    *
-    *
-
-*    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-
-
-
-*    *   **5.7**
-
-    *   **Verweigerung der Unterschrift und Angabe von Gründen**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Das/Die Mitglied(er) des Wahlvorstandes
-
-    *
-    *   ..............................
-        (Vor- und Familienname)
-
-    *
-
-*    *
-    *   verweigerte(n) die Unterschrift unter der Wahlniederschrift, weil
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *   ............................................................
-        ............................................................
-        ............................................................
-        (Angabe der Gründe)
-
-    *
-
-*    *   **5.8**
-
-    *   **Bündelung von Stimmzetteln und Wahlscheinen**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Nach Schluss des Wahlgeschäfts wurden alle Stimmzettel und Wahlscheine, die nicht dieser Wahlniederschrift als Anlagen beigefügt sind, wie folgt geordnet, gebündelt und in Papier verpackt (abweichend bei Punkt 3.2 d)):
-
-    *
-    *
-        a)  Ein Paket mit den Stimmzetteln, die nach den für die Wahlkreisbewerber abgegebenen Stimmen geordnet und gebündelt sind,
-
-
-        b)  ein Paket mit den Stimmzetteln, auf denen nur die Zweitstimme abgegeben worden war,
-
-
-        c)  ein Paket mit den ungekennzeichneten Stimmzetteln,
-
-
-        d)  ein Paket mit den eingenommenen Wahlscheinen sowie
-
-
-        e)  ein Paket mit den unbenutzten Stimmzetteln.
-
-
-
-
-    *
-
-*    *
-    *   Die Pakete zu a) bis d) wurden versiegelt und mit dem Namen der Gemeinde, der Nummer des Wahlbezirks und der Inhaltsangabe versehen.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **5.9**
-
-    *   **Übergabe der Wahlunterlagen**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Dem Beauftragten der Gemeindebehörde wurden
-
-    *
-    *   am ……………………, um ……… Uhr, übergeben
-
-        –   diese Wahlniederschrift mit Anlagen,
-
-
-        –   die Pakete wie in Abschnitt 5.8 beschrieben,
-
-
-        –   das Wählerverzeichnis (außer bei Punkt 3.2 d)),
-
-
-        –   die Wahlurne – mit Schloss und Schlüssel –
-
-            sowie
-
-
-        –   alle sonstigen dem Wahlvorstand von der Gemeinde zur Verfügung gestellten Gegenstände und Unterlagen.
-
-
-
-
-    *
-
-*    *
-    *   Der Wahlvorsteher
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-        *            *
-            *
-
-
-   **
-
-        *            *
-            *
-
-
-   **
-
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Vom Beauftragten der Gemeindebehörde wurde die Wahlniederschrift mit allen darin verzeichneten Anlagen am .........., um .......... Uhr, auf Vollständigkeit überprüft und übernommen.
-
-    *
-
-*    *
-    *   ..............................
-        (Unterschrift des Beauftragten der Gemeindebehörde)
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   **Achtung:**                        Es ist sicherzustellen, dass die Wahlniederschrift mit den Anlagen sowie die Pakete mit den weiteren Unterlagen Unbefugten nicht zugänglich sind.
-
-    *
-
-
-
-[^f810550_12_BJNR017690985BJNE013910377]:    Sofern der Wahlvorsteher Berichtigungen aufgrund nachträglich ausgestellter Wahlscheine vorgenommen hat (siehe Abschnitt 2.5) sind die Zahlen der berichtigten Bescheinigung über den Abschluss des Wählerverzeichnisses bei             ,              und              einzutragen.
 
 
 ### Anlage 30 (zu §§ 72 Abs. 3, 75 Abs. 6, 76 Abs. 1 und 6, § 77 Abs. 1, § 78 Abs. 4)
 
-(Inhalt: nicht darstellbare Zusammenstellung der endgültigen Ergebnisse der Wahl zum Deutschen Bundestag,
-Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 56 - 57)
+(Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 56 - 57)
+
 
 
 ### Anlage 31 (zu § 75 Absatz 5)
 
-(Fundstelle: BGBl. I 2020, 222 - 233)
+(Fundstelle: BGBl. 2024 I Nr. 283, S. 51 - 63)
 
 
-*    *
-    *
-    *
-    *
-    *
-    *
 
-*    *
-    *   Briefwahlvorstand-Nr.:
+### Anlage 32 (zu § 76 Absatz 6)
 
-    *
-    *
-    *   Diese Wahlniederschrift ist vollständig auszufüllen und bei Punkt 5.6 von allen Mitgliedern des Briefwahlvorstandes zu unterschreiben.
+(Fundstelle: BGBl. 2024 I Nr. 283, S. 64 - 66)
 
-    *
 
-*    *
-    *[^f810550_13_BJNR017690985BJNE014111377]
-   Gemeinde(n)
-        :
-
-    *
-
-*    *
-    *   Kreis
-        1)                     :
-
-    *
-    *
-    *
-    *
-
-*    *
-    *   Wahlkreis
-        1)                     :
-
-    *
-    *
-    *
-    *
-
-*    *
-    *   Land:
-
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-
-   Wahlniederschrift
-über die Ermittlung und Feststellung des Ergebnisses der *Briefwahl*
-**bei der Wahl zum Deutschen Bundestag**
-
-am ..........
-
-
-**1.** **Briefwahlvorstand**
-
-    Zu der Bundestagswahl waren zur Ermittlung und Feststellung des Ergebnisses der Briefwahl vom Briefwahlvorstand erschienen:
-
-    *        *   Familienname
-
-        *   Vornamen
-
-        *   Funktion
-
-
-    *        *   1.
-
-        *
-        *
-        *   als Briefwahlvorsteher
-
-
-    *        *   2.
-
-        *
-        *
-        *   als stellv. Briefwahlvorsteher
-
-
-    *        *   3.
-
-        *
-        *
-        *   als Schriftführer
-
-
-    *        *   4.
-
-        *
-        *
-        *   als Beisitzer
-
-
-    *        *   5.
-
-        *
-        *
-        *   als Beisitzer
-
-
-    *        *   6.
-
-        *
-        *
-        *   als Beisitzer
-
-
-    *        *   7.
-
-        *
-        *
-        *   als Beisitzer
-
-
-    *        *   8.
-
-        *
-        *
-        *   als Beisitzer
-
-
-    *        *   9.
-
-        *
-        *
-        *   als Beisitzer
-
-
-
-
-    Anstelle der nicht erschienenen oder ausgefallenen Mitglieder des Briefwahlvorstandes ernannte der Briefwahlvorsteher folgende anwesende oder herbeigerufene Wahlberechtigte zu Mitgliedern des Briefwahlvorstandes und wies sie auf ihre Verpflichtung zur unparteiischen Wahrnehmung ihres Amtes und zur Verschwiegenheit über die ihnen bei ihrer amtlichen Tätigkeit bekannt gewordenen Angelegenheiten hin:
-
-    *        *   Familienname
-
-        *   Vornamen
-
-        *   Uhrzeit
-
-
-    *        *   1.
-
-        *
-        *
-        *
-
-    *        *   2.
-
-        *
-        *
-        *
-
-    *        *   3.
-
-        *
-        *
-        *
-
-
-
-   Als Hilfskräfte waren zugezogen:
-
-    *        *   Familienname
-
-        *   Vornamen
-
-        *   Aufgabe
-
-
-    *        *   1.
-
-        *
-        *
-        *
-
-    *        *   2.
-
-        *
-        *
-        *
-
-    *        *   3.
-
-        *
-        *
-        *
-
-
-
-
-
-
-
-*    *   **2.**
-
-    *   **Zulassung der Wahlbriefe**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **2.1**
-
-    *   **Eröffnung der Wahlhandlung**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Der Briefwahlvorsteher eröffnete die Wahlhandlung um
-        damit, dass er die anwesenden Mitglieder des Briefwahlvorstandes auf ihre Verpflichtung zur unparteiischen Wahrnehmung ihres Amtes und zur Verschwiegenheit über die ihnen bei ihrer amtlichen Tätigkeit bekannt gewordenen Angelegenheiten hinwies; er stellte die Erteilung dieses Hinweises an alle Beisitzer vor Aufnahme ihrer Tätigkeit sicher. Er belehrte sie über ihre Aufgaben.
-        Abdrucke des Bundeswahlgesetzes und der Bundeswahlordnung lagen im Wahlraum vor.
-
-    *
-    *   (Bitte Uhrzeit eintragen:)
-        …………… Uhr …………… Minuten
-
-    *
-
-*    *   **2.2**
-
-    *   **Vorbereitung der Wahlurne**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Der Briefwahlvorstand stellte fest, dass sich die Wahlurne in ordnungsgemäßem Zustand befand und leer war.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *   (Bitte Zutreffendes ankreuzen:)
-
-    *
-
-*    *
-    *   Sodann wurde die Wahlurne
-
-    *
-    *   *
-
-    *   versiegelt.
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   verschlossen; der Briefwahlvorsteher nahm den Schlüssel in Verwahrung.
-
-    *
-
-*    *   **2.3**
-
-    *   Anzahl Wahlbriefe; Ungültigkeit von
-        **Wahlscheinen**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Der Briefwahlvorstand stellte weiter fest, dass ihm von/vom
-
-    *
-    *   (Bitte die zuständige Stelle eintragen:)
-        ............................................................
-
-    *
-
-*    *
-    *
-    *
-    *   (Bitte Anzahl eintragen:)
-
-    *
-
-*    *
-    *
-    *
-    *   …………… Wahlbriefe übergeben worden sind.
-
-    *
-
-*    *
-    *   Der Briefwahlvorstand stellte weiter fest, dass ihm
-
-    *
-    *   (Bitte Zutreffendes ankreuzen:)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   eine Mitteilung, dass keine Wahlscheine für ungültig erklärt worden sind, übergeben worden ist
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   ……………… (Anzahl) Verzeichnis/Verzeichnisse der für ungültig erklärten Wahlscheine übergeben worden ist/sind
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   ……………… (Anzahl) Nachtrag/Nachträge zu diesem/n Verzeichnis/Verzeichnissen übergeben worden ist/sind.
-
-    *
-
-*    *
-    *   Die in dem/den Verzeichnis/Verzeichnissen der für ungültig erklärten Wahlscheine und in dem/den Nachträgen zu diesem/n Verzeichnis/Verzeichnissen aufgeführten Wahlbriefe wurden ausgesondert und später dem Briefwahlvorstand zur Beschlussfassung vorgelegt (siehe unten unter Punkt 2.5).
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **2.4**
-
-    *   **Am Wahltag eingegangene Wahlbriefe**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Die Wahlbriefe, die am Wahltag bei der auf dem Wahlbriefumschlag angegebenen Stelle noch vor Schluss der Wahlzeit eingegangen waren, wurden dem Briefwahlvorstand überbracht.
-
-    *
-    *   (Bitte Zutreffendes ankreuzen:)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   Nein, es wurden keine noch vor Schluss der Wahlzeit eingegangenen Wahlbriefe überbracht.
-        (weiter bei Punkt 2.5)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   Ja, es wurden noch vor Schluss der Wahlzeit eingegangene Wahlbriefe überbracht.
-        (Bitte die weiteren Eintragungen vornehmen:)
-        Ein Beauftragter des/der
-        ............................................................
-        überbrachte um ……… Uhr ………… Minuten
-        weitere …………… (Anzahl) Wahlbriefe.
-
-    *
-
-
-
-
-*    *   **2.5**
-
-    *   **Zulassung, Beanstandung und Zurückweisung von Wahlbriefen**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   2.5.1
-
-    *   Ein vom Briefwahlvorsteher bestimmtes Mitglied des Briefwahlvorstands öffnete die Wahlbriefe nacheinander, entnahm ihnen den Wahlschein und den Stimmzettelumschlag und übergab beide dem Briefwahlvorsteher.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   2.5.2
-
-    *   Es wurden
-
-    *
-    *   (Bitte Zutreffendes ankreuzen:)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   keine Wahlbriefe beanstandet.
-        Nachdem weder der Wahlschein noch der Stimmzettelumschlag zu beanstanden war, wurde der Stimmzettelumschlag ungeöffnet in die Wahlurne gelegt. Die Wahlscheine wurden gesammelt.
-        (weiter bei Punkt 3.)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   insgesamt …………… (Anzahl) Wahlbriefe beanstandet.
-        (weiter bei Punkt 2.5.3)
-
-    *
-
-*    *   2.5.3
-
-    *   Von den beanstandeten Wahlbriefen wurden durch Beschluss zurückgewiesen
-
-    *
-    *   (Bitte in den zutreffenden Fallgruppen die jeweilige Anzahl an zurückgewiesenen Wahlbriefen eintragen:)
-
-    *
-
-*    *
-    *
-    *
-    *   ……… Wahlbriefe, weil dem Wahlbriefumschlag kein oder kein gültiger Wahlschein beigelegen hat,
-
-    *
-
-*    *
-    *
-    *
-    *   ……… Wahlbriefe, weil dem Wahlbriefumschlag kein Stimmzettelumschlag beigefügt war,
-
-    *
-
-*    *
-    *
-    *
-    *   ……… Wahlbriefe, weil weder der Wahlbriefumschlag noch der Stimmzettelumschlag verschlossen waren,
-
-    *
-
-*    *
-    *
-    *
-    *   ……… Wahlbriefe, weil der Wahlbriefumschlag mehrere Stimmzettelumschläge, aber nicht die gleiche Anzahl gültiger und mit der vorgeschriebenen Versicherung an Eides statt versehener Wahlscheine enthält,
-
-    *
-
-*    *
-    *
-    *
-    *   ……… Wahlbriefe, weil der Wähler oder die Hilfsperson die vorgeschriebene Versicherung an Eides statt zur Briefwahl auf dem Wahlschein nicht unterschrieben hat,
-
-    *
-
-*    *
-    *
-    *
-    *   ……… Wahlbriefe, weil kein amtlicher Stimmzettelumschlag benutzt worden war,
-
-    *
-
-*    *
-    *
-    *
-    *   ……… Wahlbriefe, weil ein Stimmzettelumschlag benutzt worden war, der offensichtlich in einer das Wahlgeheimnis gefährdenden Weise von den übrigen abwich oder einen deutlich fühlbaren Gegenstand enthalten hat.
-
-    *
-
-*    *
-    *
-    *
-    *   Insgesamt: …………… (Anzahl) Wahlbriefe
-
-    *
-
-*    *
-    *   Die zurückgewiesenen Wahlbriefe wurden samt Inhalt ausgesondert, mit einem Vermerk über den Zurückweisungsgrund versehen, wieder verschlossen, fortlaufend nummeriert und der Wahlniederschrift beigefügt.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   2.5.4
-
-    *   Nach besonderer Beschlussfassung wurden beanstandete Wahlbriefe zugelassen.
-
-    *
-    *   (Bitte Zutreffendes ankreuzen:)
-
-    *
-
-*    *
-    *
-    *   *
-
-    *   Nein.
-        (weiter bei Punkt 3.)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   Ja. Es wurden insgesamt
-        …………… (Anzahl) Wahlbriefe nach besonderer Beschlussfassung zugelassen. Der/die Stimmzettelumschlag/Stimmzettelumschläge wurde/n ungeöffnet in die Wahlurne gelegt. Die Wahlscheine wurden gesammelt. War Anlass der Beschlussfassung der Wahlschein, so wurde dieser der Wahlniederschrift beigefügt.
-
-    *
-
-
-
-
-*    *   **3.**
-
-    *   Ermittlung und Feststellung des
-        **Briefwahlergebnisses**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **3.1**
-
-    *   **Öffnung der Wahlbriefe**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Alle bis 18.00 Uhr eingegangenen Wahlbriefe wurden geöffnet, die Stimmzettelumschläge entnommen und in die Wahlurne gelegt.
-
-    *
-    *
-    *
-
-*    *   **3.2**
-
-    *   **Zahl der Wähler; Öffnung der Wahlurne**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   3.2.1
-
-    *   Zunächst wurden die Wahlscheine gezählt.
-
-    *
-    *   (Bitte Zahl eintragen:)
-
-    *
-
-*    *
-    *   Die Zählung ergab
-
-    *
-    *   …………… Wahlscheine.
-
-    *
-
-*    *
-    *   Die Zählung ergab, dass
-
-    *
-    *   *
-
-    *   mehr als 50 Wahlbriefe zugelassen wurden
-        (weiter bei Punkt 3.2.3)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   weniger als 50 Wahlbriefe zugelassen wurden; der Kreiswahlleiter wurde unterrichtet
-        (weiter bei Punkt 3.2.2)
-
-    *
-
-*    *   3.2.2
-
-    *   Weil weniger als 50 Wahlbriefe zugelassen wurden, hat der Kreiswahlleiter nach § 75 Absatz 3 Satz 2 in Verbindung mit § 68 Absatz 2 die gemeinsame Ermittlung und Feststellung des Briefwahlergebnisses mit einem von ihm bestimmten anderen Briefwahlvorstand
-
-    *
-    *
-    *
-        *            *   um ……… Uhr ……… Minuten angeordnet.
-
-            *
-
-
-
-    *
-
-*    *
-    *   Der Briefwahlvorstand des Briefwahlbezirks mit weniger als 50 Wählern (abgebender Briefwahlvorstand)
-
-    *
-    *
-    *   ............................................................
-        (abgebender Briefwahlvorstand/Briefwahlvorstand-Nummer)
-
-    *
-
-*    *
-    *   hat die verschlossene Wahlurne und die eingenommenen Wahlscheine dem vom Kreiswahlleiter bestimmten Briefwahlvorstand (aufnehmender Briefwahlvorstand)
-
-    *
-    *
-    *   ............................................................
-        (aufnehmender Briefwahlvorstand/Briefwahlvorstand-Nummer)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-        *            *   um ……… Uhr ……… Minuten übergeben.
-
-            *
-
-
-
-    *
-
-*    *
-    *   Am Wahlraum des abgebenden Briefwahlvorstands wurde ein Hinweis angebracht, wo die gemeinsame Ermittlung und Feststellung des Briefwahlergebnisses erfolgt. Beim Transport der zu übergebenden Gegenstände waren der Briefwahlvorsteher und der Schriftführer, ein weiteres Mitglied des Briefwahlvorstands und soweit möglich weitere im Wahlraum anwesende Wahlberechtigte als Vertreter der Öffentlichkeit anwesend.
-
-    *
-    *   *
-
-    *   (Bitte durch Ankreuzen bestätigen)
-        (Weiter bei Punkt 5.4)
-
-    *
-
-*    *   3.2.3
-
-    *   Sodann wurde die Wahlurne geöffnet.
-
-    *
-    *
-    *   (Bitte Uhrzeit eintragen:)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-        *            *   ……… Uhr ……… Minuten
-
-            *
-
-
-
-    *
-
-*    *
-    *   Die Stimmzettelumschläge wurden entnommen. Der Briefwahlvorsteher überzeugte sich, dass die Wahlurne leer war.
-
-    *
-    *
-    *
-    *
-    *
-
-
-
-
-*    *
-    *   Der Inhalt der Wahlurne wurde vor der Auszählung mit dem Inhalt einer anderen Wahlurne vermischt, weil
-
-    *
-    *   (Soweit zutreffend ankreuzen, sonst weiter bei Punkt 3.2.4)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   aufgrund der Anordnung des Kreiswahlleiters
-        von ……… Uhr ……… Minuten die verschlossene Wahlurne und die eingenommenen Wahlscheine des
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   ............................................................
-        (abgebender Briefwahlvorstand/Briefwahlvorstand-Nummer)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   um ……… Uhr ……… Minuten zur gemeinsamen Ermittlung und Feststellung des Briefwahlergebnisses übernommen wurden.
-
-    *
-
-*    *
-    *   Bei der Zahl der Wahlscheine (Punkt 3.2.1) sind die eingenommenen Wahlscheine des abgebenden und des aufnehmenden Briefwahlvorstands zusammenzuzählen.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Nach der Vermischung sind die Stimmzettelumschläge und die Stimmzettel gemeinsam auszuzählen (ab Punkt 3.2.4).
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   3.2.4
-
-    *   Sodann wurden die Stimmzettelumschläge ungeöffnet gezählt.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *   (Bitte Zahl eintragen:)
-
-    *
-
-*    *
-    *   Die Zählung ergab
-
-    *
-    *   …………… Stimmzettelumschläge (= Wähler)
-
-    *
-
-*    *
-    *
-    *
-    *   Diese Zahl hinten in **Abschnitt 4**                        bei Kennbuchstabe
-        ![bgbl1_2020_j0199-1_0160.jpg](bgbl1_2020_j0199-1_0160.jpg)        = Wähler insgesamt, zugleich
-        ![bgbl1_2020_j0199-1_0170.jpg](bgbl1_2020_j0199-1_0170.jpg)        eintragen.
-
-    *
-
-*    *
-    *
-    *
-    *   (Bitte Zutreffendes ankreuzen:)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   Die Zahl der Stimmzettelumschläge und der Wahlscheine stimmte überein.
-        (weiter bei Punkt 3.2.5)
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   Die Zahl der Stimmzettelumschläge und der Wahlscheine stimmte nicht überein.
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   Die Verschiedenheit, die auch bei wiederholter Zählung bestehen blieb, erklärt sich aus folgenden Gründen:
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   ............................................................
-        ............................................................
-        ............................................................
-        ............................................................
-
-    *
-
-*    *   3.2.5
-
-    *   Der Schriftführer übertrug die Zahl der Wähler in Abschnitt 4 Kennbuchstabe B der Wahlniederschrift.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **3.3**
-
-    *   **Zählung der Stimmen; Stimmzettelstapel**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Nunmehr öffneten mehrere Beisitzer unter Aufsicht des Briefwahlvorstehers die Stimmzettelumschläge, nahmen die Stimmzettel heraus, bildeten daraus die folgenden Stapel und behielten sie unter Aufsicht:
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   3.3.1
-
-    *
-        a)  Die nach den Landeslisten getrennten Stapel mit den Stimmzetteln, auf denen die Erst- und Zweitstimme zweifelsfrei gültig für den Bewerber und die Landesliste **derselben Partei**                              abgegeben worden war,
-
-
-
-
-    *
-    *
-    *
-    *
-    *
-
-
-
-
-*    *
-    *
-        b)  einen gemeinsamen Stapel mit
-
-            –   den Stimmzetteln, auf denen die Erst- und die Zweitstimme zweifelsfrei gültig für Bewerber und Landeslisten **verschiedener**                                    Wahlvorschlagsträger abgegeben worden waren und
-
-
-            –   den Stimmzetteln, auf denen nur die Erst- oder nur die Zweitstimme jeweils zweifelsfrei gültig und die **andere Stimme nicht abgegeben**                                    worden war,
-
-
-
-
-
-        c)  einen Stapel mit leeren Stimmzettelumschlägen und den **ungekennzeichneten**                              Stimmzetteln,
-
-
-        d)  einen Stapel aus **Stimmzettelumschlägen**                             , die **mehrere Stimmzettel**                              enthalten, sowie
-
-
-        e)  einen Stapel aus Stimmzettelumschlägen, und Stimmzetteln, die Anlass zu **Bedenken**                              gaben und über die später vom Briefwahlvorstand Beschluss zu fassen war.
-
-            Die beiden Stapel zu d) und e) wurden ausgesondert und von einem vom Briefwahlvorsteher dazu bestimmten Beisitzer in Verwahrung genommen.
-
-
-
-
-    *
-    *
-    *
-    *
-
-*    *   3.3.2
-
-    *   Die Beisitzer, die die nach Landeslisten geordneten Stapel zu a) unter ihrer Aufsicht hatten, übergaben die einzelnen Stapel zu a) in der Reihenfolge der Landeslisten auf dem Stimmzettel nacheinander zu einem Teil dem Briefwahlvorsteher, zum anderen Teil seinem Stellvertreter. Diese prüften, ob die Kennzeichnung der Stimmzettel eines jeden Stapels gleich lautete und sagten zu jedem Stapel laut an, für welchen Bewerber und für welche Landesliste er Stimmen enthielt. Gab ein Stimmzettel dem Briefwahlvorsteher oder seinem Stellvertreter Anlass zu Bedenken, so fügten sie den Stimmzettel dem Stapel zu e) bei.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Nunmehr prüfte der Briefwahlvorsteher den Stapel zu c) mit den ungekennzeichneten Stimmzetteln und den leeren Stimmzettelumschlägen, die ihm hierzu von dem Beisitzer, der sie in Verwahrung hatte, übergeben wurden. Der Briefwahlvorsteher sagte an, dass hier beide Stimmen ungültig sind.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Danach zählten je zwei vom Briefwahlvorsteher bestimmte Beisitzer nacheinander je einen der zu a) und c) gebildeten Stapel unter gegenseitiger Kontrolle durch und ermittelten
-
-    *
-    *   **(Zwischensummenbildung I)**
-
-    *
-
-*    *
-    *   **die Zahl der für die einzelnen Bewerber**
-
-    *
-    *   = Zeilen D1, D2, D3 usw. in Abschnitt 4
-
-    *
-
-*    *
-    *   **die Zahl der für die einzelnen Landeslisten**
-
-    *
-    *   = Zeilen F1, F2, F3 usw. in Abschnitt 4
-
-    *
-
-*    *
-    *   abgegebenen Stimmen sowie
-
-    *
-    *
-    *
-
-*    *
-    *   **die Zahl der ungültigen Erststimmen**                        und
-
-    *
-    *   = Zeile C in Abschnitt 4
-
-    *
-
-*    *
-    *   **die Zahl der ungültigen Zweitstimmen.**
-
-    *
-    *   = Zeile E in Abschnitt 4
-
-    *
-
-*    *
-    *   Die so ermittelten Stimmenzahlen wurden als **Zwischensummen I (ZS I)**                        vom Schriftführer hinten in **Abschnitt 4**                        in den genannten Zeilen **eingetragen**                       .
-
-    *
-    *   *                        (Nach Eintragung durch Ankreuzen bestätigen)
-
-    *
-
-*    *   3.3.3
-
-    *   Sodann übergab der Beisitzer, der den nach b) gebildeten Stapel unter seiner Aufsicht hatte, den Stapel dem Briefwahlvorsteher.
-
-    *
-    *
-    *
-
-*    *   3.3.3.1
-
-    *   Der Briefwahlvorsteher legte die Stimmzettel zunächst getrennt nach Zweitstimmen für die einzelnen Landeslisten und las bei jedem Stimmzettel laut vor, für welche Landesliste die Zweitstimme abgegeben worden war. Bei den Stimmzetteln, auf denen nur die Erststimme abgegeben worden war, sagte er an, dass die nicht abgegebene Zweitstimme ungültig ist, und bildete daraus einen weiteren Stapel. Stimmzettel, die dem Briefwahlvorsteher Anlass zu Bedenken gaben, fügte er dem Stapel zu e) bei.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Danach zählten je zwei vom Briefwahlvorsteher bestimmte Beisitzer nacheinander die vom Briefwahlvorsteher gebildeten Stapel unter gegenseitiger Kontrolle durch und ermittelten
-
-    *
-    *   **(Zwischensummenbildung II – Zweitstimmen –)**
-
-    *
-
-*    *
-    *   die Zahl der für die einzelnen Landeslisten
-        **abgegebenen Stimmen**
-
-    *
-    *   = Zeilen F1, F2, F3 usw. in Abschnitt 4
-
-    *
-
-*    *
-    *   sowie
-
-    *
-    *
-    *
-
-*    *
-    *   **die Zahl der ungültigen Zweitstimmen.**
-
-    *
-    *   = Zeile E in Abschnitt 4
-
-    *
-
-*    *
-    *   Die so ermittelten Stimmenzahlen wurden als **Zwischensummen II (ZS II)**                        vom Schriftführer hinten in **Abschnitt 4**                        in den genannten Zeilen **eingetragen.**
-
-    *
-    *   *
-
-    *   (Nach Eintragung durch Ankreuzen bestätigen)
-
-    *
-
-*    *   3.3.3.2
-
-    *   Anschließend ordnete der Briefwahlvorsteher die Stimmzettel aus dem Stapel zu b) neu, und zwar nach den für die einzelnen Bewerber abgegebenen Erststimmen. Dabei wurde entsprechend 3.3.3.1 verfahren und die
-
-    *
-    *   **(Zwischensummenbildung II – Erststimmen –)**
-
-    *
-
-*    *
-    *   Zahl der für die einzelnen Bewerber
-        **abgegebenen Stimmen**
-
-    *
-    *   = Zeilen D1, D2, D3 usw. in Abschnitt 4
-
-    *
-
-*    *
-    *   sowie
-
-    *
-    *
-    *
-
-*    *
-    *   **die Zahl der ungültigen Erststimmen**
-
-    *
-    *   = Zeile C in Abschnitt 4
-
-    *
-
-*    *
-    *   ermittelt.
-
-    *
-    *
-    *
-
-*    *
-    *   Die so ermittelten Stimmenzahlen wurden als **Zwischensummen II (ZS II)**                        vom Schriftführer hinten in **Abschnitt 4**                        in den genannten Zeilen **eingetragen**                       .
-
-    *
-    *   *
-
-    *   (Nach Eintragung durch Ankreuzen bestätigen)
-
-    *
-
-*    *   3.3.4
-
-    *   Die Zählungen nach 3.3.2 und 3.3.3 verliefen wie folgt:
-
-    *
-    *   (Bitte Zutreffendes ankreuzen:)
-
-    *
-
-*    *
-    *   *
-
-    *   Unstimmigkeiten bei den Zählungen haben sich nicht ergeben.
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   Da sich zahlenmäßige Abweichungen ergaben, zählten die beiden Beisitzer den betreffenden Stapel nacheinander erneut.
-
-    *
-
-*    *
-    *   Danach ergab sich Übereinstimmung zwischen den Zählungen.
-
-    *
-    *   *
-
-    *   (Bitte durch Ankreuzen bestätigen)
-
-    *
-
-*    *   3.3.5
-
-    *   Zum Schluss entschied der Briefwahlvorstand über die Gültigkeit der Stimmen, die auf den übrigen in den Stapeln zu d) und e) ausgesonderten Stimmzetteln abgegeben worden waren. Der Briefwahlvorsteher gab die Entscheidung mündlich bekannt und sagte jeweils bei gültigen Stimmen, für welchen Bewerber oder für welche Landesliste die Stimme abgegeben worden war. Er vermerkte auf der Rückseite jedes Stimmzettels, ob beide Stimmen oder nur die Erststimme oder nur die Zweitstimme für gültig oder ungültig erklärt worden waren, und versah die Stimmzettel mit fortlaufenden Nummern.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Die so ermittelten gültigen oder ungültigen Stimmen wurden als **Zwischensummen III (ZS III)**                        vom Schriftführer hinten in **Abschnitt 4 eingetragen**                       .
-
-    *
-    *   *
-
-    *   (Nach Eintragung durch Ankreuzen bestätigen)
-
-    *
-
-
-
-
-*    *   3.3.6
-
-    *   Der Schriftführer zählte die Zwischensummen der ungültigen Erst- und Zweitstimmen sowie der gültigen Stimmen jeweils für die einzelnen Wahlvorschläge zusammen. Zwei vom Briefwahlvorsteher bestimmte Beisitzer überprüften die Zusammenzählung.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **3.4**
-
-    *   Sammlung und Beaufsichtigung der
-        **Stimmzettel**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Die vom Briefwahlvorsteher bestimmten Beisitzer sammelten
-
-        a)  die Stimmzettel, auf denen die Erst- und die Zweitstimme oder nur die Erststimme abgegeben worden waren, getrennt nach den Bewerbern, denen die Erststimme zugefallen war,
-
-
-        b)  die Stimmzettel, auf denen nur die Zweitstimme abgegeben worden war, getrennt nach den Wahlvorschlägen, denen die Stimmen zugefallen waren,
-
-
-        c)  die leer abgegebenen Stimmzettelumschläge und die ungekennzeichneten Stimmzettel,
-
-
-        d)  die Stimmzettelumschläge, die Anlass zu Bedenken gegeben hatten, mit den zugehörigen Stimmzetteln,
-
-            die Stimmzettel, die Anlass zu Bedenken gegeben hatten und
-
-            die Stimmzettelumschläge mit mehreren Stimmzetteln,
-
-
-
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   je für sich und behielten sie unter ihrer Aufsicht.
-
-    *
-    *   Die in d) bezeichneten Stimmzettelumschläge und Stimmzettel sind als Anlagen unter den fortlaufenden Nummern
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *   .......... bis  ..........
-
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *   beigefügt.
-
-    *
-    *
-
-*    *   **3.5**
-
-    *   Feststellung und Bekanntgabe des
-        **Briefwahlergebnisses**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Das im nachstehenden Abschnitt 4 der Wahlniederschrift enthaltene Ergebnis wurde vom Briefwahlvorstand als das Briefwahlergebnis festgestellt und vom Briefwahlvorsteher mündlich bekannt gegeben.
-
-    *
-    *   *
-
-    *   (Bitte durch Ankreuzen bestätigen)
-
-    *
-
-*    *   **4.**
-
-    *   **Wahlergebnis**
-
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Kennbuchstaben für die Zahlenangaben
-
-    *
-    *
-    *   (Wahlniederschrift und Vordruck für die Schnellmeldung sind aufeinander abgestimmt. Die einzelnen Zahlen des Wahlergebnisses sind in die Schnellmeldung (siehe Punkt 5.3) bei demselben Kennbuchstaben einzutragen, mit dem sie in der Wahlniederschrift bezeichnet sind.)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-
-*    *
-    *        ![bgbl1_2020_j0199-1_0180.jpg](bgbl1_2020_j0199-1_0180.jpg)   Wähler insgesamt [vgl. oben 3.2.4]
-
-    *
-    *
-    *
-
-*    *
-    *   zugleich
-
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *        ![bgbl1_2020_j0199-1_0190.jpg](bgbl1_2020_j0199-1_0190.jpg)   Wähler mit Wahlschein
-
-    *
-    *   ............................................................
-
-    *
-
-
-
-
-*    *   Ergebnis der Wahl im Wahlkreis ( **Erststimmen**                       )
-
-
-*    *   Summe
-        ![bgbl1_2020_j0199-1_0200.jpg](bgbl1_2020_j0199-1_0200.jpg)        +
-        ![bgbl1_2020_j0199-1_0210.jpg](bgbl1_2020_j0199-1_0210.jpg)        muss mit
-        ![bgbl1_2020_j0199-1_0220.jpg](bgbl1_2020_j0199-1_0220.jpg)        übereinstimmen.
-
-
-
-
-*    *
-    *
-    *   **ZS I**
-
-    *   **ZS II**
-
-    *   **ZS III**
-
-    *   **Insgesamt**
-
-
-*    *   C
-
-    *   **Ungültige**                        Erststimmen
-
-    *
-    *
-    *
-    *
-
-
-
-   **Gültige**              Erststimmen:
-
-*    *
-    *   Von den **gültigen**                        Erststimmen entfielen auf den Bewerber
-        (Vor- und Familienname des Bewerbers sowie Kurzbezeichnung der Partei/bei anderen Kreiswahlvorschlägen das Kennwort – laut Stimmzettel –)
-
-    *   **ZS I**
-
-    *   **ZS II**
-
-    *   **ZS III**
-
-    *   **Insgesamt**
-
-
-*    *   D1
-
-    *   1. ............................................................
-
-    *
-    *
-    *
-    *
-
-*    *   D2
-
-    *   2. ............................................................
-
-    *
-    *
-    *
-    *
-
-*    *   D3
-
-    *   3. ............................................................
-
-    *
-    *
-    *
-    *
-
-*    *   D4
-
-    *   4. ............................................................
-
-    *
-    *
-    *
-    *
-
-*    *
-    *   usw.
-
-    *
-    *
-    *
-    *
-
-*    *   D
-
-    *   **Gültige**                        Erststimmen insgesamt
-
-    *
-    *
-    *
-    *
-
-
-
-*    *   Ergebnis der Wahl nach Landeslisten ( **Zweitstimmen**                       )
-
-
-*    *   Summe
-        ![bgbl1_2020_j0199-1_0230.jpg](bgbl1_2020_j0199-1_0230.jpg)        +
-        ![bgbl1_2020_j0199-1_0240.jpg](bgbl1_2020_j0199-1_0240.jpg)        muss mit
-        ![bgbl1_2020_j0199-1_0250.jpg](bgbl1_2020_j0199-1_0250.jpg)        übereinstimmen.
-
-
-
-
-*    *
-    *
-    *   **ZS I**
-
-    *   **ZS II**
-
-    *   **ZS III**
-
-    *   **Insgesamt**
-
-
-*    *   E
-
-    *   **Ungültige**                        Zweitstimmen
-
-    *
-    *
-    *
-    *
-
-
-
-   **Gültige**              Zweitstimmen:
-
-*    *
-    *   Von den **gültigen**                        Zweitstimmen entfielen auf die Landesliste der
-        (Kurzbezeichnung der Partei – laut Stimmzettel –)
-
-    *   **ZS I**
-
-    *   **ZS II**
-
-    *   **ZS III**
-
-    *   **Insgesamt**
-
-
-*    *   F1
-
-    *   1. ............................................................
-
-    *
-    *
-    *
-    *
-
-*    *   F2
-
-    *   2. ............................................................
-
-    *
-    *
-    *
-    *
-
-*    *   F3
-
-    *   3. ............................................................
-
-    *
-    *
-    *
-    *
-
-*    *   F4
-
-    *   4. ............................................................
-
-    *
-    *
-    *
-    *
-
-*    *
-    *   usw.
-
-    *
-    *
-    *
-    *
-
-*    *   F
-
-    *   **Gültige**                        Zweitstimmen insgesamt
-
-    *
-    *
-    *
-    *
-
-
-
-
-*    *   **5.**
-
-    *   **Abschluss der Wahlergebnisfeststellung**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **5.1**
-
-    *   Besondere Vorkommnisse bei der
-        **Ergebnisfeststellung**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Bei der Ermittlung und Feststellung des Wahlergebnisses waren als besondere Vorkommnisse zu verzeichnen:
-
-    *
-    *   ............................................................
-        ............................................................
-
-    *
-
-*    *
-    *   Der Briefwahlvorstand fasste in diesem Zusammenhang folgende Beschlüsse:
-
-    *
-    *   ............................................................
-        ............................................................
-
-    *
-
-*    *   **5.2**
-
-    *   **Erneute Zählung**
-
-    *
-    *
-    *
-
-*    *
-    *   (Wenn keine Nachzählung stattgefunden hat, ist der gesamte Abschnitt 5.2 zu streichen.)
-
-    *
-    *
-    *
-
-*    *
-    *   Das/Die Mitglied(er) des Briefwahlvorstandes
-
-    *
-    *   ............................................................,
-        (Vor- und Familienname)
-
-    *
-
-*    *
-    *   beantragte(n) vor Unterzeichnung der Wahlniederschrift eine erneute Zählung der Stimmen, weil
-
-    *
-    *   ............................................................
-        ............................................................
-        ............................................................
-        (Angabe der Gründe)
-
-    *
-
-*    *
-    *   Daraufhin wurde der Zählvorgang (vgl. Abschnitt 3.3) wiederholt. Das in Abschnitt 4 der Wahlniederschrift enthaltene Wahlergebnis für den Wahlbezirk wurde
-
-    *
-    *   (Bitte Zutreffendes ankreuzen:)
-
-    *
-
-*    *
-    *
-    *   *
-
-    *   mit dem gleichen Ergebnis erneut festgestellt
-
-    *
-
-*    *
-    *
-    *
-    *   *
-
-    *   berichtigt
-        (Die berichtigten Zahlen sind in Abschnitt 4 mit anderer Farbe oder auf andere Weise kenntlich zu machen. Alte Zahlenangaben nicht löschen oder radieren.)
-
-    *
-
-*    *
-    *   und vom Briefwahlvorsteher mündlich bekannt gegeben.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **5.3**
-
-    *   **Schnellmeldung**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Das Wahlergebnis aus Abschnitt 4 wurde auf den Vordruck für die Schnellmeldung nach dem Muster der Anlage 28 zur Bundeswahlordnung übertragen und
-
-    *
-    *   auf schnellstem Wege (z. B. telefonisch)
-
-    *
-
-*    *
-    *
-    *
-    *   ............................................................
-        (Bitte Art der Übermittlung eintragen)
-
-    *
-
-*    *
-    *
-    *
-    *   an ............................................................
-        (Bitte Empfänger eintragen)
-
-    *
-
-*    *
-    *
-    *
-    *   übermittelt.
-
-    *
-
-*    *   **5.4**
-
-    *   **Anwesenheit des Briefwahlvorstandes**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Während der Wahlhandlung waren immer mindestens drei, während der Ermittlung und Feststellung des Briefwahlergebnisses mindestens fünf Mitglieder des Briefwahlvorstandes, darunter jeweils der Briefwahlvorsteher und der Schriftführer oder ihre Stellvertreter, anwesend.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **5.5**
-
-    *   Öffentlichkeit der Wahlbriefzulassung und
-        **Ergebnisfeststellung**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Die Zulassung der Wahlbriefe sowie die Ermittlung und die Feststellung des Wahlergebnisses waren öffentlich.
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   **5.6**
-
-    *   **Versicherung zur Richtigkeit der Niederschrift**
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Vorstehende Niederschrift wurde von den Mitgliedern des Wahlvorstandes genehmigt und von ihnen unterschrieben.
-
-    *
-    *
-    *
-    *
-    *
-
-
-
-
-*    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *   **Ort und Datum**
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   **Der Briefwahlvorsteher**
-
-    *
-    *   **Die übrigen Beisitzer**
-
-    *
-
-*    *
-
-*    *
-    *   **Der Stellvertreter**
-
-    *
-    *
-    *
-
-*    *
-
-*    *
-    *   **Der Schriftführer**
-
-    *
-    *
-    *
-
-*    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   **5.7**
-
-    *   **Verweigerung der Unterschrift und Angabe von Gründen**
-
-    *
-    *
-    *
-
-*    *
-    *   Das/Die Mitglied(er) des Briefwahlvorstandes verweigerte(n) die Unterschrift unter der Wahlniederschrift, weil
-
-    *
-    *   ............................................................
-        (Vor- und Familienname)
-
-    *
-
-*    *
-    *
-    *
-    *   ............................................................
-        ............................................................
-        ............................................................
-        (Angabe der Gründe)
-
-    *
-
-*    *   **5.8**
-
-    *   **Bündelung von Stimmzetteln, Stimmzettelumschlägen und Wahlscheinen**
-
-    *
-    *
-    *
-
-*    *
-    *   Nach Schluss des Wahlgeschäfts wurden alle Stimmzettel, Stimmzettelumschläge und Wahlscheine, die nicht dieser Wahlniederschrift als Anlagen beigefügt sind, wie folgt geordnet, gebündelt und in Papier verpackt (abweichend bei Punkt 3.2.2):
-
-    *
-    *
-        a)  Ein Paket mit den Stimmzetteln, die nach den für die Wahlkreisbewerber abgegebenen Stimmen geordnet und gebündelt sind,
-
-
-        b)  ein Paket mit den Stimmzetteln, auf denen nur die Zweitstimme abgegeben worden war,
-
-
-        c)  ein Paket mit den ungekennzeichneten Stimmzetteln,
-
-
-        d)  ein Paket mit den leer abgegebenen Stimmzettelumschlägen sowie
-
-
-        e)  ein Paket mit den eingenommenen Wahlscheinen.
-
-
-
-
-    *
-
-*    *
-    *   Die Pakete wurden versiegelt und mit der Nummer des Briefwahlvorstandes sowie der Inhaltsangabe versehen.
-
-    *
-    *
-    *
-
-*    *   **5.9**
-
-    *   **Übergabe der Wahlunterlagen**
-
-    *
-    *
-    *
-
-*    *
-    *   Dem Beauftragten des/der
-
-    *
-    *   (Bitte eintragen, z. B. Gemeindebehörde)
-
-    *
-
-*    *
-    *
-    *
-    *   ............................................................
-
-    *
-
-*    *
-    *   wurden
-
-    *
-    *   am .......... , um .......... Uhr, übergeben
-
-    *
-
-
-
-
-*    *
-    *
-    *
-    *
-        –   diese Wahlniederschrift mit Anlagen,
-
-
-        –   die Pakete wie in Abschnitt 5.8 beschrieben,
-
-
-        –   das/die Verzeichnis/Verzeichnisse der für ungültig erklärten Wahlscheine samt Nachträgen/die Mitteilung, dass Wahlscheine nicht für ungültig erklärt worden sind,
-
-
-        –   die Wahlurne – mit Schloss und Schlüssel – sowie
-
-
-        –   alle sonstigen dem Briefwahlvorstand von dem/der
-
-            (Bitte eintragen, z. B. Gemeindebehörde)
-
-            ............................................................
-
-            zur Verfügung gestellten Gegenstände und Unterlagen.
-
-
-
-
-    *
-
-*    *
-    *   Der Briefwahlvorsteher
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   ............................................................
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-        *            *
-            *
-
-
-   **
-
-        *            *
-            *
-
-
-   **
-
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   Vom Beauftragten des/der ....................  wurde die Wahlniederschrift mit allen darin verzeichneten
-        Anlagen am .........., um .......... Uhr, auf Vollständigkeit überprüft und übernommen.
-
-    *
-
-*    *
-    *   ............................................................
-        (Unterschrift des Beauftragten)
-
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   **Achtung:**                        Es ist sicherzustellen, dass die Wahlniederschrift mit den Anlagen sowie die Pakete mit den weiteren Unterlagen Unbefugten nicht zugänglich sind.
-
-    *
-
-
-
-   Eintragung je nachdem, ob der Briefwahlvorstand auf der Ebene des Wahlkreises, eines Kreises oder einer oder mehrerer Gemeinden eingesetzt ist.
-[^f810550_13_BJNR017690985BJNE014111377]: 
-
-### Anlage 32 (zu § 76 Abs. 6)
-
-(Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 65 - 67
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-Wahlkreis .....................................................................................
-
-Niederschrift
-über die Sitzung des Kreiswahlausschusses
-zur Ermittlung und Feststellung des Wahlergebnisses im Wahlkreis
-**der Wahl zum Deutschen Bundestag**
-## am ................................................................
-
-
-*    *   1.
-
-    *   Zur Ermittlung und Feststellung der Ergebnisse der Bundestagswahl
-        im Wahlkreis ...........................................................................................................................................................................................................................................................................
-        (Nummer und Name)
-
-
-*    *
-    *   trat heute nach ordnungsgemäßer Ladung der Kreiswahlausschuss zusammen.
-
-
-*    *
-    *   Es waren erschienen:
-
-    *
-    *
-
-*    *
-    *   1.   ..............................................................................................................................
-
-    *   als Vorsitzender/als stellvertretender Vorsitzender
-
-    *
-
-*    *
-    *   2.   ..............................................................................................................................
-
-    *   als Beisitzer
-
-    *
-
-*    *
-    *   3.   ..............................................................................................................................
-
-    *   als Beisitzer
-
-    *
-
-*    *
-    *   4.   ..............................................................................................................................
-
-    *   als Beisitzer
-
-    *
-
-*    *
-    *   5.   ..............................................................................................................................
-
-    *   als Beisitzer
-
-    *
-
-*    *
-    *   6.   ..............................................................................................................................
-
-    *   als Beisitzer
-
-    *
-
-*    *
-    *   7.   ..............................................................................................................................
-        (Familienname, Vorname, Wohnort)
-
-    *   als Beisitzer
-
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *
-    *   Ferner waren zugezogen:
-
-    *
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *
-    *   ....................................................................................................................................
-
-    *   als Schriftführer sowie
-
-    *
-
-*    *
-    *   ............................................................................................................................ und
-
-    *
-    *
-
-*    *
-    *   ....................................................................................................................................
-
-    *   als Hilfskräfte
-
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *
-    *   Ort und Zeit der Sitzung sowie die Tagesordnung waren nach § 5 Abs. 3 in Verbindung mit § 86 Abs. 2 der Bundeswahlordnung öffentlich bekannt gemacht worden.
-
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *   2.
-
-    *   Dem Kreiswahlausschuss lagen insgesamt ........................ Wahlniederschriften der Wahlvorstände für insgesamt ..................... Wahlbezirke
-        (Zahl)
-        (Zahl)
-
-    *
-
-*    *
-    *   (davon ........................ Wahlvorstände für ..................... allgemeine Wahlbezirke,
-        (Zahl)                                                                 (Zahl)
-
-    *
-
-*    *
-    *   ........................ Wahlvorstände für ..................... Sonderwahlbezirke,
-
-    *
-
-*    *
-    *   (Zahl)                                                                 (Zahl)
-
-    *
-
-*    *
-    *   ........................ Wahlvorstände zur Feststellung des Briefwahlergebnisses im Wahlkreis)
-
-    *
-
-*    *
-    *   (Zahl)
-
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *
-    *   und die als Anlage beigefügte Zusammenstellung der Ergebnisse nach Wahlbezirken und Gemeinden zur Einsichtnahme vor.
-
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *   2.1
-
-    *[^BJNR017690985BJNE014205377_01]
-   Der Kreiswahlausschuss ermittelte, dass die Beschlüsse der Wahlvorstände zu folgenden - keinen
-        Beanstandungen oder Bedenken Anlass gaben:
-
-    *
-
-*    *
-    *   .....................................................................................................................................................................................................................................................................................................
-
-    *
-
-*    *
-    *   .....................................................................................................................................................................................................................................................................................................
-
-    *
-
-*    *
-    *[^BJNR017690985BJNE014205377_02]
-   Der Kreiswahlausschuss traf dazu folgende Entscheidungen:
-
-    *
-
-*    *
-    *   .....................................................................................................................................................................................................................................................................................................
-
-    *
-
-*    *
-    *   .....................................................................................................................................................................................................................................................................................................
-
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *   2.2
-
-    *   Der Kreiswahlausschuss nahm rechnerische Berichtigungen in der Wahlniederschrift
-
-    *
-
-*    *
-    *   - des Wahlvorstandes ............................................................................................................................................................................................................................................................
-        (nähere Bezeichnung)
-
-    *
-
-*    *
-    *   - des Briefwahlvorstandes ......................................................................................................................................................................................................................................................
-        (nähere Bezeichnung)
-
-    *
-
-*    *
-    *   vor und vermerkte dies auf der (den) betreffenden Wahlniederschrift(en).
-
-    *
-
-*    *
-    *
-    *
-    *
-
-*    *   2.3
-
-    *   Der Kreiswahlausschuss beschloß abweichend von den Entscheidungen
-
-    *
-
-*    *
-    *   - des Wahlvorstandes über die Gültigkeit von Stimmen im Wahlbezirk
-
-    *
-
-*    *
-    *   .....................................................................................................................................................................................................................................................................................................
-        (nähere Bezeichnung)
-
-    *
-
-*    *
-    *   - des Briefwahlvorstandes über die Gültigkeit von Stimmen
-
-    *
-
-*    *
-    *   .....................................................................................................................................................................................................................................................................................................
-        (nähere Bezeichnung)
-
-    *
-
-*    *
-    *   und vermerkte dies auf der (den) betreffenden Wahlniederschrift(en) sowie auf der Rückseite der betreffenden Stimmzettel.
-        Nicht aufgeklärt werden konnten folgende Bedenken.
-
-    *
-
-*    *
-    *   .....................................................................................................................................................................................................................................................................................................
-
-    *
-
-*    *
-    *   .....................................................................................................................................................................................................................................................................................................
-
-    *
-
-
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   3.
-
-    *   Die Aufrechnung der Ergebnisse sämtlicher Wahlbezirke einschließlich des Ergebnisses der Briefwahl ergab folgende Gesamtergebnisse für den Wahlkreis:
-
-
-*    *
-    *
-        *            *   Kennbuchstabe
-
-
-
-
-    *[^BJNR017690985BJNE014205377_03]
-
-    *
-    *
-    *
-
-*    *
-    *
-        *            *   A
-
-
-
-
-    *   Wahlberechtigte
-
-    *
-    *   ......................................................................
-
-    *
-
-*    *
-    *
-        *            *   B
-
-
-
-
-    *   Wähler
-
-    *
-    *   ......................................................................
-
-    *
-
-*    *
-    *
-        *            *   C
-
-
-
-
-    *   Ungültige Erststimmen
-
-    *
-    *   ......................................................................
-
-    *
-
-*    *
-    *
-        *            *   D
-
-
-
-
-    *   Gültige Erststimmen
-
-    *
-    *   ......................................................................
-
-    *
-
-*    *
-    *
-    *   Von den gültigen Erststimmen entfielen auf
-
-    *
-    *
-    *
-
-*    *
-    *
-    *   Bewerber
-        (Vor- und Familienname)
-
-    *   Kurzbezeichnung der Partei/
-        bei anderen Kreiswahl-
-        vorschlägen das Kennwort
-
-    *   Erststimmen
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-        *            *   D1
-
-
-
-
-    *   1. .............................................................
-
-    *   ...........................................................................................
-
-    *   ....................................................
-
-    *
-
-*    *
-    *
-        *            *   D2
-
-
-
-
-    *   2. .............................................................
-
-    *   ...........................................................................................
-
-    *   ....................................................
-
-    *
-
-*    *
-    *
-        *            *   D3
-
-
-
-
-    *   3. .............................................................
-        (usw. laut Stimmzettel)
-
-    *   ...........................................................................................
-
-    *   ....................................................
-
-    *
-
-*    *
-    *
-        *            *   E
-
-
-
-
-    *   Ungültige Zweitstimmen
-
-    *
-    *
-    *
-
-*    *
-    *
-        *            *   F
-
-
-
-
-    *   Gültige Zweitstimmen
-
-    *
-    *
-    *
-
-*    *
-    *
-    *   Von den gültigen Zweitstimmen entfielen auf
-
-    *
-
-*    *
-    *
-    *   Landesliste (Kurzbezeichnung der Partei)
-
-    *
-    *   Zweitstimmen
-
-    *
-
-*    *
-    *
-        *            *   F1
-
-
-
-
-    *   1. .....................................................................................................................................................................
-
-    *   ....................................................
-
-    *
-
-*    *
-    *
-        *            *   F2
-
-
-
-
-    *   2. .....................................................................................................................................................................
-
-    *   ....................................................
-
-    *
-
-*    *
-    *
-        *            *   F3
-
-
-
-
-    *   3. .....................................................................................................................................................................
-        (usw. laut Stimmzettel)
-
-    *   ....................................................
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   4.
-
-    *[^BJNR017690985BJNE014205377_04]
-   Nach der Feststellung der Gesamtergebnisse wurde die als Anlage zu dieser Niederschrift beigefügte Zusammenstellung
-        nach Wahlbezirken, Gemeinden, Kreisen und Briefwahlvorständen vom Kreiswahlleiter, von den Beisitzern und vom Schriftführer unterschrieben.
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   5.
-
-    *   Der Kreiswahlausschuss stellte fest, dass der Bewerber ............................................................................................................................................................................................
-
-    *
-
-*    *
-    *   (Kreiswahlvorschlag Nr. ............................) die meisten Stimmen auf sich vereinigt und damit im Wahlkreis gewählt ist.
-
-    *
-
-*    *
-    *   Der Kreiswahlausschuss stellte fest, dass der Bewerber ............................................................................................................................................................................................
-
-    *
-
-*    *
-    *   (Kreiswahlvorschlag Nr. ............................) und der Bewerber .....................................................................................................................................................................................
-
-    *
-
-*    *
-    *   (Kreiswahlvorschlag Nr. ............................) die meisten Stimmen bei Stimmengleichheit auf sich vereinigen.
-
-    *
-
-*    *
-    *   Daraufhin zog der Kreiswahlleiter das Los, das auf den Bewerber .............................................................................................................................................................................
-
-    *
-
-*    *
-    *   (Kreiswahlvorschlag Nr. ............................) fiel.
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   6.
-
-    *   Da auf Grund der Wahl des Bewerbers ......................................................................... die Voraussetzungen des § 6 Abs. 1 Satz 2 des Bundeswahlgesetzes vorlagen, wurde anhand der angeforderten Stimmzettel und der den Wahlniederschriften beigefügten gültigen Stimmzettel, auf denen die Erststimme für den gewählten Bewerber abgegeben worden war, ermittelt, für welche Landeslisten diese Wähler ihre Zweitstimmen abgegeben haben. Der Kreiswahlausschuss stellte fest:
-
-    *
-
-*    *
-    *   Zahl der für den Bewerber abgegebenen gültigen Erststimmen
-
-    *
-    *   ............................................
-
-    *
-
-*    *
-    *   Auf diesen Stimmzetteln wurden abgegeben:
-
-    *
-    *
-    *
-
-*    *
-    *   Ungültige Zweitstimmen
-
-    *
-    *   ............................................
-
-    *
-
-*    *
-    *   Gültige Zweitstimmen
-
-    *
-    *   ............................................
-
-    *
-
-*    *
-    *   Von den gültigen Zweitstimmen entfielen auf
-
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   1. ................................................................................................................................................................................
-
-    *   ............................................
-
-    *
-
-*    *
-    *   2. ................................................................................................................................................................................
-
-    *   ............................................
-
-    *
-
-*    *
-    *   3. ................................................................................................................................................................................
-        usw.
-        (Bezeichnung der Landeslisten)
-
-    *   ............................................
-
-    *
-
-*    *
-    *   und sind bei diesen Landeslisten abzusetzen.
-
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   7.
-
-    *   Der Kreiswahlleiter gab das Wahlergebnis des Wahlkreises mündlich bekannt.
-
-    *
-
-*    *
-    *   Die Sitzung war öffentlich.
-
-    *
-
-*    *
-    *   Vorstehende Niederschrift wurde vom Kreiswahlleiter, den Beisitzern und dem Schriftführer genehmigt und wie folgt unterschrieben:
-
-    *
-
-*    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *   ....................................., den ............................
-        (Ort)
-
-    *
-
-*    *
-    *
-    *
-
-*    *
-    *   Der Kreiswahlleiter
-
-    *
-    *   Die Beisitzer
-
-    *
-
-*    *
-    *
-    *
-    *   1. ................................................................
-
-    *
-
-*    *
-    *   .........................................................................................
-
-    *
-    *   2. ................................................................
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   3. ................................................................
-
-    *
-
-*    *
-    *   Der Schriftführer
-
-    *
-    *   4. ................................................................
-
-    *
-
-*    *
-    *
-    *
-    *   5. ................................................................
-
-    *
-
-*    *
-    *   .........................................................................................
-
-    *
-    *   6. ................................................................
-
-    *
-
-
-   _\_\__\_\__\_\__\_\__\_\__\_\__
-
-    Nichtzutreffendes streichen.
-[^BJNR017690985BJNE014205377_01]:     Streichen, wenn dies nicht erforderlich war.
-[^BJNR017690985BJNE014205377_02]:     Kennbuchstabe nach der Zusammenstellung in Anlage 30 zur Bundeswahlordnung.
-[^BJNR017690985BJNE014205377_03]:     Nach dem Muster der Anlage 30 zur Bundeswahlordnung.
-[^BJNR017690985BJNE014205377_04]: 
 
 ### Anlage 33 (zu § 77 Abs. 4)
 
@@ -15052,7 +8407,7 @@ Niederschrift
 *    *
     *   8.   ..............................................................................................................................
 
-    *[^BJNR017690985BJNE014306377_01]
+    *[^BJNR017690985BJNE014306377_01_BJNR017690985BJNE014307126]
    als in den Ausschuss berufener Richter des ................
 
     *
@@ -15135,7 +8490,18 @@ Niederschrift
 
 *    *   2.1
 
-    *[^BJNR017690985BJNE014306377_02]
+    *   Nach den Wahlniederschriften waren besondere Vorkommnisse zu verzeichnen, die der Anlage zu entnehmen sind.
+
+    *
+
+*    *
+    *
+    *
+    *
+
+*    *   2.2
+
+    *[^BJNR017690985BJNE014306377_02_BJNR017690985BJNE014307126]
    Der Landeswahlausschuss ermittelte, dass die Niederschriften der Kreiswahlausschüsse zu folgenden - keinen
         Beanstandungen oder Bedenken Anlass gaben:
 
@@ -15152,7 +8518,7 @@ Niederschrift
     *
 
 *    *
-    *[^BJNR017690985BJNE014306377_03]
+    *[^BJNR017690985BJNE014306377_03_BJNR017690985BJNE014307126]
    Der Landeswahlausschuss traf dazu folgende Entscheidungen:
 
     *
@@ -15172,7 +8538,7 @@ Niederschrift
     *
     *
 
-*    *   2.2
+*    *   2.3
 
     *   Der Landeswahlausschuss nahm rechnerische Berichtigungen
         in der Wahlniederschrift
@@ -15223,7 +8589,7 @@ Niederschrift
 
 
 
-    *[^BJNR017690985BJNE014306377_04]
+    *[^BJNR017690985BJNE014306377_04_BJNR017690985BJNE014307126]
 
     *
     *
@@ -15278,7 +8644,7 @@ Niederschrift
 
 
 
-    *[^BJNR017690985BJNE014306377_05]
+    *[^BJNR017690985BJNE014306377_05_BJNR017690985BJNE014307126]
    Gültige Zweitstimmen
 
     *
@@ -15358,7 +8724,54 @@ Niederschrift
 
 *    *   4.
 
-    *[^BJNR017690985BJNE014306377_06]
+    *   Vorläufig als gewählt werden folgende Bewerber festgestellt: Vorläufig gewählte Wahlkreisbewerber:
+
+    *
+
+*    *
+    *
+    *   ........................................................................................................................................................
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   (Familienname, Vornamen des Bewerbers sowie Name der Partei und ihre Kurzbezeichnung/bei anderen Kreiswahlvorschlägen das Kennwort)
+        usw.
+        Vorläufig gewählte Landeslistenbewerber:
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   ........................................................................................................................................................
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   (Familienname, Vornamen des Bewerbers sowie Name der Partei und ihre Kurzbezeichnung)
+
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   5.
+
+    *[^BJNR017690985BJNE014306377_06_BJNR017690985BJNE014307126]
    Nach der Feststellung des Gesamtergebnisses wurde die als Anlage zu dieser Niederschrift beigefügte Zusammenstellung
         nach Wahlkreisen vom Landeswahlleiter, von den Beisitzern und vom Schriftführer unterschrieben.
 
@@ -15371,7 +8784,7 @@ Niederschrift
     *
     *
 
-*    *   5.
+*    *   6.
 
     *   Der Landeswahlleiter gab das Wahlergebnis des Landes mündlich bekannt.
 
@@ -15490,9 +8903,9 @@ Niederschrift
    _\_\__\_\__\_\__\_\__\_\__\_\_\_\_
 
     Bezeichnung des Oberverwaltungsgerichts des Landes einsetzen.
-[^BJNR017690985BJNE014306377_01]:     Nichtzutreffendes streichen.
-[^BJNR017690985BJNE014306377_02]:     Streichen, wenn dies nicht erforderlich war.
-[^BJNR017690985BJNE014306377_03]:     Kennbuchstabe nach der Zusammenstellung in Anlage 30 zur Bundeswahlordnung.
-[^BJNR017690985BJNE014306377_04]:     Im Falle des § 6 Abs. 1 Satz 2 des Bundeswahlgesetzes sind die "bereinigten" Zahlen anzugeben.
-[^BJNR017690985BJNE014306377_05]:     Nach dem Muster der Anlage 30 zur Bundeswahlordnung.
-[^BJNR017690985BJNE014306377_06]: 
+[^BJNR017690985BJNE014306377_01_BJNR017690985BJNE014307126]:     Nichtzutreffendes streichen.
+[^BJNR017690985BJNE014306377_02_BJNR017690985BJNE014307126]:     Streichen, wenn dies nicht erforderlich war.
+[^BJNR017690985BJNE014306377_03_BJNR017690985BJNE014307126]:     Kennbuchstabe nach der Zusammenstellung in Anlage 30 zur Bundeswahlordnung.
+[^BJNR017690985BJNE014306377_04_BJNR017690985BJNE014307126]:     Im Falle des § 4 Absatz 2 Satz 2 Nummer 1 des Bundeswahlgesetzes sind die "bereinigten" Zahlen anzugeben.
+[^BJNR017690985BJNE014306377_05_BJNR017690985BJNE014307126]:     Nach dem Muster der Anlage 30 zur Bundeswahlordnung.
+[^BJNR017690985BJNE014306377_06_BJNR017690985BJNE014307126]: 
