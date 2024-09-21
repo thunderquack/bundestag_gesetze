@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2018, 1398 (2032)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 5.1.2022 I 2
-
-Änderung durch
-:   Art. 6 V v. 5.4.2023 II Nr. 105 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 V v. 5.4.2023 II Nr. 105
 
 Änderung durch
 :   Art. 4 V v. 23.7.2024 I Nr. 253 mWv 1.9.2024 noch nicht berücksichtigt

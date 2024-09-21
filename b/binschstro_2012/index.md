@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 2 (1666) [Anlageband]
 
 Zuletzt geändert durch
-:   Art. 2 V v. 8.9.2022 I 1499
-
-Änderung durch
-:   Art. 5 V v. 5.4.2023 II Nr. 105 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 V v. 5.4.2023 II Nr. 105
 
 Änderung durch
 :   Art. 2 V v. 18.3.2024 I Nr. 100, Nr. 115 mWv 1.5.2024 noch nicht berücksichtigt

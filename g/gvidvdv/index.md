@@ -16,8 +16,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2622
 
+V aufgeh. durch
+:   § 66 Satz 2 V 2030-8-5-29 v. 9.9.2024 I Nr. 284
+
 Zuletzt geändert durch
 :   Art. 6 V v. 15.12.2022 I 2862
+
+Ersetzt durch
+:   V 2030-8-5-29 v. 9.9.2024 I Nr. 284
 
 
 ## Eingangsformel

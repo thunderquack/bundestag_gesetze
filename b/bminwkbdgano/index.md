@@ -16,6 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2024, Nr. 269
 
+Stand: Ersetzt AnO 2031-4-30 v. 26.6.2009 I 2051 (BMinWiTBDGAnO 2009)
 
 ## Eingangsformel
 
