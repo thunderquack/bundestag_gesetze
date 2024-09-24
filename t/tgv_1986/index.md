@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 29.6.1999 I 1533;
 
 Zuletzt geändert durch
-:   Art. 12 V v. 8.1.2020 I 27
+:   Art. 1 V v. 18.9.2024 I Nr. 287
 
 
 ## § 1 Anwendungsbereich
@@ -198,7 +198,7 @@ nicht gewährt.
 
 ## § 5a Reisebeihilfe für Heimfahrten bei Einsatz im Rahmen von Unterstützungsmaßnahmen zur Bewältigung der steigenden Zahl von Asylbewerbern
 
-Berechtigte nach § 3, die zur Bewältigung der steigenden Zahl von Asylbewerbern für von der obersten Dienstbehörde beschlossene personelle Unterstützungsmaßnahmen eingesetzt werden, erhalten eine Reisebeihilfe für jede Woche. § 5 Absatz 1 Satz 2 bis 4 und Absatz 2 bis 4 bleibt im Übrigen unberührt.
+Berechtigte nach § 3, die zur Bewältigung der steigenden Zahl von Asylbewerbern für von der obersten Dienstbehörde beschlossene personelle Unterstützungsmaßnahmen eingesetzt werden, erhalten eine Reisebeihilfe für jede Woche. § 5 Absatz 2 bis 4 bleibt unberührt.
 
 
 ## § 5b
@@ -248,7 +248,7 @@ Berechtigte nach § 3, die zur Bewältigung der steigenden Zahl von Asylbewerber
 
 ## § 10 Anwendungsvorschrift
 
-§ 5a ist nur bis zum 31. Dezember 2023 anzuwenden.
+§ 5a ist bis einschließlich 31. Dezember 2028 anzuwenden.
 
 
 ## (XXXX) §§ 11 bis 15 (weggefallen)

@@ -15,7 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2024, Nr. 98
 
-Stand: Die V tritt gem. § 4 Abs. 1 u. 2 dieser V iVm Bek. v. 11.9.2024 I Nr. 282 am 1.9.2024 in Kraft u. mit Ablauf d. 31.8.2027 außer Kraft
+Stand: Die V tritt gem. § 4 Abs. 2 dieser V iVm Bek. v. 11.9.2024 I Nr. 282 mit Ablauf d. 31.8.2027 außer Kraft
 
 ## Eingangsformel
 

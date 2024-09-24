@@ -20,6 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 23.7.2024 I Nr. 253
 
+Änderung durch
+:   Art. 1 V v. 18.9.2024 I Nr. 286 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 

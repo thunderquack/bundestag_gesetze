@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.10.1998 I 3209; 1999 I 193;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 11.5.2023 I Nr. 127
+:   Art. 3 V v. 18.9.2024 I Nr. 286
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen

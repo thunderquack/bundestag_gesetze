@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 329
 
+Geändert durch
+:   Art. 2 V v. 18.9.2024 I Nr. 286
+
 
 ## § 1 Anwendungsbereich
 
