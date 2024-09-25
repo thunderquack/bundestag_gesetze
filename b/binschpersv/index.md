@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2021, 4982 (5204)
 
 Zuletzt geändert durch
-:   Art. 2 V v. 1.12.2022 I 2211
-
-Änderung durch
-:   Art. 3 V v. 5.4.2023 II Nr. 105 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 5.4.2023 II Nr. 105
 
 Änderung durch
 :   Art. 4 V v. 18.3.2024 I Nr. 100 mWv 1.5.2024 noch nicht berücksichtigt
@@ -520,8 +517,6 @@ Das örtlich zuständige Wasserstraßen- und Schifffahrtsamt kann erlauben, dass
 (5) Das Kleinschifferzeugnis berechtigt zum Führen von Fahrzeugen, die nicht in den Anwendungsbereich der Richtlinie (EU) 2017/2397 fallen und für die nach anderen Vorschriften kein Schifferzeugnis erforderlich ist. Die Fahrzeugart und das Fahrtgebiet, für die das jeweilige Kleinschifferzeugnis gilt, ist durch die zuständige Behörde bei seiner Erteilung festzulegen und auf dem Befähigungszeugnis zu vermerken. Zur Vermeidung unbilliger Härten kann die zuständige Behörde auf Antrag genehmigen, dass das Kleinschifferzeugnis vorübergehend auch zum Führen von Fahrzeugen berechtigt, die in den Anwendungsbereich der Richtlinie (EU) 2017/2397 fallen. Dies setzt den erfolgreichen Abschluss einer theoretischen Prüfung für das Unionspatent durch den Inhaber oder die Inhaberin des Kleinschifferzeugnisses voraus.
 
 (6) Die in den Absätzen 1 bis 5 genannten Befähigungszeugnisse gelten auch auf den Wasserstraßen der Zonen 1 und 2, wenn zusätzlich eine besondere Berechtigung für maritime Wasserstraßen vorliegt. Abweichend von Satz 1 gilt das Kleinschifferzeugnis im Falle des § 39 Absatz 1 Nummer 5 Buchstabe a Doppelbuchstabe aa nur für Wasserstraßen der Zonen 1 und 2.
-
-(7) (weggefallen)
 
 
 #### § 16 Besondere Berechtigungen für das Führen von Fahrzeugen
@@ -7283,7 +7278,7 @@ Die Risikominderungsmaßnahmen und Beschränkungen können kombiniert werden. Be
 
 ### Anlage 6a Voraussetzungen und Verfahren für die Zulassung und die Verlängerung der Zulassung von Ärzten und Ärztinnen
 
-(Fundstelle: BGBl. 2023 II Nr. 105, 16)
+(Fundstelle: BGBl. 2023 II Nr. 105, 16 - 18)
 
 
 *    *   **Abschnitt 1: Voraussetzungen für die Zulassung von Ärzten und Ärztinnen**
@@ -7679,7 +7674,7 @@ Die Risikominderungsmaßnahmen und Beschränkungen können kombiniert werden. Be
 
 ### Anhang 1 zu Anlage 6a Muster des Antragsformulars
 
-(Fundstelle: BGBl. 2023 II Nr. 105, 19)
+(Fundstelle: BGBl. 2023 II Nr. 105, 19 - 21)
 
 ### Muster des Antragsformulars
 
@@ -7951,48 +7946,38 @@ Antrag auf Zulassung nach § 24 Abs. 2 der Binnenschiffspersonalverordnung (BinS
     *
     *
 
-
-
-*    *   Nr.
-
-    *   Angaben/Nachweise
-        gem. Abschnitt 1 der Anlage 6a
-        zu § 24 Abs. 2 BinSchPersV
-
-    *   Angaben
-
-    *   Beleg;
-        Seitenzahl
-        der Anlage
-
-
 *    *
     *   Gehöruntersuchung
 
     *
     *
 
-*    *   Ich verfüge über eine Hörprüfkabine gem. DIN EN ISO 8253-1
+*    *
+    *   Ich verfüge über eine Hörprüfkabine gem. DIN EN ISO 8253-1
 
     *
     *
 
-*    *   Über welche Audiometrie-Einrichtung, die die Norm nach ISO-8253-1:2010 erfüllt, verfügen Sie?
+*    *
+    *   Über welche Audiometrie-Einrichtung, die die Norm nach ISO-8253-1:2010 erfüllt, verfügen Sie?
 
     *
     *
 
-*    *   • Fabrikat/Hersteller
+*    *
+    *   • Fabrikat/Hersteller
 
     *
     *
 
-*    *   • Typ
+*    *
+    *   • Typ
 
     *
     *
 
-*    *   • Baujahr
+*    *
+    *   • Baujahr
 
     *
     *
@@ -8108,7 +8093,7 @@ _\_\__\_\__\_\__
 
 ### Anhang 2 zu Anlage 6a Muster für den Zulassungsbescheid
 
-(Fundstelle: BGBl. 2023 II Nr. 105, 22)
+(Fundstelle: BGBl. 2023 II Nr. 105, 22 - 23)
 
 ### Zulassung
 
@@ -18943,5 +18928,10 @@ Visuelle Merkmale des Befähigungszeugnisses: Grundfarbe hellblau, nach ISO/IEC 
 (zu § 137 Absatz 2)
 
 ### Anlage 32 (weggefallen)
+
+
+(zu § 138)
+
+### Anlage 33 (weggefallen)
 
 

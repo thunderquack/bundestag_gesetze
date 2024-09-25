@@ -407,8 +407,7 @@ Zum Besitz von Kernbrennstoffen berechtigt auch eine Anordnung nach § 19 Abs. 3
 
 (1) Wer eine ortsfeste Anlage zur Erzeugung oder zur Bearbeitung oder Verarbeitung oder zur Spaltung von Kernbrennstoffen oder zur Aufarbeitung bestrahlter Kernbrennstoffe errichtet, betreibt oder sonst innehat oder die Anlage oder ihren Betrieb wesentlich verändert, bedarf der Genehmigung. Für die Errichtung und den Betrieb von Anlagen zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität und von Anlagen zur Aufarbeitung bestrahlter Kernbrennstoffe werden keine Genehmigungen erteilt. Dies gilt nicht für wesentliche Veränderungen von Anlagen oder ihres Betriebs.
 
-(1a)
-Die Berechtigung zum Leistungsbetrieb einer Anlage zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität erlischt, wenn die in Anlage 3 Spalte 2 für die Anlage aufgeführte Elektrizitätsmenge oder die sich auf Grund von Übertragungen nach Absatz 1b ergebende Elektrizitätsmenge erzeugt ist, jedoch spätestens
+(1a) Die Berechtigung zum Leistungsbetrieb einer Anlage zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität erlischt, wenn die in Anlage 3 Spalte 2 für die Anlage aufgeführte Elektrizitätsmenge oder die sich auf Grund von Übertragungen nach Absatz 1b ergebende Elektrizitätsmenge erzeugt ist, jedoch spätestens
 
 1.  mit Ablauf des 6. August 2011 für die Kernkraftwerke Biblis A, Neckarwestheim 1, Biblis B, Brunsbüttel, Isar 1, Unterweser, Philippsburg 1 und Krümmel,
 

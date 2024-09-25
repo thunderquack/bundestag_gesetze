@@ -551,7 +551,7 @@ Für die Verjährung der Ansprüche auf Künstlersozialabgabe gilt § 25 des Vie
 
 ##### § 34
 
-(1) Der Zuschuss des Bundes beträgt für das Kalenderjahr 20 vom Hundert der Ausgaben der Künstlersozialkasse. Überzahlungen sind mit dem Bundeszuschußss des übernächsten Jahres zu verrechnen.
+(1) Der Zuschuss des Bundes beträgt für das Kalenderjahr 20 vom Hundert der Ausgaben der Künstlersozialkasse. Überzahlungen sind mit dem Bundeszuschuss des übernächsten Jahres zu verrechnen.
 
 (2) Der Bund trägt die Verwaltungskosten der Künstlersozialkasse.
 

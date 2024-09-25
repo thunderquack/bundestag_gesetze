@@ -119,10 +119,11 @@ Auf Grund des § 134 Absatz 3 Satz 17 und des § 139e Absatz 7 bis 9 des Fünfte
 25. den für die Nutzung der digitalen Gesundheitsanwendung vom Hersteller für erforderlich gehaltenen Tätigkeiten der Heilmittelerbringer oder Hebammen, sofern zutreffend, und
 
 
-26. den Daten aus Hilfsmitteln und Implantaten, die nach § 374a des Fünften Buches Sozialgesetzbuch von der digitalen Gesundheitsanwendung verarbeitet werden, und zu den Produktbezeichnungen der Hilfsmittel und Implantate, von denen Daten nach § 374a des Fünften Buches Sozialgesetzbuch an die digitale Gesundheitsanwendung übermittelt werden. Bei digitalen Gesundheitsanwendungen höherer Risikoklasse müssen die Angaben des Herstellers nach Satz 2 Nummer 9 bis 13 auch geeignet sein, den Nachweis eines medizinischen Nutzens zu führen.
+26. den Daten aus Hilfsmitteln und Implantaten, die nach § 374a des Fünften Buches Sozialgesetzbuch von der digitalen Gesundheitsanwendung verarbeitet werden, und zu den Produktbezeichnungen der Hilfsmittel und Implantate, von denen Daten nach § 374a des Fünften Buches Sozialgesetzbuch an die digitale Gesundheitsanwendung übermittelt werden.
 
 
 
+Bei digitalen Gesundheitsanwendungen höherer Risikoklasse müssen die Angaben des Herstellers nach Satz 2 Nummer 9 bis 13 auch geeignet sein, den Nachweis eines medizinischen Nutzens zu führen.
 
 (2) Der Hersteller kennzeichnet in seinem Antrag die Angaben nach Absatz 1, bei denen rechtliche Anforderungen an den Schutz der Betriebs- und Geschäftsgeheimnisse oder an den Schutz personenbezogener Daten oder des geistigen Eigentums einer Veröffentlichung entgegenstehen.
 
@@ -1859,7 +1860,8 @@ Im nachfolgend aufgeführten Fragenbogen ist durch den Hersteller die Erfüllung
 
 ### Anlage 2 Fragebogen gemäß den §§ 5 und 6
 
-(Fundstelle: BGBl. I 2020, 793 - 798)
+(Fundstelle: BGBl. I 2020, 793 - 798;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Im nachfolgend aufgeführten Fragenbogen ist durch den Hersteller die Erfüllung der Anforderungen nach den §§ 5 und 6 zu erklären. Der Hersteller bestätigt die Erfüllung der Anforderungen durch Kennzeichnung in der Spalte „zutreffend“ oder, sofern die dort jeweils genannte Begründung zutrifft, in der Spalte „nicht zutreffend“.
 

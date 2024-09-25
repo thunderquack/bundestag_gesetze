@@ -576,7 +576,7 @@ Haushaltskunden im Sinne des Energiewirtschaftsgesetzes können die Einwilligung
 
 
 [^f794956_02_BJNR203410016BJNE002303377]
-(2) Die Einhaltung des Standes der Technik im Sinne von Absatz 1 wird vermutet, wenn die in der Anlage aufgeführten Schutzprofile und Technischen Richtlinien des Bundesamtes für Sicherheit oder deren Weiterentwicklungen Informationstechnik in der jeweils in der geltenden Fassung eingehalten werden. Die jeweils geltende Fassung wird im Bundesanzeiger durch Verweis auf die Internetseite des Bundesamtes für Sicherheit in der Informationstechnik
+(2) Die Einhaltung des Standes der Technik im Sinne von Absatz 1 wird vermutet, wenn die in der Anlage aufgeführten Schutzprofile und Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik oder deren Weiterentwicklungen jeweils in der geltenden Fassung eingehalten werden. Die jeweils geltende Fassung wird im Bundesanzeiger durch Verweis auf die Internetseite des Bundesamtes für Sicherheit in der Informationstechnik
 bekannt gemacht.
 
 (3) Schutzprofile haben eine gültige Beschreibung von Bedrohungsmodellen und technische Vorgaben zur Gewährleistung von Datenschutz, Datensicherheit und Manipulationsresistenz zu enthalten und dazu Anforderungen an die Funktionalitäten eines Smart-Meter-Gateway zu beschreiben, die insbesondere folgende Mindestanforderungen enthalten
