@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2018, 1398 (2032)
 
 Zuletzt geändert durch
-:   Art. 6 V v. 5.4.2023 II Nr. 105
-
-Änderung durch
-:   Art. 4 V v. 23.7.2024 I Nr. 253 mWv 1.9.2024 noch nicht berücksichtigt
+:   Art. 4 V v. 23.7.2024 I Nr. 253
 
 [^F804091_01_BJNR139810018]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2016/1629 des Europäischen Parlaments und des Rates vom 14. September 2016 zur Festlegung technischer Vorschriften für Binnenschiffe, zur Änderung der Richtlinie 2009/100/EG und zur Aufhebung der Richtlinie 2006/87/EG (ABl. L 252 vom 16.9.2016, S. 118) und der Umsetzung der Delegierten Richtlinie (EU) 2018/970 der Kommission vom 18. April 2018 zur Änderung der Anhänge II, III und V der Richtlinie (EU) 2016/1629 des Europäischen Parlaments und des Rates zur Festlegung technischer Vorschriften für Binnenschiffe (ABl. L 174 vom 10.7.2018, S. 15).
 [^F804091_02_BJNR139810018]:     Diese Verordnung dient der Umsetzung der von der Zentralkommission für die Rheinschifffahrt am 7. Dezember 2017 geänderten Fassung der Rheinschiffsuntersuchungsordnung auf der Bundeswasserstraße Rhein angenommen mit Beschluss 2017-II-20 vom 7. Dezember 2017.
@@ -170,27 +167,22 @@ auf der Bundeswasserstraße Rhein in Kraft gesetzt.
         Rheinschifffahrtspolizeiverordnung (Anlage zu Artikel 1 der Verordnung zur Einführung der Rheinschifffahrtspolizeiverordnung vom 19. Dezember 1994 (BGBl. 1994 II S. 3816, Anlageband)), die zuletzt durch Artikel 1 der Verordnung vom 1. Mai 2018 (BGBl. 2018 II S. 170) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung,
 
 
-    b)  Donauschifffahrtspolizeiverordnung
-
-        Donauschifffahrtspolizeiverordnung vom 27. Mai 1993 und deren Anlage A (BGBl. I S. 741; 1994 I S. 523; 1995 I S. 95), die zuletzt durch Artikel 175 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung,
-
-
-    c)  Moselschifffahrtspolizeiverordnung
+    b)  Moselschifffahrtspolizeiverordnung
 
         Moselschifffahrtspolizeiverordnung (Anlage zu Artikel 1 der Verordnung zur Einführung der Moselschifffahrtspolizeiverordnung vom 3. September 1997 (BGBl. 1997 II S. 1670, Anlageband)), die zuletzt durch Artikel 3 der Verordnung vom 1. Mai 2018 (BGBl. 2018 II S. 170) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung,
 
 
-    d)  Binnenschifffahrtsstraßen-Ordnung
+    c)  Binnenschifffahrtsstraßen-Ordnung
 
         Anlage zu § 1 Absatz 1 der Verordnung zur Einführung der Binnenschifffahrtsstraßen-Ordnung vom 16. Dezember 2011 (BGBl. 2012 I S. 2, 1717), die zuletzt durch Artikel 2 § 2 der Verordnung vom 16. Dezember 2016 (BGBl. I S. 2948) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung,
 
 
-    e)  Seeschifffahrtsstraßen-Ordnung
+    d)  Seeschifffahrtsstraßen-Ordnung
 
         Seeschifffahrtsstraßen-Ordnung in der Fassung der Bekanntmachung vom 22. Oktober 1998 (BGBl. I S. 3209; 1999 I S. 193), die zuletzt durch Artikel 2 § 3 der Verordnung vom 29. November 2016 (BGBl. I S. 2668) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung,
 
 
-    f)  Schifffahrtsordnung Emsmündung
+    e)  Schifffahrtsordnung Emsmündung
 
         Verordnung zur Einführung der Schifffahrtsordnung Emsmündung vom 8. August 1989 (BGBl. I S. 1583), die zuletzt durch Artikel 63 der Verordnung vom 2. Juni 2016 (BGBl. I S. 1257) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung, und Anlage A zu dem deutsch-niederländischen Abkommen vom 22. Dezember 1986 über die Schifffahrtsordnung in der Emsmündung (BGBl. 1987 II S. 141, 142, 144), das zuletzt durch das deutsch-niederländische Abkommen vom 5. April 2001 (BGBl. 2001 II S. 1049, 1050) geändert worden ist, in der jeweils geltenden Fassung.
 

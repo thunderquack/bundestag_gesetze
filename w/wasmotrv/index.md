@@ -15,10 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 769
 
-Stand: Zuletzt geändert Art. 3 V v. 31.10.2019 I 1518
-Änderung durch
-:   Art. 6 V v. 23.7.2024 I Nr. 253 mWv 1.9.2024 noch nicht berücksichtigt
-
+Stand: Zuletzt geändert Art. 6 V v. 23.7.2024 I Nr. 253
 
 ## Eingangsformel
 
@@ -59,10 +56,7 @@ Im Sinne dieser Verordnung sind
 
     c)  Moselschifffahrtspolizeiverordnung
 
-        Moselschifffahrtspolizeiverordnung (Anlage zu Artikel 1 Absatz 1 der Verordnung zur Einführung der Moselschifffahrtspolizeiverordnung vom 3. September 1997 (BGBl. 1997 II S. 1670)), die zuletzt durch Beschluss vom 3. Dezember 2010 (BGBl. 2011 II S. 1318) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung,
-
-
-    d)  Donauschifffahrtspolizeiverordnung vom 27. Mai 1993 und deren Anlage A (BGBl. I S. 741; 1994 I S. 523; 1995 I S. 95), die zuletzt durch Artikel 3 § 7 der Verordnung vom 19. Dezember 2008 (BGBl. I S. 2868; 2010 I S. 380) geändert worden ist, in der jeweils geltenden und anzuwenden Fassung,
+        Moselschifffahrtspolizeiverordnung (Anlage zu Artikel 1 Absatz 1 der Verordnung zur Einführung der Moselschifffahrtspolizeiverordnung vom 3. September 1997 (BGBl. 1997 II S. 1670)), die zuletzt durch Beschluss vom 3. Dezember 2010 (BGBl. 2011 II S. 1318) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung.
 
 
 

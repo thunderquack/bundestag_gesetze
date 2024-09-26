@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 2 (1717)
 
 Zuletzt geändert durch
-:   Art. 1 u. 2 V v. 8.9.2022 I 1499
-
-Änderung durch
-:   Art. 5 V v. 5.4.2023 II Nr. 105 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 V v. 18.3.2024 I Nr. 100 mWv 1.5.2024 noch nicht berücksichtigt
+:   Art. 1 V v. 18.3.2024 I Nr. 100
 
 Änderung durch
 :   Art. 1 V v. 23.7.2024 I Nr. 253 mWv 1.9.2024 noch nicht berücksichtigt
@@ -133,16 +127,13 @@ zuwiderhandelt.
 10. entgegen § 7.03 Nummer 1 Satz 2 einen Pfahl in oder auf den Grund drückt,
 
 
-11. entgegen § 7.08 Nummer 2 die ihm übertragenen Aufgaben als Aufsicht nicht oder nicht vorschriftsmäßig wahrnimmt,
+11. einer Vorschrift des § 8.10 Nummer 1 über das Bade- und Schwimmverbot zuwiderhandelt,
 
 
-12. einer Vorschrift des § 8.10 Nummer 1 über das Bade- und Schwimmverbot zuwiderhandelt,
+12. entgegen § 8.13 Nummer 1 das Kitesurfen ausübt oder
 
 
-13. entgegen § 8.13 Nummer 1 das Kitesurfen ausübt oder
-
-
-14. entgegen § 28.05 die Außenhaut eines Fahrzeugs mit Öl anstreicht oder mit einem der dort genannten Mittel reinigt.
+13. entgegen § 28.05 die Außenhaut eines Fahrzeugs mit Öl anstreicht oder mit einem der dort genannten Mittel reinigt.
 
 
 
@@ -427,7 +418,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 22. entgegen § 12.29 Nummer 2 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass auf dem von ihm geführten Fahrzeug oder Verband in dem in § 12.02 Nummer 1 Satz 2 jeweils genannten Fall die dort angegebene Ausrüstung vorhanden ist,
 
 
-23. entgegen § 15.29 Nummer 2 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass auf dem von ihm geführten Fahrzeug oder Verband in dem in § 15.02 Nummer 1.1, 1.2, 1.3, 1.4, 1.5, 1.8.3 oder 1.12.2.2 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist,
+23. entgegen § 15.29 Nummer 2 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass auf dem von ihm geführten Fahrzeug oder Verband die dort genannte Ausrüstung vorhanden ist,
 
 
 24. entgegen § 17.29 Nummer 2 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass auf dem von ihm geführten Verband in dem in § 17.02 Nummer 2.1.3 oder 2.2.7 jeweils genannten Fall die oder der dort jeweils angegebene Ausrüstung oder Vorspann vorhanden ist,
@@ -612,7 +603,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 19. entgegen § 15.29 Nummer 1 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass das Fahrzeug oder der Verband die geforderte Mindestgeschwindigkeit nach § 15.04 Nummer 6 Satz 1, auch in Verbindung mit Satz 2, nicht unterschreitet,
 
 
-20. entgegen § 17.29 Nummer 1 Buchstabe a nicht sicherstellt, dass das Fahrzeug oder der Verband die geforderte Mindestgeschwindigkeit nach § 17.04 nicht unterschreitet,
+20. entgegen § 17.29 Nummer 1 Buchstabe a nicht sicherstellt, dass das Fahrzeug oder der Verband die geforderte Mindestgeschwindigkeit nicht unterschreitet,
 
 
 21. entgegen § 19.29 Nummer 1 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass das Fahrzeug oder der Verband die geforderte Mindestgeschwindigkeit nach § 19.04 Nummer 3 nicht unterschreitet,
@@ -1202,18 +1193,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer oder nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person entgegen § 6.35 Nummer 1 die in § 6.02 Nummer 1 Satz 1 Buchstabe a, auch in Verbindung mit Satz 3, oder Buchstabe b oder Nummer 3, § 6.02a Nummer 1, 2 oder 3 Satz 1 oder 2, Nummer 4 Satz 1, auch in Verbindung mit Satz 2, Nummer 5 Satz 1 oder 2 oder Nummer 6, jeweils auch in Verbindung mit Nummer 7, vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über das Verhalten von Kleinfahrzeugen im Verkehr nicht einhält oder nicht sicherstellt, dass diese eingehalten werden.
 
-(2) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
-
-1.  entgegen § 21.29 Nummer 2 Buchstabe e eine dort genannte Sonderbestimmung nicht beachtet oder nicht sicherstellt, dass diese beachtet wird,
-
-
-2.  entgegen § 22.29 Nummer 2 Buchstabe e die Sonderbestimmungen für Kleinfahrzeuge nach § 22.24 Nummer 1, 2, 4 oder 6 nicht beachtet oder nicht sicherstellt, dass diese beachtet werden, oder
-
-
-3.  entgegen § 23.29 Nummer 2 Buchstabe d die Sonderbestimmungen für Kleinfahrzeuge nach § 23.24 Nummer 1, 2 oder 4 nicht beachtet oder nicht sicherstellt, dass diese beachtet werden.
-
-
-
+(2) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer entgegen § 21.29 Nummer 2 Buchstabe e, § 22.29 Nummer 2 Buchstabe e oder § 23.29 Nummer 2 Buchstabe d eine dort genannte Sonderbestimmung nicht beachtet oder nicht sicherstellt, dass diese beachtet wird.
 
 
 ### § 15 Bewehrung der Vorschriften über das Verhalten oder die Zeichengebung beim Begegnen
@@ -1345,7 +1325,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 2.  entgegen § 6.35 Nummer 1 die in
 
-    a)  § 6.28 Nummer 2 bis 7, 8 Satz 1 bis 3, 6 oder 7, Nummer 9 bis 15, jeweils auch in Verbindung mit § 6.29a,
+    a)  § 6.28 Nummer 2 bis 7, 8 Satz 1 bis 3, 6 oder 7, Nummer 9 Satz 1, Nummer 10 bis 15, jeweils auch in Verbindung mit § 6.29a,
 
 
     b)  § 6.28a Nummer 1, auch in Verbindung mit § 6.29a,
@@ -1441,7 +1421,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 8.  entgegen § 16.29 Nummer 2 Buchstabe b Doppelbuchstabe aa die Vorschriften über die Zusammenstellung der Verbände nach § 16.03 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
 
 
-9.  entgegen § 17.29 Nummer 2 Buchstabe b Doppelbuchstabe aa die Vorschriften über die Zusammenstellung der Verbände nach § 17.03 Nummer 1, 2 Satz 2 oder Nummer 4 Satz 2 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
+9.  entgegen § 17.29 Nummer 2 Buchstabe b Doppelbuchstabe aa die dort genannten Vorschriften nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
 
 
 10. entgegen § 18.29 Nummer 2 Buchstabe b die Vorschriften über die Zusammenstellung der Verbände nach § 18.03 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,

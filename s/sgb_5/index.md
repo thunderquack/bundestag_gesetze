@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1988, 2477, 2482
 
 Zuletzt geändert durch
-:   Art. 5b G v. 22.12.2023 I Nr. 408
-
-Änderung durch
-:   Art. 1 G v. 22.3.2024 I Nr. 101 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 22.3.2024 I Nr. 101
 
 Änderung durch
 :   Art. 2 G v. 22.3.2024 I Nr. 101 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
