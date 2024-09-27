@@ -1,5 +1,5 @@
 ---
-Title: Gesetz über den Ladenschluß
+Title: Gesetz über den Ladenschluss
 jurabk: LadSchlG
 layout: default
 origslug: ladschlg
@@ -7,7 +7,7 @@ slug: ladschlg
 
 ---
 
-# Gesetz über den Ladenschluß (LadSchlG)
+# Gesetz über den Ladenschluss (LadSchlG)
 
 Ausfertigungsdatum
 :   1956-11-28
