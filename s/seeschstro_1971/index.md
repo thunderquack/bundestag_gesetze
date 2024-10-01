@@ -340,7 +340,7 @@ Darüber hinaus sind Seeschiffahrtsstraßen im Sinne dieser Verordnung die Wasse
 
 (3) Wer infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung eines Fahrzeuges oder in der sicheren Ausübung einer anderen Tätigkeit des Brücken-, Decks- oder Maschinendienstes behindert ist, darf ein Fahrzeug nicht führen oder als Mitglied der Schiffsbesatzung eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes nicht ausüben. Dies gilt für das Fahren mit einem Wassermotorrad oder einem Kite- und Segelsurfbrett entsprechend.
 
-(4) Wer 0,25 mg/l oder mehr Alkohol in der Atemluft, 0,5 Promille oder mehr Alkohol im Blut, eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, oder unter der Wirkung eines in Anlage IV aufgeführten berauschenden Mittels nach Absatz 3 Satz 1 steht, darf ein Fahrzeug nicht führen oder als Mitglied der Schiffsbesatzung eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes nicht ausüben. Eine Wirkung nach Satz 1 liegt vor, wenn eine der in Anlage IV genannten Substanzen im Blut nachgewiesen wird. Die Sätze 1 und 2 gelten nicht, wenn die Substanz aus der bestimmungsgemäßen Einnahme eines für einen bestimmten Krankheitsfall verschriebenen Medikamentes herrührt. Die Sätze 1 bis 3 gelten für das Fahren mit einem Wassermotorrad oder einem Kite- und Segelsurfbrett entsprechend.
+(4) Wer 0,25 mg/l oder mehr Alkohol in der Atemluft, 0,5 Promille oder mehr Alkohol im Blut, eine Alkoholmenge im Körper, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, oder 3,5 ng/ml oder mehr Tetrahydrocannabinol (THC) im Blutserum hat oder unter der Wirkung eines in Anlage IV aufgeführten berauschenden Mittels nach Absatz 3 Satz 1 steht, darf ein Fahrzeug nicht führen oder als Mitglied der Schiffsbesatzung eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes nicht ausüben. Eine Wirkung nach Satz 1 liegt vor, wenn eine der in Anlage IV genannten Substanzen im Blut nachgewiesen wird. Die Sätze 1 und 2 gelten nicht, wenn die Substanz aus der bestimmungsgemäßen Einnahme eines für einen bestimmten Krankheitsfall verschriebenen Medikamentes herrührt. Die Sätze 1 bis 3 gelten für das Fahren mit einem Wassermotorrad oder einem Kite- und Segelsurfbrett entsprechend.
 
 (5) Der Schiffsführer eines Fahrgastschiffs oder eines Fahrbeschränkungen und Fahrverboten nach § 30 Abs. 1 unterliegenden Fahrzeuges darf in der Dienstzeit während der Fahrt alkoholische Getränke nicht zu sich nehmen oder bei Dienstantritt nicht unter der Wirkung solcher Getränke stehen. In Ruhezeiten und sonstigen Erholungszeiten an Bord darf der Schiffsführer alkoholische Getränke zu sich nehmen, wenn sichergestellt ist, dass er bei der Übernahme sicherheitsrelevanter Aufgaben nicht mehr unter der Wirkung solcher Getränke steht. Satz 1 gilt für die im Brückendienst eingesetzten Mitglieder der Schiffsbesatzung entsprechend.
 
@@ -1267,7 +1267,7 @@ Die Schiffahrtspolizeibehörden können von Vorschriften dieser Verordnung im Ei
 1a. entgegen § 3 Abs. 3 ein Fahrzeug führt oder eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes ausübt, mit einem Wassermotorrad, einem Kite- oder einem Segelsurfbrett fährt, obwohl er infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung des Fahrzeuges oder in der sicheren Ausübung der Tätigkeiten des Brücken-, Decks- oder Maschinendienstes behindert ist,
 
 
-1b. entgegen § 3 Absatz 4 Satz 1, auch in Verbindung mit Satz 4, ein Fahrzeug, auch ein Wassermotorrad oder ein Kite- und Segelsurfbrett führt oder eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes ausübt, obwohl er 0,25 mg/l oder mehr Alkohol in der Atemluft, 0,5 Promille oder mehr Alkohol im Blut, eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt oder unter der Wirkung eines in Anlage IV aufgeführten berauschenden Mittels nach § 3 Absatz 3 Satz 1 steht,
+1b. entgegen § 3 Absatz 4 Satz 1, auch in Verbindung mit Satz 4, ein Fahrzeug führt, eine dort genannte Tätigkeit ausübt oder mit einem Wassermotorrad oder einem Kite- oder Surfbrett fährt,
 
 
 1c. entgegen § 3 Abs. 5 während der Fahrt alkoholische Getränke zu sich nimmt oder bei Dienstantritt unter der Wirkung solcher Getränke steht,
@@ -4013,7 +4013,7 @@ Erläuterung zur Anlage II
         ... (Abb.)
 
 
-    6.  Fahrzeuge und Schub- und Schleppverbände, die bestimmte gefährliche Güter befördern (§ 2 Abs. 1 Nr. 16) und leere Fahrzeuge im Sinne des § 30 Abs. 1 Nr. 2 sowie auf dem Nord-Ostsee-Kanal die bekannt gemachten besonders gefährlichen Fahrzeuge, Schub- und Schleppverbände
+    6.  Fahrzeuge und Schub- und Schleppverbände, die bestimmte gefährliche Güter befördern (§ 2 Abs. 1 Nr. 16) und leere Fahrzeuge im Sinne des § 30 Abs. 1 Nr. 3 sowie auf dem Nord-Ostsee-Kanal die bekannt gemachten besonders gefährlichen Fahrzeuge, Schub- und Schleppverbände
 
         Bei Nacht:
 
@@ -4529,19 +4529,14 @@ Darstellung des Geltungsbereichs der Schiffahrtsstraßen-Ordnung
 Fundstelle: BGBl. I 1998, 3264)
 
 
-### Anlage IV Benennung berauschender Mittel
+### Anlage IV Liste der berauschenden Mittel und Substanzen
 
-(Fundstelle: BGBl. 2023 I Nr. 127, 3)
+(Fundstelle: BGBl. 2024 I Nr. 286, S. 27)
 
 
 *    *   Mittel
 
     *   Substanz
-
-
-*    *   Cannabis
-
-    *   Tetrahydrocannabinol (THC)
 
 
 *    *   Heroin
@@ -4559,27 +4554,25 @@ Fundstelle: BGBl. I 1998, 3264)
     *   Benzoylecgonin
 
 
-*    *   Amphetamine
+*    *   Amfetamine
 
-    *   Amphetamin
-
-
-*    *   Designer Amphetamine
-
-    *   Methylendioxyamphetamin (MDA)
+    *   Amfetamin
 
 
-*    *
-    *   Methylendioxyethylamphetamin (MDE)
+*    *   Designer Amfetamine
+
+    *   Methylendioxyamfetamin (MDA)
 
 
-*    *
-    *   Methylendioxymetamphetamin (MDAE)
+*    *   Methylendioxyethylamfetamin (MDE)
 
 
-*    *   Metamphetamin
+*    *   Methylendioxymetamfetamin (MDAE)
 
-    *   Metamphetamin
+
+*    *   Metamfetamin
+
+    *   Metamfetamin
 
 
 

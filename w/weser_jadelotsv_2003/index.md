@@ -128,7 +128,10 @@ Der Lotsdienst in den Lotsbezirken 1 und 2 obliegt den in der Lotsenbrüderschaf
 8.  Letzter Abgangshafen,
 
 
-9.  Freibord und die Höhe des Lotseneinstiegs über der Wasserlinie.
+9.  Freibord und die Höhe des Lotseneinstiegs über der Wasserlinie,
+
+
+10. die sichere minimale Steuergeschwindigkeit und die maximale Manövriergeschwindigkeit für die Revierfahrt.
 
 
 
@@ -140,7 +143,7 @@ Der Lotsdienst in den Lotsbezirken 1 und 2 obliegt den in der Lotsenbrüderschaf
 
 ## § 6 Pflicht zur Annahme eines Bordlotsen
 
-(1) Führer von Seeschiffen sind zur Annahme eines Lotsen an Bord verpflichtet,
+(1) Führer von Seeschiffen sind zur Annahme eines Seelotsen an Bord verpflichtet,
 
 1.  auf den Fahrtstrecken binnenwärts Bremerhaven (Geestemündung), mit Ausnahme der Blexen-Reede, mit Seeschiffen mit einer Länge ab 90 m oder einer Breite ab 13 m oder einem Tiefgang ab 6,50 m; sofern lediglich die Fahrtstrecke zwischen Bremerhaven (Geestemündung) und der Blexen-Reede befahren wird, sind Führer von Seeschiffen mit einer Länge ab 90 m oder einer Breite ab 13 m oder einem Tiefgang ab 8 m auf dieser Fahrtstrecke lotsenannahmepflichtig,
 
@@ -540,86 +543,217 @@ Ordnungswidrig im Sinne des § 47 Abs. 1 Nr. 7 des Seelotsgesetzes handelt, wer 
 
 Diese Verordnung tritt am 1. März 2003 in Kraft.
 
-(zu § 5 Abs. 3)
+(zu § 5 Absatz 3)
 
 ## Anlage 1 Ort und Anmeldung für die Lotsenanforderung
 
-Fundstelle des Originaltextes: BAnz. 2003, Nr. 41, 3705 u. BAnz 2008, Nr. 64, 1513
+(Fundstelle: BGBl. 2024 I Nr. 263, S. 3 – 4)
 
-*    *
 
 *    *   Ort der Übernahme des Seelotsen
 
-    *   Anmeldezeit für die Anforderung des Seelotsen
+    *   Anmeldezeit
+        für die Anforderung des Seelotsen
 
-    *   Empfänger der Lotsenanforderung (Telegrammanschrift)
-
-
-*    *   1. Von See einlaufende Schiffe
-
-
-*    *   1.1 Lotsenversetzpositionen im Verkehrstrennungsgebiet "Jade Approach"
-
-    *   Mindestens 24 Stunden vor Erreichen der Lotsenversetzposition. \*) 3 Stunden vor Erreichen der Lotsenversetzposition weitere Meldung.
-
-    *   Weser Lotsenstation der Lotsenbrüderschaft Weser II/Jade Am Alten Vorhafen 27568 Bremerhaven (Weserlotse II Bremerhaven)
+    *   a) Empfänger der Lotsenanforderung
+        b) UKW-Kanal
+        c) E-Mail
+        d) Telefonnummer
+        e) Telefax-Nummer
 
 
-*    *   1.2 Außenstation des Seelotsreviers Weser II/Jade - Lotsenschiff im Bereich der Leuchttonne "3/Jade 2"
+*    *   1.
 
-    *   Mindestens 12 Stunden vor Erreichen der Außenstation. \*) 3 Stunden vor Erreichen der Lotsenversetzposition weitere Meldung.
-
-    *   Jade Lotsenstation der Lotsenbrüderschaft Weser II/Jade Schleuseninsel/I. Einfahrt 26382 Wilhelmshaven (Jadelotse Wilhelmshaven)
+    *   Von See einlaufende Schiffe
 
 
-*    *   1.3 Außenstation des Seelotsreviers Weser I bei Bremerhaven
+*    *
+    *   Lotsenversetzpositionen im Verkehrstrennungsgebiet „Jade Approach“
 
-    *   Mindestens 12 Stunden vor Erreichen der Außenstation. \*)
+    *   Mindestens **24 Stunden**                      sowie zusätzlich **drei Stunden**                      vor der voraussichtlichen Ankunftszeit an der Lotsenversetzposition.
+        Beträgt die Reisezeit von nahe gelegenen Häfen oder Liegeplätzen weniger als 24 Stunden, muss der Seelotse unverzüglich nach der letzten Abfahrt angefordert werden.
 
-    *   Lotsenstation der Lotsenbrüderschaft Weser I Am Alten Vorhafen 27568 Bremerhaven (Weserlotse I Bremerhaven)
-
-
-*    *   2. Auslaufende Schiffe und Teilstreckenverkehr
-
-
-*    *   2.1 Häfen und Liegeplätze im Seelotsrevier Weser I von Brake bis Bremen, ausgenommen bei Schiffen von Brake weseraufwärts
-
-    *   Mindestens zwei Stunden vor Abfahrt des Schiffes. Bei allen Abfahrten in der Zeit von 19.00 Uhr bis 8.00 Uhr muss die beabsichtigte Lotsenanforderung bis 17.00 Uhr angezeigt werden.
-
-    *   Lotsenstation der Lotsenbrüderschaft Weser I Überseetor 20 28217 Bremen (Weserlotse I Bremen)
+    *
+        a)  Lotsenstation Weser II/Jade
 
 
-*    *   2.2 Häfen und Liegeplätze im Seelotsrevier Weser I von Nordenham bis Bremerhaven sowie Brake und Elsfleth bei Schiffen weseraufwärts
-
-    *   Mindestens drei Stunden vor Abfahrt des Schiffes. Bei allen Abfahrten in der Zeit von 19.00 Uhr bis 8.00 Uhr muss die beabsichtigte Lotsenanforderung bis 17.00 Uhr angezeigt werden.
-
-    *   Lotsenstation der Lotsenbrüderschaft Weser I Am Alten Vorhafen 27368 Bremerhaven (Weserlotse I Bremerhaven)
+        b)  6 (WESER/JADE PILOT)
 
 
-*    *   2.3 Häfen und Liegeplätze im Seelotsrevier Weser II/Jade Lotsbezirk 1 (Außenweser sowie Lotsenversetzposition bei Bremerhaven \*\*)
-
-    *   Mindestens zwei Stunden vor Abfahrt des Schiffes. Bei allen Abfahrten in der Zeit von 19.00 Uhr bis 8.00 Uhr muss die beabsichtigte Lotsenanforderung bis 17.00 Uhr angezeigt werden.
-
-    *   Lotsenstation der Lotsenbrüderschaft Weser II/Jade Am Alten Vorhafen 27568 Bremerhaven (Weserlotse II Bremerhaven)
+        c)  dispo@weserjadepilot.de
 
 
-*    *   2.4 Häfen und Liegeplätze im Seelotsrevier Weser II/Jade Lotsbezirk 2 (Jade)
+        d)  +49 471 944242
 
-    *   Mindestens drei Stunden vor Abfahrt des Schiffes. Bei allen Abfahrten in der Zeit von 19.00 Uhr bis 8.00 Uhr muss die beabsichtigte Lotsenanforderung bis 17.00 Uhr angezeigt werden.
 
-    *   Lotsenstation der Lotsenbrüderschaft Weser II/Jade Schleuseninsel/I. Einfahrt 26382 Wilhelmshaven (Jadelotse Wilhelmshaven)
+        e)  +49 471 9442439
 
 
 
------
-
-\*) Beträgt die Reisezeit von den nahe gelegenen Häfen oder Liegeplätzen weniger als 24 Stunden bzw. weniger als 12 Stunden, so muss die Anforderung des Seelotsen unverzüglich nach der letzten Abfahrt erfolgen.
 
 
-*\*) Aus dem Seelotsrevier Weser I kommende Schiffe sollen die vorher angezeigte Lotsenanforderung beim Passieren der Tonne 80 (Pegel Rechtenfleth) über UKW-Sprechfunk (Kanal 21) über Bremerhaven-Weser-Traffic bestätigen.
+*    *
+    *   Außenposition des Seelotsreviers Weser II/Jade-Lotsenschiff im Bereich Leuchttonne „Weser 3/Jade 2“
+
+    *   Mindestens **zwölf Stunden**                      vor der voraussichtlichen Ankunftszeit an der Außenposition.
+        Beträgt die Reisezeit von nahe gelegenen Häfen oder Liegeplätzen weniger als zwölf Stunden, muss der Seelotse unverzüglich nach der letzten Abfahrt angefordert werden.
+
+    *
+        a)  Lotsenstation Weser II/Jade
+
+
+        b)  6 (WESER/JADE PILOT)
+
+
+        c)  dispo@weserjadepilot.de
+
+
+        d)  +49 471 944242
+
+
+        e)  +49 471 9442439
 
 
 
+
+
+*    *
+    *   Außenstation des Seelotsreviers Weser I bei Bremerhaven
+
+    *   Mindestens **zwölf Stunden**                      vor der voraussichtlichen Ankunftszeit an der Lotsenstation.
+        Beträgt die Reisezeit von nahe gelegenen Häfen oder Liegeplätzen weniger als zwölf Stunden, muss der Seelotse unverzüglich nach der letzten Abfahrt angefordert werden.
+
+    *
+        a)  Lotsenstation Weser I
+
+
+        b)  6 (WESER RIVER PILOT)
+
+
+        c)  order@weserriverpilot.com
+
+
+        d)  +49 471 9414141
+
+
+        e)  entfällt
+
+
+
+
+
+*    *   2.
+
+    *   Teilstreckenverkehr und auslaufende Schiffe
+
+
+*    *
+    *   Häfen und Liegeplätze im Seelotsrevier Weser I von Brake bis Bremen, ohne Schiffe ab Brake weseraufwärts
+
+    *   Mindestens **zwei Stunden**                      vor der voraussichtlichen Abfahrtszeit.
+        Bei Abfahrten in der Zeit von 19 Uhr bis 8 Uhr muss die beabsichtigte Anforderung des Seelotsen bis 17 Uhr angezeigt werden.
+
+    *
+        a)  Lotsenstation Weser I
+
+
+        b)  entfällt
+
+
+        c)  order@weserriverpilot.com
+
+
+        d)  +49 471 9414141
+
+
+        e)  entfällt
+
+
+
+
+
+*    *
+    *   Häfen und Liegeplätze im Seelotsrevier Weser I von Nordenham bis Bremerhaven sowie Brake und Elsfleth bei Schiffen weseraufwärts
+
+    *   Mindestens **drei Stunden**                      vor der voraussichtlichen Abfahrtszeit.
+        Bei Abfahrten in der Zeit von 19 Uhr bis 8 Uhr muss die beabsichtigte Anforderung des Seelotsen bis 17 Uhr angezeigt werden.
+
+    *
+        a)  Lotsenstation Weser I
+
+
+        b)  entfällt
+
+
+        c)  order@weserriverpilot.com
+
+
+        d)  +49 471 9414141
+
+
+        e)  entfällt
+
+
+
+
+
+*    *
+    *   Häfen und Liegeplätze im Seelotsrevier Weser II/Jade
+[^F831044_01_BJNR504130003BJNE002202119]
+        Lotsbezirk 1 (Außenweser und Lotsenversetzposition bei Bremerhaven)
+
+    *   Mindestens **zwei Stunden**                      vor der voraussichtlichen Abfahrtszeit.
+        Bei Abfahrten in der Zeit von 19 Uhr bis 8 Uhr muss die beabsichtigte Anforderung des Seelotsen bis 17 Uhr angezeigt werden.
+
+    *
+        a)  Lotsenstation Weser II/Jade
+
+
+        b)  6 (WESER/JADE PILOT)
+
+
+        c)  dispo@weserjadepilot.de
+
+
+        d)  +49 471 944242
+
+
+        e)  +49 471 9442439
+
+
+
+
+
+*    *
+    *   Häfen und Liegeplätze im Seelotsrevier Weser II/Jade
+        Lotsbezirk 2 (Jade)
+
+    *   Mindestens **drei Stunden**                      vor der voraussichtlichen Abfahrtszeit.
+        Bei Abfahrten in der Zeit von 19 Uhr bis 8 Uhr muss die beabsichtigte Anforderung des Seelotsen bis 17 Uhr angezeigt werden.
+
+    *
+        a)  Lotsenstation Weser II/Jade
+
+
+        b)  6 (WESER/JADE PILOT)
+
+
+        c)  dispo@weserjadepilot.de
+
+
+        d)  +49 471 944242
+
+
+        e)  +49 471 9442439
+
+
+
+
+
+
+_\_\__\_\__\_\__\_\_
+
+[^F831044_01_BJNR504130003BJNE002202119]:     **Die Meldung der Anforderung von Lotsen für Schiffe, die aus dem Seelotsrevier Weser I kommen, soll mindestens              zwei Stunden**              vor der voraussichtlichen Ankunftszeit an der Lotsenversetzposition „Geeste“ erfolgen.
 
 
 ## Anlage 2 (zu § 8 Abs. 1, § 9 Abs. 1 und 2 und § 10 Abs. 3)

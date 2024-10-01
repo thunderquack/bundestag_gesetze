@@ -1797,17 +1797,6 @@ Die Innenausstattung von Kraftomnibussen, die weder für Stehplätze ausgelegt n
 
 
 
-(4a) Abweichend von § 36 Absatz 4 gelten bis zum Ablauf des 30. September 2024 als Reifen für winterliche Wetterverhältnisse auch Luftreifen im Sinne des Absatzes 2, die
-
-1.  die in Anhang II Nummer 2.2 der Richtlinie 92/23/EWG des Rates vom 31. März 1992 über Reifen von Kraftfahrzeugen und Kraftfahrzeuganhängern und über ihre Montage (ABl. L 129 vom 14.5.1992, S. 95), die zuletzt durch die Richtlinie 2005/11/EG (ABl. L 46 vom 17.2.2005, S. 42) geändert worden ist, beschriebenen Eigenschaften erfüllen (M+S Reifen) und
-
-
-2.  nicht nach dem 31. Dezember 2017 hergestellt worden sind.
-
-
-
-Im Falle des Satzes 1 Nummer 2 maßgeblich ist das am Reifen angegebene Herstellungsdatum.
-
 (5) Bei Verwendung von Reifen im Sinne des Absatzes 4 oder Geländereifen für den gewerblichen Einsatz mit der Kennzeichnung „POR“, deren zulässige Höchstgeschwindigkeit unter der durch die Bauart bestimmten Höchstgeschwindigkeit des Fahrzeugs liegt, ist die Anforderung des Absatzes 1 Satz 1 hinsichtlich der Höchstgeschwindigkeit erfüllt, wenn
 
 1.  die für die Reifen zulässige Höchstgeschwindigkeit

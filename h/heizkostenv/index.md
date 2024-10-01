@@ -211,7 +211,7 @@ Die Erhebung, Speicherung und Verwendung von Daten aus einer fernablesbaren Auss
 
 (1) Von den Kosten des Betriebs der zentralen Heizungsanlage sind mindestens 50 vom Hundert, höchstens 70 vom Hundert nach dem erfassten Wärmeverbrauch der Nutzer zu verteilen. In Gebäuden, die das Anforderungsniveau der Wärmeschutzverordnung vom 16. August 1994 (BGBl. I S. 2121) nicht erfüllen, die mit einer Öl- oder Gasheizung versorgt werden und in denen die freiliegenden Leitungen der Wärmeverteilung überwiegend gedämmt sind, sind von den Kosten des Betriebs der zentralen Heizungsanlage 70 vom Hundert nach dem erfassten Wärmeverbrauch der Nutzer zu verteilen. In Gebäuden, in denen die freiliegenden Leitungen der Wärmeverteilung überwiegend ungedämmt sind und deswegen ein wesentlicher Anteil des Wärmeverbrauchs nicht erfasst wird, kann der Wärmeverbrauch der Nutzer nach anerkannten Regeln der Technik bestimmt werden. Der so bestimmte Verbrauch der einzelnen Nutzer wird als erfasster Wärmeverbrauch nach Satz 1 berücksichtigt. Die übrigen Kosten sind nach der Wohn- oder Nutzfläche oder nach dem umbauten Raum zu verteilen; es kann auch die Wohn- oder Nutzfläche oder der umbaute Raum der beheizten Räume zu Grunde gelegt werden.
 
-(2) Zu den Kosten des Betriebs der zentralen Heizungsanlage einschließlich der Abgasanlage gehören die Kosten der verbrauchten Brennstoffe und ihrer Lieferung, die Kosten des Betriebsstromes, die Kosten der Bedienung, Überwachung und Pflege der Anlage, der regelmäßigen Prüfung ihrer Betriebsbereitschaft und Betriebssicherheit einschließlich der Einstellung durch eine Fachkraft, der Reinigung der Anlage und des Betriebsraumes, die Kosten der Messungen nach dem Bundes-Immissionsschutzgesetz, die Kosten der Anmietung oder anderer Arten der Gebrauchsüberlassung einer Ausstattung zur Verbrauchserfassung sowie die Kosten der Verwendung einer Ausstattung zur Verbrauchserfassung einschließlich der Kosten der Eichung sowie der Kosten der Berechnung, Aufteilung und Abrechnungs- und Verbrauchsinformationen gemäß § 6a.
+(2) Zu den Kosten des Betriebs der zentralen Heizungsanlage einschließlich der Abgasanlage gehören die Kosten des zur Wärmeerzeugung verbrauchten Stroms und der verbrauchten Brennstoffe und ihrer Lieferung, die Kosten des Betriebsstromes, die Kosten der Bedienung, Überwachung und Pflege der Anlage, der regelmäßigen Prüfung ihrer Betriebsbereitschaft und Betriebssicherheit einschließlich der Einstellung durch eine Fachkraft, der Reinigung der Anlage und des Betriebsraumes, die Kosten der Messungen nach dem Bundes-Immissionsschutzgesetz, die Kosten der Anmietung oder anderer Arten der Gebrauchsüberlassung einer Ausstattung zur Verbrauchserfassung sowie die Kosten der Verwendung einer Ausstattung zur Verbrauchserfassung einschließlich der Kosten der Eichung sowie der Kosten der Berechnung, Aufteilung und Abrechnungs- und Verbrauchsinformationen gemäß § 6a.
 
 (3) Für die Verteilung der Kosten der Wärmelieferung gilt Absatz 1 Satz 1 und 3 bis 5 entsprechend.
 
@@ -231,7 +231,7 @@ Die Erhebung, Speicherung und Verwendung von Daten aus einer fernablesbaren Auss
 
 ## § 9 Verteilung der Kosten der Versorgung mit Wärme und Warmwasser bei verbundenen Anlagen
 
-(1) Ist die zentrale Anlage zur Versorgung mit Wärme mit der zentralen Warmwasserversorgungsanlage verbunden, so sind die einheitlich entstandenen Kosten des Betriebs aufzuteilen. Die Anteile an den einheitlich entstandenen Kosten sind bei Anlagen mit Heizkesseln nach den Anteilen am Brennstoffverbrauch oder am Energieverbrauch, bei eigenständiger gewerblicher Wärmelieferung nach den Anteilen am Wärmeverbrauch zu bestimmen. Kosten, die nicht einheitlich entstanden sind, sind dem Anteil an den einheitlich entstandenen Kosten hinzuzurechnen. Der Anteil der zentralen Anlage zur Versorgung mit Wärme ergibt sich aus dem gesamten Verbrauch nach Abzug des Verbrauchs der zentralen Warmwasserversorgungsanlage. Bei Anlagen, die nicht ausschließlich durch Heizkessel oder durch eigenständige gewerbliche Wärmelieferung mit Wärme versorgt werden, können anerkannte Regeln der Technik zur Aufteilung der Kosten verwendet werden. Der Anteil der zentralen Warmwasserversorgungsanlage am Wärmeverbrauch ist nach Absatz 2, der Anteil am Brennstoffverbrauch nach Absatz 3 zu ermitteln.
+(1) Ist die zentrale Anlage zur Versorgung mit Wärme mit der zentralen Warmwasserversorgungsanlage verbunden, so sind die einheitlich entstandenen Kosten des Betriebs aufzuteilen. Die Anteile an den einheitlich entstandenen Kosten sind bei Anlagen mit Heizkesseln nach den Anteilen am Brennstoffverbrauch oder am Energieverbrauch, bei Wärmepumpen oder und bei eigenständiger gewerblicher Wärmelieferung nach den Anteilen am Wärmeverbrauch zu bestimmen. Kosten, die nicht einheitlich entstanden sind, sind dem Anteil an den einheitlich entstandenen Kosten hinzuzurechnen. Der Anteil der zentralen Anlage zur Versorgung mit Wärme ergibt sich aus dem gesamten Verbrauch nach Abzug des Verbrauchs der zentralen Warmwasserversorgungsanlage. Bei Anlagen, die nicht ausschließlich durch Heizkessel, durch Wärmepumpen oder durch eigenständige gewerbliche Wärmelieferung mit Wärme versorgt werden, können anerkannte Regeln der Technik zur Aufteilung der Kosten verwendet werden. Der Anteil der zentralen Warmwasserversorgungsanlage am Wärmeverbrauch ist nach Absatz 2, der Anteil am Brennstoffverbrauch nach Absatz 3 zu ermitteln.
 
 (2) Die auf die zentrale Warmwasserversorgungsanlage entfallende Wärmemenge (Q) ist mit einem Wärmezähler zu messen. Kann die Wärmemenge nur mit einem unzumutbar hohen Aufwand gemessen werden, kann sie nach folgender Zahlenwertgleichung als Ergebnis in Kilowattstunden pro Jahr bestimmt werden:
 
@@ -277,11 +277,13 @@ Wenn in Ausnahmefällen weder die Wärmemenge noch das Volumen des verbrauchten 
 
 Die nach den Zahlenwertgleichungen in Satz 2 oder 4 bestimmte Wärmemenge (Q) ist
 
-1.  bei brennwertbezogener Abrechnung von Erdgas
-    mit 1,11                    zu multiplizieren und
+1.  bei brennwertbezogener Abrechnung von Erdgas mit 1,11 zu multiplizieren,
 
 
-2.  bei eigenständiger gewerblicher Wärmelieferung durch 1,15 zu dividieren.
+2.  bei eigenständiger gewerblicher Wärmelieferung durch 1,15 zu dividieren und
+
+
+3.  bei dem Betrieb einer monovalenten Wärmepumpe mit 0,30 zu multiplizieren.
 
 
 
@@ -543,7 +545,7 @@ Rechtsgeschäftliche Bestimmungen, die höhere als die in § 7 Absatz 1 und § 8
 
 3.  auf Räume in Gebäuden, die überwiegend versorgt werden
 
-    a)  mit Wärme aus Anlagen zur Rückgewinnung von Wärme oder aus Wärmepumpen- oder Solaranlagen oder
+    a)  mit Wärme aus Anlagen zur Rückgewinnung von Wärme oder aus Solaranlagen oder
 
 
     b)  mit Wärme aus Anlagen der Kraft-Wärme-Kopplung oder aus Anlagen zur Verwertung von Abwärme, sofern der Wärmeverbrauch des Gebäudes nicht erfasst wird;
@@ -568,6 +570,16 @@ Rechtsgeschäftliche Bestimmungen, die höhere als die in § 7 Absatz 1 und § 8
 (1) Soweit die Kosten der Versorgung mit Wärme oder Warmwasser entgegen den Vorschriften dieser Verordnung nicht verbrauchsabhängig abgerechnet werden, hat der Nutzer das Recht, bei der nicht verbrauchsabhängigen Abrechnung der Kosten den auf ihn entfallenden Anteil um 15 vom Hundert zu kürzen. Wenn der Gebäudeeigentümer entgegen § 5 Absatz 2 oder Absatz 3 keine fernablesbare Ausstattung zur Verbrauchserfassung installiert hat, hat der Nutzer das Recht, bei der Abrechnung der Kosten den auf ihn entfallenden Anteil um 3 vom Hundert zu kürzen. Dasselbe ist anzuwenden, wenn der Gebäudeeigentümer die Informationen nach § 6a nicht oder nicht vollständig mitteilt. Die Sätze 1 bis 3 sind nicht anzuwenden beim Wohnungseigentum im Verhältnis des einzelnen Wohnungseigentümers zur Gemeinschaft der Wohnungseigentümer; insoweit verbleibt es bei den allgemeinen Vorschriften.
 
 (2) Wird in den Fällen des § 1 Absatz 3 der Wärmeverbrauch der einzelnen Nutzer am 30. September 1989 mit Einrichtungen zur Messung der Wassermenge ermittelt, gilt die Anforderung des § 5 Absatz 1 Satz 1 als erfüllt.
+
+(3) Wenn der anteilige Verbrauch der Nutzer an Wärme oder Warmwasser aus Wärmepumpen am 1. Oktober 2024 noch nicht erfasst wird, hat der Gebäudeeigentümer bis zum Ablauf des 30. September 2025 eine Ausstattung zur Verbrauchserfassung zu installieren. In den Fällen des Satzes 1 sind die Vorschriften dieser Verordnung für den Abrechnungszeitraum, der nach der Installation beginnt, erstmalig anzuwenden. Der Eigentümer eines vermieteten Gebäudes, in dem mindestens ein Mieter eine Bruttowarmmiete entrichtet, hat vor Beginn des ersten Abrechnungszeitraums nach dem 30. September 2025 Folgendes zu bestimmen:
+
+1.  den Durchschnittswert der in den Jahren 2022, 2023 und 2024 jährlich angefallenen Kosten der Versorgung mit Wärme und Warmwasser sowie
+
+
+2.  den Anteil der einzelnen Nutzeinheiten an dem ermittelten Durchschnittswert entsprechend ihrer Wohn- oder Nutzfläche.
+
+
+
 
 
 ## § 13 (Berlin-Klausel)

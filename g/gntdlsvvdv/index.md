@@ -80,11 +80,219 @@ Erholungsurlaub ist in der Regel während der praxisintegrierenden Studienphasen
 (3) Gewährter Nachteilsausgleich ist aktenkundig zu machen.
 
 
-## Abschnitt 2 - (zukünftig in Kraft)
+## Abschnitt 2 - Auswahlverfahren
 
 
-### (XXXX) §§ 8 bis 19 (zukünftig in Kraft)
+### § 8 Zweck des Auswahlverfahrens
 
+(1) Auf Grundlage eines Auswahlverfahrens entscheidet die Dienstbehörde über die Einstellung in den Vorbereitungsdienst.
+
+(2) In dem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber für den Vorbereitungsdienst geeignet und befähigt sind. Hinsichtlich ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften soll insbesondere festgestellt werden, ob die Bewerberinnen und Bewerber über Folgendes verfügen:
+
+1.  die erforderlichen kognitiven Kompetenzen,
+
+
+2.  die erforderlichen sozialen Kompetenzen,
+
+
+3.  die erforderliche Leistungsmotivation,
+
+
+4.  die erforderliche Kommunikationsfähigkeit und
+
+
+5.  das erforderliche Allgemeinwissen.
+
+
+
+
+
+### § 9 Zulassung zum Auswahlverfahren
+
+(1) Zum Auswahlverfahren wird von der Dienstbehörde zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt.
+
+(2) Innerhalb eines Bewerbungszeitraums ist nur eine einmalige Teilnahme am jeweiligen Auswahlverfahren zulässig. Eine weitere Teilnahme wird als Täuschung nach § 18 gewertet und führt automatisch zu einem Ausschluss aus sämtlichen Auswahlverfahren dieses Bewerbungszeitraums.
+
+(3) Übersteigt die Zahl der nach Absatz 1 geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl der Studienplätze, die der Dienstbehörde zur Verfügung stehen, so kann die Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden. Jedoch sind mindestens dreimal so viele Bewerberinnen und Bewerber zuzulassen, wie Studienplätze zur Verfügung stehen. Ist die Zahl der Teilnehmenden beschränkt, wird zum Auswahlverfahren zugelassen, wer nach den Bewerbungsunterlagen am besten geeignet erscheint. Insbesondere wird dabei nach den Zeugnisnoten entschieden.
+
+(4) Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte Bewerberinnen und Bewerber mit Behinderungen sind unabhängig von einer Beschränkung der Zahl der Teilnehmenden zum Auswahlverfahren zugelassen.
+
+(5) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine schriftliche oder elektronische Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten spätestens ein Jahr nach der Ablehnung zu vernichten. Elektronisch übermittelte Bewerbungsunterlagen sind innerhalb der Frist zu löschen.
+
+
+### § 10 Auswahlkommission
+
+(1) Für die Durchführung des Auswahlverfahrens richtet die Dienstbehörde eine Auswahlkommission ein. Bei Bedarf kann sie mehrere Auswahlkommissionen einrichten. Die Dienstbehörde stellt sicher, dass in allen Auswahlkommissionen einheitliche Bewertungs- und Auswahlmaßstäbe angelegt werden.
+
+(2) Eine Auswahlkommission besteht aus
+
+1.  einer oder einem Angehörigen des höheren oder gehobenen Dienstes als Vorsitzender oder Vorsitzendem und
+
+
+2.  mindestens einer oder einem Angehörigen des höheren oder gehobenen Dienstes als Beisitzerin oder Beisitzer.
+
+
+
+In begründeten Fällen kann eine Tarifbeschäftigte oder ein Tarifbeschäftigter je Auswahlkommission als Beisitzerin oder Beisitzer bestellt werden, wenn sie oder er eine mit den Personen nach Satz 1 Nummer 2 vergleichbare Qualifikation vorweist.
+
+(3) Die Dienstbehörde bestellt die Mitglieder der Auswahlkommission und eine ausreichende Zahl von Vertreterinnen oder Vertretern in der Regel für die Dauer von einem Jahr. Wiederbestellung ist zulässig.
+
+(4) Eine Auswahlkommission soll geschlechterparitätisch besetzt sein. Ist eine geschlechterparitätische Besetzung aus gewichtigen Gründen nicht möglich, sind diese Gründe aktenkundig zu machen.
+
+(5) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen unabhängig und nicht weisungsgebunden.
+
+(6) Die Auswahlkommission ist beschlussfähig, wenn mindestens die oder der Vorsitzende und eine Beisitzerin oder ein Beisitzer anwesend sind oder vertreten werden.
+
+(7) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
+
+
+### § 11 Teile des Auswahlverfahrens
+
+Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
+
+
+### § 12 Festlegungen zum Auswahlverfahren
+
+(1) Die Dienstbehörde legt bundeseinheitlich fest:
+
+1.  die Inhalte der Teile des Auswahlverfahrens,
+
+
+2.  den Ablauf des Auswahlverfahrens und die Dauer der einzelnen Teile,
+
+
+3.  falls der schriftliche Teil aus mehreren Auswahlinstrumenten besteht: ob von der Möglichkeit Gebrauch gemacht wird, Bewerberinnen und Bewerber, die den Leistungstest nach § 13 Absatz 2 nicht bestehen, von der weiteren Teilnahme am Auswahlverfahren auszuschließen,
+
+
+4.  die Bewertungs- und Gewichtungssystematik und
+
+
+5.  die für das Bestehen erforderlichen Mindestpunktzahlen.
+
+
+
+
+(2) Die Festlegung erfolgt vor dem Beginn des Auswahlverfahrens oder vor jedem Teil des Auswahlverfahrens.
+
+(3) Die Dienstbehörde kann die Bewertungssystematik im laufenden Auswahlverfahren bundeseinheitlich für jeden Teil des Auswahlverfahrens ändern.
+
+
+### § 13 Schriftlicher Teil des Auswahlverfahrens
+
+(1) Im schriftlichen Teil des Auswahlverfahrens können folgende Kompetenzbereiche geprüft werden:
+
+1.  kognitive Kompetenzen,
+
+
+2.  Kommunikationsfähigkeit,
+
+
+3.  Allgemeinwissen und
+
+
+4.  Persönlichkeitseigenschaften.
+
+
+
+
+(2) Der schriftliche Teil des Auswahlverfahrens besteht mindestens aus einem Leistungstest und kann weitere Auswahlinstrumente umfassen. Die Bearbeitungszeit für den Leistungstest beträgt höchstens vier Zeitstunden.
+
+(3) Zusätzlich zum Leistungstest können weitere Auswahlinstrumente angewendet werden, jedoch höchstens zwei der folgenden:
+
+1.  ein weiterer Test zur Erfassung von Leistungsmerkmalen,
+
+
+2.  ein Persönlichkeitstest und
+
+
+3.  Simulationsaufgaben.
+
+
+
+
+(4) Falls im schriftlichen Teil neben dem Leistungstest nach Absatz 2 weitere Auswahlinstrumente angewendet werden, kann von der weiteren Teilnahme am Auswahlverfahren ausgeschlossen werden, wer in diesem Leistungstest nicht die jeweils erforderliche Mindestpunktzahl erreicht hat. Dies gilt nicht für schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellten Bewerberinnen und Bewerber mit Behinderungen.
+
+(5) Der schriftliche Teil des Auswahlverfahrens ist bestanden, wenn in allen Auswahlinstrumenten die festgelegten Mindestpunktzahlen erreicht werden.
+
+(6) Anhand der erzielten Ergebnisse wird eine Rangfolge der Bewerberinnen und Bewerber festgelegt, die den schriftlichen Teil des Auswahlverfahrens bestanden haben. Sind mehrere Auswahlkommissionen eingerichtet, wird eine gemeinsame Rangfolge aller Bewerberinnen und Bewerber gebildet.
+
+
+### § 14 Zulassung zum mündlichen Teil des Auswahlverfahrens
+
+(1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den schriftlichen Teil des Auswahlverfahrens bestanden hat.
+
+(2) Übersteigt die Zahl der Bewerberinnen und Bewerber, die den schriftlichen Teil des Auswahlverfahrens bestanden haben, die Zahl der Studienplätze, die der Dienstbehörde zur Verfügung stehen, um mehr als das Doppelte, so kann die Zahl der Teilnehmerinnen und Teilnehmer am mündlichen Teil des Auswahlverfahrens beschränkt werden. Es sind jedoch mindestens doppelt so viele Bewerberinnen und Bewerber zuzulassen, wie Studienplätze zur Verfügung stehen. Ist die Zahl der Teilnehmerinnen und Teilnehmer beschränkt, wird zum mündlichen Teil des Auswahlverfahrens zugelassen, wer nach der Rangfolge, die anhand der im schriftlichen Teil erzielten Ergebnisse festgelegt worden ist, am besten geeignet ist.
+
+(3) Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte Bewerberinnen und Bewerber mit Behinderungen, die am schriftlichen Teil des Auswahlverfahrens teilgenommen haben, werden immer zum mündlichen Teil zugelassen. Ihnen ist im mündlichen Teil Gelegenheit zu geben, die Auswahlkommission von ihrer Eignung zu überzeugen, soweit die Eignung im schriftlichen Teil des Auswahlverfahrens noch nicht festgestellt werden konnte.
+
+
+### § 15 Mündlicher Teil des Auswahlverfahrens
+
+(1) Der mündliche Teil des Auswahlverfahrens dient dazu, die Eignung der Bewerberinnen und Bewerber in verschiedenen persönlichen und sozialen Kompetenzbereichen zu ermitteln.
+
+(2) Der mündliche Teil besteht aus einem strukturierten Interview.
+
+(3) Für die Durchführung des mündlichen Teils des Auswahlverfahrens kann Videokonferenztechnik genutzt werden, wenn dafür geeignete technische Einrichtungen zur Verfügung stehen.
+
+(4) Am mündlichen Teil des Auswahlverfahrens können die Gleichstellungsbeauftragte, ein Mitglied der Personalvertretung und gegebenenfalls die Schwerbehindertenvertretung teilnehmen.
+
+(5) Am Ende jedes Auswahlverfahrens führt die jeweilige Auswahlkommission eine Beratung über die Bewertungen durch. Die Gleichstellungsbeauftragte kann an der Beratung teilnehmen. Dem Mitglied der Personalvertretung und gegebenenfalls der Schwerbehindertenvertretung ist vor Beginn der Beratung Gelegenheit zur Stellungnahme zu geben.
+
+(6) Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn im strukturierten Interview die festgelegte Mindestpunktzahl erreicht worden ist.
+
+
+### § 16 Gesamtergebnis und Rangfolge
+
+(1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden Bewerber, die oder der den mündlichen Teil des Auswahlverfahrens bestanden hat, das Gesamtergebnis des Auswahlverfahrens.
+
+(2) In das Gesamtergebnis geht das Ergebnis des schriftlichen Teils mit 20 Prozent und das Ergebnis des mündlichen Teils mit 80 Prozent ein.
+
+(3) Anhand des Gesamtergebnisses bildet die Dienstbehörde eine Rangfolge der Bewerberinnen und Bewerber. § 13 Absatz 6 Satz 2 gilt entsprechend. Die festgelegte Rangfolge ist für die Einstellung maßgebend.
+
+(4) Wer erfolglos am Auswahlverfahren teilgenommen hat, erhält eine schriftliche oder elektronische Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind spätestens ein Jahr nach Mitteilung der Ablehnung zu vernichten. Elektronisch übermittelte Bewerbungsunterlagen sind innerhalb der Frist zu löschen.
+
+
+### § 17 Ausnahmeregelung zur Rangfolge
+
+(1) Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte Bewerberinnen und Bewerber mit Behinderungen, die den schriftlichen Teil des Auswahlverfahrens nicht bestanden haben, werden abweichend von § 16 Absatz 3 nur in die Rangfolge aufgenommen, wenn
+
+1.  das Gesamtergebnis des Auswahlverfahrens die Gesamtmindestpunktzahl erreicht und
+
+
+2.  die Auswahlkommission festgestellt hat, dass sie von der Eignung der Bewerberin oder des Bewerbers überzeugt ist.
+
+
+
+Die Gesamtmindestpunktzahl ermittelt sich aus der Summe der Mindestpunktzahlen für das Bestehen des schriftlichen Teils des Auswahlverfahrens multipliziert mit 20 Prozent und der Mindestpunktzahl für das Bestehen des mündlichen Teils des Auswahlverfahrens multipliziert mit 80 Prozent.
+
+(2) Wer nach Absatz 1 in der Rangfolge aufgenommen wird, jedoch einen Platz jenseits der festgelegten Grenze der maximalen Teilnehmerzahl belegt, hat erfolglos am Auswahlverfahren teilgenommen.
+
+
+### § 18 Täuschung
+
+(1) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder an einer Täuschung oder einem Täuschungsversuch mitwirkt, wird vom Auswahlverfahren ausgeschlossen.
+
+(2) Vor einer Entscheidung sind die Betroffenen anzuhören.
+
+
+### § 19 Einstellung und gesundheitliche Eignung
+
+(1) In den Vorbereitungsdienst kann eingestellt werden, wer
+
+1.  erfolgreich am Auswahlverfahren teilgenommen hat,
+
+
+2.  die nach dem Anforderungsprofil der Stellenausschreibung erforderlichen Unterlagen und Nachweise rechtzeitig vorgelegt hat und
+
+
+3.  die gesundheitlichen Anforderungen an den Dienst in der landwirtschaftlichen Sozialversicherung erfüllt.
+
+
+
+
+(2) Zur Feststellung der gesundheitlichen Eignung veranlasst die Dienstbehörde für die zur Einstellung vorgesehenen Bewerberinnen und Bewerber eine ärztliche Einstellungsuntersuchung. Die Kosten der Untersuchung trägt die Dienstbehörde.
+
+(3) Wer erfolgreich am Auswahlverfahren teilgenommen hat, aber nicht eingestellt wird, erhält eine schriftliche oder elektronische Mitteilung über die Nichteinstellung. § 16 Absatz 4 Satz 2 und 3 gilt entsprechend.
 
 
 ## Abschnitt 3 - Studienordnung

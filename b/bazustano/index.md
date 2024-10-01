@@ -166,7 +166,7 @@ ordnet der Vorstand der Bundesagentur für Arbeit an:
 
         4.2.2 folgende Befugnisse auf die Leiterin oder den Leiter des BA-Service-Hauses:
 
-            4.2.2.1 Befugnisse zu Entscheidungen aufgrund der Vorschriften über die Gewährung von Beihilfen in Krankheits-, Pflege-, Geburts- und Todesfällen für alle Beschäftigten sowie Versorgungsempfängerinnen und Versorgungsempfänger;
+            4.2.2.1 (weggefallen)
 
 
             4.2.2.2 Befugnisse zu Entscheidungen auf dem Gebiet des Versorgungsrechts;
@@ -190,18 +190,21 @@ ordnet der Vorstand der Bundesagentur für Arbeit an:
     4.5 Nach § 66 des Bundesbeamtengesetzes wird die Befugnis, die Führung der Dienstgeschäfte zu verbieten, auf die für die Zurückstufung oder die Entfernung aus dem Beamtenverhältnis zuständigen Dienstvorgesetzten übertragen.
 
 
+    4.6 Der Postbeamtenkrankenkasse wird die Zuständigkeit für die Beihilfebearbeitung einschließlich der Beihilfefestsetzung für Beihilfeanträge der beihilfeberechtigten Beschäftigten sowie Versorgungsempfängerinnen und Versorgungsempfänger der Bundesagentur für Arbeit übertragen. Die Postbeamtenkrankenkasse entscheidet als Festsetzungsstelle. Die Festsetzungsstelle ist nicht zu Entscheidungen befugt, die nach den Vorschriften der obersten Dienstbehörde vorbehalten sind.
+
+
 
     Die Übertragung dieser Befugnisse gilt auch für die jeweilige Abwesenheitsvertretung.
 
 
 **5.** **Befugnisse zur Entscheidung über Widersprüche**
 
-    Die Befugnis zur Entscheidung über Widersprüche in beamtenrechtlichen Angelegenheiten wird auf die Vorsitzenden der Geschäftsführung der Regionaldirektionen und die Leiterinnen und Leiter der besonderen Dienststellen übertragen, soweit sie, ihnen nachgeordnete Dienststellen oder Geschäftsführerinnen oder Geschäftsführer der gemeinsamen Einrichtungen im Bezirk der Regionaldirektionen für den Erlass des Verwaltungsakts oder die beamtenrechtliche Maßnahme zuständig waren und dem Widerspruch nicht abgeholfen wird.
+    Die Befugnis zur Entscheidung über Widersprüche in beamtenrechtlichen Angelegenheiten wird auf die Vorsitzenden der Geschäftsführung der Regionaldirektionen und die Leiterinnen und Leiter der besonderen Dienststellen übertragen, soweit sie, ihnen nachgeordnete Dienststellen oder Geschäftsführerinnen oder Geschäftsführer der gemeinsamen Einrichtungen im Bezirk der Regionaldirektionen für den Erlass des Verwaltungsakts oder die beamtenrechtliche Maßnahme zuständig waren und dem Widerspruch nicht abgeholfen wird. Der Postbeamtenkrankenkasse wird die Zuständigkeit für den Erlass von Widerspruchsbescheiden übertragen, soweit es sich um Widersprüche von Beamtinnen und Beamten sowie Versorgungsempfängerinnen und Versorgungsempfänger der Bundesagentur für Arbeit in Beihilfeangelegenheiten handelt und die Postbeamtenkrankenkasse für den Erlass des Verwaltungsaktes oder die Ablehnung des Anspruchs zuständig war.
 
 
 **6.** **Befugnisse bei Klagen**
 
-    Die Befugnis, die Bundesagentur für Arbeit bei Klagen aus dem Beamtenverhältnis der aktiven sowie der ehemaligen Beamtinnen und Beamten, der Versorgungsempfängerinnen und Versorgungsempfänger zu vertreten, wird für Klagen vor dem Verwaltungsgericht, dem Oberverwaltungsgericht und dem Bundesverwaltungsgericht auf die Vorsitzende oder den Vorsitzenden der Geschäftsführung der Regionaldirektion oder die Leiterin oder den Leiter der besonderen Dienststellen übertragen, soweit sie über den Widerspruch zu entscheiden hatten. Die Befugnis, die Bundesagentur für Arbeit in Beschwerdeverfahren zum Versorgungsausgleich nach § 1587 des Bürgerlichen Gesetzbuchs in Verbindung mit dem Versorgungsausgleichsgesetz und dem Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit vor den Oberlandesgerichten zu vertreten, wird auf die Leiterin oder den Leiter des BA-Service-Hauses übertragen.
+    Die Befugnis, die Bundesagentur für Arbeit bei Klagen aus dem Beamtenverhältnis der aktiven sowie der ehemaligen Beamtinnen und Beamten, der Versorgungsempfängerinnen und Versorgungsempfänger zu vertreten, wird für Klagen vor dem Verwaltungsgericht, dem Oberverwaltungsgericht und dem Bundesverwaltungsgericht auf die Vorsitzende oder den Vorsitzenden der Geschäftsführung der Regionaldirektion oder die Leiterin oder den Leiter der besonderen Dienststellen übertragen, soweit sie über den Widerspruch zu entscheiden hatten. Die Befugnis, die Bundesagentur für Arbeit in Beschwerdeverfahren zum Versorgungsausgleich nach § 1587 des Bürgerlichen Gesetzbuchs in Verbindung mit dem Versorgungsausgleichsgesetz und dem Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit vor den Oberlandesgerichten zu vertreten, wird auf die Leiterin oder den Leiter des BA-Service-Hauses übertragen. Dem Vorstand der Postbeamtenkrankenkasse wird die Vertretung der Bundesagentur für Arbeit in gerichtlichen Verfahren der Beamtinnen und Beamten sowie Versorgungsempfängerinnen und Versorgungsempfängern der Bundesagentur für Arbeit in Beihilfeangelegenheiten übertragen, soweit die Postbeamtenkrankenkasse für den Erlass des Widerspruchsbescheids zuständig war.
 
 
 **7.** **Befugnisse nach dem Bundesdisziplinargesetz**
@@ -253,6 +256,12 @@ Der Vorstand kann die übertragenen Befugnisse in Einzelfällen selbst ausüben.
 Die Anordnung des Vorstands der Bundesagentur für Arbeit über die Übertragung von Befugnissen auf dem Gebiet des Beamten-, Versorgungs- und Disziplinarrechts in der Fassung vom 28. Dezember 2017 (BGBl. 2018 I S. 127) ist weiterhin anzuwenden:
 
 a)  auf vor dem 1. April 2024 eingeleitete Disziplinarverfahren,
+
+
+b)  auf die am 30. September 2024 anhängigen Widerspruchsverfahren und Klagen von Beamtinnen und Beamten sowie Versorgungsempfängerinnen und Versorgungsempfängern der Bundesagentur für Arbeit in Beihilfeangelegenheiten,
+
+
+c)  bis zum Abschluss von Rechtsbehelfsverfahren gegen beihilferechtliche Bescheide, die vor dem 1. Oktober 2024 erlassen worden sind.
 
 
 

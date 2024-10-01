@@ -37,5 +37,10 @@ Die in § 31 Absatz 6 Satz 1 des Gesetzes über die Deutsche Bundesbank enthalte
 
 ## § 3
 
+Die in § 31 Absatz 7 Satz 1 des Gesetzes über die Deutsche Bundesbank enthaltene Ermächtigung wird auf den Vorstand der Deutschen Bundesbank übertragen.
+
+
+## § 4
+
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

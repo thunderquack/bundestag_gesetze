@@ -102,7 +102,10 @@ Der Lotsdienst auf dem Seelotsrevier Ems obliegt den in der Lotsenbrüderschaft 
 8.  letzter Abgangshafen,
 
 
-9.  den Freibord und die Höhe des Lotseneinstiegs über der Wasserlinie.
+9.  den Freibord und die Höhe des Lotseneinstiegs über der Wasserlinie,
+
+
+10. die sichere minimale Steuergeschwindigkeit und die maximale Manövriergeschwindigkeit für die Revierfahrt.
 
 
 
@@ -114,7 +117,7 @@ Der Lotsdienst auf dem Seelotsrevier Ems obliegt den in der Lotsenbrüderschaft 
 
 ## § 6 Pflicht zur Annahme eines Bordlotsen
 
-(1) Führer von Seeschiffen sind zur Annahme eines Lotsen an Bord verpflichtet,
+(1) Führer von Seeschiffen sind zur Annahme eines Seelotsen an Bord verpflichtet,
 
 1.  auf den Fahrtstrecken binnenwärts der Lotsenversetzposition „Westerems“, mit Ausnahme der Emden-Reede, mit Seeschiffen mit einer Länge ab 90 m oder einer Breite ab 13 m oder einem Tiefgang ab 6 m,
 
@@ -415,107 +418,118 @@ Ordnungswidrig im Sinne des § 47 Abs. 1 Nr. 7 des Seelotsgesetzes handelt, wer 
 
 Diese Verordnung tritt am 1. März 2003 in Kraft.
 
-(zu § 5 Abs. 3)
+(zu § 5 Absatz 3)
 
 ## Anlage 1 Ort und Anmeldung für die Lotsenanforderung
 
-Fundstelle des Originaltextes: BAnz. 2003, Nr. 41, 3703
+(Fundstelle: BGBl. 2024 I Nr. 262, S. 3)
+
 
 *    *   Ort der Übernahme des Seelotsen
 
-    *   Anmeldezeit für die Anforderung des Seelotsen
+    *   Anmeldezeit
+        für die Anforderung des Seelotsen
 
-    *   Empfänger der Lotsenanforderung (Telegrammanschrift)
+    *   a) Empfänger der Lotsenanforderung
+        b) UKW-Kanal
+        c) E-Mail
+        d) Telefonnummer
+        e) Telefax-Nummer
 
 
 *    *   1.
 
     *   Von See einlaufende Schiffe
 
+
+*    *
+    *   Lotsenversetzposition bei Leuchttonne „GW/TG“
+
+    *   Mindestens **24 Stunden**                      sowie zusätzlich **zwölf**                      und **zwei Stunden**                      vor der voraussichtlichen Ankunftszeit an der Lotsenversetzposition.
+
     *
-
-*    *   1.1
-
-    *   Lotsenversetzposition bei Leuchttonne "GW/TG"
-
-    *   Mindestens 24 Stunden vor Erreichen der Lotsenversetzposition. 3 Stunden vor Erreichen der weitere Meldung.
-
-    *   Lotsenstation Emden (Emslotse Emden)
+        a)  Lotsenstation Emden
+            (Emslotse Emden)
 
 
-*    *   Telefax: 0 49 21/3 29 19
+        b)  VHF 09
 
 
-*    *   Telex: 27 882
+        c)  pilotstation@emspilots.de
 
 
-*    *   Telefon: 0 49 21/2 40 00
+        d)  +49 4921 24000
 
 
-*    *   1.2
+        e)  +49 4921 32919
 
+
+
+
+
+*    *
     *   Lotsenversetzposition im Bereich der Leuchttonne „Westerems“
 
-    *   Mindestens 24 Std. sowie zwölf ­Stunden vor Erreichen der Leuchttonne „Westerems“. Beträgt die ­Reisezeit von nahe gelegenen Häfen oder Liegeplätzen weniger als zwölf Stunden, so muss die Anforderung des Seelotsen unverzüglich nach der letzten Abfahrt erfolgen.
+    *   Mindestens **24 Stunden**                      sowie zusätzlich **zwölf und zwei Stunden**                      vor der voraussichtlichen Ankunftszeit an der Leuchttonne „Westerems“.
 
-    *   Lotsenstation Emden (Emslotse Emden)
-
-
-*    *   Telefax: 0 49 21/3 29 19
-
-
-*    *   Telex: 2 78 82
-
-
-*    *   Telefon: 0 49 21/2 40 00
-
-
-*    *
     *
-    *
-    *   E-Mail: pilotstation@emspilots.de
+        a)  Lotsenstation Emden
+            (Emslotse Emden)
 
 
-*    *
-    *
-    *
-    *   Lotsenstation Borkum
+        b)  VHF 09
 
 
-*    *
-    *
-    *
-    *   E-Mail: borkumstation@emspilots.de
+        c)  pilotstation@emspilots.de
 
 
-*    *
-    *
-    *
-    *   Telefax: 0 49 22/92 35 89 37
+        d)  +49 4921 24000
 
 
-*    *
-    *
-    *
-    *   Telefon: 0 49 22/92 35 89 36
+        e)  +49 4921 32919
+
+
+
+
+
+*    *   Beträgt die Reisezeit von nahe gelegenen Häfen oder Liegeplätzen voraussichtlich weniger als zwölf Stunden, muss der Seelotse unverzüglich nach der letzten Abfahrt angefordert werden.
 
 
 *    *   2.
 
-    *   Auslaufende Schiffe und Teilstreckenverkehr
+    *   Teilstreckenverkehr und auslaufende Schiffe
 
-    *
 
 *    *
-    *   Häfen und Liegeplätze im Seelotsrevier Ems
+    *   Häfen und Liegeplätze
+        im Seelotsrevier Ems
 
-    *   Mindestens vier Stunden vor Abfahrt des Schiffes. Bei der Anforderung ist die Anfahrtzeit des Seelotsen mit öffentlichen Verkehrsmitteln zu berücksichtigen. Bei allen Abfahrten in der Zeit von 21.00 Uhr bis 07.00 Uhr muss die beabsichtigte Anforderung des Seelotsen bis 18.00 Uhr angezeigt werden.
+    *   Mindestens **zwei Stunden**                      vor der voraussichtlichen Abfahrtszeit.
 
     *
+        a)  Lotsenstation Emden
+            (Emslotse Emden)
+
+
+        b)  VHF 12
+
+
+        c)  pilotstation@emspilots.de
+
+
+        d)  +49 4921 24000
+
+
+        e)  +49 4921 32919
 
 
 
-   (zu § 8 Abs. 1, § 9 Abs. 1 und 2 und § 10 Abs. 3)
+
+
+
+Bei der Anforderung muss die Anfahrtszeit des Seelotsen mit öffentlichen Verkehrsmitteln berücksichtigt werden. Bei Abfahren in der Zeit zwischen 21 Uhr und 7 Uhr muss die beabsichtigte Anforderung des Seelotsen bis 18 Uhr angezeigt werden.
+
+(zu § 8 Abs. 1, § 9 Abs. 1 und 2 und § 10 Abs. 3)
 Bescheinigung
 
 ## Anlage 2 zum Nachweis der Befreiung von der Lotsenannahmepflicht \*)

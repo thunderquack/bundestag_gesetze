@@ -1142,6 +1142,108 @@ Eine Anlage und Einrichtung der Heizungs-, Kühl- oder Raumlufttechnik oder der 
 (5) Das Ergebnis der Prüfung und der etwaige Optimierungsbedarf hinsichtlich der Anforderungen nach Absatz 1 ist schriftlich festzuhalten und dem Verantwortlichen zum Nachweis zu übersenden. Die erforderlichen Optimierungsmaßnahmen sind innerhalb von einem Jahr nach der Betriebsprüfung durchzuführen. Das Ergebnis der Prüfung nach Satz 1 und ein Nachweis über die durchgeführten Arbeiten nach Satz 2 sind auf Verlangen dem Mieter unverzüglich vorzulegen. Satz 3 ist auf Pachtverhältnisse und auf sonstige Formen der entgeltlichen Nutzungsüberlassung von Gebäuden oder Wohnungen entsprechend anzuwenden.
 
 
+##### § 60b Prüfung und Optimierung älterer Heizungsanlagen
+
+(1) Eine Heizungsanlage mit Wasser als Wärmeträger, die nach Ablauf des 30. September 2009 eingebaut oder aufgestellt wurde, keine Wärmepumpe ist und in einem Gebäude mit mindestens sechs Wohnungen oder sonstigen selbständigen Nutzungseinheiten betrieben wird, ist innerhalb eines Jahres nach Ablauf von 15 Jahren nach Einbau oder Aufstellung einer Heizungsprüfung und Heizungsoptimierung zu unterziehen. Eine Heizungsanlage mit Wasser als Wärmeträger, die vor dem 1. Oktober 2009 eingebaut oder aufgestellt wurde und in einem Gebäude mit mindestens sechs Wohnungen oder sonstigen selbständigen Nutzungseinheiten betrieben wird, ist bis zum Ablauf des 30. September 2027 einer Heizungsprüfung und Heizungsoptimierung zu unterziehen. In der Heizungsprüfung Satz 1 oder Satz 2 ist zu prüfen,
+
+1.  ob die zum Betrieb der Heizung einstellbaren technischen Parameter für den Betrieb der Anlage zur Wärmeerzeugung hinsichtlich der Energieeffizienz optimiert sind,
+
+
+2.  ob eine effiziente Heizungspumpe im Heizsystem eingesetzt wird,
+
+
+3.  inwieweit Dämmmaßnahmen von Rohrleitungen oder Armaturen durchgeführt werden sollten und
+
+
+4.  welche Maßnahmen zur Absenkung der Vorlauftemperatur nach Inaugenscheinnahme durchgeführt werden können.
+
+
+
+
+(2) Zur Optimierung einer Anlage zur Wärmeerzeugung nach Absatz 1 Satz 3 Nummer 1 sind unter Berücksichtigung möglicher negativer Auswirkungen auf die Bausubstanz des Gebäudes und die menschliche Gesundheit regelmäßig notwendig:
+
+1.  die Absenkung der Vorlauftemperatur oder die Optimierung der Heizkurve bei groben Fehleinstellungen,
+
+
+2.  die Aktivierung der Nachtabsenkung, Nachtabschaltung oder andere zum Nutzungsprofil sowie zu der Umgebungstemperatur passende Absenkungen oder Abschaltungen der Heizungsanlage und eine Information des Betreibers, insbesondere zur Sommerabschaltung, Urlaubsabsenkung oder Anwesenheitssteuerung,
+
+
+3.  die Optimierung des Zirkulationsbetriebs unter Berücksichtigung geltender Regelungen zum Gesundheitsschutz,
+
+
+4.  die Überprüfung der ordnungsgemäßen Einstellung der Umwälzpumpe,
+
+
+5.  die Absenkung der Warmwassertemperaturen unter Berücksichtigung geltender Regelungen zum Gesundheitsschutz,
+
+
+6.  die Absenkung der Heizgrenztemperatur, um die Heizperiode und -tage zu verringern, und
+
+
+7.  die Information des Eigentümers oder Nutzers über weitergehende Einsparmaßnahmen und den Einsatz erneuerbarer Energien, insbesondere die Vorgaben des § 71 Absatz 1 für Heizungsanlagen.
+
+
+
+
+(3) Die Heizungsprüfung nach Absatz 1 ist von einer fachkundigen Person im Sinne des § 60a Absatz 3 durchzuführen. Fachkundig sind insbesondere Personen nach § 60a Absatz 4 Nummer 1, 2, 4 und 6.
+
+(4) Die Heizungsprüfung nach Absatz 1 sowie danach erforderliche Maßnahmen zur Optimierung sollen im Zusammenhang mit ohnehin stattfindenden Tätigkeiten oder Maßnahmen der fachkundigen Personen nach Absatz 3, insbesondere bei der Durchführung von Kehr- und Überprüfungstätigkeiten oder einer Feuerstättenschau nach dem Schornsteinfeger-Handwerksgesetz vom 26. November 2008 (BGBl. I S. 2242) in der jeweils geltenden Fassung, oder bei Heizungswartungsarbeiten, angeboten und durchgeführt werden. Die Heizungsprüfung kann auch im Rahmen der Durchführung eines hydraulischen Abgleichs nachgewiesen werden.
+
+(5) Das Ergebnis der Prüfung nach Absatz 1 Satz 3 und der etwaige Optimierungsbedarf sind schriftlich festzuhalten und dem Verantwortlichen zum Nachweis zu übersenden. Sofern die Prüfung Optimierungsbedarf nach Absatz 1 Satz 3 Nummer 1 in Verbindung mit Absatz 2 aufzeigt, sind die Optimierungsmaßnahmen innerhalb von einem Jahr nach der Heizungsprüfung durchzuführen und schriftlich festzuhalten. Das Ergebnis der Prüfung nach Satz 1 und der Nachweis nach Satz 2 sind auf Verlangen dem Mieter unverzüglich vorzulegen. § 60a Absatz 5 Satz 4 ist entsprechend anzuwenden.
+
+(6) Die Wiederholung der Überprüfung ist nicht erforderlich, wenn nach der Inspektion an der betreffenden Heizungsanlage oder an der betreffenden kombinierten Heizungs- und Lüftungsanlage keine Änderungen vorgenommen wurden oder in Bezug auf den Wärmebedarf des Gebäudes oder des konditionierten Bereichs keine Änderungen eingetreten sind.
+
+(7) Die Verpflichtung zur Heizungsprüfung entfällt bei Heizungsanlagen mit standardisierter Gebäudeautomation nach § 71a sowie bei Wärmepumpen, die nach § 60a einer Betriebsprüfung unterzogen werden. Ebenfalls von der Verpflichtung nach Absatz 1 ausgenommen sind, sofern die Gesamtauswirkungen eines solchen Ansatzes gleichwertig sind, Heizungsanlagen oder kombinierte Heizungs- und Lüftungsanlagen, die
+
+1.  unter eine vertragliche Vereinbarung über ein Niveau der Gesamtenergieeffizienz oder eine Energieeffizienzverbesserung fallen, insbesondere unter einen Energieleistungsvertrag gemäß § 3 Absatz 1 Nummer 8a, oder
+
+
+2.  von einem Versorgungsunternehmen oder einem Netzbetreiber betrieben werden und demnach systemseitigen Maßnahmen zur Überwachung der Effizienz unterliegen.
+
+
+
+
+(8) Bei einer Ausnahme von der Inspektionsverpflichtung nach Absatz 7 Satz 1 sind zum Nachweis der Ausstattung des Gebäudes mit Systemen für die Gebäudeautomatisierung nach § 71a Projektunterlagen in überprüfbarer Form vorzulegen. Für eine Ausnahme von der Inspektionsverpflichtung nach Absatz 7 Satz 2 sind zum Nachweis der Gleichwertigkeit der Maßnahmen folgende Unterlagen und Nachweise vorzulegen:
+
+1.  Unterlagen über die Gebäude-, Anlagen- und Betreiberdaten,
+
+
+2.  der Nachweis, dass die Anlagen unter ein vereinbartes Kriterium für die Gesamtenergieeffizienz fallen, in Form eines geeigneten Energieleistungsvertrages und
+
+
+3.  der Nachweis, dass die Anlagen von einem Versorgungsunternehmen oder einem Netzbetreiber betrieben werden, unter Vorlage eines geeigneten Betreibervertrages.
+
+
+
+
+
+##### § 60c Hydraulischer Abgleich und weitere Maßnahmen zur Heizungsoptimierung
+
+(1) Ein Heizungssystem mit Wasser als Wärmeträger ist nach dem Einbau oder der Aufstellung einer Heizungsanlage zum Zweck der Inbetriebnahme in Gebäuden mit mindestens sechs Wohnungen oder sonstigen selbständigen Nutzungseinheiten hydraulisch abzugleichen.
+
+(2) Die Durchführung des hydraulischen Abgleichs im Sinne dieser Regelung beinhaltet unter Berücksichtigung aller wesentlichen Komponenten des Heizungssystems mindestens folgende Planungs- und Umsetzungsleistungen:
+
+1.  eine raumweise Heizlastberechnung,
+
+
+2.  eine Prüfung und nötigenfalls eine Optimierung der Heizflächen im Hinblick auf eine möglichst niedrige Vorlauftemperatur und
+
+
+3.  die Anpassung der Vorlauftemperaturregelung.
+
+
+
+[^F827528_05_BJNR172810020BJNE013100128]
+Für die raumweise Heizlastberechnung ist das in der DIN EN 12831, Teil 1, Ausgabe September 2017, in Verbindung mit DIN/TS 12831, Teil 1, Ausgabe April 2020,
+vorgesehene Verfahren anzuwenden.
+
+(3) Der hydraulische Abgleich ist nach Maßgabe des Verfahrens B nach der ZVSHK-Fachregel „Optimierung von Heizungsanlagen im Bestand“, VdZ – Wirtschaftsvereinigung Gebäude und Energie e. V., 1. aktualisierte Neuauflage April 2022, Nummer 4.2. oder nach einem gleichwertigen Verfahren durchzuführen.
+
+(4) Die Bestätigung des hydraulischen Abgleichs ist einschließlich der Einstellungswerte, der Heizlast des Gebäudes, der eingestellten Leistung der Wärmeerzeuger und der raumweisen Heizlastberechnung, der Auslegungstemperatur, der Einstellung der Regelung und des Drückens im Ausdehnungsgefäß schriftlich festzuhalten und dem Verantwortlichen mitzuteilen. Die Bestätigung nach Satz 1 ist auf Verlangen dem Mieter unverzüglich vorzulegen. § 60a Absatz 5 Satz 4 ist entsprechend anzuwenden.
+
+    Für die raumweise Heizlastberechnung gilt das Verfahren der DIN EN 12831, Teil 1, Ausgabe September 2017, in Verbindung mit DIN/TS 12831, Teil 1, Ausgabe April 2020, die bei der Beuth Verlag GmbH, Berlin, zu beziehen und beim Deutschen Patentamt archivmäßig gesichert hinterlegt sind.
+[^F827528_05_BJNR172810020BJNE013100128]: 
+
 ### Abschnitt 2 - Einbau und Ersatz
 
 

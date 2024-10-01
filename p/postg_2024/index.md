@@ -15,7 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2024, Nr. 236
 
-Dieses Gesetzes dient der Umsetzung der Richtlinie 97/67/EG des Europäischen Parlaments und des Rates vom 15. Dezember 1997 über gemeinsame Vorschriften für die Entwicklung der Postdienste der Gemeinschaft und die Verbesserung der Dienstequalität in der durch die Richtlinie 2008/6/EG des Europäischen Parlaments und des Rates vom 20. Februar 2008 zur Änderung der Richtlinie 97/67/EG im Hinblick auf die Vollendung des Binnenmarktes der Postdienste der Gemeinschaft geänderten Fassung.
+Dieses Gesetz dient der Umsetzung der Richtlinie 97/67/EG des Europäischen Parlaments und des Rates vom 15. Dezember 1997 über gemeinsame Vorschriften für die Entwicklung der Postdienste der Gemeinschaft und die Verbesserung der Dienstequalität in der durch die Richtlinie 2008/6/EG des Europäischen Parlaments und des Rates vom 20. Februar 2008 zur Änderung der Richtlinie 97/67/EG im Hinblick auf die Vollendung des Binnenmarktes der Postdienste der Gemeinschaft geänderten Fassung.
 
 
 ## Kapitel 1 - Allgemeine Vorschriften

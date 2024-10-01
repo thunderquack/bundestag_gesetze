@@ -18032,7 +18032,7 @@ In Fällen, in denen die Krankenkasse für Zeiträume ab dem 1. Januar 2018 die 
             –   Der Umfang der Versichertenstammdaten ist in § 291a SGB V festgelegt.
 
 
-            –   Die in den Anwendungen nach § 334 SGB V verarbeiteten medizinischen Daten sind im SGB V abstrakt gesetzlich festgelegt. Die Konkretisierung dieser Daten erfolgt in den Spezifikationen der Gesellschaft für Telematik, die diese auf ihrer Internetseite veröffentlicht. Die Festlegungen in den Spezifikationen werden nach § 311 Absatz 2 SGB V im Benehmen mit dem BSI und dem BfDI getroffen.
+            –   Die in den Anwendungen nach § 334 SGB V verarbeiteten medizinischen Daten sind im SGB V abstrakt gesetzlich festgelegt. Die Konkretisierung dieser Daten erfolgt in den Spezifikationen der Gesellschaft für Telematik, die diese auf ihrer Internetseite veröffentlicht. Die Festlegungen in den Spezifikationen werden nach § 311 Absatz 2 SGB V im Einvernehmen mit dem BSI und dem BfDI getroffen.
 
 
 
