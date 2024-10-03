@@ -40,7 +40,7 @@ Diese Verordnung tritt am 1. Oktober 2024 in Kraft und mit Ablauf des 31. März 
 
 ## Anlage Rechtsnormen des Entgelttarifvertrags für Sicherheitskräfte an Verkehrsflughäfen vom 9. April 2024
 
-(Fundstelle: BGBl. 2024 I Nr. 290)
+(Fundstelle: BGBl. 2024 I Nr. 290, S. 3 - 5)
 
 (Text der Anlage nebst Anhang siehe: TVMindestlohn VFlughSiK 3)
 

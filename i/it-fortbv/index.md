@@ -19,6 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 22 V v. 9.12.2019 I 2153
 
+V aufgeh. durch
+:   § 35 Satz 2 V 806-22-6-83 v. 24.9.2024 I Nr. 295 mWv 1.11.2024
+
+Ersetzt durch
+:   V 806-22-6-83 v. 24.9.2024 I Nr. 295 (BAProITFPrV)
+
 
 ## Eingangsformel
 
