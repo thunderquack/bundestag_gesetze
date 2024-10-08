@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.5.2020 I 920
 
 Zuletzt geändert durch
-:   Art. 10a G v. 16.8.2023 I Nr. 217
-
-Änderung durch
-:   Art. 1 G v. 19.7.2024 I Nr. 246 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 19.7.2024 I Nr. 246 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 19.7.2024 I Nr. 246
 
 Mittelbare änderung durch
 :   Art. 3 G v. 19.7.2024 I Nr. 246 ist berücksichtigt

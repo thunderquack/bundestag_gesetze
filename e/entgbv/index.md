@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2012, 2712
 
 Zuletzt geändert durch
-:   Art. 30 G v. 20.12.2022 I 2759
+:   Art. 1 V v. 1.10.2024 I Nr. 297
 
 
 ## Eingangsformel
