@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 217
 
 Zuletzt geändert durch
-:   Art. 5 G v. 19.6.2023 I Nr. 154
+:   Art. 1 V v. 8.10.2024 I Nr. 303
 
 
 
@@ -57,7 +57,7 @@ Eine Speicherung in einem reinen Binärformat ist nur zulässig, soweit eine Umw
 
 ## § 3 Registrierung der Nutzer
 
-(1) Soweit nach § 11 Absatz 1 Satz 4, auch in Verbindung mit Absatz 2 Satz 3, § 13 Absatz 4, § 15 Abs. 1 Satz 2 oder Abs. 2 Satz 2 eine Registrierung beim Unternehmensregister erforderlich ist, erfolgt diese ausschließlich über eine nach dem Stand der Technik gesicherte Internetverbindung. Dabei sind folgende Mindestangaben zu machen:
+(1) Soweit nach § 11 Absatz 1 Satz 4, auch in Verbindung mit Absatz 2 Satz 4, § 13 Absatz 4, § 15 Abs. 1 Satz 2 oder Abs. 2 Satz 2 eine Registrierung beim Unternehmensregister erforderlich ist, erfolgt diese ausschließlich über eine nach dem Stand der Technik gesicherte Internetverbindung. Dabei sind folgende Mindestangaben zu machen:
 
 1.  Firma oder Name des Nutzers,
 
@@ -90,14 +90,19 @@ Im Fall einer Registrierung, die nach § 13 Absatz 4 erforderlich ist, ist Satz 
 
 
 
-(3) Für eine Registrierung nach Absatz 2 hat eine elektronische Identifikation des Nutzers zu erfolgen. Nutzer ist diejenige natürliche Person, die eine Datenübermittlung nach § 11 Absatz 2 für Veröffentlichungs- und Offenlegungspflichtige tatsächlich vornehmen soll. Die Identitätsprüfung erfolgt anhand:
+(3) Der Nutzer bestimmt, sofern er Veröffentlichungen für sich selbst oder als Beauftragter für Dritte vornehmen möchte, bei seiner Registrierung eine Kennung und ein Passwort, durch die er sich als Nutzungsberechtigter des Unternehmensregisters authentifiziert. Es können andere Authentifizierungsverfahren verwendet werden, soweit diese nach dem Stand der Technik einen vergleichbaren Sicherheitsstandard gewährleisten. Nutzer als Kunden von Datenverarbeitern, die über eine Großkundenschnittstelle angebunden sind, können durch den entsprechenden Datenverarbeiter ohne Vergabe von Kennung und Passwort registriert werden, wenn die registerführende Stelle dies bei einer Anbindung vorsieht.
 
-1.  eines elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes oder
+
+## § 3a Identifikation der Nutzer
+
+(1) Für eine Registrierung nach § 3 Absatz 2 hat eine elektronische Identifikation des Nutzers zu erfolgen. Nutzer ist diejenige natürliche Person, die eine Datenübermittlung nach § 11 Absatz 2 für Veröffentlichungs- und Offenlegungspflichtige tatsächlich vornehmen soll. Die elektronische Identifikation erfolgt anhand
+
+1.  eines elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte- Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes,
 
 
 2.  eines elektronischen Identifizierungsmittels, das von einem anderen Mitgliedstaat der Europäischen Union ausgestellt wurde und das
 
-    a)  für die Zwecke der grenzüberschreitenden Authentifizierung nach Artikel 6 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) anerkannt wird und
+    a)  für die Zwecke der grenzüberschreitenden Authentifizierung nach Artikel 6 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44), die durch die Richtlinie (EU) 2022/2555 (ABl. L 333 vom 27.12.2022, S. 80) geändert worden ist, anerkannt wird und
 
 
     b)  dem Sicherheitsniveau „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 entspricht, oder
@@ -106,13 +111,34 @@ Im Fall einer Registrierung, die nach § 13 Absatz 4 erforderlich ist, ist Satz 
 
 
 
-3.  einer von der registerführenden Stelle zur Verfügung gestellten Identifizierungsmethode im Sinne des Artikel 24 Absatz 1 Unterabsatz 2 Buchstabe d Satz 1 Verordnung (EU) Nr. 910/2014.
+3.  einer von der registerführenden Stelle zur Verfügung gestellten Identifizierungsmethode im Sinne des Artikels 24 Absatz 1 Unterabsatz 2 Buchstabe d Satz 1 der Verordnung (EU) Nr. 910/2014.
 
 
 
-Die registerführende Stelle hat im Rahmen der Registrierung zu prüfen, ob ernstliche Zweifel an der Rechtsfähigkeit oder Geschäftsfähigkeit eines Nutzers oder der Berechtigung eines Nutzers zur Datenübermittlung nach § 11 Absatz 2 Satz 1 bestehen. Ist dies der Fall, kann die registerführende Stelle von dem Nutzer oder dem für ihn handelnden Berechtigten die Übermittlung geeigneter Nachweise über seine Rechtsfähigkeit oder Geschäftsfähigkeit oder über die Berechtigung zur Datenübermittlung verlangen.
 
-(4) Der Nutzer bestimmt, sofern er Veröffentlichungen für sich selbst oder als Beauftragter für Dritte vornehmen möchte, bei seiner Registrierung eine Kennung und ein Passwort, durch die er sich als Nutzungsberechtigter des Unternehmensregisters authentifiziert. Es können andere Authentifizierungsverfahren verwendet werden, soweit diese nach dem Stand der Technik einen vergleichbaren Sicherheitsstandard gewährleisten. Nutzer als Kunden von Datenverarbeitern, die über eine Großkundenschnittstelle angebunden sind, können durch den entsprechenden Datenverarbeiter ohne Vergabe von Kennung und Passwort registriert werden, wenn die registerführende Stelle dies bei einer Anbindung vorsieht.
+(2) Bei erfolgreicher Identifikation werden der Prozessnachweis, der Familienname und die Vornamen des Nutzers im Nutzerkonto gespeichert. Die folgenden Identifizierungsdaten werden im Unternehmensregister gespeichert und sind acht Jahre nach der letzten Datenübermittlung zu löschen:
+
+1.  Titel,
+
+
+2.  Tag der Geburt,
+
+
+3.  Anschrift,
+
+
+4.  Dokumentenart des Ausweisdokuments,
+
+
+5.  Zeitstempel.
+
+
+
+Sofern keine Datenübermittlung erfolgt ist, sind die in Satz 2 genannten Daten acht Jahre nach Abschluss des Identifikationsvorganges zu löschen. Weitere im Rahmen der Identifizierung erhobene Daten sind drei Monate nach Abschluss des Identifikationsvorganges zu löschen. Bei erfolgloser Identifikation werden der Prozessnachweis, der Familienname und die Vornamen des Nutzers zusammen mit den Daten nach Satz 3 gelöscht.
+
+(3) Hat die registerführende Stelle im Rahmen der Registrierung oder der Datenübermittlung nach § 11 Absatz 2 Satz 1 ernstliche Zweifel an der Rechtsfähigkeit oder Geschäftsfähigkeit eines Nutzers oder an seiner Berechtigung zur Datenübermittlung, so kann die registerführende Stelle von ihm oder dem für ihn handelnden Berechtigten die Übermittlung geeigneter Nachweise oder eine erneute Identifikation verlangen.
+
+(4) Die registerführende Stelle ist befugt, nach ihren technischen Vorgaben eine Schnittstelle zur Steuerberaterplattform nach § 86c des Steuerberatungsgesetzes einzurichten. Ist eine solche Schnittstelle eingerichtet, so müssen sich Nutzer, die bereits über die Steuerberaterplattform identifiziert sind, für die Registrierung nach § 3 nicht nach Absatz 1 identifizieren. In diesen Fällen kann die registerführende Stelle vom Betreiber der Steuerberaterplattform verlangen, ihr die dort erhobenen Identifizierungsdaten über die Schnittstelle zu übermitteln. Die registerführende Stelle ist befugt, die übermittelten Identifizierungsdaten und die Daten der SAFE-Visitenkarte zu verarbeiten. Absatz 2 Satz 1 bis 3 gilt entsprechend. Die registerführende Stelle ist berechtigt, sich auf die Richtigkeit und Vollständigkeit der ihr übermittelten Daten zu verlassen, es sei denn, an deren Richtigkeit oder Vollständigkeit bestehen ernstliche Zweifel; in diesem Fall ist sie verpflichtet, vom Betreiber der Steuerberaterplattform die erforderlichen Nachweise über eine erfolgte Identifizierung zu verlangen.
 
 
 ## § 4 Art der Datenübermittlung

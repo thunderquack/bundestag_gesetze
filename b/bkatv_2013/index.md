@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 498
 
 Zuletzt geändert durch
-:   Art. 3 G v. 16.8.2024 I Nr. 266
+:   Art. 3 V v. 2.10.2024 I Nr. 299
 
 
 ## Eingangsformel
@@ -3615,12 +3615,15 @@ Abschnitt I
     *   80 €
 
 
-*    *   (109)
+*    *   109
 
-    *   (aufgehoben)
+    *   Nicht sichergestellt, dass ein vorgeschriebenes Notbremsassistenzsystem eingeschaltet ist
 
-    *
-    *
+    *   § 23 Absatz 1d
+        § 49 Absatz 1 Nummer 22
+
+    *   100 €
+
 
 *    *   (109a)
 

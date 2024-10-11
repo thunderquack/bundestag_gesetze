@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 30.7.2024 I Nr. 255
 
+Änderung durch
+:   Art. 1 G v. 7.10.2024 I Nr. 302 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Titel - Gerichtsbarkeit
 

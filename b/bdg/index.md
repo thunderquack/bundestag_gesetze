@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 1510
 
 Zuletzt geändert durch
-:   Art. 1 G v. 20.12.2023 I Nr. 389
-
-Änderung durch
-:   Art. 6 G v. 19.7.2024 I Nr. 247 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 19.7.2024 I Nr. 247
 
 
 ## Teil 1 - Allgemeine Bestimmungen

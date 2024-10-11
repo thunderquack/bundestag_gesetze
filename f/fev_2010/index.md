@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1980
 
 Zuletzt geändert durch
-:   Art. 2 G v. 16.8.2024 I Nr. 266
+:   Art. 2 V v. 2.10.2024 I Nr. 299
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Nr. 41) ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -13144,7 +13144,7 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
 
         *   Ordnungswidrigkeit
 
-        *[^f785129_07_BJNR198000010BJNE010409123]
+        *[^f785129_07_BJNR198000010BJNE010410123]
    laufende Nummer der Anlage zur Bußgeldkatalog-Verordnung (BKat)
 
 
@@ -13274,7 +13274,7 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
 
         *   Verstöße gegen die Vorschriften über
 
-        *[^f785129_08_BJNR198000010BJNE010409123]
+        *[^f785129_08_BJNR198000010BJNE010410123]
    laufende Nummer des BKat
 
 
@@ -13411,7 +13411,7 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
 
         *   die sonstigen Pflichten des Fahrzeugführers
 
-        *   108, 246.1, 247
+        *   108, 109, 246.1, 247
 
 
     *        *   3.2.16
@@ -13480,7 +13480,7 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
 
         *   Verstöße gegen die Vorschriften über
 
-        *[^f785129_09_BJNR198000010BJNE010409123]
+        *[^f785129_09_BJNR198000010BJNE010410123]
    laufende Nummer des BKat
 
 
@@ -13664,10 +13664,10 @@ Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fah
 
 
     Bußgeldkatalog
-[^f785129_07_BJNR198000010BJNE010409123]:     Bußgeldkatalog
-[^f785129_08_BJNR198000010BJNE010409123]:     Bußgeldkatalog
-[^f785129_09_BJNR198000010BJNE010409123]:     Bußgeldkatalog
-[^f785129_10_BJNR198000010BJNE010409123]: 
+[^f785129_07_BJNR198000010BJNE010410123]:     Bußgeldkatalog
+[^f785129_08_BJNR198000010BJNE010410123]:     Bußgeldkatalog
+[^f785129_09_BJNR198000010BJNE010410123]:     Bußgeldkatalog
+[^f785129_10_BJNR198000010BJNE010410123]: 
 (zu § 66 Absatz 2)
 
 ### Anlage 14 Voraussetzungen für die amtliche Anerkennung als Träger von Begutachtungsstellen für Fahreignung

@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 2804
 
-Geändert durch
-:   Art. 3 G v. 9.6.2021 I 1730
+G aufgeh. durch
+:   § 9 Satz 2 G v. 7.10.2024 I Nr. 301 mWv 15.12.2024
+
+Ersetzt durch
+:   G 2129-72 v. 7.10.2024 I Nr. 301 (SchlärmschG 2024)
 
 
 ## § 1 Anwendungsbereich des Gesetzes

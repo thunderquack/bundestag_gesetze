@@ -16,6 +16,9 @@ Fundstelle
 :   BGBl I: 2013, 2586, 2655
 
 Stand: Zuletzt geändert Art. 3 G v. 14.12.2023 I Nr. 365; 2024 I Nr. 165
+Änderung durch
+:   Art. 6 G v. 7.10.2024 I Nr. 302 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -1139,17 +1142,21 @@ Teil 1
 
 *    *   1441
 
-    *   Verfahren zur Registrierung nach § 3 Abs. 2 und 3 URV; die Identitätsprüfung erfolgt anhand
+    *   Verfahren zur Registrierung nach § 3 Abs. 2, § 3a URV; die Identitätsprüfung erfolgt unter Verwendung
 
     *
 
 *    *
     *
-        a)  eines elektronischen Identitätsnachweises oder elektronischen Identifizierungsmittels nach § 3 Abs. 3 Satz 3 Nr. 1 oder Nr. 2 URV
+        a)  eines elektronischen Identitätsnachweises oder elektronischen Identifizierungsmittels nach § 3a Abs. 1 Satz 3 Nr. 1 oder Nr. 2 URV
             ..........
 
 
-        b)  einer von der registerführenden Stelle zur Verfügung gestellten Identifizierungsmethode nach § 3 Abs. 3 Satz 3 Nr. 3 URV
+        b)  einer von der registerführenden Stelle zur Verfügung gestellten Identifizierungsmethode nach § 3a Abs. 1 Satz 3 Nr. 3 URV
+            ..........
+
+
+        c)  einer bereits über die Steuerberaterplattform (§ 86c StBerG) erfolgten Identifizierung des Nutzers nach § 3a Abs. 4 URV
             ..........
 
 
@@ -1157,6 +1164,7 @@ Teil 1
 
     *   12,00 €
         22,00 €
+        7,60 €
 
 
 *    *   Hauptabschnitt 5
