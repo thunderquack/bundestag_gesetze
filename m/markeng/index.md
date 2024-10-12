@@ -81,8 +81,8 @@ Der Markenschutz entsteht
 2.  durch die Benutzung eines Zeichens im geschäftlichen Verkehr, soweit das Zeichen innerhalb beteiligter Verkehrskreise als Marke Verkehrsgeltung erworben hat, oder
 
 
-3.  durch die im Sinne des Artikels
-    6bis der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums (Pariser Verbandsübereinkunft) notorische Bekanntheit einer Marke.
+3.  durch die im Sinne des Artikels 6
+    bis                    der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums (Pariser Verbandsübereinkunft) notorische Bekanntheit einer Marke.
 
 
 

@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 18.3.2024 I Nr. 100
 
 Änderung durch
-:   Art. 1 V v. 23.7.2024 I Nr. 253 mWv 1.9.2024 noch nicht berücksichtigt
+:   Art. 1 V v. 23.7.2024 I Nr. 253 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -46,7 +46,7 @@ Es verordnen
 
 ### § 1 Anwendungsbereich
 
-(1) Die in der Anlage enthaltene Binnenschifffahrtsstraßen-Ordnung gilt auf den in Anhang I der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden und anzuwendenden Fassung bezeichneten Wasserstraßen des Bundes mit Ausnahme von Rhein, Mosel, Donau, Elbe im Hamburger Hafen, Seeschifffahrtsstraßen sowie mit Ausnahme von Eder- und Diemeltalsperre.
+(1) Die in der Anlage enthaltene Binnenschifffahrtsstraßen-Ordnung gilt auf den in Anhang I der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden und anzuwendenden Fassung bezeichneten Wasserstraßen des Bundes mit Ausnahme von Rhein, Mosel, Elbe im Hamburger Hafen, Seeschifffahrtsstraßen sowie mit Ausnahme von Eder- und Diemeltalsperre.
 
 (2) § 1.07 Nummer 1 bis 3, Nummer 4 Satz 1 bis 5 und Nummer 5, § 1.10 Nummer 1 Buchstabe a Doppelbuchstabe aa und bb, Buchstabe b Doppelbuchstabe aa bis ee, gg und hh, Buchstabe d und Buchstabe f Doppelbuchstabe bb und cc, Nummer 2 bis 6, § 1.12 Nummer 3 Satz 1, Nummer 4, §§ 1.14, 1.16, 2.01, 2.03, 4.05 Nummer 1 bis 3, § 4.06 Nummer 1 Satz 1, § 4.07 Nummer 1, 2 und 4 bis 8, § 6.32 Nummer 1 und § 28.01 – soweit die Regelungen zum Ölkontrollbuch und zur Sammlung und Abgabe von Schiffsabfällen betroffen sind – gelten auch für die Fahrt eines Fahrzeugs, das kein Seeschiff ist, auf Wasserstraßen der Zonen 1 und 2 nach Anhang I der Binnenschiffsuntersuchungsordnung.
 
@@ -130,10 +130,13 @@ zuwiderhandelt.
 11. einer Vorschrift des § 8.10 Nummer 1 über das Bade- und Schwimmverbot zuwiderhandelt,
 
 
-12. entgegen § 8.13 Nummer 1 das Kitesurfen ausübt oder
+12. entgegen § 8.13 Nummer 1 das Kitesurfen ausübt,
 
 
-13. entgegen § 28.05 die Außenhaut eines Fahrzeugs mit Öl anstreicht oder mit einem der dort genannten Mittel reinigt.
+13. entgegen § 28.22 Nummer 2 Schleppfischen betreibt oder Fischereigeräte aufstellt oder
+
+
+14. entgegen § 29.05 die Außenhaut eines Fahrzeugs anstreicht oder reinigt.
 
 
 
@@ -349,43 +352,46 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 2.  entgegen § 10.29 Nummer 2 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 10.02 Nummer 1 nicht überschreitet,
 
 
-3.  entgegen § 11.29 Nummer 2 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 11.02 Nummer 1 nicht überschreitet,
+3.  entgegen § 10.29 Nummer 2 Buchstabe a Doppelbuchstabe bb, § 11.29 Nummer 2 Buchstabe a Doppelbuchstabe bb, § 12.29 Nummer 2 Buchstabe a Doppelbuchstabe bb, § 15.29 Nummer 2 Buchstabe a Doppelbuchstabe bb, § 17.29 Nummer 2 Buchstabe a Doppelbuchstabe bb, § 20.29 Nummer 2 Buchstabe a Doppelbuchstabe bb, § 21.29 Nummer 2 Buchstabe a Doppelbuchstabe bb oder cc, § 22.29 Nummer 2 Buchstabe a Doppelbuchstabe b oder § 23.29 Nummer 2 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass auf dem von ihm geführten Fahrzeug oder Verband die oder der dort angegebene Ausrüstung oder Vorspann vorhanden ist,
 
 
-4.  entgegen § 12.29 Nummer 2 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 12.02 Nummer 1 oder die zugelassene Abladetiefe nach § 12.02 Nummer 3 nicht überschreitet,
+4.  entgegen § 11.29 Nummer 2 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nicht überschreitet,
 
 
-5.  entgegen § 13.29 Nummer 2 Buchstabe a nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 13.02 Nummer 1 Satz 1 nicht überschreitet,
+5.  entgegen § 12.29 Nummer 2 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen oder die zugelassene Abladetiefe nicht überschreitet,
 
 
-6.  entgegen § 14.29 Nummer 2 Buchstabe a nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 14.02 Nummer 1 nicht überschreitet,
+6.  entgegen § 13.29 Nummer 2 Buchstabe a nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 13.02 Nummer 1 Satz 1 nicht überschreitet,
 
 
-7.  entgegen § 15.29 Nummer 2 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe aaa nicht sicherstellt, dass ein Fahrzeug oder ein Verband die dort genannten Höchstabmessungen oder Abladetiefen nicht überschreitet,
+7.  entgegen § 14.29 Nummer 2 Buchstabe a nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 14.02 Nummer 1 nicht überschreitet,
 
 
-8.  entgegen § 16.29 Nummer 2 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 16.02 oder die zugelassenen Abladetiefen nach § 16.02 Nummer 3 oder 5 nicht überschreitet,
+8.  entgegen § 15.29 Nummer 2 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe aaa nicht sicherstellt, dass ein Fahrzeug oder ein Verband die dort genannten Höchstabmessungen oder Abladetiefen nicht überschreitet,
 
 
-9.  entgegen § 17.29 Nummer 2 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das von ihm geführte Fahrzeug, das von ihm geführte Fahrzeug mit Seitenradantrieb, das von ihm geführte schleppende Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 17.02 Nummer 1 oder 2 nicht überschreitet,
+9.  entgegen § 16.29 Nummer 2 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 16.02 oder die zugelassenen Abladetiefen nach § 16.02 Nummer 3 oder 5 nicht überschreitet,
 
 
-10. entgegen § 18.29 Nummer 2 Buchstabe a nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 18.02 nicht überschreitet,
+10. entgegen § 17.29 Nummer 2 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das von ihm geführte Fahrzeug, das von ihm geführte Fahrzeug mit Seitenradantrieb, das von ihm geführte schleppende Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 17.02 Nummer 1 oder 2 nicht überschreitet,
 
 
-11. entgegen § 19.29 Nummer 2 Buchstabe a nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen oder Abladetiefen nach § 19.02 nicht überschreitet,
+11. entgegen § 18.29 Nummer 2 Buchstabe a nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 18.02 nicht überschreitet,
 
 
-12. entgegen § 20.29 Nummer 2 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 20.02 Nummer 1 Satz 1 nicht überschreitet,
+12. entgegen § 19.29 Nummer 2 Buchstabe a nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen oder Abladetiefen nach § 19.02 nicht überschreitet,
 
 
-13. entgegen § 21.29 Nummer 2 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen oder Abladetiefen nach § 21.02 Nummer 1 nicht überschreitet,
+13. entgegen § 20.29 Nummer 2 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 20.02 Nummer 1 Satz 1 nicht überschreitet,
 
 
-14. entgegen § 22.29 Nummer 2 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe aaa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 22.02 Nummer 1 oder § 22.22 Nummer 1 Satz 1 oder Nummer 2 Satz 1 Buchstabe a, jeweils auch in Verbindung mit Nummer 6, oder die zugelassenen Abladetiefen nach § 22.02 Nummer 1.1.3, 1.1.4.2, 1.1.5 bis 1.1.10 oder 1.2 oder § 22.22 Nummer 4 Satz 3 Halbsatz 1, auch in Verbindung mit Nummer 6, nicht überschreitet,
+14. entgegen § 21.29 Nummer 2 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen oder Abladetiefen nach § 21.02 Nummer 1 nicht überschreitet,
 
 
-15. entgegen § 23.29 Nummer 2 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe aaa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband
+15. entgegen § 22.29 Nummer 2 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe aaa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 22.02 Nummer 1 oder § 22.22 Nummer 1 Satz 1 oder Nummer 2 Satz 1 Buchstabe a, jeweils auch in Verbindung mit Nummer 6, oder die zugelassenen Abladetiefen nach § 22.02 Nummer 1.1.3, 1.1.4.2, 1.1.5 bis 1.1.10 oder 1.2 oder § 22.22 Nummer 4 Satz 3 Halbsatz 1, auch in Verbindung mit Nummer 6, nicht überschreitet,
+
+
+16. entgegen § 23.29 Nummer 2 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe aaa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband
 
     a)  die zugelassenen Höchstabmessungen oder Abladetiefen nach § 23.02 Nummer 1.1.1 bis 1.1.7 oder Nummer 1.1.11 bis 1.1.15 oder
 
@@ -397,46 +403,16 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
     nicht überschreitet,
 
 
-16. entgegen § 24.29 Nummer 2 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe aaa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 24.02 Nummer 1 oder die zugelassenen Abladetiefen nach § 24.02 Nummer 1.4 nicht überschreitet,
+17. entgegen § 24.29 Nummer 2 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe aaa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 24.02 Nummer 1 oder die zugelassenen Abladetiefen nach § 24.02 Nummer 1.4 nicht überschreitet,
 
 
-17. entgegen § 25.29 Nummer 2 Buchstabe a nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 25.02 Nummer 1 nicht überschreitet,
+18. entgegen § 25.29 Nummer 2 Buchstabe a nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 25.02 Nummer 1 nicht überschreitet,
 
 
-18. entgegen § 26.29 Nummer 2 Buchstabe a nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 26.02 Nummer 1 oder 2 nicht überschreitet,
+19. entgegen § 26.29 Nummer 2 Buchstabe a nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 26.02 Nummer 1 oder 2 nicht überschreitet oder
 
 
-19. entgegen § 27.29 Nummer 2 Buchstabe a nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 27.02 Nummer 1 nicht überschreitet,
-
-
-20. entgegen § 10.29 Nummer 2 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass auf dem von ihm geführten Fahrzeug oder Verband in dem in § 10.02 Nummer 1.4 genannten Fall die dort angegebene Ausrüstung vorhanden ist,
-
-
-21. entgegen § 11.29 Nummer 2 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass auf dem von ihm geführten Fahrzeug oder Verband in dem in § 11.02 Nummer 1.5 oder 1.6 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist,
-
-
-22. entgegen § 12.29 Nummer 2 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass auf dem von ihm geführten Fahrzeug oder Verband in dem in § 12.02 Nummer 1 Satz 2 jeweils genannten Fall die dort angegebene Ausrüstung vorhanden ist,
-
-
-23. entgegen § 15.29 Nummer 2 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass auf dem von ihm geführten Fahrzeug oder Verband die dort genannte Ausrüstung vorhanden ist,
-
-
-24. entgegen § 17.29 Nummer 2 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass auf dem von ihm geführten Verband in dem in § 17.02 Nummer 2.1.3 oder 2.2.7 jeweils genannten Fall die oder der dort jeweils angegebene Ausrüstung oder Vorspann vorhanden ist,
-
-
-25. entgegen § 20.29 Nummer 2 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass auf dem von ihm geführten Fahrzeug oder Verband in dem in § 20.02 Nummer 1 Satz 2 genannten Fall die dort angegebene Ausrüstung vorhanden ist,
-
-
-26. entgegen § 21.29 Nummer 2 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass auf dem von ihm geführten Fahrzeug oder Verband in dem in § 21.02 Nummer 1.3.1 oder 1.3.2 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist,
-
-
-27. entgegen § 21.29 Nummer 2 Buchstabe a Doppelbuchstabe cc nicht sicherstellt, dass auf dem von ihm geführten Fahrzeug in dem in § 21.02 Nummer 1.1.3, 1.1.4, 1.1.5, 1.2.3, 1.5.2 oder 1.5.3 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist,
-
-
-28. entgegen § 22.29 Nummer 2 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass auf dem von ihm geführten Fahrzeug in dem in § 22.02 Nummer 1.1.2, 1.1.2.4, 1.1.2.5, 1.1.4.1, 1.1.5.2 oder 1.2 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist oder
-
-
-29. entgegen § 23.29 Nummer 2 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass auf dem von ihm geführten Fahrzeug oder Verband in dem in § 23.02 Nummer 1.1.1, 1.1.3, 1.1.11 oder 1.1.17.1 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist.
+20. entgegen § 27.29 Nummer 2 Buchstabe a oder § 28.29 Nummer 2 Buchstabe a nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nicht überschreitet,
 
 
 
@@ -446,13 +422,13 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 1.  entgegen § 1.06 Nummer 1 Satz 3 die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen Länge, Breite, Höhe oder Tiefgang den Gegebenheiten der Wasserstraße oder der Anlagen unter Beachtung der für Fahrrinnentiefen oder Brückenhöhen geltenden Vorschriften nicht angepasst sind,
 
 
-2.  entgegen § 10.29 Nummer 3 Buchstabe a die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen nach § 10.02 Nummer 1 überschritten werden,
+2.  entgegen § 10.29 Nummer 3 die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, überschritten werden,
 
 
-3.  entgegen § 11.29 Nummer 3 Buchstabe a die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen nach § 11.02 Nummer 1 überschritten werden,
+3.  entgegen § 11.29 Nummer 3 die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt,
 
 
-4.  entgegen § 12.29 Nummer 3 Buchstabe a die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen nach § 12.02 Nummer 1 oder dessen zugelassene Abladetiefe nach § 12.02 Nummer 3 überschritten werden,
+4.  entgegen § 12.29 Nummer 3 die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt,
 
 
 5.  entgegen § 13.29 Nummer 3 die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen nach § 13.02 Nummer 1 Satz 1 überschritten werden,
@@ -461,13 +437,13 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 6.  entgegen § 14.29 Nummer 3 die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen nach § 14.02 Nummer 1 überschritten werden,
 
 
-7.  entgegen § 15.29 Nummer 3 Buchstabe a Doppelbuchstabe aa die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt,
+7.  entgegen § 15.29 Nummer 3 Buchstabe a Doppelbuchstabe aa oder Buchstabe b die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt,
 
 
 8.  entgegen § 16.29 Nummer 3 Buchstabe a die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen nach § 16.02 oder dessen zugelassene Abladetiefen nach § 16.02 Nummer 3 oder 5 überschritten werden,
 
 
-9.  entgegen § 17.29 Nummer 3 Buchstabe a die Inbetriebnahme eines Fahrzeugs, eines Fahrzeugs mit Seitenradantrieb, eines schleppenden Fahrzeugs oder eines Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen nach § 17.02 Nummer 1 oder 2 überschritten werden,
+9.  entgegen § 17.29 Nummer 3 die Inbetriebnahme eines Fahrzeugs, eines Fahrzeugs mit Seitenradantrieb, eines schleppenden Fahrzeugs oder eines Verbandes anordnet oder zulässt,
 
 
 10. entgegen § 18.29 Nummer 3 die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen nach § 18.02 überschritten werden,
@@ -476,25 +452,16 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 11. entgegen § 19.29 Nummer 3 die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen oder Abladetiefen nach § 19.02 überschritten werden,
 
 
-12. entgegen § 20.29 Nummer 3 Buchstabe a Doppelbuchstabe aa die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen nach § 20.02 Nummer 1 Satz 1 überschritten werden,
+12. entgegen § 20.29 Nummer 3 Buchstabe a Doppelbuchstabe aa oder bb die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt,
 
 
-13. entgegen § 21.29 Nummer 3 Buchstabe a Doppelbuchstabe aa die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen oder Abladetiefen nach § 21.02 Nummer 1 überschritten werden,
+13. entgegen § 21.29 Nummer 3 Buchstabe a die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt,
 
 
-14. entgegen § 22.29 Nummer 3 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe aaa die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen nach § 22.02 Nummer 1 oder § 22.22 Nummer 1 Satz 1 oder Nummer 2 Satz 1 Buchstabe a, jeweils auch in Verbindung mit Nummer 6, oder dessen zugelassene Abladetiefen nach § 22.02 Nummer 1.1.3, 1.1.4.2, 1.1.5 bis 1.1.10 oder 1.2 oder § 22.22 Nummer 4 Satz 3 Halbsatz 1, auch in Verbindung mit Nummer 6, überschritten werden,
+14. entgegen § 22.29 Nummer 3 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe aaa oder Doppelbuchstabe bb die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt,
 
 
-15. entgegen § 23.29 Nummer 3 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe aaa die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt,
-
-    a)  dessen zugelassene Höchstabmessungen oder Abladetiefen nach § 23.02 Nummer 1.1.1 bis 1.1.7 oder Nummer 1.1.11 bis 1.1.15 oder
-
-
-    b)  dessen zugelassene Höchstabmessungen nach § 23.02 Nummer 1.1.8 bis 1.1.10 oder Nummer 1.1.16 bis 1.1.19
-
-
-
-    überschritten werden,
+15. entgegen § 23.29 Nummer 3 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe aaa oder Doppelbuchstabe bb die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt,
 
 
 16. entgegen § 24.29 Nummer 3 Buchstabe a die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen nach § 24.02 Nummer 1 oder dessen zugelassene Abladetiefen nach § 24.02 Nummer 1.4 überschritten werden,
@@ -506,37 +473,10 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 18. entgegen § 26.29 Nummer 6 die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen nach § 26.02 Nummer 1 oder 2 überschritten werden,
 
 
-19. entgegen § 27.29 Nummer 3 die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen nach § 27.02 Nummer 1 überschritten werden,
+19. entgegen § 27.29 Nummer 3 die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen nach § 27.02 Nummer 1 überschritten werden oder
 
 
-20. entgegen § 10.29 Nummer 3 Buchstabe b die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, auf dem in dem in § 10.02 Nummer 1.4 genannten Fall die dort angegebene Ausrüstung nicht vorhanden ist,
-
-
-21. entgegen § 11.29 Nummer 3 Buchstabe b die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, auf dem in dem in § 11.02 Nummer 1.5 oder 1.6 jeweils genannten Fall die dort jeweils angegebene Ausrüstung nicht vorhanden ist,
-
-
-22. entgegen § 12.29 Nummer 3 Buchstabe b die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, auf dem in dem in § 12.02 Nummer 1 Satz 2 jeweils genannten Fall die dort angegebene Ausrüstung nicht vorhanden ist,
-
-
-23. entgegen § 15.29 Nummer 3 Buchstabe b die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, auf dem in dem in § 15.02 Nummer 1.1, 1.2, 1.3, 1.4, 1.5, 1.8.3 oder 1.12.2.2 jeweils genannten Fall die dort jeweils angegebene Ausrüstung nicht vorhanden ist,
-
-
-24. entgegen § 17.29 Nummer 3 Buchstabe b die Inbetriebnahme eines Verbandes anordnet oder zulässt, auf dem in dem in § 17.02 Nummer 2.1.3 oder 2.2.7 jeweils genannten Fall die oder der dort jeweils angegebene Ausrüstung oder Vorspann nicht vorhanden ist,
-
-
-25. entgegen § 20.29 Nummer 3 Buchstabe a Doppelbuchstabe bb die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, auf dem in dem in § 20.02 Nummer 1 Satz 2 genannten Fall die dort angegebene Ausrüstung nicht vorhanden ist,
-
-
-26. entgegen § 21.29 Nummer 3 Buchstabe a Doppelbuchstabe bb die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, auf dem in dem in § 21.02 Nummer 1.3.1 oder 1.3.2 jeweils genannten Fall die dort jeweils angegebene Ausrüstung nicht vorhanden ist,
-
-
-27. entgegen § 21.29 Nummer 3 Buchstabe a Doppelbuchstabe cc die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, auf dem in dem in § 21.02 Nummer 1.1.3, 1.1.4, 1.1.5, 1.2.3, 1.5.2 oder 1.5.3 jeweils genannten Fall die dort jeweils angegebene Ausrüstung nicht vorhanden ist,
-
-
-28. entgegen § 22.29 Nummer 3 Buchstabe a Doppelbuchstabe bb die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, auf dem in dem in § 22.02 Nummer 1.1.2, 1.1.2.4, 1.1.2.5, 1.1.4.1, 1.1.5.2 oder 1.2 jeweils genannten Fall die dort jeweils angegebene Ausrüstung nicht vorhanden ist oder
-
-
-29. entgegen § 23.29 Nummer 3 Buchstabe a Doppelbuchstabe bb die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, auf dem in dem in § 23.02 Nummer 1.1.1, 1.1.3, 1.1.11 oder 1.1.17.1 jeweils genannten Fall die dort jeweils angegebene Ausrüstung nicht vorhanden ist.
+20. entgegen § 28.29 Nummer 3 die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt.
 
 
 
@@ -772,16 +712,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 1.  entgegen § 3.34 Nummer 1 nicht sicherstellt, dass in den Fällen des § 3.01 Nummer 2 die für die Nacht vorgeschriebenen Lichter zusätzlich auch bei Tag gesetzt werden,
 
 
-2.  entgegen § 3.34 Nummer 2 nicht sicherstellt, dass
-
-    a)  auf dem Fahrzeug, dem Verband, dem Schwimmkörper oder der schwimmenden Anlage während der Fahrt bei Nacht die in § 3.08 Nummer 1, auch in Verbindung mit Nummer 2 oder § 3.28a Nummer 1, § 3.11 Nummer 1, § 3.12 Nummer 1, § 3.18 Nummer 1 Satz 1 Buchstabe a oder § 3.19 oder
-
-
-    b)  auf dem Fahrzeug während der Fahrt bei Tag die in § 3.15 Satz 1, § 3.17 oder § 3.18 Nummer 1 Satz 1 Buchstabe b, auch in Verbindung mit Nummer 2,
-
-
-
-    jeweils vorgeschriebene Bezeichnung geführt wird,
+2.  entgegen § 3.34 Nummer 2 nicht sicherstellt, dass auf dem Fahrzeug, dem Verband, dem Vorspann, dem Schwimmkörper oder der schwimmenden Anlage eine dort genannte Bezeichnung geführt wird.
 
 
 3.  entgegen § 3.34 Nummer 3 nicht sicherstellt, dass auf dem Fahrzeug, dem Verband, dem Vorspann, dem Schwimmkörper oder der schwimmenden Anlage in dem oder den in
@@ -1054,7 +985,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 11. entgegen § 26.29 Nummer 1 Buchstabe b Doppelbuchstabe dd die Vorschriften über den Sprechfunk nach § 26.23 Nummer 2 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
 
 
-12. entgegen § 4.06 Nummer 3 nicht sicherstellt, dass auf dem Fahrzeug Radar nur nach den in § 4.06 Nummer 1 Satz 1, auch in Verbindung mit Satz 2, genannten Anforderungen benutzt wird,
+12. entgegen § 4.06 Nummer 3 nicht sicherstellt, dass auf dem Fahrzeug Radar nur nach den dort genannten Anforderungen benutzt wird,
 
 
 13. entgegen § 4.07 Nummer 9 Buchstabe a nicht sicherstellt, dass das Inland AIS Gerät ständig eingeschaltet ist,
@@ -1129,7 +1060,10 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 2.  entgegen § 6.17 Nummer 4 von einem Fahrzeug oder Schwimmkörper in Fahrt oder von einem schwimmenden Gerät während der Arbeit nicht Abstand hält oder
 
 
-3.  entgegen § 8.10 Nummer 2 ein in Fahrt befindliches Fahrzeug oder einen in Fahrt befindlichen Verband behindert.
+3.  entgegen § 8.10 Nummer 2 ein in Fahrt befindliches Fahrzeug oder einen in Fahrt befindlichen Verband behindert oder
+
+
+4.  entgegen § 28.22 Nummer 1 Satz 1 eine Meldung nicht oder nicht rechtzeitig macht.
 
 
 
@@ -1150,7 +1084,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
     d)  die in § 6.16 Nummer 1 Satz 1 oder 2, Nummer 2, 3 oder 5 Satz 2 oder Nummer 6 vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote über das Verhalten oder die Zeichengebung beim Überqueren der Wasserstraße oder der Einfahrt in oder Ausfahrt aus einem Hafen oder einer Nebenwasserstraße nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
 
 
-    e)  das in § 6.17 Nummer 1 vorgesehene Verbot oder Gebot über das Verhalten bei der Fahrt auf gleicher Höhe nicht einhält oder nicht sicherstellt, dass dieses eingehalten wird,
+    e)  das in § 6.17 Nummer 1 vorgesehene Verbot über das Verhalten bei der Fahrt auf gleicher Höhe nicht einhält oder nicht sicherstellt, dass dieses eingehalten wird,
 
 
     f)  das in § 6.17 Nummer 2 vorgesehene Verbot über das Verhalten bei der Annäherung an ein Fahrzeug oder an einen Verband, das oder der eine Bezeichnung nach § 3.14 Nummer 2 oder 3 führt, nicht einhält oder nicht sicherstellt, dass dieses eingehalten wird,
@@ -1227,10 +1161,16 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 9.  entgegen § 22.29 Nummer 1 Buchstabe b Doppelbuchstabe aa die Vorschriften über das Verhalten beim Begegnen nach § 22.06 Nummer 1 Satz 1 oder 2 oder Nummer 2 Satz 1 oder 2 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
 
 
-10. entgegen § 24.29 Nummer 1 Buchstabe b Doppelbuchstabe aa die Vorschrift über das Verhalten beim Begegnen nach § 24.06 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird, oder
+10. entgegen § 24.29 Nummer 1 Buchstabe b Doppelbuchstabe aa die Vorschrift über das Verhalten beim Begegnen nach § 24.06 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird,
 
 
-11. entgegen § 25.29 Nummer 1 Buchstabe b Doppelbuchstabe aa die Vorschriften über das Verhalten beim Begegnen nach § 25.06 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden.
+11. entgegen § 25.29 Nummer 1 Buchstabe b Doppelbuchstabe aa die Vorschriften über das Verhalten beim Begegnen nach § 25.06 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
+
+
+12. entgegen § 28.06 Nummer 4 Satz 2 eine Meldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht oder
+
+
+13. entgegen § 28.29 Nummer 1 Buchstabe a eine dort genannte Vorschrift nicht einhält oder nicht sicherstellt, dass diese eingehalten wird.
 
 
 
@@ -1375,10 +1315,13 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 2.  entgegen § 6.28 Nummer 8 Satz 5 nicht dafür sorgt, dass die Decksmannschaft, die für die sichere Schleusendurchfahrt erforderlich ist, vom Beginn der Fahrt in die Schleuse bis zur Beendigung der Ausfahrt aus der Schleuse an Deck ist,
 
 
-3.  entgegen § 6.35 Nummer 4 die in § 6.28 Nummer 16, 17 oder 18 Satz 2, jeweils auch in Verbindung mit § 6.29a, § 6.29 Nummer 2 Satz 5, Nummer 6 Satz 5 oder Nummer 8 Satz 2 jeweils auch in Verbindung mit § 6.29a, vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über das Verhalten beim Durchfahren eines Schleusenvorhafens, einer Schleuse, eines Schleusenbereichs oder eines Schiffshebewerkes nicht einhält oder nicht sicherstellt, dass diese eingehalten werden, oder
+3.  entgegen § 6.35 Nummer 4 die in § 6.28 Nummer 16, 17 oder 18 Satz 2, jeweils auch in Verbindung mit § 6.29a, § 6.29 Nummer 2 Satz 5, Nummer 6 Satz 5 oder Nummer 8 Satz 2 jeweils auch in Verbindung mit § 6.29a, vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über das Verhalten beim Durchfahren eines Schleusenvorhafens, einer Schleuse, eines Schleusenbereichs oder eines Schiffshebewerkes nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
 
 
-4.  entgegen § 17.29 Nummer 2 Buchstabe c das in § 17.18 Nummer 2 Satz 3 vorgesehene Verbot der Einfahrt in die Stromstrecke Magdeburg nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird.
+4.  entgegen § 17.29 Nummer 2 Buchstabe c das in § 17.18 Nummer 2 Satz 3 vorgesehene Verbot der Einfahrt in die Stromstrecke Magdeburg nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird, oder
+
+
+5.  entgegen § 28.29 Nummer 2 Buchstabe b Doppelbuchstabe cc eine dort genannte Vorschrift nicht einhält oder nicht sicherstellt, dass diese eingehalten wird.
 
 
 
@@ -1403,10 +1346,10 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 2.  entgegen § 10.29 Nummer 2 Buchstabe b Doppelbuchstabe aa die Vorschrift über die Zusammenstellung der Verbände nach § 10.03 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird,
 
 
-3.  entgegen § 11.29 Nummer 2 Buchstabe b Doppelbuchstabe aa die Vorschrift über die Zusammenstellung der Verbände nach § 11.03 Nummer 1 Satz 1 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird,
+3.  entgegen § 11.29 Nummer 2 Buchstabe b Doppelbuchstabe aa eine dort genannte Vorschrift nicht einhält oder nicht sicherstellt, dass diese eingehalten wird,
 
 
-4.  entgegen § 12.29 Nummer 2 Buchstabe b Doppelbuchstabe aa die Vorschrift über die Zusammenstellung der Verbände nach § 12.03 Nummer 1 Satz 1 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird,
+4.  entgegen § 12.29 Nummer 2 Buchstabe b Doppelbuchstabe aa eine dort genannte Vorschrift nicht einhält oder nicht sicherstellt, dass diese eingehalten wird,
 
 
 5.  entgegen § 13.29 Nummer 2 Buchstabe b die Vorschrift über die Zusammenstellung der Verbände nach § 13.03 Nummer 1 Satz 1 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird,
@@ -1448,10 +1391,13 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 17. entgegen § 25.29 Nummer 2 Buchstabe b Doppelbuchstabe aa die Vorschriften über die Zusammenstellung der Verbände nach § 25.03 Nummer 1 oder 2 Satz 1 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
 
 
-18. entgegen § 26.29 Nummer 2 Buchstabe b Doppelbuchstabe aa die Vorschriften über die Zusammenstellung der Verbände nach § 26.03 Nummer 1 bis 4 oder 5 Halbsatz 2 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden, oder
+18. entgegen § 26.29 Nummer 2 Buchstabe b Doppelbuchstabe aa die Vorschriften über die Zusammenstellung der Verbände nach § 26.03 Nummer 1 bis 4 oder 5 Halbsatz 2 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
 
 
-19. entgegen § 27.29 Nummer 2 Buchstabe b die Vorschriften über die Zusammenstellung der Verbände nach § 27.03 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden.
+19. entgegen § 27.29 Nummer 2 Buchstabe b die Vorschriften über die Zusammenstellung der Verbände nach § 27.03 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden, oder
+
+
+20. entgegen § 28.29 Nummer 2 Buchstabe b Doppelbuchstabe aa eine dort genannte Vorschrift nicht einhält oder nicht sicherstellt, dass diese eingehalten wird.
 
 
 
@@ -1471,16 +1417,16 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 2.  entgegen § 10.29 Nummer 2 Buchstabe b Doppelbuchstabe bb die Vorschriften über das Stillliegen nach § 10.10 Nummer 1, 2, 3 Satz 1, Nummer 4, 5 oder 6 Buchstabe a nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
 
 
-3.  entgegen § 12.29 Nummer 2 Buchstabe b Doppelbuchstabe cc die Vorschrift über das Stillliegen nach § 12.10 Nummer 1 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird,
+3.  entgegen § 12.29 Nummer 2 Buchstabe b Doppelbuchstabe bb oder cc eine dort genannte Vorschrift nicht einhält oder nicht sicherstellt, dass diese eingehalten wird,
 
 
 4.  entgegen § 15.29 Nummer 2 Buchstabe b Doppelbuchstabe bb die Vorschriften über das Stillliegen nach § 15.10 Nummer 1, 4 oder 5 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
 
 
-5.  entgegen § 20.29 Nummer 2 Buchstabe b Doppelbuchstabe cc die Vorschrift über das Stillliegen nach § 20.10 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird,
+5.  entgegen § 20.29 Nummer 2 Buchstabe b Doppelbuchstabe bb oder cc eine dort genannte Vorschrift nicht einhält oder nicht sicherstellt, dass diese eingehalten wird,
 
 
-6.  entgegen § 21.29 Nummer 2 Buchstabe b Doppelbuchstabe cc die Vorschriften über das Stillliegen nach § 21.10 Nummer 1, 2 Satz 1 oder Nummer 3 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
+6.  entgegen § 21.29 Nummer 2 Buchstabe b Doppelbuchstabe bb oder cc eine dort genannte Vorschrift nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
 
 
 7.  entgegen § 23.29 Nummer 2 Buchstabe b Doppelbuchstabe bb die Vorschriften über das Stillliegen nach § 23.10 Nummer 2 Satz 1 oder Nummer 3 Satz 1 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
@@ -1489,16 +1435,10 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 8.  entgegen § 24.29 Nummer 2 Buchstabe b Doppelbuchstabe bb die Vorschrift über das Stillliegen nach § 24.10 Nummer 2 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird,
 
 
-9.  entgegen § 26.29 Nummer 2 Buchstabe b Doppelbuchstabe bb die Vorschrift über das Stillliegen nach § 26.10 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird,
+9.  entgegen § 26.29 Nummer 2 Buchstabe b Doppelbuchstabe bb die Vorschrift über das Stillliegen nach § 26.10 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird, oder
 
 
-10. entgegen § 12.29 Nummer 2 Buchstabe b Doppelbuchstabe bb die Vorschrift über das Ankern nach § 12.09 Nummer 1 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird,
-
-
-11. entgegen § 20.29 Nummer 2 Buchstabe b Doppelbuchstabe bb die Vorschrift über das Ankern nach § 20.09 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird, oder
-
-
-12. entgegen § 21.29 Nummer 2 Buchstabe b Doppelbuchstabe bb die Vorschrift über das Ankern nach § 21.09 Satz 1 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird.
+10. entgegen § 28.29 Nummer 2 Buchstabe b Doppelbuchstabe bb eine dort genannte Vorschrift nicht einhält oder nicht sicherstellt, dass diese eingehalten wird.
 
 
 
@@ -1671,10 +1611,13 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 10. entgegen § 23.29 Nummer 1 Buchstabe b Doppelbuchstabe bb die Vorschrift über die Schifffahrt bei Hochwasser nach § 23.11 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird,
 
 
-11. entgegen § 25.29 Nummer 1 Buchstabe b Doppelbuchstabe bb ein nach § 25.11 Nummer 1 angeordnetes Verbot der Schifffahrt nicht einhält oder nicht sicherstellt, dass dieses eingehalten wird, oder
+11. entgegen § 25.29 Nummer 1 Buchstabe b Doppelbuchstabe bb ein nach § 25.11 Nummer 1 angeordnetes Verbot der Schifffahrt nicht einhält oder nicht sicherstellt, dass dieses eingehalten wird,
 
 
-12. entgegen § 26.29 Nummer 1 Buchstabe b Doppelbuchstabe aa die Vorschriften über die Schifffahrt bei Hochwasser nach § 26.11 Nummer 1 bis 3 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden.
+12. entgegen § 26.29 Nummer 1 Buchstabe b Doppelbuchstabe aa die Vorschriften über die Schifffahrt bei Hochwasser nach § 26.11 Nummer 1 bis 3 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden, oder
+
+
+13. entgegen § 28.29 Nummer 1 Buchstabe b eine dort genannte Vorschrift nicht einhält oder nicht sicherstellt, dass diese eingehalten wird.
 
 
 
@@ -1723,10 +1666,13 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 1.  entgegen § 11.29 Nummer 1 Buchstabe b Doppelbuchstabe dd die Vorschriften über die Benutzung der Bootsschleusen oder Bootsumsetzanlagen nach § 11.19 Nummer 1 oder 2 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
 
 
-2.  entgegen § 12.29 Nummer 1 Buchstabe b Doppelbuchstabe ee die Vorschriften über das Verhalten bei der Benutzung der Schleusen, Bootsschleusen oder Bootsumsetzanlagen nach § 12.19 Nummer 1 Satz 2, Nummer 2, 3 Satz 1 oder 2 oder Nummer 4 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden, oder
+2.  entgegen § 12.29 Nummer 1 Buchstabe b Doppelbuchstabe ee die Vorschriften über das Verhalten bei der Benutzung der Schleusen, Bootsschleusen oder Bootsumsetzanlagen nach § 12.19 Nummer 1 Satz 2, Nummer 2, 3 Satz 1 oder 2 oder Nummer 4 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
 
 
-3.  entgegen § 20.29 Nummer 1 Buchstabe b Doppelbuchstabe dd die Vorschrift über die Benutzung der Schleusen nach § 20.19 Satz 1, auch in Verbindung mit Satz 2, nicht einhält oder nicht sicherstellt, dass diese eingehalten wird.
+3.  entgegen § 20.29 Nummer 1 Buchstabe b Doppelbuchstabe dd die Vorschrift über die Benutzung der Schleusen nach § 20.19 Satz 1, auch in Verbindung mit Satz 2, nicht einhält oder nicht sicherstellt, dass diese eingehalten wird, oder
+
+
+4.  entgegen § 28.19 Nummer 3 Satz 2, auch in Verbindung mit Nummer 4, eine dort genannte Regel nicht beachtet.
 
 
 
@@ -1766,7 +1712,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 1.  entgegen § 12.29 Nummer 2 Buchstabe c das in § 12.20 Satz 1 vorgesehene Verbot, zu segeln, nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
 
 
-2.  entgegen § 15.29 Nummer 2 Buchstabe c das in § 15.20 Satz 1 vorgesehene Verbot, zu segeln, nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
+2.  entgegen § 15.29 Nummer 2 Buchstabe d ein dort genanntes Verbot nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
 
 
 3.  entgegen § 19.29 Nummer 2 Buchstabe c das in § 19.20 Satz 1 vorgesehene Verbot, zu segeln, nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
@@ -1791,7 +1737,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
 
-1.  entgegen § 21.29 Nummer 2 Buchstabe d die Verkehrsregelungen nach § 21.22 Nummer 1, 2 oder 3 Halbsatz 1 nicht beachtet oder nicht sicherstellt, dass diese beachtet werden,
+1.  entgegen § 11.29 Nummer 2 Buchstabe c, § 12.29 Nummer 2 Buchstabe c oder § 21.29 Nummer 2 Buchstabe d eine dort genannte Regelung nicht beachtet oder nicht sicherstellt, dass diese beachtet wird,
 
 
 2.  entgegen § 22.29 Nummer 2 Buchstabe d die Verkehrsregelungen nach § 22.22 Nummer 2 Satz 3, 4, 5 oder 6, jeweils in Verbindung mit Satz 7, nicht beachtet oder nicht sicherstellt, dass diese beachtet werden, oder
@@ -1829,10 +1775,10 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 1.  entgegen § 10.29 Nummer 2 Buchstabe c das in § 10.27 Satz 1 vorgesehene Verbot, die dort angegebene Binnenschifffahrtsstraße zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
 
 
-2.  entgegen § 11.29 Nummer 2 Buchstabe d das in § 11.27 Nummer 2 Satz 1 vorgesehene Verbot, die dort angegebene Binnenschifffahrtsstraße zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
+2.  entgegen § 11.29 Nummer 2 Buchstabe d ein dort genanntes Verbot nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
 
 
-3.  entgegen § 12.29 Nummer 2 Buchstabe d das in § 12.25 Nummer 1, 2 Satz 1 oder Nummer 3 Satz 1 jeweils vorgesehene Verbot, die dort jeweils angegebene Binnenschifffahrtsstraße zu befahren, nicht beachtet oder nicht sicherstellt, dass das jeweilige Verbot beachtet wird,
+3.  entgegen § 12.29 Nummer 2 Buchstabe d ein dort genanntes Verbot nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
 
 
 4.  entgegen § 15.29 Nummer 2 Buchstabe d das in § 15.27 Satz 1 vorgesehene Verbot, die dort angegebenen Binnenschifffahrtsstraßen zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
@@ -1856,10 +1802,13 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 10. entgegen § 24.29 Nummer 2 Buchstabe d das in § 24.27 Nummer 1 Satz 1 oder Nummer 2, 3 oder 4 Satz 1 jeweils vorgesehene Verbot, die dort jeweils angegebene Binnenschifffahrtsstraße zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses jeweils beachtet wird,
 
 
-11. entgegen § 25.29 Nummer 2 Buchstabe c das in § 25.27 Satz 1 vorgesehene Verbot, die dort angegebene Binnenschifffahrtsstraße zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird, oder
+11. entgegen § 25.29 Nummer 2 Buchstabe c das in § 25.27 Satz 1 vorgesehene Verbot, die dort angegebene Binnenschifffahrtsstraße zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
 
 
-12. entgegen § 26.29 Nummer 2 Buchstabe d das in § 26.27 Nummer 1 Satz 1 oder Nummer 2 Satz 1 jeweils vorgesehene Verbot, die dort jeweils angegebene Binnenschifffahrtsstraße zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses jeweils beachtet wird.
+12. entgegen § 26.29 Nummer 2 Buchstabe d das in § 26.27 Nummer 1 Satz 1 oder Nummer 2 Satz 1 jeweils vorgesehene Verbot, die dort jeweils angegebene Binnenschifffahrtsstraße zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses jeweils beachtet wird, oder
+
+
+13. entgegen § 28.29 Nummer 2 Buchstabe c ein dort genanntes Verbot nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird.
 
 
 
@@ -1869,7 +1818,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
 
-1.  entgegen § 11.29 Nummer 2 Buchstabe c die Verkehrsbeschränkung nach § 11.27 Nummer 1 Satz 1 nicht beachtet oder nicht sicherstellt, dass diese beachtet wird,
+1.  entgegen § 11.29 Nummer 2 Buchstabe c eine dort genannte Verkehrsbeschränkung nicht beachtet oder nicht sicherstellt, dass diese beachtet wird,
 
 
 2.  entgegen § 15.29 Nummer 2 Buchstabe a Doppelbuchstabe cc nicht sicherstellt, dass der Stichkanal Osnabrück von SKO-km 0,00 bis zur Schleuse Haste (SKO-km 12,69) gemäß § 15.25 Nummer 1 erst nach Freigabe durch die Schleusenaufsicht an der Schleuse Haste befahren wird,
@@ -1897,30 +1846,30 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 1.  entgegen § 8.15 Nummer 7 oder § 28.04 Nummer 10 ein dort genanntes Gebot oder Verbot nicht einhält oder nicht sicherstellt, dass dieses eingehalten wird,
 
 
-2.  entgegen § 28.02 Satz 2 nicht sicherstellt, dass kein Brenn- oder Schmierstoff in die Wasserstraße gelangt,
+2.  entgegen § 29.02 Satz 2 nicht sicherstellt, dass kein Brenn- oder Schmierstoff in die Wasserstraße gelangt,
 
 
-3.  entgegen § 28.03 Nummer 1 Buchstabe a nicht dafür sorgt, dass die zu bunkernde Menge innerhalb des ablesbaren Bereichs der Peileinrichtung liegt,
+3.  entgegen § 29.03 Nummer 1 Buchstabe a nicht dafür sorgt, dass die zu bunkernde Menge innerhalb des ablesbaren Bereichs der Peileinrichtung liegt,
 
 
-4.  entgegen § 28.03 Nummer 1 Buchstabe b nicht dafür sorgt, dass die Absperrventile geschlossen sind,
+4.  entgegen § 29.03 Nummer 1 Buchstabe b nicht dafür sorgt, dass die Absperrventile geschlossen sind,
 
 
-5.  entgegen § 28.03 Nummer 1 Buchstabe c nicht dafür sorgt, dass der Bunkervorgang überwacht wird,
+5.  entgegen § 29.03 Nummer 1 Buchstabe c nicht dafür sorgt, dass der Bunkervorgang überwacht wird,
 
 
-6.  entgegen § 28.03 Nummer 1 Buchstabe d nicht dafür sorgt, dass eine dort genannte Einrichtung genutzt wird,
+6.  entgegen § 29.03 Nummer 1 Buchstabe d nicht dafür sorgt, dass eine dort genannte Einrichtung genutzt wird,
 
 
-7.  entgegen § 28.03 Nummer 2 nicht dafür sorgt, dass die für den Bunkervorgang verantwortlichen Personen die dort genannten Festlegungen treffen, oder
+7.  entgegen § 29.03 Nummer 2 nicht dafür sorgt, dass die für den Bunkervorgang verantwortlichen Personen die dort genannten Festlegungen treffen, oder
 
 
-8.  entgegen § 28.03 Nummer 3 mit dem Bunkervorgang beginnt, obwohl die in § 28.03 Nummer 2 genannten Festlegungen nicht erfolgt sind.
+8.  entgegen § 29.03 Nummer 3 mit dem Bunkervorgang beginnt.
 
 
 
 
-(2) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig entgegen § 28.04 Nummer 11 ein dort genanntes Gebot nicht einhält oder nicht sicherstellt, dass dieses eingehalten wird.
+(2) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig entgegen § 29.04 Nummer 11 ein dort genanntes Gebot nicht einhält oder nicht sicherstellt, dass dieses eingehalten wird.
 
 
 ## Abschnitt 3 - Schlussbestimmungen
