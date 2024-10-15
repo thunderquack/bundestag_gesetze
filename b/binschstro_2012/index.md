@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 5 V v. 5.4.2023 II Nr. 105
 
 Änderung durch
-:   Art. 2 V v. 18.3.2024 I Nr. 100, Nr. 115 mWv 1.5.2024 noch nicht berücksichtigt
+:   Art. 2 V v. 18.3.2024 I Nr. 100, Nr. 115 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 2 V v. 23.7.2024 I Nr. 253 mWv 1.9.2024 noch nicht berücksichtigt
@@ -4484,9 +4484,9 @@ In dieser Verordnung gelten als:
 3.  Mitglieder der Besatzung und sonstige Personen an Bord, die vorübergehend selbstständig den Kurs und die Geschwindigkeit eines Fahrzeugs bestimmen, sind insoweit auch für die Befolgung der Bestimmungen dieser Verordnung und der im Rahmen des § 1.22 erlassenen Verordnungen und Anordnungen vorübergehender Art verantwortlich.
 
 
-4.  Die Mitglieder der diensttuenden Mindestbesatzung und sonstige Personen an Bord, die vorübergehend selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmen, sowie die Mitglieder der Besatzung, die nach Maßgabe des Satzes 2 eine Tätigkeit ausüben, die für die sichere Teilnahme des Fahrzeugs am Verkehr notwendig ist, dürfen nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein. Zu den Tätigkeiten nach Satz 1 zählen insbesondere das Festmachen, Ankern oder Schleusen des Fahrzeugs oder das Bewachen oder Beaufsichtigen des Fahrzeugs beim Stillliegen. Den in Satz 1 genannten Personen ist es verboten, den Kurs und die Geschwindigkeit des Fahrzeugs zu bestimmen oder eine Tätigkeit nach Satz 2 auszuüben, wenn sie
+4.  Die Mitglieder der diensttuenden Mindestbesatzung und sonstige Personen an Bord, die vorübergehend selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmen, sowie die Mitglieder der Besatzung, die nach Maßgabe des Satzes 2 eine Tätigkeit ausüben, die für die sichere Teilnahme des Fahrzeugs am Verkehr notwendig ist, dürfen nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein. Zu den Tätigkeiten nach Satz 1 zählen insbesondere das Festmachen, Ankern, Schleusen, Laden oder Löschen des Fahrzeugs oder das Bewachen oder Beaufsichtigen des Fahrzeugs beim Stillliegen. Den in Satz 1 genannten Personen ist es verboten, den Kurs und die Geschwindigkeit des Fahrzeugs zu bestimmen oder eine Tätigkeit nach Satz 2 auszuüben, wenn sie
 
-    a)  0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper haben, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, oder
+    a)  0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper haben, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, oder
 
 
     b)  unter der Wirkung eines in Anlage 10 aufgeführten berauschenden Mittels nach Satz 4 stehen.
@@ -4498,14 +4498,14 @@ In dieser Verordnung gelten als:
 
 5.  Der Schiffsführer hat sicherzustellen, dass keine andere Person selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmt oder nach Maßgabe des Satzes 2 eine Tätigkeit ausübt, die für die sichere Teilnahme des Fahrzeugs am Verkehr notwendig ist, die
 
-    a)  0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, oder
+    a)  0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, oder
 
 
-    b)  unter der Wirkung eines in Anlage 10 aufgeführten berauschenden Mittels steht.
+    b)  unter der Wirkung eines in Anlage 10 aufgeführten berauschenden Mittels nach Satz 3 steht.
 
 
 
-    Zu den Tätigkeiten nach Satz 1 zählen insbesondere das Festmachen, Ankern oder Schleusen des Fahrzeugs oder das Bewachen oder Beaufsichtigen des Fahrzeugs beim Stillliegen.
+    Zu den Tätigkeiten nach Satz 1 zählen insbesondere das Festmachen, Ankern, Schleusen, Laden oder Löschen des Fahrzeugs oder das Bewachen oder Beaufsichtigen des Fahrzeugs beim Stillliegen. Eine Wirkung nach Satz 1 Buchstabe b liegt vor, wenn eine in Anlage 10 genannte Substanz im Blut nachgewiesen wird. Satz 1 Buchstabe b gilt nicht, wenn die Substanz aus der bestimmungsgemäßen Einnahme eines für einen konkreten Krankheitsfall verschriebenen Arzneimittels herrührt.
 
 
 
@@ -4939,7 +4939,7 @@ Bei unmittelbar drohender Gefahr muss der Schiffsführer alle Maßnahmen treffen
 
 
 
-*   Das Bundesministerium für Verkehr und digitale Infrastruktur macht die Spitzenverbände nach Satz 1 Buchstabe a Doppelbuchstabe aa im Verkehrsblatt bekannt. Insofern ist der Rudergänger Schiffsführer.
+*   Das Bundesministerium für Digitales und Verkehr macht die Spitzenverbände nach Satz 1 Buchstabe a Doppelbuchstabe aa im Verkehrsblatt bekannt. Insofern ist der Rudergänger Schiffsführer.
 
 
 
@@ -5459,14 +5459,14 @@ Die in dieser Verordnung enthaltenen Vorschriften für ein Fahrzeug gelten für 
 #### § 2.02 Kennzeichen der Kleinfahrzeuge
 
 
-1.  Sofern ein Kleinfahrzeug nicht auf Grund besonderer Bestimmungen ein amtliches oder amtlich anerkanntes Kennzeichen führen muss, ist es, mit Ausnahme eines Segelsurfbretts, wie folgt dauerhaft zu kennzeichnen:
+1.  Sofern ein Kleinfahrzeug nicht auf Grund besonderer Bestimmungen ein amtliches oder amtlich anerkanntes Kennzeichen führen muss, ist es, mit Ausnahme eines Segelsurfbretts oder eines vergleichbaren Kleinfahrzeugs, wie folgt dauerhaft zu kennzeichnen:
 
     a)  mit seinem Namen oder seiner Devise.
-        Der Name ist auf beiden Außenseiten des Kleinfahrzeugs in gut lesbaren mindestens 10 cm hohen lateinischen Schriftzeichen anzubringen. In Ermangelung eines Namens für das Kleinfahrzeug ist entweder der Name der Organisation, der es angehört, oder deren gebräuchliche Abkürzung, im Falle mehrerer Fahrzeuge der Organisation gefolgt von einer Nummer in arabischen Ziffern, anzugeben. Die Schriftzeichen müssen in heller Farbe auf dunklem Grund oder in dunkler Farbe auf hellem Grund angebracht sein. Sofern in einem Fall des Satzes 3 ein Kleinfahrzeug mit einer Nummer in lateinischen Ziffern gekennzeichnet ist, darf diese Kennzeichnung weitergeführt werden.
+        Der Name ist außen an dem Kleinfahrzeug an gut sichtbarer Stelle in gut lesbaren mindestens 10 cm hohen lateinischen Schriftzeichen anzubringen. In Ermangelung eines Namens für das Kleinfahrzeug ist entweder der Name der Organisation, der es angehört, oder deren gebräuchliche Abkürzung, im Falle mehrerer Fahrzeuge der Organisation gefolgt von einer Nummer in arabischen Ziffern, anzugeben. Die Schriftzeichen müssen in heller Farbe auf dunklem Grund oder in dunkler Farbe auf hellem Grund angebracht sein. Sofern in einem Fall des Satzes 3 ein Kleinfahrzeug mit einer Nummer in lateinischen Ziffern gekennzeichnet ist, darf diese Kennzeichnung weitergeführt werden.
 
 
     b)  mit dem Namen und der Anschrift des Eigentümers.
-        Der Name und die Anschrift des Eigentümers sind an der Innen- oder Außenseite des Kleinfahrzeugs anzubringen.
+        Der Name und die Anschrift des Eigentümers sind innen oder außen dauerhaft an dem Kleinfahrzeug anzubringen.
 
 
 
@@ -7002,7 +7002,7 @@ und schwimmenden Anlagen, deren Anker die Schifffahrt gefährden können, und ih
 
 ##### § 3.27 (Anlage 3: Bild 56)
 
-Ein Fahrzeug der Überwachungsbehörden nach § 1.20 kann bei Nacht und bei Tag ein blaues Funkellicht zeigen, um sich kenntlich zu machen. Dies gilt auch für ein Fahrzeug der Feuerwehr oder für ein Wasserrettungsfahrzeug nach § 1.24 Nummer 2 im Rettungseinsatz sowie für ein Fahrzeug der Zollverwaltung, ein Fahrzeug der Bundespolizei oder ein Fahrzeug des Bundeskriminalamtes.
+Ein Fahrzeug der Überwachungsbehörden nach § 1.20 kann bei Nacht und bei Tag ein blaues Funkellicht zeigen, um sich kenntlich zu machen. Dies gilt auch für ein Fahrzeug der Feuerwehr, ein Wasserrettungsfahrzeug nach § 1.24 Nummer 2 im Rettungseinsatz, ein Fahrzeug des Zivil- und Katastrophenschutzes, ein Fahrzeug der Zollverwaltung, ein Fahrzeug der Bundespolizei oder ein Fahrzeug des Bundeskriminalamtes.
 
 *    *
     *        ![bgbl1_2012_j0001_0084_ab1.jpg](bgbl1_2012_j0001_0084_ab1.jpg)
@@ -7412,7 +7412,7 @@ Hinweis auf das Verbot des Stillliegens nebeneinander
 
 
 
-    Funkmeldungen und Funkabsprachen sind in deutscher Sprache auszuführen. Das Bundesministerium für Verkehr und digitale Infrastruktur gibt den aktuellen Stand des Handbuchs Binnenschifffahrtsfunk im Verkehrsblatt oder im Bundesanzeiger bekannt.
+    Funkmeldungen und Funkabsprachen sind in deutscher Sprache auszuführen. Das Bundesministerium für Digitales und Verkehr gibt den aktuellen Stand des Handbuchs Binnenschifffahrtsfunk im Verkehrsblatt oder im Bundesanzeiger bekannt.
 
 
 2.  Ein Fahrzeug mit Maschinenantrieb, ausgenommen ein Kleinfahrzeug, eine Fähre oder ein schwimmendes Gerät, darf nur fahren, wenn es mit zwei betriebssicheren Sprechfunkanlagen ausgerüstet ist. Während der Fahrt muss eine Sprechfunkanlage in dem Verkehrskreis Schiff-Schiff und die andere Sprechfunkanlage in dem Verkehrskreis Nautische Information ständig sende- und empfangsbereit sein. Der Verkehrskreis Nautische Information darf nur zur Übermittlung oder zum Empfang von Nachrichten auf anderen Kanälen kurzfristig verlassen werden.
@@ -7466,10 +7466,22 @@ Hinweis auf das Verbot des Stillliegens nebeneinander
 
 1.  Ein Fahrzeug darf nur dann Radar benutzen, wenn
 
-    a)  es mit einem Radargerät und einem Gerät zur Anzeige der Wendegeschwindigkeit des Fahrzeugs nach Artikel 7.06 ES-TRIN ausgerüstet ist; dabei müssen die Geräte in gutem Betriebszustand sein und einem von der vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachten Stelle oder von den zuständigen Behörden eines anderen Rheinuferstaates oder Belgiens zugelassenen schiffssicherheitstechnischen Baumuster entsprechen; eine nicht frei fahrende Fähre braucht jedoch nicht mit einem Gerät zur Anzeige der Wendegeschwindigkeit ausgerüstet zu sein,
+    a)  es mit einem Radargerät und einem Gerät zur Anzeige der Wendegeschwindigkeit des Fahrzeugs nach Artikel 7.06 ES-TRIN ausgerüstet ist; dabei müssen die Geräte in gutem Betriebszustand sein und einem von der zuständigen Behörde eines Rheinuferstaates oder Belgiens zugelassenen schiffssicherheitstechnischen Baumuster entsprechen; eine nicht frei fahrende Fähre braucht jedoch nicht mit einem Gerät zur Anzeige der Wendegeschwindigkeit ausgerüstet zu sein,
 
 
-    b)  sich an Bord eine Person befindet, die ein Befähigungszeugnis mit dem Eintrag der besonderen Berechtigung für Radar nach der Binnenschiffspersonalverordnung oder ein nach Binnenschiffspersonalverordnung weitergeltendes Radarpatent besitzt.
+    b)  sich an Bord eine Person befindet, die
+
+        aa) ein Befähigungszeugnis mit dem Eintrag der besonderen Berechtigung für Radar,
+
+
+        bb) einen nach der Binnenschiffspersonalverordnung dem Befähigungszeugnis nach Doppelbuchstabe aa gleichgestellten Nachweis oder
+
+
+        cc) ein nach der Binnenschiffspersonalverordnung weitergeltendes Radarpatent
+
+
+
+        besitzt.
 
 
 
@@ -8987,7 +8999,24 @@ Es ist verboten, an einem der in § 3.25 genannten Fahrzeuge an der Seite vorbei
 
 
 
-10. Im Schleusenbereich muss zu einem Fahrzeug oder einem Verband, das oder der die Bezeichnung nach § 3.14 Nummer 1, 2 oder 3 führt, ein seitlicher Abstand von mindestens 10,00 m eingehalten werden. Dies gilt jedoch nicht für ein Fahrzeug oder einen Verband, das oder der die gleiche Bezeichnung führt und für das in § 3.14 Nummer 7 genannte Fahrzeug.
+
+    *   Das Verbot nach Satz 1 Buchstabe e gilt nicht, sofern
+
+        a)  die Bugstrahlanlage mit niedrigen Umdrehungszahlen ohne eine Veränderung der Wirkungsrichtung des Propellers laufengelassen,
+
+
+        b)  nicht zum Manövrieren eingesetzt wird und
+
+
+        c)  eine Beeinträchtigung anderer Verkehrsteilnehmer oder eine Beschädigung der Schleusenanlage ausgeschlossen ist.
+
+
+
+
+
+
+    10\.
+    Im Schleusenbereich muss zu einem Fahrzeug oder einem Verband, das oder der die Bezeichnung nach § 3.14 Nummer 1, 2 oder 3 führt, ein seitlicher Abstand von mindestens 10,00 m eingehalten werden. Dies gilt jedoch nicht für ein Fahrzeug oder einen Verband, das oder der die gleiche Bezeichnung führt und für das in § 3.14 Nummer 7 genannte Fahrzeug.
 
 
 11. Ein Fahrzeug oder ein Verband, das oder der die Bezeichnung nach § 3.14 Nummer 2 oder 3 führt, muss jeweils allein geschleust werden. Abweichend von Satz 1 kann ein Trockengüterschiff nach ADN, das Container, Großpackmittel (IBC), Großverpackungen, Gascontainer mit mehreren Elementen (MEGC), Tankcontainer und ortsbewegliche Tanks nach ADN Unterabschnitt 7.1.1.18 befördert und die Bezeichnung nach § 3.14 Nummer 2 führt, gemeinsam
@@ -9155,7 +9184,7 @@ Es ist verboten, an einem der in § 3.25 genannten Fahrzeuge an der Seite vorbei
 3.  Ein zur Schleusung anstehendes Fahrzeug muss vorbehaltlich der Regelung nach Nummer 2 so weit aufschließen, dass es unverzüglich nach dem Zeichen zur Einfahrt in die Schleuse einfahren kann. Versäumt ein Fahrzeug das Aufrücken, verliert es für die anstehende Schleusung seinen Rang. Ein Fahrzeug, das auf das Zeichen zur Einfahrt nicht schleusungsbereit ist, wird so lange zurückgestellt, bis es seine Vorbereitungen beendet hat.
 
 
-4.  Ein Fahrzeug der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, ein Fahrzeug, das zur Ausübung von Hoheitsaufgaben unterwegs ist oder ein schwer beschädigtes Fahrzeug haben vor allen übrigen Fahrzeugen das Recht auf Schleusung außer der Reihe (Schleusenvorrang); das Gleiche gilt für ein Rettungsfahrzeug oder ein Fahrzeug der Feuerwehr auf der Fahrt zur Unfallstelle.
+4.  Ein Fahrzeug der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, ein Fahrzeug, das zur Ausübung von Hoheitsaufgaben unterwegs ist oder ein schwer beschädigtes Fahrzeug haben vor allen übrigen Fahrzeugen das Recht auf Schleusung außer der Reihe (Schleusenvorrang); das Gleiche gilt für ein Rettungsfahrzeug, ein Fahrzeug der Feuerwehr oder ein Fahrzeug des Zivil- und Katastrophenschutzes jeweils auf der Fahrt zur Unfallstelle.
 
 
 5.  Auf Verlangen werden mit Vorrang in nachstehender Reihenfolge vor anderen als den in Nummer 4 genannten Fahrzeugen geschleust:
@@ -9231,7 +9260,19 @@ Die §§ 6.28, 6.28a und 6.29 sind auch auf ein Schiffshebewerk anzuwenden. In d
 ##### § 6.32 Mit Radar fahrende Fahrzeuge
 
 
-1.  Ein Fahrzeug darf nur mit Radar fahren, wenn sich eine Person, die neben dem für die geführte Fahrzeugart und die zu befahrende Strecke erforderlichen Befähigungszeugnis eine besondere Berechtigung für Radar nach der Binnenschiffspersonalverordnung oder ein nach Binnenschiffspersonalverordnung weitergeltendes Radarpatent besitzt und eine zweite Person, die mit der Verwendung von Radar in der Schifffahrt hinreichend vertraut ist, ständig im Steuerhaus aufhalten. Wenn in der Fahrtauglichkeitsbescheinigung vermerkt ist, dass das Fahrzeug über einen Radareinmannsteuerstand verfügt, muss sich die zweite Person nicht ständig im Steuerhaus aufhalten.
+1.  Ein Fahrzeug darf nur mit Radar fahren, wenn sich eine Person, die neben dem für die geführte Fahrzeugart und die zu befahrende Strecke erforderlichen Befähigungszeugnis
+
+    a)  eine besondere Berechtigung für Radar,
+
+
+    b)  einen nach der Binnenschiffspersonalverordnung der besonderen Berechtigung nach Buchstabe a gleichgestellten Nachweis oder
+
+
+    c)  ein nach der Binnenschiffspersonalverordnung weitergeltendes Radarpatent
+
+
+
+    besitzt und eine zweite Person, die mit der Verwendung von Radar in der Schifffahrt hinreichend vertraut ist, ständig im Steuerhaus aufhalten. Wenn in der Fahrtauglichkeitsbescheinigung vermerkt ist, dass das Fahrzeug über einen Radareinmannsteuerstand verfügt, muss sich die zweite Person nicht ständig im Steuerhaus aufhalten.
 
 
 2.  Bei der Begegnung und der Vorbeifahrt ist folgendes zu beachten:
@@ -9343,7 +9384,7 @@ In den Anwendungsbereichen der Kapitel 16 (ohne die Weser von km 204,47 bis Fuld
 ##### § 6.35 Verhaltenspflichten
 
 
-1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils die in § 6.02 Nummer 1 Satz 1 Buchstabe a, auch in Verbindung mit Satz 3, Buchstabe b und Nummer 3, § 6.02a Nummer 1, 2, 3 Satz 1 und 2, Nummer 4 Satz 1, auch in Verbindung mit Satz 2, Nummer 5 Satz 1 und 2 und Nummer 6, jeweils auch in Verbindung mit Nummer 7, § 6.03 Nummer 1 und 3, jeweils auch in Verbindung mit Nummer 2, § 6.03a Nummer 1, § 6.04 Nummer 1, 2, 3 Satz 1, 3 und 4, Nummer 4 und 5, § 6.05 Nummer 1 Satz 2 und Nummer 2 bis 4, §§ 6.07, 6.08 Nummer 1 Satz 1 und 3, §§ 6.09, 6.10, 6.11 Nummer 1 und 2 Halbsatz 1, §§ 6.12, 6.13 Nummer 1 bis 3, 4 Satz 1, §§ 6.14, 6.15, 6.16 Nummer 1 Satz 1 und 2, Nummer 2, 3, 5 Satz 2 und Nummer 6, § 6.17 Nummer 1 und 2, § 6.18 Nummer 1 und 2 Satz 2, § 6.19 Nummer 1, § 6.20 Nummer 1 und 3, § 6.22 Nummer 1 bis 3, §§ 6.22a, 6.23, 6.24 Nummer 1 und 2 Buchstabe a, § 6.25 Nummer 1 und 2 Satz 2 Halbsatz 2, § 6.26 Nummer 1 bis 3 und Nummer 5, § 6.27 Nummer 1 Satz 1, Nummer 2 Satz 1, auch in Verbindung mit Satz 2, Nummer 3 und 4, § 6.28 Nummer 2 bis 7, Nummer 8 Satz 1 bis 3, 6 und 7, Nummer 9 bis 15, jeweils auch in Verbindung mit § 6.29a, § 6.28a Nummer 1, auch in Verbindung mit § 6.29a, § 6.28a Nummer 2 Satz 7, Nummer 3 Satz 2 und 3 und Nummer 5, jeweils auch in Verbindung mit Nummer 4 und § 6.29a, § 6.29 Nummer 1 Satz 2, Nummer 2 Satz 2, 4 und 7, Nummer 3 Satz 1, Nummer 5 Satz 2 und Nummer 6 Satz 6, jeweils auch in Verbindung mit § 6.29a, § 6.30 Nummer 1 bis 5, § 6.31 Nummer 1 und 2, jeweils auch in Verbindung mit Nummer 3 Satz 2, §§ 6.33 und 6.34 Nummer 1 bis 7, jeweils auch in Verbindung mit Nummer 8 Satz 1, vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über das Verhalten im Verkehr einzuhalten oder sicherzustellen, dass diese eingehalten werden.
+1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils die in § 6.02 Nummer 1 Satz 1 Buchstabe a, auch in Verbindung mit Satz 3, Buchstabe b und Nummer 3, § 6.02a Nummer 1, 2, 3 Satz 1 und 2, Nummer 4 Satz 1, auch in Verbindung mit Satz 2, Nummer 5 Satz 1 und 2 und Nummer 6, jeweils auch in Verbindung mit Nummer 7, § 6.03 Nummer 1 und 3, jeweils auch in Verbindung mit Nummer 2, § 6.03a Nummer 1, § 6.04 Nummer 1, 2, 3 Satz 1, 3 und 4, Nummer 4 und 5, § 6.05 Nummer 1 Satz 2 und Nummer 2 bis 4, §§ 6.07, 6.08 Nummer 1 Satz 1 und 3, §§ 6.09, 6.10, 6.11 Nummer 1 und 2 Halbsatz 1, §§ 6.12, 6.13 Nummer 1 bis 3, 4 Satz 1, §§ 6.14, 6.15, 6.16 Nummer 1 Satz 1 und 2, Nummer 2, 3, 5 Satz 2 und Nummer 6, § 6.17 Nummer 1 und 2, § 6.18 Nummer 1 und 2 Satz 2, § 6.19 Nummer 1, § 6.20 Nummer 1 und 3, § 6.22 Nummer 1 bis 3, §§ 6.22a, 6.23, 6.24 Nummer 1 und 2 Buchstabe a, § 6.25 Nummer 1 und 2 Satz 2 Halbsatz 2, § 6.26 Nummer 1 bis 3 und Nummer 5, § 6.27 Nummer 1 Satz 1, Nummer 2 Satz 1, auch in Verbindung mit Satz 2, Nummer 3 und 4, § 6.28 Nummer 2 bis 7, Nummer 8 Satz 1 bis 3, 6 und 7, Nummer 9 Satz 1, Nummer 10 bis 15, jeweils auch in Verbindung mit § 6.29a, § 6.28a Nummer 1, auch in Verbindung mit § 6.29a, § 6.28a Nummer 2 Satz 7, Nummer 3 Satz 2 und 3 und Nummer 5, jeweils auch in Verbindung mit Nummer 4 und § 6.29a, § 6.29 Nummer 1 Satz 2, Nummer 2 Satz 2, 4 und 7, Nummer 3 Satz 1, Nummer 5 Satz 2 und Nummer 6 Satz 6, jeweils auch in Verbindung mit § 6.29a, § 6.30 Nummer 1 bis 5, § 6.31 Nummer 1 und 2, jeweils auch in Verbindung mit Nummer 3 Satz 2, §§ 6.33 und 6.34 Nummer 1 bis 7, jeweils auch in Verbindung mit Nummer 8 Satz 1, vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über das Verhalten im Verkehr einzuhalten oder sicherzustellen, dass diese eingehalten werden.
 
 
 2.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils sicherzustellen, dass die Tafel und die Leuchte des Funkellichts nach § 6.04 Nummer 3 Satz 1 Buchstabe a und b jeweils den Anforderungen nach § 6.04 Nummer 3 Satz 2 entsprechen.
@@ -9784,7 +9825,18 @@ In den Anwendungsbereichen der Kapitel 16 (ohne die Weser von km 204,47 bis Fuld
 
 
 
-2.  An Bord eines stillliegenden Fahrzeugs, das das Kennzeichen nach § 2.06 trägt, ist eine einsatzfähige Wache nicht erforderlich, wenn
+2.  Die einsatzfähige Wache wird durch ein Mitglied der Besatzung sichergestellt, das
+
+    a)  bei Fahrzeugen nach Nummer 1 Buchstabe a Inhaber eines Unionsbefähigungszeugnisses nach § 17 Absatz 1 der Binnenschiffspersonalverordnung oder eines Befähigungszeugnisses nach § 15.02 der Rheinschiffspersonalverordnung ist,
+
+
+    b)  bei Fahrzeugen nach Nummer 1 Buchstabe b und c Inhaber einer Sachkundebescheinigung nach dem Muster des Abschnitts 8.6.2 des ADN ist.
+
+
+
+
+
+3.  An Bord eines stillliegenden Fahrzeugs, das das Kennzeichen nach § 2.06 trägt, ist eine einsatzfähige Wache nicht erforderlich, wenn
 
     a)  Flüssigerdgas (LNG) an Bord des Fahrzeugs nicht als Brennstoff verbraucht wird,
 
@@ -9798,7 +9850,7 @@ In den Anwendungsbereichen der Kapitel 16 (ohne die Weser von km 204,47 bis Fuld
 
 
 
-3.  An Bord eines stillliegenden Fahrzeugs, das mit gefährlichen Gütern nach Kapitel 3.2 Tabelle A ADN beladen ist und eine Bezeichnung nach § 3.14 führt oder das nach dem Entladen solcher Güter noch nicht frei von gefährlichen Gasen ist, ist eine einsatzfähige Wache nicht erforderlich, wenn
+4.  An Bord eines stillliegenden Fahrzeugs, das mit gefährlichen Gütern nach Kapitel 3.2 Tabelle A ADN beladen ist und eine Bezeichnung nach § 3.14 führt oder das nach dem Entladen solcher Güter noch nicht frei von gefährlichen Gasen ist, ist eine einsatzfähige Wache nicht erforderlich, wenn
 
     a)  das Fahrzeug in einem Hafenbecken stillliegt und
 
@@ -9809,7 +9861,7 @@ In den Anwendungsbereichen der Kapitel 16 (ohne die Weser von km 204,47 bis Fuld
 
 
 
-4.  Alle übrigen Fahrzeuge, Schwimmkörper und schwimmenden Anlagen müssen beim Stillliegen von einer Person beaufsichtigt werden, die in der Lage ist, im Bedarfsfall rasch einzugreifen. Satz 1 gilt nicht, wenn die Aufsicht wegen der örtlichen Verhältnisse nicht erforderlich ist oder die zuständige Behörde eine Ausnahme zulässt.
+5.  Alle übrigen Fahrzeuge, Schwimmkörper und schwimmenden Anlagen müssen beim Stillliegen von einer Person beaufsichtigt werden, die in der Lage ist, im Bedarfsfall rasch einzugreifen. Satz 1 gilt nicht, wenn die Aufsicht wegen der örtlichen Verhältnisse nicht erforderlich ist oder die zuständige Behörde eine Ausnahme zulässt.
 
 
 
@@ -9821,7 +9873,19 @@ In den Anwendungsbereichen der Kapitel 16 (ohne die Weser von km 204,47 bis Fuld
 1.  Der Schiffsführer hat die in § 7.01 Nummer 1 bis 4 und Nummer 5 Satz 3, § 7.02 Nummer 1, auch in Verbindung mit Nummer 2, und Nummer 3, § 7.03 Nummer 1 Satz 1, auch in Verbindung mit Nummer 2, § 7.04 Nummer 1, auch in Verbindung mit Nummer 2, und Nummer 3, §§ 7.05, 7.06 Nummer 1 bis 3 und 4 Satz 1, auch in Verbindung mit Satz 2, und § 7.07 Nummer 1 vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über das Verhalten beim Stillliegen, Ankern oder Festmachen einzuhalten oder sicherzustellen, dass diese eingehalten werden.
 
 
-2.  Der Schiffsführer, der Eigentümer und der Ausrüster haben jeweils die in § 7.08 Nummer 1 und 4 Satz 1 vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote über das Verhalten beim Stillliegen einzuhalten oder sicherzustellen, dass diese eingehalten werden.
+2.  Der Schiffsführer, der Eigentümer und der Ausrüster haben jeweils die in § 7.08
+
+    a)  Nummer 1 Buchstabe a in Verbindung mit Nummer 2 Buchstabe a,
+
+
+    b)  Nummer 1 Buchstabe b oder c, jeweils in Verbindung mit Nummer 2 Buchstabe b,
+
+
+    c)  Nummer 1 Buchstabe d, Nummer 3 Buchstabe c und Nummer 5 Satz 1
+
+
+
+    vorgesehenen oder aufgrund dieser Vorschriften angeordneten Gebote über die Wache und Aufsicht beim Stillliegen einzuhalten oder sicherzustellen, dass diese eingehalten werden.
 
 
 
@@ -10399,7 +10463,7 @@ Die Vorschriften dieses Kapitel gelten auf dem **Neckar**              (Ne) von 
 
     *        *   1.3
 
-        *   km 3,00 bis km 4,60
+        *   km 3,00 bis km 13,00
 
         *
         *
@@ -10407,7 +10471,7 @@ Die Vorschriften dieses Kapitel gelten auf dem **Neckar**              (Ne) von 
     *        *
         *   Fahrzeug/Verband
 
-        *   105,50
+        *   110,00
 
         *   11,45
 
@@ -10419,7 +10483,7 @@ Die Vorschriften dieses Kapitel gelten auf dem **Neckar**              (Ne) von 
 
     *        *   1.4
 
-        *   km 4,60 bis 201,49 (Hafen Plochingen)
+        *   km 13,00 bis km 201,49 (Hafen Plochingen)
 
         *
         *
@@ -14249,18 +14313,14 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
 
     *        *   1.12.1
 
-        *   ausgebaute Strecken des Mittellandkanals
+        *   km 0,00 bis km 325,70
 
         *
         *
         *
 
     *        *
-        *
-            a)  Fahrzeug
-
-
-
+        *   a) Fahrzeug
 
         *   110,00
 
@@ -14270,11 +14330,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
 
 
     *        *
-        *
-            b)  Verband
-
-
-
+        *   b) Verband
 
         *   185,00
 
@@ -14285,7 +14341,8 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
 
     *        *   1.12.2
 
-        *   nicht ausgebaute Strecken des Mittellandkanals
+        *   Stichkanäle Ibbenbüren, Osnabrück,
+            Hannover-Linden, **Misburg, Hildesheim**
 
         *
         *
@@ -14293,7 +14350,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
 
     *        *   1.12.2.1
 
-        *   westlich km 318,50 mit **Stichkanal Ibbenbüren**
+        *   **Stichkanal Ibbenbüren**
 
         *
         *
@@ -14327,44 +14384,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *   2,00
 
 
-    *        *
-        *   soweit nachfolgend nicht etwas anderes festgelegt ist
-
-        *
-        *
-        *
-
     *        *   1.12.2.2
-
-        *   km 235,89 bis km 318,50
-
-        *
-        *
-        *
-
-    *        *
-        *   Verband
-
-        *   147,00
-
-        *   9,00
-
-        *   2,10
-
-
-    *        *
-        *   — ein Schubverband mit einer Länge von mehr als 125,00 m darf nur fahren, wenn er mit einer aktiven Bugsteuereinrichtung oder einem Zweischraubenantrieb ausgerüstet ist –
-
-
-    *        *   1.12.3
-
-        *   **Stichkanäle Osnabrück, Hannover-Linden, Misburg und Hildesheim**
-
-        *
-        *
-        *
-
-    *        *   1.12.3.1
 
         *   **Stichkanal Osnabrück**
 
@@ -14372,7 +14392,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *
         *
 
-    *        *   1.12.3.1.1
+    *        *   1.12.2.2.1
 
         *   km 0,00 bis km 13,01
 
@@ -14397,9 +14417,9 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *
         *
 
-    *        *   1.12.3.1.2
+    *        *   1.12.2.2.2
 
-        *   km 0,00 bis km 12,40 (Einfahrt in den Ölhafen)
+        *   km 0,00 bis km 12,40 (Einfahrt in den Ölhafen)
 
         *
         *
@@ -14415,7 +14435,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *   2,80
 
 
-    *        *   1.12.3.2
+    *        *   1.12.2.3
 
         *   **Stichkanal Hannover-Linden**
 
@@ -14423,10 +14443,9 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *
         *
 
-    *        *   1.12.3.2.1
+    *        *   1.12.2.3.1
 
-        *   km 0,00 (Abzweigung aus dem Mittellandkanal)
-            bis km 10,75 (Ende als Bundeswasserstraße)
+        *   km 0,00 (Abzweigung aus dem Mittellandkanal) bis km 10,75 (Ende als Bundeswasserstraße)
 
         *
         *
@@ -14449,10 +14468,9 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *
         *
 
-    *        *   1.12.3.2.2
+    *        *   1.12.2.3.2
 
-        *   km 0,00 (Abzweigung aus dem Mittellandkanal)
-            bis km 6,50 (Umschlagstelle Hannover-Letter)
+        *   km 0,00 (Abzweigung aus dem Mittellandkanal) bis km 6,50 (Umschlagstelle Hannover-Letter)
 
         *
         *
@@ -14468,10 +14486,10 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *   2,40
 
 
-    *        *   1.12.3.2.3
+    *        *   1.12.2.3.3
 
-        *   km 6,50 (Umschlagstelle Hannover-Letter)
-            bis km 9,50 (Unterwasser Hafenschleuse Hannover-Linden)
+        *   km 6,50 (Umschlagstelle Hannover-Letter) bis km 9,50 (Unterwasser Hafenschleuse
+            Hannover-Linden)
 
         *
         *
@@ -14487,7 +14505,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *   2,30
 
 
-    *        *   1.12.3.3
+    *        *   1.12.2.4
 
         *   **Stichkanal Misburg**
 
@@ -14496,11 +14514,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *
 
     *        *
-        *
-            a)  Fahrzeug
-
-
-
+        *   a) Fahrzeug
 
         *   110,00
 
@@ -14510,11 +14524,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
 
 
     *        *
-        *
-            b)  Verband
-
-
-
+        *   b) Schubverband
 
         *   185,00
 
@@ -14523,7 +14533,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *   2,80
 
 
-    *        *   1.12.3.4
+    *        *   1.12.2.5
 
         *   **Stichkanal Hildesheim**
 
@@ -14532,11 +14542,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *
 
     *        *
-        *
-            a)  Fahrzeug
-
-
-
+        *   a) Fahrzeug
 
         *   90,00
 
@@ -14564,11 +14570,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
 
 
     *        *
-        *
-            b)  Verband
-
-
-
+        *   b) Verband
 
         *   90,00
 
@@ -14613,7 +14615,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *   1,90
 
 
-    *        *   1.12.4
+    *        *   1.12.3
 
         *   **Verbindungskanal Nord zur Weser**
 
@@ -14621,22 +14623,16 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *
         *
 
-    *        *   1.12.4.1
+    *        *   1.12.3.1
 
-        *   km 0,00 (Abzweigung aus dem Mittellandkanal)
-            bis km 0,45 (Oberwasser Schachtschleuse Minden)/
-            km 0,40 (Oberwasser Weserschleuse)
+        *   km 0,00 (Abzweigung aus dem Mittellandkanal) bis km 0,45 (Oberwasser Schachtschleuse Minden)/km 0,40 (Oberwasser Weserschleuse)
 
         *
         *
         *
 
     *        *
-        *
-            a)  Fahrzeug
-
-
-
+        *   a) Fahrzeug
 
         *   110,00
 
@@ -14646,11 +14642,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
 
 
     *        *
-        *
-            b)  Verband
-
-
-
+        *   b) Verband
 
         *   139,00
 
@@ -14659,7 +14651,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *   2,80
 
 
-    *        *   1.12.4.2
+    *        *   1.12.3.2
 
         *   **Schachtschleuse Minden**
 
@@ -14677,7 +14669,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *   2,80
 
 
-    *        *   1.12.4.3
+    *        *   1.12.3.3
 
         *   **Weserschleuse**
 
@@ -14686,57 +14678,40 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *
 
     *        *
-        *
-            a)  Fahrzeug
-
-
-
+        *   a) Fahrzeug
 
         *   110,00
 
         *   11,45
 
-        *   richtet sich
-            nach der
-            Fahrrinnentiefe nach
-            Nummer
-            1\.12.4.4
+        *   richtet sich nach der Fahrrinnen-
+            tiefe nach
+            Nummer 1.12.3.4
 
 
     *        *
-        *
-            b)  Verband
-
-
-
+        *   b) Verband
 
         *   135,00
 
         *   11,45
 
-        *   richtet sich
-            nach der
-            Fahrrinnentiefe nach
-            Nummer
-            1\.12.4.4
+        *   richtet sich nach
+            der Fahrrinnen-
+            tiefe nach
+            Nummer 1.12.3.4
 
 
-    *        *   1.12.4.4
+    *        *   1.12.3.4
 
-        *   km 0,55 (Unterwasser Schachtschleuse Minden)/
-            km 0,56 (Unterwasser Weserschleuse)
-            bis km 1,29 (Einmündung in die Weser)
+        *   km 0,55 (Unterwasser Schachtschleuse Minden)/km 0,56 (Unterwasser Weserschleuse) bis km 1,29 (Einmündung in die Weser)
 
         *
         *
         *
 
     *        *
-        *
-            a)  Fahrzeug
-
-
-
+        *   a) Fahrzeug
 
         *   110,00
 
@@ -14744,15 +14719,11 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
 
         *   richtet sich
             nach der
-            Fahrrinnentiefe
+            Fahrinnentiefe
 
 
     *        *
-        *
-            b)  Verband
-
-
-
+        *   b) Verband
 
         *   139,00
 
@@ -14766,8 +14737,11 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
     *        *
         *   – die Fahrrinnentiefe beträgt 2,80 m –
 
+        *
+        *
+        *
 
-    *        *   1.12.5
+    *        *   1.12.4
 
         *   **Verbindungskanal Süd zur Weser**
 
@@ -14785,7 +14759,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *   2,50
 
 
-    *        *   1.12.6
+    *        *   1.12.5
 
         *   **Stichkanal Salzgitter**
 
@@ -14793,7 +14767,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *
         *
 
-    *        *   1.12.6.1
+    *        *   1.12.5.1
 
         *   bei Benutzung der am Ostufer gelegenen Schleusen
 
@@ -14802,11 +14776,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *
 
     *        *
-        *
-            a)  Fahrzeug
-
-
-
+        *   a) Fahrzeug
 
         *   110,00
 
@@ -14825,11 +14795,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
 
 
     *        *
-        *
-            b)  Verband
-
-
-
+        *   b) Verband
 
         *   110,00
 
@@ -14865,7 +14831,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *   2,50
 
 
-    *        *   1.12.6.2
+    *        *   1.12.5.2
 
         *   bei Benutzung der am Westufer gelegenen Schleusen
 
@@ -14874,11 +14840,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *
 
     *        *
-        *
-            a)  Fahrzeug
-
-
-
+        *   a) Fahrzeug
 
         *   110,00
 
@@ -14897,11 +14859,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
 
 
     *        *
-        *
-            b)  Verband
-
-
-
+        *   b) Verband
 
         *   185,00
 
@@ -14919,7 +14877,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *   2,20
 
 
-    *        *   1.12.7
+    *        *   1.12.6
 
         *   **Rothenseer Verbindungskanal**
 
@@ -14927,7 +14885,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *
         *
 
-    *        *   1.12.7.1
+    *        *   1.12.6.1
 
         *   Rothenseer Verbindungskanal Altstrecke mit Schiffshebewerk Rothensee km 0,12 bis km 1,00
 
@@ -14954,29 +14912,25 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *   2,10
 
 
-    *        *   1.12.7.2
+    *        *   1.12.6.2
 
-        *   Rothenseer Verbindungskanal mit Schiffsschleuse km 0,19 bis km 4,76 (Niedrigwasserschleuse
-            Magdeburg)
+        *   Rothenseer Verbindungskanal mit Schiffsschleuse km 0,19 bis km 4,76
+            (Niedrigwasserschleuse Magdeburg)
 
         *
         *
         *
 
-    *        *   1.12.7.2.1
+    *        *   1.12.6.2.1
 
-        *   bei in Betrieb befindlicher Niedrigwasserschleuse Magdeburg
+        *   bei in Betrieb befindlicher Niedrigwasserschleuse
 
         *
         *
         *
 
     *        *
-        *
-            a)  Fahrzeug
-
-
-
+        *   a) Fahrzeug
 
         *   110,00
 
@@ -14986,11 +14940,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
 
 
     *        *
-        *
-            b)  Verband
-
-
-
+        *   b) Verband
 
         *   185,00
 
@@ -14999,20 +14949,16 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *   2,80
 
 
-    *        *   1.12.7.2.2
+    *        *   1.12.6.2.2
 
-        *   bei nicht in Betrieb befindlicher Niedrigwasserschleuse Magdeburg
+        *   bei nicht in Betrieb befindlicher Niedrigwasserschleuse
 
         *
         *
         *
 
     *        *
-        *
-            a)  Fahrzeug
-
-
-
+        *   a) Fahrzeug
 
         *   110,00
 
@@ -15023,11 +14969,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
 
 
     *        *
-        *
-            b)  Verband
-
-
-
+        *   b) Verband
 
         *   185,00
 
@@ -15041,21 +14983,16 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
         *   – die Fahrrinnentiefe richtet sich vom unteren Vorhafen der Schleuse Rothensee und vom unteren Vorhafen des Schiffshebewerkes Rothensee bis zur Niedrigwasserschleuse Magdeburg nach dem Wasserstand; die geringste Fahrrinnentiefe wird von der zuständigen Behörde täglich bekannt gemacht; bei der Wahl der Abladetiefe sind die bekannt gemachten Fahrrinnentiefen und die aktuelle Wasserstandsentwicklung zu berücksichtigen –
 
 
-    *        *   1.12.7.3
+    *        *   1.12.6.3
 
-        *   km 4,76 (Niedrigwasserschleuse Magdeburg)
-            bis km 5,53 (Elbe)
+        *   km 4,76 (Niedrigwasserschleuse Magdeburg) bis km 5,53 (Elbe)
 
         *
         *
         *
 
     *        *
-        *
-            a)  Fahrzeug
-
-
-
+        *   a) Fahrzeug
 
         *   110,00
 
@@ -15066,11 +15003,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
 
 
     *        *
-        *
-            b)  Verband
-
-
-
+        *   b) Verband
 
         *   100,00
 
@@ -15093,6 +15026,9 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
     *        *
         *   – die Fahrrinnentiefe richtet sich von der Niedrigwasserschleuse Magdeburg bis zur Einmündung in die Elbe nach dem Wasserstand; die geringste Fahrrinnentiefe wird von der zuständigen Behörde täglich bekannt gemacht; bei der Wahl der Abladetiefe sind die bekannt gemachten Fahrrinnentiefen und die aktuelle Wasserstandsentwicklung zu berücksichtigen –
 
+
+    *        *
+        *
 
     *        *   1.13
 
@@ -15607,7 +15543,7 @@ Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**      
 
 
 
-2.  Die Abmessungen und Abladetiefen für Verbände nach Nummer 1, ausgenommen Nummer 1.5.3, 1.8 und 1.12.2, gelten auch für Gelenkverbände. Die Abmessungen und Abladetiefen für Fahrzeuge nach Nummer 1.5.3, 1.8 und 1.12.2 gelten auch für die in einen Gelenkverband eingestellten Fahrzeuge, wobei die Gesamtlänge des Gelenkverbandes auf dem **Dortmund-Ems-Kanal**                    die Nutzlänge der vorhandenen Schleusen nicht überschreiten darf.
+2.  Die Abmessungen und Abladetiefen für Verbände nach Nummer 1, ausgenommen Nummer 1.5.3 und 1.8 gelten auch für Gelenkverbände. Die Abmessungen und Abladetiefen für Fahrzeuge nach Nummer 1.5.3 und 1.8 gelten auch für die in einen Gelenkverband eingestellten Fahrzeuge, wobei die Gesamtlänge des Gelenkverbandes auf dem **Dortmund-Ems-Kanal**                    die Nutzlänge der vorhandenen Schleusen nicht überschreiten darf.
 
 
 3.  Die Abmessungen und Abladetiefen nach Nummer 1.14 gelten nicht auf den Stich- und Altkanälen, Nebenarmen und sonstigen Nebenwasserstraßen des **Elbe-Havel-Kanals**                   , soweit diese nicht gesondert aufgeführt sind.
@@ -17072,17 +17008,17 @@ Verhaltenspflichten des Schiffsführers,
 
         aa) das von ihm geführte Fahrzeug oder der von ihm geführte Verband
 
-            aaa) die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.1.1 bis 1.5.2, 1.5.4 bis 1.5.6, 1.9, 1.10, 1.12.1, 1.12.3 bis 1.12.4.2, 1.12.5 bis 1.12.7.2.1, 1.13.1 bis 1.14.2.1 und 1.14.3.2 bis 1.14.4, jeweils auch in Verbindung mit Nummer 2 Satz 1, die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.5.3, 1.8.2, 1.8.3 und 1.12.2, jeweils auch in Verbindung mit Nummer 2 Satz 2, die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.6, 1.11, 1.12.4.3, 1.12.4.4, 1.12.7.2.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 und 1.14.5, jeweils auch in Verbindung mit Nummer 2 Satz 1, und die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.8.1, auch in Verbindung mit Nummer 2 Satz 2, und
+            aaa) die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.1.1 bis 1.5.2, 1.5.4 bis 1.5.6, 1.9, 1.10, 1.12.1, 1.12.2 bis 1.12.3.2, 1.12.4 bis 1.12.6.2.1, 1.13.1 bis 1.14.2.1 und 1.14.3.2 bis 1.14.4, jeweils auch in Verbindung mit Nummer 2 Satz 1, die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.5.3, 1.8.2 und 1.8.3, jeweils auch in Verbindung mit Nummer 2 Satz 2, die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.6, 1.11, 1.12.3.3, 1.12.3.4, 1.12.6.2.2, 1.12.6.3, 1.14.2.2, 1.14.3.1 und 1.14.5, jeweils auch in Verbindung mit Nummer 2 Satz 1, und die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.8.1, auch in Verbindung mit Nummer 2 Satz 2, und
 
 
-            bbb) die zugelassenen Abladetiefen nach § 15.02 Nummer 1.6, 1.8.1, 1.11, 1.12.4.3, 1.12.4.4, 1.12.7.2.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 und 1.14.5
+            bbb) die zugelassenen Abladetiefen nach § 15.02 Nummer 1.6, 1.8.1, 1.11, 1.12.3.3, 1.12.3.4, 1.12.6.2.2, 1.12.6.3, 1.14.2.2, 1.14.3.1 und 1.14.5
 
 
 
             nicht überschreitet,
 
 
-        bb) auf dem von ihm geführten Fahrzeug oder Verband in dem in § 15.02 Nummer 1.1, 1.2, 1.3, 1.4, 1.5, 1.8.3 und 1.12.2.2 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist,
+        bb) auf dem von ihm geführten Fahrzeug oder Verband in dem in § 15.02 Nummer 1.1, 1.2, 1.3, 1.4, 1.5 und 1.8.3 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist,
 
 
         cc) der Stichkanal Osnabrück von SKO-km 0,00 bis zur Schleuse Haste (SKO-km 12,69) gemäß § 15.25 Nummer 1 erst nach Freigabe durch die Schleusenaufsicht an der Schleuse Haste befahren wird,
@@ -17128,17 +17064,17 @@ Verhaltenspflichten des Schiffsführers,
 
     a)  das Fahrzeug oder der Verband
 
-        aa) die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.1.1 bis 1.5.2, 1.5.4 bis 1.5.6, 1.9, 1.10, 1.12.1, 1.12.3 bis 1.12.4.2, 1.12.5 bis 1.12.7.2.1, 1.13.1 bis 1.14.2.1 und 1.14.3.2 bis 1.14.4, jeweils auch in Verbindung mit Nummer 2 Satz 1, die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.5.3, 1.8.2, 1.8.3 und 1.12.2, jeweils auch in Verbindung mit Nummer 2 Satz 2, die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.6, 1.11, 1.12.4.3, 1.12.4.4, 1.12.7.2.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 und 1.14.5, jeweils auch in Verbindung mit Nummer 2 Satz 1, und die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.8.1, auch in Verbindung mit Nummer 2 Satz 2, und
+        aa) die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.1.1 bis 1.5.2, 1.5.4 bis 1.5.6, 1.9, 1.10, 1.12.1, 1.12.2 bis 1.12.3.2, 1.12.4 bis 1.12.6.2.1, 1.13.1 bis 1.14.2.1 und 1.14.3.2 bis 1.14.4, jeweils auch in Verbindung mit Nummer 2 Satz 1, die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.5.3, 1.8.2 und 1.8.3, jeweils auch in Verbindung mit Nummer 2 Satz 2, die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.6, 1.11, 1.12.3.3, 1.12.3.4, 1.12.6.2.2, 1.12.6.3, 1.14.2.2, 1.14.3.1 und 1.14.5, jeweils auch in Verbindung mit Nummer 2 Satz 1, und die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.8.1, auch in Verbindung mit Nummer 2 Satz 2, und
 
 
-        bb) die zugelassenen Abladetiefen nach § 15.02 Nummer 1.6, 1.8.1, 1.11, 1.12.4.3, 1.12.4.4, 1.12.7.2.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 und 1.14.5
+        bb) die zugelassenen Abladetiefen nach § 15.02 Nummer 1.6, 1.8.1, 1.11, 1.12.3.3, 1.12.3.4, 1.12.6.2.2, 1.12.6.3, 1.14.2.2, 1.14.3.1 und 1.14.5
 
 
 
         nicht überschreitet und
 
 
-    b)  auf dem Fahrzeug oder Verband in dem in § 15.02 Nummer 1.1, 1.2, 1.3, 1.4, 1.5, 1.8.3 und 1.12.2.2 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist.
+    b)  auf dem Fahrzeug oder Verband in dem in § 15.02 Nummer 1.1, 1.2, 1.3, 1.4, 1.5 und 1.8.3 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist.
 
 
 
@@ -17577,7 +17513,7 @@ Fahrzeuge, ausgenommen Kleinfahrzeuge, dürfen nur zum Abschleppen eines beschä
 
 *    *
     *
-    *   von km 202,50 bis km 207,00 (Stadtgebiet Minden),
+    *   von km 202,00 bis km 207,00 (Stadtgebiet Minden),
 
     *
 
@@ -18641,7 +18577,7 @@ Die Vorschriften dieses Kapitels gelten auf der **Elbe**              von der de
 
 
 
-    eingestellt werden. Abweichend von Satz 1 Buchstabe a darf in einen Schleppverband in der Talfahrt von km 56,80 bis km 607,50 höchstens ein Anhang eingestellt werden, wenn das schleppende Fahrzeug eine Länge von 80,00 m überschreitet. Ein Schleppverband darf von Wittenberge (km 455,00) bis Oortkaten – Grenze zum Hamburger Hafen (km 607,50) eine Gesamtlänge von 600,00 m nicht überschreiten.
+    eingestellt werden. Abweichend von Satz 1 Buchstabe a darf in einen Schleppverband in der Talfahrt von km 56,80 bis km 607,50 höchstens ein Anhang eingestellt werden, wenn das schleppende Fahrzeug eine Länge von 80,00 m überschreitet. Ein Schleppverband darf von Wittenberge (km 455,00) bis Oortkaten – Grenze zum Hamburger Hafen (km 607,50) eine Gesamtlänge von 600,00 m nicht überschreiten. Unbeschadet des Satzes 2 kann die zuständige Behörde im Einzelfall Ausnahmen von Satz 1 zulassen.
 
 
 2.  Werden in einem Schleppverband schwimmende Geräte unmittelbar hintereinander geschleppt, werden sie als Fahrzeug angesehen, wenn die Gesamtlänge des Schleppverbandes 80,00 m nicht überschreitet. Das an letzter Stelle eines Schleppverbandes nach Satz 1 eingestellte Fahrzeug muss mit einem Ruder versehen sein.
@@ -19001,7 +18937,7 @@ Durchfahren der Brücken, Sperrwerke,
 
     b)  die Vorschriften über
 
-        aa) die Zusammenstellung der Verbände nach § 17.03 Nummer 1, 2 Satz 2 und Nummer 4 Satz 2 und
+        aa) die Zusammenstellung der Verbände nach § 17.03 Nummer 1 Satz 1 bis 3, Nummer 2 Satz 2 und Nummer 4 Satz 2 und
 
 
         bb) das Verhalten gegenüber einer Seilfähre nach § 17.22 Nummer 1 und 2, auch in Verbindung mit Nummer 3,
@@ -19363,6 +19299,10 @@ Ein Fahrzeug oder ein Schubverband darf folgende Abmessungen und Abladetiefen ni
 
 
 *    *
+    *   – von km 0,00 bis km 3,43 (Schleuse Büssau) verringert sich die Abladetiefe bei einem Wasserstand unter 500 cm am Pegel Hubbrücken um das Maß des jeweiligen Absinkens des Wasserstandes –
+
+
+*    *
     *   soweit nachfolgend nicht etwas anderes festgelegt ist
 
     *
@@ -19371,7 +19311,7 @@ Ein Fahrzeug oder ein Schubverband darf folgende Abmessungen und Abladetiefen ni
 
 *    *   1.2
 
-    *   km 0,00 bis km 59,17 (Umschlagstelle Horsterdamm/Liegestelle Lauenburg Ost)
+    *   km 0,00 bis km 59,00 (Umschlagstelle Horsterdamm/Liegestelle Lauenburg-Ost)
 
     *
     *
@@ -19393,18 +19333,32 @@ Ein Fahrzeug oder ein Schubverband darf folgende Abmessungen und Abladetiefen ni
 
 *    *   1.3
 
-    *   km 59,17 (Umschlagstelle Horsterdamm/Liegestelle Lauenburg Ost) bis km 61,55 (Einmündung in die Elbe)
+    *   km 55,00 (Wendestelle Lanzer See) bis km 59,00 (Umschlagstelle Horsterdamm/Liegestelle Lauenburg-Ost)
 
     *
     *
     *
 
 *    *
+    *   Fahrzeug
+
+    *   86,00
+
+    *   9,50
+
+    *   2,00
+
+
+*    *   1.4
+
+    *   km 59,00 (Umschlagstelle Horsterdamm/Liegestelle Lauenburg-Ost) bis km 61,55 (Einmündung in die Elbe)
+
     *
-        a)  Fahrzeug
+    *
+    *
 
-
-
+*    *
+    *   a) Fahrzeug
 
     *   110,00
 
@@ -19414,11 +19368,7 @@ Ein Fahrzeug oder ein Schubverband darf folgende Abmessungen und Abladetiefen ni
 
 
 *    *
-    *
-        b)  Schubverband
-
-
-
+    *   b) Schubverband
 
     *   125,00
 
@@ -23217,7 +23167,7 @@ Ein Sportfahrzeug, von dem aus Sporttauchen betrieben wird, muss neben der nach 
 5.  Abweichend von § 3.20 braucht ein Kleinfahrzeug bei Nacht kein weißes Licht zu führen, wenn es an einer genehmigten Liegestelle stillliegt.
 
 
-6.  Ein unbemanntes Kleinfahrzeug darf nur an einer genehmigten Liegestelle stillliegen. Abweichend von Satz 1 darf ein unbemanntes Kleinfahrzeug an einer ungenehmigten Liegestelle bis zu einem Tag stillliegen. Satz 2 gilt nicht auf einem Kanal und nicht auf der **Spree-Oder-Wasserstraße**                    von km 0,00 bis zur Stralauer Spitze (km 25,65).
+6.  Ein unbemanntes Kleinfahrzeug darf nur an einer genehmigten Liegestelle stillliegen. Abweichend von Satz 1 darf ein unbemanntes Kleinfahrzeug an einer ungenehmigten Liegestelle bis zu einem Tag stillliegen. Satz 2 gilt nicht auf einem Kanal und nicht auf der **Spree-Oder-Wasserstraße**                    von km 0,00 bis zur Stralauer Spitze (km 23,65).
 
 
 
@@ -25658,7 +25608,7 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
         *
         *   86,00
 
-        *   9,50
+        *   9,60
 
         *   1,85
 
@@ -25668,9 +25618,9 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
 
         *   Verband
 
-        *   82,00
+        *   86,00
 
-        *   9,50
+        *   9,60
 
         *   1,85
 
@@ -25696,8 +25646,8 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
 
 
     *        *
-        *   – ein Fahrzeug oder ein Verband darf nur bis zu einer Länge von jeweils 82,00 m das Schiffshebewerk Niederfinow (alt) durchfahren;
-            bis km 28,60 darf ein Fahrzeug oder ein Schubverband mit jeweils einer Länge von mehr als 80,00 m und nicht mehr als 82,00 m und einer Breite von mehr als 9,00 m und nicht mehr als 9,50 m fahren, wenn es oder er eine Abladetiefe von 1,90 m nicht überschreitet und mit einer aktiven Bugsteuereinrichtung ausgerüstet ist –
+        *   – ein Fahrzeug oder ein Verband darf nur bis zu einer Länge von jeweils 82,00 m das Schiffshebewerk Niederfinow Süd durchfahren;
+            bis km 28,60 darf ein Fahrzeug oder ein Schubverband mit jeweils einer Länge von mehr als 80,00 m und nicht mehr als 86,00 m und einer Breite von mehr als 9,00 m und nicht mehr als 9,60 m fahren, wenn es oder er eine Abladetiefe von 1,90 m nicht überschreitet und mit einer aktiven Bugsteuereinrichtung ausgerüstet ist –
 
 
     *        *
@@ -25724,13 +25674,6 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
 
         *   2,00
 
-
-    *        *
-        *
-        *
-        *
-        *
-        *
 
     *        *   1.1.3
 
@@ -25760,21 +25703,8 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
 
 
     *        *
-        *
-        *
-        *
-        *
+        *   – ein Schubverband mit jeweils einer Länge von mehr als 80,00 m und nicht mehr als 86,00 m und einer Breite von mehr als 9,00 m und nicht mehr als 9,60 m darf fahren, wenn es oder er eine Abladetiefe von 1,90 m nicht überschreitet und mit einer aktiven Bugsteuereinrichtung ausgerüstet ist –
 
-    *        *
-        *   – ein Schubverband mit jeweils einer Länge von mehr als 80,00 m und nicht mehr als 82,00 m und einer Breite von mehr als 9,00 m und nicht mehr als 9,50 m darf fahren, wenn es oder er eine Abladetiefe von 1,90 m nicht überschreitet und mit einer aktiven Bugsteuereinrichtung ausgerüstet ist –
-
-
-    *        *
-        *
-        *
-        *
-        *
-        *
 
     *        *   1.1.4
 
@@ -25801,7 +25731,7 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
         *
         *   86,00
 
-        *   9,50
+        *   9,60
 
         *   1,85
 
@@ -25829,16 +25759,9 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
 
 
     *        *
-        *   – ein Fahrzeug oder ein Verband darf nur bis zu einer Länge von jeweils 82,00 m das Schiffshebewerk Niederfinow (alt) durchfahren;
-            wenn der Wasserstand am Unterpegel Lehnitz unter die Marke 225 sinkt, verringern sich die zulässigen Abladetiefen von km 15,20 bis km 28,60 um das Maß des jeweiligen Absinkens des Wasserstandes; wenn der Wasserstand am Oberpegel Schiffshebewerk Niederfinow unter die Marke 829 sinkt, verringern sich die zulässigen Abladetiefen von km 28,60 bis km 77,89 um das Maß des jeweiligen Absinkens des Wasserstandes –
+        *   – ein Fahrzeug oder ein Verband darf nur bis zu einer Länge von jeweils 82,00 m das Schiffshebewerk Niederfinow Süd durchfahren;
+            wenn der Wasserstand am Unterpegel Lehnitz unter die Marke 225 sinkt, verringern sich die zulässigen Abladetiefen von km 15,20 bis km 28,60 um das Maß des jeweiligen Absinkens des Wasserstandes; wenn der Wasserstand am Oberpegel Schiffshebewerk Niederfinow Nord unter die Marke 829 sinkt, verringern sich die zulässigen Abladetiefen von km 28,60 bis km 77,89 um das Maß des jeweiligen Absinkens des Wasserstandes –
 
-
-    *        *
-        *
-        *
-        *
-        *
-        *
 
     *        *   1.1.5
 
@@ -25855,7 +25778,7 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
 
         *   86,00
 
-        *   9,50
+        *   9,60
 
         *   2,00
 
@@ -25867,20 +25790,14 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
 
         *   147,00
 
-        *   9,50
+        *   9,60
 
         *   1,80
 
 
     *        *
-        *   – ein Fahrzeug oder ein Verband darf nur bis zu einer Länge von jeweils 82,00 m das Schiffshebewerk Niederfinow (alt) durchfahren –
+        *   – ein Fahrzeug oder ein Verband darf nur bis zu einer Länge von jeweils 82,00 m das Schiffshebewerk Niederfinow Süd durchfahren –
 
-
-    *        *
-        *
-        *
-        *
-        *
 
     *        *   1.1.6
 
@@ -25913,16 +25830,10 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
         *
         *   147,00
 
-        *   9,50
+        *   9,60
 
         *   1,80
 
-
-    *        *
-        *
-        *
-        *
-        *
 
     *        *   1.1.7
 
@@ -25939,7 +25850,7 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
 
         *   86,00
 
-        *   9,50
+        *   9,60
 
         *   2,00
 
@@ -25951,7 +25862,7 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
 
         *   91,00
 
-        *   9,50
+        *   9,60
 
         *   2,00
 
@@ -25998,7 +25909,7 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
 
         *   86,00
 
-        *   9,50
+        *   9,60
 
         *
 
@@ -26009,7 +25920,7 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
 
         *   91,00
 
-        *   9,50
+        *   9,60
 
         *
 
@@ -26057,7 +25968,7 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
 
         *   86,00
 
-        *   9,50
+        *   9,60
 
         *
 
@@ -26068,7 +25979,7 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
 
         *   156,00
 
-        *   9,50
+        *   9,60
 
         *
 
@@ -26135,7 +26046,7 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
         *
         *   147,00
 
-        *   9,50
+        *   9,60
 
         *
 
@@ -26182,20 +26093,13 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
 
         *   91,00
 
-        *   9,00
+        *   9,60
 
         *   2,00
 
 
     *        *
-        *
-        *
-        *
-        *
-        *
-
-    *        *
-        *   – ein Fahrzeug oder ein Schubverband mit jeweils einer Länge von mehr als 80,00 m und nicht mehr als 82,00 m und einer Breite von mehr als 9,00 m und nicht mehr als 9,50 m darf fahren, wenn es oder er eine Abladetiefe von 1,90 m nicht überschreitet und mit einer aktiven Bugsteuereinrichtung ausgerüstet ist –
+        *   – ein Fahrzeug mit jeweils einer Länge von mehr als 80,00 m und nicht mehr als 86,00 m und einer Breite von mehr als 9,00 m und nicht mehr als 9,60 m darf fahren, wenn es eine Abladetiefe von 1,90 m nicht überschreitet und mit einer aktiven Bugsteuereinrichtung ausgerüstet ist –
 
 
     *        *
@@ -26648,19 +26552,12 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
 
         *   156,00
 
-        *   9,50
+        *   9,60
 
         *
 
     *        *
-        *
-        *
-        *
-        *
-        *
-
-    *        *
-        *   – die Abladetiefe richtet sich nach der Fahrrinnentiefe; die geringste Fahrrinnentiefe wird von der zuständigen Behörde täglich bekannt gemacht; bei der Wahl der Abladetiefe sind die bekannt gemachte Fahrrinnentiefe sowie die aktuelle Wasserstandsentwicklung zu berücksichtigen –.
+        *   – die Abladetiefe richtet sich nach der Fahrrinnentiefe; die geringste Fahrrinnentiefe wird von der zuständigen Behörde täglich bekannt gemacht; bei der Wahl der Abladetiefe sind die bekannt gemachte Fahrrinnentiefe sowie die aktuelle Wasserstandsentwicklung zu berücksichtigen –
 
 
 
@@ -27405,7 +27302,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
     *        *   1.2.1
 
-        *   MzK-km 46,90 (Abzweig langer Trödel, OHW-km 0,00) bis OHW-km 94,41 (Nordostende Zierker See, Neustrelitz)
+        *   Mzk-km 46,90 (Abzweig langer Trödel, OHW-km 0,00) bis OHW-km 94,41 (Nordostende Zierker See, Neustrelitz)
 
         *
         *
@@ -27414,7 +27311,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
     *        *
         *   Fahrzeug/Verband
 
-        *   41,60
+        *   41,30
 
         *   5,10
 
@@ -27618,7 +27515,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
     *        *
         *   Fahrzeug/Verband
 
-        *   41,60
+        *   40,10
 
         *   5,10
 
@@ -27641,9 +27538,9 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
     *        *
         *   Fahrzeug/Verband
 
-        *   41,60
+        *   40,30
 
-        *   4,60.
+        *   4,60
 
         *
 
@@ -27744,7 +27641,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
     *        *
         *   Fahrzeug/Verband
 
-        *   41,60
+        *   40,30
 
         *   5,10
 
@@ -27765,22 +27662,18 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
         *
 
     *        *
-        *   a)
+        *   a) Fahrzeug
 
-        *   Fahrzeug
-
-        *   41,60
+        *   40,30
 
         *   5,10
 
         *
 
     *        *
-        *   b)
+        *   b) Verband
 
-        *   Verband
-
-        *   41,60
+        *   40,30
 
         *   4,60
 
@@ -27802,24 +27695,20 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
         *
 
     *        *
-        *   a)
+        *   a) Fahrzeug
 
-        *   Fahrzeug
-
-        *   41,60
+        *   40,30
 
         *   5,10
 
         *
 
     *        *
-        *   b)
+        *   b) Verband
 
-        *   Verband
+        *   40,30
 
-        *   41,60
-
-        *   4,60.
+        *   4,60
 
         *
 
@@ -30818,7 +30707,18 @@ Der Schiffsführer, die übrige Besatzung und sonstige Personen an Bord müssen 
 
 
 
-    b)  eine Prüfliste für das Bunkern von Flüssigerdgas (LNG) durch Fahrzeuge, die das Kennzeichen nach § 2.06 tragen, gemäß dem Standard der Zentralkommission für die Rheinschifffahrt, Edition 1.0 *(https://www.ccr-zkr.org/files/documents/reglementRP/L\_ctrl\_avitaillement\_GNL\_de.pdf)*                         , ausgefüllt und unterschrieben wurde und alle Fragen in der Prüfliste mit „Ja“ beantwortet sind. Nicht zutreffende Fragen sind zu streichen. Können nicht alle Fragen mit „Ja“ beantwortet werden, ist das Bunkern nur mit Genehmigung der zuständigen Behörde gestattet,
+    b)  eine Prüfliste für das Bunkern von Flüssigerdgas (LNG) durch Fahrzeuge, die das Kennzeichen nach § 2.06 tragen,
+
+        aa) im Falle des Bunkerns Lastkraftwagen – Schiff nach dem entsprechenden Standard der Zentralkommission für die Rheinschifffahrt, Edition 2.0
+            (https://www.ccr-zkr.org/files/documents/reglementRP/L\_ctrl\_avitaillement\_GNL\_cb\_de.pdf), und
+
+
+        bb) im Falle des Bunkerns Landbunkerstelle – Schiff nach dem entsprechenden Standard der Zentralkommission für die Rheinschifffahrt, Edition 2.0
+            (https://www.ccr-zkr.org/files/documents/reglementRP/L\_ctrl\_avitaillement\_GNL\_stb\_de.pdf),
+
+
+
+        ausgefüllt und unterschrieben wurde und alle Fragen in der jeweiligen Prüfliste mit „Ja“ beantwortet sind. Nichtzutreffende Fragen sind zu streichen. Können nicht alle Fragen mit „Ja“ beantwortet werden, ist das Bunkern nur mit Genehmigung der zuständigen Behörde gestattet,
 
 
     c)  alle erforderlichen Genehmigungen vorliegen.
@@ -37068,5 +36968,5 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-Zum gesicherten Nachweis auf das Vorhandensein der in der Tabelle genannten Substanzen im Blut gelten die jeweils aktuellen Empfehlungen der Grenzwertkommission beim Bundesministerium für Verkehr und digitale Infrastruktur für den Bereich des Straßenverkehrs.
+Zum gesicherten Nachweis auf das Vorhandensein der in der Tabelle genannten Substanzen im Blut gelten die jeweils aktuellen Empfehlungen der Grenzwertkommission beim Bundesministerium für Digitales und Verkehr für den Bereich des Straßenverkehrs.
 

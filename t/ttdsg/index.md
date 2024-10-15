@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2021, 1982 (2022 I 1045)
 
 Zuletzt geändert durch
-:   Art. 8 G v. 6.5.2024 I Nr. 149
-
-Änderung durch
-:   Art. 44 G v. 12.7.2024 I Nr. 234 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 44 G v. 12.7.2024 I Nr. 234
 
 [^F816794_01_BJNR198210021]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2002/58/EG des Europäischen Parlaments und des Rates vom 12. Juli 2002 über die Verarbeitung personenbezogener Daten und den Schutz der Privatsphäre in der elektronischen Kommunikation (Datenschutzrichtlinie für elektronische Kommunikation) (ABl. L 201 vom 31.7.2002, S. 37), die durch Artikel 2 der Richtlinie 2009/136/EG des Europäischen Parlaments und des Rates vom 25. November 2009 (ABl. L 337 vom 18.12.2009, S. 11) geändert worden ist.
 

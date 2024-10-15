@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 2 (1717)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 18.3.2024 I Nr. 100
-
-Änderung durch
-:   Art. 1 V v. 23.7.2024 I Nr. 253 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 23.7.2024 I Nr. 253
 
 
 ## Eingangsformel
@@ -1709,10 +1706,10 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
 
-1.  entgegen § 12.29 Nummer 2 Buchstabe c das in § 12.20 Satz 1 vorgesehene Verbot, zu segeln, nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
+1.  entgegen § 12.29 Nummer 2 Buchstabe d ein dort genanntes Verbot nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
 
 
-2.  entgegen § 15.29 Nummer 2 Buchstabe d ein dort genanntes Verbot nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
+2.  entgegen § 15.29 Nummer 2 Buchstabe c das in § 15.20 Satz 1 vorgesehene Verbot, zu segeln, nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
 
 
 3.  entgegen § 19.29 Nummer 2 Buchstabe c das in § 19.20 Satz 1 vorgesehene Verbot, zu segeln, nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,

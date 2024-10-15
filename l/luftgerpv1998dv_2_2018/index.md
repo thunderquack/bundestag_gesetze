@@ -17,7 +17,7 @@ Fundstelle
 :   BAnz: AT 15.11.2018 V1
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.7.2022 BAnz AT 12.08.2022 V1
+:   Art. 1 V v. 9.10.2024 I Nr. 304
 
 
 ## Eingangsformel
@@ -76,7 +76,7 @@ als Lufttüchtigkeitsforderungen anzuwenden. Die Festlegung einzelfallabhängige
 
 
 
-3.  Hängegleiter und Gleitsegel die „Lufttüchtigkeitsforderungen für Hängegleiter und Gleitsegel“ vom 1. September 2020 (NfL 2-565-20),
+3.  Hängegleiter und Gleitsegel die „Lufttüchtigkeitsforderungen für Hängegleiter und Gleitsegel“ vom 23. Mai 2024 (NfL 2024-2-785),
 
 
 4.  Sprungfallschirme die „European Technical Standard Order – Personnel Parachute Assemblies“ (ETSO-C23f) in der Fassung vom 21. Februar 2018, die auf den Internetseiten der European Union Aviation Safety Agency (EASA) unter https://www.easa.europa.eu/download/etso/ETSO-C23f\_CS-ETSO\_13.pdf veröffentlicht ist,
@@ -117,7 +117,7 @@ anzuwenden.
 
 ## § 1a Übergangsregelung
 
-§ 1 Absatz 2 Nummer 3 und 4 in der bis zum 24. November 2020 geltenden Fassung ist bis zum 1. März 2021 weiter anzuwenden.
+§ 1 Absatz 2 Nummer 3 in der bis zum 15. Oktober 2024 geltenden Fassung ist bis zum 1. Februar 2025 weiter anzuwenden.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
