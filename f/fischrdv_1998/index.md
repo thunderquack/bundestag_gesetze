@@ -1908,7 +1908,8 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) 2023/2833 des Europäischen Parlaments und des Rates vom 13. Dezember 2023 zur Einführung einer Fangdokumentationsregelung für Roten Thun (Thunnus thynnus) und zur Aufhebung der Verordnung (EU) Nr. 640/2010 (ABl. L, 2023/2833, 20.12.2023) verstößt, indem er vorsätzlich oder fahrlässig
 
-1.  entgegen Artikel 3 Absatz 4 Roten Thun anlandet, umsetzt, umlädt, in einen Netzkäfig einsetzt, liefert, entnimmt, im Binnenhandel handelt, einführt, ausführt oder widerausführt oder
+1.  entgegen Artikel 3 Absatz 4 Roten Thun anlandet, umsetzt, umlädt, in einen Netzkäfig einsetzt, liefert, entnimmt, im Binnenhandel handelt, einführt, ausführt oder
+    wieder ausführt                    oder
 
 
 2.  entgegen Artikel 9 Absatz 6 Roten Thun im Binnenhandel handelt, einführt, ausführt oder wieder ausführt.

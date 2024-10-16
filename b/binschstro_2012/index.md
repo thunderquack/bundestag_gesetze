@@ -8999,24 +8999,21 @@ Es ist verboten, an einem der in § 3.25 genannten Fahrzeuge an der Seite vorbei
 
 
 
+*   Das Verbot nach Satz 1 Buchstabe e gilt nicht, sofern
 
-    *   Das Verbot nach Satz 1 Buchstabe e gilt nicht, sofern
-
-        a)  die Bugstrahlanlage mit niedrigen Umdrehungszahlen ohne eine Veränderung der Wirkungsrichtung des Propellers laufengelassen,
-
-
-        b)  nicht zum Manövrieren eingesetzt wird und
+    a)  die Bugstrahlanlage mit niedrigen Umdrehungszahlen ohne eine Veränderung der Wirkungsrichtung des Propellers laufengelassen,
 
 
-        c)  eine Beeinträchtigung anderer Verkehrsteilnehmer oder eine Beschädigung der Schleusenanlage ausgeschlossen ist.
+    b)  nicht zum Manövrieren eingesetzt wird und
 
+
+    c)  eine Beeinträchtigung anderer Verkehrsteilnehmer oder eine Beschädigung der Schleusenanlage ausgeschlossen ist.
 
 
 
 
 
-    10\.
-    Im Schleusenbereich muss zu einem Fahrzeug oder einem Verband, das oder der die Bezeichnung nach § 3.14 Nummer 1, 2 oder 3 führt, ein seitlicher Abstand von mindestens 10,00 m eingehalten werden. Dies gilt jedoch nicht für ein Fahrzeug oder einen Verband, das oder der die gleiche Bezeichnung führt und für das in § 3.14 Nummer 7 genannte Fahrzeug.
+10. Im Schleusenbereich muss zu einem Fahrzeug oder einem Verband, das oder der die Bezeichnung nach § 3.14 Nummer 1, 2 oder 3 führt, ein seitlicher Abstand von mindestens 10,00 m eingehalten werden. Dies gilt jedoch nicht für ein Fahrzeug oder einen Verband, das oder der die gleiche Bezeichnung führt und für das in § 3.14 Nummer 7 genannte Fahrzeug.
 
 
 11. Ein Fahrzeug oder ein Verband, das oder der die Bezeichnung nach § 3.14 Nummer 2 oder 3 führt, muss jeweils allein geschleust werden. Abweichend von Satz 1 kann ein Trockengüterschiff nach ADN, das Container, Großpackmittel (IBC), Großverpackungen, Gascontainer mit mehreren Elementen (MEGC), Tankcontainer und ortsbewegliche Tanks nach ADN Unterabschnitt 7.1.1.18 befördert und die Bezeichnung nach § 3.14 Nummer 2 führt, gemeinsam
