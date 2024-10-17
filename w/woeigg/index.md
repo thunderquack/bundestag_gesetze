@@ -21,6 +21,9 @@ Neugefasst durch
 Geändert durch
 :   Art. 34 Abs. 15 G v. 22.12.2023 I Nr. 411
 
+Änderung durch
+:   Art. 1 G v. 10.10.2024 I Nr. 306 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Wohnungseigentum
 
@@ -319,10 +322,13 @@ verlangen, die dem Interesse der Gesamtheit der Wohnungseigentümer nach billige
 2.  dem Laden elektrisch betriebener Fahrzeuge,
 
 
-3.  dem Einbruchsschutz und
+3.  dem Einbruchsschutz,
 
 
-4.  dem Anschluss an ein Telekommunikationsnetz mit sehr hoher Kapazität
+4.  dem Anschluss an ein Telekommunikationsnetz mit sehr hoher Kapazität und
+
+
+5.  der Stromerzeugung durch Steckersolargeräte
 
 
 
@@ -363,6 +369,8 @@ Ist das Gebäude zu mehr als der Hälfte seines Wertes zerstört und ist der Sch
 #### § 23 Wohnungseigentümerversammlung
 
 (1) Angelegenheiten, über die nach diesem Gesetz oder nach einer Vereinbarung der Wohnungseigentümer die Wohnungseigentümer durch Beschluss entscheiden können, werden durch Beschlussfassung in einer Versammlung der Wohnungseigentümer geordnet. Die Wohnungseigentümer können beschließen, dass Wohnungseigentümer an der Versammlung auch ohne Anwesenheit an deren Ort teilnehmen und sämtliche oder einzelne ihrer Rechte ganz oder teilweise im Wege elektronischer Kommunikation ausüben können.
+
+(1a) Die Wohnungseigentümer können mit mindestens drei Vierteln der abgegebenen Stimmen beschließen, dass die Versammlung innerhalb eines Zeitraums von längstens drei Jahren ab Beschlussfassung ohne physische Präsenz der Wohnungseigentümer und des Verwalters an einem Versammlungsort stattfindet oder stattfinden kann (virtuelle Wohnungseigentümerversammlung). Die virtuelle Wohnungseigentümerversammlung muss hinsichtlich der Teilnahme und Rechteausübung mit einer Präsenzversammlung vergleichbar sein.
 
 (2) Zur Gültigkeit eines Beschlusses ist erforderlich, dass der Gegenstand bei der Einberufung bezeichnet ist.
 
@@ -430,7 +438,7 @@ soweit diese Beschlüsse und gerichtlichen Entscheidungen nach dem 1. Juli 2007 
 
 (1) Als zertifizierter Verwalter darf sich bezeichnen, wer vor einer Industrie- und Handelskammer durch eine Prüfung nachgewiesen hat, dass er über die für die Tätigkeit als Verwalter notwendigen rechtlichen, kaufmännischen und technischen Kenntnisse verfügt.
 
-(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung nähere Bestimmungen über die Prüfung zum zertifizierten Verwalter zu erlassen. In der Rechtsverordnung nach Satz 1 können insbesondere festgelegt werden:
+(2) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung nähere Bestimmungen über die Prüfung zum zertifizierten Verwalter zu erlassen. In der Rechtsverordnung nach Satz 1 können insbesondere festgelegt werden:
 
 1.  nähere Bestimmungen zu Inhalt und Verfahren der Prüfung;
 
@@ -692,6 +700,8 @@ Vereinbarungen, die vor dem 1. Dezember 2020 getroffen wurden und die von solche
 (4) § 19 Absatz 2 Nummer 6 ist ab dem 1. Dezember 2023 anwendbar. Eine Person, die am 1. Dezember 2020 Verwalter einer Gemeinschaft der Wohnungseigentümer war, gilt gegenüber den Wohnungseigentümern dieser Gemeinschaft der Wohnungseigentümer bis zum 1. Juni 2024 als zertifizierter Verwalter.
 
 (5) Für die bereits vor dem 1. Dezember 2020 bei Gericht anhängigen Verfahren sind die Vorschriften des dritten Teils dieses Gesetzes in ihrer bis dahin geltenden Fassung weiter anzuwenden.
+
+(6) Fassen die Wohnungseigentümer vor dem 1. Januar 2028 einen Beschluss nach § 23 Absatz 1a, ist bis einschließlich 2028 mindestens einmal im Jahr eine Präsenzversammlung durchzuführen, sofern die Wohnungseigentümer hierauf nicht durch einstimmigen Beschluss verzichten. Ein Verstoß gegen diese Pflicht führt nicht zur Nichtigkeit oder Anfechtbarkeit der in einer virtuellen Wohnungseigentümerversammlung gefassten Beschlüsse.
 
 
 ### § 49 Überleitung bestehender Rechtsverhältnisse

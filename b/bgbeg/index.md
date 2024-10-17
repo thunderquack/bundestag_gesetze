@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 24.6.2024 I Nr. 212
 
+Änderung durch
+:   Art. 3 G v. 10.10.2024 I Nr. 306 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Allgemeine Vorschriften
 
@@ -2488,6 +2491,11 @@ Auf ein Schuldverhältnis, das vor dem 15. Dezember 2023 entstanden ist, ist § 
 #### § 68 Überleitungsvorschrift zum Gesetz zum Schutz Minderjähriger bei Auslandsehen
 
 Auf vor dem 1. Juli 2024 erfolgte Verfügungen eines nicht wirksam Verheirateten über sein Vermögen im Ganzen oder über Haushaltsgegenstände und auf Verpflichtungen zu solchen Verfügungen finden im Fall der Heilung der Ehe nach § 1305 Absatz 2 des Bürgerlichen Gesetzbuchs die §§ 1365 und 1369 des Bürgerlichen Gesetzbuchs keine Anwendung.
+
+
+#### § 69 Übergangsvorschrift zum Gesetz zur Zulassung virtueller Wohnungseigentümerversammlungen, zur Erleichterung des Einsatzes von Steckersolargeräten und zur Übertragbarkeit beschränkter persönlicher Dienstbarkeiten für Erneuerbare-Energien-Anlagen
+
+§ 1092 Absatz 3 Satz 1 des Bürgerlichen Gesetzbuchs in der seit dem 17. Oktober 2024 geltenden Fassung ist nur auf beschränkte persönliche Dienstbarkeiten anzuwenden, für die die Eintragungsbewilligung nach dem 17. Oktober 2024 notariell beurkundet oder öffentlich beglaubigt wird.
 
 
 ## Sechster Teil - Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet
