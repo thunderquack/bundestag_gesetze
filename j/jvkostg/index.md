@@ -15,9 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 2586, 2655
 
-Stand: Zuletzt geändert Art. 3 G v. 14.12.2023 I Nr. 365; 2024 I Nr. 165
-Änderung durch
-:   Art. 6 G v. 7.10.2024 I Nr. 302 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 6 G v. 7.10.2024 I Nr. 302
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

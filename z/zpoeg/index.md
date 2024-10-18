@@ -16,10 +16,7 @@ Fundstelle
 :   RGBl: 1877, 244
 
 Zuletzt geändert durch
-:   Art. 5 G v. 15.7.2024 I Nr. 237
-
-Änderung durch
-:   Art. 3 G v. 7.10.2024 I Nr. 302 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 7.10.2024 I Nr. 302
 
 
 ## Eingangsformel

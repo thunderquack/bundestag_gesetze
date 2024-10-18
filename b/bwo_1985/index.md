@@ -3843,16 +3843,14 @@ hellrot (maschinenlesbar)
 
 
 
-### Anlage 12 (zu § 28 Abs. 3)
+### Anlage 12 (zu § 28 Absatz 3)
 
-(Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 20 - 21;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2024 I Nr. 283, S. 21 – 22)
 
-## **Vorderseite des Merkblatts zur Briefwahl**
-
-**Sehr geehrte Wählerin!**
+Sehr geehrte Wählerin!
 **Sehr geehrter Wähler!**
-Anbei erhalten Sie die Unterlagen für die Wahl zum ........... Deutschen Bundestag in dem auf dem Wahlschein bezeichneten Wahlkreis:
+
+Anbei erhalten Sie die Unterlagen für die Wahl zum ……………………………… Deutschen Bundestag in dem auf dem Wahlschein bezeichneten Wahlkreis:
 
 *    *   1.
 
@@ -3873,84 +3871,63 @@ Anbei erhalten Sie die Unterlagen für die Wahl zum ........... Deutschen Bundes
 
 
 
+
 Sie können an der Wahl teilnehmen
 
-1.  gegen **Abgabe des Wahlscheines**                    und unter Vorlage eines amtlichen Personalausweises oder Reisepasses durch **Stimmabgabe im Wahlraum**                    in einem beliebigen Wahlbezirk des auf dem Wahlschein bezeichneten Wahlkreises
+1.  gegen **Abgabe des Wahlscheines**                    und unter Vorlage eines amtlichen Personalausweises oder Reisepasses **durch Stimmabgabe im Wahlraum**                    in einem beliebigen Wahlbezirk des auf dem Wahlschein bezeichneten Wahlkreises
 
     oder
 
 
-2.  gegen **Einsendung des Wahlscheines**                    an die für Sie zuständige, auf dem Wahlbriefumschlag angegebene Stelle des auf dem Wahlschein bezeichneten Wahlkreises **durch Briefwahl.**
+2.  gegen **Einsendung des Wahlscheines**                    an die für Sie zuständige, auf dem Wahlbriefumschlag angegebene Stelle des auf dem Wahlschein bezeichneten Wahlkreises **durch Briefwahl**                   .
 
 
 
-Nach § 14 Abs. 4 des Bundeswahlgesetzes darf jeder Wahlberechtigte sein Wahlrecht nur einmal und nur persönlich ausüben. Wer unbefugt wählt oder sonst ein unrichtiges Ergebnis einer Wahl herbeiführt oder das Ergebnis verfälscht oder eine solche Tat versucht, wird nach § 107a Abs. 1 und 3 des Strafgesetzbuches mit Freiheitsstrafe bis zu 5 Jahren oder mit Geldstrafe bestraft.
-Bitte nachstehende "Wichtige Hinweise für Briefwähler" und umseitigen "Wegweiser für die Briefwahl" genau beachten.
-\_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__
 
-*    *   **Wichtige Hinweise für Briefwähler**
+Nach § 14 Absatz 4 des Bundeswahlgesetzes darf jeder Wahlberechtigte sein Wahlrecht nur einmal und nur persönlich ausüben. Wer unbefugt wählt oder sonst ein unrichtiges Ergebnis einer Wahl herbeiführt oder das Ergebnis verfälscht oder eine solche Tat versucht, wird nach § 107a Absatz 1 und 3 des Strafgesetzbuches mit Freiheitsstrafe bis zu 5 Jahren oder mit Geldstrafe bestraft.
 
+Bitte nachstehende „Wichtige Hinweise für Briefwähler“ und umseitigen „Wegweiser für die Briefwahl“ genau beachten.
 
-*    *
-    *
+**Wichtige Hinweise für Briefwähler:**
 
-*    *   1.
-
-    *   Die Stimmabgabe bei der Briefwahl ist nur gültig, wenn in der unteren Hälfte des Wahlscheines die **"Versicherung an Eides statt zur Briefwahl"**                        mit der Unterschrift versehen ist.
+1.  Die Stimmabgabe bei der Briefwahl ist nur gültig, wenn in der unteren Hälfte des Wahlscheines die „ **Versicherung an Eides statt zur Briefwahl**                   “ mit der Unterschrift versehen ist.
 
 
-*    *
-    *
-
-*    *   2.
-
-    *   Den **Wahlschein**                        nicht in den weißen Stimmzettelumschlag legen, sondern mit diesem **in den roten Wahlbriefumschlag**                        stecken. Sonst ist die Stimmabgabe ungültig.
+2.  Den **Wahlschein**                    nicht in den weißen Stimmzettelumschlag legen, sondern mit diesem **in den roten Wahlbriefumschlag**                    stecken. Sonst ist die Stimmabgabe ungültig.
 
 
-*    *
-    *
+3.  Wähler, die des Lesens unkundig oder wegen einer Behinderung gehindert sind, den Stimmzettel zu kennzeichnen, können sich der Hilfe einer anderen Person bedienen. Die Hilfsperson muss das 16. Lebensjahr vollendet haben. Sie hat die „Versicherung an Eides statt zur Briefwahl“ zu unterzeichnen. Die Hilfeleistung ist auf technische Hilfe bei der Kundgabe einer vom Wahlberechtigten selbst getroffenen und geäußerten Wahlentscheidung beschränkt. Unzulässig ist eine Hilfeleistung, die unter missbräuchlicher Einflussnahme erfolgt, die selbstbestimmte Willensbildung oder Entscheidung des Wahlberechtigten ersetzt oder verändert oder wenn ein Interessenkonflikt der Hilfsperson besteht. Die Hilfsperson ist zur Geheimhaltung der Kenntnisse verpflichtet, die sie bei der Hilfeleistung von der Wahl einer anderen Person erlangt hat. Auf die Strafbarkeit einer im Rahmen zulässiger Assistenz entgegen der Wahlentscheidung des Wahlberechtigten oder ohne eine geäußerte Wahlentscheidung des Wahlberechtigten erfolgten Stimmabgabe wird hingewiesen.
 
-*    *   3.
-
-    *   Wähler, die des Lesens unkundig oder wegen einer Behinderung gehindert sind, den Stimmzettel zu kennzeichnen, können sich der Hilfe einer anderen Person bedienen. Die Hilfsperson muss das 16. Lebensjahr vollendet haben. Sie hat die „Versicherung an Eides statt zur Briefwahl“ zu unterzeichnen. Die Hilfeleistung ist auf technische Hilfe bei der Kundgabe einer vom Wahlberechtigten selbst getroffenen und geäußerten Wahlentscheidung beschränkt. Unzulässig ist eine Hilfeleistung, die unter missbräuchlicher Einflussnahme erfolgt, die selbstbestimmte Willensbildung oder Entscheidung des Wahlberechtigten ersetzt oder verändert oder wenn ein Interessenkonflikt der Hilfsperson besteht. Die Hilfsperson ist zur Geheimhaltung der Kenntnisse verpflichtet, die sie bei der Hilfeleistung von der Wahl einer anderen Person erlangt hat. Auf die Strafbarkeit einer im Rahmen zulässiger Assistenz entgegen der Wahlentscheidung des Wahlberechtigten oder ohne eine geäußerte Wahlentscheidung des Wahlberechtigten erfolgten Stimmabgabe wird hingewiesen.
+    Ein blinder oder sehbehinderter Wähler kann sich zur Kennzeichnung des Stimmzettels einer Stimmzettelschablone bedienen, die von den Blindenverbänden kostenlos zur Verfügung gestellt wird. Zur Verwendung von Stimmzettelschablonen ist die rechte obere Ecke aller Stimmzettel gelocht oder abgeschnitten. Dies dient dem richtigen Anlegen der Stimmzettelschablonen. Auskünfte zu Stimmzettelschablonen erhalten Sie unter der Telefonnummer ……………………………… .
 
 
-*    *
-    *   Ein blinder oder sehbehinderter Wähler kann sich zur Kennzeichnung des Stimmzettels einer Stimmzettelschablone bedienen, die von den Blindenverbänden kostenlos zur Verfügung gestellt wird. Zur Verwendung von Stimmzettelschablonen ist die rechte obere Ecke aller Stimmzettel gelocht oder abgeschnitten. Dies dient dem richtigen Anlegen der Stimmzettelschablonen. Auskünfte zu Stimmzettelschablonen erhalten Sie unter der Telefonnummer ....
+4.  Wahlbrief unter Berücksichtigung der Postlaufzeiten so **rechtzeitig**                    versenden, dass er spätestens am Wahltag bis 18.00 Uhr bei dem auf dem Wahlbrief angegebenen Empfänger **eingeht**                   ! Der Wahlbrief kann auch dort abgegeben werden.
+
+[^F831225_3_BJNR017690985BJNE012211126]
+    Die Versendung durch ………………………………
+    innerhalb der Bundesrepublik Deutschland ist unentgeltlich. Wird eine besondere Beförderungsform gewünscht, so muss das dafür fällige – zusätzliche – Leistungsentgelt entrichtet werden.
+
+    Bei Beförderung durch ein anderes Postunternehmen ist das dafür fällige Leistungsentgelt in voller Höhe zu entrichten; ansonsten kann eine ordnungsgemäße Beförderung nicht gewährleistet werden.
+
+    **Außerhalb der Bundesrepublik Deutschland**                    sollte der Wahlbrief möglichst bald und am Schalter eines Postamtes eingeliefert sowie Luftpostbeförderung verlangt werden. Der Wahlbrief ist als Briefsendung des internationalen Postdienstes grundsätzlich vollständig freizumachen. Deshalb muss für den Wahlbrief das im Einlieferungsland zu entrichtende Entgelt gezahlt werden. Auf dem Wahlbrief unterhalb der Anschrift das Bestimmungsland „ALLEMAGNE“ oder „GERMANY“ angeben. Falls ein Wahlberechtigter Bedenken hat, den Wahlbrief wegen seiner Kennzeichnung und der roten Farbe durch die Post im Ausland befördern zu lassen, ist es ihm überlassen, den Wahlbrief in einen neutralen Briefumschlag zu stecken und diesen bei der Post abzugeben.
 
 
-*    *
-    *
-
-*    *   4.
-
-    *   Wahlbrief unter Berücksichtigung der Postlaufzeiten so rechtzeitig versenden, dass er spätestens am Wahltag bis 18.00 Uhr bei dem auf dem Wahlbrief angegebenen Empfänger **eingeht!**                        Der Wahlbrief kann auch dort abgegeben werden.
-[^BJNR017690985BJNE012208377_01_BJNR017690985BJNE012211126]
-        Die Versendung durch …………………
-        innerhalb der Bundesrepublik Deutschland ist unentgeltlich. Wird eine besondere Beförderungsform, gewünscht, so muss das dafür fällige - zusätzliche - Leistungsentgelt entrichtet werden.
-
-        Bei Beförderung durch ein anderes Postunternehmen ist das dafür fällige Leistungsentgelt in voller Höhe zu entrichten; ansonsten kann eine ordnungsgemäße Beförderung nicht gewährleistet werden.
-
-        **Außerhalb der Bundesrepublik Deutschland**                          sollte der Wahlbrief möglichst bald und am Schalter eines Postamtes eingeliefert sowie Luftpostbeförderung verlangt werden. Der Wahlbrief ist als Briefsendung des internationalen Postdienstes grundsätzlich vollständig freizumachen. Deshalb muss für den Wahlbrief das im Einlieferungsland zu entrichtende Entgelt gezahlt werden. Auf dem Wahlbrief unterhalb der Anschrift das Bestimmungsland "ALLEMAGNE" oder "GERMANY" angeben. Falls ein Wahlberechtigter Bedenken hat, den Wahlbrief wegen seiner Kennzeichnung und der roten Farbe durch die Post im Ausland befördern zu lassen, ist es ihm überlassen, den Wahlbrief in einen neutralen Briefumschlag zu stecken und diesen bei der Post abzugeben.
+5.  **Wahlbriefe, die am Wahltag nach 18.00 Uhr bei der zuständigen Stelle eingehen, werden nicht mehr berücksichtigt.**
 
 
 
-*    *
-    *
 
-*    *   5.
+_\_\__\_\__\_\__
 
-    *   **Wahlbriefe, die am Wahltag nach 18.00 Uhr bei der zuständigen Stelle eingehen, werden nicht mehr berücksichtigt.**
-
-
-
+noch **Anlage 12**
+## (zu § 28 Absatz 3)
 
 Rückseite des Merkblatts zur Briefwahl
-## **Wegweiser für die Briefwahl**
+## Wegweiser für die Briefwahl
 
 ![bgbl1_2024_j02830_0010.jpg](bgbl1_2024_j02830_0010.jpg)
-    Gemäß § 36 Abs. 4 des Bundeswahlgesetzes amtlich bekannt gemachtes Postunternehmen einsetzen.
-[^BJNR017690985BJNE012208377_01_BJNR017690985BJNE012211126]: 
+    Gemäß § 36 Absatz 4 des Bundeswahlgesetzes amtlich bekannt gemachtes Postunternehmen einsetzen.
+[^F831225_3_BJNR017690985BJNE012211126]: 
 
 ### Anlage 13 (zu § 34 Abs. 1)
 
@@ -4258,290 +4235,160 @@ _\_\__\_\__\_\__\_\__\_\_\_\_
 [^BJNR017690985BJNE012307160_05_BJNR017690985BJNE012308126]:     Entfällt bei anderen Kreiswahlvorschlägen (§ 20 Abs. 3 des Bundeswahlgesetzes); stattdessen sind hier Familienname, Vornamen, Geburtsdatum und Anschrift (Hauptwohnung) der in Anmerkung 5 bezeichneten Unterzeichner des Wahlvorschlages anzugeben, damit diesen ihre Wahlrechtsbescheinigungen zugeordnet werden können.
 [^BJNR017690985BJNE012307160_06_BJNR017690985BJNE012308126]: 
 
-### Anlage 14 (zu § 34 Abs. 4)
+### Anlage 14 (zu § 34 Absatz 4)
 
-(Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 24 - 25;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2024 I Nr. 283, S. 23 – 25)
 
 ## **Formblatt für eine Unterstützungsunterschrift (Kreiswahlvorschlag)**
 
-Eine Unterschrift ist nur gültig, wenn sie der Unterzeichner persönlich und handschriftlich geleistet hat. Zu Kreiswahlvorschlägen von Parteien dürfen Unterschriften erst gesammelt werden, wenn der Wahlvorschlag aufgestellt ist; vorher geleistete Unterschriften sind ungültig. Jeder Wahlberechtigte darf mit seiner Unterschrift nur einen Kreiswahlvorschlag unterstützen. Wer mehrere Kreiswahlvorschläge unterzeichnet, macht sich nach § 108d i.V. mit § 107a des Strafgesetzbuches strafbar.
-
-
-*    *
-    *   Ausgegeben
+Eine Unterschrift ist nur gültig, wenn sie der Unterzeichner persönlich und handschriftlich geleistet hat. Zu Kreiswahlvorschlägen von Parteien dürfen Unterschriften erst gesammelt werden, wenn der Wahlvorschlag aufgestellt ist; vorher geleistete Unterschriften sind ungültig. Jeder Wahlberechtigte darf mit seiner Unterschrift nur einen Kreiswahlvorschlag unterstützen. Wer mehrere Kreiswahlvorschläge unterzeichnet, macht sich nach § 108d in Verbindung mit § 107a des Strafgesetzbuches strafbar.
 
 
 *    *   (Dienstsiegel der Dienststelle
         des Kreiswahlleiters)
 
-    *   ................................................................, den ..................................................
+    *
+    *   Ausgegeben
+
+
+*    *
+    *   .......... , den ..........
 
 
 *    *
     *   Der Kreiswahlleiter
 
 
-*    *
-    *
-    *
 
 
-   ## **Unterstützungsunterschrift**
+**Unterstützungsunterschrift**
+## (vollständig in Maschinen- oder Druckschrift ausfüllen)
 
-### (vollständig in Maschinen- oder Druckschrift ausfüllen)
+
+*    *   **Ich unterstütze hiermit durch meine Unterschrift**
 
 
-*    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   **Ich unterstütze hiermit durch meine Unterschrift**
-
-    *
-
-*    *
-    *   **A**
+*    *   **A**
         *oder*
         **B**
 
-    *   den Kreiswahlvorschlag der
+    *   den Kreiswahlvorschlag der ..........
 
-    *   ..................................................................................................................................................................................................................................
-        (Name der *Partei*                        und ihre Kurzbezeichnung)
+    *   (Name der *Partei*                        und ihre Kurzbezeichnung)
 
-    *
 
-*    *
-    *   den Kreiswahlvorschlag der
+*    *   den Kreiswahlvorschlag der ..........
 
-    *   ..................................................................................................................................................................................................................................
-        (Kennwort des *anderen*                        Kreiswahlvorschlages)
+    *   (Kennwort des *anderen*                        Kreiswahlvorschlages)
 
-    *
 
 *    *
-    *   bei der Wahl zum ............................ Deutschen Bundestag,
+        *            *   bei der Wahl zum ..........
+
+            *   Deutschen Bundestag,
+
+
+
+
+
+*    *   in dem ..........
+
+    *
+    *[^F831225_4_BJNR017690985BJNE012412126]
+   (Familienname, Vornamen, Wohnort – Hauptwohnung –)
 
     *
 
-*    *
-    *   in dem ........................................................................................................................................................................................................................................................................................
-[^BJNR017690985BJNE012410377_01_BJNR017690985BJNE012412126]
-        (Familienname, Vornamen, Anschrift - Hauptwohnung -)
+*    *   als Bewerber im Wahlkreis ..........
+
+    *
+    *   (Nummer und Name)
 
     *
 
-*    *
-    *
-    *
+*    *   benannt ist.
 
-*    *
-    *   als Bewerber im Wahlkreis ......................................................................................................................................................................................................................................................
-        (Nummer und Name)
 
-    *
-
-*    *
-    *   benannt ist.
-
-    *
-
-*    *
-    *   .......................................................................................................................................................................................................................................................................................................
+*    *   ..........
         (Familienname)
 
-    *
 
-*    *
-    *   ............................................................................................................................................................................................................................................... .......................................................
+*    *   ..........
         (Vornamen)
+
+    *   ..........
         (Geburtsdatum)
 
-    *
 
-*    *
-    *   .......................................................................................................................................................................................................................................................................................................
-[^BJNR017690985BJNE012410377_02_BJNR017690985BJNE012412126]
-        (Straße und Hausnummer - Hauptwohnung -)
+*    *   ..........
+[^F831225_5_BJNR017690985BJNE012412126]
+        (Straße und Hausnummer – Hauptwohnung –)
 
-    *
 
-*    *
-    *   .......................................................................................................................................................................................................................................................................................................
-        (Postleitzahl, Wohnort - Hauptwohnung -)
+*    *   ..........
+        (Postleitzahl, Wohnort – Hauptwohnung –)
 
-    *
 
-*    *
-    *[^BJNR017690985BJNE012410377_03_BJNR017690985BJNE012412126]
+*    *[^F831225_6_BJNR017690985BJNE012412126]
    Ich bin damit einverstanden, dass für mich eine Bescheinigung des Wahlrechts eingeholt wird.
 
-    *
 
-*    *
-    *   .............................................
+*    *   ..........
         (Datum)
 
-    *   .............................................................................................
+    *   ..........
         (Persönliche und handschriftliche Unterschrift)
 
-    *
+
+
+
+**Zusatz für A**
+
+
+*    *   **Ich unterstütze hiermit durch meine Unterschrift**
+
 
 *    *
-    *   **Zusatz für A**
+        *            *   für den Fall der Nichtanerkennung der oben unter A genannten Vereinigung als *Partei*                                  den obigen Kreiswahlvorschlag als *anderen*                                  Kreiswahlvorschlag unter dem Kennwort ..........
 
-    *
+            *
 
-*    *
-    *   **Ich unterstütze hiermit durch meine Unterschrift**
-        für den Fall der Nichtanerkennung der oben unter A genannten Vereinigung als *Partei*                      den obigen Kreiswahlvorschlag als *anderen* ****                      Kreiswahlvorschlag unter dem Kennwort
 
-    *
 
-*    *
-    *   .............................................................................................
-        (Kennwort des Kreiswahlvorschlages)
+        *            *
+            *
+                *                    *   (Kennwort des Kreiswahlvorschlages)
 
-    *
+                    *
 
-*    *
-    *   ..............................................
+
+
+
+
+
+
+*    *   ..........
         (Datum)
 
-    *   .............................................................................................
+    *   ..........
         (Persönliche und handschriftliche Unterschrift)
 
-    *
-
-*    *
-    *
-    *
-    *
-    *
-
-*    *
-    *   (Nicht vom Unterzeichner ausfüllen)
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
 
 
 
-*    *
-    *[^BJNR017690985BJNE012410377_04_BJNR017690985BJNE012412126]
-   Bescheinigung des Wahlrechts
-        ****
+(Nicht vom Unterzeichner auszufüllen)
 
-    *
-
-*    *
-    *   Der/Die vorstehende Unterzeichner(in) ist Deutsche(r) im Sinne des Artikels 116 Abs. 1 des Grundgesetzes. Er/Sie erfüllt die sonstigen Voraussetzungen des § 12 des Bundeswahlgesetzes, ist nicht nach § 13 des Bundeswahlgesetzes vom Wahlrecht ausgeschlossen und im oben bezeichneten Wahlkreis wahlberechtigt.
-
-    *
-
-*    *
-    *   (Dienstsiegel)
-
-    *   ...................................................., den ................................................
-
-    *
-
-*    *
-    *   Die Gemeindebehörde
-
-    *
-
-*    *
-    *   ............................................................................................................
-
-    *
-
-*    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-
-
-   _\_\__\_\__\_\__\_\_\_\_
-
-[^BJNR017690985BJNE012410377_05_BJNR017690985BJNE012412126]
-**Bescheinigung des Wahlrechts**
-[^BJNR017690985BJNE012410377_06_BJNR017690985BJNE012412126]
+[^F831225_7_BJNR017690985BJNE012412126]
+Bescheinigung des Wahlrechts
 ## 
 
-### für die Wahl zum ....................... Deutschen Bundestag
+Der/Die vorstehende Unterzeichner(in) ist Deutsche(r) im Sinne des Artikels 116 Absatz 1 des Grundgesetzes. Er/Sie erfüllt die sonstigen Voraussetzungen des § 12 des Bundeswahlgesetzes, ist nicht nach § 13 des Bundeswahlgesetzes vom Wahlrecht ausgeschlossen und im oben bezeichneten Wahlkreis wahlberechtigt.
 
 
-*    *   Herr/Frau
-
-    *
-
-*    *
-    *   Familienname: ......................................................................................................................................................................................................................................................................
-
-
-*    *
-    *   Vornamen: .............................................................................................................................................................................................................................................................................
-
-
-*    *
-    *   Geburtsdatum: ......................................................................................................................................................................................................................................................................
-
-
-*    *
-    *
-    *
-
-*    *
-    *   Anschrift (Hauptwohnung)
+*    *   (Dienstsiegel)
 
     *
-
-*    *
-    *   Straße, Hausnummer: ..........................................................................................................................................................................................................................................................
-
-
-*    *
-    *   Postleitzahl, Wohnort: ..........................................................................................................................................................................................................................................................
-
-
-*    *
-    *
-    *
-
-*    *   ist Deutsche(r) im Sinne des Artikels 116 Abs. 1 des Grundgesetzes.
-        Er/Sie erfüllt die sonstigen Wahlrechtsvoraussetzungen des § 12 des Bundeswahlgesetzes,
-        ist nicht nach § 13 des Bundeswahlgesetzes vom Wahlrecht ausgeschlossen und
-
-
-*    *   ist im Wahlkreis ...............................................................................................................................................................................................................................................................................
-        (Nummer und Name)
-
-
-*    *   wahlberechtigt.
-
-    *
-
-*    *
-    *   (Dienstsiegel)
-
-    *   ...................................................., den ................................................
+    *   .........., den ..........
 
 
 *    *
@@ -4549,19 +4396,16 @@ Eine Unterschrift ist nur gültig, wenn sie der Unterzeichner persönlich und ha
 
 
 *    *
-    *   ............................................................................................................
+    *   ..........
 
 
 
-_\_\__\_\__\_\__\_\_\_\_
 
 
-*    *   **Datenschutzhinweise auf der Rückseite**
-
-
+**Datenschutzhinweise auf der Rückseite**
 
 Rückseite
-## des Formblatts für eine Unterstützungsunterschrift (Kreiswahlvorschlag)
+des Formblatts für eine Unterstützungsunterschrift (Kreiswahlvorschlag)
 
 ## Informationen zum Datenschutz
 
@@ -4571,14 +4415,15 @@ Sie sind nicht verpflichtet, Ihre personenbezogenen Daten bereitzustellen. Ihre 
 
 Verantwortlich für die Verarbeitung Ihrer Daten ist die Unterstützungsunterschriften sammelnde Partei oder der Unterstützungsunterschriften sammelnde Einzelbewerber (§ 20 Absatz 3 Bundeswahlgesetz)
 
+(
 [^F831225_8_BJNR017690985BJNE012412126]
-(……………………………….....................................................................................................................................................................)
+.......... )
 .
 
 Die Kontaktdaten des Datenschutzbeauftragten lauten:
 
 [^F831225_9_BJNR017690985BJNE012412126]
-……………………………….....................................................................................................................................................................
+..........
 
 Sofern Sie keine Bescheinigung Ihres Wahlrechts beigefügt und Ihr Einverständnis in die Einholung der Bescheinigung des Wahlrechts gegeben haben, lässt die Partei oder der Einzelbewerber Ihre Wahlberechtigung durch die Gemeindebehörden prüfen, bei der Sie mit Ihrem Hauptwohnsitz gemeldet sind. Anschließend reicht die Partei oder der Einzelbewerber die Unterstützungsunterschriften beim Kreiswahlleiter ein. Dieser übergibt sie dem Kreiswahlausschuss, der über die Zulassung des Kreisvorschlages entscheidet.
 
@@ -4592,7 +4437,10 @@ Im Zusammenhang mit der Verarbeitung Ihrer personenbezogenen Daten stehen Ihnen 
 
 Liegt aus Ihrer Sicht ein Verstoß gegen datenschutzrechtliche Vorschriften vor, haben Sie zudem das Recht, sich bei einer Datenschutzaufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch die Partei oder den Einzelbewerber zu beschweren.
 
-**
+_\_\__\_\__\_\__
+
+noch **Anlage 14**
+## (zu § 34 Absatz 4)
 
 [^F831225_10_BJNR017690985BJNE012412126]
 Bescheinigung des Wahlrechts
@@ -4604,45 +4452,56 @@ Bescheinigung des Wahlrechts
 
     *
 
-*    *   Familienname: ......................................................................................................................................................................................................................................................................
+*    *   Familienname:
+
+    *   ..........
 
 
-*    *   Vornamen: .............................................................................................................................................................................................................................................................................
+*    *   Vornamen:
+
+    *   ..........
 
 
-*    *   Geburtsdatum: ......................................................................................................................................................................................................................................................................
+*    *   Geburtsdatum:
+
+    *   ..........
 
 
 *    *   Anschrift (Hauptwohnung)
 
-    *
 
-*    *   Straße, Hausnummer: ..........................................................................................................................................................................................................................................................
+*    *   Straße, Hausnummer:
+
+    *   ..........
 
 
-*    *   Postleitzahl, Wohnort: ..........................................................................................................................................................................................................................................................
+*    *   Postleitzahl, Wohnort:
+
+    *   ..........
 
 
 *    *
-    *
     *
 
 *    *   ist Deutsche(r) im Sinne des Artikels 116 Absatz 1 des Grundgesetzes.
         Er/Sie erfüllt die sonstigen Wahlrechtsvoraussetzungen des § 12 des Bundeswahlgesetzes, ist nicht nach § 13 des Bundeswahlgesetzes vom Wahlrecht ausgeschlossen und
 
 
-*    *   ist im Wahlkreis ...............................................................................................................................................................................................................................................................................
-        (Nummer und Name)
+*    *   ist im Wahlkreis ..........
+
+    *   (Nummer und Name)
 
 
 *    *   wahlberechtigt.
 
+
+
+
+
+*    *   (Dienstsiegel)
+
     *
-
-*    *
-    *   (Dienstsiegel)
-
-    *   ...................................................., den ................................................
+    *   .........., den ..........
 
 
 *    *
@@ -4650,144 +4509,149 @@ Bescheinigung des Wahlrechts
 
 
 *    *
-    *   ............................................................................................................
+    *   ..........
 
 
 
 
-    Wird bei der Anforderung des amtlichen Formblatts der Nachweis erbracht, dass für den Bewerber im Melderegister eine Auskunftssperre gemäß § 51 Absatz 1 des Bundesmeldegesetzes eingetragen ist, wird anstelle seiner Anschrift (Hauptwohnung) eine Erreichbarkeitsanschrift verwendet; die Angabe eines Postfachs genügt nicht.
-[^BJNR017690985BJNE012410377_01_BJNR017690985BJNE012412126]:     Bei außerhalb der Bundesrepublik Deutschland lebenden Wahlberechtigten ist der Nachweis für die Wahlberechtigung durch die Angaben gemäß Anlage 2 und Abgabe einer Versicherung an Eides statt zu erbringen.
-[^BJNR017690985BJNE012410377_02_BJNR017690985BJNE012412126]:     Wenn der Unterzeichner die Bescheinigung seines Wahlrechts selbst einholen will, streichen.
-[^BJNR017690985BJNE012410377_03_BJNR017690985BJNE012412126]:     Die Gemeindebehörde darf das Wahlrecht nur einmal für einen Kreiswahlvorschlag und eine Landesliste bescheinigen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners muss im Zeitpunkt der Unterzeichnung gegeben sein.
-[^BJNR017690985BJNE012410377_04_BJNR017690985BJNE012412126]:     Muster für den Fall einer gesonderten Erteilung der Wahlrechtsbescheinigung nach § 34 Abs. 4 Nr. 3 der Bundeswahlordnung.
-[^BJNR017690985BJNE012410377_05_BJNR017690985BJNE012412126]:     Die Gemeindebehörde darf das Wahlrecht nur einmal für einen Kreiswahlvorschlag und eine Landesliste bescheinigen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners muss im Zeitpunkt der Unterzeichnung gegeben sein.
-[^BJNR017690985BJNE012410377_06_BJNR017690985BJNE012412126]:     Name und Kontaktdaten sind von der Partei oder dem Einzelbewerber (§ 20 Absatz 3 Bundeswahlgesetz) einzutragen.
+    Wird bei der Anforderung des amtlichen Formblatts der Nachweis erbracht, dass für den Bewerber im Melderegister eine Auskunftssperre gemäß § 51 Absatz 1 des Bundesmeldegesetzes eingetragen ist, wird anstelle seines Wohnortes (Hauptwohnung) der Ort seiner Erreichbarkeitsanschrift verwendet; die Angabe eines Postfachs genügt nicht.
+[^F831225_4_BJNR017690985BJNE012412126]:     Bei außerhalb der Bundesrepublik Deutschland lebenden Wahlberechtigten ist der Nachweis für die Wahlberechtigung durch die Angaben gemäß Anlage 2 (und Abgabe einer Versicherung) oder gemäß Anlage 2a (und Abgabe einer Versicherung an Eides statt) zu erbringen.
+[^F831225_5_BJNR017690985BJNE012412126]:     Wenn der Unterzeichner die Bescheinigung seines Wahlrechts selbst einholen will, streichen.
+[^F831225_6_BJNR017690985BJNE012412126]:     Die Gemeindebehörde darf das Wahlrecht nur einmal für einen Kreiswahlvorschlag und eine Landesliste bescheinigen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners muss im Zeitpunkt der Unterzeichnung gegeben sein.
+[^F831225_7_BJNR017690985BJNE012412126]:     Name und Kontaktdaten sind von der Partei oder dem Einzelbewerber (§ 20 Absatz 3 Bundeswahlgesetz) einzutragen.
 [^F831225_8_BJNR017690985BJNE012412126]:     Der Verantwortliche hat die Kontaktdaten nur anzugeben, wenn ein Datenschutzbeauftragter benannt wurde.
 [^F831225_9_BJNR017690985BJNE012412126]:     Muster für den Fall einer gesonderten Erteilung der Wahlrechtsbescheinigung nach § 34 Absatz 4 Nummer 3 der Bundeswahlordnung.
 [^F831225_10_BJNR017690985BJNE012412126]:     Die Gemeindebehörde darf das Wahlrecht nur einmal für einen Kreiswahlvorschlag und eine Landesliste bescheinigen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners muss im Zeitpunkt der Unterzeichnung gegeben sein.
 [^F831225_11_BJNR017690985BJNE012412126]: 
 
-### Anlage 15 (zu § 34 Abs. 5 Nr. 1 und 3 Buchstabe b)
+### Anlage 15 (zu § 34 Absatz 5 Nummer 1 und 3 Buchstabe b)
 
-(Fundstelle: BGBl. I 2008, 480);
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2024 I Nr. 283, S. 26 – 27)
 
-[^BJNR017690985BJNE012504160_01_BJNR017690985BJNE012506126]
+[^F831225_12_BJNR017690985BJNE012506126]
 **Zustimmungserklärung für Bewerber eines Kreiswahlvorschlages**
-## 
-
-### (von allen Wahlkreisbewerbern abzugeben)
+## (von allen Wahlkreisbewerbern abzugeben)
 
 
 *    *   Ich
 
-    *
 
-*    *
-    *   Familienname: .........................................................................................................................................................................................................................................................
+*    *   Familienname:
 
-
-*    *
-    *   Vornamen: ................................................................................................................................................................................................................................................................
+    *   ..........
 
 
-*    *
-    *   Geburtsdatum: .........................................................................................................................................................................................................................................................
+*    *   Vornamen:
+
+    *   ..........
 
 
-*    *
-    *   Geburtsort: ...............................................................................................................................................................................................................................................................
+*    *   Geburtsdatum:
+
+    *   ..........
 
 
-*    *
-    *   Beruf oder Stand: .....................................................................................................................................................................................................................................................
+*    *   Geburtsort:
+
+    *   ..........
 
 
-*    *
-    *   Anschrift (Hauptwohnung)
+*    *   Beruf oder Stand:
+
+    *   ..........
 
 
-*    *
-    *   Straße, Hausnummer: ............................................................................................................................................................................................................................................
+*    *   Anschrift (Hauptwohnung)
 
 
-*    *
-    *   Postleitzahl, Wohnort: ............................................................................................................................................................................................................................................
+*    *   Straße, Hausnummer:
+
+    *   ..........
 
 
-*    *
-    *
+*    *   Postleitzahl, Wohnort:
 
-*    *   stimme meiner Benennung als Bewerber im Kreiswahlvorschlag
+    *   ..........
 
 
-*    *   der ..........................................................................................................................................................................................................................................................................................
+*    *   stimme meiner Benennung als Bewerber im Kreiswahlvorschlag der
+
+
+*    *   ..........
         (Name der Partei und ihre Kurzbezeichnung/bei anderen Kreiswahlvorschlägen das Kennwort)
 
 
-*    *   im Wahlkreis ........................................................................................................................................................... für die Wahl zum ............................... Deutschen Bundestag zu.
+*    *   im Wahlkreis ..........
+
+    *   ..........
         (Nummer und Name)
 
 
 *    *
+        *            *   für die Wahl zum ..........
+                Deutschen Bundestag zu.
+
+            *
+
+
+
 
 *    *   Ich versichere, dass ich für keinen anderen Wahlkreis meine Zustimmung zur Benennung als Bewerber gegeben habe.
 
 
-*    *   Ich habe außerdem meiner Benennung als Bewerber auf der Landesliste
+*    *   Ich habe außerdem meiner Benennung als Bewerber auf der Landesliste der
 
 
-*    *   der .....................................................................................................................................................................................................................................................................................
+*    *   ..........
         (Name der Partei und ihre Kurzbezeichnung)
 
 
-*    *[^BJNR017690985BJNE012504160_02_BJNR017690985BJNE012506126]
-   im Land ...................................................................................................................................................................................................................................................... zugestimmt.
-        (Name des Landes)
+*    *   im Land ..........
+
+    *[^F831225_13_BJNR017690985BJNE012506126]
+   zugestimmt.
 
 
 *    *
+    *   (Name des Landes)
 
-*    *   .................................., den .................................                                                                                                        .....................................................................................................
+
+
+
+*    *   .........., den ..........
+
+    *
+    *   ..........
         (Persönliche und handschriftliche Unterschrift)
 
 
-*    *
+
+
+*    *   Die Zustimmung als Bewerber eines Kreiswahlvorschlages einer Partei gilt im Falle einer Nichtanerkennung der den Wahlvorschlag einreichenden Vereinigung als Partei auch als Zustimmung als Bewerber nach § 20 Absatz 3 Bundeswahlgesetz.
+
+
+
+
+**Versicherung an Eides statt zur Parteimitgliedschaft für Bewerber eines Kreiswahlvorschlages**
+## (nur von Wahlkreisbewerbern einer Partei abzugeben)
+
+[^F831225_14_BJNR017690985BJNE012506126]
+Ich versichere gegenüber dem Kreiswahlleiter an Eides statt, dass ich nicht Mitglied einer anderen als der den Wahlvorschlag einreichenden Partei bin.
+
+*    *   .........., den ..........
+
     *
-
-
-
-*    *
-
-*    *   Versicherung an Eides statt
-        **zur Parteimitgliedschaft für Bewerber eines Kreiswahlvorschlages**
-        (nur von Wahlkreisbewerbern einer Partei abzugeben)
-
-
-*    *
-
-*    *[^BJNR017690985BJNE012504160_03_BJNR017690985BJNE012506126]
-   Ich versichere gegenüber dem Kreiswahlleiter an Eides statt, dass ich nicht Mitglied einer anderen als der den Wahlvorschlag einreichenden Partei bin.
-
-
-*    *
-
-*    *   .................................., den .................................                                                                                                        .....................................................................................................
+    *   ..........
         (Persönliche und handschriftliche Unterschrift)
 
 
-*    *
-    *
 
 
 
-*    *   **Datenschutzhinweise auf der Rückseite**
-
-
+**Datenschutzhinweise auf der Rückseite**
 
 Rückseite
 der Zustimmungserklärung für Bewerber eines Kreiswahlvorschlages
-## 
 
 ## Informationen zum Datenschutz
 
@@ -4797,16 +4661,18 @@ Sie sind nicht verpflichtet, Ihre personenbezogenen Daten bereitzustellen. Die Z
 
 Verantwortlich für die Verarbeitung der mit Ihrer Zustimmungserklärung angegebenen personenbezogenen Daten ist, außer bei anderen Kreiswahlvorschlägen im Sinne des § 20 Absatz 3 Bundeswahlgesetz, die den Wahlvorschlag einreichende Partei
 
+(..........
 [^F831225_15_BJNR017690985BJNE012506126]
-(.......................................................................................................................................................................................................................................)
+)
 .
 
 Die Partei reicht Ihre Zustimmungserklärung beim Kreiswahlleiter ein. Dieser übergibt sie dem Kreiswahlausschuss, der über die Zulassung des Kreiswahlvorschlages entscheidet.
 
 Soweit Sie Ihre Zustimmung zur Benennung als Bewerber eines anderen Kreiswahlvorschlages im Sinne des § 20 Absatz 3 Bundeswahlgesetz – also als Einzelbewerber – erteilt haben, ist der Kreiswahlleiter
 
+(..........
 [^F831225_16_BJNR017690985BJNE012506126]
-(.......................................................................................................................................................................................................................................)
+)
 verantwortlich
 
 [^F831225_17_BJNR017690985BJNE012506126]
@@ -4816,8 +4682,8 @@ Im Falle einer Beschwerde gegen die Zurückweisung eines Kreiswahlvorschlages na
 
 Die Kontaktdaten des Datenschutzbeauftragten lauten:
 
+..........
 [^F831225_18_BJNR017690985BJNE012506126]
-.......................................................................................................................................................................................................................................
 
 Im Falle von Wahleinsprüchen können Ihre Daten auch dem Deutschen Bundestag, den sonstigen nach Wahlprüfungsgesetz am Verfahren Beteiligten sowie dem Bundesverfassungsgericht, in anderen Fällen auch anderen Gerichten übermittelt werden.
 
@@ -4830,103 +4696,110 @@ Im Zusammenhang mit der Verarbeitung Ihrer personenbezogenen Daten stehen Ihnen 
 Liegt aus Ihrer Sicht ein Verstoß gegen datenschutzrechtliche Vorschriften vor, haben Sie zudem das Recht, sich bei einer Datenschutzaufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch die Partei oder den Kreiswahlleiter zu beschweren.
 
     Vollständig und in Maschinen- oder Druckschrift ausfüllen.
-[^BJNR017690985BJNE012504160_01_BJNR017690985BJNE012506126]:     Nichtzutreffendes streichen.
-[^BJNR017690985BJNE012504160_02_BJNR017690985BJNE012506126]:     Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.
-[^BJNR017690985BJNE012504160_03_BJNR017690985BJNE012506126]:     Name und Kontaktdaten sind von der Partei einzutragen.
+[^F831225_12_BJNR017690985BJNE012506126]:     Nichtzutreffendes streichen.
+[^F831225_13_BJNR017690985BJNE012506126]:     Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.
+[^F831225_14_BJNR017690985BJNE012506126]:     Name und Kontaktdaten sind von der Partei einzutragen.
 [^F831225_15_BJNR017690985BJNE012506126]:     Kreiswahlleiter, Dienststelle und Kontaktdaten des Kreiswahlleiters sind vom Kreiswahlleiter einzutragen.
 [^F831225_16_BJNR017690985BJNE012506126]:     Nichtzutreffendes streichen.
 [^F831225_17_BJNR017690985BJNE012506126]:     Der Verantwortliche hat die Kontaktdaten nur anzugeben, wenn ein Datenschutzbeauftragter benannt wurde.
 [^F831225_18_BJNR017690985BJNE012506126]: 
 
-### Anlage 16 (zu § 34 Abs. 5 Nr. 2 und § 39 Abs. 4 Nr. 2)
+### Anlage 16 (zu § 34 Absatz 5 Nummer 2 und § 39 Absatz 4 Nummer 2)
 
-(Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 27;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2024 I Nr. 283, S. 28 – 29)
 
-## **Bescheinigung der Wählbarkeit**
-
+Bescheinigung der Wählbarkeit
 für die Wahl zum Deutschen Bundestag
-### am .................................
+## am ……………………………………………………
 
 
 *    *   Herr/Frau
 
 
-*    *
-    *   Familienname: .........................................................................................................................................................................................................................................................
+*    *   Familienname:
+
+    *   ..........
 
 
-*    *
-    *   Vornamen: ................................................................................................................................................................................................................................................................
+*    *   Vornamen:
+
+    *   ..........
 
 
-*    *
-    *   Geburtsdatum: .........................................................................................................................................................................................................................................................
+*    *   Geburtsdatum:
+
+    *   ..........
 
 
-*    *
-    *   Geburtsort: ...............................................................................................................................................................................................................................................................
+*    *   Geburtsort:
+
+    *   ..........
 
 
-*    *
-    *   Anschrift (Hauptwohnung)
+*    *   Anschrift (Hauptwohnung)
 
 
-*    *
-    *   Straße, Hausnummer: ............................................................................................................................................................................................................................................
+*    *   Straße, Hausnummer:
+
+    *   ..........
 
 
-*    *
-    *   Postleitzahl, Wohnort: ............................................................................................................................................................................................................................................
+*    *   Postleitzahl, Wohnort:
+
+    *   ..........
 
 
 *    *
     *
 
-*    *   ist am Wahltag nach den heute vorliegenden Erkenntnissen Deutsche(r) im Sinne des Artikels 116 Abs. 1 des Grundgesetzes und nicht nach § 15 Abs. 2 des Bundeswahlgesetzes von der Wählbarkeit ausgeschlossen.
+*    *   ist am Wahltag nach den heute vorliegenden Erkenntnissen Deutsche(r) im Sinne des Artikels 116 Absatz 1 des Grundgesetzes und nicht nach § 15 Absatz 2 des Bundeswahlgesetzes von der Wählbarkeit ausgeschlossen.
+
 
 
 
 
 *    *   (Dienstsiegel)
 
-    *   ...................................................., den ................................................
+    *
+    *   .........., den ..........
 
 
-*    *   Die Gemeindebehörde
+*    *
+    *   Die Gemeindebehörde
 
 
-*    *   ............................................................................................................
+*    *
+    *   ..........
+
+
+
+
+*    *[^F831225_19_BJNR017690985BJNE012609126]
+   Ich bin damit einverstanden, dass für mich eine Bescheinigung der Wählbarkeit eingeholt wird.
 
 
 
 
 *    *
     *
-
-*    *[^BJNR017690985BJNE012607160_01_BJNR017690985BJNE012609126]
-   Ich bin damit einverstanden, dass für mich eine Bescheinigung der Wählbarkeit eingeholt wird.
+    *   .........., den ..........
 
 
 *    *
-
-*    *   ......................................, den .................................
-
-
-*    *
-
-*    *   ................................................................................
+    *
+    *   ..........
         (Persönliche und handschriftliche Unterschrift des Bewerbers)
 
 
-*    *
-    *   **Datenschutzhinweise auf der Rückseite**
 
 
+––––––––––
 
+
+**Datenschutzhinweise auf der Rückseite**
 
 Rückseite
-## der Bescheinigung der Wählbarkeit für die Wahl zum Deutschen Bundestag
+der Bescheinigung der Wählbarkeit für die Wahl zum Deutschen Bundestag
 
 ## Informationen zum Datenschutz
 
@@ -4938,15 +4811,16 @@ Verantwortlich für die Verarbeitung der personenbezogenen Daten auf der Vorders
 
 Holt eine Partei auf Grundlage Ihres Einverständnisses die Bescheinigung Ihrer Wählbarkeit ein, ist die die Wählbarkeitsbescheinigung einholende Partei
 
+(..........
 [^F831225_20_BJNR017690985BJNE012609126]
-(......................................................................................................................................................................................................)
+)
 
 verantwortlich für die Verarbeitung der personenbezogenen Daten.
 
 Die Kontaktdaten des Datenschutzbeauftragten lauten:
 
+..........
 [^F831225_21_BJNR017690985BJNE012609126]
-......................................................................................................................................................................................................
 
 Bei Kreiswahlvorschlägen übermittelt die Partei Ihre Daten anschließend dem Kreiswahlleiter. Dieser übergibt sie dem Kreiswahlausschuss, der über die Zulassung des Kreiswahlvorschlages entscheidet.
 
@@ -4962,10 +4836,10 @@ Im Zusammenhang mit der Verarbeitung Ihrer personenbezogenen Daten stehen Ihnen 
 
 Liegt aus Ihrer Sicht ein Verstoß gegen datenschutzrechtliche Vorschriften vor, haben Sie zudem das Recht, sich bei der Datenschutzaufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch die Partei oder die Gemeindebehörde zu beschweren.
 
-_\_\__\_\__\_\__\_\__
+_\_\__\_\__\_\__
 
     Wenn der Bewerber die Bescheinigung seiner Wählbarkeit selbst einholt, streichen.
-[^BJNR017690985BJNE012607160_01_BJNR017690985BJNE012609126]:     Name und Kontaktdaten sind von der Partei einzutragen.
+[^F831225_19_BJNR017690985BJNE012609126]:     Name und Kontaktdaten sind von der Partei einzutragen.
 [^F831225_20_BJNR017690985BJNE012609126]:     Der Verantwortliche hat die Kontaktdaten nur anzugeben, wenn ein Datenschutzbeauftragter benannt wurde.
 [^F831225_21_BJNR017690985BJNE012609126]: 
 
@@ -6583,234 +6457,140 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^BJNR017690985BJNE013007377_03_BJNR017690985BJNE013008126]: [^BJNR017690985BJNE013007377_04_BJNR017690985BJNE013008126]:     Die Landesliste muss von mindestens drei Mitgliedern des Vorstandes des Landesverbandes der Partei, darunter dem Vorsitzenden oder seinem Stellvertreter, persönlich und handschriftlich unterzeichnet sein. Hat eine Partei im Land keinen Landesverband oder keine einheitliche Landesorganisation, so muss die Landesliste von allen Vorständen der nächstniedrigen Gebietsverbände, die im Bereich des Landes liegen, unterzeichnet sein. Siehe auch Anmerkung             .
 
 
-### Anlage 21 (zu § 39 Abs. 3)
+### Anlage 21 (zu § 39 Absatz 3)
 
-(Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 36 - 37;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2024 I Nr. 283, S. 31 – 33)
 
 ## **Formblatt für eine Unterstützungsunterschrift (Landesliste)**
 
-Eine Unterschrift ist nur gültig, wenn sie der Unterzeichner persönlich und handschriftlich geleistet hat. Unterschriften dürfen erst gesammelt werden, wenn die Landesliste aufgestellt ist. Vorher geleistete Unterschriften sind ungültig. Jeder Wahlberechtigte darf mit seiner Unterschrift nur eine Landesliste unterstützen. Wer mehrere Landeslisten unterzeichnet, macht sich nach § 108d i.V. mit § 107a des Strafgesetzbuches strafbar.
-
-
-*    *
-    *   Ausgegeben
-
-
-*    *
-    *   ........................................, den ........................................
+Eine Unterschrift ist nur gültig, wenn sie der Unterzeichner persönlich und handschriftlich geleistet hat. Unterschriften dürfen erst gesammelt werden, wenn die Landesliste aufgestellt ist. Vorher geleistete Unterschriften sind ungültig. Jeder Wahlberechtigte darf mit seiner Unterschrift nur eine Landesliste unterstützen. Wer mehrere Landeslisten unterzeichnet, macht sich nach § 108d in Verbindung mit § 107a des Strafgesetzbuches strafbar.
 
 
 *    *   (Dienstsiegel der Dienststelle
         des Landeswahlleiters)
 
+    *
+    *   Ausgegeben
+
+
+*    *
+    *   .........., den ..........
+
+
+*    *
     *   Der Landeswahlleiter
 
 
-*    *
-    *
 
-*    *   ## **Unterstützungsunterschrift**
+## Unterstützungsunterschrift
 
 
-
-*    *
-
-*    *   Ich unterstütze hiermit durch meine Unterschrift die Landesliste
-        der Partei ..................................................................................................................................................................................................................................................................................
+*    *   Ich unterstütze hiermit durch meine Unterschrift die Landesliste der Partei
 
 
-*    *   (Name der Partei und ihre Kurzbezeichnung)
-
-
-*    *   bei der Wahl zum ..................................... Deutschen Bundestag
-
-
-*    *   für das Land *.........................................................................................................................*
-        (Name des Landes)
+*    *   ..........
+        (Name der Partei und ihre Kurzbezeichnung)
 
 
 *    *
-    *
+        *            *   bei der Wahl zum ..........
 
-*    *
-    *
+            *   zum Deutschen Bundestag
+
+
+
+
+
+*    *   für das Land ..........
+
+    *   (Name des Landes)
+
 
 *    *   (Vollständig in Maschinen- oder Druckschrift ausfüllen)
 
 
-*    *
-    *
+*    *   Familienname:
 
-*    *   Familienname: ........................................................................................................................................................................................................................................................................
-
-
-*    *   Vornamen: ..............................................................................................................................................................................................................................................................................
+    *   ..........
 
 
-*    *   Geburtsdatum: ........................................................................................................................................................................................................................................................................
+*    *   Vornamen:
+
+    *   ..........
+
+
+*    *   Geburtsdatum:
+
+    *   ..........
 
 
 *    *   Anschrift (Hauptwohnung)
 
 
-*    *[^BJNR017690985BJNE013107377_01_BJNR017690985BJNE013109126]
-   Straße, Hausnummer:
-        ..........................................................................................................................................................................................................................................................
+*    *[^F831225_23_BJNR017690985BJNE013109126]
+   Straße, Hausnummer
+        :
+
+    *   ..........
 
 
-*    *   Postleitzahl, Wohnort: ............................................................................................................................................................................................................................................................
+*    *   Postleitzahl, Wohnort
+        1)                     :
+
+    *   ..........
 
 
-*    *[^BJNR017690985BJNE013107377_02_BJNR017690985BJNE013109126]
+*    *[^F831225_24_BJNR017690985BJNE013109126]
    Ich bin damit einverstanden, dass für mich eine Bescheinigung des Wahlrechts eingeholt wird.
 
 
-*    *
-    *
-
-*    *
-    *   ........................................, den ........................................
-
-
-*    *
-    *   .........................................................................................
-
-
-*    *
-    *   (Persönliche und handschriftliche Unterschrift)
 
 
 *    *
     *
-
-*    *   ( **Nicht**
-        vom Unterzeichner auszufüllen)
+    *   .........., den ..........
 
 
 *    *
     *
-
-*    *[^BJNR017690985BJNE013107377_03_BJNR017690985BJNE013109126]
-   **Bescheinigung des Wahlrechts**
-
-
-*    *
-    *
-
-*    *   Der/Die vorstehende Unterzeichner(in) ist Deutsche(r) im Sinne des Artikels 116 Abs. 1 des Grundgesetzes. Er/Sie erfüllt die sonstigen Wahlrechtsvoraussetzungen des § 12 des Bundeswahlgesetzes, ist nicht nach § 13 des Bundeswahlgesetzes vom Wahlrecht ausgeschlossen und im oben bezeichneten Land wahlberechtigt.
+    *   ..........
+        (Persönliche und handschriftliche Unterschrift)
 
 
-*    *
-    *
-
-*    *
-    *   ........................................, den ........................................
+*    *   (Nicht vom Unterzeichner auszufüllen)
 
 
-*    *
-    *   Die Gemeindebehörde
+
+[^F831225_25_BJNR017690985BJNE013109126]
+Bescheinigung des Wahlrechts
+## 
+
+Der/Die vorstehende Unterzeichner(in) ist Deutsche(r) im Sinne des Artikels 116 Absatz 1 des Grundgesetzes. Er/Sie erfüllt die sonstigen Wahlrechtsvoraussetzungen des § 12 des Bundeswahlgesetzes, ist nicht nach § 13 des Bundeswahlgesetzes vom Wahlrecht ausgeschlossen und im oben bezeichneten Land wahlberechtigt.
 
 
 *    *   (Dienstsiegel)
 
     *
-
-*    *
-    *   .......................................................................................
+    *   .........., den ..........
 
 
 *    *
-    *
-
-
-   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__
-
-[^BJNR017690985BJNE013107377_04_BJNR017690985BJNE013109126]
-**Bescheinigung des Wahlrechts**
-[^BJNR017690985BJNE013107377_05_BJNR017690985BJNE013109126]
-für die Wahl zum Deutschen Bundestag
-## am ..............................................................
-
-
-*    *   Herr/Frau
-
-    *
-
-*    *
-    *   Familienname:..................................................................................................................................................................................................................................................................
-
-
-*    *
-    *   Vornamen: ........................................................................................................................................................................................................................................................................
-
-
-*    *
-    *   Geburtsdatum: .................................................................................................................................................................................................................................................................
-
-
-*    *
-    *   Anschrift (Hauptwohnung)
-
-
-*    *
-    *   Straße, Hausnummer: .....................................................................................................................................................................................................................................................
-
-
-*    *
-    *   Postleitzahl, Wohnort: .....................................................................................................................................................................................................................................................
-
-
-*    *
-
-*    *   ist Deutsche(r) im Sinne des Artikels 116 Abs. 1 des Grundgesetzes.
-
-
-*    *   Er/Sie erfüllt die sonstigen Wahlrechtsvoraussetzungen des § 12 des Bundeswahlgesetzes,
-        ist nicht nach § 13 des Bundeswahlgesetzes vom Wahlrecht ausgeschlossen und
-
-
-*    *   ist im Land ..................................................................................................................................................................................................................................................................................
-        (Name des Landes)
-
-
-*    *   wahlberechtigt.
-
-
-*    *
-
-*    *
-
-*    *
-    *
-    *   ................................................................., den ........................................
-
-
-*    *
-    *   (Dienstsiegel)
-
     *   Die Gemeindebehörde
 
 
 *    *
-    *
-    *
-
-*    *
-    *
-    *   ....................................................................................................................
+    *   ..........
 
 
 
-_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__
+
+_\_\__\_\__\_\__
 
 
-*    *   **Datenschutzhinweise auf der Rückseite**
-
-
+**Datenschutzhinweise auf der Rückseite**
 
 Rückseite
-## des Formblatts für eine Unterstützungsunterschrift (Landesliste)
+des Formblatts für eine Unterstützungsunterschrift (Landesliste)
 
 ## Informationen zum Datenschutz
 
@@ -6820,14 +6600,15 @@ Sie sind nicht verpflichtet, Ihre personenbezogenen Daten bereitzustellen. Ihre 
 
 Verantwortlich für die Verarbeitung der mit Ihrer Unterstützungsunterschrift angegebenen personenbezogenen Daten ist die Unterstützungsunterschriften sammelnde Partei
 
+(..........
 [^F831225_26_BJNR017690985BJNE013109126]
-(.................................................................................................................................................................................................................. )
+)
 .
 
 Die Kontaktdaten des Datenschutzbeauftragten lauten:
 
+..........
 [^F831225_27_BJNR017690985BJNE013109126]
-..................................................................................................................................................................................................................
 
 Sofern Sie keine Bescheinigung Ihres Wahlrechts beigefügt haben, lässt die Partei Ihre Wahlberechtigung durch die Gemeindebehörde prüfen, bei der Sie mit Ihrem Hauptwohnsitz gemeldet sind. Anschließend reicht die Partei die Unterstützungsunterschriften beim Landeswahlleiter ein. Dieser übergibt sie dem Landeswahlausschuss, der über die Zulassung der Landesliste entscheidet.
 
@@ -6841,7 +6622,10 @@ Im Zusammenhang mit der Verarbeitung Ihrer personenbezogenen Daten stehen Ihnen 
 
 Liegt aus Ihrer Sicht ein Verstoß gegen datenschutzrechtliche Vorschriften vor, haben Sie zudem das Recht, sich bei einer Datenschutzaufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch die Partei zu beschweren.
 
-**
+_\_\__\_\__\_\__
+
+noch **Anlage 21**
+## (zu § 39 Absatz 3)
 
 [^F831225_28_BJNR017690985BJNE013109126]
 Bescheinigung des Wahlrechts
@@ -6855,17 +6639,17 @@ für die Wahl zum Deutschen Bundestag
 
 *    *   Familienname:
 
-    *   ..................................................................
+    *   ..........
 
 
 *    *   Vornamen:
 
-    *   ..................................................................
+    *   ..........
 
 
 *    *   Geburtsdatum:
 
-    *   ..................................................................
+    *   ..........
 
 
 *    *   Anschrift (Hauptwohnung)
@@ -6873,12 +6657,12 @@ für die Wahl zum Deutschen Bundestag
 
 *    *   Straße, Hausnummer:
 
-    *   ..................................................................
+    *   ..........
 
 
 *    *   Postleitzahl, Wohnort:
 
-    *   ..................................................................
+    *   ..........
 
 
 *    *
@@ -6888,166 +6672,155 @@ für die Wahl zum Deutschen Bundestag
         Er/Sie erfüllt die sonstigen Wahlrechtsvoraussetzungen des § 12 des Bundeswahlgesetzes, ist nicht nach § 13 des Bundeswahlgesetzes vom Wahlrecht ausgeschlossen und
 
 
-*    *   ist im Land ..................................................................
+*    *   ist im Land ..........
+
+    *   ..........
         (Name des Landes)
 
 
 *    *   wahlberechtigt.
 
 
-*    *
-
-*    *
-
-*    *
-    *   .................................................................., den ..................................................................
 
 
 *    *   (Dienstsiegel)
 
+    *
+    *   .........., den ..........
+
+
+*    *
     *   Die Gemeindebehörde
 
 
 *    *
-    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-
-*    *
-    *
+    *   ..........
 
 
 
-   Bei außerhalb der Bundesrepublik Deutschland lebenden Wahlberechtigten ist der Nachweis für die Wahlberechtigung durch die Angaben gemäß Anlage 2 und Abgabe einer Versicherung an Eides statt zu erbringen.
-[^BJNR017690985BJNE013107377_01_BJNR017690985BJNE013109126]:     Wenn der Unterzeichner die Bescheinigung seines Wahlrechts selbst einholen will, streichen.
-[^BJNR017690985BJNE013107377_02_BJNR017690985BJNE013109126]:     Die Gemeindebehörde darf das Wahlrecht jeweils nur einmal für einen Kreiswahlvorschlag und eine Landesliste bescheinigen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners muss im Zeitpunkt der Unterzeichnung gegeben sein.
-[^BJNR017690985BJNE013107377_03_BJNR017690985BJNE013109126]:     Muster für den Fall einer gesonderten Erteilung der Wahlrechtsbescheinigung nach § 39 Abs. 3 in Verbindung mit § 34 Abs. 4 Nr. 3 der Bundeswahlordnung.
-[^BJNR017690985BJNE013107377_04_BJNR017690985BJNE013109126]:     Die Gemeindebehörde darf das Wahlrecht jeweils nur einmal für einen Kreiswahlvorschlag und eine Landesliste bescheinigen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners muss im Zeitpunkt der Unterzeichnung gegeben sein.
-[^BJNR017690985BJNE013107377_05_BJNR017690985BJNE013109126]:     Name und Kontaktdaten sind von der Partei einzutragen.
+
+    Bei außerhalb der Bundesrepublik Deutschland lebenden Wahlberechtigten ist der Nachweis für die Wahlberechtigung durch die Angaben gemäß Anlage 2 und Abgabe einer Versicherung oder gemäß Anlage 2a und Abgabe einer Versicherung an Eides statt zu erbringen.
+[^F831225_23_BJNR017690985BJNE013109126]:     Wenn der Unterzeichner die Bescheinigung seines Wahlrechts selbst einholen will, streichen.
+[^F831225_24_BJNR017690985BJNE013109126]:     Die Gemeindebehörde darf das Wahlrecht jeweils nur einmal für einen Kreiswahlvorschlag und eine Landesliste bescheinigen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners muss im Zeitpunkt der Unterzeichnung gegeben sein.
+[^F831225_25_BJNR017690985BJNE013109126]:     Name und Kontaktdaten sind von der Partei einzutragen.
 [^F831225_26_BJNR017690985BJNE013109126]:     Der Verantwortliche hat die Kontaktdaten nur anzugeben, wenn ein Datenschutzbeauftragter benannt wurde.
 [^F831225_27_BJNR017690985BJNE013109126]:     Muster für den Fall einer gesonderten Erteilung der Wahlrechtsbescheinigung nach § 39 Absatz 3 in Verbindung mit § 34 Absatz 4 Nummer 3 der Bundeswahlordnung.
 [^F831225_28_BJNR017690985BJNE013109126]:     Die Gemeindebehörde darf das Wahlrecht jeweils nur einmal für einen Kreiswahlvorschlag und eine Landesliste bescheinigen; dabei darf sie nicht festhalten, für welchen Wahlvorschlag die erteilte Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners muss im Zeitpunkt der Unterzeichnung gegeben sein.
 [^F831225_29_BJNR017690985BJNE013109126]: 
 
-### Anlage 22 (zu § 39 Abs. 4 Nr. 1)
+### Anlage 22 (zu § 39 Absatz 4 Nummer 1)
 
-(Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 38;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2024 I Nr. 283, S. 34 –36)
 
 Zustimmungserklärung und Versicherung an Eides statt
-[^BJNR017690985BJNE013204160_01_BJNR017690985BJNE013206126]
+[^F831225_30_BJNR017690985BJNE013206126]
 **zur Parteimitgliedschaft für Bewerber einer Landesliste**
 ## 
 
 
 *    *   Ich
 
-    *
+
+*    *   Familienname:
+
+    *   ..........
+
+
+*    *   Vornamen:
+
+    *   ..........
+
+
+*    *   Geburtsdatum:
+
+    *   ..........
+
+
+*    *   Geburtsort:
+
+    *   ..........
+
+
+*    *   Beruf oder Stand:
+
+    *   ..........
+
+
+*    *   Anschrift (Hauptwohnung)
+
+
+*    *   Straße, Hausnummer:
+
+    *   ..........
+
+
+*    *   Postleitzahl, Wohnort:
+
+    *   ..........
+
+
+*    *   stimme meiner Benennung als Bewerber in der Landesliste der
+
 
 *    *
-    *   Familienname: ................................................................................................................................................................................................................................................................
-
-
-*    *
-    *   Vornamen: .......................................................................................................................................................................................................................................................................
-
-
-*    *
-    *   Geburtsdatum: .................................................................................................................................................................................................................................................................
-
-
-*    *
-    *   Geburtsort: .......................................................................................................................................................................................................................................................................
-
-
-*    *
-    *   Beruf oder Stand: ............................................................................................................................................................................................................................................................
-
-
-*    *
-    *   Anschrift (Hauptwohnung)
-
-
-*    *
-    *   Straße, Hausnummer: .....................................................................................................................................................................................................................................................
-
-
-*    *
-    *   Postleitzahl, Wohnort: ......................................................................................................................................................................................................................................................
-
-
-*    *   stimme meiner Benennung als Bewerber in der Landesliste
-
-
-*    *   der ...........................................................................................................................................................................................................................................................................................
+    *   ..........
         (Name der Partei und ihre Kurzbezeichnung)
 
 
-*    *
+*    *   für das Land ..........
 
-*    *   für das Land ............................................................................................................................................................................................................................................................................
-        (Name des Landes)
-
-
-*    *   zur Wahl zum ....................... Deutschen Bundestag
-
-
-*    *   zu.
+    *   (Name des Landes)
 
 
 *    *
+        *            *   zur Wahl zum ..........
 
-*    *[^BJNR017690985BJNE013204160_02_BJNR017690985BJNE013206126]
-   Ich versichere, dass ich für keine andere Landesliste im Wahlgebiet meine Zustimmung zur Benennung als Bewerber gegeben habe. Ich versichere gegenüber dem Landeswahlleiter an Eides statt, dass ich nicht Mitglied einer anderen als der den Wahlvorschlag einreichenden Partei und kein Bewerber nach § 20 Absatz 3 des Bundeswahlgesetzes bin.
-
-
-*    *
-
-*    *   Ich habe außerdem meiner Benennung als Bewerber in dem Kreiswahlvorschlag
+            *   Deutschen Bundestag zu.
 
 
-*    *   der ............................................................................................................................................................................................................................................................................................
-        (Name der Partei und ihre Kurzbezeichnung/bei anderen Kreiswahlvorschlägen das Kennwort)
 
 
-*    *   für den Wahlkreis ....................................................................................................................................................................................................................................................................
-        (Nummer und Name)
+
+*    *   Ich versichere, dass ich für keine andere Landesliste im Wahlgebiet meine Zustimmung zur Benennung als Bewerber gegeben habe.
 
 
-*    *[^BJNR017690985BJNE013204160_03_BJNR017690985BJNE013206126]
+*    *[^F831225_31_BJNR017690985BJNE013206126]
+   Ich versichere gegenüber dem Landeswahlleiter an Eides statt, dass ich nicht Mitglied einer anderen als der den Wahlvorschlag einreichenden Partei und kein Bewerber nach § 20 Absatz 3 des Bundeswahlgesetzes bin.
+
+
+*    *   Ich habe außerdem meiner Benennung als Bewerber in dem Kreiswahlvorschlag der ..........
+
+
+*    *   (Name der Partei und ihre Kurzbezeichnung/bei anderen Kreiswahlvorschlägen das Kennwort)
+
+
+*    *   für den Wahlkreis ..........
+
+    *[^F831225_32_BJNR017690985BJNE013206126]
    zugestimmt.
 
 
-*    *
-    *
-    *   ................................................................., den ........................................
+*    *   (Nummer und Name)
 
 
-*    *
-    *
-    *
 
-*    *
-    *
-    *
 
-*    *
+*    *   .........., den ..........
+
     *
-    *   ....................................................................................................................
+    *   ..........
         (Persönliche und handschriftliche Unterschrift)
 
 
-*    *
-    *
-    *
 
 
+_\_\__\_\__\_\__
 
-*    *   **Datenschutzhinweise auf der Rückseite**
 
-
+**Datenschutzhinweise auf der Rückseite**
 
 Rückseite
-## der Zustimmungserklärung und Versicherung an Eides statt zur Parteimitgliedschaft für Bewerber einer Landesliste
+der Zustimmungserklärung und Versicherung an Eides statt zur Parteimitgliedschaft für Bewerber einer Landesliste
 
 ## Informationen zum Datenschutz
 
@@ -7057,14 +6830,15 @@ Sie sind nicht verpflichtet, Ihre personenbezogenen Daten bereitzustellen. Die Z
 
 Verantwortlich für die Verarbeitung der mit Ihrer Zustimmungserklärung angegebenen personenbezogenen Daten ist die den Wahlvorschlag einreichende Partei
 
+(..........
 [^F831225_33_BJNR017690985BJNE013206126]
-(..............................................................................................................................................................................................................................)
+)
 .
 
 Die Kontaktdaten des Datenschutzbeauftragten lauten:
 
+..........
 [^F831225_34_BJNR017690985BJNE013206126]
-..............................................................................................................................................................................................................................
 
 Die Partei reicht Ihre Zustimmungserklärung beim Landeswahlleiter ein. Dieser übergibt sie dem Landeswahlausschuss, der über die Zulassung der Landesliste entscheidet.
 
@@ -7080,12 +6854,12 @@ Im Zusammenhang mit der Verarbeitung Ihrer personenbezogenen Daten stehen Ihnen 
 
 Liegt aus Ihrer Sicht ein Verstoß gegen datenschutzrechtliche Vorschriften vor, haben Sie zudem das Recht, sich bei einer Datenschutzaufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch die Partei zu beschweren.
 
+_\_\__\_\__\_\_
+
     Vollständig und in Maschinen- oder Druckschrift ausfüllen.
-[^BJNR017690985BJNE013204160_01_BJNR017690985BJNE013206126]:     Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.
-[^BJNR017690985BJNE013204160_02_BJNR017690985BJNE013206126]:     Nichtzutreffendes streichen.
-[^BJNR017690985BJNE013204160_03_BJNR017690985BJNE013206126]:     Name und Kontaktdaten sind von der Partei einzutragen.
-[^f810550_10_BJNR017690985BJNE013206126]:     Landeswahlleiter, Dienststelle und Kontaktdaten des Landeswahlleiters sind vom Landeswahlleiter einzutragen.
-[^f810550_11_BJNR017690985BJNE013206126]:     Name und Kontaktdaten sind von der Partei einzutragen.
+[^F831225_30_BJNR017690985BJNE013206126]:     Auf die Strafbarkeit einer falsch abgegebenen Versicherung an Eides statt wird hingewiesen.
+[^F831225_31_BJNR017690985BJNE013206126]:     Nichtzutreffendes streichen.
+[^F831225_32_BJNR017690985BJNE013206126]:     Name und Kontaktdaten sind von der Partei einzutragen.
 [^F831225_33_BJNR017690985BJNE013206126]:     Der Verantwortliche hat die Kontaktdaten nur anzugeben, wenn ein Datenschutzbeauftragter benannt wurde.
 [^F831225_34_BJNR017690985BJNE013206126]: 
 

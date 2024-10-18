@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.2.2014 I 154;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 16.7.2024 I Nr. 240
-
-Änderung durch
-:   Art. 4 G v. 7.10.2024 I Nr. 302 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 7.10.2024 I Nr. 302
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
