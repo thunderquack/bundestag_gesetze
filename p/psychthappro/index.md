@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2020, 448
 
 Zuletzt geändert durch
-:   Art. 1 V v. 25.5.2023 I Nr. 139
+:   Art. 1 V v. 16.10.2024 I Nr. 309
 
 Stand: Ersetzt V 2122-5-1 v. 18.12.1998 I 3749 (PsychTh-APrV) u. V 2122-5-2 v. 18.12.1998 I 3761 (KJPsychTh-APrV)
 [^F810827_01_BJNR044800020]:     Diese Verordnung dient der Umsetzung der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22), die zuletzt durch den Delegierten Beschluss (EU) 2019/608 (ABl. L 104 vom 15.4.2019, S. 1) geändert worden ist.

@@ -3847,6 +3847,8 @@ hellrot (maschinenlesbar)
 
 (Fundstelle: BGBl. 2024 I Nr. 283, S. 21 – 22)
 
+## **Vorderseite des Merkblatts zur Briefwahl**
+
 Sehr geehrte Wählerin!
 **Sehr geehrter Wähler!**
 
