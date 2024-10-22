@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.9.1994 I 2494; 1997, 1061;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 24.6.2024 I Nr. 212
-
-Änderung durch
-:   Art. 3 G v. 10.10.2024 I Nr. 306 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 10.10.2024 I Nr. 306
 
 
 ## Erster Teil - Allgemeine Vorschriften

@@ -28,8 +28,7 @@ Auf Grund des § 40 Satz 1 in Verbindung mit Satz 2 bis 4 des Zwölften Buches S
 
 (1) Die Veränderungsrate für die Basisfortschreibung der Regelbedarfsstufen nach § 28a Absatz 3 des Zwölften Buches Sozialgesetzbuch zum 1. Januar 2024 beträgt 9,07 Prozent. Die Veränderungsrate für die ergänzende Fortschreibung der Regelbedarfsstufen nach § 28a Absatz 4 des Zwölften Buches Sozialgesetzbuch zum 1. Januar 2024 beträgt 9,9 Prozent.
 
-(2) Die Regelbedarfsstufen nach § 8 Absatz 1 des
-Regelbedarfs-Ermittlungsgesetzes              werden entsprechend der Veränderungsraten nach Absatz 1 zum 1. Januar 2024 erhöht und nach § 28 Absatz 5 des Zwölften Buches Sozialgesetzbuch auf volle Euro gerundet.
+(2) Die Regelbedarfsstufen nach § 8 Absatz 1 des Regelbedarfsermittlungsgesetzes werden entsprechend der Veränderungsraten nach Absatz 1 zum 1. Januar 2024 erhöht und nach § 28 Absatz 5 des Zwölften Buches Sozialgesetzbuch auf volle Euro gerundet.
 
 (3) Die Absätze 1 und 2 gelten entsprechend für die Fortschreibung des Teilbetrags für das erste Schulhalbjahr nach § 34 Absatz 3a Satz 1 des Zwölften Buches Sozialgesetzbuch für das Kalenderjahr 2024.
 

@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Zuletzt geändert durch
-:   Art. 9 G v. 16.7.2024 I Nr. 240
-
-Änderung durch
-:   Art. 2 G v. 10.10.2024 I Nr. 306 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 10.10.2024 I Nr. 306
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 

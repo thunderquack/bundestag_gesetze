@@ -16,13 +16,10 @@ Fundstelle
 :   BGBl I: 1951, 175, 209
 
 Neugefasst durch
-:   Bek. v. 12.1.2021 I 34
+:   Bek. v. 12.1.2021 I 34;
 
-Geändert durch
-:   Art. 34 Abs. 15 G v. 22.12.2023 I Nr. 411
-
-Änderung durch
-:   Art. 1 G v. 10.10.2024 I Nr. 306 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 G v. 10.10.2024 I Nr. 306
 
 
 ## Teil 1 - Wohnungseigentum
