@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 1506, 1519
 
 Zuletzt geändert durch
-:   Art. 1 V v. 17.10.2022 I 1872
+:   Art. 2 V v. 18.10.2024 I Nr. 316
 
 Stand: Ersetzt V 51-3-5 v. 21.8.2012 I 1804 (SKBPRV)
 

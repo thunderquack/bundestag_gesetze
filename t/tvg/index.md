@@ -16,7 +16,7 @@ Fundstelle
 :   WiGBl: 1949, 55, 68
 
 Neugefasst durch
-:   Bek. v. 25. 8.1969 I 1323;
+:   Bek. v. 25.8.1969 I 1323;
 
 Zuletzt geändert durch
 :   Art. 8 G v. 20.5.2020 I 1055

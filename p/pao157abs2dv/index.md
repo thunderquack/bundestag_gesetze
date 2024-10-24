@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 1400
 
-Geändert durch
-:   Art. 1 V v. 20.12.2023 I Nr. 398
+Zuletzt geändert durch
+:   Art. 1 V v. 11.10.2024 I Nr. 310
 
 
 ## Eingangsformel
@@ -38,6 +38,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 ## Anlage Patentanwaltsberufe in Staaten und Gebieten, die Mitglieder der Welthandelsorganisation sind
 
 (Fundstelle: BGBl. I 2022, 1400; bzgl. einzelner Änderungen vgl. Fußnote)
+
+– in Israel:   Orech Patentim, עורך פטנטים
 
 – in Singapur:   Patent Agent
 

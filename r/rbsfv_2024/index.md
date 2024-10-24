@@ -18,6 +18,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 287
 
+V aufgeh. durch
+:   § 4 Satz 2 V 860-12-1-12 v. 18.10.2024 I Nr. 312 mWv 1.1.2025
+
+Ersetzt durch
+:   V 860-12-1-12 v. 18.10.2024 I Nr. 312 (RBSFV 2025)
+
 
 ## Eingangsformel
 

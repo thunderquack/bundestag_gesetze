@@ -16,10 +16,13 @@ Fundstelle
 :   BGBl I: 1971, 2065
 
 Neugefasst durch
-:   Bek. v. 19.10.2001 I 2722
+:   Bek. v. 19.10.2001 I 2722;
 
 Zuletzt geändert durch
 :   Art. 1 V v. 17.4.2023 I Nr. 102
+
+Änderung durch
+:   Art. 2 V v. 21.10.2024 I Nr. 314 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Teil 1 - Anwendungsbereich
