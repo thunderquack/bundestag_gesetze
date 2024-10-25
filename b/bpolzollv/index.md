@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1867
 
 Zuletzt geändert durch
-:   Art. 27 V v. 19.6.2020 I 1328
+:   Art. 1 V v. 21.10.2024 I Nr. 319
 
 
 

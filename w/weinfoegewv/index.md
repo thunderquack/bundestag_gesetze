@@ -15,110 +15,151 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 304
 
+Änderung durch
+:   Art. 1 V v. 18.10.2024 I Nr. 317 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
-## Abschnitt 1 - Allgemein
+
+## Abschnitt 1 - Allgemeines
 
 
-### § 1 Anwendungsbereich und Zuständigkeiten
+### § 1 Anwendungsbereich und Gegenstand
 
 (1) Die Vorschriften dieser Verordnung gelten
 
-1.  für die Durchführung von Maßnahmen nach Artikel 58 Absatz 1 der Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnung (EU) Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021, S. 1; L 181 vom 7.7.2022, S. 35; L 227 vom 1.9.2022, S. 137), die zuletzt durch die Delegierte Verordnung (EU) 2023/813 (ABl. L 102 vom 17.4.2023, S. 1) geändert worden ist,
+1.  für die Durchführung von Maßnahmen nach Artikel 58 Absatz 1 der Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnung (EU) Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021, S. 1; L 181 vom 7.7.2022, S. 35; L 227 vom 1.9.2022, S. 137) in der jeweils geltenden Fassung, und,
 
 
-2.  für die Durchführung des nationalen Strategieplans zur Gemeinsamen Agrarpolitik (GAP-Strategieplan) und
-
-
-3.  für die Regelung eines effektiven und verhältnismäßigen Verwaltungs-, Kontroll- und Sanktionssystems im Rahmen des Unionsrechts.
+2.  für die Regelung eines effektiven und verhältnismäßigen Verwaltungs-, Kontroll- und Sanktionssystems im Rahmen des Unionsrechts.
 
 
 
 
-(2) Zuständig
+(2) Nach dieser Verordnung als Maßnahmen im Sinne des Absatz 1 Nummer 1 förderfähig sind
 
-1.  für die Prüfung von Menge und Alkoholgehalt des zur Destillation bestimmten Weines oder Brennweines und für die Überwachung der Destillation ist die Bundesfinanzverwaltung,
-
-
-2.  für die Durchführung des Unionsrechts und dieser Verordnung sind die nach Landesrecht zuständigen Stellen, soweit in dieser Verordnung nichts anderes bestimmt ist.
+1.  Maßnahmen zur Umstrukturierung und Umstellung von Rebflächen nach Artikel 58 Absatz 1 Unterabsatz 1 Buchstabe a der Verordnung (EU) 2021/2115,
 
 
+2.  Investitionen nach Artikel 58 Absatz 1 Unterabsatz 1 Buchstabe b der Verordnung (EU) 2021/2115,
 
 
-
-## Abschnitt 2 - Einzelne Maßnahmen
-
-
-### Unterabschnitt 1 - Allgemeine Bestimmungen
+3.  Ernteversicherungen nach Artikel 58 Absatz 1 Unterabsatz 1 Buchstabe d der Verordnung (EU)
+    2021/2115,
 
 
-#### § 2 Begünstigte
-
-(1) Die Förderung einer Maßnahme nach Artikel 58 Absatz 1 Buchstabe a der Verordnung (EU) 2021/2115 kann ausschließlich von Bewirtschaftern von Rebflächen beantragt werden, deren Rebflächen in dem Hoheitsgebiet des Landes der Antragstellung liegen.
-
-(2) Die Förderung einer Maßnahme nach Artikel 58 Absatz 1 Buchstabe b der Verordnung (EU) 2021/2115 kann beantragt werden von
-
-1.  Unternehmen mit Sitz im jeweiligen Land, die Erzeugnisse im Sinne des Anhangs VII Teil II der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2021/2117 (ABl. L 435 vom 6.12.2021, S. 262) geändert worden ist, herstellen oder in den Verkehr bringen,
+4.  Informationsmaßnahmen in Mitgliedstaaten nach Artikel 58 Absatz 1 Unterabsatz 1 Buchstabe h der Verordnung (EU) 2021/2115,
 
 
-2.  Weinerzeugerorganisationen,
+5.  Absatzförderung und Kommunikationsmaßnahmen in Drittländern nach Artikel 58 Absatz 1 Unterabsatz 1 Buchstabe k der Verordnung (EU) 2021/2115 und
 
 
-3.  Vereinigungen von zwei oder mehr Erzeugern oder
-
-
-4.  Branchenverbänden.
+6.  Investitionen nach Artikel 58 Absatz 1 Unterabsatz 1 Buchstabe m der Verordnung (EU) 2021/2115.
 
 
 
 
-(3) Für die Förderung einer Maßnahme nach Artikel 58 Absatz 1 Buchstabe d der Verordnung (EU) 2021/2115 gilt Absatz 1 entsprechend.
 
-(4) Die Förderung einer Maßnahme nach Artikel 58 Absatz 1 Buchstabe h der Verordnung (EU) 2021/2115 kann beantragt werden, durch
-
-1.  Berufsverbände,
+## Abschnitt 2 - Förderung von Maßnahmen
 
 
-2.  Weinerzeugerorganisationen,
+### § 2 Begünstigte
+
+(1) Die Förderung einer Maßnahme nach § 1 Absatz 2 Nummer 1 kann beantragt werden von
+
+1.  Weinerzeugern gemäß Artikel 40 Absatz 2 der Delegierten Verordnung (EU) 2022/126 der Kommission vom 7. Dezember 2021 zur Ergänzung der Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates um zusätzliche Anforderungen für bestimmte, von den Mitgliedstaaten in ihren GAP-Strategieplänen für den Zeitraum 2023 bis 2027 gemäß der genannten Verordnung festgelegte Interventionskategorien sowie um Vorschriften über den Anteil für den Standard für den guten landwirtschaftlichen und ökologischen Zustand (GLÖZ-Standard) Nr. 1 (ABl. L 20 vom 31.1.2022, S. 52) in der jeweils geltenden Fassung oder
 
 
-3.  Vereinigungen von Weinerzeugerorganisationen,
-
-
-4.  Zusammenschlüsse von zwei oder mehr Erzeugern,
-
-
-5.  Branchenverbände,
-
-
-6.  Einrichtungen des öffentlichen Rechts oder
-
-
-7.  privatwirtschaftliche Unternehmen.
+2.  Weinbauschulen gemäß Artikel 40 Absatz 3 Satz 2 Buchstabe c der Delegierten Verordnung (EU) 2022/126.
 
 
 
 
-(5) Für die Förderungen von Maßnahmen nach Artikel 58 Absatz 1 Buchstabe k der Verordnung (EU) 2021/2115 gilt Absatz 4 entsprechend.
+(2) Die Förderung einer Maßnahme nach § 1 Absatz 2 Nummer 2 kann beantragt werden von
+
+1.  Weinerzeugern gemäß Artikel 40 Absatz 2 der Delegierten Verordnung (EU) 2022/126,
 
 
-#### § 3 Antragsverfahren
-
-(1) Ein Antrag auf Förderung einer Maßnahme nach § 2 ist schriftlich oder elektronisch, sofern die zuständige Stelle dies ermöglicht, ganzjährig bei der zuständigen Stelle zu stellen.
-
-(2) Die zuständige Stelle hat nach Eingang des Antrags die Vollständigkeit der Angaben und der beigefügten Nachweise zu prüfen. Fehlende Angaben und Nachweise sind von der zuständigen Stelle nach Eingang des Antrags unter Setzung einer angemessenen Frist nachzufordern.
-
-(3) Die zuständige Stelle hat insbesondere zu prüfen, ob der Antrag den §§ 4 bis 6 entspricht.
-
-(4) Die Förderung einer Maßnahme nach § 2 wird durch Bescheid festgesetzt.
-
-(5) Die Landesregierungen können durch Rechtsverordnung unter Beachtung dieser Verordnung sowie der maßgeblichen Rechtsakte der Europäischen Union von den Absätzen 1 bis 4 abweichende Vorschriften über das Verfahren für die Beantragung und Genehmigung von Förderungen erlassen.
+2.  Weinerzeugerorganisationen gemäß Artikel 40 Absatz 1 der Delegierten Verordnung (EU) 2022/126 oder
 
 
-#### § 4 Antragsinhalt
+3.  Zusammenschlüssen von zwei oder mehr Weinerzeugern gemäß Artikel 40 Absatz 1 der Delegierten Verordnung (EU) 2022/126.
 
-(1) Ein Antrag auf Förderung einer Maßnahme nach § 2 Absatz 1 hat die Beschreibung der beantragten Maßnahme, die betreffende Fläche und die geplante Frist für ihre Durchführung zu enthalten. Die zuständige Behörde kann weitere Angaben fordern, soweit dies zur Überprüfung der spezifischen Fördervoraussetzungen erforderlich ist.
 
-(2) Ein Antrag nach § 2 Absatz 2 hat folgendes zu enthalten:
+
+
+(3) Für die Förderung einer Maßnahme nach § 1 Absatz 2 Nummer 3 gilt Absatz 1 entsprechend.
+
+(4) Die Förderung einer Maßnahme nach § 1 Absatz 2 Nummer 4 kann beantragt werden von
+
+1.  Weinerzeugern gemäß Artikel 40 Absatz 2 der Delegierten Verordnung (EU) 2022/126,
+
+
+2.  Berufsverbänden gemäß Artikel 40 Absatz 1 der Delegierten Verordnung (EU) 2022/126,
+
+
+3.  Weinerzeugerorganisationen gemäß Artikel 40 Absatz 1 der Delegierten Verordnung (EU) 2022/126,
+
+
+4.  Vereinigungen von Weinerzeugerorganisationen gemäß Artikel 40 Absatz 1 der Delegierten Verordnung (EU) 2022/126,
+
+
+5.  Zusammenschlüssen von zwei oder mehr Weinerzeugern gemäß Artikel 40 Absatz 1 der Delegierten Verordnung (EU) 2022/126,
+
+
+6.  Branchenverbänden gemäß Artikel 40 Absatz 1 der Delegierten Verordnung (EU) 2022/126 oder
+
+
+7.  Einrichtungen des öffentlichen Rechts gemäß Artikel 40 Absatz 3 der Delegierten Verordnung (EU) 2022/126.
+
+
+
+
+(5) Für die Förderung einer Maßnahme nach § 1 Absatz 2 Nummer 5 gilt Absatz 4 entsprechend mit der Maßgabe, dass auch Privatunternehmen gemäß Artikel 40 Absatz 4 der Delegierten Verordnung (EU) 2022/126 Begünstigte sein können.
+
+(6) Für die Förderung einer Maßnahme nach § 1 Absatz 2 Nummer 6 gilt Absatz 2 entsprechend.
+
+
+### § 3 Zuständige Stellen
+
+(1) Zuständig für die Förderung von Maßnahmen nach § 1 Absatz 2 Nummer 1 bis 3 und 6 im Hoheitsgebiet des jeweiligen Landes sind, sofern dieses Land diese Maßnahmen fördert, die nach Landesrecht zuständigen Stellen.
+
+(2) Zuständig für die Förderung von Maßnahmen nach § 1 Absatz 2 Nummer 5 ist die Bundesanstalt für Landwirtschaft und Ernährung.
+
+(3) Zuständig für die Förderung von Maßnahmen nach § 1 Absatz 2 Nummer 4
+
+1.  ist für Maßnahmen im Hoheitsgebiet eines Landes, sofern dieses Land diese Maßnahmen fördert, die jeweils nach Landesrecht zuständige Stelle,
+
+
+2.  ist im Übrigen die Bundesanstalt für Landwirtschaft und Ernährung.
+
+
+
+
+
+### § 4 Antragsverfahren
+
+(1) Ein Antrag auf Förderung einer Maßnahme nach § 1 Absatz 2 ist schriftlich oder, sofern die zuständige Stelle dies ermöglicht, elektronisch ganzjährig bei der zuständigen Stelle zu stellen.
+
+(2) Die zuständige Stelle hat nach Eingang des Antrags die Vollständigkeit der Angaben und der beigefügten Nachweise zu prüfen. Fehlende Angaben und Nachweise können von der zuständigen Stelle nach Eingang des Antrags unter Setzung einer angemessenen Frist nachgefordert werden.
+
+(3) Die zuständige Stelle hat insbesondere zu prüfen, ob der Antrag den §§ 5, 6 und 8 entspricht.
+
+(4) Über die Förderung einer Maßnahme nach § 1 Absatz 2 ist durch Bescheid zu entscheiden. Eine Förderung einer Maßnahme nach § 1 Absatz 2 Nummer 4 oder 5 wird nicht gewährt, sofern der Gesamtbetrag einer beantragten Förderung den Betrag von 1 000 Euro unterschreitet.
+
+(5) Ein nach dem 30. April eines Kalenderjahres bei der Bundesanstalt für Landwirtschaft und Ernährung gestellter Antrag auf Förderung einer Maßnahme nach § 1 Absatz 2 Nummer 4 oder 5 darf nicht mehr für das laufende Haushaltsjahr des jeweiligen Jahreshaushaltsplans der Europäischen Union berücksichtigt werden.
+
+(6) Die Landesregierungen können durch Rechtsverordnung unter Beachtung dieser Verordnung sowie der maßgeblichen Rechtsakte der Europäischen Union von den Absätzen 1 bis 4 abweichende Vorschriften über das Verfahren für die Beantragung und Genehmigung von Förderungen erlassen.
+
+
+### § 5 Auswahlverfahren
+
+Die Landesregierungen können bei knappen Haushaltsmitteln durch Rechtsverordnung Prioritätskriterien und Gewichtungspunkte für die Auswahl der zu fördernden Projekte festlegen, anhand derer die Anträge durch die zuständigen Stellen zu bewerten sind. Solche Prioritätskriterien haben die mit der jeweiligen Maßnahme verfolgten Ziele zu Grunde zu legen, müssen objektiv und dürfen nicht diskriminierend sein. Es sind insbesondere solche Maßnahmen zu berücksichtigen, die einen Beitrag zum Klimaschutz und zur Anpassung an den Klimawandel leisten.
+
+
+### § 5 Antragsinhalt
+
+(1) Ein Antrag auf Förderung einer Maßnahme nach § 1 Absatz 2 Nummer 1 hat die Beschreibung der beantragten Maßnahme, die betreffende Fläche und die geplante Frist für ihre Durchführung zu enthalten. Die zuständige Stelle kann weitere Angaben fordern, soweit dies zur Überprüfung der spezifischen Fördervoraussetzungen erforderlich ist.
+
+(2) Ein Antrag nach § 1 Absatz 2 Nummer 2 hat folgendes zu enthalten:
 
 1.  eine Beschreibung der beantragten Investition und Angabe der veranschlagten Kosten,
 
@@ -130,9 +171,11 @@ Fundstelle
 
 
 
-Die zuständige Behörde kann weitere Angaben fordern, soweit dies zur Überprüfung der spezifischen Fördervoraussetzungen erforderlich ist.
+Absatz 1 Satz 2 gilt entsprechend.
 
-(3) Ein Antrag nach § 2 Absatz 4 oder 5 hat folgendes zu enthalten:
+(3) Ein Antrag nach § 1 Absatz 2 Nummer 3 hat einen Nachweis über das Bestehen der zu fördernden Ernteversicherung zu enthalten, dem die versicherten Risiken, der Umfang der versicherten Fläche und die gezahlten Kosten der Versicherungsprämie zu entnehmen sind. Absatz 1 Satz 2 gilt entsprechend.
+
+(4) Ein Antrag nach § 1 Absatz 2 Nummer 4 oder 5 hat folgendes zu enthalten:
 
 1.  eine eindeutige Festlegung der Maßnahmen und der damit einhergehenden Aktionen verbunden mit einer Beschreibung der Informations- oder Absatzförderungstätigkeiten und Angabe der veranschlagten Kosten,
 
@@ -145,32 +188,113 @@ Die zuständige Behörde kann weitere Angaben fordern, soweit dies zur Überprü
 
 4.  die Darstellung der Kohärenz mit den vorgeschlagenen Strategien und festgelegten Zielen und der zu erwartenden Wirkung und dem zu erwartenden Erfolg
 
-    a)  bei der Sensibilisierung der Verbraucher für verantwortungsvollen Weinkonsum und die mit einem schädlichen Alkoholkonsum verbundenen Risiken sowie für die Unionsregelung für geschützte Ursprungsbezeichnungen und geschützte geografische Angaben im Falle einer Maßnahme nach § 2 Absatz 4 oder
+    a)  bei der Sensibilisierung der Verbraucher für verantwortungsvollen Weinkonsum und die mit einem schädlichen Alkoholkonsum verbundenen Risiken sowie für die Unionsregelung für geschützte Ursprungsbezeichnungen und geschützte geografische Angaben im Falle einer Maßnahme nach § 1 Absatz 2 Nummer 4 oder
 
 
-    b)  bei der Steigerung der Nachfrage nach den betreffenden Erzeugnissen, im Falle einer Maßnahme nach § 2 Absatz 5.
-
-
-
+    b)  bei der Steigerung der Nachfrage nach den betreffenden Erzeugnissen, im Falle einer Maßnahme nach § 1 Absatz 2 Nummer 5.
 
 
 
-Absatz 2 Satz 2 gilt entsprechend.
 
 
-#### § 5 Auswahlverfahren
 
-Die Landesregierungen können bei knappen Haushaltsmitteln durch Rechtsverordnung Prioritätskriterien und Gewichtungspunkte für die Auswahl der zu fördernden Projekte festlegen, anhand derer die Anträge durch die zuständigen Stellen zu bewerten sind. Solche Prioritätskriterien haben die mit der jeweiligen Maßnahme verfolgten Ziele zu Grunde zu legen, müssen objektiv und dürfen nicht diskriminierend sein. Es sind insbesondere solche Maßnahmen zu berücksichtigen, die einen Beitrag zum Klimaschutz und zur Anpassung an den Klimawandel leisten.
+Absatz 1 Satz 2 gilt entsprechend.
 
-
-#### § 6 Nicht förderfähige und förderfähige Kosten
-
-Die nicht förderfähigen und förderfähigen Kosten der Maßnahmen nach § 2 richten sich nach den Bestimmungen des GAP-Strategieplanes.
+(5) Für einen Antrag nach § 1 Absatz 2 Nummer 6 gilt Absatz 2 entsprechend.
 
 
-#### § 7 Förderfähigkeit von Personalkosten
+### § 6 Auswahlverfahren
 
-(1) Die Personalkosten des Antragstellers einer Maßnahme nach § 2 Absatz 4 oder 5 sind förderfähig, wenn sie im Zusammenhang mit der Vorbereitung, der Durchführung oder dem Follow-up der jeweils unterstützten Maßnahme, einschließlich ihrer Bewertung, entstehen.
+(1) Die Landesregierungen können durch Rechtsverordnung für die Förderung von Maßnahmen Folgendes festlegen:
+
+1.  Prioritätskriterien und Gewichtungspunkte für die Auswahl der zu fördernden Projekte, anhand derer die Anträge durch die jeweils zuständige Stelle bei der Anwendung ihres Auswahlverfahrens zu bewerten sind, und
+
+
+2.  einen verringerten Fördersatz, bei dessen Anwendung alle förderfähigen Anträge insgesamt oder alle förderfähigen Anträge für eine gleiche Maßnahme gleichermaßen gefördert werden können.
+
+
+
+Prioritätskriterien und Gewichtungspunkte nach Satz 1 Nummer 1
+
+1.  haben die mit der jeweiligen Maßnahme verfolgten Ziele zu Grunde zu legen,
+
+
+2.  müssen objektiv und dürfen nicht diskriminierend sein und
+
+
+3.  müssen insbesondere solche Maßnahmen berücksichtigen, die einen Beitrag zum Klimaschutz und zur Anpassung an den Klimawandel leisten.
+
+
+
+
+(2) Die Bundesanstalt für Landwirtschaft und Ernährung kann im Rahmen ihrer Zuständigkeit ein dem Absatz 1 Satz 1 Nummer 1 entsprechendes Auswahlverfahren festlegen.
+
+
+### § 7 Vorschusszahlungen und Sicherheitsleistungen
+
+(1) Die zuständigen Stellen können auf Antrag Vorschusszahlungen für die Förderung gewähren.
+
+(2) Die Summe aller Vorschusszahlungen darf 80 Prozent des Gesamtförderbetrags nicht überschreiten.
+
+(3) Die zuständigen Stellen haben sicherzustellen, dass im Vorfeld der Auszahlung der Vorschusszahlung durch die oder den Begünstigten
+
+1.  eine angemessene Sicherheit geleistet wird und
+
+
+2.  die aufgrund von Artikel 44 Absatz 5 der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 über die Finanzierung, Verwaltung und Überwachung der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EU) Nr. 1306/2013 (ABl. L 435 vom 6.12.2021, S. 187; L 29 vom 10.2.2022, S. 45) in der jeweils geltenden Fassung gemachten Vorgaben berücksichtigt werden.
+
+
+
+
+(4) Ein Vorschuss ist unter der Bedingung zu zahlen, dass die oder der Begünstigte eine Bankgarantie oder eine entsprechende Sicherheit in Höhe von mindestens diesem Vorschuss zugunsten des Trägers der jeweils zuständigen Stelle gestellt hat.
+
+
+### § 8 Förderfähigkeit von maßnahmenbezogenen Kosten
+
+(1) Im Falle von Maßnahmen nach § 1 Absatz 2 Nummer 1 sind vorbehaltlich des Satzes 2 die dafür erforderlichen Kosten förderfähig. Nicht förderfähig sind Kosten
+
+1.  für die normale Erneuerung ausgedienter Altrebflächen,
+
+
+2.  für Rebflächen, die bereits in den vergangenen zehn Jahren Gegenstand einer Förderung derselben Maßnahme waren und
+
+
+3.  für nicht klassifizierte Rebsorten.
+
+
+
+
+(2) Im Falle von Maßnahmen nach § 1 Absatz 2 Nummer 2 sind ausschließlich die der Erzeugung oder der Vermarktung der im Anhang VII Teil II der Verordnung (EU) Nr. 1308/2013 genannten Weinbauerzeugnisse dienenden Investitionskosten förderfähig, insbesondere Maßnahmen, die die Erfassung, Lagerung, Kühlung, Sortierung, marktgerechte Aufbereitung, Verpackung, Etikettierung oder Verarbeitung betreffen. Sofern die Summe der beantragten Zuwendungen aller Anträge für diese Maßnahme in einem Haushaltsjahr des jeweiligen Jahreshaushaltsplans der Europäischen Union die für diese Maßnahme in einem Land verfügbaren Haushaltsmittel übersteigt, sind vorrangig Investitionen, die der Einsparung von Primärenergie, der Verbesserung der betrieblichen Energieeffizienz oder der Einführung nachhaltiger Prozesse in den Betrieben dienen, zu fördern.
+
+(3) Im Falle von Maßnahmen nach § 1 Absatz 2 Nummer 3 sind Kosten für Versicherungsprämien, die zur Versicherung gegen Einkommensverluste durch widrige Witterungsverhältnisse, Tiere, Pflanzenkrankheiten oder Schädlinge gezahlt werden, förderfähig. Die Länder stellen durch geeignete Maßnahmen sicher, dass die Förderung zu keiner Wettbewerbsverzerrung auf dem Versicherungsmarkt führt.
+
+(4) Im Falle von Maßnahmen nach § 1 Absatz 2 Nummer 4 sind Kosten für Informationsmaßnahmen in den Mitgliedstaaten förderfähig, sofern die Informationsmaßnahmen in Form von Informationskampagnen oder in Form der Teilnahme an Veranstaltungen, Messen und Ausstellungen auf nationaler Ebene oder auf Ebene der Europäischen Union durchgeführt werden, und dazu beitragen, Verbraucherinnen und Verbraucher stärker für verantwortungsvollen Weinkonsum oder die Unionsregelungen für geografische Angaben zu sensibilisieren, und die im Rahmen der jeweiligen Maßnahme vermittelten Informationen
+
+1.  auf den dem Wein inhärenten Eigenschaften oder dessen Merkmalen beruhen,
+
+
+2.  nicht auf bestimmte Handelsmarken ausgerichtet sind,
+
+
+3.  nicht aufgrund des besonderen Ursprungs eines Weins zu dessen Konsum anregen,
+
+
+4.  auf allgemein anerkannten wissenschaftlichen Daten beruhen und
+
+
+5.  mit der Vorgehensweise der zuständigen Gesundheitsbehörden derjenigen Mitgliedstaaten vereinbar sind, in denen die Maßnahmen durchgeführt werden.
+
+
+
+
+(5) Im Falle von Maßnahmen nach § 1 Absatz 2 Nummer 5 sind Kosten für Tätigkeiten zur Absatzförderung in Drittländern und für Kommunikationsmaßnahmen in Drittländern förderfähig, sofern sie Weine mit geografischer Angabe oder Rebsortenweine betreffen.
+
+(6) Im Falle von Maßnahmen nach § 1 Absatz 2 Nummer 6 sind ausschließlich auf die Verbesserung der Nachhaltigkeit der Weinbereitung ausgerichtete Investitionskosten förderfähig.
+
+
+### § 9 Förderfähigkeit von Personalkosten
+
+(1) Die Personalkosten des Antragstellers einer Maßnahme nach § 1 Absatz 2 Nummer 4 oder 5 sind förderfähig, wenn sie im Zusammenhang mit der Vorbereitung, der Durchführung oder dem Follow-up der jeweils unterstützten Maßnahme, einschließlich ihrer Bewertung, entstehen.
 
 (2) Die förderfähigen Personalkosten umfassen sowohl die Kosten für das von der oder dem Begünstigten anlässlich der Maßnahme eigens unter Vertrag genommene Personal als auch die Kosten, die dem Anteil an Arbeitszeit entsprechen, den das ständige Personal der oder des Begünstigten für die Maßnahme aufwendet.
 
@@ -179,9 +303,9 @@ Die nicht förderfähigen und förderfähigen Kosten der Maßnahmen nach § 2 ri
 (4) Zur Ermittlung der Personalkosten, die mit der Durchführung einer Maßnahme durch das ständige Personal der oder des Begünstigten zusammenhängen, kann der anwendbare Stundensatz dadurch berechnet werden, dass die zuletzt dokumentierten jährlichen Bruttobeschäftigungskosten durch 1 720 Stunden geteilt werden.
 
 
-#### § 8 Förderfähigkeit von Verwaltungskosten
+### § 10 Förderfähigkeit von Verwaltungskosten
 
-(1) Die Verwaltungskosten der oder des Begünstigten, die oder der eine Förderung für eine Maßnahme nach § 2 Absatz 4 oder 5 erhält, sind förderfähig, wenn sie
+(1) Die Verwaltungskosten der oder des Begünstigten, die oder der eine Förderung für eine Maßnahme nach § 1 Absatz 2 Nummer 4 oder 5 erhält, sind förderfähig, wenn sie
 
 1.  im Zusammenhang mit der Vorbereitung, der Durchführung oder dem Follow-up der jeweils geförderten Maßnahme entstehen und
 
@@ -196,71 +320,18 @@ Die nicht förderfähigen und förderfähigen Kosten der Maßnahmen nach § 2 ri
 (3) Die Verwaltungskosten nach Absatz 1 können auf der Grundlage einer Pauschale oder auf der Grundlage der tatsächlichen Kosten, die anhand der von den Begünstigten vorzulegenden Nachweisen ermittelt werden, förderfähig sein. Im letzteren Fall sind diese Kosten anhand von Buchführungsgrundsätzen, -vorschriften und -methoden zu berechnen.
 
 
-#### § 9 Förderfähigkeit der Umsatzsteuer
+### § 11 Förderfähigkeit der Umsatzsteuer
 
 (1) Die Umsatzsteuer ist nicht förderfähig, mit Ausnahme der Umsatzsteuer, die nach dem geltenden Umsatzsteuerrecht nicht erstattungsfähig ist und die tatsächlich und endgültig von anderen Begünstigten als den Nicht-Steuerpflichtigen im Sinne des § 2b Absatz 1 Satz 1 des Umsatzsteuergesetzes zu entrichten ist.
 
 (2) Nichterstattungsfähige Umsatzsteuer kommt für eine Förderung in Betracht, sofern ein Buchprüfer oder Abschlussprüfer der oder des Begünstigten nachweist, dass der gezahlte Betrag nicht rückerstattet wurde und in den Büchern der oder des Begünstigten als Verbindlichkeit ausgewiesen ist.
 
 
-#### § 10 Zweckbindungsfrist
+### § 12 Mindestparzellengröße bei der Umstrukturierung und Umstellung von Rebflächen
 
-Für alle im Rahmen einer Maßnahme nach § 2 Absatz 2 und der Verordnung (EU) Nr. 1308/2013 erfolgten Förderungen zum Erwerb materieller und immaterieller Vermögenswerte gilt eine Zweckbindungsfrist von fünf Jahren. Im Falle von Maßnahmen nach § 2 Absatz 1 gilt entsprechendes für die Maßnahme Tröpfchenbewässerung. Innerhalb der Zweckbindungsfrist darf ein Vermögenswert nur nach der im Antrag beschriebenen Art und Weise verwendet werden.
+(1) Die Mindestparzellengröße einer Maßnahme nach § 1 Absatz 2 Nummer 1, die sich aus der Umstrukturierung und Umstellung ergeben muss, darf 20 Ar nicht unterschreiten.
 
-
-#### § 11 Dauer der Unterstützung
-
-(1) Die Förderung für eine Maßnahme nach § 2 Absatz 5 für einen bestimmten Begünstigten in einem bestimmten Mitgliedstaat und bei Maßnahmen nach § 2 Absatz 4 für einen bestimmten Begünstigten in einem bestimmten Drittland oder auf einem bestimmten Drittlandsmarkt ist auf drei Jahre zu begrenzen.
-
-(2) Die Unterstützung für eine Maßnahme kann einmalig um bis zu zwei Jahre oder zweimal um jeweils bis zu einem Jahr verlängert werden, wenn dies aufgrund der Ergebnisse der Maßnahme gerechtfertigt ist.
-
-
-#### § 12 Änderung von Maßnahmen der Begünstigten
-
-(1) Jede Änderung einer geförderten Maßnahme ist der zuständigen Stelle von der oder dem Begünstigten schriftlich mitzuteilen.
-
-(2) Die Änderung eines Teiles einer genehmigten Maßnahme, die zu einer wesentlichen Änderung der genehmigten Maßnahme insgesamt führt, ist der zuständigen Stelle unverzüglich zur Kenntnis zu bringen.
-
-(3) Geringfügige Änderungen innerhalb der genehmigten Maßnahme können ohne vorherige Genehmigung vorgenommen werden, sofern sich diese Änderungen für keinen Teil der Maßnahme auf die Förderfähigkeit und die allgemeinen Ziele auswirken.
-
-(4) Insbesondere können Mittelübertragungen zwischen Teilmaßnahmen einer bereits genehmigten Maßnahme für jede Teilmaßnahme vorgenommen werden, sofern der Gesamtbetrag der genehmigten Förderung für die Maßnahme insgesamt nicht überschritten wird.
-
-
-### Unterabschnitt 2 - Maßnahmen der Bundesanstalt für Landwirtschaft und Ernährung
-
-
-#### § 13 Informations- und Absatzförderungsmaßnahmen
-
-(1) Für die Förderung einer Maßnahme nach § 2 Absatz 4 oder 5 ist, soweit sich die Maßnahme auf Erzeugnisse aus mindestens zwei Ländern bezieht, die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) zuständig.
-
-(2) Eine Maßnahme im Sinne des Absatzes 1 wird mit einem Fördersatz in Höhe von 50 Prozent gefördert.
-
-(3) Ein Antrag auf Gewährung einer Förderung kann ganzjährig unter Verwendung des bei der Bundesanstalt erhältlichen Antragsformulars gestellt werden. Ein Antrag, der nach dem 30. April gestellt wird, wird nicht mehr für das laufende EU-Haushaltsjahr berücksichtigt. Der Antrag hat folgende Anhänge zu enthalten:
-
-1.  eine genaue Beschreibung der Maßnahme und
-
-
-2.  den Mittelansatz der Maßnahme.
-
-
-
-Der Musterantrag kann einschließlich der Anhänge bei der Bundesanstalt bezogen oder im Internet unter
-www.ble.de/             Absatzmusterantrag eingesehen werden.
-
-(4) Über die Durchführung einer zu fördernden Maßnahme darf nicht vor dem 16. Oktober des laufenden
-EU-Haushaltsjahres              entschieden werden.
-
-(5) Innerhalb eines Monats nach Abschluss der Maßnahme hat die oder der Begünstigte der Bundesanstalt den Abschlussbericht und eine Bewertung der durchgeführten Maßnahme vorzulegen.
-
-
-### Unterabschnitt 3 - Maßnahmen der Länder
-
-
-#### § 14 Umstrukturierung und Umstellung
-
-(1) Die Mindestparzellengröße einer Maßnahme nach § 2 Absatz 1, die sich aus der Umstrukturierung und Umstellung ergeben muss, darf 20 Ar nicht unterschreiten.
-
-(2) Um der besonderen Weinbaustruktur einzelner Länder Rechnung zu tragen, darf abweichend von Absatz 1 die Mindestparzellengröße
+(2) Um der besonderen Weinbaustruktur einzelner Länder Rechnung zu tragen, können die zuständigen Stellen abweichend von Absatz 1 die Mindestparzellengröße
 
 1.  in den Ländern Baden-Württemberg, Brandenburg, Sachsen, Sachsen-Anhalt und Thüringen auf mindestens drei Ar und
 
@@ -269,18 +340,28 @@ EU-Haushaltsjahres              entschieden werden.
 
 
 
-festgelegt werden.
+festlegen.
 
 
-#### § 15 Vorschusszahlungen und Sicherheitsleistungen
+### § 13 Zweckbindungsfrist
 
-(1) Die zuständigen Stellen können auf Antrag Vorschusszahlungen für die Förderung gewähren.
+Für alle im Rahmen einer Maßnahme nach § 1 Absatz 2 Nummer 2 und 6 erfolgten Förderungen zum Erwerb materieller und immaterieller Vermögenswerte gilt eine Zweckbindungsfrist von fünf Jahren. Im Falle von Maßnahmen nach § 1 Absatz 2 Nummer 1 gilt Entsprechendes für die Installation von Tropfbewässerungsanlagen. Innerhalb der Zweckbindungsfrist darf ein Vermögenswert nur nach der im Antrag beschriebenen Art und Weise verwendet werden.
 
-(2) Der Vorschussbetrag darf 80 Prozent des Gesamtförderbetrags nicht überschreiten.
 
-(3) Die Länder haben sicherzustellen, dass im Vorfeld der Auszahlung der Vorschusszahlung durch die oder den Begünstigten eine angemessene Sicherheit geleistet wird und die aufgrund von Artikel 44 Absatz 5 der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 über die Finanzierung, Verwaltung und Überwachung der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EU) Nr. 1306/2013 (ABl. L 435 vom 6.12.2021, S. 187; L 29 vom 10.2.2022, S. 45), die durch die Delegierte Verordnung (EU) 2022/1408 (ABl. L 216 vom 19.8.2022, S. 1) geändert worden ist, gemachten Vorgaben berücksichtigt werden.
+### § 14 Dauer der Förderung
 
-(4) Der Vorschuss ist unter der Bedingung zu zahlen, dass die oder der Begünstigte eine Bankgarantie oder eine entsprechende Sicherheit in Höhe mindestens dieses Vorschusses zugunsten des Landes gestellt hat.
+(1) Die Förderung einer Maßnahme nach § 1 Absatz 2 Nummer 4 für einen bestimmten Begünstigten in einem bestimmten Mitgliedstaat und für eine Maßnahme nach § 1 Absatz 2 Nummer 5 für einen bestimmten Begünstigten in einem bestimmten Drittland ist auf maximal drei Jahre zu begrenzen.
+
+(2) Im Falle von Maßnahmen nach § 1 Absatz 2 Nummer 4 kann die Förderung für eine Maßnahme einmalig um bis zu zwei Jahre oder zweimal um jeweils bis zu einem Jahr verlängert werden, wenn dies aufgrund der Ergebnisse der Maßnahme gerechtfertigt ist.
+
+
+### § 15 Änderungen von Maßnahmen
+
+(1) Jede Änderung einer genehmigten Maßnahme ist der zuständigen Stelle von der oder dem Begünstigten mitzuteilen. Eine Änderung darf zu keiner Erhöhung des genehmigten Gesamtförderbetrags für die genehmigte Maßnahme führen.
+
+(2) Eine Änderung bedarf der Genehmigung durch die zuständige Stelle. Geringfügige Änderungen einer genehmigten Maßnahme können ohne Genehmigung vorgenommen werden, sofern sich diese Änderungen nicht auf die Förderfähigkeit und die allgemeinen Ziele der Maßnahme auswirken. Die zuständige Stelle entscheidet darüber, ob eine Änderung geringfügig ist.
+
+(3) Mittelübertragungen können innerhalb einer genehmigten Maßnahme vorgenommen werden, sofern der genehmigte Gesamtförderbetrag für die genehmigte Maßnahme dadurch nicht erhöht wird. Für von der Bundesanstalt für Landwirtschaft und Ernährung genehmigte Maßnahmen ist eine Mittelübertragung nur bis zu einer Höhe von maximal 20 Prozent der genehmigten Beträge zulässig.
 
 
 ## Abschnitt 3 - Pflichten
@@ -288,7 +369,7 @@ festgelegt werden.
 
 ### § 16 Rechnungsführung
 
-Die im Rahmen einer Maßnahme getätigten Ausgaben sind auf Anforderung der zuständigen Stelle durch Rechnungen, Zahlungsnachweise oder andere Nachweise zu belegen. Rechnungen müssen dem oder der Begünstigten zuordenbar sein.
+Die im Rahmen einer Maßnahme getätigten Ausgaben sind auf Anforderung der zuständigen Stelle durch Rechnungen, Zahlungsnachweise oder andere Nachweise zu belegen, sofern keine vereinfachten Kostenoptionen nach Artikel 44 Absatz 1 Buchstabe b, c und d der Verordnung (EU) 2021/2115 zur Anwendung kommen. Rechnungen müssen dem oder der Begünstigten zuordenbar sein.
 
 
 ### § 17 Duldungs-, Mitwirkungs- und Aufbewahrungspflichten
@@ -319,15 +400,19 @@ Bei automatischer Buchführung sind die in Satz 1 genannten Auskunftspflichtigen
 
 (2) Begünstigte von Förderungen haben der zuständigen Stelle jede Veränderung anzuzeigen, die dazu führt, dass die tatsächlichen oder rechtlichen Verhältnisse nicht mehr mit den Angaben oder Erklärungen in ihren Anträgen übereinstimmen. Die Veränderungen sind in der von der zuständigen Stelle vorgegebenen Form anzuzeigen.
 
-(3) Die zuständigen Stellen haben der Bundesanstalt in elektronischer Form alle Angaben mitzuteilen, die zur Erfüllung der Mitteilungspflichten erforderlich sind, die der Bundesrepublik Deutschland gegenüber den Organen der Europäischen Union obliegen. Ist im Unionsrecht eine Frist für die Übermittlung an andere Mitgliedstaaten oder an Organe der Europäischen Union festgelegt, hat die Mitteilung nach Satz 1 spätestens einen Monat vor Ablauf der entsprechenden Frist zu erfolgen. Diese Frist kann mit Zustimmung der Bundesanstalt verkürzt werden.
+(3) Innerhalb eines Monats nach Abschluss einer Maßnahme, für deren Förderung die Bundesanstalt für Landwirtschaft und Ernährung zuständig ist, hat die oder der Begünstigte der Bundesanstalt für Landwirtschaft und Ernährung den Abschlussbericht und eine Bewertung der durchgeführten Maßnahme vorzulegen.
+
+(4) Die zuständigen Stellen haben der Bundesanstalt für Landwirtschaft und Ernährung in elektronischer Form alle Angaben mitzuteilen, die zur Erfüllung der Mitteilungspflichten erforderlich sind, die der Bundesrepublik Deutschland gegenüber den Organen der Europäischen Union obliegen. Ist im Unionsrecht eine Frist für die Übermittlung an andere Mitgliedstaaten oder an Organe der Europäischen Union festgelegt, hat die Mitteilung nach Satz 1 spätestens einen Monat vor Ablauf der entsprechenden Frist zu erfolgen.
+
+(5) Bei Maßnahmen nach § 1 Absatz 2 Nummer 4 haben sich die Bundesanstalt für Landwirtschaft und Ernährung und die nach Landesrecht zuständigen Stellen gegenseitig über Anträge und Förderbescheide zu unterrichten.
 
 
 ## Abschnitt 4 - Kontrollen
 
 
-### § 19 Allgemein
+### § 19 Allgemeines
 
-(1) Die zuständigen Stellen haben Kontrollen durchzuführen und Maßnahmen zu ergreifen, soweit sie erforderlich sind, um die ordnungsgemäße Anwendung der Vorschriften des nationalen GAP-Strategieplanes für den Sektor Wein sicherzustellen. Die Maßnahmen müssen wirksam, verhältnismäßig und abschreckend sein, um einen angemessenen Schutz der finanziellen Interessen der Europäischen Union zu gewährleisten.
+(1) Die zuständigen Stellen haben Kontrollen durchzuführen und Maßnahmen zu ergreifen, soweit sie erforderlich sind, um die ordnungsgemäße Anwendung der Unions- und nationalen Rechtsvorschriften für die Förderung von Maßnahmen im Sektor Wein für den Sektor Wein sicherzustellen. Die Maßnahmen müssen wirksam, verhältnismäßig und abschreckend sein, um einen angemessenen Schutz der finanziellen Interessen der Europäischen Union zu gewährleisten.
 
 (2) Insbesondere müssen die zuständigen Stellen sicherstellen, dass
 
@@ -337,7 +422,7 @@ Bei automatischer Buchführung sind die in Satz 1 genannten Auskunftspflichtigen
 2.  nur überprüfbare und kontrollierbare Maßnahmen ausgewählt werden,
 
 
-3.  die für die Durchführung der Kontrollen zuständigen Behörden über Bedienstete in hinreichender Anzahl und mit geeigneter Qualifikation und Erfahrung für die wirksame Durchführung der Kontrollen verfügen,
+3.  die für die Durchführung der Kontrollen zuständigen Stellen über Bedienstete in hinreichender Anzahl und mit geeigneter Qualifikation und Erfahrung für die wirksame Durchführung der Kontrollen verfügen,
 
 
 4.  die Methoden und Mittel für die Kontrollen auf die Art der Maßnahmen abgestimmt sind; sie bestimmen die zu kontrollierenden Personen,
@@ -355,7 +440,7 @@ Bei automatischer Buchführung sind die in Satz 1 genannten Auskunftspflichtigen
 
 (2) Die zuständigen Stellen haben alle Prüfschritte, die Ergebnisse der Verwaltungskontrollen und die bei Unregelmäßigkeiten getroffenen Maßnahmen zu protokollieren.
 
-(3) Durch Verwaltungskontrollen der Anträge auf Fördermittel ist sicherzustellen, dass die Maßnahmen mit den geltenden Verpflichtungen gemäß Unionsrecht, dem nationalen Recht und dem nationalen GAP-Strategieplan in Einklang stehen. Bei den Kontrollen ist insbesondere Folgendes zu überprüfen:
+(3) Durch Verwaltungskontrollen der Anträge auf Fördermittel ist sicherzustellen, dass die Maßnahmen mit den geltenden Verpflichtungen gemäß Unions- und dem nationalen Recht in Einklang stehen. Bei den Kontrollen ist insbesondere Folgendes zu überprüfen:
 
 1.  die Förderfähigkeit der oder des Begünstigten,
 
@@ -377,36 +462,36 @@ Die Plausibilisierung der Gesamtkosten der Maßnahme ist vor der Entscheidung ü
 1.  einen Vergleich der ursprünglich beantragten mit der tatsächlich durchgeführten Maßnahme,
 
 
-2.  die angefallenen Kosten und die getätigten Zahlungen der oder des Begünstigten.
+2.  die angefallenen Kosten und die getätigten Zahlungen der oder des Begünstigten, sofern keine vereinfachten Kostenoptionen nach Artikel 44 Absatz 1 Buchstabe b, c und d der Verordnung (EU) 2021/2115 zur Anwendung kommen.
 
 
 
 
 (5) Die Verwaltungskontrollen haben das Verfahren, mit denen eine regelwidrige Doppelfinanzierung im Rahmen anderer Unionsregelungen ausgeschlossen werden kann, zu umfassen.
 
-(6) Die Verwaltungskontrollen bei materiellen Investitionsvorhaben nach § 2 Absatz 2 umfassen zumindest einen Besuch des geförderten Vorhabens oder des Investitionsstandortes, um die Durchführung der Investition zu überprüfen (Inaugenscheinnahme). Die zuständige Behörde kann jedoch in begründeten Einzelfällen wie den folgenden von diesen Besuchen absehen:
+(6) Die Verwaltungskontrollen bei materiellen Investitionsvorhaben nach § 1 Absatz 2 Nummer 2 und 6 umfassen zumindest einen Besuch des geförderten Vorhabens oder des Investitionsstandortes, um die Durchführung der Investition zu überprüfen (Inaugenscheinnahme). Abweichend von Satz 1 kann die zuständige Stelle in begründeten Einzelfällen von Inaugenscheinnahmen absehen, insbesondere wenn
 
-1.  das Vorhaben ist Teil der Stichprobe für eine durchzuführende Vor-Ort-Kontrolle,
-
-
-2.  die zuständige Behörde betrachtet das Vorhaben als kleine Investitionen bei einem förderfähigen Investitionsvolumen von bis zu 50 000 Euro,
+1.  das Vorhaben Teil der Stichprobe für eine durchzuführende Vor-Ort-Kontrolle ist,
 
 
-3.  nach Ansicht der zuständigen Behörde ist die Gefahr gering, dass die Bedingungen für die Gewährung der Unterstützung nicht erfüllt sind oder die Investition nicht getätigt wurde oder
+2.  die zuständige Stelle das Vorhaben als kleine Investition betrachtet, wobei das förderfähige Investitionsvolumen des Vorhabens nicht mehr als 50 000 Euro betragen darf,
 
 
-4.  die tatsächliche Durchführung des Vorhabens kann anhand von alternativen Nachweisen gesichert festgestellt werden.
+3.  nach Ansicht der zuständigen Stelle die Gefahr gering ist, dass die Bedingungen für die Gewährung der Förderung nicht erfüllt sind oder die Investition nicht getätigt wurde, oder
+
+
+4.  die tatsächliche Durchführung des Vorhabens anhand von alternativen Nachweisen, insbesondere datierten Fotos, datierten Drohnenüberwachungsberichten oder Videokonferenzen mit dem oder der Begünstigten gesichert festgestellt werden kann.
 
 
 
-Im Falle des Absehens von der Inaugenscheinnahme in Bezug auf ein Vorhaben hat die zuständige Behörde die Gründe dafür zu dokumentieren.
+Im Falle des Satzes 2 hat die zuständige Stelle die Gründe für das Absehen zu dokumentieren.
 
 
 ### § 21 Inhalt der Vor-Ort-Kontrollen
 
 (1) Durch Vor-Ort-Kontrollen ist zu überprüfen, ob die Maßnahme im Einklang mit den geltenden Bestimmungen durchgeführt wurde, und ob alle Förderkriterien, Verpflichtungen und sonstigen Auflagen für die Gewährung einer Förderung abgedeckt werden, die zum Zeitpunkt des Kontrollbesuchs überprüft werden können und nicht Gegenstand von Verwaltungskontrollen waren.
 
-(2) Bei Vor-Ort-Kontrollen von Maßnahmen nach § 2 Absatz 2 bis 5 ist die Richtigkeit der Angaben der oder des Begünstigten anhand zugrundeliegender Unterlagen zu überprüfen. Sofern erforderlich können dazu auch Buchführungsunterlagen oder andere Unterlagen herangezogen werden.
+(2) Bei Vor-Ort-Kontrollen von Maßnahmen nach § 1 Absatz 2 Nummer 2 und 6 ist die Richtigkeit der Angaben der oder des Begünstigten anhand zugrundeliegender Unterlagen zu überprüfen. Sofern erforderlich können dazu auch Buchführungsunterlagen oder andere Unterlagen herangezogen werden.
 
 (3) Durch Vor-Ort-Kontrollen ist zu überprüfen, ob die tatsächliche oder beabsichtigte Zweckbestimmung der Maßnahme mit der im Antrag auf Förderung beschriebenen Zweckbestimmung, für die die Förderung gewährt wurde, übereinstimmt.
 
@@ -415,39 +500,35 @@ Im Falle des Absehens von der Inaugenscheinnahme in Bezug auf ein Vorhaben hat d
 
 (1) Soweit in diesem Abschnitt Stichprobenkontrollen vorgesehen sind, haben die zuständigen Stellen auf der Grundlage einer geeigneten Stichprobe Vor-Ort-Kontrollen ausgewählter Maßnahmen durchzuführen.
 
-(2) Diese Vor-Ort-Kontrollen nach Absatz 1 sind in der Regel vor Tätigung der Abschlusszahlung für eine Maßnahme vorzunehmen.
+(2) Vor-Ort-Kontrollen nach Absatz 1 sind in der Regel vor Tätigung der Abschlusszahlung für eine Maßnahme vorzunehmen.
 
 (3) Vor-Ort-Kontrollen können angekündigt werden, sofern dies ihrem Zweck oder ihrer Wirksamkeit nicht zuwiderläuft.
 
 
 ### § 23 Kontrollsatz und Stichprobenerhebung für Vor-Ort-Kontrollen
 
-(1) Für die Förderung von Maßnahmen nach § 2 können nach deren Durchführung Stichprobenkontrollen vorgenommen werden.
+(1) Für die Förderung von Maßnahmen nach § 1 Absatz 2 kann nach deren Durchführung eine Stichprobenkontrolle vorgenommen werden. Eine Stichprobe hat mindestens fünf Prozent der positiv beschiedenen Förderanträge oder mindestens fünf Prozent der insgesamt beschiedenen Fördermittel zu umfassen. Alternativ kann die Stichprobe auch fünf Prozent der eingereichten Zahlungsanträge oder fünf Prozent der mit den Zahlungsanträgen beantragten Zuwendungen umfassen.
 
 (2) Sofern bei Vor-Ort-Kontrollen im Zusammenhang mit einer bestimmten Maßnahme in einem Land erhebliche Verstöße festgestellt worden sind, hat die zuständige Stelle eine entsprechende Erhöhung der Kontrollquote im darauf folgenden Jahr zu prüfen.
 
 
 ### § 24 Auswahl der Kontrollstichprobe
 
-(1) Die zuständige Stelle legt gemäß unionsrechtlicher Regelungen die Stichproben für die durchzuführenden Vor-Ort-Kontrollen fest.
+(1) Die zuständige Stelle hat gemäß den entsprechenden unionsrechtlichen Regelungen die Stichproben für die durchzuführenden Vor-Ort-Kontrollen festzulegen.
 
 (2) Die zuständige Stelle hat die Gründe für die Auswahl der einzelnen Begünstigten für eine Vor-Ort-Kontrolle schriftlich oder elektronisch festzuhalten.
 
 
-### § 25 Vor-Ort-Kontrollen bei Umstrukturierung und Umstellung von Rebflächen
+### § 25 Verwaltungs- und Vor-Ort-Kontrollen bei Umstrukturierung und Umstellung von Rebflächen
 
-(1) Die Einhaltung der Bestimmungen über Förderungen nach § 2 Absatz 1 ist von den zuständigen Stellen anhand der Weinbaukartei zu kontrollieren.
+(1) Die Einhaltung der Bestimmungen über Förderungen nach § 1 Absatz 2 Nummer 1 ist von den zuständigen Stellen anhand der Weinbaukartei zu kontrollieren.
 
 (2) Die tatsächliche Durchführung der Rodung, sofern sie als Aktion zur Umstrukturierung und Umstellung von Rebflächen gefördert wird, ist durch eine Vor-Ort-Kontrolle zu überprüfen. Abweichend von Satz 1 kann die Überprüfung durch Fernerkundung vorgenommen werden bei der Rodung vollständiger Rebparzellen, oder wenn die Bildauflösung bei der Fernerkundung mindestens 1 m
 2              beträgt.
 
-(3) Flächen, für die Maßnahmen zur Umstrukturierung und Umstellung von Rebflächen gefördert werden, sind vor und nach der Durchführung der Maßnahmen zu kontrollieren. Die Kontrolle hat sich auf die Parzellen zu beziehen, für die ein Förderantrag gestellt wurde.
+(3) Flächen, für die Maßnahmen zur Umstrukturierung und Umstellung von Rebflächen gefördert werden, sind vor der Durchführung der Maßnahmen zu kontrollieren. Die Kontrolle hat sich auf die Parzellen zu beziehen, für die ein Förderantrag gestellt wurde.
 
-(4) Bei der Kontrolle vor Durchführung der Maßnahme sind unter anderem das Vorhandensein der betreffenden Rebfläche und der Ausschluss der normalen Erneuerung ausgedienter Rebflächen zu überprüfen.
-
-(5) Die Kontrolle nach Absatz 4 hat in Form einer Vor-Ort-Kontrolle zu erfolgen. Verfügt das Land über ein grafisches oder ein gleichwertiges Instrument, das die Messung der bepflanzten Fläche nach Artikel 42 Absatz 1 der Verordnung (EU) 2022/126 in der elektronischen Weinbaukartei oder einem gleichwertigen System ermöglicht, und über zuverlässige aktualisierte Daten über die angepflanzten Keltertraubensorten, kann die Kontrolle abweichend von Satz 1 in Form einer Verwaltungskontrolle durchgeführt werden. In diesem Fall kann die obligatorische Vor-Ort-Kontrolle vor der Durchführung der Maßnahmen auf fünf Prozent der ausgewählten Anträge beschränkt werden, um die Zuverlässigkeit der Verwaltungskontrollen zu bestätigen.
-
-(6) Sofern bei einer Vor-Ort-Kontrolle nach Absatz 5 Satz 1 erhebliche Unregelmäßigkeiten oder Unstimmigkeiten in einem Gebiet oder Teilgebiet festgestellt worden sind, ist die Anzahl der Vor-Ort-Kontrollen in dem betreffenden Jahr von der zuständigen Stelle entsprechend zu erhöhen.
+(4) Die Kontrolle vor Durchführung einer Maßnahme hat in Form einer Vor-Ort-Kontrolle zu erfolgen. Verfügt das Land über ein grafisches oder ein gleichwertiges Instrument, das die Messung der bepflanzten Fläche nach Artikel 42 Absatz 1 der Delegierten Verordnung (EU) 2022/126 in der elektronischen Weinbaukartei oder einem gleichwertigen System ermöglicht, und über zuverlässige aktualisierte Daten über die angepflanzten Keltertraubensorten, kann die Kontrolle abweichend von Satz 1 in Form einer Verwaltungskontrolle durchgeführt werden. Sofern die zuständige Stelle in einem Jahr erhebliche Unregelmäßigkeit oder Unstimmigkeiten in einem Gebiet oder Teilgebiet feststellt, sind abweichend von Satz 2 in dem betreffenden sowie dem darauffolgenden Jahr stichprobenartig Vor-Ort-Kontrollen durchzuführen.
 
 
 ### § 26 Kontrollen zur Einhaltung der Zweckbindung
@@ -456,7 +537,7 @@ Im Falle des Absehens von der Inaugenscheinnahme in Bezug auf ein Vorhaben hat d
 
 (2) Die stichprobenartig durchzuführenden Kontrollen erstrecken sich in jedem Kalenderjahr auf mindestens 0,6 Prozent der Investitionsvorhaben. Berücksichtigt werden nur Kontrollen, die bis zu dem Ende des Kalenderjahres durchgeführt wurden, das noch einer Zweckbindung unterliegt. Die zu kontrollierenden Vorhaben sind zu mindestens 50 Prozent nach dem Zufallsprinzip auszuwählen.
 
-(3) Die zuständigen Stellen können zusätzlich zu Absatz 1 anlassbezogene Kontrollen durchführen, wenn im Einzelfall aufgrund einer Risikoanalyse eine erhebliche Gefahr einer nicht zweckentsprechenden Nutzung besteht oder die zuständige Stelle Kenntnis von Unregelmäßigkeiten erlangt.
+(3) Die zuständigen Stellen können zusätzlich zu Absatz 1 anlassbezogene Kontrollen durchführen, wenn der zuständigen Stelle Hinweise auf Unregelmäßigkeiten vorliegen.
 
 (4) Die zuständige Stelle hat bei der Kontrolle festgestellte Unregelmäßigkeiten in einem schriftlichen oder elektronischen Bericht zu dokumentieren.
 
@@ -479,7 +560,7 @@ Im Falle des Absehens von der Inaugenscheinnahme in Bezug auf ein Vorhaben hat d
 
 
 
-(2) Einem Geprüften oder einer Geprüften ist bei Beanstandungen im Rahmen der Vor-Ort-Kontrollen Gelegenheit zur Stellungnahme und zur Unterzeichnung zu geben und eine schriftliche oder elektronische Kopie des Berichts zu übermitteln.
+(2) Einer kontrollierten Person ist bei Beanstandungen infolge der Vor-Ort-Kontrollen eine schriftliche oder elektronische Kopie des Berichts auszuhändigen oder zu übermitteln und Gelegenheit zur Stellungnahme zu geben. Bei Maßnahmen nach § 1 Absatz 2 Nummer 2 und 6 ist der kontrollierten Person zusätzlich Gelegenheit zur Unterzeichnung zu geben.
 
 
 ### § 28 Kontrollierte Personen
@@ -490,22 +571,22 @@ Natürliche und juristische Personen sowie Vereinigungen dieser Personen, deren 
 ## Abschnitt 5 - Sanktionen
 
 
-### § 29 Kürzung von Zuwendungsbeträgen
+### § 29 Kürzung von Förderbeträgen
 
-Stellt die Bewilligungsstelle im Rahmen der Verwaltungskontrolle fest, dass Ausgaben nicht förderfähig sind, die die begünstigte Person auf der Grundlage des Bewilligungsbescheids im Zahlungsantrag als förderfähig deklariert und zur Erstattung beantragt hat, so wird der Zuwendungsbetrag im Bewilligungsbescheid um den als nicht förderfähig festgestellten Betrag gekürzt.
-
-
-### § 30 Sanktionierung von Übererklärungen bei der Maßnahme nach § 2 Absatz 1
-
-Die Höhe der Unterstützung wird auf der Grundlage der Differenz zwischen der Fläche, die nach Verwaltungskontrollen des Stützungsantrags (bestehend aus Förder- und Zahlungsantrag) genehmigt wurde, und der bei Vor-Ort-Kontrollen im Anschluss an die Durchführung ermittelten Fläche, auf der das Vorhaben tatsächlich durchgeführt wurde, wie folgt berechnet:
-
-1.  wenn die Differenz 30 Prozent nicht überschreitet, wird die Unterstützung auf der Grundlage der bei Vor-Ort-Kontrollen im Anschluss an die Durchführung ermittelten Fläche berechnet,
+Stellt die Bewilligungsstelle im Rahmen der Verwaltungskontrolle fest, dass Ausgaben nicht förderfähig sind, die die begünstigte Person auf der Grundlage des Bewilligungsbescheids im Zahlungsantrag als förderfähig deklariert und zur Erstattung beantragt hat, so sind die beantragten förderfähigen Ausgaben um den als nicht förderfähig festgestellten Betrag zu kürzen.
 
 
-2.  wenn die Differenz mehr als 30 Prozent, jedoch höchstens 50 Prozent beträgt, wird die Unterstützung auf der Grundlage der bei Vor-Ort-Kontrollen im Anschluss an die Durchführung ermittelten Fläche berechnet und um das Doppelte der festgestellten Differenz gekürzt,
+### § 30 Sanktionierung von Übererklärungen bei der Maßnahme nach § 1 Absatz 2 Nummer 1
+
+Die Höhe der Förderung ist auf der Grundlage der Differenz zwischen der Fläche, die nach Verwaltungskontrollen des Stützungsantrags (bestehend aus Förder- und Zahlungsantrag) genehmigt wurde, und der bei Vor-Ort-Kontrollen im Anschluss an die Durchführung ermittelten Fläche, auf der das Vorhaben tatsächlich durchgeführt wurde, wie folgt zu berechnen:
+
+1.  wenn die Differenz 30 Prozent nicht überschreitet, wird die Förderung auf der Grundlage der bei Vor-Ort-Kontrollen im Anschluss an die Durchführung ermittelten Fläche berechnet,
 
 
-3.  beträgt die Differenz mehr als 50 Prozent, wird für das betreffende Vorhaben keine Unterstützung gewährt.
+2.  wenn die Differenz mehr als 30 Prozent, jedoch höchstens 50 Prozent beträgt, wird die Förderung auf der Grundlage der bei Vor-Ort-Kontrollen im Anschluss an die Durchführung ermittelten Fläche berechnet und um die festgestellte Differenz gekürzt,
+
+
+3.  beträgt die Differenz mehr als 50 Prozent, wird für das betreffende Vorhaben keine Förderung gewährt.
 
 
 
@@ -513,14 +594,14 @@ Die Höhe der Unterstützung wird auf der Grundlage der Differenz zwischen der F
 
 ### § 31 Verwaltungssanktionen bei Verhinderung von Kontrollen vor Ort und bei Verstoß gegen sonstige Pflichten
 
-(1) Die zuständige Stelle lehnt einen Antrag auf Förderung ab oder hebt den Bewilligungsbescheid ganz oder teilweise auf, soweit der oder die Begünstigte die Durchführung einer Kontrolle vor Ort verhindert und dadurch eine Kontrolle nicht möglich ist.
+(1) Die zuständige Stelle hat einen Antrag auf Förderung abzulehnen oder den Bewilligungsbescheid ganz oder teilweise aufzuheben, sofern der oder die Begünstigte die Durchführung einer Kontrolle vor Ort verhindert und dadurch eine Kontrolle nicht möglich ist.
 
-(2) Die zuständige Stelle kann jeweils einen Antrag einer Förderung ganz oder teilweise ablehnen oder den Bewilligungsbescheid ganz oder teilweise aufheben, sofern die oder der Begünstigte, gegen andere nach dieser Verordnung oder unionsrechtlich geregelte und jeweils im Zusammenhang mit der Genehmigung stehende Duldungs-, Mitteilungs- oder Mitwirkungspflichten verstößt.
+(2) Die zuständige Stelle kann jeweils einen Antrag einer Förderung ganz oder teilweise ablehnen oder den Bewilligungsbescheid ganz oder teilweise aufheben, sofern die oder der Begünstigte, gegen andere nach dieser Verordnung oder unionsrechtlich geregelte und jeweils im Zusammenhang mit der Genehmigung stehende Auflagen oder Verpflichtungen verstößt.
 
 
 ### § 32 Verzicht auf Sanktionen
 
-(1) Auf eine Sanktion wird verzichtet, wenn
+(1) Auf eine Sanktion ist zu verzichten, wenn
 
 1.  der Verstoß der oder des Begünstigten gegen eine Auflage oder Verpflichtung auf einen Fehler der zuständigen Stelle oder einer anderen Behörde zurückzuführen ist und wenn der Fehler für die oder den Begünstigten nach vernünftiger Einschätzung nicht erkennbar war,
 
@@ -542,7 +623,7 @@ Die Höhe der Unterstützung wird auf der Grundlage der Differenz zwischen der F
 
 ### § 34 Rückforderung zu Unrecht gezahlter Beträge
 
-(1) Bei zu Unrecht gezahlten Beträgen ist die begünstigte Person zur Rückzahlung der betreffenden Beträge, gegebenenfalls zuzüglich Zinsen, verpflichtet.
+(1) Bei zu Unrecht gezahlten Beträgen ist die begünstigte Person zur Rückzahlung der betreffenden Beträge verpflichtet.
 
 (2) Die Verpflichtung zur Rückzahlung gemäß Absatz 1 gilt nicht, wenn die Zahlung auf einen Irrtum der Bewilligungsstelle zurückzuführen ist, der von der begünstigten Person nach vernünftiger Einschätzung nicht erkannt werden konnte.
 

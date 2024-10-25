@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 1991, 2100
 
 Neugefasst durch
-:   Bek. v. 7.3.2018 I 366
+:   Bek. v. 7.3.2018 I 366;
+
+Änderung durch
+:   Art. 1 V v. 16.10.2024 I Nr. 315 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Begriffsbestimmung und Anwendungsbereich
@@ -373,4 +376,7 @@ Für den vorgenannten Zweck dürfen außer den in § 2 Absatz 2 Nummer 1 und Abs
 
 
 Extraktionslösungsmittel dürfen auch keine toxikologisch bedenklichen Mengen anderer Stoffe enthalten. In einem Kilogramm Ethylmethylketon darf der Gehalt an n-Hexan nicht mehr als 50 Milligramm betragen.
+
+
+## Anlage 5 (weggefallen)
 

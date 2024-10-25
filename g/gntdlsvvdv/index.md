@@ -1029,7 +1029,8 @@ Die Gesamtmindestpunktzahl ermittelt sich aus der Summe der Mindestpunktzahlen f
 
 (1) Die oder der Ausbildungsverantwortliche erstellt für die Praktika I bis IV jeweils eine Praktikumsbewertung über die Leistungen und den Befähigungsstand der oder des Studierenden. Die Ausbilderinnen und Ausbilder für die Teilabschnitte sind ins Benehmen zu setzen. Die Praktikumsbewertung soll insbesondere auf das Ergebnis selbständiger Bearbeitung von berufspraktischen Aufgaben am Arbeitsplatz gestützt werden. Der Entwurf der Bewertung der Teilabschnitte wird durch die Ausbildungsverantwortliche oder den Ausbildungsverantwortlichen oder die Ausbilderin oder den Ausbilder der oder dem Studierenden eröffnet und mit dieser oder diesem erörtert. Die oder der Studierende kann schriftlich oder elektronisch Stellung nehmen.
 
-(2) Für die Bewertung können Teilabschnitte je nach der Bedeutung, die sie für die zu erwerbende Befähigung haben, zusammengefasst werden Die Praktikumsbewertung wird der oder dem Studierenden schriftlich oder elektronisch mitgeteilt. Studienabschnitt, Art des Nachweises, Rangpunkte und Note sind zu bezeichnen.
+(2) Für die Bewertung können Teilabschnitte je nach der Bedeutung, die sie für die zu erwerbende Befähigung haben, zusammengefasst
+werden. Die              Praktikumsbewertung wird der oder dem Studierenden schriftlich oder elektronisch mitgeteilt. Studienabschnitt, Art des Nachweises, Rangpunkte und Note sind zu bezeichnen.
 
 (3) Zum Ende des Studiums stellt das Prüfungsamt des Fachbereichs Landwirtschaftliche Sozialversicherung der oder dem Studierenden ein Zeugnis in schriftlicher oder elektronischer Form aus, in dem die Praxisbewertungen mit den Rangpunkten und Noten aufgeführt werden.
 

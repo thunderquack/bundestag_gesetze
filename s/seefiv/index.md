@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1989, 1485
 
 Zuletzt geändert durch
-:   Art. 1 V v. 1.4.2019 I 434
-
-Änderung durch
-:   Art. 1 V v. 16.10.2024 I Nr. 311 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 16.10.2024 I Nr. 311
 
 
 ## Eingangsformel

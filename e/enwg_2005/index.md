@@ -189,7 +189,7 @@ Im Sinne dieses Gesetzes bedeutet
     natürliche oder juristische Personen oder rechtlich unselbständige Organisationseinheiten eines Energieversorgungsunternehmens, die die Aufgabe der Speicherung von Wasserstoff wahrnehmen und für den Betrieb einer Wasserstoffspeicheranlage verantwortlich sind,
 
 
-10d Betreiber von Wasserstofftransportnetzen
+10d. Betreiber von Wasserstofftransportnetzen
 
     natürliche oder juristische Personen, die Leitungen zum Wasserstofftransport betreiben,
 

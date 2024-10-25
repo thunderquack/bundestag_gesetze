@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 14.12.2023 I Nr. 370
 
+Änderung durch
+:   Art. 1 V v. 21.10.2024 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -29,11 +32,18 @@ Auf Grund des § 37 Nummer 1 und 2 Buchstabe a bis h, j und k des Implantateregi
 
 ### § 1 Brustimplantate
 
-(1) Für Brustimplantate haben die verantwortlichen Gesundheitseinrichtungen ihre Pflichten nach den §§ 16, 17 Absatz 1 und 3, §§ 24 und 25 des Implantateregistergesetzes ab dem 1. Juli 2024 zu erfüllen. Bis zum 30. Juni 2024 finden die §§ 16, 17 Absatz 1 und 3, §§ 24 und 25 des Implantateregistergesetzes sowie die §§ 15 bis 17 und 22 für freiwillig teilnehmende verantwortliche Gesundheitseinrichtungen Anwendung, soweit bei ihnen die technischen und organisatorischen Voraussetzungen für die Meldungen nach den §§ 16 und 17 Absatz 1 und 3 des Implantateregistergesetzes vorliegen.
+(1) Für Brustimplantate haben die verantwortlichen Gesundheitseinrichtungen ihre Pflichten nach den §§ 16, 17 Absatz 1 und 3, §§ 24 und 25 des Implantateregistergesetzes bei implantatbezogenen Maßnahmen, bei denen die Aufnahme der Patientin oder des Patienten ab dem 1. Juli 2024 erfolgt, zu erfüllen. Bei implantatbezogenen Maßnahmen, bei denen die Aufnahme der Patientin oder des Patienten bis zum 30. Juni 2024 erfolgt ist, finden die §§ 16, 17 Absatz 1 und 3, §§ 24 und 25 des Implantateregistergesetzes sowie die §§ 15 bis 17 und 22 für freiwillig teilnehmende verantwortliche Gesundheitseinrichtungen Anwendung, soweit bei ihnen die technischen und organisatorischen Voraussetzungen für die Meldungen nach den §§ 16 und 17 Absatz 1 und 3 des Implantateregistergesetzes vorliegen.
 
 (2) Für Brustimplantate haben die Produktverantwortlichen ihre Pflichten nach § 15 des Implantateregistergesetzes ab dem 1. Juli 2023 zu erfüllen.
 
 (3) Nicht als Brustimplantate erfasst werden azelluläre dermale Matrices und chirurgische Netze.
+
+
+### § 1a Endoprothesen an Hüfte und Knie sowie Aortenklappen-Implantate
+
+(1) Für Endoprothesen an Hüfte und Knie sowie für Aortenklappen-Implantate haben die verantwortlichen Gesundheitseinrichtungen ihre Pflichten nach den §§ 16, 17 Absatz 1 und 3, §§ 24 und 25 des Implantateregistergesetzes bei implantatbezogenen Maßnahmen, bei denen die Aufnahme der Patientin oder des Patienten ab dem 1. Januar 2025 erfolgt, zu erfüllen. Bei implantatbezogenen Maßnahmen, bei denen die Aufnahme der Patientin oder des Patienten bis zum 31. Dezember 2024 erfolgt, finden die §§ 16, 17 Absatz 1 und 3, §§ 24 und 25 des Implantateregistergesetzes sowie die §§ 15 bis 17 und 22 für freiwillig teilnehmende verantwortliche Gesundheitseinrichtungen Anwendung, soweit bei ihnen die technischen und organisatorischen Voraussetzungen für die Meldungen nach den §§ 16 und 17 Absatz 1 und 3 des Implantateregistergesetzes vorliegen.
+
+(2) Für Endoprothesen an Hüfte und Knie sowie für Aortenklappen-Implantate haben die Produktverantwortlichen ihre Pflichten nach § 15 des Implantateregistergesetzes ab dem 1. Oktober 2024 zu erfüllen.
 
 
 ### § 2 Verpflichtungen der Kostenträger
@@ -544,7 +554,33 @@ I.  Angaben für alle Implantattypen
 
 
 
-II. Besondere Angaben für Brustimplantate
+II. Besondere Angaben für Hüftendoprothesen
+
+    Angaben zu Hüftkomponenten:
+
+    1.  Art der Komponente (Pfanne, Kopf, Schaft, Oberflächenersatz an Kopf oder Pfanne),
+
+
+    2.  Typ, Design, Seite, Dimensionen, Fixationsverfahren, Materialien und Beschaffenheit, besondere Herstellungsverfahren
+
+
+
+
+
+III. Besondere Angaben für Knieendoprothesen
+
+    Angaben zu Kniekomponenten:
+
+    1.  Art der Komponente (Tibia-, Femur-, Patellakomponente)
+
+
+    2.  Typ, Design, Seite, Dimensionen, Fixationsverfahren, Materialien und Beschaffenheit, Stabilität, Kongruenz und Flexion, besondere Herstellungsverfahren
+
+
+
+
+
+IV. Besondere Angaben für Brustimplantate
 
     1.  Art (Standard, Expander)
 
@@ -562,6 +598,26 @@ II. Besondere Angaben für Brustimplantate
 
 
     6.  technische Ausstattung, zum Beispiel Injektionssystem/Port, Chip, Ventiltyp, Nahtlaschen
+
+
+
+
+
+V.  Besondere Angaben für Aortenklappen-Implantate
+
+    1.  Art (chirurgisch, mechanisch, biologisch, TAVI); bei biologischen Prothesen zusätzlich Auslieferungszustand
+
+
+    2.  Prothesendurchmesser sowie Angaben zum Aortenanulus und zur Funktionshöhe der Segel
+
+
+    3.  Material
+
+
+    4.  Aufbewahrungsmedium, Verfahren zur Antikalzifizierung und Sterilisierung
+
+
+    5.  Vorgaben bezüglich Patientenkollektiv, Zugang, Vorschriften bei Implantation
 
 
 
@@ -631,7 +687,7 @@ I.  Allgemeine Angaben
         c)  Lokalisation
 
 
-        d)  Zugang
+        d)  OP-technische Aspekte wie Zugang und Technik
 
 
         e)  Art der implantatbezogenen Maßnahme nach § 2 Nummer 4 des Implantateregistergesetzes
@@ -658,10 +714,13 @@ I.  Allgemeine Angaben
         l)  Kodes aus dem Operationen- und Prozedurenschlüssel, die der implantatbezogenen Maßnahme zugeordnet worden sind, unter Angabe der Version einschließlich möglicher Zusatzkennzeichen
 
 
+        m)  intra- und postoperative Komplikationen
 
 
 
-    5.  Angaben zu Vorbehandlungen, die in direktem Zusammenhang mit dem durchgeführten Eingriff stehen
+
+
+    5.  Angaben zu Vorbefunden, Vorbehandlungen und Vorerkrankungen, die in direktem Zusammenhang mit dem durchgeführten Eingriff stehen
 
 
     6.  Einzelangaben zu den Implantaten
@@ -741,6 +800,20 @@ II. Besondere Angaben für Brustimplantate
 
 
     4.  Bei Explantation gegebenenfalls Art der Weiterbehandlung
+
+
+
+
+
+III. Besondere Angaben für Aortenklappen-Implantate
+
+    1.  prä- und postoperative hämodynamische und anatomische Parameter (z. B. Druckgradient über der Aortenklappe, Blutrückfluss, Öffnungsfläche)
+
+
+    2.  Angaben zum postoperativen Gesundheitszustand einschließlich Medikation
+
+
+    3.  Lage der Aortenklappe nach Implantation
 
 
 

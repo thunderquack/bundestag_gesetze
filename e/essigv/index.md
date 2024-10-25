@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1972, 732
 
 Neugefasst durch
-:   Bek. v. 26.01.2023 I Nr. 31
+:   Bek. v. 26.01.2023 I Nr. 31;
+
+Änderung durch
+:   Art. 3 V v. 16.10.2024 I Nr. 315 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1

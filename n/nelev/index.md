@@ -110,7 +110,7 @@ Satz 1 gilt entsprechend für Erzeugungsanlagen des Typs B, die eine kumulierte 
 
 ## § 4 Register nach § 49d des Energiewirtschaftsgesetzes
 
-(1) Das Register nach § 49d des Energiewirtschaftsgesetzes stellt eine Datenbank im Sinne des § 49 Absatz 4 Satz 1 Nummer 9 des Energiewirtschaftsgesetzes dar und wird als über das Internet zugängliches elektronisches Verzeichnis sowohl für Einheiten- als auch für Komponentenzertifikate errichtet. Der Betreiber des Registers ist nach Maßgabe von § 49d des Energiewirtschaftsgesetzes und den nachfolgenden Bestim-mungen der Absätze 2 bis 10 befugt, das Register zu errichten, zu erhalten, zu betreiben und weiterzuentwickeln.
+(1) Das Register nach § 49d des Energiewirtschaftsgesetzes stellt eine Datenbank im Sinne des § 49 Absatz 4 Satz 1 Nummer 9 des Energiewirtschaftsgesetzes dar und wird als über das Internet zugängliches elektronisches Verzeichnis sowohl für Einheiten- als auch für Komponentenzertifikate errichtet. Der Betreiber des Registers ist nach Maßgabe von § 49d des Energiewirtschaftsgesetzes und den nachfolgenden Bestimmungen der Absätze 2 bis 10 befugt, das Register zu errichten, zu erhalten, zu betreiben und weiterzuentwickeln.
 
 (2) Der Betreiber ist zu einer ordnungsgemäßen Registerführung verpflichtet. Er stellt dabei insbesondere auch durch fortlaufende Weiterentwicklung des Registers sicher, dass dieses jederzeit dem Stand der digitalen Technik und den allgemeinen Nutzungsgewohnheiten in Onlinesystemen entspricht.
 
