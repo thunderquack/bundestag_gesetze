@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 24 G v. 5.10.2021 I 4607
 
+Änderung durch
+:   Art. 3 G v. 22.10.2024 I Nr. 320 mWv 26.10.2024 noch nicht berücksichtigt
+
 
 ## Teil 1 - Allgemeine Vorschriften
 

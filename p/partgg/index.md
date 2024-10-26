@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 68 G v. 10.8.2021 I 3436
 
+Änderung durch
+:   Art. 11 G v. 22.10.2024 I Nr. 320 mWv 26.10.2024 noch nicht berücksichtigt
+
 
 ## § 1 Voraussetzungen der Partnerschaft; Anwendbarkeit der Vorschriften über die Gesellschaft bürgerlichen Rechts
 

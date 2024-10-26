@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 17.1.2024 I Nr. 12
 
+Änderung durch
+:   Art. 4 G v. 22.10.2024 I Nr. 320 mWv 26.10.2024 bzw. 1.1.2025 bzw. 1.5.2025 noch nicht berücksichtigt
+
 
 ## Erster Teil - Der Patentanwalt
 

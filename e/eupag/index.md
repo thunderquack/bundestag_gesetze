@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 10.3.2023 I Nr. 64
 
+Änderung durch
+:   Art.5 G v. 22.10.2024 I Nr. 320 mWv 26.10.2024 noch nicht berücksichtigt
+
 
 ## Teil 1 - Voraussetzungen für die Zulassung zur Patentanwaltschaft
 

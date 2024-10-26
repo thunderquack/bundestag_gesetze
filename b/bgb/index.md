@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 10.10.2024 I Nr. 306
 
+Änderung durch
+:   Art. 10 G v. 22.10.2024 I Nr. 320 mWv 26.10.2024 noch nicht berücksichtigt
+
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
 1.  Richtlinie 76/207/EWG des Rates vom 9. Februar 1976 zur Verwirklichung des Grundsatzes der Gleichbehandlung von Männern und Frauen hinsichtlich des Zugangs zur Beschäftigung, zur Berufsbildung und zum beruflichen Aufstieg sowie in Bezug auf die Arbeitsbedingungen (ABl. EG Nr. L 39 S. 40),

@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 20.12.2023 I Nr. 389
 
+Änderung durch
+:   Art. 9 G v. 22.10.2024 I Nr. 320 mWv 26.10.2024 noch nicht berücksichtigt
+
 
 ## Teil 1 - Richteramt in Bund und Ländern
 
