@@ -23,6 +23,9 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 4 Nr. 3 G v. 27.9.2021 I 4530 ist berücksichtigt
 
+Änderung durch
+:   Art. 9 G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
 
@@ -204,7 +207,7 @@ Im Sinne dieser Verordnung
 
 (1) Die Betriebe und Einrichtungen müssen ein funktionierendes Qualitätsmanagementsystem (QM-System) entsprechend Art und Umfang der durchgeführten Tätigkeiten betreiben. Das QM-System muss in den Fällen nach Absatz 2 die Gute Herstellungspraxis und in den Fällen nach Absatz 3 die gute fachliche Praxis beinhalten und die aktive Beteiligung der Leitung der Betriebe und Einrichtungen und des Personals der einzelnen betroffenen Bereiche vorsehen. Alle Bereiche, die mit der Erstellung, Pflege und Durchführung des QM-Systems befasst sind, sind angemessen mit kompetentem Personal sowie mit geeigneten und ausreichenden Räumlichkeiten und Ausrüstungen auszustatten. Das QM-System muss vollständig dokumentiert sein und auf seine Funktionstüchtigkeit kontrolliert werden.
 
-(2) Zur Auslegung der Grundsätze der Guten Herstellungspraxis gilt für Arzneimittel, Blutprodukte im Sinne von § 2 Nr. 3 des Transfusionsgesetzes und andere Blutbestandteile sowie für Produkte menschlicher Herkunft der Teil I des EU-GMP-Leitfadens. Zur Auslegung der Grundsätze der Guten Herstellungspraxis gilt für Arzneimittel für neuartige Therapien Teil IV des EU-GMP-Leitfadens. Zur Auslegung der Grundsätze der Guten Herstellungspraxis und der Guten Vertriebspraxis gilt für Wirkstoffe der Teil II des EU-GMP-Leitfadens. Zur Auslegung der Grundsätze und zur Risikobewertung einer angemessenen guten Herstellungspraxis für Hilfsstoffe sind die hierzu von der Europäischen Kommission nach Artikel 47 Absatz 5 der Richtlinie 2001/83/EG erlassenen Leitlinien zu beachten. Das Bundesministerium für Gesundheit macht die jeweils aktuelle Fassung der Leitlinien im Bundesanzeiger bekannt.
+(2) Zur Auslegung der Grundsätze der Guten Herstellungspraxis gilt für Arzneimittel, Blutprodukte im Sinne von § 2 Nr. 3 des Transfusionsgesetzes und andere Blutbestandteile sowie für Produkte menschlicher Herkunft der Teil I des EU-GMP-Leitfadens. Zur Auslegung der Grundsätze der Guten Herstellungspraxis gilt für Arzneimittel für neuartige Therapien Teil IV des EU-GMP-Leitfadens. Zur Auslegung der Grundsätze der Guten Herstellungspraxis und der Guten Vertriebspraxis gilt für Wirkstoffe der Teil II des EU-GMP-Leitfadens. Zur Auslegung der Grundsätze und zur Risikobewertung einer angemessenen guten Herstellungspraxis für Hilfsstoffe sind die hierzu von der Europäischen Kommission nach Artikel 47 Absatz 5 der Richtlinie 2001/83/EG erlassenen Leitlinien zu beachten. Das Bundesministerium für Gesundheit macht die jeweils aktuelle Fassung der Leitlinien im Bundesanzeiger bekannt. Die von den zuständigen Bundesoberbehörden nach § 14 Absatz 6 des Arzneimittelgesetzes veröffentlichten Empfehlungen werden bei der Auslegung der Grundsätze und Leitlinien der Guten Herstellungspraxis nach Satz 2 berücksichtigt.
 
 (3) Absatz 2 findet keine Anwendung auf Entnahme- und Gewebeeinrichtungen sowie Gewebespenderlabore, die ihre Tätigkeiten nach den Standards der guten fachlichen Praxis ausüben.
 

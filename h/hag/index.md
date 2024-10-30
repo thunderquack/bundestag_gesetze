@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6i G v. 16.9.2022 I 1454
 
+Änderung durch
+:   Art. 51 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Allgemeine Vorschriften
 

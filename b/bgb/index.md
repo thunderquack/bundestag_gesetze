@@ -22,7 +22,10 @@ Zuletzt geändert durch
 :   Art. 2 G v. 10.10.2024 I Nr. 306
 
 Änderung durch
-:   Art. 10 G v. 22.10.2024 I Nr. 320 mWv 26.10.2024 noch nicht berücksichtigt
+:   Art. 10 G v. 22.10.2024 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 14 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
@@ -9559,7 +9562,7 @@ Die in § 651i Absatz 3 bezeichneten Ansprüche des Reisenden verjähren in zwei
 1.  der Verordnung (EG) Nr. 261/2004 des Europäischen Parlaments und des Rates vom 11. Februar 2004 über eine gemeinsame Regelung für Ausgleichs- und Unterstützungsleistungen für Fluggäste im Fall der Nichtbeförderung und bei Annullierung oder großer Verspätung von Flügen und zur Aufhebung der Verordnung (EWG) Nr. 295/91 (ABl. L 46 vom 17.2.2004, S. 1),
 
 
-2.  der Verordnung (EG) Nr. 1371/2007 des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über die Rechte und Pflichten der Fahrgäste im Eisenbahnverkehr (ABl. L 315 vom 3.12.2007, S. 14),
+2.  der Verordnung (EU) 2021/782 des Europäischen Parlaments und des Rates vom 29. April 2021 über die Rechte und Pflichten der Fahrgäste im Eisenbahnverkehr (ABl. L 172 vom 17.5.2021, S. 1),
 
 
 3.  der Verordnung (EG) Nr. 392/2009 des Europäischen Parlaments und des Rates vom 23. April 2009 über die Unfallhaftung von Beförderern von Reisenden auf See (ABl. L 131 vom 28.5.2009, S. 24),

@@ -21,6 +21,11 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 19.6.2024 I Nr. 206
 
+Änderung durch
+:   Art. 4 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt
+
+Stand: Mittelbare Änderung gem. Art. 1 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt
+Stand: Mittelbare Änderung gem. Art. 3 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt
 
 ## Erster Abschnitt - Passvorschriften
 

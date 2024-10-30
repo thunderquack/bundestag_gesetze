@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 G v. 11.12.2023 I Nr. 354
 
+Änderung durch
+:   Art. 19 G v. 23.10.2024 I Nr. 323 mWv 1.11.2024 noch nicht berücksichtigt
+
 
 ## Übersicht
 

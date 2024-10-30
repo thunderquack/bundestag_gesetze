@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 22.3.2024 I Nr. 105
 
+Änderung durch
+:   Art. 6a G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -1075,10 +1078,13 @@ Die in diesem Gesetz den Landesverbänden der Krankenkassen zugewiesenen Aufgabe
         jeweils umgerechnet auf Vollkräfte, gegliedert nach dem Kennzeichen des Standorts nach § 293 Absatz 6 des Fünften Buches Sozialgesetzbuch und nach den Fachabteilungen des Standorts; für die in einer Vereinbarung nach § 137i Absatz 1 des Fünften Buches Sozialgesetzbuch oder in einer Rechtsverordnung nach § 137i Absatz 3 des Fünften Buches Sozialgesetzbuch festgelegten pflegesensitiven Bereiche sind die Anzahl des insgesamt beschäftigten Pflegepersonals, die Anzahl des insgesamt in der unmittelbaren Patientenversorgung auf bettenführenden Stationen beschäftigten Pflegepersonals, die Anzahl der insgesamt beschäftigten Hebammen, die Anzahl der insgesamt im Kreißsaal beschäftigten Hebammen und die Anzahl der insgesamt in der unmittelbaren Patientenversorgung auf bettenführenden Stationen beschäftigten Hebammen zusätzlich jeweils gegliedert nach den jeweiligen pflegesensitiven Bereichen zu übermitteln,
 
 
-    f)  die Anzahl des insgesamt beschäftigten ärztlichen Personals und die Anzahl des insgesamt in der unmittelbaren Patientenversorgung beschäftigten ärztlichen Personals, jeweils einschließlich der Facharztbezeichnung und wenn vorhanden, der Schwerpunktbezeichnung, und bei ärztlichem Personal in Weiterbildung jeweils unter Angabe des Weiterbildungsgebietes, umgerechnet jeweils auf Vollkräfte, gegliedert nach dem Kennzeichen des Standorts nach § 293 Absatz 6 des Fünften Buches Sozialgesetzbuch und nach den Fachabteilungen des Standorts,
+    f)  die Anzahl des insgesamt beschäftigten ärztlichen Personals und die Anzahl des insgesamt in der unmittelbaren Patientenversorgung beschäftigten ärztlichen Personals, jeweils einschließlich der Facharztbezeichnung und wenn vorhanden, der Schwerpunktbezeichnung, und bei ärztlichem Personal in Weiterbildung jeweils unter Angabe des Weiterbildungsgebietes, umgerechnet jeweils auf Vollkräfte, gegliedert nach dem Kennzeichen des Standorts nach § 293 Absatz 6 des Fünften Buches Sozialgesetzbuch, nach den Leistungsgruppen nach Anlage 1 zum Fünften Buch Sozialgesetzbuch und nach den Fachabteilungen des Standorts,
 
 
-    g)  die in Anlage 1 zum Fünften Buch Sozialgesetzbuch genannten Leistungsgruppen, denen die vom Krankenhaus erbrachten Behandlungsfälle zuzuordnen sind, jeweils gegliedert nach dem Kennzeichen des Standorts nach § 293 Absatz 6 des Fünften Buches Sozialgesetzbuch; im Fall der von § 135d Absatz 3 Satz 3 des Fünften Buches Sozialgesetzbuch betroffenen Krankenhäuser tritt bis zum 31. Dezember 2025 an die Stelle der in Anlage 1 zum Fünften Buch Sozialgesetzbuch genannten Leistungsgruppen die von der für die Krankenhausplanung zuständigen Landesbehörde zugewiesene Leistungsgruppe;
+    g)  die in Anlage 1 zum Fünften Buch Sozialgesetzbuch genannten Leistungsgruppen, denen die vom Krankenhaus erbrachten Behandlungsfälle zuzuordnen sind, jeweils gegliedert nach dem Kennzeichen des Standorts nach § 293 Absatz 6 des Fünften Buches Sozialgesetzbuch; im Fall der von § 135d Absatz 3 Satz 3 des Fünften Buches Sozialgesetzbuch betroffenen Krankenhäuser tritt bis zum 31. Dezember 2025 an die Stelle der in Anlage 1 zum Fünften Buch Sozialgesetzbuch genannten Leistungsgruppen die von der für die Krankenhausplanung zuständigen Landesbehörde zugewiesene Leistungsgruppe,
+
+
+    h)  Informationen über die Teilnahme an dem vom Gemeinsamen Bundesausschuss gemäß § 136c Absatz 4 Satz 1 des Fünften Buches Sozialgesetzbuch beschlossenen gestuften System von Notfallstrukturen in Krankenhäusern, gegliedert nach dem Kennzeichen des Standorts nach § 293 Absatz 6 des Fünften Buches Sozialgesetzbuch;
 
 
 
@@ -1126,10 +1132,10 @@ Die in diesem Gesetz den Landesverbänden der Krankenkassen zugewiesenen Aufgabe
 2.  landesbezogenen Daten nach Absatz 2 Nr. 1 Buchstabe c und d und Nr. 2 Buchstabe g und h zur Vereinbarung des Basisfallwerts nach § 10 Abs. 1 an die Vertragsparteien auf der Landesebene,
 
 
-3.  landesbezogenen Daten nach Absatz 2 Nummer 1 Buchstabe a bis c und Nummer 2 Buchstabe b, d bis g und i für Zwecke der Krankenhausplanung sowie zusätzlich nach Absatz 2 Nummer 2 Buchstabe h für Zwecke der Investitionsförderung, sofern das Land hierfür Investitionspauschalen nach § 10 des Krankenhausfinanzierungsgesetzes verwendet oder dies beabsichtigt, und, sofern ein gemeinsames Landesgremium nach § 90a des Fünften Buches Sozialgesetzbuch besteht, für Empfehlungen zu sektorenübergreifenden Versorgungsfragen an die zuständigen Landesbehörden; die Datennutzung für Zwecke der Empfehlungen zu sektorenübergreifenden Versorgungsfragen, insbesondere die Wahrung der Betriebsgeheimnisse der Krankenhäuser, regeln die Länder unter Einbeziehung des Datenschutzbeauftragten des jeweiligen Landes in einer Verordnung,
+3.  landesbezogenen Daten nach Absatz 2 Nummer 1 Buchstabe a bis c, h und Nummer 2 Buchstabe b, d bis g und i für Zwecke der Krankenhausplanung sowie zusätzlich nach Absatz 2 Nummer 2 Buchstabe h für Zwecke der Investitionsförderung, sofern das Land hierfür Investitionspauschalen nach § 10 des Krankenhausfinanzierungsgesetzes verwendet oder dies beabsichtigt, und, sofern ein gemeinsames Landesgremium nach § 90a des Fünften Buches Sozialgesetzbuch besteht, für Empfehlungen zu sektorenübergreifenden Versorgungsfragen an die zuständigen Landesbehörden; die Datennutzung für Zwecke der Empfehlungen zu sektorenübergreifenden Versorgungsfragen, insbesondere die Wahrung der Betriebsgeheimnisse der Krankenhäuser, regeln die Länder unter Einbeziehung des Datenschutzbeauftragten des jeweiligen Landes in einer Verordnung,
 
 
-4.  Daten nach Absatz 2 Nummer 1 Buchstabe a, c, d und g und Nummer 2 Buchstabe b und d bis i für Zwecke der amtlichen Krankenhausstatistik an das Statistische Bundesamt; dieses kann landesbezogene Daten an die Statistischen Landesämter übermitteln.
+4.  Daten nach Absatz 2 Nummer 1 Buchstabe a, c, d, g und h und Nummer 2 Buchstabe b und d bis i für Zwecke der amtlichen Krankenhausstatistik an das Statistische Bundesamt; dieses kann landesbezogene Daten an die Statistischen Landesämter übermitteln.
 
 
 
@@ -1137,7 +1143,7 @@ Nach Abschluss der Plausibilitätsprüfung darf die Herstellung eines Personenbe
 
 (3a) Das Institut nach § 137a des Fünften Buches Sozialgesetzbuch oder eine andere vom Gemeinsamen Bundesausschuss nach § 91 des Fünften Buches Sozialgesetzbuch beauftragte Stelle kann ausgewählte, gemäß Absatz 1 übermittelte Leistungsdaten nach Absatz 2 Nummer 2 Buchstabe a bis f anfordern, soweit diese nach Art und Umfang notwendig und geeignet sind, um Maßnahmen der Qualitätssicherung nach § 137a Absatz 3 des Fünften Buches Sozialgesetzbuch durchführen zu können. Das Institut oder eine andere nach Satz 1 beauftragte Stelle kann entsprechende Daten auch für Zwecke der einrichtungsübergreifenden Qualitätssicherung auf Landesebene anfordern und diese an die jeweils zuständige Institution auf Landesebene übermitteln. Die Datenstelle übermittelt die Daten, soweit die Notwendigkeit nach Satz 1 vom Institut oder einer anderen nach Satz 1 beauftragten Stelle glaubhaft dargelegt wurde. Absatz 3 Satz 9 gilt entsprechend.
 
-(3b) Für die Überprüfung nach § 24 des Krankenhausfinanzierungsgesetzes sowie für ergänzende Analysen zum Zweck der Weiterentwicklung der Entgeltsysteme übermittelt das Krankenhaus die Daten gemäß Absatz 2 Nummer 1 Buchstabe a und Nummer 2 an die vom Institut für das Entgeltsystem im Krankenhaus geführte Datenstelle auf Bundesebene auf maschinenlesbaren Datenträgern zusätzlich zur Übermittlung nach Absatz 1
+(3b) Für die Überprüfung nach § 24 des Krankenhausfinanzierungsgesetzes sowie für ergänzende Analysen zum Zweck der Weiterentwicklung der Entgeltsysteme übermittelt das Krankenhaus die Daten gemäß Absatz 2 Nummer 1 Buchstabe a, h und Nummer 2 an die vom Institut für das Entgeltsystem im Krankenhaus geführte Datenstelle auf Bundesebene auf maschinenlesbaren Datenträgern zusätzlich zur Übermittlung nach Absatz 1
 
 1.  bis zum 15. Juni jeden Jahres für Patientinnen und Patienten, die zwischen dem 1. Januar und dem 31. Mai des laufenden Kalenderjahres nach voll- oder teilstationärer Behandlung aus dem Krankenhaus entlassen worden sind,
 
@@ -1161,7 +1167,7 @@ Die Datenstelle legt das Nähere zur Datenübermittlung fest; die Festlegung der
 
 (6) Kommt eine Vereinbarung nach Absatz 5 ganz oder teilweise nicht zustande, entscheidet auf Antrag einer Vertragspartei die Schiedsstelle nach § 18a Abs. 6 des Krankenhausfinanzierungsgesetzes.
 
-(7) Für die Veröffentlichung im Transparenzverzeichnis nach § 135d des Fünften Buches Sozialgesetzbuch übermittelt das Krankenhaus die in Absatz 2 Nummer 1 Buchstabe a und f genannten Daten an die vom Institut für das Entgeltsystem im Krankenhaus geführte Datenstelle auf maschinenlesbaren Datenträgern zusätzlich zur Übermittlung nach Absatz 1 für jedes Kalenderquartal jeweils bis zum 15. des folgenden Monats, erstmals bis zum 15. Januar 2024. Absatz 3b Satz 2 bis 5 gilt für die Übermittlung der Daten nach Satz 1 entsprechend. Die Leitung des Krankenhauses ist verpflichtet, für die ordnungsgemäße und rechtzeitige Übermittlung der Daten nach Satz 1 zu sorgen. Das Krankenhaus hat dem Institut für das Entgeltsystem im Krankenhaus und dem Institut für Qualitätssicherung und Transparenz im Gesundheitswesen die aufgrund einer nicht ordnungsgemäßen oder nicht rechtzeitigen Übermittlung der Daten nach Satz 1 entstehenden Mehraufwendungen zu erstatten, sofern das Krankenhaus die nicht vollständige oder nicht rechtzeitige Übermittlung zu vertreten hat.
+(7) Für die Veröffentlichung im Transparenzverzeichnis nach § 135d des Fünften Buches Sozialgesetzbuch übermittelt das Krankenhaus die in Absatz 2 Nummer 1 Buchstabe a und f genannten Daten an die vom Institut für das Entgeltsystem im Krankenhaus geführte Datenstelle auf maschinenlesbaren Datenträgern zusätzlich zur Übermittlung nach Absatz 1 für jedes Kalenderquartal jeweils bis zum 15. des folgenden Monats, erstmals bis zum 15. Januar 2024. Absatz 3b Satz 2 bis 5 gilt für die Übermittlung der Daten nach Satz 1 entsprechend. Die Leitung des Krankenhauses ist verpflichtet, für die ordnungsgemäße und rechtzeitige Übermittlung der Daten nach Satz 1 zu sorgen. Absatz 5 Satz 2 ist mit der Maßgabe entsprechend anzuwenden, dass der Abschlag nicht durch die Datenstelle festzulegen ist, sondern pauschal 50 000 Euro je Kalenderquartal und Standort eines Krankenhauses beträgt. Absatz 5 Satz 7 und 8 gilt für den Abschlag nach Satz 4 entsprechend.
 
 
 ### Anlage 1 Aufstellung der Entgelte und Budgetermittlung (AEB) nach § 11 Abs. 4 des Krankenhausentgeltgesetzes (KHEntgG)

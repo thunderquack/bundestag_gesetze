@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 V v. 18.3.2024 I Nr. 100
 
+Änderung durch
+:   Art. 72 Abs. 4 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## § 1 Anwendungsbereich
 

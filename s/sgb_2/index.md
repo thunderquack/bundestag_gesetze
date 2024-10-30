@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 8.5.2024 I Nr. 152
 
+Änderung durch
+:   Art. 59 G v. 23.10.2024 I Nr. 323 mWv 1.1.2027 noch nicht berücksichtigt
+
 
 ## Kapitel 1 - Fördern und Fordern
 

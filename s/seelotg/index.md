@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 3.6.2021 I 1471
 
+Änderung durch
+:   Art. 72 Abs. 6 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
 

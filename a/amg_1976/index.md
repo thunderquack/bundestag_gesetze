@@ -21,6 +21,12 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 7 G v. 27.3.2024 I Nr. 109
 
+Änderung durch
+:   Art. 1 G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Zweck des Gesetzes und Begriffsbestimmungen, Anwendungsbereich
 
@@ -158,6 +164,8 @@ Stoffe im Sinne dieses Gesetzes sind
 (24) Sponsor ist eine Person, ein Unternehmen, eine Einrichtung oder eine Organisation im Sinne des Artikels 2 Absatz 2 Nummer 14 der Verordnung (EU) Nr. 536/2014.
 
 (25) Prüfer ist eine Person im Sinne des Artikels 2 Absatz 2 Nummer 15 der Verordnung (EU) Nr. 536/2014. Hauptprüfer ist eine Person im Sinne des Artikels 2 Absatz 2 Nummer 16 der Verordnung (EU) Nr. 536/2014.
+
+(25a) Ethik-Kommissionen sind die nach § 41a Absatz 2 bis 5 registrierten Ethik-Kommissionen der Länder und die Spezialisierte Ethik-Kommission für besondere Verfahren nach § 41c.
 
 (26) Homöopathisches Arzneimittel ist ein Arzneimittel, das nach einem im Europäischen Arzneibuch oder, in Ermangelung dessen, nach einem in den offiziell gebräuchlichen Pharmakopöen der Mitgliedstaaten der Europäischen Union beschriebenen homöopathischen Zubereitungsverfahren hergestellt worden ist. Ein homöopathisches Arzneimittel kann auch mehrere Wirkstoffe enthalten.
 
@@ -331,6 +339,11 @@ Die Entscheidung über den Antrag auf Zustimmung muss innerhalb von drei Monaten
 Über die Genehmigungspflicht nach Satz 1 entscheidet die zuständige Bundesoberbehörde.
 
 (11) Über Anfragen zur Genehmigungspflicht eines Arzneimittels für neuartige Therapien entscheidet die zuständige Behörde im Benehmen mit der zuständigen Bundesoberbehörde. § 21 Absatz 4 gilt entsprechend.
+
+
+### § 4c Indikationsbezogenes Register für Arzneimittel für neuartige Therapien
+
+Das Bundesministerium für Gesundheit hat bis zum 31. Dezember 2027 einen Bericht mit einem Konzept zur Schaffung eines indikationsbezogenen Registers für Arzneimittel für neuartige Therapien nach § 4 Absatz 9 des Arzneimittelgesetzes im Geschäftsbereich des Bundesministeriums für Gesundheit zu erarbeiten.
 
 
 ## Zweiter Abschnitt - Anforderungen an die Arzneimittel
@@ -557,6 +570,8 @@ An die Stelle der Angabe nach Absatz 1 Satz 1 Nr. 3 tritt die Registrierungsnumm
 (1) Prüf- und Hilfspräparate für klinische Prüfungen müssen in deutscher Sprache gekennzeichnet sein.
 
 (2) Angaben, die zusätzlich in einer anderen Sprache wiedergegeben werden, müssen in beiden Sprachversionen inhaltsgleich sein.
+
+(3) Abweichend von Absatz 1 dürfen Prüf- und Hilfspräparate für klinische Prüfungen in englischer Sprache gekennzeichnet sein, wenn sie durch einen Prüfer, der Arzt oder, bei einer zahnmedizinischen Prüfung, Zahnarzt ist, oder durch ein Mitglied des Prüfungsteams, das Arzt oder, bei einer zahnmedizinischen Prüfung, Zahnarzt ist, unmittelbar an der Person, bei der die klinische Prüfung durchgeführt werden soll, angewendet werden.
 
 
 ### § 11 Packungsbeilage
@@ -921,7 +936,10 @@ gewerbs- oder berufsmäßig herstellt, bedarf einer Erlaubnis der zuständigen B
 2.  der Träger eines Krankenhauses, soweit er nach dem Gesetz über das Apothekenwesen Arzneimittel abgeben darf, oder für die Rekonstitution oder das Abpacken einschließlich der Kennzeichnung von Arzneimitteln, die zur klinischen Prüfung außerhalb des Anwendungsbereichs der Verordnung (EU) Nr. 536/2014 bestimmt sind, sofern dies dem Prüfplan entspricht,
 
 
-2a. die Apotheke für die in Artikel 61 Absatz 5 der Verordnung (EU) Nr. 536/2014 genannten Tätigkeiten,
+2a. die Apotheke für die in Artikel 61 Absatz 5 Buchstabe a und c der Verordnung (EU) Nr. 536/2014 genannten Tätigkeiten,
+
+
+2b. die Apotheke oder die nuklearmedizinische Einrichtung für die in Artikel 61 Absatz 5 Buchstabe b der Verordnung (EU) Nr. 536/2014 genannten Tätigkeiten,
 
 
 3.  (weggefallen)
@@ -1040,6 +1058,10 @@ handelt. Tätigkeiten nach Satz 2 Nummer 1 und 3 sind der zuständigen Behörde 
 die keiner eigenen Erlaubnis bedürfen, durchgeführt werden, wenn bei diesen hierfür geeignete Räume und Einrichtungen vorhanden sind und gewährleistet ist, dass die Herstellung und Prüfung nach dem Stand von Wissenschaft und Technik erfolgt und die sachkundige Person nach Absatz 1 Nummer 1 ihre Verantwortung wahrnehmen kann.
 
 (5) Bei Beanstandungen der vorgelegten Unterlagen ist dem Antragsteller Gelegenheit zu geben, Mängeln innerhalb einer angemessenen Frist abzuhelfen. Wird den Mängeln nicht abgeholfen, so ist die Erteilung der Erlaubnis zu versagen.
+
+(6) Für Arzneimittel für neuartige Therapien kann die zuständige Bundesoberbehörde Empfehlungen zur Auslegung der Grundsätze und Leitlinien der Guten Herstellungspraxis veröffentlichen. Das Gleiche gilt für Arzneimittel, die als individuelle Zubereitung für einen einzelnen Patienten hergestellt und unter der fachlichen Verantwortung eines Arztes zur antibakteriellen Therapie angewendet werden. Die Veröffentlichung der Empfehlungen nach Satz 2 erfolgt im Einvernehmen mit dem Paul-Ehrlich-Institut.
+
+(7) Die zuständige Bundesoberbehörde erstellt auf Antrag einer zuständigen Behörde eine Stellungnahme zur Auslegung der Grundsätze und Leitlinien der Guten Herstellungspraxis für die in Absatz 6 Satz 1 und 2 genannten Arzneimittel. Dem Antrag ist eine Begründung beizufügen. Die zuständige Bundesoberbehörde veröffentlicht die Stellungnahme nach Satz 1 auf ihrer Internetseite in einer Fassung, die keinen Rückschluss auf Betriebs- und Geschäftsgeheimnisse und personenbezogene Daten erlaubt.
 
 
 ### § 15 Sachkenntnis
@@ -1905,7 +1927,7 @@ innerhalb von zwölf Monaten nach ihrer Einführung der zuständigen Bundesoberb
 
 ### § 30 Rücknahme, Widerruf, Ruhen
 
-(1) Die Zulassung ist zurückzunehmen, wenn nachträglich bekannt wird, dass einer der Versagungsgründe des § 25 Absatz 2 Satz 1 Nummer 2, 3, 5, 5a oder 7 bei der Erteilung vorgelegen hat; sie ist zu widerrufen, wenn einer der Versagungsgründe des § 25 Absatz 2 Satz 1 Nummer 3, 5, 5a oder 7 nachträglich eingetreten ist. Die Zulassung ist ferner zurückzunehmen oder zu widerrufen, wenn
+(1) Die Zulassung ist zurückzunehmen, wenn nachträglich bekannt wird, dass einer der Versagungsgründe des § 25 Absatz 2 Satz 1 Nummer 2, 3, 5, 5a oder 6 bei der Erteilung vorgelegen hat; sie ist zu widerrufen, wenn einer der Versagungsgründe des § 25 Absatz 2 Satz 1 Nummer 3, 5, 5a oder 6 nachträglich eingetreten ist. Die Zulassung ist ferner zurückzunehmen oder zu widerrufen, wenn
 
 1.  sich herausstellt, dass dem Arzneimittel die therapeutische Wirksamkeit fehlt,
 
@@ -2341,11 +2363,11 @@ Der Nachweis der Verwendung über einen Zeitraum von 30 Jahren gemäß Satz 1 Nr
 
 (2) Der nach Artikel 5 Absatz 1 der Verordnung (EU) Nr. 536/2014 zu stellende Antrag auf Genehmigung einer klinischen Prüfung ist über das EU-Portal in deutscher oder englischer Sprache einzureichen. Die Unterlagen, die für die betroffene Person oder deren gesetzlichen Vertreter bestimmt sind, sind in deutscher Sprache einzureichen.
 
-(3) Der Antrag wird nach Artikel 5 Absatz 3 der Verordnung (EU) Nr. 536/2014 durch die zuständige Bundesoberbehörde validiert. Die nach dem Geschäftsverteilungsplan nach § 41b Absatz 2 zuständige Ethik-Kommission nimmt zu den Antragsunterlagen hinsichtlich der Voraussetzungen nach Artikel 6 Absatz 1 Buchstabe a, b und e der Verordnung (EU) Nr. 536/2014 sowie nach § 40a Satz 1 Nummer 4 und § 40b Absatz 4 Satz 3 Stellung. Für die Stellungnahme gilt die in der Verfahrensordnung nach § 41b Absatz 1 festgelegte Frist. § 41 Absatz 3 Satz 1 gilt entsprechend. Bei der Validierung des Antrags hinsichtlich der Voraussetzungen nach Artikel 7 der Verordnung (EU) Nr. 536/2014, auch in Verbindung mit Artikel 11 der Verordnung (EU) Nr. 536/2014, sowie nach § 40a Satz 1 Nummer 2, 3 und 5, Satz 2 und 3 und § 40b Absatz 2, 3 Satz 1, Absatz 4 Satz 1 und 9, Absatz 5 und 6 ist die Bundesoberbehörde an die Bewertung der nach dem Geschäftsverteilungsplan nach § 41b Absatz 2 zuständigen Ethik-Kommission gebunden.
+(3) Der Antrag wird nach Artikel 5 Absatz 3 der Verordnung (EU) Nr. 536/2014 durch die zuständige Bundesoberbehörde validiert. Die zuständige Ethik-Kommission nimmt zu den Antragsunterlagen hinsichtlich der Voraussetzungen nach Artikel 6 Absatz 1 Buchstabe a, b und e der Verordnung (EU) Nr. 536/2014 sowie nach § 40a Satz 1 Nummer 4 und § 40b Absatz 4 Satz 3 Stellung. Für die Stellungnahme gilt die in der Verfahrensordnung nach § 41b Absatz 1 festgelegte Frist. § 41 Absatz 3 Satz 1 gilt entsprechend. Bei der Validierung des Antrags hinsichtlich der Voraussetzungen nach Artikel 7 der Verordnung (EU) Nr. 536/2014, auch in Verbindung mit Artikel 11 der Verordnung (EU) Nr. 536/2014, sowie nach § 40a Satz 1 Nummer 2, 3 und 5, Satz 2 und 3 und § 40b Absatz 2, 3 Satz 1, Absatz 4 Satz 1 und 9, Absatz 5 und 6 ist die Bundesoberbehörde an die Bewertung der zuständigen Ethik-Kommission gebunden.
 
-(4) Die zuständige Bundesoberbehörde nimmt die Aufgaben nach Artikel 6 der Verordnung (EU) Nr. 536/2014, auch in Verbindung mit Artikel 11 der Verordnung (EU) Nr. 536/2014, wahr und prüft die Voraussetzungen des § 40a Satz 1 Nummer 1 und 4 und des § 40b Absatz 4 Satz 3 hinsichtlich der Nutzen-Risiko-Bewertung nach Artikel 6 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 536/2014. Die nach dem Geschäftsverteilungsplan nach § 41b Absatz 2 zuständige Ethik-Kommission nimmt zu den Voraussetzungen nach Artikel 6 Absatz 1 Buchstabe a, b und e der Verordnung (EU) Nr. 536/2014 sowie nach § 40a Satz 1 Nummer 4 und § 40b Absatz 4 Satz 3 hinsichtlich der Nutzen-Risiko-Bewertung nach Artikel 6 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 536/2014 Stellung. Für die Stellungnahme gilt die in der Verfahrensordnung nach § 41b Absatz 1 festgelegte Frist.
+(4) Die zuständige Bundesoberbehörde nimmt die Aufgaben nach Artikel 6 der Verordnung (EU) Nr. 536/2014, auch in Verbindung mit Artikel 11 der Verordnung (EU) Nr. 536/2014, wahr und prüft die Voraussetzungen des § 40a Satz 1 Nummer 1 und 4 und des § 40b Absatz 4 Satz 3 hinsichtlich der Nutzen-Risiko-Bewertung nach Artikel 6 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 536/2014. Bei klinischen Prüfungen, an denen kein weiterer Mitgliedstaat der Europäischen Union beteiligt ist, erfolgt die Bewertung des Antrags nach Artikel 6 Absatz 1 bis 3 der Verordnung (EU) Nr. 536/2014 innerhalb von 26 Tagen ab dem Tag der Validierung im Sinne von Artikel 5 Absatz 6 der Verordnung (EU) Nr. 536/2014. Die zuständige Ethik-Kommission nimmt zu den Voraussetzungen nach Artikel 6 Absatz 1 Buchstabe a, b und e der Verordnung (EU) Nr. 536/2014 sowie nach § 40a Satz 1 Nummer 4 und § 40b Absatz 4 Satz 3 hinsichtlich der Nutzen-Risiko-Bewertung nach Artikel 6 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 536/2014 Stellung. Für die Stellungnahme gilt die in der Verfahrensordnung nach § 41b Absatz 1 festgelegte Frist.
 
-(5) Die nach dem Geschäftsverteilungsplan nach § 41b Absatz 2 zuständige Ethik-Kommission nimmt die Aufgaben nach Artikel 7 der Verordnung (EU) Nr. 536/2014, auch in Verbindung mit Artikel 11 der Verordnung (EU) Nr. 536/2014, wahr und prüft die Voraussetzungen des § 40a Satz 1 Nummer 2, 3 und 5, Satz 2 und 3 und des § 40b Absatz 2, 3 Satz 1, Absatz 4 Satz 1, Satz 3 hinsichtlich der Festlegung der Einwilligung, Satz 4 bis 9, Absatz 5 und 6. § 41 Absatz 2 gilt entsprechend.
+(5) Die zuständige Ethik-Kommission nimmt die Aufgaben nach Artikel 7 der Verordnung (EU) Nr. 536/2014, auch in Verbindung mit Artikel 11 der Verordnung (EU) Nr. 536/2014, wahr und prüft die Voraussetzungen des § 40a Satz 1 Nummer 2, 3 und 5, Satz 2 und 3 und des § 40b Absatz 2, 3 Satz 1, Absatz 4 Satz 1, Satz 3 hinsichtlich der Festlegung der Einwilligung, Satz 4 bis 9, Absatz 5 und 6. § 41 Absatz 2 gilt entsprechend.
 
 (6) Die zuständige Bundesoberbehörde erhebt eine Gesamtgebühr im Sinne der Artikel 86 und 87 der Verordnung (EU) Nr. 536/2014. Die zuständige Ethik-Kommission erhebt eine Gebühr für die Bearbeitung eines Antrags nach Maßgabe der Rechtsverordnung nach § 41b Absatz 1 und teilt diese der zuständigen Bundesoberbehörde mit. Diese Gebühr ist in den Gebührenbescheid über die Gesamtgebühr nach Satz 1 aufzunehmen.
 
@@ -2407,7 +2429,7 @@ Bei xenogenen Arzneimitteln müssen die Anforderungen nach Satz 1 Nummer 3 im Hi
 
 ### § 40b Besondere Voraussetzungen für die klinische Prüfung
 
-(1) Ergänzend zu Artikel 29 der Verordnung (EU) Nr. 536/2014 gelten für die Einwilligung der betroffenen Person oder, falls diese nicht in der Lage ist, eine Einwilligung nach Aufklärung zu erteilen, ihres gesetzlichen Vertreters die Vorgaben nach den Absätzen 2 bis 5.
+(1) Ergänzend zu Artikel 29 der Verordnung (EU) Nr. 536/2014 gelten für die Einwilligung der betroffenen Person oder, falls diese nicht in der Lage ist, eine Einwilligung nach Aufklärung zu erteilen, ihres gesetzlichen Vertreters die Vorgaben nach den Absätzen 2 bis 5. Die Einwilligung ist nach den Vorgaben des Artikels 29 Absatz 1 der Verordnung (EU) Nr. 536/2014 in Verbindung mit der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44), die durch die Richtlinie (EU) 2022/2555 (ABl. L 333 vom 27.12.2022, S. 80) geändert worden ist, zu erteilen.
 
 (2) Die betroffene Person oder, falls diese nicht in der Lage ist, eine Einwilligung nach Aufklärung zu erteilen, ihr gesetzlicher Vertreter ist durch einen Prüfer, der Arzt oder, bei einer zahnmedizinischen Prüfung, Zahnarzt ist, oder durch ein Mitglied des Prüfungsteams, das Arzt oder, bei einer zahnmedizinischen Prüfung, Zahnarzt ist, im Rahmen des Gesprächs nach Artikel 29 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 536/2014 aufzuklären.
 
@@ -2508,18 +2530,18 @@ Bei klinischen Prüfungen mit Arzneimitteln, die aus einem gentechnisch verände
 
 ### § 41 Stellungnahme der Ethik-Kommission
 
-(1) Die Stellungnahme der Ethik-Kommission nach § 40 Absatz 4 Satz 2 muss ein klares Votum im Sinne einer Zustimmung, einer Zustimmung mit Auflagen im Sinne des Artikels 8 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 536/2014 oder einer Ablehnung der Vertretbarkeit der Durchführung der klinischen Prüfung sowie eine entsprechende Begründung enthalten.
+(1) Die Stellungnahme der Ethik-Kommission nach § 40 Absatz 4 Satz 3 muss ein klares Votum im Sinne einer Zustimmung, einer Zustimmung mit Auflagen im Sinne des Artikels 8 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 536/2014 oder einer Ablehnung der Vertretbarkeit der Durchführung der klinischen Prüfung sowie eine entsprechende Begründung enthalten.
 
 (2) Die Ethik-Kommission kann eigene wissenschaftliche Erkenntnisse verwerten, Sachverständige hinzuziehen oder Gutachten von Sachverständigen anfordern. Sie hat Sachverständige beizuziehen oder Gutachten anzufordern, wenn es sich um eine klinische Prüfung von xenogenen Arzneimitteln oder Gentherapeutika handelt.
 
-(2a) Soweit es zur ordnungsgemäßen Erfüllung ihrer Aufgaben nach der Verordnung (EU) Nr. 536/2014 und nach dem Arzneimittelgesetz erforderlich ist, können sich die registrierten Ethik-Kommissionen untereinander und mit den für den Vollzug des Arzneimittelgesetzes zuständigen Behörden und Stellen die für diese Aufgaben erforderlichen personenbezogenen Daten der Prüfer und anderer an der Durchführung der klinischen Prüfung mitwirkender Personen im Sinne des Artikels 49 der Verordnung (EU) Nr. 536/2014 übermitteln.
+(2a) Soweit es zur ordnungsgemäßen Erfüllung ihrer Aufgaben nach der Verordnung (EU) Nr. 536/2014 und nach dem Arzneimittelgesetz erforderlich ist, können sich die Ethik-Kommissionen untereinander und mit den für den Vollzug des Arzneimittelgesetzes zuständigen Behörden und Stellen die für diese Aufgaben erforderlichen personenbezogenen Daten der Prüfer und anderer an der Durchführung der klinischen Prüfung mitwirkender Personen im Sinne des Artikels 49 der Verordnung (EU) Nr. 536/2014 übermitteln.
 
 (3) Die Stellungnahme ist von den zuständigen Bundesoberbehörden bei der Erfüllung ihrer Aufgaben nach § 40 Absatz 4 Satz 1 maßgeblich zu berücksichtigen. Weicht die zuständige Bundesoberbehörde von dem Votum der Ethik-Kommission ab, so hat sie dies gegenüber der Ethik-Kommission schriftlich zu begründen.
 
 
 ### § 41a Registrierungsverfahren für Ethik-Kommissionen
 
-(1) An dem Verfahren zur Bewertung eines Antrags auf Genehmigung einer klinischen Prüfung nach der Verordnung (EU) Nr. 536/2014 dürfen nur öffentlich-rechtliche Ethik-Kommissionen der Länder teilnehmen, die nach Landesrecht für die Prüfung und Bewertung klinischer Prüfungen zuständig sind und nach den Absätzen 2 bis 5 registriert sind.
+(1) An dem Verfahren zur Bewertung eines Antrags auf Genehmigung einer klinischen Prüfung nach der Verordnung (EU) Nr. 536/2014 dürfen nur die Spezialisierte Ethik-Kommission für besondere Verfahren und öffentlich-rechtliche Ethik-Kommissionen der Länder, die nach Landesrecht für die Prüfung und Bewertung klinischer Prüfungen zuständig sind und nach den Absätzen 2 bis 5 registriert sind, teilnehmen.
 
 (2) Der Antrag auf Registrierung ist vom jeweiligen Träger der öffentlich-rechtlichen Ethik-Kommissionen der Länder bei dem Bundesinstitut für Arzneimittel und Medizinprodukte zu stellen.
 
@@ -2550,21 +2572,70 @@ Bei klinischen Prüfungen mit Arzneimitteln, die aus einem gentechnisch verände
 
 (4) Registrierte Ethik-Kommissionen teilen dem Bundesinstitut für Arzneimittel und Medizinprodukte Änderungen, die die Voraussetzungen der Registrierung betreffen, unverzüglich mit.
 
-(5) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann im Einvernehmen mit dem Paul-Ehrlich-Institut das Ruhen der Registrierung anordnen oder die Registrierung aufheben, wenn bekannt wird, dass die Voraussetzungen zur Registrierung nicht oder nicht mehr vorliegen oder wenn ein Verstoß gegen die nach § 41b Absatz 1 festgelegte Verfahrensordnung vorliegt.
+(5) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann im Einvernehmen mit dem Paul-Ehrlich-Institut das Ruhen der Registrierung anordnen oder die Registrierung aufheben, wenn bekannt wird, dass die Voraussetzungen zur Registrierung nicht oder nicht mehr vorliegen oder wenn ein Verstoß gegen die nach § 41b Absatz 1 festgelegte Verfahrensordnung oder gegen die Richtlinien zur Bewertung klinischer Prüfungen durch Ethik-Kommissionen vorliegt.
 
 (6) Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht eine Liste der registrierten Ethik-Kommissionen im Bundesanzeiger. Personenbezogene Daten dürfen nur mit Einwilligung der jeweiligen Person veröffentlicht werden. Die Liste ist regelmäßig zu aktualisieren.
 
 
 ### § 41b Verfahrensordnung und Geschäftsverteilungsplan
 
-(1) Das Bundesministerium erstellt durch Rechtsverordnung mit Zustimmung des Bundesrates eine Verfahrensordnung über die Zusammenarbeit der Bundesoberbehörden und der registrierten Ethik-Kommissionen bei der Bearbeitung von Anträgen auf die Genehmigung von klinischen Prüfungen nach der Verordnung (EU) Nr. 536/2014. In der Verfahrensordnung werden insbesondere die Einzelheiten des Registrierungsverfahrens, die Fristen für die Stellungnahmen der registrierten Ethik-Kommissionen, die festen Gebührensätze oder Rahmensätze jeweils nach dem Personal- und Sachaufwand für die Stellungnahmen und Bewertungsberichte der registrierten Ethik-Kommissionen, die Kriterien für einen Geschäftsverteilungsplan einschließlich der für die Verteilung der zu bearbeitenden Anträge maßgeblichen Faktoren sowie die Zuständigkeiten bestimmt, vom Sponsor zusätzliche Informationen nach der Verordnung (EU) Nr. 536/2014 zu ersuchen.
+(1) Das Bundesministerium erstellt durch Rechtsverordnung mit Zustimmung des Bundesrates eine Verfahrensordnung über die Zusammenarbeit der Bundesoberbehörden und der Ethik-Kommissionen bei der Bearbeitung von Anträgen auf die Genehmigung von klinischen Prüfungen nach der Verordnung (EU) Nr. 536/2014. In der Verfahrensordnung werden insbesondere die Einzelheiten des Registrierungsverfahrens, die Fristen für die Stellungnahmen der Ethik-Kommissionen, die festen Gebührensätze oder Rahmensätze jeweils nach dem Personal- und Sachaufwand für die Stellungnahmen und Bewertungsberichte der Ethik-Kommissionen, die Kriterien für einen Geschäftsverteilungsplan einschließlich der für die Verteilung der zu bearbeitenden Anträge maßgeblichen Faktoren sowie die Zuständigkeiten bestimmt, vom Sponsor zusätzliche Informationen nach der Verordnung (EU) Nr. 536/2014 zu ersuchen.
 
-(2) Die bis zum 30. September 2017 registrierten Ethik-Kommissionen oder eine von ihnen benannte Stelle erlassen bis zum 1. Januar 2018 einen gemeinsamen Geschäftsverteilungsplan für alle registrierten Ethik-Kommissionen. Dieser ist jährlich zum 1. Januar zu aktualisieren. Der Geschäftsverteilungsplan kann in besonderen Fällen abweichend von Satz 2 aktualisiert und geändert werden. Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht den jeweils aktuellen Geschäftsverteilungsplan. Personenbezogene Daten dürfen nur mit Einwilligung der jeweiligen Person veröffentlicht werden.
+(2) Die registrierten Ethik-Kommissionen der Länder erlassen oder eine von ihnen benannte Stelle erlässt bis zum 1. Juli 2025
+
+1.  nach Anhörung des Bundesinstituts für Arzneimittel und Medizinprodukte und des Paul-Ehrlich-Instituts einen besonderen Geschäftsverteilungsplan für auf bestimmte Verfahren, wie zum Beispiel klinische Prüfungen bei Minderjährigen, spezialisierte registrierte Ethik-Kommissionen der Länder und
 
 
-### § 41c Verordnungsermächtigung
+2.  einen allgemeinen Geschäftsverteilungsplan für die weiteren registrierten Ethik-Kommissionen der Länder.
 
-Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, eine Bundes-Ethik-Kommission bei dem Bundesinstitut für Arzneimittel und Medizinprodukte und dem Paul-Ehrlich-Institut einzurichten, wenn dies erforderlich ist, um die Bearbeitung der in der Verordnung (EU) Nr. 536/2014 geregelten Verfahren sicherzustellen. Für die Bundes-Ethik-Kommission gelten die Vorgaben dieses Abschnitts mit der Maßgabe, dass die Bundes-Ethik-Kommission als registriert gilt, entsprechend.
+
+
+Die Zuständigkeit der registrierten Ethik-Kommissionen der Länder bestimmt sich nach den Geschäftsverteilungsplänen, sofern nicht eine Zuständigkeit der Spezialisierten Ethik-Kommission für besondere Verfahren nach § 41c Absatz 2 gegeben ist. Die Geschäftsverteilungspläne sind jährlich zum 1. Januar zu aktualisieren. Die Geschäftsverteilungspläne können in besonderen Fällen abweichend von Satz 2 aktualisiert und geändert werden. Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht die jeweils aktuellen Geschäftsverteilungspläne. Personenbezogene Daten dürfen nur mit Einwilligung der jeweiligen Person veröffentlicht werden.
+
+
+### § 41c Spezialisierte Ethik-Kommission für besondere Verfahren
+
+(1) Bei dem Bundesinstitut für Arzneimittel und Medizinprodukte wird die Spezialisierte Ethik-Kommission für besondere Verfahren eingerichtet. Das Bundesministerium beruft unter Berücksichtigung von Vorschlägen der obersten Landesgesundheitsbehörden und im Benehmen mit dem Bundesministerium für Bildung und Forschung und mit den obersten Landesgesundheitsbehörden die Mitglieder und die stellvertretenden Mitglieder der Spezialisierten Ethik-Kommission für besondere Verfahren. Dabei ist sicherzustellen, dass
+
+1.  die Mitglieder und die stellvertretenden Mitglieder über die erforderliche aktuelle wissenschaftliche Expertise verfügen,
+
+
+2.  die Spezialisierte Ethik-Kommission für besondere Verfahren eine interdisziplinäre Zusammensetzung unter Beteiligung von je mindestens einem Juristen, einer Person mit wissenschaftlicher oder beruflicher Erfahrung auf dem Gebiet der Ethik in der Medizin, einer Person mit Erfahrung auf dem Gebiet der Versuchsplanung und Statistik, drei Ärzten, die über Erfahrungen in der klinischen Medizin verfügen, davon ein Facharzt für klinische Pharmakologie oder für Pharmakologie und Toxikologie, sowie einem Laien aufweist,
+
+
+3.  der Spezialisierten Ethik-Kommission für besondere Verfahren weibliche und männliche Mitglieder und stellvertretende Mitglieder angehören und bei der Auswahl der Mitglieder und der stellvertretenden Mitglieder Frauen und Männer mit dem Ziel der gleichberechtigten Teilhabe gleichermaßen berücksichtigt werden.
+
+
+
+
+(2) Die Spezialisierte Ethik-Kommission für besondere Verfahren gibt sich eine Geschäftsordnung, die insbesondere verpflichtende Regelungen zur Arbeitsweise der Spezialisierten Ethik-Kommission für besondere Verfahren trifft; dazu gehören insbesondere Regelungen zur Geschäftsführung, zum Vorsitz, zur Vorbereitung von Beschlüssen, zur Beschlussfassung sowie zur Unabhängigkeit, Ehrenamtlichkeit und Verschwiegenheitspflicht der Mitglieder, stellvertretenden Mitglieder und externen Sachverständigen. Die Geschäftsordnung bedarf der Zustimmung des Bundesministeriums im Benehmen mit dem Bundesministerium für Bildung und Forschung.
+
+(3) Die Spezialisierte Ethik-Kommission für besondere Verfahren ist für folgende klinische Prüfungen nach der Verordnung (EU) Nr. 536/2014 zuständig, wenn der Antrag auf Genehmigung der jeweiligen klinischen Prüfung nach dem 30. Juni 2025 gestellt wurde:
+
+1.  klinische Prüfungen, zu denen zum Zeitpunkt der Antragstellung eine Beratung oder eine wissenschaftliche Unterstützung der Notfall-Einsatzgruppe der Europäischen Arzneimittel-Agentur gemäß Artikel 15 Absatz 2 Buchstabe b oder c der Verordnung (EU) 2022/123 des Europäischen Parlaments und des Rates vom 25. Januar 2022 zu einer verstärkten Rolle der Europäischen Arzneimittel-Agentur bei der Krisenvorsorge und -bewältigung in Bezug auf Arzneimittel und Medizinprodukte (ABl. L 20 vom 31.1.2022, S. 1; L 71 vom 9.3.2023, S. 37), die durch die Verordnung (EU) 2024/568 (ABl. L, 2024/568, 14.2.2024) geändert worden ist, erfolgt ist,
+
+
+2.  klinische Prüfungen, die einem übergreifenden Protokoll folgen, das mehrere Teilstudien mit einem Arzneimittel oder mehreren Arzneimitteln und mit Patienten mit gleichen oder unterschiedlichen Erkrankungen umfasst,
+
+
+3.  klinische Prüfungen, bei denen neue Arzneimittel erstmalig am Menschen geprüft werden,
+
+
+4.  klinische Prüfungen von Arzneimitteln für neuartige Therapien.
+
+
+
+
+(4) Die Mitglieder, die stellvertretenden Mitglieder und die externen Sachverständigen üben ihre Tätigkeit unabhängig und ehrenamtlich aus. Die Spezialisierte Ethik-Kommission für besondere Verfahren holt zu jedem Antrag Unabhängigkeitserklärungen der beteiligten Mitglieder, stellvertretenden Mitglieder und externen Sachverständigen ein, die beinhalten, dass diese keine finanziellen oder persönlichen Interessen, die Auswirkungen auf ihre Unparteilichkeit haben könnten, haben.
+
+
+### § 41d Richtlinien zur Bewertung klinischer Prüfungen durch Ethik-Kommissionen
+
+(1) Der Arbeitskreis Medizinischer Ethik-Kommissionen in der Bundesrepublik Deutschland e. V. erlässt nach Anhörung des Bundesinstituts für Arzneimittel und Medizinprodukte und des Paul-Ehrlich-Instituts Richtlinien zur Anwendung der Vorgaben der Verordnung (EU) Nr. 536/2014 und dieses Abschnitts durch Ethik-Kommissionen (Richtlinien zur Bewertung klinischer Prüfungen durch Ethik-Kommissionen). Diese Richtlinien können auch Richtlinien zur Anwendung der Vorgaben für die in § 40b Absatz 1 genannte Einwilligung nach Aufklärung und für die Dokumentation und Arbeitsweise von Studienkoordinatoren umfassen.
+
+(2) Der Arbeitskreis Medizinischer Ethik-Kommissionen in der Bundesrepublik Deutschland e. V. legt das Verfahren für die Erarbeitung der Richtlinien zur Bewertung klinischer Prüfungen durch Ethik-Kommissionen und für die Beschlussfassung über diese Richtlinien fest und veröffentlicht dieses auf seiner Internetseite.
+
+(3) Der Arbeitskreis Medizinischer Ethik-Kommissionen in der Bundesrepublik Deutschland e. V. veröffentlicht die Richtlinien zur Bewertung klinischer Prüfungen durch Ethik-Kommissionen auf seiner Internetseite und übermittelt sie an die Ethik-Kommissionen. Die Ethik-Kommissionen beachten die Richtlinien bei der Erstellung ihrer Stellungnahmen und Bewertungsberichte.
 
 
 ### § 42 Korrekturmaßnahmen
@@ -2627,6 +2698,55 @@ Die folgenden Inspektionen nach Artikel 78 der Verordnung (EU) Nr. 536/2014 werd
 
 
 Alle anderen Inspektionen nach Artikel 78 der Verordnung (EU) Nr. 536/2014 zur Überwachung der Einhaltung der Verordnung (EU) Nr. 536/2014 werden durch die zuständige Behörde durchgeführt. Soweit in Durchführungsrechtsakten nach Artikel 78 Absatz 7 der Verordnung (EU) Nr. 536/2014 nicht anders bestimmt, hat die Bundesoberbehörde zur Durchführung der Inspektion die Befugnisse nach § 64 Absatz 4 Nummer 1 bis 3 und Absatz 4a, die im Benehmen mit der zuständigen Behörde ausgeübt werden. Die zuständige Behörde hat zur Durchführung der Inspektion die Befugnisse nach § 64 Absatz 4 und 4a. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
+
+
+### § 42d Standardvertragsklauseln für die Durchführung klinischer Prüfungen
+
+(1) Die Bundesregierung wird ermächtigt, nach Anhörung der betroffenen Verbände und Organisationen durch Rechtsverordnung mit Zustimmung des Bundesrates Standardvertragsklauseln über die Rechte und Pflichten des Sponsors und des Prüfzentrums bei der Durchführung einer klinischen Prüfung festzulegen. Die Rechtsverordnung nach Satz 1 kann Abweichungsmöglichkeiten vorsehen. In den Standardvertragsklauseln kann das Nähere bestimmt werden
+
+1.  zum Entstehen des Rechts des Auftraggebers an Ergebnissen, die lediglich im Zusammenhang mit der klinischen Prüfung gewonnen werden, seiner Einräumung oder Übertragung,
+
+
+2.  zum Recht des Auftraggebers zur Erstveröffentlichung sowie zu den Anforderungen an Veröffentlichungen durch das Prüfzentrum,
+
+
+3.  zu Rechten an Ergebnissen und Erfindungen,
+
+
+4.  zu vertraulichen Informationen,
+
+
+5.  zu Namens- und Markenrechten,
+
+
+6.  zu überlassenen Geräten und Materialien,
+
+
+7.  zu Inspektionen und Audits,
+
+
+8.  zur Haftung,
+
+
+9.  zur Dokumentation und Archivierung,
+
+
+10. zum Datenschutz,
+
+
+11. zur Beendigung und Kündigung des Vertrages.
+
+
+
+
+(2) Bei dem Abschluss von Verträgen über die Durchführung klinischer Prüfungen haben der Sponsor und das Prüfzentrum die Standardvertragsklauseln für die Durchführung klinischer Prüfungen nach Absatz 1 Satz 1 zu verwenden, es sei denn, der Sponsor und das Prüfzentrum haben vereinbart, von den Standardvertragsklauseln abzuweichen.
+
+
+### § 42e Empfehlungen für von nichtkommerziellen Sponsoren durchgeführte klinische Prüfungen ohne wirtschaftliche Zwecksetzung
+
+(1) Für von nichtkommerziellen Sponsoren durchgeführte klinische Prüfungen ohne wirtschaftliche Zwecksetzung können die zuständigen Bundesoberbehörden gemeinsame Empfehlungen zur Auslegung der Verordnung (EU) Nr. 536/2014, dieses Abschnitts sowie der Leitlinie E6 zur guten klinischen Praxis des Internationalen Rates für die Harmonisierung technischer Anforderungen an Arzneimittel für die Anwendung am Menschen in der jeweils geltenden Fassung veröffentlichen.
+
+(2) Die zuständigen Bundesoberbehörden erstellen auf Antrag einer zuständigen Behörde eine Stellungnahme zur Auslegung der in Absatz 1 genannten Vorgaben für von nichtkommerziellen Sponsoren durchgeführte klinische Prüfungen ohne wirtschaftliche Zwecksetzung. Dem Antrag ist eine Begründung beizufügen. Die zuständige Bundesoberbehörde kann die Stellungnahme nach Satz 2 auf ihrer Internetseite in einer Fassung, die keinen Rückschluss auf Betriebs- und Geschäftsgeheimnisse und personenbezogene Daten erlaubt, veröffentlichen.
 
 
 ## Siebter Abschnitt - Abgabe von Arzneimitteln
@@ -2764,7 +2884,7 @@ Alle anderen Inspektionen nach Artikel 78 der Verordnung (EU) Nr. 536/2014 zur �
     f)  radioaktive Arzneimittel,
 
 
-    g)  Arzneimittel, die mit dem Hinweis "Zur klinischen Prüfung bestimmt" versehen sind, sofern sie kostenlos zur Verfügung gestellt werden,
+    g)  Prüfpräparate und Hilfspräparate, sofern sie kostenlos zur Verfügung gestellt werden,
 
 
     h)  Blutegel und Fliegenlarven, bei denen auch die Abgabe an Heilpraktiker zulässig ist, oder
@@ -2815,6 +2935,8 @@ Alle anderen Inspektionen nach Artikel 78 der Verordnung (EU) Nr. 536/2014 zur �
 
 
 (2) Die in Absatz 1 Nr. 5 bis 9 bezeichneten Empfänger dürfen die Arzneimittel nur für den eigenen Bedarf im Rahmen der Erfüllung ihrer Aufgaben beziehen. Die in Absatz 1 Nr. 5 bezeichneten zentralen Beschaffungsstellen dürfen nur anerkannt werden, wenn nachgewiesen wird, dass sie unter fachlicher Leitung eines Apothekers stehen und geeignete Räume und Einrichtungen zur Prüfung, Kontrolle und Lagerung der Arzneimittel vorhanden sind.
+
+(2a) Pharmazeutische Unternehmer, Großhändler, ein Prüfer, der Arzt, oder, bei einer zahnmedizinischen Prüfung, Zahnarzt ist, und ein Mitglied des Prüfungsteams, das Arzt oder, bei einer zahnmedizinischen Prüfung, Zahnarzt ist, dürfen Prüfpräparate und Hilfspräparate, die kostenlos zur Verfügung gestellt werden, an betroffene Personen nur abgeben, wenn nach einer von dem Sponsor für den Einzelfall vorzunehmenden Bewertung die Sicherheit der betroffenen Personen und die Validität der in der klinischen Prüfung erhobenen Daten insbesondere hinsichtlich der Abgabe der Prüfpräparate und Hilfspräparate an die betroffenen Personen gewährleistet sind, durch geeignete und angemessene Maßnahmen sichergestellt ist, dass der Sponsor keine Möglichkeit hat, die betroffenen Personen zu identifizieren, und eine Erlaubnis der für die Genehmigung der klinischen Prüfung zuständigen Bundesoberbehörde vorliegt.
 
 (3) Pharmazeutische Unternehmer dürfen Muster eines Fertigarzneimittels abgeben oder abgeben lassen an
 
@@ -3975,7 +4097,10 @@ Bei hämatopoetischen Stammzellen oder Stammzellzubereitungen aus dem peripheren
     a)  sie oder eine zuständige Behörde eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum sich regelmäßig im Herstellungsland vergewissert hat, dass die genannten Grundregeln bei der Herstellung der Arzneimittel oder Wirkstoffe eingehalten werden, oder
 
 
-    b)  mit einem Staat ein Abkommen über die gegenseitige Anerkennung der Guten Herstellungspraxis im Arzneimittelbereich mit der Europäischen Union besteht und die zuständige Behörde dieses Staates sich regelmäßig vergewissert hat, dass die genannten Grundregeln bei der Herstellung der Arzneimittel oder Wirkstoffe in dem Hoheitsgebiet dieses Staates eingehalten werden,
+    b)  mit einem Staat ein Abkommen über die gegenseitige Anerkennung der Guten Herstellungspraxis im Arzneimittelbereich mit der Europäischen Union besteht und die zuständige Behörde dieses Staates sich regelmäßig vergewissert hat, dass die genannten Grundregeln bei der Herstellung der Arzneimittel oder Wirkstoffe in dem Hoheitsgebiet dieses Staates eingehalten werden, oder
+
+
+    c)  mit einem Staat ein Abkommen über die gegenseitige Anerkennung der Guten Herstellungspraxis im Arzneimittelbereich mit der Europäischen Union besteht, das auch die gegenseitige Anerkennung von Inspektionen in Drittstaaten umfasst, und die zuständige Behörde des Staates, mit dem ein solches Abkommen besteht, sich regelmäßig im Herstellungsland vergewissert hat, dass die genannten Grundregeln bei der Herstellung der Arzneimittel oder Wirkstoffe eingehalten werden,
 
 
 
@@ -4289,7 +4414,7 @@ Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird nach Maßgab
 
 
 
-### § 77 Zuständige Bundesoberbehörde
+### § 77 Zuständige Bundesoberbehörde,Verordnungsermächtigung
 
 (1) Zuständige Bundesoberbehörde ist das Bundesinstitut für Arzneimittel und Medizinprodukte, es sei denn, dass das Paul-Ehrlich-Institut zuständig ist.
 
@@ -4297,7 +4422,20 @@ Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird nach Maßgab
 
 (3) (weggefallen)
 
-(4) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Zuständigkeit des Bundesinstituts für Arzneimittel und Medizinprodukte und des Paul-Ehrlich-Instituts zu ändern, sofern dies erforderlich ist, um neueren wissenschaftlichen Entwicklungen Rechnung zu tragen oder wenn Gründe der gleichmäßigen Arbeitsauslastung eine solche Änderung erfordern.
+(4) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Zuständigkeit des Bundesinstituts für Arzneimittel und Medizinprodukte und des
+Paul-Ehrlich-Instituts              zu ändern, sofern dies erforderlich ist, um
+
+1.  neueren wissenschaftlichen Entwicklungen Rechnung zu tragen,
+
+
+2.  eine gleichmäßige Arbeitsauslastung zu gewährleisten oder
+
+
+3.  Verfahrensabläufe zwischen dem Bundesinstitut für Arzneimittel und Medizinprodukte und dem Paul-Ehrlich-Institut zu verbessern.
+
+
+
+Die Rechtsverordnung kann zu dem in Satz 1 Nummer 3 genannten Zweck insbesondere die Einrichtung einer Koordinierungsstelle beim Bundesinstitut für Arzneimittel und Medizinprodukte zur Koordinierung und Harmonisierung der Zusammenarbeit der Bundesoberbehörden bei der Zulassung von Arzneimitteln und der Genehmigung klinischer Prüfungen sowie eine nähere Regelung der Aufgaben dieser Koordinierungsstelle und ihrer Befugnisse zur Einsichtnahme in Unterlagen der Bundesoberbehörden und zur Festlegung zentraler Eingangsadressen für Zulassungs- oder Genehmigungsverfahren vorsehen.
 
 
 ### § 77a Unabhängigkeit und Transparenz
@@ -4577,7 +4715,7 @@ erbracht werden.
 4.  entgegen § 43 Abs. 1 Satz 2, Abs. 2 oder 3 mit Arzneimitteln, die nur auf Verschreibung an Verbraucher abgegeben werden dürfen, Handel treibt oder diese Arzneimittel abgibt,
 
 
-5.  Arzneimittel, die nur auf Verschreibung an Verbraucher abgegeben werden dürfen, entgegen § 47 Abs. 1 an andere als dort bezeichnete Personen oder Stellen abgibt oder entgegen § 47 Abs. 2 Satz 1 bezieht oder
+5.  Arzneimittel, die nur auf Verschreibung an Verbraucher abgegeben werden dürfen, entgegen § 47 Abs. 1 oder Absatz 2a abgibt oder entgegen § 47 Abs. 2 Satz 1 bezieht oder
 
 
 5a. entgegen § 47a Abs. 1 ein dort bezeichnetes Arzneimittel an andere als die dort bezeichneten Einrichtungen abgibt oder in den Verkehr bringt.
@@ -4794,7 +4932,7 @@ bezeichnete Handlung fahrlässig begeht.
 11. (weggefallen)
 
 
-12. Arzneimittel, die ohne Verschreibung an Verbraucher abgegeben werden dürfen, entgegen § 47 Abs. 1 an andere als dort bezeichnete Personen oder Stellen abgibt oder entgegen § 47 Abs. 2 Satz 1 bezieht,
+12. Arzneimittel, die ohne Verschreibung an Verbraucher abgegeben werden dürfen, entgegen § 47 Abs. 1 oder Absatz 2a abgibt oder entgegen § 47 Abs. 2 Satz 1 bezieht,
 
 
 12a. entgegen § 47 Abs. 4 Satz 1 Muster ohne schriftliche Anforderung, in einer anderen als der kleinsten Packungsgröße oder über die zulässige Menge hinaus abgibt oder abgeben lässt,

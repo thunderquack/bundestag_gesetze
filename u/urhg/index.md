@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 25 G v. 23.6.2021 I 1858
 
+Änderung durch
+:   Art. 28 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## Teil 1 - Urheberrecht
 

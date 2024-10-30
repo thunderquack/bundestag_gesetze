@@ -37,6 +37,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 3 G v. 30.7.2024 I Nr. 254 ist berücksichtigt
 
+Änderung durch
+:   Art. 6 G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 

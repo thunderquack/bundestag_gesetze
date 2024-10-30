@@ -19,7 +19,10 @@ Zuletzt geändert durch
 :   Art. 3 G v. 20.12.2023 I Nr. 389
 
 Änderung durch
-:   Art. 1 G v. 22.10.2024 I Nr. 320 mWv 26.10.2024 noch nicht berücksichtigt
+:   Art. 1 G v. 22.10.2024 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 12 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 
@@ -1401,11 +1404,9 @@ Die Sätze 1 bis 3 gelten auch für Angestellte der Notarkammern und der Einrich
 
 (3) Vor Beginn des Kalenderjahres setzt der Vorstand die Zahl der Abteilungen und ihrer Mitglieder fest, überträgt den Abteilungen die Geschäfte und bestimmt die Mitglieder der einzelnen Abteilungen. Jedes Mitglied des Vorstandes kann mehreren Abteilungen angehören. Die Anordnungen können im Laufe des Jahres nur geändert werden, wenn dies wegen Überlastung der Abteilung oder infolge Wechsels oder dauernder Verhinderung einzelner Mitglieder der Abteilung erforderlich wird.
 
-(4) Der Vorstand kann die Abteilungen ermächtigen, ihre Sitzungen außerhalb des Sitzes der Notarkammer abzuhalten.
+(4) Die Abteilungen besitzen innerhalb ihrer Zuständigkeit die Rechte und Pflichten des Vorstandes.
 
-(5) Die Abteilungen besitzen innerhalb ihrer Zuständigkeit die Rechte und Pflichten des Vorstandes.
-
-(6) Anstelle der Abteilung entscheidet der Vorstand, wenn er es für angemessen hält oder wenn die Abteilung oder ihr Vorsitz es beantragt.
+(5) Anstelle der Abteilung entscheidet der Vorstand, wenn er es für angemessen hält oder wenn die Abteilung oder ihr Vorsitz es beantragt.
 
 
 #### § 69c Vorzeitiges Ausscheiden eines Vorstandsmitglieds
@@ -1454,6 +1455,39 @@ Die Sätze 1 bis 3 gelten auch für Angestellte der Notarkammern und der Einrich
 
 
 
+
+
+#### § 71a Durchführung der Kammerversammlung
+
+(1) Die Kammerversammlung findet vorbehaltlich des Absatzes 2 in Präsenz aller Beteiligten am Ort der Versammlung statt.
+
+(2) Die Satzung der Notarkammer kann vorsehen, dass die Kammerversammlung auch wie folgt stattfinden kann:
+
+1.  in Präsenz und gleichzeitig online (hybride Kammerversammlung) oder
+
+
+2.  ausschließlich online (virtuelle Kammerversammlung).
+
+
+
+Das Nähere zu hybriden und virtuellen Kammerversammlungen bestimmt die Satzung. Die Satzung kann dabei vorsehen, dass bestimmte Gegenstände nicht in hybriden oder virtuellen Kammerversammlungen behandelt werden dürfen. In der Satzung soll insbesondere geregelt werden, ob und gegebenenfalls unter welchen Voraussetzungen eine Aufzeichnung der Versammlung zulässig ist. Sofern die Satzung keine abweichende Regelung trifft, bestimmt der Präsident die Form der Kammerversammlung bei deren Einberufung.
+
+(3) Sieht die Satzung der Notarkammer hybride oder virtuelle Kammerversammlungen vor, so dürfen diese nur abgehalten werden, wenn die folgenden Bedingungen eingehalten werden:
+
+1.  in der Einberufung muss angegeben werden, wie sich die Mitglieder online zur Versammlung zuschalten können,
+
+
+2.  die gesamte Versammlung muss in Bild und Ton übertragen werden,
+
+
+3.  die online teilnehmenden Mitglieder müssen ihr Stimmrecht entweder während der Versammlung elektronisch oder im Anschluss an die Versammlung durch schriftliche Stimmabgabe ausüben können und
+
+
+4.  die Rechte der Mitglieder nach diesem Gesetz und nach der Satzung der Notarkammer müssen gewahrt werden.
+
+
+
+Bei einer virtuellen Kammerversammlung muss in der Einberufung darauf hingewiesen werden, dass die Versammlung ausschließlich online stattfindet.
 
 
 #### § 72 Regelung durch Satzung
@@ -2078,7 +2112,9 @@ Das Präsidium der Bundesnotarkammer besteht aus dem Präsidenten und acht weite
 
 (2) Bei der Einberufung der Generalversammlung ist der Gegenstand anzugeben, über den Beschluss gefasst werden soll. Über einen Gegenstand, der nicht innerhalb der in der Satzung für die Einberufung vorgesehenen Fristen mitgeteilt wurde, kann nur mit Zustimmung aller Notarkammern Beschluss gefasst werden.
 
-(3) Beschlüsse der Generalversammlung können auch ohne Zusammenkunft gefasst werden, wenn nicht mehr als drei Notarkammern widersprechen. Abstimmungen sind schriftlich durchzuführen.
+(3) Die Satzung der Bundesnotarkammer kann in entsprechender Anwendung des § 71a Absatz 2 vorsehen, dass die Generalversammlung auch als hybride oder virtuelle Generalversammlung stattfinden kann. In diesem Fall gilt § 71a Absatz 3 entsprechend.
+
+(4) Beschlüsse der Generalversammlung können auch ohne Sitzung gefasst werden, wenn nicht mehr als drei Notarkammern widersprechen. Abstimmungen außerhalb von Sitzungen sind schriftlich durchzuführen.
 
 
 #### § 86 Zusammensetzung und Beschlussfassung der Generalversammlung

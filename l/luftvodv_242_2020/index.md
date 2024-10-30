@@ -1,7 +1,7 @@
 ---
-Title: Zweihundertzweiundvierzigste Durchführungsverordnung des Bundesaufsichtsamtes
-  für Flugsicherung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An-
-  und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Hamburg)
+Title: Zweihundertzweiundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
+  (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
+  und vom Verkehrsflughafen Hamburg)
 jurabk: LuftVODV 242 2020
 layout: default
 origslug: luftvodv_242_2020
@@ -9,7 +9,7 @@ slug: luftvodv_242_2020
 
 ---
 
-# Zweihundertzweiundvierzigste Durchführungsverordnung des Bundesaufsichtsamtes für Flugsicherung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Hamburg) (LuftVODV 242 2020)
+# Zweihundertzweiundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Hamburg) (LuftVODV 242 2020)
 
 Ausfertigungsdatum
 :   2019-08-07

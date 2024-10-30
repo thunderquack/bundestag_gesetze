@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 24 G v. 5.10.2021 I 4607
 
 Änderung durch
-:   Art. 3 G v. 22.10.2024 I Nr. 320 mWv 26.10.2024 noch nicht berücksichtigt
+:   Art. 3 G v. 22.10.2024 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -461,7 +461,7 @@ Ist einem europäischen Rechtsanwalt nach § 70 des Strafgesetzbuches, § 132a d
 2.  Frankreich und Luxemburg durch die Rechtsanwaltskammer für den Oberlandesgerichtsbezirk Koblenz in Koblenz,
 
 
-3.  dem Vereinigten Königreich, Irland, Finnland und Schweden durch die Hanseatische Rechtsanwaltskammer in Hamburg,
+3.  Irland, Finnland und Schweden durch die Hanseatische Rechtsanwaltskammer in Hamburg,
 
 
 4.  Italien und Österreich durch die Rechtsanwaltskammer für den Oberlandesgerichtsbezirk München in München,
@@ -670,6 +670,11 @@ Auf die Erhebung und Beitreibung von Gebühren und Auslagen für Amtshandlungen 
 (1) Für die Anwendung der Vorschriften des Strafgesetzbuches über die Straflosigkeit der Nichtanzeige geplanter Straftaten (§ 139 Abs. 3 Satz 2), Verletzung von Privatgeheimnissen (§ 203 Absatz 1 Nummer 3, Absatz 3 bis 6, §§ 204, 205), Gebührenüberhebung (§ 352) und Parteiverrat (§ 356) stehen europäische Rechtsanwälte den Rechtsanwälten und Anwälten gleich.
 
 (2) Zum Schutz der in der Anlage zu § 1 genannten Berufsbezeichnungen ist die Vorschrift des § 132a Abs. 1 Nr. 2, Abs. 2 des Strafgesetzbuches über den Schutz der Berufsbezeichnung Rechtsanwalt entsprechend anzuwenden.
+
+
+### § 43 Übergangsvorschrift zum Austritt des Vereinigten Königreichs aus der Europäischen Union
+
+Teil 4 gilt auch für Staatsangehörige eines Mitgliedstaates der Europäischen Union, eines anderen Vertragsstaates des Europäischen Wirtschaftsraums oder der Schweiz, die vor dem 1. Januar 2021 im Vereinigten Königreich eine Ausbildung abgeschlossen haben, die dort zum unmittelbaren Zugang zu den Berufen „Advocate“, „Barrister“ oder „Solicitor“ berechtigt.
 
 zu § 1
 

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8b G v. 19.7.2024 I Nr. 245
 
+Änderung durch
+:   Art. 4 G v. 23.10.2024 I Nr. 323 mWv 30.10.2024, 1.1.2025 u. 1.1.2026 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Änderung von Gesetzen auf dem Gebiet des Finanzwesens
 

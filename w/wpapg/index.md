@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 15 G v. 11.12.2023 I Nr. 354
 
+Änderung durch
+:   Art. 24 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## § 1 Allgemeine Vorschriften
 

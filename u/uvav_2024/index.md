@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 192
 
+Änderung durch
+:   Art. 67 G v. 23.10.2024 I Nr. 323 mWv 1.1.2028 noch nicht berücksichtigt
+
 Stand: Ersetzt V 860-7-4 v. 23.1.2002 I 554 (UVAV)
 
 ## § 1 Anwendungsbereich

@@ -1,7 +1,7 @@
 ---
-Title: Einhundertelfte Durchführungsverordnung des Bundesaufsichtsamtes für Flugsicherung
-  zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach
-  Instrumentenflugregeln zum und vom Flughafen Erfurt-Weimar)
+Title: Einhundertelfte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
+  von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen
+  Erfurt-Weimar)
 jurabk: LuftVODV 111 2021
 layout: default
 origslug: luftvodv_111_2021
@@ -9,7 +9,7 @@ slug: luftvodv_111_2021
 
 ---
 
-# Einhundertelfte Durchführungsverordnung des Bundesaufsichtsamtes für Flugsicherung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Erfurt-Weimar) (LuftVODV 111 2021)
+# Einhundertelfte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Erfurt-Weimar) (LuftVODV 111 2021)
 
 Ausfertigungsdatum
 :   2021-06-09

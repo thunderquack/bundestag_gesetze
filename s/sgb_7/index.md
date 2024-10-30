@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 22.3.2024 I Nr. 101
 
+Änderung durch
+:   Art. 66 G v. 23.10.2024 I Nr. 323 mWv 30.10.2024 bzw. 1.1.2025 bzw. 1.1.2026 bzw. 1.1.2028 noch nicht berücksichtigt
+
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall
 

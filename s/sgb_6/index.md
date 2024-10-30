@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 30.5.2024 I Nr. 173
 
+Änderung durch
+:   Art. 63 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+
 Mittelbare änderung durch
 :   Art. 5 G v. 30.5.2024 I Nr. 173 ist berücksichtigt
 

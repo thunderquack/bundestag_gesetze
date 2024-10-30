@@ -19,7 +19,10 @@ Zuletzt geändert durch
 :   Art. 1 G v. 17.1.2024 I Nr. 12
 
 Änderung durch
-:   Art. 2 G v. 22.10.2024 I Nr. 320 mWv 26.10.2024 bzw. 1.1.2025 bzw. 1.5.2025 noch nicht berücksichtigt
+:   Art. 2 G v. 22.10.2024 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 13 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Der Rechtsanwalt
@@ -594,7 +597,7 @@ Satz 1 Nummer 2 gilt nicht für die Verschwiegenheitspflichten der für eine Ber
 
 #### § 37 Ersetzung der Schriftform
 
-Ist nach diesem Gesetz für die Abgabe einer Erklärung die Schriftform vorgeschrieben, so kann die Erklärung auch über das besondere elektronische Anwaltspostfach abgegeben werden, wenn Erklärender und Empfänger über ein solches verfügen. Ist die Erklärung von einer natürlichen Person abzugeben, so ist das Dokument mit einer qualifizierten elektronischen Signatur der Person zu versehen oder von ihr zu signieren und selbst zu versenden.
+Ist nach diesem Gesetz für die Abgabe einer Erklärung die Schriftform vorgeschrieben, so kann die Erklärung auch über das besondere elektronische Anwaltspostfach abgegeben werden, wenn Erklärender und Empfänger über ein solches verfügen. Ist die Erklärung von einer natürlichen Person abzugeben, so ist das Dokument mit einer qualifizierten elektronischen Signatur der Person zu versehen oder von ihr zu signieren und selbst zu versenden. Andere Postfächer nach § 130a Absatz 4 Satz 1 Nummer 2 bis 5 der Zivilprozessordnung stehen dem besonderen elektronischen Anwaltspostfach nach Satz 1 gleich.
 
 
 #### (XXXX) §§ 38 bis 42 (weggefallen)
@@ -1289,6 +1292,8 @@ Eine Verbindung nach Satz 1 Nummer 4 kann insbesondere dann ausgeschlossen sein,
 
 (5) Im Gesellschaftsvertrag ist der Ausschluss von Gesellschaftern vorzusehen, die in schwerwiegender Weise oder wiederholt gegen Pflichten, die in diesem Gesetz oder in der Berufsordnung nach § 59a bestimmt sind, verstoßen.
 
+(6) Beteiligt sich ein Rechtsanwalt an einer Mandatsgesellschaft (§ 59f Absatz 1 Satz 2 Nummer 2), so hat er für die Einhaltung der Berufspflichten nach § 59e Absatz 1 bis 3 durch die Mandatsgesellschaft Sorge zu tragen.
+
 
 #### § 59e Berufspflichten der Berufsausübungsgesellschaft
 
@@ -1300,10 +1305,30 @@ Eine Verbindung nach Satz 1 Nummer 4 kann insbesondere dann ausgeschlossen sein,
 
 (4) Die persönliche berufsrechtliche Verantwortlichkeit der Gesellschafter, Organmitglieder und sonstigen Mitarbeiter der Berufsausübungsgesellschaft bleibt unberührt.
 
+(5) Beteiligt sich eine Berufsausübungsgesellschaft an einer Mandatsgesellschaft (§ 59f Absatz 1 Satz 2 Nummer 2), so hat sie für die Einhaltung der Berufspflichten nach den Absätzen 1 bis 3 durch die Mandatsgesellschaft Sorge zu tragen. Absatz 4 gilt entsprechend.
+
 
 #### § 59f Zulassung
 
-(1) Berufsausübungsgesellschaften bedürfen der Zulassung durch die Rechtsanwaltskammer. Keiner Zulassung nach Satz 1 bedürfen Personengesellschaften, bei denen keine Beschränkung der Haftung der natürlichen Personen vorliegt und denen als Gesellschafter und als Mitglieder der Geschäftsführungs- und Aufsichtsorgane ausschließlich Rechtsanwälte oder Angehörige eines in § 59c Absatz 1 Satz 1 Nummer 1 genannten Berufs angehören. Unberührt von Satz 2 bleibt der freiwillige Antrag auf eine Zulassung.
+(1) Berufsausübungsgesellschaften bedürfen der Zulassung durch die Rechtsanwaltskammer. Keiner Zulassung nach Satz 1 bedürfen
+
+1.  Personengesellschaften, bei denen keine Beschränkung der Haftung der natürlichen Personen vorliegt und denen ausschließlich Rechtsanwälte oder Angehörige eines in § 59c Absatz 1 Satz 1 Nummer 1 genannten Berufs als Gesellschafter und als Mitglieder der Geschäftsführungs- und Aufsichtsorgane angehören, und
+
+
+2.  Berufsausübungsgesellschaften, die als Personengesellschaften von
+
+    a)  mehreren zugelassenen Berufsausübungsgesellschaften nach diesem Gesetz oder
+
+
+    b)  einer oder mehreren zugelassenen Berufsausübungsgesellschaften nach diesem Gesetz und einem oder mehreren Rechtsanwälten
+
+
+
+    für die Bearbeitung eines einzelnen Mandats gegründet wurden (Mandatsgesellschaft).
+
+
+
+Die Gründung einer Mandatsgesellschaft ist durch die an ihr beteiligten Berufsausübungsgesellschaften und Rechtsanwälte denjenigen Rechtsanwaltskammern anzuzeigen, bei denen die beteiligten Berufsausübungsgesellschaften und Rechtsanwälte zugelassen sind. Unberührt von Satz 2 bleibt der freiwillige Antrag auf eine Zulassung.
 
 (2) Die Zulassung ist zu erteilen, wenn
 
@@ -1396,7 +1421,7 @@ Ein Vermögensverfall nach Satz 1 Nummer 2 wird vermutet, wenn ein Insolvenzverf
 
 #### § 59i Gesellschafter- und Kapitalstruktur von Berufsausübungsgesellschaften
 
-(1) Zugelassene Berufsausübungsgesellschaften können Gesellschafter einer Berufsausübungsgesellschaft sein. Bei gesetzlichen Voraussetzungen, die in der Person der Gesellschafter oder der Mitglieder der Geschäftsführung erfüllt sein müssen, kommt es in den Fällen des Satzes 1 auf die Gesellschafter und die Geschäftsführung der beteiligten Berufsausübungsgesellschaft an. Haben sich Rechtsanwälte, Angehörige eines der in § 59c Absatz 1 Satz 1 genannten Berufe sowie Berufsausübungsgesellschaften, die die Voraussetzungen dieses Abschnitts erfüllen, zu einer Gesellschaft bürgerlichen Rechts zusammengeschlossen, deren Zweck ausschließlich das Halten von Anteilen an einer zugelassenen Berufsausübungsgesellschaft ist, so werden ihnen die Anteile an der Berufsausübungsgesellschaft im Verhältnis ihrer Beteiligung an der Gesellschaft bürgerlichen Rechts zugerechnet.
+(1) Zugelassene Berufsausübungsgesellschaften nach diesem Gesetz können Gesellschafter einer Berufsausübungsgesellschaft sein. Bei gesetzlichen Voraussetzungen, die in der Person der Gesellschafter oder der Mitglieder der Geschäftsführung erfüllt sein müssen, kommt es in den Fällen des Satzes 1 auf die Gesellschafter und die Geschäftsführung der beteiligten Berufsausübungsgesellschaft an. Haben sich Rechtsanwälte, Angehörige eines der in § 59c Absatz 1 Satz 1 genannten Berufe sowie Berufsausübungsgesellschaften, die die Voraussetzungen dieses Abschnitts erfüllen, zu einer Gesellschaft bürgerlichen Rechts zusammengeschlossen, deren Zweck ausschließlich das Halten von Anteilen an einer zugelassenen Berufsausübungsgesellschaft ist, so werden ihnen die Anteile an der Berufsausübungsgesellschaft im Verhältnis ihrer Beteiligung an der Gesellschaft bürgerlichen Rechts zugerechnet.
 
 (2) Die Übertragung von Gesellschaftsanteilen muss an die Zustimmung der Gesellschafterversammlung gebunden sein. Bei Aktiengesellschaften oder Kommanditgesellschaften auf Aktien müssen die Aktien auf Namen lauten.
 
@@ -1476,7 +1501,7 @@ Berufsausübungsgesellschaften sind befugt, Rechtsdienstleistungen im Sinne des 
 
 (3) Für alle Berufsausübungsgesellschaften, die keinen rechtsformbedingten Ausschluss der Haftung und keine Beschränkung der Haftung der natürlichen Personen vorsehen, beträgt die Mindestversicherungssumme 500 000 Euro für jeden Versicherungsfall.
 
-(4) Die Leistungen des Versicherers für alle innerhalb eines Versicherungsjahres verursachten Schäden können auf den Betrag der jeweiligen Mindestversicherungssumme, vervielfacht mit der Zahl der anwaltlichen Gesellschafter, die in der Bundesrepublik Deutschland zugelassen oder niedergelassen sind, und der anwaltlichen Geschäftsführer, die nicht Gesellschafter sind, begrenzt werden. Ist eine Berufsausübungsgesellschaft Gesellschafter, so ist bei der Berechnung der Jahreshöchstleistung nicht die beteiligte Berufsausübungsgesellschaft, sondern die Zahl ihrer anwaltlichen Gesellschafter, die in der Bundesrepublik Deutschland zugelassen oder niedergelassen sind, und der anwaltlichen Geschäftsführer, die nicht Gesellschafter sind, maßgeblich. Die Jahreshöchstleistung muss sich jedoch in jedem Fall mindestens auf den vierfachen Betrag der Mindestversicherungssumme belaufen.
+(4) Die Leistungen des Versicherers für alle innerhalb eines Versicherungsjahres verursachten Schäden können auf den Betrag der jeweiligen Mindestversicherungssumme, vervielfacht mit der Zahl der anwaltlichen Gesellschafter, die in der Bundesrepublik Deutschland zugelassen oder niedergelassen sind, und der anwaltlichen Geschäftsführer, die nicht Gesellschafter sind, begrenzt werden. Ist eine Berufsausübungsgesellschaft Gesellschafter, so ist bei der Berechnung der Jahreshöchstleistung nicht die beteiligte Berufsausübungsgesellschaft, sondern die Zahl ihrer anwaltlichen Gesellschafter, die in der Bundesrepublik Deutschland zugelassen oder niedergelassen sind, und der anwaltlichen Geschäftsführer, die nicht Gesellschafter sind, maßgeblich. Handelt es sich bei der Berufsausübungsgesellschaft um eine Mandatsgesellschaft, so ist Satz 2 nicht anzuwenden und die Zahl ihrer Gesellschafter ist für die Berechnung der Jahreshöchstleistung maßgeblich. Die Jahreshöchstleistung muss sich jedoch in jedem Fall mindestens auf den vierfachen Betrag der Mindestversicherungssumme belaufen.
 
 
 #### § 59p Rechtsanwaltsgesellschaft
@@ -1693,7 +1718,7 @@ Der Vorstand ist beschlußfähig, wenn mindestens die Hälfte seiner Mitglieder 
 
 (3) Über die Beschlüsse des Vorstandes und über die Ergebnisse von Wahlen ist ein Protokoll aufzunehmen, das von dem Vorsitzenden und dem Schriftführer zu unterzeichnen ist.
 
-(4) Beschlüsse des Vorstandes können auch ohne Zusammenkunft gefasst werden, wenn kein Vorstandsmitglied widerspricht und sich mindestens die Hälfte der Vorstandsmitglieder an der Abstimmung beteiligt. Abstimmungen sind schriftlich durchzuführen.
+(4) Beschlüsse des Vorstandes können auch ohne Sitzung gefasst werden, wenn kein Vorstandsmitglied widerspricht und sich mindestens die Hälfte der Vorstandsmitglieder an der Abstimmung beteiligt. Abstimmungen außerhalb von Sitzungen sind schriftlich durchzuführen.
 
 
 ##### § 73 Aufgaben des Vorstandes
@@ -1829,11 +1854,9 @@ Die Sätze 1 bis 3 gelten auch für Angestellte der Rechtsanwaltskammern und fü
 
 (3) Vor Beginn des Kalenderjahres setzt der Vorstand die Zahl der Abteilungen und ihrer Mitglieder fest, überträgt den Abteilungen die Geschäfte und bestimmt die Mitglieder der einzelnen Abteilungen. Jedes Mitglied des Vorstandes kann mehreren Abteilungen angehören. Die Anordnungen können im Laufe des Jahres nur geändert werden, wenn dies wegen Überlastung der Abteilung oder infolge Wechsels oder dauernder Verhinderung einzelner Mitglieder der Abteilung erforderlich wird.
 
-(4) Der Vorstand kann die Abteilungen ermächtigen, ihre Sitzungen außerhalb des Sitzes der Kammer abzuhalten.
+(4) Die Abteilungen besitzen innerhalb ihrer Zuständigkeit die Rechte und Pflichten des Vorstandes.
 
-(5) Die Abteilungen besitzen innerhalb ihrer Zuständigkeit die Rechte und Pflichten des Vorstandes.
-
-(6) An Stelle der Abteilung entscheidet der Vorstand, wenn er es für angemessen hält oder wenn die Abteilung oder ihr Vorsitzender es beantragt.
+(5) An Stelle der Abteilung entscheidet der Vorstand, wenn er es für angemessen hält oder wenn die Abteilung oder ihr Vorsitzender es beantragt.
 
 
 #### Zweiter Unterabschnitt - Präsidium
@@ -1924,6 +1947,39 @@ Der Schriftführer führt das Protokoll über die Sitzungen des Vorstandes und d
 ##### § 86 Einladung und Einberufungsfrist
 
 Die Kammerversammlung ist mindestens zwei Wochen vorher durch schriftliche Einladung einzuberufen. Bei der Fristberechnung sind der Tag der Versendung und der Tag der Versammlung nicht mitzuzählen. In dringenden Fällen kann die Kammerversammlung mit kürzerer Frist einberufen werden.
+
+
+##### § 86a Durchführung der Kammerversammlung
+
+(1) Die Kammerversammlung findet vorbehaltlich des Absatzes 2 in Präsenz aller Beteiligten am Ort der Versammlung statt.
+
+(2) Die Geschäftsordnung der Kammer kann vorsehen, dass die Kammerversammlung auch wie folgt stattfinden kann:
+
+1.  in Präsenz und gleichzeitig online (hybride Kammerversammlung) oder
+
+
+2.  ausschließlich online (virtuelle Kammerversammlung).
+
+
+
+Das Nähere zu hybriden und virtuellen Kammerversammlungen bestimmt die Geschäftsordnung. Die Geschäftsordnung kann dabei vorsehen, dass bestimmte Gegenstände nicht in hybriden oder virtuellen Kammerversammlungen behandelt werden dürfen. In der Geschäftsordnung soll insbesondere geregelt werden, ob und gegebenenfalls unter welchen Voraussetzungen eine Aufzeichnung der Versammlung zulässig ist. Sofern die Geschäftsordnung keine abweichende Regelung trifft, bestimmt der Präsident die Form der Kammerversammlung bei deren Einberufung.
+
+(3) Sieht die Geschäftsordnung der Kammer hybride oder virtuelle Kammerversammlungen vor, so dürfen diese nur abgehalten werden, wenn die folgenden Bedingungen eingehalten werden:
+
+1.  in der Einberufung muss angegeben werden, wie sich die Mitglieder online zur Versammlung zuschalten können,
+
+
+2.  die gesamte Versammlung muss in Bild und Ton übertragen werden,
+
+
+3.  die online teilnehmenden Mitglieder müssen ihr Stimmrecht entweder während der Versammlung elektronisch oder im Anschluss an die Versammlung durch schriftliche Stimmabgabe ausüben können und
+
+
+4.  die Rechte der Mitglieder nach diesem Gesetz und nach der Geschäftsordnung der Kammer müssen gewahrt werden.
+
+
+
+Bei einer virtuellen Kammerversammlung muss in der Einberufung darauf hingewiesen werden, dass die Versammlung ausschließlich online stattfindet. § 85 Absatz 3 ist im Falle der virtuellen Kammerversammlung nicht anzuwenden.
 
 
 ##### § 87 Ankündigung der Tagesordnung
@@ -3288,6 +3344,8 @@ Die Bundesrechtsanwaltskammer faßt ihre Beschlüsse regelmäßig auf Versammlun
 
 (4) In dringenden Fällen kann der Präsident die Hauptversammlung mit kürzerer Frist einberufen.
 
+(5) Die Satzung der Bundesrechtsanwaltskammer kann in entsprechender Anwendung des § 86a Absatz 2 vorsehen, dass die Hauptversammlung auch als hybride oder virtuelle Hauptversammlung stattfinden kann. In diesem Fall gilt § 86a Absatz 3 entsprechend.
+
 
 ##### § 190 Beschlüsse der Hauptversammlung
 
@@ -3374,6 +3432,8 @@ Berufsausübungsgesellschaften bleiben bei der Ermittlung der Mitgliederzahl unb
 
 (2) Der Präsident der Bundesrechtsanwaltskammer muß die Satzungsversammlung einberufen, wenn mindestens fünf Rechtsanwaltskammern oder ein Viertel der stimmberechtigten Mitglieder der Satzungsversammlung es schriftlich beantragen und hierbei den Gegenstand angeben, der in der Satzungsversammlung behandelt werden soll. Im Übrigen gilt § 189 Absatz 2 bis 4 entsprechend.
 
+(3) Die Geschäftsordnung der Satzungsversammlung kann in entsprechender Anwendung des § 86a Absatz 2 vorsehen, dass die Satzungsversammlung auch als hybride oder virtuelle Satzungsversammlung stattfinden kann. In diesem Fall gilt § 86a Absatz 3 entsprechend.
+
 
 ##### § 191d Leitung der Versammlung und Beschlussfassung
 
@@ -3394,7 +3454,7 @@ Berufsausübungsgesellschaften bleiben bei der Ermittlung der Mitgliederzahl unb
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz hat zu prüfen, ob die Vorgaben der Richtlinie (EU) 2018/958 in der jeweils geltenden Fassung eingehalten wurden. Zu diesem Zweck hat ihm der Vorsitzende der Satzungsversammlung die Unterlagen zuzuleiten, aus denen sich die Einhaltung der Vorgaben ergibt. Insbesondere sind die Gründe zu übermitteln, auf Grund derer die Satzungsversammlung die Beschlüsse zur Berufsordnung als gerechtfertigt, notwendig und verhältnismäßig beurteilt hat.
 
-(3) Die von der Satzungsversammlung gefassten Beschlüsse sind unter Angabe des Datums ihres Inkrafttretens dauerhaft auf der Internetseite der Bundesrechtsanwaltskammer zu veröffentlichen, sofern sie nicht der Aufhebung unterfallen. Sie treten am ersten Tag des dritten auf die Veröffentlichung folgenden Monats in Kraft.
+(3) Die von der Satzungsversammlung gefassten Beschlüsse sind nach Abschluss des aufsichtsrechtlichen Prüfverfahrens unter Angabe des Datums ihres Inkrafttretens dauerhaft auf der Internetseite der Bundesrechtsanwaltskammer zu veröffentlichen, sofern sie nicht im aufsichtsrechtlichen Prüfverfahren aufgehoben wurden. Sie treten am ersten Tag des dritten auf die Veröffentlichung folgenden Monats in Kraft.
 
 
 ### Dritter Abschnitt - Schlichtung
@@ -3409,7 +3469,7 @@ Berufsausübungsgesellschaften bleiben bei der Ermittlung der Mitgliederzahl unb
 
 (3) Es wird ein Beirat errichtet, in dem die Bundesrechtsanwaltskammer, die Rechtsanwaltskammern, die Verbände der Rechtsanwaltschaft und die Verbraucherverbände vertreten sein müssen. Andere Personen können in den Beirat berufen werden. Höchstens die Hälfte der Mitglieder des Beirats dürfen Rechtsanwälte sein. Dem Beirat ist vor der Bestellung von Schlichtern und vor Erlass und Änderung der Satzung Gelegenheit zur Stellungnahme zu geben. Er kann eigene Vorschläge für die Bestellung von Schlichtern und die Ausgestaltung der Satzung unterbreiten.
 
-(4) Die Schlichtungsstelle ist Verbraucherschlichtungsstelle nach dem Verbraucherstreitbeilegungsgesetz vom 19. Februar 2016 (BGBl. I S. 254), das durch Artikel 1 des Gesetzes vom 30. November 2019 (BGBl. I S. 1942) geändert worden ist. Das Verbraucherstreitbeilegungsgesetz ist anzuwenden, soweit dieses Gesetz keine Regelungen zur Schlichtung von Streitigkeiten nach Absatz 1 Satz 1 enthält. Das Bundesministerium der Justiz und für Verbraucherschutz übermittelt der Zentralen Anlaufstelle für Verbraucherschlichtung die Angaben nach § 32 Absatz 3 und 4 des Verbraucherstreitbeilegungsgesetzes. Das Bundesministerium der Justiz und für Verbraucherschutz übermittelt die Evaluationsberichte der Schlichtungsstelle an die Zentrale Anlaufstelle für Verbraucherschlichtung; § 35 Absatz 2 des Verbraucherstreitbeilegungsgesetzes ist nicht anzuwenden.
+(4) Die Schlichtungsstelle ist Verbraucherschlichtungsstelle nach dem Verbraucherstreitbeilegungsgesetz. Das Verbraucherstreitbeilegungsgesetz ist anzuwenden, soweit dieses Gesetz keine Regelungen zur Schlichtung von Streitigkeiten nach Absatz 1 Satz 1 enthält. Das Bundesministerium der Justiz und für Verbraucherschutz übermittelt der Zentralen Anlaufstelle für Verbraucherschlichtung die Angaben nach § 32 Absatz 3 und 4 des Verbraucherstreitbeilegungsgesetzes. Das Bundesministerium der Justiz und für Verbraucherschutz übermittelt die Evaluationsberichte der Schlichtungsstelle an die Zentrale Anlaufstelle für Verbraucherschlichtung; § 35 Absatz 2 des Verbraucherstreitbeilegungsgesetzes ist nicht anzuwenden.
 
 (5) Die Hauptversammlung der Bundesrechtsanwaltskammer regelt die Einzelheiten der Organisation der Schlichtungsstelle, der Errichtung des Beirats einschließlich der Berufung weiterer Beiratsmitglieder, der Aufgaben des Beirats, der Bestellung der Schlichter, der Geschäftsverteilung und des Schlichtungsverfahrens durch Satzung nach folgenden Grundsätzen:
 
@@ -3704,7 +3764,7 @@ Für die Berufshaftpflichtversicherung gilt § 7 Absatz 1 und 2 des Gesetzes üb
 
 
 
-(2) Für Berufsausübungsgesellschaften nach Absatz 1 gelten § 59c Absatz 2, die §§ 59d, 59e, 59f, 59g, 59h, 59i Absatz 2 bis 5 und die §§ 59j, 59m, 59n und 59o entsprechend. § 59j ist mit der Maßgabe anzuwenden, dass der Geschäftsleitung der deutschen Zweigniederlassung zur Geschäftsführung und Vertretung berechtigte Rechtsanwälte oder nach § 206 Absatz 1 niedergelassene ausländische Rechtsanwälte in vertretungsberechtigter Zahl angehören müssen. § 59o ist mit der Maßgabe anzuwenden, dass nicht auf die Zahl der Geschäftsführer, sondern auf die Zahl der Mitglieder der Geschäftsleitung nach Absatz 1 Nummer 4 abzustellen ist.
+(2) Für Berufsausübungsgesellschaften nach Absatz 1 gelten § 59c Absatz 2, die §§ 59d bis 59j und 59m bis 59o entsprechend. § 59j ist mit der Maßgabe anzuwenden, dass der Geschäftsleitung der deutschen Zweigniederlassung zur Geschäftsführung und Vertretung berechtigte Rechtsanwälte oder nach § 206 Absatz 1 niedergelassene ausländische Rechtsanwälte in vertretungsberechtigter Zahl angehören müssen. § 59o ist mit der Maßgabe anzuwenden, dass nicht auf die Zahl der Geschäftsführer, sondern auf die Zahl der Mitglieder der Geschäftsleitung nach Absatz 1 Nummer 4 abzustellen ist.
 
 (3) Die zugelassene Berufsausübungsgesellschaft ist berechtigt, in der Bundesrepublik Deutschland durch nach § 206 Absatz 3 Nummer 1 befugte niedergelassene ausländische Rechtsanwälte Rechtsdienstleistungen auf den Gebieten des Rechts des Herkunftsstaats des für die Berufsausübungsgesellschaft handelnden niedergelassenen ausländischen Rechtsanwalts und des Völkerrechts zu erbringen.
 
@@ -3714,7 +3774,7 @@ Für die Berufshaftpflichtversicherung gilt § 7 Absatz 1 und 2 des Gesetzes üb
 
 (6) Für Berufsausübungsgesellschaften, die ihren Sitz nicht in einem Mitgliedstaat der Welthandelsorganisation haben, gelten die Absätze 1 bis 3 und 5, wenn die Gegenseitigkeit mit dem Herkunftsstaat verbürgt ist. Die Rechtsdienstleistungsbefugnis nach Absatz 3 beschränkt sich auf das Gebiet des Rechts des Herkunftsstaats des für die Berufsausübungsgesellschaft handelnden niedergelassenen ausländischen Rechtsanwalts.
 
-(7) In der Bundesrepublik Deutschland nach den Absätzen 1 und 6 niedergelassene ausländische Berufsausübungsgesellschaften sind in die Verzeichnisse nach § 31 Absatz 4 einzutragen.
+(7) In der Bundesrepublik Deutschland nach den Absätzen 1 und 6 niedergelassene ausländische Berufsausübungsgesellschaften sind in die Verzeichnisse nach § 31 Absatz 4 einzutragen. § 31 Absatz 4 Nummer 6 ist mit der Maßgabe anzuwenden, dass nur Angaben zu solchen Gesellschaftern einzutragen sind, die zur Erbringung von Rechtsdienstleistungen in der Bundesrepublik Deutschland befugt sind.
 
 
 ## Dreizehnter Teil - Übergangs- und Schlussvorschriften
@@ -3728,7 +3788,7 @@ Ist durch Landesgesetz in Verfahren vor Schiedspersonen oder vor anderen Güte- 
 
 ### § 209 Kammermitgliedschaft von Inhabern einer Erlaubnis nach dem Rechtsberatungsgesetz
 
-(1) Natürliche Personen, die im Besitz einer uneingeschränkt oder unter Ausnahme lediglich des Sozial- oder Sozialversicherungsrechts erteilten Erlaubnis zur geschäftsmäßigen Rechtsbesorgung sind, sind auf Antrag in die für den Ort ihrer Niederlassung zuständige Rechtsanwaltskammer aufzunehmen. Sie dürfen im beruflichen Verkehr zugleich die Bezeichnung "Mitglied der Rechtsanwaltskammer" führen. Für die Entscheidung über den Antrag, die Rechtsstellung nach Aufnahme in die Rechtsanwaltskammer sowie die Aufhebung oder das Erlöschen der Erlaubnis gelten der Zweite Teil mit Ausnahme der §§ 4 und 12 Absatz 2 Nummer 1 und Absatz 4 sowie der §§ 12a und 17, der Dritte und Vierte Teil, der Vierte Abschnitt des Fünften Teils, der Sechste, Siebente, Zehnte, Elfte und Dreizehnte Teil dieses Gesetzes sinngemäß sowie die auf Grund von § 31d erlassene Rechtsverordnung. Der Erlaubnisinhaber kann auf besondere Kenntnisse in einem der in § 43c Abs. 1 Satz 2 genannten Gebiete durch den Zusatz "Fachgebiet" mit höchstens zwei der in § 43c Abs. 1 Satz 2 geregelten Gebiete hinweisen.
+(1) Natürliche Personen, die im Besitz einer uneingeschränkt oder unter Ausnahme lediglich des Sozial- oder Sozialversicherungsrechts erteilten Erlaubnis zur geschäftsmäßigen Rechtsbesorgung sind, sind auf Antrag in die für den Ort ihrer Niederlassung zuständige Rechtsanwaltskammer aufzunehmen. Sie dürfen im beruflichen Verkehr zugleich die Bezeichnung "Mitglied der Rechtsanwaltskammer" führen. Für die Entscheidung über den Antrag, die Rechtsstellung nach Aufnahme in die Rechtsanwaltskammer sowie die Aufhebung oder das Erlöschen der Erlaubnis gelten der Zweite Teil mit Ausnahme der §§ 4 und 12 Absatz 2 Nummer 1 und Absatz 4 sowie des § 12a, der Dritte und Vierte Teil, der Vierte Abschnitt des Fünften Teils, der Sechste, Siebente, Zehnte, Elfte und Dreizehnte Teil dieses Gesetzes sinngemäß sowie die auf Grund von § 31d erlassene Rechtsverordnung. Der Erlaubnisinhaber kann auf besondere Kenntnisse in einem der in § 43c Abs. 1 Satz 2 genannten Gebiete durch den Zusatz "Fachgebiet" mit höchstens zwei der in § 43c Abs. 1 Satz 2 geregelten Gebiete hinweisen.
 
 (2) Die Aufnahme in die Rechtsanwaltskammer wird auf Antrag des Erlaubnisinhabers widerrufen. Die Entscheidung über den Widerruf wird ausgesetzt, solange gegen den Erlaubnisinhaber ein anwaltsgerichtliches Verfahren schwebt.
 
@@ -3766,6 +3826,10 @@ Am 1. September 2009 bestehende Rechtsanwaltskammern, die ihren Sitz nicht am Or
 (1) Die Befähigung zur anwaltlichen Tätigkeit besitzen auch Personen, die bis zum 9. September 1996 die fachlichen Voraussetzungen für die Zulassung zur Rechtsanwaltschaft nach § 4 des Rechtsanwaltsgesetzes vom 13. September 1990 (GBl. I Nr. 61 S. 1504) erfüllt haben.
 
 (2) Rechtsanwälte, die schon nach dem Rechtsanwaltsgesetz vom 13. September 1990 zugelassen waren oder die auf Grundlage des Absatzes 1 zugelassen sind, erfüllen die Voraussetzung der Befähigung zum Richteramt gemäß § 93 Abs. 1 Satz 3 und § 101 Abs. 1 Satz 2.
+
+
+### § 212 (weggefallen)
+
 
 (zu § 59a Absatz 4 Satz 1)
 

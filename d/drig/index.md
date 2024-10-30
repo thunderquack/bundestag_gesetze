@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 20.12.2023 I Nr. 389
 
 Änderung durch
-:   Art. 9 G v. 22.10.2024 I Nr. 320 mWv 26.10.2024 noch nicht berücksichtigt
+:   Art. 9 G v. 22.10.2024 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Teil 1 - Richteramt in Bund und Ländern
@@ -1614,7 +1614,9 @@ Wer am 1. Juli 2003 zum Richteramt befähigt ist, behält diese Befähigung.
 
 (1) Personen, die ein rechtswissenschaftliches Universitätsdiplom besitzen, das in einem Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz erworben wurde und dort den Zugang zur postuniversitären Ausbildung für den Beruf des europäischen Rechtsanwalts gemäß § 1 des Gesetzes über die Tätigkeit europäischer Rechtsanwälte in Deutschland eröffnet, werden auf Antrag zum Vorbereitungsdienst zugelassen, wenn ihre Kenntnisse und Fähigkeiten den durch die bestandene staatliche Pflichtfachprüfung nach § 5 Absatz 1 bescheinigten Kenntnissen und Fähigkeiten entsprechen.
 
-(2) Die Prüfung der nach Absatz 1 erforderlichen Kenntnisse und Fähigkeiten erstreckt sich auf das Universitätsdiplom und die vorgelegten Nachweise, insbesondere Diplome, Prüfungszeugnisse, sonstige Befähigungsnachweise und Nachweise über einschlägige Berufserfahrung. Ergibt die Prüfung keine oder nur eine teilweise Gleichwertigkeit, wird auf Antrag eine Eignungsprüfung durchgeführt.
+(1a) Absatz 1 gilt entsprechend für Staatsangehörige eines Mitgliedstaates der Europäischen Union, eines anderen Vertragsstaates des Europäischen Wirtschaftsraums oder der Schweiz, die vor dem 1. Januar 2021 im Vereinigten Königreich ein rechtswissenschaftliches Diplom erworben haben, das dort den Zugang zur postuniversitären Ausbildung für die Berufe „Advocate“, „Barrister“ oder „Solicitor“ eröffnet.
+
+(2) Die Prüfung der nach Absatz 1 oder Absatz 1a erforderlichen Kenntnisse und Fähigkeiten erstreckt sich auf das Universitätsdiplom und die vorgelegten Nachweise, insbesondere Diplome, Prüfungszeugnisse, sonstige Befähigungsnachweise und Nachweise über einschlägige Berufserfahrung. Ergibt die Prüfung keine oder nur eine teilweise Gleichwertigkeit, wird auf Antrag eine Eignungsprüfung durchgeführt.
 
 (3) Die Eignungsprüfung ist eine in deutscher Sprache abzulegende staatliche Prüfung, die die notwendigen Kenntnisse im deutschen Recht betrifft und mit der die Fähigkeit beurteilt werden soll, den juristischen Vorbereitungsdienst erfolgreich abzuschließen. Prüfungsfächer sind das Zivilrecht, das Strafrecht und das Öffentliche Recht einschließlich des jeweils dazugehörigen Verfahrensrechts. Es sind die schriftlichen Prüfungsarbeiten der staatlichen Pflichtfachprüfung in denjenigen der in Satz 2 genannten Rechtsgebieten anzufertigen, deren hinreichende Beherrschung nicht bereits im Rahmen der Prüfung nach Absatz 2 Satz 1 nachgewiesen wurde.
 
@@ -1631,7 +1633,7 @@ Sofern die hinreichende Beherrschung eines der in Absatz 3 Satz 2 genannten Rech
 
 (5) Eine nicht bestandene Eignungsprüfung kann einmal wiederholt werden.
 
-(6) Die Feststellung der Gleichwertigkeit nach Absatz 1 hat die Wirkung einer bestandenen ersten Prüfung im Sinne des § 5 Abs. 1.
+(6) Die Feststellung der Gleichwertigkeit nach Absatz 1 oder Absatz 1a hat die Wirkung einer bestandenen ersten Prüfung im Sinne des § 5 Abs. 1.
 
 (7) Zuständig für die Gleichwertigkeitsprüfung einschließlich der Eignungsprüfung sind die Landesjustizverwaltungen oder die sonstigen nach Landesrecht für die Abnahme der staatlichen Pflichtfachprüfung zuständigen Stellen. Für die Durchführung dieser Prüfungen können mehrere Länder durch Vereinbarung ein gemeinsames Prüfungsamt bilden.
 

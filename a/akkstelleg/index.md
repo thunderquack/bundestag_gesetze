@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 12 G v. 20.12.2022 I 2752
 
+Änderung durch
+:   Art. 47 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Akkreditierung
 

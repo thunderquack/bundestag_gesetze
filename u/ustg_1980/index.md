@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 22 G v. 15.7.2024 I Nr. 236
 
+Änderung durch
+:   Art. 5 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Steuergegenstand und Geltungsbereich
 

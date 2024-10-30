@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 20.5.2021 I 1194; 2022 I 15
 
+Änderung durch
+:   Art. 40 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 4 G v. 23.10.2024 I Nr. 324 mWv 1.7.2025 noch nicht berücksichtigt
+
 Mittelbare änderung durch
 :   Art. 7 G v. 20.5.2021 I 1194 ist berücksichtigt
 

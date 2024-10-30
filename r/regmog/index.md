@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 19.7.2024 I Nr. 246
 
+Änderung durch
+:   Art. 2 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt
+
 Stand: Bek. v 12.10.2023 I Nr 293 ist berücksichtigt
 Stand: Bek. v. 25.9.2024 I Nr. 292 ist berücksichtigt
 

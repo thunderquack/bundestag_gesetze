@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 7 G v. 27.3.2024 I Nr. 107
 
+Änderung durch
+:   Art. 57 G v. 23.10.2024 I Nr. 323 mWv 1.11.2024 bzw. 1.5.2025 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Elterngeld
 

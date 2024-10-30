@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 1638
 
+G aufgeh. durch
+:   Art. 42 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025
+
 Zuletzt geändert durch
 :   Art. 328 V v. 31.8.2015 I 1474
 

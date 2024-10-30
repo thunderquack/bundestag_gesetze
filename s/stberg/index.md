@@ -27,6 +27,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 7 G v. 22.10.2024 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 32 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## Erster Teil - Vorschriften über die Hilfeleistung in Steuersachen
 

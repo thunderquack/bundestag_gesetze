@@ -19,6 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 8.10.2023 I Nr. 271
 
+Änderung durch
+:   Art. 6 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt
+
+Stand: Mittelbare Änderung gem. Art. 2 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 

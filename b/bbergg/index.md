@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 22.3.2023 I Nr. 88
 
+Änderung durch
+:   Art. 39 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -394,7 +397,7 @@ Die zuständige Behörde hat vor der Entscheidung über den Antrag den Behörden
 
 ##### § 16 Form, Inhalt und Nebenbestimmungen
 
-(1) Erlaubnis und Bewilligung bedürfen der Schriftform; die elektronische Form ist ausgeschlossen. Sie sind für ein bestimmtes Feld und für bestimmte Bodenschätze zu erteilen. Das gleiche gilt für Bergwerkseigentum. Die Erlaubnis ist als Erlaubnis zur Aufsuchung zu gewerblichen oder zu wissenschaftlichen Zwecken oder als Erlaubnis zur großräumigen Aufsuchung zu bezeichnen.
+(1) Erlaubnis und Bewilligung bedürfen der Schriftform. Sie sind für ein bestimmtes Feld und für bestimmte Bodenschätze zu erteilen. Das gleiche gilt für Bergwerkseigentum. Die Erlaubnis ist als Erlaubnis zur Aufsuchung zu gewerblichen oder zu wissenschaftlichen Zwecken oder als Erlaubnis zur großräumigen Aufsuchung zu bezeichnen.
 
 (2) Ein Erlaubnisfeld kann abweichend vom Antrag festgesetzt werden, soweit dies erforderlich ist, um eine Gefährdung der Wettbewerbslage der Bodenschätze aufsuchenden Unternehmen abzuwehren oder die Aufsuchung von Lagerstätten zu verbessern.
 

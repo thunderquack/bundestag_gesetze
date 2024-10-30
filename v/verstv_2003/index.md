@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 101 G v. 29.3.2017 I 626
 
+Änderung durch
+:   Art. 16 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 
 ## § 1 Versteigerungsauftrag

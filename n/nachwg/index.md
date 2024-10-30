@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 20.7.2022 I 1174
 
+Änderung durch
+:   Art. 50 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## § 1 Anwendungsbereich
 

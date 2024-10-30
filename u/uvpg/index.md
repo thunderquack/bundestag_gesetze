@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 13 G v. 8.5.2024 I Nr. 151
 
+Änderung durch
+:   Art. 10 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Dieses Gesetz dient der Umsetzung der Richtlinie 2011/92/EU des Europäischen Parlaments und des Rates vom 13. Dezember 2011 über die Umweltverträglichkeitsprüfung bei bestimmten öffentlichen und privaten Projekten in der Fassung der Richtlinie 2014/52/EU (ABl. L 124 vom 25.4.2014, S. 1) und der Richtlinie 2001/42/EG des Europäischen Parlaments und des Rates vom 27. Juni 2001 über die Prüfung der Umweltauswirkungen bestimmter Pläne und Programme (ABl. L 197 vom 21.7.2001, S. 30).
 
 
@@ -3948,6 +3951,29 @@ Nachstehende Vorhaben fallen nach § 1 Absatz 1 Nummer 1 in den Anwendungsbereic
 
     *
     *   **A**
+
+
+*    *   **10.8**
+
+    *   Errichtung und Betrieb einer Anlage zur Wasserelektrolyse zur Erzeugung von Wasserstoff sowie Sauerstoff, ausgenommen integrierte chemische Anlagen nach Nummer 4.1, mit einer elektrischen Nennleistung von
+
+    *
+    *
+
+*    *   10.8.1
+
+    *   50 MW oder mehr
+
+    *
+    *   **A**
+
+
+*    *   10.8.2
+
+    *   5 MW bis weniger als 50 MW
+
+    *
+    *   **S**
 
 
 *    *   **11.**

@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 87 G v. 29.3.2017 I 626
 
+Änderung durch
+:   Art. 58 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Beginn und Ende des Anspruchs
 

@@ -1,7 +1,7 @@
 ---
 Title: Verordnung über das Verfahren zur Zusammenarbeit der Bundesoberbehörden und
-  der registrierten Ethik-Kommissionen bei der Bewertung von Anträgen auf Genehmigung
-  von klinischen Prüfungen mit Humanarzneimitteln
+  der Ethik-Kommissionen bei der Bewertung von Anträgen auf Genehmigung von klinischen
+  Prüfungen mit Humanarzneimitteln
 jurabk: KPBV
 layout: default
 origslug: kpbv
@@ -9,7 +9,7 @@ slug: kpbv
 
 ---
 
-# Verordnung über das Verfahren zur Zusammenarbeit der Bundesoberbehörden und der registrierten Ethik-Kommissionen bei der Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit Humanarzneimitteln (KPBV)
+# Verordnung über das Verfahren zur Zusammenarbeit der Bundesoberbehörden und der Ethik-Kommissionen bei der Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit Humanarzneimitteln (KPBV)
 
 Ausfertigungsdatum
 :   2017-07-12
@@ -18,6 +18,12 @@ Fundstelle
 :   BGBl I: 2017, 2333
 
 Stand: Die §§ 5 bis 12 sind gem. Art. 13 Abs. 2 u. 3 G v. 12.7.2017 I 2333 iVm Bek. v. 7.10.2021 I 4648 mWv 31.1.2022 in Kraft getreten.
+Änderung durch
+:   Art. 7 G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 8 G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^BJNR233300017_01]:     Diese Verordnung dient der Durchführung der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1; L 311 vom 17.11.2016, S. 25).
 
 
@@ -31,7 +37,7 @@ Auf Grund des § 41b Absatz 1 des Arzneimittelgesetzes, der durch Artikel 1 Numm
 
 ### § 1 Anwendungsbereich
 
-(1) Diese Verordnung regelt das Verfahren bei der Bearbeitung von Anträgen auf die Genehmigung von klinischen Prüfungen bei Menschen im Sinne des Artikels 2 Absatz 2 Nummer 2 der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1; L 311 vom 17.11.2016, S. 25), die Zusammenarbeit zwischen der zuständigen Bundesoberbehörde und der nach dem Geschäftsverteilungsplan gemäß § 41b Absatz 2 des Arzneimittelgesetzes zuständigen registrierten Ethik-Kommission (zuständige Ethik-Kommission), die Registrierung von öffentlich-rechtlichen Ethik-Kommissionen der Länder für das Bewertungsverfahren und die Festlegung der Gebühren- und Rahmensätze für die Stellungnahmen und Bewertungsberichte der zuständigen Ethik-Kommission.
+(1) Diese Verordnung regelt das Verfahren bei der Bearbeitung von Anträgen auf die Genehmigung von klinischen Prüfungen bei Menschen im Sinne des Artikels 2 Absatz 2 Nummer 2 der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1; L 311 vom 17.11.2016, S. 25), die Zusammenarbeit zwischen der zuständigen Bundesoberbehörde und der nach den Geschäftsverteilungsplänen gemäß § 41b Absatz 2 oder nach § 41c Absatz 3 des Arzneimittelgesetzes zuständigen Ethik-Kommission (zuständige Ethik-Kommission), die Registrierung von öffentlich-rechtlichen Ethik-Kommissionen der Länder für das Bewertungsverfahren und die Festlegung der Gebühren- und Rahmensätze für die Stellungnahmen und Bewertungsberichte der zuständigen Ethik-Kommission.
 
 (2) Die zuständige Bundesoberbehörde und die zuständige Ethik-Kommission arbeiten bei der Wahrnehmung der Aufgaben nach der Verordnung (EU) Nr. 536/2014 zusammen. Sie wirken gemeinsam auf ein effektives Verwaltungsverfahren hin. Insbesondere stellt die zuständige Bundesoberbehörde sicher, dass die zuständige Ethik-Kommission mit dem Eingang eines Antrags im EU-Portal nach Artikel 80 der Verordnung (EU) Nr. 536/2014, bei dem die Bundesrepublik Deutschland berichterstattender oder betroffener Mitgliedstaat der Europäischen Union ist, unverzüglich, spätestens jedoch am folgenden Werktag, nach Maßgabe des Geschäftsverteilungsplans festgestellt und zeitgleich hierüber sowie über den Antragseingang unterrichtet wird sowie zugleich Zugriff auf die für die Wahrnehmung ihrer Aufgaben notwendigen Angaben und Unterlagen erhält. Satz 3 gilt für den Eingang von ergänzenden Antragsunterlagen oder antragsbezogenen Informationen des Sponsors, den Eingang einer Entscheidung, eines Bewertungsberichts oder einer sonstigen antragsbezogenen Mitteilung des berichterstattenden Mitgliedstaats der Europäischen Union im EU-Portal nach Artikel 80 der Verordnung (EU) Nr. 536/2014 entsprechend.
 
@@ -93,7 +99,7 @@ Der Antrag auf Registrierung als Ethik-Kommission zur Teilnahme an dem Verfahren
 
 ### § 6 Prüfung der nach Artikel 6 der Verordnung (EU) Nr. 536/2014 in Teil I des Bewertungsberichts zu behandelnden Aspekte
 
-(1) Ist die Bundesrepublik Deutschland berichterstattender Mitgliedstaat der Europäischen Union und ist kein anderer Mitgliedstaat der Europäischen Union an dem Verfahren zur Genehmigung der klinischen Prüfung bei Menschen beteiligt, soll die zuständige Ethik-Kommission die Stellungnahme nach § 40 Absatz 4 Satz 2 des Arzneimittelgesetzes innerhalb von 21 Tagen ab dem Tag der Validierung im Sinne von Artikel 5 Absatz 6 der Verordnung (EU) Nr. 536/2014 an die zuständige Bundesoberbehörde übermitteln. Die Stellungnahme muss spätestens am 40. Tag nach dem Tag der Validierung im Sinne von Artikel 5 Absatz 6 der Verordnung (EU) Nr. 536/2014 bei der zuständigen Bundesoberbehörde eingehen.
+(1) Ist die Bundesrepublik Deutschland berichterstattender Mitgliedstaat der Europäischen Union und ist kein anderer Mitgliedstaat der Europäischen Union an dem Verfahren zur Genehmigung der klinischen Prüfung bei Menschen beteiligt, übermittelt die zuständige Ethik-Kommission die Stellungnahme nach § 40 Absatz 4 Satz 2 des Arzneimittelgesetzes innerhalb von 21 Tagen ab dem Tag der Validierung im Sinne von Artikel 5 Absatz 6 der Verordnung (EU) Nr. 536/2014 an die zuständige Bundesoberbehörde.
 
 (2) Ist die Bundesrepublik Deutschland berichterstattender Mitgliedstaat der Europäischen Union und ist mindestens ein weiterer Mitgliedstaat der Europäischen Union an dem Verfahren zur Genehmigung einer klinischen Prüfung bei Menschen beteiligt, übermittelt die zuständige Ethik-Kommission die Stellungnahme nach § 40 Absatz 4 Satz 2 des Arzneimittelgesetzes innerhalb von 21 Tagen ab dem Tag der Validierung im Sinne von Artikel 5 Absatz 6 der Verordnung (EU) Nr. 536/2014 an die zuständige Bundesoberbehörde.
 
@@ -115,6 +121,8 @@ Der Antrag auf Registrierung als Ethik-Kommission zur Teilnahme an dem Verfahren
 (1) Die zuständige Ethik-Kommission kann den Sponsor nach Artikel 7 Absatz 2 Unterabsatz 2, Absatz 3 Unterabsatz 5 der Verordnung (EU) Nr. 536/2014 um zusätzliche Informationen zu den in Teil II des Bewertungsberichts zu behandelnden Aspekten ersuchen.
 
 (2) Die zuständige Ethik-Kommission übermittelt der zuständigen Bundesoberbehörde für die Erstellung der Entscheidung nach Artikel 8 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 536/2014 elektronisch ein klares Votum im Sinne einer Zustimmung, einer Zustimmung mit Auflagen im Sinne des Artikels 8 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 536/2014 oder einer Ablehnung der Vertretbarkeit der Durchführung der klinischen Prüfung bei Menschen zu den in Teil II des Bewertungsberichts zu behandelnden Aspekten sowie eine entsprechende Begründung.
+
+(3) Ist die Bundesrepublik Deutschland berichterstattender Mitgliedstaat der Europäischen Union und ist kein weiterer Mitgliedstaat der Europäischen Union an dem Verfahren zur Genehmigung der klinischen Prüfung bei Menschen beteiligt, übermittelt die zuständige Ethik-Kommission das in Absatz 2 genannte Votum innerhalb von 26 Tagen ab dem Tag der Validierung im Sinne von Artikel 5 Absatz 6 der Verordnung (EU) Nr. 536/2014 oder, im Fall eines in Absatz 1 genannten Ersuchens, innerhalb von acht Tagen ab dem Tag des Eingangs der Stellungnahme des Sponsors an die zuständige Bundesoberbehörde. Entscheidend ist jeweils das spätere Fristende.
 
 
 ### § 8 Hinzufügung eines zusätzlichen Mitgliedstaats der Europäischen Union
@@ -170,8 +178,7 @@ Die zuständige Bundesoberbehörde informiert die zuständige Ethik-Kommission �
 
 (1) Der zuständigen Ethik-Kommission stehen die nach dem in der Anlage 3 zu § 12 enthaltenen Gebührenverzeichnis festgelegten Gebühren und Rahmensätze im Zusammenhang mit klinischen Prüfungen bei Menschen zu.
 
-(2) Im Übrigen gelten für die zuständigen Ethik-
-Kommissionen              die gebührenrechtlichen Regelungen der Länder.
+(2) Im Übrigen gelten für die zuständigen Ethik-Kommissionen der Länder die gebührenrechtlichen Regelungen der Länder.
 
 (3) Die zuständige Bundesoberbehörde überweist den auf der Grundlage von § 40 Absatz 6 Satz 2 des Arzneimittelgesetzes für die zuständige Ethik-Kommission vereinnahmten Betrag innerhalb von 21 Tagen nach seiner Vereinnahmung und nach Eintritt der Bestandskraft des Gebührenbescheides über die Gesamtgebühr an den Träger der zuständigen Ethik-Kommission.
 
@@ -853,12 +860,12 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage 3 Verzeichnis über die Höhe der Gebühren der Ethik-Kommissionen
 
-(Fundstelle: BGBl. I 2017, 2343)
+(Fundstelle: Fundstelle: BGBl. 2024 I Nr. 324, S. 27 – 28)
 
 
 *    *   Nummer
 
-    *   Gebührenpflichtige individuell zurechenbare öffentliche Leistung
+    *   Gebührenpflichtige Leistung
 
     *   Gebühr in Euro
 
@@ -871,44 +878,53 @@ Der Bundesrat hat zugestimmt.
 
 *    *   1.1
 
-    *   Mononationale klinische Prüfung bei Menschen oder multinationale klinische Prüfung bei Menschen mit der Bundesrepublik Deutschland als betroffenem Mitgliedstaat der Europäischen Union
+    *   Mononationale klinische Prüfung oder multinationale klinische Prüfung mit der Bundesrepublik Deutschland als betroffenem Mitgliedstaat der Europäischen Union
 
-    *   2 400
+    *   2 700
 
 
 *    *   1.1.1
 
     *   Prüfpläne mit integriertem Studienprotokoll für jede zusätzliche Teilstudie
 
-    *   800 bis 2 400
+    *   2 000
 
 
 *    *   1.2
 
-    *   Multinationale klinische Prüfung bei Menschen mit der Bundesrepublik Deutschland als berichterstattendem Mitgliedstaat der Europäischen Union
+    *   Multinationale klinische Prüfung mit der Bundesrepublik Deutschland als berichterstattendem Mitgliedstaat der Europäischen Union
 
-    *   3 300
+    *   3 650
 
 
 *    *   1.2.1
 
     *   Prüfpläne mit integrierten Studienprotokollen für jede zusätzliche Teilstudie
 
-    *   800 bis 3 300
+    *   2 500
 
 
 *    *   1.3
 
-    *   Erneute Bewertung bei späterer Hinzuziehung eines betroffenen Mitgliedstaats der Europäischen Union bei einer klinischen Prüfung bei Menschen mit der Bundesrepublik Deutschland als berichterstattendem Mitgliedstaat der Europäischen Union
+    *   Erneute Bewertung bei späterer Hinzuziehung eines betroffenen Mitgliedstaats der Europäischen Union bei einer klinischen Prüfung mit der Bundesrepublik Deutschland als berichterstattendem Mitgliedstaat der Europäischen Union
 
-    *   1 600
+    *   1 800
 
 
 *    *   1.4
 
-    *   Erneute Bewertung bei späterer Hinzuziehung eines zusätzlichen betroffenen Mitgliedstaats der Europäischen Union bei einer klinischen Prüfung bei Menschen mit der Bundesrepublik Deutschland als betroffenem Mitgliedstaat der Europäischen Union
+    *   Erneute Bewertung bei späterer Hinzuziehung eines zusätzlichen betroffenen Mitgliedstaats der Europäischen Union bei einer klinischen Prüfung mit der Bundesrepublik Deutschland als betroffenem Mitgliedstaat der Europäischen Union
 
-    *   1 400
+    *   1 600
+
+
+*    *   1.5
+
+    *   Erhöhung der jeweiligen Gebühr nach den Nummern 1.1 bis 1.4 bei Arzneimitteln für neuartige Therapien
+
+    *   jeweils auf
+        das 1,3-fache
+        der Gebühr
 
 
 *    *   **2**
@@ -921,56 +937,56 @@ Der Bundesrat hat zugestimmt.
 
     *   Bewertung von Teil II und Erstellung des Bewertungsberichts bei gleichzeitiger Einreichung mit Teil I ohne Prüfer und Prüfstellen
 
-    *   2 200
+    *   2 700
 
 
 *    *   2.1.1
 
     *   Bewertung von Teil II und Erstellung des Bewertungsberichts bei getrennter Einreichung von Teil I ohne Prüfer und Prüfstellen
 
-    *   2 800
+    *   3 800
 
 
 *    *   2.2
 
-    *   Einmalige Bewertung der grundsätzlichen Anforderungen an die Eignung der an der klinischen Prüfung bei Menschen mitwirkenden Personen
+    *   Einmalige Bewertung der grundsätzlichen Anforderungen an die Eignung der an der klinischen Prüfung mitwirkenden Personen
 
-    *   300
+    *   400
 
 
 *    *   2.2.1
 
     *   Bewertung des einzelnen Prüfers
 
-    *   55
+    *   65
 
 
 *    *   2.2.2
 
     *   Je Nachforderung zur Bewertung des einzelnen Prüfers
 
-    *   50
+    *   55
 
 
 *    *   2.3
 
     *   Einmalige Bewertung der grundsätzlichen Anforderungen an die Eignung der Prüfstelle
 
-    *   300
+    *   400
 
 
 *    *   2.3.1
 
     *   Bewertung der einzelnen Prüfstelle
 
-    *   100
+    *   150
 
 
 *    *   2.3.2
 
     *   Je Nachforderung zur Bewertung der einzelnen Prüfstelle
 
-    *   50
+    *   55
 
 
 *    *   **3**
@@ -987,66 +1003,186 @@ Der Bundesrat hat zugestimmt.
 
 *    *   3.1.1
 
-    *   Mononationale klinische Prüfung bei Menschen oder multinationale klinische Prüfung bei Menschen mit der Bundesrepublik Deutschland als betroffenem Mitgliedstaat der Europäischen Union
+    *   Mononationale klinische Prüfung oder multinationale klinische Prüfung mit der Bundesrepublik Deutschland als betroffenem Mitgliedstaat der Europäischen Union
 
-    *   300 bis 1 800
+    *   1 500
 
 
 *    *   3.1.2
 
-    *   Multinationale klinische Prüfung bei Menschen mit der Bundesrepublik Deutschland als berichterstattendem Mitgliedstaat der Europäischen Union
+    *   Multinationale klinische Prüfung mit der Bundesrepublik Deutschland als berichterstattendem Mitgliedstaat der Europäischen Union
 
-    *   500 bis 2 500
+    *   2 000
 
 
 *    *   3.2
 
     *   Wesentliche Änderung zu Teil II
 
-    *   300 bis 900
+    *
+
+*    *   3.2.1
+
+    *   Hinzufügung oder Änderung einer Prüfstelle
+
+    *   150
+
+
+*    *   3.2.2
+
+    *   Änderung des Hauptprüfers einer Prüfstelle
+
+    *   65
+
+
+*    *   3.2.3
+
+    *   Sonstige inhaltliche substantielle Änderung
+
+    *   1 150
 
 
 *    *   **4**
+
+    *   **Prüfung einer nicht genehmigungspflichtigen Änderung zu Teil II durch**
+
+    *   nach Zeitaufwand
+        anhand der
+        folgenden
+        Stundensätze:
+
+
+*    *
+    *   a) Verwaltungsmitarbeiter
+
+    *   zu a) 76
+
+
+*    *
+    *   b) Wissenschaftlicher Mitarbeiter
+
+    *   zu b) 96
+
+
+*    *
+    *   c) Hochschullehrer
+
+    *   zu c) 126
+
+
+*    *   **5**
 
     *   **Beteiligung eines externen Sachverständigen für die Bewertung nach Artikel 6 Absatz 7 oder Artikel 18 Absatz 5 der Verordnung (EU) Nr. 536/2014**
 
     *   500
 
 
-*    *   **5**
+*    *   **6**
 
     *   **Bewertung Jahresbericht**
 
-    *   1 100
+    *   1 250
 
 
-*    *   **6**
+*    *   **7**
 
-    *   **Wissenschaftliche Beratung vor Antragstellung**
+    *   **Wissenschaftliche Beratung vor Antragstellung durch**
 
-    *   je Mitarbeiter
-        je Stunde
-
-
-*    *   6.1
-
-    *   Verwaltungsmitarbeiter
-
-    *   60
+    *   nach Zeitaufwand anhand der
+        folgenden
+        Stundensätze:
 
 
-*    *   6.2
+*    *
+    *   a) Verwaltungsmitarbeiter
 
-    *   Wissenschaftlicher Mitarbeiter
-
-    *   90
+    *   zu a) 76
 
 
-*    *   6.3
+*    *
+    *   b) Wissenschaftliche Mitarbeiter
 
-    *   Hochschullehrer
+    *   zu b) 96
 
-    *   105
+
+*    *
+    *   c) Hochschullehrer
+
+    *   zu c) 126
+
+
+*    *   **8**
+
+    *   **Stellungnahme zu Korrekturmaßnahmen durch**
+
+    *   nach Zeitaufwand
+        anhand der
+        folgenden
+        Stundensätze:
+
+
+*    *
+    *   a) Verwaltungsmitarbeiter
+
+    *   zu a) 76
+
+
+*    *
+    *   b) Wissenschaftliche Mitarbeiter
+
+    *   zu b) 96
+
+
+*    *
+    *   c) Hochschullehrer
+
+    *   zu c) 126
+
+
+*    *   **9**
+
+    *   **Ermäßigung der jeweils vorgesehenen Gebühr, wenn ein Antrag zurückgenommen wird oder als hinfällig nach der Verordnung (EU) Nr. 536/2014 gilt**
+
+    *
+
+*    *   9.1
+
+    *   bis zum Abschluss der Validierung
+
+    *   um 50 Prozent
+
+
+*    *   9.2
+
+    *   nach Abschluss der Validierung bis zum Abschluss der Bewertung
+
+    *   um 25 Prozent
+
+
+*    *   **10**
+
+    *   **Bewertung eines im EU-Portal nach Artikel 80 der Verordnung (EU) Nr. 536/2014 als „Transitional trial“ gekennzeichneten Antrags auf Genehmigung einer klinischen Prüfung nach der Verordnung (EU) Nr. 536/2014**
+
+    *
+
+*    *   10.1
+
+    *   durch eine Ethik-Kommission, die nicht für die zustimmende Bewertung der klinischen Prüfung nach § 42 Absatz 1 Satz 1 und 2 des Arzneimittelgesetzes in der bis zum 26. Januar 2022 geltenden Fassung zuständig war
+
+    *   50 Prozent der
+        nach Nummer 1
+        oder Nummer 2
+        jeweils vorgesehenen Gebühr
+
+
+*    *   10.2
+
+    *   durch die Ethik-Kommission, die bereits für die zustimmende Bewertung der klinischen Prüfung nach § 42 Absatz 1 Satz 1 und 2 des Arzneimittelgesetzes in der bis zum 26. Januar 2022 geltenden Fassung zuständig war
+
+    *   30 Prozent der
+        nach Nummer 1
+        oder Nummer 2
+        jeweils vorgesehenen Gebühr
 
 
 

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2b G v. 19.7.2023 I Nr. 197
 
+Änderung durch
+:   Art. 5 G v. 23.10.2024 I Nr. 324 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## § 1 Anspruch auf Abschläge
 

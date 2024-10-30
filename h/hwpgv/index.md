@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 164
 
+V aufgeh. durch
+:   Art. 73 G v. 23.20.2024 I Nr. 323 mWv 1.1.2025
+
 Geändert durch
 :   Änderungsvorschrift v. 22.3.1991 I 766
 

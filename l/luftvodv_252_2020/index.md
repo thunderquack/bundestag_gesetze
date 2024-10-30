@@ -1,7 +1,7 @@
 ---
-Title: Zweihundertzweiundfünfzigste Durchführungsverordnung des Bundesaufsichtsamtes
-  für Flugsicherung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An-
-  und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Haßfurt-Schweinfurt)
+Title: Zweihundertzweiundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
+  (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
+  und vom Verkehrslandeplatz Haßfurt-Schweinfurt)
 jurabk: LuftVODV 252 2020
 layout: default
 origslug: luftvodv_252_2020
@@ -9,7 +9,7 @@ slug: luftvodv_252_2020
 
 ---
 
-# Zweihundertzweiundfünfzigste Durchführungsverordnung des Bundesaufsichtsamtes für Flugsicherung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Haßfurt-Schweinfurt) (LuftVODV 252 2020)
+# Zweihundertzweiundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Haßfurt-Schweinfurt) (LuftVODV 252 2020)
 
 Ausfertigungsdatum
 :   2019-12-05

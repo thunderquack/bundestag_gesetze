@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1986, 860
 
+V aufgeh. durch
+:   Art. 72 Abs. 3 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025
+
 Zuletzt geändert durch
 :   Art. 58 V v. 2.6.2016 I 1257
 
