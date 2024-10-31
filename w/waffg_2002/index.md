@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 228 V v. 19.6.2020 I 1328
 
+Änderung durch
+:   Art. 5 G v. 25.10.2024 I Nr. 332 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
 
@@ -116,7 +119,9 @@ Die nach Landesrecht zuständigen Behörden sind vor der Entscheidung zu hören.
 
 (4) Die zuständige Behörde hat das Fortbestehen des Bedürfnisses bei Inhabern einer waffenrechtlichen Erlaubnis alle fünf Jahre erneut zu überprüfen.
 
-(5) Zur Erforschung des Sachverhalts kann die zuständige Behörde in begründeten Einzelfällen das persönliche Erscheinen des Antragstellers oder des Erlaubnisinhabers verlangen.
+(5) Zur Erforschung des Sachverhalts kann die zuständige Behörde in begründeten Einzelfällen das persönliche Erscheinen des Antragstellers oder des Erlaubnisinhabers verlangen. Ein begründeter Einzelfall liegt insbesondere vor, wenn Tatsachen Zweifel an der Zuverlässigkeit oder persönlichen Eignung begründen. Anhaltspunkte hierfür können sich beispielsweise aus dem Schriftverkehr oder aus Telefonaten des Antragstellers oder des Erlaubnisinhabers mit der zuständigen Behörde oder aus allgemein zugänglichen Quellen ergeben.
+
+(6) Zur Erforschung des Sachverhalts ist die zuständige Behörde befugt, in öffentlich zugänglichen Quellen zu recherchieren und diese Erkenntnisse insbesondere in die Prüfung nach den §§ 5 und 6 einfließen zu lassen.
 
 
 #### § 5 Zuverlässigkeit
@@ -125,11 +130,13 @@ Die nach Landesrecht zuständigen Behörden sind vor der Entscheidung zu hören.
 
 1.  die rechtskräftig verurteilt worden sind
 
-    a)  wegen eines Verbrechens oder
+    a)  wegen eines Verbrechens,
 
 
-    b)  wegen sonstiger vorsätzlicher Straftaten zu einer Freiheitsstrafe von mindestens einem Jahr,
+    b)  wegen sonstiger vorsätzlicher Straftaten zu einer Freiheitsstrafe von mindestens einem Jahr oder
 
+
+    c)  zu einer Freiheitsstrafe oder Geldstrafe von mindestens 90 Tagessätzen wegen einer Straftat nach den §§ 80a, 83 Absatz 2, § 84 Absatz 1 bis 3, § 85 Absatz 1 Satz 1 und Absatz 2, § 87 Absatz 1, § 88 Absatz 1, § 89 Absatz 1, § 89a Absatz 1 bis 3, § 89b Absatz 1, § 89c Absatz 1 und 2, § 91 Absatz 1, § 95 Absatz 1, § 96 Absatz 2 oder § 97b des Strafgesetzbuches, nach § 98 des Strafgesetzbuches, soweit nicht ein Fall des § 98 Absatz 2 des Strafgesetzbuches vorliegt, nach § 99 Absatz 2 des Strafgesetzbuches, soweit nicht ein Fall des § 99 Absatz 3 des Strafgesetzbuches vorliegt, nach § 100 Absatz 1 in Verbindung mit Absatz 4 des Strafgesetzbuches oder nach den §§ 129, § 129a Absatz 3 und 5 des Strafgesetzbuches, auch in Verbindung mit § 129b Absatz 1 des Strafgesetzbuches,
 
 
 
@@ -227,14 +234,14 @@ Die nach Landesrecht zuständigen Behörden sind vor der Entscheidung zu hören.
 2.  die Auskunft aus dem zentralen staatsanwaltschaftlichen Verfahrensregister hinsichtlich der in Absatz 2 Nummer 1 genannten Straftaten;
 
 
-3.  die Stellungnahme der örtlichen Polizeidienststelle, ob Tatsachen bekannt sind, die Bedenken gegen die Zuverlässigkeit begründen; die örtliche Polizeidienststelle schließt in ihre Stellungnahme das Ergebnis der von ihr vorzunehmenden Prüfung nach Absatz 2 Nummer 4 ein;
+3.  die Stellungnahmen der zuständigen Behörde der Landespolizei oder der zentralen Polizeidienststelle oder des zuständigen Landeskriminalamtes sowie der in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde und des Zollkriminalamtes sowie, soweit im Einzelfall erforderlich, des Bundeskriminalamtes (Bedarfsabfragebehörde), ob Tatsachen vorliegen, die Bedenken gegen die Zuverlässigkeit begründen; die zuständige Behörde der Landespolizei oder die zentrale Polizeidienststelle oder das zuständige Landeskriminalamt und die in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde schließen in ihre Stellungnahme das Ergebnis der von ihnen vorzunehmenden Prüfung nach Absatz 2 Nummer 4 ein;
 
 
 4.  die Auskunft der für den Wohnsitz der betroffenen Person zuständigen Verfassungsschutzbehörde, ob Tatsachen bekannt sind, die Bedenken gegen die Zuverlässigkeit nach Absatz 2 Nummer 2 und 3 begründen; liegt der Wohnsitz der betroffenen Person außerhalb des Geltungsbereichs dieses Gesetzes, ist das Bundesamt für Verfassungsschutz für die Erteilung der Auskunft zuständig.
 
 
 
-Die nach Satz 1 Nummer 2 erhobenen personenbezogenen Daten dürfen nur für den Zweck der waffenrechtlichen Zuverlässigkeitsprüfung verwendet werden. Erlangt die für die Auskunft nach Satz 1 Nummer 4 zuständige Verfassungsschutzbehörde im Nachhinein für die Beurteilung der Zuverlässigkeit nach Absatz 2 Nummer 2 und 3 bedeutsame Erkenntnisse, teilt sie dies der zuständigen Behörde unverzüglich mit (Nachbericht). Zu diesem Zweck speichert sie Name, Vorname, Geburtsdatum, Geburtsname, Geburtsort, Wohnort und Staatsangehörigkeit der betroffenen Person sowie Aktenfundstelle in den gemeinsamen Dateien nach § 6 des Bundesverfassungsschutzgesetzes. Lehnt die zuständige Behörde einen Antrag ab oder nimmt sie eine erteilte Erlaubnis zurück oder widerruft diese, so hat sie die zum Nachbericht verpflichtete Verfassungsschutzbehörde hiervon unverzüglich in Kenntnis zu setzen. Die zum Nachbericht verpflichtete Verfassungsschutzbehörde hat in den Fällen des Satzes 5 die nach Satz 4 gespeicherten Daten unverzüglich zu löschen.
+Die nach Satz 1 Nummer 2 erhobenen personenbezogenen Daten dürfen nur für den Zweck der waffenrechtlichen Zuverlässigkeitsprüfung verwendet werden.
 
 
 #### § 6 Persönliche Eignung
@@ -251,13 +258,42 @@ Die nach Satz 1 Nummer 2 erhobenen personenbezogenen Daten dürfen nur für den 
 
 
 
-Die erforderliche persönliche Eignung besitzen in der Regel Personen nicht, wenn Tatsachen die Annahme rechtfertigen, dass sie in ihrer Geschäftsfähigkeit beschränkt sind. Die zuständige Behörde soll die Stellungnahme der örtlichen Polizeidienststelle einholen. Der persönlichen Eignung können auch im Erziehungsregister eingetragene Entscheidungen oder Anordnungen nach § 60 Abs. 1 Nr. 1 bis 7 des Bundeszentralregistergesetzes entgegenstehen.
+Die erforderliche persönliche Eignung besitzen in der Regel Personen nicht, wenn Tatsachen die Annahme rechtfertigen, dass sie in ihrer Geschäftsfähigkeit beschränkt sind. Die zuständige Behörde holt die Stellungnahme der folgenden Behörden ein, ob dort Erkenntnisse nach den Sätzen 1 und 2 vorliegen:
+
+1.  der zuständigen Behörde der Landespolizei oder der zentralen Polizeidienststelle oder des zuständigen Landeskriminalamtes,
+
+
+2.  der Polizeidienststellen der innegehabten Wohnsitze im Inland der betroffenen Person, beschränkt auf die letzten zehn Jahre vor Durchführung der Prüfung der persönlichen Eignung,
+
+
+3.  der in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde,
+
+
+4.  des Zollkriminalamtes.
+
+
+
+Der persönlichen Eignung können auch im Erziehungsregister eingetragene Entscheidungen oder Anordnungen nach § 60 Abs. 1 Nr. 1 bis 7 des Bundeszentralregistergesetzes entgegenstehen.
 
 (2) Sind Tatsachen bekannt, die Bedenken gegen die persönliche Eignung nach Absatz 1 begründen, oder bestehen begründete Zweifel an vom Antragsteller beigebrachten Bescheinigungen, so hat die zuständige Behörde der betroffenen Person auf Kosten der betroffenen Person die Vorlage eines amts- oder fachärztlichen oder fachpsychologischen Zeugnisses über die geistige oder körperliche Eignung aufzugeben.
 
 (3) Personen, die noch nicht das 25. Lebensjahr vollendet haben, haben für die erstmalige Erteilung einer Erlaubnis zum Erwerb und Besitz einer Schusswaffe auf eigene Kosten ein amts- oder fachärztliches oder fachpsychologisches Zeugnis über die geistige Eignung vorzulegen. Satz 1 gilt nicht für den Erwerb und Besitz von Schusswaffen im Sinne von § 14 Abs. 1 Satz 2.
 
 (4) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über das Verfahren zur Erstellung, über die Vorlage und die Anerkennung der in den Absätzen 2 und 3 genannten Gutachten bei den zuständigen Behörden zu erlassen.
+
+
+#### § 6a Nachbericht
+
+(1) Erlangt die für die Auskunft nach § 5 Absatz 5 Satz 1 Nummer 4 zuständige Verfassungsschutzbehörde im Nachhinein für die Beurteilung der Zuverlässigkeit nach § 5 Absatz 2 Nummer 2 und 3 bedeutsame Erkenntnisse, teilt sie dies der zuständigen Behörde unverzüglich mit (Nachbericht). Zu diesem Zweck speichert sie Name, Vorname, Geburtsdatum, Geburtsname, Geschlecht, Geburtsort, Geburtsland, Wohnort und Staatsangehörigkeit der betroffenen Person, Ausstellungsdatum sowie Befristung der Erlaubnis, Art der Erlaubnis, Behördenkennziffer der anfragenden Behörde und Aktenfundstelle in den gemeinsamen Dateien nach § 6 des Bundesverfassungsschutzgesetzes.
+
+(2) Erlangen die in § 5 Absatz 5 Satz 1 Nummer 3 genannten Behörden im Nachhinein Erkenntnisse über Tatsachen nach § 5 Absatz 5 Satz 1 Nummer 3 oder erlangen die in § 6 Absatz 1 Satz 3 genannten Behörden im Nachhinein Erkenntnisse über Tatsachen nach § 6 Absatz 1 Satz 1 und 2, so sind sie zum Nachbericht verpflichtet. Absatz 1 Satz 2 gilt entsprechend mit der Maßgabe, dass die dort genannten Daten zu speichern sind oder dass durch andere Maßnahmen sicherzustellen ist, dass diese Daten für die Erfüllung der Nachberichtspflicht bereitstehen.
+
+(3) Lehnt die zuständige Behörde einen Antrag ab oder nimmt sie eine erteilte Erlaubnis zurück oder widerruft sie diese oder fällt die Nachberichtspflicht aus einem anderen Grund weg, so hat sie die nach den Absätzen 1 und 2 zum Nachbericht verpflichteten Behörden mit Angabe des Grundes hiervon unverzüglich in Kenntnis zu setzen. In diesem Fall sind die nach Absatz 1 Satz 2 und Absatz 2 Satz 2 gespeicherten Daten unverzüglich von diesen Behörden zu löschen. Im Übrigen sind die gespeicherten personenbezogenen Daten drei Monate nach Ende der regelmäßigen Gültigkeitsdauer einer Zuverlässigkeitsüberprüfung, gerechnet ab dem Zeitpunkt der Anfrage durch die zuständige Behörde, zu löschen.
+
+
+#### § 6b Mitteilungspflichten der Waffenbehörden an die Jagdbehörden
+
+Stellt die Waffenbehörde fest, dass eine Person mit besonders anzuerkennenden persönlichen oder wirtschaftlichen Interessen als Jäger (Bedürfnisgrund) die erforderliche Zuverlässigkeit nach § 5 oder die persönliche Eignung nach § 6 nicht mehr besitzt, so informiert die Waffenbehörde die zuständige Jagdbehörde hierüber unverzüglich.
 
 
 #### § 7 Sachkunde
@@ -1763,18 +1799,27 @@ Durch die Verordnung können diejenigen Teile der Anlage 2 zu diesem Gesetz, die
 1.  soweit es zur Verhütung von Gefahren für die Sicherheit oder zur Kontrolle des Umgangs mit diesen Gegenständen geboten ist oder
 
 
-2.  wenn Tatsachen bekannt werden, die die Annahme rechtfertigen, dass der rechtmäßige Besitzer oder Erwerbswillige abhängig von Alkohol oder anderen berauschenden Mitteln, psychisch krank oder debil ist oder sonst die erforderliche persönliche Eignung nicht besitzt oder ihm die für den Erwerb oder Besitz solcher Waffen oder Munition erforderliche Zuverlässigkeit fehlt.
+2.  wenn Tatsachen vorliegen, die die Annahme rechtfertigen, dass der rechtmäßige Besitzer oder Erwerbswillige abhängig von Alkohol oder anderen berauschenden Mitteln, psychisch krank oder debil ist oder sonst die erforderliche persönliche Eignung nicht besitzt oder ihm die für den Erwerb oder Besitz solcher Waffen oder Munition erforderliche Zuverlässigkeit fehlt.
 
 
 
-Im Fall des Satzes 1 Nr. 2 ist die betroffene Person darauf hinzuweisen, dass sie die Annahme mangelnder persönlicher Eignung im Wege der Beibringung eines amts- oder fachärztlichen oder fachpsychologischen Zeugnisses über die geistige oder körperliche Eignung ausräumen kann; § 6 Abs. 2 findet entsprechende Anwendung.
+Tatsachen für das Fehlen der erforderlichen Zuverlässigkeit nach Satz 1 Nummer 2 liegen außer in den Fällen des § 5 Absatz 1 Nummer 1 Buchstabe a oder c, Nummer 2 oder Absatz 2 Nummer 2 bis 4 insbesondere vor, wenn die betroffene Person
+
+1.  wegen einer vorsätzlichen Straftat gegen die körperliche Unversehrtheit oder einer vorsätzlichen Straftat, die mit Gewalt oder durch Drohung mit gegenwärtiger Gefahr für Leib oder Leben begangen wurde, zu einer Freiheitsstrafe, Jugendstrafe oder Geldstrafe von mindestens 90 Tagessätzen rechtskräftig verurteilt worden ist oder bei der die Verhängung von Jugendstrafe ausgesetzt worden ist, wenn seit dem Eintritt der Rechtskraft der letzten Verurteilung fünf Jahre noch nicht verstrichen sind, oder
+
+
+2.  wegen einer vorsätzlichen Straftat nach dem Waffengesetz, dem Gesetz über die Kontrolle von Kriegswaffen, dem Sprengstoffgesetz oder dem Bundesjagdgesetz zu einer Freiheitsstrafe, Jugendstrafe oder Geldstrafe von mindestens 90 Tagessätzen rechtskräftig verurteilt worden ist oder bei der die Verhängung von Jugendstrafe ausgesetzt worden ist, wenn seit dem Eintritt der Rechtskraft der letzten Verurteilung fünf Jahre noch nicht verstrichen sind.
+
+
+
+Im Fall des Satzes 1 Nummer 2 ist die betroffene Person darauf hinzuweisen, dass sie die Annahme mangelnder persönlicher Eignung im Wege der Beibringung eines amts- oder fachärztlichen oder fachpsychologischen Zeugnisses über die geistige oder körperliche Eignung ausräumen kann; § 6 Absatz 2 findet entsprechende Anwendung.
 
 (2) Die zuständige Behörde kann jemandem den Besitz von Waffen oder Munition, deren Erwerb der Erlaubnis bedarf, untersagen, soweit es zur Verhütung von Gefahren für die Sicherheit oder Kontrolle des Umgangs mit diesen Gegenständen geboten ist.
 
 (3) Die zuständige Behörde unterrichtet die örtliche Polizeidienststelle über den Erlass eines Waffenbesitzverbotes.
 
 
-#### § 42 Verbot des Führens von Waffen bei öffentlichen Veranstaltungen; Verordnungsermächtigungen für Verbotszonen
+#### § 42 Verbot des Führens von Waffen und Messern bei öffentlichen Veranstaltungen; Verordnungsermächtigungen für Verbotszonen
 
 (1) Wer an öffentlichen Vergnügungen, Volksfesten, Sportveranstaltungen, Messen, Ausstellungen, Märkten oder ähnlichen öffentlichen Veranstaltungen teilnimmt, darf keine Waffen im Sinne des § 1 Abs. 2 führen. Dies gilt auch, wenn für die Teilnahme ein Eintrittsgeld zu entrichten ist, sowie für Theater-, Kino-, und Diskothekenbesuche und für Tanzveranstaltungen.
 
@@ -1809,54 +1854,90 @@ Im Fall des Satzes 1 Nr. 2 ist die betroffene Person darauf hinzuweisen, dass si
 
 
 
-(5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung vorzusehen, dass das Führen von Waffen im Sinne des § 1 Abs. 2 auf bestimmten öffentlichen Straßen, Wegen oder Plätzen allgemein oder im Einzelfall verboten oder beschränkt werden kann, soweit an dem jeweiligen Ort wiederholt
+(4a) Absatz 1 gilt entsprechend für das Führen von Messern. Ausgenommen vom Verbot des Führens von Messern sind:
 
-1.  Straftaten unter Einsatz von Waffen oder
-
-
-2.  Raubdelikte, Körperverletzungsdelikte, Bedrohungen, Nötigungen, Sexualdelikte, Freiheitsberaubungen oder Straftaten gegen das Leben
+1.  Anlieferverkehr,
 
 
-
-begangen worden sind und Tatsachen die Annahme rechtfertigen, dass auch künftig mit der Begehung solcher Straftaten zu rechnen ist. In der Rechtsverordnung nach Satz 1 soll bestimmt werden, dass die zuständige Behörde allgemein oder für den Einzelfall Ausnahmen insbesondere für Inhaber waffenrechtlicher Erlaubnisse, Anwohner und Gewerbetreibende zulassen kann, soweit eine Gefährdung der öffentlichen Sicherheit nicht zu besorgen ist. Im Falle des Satzes 2 gilt Absatz 3 entsprechend. Die Landesregierungen können ihre Befugnis nach Satz 1 in Verbindung mit Satz 2 durch Rechtsverordnung auf die zuständige oberste Landesbehörde übertragen; diese kann die Befugnis durch Rechtsverordnung weiter übertragen.
-
-(6) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung vorzusehen, dass das Führen von Waffen im Sinne des § 1 Absatz 2 oder von Messern mit feststehender oder feststellbarer Klinge mit einer Klingenlänge über vier Zentimeter an folgenden Orten verboten oder beschränkt werden kann, wenn Tatsachen die Annahme rechtfertigen, dass das Verbot oder die Beschränkung zur Abwehr von Gefahren für die öffentliche Sicherheit erforderlich ist:
-
-1.  auf bestimmten öffentlichen Straßen, Wegen oder Plätzen, auf denen Menschenansammlungen auftreten können,
+2.  Gewerbetreibende und ihre Beschäftigten und von den Gewerbetreibenden Beauftragte, die Messer im Zusammenhang mit ihrer Berufsausübung führen,
 
 
-2.  in oder auf bestimmten Gebäuden oder Flächen mit öffentlichem Verkehr, in oder auf denen Menschenansammlungen auftreten können, und die einem Hausrecht unterliegen, insbesondere in Einrichtungen des öffentlichen Personenverkehrs, in Einkaufszentren sowie in Veranstaltungsorten,
+3.  Personen, die ein Messer nicht zugriffsbereit von einem Ort zum anderen befördern,
 
 
-3.  in bestimmten Jugend- und Bildungseinrichtungen sowie
+4.  Personen, die ein Messer in oder auf bestimmten Gebäuden oder Flächen mit öffentlichem Verkehr sowie in Verkehrsmitteln und Einrichtungen des öffentlichen Personenverkehrs, in oder auf denen Menschenansammlungen auftreten können und die einem Hausrecht unterliegen mit Zustimmung des Hausrechtsbereichsinhabers führen, wenn das Führen dem Zweck des Aufenthaltes in dem Hausrechtsbereich dient oder im Zusammenhang damit steht,
 
 
-4.  auf bestimmten öffentlichen Straßen, Wegen oder Plätzen, die an die in den Nummern 2 und 3 genannten Orte oder Einrichtungen angrenzen.
+5.  das gewerbliche Ausstellen von Messern auf Messen, Märkten und Ausstellungen,
 
 
-
-In der Rechtsverordnung nach Satz 1 ist eine Ausnahme vom Verbot oder von der Beschränkung für Fälle vorzusehen, in denen für das Führen der Waffe oder des Messers ein berechtigtes Interesse vorliegt. Ein berechtigtes Interesse liegt insbesondere vor bei
-
-1.  Inhabern waffenrechtlicher Erlaubnisse,
+6.  Rettungskräfte und Einsatzkräfte im Zivil- und Katastrophenschutz im Zusammenhang mit der Tätigkeit,
 
 
-2.  Anwohnern, Anliegern und dem Anlieferverkehr,
+7.  Mitwirkende an Foto-, Film- oder Fernsehaufnahmen, Theateraufführungen oder historischen Darstellungen, wenn zu diesem Zweck Messer geführt werden,
 
 
-3.  Gewerbetreibenden und bei ihren Beschäftigten oder bei von den Gewerbetreibenden Beauftragten, die Messer im Zusammenhang mit ihrer Berufsausübung führen,
+8.  Personen, die Messer im Zusammenhang mit der Brauchtumspflege, der Jagd oder der Ausübung des Sports führen,
 
 
-4.  Personen, die Messer im Zusammenhang mit der Brauchtumspflege oder der Ausübung des Sports führen,
+9.  Inhaber gastronomischer Betriebe, ihre Beschäftigten und Beauftragten sowie deren Kundinnen und Kunden,
 
 
-5.  Personen, die eine Waffe oder ein Messer nicht zugriffsbereit von einem Ort zum anderen befördern, und
-
-
-6.  Personen, die eine Waffe oder ein Messer mit Zustimmung eines anderen in dessen Hausrechtsbereich nach Satz 1 Nummer 2 führen, wenn das Führen dem Zweck des Aufenthalts in dem Hausrechtsbereich dient oder im Zusammenhang damit steht.
+10. Personen, die Messer im Zusammenhang mit einem allgemein anerkannten Zweck führen.
 
 
 
-Die Landesregierungen können ihre Befugnis nach Satz 1 in Verbindung mit Satz 2 durch Rechtsverordnung auf die zuständige oberste Landesbehörde übertragen; diese kann die Befugnis durch Rechtsverordnung weiter übertragen.
+
+(5) Die Landesregierungen können durch Rechtsverordnung das Führen von Waffen im Sinne des § 1 Absatz 2 und von Messern verbieten oder beschränken
+
+1.  auf bestimmten öffentlichen Straßen, Wegen oder Plätzen, soweit an dem jeweiligen Ort wiederholt begangen worden sind
+
+    a)  Straftaten unter Einsatz von Waffen oder
+
+
+    b)  Raubdelikte, Körperverletzungsdelikte, Bedrohungen, Nötigungen, Sexualdelikte, Freiheitsberaubungen oder Straftaten gegen das Leben,
+
+
+
+
+
+2.  auf bestimmten öffentlichen Straßen, Wegen oder Plätzen, auf denen Menschenansammlungen auftreten können,
+
+
+3.  in oder auf bestimmten Gebäuden oder Flächen mit öffentlichem Verkehr sowie in Verkehrsmitteln und Einrichtungen des öffentlichen Personenverkehrs, soweit diese nicht von § 42b Absatz 1 oder einer Rechtsverordnung nach § 42b Absatz 2 erfasst sind, in oder auf denen Menschenansammlungen auftreten können, und die einem Hausrecht unterliegen,
+
+
+4.  in bestimmten Jugend- und Bildungseinrichtungen sowie
+
+
+5.  auf bestimmten öffentlichen Straßen, Wegen oder Plätzen, die an die in den Nummern 2 und 3 genannten Orte oder Einrichtungen angrenzen,
+
+
+
+wenn Tatsachen die Annahme rechtfertigen, dass im Fall der Nummer 1 auch künftig mit der Begehung solcher Straftaten zu rechnen ist oder im Fall der Nummern 2 bis 5 das Verbot oder die Beschränkung zur Abwehr von Gefahren für die öffentliche Sicherheit erforderlich ist. In der Rechtsverordnung nach Satz 1 ist eine Ausnahme vom Verbot oder von der Beschränkung für Fälle vorzusehen, in denen für das Führen der Waffe oder des Messers ein berechtigtes Interesse vorliegt. Ein berechtigtes Interesse liegt insbesondere vor
+
+1.  für das Führen von Waffen
+
+    a)  für Inhaber waffenrechtlicher Erlaubnisse, mit Ausnahme einer Erlaubnis nach § 10 Absatz 4 Satz 4,
+
+
+    b)  für Personen, die eine Waffe nicht zugriffsbereit von einem Ort zum anderen befördern,
+
+
+    c)  in den Fällen des Satzes 1 Nummer 3 für Personen, die eine Waffe mit Zustimmung eines anderen in dessen Hausrechtsbereich nach Satz 1 Nummer 3 führen, wenn das Führen dem Zweck des Aufenthaltes in dem Hausrechtsbereich dient oder im Zusammenhang damit steht,
+
+
+    d)  für Rettungskräfte und Einsatzkräfte im Zivil- und Katastrophenschutz im Zusammenhang mit der Tätigkeit;
+
+
+
+
+
+2.  für das Führen von Messern in den Fällen des Absatzes 4a Satz 2.
+
+
+
+Die Landesregierungen können die Ermächtigung nach Satz 1 in Verbindung mit Satz 2 durch Rechtsverordnung auf die zuständige Landesbehörde übertragen; diese kann die Ermächtigung durch Rechtsverordnung weiter übertragen.
 
 
 #### § 42a Verbot des Führens von Anscheinswaffen und bestimmten tragbaren Gegenständen
@@ -1892,6 +1973,38 @@ Weitergehende Regelungen bleiben unberührt.
 (3) Ein berechtigtes Interesse nach Absatz 2 Satz 1 Nr. 3 liegt insbesondere vor, wenn das Führen der Gegenstände im Zusammenhang mit der Berufsausübung erfolgt, der Brauchtumspflege, dem Sport oder einem allgemein anerkannten Zweck dient.
 
 
+#### § 42b Verbot des Führens von Waffen und Messern im öffentlichen Personenfernverkehr; Verordnungsermächtigung für Verbotszonen
+
+(1) Es ist verboten,
+
+1.  Waffen im Sinne des § 1 Absatz 2 oder
+
+
+2.  Messer
+
+
+
+in Verkehrsmitteln des öffentlichen Personenfernverkehrs und in seitlich umschlossenen Einrichtungen des öffentlichen Personenfernverkehrs, insbesondere Gebäuden und Haltepunkten, zu führen, soweit nicht eine Rechtsverordnung nach Absatz 2 besteht. Satz 1 gilt nicht
+
+1.  für das Führen von Waffen in den Fällen des § 42 Absatz 5 Satz 3 Nummer 1 Buchstabe a, b und d,
+
+
+2.  für das Führen von Messern in den Fällen des § 42 Absatz 4a Satz 2,
+
+
+3.  für Personen, die eine Waffe oder ein Messer mit Zustimmung des Verkehrsunternehmens führen, wenn das Führen dem Zweck des Aufenthalts in dem Hausrechtsbereich dient oder im Zusammenhang damit steht.
+
+
+
+
+(2) Für das Gebiet der Bahnanlagen der Eisenbahnen des Bundes wird das Bundesministerium des Innern und für Heimat ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Führen von Waffen im Sinne des § 1 Absatz 2 und von Messern zu verbieten oder zu beschränken, wenn das Verbot oder die Beschränkung zur Abwehr von Gefahren für die öffentliche Sicherheit erforderlich ist. In der Rechtsverordnung nach Satz 1 sind Ausnahmen vom Verbot oder von der Beschränkung entsprechend Absatz 1 Satz 2 vorzusehen. Die Ermächtigung nach Satz 1 kann durch Rechtsverordnung auf das Bundespolizeipräsidium übertragen werden. Die Befugnis der Bundespolizeibehörden, das Mitführen von Waffen und gefährlichen Gegenständen durch Allgemeinverfügung zu regeln, bleibt unberührt.
+
+
+#### § 42c Kontrollbefugnis zum Verbot des Führens von Waffen und Messern bei öffentlichen Veranstaltungen, im öffentlichen Personenfernverkehr und in Verbotszonen
+
+Die zuständige Behörde kann zur Durchsetzung gesetzlicher Waffen- und Messerverbote nach § 42 Absatz 1 Satz 1, Absatz 4a Satz 1 und § 42b Absatz 1 sowie von Waffen- und Messerverbotszonen nach § 42 Absatz 5 im räumlichen Geltungsbereich dieser gesetzlichen Waffen- und Messerverbote sowie im räumlichen Geltungsbereich der Waffen- und Messerverbotszonen Personen kurzzeitig anhalten, befragen, mitgeführte Sachen in Augenschein nehmen sowie die Person durchsuchen. Die Auswahl der nach Satz 1 kontrollierten Person anhand eines Merkmals im Sinne des Artikels 3 Absatz 3 des Grundgesetzes ohne sachlichen, durch den Zweck der Maßnahme gerechtfertigten Grund ist unzulässig.
+
+
 ## Abschnitt 3 - Sonstige waffenrechtliche Vorschriften
 
 
@@ -1900,7 +2013,7 @@ Weitergehende Regelungen bleiben unberührt.
 
 (1) Die für die Ausführung dieses Gesetzes zuständigen Behörden dürfen personenbezogene Daten auch ohne Mitwirkung der betroffenen Person in den Fällen des § 5 Abs. 5 und des § 6 Abs. 1 Satz 3 und 4 erheben. Sonstige Rechtsvorschriften des Bundes- oder Landesrechts, die eine Erhebung ohne Mitwirkung der betroffenen Person vorsehen oder zwingend voraussetzen, bleiben unberührt.
 
-(2) Öffentliche Stellen im Geltungsbereich dieses Gesetzes sind auf Ersuchen der zuständigen Behörde verpflichtet, dieser im Rahmen datenschutzrechtlicher Übermittlungsbefugnisse personenbezogene Daten zu übermitteln, soweit die Daten nicht wegen überwiegender öffentlicher Interessen geheim gehalten werden müssen.
+(2) Öffentliche Stellen im Geltungsbereich dieses Gesetzes sind auf Ersuchen der zuständigen Behörde verpflichtet, dieser im Rahmen datenschutzrechtlicher Übermittlungsbefugnisse personenbezogene Daten zu übermitteln, soweit die Daten nicht wegen überwiegender öffentlicher Interessen geheim gehalten werden müssen. § 30 der Abgabenordnung steht der Übermittlung nicht entgegen.
 
 
 ### § 44 Übermittlung an und von Meldebehörden
@@ -1918,7 +2031,9 @@ Weitergehende Regelungen bleiben unberührt.
 
 
 
-(2) Die Meldebehörden teilen den Waffenerlaubnisbehörden Namensänderungen, Zuzug, Änderungen der derzeitigen Anschrift im Zuständigkeitsbereich der Meldebehörde, Wegzug und Tod des Einwohners mit, für den das Vorliegen einer waffenrechtlichen Erlaubnis oder eines Waffenbesitzverbotes gespeichert ist.
+(2) Die zuständige Behörde teilt der Jagdbehörde die Ergebnisse sowie tragenden Gründe der Prüfung nach den §§ 5 und 6 mit.
+
+(3) Die Meldebehörden teilen den Waffenerlaubnisbehörden Namensänderungen, Zuzug, Änderungen der derzeitigen Anschrift im Zuständigkeitsbereich der Meldebehörde, Wegzug und Tod des Einwohners mit, für den das Vorliegen einer waffenrechtlichen Erlaubnis oder eines Waffenbesitzverbotes gespeichert ist. Die Waffenerlaubnisbehörden übermitteln diese Daten an die zuständigen Verfassungsschutzbehörden.
 
 
 ### § 44a Behördliche Aufbewahrungspflichten
@@ -1952,9 +2067,9 @@ einschließlich der Gründe hierfür, ergibt.
 
 (1) Werden Erlaubnisse nach diesem Gesetz zurückgenommen oder widerrufen, so hat der Inhaber alle Ausfertigungen der Erlaubnisurkunde der zuständigen Behörde unverzüglich zurückzugeben. Das Gleiche gilt, wenn die Erlaubnis erloschen ist.
 
-(2) Hat jemand auf Grund einer Erlaubnis, die zurückgenommen, widerrufen oder erloschen ist, Waffen oder Munition erworben oder befugt besessen, und besitzt er sie noch, so kann die zuständige Behörde anordnen, dass er binnen angemessener Frist die Waffen oder Munition dauerhaft unbrauchbar macht oder einem Berechtigten überlässt und den Nachweis darüber gegenüber der Behörde führt. Nach fruchtlosem Ablauf der Frist kann die zuständige Behörde die Waffen oder Munition sicherstellen.
+(2) Hat jemand auf Grund einer Erlaubnis, die zurückgenommen, widerrufen oder erloschen ist, Waffen oder Munition erworben oder befugt besessen und besitzt er sie noch, so ordnet die zuständige Behörde an, dass er binnen angemessener Frist die Waffen oder Munition dauerhaft unbrauchbar macht oder einem Berechtigten überlässt und den Nachweis darüber gegenüber der Behörde führt. Nach fruchtlosem Ablauf der Frist stellt die zuständige Behörde die Waffen oder Munition sicher.
 
-(3) Besitzt jemand ohne die erforderliche Erlaubnis oder entgegen einem vollziehbaren Verbot nach § 41 Abs. 1 oder 2 eine Waffe oder Munition, so kann die zuständige Behörde anordnen, dass er binnen angemessener Frist
+(3) Besitzt jemand ohne die erforderliche Erlaubnis oder entgegen einem vollziehbaren Verbot nach § 41 Absatz 1 oder 2 eine Waffe oder Munition, so ordnet die zuständige Behörde an, dass er binnen angemessener Frist
 
 1.  die Waffe oder Munition dauerhaft unbrauchbar macht oder einem Berechtigten überlässt oder
 
@@ -1966,20 +2081,35 @@ einschließlich der Gründe hierfür, ergibt.
 
 
 
-Nach fruchtlosem Ablauf der Frist kann die zuständige Behörde die Waffe oder Munition sicherstellen.
+Nach fruchtlosem Ablauf der Frist stellt die zuständige Behörde die Waffe oder Munition sicher.
 
-(4) Die zuständige Behörde kann Erlaubnisurkunden sowie die in den Absätzen 2 und 3 bezeichneten Waffen oder Munition sofort sicherstellen
+(4) Die zuständige Behörde stellt Erlaubnisurkunden sowie die in den Absätzen 2 und 3 bezeichneten Waffen oder Munition sofort sicher
 
-1.  in Fällen eines vollziehbaren Verbots nach § 41 Abs. 1 oder 2 oder
-
-
-2.  soweit Tatsachen die Annahme rechtfertigen, dass die Waffen oder Munition missbräuchlich verwendet oder von einem Nichtberechtigten erworben werden sollen.
+1.  in Fällen eines vollziehbaren Verbots nach § 41 Absatz 1 oder 2,
 
 
+2.  soweit Tatsachen die Annahme rechtfertigen, dass die Waffen oder Munition missbräuchlich verwendet sollen oder
 
-Zu diesem Zweck sind die Beauftragten der zuständigen Behörde berechtigt, die Wohnung der betroffenen Person zu betreten und diese Wohnung nach Urkunden, Waffen oder Munition zu durchsuchen; Durchsuchungen dürfen nur durch den Richter, bei Gefahr im Verzug auch durch die zuständige Behörde angeordnet werden; das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt. Widerspruch und Anfechtungsklage haben keine aufschiebende Wirkung.
 
-(5) Sofern der bisherige Inhaber nicht innerhalb eines Monats nach Sicherstellung einen empfangsbereiten Berechtigten benennt oder im Fall der Sicherstellung verbotener Waffen oder Munition nicht in dieser Frist eine Ausnahmezulassung nach § 40 Abs. 4 beantragt, kann die zuständige Behörde die sichergestellten Waffen oder Munition einziehen und verwerten oder vernichten. Dieselben Befugnisse besitzt die zuständige Behörde im Fall der unanfechtbaren Versagung einer für verbotene Waffen oder Munition vor oder rechtzeitig nach der Sicherstellung beantragten Ausnahmezulassung nach § 40 Abs. 4. Der Erlös aus einer Verwertung der Waffen oder Munition steht nach Abzug der Kosten der Sicherstellung, Verwahrung und Verwertung dem nach bürgerlichem Recht bisher Berechtigten zu.
+3.  soweit Tatsachen vorliegen, die die Annahme rechtfertigen, dass die Waffen oder Munition von einem Nichtberechtigten erworben werden sollen.
+
+
+
+Die zuständige Behörde kann darüber hinaus für die Dauer der Prüfung von Rücknahme oder Widerruf Erlaubnisurkunden sowie Waffen oder Munition für einen Zeitraum von sechs Monaten sofort vorläufig sicherstellen,
+
+1.  sofern Tatsachen vorliegen, die die Annahme rechtfertigen, dass Personen, denen eine Erlaubnis nach diesem Gesetz erteilt worden ist, nicht die erforderliche Zuverlässigkeit oder Eignung besitzen, und
+
+
+2.  soweit tatsächliche Anhaltspunkte vorliegen, dass durch den weiteren Umgang mit Waffen oder Munition eine Gefährdung bedeutender Rechtsgüter droht.
+
+
+
+
+(5) Zum Zweck der sofortigen Sicherstellung nach Absatz 4 sind die Beauftragten der zuständigen Behörde berechtigt, die Wohnung der betroffenen Person zu betreten und diese Wohnung nach Urkunden, Waffen oder Munition zu durchsuchen; Durchsuchungen dürfen nur durch den Richter, bei Gefahr im Verzug auch durch die zuständige Behörde angeordnet werden; das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
+
+(6) Widerspruch und Anfechtungsklage gegen Maßnahmen der Absätze 1 bis 5 haben keine aufschiebende Wirkung.
+
+(7) Sofern der bisherige Inhaber nicht innerhalb eines Monats nach einer Sicherstellung nach Absatz 4 Satz 1 einen empfangsbereiten Berechtigten benennt oder im Fall der Sicherstellung verbotener Waffen oder Munition nicht in dieser Frist eine Ausnahmezulassung nach § 40 Absatz 4 beantragt, kann die zuständige Behörde die sichergestellten Waffen oder Munition einziehen und verwerten oder vernichten. Dieselben Befugnisse besitzt die zuständige Behörde im Fall der unanfechtbaren Versagung einer für verbotene Waffen oder Munition vor oder rechtzeitig nach der Sicherstellung beantragten Ausnahmezulassung nach § 40 Absatz 4. Der Erlös aus einer Verwertung der Waffen oder Munition steht nach Abzug der Kosten der Sicherstellung, Verwahrung und Verwertung dem nach bürgerlichem Recht bisher Berechtigten zu.
 
 
 ### § 47 Verordnungen zur Erfüllung internationaler Vereinbarungen oder zur Angleichung an Gemeinschaftsrecht
@@ -2265,13 +2395,19 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, mit Zust
 21. entgegen § 39 Abs. 1 Satz 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
 
 
-21a. entgegen § 42a Abs. 1 eine Anscheinswaffe, eine dort genannte Hieb- oder Stoßwaffe oder ein dort genanntes Messer führt,
+21a. entgegen § 42 Absatz 4a ein Messer führt,
+
+
+21b. entgegen § 42a Abs. 1 eine Anscheinswaffe, eine dort genannte Hieb- oder Stoßwaffe oder ein dort genanntes Messer führt,
+
+
+21c. entgegen § 42b Absatz 1 eine Waffe oder ein Messer führt,
 
 
 22. entgegen § 46 Abs. 1 Satz 1, auch in Verbindung mit Satz 2, eine Ausfertigung der Erlaubnisurkunde nicht oder nicht rechtzeitig zurückgibt oder
 
 
-23. einer Rechtsverordnung nach § 15a Absatz 4, § 27 Absatz 7 Satz 2, § 36 Absatz 5, den §§ 39a, 39c Absatz 1 oder 2 Satz 1, § 42 Absatz 5 Satz 1 oder Absatz 6 Satz 1 oder § 47 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+23. einer Rechtsverordnung nach § 15a Absatz 4, § 27 Absatz 7 Satz 2, § 36 Absatz 5, den §§ 39a, 39c Absatz 1 oder 2 Satz 1, § 42 Absatz 5 Satz 1 oder § 42b Absatz 2 Satz 1 oder § 47 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 
 
@@ -2402,7 +2538,7 @@ sind § 10 und Abschnitt 2 Unterabschnitt 5 nicht anzuwenden, wenn ihnen das Bun
 
 
 
-§ 46 Abs. 3 Satz 2 und Abs. 5 findet entsprechend Anwendung.
+§ 46 Abs. 3 Satz 2 und Absatz 7 findet entsprechend Anwendung.
 
 (8) Wer eine am 6. Juli 2017 unerlaubt besessene Waffe oder unerlaubt besessene Munition bis zum 1. Juli 2018 der zuständigen Behörde oder einer Polizeidienststelle übergibt, wird nicht wegen unerlaubten Erwerbs, unerlaubten Besitzes, unerlaubten Führens auf dem direkten Weg zur Übergabe an die zuständige Behörde oder Polizeidienststelle oder wegen unerlaubten Verbringens bestraft. Satz 1 gilt nicht, wenn
 
@@ -2418,31 +2554,33 @@ sind § 10 und Abschnitt 2 Unterabschnitt 5 nicht anzuwenden, wenn ihnen das Bun
 
 (10) Die Erlaubnispflicht für Schusswaffen im Sinne der Anlage 2 Abschnitt 2 Unterabschnitt 1 Satz 3 gilt für Schusswaffen, die vor dem 1. April 2008 erworben wurden, erst ab dem 1. Oktober 2008.
 
-(11) Hat jemand am 1. April 2008 eine bislang nicht nach Anlage 2 Abschnitt 1 Nr. 1.2.1.2 dieses Gesetzes verbotene Waffe besessen, so wird dieses Verbot nicht wirksam, wenn er bis zum 1. Oktober 2008 diese Waffe unbrauchbar macht, einem Berechtigten überlässt oder der zuständigen Behörde oder einer Polizeidienststelle überlässt oder einen Antrag nach § 40 Abs. 4 dieses Gesetzes stellt. § 46 Abs. 3 Satz 2 und Abs. 5 findet entsprechend Anwendung.
+(11) Hat jemand am 1. April 2008 eine bislang nicht nach Anlage 2 Abschnitt 1 Nr. 1.2.1.2 dieses Gesetzes verbotene Waffe besessen, so wird dieses Verbot nicht wirksam, wenn er bis zum 1. Oktober 2008 diese Waffe unbrauchbar macht, einem Berechtigten überlässt oder der zuständigen Behörde oder einer Polizeidienststelle überlässt oder einen Antrag nach § 40 Abs. 4 dieses Gesetzes stellt. § 46 Abs. 3 Satz 2 und Absatz 7 findet entsprechend Anwendung.
 
 (12) Besitzt der Inhaber einer Waffenbesitzkarte am 1. April 2008 erlaubnisfrei erworbene Teile von Schusswaffen im Sinne der Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr. 2, so sind diese Teile bis zum 1. Oktober 2008 in die Waffenbesitzkarte einzutragen.
 
-(13) Hat jemand am 1. September 2020 ein erlaubnispflichtiges wesentliches Teil im Sinne von Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.3.1.2 oder 1.3.1.6 besessen, das er vor diesem Tag erworben hat, so hat er spätestens am 1. September 2021 eine Erlaubnis nach § 10 Absatz 1 Satz 1 oder eine gleichgestellte andere Erlaubnis zum Besitz zu beantragen oder das wesentliche Teil einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle zu überlassen. Für die Zeit bis zur Erteilung oder Versagung der Erlaubnis gilt der Besitz als erlaubt. § 46 Absatz 3 Satz 2 und Absatz 5 findet entsprechend Anwendung.
+(13) Hat jemand am 1. September 2020 ein erlaubnispflichtiges wesentliches Teil im Sinne von Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.3.1.2 oder 1.3.1.6 besessen, das er vor diesem Tag erworben hat, so hat er spätestens am 1. September 2021 eine Erlaubnis nach § 10 Absatz 1 Satz 1 oder eine gleichgestellte andere Erlaubnis zum Besitz zu beantragen oder das wesentliche Teil einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle zu überlassen. Für die Zeit bis zur Erteilung oder Versagung der Erlaubnis gilt der Besitz als erlaubt. § 46 Absatz 3 Satz 2 und Absatz 7 findet entsprechend Anwendung.
 
-(14) Hat jemand am 1. September 2020 ein nach Anlage 2 Abschnitt 1 Nummer 1.1, 1.2.1.1, 1.2.1.2, 1.2.2, 1.2.3 oder 1.2.5 verbotenes wesentliches Teil im Sinne von Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.3.1.2 oder 1.3.1.6 besessen, das er vor diesem Tag erworben hat, so wird das Verbot ihm gegenüber in Bezug auf dieses wesentliche Teil nicht wirksam, wenn er spätestens am 1. September 2021 das wesentliche Teil einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle überlässt oder einen Antrag nach § 40 Absatz 4 stellt. § 46 Absatz 3 Satz 2 und Absatz 5 findet entsprechend Anwendung.
+(14) Hat jemand am 1. September 2020 ein nach Anlage 2 Abschnitt 1 Nummer 1.1, 1.2.1.1, 1.2.1.2, 1.2.2, 1.2.3 oder 1.2.5 verbotenes wesentliches Teil im Sinne von Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.3.1.2 oder 1.3.1.6 besessen, das er vor diesem Tag erworben hat, so wird das Verbot ihm gegenüber in Bezug auf dieses wesentliche Teil nicht wirksam, wenn er spätestens am 1. September 2021 das wesentliche Teil einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle überlässt oder einen Antrag nach § 40 Absatz 4 stellt. § 46 Absatz 3 Satz 2 und Absatz 7 findet entsprechend Anwendung.
 
-(15) Hat jemand am 1. September 2020 eine erlaubnispflichtige Salutwaffe im Sinne von Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.5 besessen, die er vor diesem Tag erworben hat, so hat er spätestens am 1. September 2021 eine Erlaubnis nach § 10 Absatz 1 Satz 1 oder eine gleichgestellte andere Erlaubnis zum Besitz zu beantragen oder die Waffe einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle zu überlassen. Für die Zeit bis zur Erteilung oder Versagung der Erlaubnis gilt der Besitz als erlaubt. § 46 Absatz 3 Satz 2 und Absatz 5 findet entsprechend Anwendung.
+(15) Hat jemand am 1. September 2020 eine erlaubnispflichtige Salutwaffe im Sinne von Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.5 besessen, die er vor diesem Tag erworben hat, so hat er spätestens am 1. September 2021 eine Erlaubnis nach § 10 Absatz 1 Satz 1 oder eine gleichgestellte andere Erlaubnis zum Besitz zu beantragen oder die Waffe einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle zu überlassen. Für die Zeit bis zur Erteilung oder Versagung der Erlaubnis gilt der Besitz als erlaubt. § 46 Absatz 3 Satz 2 und Absatz 7 findet entsprechend Anwendung.
 
-(16) Hat jemand am 1. September 2020 eine nach Anlage 2 Abschnitt 1 Nummer 1.2.8 verbotene Salutwaffe besessen, die er vor diesem Tag erworben hat, so wird das Verbot ihm gegenüber in Bezug auf diese Waffe nicht wirksam, wenn er bis zum 1. September 2021 die Waffe einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle überlässt oder einen Antrag nach § 40 Absatz 4 stellt. § 46 Absatz 3 Satz 2 und Absatz 5 findet entsprechend Anwendung.
+(16) Hat jemand am 1. September 2020 eine nach Anlage 2 Abschnitt 1 Nummer 1.2.8 verbotene Salutwaffe besessen, die er vor diesem Tag erworben hat, so wird das Verbot ihm gegenüber in Bezug auf diese Waffe nicht wirksam, wenn er bis zum 1. September 2021 die Waffe einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle überlässt oder einen Antrag nach § 40 Absatz 4 stellt. § 46 Absatz 3 Satz 2 und Absatz 7 findet entsprechend Anwendung.
 
-(17) Hat jemand am 13. Juni 2017 ein nach Anlage 2 Abschnitt 1 Nummer 1.2.4.3 oder 1.2.4.4 verbotenes Magazin oder ein nach Nummer 1.2.4.5 verbotenes Magazingehäuse besessen, das er vor diesem Tag erworben hat, so wird das Verbot ihm gegenüber in Bezug auf dieses Magazin oder Magazingehäuse nicht wirksam, wenn er den Besitz spätestens am 1. September 2021 bei der zuständigen Behörde anzeigt oder das Magazin oder Magazingehäuse einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle überlässt. Hat jemand am oder nach dem 13. Juni 2017, aber vor dem 1. September 2020 ein nach Anlage 2 Abschnitt 1 Nummer 1.2.4.3 oder 1.2.4.4 verbotenes Magazin oder ein nach Nummer 1.2.4.5 verbotenes Magazingehäuse besessen, das er am oder nach dem 13. Juni 2017 erworben hat, so wird das Verbot ihm gegenüber in Bezug auf dieses Magazin oder Magazingehäuse nicht wirksam, wenn er bis zum 1. September 2021 das Magazin oder Magazingehäuse einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle überlässt oder einen Antrag nach § 40 Absatz 4 stellt. § 46 Absatz 3 Satz 2 und Absatz 5 findet in den Fällen der Sätze 1 und 2 entsprechend Anwendung.
+(17) Hat jemand am 13. Juni 2017 ein nach Anlage 2 Abschnitt 1 Nummer 1.2.4.3 oder 1.2.4.4 verbotenes Magazin oder ein nach Nummer 1.2.4.5 verbotenes Magazingehäuse besessen, das er vor diesem Tag erworben hat, so wird das Verbot ihm gegenüber in Bezug auf dieses Magazin oder Magazingehäuse nicht wirksam, wenn er den Besitz spätestens am 1. September 2021 bei der zuständigen Behörde anzeigt oder das Magazin oder Magazingehäuse einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle überlässt. Hat jemand am oder nach dem 13. Juni 2017, aber vor dem 1. September 2020 ein nach Anlage 2 Abschnitt 1 Nummer 1.2.4.3 oder 1.2.4.4 verbotenes Magazin oder ein nach Nummer 1.2.4.5 verbotenes Magazingehäuse besessen, das er am oder nach dem 13. Juni 2017 erworben hat, so wird das Verbot ihm gegenüber in Bezug auf dieses Magazin oder Magazingehäuse nicht wirksam, wenn er bis zum 1. September 2021 das Magazin oder Magazingehäuse einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle überlässt oder einen Antrag nach § 40 Absatz 4 stellt. § 46 Absatz 3 Satz 2 und Absatz 7 findet in den Fällen der Sätze 1 und 2 entsprechend Anwendung.
 
-(18) Hat jemand am 13. Juni 2017 auf Grund einer Erlaubnis nach § 10 Absatz 1 Satz 1 oder einer gleichgestellten anderen Erlaubnis zum Besitz eine nach Anlage 2 Abschnitt 1 Nummer 1.2.6 oder 1.2.7 verbotene Schusswaffe besessen, die er vor diesem Tag erworben hat, so wird das Verbot ihm gegenüber in Bezug auf diese Schusswaffe nicht wirksam. Hat jemand nach dem 13. Juni 2017, aber vor dem 1. September 2021 eine nach Anlage 2 Abschnitt 1 Nummer 1.2.6 oder 1.2.7 verbotene Schusswaffe besessen, die er am oder nach dem 13. Juni 2017 erworben hat, so wird das Verbot ihm gegenüber in Bezug auf diese Schusswaffe nicht wirksam, wenn er bis zum 1. September 2021 die Schusswaffe einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle überlässt oder einen Antrag nach § 40 Absatz 4 stellt. Im Fall des Satzes 2 findet § 46 Absatz 3 Satz 2 und Absatz 5 entsprechend Anwendung.
+(18) Hat jemand am 13. Juni 2017 auf Grund einer Erlaubnis nach § 10 Absatz 1 Satz 1 oder einer gleichgestellten anderen Erlaubnis zum Besitz eine nach Anlage 2 Abschnitt 1 Nummer 1.2.6 oder 1.2.7 verbotene Schusswaffe besessen, die er vor diesem Tag erworben hat, so wird das Verbot ihm gegenüber in Bezug auf diese Schusswaffe nicht wirksam. Hat jemand nach dem 13. Juni 2017, aber vor dem 1. September 2021 eine nach Anlage 2 Abschnitt 1 Nummer 1.2.6 oder 1.2.7 verbotene Schusswaffe besessen, die er am oder nach dem 13. Juni 2017 erworben hat, so wird das Verbot ihm gegenüber in Bezug auf diese Schusswaffe nicht wirksam, wenn er bis zum 1. September 2021 die Schusswaffe einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle überlässt oder einen Antrag nach § 40 Absatz 4 stellt. Im Fall des Satzes 2 findet § 46 Absatz 3 Satz 2 und Absatz 7 entsprechend Anwendung.
 
 (19) Der Inhaber einer Erlaubnis nach § 21 Absatz 1 Satz 1 hat in seinem Besitz befindliche fertiggestellte Schusswaffen, deren Erwerb oder Besitz der Erlaubnis bedarf und die er vor dem 1. September 2020 erworben hat, bis zum 1. März 2021 elektronisch gemäß § 37 Absatz 2 anzuzeigen. Die wesentlichen Teile dieser Schusswaffen unterfallen dieser Anzeigepflicht nicht.
 
-(20) Hat jemand am 1. September 2020 ein nach Anlage 1 Abschnitt 1 Unterabschnitt 2 Nummer 1.2.3 den Schusswaffen gleichgestelltes Pfeilabschussgerät besessen, das er vor diesem Tag erworben hat, so hat er spätestens am 1. September 2021 eine Erlaubnis nach § 10 Absatz 1 Satz 1 oder eine gleichgestellte andere Erlaubnis zum Besitz zu beantragen oder das Pfeilabschussgerät einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle zu überlassen. Für die Zeit bis zur Erteilung oder Versagung der Erlaubnis gilt der Besitz als erlaubt. § 46 Absatz 3 Satz 2 und Absatz 5 findet entsprechende Anwendung.
+(20) Hat jemand am 1. September 2020 ein nach Anlage 1 Abschnitt 1 Unterabschnitt 2 Nummer 1.2.3 den Schusswaffen gleichgestelltes Pfeilabschussgerät besessen, das er vor diesem Tag erworben hat, so hat er spätestens am 1. September 2021 eine Erlaubnis nach § 10 Absatz 1 Satz 1 oder eine gleichgestellte andere Erlaubnis zum Besitz zu beantragen oder das Pfeilabschussgerät einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle zu überlassen. Für die Zeit bis zur Erteilung oder Versagung der Erlaubnis gilt der Besitz als erlaubt. § 46 Absatz 3 Satz 2 und Absatz 7 findet entsprechende Anwendung.
 
 (21) Bis zum Ablauf des 31. Dezember 2025 kann das Bedürfnis nach § 14 Absatz 4 Satz 1 auch durch eine Bescheinigung des dem Schießsportverband angehörenden Vereins glaubhaft gemacht werden.
 
 (22) Besitzt jemand am 1. September 2020 auf Grund einer Erlaubnis nach § 14 Absatz 6 mehr als zehn Waffen, gilt die Erlaubnis abweichend von § 14 Absatz 6 Satz 1 für die eingetragene Anzahl, solange der Besitz besteht.
 
 (23) Hat eine Landesregierung eine Rechtsverordnung nach § 27a Absatz 4 nicht erlassen, so gilt für das betreffende Land § 12 Absatz 4 bis 6 der Allgemeinen Waffengesetz-Verordnung in der am 19. Februar 2020 geltenden Fassung fort.
+
+(24) Wer ein am 31. Oktober 2024 unerlaubt besessenes Springmesser bis zum 1. Oktober 2025 einem Berechtigten, der zuständigen Behörde oder einer Polizeidienststelle übergibt, wird nicht wegen unerlaubten Erwerbs, unerlaubten Besitzes, unerlaubten Führens auf dem direkten Weg zur Übergabe an die zuständige Behörde oder Polizeidienststelle oder wegen unerlaubten Verbringens bestraft. Der vormalige unerlaubte Erwerb, der vormalige unerlaubte Besitz oder das vormalige unerlaubte Führen oder das unerlaubte Verbringen der Springmesser bleiben für die Personen, die die Gegenstände nach Satz 1 einem Berechtigten, einer zuständigen Behörde oder einer Polizeidienststelle übergeben haben, in Bezug auf ihre im Verwaltungsverfahren zu beurteilende waffenrechtliche Zuverlässigkeit sanktionslos.
 
 
 ### § 59 Verwaltungsvorschriften
@@ -2750,7 +2888,7 @@ sind Jugendliche Personen, die mindestens 14, aber noch nicht 18 Jahre alt sind;
 12\.
 ist eine Waffe schussbereit, wenn sie geladen ist, das heißt, dass Munition oder Geschosse in der Trommel, im in die Waffe eingefügten Magazin oder im Patronen- oder Geschosslager sind, auch wenn sie nicht gespannt ist;
 13\.
-ist eine Schusswaffe zugriffsbereit, wenn sie unmittelbar in Anschlag gebracht werden kann; sie ist nicht zugriffsbereit, wenn sie in einem verschlossenen Behältnis mitgeführt wird;
+ist eine Schusswaffe zugriffsbereit, wenn sie unmittelbar in Anschlag gebracht werden kann; sie ist nicht zugriffsbereit, wenn sie in einem verschlossenen Behältnis mitgeführt wird, ein Messer ist nicht zugriffsbereit, wenn es nur mit mehr als drei Handgriffen erreicht werden kann;
 14\.
 sind Mitgliedstaaten die Mitgliedstaaten der Europäischen Union und gelten als Mitgliedstaaten auch die Vertragsstaaten des Schengener Übereinkommens.
 
@@ -2891,7 +3029,7 @@ Spring- und Fallmesser nach Anlage 1 Abschnitt 1 Unterabschnitt 2 Nr. 2.1.1 und 
 -   höchstens 8,5 cm lang ist und
 
 
--   nicht zweiseitig geschliffen ist;
+-   nicht zweiseitig geschliffen ist, soweit ein berechtigtes Interesse besteht, das eine einhändige Nutzung erforderlich macht, oder der Umgang im Zusammenhang mit der Berufsausübung erfolgt;
 
 
 

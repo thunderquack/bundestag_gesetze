@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2022, 980
 
 Geändert durch
-:   Art. 35 G v. 15.7.2024 I Nr. 236
+:   Art. 35 G v. 15.7.2024 I Nr. 236, Nr. 331
 
 
 ## Eingangsformel
@@ -280,7 +280,7 @@ Für die Durchführung des Schlichtungsverfahrens werden Gebühren und Auslagen 
 
 ### § 17 Zugangsvermutung
 
-Schriftstücke, die auf Veranlassung der Schlichtungsstelle durch einen Postdienstleister im Inland an eine Partei übermittelt werden, gelten mit dem vierten Tage nach der Aufgabe zur Post als zugegangen.
+Schriftstücke, die auf Veranlassung der Schlichtungsstelle durch einen Postdienstleister im Inland an eine Partei übermittelt werden, gelten mit dem dritten Tage nach der Aufgabe zur Post als zugegangen.
 
 
 ### § 18 Anwendbare Vorschriften der Zivilprozessordnung

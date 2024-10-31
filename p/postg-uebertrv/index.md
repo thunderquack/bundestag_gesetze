@@ -17,17 +17,17 @@ Fundstelle
 :   BGBl I: 2021, 816
 
 Geändert durch
-:   Art. 34 G v. 15.7.2024 I Nr. 236
+:   Art. 34 G v. 15.7.2024 I Nr. 236, Nr. 331
 
 
 ## Eingangsformel
 
-Auf Grund des § 18a Absatz 8 Satz 2 des Postgesetzes vom 22. Dezember 1997 (BGBl. I S. 3294), der durch Artikel 1 des Gesetzes vom 9. März 2021 (BGBl. I S. 324) eingefügt worden ist, verordnet das Bundesministerium für Wirtschaft und Energie:
+Auf Grund des § 34 Absatz 8 Satz 2 des Postgesetzes vom 15. Juli 2024 (BGBl. 2024 I Nr. 236) verordnet das Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Übertragung der Verordnungsermächtigung
 
-Die Ermächtigung des § 18a Absatz 8 Satz 1 des Postgesetzes zum Erlass von Rechtsverordnungen wird auf die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen übertragen.
+Die Ermächtigung des § 34 Absatz 8 Satz 1 des Postgesetzes zum Erlass von Rechtsverordnungen wird auf die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen übertragen.
 
 
 ## § 2 Inkrafttreten

@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2014, 1066
 
-Zuletzt geändert durch
-:   Art. 1 G v. 8.5.2024 I Nr. 151
-
+Stand: Zuletzt geändert Art. 4 G v. 23.10.2024 I Nr. 327
 
 ## Teil 1 - Allgemeine Bestimmungen
 
@@ -5897,7 +5895,7 @@ nach dem Messstellenbetriebsgesetz mit einem intelligenten Messsystem ausgestatt
 
 (16) Für Strom aus Anlagen, die nach dem am 31. Dezember 2011 geltenden Inbetriebnahmebegriff vor dem 1. Januar 2012 in Betrieb genommen worden sind, entfällt der Anspruch auf Erhöhung des Bonus für Strom aus nachwachsenden Rohstoffen nach § 27 Absatz 4 Nummer 2 in Verbindung mit Anlage 2 Nummer VI.2.b und VII.2 zu dem Erneuerbare-Energien-Gesetz in der am 31. Dezember 2011 geltenden Fassung nicht endgültig, wenn der für die Anlage vorgeschriebene Mindestanteil von Gülle im Zeitraum vom 1. Mai 2023 bis einschließlich zum 30. April 2024 nicht jederzeit eingehalten wurde. In diesem Zeitraum entfällt der Anspruch nur für die Kalendertage, in denen der Mindestanteil an Gülle nicht eingehalten wurde.
 
-(17) (weggefallen)
+(17) Für Strom aus Anlagen, die nach dem am 31. Dezember 2011 geltenden Inbetriebnahmebegriff vor dem 1. Januar 2012 in Betrieb genommen worden sind, entfällt der Anspruch auf den Bonus für Strom aus nachwachsenden Rohstoffen nach § 27 Absatz 4 Nummer 2 in Verbindung mit Anlage 2 Nummer VI.2 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2011 geltenden Fassung oder nach einer entsprechenden Bestimmung einer früheren Fassung des Erneuerbare-Energien-Gesetzes abweichend von Anlage 2 Nummer VII.2 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2011 geltenden Fassung oder nach einer entsprechenden Bestimmung einer früheren Fassung nicht endgültig, wenn die in der Anlage eingesetzten nachwachsenden Rohstoffe oder die Anlage im Zeitraum vom 1. Januar 2023 bis einschließlich 31. Dezember 2025 die Anforderungen der Biomassestrom-Nachhaltigkeitsverordnung nicht erfüllen. § 19 Absatz 2 Satz 2 in Verbindung mit § 19 Absatz 1 Nummer 2 der Biomassestrom-Nachhaltigkeitsverordnung bleibt unberührt.
 
 (18) Abweichend von § 39c können Bieter in den Ausschreibungen für Biomasseanlagen nach den §§ 39 bis 39i in den Jahren 2024 und 2025 einmalig ein Gebot für eine bezuschlagte Biomasseanlage abgeben (Biomasse-Zusatzgebot), wenn der zuerst erteilte Zuschlag für die Biomasseanlage in einem Gebotstermin nach dem 31. Dezember 2020 und vor dem 1. Januar 2024 erteilt wurde. In Ergänzung zu den Anforderungen an Gebote nach § 30 müssen Biomasse-Zusatzgebote folgende Anforderungen erfüllen:
 

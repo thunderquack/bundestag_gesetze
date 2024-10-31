@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 12 G v. 15.7.2024 I Nr. 237
 
+Änderung durch
+:   Art. 6 G v. 24.10.2024 I Nr. 328 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -1802,7 +1805,7 @@ Kommt die Finanzbehörde in den Fällen des § 100 Abs. 1 Satz 2 und der §§ 10
 
 ### § 155
 
-Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält, sind das Gerichtsverfassungsgesetz und, soweit die grundsätzlichen Unterschiede der beiden Verfahrensarten es nicht ausschließen, die Zivilprozessordnung einschließlich § 278 Absatz 5 und § 278a sinngemäß anzuwenden. Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts und des Bundesgerichtshofs der Bundesfinanzhof und an die Stelle der Zivilprozessordnung die Finanzgerichtsordnung tritt; die Vorschriften über das Verfahren im ersten Rechtszug sind entsprechend anzuwenden.
+Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält, sind das Gerichtsverfassungsgesetz und, soweit die grundsätzlichen Unterschiede der beiden Verfahrensarten es nicht ausschließen, die Zivilprozessordnung einschließlich § 278 Absatz 5 und § 278a sinngemäß anzuwenden; das Leitentscheidungsverfahren nach den §§ 552b und 565 der Zivilprozessordnung ist nicht anzuwenden. Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts und des Bundesgerichtshofs der Bundesfinanzhof und an die Stelle der Zivilprozessordnung die Finanzgerichtsordnung tritt; die Vorschriften über das Verfahren im ersten Rechtszug sind entsprechend anzuwenden.
 
 
 ### § 156

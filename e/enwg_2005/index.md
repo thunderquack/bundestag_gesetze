@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1970 (3621)
 
 Zuletzt geändert durch
-:   Art. 26 G v. 15.7.2024 I Nr. 236
-
-Änderung durch
-:   Art. 41 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 41 G v. 23.10.2024 I Nr. 323
 
 Stand: Das G ist gem. Art. 5 Abs. 1 G v. 7.7.2005 I 1970 am 13.7.2005 in Kraft getreten
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/54/EG des Europäischen Parlaments und des Rates vom 26. Juni 2003 über gemeinsame Vorschriften für den Elektrizitätsbinnenmarkt und zur Aufhebung der Richtlinie 96/92/EG (ABl. EU Nr. L 176 S. 37), der Richtlinie 2003/55/EG des Europäischen Parlaments und des Rates vom 26. Juni 2003 über gemeinsame Vorschriften für den Erdgasbinnenmarkt und zur Aufhebung der Richtlinie 98/30/EG (ABl. EU Nr. L 176 S. 57), der Richtlinie 2004/67/EG des Rates vom 26. April 2004 über Maßnahmen zur Gewährleistung der sicheren Erdgasversorgung (ABl. EU Nr. L 127 S. 92) und der Richtlinie 2006/32/EG des Europäischen Parlaments und des Rates vom 5. April 2006 über Endenergieeffizienz und Energiedienstleistungen und zur Aufhebung der Richtlinie 93/76/EWG des Rates (ABl. EU Nr. L 114 S. 64).

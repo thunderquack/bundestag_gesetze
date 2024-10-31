@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 11 G v. 2.3.2023 I Nr. 56
 
+Änderung durch
+:   Art. 6 G v. 25.10.2024 I Nr. 332 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mit diesem Gesetz wird die Richtlinie 93/15/EWG des Rates vom 5. April 1993 zur Harmonisierung der Bestimmungen über das Inverkehrbringen und die Kontrolle von Explosivstoffen für zivile Zwecke (ABl. EG Nr. L 121 S. 20, 1995 Nr. L 79 S. 34) in deutsches Recht umgesetzt und an Stelle der Anlage 1 des Gesetzes der Anhang I Teil A.14 der Richtlinie 92/69/EWG der Kommission vom 31. Juli 1992 (ABl. EG Nr. L 383 S. 113 und Nr. L 383A S. 1 (S. 87) unmittelbar für anwendbar erklärt.
 
 
@@ -1096,10 +1099,13 @@ bedarf der Erlaubnis.
 
 1.  die rechtskräftig verurteilt worden sind
 
-    a)  wegen eines Verbrechens oder
+    a)  wegen eines Verbrechens,
 
 
-    b)  wegen sonstiger vorsätzlicher Straftaten zu einer Freiheitsstrafe von mindestens einem Jahr,
+    b)  wegen sonstiger vorsätzlicher Straftaten zu einer Freiheitsstrafe von mindestens einem Jahr, oder
+
+
+    c)  zu einer Freiheitsstrafe oder Geldstrafe von mindestens 90 Tagessätzen wegen einer Straftat nach den §§ 80a, 83 Absatz 2, § 84 Absatz 1 bis 3, § 85 Absatz 1 Satz 1 und Absatz 2, § 87 Absatz 1, § 88 Absatz 1, § 89 Absatz 1, § 89a Absatz 1 bis 3, § 89b Absatz 1, § 89c Absatz 1 und 2, § 91 Absatz 1, § 95 Absatz 1, § 96 Absatz 2, § 97b, nach § 98 des Strafgesetzbuches, soweit nicht ein Fall des § 98 Absatz 2 des Strafgesetzbuches vorliegt, nach § 99 Absatz 2 des Strafgesetzbuches, soweit nicht ein Fall des § 99 Absatz 3 des Strafgesetzbuches vorliegt, nach § 100 Absatz 1 in Verbindung mit Absatz 4 des Strafgesetzbuches, nach den §§ 129, 129a Absatz 3 und 5 des Strafgesetzbuches, jeweils auch in Verbindung mit § 129b Absatz 1 des Strafgesetzbuches,
 
 
 

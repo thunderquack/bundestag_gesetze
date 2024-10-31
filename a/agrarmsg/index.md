@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 30 G v. 15.7.2024 I Nr. 236
 
+Änderung durch
+:   Art. 1 G v. 23.10.2024 I Nr. 327 mWv 31.10.2024 noch nicht berücksichtigt
+
 
 ## Teil 1 - Anwendungsbereich und Begriffsbestimmungen
 

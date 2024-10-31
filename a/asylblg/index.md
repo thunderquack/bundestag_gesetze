@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.8.1997 I 2022;
 
 Zuletzt geändert durch
-:   Art. 15 G v. 8.5.2024 I Nr. 152
+:   Art. 4 G v. 25.10.2024 I Nr. 332
 
 
 ## § 1 Leistungsberechtigte
@@ -80,7 +80,16 @@ Zuletzt geändert durch
 
 (3a) Sofern kein Fall des Absatzes 1 Nummer 8 vorliegt, sind Leistungen nach diesem Gesetz mit Ablauf des Monats ausgeschlossen, in dem Leistungsberechtigten, die gemäß § 49 des Aufenthaltsgesetzes erkennungsdienstlich behandelt worden sind und eine Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes beantragt haben, eine entsprechende Fiktionsbescheinigung nach § 81 Absatz 5 in Verbindung mit Absatz 3 oder Absatz 4 des Aufenthaltsgesetzes ausgestellt worden ist. Der Ausschluss nach Satz 1 gilt bis zur Entscheidung der Ausländerbehörde über den Antrag auf Erteilung einer Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes. Das Erfordernis einer erkennungsdienstlichen Behandlung in den Sätzen 1 und 2 gilt nicht, soweit eine erkennungsdienstliche Behandlung nach § 49 des Aufenthaltsgesetzes nicht vorgesehen ist.
 
-(4) Leistungsberechtigte nach Absatz 1 Nummer 5, denen bereits von einem anderen Mitgliedstaat der Europäischen Union oder von einem am Verteilmechanismus teilnehmenden Drittstaat im Sinne von § 1a Absatz 4 Satz 1 internationaler Schutz gewährt worden ist, haben keinen Anspruch auf Leistungen nach diesem Gesetz, wenn der internationale Schutz fortbesteht. Hilfebedürftigen Ausländern, die Satz 1 unterfallen, werden bis zur Ausreise, längstens jedoch für einen Zeitraum von zwei Wochen, einmalig innerhalb von zwei Jahren nur eingeschränkte Hilfen gewährt, um den Zeitraum bis zur Ausreise zu überbrücken (Überbrückungsleistungen); die Zweijahresfrist beginnt mit dem Erhalt der Überbrückungsleistungen nach Satz 2. Hierüber und über die Möglichkeit der Leistungen nach Satz 6 sind die Leistungsberechtigten zu unterrichten. Die Überbrückungsleistungen umfassen die Leistungen nach § 1a Absatz 1 und nach § 4 Absatz 1 Satz 1 und Absatz 2. Sie sollen als Sachleistung erbracht werden. Soweit dies im Einzelfall besondere Umstände erfordern, werden Leistungsberechtigten nach Satz 2 zur Überwindung einer besonderen Härte andere Leistungen nach den §§ 3, 4 und 6 gewährt; ebenso sind Leistungen über einen Zeitraum von zwei Wochen hinaus zu erbringen, soweit dies im Einzelfall auf Grund besonderer Umstände zur Überwindung einer besonderen Härte und zur Deckung einer zeitlich befristeten Bedarfslage geboten ist. Neben den Überbrückungsleistungen werden auf Antrag auch die angemessenen Kosten der Rückreise übernommen. Satz 7 gilt entsprechend, soweit die Personen allein durch die angemessenen Kosten der Rückreise die in Satz 4 genannten Bedarfe nicht aus eigenen Mitteln oder mit Hilfe Dritter decken können. Die Leistung ist als Darlehen zu erbringen.
+(4) Leistungsberechtigte nach Absatz 1 Nummer 5,
+
+1.  denen bereits von einem anderen Mitgliedstaat der Europäischen Union oder von einem am Verteilmechanismus teilnehmenden Drittstaat im Sinne von § 1a Absatz 4 Satz 1 internationaler Schutz gewährt worden ist, der fortbesteht, oder
+
+
+2.  deren Asylantrag durch eine Entscheidung des Bundesamtes für Migration und Flüchtlinge nach § 29 Absatz 1 Nummer 1 in Verbindung mit § 31 Absatz 6 des Asylgesetzes als unzulässig abgelehnt wurde, für die eine Abschiebung nach § 34a Absatz 1 Satz 1 zweite Alternative des Asylgesetzes angeordnet wurde und für die nach der Feststellung des Bundesamtes für Migration und Flüchtlinge die Ausreise rechtlich und tatsächlich möglich ist, auch wenn die Entscheidung noch nicht unanfechtbar ist,
+
+
+
+haben keinen Anspruch auf Leistungen nach diesem Gesetz. Hilfebedürftigen Ausländern, die Satz 1 unterfallen, werden bis zur Ausreise, längstens jedoch für einen Zeitraum von zwei Wochen, einmalig innerhalb von zwei Jahren nur eingeschränkte Hilfen gewährt, um den Zeitraum bis zur Ausreise zu überbrücken (Überbrückungsleistungen); die Zweijahresfrist beginnt mit dem Erhalt der Überbrückungsleistungen nach Satz 2. Hierüber und über den Ausnahmecharakter von Härtefallleistungen nach Satz 6 sind die Leistungsberechtigten zu unterrichten. Die Überbrückungsleistungen umfassen die Leistungen nach § 1a Absatz 1 und nach § 4 Absatz 1 Satz 1 und Absatz 2. Sie sollen als Sachleistung erbracht werden; die Gewährung von Geldleistungen ist ausgeschlossen. Soweit dies im Einzelfall besondere Umstände erfordern, werden Leistungsberechtigten nach Satz 2 zur Überwindung einer besonderen Härte andere Leistungen nach den § 3 Absatz 1 Satz 1 und § 4 oder zur Deckung besonderer Bedürfnisse von Kindern gewährt; ebenso sind Leistungen über einen Zeitraum von zwei Wochen hinaus zu erbringen, soweit dies im Einzelfall auf Grund besonderer Umstände zur Überwindung einer besonderen Härte und zur Deckung einer zeitlich befristeten Bedarfslage geboten ist. Neben den Überbrückungsleistungen werden auf Antrag auch die angemessenen Kosten der Rückreise übernommen. Satz 7 gilt entsprechend, soweit die Personen allein durch die angemessenen Kosten der Rückreise die in Satz 4 genannten Bedarfe nicht aus eigenen Mitteln oder mit Hilfe Dritter decken können. Die Leistung ist als Darlehen zu erbringen.
 
 
 ## § 1a Anspruchseinschränkung
@@ -138,8 +147,6 @@ es sei denn, sie haben die Verletzung der Mitwirkungspflichten oder die Nichtwah
 
 
 und deshalb zu Unrecht Leistungen nach diesem Gesetz beziehen, haben nur Anspruch auf Leistungen entsprechend Absatz 1.
-
-(7) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1 oder 5, deren Asylantrag durch eine Entscheidung des Bundesamtes für Migration und Flüchtlinge nach § 29 Absatz 1 Nummer 1 in Verbindung mit § 31 Absatz 6 des Asylgesetzes als unzulässig abgelehnt wurde und für die eine Abschiebung nach § 34a Absatz 1 Satz 1 zweite Alternative des Asylgesetzes angeordnet wurde, erhalten nur Leistungen entsprechend Absatz 1, auch wenn die Entscheidung noch nicht unanfechtbar ist. Satz 1 gilt nicht, sofern ein Gericht die aufschiebende Wirkung der Klage gegen die Abschiebungsanordnung angeordnet hat.
 
 
 ## § 2 Leistungen in besonderen Fällen

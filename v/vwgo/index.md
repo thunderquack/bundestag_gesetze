@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 11 G v. 15.7.2024 I Nr. 237
 
+Änderung durch
+:   Art. 5 G v. 24.10.2024 I Nr. 328 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -2289,7 +2292,7 @@ Kommt die Behörde in den Fällen des § 113 Abs. 1 Satz 2 und Abs. 5 und des §
 
 ### § 173
 
-Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält, sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung einschließlich § 278 Absatz 5 und § 278a entsprechend anzuwenden, wenn die grundsätzlichen Unterschiede der beiden Verfahrensarten dies nicht ausschließen. Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Oberverwaltungsgericht, an die Stelle des Bundesgerichtshofs das Bundesverwaltungsgericht und an die Stelle der Zivilprozessordnung die Verwaltungsgerichtsordnung tritt. Gericht im Sinne des § 1062 der Zivilprozeßordnung ist das zuständige Verwaltungsgericht, Gericht im Sinne des § 1065 der Zivilprozeßordnung das zuständige Oberverwaltungsgericht.
+Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält, sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung einschließlich § 278 Absatz 5 und § 278a entsprechend anzuwenden, wenn die grundsätzlichen Unterschiede der beiden Verfahrensarten dies nicht ausschließen; das Leitentscheidungsverfahren nach den §§ 552b und 565 der Zivilprozessordnung ist nicht anzuwenden. Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Oberverwaltungsgericht, an die Stelle des Bundesgerichtshofs das Bundesverwaltungsgericht und an die Stelle der Zivilprozessordnung die Verwaltungsgerichtsordnung tritt. Gericht im Sinne des § 1062 der Zivilprozeßordnung ist das zuständige Verwaltungsgericht, Gericht im Sinne des § 1065 der Zivilprozeßordnung das zuständige Oberverwaltungsgericht.
 
 
 ### § 174

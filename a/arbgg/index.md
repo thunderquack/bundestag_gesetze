@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 9 G v. 15.7.2024 I Nr. 237
 
+Änderung durch
+:   Art. 3 G v. 24.10.2024 I Nr. 328 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -1177,7 +1180,7 @@ Wegen eines Mangels im Verfahren des Arbeitsgerichts ist die Zurückverweisung u
 
 (4) Gegen Urteile, durch die über die Anordnung, Abänderung oder Aufhebung eines Arrests oder einer einstweiligen Verfügung entschieden wird, ist die Revision nicht zulässig.
 
-(5) Für das Verfahren vor dem Bundesarbeitsgericht gelten, soweit dieses Gesetz nichts anderes bestimmt, die Vorschriften der Zivilprozeßordnung über die Revision mit Ausnahme des § 566 entsprechend.
+(5) Für das Verfahren vor dem Bundesarbeitsgericht gelten, soweit dieses Gesetz nichts anderes bestimmt, die Vorschriften der Zivilprozeßordnung über die Revision mit Ausnahme der §§ 552b, 565 und 566 entsprechend.
 
 (6) Die Vorschriften der §§ 46c bis 46g, 49 Abs. 1, der §§ 50, 50a, 52 und 53, des § 57 Abs. 2, des § 61 Abs. 2 und des § 63 dieses Gesetzes über den elektronischen Rechtsverkehr, Ablehnung von Gerichtspersonen, Zustellung, Videoverhandlung, Öffentlichkeit, Befugnisse des Vorsitzenden und der ehrenamtlichen Richter, gütliche Erledigung des Rechtsstreits sowie Inhalt des Urteils und Übersendung von Urteilen in Tarifvertragssachen und des § 169 Absatz 3 und 4 des Gerichtsverfassungsgesetzes über die Ton- und Fernseh-Rundfunkaufnahmen sowie Ton- und Filmaufnahmen bei der Entscheidungsverkündung gelten entsprechend.
 

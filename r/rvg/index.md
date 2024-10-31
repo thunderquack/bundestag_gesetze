@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 8 G v. 16.7.2024 I Nr. 240
 
+Änderung durch
+:   Art. 2 G v. 24.10.2024 I Nr. 328 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -564,7 +567,7 @@ nach den Vorschriften des Gesetzes über das Verfahren in Familiensachen und in 
 2.  außergerichtliche Verhandlungen;
 
 
-3.  Zwischenstreite, die Bestellung von Vertretern durch das in der Hauptsache zuständige Gericht, die Ablehnung von Richtern, Rechtspflegern, Urkundsbeamten der Geschäftsstelle oder Sachverständigen, die Entscheidung über einen Antrag betreffend eine Sicherungsanordnung, die Wertfestsetzung, die Beschleunigungsrüge nach § 155b des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit;
+3.  Zwischenstreite, die Bestellung von Vertretern durch das in der Hauptsache zuständige Gericht, die Ablehnung von Richtern, Rechtspflegern, Urkundsbeamten der Geschäftsstelle oder Sachverständigen, die Entscheidung über einen Antrag betreffend eine Sicherungsanordnung, die Wertfestsetzung, das Leitentscheidungsverfahren nach der Zivilprozessordnung, die Beschleunigungsrüge nach § 155b des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit;
 
 
 4.  das Verfahren vor dem beauftragten oder ersuchten Richter;

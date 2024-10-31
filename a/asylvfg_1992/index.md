@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 15.7.2024 I Nr. 236
 
+Änderung durch
+:   Art. 2 G v 25.10.2024 I Nr. 332 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Dieses G ersetzt das G 26-5 v. 16.7.1982 I 946 (AsylVfG)
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
@@ -127,7 +130,7 @@ Satz 1 gilt auch für Ausländer, die andere zu den darin genannten Straftaten o
 
 Wird der Schutz oder Beistand nach Satz 1 Nummer 1 nicht länger gewährt, ohne dass die Lage des Betroffenen gemäß den einschlägigen Resolutionen der Generalversammlung der Vereinten Nationen endgültig erklärt worden ist, sind die Absätze 1 und 2 anwendbar.
 
-(4) Einem Ausländer, der Flüchtling nach Absatz 1 ist, wird die Flüchtlingseigenschaft zuerkannt, es sei denn, er erfüllt die Voraussetzungen des § 60 Absatz 8 Satz 1 des Aufenthaltsgesetzes oder das Bundesamt hat nach § 60 Absatz 8 Satz 3 des Aufenthaltsgesetzes von der Anwendung des § 60 Absatz 1 des Aufenthaltsgesetzes abgesehen.
+(4) Einem Ausländer, der Flüchtling nach Absatz 1 ist, wird die Flüchtlingseigenschaft zuerkannt, es sei denn, er erfüllt die Voraussetzungen des § 60 Absatz 8 Nummer 2 oder 3 des Aufenthaltsgesetzes oder das Bundesamt hat nach § 60 Absatz 8a oder 8b des Aufenthaltsgesetzes von der Anwendung des § 60 Absatz 1 des Aufenthaltsgesetzes abgesehen.
 
 
 #### § 3a Verfolgungshandlungen
@@ -341,21 +344,48 @@ Nach Satz 2 Nr. 3 und 4 sowie bei ausländischen Behörden und nichtöffentliche
 
 (1a) Die für die Einleitung eines Strafverfahrens zuständigen Stellen haben in Strafsachen gegen die betroffene Person das Bundesamt unverzüglich zu unterrichten über
 
-1.  die Einleitung des Strafverfahrens, soweit dadurch eine Gefährdung des Untersuchungszwecks nicht zu erwarten ist, und die Erhebung der öffentlichen Klage, wenn eine Freiheitsstrafe von mindestens drei Jahren zu erwarten ist,
+1.  die Einleitung des Strafverfahrens, soweit dadurch eine Gefährdung des Untersuchungszwecks nicht zu erwarten ist, und die Erhebung der öffentlichen Klage, wenn
+
+    a)  eine Freiheits- oder Jugendstrafe von mindestens drei Jahren zu erwarten ist oder
 
 
-2.  die Einleitung des Strafverfahrens, soweit dadurch eine Gefährdung des Untersuchungszwecks nicht zu erwarten ist, und die Erhebung der öffentlichen Klage wegen einer oder mehrerer vorsätzlicher Straftaten gegen das Leben, die körperliche Unversehrtheit, die sexuelle Selbstbestimmung, das Eigentum oder wegen Widerstands gegen Vollstreckungsbeamte, sofern die Straftat mit Gewalt, unter Anwendung von Drohung mit Gefahr für Leib oder Leben oder mit List begangen worden ist oder eine Straftat nach § 177 des Strafgesetzbuches ist, wenn eine Freiheits- oder Jugendstrafe von mindestens einem Jahr zu erwarten ist, und
+    b)  eine Freiheits- oder Jugendstrafe von mindestens einem Jahr wegen einer oder mehrerer vorsätzlicher Straftaten zu erwarten ist, sofern die Straftat
+
+        aa) eine Straftat nach § 177 des Strafgesetzbuches, § 96 oder § 97 des Aufenthaltsgesetzes ist,
 
 
-3.  die Erledigung eines Strafverfahrens
-
-    a)  durch eine rechtskräftige Verurteilung zu einer Freiheitsstrafe von mindestens drei Jahren,
+        bb) mit Gewalt, unter Anwendung von Drohung mit Gefahr für Leib oder Leben oder mit List begangen worden ist oder
 
 
-    b)  durch eine rechtskräftige Verurteilung zu einer Freiheits- oder Jugendstrafe von mindestens einem Jahr wegen einer oder mehrerer vorsätzlicher Straftaten gegen das Leben, die körperliche Unversehrtheit, die sexuelle Selbstbestimmung, das Eigentum oder wegen Widerstands gegen Vollstreckungsbeamte, sofern die Straftat mit Gewalt, unter Anwendung von Drohung mit Gefahr für Leib oder Leben oder mit List begangen worden ist oder eine Straftat nach § 177 des Strafgesetzbuches ist, oder
+        cc) mit einem antisemitischen, rassistischen, fremdenfeindlichen, geschlechtsspezifischen, gegen die sexuelle Orientierung gerichteten oder sonstigen menschenverachtenden Beweggrund im Sinne von § 46 Absatz 2 Satz 2 des Strafgesetzbuches begangen worden ist;
 
 
-    c)  in sonstiger Weise im Falle einer vorausgegangenen Unterrichtung nach Nummer 1 oder 2.
+
+
+
+
+
+
+2.  die Erledigung eines Strafverfahrens
+
+    a)  durch eine rechtskräftige Verurteilung zu einer Freiheits- oder Jugendstrafe von mindestens drei Jahren,
+
+
+    b)  durch eine rechtskräftige Verurteilung zu einer Freiheits- oder Jugendstrafe von mindestens einem Jahr wegen einer oder mehrerer vorsätzlicher Straftaten, sofern
+
+        aa) die Straftat eine Straftat nach § 177 des Strafgesetzbuches, § 96 oder § 97 des Aufenthaltsgesetzes ist,
+
+
+        bb) die Straftat mit Gewalt, unter Anwendung von Drohung mit Gefahr für Leib oder Leben oder mit List begangen worden ist oder
+
+
+        cc) im Rahmen des Urteils ein antisemitischer, rassistischer, fremdenfeindlicher, geschlechtsspezifischer, gegen die sexuelle Orientierung gerichteter oder sonstiger menschenverachtender Beweggrund im Sinne von § 46 Absatz 2 Satz 2 des Strafgesetzbuches ausdrücklich festgestellt wurde,
+
+
+
+
+
+    c)  in sonstiger Weise im Falle einer vorausgegangenen Unterrichtung nach Nummer 1.
 
 
 
@@ -564,6 +594,51 @@ Die Ausländerbehörde leitet einen bei ihr eingereichten schriftlichen Antrag u
 (3) Ausgelesene Daten sind unverzüglich zu löschen, sobald sie für die Feststellung der Identität oder Staatsangehörigkeit nicht mehr erforderlich sind. Das Auslesen, Auswerten und Löschen von Daten ist in der Asylakte zu dokumentieren. Durch geeignete technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 ist sicherzustellen, dass kein unberechtigter Zugriff auf die ausgelesenen Daten erfolgt.
 
 (4) Für die in den Absätzen 1 bis 3 genannten Maßnahmen ist das Bundesamt zuständig.
+
+
+#### § 15b Nachträglicher biometrischer Abgleich mit allgemein öffentlich zugänglichen Daten aus dem Internet; Verordnungsermächtigung
+
+(1) Das nach § 16 Absatz 1 Satz 1 und 2 erhobene biometrische Lichtbild des Ausländers darf mit allgemein öffentlich zugänglichen personenbezogenen Daten aus dem Internet mittels einer automatisierten Anwendung zur Datenverarbeitung biometrisch abgeglichen werden, wenn der Ausländer keinen gültigen Pass oder Passersatz besitzt, der Abgleich für die Feststellung der Identität oder Staatsangehörigkeit des Ausländers erforderlich ist und der Zweck der Maßnahme nicht durch mildere Mittel erreicht werden kann. Ein Abgleich mit Daten nach Satz 1 aus im Internet allgemein öffentlich zugänglichen in Echtzeit erhobenen Daten ist ausgeschlossen.
+
+(2) Liegen tatsächliche Anhaltspunkte für die Annahme vor, dass durch eine Maßnahme nach Absatz 1 Satz 1 allein Erkenntnisse aus dem Kernbereich privater Lebensgestaltung erlangt werden, ist die Maßnahme unzulässig. Erkenntnisse aus dem Kernbereich privater Lebensgestaltung, die durch den Abgleich erlangt wurden, dürfen nicht verwertet werden. Aufzeichnungen hierüber sind unverzüglich zu löschen. Die Tatsache ihrer Erlangung und Löschung ist aktenkundig zu machen. Bei Maßnahmen nach Absatz 1 Satz 1 ist, soweit möglich, technisch sicherzustellen, dass Daten, die den Kernbereich privater Lebensgestaltung betreffen, nicht erhoben werden.
+
+(3) Die Treffer des Abgleichs sind durch Inaugenscheinnahme zu überprüfen. Zweifel an der Richtigkeit der Treffer gehen nicht zu Lasten des Ausländers.
+
+(4) Die im Rahmen des Abgleichs nach Absatz 1 erhobenen Daten sind nach Durchführung des Abgleichs unverzüglich zu löschen, sobald sie für die Feststellung der Identität oder Staatsangehörigkeit nicht mehr erforderlich sind. Die Weiterverarbeitung der beim Abgleich erhobenen Daten zu anderen Zwecken ist unzulässig. Der Abgleich, das Ergebnis des Abgleichs und das Löschen von Daten sind in der Asylakte zu dokumentieren.
+
+(5) Bei jeder Maßnahme nach Absatz 1 sind die Bezeichnung der eingesetzten automatisierten Anwendung zur Datenverarbeitung, der Zeitpunkt ihres Einsatzes, die Organisationseinheit und die Person, die die Maßnahme durchführen, zu protokollieren. Nach Beendigung einer Maßnahme nach Absatz 1 ist die Stelle zu unterrichten, die für die Kontrolle der Einhaltung der Vorschriften über den Datenschutz bei öffentlichen Stellen zuständig ist.
+
+(6) Die betroffene Person ist über den Zweck, den Umfang und die Durchführung des biometrischen Abgleichs vorab in verständlicher Weise zu informieren. Bestehen auf Grund der Maßnahme nach Absatz 1 Anhaltspunkte, dass die betroffene Person die erforderlichen Angaben zu ihrer Identität nicht, nicht richtig oder nicht vollständig gemacht hat, ist diese hierzu anzuhören.
+
+(7) Durch geeignete technische und organisatorische Maßnahmen ist sicherzustellen, dass kein unberechtigter Zugriff auf die erhobenen Daten erfolgt und insbesondere der Herkunftsstaat des Ausländers sowie Drittstaaten, in denen der Ausländer eine Verfolgung oder einen ernsthaften Schaden zu befürchten hat, keine Kenntnis über die Maßnahme nach Absatz 1 erlangen.
+
+(8) Für die in den Absätzen 1 bis 7 genannten Maßnahmen ist das Bundesamt zuständig. Es hat dabei sicherzustellen, dass diskriminierende Algorithmen weder herausgebildet noch verwendet werden. Soweit technisch möglich, muss die Nachvollziehbarkeit des verwendeten Verfahrens sichergestellt werden.
+
+(9) Soweit zur Durchführung des Abgleichs nach Absatz 1 Dritte im Wege der Auftragsverarbeitung für das Bundesamt tätig werden, müssen diese ihren Sitz in der Europäischen Union oder einem Schengen-assoziierten Staat haben. Die Übermittlung personenbezogener Daten zur Durchführung der Maßnahme nach Absatz 1 ist nur innerhalb der Europäischen Union, einschließlich der Schengen-assoziierten Staaten, zulässig. Die Weiterverarbeitung durch Dritte von personenbezogenen Daten, die aus Maßnahmen nach Absatz 1 erlangt wurden, ist ausgeschlossen. Personenbezogene Daten werden nur an solche Personen übermittelt, die Amtsträger oder für den öffentlichen Dienst besonders Verpflichtete sind oder die zur Geheimhaltung verpflichtet worden sind. § 1 Absatz 2, 3 und 4 Nummer 1 des Verpflichtungsgesetzes ist auf die Verpflichtung zur Geheimhaltung entsprechend anzuwenden. Durch organisatorische und technische Maßnahmen ist zu gewährleisten, dass die Daten gegen unbefugte Kenntnisnahme geschützt sind.
+
+(10) Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit führt Kontrollen bezüglich der Datenverarbeitung der Maßnahme nach Absatz 1 Satz 1 mindestens alle zwei Jahre durch.
+
+(11) Die Bundesregierung bestimmt vor dem Einsatz von Maßnahmen nach Absatz 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates nach Anhörung der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit das Nähere zu dem technischen Verfahren, den Sicherungsmaßnahmen zur Verhinderung unbefugter Datenzugriffe und, soweit eine Speicherung der abzugleichenden, allgemein öffentlich zugänglichen Lichtbild- und Videodateien für die Durchführung von Maßnahmen nach Absatz 1 technisch erforderlich ist, nähere Vorgaben zu Art, Umfang und Dauer. In der Rechtsverordnung nach Satz 1 bestimmt sie insbesondere
+
+1.  Eingabe- und Zugangsberechtigung,
+
+
+2.  Speicher- und Löschfristen,
+
+
+3.  Art der zu speichernden Daten,
+
+
+4.  Personenkreis, der von der Speicherung betroffen ist,
+
+
+5.  Dauer der Speicherung,
+
+
+6.  Protokollierung.
+
+
+
 
 
 #### § 16 Sicherung, Feststellung und Überprüfung der Identität
@@ -850,7 +925,7 @@ Für die Anerkennung als Asylberechtigter nach Satz 1 ist es unbeachtlich, wenn 
 
 Für zum Zeitpunkt ihrer Antragstellung minderjährige ledige Geschwister des minderjährigen Asylberechtigten gilt Satz 1 Nummer 1 bis 4 entsprechend.
 
-(4) Die Absätze 1 bis 3 gelten nicht für Familienangehörige im Sinne dieser Absätze, die die Voraussetzungen des § 60 Absatz 8 Satz 1 des Aufenthaltsgesetzes oder des § 3 Absatz 2 erfüllen oder bei denen das Bundesamt nach § 60 Absatz 8 Satz 3 des Aufenthaltsgesetzes von der Anwendung des § 60 Absatz 1 des Aufenthaltsgesetzes abgesehen hat. Die Absätze 2 und 3 gelten nicht für Kinder eines Ausländers, der selbst nach Absatz 2 oder Absatz 3 als Asylberechtigter anerkannt worden ist.
+(4) Die Absätze 1 bis 3 gelten nicht für Familienangehörige im Sinne dieser Absätze, die die Voraussetzungen des § 60 Absatz 8 Nummer 2 oder 3 des Aufenthaltsgesetzes oder des § 3 Absatz 2 erfüllen oder bei denen das Bundesamt nach § 60 Absatz 8a oder 8b des Aufenthaltsgesetzes von der Anwendung des § 60 Absatz 1 des Aufenthaltsgesetzes abgesehen hat. Die Absätze 2 und 3 gelten nicht für Kinder eines Ausländers, der selbst nach Absatz 2 oder Absatz 3 als Asylberechtigter anerkannt worden ist.
 
 (5) Auf Familienangehörige im Sinne der Absätze 1 bis 3 von international Schutzberechtigten sind die Absätze 1 bis 4 entsprechend anzuwenden. An die Stelle der Asylberechtigung tritt die Flüchtlingseigenschaft oder der subsidiäre Schutz. Der subsidiäre Schutz als Familienangehöriger wird nicht gewährt, wenn ein Ausschlussgrund nach § 4 Absatz 2 vorliegt.
 
@@ -1839,6 +1914,8 @@ Die Veränderung der Umstände nach Satz 2 Nummer 5 und 6 muss erheblich und nic
 
 (6) Die Feststellung eines Abschiebungsverbots nach § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes ist zu widerrufen, wenn die Voraussetzungen nicht mehr vorliegen. Die Feststellung eines Abschiebungsverbots nach § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes ist zurückzunehmen, wenn sie fehlerhaft ist.
 
+(7) Reist der Ausländer in den Staat, dessen Staatsangehörigkeit er besitzt oder wenn er staatenlos ist, in den Staat, in dem er seinen gewöhnlichen Aufenthalt hatte, wird vermutet, dass die Voraussetzungen für die Asylberechtigung, die Zuerkennung des internationalen Schutzes oder die Feststellung eines Abschiebungsverbotes nach § 60 Absatz 5 oder Absatz 7 des Aufenthaltsgesetzes nicht mehr vorliegen. Die Vermutung nach Satz 1 gilt nicht, wenn die Reise sittlich zwingend geboten ist.
+
 
 ### § 73a Gründe für einen Widerruf von Familienasyl und internationalem Schutz für Familienangehörige
 
@@ -1901,10 +1978,10 @@ Bei der Entscheidung nach Aktenlage sind für die Entscheidung über einen Wider
 
 (2) Die Klage gegen Entscheidungen des Bundesamtes, mit denen die Anerkennung als Asylberechtigter oder die Zuerkennung der Flüchtlingseigenschaft widerrufen oder zurückgenommen worden ist, hat in folgenden Fällen keine aufschiebende Wirkung:
 
-1.  bei Widerruf oder Rücknahme wegen des Vorliegens der Voraussetzungen des § 60 Absatz 8 Satz 1 des Aufenthaltsgesetzes oder des § 3 Absatz 2,
+1.  bei Widerruf oder Rücknahme wegen des Vorliegens der Voraussetzungen des § 60 Absatz 8 Nummer 2 oder 3 des Aufenthaltsgesetzes oder des § 3 Absatz 2,
 
 
-2.  bei Widerruf oder Rücknahme, weil das Bundesamt nach § 60 Absatz 8 Satz 3 des Aufenthaltsgesetzes von der Anwendung des § 60 Absatz 1 des Aufenthaltsgesetzes abgesehen hat.
+2.  bei Widerruf oder Rücknahme, weil das Bundesamt nach § 60 Absatz 8a oder 8b des Aufenthaltsgesetzes von der Anwendung des § 60 Absatz 1 des Aufenthaltsgesetzes abgesehen hat.
 
 
 

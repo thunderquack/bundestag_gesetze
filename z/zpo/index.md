@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 7.10.2024 I Nr. 302
 
+Änderung durch
+:   Art. 1 G v. 24.10.2024 I Nr. 328 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -1532,6 +1535,8 @@ Das Gericht kann die Verbindung mehrerer bei ihm anhängiger Prozesse derselben 
 (2) Das Gericht kann ferner, wenn die Entscheidung des Rechtsstreits ganz oder zum Teil von dem Bestehen oder Nichtbestehen von Rechtsverhältnissen oder Rechtsfragen abhängt, die Gegenstand einer Verbandsklage nach dem Verbraucherrechtedurchsetzungsgesetz sind, auf Antrag des Klägers, der nicht Verbraucher oder nach diesem Gesetz einem Verbraucher gleichgestellt ist, anordnen, dass die Verhandlung bis zur rechtskräftigen Entscheidung oder sonstigen Erledigung des Verbandsklageverfahrens auszusetzen sei.
 
 (3) Das Gericht kann, wenn eine für die Entscheidung des Rechtsstreits erhebliche Beweisfrage bereits Gegenstand einer schriftlichen Begutachtung durch einen in einem anderen Verfahren ernannten Sachverständigen ist, anordnen, dass die Verhandlung bis zur Vorlage des nach § 411a verwertbaren Gutachtens ausgesetzt wird.
+
+(4) Das Gericht kann ferner, wenn die Entscheidung des Rechtsstreits von Rechtsfragen abhängt, die den Gegenstand eines bei dem Revisionsgericht anhängigen Leitentscheidungsverfahrens bilden, nach Anhörung der Parteien anordnen, dass die Verhandlung bis zur Erledigung des Leitentscheidungsverfahrens auszusetzen ist. Eine Aussetzung hat zu unterbleiben, wenn eine Partei der Aussetzung widerspricht und gewichtige Gründe hierfür glaubhaft macht. § 149 Absatz 2 gilt entsprechend.
 
 
 ##### § 149 Aussetzung bei Verdacht einer Straftat
@@ -5368,6 +5373,11 @@ Ist die Revision auf Grund einer Nichtzulassungsbeschwerde zugelassen worden, ka
 Das Revisionsgericht weist die von dem Berufungsgericht zugelassene Revision durch einstimmigen Beschluss zurück, wenn es davon überzeugt ist, dass die Voraussetzungen für die Zulassung der Revision nicht vorliegen und die Revision keine Aussicht auf Erfolg hat. § 522 Abs. 2 Satz 2 und 3 gilt entsprechend.
 
 
+#### § 552b Bestimmung zum Leitentscheidungsverfahren
+
+Wirft die Revision Rechtsfragen auf, deren Entscheidung für eine Vielzahl anderer Verfahren von Bedeutung ist, so kann das Revisionsgericht nach Eingang einer Revisionserwiderung oder nach Ablauf eines Monats nach Zustellung der Revisionsbegründung das Revisionsverfahren durch Beschluss zum Leitentscheidungsverfahren bestimmen. Der Beschluss enthält eine Darstellung des Sachverhalts und der Rechtsfragen, deren Entscheidung für eine Vielzahl anderer Verfahren von Bedeutung ist.
+
+
 #### § 553 Terminsbestimmung; Einlassungsfrist
 
 (1) Wird die Revision nicht durch Beschluss als unzulässig verworfen oder gemäß § 552a zurückgewiesen, so ist Termin zur mündlichen Verhandlung zu bestimmen und den Parteien bekannt zu machen.
@@ -5386,13 +5396,33 @@ Das Revisionsgericht weist die von dem Berufungsgericht zugelassene Revision dur
 (4) Die Anschließung verliert ihre Wirkung, wenn die Revision zurückgenommen, verworfen oder durch Beschluss zurückgewiesen wird.
 
 
-#### § 555 Allgemeine Verfahrensgrundsätze
+#### § 555 Anwendbare Vorschriften
 
-(1) Auf das weitere Verfahren sind, soweit sich nicht Abweichungen aus den Vorschriften dieses Abschnitts ergeben, die im ersten Rechtszuge für das Verfahren vor den Landgerichten geltenden Vorschriften entsprechend anzuwenden. Einer Güteverhandlung bedarf es nicht.
+(1) Auf das weitere Verfahren sind die im ersten Rechtszug für das Verfahren vor den Landgerichten geltenden Vorschriften entsprechend anzuwenden, soweit die Vorschriften dieses Abschnitts nicht Abweichendes regeln.
 
-(2) Die Vorschriften der §§ 348 bis 350 sind nicht anzuwenden.
+(2) Einer Güteverhandlung bedarf es nicht.
 
-(3) Ein Anerkenntnisurteil ergeht nur auf gesonderten Antrag des Klägers.
+(3) Die §§ 348 bis 350 sind nicht anzuwenden.
+
+(4) Ein Anerkenntnisurteil ergeht nur auf gesonderten Antrag des Klägers.
+
+(5) Auf die Revision sind folgende für die Berufung geltende Vorschriften entsprechend anzuwenden:
+
+1.  Vorschriften über die Anfechtbarkeit der Versäumnisurteile,
+
+
+2.  Vorschriften über die Verzichtsleistung auf das Rechtsmittel und seine Zurücknahme,
+
+
+3.  Vorschriften über die Rügen der Unzulässigkeit der Klage sowie
+
+
+4.  Vorschriften über die Einforderung, Übersendung und Zurücksendung der Prozessakten.
+
+
+
+
+(6) Die Revision kann ohne Einwilligung des Revisionsbeklagten nur bis zum Beginn der mündlichen Verhandlung des Revisionsbeklagten zur Hauptsache zurückgenommen werden.
 
 
 #### § 556 Verlust des Rügerechts
@@ -5454,9 +5484,21 @@ Ergibt die Begründung des Berufungsurteils zwar eine Rechtsverletzung, stellt d
 Die Entscheidung braucht nicht begründet zu werden, soweit das Revisionsgericht Rügen von Verfahrensmängeln nicht für durchgreifend erachtet. Dies gilt nicht für Rügen nach § 547.
 
 
-#### § 565 Anzuwendende Vorschriften des Berufungsverfahrens
+#### § 565 Leitentscheidung
 
-Die für die Berufung geltenden Vorschriften über die Anfechtbarkeit der Versäumnisurteile, über die Verzichtsleistung auf das Rechtsmittel und seine Zurücknahme, über die Rügen der Unzulässigkeit der Klage und über die Einforderung, Übersendung und Zurücksendung der Prozessakten sind auf die Revision entsprechend anzuwenden. Die Revision kann ohne Einwilligung des Revisionsbeklagten nur bis zum Beginn der mündlichen Verhandlung des Revisionsbeklagten zur Hauptsache zurückgenommen werden.
+(1) Endet die zum Leitentscheidungsverfahren bestimmte Revision, ohne dass ein mit inhaltlicher Begründung versehenes Urteil ergeht, so trifft das Revisionsgericht durch Beschluss eine Leitentscheidung. Der Beschluss ergeht ohne mündliche Verhandlung.
+
+(2) In dem Beschluss wird
+
+1.  festgestellt, dass die Revision beendet ist, und
+
+
+2.  eine Leitentscheidung zu den im Beschluss nach § 552b benannten Rechtsfragen getroffen.
+
+
+
+
+(3) Der Beschluss ist zu begründen. Die Begründung ist auf die Erwägungen zur Entscheidung der maßgeblichen Rechtsfragen zu beschränken.
 
 
 #### § 566 Sprungrevision

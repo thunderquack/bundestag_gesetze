@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 8.5.2024 I Nr. 152
 
+Änderung durch
+:   Art. 3 G v 25.10.2024 I Nr. 332 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 4 G v. 20.12.2023 I Nr. 390 betreffend § 104 Abs. 17 ist nicht mehr ausführbar
 
@@ -2046,7 +2049,7 @@ Aufenthaltsgewährung durch die obersten Landesbehörden;
 
 (1) Einem Ausländer, dem auf Grund eines Beschlusses des Rates der Europäischen Union gemäß der Richtlinie 2001/55/EG vorübergehender Schutz gewährt wird und der seine Bereitschaft erklärt hat, im Bundesgebiet aufgenommen zu werden, wird für die nach den Artikeln 4 und 6 der Richtlinie bemessene Dauer des vorübergehenden Schutzes eine Aufenthaltserlaubnis erteilt.
 
-(2) Die Gewährung von vorübergehendem Schutz ist ausgeschlossen, wenn die Voraussetzungen des § 3 Abs. 2 des Asylgesetzes oder des § 60 Abs. 8 Satz 1 vorliegen; die Aufenthaltserlaubnis ist zu versagen.
+(2) Die Gewährung von vorübergehendem Schutz ist ausgeschlossen, wenn die Voraussetzungen des § 60 Absatz 8 vorliegen; die Aufenthaltserlaubnis ist zu versagen.
 
 (3) Die Ausländer im Sinne des Absatzes 1 werden auf die Länder verteilt. Die Länder können Kontingente für die Aufnahme zum vorübergehenden Schutz und die Verteilung vereinbaren. Die Verteilung auf die Länder erfolgt durch das Bundesamt für Migration und Flüchtlinge. Solange die Länder für die Verteilung keinen abweichenden Schlüssel vereinbart haben, gilt der für die Verteilung von Asylbewerbern festgelegte Schlüssel.
 
@@ -3083,6 +3086,11 @@ Der Integrationskurs soll durch weitere Integrationsangebote des Bundes und der 
 Ein Ausländer ist verpflichtet, seinen Pass, seinen Passersatz oder seinen Ausweisersatz auf Verlangen einer zur Identitätsfeststellung befugten Behörde vorzulegen und es ihr zu ermöglichen, sein Gesicht mit dem Lichtbild im Dokument abzugleichen. Dies gilt auch für die Bescheinigung über die Aufenthaltsgestattung nach § 63 Absatz 1 Satz 1 des Asylgesetzes. Ein Ausländer, der im Besitz eines Ankunftsnachweises im Sinne des § 63a Absatz 1 Satz 1 des Asylgesetzes oder eines der in § 48 Absatz 1 Nummer 2 genannten Dokumente ist, ist verpflichtet, den Ankunftsnachweis oder das Dokument auf Verlangen einer zur Überprüfung der darin enthaltenen Angaben befugten Behörde vorzulegen und es ihr zu ermöglichen, sein Gesicht mit dem Lichtbild im Dokument abzugleichen.
 
 
+### § 47b Reisen in den Herkunftsstaat
+
+Asylberechtigte und Ausländer, denen internationaler Schutz (§ 1 Absatz 1 Nummer 2 des Asylgesetzes) zuerkannt oder für die ein Abschiebungsverbot nach § 60 Absatz 5 oder Absatz 7 festgestellt worden ist, sind verpflichtet, Reisen in ihren Herkunftsstaat sowie den Grund der Reise vor Antritt der Reise gegenüber der zuständigen Ausländerbehörde anzuzeigen. Diese leitet nach § 8 Absatz 1c des Asylgesetzes die Anzeigen an das Bundesamt für Migration und Flüchtlinge zur Prüfung des Widerrufs der Rechtsstellung weiter.
+
+
 ### § 48 Ausweisrechtliche Pflichten
 
 (1) Ein Ausländer ist verpflichtet,
@@ -3430,13 +3438,16 @@ Eine Aufenthaltserlaubnis nach § 25 Absatz 4a Satz 1 soll auch dann widerrufen 
     b)  gegen die körperliche Unversehrtheit,
 
 
-    c)  gegen die sexuelle Selbstbestimmung nach den §§ 174, 176 bis 178, 181a, 184b, 184d und 184e jeweils in Verbindung mit § 184b des Strafgesetzbuches,
+    c)  gegen die sexuelle Selbstbestimmung nach den §§ 174, 176 bis 178, 180a, 181a, 182, 184b, 184c oder 184e des Strafgesetzbuches,
 
 
-    d)  gegen das Eigentum, sofern das Gesetz für die Straftat eine im Mindestmaß erhöhte Freiheitsstrafe vorsieht oder die Straftaten serienmäßig begangen wurden oder
+    d)  gegen das Eigentum, sofern das Gesetz für die Straftat eine im Mindestmaß erhöhte Freiheitsstrafe vorsieht oder die Straftaten serienmäßig begangen wurden,
 
 
-    e)  wegen Widerstands gegen Vollstreckungsbeamte oder tätlichen Angriffs gegen Vollstreckungsbeamte,
+    e)  wegen Widerstands gegen Vollstreckungsbeamte oder Personen, die Vollstreckungsbeamten gleichstehen nach § 115 des Strafgesetzbuches, oder tätlichen Angriffs gegen Vollstreckungsbeamte oder Personen, die Vollstreckungsbeamten gleichstehen nach § 115 des Strafgesetzbuches, oder
+
+
+    f)  gegen die öffentliche Sicherheit nach § 125 oder § 125a des Strafgesetzbuches,
 
 
 
@@ -3445,7 +3456,31 @@ Eine Aufenthaltserlaubnis nach § 25 Absatz 4a Satz 1 soll auch dann widerrufen 
 1b. wegen einer oder mehrerer Straftaten nach § 263 des Strafgesetzbuchs zu Lasten eines Leistungsträgers oder Sozialversicherungsträgers nach dem Sozialgesetzbuch oder nach dem Gesetz über den Verkehr mit Betäubungsmitteln rechtskräftig zu einer Freiheits- oder Jugendstrafe von mindestens einem Jahr verurteilt worden ist,
 
 
-1c. wegen einer oder mehrerer Straftaten nach § 96 rechtskräftig zu einer Freiheits- oder Jugendstrafe von mindestens einem Jahr verurteilt worden ist,
+1c. wegen einer oder mehrerer Straftaten nach § 96 oder § 97 rechtskräftig zu einer Freiheits- oder Jugendstrafe von mindestens einem Jahr verurteilt worden ist,
+
+
+1d. rechtskräftig zu einer Freiheitsstrafe von mindestens sechs Monaten verurteilt worden ist wegen einer oder mehrerer vorsätzlicher Straftaten
+
+    a)  gegen das Leben,
+
+
+    b)  gegen die körperliche Unversehrtheit,
+
+
+    c)  gegen die sexuelle Selbstbestimmung nach den §§ 174, 176, 176a, 176c, 176d, 177, 178 oder 182 des Strafgesetzbuches,
+
+
+    d)  gegen das Eigentum nach den §§ 249 bis 252 oder 255 des Strafgesetzbuches,
+
+
+    e)  wegen Widerstands gegen Vollstreckungsbeamte oder Personen, die Vollstreckungsbeamten gleichstehen nach § 115 des Strafgesetzbuches, oder tätlichen Angriffs gegen Vollstreckungsbeamte oder Personen, die Vollstreckungsbeamten gleichstehen nach § 115 des Strafgesetzbuches, oder
+
+
+    f)  gegen die öffentliche Sicherheit nach § 125 oder § 125a des Strafgesetzbuches,
+
+
+
+    sofern die Straftat unter Verwendung einer Waffe oder eines anderen gefährlichen Werkzeugs begangen worden ist,
 
 
 2.  die freiheitliche demokratische Grundordnung oder die Sicherheit der Bundesrepublik Deutschland gefährdet; hiervon ist auszugehen, wenn Tatsachen die Schlussfolgerung rechtfertigen, dass er einer Vereinigung angehört oder angehört hat, die den Terrorismus unterstützt oder er eine derartige Vereinigung unterstützt oder unterstützt hat oder er eine in § 89a Absatz 1 des Strafgesetzbuchs bezeichnete schwere staatsgefährdende Gewalttat nach § 89a Absatz 2 des Strafgesetzbuchs vorbereitet oder vorbereitet hat, es sei denn, der Ausländer nimmt erkennbar und glaubhaft von seinem sicherheitsgefährdenden Handeln Abstand,
@@ -3487,6 +3522,30 @@ Eine Aufenthaltserlaubnis nach § 25 Absatz 4a Satz 1 soll auch dann widerrufen 
 
 
 2a. wegen vorsätzlicher Straftaten nach dem 17., 19. oder 20. Abschnitt des Strafgesetzbuches, die innerhalb eines Zeitraumes von zwölf Monaten begangen wurden, mehrfach rechtskräftig zu einer Geld- oder Freiheitsstrafe verurteilt wurde; Verurteilungen zu Geldstrafen bis zu 90 Tagessätzen bleiben außer Betracht,
+
+
+2b. rechtskräftig zu einer Freiheitsstrafe von mindestens drei Monaten oder zu einer Jugendstrafe, deren Vollstreckung nicht zur Bewährung ausgesetzt worden ist, verurteilt worden ist wegen einer oder mehrerer vorsätzlicher Straftaten
+
+    a)  gegen das Leben,
+
+
+    b)  gegen die körperliche Unversehrtheit,
+
+
+    c)  gegen die sexuelle Selbstbestimmung nach den §§ 174, 176, 176a, 176c, 176d, 177, 178 oder 182 des Strafgesetzbuches,
+
+
+    d)  gegen das Eigentum nach den §§ 249 bis 252 oder 255 des Strafgesetzbuches,
+
+
+    e)  wegen Widerstands gegen Vollstreckungsbeamte oder Personen, die Vollstreckungsbeamten gleichstehen nach § 115 des Strafgesetzbuches, oder tätlichen Angriffs gegen Vollstreckungsbeamte oder Personen, die Vollstreckungsbeamten gleichstehen nach § 115 des Strafgesetzbuches, oder
+
+
+    f)  gegen die öffentliche Sicherheit nach § 125 oder § 125a des Strafgesetzbuches,
+
+
+
+    sofern die Straftat unter Verwendung einer Waffe oder eines anderen gefährlichen Werkzeugs begangen worden ist,
 
 
 3.  als Täter oder Teilnehmer den Tatbestand des § 96 oder des § 97 oder des § 29 Absatz 1 Satz 1 Nummer 1 des Betäubungsmittelgesetzes verwirklicht oder dies versucht,
@@ -3796,7 +3855,7 @@ Im Übrigen ist die Ausreisepflicht erst vollziehbar, wenn die Versagung des Auf
 
 (2) Das Bundesministerium des Innern, für Bau und Heimat kann die Übernahme der Zuständigkeit erklären, wenn ein besonderes Interesse des Bundes besteht. Die oberste Landesbehörde ist hierüber zu unterrichten. Abschiebungsanordnungen des Bundes werden von der Bundespolizei vollzogen.
 
-(3) Eine Abschiebungsanordnung darf nicht vollzogen werden, wenn die Voraussetzungen für ein Abschiebungsverbot nach § 60 Abs. 1 bis 8 gegeben sind. § 59 Abs. 2 und 3 ist entsprechend anzuwenden. Die Prüfung obliegt der über die Abschiebungsanordnung entscheidenden Behörde, die nicht an hierzu getroffene Feststellungen aus anderen Verfahren gebunden ist.
+(3) Eine Abschiebungsanordnung darf nicht vollzogen werden, wenn die Voraussetzungen für ein Abschiebungsverbot nach § 60 Absatz 1 bis 8b gegeben sind. § 59 Abs. 2 und 3 ist entsprechend anzuwenden. Die Prüfung obliegt der über die Abschiebungsanordnung entscheidenden Behörde, die nicht an hierzu getroffene Feststellungen aus anderen Verfahren gebunden ist.
 
 (4) Dem Ausländer ist nach Bekanntgabe der Abschiebungsanordnung unverzüglich Gelegenheit zu geben, mit einem Rechtsbeistand seiner Wahl Verbindung aufzunehmen, es sei denn, er hat sich zuvor anwaltlichen Beistands versichert; er ist hierauf, auf die Rechtsfolgen der Abschiebungsanordnung und die gegebenen Rechtsbehelfe hinzuweisen. Ein Antrag auf Gewährung vorläufigen Rechtsschutzes nach der Verwaltungsgerichtsordnung ist innerhalb von sieben Tagen nach Bekanntgabe der Abschiebungsanordnung zu stellen. Die Abschiebung darf bis zum Ablauf der Frist nach Satz 2 und im Falle der rechtzeitigen Antragstellung bis zur Entscheidung des Gerichts über den Antrag auf vorläufigen Rechtsschutz nicht vollzogen werden.
 
@@ -3863,7 +3922,44 @@ Die Ausländerbehörde oder eine durch sie beauftragte Stelle unterrichtet den A
 
 (7) Von der Abschiebung eines Ausländers in einen anderen Staat soll abgesehen werden, wenn dort für diesen Ausländer eine erhebliche konkrete Gefahr für Leib, Leben oder Freiheit besteht. § 60a Absatz 2c Satz 2 und 3 gilt entsprechend. Eine erhebliche konkrete Gefahr aus gesundheitlichen Gründen liegt nur vor bei lebensbedrohlichen oder schwerwiegenden Erkrankungen, die sich durch die Abschiebung wesentlich verschlechtern würden. Es ist nicht erforderlich, dass die medizinische Versorgung im Zielstaat mit der Versorgung in der Bundesrepublik Deutschland gleichwertig ist. Eine ausreichende medizinische Versorgung liegt in der Regel auch vor, wenn diese nur in einem Teil des Zielstaats gewährleistet ist. Gefahren nach Satz 1, denen die Bevölkerung oder die Bevölkerungsgruppe, der der Ausländer angehört, allgemein ausgesetzt ist, sind bei Anordnungen nach § 60a Abs. 1 Satz 1 zu berücksichtigen.
 
-(8) Absatz 1 findet keine Anwendung, wenn der Ausländer aus schwerwiegenden Gründen als eine Gefahr für die Sicherheit der Bundesrepublik Deutschland anzusehen ist oder eine Gefahr für die Allgemeinheit bedeutet, weil er wegen eines Verbrechens oder besonders schweren Vergehens rechtskräftig zu einer Freiheitsstrafe von mindestens drei Jahren verurteilt worden ist. Das Gleiche gilt, wenn der Ausländer die Voraussetzungen des § 3 Abs. 2 des Asylgesetzes erfüllt. Von der Anwendung des Absatzes 1 kann abgesehen werden, wenn der Ausländer eine Gefahr für die Allgemeinheit bedeutet, weil er wegen einer oder mehrerer vorsätzlicher Straftaten gegen das Leben, die körperliche Unversehrtheit, die sexuelle Selbstbestimmung, das Eigentum oder wegen Widerstands gegen Vollstreckungsbeamte rechtskräftig zu einer Freiheits- oder Jugendstrafe von mindestens einem Jahr verurteilt worden ist, sofern die Straftat mit Gewalt, unter Anwendung von Drohung mit Gefahr für Leib oder Leben oder mit List begangen worden ist oder eine Straftat nach § 177 des Strafgesetzbuches ist.
+(8) Von der Anwendung des Absatzes 1 ist abzusehen, wenn der Ausländer
+
+1.  die Voraussetzungen des § 3 Absatz 2 des Asylgesetzes erfüllt oder
+
+
+2.  aus schwerwiegenden Gründen als eine Gefahr für die Sicherheit der Bundesrepublik Deutschland anzusehen ist oder
+
+
+3.  eine Gefahr für die Allgemeinheit bedeutet, weil er wegen eines Verbrechens oder besonders schweren Vergehens rechtskräftig zu einer Freiheits- oder Jugendstrafe von mindestens drei Jahren verurteilt worden ist.
+
+
+
+
+(8a) Von der Anwendung des Absatzes 1 soll abgesehen werden, wenn der Ausländer eine Gefahr für die Allgemeinheit bedeutet, weil er wegen einer oder mehrerer vorsätzlicher Straftaten rechtskräftig zu einer Freiheits- oder Jugendstrafe von mindestens zwei Jahren verurteilt worden ist, sofern
+
+1.  die Straftat eine Straftat nach § 177 des Strafgesetzbuches, § 96 oder § 97 dieses Gesetzes ist,
+
+
+2.  die Straftat mit Gewalt, unter Anwendung von Drohung mit Gefahr für Leib oder Leben oder mit List begangen worden ist oder
+
+
+3.  im Rahmen des Urteils ein antisemitischer, rassistischer, fremdenfeindlicher, geschlechtsspezifischer, gegen die sexuelle Orientierung gerichteter oder sonstiger menschenverachtender Beweggrund im Sinne von § 46 Absatz 2 Satz 2 des Strafgesetzbuches ausdrücklich festgestellt wurde.
+
+
+
+
+(8b) Von der Anwendung des Absatzes 1 kann abgesehen werden, wenn der Ausländer eine Gefahr für die Allgemeinheit bedeutet, weil er wegen einer oder mehrerer vorsätzlicher Straftaten rechtskräftig zu einer Freiheits- oder Jugendstrafe von mindestens einem Jahr verurteilt worden ist, sofern
+
+1.  die Straftat eine Straftat nach § 177 des Strafgesetzbuches, § 96 oder § 97 dieses Gesetzes ist,
+
+
+2.  die Straftat mit Gewalt, unter Anwendung von Drohung mit Gefahr für Leib oder Leben oder mit List begangen worden ist oder
+
+
+3.  im Rahmen des Urteils ein antisemitischer, rassistischer, fremdenfeindlicher, geschlechtsspezifischer, gegen die sexuelle Orientierung gerichteter oder sonstiger menschenverachtender Beweggrund im Sinne von § 46 Absatz 2 Satz 2 des Strafgesetzbuches ausdrücklich festgestellt wurde.
+
+
+
 
 (9) In den Fällen des Absatzes 8 kann einem Ausländer, der einen Asylantrag gestellt hat, abweichend von den Vorschriften des Asylgesetzes die Abschiebung angedroht und diese durchgeführt werden. Die Absätze 2 bis 7 bleiben unberührt.
 
@@ -4661,7 +4757,7 @@ Die Daten der in Satz 1 genannten Personen werden nach Kennzeichnung durch die B
 
 (1) Daten, die im Visumverfahren von der deutschen Auslandsvertretung oder von der für die Entgegennahme des Visumantrags zuständigen Auslandsvertretung eines anderen Schengen-Staates zur visumantragstellenden Person, zum Einlader und zu Personen, die durch Abgabe einer Verpflichtungserklärung oder in anderer Weise die Sicherung des Lebensunterhalts garantieren, oder zu sonstigen Referenzpersonen im Inland erhoben werden, können über das Bundesverwaltungsamt zur Feststellung von Versagungsgründen nach § 5 Absatz 4, § 27 Absatz 3a oder zur Prüfung von sonstigen Sicherheitsbedenken an den Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, den Militärischen Abschirmdienst, das Bundeskriminalamt, die Bundespolizei und das Zollkriminalamt übermittelt werden. Das Verfahren nach § 21 des Ausländerzentralregistergesetzes bleibt unberührt. In den Fällen des § 14 Abs. 2 kann die jeweilige mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörde die im Visumverfahren erhobenen Daten an die in Satz 1 genannten Behörden übermitteln.
 
-(1a) Daten, die zur Sicherung, Feststellung und Überprüfung der Identität nach § 16 Absatz 1 Satz 1 des Asylgesetzes und § 49 zu Personen im Sinne des § 2 Absatz 1a, 2 Nummer 1 des AZR-Gesetzes erhoben werden oder bereits gespeichert wurden, können über das Bundesverwaltungsamt zur Feststellung von Versagungsgründen nach § 3 Absatz 2, § 4 Absatz 2 des Asylgesetzes, § 60 Absatz 8 Satz 1 sowie § 5 Absatz 4 oder zur Prüfung von sonstigen Sicherheitsbedenken an den Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, den Militärischen Abschirmdienst, das Bundeskriminalamt, die Bundespolizei und das Zollkriminalamt übermittelt werden. Die in Satz 1 genannten Daten können über das Bundesverwaltungsamt zur Feststellung der in Satz 1 genannten Versagungsgründe oder zur Prüfung sonstiger Sicherheitsbedenken auch für die Prüfung, ob die Voraussetzungen für einen Widerruf oder eine Rücknahme nach den §§ 73 bis 73b des Asylgesetzes vorliegen, an die in Satz 1 genannten Sicherheitsbehörden und Nachrichtendienste übermittelt werden. Ebenso können Daten, die zur Sicherung, Feststellung und Überprüfung der Identität
+(1a) Daten, die zur Sicherung, Feststellung und Überprüfung der Identität nach § 16 Absatz 1 Satz 1 des Asylgesetzes und § 49 zu Personen im Sinne des § 2 Absatz 1a, 2 Nummer 1 des AZR-Gesetzes erhoben werden oder bereits gespeichert wurden, können über das Bundesverwaltungsamt zur Feststellung von Versagungsgründen nach § 3 Absatz 2, § 4 Absatz 2 des Asylgesetzes, § 60 Absatz 8 Nummer 2 oder 3, Absatz 8a oder 8b sowie § 5 Absatz 4 oder zur Prüfung von sonstigen Sicherheitsbedenken an den Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, den Militärischen Abschirmdienst, das Bundeskriminalamt, die Bundespolizei und das Zollkriminalamt übermittelt werden. Die in Satz 1 genannten Daten können über das Bundesverwaltungsamt zur Feststellung der in Satz 1 genannten Versagungsgründe oder zur Prüfung sonstiger Sicherheitsbedenken auch für die Prüfung, ob die Voraussetzungen für einen Widerruf oder eine Rücknahme nach den §§ 73 bis 73b des Asylgesetzes vorliegen, an die in Satz 1 genannten Sicherheitsbehörden und Nachrichtendienste übermittelt werden. Ebenso können Daten, die zur Sicherung, Feststellung und Überprüfung der Identität
 
 1.  nach § 16 Absatz 1 Satz 1 des Asylgesetzes, § 49 Absatz 5 Nummer 5, Absatz 8 und 9 erhoben oder nach Artikel 21 der Verordnung (EU) Nr. 604/2013 von einem anderen Mitgliedstaat an die Bundesrepublik Deutschland übermittelt wurden zu Personen, für die ein Aufnahme- oder Wiederaufnahmegesuch eines anderen Mitgliedstaates an die Bundesrepublik Deutschland nach der Verordnung (EU) Nr. 604/2013 gestellt wurde,
 
@@ -4679,7 +4775,7 @@ Die Daten der in Satz 1 genannten Personen werden nach Kennzeichnung durch die B
 
 (3) Die in den Absätzen 1 und 2 genannten Sicherheitsbehörden und Nachrichtendienste teilen dem Bundesverwaltungsamt unverzüglich mit, ob Versagungsgründe nach § 5 Abs. 4 oder sonstige Sicherheitsbedenken vorliegen; bei der Übermittlung von Mitteilungen der Landesämter für Verfassungsschutz zu Anfragen der Ausländerbehörden nach Absatz 2 kann das Bundesamt für Verfassungsschutz technische Unterstützung leisten. Die deutschen Auslandsvertretungen und Ausländerbehörden übermitteln den in Satz 1 genannten Sicherheitsbehörden und Nachrichtendiensten unverzüglich die Gültigkeitsdauer der erteilten und verlängerten Aufenthaltstitel; werden den in Satz 1 genannten Behörden während des Gültigkeitszeitraums des Aufenthaltstitels Versagungsgründe nach § 5 Abs. 4 oder sonstige Sicherheitsbedenken bekannt, teilen sie dies der zuständigen Ausländerbehörde oder der zuständigen Auslandsvertretung unverzüglich mit. Die in Satz 1 genannten Behörden dürfen die übermittelten Daten verarbeiten, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Übermittlungsregelungen nach anderen Gesetzen bleiben unberührt.
 
-(3a) Die in Absatz 1a genannten Sicherheitsbehörden und Nachrichtendienste teilen dem Bundesverwaltungsamt unverzüglich mit, ob Versagungsgründe nach § 3 Absatz 2, § 4 Absatz 2 des Asylgesetzes, § 60 Absatz 8 Satz 1 sowie nach § 5 Absatz 4 oder sonstige Sicherheitsbedenken vorliegen. Das Bundesverwaltungsamt stellt den für das Asylverfahren sowie für aufenthaltsrechtliche Entscheidungen zuständigen Behörden diese Information umgehend zur Verfügung. Die infolge der Übermittlung nach Absatz 1a und den Sätzen 1 und 2 erforderlichen weiteren Übermittlungen zwischen den in Satz 1 genannten Behörden und den für das Asylverfahren sowie für die aufenthaltsrechtlichen Entscheidungen zuständigen Behörden dürfen über das Bundesverwaltungsamt erfolgen. Die in Satz 1 genannten Behörden dürfen die ihnen übermittelten Daten verarbeiten, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Das Bundesverwaltungsamt speichert die übermittelten Daten, solange es für Zwecke des Sicherheitsabgleiches erforderlich ist. Das Bundeskriminalamt prüft unverzüglich, ob die nach Absatz 1a Satz 4 übermittelten Daten der betroffenen Person den beim Bundeskriminalamt gespeicherten personenbezogenen Daten zu einer Person zugeordnet werden können, die zur Fahndung ausgeschrieben ist. Ist dies nicht der Fall, hat das Bundeskriminalamt die nach Absatz 1a Satz 4 übermittelten Daten der betroffenen Person unverzüglich zu löschen. Ergebnisse zu Abgleichen nach Absatz 1a Satz 5, die der Überprüfung, Feststellung oder Sicherung der Identität dienen, können neben den für das Registrier- und Asylverfahren sowie für die aufenthaltsrechtliche Entscheidung zuständigen Behörden auch der Bundespolizei, dem Bundeskriminalamt und den zuständigen Behörden der Polizei übermittelt werden. Übermittlungsregelungen nach anderen Gesetzen bleiben unberührt.
+(3a) Die in Absatz 1a genannten Sicherheitsbehörden und Nachrichtendienste teilen dem Bundesverwaltungsamt unverzüglich mit, ob Versagungsgründe nach § 3 Absatz 2, § 4 Absatz 2 des Asylgesetzes, § 60 Absatz 8 Nummer 2 oder 3, Absatz 8a oder 8b sowie nach § 5 Absatz 4 oder sonstige Sicherheitsbedenken vorliegen. Das Bundesverwaltungsamt stellt den für das Asylverfahren sowie für aufenthaltsrechtliche Entscheidungen zuständigen Behörden diese Information umgehend zur Verfügung. Die infolge der Übermittlung nach Absatz 1a und den Sätzen 1 und 2 erforderlichen weiteren Übermittlungen zwischen den in Satz 1 genannten Behörden und den für das Asylverfahren sowie für die aufenthaltsrechtlichen Entscheidungen zuständigen Behörden dürfen über das Bundesverwaltungsamt erfolgen. Die in Satz 1 genannten Behörden dürfen die ihnen übermittelten Daten verarbeiten, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Das Bundesverwaltungsamt speichert die übermittelten Daten, solange es für Zwecke des Sicherheitsabgleiches erforderlich ist. Das Bundeskriminalamt prüft unverzüglich, ob die nach Absatz 1a Satz 4 übermittelten Daten der betroffenen Person den beim Bundeskriminalamt gespeicherten personenbezogenen Daten zu einer Person zugeordnet werden können, die zur Fahndung ausgeschrieben ist. Ist dies nicht der Fall, hat das Bundeskriminalamt die nach Absatz 1a Satz 4 übermittelten Daten der betroffenen Person unverzüglich zu löschen. Ergebnisse zu Abgleichen nach Absatz 1a Satz 5, die der Überprüfung, Feststellung oder Sicherung der Identität dienen, können neben den für das Registrier- und Asylverfahren sowie für die aufenthaltsrechtliche Entscheidung zuständigen Behörden auch der Bundespolizei, dem Bundeskriminalamt und den zuständigen Behörden der Polizei übermittelt werden. Übermittlungsregelungen nach anderen Gesetzen bleiben unberührt.
 
 (3b) Die in Absatz 1 genannten Sicherheitsbehörden und Nachrichtendienste teilen dem Bundesverwaltungsamt unverzüglich mit, ob Versagungsgründe nach § 27 Absatz 3a vorliegen. Werden den in Satz 1 genannten Behörden während des nach Absatz 3 Satz 2 mitgeteilten Gültigkeitszeitraums des Aufenthaltstitels Versagungsgründe nach § 27 Absatz 3a bekannt, teilen sie dies der zuständigen Ausländerbehörde oder der zuständigen Auslandsvertretung unverzüglich mit. Die in Satz 1 genannten Behörden dürfen die übermittelten Daten verarbeiten, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Übermittlungsregelungen nach anderen Gesetzen bleiben unberührt.
 
@@ -6214,6 +6310,9 @@ Informationen zum konkreten Ablauf einer Abschiebung, insbesondere Informationen
 
 
 2a. entgegen § 47a Satz 1, auch in Verbindung mit Satz 2, oder entgegen § 47a Satz 3, ein dort genanntes Dokument nicht oder nicht rechtzeitig vorlegt oder einen Abgleich mit dem Lichtbild nicht oder nicht rechtzeitig ermöglicht,
+
+
+2b. entgegen § 47b eine Anzeige nicht vornimmt,
 
 
 3.  entgegen § 48 Abs. 1 oder 3 Satz 1 eine dort genannte Urkunde oder Unterlage oder einen dort genannten Datenträger nicht oder nicht rechtzeitig vorlegt, nicht oder nicht rechtzeitig aushändigt oder nicht oder nicht rechtzeitig überlässt,

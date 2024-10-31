@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 250
 
 Zuletzt geändert durch
-:   Art. 28 V v. 19.6.2020 I 1328
+:   Art. 10 G v. 25.10. 2024 I Nr. 332
 
 Stand: Ersetzt V v. 28.6.2005 I 1870 mWv 1.3.2008
 
@@ -53,7 +53,10 @@ Auf Grund des § 58 Abs. 1 des Bundespolizeigesetzes vom 19. Oktober 1994 (BGBl.
     f)  § 6 Abs. 1 Nr. 2 und § 32 Abs. 1 Nr. 1 des Ausländerzentralregistergesetzes sowie nach der Anlage der AZRG-Durchführungsverordnung, soweit dort jeweils auf die in dieser Rechtsverordnung bestimmte Bundespolizeibehörde verwiesen wird,
 
 
-    g)  § 1 Absatz 1 des Rechtsextremismus-Datei-Gesetzes;
+    g)  § 1 Absatz 1 des Rechtsextremismus-Datei-Gesetzes,
+
+
+    h)  § 5 Absatz 5 und § 6 Absatz 1 des Waffengesetzes;
 
 
 

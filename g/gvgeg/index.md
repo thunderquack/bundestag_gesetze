@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1877, 77
 
 Zuletzt geändert durch
-:   Art. 45 G v. 12.7.2024 I Nr. 234
+:   Art. 8 G v. 25.10.2024 I Nr. 332
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -188,13 +188,16 @@ dies gilt auch, wenn auf Grund der Entscheidung der Erlaß eines Verwaltungsakte
     a)  um Strafsachen im Zusammenhang mit Betriebsunfällen, in denen Zuwiderhandlungen gegen Unfallverhütungsvorschriften bekannt werden, oder
 
 
-    b)  um Straftaten gegen Vorschriften zum Schutz der Arbeitskraft oder zum Schutz der Gesundheit von Arbeitnehmern handelt, oder
+    b)  um Straftaten gegen Vorschriften zum Schutz der Arbeitskraft oder zum Schutz der Gesundheit von Arbeitnehmern handelt,
 
 
 
 
 
-9.  die Abwehr erheblicher Nachteile für Tiere und Pflanzen, Boden, Wasser, Luft, Klima und Landschaft sowie das kulturelle Erbe.
+9.  die Abwehr erheblicher Nachteile für Tiere und Pflanzen, Boden, Wasser, Luft, Klima und Landschaft sowie das kulturelle Erbe oder
+
+
+10. die Untersagung des Besitzes von Waffen oder Munition, deren Erwerb nicht der Erlaubnis bedarf, sowie des Erwerbs solcher Waffen und Munition.
 
 
 

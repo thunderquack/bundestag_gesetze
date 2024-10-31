@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 10 G v. 15.7.2024 I Nr. 237
 
+Änderung durch
+:   Art. 4 G v. 24.10.2024 I Nr. 328 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -2313,7 +2316,7 @@ Für Ansprüche, die beim Bundessozialgericht entstehen, gelten das Justizverwal
 
 ### § 202
 
-Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält, sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung einschließlich der §§ 129a, 278 Absatz 5 und § 278a entsprechend anzuwenden, wenn die grundsätzlichen Unterschiede der beiden Verfahrensarten dies nicht ausschließen. Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Landessozialgericht, an die Stelle des Bundesgerichtshofs das Bundessozialgericht und an die Stelle der Zivilprozessordnung das Sozialgerichtsgesetz tritt. In Streitigkeiten über Entscheidungen des Bundeskartellamts, die die freiwillige Vereinigung von Krankenkassen nach § 172a des Fünften Buches Sozialgesetzbuch betreffen, sind die §§ 63 bis 80 des Gesetzes gegen Wettbewerbsbeschränkungen mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Landessozialgericht, an die Stelle des Bundesgerichtshofs das Bundessozialgericht und an die Stelle der Zivilprozessordnung das Sozialgerichtsgesetz tritt.
+Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält, sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung einschließlich der §§ 129a, 278 Absatz 5 und § 278a entsprechend anzuwenden, wenn die grundsätzlichen Unterschiede der beiden Verfahrensarten dies nicht ausschließen; das Leitentscheidungsverfahren nach den §§ 552b und 565 der Zivilprozessordnung ist nicht anzuwenden. Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Landessozialgericht, an die Stelle des Bundesgerichtshofs das Bundessozialgericht und an die Stelle der Zivilprozessordnung das Sozialgerichtsgesetz tritt. In Streitigkeiten über Entscheidungen des Bundeskartellamts, die die freiwillige Vereinigung von Krankenkassen nach § 172a des Fünften Buches Sozialgesetzbuch betreffen, sind die §§ 63 bis 80 des Gesetzes gegen Wettbewerbsbeschränkungen mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Landessozialgericht, an die Stelle des Bundesgerichtshofs das Bundessozialgericht und an die Stelle der Zivilprozessordnung das Sozialgerichtsgesetz tritt.
 
 
 ### § 203

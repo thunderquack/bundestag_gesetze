@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 29.9.1976 I 2849;
 
 Zuletzt geändert durch
-:   Art. 291 V v. 19.6.2020 I 1328
+:   Art. 7 G v. 25.10.2024 I Nr. 332
 
 
 ## I. Abschnitt - Das Jagdrecht
@@ -410,7 +410,7 @@ Sind mehrere Pächter an einem Jagdpachtvertrag beteiligt (Mitpächter), so blei
 
 
 
-Fehlen die Zuverlässigkeit oder die persönliche Eignung im Sinne der §§ 5 und 6 des Waffengesetzes, darf nur ein Jagdschein nach § 15 Abs. 7 erteilt werden.
+Die zuständige Behörde hat bei der nach § 48 Absatz 1 Satz 1 und Absatz 2 des Waffengesetzes für die Ausführung des Waffengesetzes zuständigen Behörde (Waffenbehörde) eine Auskunft einzuholen, ob die Zuverlässigkeit und die persönliche Eignung im Sinne der §§ 5 und 6 des Waffengesetzes gegeben sind. Die Waffenbehörde teilt der Jagdbehörde das Ergebnis der Prüfung der Zuverlässigkeit und der persönlichen Eignung sowie tragende Gründe mit. Fehlen die Zuverlässigkeit oder die persönliche Eignung im Sinne der §§ 5 und 6 des Waffengesetzes, darf nur ein Jagdschein nach § 15 Abs. 7 erteilt werden.
 
 (2) Der Jagdschein kann versagt werden
 
@@ -484,7 +484,7 @@ Wenn Tatsachen, welche die Versagung des Jagdscheines begründen, erst nach Erte
 
 ### § 18a Mitteilungspflichten
 
-Die erstmalige Erteilung einer Erlaubnis nach den §§ 15 und 16, das Ergebnis von Überprüfungen nach § 17 sowie Maßnahmen nach den §§ 18, 40, 41 und 41a sind der für den Vollzug des Waffengesetzes nach dessen § 48 Abs. 1 und 2 zuständigen Behörde mitzuteilen.
+Die erstmalige Erteilung oder Verlängerung einer Erlaubnis nach den §§ 15 und 16, das Ergebnis von Überprüfungen nach § 17 sowie Maßnahmen nach den §§ 18, 40, 41 und 41a sind der für den Vollzug des Waffengesetzes nach dessen § 48 Abs. 1 und 2 zuständigen Behörde mitzuteilen.
 
 
 ## V. Abschnitt - Jagdbeschränkungen, Pflichten bei der Jagdausübung und Beunruhigen von Wild

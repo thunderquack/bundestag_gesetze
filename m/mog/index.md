@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Abs. 23 G v. 20.12.2022 I 2752
 
+Änderung durch
+:   Art. 2 G v. 23.10.2024 I Nr. 327 mWv 31.10.2024 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Begriffsbestimmungen
 

@@ -23,6 +23,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 13.12.2019 I 2852
 
+Änderung durch
+:   Vertrag v. 31.12.2023 I Nr. 326 iVm Art. 1 G v. 23.10.2024 I Nr. 326 mit zukünftiger Wirkung noch nicht berücksichtigt
+
 Stand: Der Vertrag tritt nach seinem § 7 Abs. 1 iVm Art. 2 Abs. 2 Satz 1 G v. 27.5.2010 I 662 nach Maßgaben mWv 1.4.2010 in Kraft
 
 ## Präambel

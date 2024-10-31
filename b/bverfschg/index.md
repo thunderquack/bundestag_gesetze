@@ -17,9 +17,8 @@ Fundstelle
 :   BGBl I: 1990, 2954, 2970
 
 Zuletzt geändert durch
-:   Art. 2 G v. 6.5.2024 I Nr. 149
+:   Art. 1 G v. 25.10.2024 I Nr. 332
 
-Stand: Berichtigung v. 10.6.2024 I Nr. 187 ist berücksichtigt
 
 ## Erster Abschnitt - Zusammenarbeit, Aufgaben der Verfassungsschutzbehörden
 
@@ -254,7 +253,7 @@ Die Bundesregierung kann, wenn ein Angriff auf die verfassungsmäßige Ordnung d
 
 
 
-soweit dies zur Sammlung und Auswertung von Informationen erforderlich ist und Tatsachen die Annahme rechtfertigen, dass schwerwiegende Gefahren für die in § 3 Abs. 1 genannten Schutzgüter vorliegen. Im Falle des § 3 Abs. 1 Nr. 1 gilt dies nur für Bestrebungen, die bezwecken oder auf Grund ihrer Wirkungsweise geeignet sind,
+soweit dies zur Sammlung und Auswertung von Informationen erforderlich ist und Tatsachen die Annahme rechtfertigen, dass schwerwiegende Gefahren für die in § 3 Abs. 1 genannten Schutzgüter vorliegen. Für Satz 1 Nummer 1, 4 und 5 gilt dies im Fall des § 3 Absatz 1 Nummer 1 nur für Bestrebungen, die bezwecken oder auf Grund ihrer Wirkungsweise geeignet sind,
 
 1.  zu Hass oder Willkürmaßnahmen gegen Teile der Bevölkerung aufzustacheln oder deren Menschenwürde durch Beschimpfen, böswilliges Verächtlichmachen oder Verleumden anzugreifen und dadurch die Bereitschaft zur Anwendung von Gewalt zu fördern und den öffentlichen Frieden zu stören oder
 

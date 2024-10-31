@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 9 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 3 G v. 23.10.2024 I Nr. 327 mWv 31.10.2024 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Luftverkehr
 
