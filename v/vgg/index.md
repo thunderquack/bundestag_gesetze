@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 31.5.2021 I 1204
 
 Änderung durch
-:   Art. 29 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 29 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^F794123_01_BJNR119010016]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2014/26/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 über die kollektive Wahrnehmung von Urheber- und verwandten Schutzrechten und die Vergabe von Mehrgebietslizenzen für Rechte an Musikwerken für die Online-Nutzung im Binnenmarkt (ABl. L 84 vom 20.3.2014, S. 72).
 

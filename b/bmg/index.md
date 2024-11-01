@@ -1778,7 +1778,7 @@ Die übermittelten Daten dürfen nur für die Herausgabe von Adressbüchern (Adr
 
 (5) Die Melderegisterauskunft ist ferner nicht zulässig,
 
-1.  soweit die Einsicht in ein Personenstandsregister nach § 63 des Personenstandsgesetzes nicht gestattet werden darf und
+1.  soweit die Einsicht in ein Personenstandsregister nach § 63 Absatz 1 des Personenstandsgesetzes nicht gestattet werden darf und
 
 
 2.  in den Fällen des § 1758 des Bürgerlichen Gesetzbuchs.

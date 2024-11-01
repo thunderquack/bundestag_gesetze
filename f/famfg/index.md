@@ -2435,7 +2435,7 @@ Auf die Pflegschaft für Minderjährige sind die für die Vormundschaft geltende
 
 #### § 168g Mitteilungspflichten des Standesamts
 
-(1) Wird dem Standesamt der Tod einer Person, die ein minderjähriges Kind hinterlassen hat, oder die Geburt eines Kindes nach dem Tod des Vaters oder das Auffinden eines Minderjährigen, dessen Familienstand nicht zu ermitteln ist, oder die Geburt eines Kindes im Wege der vertraulichen Geburt nach § 25 Absatz 1 des Schwangerschaftskonfliktgesetzes angezeigt, oder fehlt in den Fällen des § 45b Absatz 2 Satz 3 des Personenstandsgesetzes die Zustimmung des gesetzlichen Vertreters hat das Standesamt dies dem Familiengericht mitzuteilen.
+(1) Wird dem Standesamt der Tod einer Person, die ein minderjähriges Kind hinterlassen hat, oder die Geburt eines Kindes nach dem Tod des Vaters oder das Auffinden eines Minderjährigen, dessen Familienstand nicht zu ermitteln ist, oder die Geburt eines Kindes im Wege der vertraulichen Geburt nach § 25 Absatz 1 des Schwangerschaftskonfliktgesetzes angezeigt, oder fehlt in den Fällen des § 3 Absatz 1 Satz 2 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag die Zustimmung des gesetzlichen Vertreters hat das Standesamt dies dem Familiengericht mitzuteilen.
 
 (2) Führen Eltern, die gemeinsam für ein Kind sorgeberechtigt sind, keinen Ehenamen und ist von ihnen binnen eines Monats nach der Geburt des Kindes der Geburtsname des Kindes nicht bestimmt worden, teilt das Standesamt dies dem Familiengericht mit.
 
@@ -4066,7 +4066,7 @@ Eine wesentliche Erweiterung des Aufgabenkreises des Betreuers liegt insbesonder
 
 #### § 299 Persönliche Anhörung in anderen Genehmigungsverfahren
 
-Das Gericht hat den Betroffenen vor einer Entscheidung nach § 1833 Absatz 3 oder § 1820 Absatz 5 Satz 2 des Bürgerlichen Gesetzbuchs persönlich anzuhören. Das Gericht soll den Betroffenen vor einer Entscheidung nach den §§ 1850 bis 1854 persönlich anhören.
+Das Gericht hat den Betroffenen vor einer Entscheidung nach § 1833 Absatz 3, § 1820 Absatz 5 Satz 2 des Bürgerlichen Gesetzbuchs oder § 3 Absatz 3 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag persönlich anzuhören. Das Gericht soll den Betroffenen vor einer Entscheidung nach den §§ 1850 bis 1854 persönlich anhören.
 
 
 #### § 300 Einstweilige Anordnung

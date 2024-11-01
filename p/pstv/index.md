@@ -523,7 +523,7 @@ des Verstorbenen vorgelegt wird. Auf die Vorlage der nach Nummer 2 erforderliche
 
 (1) In den Personenstandseinträgen wird den Ehegatten und Lebenspartnern, den Eltern des Kindes und dem letzten Ehegatten oder Lebenspartner der verstorbenen Person ein Datenfeld für die familienrechtliche Bezeichnung zugeordnet. Die Felder erhalten fortlaufende Nummern, beginnend mit der Nummer 1. und stellen die Verbindung zu den Hinweisen des Registereintrags her.
 
-(2) Im Geburtenregister wird bei der Erstbeurkundung der Geburt der Person, die das Kind geboren hat, die Nummer „1.“ zugeordnet und sie wird in dem Datenfeld für die familienrechtliche Bezeichnung als „Mutter“ eingetragen. Der Person, deren Vaterschaft zu dem Kind nach § 1592 des Bürgerlichen Gesetzbuches besteht, wird die Nummer „2.“ zugeordnet und sie wird in dem Datenfeld für die familienrechtliche Bezeichnung als „Vater“ eingetragen. Satz 1 gilt auch für Personen, die weder dem männlichen noch dem weiblichen Geschlecht zugeordnet sind. Satz 2 gilt für Personen, die weder dem männlichen noch dem weiblichen Geschlecht zugeordnet sind, nur dann, wenn sich die Vaterschaft aus § 1592 Nummer 3 BGB ergibt.
+(2) Im Geburtenregister wird bei der Erstbeurkundung der Geburt der Person, die das Kind geboren hat, die Nummer „1.“ zugeordnet und sie wird in dem Datenfeld für die familienrechtliche Bezeichnung als „Mutter“ eingetragen. Der Person, deren Vaterschaft zu dem Kind nach § 1592 des Bürgerlichen Gesetzbuches besteht, wird die Nummer „2.“ zugeordnet und sie wird in dem Datenfeld für die familienrechtliche Bezeichnung als „Vater“ eingetragen. Satz 1 gilt auch für Personen, die nicht dem weiblichen Geschlecht zugeordnet sind. Satz 2 gilt auch für Personen, die nicht dem männlichen Geschlecht zugeordnet sind.
 
 (3) Die Annahme eines Kindes wird im Geburtenregister ausschließlich in einer Folgebeurkundung dokumentiert, wobei weibliche Annehmende als „Mutter“ und männliche Annehmende als „Vater“ in dem Datenfeld für die familienrechtliche Bezeichnung eingetragen werden. Soweit annehmende Personen weder dem männlichen noch dem weiblichen Geschlecht angehören, sind sie als „Elternteil“ zu bezeichnen.
 
@@ -571,7 +571,7 @@ des Verstorbenen vorgelegt wird. Auf die Vorlage der nach Nummer 2 erforderliche
 2.  eine Erklärung nach § 94 des Bundesvertriebenengesetzes, § 1 des Minderheiten-Namensänderungsgesetzes oder Artikel 47, 48 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche entgegengenommen hat,
 
 
-3.  eine Erklärung nach § 45a oder nach § 45b des Gesetzes entgegengenommen hat oder
+3.  eine Erklärung nach § 45a des Gesetzes oder nach § 2 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag entgegengenommen hat oder
 
 
 4.  ein Personenstandsregister führt, aus dem sich eine Namensänderung oder die Änderung des Geschlechtseintrags nach den Nummern 1 bis 3 ergibt.
@@ -604,7 +604,9 @@ des Verstorbenen vorgelegt wird. Auf die Vorlage der nach Nummer 2 erforderliche
 
 #### § 48 Personenstandsurkunden
 
-(1) Das Standesamt hat für die nach § 55 Abs. 1 des Gesetzes auszustellenden Personenstandsurkunden die Formulare nach den Mustern der Anlagen 2 bis 9 im Format DIN A4 zu verwenden. Die Formulare sind dem Beurkundungssachverhalt anzupassen und können programmgerecht eingerichtet werden, soweit dies im Einzelfall notwendig ist. Die Formulare nach den Mustern der Anlagen 2 bis 5 sind zusätzlich mit einem Vermerk über die Übereinstimmung des Ausdrucks mit dem Registerinhalt zu versehen. Die Formulare nach den Mustern der Anlagen 6 bis 9 können auch in einem kleineren Format hergestellt werden; dabei kann die Zeilengestaltung formatgerecht angepasst werden.
+(1) Das Standesamt hat für die nach § 55 Absatz 1 des Gesetzes auszustellenden Personenstandsurkunden und elektronischen Personenstandsbescheinigungen die Formulare nach den Mustern der Anlagen 2 bis 9E zu verwenden; die Personenstandsurkunden sind im Format DIN A4 auszustellen. Die Formulare sind dem Beurkundungssachverhalt anzupassen und können programmgerecht eingerichtet werden, soweit dies im Einzelfall notwendig ist. Die Formulare nach den Mustern der Anlagen 2 bis 5 sind zusätzlich mit einem Vermerk über die Übereinstimmung des Ausdrucks mit dem Registerinhalt zu versehen. Die Formulare nach den Mustern der Anlagen 6 bis 9 können auch in einem kleineren Format hergestellt werden; dabei kann die Zeilengestaltung formatgerecht angepasst werden.
+
+(1a) Auf Verlangen der als „Mutter“ oder „Vater“ in einer Geburtsurkunde eingetragenen Person wird diese Bezeichnung durch „Elternteil“ ersetzt.
 
 (2) Wird bei der Beantragung einer Geburtsurkunde verlangt, Angaben nach § 59 Absatz 1 Nummer 2 oder 4 des Gesetzes nicht aufzunehmen, entfällt in dem Urkundenformular auch das entsprechende Angabenfeld.
 
@@ -722,7 +724,7 @@ Die Versagungsgründe nach § 65 Absatz 3 Satz 2 des Gesetzes bleiben unberührt
     c)  Entscheidungen über die Annahme als Kind oder die Aufhebung eines Annahmeverhältnisses sowie eine dem Familiengericht bekannt gewordene Annahme als Kind im Ausland,
 
 
-    d)  Entscheidungen, durch die auf Grund des Transsexuellengesetzes
+    d)  Entscheidungen, durch die auf Grund des Transsexuellengesetzes in der bis einschließlich 31. Oktober 2024 geltenden Fassung
 
         aa) die Vornamen einer Person geändert oder solche Entscheidungen aufgehoben werden,
 
@@ -1550,7 +1552,7 @@ Ein Heiratseintrag wird vom 1. Januar 2009 an nur dann fortgeführt, wenn kein a
 
 ### § 70 Personenstandsurkunden aus Altregistern und Übergangsbeurkundungen
 
-(1) Für die Ausstellung von Personenstandsurkunden aus Altregistern und Übergangsbeurkundungen gilt § 48 entsprechend. An Stelle beglaubigter Registerausdrucke nach § 55 Abs. 1 Nr. 1 des Gesetzes werden beglaubigte Abschriften der Personenstandseinträge erteilt.
+(1) Für die Ausstellung von Personenstandsurkunden aus Altregistern und Übergangsbeurkundungen gilt § 48 entsprechend. An Stelle beglaubigter Registerausdrucke nach § 55 Absatz 1 Nummer 5 des Gesetzes werden beglaubigte Abschriften der Personenstandseinträge erteilt.
 
 (2) Personenstandsurkunden aus Altregistern und Übergangsbeurkundungen werden nicht mehr ausgestellt, wenn die Einträge nach § 69 in elektronische Register übernommen worden sind.
 

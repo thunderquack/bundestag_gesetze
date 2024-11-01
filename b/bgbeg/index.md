@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 10.10.2024 I Nr. 306
 
 Änderung durch
-:   Art. 15 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 15 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -122,6 +122,15 @@ Eine Rechtsnorm eines anderen Staates ist nicht anzuwenden, wenn ihre Anwendung 
 (1) Die Rechtsfähigkeit einer Person unterliegt dem Recht des Staates, dem die Person angehört. Die einmal erlangte Rechtsfähigkeit wird durch Erwerb oder Verlust einer Staatsangehörigkeit nicht beeinträchtigt.
 
 (2) Die Geschäftsfähigkeit einer Person unterliegt dem Recht des Staates, in dem die Person ihren gewöhnlichen Aufenthalt hat. Dies gilt auch, soweit die Geschäftsfähigkeit durch Eheschließung erweitert wird. Die einmal erlangte Geschäftsfähigkeit wird durch einen Wechsel des gewöhnlichen Aufenthalts nicht beeinträchtigt.
+
+
+###### Art 7a - Geschlechtszugehörigkeit
+
+(1) Die Geschlechtszugehörigkeit einer Person unterliegt dem Recht des Staates, dem die Person angehört.
+
+(2) Eine Person mit gewöhnlichem Aufenthalt im Inland kann für die Änderung der Geschlechtszugehörigkeit deutsches Recht wählen. Gleiches gilt für einen Namenswechsel unter den Voraussetzungen oder im Zusammenhang mit der Änderung der Geschlechtszugehörigkeit.
+
+(3) Erklärungen zur Wahl nach Absatz 2 müssen öffentlich beglaubigt werden; sie können auch von den Standesbeamten beglaubigt oder beurkundet werden.
 
 
 ###### Art 8 - Gewillkürte Stellvertretung

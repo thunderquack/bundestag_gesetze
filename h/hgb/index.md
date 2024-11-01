@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 11.4.2024 I Nr. 120
 
 Änderung durch
-:   Art. 1 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 1 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erstes Buch - Handelsstand

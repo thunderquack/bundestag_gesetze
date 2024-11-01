@@ -25,7 +25,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 23.10.2024 I Nr. 321 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 33 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 33 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## I. - Steuerpflicht

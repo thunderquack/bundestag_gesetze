@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 16 G v. 15.7.2024 I Nr. 237
 
 Änderung durch
-:   Art. 26 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 26 G v. 23.10.2024 I textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Bek. v. 27.6.2023 I Nr. 175 ist berücksichtigt
 

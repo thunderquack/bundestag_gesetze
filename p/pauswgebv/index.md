@@ -48,28 +48,30 @@ Auf Grund des § 34 Nummer 8 des Personalausweisgesetzes vom 18. Juni 2009 (BGBl
 
 
 
-Die Gebühr nach Absatz 1 ist um 30 Euro anzuheben, wenn die Amtshandlung von einer nicht zuständigen Behörde auf Veranlassung einer Person, die ihren gewöhnlichen Aufenthaltsort im Ausland hat, vorgenommen wird.
 
-(4) Die Gebühr nach Absatz 1 ist ferner um 30 Euro anzuheben, wenn die Amtshandlung von einer konsularischen oder diplomatischen Vertretung der Bundesrepublik Deutschland im Ausland vorgenommen wird.
+(4) Die Gebühr nach Absatz 1 ist anzuheben
+
+1.  um 30 Euro, wenn die Amtshandlung von einer nicht zuständigen Behörde auf Veranlassung einer Person, die ihren gewöhnlichen Aufenthaltsort im Ausland hat, vorgenommen wird,
+
+
+2.  um 41 Euro, wenn die Amtshandlung von einer konsularischen oder diplomatischen Vertretung der Bundesrepublik Deutschland im Ausland vorgenommen wird,
+
+
+3.  um 15 Euro, wenn eine Übergabe nach § 18 Absatz 2 der Personalausweisverordnung erfolgt.
+
+
+
 
 (5) Gebührenfrei ist die Änderung der Anschrift auf dem Personalausweis nach § 19 Absatz 1 der Personalausweisverordnung.
 
 (6) Die Gebühr kann ermäßigt oder von ihrer Erhebung abgesehen werden, wenn die Person, die die Gebühr schuldet, bedürftig ist.
 
 
-## § 1a Auslagen für Ausweise
-
-Die Personalausweisbehörden lassen sich die Auslagen für den Versand des Briefes in das Ausland nach § 17 Absatz 4 Satz 2 der Personalausweisverordnung erstatten.
-
-
 ## § 2 Gebühr für die eID-Karte
 
-Für die Ausstellung einer eID-Karte für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums ist eine Gebühr von 37 Euro zu erheben.
+(1) Für die Ausstellung einer eID-Karte für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums ist eine Gebühr von 37 Euro zu erheben.
 
-
-## § 2a Auslagen für eID-Karten
-
-Die eID-Karte-Behörden lassen sich die Auslagen für den Versand des Briefes in das Ausland nach § 17 Absatz 4 Satz 2 in Verbindung mit § 36b der Personalausweisverordnung erstatten.
+(2) Die Gebühr nach Absatz 1 ist um 15 Euro anzuheben, wenn eine Übergabe nach § 18 Absatz 2 der Personalausweisverordnung in Verbindung mit § 36b der Personalausweisverordnung erfolgt.
 
 
 ## § 3 Gebühren für Berechtigungen

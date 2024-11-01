@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 154
 
 Änderung durch
-:   Art. 65 G v. 23.10.2024 I Nr. 323 mWv 1.1.2024 bzw. 1.1.2025 noch nicht berücksichtigt
+:   Art. 65 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Zweck
@@ -132,9 +132,9 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
 ## § 8 Gestaltung der Zentralen Stelle für die Digitale Rentenübersicht
 
-(1) Die Zentrale Stelle für die Digitale Rentenübersicht wird bei der Deutschen Rentenversicherung Bund eingerichtet.
+(1) Die Zentrale Stelle für die Digitale Rentenübersicht wird bei der Deutschen Rentenversicherung Bund eingerichtet. Damit erhält die Deutsche Rentenversicherung Bund die Aufgabe, das Portal zu betreiben, die Digitale Rentenübersicht den Bürgerinnen und Bürgern zur Verfügung zu stellen und diese weiterzuentwickeln.
 
-(2) Der Bund erstattet der Deutschen Rentenversicherung Bund die Verwaltungsaufwendungen für die Erfüllung der Aufgaben nach diesem Gesetz, soweit sie erforderlich sind. Das Nähere, insbesondere die Höhe der Verwaltungskostenerstattung, wird durch Verwaltungsvereinbarung zwischen dem Bundesministerium für Arbeit und Soziales und der Deutschen Rentenversicherung Bund geregelt.
+(2) Der Bund beteiligt sich an den Verwaltungsaufwendungen der Deutschen Rentenversicherung Bund für die Erfüllung der Aufgaben nach diesem Gesetz in Höhe von bis zu 6,8 Millionen Euro im Jahr 2024, in Höhe von bis zu 7,3 Millionen Euro im Jahr 2025, in Höhe von bis zu 7,9 Millionen Euro im Jahr 2026 und in Höhe von bis zu 8,6 Millionen Euro jährlich ab dem Jahr 2027. Etwaige Ausgleichsansprüche, die ab dem Jahr 2024 für davor liegende Zeiträume vorliegen, gelten mit der Beteiligung nach Satz 1 als abgegolten.
 
 (3) Die Zentrale Stelle für die Digitale Rentenübersicht steht unter Rechtsaufsicht des Bundesministeriums für Arbeit und Soziales. Das Bundesministerium für Arbeit und Soziales kann die Aufsicht ganz oder teilweise dem Bundesamt für Soziale Sicherung übertragen. Die Vorschriften über die Selbstverwaltung der Träger der Sozialversicherung finden keine Anwendung in Bezug auf die inhaltliche Ausgestaltung der Digitalen Rentenübersicht.
 

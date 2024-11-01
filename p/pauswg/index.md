@@ -821,7 +821,7 @@ Der Personalausweis kann als qualifizierte elektronische Signaturerstellungseinh
 16. (weggefallen)
 
 
-17. die Tatsache, dass die Funktion zum elektronischen Identitätsnachweis mit Personalausweis ausgeschaltet wurde oder in die Sperrliste eingetragen ist,
+17. E-Mail-Adresse, sofern der Personalausweisinhaber in die Speicherung einwilligt,
 
 
 18. Ordensname, Künstlername und
@@ -925,10 +925,13 @@ zuständigen Behörden das Lichtbild sowie die Unterschrift der antragstellenden
 2.  auf Verlangen den alten Ausweis beim Empfang eines neuen Ausweises abzugeben,
 
 
-3.  den Verlust des Ausweises und sein Wiederauffinden anzuzeigen und im Falle des Wiederauffindens diesen vorzulege und
+3.  den Verlust des Ausweises und sein Wiederauffinden anzuzeigen und im Falle des Wiederauffindens diesen vorzulegen und
 
 
 4.  anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die Streitkräfte oder einen vergleichbaren bewaffneten Verband eines ausländischen Staates, dessen Staatsangehörigkeit er besitzt, eingetreten ist.
+
+
+6.  im Falle der Ausgabe des Personalausweiseses im Wege des Versands anzuzeigen, wenn die Sendung unbefugt geöffnet worden ist oder den Personalausweis nicht enthält oder wenn der Personalausweis beschädigt ist oder eine Angabe auf dem Personalausweis unrichtig ist.
 
 
 

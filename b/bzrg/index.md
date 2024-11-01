@@ -407,7 +407,7 @@ Ist eine Verurteilung im Falle des § 32 Abs. 4 in ein Führungszeugnis aufzuneh
 
 
 
-Die Mitteilung ist ungeachtet des Offenbarungsverbots nach § 5 Abs. 1 des Transsexuellengesetzes und des Adoptionsgeheimnisses nach § 1758 Abs. 1 des Bürgerlichen Gesetzbuchs zulässig.
+Die Mitteilung ist ungeachtet des Offenbarungsverbots nach § 13 Absatz 1 Satz 1 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag und des Adoptionsgeheimnisses nach § 1758 Abs. 1 des Bürgerlichen Gesetzbuchs zulässig.
 
 (2) Enthält das Register eine Eintragung oder einen Suchvermerk über diejenige Person, deren Geburtsname, Familienname, Vorname oder Geburtsdatum sich geändert hat, ist der geänderte Name oder das geänderte Geburtsdatum in den Eintrag oder den Suchvermerk aufzunehmen.
 

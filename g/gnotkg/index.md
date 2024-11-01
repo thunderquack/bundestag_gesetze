@@ -64,7 +64,7 @@ Zuletzt geändert durch
 11. Verfahren nach dem Verschollenheitsgesetz,
 
 
-12. Verfahren nach dem Transsexuellengesetz,
+12. (weggefallen)
 
 
 13. Verfahren nach § 84 Absatz 2 und § 189 des Versicherungsvertragsgesetzes,
@@ -4155,10 +4155,7 @@ Teil 1
 
 *    *   15210
 
-    *   Verfahren nach dem
-        1\. Verschollenheitsgesetz oder
-        2\. TSG  ..........
-        Die Verfahren nach § 9 Abs. 1 und 2 TSG gelten zusammen als ein Verfahren.
+    *   Verfahren nach dem Verschollenheitsgesetz  ..........
 
     *   1,0
 

@@ -34,7 +34,7 @@ Zuletzt geändert durch
 
 ### § 2 Standesbeamte
 
-(1) Beurkundungen und Beglaubigungen für Zwecke des Personenstandswesens werden im Standesamt nur von hierzu bestellten Urkundspersonen (Standesbeamten) vorgenommen. Gleiches gilt für die Ausstellung von Personenstandsurkunden und sonstigen öffentlichen Urkunden. Die Zuständigkeit der Notare, anderer Urkundspersonen oder sonstiger Stellen für öffentliche Beurkundungen und Beglaubigungen bleibt unberührt.
+(1) Beurkundungen und Beglaubigungen für Zwecke des Personenstandswesens werden im Standesamt nur von hierzu bestellten Urkundspersonen (Standesbeamten) vorgenommen. Gleiches gilt für die Ausstellung von Personenstandsurkunden, elektronischen Personenstandsbescheinigungen und sonstigen öffentlichen Urkunden. Die Zuständigkeit der Notare, anderer Urkundspersonen oder sonstiger Stellen für öffentliche Beurkundungen und Beglaubigungen bleibt unberührt.
 
 (2) Bei der Wahrnehmung ihrer Aufgaben als Urkundspersonen sind die Standesbeamten nicht an Weisungen gebunden.
 
@@ -284,7 +284,7 @@ Dokumente, die einzelne Beurkundungen in den Personenstandsregistern betreffen, 
 
 Auf die Wiederverheiratung oder die Begründung einer Lebenspartnerschaft wird hingewiesen.
 
-(2) Der Eheeintrag wird nicht mehr fortgeführt, wenn nach Absatz 1 Nummer 4 eine Folgebeurkundung über das Nichtbestehen der Ehe eingetragen worden ist. Wurde zum Eheeintrag eine Folgebeurkundung über die Auflösung der Ehe oder die Todeserklärung oder die gerichtliche Feststellung der Todeszeit eines Ehegatten nach Absatz 1 Nummer 1 bis 3 aufgenommen, ist eine weitere Folgebeurkundung nur über die Änderung des Namens, Berichtigungen sowie in den Fällen des Absatzes 1 Nummer 2 über die Aufhebung eines Beschlusses und die Auflösung der Ehe durch Eheschließung des anderen Ehegatten einzutragen. Die Änderung der Vornamen oder des Geschlechts ist nicht einzutragen, wenn die Änderung auf Grund des Transsexuellengesetzes, durch Erklärung nach § 45b oder in einem Adoptionsverfahren erfolgt ist. Für einen Ehegatten, der wieder geheiratet oder eine Lebenspartnerschaft begründet hat, ist nur eine Folgebeurkundung über Berichtigungen nach Absatz 1 Nummer 7 einzutragen.
+(2) Der Eheeintrag wird nicht mehr fortgeführt, wenn nach Absatz 1 Nummer 4 eine Folgebeurkundung über das Nichtbestehen der Ehe eingetragen worden ist. Wurde zum Eheeintrag eine Folgebeurkundung über die Auflösung der Ehe oder die Todeserklärung oder die gerichtliche Feststellung der Todeszeit eines Ehegatten nach Absatz 1 Nummer 1 bis 3 aufgenommen, ist eine weitere Folgebeurkundung nur über die Änderung des Namens, Berichtigungen sowie in den Fällen des Absatzes 1 Nummer 2 über die Aufhebung eines Beschlusses und die Auflösung der Ehe durch Eheschließung des anderen Ehegatten einzutragen. Die Änderung der Vornamen oder des Geschlechts ist nicht einzutragen, wenn die Änderung nach § 2 Absatz 3 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag, durch Erklärung nach § 45b oder in einem Adoptionsverfahren erfolgt ist. Für einen Ehegatten, der wieder geheiratet oder eine Lebenspartnerschaft begründet hat, ist nur eine Folgebeurkundung über Berichtigungen nach Absatz 1 Nummer 7 einzutragen.
 
 
 ## Kapitel 4 - Lebenspartnerschaft
@@ -446,10 +446,13 @@ Wird in den Fällen der §§ 24 und 25 der Personenstand später ermittelt, so w
 3.  die Feststellung des Namens des Kindes mit allgemein verbindlicher Wirkung,
 
 
-4.  die nachträgliche Angabe oder die Änderung des Geschlechts des Kindes,
+4.  die nachträgliche Angabe des einzutragenden Geschlechts oder die Änderung des Geschlechtseintrags des Kindes,
 
 
-5.  die Berichtigung des Eintrags.
+5.  die Änderung des Geschlechtseintrags und der Vornamen eines Elternteils nach der Geburt des Kindes,
+
+
+6.  die Berichtigung des Eintrags.
 
 
 
@@ -761,41 +764,13 @@ sowie die zu den Nummern 6 und 7 erforderlichen Einwilligungen eines Elternteils
 (3) Zur Entgegennahme der Erklärung ist das Standesamt zuständig, das das Geburtenregister für die Person führt, deren Vornamen neu sortiert werden sollen. Ist die Geburt nicht in einem deutschen Geburtenregister beurkundet, so ist das Standesamt zuständig, das das Eheregister oder Lebenspartnerschaftsregister der Person führt. Ergibt sich danach keine Zuständigkeit, so ist das Standesamt zuständig, in dessen Zuständigkeitsbereich die Person ihren Wohnsitz hat oder zuletzt hatte oder ihren gewöhnlichen Aufenthalt hat. Ergibt sich auch danach keine Zuständigkeit, so ist das Standesamt I in Berlin zuständig.
 
 
-#### § 45b Erklärung zur Geschlechtsangabe und Vornamensführung bei Personen mit Varianten der Geschlechtsentwicklung
+#### § 45b Erklärungen nach dem Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag
 
-(1) Personen mit Varianten der Geschlechtsentwicklung können gegenüber dem Standesamt erklären, dass die Angabe zu ihrem Geschlecht in einem deutschen Personenstandseintrag durch eine andere in § 22 Absatz 3 vorgesehene Bezeichnung ersetzt oder gestrichen werden soll. Liegt kein deutscher Personenstandseintrag vor, können sie gegenüber dem Standesamt erklären, welche der in § 22 Absatz 3 vorgesehenen Bezeichnungen für sie maßgeblich ist, oder auf die Angabe einer Geschlechtsbezeichnung verzichten, wenn sie
+(1) Die Erklärungen zur Änderung des Geschlechtseintrags und der Vornamen nach § 2 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag und die Erklärung zum maßgeblichen Geschlechtseintrag für das Rechtsverhältnis der Person zu ihren Kindern nach § 11 Absatz 1 Satz 2 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag sind persönlich vor dem Standesbeamten abzugeben und von diesem zu beurkunden. Bei Deutschen mit gewöhnlichem Aufenthalt im Ausland kann eine deutsche Auslandsvertretung die Erklärung öffentlich beglaubigen und an das zuständige Standesamt übermitteln. Ist die Zustimmung eines gesetzlichen Vertreters erforderlich, so gelten die Sätze 1 und 2 auch für dessen Erklärung. Wird die Erklärung für eine minderjährige Person abgegeben, die geschäftsunfähig ist oder das 14. Lebensjahr noch nicht vollendet hat, muss auch die minderjährige Person anwesend sein.
 
-1.  Deutsche im Sinne des Grundgesetzes sind,
+(2) Für die Entgegennahme von Erklärungen nach § 2 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag ist das Standesamt zuständig, das das Geburtenregister für die betroffene Person, deren Geschlechtseintrag und Vornamen geändert werden sollen, führt. Für die Entgegennahme von Erklärungen nach § 11 Absatz 1 Satz 2 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag ist das Standesamt zuständig, welches die Geburt des jeweiligen Kindes der betroffenen Person zu beurkunden hat. Ergibt sich nach Satz 1 keine Zuständigkeit, weil die Geburt nicht in einem deutschen Geburtenregister beurkundet ist, so ist das Standesamt zuständig, das das Eheregister oder Lebenspartnerschaftsregister der Person führt. Ergibt sich danach keine Zuständigkeit, so ist das Standesamt zuständig, in dessen Zuständigkeitsbereich die Person ihren Wohnsitz hat oder zuletzt hatte oder ihren gewöhnlichen Aufenthalt hat. Ergibt sich auch danach keine Zuständigkeit, so ist das Standesamt I in Berlin zuständig. Das Standesamt I in Berlin führt ein Verzeichnis der nach den Sätzen 4 und 5 entgegengenommenen Erklärungen.
 
-
-2.  als Staatenlose oder heimatlose Ausländer ihren gewöhnlichen Aufenthalt im Inland haben,
-
-
-3.  als Asylberechtigte oder ausländische Flüchtlinge ihren Wohnsitz im Inland haben oder
-
-
-4.  als Ausländer, deren Heimatrecht keine vergleichbare Regelung kennt,
-
-    a)  ein unbefristetes Aufenthaltsrecht besitzen,
-
-
-    b)  eine verlängerbare Aufenthaltserlaubnis besitzen und sich dauerhaft rechtmäßig im Inland aufhalten oder
-
-
-    c)  eine Blaue Karte EU besitzen.
-
-
-
-
-
-
-Mit der Erklärung können auch neue Vornamen bestimmt werden. Die Erklärungen müssen öffentlich beglaubigt werden; sie können auch von den Standesbeamten beglaubigt oder beurkundet werden.
-
-(2) Für ein Kind, das geschäftsunfähig oder noch nicht 14 Jahre alt ist, kann nur sein gesetzlicher Vertreter die Erklärung abgeben. Im Übrigen kann ein Kind die Erklärung nur selbst abgeben; es bedarf hierzu der Zustimmung seines gesetzlichen Vertreters. Stimmt der gesetzliche Vertreter nicht zu, so ersetzt das Familiengericht die Zustimmung, wenn die Änderung der Angabe zum Geschlecht oder der Vornamen dem Kindeswohl nicht widerspricht; das Verfahren vor dem Familiengericht ist eine Kindschaftssache nach Buch 2 Abschnitt 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
-
-(3) Durch Vorlage einer ärztlichen Bescheinigung ist nachzuweisen, dass eine Variante der Geschlechtsentwicklung vorliegt. Dies gilt nicht für Personen, die über keine ärztliche Bescheinigung einer erfolgten medizinischen Behandlung verfügen und bei denen das Vorliegen der Variante der Geschlechtsentwicklung wegen der Behandlung nicht mehr oder nur durch eine unzumutbare Untersuchung nachgewiesen werden kann, sofern sie dies an Eides statt versichern.
-
-(4) Für die Entgegennahme der Erklärung ist das Standesamt zuständig, das das Geburtenregister für die betroffene Person führt. Ist die Geburt nicht in einem deutschen Geburtenregister beurkundet, so ist das Standesamt zuständig, das das Eheregister oder Lebenspartnerschaftsregister der Person führt. Ergibt sich danach keine Zuständigkeit, so ist das Standesamt zuständig, in dessen Zuständigkeitsbereich die Person ihren Wohnsitz hat oder zuletzt hatte oder ihren gewöhnlichen Aufenthalt hat. Ergibt sich auch danach keine Zuständigkeit, so ist das Standesamt I in Berlin zuständig. Das Standesamt I in Berlin führt ein Verzeichnis der nach den Sätzen 3 und 4 entgegengenommenen Erklärungen.
+(3) Die Erklärungen nach Artikel 7a Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche sind gegenüber dem Standesamt abzugeben. Absatz 2 gilt entsprechend.
 
 
 ## Kapitel 8 - Berichtigungen und gerichtliches Verfahren
@@ -919,7 +894,7 @@ Ferner können sonstige unrichtige oder unvollständige Eintragungen berichtigt 
 
 (1) Die Beurkundungen in den Personenstandsregistern beweisen Eheschließung, Begründung der Lebenspartnerschaft, Geburt und Tod und die darüber gemachten näheren Angaben sowie die sonstigen Angaben über den Personenstand der Personen, auf die sich der Eintrag bezieht. Hinweise haben diese Beweiskraft nicht.
 
-(2) Die Personenstandsurkunden (§ 55 Abs. 1) haben dieselbe Beweiskraft wie die Beurkundungen in den Personenstandsregistern.
+(2) Die Personenstandsurkunden (§ 55 Absatz 1 Satz 1) und die elektronischen Personenstandsbescheinigungen (§ 55 Absatz 1 Satz 2) haben dieselbe Beweiskraft wie die Beurkundungen in den Personenstandsregistern.
 
 (3) Der Nachweis der Unrichtigkeit der beurkundeten Tatsachen ist zulässig. Der Nachweis der Unrichtigkeit einer Personenstandsurkunde kann auch durch Vorlage einer beglaubigten Abschrift aus dem entsprechenden Personenstandsregister geführt werden.
 
@@ -928,40 +903,41 @@ Ferner können sonstige unrichtige oder unvollständige Eintragungen berichtigt 
 
 (1) Das Standesamt stellt folgende Personenstandsurkunden aus:
 
-1.  aus allen Personenstandsregistern beglaubigte Registerausdrucke,
+1.  aus dem Eheregister Eheurkunden (§ 57); bis zu der Beurkundung der Eheschließung im Eheregister können Eheurkunden auch aus der Niederschrift über die Eheschließung ausgestellt werden,
 
 
-2.  aus dem Eheregister Eheurkunden (§ 57); bis zu der Beurkundung der Eheschließung im Eheregister können Eheurkunden auch aus der Niederschrift über die Eheschließung ausgestellt werden,
+2.  aus dem Lebenspartnerschaftsregister Lebenspartnerschaftsurkunden (§ 58),
 
 
-3.  aus dem Lebenspartnerschaftsregister Lebenspartnerschaftsurkunden (§ 58),
+3.  aus dem Geburtenregister Geburtsurkunden (§ 59),
 
 
-4.  aus dem Geburtenregister Geburtsurkunden (§ 59),
+4.  aus dem Sterberegister Sterbeurkunden (§ 60),
 
 
-5.  aus dem Sterberegister Sterbeurkunden (§ 60),
+5.  aus allen Personenstandsregistern beglaubigte Registerausdrucke,
 
 
-6.  aus der Sammlung der Todeserklärungen beglaubigte Abschriften.
+6.  aus der Sammlung der Beschlüsse über Todeserklärungen beglaubigte Abschriften oder beglaubigte Ausdrucke der elektronisch gespeicherten gerichtlichen Entscheidungen.
 
 
 
+Darüber hinaus stellt das Standesamt aus allen elektronisch geführten Personenstandsregistern Personenstandsbescheinigungen als elektronische Dokumente mit den Daten einer entsprechenden Geburts-, Ehe-, Lebenspartnerschafts- oder Sterbeurkunde nach Satz 1 Nummer 1 bis 4 aus. Die Vorschriften über Beweiskraft von Personenstandsurkunden sind für elektronische Personenstandsbescheinigungen entsprechend anzuwenden.
 
-(2) Für die Ausstellung der Personenstandsurkunde ist vorbehaltlich des § 67 Absatz 3 das Standesamt zuständig, bei dem der entsprechende Registereintrag geführt wird. Die Personenstandsurkunde kann auch bei einem anderen Standesamt beantragt werden, wenn diesem die hierfür erforderlichen Daten elektronisch übermittelt werden können. Voraussetzung für die elektronische Übermittlung ist, dass das empfangende Standesamt und das den betreffenden Registereintrag führende Standesamt über technische Einrichtungen zur Versendung und zum Empfang elektronischer Daten verfügen und hierfür einen Zugang eröffnet haben.
+(2) Für die Ausstellung der Personenstandsurkunde und elektronischen Personenstandsbescheinigung ist vorbehaltlich des § 67 Absatz 3 das Standesamt zuständig, bei dem der entsprechende Registereintrag geführt wird. Die Personenstandsurkunde kann auch bei einem anderen Standesamt beantragt werden, wenn diesem die hierfür erforderlichen Daten elektronisch übermittelt werden können. Voraussetzung für die elektronische Übermittlung ist, dass das empfangende Standesamt und das den betreffenden Registereintrag führende Standesamt über technische Einrichtungen zur Versendung und zum Empfang elektronischer Daten verfügen und hierfür einen Zugang eröffnet haben.
 
-(3) Nach Ablauf der in § 5 Abs. 5 festgelegten Fristen für die Führung der Personenstandsregister werden keine Personenstandsurkunden mehr ausgestellt; für die Erteilung von Nachweisen aus diesen Personenstandsregistern sind die archivrechtlichen Vorschriften maßgebend.
+(3) Nach Ablauf der in § 5 Abs. 5 festgelegten Fristen für die Führung der Personenstandsregister werden keine Personenstandsurkunden und elektronischen Personenstandsbescheinigungen mehr ausgestellt; für die Erteilung von Nachweisen aus diesen Personenstandsregistern sind die archivrechtlichen Vorschriften maßgebend.
 
 
 #### § 56 Allgemeine Vorschriften für die Ausstellung von Personenstandsurkunden
 
 (1) In der Ehe-, der Lebenspartnerschafts-, der Geburts- und der Sterbeurkunde werden das Standesamt, bei dem der Personenstandsfall beurkundet worden ist, und der Jahrgang sowie die Nummer des Registereintrags angegeben. Bei der Ausstellung der Eheurkunde aus der Niederschrift über die Eheschließung ist an Stelle der Nummer des Registereintrags ein Hinweis auf die Niederschrift aufzunehmen.
 
-(2) Ist ein Registereintrag durch Folgebeurkundungen fortgeführt worden, so werden nur die geänderten Tatsachen in die Personenstandsurkunden aufgenommen.
+(2) Ist ein Registereintrag durch Folgebeurkundungen fortgeführt worden, so werden nur die geänderten Tatsachen in die Personenstandsurkunden und elektronischen Personenstandsbescheinigungen aufgenommen.
 
 (3) Am Schluss der Personenstandsurkunden werden der Tag und der Ort ihrer Ausstellung sowie der Familienname des ausstellenden Standesbeamten angegeben. Die Personenstandsurkunden werden von dem Standesbeamten unterschrieben und mit dem Abdruck des Dienstsiegels versehen.
 
-(4) Wird die Personenstandsurkunde bei einem anderen als dem für die Ausstellung zuständigen Standesamt beantragt (§ 55 Abs. 2 Satz 2), so übermittelt der das Register führende Standesbeamte die für den Ausdruck der Urkunde erforderlichen Daten und versieht diese mit seiner dauerhaft überprüfbaren qualifizierten elektronischen Signatur. Der empfangende Standesbeamte druckt die Personenstandsurkunde auf Grund der übermittelten Daten aus und beglaubigt, dass die Angaben in der Urkunde mit den ihm übermittelten Daten übereinstimmen; der Beglaubigungsvermerk ist unter Angabe des Tages und des Ortes von ihm zu unterschreiben und mit dem Abdruck des Dienstsiegels zu versehen.
+(4) Die elektronische Personenstandsbescheinigung wird vom Standesamt mit einer qualifizierten elektronischen Signatur versehen und den nach § 62 berechtigten Personen sowie den nach § 65 berechtigten Behörden und Gerichten elektronisch übermittelt. Dabei sind Datenschutz und Datensicherheit nach dem jeweiligen Stand der Technik sicherzustellen und bei Nutzung allgemein zugänglicher Netze Verschlüsselungs- und Authentifizierungsverfahren zu verwenden.
 
 
 #### § 57 Eheurkunde
@@ -999,6 +975,8 @@ In dem Feld „Weitere Angaben aus dem Register“ sind anzugeben
 
 (2) In die Eheurkunde wird außerhalb des Beurkundungstextes ein Hinweis auf die Beurkundung der Geburt der Ehegatten aufgenommen.
 
+(3) Auf Verlangen der Ehegatten werden in die Eheurkunde die vor der Eheschließung geführten Vornamen nicht aufgenommen.
+
 
 #### § 58 Lebenspartnerschaftsurkunde
 
@@ -1031,6 +1009,8 @@ In dem Feld „Weitere Angaben aus dem Register“ sind anzugeben
 
 
 (2) In die Lebenspartnerschaftsurkunde wird außerhalb des Beurkundungstextes ein Hinweis auf die Beurkundung der Geburt der Lebenspartner aufgenommen.
+
+(3) Auf Verlangen der Lebenspartner werden in die Lebenspartnerschaftsurkunde die vor der Begründung der Lebenspartnerschaft geführten Vornamen nicht aufgenommen.
 
 
 #### § 59 Geburtsurkunde
@@ -1097,7 +1077,16 @@ In die Sterbeurkunde werden aufgenommen
 
 (1) Ist ein Kind angenommen, so darf abweichend von § 62 ein beglaubigter Registerausdruck aus dem Geburtseintrag nur den Annehmenden, deren Eltern, dem gesetzlichen Vertreter des Kindes und dem über 16 Jahre alten Kind selbst erteilt werden. Diese Beschränkung entfällt mit dem Tod des Kindes; § 1758 des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
-(2) Sind die Vornamen einer Person auf Grund des Transsexuellengesetzes vom 10. September 1980 (BGBl. I S. 1654) geändert oder ist festgestellt worden, dass diese Person dem anderen als dem in ihrem Geburtseintrag angegebenen Geschlecht angehört, so darf abweichend von § 62 eine Personenstandsurkunde aus dem Geburtseintrag nur der betroffenen Person selbst und eine Personenstandsurkunde aus dem Ehe- oder Lebenspartnerschaftseintrag nur der betroffenen Person selbst sowie ihrem Ehegatten oder Lebenspartner erteilt werden. Diese Beschränkungen entfallen mit dem Tod der transsexuellen Person; § 5 Absatz 1 und § 10 Absatz 2 in Verbindung mit § 5 Absatz 1 des Transsexuellengesetzes bleiben unberührt.
+(2) Ist der Geschlechtseintrag einer Person nach § 2 Absatz 1 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag und sind die Vornamen einer Person nach § 2 Absatz 3 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag geändert worden, so gilt abweichend von § 62:
+
+1.  eine Personenstandsurkunde aus dem Geburtseintrag darf nur der betroffenen Person selbst erteilt werden,
+
+
+2.  eine Ehe- oder Lebenspartnerschaftsurkunde aus dem Ehe- oder Lebenspartnerschaftseintrag darf nur der betroffenen Person selbst sowie ihrem Ehegatten oder Lebenspartner erteilt werden.
+
+
+
+Diese Beschränkungen entfallen mit dem Tod der betroffenen Person; § 13 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag bleibt unberührt.
 
 (3) Die Absätze 1 und 2 gelten entsprechend für Auskunft aus einem und Einsicht in einen Registereintrag sowie Auskunft aus den und Einsicht in die Sammelakten.
 
@@ -1185,6 +1174,12 @@ Gleiches gilt für Auskunft aus den und Einsicht in die Sammelakten.
 
 Datenübermittlungen und Auskünfte zwischen den Standesämtern sind gebührenfrei.
 
+(3) Die Einrichtung eines automatisierten Abrufverfahrens, das die Übermittlung personenbezogener Daten an andere Stellen als Standesämter ermöglicht, ist nur zulässig, soweit dies durch Bundes- oder Landesrecht unter Festlegung der Datenempfänger, der Art der zu übermittelnden Daten und des Zwecks der Übermittlung bestimmt wird. Absatz 2 gilt entsprechend.
+
+(4) Die Übermittlung von elektronischen Personenstandsbescheinigungen nach § 55 Absatz 1 Satz 2 an öffentliche Stellen anderer Mitgliedstaaten der Europäischen Union ist zulässig, soweit die abrufende Stelle zum Abruf berechtigt ist und dies zur Erfüllung ihrer Aufgaben für eines der Verfahren nach Artikel 14 Absatz 1 der Verordnung (EU) 2018/1724 des Europäischen Parlaments und des Rates vom 2. Oktober 2018 über die Einrichtung eines einheitlichen digitalen Zugangstors zu Informationen, Verfahren, Hilfs- und Problemlösungsdiensten und zur Änderung der Verordnung (EU) Nr. 1024/2012 (ABl. L 295 vom 21.11.2018, S. 1) in der jeweils geltenden Fassung erforderlich ist. Für die Übermittlung sind die sich aus der Verordnung (EU) 2018/1724 ergebenden technischen Anforderungen einzuhalten.
+
+(5) Die Standesämter können bei öffentlichen Stellen anderer Mitgliedstaaten der Europäischen Union personenbezogene Daten abrufen, soweit dies zur Erfüllung ihrer Aufgaben im Rahmen eines der Verfahren nach Artikel 14 Absatz 1 der Verordnung (EU) 2018/1724 erforderlich ist.
+
 
 #### § 68a Rechte der betroffenen Person
 
@@ -1267,7 +1262,7 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Beneh
 4.  den Aufbau und die Darstellung der elektronischen Register am Bildschirm und die Formulare für die Personenstandsurkunden (§§ 3 bis 5, 55),
 
 
-5.  die Ausstellung von Personenstandsurkunden durch ein anderes als das registerführende Standesamt (§ 55 Abs. 2, § 56 Abs. 4),
+5.  die technische Ausgestaltung der Ausstellung, Übermittlung und Verifizierung von elektronischen Personenstandsbescheinigungen (§ 55 Absatz 1 Satz 2),
 
 
 6.  die technischen Verfahren zur Neubeurkundung nach Verlust eines Registers (§ 8),
@@ -1288,7 +1283,7 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Beneh
 11. die Anzeige einer Geburt oder eines Sterbefalls,
 
 
-12. die Erteilung von Personenstandsurkunden sowie einer Bescheinigung über die Entgegennahme einer namensrechtlichen Erklärung,
+12. die Erteilung von Personenstandsurkunden, einer Bescheinigung über die Entgegennahme einer namensrechtlichen Erklärung sowie die Anmeldung einer Erklärung zur Änderung des Geschlechtseintrags und der Vornamen,
 
 
 13. die Beurkundung von Personenstandsfällen, bei denen besondere Umstände zu berücksichtigen sind, weil sie sich in der Luft, auf Binnenschiffen, in Landfahrzeugen oder in Bergwerken ereignet haben oder einzelne Angaben für die Beurkundung fehlen oder urkundlich nicht belegt werden können,
@@ -1412,7 +1407,16 @@ Im Übrigen sollen sie elektronisch erfasst werden. Eine Nacherfassung im elektr
 (3) Aus den Familienbüchern, die als Heiratseinträge fortgeführt werden, werden als Personenstandsurkunden nur Eheurkunden (§ 57) ausgestellt.
 
 
-### § 78 (weggefallen)
+### § 78 Übergangsregelung
+
+Die Vorschriften für Änderungen des Geschlechtseintrags und der Vornamen nach dem Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag gelten auch für die Änderungen, die vorgenommen wurden auf Grund der jeweils bis einschließlich 31. Oktober 2024 geltenden Fassung
+
+1.  des Transsexuellengesetzes und
+
+
+2.  des § 45b.
+
+
 
 
 

@@ -17,7 +17,7 @@ Fundstelle
 
 Stand: Zuletzt geändert Art. 1 V v. 12.4.2024 I Nr. 125
 
-## Kapitel 1 - Passmuster
+## Kapitel 1 - Passmuster; Ausgabe und Versand des Passes
 
 
 ### § 1 Muster des Reisepasses; Änderung von Daten
@@ -56,8 +56,15 @@ Stand: Zuletzt geändert Art. 1 V v. 12.4.2024 I Nr. 125
 Bei der Beantragung eines Passes ist vom Passbewerber ein aktuelles Lichtbild in der Größe von 45 Millimeter x 35 Millimeter im Hochformat und ohne Rand vorzulegen. Das Lichtbild muss die Person in einer Frontalaufnahme, ohne Kopfbedeckung und ohne Bedeckung der Augen zeigen. Im Übrigen muss das Lichtbild den Anforderungen der Anlage 8 entsprechen. Die Passbehörde kann vom Gebot der fehlenden Kopfbedeckung insbesondere aus religiösen Gründen, von den übrigen Anforderungen aus medizinischen Gründen, die nicht nur vorübergehender Art sind, Ausnahmen zulassen. Weitere zulässige Abweichungen bei Lichtbildern von Kindern regelt Anlage 8.
 
 
-### § 5 (weggefallen)
+### § 5 Ausgabe und Versand des Passes
 
+(1) Der Pass wird von der Passbehörde an die antragstellende Person, an eine andere nach § 6 Absatz 1 des Passgesetzes berechtigte Person oder an eine von der antragstellenden Person bevollmächtigte Person ausgegeben.
+
+(2) Der Pass wird durch den Passhersteller auf dem Postweg an die zustellfähige inländische Meldeadresse der antragstellenden Person versendet, wenn sie einen gültigen Lichtbildausweis einer Behörde oder einer öffentlich-rechtlichen Körperschaft besitzt, der eine einwandfreie Feststellung ihrer Identität zulässt, und sie gegenüber der Passbehörde im Inland in dieses Verfahren eingewilligt hat. Ein Versand nach Satz 1 ist ausgeschlossen, wenn keine zustellfähige inländische Meldeadresse vorhanden ist. Der bisherige Pass ist bei der Beantragung zu entwerten, es sei denn, er enthält zu diesem Zeitpunkt noch gültige Sichtvermerke anderer Staaten. Der Zusteller hat vor der Übergabe die Identität der antragstellenden Person durch Vorlage eines in Satz 1 genannten Lichtbildausweises zu überprüfen. Der Passhersteller informiert die Passbehörde über die erfolgte Übergabe des Passes an die antragstellende Person.
+
+(3) Die antragstellende Person soll bei einem Verfahren nach Absatz 2 der Passbehörde eine E-Mail-Adresse mitteilen, sofern eine solche der Passbehörde noch nicht vorliegt. Die Passbehörde übermittelt diese E-Mail-Adresse an den Passhersteller, damit dieser die E-Mail-Adresse dem Zusteller übermittelt. Der Zusteller kündigt in diesem Fall der antragstellenden Person den Zeitraum der Übergabe durch Versand einer E-Mail an die hinterlegte E-Mail-Adresse an. Die Ankündigung darf ausschließlich die Anrede, den Hinweis auf die bevorstehende Zustellung des Passes, den voraussichtlichen Zustellzeitpunkt sowie die Modalitäten der Zustellung nach Absatz 2 Satz 4 enthalten. Die E-Mail-Adresse darf nur für die Zwecke verwendet werden, für die sie gespeichert wurde, und ist bei der Passbehörde, beim Passhersteller und beim Zusteller unverzüglich nach der Übergabe des Passes an die antragstellende Person zu löschen, sofern sie ausschließlich für das Verfahren nach Absatz 2 gespeichert wurde. Erfolgt eine Übergabe nicht, so findet Satz 5 mit der Maßgabe Anwendung, dass der Passhersteller und der Zusteller die E-Mail-Adresse unverzüglich nach der Hinterlegung des Passes bei der zuständigen Passbehörde, die Passbehörde diese unverzüglich nach der Ausgabe des Passes an die antragstellende Person zu löschen haben.
+
+(4) Abweichend von Absatz 2 darf die Passbehörde im Ausland Pässe auch auf dem Postweg versenden, ohne dass der Zusteller die antragstellende Person identifiziert, sofern die Abholung des Passes für die antragstellende Person nur unter unzumutbaren Umständen möglich wäre und der Wohnort in einem Staat liegt, in dem eine hinreichende Gewähr für eine ordnungsgemäße Übergabe besteht. Als unzustellbar zurückgesandte Pässe gibt die Passbehörde nach Maßgabe von Absatz 1 an die antragstellende Person aus.
 
 
 ## Kapitel 2 - Befreiung von der Passpflicht und Passersatzpapiere
@@ -278,6 +285,13 @@ Die in anderen Rechtsvorschriften oder in zwischenstaatlichen Vereinbarungen fes
     *   für die Änderung eines Reisepasses oder vorläufigen Reisepasses und für die Verlängerung oder Änderung eines anderen unter Nummer 1 genannten Ausweises
 
     *   6 Euro,
+
+
+*    *   3.
+
+    *   für die Zustellung nach § 5 Absatz 2
+
+    *   15 Euro.
 
 
 

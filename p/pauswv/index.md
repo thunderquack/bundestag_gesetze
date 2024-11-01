@@ -352,20 +352,24 @@ Der Ausweishersteller übermittelt dem Sperrlistenbetreiber auf sicherem elektro
 (3) Bis die antragstellende Person die Geheimnummer und die Entsperrnummer erhalten hat, gewährleistet die Personalausweisbehörde, dass Dritte keine Kenntnisnahme der Geheimnummer und der Entsperrnummer erhalten können.
 
 
-## Kapitel 4 - Aushändigung des Personalausweises; Braille-Aufkleber
+## Kapitel 4 - Ausgabe und Versand des Personalausweises; Braille-Aufkleber
 
 
-### § 18 Aushändigung des Personalausweises
+### § 18 Ausgabe und Versand des Personalausweises und des Sperrkennworts
 
-(1) (weggefallen)
+(1) Der Personalausweis wird gemeinsam mit dem Sperrkennwort von der Personalausweisbehörde an die antragstellende Person, an eine andere nach § 9 Absatz 1 oder 2 des Personalausweisgesetzes berechtigte Person oder an eine von der antragstellenden Person bevollmächtigte Person ausgegeben.
 
-(2) Bestätigt die antragstellende Person den Empfang des Briefes nach § 17 Absatz 7 nicht, darf die Personalausweisbehörde den ausgestellten Ausweis nur übergeben, wenn sie zuvor die Neusetzung der Geheimnummer nach § 20 Absatz 1 bewirkt hat.
+(2) Der Personalausweis wird gemeinsam mit dem Sperrkennwort durch den Ausweishersteller an die zustellfähige inländische Meldeadresse der antragstellenden Person versendet, wenn sie einen gültigen Lichtbildausweis einer Behörde oder einer öffentlich-rechtlichen Körperschaft besitzt, der eine einwandfreie Feststellung ihrer Identität zulässt, und sie gegenüber der Personalausweisbehörde im Inland in dieses Verfahren eingewilligt hat. Ein Versand nach Satz 1 ist ausgeschlossen, wenn keine zustellfähige inländische Meldeadresse vorhanden ist. Der bisherige Personalausweis ist bei der Beantragung zu entwerten. Der Zusteller hat vor der Übergabe die Identität der antragstellenden Person durch Vorlage eines in Satz 1 genannten Lichtbildausweises zu überprüfen. Der Ausweishersteller informiert die Personalausweisbehörde über die erfolgte Übergabe des Personalausweises und des Sperrkennworts an die antragstellende Person.
 
-(3) Der Ausweisinhaber kann sich die auslesbaren personenbezogenen Daten, die auf seinem Personalausweis gespeichert sind, jederzeit bei einer Personalausweisbehörde anzeigen lassen.
+(3) Die antragstellende Person soll bei einem Verfahren nach Absatz 2 der Personalausweisbehörde eine E-Mail-Adresse mitteilen, sofern eine solche der Personalausweisbehörde noch nicht vorliegt. Die Personalausweisbehörde übermittelt diese E-Mail-Adresse an den Ausweishersteller, damit dieser die E-Mail-Adresse dem Zusteller übermittelt. Der Zusteller kündigt in diesem Fall der antragstellenden Person den Zeitraum der Übergabe per E-Mail an die hinterlegte E-Mail-Adresse an. Die Ankündigung darf ausschließlich die Anrede, den Hinweis auf die bevorstehende Zustellung des Personalausweises, den voraussichtlichen Zustellzeitpunkt sowie die Modalitäten der Zustellung nach Absatz 2 Satz 4 enthalten. Die E-Mail-Adresse darf nur für die Zwecke verwendet werden, für die sie gespeichert wurde, und ist bei der Personalausweisbehörde, beim Ausweishersteller und beim Zusteller unverzüglich nach der Übergabe des Personalausweises an die antragstellende Person zu löschen, sofern sie ausschließlich für das Verfahren nach Absatz 2 gespeichert wurde. Erfolgt eine Übergabe nicht, so findet Satz 5 mit der Maßgabe Anwendung, dass der Ausweishersteller und der Zusteller die E-Mail-Adresse unverzüglich nach der Hinterlegung des Personalausweises bei der zuständigen Personalausweisbehörde, die Personalausweisbehörde diese unverzüglich nach der Ausgabe des Personalausweises an die antragstellende Person zu löschen haben.
 
-(4) Für das Lesen der Daten nach den Absätzen 1 und 3 sind zertifizierte Lesegeräte mit hoheitlichem Berechtigungszertifikat zu verwenden.
+(4) Der Ausweisinhaber kann sich die auslesbaren personenbezogenen Daten, die auf seinem Personalausweis gespeichert sind, jederzeit bei einer Personalausweisbehörde anzeigen lassen.
 
-(5) Die Personalausweisbehörde im Ausland darf Personalausweise im Ausland auf dem Postweg an die antragstellende Person versenden, sofern die Abholung des Personalausweises für die antragstellende Person nur unter unzumutbaren Zuständen möglich wäre.
+(5) Für das Lesen der Daten nach Absatz 4 sind zertifizierte Lesegeräte mit hoheitlichem Berechtigungszertifikat zu verwenden.
+
+(6) Abweichend von Absatz 2 darf die Personalausweisbehörde im Ausland Personalausweise gemeinsam mit dem Sperrkennwort auch auf dem Postweg versenden, ohne dass der Zusteller die antragstellende Person identifiziert, sofern die Abholung des Personalausweises für die antragstellende Person nur unter unzumutbaren Umständen möglich wäre und der Wohnort in einem Staat liegt, in dem eine hinreichende Gewähr für eine ordnungsgemäße Übergabe besteht. Als unzustellbar zurückgesandte Personalausweise und Sperrkennwörter gibt die Personalausweisbehörde nach Maßgabe von Absatz 1 an die antragstellende Person aus.
+
+(7) Wurde gegenüber der antragstellenden Person, die keine Wohnung in der Bundesrepublik Deutschland hat, eine Anordnung nach § 6 Absatz 7 des Personalausweisgesetzes getroffen, soll die Ausgabe des Personalausweises durch die Personalausweisbehörde in Deutschland erfolgen, in deren Bezirk die antragstellende Person für ihre Wohnung, bei mehreren Wohnungen für ihre Hauptwohnung, zuletzt meldepflichtig war. War die antragstellende Person noch nie in der Bundesrepublik Deutschland meldepflichtig, soll die Ausgabe durch eine von der antragstellenden Person zu benennende Personalausweisbehörde in der Bundesrepublik Deutschland erfolgen. Die Ausgabe des Personalausweises an eine andere nach § 9 Absatz 1 oder 2 des Personalausweisgesetzes berechtigte Person oder an eine von der antragstellenden Person bevollmächtigte Person ist in diesen Fällen ausgeschlossen.
 
 
 ### § 18a Aufkleber mit Brailleschrift
@@ -688,7 +692,12 @@ Auf die eID-Karte finden keine Anwendung:
 
 
 
-### § 36d Muster der eID-Karte
+### § 36d Abweichende Regelung für die eID-Karte
+
+§ 20 Absatz 2 Satz 3 gilt mit der Maßgabe, dass der Zusteller bei der Übergabe des Briefes die Identität der antragstellenden Person durch Vorlage eines Personalausweises oder Passes des Mitgliedstaates, dessen Staatsangehörigkeit die antragstellende Person besitzt, zu überprüfen hat.
+
+
+### § 36e Muster der eID-Karte
 
 Die eID-Karte ist nach dem in Anhang 3a abgedruckten Muster herzustellen. Für die einzutragenden Daten gelten die formalen Anforderungen des Anhangs 3 Abschnitt 1 entsprechend.
 

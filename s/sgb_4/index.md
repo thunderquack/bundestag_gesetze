@@ -23,10 +23,10 @@ Zuletzt geändert durch
 :   Art. 2 G v. 30.5.2024 I Nr. 173
 
 Änderung durch
-:   Art. 61 G v. 23.10.2024 I Nr. 323 mWv 1.1.2027 bzw. 1.1.2028 noch nicht berücksichtigt
+:   Art. 61 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 62 G v. 23.10.2024 I Nr. 323 mWv 1.1.2030 noch nicht berücksichtigt
+:   Art. 62 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2023, Nr. 192
 
 Änderung durch
-:   Art. 67 G v. 23.10.2024 I Nr. 323 mWv 1.1.2028 noch nicht berücksichtigt
+:   Art. 67 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt V 860-7-4 v. 23.1.2002 I 554 (UVAV)
 

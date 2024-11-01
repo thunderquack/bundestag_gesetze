@@ -387,7 +387,7 @@ Die Länder richten für die psychotherapeutische Prüfung zuständige Stellen e
 
 (2) Der Antrag auf Zulassung ist schriftlich oder elektronisch bei der nach § 20 zuständigen Stelle zu stellen.
 
-(3) Der Antrag muss der zuständigen Stelle in einem Wintersemester bis zum 10. Dezember oder in einem Sommersemester bis zum 10. Mai zugegangen sein. Er kann frühestens sechs Monate vor dem nächsten Prüfungstermin, aber nicht vor dem letzten Studienhalbjahr des Masterstudiengangs gestellt werden.
+(3) Der Antrag muss der zuständigen Stelle in einem Wintersemester bis zum 10. Dezember oder in einem Sommersemester bis zum 10. Mai zugegangen sein. Er kann frühestens sechs Monate vor dem nächsten Prüfungstermin, aber nicht vor dem letzten Studienhalbjahr der Regelstudienzeit des Masterstudiengangs gestellt werden.
 
 
 #### § 22 Erforderliche Unterlagen bei Antrag auf Zulassung
@@ -482,12 +482,12 @@ Sofern die Leistungsübersicht über die im Masterstudiengang erbrachten Studien
 1.  der oder dem Vorsitzenden und
 
 
-2.  zwölf weiteren Mitgliedern.
+2.  sechs weiteren Mitgliedern.
 
 
 
 
-(3) Für die Vorsitzende oder den Vorsitzenden ist eine stellvertretende Person zu bestellen. Für die weiteren Mitglieder sind insgesamt mindestens sechs stellvertretende Personen zu bestellen.
+(3) Für die Vorsitzende oder den Vorsitzenden ist eine stellvertretende Person zu bestellen. Für die weiteren Mitglieder sind insgesamt mindestens vier stellvertretende Personen zu bestellen.
 
 (4) Als weitere Mitglieder und als stellvertretende Personen dürfen nur Personen bestellt werden, die mindestens über die durch die Prüfung festzustellende oder eine gleichwertige Qualifikation verfügen:
 
@@ -773,24 +773,42 @@ Die oder der Vorsitzende der mündlich-praktischen Fallprüfung übermittelt der
 
 #### § 48 Stationen und Kompetenzbereiche
 
-(1) Der Parcours der anwendungsorientierten Parcoursprüfung besteht aus fünf Stationen.
+(1) Der Parcours der anwendungsorientierten Parcoursprüfung besteht aus zwei Stationen. Gegenstand der Stationen sind die Kompetenzbereiche:
 
-(2) Gegenstand der ersten Station ist der Kompetenzbereich Patientensicherheit. In diesem Kompetenzbereich hat die Prüfungskandidatin oder der Prüfungskandidat zu zeigen, dass sie oder er zu einer umfassenden Risikoeinschätzung in der Lage ist.
+1.  Patientensicherheit,
 
-(3) Gegenstand der zweiten Station ist der Kompetenzbereich therapeutische Beziehungsgestaltung. In diesem Kompetenzbereich hat die Prüfungskandidatin oder der Prüfungskandidat zu zeigen, dass sie oder er Probleme in der therapeutischen Beziehungsgestaltung erkennt und diesen Problemen in geeigneter Form begegnet.
 
-(4) Gegenstand der dritten Station ist der Kompetenzbereich Diagnostik. In diesem Kompetenzbereich hat die Prüfungskandidatin oder der Prüfungskandidat zu zeigen, dass sie oder er eine zutreffende psychotherapeutische Diagnose stellt.
+2.  Diagnostik,
 
-(5) Gegenstand der vierten Station ist der Kompetenzbereich Patienteninformation und Patientenaufklärung. In diesem Kompetenzbereich hat die Prüfungskandidatin oder der Prüfungskandidat zu zeigen, dass sie oder er durch angemessene Patienteninformation zu einer selbstbestimmten Patientenentscheidung beiträgt.
 
-(6) Gegenstand der fünften Station ist der Kompetenzbereich Leitlinienorientierte Behandlungsempfehlungen. In diesem Kompetenzbereich hat die Prüfungskandidatin oder der Prüfungskandidat zu zeigen, dass sie oder er die Patientinnen und Patienten angemessen und diagnosebezogen über empfohlene Behandlungsmöglichkeiten informiert und auch solche Behandlungsmöglichkeiten einbezieht, die außerhalb des eigenen Spezialisierungsbereichs liegen.
+3.  Patienteninformation und Patientenaufklärung,
 
-(7) Jede Prüfungskandidatin und jeder Prüfungskandidat muss die Stationen des Parcours in der Abfolge durchlaufen, die für sie oder ihn gemäß § 50 Absatz 4 festgelegt ist.
+
+4.  leitlinienorientierte Behandlungsempfehlungen,
+
+
+5.  therapeutische Beziehungsgestaltung.
+
+
+
+In jeder Station werden jeweils zwei der in Satz 2 Nummer 1 bis 4 genannten Kompetenzbereiche zusammengefasst geprüft. Der Kompetenzbereich therapeutische Beziehungsgestaltung wird in beiden Stationen geprüft. In einem Parcours müssen alle der in Satz 2 genannten Kompetenzbereiche geprüft werden.
+
+(2) Im Kompetenzbereich Patientensicherheit hat die Prüfungskandidatin oder der Prüfungskandidat zu zeigen, dass sie oder er zu einer umfassenden Risikoeinschätzung in der Lage ist.
+
+(3) Im Kompetenzbereich Diagnostik hat die Prüfungskandidatin oder der Prüfungskandidat zu zeigen, dass sie oder er eine zutreffende psychotherapeutische Diagnose stellt.
+
+(4) Im Kompetenzbereich Patienteninformation und Patientenaufklärung hat die Prüfungskandidatin oder der Prüfungskandidat zu zeigen, dass sie oder er durch angemessene Patienteninformation zu einer selbstbestimmten Patientenentscheidung beiträgt.
+
+(5) Im Kompetenzbereich leitlinienorientierte Behandlungsempfehlungen hat die Prüfungskandidatin oder der Prüfungskandidat zu zeigen, dass sie oder er die Patientinnen und Patienten angemessen und diagnosebezogen über empfohlene Behandlungsmöglichkeiten informiert und auch solche Behandlungsmöglichkeiten einbezieht, die außerhalb des eigenen Spezialisierungsbereichs liegen.
+
+(6) Im Kompetenzbereich therapeutische Beziehungsgestaltung hat die Prüfungskandidatin oder der Prüfungskandidat zu zeigen, dass sie oder er Probleme in der therapeutischen Beziehungsgestaltung erkennt und diesen Problemen in geeigneter Form begegnet.
+
+(7) Jede Prüfungskandidatin und jeder Prüfungskandidat durchläuft die Stationen des Parcours in der Abfolge, die für sie oder ihn durch die nach § 20 zuständige Stelle festgelegt ist.
 
 
 #### § 49 Erstellung der Prüfungsaufgaben, Schulungen, Prüfungsauswertung
 
-(1) Für jeden Prüfungstermin der anwendungsorientierten Parcoursprüfung wird ein Parcours erstellt; jeder Parcours umfasst eine Prüfungsaufgabe aus jedem der in § 48 Absatz 2 bis 6 genannten Kompetenzbereiche. Für jede Prüfungsaufgabe ist vorzulegen:
+(1) Für jeden Prüfungstermin der anwendungsorientierten Parcoursprüfung wird ein Parcours erstellt; jeder Parcours umfasst eine Prüfungsaufgabe für jede der in 48 Absatz 1 genannten Stationen. Die verschiedenen Alters- und Patientengruppen sind angemessen in die Prüfungsaufgaben eines Prüfungstermins nach § 46 Absatz 1 einzubeziehen. Mindestens 20 Prozent aller Prüfungsaufgaben eines Prüfungstermins nach § 46 Absatz 1 müssen sich auf Kinder und Jugendliche beziehen. Für jede Prüfungsaufgabe ist vorzulegen:
 
 1.  eine Beschreibung der Patientensituation,
 
@@ -809,15 +827,15 @@ Die oder der Vorsitzende der mündlich-praktischen Fallprüfung übermittelt der
 
 
 
-(2) Der strukturierte Bewertungsbogen enthält
+(2) Der strukturierte Bewertungsbogen enthält für jeden Kompetenzbereich jeder Prüfungsaufgabe
 
-1.  eine Musterlösung mit gewichteten Leistungsmerkmalen und eine Checkliste für jedes Leistungsmerkmal mit aufgabenspezifischen Einzelkriterien,
+1.  eine Musterlösung mit gewichteten Leistungsmerkmalen und ein Bewertungsschema für jedes Leistungsmerkmal mit aufgabenspezifischen Einzelkriterien,
 
 
 2.  die für jedes Leistungsmerkmal höchstmögliche Punktzahl und
 
 
-3.  die Bestehensgrenze, die in Prozent der insgesamt an der Station erreichbaren Punktzahl anzugeben ist.
+3.  die Bestehensgrenze, die in Prozent der insgesamt für den Kompetenzbereich erreichbaren Punktzahl anzugeben ist.
 
 
 
@@ -831,7 +849,7 @@ Die oder der Vorsitzende der mündlich-praktischen Fallprüfung übermittelt der
 
 #### § 50 Prüferinnen und Prüfer
 
-(1) Für die anwendungsorientierte Parcoursprüfung werden auf Vorschlag der Hochschule von der nach § 20 zuständigen Stelle aus den weiteren Mitgliedern der Prüfungskommission nach § 25 für jede Station jeweils zwei Prüferinnen oder Prüfer und insgesamt mindestens vier stellvertretende Personen bestellt. Eine oder einer der Prüferinnen oder Prüfer in den einzelnen Stationen wird von der nach § 20 zuständigen Stelle zur oder zum Vorsitzenden für die anwendungsorientierte Parcoursprüfung bestellt.
+(1) Für die anwendungsorientierte Parcoursprüfung werden auf Vorschlag der Hochschule von der nach § 20 zuständigen Stelle aus den weiteren Mitgliedern der Prüfungskommission nach § 25 für jede Station jeweils zwei Prüferinnen oder Prüfer und insgesamt mindestens zwei stellvertretende Personen bestellt. Eine oder einer der Prüferinnen oder Prüfer in den einzelnen Stationen wird von der nach § 20 zuständigen Stelle zur oder zum Vorsitzenden für die anwendungsorientierte Parcoursprüfung bestellt.
 
 (2) Als Prüferinnen und Prüfer und als stellvertretende Personen dürfen nur Personen bestellt werden, die für die Durchführung und Bewertung der anwendungsorientierten Parcoursprüfung nach § 49 Absatz 3 geschult sind.
 
@@ -851,7 +869,7 @@ Die oder der Vorsitzende der mündlich-praktischen Fallprüfung übermittelt der
 
 
 
-(4) Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung organisiert die anwendungsorientierte Parcoursprüfung und legt für jede Prüfungskandidatin oder jeden Prüfungskandidaten die Abfolge der Stationen fest. Sie oder er hat darauf zu achten, dass
+(4) Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung organisiert die anwendungsorientierte Parcoursprüfung. Sie oder er hat darauf zu achten, dass
 
 1.  die festgelegte Abfolge der Stationen der anwendungsorientierten Parcoursprüfung eingehalten wird und
 
@@ -869,33 +887,33 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (2) An allen Stationen werden Schauspielpersonen eingesetzt.
 
-(3) An jedem Parcours sollen fünf Prüfungskandidatinnen oder Prüfungskandidaten teilnehmen. An jeder Station wird eine Prüfungskandidatin oder ein Prüfungskandidat geprüft.
+(3) An jedem Parcours sollen zwei Prüfungskandidatinnen oder Prüfungskandidaten teilnehmen. An jeder Station wird eine Prüfungskandidatin oder ein Prüfungskandidat geprüft.
 
-(4) An jeder Station beträgt die Prüfungszeit 20 Minuten. Die Zeit zum Wechsel von einer Station zur nächsten beträgt fünf Minuten. In den Ablauf des Parcours sind angemessene Pausenzeiten zu integrieren.
+(4) An jeder Station beträgt die Prüfungszeit 30 Minuten. Die Zeit zum Wechsel von einer Station zur nächsten beträgt fünf Minuten.
 
-(5) Vor Beginn der anwendungsorientierten Parcoursprüfung weist die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung die Prüfungskandidatinnen und Prüfungskandidaten in einem Raum, der nicht einer der Stationen zugeteilt ist, in die Modalitäten der anwendungsorientierten Parcoursprüfung ein.
+(5) Vor Beginn der anwendungsorientierten Parcoursprüfung weist die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung oder eine von ihr oder ihm beauftragte Person die Prüfungskandidatinnen und Prüfungskandidaten in einem Raum, der nicht einer der Stationen zugeteilt ist, in die Modalitäten der anwendungsorientierten Parcoursprüfung ein. Den Prüfungskandidatinnen und Prüfungskandidaten ist eine angemessene Vorbereitungszeit auf die Prüfungsaufgaben beider Stationen zu gewähren.
 
 (6) Mit Einwilligung aller während der Parcoursprüfung anwesenden Personen kann zu Schulungszwecken eine Videoaufzeichnung der einzelnen Stationen erfolgen.
 
 
 #### § 52 Bewertung
 
-(1) Die an jeder Station erbrachte Leistung wird von beiden Prüferinnen oder Prüfern der jeweiligen Station anhand des strukturierten Bewertungsbogens getrennt bewertet. Jede Prüferin oder jeder Prüfer vergibt für jedes Leistungsmerkmal Punkte innerhalb der vorgegebenen Spannen.
+(1) Die an jeder Station in den Kompetenzbereichen erbrachten Leistungen werden von beiden Prüferinnen oder Prüfern der jeweiligen Station anhand des strukturierten Bewertungsbogens getrennt bewertet. Jede Prüferin oder jeder Prüfer vergibt für jedes Leistungsmerkmal des jeweiligen Kompetenzbereichs Punkte innerhalb der vorgegebenen Spannen.
 
-(2) Abschließend errechnen die beiden Prüferinnen oder Prüfer die erreichte Punktzahl der Prüfungskandidatin oder des Prüfungskandidaten für die einzelne Station. Die Punktzahl ist das arithmetische Mittel aus den von den beiden Prüferinnen oder Prüfern vergebenen Punkten.
+(2) Abschließend errechnen die beiden Prüferinnen oder Prüfer die erreichte Punktzahl der Prüfungskandidatin oder des Prüfungskandidaten für die Kompetenzbereiche der einzelnen Station. Die Punktzahl ist das arithmetische Mittel aus den von den beiden Prüferinnen oder Prüfern für den einzelnen Kompetenzbereich vergebenen Punkten. Die Punktzahl für den Kompetenzbereich therapeutische Beziehungsgestaltung ist das arithmetische Mittel aus den von den beiden Prüferinnen oder Prüfern in beiden Stationen für diesen Kompetenzbereich vergebenen Punkten.
 
 (3) Nach Abschluss der anwendungsorientierten Parcoursprüfung übergibt jede Prüferin oder jeder Prüfer den von ihr oder ihm ausgefüllten strukturierten Bewertungsbogen an die oder den Vorsitzenden der anwendungsorientierten Parcoursprüfung.
 
 
 #### § 53 Bestehen
 
-(1) Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung stellt anhand der für jede einzelne Station errechneten Punktzahl fest, ob die Prüfungskandidatin oder der Prüfungskandidat die anwendungsorientierte Parcoursprüfung bestanden hat.
+(1) Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung stellt anhand der für jeden Kompetenzbereich errechneten Punktzahl fest, ob die Prüfungskandidatin oder der Prüfungskandidat die anwendungsorientierte Parcoursprüfung bestanden hat.
 
-(2) Die anwendungsorientierte Parcoursprüfung ist bestanden, wenn die Prüfungskandidatin oder der Prüfungskandidat jede Station der anwendungsorientierten Parcoursprüfung bestanden hat.
+(2) Die anwendungsorientierte Parcoursprüfung ist bestanden, wenn die Prüfungskandidatin oder der Prüfungskandidat die Prüfungsaufgaben in jedem Kompetenzbereich der anwendungsorientierten Parcoursprüfung bestanden hat.
 
-(3) Eine Station der anwendungsorientierten Parcoursprüfung ist bestanden, wenn die Punktzahl, die die Prüfungskandidatin oder der Prüfungskandidat an dieser Station erreicht hat, mindestens so hoch ist, wie es nach der Bestehensgrenze für diese Station erforderlich ist.
+(3) Die Prüfungsaufgabe ist in einem der Kompetenzbereiche des § 48 Absatz 1 Satz 2 bestanden, wenn die Punktzahl, die die Prüfungskandidatin oder der Prüfungskandidat in diesem Kompetenzbereich erreicht hat, mindestens so hoch ist, wie es nach der Bestehensgrenze für diesen Kompetenzbereich erforderlich ist.
 
-(4) Im Anschluss errechnet die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung für jede Prüfungskandidatin oder jeden Prüfungskandidaten die Gesamtpunktzahl, die die Prüfungskandidatin oder der Prüfungskandidat in der anwendungsorientierten Parcoursprüfung erreicht hat. Die Gesamtpunktzahl ist die Summe aus den jeweiligen Punktzahlen der fünf Stationen.
+(4) Im Anschluss errechnet die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung für jede Prüfungskandidatin oder jeden Prüfungskandidaten die Gesamtpunktzahl, die die Prüfungskandidatin oder der Prüfungskandidat in der anwendungsorientierten Parcoursprüfung erreicht hat. Die Gesamtpunktzahl ist die Summe aus den jeweiligen Punktzahlen der fünf Kompetenzbereiche.
 
 
 #### § 54 Note
@@ -915,7 +933,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 
 
-der über die Gesamtpunktzahl, die die Bestehensgrenze bildet, hinaus zu vergebenden Punkte erreicht. Die Gesamtpunktzahl, die die Bestehensgrenze bildet, ist die Summe aus den einzelnen Mindestpunktzahlen, die für das Bestehen einer Station erforderlich sind.
+der über die Gesamtpunktzahl, die die Bestehensgrenze bildet, hinaus zu vergebenden Punkte erreicht. Die Gesamtpunktzahl, die die Bestehensgrenze bildet, ist die Summe aus den einzelnen Mindestpunktzahlen, die für das Bestehen der Prüfungsaufgaben in dem jeweiligen Kompetenzbereich erforderlich sind.
 
 (2) Hat die Prüfungskandidatin oder der Prüfungskandidat die anwendungsorientierte Parcoursprüfung nicht bestanden, so lautet die Note für die anwendungsorientierte Parcoursprüfung „nicht bestanden“.
 
@@ -926,7 +944,7 @@ der über die Gesamtpunktzahl, die die Bestehensgrenze bildet, hinaus zu vergebe
 
 (2) Für jede Prüfungskandidatin oder jeden Prüfungskandidaten hat die oder der Vorsitzende Folgendes gesondert anzugeben:
 
-1.  die Punktzahl, die die Prüfungskandidatin oder der Prüfungskandidat in jeder einzelnen Station erreicht hat,
+1.  die Punktzahl, die die Prüfungskandidatin oder der Prüfungskandidat in jedem einzelnen Kompetenzbereich erreicht hat,
 
 
 2.  die Gesamtpunktzahl, die die Prüfungskandidatin oder der Prüfungskandidat in der anwendungsorientierten Parcoursprüfung insgesamt erreicht hat.
@@ -942,7 +960,7 @@ der über die Gesamtpunktzahl, die die Bestehensgrenze bildet, hinaus zu vergebe
 1.  die Note für die anwendungsorientierte Parcoursprüfung,
 
 
-2.  die Punktzahl, die sie oder er an jeder einzelnen Station erreicht hat, und für jede Station das Verhältnis der erreichten Punktzahl zu der erreichbaren Punktzahl in Prozent sowie
+2.  die Punktzahl, die sie oder er in jedem einzelnen Kompetenzbereich erreicht hat, und für jeden Kompetenzbereich das Verhältnis der erreichten Punktzahl zu der erreichbaren Punktzahl in Prozent sowie
 
 
 3.  die Gesamtpunktzahl, die sie oder er in der anwendungsorientierten Parcoursprüfung erreicht hat, und das Verhältnis der erreichten Gesamtpunktzahl zu der erreichbaren Gesamtpunktzahl in Prozent.
@@ -955,7 +973,7 @@ der über die Gesamtpunktzahl, die die Bestehensgrenze bildet, hinaus zu vergebe
 1.  das Nichtbestehen der anwendungsorientierten Parcoursprüfung,
 
 
-2.  die Punktzahl, die sie oder er in jeder einzelnen Station erreicht hat, und für jede Station das Verhältnis der erreichten Punktzahl zu der erreichbaren Punktzahl in Prozent sowie
+2.  die Punktzahl, die sie oder er in jedem einzelnen Kompetenzbereich erreicht hat, und für jeden Kompetenzbereich das Verhältnis der erreichten Punktzahl zu der erreichbaren Punktzahl in Prozent sowie
 
 
 3.  die Gesamtpunktzahl, die sie oder er in der anwendungsorientierten Parcoursprüfung erreicht hat, und das Verhältnis der erreichten Gesamtpunktzahl zu der erreichbaren Gesamtpunktzahl in Prozent.
@@ -1418,6 +1436,8 @@ Bleibt die Unterrichtung durch die nach § 22 Absatz 6 Satz 1 des Psychotherapeu
 (1) Personen, die nach § 27 des Psychotherapeutengesetzes ihre Ausbildung zur Psychologischen Psychotherapeutin oder zum Psychologischen Psychotherapeuten nach dem Psychotherapeutengesetz in der bis zum 31. August 2020 geltenden Fassung absolvieren, werden, vorbehaltlich des Satzes 2, nach der Ausbildungs- und Prüfungsverordnung für Psychologische Psychotherapeuten in der bis zum 31. August 2020 geltenden Fassung ausgebildet und geprüft. Abweichend von § 9 Absatz 1 Satz 2 Nummer 2 der Ausbildungs- und Prüfungsverordnung für Psychologische Psychotherapeuten in der bis zum 31. August 2020 geltenden Fassung besteht die Prüfungskommission für Prüfungen, die nach dem 31. Mai 2023 durchgeführt werden, aus zwei weiteren Psychologischen Psychotherapeutinnen oder Psychologischen Psychotherapeuten mit der dort genannten Qualifikation, von denen mindestens einer zusätzlich über die Supervisorenanerkennung nach § 4 Absatz 3 Satz 1 oder Absatz 4 der Ausbildungs- und Prüfungsverordnung für Psychologische Psychotherapeuten in der bis zum 31. August 2020 geltenden Fassung verfügen muss.
 
 (2) Personen, die nach § 27 des Psychotherapeutengesetzes ihre Ausbildung zur Kinder- und Jugendlichenpsychotherapeutin oder zum Kinder- und Jugendlichenpsychotherapeuten nach dem Psychotherapeutengesetz in der bis zum 31. August 2020 geltenden Fassung absolvieren, werden, vorbehaltlich des Satzes 2, nach der Ausbildungs- und Prüfungsverordnung für Kinder- und Jugendlichenpsychotherapeuten in der bis zum 31. August 2020 geltenden Fassung ausgebildet und geprüft. Abweichend von § 9 Absatz 1 Satz 2 Nummer 2 der Ausbildungs- und Prüfungsverordnung für Kinder- und Jugendlichenpsychotherapeuten in der bis zum 31. August 2020 geltenden Fassung besteht die Prüfungskommission für Prüfungen, die nach dem 31. Mai 2023 durchgeführt werden, aus zwei weiteren Kinder- und Jugendlichenpsychotherapeutinnen oder Kinder- und Jugendlichenpsychotherapeuten mit der dort genannten Qualifikation, von denen mindestens einer zusätzlich über die Supervisorenanerkennung nach § 4 Absatz 3 Satz 1 oder Absatz 4 der Ausbildungs- und Prüfungsverordnung für Kinder- und Jugendlichenpsychotherapeuten in der bis zum 31. August 2020 geltenden Fassung verfügen muss.
+
+(3) Für Personen, die die anwendungsorientierte Parcoursprüfung einschließlich der Kenntnisprüfung nach den Vorschriften der Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten in der bis zum 31. Oktober 2024 geltenden Fassung nicht bestanden haben, finden Wiederholungen der anwendungsorientierten Parcoursprüfung nach dem 31. Oktober 2024 nach den Vorschriften dieser Verordnung statt. Die anwendungsorientierte Parcoursprüfung kann auch in den Fällen des Satzes 1 insgesamt nur zweimal wiederholt werden.
 
 
 ### § 85 Inkrafttreten, Außerkrafttreten

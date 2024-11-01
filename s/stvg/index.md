@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 16.8.2024 I Nr. 266
 
 Änderung durch
-:   Art. 70 G v. 23.10.2024 I Nr. 323 mWv 15.4.2025 noch nicht berücksichtigt
+:   Art. 70 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Entfristung durch
 :   Art. 1 G v. 3.12.2020 I 2667 ist berücksichtigt

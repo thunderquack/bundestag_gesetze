@@ -921,6 +921,13 @@ Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsp
 
 *    *   8.
 
+    *   die Identifikationsnummer nach § 139b der Abgabenordnung
+
+    *   2701,
+
+
+*    *   9.
+
     *   zum gesetzlichen Vertreter:
 
     *   0001,
@@ -975,42 +982,42 @@ Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsp
     *   0917,
 
 
-*    *   9.
+*    *   10.
 
     *   derzeitige Staatsangehörigkeiten
 
     *   1001,
 
 
-*    *   10.
+*    *   11.
 
     *   rechtliche Zugehörigkeit zu einer öffentlich-rechtlichen Religionsgesellschaft
 
     *   1101, 1104,
 
 
-*    *   11.
+*    *   12.
 
     *   derzeitige Anschriften
 
     *   1201 bis 1213,
 
 
-*    *   12.
+*    *   13.
 
     *   Einzugsdatum
 
     *   1301, 1301a, 1305,
 
 
-*    *   13.
+*    *   14.
 
     *   Familienstand, bei Verheirateten oder Lebenspartnern zusätzlich Datum und Ort der Eheschließung oder Begründung der Lebenspartnerschaft sowie bei Eheschließung oder Begründung der Lebenspartnerschaft im Ausland auch den Staat
 
     *   1401 bis 1403, 1408, 1409,
 
 
-*    *   14.
+*    *   15.
 
     *   zum Ehegatten oder Lebenspartner:
 
@@ -1076,7 +1083,7 @@ Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsp
         1200 bis 1213a,
 
 
-*    *   15.
+*    *   16.
 
     *   zu minderjährigen Kindern:
 
@@ -1123,7 +1130,7 @@ Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsp
     *   1200 bis 1212,
 
 
-*    *   16.
+*    *   17.
 
     *   Ausstellungsbehörde, Ausstellungsdatum, letzter Tag der Gültigkeitsdauer und Seriennummer des Personalausweises des vorläufigen Personalausweises, des Ersatz-Personalausweises, des anerkannten Passes oder Passersatzpapiers, Ausstellungsbehörde, letzter Tag der Gültigkeitsdauer und Seriennummer der eID-Karte
 
@@ -1131,21 +1138,21 @@ Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsp
         1715 bis 1717,
 
 
-*    *   17.
+*    *   18.
 
     *   Auskunfts- und Übermittlungssperren
 
     *   1801 bis 1802,
 
 
-*    *   18.
+*    *   19.
 
     *   AZR-Nummer
 
     *   1712,
 
 
-*    *   19.
+*    *   20.
 
     *   für die Ausstellung von Pässen und Ausweisen die Tatsache, dass Passversagungsgründe vorliegen, ein Pass versagt oder entzogen oder eine Anordnung nach § 6 Absatz 7, § 6a Absatz 1 oder § 6a Absatz 2 des Personalausweisgesetzes getroffen worden ist
 
@@ -1153,7 +1160,7 @@ Zur Aufgabenerfüllung nach Satz 1 hält die Meldebehörde für die Verwaltungsp
 
 
 
-Zur Umsetzung der Verpflichtung nach § 23a Absatz 1 Satz 3 des Bundesmeldegesetzes hält die Meldebehörde die in Satz 1 genannten Daten einer Person für die Verwaltungsportale zum Abruf im automatisierten Verfahren bereit. Die Daten von Personen nach Absatz 1 Satz 1 Nummer 8, 14 und 15, für die eine Auskunftssperre nach § 51 des Bundesmeldegesetzes oder ein bedingter Sperrvermerk nach § 52 des Bundesmeldegesetzes im Melderegister eingetragen ist, werden nicht übermittelt.
+Zur Umsetzung der Verpflichtung nach § 23a Absatz 1 Satz 3 des Bundesmeldegesetzes hält die Meldebehörde die in Satz 1 genannten Daten einer Person für die Verwaltungsportale zum Abruf im automatisierten Verfahren bereit. Die Daten von Personen nach Absatz 1 Nummer 9, 15 und 16, für die eine Auskunftssperre nach § 51 des Bundesmeldegesetzes oder ein bedingter Sperrvermerk nach § 52 des Bundesmeldegesetzes im Melderegister eingetragen ist, werden nicht übermittelt.
 
 (2) Nachdem die meldepflichtige Person die Richtigkeit der von der für die alleinige Wohnung oder Hauptwohnung zuständigen Meldebehörde übermittelten Daten nach Absatz 1 Satz 1 bestätigt hat, übermittelt das Verwaltungsportal nach § 23a Absatz 2 des Bundesmeldegesetzes diese Daten sowie zusätzlich die folgenden von der meldepflichtigen Person gegenüber dem Verwaltungsportal angegebenen Daten an die Zuzugsmeldebehörde:
 

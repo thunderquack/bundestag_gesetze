@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 13 G v. 11.12.2023 I Nr. 354
 
 Änderung durch
-:   Art. 18 G v. 23.10.2024 I Nr. 323 mWv 1.11.2024 bzw. 1.1.2025 noch nicht berücksichtigt
+:   Art. 18 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -2055,7 +2055,7 @@ Für die Fristberechnung nach Satz 2 Nummer 5 gilt § 121 Absatz 7; bei börsenn
 
 
 
-Soll die Hauptversammlung über eine Satzungsänderung, das Vergütungssystem für die Vorstandsmitglieder, die Vergütung des Aufsichtsrats nach § 113 Absatz 3, den Vergütungsbericht oder über einen Vertrag beschließen, der nur mit Zustimmung der Hauptversammlung wirksam wird, so ist bei einer Satzungsänderung der Wortlaut der Satzungsänderung, bei einem vorbezeichneten Vertrag dessen wesentlicher Inhalt, im Übrigen der vollständige Inhalt der Unterlagen zu den jeweiligen Beschlussgegenständen bekanntzumachen. Satz 3 gilt auch im Fall des § 120a Absatz 5.
+Soll die Hauptversammlung über eine Satzungsänderung oder über einen Vertrag beschließen, der nur mit Zustimmung der Hauptversammlung wirksam wird, so ist bei einer Satzungsänderung der Wortlaut der Satzungsänderung und bei einem vorbezeichneten Vertrag dessen wesentlicher Inhalt bekanntzumachen.
 
 (3) Zu jedem Gegenstand der Tagesordnung, über den die Hauptversammlung beschließen soll, haben der Vorstand und der Aufsichtsrat, zur Beschlussfassung nach § 120a Absatz 1 Satz 1 und zur Wahl von Aufsichtsratsmitgliedern und Prüfern nur der Aufsichtsrat, in der Bekanntmachung Vorschläge zur Beschlußfassung zu machen. Bei Gesellschaften, die Unternehmen von öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs sind, ist der Vorschlag des Aufsichtsrats zur Wahl des Abschlussprüfers auf die Empfehlung des Prüfungsausschusses zu stützen. Satz 1 findet keine Anwendung, wenn die Hauptversammlung bei der Wahl von Aufsichtsratsmitgliedern nach § 6 des Montan-Mitbestimmungsgesetzes an Wahlvorschläge gebunden ist, oder wenn der Gegenstand der Beschlußfassung auf Verlangen einer Minderheit auf die Tagesordnung gesetzt worden ist. Der Vorschlag zur Wahl von Aufsichtsratsmitgliedern oder Prüfern hat deren Namen, ausgeübten Beruf und Wohnort anzugeben. Hat der Aufsichtsrat auch aus Aufsichtsratsmitgliedern der Arbeitnehmer zu bestehen, so bedürfen Beschlüsse des Aufsichtsrats über Vorschläge zur Wahl von Aufsichtsratsmitgliedern nur der Mehrheit der Stimmen der Aufsichtsratsmitglieder der Aktionäre; § 8 des Montan-Mitbestimmungsgesetzes bleibt unberührt.
 
@@ -2075,10 +2075,13 @@ Bei börsennotierten Gesellschaften müssen alsbald nach der Einberufung der Hau
 3.  die der Versammlung zugänglich zu machenden Unterlagen;
 
 
-4.  die Gesamtzahl der Aktien und der Stimmrechte im Zeitpunkt der Einberufung, einschließlich getrennter Angaben zur Gesamtzahl für jede Aktiengattung;
+4.  wenn die Hauptversammlung über das Vergütungssystem für die Vorstandsmitglieder, die Vergütung des Aufsichtsrats nach § 113 Absatz 3 oder den Vergütungsbericht beschließen soll, die Unterlagen zu den jeweiligen Beschlussgegenständen; dies gilt auch im Fall des § 120a Absatz 5;
 
 
-5.  gegebenenfalls die Formulare, die bei Stimmabgabe durch Vertretung oder bei Stimmabgabe mittels Briefwahl zu verwenden sind, sofern diese Formulare den Aktionären nicht direkt übermittelt werden.
+5.  die Gesamtzahl der Aktien und der Stimmrechte im Zeitpunkt der Einberufung, einschließlich getrennter Angaben zur Gesamtzahl für jede Aktiengattung;
+
+
+6.  gegebenenfalls die Formulare, die bei Stimmabgabe durch Vertretung oder bei Stimmabgabe mittels Briefwahl zu verwenden sind, sofern diese Formulare den Aktionären nicht direkt übermittelt werden.
 
 
 

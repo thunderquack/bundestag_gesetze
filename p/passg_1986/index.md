@@ -136,7 +136,16 @@ Das Überschreiten der Auslandsgrenze ist nur an zugelassenen Grenzübergangsste
 
 
 
-Die Angabe des Geschlechts richtet sich nach der Eintragung im Melderegister. Ist dort das Geschlecht nicht mit weiblich oder männlich angegeben, wird im Pass das Geschlecht mit „X“ bezeichnet. Abweichend von den Sätzen 3 und 4 ist einem Passbewerber, dessen Vornamen auf Grund gerichtlicher Entscheidung gemäß § 1 des Transsexuellengesetzes geändert wurden, auf Antrag ein Pass mit der Angabe des anderen, von dem Geburtseintrag abweichenden Geschlechts auszustellen. Passbewerbern, deren Angabe zum Geschlecht nach § 45b des Personenstandsgesetzes geändert wurde, kann auf Antrag abweichend von den Sätzen 3 und 4 auch ein Pass mit der Angabe des vorherigen Geschlechts ausgestellt werden, wenn die vorherige Angabe männlich oder weiblich war.
+Die Angabe des Geschlechts richtet sich nach der Eintragung im Melderegister. Ist dort das Geschlecht nicht mit „weiblich“ oder „männlich“ angegeben, wird im Pass das Geschlecht mit „X“ bezeichnet. Auf Antrag ist in den Fällen des Satzes 4 ein Pass mit der Angabe „männlich“ oder „weiblich“ auszustellen, wenn durch Vorlage einer ärztlichen Bescheinigung nachgewiesen wird, dass eine Variante der Geschlechtsentwicklung vorliegt. Die Nachweispflicht gilt nicht, wenn der Passbewerber
+
+1.  über keine ärztliche Bescheinigung einer erfolgten medizinischen Behandlung verfügt und das Vorliegen der Variante der Geschlechtsentwicklung wegen der Behandlung nicht mehr oder nur durch eine unzumutbare Untersuchung nachgewiesen werden kann und
+
+
+2.  das Vorliegen der Voraussetzungen von Nummer 1 an Eides statt versichert.
+
+
+
+Das nach Satz 5 einzutragende Geschlecht richtet sich nach der letzten Angabe des Geschlechts im Melderegister, welches auf „männlich“ oder „weiblich“ lautete. Bestand eine solche Angabe zu keinem Zeitpunkt, so kann der Passbewerber einmalig das im Pass einzutragende Geschlecht wählen; bis zur Eintragung eines Geschlechts im Melderegister im Sinne von Satz 7 bleibt das gewählte Geschlecht für die Ausstellung künftiger Pässe maßgeblich.
 
 (2) Der Pass enthält eine Zone für das automatische Lesen. Diese darf lediglich enthalten:
 
@@ -227,7 +236,7 @@ Die Angabe des Geschlechts richtet sich nach der Eintragung im Melderegister. Is
 
 (2) In dem Antrag sind alle Tatsachen anzugeben, die zur Feststellung der Person des Passbewerbers und seiner Eigenschaft als Deutscher oder, in den Fällen des § 1 Absatz 4 Satz 2, seiner Eigenschaft als Angehöriger eines anderen Staates notwendig sind. Der Passbewerber hat die entsprechenden Nachweise zu erbringen. Soweit in den Pass Fingerabdrücke aufzunehmen sind, sind diese dem Passbewerber abzunehmen und nach Maßgabe des § 4 Absatz 4 elektronisch zu erfassen; der Passbewerber hat bei der Abnahme der Fingerabdrücke mitzuwirken.
 
-(2a) Beantragt ein Passbewerber nach § 4 Absatz 1 Satz 4 die Eintragung des von seinem Geburtseintrag abweichenden Geschlechts, hat er den Beschluss des Gerichts über die Vornamensänderung nach § 1 des Transsexuellengesetzes vorzulegen. Beantragt ein Passbewerber nach § 4 Absatz 1 Satz 6 die Eintragung eines von seinem Personenstandseintrag abweichenden Geschlechts, hat er die von dem Standesbeamten beurkundete Erklärung nach § 45b des Personenstandsgesetzes vorzulegen. Eintragungen des Geschlechts im Pass, die nach den Sätzen 1 und 2 von Eintragungen im Personenstandsregister abweichen, kommt keine weitere Rechtswirkung zu.
+(2a) (weggefallen)
 
 (2b) In den Fällen des § 1 Absatz 4 Satz 2 darf die zuständige Passbehörde vor Ausstellung eines amtlichen Passes zur Feststellung von Passversagungsgründen nach § 7 Absatz 1 Nummer 1 bis 5 oder zur Prüfung von sonstigen Sicherheitsbedenken um Auskunft aus dem Ausländerzentralregister ersuchen. Soweit dies zur Feststellung von Passversagungsgründen nach § 7 Absatz 1 Nummer 1 bis 5 oder zur Prüfung sonstiger Sicherheitsbedenken erforderlich ist, darf die zuständige Passbehörde in den Fällen des § 1 Absatz 4 Satz 2 die erhobenen Daten nach § 4 Absatz 1 an den Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, den Militärischen Abschirmdienst, das Bundeskriminalamt und das Zollkriminalamt übermitteln; zusätzlich darf die Passbehörde die nach Absatz 2 Satz 3 erhobenen Daten an das Bundeskriminalamt übermitteln, das Amtshilfe bei der Auswertung der Daten leistet. Satz 2 gilt nicht für Staatsangehörige anderer Mitgliedstaaten der Europäischen Union. Die nach Satz 2 ersuchten Behörden teilen der anfragenden Passbehörde unverzüglich mit, ob Passversagungsgründe nach § 7 Absatz 1 Nummer 1 bis 5 oder sonstige Sicherheitsbedenken vorliegen.
 
@@ -431,6 +440,9 @@ Der Inhaber eines Passes ist verpflichtet, der Passbehörde unverzüglich
 4.  anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die Streitkräfte oder einen vergleichbaren bewaffneten Verband eines ausländischen Staates, dessen Staatsangehörigkeit er besitzt, eingetreten ist.
 
 
+6.  im Falle der Ausgabe des Passes im Wege des Versands anzuzeigen, wenn die Sendung unbefugt geöffnet worden ist oder den Pass nicht enthält oder wenn der Pass beschädigt ist oder eine Angabe auf dem Pass unrichtig ist.
+
+
 
 
 
@@ -593,6 +605,9 @@ im polizeilichen Fahndungstatbestand geführt werden. Über Abrufe, die zu keine
 
 
 8.  gegenwärtige Anschrift,
+
+
+8a. E-Mail-Adresse, sofern der Passinhaber in die Speicherung einwilligt,
 
 
 9.  Staatsangehörigkeit,

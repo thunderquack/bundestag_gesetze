@@ -1253,14 +1253,7 @@ Das Gesetz über die Entschädigung der ehrenamtlichen Richter in der Fassung de
 *    *
     *   21.
 
-    *   zu rechtsmedizinischen, toxikologischen oder spurenkundlichen Fragestellungen im Zusammenhang mit einer abschließenden Todesursachenklärung, mit ärztlichen Behandlungsfehlern oder mit einer Beurteilung der Schuldfähigkeit,
-
-    *
-
-*    *
-    *   22.
-
-    *   in Verfahren nach dem Transsexuellengesetz.
+    *   zu rechtsmedizinischen, toxikologischen oder spurenkundlichen Fragestellungen im Zusammenhang mit einer abschließenden Todesursachenklärung, mit ärztlichen Behandlungsfehlern oder mit einer Beurteilung der Schuldfähigkeit.
 
     *
 

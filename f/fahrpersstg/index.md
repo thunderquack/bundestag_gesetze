@@ -148,7 +148,7 @@ Mitglieder des Fahrpersonals dürfen als Arbeitnehmer nicht nach den zurückgele
 1.  die Auskünfte, die zur Ausführung der in Absatz 1 genannten Vorschriften erforderlich sind, wahrheitsgemäß und vollständig zu erteilen,
 
 
-2.  die Unterlagen, die sich auf diese Angaben beziehen oder aus denen die Lohn- oder Gehaltszahlungen ersichtlich sind, zur Prüfung auszuhändigen oder einzusenden; werden die Unterlagen automatisiert gespeichert, sind sie den zuständigen Behörden auf deren Verlangen nach Maßgabe von Satz 12 durch Datenfernübertragung oder auf einem von der jeweiligen Behörde zu bestimmenden Datenträger nach Satz 11 zur Verfügung zu stellen.
+2.  die Unterlagen, die sich auf diese Angaben beziehen oder aus denen die Lohn- oder Gehaltszahlungen ersichtlich sind, zur Prüfung auszuhändigen oder einzusenden; werden die Unterlagen automatisiert gespeichert, sind sie den zuständigen Behörden auf deren Verlangen nach Maßgabe von Satz 12 durch Datenfernübertragung oder auf einem von der jeweiligen Behörde zu bestimmenden Datenträger nach Satz 12 zur Verfügung zu stellen.
 
 
 

@@ -197,11 +197,11 @@ Zur Einrichtung eines elektronischen Identitätsnachweises nach § 8a Absatz 1 S
 1.  dem in § 1 Absatz 1 genannten Personenkreis unterfällt und
 
 
-2.  mindestens 16 Jahre alt ist.
+2.  mindestens 13 Jahre alt ist.
 
 
 
-Jugendliche, die mindestens 16 Jahre alt sind, dürfen Verfahrenshandlungen nach diesem Gesetz vornehmen.
+Jugendliche, die mindestens 13 Jahre alt sind, dürfen Verfahrenshandlungen nach diesem Gesetz vornehmen.
 
 (2) In dem Antrag sind alle Tatsachen anzugeben, die zur Feststellung der antragstellenden Person notwendig sind. Die Angaben zu dem Doktorgrad und zu den Ordens- und Künstlernamen sind freigestellt. Die antragstellende Person hat die erforderlichen Nachweise zu erbringen und sich unter Vorlage eines anerkannten und gültigen ausländischen Passes oder Personalausweises vor der ausgebenden Stelle persönlich zu identifizieren.
 
@@ -356,6 +356,9 @@ Die eID-Karte kann als qualifizierte elektronische Signaturerstellungseinheit im
 6.  Anschrift,
 
 
+6a. E-Mail-Adresse, sofern der Inhaber der eID-Karte in die Speicherung einwilligt,
+
+
 7.  Staatsangehörigkeit,
 
 
@@ -399,10 +402,13 @@ eID-Karte-Behörden dürfen anderen eID-Karte-Behörden im automatisierten Verfa
 1.  die eID-Karte vorzulegen, wenn eine Eintragung unrichtig ist,
 
 
-2.  die alte eID-Karte beim Empfang einer neuen eID-Karte abzugeben sowie
+2.  die alte eID-Karte beim Empfang einer neuen eID-Karte abzugeben,
 
 
-3.  den Verlust der eID-Karte und ihr Wiederauffinden anzuzeigen.
+3.  den Verlust der eID-Karte und ihr Wiederauffinden anzuzeigen sowie
+
+
+4.  im Falle der Ausgabe der eID-Karte im Wege des postalischen Versands anzuzeigen, wenn die Sendung unbefugt geöffnet worden ist oder die eID-Karte nicht enthält oder wenn die eID-Karte beschädigt ist oder eine Angabe auf der eID-Karte unrichtig ist.
 
 
 

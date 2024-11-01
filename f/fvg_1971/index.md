@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 19.6.2024 I Nr. 205
 
 Änderung durch
-:   Art. 64 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 64 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt I - Allgemeine Vorschriften

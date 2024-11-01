@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 2 (1717)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 23.7.2024 I Nr. 253
+:   Art. 1 V v. 23.7.2024 I Nr. 253, Nr. 336
 
 
 ## Eingangsformel
@@ -419,7 +419,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 1.  entgegen § 1.06 Nummer 1 Satz 3 die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen Länge, Breite, Höhe oder Tiefgang den Gegebenheiten der Wasserstraße oder der Anlagen unter Beachtung der für Fahrrinnentiefen oder Brückenhöhen geltenden Vorschriften nicht angepasst sind,
 
 
-2.  entgegen § 10.29 Nummer 3 die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, überschritten werden,
+2.  entgegen § 10.29 Nummer 3 die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt,
 
 
 3.  entgegen § 11.29 Nummer 3 die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt,
@@ -709,7 +709,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 1.  entgegen § 3.34 Nummer 1 nicht sicherstellt, dass in den Fällen des § 3.01 Nummer 2 die für die Nacht vorgeschriebenen Lichter zusätzlich auch bei Tag gesetzt werden,
 
 
-2.  entgegen § 3.34 Nummer 2 nicht sicherstellt, dass auf dem Fahrzeug, dem Verband, dem Vorspann, dem Schwimmkörper oder der schwimmenden Anlage eine dort genannte Bezeichnung geführt wird.
+2.  entgegen § 3.34 Nummer 2 nicht sicherstellt, dass auf dem Fahrzeug, dem Verband, dem Vorspann, dem Schwimmkörper oder der schwimmenden Anlage eine dort genannte Bezeichnung geführt wird,
 
 
 3.  entgegen § 3.34 Nummer 3 nicht sicherstellt, dass auf dem Fahrzeug, dem Verband, dem Vorspann, dem Schwimmkörper oder der schwimmenden Anlage in dem oder den in

@@ -289,6 +289,8 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 
 
+(3g) Bei Ausländern nach § 2 Absatz 2 Nummer 3, bei denen Maßnahmen gemäß § 49 Absatz 5 Nummer 2 des Aufenthaltsgesetzes durchgeführt wurden, werden zusätzlich zu den Daten nach Absatz 1 die Fingerabdrücke und die dazugehörigen Referenznummern gespeichert.
+
 (4) Bei Unionsbürgern werden nur folgende Daten gespeichert:
 
 1.  die Bezeichnung der Stelle, die Daten übermittelt hat, und deren Geschäftszeichen,
@@ -406,13 +408,13 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 1.  die in Absatz 1 Nummer 1 bezeichneten Stellen die Angaben nach § 3 Absatz 1 Nummer 5b bis 6, 7a, 8 und 10, Absatz 2 Nummer 1 bis 8, Absatz 3 Nummer 1 und 2, Absatz 3c, 3e, 3f und 4 Nummer 6 sowie die Daten nach § 4 Absatz 1 und 2, sofern nicht Absatz 2a etwas anderes regelt,
 
 
-2.  die in Absatz 1 Nummer 1a bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5b bis 5d, Absatz 2 Nummer 1 bis 11, Absatz 3 Nummer 1 und 2, Absatz 3e,
+2.  die in Absatz 1 Nummer 1a bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5b bis 6 und 8, Absatz 2, 3 Nummer 1 und 2, Absatz 3e,
 
 
 3.  die in Absatz 1 Nummer 1b bezeichneten Stellen die Daten nach § 3 Absatz 2 Nummer 9 bis 11,
 
 
-4.  die in Absatz 1 Nummer 2 bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5b bis 6, Absatz 2 Nummer 1, 2 und 4 bis 8, Absatz 3e und 3f,
+4.  die in Absatz 1 Nummer 2 bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5b bis 6 und 8, Absatz 2 Nummer 1, 2 und 4 bis 8, Absatz 3e, 3f und 3g,
 
 
 4a. die in Absatz 1 Nummer 4a bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5b bis 5d, Absatz 2 Nummer 1, 2 und 4 bis 8,
@@ -465,7 +467,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 
 
-sind auch die der Speicherung zugrundeliegenden Dokumente durch die übermittelnde Stelle zu übermitteln. Die Speicherung von Dokumenten nach Nummer 1 und von gerichtlichen Entscheidungen in asylrechtlichen Verfahren darf nur erfolgen, soweit besondere gesetzliche Verarbeitungsregelungen oder überwiegende schutzwürdige Interessen des Ausländers nicht entgegenstehen; Erkenntnisse aus dem Kernbereich privater Lebensgestaltung sind unkenntlich zu machen. Die Registerbehörde hat sicherzustellen, dass im automatisierten Verfahren Dokumente nur abgerufen werden können, wenn die abrufende Stelle das Vorliegen der Voraussetzungen des § 10 Absatz 6 zuvor bestätigt. Die Dokumente sind zu löschen, wenn die dazugehörigen gespeicherten Daten gelöscht werden.
+sind auch die der Speicherung zugrundeliegenden Dokumente durch die übermittelnde Stelle zu übermitteln; betrifft die Speicherung Entscheidungen des Bundesamtes für Migration und Flüchtlinge oder gerichtliche Entscheidungen in asylrechtlichen Verfahren, mit denen ein Schutzstatus nach dem Asylgesetz zuerkannt oder ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes festgestellt oder jeder der vorgenannten Schutzstatus abgelehnt wird, ohne dass damit eine Rückkehrentscheidung nach dem Asyl- oder Aufenthaltsgesetz einhergeht, ist nur der Tenor der jeweiligen Entscheidung zu übermitteln. Die Speicherung von Dokumenten nach Nummer 1 und von gerichtlichen Entscheidungen in asylrechtlichen Verfahren darf nur erfolgen, soweit besondere gesetzliche Verarbeitungsregelungen oder überwiegende schutzwürdige Interessen des Ausländers nicht entgegenstehen; Erkenntnisse aus dem Kernbereich privater Lebensgestaltung sind unkenntlich zu machen. Die Registerbehörde hat sicherzustellen, dass im automatisierten Verfahren Dokumente nur abgerufen werden können, wenn die abrufende Stelle das Vorliegen der Voraussetzungen des § 10 Absatz 6 zuvor bestätigt. Die Dokumente sind zu löschen, wenn die dazugehörigen gespeicherten Daten gelöscht werden.
 
 
 #### § 7 Übermittlung und Veränderung von Daten im Wege der Direkteingabe
@@ -553,7 +555,7 @@ Die nach § 22 Abs. 1 zum Abruf von Daten im automatisierten Verfahren zugelasse
 
 (5) Zur Datenpflege (§ 8 Abs. 3) übermittelt die Registerbehörde die zu überprüfenden Daten an die dazu berechtigte oder verpflichtete Stelle.
 
-(6) Die Registerbehörde übermittelt auf Ersuchen im Register gespeicherte Dokumente (§ 6 Absatz 5), sofern die Kenntnis des Dokuments oder die Ansicht des Ausweis- oder Identifikationsdokuments für die ersuchende Stelle unerlässlich ist, weitere Informationen nicht rechtzeitig von der aktenführenden Behörde zu erlangen sind und ihr die Daten, auf die sich die Dokumente beziehen, übermittelt werden dürfen.
+(6) Die Registerbehörde übermittelt auf Ersuchen im Register gespeicherte Dokumente (§ 6 Absatz 5), sofern die Kenntnis des Dokuments oder die Ansicht des Ausweis- oder Identifikationsdokuments für die ersuchende Stelle unerlässlich ist, weitere Informationen nicht rechtzeitig von der aktenführenden Behörde zu erlangen sind und ihr die Daten, auf die sich die Dokumente beziehen, übermittelt werden dürfen. Handelt es sich bei dem gespeicherten Dokument um eine Entscheidung des Bundesamtes für Migration und Flüchtlinge, die mit einer Rückkehrentscheidung nach dem Asyl- oder Aufenthaltsgesetz oder einer Entscheidung zu einem Einreise- und Aufenthaltsverbot nach dem Aufenthaltsgesetz einhergeht oder um eine entsprechende gerichtliche Entscheidung in einem asylrechtlichen Verfahren, übermittelt die Registerbehörde dieses Dokument auf Ersuchen zur Durchsetzung der Rückkehrentscheidung oder des Einreise- und Aufenthaltsverbots nur an die Ausländerbehörden, die Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden sowie an sonstige Polizeivollzugsbehörden des Bundes und der Länder.
 
 
 ##### § 11 Zweckbestimmung, Weiterübermittlung von Daten

@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 25 G v. 27.3.2024 I Nr. 108
 
 Änderung durch
-:   Art. 30 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 30 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt G 610-6-15 v. 15.12.2003 I 2676, 2724 (InvStG)
 

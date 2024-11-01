@@ -1477,7 +1477,14 @@ Für die Ausstellung eines Aufenthaltstitels nach § 78a Absatz 1 Satz 1 des Auf
 
     *   für die Durchführung des beschleunigten Fachkräfteverfahrens nach § 81a des Aufenthaltsgesetzes
 
-    *   411 Euro.
+    *   411 Euro,
+
+
+*    *   16.
+
+    *   im Fall einer Übergabe nach § 60a Absatz 2 zusätzlich zu den jeweils festgesetzten Gebühren für die Ausstellung des elektronischen Aufenthaltstitels gemäß § 78 Absatz 1 Satz 1 des Aufenthaltsgesetzes
+
+    *   15 Euro.
 
 
 
@@ -2031,7 +2038,10 @@ Ein Ausländer, dem ein Aufenthaltstitel nach § 4 Absatz 1 Satz 2 Nummer 2 bis 
 1.  der für den Wohnort, ersatzweise der für den Aufenthaltsort im Inland zuständigen Ausländerbehörde oder einer anderen nach Landesrecht zuständigen Stelle den Verlust und das Wiederauffinden des Dokuments anzuzeigen und das Dokument vorzulegen, wenn es wiederaufgefunden wurde; bei Verlust im Ausland können die Anzeige und die Vorlage auch gegenüber einer deutschen Auslandsvertretung erfolgen, welche die zuständige oder zuletzt zuständige Ausländerbehörde unterrichtet,
 
 
-2.  nach Kenntnis vom Verlust der technischen Funktionsfähigkeit des Chips der zuständigen Ausländerbehörde das Dokument vorzulegen und die Neuausstellung zu beantragen.
+2.  nach Kenntnis vom Verlust der technischen Funktionsfähigkeit des Chips der zuständigen Ausländerbehörde das Dokument vorzulegen und die Neuausstellung zu beantragen,
+
+
+3.  im Fall der Ausgabe durch postalischen Versand der zuständigen Ausländerbehörde anzuzeigen, wenn die Postsendung unbefugt geöffnet worden ist oder den elektronischen Aufenthaltstitel nicht enthält oder wenn eine Angabe auf dem elektronischen Aufenthaltstitel unrichtig ist.
 
 
 
@@ -2205,6 +2215,15 @@ Die nach den Mustern in den Anlagen D4c, D7a, D8a ausgestellten Passersatzpapier
 (3) Das Lichtbild darf von den zuständigen Behörden zum Zweck des Einbringens in ein Dokument nach § 58 oder § 59 und zum späteren Abgleich mit dem tatsächlichen Aussehen des Dokumenteninhabers verarbeitet werden.
 
 
+#### § 60a Ausgabe und Versand des elektronischen Aufenthaltstitels und des Sperrkennworts
+
+(1) Der elektronische Aufenthaltstitel wird gemeinsam mit dem Sperrkennwort von der zuständigen Ausländerbehörde an die antragstellende Person, an eine andere nach § 80 des Aufenthaltsgesetzes berechtigte Person oder an eine von der antragstellenden Person bevollmächtigte Person persönlich ausgegeben.
+
+(2) Der elektronische Aufenthaltstitel wird gemeinsam mit dem Sperrkennwort der antragstellenden Person durch den Hersteller auf dem Postweg an die zustellfähige inländische Meldeadresse der antragstellenden Person versendet, wenn sie einen anerkannten und gültigen Pass, Passersatz oder einen Ausweisersatz besitzt und sie gegenüber der zuständigen Ausländerbehörde in dieses Verfahren eingewilligt hat. Ein Versand nach Satz 1 ist ausgeschlossen, wenn keine zustellfähige inländische Meldeadresse vorhanden ist. Der Zusteller hat vor der Übergabe die Identität der antragstellenden Person durch Vorlage eines der in Satz 1 genannten Dokumente zu überprüfen. Der Hersteller unterrichtet die Ausländerbehörde über die erfolgte Übergabe des elektronischen Aufenthaltstitels an den Inhaber des elektronischen Aufenthaltstitels. Ein Versand des elektronischen Aufenthaltstitels als Ausweisersatz ist ausgeschlossen.
+
+(3) Die antragstellende Person soll bei einem Verfahren nach Absatz 2 der zuständigen Ausländerbehörde eine E-Mail-Adresse mitteilen, sofern eine solche der Ausländerbehörde noch nicht vorliegt. Die Ausländerbehörde übermittelt diese E-Mail-Adresse an den Hersteller, damit dieser die E-Mail-Adresse dem Zusteller übermittelt. Der Zusteller kündigt in diesem Fall der antragstellenden Person den Zeitraum der Übergabe per E-Mail an die hinterlegte E-Mail-Adresse an. Die Ankündigung darf ausschließlich die Anrede, den Hinweis auf die bevorstehende Zustellung des elektronischen Aufenthaltstitels, den voraussichtlichen Zustellzeitpunkt sowie die Modalitäten der Zustellung nach Absatz 2 Satz 3 enthalten. Die E-Mail-Adresse darf von der Ausländerbehörde, dem Hersteller sowie dem Zusteller nicht für andere als die genannten Zwecke verwendet werden und ist bei der Ausländerbehörde, beim Hersteller und beim Zusteller nach Übergabe des elektronischen Aufenthaltstitels und des Sperrkennworts an die antragstellende Person unverzüglich zu löschen, sofern sie ausschließlich für das Verfahren nach Absatz 2 gespeichert wurde. Erfolgt eine Übergabe nicht, so findet Satz 5 mit der Maßgabe Anwendung, dass der Hersteller und der Zusteller die E-Mail-Adresse unverzüglich nach der Hinterlegung des elektronischen Aufenthaltstitels bei der zuständigen Ausländerbehörde, die Ausländerbehörde diese unverzüglich nach der Ausgabe des elektronischen Aufenthaltstitels an die antragstellende Person zu löschen haben.
+
+
 #### § 61 Sicherheitsstandard, Ausstellungstechnik
 
 (1) Die produktions- und sicherheitstechnischen Spezifikationen für die nach dieser Verordnung bestimmten Vordruckmuster werden vom Bundesministerium des Innern, für Bau und Heimat festgelegt. Sie werden nicht veröffentlicht.
@@ -2304,7 +2323,30 @@ im polizeilichen Fahndungsbestand geführt werden. Über Abrufe, die zu keiner F
 
 ##### § 61h Anwendung der Personalausweisverordnung
 
-(1) Hinsichtlich des elektronischen Identitätsnachweises gemäß § 78 Absatz 5 des Aufenthaltsgesetzes sind die §§ 1, 2 mit Ausnahme von Satz 1 Nummer 2 Buchstabe e und f, die §§ 3 und 4, 5 Absatz 2, 3 und 4 Satz 1 bis 4, die §§ 10, 13 bis 17, 18 Absatz 1, 2 und 4, § 20 Absatz 1, 3 und 4 Satz 1, die §§ 21 bis 25 Absatz 1, 2 Satz 1, Absatz 3, die §§ 25a und 26 Absatz 1 und 3 sowie die §§ 26a bis 36a der Personalausweisverordnung mit der Maßgabe entsprechend anzuwenden, dass die Ausländerbehörde an die Stelle der Personalausweisbehörde tritt.
+(1) Hinsichtlich des elektronischen Identitätsnachweises gemäß § 78 Absatz 5 des Aufenthaltsgesetzes sowie hinsichtlich der technischen Vorgaben für das Verfahren zur sicheren Übermittlung des Lichtbilds gemäß § 60 Absatz 2 sind die folgenden Regelungen unter der Maßgabe entsprechend anzuwenden, dass die Ausländerbehörde an die Stelle der Personalausweisbehörde tritt:
+
+1.  §§ 1, 2 mit Ausnahme von Satz 1 Nummer 2 Buchstabe e und f der Personalausweisverordnung,
+
+
+2.  §§ 3, 4 und 5 Absatz 1 Satz 2, Absatz 2, 3, 4 Satz 1 bis 5 und Absatz 7 der Personalausweisverordnung,
+
+
+3.  §§ 10, 13 bis 16, § 17 Absatz 1, 2 Satz 2 und 3 sowie Absatz 3, § 18 Absatz 5 der Personalausweisverordnung,
+
+
+4.  § 20 Absatz 1, 3 und 4 Satz 1 der Personalausweisverordnung,
+
+
+5.  §§ 21 bis 25 Absatz 1, 2 Satz 1 und Absatz 3 der Personalausweisverordnung,
+
+
+6.  §§ 25a und 26 Absatz 1 und 3 der Personalausweisverordnung sowie
+
+
+7.  §§ 26a bis 36a der Personalausweisverordnung.
+
+
+
 
 (2) Die Nutzung des elektronischen Identitätsnachweises ist ausgeschlossen, wenn die Identität des Ausländers durch die Ausländerbehörde nicht zweifelsfrei festgestellt ist.
 
@@ -2315,7 +2357,7 @@ im polizeilichen Fahndungsbestand geführt werden. Über Abrufe, die zu keiner F
 
 ##### § 62 Dateisystemführungspflicht der Ausländerbehörden
 
-Die Ausländerbehörden führen zwei Dateisysteme unter den Bezeichnungen "Ausländerdatei A" und "Ausländerdatei B". Die Pflicht zur Führung der Ausländerdatei A entfällt, sofern die Speicherung der Daten im Ausländerzentralregister erfolgt.
+Die Ausländerbehörden führen zwei Dateisysteme unter den Bezeichnungen "Ausländerdatei A" und "Ausländerdatei B". Die Pflicht zur Führung der Ausländerdatei A entfällt, sofern die Speicherung der Daten im Ausländerzentralregister erfolgt. Die Daten sollen ausschließlich im Ausländerzentralregister gespeichert werden, soweit die Speicherung des Datums im Ausländerzentralregister vorgesehen ist; eine jederzeitige, wechselseitige und wirksame Übertragung in die beteiligten Register und IT-Fachverfahren, sowie die Kommunikation mit den Datenübermittlungsstandards nach § 76a ist sicherzustellen.
 
 
 ##### § 63 Ausländerdatei A
@@ -2997,7 +3039,7 @@ Die Mitteilung nach Satz 1 Nr. 2 entfällt bei Personen, die mit einem Aufnahmeb
 (2) Die Bescheinigungsbehörden nach § 15 des Bundesvertriebenengesetzes teilen den Ausländerbehörden die Ablehnung der Ausstellung einer Bescheinigung nach § 15 Abs. 1 oder 2 des Bundesvertriebenengesetzes mit.
 
 
-##### § 74 Mitteilungen der Justizbehörden
+##### § 74 Mitteilungen der Justizvollzugsbehörden und der Maßregelvollzugseinrichtungen
 
 (1) Die Strafvollstreckungsbehörden teilen den Ausländerbehörden mit
 
@@ -3009,15 +3051,15 @@ Die Mitteilung nach Satz 1 Nr. 2 entfällt bei Personen, die mit einem Aufnahmeb
 
 
 
-(2) Die Strafvollzugsbehörden teilen den Ausländerbehörden mit
+(2) Die Justizvollzugsbehörden teilen den Ausländerbehörden mit
 
-1.  den Antritt der Auslieferungs-, Untersuchungs- und Strafhaft,
+1.  den Antritt der Auslieferungs-, Untersuchungs- und Strafhaft und den Beginn der Unterbringung in einem psychiatrischen Krankenhaus nach § 63 des Strafgesetzbuches, der Unterbringung in einer Entziehungsanstalt nach § 64 des Strafgesetzbuches und der Unterbringung in der Sicherungsverwahrung nach § 66 des Strafgesetzbuches,
 
 
 2.  die Verlegung in eine andere Justizvollzugsanstalt,
 
 
-3.  die vorgesehenen und festgesetzten Termine für die Entlassung aus der Haft.
+3.  die vorgesehenen und festgesetzten Termine für die Entlassung aus der Haft und das Ende der Unterbringung in einem psychiatrischen Krankenhaus nach § 63 des Strafgesetzbuches, der Unterbringung in einer Entziehungsanstalt nach § 64 des Strafgesetzbuches und der Unterbringung in der Sicherungsverwahrung nach § 66 des Strafgesetzbuches.
 
 
 
@@ -3060,41 +3102,53 @@ Die für die Gewerbeüberwachung zuständigen Behörden teilen den Ausländerbeh
 
 ##### § 76b Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
 
-(1) Die nach § 49 Absatz 6, 8 und 9 des Aufenthaltsgesetzes zuständigen Behörden haben das Folgende dem Stand der Technik entsprechend zu gewährleisten:
+(1) Die nach § 49 des Aufenthaltsgesetzes zuständigen Behörden haben die Einhaltung des Stands der Technik zu gewährleisten bei
 
-1.  die Überprüfung des Standards und der Aktualität des bereits im Ausländerzentralregister gespeicherten Lichtbildes,
-
-
-2.  die Erfassung und Verarbeitung der von ihnen im Rahmen einer erkennungsdienstlichen Maßnahme zu erhebenden Fingerabdruckdaten und des in den Ankunftsnachweis zu übernehmenden Lichtbildes.
+1.  der Erfassung des Lichtbildes und der Fingerabdrücke,
 
 
+2.  der Qualitätssicherung des Lichtbildes und der Fingerabdrücke,
 
 
-(2) Die Einhaltung des Stands der Technik wird vermutet, wenn nach der Technischen Richtlinie BSI-TR-03121 – Biometrics for Public Sector Applications – des Bundesamtes für Sicherheit in der Informationstechnik in der jeweils geltenden Fassung verfahren wurde, die im Bundesanzeiger bekannt gemacht worden ist.
+3.  der maschinellen Echtheitsprüfung von ausländischen Ausweis- oder Identifikationsdokumenten sowie
 
 
-##### § 76c Qualitätssicherung des Lichtbildes und der Fingerabdruckdaten
-
-(1) Die nach § 49 Absatz 6, 8 und 9 des Aufenthaltsgesetzes zuständigen Behörden stellen durch geeignete technische und organisatorische Maßnahmen die erforderliche Qualität der Erfassung und Verarbeitung des Lichtbildes und der Fingerabdruckdaten, insbesondere die Einhaltung der in § 76b genannten technischen Anforderungen, sicher. Dazu haben sie das Lichtbild und die Fingerabdruckdaten mit einer zertifizierten Qualitätssicherungssoftware zu prüfen. Darüber hinaus hat auch die Erfassung der Fingerabdruckdaten mit zertifizierter Hardware zu erfolgen. Soweit die Technischen Richtlinien eine Zertifizierung der zur Erfassung und Überprüfungen erforderlichen Komponenten vorsieht, gilt dieses Erfordernis für folgende Systemkomponenten:
-
-1.  Erfassungsstation zur Fertigung des Lichtbildes,
-
-
-2.  Fingerabdruckscanner,
-
-
-3.  Software zur Erfassung und Qualitätssicherung des Lichtbildes und
-
-
-4.  Software zur Erfassung und Qualitätssicherung der Fingerabdruckdaten.
+4.  der Erhebung von anonymisierten Einzeldaten zur Sicherung des Sicherheits- und Qualitätsniveaus.
 
 
 
-Bis zum 30. Juni 2020 ist die Nutzung nicht zertifizierter Geräte zur Erfassung und Überprüfung des Standards und der Aktualität des Lichtbildes und der Fingerabdruckdaten zulässig.
 
-(2) Das Bundesverwaltungsamt erstellt eine Qualitätsstatistik mit anonymisierten Qualitätswerten zu Lichtbildern, die von den nach § 49 Absatz 6, 8 und 9 des Aufenthaltsgesetzes zuständigen Behörden erhoben und übermittelt werden.
+(2) Die Einhaltung des Stands der Technik wird vermutet, wenn die Prozesse nach den in Anlage E genannten Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik in der jeweils zuletzt im Bundesanzeiger veröffentlichten Fassung durchgeführt wurden.
 
-(3) Das Bundesverwaltungsamt stellt die Ergebnisse der Qualitätsstatistik und auf Ersuchen die in der Statistik erfassten anonymisierten Einzeldaten dem Bundesministerium des Innern, für Bau und Heimat, dem Bundesamt für Sicherheit in der Informationstechnik und dem Bundeskriminalamt zur Verfügung.
+(3) Sofern die jeweils zuletzt im Bundesanzeiger veröffentlichte Technische Richtlinie eine Zertifizierung beim Bundesamt für Sicherheit in der Informationstechnik vorsieht, ist diese für folgende Systemkomponenten erforderlich:
+
+1.  für Hardware zur Erfassung des Lichtbildes,
+
+
+2.  für Hardware zur Erfassung der Fingerabdrücke,
+
+
+3.  für Software zur Erfassung und Qualitätssicherung des Lichtbildes,
+
+
+4.  für Software zur Erfassung und Qualitätssicherung der Fingerabdruckdaten,
+
+
+5.  für Hardware zur Prüfung von Dokumenten und
+
+
+6.  für Software zur Prüfung von Dokumenten.
+
+
+
+In Sonderlagen kann im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik übergangsweise vom Verfahren nach den Absätzen 2 und 3 abgewichen werden.
+
+
+##### § 76c Nationale Sicherheits- und Qualitätsstatistik
+
+(1) Das Bundesamt für Sicherheit in der Informationstechnik führt eine nationale Sicherheits- und Qualitätsstatistik zu den nach § 49 des Aufenthaltsgesetzes erhobenen biometrischen Daten und zu den durchgeführten maschinellen Dokumentenprüfungen nach dem Stand der Technik. Das Bundesverwaltungsamt ermöglicht dem Bundesamt für Sicherheit in der Informationstechnik den Zugang zu anonymisierten Einzeldaten zum Zwecke der Sicherheits- und Qualitätsstatistik. Das Bundesamt für Sicherheit in der Informationstechnik stellt die in Satz 1 genannten Statistiken dem Bundesministerium des Innern und für Heimat, dem Bundesverwaltungsamt, der Bundespolizei, dem Bundeskriminalamt und dem Bundesamt für Migration und Flüchtlinge sowie den Ländern ganz oder teilweise zur Verfügung, sofern sie zur Aufgabenerfüllung benötigt werden.
+
+(2) Für die Statistiken des Bundesamtes für Sicherheit in der Informationstechnik gelten die Grundsätze der Neutralität und Objektivität. Die Vorschriften der Geheimhaltung nach § 16 des Bundesstatistikgesetzes gelten entsprechend. Das Statistikgeheimnis ist durch technische und organisatorische Maßnahmen zu wahren, die die Trennung zwischen statistischen und nichtstatistischen Aufgaben gewährleisten.
 
 
 ## Kapitel 6 - Ordnungswidrigkeiten
@@ -4317,3 +4371,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (Fundstelle: BGBl. I 2021, 3703)
 
 ![bgbl1_2021_j3682-1_0400.jpg](bgbl1_2021_j3682-1_0400.jpg)
+
+### Anlage E Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
+
+(Fundstelle: BGBl. 2024 I Nr. 152, S. 24)
+
+
+1.  BSI TR-03121 – Biometrics for Public Sector Applications
+
+
+2.  BSI-TR 03135 – Machine Authentication of MRTDs for Public Sector Applications
+
+
+3.  BSI-TR 03156 – Hoheitliches Identitätsmanagement in Verbindung mit EU-Informationssystemen
+
+
+
+

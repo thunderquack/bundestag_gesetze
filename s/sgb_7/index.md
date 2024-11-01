@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 22.3.2024 I Nr. 101
 
 Änderung durch
-:   Art. 66 G v. 23.10.2024 I Nr. 323 mWv 30.10.2024 bzw. 1.1.2025 bzw. 1.1.2026 bzw. 1.1.2028 noch nicht berücksichtigt
+:   Art. 66 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall
@@ -3475,11 +3475,9 @@ dies gilt bis zum Ausgleichsjahr 2031 auch für die der Tarifstelle zuzuordnende
 
 (3) Die Werte nach § 178 Abs. 1 Satz 1 sind vom Bundesamt für Soziale Sicherung unter Berücksichtigung der Rentenwerte zu überprüfen. Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Werte nach § 178 Abs. 1 Satz 1 neu festzusetzen. Es kann die Befugnis nach Satz 2 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesamt für Soziale Sicherung übertragen. Rechtsverordnungen, die nach Satz 3 erlassen werden, bedürfen einer Anhörung der Deutschen Gesetzlichen Unfallversicherung e. V. und ergehen im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales.
 
-(4) Die Bundesregierung hat dem Deutschen Bundestag und dem Bundesrat alle vier Jahre bis zum 31. Dezember des auf das Ausgleichsjahr folgenden Jahres, erstmals bis zum 31. Dezember 2012, über die Wirkungen der gemeinsamen Tragung der Rentenlasten nach § 178 zu berichten.
+(4) Die Berufsgenossenschaften erstatten dem Bundesamt für Soziale Sicherung die Verwaltungskosten, die bei der Durchführung des Ausgleichs entstehen. Das Bundesamt für Soziale Sicherung weist die für die Durchführung der Abrechnung erforderlichen Verwaltungskosten pauschal nach Stellenanteilen nach. Der Ermittlung der Verwaltungskosten sind die Personalkostenansätze des Bundes einschließlich der Sachkostenpauschale zugrunde zu legen. Zusätzliche Verwaltungsausgaben können in ihrer tatsächlichen Höhe hinzugerechnet werden. Die Aufteilung des Erstattungsbetrages auf die gewerblichen Berufsgenossenschaften erfolgt entsprechend ihrem Anteil an dem Zahlungsvolumen für Rentenlasten im Ausgleichsjahr vor Durchführung des Ausgleichs.
 
-(5) Die Berufsgenossenschaften erstatten dem Bundesamt für Soziale Sicherung die Verwaltungskosten, die bei der Durchführung des Ausgleichs entstehen. Das Bundesamt für Soziale Sicherung weist die für die Durchführung der Abrechnung erforderlichen Verwaltungskosten pauschal nach Stellenanteilen nach. Der Ermittlung der Verwaltungskosten sind die Personalkostenansätze des Bundes einschließlich der Sachkostenpauschale zugrunde zu legen. Zusätzliche Verwaltungsausgaben können in ihrer tatsächlichen Höhe hinzugerechnet werden. Die Aufteilung des Erstattungsbetrages auf die gewerblichen Berufsgenossenschaften erfolgt entsprechend ihrem Anteil an dem Zahlungsvolumen für Rentenlasten im Ausgleichsjahr vor Durchführung des Ausgleichs.
-
-(6) Klagen gegen Feststellungsbescheide nach Absatz 2 einschließlich der hierauf entfallenden Verwaltungskosten nach Absatz 5 haben keine aufschiebende Wirkung.
+(5) Klagen gegen Feststellungsbescheide nach Absatz 2 einschließlich der hierauf entfallenden Verwaltungskosten nach Absatz 4 haben keine aufschiebende Wirkung.
 
 
 ### Zweiter Abschnitt - Besondere Vorschriften für die landwirtschaftliche Unfallversicherung

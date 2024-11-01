@@ -23,7 +23,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 30.5.2024 I Nr. 173
 
 Änderung durch
-:   Art. 63 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 63 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 3 G v. 24.10.2024 I Nr. 329 mWv 31.10.2024 noch nicht berücksichtigt

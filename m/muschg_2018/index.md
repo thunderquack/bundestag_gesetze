@@ -19,7 +19,7 @@ Geändert durch
 :   Art. 57 Abs. 8 G v. 12.12.2019 I 2652
 
 Änderung durch
-:   Art. 54 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 54 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

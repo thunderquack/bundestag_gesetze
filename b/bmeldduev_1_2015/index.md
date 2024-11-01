@@ -54,7 +54,7 @@ Auf Grund des § 56 Absatz 1 Nummer 1 und Absatz 2 des Bundesmeldegesetzes vom 3
 
 (4) Das Datenaustauschformat OSCI-XMeld, das Übermittlungsprotokoll OSCI-Transport und der DSMeld sind beim Bundesarchiv, Potsdamer Straße 1, 56075 Koblenz, archivmäßig gesichert niedergelegt und der Öffentlichkeit zugänglich. Sie können beim Informationstechnikzentrum Bund (ITZBund), Dienstsitz Bonn, Bernkasteler Straße 8, 53175 Bonn, bezogen werden.
 
-(5) Änderungen des Datenaustauschformats OSCI-XMeld, des Übermittlungsprotokolls OSCI-Transport sowie des DSMeld werden vom Bundesministerium des Innern, für Bau und Heimat im Bundesanzeiger bekannt gemacht. In der Bekanntmachung sind das Herausgabedatum und der Beginn der Anwendung anzugeben.
+(5) Änderungen des Datenaustauschformats OSCI-XMeld, des Übermittlungsprotokolls OSCI-Transport sowie des DSMeld werden vom Bundesministerium des Innern und für Heimat im Bundesanzeiger bekannt gemacht. In der Bekanntmachung sind das Herausgabedatum und der Beginn der Anwendung anzugeben.
 
 
 ## § 4 Automatisiertes Abrufverfahren zur Anmeldung
@@ -118,6 +118,13 @@ Auf Grund des § 56 Absatz 1 Nummer 1 und Absatz 2 des Bundesmeldegesetzes vom 3
 
 *    *   8.
 
+    *   die Identifikationsnummer nach § 139b der Abgabenordnung
+
+    *   2701,
+
+
+*    *   9.
+
     *   zum gesetzlichen Vertreter: Familienname, Vornamen,
         Doktorgrad, Anschrift,
         Geburtsdatum, Geschlecht,
@@ -129,28 +136,28 @@ Auf Grund des § 56 Absatz 1 Nummer 1 und Absatz 2 des Bundesmeldegesetzes vom 3
         1200 bis 1212, 1801a,
 
 
-*    *   9.
+*    *   10.
 
     *   derzeitige Staatsangehörigkeiten
 
     *   1001,
 
 
-*    *   10.
+*    *   11.
 
     *   rechtliche Zugehörigkeit zu einer öffentlich-rechtlichen Religionsgesellschaft
 
     *   1101, 1104,
 
 
-*    *   11.
+*    *   12.
 
     *   derzeitige Anschriften und Anschrift der letzten alleinigen Wohnung oder Hauptwohnung, Haupt- und Nebenwohnung, bei Zuzug aus dem Ausland auch die letzte Anschrift im Inland
 
     *   1200 bis 1213a,
 
 
-*    *   12.
+*    *   13.
 
     *   Einzugsdatum, Auszugsdatum
 
@@ -158,7 +165,7 @@ Auf Grund des § 56 Absatz 1 Nummer 1 und Absatz 2 des Bundesmeldegesetzes vom 3
         1305, 1306,
 
 
-*    *   13.
+*    *   14.
 
     *   Familienstand, bei Verheirateten oder Personen, die eine Lebenspartnerschaft führen,
         Datum und Ort der Eheschließung oder Begründung der Lebenspartnerschaft
@@ -168,7 +175,7 @@ Auf Grund des § 56 Absatz 1 Nummer 1 und Absatz 2 des Bundesmeldegesetzes vom 3
         1408, 1409,
 
 
-*    *   14.
+*    *   15.
 
     *   zum Ehegatten oder Lebenspartner:
         Familienname, Vornamen, Geburtsname, Doktorgrad, Geburtsdatum, Geschlecht,
@@ -180,7 +187,7 @@ Auf Grund des § 56 Absatz 1 Nummer 1 und Absatz 2 des Bundesmeldegesetzes vom 3
         1200 bis 1213a, 1801a,
 
 
-*    *   15.
+*    *   16.
 
     *   zu minderjährigen Kindern: Familienname, Vornamen, Geburtsdatum, Geschlecht, Anschrift im Inland,
         Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 des Bundesmeldegesetzes
@@ -190,7 +197,7 @@ Auf Grund des § 56 Absatz 1 Nummer 1 und Absatz 2 des Bundesmeldegesetzes vom 3
         1200 bis 1212, 1801a,
 
 
-*    *   16.
+*    *   17.
 
     *   Ausstellungsbehörde, Ausstellungsdatum, letzter
         Tag der Gültigkeitsdauer und Seriennummer des
@@ -204,21 +211,21 @@ Auf Grund des § 56 Absatz 1 Nummer 1 und Absatz 2 des Bundesmeldegesetzes vom 3
         1715 bis 1717,
 
 
-*    *   17.
+*    *   18.
 
     *   Auskunfts- und Übermittlungssperren
 
     *   1801 bis 1802,
 
 
-*    *   18.
+*    *   19.
 
     *   AZR-Nummer
 
     *   1712,
 
 
-*    *   19.
+*    *   20.
 
     *   für die Ausstellung von Pässen und Ausweisen die Tatsache, dass Passversagungsgründe vorliegen, ein Pass versagt oder entzogen oder eine Anordnung nach § 6 Absatz 7, § 6a Absatz 1 oder § 6a Absatz 2 des Personalausweisgesetzes getroffen worden ist
 
@@ -362,6 +369,13 @@ Auf Grund des § 56 Absatz 1 Nummer 1 und Absatz 2 des Bundesmeldegesetzes vom 3
 
 *    *   8.
 
+    *   die Identifikationsnummer nach § 139b der Abgabenordnung
+
+    *   2701,
+
+
+*    *   9.
+
     *   zum gesetzlichen Vertreter: Familienname, Vornamen,
         Doktorgrad, Anschrift,
         Geburtsdatum, Geschlecht,
@@ -372,21 +386,21 @@ Auf Grund des § 56 Absatz 1 Nummer 1 und Absatz 2 des Bundesmeldegesetzes vom 3
         1200 bis 1212, 1801a,
 
 
-*    *   9.
+*    *   10.
 
     *   derzeitige Staatsangehörigkeiten
 
     *   1001, 1005,
 
 
-*    *   10.
+*    *   11.
 
     *   rechtliche Zugehörigkeit zu einer öffentlich-rechtlichen Religionsgesellschaft
 
     *   1101, 1104,
 
 
-*    *   11.
+*    *   12.
 
     *   derzeitige Anschriften und Anschrift der letzten
         alleinigen Wohnung oder Hauptwohnung, Haupt- und Nebenwohnung, bei Zuzug aus dem Ausland auch den Staat und die letzte frühere Anschrift im Inland
@@ -395,7 +409,7 @@ Auf Grund des § 56 Absatz 1 Nummer 1 und Absatz 2 des Bundesmeldegesetzes vom 3
         1223,
 
 
-*    *   12.
+*    *   13.
 
     *   Einzugsdatum, Auszugsdatum
 
@@ -403,7 +417,7 @@ Auf Grund des § 56 Absatz 1 Nummer 1 und Absatz 2 des Bundesmeldegesetzes vom 3
         1306, 1314,
 
 
-*    *   13.
+*    *   14.
 
     *   Familienstand, bei Verheirateten oder Personen, die eine Lebenspartnerschaft führen,
         Datum und Ort der Eheschließung oder Begründung der Lebenspartnerschaft sowie bei Eheschließung oder Begründung der Lebenspartnerschaft im Ausland auch den Staat
@@ -412,7 +426,7 @@ Auf Grund des § 56 Absatz 1 Nummer 1 und Absatz 2 des Bundesmeldegesetzes vom 3
         1408, 1409,
 
 
-*    *   14.
+*    *   15.
 
     *   zum Ehegatten oder Lebenspartner:
         Familienname, Vornamen, Geburtsname, Doktorgrad, Geburtsdatum, Geschlecht,
@@ -425,7 +439,7 @@ Auf Grund des § 56 Absatz 1 Nummer 1 und Absatz 2 des Bundesmeldegesetzes vom 3
         1200 bis 1213a, 1801a,
 
 
-*    *   15.
+*    *   16.
 
     *   zu minderjährigen Kindern: Familienname, Vornamen, Geburtsdatum, Geschlecht, Anschrift im Inland,
         Auskunftssperren nach § 51 und bedingte Sperrvermerke nach § 52 des Bundesmeldegesetzes
@@ -435,7 +449,7 @@ Auf Grund des § 56 Absatz 1 Nummer 1 und Absatz 2 des Bundesmeldegesetzes vom 3
         1200 bis 1212, 1801a,
 
 
-*    *   16.
+*    *   17.
 
     *   Ausstellungsbehörde, Ausstellungsdatum, letzter
         Tag der Gültigkeitsdauer und Seriennummer des
@@ -449,14 +463,14 @@ Auf Grund des § 56 Absatz 1 Nummer 1 und Absatz 2 des Bundesmeldegesetzes vom 3
         1715 bis 1717,
 
 
-*    *   17.
+*    *   18.
 
     *   Auskunfts- und Übermittlungssperren
 
     *   1801 bis 1804,
 
 
-*    *   18.
+*    *   19.
 
     *   AZR-Nummer
 
@@ -566,7 +580,7 @@ Bei Zuzügen aus dem Ausland übermittelt die Zuzugsmeldebehörde die Daten an d
 
 
 
-Ist die neue Wohnung die alleinige Wohnung oder die Hauptwohnung der zugezogenen Person, so unterrichtet die Wegzugsmeldebehörde die Zuzugsmeldebehörde unverzüglich, spätestens jedoch drei Werktage nach Eingang der Rückmeldung darüber, ob Tatsachen nach § 3 Absatz 2 Nummer 1, 2 Buchstabe d, Nummer 3 und 4, 7, 8 und 11 des Bundesmeldegesetzes vorliegen (Datenblätter 2101 bis 2106, 2301, 2302, 2601, 2602, 2603, 2604, 2701 bis 2708, 2801, 2802 und 3101). Sie übermittelt der Zuzugsmeldebehörde auch die Datenblätter 1002 bis 1004 und 1305, das Sperrkennwort und die Sperrsumme des Personalausweises oder der eID-Karte nach § 3 Absatz 1 Nummer 17 des Bundesmeldegesetzes, sofern diese Daten im Melderegister gespeichert sind (Datenblätter 1710 und 1711 oder 1718 und 1719) sowie das Datenblatt 1712a. Ist die neue Wohnung die Nebenwohnung der zugezogenen Person, so unterrichtet die Meldebehörde der alleinigen Wohnung oder der Hauptwohnung die Zuzugsmeldebehörde unverzüglich, spätestens jedoch drei Werktage nach Eingang der Rückmeldung darüber, ob Tatsachen nach § 3 Absatz 2 Nummer 7 und 8 des Bundesmeldegesetzes vorliegen (Datenblätter 2601, 2602, 2603, 2604, 2801 und 2802). Die Sätze 2 und 3 gelten auch für Wohnungen, die ihren Status als alleinige Wohnung oder als Hauptwohnung durch Abmeldung oder besondere Erklärung der meldepflichtigen Person erhalten haben.
+Ist die neue Wohnung die alleinige Wohnung oder die Hauptwohnung der zugezogenen Person, so unterrichtet die Wegzugsmeldebehörde die Zuzugsmeldebehörde unverzüglich, spätestens jedoch drei Werktage nach Eingang der Rückmeldung darüber, ob Tatsachen nach § 3 Absatz 2 Nummer 1, 2 Buchstabe d, Nummer 3 und 4, 7, 8 und 11 des Bundesmeldegesetzes vorliegen (Datenblätter 2101 bis 2106, 2301, 2302, 2601, 2602, 2603, 2604, 2702 bis 2708, 2801, 2802 und 3101). Sie übermittelt der Zuzugsmeldebehörde auch die Datenblätter 1002 bis 1004 und 1305, das Sperrkennwort und die Sperrsumme des Personalausweises oder der eID-Karte nach § 3 Absatz 1 Nummer 17 des Bundesmeldegesetzes, sofern diese Daten im Melderegister gespeichert sind (Datenblätter 1710 und 1711 oder 1718 und 1719) sowie das Datenblatt 1712a. Ist die neue Wohnung die Nebenwohnung der zugezogenen Person, so unterrichtet die Meldebehörde der alleinigen Wohnung oder der Hauptwohnung die Zuzugsmeldebehörde unverzüglich, spätestens jedoch drei Werktage nach Eingang der Rückmeldung darüber, ob Tatsachen nach § 3 Absatz 2 Nummer 7 und 8 des Bundesmeldegesetzes vorliegen (Datenblätter 2601, 2602, 2603, 2604, 2801 und 2802). Die Sätze 2 und 3 gelten auch für Wohnungen, die ihren Status als alleinige Wohnung oder als Hauptwohnung durch Abmeldung oder besondere Erklärung der meldepflichtigen Person erhalten haben.
 
 (2) Weichen die der Wegzugsmeldebehörde nach § 6 Absatz 1 übermittelten Daten von den bei ihr gespeicherten Daten ab, so unterrichtet sie gemäß § 33 Absatz 2 Satz 2 des Bundesmeldegesetzes hierüber unverzüglich die Zuzugsmeldebehörde. Eine Unterrichtung kann unterbleiben, wenn die Abweichung ausschließlich darin besteht, dass die Wegzugsmeldebehörde weniger Daten über die Person gespeichert hat als die Zuzugsmeldebehörde. Wurde die Person bei der Wegzugsmeldebehörde nach unbekannt oder ins Ausland abgemeldet, teilt die Wegzugsmeldebehörde der Zuzugsmeldebehörde dies mit und gibt das Auszugsdatum an (Datenblatt 1306).
 
@@ -635,7 +649,7 @@ Ist die neue Wohnung die alleinige Wohnung oder die Hauptwohnung der zugezogenen
 
 (3) § 7 Absatz 3 gilt entsprechend.
 
-(4) Ändern sich die in § 3 Absatz 1 Nummer 14, 15 oder 18 oder Absatz 2 Nummer 2 Buchstabe d und Nummer 3 des Bundesmeldegesetzes bezeichneten Daten von Ehegatten oder Lebenspartnern ohne gemeinsame Wohnung oder findet ein Wegzug in das Ausland oder nach unbekannt statt, so übermittelt die Meldebehörde der für den anderen Ehegatten oder Lebenspartner zuständigen Meldebehörde die geänderten Daten (Änderungsmitteilung Ehegatte oder Lebenspartner). Dabei sind zusätzlich anzugeben:
+(4) Ändern sich die in § 3 Absatz 1 Nummer 1 bis 4, 6 bis 8, 12, 14 oder 18 oder Absatz 2 Nummer 3 des Bundesmeldegesetzes bezeichneten Daten von Personen mit Ehegatten oder Lebenspartnern ohne gemeinsame Wohnung oder findet ein Wegzug in das Ausland oder nach unbekannt statt, so übermittelt die Meldebehörde der für den anderen Ehegatten oder Lebenspartner zuständigen Meldebehörde die geänderten Daten (Änderungsmitteilung Ehegatte oder Lebenspartner). Dabei sind zusätzlich anzugeben:
 
 1.  Name und Geburtsdatum der Person, deren Daten sich ändern (Datenblätter 0101 bis 0106, 0201
     bis 0202,                    0301, 0601) und

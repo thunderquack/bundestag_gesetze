@@ -320,7 +320,10 @@ Im Schriftverkehr und bei der Aufnahme von Urkunden in übertragenen Angelegenhe
     a)  eines Sorgeberechtigten zu einem Rechtsgeschäft,
 
 
-    b)  eines gesetzlichen Vertreters zu der Sorgeerklärung eines beschränkt geschäftsfähigen Elternteils nach § 1626c Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs;
+    b)  eines gesetzlichen Vertreters zu der Sorgeerklärung eines beschränkt geschäftsfähigen Elternteils nach § 1626c Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs,
+
+
+    c)  des gesetzlichen Vertreters nach § 3 Absatz 1 Satz 2 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag;
 
 
 
@@ -335,7 +338,10 @@ Im Schriftverkehr und bei der Aufnahme von Urkunden in übertragenen Angelegenhe
 15. die Befreiung vom Eheverbot der durch die Annahme als Kind begründeten Verwandtschaft in der Seitenlinie nach § 1308 Absatz 2 des Bürgerlichen Gesetzbuchs;
 
 
-16. die Genehmigung für den Antrag auf Scheidung oder Aufhebung der Ehe oder auf Aufhebung der Lebenspartnerschaft durch den gesetzlichen Vertreter eines geschäftsunfähigen Ehegatten oder Lebenspartners nach § 125 Absatz 2 Satz 2, § 270 Absatz 1 Satz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
+16. die Genehmigung für den Antrag auf Scheidung oder Aufhebung der Ehe oder auf Aufhebung der Lebenspartnerschaft durch den gesetzlichen Vertreter eines geschäftsunfähigen Ehegatten oder Lebenspartners nach § 125 Absatz 2 Satz 2, § 270 Absatz 1 Satz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit;
+
+
+17. die Genehmigung für die Erklärungen zur Änderung des Geschlechtseintrags und der Vornamen nach § 3 Absatz 2 Satz 2 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag.
 
 
 
@@ -371,7 +377,7 @@ Im Schriftverkehr und bei der Aufnahme von Urkunden in übertragenen Angelegenhe
 8.  die Genehmigung nach § 6 des Gesetzes über die freiwillige Kastration und andere Behandlungsmethoden;
 
 
-9.  die Genehmigung nach § 3 Absatz 1 Satz 2 sowie nach § 6 Absatz 2 Satz 1, § 7 Absatz 3 Satz 2 und § 9 Absatz 3 Satz 1, jeweils in Verbindung mit § 3 Absatz 1 Satz 2 des Gesetzes über die Änderung der Vornamen und die Feststellung der Geschlechtszugehörigkeit in besonderen Fällen;
+9.  die Genehmigung für die Erklärungen zur Änderung des Geschlechtseintrags und der Vornamen nach § 3 Absatz 3 des Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag;
 
 
 10. die Genehmigung für den Antrag auf Scheidung oder Aufhebung der Ehe oder auf Aufhebung der Lebenspartnerschaft durch den gesetzlichen Vertreter eines geschäftsunfähigen Ehegatten oder Lebenspartners nach § 125 Absatz 2 Satz 2, § 270 Absatz 1 Satz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.

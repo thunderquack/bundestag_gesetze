@@ -1080,7 +1080,7 @@ Abschnitt I
 
 *    *   f)
 
-    *   Geburtsort, -land und -bezirk
+    *   Geburtsort, -\*land und -\*bezirk
 
     *   (7)
 
@@ -1460,6 +1460,9 @@ Abschnitt I
     *
         I.
             –   Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen
+
+
+            –   Aufnahmeeinrichtungen
 
 
             –   mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A Buchstabe a, b, d, f und g
@@ -1906,7 +1909,7 @@ Abschnitt I
         (§ 3 des AZR-Gesetzes)
 
 
-*    *   § 3 Absatz 2 Nummer 1 und 2 in Verbindung mit § 2 Absatz 1a und 2 Nummer 1, § 3 Absatz 3a in Verbindung mit § 2 Absatz 2 Nummer 3 sowie § 3 Absatz 3b in Verbindung mit § 2 Absatz 2a und § 3 Absatz 3e in Verbindung mit § 2 Absatz 2 Nummer 2 und 3 zu Spalte A Buchstabe a
+*    *   § 3 Absatz 2 Nummer 1 und 2 in Verbindung mit § 2 Absatz 1a und 2 Nummer 1, § 3 Absatz 3a in Verbindung mit § 2 Absatz 2 Nummer 3 sowie § 3 Absatz 3b in Verbindung mit § 2 Absatz 2a und § 3 Absatz 3e und 3g in Verbindung mit § 2 Absatz 2 Nummer 2 und 3 zu Spalte A Buchstabe a
 
     *
     *
@@ -4057,7 +4060,8 @@ Abschnitt I
                 polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden
 
 
-            –   oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind
+            –   oberste Bundes- und
+                Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind
 
 
             –   Bundesagentur für
@@ -4356,7 +4360,7 @@ Abschnitt I
         gestellt am
 
     *
-    *[^F829919_01_BJNR069500995BJNE003659311]
+    *[^F829919_01_BJNR069500995BJNE003663311]
    (1)
 
     *
@@ -10231,7 +10235,7 @@ Abschnitt I
 
 
 
-        Wirkung befristet bis
+        Wirkung befristet bis (nach freiwilliger Ausreise)
         für die Dauer von … Jahren/… Monaten ab Ausreise/Abschiebung
         sofort vollziehbar seit
 
@@ -10302,7 +10306,7 @@ Abschnitt I
 
 
 
-        Wirkung befristet bis
+        Wirkung befristet bis (nach freiwilliger Ausreise)
         für die Dauer von … Jahren/… Monaten ab Ausreise/Abschiebung
         noch nicht vollziehbar
 
@@ -10374,7 +10378,7 @@ Abschnitt I
 
 
 
-        Wirkung befristet bis
+        Wirkung befristet bis (nach freiwilliger Ausreise)
         für die Dauer von … Jahren/… Monaten ab Ausreise/Abschiebung
         unanfechtbar seit
 
@@ -10681,8 +10685,8 @@ Abschnitt I
     *
     *   – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen
         – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe c und e
-        – mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A Buchstabe b
-        – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde zu Spalte A Buchstabe b
+        – mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A Buchstabe
+        – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde zu Spalte A Buchstabe b
 
     *   Die Daten zu Spalte A Buchstabe c bis f jeweils Doppelbuchstabe cc und dd werden nur an das Bundeskriminalamt in seiner Funktion als SIRENE-Büro übermittelt.
         – Ausländerbehörden
@@ -10891,6 +10895,8 @@ Abschnitt I
 
             vollzogen am
 
+            Wirkung befristet bis
+
 
 
 
@@ -10902,7 +10908,6 @@ Abschnitt I
     *   Abschiebung
         vollzogen am
         Wirkung befristet bis
-        für die Dauer von … Jahren/… Monaten ab Abschiebung
 
     *   (4)
 
@@ -10986,12 +10991,12 @@ Abschnitt I
 
     *
     *   – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen
-        – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe c bis e
+        – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe d bis f
         – mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A Buchstabe a
         – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde zu Spalte A Buchstabe a
 
     *
-    *   Die Daten zu Spalte A Buchstabe a bis d jeweils Doppelbuchstabe cc und dd werden nur an das Bundeskriminalamt in seiner Funktion als SIRENE-Büro übermittelt.
+    *   Die Daten zu Spalte A Buchstabe a bis e jeweils Doppelbuchstabe cc und dd werden nur an das Bundeskriminalamt in seiner Funktion als SIRENE-Büro übermittelt.
         – Ausländerbehörden
         – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes
         – Bundesamt für Migration und Flüchtlinge
@@ -11005,7 +11010,7 @@ Abschnitt I
 *    *   a)
 
     *   nach § 11 Absatz 1 und 2 AufenthG
-        wegen Ausweisung, Zurückschiebung oder Abschiebung
+        wegen Ausweisung, Zurückschiebung, Zurückweisung oder Abschiebung
         angeordnet am
 
         aa) zugestellt am
@@ -11045,6 +11050,50 @@ Abschnitt I
 
 *    *   b)
 
+    *
+        *   nach § 11 Absatz 1 und 2 in Verbindung mit Absatz 5b AufenthG wegen Ausweisung, Zurückschiebung oder Abschiebung
+
+            angeordnet am
+
+            aa) zugestellt am
+
+
+            bb) unanfechtbar seit
+
+
+            cc) Schengen-Identifikationsnummer für die Ausschreibung im Schengener Informationssystem (Schengen-ID-Nummer)
+
+
+            dd) Art der der Ausschreibung zugrundeliegenden Straftat
+
+                –   Strafvorschrift
+
+
+                –   rechtliche Bezeichnung der Tat
+
+
+                –   Art und Höhe der Strafe
+
+
+
+
+
+
+            Wirkung unbefristet
+
+
+
+
+    *   (2)
+        (5)
+        (6)
+        (7)
+        (7)
+
+    *
+
+*    *   c)
+
     *   nach § 11 Absatz 6 AufenthG wegen erheblicher und schuldhafter Überschreitung der Frist zur freiwilligen Ausreise
         angeordnet am
 
@@ -11083,7 +11132,7 @@ Abschnitt I
 
     *
 
-*    *   c)
+*    *   d)
 
     *   nach § 11 Absatz 7 Satz 1 Nummer 1
         AufenthG bei bestandskräftig als offensichtlich unbegründet abgelehntem Asylantrag nach § 29a Absatz 1 AsylG
@@ -11141,7 +11190,7 @@ Abschnitt I
         – Statistisches Bundesamt
 
 
-*    *   d)
+*    *   e)
 
     *   nach § 11 Absatz 7 Satz 1 Nummer 2
         AufenthG nach wiederholt abgelehntem Asylfolge- oder -zweitantrag
@@ -11183,7 +11232,7 @@ Abschnitt I
 
     *
 
-*    *   e)
+*    *   f)
 
     *   nach § 11 Absatz 9 AufenthG
         wegen Einreise- und Aufenthaltsverbot
@@ -11491,7 +11540,7 @@ Abschnitt I
     *
     *
     *
-    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 19, 21, 23, 23a des AZR-Gesetzes*
+    *   *§§ 15, 16, 17, 17a, 18, 18a, 18b, 18d, 18g, 19, 21, 23, 23a des AZR-Gesetzes*
 
 
 *    *   Duldung
@@ -11514,6 +11563,9 @@ Abschnitt I
     *
         –   Ausländerbehörden und
             mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe a bis p, r und s
+
+
+        –   Aufnahmeeinrichtungen zu Spalte A Buchstabe a bis p, r und s
 
 
         –   mit grenzpolizeilichen
@@ -12392,11 +12444,11 @@ Abschnitt I
 *    *   Zurückweisung, Zurückschiebung und Abschiebung im Sinne des § 71 Absatz 3 Nummer 1 bis 1b AufenthG
 
     *
-    *   – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe d bis g
+    *   – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen zu Spalte A Buchstabe e bis h
         – mit grenzpolizeilichen Aufgaben betraute Behörden
         – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde
 
-    *   Die Daten zu Spalte A Buchstabe b und c jeweils Doppelbuchstabe cc und dd werden nur an das Bundeskriminalamt in seiner Funktion als SIRENE-Büro übermittelt.
+    *   Die Daten zu Spalte A Buchstabe c und d jeweils Doppelbuchstabe cc und dd werden nur an das Bundeskriminalamt in seiner Funktion als SIRENE-Büro übermittelt.
         – Ausländerbehörden
         – Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes
         – Bundesamt für Migration und Flüchtlinge
@@ -12431,6 +12483,19 @@ Abschnitt I
 
 *    *   b)
 
+    *
+        *   zurückgewiesen am
+            mit EAV nach § 11 Absatz 1 Satz 2 AufenthG
+            befristet bis
+
+
+
+
+    *   (4)
+
+
+*    *   c)
+
     *   Ausreiseaufforderung vom
         Frist bis
 
@@ -12464,7 +12529,7 @@ Abschnitt I
         (7)
 
 
-*    *   c)
+*    *   d)
 
     *   Abschiebung angedroht am
 
@@ -12502,16 +12567,15 @@ Abschnitt I
         (7)
 
 
-*    *   d)
+*    *   e)
 
     *   zurückgeschoben am
         Wirkung befristet bis
-        für die Dauer von … Jahren/… Monaten ab Zurückschiebung
 
     *   (4)
 
 
-*    *   e)
+*    *   f)
 
     *   zurückgeschoben am
         Wirkung unbefristet
@@ -12519,16 +12583,15 @@ Abschnitt I
     *   (4)
 
 
-*    *   f)
+*    *   g)
 
     *   abgeschoben am
         Wirkung befristet bis
-        für die Dauer von … Jahren/… Monaten ab Abschiebung
 
     *   (4)
 
 
-*    *   g)
+*    *   h)
 
     *   abgeschoben am
         Wirkung unbefristet
@@ -14141,7 +14204,7 @@ Abschnitt II
 *    *   – Geschäftszeichen der Registerbehörde
         (Visadatei-Nummer)
 
-    *[^f756180_08_BJNR069500995BJNE003659311]
+    *[^f756180_08_BJNR069500995BJNE003663311]
    (7)
 
     *   – Zuspeicherung durch die
@@ -14358,7 +14421,7 @@ Abschnitt II
 
     *   Antrag abgelehnt
 
-    *[^f756180_09_BJNR069500995BJNE003659311]
+    *[^f756180_09_BJNR069500995BJNE003663311]
    (2)
 
     *
@@ -14802,16 +14865,14 @@ Abschnitt III
 
 
 *    *
-        a)  Entscheidungen des
-            Bundesamtes für Migration und Flüchtlinge über Anerkennung, Ablehnung oder Aufhebung des Schutzstatus zu den Tabellen 8 (Teil I), 14, 14a im Abschnitt I
+        a)  Tenor der Entscheidungen des Bundesamtes für Migration und Flüchtlinge sowie der gerichtlichen Entscheidungen in asylrechtlichen Verfahren, mit denen ein Schutzstatus nach dem Asylgesetz zuerkannt oder ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 AufenthG festgestellt oder jeder dieser Schutzstatus ohne eine Rückkehrentscheidung abgelehnt wird, zu Tabelle 8 (Teil I) im Abschnitt I
 
 
-        b)  aufenthaltsrechtliche
+        b)  Entscheidungen des Bundesamtes für Migration und Flüchtlinge, die mit einer Rückkehrentscheidung oder Entscheidung zu einem Einreise- und Aufenthaltsverbot einhergehen oder entsprechende gerichtliche Entscheidungen in einem asylrechtlichen Verfahren zu den Tabellen 14, 14a im Abschnitt I
+
+
+        c)  aufenthaltsrechtliche
             Entscheidungen, die eine vollziehbare Ausreisepflicht begründen zu den Tabellen 13, 14, 14a, 16, 20 im Abschnitt I
-
-
-        c)  Gerichtliche Entscheidungen
-            in asyl- oder aufenthaltsrechtlichen Verfahren zu den Tabellen 8 (Teil I), 13, 14 im Abschnitt I
 
 
         d)  Einschränkung oder
@@ -14825,6 +14886,9 @@ Abschnitt III
     *
         –   Ausländerbehörden und
             mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen
+
+
+        –   Aufnahmeeinrichtungen
 
 
         –   Bundesamt für Migration
@@ -14841,6 +14905,9 @@ Abschnitt III
 
 
     *
+        *   Dokumente zu Spalte A Buchstabe b werden nur an die Ausländerbehörden, die Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden sowie an sonstige Polizeivollzugsbehörden des Bundes und der Länder übermittelt.
+
+
         –   Ausländerbehörden
 
 
@@ -14988,7 +15055,7 @@ Abschnitt III
 
 
 
-[^f756180_08_BJNR069500995BJNE003659311]:     Bei Antrag auf Erteilung eines Visums.
-[^f756180_09_BJNR069500995BJNE003659311]:     Bei Visumentscheidung.
-[^F829919_01_BJNR069500995BJNE003659311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
+[^f756180_08_BJNR069500995BJNE003663311]:     Bei Antrag auf Erteilung eines Visums.
+[^f756180_09_BJNR069500995BJNE003663311]:     Bei Visumentscheidung.
+[^F829919_01_BJNR069500995BJNE003663311]:     In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
 
