@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.11.1975 I 2735;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 17.1.2024 I Nr. 12
-
-Änderung durch
-:   Art. 6 G v. 22.10.2024 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 7 G v. 22.10.2024 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 22.10.2024 I Nr. 320
 
 Änderung durch
 :   Art. 32 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

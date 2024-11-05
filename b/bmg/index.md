@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 6 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Stand: Bek. v. 15.10.2024 I Nr. 338 noch nicht berücksichtigt
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
 

@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 4 G v. 22.10.2024 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 27 G v. 23.10.2024 I textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 27 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Der Patentanwalt

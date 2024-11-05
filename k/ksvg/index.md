@@ -797,10 +797,6 @@ Die Künstlersozialkasse hat die Versicherten und die zur Künstlersozialabgabe 
 (2) Selbständige Künstler und Publizisten können durch schriftliche Erklärung gegenüber der Künstlersozialkasse auf die Versicherungsfreiheit verzichten; der Verzicht kann nur mit Wirkung für die Zukunft erklärt werden und ist für die Dauer der künstlerischen oder publizistischen Tätigkeit bindend.
 
 
-### § 54 (weggefallen)
-
-
-
 ### § 52a (weggefallen)
 
 
@@ -808,6 +804,10 @@ Die Künstlersozialkasse hat die Versicherten und die zur Künstlersozialabgabe 
 ### § 53
 
 Abweichend von § 5 Absatz 1 Nummer 5 und Absatz 2 Nummer 1 ist in der gesetzlichen Krankenversicherung und in der sozialen Pflegeversicherung nach diesem Gesetz im Zeitraum vom 23. Juli 2021 bis zum Ablauf des 31. Dezember 2022 erst dann versicherungsfrei, wer eine nicht unter § 2 fallende selbstständige Tätigkeit erwerbsmäßig ausübt und daraus ein Arbeitseinkommen erzielt, das voraussichtlich 1 300 Euro im Monat übersteigt, wenn eine Versicherungsfreiheit in der gesetzlichen Krankenversicherung und der sozialen Pflegeversicherung nach diesem Gesetz im Zeitraum ab dem 1. Januar 2020 eingetreten ist oder eintritt.
+
+
+### § 54 (weggefallen)
+
 
 
 ### § 55

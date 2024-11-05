@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1979, 1922
 
 Zuletzt geändert durch
-:   Art. 5 G v. 7.7.2021 I 2363
-
-Änderung durch
-:   Art. 8 G v. 22.10.2024 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 22.10.2024 I Nr. 320
 
 
 ## Eingangsformel
