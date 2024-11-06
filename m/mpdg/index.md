@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 3f G v. 28.6.2022 I 938
 
 Änderung durch
-:   Art. 3 G v. 23.10.2024 I Nr. 324 mWv 30.10.2024 bzw. 10.1.2025 bzw. 1.7.2025 noch nicht berücksichtigt
+:   Art. 3 G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Das Inkrafttreten dieses G wurde mit Ausnahme der §§ 7, 87, 88, 90 Abs. 3 u. § 97 Abs. 1 Satz 2 u. 3 gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben. §§ 7 u. 90 Abs. 3 treten gem. Art. 17 Abs. 4 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 2 G v. 19.5.2020 I 1018 mWv 24.4.2020 in Kraft. § 87 tritt gem. Art. 17 Abs. 3 Nr. 1 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 2 G v. 19.5.2020 I 1018 am 23.5.2020 in Kraft. Für die §§ 88 u. 97 Abs. 1 Satz 2 u. 3 verbleibt es bei der Inkraftsetzung gem. Art. 17 Abs. 1 Satz 1 G v. 28.4.2020 I 960 zum 23.5.2020.
 
@@ -134,6 +134,8 @@ Ergänzend zu den Begriffsbestimmungen des Artikels 2 der Verordnung (EU) 2017/7
 
 
 (2) Sponsoren und rechtliche Vertreter eines Sponsors nach Artikel 62 Absatz 2 der Verordnung (EU) 2017/745 oder Artikel 58 Absatz 4 der Verordnung (EU) 2017/746, die ihren Sitz im Geltungsbereich dieses Gesetzes haben, stellen sicher, dass die in Anhang XV Kapitel III Nummer 3 der Verordnung (EU) 2017/745 und Anhang XIV Kapitel II Nummer 3 der Verordnung (EU) 2017/746 genannten Unterlagen der zuständigen Behörde innerhalb der dort bestimmten Zeiträume zur Verfügung stehen, auch wenn sie ihre Geschäftstätigkeit eingestellt haben oder ihre Geschäftstätigkeit aus anderen Gründen beendet wird.
+
+(2a) Die im Geltungsbereich dieses Gesetzes ansässigen Hersteller und Bevollmächtigten, Sponsoren und rechtlichen Vertreter von Sponsoren teilen der zuständigen Behörde im Fall der Einstellung oder Beendigung ihrer Geschäftstätigkeit unverzüglich die Stelle mit, bei der die Unterlagen nach den Absätzen 1 und 2 aufbewahrt werden.
 
 (3) Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Nähere zur Aufbewahrung von Unterlagen nach den Absätzen 1 und 2 zu regeln, um sicherzustellen, dass den zuständigen Behörden diese Unterlagen auch nach Beendigung der Geschäftstätigkeit von Herstellern oder Bevollmächtigten, Sponsoren oder rechtlichen Vertretern von Sponsoren zur Einsicht zur Verfügung stehen, insbesondere
 
@@ -275,7 +277,7 @@ Die Dokumentation ist zehn Jahre aufzubewahren. Auf Verlangen ist die Dokumentat
 
 ### § 10 Freiverkaufszertifikate
 
-Auf Antrag des Herstellers, seines Bevollmächtigten, eines Produzenten von Systemen und Behandlungseinheiten nach Artikel 22 der Verordnung (EU) 2017/745 oder eines Händlers oder Importeurs nach Artikel 16 Absatz 1 der Verordnung (EU) 2017/745 oder Artikel 16 Absatz 1 der Verordnung (EU) 2017/746 stellt die zuständige Behörde ein Freiverkaufszertifikat nach Artikel 60 Absatz 1 der Verordnung (EU) 2017/745 oder Artikel 55 Absatz 1 der Verordnung (EU) 2017/746 aus. Ein Freiverkaufszertifikat kann auch für Produkte ausgestellt werden, die nach Artikel 120 Absatz 3 der Verordnung (EU) 2017/745 oder Artikel 110 Absatz 3 der Verordnung (EU) 2017/746 in Verkehr gebracht werden. Satz 2 gilt entsprechend für Produkte, die vor dem 26. Mai 2021 nach den die Richtlinie 90/385/EWG des Rates vom 20. Juni 1990 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über aktive implantierbare medizinische Geräte (ABl. L 189 vom 20.7.1990, S. 17) und die Richtlinie 93/42/EWG umsetzenden nationalen Vorschriften oder die vor dem 26. Mai 2022 nach den die Richtlinie 98/79/EG des Europäischen Parlaments und des Rates vom 27. Oktober 1998 über In-vitro-Diagnostika (ABl. L 331 vom 7.12.1998, S. 1; L 74 vom 19.3.1999, S. 32; L 124 vom 25.5.2000, S. 66) umsetzenden nationalen Vorschriften rechtmäßig in Verkehr gebracht wurden und bis zum 26. Mai 2025 weiter auf dem Markt bereitgestellt oder in Betrieb genommen werden dürfen.
+Auf Antrag des Herstellers, seines Bevollmächtigten, eines Produzenten von Systemen und Behandlungseinheiten nach Artikel 22 der Verordnung (EU) 2017/745 oder eines Händlers oder Importeurs nach Artikel 16 Absatz 1 der Verordnung (EU) 2017/745 oder Artikel 16 Absatz 1 der Verordnung (EU) 2017/746 stellt die zuständige Behörde ein Freiverkaufszertifikat nach Artikel 60 Absatz 1 der Verordnung (EU) 2017/745 oder Artikel 55 Absatz 1 der Verordnung (EU) 2017/746 aus. Ein Freiverkaufszertifikat kann auch für Produkte ausgestellt werden, die nach Artikel 120 Absatz 3a, 3b und 3f der Verordnung (EU) 2017/745 oder Artikel 110 Absatz 3a und 3b der Verordnung (EU) 2017/746 in Verkehr gebracht werden. Satz 2 gilt entsprechend für Produkte, die vor dem 26. Mai 2021 nach den die Richtlinie 90/385/EWG des Rates vom 20. Juni 1990 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über aktive implantierbare medizinische Geräte (ABl. L 189 vom 20.7.1990, S. 17) und die Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte (ABl. L 169 vom 12.7.1993, S. 1; L 125 vom 19.5.1999, S. 42; L 72 vom 14.3.2001, S. 8) umsetzenden nationalen Vorschriften oder die vor dem 26. Mai 2022 nach den die Richtlinie 98/79/EG des Europäischen Parlaments und des Rates vom 27. Oktober 1998 über In-vitro-Diagnostika (ABl. L 331 vom 7.12.1998, S. 1; L 74 vom 19.3.1999, S. 32; L 124 vom 25.5.2000, S. 66) umsetzenden nationalen Vorschriften rechtmäßig in Verkehr gebracht wurden, und für Produkte, die ab dem 26. Mai 2021 gemäß Artikel 120 Absatz 3, 3a, 3b und 3f der Verordnung (EU) 2017/745 und ab dem 26. Mai 2022 gemäß Artikel 110 Absatz 3, 3a und 3b der Verordnung (EU) 2017/746 rechtmäßig in Verkehr gebracht wurden und weiter auf dem Markt bereitgestellt oder in Betrieb genommen werden dürfen.
 
 
 ### § 11 Betreiben und Anwenden von Produkten
@@ -678,9 +680,9 @@ Der Prüfungsteilnehmer oder, falls dieser nicht in der Lage ist, eine Einwillig
 (3) Die Absätze 1 und 2 sind auch auf Leistungsstudien anzuwenden, die therapiebegleitende Diagnostika einbeziehen.
 
 
-###### § 31b Anzeige von Leistungsstudien mit therapiebegleitenden Diagnostika
+###### § 31b Beginn von Leistungsstudien mit therapiebegleitenden Diagnostika unter Verwendung von Restproben
 
-(1) Leistungsstudien, die therapiebegleitende Diagnostika einbeziehen, bei denen nur Restproben verwendet werden, muss der Sponsor dem Bundesinstitut für Arzneimittel und Medizinprodukte und dem Paul-Ehrlich-Institut vor Beginn über das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 anzeigen. Das Bundesinstitut für Arzneimittel und Medizinprodukte benachrichtigt das Paul-Ehrlich-Institut mittels eines automatisierten Verfahrens über den Eingang der Anzeige.
+(1) Leistungsstudien, die therapiebegleitende Diagnostika einbeziehen, bei denen nur Restproben verwendet werden, muss der Sponsor dem Bundesinstitut für Arzneimittel und Medizinprodukte vor Beginn über das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 anzeigen. Das Bundesinstitut für Arzneimittel und Medizinprodukte benachrichtigt das Paul-Ehrlich-Institut mittels eines automatisierten Verfahrens über den Eingang der Anzeige.
 
 (2) Die Anzeige nach Absatz 1 enthält folgende Angaben und Unterlagen:
 
@@ -699,13 +701,58 @@ Der Prüfungsteilnehmer oder, falls dieser nicht in der Lage ist, eine Einwillig
 5.  den Internationalen Freinamen (INN) des dazugehörigen Arzneimittels,
 
 
-6.  den Leistungsstudienplan nach Anhang XIII Teil A Abschnitt 2.3.2. der Verordnung (EU) 2017/746 und
+6.  den Leistungsstudienplan nach Anhang XIII Teil A Abschnitt 2.3.2. der Verordnung (EU) 2017/746,
 
 
-7.  die Herkunft der zu untersuchenden Proben.
+7.  die Herkunft der zu untersuchenden Proben und
+
+
+8.  die zustimmende Stellungnahme der nach § 33 Absatz 1 zuständigen Ethik-Kommission.
 
 
 
+
+
+###### § 31c Standardvertragsklauseln für die Durchführung von klinischen Prüfungen und Leistungsstudien
+
+(1) Die Bundesregierung wird ermächtigt, nach Anhörung der betroffenen Verbände und Organisationen durch Rechtsverordnung mit Zustimmung des Bundesrates Standardvertragsklauseln über die Rechte und Pflichten des Sponsors und des Prüfzentrums bei der Durchführung von klinischen Prüfungen und Leistungsstudien festzulegen. Die Rechtsverordnung nach Satz 1 kann Abweichungsmöglichkeiten vorsehen. In den Standardvertragsklauseln kann das Nähere bestimmt werden
+
+1.  zum Entstehen des Rechts des Auftraggebers an Ergebnissen, die lediglich im Zusammenhang mit der klinischen Prüfung oder Leistungsstudie gewonnen werden, seiner Einräumung oder Übertragung,
+
+
+2.  zum Recht des Auftraggebers zur Erstveröffentlichung sowie zu den Anforderungen an Veröffentlichungen durch das Prüfzentrum,
+
+
+3.  zu Rechten an Ergebnissen und Erfindungen,
+
+
+4.  zu vertraulichen Informationen,
+
+
+5.  zu Namens- und Markenrechten,
+
+
+6.  zu überlassenen Geräten und Materialien,
+
+
+7.  zu Inspektionen und Audits,
+
+
+8.  zur Haftung,
+
+
+9.  zur Dokumentation und Archivierung,
+
+
+10. zum Datenschutz,
+
+
+11. zur Beendigung und Kündigung des Vertrages.
+
+
+
+
+(2) Bei dem Abschluss von Verträgen über die Durchführung von klinischen Prüfungen und Leistungsstudien haben der Sponsor und das Prüfzentrum die Standardvertragsklauseln für die Durchführung klinischer Prüfungen nach Absatz 1 Satz 1 zu verwenden, es sei denn, der Sponsor und das Prüfzentrum haben vereinbart, von den Standardvertragsklauseln abzuweichen.
 
 
 ##### Titel 2 - Verfahren bei der Ethik-Kommission
@@ -760,6 +807,15 @@ Der Prüfungsteilnehmer oder, falls dieser nicht in der Lage ist, eine Einwillig
 
 
 
+
+
+###### § 32a Richtlinien zur Bewertung von klinischen Prüfungen und Leistungsstudien durch Ethik-Kommissionen
+
+(1) Der Arbeitskreis Medizinischer Ethik-Kommissionen in der Bundesrepublik Deutschland e. V. erlässt nach Anhörung des Bundesinstituts für Arzneimittel und Medizinprodukte und des Paul-Ehrlich-Instituts Richtlinien zur Anwendung der Vorgaben der Verordnung (EU) 2017/745 und der Verordnung (EU) 2017/746 und dieses Titels durch Ethik-Kommissionen (Richtlinien zur Bewertung von klinischen Prüfungen und Leistungsstudien durch Ethik-Kommissionen). Diese können auch Richtlinien zur Anwendung der Vorgaben für die Einwilligung nach Aufklärung nach § 28 umfassen.
+
+(2) Der Arbeitskreis Medizinischer Ethik-Kommissionen in der Bundesrepublik Deutschland e. V. legt das Verfahren für die Erarbeitung der Richtlinien zur Bewertung von klinischen Prüfungen und Leistungsstudien durch Ethik-Kommissionen und für die Beschlussfassung über diese Richtlinien fest und veröffentlicht dieses auf seiner Internetseite.
+
+(3) Der Arbeitskreis Medizinischer Ethik-Kommissionen in der Bundesrepublik Deutschland e. V. veröffentlicht die Richtlinien zur Bewertung von klinischen Prüfungen und Leistungsstudien durch Ethik-Kommissionen auf seiner Internetseite und übermittelt sie an die Ethik-Kommissionen. Die Ethik-Kommissionen beachten die Richtlinien bei der Erstellung ihrer Stellungnahmen und Bewertungsberichte.
 
 
 ###### § 33 Antrag bei der Ethik-Kommission
@@ -1019,7 +1075,7 @@ Die klinische Prüfung oder die Leistungsstudie darf nicht fortgesetzt werden, w
 
 
 
-(3) Die Absätze 1 und 2 sind nicht anzuwenden auf eine sonstige klinische Prüfung eines Produktes, das bereits die CE-Kennzeichnung nach Artikel 20 Absatz 1 der Verordnung (EU) 2017/745 trägt, wenn
+(3) Die Absätze 1 und 2 sowie die §§ 25 und 30 sind nicht anzuwenden auf eine sonstige klinische Prüfung eines Produktes, das bereits die CE-Kennzeichnung nach Artikel 20 Absatz 1 der Verordnung (EU) 2017/745 trägt, wenn
 
 1.  die prüfungsbezogene Verwendung des Produktes im Rahmen seiner von der CE-Kennzeichnung umfassten Zweckbestimmung erfolgt und
 
@@ -1419,7 +1475,7 @@ Die zuständige Bundesoberbehörde hat wissenschaftliche Untersuchungen durchzuf
 
 ### § 74 Verfahren zum Schutz vor Risiken
 
-(1) Kommt die zuständige Bundesoberbehörde nach Durchführung der Risikobewertung zu dem Schluss, dass von dem Produkt ein unvertretbares Risiko ausgeht, fordert sie die betroffenen Wirtschaftsakteure auf, alle Korrekturmaßnahmen zu ergreifen, die zum Schutz der Gesundheit oder Sicherheit von Patienten, Anwendern oder anderen Personen oder zum Schutz der öffentlichen Gesundheit vor Gefahren durch Produkte erforderlich sind und teilt das Ergebnis der Risikobewertung der zuständigen Behörde mit. Ergreift der betroffene Wirtschaftsakteur keine angemessenen Korrekturmaßnahmen, führt die zuständige Behörde eine Bewertung nach Artikel 94 der Verordnung (EU) 2017/745 oder Artikel 89 der Verordnung (EU) 2017/746 durch und trifft nach Maßgabe von Artikel 95 der Verordnung (EU) 2017/745 oder Artikel 90 der Verordnung (EU) 2017/746 alle Maßnahmen, die zum Schutz der Gesundheit oder Sicherheit von Patienten, Anwendern oder anderen Personen oder zum Schutz der öffentlichen Gesundheit vor Gefahren durch Produkte erforderlich sind. Die zuständige Behörde sorgt für die Mitteilung nach Artikel 95 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2017/745 oder Artikel 90 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2017/746.
+(1) Kommt die zuständige Bundesoberbehörde nach Durchführung der Risikobewertung zu dem Schluss, dass von dem Produkt ein unvertretbares Risiko ausgeht, fordert sie die betroffenen Wirtschaftsakteure auf, alle Korrekturmaßnahmen zu ergreifen, die zum Schutz der Gesundheit oder Sicherheit von Patienten, Anwendern oder anderen Personen oder zum Schutz der öffentlichen Gesundheit vor Gefahren durch Produkte erforderlich sind und teilt die wesentlichen Inhalte und das Ergebnis der Risikobewertung der zuständigen Behörde mit. Die zuständige Bundesoberbehörde sorgt für die Mitteilung nach Artikel 95 Absatz 2 der Verordnung (EU) 2017/745 oder Artikel 90 Absatz 2 der Verordnung (EU) 2017/746. Ergreift der betroffene Wirtschaftsakteur keine angemessenen Korrekturmaßnahmen, führt die zuständige Behörde eine Bewertung nach Artikel 94 der Verordnung (EU) 2017/745 oder Artikel 89 der Verordnung (EU) 2017/746 durch und trifft nach Maßgabe von Artikel 95 der Verordnung (EU) 2017/745 oder Artikel 90 der Verordnung (EU) 2017/746 alle Maßnahmen, die zum Schutz der Gesundheit oder Sicherheit von Patienten, Anwendern oder anderen Personen oder zum Schutz der öffentlichen Gesundheit vor Gefahren durch Produkte erforderlich sind. Die zuständige Behörde informiert die zuständige Bundesoberbehörde über die nach Satz 3 getroffenen Maßnahmen; die zuständige Bundesoberbehörde sorgt für die Mitteilung nach Artikel 95 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2017/745 oder Artikel 90 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2017/746.
 
 (2) Die zuständige Behörde ist insbesondere befugt, im Geltungsbereich dieses Gesetzes
 
@@ -1502,7 +1558,7 @@ Trifft ein anderer Mitgliedstaat der Europäischen Union Maßnahmen gegen einen 
 
 
 
-(4) Hat die zuständige Behörde im Rahmen von Überwachungstätigkeiten Grund zu der Annahme, dass ein Produkt ein unvertretbares Risiko für die Gesundheit oder Sicherheit von Patienten, Anwendern oder anderen Personen oder für andere Aspekte des Schutzes der öffentlichen Gesundheit darstellt, teilt sie dies der zuständigen Bundesoberbehörde unter Angabe der Gründe mit.
+(4) Hat die zuständige Behörde im Rahmen von Überwachungstätigkeiten Grund zu der Annahme, dass ein Produkt ein unvertretbares Risiko für die Gesundheit oder Sicherheit von Patienten, Anwendern oder anderen Personen oder für andere Aspekte des Schutzes der öffentlichen Gesundheit darstellt, teilt sie dies der zuständigen Bundesoberbehörde unter Angabe der Gründe mit, die daraufhin eine Risikobewertung nach § 71 Absatz 2 vornimmt.
 
 
 ### § 78 Anordnungsbefugnisse der zuständigen Behörden im Rahmen der Überwachung; Informationspflichten
@@ -1529,7 +1585,7 @@ Trifft ein anderer Mitgliedstaat der Europäischen Union Maßnahmen gegen einen 
 
 
 
-(2) Die zuständige Behörde unterrichtet die zuständige Bundesoberbehörde und soweit erforderlich die übrigen zuständigen Behörden über die nach Absatz 1 getroffenen Maßnahmen.
+(2) Die zuständige Behörde unterrichtet soweit erforderlich die zuständige Bundesoberbehörde und die übrigen zuständigen Behörden über die nach Absatz 1 getroffenen Maßnahmen.
 
 (3) Maßnahmen bei festgestellter sonstiger Nichtkonformität im Sinne des Artikels 97 Absatz 1 der Verordnung (EU) 2017/745 oder des Artikels 92 Absatz 1 der Verordnung (EU) 2017/746 treffen die zuständigen Behörden. Absatz 1 ist anzuwenden.
 
@@ -1583,7 +1639,9 @@ In Erfüllung der Informationspflichten nach Artikel 13 Absatz 2 Unterabsatz 2 o
 
 ### § 82 Präventive Gesundheitsschutzmaßnahmen
 
-(1) Präventive Gesundheitsschutzmaßnahmen nach Artikel 98 der Verordnung (EU) 2017/745 oder Artikel 93 der Verordnung (EU) 2017/746 trifft das Bundesministerium für Gesundheit durch Rechtsverordnung nach § 88 Absatz 2, soweit die Gesundheitsschutzmaßnahme die Untersagung, Beschränkung oder die sonstige Beauflagung der Bereitstellung auf dem Markt oder die Inbetriebnahme von betroffenen Produkten oder Produktkategorien betrifft.
+(1) Präventive Gesundheitsschutzmaßnahmen nach Artikel 98 der Verordnung (EU) 2017/745 oder Artikel 93 der Verordnung (EU) 2017/746 trifft die zuständige Bundesoberbehörde, soweit die Gesundheitsschutzmaßnahme die Untersagung, Beschränkung oder die sonstige Beauflagung der Bereitstellung auf dem Markt oder die Inbetriebnahme eines betroffenen Produktes betrifft. Die zuständige Bundesoberbehörde sorgt für die Mitteilung nach Artikel 98 Absatz 2 der Verordnung (EU) 2017/745 oder Artikel 93 Absatz 2 der Verordnung (EU) 2017/746.
+
+(1a) Präventive Gesundheitsschutzmaßnahmen nach Artikel 98 der Verordnung (EU) 2017/745 oder Artikel 93 der Verordnung (EU) 2017/746 trifft das Bundesministerium für Gesundheit durch Rechtsverordnung nach § 88 Absatz 2, soweit die Gesundheitsschutzmaßnahme die Untersagung, Beschränkung oder die sonstige Beauflagung der Bereitstellung auf dem Markt oder die Inbetriebnahme von betroffenen Produktgruppen oder Produktkategorien betrifft. Das Bundesministerium für Gesundheit informiert die zuständige Bundesoberbehörde über die nach Satz  1 getroffenen Maßnahmen; die zuständige Bundesoberbehörde sorgt für die Mitteilung nach Artikel 98 Absatz 2 der Verordnung (EU) 2017/745 oder Artikel 93 Absatz 2 der Verordnung (EU) 2017/746.
 
 (2) Die zuständige Behörde trifft alle erforderlichen Maßnahmen, um betroffene Produkte oder Produktkategorien zurückzurufen oder deren Rückruf zu veranlassen, soweit diese in Umsetzung der präventiven Gesundheitsschutzmaßnahmen nach Artikel 98 der Verordnung (EU) 2017/745 oder Artikel 93 der Verordnung (EU) 2017/746 erforderlich sind.
 
@@ -1633,7 +1691,7 @@ Die zuständige Bundesoberbehörde hat die Aufgabe, die zuständigen Behörden, 
 1.  Entscheidungen nach § 6 Absatz 1 bis 4,
 
 
-2.  die Bewertung von Meldungen von Importeuren und Händlern nach § 81,
+2.  die Bewertung von Meldungen nach § 77 Absatz 4 und § 81 Nummer 1,
 
 
 3.  die Beratung nach § 84,
@@ -1660,16 +1718,19 @@ Die zuständige Bundesoberbehörde hat die Aufgabe, die zuständigen Behörden, 
 10. die Bewertung von Meldungen über sicherheitsrelevante Präventiv- und Korrekturmaßnahmen nach Artikel 83 Absatz 4 der Verordnung (EU) 2017/745 und Artikel 78 Absatz 4 der Verordnung (EU) 2017/746,
 
 
-11. die Risikobewertung nach § 71 und die zentrale Bewertung von Meldungen schwerwiegender Vorkommnisse und Sicherheitskorrekturmaßnahmen im Feld nach Artikel 89 der Verordnung (EU) 2017/745 und Artikel 84 der Verordnung (EU) 2017/746 sowie die Bewertung von Produkten nach Artikel 94 Buchstabe a der Verordnung (EU) 2017/745 und Artikel 89 Buchstabe a der Verordnung (EU) 2017/746 in den Fällen des § 74 Absatz 3 und 4,
+11. die Risikobewertung nach § 71 und die zentrale Bewertung von Meldungen schwerwiegender Vorkommnisse und Sicherheitskorrekturmaßnahmen im Feld nach Artikel 89 der Verordnung (EU) 2017/745 und Artikel 84 der Verordnung (EU) 2017/746,
 
 
-12. die Wahrnehmung aller sonstigen behördlichen Aufgaben nach den Artikeln 87 bis 90 der Verordnung (EU) 2017/745 und den Artikeln 82 bis 85 der Verordnung (EU) 2017/746 sowie die Durchführung des Verfahrens nach Artikel 95 Absatz 1 und 2 der Verordnung (EU) 2017/745 und Artikel 90 Absatz 1 und 2 der Verordnung (EU) 2017/746 und nach Artikel 95 Absatz 4 der Verordnung (EU) 2017/745 und Artikel 90 Absatz 4 der Verordnung (EU) 2017/746 in den Fällen des § 74 Absatz 3 und 4,
+11a. die Bewertung von Produkten nach Artikel 94 Buchstabe a der Verordnung (EU) 2017/745 und Artikel 89 Buchstabe a der Verordnung (EU) 2017/746 in den Fällen des § 74 Absatz 3 und 4,
+
+
+12. die Wahrnehmung aller sonstigen behördlichen Aufgaben nach den Artikeln 87 bis 90 der Verordnung (EU) 2017/745 und den Artikeln 82 bis 85 der Verordnung (EU) 2017/746 sowie die Durchführung des Verfahrens nach Artikel 95 Absatz 1 und 2 der Verordnung (EU) 2017/745 und Artikel 90 Absatz 1 und 2 der Verordnung (EU) 2017/746 und nach Artikel 95 Absatz 4 Unterabsatz 1 der Verordnung (EU) 2017/745 und Artikel 90 Absatz 4 Unterabsatz 1 der Verordnung (EU) 2017/746 in den Fällen des § 74 Absatz 3 und 4 sowie die Mitteilung nach Artikel 95 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2017/745 oder Artikel 90 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2017/746,
 
 
 13. die Bewertung von Maßnahmen, die andere Mitgliedstaaten der Europäischen Union nach Artikel 95 Absatz 4 der Verordnung (EU) 2017/745 und Artikel 90 Absatz 4 der Verordnung (EU) 2017/746 ergriffen haben, einschließlich der Informationsübermittlung nach Artikel 95 Absatz 6 der Verordnung (EU) 2017/745 und Artikel 90 Absatz 6 der Verordnung (EU) 2017/746 und der Erhebung von Einwänden nach Artikel 95 Absatz 7 der Verordnung (EU) 2017/745 und Artikel 90 Absatz 7 der Verordnung (EU) 2017/746,
 
 
-13a. die Anordnung von Maßnahmen nach § 82 Absatz 3,
+13a. das Verfahren nach Artikel 98 Absatz 1 der Verordnung (EU) 2017/745 oder Artikel 93 Absatz 1 der Verordnung (EU) 2017/746, außer in den Fällen des § 82 Absatz 1a, die Meldungen nach Artikel 98 Absatz 2 der Verordnung (EU) 2017/745 oder Artikel 93 Absatz 2 der Verordnung (EU) 2017/746 sowie die Anordnung von Maßnahmen nach § 82 Absatz 3,
 
 
 14. die zentrale Erfassung von Meldungen der Angehörigen der Gesundheitsberufe, der Anwender und Patienten nach Artikel 87 Absatz 10 Unterabsatz 2 der Verordnung (EU) 2017/745 und Artikel 82 Absatz 10 Unterabsatz 2 der Verordnung (EU) 2017/746 sowie die Durchführung der Verfahren nach Artikel 87 Absatz 11 der Verordnung (EU) 2017/745 und Artikel 82 Absatz 11 der Verordnung (EU) 2017/746 in Verbindung mit der Rechtsverordnung nach § 88 Absatz 1 Satz 1 Nummer 7,
@@ -1683,10 +1744,10 @@ Bei der Bewertung eines therapiebegleitenden Diagnostikums nach Satz 1 Nummer 11
 
 (3) Das Paul-Ehrlich-Institut ist zuständig für
 
-1.  die Aufgaben nach Absatz 2 Satz 1 Nummer 2 bis 14, soweit es sich um In-vitro-Diagnostika handelt, die unter die Regel 1, 2 und 3 Buchstabe a bis e und g des Anhangs VIII der Verordnung (EU) 2017/746 fallen,
+1.  die Aufgaben nach Absatz 2 Satz 1 Nummer 2 bis 4 und 5 bis 14, soweit es sich um In-vitro-Diagnostika handelt, die unter die Regeln 1, 2 und 3 Buchstabe a bis e und g des Anhangs VIII der Verordnung (EU) 2017/746 fallen,
 
 
-2.  die Genehmigung einer Leistungsstudie mit einem therapiebegleitenden Diagnostikum, das für die sichere und wirksame Verwendung eines dazugehörigen Arzneimittels bestimmt ist und für das das Paul-Ehrlich-Institut nach § 77 Absatz 2 des Arzneimittelgesetzes zuständig ist.
+2.  die Aufgaben nach Absatz 2 Satz 1 Nummer 5 bis 9, soweit es sich um ein therapiebegleitendes Diagnostikum handelt, das für die sichere und wirksame Verwendung eines dazugehörigen Arzneimittels bestimmt ist, und wenn für dieses zugehörige Arzneimittel das Paul-Ehrlich-Institut nach § 77 Absatz 2 des Arzneimittelgesetzes zuständig ist.
 
 
 
@@ -2218,7 +2279,7 @@ Die Bundesregierung erlässt mit Zustimmung des Bundesrates die zur Durchführun
 2.  entgegen § 8 Absatz 2 Satz 1 ein Produkt abgibt,
 
 
-3.  entgegen § 12 Nummer 2 ein Produkt in den Verkehr bringt, in Betrieb nimmt, betreibt oder anwendet,
+3.  entgegen § 12 Nummer 2 ein Produkt in den Verkehr bringt, in Betrieb nimmt, auf dem Markt bereitstellt, betreibt oder anwendet,
 
 
 4.  entgegen § 16 Absatz 1 ein Produkt ausstellt,
@@ -2409,7 +2470,7 @@ Soweit das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 
 
 (1) Für Medizinprodukte und deren Zubehör im Sinne von § 3 Nummer 1, 2, 3 und 9 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung, die vor dem 26. Mai 2021 nach den die Richtlinien 90/385/EWG und 93/42/EWG umsetzenden nationalen Vorschriften rechtmäßig in den Verkehr gebracht oder in Betrieb genommen wurden, sind folgende Vorschriften anzuwenden:
 
-1.  bis zum 26. Mai 2025 die §§ 4 und 6 Absatz 1 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung,
+1.  die §§ 4 und 6 Absatz 1 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung,
 
 
 2.  die Vorschriften zur Verpflichtung der Hersteller zum Bereithalten von Unterlagen nach den Richtlinien
@@ -2430,16 +2491,16 @@ Soweit das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 
 
 
 
-(2) Die für Benannte Stellen zuständige Behörde nach Artikel 35 der Verordnung (EU) 2017/745 überwacht bis zum 27. Mai 2024 in angemessener Weise
+(2) Die für Benannte Stellen zuständige Behörde nach Artikel 35 der Verordnung (EU) 2017/745 überwacht bis zum Ablauf der in Artikel 120 Absatz 3a und 3b der Verordnung (EU) 2017/745 festgelegten Fristen in angemessener Weise
 
-1.  die Einhaltung der Verpflichtungen einer Benannten Stelle nach Artikel 120 Absatz 3 Unterabsatz 2 der Verordnung (EU) 2017/745 und
-
-
-2.  die Einhaltung der Kriterien des Anhangs 8 der Richtlinie 90/385/EWG und des Anhangs XI der Richtlinie 93/42/EWG durch die Benannte Stelle, die die Verpflichtungen nach Artikel 120 Absatz 3 Unterabsatz 2 der Verordnung (EU) 2017/745 zu erfüllen hat.
+1.  die Einhaltung der Verpflichtungen einer Benannten Stelle nach Artikel 120 Absatz 3e der Verordnung (EU) 2017/745 und
 
 
+2.  die Einhaltung der Kriterien des Anhangs 8 der Richtlinie 90/385/EWG und des Anhangs XI der Richtlinie 93/42/EWG durch die Benannte Stelle, die die Verpflichtungen nach Artikel 120 Absatz 3e der Verordnung (EU) 2017/745 zu erfüllen hat.
 
-§ 15 Absatz 2 Satz 2 bis 6 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung ist bis zum 27. Mai 2024 entsprechend anzuwenden.
+
+
+§ 15 Absatz 2 Satz 2 bis 6 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung ist bis zum Ablauf der in Artikel 120 Absatz 3a und 3b der Verordnung (EU) 2017/745 festgelegten Fristen entsprechend anzuwenden.
 
 (3) Klinische Prüfungen von Medizinprodukten, für die jeweils in der Zeit vom 20. März 2010 bis einschließlich 25. Mai 2021 die zuständige Ethik-Kommission nach § 22 des Medizinproduktegesetzes eine zustimmende Bewertung und die zuständige Bundesoberbehörde eine Genehmigung nach § 22a oder eine Befreiung von der Genehmigungspflicht nach § 20 Absatz 1 Satz 2 des Medizinproduktegesetzes in Verbindung mit § 7 Absatz 3 der Verordnung über klinische Prüfungen von Medizinprodukten vom 10. Mai 2010 (BGBl. I S. 555) in der jeweils geltenden Fassung erteilt haben, gelten als eingeleitet im Sinne von Artikel 120 Absatz 11 der Verordnung (EU) 2017/745. Unbeschadet des Artikels 120 Absatz 11 Satz 2 der Verordnung (EU) 2017/745 sind für klinische Prüfungen nach Satz 1 die Vorschriften des Medizinproduktegesetzes in der jeweils am 25. Mai 2021 geltenden Fassung weiter anzuwenden. Dies gilt auch für die Medizinprodukte-Gebührenverordnung vom 27. März 2002 (BGBl. I S. 1228), sofern nicht durch Rechtsverordnung nach § 87 Absatz 2 etwas anderes bestimmt wird.
 
@@ -2458,7 +2519,7 @@ Soweit das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 
 
 (1) Für In-vitro-Diagnostika und deren Zubehör im Sinne von § 3 Nummer 4 und 9 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung, die vor dem 26. Mai 2022 nach den die Richtlinie 98/79/EG umsetzenden nationalen Vorschriften rechtmäßig in den Verkehr gebracht oder in Betrieb genommen wurden, sind folgende Vorschriften anzuwenden:
 
-1.  bis zum 27. Mai 2025 die §§ 4 und 6 Absatz 1 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung,
+1.  die §§ 4 und 6 Absatz 1 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung,
 
 
 2.  die Vorschriften zur Verpflichtung der Hersteller zum Bereithalten von Unterlagen nach der Richtlinie 98/79/EG,
@@ -2480,19 +2541,19 @@ Soweit das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 
 
 
 
-(2) Die für Benannte Stellen zuständige Behörde nach Artikel 31 der Verordnung (EU) 2017/746 überwacht bis zum 26. Mai 2025 in angemessener Weise
+(2) Die für Benannte Stellen zuständige Behörde nach Artikel 31 der Verordnung (EU) 2017/746 überwacht bis zum Ablauf der in Artikel 110 Absatz 3a und 3b der Verordnung (EU) 2017/746 festgelegten Fristen in angemessener Weise
 
-1.  die Einhaltung der Verpflichtungen einer Benannten Stelle nach Artikel 110 Absatz 3 Unterabsatz 5 der Verordnung (EU) 2017/746 sowie
+1.  die Einhaltung der Verpflichtungen einer Benannten Stelle nach Artikel 110 Absatz 3e der Verordnung (EU) 2017/746 sowie
 
 
-2.  die Einhaltung der Kriterien des Anhangs IX der Richtlinie 98/79/EG durch die Benannte Stelle, die die Verpflichtungen nach Artikel 110 Absatz 3 Unterabsatz 5 der Verordnung (EU) 2017/746 zu erfüllen hat, und
+2.  die Einhaltung der Kriterien des Anhangs IX der Richtlinie 98/79/EG durch die Benannte Stelle, die die Verpflichtungen nach Artikel 110 Absatz 3e der Verordnung (EU) 2017/746 zu erfüllen hat, und
 
 
 3.  die Einhaltung der Verpflichtungen eines nach § 15 Absatz 5 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung anerkannten Prüflaboratoriums für In-vitro-Diagnostika.
 
 
 
-§ 15 Absatz 2 Satz 2 bis 5 und Absatz 5 Satz 4 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung ist bis zum 26. Mai 2025 entsprechend anzuwenden.
+§ 15 Absatz 2 Satz 2 bis 5 und Absatz 5 Satz 4 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung ist bis zum Ablauf der in Artikel 110 Absatz 3a und 3b der Verordnung (EU) 2017/746 festgelegten Fristen entsprechend anzuwenden.
 
 (3) Vor dem 26. Mai 2022 begonnene Leistungsbewertungsprüfungen nach § 24 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021 geltenden Fassung dürfen auf der Grundlage der bis einschließlich 25. Mai 2022 für sie geltenden Vorschriften als Leistungsstudien gemäß Artikel 2 Nummer 42 der Verordnung (EU) 2017/746 weiter durchgeführt werden. Begonnen im Sinne von Satz 1 ist eine Leistungsbewertungsprüfung, wenn nach Vorliegen aller Voraussetzungen für den Beginn der Leistungsbewertungsprüfung der erste Prüfungsteilnehmer in die Teilnahme an der Leistungsbewertungsprüfung eingewilligt hat.
 

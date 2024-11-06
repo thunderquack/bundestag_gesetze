@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2000, 182 (1349)
 
 Zuletzt geändert durch
-:   Art. 24 G v. 5.10.2021 I 4607
-
-Änderung durch
-:   Art. 3 G v. 22.10.2024 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 22.10.2024 I Nr. 320
 
 
 ## Teil 1 - Allgemeine Vorschriften

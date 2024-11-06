@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 2 V v. 14.12.2023 I Nr. 370
 
 Änderung durch
-:   Art. 11b G v. 23.10.2024 I Nr. 324 mWv 1.7.2024 noch nicht berücksichtigt
+:   Art. 11b G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -515,6 +515,16 @@ Die Registerstelle stellt den alphanumerischen Code der Meldebestätigung und de
 ### § 23 Verfahren zur unverzüglichen Information der Patientinnen und Patienten, die von einer Sicherheitskorrekturmaßnahme im Feld betroffen sind
 
 In den Fällen des § 4 Absatz 4 des Implantateregistergesetzes übermittelt die Registerstelle jeder verantwortlichen Gesundheitseinrichtung entsprechend dem in § 17 Absatz 3 geregelten Verfahren jeweils eine Übersicht über die betreffenden von ihr gemeldeten Datensätze und informiert sie über die Sicherheitsanweisung.
+
+
+## Abschnitt 7a - Vergütungsminderung
+
+
+### § 23a Vergütungsminderung
+
+(1) In den Fällen des § 35 Absatz 1 des Implantateregistergesetzes vermindert sich der Anspruch einer verantwortlichen Gesundheitseinrichtung auf Vergütung der meldepflichtigen implantatbezogenen Maßnahme um 100 Euro.
+
+(2) Die Vergütungsminderung nach Absatz 1 unterbleibt bei implantatbezogenen Maßnahmen, die innerhalb der ersten sechs Monate ab dem nach § 37 Nummer 1 des Implantateregistergesetzes für den jeweiligen Implantattyp festgelegten Zeitpunkt durchgeführt werden.
 
 
 ## Abschnitt 8 - Inkrafttreten

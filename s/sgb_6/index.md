@@ -26,7 +26,7 @@ Zuletzt geändert durch
 :   Art. 63 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 3 G v. 24.10.2024 I Nr. 329 mWv 31.10.2024 noch nicht berücksichtigt
+:   Art. 3 G v. 24.10.2024 I Nr. 329 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 5 G v. 30.5.2024 I Nr. 173 ist berücksichtigt
@@ -1995,16 +1995,16 @@ alpha beträgt 0,25.
 
 (1) Die Bundesregierung hat durch Rechtsverordnung mit Zustimmung des Bundesrates den zum 1. Juli eines Jahres maßgebenden aktuellen Rentenwert und den Ausgleichsbedarf bis zum 30. Juni des jeweiligen Jahres zu bestimmen.
 
-(2) Die Bundesregierung hat durch Rechtsverordnung mit Zustimmung des Bundesrates zum Ende eines jeden Jahres
+(2) Die Bundesregierung hat durch Rechtsverordnung mit Zustimmung des Bundesrates bis zum Ablauf des 31. Dezembers des jeweiligen Jahres folgende Durchschnittsentgelte zu bestimmen:
 
-1.  für das vergangene Kalenderjahr das auf volle Euro gerundete Durchschnittsentgelt in Anlage 1 entsprechend der Entwicklung der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Abs. 2 Satz 1),
-
-
-2.  für das folgende Kalenderjahr das auf volle Euro gerundete vorläufige Durchschnittsentgelt, das sich ergibt, wenn das Durchschnittsentgelt für das vergangene Kalenderjahr um das Doppelte des Vomhundertsatzes verändert wird, um den sich das Durchschnittsentgelt des vergangenen Kalenderjahres gegenüber dem Durchschnittsentgelt des vorvergangenen Kalenderjahres verändert hat,
+1.  für das vergangene Kalenderjahr das auf volle Euro gerundete Durchschnittsentgelt (Anlage 1), das sich ergibt, indem das Durchschnittsentgelt des vorvergangenen Kalenderjahres mit der prozentualen Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer nach § 68 Absatz 2 Satz 1 des vergangenen Kalenderjahres gegenüber dem vorvergangenen Kalenderjahr fortgeschrieben wird, und
 
 
+2.  für das folgende Kalenderjahr das auf volle Euro gerundete vorläufige Durchschnittsentgelt, das sich ergibt, indem das Durchschnittsentgelt für das vergangene Kalenderjahr mit dem Doppelten der prozentualen Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer nach § 68 Absatz 2 Satz 1 des vergangenen Kalenderjahres gegenüber dem vorvergangenen Kalenderjahr fortgeschrieben wird.
 
-zu bestimmen. Die Bestimmung soll bis zum 31. Dezember des jeweiligen Jahres erfolgen.
+
+
+Die Anlage 1 ist entsprechend der Bestimmung der Entgelte gemäß Satz 1 zu ändern. Dabei ersetzt das Durchschnittsentgelt nach Satz 1 Nummer 1 das vorläufige Durchschnittsentgelt für das jeweilige Kalenderjahr in Anlage 1.
 
 
 ##### Dritter Titel - Ermittlung der persönlichen Entgeltpunkte
@@ -9721,15 +9721,16 @@ Zum 1. Juli 2024 tritt der aktuelle Rentenwert an die Stelle des aktuellen Rente
 
 (3) Für die Bestimmung des aktuellen Rentenwerts für die Zeit vom 1. Juli 2018 bis zum 1. Juli 2025 wird abweichend von § 68 Absatz 4 die Anzahl der Äquivalenzrentner für das Bundesgebiet ohne das Beitrittsgebiet und das Beitrittsgebiet für die Jahre 2016 bis 2024 getrennt berechnet. Für die weitere Berechnung nach § 68 Absatz 4 werden die jeweiligen Ergebnisse anschließend addiert. Für die Berechnung sind die Werte für das Gesamtvolumen der Renten abzüglich erstatteter Aufwendungen für Renten und Rententeile eines Kalenderjahres und eine Regelaltersrente mit 45 Entgeltpunkten für das Bundesgebiet ohne das Beitrittsgebiet und für das Beitrittsgebiet getrennt zu ermitteln und der Berechnung zugrunde zu legen. Für das Beitrittsgebiet ist dabei bei der Berechnung der Regelaltersrente mit 45 Entgeltpunkten der aktuelle Rentenwert (Ost) zugrunde zu legen.
 
-(4) Für die Bestimmung des aktuellen Rentenwerts zum 1. Juli 2025 sind abweichend von § 68 Absatz 7 die folgenden Daten zugrunde zu legen:
+(4) Für die Bestimmung des aktuellen Rentenwerts zum 1. Juli 2025 sind
 
-1.  die dem Statistischen Bundesamt zu Beginn des Jahres 2025 für die Jahre 2022 und 2023 vorliegenden Daten zu den gesamtdeutschen Bruttolöhnen und -gehältern je Arbeitnehmer (§ 68 Absatz 2 Satz 1) und
-
-
-2.  die der Deutschen Rentenversicherung Bund zu Beginn des Jahres 2025 für das Jahr 2022 vorliegenden Daten zu den gesamtdeutschen beitragspflichtigen Bruttolöhnen und -gehältern je Arbeitnehmer ohne Beamte einschließlich der Bezieher von Arbeitslosengeld.
+1.  abweichend von § 68 Absatz 7 Satz 2 bei der Ermittlung des Faktors nach § 68 Absatz 2 Satz 3 die dem Statistischen Bundesamt zu Beginn des Jahres 2024 für die Jahre 2022 und 2023 vorliegenden Daten zu den gesamtdeutschen Bruttolöhnen und -gehältern je Arbeitnehmer (§ 68 Absatz 2 Satz 1) und
 
 
+2.  abweichend von § 68 Absatz 7 Satz 4 bei der Ermittlung des Faktors nach § 68 Absatz 2 Satz 3 die der Deutschen Rentenversicherung Bund zu Beginn des Jahres 2024 für das Jahr 2022 vorliegenden Daten aus der Versichertenstatistik zu den gesamtdeutschen beitragspflichtigen Bruttolöhnen und -gehältern je Arbeitnehmer ohne Beamte einschließlich der Bezieher von Arbeitslosengeld
 
+
+
+zugrunde zu legen.
 
 (5) Für die Bestimmung des aktuellen Rentenwerts zum 1. Juli 2026 wird abweichend von § 68 Absatz 4 als Anzahl an Äquivalenzrentnern für das Jahr 2024 der errechnete Wert aus der Rentenwertbestimmungsverordnung 2025 zugrunde gelegt, der sich aus der Summe der Anzahl der Äquivalenzrentner für das Jahr 2024 für das Bundesgebiet ohne das Beitrittsgebiet und der Anzahl der Äquivalenzrentner für das Jahr 2024 für das Beitrittsgebiet ergibt.
 
@@ -11593,8 +11594,9 @@ Pflichtbeiträge, die auf Grund einer Befreiung nach § 231 Absatz 10 zu Unrecht
 (3) (weggefallen)
 
 
-###### § 287a (weggefallen)
+###### § 287a Veränderung des allgemeinen Bundeszuschusses für das Jahr 2025
 
+Für die Bestimmung des allgemeinen Bundeszuschusses nach § 213 Absatz 2 für das Jahr 2025 sind abweichend von § 228b die für das Bundesgebiet ohne das Beitrittsgebiet ermittelten Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Absatz 2 Satz 1) maßgebend.
 
 
 ###### § 287b Ausgaben für Leistungen zur Teilhabe

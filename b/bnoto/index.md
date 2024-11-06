@@ -16,10 +16,7 @@ Fundstelle
 :   RGBl I: 1937, 191
 
 Zuletzt geändert durch
-:   Art. 3 G v. 20.12.2023 I Nr. 389
-
-Änderung durch
-:   Art. 1 G v. 22.10.2024 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 22.10.2024 I Nr. 320
 
 Änderung durch
 :   Art. 12 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
