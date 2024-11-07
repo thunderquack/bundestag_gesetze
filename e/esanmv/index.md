@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 19.12.2022 I 2414
 
+Änderung durch
+:   Art. 1 V v. 4.11.2024 I Nr. 341 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Die V tritt gem. § 4 idF d. Art. 1 Nr. 4 V v 14.6.2021 I 1780 mWv 1.1.2030 außer Kraft
 
 ## Eingangsformel

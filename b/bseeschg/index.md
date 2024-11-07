@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 2 V v. 9.4.2024 I Nr. 126
 
 Änderung durch
-:   Art. 72 Abs. 1 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 72 Abs. 1 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1

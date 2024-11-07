@@ -22,10 +22,10 @@ Zuletzt geändert durch
 :   Art. 6 G v. 22.12.2023 I Nr. 409
 
 Änderung durch
-:   Art. 9 G v. 23.10.2024 I Nr. 323 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 9 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 3 G v. 23.10.2024 I Nr. 327 mWv 31.10.2024 noch nicht berücksichtigt
+:   Art. 3 G v. 23.10.2024 I Nr. 327 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Luftverkehr
@@ -2751,11 +2751,11 @@ Das Register nach Satz 1 dient dazu, die Erfüllung von Aufgaben des Luftfahrt-B
 
 
 
-(3) Betreiber von unbemannten Fluggeräten nach Absatz 1 Satz 1 haben dem Luftfahrt-Bundesamt vor der erstmaligen Aufnahme des Betriebs die für die Registrierung zu speichernden Daten nach Absatz 2 zu übermitteln und deren Richtigkeit auf Verlangen zu belegen, soweit dies für die Registrierung durch das Luftfahrt-Bundesamt erforderlich ist. Registrierte Betreiber haben dem Luftfahrt-Bundesamt unverzüglich jede Änderung der Voraussetzungen für eine Registrierung nach Absatz 1 und jede Änderung der Daten nach Absatz 2 zu übermitteln.
+(3) Betreiber von unbemannten Fluggeräten nach Absatz 1 Satz 1 haben dem Luftfahrt-Bundesamt vor der erstmaligen Aufnahme des Betriebs die für die Registrierung zu speichernden Daten nach Absatz 2 zu übermitteln und deren Richtigkeit auf Verlangen zu belegen, soweit dies für die Registrierung durch das Luftfahrt-Bundesamt erforderlich ist. Registrierte Betreiber haben dem Luftfahrt-Bundesamt unverzüglich jede Änderung der Voraussetzungen für eine Registrierung nach Absatz 1 und jede Änderung der Daten nach Absatz 2 zu übermitteln. Das Luftfahrt-Bundesamt kann Verwaltungsakte hinsichtlich der Registrierung eines Betreibers sowie Gebührenbescheide für die Registrierung durch automatische Einrichtungen erlassen. Betreiber haben das Recht auf Darlegung des eigenen Standpunktes und das Recht auf Entscheidung durch einen Amtsträger. Satz 3 gilt nicht, wenn ein Betreiber Rechte nach Satz 4 geltend macht oder wenn aus anderen Gründen Anlass besteht, den Einzelfall durch Amtsträger zu bearbeiten. Setzt das Luftfahrt-Bundesamt automatische Einrichtungen zum Erlass von Verwaltungsakten ein, muss es Angaben des Betreibers berücksichtigen, die für den Einzelfall bedeutsam sind und im automatischen Verfahren nicht ermittelt würden.
 
 (4) Abweichend von Absatz 3 Satz 1 können Luftsportverbände die für die Registrierung zu speichernden Daten ihrer Mitglieder, die unbemannte Fluggeräte nach Absatz 1 Satz 1 betreiben, dem Luftfahrt-Bundesamt unter Beachtung der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) übermitteln. Absatz 3 Satz 2 gilt entsprechend.
 
-(5) Das Luftfahrt-Bundesamt übermittelt jedem Betreiber nach Absatz 1 Satz 1 elektronisch eine Registrierungsnummer, die für alle von ihm nach Absatz 1 Satz 1 betriebenen unbemannten Fluggeräte gilt, und die dem Luftfahrt-Bundesamt eine individuelle Identifizierung des Betreibers nach Artikel 14 der Durchführungsverordnung (EU) 2019/947 ermöglicht. Das Luftfahrt-Bundesamt stellt sicher, dass das Register insbesondere den Vorgaben der Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 entspricht.
+(5) Das Luftfahrt-Bundesamt übermittelt jedem Betreiber nach Absatz 1 Satz 1 elektronisch eine Registrierungsnummer, die für alle von ihm nach Absatz 1 Satz 1 betriebenen unbemannten Fluggeräte gilt und dem Luftfahrt-Bundesamt eine individuelle Identifizierung des Betreibers nach Artikel 14 der Durchführungsverordnung (EU) 2019/947 ermöglicht. Das Luftfahrt-Bundesamt kann die Registrierung eines Betreibers eines unbemannten Fluggerätes für den Betrieb in den Betriebskategorien „offen“ und „speziell“ durch automatische Einrichtungen bestätigen, sofern kein Anlass besteht, den Einzelfall durch Amtsträger zu bearbeiten; Absatz 3 Satz 4 bis 6 gilt entsprechend. Das Luftfahrt-Bundesamt stellt sicher, dass das Register insbesondere den Vorgaben der Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 entspricht.
 
 (6) Die nach Absatz 2 gespeicherten Daten dürfen vom Luftfahrt-Bundesamt an die für die in den Nummern 1 bis 4 genannten Aufgaben zuständigen Stellen des Bundes und der Länder sowie anderer Mitgliedstaaten der Europäischen Union übermittelt werden, soweit dies im Einzelfall erforderlich ist
 

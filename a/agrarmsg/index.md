@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 30 G v. 15.7.2024 I Nr. 236
 
 Änderung durch
-:   Art. 1 G v. 23.10.2024 I Nr. 327 mWv 31.10.2024 noch nicht berücksichtigt
+:   Art. 1 G v. 23.10.2024 I Nr. 327 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Teil 1 - Anwendungsbereich und Begriffsbestimmungen
@@ -47,7 +47,7 @@ Zuletzt geändert durch
 2.  die Freistellung vom Kartellverbot von Agrarorganisationen einschließlich im Unionsrecht geregelter Organisationen und Verbände, die mit Agrarorganisationen vergleichbar sind,
 
 
-3.  das Verbot bestimmter unlauterer Handelspraktiken in Geschäftsbeziehungen zwischen Käufern und Lieferanten in der Lebensmittellieferkette sowie
+3.  das Verbot bestimmter unlauterer Handelspraktiken in Geschäftsbeziehungen zwischen Käufern und Lieferanten in der Agrar-, Fischerei- und Lebensmittellieferkette sowie
 
 
 4.  die Gestaltung von Vertragsbeziehungen zwischen Erzeugern und Verarbeitern von Agrarerzeugnissen.
@@ -415,10 +415,10 @@ enthält.
 (2) Ist die zuständige Stelle eine Stelle des Bundes, so kann diese Stelle nichtpersonenbezogene Daten zu statistischen oder wissenschaftlichen Zwecken unter Einhaltung der Anforderungen des Schutzes von Betriebs- und Geschäftsgeheimnissen und eines funktionierenden Wettbewerbs veröffentlichen.
 
 
-## Teil 3 - Geschäftsbeziehungen in der Lebensmittellieferkette
+## Teil 3 - Geschäftsbeziehungen in der Agrar-, Fischerei- und Lebensmittellieferkette
 
 
-### Kapitel 1 - Unlautere Handelspraktiken in der Lebensmittellieferkette
+### Kapitel 1 - Unlautere Handelspraktiken in der Agrar-, Fischerei- und Lebensmittellieferkette
 
 
 #### Abschnitt 1 - Unlautere Handelspraktiken
@@ -426,16 +426,16 @@ enthält.
 
 ##### § 10 Anwendungsbereich
 
-(1) Dieser Abschnitt gilt für den Verkauf von Agrar-, Fischerei- und Lebensmittelerzeugnissen durch Lieferanten, die einen Jahresumsatz von höchstens 350 000 000 Euro haben, an
+(1) Dieser Abschnitt gilt für den Verkauf von Agrar-, Fischerei- und Lebensmittelerzeugnissen durch Lieferanten, die einen globalen Jahresumsatz von höchstens 350 000 000 Euro haben, an
 
-1.  Käufer, die einen Jahresumsatz von mehr als 2 000 000 Euro haben, sofern ihr Jahresumsatz höher ist als der des Lieferanten, wobei folgende Pauschalierungen gelten:
+1.  Käufer, die einen globalen Jahresumsatz von mehr als 2 000 000 Euro haben, sofern ihr globaler Jahresumsatz höher ist als der des Lieferanten, wobei folgende Pauschalierungen gelten:
 
     *        *   Stufe
 
-        *   Jahresumsatz
+        *   globaler Jahresumsatz
             des Lieferanten
 
-        *   Jahresumsatz
+        *   globaler Jahresumsatz
             des Käufers
 
 
@@ -493,11 +493,11 @@ enthält.
 
 
 
-sofern mindestens eine der beiden Vertragsparteien ihren Sitz in der Europäischen Union hat. Dieser Abschnitt gilt darüber hinaus bis zum 1. Mai 2025 auch für den Verkauf von Milch- und Fleischprodukten sowie von Obst-, Gemüse- und Gartenbauprodukten einschließlich Kartoffeln durch Lieferanten, die einen Jahresumsatz im jeweiligen Verkaufssegment in Deutschland von höchstens 4 000 000 000 Euro haben, an Käufer, wenn der gesamte Jahresumsatz des Lieferanten nicht mehr als 20 Prozent des gesamten Jahresumsatzes des Käufers beträgt. Eine Verlängerung dieser Frist durch den Deutschen Bundestag bleibt dem Ergebnis der Evaluierung nach § 59 vorbehalten.
+sofern mindestens eine der beiden Vertragsparteien ihren Sitz in Deutschland hat. Dieser Abschnitt gilt darüber hinaus auch für den Verkauf von Milch- und Fleischprodukten sowie von Obst-, Gemüse- und Gartenbauprodukten einschließlich Kartoffeln durch Lieferanten, die einen Jahresumsatz im jeweiligen Verkaufssegment in Deutschland von höchstens 4 000 000 000 Euro haben, an Käufer, wenn der globale Jahresumsatz des Lieferanten höchstens 15 000 000 000 Euro und nicht mehr als 20 Prozent des globalen Jahresumsatzes des Käufers beträgt.
 
-(2) Der Jahresumsatz und die Stufe gemäß der Tabelle in Absatz 1 Nummer 1 sind zum Zeitpunkt des Vertragsschlusses zwischen Lieferant und Käufer nach den Artikeln 3, 4 und 6 des Anhangs zu der Empfehlung der Kommission vom 6. Mai 2003 betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen (2003/361/EG) (ABl. L 124 vom 20.5.2003, S. 36) in der jeweils geltenden Fassung zu bestimmen. Der Jahresumsatz ist im Einklang mit Artikel 4 Absatz 1 Satz 1 des Anhangs zu der Empfehlung 2003/361/EG auf Jahresbasis zu berechnen; hierzu ist der letzte Rechnungsabschluss heranzuziehen.
+(2) Der Jahresumsatz und die Stufe gemäß der Tabelle in Absatz 1 Satz 1 Nummer 1 sind zum Zeitpunkt des Vertragsschlusses zwischen Lieferant und Käufer nach den Artikeln 3, 4 und 6 des Anhangs zu der Empfehlung der Kommission vom 6. Mai 2003 betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen (2003/361/EG) (ABl. L 124 vom 20.5.2003, S. 36) in der jeweils geltenden Fassung zu bestimmen. Der Jahresumsatz ist im Einklang mit Artikel 4 Absatz 1 Satz 1 des Anhangs zu der Empfehlung 2003/361/EG auf Jahresbasis zu berechnen; hierzu ist der letzte Rechnungsabschluss heranzuziehen.
 
-(3) Lieferant und Käufer sind in den Vertragsverhandlungen einander zur Auskunft darüber verpflichtet, welcher Stufe gemäß der Tabelle in Absatz 1 Nummer 1 ihr jeweiliger Jahresumsatz zuzuordnen ist, oder, wenn die Voraussetzungen nach Absatz 1 Satz 2 erster Halbsatz erfüllt sind, wie hoch ihr jeweiliger Jahresumsatz ist.
+(3) Lieferant und Käufer sind in den Vertragsverhandlungen einander zur Auskunft darüber verpflichtet, welcher Stufe gemäß der Tabelle in Absatz 1 Satz 1 Nummer 1 ihr jeweiliger Jahresumsatz zuzuordnen ist, oder, wenn die Voraussetzungen nach Absatz 1 Satz 2 erster Halbsatz erfüllt sind, wie hoch ihr jeweiliger Jahresumsatz ist.
 
 
 ##### § 11 Zahlungsfristen
@@ -543,6 +543,7 @@ Der Käufer kann mit dem Lieferanten nicht wirksam vereinbaren, dass er nicht ve
 
 
 
+Satz 1 gilt nicht, wenn die nicht verkauften Erzeugnisse mindestens zwölf Monate weiter zum Verkauf geeignet sind.
 
 
 ##### § 13 Vereinbarung einer kurzfristigen Beendigung des Vertrages über den Kauf von verderblichen Erzeugnissen
@@ -552,7 +553,7 @@ Der Käufer kann mit dem Lieferanten nicht wirksam vereinbaren, dass er den Vert
 
 ##### § 14 Vereinbarung von Zahlungen oder Preisnachlässen für die Lagerung von Erzeugnissen
 
-Der Käufer kann mit dem Lieferanten nicht wirksam vereinbaren, dass sich der Lieferant an den Kosten der Lagerung der gelieferten Agrar-, Fischerei- oder Lebensmittelerzeugnisse beim Käufer durch Zahlungen oder Preisnachlässe beteiligt.
+Der Käufer kann mit dem Lieferanten nicht wirksam vereinbaren, dass sich der Lieferant an den Kosten der Lagerung der gelieferten Agrar-, Fischerei- oder Lebensmittelerzeugnisse durch Zahlungen oder Preisnachlässe beteiligt. Satz 1 gilt nicht, wenn der Käufer ein Zusammenschluss der Lieferanten ist, um Lagereinrichtungen für ihre Erzeugnisse gemeinsam zu nutzen.
 
 
 ##### § 15 Vereinbarung über einseitige Vertragsänderung
@@ -634,26 +635,37 @@ Der Käufer hat dem Lieferanten auf Verlangen den Inhalt eines mündlich geschlo
 
 ##### § 20 Mangels Vereinbarung unlautere Handelspraktiken
 
-(1) Das Verlangen des Käufers nach Zahlungen oder Preisnachlässen vom Lieferanten für
+(1) Das Verlangen des Käufers vom Lieferanten nach
 
-1.  die Listung der gelieferten Agrar-, Fischerei- oder Lebensmittelerzeugnisse bei deren Markteinführung,
-
-
-2.  die Vermarktung der gelieferten Agrar-, Fischerei- oder Lebensmittelerzeugnisse, einschließlich Verkaufsangeboten, der Werbung, Preisnachlässen im Rahmen von Verkaufsaktionen sowie der Bereitstellung auf dem Markt, oder
+1.  Rücknahme nicht verkaufter, an den Lieferanten zurückgeschickter Agrar-, Fischerei- oder Lebensmittelerzeugnisse im Sinne des § 12 Satz 2 ohne Zahlung des geschuldeten Kaufpreises oder
 
 
-3.  das Einrichten der Räumlichkeiten, in denen die Erzeugnisse des Lieferanten verkauft werden,
+2.  Zahlungen oder Preisnachlässen für
+
+    a)  die Lagerung der gelieferten Agrar-, Fischerei- oder Lebensmittelerzeugnisse, wenn der Käufer ein Zusammenschluss der Lieferanten im Sinne des § 14 Satz 2 ist,
+
+
+    b)  die Listung der gelieferten Agrar-, Fischerei- oder Lebensmittelerzeugnisse bei deren Markteinführung,
+
+
+    c)  die Vermarktung der gelieferten Agrar-, Fischerei- oder Lebensmittelerzeugnisse, einschließlich Verkaufsangeboten, der Werbung, Preisnachlässen im Rahmen von Verkaufsaktionen sowie der Bereitstellung auf dem Markt, oder
+
+
+    d)  das Einrichten der Räumlichkeiten, in denen die Erzeugnisse des Lieferanten verkauft werden,
 
 
 
-ist unlauter, es sei denn, diese Handelspraktik wurde zuvor klar und eindeutig, insbesondere auch unter Beachtung des § 16, zwischen Käufer und Lieferant vereinbart.
+    ist unlauter, es sei denn, diese Handelspraktik wurde zuvor klar und eindeutig, insbesondere auch unter Beachtung des § 16, zwischen Käufer und Lieferant vereinbart.
 
-(2) Eine Vereinbarung zu Preisnachlässen im Rahmen von Verkaufsaktionen im Sinne des Absatzes 1 Nummer 2 ist nur wirksam, wenn sich der Käufer auch verpflichtet, dem Lieferanten rechtzeitig vor Beginn der Verkaufsaktion in Textform den Aktionszeitraum und eine Schätzung der Menge der Erzeugnisse mitzuteilen, die zu dem niedrigeren Preis bestellt werden soll. Erfüllt der Käufer seine vertragliche Pflicht zur Unterrichtung des Lieferanten nicht, kann er den vereinbarten Preisnachlass nicht verlangen.
+
+
+
+(2) Eine Vereinbarung zu Preisnachlässen im Rahmen von Verkaufsaktionen im Sinne des Absatzes 1 Nummer 2 Buchstabe c ist nur wirksam, wenn sich der Käufer auch verpflichtet, dem Lieferanten rechtzeitig vor Beginn der Verkaufsaktion in Textform den Aktionszeitraum und eine Schätzung der Menge der Erzeugnisse mitzuteilen, die zu dem niedrigeren Preis bestellt werden soll. Erfüllt der Käufer seine vertragliche Pflicht zur Unterrichtung des Lieferanten nicht, kann er den vereinbarten Preisnachlass nicht verlangen.
 
 
 ##### § 21 Vorlage einer Zahlungen- und Kostenschätzung
 
-Wurden Zahlungen oder Preisnachlässe nach § 20 Absatz 1 zwischen Käufer und Lieferant vereinbart, kann der Lieferant verlangen, dass ihm der Käufer folgende Informationen in Textform übermittelt:
+Wurden Zahlungen oder Preisnachlässe nach § 20 Absatz 1 Nummer 2 zwischen Käufer und Lieferant vereinbart, kann der Lieferant verlangen, dass ihm der Käufer folgende Informationen in Textform übermittelt:
 
 1.  eine Schätzung
 
@@ -689,22 +701,25 @@ Die Ausnutzung des wirtschaftlichen Ungleichgewichts zwischen dem Käufer und de
     a)  längere als die in § 11 Absatz 2 Satz 1 Nummer 1 oder 2 genannten Zahlungsfristen vorsehen,
 
 
-    b)  das Zurückschicken nicht verkaufter Agrar-, Fischerei- oder Lebensmittelerzeugnisse ohne Zahlung des geschuldeten Kaufpreises oder, soweit die Agrar-, Fischerei- oder Lebensmittelerzeugnisse nicht mehr verwendbar sind, ohne die Zahlung der Kosten der Beseitigung vorsehen, das nach § 12 nicht wirksam vereinbart werden kann,
+    b)  das Zurückschicken nicht verkaufter Agrar-, Fischerei- oder Lebensmittelerzeugnisse ohne Zahlung des geschuldeten Kaufpreises oder, soweit die Agrar-, Fischerei- oder Lebensmittelerzeugnisse nicht mehr verwendbar sind, ohne die Zahlung der Kosten der Beseitigung vorsehen, das nach § 12 Satz 1 nicht wirksam vereinbart werden kann,
 
 
     c)  Fristen für die Beendigung des Vertrages oder die Abbestellung von Lieferungen vorsehen, die nach § 13 nicht wirksam vereinbart werden können,
 
 
-    d)  eine Beteiligung an den Lagerkosten vorsehen, die nach § 14 nicht wirksam vereinbart werden kann,
+    d)  eine Beteiligung an den Lagerkosten vorsehen, die nach § 14 Satz 1 nicht wirksam vereinbart werden kann,
 
 
     e)  Rechte zur Änderung des Vertrages durch den Käufer vorsehen, die nach § 15 nicht wirksam vereinbart werden können,
 
 
-    f)  eine Pflicht zur Kostenübernahme durch den Lieferanten vorsehen, die nach § 16 nicht wirksam vereinbart werden kann oder
+    f)  eine Pflicht zur Kostenübernahme durch den Lieferanten vorsehen, die nach § 16 nicht wirksam vereinbart werden kann,
 
 
-    g)  eine Beteiligung an den Listungskosten vorsehen, die nach § 17 Satz 1 nicht wirksam vereinbart werden kann,
+    g)  eine Beteiligung an den Listungskosten vorsehen, die nach § 17 Satz 1 nicht wirksam vereinbart werden kann, oder
+
+
+    h)  eine Umgehung der Verbote nach den Buchstaben a bis e und g bewirken,
 
 
 
@@ -713,13 +728,13 @@ Die Ausnutzung des wirtschaftlichen Ungleichgewichts zwischen dem Käufer und de
 2.  seine vertraglichen Zahlungspflichten nicht oder nicht innerhalb der in § 11 Absatz 2 Satz 1 Nummer 1 oder 2 vorgesehenen Frist erfüllt, es sei denn, der Käufer hat ein Recht, die Leistung zu verweigern,
 
 
-3.  bei Zurückschicken der nicht verkauften Agrar-, Fischerei- oder Lebensmittelerzeugnisse den geschuldeten Kaufpreis oder die Beseitigungskosten entgegen § 12 nicht bezahlt,
+3.  bei Zurückschicken der nicht verkauften Agrar-, Fischerei- oder Lebensmittelerzeugnisse den geschuldeten Kaufpreis oder die Beseitigungskosten entgegen § 12 Satz 1 nicht bezahlt,
 
 
 4.  einzelne Leistungen aus einem Vertrag über den Kauf von verderblichen Agrar-, Fischerei- oder Lebensmittelerzeugnissen entgegen § 13 kurzfristig abbestellt,
 
 
-5.  von dem Lieferanten Leistungen verlangt, auf die er keinen Anspruch hat, weil sie nach § 14, § 15, § 16 oder § 17 Satz 1 nicht wirksam vereinbart werden können oder weil es an einer klaren, eindeutigen und wirksamen Vereinbarung nach § 20 fehlt,
+5.  von dem Lieferanten Leistungen verlangt, auf die er keinen Anspruch hat, weil sie auf einer nach Satz 2 Nummer 1 Buchstabe h verbotenen Verwendung von Vertragsbedingungen beruhen oder nach § 14, § 15, § 16 oder § 17 Satz 1 nicht wirksam vereinbart werden können oder weil es an einer klaren, eindeutigen und wirksamen Vereinbarung nach § 20 fehlt,
 
 
 6.  entgegen § 18 dem Lieferanten Vergeltungsmaßnahmen geschäftlicher Art androht oder derartige Maßnahmen gegen den Lieferanten ergreift,
@@ -805,7 +820,7 @@ Unbeschadet des Rechts des Lieferanten, nach § 25 eine Beschwerde einzulegen, u
 #### Abschnitt 3 - Befugnisse und Aufgaben der Durchsetzungsbehörde
 
 
-##### § 28 Befugnisse der Durchsetzungsbehörde; Verordnungsermächtigung
+##### § 28 Befugnisse der Durchsetzungsbehörde
 
 (1) Die Durchsetzungsbehörde hat die Befugnis,
 
@@ -822,18 +837,20 @@ Unbeschadet des Rechts des Lieferanten, nach § 25 eine Beschwerde einzulegen, u
 
 
 
+In Verfügungen nach Satz 1 Nummer 2 kann die Durchsetzungsbehörde eine Rückerstattung der aus dem rechtswidrigen Verhalten erwirtschafteten Vorteile anordnen. Die erwirtschafteten Vorteile einschließlich der Zinsvorteile können geschätzt werden. Nach Ablauf der in der Anordnung bestimmten Frist für die Rückerstattung sind die bis zu diesem Zeitpunkt erwirtschafteten Vorteile entsprechend § 288 Absatz 2 und § 289 Satz 1 des Bürgerlichen Gesetzbuchs zu verzinsen.
 
-(2) Entscheidungen nach Absatz 1 Nummer 2 trifft die Durchsetzungsbehörde im Einvernehmen mit dem Bundeskartellamt. Entscheidungen im Verfahren nach § 55 Absatz 1 Nummer 1b hinsichtlich des Vorliegens eines Verstoßes gegen eines der in den § 23 Satz 2 in Verbindung mit den §§ 11 bis 21 und in Verbindung mit § 4 des Gesetzes zum Schutz von Geschäftsgeheimnissen normierten Verbote trifft die Durchsetzungsbehörde im Einvernehmen mit dem Bundeskartellamt. Vor Entscheidungen hinsichtlich der Höhe des festzusetzenden Bußgelds nach § 55 Absatz 1 Nummer 1b und vor Veröffentlichung von Leitlinien nach Absatz 1 Nummer 4 gibt die Durchsetzungsbehörde dem Bundeskartellamt Gelegenheit zur Stellungnahme. Die Durchsetzungsbehörde kann dem Bundeskartellamt für die Zwecke der Sätze 1 bis 3 die entscheidungserheblichen Informationen einschließlich personenbezogener Daten und Betriebs- und Geschäftsgeheimnisse übermitteln. Liegen dem Bundeskartellamt Informationen einschließlich personenbezogener Daten und Betriebs- und Geschäftsgeheimnissen vor, die von den nach Satz 4 übermittelten Informationen abweichen, kann das Bundeskartellamt diese Informationen der Durchsetzungsbehörde übermitteln.
+(2) Die Durchsetzungsbehörde kann Anordnungen nach Absatz 1 Nummer 2 mit Zwangsmitteln nach den Bestimmungen des Verwaltungs-Vollstreckungsgesetzes durchsetzen. Dabei kann sie die Zwangsmittel für jeden Fall der Nichtbefolgung androhen. Sie kann auch Zwangsmittel gegen Behörden anwenden. Die Höhe des Zwangsgelds kann bis zu 300 000 Euro betragen.
 
-(3) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Verfahren zur Beteiligung des Bundeskartellamts näher zu regeln.
+(3) Die Durchsetzungsbehörde veröffentlicht Entscheidungen nach Absatz 1 Nummer 3 nach Abschluss des Verwaltungsverfahrens unter Nennung des Namens des Käufers auf ihrer Internetseite, soweit die Entscheidung nicht einen geringfügigen Verstoß betrifft. Ist die Entscheidung bei Veröffentlichung noch nicht bestandskräftig, weist die Durchsetzungsbehörde auf die fehlende Bestandskraft hin.
 
-(4) Die Durchsetzungsbehörde kann Anordnungen nach Absatz 1 Nummer 2 mit Zwangsmitteln nach den Bestimmungen des Verwaltungs-Vollstreckungsgesetzes durchsetzen. Dabei kann sie die Zwangsmittel für jeden Fall der Nichtbefolgung androhen. Sie kann auch Zwangsmittel gegen Behörden anwenden. Die Höhe des Zwangsgelds kann bis zu 300 000 Euro betragen.
+(4) Wird ein Verstoß behoben, der Gegenstand einer veröffentlichten Entscheidung ist, macht die Durchsetzungsbehörde dies unverzüglich auf ihrer Internetseite bekannt. Ergeht zu der Entscheidung der Durchsetzungsbehörde eine Gerichtsentscheidung, macht die Durchsetzungsbehörde auf Antrag des betroffenen Käufers den Tenor der Gerichtsentscheidung unverzüglich auf ihrer Internetseite bekannt.
 
-(5) Die Durchsetzungsbehörde veröffentlicht Entscheidungen nach Absatz 1 Nummer 3 nach Abschluss des Verwaltungsverfahrens unter Nennung des Namens des Käufers auf ihrer Internetseite, soweit die Entscheidung nicht einen geringfügigen Verstoß betrifft. Ist die Entscheidung bei Veröffentlichung noch nicht bestandskräftig, weist die Durchsetzungsbehörde auf die fehlende Bestandskraft hin.
+(5) Die Durchsetzungsbehörde entfernt die Informationen nach den Absätzen 3 und 4 spätestens drei Monate nach der Veröffentlichung der Entscheidung der Durchsetzungsbehörde oder des Tenors der Gerichtsentscheidung von der Internetseite. Wird ein Verstoß behoben, nachdem die Durchsetzungsbehörde die Informationen von der Internetseite nach Satz 1 entfernt hat, macht die Durchsetzungsbehörde die Behebung des Verstoßes auf Antrag des Käufers für die Dauer von höchstens drei Monaten auf ihrer Internetseite bekannt.
 
-(6) Wird ein Verstoß behoben, der Gegenstand einer veröffentlichten Entscheidung ist, macht die Durchsetzungsbehörde dies unverzüglich auf ihrer Internetseite bekannt. Ergeht zu der Entscheidung der Durchsetzungsbehörde eine Gerichtsentscheidung, macht die Durchsetzungsbehörde auf Antrag des betroffenen Käufers den Tenor der Gerichtsentscheidung unverzüglich auf ihrer Internetseite bekannt.
 
-(7) Die Durchsetzungsbehörde entfernt die Informationen nach den Absätzen 5 und 6 spätestens drei Monate nach der Veröffentlichung der Entscheidung der Durchsetzungsbehörde oder des Tenors der Gerichtsentscheidung von der Internetseite. Wird ein Verstoß behoben, nachdem die Durchsetzungsbehörde die Informationen von der Internetseite nach Satz 1 entfernt hat, macht die Durchsetzungsbehörde die Behebung des Verstoßes auf Antrag des Käufers für die Dauer von höchstens drei Monaten auf ihrer Internetseite bekannt.
+##### § 28a Informationsaustausch mit dem Bundeskartellamt
+
+Die Durchsetzungsbehörde und das Bundeskartellamt können unabhängig von der jeweils gewählten Verfahrensart untereinander Informationen einschließlich personenbezogener Daten und Betriebs- und Geschäftsgeheimnisse austauschen, soweit dies zur Erfüllung ihrer jeweiligen Aufgaben erforderlich ist, sowie diese in ihren Verfahren verwerten. Beweisverwertungsverbote bleiben unberührt.
 
 
 ##### § 29 Tätigkeitsbericht der Durchsetzungsbehörde
@@ -929,10 +946,7 @@ An dem Verfahren vor dem zuständigen Gericht sind beteiligt:
 2.  die Durchsetzungsbehörde,
 
 
-3.  das Bundeskartellamt bei Entscheidungen nach § 28 Absatz 1 Nummer 2,
-
-
-4.  Personen und Personenvereinigungen, deren Interessen durch die Entscheidung erheblich berührt werden und die die Durchsetzungsbehörde auf ihren Antrag zu dem Verfahren beigeladen hat.
+3.  Personen und Personenvereinigungen, deren Interessen durch die Entscheidung erheblich berührt werden und die die Durchsetzungsbehörde auf ihren Antrag zu dem Verfahren beigeladen hat.
 
 
 
@@ -940,7 +954,7 @@ An dem Verfahren vor dem zuständigen Gericht sind beteiligt:
 
 ###### § 37 Anwaltszwang
 
-Vor dem zuständigen Gericht müssen sich die Beteiligten durch einen Rechtsanwalt als Bevollmächtigten vertreten lassen. Die Durchsetzungsbehörde und das Bundeskartellamt können sich durch ein Mitglied der jeweiligen Behörde vertreten lassen.
+Vor dem zuständigen Gericht müssen sich die Beteiligten durch einen Rechtsanwalt als Bevollmächtigten vertreten lassen. Die Durchsetzungsbehörde kann sich durch ein Mitglied der Behörde vertreten lassen.
 
 
 ###### § 38 Mündliche Verhandlung
@@ -1015,11 +1029,11 @@ Gegen eine der Endentscheidung vorausgehende Entscheidung findet die Rüge nicht
 
 ###### § 42 Akteneinsicht
 
-(1) Die in § 36 Nummer 1 bis 3 bezeichneten Beteiligten können die Akten des zuständigen Gerichts einsehen und sich von der Geschäftsstelle auf eigene Kosten Ausfertigungen, Auszüge und Abschriften aushändigen lassen. § 299 Absatz 3 der Zivilprozessordnung gilt entsprechend.
+(1) Die in § 36 Nummer 1 und 2 bezeichneten Beteiligten können die Akten des zuständigen Gerichts einsehen und sich von der Geschäftsstelle auf eigene Kosten Ausfertigungen, Auszüge und Abschriften aushändigen lassen. § 299 Absatz 3 der Zivilprozessordnung gilt entsprechend.
 
-(2) Einsicht in Vorakten, Beiakten, Gutachten und Auskünfte ist nur mit Zustimmung der Stellen zulässig, denen die Unterlagen gehören oder die die Auskünfte eingeholt haben. Die Durchsetzungsbehörde hat die Zustimmung zur Einsicht in die ihr gehörenden Unterlagen zu versagen, soweit dies aus wichtigen Gründen, insbesondere zur Wahrung von Betriebs- oder Geschäftsgeheimnissen, geboten ist. Wird die Einsicht abgelehnt oder ist sie unzulässig, dürfen diese Unterlagen der Entscheidung nur insoweit zugrunde gelegt werden, als ihr Inhalt vorgetragen worden ist. Das zuständige Gericht kann die Offenlegung von Tatsachen oder Beweismitteln, deren Geheimhaltung aus wichtigen Gründen, insbesondere zur Wahrung von Betriebs- oder Geschäftsgeheimnissen, verlangt wird, nach Anhörung des von der Offenlegung Betroffenen durch Beschluss anordnen, soweit es für die Entscheidung auf diese Tatsachen oder Beweismittel ankommt, andere Möglichkeiten der Sachaufklärung nicht bestehen und nach Abwägung aller Umstände des Einzelfalles die Bedeutung der Sache für die Sicherung des Wettbewerbs das Interesse des Betroffenen an der Geheimhaltung überwiegt. Der Beschluss ist zu begründen. In dem Verfahren nach Satz 4 muss sich der Betroffene nicht anwaltlich vertreten lassen.
+(2) Einsicht in Vorakten, Beiakten, Gutachten und Auskünfte ist nur mit Zustimmung der Stellen zulässig, denen die Unterlagen gehören oder die die Auskünfte eingeholt haben. Die Durchsetzungsbehörde hat die Zustimmung zur Einsicht in die ihr gehörenden Unterlagen zu versagen, soweit dies aus wichtigen Gründen, insbesondere zur Wahrung von Betriebs- oder Geschäftsgeheimnissen, geboten ist. Wird die Einsicht abgelehnt oder ist sie unzulässig, dürfen diese Unterlagen der Entscheidung nur insoweit zugrunde gelegt werden, als ihr Inhalt vorgetragen worden ist. Das zuständige Gericht kann die Offenlegung von Tatsachen oder Beweismitteln, deren Geheimhaltung aus wichtigen Gründen, insbesondere zur Wahrung von Betriebs- oder Geschäftsgeheimnissen, verlangt wird, nach Anhörung des von der Offenlegung Betroffenen durch Beschluss anordnen, soweit es für die Entscheidung auf diese Tatsachen oder Beweismittel ankommt, andere Möglichkeiten der Sachaufklärung nicht bestehen und nach Abwägung aller Umstände des Einzelfalles die Bedeutung der Sache für den Schutz vor unlauteren Handelspraktiken das Interesse des Betroffenen an der Geheimhaltung überwiegt. Der Beschluss ist zu begründen. In dem Verfahren nach Satz 4 muss sich der Betroffene nicht anwaltlich vertreten lassen.
 
-(3) Den in § 36 Nummer 4 bezeichneten Beteiligten kann das zuständige Gericht nach Anhörung des Verfügungsberechtigten Akteneinsicht in gleichem Umfang gewähren.
+(3) Den in § 36 Nummer 3 bezeichneten Beteiligten kann das zuständige Gericht nach Anhörung des Verfügungsberechtigten Akteneinsicht in gleichem Umfang gewähren.
 
 
 ###### § 43 Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung
@@ -1121,9 +1135,7 @@ Im Klageverfahren und im Revisionsverfahren kann das Gericht anordnen, dass die 
 
 (1) Im gerichtlichen Bußgeldverfahren kann dem Vertreter der Durchsetzungsbehörde gestattet werden, Fragen an Betroffene, Zeugen und Sachverständige zu richten.
 
-(2) Im gerichtlichen Bußgeldverfahren hat bei Entscheidungen nach § 55 Absatz 1 Nummer 1b auch das Bundeskartellamt die Rechte der Verwaltungsbehörde nach § 76 des Gesetzes über Ordnungswidrigkeiten. Dem Vertreter des Bundeskartellamts kann gestattet werden, Fragen an Betroffene, Zeugen und Sachverständige zu richten.
-
-(3) Die Vollstreckung der Geldbuße und die Einziehung des Geldbetrages, dessen Einziehung nach § 29a des Gesetzes über Ordnungswidrigkeiten angeordnet wurde, erfolgt durch die Durchsetzungsbehörde als Vollstreckungsbehörde. Grundlage hierfür ist eine beglaubigte Abschrift der Urteilsformel, die entsprechend den Vorschriften über die Vollstreckung von Bußgeldbescheiden vom Urkundsbeamten der Geschäftsstelle des Gerichts erteilt und mit der Bescheinigung der Vollstreckbarkeit versehen sein muss. Die Geldbußen und die eingezogenen Geldbeträge fließen der Bundeskasse zu, die auch die der Staatskasse auferlegten Kosten trägt.
+(2) Die Vollstreckung der Geldbuße und die Einziehung des Geldbetrages, dessen Einziehung nach § 29a des Gesetzes über Ordnungswidrigkeiten angeordnet wurde, erfolgt durch die Durchsetzungsbehörde als Vollstreckungsbehörde. Grundlage hierfür ist eine beglaubigte Abschrift der Urteilsformel, die entsprechend den Vorschriften über die Vollstreckung von Bußgeldbescheiden vom Urkundsbeamten der Geschäftsstelle des Gerichts erteilt und mit der Bescheinigung der Vollstreckbarkeit versehen sein muss. Die Geldbußen und die eingezogenen Geldbeträge fließen der Bundeskasse zu, die auch die der Staatskasse auferlegten Kosten trägt.
 
 
 ###### § 49 Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren
@@ -1217,7 +1229,7 @@ zu erlassen.
 
 ### § 54 Überwachung; Mitteilungen; Verordnungsermächtigung
 
-(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nach Maßgabe des Absatzes 2 der Zustimmung des Bundesrates bedarf, die Vorschriften zu erlassen, die zur Überwachung der Einhaltung des Agrarorganisationenrechts oder der Einhaltung des Rechts über Geschäftsbeziehungen in der Lebensmittellieferkette oder zur Erfüllung von Mitteilungspflichten gegenüber Organen der Europäischen Union erforderlich sind. Insbesondere können Mitteilungs-, Aufzeichnungs-, Aufbewahrungs-, Auskunfts- und sonstige Unterstützungspflichten sowie Pflichten zur Duldung des Betretens und der Besichtigung von Geschäftsräumen und Betriebsstätten während der üblichen Geschäfts- und Betriebszeiten, zur Vornahme von Proben sowie zur Einsichtnahme und zum Kopieren von Geschäftsunterlagen vorgeschrieben werden.
+(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nach Maßgabe des Absatzes 2 der Zustimmung des Bundesrates bedarf, die Vorschriften zu erlassen, die zur Überwachung der Einhaltung des Agrarorganisationenrechts oder der Einhaltung des Rechts über Geschäftsbeziehungen in der Agrar-, Fischerei- und Lebensmittellieferkette oder zur Erfüllung von Mitteilungspflichten gegenüber Organen der Europäischen Union erforderlich sind. Insbesondere können Mitteilungs-, Aufzeichnungs-, Aufbewahrungs-, Auskunfts- und sonstige Unterstützungspflichten sowie Pflichten zur Duldung des Betretens und der Besichtigung von Geschäftsräumen und Betriebsstätten während der üblichen Geschäfts- und Betriebszeiten, zur Vornahme von Proben sowie zur Einsichtnahme und zum Kopieren von Geschäftsunterlagen sowie Pflichten von Zeugen und Sachverständigen zur Aussage oder zur Erstattung von Gutachten vorgeschrieben werden.
 
 (2) Die Zustimmung des Bundesrates ist nicht erforderlich, wenn die Vorschriften
 
@@ -1258,7 +1270,7 @@ zu erlassen.
     oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, oder
 
 
-3.  einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Union zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in Nummer 2 Buchstabe c genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Absatz 3 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+3.  einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Union zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in Nummer 2 genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Absatz 3 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 
 
@@ -1292,7 +1304,7 @@ zu erlassen.
 
 ### § 59 Evaluierung der Regelungen über unlautere Handelspraktiken
 
-(1) Das Bundesministerium für Ernährung und Landwirtschaft bewertet unter Beteiligung des Bundesministeriums für Wirtschaft und Klimaschutz den durch das Zweite Gesetz zur Änderung des Agrarmarktstrukturgesetzes vom 2. Juni 2021 (BGBl. I S. 1278) eingefügten Teil 3 Kapitel 1 Abschnitt 1 nach Ablauf von zwei Jahren nach Inkrafttreten des Gesetzes im Hinblick auf die Wirksamkeit der Regelungen. Gegenstand der Evaluierung ist insbesondere die Auswirkung der §§ 11 bis 23 auf die Gestaltung der Vertragsbeziehungen von Lieferanten und Käufern. Neben der Überprüfung der Einhaltung bestehender Verbote kann der Deutsche Bundestag im Zuge der Evaluierung gegebenenfalls auch die Liste verbotener Handelspraktiken um neue, bisher nicht erfasste unlautere Handelspraktiken erweitern. In die Evaluierung fließen auch die Ergebnisse der Prüfung eines möglichen Verbots des Einkaufs von Lebensmitteln und Agrarerzeugnissen unterhalb ihrer Produktionskosten ein.
+(1) Das Bundesministerium für Ernährung und Landwirtschaft bewertet unter Beteiligung des Bundesministeriums für Wirtschaft und Klimaschutz die durch das Gesetz zur Änderung agrarrechtlicher Vorschriften vom 23. Oktober 2024 (BGBl. 2024 I Nr. 327) eingefügten Änderungen in Teil 3 Kapitel 1 Abschnitt 1 nach Ablauf von drei Jahren nach Inkrafttreten dieses Gesetzes im Hinblick auf ihre Wirksamkeit. Gegenstand der Evaluierung ist insbesondere die Auswirkung der Änderungen auf die Gestaltung der Vertragsbeziehungen von Lieferanten und Käufern. Neben der Überprüfung der Einhaltung bestehender Verbote kann der Deutsche Bundestag im Zuge der Evaluierung gegebenenfalls auch die Liste verbotener Handelspraktiken um neue, bisher nicht erfasste unlautere Handelspraktiken erweitern.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft berichtet dem Deutschen Bundestag über das Ergebnis der Evaluierung nach Absatz 1.
 
