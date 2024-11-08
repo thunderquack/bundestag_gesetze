@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 V v. 10.3.2022 I 428
 
+Änderung durch
+:   Art. 3 V v. 30.10.2024 I Nr. 342 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Gesetzliche Handelsklassen
 
@@ -29,7 +32,7 @@ Für ganze und halbe Schlachtkörper von Schweinen gelten die in Anhang IV Teil 
 
 ## § 2 Einstufung in Handelsklassen
 
-(1) Schlachtbetriebe im Sinne des § 1 Nummer 3 des Fleischgesetzes, die pro Woche durchschnittlich mehr als 500 Schweine schlachten oder schlachten lassen, sind verpflichtet, alle Schweineschlachtkörper möglichst bald nach der Schlachtung und vor Beginn des Kühlprozesses, spätestens aber 45 Minuten nach dem Stechen des Tieres in die in § 1 bezeichneten Handelsklassen einstufen zu lassen (Klassifizierung). Die durchschnittliche wöchentliche Schlachtzahl wird auf der Grundlage der im Jahresdurchschnitt des vorangegangenen Kalenderjahres geschlachteten Anzahl Schweine ermittelt. Die Verantwortung für die Rahmenbedingungen einer ordnungsgemäßen Durchführung der Klassifizierung obliegt dem Schlachtbetrieb; sie wird durch die Beauftragung eines zugelassenen Klassifizierungsunternehmens mit der Durchführung der Klassifizierung nicht berührt.
+(1) Schlachtbetriebe im Sinne des § 1 Nummer 3 des Fleischgesetzes, die pro Woche durchschnittlich mehr als 500 Schweine schlachten oder schlachten lassen, sind verpflichtet, alle Schweineschlachtkörper möglichst bald nach der Schlachtung und vor Beginn des Kühlprozesses, spätestens aber 45 Minuten nach dem Stechen des Tieres in die in § 1 bezeichneten Handelsklassen einstufen zu lassen (Klassifizierung). Die durchschnittliche wöchentliche Schlachtzahl wird auf der Grundlage der im Jahresdurchschnitt des vorangegangenen Kalenderjahres geschlachteten Anzahl Schweine ermittelt. Die Verantwortung für die Rahmenbedingungen einer ordnungsgemäßen Durchführung der Klassifizierung obliegt der Schlachtstätte im Sinne des § 1 Nummer 4 des Fleischgesetzes und für die ordnungsgemäße Durchführung im Einzelnen dem Schlachtbetrieb; sie wird durch die Beauftragung eines zugelassenen Klassifizierungsunternehmens mit der Durchführung der Klassifizierung nicht berührt.
 
 (2) Von der Pflicht nach Absatz 1 Satz 1 ausgenommen sind Schlachtbetriebe, die nur in ihren eigenen Einrichtungen geborene und gemästete Schweine schlachten und sämtliche Schweineschlachtkörper selbst zerlegen.
 

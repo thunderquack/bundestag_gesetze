@@ -16,10 +16,7 @@ Fundstelle
 :   RGBl: 1897, 97
 
 Zuletzt geändert durch
-:   Art. 24 G v. 19.12.2022 I 2606
-
-Änderung durch
-:   Art. 1 G v. 24.10.2024 I Nr. 329 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 24.10.2024 I Nr. 329
 
 
 ## Erster Abschnitt - Zwangsversteigerung und Zwangsverwaltung von Grundstücken im Wege der Zwangsvollstreckung

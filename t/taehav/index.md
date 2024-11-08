@@ -15,11 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 2115
 
-Neugefasst durch
-:   Bek. v. 8.7.2009 I 1760;
+V aufgeh. durch
+:   § 21 Satz 2 V v. 1.11.2024 I Nr. 343 mWv 1.1.2025
 
-Geändert durch
-:   Art. 1 V v. 21.2.2018 I 213
+Ersetzt durch
+:   V 2121-54-6 v. 1.11.2024 I Nr. 343 (TÄHAV 2025)
 
 
 ## § 1 Anwendungsbereich

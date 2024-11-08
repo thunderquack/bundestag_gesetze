@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 10.3.2022 I 428
 
+Änderung durch
+:   Art. 4 V v. 30.10.2024 I Nr. 342 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Gesetzliche Handelsklassen und Kategorien für Rinderschlachtkörper
 
@@ -28,7 +31,7 @@ Zuletzt geändert durch
 
 ## § 2 Einstufung in Handelsklassen
 
-(1) Schlachtbetriebe im Sinne des § 1 Nummer 3 des Fleischgesetzes, die pro Woche durchschnittlich mehr als 150 Rinder schlachten, sind verpflichtet, alle Rinderschlachtkörper möglichst bald nach der Schlachtung und vor Beginn des Kühlprozesses, spätestens aber eine Stunde nach dem Stechen des Tieres in die in § 1 Absatz 1 bezeichneten Kategorien und Handelsklassen einstufen zu lassen (Klassifizierung). Die durchschnittliche wöchentliche Schlachtzahl wird auf der Grundlage der im Jahresdurchschnitt des vorangegangenen Kalenderjahres geschlachteten Menge ermittelt. Die Verantwortung für die Rahmenbedingungen einer ordnungsgemäßen Durchführung der Klassifizierung obliegt dem Schlachtbetrieb; sie wird durch die Beauftragung eines zugelassenen Klassifizierungsunternehmens mit der Durchführung der Klassifizierung nicht berührt.
+(1) Schlachtbetriebe im Sinne des § 1 Nummer 3 des Fleischgesetzes, die pro Woche durchschnittlich mehr als 150 Rinder schlachten oder schlachten lassen, sind verpflichtet, alle Rinderschlachtkörper möglichst bald nach der Schlachtung und vor Beginn des Kühlprozesses, spätestens aber eine Stunde nach dem Stechen des Tieres in die in § 1 Absatz 1 bezeichneten Kategorien und Handelsklassen einstufen zu lassen (Klassifizierung). Die durchschnittliche wöchentliche Schlachtzahl wird auf der Grundlage der im Jahresdurchschnitt des vorangegangenen Kalenderjahres geschlachteten Menge ermittelt. Die Verantwortung für die Rahmenbedingungen einer ordnungsgemäßen Durchführung der Klassifizierung obliegt der Schlachtstätte im Sinne des § 1 Nummer 4 des Fleischgesetzes und für die ordnungsgemäße Durchführung im Einzelnen dem Schlachtbetrieb; sie wird durch die Beauftragung eines zugelassenen Klassifizierungsunternehmens mit der Durchführung der Klassifizierung nicht berührt.
 
 (2) Bei einer freiwilligen Einordnung von Rinderschlachtkörpern in das in § 1 Absatz 1 bezeichnete Handelsklassenschema gelten die Vorschriften dieser Verordnung und die Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über das gemeinschaftliche Handelsklassenschema für Rinderschlachtkörper.
 
@@ -68,7 +71,7 @@ Zum Zweck der Durchführung von Kontrollen verarbeitet und übermittelt die zust
 1.  entgegen § 2 Absatz 1 Satz 1 einen Rinderschlachtkörper nicht, nicht richtig oder nicht rechtzeitig einstufen lässt oder
 
 
-2.  entgegen § 2 Absatz 3 eine Handelsklasse oder Kategorie verwendet.
+2.  entgegen § 2 Absatz 4 eine Handelsklasse oder Kategorie verwendet.
 
 
 

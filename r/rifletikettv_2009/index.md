@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 22.7.2015 I 1408
 
+Änderung durch
+:   Art. 2 V v. 30.10.2024 I Nr. 342 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Begriffsbestimmungen, Nachweise zur Rückverfolgbarkeit
 
@@ -92,7 +95,7 @@ Die Angaben nach Anhang VII Teil 1 Abschnitt IV Nummer 2 der Verordnung (EU) Nr.
 
 ### § 10 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 11 Absatz 2 Nummer 3 des Rindfleischetikettierungsgesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 11 Absatz 1 Nummer 3 des Rindfleischetikettierungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 2 Absatz 1 oder 2 eine Aufzeichnung oder einen Nachweis nicht, nicht richtig oder nicht vollständig führt,
 

@@ -16,10 +16,7 @@ Fundstelle
 :   RGBl: 1897, 135
 
 Zuletzt geändert durch
-:   Art. 4 G v. 11.10.2016 I 2222
-
-Änderung durch
-:   Art. 2 G v. 24.10.2024 I Nr. 329 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 24.10.2024 I Nr. 329
 
 
 ## § 1

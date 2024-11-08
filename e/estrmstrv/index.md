@@ -19,6 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 19 V v. 18.1.2022 I 39
 
+V aufgeh. durch
+:   § 16 Satz 2 V 7110-3-217 v. 4.11.2024 I Nr. 344 mWv 1.1.2026
+
+Ersetzt durch
+:   V 7110-3-217 v. 4.11.2024 I Nr. 344 (EstrMstrV 2026)
+
 
 
 ## Eingangsformel

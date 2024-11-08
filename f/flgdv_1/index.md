@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 V v. 10.3.2022 I 428
 
+Änderung durch
+:   Art. 1 V v. 30.10.2024 I Nr. 342 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
 
