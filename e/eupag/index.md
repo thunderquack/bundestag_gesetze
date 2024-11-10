@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 1121, 1137
 
 Zuletzt geändert durch
-:   Art. 9 G v. 10.3.2023 I Nr. 64
-
-Änderung durch
-:   Art. 5 G v. 22.10.2024 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 22.10.2024 I Nr. 320
 
 
 ## Teil 1 - Voraussetzungen für die Zulassung zur Patentanwaltschaft

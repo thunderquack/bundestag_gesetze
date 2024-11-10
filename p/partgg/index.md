@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1744
 
 Zuletzt geändert durch
-:   Art. 68 G v. 10.8.2021 I 3436
-
-Änderung durch
-:   Art. 11 G v. 22.10.2024 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 22.10.2024 I Nr. 320
 
 
 ## § 1 Voraussetzungen der Partnerschaft; Anwendbarkeit der Vorschriften über die Gesellschaft bürgerlichen Rechts
