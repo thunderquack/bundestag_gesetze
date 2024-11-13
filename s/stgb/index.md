@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.11.1998 I 3322;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 30.7.2024 I Nr. 255
+:   Art. 2 Abs. 2 G v. 7.11.2024 I Nr. 351
 
 
 ## Allgemeiner Teil - 
@@ -5429,7 +5429,7 @@ herstellt, sich oder einem anderen verschafft, verkauft, einem anderen überläs
 4.  Ehe-, Familien-, Erziehungs- oder Jugendberater sowie Berater für Suchtfragen in einer Beratungsstelle, die von einer Behörde oder Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts anerkannt ist,
 
 
-5.  Mitglied oder Beauftragten einer anerkannten Beratungsstelle nach den §§ 3 und 8 des Schwangerschaftskonfliktgesetzes,
+5.  Mitglied oder Beauftragten einer anerkannten Beratungsstelle nach den §§ 3 und 8 Absatz 1 des Schwangerschaftskonfliktgesetzes,
 
 
 6.  staatlich anerkanntem Sozialarbeiter oder staatlich anerkanntem Sozialpädagogen oder

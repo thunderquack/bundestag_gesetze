@@ -10685,7 +10685,7 @@ Abschnitt I
     *
     *   – Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen
         – Bundesamt für Migration und Flüchtlinge zu Spalte A Buchstabe c und e
-        – mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A Buchstabe
+        – mit grenzpolizeilichen Aufgaben betraute Behörden zu Spalte A Buchstabe b
         – in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde zu Spalte A Buchstabe b
 
     *   Die Daten zu Spalte A Buchstabe c bis f jeweils Doppelbuchstabe cc und dd werden nur an das Bundeskriminalamt in seiner Funktion als SIRENE-Büro übermittelt.

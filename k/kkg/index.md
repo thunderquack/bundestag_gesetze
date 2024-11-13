@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 2975
 
 Zuletzt geändert durch
-:   Art. 2 G v. 3.6.2021 I 1444
+:   Art. 2 Abs. 4 G v. 7.11.2024 I Nr. 351
 
 
 ## § 1 Kinderschutz und staatliche Mitverantwortung
@@ -52,7 +52,7 @@ Zuletzt geändert durch
 
 (1) In den Ländern werden insbesondere im Bereich Früher Hilfen flächendeckend verbindliche Strukturen der Zusammenarbeit der zuständigen Leistungsträger und Institutionen im Kinderschutz mit dem Ziel aufgebaut und weiterentwickelt, sich gegenseitig über das jeweilige Angebots- und Aufgabenspektrum zu informieren, strukturelle Fragen der Angebotsgestaltung und -entwicklung zu klären sowie Verfahren im Kinderschutz aufeinander abzustimmen.
 
-(2) In das Netzwerk sollen insbesondere Einrichtungen und Dienste der öffentlichen und freien Jugendhilfe, Leistungserbringer, mit denen Verträge nach § 125 des Neunten Buches Sozialgesetzbuch bestehen, Gesundheitsämter, Sozialämter, Schulen, Polizei- und Ordnungsbehörden, Agenturen für Arbeit, Krankenhäuser, Sozialpädiatrische Zentren, Frühförderstellen, Beratungsstellen für soziale Problemlagen, Beratungsstellen nach den §§ 3 und 8 des Schwangerschaftskonfliktgesetzes, Einrichtungen und Dienste zur Müttergenesung sowie zum Schutz gegen Gewalt in engen sozialen Beziehungen, Mehrgenerationenhäuser, Familienbildungsstätten, Familiengerichte und Angehörige der Heilberufe einbezogen werden.
+(2) In das Netzwerk sollen insbesondere Einrichtungen und Dienste der öffentlichen und freien Jugendhilfe, Leistungserbringer, mit denen Verträge nach § 125 des Neunten Buches Sozialgesetzbuch bestehen, Gesundheitsämter, Sozialämter, Schulen, Polizei- und Ordnungsbehörden, Agenturen für Arbeit, Krankenhäuser, Sozialpädiatrische Zentren, Frühförderstellen, Beratungsstellen für soziale Problemlagen, Beratungsstellen nach den §§ 3 und 8 Absatz 1 des Schwangerschaftskonfliktgesetzes, Einrichtungen und Dienste zur Müttergenesung sowie zum Schutz gegen Gewalt in engen sozialen Beziehungen, Mehrgenerationenhäuser, Familienbildungsstätten, Familiengerichte und Angehörige der Heilberufe einbezogen werden.
 
 (3) Sofern Landesrecht keine andere Regelung trifft, soll die verbindliche Zusammenarbeit im Kinderschutz als Netzwerk durch den örtlichen Träger der Jugendhilfe organisiert werden. Die Beteiligten sollen die Grundsätze für eine verbindliche Zusammenarbeit in Vereinbarungen festlegen. Auf vorhandene Strukturen soll zurückgegriffen werden.
 
@@ -75,7 +75,7 @@ Zuletzt geändert durch
 4.  Beraterinnen oder Beratern für Suchtfragen in einer Beratungsstelle, die von einer Behörde oder Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts anerkannt ist,
 
 
-5.  Mitgliedern oder Beauftragten einer anerkannten Beratungsstelle nach den §§ 3 und 8 des Schwangerschaftskonfliktgesetzes,
+5.  Mitgliedern oder Beauftragten einer anerkannten Beratungsstelle nach den §§ 3 und 8 Absatz 1 des Schwangerschaftskonfliktgesetzes,
 
 
 6.  staatlich anerkannten Sozialarbeiterinnen oder -arbeitern oder staatlich anerkannten Sozialpädagoginnen oder -pädagogen oder

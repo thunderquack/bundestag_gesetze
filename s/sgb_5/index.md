@@ -17,25 +17,7 @@ Fundstelle
 :   BGBl I: 1988, 2477, 2482
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.3.2024 I Nr. 101
-
-Änderung durch
-:   Art. 3 G v. 22.3.2024 I Nr. 102 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 22.3.2024 I Nr. 105 ist berücksichtigt
-
-Änderung durch
-:   Art. 33 u. Art. 35 Abs. 10 G v. 27.3.2024 I Nr. 108 ist berücksichtigt
-
-Änderung durch
-:   Art. 31 G v. 6.5.2024 I Nr. 149 ist berücksichtigt
-
-Änderung durch
-:   Art. 3 G v. 30.5.2024 I Nr. 173 ist berücksichtigt
-
-Änderung durch
-:   Art. 3 G v. 30.7.2024 I Nr. 254 ist berücksichtigt
+:   Art. 3 G v. 30.7.2024 I Nr. 254
 
 Änderung durch
 :   Art. 6 G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

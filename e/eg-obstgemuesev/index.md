@@ -15,6 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1269
 
+V aufgeh. durch
+:   § 10 Satz 2 V 7847-35-11 v. 16.11.2024 I Nr. 347 mWv 1.1.2025
+
+Ersetzt durch
+:   V 7847-35-11 v. 16.11.2024 I Nr. 347 (OGVermNormDV)
+
 Zuletzt geändert durch
 :   Art. 2 V v. 20.3.2014 I 269
 

@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1997, 594, 595
 
 Zuletzt geändert durch
-:   Art. 2 G v. 19.7.2024 I Nr. 249
-
-Änderung durch
-:   Art. 60 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 60 G v. 23.10.2024 I Nr. 323
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften

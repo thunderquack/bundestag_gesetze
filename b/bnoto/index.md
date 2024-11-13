@@ -16,11 +16,7 @@ Fundstelle
 :   RGBl I: 1937, 191
 
 Zuletzt geändert durch
-:   Art. 1 G v. 22.10.2024 I Nr. 320
-
-Änderung durch
-:   Art. 12 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+:   Art. 12 G v. 23.10.2024 I Nr. 323
 
 
 ## Teil 1 - Das Amt des Notars

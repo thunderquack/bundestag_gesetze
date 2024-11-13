@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.4.1987 I 1074, 1319;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 30.7.2024 I Nr. 255
+:   Art. 2 Abs. 1 G v. 7.11.2024 I Nr. 351
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -642,7 +642,7 @@ für die Mitglieder einer Landesregierung der Genehmigung der Landesregierung.
 3.  Rechtsanwälte und Kammerrechtsbeistände, Patentanwälte, Notare, Wirtschaftsprüfer, vereidigte Buchprüfer, Steuerberater und Steuerbevollmächtigte, Ärzte, Zahnärzte, Psychotherapeuten, Psychologische Psychotherapeuten, Kinder- und Jugendlichenpsychotherapeuten, Apotheker und Hebammen über das, was ihnen in dieser Eigenschaft anvertraut worden oder bekanntgeworden ist; für Syndikusrechtsanwälte (§ 46 Absatz 2 der Bundesrechtsanwaltsordnung) und Syndikuspatentanwälte (§ 41a Absatz 2 der Patentanwaltsordnung) gilt dies vorbehaltlich des § 53a nicht hinsichtlich dessen, was ihnen in dieser Eigenschaft anvertraut worden oder bekanntgeworden ist;
 
 
-3a. Mitglieder oder Beauftragte einer anerkannten Beratungsstelle nach den §§ 3 und 8 des Schwangerschaftskonfliktgesetzes über das, was ihnen in dieser Eigenschaft anvertraut worden oder bekanntgeworden ist;
+3a. Mitglieder oder Beauftragte einer anerkannten Beratungsstelle nach den §§ 3 und 8 Absatz 1 des Schwangerschaftskonfliktgesetzes über das, was ihnen in dieser Eigenschaft anvertraut worden oder bekanntgeworden ist;
 
 
 3b. Berater für Fragen der Betäubungsmittelabhängigkeit in einer Beratungsstelle, die eine Behörde oder eine Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts anerkannt oder bei sich eingerichtet hat, über das, was ihnen in dieser Eigenschaft anvertraut worden oder bekanntgeworden ist;
@@ -7360,7 +7360,7 @@ Für die Anordnung der Verfahrensbeteiligung gelten § 424 Absatz 2 bis 5 und §
 Vernichtung, Unbrauchbarmachung und Beseitigung eines gesetzwidrigen Zustandes stehen im Sinne der §§ 421 bis 436 der Einziehung gleich.
 
 
-#### (XXXX)§§ 440 bis 442 (weggefallen)
+#### (XXXX) §§ 440 bis 442 (weggefallen)
 
 
 

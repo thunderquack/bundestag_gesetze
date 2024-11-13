@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 11.9.2012 I 2022;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 8.5.2024 I Nr. 152
+:   Art. 2 Abs. 3 G v. 7.11.2024 I Nr. 351
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -2202,7 +2202,7 @@ Die Träger der öffentlichen Jugendhilfe haben mit anderen Stellen und öffentl
 5.  Einrichtungen und Stellen des öffentlichen Gesundheitsdienstes und sonstigen Einrichtungen und Diensten des Gesundheitswesens,
 
 
-6.  den Beratungsstellen nach den §§ 3 und 8 des Schwangerschaftskonfliktgesetzes und Suchtberatungsstellen,
+6.  den Beratungsstellen nach den §§ 3 und 8 Absatz 1 des Schwangerschaftskonfliktgesetzes und Suchtberatungsstellen,
 
 
 7.  Einrichtungen und Diensten zum Schutz gegen Gewalt in engen sozialen Beziehungen,

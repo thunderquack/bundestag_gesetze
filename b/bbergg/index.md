@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 1310
 
 Zuletzt geändert durch
-:   Art. 4 G v. 22.3.2023 I Nr. 88
-
-Änderung durch
-:   Art. 39 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 39 G v. 23.10.2024 I Nr. 323
 
 
 ## Eingangsformel
