@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 1.10.2002 I 3866; 2003 I 61;
 
 Zuletzt geändert durch
-:   Art. 8a G v. 19.7.2024 I Nr. 245
-
-Änderung durch
-:   Art. 3 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 23.10.2024 I Nr. 323
 
 
 ## Erster Teil - Einleitende Vorschriften

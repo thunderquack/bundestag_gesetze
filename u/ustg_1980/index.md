@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.2.2005 I 386;
 
 Zuletzt geändert durch
-:   Art. 22 G v. 15.7.2024 I Nr. 236
-
-Änderung durch
-:   Art. 5 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 23.10.2024 I Nr. 323
 
 
 ## Erster Abschnitt - Steuergegenstand und Geltungsbereich

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 11.7.2022 I 1082
 
+Änderung durch
+:   Art. 1 G v. 7.11.2024 I Nr. 351 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Aufklärung, Verhütung, Familienplanung und Beratung
 
@@ -35,12 +38,12 @@ Zuletzt geändert durch
 
 (4) Der Bund macht die Hilfen für Schwangere und Mütter bekannt; dazu gehört auch der Anspruch auf anonyme Beratung nach § 2 Absatz 1 und auf die vertrauliche Geburt. Die Informationen über die vertrauliche Geburt beinhalten auch die Erklärung, wie eine Frau ihre Rechte gegenüber ihrem Kind nach einer vertraulichen Geburt unter Aufgabe ihrer Anonymität und wie sie schutzwürdige Belange gegen die spätere Offenlegung ihrer Personenstandsdaten geltend machen kann. Der Bund fördert durch geeignete Maßnahmen das Verständnis für Eltern, die ihr Kind zur Adoption freigeben.
 
-(5) Der Bund stellt durch einen bundesweiten zentralen Notruf sicher, dass Schwangere in Konfliktlagen, die ihre Schwangerschaft verheimlichen, jederzeit und unverzüglich an eine Beratungsstelle nach den §§ 3 und 8 vermittelt werden. Er macht den Notruf bundesweit bekannt und betreibt kontinuierlich Öffentlichkeitsarbeit für den Notruf.
+(5) Der Bund stellt durch einen bundesweiten zentralen Notruf sicher, dass Schwangere in Konfliktlagen, die ihre Schwangerschaft verheimlichen, jederzeit und unverzüglich an eine Beratungsstelle nach den §§ 3 und 8 Absatz 1 vermittelt werden. Er macht den Notruf bundesweit bekannt und betreibt kontinuierlich Öffentlichkeitsarbeit für den Notruf.
 
 
 ### § 2 Beratung
 
-(1) Jede Frau und jeder Mann hat das Recht, sich zu den in § 1 Abs. 1 genannten Zwecken in Fragen der Sexualaufklärung, Verhütung und Familienplanung sowie in allen eine Schwangerschaft unmittelbar oder mittelbar berührenden Fragen von einer hierfür vorgesehenen Beratungsstelle auf Wunsch anonym informieren und beraten zu lassen.
+(1) Jede Person hat das Recht, sich zu den in § 1 Absatz 1 genannten Zwecken in Fragen der Sexualaufklärung, Verhütung und Familienplanung sowie in allen eine Schwangerschaft unmittelbar oder mittelbar berührenden Fragen von einer hierfür vorgesehenen Beratungsstelle auf Wunsch anonym informieren und beraten zu lassen.
 
 (2) Der Anspruch auf Beratung umfaßt Informationen über
 
@@ -86,7 +89,7 @@ Die Schwangere ist darüber hinaus bei der Geltendmachung von Ansprüchen sowie 
 
 ### § 2a Aufklärung und Beratung in besonderen Fällen
 
-(1) Sprechen nach den Ergebnissen von pränataldiagnostischen Maßnahmen dringende Gründe für die Annahme, dass die körperliche oder geistige Gesundheit des Kindes geschädigt ist, so hat die Ärztin oder der Arzt, die oder der der Schwangeren die Diagnose mitteilt, über die medizinischen und psychosozialen Aspekte, die sich aus dem Befund ergeben, unter Hinzuziehung von Ärztinnen oder Ärzten, die mit dieser Gesundheitsschädigung bei geborenen Kindern Erfahrung haben, zu beraten. Die Beratung erfolgt in allgemein verständlicher Form und ergebnisoffen. Sie umfasst die eingehende Erörterung der möglichen medizinischen, psychischen und sozialen Fragen sowie der Möglichkeiten zur Unterstützung bei physischen und psychischen Belastungen. Die Ärztin oder der Arzt hat über den Anspruch auf weitere und vertiefende psychosoziale Beratung nach § 2 zu informieren und im Einvernehmen mit der Schwangeren Kontakte zu Beratungsstellen nach § 3 und zu Selbsthilfegruppen oder Behindertenverbänden zu vermitteln.
+(1) Sprechen nach den Ergebnissen von pränataldiagnostischen Maßnahmen dringende Gründe für die Annahme, dass die körperliche oder geistige Gesundheit des Kindes geschädigt ist, so hat die Ärztin oder der Arzt, die oder der der Schwangeren die Diagnose mitteilt, unverzüglich, jedoch spätestens vor Ablauf von drei Tagen nach Mitteilung der Diagnose, die Schwangere über die medizinischen und psychosozialen Aspekte, die sich aus dem Befund ergeben, unter Hinzuziehung von Ärztinnen oder Ärzten, die mit dieser Gesundheitsschädigung bei geborenen Kindern Erfahrung haben, zu beraten. Die Beratung erfolgt in allgemein verständlicher Form und ergebnisoffen. Sie umfasst die eingehende Erörterung der möglichen medizinischen, psychischen und sozialen Fragen sowie der Möglichkeiten zur Unterstützung bei physischen und psychischen Belastungen. Die Ärztin oder der Arzt hat über den Anspruch auf weitere und vertiefende psychosoziale Beratung nach § 2 zu informieren und im Einvernehmen mit der Schwangeren Kontakte zu Beratungsstellen nach § 3 und zu Selbsthilfegruppen oder Behindertenverbänden zu vermitteln.
 
 (2) Die Ärztin oder der Arzt, die oder der gemäß § 218b Absatz 1 des Strafgesetzbuchs die schriftliche Feststellung über die Voraussetzungen des § 218a Absatz 2 des Strafgesetzbuchs zu treffen hat, hat vor der schriftlichen Feststellung gemäß § 218b Absatz 1 des Strafgesetzbuchs die Schwangere über die medizinischen und psychischen Aspekte eines Schwangerschaftsabbruchs zu beraten, über den Anspruch auf weitere und vertiefende psychosoziale Beratung nach § 2 zu informieren und im Einvernehmen mit der Schwangeren Kontakte zu Beratungsstellen nach § 3 zu vermitteln, soweit dies nicht auf Grund des Absatzes 1 bereits geschehen ist. Die schriftliche Feststellung darf nicht vor Ablauf von drei Tagen nach der Mitteilung der Diagnose gemäß Absatz 1 Satz 1 oder nach der Beratung gemäß Satz 1 vorgenommen werden. Dies gilt nicht, wenn die Schwangerschaft abgebrochen werden muss, um eine gegenwärtige erhebliche Gefahr für Leib oder Leben der Schwangeren abzuwenden.
 
@@ -100,11 +103,11 @@ Die Länder stellen ein ausreichendes Angebot wohnortnaher Beratungsstellen für
 
 ### § 4 Öffentliche Förderung der Beratungsstellen
 
-(1) Die Länder tragen dafür Sorge, daß den Beratungsstellen nach den §§ 3 und 8 für je 40 000 Einwohner mindestens eine Beraterin oder ein Berater vollzeitbeschäftigt oder eine entsprechende Zahl von Teilzeitbeschäftigten zur Verfügung steht. Von diesem Schlüssel soll dann abgewichen werden, wenn die Tätigkeit der Beratungsstellen mit dem vorgesehenen Personal auf Dauer nicht ordnungsgemäß durchgeführt werden kann. Dabei ist auch zu berücksichtigen, daß Schwangere in angemessener Entfernung von ihrem Wohnort eine Beratungsstelle aufsuchen können.
+(1) Die Länder tragen dafür Sorge, daß den Beratungsstellen nach den §§ 3 und 8 Absatz 1 für je 40 000 Einwohner mindestens eine Beraterin oder ein Berater vollzeitbeschäftigt oder eine entsprechende Zahl von Teilzeitbeschäftigten zur Verfügung steht. Von diesem Schlüssel soll dann abgewichen werden, wenn die Tätigkeit der Beratungsstellen mit dem vorgesehenen Personal auf Dauer nicht ordnungsgemäß durchgeführt werden kann. Dabei ist auch zu berücksichtigen, daß Schwangere in angemessener Entfernung von ihrem Wohnort eine Beratungsstelle aufsuchen können.
 
 (2) Zur Information über die Leistungsangebote im örtlichen Einzugsbereich und zur Sicherstellung einer umfassenden Beratung wirken die Beratungsstellen in den Netzwerken nach § 3 des Gesetzes zur Kooperation und Information im Kinderschutz mit.
 
-(3) Die zur Sicherstellung eines ausreichenden Angebotes nach den §§ 3 und 8 erforderlichen Beratungsstellen haben Anspruch auf eine angemessene öffentliche Förderung der Personal- und Sachkosten.
+(3) Die zur Sicherstellung eines ausreichenden Angebotes nach den §§ 3 und 8 Absatz 1 erforderlichen Beratungsstellen haben Anspruch auf eine angemessene öffentliche Förderung der Personal- und Sachkosten.
 
 (4) Näheres regelt das Landesrecht.
 
@@ -152,7 +155,7 @@ Die Beratung unterrichtet auf Wunsch der Schwangeren auch über Möglichkeiten, 
 
 hinzuzuziehen.
 
-(4) Die Beratung ist für die Schwangere und die nach Absatz 3 Nr. 3 hinzugezogenen Personen unentgeltlich.
+(4) Die Beratung ist für die Schwangere und die nach Absatz 3 Nummer 3 hinzugezogenen Personen unentgeltlich.
 
 
 ### § 7 Beratungsbescheinigung
@@ -161,12 +164,38 @@ hinzuzuziehen.
 
 (2) Hält die beratende Person nach dem Beratungsgespräch eine Fortsetzung dieses Gesprächs für notwendig, soll diese unverzüglich erfolgen.
 
-(3) Die Ausstellung einer Beratungsbescheinigung darf nicht verweigert werden, wenn durch eine Fortsetzung des Beratungsgesprächs die Beachtung der in § 218a Abs. 1 des Strafgesetzbuches vorgesehenen Fristen unmöglich werden könnte.
+(3) Die Ausstellung einer Beratungsbescheinigung darf nicht verweigert werden, wenn durch eine Fortsetzung des Beratungsgesprächs die Beachtung der in § 218a Absatz 1 des Strafgesetzbuches vorgesehenen Fristen unmöglich werden könnte.
 
 
-### § 8 Schwangerschaftskonfliktberatungsstellen
+### § 8 Schwangerschaftskonfliktberatungsstellen; Belästigungsverbot
 
-Für die Beratung nach den §§ 5 und 6 haben die Länder ein ausreichendes plurales Angebot wohnortnaher Beratungsstellen sicherzustellen. Diese Beratungsstellen bedürfen besonderer staatlicher Anerkennung nach § 9. Als Beratungsstellen können auch Einrichtungen freier Träger sowie Ärztinnen und Ärzte anerkannt werden.
+(1) Für die Beratung nach den §§ 5 und 6 haben die Länder ein ausreichendes plurales Angebot wohnortnaher Beratungsstellen und den ungehinderten Zugang zu diesen sowie eine gemäß den Absätzen 2 und 3 unbeeinträchtigte Beratung in der Beratungsstelle sicherzustellen. Diese Beratungsstellen bedürfen besonderer staatlicher Anerkennung nach § 9. Als Beratungsstellen können auch Einrichtungen freier Träger sowie Ärztinnen und Ärzte anerkannt werden.
+
+(2) Es ist untersagt, in einem Bereich von 100 Metern um den Eingangsbereich der Beratungsstellen in einer für die Schwangeren wahrnehmbaren Weise, die geeignet ist, die Beratung der Schwangeren in der Beratungsstelle zu beeinträchtigen,
+
+1.  der Schwangeren das Betreten oder das Verlassen der Beratungsstelle durch das Bereiten eines Hindernisses absichtlich zu erschweren,
+
+
+2.  der Schwangeren durch Ansprechen wissentlich eine Meinung zu ihrer Entscheidung über die Fortsetzung der Schwangerschaft aufzudrängen,
+
+
+3.  die Schwangere zu bedrängen, einzuschüchtern oder auf andere vergleichbare Weise erheblich unter Druck zu setzen, um sie in ihrer Entscheidung über die Fortsetzung der Schwangerschaft zu beeinflussen,
+
+
+4.  der Schwangeren Inhalte im Sinne des § 11 Absatz 3 des Strafgesetzbuches zu Schwangerschaft oder Schwangerschaftsabbruch zur unmittelbaren Wahrnehmung auszuhändigen, zu zeigen, zu Gehör zu bringen oder auf andere vergleichbare Weise zu übermitteln, wenn diese
+
+    a)  unwahre Tatsachenbehauptungen enthalten oder
+
+
+    b)  offensichtlich geeignet sind, bei einer Schwangeren eine erhebliche unmittelbare emotionale Reaktion wie insbesondere Furcht, Ekel, Scham oder ein Schuldgefühl auszulösen.
+
+
+
+
+
+
+
+(3) Es ist untersagt, das Personal der Beratungsstellen bei der Durchführung der Beratung nach § 6 Absatz 1 und 3 und bei der Ausstellung der Beratungsbescheinigung nach § 7 Absatz 1 bewusst zu behindern.
 
 
 ### § 9 Anerkennung von Schwangerschaftskonfliktberatungsstellen
@@ -199,7 +228,7 @@ Eine Beratungsstelle darf nur anerkannt werden, wenn sie die Gewähr für eine f
 
 ### § 11 Übergangsregelung
 
-Die Anerkennung einer Beratungsstelle auf Grund II.4 der Entscheidungsformel des Urteils des Bundesverfassungsgerichts vom 28. Mai 1993 (BGBl. I S. 820) steht einer Anerkennung auf Grund der §§ 8 und 9 dieses Gesetzes gleich.
+Die Anerkennung einer Beratungsstelle auf Grund II.4 der Entscheidungsformel des Urteils des Bundesverfassungsgerichts vom 28. Mai 1993 (BGBl. I S. 820) steht einer Anerkennung auf Grund des § 8 Absatz 1 und des § 9 dieses Gesetzes gleich.
 
 
 ## Abschnitt 3 - Vornahme von Schwangerschaftsabbrüchen
@@ -213,43 +242,48 @@ Die Anerkennung einer Beratungsstelle auf Grund II.4 der Entscheidungsformel des
 (2) Absatz 1 gilt nicht, wenn die Mitwirkung notwendig ist, um von der Frau eine anders nicht abwendbare Gefahr des Todes oder einer schweren Gesundheitsschädigung abzuwenden.
 
 
-### § 13 Einrichtungen zur Vornahme von Schwangerschaftsabbrüchen
+### § 13 Einrichtungen zur Vornahme von Schwangerschaftsabbrüchen; Belästigungsverbot
 
 (1) Ein Schwangerschaftsabbruch darf nur in einer Einrichtung vorgenommen werden, in der auch die notwendige Nachbehandlung gewährleistet ist.
 
-(2) Die Länder stellen ein ausreichendes Angebot ambulanter und stationärer Einrichtungen zur Vornahme von Schwangerschaftsabbrüchen sicher.
+(2) Die Länder stellen ein ausreichendes Angebot ambulanter und stationärer Einrichtungen zur Vornahme von Schwangerschaftsabbrüchen und den ungehinderten Zugang zu diesen sicher.
 
-(3) Die Bundesärztekammer führt für den Bund eine Liste der Ärztinnen und Ärzte sowie der Krankenhäuser und Einrichtungen, die ihr mitgeteilt haben, dass sie Schwangerschaftsabbrüche unter den Voraussetzungen des § 218a Absatz 1 bis 3 des Strafgesetzbuches durchführen, und darf die zu diesem Zwecke erhobenen personenbezogenen Daten verarbeiten. Die Liste enthält auch Angaben über die jeweils angewendeten Methoden zur Durchführung eines Schwangerschaftsabbruchs, soweit diese mitgeteilt werden. Die Bundesärztekammer aktualisiert die Liste monatlich auf der Grundlage der ihr mitgeteilten Informationen, veröffentlicht sie im Internet und stellt sie der Bundeszentrale für gesundheitliche Aufklärung, dem Bundesamt für Familie und zivilgesellschaftliche Aufgaben und den Ländern zur Verfügung.
+(3) Es ist untersagt, in einem Bereich von 100 Metern um den Eingangsbereich der Einrichtungen zur Vornahme von Schwangerschaftsabbrüchen in einer für die Schwangeren wahrnehmbaren Weise, die geeignet ist, den Zugang zu den Einrichtungen durch die Schwangere zu beeinträchtigen,
+
+1.  der Schwangeren das Betreten der Einrichtung durch das Bereiten eines Hindernisses absichtlich zu erschweren,
 
 
-### § 13a Informationen über einen Schwangerschaftsabbruch
+2.  der Schwangeren durch Ansprechen wissentlich eine Meinung zu ihrer Entscheidung über die Fortsetzung der Schwangerschaft aufzudrängen,
 
-(1) Die Bundeszentrale für gesundheitliche Aufklärung veröffentlicht die von der Bundesärztekammer nach § 13 Absatz 3 geführte Liste und weitere Informationen über einen Schwangerschaftsabbruch, der unter den Voraussetzungen des § 218a Absatz 1 bis 3 des Strafgesetzbuches vorgenommen wird.
 
-(2) Der bundesweite zentrale Notruf nach § 1 Absatz 5 Satz 1 erteilt Auskunft über die in der Liste nach § 13 Absatz 3 enthaltenen Angaben.
+3.  die Schwangere zu bedrängen, einzuschüchtern oder auf andere vergleichbare Weise erheblich unter Druck zu setzen, um sie in ihrer Entscheidung über die Fortsetzung der Schwangerschaft zu beeinflussen,
+
+
+4.  der Schwangeren Inhalte im Sinne des § 11 Absatz 3 des Strafgesetzbuches zu Schwangerschaft oder Schwangerschaftsabbruch zur unmittelbaren Wahrnehmung auszuhändigen, zu zeigen, zu Gehör zu bringen oder auf andere vergleichbare Weise zu übermitteln, wenn diese
+
+    a)  unwahre Tatsachenbehauptungen enthalten oder
+
+
+    b)  offensichtlich geeignet sind, bei einer Schwangeren eine erhebliche unmittelbare emotionale Reaktion wie insbesondere Furcht, Ekel, Scham oder ein Schuldgefühl auszulösen.
+
+
+
+
+
+
+
+(4) Es ist untersagt, das Personal der Einrichtungen zur Vornahme von Schwangerschaftsabbrüchen bei der Aufklärung über Schwangerschaftsabbrüche oder der Vornahme von Schwangerschaftsabbrüchen bewusst zu behindern.
+
+(5) Die Bundesärztekammer führt für den Bund eine Liste der Ärztinnen und Ärzte sowie der Krankenhäuser und Einrichtungen, die ihr mitgeteilt haben, dass sie Schwangerschaftsabbrüche unter den Voraussetzungen des § 218a Absatz 1 bis 3 des Strafgesetzbuches durchführen, und darf die zu diesem Zwecke erhobenen personenbezogenen Daten verarbeiten. Die Liste enthält auch Angaben über die jeweils angewendeten Methoden zur Durchführung eines Schwangerschaftsabbruchs, soweit diese mitgeteilt werden. Die Bundesärztekammer aktualisiert die Liste monatlich auf der Grundlage der ihr mitgeteilten Informationen, veröffentlicht sie im Internet und stellt sie der Bundeszentrale für gesundheitliche Aufklärung, dem Bundesamt für Familie und zivilgesellschaftliche Aufgaben und den Ländern zur Verfügung.
+
+
+### § 14 Informationen über einen Schwangerschaftsabbruch
+
+(1) Die Bundeszentrale für gesundheitliche Aufklärung veröffentlicht die von der Bundesärztekammer nach § 13 Absatz 5 geführte Liste und weitere Informationen über einen Schwangerschaftsabbruch, der unter den Voraussetzungen des § 218a Absatz 1 bis 3 des Strafgesetzbuches vorgenommen wird.
+
+(2) Der bundesweite zentrale Notruf nach § 1 Absatz 5 Satz 1 erteilt Auskunft über die in der Liste nach § 13 Absatz 5 enthaltenen Angaben.
 
 (3) Einrichtungen zur Vornahme von Schwangerschaftsabbrüchen, Krankenhäusern sowie Ärztinnen und Ärzten ist es gestattet, sachlich und berufsbezogen über die Durchführung eines Schwangerschaftsabbruchs, der unter den Voraussetzungen des § 218a Absatz 1 bis 3 des Strafgesetzbuches vorgenommen werden soll, zu informieren.
-
-
-### § 14 Bußgeldvorschriften
-
-(1) Ordnungswidrig handelt, wer
-
-1.  entgegen § 2a Absatz 1 oder Absatz 2 keine Beratung der Schwangeren vornimmt;
-
-
-2.  entgegen § 2a Absatz 2 Satz 2 die schriftliche Feststellung ausstellt;
-
-
-3.  entgegen § 13 Absatz 1 einen Schwangerschaftsabbruch vornimmt;
-
-
-4.  seiner Auskunftspflicht nach § 18 Absatz 1 nicht nachkommt.
-
-
-
-
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 
 ## Abschnitt 4 - Bundesstatistik über Schwangerschaftsabbrüche
@@ -271,7 +305,7 @@ Die Anerkennung einer Beratungsstelle auf Grund II.4 der Entscheidungsformel des
 2.  rechtliche Voraussetzungen des Schwangerschaftsabbruchs (Beratungsregelung oder nach Indikationsstellung),
 
 
-3.  Familienstand und Alter der Schwangeren sowie die Zahl ihrer Kinder,
+3.  Familienstand und Alter der Schwangeren sowie jeweils die Zahl ihrer lebend geborenen und der im Haushalt lebenden Kinder,
 
 
 4.  Dauer der abgebrochenen Schwangerschaft,
@@ -280,7 +314,7 @@ Die Anerkennung einer Beratungsstelle auf Grund II.4 der Entscheidungsformel des
 5.  Art des Eingriffs und beobachtete Komplikationen,
 
 
-6.  Bundesland, in dem der Schwangerschaftsabbruch vorgenommen wird, und Bundesland oder Staat im Ausland, in dem die Schwangere wohnt,
+6.  Land, in dem der Schwangerschaftsabbruch vorgenommen wird, und Land oder Staat im Ausland, in dem die Schwangere wohnt,
 
 
 7.  Vornahme in Arztpraxis oder Krankenhaus und im Falle der Vornahme des Eingriffs im Krankenhaus die Dauer des Krankenhausaufenthaltes.
@@ -289,14 +323,24 @@ Die Anerkennung einer Beratungsstelle auf Grund II.4 der Entscheidungsformel des
 
 Der Name der Schwangeren darf dabei nicht angegeben werden.
 
-(2) Die Angaben nach Absatz 1 sowie Fehlanzeigen sind dem Statistischen Bundesamt vierteljährlich zum jeweiligen Quartalsende mitzuteilen.
+(2) Das Statistische Bundesamt veröffentlicht die statistischen Ergebnisse nach Absatz 1
+
+1.  Vierteljährlich, aufbereitet nach Ländern und bundesweit,
+
+
+2.  Jährlich, aufbereitet nach Kreisen und kreisfreien Städten.
+
+
+
+
+(3) Das Statistische Bundesamt veröffentlicht jährlich eine Auswertung über die Zahl der Arztpraxen und Krankenhäuser insgesamt, die Angaben zu den in Absatz 1 Satz 1 genannten Merkmalen mitteilen (Meldestellen), gegliedert nach Größenklassen auf Ebene der Länder und des Bundes. Die Größenklassen werden anhand der Zahl der Schwangerschaftsabbrüche gebildet. Zusätzlich kann das Statistische Bundesamt die Zahl der auf Ebene der Kreise und kreisfreien Städte bestehenden Meldestellen veröffentlichen.
 
 
 ### § 17 Hilfsmerkmale
 
-Hilfsmerkmale der Erhebung sind:
+(1) Hilfsmerkmale der Erhebung sind:
 
-1.  Name und Anschrift der Einrichtung nach § 13 Abs. 1;
+1.  Name und Anschrift der Einrichtung nach § 13 Absatz 1;
 
 
 2.  Telefonnummer der für Rückfragen zur Verfügung stehenden Person.
@@ -304,22 +348,31 @@ Hilfsmerkmale der Erhebung sind:
 
 
 
+(2) Zum Zweck der Veröffentlichung nach § 16 Absatz 2 Nummer 2 und Absatz 3 Satz 3 dürfen die in Absatz 1 Nummer 1 genannten Anschriften für die Zuordnung zu Kreisen und kreisfreien Städten verwendet werden.
+
 
 ### § 18 Auskunftspflicht
 
-(1) Für die Erhebung besteht Auskunftspflicht. Auskunftspflichtig sind die Inhaber der Arztpraxen und die Leiter der Krankenhäuser, in denen innerhalb von zwei Jahren vor dem Quartalsende Schwangerschaftsabbrüche durchgeführt wurden.
+(1) Für die Erhebung besteht Auskunftspflicht. Die Inhaberinnen und Inhaber der Arztpraxen und die Leitungen der Krankenhäuser, in denen innerhalb von zwei Jahren vor dem Quartalsende Schwangerschaftsabbrüche durchgeführt wurden, haben die Angaben zu den Merkmalen nach § 16 Absatz 1 Satz 1 und § 17 Absatz 1 Nummer 1 sowie Fehlanzeigen dem Statistischen Bundesamt vierteljährlich zum jeweiligen Quartalsende mitzuteilen.
 
-(2) Die Angabe zu § 17 Nr. 2 ist freiwillig.
+(2) Die Angabe zu § 17 Absatz 1 Nummer 2 ist freiwillig.
 
 (3) Zur Durchführung der Erhebung übermitteln dem Statistischen Bundesamt auf dessen Anforderung
 
-1.  die Landesärztekammern die Anschriften der Ärztinnen und Ärzte, in deren Einrichtungen nach ihren Erkenntnissen Schwangerschaftsabbrüche vorgenommen worden sind oder vorgenommen werden sollen,
+1.  die Landesärztekammern die Anschriften der Einrichtungen der Ärztinnen und Ärzte, in denen nach ihren Erkenntnissen Schwangerschaftsabbrüche vorgenommen worden sind oder vorgenommen werden sollen,
 
 
-2.  die zuständigen Gesundheitsbehörden die Anschriften der Krankenhäuser, in denen nach ihren Erkenntnissen Schwangerschaftsabbrüche vorgenommen worden sind oder vorgenommen werden sollen.
+2.  die in den Ländern jeweils zuständigen Gesundheitsbehörden die Anschriften der Krankenhäuser sowie die Anschriften der Einrichtungen der Ärztinnen und Ärzte, in denen nach ihren Erkenntnissen Schwangerschaftsabbrüche vorgenommen worden sind oder vorgenommen werden sollen,
+
+
+3.  die Kassenärztlichen Vereinigungen die Anschriften der Einrichtungen der an der vertragsärztlichen Versorgung teilnehmenden Ärztinnen und Ärzte, in denen nach ihren Erkenntnissen Schwangerschaftsabbrüche vorgenommen worden sind oder vorgenommen werden sollen,
+
+
+4.  die Landeskrankenhausgesellschaften die Anschriften der Krankenhäuser, in denen nach ihren Erkenntnissen Schwangerschaftsabbrüche vorgenommen worden sind oder vorgenommen werden sollen.
 
 
 
+Die zuständigen obersten Landesbehörden teilen dem Statistischen Bundesamt die Anschriften der nach Satz 1 Nummer 2 zur Übermittlung verpflichteten Gesundheitsbehörden in ihrem Bereich mit.
 
 
 ## Abschnitt 5 - Hilfe für Frauen bei Schwangerschaftsabbrüchen in besonderen Fällen
@@ -479,14 +532,14 @@ Die in § 19 Absatz 2 genannten Beträge verändern sich um den Vomhundertsatz, 
 
 ### § 28 Beratungsstellen zur Betreuung der vertraulichen Geburt
 
-(1) Beratungsstellen nach den §§ 3 und 8 können die Beratung zur vertraulichen Geburt durchführen, wenn sie die Gewähr für eine ordnungsgemäße Durchführung des Verfahrens der vertraulichen Geburt nach den Bestimmungen dieses Abschnitts bieten sowie über hinreichend persönlich und fachlich qualifizierte Beratungsfachkräfte verfügen.
+(1) Beratungsstellen nach den §§ 3 und 8 Absatz 1 können die Beratung zur vertraulichen Geburt durchführen, wenn sie die Gewähr für eine ordnungsgemäße Durchführung des Verfahrens der vertraulichen Geburt nach den Bestimmungen dieses Abschnitts bieten sowie über hinreichend persönlich und fachlich qualifizierte Beratungsfachkräfte verfügen.
 
-(2) Um die Beratung zur vertraulichen Geburt wohnortnah durchzuführen, können die Beratungsstellen nach den §§ 3 und 8 eine Beratungsfachkraft nach Absatz 1 hinzuziehen.
+(2) Um die Beratung zur vertraulichen Geburt wohnortnah durchzuführen, können die Beratungsstellen nach den §§ 3 und 8 Absatz 1 eine Beratungsfachkraft nach Absatz 1 hinzuziehen.
 
 
 ### § 29 Beratung in Einrichtungen der Geburtshilfe oder bei Hausgeburten
 
-(1) Der Leiter oder die Leiterin einer Einrichtung der Geburtshilfe, die eine Schwangere ohne Feststellung ihrer Identität zur Entbindung aufnimmt, hat unverzüglich eine Beratungsstelle nach den §§ 3 und 8 im örtlichen Einzugsbereich über die Aufnahme zu informieren. Das Gleiche gilt für eine zur Leistung von Geburtshilfe berechtigte Person bei einer Hausgeburt.
+(1) Der Leiter oder die Leiterin einer Einrichtung der Geburtshilfe, die eine Schwangere ohne Feststellung ihrer Identität zur Entbindung aufnimmt, hat unverzüglich eine Beratungsstelle nach den §§ 3 und 8 Absatz 1 im örtlichen Einzugsbereich über die Aufnahme zu informieren. Das Gleiche gilt für eine zur Leistung von Geburtshilfe berechtigte Person bei einer Hausgeburt.
 
 (2) Die unterrichtete Beratungsstelle sorgt dafür, dass der Schwangeren die Beratung zur vertraulichen Geburt und deren Durchführung nach Maßgabe dieses Abschnitts unverzüglich von einer Beratungsfachkraft nach § 28 persönlich angeboten wird. Die Schwangere darf nicht zur Annahme der Beratung gedrängt werden.
 
@@ -504,7 +557,7 @@ Die in § 19 Absatz 2 genannten Beträge verändern sich um den Vomhundertsatz, 
 
 (1) Mit Vollendung des 16. Lebensjahres hat das vertraulich geborene Kind das Recht, den beim Bundesamt für Familie und zivilgesellschaftliche Aufgaben verwahrten Herkunftsnachweis einzusehen oder Kopien zu verlangen (Einsichtsrecht).
 
-(2) Die Mutter kann Belange, die dem Einsichtsrecht entgegenstehen, ab der Vollendung des 15. Lebensjahres des Kindes unter ihrem Pseudonym nach § 26 Absatz 1 Nummer 1 bei einer Beratungsstelle nach den §§ 3 und 8 erklären. Sie hat dabei die Angabe nach § 26 Absatz 3 Satz 2 Nummer 3 zu machen. Die Beratungsstelle zeigt der Mutter Hilfsangebote auf und erörtert mit ihr mögliche Maßnahmen zur Abwehr der befürchteten Gefahren. Sie hat die Mutter darüber zu informieren, dass das Kind sein Einsichtsrecht gerichtlich geltend machen kann.
+(2) Die Mutter kann Belange, die dem Einsichtsrecht entgegenstehen, ab der Vollendung des 15. Lebensjahres des Kindes unter ihrem Pseudonym nach § 26 Absatz 1 Nummer 1 bei einer Beratungsstelle nach den §§ 3 und 8 Absatz 1 erklären. Sie hat dabei die Angabe nach § 26 Absatz 3 Satz 2 Nummer 3 zu machen. Die Beratungsstelle zeigt der Mutter Hilfsangebote auf und erörtert mit ihr mögliche Maßnahmen zur Abwehr der befürchteten Gefahren. Sie hat die Mutter darüber zu informieren, dass das Kind sein Einsichtsrecht gerichtlich geltend machen kann.
 
 (3) Bleibt die Mutter bei ihrer Erklärung nach Absatz 2, so hat sie gegenüber der Beratungsstelle eine Person oder Stelle zu benennen, die für den Fall eines familiengerichtlichen Verfahrens die Rechte der Mutter im eigenen Namen geltend macht (Verfahrensstandschafter). Der Verfahrensstandschafter darf die Identität der Mutter nicht ohne deren Einwilligung offenbaren. Die Mutter ist von der Beratungsstelle darüber zu informieren, dass sie dafür zu sorgen hat, dass diese Person oder Stelle zur Übernahme der Verfahrensstandschaft bereit und für das Familiengericht erreichbar ist. Die Beratungsstelle unterrichtet das Bundesamt für Familie und zivilgesellschaftliche Aufgaben unverzüglich über die Erklärung der Mutter und ihre Angaben zur Person oder Stelle.
 
@@ -566,4 +619,56 @@ Die Anonymität der Schwangeren ist zu wahren.
 (4) Die Aufgaben nach den Absätzen 2 und 3 werden dem Bundesamt für Familie und zivilgesellschaftliche Aufgaben übertragen.
 
 (5) Das Standesamt teilt dem Bundesamt für Familie und zivilgesellschaftliche Aufgaben im Fall des Absatzes 3 Namen und Anschrift der Mutter sowie ihr Pseudonym mit.
+
+
+## Abschnitt 7 - Bußgeldvorschriften
+
+
+
+### § 35 Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer absichtlich entgegen § 8 Absatz 2 Nummer 1 oder § 13 Absatz 3 Nummer 1 das Betreten oder das Verlassen einer Beratungsstelle oder einer dort genannten Einrichtung erschwert.
+
+(2) Ordnungswidrig handelt, wer wissentlich
+
+1.  entgegen § 8 Absatz 2 Nummer 2 oder § 13 Absatz 3 Nummer 2 einer Schwangeren eine Meinung aufdrängt oder
+
+
+2.  entgegen § 8 Absatz 3 oder § 13 Absatz 4 Personal behindert.
+
+
+
+
+(3) Ordnungswidrig handelt, wer
+
+1.  entgegen § 2a Absatz 1 Satz 1 oder Absatz 2 Satz 1 eine Schwangere nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig berät,
+
+
+2.  entgegen § 2a Absatz 2 Satz 2 eine schriftliche Feststellung vornimmt,
+
+
+3.  entgegen § 8 Absatz 2 Nummer 3 oder § 13 Absatz 3 Nummer 3 eine Schwangere unter Druck setzt,
+
+
+4.  entgegen § 8 Absatz 2 Nummer 4 oder § 13 Absatz 3 Nummer 4 einen dort genannten Inhalt übermittelt,
+
+
+5.  entgegen § 13 Absatz 1 einen Schwangerschaftsabbruch vornimmt oder
+
+
+6.  entgegen § 18 Absatz 1 Satz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+
+
+
+
+(4) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
+
+
+## Abschnitt 8 - Schlussvorschrift
+
+
+
+### § 36 Einschränkung eines Grundrechts
+
+Durch die §§ 8 und 13 wird das Grundrecht der Versammlungsfreiheit (Artikel 8 des Grundgesetzes) eingeschränkt.
 

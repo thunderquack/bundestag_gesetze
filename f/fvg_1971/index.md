@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.4.2006 I 846, 1202;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 19.6.2024 I Nr. 205
-
-Änderung durch
-:   Art. 64 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 64 G v. 23.10.2024 I Nr. 323
 
 
 ## Abschnitt I - Allgemeine Vorschriften

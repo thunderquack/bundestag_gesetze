@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.4.2002 I 1376;
 
 Zuletzt geändert durch
-:   Art. 10 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 1 V v. 12.9.2024 I Nr. 283 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 12.9.2024 I Nr. 283
 
 
 ## Erster Abschnitt - Wahlorgane
@@ -2440,7 +2437,8 @@ Wahlbenachrichtigung
 
 ### Anlage 4 (zu § 19 Absatz 2)
 
-(Fundstelle: BGBl. I 2017, 596)
+(Fundstelle: BGBl. I 2017, 596;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Rückseite der Wahlbenachrichtigung
 
@@ -5356,7 +5354,8 @@ _\_\__\_\__\_\__\_\_\_\_
 
 ### Anlage 18 (zu § 34 Abs. 5 Nr. 3 Buchstabe a)
 
-(Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 31; bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 31;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## **Versicherung an Eides statt**
 
@@ -6867,7 +6866,8 @@ _\_\__\_\__\_\_
 
 ### Anlage 23 (zu § 39 Abs. 4 Nr. 3)
 
-(Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 39 - 40; bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 39 - 40;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Felder bitte ausfüllen oder ☒ ankreuzen
@@ -7246,7 +7246,8 @@ _\_\__\_\__\_\__\_\__\_\__\_\__
 
 ### Anlage 24 (zu § 39 Abs. 4 Nr. 3)
 
-(Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 41)
+(Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 41;
+bzgl. der einzelnen Änderungen vgl. Fußnote))
 
 ## **Versicherung an Eides statt**
 
@@ -7694,7 +7695,7 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\_
 
 ### Anlage 28 (zu § 71 Abs. 7 und § 75 Abs. 4)
 
-(Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 46 - 47
+(Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 46 - 47;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 [^BJNR017690985BJNE013805377_01_BJNR017690985BJNE013806126]

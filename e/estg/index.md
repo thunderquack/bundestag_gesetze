@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 8.10.2009 I 3366, 3862;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 23.10.2024 I Nr. 321
-
-Änderung durch
-:   Art. 33 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 33 G v. 23.10.2024 I Nr. 323
 
 
 ## I. - Steuerpflicht

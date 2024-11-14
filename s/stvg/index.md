@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.3.2003 I 310, 919;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 16.8.2024 I Nr. 266
-
-Änderung durch
-:   Art. 70 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 70 G v. 23.10.2024 I Nr. 323
 
 Entfristung durch
 :   Art. 1 G v. 3.12.2020 I 2667 ist berücksichtigt

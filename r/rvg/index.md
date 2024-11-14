@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.3.2022 I 610;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 16.7.2024 I Nr. 240
-
-Änderung durch
-:   Art. 2 G v. 24.10.2024 I Nr. 328 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 24.10.2024 I Nr. 328
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

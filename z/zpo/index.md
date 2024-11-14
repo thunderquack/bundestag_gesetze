@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 7.10.2024 I Nr. 302
-
-Änderung durch
-:   Art. 1 G v. 24.10.2024 I Nr. 328 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 24.10.2024 I Nr. 328
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war

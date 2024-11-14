@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.11.1975 I 2735;
 
 Zuletzt geändert durch
-:   Art. 7 G v. 22.10.2024 I Nr. 320
-
-Änderung durch
-:   Art. 32 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 32 G v. 23.10.2024 I Nr. 323
 
 
 ## Erster Teil - Vorschriften über die Hilfeleistung in Steuersachen
