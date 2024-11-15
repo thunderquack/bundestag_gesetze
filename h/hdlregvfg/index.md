@@ -240,7 +240,7 @@ Das Gericht hat dafür Sorge zu tragen, dass die gesetzlich vorgeschriebenen Ein
 
 (3) Absatz 2 gilt für die Anmeldung einer Zweigniederlassung und die Änderung der Lage ihrer Geschäftsräume entsprechend.
 
-(4) Es ist darauf hinzuwirken, daß bei den Anmeldungen auch der Unternehmensgegenstand, soweit er sich nicht aus der Firma ergibt, angegeben werden.
+(4) Es ist darauf hinzuwirken, daß bei den Anmeldungen auch der Unternehmensgegenstand, soweit er sich nicht aus der Firma ergibt, angegeben wird.
 
 
 ### § 25

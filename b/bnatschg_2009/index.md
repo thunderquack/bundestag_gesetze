@@ -823,20 +823,22 @@ wenn sie zur Erreichung des in Absatz 1 genannten Zieles geeignet sind.
 
 (1) Die Unterschutzstellung von Teilen von Natur und Landschaft erfolgt durch Erklärung. Die Erklärung bestimmt den Schutzgegenstand, den Schutzzweck, die zur Erreichung des Schutzzwecks notwendigen Gebote und Verbote, und, soweit erforderlich, die Pflege-, Entwicklungs- und Wiederherstellungsmaßnahmen oder enthält die erforderlichen Ermächtigungen hierzu. Schutzgebiete können in Zonen mit einem entsprechend dem jeweiligen Schutzzweck abgestuften Schutz gegliedert werden; hierbei kann auch die für den Schutz notwendige Umgebung einbezogen werden.
 
-(2) Soweit in den Absätzen 2a und 2b nichts Näheres bestimmt ist, richten sich Form und Verfahren der Unterschutzstellung, die Beachtlichkeit von Form- und Verfahrensfehlern und die Möglichkeit ihrer Behebung sowie die Fortgeltung bestehender Erklärungen zum geschützten Teil von Natur und Landschaft nach Landesrecht. Die Unterschutzstellung kann auch länderübergreifend erfolgen.
+(2) Soweit in den Absätzen 2a bis 2c, nichts Näheres bestimmt ist, richten sich Form und Verfahren der Unterschutzstellung, die Beachtlichkeit von Form- und Verfahrensfehlern und die Möglichkeit ihrer Behebung sowie die Fortgeltung bestehender Erklärungen zum geschützten Teil von Natur und Landschaft nach Landesrecht. Die Unterschutzstellung kann auch länderübergreifend erfolgen.
 
 (2a) Erklärungen zur Unterschutzstellung nach Absatz 1, die
 
 1.  durch Gesetz, Rechtsverordnung oder Satzung erfolgt sind und
 
 
-2.  mit Vorgaben der Richtlinie 2001/42/EG des Europäischen Parlaments und des Rates vom 27. Juni 2001 über die Prüfung der Umweltauswirkungen bestimmter Pläne und Programme (ABl. L 197 vom 21.7.2001, S. 30) unvereinbar sind, weil eine danach erforderliche Strategische Umweltprüfung nicht durchgeführt wurde,
+2.  mit Vorgaben der Richtlinie 2001/42/EG des Europäischen Parlaments und des Rates vom 27. Juni 2001 über die Prüfung der Umweltauswirkungen bestimmter Pläne und Programme (ABl. L 197 vom 21.7.2001, S. 30) ganz oder teilweise unvereinbar sind, weil eine danach erforderliche Strategische Umweltprüfung nicht durchgeführt wurde,
 
 
 
 gelten fort, wenn sich die Unvereinbarkeit mit diesen Vorgaben aus einer Entscheidung des Gerichtshofes der Europäischen Union ergibt und soweit und solange nach der Entscheidung eine Fortgeltung zulässig ist. Die zur Beseitigung der Unvereinbarkeit mit den Vorgaben der Richtlinie 2001/42/EG erforderlichen Handlungen müssen im Rahmen eines ergänzenden Verfahrens unverzüglich nachgeholt werden. Die Erklärung zur Unterschutzstellung muss, sofern sich infolge der nachgeholten Handlungen eine Erforderlichkeit dafür ergibt, angepasst werden. Für die Nachholung der erforderlichen Handlungen nach Satz 2 und Anpassungen nach Satz 3 gelten die Bestimmungen dieses Gesetzes sowie des Gesetzes über die Umweltverträglichkeitsprüfung oder entsprechender landesrechtlicher Vorschriften entsprechend. Der Zeitraum, innerhalb dessen die erforderlichen Handlungen nach Satz 2 und Anpassungen nach Satz 3 nachgeholt werden müssen, richtet sich nach der Entscheidung des Gerichtshofes der Europäischen Union und hat nur den Zeitraum zu umfassen, der zwingend notwendig ist, um Maßnahmen zu treffen, die die Beseitigung der Unvereinbarkeit mit den Vorgaben der Richtlinie 2001/42/EG ermöglichen. Sind die erforderlichen Handlungen nach Satz 2 und Anpassungen nach Satz 3 innerhalb der Frist nach Satz 5 nachgeholt, ist die Unvereinbarkeit mit den Vorgaben der Richtlinie 2001/42/EG geheilt. Sind die erforderlichen Handlungen nach Satz 2 und Anpassungen nach Satz 3 bei Ablauf der Frist nach Satz 5 nicht nachgeholt worden, tritt die Erklärung zur Unterschutzstellung außer Kraft.
 
 (2b) Absatz 2a findet auch Anwendung auf Erklärungen zur Unterschutzstellung nach der rahmenrechtlichen Vorschrift des § 22 Absatz 1 und 2 des Bundesnaturschutzgesetzes in der bis zum 28. Februar 2010 geltenden Fassung sowie nach ausfüllendem Landesrecht. Pläne zur Durchführung von Pflege-, Entwicklungs- und Wiederherstellungsmaßnahmen im Sinne des Absatzes 1 Satz 2 bleiben gültig.
+
+(2c) Die Absätze 2a und 2b gelten entsprechend für Erklärungen zur Unterschutzstellung, die mit den Vorgaben der Richtlinie 92/43/EWG unvereinbar sind, weil eine danach erforderliche Prüfung, Feststellung oder Maßnahme nicht durchgeführt wurde. Ist in den Fällen des Satzes 1 eine Fortgeltung des mit den Vorgaben des Rechts der Europäischen Union unvereinbaren Teiles der Erklärung zur Unterschutzstellung ausgeschlossen, finden insoweit die §§ 33 bis 36 Anwendung. Satz 2 gilt entsprechend, wenn die Erklärung zur Unterschutzstellung insgesamt unwirksam ist.
 
 (3) Teile von Natur und Landschaft, deren Schutz beabsichtigt ist, können für einen Zeitraum von bis zu zwei Jahren einstweilig sichergestellt werden, wenn zu befürchten ist, dass durch Veränderungen oder Störungen der beabsichtigte Schutzzweck gefährdet wird. Die einstweilige Sicherstellung kann unter den Voraussetzungen des Satzes 1 einmalig bis zu weiteren zwei Jahren verlängert werden. In dem einstweilig sichergestellten Teil von Natur und Landschaft sind Handlungen und Maßnahmen nach Maßgabe der Sicherstellungserklärung verboten, die geeignet sind, den Schutzgegenstand nachteilig zu verändern. Die einstweilige Sicherstellung ist ganz oder teilweise aufzuheben, wenn ihre Voraussetzungen nicht mehr oder nicht mehr in vollem Umfang gegeben sind. Absatz 2 gilt entsprechend.
 
@@ -1099,7 +1101,7 @@ Der Bund und die Länder erfüllen die sich aus den Richtlinien 92/43/EWG und 20
 
 (6) Die Auswahl und die Erklärung von Gebieten im Sinne des Absatzes 1 Satz 1 und des Absatzes 2 im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels zu geschützten Teilen von Natur und Landschaft im Sinne des § 20 Absatz 2 richten sich nach § 57.
 
-(7) Für Schutzerklärungen im Sinne der Absätze 2 und 3, für den Schutz nach anderen Rechtsvorschriften im Sinne von Absatz 4 sowie für Pläne im Sinne von Absatz 5 gilt § 22 Absatz 2a und 2b entsprechend. Dies gilt auch für Schutzerklärungen nach § 33 Absatz 2 bis 4 des Bundesnaturschutzgesetzes in der bis zum 28. Februar 2010 geltenden Fassung.
+(7) Für Schutzerklärungen im Sinne der Absätze 2 und 3, für den Schutz nach anderen Rechtsvorschriften im Sinne von Absatz 4 sowie für Pläne im Sinne von Absatz 5 gilt § 22 Absatz 2a bis 2c entsprechend. Dies gilt auch für Schutzerklärungen nach § 33 Absatz 2 bis 4 des Bundesnaturschutzgesetzes in der bis zum 28. Februar 2010 geltenden Fassung.
 
 
 #### § 33 Allgemeine Schutzvorschriften
@@ -2276,7 +2278,7 @@ Die Übernahme der Verantwortung erfolgt durch unbedingte schriftliche Vereinbar
 
 (1) Die Auswahl von geschützten Meeresgebieten im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels erfolgt durch das Bundesamt für Naturschutz unter Beteiligung der Behörden, deren Aufgabenbereich berührt ist, und unter Einbeziehung der Öffentlichkeit und mit Zustimmung des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit beteiligt die fachlich betroffenen Bundesministerien und stellt das Benehmen mit den angrenzenden Ländern her.
 
-(2) Die Erklärung der Meeresgebiete zu geschützten Teilen von Natur und Landschaft im Sinne des § 20 Absatz 2 erfolgt durch das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit unter Beteiligung der fachlich betroffenen Bundesministerien durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Für die Herstellung der Vereinbarkeit mit Vorgaben aus der Richtlinie 2001/42/EG sowie für die Fortgeltung bestehender Schutzerklärungen gilt § 22 Absatz 2a und 2b Satz 2.
+(2) Die Erklärung der Meeresgebiete zu geschützten Teilen von Natur und Landschaft im Sinne des § 20 Absatz 2 erfolgt durch das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit unter Beteiligung der fachlich betroffenen Bundesministerien durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Für die Herstellung der Vereinbarkeit mit Vorgaben aus der Richtlinie 2001/42/EG und der Richtlinie 92/43/EWG sowie für die Fortgeltung bestehender Schutzerklärungen gilt § 22 Absatz 2a und 2b Satz 2 sowie Absatz 2c.
 
 (3) Für die Erklärung der Meeresgebiete zu geschützten Teilen von Natur und Landschaft im Sinne des § 20 Absatz 2, einschließlich ihrer Auswahl, sind die folgenden Maßgaben zu beachten:
 
