@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 1089
 
 Zuletzt geändert durch
-:   Art. 13 G v. 11.12.2023 I Nr. 354
-
-Änderung durch
-:   Art. 18 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 18 G v. 23.10.2024 I Nr. 323
 
 
 ## Eingangsformel

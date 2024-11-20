@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 11.1.1995 I 34;
 
 Zuletzt geändert durch
-:   Art. 15 G v. 11.12.2023 I Nr. 354
-
-Änderung durch
-:   Art. 24 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 24 G v. 23.10.2024 I Nr. 323
 
 
 ## § 1 Allgemeine Vorschriften

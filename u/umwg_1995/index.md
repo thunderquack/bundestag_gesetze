@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 3210 (1995 I 428)
 
 Zuletzt geändert durch
-:   Art. 34 Abs. 16 G v. 22.12.2023 I Nr. 411
-
-Änderung durch
-:   Art. 17 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 34 Abs. 4 G v. 22.12.2023 I Nr. 411 ist berücksichtigt
+:   Art. 17 G v. 23.10.2024 I Nr. 323
 
 Dieses Gesetz dient, soweit es Regelungen über Umwandlungen unter Beteiligung von Aktiengesellschaften enthält, der Umsetzung folgender Richtlinien der Europäischen Gemeinschaft:
 

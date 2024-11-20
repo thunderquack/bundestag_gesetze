@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 2513
 
-Geändert durch
-:   Art. 1 G v. 18.8.2021 I 3905
-
-Änderung durch
-:   Art. 1 G v. 15.7.2024 I Nr. 235 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 G v. 15.7.2024 I Nr. 235
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

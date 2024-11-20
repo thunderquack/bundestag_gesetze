@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 1273
 
 Zuletzt geändert durch
-:   Art. 25 G v. 23.6.2021 I 1858
-
-Änderung durch
-:   Art. 28 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 28 G v. 23.10.2024 I Nr. 323
 
 
 ## Teil 1 - Urheberrecht

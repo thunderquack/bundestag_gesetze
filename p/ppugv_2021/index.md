@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2020, 2357
 
 Zuletzt geändert durch
-:   Art. 8z5 G v. 12.12.2023 I Nr. 359
-
-Änderung durch
-:   Art. 1 V v. 4.11.2024 I Nr. 345 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 4.11.2024 I Nr. 345
 
 Stand: Ersetzt V 860-5-54 v. 28.10.2019 I 1492 (PpUGV 2019)
 

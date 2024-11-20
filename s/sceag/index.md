@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 1911
 
 Zuletzt geändert durch
-:   Art. 10 G v. 22.2.2023 I Nr. 51
-
-Änderung durch
-:   Art. 23 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 23 G v. 23.10.2024 I Nr. 323
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

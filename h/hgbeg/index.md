@@ -16,10 +16,7 @@ Fundstelle
 :   RGBl: 1897, 437
 
 Zuletzt geändert durch
-:   Art. 12 G v. 12.7.2024 I Nr. 234
-
-Änderung durch
-:   Art. 2 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 23.10.2024 I Nr. 323
 
 
 ## Erster Abschnitt - Einführung des Handelsgesetzbuchs
