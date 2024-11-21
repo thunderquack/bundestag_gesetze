@@ -19,6 +19,9 @@ Zuletzt geändert durch
 :   Art. 2 V v. 14.12.2023 I Nr. 370
 
 Änderung durch
+:   Art. 1 V v. 21.10.2024 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
 :   Art. 11b G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 

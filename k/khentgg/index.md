@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1412, 1422
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.3.2024 I Nr. 105
-
-Änderung durch
-:   Art. 6a G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6a G v. 23.10.2024 I Nr. 324
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

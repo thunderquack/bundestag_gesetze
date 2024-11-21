@@ -16,7 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 3003; 2022, 2262
 
-Stand: Gem. § 36 Abs. 2 iVm Nr. 2 Bek. v. 5.12.2022 I 2262 tritt dieses G im Übrigen am 22.11.2022 in Kraft
+Änderung durch
+:   Art. 1a G v. 18.11.2024 I Nr. 356 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Stand: Gem. § 36 Abs. 2 dieses G iVm Nr. 2 Bek. v. 5.12.2022 I 2262 tritt dieses G im Übrigen am 22.11.2022 in Kraft
 
 ## Eingangsformel
 
@@ -28,7 +31,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 ### § 1 Anwendungsbereich
 
-Dieses Gesetz dient der Durchführung der Rechtsvorschriften über Direktzahlungen gemäß § 1 Absatz 1a des Marktorganisationsgesetzes in dem Rechtsakt der Europäischen Union, durch den die Verordnung (EU) Nr. 1307/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 mit Vorschriften über Direktzahlungen an Inhaber landwirtschaftlicher Betriebe im Rahmen von Stützungsregelungen der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EG) Nr. 637/2008 des Rates und der Verordnung (EG) Nr. 73/2009 des Rates (ABl. L 347 vom 20.12.2013, S. 608) aufgehoben wird, in der jeweils geltenden Fassung sowie in den im Rahmen dieses Rechtsakts und zu seiner Durchführung erlassenen weiteren Rechtsakte der Europäischen Union (Unionsregelung).
+(1) Dieses Gesetz dient der Durchführung der Regelungen zu den Direktzahlungen in der Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnung (EU) Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021, S. 1; L 181 vom 7.7.2022, S. 35; L 227 vom 1.9.2022, S. 137) in der jeweils geltenden Fassung sowie den im Rahmen dieses Rechtsakts und zu seiner Durchführung erlassenen weiteren Rechtsakte der Europäischen Union (Unionsregelung).
 
 
 ### § 2 Anwendbare Rechtsvorschriften
@@ -91,6 +94,12 @@ Sieht die Unionsregelung vor, dass Direktzahlungen nur aktiven oder echten Betri
 
 (1) Die indikative Mittelzuweisung für die Einkommensgrundstützung für jedes Antragsjahr ist der Betrag, der sich ergibt, wenn von der einschlägigen Zuweisung die anderen in diesem Gesetz geregelten indikativen Mittelzuweisungen und die Mittel für Öko-Regelungen für das jeweilige Jahr abgezogen wurden.
 
+(1a) Abweichend von Absatz 1 ist ab dem Antragsjahr 2026 die indikative Mittelzuweisung für die Einkommensgrundstützung für jedes Antragsjahr der Betrag, der sich ergibt, wenn der Betrag der gemäß Satz 2 berechneten vorläufigen indikativen Mittelzuweisung für die Einkommensgrundstützung für das Jahr 2026 mit dem Faktor nach Absatz 1b Satz 1 und für das Jahr 2027 mit dem Faktor nach Absatz 1b Satz 2 multipliziert wird. Die vorläufige indikative Mittelzuweisung für die Einkommensgrundstützung ist ab dem Antragsjahr 2026 der Betrag, der sich ergibt, wenn von der einschlägigen Zuweisung die anderen in diesem Gesetz geregelten indikativen Mittelzuweisungen und die Mittel für Öko-Regelungen, diese mit Ausnahme des Betrags nach § 19 Absatz 1 Satz 2, für das jeweilige Jahr abgezogen wurden.
+
+(1b) Der für die Berechnung nach Absatz 1a anzuwendende Faktor für das Jahr 2026 ist die Zahl, die sich aus der Division der Zahl der nach Absatz 1c Satz 1 mitgeteilten Hektare durch die Zahl der nach § 6 Absatz 2 mitgeteilten Zahlungsansprüche ergibt, jedoch höchstens die Zahl 1. Der für die Berechnung nach Absatz 1a anzuwendende Faktor für das Jahr 2027 ist die Zahl, die sich aus der Division der Zahl der nach Absatz 1c Satz 2 mitgeteilten Hektare durch die Zahl der nach § 6 Absatz 2 mitgeteilten Zahlungsansprüche ergibt, jedoch höchstens die Zahl 1.
+
+(1c) Die Länder teilen dem Bundesministerium für Ernährung und Landwirtschaft bis zum 16. Juni 2025 die Zahl der Hektare mit, für die bis zum 31. Mai 2025 für das Antragsjahr 2025 die Einkommensgrundstützung beantragt worden ist. Die Länder teilen dem Bundesministerium für Ernährung und Landwirtschaft bis zum 16. Juni 2026 die Zahl der Hektare mit, für die bis zum 31. Mai 2026 für das Antragsjahr 2026 die Einkommensgrundstützung beantragt worden ist.
+
 (2) Die einschlägige Zuweisung ist die in der Unionsregelung für Deutschland enthaltene anfänglich festgesetzte Mittelzuweisung für Direktzahlungen, die nach der Übertragung von Mitteln nach § 3 für das jeweilige Jahr verbleibt (einschlägige Zuweisung).
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft berechnet die indikative Mittelzuweisung für die Einkommensgrundstützung, die sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt.
@@ -101,6 +110,10 @@ Sieht die Unionsregelung vor, dass Direktzahlungen nur aktiven oder echten Betri
 #### § 6 Geplanter Einheitsbetrag für die Einkommensgrundstützung
 
 (1) Der geplante Einheitsbetrag je Hektar für die Einkommensgrundstützung ist der Betrag, der sich ergibt, wenn der Betrag der indikativen Mittelzuweisung nach § 5 Absatz 1 durch die Zahl der mit Gültigkeit zum Antragsschlusstermin des Jahres 2020 bestehenden Zahlungsansprüche für die Basisprämie nach der Verordnung (EU) Nr. 1307/2013 geteilt wird.
+
+(1a) Abweichend von Absatz 1 ist der geplante Einheitsbetrag je Hektar für die Einkommensgrundstützung für das Antragsjahr 2026 der Betrag, der sich ergibt, wenn der Betrag der indikativen Mittelzuweisung nach § 5 Absatz 1a für das Jahr 2026 durch die nach § 5 Absatz 1c Satz 1 mitgeteilte Zahl der Hektare geteilt wird.
+
+(1b) Abweichend von Absatz 1 ist der geplante Einheitsbetrag je Hektar für die Einkommensgrundstützung für das Antragsjahr 2027 der Betrag, der sich ergibt, wenn der Betrag der indikativen Mittelzuweisung nach § 5 Absatz 1a für das Jahr 2027 durch die nach § 5 Absatz 1c Satz 2 mitgeteilte Zahl der Hektare geteilt wird.
 
 (2) Die Länder teilen dem Bundesministerium für Ernährung und Landwirtschaft die Zahl der mit Gültigkeit zum Antragsschlusstermin des Jahres 2020 bestehenden Zahlungsansprüche für die Basisprämie nach der Verordnung (EU) Nr. 1307/2013 mit.
 
@@ -244,7 +257,7 @@ Ein Betriebsinhaber erhält jährlich auf Antrag eine Unterstützung für die fr
 
 #### § 19 Mittel für Öko-Regelungen
 
-(1) Die indikativen Mittel für die Öko-Regelungen für jedes der Jahre 2023 und 2024 sowie die Mittel für die Öko-Regelungen für jedes der Jahre 2025 bis 2027 sind jeweils der Betrag, der 25 Prozent des Betrags entspricht, der nach der Unionsregelung der Festsetzung der Zuweisung von Mitteln für Öko-Regelungen zugrunde zu legen ist.
+(1) Die indikativen Mittel für die Öko-Regelungen für jedes der Jahre 2023 und 2024 sowie die Mittel für die Öko-Regelungen für jedes der Jahre 2025 bis 2027 sind jeweils der Betrag, der 25 Prozent des Betrags entspricht, der nach der Unionsregelung der Festsetzung der Zuweisung von Mitteln für Öko-Regelungen zugrunde zu legen ist. Für jedes der Jahre 2026 und 2027 wird der Betrag nach Satz 1 um den Betrag erhöht, der sich ergibt, wenn der Betrag der indikativen Mittelzuweisung für die Einkommensgrundstützung für das jeweilige Jahr von dem Betrag der vorläufigen indikativen Mittelzuweisung für die Einkommensgrundstützung für das jeweilige Jahr abgezogen wird. Die Beträge nach Satz 2 sind für eine sich nach Artikel 97 Absatz 6 oder 7 der Verordnung (EU) 2021/2115 erforderliche Aufstockung der Mittel für Öko-Regelungen für die Jahre 2023 und 2024 zu verwenden.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft berechnet den Betrag nach Absatz 1, der sich für jedes Antragsjahr, beginnend mit dem Jahr 2023, ergibt.
 
@@ -305,7 +318,7 @@ Ein Betriebsinhaber erhält jährlich auf Antrag eine Unterstützung für die fr
 
 
 
-(3) Abweichend von § 2 Satz 2 können in einer Rechtsverordnung auf Grund der in § 2 Satz 1 Nummer 1 bezeichneten Vorschriften im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit unter Beachtung des § 19 weitere Öko-Regelungen geregelt werden.
+(3) Abweichend von § 2 Satz 2 können in einer Rechtsverordnung auf Grund der in § 2 Satz 1 Nummer 1 bezeichneten Vorschriften im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit unter Beachtung des § 19 weitere Öko-Regelungen geregelt werden. Die Mittel nach § 19 Absatz 1 Satz 2 sind vorrangig für weitere Öko-Regelungen für Weidehaltung in milchviehhaltenden Betrieben und zur innerbetrieblichen Verteilung von landwirtschaftlichen Flächen, die zur Verbesserung der Biodiversität bereitgestellt werden, zu verwenden.
 
 (4) Das Bundesministerium für Ernährung und Landwirtschaft überprüft und evaluiert bis zum 31. Dezember 2024 die in diesem Gesetz vorgesehenen Instrumente zur Förderung von Umwelt, Klima und Tierwohl.
 
@@ -496,9 +509,7 @@ Bei der Regelung von Begriffsbestimmungen nach Satz 1 ist anzugeben, dass es sic
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Erledigung von Aufgaben, für die nach diesem Gesetz das Bundesministerium für Ernährung und Landwirtschaft zuständig ist, auf die Bundesanstalt für Landwirtschaft und Ernährung zu übertragen.
 
 
-### § 36 Inkrafttreten
+### § 36 Anwendungsbestimmung
 
-(1) Die §§ 1 und 2, § 5 Absatz 3, § 6 Absatz 2 und 3, § 9 Absatz 2, § 10 Absatz 4 und 5, § 15 Absatz 3 und 4, § 19 Absatz 2, § 20 Absatz 2 und 3, § 23 Absatz 2, § 24, § 27 Absatz 2, § 28, § 31 Absatz 2, § 33 Absatz 1 sowie die §§ 34 und 35 treten am Tag nach der Verkündung in Kraft.
-
-(2) Im Übrigen tritt dieses Gesetz an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland gefasst hat. Das Bundesministerium für Ernährung und Landwirtschaft gibt den Tag des Inkrafttretens dieses Gesetzes im Bundesgesetzblatt bekannt.
+Die Anwendung des § 5 Absatz 1a bis 1c, des § 6 Absatz 1a und 1b und des § 19 Absatz 1 Satz 2 steht für jedes der Jahre 2026 und 2027 unter dem Vorbehalt, dass die Europäische Kommission vor Beginn des jeweiligen Jahres den Durchführungsbeschluss mit der Genehmigung der Änderung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland der Bundesrepublik Deutschland bekanntgegeben hat, dem der Änderungsantrag zugrunde liegt, der diese Regelungen umfasst. Das Bundesministerium für Ernährung und Landwirtschaft gibt den Tag, an dem die Europäische Kommission diese Genehmigung bekanntgegeben hat, im Bundesgesetzblatt bekannt.
 

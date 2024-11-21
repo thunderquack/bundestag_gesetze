@@ -16,7 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2996; 2022, 2262
 
-Stand: Gem. § 24 Abs. 2 iVm Nr 1 Bek. v. 5.12.2022 I 2262 ist dieses G im Übrigen am 22.11.2022 in Kraft getreten
+Änderung durch
+:   Art. 1 G v. 18.11.2024 I Nr. 356 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Stand: Gem. § 24 Abs. 2 dieses G iVm Nr. 1 Bek. v. 5.12.2022 I 2262 ist dieses G im Übrigen am 22.11.2022 in Kraft getreten
 
 ## Eingangsformel
 
@@ -28,23 +31,21 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 ### § 1 Anwendungsbereich
 
-(1) Dieses Gesetz dient der Durchführung der Rechtsakte der Europäischen Union über die Grundanforderungen an die Betriebsführung (GAB) und über die Standards für die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand (GLÖZ) sowie die im Rahmen dieser Rechtsakte und zu ihrer Durchführung erlassenen weiteren Rechtsakte der Europäischen Union in der jeweils geltenden Fassung, die die folgenden Verordnungen und die im Rahmen dieser Verordnungen und zu ihrer Durchführung erlassenen Rechtsakte aufheben:
+(1) Dieses Gesetz dient der Durchführung
 
-1.  Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 mit Vorschriften über die Finanzierung, die Verwaltung und das Kontrollsystem der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnungen (EWG) Nr. 352/78, (EG) Nr. 165/94, (EG) Nr. 2799/98, (EG) Nr. 814/2000, (EG) Nr. 1290/2005 und (EG) Nr. 485/2008 des Rates (ABl. L 347 vom 20.12.2013, S. 549; L 130 vom 19.5.2016, S. 9; L 327 vom 9.12.2017, S. 83), die zuletzt durch die Verordnung (EU) 2020/2220 (ABl. L 437 vom 28.12.2020, S. 1) geändert worden ist,
-
-
-2.  Verordnung (EU) Nr. 1307/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 mit Vorschriften über Direktzahlungen an Inhaber landwirtschaftlicher Betriebe im Rahmen von Stützungsregelungen der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EG)
-    Nr. 637/2008                    des Rates und der Verordnung (EG)
-    Nr. 73/ 2009                    des Rates (ABl. L 347 vom 20.12.2013, S. 608),
+1.  des Titels III Kapitel I Abschnitt 2 und 3 der Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnung (EU) Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021, S. 1; L 181 vom 7.7.2022, S. 35; L 227 vom 1.9.2022, S. 137) in der jeweils geltenden Fassung,
 
 
-3.  Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487).
+2.  des Titels IV Kapitel IV und V der Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 über die Finanzierung, Verwaltung und Überwachung der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EU) Nr. 1306/2013 (ABl. L 435 vom 6.12.2021, S. 187; L 29 vom 10.2.2022, S. 45) in der jeweils geltenden Fassung und
+
+
+3.  der im Rahmen dieser Rechtsakte und zu ihrer Durchführung erlassenen weiteren Rechtsakte der Europäischen Union in der jeweils geltenden Fassung.
 
 
 
 Die in Satz 1 genannten Rechtsvorschriften der Europäischen Union werden im Folgenden als Unionsregelung bezeichnet.
 
-(2) Im Hinblick auf die Zahlungen im Rahmen der Maßnahmen zur ländlichen Entwicklung nach der Unionsregelung gilt dieses Gesetz nur, soweit ein Land die jeweilige Zahlung gewährt.
+(2) Im Hinblick auf die Zahlungen im Rahmen der Maßnahmen zur Entwicklung des ländlichen Raums nach der Verordnung (EU) 2021/2115 gilt dieses Gesetz nur, soweit ein Land die jeweilige Zahlung gewährt.
 
 
 ### § 2 Anwendbare Rechtsvorschriften
@@ -63,21 +64,24 @@ Dieses Gesetz ist ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4 des Marktorgani
 
 
 
-### § 3 Grundanforderungen an die Betriebsführung, Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand
+### § 3 Grundanforderungen an die Betriebsführung, Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand sowie Vorschriften der sozialen Konditionalität
 
-(1) Betriebsinhaber und andere Begünstigte (Begünstigte) sind verpflichtet
+(1) Betriebsinhaber und andere Begünstigte (Begünstigte) sind verpflichtet,
 
-1.  ihren Betrieb nach den in der Unionsregelung bezeichneten GAB zu führen und
+1.  ihren Betrieb nach den in der Unionsregelung bezeichneten Grundanforderungen an die Betriebsführung (GAB) zu führen,
 
 
-2.  nach Maßgabe der in Kapitel 2 enthaltenen Verpflichtungen und nach Maßgabe der Rechtsverordnungen nach den §§ 9, 12 und 23 Maßnahmen zu ergreifen, um die in der Unionsregelung bezeichneten GLÖZ-Standards einzuhalten.
+2.  nach Maßgabe der in Kapitel 2 enthaltenen Verpflichtungen und nach Maßgabe der Rechtsverordnungen nach den §§ 9, 12 und 26 Maßnahmen zu ergreifen, um die in der Unionsregelung bezeichneten Standards für die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand (GLÖZ-Standards) einzuhalten und
+
+
+3.  ihren Betrieb nach den zur Umsetzung der in der Unionsregelung bezeichneten Anforderungen bezüglich geltender Arbeits- und Beschäftigungsbedingungen oder Arbeitgeberverpflichtungen erlassenen Regelungen (Vorschriften der sozialen Konditionalität), die in einer nach § 26 Absatz 6 Nummer 1 zu erlassenden Rechtsverordnung zu benennen sind, zu führen.
 
 
 
 
 (2) Die zuständige Behörde übermittelt dem Begünstigten die nach der Unionsregelung notwendigen Informationen zu den ihn betreffenden Verpflichtungen.
 
-(3) Die für die Überwachung der Einhaltung der in Absatz 1 bezeichneten Verpflichtungen zuständigen Behörden (Fachüberwachungsbehörden) können Ausnahmen von den Verpflichtungen nach Absatz 1 genehmigen:
+(3) Die für die Überwachung der Einhaltung der in Absatz 1 Nummer 1 und 2 bezeichneten Verpflichtungen zuständigen Behörden (Fachüberwachungsbehörden) können Ausnahmen von den Verpflichtungen nach Absatz 1 Nummer 1 und 2 genehmigen:
 
 1.  aus Gründen des Umwelt- und Naturschutzes,
 
@@ -103,7 +107,9 @@ Dieses Gesetz ist ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4 des Marktorgani
 
 Ausnahmen im Sinne des Satzes 1 Nummer 3 bis 7 dürfen nicht gewährt werden, sofern Belange des Umwelt-, des Natur- oder des Klimaschutzes entgegenstehen.
 
-(4) Ein Begünstigter ist von der Einhaltung der Verpflichtungen nach Absatz 1 insoweit hinsichtlich einzelner landwirtschaftlicher Flächen befreit, als ihm das Einhalten der Verpflichtungen auf Grund einer behördlichen Anordnung im Rahmen eines Verwaltungsverfahrens oder eines behördlichen Planungsverfahrens nicht möglich ist.
+(4) Ein Begünstigter ist von der Einhaltung der Verpflichtungen nach Absatz 1 Nummer 1 und 2 insoweit hinsichtlich einzelner landwirtschaftlicher Flächen befreit, als ihm das Einhalten der Verpflichtungen auf Grund einer behördlichen Anordnung im Rahmen eines Verwaltungsverfahrens oder eines behördlichen Planungsverfahrens nicht möglich ist.
+
+(5) Sofern Begünstigte aufgrund von Witterungsbedingungen Verpflichtungen nach § 3 Absatz 1 Nummer 2 im Antragsjahr nicht erfüllen können, können die zuständigen Behörden Ausnahmen zulassen. Die Ausnahmen sind auf Begünstigte oder Gebiete zu beschränken, die von den Witterungsbedingungen betroffen sind, und nicht länger zuzulassen als unbedingt erforderlich. Durch eine Rechtsverordnung nach § 26 Absatz 1 Nummer 2 können Vorschriften über das zugehörige Verfahren erlassen werden.
 
 
 ## Kapitel 2 - GLÖZ-Standards
@@ -116,7 +122,7 @@ Ausnahmen im Sinne des Satzes 1 Nummer 3 bis 7 dürfen nicht gewährt werden, so
 
 (1) Die Erhaltung des Anteils des Dauergrünlands an der gesamten landwirtschaftlichen Fläche (Dauergrünlandanteil) nach dem in der Unionsregelung bezeichneten Standard zur Erhaltung von Dauergrünland wird nach Maßgabe dieses Abschnitts und nach Maßgabe einer Rechtsverordnung auf Grund des § 9 auf regionaler Ebene sichergestellt.
 
-(2) Region im Sinne des Absatzes 1 ist das Land. Abweichend von Satz 1 bilden die Länder, die Direktzahlungen nach der Unionsregelung über eine gemeinsame Zahlstelle durchführen, jeweils eine Region.
+(2) Region im Sinne des Absatzes 1 ist das Land. Abweichend von Satz 1 bilden die Länder, die Direktzahlungen nach dem GAP-Direktzahlungen-Gesetz über eine gemeinsame Zahlstelle durchführen, jeweils eine Region.
 
 
 #### § 5 Genehmigungspflicht für Umwandlungen
@@ -129,10 +135,11 @@ Ausnahmen im Sinne des Satzes 1 Nummer 3 bis 7 dürfen nicht gewährt werden, so
 2.  im Fall von anderem Dauergrünland als dem in Nummer 1 genannten, das ab dem 1. Januar 2015 neu entstanden ist,
 
 
-3.  im Fall von anderem Dauergrünland als dem in den Nummern 1 und 2 genannten, wenn in derselben Region nach § 4 Absatz 2 eine Fläche mit der entsprechenden Hektarzahl als Dauergrünland neu angelegt wird.
+3.  im Fall von anderem Dauergrünland als dem in den Nummern 1 und 2 genannten, wenn in derselben Region nach § 4 Absatz 2 eine Fläche mit der entsprechenden Hektarzahl als Dauergrünland neu angelegt wird. Das Überführen in eine nichtlandwirtschaftliche Fläche ist genehmigungsfrei.
 
 
 
+Das Überführen in eine nichtlandwirtschaftliche Fläche ist genehmigungsfrei.
 
 (2) Abweichend von Absatz 1 Satz 2 Nummer 2 ist Dauergrünland, das auf Grund folgender Vorschriften angelegt wurde, Dauergrünland im Sinne von Absatz 1 Satz 2 Nummer 3:
 
@@ -144,9 +151,7 @@ Ausnahmen im Sinne des Satzes 1 Nummer 3 bis 7 dürfen nicht gewährt werden, so
 
 
 
-(3) Abweichend von Absatz 1 Satz 2 Nummer 3 wird die Genehmigung ohne Pflicht zur Neuanlage von Dauergrünland erteilt, wenn die Nutzung der Fläche derart geändert werden soll, dass die Fläche keine landwirtschaftliche Fläche mehr ist.
-
-(4) Eine Genehmigung nach Absatz 1, auch in Verbindung mit Absatz 3, wird nicht erteilt, wenn
+(3) Eine Genehmigung nach Absatz 1 wird nicht erteilt, wenn
 
 1.  andere Rechtsvorschriften einer Umwandlung entgegenstehen,
 
@@ -159,7 +164,7 @@ Ausnahmen im Sinne des Satzes 1 Nummer 3 bis 7 dürfen nicht gewährt werden, so
 
 
 
-(5) Eine Genehmigung nach Absatz 1 wird ferner nicht erteilt, wenn das Dauergrünland ein Grünlandlebensraumtyp des Anhangs I der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie 2013/17/EU (ABl. L 158 vom 10.6.2013, S. 193) geändert worden ist, außerhalb der Gebiete ist, die in die Liste nach Artikel 4 Absatz 2 Unterabsatz 3 der Richtlinie 92/43/EWG eingetragen sind. § 12 Absatz 3, 6 und 7 findet auf Dauergrünland nach Satz 1 entsprechende Anwendung.
+(4) Eine Genehmigung nach Absatz 1 wird ferner nicht erteilt, wenn das Dauergrünland ein Grünlandlebensraumtyp des Anhangs I der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie 2013/17/EU (ABl. L 158 vom 10.6.2013, S. 193) geändert worden ist, außerhalb der Gebiete ist, die in die Liste nach Artikel 4 Absatz 2 Unterabsatz 3 der Richtlinie 92/43/EWG eingetragen sind. § 12 Absatz 3 findet auf Dauergrünland nach Satz 1 entsprechende Anwendung.
 
 
 #### § 6 Umwandlung von Dauergrünland ohne Genehmigungsvorbehalt
@@ -276,11 +281,11 @@ Rechtsverordnungen nach Satz 1 können insbesondere Vorschriften umfassen über
 ### Abschnitt 2 - Weitere GLÖZ-Standards
 
 
-#### § 10 Mindestschutz von Feuchtgebieten und Mooren
+#### § 10 Mindestschutz für Feuchtgebiete und Moore
 
-(1) Dauergrünland in den in der Rechtsverordnung nach § 23 Absatz 1 Nummer 2 bezeichneten Feuchtgebieten und Mooren darf nicht umgewandelt oder gepflügt werden. Dauerkulturen in den gemäß Satz 1 bezeichneten Feuchtgebieten und Mooren dürfen nicht in Ackerland umgewandelt werden.
+(1) Dauergrünland in den in einer Rechtsverordnung nach § 26 Absatz 1 Nummer 2 bezeichneten Feuchtgebieten und Mooren darf nicht umgewandelt oder gepflügt werden. Satz 1 gilt nicht beim Überführen in eine nichtlandwirtschaftliche Fläche. Obstbaum-Dauerkulturen in den in einer Rechtsverordnung nach § 26 Absatz 1 Nummer 2 bezeichneten Feuchtgebieten und Mooren dürfen nicht in Ackerland umgewandelt werden.
 
-(2) Auf landwirtschaftlichen Flächen in den in einer Rechtsverordnung nach § 23 Absatz 1 Nummer 2 bezeichneten Feuchtgebieten und Mooren dürfen keine Veränderungen vorgenommen werden durch
+(2) Auf landwirtschaftlichen Flächen in den in einer Rechtsverordnung nach § 26 Absatz 1 Nummer 2 bezeichneten Feuchtgebieten und Mooren dürfen keine Veränderungen vorgenommen werden durch
 
 1.  einen Eingriff in das Bodenprofil mit schweren Baumaschinen,
 
@@ -292,6 +297,8 @@ Rechtsverordnungen nach Satz 1 können insbesondere Vorschriften umfassen über
 
 
 
+
+(3) Durch eine Rechtsverordnung nach § 26 Absatz 1 Nummer 2 können weitere Ausnahmen von dem Verbot in Absatz 1 Satz 1 und Ausnahmen von den Verboten in Absatz 1 Satz 3 und Absatz 2 zugelassen werden, insbesondere um den Anbau in Paludikultur zu ermöglichen oder, sofern in Übereinstimmung mit den Grundsätzen der guten fachlichen Praxis Neuansaat, Neuanpflanzungen oder Rodungen notwendig werden, weitergehende Bodenbearbeitungen zu ermöglichen.
 
 
 #### § 11 Mindestanteil von Ackerland an nichtproduktiven Flächen
@@ -340,7 +347,7 @@ Rechtsverordnungen nach Satz 1 können insbesondere Vorschriften umfassen über
 
 
 
-(3) Umweltsensibles Dauergrünland gemäß Absatz 1 darf nicht umgewandelt oder gepflügt werden.
+(3) Umweltsensibles Dauergrünland gemäß Absatz 1 darf nicht umgewandelt oder gepflügt werden. Satz 1 gilt nicht beim Überführen in eine nichtlandwirtschaftliche Fläche.
 
 (4) § 5 Absatz 1 sowie die §§ 6 und 7 gelten nicht für umweltsensibles Dauergrünland nach Absatz 1.
 
@@ -367,34 +374,7 @@ Rechtsverordnungen nach Satz 1 können insbesondere Vorschriften umfassen über
 
 Bestimmungen gemäß Satz 1 Nummer 2 bis 6 dürfen nicht erfolgen, soweit Belange des Umwelt-, des Natur- oder des Klimaschutzes entgegenstehen.
 
-(6) Beabsichtigt ein Begünstigter die Nutzung einer Fläche, die als umweltsensibles Dauergrünland im Sinne des Absatzes 1 nicht umgewandelt oder gepflügt werden darf, so zu ändern, dass sie keine landwirtschaftliche Fläche mehr ist, wird die Bestimmung dieser Fläche als umweltsensibel nach Absatz 1 auf seinen Antrag aufgehoben, wenn
-
-1.  im Fall der Durchführung eines nach anderen Rechtsvorschriften genehmigungspflichtigen Vorhabens die erforderliche Genehmigung erteilt ist,
-
-
-2.  im Fall der Durchführung eines nach Bauordnungsrecht anzeige- oder sonst mitteilungspflichtigen Vorhabens die erforderliche Anzeige vorliegt und mit der Ausführung begonnen werden darf,
-
-
-3.  im Fall der Durchführung eines nach § 34 Absatz 6 Satz 1 des Bundesnaturschutzgesetzes anzeigepflichtigen Projekts die Anzeige des Begünstigten innerhalb der nach § 34 Absatz 6 Satz 3 des Bundesnaturschutzgesetzes einzuhaltenden Frist weder zu einer behördlichen Untersagung des Projekts noch zu einer Beschränkung, die die beabsichtigte Nutzung ausschließt, geführt hat, oder
-
-
-4.  in einem anderen als in den Nummern 1 bis 3 genannten Fall
-
-    a)  Rechtsvorschriften, insbesondere die §§ 33 und 34 des Bundesnaturschutzgesetzes, oder Verpflichtungen gegenüber öffentlichen Stellen der beabsichtigten Nutzung nicht entgegenstehen und
-
-
-    b)  die Nutzung mit den für das jeweilige Gebiet festgelegten naturschutzrechtlichen Erhaltungszielen vereinbar ist.
-
-
-
-
-
-
-Der Antrag auf Aufhebung der Bestimmung einer Fläche als umweltsensibel ist zusammen mit dem Antrag auf Genehmigung der Umwandlung des Dauergrünlands nach § 5 zu stellen. Wird einer der beiden Anträge abgelehnt, gilt der andere Antrag ebenfalls als abgelehnt.
-
-(7) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, zur sachgerechten Durchführung der Unionsregelung zur Gewährleistung des umweltsensiblen Dauergrünlands, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über das Verfahren im Falle des Absatzes 6 zu erlassen.
-
-(8) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, zur sachgerechten Durchführung der Unionsregelung zur Gewährleistung des umweltsensiblen Dauergrünlands durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
+(6) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, zur sachgerechten Durchführung der Unionsregelung zur Gewährleistung des umweltsensiblen Dauergrünlands durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
 
 1.  die Verpflichtung des Begünstigten zur Rückumwandlung von Dauergrünland, das entgegen Absatz 3 umgewandelt oder umgepflügt wurde,
 
@@ -408,44 +388,89 @@ Der Antrag auf Aufhebung der Bestimmung einer Fläche als umweltsensibel ist zus
 
 
 
-## Kapitel 3 - Verwaltungs-, Kontroll- und Sanktionssystem
+## Kapitel 3 - Vorschriften der sozialen Konditionalität
+
+
+### § 13 Mitteilung von Verstößen gegen Vorschriften der sozialen Konditionalität
+
+(1) Die nach Absatz 3 zuständige Behörde oder Körperschaft hat der Zahlstelle einen Verstoß eines Begünstigten gegen eine Vorschrift der sozialen Konditionalität mitzuteilen, aufgrund dessen
+
+1.  eine unanfechtbare Anordnung erlassen wurde oder
+
+
+2.  im Fall eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten eine unanfechtbare Bußgeldentscheidung oder rechtskräftige Gerichtsentscheidung
+
+
+
+getroffen wurde.
+Die Mitteilung hat unter Beachtung der Maßgaben des InVeKoS-Daten-Gesetzes zu erfolgen. Sie soll elektronisch übermittelt werden. Die Einzelheiten der Mitteilung sind in einer nach § 26 Absatz 6 Nummer 2 zu erlassenden Rechtsverordnung festzulegen.
+
+(2) Abweichend von Absatz 1 Satz 1 hat eine Mitteilung an die Zahlstelle zu unterbleiben, wenn der Verstoß dem Begünstigten nicht zurechenbar ist oder der Verstoß weder dessen landwirtschaftliche Tätigkeit noch dessen Betrieb oder andere von ihm verwaltete Flächen betrifft.
+
+(3) Zuständig für die Mitteilung nach Absatz 1 Satz 1 ist die nach den Vorschriften des Landesrechts oder des Bundesrechts jeweils für die Durchsetzung der Vorschriften der sozialen Konditionalität zuständige Behörde oder Körperschaft.
+
+(4) Arbeitsgerichte haben, sofern ihnen Anhaltspunkte dafür vorliegen, dass der Beklagte eine landwirtschaftliche Tätigkeit ausübt, Urteile, in denen das Vorliegen eines Verstoßes gegen die Regelungen zur Umsetzung der Artikel 8, 10 und 13 der Richtlinie (EU) 2019/1152 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über transparente und vorhersehbare Arbeitsbedingungen in der Europäischen Union (ABl. L 186 vom 11.7.2019, S. 105) über
+
+1.  die Höchstdauer einer Probezeit in § 622 Absatz 3 des Bürgerlichen Gesetzbuches, in § 20 des Berufsbildungsgesetzes, in § 15 Absatz 3 des Teilzeit- und Befristungsgesetzes,
+
+
+2.  die Mindestvorhersehbarkeit der Arbeit in § 12 Absatz 3 des Teilzeit- und Befristungsgesetzes sowie
+
+
+3.  die Pflichtfortbildungen in § 111 der Gewerbeordnung
+
+
+
+festgestellt wurde, in vollständiger Form abschriftlich oder elektronisch an die zuständige Zahlstelle zu übermitteln. Die Übermittlung bedarf der Anordnung durch eine Richterin oder einen Richter.
+
+
+### § 14 Auskunftsersuchen an die Zahlstelle
+
+(1) Die nach § 13 Absatz 3 zuständige Behörde oder Körperschaft kann zur Feststellung, ob ein Verstoß gegen Vorschriften der sozialen Konditionalität unter die Mitteilungspflicht nach § 13 Absatz 1 Satz 1 fällt, die Zahlstelle um Auskunft ersuchen, ob eine natürliche oder juristische Person, der gegenüber eine unanfechtbare Anordnung, eine unanfechtbare Bußgeldentscheidung oder eine rechtskräftige Gerichtsentscheidung im Sinne des § 13 Absatz 1 ergangen ist, Begünstigter ist. Das Ersuchen soll elektronisch gestellt werden.
+
+(2) Ist eine natürliche oder juristische Person Begünstigter, teilt die Zahlstelle der nach § 13 Absatz 3 zuständigen Behörde oder Körperschaft dessen Betriebsnummer im Sinne des GAP-Integrierten Verwaltungs- und Kontrollsystems mit.
+
+
+## Kapitel 4 - Verwaltungs-, Kontroll- und Sanktionssystem
 
 
 ### Abschnitt 1 - Verwaltungs- und Kontrollsystem
 
 
-#### § 13 Anwendung des Integrierten Verwaltungs- und Kontrollsystems
+#### § 15 Anwendung des Integrierten Verwaltungs- und Kontrollsystems
 
-Das Integrierte Verwaltungs- und Kontrollsystem nach der Unionsregelung wird zum Zwecke der Einhaltung und der Durchführung der Konditionalität angewendet.
+Das Integrierte Verwaltungs- und Kontrollsystem nach der Unionsregelung wird zum Zwecke der Einhaltung und der Durchführung der Verpflichtungen nach § 3 Absatz 1 Nummer 1 und 2 angewendet.
 
 
-#### § 14 Kontrollen
+#### § 16 Kontrollen
 
 (1) Die zuständige Behörde prüft die Einhaltung der GAB gemäß § 3 Absatz 1 Nummer 1 und der GLÖZ-Standards gemäß § 3 Absatz 1 Nummer 2 durch Kontrollen vor Ort. Zur Durchführung der Kontrollen können auch Mittel der Fernerkundung, des Flächenmonitoringsystems oder andere geeignete Technologien eingesetzt werden.
 
-(2) Verwaltungskontrollen sind in der Regel nicht durchzuführen. Abweichend hiervon können für einzelne GLÖZ-Standards Verwaltungskontrollen in der nach § 23 Absatz 1 Nummer 3 zu erlassenden Rechtsverordnung festgelegt werden.
+(2) Verwaltungskontrollen sind in der Regel nicht durchzuführen. Abweichend hiervon können für einzelne GLÖZ-Standards Verwaltungskontrollen in der nach § 26 Absatz 1 Nummer 3 zu erlassenden Rechtsverordnung festgelegt werden.
 
-(3) Für Begünstigte mit einer beantragten landwirtschaftlichen Fläche von bis zu 5 Hektar wird ein vereinfachtes Kontrollsystem zur Durchführung der Kontrollen für diese Betriebe angewendet.
-
-
-#### § 15 Antragsablehnung bei einer Verhinderung von Kontrollen
-
-Ein Sammelantrag nach der Unionsregelung wird abgelehnt, wenn der Begünstigte, die vertretungsberechtigten Personen oder Organe, die Arbeitnehmer oder sonstige im Betrieb mitarbeitende Personen, die Durchführung einer Kontrolle vor Ort verhindern. Dies gilt nicht im Falle höherer Gewalt oder des Vorliegens außergewöhnlicher Umstände.
+(3) Die Absätze 1 und 2 gelten nicht für Begünstigte mit einer Betriebsgröße von bis zu 10 Hektar landwirtschaftlicher Fläche.
 
 
-#### § 16 Mindestkontrollsatz; Kontrollstichproben
+#### § 17 Antragsablehnung bei einer Verhinderung von Kontrollen
+
+Ein Sammelantrag nach der Unionsregelung wird abgelehnt, wenn der Begünstigte, die vertretungsberechtigten Personen oder Organe, die Arbeitnehmer oder sonstige im Betrieb mitarbeitende Personen, die Durchführung einer Kontrolle vor Ort im Sinne des § 16 Absatz 1 verhindern. Dies gilt nicht im Falle höherer Gewalt oder des Vorliegens außergewöhnlicher Umstände.
+
+
+#### § 18 Mindestkontrollsatz; Kontrollstichproben
 
 (1) Die Kontrollbehörde führt im Bereich der in ihre Zuständigkeit fallenden GAB und GLÖZ-Standards Kontrollen vor Ort bei mindestens 1 Prozent aller in ihre Zuständigkeit fallenden Begünstigten durch.
 
 (2) Die Auswahl der Stichprobe der gemäß Absatz 1 zu kontrollierenden Begünstigten durch die zuständige Kontrollbehörde umfasst einen Risiko- und einen Zufallsanteil.
 
-
-#### § 17 Zeitraum der Kontrollen
-
-Die Kontrollen werden in dem Kalenderjahr durchgeführt, in dem die Sammelanträge nach der Unionsregelung gestellt werden.
+(3) Für die Zwecke der Absätze 1 und 2 bleiben Begünstigte mit einer Betriebsgröße von bis zu 10 Hektar landwirtschaftlicher Fläche unberücksichtigt.
 
 
-#### § 18 Kontrollbericht; Information des Begünstigten
+#### § 19 Zeitraum der Kontrollen
+
+Die Kontrollen im Sinne des § 16 werden in dem Kalenderjahr durchgeführt, in dem die Sammelanträge nach der Unionsregelung gestellt werden.
+
+
+#### § 20 Kontrollbericht; Information des Begünstigten
 
 (1) Die zuständige Kontrollbehörde erstellt einen Kontrollbericht für jede im Rahmen dieses Abschnitts durchgeführte Kontrolle vor Ort.
 
@@ -455,34 +480,45 @@ Die Kontrollen werden in dem Kalenderjahr durchgeführt, in dem die Sammelanträ
 ### Abschnitt 2 - Verwaltungssanktionen
 
 
-#### § 19 Zurechnung von Verstößen
+#### § 21 Zurechnung von Verstößen
 
-Der Begünstigte hat einen Verstoß gegen die Verpflichtungen gemäß § 3 Absatz 1 Nummer 1 und 2 durch seine Arbeitnehmer im Betrieb und der Personen, derer er sich zur Erfüllung dieser Verpflichtungen bedient, in gleichem Umfang zu vertreten wie einen eigenen Verstoß.
+(1) Verstöße gegen die Verpflichtungen nach § 3 Absatz 1 werden sanktioniert. Satz 1 gilt nicht für Begünstigte mit einer Betriebsgröße von bis zu 10 Hektar landwirtschaftlicher Betriebsfläche, sofern es sich nicht um Verstöße gegen die in § 3 Absatz 1 Nummer 3 bezeichneten Verpflichtungen handelt.
+
+(2) Der Begünstigte hat einen Verstoß gegen die Verpflichtungen nach § 3 Absatz 1 Nummer 1 und 2 durch seine Arbeitnehmer im Betrieb und der Personen, derer er sich zur Erfüllung dieser Verpflichtungen bedient, in gleichem Umfang zu vertreten wie einen eigenen Verstoß.
 
 
-#### § 20 Sanktionierung bei Übertragung
+#### § 22 Sanktionierung bei Übertragung
 
 (1) Wird im Laufe des Kalenderjahres eine landwirtschaftliche Fläche übertragen, ergeht die Verwaltungssanktion gegen denjenigen an der Übertragung Beteiligten, der einen Sammelantrag nach der Unionsregelung für die landwirtschaftliche Fläche gestellt hat. Wenn derjenige Beteiligte, dem der Verstoß unmittelbar zuzurechnen ist, selbst einen Sammelantrag nach der Unionsregelung stellt, ist die Verwaltungssanktion gegen diesen Beteiligten zu richten.
 
 (2) Absatz 1 gilt entsprechend bei der Übertragung anderer Betriebsteile.
 
 
-#### § 21 Begrenzung der Verwaltungssanktionen
+#### § 23 Begrenzung der Verwaltungssanktionen
 
-Die Gesamthöhe der Verwaltungssanktionen ohne Berücksichtigung einer möglichen Verzinsung in einem Kalenderjahr übersteigt nicht den Gesamtbetrag der an den Begünstigten gewährten Direktzahlungen und Zahlungen nach den Maßnahmen zur ländlichen Entwicklung nach der Unionsregelung, soweit diese dem Geltungsbereich der Konditionalität unterliegen.
+Die Gesamthöhe der Verwaltungssanktionen ohne Berücksichtigung einer möglichen Verzinsung in einem Kalenderjahr übersteigt nicht den Gesamtbetrag der an den Begünstigten gewährten Direktzahlungen nach dem GAP-Direktzahlungen-Gesetz und Zahlungen nach den Maßnahmen zur Entwicklung des ländlichen Raums nach der Verordnung (EU) 2021/2115, soweit diese dem Geltungsbereich des § 3 Absatz 1 unterliegen.
 
 
-#### § 22 Ausnahmen von Verwaltungssanktionen
+#### § 24 Ausnahmen von Verwaltungssanktionen
 
-(1) Kommt der Begünstigte den in § 3 Absatz 1 genannten Verpflichtungen aufgrund von höherer Gewalt oder außergewöhnlichen Umständen nicht nach, so werden keine Verwaltungssanktionen nach diesem Kapitel angewandt.
+(1) Kommt der Begünstigte den in § 3 Absatz 1 Nummer 1 und 2 genannten Verpflichtungen aufgrund von höherer Gewalt oder außergewöhnlichen Umständen nicht nach, so werden keine Verwaltungssanktionen nach diesem Kapitel angewandt.
 
 (2) Fälle höherer Gewalt oder außergewöhnliche Umstände hat der Begünstigte der zuständigen Behörde innerhalb von fünfzehn Werktagen ab dem Zeitpunkt, ab dem er hierzu in der Lage ist, mitzuteilen und nachzuweisen.
 
 
-## Kapitel 4 - Ermächtigungen
+#### § 25 Sanktionierung von Verstößen gegen Vorschriften der sozialen Konditionalität
+
+(1) Ist der Zahlstelle ein Verstoß gegen eine Vorschrift der sozialen Konditionalität mitgeteilt worden, hat die Zahlstelle nach näherer Bestimmung einer Rechtsverordnung nach § 26 Absatz 6 Nummer 3 zu entscheiden, ob eine Verwaltungssanktion in Form einer Kürzung gegen den Begünstigten verhängt wird.
+
+(2) In den Fällen des § 13 Absatz 4 darf keine Verwaltungssanktion verhängt werden, wenn der Verstoß dem Begünstigten nicht zurechenbar ist oder der Verstoß weder dessen landwirtschaftliche Tätigkeit noch dessen Betrieb oder andere von ihm verwaltete Flächen betrifft.
+
+(3) Von der Verhängung einer Verwaltungssanktion ist abzusehen, sofern der Verstoß gegen eine Vorschrift der sozialen Konditionalität auf höherer Gewalt oder einer behördlichen Anordnung beruht.
 
 
-### § 23 Verordnungsermächtigungen
+## Kapitel 5 - Schlussbestimmungen
+
+
+### § 26 Verordnungsermächtigungen
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, zur sachgerechten Durchführung nach der Unionsregelung durch Rechtsverordnung mit Zustimmung des Bundesrates zu regeln:
 
@@ -536,10 +572,27 @@ Die Gesamthöhe der Verwaltungssanktionen ohne Berücksichtigung einer mögliche
 
 (5) Die obersten Landesbehörden können nach Maßgabe ihres jeweiligen Landesorganisationsrechts die Aufgaben der Fachüberwachungsbehörden ihres Landes nach § 3 Absatz 3 einer Zahlstelle oder einer anderen Behörde ihres Landes übertragen.
 
+(6) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung mit Zustimmung des Bundesrates zu regeln:
 
-### § 24 Inkrafttreten
+1.  die Benennung der zur Umsetzung der in der Unionsregelung bezeichneten Anforderungen bezüglich geltender Arbeits- und Beschäftigungsbedingungen oder Arbeitgeberverpflichtungen erlassenen Regelungen,
 
-(1) Die §§ 1, 9, 12 Absatz 5, 7 und 8 sowie § 23 treten am Tag nach der Verkündung in Kraft.
 
-(2) Im Übrigen tritt dieses Gesetz an dem Tag in Kraft, der auf den Tag folgt, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung des durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplanes für Deutschland gefasst hat. Das Bundesministerium für Ernährung und Landwirtschaft gibt den Tag des Inkrafttretens dieses Gesetzes im Bundesgesetzblatt bekannt.
+2.  die näheren Einzelheiten der Mitteilung bei Verstößen gegen Vorschriften der sozialen Konditionalität, insbesondere den Inhalt und die Bestandteile sowie die Form und Frist zur Übermittlung an die Zahlstelle und
+
+
+3.  die Durchführung der Verwaltungssanktionen bei Verstößen gegen die soziale Konditionalität.
+
+
+
+
+
+### § 27 Anwendungsbestimmungen
+
+(1) § 21 Absatz 1 ist ab dem 1. Januar 2024 anzuwenden.
+
+(2) § 11 ist bis zum Ablauf des 31. Dezember 2024 anzuwenden.
+
+(3) § 3 Absatz 1 Nummer 3, Kapitel 3 und § 25 sind ab dem 1. Januar 2025 anzuwenden.
+
+(4) § 5 Absatz 1 Satz 3, § 10 Absatz 1 Satz 2 und 3 und § 12 Absatz 3 Satz 2 sind ab dem Zeitpunkt anzuwenden, an dem die Europäische Kommission den Durchführungsbeschluss mit der Genehmigung der Änderung des am 21. November 2022 genehmigten, durch den Europäischen Garantiefonds für die Landwirtschaft und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zu finanzierenden Strategieplans für Deutschland der Bundesrepublik Deutschland bekanntgegeben hat, der dem Änderungsantrag zugrunde liegt, der diese Regelungen umfasst, frühestens am 1. Januar 2025. Das Bundesministerium für Ernährung und Landwirtschaft gibt den Tag, an dem die Europäische Kommission die Genehmigung bekanntgegeben hat, im Bundesgesetzblatt bekannt.
 

@@ -54,7 +54,7 @@ Zuletzt geändert durch
 
 (2) Ein „Verwaltungsportal“ bezeichnet ein bereits gebündeltes elektronisches Verwaltungsangebot mit entsprechenden Angeboten einzelner Behörden.
 
-(3) Elektronische „Verwaltungsleistungen“ im Sinne dieses Gesetzes sind die elektronische Abwicklung von Verwaltungsverfahren und die dazu erforderliche elektronische Information des Nutzers und Kommunikation mit dem Nutzer über allgemein zugängliche Netze.
+(3) „Elektronische Verwaltungsleistungen“ im Sinne dieses Gesetzes sind die elektronische Abwicklung von Verwaltungsverfahren und die dazu erforderliche elektronische Information des Nutzers und Kommunikation mit dem Nutzer über allgemein zugängliche Netze.
 
 (4) „Nutzer“ im Sinne dieses Gesetzes sind
 
