@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 4344
 
 Zuletzt geändert durch
-:   Art. 2 V v. 14.12.2023 I Nr. 370
-
-Änderung durch
-:   Art. 1 V v. 21.10.2024 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 21.10.2024 I Nr. 318
 
 Änderung durch
 :   Art. 11b G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -541,7 +538,7 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 ### Anlage 1 In der Produktdatenbank zu erfassende Produktdaten
 
-(Fundstelle: BGBl. I 2021, 4352)
+(Fundstelle: BGBl. I 2021, 4352; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
@@ -641,7 +638,7 @@ V.  Besondere Angaben für Aortenklappen-Implantate
 
 ### Anlage 2 (zu § 15 Absatz 2 Satz 1 Nummer 1)
 
-(Fundstelle: BGBl. I 2021, 4353 - 4354)
+(Fundstelle: BGBl. I 2021, 4353 - 4354; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 

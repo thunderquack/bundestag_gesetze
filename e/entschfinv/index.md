@@ -19,6 +19,9 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 25.5.2022 I 818
 
+Änderung durch
+:   Art. 1 V v. 28.10.2024 I Nr. 337 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -75,7 +78,9 @@ Auf Grund des § 33 Absatz 1 Satz 1 Nummer 1 bis 3 und 6 des Einlagensicherungsg
 
 (1) CRR-Kreditinstitute, die der Entschädigungseinrichtung im jeweiligen Abrechnungsjahr zugeordnet sind, sind nach Maßgabe des § 26 Absatz 1 Satz 1 des Einlagensicherungsgesetzes zur Zahlung eines Jahresbeitrags verpflichtet. Der Jahresbeitrag vermindert sich für CRR-Kreditinstitute, die vom 1. Oktober bis zum 31. Dezember vor Beitragsfälligkeit aus der Entschädigungseinrichtung ausscheiden, um 75 Prozent, für CRR-Kreditinstitute, die vom 1. Januar bis zum 31. März vor Beitragsfälligkeit ausscheiden, um 50 Prozent und für CRR-Kreditinstitute, die vom 1. April bis zum 30. Juni vor Beitragsfälligkeit ausscheiden, um 25 Prozent.
 
-(2) Die Beitragspflicht eines CRR-Kreditinstituts endet, sobald die Erlaubnis des CRR-Kreditinstituts erloschen oder unanfechtbar aufgehoben worden ist.
+(2) Im Fall von § 17 Absatz 3 Satz 1 des Einlagensicherungsgesetzes kann die Entschädigungseinrichtung in einem Abrechnungsjahr auf die Erhebung des Jahresbetrags verzichten, wenn die Kosten der Beitragserhebung in keinem angemessenen Verhältnis zu dem Betrag stehen, um den die verfügbaren Finanzmittel die Zielausstattung unterschreiten. Die Voraussetzungen nach Satz 1 liegen in der Regel dann vor, wenn die Unterschreitung der Zielausstattung weniger als 2 Prozent beträgt.
+
+(3) Die Beitragspflicht eines CRR-Kreditinstituts endet, sobald seine Eigenschaft als CRR-Kreditinstitut im Sinne des § 1 des Einlagensicherungsgesetzes entfällt.
 
 
 ##### § 4 Beitragsbescheid und Zahlungsverpflichtung
@@ -157,6 +162,8 @@ Auf Grund des § 33 Absatz 1 Satz 1 Nummer 1 bis 3 und 6 des Einlagensicherungsg
 
 (6) Die Jahreszielausstattung kann um einen pauschalen Zuschlag erhöht werden, wenn dies im Hinblick auf ein prognostiziertes Wachstum der gedeckten Einlagen bis zum Erreichen der Zielausstattung erforderlich erscheint.
 
+(7) Die Entschädigungseinrichtung kann bei der Ermittlung der Jahreszielausstattung nach Absatz 1 Verbindlichkeiten der Entschädigungseinrichtung, die im Zeitraum von 12 Monaten nach der Ermittlung der Jahreszielausstattung fällig werden, erhöhend berücksichtigen, wenn dies im Hinblick auf den zu erwartenden Mittelabfluss zur Erreichung oder Aufrechterhaltung der Zielausstattung erforderlich erscheint.
+
 
 ###### § 7 Berechnungsformel
 
@@ -214,11 +221,7 @@ i              x µ.
 
 (4) Die gedeckten Einlagen des CRR-Kreditinstituts sind die zum Stand vom 31. Dezember des Vorjahres bei dem CRR-Kreditinstitut vorhandenen und nach § 17 Absatz 4 des Einlagensicherungsgesetzes zu meldenden gedeckten Einlagen.
 
-(5) Mit dem Korrekturfaktor passt die Entschädigungseinrichtung die Summe der Jahresbeiträge aller CRR-Kreditinstitute, die sich bei der Berechnung der Jahresbeiträge auf Grundlage der Beitragsrate, des aggregierten Risikogewichts und der gedeckten Einlagen eines jeden CRR-Kreditinstituts nach der Formel C
-i              = CR x ARW
-i              x CD
-i              ergeben würden (nicht angepasste Jahresbeiträge), an die Jahreszielausstattung an. Der Korrekturfaktor wird nach der folgenden Formel ermittelt:
-![bgbl1_2016_j0009-1_0010_thumb.gif](bgbl1_2016_j0009-1_0010_thumb.gif)Die Entschädigungseinrichtung ist berechtigt, den Korrekturfaktor zu verringern oder zu erhöhen, wenn dies aufgrund einer Entwicklung des Konjunkturzyklus und der prozyklischen Wirkung der Jahresbeiträge erforderlich ist.
+(5) Der Korrekturfaktor ist für alle CRR-Kreditinstitute, die nach § 3 Absatz 1 Satz 1 zur Zahlung eines Jahresbeitrags verpflichtet sind, einheitlich. Die Entschädigungseinrichtung ermittelt den Korrekturfaktor, indem die Summe der gedeckten Einlagen aller CRR-Kreditinstitute nach § 6 Absatz 4 durch die Summe der Produkte aus aggregiertem Risikogewicht und gedeckten Einlagen eines jeden CRR-Kreditinstituts geteilt wird.
 
 
 ##### Titel 2 - Bestimmung des aggregierten Risikogewichts
@@ -253,33 +256,32 @@ i              ergeben würden (nicht angepasste Jahresbeiträge), an die Jahres
     *   9
 
 
-*    *   Aggregiertes
-        Risikogewicht
+*    *   Aggregiertes Risikogewicht
 
     *   50 %
 
-    *   75 %
+    *   58 %
 
-    *   90 %
+    *   68 %
 
-    *   100 %
+    *   79 %
 
-    *   110 %
+    *   93 %
 
-    *   125 %
+    *   108 %
 
-    *   140 %
+    *   126%
 
-    *   160 %
+    *   147 %
 
-    *   180 %
+    *   171 %
 
     *   200 %
 
 
 
 
-(3) Für neu gegründete CRR-Kreditinstitute gilt bis einschließlich der Vollendung des zweiten vollständigen Geschäftsjahres abweichend von den Absätzen 1 und 2 ein aggregiertes Risikogewicht von 110 Prozent.
+(3) Für neu gegründete CRR-Kreditinstitute gilt bis einschließlich der Vollendung des zweiten vollständigen Geschäftsjahres abweichend von den Absätzen 1 und 2 ein aggregiertes Risikogewicht von 108 Prozent.
 
 
 ###### § 9 Risikokategorien, Risikoindikatoren und Risikogewichtung
@@ -387,7 +389,7 @@ oder
 1.  den Jahresabschluss im Sinne des § 26 Absatz 1 Satz 1 und 2 des Kreditwesengesetzes des Geschäftsjahres, das vor dem 1. März des jeweiligen Abrechnungsjahres abgeschlossen worden ist,
 
 
-2.  die Meldungen nach den Vorgaben der Durchführungsverordnung (EU) Nr. 680/2014 der Kommission vom 16. April 2014 zur Festlegung technischer Durchführungsstandards für die aufsichtlichen Meldungen der Institute gemäß der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates (ABl. L 191 vom 28.6.2014, S. 1) und der Durchführungsverordnung (EU) 2015/79 der Kommission vom 18. Dezember 2014 zur Änderung der Durchführungsverordnung (EU) Nr. 680/2014 zur Festlegung technischer Durchführungsstandards für die aufsichtlichen Meldungen der Institute gemäß der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates in Bezug auf die Belastung von Vermögenswerten, ein einheitliches Datenpunktmodell und Validierungsregeln (ABl. L 14 vom 21.1.2015, S. 1) zum Bilanzstichtag des Geschäftsjahres, das vor dem 1. März des jeweiligen Abrechnungsjahres abgeschlossenen worden ist,
+2.  die Meldungen nach den Vorgaben der Durchführungsverordnung (EU) 2021/451 der Kommission vom 17. Dezember 2020 zur Festlegung technischer Durchführungsstandards für die Anwendung der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates auf die aufsichtlichen Meldungen der Institute und zur Aufhebung der Durchführungsverordnung (EU) Nr. 680/2014 (ABl. L 97 vom 19.3.2021, S. 1) in der jeweils geltenden Fassung zum Bilanzstichtag des Geschäftsjahres, das vor dem 1. März des jeweiligen Abrechnungsjahres abgeschlossen worden ist,
 
 
 3.  den Übersichtsbogen zu den Eigenmitteln gemäß Artikel 72 der Verordnung (EU) Nr. 575/2013 in Verbindung mit
@@ -730,15 +732,8 @@ Die Entschädigungseinrichtung soll bei der Entscheidung nach Satz 2 diejenige M
 ## Teil 4 - Übergangs- und Schlussbestimmungen
 
 
-### § 34 Übergangsvorschriften
+### § 34 (weggefallen)
 
-(1) Jahresbeiträge für vor dem 30. September 2015 endende Abrechnungsjahre und einmalige Zahlungen für vor dem 30. September 2014 endende Abrechnungsjahre werden nach der EdB-Beitragsverordnung oder der EdVÖB-Beitragsverordnung in ihrer jeweils bis zum Ablauf des 11. Januar 2016 geltenden Fassung erhoben.
-
-(2) Die §§ 3 bis 10 sind erstmals auf den Jahresbeitrag für das am 30. September 2016 endende Abrechnungsjahr anzuwenden.
-
-(3) Die Entschädigungseinrichtung ist berechtigt, in dem Abrechnungsjahr, in dem der Ansparzeitraum nach § 17 Absatz 2 des Einlagensicherungsgesetzes endet, zum 31. März eine Vorauszahlung auf den Jahresbeitrag zu erheben, wenn nur so die Zielausstattung rechtzeitig erreicht werden kann. Die Vorauszahlung ist in Höhe des im vorherigen Abrechnungsjahr erhobenen Jahresbeitrags zu erheben. Für die Vorauszahlung kann die Übernahme einer Zahlungsverpflichtung gestattet werden. Das Abrechnungsjahr nach Satz 1 gilt als volles Jahr bis zum Ende des Ansparzeitraums im Sinne des § 6 Absatzes 2 und 3.
-
-(4) Jahresbeiträge und einmalige Zahlungen für vor dem 1. Juni 2022 endende Abrechnungsjahre werden nach der Verordnung über die Finanzierung der Entschädigungseinrichtung deutscher Banken GmbH und der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH in der bis zu diesem Tag geltenden Fassung erhoben.
 
 
 ### § 35 Inkrafttreten, Außerkrafttreten
@@ -749,7 +744,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig treten
 
 ### Anlage 1 Risikoeinschätzung auf der Grundlage von Risikokategorien und Risikoindikatoren für CRR-Kreditinstitute, die der Entschädigungseinrichtung deutscher Banken GmbH zugeordnet sind
 
-(Fundstelle: BGBl. I 2016, 21 - 23; bzgl. Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2016, 21 - 23; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 I.  **Risikokategorien und Risikoindikatoren**
@@ -768,7 +763,7 @@ I.  **Risikokategorien und Risikoindikatoren**
 
         *   Kapital
 
-        *   18 %
+        *   20 %
 
         *
 
@@ -777,7 +772,7 @@ I.  **Risikokategorien und Risikoindikatoren**
         *   Verschuldungsquote
             (Leverage                              Ratio)
 
-        *   9 %
+        *   10 %
 
         *            ![bgbl1_2016_j0009-1_0020_thumb.gif](bgbl1_2016_j0009-1_0020_thumb.gif)
 
@@ -785,7 +780,7 @@ I.  **Risikokategorien und Risikoindikatoren**
 
         *   Harte Kernkapitalquote (CET1-Quote)
 
-        *   9 %
+        *   10 %
 
         *            ![bgbl1_2016_j0009-1_0030_thumb.gif](bgbl1_2016_j0009-1_0030_thumb.gif)
 
@@ -794,7 +789,7 @@ I.  **Risikokategorien und Risikoindikatoren**
         *   Liquidität,
             Refinanzierung
 
-        *   18 %
+        *   15 %
 
         *
 
@@ -803,9 +798,7 @@ I.  **Risikokategorien und Risikoindikatoren**
         *   Liquiditätsdeckungsquote (LCR, Liquidity
             Coverage                              Ratio)
 
-        *   18 %
-            Ab 2023:
-            9%
+        *   5 %
 
         *            ![bgbl1_2016_j0009-1_0040_thumb.gif](bgbl1_2016_j0009-1_0040_thumb.gif)
 
@@ -814,19 +807,16 @@ I.  **Risikokategorien und Risikoindikatoren**
         *   Strukturelle Liquiditätsquote (NSFR, Net
             Stable                              Funding Ratio)
 
-        *   0 %
-            Ab 2023:
-            9 %
+        *   10 %
 
-        *   Ab 2023:
-            ![bgbl1_2016_j0009-1_0050_thumb.gif](bgbl1_2016_j0009-1_0050_thumb.gif)
+        *            ![bgbl1_2016_j0009-1_0050_thumb.gif](bgbl1_2016_j0009-1_0050_thumb.gif)
 
     *        *   3.
 
         *   Qualität der
             Vermögenslage
 
-        *   13 %
+        *   12,5 %
 
         *
 
@@ -835,7 +825,7 @@ I.  **Risikokategorien und Risikoindikatoren**
         *   Quote notleidender
             Kredite                              (NPL-Quote, Non Performing Loans Ratio)
 
-        *   13 %
+        *   12,5 %
 
         *            ![bgbl1_2022_j0818-1_0020.jpg](bgbl1_2022_j0818-1_0020.jpg)
 
@@ -844,7 +834,7 @@ I.  **Risikokategorien und Risikoindikatoren**
         *   Geschäftsmodell und
             Management
 
-        *   38 %
+        *   40 %
 
         *
 
@@ -854,7 +844,7 @@ I.  **Risikokategorien und Risikoindikatoren**
             Risk-weighted Assets)
             zur Bilanzsumme
 
-        *   6,5 %
+        *   5 %
 
         *            ![bgbl1_2016_j0009-1_0070_thumb.gif](bgbl1_2016_j0009-1_0070_thumb.gif)
 
@@ -863,7 +853,7 @@ I.  **Risikokategorien und Risikoindikatoren**
         *   Vermögensrendite
             (RoaA, Return                              on average Assets)
 
-        *   6,5 %
+        *   10 %
 
         *            ![bgbl1_2022_j0818-1_0030.jpg](bgbl1_2022_j0818-1_0030.jpg)
 
@@ -872,28 +862,22 @@ I.  **Risikokategorien und Risikoindikatoren**
         *   Rating
 
         *   25 %
-            Für Bausparkassen, sofern die Quote
-            gemäß                              Ziffer 4.4 gewählt wird:
-            18,5 %
 
         *   Rating
 
 
     *        *   4.4
 
-        *   Quote Fonds zur
-            bauspartechnischen                              Absicherung (FbtA-Quote) im Sinne des § 6 Absatz 2 des Bausparkassengesetzes
+        *   (weggefallen)
 
-        *   Optional für Bausparkassen:
-            6,5 %
-
-        *            ![bgbl1_2016_j0009-1_0090_thumb.gif](bgbl1_2016_j0009-1_0090_thumb.gif)
+        *
+        *
 
     *        *   5.
 
         *   Verlustrisiko der Entschädigungseinrichtung deutscher Banken GmbH
 
-        *   13 %
+        *   12,5 %
 
         *
 
@@ -901,9 +885,9 @@ I.  **Risikokategorien und Risikoindikatoren**
 
         *   Potenzielle Verlustquote
 
-        *   13 %
+        *   12,5 %
 
-        *            ![bgbl1_2016_j0009-1_0100_thumb.gif](bgbl1_2016_j0009-1_0100_thumb.gif)
+        *            ![bgbl1_2024_j03370_0010.jpg](bgbl1_2024_j03370_0010.jpg)
 
     *        *   Summe
 
@@ -918,18 +902,16 @@ I.  **Risikokategorien und Risikoindikatoren**
 
 II. **Beschreibung der Risikoindikatoren gemäß Spalte 3 der Tabelle unter Ziffer I**
 
-    1.1 Verschuldungsquote gemäß der Durchführungsverordnung (EU) Nr. 680/2014.
+    1.1 Verschuldungsquote gemäß der Durchführungsverordnung (EU) 2021/451 in der jeweils geltenden Fassung.
 
 
-    1.2 Harte Kernkapitalquote gemäß Durchführungsverordnung (EU) Nr. 680/2014.
+    1.2 Harte Kernkapitalquote gemäß Durchführungsverordnung (EU) 2021/451 in der jeweils geltenden Fassung.
 
 
-    2.1 LCR gemäß Durchführungsverordnung (EU) Nr. 680/2014.
+    2.1 LCR gemäß Durchführungsverordnung (EU) 2021/451 in der jeweils geltenden Fassung.
 
 
-    2.2 Strukturelle Liquiditätsquote
-
-        Gemäß dem vom Basler Ausschuss für Bankenaufsicht am 22. Juni 2015 veröffentlichten „Net Stable Funding Ratio disclosure standard“ ist für Meldezeiträume nach dem 1. Januar 2018 eine verpflichtende Offenlegung der NSFR (Net Stable Funding Ratio) vorgesehen. Ab dem Abrechnungsjahr 2023 wird die Strukturelle Liquiditätsquote gemäß Artikel 428b Absatz 1 der Verordnung (EU) 2019/876 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Änderung der Verordnung (EU) Nr. 575/2013 in Bezug auf die Verschuldungsquote, die strukturelle Liquiditätsquote, Anforderungen an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten, das Gegenparteiausfallrisiko, das Marktrisiko, Risikopositionen gegenüber zentralen Gegenparteien, Risikopositionen gegenüber Organismen für gemeinsame Anlagen, Großkredite, Melde- und Offenlegungspflichten und der Verordnung (EU) Nr. 648/2012 (ABl. L 150 vom 7.6.2019, S. 1; L 13 vom 17.1.2020, S. 58; L 65 vom 25.2.2021, S. 62; L 380 vom 27.10.2021, S. 23; L 398 vom 11.11.2021, S. 32), die zuletzt durch die Verordnung (EU) 2020/873 (ABl. L 204 vom 26.6.2020, S. 4) geändert worden ist, mit 9 Prozent gewichtet.
+    2.2 Strukturelle Liquiditätsquote nach Artikel 428b der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung.
 
 
     3.1 Quote notleidender Kredite gemäß Durchführungsverordnung (EU) 2021/451
@@ -937,7 +919,7 @@ II. **Beschreibung der Risikoindikatoren gemäß Spalte 3 der Tabelle unter Ziff
 
     4.1 Verhältnis risikogewichtete Aktiva zur Bilanzsumme
 
-        Risikogewichtete Aktiva (RWA): Gesamtrisikobetrag gemäß Durchführungsverordnung (EU) Nr. 680/2014.
+        Risikogewichtete Aktiva (RWA): Gesamtrisikobetrag gemäß Durchführungsverordnung (EU) 2021/451 in der jeweils geltenden Fassung.
 
         Bilanzsumme gemäß aufgestelltem Jahresabschluss gemäß Ziffer III.
 
@@ -953,17 +935,13 @@ II. **Beschreibung der Risikoindikatoren gemäß Spalte 3 der Tabelle unter Ziff
 
         Das Rating basiert auf makro- und mikroökonomischen Aspekten, die quantitativ und qualitativ begründet werden. Beurteilungsebenen sind neben dem Marktumfeld, die Finanz-, Vermögens- und Ertragslage, das Geschäftsmodell und die Strategie sowie die Unternehmensstruktur und das Management des CRR-Kreditinstituts. Darüber hinaus wird die Risikolage beurteilt.
 
-        Für Bausparkassen besteht die Option, neben dem Rating die geschäftsmodell-spezifische FbtA-Quote unter Ziffer 4.4 zu wählen. Bei Wahl dieser Option verringert sich das Gewicht des Ratings auf 18,5 Prozent.
 
-
-    4.4 Fonds zur bauspartechnischen Absicherung gemäß § 6 Absatz 2 des Bausparkassengesetzes im Verhältnis zu den Bauspareinlagen.
-
-        Für Bausparkassen besteht die Option, neben dem Rating unter Ziffer 4.3 die FbtA-Quote zu wählen.
+    4.4 (weggefallen)
 
 
     5.1 Potenzielle Verlustquote
 
-        Buchwert unbelastete Vermögenswerte gemäß Durchführungsverordnung (EU) Nr. 2015/79 im Verhältnis zu den gedeckten Einlagen gemäß Meldung der CRR-Kreditinstitute nach § 17 Absatz 4 Satz 1 des Einlagensicherungsgesetzes.
+        Gedeckte Einlagen gemäß Meldung der CRR-Kreditinstitute nach § 17 Absatz 4 Satz 1 des Einlagensicherungsgesetzes im Verhältnis zu dem Buchwert unbelasteter Vermögenswerte gemäß der Durchführungsverordnung (EU) 2021/451.
 
         Die Kreditinstitute müssen, für den Fall, dass sie von der sog. Waiver-Regelung gemäß § 2a des Kreditwesengesetzes in Verbindung mit Artikel 7 der Verordnung (EU) Nr. 575/2013 Gebrauch machen, über eine begründete, nachvollziehbare Annäherung sicherstellen, dass sich sowohl der Buchwert der unbelasteten Vermögenswerte wie auch die gedeckten Einlagen auf die gleiche Einheit des Kreditinstituts beziehen.
 
@@ -986,7 +964,7 @@ III. **Grundlage für die Ermittlung der Risikoindikatoren**
     4.  Bei einem Stichtagswechsel sind kurze Geschäftsjahre, bei denen zwei Bilanzstichtage und folglich zwei Finanzpositionen innerhalb eines Quartals desselben Jahres Grundlage für die Ermittlung nach Nummer 1 Satz 1 wären, für die Beitragsberechnung nicht zu berücksichtigen. Andernfalls ist jedes, auch verkürztes Geschäftsjahr als ein Geschäftsjahr im Sinne dieser Verordnung anzusehen.
 
 
-    5.  Fällt der individuelle Bilanzstichtag des CRR-Kreditinstituts nicht auf einen der Meldestichtage gemäß Artikel 2 Absatz 1 Buchstabe b der Durchführungsverordnung (EU) 2021/451 der Kommission vom 17. Dezember 2020 zur Festlegung technischer Durchführungsstandards für die Anwendung der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates auf die aufsichtlichen Meldungen der Institute und zur Aufhebung der Durchführungsverordnung (EU) Nr. 680/2014 (ABl. L 97 vom 19.3.2021, S. 1; L 136 vom 21.4.2021, S. 328; L 410 vom 18.11.2021, S. 201), sind die Risikoindikatoren mit den Werten des nächsten nach dem Bilanzstichtag folgenden Meldestichtag zu ermitteln.
+    5.  Fällt der individuelle Bilanzstichtag des CRR-Kreditinstituts nicht auf einen der Meldestichtage gemäß Artikel 2 Absatz 1 Buchstabe b der Durchführungsverordnung (EU) 2021/451 in der jeweils geltenden Fassung, sind die Risikoindikatoren mit den Werten des nächsten nach dem Bilanzstichtag folgenden Meldestichtag zu ermitteln.
 
 
     6.  Liegen die zur Durchführung der Berechnung der Risikoindikatoren nach den Ziffern I und II erforderlichen Daten nicht in Euro vor, ist der Euro-Referenzkurs der Europäischen Zentralbank zur

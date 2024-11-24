@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 1398
 
 Zuletzt geändert durch
-:   Art. 3 G v. 11.7.2022 I 1082
-
-Änderung durch
-:   Art. 1 G v. 7.11.2024 I Nr. 351 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 7.11.2024 I Nr. 351
 
 
 ## Abschnitt 1 - Aufklärung, Verhütung, Familienplanung und Beratung
