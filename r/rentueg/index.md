@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 154
 
-Änderung durch
-:   Art. 65 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 65 G v. 23.10.2024 I Nr. 323
 
 
 ## § 1 Zweck

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 2564
 
 Zuletzt geändert durch
-:   Art. 3 G v. 19.12.2022 I 2510
-
-Änderung durch
-:   Art. 69 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 69 G v. 23.10.2024 I Nr. 323
 
 
 ## § 1 Ziel des Gesetzes

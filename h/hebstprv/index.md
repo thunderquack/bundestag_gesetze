@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 12.12.2023 I Nr. 359
 
+Änderung durch
+:   Art. 5 V v. 21.11.2024 I Nr. 360 mWv 26.11.2024 noch nicht berücksichtigt
+
 Stand: § 43 Abs. 4 tritt gem. § 60 Abs. 1 Satz 2 dieser V am 1.3.2020 in Kraft
 Stand: Ersetzt V 2124-1-10 v. 3.9.1981 I 923 (HebAPrO)
 [^F810202_01_BJNR003900020]:     Diese Verordnung dient der Umsetzung der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22; L 271 vom 16.10.2007, S. 18; L 93 vom 4.4.2008, S. 28; L 33 vom 3.2.2009, S. 49; L 305 vom 24.10.2014, S. 115), die zuletzt durch den Delegierten Beschluss (EU) 2019/608 (ABl. L 104 vom 15.4.2019, S. 1) geändert worden ist.
@@ -1723,8 +1726,8 @@ zu führen.
 
 
 
-[^F828010_01_BJNR003900020BJNE008000125]:    Nichtzutreffendes streichen.
-
+   Nichtzutreffendes streichen.
+[^F828010_01_BJNR003900020BJNE008000125]: 
 (zu § 46 Absatz 4)
 
 ### Anlage 7 Bescheinigung über die staatliche Eignungsprüfung zur „Hebamme“

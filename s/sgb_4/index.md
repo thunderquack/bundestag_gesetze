@@ -20,13 +20,7 @@ Neugefasst durch
 :   Bek. v. 12.11.2009 I 3710, 3973; 2011 I 363;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 30.5.2024 I Nr. 173
-
-Änderung durch
-:   Art. 61 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 62 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 62 G v. 23.10.2024 I Nr. 323
 
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen

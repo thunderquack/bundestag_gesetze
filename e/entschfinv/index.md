@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 9
 
-Geändert durch
-:   Art. 1 V v. 25.5.2022 I 818
-
-Änderung durch
-:   Art. 1 V v. 28.10.2024 I Nr. 337 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 28.10.2024 I Nr. 337
 
 
 ## Eingangsformel
