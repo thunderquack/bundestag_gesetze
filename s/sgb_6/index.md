@@ -22,7 +22,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 24.10.2024 I Nr. 329
 
-Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2024 v. 29.11.2023 I Nr. 322 ist berücksichtigt
+Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2025 v. 25.11.2024 I Nr. 365 ist berücksichtigt
 
 ## Erstes Kapitel - Versicherter Personenkreis
 

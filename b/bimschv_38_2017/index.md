@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 3892
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.7.2023 I Nr. 200
+:   Art. 1 V v. 25.11.2024 I Nr. 367
 
 
 [^F801042_01_BJNR389200017]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2015/652 des Rates vom 20. April 2015 zur Festlegung von Berechnungsverfahren und Berichterstattungspflichten gemäß der Richtlinie 98/70/EG des Europäischen Parlaments und des Rates über die Qualität von Otto- und Dieselkraftstoffen (ABl. L 107 vom 25.4.2015, S. 26) sowie der Richtlinie (EU) 2015/1513 des Europäischen Parlaments und des Rates vom 9. September 2015 zur Änderung der Richtlinie 98/70/EG über die Qualität von Otto- und Dieselkraftstoffen und zur Änderung der Richtlinie 2009/28/EG zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. L 239 vom 15.9.2015, S. 1).
@@ -145,11 +145,19 @@ Der Basiswert nach § 37a Absatz 4 Satz 4 des Bundes-Immissionsschutzgesetzes wi
 (3) Hiervon unberührt bleiben die Anforderungen an Biokraftstoffe nach der Biokraftstoff-Nachhaltigkeitsverordnung.
 
 
-#### § 4a Regelungen für die Verpflichtungsjahre 2019 bis 2021
+#### § 4a Regelungen für die Verpflichtungsjahre 2024 bis 2027
 
-(1) Abweichend von § 37a Absatz 6 Satz 5 und Absatz 8 Satz 1 des Bundes-Immissionsschutzgesetzes können Treibhausgasminderungsmengen, die den nach § 37a Absatz 4 des Bundes-Immissionsschutzgesetzes festgelegten Prozentsatz im Verpflichtungsjahr 2019 übersteigen, nicht auf den Prozentsatz des Verpflichtungsjahres 2020 angerechnet werden.
+(1) Abweichend von § 37a Absatz 8 des Bundes-Immissionsschutzgesetzes können Treibhausgasminderungsmengen, die den nach § 37a Absatz 4 des Bundes-Immissionsschutzgesetzes festgelegten Prozentsatz im Verpflichtungsjahr 2024 übersteigen, nicht auf den Prozentsatz des Verpflichtungsjahres 2025 angerechnet werden. Ebenso können Treibhausgasminderungsmengen, die den festgelegten Prozentsatz im Verpflichtungsjahr 2025 übersteigen, nicht auf den Prozentsatz im Verpflichtungsjahr 2026 angerechnet werden.
 
-(2) Auf Antrag des Verpflichteten wird die Übererfüllung im Verpflichtungsjahr 2019 auf den Prozentsatz des Verpflichtungsjahres 2021 angerechnet. § 37a Absatz 6 Satz 5 des Bundes-Immissionsschutzgesetzes gilt für diese Anrechnung entsprechend. Der Antrag ist bis zum 15. April 2020 zu stellen.
+(2) Abweichend von § 14 Absatz 4 Satz 1 können die Mengen an fortschrittlichen Biokraftstoffen, die im Verpflichtungsjahr 2024 den Mindestanteil nach § 14 Absatz 1 in Verbindung mit § 14 Absatz 2 übersteigen, nicht auf den Mindestanteil an fortschrittlichen Biokraftstoffen des Verpflichtungsjahres 2025 angerechnet werden. Ebenso können Mengen an fortschrittlichen Biokraftstoffen, die den festgelegten Mindestanteil im Verpflichtungsjahr 2025 übersteigen, nicht auf den Mindestanteil im Verpflichtungsjahr 2026 angerechnet werden.
+
+(3) Auf Antrag des Verpflichteten wird die Übererfüllung von Treibhausgasminderungsmengen in den Verpflichtungsjahren 2024 und 2025 auf den Prozentsatz des Verpflichtungsjahres 2027 angerechnet. Satz 1 gilt für die Übererfüllungen von Mengen an fortschrittlichen Biokraftstoffen entsprechend. Die Anträge nach Satz 1 und 2 sind bis zum 15. April 2028 zu stellen.
+
+(4) Abweichend von § 37a Absatz 6 Satz 5 des Bundes-Immissionsschutzgesetzes können Verträge für das Verpflichtungsjahr 2025 nicht durch Erfüllungsoptionen erfüllt werden, die im Jahr 2024 in Verkehr gebracht wurden oder als in Verkehr gebracht gelten. Ebenso können Verträge für das Verpflichtungsjahr 2026 nicht durch Erfüllungsoptionen erfüllt werden, die im Jahr 2025 in Verkehr gebracht wurden oder als in Verkehr gebracht gelten.
+
+(5) Abweichend von § 14 Absatz 3 Satz 1 können Verträge nach § 37a Absatz 6 des Bundes-Immissionsschutzgesetztes für das Verpflichtungsjahr 2025 nicht durch Mengen an fortschrittlichen Biokraftstoffen erfüllt werden, die im Jahr 2024 in Verkehr gebracht wurden. Ebenso können Verträge für das Verpflichtungsjahr 2026 nicht durch Mengen an fortschrittlichen Biokraftstoffen erfüllt werden, die im Jahr 2025 in Verkehr gebracht wurden.
+
+(6) Verträge nach § 37a Absatz 6 des Bundes-Immissionsschutzgesetz für das Verpflichtungsjahr 2027 können abweichend von § 37a Absatz 6 Satz 5 des Bundes-Immissionsschutzgesetzes auch mit in den Verpflichtungsjahren 2024 und 2025 in Verkehr gebrachten oder als in Verkehr gebracht geltenden Erfüllungsoptionen erfüllt werden, wenn die Erfüllungsoptionen nicht bereits Gegenstand eines Vertrages nach § 37a Absatz 6 des Bundes-Immissionsschutzgesetz waren und der Dritte in den Verpflichtungsjahren 2024 und 2025 nicht selbst Verpflichteter gewesen ist. Satz 1 gilt für Verträge über Mengen an fortschrittlichen Biokraftstoffen entsprechend.
 
 
 ### Abschnitt 2 - Straßenfahrzeuge mit Elektroantrieb

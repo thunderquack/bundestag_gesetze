@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2019, 933
 
 Zuletzt geändert durch
-:   Art. 4 V v. 7.6.2023 I Nr. 148
-
-Änderung durch
-:   Art. 1 V v. 21.11.2024 I Nr. 360 mWv 1.12.2024 noch nicht berücksichtigt
+:   Art. 1 V v. 21.11.2024 I Nr. 360
 
 
 ## Abschnitt 1 - Zahnärztliche Ausbildung

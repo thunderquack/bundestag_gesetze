@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Abs. 3 G v. 7.11.2024 I Nr. 351
 
+Änderung durch
+:   Art. 5 G v. 21.11.2024 I Nr. 361 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 

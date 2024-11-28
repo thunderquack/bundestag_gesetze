@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 22.12.2023 I Nr. 412
 
+Änderung durch
+:   Art. 2 G v. 21.8.2024 I Nr. 361 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## Teil I - Allgemeine Vorschriften zum Haushaltsplan
 

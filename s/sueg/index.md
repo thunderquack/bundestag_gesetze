@@ -478,7 +478,7 @@ Zu den schutzwürdigen Interessen der betroffenen Person oder der mitbetroffenen
 2a. Geschlechtseintrag,
 
 
-3   Staatsangehörigkeit, auch frühere und weitere Staatsangehörigkeiten,
+3.  Staatsangehörigkeit, auch frühere und weitere Staatsangehörigkeiten,
 
 
 4.  Familienstand und das Bestehen einer auf Dauer angelegten Gemeinschaft,

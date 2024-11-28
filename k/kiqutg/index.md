@@ -19,6 +19,9 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 20.12.2022 I 2791
 
+Änderung durch
+:   Art. 3 G v. 21.11.2024 I Nr. 361 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Weiterentwicklung der Qualität und Verbesserung der Teilhabe in der Kindertagesbetreuung
 

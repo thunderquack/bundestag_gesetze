@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 1892
 
 Zuletzt geändert durch
-:   Art. 6 V v. 7.6.2023 I Nr. 148
-
-Änderung durch
-:   Art. 2 V v. 21.11.2024 I Nr. 360 mWv 26.11.2024 noch nicht berücksichtigt
+:   Art. 2 V v. 21.11.2024 I Nr. 360
 
 
 ## Eingangsformel
@@ -150,7 +147,7 @@ Der Prüfling hat aus diesen Fächern in je einer Aufsichtsarbeit schriftlich ge
 
 Kenntnisse in Anatomie und Physiologie sollen in die Prüfung in den in Satz 1 Nr. 1, 2 und 5 aufgeführten Fächern einbezogen werden. Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. In einem Fach soll der Prüfling nicht länger als 20 Minuten geprüft werden.
 
-(2) Der mündliche Teil der Prüfung wird von drei Fachprüfern abgenommen und nach § 9 benotet. Der Vorsitzende des Prüfungsausschusses ist berechtigt, am mündlichen Teil der Prüfung teilzunehmen; ihm steht kein Fragerecht zu. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses die Note für jedes einzelne Fach als das arithmetische Mittel der Noten der einzelnen Fachprüfer sowie die Prüfungsnote für den mündlichen Teil der Prüfung. Bei der Bildung der Prüfungsnote für den mündlichen Teil der Prüfung sind die in Absatz 1 unter Nr. 1 und 2 genannten Fächer mit dem Faktor 2, die übrigen Fächer einfach zu gewichten. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der mündliche Teil der Prüfung ist bestanden, wenn jedes Fach mindestens mit „ausreichend“ benotet wird.
+(2) Jedes Fach des mündlichen Teils der Prüfung wird von zwei Fachprüfern abgenommen und nach § 9 benotet. Der Vorsitzende des Prüfungsausschusses ist berechtigt, am mündlichen Teil der Prüfung teilzunehmen; ihm steht kein Fragerecht zu. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses die Note für jedes einzelne Fach als das arithmetische Mittel der Noten der einzelnen Fachprüfer sowie die Prüfungsnote für den mündlichen Teil der Prüfung. Bei der Bildung der Prüfungsnote für den mündlichen Teil der Prüfung sind die in Absatz 1 unter Nr. 1 und 2 genannten Fächer mit dem Faktor 2, die übrigen Fächer einfach zu gewichten. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der mündliche Teil der Prüfung ist bestanden, wenn jedes Fach mindestens mit „ausreichend“ benotet wird.
 
 (3) Der Vorsitzende des Prüfungsausschusses kann auf Antrag Zuhörer zum mündlichen Teil der Prüfung zulassen.
 
@@ -169,7 +166,7 @@ Kenntnisse in Anatomie und Physiologie sollen in die Prüfung in den in Satz 1 N
 
 (2) Der Vorsitzende des Prüfungsausschusses bestimmt im Benehmen mit dem Leiter der Schule die Aufgaben für den praktischen Teil der Prüfung. Die Auswahl und die Zuweisung der Patienten erfolgen durch den Leiter der Schule im Einvernehmen mit einem dem Prüfungsausschuß angehörenden Logopäden. Der praktische Teil der Prüfung soll für den Prüfling in höchstens acht Stunden abgeschlossen sein.
 
-(3) Der praktische Teil der Prüfung wird von zwei Fachprüfern abgenommen und nach § 9 benotet. Der Vorsitzende des Prüfungsausschusses ist berechtigt, am praktischen Teil der Prüfung teilzunehmen; ihm steht kein Fragerecht zu. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses die Prüfungsnote für den praktischen Teil der Prüfung als das arithmetische Mittel der Noten der einzelnen Fachprüfer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der praktische Teil der Prüfung ist bestanden, wenn jedes Fach mindestens mit „ausreichend“ benotet wird.
+(3) Jede Aufgabe des praktischen Teils der Prüfung nach Absatz 1 Satz 2 Nummer 1 und 2 wird von zwei Fachprüfern abgenommen und nach § 9 benotet. Der Vorsitzende des Prüfungsausschusses ist berechtigt, am praktischen Teil der Prüfung teilzunehmen; ihm steht kein Fragerecht zu. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses die Prüfungsnote für den praktischen Teil der Prüfung als das arithmetische Mittel der Noten der einzelnen Fachprüfer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der praktische Teil der Prüfung ist bestanden, wenn jede Aufgabe mindestens mit „ausreichend“ benotet wird.
 
 (4) Der Vorsitzende des Prüfungsausschusses kann auf Antrag Zuhörer zum praktischen Teil der Prüfung zulassen.
 
@@ -248,7 +245,7 @@ Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt benotet:
 
 (2) Über die bestandene staatliche Prüfung wird ein Zeugnis nach dem Muster der Anlage 4 erteilt, auf dem die Prüfungsnoten einzutragen sind. Über das Nichtbestehen erhält der Prüfling vom Vorsitzenden des Prüfungsausschusses eine schriftliche Mitteilung, in der die Prüfungsnoten anzugeben sind.
 
-(3) Jeder Teil der Prüfung kann zweimal wiederholt werden, wenn der Prüfling die Note "mangelhaft" oder "ungenügend" erhalten hat.
+(3) Jede Aufsichtsarbeit des schriftlichen Teils der Prüfung, jedes Fach des mündlichen Teils der Prüfung und jede Aufgabe des praktischen Teils der Prüfung, für die oder für das der Prüfling die Note „mangelhaft“ oder „ungenügend“ erhalten hat, kann zweimal wiederholt werden.
 
 (4) Hat der Prüfling alle Teile der Prüfung zu wiederholen, so darf er zur Prüfung nur zugelassen werden, wenn er an einer weiteren Ausbildung teilgenommen hat, deren Dauer und Inhalt vom Vorsitzenden des Prüfungsausschusses bestimmt werden. Die Wiederholungsprüfung muß spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein. Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen.
 

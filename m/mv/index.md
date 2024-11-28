@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1993, 1554
 
 Zuletzt geändert durch
-:   Art. 8 V v. 19.12.2022 I 2432
+:   Art. 1 V v. 25.11.2024 I Nr. 364
 
 
 ## Eingangsformel

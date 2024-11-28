@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 563
 
 Zuletzt geändert durch
-:   Art. 7 V v. 7.6.2023 I Nr. 148
-
-Änderung durch
-:   Art. 3 V v. 21.11.2024 I Nr. 360 mWv 26.11.2024 noch nicht berücksichtigt
+:   Art. 3 V v. 21.11.2024 I Nr. 360
 
 
 ## Eingangsformel
@@ -144,7 +141,7 @@ Der Prüfling hat aus diesen Fächern in je einer Aufsichtsarbeit schriftlich ge
 
 Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. In den einzelnen Fächern soll der Prüfling nicht länger als zehn Minuten geprüft werden.
 
-(2) Die Prüfung wird von zwei Fachprüfern abgenommen und benotet. Der Vorsitzende ist berechtigt, am mündlichen Teil der Prüfung teilzunehmen; ihm steht kein Fragerecht zu. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses die Note für jedes Fach als das arithmetische Mittel der Noten der einzelnen Fachprüfer sowie die Prüfungsnote für den mündlichen Teil der Prüfung als das arithmetische Mittel der Noten der einzelnen Fächer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der mündliche Teil der Prüfung ist bestanden, wenn jedes Fach mindestens mit „ausreichend“ benotet wird.
+(2) Jedes Fach des mündlichen Teils der Prüfung wird von zwei Fachprüfern abgenommen und nach § 9 benotet. Der Vorsitzende ist berechtigt, am mündlichen Teil der Prüfung teilzunehmen; ihm steht kein Fragerecht zu. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses die Note für jedes Fach als das arithmetische Mittel der Noten der einzelnen Fachprüfer sowie die Prüfungsnote für den mündlichen Teil der Prüfung als das arithmetische Mittel der Noten der einzelnen Fächer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 9 zuzuordnen. Der mündliche Teil der Prüfung ist bestanden, wenn jedes Fach mindestens mit „ausreichend“ benotet wird.
 
 (3) Der Vorsitzende des Prüfungsausschusses kann auf begründeten Antrag die Anwesenheit von Zuhörern beim mündlichen Teil der Prüfung gestatten.
 
@@ -232,7 +229,7 @@ Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt benotet:
 
 (2) Über die bestandene staatliche Prüfung wird ein Zeugnis nach dem Muster der Anlage 4 erteilt. Über das Nichtbestehen erhält der Prüfling vom Vorsitzenden des Prüfungsausschusses eine schriftliche Mitteilung, in der die Prüfungsnoten anzugeben sind.
 
-(3) Jeder Teil der Prüfung, für den der Prüfling die Note "mangelhaft" oder "ungenügend" erhalten hat, kann einmal wiederholt werden.
+(3) Jede Aufsichtsarbeit des schriftlichen Teils der Prüfung, jedes Fach des mündlichen Teils der Prüfung und jede Aufgabe des praktischen Teils der Prüfung, für die oder für das der Prüfling die Note „mangelhaft“ oder „ungenügend“ erhalten hat, kann einmal wiederholt werden.
 
 (4) Hat der Prüfling den praktischen Teil der Prüfung zu wiederholen, so darf er zur Prüfung nur zugelassen werden, wenn er an einer weiteren Ausbildung teilgenommen hat, deren Dauer und Inhalt vom Vorsitzenden des Prüfungsausschusses im Benehmen mit den Fachprüfern bestimmt werden. Ein Nachweis über die Teilnahme an der weiteren Ausbildung ist dem Antrag des Prüflings auf Zulassung zur Wiederholungsprüfung beizufügen. Die Wiederholungsprüfung muß spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein. Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen.
 

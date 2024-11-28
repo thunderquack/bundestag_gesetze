@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2018, 1572
 
 Zuletzt geändert durch
-:   Art. 4a G v. 12.12.2023 I Nr. 359
-
-Änderung durch
-:   Art. 4 V v. 21.11.2024 I Nr. 360 mWv 26.11.2024 noch nicht berücksichtigt
+:   Art. 4 V v. 21.11.2024 I Nr. 360
 
 [^F804365_01_BJNR157200018]:     Diese Verordnung dient der Umsetzung der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22; L 271 vom 16.10.2007, S. 18), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L 354 vom 28.12.2013, S. 132) geändert worden ist.
 
@@ -869,7 +866,7 @@ Die zuständige Behörde darf nicht zwingend einen Vermerk über eine Standortbe
 
 (2) Im mündlichen Teil der Prüfung ist eine komplexe Aufgabenstellung zu bearbeiten, die Anforderungen aus mindestens drei verschiedenen Kompetenzbereichen enthält. Die Prüfungsaufgabe besteht in der Bearbeitung einer Fallsituation aus einem anderen Versorgungskontext als dem der praktischen Prüfung und bezieht sich bei Personen, die eine Erlaubnis nach § 1 des Pflegeberufegesetzes beantragen, auf eine andere Altersstufe der zu pflegenden Menschen.
 
-(3) Der mündliche Teil der Prüfung soll mindestens 45 und nicht länger als 60 Minuten dauern. Er wird von zwei Fachprüferinnen oder Fachprüfern, von denen eine Person die Voraussetzungen des § 10 Absatz 1 Nummer 3 erfüllen muss, abgenommen und bewertet. Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen und Fachprüfer in einer Gesamtbetrachtung die mit der Aufgabenstellung geforderten Kompetenzen aus den Kompetenzbereichen I bis V übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüferinnen oder Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet die oder der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüferinnen oder Fachprüfern über das Bestehen.
+(3) Der mündliche Teil der Prüfung soll mindestens 45 und nicht länger als 60 Minuten dauern. Er wird von zwei Fachprüferinnen oder Fachprüfern, von denen eine Person die Voraussetzungen des § 10 Absatz 1 Satz 2 Nummer 3 erfüllen muss, abgenommen und bewertet. Bewertet wird die Leistung entweder mit „bestanden“ oder mit „nicht bestanden“. Mit „bestanden“ wird sie bewertet, wenn sie den Anforderungen genügt, also mindestens der Note „ausreichend (4)“ entspricht. Der mündliche Teil der Kenntnisprüfung ist bestanden, wenn alle Fachprüferinnen und Fachprüfer die erbrachte Leistung mit „bestanden“ bewerten.
 
 (4) Im praktischen Teil der Kenntnisprüfung hat die zu prüfende Person in mindestens zwei und höchstens vier Pflegesituationen nachzuweisen, dass sie die vorbehaltenen Tätigkeiten wahrnehmen und damit die erforderlichen Pflegeprozesse und die Pflegediagnostik verantwortlich planen, organisieren, gestalten, durchführen, steuern und evaluieren kann. Im Rahmen der pflegerischen Versorgung hat eine situationsangemessene Kommunikation mit den zu pflegenden Menschen, ihren Bezugspersonen und den beruflich in die Versorgung eingebundenen Personen deutlich zu werden. Die zuständige Behörde legt einen Einsatzbereich, der im Sinne der Anlage 7 als Pflichteinsatz aufgeführt ist, sowie die Zahl der Pflegesituationen fest.
 
@@ -1080,7 +1077,7 @@ Die zuständige Behörde entscheidet kurzfristig über den Antrag, spätestens j
 
 #### § 49d Erlaubnisurkunde
 
-Bei der Ausstellung der Erlaubnis zur partiellen Berufsausübung nach § 48a des Pflegeberufegesetzes ist das Muster nach Anlage 15 zu verwenden.
+Bei der Ausstellung der Erlaubnis zur partiellen Berufsausübung nach § 48a des Pflegeberufegesetzes ist das Muster nach Anlage 12a zu verwenden.
 
 
 ### Abschnitt 2b - Verfahren zur Erteilung einer Genehmigung zur Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung

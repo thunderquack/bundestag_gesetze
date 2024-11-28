@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4602
 
+Änderung durch
+:   Art. 6 G v. 21.11.2024 I Nr. 361 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -32,7 +35,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 ## Art 6 Evaluation
 
-Die Bundesregierung evaluiert unter Beteiligung der Länder zum 31. Dezember 2027 und zum 31. Dezember 2030 die durch dieses Gesetz verursachten Investitionskosten und die Betriebskosten. Im Lichte der Ergebnisse der Evaluation werden Bund und Länder unter Beachtung der Aufgabenverantwortung Mehrbelastungen und Minderbelastungen der Länder auf Grundlage der in diesem Gesetz geregelten wechselseitigen Finanzbeiträge angemessen ausgleichen.
+Die Bundesregierung evaluiert unter Beteiligung der Länder zum 31. Dezember 2027 und zum 31. Dezember 2030 die durch dieses Gesetz verursachten Investitionskosten und die Betriebskosten. Im Lichte der Ergebnisse der Evaluation werden Bund und Länder unter Beachtung der Aufgabenverantwortung Mehrbelastungen und Minderbelastungen der Länder angemessen ausgleichen.
 
 
 ## Art 7 Inkrafttreten

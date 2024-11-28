@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2020, 39
 
 Zuletzt geändert durch
-:   Art. 6 G v. 12.12.2023 I Nr. 359
-
-Änderung durch
-:   Art. 5 V v. 21.11.2024 I Nr. 360 mWv 26.11.2024 noch nicht berücksichtigt
+:   Art. 5 V v. 21.11.2024 I Nr. 360
 
 Stand: § 43 Abs. 4 tritt gem. § 60 Abs. 1 Satz 2 dieser V am 1.3.2020 in Kraft
 Stand: Ersetzt V 2124-1-10 v. 3.9.1981 I 923 (HebAPrO)
@@ -91,7 +88,7 @@ Im berufspraktischen Teil des Studiums wird die studierende Person durch Praxise
 2.  zum Praxisplan nach § 16 Absatz 1 des Hebammengesetzes,
 
 
-3.  zu den Vereinbarungen, die die verantwortliche Praxiseinrichtung nach § 16 Absatz 2 des Hebammengesetzes mit weiteren Einrichtungen abzuschließen hat,
+3.  zu den Vereinbarungen, die die verantwortliche Praxiseinrichtung nach § 16 Absatz 2 des Hebammengesetzes, auch in Verbindung mit § 7a Absatz 3, mit weiteren Einrichtungen abzuschließen hat,
 
 
 4.  zur Durchführung der Praxisanleitung und
@@ -136,9 +133,33 @@ Die Vermittlung der Kompetenzbereiche II bis VI der Anlage 1 wird soweit möglic
 (3) Praxiseinsätze nach Absatz 1 können im Umfang von bis zu 160 Stunden auch in weiteren Einrichtungen, die zur ambulanten berufspraktischen Ausbildung von Hebammen geeignet sind, stattfinden.
 
 
+#### § 7a Praxiseinsätze in klinischen und außerklinischen Einrichtungen im Ausland
+
+(1) Ein Praxiseinsatz nach § 6 oder § 7 kann ganz oder teilweise außerhalb des Geltungsbereichs des Hebammengesetzes durchgeführt werden. Er wird auf die Dauer des berufspraktischen Teils des Hebammenstudiums nach § 11 Absatz 3 Satz 2 des Hebammengesetzes angerechnet, wenn er zu einem Praxiseinsatz nach § 6 oder § 7 gleichwertig ist. Der Umfang der Anrechnung darf nicht mehr als 480 Stunden betragen; die Stunden können auf einen Praxiseinsatz oder auf mehrere Praxiseinsätze oder auf Teile eines Praxiseinsatzes oder mehrerer Praxiseinsätze verteilt werden.
+
+(2) Ein Praxiseinsatz im Ausland ist gleichwertig zu einem Praxiseinsatz nach § 6 oder § 7, wenn
+
+1.  er sich nicht wesentlich von einem Praxiseinsatz nach § 6 oder § 7 unterscheidet,
+
+
+2.  die Einrichtung des Praxiseinsatzes die Anforderungen an eine Einrichtung nach § 13 Absatz 1 Satz 1 Nummer 1 oder Nummer 2 oder nach § 13 Absatz 1 Satz 2 des Hebammengesetzes in entsprechender Weise erfüllt, indem sie nach den jeweils vor Ort geltenden Regelungen Leistungen der Geburtshilfe im Sinne von § 4 Absatz 2 des Hebammengesetzes erbringen darf, und
+
+
+3.  die Einrichtung des Praxiseinsatzes sicherstellt, dass die studierende Person abweichend von § 10 durch eine dafür nach den vor Ort geltenden Regelungen qualifizierte Person in einem § 13 Absatz 2 des Hebammengesetzes entsprechenden Umfang während des Praxiseinsatzes angeleitet wird.
+
+
+
+
+(3) Soll ein Praxiseinsatz ganz oder teilweise im Ausland absolviert werden, schließt die verantwortliche Praxiseinrichtung mit Zustimmung der Hochschule als Trägerin der Gesamtverantwortung gemäß § 22 des Hebammengesetzes die Vereinbarung nach § 16 Absatz 2 des Hebammengesetzes mit der klinischen oder außerklinischen Einrichtung im Ausland nach Absatz 2 Nummer 2, in der die studierende Person den Praxiseinsatz absolviert. Sie kann dabei eine Vereinbarung schließen, die auf eine längerfristig angelegte Kooperation und eine Vielzahl von studierenden Personen ausgerichtet ist.
+
+(4) Bevor ein Praxiseinsatz im Ausland durchgeführt wird, hat die verantwortliche Praxiseinrichtung dies der zuständigen Behörde anzuzeigen und ihr gegenüber darzulegen, dass der Praxiseinsatz im Ausland gleichwertig nach Absatz 2 ist. Die verantwortliche Praxiseinrichtung kann von der Hochschule dabei unterstützt werden. Die Anzeige und der Nachweis nach Satz 1 sollen spätestens vier Monate vor Beginn der Durchführung des im Praxisplan nach § 16 Absatz 1 des Hebammengesetzes vorgesehenen Praxiseinsatzes im Ausland erfolgen. Geht die verantwortliche Praxiseinrichtung eine längerfristig angelegte Kooperation für eine Vielzahl von studierenden Personen nach Absatz 3 Satz 2 ein, so genügt die Anzeige und der Nachweis nach Satz 1 einmalig; Änderungen in Hinblick auf die Kooperation zwischen der verantwortlichen Praxiseinrichtung und der klinischen oder außerklinischen Einrichtung im Ausland sind der zuständigen Behörde unverzüglich mitzuteilen.
+
+(5) Stellt die zuständige Behörde fest, dass der Praxiseinsatz im Ausland nicht gleichwertig nach Absatz 2 ist, teilt sie dies der verantwortlichen Praxiseinrichtung mit; die Mitteilung soll spätestens einen Monat vor Beginn der Durchführung des im Praxisplan nach § 16 Absatz 1 des Hebammengesetzes vorgesehenen Praxiseinsatzes im Ausland erfolgen. In diesem Fall kann der Praxiseinsatz nicht nach Absatz 1 Satz 2 auf die Dauer des berufspraktischen Teils des Hebammenstudiums nach § 11 Absatz 3 Satz 2 des Hebammengesetzes angerechnet werden. Wurde ein nicht nach Absatz 2 gleichwertiger Praxiseinsatz im Ausland absolviert, verlängert sich der Vertrag zur akademischen Hebammenausbildung um die entsprechende Dauer.
+
+
 #### § 8 Umfang und Inhalt der Praxiseinsätze
 
-(1) Die Praxiseinsätze nach den §§ 6 und 7 werden so festgelegt, dass sie mindestens den Vorgaben in Anlage 2 entsprechen.
+(1) Die Praxiseinsätze nach den §§ 6 bis 7a werden so festgelegt, dass sie mindestens den Vorgaben in Anlage 2 entsprechen.
 
 (2) Während der Praxiseinsätze sind insbesondere die in Anlage 3 aufgeführten Tätigkeiten auszuüben.
 
@@ -178,6 +199,8 @@ Die Länder können den Zeitraum, in dem die berufspädagogischen Fortbildungen 
 (2) Die in Absatz 1 geregelten Qualifikationsanforderungen sind der zuständigen Behörde nachzuweisen.
 
 (3) Abweichend von Absatz 1 kann die Praxisanleitung in den Praxiseinsätzen nach § 6 Absatz 2 von jeder Person durchgeführt werden, die zur entsprechenden Kompetenzvermittlung befähigt ist.
+
+(4) Lehrformate, die selbstgesteuertes Lernen oder E-Learning beinhalten, können als pädagogische Hilfsmittel bei der Konzeption der Qualifikationsmaßnahmen nach Absatz 1 Satz 1 Nummer 3 und 4 in angemessenem Umfang berücksichtigt werden. Eine vollständig digitale Durchführung ist nur für die kontinuierliche berufspädagogische Fortbildung nach Absatz 1 Satz 1 Nummer 4 zulässig. Die Teilnahme an digitalen Lehrformaten ist vom Anbieter der Qualifikationsmaßnahme festzustellen. Das Nähere regeln die Länder.
 
 
 #### § 11 Praxisbegleitung
@@ -530,7 +553,7 @@ Der mündliche Teil der staatlichen Prüfung ist bestanden, wenn die Prüfungsle
 
 (2) Der praktische Teil der staatlichen Prüfung ohne den Vorbereitungsteil soll einschließlich des Reflexionsgesprächs bis zu 360 Minuten dauern und kann durch eine organisatorische Pause von bis zu fünf Werktagen unterbrochen werden.
 
-(3) Der praktische Teil der staatlichen Prüfung wird von zwei Prüferinnen oder Prüfern abgenommen. Eine Prüferin oder ein Prüfer ist nach § 15 Absatz 1 Nummer 5 zur Abnahme der praktischen Prüfung geeignet.
+(3) Jeder Prüfungsteil des praktischen Teils der staatlichen Prüfung nach § 28 Absatz 2 wird von zwei Prüferinnen oder Prüfern abgenommen. Eine Prüferin oder ein Prüfer ist nach § 15 Absatz 1 Nummer 5 zur Abnahme der praktischen Prüfung geeignet.
 
 
 #### § 32 Bewertung des praktischen Teils der staatlichen Prüfung

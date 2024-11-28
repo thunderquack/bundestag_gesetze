@@ -15,7 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2024, Nr. 181
 
-Stand: Die V tritt gem. § 2 Satz 2 mWv 7.12.2024 außer Kraft, sofern nicht mit Zustimmung des Bundesrates etwas anderes verordnet wird
+Geändert durch
+:   Art. 1 V v. 25.11.2024 I Nr. 366
+
+Stand: Die V tritt gem. § 2 Satz 2 mWv 7.12.2024 außer Kraft, sofern nicht mit Zustimmung des Bundesrates etwas anderes verordnet wird; gem. § 2 idF d. Art. 1 V v. 25.11.2024 I Nr. 366 ist die Geltung dieser V über den 6.12.2024 hinaus verlängert worden
 
 ## Eingangsformel
 
@@ -42,5 +45,5 @@ Auf Grund des § 11 Absatz 4 Satz 1 Nummer 1 des Tiergesundheitsgesetzes in der 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt mit Ablauf des 6. Dezember 2024 außer Kraft, sofern nicht mit Zustimmung des Bundesrates etwas anderes verordnet wird.
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
