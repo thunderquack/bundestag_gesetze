@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 3970 (4592) (2003 I 1957)
 
 Zuletzt geändert durch
-:   Art. 228 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 5 G v. 25.10.2024 I Nr. 332 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 25.10.2024 I Nr. 332
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen

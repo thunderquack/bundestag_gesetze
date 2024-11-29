@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 30.7.2024 I Nr. 254
 
 Änderung durch
-:   Art. 4 G v. 21.8.2024 I Nr. 361 mWv 28.11.2024 noch nicht berücksichtigt
+:   Art. 4 G v. 21.8.2024 I Nr. 361 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 6 G v. 21.8.2024 I Nr. 361 noch nicht berücksichtigt
@@ -122,47 +122,47 @@ Das g tritt gem. § 20 mit ablauf des 31.12.2019 außer kraft; § 20 aufgeh. dur
 
 *    *   2026
 
-    *   minus 11 305 407 683 Euro
+    *   minus 11 440 407 683 Euro
 
-    *   8 905 407 683 Euro
+    *   9 040 407 683 Euro
 
     *   2 400 000 000 Euro
 
 
 *    *   2027
 
-    *   minus 11 117 407 683 Euro
+    *   minus 11 577 407 683 Euro
 
-    *   8 717 407 683 Euro
+    *   9 177 407 683 Euro
 
     *   2 400 000 000 Euro
 
 
 *    *   2028
 
-    *   minus 11 117 407 683 Euro
+    *   minus 11 902 407 683 Euro
 
-    *   8 717 407 683 Euro
+    *   9 502 407 683 Euro
 
     *   2 400 000 000 Euro
 
 
 *    *   2029
 
-    *   minus 11 017 407 683 Euro
+    *   minus 12 127 407 683 Euro
 
-    *   8 617 407 683 Euro
+    *   9 727 407 683 Euro
 
     *   2 400 000 000 Euro
 
 
 *    *   ab 2030
 
-    *   minus 10 417 407 683 Euro
+    *   minus 11 717 407 683 Euro
 
-    *   8 017 407 683 Euro
+    *   9 317 407 683 Euro
 
-    *   2 400 000 000 Euro.
+    *   2 400 000 000 Euro
 
 
 

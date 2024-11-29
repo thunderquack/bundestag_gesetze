@@ -19,8 +19,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 7.3.2018 I 366;
 
-Änderung durch
-:   Art. 1 V v. 16.10.2024 I Nr. 315 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 1 V v. 16.10.2024 I Nr. 315
 
 
 ## § 1 Begriffsbestimmung und Anwendungsbereich

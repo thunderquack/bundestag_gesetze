@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.9.2002 I 3518;
 
 Zuletzt geändert durch
-:   Art. 11 G v. 2.3.2023 I Nr. 56
-
-Änderung durch
-:   Art. 6 G v. 25.10.2024 I Nr. 332 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 25.10.2024 I Nr. 332
 
 Mit diesem Gesetz wird die Richtlinie 93/15/EWG des Rates vom 5. April 1993 zur Harmonisierung der Bestimmungen über das Inverkehrbringen und die Kontrolle von Explosivstoffen für zivile Zwecke (ABl. EG Nr. L 121 S. 20, 1995 Nr. L 79 S. 34) in deutsches Recht umgesetzt und an Stelle der Anlage 1 des Gesetzes der Anhang I Teil A.14 der Richtlinie 92/69/EWG der Kommission vom 31. Juli 1992 (ABl. EG Nr. L 383 S. 113 und Nr. L 383A S. 1 (S. 87) unmittelbar für anwendbar erklärt.
 
