@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 3955, 3956
 
 Zuletzt geändert durch
-:   Art. 1 G v. 30.7.2024 I Nr. 254
-
-Änderung durch
-:   Art. 4 G v. 21.8.2024 I Nr. 361 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 21.8.2024 I Nr. 361
 
 Mittelbare änderung durch
 :   Art. 6 G v. 21.8.2024 I Nr. 361 noch nicht berücksichtigt

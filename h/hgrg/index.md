@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 1273
 
 Zuletzt geändert durch
-:   Art. 10 G v. 14.8.2017 I 3122
-
-Änderung durch
-:   Art. 1 G v. 21.8.2024 I Nr. 361 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 21.8.2024 I Nr. 361
 
 
 ## Eingangsformel

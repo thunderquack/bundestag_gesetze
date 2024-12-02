@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2021, 4744
 
 Zuletzt geändert durch
-:   Art. 1 V v. 18.9.2024 I Nr. 286
+:   Art. 2 Abs. 3 V v. 22.11.2024 I Nr. 370
 
 
 ## Eingangsformel
@@ -1483,7 +1483,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 
     *   § 21 Absatz 3 und 4,
         auch i. V. m. § 22 Absatz 2 BinSchPersV
-        § 4.01 Nummer 3 i. V. m. § 2 RheinSchPersEV i. V. m. § 21 Absatz 3 und 4, auch i. V. m. § 22 Absatz 2 BinSchPersV
+        § 4.01 Nummer 3 RheinSchPersV i. V. m.                      § 2 RheinSchPersEV i. V. m. § 21 Absatz 3 und 4, auch i. V. m. § 22 Absatz 2 BinSchPersV
 
     *   150
 
@@ -1494,7 +1494,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 
     *   § 21 Absatz 3 und 4,
         auch i. V. m. § 22 Absatz 2 Satz 3 BinSchPersV
-        § 4.01 Nummer 3 i. V. m. § 2 RheinSchPersEV i. V. m. § 21 Absatz 3 und 4, auch i. V. m. § 22 Absatz 2 BinSchPersV
+        § 4.01 Nummer 3 RheinSchPersV i. V. m.                      § 2 RheinSchPersEV i. V. m. § 21 Absatz 3 und 4, auch i. V. m. § 22 Absatz 2 BinSchPersV
 
     *   110
 
@@ -1570,7 +1570,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
     *
     *
 
-*    *   1101
+*    *   1111
 
     *   Zulassung eines Fahrsimulators
 
@@ -1579,7 +1579,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
     *   5531
 
 
-*    *   1102
+*    *   1112
 
     *   Zulassung eines Radarsimulators
 
@@ -1721,7 +1721,8 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 
     *   § 3 Absatz 2 Nummer 1, § 10 Nummer 2 und 3, §§ 29, 30, 37 BinSchUO
         ES-TRIN
-        Artikel 3.02, Artikel 6.09 Nummer 1, Artikel 10.01 Nummer 2, Artikel 11.08. Nummer 1, Artikel 20.19, Artikel 22.07 Nummer 1, Artikel 27.01
+        Artikel 3.02, Artikel 6.09 Nummer 1, Artikel 10.01 Nummer 2,
+        Artikel 11.08. Nummer 1,                      Artikel 20.19, Artikel 22.07 Nummer 1, Artikel 27.01
 
     *   nach
         Zeitaufwand
@@ -5503,7 +5504,13 @@ Gebühren und Auslagen
 
 3.  Befreiung von Gebühren und Auslagen
 
-    Soweit Kosten für ärztliche Untersuchungen zur Erteilung eines Seediensttauglichkeitszeugnisses oder Kosten der Untersuchungen für jugendliche Besatzungsmitglieder von der Berufsgenossenschaft oder vom Bund getragen werden, ist die zu untersuchende Person von der Entrichtung von Gebühren und Auslagen befreit.
+    a)  Soweit Kosten für ärztliche Untersuchungen zur Erteilung eines Seediensttauglichkeitszeugnisses oder Kosten der Untersuchungen für jugendliche Besatzungsmitglieder von der Berufsgenossenschaft oder vom Bund getragen werden, ist die zu untersuchende Person von der Entrichtung von Gebühren und Auslagen befreit.
+
+
+    b)  Für die Erteilung eines Sicherheitszeugnisses für Schiffe im Sinne des § 6 Absatz 1a Satz 1 Nummer 2 der Schiffssicherheitsverordnung werden keine Gebühren nach den Nummern 0303 und 0304 erhoben.
+
+
+
 
 
 
@@ -5630,7 +5637,7 @@ Gebühren und Auslagen
 
 *    *   0301
 
-    *   Erteilung eines Sicherheitszeugnisses vor Indienststellung des Schiffes einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen
+    *   Erteilung eines Sicherheitszeugnisses vor Indienststellung des Schiffes einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen für Fahrzeuge mit einer Schiffslänge größer 8 m
 
     *   § 9 Absatz 3 SchSV
 
@@ -5639,11 +5646,30 @@ Gebühren und Auslagen
 
 *    *   0302
 
-    *   Erteilung eines Sicherheitszeugnisses für vorhandene Schiffe einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen
+    *   Erteilung eines Sicherheitszeugnisses für vorhandene Schiffe einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen für Fahrzeuge mit einer Schiffslänge größer 8 m
 
     *   § 9 Absatz 3 SchSV
 
     *   1 077
+
+
+*    *   0303
+
+    *   Erteilung eines Sicherheitszeugnisses vor Indienststellung des Schiffes einschließlich der Bestätigung der Zwischenbesichtigung für Kleinfahrzeuge mit einer Schiffslänge von 3,60 m bis 8 m
+
+    *   § 9 Absatz 3 SchSV
+
+    *   749
+
+
+*    *   0304
+
+    *   Erteilung eines Sicherheitszeugnisses für vorhandene Schiffe einschließlich der Bestätigung der Zwischenbesichtigung für Kleinfahrzeuge mit einer Schiffslänge von
+        3,60 m bis 8 m
+
+    *   § 9 Absatz 3 SchSV
+
+    *   530
 
 
 *    *   **E. Sicherheitszeugnisse für Sportboote, Ausbildungsfahrzeuge und Traditionsschiffe nach der Schiffssicherheitsverordnung**
@@ -5794,17 +5820,6 @@ Gebühren und Auslagen
 
 *    *   0803
 
-    *   Erteilung der Bescheinigung für Schiffe unter fremder Flagge, die in der Nationalen Fahrt eingesetzt werden sollen
-
-    *   § 9 Absatz 6 SchSV i. V. m. § 5 Absatz 5,
-        § 3 Absatz 3 Nummer 2,
-        Anlage 1 Abschnitt D III. SchSV
-
-    *   231
-
-
-*    *   0804
-
     *   Zulassung im Bereich Schiffssicherheit, die nicht unter die Schiffsausrüstungsverordnung fällt
 
     *   § 3 Absatz 3 Nummer 2 SchSV
@@ -5813,7 +5828,7 @@ Gebühren und Auslagen
         Zeitaufwand
 
 
-*    *   0805
+*    *   0804
 
     *   Erteilung von Sicherheitszeugnissen, Bescheinigungen, Ausnahmen, Genehmigungen oder Zulassungen aufgrund zusätzlicher Prüfungen und Besichtigungen von Anlagen, Einrichtungen und Ausrüstungen für Schiffe, insbesondere nach Empfehlungen, Richtlinien und Entschließungen der Internationalen Organisationen
         (z. B. IMO, ILO), die von den anderen Tatbeständen nicht oder noch nicht erfasst werden
@@ -5824,7 +5839,7 @@ Gebühren und Auslagen
         Zeitaufwand
 
 
-*    *   0806
+*    *   0805
 
     *   Festhalteverfügung (Verbot des Auslaufens oder Weiterfahrens, Gestattung des Auslaufens oder Weiterfahrens unter Auflagen oder Bedingungen)
 
@@ -5837,7 +5852,7 @@ Gebühren und Auslagen
     *   329
 
 
-*    *   0807
+*    *   0806
 
     *   Aufhebung der Festhaltung
 
@@ -5845,7 +5860,7 @@ Gebühren und Auslagen
     *   263
 
 
-*    *   0808
+*    *   0807
 
     *   Anlaufverbot (Verweigerung des Hafenzugangs)
 
@@ -5856,7 +5871,7 @@ Gebühren und Auslagen
     *   329
 
 
-*    *   0809
+*    *   0808
 
     *   Aufhebung des Anlaufverbots
 
@@ -5864,7 +5879,7 @@ Gebühren und Auslagen
     *   263
 
 
-*    *   0810
+*    *   0809
 
     *   Erteilung einer Probefahrtbescheinigung
 
@@ -5874,7 +5889,7 @@ Gebühren und Auslagen
     *   65
 
 
-*    *   0811
+*    *   0810
 
     *   Erteilung weiterer Zeugnisse für andere Zwecke
 
@@ -5883,7 +5898,7 @@ Gebühren und Auslagen
     *   65
 
 
-*    *   0812
+*    *   0811
 
     *   Ausstellung einer Ersatzausfertigung oder Änderung eines Zeugnisses, Genehmigung, Bescheinigung oder Zulassung ohne erneute Prüfung der Voraussetzungen, die zu ihrer Erteilung geführt haben
 
@@ -5893,7 +5908,7 @@ Gebühren und Auslagen
     *   65
 
 
-*    *   0813
+*    *   0812
 
     *   Genehmigung des Handbuches zur Ladungssicherung
 
@@ -6061,39 +6076,29 @@ Gebühren und Auslagen
     *   119
 
 
-*    *   **D. Internationale Zeugnisse über die Verhütung der Verschmutzung durch Abwasser oder über ein Bewuchsschutzsystem**
+*    *   **D. Internationale Zeugnisse über die Verhütung der Verschmutzung durch Abwasser oder über ein Bewuchsschutzsystem**
 
 
 *    *   2301
 
-    *   Erteilung des Internationalen Zeugnisses über die Verhütung der Verschmutzung durch Abwasser nach MARPOL Anlage IV
-        Regel 5 bis 7 (ISPP-Zeugnis) oder
-        über ein Bewuchsschutzsystem
-        nach Anlage 4 Regel 2 des AFS-Übereinkommens bzw. nach Artikel 6 i. V. m. Anhang 1 der Verordnung (EG) Nr. 782/2003 (IAFS-Zeugnis) vor Indienststellung des Schiffes
+    *   Erteilung des Internationalen Zeugnisses über die Verhütung der Verschmutzung durch Abwasser nach MARPOL Anlage IV Regel 5 und 6 (ISPP-Zeugnis) oder über ein Bewuchsschutzsystem nach Anlage 4 Regel 2 des AFS-Übereinkommens bzw. nach Artikel 6 der Verordnung (EG) Nr. 782/2003 (IAFS-Zeugnis) vor Indienststellung des Schiffes
 
     *   § 9 Absatz 1 und 3 Nummer 1,
-        § 3 Absatz 3 Nummer 2, Anlage 2
-        Abschnitt A. 1. VII. Nummer 26
-        i. V. m. MARPOL Anlage IV Regel 5 bis 7 oder Nummer 27a) aa) i. V. m. Artikel 6 der Verordnung (EG) Nr. 782/2003
-        oder Nummer 27 a) bb) SchSV
-        i. V. m. Anlage 4 Regel 2 des
-        AFS-Übereinkommens
+        § 3 Absatz 3 Nummer 2, Anlage 2 Abschnitt A. 1. II. Nummer 16a SchSV i. V. m. MARPOL Anlage IV Regel 5 und 6 oder Anlage 2
+        Abschnitt A. 1. VII. Nummer 27 a) aa) SchSV i. V. m. Artikel 6 der Verordnung (EG) Nr. 782/2003 oder Anlage 2 Abschnitt A. 1. VII. Nummer 27 a) bb) SchSV i. V. m. Anlage 4 Regel 2 des AFS-Übereinkommens
 
     *   299
 
 
 *    *   2302
 
-    *   Erteilung des Internationalen Zeugnisses über die Verhütung der Verschmutzung durch Abwasser nach MARPOL Anlage IV
-        Regel 5 bis 7 (ISPP-Zeugnis) oder
-        über ein Bewuchsschutzsystem nach Anlage 4 Regel 2 des IAFS-Übereinkommens bzw. nach Artikel 6 der Verordnung (EG) Nr. 782/2003 (IAFS-Zeugnis) für vorhandene Schiffe
+    *   Erteilung des Internationalen Zeugnisses über die Verhütung der Verschmutzung durch Abwasser nach MARPOL Anlage IV Regel 5 und 6 (ISPP-Zeugnis) oder über ein Bewuchsschutzsystem nach
+        Anlage 4 Regel 2 des AFS-Übereinkommens                      bzw. nach Artikel 6 der Verordnung (EG) Nr. 782/2003
+        (IAFS-Zeugnis) für vorhandene Schiffe
 
-    *   § 9 Absatz 1 und 3 Nummer 1, Anlage 2
-        Abschnitt A. 1. VII. Nummer 26
-        i. V. m. MARPOL Anlage IV Regel 5 bis 7 oder Nummer 27 a) aa) i. V. m. Artikel 6 der Verordnung (EG) Nr. 782/2003
-        oder Nummer 27 a) bb) SchSV
-        i. V. m. Anlage 4 Regel 2 des
-        AFS-Übereinkommens
+    *   § 9 Absatz 1 und 3 Nummer 1,
+        Anlage 2 Abschnitt A. 1. II. Nummer 16a SchSV i. V. m. MARPOL Anlage IV Regel 5 und 6 oder Anlage 2 Abschnitt A. 1. VII. Nummer 27 a) aa) SchSV i. V. m. Artikel 6 der Verordnung (EG) Nr. 782/2003 oder Anlage 2 Abschnitt A. 1. VII. Nummer 27 a) bb) SchSV
+        i. V. m. Anlage 4 Regel 2 des AFS-Übereinkommens
 
     *   164
 

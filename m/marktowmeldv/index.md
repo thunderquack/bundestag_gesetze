@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1999, 2286
 
 Zuletzt geändert durch
-:   Art. 10 V v. 24.6.2024 I Nr. 215
+:   Art. 1 V v. 25.11.2024 I Nr. 373
 
 
 ## Eingangsformel

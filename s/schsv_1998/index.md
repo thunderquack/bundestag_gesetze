@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 25.6.2024 I Nr. 217
 
+Änderung durch
+:   Art. 1 V v. 22.11.2024 I Nr. 370 mWv 30.11.2024 noch nicht berücksichtigt
+
 
 ## § 1 Zielsetzung und Geltungsbereich
 

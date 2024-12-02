@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2006, 1584
 
 Zuletzt geändert durch
-:   Art. 1 V v. 25.11.2022 I 2111
+:   Art. 1 V v. 26.11.2024 I Nr. 371
 
 
 
