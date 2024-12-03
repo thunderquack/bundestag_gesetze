@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 19.3.2019 I 378
 
-Geändert durch
-:   Art. 1 V v. 9.12.2019 I 2142
+Zuletzt geändert durch
+:   Art. 1 V v. 28.11.2024 I Nr. 376
 
 
 ## § 1 Kosten der Grundsicherung für Arbeitsuchende
