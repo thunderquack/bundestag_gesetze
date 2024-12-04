@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.2.1999 I 202
 
 Zuletzt geändert durch
-:   Art. 6 G v. 19.7.2024 I Nr. 245
-
-Änderung durch
-:   Art. 36 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 36 G v. 23.10.2024 I Nr. 323
 
 
 ## Titel I - Allgemeine Bestimmungen

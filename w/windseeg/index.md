@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 2258, 2310
 
 Zuletzt geändert durch
-:   Art. 10 G v. 8.5.2024 I Nr. 151
-
-Änderung durch
-:   Art. 44 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 44 G v. 23.10.2024 I Nr. 323
 
 Zur umsetzung der bverfge v. 30.6.2020 i 1993 - 1 bvr 1679/17 wurde § 10a dieses g durch
 :   Art. 1 Nr. 10 G v. 3.12.2020 I 2682 mWv 10.12.2020 eingeführt (vgl. BT-Drucksache 19/24039).

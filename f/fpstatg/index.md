@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 22.2.2006 I 438;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 3.6.2021 I 1401
+:   Art. 1 G v. 28.11.2024 I Nr. 377
 
 
 ## § 1 Anordnung als Bundesstatistik

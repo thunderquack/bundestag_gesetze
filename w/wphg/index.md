@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 19 G v. 6.5.2024 I Nr. 149
 
+Änderung durch
+:   Art. 3 G v. 28.11.2024 I Nr. 377 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Art. 1 dient auch der Umsetzung der Richtlinie 88/627/EWG des Rates der Europäischen Gemeinschaften vom 12. Dezember 1988 über die bei Erwerb oder Veräußerung einer bedeutenden Beteiligung an einer börsennotierten Gesellschaft zu veröffentlichenden Informationen (ABl. EG Nr. L 348/62) und der Richtlinie 89/592/EWG des Rates der Europäischen Gemeinschaften vom 13. November 1989 zur Koordinierung der Vorschriften betreffend Insidergeschäfte (ABl. EG Nr. L 334/30).
 
 
@@ -88,10 +91,10 @@ Art. 1 dient auch der Umsetzung der Richtlinie 88/627/EWG des Rates der Europäi
     k)  der Verordnung (EU) 2019/2088 des Europäischen Parlaments und des Rates vom 27. November 2019 über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor (ABl. L 317 vom 9.12.2019, S. 1), die durch die Verordnung (EU) 2020/852 (ABl. L 198 vom 22.6.2020, S. 13) geändert worden ist, sofern es sich um Wertpapierdienstleistungsunternehmen handelt, die Anlageberatung oder Finanzportfolioverwaltung betreiben,
 
 
-    k)  der Verordnung (EU) 2019/1238 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1) in der jeweils geltenden Fassung,
-
-
     l)  der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und zur Änderung der Verordnung (EU) 2019/2088 (ABl. L 198 vom 22.6.2020, S. 13), sofern es sich um Wertpapierdienstleistungsunternehmen handelt, die Anlageberatung oder Finanzportfolioverwaltung betreiben,
+
+
+    k)  der Verordnung (EU) 2019/1238 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1) in der jeweils geltenden Fassung,
 
 
     l)  der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1) in der jeweils geltenden Fassung.

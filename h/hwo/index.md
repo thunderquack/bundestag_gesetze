@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.9.1998 I 3074; 2006, 2095;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 19.7.2024 I Nr. 246
-
-Änderung durch
-:   Art. 37 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 37 G v. 23.10.2024 I Nr. 323
 
 
 ## Erster Teil - Ausübung eines Handwerks und eines handwerksähnlichen Gewerbes

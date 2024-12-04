@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 6 G v. 22.12.2023 I Nr. 411
 
+Änderung durch
+:   Art. 4 G v. 28.11.2024 I Nr. 377 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Allgemeine Vorschriften
 

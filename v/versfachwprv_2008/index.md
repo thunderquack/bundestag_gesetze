@@ -19,6 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 45 V v. 9.12.2019 I 2153
 
+V aufgeh. durch
+:   § 21 Satz 2 V 806-22-6-89 v. 26.11.2024 I Nr. 378 mWv 1.1.2025
+
+Ersetzt durch
+:   V 806-22-6-89 v. 26.11.2024 I Nr. 378 (BAProVFFPrV)
+
 
 ## Eingangsformel
 

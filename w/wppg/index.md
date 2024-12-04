@@ -20,6 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 11.12.2023 I Nr. 354
 
+Änderung durch
+:   Art. 2 G v. 28.11.2024 I Nr. 377 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/71/EG des Europäischen Parlaments und des Rates vom 4. November 2003 betreffend den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel zu veröffentlichen ist, und zur Änderung der Richtlinie 2001/34/EG (ABl. EU Nr. L 345 S. 64).
 
 

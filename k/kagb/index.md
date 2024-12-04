@@ -16,13 +16,10 @@ Fundstelle
 :   BGBl I: 2013, 1981
 
 Zuletzt geändert durch
-:   Art. 34 Abs. 20 G v. 22.12.2023 I Nr. 411
+:   Art. 46 G v. 23.10.2024 I Nr. 323
 
 Änderung durch
-:   Art. 46 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 34 Abs. 4 G v. 22.12.2023 I Nr. 411 ist berücksichtigt
+:   Art. 5 G v. 28.11.2024 I Nr. 377 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen für Investmentvermögen und Verwaltungsgesellschaften

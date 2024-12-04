@@ -19,6 +19,9 @@ Fundstelle
 Geändert durch
 :   Art. 1 Nr. 16 V v. 5.1.2022 I 2
 
+Änderung durch
+:   Art. 2 Abs. 1 V v. 22.11.2024 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Inhaltsverzeichnis
 
@@ -629,20 +632,20 @@ Abweichend von Artikel 13.01 Nummer 10 ES-TRIN muss jede Bugankerkette mindesten
 
 4.  Kompasse auf Magnet-Basis und Steuerkurstransmitter auf Magnet-Basis müssen
 
-    a)  vor dem Einbau von der zuständigen Behörde oder von einer von ihr für die Prüfung der jeweiligen Anlage anerkannten Einrichtung geprüft sein; dies ist nicht erforderlich für Kompasse oder Steuerkurstransmitter, die nach Abschnitt D Nummer 10 der Anlage zum Schiffssicherheitsgesetz zugelassen sind,
+    a)  vor dem Einbau von der zuständigen Behörde geprüft sein; dies ist nicht erforderlich für Kompasse oder Steuerkurstransmitter, die nach Abschnitt D Nummer 10 der Anlage zum Schiffssicherheitsgesetz zugelassen sind,
 
 
-    b)  entsprechend den technischen Bestimmungen nach Anlage 1 Teil 2 an Bord eingebaut sein,
+    b)  entsprechend den technischen Bestimmungen nach Anlage 1 Teil 2 an Bord eingebaut sein und
 
 
-    c)  vor Inbetriebnahme sowie spätestens bei einer Verlängerung der Fahrtauglichkeitsbescheinigung von einer von der zuständigen Behörde aufgrund eines Sachkundenachweises anerkannten Person (Regulierer) reguliert sein.
+    c)  vor Inbetriebnahme sowie spätestens bei jeder Verlängerung der Fahrttauglichkeitsbescheinigung reguliert werden; der Nachweis der Regulierung ist in Form einer Deviationstabelle mitzuführen.
 
 
 
-    Der Regulierer prüft gleichzeitig den ordnungsgemäßen Einbau nach Satz 1 Buchstabe b. Er stellt eine Bescheinigung über den ordnungsgemäßen Einbau und die durchgeführte Regulierung, aus der auch das Datum der Regulierung hervorgeht, aus. Die aktuelle Bescheinigung ist an Bord mitzuführen. Kann ein Regulierer den Kompass auf Magnetbasis oder Steuerkurstransmitter auf Magnetbasis nicht so regulieren, dass die größte Abweichung nicht mehr als 6° beträgt, so ist die Aufstellung des Kompasses auf Magnetbasis oder Steuerkurstransmitter auf Magnetbasis von der zuständigen Behörde überprüfen zu lassen.
+    Die maximale Deviation darf nach der Regulierung nicht mehr als 6 Grad betragen.
 
 
-5.  Die Regulierung und Kompensierung durch eine anerkannte Person (Regulierer) eines Mitgliedstaates der Internationalen Seeschifffahrts-Organisation (IMO) wird als gleichwertig anerkannt.
+5.  (weggefallen)
 
 
 
