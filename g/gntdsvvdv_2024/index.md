@@ -91,7 +91,8 @@ Die Zeiten des Erholungsurlaubs bestimmt
 
 (3) Wird die Zahl der Teilnehmerinnen und Teilnehmer am Auswahlverfahren nach § 10a Absatz 3 der Bundeslaufbahnverordnung beschränkt, so werden schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte Bewerberinnen und Bewerber mit Behinderungen zusätzlich und ohne Beschränkung zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen.
 
-(4) Wer zum Auswahlverfahren nicht zugelassen wird oder daran erfolglos teilgenommen hat, erhält eine schriftliche oder elektronische Mitteilung über die Ablehnung. Eingereichte Bewerbungsunterlagen werden entsprechend der Datenschutzgrundverordnung spätestens ein Jahr nach der Ablehnung vernichtet oder im Falle elektronischer Bewerbungsunterlagen gelöscht.
+(4) Wer zum Auswahlverfahren nicht zugelassen wird oder daran erfolglos teilgenommen hat, erhält eine schriftliche oder elektronische Mitteilung über die Ablehnung. Eingereichte Bewerbungsunterlagen werden entsprechend der
+Datenschutz-Grundverordnung              spätestens ein Jahr nach der Ablehnung vernichtet oder im Falle elektronischer Bewerbungsunterlagen gelöscht.
 
 
 ### § 8 Anforderungen im Auswahlverfahren und Auswahlinstrumente

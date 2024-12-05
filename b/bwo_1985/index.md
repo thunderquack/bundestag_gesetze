@@ -2902,7 +2902,7 @@ für die Wahl zum Deutschen Bundestag
         Bei der Briefwahl muss der Wähler den Wahlbrief mit dem Stimmzettel und dem Wahlschein so rechtzeitig an die angegebene Stelle absenden, dass der Wahlbrief dort spätestens am Wahltage bis 18.00 Uhr eingeht.
 [^BJNR017690985BJNE011507160_05_BJNR017690985BJNE011514126]
         Der Wahlbrief wird innerhalb der Bundesrepublik Deutschland ohne besondere Versendungsform ausschließlich von ..........
-        unentgeltlich befördert. Er kann auch bei der auf dem Wahlbrief angegebenen Stelle angegeben werden.
+        unentgeltlich befördert. Er kann auch bei der auf dem Wahlbrief angegebenen Stelle abgegeben werden.
 
 
 *    *

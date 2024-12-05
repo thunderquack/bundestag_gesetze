@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 1.3.1994 I 358;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 27.3.2024 I Nr. 109
+:   Art. 1 V v. 29.11.2024 I Nr. 379
 
 
 ## Erster Abschnitt - Begriffsbestimmungen
@@ -2929,6 +2929,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
+    *   Bromazolam
+
+    *   8-Brom-1-methyl-6-phenyl-4
+        H                       -[1,2,4]triazol[4,3-a]
+        [1,4]benzodiazepin
+
+
+*    *   -
+
     *   Brorphin
 
     *   1-{1-[1-(4-Bromphenyl)ethyl]piperidin-4-yl}-1,3-dihydro-2H-benzimidazol-2-on
@@ -2956,6 +2965,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         H                       ,3
         H                       ,5
         H                       )-trion
+
+
+*    *   -
+
+    *   Butonitazen (Butoxynitazen)
+
+    *   N                       ,
+        N                       -Diethyl-2-{2-[(4-butoxyphenyl)methyl]-5-nitro-
+        1
+        H                       -benzimidazol-1-yl}ethan-1-amin
 
 
 *    *   -
@@ -3098,7 +3117,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008120130]
+    *[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008121130]
    CUMYL-4CN-BINACA
         (SGT-78)
 
@@ -3255,6 +3274,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   3,4-Dimethylmethcathinon (3,4-DMMC)
 
     *   1-(3,4-Dimethylphenyl)-2-(methylamino)propan-1-on
+
+
+*    *   -
+
+    *   N                       ,
+        N                       -Dimethylpentylon
+        (Dipentylon, bk-DMBDP)
+
+    *   1-(1,3-Benzodioxol-5-yl)-2-(dimethylamino)pentan-1-on
 
 
 *    *   -
@@ -3496,6 +3524,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   8-Brom-6-(2-fluorphenyl)-1-methyl-4
         H                       -[1,2,4]triazolo[4,3-
         a][1,4]benzodiazepin
+
+
+*    *   -
+
+    *   2-Fluordeschlorketamin
+        (2-Fluorketamin, 2-FDCK, 2-FL-2‘-OXO-PCM)
+
+    *   2-(2-Fluorphenyl)-2-(methylamino)cyclohexan-1-on
 
 
 *    *   -
@@ -4467,7 +4503,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     Durch die Aufnahme des Stoffes in die Anlage II des Betäubungsmittelgesetzes wird die Delegierte Richtlinie (EU) 2019/369 der Kommission vom 13. Dezember 2018 zur Änderung des Anhangs des Rahmenbeschlusses 2004/757/JI des Rates zur Aufnahme neuer psychoaktiver Substanzen in die Drogendefinition (ABl. L 66 vom 7.3.2019, S. 3) umgesetzt.
-[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008120130]: 
+[^BJNR106810981BJNE008112116_1_BJNR106810981BJNE008121130]: 
 (zu § 1 Abs. 1)
 
 ### Anlage III verkehrsfähige und verschreibungsfähige Betäubungsmittel

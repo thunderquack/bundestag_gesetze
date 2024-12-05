@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 21.7.2021 I 3115
 
+Änderung durch
+:   Art. 1 V v. 2.12.2024 I Nr. 384 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F774705_01_BJNR164400010]:     Artikel 1 dieser Verordnung dient der Umsetzung folgender Richtlinien:                                 –                                    Richtlinie 98/24/EG des Rates vom 7. April 1998 zum Schutz von Gesundheit und Sicherheit der Arbeitnehmer vor der Gefährdung durch chemische Arbeitsstoffe bei der Arbeit (ABl. L 131 vom 5.5.1998, S. 11), die durch die Richtlinie 2007/30/EG (ABl. L 165 vom 27.6.2007, S. 21) geändert worden ist,
 
 
@@ -87,9 +90,9 @@ Zuletzt geändert durch
 
 
 
-Abschnitt 2 gilt nicht für Lebensmittel oder Futtermittel in Form von Fertigerzeugnissen, die für den Endverbrauch bestimmt sind.
+Abschnitt 2 gilt auch für das Veranlassen von Tätigkeiten an baulichen und technischen Anlagen, die Gefahrstoffe enthalten können, welche durch die Tätigkeiten freigesetzt werden können und zu besonderen Gesundheitsgefahren führen können. Abschnitt 2 gilt nicht für Lebensmittel oder Futtermittel in Form von Fertigerzeugnissen, die für den Endverbrauch bestimmt sind.
 
-(3) Die Abschnitte 3 bis 6 gelten für Tätigkeiten, bei denen Beschäftigte Gefährdungen ihrer Gesundheit und Sicherheit durch Stoffe, Gemische oder Erzeugnisse ausgesetzt sein können. Sie gelten auch, wenn die Sicherheit und Gesundheit anderer Personen aufgrund von Tätigkeiten im Sinne von § 2 Absatz 5 gefährdet sein können, die durch Beschäftigte oder Unternehmer ohne Beschäftigte ausgeübt werden. Die Sätze 1 und 2 finden auch Anwendung auf Tätigkeiten, die im Zusammenhang mit der Beförderung von Stoffen, Gemischen und Erzeugnissen ausgeübt werden. Die Vorschriften des Gefahrgutbeförderungsgesetzes und der darauf gestützten Rechtsverordnungen bleiben unberührt.
+(3) Die Abschnitte 3 bis 6 gelten für Tätigkeiten, bei denen die Sicherheit und Gesundheit der Beschäftigten durch Stoffe, Gemische und Erzeugnisse gefährdet sein kann. Sie gelten auch, wenn die Sicherheit und Gesundheit anderer Personen aufgrund von Tätigkeiten im Sinne von § 2 Absatz 5 gefährdet sein können, die durch Beschäftigte oder Unternehmer ohne Beschäftigte ausgeübt werden. Die Sätze 1 und 2 finden auch Anwendung auf Tätigkeiten, die im Zusammenhang mit der Beförderung von Stoffen, Gemischen und Erzeugnissen ausgeübt werden. Die Vorschriften des Gefahrgutbeförderungsgesetzes und der darauf gestützten Rechtsverordnungen bleiben unberührt.
 
 (4) Sofern nicht ausdrücklich etwas anderes bestimmt ist, gilt diese Verordnung nicht für
 
@@ -110,6 +113,9 @@ Diese Verordnung gilt ferner nicht für Betriebe, die dem Bundesberggesetz unter
 1.  gefährliche Stoffe und Gemische nach § 3,
 
 
+1a. Stoffe oder Gemische, die über die Gefahrenklasse gewässergefährdend nach der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2022/692 (ABl. L 129 vom 3.5.2022, S. 1) geändert worden ist, hinaus umweltgefährlich sind, indem sie selbst oder deren Umwandlungsprodukte sonst geeignet sind, die Beschaffenheit des Naturhaushaltes, von Wasser, Boden oder Luft, Klima, Tieren, Pflanzen oder Mikroorganismen derart zu verändern, dass dadurch sofort oder später Gefahren für die Umwelt herbeigeführt werden können,
+
+
 2.  Stoffe, Gemische und Erzeugnisse, die explosionsfähig sind,
 
 
@@ -124,9 +130,9 @@ Diese Verordnung gilt ferner nicht für Betriebe, die dem Bundesberggesetz unter
 
 
 
-(2) Für die Begriffe Stoff, Gemisch, Erzeugnis, Lieferant, nachgeschalteter Anwender und Hersteller gelten die Begriffsbestimmungen nach Artikel 2 der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1), die zuletzt durch die Verordnung (EU) 2015/1221 (ABl. L 197 vom 25.7.2015, S. 10) geändert worden ist.
+(2) Für die Begriffe Stoff, Gemisch, Erzeugnis, Lieferant, nachgeschalteter Anwender und Hersteller gelten die Begriffsbestimmungen nach Artikel 2 der Verordnung (EG) Nr. 1272/2008.
 
-(2a) Umweltgefährlich sind, über die Gefahrenklasse gewässergefährdend nach der Verordnung (EG) Nr. 1272/2008 hinaus, Stoffe oder Gemische, wenn sie selbst oder ihre Umwandlungsprodukte geeignet sind, die Beschaffenheit von Naturhaushalt, Boden oder Luft, Klima, Tieren, Pflanzen oder Mikroorganismen derart zu verändern, dass dadurch sofort oder später Gefahren für die Umwelt herbeigeführt werden können.
+(2a) (weggefallen)
 
 (3) Krebserzeugend, keimzellmutagen oder reproduktionstoxisch sind
 
@@ -139,12 +145,38 @@ Diese Verordnung gilt ferner nicht für Betriebe, die dem Bundesberggesetz unter
 3.  Gemische, die einen oder mehrere der in § 2 Absatz 3 Nummer 1 oder 2 genannten Stoffe enthalten, wenn die Konzentration dieses Stoffs oder dieser Stoffe die stoffspezifischen oder die allgemeinen Konzentrationsgrenzen nach der Verordnung (EG) Nr. 1272/2008 in der jeweils geltenden Fassung erreicht oder übersteigt, die für die Einstufung eines Gemischs als karzinogen, keimzellmutagen oder reproduktionstoxisch festgelegt sind,
 
 
-4.  Stoffe, Gemische oder Verfahren, die in den nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnissen als krebserzeugend, keimzellmutagen oder reproduktionstoxisch bezeichnet werden.
+4.  Stoffe, Gemische, Tätigkeiten oder Verfahren, die in den nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnissen als krebserzeugend, keimzellmutagen oder reproduktionstoxisch bezeichnet werden.
 
 
 
 
-(4) Organische Peroxide im Sinne des § 11 Absatz 4 und des Anhangs III sind Stoffe, die sich vom Wasserstoffperoxid dadurch ableiten, dass ein oder beide Wasserstoffatome durch organische Gruppen ersetzt sind, sowie Gemische, die diese Stoffe enthalten.
+(4) Organische Peroxide im Sinne des § 12 Absatz 4 und des Anhangs III sind Stoffe, die sich vom Wasserstoffperoxid dadurch ableiten, dass ein oder beide Wasserstoffatome durch organische Gruppen ersetzt sind, sowie Gemische, die diese Stoffe enthalten.
+
+(4a) Asbest sind folgende Silikate mit Faserstruktur:
+
+1.  Aktinolith, CAS-Nummer 77536-66-4,
+
+
+2.  Amosit, CAS-Nummer 12172-73-5,
+
+
+3.  Anthophyllit, CAS-Nummer 77536-67-5,
+
+
+4.  Chrysotil, CAS-Nummer 12001-29-5 und CAS-Nummer 132207-32-0,
+
+
+5.  Krokydolith, CAS-Nummer 12001-28-4,
+
+
+6.  Tremolit, CAS-Nummer 77536-68-6.
+
+
+
+
+(4b) Asbesthaltige Materialien sind jeweils Asbest enthaltende natürlich vorkommende mineralische Rohstoffe, Gemische oder Erzeugnisse.
+
+(4c) Anerkannte emissionsarme Verfahren sind behördlich oder von den Trägern der gesetzlichen Unfallversicherung geprüfte und anerkannte Arbeitsverfahren für Tätigkeiten mit asbesthaltigen Materialien, die nachweislich im Bereich niedrigen Risikos erfolgen.
 
 (5) Eine Tätigkeit ist jede Arbeit mit Stoffen, Gemischen oder Erzeugnissen, einschließlich Herstellung, Mischung, Ge- und Verbrauch, Lagerung, Aufbewahrung, Be- und Verarbeitung, Ab- und Umfüllung, Entfernung, Entsorgung und Vernichtung. Zu den Tätigkeiten zählen auch das innerbetriebliche Befördern sowie Bedien- und Überwachungsarbeiten.
 
@@ -183,6 +215,10 @@ Diese Verordnung gilt ferner nicht für Betriebe, die dem Bundesberggesetz unter
 
 (8) Der Arbeitsplatzgrenzwert ist der Grenzwert für die zeitlich gewichtete durchschnittliche Konzentration eines Stoffs in der Luft am Arbeitsplatz in Bezug auf einen gegebenen Referenzzeitraum. Er gibt an, bis zu welcher Konzentration eines Stoffs akute oder chronische schädliche Auswirkungen auf die Gesundheit von Beschäftigten im Allgemeinen nicht zu erwarten sind.
 
+(8a) Die Akzeptanzkonzentration ist die Konzentration eines als krebserzeugend eingestuften Stoffs in der Luft am Arbeitsplatz, die bei 40jähriger arbeitstäglicher Exposition mit dem Akzeptanzrisiko assoziiert ist. Bei Einhaltung der Akzeptanzkonzentration wird das Risiko einer Krebserkrankung als niedrig und akzeptabel angesehen (Bereich niedrigen Risikos). Bei einer Überschreitung der Akzeptanzkonzentration bis zur Erreichung der Toleranzkonzentration ist von einem mittleren Risiko auszugehen (Bereich mittleren Risikos).
+
+(8b) Die Toleranzkonzentration ist die Konzentration eines als krebserzeugend eingestuften Stoffs in der Luft am Arbeitsplatz, die bei 40jähriger arbeitstäglicher Exposition mit dem Toleranzrisiko assoziiert ist. Bei Überschreitung der Toleranzkonzentration wird das Risiko einer Krebserkrankung als hoch und nicht tolerabel angesehen (Bereich hohen Risikos).
+
 (9) Der biologische Grenzwert ist der Grenzwert für die toxikologisch-arbeitsmedizinisch abgeleitete Konzentration eines Stoffs, seines Metaboliten oder eines Beanspruchungsindikators im entsprechenden biologischen Material. Er gibt an, bis zu welcher Konzentration die Gesundheit von Beschäftigten im Allgemeinen nicht beeinträchtigt wird.
 
 (9a) Physikalisch-chemische Einwirkungen umfassen Gefährdungen, die hervorgerufen werden können durch Tätigkeiten mit
@@ -207,7 +243,7 @@ Diese Verordnung gilt ferner nicht für Betriebe, die dem Bundesberggesetz unter
 
 (15) Der Stand der Technik ist der Entwicklungsstand fortschrittlicher Verfahren, Einrichtungen oder Betriebsweisen, der die praktische Eignung einer Maßnahme zum Schutz der Gesundheit und zur Sicherheit der Beschäftigten gesichert erscheinen lässt. Bei der Bestimmung des Stands der Technik sind insbesondere vergleichbare Verfahren, Einrichtungen oder Betriebsweisen heranzuziehen, die mit Erfolg in der Praxis erprobt worden sind. Gleiches gilt für die Anforderungen an die Arbeitsmedizin und die Arbeitsplatzhygiene.
 
-(16) Fachkundig ist, wer zur Ausübung einer in dieser Verordnung bestimmten Aufgabe über die erforderlichen Fachkenntnisse verfügt. Die Anforderungen an die Fachkunde sind abhängig von der jeweiligen Art der Aufgabe. Zu den Anforderungen zählen eine entsprechende Berufsausbildung, Berufserfahrung oder eine zeitnah ausgeübte entsprechende berufliche Tätigkeit sowie die Teilnahme an spezifischen Fortbildungsmaßnahmen.
+(16) Fachkundig ist, wer zur Ausübung einer in dieser Verordnung bestimmten Aufgabe über die erforderlichen Fachkenntnisse verfügt. Die Anforderungen an die Fachkunde sind abhängig von der jeweiligen Art der Aufgabe. Zu den Anforderungen zählen eine entsprechende Berufsausbildung oder eine entsprechende Berufserfahrung oder eine zeitnah ausgeübte entsprechende berufliche Tätigkeit sowie die Teilnahme an spezifischen Fortbildungsmaßnahmen.
 
 (17) Sachkundig ist, wer seine bestehende Fachkunde durch Teilnahme an einem behördlich anerkannten Sachkundelehrgang erweitert hat. In Abhängigkeit vom Aufgabengebiet kann es zum Erwerb der Sachkunde auch erforderlich sein, den Lehrgang mit einer erfolgreichen Prüfung abzuschließen. Sachkundig ist ferner, wer über eine von der zuständigen Behörde als gleichwertig anerkannte oder in dieser Verordnung als gleichwertig bestimmte Qualifikation verfügt.
 
@@ -375,6 +411,14 @@ Diese Verordnung gilt ferner nicht für Betriebe, die dem Bundesberggesetz unter
     *   2.16
 
 
+*    *
+    *   q)
+
+    *   Desensibilisierte explosive Stoffe/Gemische
+
+    *   2.17
+
+
 *    *   2.
 
     *   Gesundheitsgefahren
@@ -393,7 +437,7 @@ Diese Verordnung gilt ferner nicht für Betriebe, die dem Bundesberggesetz unter
 *    *
     *   b)
 
-    *   Ätz-/Reizwirkung auf die Haut
+    *   Ätzwirkung auf die Haut/Hautreizung
 
     *   3.2
 
@@ -470,7 +514,7 @@ Diese Verordnung gilt ferner nicht für Betriebe, die dem Bundesberggesetz unter
 
 
 *    *
-    *   Gewässergefährdend (akut und langfristig)
+    *   Gewässergefährdend (akut und chronisch)
 
     *   4.1
 
@@ -493,7 +537,7 @@ Diese Verordnung gilt ferner nicht für Betriebe, die dem Bundesberggesetz unter
 
 ### § 4 Einstufung, Kennzeichnung, Verpackung
 
-(1) Die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen sowie von Erzeugnissen mit Explosivstoff richten sich nach den Bestimmungen der Verordnung (EG) Nr. 1272/2008. Gemische, die bereits vor dem 1. Juni 2015 in Verkehr gebracht worden sind und die nach den Bestimmungen der Richtlinie 1999/45/EG gekennzeichnet und verpackt sind, müssen bis 31. Mai 2017 nicht nach der Verordnung (EG) Nr. 1272/2008 eingestuft, gekennzeichnet und verpackt werden.
+(1) Die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen sowie von Erzeugnissen mit Explosivstoff richten sich nach den Bestimmungen der Verordnung (EG) Nr. 1272/2008.
 
 (2) Bei der Einstufung von Stoffen und Gemischen sind die nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse zu beachten.
 
@@ -541,6 +585,26 @@ dafür nicht ausreicht.
 (3) (weggefallen)
 
 
+### § 5 Sicherheitsdatenblatt und sonstige Informationspflichten
+
+(1) Die vom Lieferanten hinsichtlich des Sicherheitsdatenblatts beim Inverkehrbringen von Stoffen und Gemischen zu beachtenden Anforderungen ergeben sich aus Artikel 31 in Verbindung mit Anhang II der Verordnung (EG) Nr. 1907/2006. Ist nach diesen Vorschriften die Übermittlung eines Sicherheitsdatenblatts nicht erforderlich, richten sich die Informationspflichten nach Artikel 32 der Verordnung (EG) Nr. 1907/2006.
+
+(2) Bei den Angaben, die nach den Nummern 15 und 16 des Anhangs II der Verordnung (EG) Nr. 1907/2006 zu machen sind, sind insbesondere die nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse zu berücksichtigen, nach denen Stoffe oder Tätigkeiten als krebserzeugend, keimzellmutagen oder reproduktionstoxisch bezeichnet werden.
+
+(3) (weggefallen)
+
+
+### § 5a Besondere Mitwirkungs- und Informationspflichten für Veranlasser von Tätigkeiten an baulichen oder technischen Anlagen
+
+(1) Derjenige, der Tätigkeiten an baulichen oder technischen Anlagen veranlasst (Veranlasser), hat vor Beginn der Tätigkeiten dem ausführenden Unternehmen alle ihm vorliegenden Informationen zur Bau- oder Nutzungsgeschichte über vorhandene oder vermutete Gefahrstoffe schriftlich oder elektronisch zur Verfügung zu stellen. Der Veranlasser hat sich zur Informationsbeschaffung in zumutbarem Aufwand der ihm zugänglichen Unterlagen zu bedienen. Gefahrstoffe im Sinne von Satz 1 sind solche, die durch die Tätigkeiten freigesetzt werden und zu einer besonderen Gesundheitsgefährdung führen können.
+
+(2) Damit festgestellt werden kann, ob Asbest vorliegt, hat der Veranlasser vor Beginn der Tätigkeiten an Objekten mit Baujahr zwischen 1993 und 1996 das Datum des Baubeginns des Objekts oder das Baujahr des Objekts, sofern das genaue Datum des Baubeginns nicht bekannt ist, an das ausführende Unternehmen schriftlich oder elektronisch zu übermitteln. Bei Objekten mit Baujahr vor 1993 oder nach 1996 reicht die Angabe des Baujahrs aus.
+
+(3) Weiterreichende Informations-, Schutz- oder Überwachungspflichten, die sich für den Veranlasser nach anderen Rechtsvorschriften ergeben, bleiben unberührt.
+
+(4) Die Absätze 1 bis 3 gelten auch für private Haushalte.
+
+
 ## Abschnitt 3 - Gefährdungsbeurteilung und Grundpflichten
 
 
@@ -551,7 +615,10 @@ dafür nicht ausreicht.
 1.  gefährliche Eigenschaften der Stoffe oder Gemische, einschließlich ihrer physikalisch-chemischen Wirkungen,
 
 
-2.  Informationen des Lieferanten zum Gesundheitsschutz und zur Sicherheit insbesondere im Sicherheitsdatenblatt,
+2.  Informationen des Lieferanten zum Gesundheitsschutz und zur Sicherheit insbesondere im Sicherheitsdatenblatt, einschließlich der Angaben zu Zulassungspflicht und zu Herstellungs- und Verwendungsbeschränkungen,
+
+
+2a. Informationen des Veranlassers nach § 5a Absatz 1 und 2,
 
 
 3.  Art und Ausmaß der Exposition unter Berücksichtigung aller Expositionswege; dabei sind die Ergebnisse der Messungen und Ermittlungen nach § 7 Absatz 8 zu berücksichtigen,
@@ -563,18 +630,32 @@ dafür nicht ausreicht.
 5.  Arbeitsbedingungen und Verfahren, einschließlich der Arbeitsmittel und der Gefahrstoffmenge,
 
 
-6.  Arbeitsplatzgrenzwerte und biologische Grenzwerte,
+6.  Grenzwerte und Konzentrationen nach § 2 Absatz 8 bis 9,
 
 
 7.  Wirksamkeit der ergriffenen oder zu ergreifenden Schutzmaßnahmen,
 
 
-8.  Erkenntnisse aus arbeitsmedizinischen Vorsorgeuntersuchungen nach der Verordnung zur arbeitsmedizinischen Vorsorge.
+8.  tätigkeitsbezogene Erkenntnisse
+
+    a)  über Belastungs- und Expositionssituationen, einschließlich psychischer Belastungen,
+
+
+    b)  aus der arbeitsmedizinischen Vorsorge nach der Verordnung zur arbeitsmedizinischen Vorsorge, einschließlich Erkenntnissen aus dem Biomonitoring, soweit solche Erkenntnisse vorliegen.
 
 
 
 
-(2) Der Arbeitgeber hat sich die für die Gefährdungsbeurteilung notwendigen Informationen beim Lieferanten oder aus anderen, ihm mit zumutbarem Aufwand zugänglichen Quellen zu beschaffen. Insbesondere hat der Arbeitgeber die Informationen zu beachten, die ihm nach Titel IV der Verordnung (EG)Nr. 1907/2006 zur Verfügung gestellt werden; dazu gehören Sicherheitsdatenblätter und die Informationen zu Stoffen oder Gemischen, für die kein Sicherheitsdatenblatt zu erstellen ist. Sofern die Verordnung (EG) Nr. 1907/2006 keine Informationspflicht vorsieht, hat der Lieferant dem Arbeitgeber auf Anfrage die für die Gefährdungsbeurteilung notwendigen Informationen über die Gefahrstoffe zur Verfügung zu stellen.
+
+
+
+(2) Der Arbeitgeber hat sich die für die Gefährdungsbeurteilung notwendigen Informationen beim Lieferanten, Veranlasser oder aus anderen, ihm mit zumutbarem Aufwand zugänglichen Quellen zu beschaffen. Insbesondere hat der Arbeitgeber die Informationen zu beachten, die ihm nach Titel IV der Verordnung (EG)Nr. 1907/2006 zur Verfügung gestellt werden; dazu gehören Sicherheitsdatenblätter und die Informationen zu Stoffen oder Gemischen, für die kein Sicherheitsdatenblatt zu erstellen ist. Sofern die Verordnung (EG) Nr. 1907/2006 keine Informationspflicht vorsieht, hat der Lieferant dem Arbeitgeber auf Anfrage die für die Gefährdungsbeurteilung notwendigen Informationen über die Gefahrstoffe zur Verfügung zu stellen.
+
+(2a) Der Arbeitgeber hat im Rahmen der Gefährdungsbeurteilung die ihm gemäß § 5a Absatz 1 durch den Veranlasser zur Verfügung gestellten Informationen dahingehend zu prüfen, ob Gefahrstoffe bei den Tätigkeiten an den baulichen oder technischen Anlagen freigesetzt werden und zu einer Gesundheitsgefährdung der Beschäftigten führen können.
+
+(2b) Reichen die dem Arbeitgeber gemäß § 5a Absatz 1 vom Veranlasser zur Verfügung gestellten Informationen für die Gefährdungsbeurteilung nicht aus, so hat der Arbeitgeber im Rahmen einer besonderen Leistung zu prüfen, ob Gefahrstoffe bei den Tätigkeiten an baulichen oder technischen Anlagen freigesetzt werden und zu einer Gesundheitsgefährdung der Beschäftigten führen können. Erfordert die Durchführung dieser Prüfung Kenntnisse, über die der Arbeitgeber nicht verfügt, hat er sich dabei externen Sachverstands zu bedienen. Dies gilt insbesondere dann, wenn für eine sachgerechte Prüfung eine technische Erkundung erforderlich wird.
+
+(2c) Ist für die Durchführung der Gefährdungsbeurteilung und die daraus resultierende Festlegung geeigneter Schutzmaßnahmen eine technische Erkundung erforderlich, um festzustellen, ob Gefahrstoffe bei den Tätigkeiten an baulichen oder technischen Anlagen freigesetzt werden und eine Gesundheitsgefährdung der Beschäftigten darstellen können, ist diese eine Voraussetzung für die Durchführung der Tätigkeiten.
 
 (3) Stoffe und Gemische, die nicht von einem Lieferanten nach § 4 Absatz 1 eingestuft und gekennzeichnet worden sind, beispielsweise innerbetrieblich hergestellte Stoffe oder Gemische, hat der Arbeitgeber selbst einzustufen. Zumindest aber hat er die von den Stoffen oder Gemischen ausgehenden Gefährdungen der Beschäftigten zu ermitteln; dies gilt auch für Gefahrstoffe nach § 2 Absatz 1 Nummer 4.
 
@@ -596,7 +677,7 @@ Insbesondere hat er zu ermitteln, ob die Stoffe, Gemische und Erzeugnisse auf Gr
 
 (6) Die mit den Tätigkeiten verbundenen inhalativen, dermalen und physikalisch-chemischen Gefährdungen sind unabhängig voneinander zu beurteilen und in der Gefährdungsbeurteilung zusammenzuführen. Treten bei einer Tätigkeit mehrere Gefahrstoffe gleichzeitig auf, sind Wechsel- oder Kombinationswirkungen der Gefahrstoffe, die Einfluss auf die Gesundheit und Sicherheit der Beschäftigten haben, bei der Gefährdungsbeurteilung zu berücksichtigen, soweit solche Wirkungen bekannt sind.
 
-(7) Der Arbeitgeber kann bei der Festlegung der Schutzmaßnahmen eine Gefährdungsbeurteilung übernehmen, die ihm der Lieferant mitgeliefert hat, sofern die Angaben und Festlegungen in dieser Gefährdungsbeurteilung den Arbeitsbedingungen und Verfahren, einschließlich der Arbeitsmittel und der Gefahrstoffmenge, im eigenen Betrieb entsprechen.
+(7) Der Arbeitgeber kann bei der Festlegung der Schutzmaßnahmen eine vorhandene Gefährdungsbeurteilung Dritter oder Teile davon übernehmen, sofern die Angaben und Festlegungen in dieser Gefährdungsbeurteilung den Arbeitsbedingungen und Verfahren, einschließlich der Arbeitsmittel und der Gefahrstoffmenge, im eigenen Betrieb entsprechen.
 
 (8) Der Arbeitgeber hat die Gefährdungsbeurteilung unabhängig von der Zahl der Beschäftigten erstmals vor Aufnahme der Tätigkeit zu dokumentieren. Dabei ist Folgendes anzugeben:
 
@@ -609,21 +690,16 @@ Insbesondere hat er zu ermitteln, ob die Stoffe, Gemische und Erzeugnisse auf Gr
 3.  eine Begründung für einen Verzicht auf eine technisch mögliche Substitution, sofern Schutzmaßnahmen nach § 9 oder § 10 zu ergreifen sind,
 
 
-4.  die durchzuführenden Schutzmaßnahmen einschließlich derer,
-
-    a)  die wegen der Überschreitung eines Arbeitsplatzgrenzwerts zusätzlich ergriffen wurden sowie der geplanten Schutzmaßnahmen, die zukünftig ergriffen werden sollen, um den Arbeitsplatzgrenzwert einzuhalten, oder
+4.  die durchzuführenden Schutzmaßnahmen einschließlich derer, die wegen der Überschreitung eines Arbeitsplatzgrenzwerts oder bei Tätigkeiten im Bereich mittleren Risikos zusätzlich ergriffen wurden, sowie der geplanten Schutzmaßnahmen, die zukünftig ergriffen werden sollen, um den entsprechenden Wert einzuhalten oder in den Bereich niedrigen Risikos zu gelangen,
 
 
-    b)  die unter Berücksichtigung eines Beurteilungsmaßstabs für krebserzeugende Gefahrstoffe, der nach § 20 Absatz 4 bekannt gegeben worden ist, zusätzlich getroffen worden sind oder zukünftig getroffen werden sollen (Maßnahmenplan),
+5.  eine Begründung, wenn bei Tätigkeiten mit krebserzeugenden oder keimzellmutagenen Gefahrstoffen der Kategorie 1A oder 1B Beschäftigte nicht in das Expositionsverzeichnis nach § 10a Absatz 1 Satz 1 aufgenommen wurden,
 
 
+6.  eine Begründung, wenn von den nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnissen abgewichen wird, und
 
 
-
-5.  eine Begründung, wenn von den nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnissen abgewichen wird, und
-
-
-6.  die Ermittlungsergebnisse, die belegen, dass der Arbeitsplatzgrenzwert eingehalten wird oder, bei Stoffen ohne Arbeitsplatzgrenzwert, die ergriffenen technischen Schutzmaßnahmen wirksam sind.
+7.  die Ermittlungsergebnisse, die belegen, dass der Grenzwert nach § 7 Absatz 8 Satz 1 Nummer 1 oder 2 eingehalten wird oder, bei Stoffen ohne entsprechende Werte, die ergriffenen technischen Schutzmaßnahmen wirksam sind.
 
 
 
@@ -640,7 +716,7 @@ Im Rahmen der Dokumentation der Gefährdungsbeurteilung können auch vorhandene 
 3.  ob und welche Bereiche entsprechend Anhang I Nummer 1.7 in Zonen eingeteilt wurden,
 
 
-4.  für welche Bereiche Explosionsschutzmaßnahmen nach § 11 und Anhang I Nummer 1 getroffen wurden,
+4.  für welche Bereiche Explosionsschutzmaßnahmen nach § 12 und Anhang I Nummer 1 getroffen wurden,
 
 
 5.  wie die Vorgaben nach § 15 umgesetzt werden und
@@ -655,7 +731,7 @@ Im Rahmen der Dokumentation der Gefährdungsbeurteilung können auch vorhandene 
 
 (11) Die Gefährdungsbeurteilung darf nur von fachkundigen Personen durchgeführt werden. Verfügt der Arbeitgeber nicht selbst über die entsprechenden Kenntnisse, so hat er sich fachkundig beraten zu lassen. Fachkundig können insbesondere die Fachkraft für Arbeitssicherheit und die Betriebsärztin oder der Betriebsarzt sein.
 
-(12) Der Arbeitgeber hat nach Satz 2 ein Verzeichnis der im Betrieb verwendeten Gefahrstoffe zu führen, in dem auf die entsprechenden Sicherheitsdatenblätter verwiesen wird. Das Verzeichnis muss mindestens folgende Angaben enthalten:
+(12) Der Arbeitgeber hat ein Verzeichnis der im Betrieb verwendeten Gefahrstoffe zu führen. Das Verzeichnis muss mindestens folgende Angaben enthalten:
 
 1.  Bezeichnung des Gefahrstoffs,
 
@@ -666,11 +742,14 @@ Im Rahmen der Dokumentation der Gefährdungsbeurteilung können auch vorhandene 
 3.  Angaben zu den im Betrieb verwendeten Mengenbereichen,
 
 
-4.  Bezeichnung der Arbeitsbereiche, in denen Beschäftigte dem Gefahrstoff ausgesetzt sein können.
+4.  Bezeichnung der Arbeitsbereiche, in denen Beschäftigte gegenüber dem Gefahrstoff exponiert sein können, und
+
+
+5.  einen Verweis auf die entsprechenden Sicherheitsdatenblätter.
 
 
 
-Die Sätze 1 und 2 gelten nicht, wenn nur Tätigkeiten mit geringer Gefährdung nach Absatz 13 ausgeübt werden. Die Angaben nach Satz 2 Nummer 1, 2 und 4 müssen allen betroffenen Beschäftigten und ihrer Vertretung zugänglich sein.
+Die Sätze 1 und 2 gelten nicht, wenn nur Tätigkeiten mit geringer Gefährdung nach Absatz 13 ausgeübt werden. Die Angaben nach Satz 2 Nummer 1, 2, 4 und 5 müssen allen betroffenen Beschäftigten und ihrer Vertretung zugänglich sein.
 
 (13) Ergibt sich aus der Gefährdungsbeurteilung für bestimmte Tätigkeiten auf Grund
 
@@ -689,12 +768,14 @@ Die Sätze 1 und 2 gelten nicht, wenn nur Tätigkeiten mit geringer Gefährdung 
 
 insgesamt eine nur geringe Gefährdung der Beschäftigten und reichen die nach § 8 zu ergreifenden Maßnahmen zum Schutz der Beschäftigten aus, so müssen keine weiteren Maßnahmen des Abschnitts 4 ergriffen werden.
 
-(14) Liegen für Stoffe oder Gemische keine Prüfdaten oder entsprechende aussagekräftige Informationen zur akut toxischen, reizenden, hautsensibilisierenden oder keimzellmutagenen Wirkung oder zur spezifischen Zielorgan-Toxizität bei wiederholter Exposition vor, sind die Stoffe oder Gemische bei der Gefährdungsbeurteilung wie Stoffe der Gefahrenklasse Akute Toxizität (oral, dermal und inhalativ) Kategorie 3, Ätz-/Reizwirkung auf die Haut Kategorie 2, Sensibilisierung der Haut Kategorie 1, Keimzellmutagenität Kategorie 2 oder Spezifische Zielorgan-Toxizität, wiederholte Exposition (STOT RE) Kategorie 2 zu behandeln. Hinsichtlich der Spezifizierung der anzuwendenden Einstufungskategorien sind die entsprechenden nach § 20 Absatz 4 Nummer 1 bekannt gegebenen Regeln und Erkenntnisse zu berücksichtigen.
+(14) Liegen für Stoffe oder Gemische keine Prüfdaten oder entsprechende aussagekräftige Informationen zur akut toxischen, reizenden, hautsensibilisierenden oder keimzellmutagenen Wirkung oder zur spezifischen Zielorgan-Toxizität bei wiederholter Exposition vor, sind die Stoffe oder Gemische bei der Gefährdungsbeurteilung wie Stoffe der Gefahrenklasse Akute Toxizität (oral, dermal und inhalativ) Kategorie 3, Ätzwirkung auf die Haut/Hautreizung Kategorie 2, Sensibilisierung der Haut Kategorie 1, Keimzellmutagenität Kategorie 2 oder Spezifische Zielorgan-Toxizität, wiederholte Exposition (STOT RE) Kategorie 2 zu behandeln. Hinsichtlich der Spezifizierung der anzuwendenden Einstufungskategorien sind die entsprechenden nach § 20 Absatz 4 Nummer 1 bekannt gegebenen Regeln und Erkenntnisse zu berücksichtigen.
 
 
 ### § 7 Grundpflichten
 
 (1) Der Arbeitgeber darf eine Tätigkeit mit Gefahrstoffen erst aufnehmen lassen, nachdem eine Gefährdungsbeurteilung nach § 6 durchgeführt und die erforderlichen Schutzmaßnahmen nach Abschnitt 4 ergriffen worden sind.
+
+(1a) Der Arbeitgeber hat die Belange des Arbeitsschutzes bei Tätigkeiten mit Gefahrstoffen angemessen in seine betriebliche Organisation einzubinden und die dafür erforderlichen personellen, finanziellen und organisatorischen Voraussetzungen zu schaffen. Insbesondere hat er dafür zu sorgen, dass bei der Gestaltung der Arbeitsorganisation, des Arbeitsverfahrens und des Arbeitsplatzes sowie bei der Auswahl und Bereitstellung der Arbeitsmittel alle Faktoren ausreichend berücksichtigt werden, die mit der Sicherheit und Gesundheit, einschließlich der psychischen Gesundheit, der Beschäftigten zusammenhängen.
 
 (2) Um die Gesundheit und die Sicherheit der Beschäftigten bei allen Tätigkeiten mit Gefahrstoffen zu gewährleisten, hat der Arbeitgeber die erforderlichen Maßnahmen nach dem Arbeitsschutzgesetz und zusätzlich die nach dieser Verordnung erforderlichen Maßnahmen zu ergreifen. Dabei hat er die nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse zu berücksichtigen. Bei Einhaltung dieser Regeln und Erkenntnisse ist in der Regel davon auszugehen, dass die Anforderungen dieser Verordnung erfüllt sind. Von diesen Regeln und Erkenntnissen kann abgewichen werden, wenn durch andere Maßnahmen zumindest in vergleichbarer Weise der Schutz der Gesundheit und die Sicherheit der Beschäftigten gewährleistet werden.
 
@@ -730,24 +811,24 @@ insgesamt eine nur geringe Gefährdung der Beschäftigten und reichen die nach �
 
 (7) Der Arbeitgeber hat die Funktion und die Wirksamkeit der technischen Schutzmaßnahmen regelmäßig, mindestens jedoch jedes dritte Jahr, zu überprüfen. Das Ergebnis der Prüfungen ist aufzuzeichnen und vorzugsweise zusammen mit der Dokumentation nach § 6 Absatz 8 aufzubewahren.
 
-(8) Der Arbeitgeber stellt sicher, dass die Arbeitsplatzgrenzwerte eingehalten werden. Er hat die Einhaltung durch Arbeitsplatzmessungen oder durch andere geeignete Methoden zur Ermittlung der Exposition zu überprüfen. Ermittlungen sind auch durchzuführen, wenn sich die Bedingungen ändern, welche die Exposition der Beschäftigten beeinflussen können. Die Ermittlungsergebnisse sind aufzuzeichnen, aufzubewahren und den Beschäftigten und ihrer Vertretung zugänglich zu machen. Werden Tätigkeiten entsprechend einem verfahrens- und stoffspezifischen Kriterium ausgeübt, das nach § 20 Absatz 4 bekannt gegebenen worden ist, kann der Arbeitgeber in der Regel davon ausgehen, dass die Arbeitsplatzgrenzwerte eingehalten werden; in diesem Fall findet Satz 2 keine Anwendung.
+(8)Der Arbeitgeber stellt sicher, dass folgende Grenzwerte eingehalten werden:
 
-(9) Sofern Tätigkeiten mit Gefahrstoffen ausgeübt werden, für die kein Arbeitsplatzgrenzwert vorliegt, hat der Arbeitgeber regelmäßig die Wirksamkeit der ergriffenen technischen Schutzmaßnahmen durch geeignete Ermittlungsmethoden zu überprüfen, zu denen auch Arbeitsplatzmessungen gehören können.
-
-(10) Wer Arbeitsplatzmessungen von Gefahrstoffen durchführt, muss fachkundig sein und über die erforderlichen Einrichtungen verfügen. Wenn ein Arbeitgeber eine für Messungen von Gefahrstoffen an Arbeitsplätzen akkreditierte Messstelle beauftragt, kann der Arbeitgeber in der Regel davon ausgehen, dass die von dieser Messstelle gewonnenen Erkenntnisse zutreffend sind.
-
-(11) Der Arbeitgeber hat bei allen Ermittlungen und Messungen die nach § 20 Absatz 4 bekannt gegebenen Verfahren, Messregeln und Grenzwerte zu berücksichtigen, bei denen die entsprechenden Bestimmungen der folgenden Richtlinien berücksichtigt worden sind:
-
-1.  der Richtlinie 98/24/EG des Rates vom 7. April 1998 zum Schutz von Gesundheit und Sicherheit der Arbeitnehmer vor der Gefährdung durch chemische Arbeitsstoffe bei der Arbeit (vierzehnte Einzelrichtlinie im Sinne des Artikels 16 Absatz 1 der Richtlinie 89/391/EWG) (ABl. L 131 vom 5.5.1998, S. 11), die zuletzt durch die Richtlinie 2014/27/EU (ABl. L 65 vom 5.3.2014, S. 1) geändert worden ist, einschließlich der Richtlinien über Arbeitsplatzgrenzwerte, die nach Artikel 3 Absatz 2 der Richtlinie 98/24/EG erlassen wurden,
+1.  Arbeitsplatzgrenzwerte und
 
 
-2.  der Richtlinie 2004/37/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über den Schutz der Arbeitnehmer gegen Gefährdung durch Karzinogene oder Mutagene bei der Arbeit (Sechste Einzelrichtlinie im Sinne von Artikel 16 Absatz 1 der Richtlinie 89/391/EWG des Rates) (kodifizierte Fassung) (ABl. L 158 vom 30.4.2004, S. 50, L 229 vom 29.6.2004, S. 23, L 204 vom 4.8.2007, S. 28), die zuletzt durch die Richtlinie 2014/27/EU geändert worden ist, sowie
-
-
-3.  der Richtlinie 2009/148/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über den Schutz der Arbeitnehmer gegen Gefährdung durch Asbest am Arbeitsplatz (ABl. L 330 vom 16.12.2009, S. 28).
+2.  Grenzwerte in Anhang III der Richtlinie 2004/37/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über den Schutz der Arbeitnehmer gegen Gefährdung durch Exposition gegenüber Karzinogenen, Mutagenen oder reproduktionstoxischen Stoffen bei der Arbeit (Sechste Einzelrichtlinie im Sinne von Artikel 16 Absatz 1 der Richtlinie 89/391/EWG des Rates) (kodifizierte Fassung) (ABl. L 158 vom 30.4.2004, S. 50; L 229 vom 29.6.2004, S. 23; L 204 vom 4.8.2007, S. 28), die zuletzt durch die Richtlinie (EU) 2022/431 vom 9. März 2022 (ABl. L 088 vom 16.3.2022, S. 1) geändert worden ist, in der jeweils geltenden Fassung und nach Ablauf der in der Richtlinie festgelegten Umsetzungsfrist.
 
 
 
+Er hat die Einhaltung durch Arbeitsplatzmessungen oder durch andere geeignete Methoden zur Ermittlung der Exposition zu überprüfen. Ermittlungen sind auch durchzuführen, wenn sich die Bedingungen ändern, welche die Exposition der Beschäftigten beeinflussen können. Die Ermittlungsergebnisse sind aufzuzeichnen, aufzubewahren und den Beschäftigten und ihrer Vertretung zugänglich zu machen. Werden Tätigkeiten entsprechend einem verfahrens- und stoffspezifischen Kriterium ausgeübt, das nach § 20 Absatz 4 bekannt gegebenen worden ist, kann der Arbeitgeber in der Regel davon ausgehen, dass die Arbeitsplatzgrenzwerte eingehalten werden; in diesem Fall findet Satz 2 keine Anwendung.
+
+(8a) Kann eine Exposition am Arbeitsplatz anderenfalls nicht ausreichend beurteilt werden, können zum Zweck der Beurteilung der Exposition der Beschäftigten zur Erfüllung der Pflichten nach § 6 Absatz 1 Erkenntnisse aus dem Biomonitoring nach § 6 Absatz 2 der Verordnung zur arbeitsmedizinischen Vorsorge verwendet werden, sofern solche Erkenntnisse vorliegen. Soweit dies im Einzelfall erforderlich ist, können zu diesem Zweck auch personenbezogene Erkenntnisse verwendet werden. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend.
+
+(9) Sofern Tätigkeiten mit Gefahrstoffen ausgeübt werden, für die keine Grenzwerte oder Konzentrationen nach § 2 Absatz 8 bis 8b oder § 7 Absatz 8 Satz 1 Nummer 2 vorliegen, hat der Arbeitgeber regelmäßig die Wirksamkeit der ergriffenen technischen Schutzmaßnahmen durch geeignete Ermittlungsmethoden zu überprüfen, zu denen auch Arbeitsplatzmessungen gehören können.
+
+(10) Wer Arbeitsplatzmessungen von Gefahrstoffen durchführt, muss fachkundig sein und über die erforderlichen Einrichtungen verfügen und wer geeignete Methoden zur Ermittlung der Exposition am Arbeitsplatz anwendet, muss ebenfalls fachkundig sein. Wenn ein Arbeitgeber eine für Messungen von Gefahrstoffen an Arbeitsplätzen akkreditierte Messstelle beauftragt, kann der Arbeitgeber in der Regel davon ausgehen, dass die von dieser Messstelle gewonnenen Erkenntnisse zutreffend sind.
+
+(11) Der Arbeitgeber hat bei allen Ermittlungen und Messungen die nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse zu berücksichtigen.
 
 
 ## Abschnitt 4 - Schutzmaßnahmen
@@ -763,7 +844,7 @@ insgesamt eine nur geringe Gefährdung der Beschäftigten und reichen die nach �
 2.  Bereitstellung geeigneter Arbeitsmittel für Tätigkeiten mit Gefahrstoffen und geeignete Wartungsverfahren zur Gewährleistung der Gesundheit und Sicherheit der Beschäftigten bei der Arbeit,
 
 
-3.  Begrenzung der Anzahl der Beschäftigten, die Gefahrstoffen ausgesetzt sind oder ausgesetzt sein können,
+3.  Begrenzung der Anzahl der Beschäftigten, die gegenüber Gefahrstoffen exponiert sind oder exponiert sein können,
 
 
 4.  Begrenzung der Dauer und der Höhe der Exposition,
@@ -794,7 +875,7 @@ insgesamt eine nur geringe Gefährdung der Beschäftigten und reichen die nach �
 
 Kennzeichnungspflichten nach anderen Rechtsvorschriften bleiben unberührt. Solange der Arbeitgeber den Verpflichtungen nach Satz 1 nicht nachgekommen ist, darf er Tätigkeiten mit den dort genannten Stoffen und Gemischen nicht ausüben lassen. Satz 1 Nummer 2 gilt nicht für Stoffe, die für Forschungs- und Entwicklungszwecke oder für wissenschaftliche Lehrzwecke neu hergestellt worden sind und noch nicht geprüft werden konnten. Eine Exposition der Beschäftigten bei Tätigkeiten mit diesen Stoffen ist zu vermeiden.
 
-(3) Der Arbeitgeber hat gemäß den Ergebnissen der Gefährdungsbeurteilung nach § 6 sicherzustellen, dass die Beschäftigten in Arbeitsbereichen, in denen sie Gefahrstoffen ausgesetzt sein können, keine Nahrungs- oder Genussmittel zu sich nehmen. Der Arbeitgeber hat hierfür vor Aufnahme der Tätigkeiten geeignete Bereiche einzurichten.
+(3) Der Arbeitgeber hat gemäß den Ergebnissen der Gefährdungsbeurteilung nach § 6 sicherzustellen, dass die Beschäftigten in Arbeitsbereichen, in denen sie gegenüber Gefahrstoffen exponiert sein können, keine Nahrungs- oder Genussmittel zu sich nehmen. Der Arbeitgeber hat hierfür vor Aufnahme der Tätigkeiten geeignete Bereiche einzurichten.
 
 (4) Der Arbeitgeber hat sicherzustellen, dass durch Verwendung verschließbarer Behälter eine sichere Lagerung, Handhabung und Beförderung von Gefahrstoffen auch bei der Abfallentsorgung gewährleistet ist.
 
@@ -802,7 +883,7 @@ Kennzeichnungspflichten nach anderen Rechtsvorschriften bleiben unberührt. Sola
 
 (6) Der Arbeitgeber hat sicherzustellen, dass Gefahrstoffe, die nicht mehr benötigt werden, und entleerte Behälter, die noch Reste von Gefahrstoffen enthalten können, sicher gehandhabt, vom Arbeitsplatz entfernt und sachgerecht gelagert oder entsorgt werden.
 
-(7) Der Arbeitgeber hat sicherzustellen, dass Stoffe und Gemische, die als akut toxisch Kategorie 1, 2 oder 3, spezifisch zielorgantoxisch Kategorie 1, krebserzeugend Kategorie 1A oder 1B oder keimzellmutagen Kategorie 1A oder 1B eingestuft sind, unter Verschluss oder so aufbewahrt oder gelagert werden, dass nur fachkundige und zuverlässige Personen Zugang haben. Tätigkeiten mit diesen Stoffen und Gemischen dürfen nur von fachkundigen oder besonders unterwiesenen Personen ausgeführt werden. Satz 2 gilt auch für Tätigkeiten mit Stoffen und Gemischen, die als reproduktionstoxisch Kategorie 1A oder 1B oder als atemwegssensibilisierend eingestuft sind. Die Sätze 1 und 2 gelten nicht für Kraftstoffe an Tankstellen oder sonstigen Betankungseinrichtungen sowie für Stoffe und Gemische, die als akut toxisch Kategorie 3 eingestuft sind, sofern diese vormals nach der Richtlinie 67/548/EWG oder der Richtlinie 1999/45/EG als gesundheitsschädlich bewertet wurden. Hinsichtlich der Bewertung als gesundheitsschädlich sind die entsprechenden nach § 20 Absatz 4 Nummer 1 bekannt gegebenen Regeln und Erkenntnisse zu berücksichtigen.
+(7) Der Arbeitgeber hat sicherzustellen, dass Stoffe und Gemische, die als akut toxisch Kategorie 1, 2 oder 3 eingestuft sind, unter Verschluss oder so aufbewahrt oder gelagert werden, dass nur zuverlässige Personen Zugang haben, die fachkundig oder entsprechend tätigkeitsbezogen unterwiesen sind. Tätigkeiten mit diesen Stoffen und Gemischen dürfen nur von fachkundigen oder entsprechend tätigkeitsbezogen unterwiesenen Personen ausgeführt werden. Satz 2 gilt auch für Tätigkeiten mit Stoffen und Gemischen, die als atemwegssensibilisierend eingestuft sind. Die Sätze 1 und 2 gelten nicht für Kraftstoffe an Tankstellen oder sonstigen Betankungseinrichtungen sowie für Stoffe und Gemische, die als akut toxisch Kategorie 3 eingestuft sind, sofern diese vormals nach der Richtlinie 67/548/EWG oder der Richtlinie 1999/45/EG als gesundheitsschädlich bewertet wurden. Hinsichtlich der Bewertung als gesundheitsschädlich sind die entsprechenden nach § 20 Absatz 4 Nummer 1 bekannt gegebenen Erkenntnisse zu berücksichtigen.
 
 (8) Der Arbeitgeber hat bei Tätigkeiten mit Gefahrstoffen nach Anhang I Nummer 2 bis 5 sowohl die §§ 6 bis 18 als auch die betreffenden Vorschriften des Anhangs I Nummer 2 bis 5 zu beachten.
 
@@ -844,36 +925,255 @@ Ist die Anwendung eines geschlossenen Systems technisch nicht möglich, so hat d
 (7) Wenn Tätigkeiten mit Gefahrstoffen von einer oder einem Beschäftigten allein ausgeübt werden, hat der Arbeitgeber zusätzliche Schutzmaßnahmen zu ergreifen oder eine angemessene Aufsicht zu gewährleisten. Dies kann auch durch den Einsatz technischer Mittel sichergestellt werden.
 
 
-### § 10 Besondere Schutzmaßnahmen bei Tätigkeiten mit krebserzeugenden, keimzellmutagenen und reproduktionstoxischen Gefahrstoffen der Kategorie 1A und 1B
+### § 10 Besondere Schutzmaßnahmen bei Tätigkeiten mit krebserzeugenden, keimzellmutagenen oder reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B
 
-(1) Bei Tätigkeiten mit krebserzeugenden Gefahrstoffen der Kategorie 1A oder 1B, für die kein Arbeitsplatzgrenzwert nach § 20 Absatz 4 bekannt gegeben worden ist, hat der Arbeitgeber ein geeignetes, risikobezogenes Maßnahmenkonzept anzuwenden, um das Minimierungsgebot nach § 7 Absatz 4 umzusetzen. Hierbei sind die nach § 20 Absatz 4 bekannt gegebenen Regeln, Erkenntnisse und Beurteilungsmaßstäbe zu berücksichtigen. Bei Tätigkeiten mit krebserzeugenden, keimzellmutagenen oder reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B hat der Arbeitgeber, unbeschadet des Absatzes 2, zusätzlich die Bestimmungen nach den Absätzen 3 bis 5 zu erfüllen. Die besonderen Bestimmungen des Anhangs II Nummer 6 sind zu beachten.
+(1) Der Arbeitgeber hat sicherzustellen, dass krebserzeugende, keimzellmutagene oder reproduktionstoxische Gefahrstoffe der Kategorie 1A oder 1B in einem geschlossenen System hergestellt und verwendet werden, wenn eine Substitution der Gefahrstoffe technisch nicht möglich ist. Ist die Anwendung eines geschlossenen Systems technisch nicht möglich, hat der Arbeitgeber die Exposition der Beschäftigten nach dem Stand der Technik zu minimieren. Dabei hat er die Absätze 2 bis 6 zu beachten. Schutzmaßnahmen sind dabei umso dringlicher zu ergreifen, je höher die Exposition der Beschäftigten ist. Die Herstellungs- und Verwendungsbeschränkungen nach Anhang II Nummer 6 sind zu beachten. Für Tätigkeiten mit Asbest gelten die speziellen Anforderungen nach § 11a in Verbindung mit Anhang I Nummer 3.
 
-(2) Die Absätze 3 bis 5 gelten nicht, wenn
-
-1.  ein Arbeitsplatzgrenzwert nach § 20 Absatz 4 bekannt gegeben worden ist, dieser eingehalten und dies durch Arbeitsplatzmessung oder durch andere geeignete Methoden zur Ermittlung der Exposition belegt wird oder
-
-
-2.  Tätigkeiten entsprechend einem nach § 20 Absatz 4 bekannt gegebenen verfahrens- und stoffspezifischen Kriterium ausgeübt werden.
-
-
-
-
-(3) Wenn Tätigkeiten mit krebserzeugenden, keimzellmutagenen oder reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B ausgeübt werden, hat der Arbeitgeber
+(2) Der Arbeitgeber hat
 
 1.  die Exposition der Beschäftigten durch Arbeitsplatzmessungen oder durch andere geeignete Ermittlungsmethoden zu bestimmen, auch um erhöhte Expositionen infolge eines unvorhersehbaren Ereignisses oder eines Unfalls schnell erkennen zu können,
 
 
-2.  Gefahrenbereiche abzugrenzen, in denen Beschäftigte diesen Gefahrstoffen ausgesetzt sind oder ausgesetzt sein können, und Warn- und Sicherheitszeichen anzubringen, einschließlich der Verbotszeichen „Zutritt für Unbefugte verboten“ und „Rauchen verboten“ nach Anhang II Nummer 3.1 der Richtlinie 92/58/EWG des Rates vom 24. Juni 1992 über Mindestvorschriften für die Sicherheits- und/oder Gesundheitsschutzkennzeichnung am Arbeitsplatz (ABl. L 245 vom 26.8.1992, S. 23), die zuletzt durch die Richtlinie 2014/27/EU (ABl. L 65 vom 5.3.2014, S. 1) geändert worden ist.
+2.  die Arbeitsbereiche abzugrenzen, in denen Beschäftigte gegenüber diesen Gefahrstoffen exponiert werden oder exponiert werden können, und die erforderlichen Sicherheitszeichen einschließlich der Verbotszeichen „Zutritt für Unbefugte verboten“ und „Rauchen verboten“ anzubringen; dabei richtet sich die Auswahl der Sicherheitskennzeichnung nach Anhang II Nummer 3.1 der Richtlinie 92/58/EWG des Rates vom 24. Juni 1992 über Mindestvorschriften für die Sicherheits- und/oder Gesundheitsschutzkennzeichnung am Arbeitsplatz (Neunte Einzelrichtlinie im Sinne von Artikel 16 Absatz 1 der Richtlinie 89/391/EWG) (ABl. L 245 vom 26.8.1992, S. 23), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2017, S. 241) geändert worden ist,
+
+
+3.  sicherzustellen, dass die nach Nummer 2 gekennzeichneten Arbeitsbereiche nur den Beschäftigten zugänglich sind, die sie zur Ausübung ihrer Arbeit oder zur Durchführung bestimmter Aufgaben betreten müssen,
+
+
+4.  sicherzustellen, dass die Beschäftigten nach Nummer 3 fachkundig oder entsprechend tätigkeitsbezogen unterwiesen sind,
+
+
+5.  sicherzustellen, dass die in einem nach Nummer 2 gekennzeichneten Arbeitsbereich abgesaugte Luft nicht in den Arbeitsbereich zurückgeführt wird.
+
+
+
+Satz 1 Nummer 2 und 4 gilt nicht für Tätigkeiten, für die nach § 20 Absatz 4 ein Arbeitsplatzgrenzwert bekannt gegeben wurde, wenn dieser Wert eingehalten wird. Satz 1 Nummer 5 gilt nicht, wenn die abgesaugte Luft unter Berücksichtigung der nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse sowie unter Anwendung von behördlich oder von den Trägern der gesetzlichen Unfallversicherung anerkannten Verfahren oder Geräten ausreichend von solchen Gefahrstoffen gereinigt ist und die Luft dabei so geführt oder gereinigt wird, dass die Gefahrstoffe nicht in die Atemluft von Beschäftigten in anderen Arbeitsbereichen gelangen.
+
+(3) Kann der Arbeitsplatzgrenzwert oder der Grenzwert nach § 7 Absatz 8 Satz 1 Nummer 2 nicht eingehalten werden oder liegen Tätigkeiten im Bereich mittleren Risikos vor oder ist bei Gefahrstoffen ohne Arbeitsplatzgrenzwert, Akzeptanzkonzentration oder Grenzwert nach § 7 Absatz 8 Satz 1 Nummer 2 die Exposition der Beschäftigten wesentlich erhöht, so hat der Arbeitgeber
+
+1.  die Expositionsdauer der Beschäftigten so weit wie möglich zu verkürzen und
+
+
+2.  den Beschäftigten geeigneten Atemschutz zur Verfügung zu stellen.
+
+
+
+Der Arbeitgeber hat bei der Festlegung dieser Maßnahmen die Beschäftigten oder deren Vertretung in geeigneter Form zu beteiligen.
+
+(4) Der Arbeitgeber hat im Rahmen der Gefährdungsbeurteilung nach § 6 festzulegen, bei welchen Tätigkeiten Beschäftigte persönliche Schutzausrüstung tragen müssen. Dies ist insbesondere der Fall
+
+1.  bei Überschreitung des Arbeitsplatzgrenzwerts oder bei Tätigkeiten im Bereich hohen Risikos,
+
+
+2.  bei einer wesentlich erhöhten Exposition gegenüber Gefahrstoffen ohne Arbeitsplatzgrenzwert oder Toleranzkonzentration oder
+
+
+3.  bei Tätigkeiten im Bereich mittleren Risikos beim Auftreten von Expositionsspitzen.
 
 
 
 
-(4) Bei Tätigkeiten, bei denen eine beträchtliche Erhöhung der Exposition der Beschäftigten durch krebserzeugende, keimzellmutagene oder reproduktionstoxische Gefahrstoffe der Kategorie 1A oder 1B zu erwarten ist und bei denen jede Möglichkeit weiterer technischer Schutzmaßnahmen zur Begrenzung dieser Exposition bereits ausgeschöpft wurde, hat der Arbeitgeber nach Beratung mit den Beschäftigten oder mit ihrer Vertretung Maßnahmen zu ergreifen, um die Dauer der Exposition der Beschäftigten so weit wie möglich zu verkürzen und den Schutz der Beschäftigten während dieser Tätigkeiten zu gewährleisten. Er hat den betreffenden Beschäftigten persönliche Schutzausrüstung zur Verfügung zu stellen, die sie während der gesamten Dauer der erhöhten Exposition tragen müssen.
+(5) Kann bei Tätigkeiten mit krebserzeugenden oder keimzellmutagenen Gefahrstoffen der Kategorie 1A oder 1B trotz Ausschöpfung der technischen Schutzmaßnahmen der Arbeitsplatzgrenzwert nicht eingehalten werden oder werden Tätigkeiten im Bereich mittleren Risikos ausgeübt, hat der Arbeitgeber unverzüglich einen Maßnahmenplan zu erstellen. In dem Maßnahmenplan ist darzulegen, wie das Ziel erreicht werden soll, den Arbeitsplatzgrenzwert einzuhalten oder in den Bereich niedrigen Risikos zu gelangen. Dabei sind aufzuführen:
 
-(5) Werden in einem Arbeitsbereich Tätigkeiten mit krebserzeugenden, keimzellmutagenen oder reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B ausgeübt, darf die dort abgesaugte Luft nicht in den Arbeitsbereich zurückgeführt werden. Dies gilt nicht, wenn die Luft unter Anwendung von behördlich oder von den Trägern der gesetzlichen Unfallversicherung anerkannten Verfahren oder Geräte ausreichend von solchen Stoffen gereinigt ist. Die Luft muss dann so geführt oder gereinigt werden, dass krebserzeugende, keimzellmutagene oder reproduktionstoxische Stoffe nicht in die Atemluft anderer Beschäftigter gelangen.
+1.  die vorgesehenen Maßnahmen,
 
 
-### § 11 Besondere Schutzmaßnahmen gegen physikalisch-chemische Einwirkungen, insbesondere gegen Brand- und Explosionsgefährdungen
+2.  die angestrebte Expositionsminderung sowie
+
+
+3.  der geplante Zeitrahmen.
+
+
+
+Der Maßnahmenplan ist zusammen mit der Dokumentation der Gefährdungsbeurteilung nach § 6 Absatz 8 aufzubewahren.
+
+(6) Kann auch bei Umsetzung des Maßnahmenplans nach Absatz 5 bei Tätigkeiten mit krebserzeugenden oder keimzellmutagenen Gefahrstoffen der Kategorie 1A oder 1B der Arbeitsplatzgrenzwert nicht eingehalten werden oder werden Tätigkeiten im Bereich hohen Risikos ausgeübt, hat der Arbeitgeber sicherzustellen, dass diese Tätigkeiten nur nach einer nach § 20 Absatz 4 bekannt gegebenen Regel ausgeübt werden.
+
+
+### § 10a Besondere Aufzeichnungs-, Mitteilungs- und Unterrichtungspflichten bei Tätigkeiten mit krebserzeugenden, keimzellmutagenen oder reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B
+
+(1) Um im Falle einer späteren Erkrankung die Höhe und die Dauer einer Exposition nachvollziehen zu können, hat der Arbeitgeber ein Verzeichnis über die Beschäftigten zu führen, die solche Tätigkeiten mit krebserzeugenden, keimzellmutagenen oder reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B ausüben, bei denen die Gefährdungsbeurteilung eine Gefährdung ihrer Gesundheit ergibt. In dem Verzeichnis sind die Tätigkeit sowie die Höhe und die Dauer der Exposition der Beschäftigten anzugeben. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend.
+
+(2) Das Verzeichnis ist während der Dauer der Exposition stets aktuell zu halten und für mindestens folgende Zeiträume nach Ende der Exposition aufzubewahren:
+
+1.  bei Tätigkeiten mit krebserzeugenden oder keimzellmutagenen Gefahrstoffen der Kategorie 1A oder 1B 40 Jahre oder
+
+
+2.  bei Tätigkeiten mit reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B fünf Jahre.
+
+
+
+Bei Beendigung des Beschäftigungsverhältnisses hat der Arbeitgeber den Beschäftigten einen Auszug aus dem Verzeichnis auszuhändigen, der die sie betreffenden Angaben enthält. Der Arbeitgeber hat einen Nachweis über die Aushändigung wie Personalunterlagen aufzubewahren.
+
+(3) Der Arbeitgeber kann seinen Pflichten nach Absatz 2 auch dadurch nachkommen, dass er die in Absatz 1 Satz 2 genannten Daten an den für den Beschäftigten zuständigen Unfallversicherungsträger oder einen Verband der Unfallversicherungsträger übermittelt.
+
+(4) Der Arbeitgeber hat den Zugang zu den Daten des Verzeichnisses nach Absatz 1 zu ermöglichen
+
+1.  der Ärztin oder dem Arzt nach § 7 Absatz 1 der Verordnung zur arbeitsmedizinischen Vorsorge zur Erfüllung der Pflichten nach § 6 der Verordnung zur arbeitsmedizinischen Vorsorge sowie der zuständigen Behörde zum Zweck der Überwachung,
+
+
+2.  den betroffenen Beschäftigten, soweit die Daten sie betreffen,
+
+
+3.  der Vertretung der Beschäftigten, soweit es sich um nicht personenbezogene Daten handelt.
+
+
+
+
+(5) Der Arbeitgeber hat der zuständigen Behörde Tätigkeiten mit krebserzeugenden oder keimzellmutagenen Gefahrstoffen der Kategorie 1A oder 1B, bei denen der Arbeitsplatzgrenzwert nicht eingehalten wird oder die im Bereich hohen Risikos ausgeübt werden, unter Angabe der ermittelten Exposition schriftlich oder elektronisch innerhalb einer Frist von zwei Monaten nach Aufnahme der Tätigkeit mitzuteilen. Der Mitteilung ist ein Maßnahmenplan nach § 10 Absatz 5 beizufügen. Die Behörde kann verlangen, dass ihr die Mitteilung elektronisch übermittelt wird, wenn sie hierfür ein Format zur Verfügung stellt. Die Sätze 1 bis 3 gelten nicht für Tätigkeiten mit Asbest, die nach § 11a Absatz 4 in Verbindung mit Anhang I Nummer 3.5 Absatz 3 Nummer 2 angezeigt wurden.
+
+(6) Der Arbeitgeber hat bei Tätigkeiten mit krebserzeugenden, keimzellmutagenen oder reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B sicherzustellen, dass
+
+1.  die Beschäftigten und ihre Vertretung nachprüfen können, ob die Bestimmungen dieser Verordnung eingehalten werden, insbesondere in Bezug auf
+
+    a)  durchzuführende Maßnahmen nach § 10 Absatz 4,
+
+
+    b)  die Auswahl und Verwendung der persönlichen Schutzausrüstung und die damit verbundenen Belastungen der Beschäftigten,
+
+
+
+
+
+2.  die Beschäftigten und ihre Vertretung bei einer unvorhergesehenen Exposition oder bei einem Unfall unverzüglich unterrichtet und über die Ursachen sowie über die bereits ergriffenen oder noch zu ergreifenden Maßnahmen informiert werden.
+
+
+
+
+
+### § 11 Verwendungs- und Tätigkeitsbeschränkungen für Asbest
+
+(1) Verboten sind:
+
+1.  die Gewinnung, Aufbereitung, Weiterverarbeitung und Wiederverwendung natürlich vorkommender mineralischer Rohstoffe und daraus hergestellter Gemische und Erzeugnisse mit einem Asbest-Massengehalt von mehr als 0,1 Prozent,
+
+
+2.  die weitere Verwendung asbesthaltiger Materialien, denen Asbest absichtlich zugesetzt wurde und die bei Tätigkeiten anfallen, zu anderen Zwecken als der Abfallbehandlung oder Abfallentsorgung, und
+
+
+3.  Tätigkeiten an asbesthaltigen Materialien in oder an baulichen oder technischen Anlagen, einschließlich Geräten, Maschinen, Fahrzeugen und sonstigen Erzeugnissen.
+
+
+
+Die in § 17 Absatz 1 genannten Ausnahmen von Beschränkungen und die Regelungen des Abfallrechts bleiben unberührt.
+
+(2) Ausgenommen von den Verboten sind:
+
+1.  das vollständige Entfernen asbesthaltiger Bauteile oder Materialien aus baulichen oder technischen Anlagen, einschließlich Geräten, Maschinen, Fahrzeugen und sonstigen Erzeugnissen sowie von Teilflächen oder aus Teilbereichen dieser Anlagen, einschließlich Geräten, Maschinen, Fahrzeugen und sonstigen Erzeugnissen (Abbrucharbeiten),
+
+
+2.  folgende Sanierungsarbeiten:
+
+    a)  Maßnahmen zur Vermeidung von Gefährdungen der Nutzer von Gebäuden durch asbesthaltige Stäube mittels räumlicher Trennung des asbesthaltigen Materials, sofern ein vollständiges Entfernen aus technischen Gründen nicht möglich ist, und
+
+
+    b)  Sofortmaßnahmen zur vorläufigen Sicherung beschädigter asbesthaltiger Bauteile oder Materialien, sofern ein vollständiges Entfernen nicht sofort möglich ist, aber unverzüglich eingeleitet wird,
+
+
+
+
+
+3.  folgende Instandhaltungsarbeiten:
+
+    a)  die Wartung und Inspektion asbesthaltiger Bauteile oder Materialien in oder an baulichen oder technischen Anlagen, einschließlich Geräten, Maschinen, Fahrzeugen und sonstigen Erzeugnissen sowie
+
+
+    b)  Tätigkeiten zur funktionalen Instandhaltung baulicher Anlagen, die im Rahmen der laufenden Nutzung erforderlich sind, soweit mit diesen Tätigkeiten keine Instandsetzung asbesthaltiger Materialien verbunden ist; die funktionale Instandhaltung erfasst auch die Anpassung an den Stand der Bautechnik; dies umfasst auch Maßnahmen zur energetischen Sanierung,
+
+
+
+
+
+4.  Tätigkeiten, die im Rahmen von Abbruch-, Sanierungs- oder Instandhaltungsarbeiten als vorbereitende, begleitende oder abschließende Tätigkeiten erforderlich sind oder
+
+
+5.  Tätigkeiten zu Forschungs-, Entwicklungs-, Analyse-, Mess- und Prüfzwecken.
+
+
+
+
+(3) Die Ausnahmen nach Absatz 2 gelten nicht für
+
+1.  feste Überdeckung oder Überbauung oder Aufständerung an Asbestzementdächern, Asbestzement-Wand- und Deckenverkleidungen, asbesthaltigen Bodenbelägen und
+
+
+2.  Reinigungs- und Beschichtungsarbeiten an nicht vollflächig beschichteten Asbestzementdächern und Außenwandverkleidungen aus Asbestzement.
+
+
+
+
+(4) Die räumliche Trennung nach Absatz 2 Nummer 2 Buchstabe a ist nur zulässig, wenn sie nach den in § 20 Absatz 4 Nummer 1 bekannt gegebenen Regeln und Erkenntnissen gekennzeichnet wird und wenn dokumentiert wird, in oder an welchem Bauteil asbesthaltige Materialien verbleiben.
+
+(5) Instandhaltungsarbeiten nach Absatz 2 Nummer 3 sind nur zulässig, wenn
+
+1.  keine Tätigkeiten im Bereich hohen Risikos ausgeübt werden,
+
+
+2.  das Ende der Nutzungsdauer des asbesthaltigen Materials nicht erreicht ist; dies ist der Fall, wenn das asbesthaltige Material seine ursprüngliche Funktion noch erfüllt,
+
+
+3.  das Vorhandensein asbesthaltiger Materialien nicht in einer Form kaschiert wird, die ein späteres Erkennen verhindern oder erheblich erschweren würde, und
+
+
+4.  ein späteres vollständiges Entfernen des asbesthaltigen Materials durch die Tätigkeit nicht erheblich erschwert wird.
+
+
+
+
+(6) Die Möglichkeit einer Ausnahme nach § 19 Absatz 1 gilt nicht für Tätigkeiten nach Absatz 1 Nummer 1 und 2 sowie nach Absatz 3.
+
+(7) Die Absätze 1 bis 5 gelten auch für private Haushalte. Führen private Haushalte die nach den Absätzen 1 bis 5 zulässigen Tätigkeiten durch, so sind sie verpflichtet, die Entstehung, Freisetzung und Ausbreitung von Asbestfasern und von potenziell asbestfaserhaltigem Staub so weit wie möglich zu verhindern und im Übrigen zu minimieren.
+
+
+### § 11a Anforderungen an Tätigkeiten mit Asbest
+
+(1) Der Arbeitgeber hat im Rahmen der Gefährdungsbeurteilung nach § 6 vor Aufnahme der Tätigkeit
+
+1.  die ihm nach § 5a Absatz 1 und 2 zur Verfügung gestellten Informationen auf Plausibilität zu prüfen und zu berücksichtigen,
+
+
+2.  das Datum des Baubeginns oder des Baujahres nach § 5a Absatz 2 zu berücksichtigen,
+
+
+3.  festzustellen, ob die auszuführenden Tätigkeiten nach § 11 oder § 17 Absatz 1 zulässig sind,
+
+
+4.  festzustellen, ob die Tätigkeiten zu einer Freisetzung von Asbestfasern führen können,
+
+
+5.  zu ermitteln, ob unter Berücksichtigung der vorgesehenen Schutzmaßnahmen Tätigkeiten im Bereich niedrigen, mittleren oder hohen Risikos ausgeübt werden sollen, und
+
+
+6.  einen Arbeitsplan nach Anhang I Nummer 3.2 zu erstellen.
+
+
+
+Wenn gemäß Satz 1 Nummer 2 mit dem Bau des Objekts nach dem 31. Oktober 1993 begonnen wurde, kann in der Regel vermutet werden, dass kein Asbest vorhanden ist. Abweichend von dem in Satz 2 genannten Stichtag gelten für bestimmte asbesthaltige Stoffe, Zubereitungen oder Erzeugnisse andere Übergangsfristen, die in Anhang I Nummer 3.8 aufgeführt sind. Der Arbeitgeber darf Tätigkeiten mit Asbest nur durchführen lassen, wenn diese nach § 11 Absatz 1 bis 5, § 17 Absatz 1 oder § 19 Absatz 1 Satz 1 zulässig sind.
+
+(2) Der Arbeitgeber darf Tätigkeiten mit Asbest nur durchführen lassen, wenn der Betrieb über die erforderliche sicherheitstechnische, organisatorische und personelle Ausstattung verfügt. Der Arbeitgeber hat vorrangig Arbeitsverfahren anzuwenden und technische Schutzmaßnahmen zu treffen, durch die eine Freisetzung von Asbestfasern verhindert oder minimiert wird. Der Arbeitgeber hat risikobezogen Schutzmaßnahmen nach Anhang I Nummer 3.3 festzulegen und umzusetzen, dabei sind die nach § 20 Absatz 4 bekannt gegebenen Regeln zu berücksichtigen. Der Arbeitgeber hat Maßnahmen zu treffen, durch die eine Gefährdung anderer Personen ausgeschlossen wird.
+
+(3) Betriebe bedürfen einer Zulassung durch die zuständige Behörde, wenn Tätigkeiten im Bereich hohen Risikos ausgeübt werden sollen. Der Arbeitgeber hat die Zulassung nach Anhang I Nummer 3.4 schriftlich oder elektronisch zu beantragen. Die Zulassung wird für einen Zeitraum von maximal sechs Jahren erteilt. Sie kann mit Auflagen sowie mit dem Vorbehalt des Widerrufs erteilt werden. Auflagen können nachträglich angeordnet werden.
+
+(4) Der Arbeitgeber hat Tätigkeiten mit Asbest spätestens eine Woche vor Beginn der Tätigkeiten bei der zuständigen Behörde schriftlich oder elektronisch nach Anhang I Nummer 3.5 anzuzeigen. Art und Umfang der Anzeige sind abhängig vom Risikobereich der Tätigkeiten. Die zuständige Behörde kann in begründeten Fällen auf die Einhaltung der Frist verzichten. Sie kann verlangen, dass ihr die Anzeige elektronisch übermittelt wird, wenn sie hierfür ein Format zur Verfügung stellt. Der Arbeitgeber hat den Beschäftigten und ihrer Vertretung Einsicht in die Anzeige zu gewähren.
+
+(5) Der Arbeitgeber hat bei Tätigkeiten mit Asbest sicherzustellen, dass
+
+1.  die Ermittlung und Beurteilung der Gefährdungen, die Festlegung der erforderlichen Schutzmaßnahmen sowie die Durchführung der Unterweisungen durch eine Person erfolgt, die über eine Sachkunde nach Anhang I Nummer 3.7 verfügt; verfügt der Arbeitgeber nicht selbst über die erforderliche Sachkunde, so hat er zur Erfüllung dieser Aufgaben eine sachkundige verantwortliche Person im Betrieb zu benennen,
+
+
+2.  die Tätigkeiten von einer weisungsbefugten Person beaufsichtigt werden, die über eine Sachkunde nach Anhang I Nummer 3.7 verfügt; diese aufsichtführende Person muss während der Durchführung der Tätigkeiten ständig vor Ort anwesend sein,
+
+
+3.  die Tätigkeiten nur von Beschäftigten ausgeübt werden, die über eine Fachkunde nach Anhang I Nummer 3.6 verfügen.
+
+
+
+Die Anforderungen an die Sachkunde nach Satz 1 Nummer 1 und 2 sind abhängig von den im Betrieb zu erfüllenden Aufgaben und dem Risikobereich der auszuführenden Tätigkeiten. Bei der Anwendung anerkannter emissionsarmer Verfahren kann die erforderliche Qualifikation der aufsichtführenden Person durch die Teilnahme an einer spezifischen praxisbezogenen Fortbildungsmaßnahme nach Anhang I Nummer 3.6 Absatz 2 erworben werden.
+
+(6) Auf Tätigkeiten mit einer Exposition unterhalb 1 000 Fasern je Kubikmeter sind die Absätze 1 bis 5 nicht anzuwenden. Bei diesen Tätigkeiten sind staubmindernde Maßnahmen nach Anhang I Nummer 2.3 zu ergreifen.
+
+
+### § 12 Besondere Schutzmaßnahmen gegen physikalisch-chemische Einwirkungen, insbesondere gegen Brand- und Explosionsgefährdungen
 
 (1) Der Arbeitgeber hat auf der Grundlage der Gefährdungsbeurteilung Maßnahmen zum Schutz der Beschäftigten und anderer Personen vor physikalisch-chemischen Einwirkungen zu ergreifen. Er hat die Maßnahmen so festzulegen, dass die Gefährdungen vermieden oder so weit wie möglich verringert werden. Dies gilt insbesondere bei Tätigkeiten einschließlich Lagerung, bei denen es zu Brand- und Explosionsgefährdungen kommen kann. Dabei hat der Arbeitgeber Anhang I Nummer 1 und 5 zu beachten. Die Vorschriften des Sprengstoffgesetzes und der darauf gestützten Rechtsvorschriften bleiben unberührt.
 
@@ -902,9 +1202,6 @@ Ist die Anwendung eines geschlossenen Systems technisch nicht möglich, so hat d
 
 
 Dabei hat der Arbeitgeber Anhang III zu beachten.
-
-
-### § 12 (weggefallen)
 
 
 ### § 13 Betriebsstörungen, Unfälle und Notfälle
@@ -977,40 +1274,9 @@ Die Betriebsanweisung muss bei jeder maßgeblichen Veränderung der Arbeitsbedin
 
 (2) Der Arbeitgeber hat sicherzustellen, dass die Beschäftigten anhand der Betriebsanweisung nach Absatz 1 über alle auftretenden Gefährdungen und entsprechende Schutzmaßnahmen mündlich unterwiesen werden. Teil dieser Unterweisung ist ferner eine allgemeine arbeitsmedizinisch-toxikologische Beratung. Diese dient auch zur Information der Beschäftigten über die Voraussetzungen, unter denen sie Anspruch auf arbeitsmedizinische Vorsorgeuntersuchungen nach der Verordnung zur arbeitsmedizinischen Vorsorge haben, und über den Zweck dieser Vorsorgeuntersuchungen. Die Beratung ist unter Beteiligung der Ärztin oder des Arztes nach § 7 Absatz 1 der Verordnung zur arbeitsmedizinischen Vorsorge durchzuführen, falls dies erforderlich sein sollte. Die Unterweisung muss vor Aufnahme der Beschäftigung und danach mindestens jährlich arbeitsplatzbezogen durchgeführt werden. Sie muss in für die Beschäftigten verständlicher Form und Sprache erfolgen. Inhalt und Zeitpunkt der Unterweisung sind schriftlich festzuhalten und von den Unterwiesenen durch Unterschrift zu bestätigen.
 
-(3) Der Arbeitgeber hat bei Tätigkeiten mit krebserzeugenden, keimzellmutagenen oder reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B sicherzustellen, dass
+(3) (weggefallen)
 
-1.  die Beschäftigten und ihre Vertretung nachprüfen können, ob die Bestimmungen dieser Verordnung eingehalten werden, und zwar insbesondere in Bezug auf
-
-    a)  die Auswahl und Verwendung der persönlichen Schutzausrüstung und die damit verbundenen Belastungen der Beschäftigten,
-
-
-    b)  durchzuführende Maßnahmen im Sinne des § 10 Absatz 4 Satz 1,
-
-
-
-
-
-2.  die Beschäftigten und ihre Vertretung bei einer erhöhten Exposition, einschließlich der in § 10 Absatz 4 Satz 1 genannten Fälle, unverzüglich unterrichtet und über die Ursachen sowie über die bereits ergriffenen oder noch zu ergreifenden Gegenmaßnahmen informiert werden,
-
-
-3.  ein aktualisiertes Verzeichnis über die Beschäftigten geführt wird, die Tätigkeiten mit krebserzeugenden oder keimzellmutagenen Gefahrstoffen der Kategorie 1A oder 1B ausüben, bei denen die Gefährdungsbeurteilung nach § 6 eine Gefährdung der Gesundheit oder der Sicherheit der Beschäftigten ergibt; in dem Verzeichnis ist auch die Höhe und die Dauer der Exposition anzugeben, der die Beschäftigten ausgesetzt waren,
-
-
-4.  das Verzeichnis nach Nummer 3 mit allen Aktualisierungen 40 Jahre nach Ende der Exposition aufbewahrt wird; bei Beendigung von Beschäftigungsverhältnissen hat der Arbeitgeber den Beschäftigten einen Auszug über die sie betreffenden Angaben des Verzeichnisses auszuhändigen und einen Nachweis hierüber wie Personalunterlagen aufzubewahren,
-
-
-5.  die Ärztin oder der Arzt nach § 7 Absatz 1 der Verordnung zur arbeitsmedizinischen Vorsorge, die zuständige Behörde sowie jede für die Gesundheit und die Sicherheit am Arbeitsplatz verantwortliche Person Zugang zu dem Verzeichnis nach Nummer 3 haben,
-
-
-6.  alle Beschäftigten Zugang zu den sie persönlich betreffenden Angaben in dem Verzeichnis haben,
-
-
-7.  die Beschäftigten und ihre Vertretung Zugang zu den nicht personenbezogenen Informationen allgemeiner Art in dem Verzeichnis haben.
-
-
-
-
-(4) Der Arbeitgeber kann mit Einwilligung des betroffenen Beschäftigten die Aufbewahrungs- einschließlich der Aushändigungspflicht nach Absatz 3 Nummer 4 auf den zuständigen gesetzlichen Unfallversicherungsträger übertragen. Dafür übergibt der Arbeitgeber dem Unfallversicherungsträger die erforderlichen Unterlagen in einer für die elektronische Datenverarbeitung geeigneten Form. Der Unfallversicherungsträger händigt der betroffenen Person auf Anforderung einen Auszug des Verzeichnisses mit den sie betreffenden Angaben aus.
+(4) (weggefallen)
 
 
 ### § 15 Zusammenarbeit verschiedener Firmen
@@ -1023,7 +1289,7 @@ Die Betriebsanweisung muss bei jeder maßgeblichen Veränderung der Arbeitsbedin
 
 (4) Besteht bei Tätigkeiten von Beschäftigten eines Arbeitgebers eine erhöhte Gefährdung von Beschäftigten anderer Arbeitgeber durch Gefahrstoffe, ist durch die beteiligten Arbeitgeber ein Koordinator zu bestellen. Wurde ein Koordinator nach den Bestimmungen der Baustellenverordnung vom 10. Juni 1998 (BGBl. I S. 1283), die durch Artikel 15 der Verordnung vom 23. Dezember 2004 (BGBl. I S. 3758) geändert worden ist, bestellt, gilt die Pflicht nach Satz 1 als erfüllt. Dem Koordinator sind von den beteiligten Arbeitgebern alle erforderlichen sicherheitsrelevanten Informationen sowie Informationen zu den festgelegten Schutzmaßnahmen zur Verfügung zu stellen. Die Bestellung eines Koordinators entbindet die Arbeitgeber nicht von ihrer Verantwortung nach dieser Verordnung.
 
-(5) Vor dem Beginn von Abbruch-, Sanierungs- und Instandhaltungsarbeiten oder Bauarbeiten muss der Arbeitgeber für die Gefährdungsbeurteilung nach § 6 Informationen, insbesondere vom Auftraggeber oder Bauherrn, darüber einholen, ob entsprechend der Nutzungs- oder Baugeschichte des Objekts Gefahrstoffe, insbesondere Asbest, vorhanden oder zu erwarten sind. Weiter reichende Informations-, Schutz- und Überwachungspflichten, die sich für den Auftraggeber oder Bauherrn nach anderen Rechtsvorschriften ergeben, bleiben unberührt.
+(5) (weggefallen)
 
 
 ## Abschnitt 4a - Anforderungen an die Verwendung von Biozid-Produkten einschließlich der Begasung sowie an Begasungen mit Pflanzenschutzmitteln
@@ -1117,7 +1383,7 @@ Satz 1 gilt nicht, wenn das Biozid-Produkt für eine Verwendung durch die breite
 
 
 
-(2) Der Arbeitgeber hat bei der zuständigen Behörde schriftlich oder elektronisch anzuzeigen:
+(2) Der Arbeitgeber hat bei der zuständigen Behörde schriftlich oder elektronisch gemäß Satz 2 oder 4 anzuzeigen:
 
 1.  die erstmalige Verwendung von Biozid-Produkten nach Absatz 1 und
 
@@ -1126,20 +1392,20 @@ Satz 1 gilt nicht, wenn das Biozid-Produkt für eine Verwendung durch die breite
 
 
 
-Die Anzeige hat spätestens sechs Wochen vor Beginn der Verwendung zu erfolgen. Anhang I Nummer 4.2.1 ist zu beachten.
+Die Anzeige hat spätestens sechs Wochen vor Beginn der Verwendung zu erfolgen. Anhang I Nummer 4.2.1 ist zu beachten. Die zuständige Behörde kann verlangen, dass ihr die Anzeige elektronisch übermittelt wird, wenn sie hierfür ein Format zur Verfügung stellt. Änderungen bezüglich der Angaben nach Satz 1 hat der Arbeitgeber der zuständigen Behörde unverzüglich anzuzeigen.
 
 (3) Die Verwendung von Biozid-Produkten nach Absatz 1 darf nur durch Personen erfolgen, die über eine für das jeweilige Biozid-Produkt geltende Sachkunde im Sinne von Anhang I Nummer 4.4 verfügen. Die Anforderungen an die Sachkunde sind von der Produktart, den Anwendungen, für die das Biozid-Produkt zugelassen ist, und dem Gefährdungspotential für Mensch und Umwelt abhängig.
 
-(4) Abweichend von Absatz 3 ist eine Sachkunde für die Verwendung der in Absatz 1 genannten Biozid-Produkte nicht erforderlich, wenn diese Tätigkeiten unter unmittelbarer und ständiger Aufsicht einer sachkundigen Person durchgeführt werden.
+(4) Abweichend von Absatz 3 ist statt einer Sachkunde eine auf die jeweilige Verwendung bezogene Unterweisung ausreichend, sofern die Verwendung unter unmittelbarer und ständiger Aufsicht einer nach Absatz 3 für die jeweilige Verwendung sachkundigen Person durchgeführt wird. Dabei sind die nach § 20 Absatz 4 bekannt gegebenen Regeln zu berücksichtigen.
 
 
 ### § 15d Besondere Anforderungen bei Begasungen
 
-(1) Der Arbeitgeber bedarf einer Erlaubnis durch die zuständige Behörde, wenn Begasungen durchgeführt werden sollen. Die Erlaubnis ist nach Maßgabe des Anhangs I Nummer 4.1 vor der erstmaligen Durchführung von Begasungen schriftlich oder elektronisch zu beantragen. Sie kann befristet, mit Auflagen oder unter dem Vorbehalt des Widerrufs erteilt werden. Auflagen können nachträglich angeordnet werden.
+(1) Der Arbeitgeber bedarf einer Erlaubnis durch die zuständige Behörde, wenn Begasungen durchgeführt werden sollen. Die Erlaubnis ist nach Maßgabe des Anhangs I Nummer 4.1 vor der erstmaligen Durchführung von Begasungen schriftlich oder elektronisch zu beantragen. Sie kann befristet, mit Auflagen oder unter dem Vorbehalt des Widerrufs erteilt werden. Auflagen können nachträglich angeordnet werden. Änderungen bezüglich der Angaben nach Satz 2 in Verbindung mit Anhang I Nummer 4.1 Absatz 2 hat der Arbeitgeber der zuständigen Behörde unverzüglich mitzuteilen.
 
 (2) Eine Erlaubnis ist nicht erforderlich, wenn wegen der geringen Menge des freiwerdenden Wirkstoffs eine Gefährdung für Mensch und Umwelt nicht besteht. Hierbei sind die nach § 20 Absatz 4 bekanntgegebenen Regeln und Erkenntnisse zu berücksichtigen.
 
-(3) Der Arbeitgeber hat eine Begasung spätestens eine Woche vor deren Durchführung bei der zuständigen Behörde nach Maßgabe des Anhangs I Nummer 4.2.2 schriftlich oder elektronisch anzuzeigen. Die zuständige Behörde kann
+(3) Der Arbeitgeber hat eine Begasung spätestens eine Woche vor deren Durchführung bei der zuständigen Behörde nach Maßgabe des Anhangs I Nummer 4.2.2 schriftlich oder elektronisch anzuzeigen. Die zuständige Behörde kann verlangen, dass ihr die Anzeige elektronisch übermittelt wird, wenn sie hierfür ein Format zur Verfügung stellt. Die zuständige Behörde kann
 
 1.  in begründeten Fällen auf die Einhaltung dieser Frist verzichten oder
 
@@ -1371,7 +1637,10 @@ Lassen sich die für die Anzeige nach Satz 1 erforderlichen Angaben gleichwertig
 3.  die nach § 13 des Arbeitsschutzgesetzes verantwortlichen Personen,
 
 
-4.  die durchgeführten Schutz- und Vorsorgemaßnahmen, einschließlich der Betriebsanweisungen.
+4.  die durchgeführten Schutz- und Vorsorgemaßnahmen, einschließlich der Betriebsanweisungen,
+
+
+5.  eine Kopie des Maßnahmenplans nach § 10 Absatz 5 bei Tätigkeiten im Bereich mittleren oder hohen Risikos.
 
 
 
@@ -1408,7 +1677,7 @@ Lassen sich die für die Anzeige nach Satz 1 erforderlichen Angaben gleichwertig
 
 ### § 19 Behördliche Ausnahmen, Anordnungen und Befugnisse
 
-(1) Die zuständige Behörde kann auf schriftlichen oder elektronischen Antrag des Arbeitgebers Ausnahmen von den §§ 6 bis 15 zulassen, wenn die Anwendung dieser Vorschriften im Einzelfall zu einer unverhältnismäßigen Härte führen würde und die Abweichung mit dem Schutz der Beschäftigten vereinbar ist. Der Arbeitgeber hat der zuständigen Behörde im Antrag darzulegen:
+(1) Die zuständige Behörde kann auf schriftlichen oder elektronischen Antrag des Arbeitgebers Ausnahmen von den §§ 6 bis 15 zulassen, wenn die Anwendung dieser Vorschriften im Einzelfall zu einer unverhältnismäßigen Härte führen würde und die Abweichung mit dem Schutz der Beschäftigten vereinbar ist. § 11 Absatz 6 bleibt unberührt. Der Arbeitgeber hat der zuständigen Behörde im Antrag darzulegen:
 
 1.  den Grund für die Beantragung der Ausnahme,
 
@@ -1475,12 +1744,23 @@ Bei Gefahr im Verzug können die Anordnungen auch gegenüber weisungsberechtigte
 3.  das Bundesministerium für Arbeit und Soziales in allen Fragen zu Gefahrstoffen und zur Chemikaliensicherheit zu beraten und
 
 
-4.  Arbeitsplatzgrenzwerte, biologische Grenzwerte und andere Beurteilungsmaßstäbe für Gefahrstoffe vorzuschlagen und regelmäßig zu überprüfen, wobei Folgendes zu berücksichtigen ist:
+4.  Grenzwerte und Konzentrationen nach § 2 Absatz 8 bis 9 sowie entsprechende Ermittlungs- und Messverfahren vorzuschlagen und regelmäßig zu überprüfen, wobei
 
-    a)  bei der Festlegung der Grenzwerte und Beurteilungsmaßstäbe ist sicherzustellen, dass der Schutz der Gesundheit der Beschäftigten gewahrt ist,
+    a)  bei der Festlegung dieser Grenzwerte und Konzentrationen sicherzustellen ist, dass der Schutz der Gesundheit der Beschäftigten gewahrt ist,
 
 
-    b)  für jeden Stoff, für den ein Arbeitsplatzgrenzwert oder ein biologischer Grenzwert in Rechtsakten der Europäischen Union festgelegt worden ist, ist unter Berücksichtigung dieses Grenzwerts ein nationaler Grenzwert vorzuschlagen.
+    b)  für jeden Stoff, für den ein Arbeitsplatzgrenzwert oder ein biologischer Grenzwert in Rechtsakten der Europäischen Union festgelegt worden ist, unter Berücksichtigung dieses Grenzwerts ein nationaler Grenzwert vorzuschlagen ist; dabei sind die entsprechenden Bestimmungen der folgenden Richtlinien in der jeweils geltenden Fassung zu berücksichtigen:
+
+        aa) Richtlinie 98/24/EG des Rates vom 7. April 1998 zum Schutz von Gesundheit und Sicherheit der Arbeitnehmer vor der Gefährdung durch chemische Arbeitsstoffe bei der Arbeit (vierzehnte Einzelrichtlinie im Sinne des Artikels 16 Absatz 1 der Richtlinie 89/391/EWG) (ABl. L 131 vom 5.5.1998, S. 11), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, einschließlich der Richtlinien über Arbeitsplatzgrenzwerte, die nach Artikel 3 Absatz 2 der Richtlinie 98/24/EG erlassen wurden,
+
+
+        bb) Richtlinie 2004/37/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über den Schutz der Arbeitnehmer gegen Gefährdung durch Karzinogene oder Mutagene bei der Arbeit (Sechste Einzelrichtlinie im Sinne von Artikel 16 Absatz 1 der Richtlinie 89/391/EWG des Rates) (kodifizierte Fassung) (ABl. L 158 vom 30.4.2004, S. 50), die zuletzt durch die Richtlinie (EU) 2022/431 (ABl. L 088 vom 16.3.2022, S. 1) geändert worden ist, sowie
+
+
+        cc) Richtlinie 2009/148/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über den Schutz der Arbeitnehmer gegen Gefährdung durch Asbest am Arbeitsplatz (ABl. L 330 vom 16.12.2009, S. 28), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist.
+
+
+
 
 
 
@@ -1491,7 +1771,7 @@ Das Arbeitsprogramm des Ausschusses für Gefahrstoffe wird mit dem Bundesministe
 
 (4) Nach Prüfung kann das Bundesministerium für Arbeit und Soziales
 
-1.  die vom Ausschuss für Gefahrstoffe ermittelten Regeln und Erkenntnisse nach Absatz 3 Satz 1 Nummer 2 sowie die Arbeitsplatzgrenzwerte und Beurteilungsmaßstäbe nach Absatz 3 Satz 1 Nummer 4 im Gemeinsamen Ministerialblatt bekannt geben und
+1.  die vom Ausschuss für Gefahrstoffe ermittelten Regeln und Erkenntnisse nach Absatz 3 Satz 1 Nummer 2 sowie die Grenzwerte und Konzentrationen nach Absatz 3 Satz 1 Nummer 4 im Gemeinsamen Ministerialblatt bekannt geben und
 
 
 2.  die Empfehlungen nach Absatz 3 Satz 1 Nummer 1 sowie die Beratungsergebnisse nach Absatz 3 Satz 1 Nummer 3 in geeigneter Weise veröffentlichen.
@@ -1511,7 +1791,7 @@ Das Arbeitsprogramm des Ausschusses für Gefahrstoffe wird mit dem Bundesministe
 
 Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 2.4.2 Absatz 1 Satz 1 oder Absatz 2 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+1.  (weggefallen)
 
 
 2.  entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 5.4.2.3 Absatz 1 oder Absatz 2 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
@@ -1520,10 +1800,16 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 3.  entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 5.4.2.3 Absatz 3 eine Änderung nicht oder nicht rechtzeitig anzeigt,
 
 
-4.  entgegen § 15d Absatz 3 Satz 1, § 15g Absatz 3 Satz 3 oder § 18 Absatz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
+3a. entgegen § 10a Absatz 5 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 
-5.  entgegen § 18 Absatz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+3b. entgegen § 11a Absatz 4 Satz 1 in Verbindung mit Anhang I Nummer 3.5 Absatz 2 oder Absatz 3 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+
+
+4.  entgegen § 15c Absatz 2 Satz 1 oder Satz 3, § 15d Absatz 3 Satz 1, § 15g Absatz 3 Satz 3 oder § 18 Absatz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
+
+
+5.  entgegen § 15d Absatz 1 Satz 5 oder § 18 Absatz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 
 
@@ -1533,7 +1819,10 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 6 Absatz 8 Satz 1 eine Gefährdungsbeurteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig dokumentiert,
+1.  entgegen § 5a Absatz 2 Satz 1 das Datum des Baubeginns oder das Baujahr des Objekts nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Art und Weise oder nicht rechtzeitig übermittelt,
+
+
+1a. entgegen § 6 Absatz 8 Satz 1 eine Gefährdungsbeurteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig dokumentiert,
 
 
 2.  entgegen § 6 Absatz 12 Satz 1 ein Gefahrstoffverzeichnis nicht, nicht richtig oder nicht vollständig führt,
@@ -1557,10 +1846,10 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 8.  entgegen § 8 Absatz 5 Satz 3 Gefahrstoffe aufbewahrt oder lagert,
 
 
-9.  entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 2.4.2 Absatz 3 Satz 2 nicht dafür sorgt, dass eine weisungsbefugte sachkundige Person vor Ort tätig ist,
+9.  (weggefallen)
 
 
-10. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 2.4.4 Satz 1 einen Arbeitsplan nicht oder nicht rechtzeitig aufstellt,
+10. (weggefallen)
 
 
 11. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 5.4.2.1 Absatz 2 Stoffe oder Gemische der Gruppe A lagert oder befördert,
@@ -1581,25 +1870,43 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 15a. entgegen § 9 Absatz 5 nicht gewährleistet, dass getrennte Aufbewahrungsmöglichkeiten zur Verfügung stehen,
 
 
-16. entgegen § 10 Absatz 4 Satz 2 Schutzkleidung oder ein Atemschutzgerät nicht zur Verfügung stellt,
+16. entgegen § 10 Absatz 2 Satz 1 Nummer 5 nicht sicherstellt, dass abgesaugte Luft nicht zurückgeführt wird,
 
 
-17. entgegen § 10 Absatz 5 Satz 1 abgesaugte Luft in einen Arbeitsbereich zurückführt,
+17. entgegen § 10 Absatz 3 Nummer 2 Atemschutz nicht oder nicht richtig zur Verfügung stellt,
 
 
-18. entgegen § 11 Absatz 1 Satz 3 in Verbindung mit Anhang I Nummer 1.3 Absatz 2 Satz 1 das Rauchen oder die Verwendung von offenem Feuer oder offenem Licht nicht verbietet,
+17a. entgegen § 10a Absatz 1 Satz 1 ein Verzeichnis nicht, nicht richtig oder nicht vollständig führt,
 
 
-19. entgegen § 11 Absatz 1 Satz 3 in Verbindung mit Anhang I Nummer 1.5 Absatz 4 oder Nummer 1.6 Absatz 5 einen dort genannten Bereich nicht oder nicht richtig kennzeichnet,
+17b. entgegen § 10a Absatz 2 Satz 1 ein Verzeichnis nicht oder nicht für die vorgeschriebene Dauer aufbewahrt,
 
 
-19a. entgegen § 11 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.3 Absatz 1 Satz 1 eine Tätigkeit mit einem organischen Peroxid ausüben lässt,
+17c. entgegen § 10a Absatz 6 Nummer 2 nicht sicherstellt, dass ein Beschäftigter oder eine Vertretung unterrichtet und informiert wird,
 
 
-19b. entgegen § 11 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.6 Satz 2 Buchstabe a nicht sicherstellt, dass ein dort genanntes Gebäude oder ein dort genannter Raum in Sicherheitsbauweise errichtet wird,
+17d. entgegen § 11a Absatz 1 Satz 1 Nummer 6 in Verbindung mit Anhang I Nummer 3.2 Satz 1 einen Arbeitsplan nicht oder nicht rechtzeitig erstellt,
 
 
-19c. entgegen § 11 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.7 einen dort genannten Bereich nicht oder nicht rechtzeitig festlegt,
+17e. entgegen § 11a Absatz 5 Satz 1 Nummer 1 erster Halbsatz nicht sicherstellt, dass eine dort genannte Aufgabe durch eine dort genannte Person erfolgt,
+
+
+17f. entgegen § 11a Absatz 5 Satz 1 Nummer 2 erster Halbsatz nicht sicherstellt, dass eine Tätigkeit durch eine dort genannte Person beaufsichtigt wird
+
+
+18. entgegen § 12 Absatz 1 Satz 3 in Verbindung mit Anhang I Nummer 1.3 Absatz 2 Satz 1 das Rauchen oder die Verwendung von offenem Feuer oder offenem Licht nicht verbietet,
+
+
+19. entgegen § 12 Absatz 1 Satz 3 in Verbindung mit Anhang I Nummer 1.5 Absatz 4 oder Nummer 1.6 Absatz 5 einen dort genannten Bereich nicht oder nicht richtig kennzeichnet,
+
+
+19a. entgegen § 12 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.3 Absatz 1 Satz 1 eine Tätigkeit mit einem organischen Peroxid ausüben lässt,
+
+
+19b. entgegen § 12 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.6 Satz 2 Buchstabe a nicht sicherstellt, dass ein dort genanntes Gebäude oder ein dort genannter Raum in Sicherheitsbauweise errichtet wird,
+
+
+19c. entgegen § 12 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.7 einen dort genannten Bereich nicht oder nicht rechtzeitig festlegt,
 
 
 20. entgegen § 13 Absatz 2 Satz 1 eine dort genannte Maßnahme nicht oder nicht rechtzeitig ergreift,
@@ -1620,16 +1927,19 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 25. entgegen § 14 Absatz 2 Satz 1 nicht sicherstellt, dass die Beschäftigten über auftretende Gefährdungen und entsprechende Schutzmaßnahmen mündlich unterwiesen werden,
 
 
-26. entgegen § 14 Absatz 3 Nummer 2 nicht oder nicht rechtzeitig sicherstellt, dass die Beschäftigten und ihre Vertretung unterrichtet und informiert werden,
+26. (weggefallen)
 
 
-27. entgegen § 14 Absatz 3 Nummer 3 nicht sicherstellt, dass ein aktualisiertes Verzeichnis geführt wird,
+27. (weggefallen)
 
 
-28. entgegen § 14 Absatz 3 Nummer 4 nicht sicherstellt, dass ein aktualisiertes Verzeichnis 40 Jahre nach Ende der Exposition aufbewahrt wird,
+28. (weggefallen)
 
 
 29. entgegen § 15c Absatz 3 Satz 1 ein Biozid-Produkt verwendet,
+
+
+29a. ohne Erlaubnis nach § 15d Absatz 1 Satz 1 eine Begasung durchführt,
 
 
 30. entgegen § 15d Absatz 4 Satz 2 Nummer 2 Buchstabe a nicht sicherstellt, dass die Begasung von einer dort genannten Person durchgeführt wird,
@@ -1664,16 +1974,16 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 
 (2) Nach § 27 Absatz 1 Nummer 1, Absatz 2 bis 4 des Chemikaliengesetzes wird bestraft, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 2.4.2 Absatz 3 Satz 1 oder Absatz 4 Satz 1 Abbruch-, Sanierungs- oder Instandhaltungsarbeiten durchführt,
+1.  entgegen § 11 Absatz 1 Satz 1 Nummer 1 einen Rohstoff, ein Gemisch oder ein Erzeugnis gewinnt, aufbereitet, weiterverarbeitet oder wiederverwendet,
 
 
-2.  entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 1 Absatz 1 Satz 1 auch in Verbindung mit Satz 3 Arbeiten durchführt,
+2.  entgegen § 11 Absatz 1 Satz 1 Nummer 2 erster Halbsatz oder Nummer 3 asbesthaltige Materialien verwendet oder an asbesthaltigen Materialien tätig wird,
 
 
-3.  entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 1 Absatz 1 Satz 4 Überdeckungs-, Überbauungs-, Aufständerungs-, Reinigungs- oder Beschichtungsarbeiten durchführt,
+3.  ohne Zulassung nach § 11a Absatz 3 Satz 1 oder § 25 Absatz 4 erster Halbsatz eine dort genannte Tätigkeit ausübt,
 
 
-4.  entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 1 Absatz 1 Satz 5 asbesthaltige Gegenstände oder Materialien zu anderen Zwecken weiterverwendet,
+4.  (weggefallen)
 
 
 5.  entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 2 Absatz 1 die dort aufgeführten Stoffe oder Gemische herstellt,
@@ -1707,10 +2017,21 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 
 Für diese Biozid-Produkte sind bis zur Erteilung einer Zulassung die entsprechenden nach § 20 Absatz 4 bekanntgegebenen Regeln und Erkenntnisse zu berücksichtigen.
 
-(2) Für eine Verwendung von Biozid-Produkten nach § 15c Absatz 1, die bis zum 30. September 2021 ohne Sachkunde ausgeübt werden konnte, ist die Sachkunde spätestens bis zum 28. Juli 2025 nachzuweisen.
+(2) Für eine Verwendung von Biozid-Produkten nach § 15c Absatz 1 oder nach § 15d, die bis zum 30. September 2021 ohne Sachkunde ausgeübt werden konnte, ist die Sachkunde spätestens bis zum 28. Juli 2027 nachzuweisen.
 
-(zu § 8 Absatz 8, § 11 Absatz 3, § 15b Absatz 3, § 15c Absatz 2
-und 3, § 15d Absatz 1, 3, 4, 6 und 7, § 15f Absatz 2, § 15g Absatz 2)
+(3) § 10 Absatz 6 findet ab dem 1. Januar 2024 Anwendung, frühestens jedoch drei Jahre nachdem der jeweilige Arbeitsplatzgrenzwert oder die Toleranzkonzentration nach § 20 Absatz 4 bekannt gegeben wurde. Während dieser Übergangsfrist hat der Arbeitgeber mindestens die Maßnahmen nach § 10 Absatz 2 und 3 zu treffen.
+
+(4) Unbeschadet von § 11a Absatz 3 Satz 1 gilt die Zulassungspflicht nach Anhang I Nummer 2.4.2 Absatz 4 in der am 1. Januar 2022 geltenden Fassung für Abbruch- und Sanierungsarbeiten fort und entfällt, wenn sie nach den in § 20 Absatz 4 bekannt gegebenen Regeln einem niedrigen oder mittleren Risiko zugeordnet wurden oder wenn der Arbeitgeber eine entsprechende Zuordnung durch fachkundige Ermittlung der Exposition nachweisen kann.
+
+(5) Bei Tätigkeiten mit Asbest sind die Sachkunde nach § 11a Absatz 5 Satz 1 Nummer 1 und die Fachkunde nach § 11a Absatz 5 Nummer 3 bis zum 5. Dezember 2027 nachzuweisen.
+
+(6) Bei Tätigkeiten mit Asbest, die nach der am 1. Januar 2022 geltenden Fassung ohne weisungsbefugte sachkundige Person ausgeübt werden konnten, findet § 11a Absatz 5 Satz 1 Nummer 2 ab dem 5. Dezember 2027 Anwendung.
+
+(7) Für anerkannte Sachkunden nach Anhang I Nummer 4.4 Absatz 1 Satz 3 und gleichgestellte Sachkunden nach Anhang I Nummer 4.4 Absatz 2 ist der Abschluss eines behördlich anerkannten Fortbildungslehrgangs erstmals abweichend von Anhang I Nummer 4.4 Absatz 5 spätestens bis zum 28. Juli 2027 nachzuweisen.
+
+(8) Zulassungen, die nach Anhang I Nummer 2.4.2 in der am 1. Januar 2022 geltenden Fassung erteilt wurden, gelten fort bis zum 5. Dezember 2028. Betriebe, die mit dem 5. Dezember 2024 erstmals einer Zulassung nach § 11a Absatz 3 bedürfen, haben diese spätestens bis zum 5. Dezember 2025 zu beantragen. Die zulassungsrelevanten Anforderungen der nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse sind bereits während der Übergangsfrist zu berücksichtigen.
+
+(zu § 8 Absatz 8, § 11a Absatz 1 bis 6, § 12 Absatz 1 und 4, § 15b Absatz 3, § 15c Absatz 2 und 3, § 15d Absatz 1, 3, 4, 6 und 7, § 15f Absatz 2, § 15g Absatz 2)
 
 ### Anhang I Besondere Vorschriften für bestimmte Gefahrstoffe und Tätigkeiten
 
@@ -1732,7 +2053,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Nummer 3
 
-    *   (weggefallen)
+    *   Asbest
 
 
 *    *   Nummer 4
@@ -1752,7 +2073,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **1.1 Anwendungsbereich**
 
-Nummer 1 gilt für Maßnahmen nach § 11 bei Tätigkeiten mit Gefahrstoffen, die zu Brand- und Explosionsgefährdungen führen können.
+Nummer 1 gilt für Maßnahmen nach § 12 bei Tätigkeiten mit Gefahrstoffen, die zu Brand- und Explosionsgefährdungen führen können.
 
 **1.2 Grundlegende Anforderungen zum Schutz vor Brand- und Explosionsgefährdungen**
 
@@ -1841,7 +2162,7 @@ Soweit nach der Gefährdungsbeurteilung erforderlich, müssen Gefahrstoffströme
 
 **1.6 Mindestvorschriften für den Explosionsschutz bei Tätigkeiten in Bereichen mit gefährlichen explosionsfähigen Gemischen**
 
-(1) Bei der Festlegung von Schutzmaßnahmen nach § 11 Absatz 2 Nummer 1 sind insbesondere Maßnahmen nach folgender Rangfolge zu ergreifen:
+(1) Bei der Festlegung von Schutzmaßnahmen nach § 12 Absatz 2 Nummer 1 sind insbesondere Maßnahmen nach folgender Rangfolge zu ergreifen:
 
 1.  es sind Stoffe und Gemische einzusetzen, die keine explosionsfähigen Gemische bilden können, soweit dies nach dem Stand der Technik möglich ist,
 
@@ -1945,7 +2266,7 @@ Als Normalbetrieb gilt der Zustand, in dem Anlagen innerhalb ihrer Auslegungspar
 
 
 
-Nummer 2 gilt für Tätigkeiten mit Exposition gegenüber allen alveolengängigen und einatembaren Stäuben. Nummer 2.4 gilt ergänzend für Tätigkeiten, bei denen Asbeststaub oder Staub von asbesthaltigen Materialien freigesetzt wird oder freigesetzt werden kann. Abweichungen von den Nummern 2.4.2 bis 2.4.5 sind möglich, sofern es sich um Tätigkeiten handelt, die nur zu einer geringen Exposition führen.
+Nummer 2 gilt für Tätigkeiten mit Exposition gegenüber allen alveolengängigen und einatembaren Stäuben.
 
 
 **2.2** **Begriffsbestimmungen**
@@ -1957,29 +2278,7 @@ Nummer 2 gilt für Tätigkeiten mit Exposition gegenüber allen alveolengängige
 
 (2) Einatembar ist derjenige Anteil von Stäuben im Atembereich von Beschäftigten, der über die Atemwege aufgenommen werden kann. Alveolengängig ist derjenige Anteil von einatembaren Stäuben, der die Alveolen und Bronchiolen erreichen kann.
 
-(3) Asbest im Sinne von Nummer 2 und Anhang II Nummer 1 sind folgende Silikate mit Faserstruktur:
-
-1.[^F1a_774705_BJNR164400010BJNE002606126]
-  Aktinolith, CAS-Nummer
-    77536-66-4,
-
-
-2.  Amosit, CAS-Nummer 12172-73-5,
-
-
-3.  Anthophyllit, CAS-Nummer 77536-67-5,
-
-
-4.  Chrysotil, CAS-Nummer 12001-29-5 und CAS-Nummer 132207-32-0,
-
-
-5.  Krokydolith, CAS-Nummer 12001-28-4,
-
-
-6.  Tremolit, CAS-Nummer 77536-68-6.
-
-
-
+(3) (weggefallen)
 
 
 **2.3** **Ergänzende Schutzmaßnahmen für Tätigkeiten mit Exposition gegenüber einatembaren Stäuben**
@@ -2004,7 +2303,7 @@ Nummer 2 gilt für Tätigkeiten mit Exposition gegenüber allen alveolengängige
 (8) Für staubintensive Tätigkeiten sind geeignete organisatorische Maßnahmen zu ergreifen, um die Dauer der Exposition so weit wie möglich zu verkürzen. Ergibt die Gefährdungsbeurteilung nach § 6, dass die in Absatz 2 in Bezug genommenen Arbeitsplatzgrenzwerte nicht eingehalten werden können, hat der Arbeitgeber geeignete persönliche Schutzausrüstung, insbesondere zum Atemschutz, zur Verfügung zu stellen. Diese ist von den Beschäftigten zu tragen. Den Beschäftigten sind getrennte Aufbewahrungsmöglichkeiten für die Arbeitskleidung und für die Straßenkleidung sowie Waschräume zur Verfügung zu stellen.
 
 
-**2.4** **Ergänzende Vorschriften zum Schutz gegen Gefährdung durch Asbest**
+**2.4** (weggefallen)
 
 
 
@@ -2124,7 +2423,228 @@ Vor Aufnahme von Tätigkeiten mit Asbest, insbesondere von Abbruch-, Sanierungs-
 
 ## Nummer 3
 
-## **(weggefallen)**
+## **Asbest**
+
+
+**3.1** **Anwendungsbereich**
+
+
+
+
+Nummer 3 gilt ergänzend zu Nummer 2 für Tätigkeiten, bei denen Asbestfasern freigesetzt werden oder freigesetzt werden können.
+
+
+**3.2** **Arbeitsplan**
+
+
+
+
+Im Arbeitsplan nach § 11a Absatz 1 Nummer 6 hat der Arbeitgeber insbesondere Folgendes zu beschreiben:
+
+1.  Arbeitsverfahren und verwendete Arbeitsmittel,
+
+
+2.  technische, organisatorische und persönliche Schutzmaßnahmen,
+
+
+3.  das Verfahren, nach dem überprüft wird, dass im Arbeitsbereich nach Abschluss der Tätigkeiten keine Gefährdung durch Asbest mehr besteht.
+
+
+
+Bei Durchführung der Tätigkeiten mit einem anerkannten emissionsarmen Verfahren nach § 2 Absatz 4b kann die dem Verfahren zugrundeliegende Beschreibung den Arbeitsplan ersetzen.
+
+
+**3.3** **Schutzmaßnahmen**
+
+
+
+
+(1) Bei der Festlegung und Umsetzung risikobezogener Schutzmaßnahmen nach § 11a Absatz 2 hat der Arbeitgeber sicherzustellen, dass
+
+1.  die Schutzmaßnahmen geeignet sind, die Ausbreitung von asbesthaltigem Staub aus dem Arbeitsbereich zu verhindern; geeignete Schutzmaßnahmen sind insbesondere
+
+    a)  staubdichte Abtrennung des Arbeitsbereichs,
+
+
+    b)  Lüftungseinrichtung mit ausreichender Unterdruckhaltung,
+
+
+    c)  Personenschleuse mit Dusche,
+
+
+    d)  Materialschleuse,
+
+
+
+
+
+2.  die erforderlichen Hygienemaßnahmen ergriffen und eingehalten werden,
+
+
+3.  Arbeitsbereiche sowie Arbeitsmittel nach Abschluss der Tätigkeiten fachgerecht gereinigt werden; vor Freigabe der Arbeitsbereiche ist der Erfolg der Reinigung zu prüfen oder nachzuweisen.
+
+
+
+
+(2) Der Arbeitgeber hat den Beschäftigten geeignete Atemschutzgeräte, Schutzanzüge und, soweit erforderlich, weitere persönliche Schutzausrüstung zur Verfügung zu stellen. Der Arbeitgeber hat sicherzustellen, dass die Beschäftigten die zur Verfügung gestellte persönliche Schutzausrüstung verwenden.
+
+(3) Vor dem Rückbau von baulichen oder technischen Anlagen sind asbesthaltige Materialien zu entfernen, soweit dies möglich ist.
+
+
+**3.4** **Zulassung**
+
+
+
+
+(1) Die Zulassung nach § 11a Absatz 3 wird erteilt, wenn
+
+1.  der Arbeitgeber nachgewiesen hat, dass
+
+    a)  die für die Tätigkeiten notwendige personelle und sicherheitstechnische Ausstattung gegeben ist und
+
+
+    b)  die Einhaltung der einschlägigen Arbeitsschutzvorschriften gewährleistet ist und
+
+
+
+
+
+2.  keine Bedenken gegen die Zuverlässigkeit des Arbeitgebers bestehen.
+
+
+
+
+(2) Der Arbeitgeber hat dem Zulassungsantrag Folgendes beizufügen:
+
+1.  eine Beschreibung der auszuführenden Tätigkeiten,
+
+
+2.  den Nachweis, dass die sicherheitstechnische Ausstattung des Betriebs für die Tätigkeiten ausreichend und geeignet ist,
+
+
+3.  die Angabe zu den sachkundigen Personen sowie die entsprechenden Sachkundenachweise,
+
+
+4.  die Zahl der fachkundigen Beschäftigten, die Tätigkeiten mit Asbest durchführen sollen.
+
+
+
+
+
+**3.5** **Anzeige**
+
+
+
+
+(1) Die Anzeige nach § 11a Absatz 4 erfolgt unternehmens- oder objektbezogen. Die Anzeige ist vor einer Änderung der Arbeitsbedingungen, die zu einer erheblichen Erhöhung der Exposition der Beschäftigten führen kann, erneut vorzunehmen. Der Anzeige ist die Dokumentation der Gefährdungsbeurteilung einschließlich des Arbeitsplans sowie der Nachweis der Qualifikation der verantwortlichen und aufsichtführenden Personen beizufügen.
+
+(2) Tätigkeiten im Bereich niedrigen oder mittleren Risikos sind unternehmensbezogen anzuzeigen. In der unternehmensbezogenen Anzeige hat der Arbeitgeber anzugeben:
+
+1.  Ort der Betriebsstätte,
+
+
+2.  Art und Menge der asbesthaltigen Materialien, die gehandhabt werden,
+
+
+3.  ausgeübte Tätigkeiten und angewendete Arbeitsverfahren,
+
+
+4.  Angabe des Risikobereichs einschließlich der Art der Expositionsermittlung,
+
+
+5.  Anzahl der fachkundigen Beschäftigten,
+
+
+6.  Maßnahmen zur Begrenzung der Asbestexposition der Beschäftigten,
+
+
+7.  Angaben zur verantwortlichen und aufsichtführenden Person.
+
+
+
+Unternehmensbezogene Anzeigen sind spätestens nach sechs Jahren erneut vorzunehmen.
+
+(3) Bei wechselnden Arbeitsstätten
+
+1.  sind bei Tätigkeiten im Bereich mittleren Risikos ergänzend zur unternehmensbezogenen Anzeige der Ort der Arbeitsstätte sowie Beginn und Dauer der Tätigkeiten anzuzeigen oder
+
+
+2.  ist bei Tätigkeiten im Bereich hohen Risikos eine objektbezogene Anzeige mit Angaben nach Absatz 2 erforderlich; ergänzend sind der Ort der Arbeitsstätte und Beginn und Dauer der Tätigkeiten anzuzeigen sowie eine Kopie der Zulassung nach § 11a Absatz 3 beizufügen.
+
+
+
+Für anerkannte emissionsarme Verfahren kann in den nach § 20 Absatz 4 bekannt gegebenen Regeln zusätzlich festgelegt werden, dass ergänzend zur unternehmensbezogenen Anzeige der Ort der Arbeitsstätte sowie Beginn und Dauer der Tätigkeit anzuzeigen sind.
+
+
+**3.6** **Fachkunde**
+
+
+
+
+(1) Die Fachkunde nach § 11a Absatz 5 Nummer 3 umfasst die fachlichen Kenntnisse und Fertigkeiten, die erforderlich sind, um Tätigkeiten mit Asbest fachgerecht durchzuführen. Hinsichtlich Inhalt, Umfang und Bescheinigung der erforderlichen Fachkenntnisse sind die nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse zu berücksichtigen.
+
+(2) Die spezifische praxisbezogene Fortbildungsmaßnahme für eine aufsichtführende Person nach § 11a Absatz 5 Satz 3 ist von einer Körperschaft des öffentlichen Rechts oder einem gewerkespezifischen Fachverband durchzuführen. Sie bedarf keiner behördlichen Anerkennung. Der Lehrgangsträger hat der zuständigen Behörde die Durchführung entsprechender Qualifizierungsmaßnahmen einmal vor Beginn des jeweils ersten Lehrgangs mitzuteilen. Die Qualifikationsmaßnahme umfasst keine abschließende Prüfung. Die Teilnahme wird durch einen Qualifikationsnachweis bescheinigt. Der Qualifikationsnachweis ist zeitlich nicht befristet.
+
+
+**3.7** **Sachkunde**
+
+
+
+
+(1) Der Nachweis der nach § 11a Absatz 5 erforderlichen Sachkunde wird erbracht durch die erfolgreiche Teilnahme an einem behördlich anerkannten Sachkundelehrgang.
+
+(2) Der Sachkundelehrgang hat die Kenntnisse und Fähigkeiten zu vermitteln, die erforderlich sind, um die jeweiligen Aufgaben und Tätigkeiten sachgerecht durchführen zu können. Die Inhalte des Lehrgangs können gewerkespezifisch ausgerichtet werden. Teil des Lehrgangs ist eine theoretische Prüfung über dessen wesentliche Inhalte. Bei den Inhalten des Lehrgangs und der theoretischen Prüfung sind die Bekanntmachungen nach § 20 Absatz 4 zu berücksichtigen.
+
+(3) Sachkundenachweise gelten für einen Zeitraum von sechs Jahren ab dem Datum des Nachweises. Wird während der Geltungsdauer des Sachkundenachweises ein behördlich anerkannter Fortbildungslehrgang besucht, verlängert sich die Geltungsdauer um jeweils sechs Jahre, gerechnet ab dem Datum des Nachweises über den Abschluss des Fortbildungslehrgangs.
+
+(4) Die Anerkennung eines Sachkundelehrgangs gemäß Absatz 1 wird für einen Zeitraum von maximal sechs Jahren erteilt und kann mit Auflagen sowie mit dem Vorbehalt des Widerrufs erteilt werden. Auflagen können nachträglich angeordnet werden.
+
+
+**3.8** **Übergangsfristen für Verbote für das Inverkehrbringen asbesthaltiger Zubereitungen und Erzeugnisse gemäß Abschnitt 2 des Anhangs zu § 1 der Chemikalien-Verbotsverordnung vom 14. Oktober 1993 (BGBl. I S. 1720)**
+
+
+
+
+Die Verbote galten bis zum 20. April 1994 nicht für Stoffe, Zubereitungen und Erzeugnisse, die vor dem 20. Oktober 1993 hergestellt worden sind. Dies galt nicht für:
+
+1.  Fertigerzeugnisse in Pulverform, die im Einzelhandel öffentlich verkauft wurden,
+
+
+2.  katalytische Siebe und Isoliervorrichtungen, die für mit Flüssiggas betriebene Heizgeräte bestimmt oder in solche Heizgeräte eingebaut waren,
+
+
+3.  Anstrichstoffe,
+
+
+4.  Stoffe und Zubereitungen zum Aufsprühen oder Aufspritzen,
+
+
+5.  Krokydolith oder krokydolithhaltige Zubereitungen und Erzeugnisse.
+
+
+
+Die Verbote galten bis zum 31. Dezember 1994 nicht für folgende chrysotilhaltige Zubereitungen und Erzeugnisse einschließlich der zu ihrer Herstellung benötigten Rohstoffe:
+
+1.  Kanal- und Druckrohrleitungen für den Tiefbau, ausgenommen unbeschichtete Trinkwasserrohre,
+
+
+2.  Brunnenrohre für die Entwässerung von Braunkohletagebauten,
+
+
+3.  Kupplungsbeläge für Fahrzeuge und Bremsklotzsohlen für schienengebundene Fahrzeuge, soweit keine sicherheitstechnisch geeigneten asbestfreien Kupplungsbeläge oder verkehrsrechtlich zugelassenen asbestfreien Bremsklotzsohlen auf dem Markt angeboten wurden,
+
+
+4.  duroplastische Formmassen zur Herstellung von Kommutatoren,
+
+
+5.  statische Dichtungen, dynamische Dichtungen, Packungen und Zylinderkopfdichtungen für Fahrzeuge und gewerbliche Anwendung,
+
+
+6.  Reibbeläge für gewerbliche Anwendungen.
+
+
+
+Das Verbot erstreckte sich nicht auf natürlich vorkommende mineralische Rohstoffe, die freie Asbestfasern mit einem Massengehalt von nicht mehr als 0,1 Prozent enthielten.
 
 ## Nummer 4
 
@@ -2264,14 +2784,14 @@ Die Fachkunde nach § 15b Absatz 3 und § 15f Absatz 2 umfasst die fachlichen Ke
 
 
 
-(1) Die erforderliche Sachkunde wird durch Vorlage einer Bescheinigung über die erfolgreiche Teilnahme an einem Sachkundelehrgang nachgewiesen. Der Sachkundelehrgang muss die Anforderungen der Absätze 3 und 4 erfüllen und von der zuständigen Behörde anerkannt sein. Die zuständige Behörde kann eine anderweitige Aus- oder Weiterbildung als gleichwertig mit einem Sachkundelehrgang anerkennen, wenn die erforderlichen praktischen und theoretischen Kenntnisse und Fertigkeiten im Sinne von Absatz 3 erworben wurden, um die jeweiligen Biozid-Produkte bestimmungsgemäß und sachgerecht verwenden zu können. Werden die entsprechenden Kenntnisse aufgrund anderer Rechtsvorschriften zum Beispiel nach dem Pflanzenschutzrecht erworben, gelten die Sachkundeanforderungen als erfüllt.
+(1) Die erforderliche Sachkunde wird durch Vorlage einer Bescheinigung über die erfolgreiche Teilnahme an einem Sachkundelehrgang nachgewiesen. Der Sachkundelehrgang muss die Anforderungen der Absätze 3 und 4 erfüllen und von der zuständigen Behörde anerkannt sein. Die zuständige Behörde kann eine anderweitige Aus- oder Weiterbildung als gleichwertig mit einem Sachkundelehrgang anerkennen, wenn die erforderlichen praktischen und theoretischen Kenntnisse und Fertigkeiten im Sinne von Absatz 3 erworben wurden, um die jeweiligen Biozid-Produkte bestimmungsgemäß und sachgerecht verwenden zu können.
 
-(2) Beschränkt sich die vorgesehene Verwendung der Biozid-Produkte auf bestimmte Anwendungsbereiche, so kann auch eine Sachkunde anerkannt werden, die auf diese Bereiche bezogen ist. Dies gilt
+(2) Beschränkt sich die vorgesehene Verwendung der Biozid-Produkte auf bestimmte Anwendungsbereiche, so kann auch eine Sachkunde anerkannt werden, die auf diese Bereiche bezogen ist. Einer Sachkunde gleichgestellt sind
 
-1.  für Aus- und Weiterbildungsabschlüsse, die in einer Bekanntmachung nach § 20 Absatz 4 genannt sind sowie
+1.  Aus- und Weiterbildungsabschlüsse, die in einer Bekanntmachung nach § 20 Absatz 4 genannt sind hinsichtlich der dort genannten Anwendungsbereiche, sowie
 
 
-2.  hinsichtlich der jeweiligen Bereiche der Schädlingsbekämpfung für
+2.  hinsichtlich der jeweiligen Bereiche der Schädlingsbekämpfung
 
     a)  Abschlüsse nach der Verordnung über die Berufsausbildung zum Schädlingsbekämpfer/zur Schädlingsbekämpferin vom 15. Juli 2004 (BGBl. I S. 1638),
 
@@ -2317,7 +2837,7 @@ Die Fachkunde nach § 15b Absatz 3 und § 15f Absatz 2 umfasst die fachlichen Ke
 
 (4) Teil des Lehrgangs ist eine theoretische und praktische Prüfung über die wesentlichen Inhalte des Sachkundelehrgangs. Dabei sind die Bekanntmachungen nach § 20 Absatz 4 zu berücksichtigen.
 
-(5) Sachkundenachweise gelten für einen Zeitraum von sechs Jahren ab dem Datum des Nachweises. Die Geltungsdauer verlängert sich um sechs Jahre ab dem Datum der Erteilung eines Nachweises über den Abschluss eines behördlich anerkannten Fortbildungslehrgangs.
+(5) Sachkundenachweise gelten für einen Zeitraum von sechs Jahren ab dem Datum des Nachweises. Die Geltungsdauer verlängert sich um jeweils sechs Jahre ab dem Datum der Erteilung eines Nachweises über den Abschluss eines behördlich anerkannten Fortbildungslehrgangs.
 
 
 **4.5** **Befähigungsschein**
@@ -2883,8 +3403,8 @@ Für ammoniumnitrat- und sprengstoffherstellende Betriebe
 Ausnahmen nach § 19 Absatz 1 durch die zuständige Behörde von den in den in Nummer 5.4.2 genannten Maßnahmen für Stoffe und Gemische der Gruppen und Untergruppen A, D IV und E ergehen im Benehmen mit der Bundesanstalt für Materialforschung und -prüfung.
 
     Nummer im Register des Chemical Abstracts Service (CAS).
-[^F1a_774705_BJNR164400010BJNE002606126]: 
-(zu § 16 Absatz 2)
+[^F1a_774705_BJNR164400010BJNE002607126]: 
+(zu § 10 Absatz 1, § 16 Absatz 2)
 
 ### Anhang II Besondere Herstellungs- und Verwendungsbeschränkungen für bestimmte Stoffe, Gemische und Erzeugnisse
 
@@ -2896,7 +3416,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Nummer 1
 
-    *   Asbest
+    *   (weggefallen)
 
 
 *    *   Nummer 2
@@ -2906,7 +3426,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Nummer 3
 
-    *   Pentachlorphenol und seine Verbindungen
+    *   (weggefallen)
 
 
 *    *   Nummer 4
@@ -2927,27 +3447,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Nummer 1
 
-## **Asbest**
-
-(1) Arbeiten an asbesthaltigen Teilen von Gebäuden, Geräten, Maschinen, Anlagen, Fahrzeugen und sonstigen Erzeugnissen sind verboten. Satz 1 gilt nicht für
-
-1.  Abbrucharbeiten,
-
-
-2.  Sanierungs- und Instandhaltungsarbeiten mit Ausnahme von Arbeiten, die zu einem Abtrag der Oberfläche von Asbestprodukten führen, es sei denn, es handelt sich um emissionsarme Verfahren, die behördlich oder von den Trägern der gesetzlichen Unfallversicherung anerkannt sind. Zu den Verfahren, die zum verbotenen Abtrag von asbesthaltigen Oberflächen führen, zählen insbesondere Abschleifen, Druckreinigen, Abbürsten und Bohren,
-
-
-3.  Tätigkeiten mit messtechnischer Begleitung, die zu einem Abtrag der Oberfläche von Asbestprodukten führen und die notwendigerweise durchgeführt werden müssen, um eine Anerkennung als emissionsarmes Verfahren zu erhalten.
-
-
-
-Zu den nach Satz 1 verbotenen Arbeiten zählen auch Überdeckungs-, Überbauungs- und Aufständerungsarbeiten an Asbestzementdächern und -wandverkleidungen sowie Reinigungs- und Beschichtungsarbeiten an unbeschichteten Asbestzementdächern und -wandverkleidungen. Die weitere Verwendung von bei Arbeiten anfallenden asbesthaltigen Gegenständen und Materialien zu anderen Zwecken als der Abfallbeseitigung oder Abfallverwertung ist verboten.
-
-(2) Die Gewinnung, Aufbereitung, Weiterverarbeitung und Wiederverwendung von natürlich vorkommenden mineralischen Rohstoffen und daraus hergestellten Gemischen und Erzeugnissen, die Asbest mit einem Massengehalt von mehr als 0,1 Prozent enthalten, ist verboten.
-
-(3) Asbesthaltige Abfälle sind zu versehen mit der genannten Kennzeichnung in Artikel 67 in Verbindung mit Anhang XVII Nummer 6 Spalte 2 Ziffer 3 sowie Anlage 7 dieses Anhangs der Verordnung (EG) Nr. 1907/2006.
-
-(4) Die Absätze 1 und 3 gelten auch für private Haushalte.
+## (weggefallen)
 
 ## Nummer 2
 
@@ -2973,15 +3473,7 @@ Zu den nach Satz 1 verbotenen Arbeiten zählen auch Überdeckungs-, Überbauungs
 
 ## Nummer 3
 
-## **Pentachlorphenol und seine Verbindungen**
-
-(1) Über das Verwendungsverbot nach Artikel 67 in Verbindung mit Anhang XVII Nummer 22 der Verordnung (EG) Nr. 1907/2006 hinaus dürfen solche Erzeugnisse nicht verwendet werden, die mit einem Gemisch behandelt worden sind, die Pentachlorphenol, Pentachlorphenolnatrium oder eine der übrigen Pentachlorphenolverbindungen enthält und deren von der Behandlung erfasste Teile mehr als 5 Milligramm pro Kilogramm dieser Stoffe enthalten.
-
-(2) Absatz 1 gilt nicht für Holzbestandteile von Gebäuden und Möbeln sowie für Textilien, die vor dem 23. Dezember 1989 mit Gemischen behandelt wurden, die Pentachlorphenol, Pentachlorphenolnatrium oder eine der übrigen Pentachlorphenolverbindungen enthalten. Für das in Artikel 3 des Einigungsvertrags genannte Gebiet tritt an die Stelle des 23. Dezember 1989 der 3. Oktober 1990.
-
-(3) Absatz 1 gilt nicht für Altholz, welches nach der Altholzverordnung vom 15. August 2002 (BGBl. I S. 3302), die zuletzt durch Artikel 2a der Verordnung vom 20. Oktober 2006 (BGBl. I S. 2298) geändert worden ist, verwertet wird.
-
-(4) Die Absätze 1 bis 3 gelten auch für private Haushalte.
+## (weggefallen)
 
 ## Nummer 4
 
@@ -2991,7 +3483,7 @@ Zu den nach Satz 1 verbotenen Arbeiten zählen auch Überdeckungs-, Überbauungs
 
 (2) Der Arbeitgeber hat im Rahmen der Gefährdungsbeurteilung nach § 6 sicherzustellen, dass den verwendeten Kühlschmierstoffen keine nitrosierenden Stoffe zugesetzt worden sind.
 
-(3) Korrosionsschutzmittel, die gleichzeitig nitrosierende Agenzien oder deren Vorstufen, beispielsweise Nitrit, und sekundäre Amine, einschließlich verkappter sekundärer Amine, enthalten, dürfen nicht verwendet werden. Ausgenommen sind sekundäre Amine, deren zugehörige N-Nitrosamine nachweislich keine krebserzeugenden Stoffe der Kategorie 1 oder 2 sind.
+(3) Korrosionsschutzmittel, die gleichzeitig nitrosierende Agenzien oder deren Vorstufen, beispielsweise Nitrit, und sekundäre Amine, einschließlich verkappter sekundärer Amine, enthalten, dürfen nicht verwendet werden. Ausgenommen sind sekundäre Amine, deren zugehörige N-Nitrosamine nachweislich keine krebserzeugenden Stoffe der Kategorie 1A oder 1B sind.
 
 (4) Wassermischbare und wassergemischte Korrosionsschutzmittel, die im Anlieferzustand nitrosierende Agenzien oder deren Vorstufen, beispielsweise Nitrit, enthalten, dürfen nicht verwendet werden.
 
@@ -3001,33 +3493,35 @@ Zu den nach Satz 1 verbotenen Arbeiten zählen auch Überdeckungs-, Überbauungs
 
 ## **Biopersistente Fasern**
 
-(1) Folgende mineralfaserhaltige Gefahrstoffe dürfen weder für die Wärme- und Schalldämmung im Hochbau, einschließlich technischer Isolierungen, noch für Lüftungsanlagen hergestellt oder verwendet werden:
+(1) Zu Zwecken der Wärme- und Schalldämmung, für den Brandschutz sowie für technische Dämmung im Hochbau dürfen weder hergestellt noch verwendet werden:
 
-1.  künstliche Mineralfasern (künstlich hergestellte ungerichtete glasige [Silikat-]Fasern mit einem Massengehalt von in der Summe über 18 Prozent der Oxide von Natrium, Kalium, Calcium, Magnesium und Barium),
-
-
-2.  Gemische und Erzeugnisse, die künstliche Mineralfasern mit einem Massengehalt von insgesamt mehr als 0,1 Prozent enthalten.
+1.  Künstliche Mineralfasern, die aus ungerichteten glasigen (Silikat-)Fasern mit einem Massengehalt von über 18 Prozent an Oxiden von Natrium, Kalium, Calcium, Magnesium und Barium bestehen, sowie
 
 
+2.  Gemische und Erzeugnisse, die die Stoffe nach Nummer 1 mit einem Massengehalt von insgesamt mehr als 0,1 Prozent enthalten.
 
 
-(2) Absatz 1 gilt nicht, wenn die künstlichen Mineralfasern eines der folgenden Kriterien erfüllen:
-
-1.  ein geeigneter Intraperitonealtest hat keine Anzeichen von übermäßiger Kanzerogenität ergeben,
 
 
-2.  die Halbwertzeit nach intratrachealer Instillation von 2 Milligramm einer Fasersuspension für Fasern mit einer Länge von mehr als 5 Mikrometer, einem Durchmesser von weniger als 3 Mikrometer und einem Länge-zu-Durchmesser-Verhältnis von größer als 3 zu 1 (WHO-Fasern) beträgt höchstens 40 Tage,
+(2) Absatz 1 gilt nicht
+
+1.  für künstliche Mineralfasern, wenn
+
+    a)  ein geeigneter Intraperitonealtest keine Anzeichen von übermäßiger Karzinogenität ergeben hat oder
 
 
-3.  der Kanzerogenitätsindex KI, der sich aus der Differenz zwischen der Summe der Massengehalte (in Prozent) der Oxide von Natrium, Kalium, Bor, Calcium, Magnesium, Barium und dem doppelten Massengehalt (in Prozent) von Aluminiumoxid ergibt, ist bei künstlichen Mineralfasern mindestens 40,
+    b)  die Halbwertzeit nach intratrachealer Instillation von 2 Milligramm einer Fasersuspension für Fasern mit einer Länge von mehr als 5 Mikrometer, einem Durchmesser von weniger als 3 Mikrometer und einem Länge-zu-Durchmesser-Verhältnis von größer als 3 zu 1 (WHO-Fasern) höchstens 40 Tage beträgt, sowie
 
 
-4.  Glasfasern, die für Hochtemperaturanwendungen bestimmt sind, die
-
-    a)  eine Klassifikationstemperatur von 1 000 Grad Celsius bis zu 1 200 Grad Celsius erfordern, besitzen eine Halbwertzeit nach den unter Ziffer 2 genannten Kriterien von höchstens 65 Tagen oder
 
 
-    b)  eine Klassifikationstemperatur von über 1 200 Grad Celsius erfordern, besitzen eine Halbwertzeit nach den unter Ziffer 2 genannten Kriterien von höchstens 100 Tagen.
+
+2.  für Glasfasern, die für Hochtemperaturanwendungen bestimmt sind, die
+
+    a)  eine Klassifikationstemperatur von 1 000 Grad Celsius bis zu 1 200 Grad Celsius erfordern und die Fasern eine Halbwertzeit nach intratrachealer Instillation von höchstens 65 Tagen besitzen oder
+
+
+    b)  eine Klassifikationstemperatur von über 1 200 Grad Celsius erfordern und Fasern eine Halbwertzeit nach intratrachealer Instillation von höchstens 100 Tagen besitzen.
 
 
 
@@ -3083,7 +3577,7 @@ Die Herstellungs- und Verwendungsbeschränkung nach Satz 1 gilt auch für o-Tolu
 
 (2) Die Herstellungs- und Verwendungsbeschränkung nach Absatz 1 gilt nicht für Forschungs- und Analysezwecke sowie für wissenschaftliche Lehrzwecke in den dafür erforderlichen Mengen.
 
-(zu § 11 Absatz 4)
+(zu § 12 Absatz 4)
 
 ### Anhang III Spezielle Anforderungen an Tätigkeiten mit organischen Peroxiden
 

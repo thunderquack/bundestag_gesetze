@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 1841
 
+Änderung durch
+:   Art. 2 V v. 2.12.2024 I Nr. 384 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 
 ## § 1 Anwendungsbereich
@@ -56,7 +59,7 @@ Fundstelle
 
 (1) Unbeschadet seiner Pflichten nach den §§ 3, 4 und 5 des Arbeitsschutzgesetzes darf der Arbeitgeber nur persönliche Schutzausrüstungen auswählen und den Beschäftigten bereitstellen, die
 
-1.  den Anforderungen der Verordnung über das Inverkehrbringen von persönlichen Schutzausrüstungen entsprechen,
+1.  den Anforderungen der Verordnung (EU) 2016/425 des Europäischen Parlaments und des Rates vom 9. März 2016 über persönliche Schutzausrüstungen und zur Aufhebung der Richtlinie 89/686/EWG des Rates (ABl. L 81 vom 31.3.2016, S. 51) in der jeweils geltenden Fassung entsprechen,
 
 
 2.  Schutz gegenüber der zu verhütenden Gefährdung bieten, ohne selbst eine größere Gefährdung mit sich zu bringen,

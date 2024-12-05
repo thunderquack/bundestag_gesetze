@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 17.7.2007 I 1446;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 8.5.2024 I Nr. 152
-
-Änderung durch
-:   Art. 11 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 23.10.2024 I Nr. 323
 
 
 ## § 1 Berechtigte

@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1712
 
+Geändert durch
+:   Art. 4 V v. 2.12.2024 I Nr. 384
+
 Stand: Ersetzt V 7134-1-2 v. 17.12.1970 I 1748 (BAMKostO)
 
 ## Eingangsformel
@@ -92,7 +95,8 @@ Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des 
 
 ## Anlage (zu § 2 Absatz 1)
 
-(Fundstelle: BGBl. I 2021, 1714 - 1716)
+(Fundstelle: BGBl. I 2021, 1714 - 1716;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   **Inhaltsübersicht**
@@ -410,49 +414,49 @@ Erste Verordnung zum Sprengstoffgesetz (1. SprengV),
 
 *    *   1
 
-    *   Gutachten zum Nachweis, dass inerte Stoffe die thermische Sensibilität und die Sensibilität gegen eine einwirkende Detonation nicht erhöhen, gemäß § 8 Absatz 8 und § 11 Absatz 1 in Verbindung mit Anhang I Nummer 5.3 Absatz 7 GefStoffV
+    *   Gutachten zum Nachweis, dass inerte Stoffe die thermische Sensibilität und die Sensibilität gegen eine einwirkende Detonation nicht erhöhen, gemäß § 8 Absatz 8 und § 12 Absatz 1 in Verbindung mit Anhang I Nummer 5.3 Absatz 7 GefStoffV
 
     *   161 EUR
 
 
 *    *   2
 
-    *   Gutachten zur Feststellung der Gefährlichkeit und der Festlegung der Anforderungen an die Lagerung, Abfüllung und innerbetrieblichen Beförderung von Ammoniumnitraten und ammoniumnitrathaltigen Gemischen nach § 8 Absatz 8 und § 11 Absatz 1 in Verbindung mit Anhang I Nummer 5.3 Absatz 8 GefStoffV
+    *   Gutachten zur Feststellung der Gefährlichkeit und der Festlegung der Anforderungen an die Lagerung, Abfüllung und innerbetrieblichen Beförderung von Ammoniumnitraten und ammoniumnitrathaltigen Gemischen nach § 8 Absatz 8 und § 12 Absatz 1 in Verbindung mit Anhang I Nummer 5.3 Absatz 8 GefStoffV
 
     *   161 EUR
 
 
 *    *   3
 
-    *   Gutachten zum Nachweis der Gefahrenfreiheit von einer selbstunterhaltenden fortschreitenden thermischen Zersetzung ammoniumnitrathaltiger Gemische nach § 8 Absatz 8 und § 11 Absatz 1 in Verbindung mit Anhang I Nummer 5.3 Absatz 9 GefStoffV
+    *   Gutachten zum Nachweis der Gefahrenfreiheit von einer selbstunterhaltenden fortschreitenden thermischen Zersetzung ammoniumnitrathaltiger Gemische nach § 8 Absatz 8 und § 12 Absatz 1 in Verbindung mit Anhang I Nummer 5.3 Absatz 9 GefStoffV
 
     *   161 EUR
 
 
 *    *   4
 
-    *   Gutachten zum Nachweis der Erfüllung der europarechtlichen Beschaffenheitsanforderungen der Stoffe und Zubereitungen der Untergruppen A I, A II und A IV und zum Nachweis, dass Stoffe und Zubereitungen der Gruppe E nicht detonationsfähig sind, gemäß § 8 Absatz 8 und § 11 Absatz 1 in Verbindung mit Anhang I Nummer 5.5.1 GefStoffV
+    *   Gutachten zum Nachweis der Erfüllung der europarechtlichen Beschaffenheitsanforderungen der Stoffe und Zubereitungen der Untergruppen A I, A II und A IV und zum Nachweis, dass Stoffe und Zubereitungen der Gruppe E nicht detonationsfähig sind, gemäß § 8 Absatz 8 und § 12 Absatz 1 in Verbindung mit Anhang I Nummer 5.5.1 GefStoffV
 
     *   161 EUR
 
 
 *    *   5
 
-    *   Feststellung und Bekanntgabe der Gefahrgruppenzuordnung bei organischen Peroxiden gemäß § 11 Absatz 4 in Verbindung mit Anhang III Nummer 2.3 Absatz 3 GefStoffV
+    *   Feststellung und Bekanntgabe der Gefahrgruppenzuordnung bei organischen Peroxiden gemäß § 12 Absatz 4 in Verbindung mit Anhang III Nummer 2.3 Absatz 3 GefStoffV
 
     *   161 EUR
 
 
 *    *   6
 
-    *   Bewertung und Bekanntgabe der Gefahrgruppenzuordnung, wenn die Gefahrgruppenzuordnung von einer anderen geeigneten Stelle vorgenommen wurde, gemäß § 11 Absatz 4 in Verbindung mit Anhang III Nummer 2.3 Absatz 4 GefStoffV
+    *   Bewertung und Bekanntgabe der Gefahrgruppenzuordnung, wenn die Gefahrgruppenzuordnung von einer anderen geeigneten Stelle vorgenommen wurde, gemäß § 12 Absatz 4 in Verbindung mit Anhang III Nummer 2.3 Absatz 4 GefStoffV
 
     *   161 EUR
 
 
 *    *   7
 
-    *   Gutachten über die zu treffenden Schutzmaßnahmen für die Gefährdungsbeurteilung bei Tätigkeiten mit organischen Peroxiden, bei denen Gemische auftreten können, die detonationsfähig sind oder zur schnellen Deflagration oder heftigen Wärmeexplosion neigen, gemäß § 11 Absatz 4 in Verbindung mit Anhang III Nummer 2.4 Absatz 2 GefStoffV
+    *   Gutachten über die zu treffenden Schutzmaßnahmen für die Gefährdungsbeurteilung bei Tätigkeiten mit organischen Peroxiden, bei denen Gemische auftreten können, die detonationsfähig sind oder zur schnellen Deflagration oder heftigen Wärmeexplosion neigen, gemäß § 12 Absatz 4 in Verbindung mit Anhang III Nummer 2.4 Absatz 2 GefStoffV
 
     *   161 EUR
 

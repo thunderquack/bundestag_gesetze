@@ -16,12 +16,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: AT 21.09.2021 V1
 
-Stand: Die V tritt gem. § 19 idF d. Art. 1 Nr. 11 V v. 24.11.2022 BAnz AT 24.11.2022 V2 mit Ablauf des 31.12.2024 außer Kraft
+Stand: Die V tritt gem. § 19 idF d. Art. 2 Nr. 7 V v. 29.11.2024 I Nr. 380 mit Ablauf des 31.12.2028 außer Kraft
 Zuletzt geändert durch
 :   Art. 1 V v. 11.1.2023 I Nr. 13
 
+Änderung durch
+:   Art. 2 V v. 29.11.2024 I Nr. 380 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Die geltung dieser v ist durch
-:   § 19 Abs. 1 idF d. Art. 1 Nr. 8 V v. 12.11.2021 BAnz AT 12.11.2021 V1, d. Art. 2 Nr. 9 V v. 16.12.2021 BAnz AT 17.12.2021 V1, d. Art. 1 Nr. 9 V v. 29.3.2022 BAnz AT 30.03.2022 V1 u. d. Art. 1 Nr. 9 V v. 29.06.2022 BAnz AT 29.06.2022 V1 über den 31.12.2021 hinaus bis zum Ablauf des 25.11.2022 verlängert worden; die Geltung der V ist durch § 19 idF d. Art. 1 Nr. 11 V v. 24.11.2022 BAnz AT 24.11.2022 V2 über den 25.11.2022 hinaus bis zum Ablauf des 31.12.2024 verlängert worden
+:   § 19 Abs. 1 idF d. Art. 1 Nr. 8 V v. 12.11.2021 BAnz AT 12.11.2021 V1, d. Art. 2 Nr. 9 V v. 16.12.2021 BAnz AT 17.12.2021 V1, d. Art. 1 Nr. 9 V v. 29.3.2022 BAnz AT 30.03.2022 V1 u. d. Art. 1 Nr. 9 V v. 29.06.2022 BAnz AT 29.06.2022 V1 über den 31.12.2021 hinaus bis zum Ablauf des 25.11.2022 verlängert worden; die Geltung der V ist durch § 19 idF d. Art. 1 Nr. 11 V v. 24.11.2022 BAnz AT 24.11.2022 V2 u. d. Art. 2 Nr. 7 V v. 29.11.2024 I Nr. 380 über den 25.11.2022 hinaus bis zum Ablauf des 31.12.2028 verlängert worden
 
 Stand: Ersetzt V 860-5-75 v. 24.6.2021 BAnz AT 25.06.2021 V1 (CoronaTestV 2021-07)
 
@@ -82,7 +85,7 @@ Das Bundesministerium für Gesundheit verordnet auf Grund
 
 (4) Die nach § 6 Absatz 1 der Coronavirus-Testverordnung in der bis zum 28. Februar 2023 geltenden Fassung berechtigten Leistungserbringer sind verpflichtet, die von der Kassenärztlichen Bundesvereinigung nach Absatz 6 Nummer 1 festgelegten Angaben in den Abrechnungsunterlagen auftragsbezogen zu dokumentieren und monatlich spätestens bis zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats an die Kassenärztlichen Vereinigungen zu übermitteln. Die zu übermittelnden Angaben dürfen keinen Bezug zu der getesteten Person aufweisen. Vertragsärztliche Leistungserbringer können für die Abrechnung von Leistungen nach den §§ 11 und 12 den Abrechnungsweg über den Datensatz KVDT nutzen. Die erforderlichen Angaben sind elektronisch zu übermitteln. Vertragsärztliche Leistungserbringer, die den Abrechnungsweg über den Datensatz KVDT nutzen, übermitteln quartalsweise. Abweichend von Satz 1 sind Leistungen, die bis zum 30. November 2022 erbracht worden sind, bis spätestens zum Ablauf des 31. Januar 2023 abzurechnen. Die Abrechnung von Leistungen nach den §§ 9 bis 12 ist nach Ablauf der Fristen nach den Sätzen 1 und 6 ausgeschlossen.
 
-(5) Die nach § 6 Absatz 1 der Coronavirus-Testverordnung in der bis zum 28. Februar 2023 geltenden Fassung berechtigten Leistungserbringer und die sonstigen abrechnenden Stellen haben die nach Absatz 4 in Verbindung mit Absatz 6 Nummer 1 zu dokumentierenden Angaben und die für den Nachweis der korrekten Durchführung und Abrechnung notwendige Auftrags- und Leistungsdokumentation bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren. Zur Auftrags- und Leistungsdokumentation zählen soweit erforderlich insbesondere
+(5) Die nach § 6 Absatz 1 der Coronavirus-Testverordnung in der bis zum 28. Februar 2023 geltenden Fassung berechtigten Leistungserbringer und die sonstigen abrechnenden Stellen haben die nach Absatz 4 in Verbindung mit Absatz 6 Nummer 1 zu dokumentierenden Angaben und die für den Nachweis der korrekten Durchführung und Abrechnung notwendige Auftrags- und Leistungsdokumentation bis zum 31. Dezember 2028 unverändert zu speichern oder aufzubewahren. Zur Auftrags- und Leistungsdokumentation zählen soweit erforderlich insbesondere
 
 1.  bei nach § 6 Absatz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 28. Februar 2023 geltenden Fassung beauftragten Leistungserbringern der Nachweis der Beauftragung,
 
@@ -129,6 +132,7 @@ Das Nähere zur Auftrags- und Leistungsdokumentation, insbesondere von welchen e
 
 
 
+Die Kassenärztliche Bundesvereinigung passt die in Satz 1 genannten Festlegungen bis zum 31. Dezember 2024 an die durch die Dritte Verordnung zur Änderung der Coronavirus-Impfverordnung und der Coronavirus-Testverordnung vom 29. November 2024 (BGBl. 2024 I Nr. 380) bewirkten Änderungen dieser Verordnung an.
 
 (7) Die Kassenärztliche Bundesvereinigung legt spätestens bis zum 26. Februar 2022 im Benehmen mit den maßgeblichen Verbänden der Ärzte und Einrichtungen, die Leistungen der Labordiagnostik erbringen, dem Deutschen Städte- und Gemeindebund, dem Deutschen Städtetag und dem Deutschen Landkreistag Form und Inhalt des von allen Leistungserbringern für die Labordiagnostik zu verwendenden Vordrucks bundeseinheitlich fest. Im Vordruck ist insbesondere nach der Art der Testung, den in den §§ 2 bis 4b der Coronavirus-Testverordnung in der bis zum 28. Februar 2023 geltenden Fassung genannten Fällen und in den Fällen der §§ 3 und 4 der Coronavirus-Testverordnung in der bis zum 28. Februar 2023 geltenden Fassung danach zu differenzieren, welcher Art einer Einrichtung oder eines Unternehmens der Anspruch auf Testung einer zu testenden Person zuzuordnen ist. Der Vordruck soll elektronisch ausgestaltet werden.
 
@@ -174,7 +178,7 @@ Das Robert Koch-Institut ist befugt, die ihm nach Absatz 1 Satz 3 und nach § 7 
 
 (4) Die Kassenärztliche Vereinigung soll die Staatsanwaltschaft unterrichten, wenn die Prüfung ergibt, dass ein Verdacht auf strafbare Handlungen besteht. Die Kassenärztliche Vereinigung unterrichtet die bei ihr eingerichteten Stellen zur Bekämpfung von Fehlverhalten unverzüglich, wenn die Prüfung ergibt, dass Maßnahmen nach Absatz 5 beschlossen werden müssen und Teilnehmer an der vertragsärztlichen Versorgung betroffen sind.
 
-(5) Während einer Prüfung nach Absatz 1, Absatz 1b oder Absatz 2 können Auszahlungen der Beträge nach § 14 Absatz 1 Satz 3 durch die Kassenärztliche Vereinigung ausgesetzt werden. Die Leistungserbringer und die sonstigen abrechnenden Stellen nach den §§ 7 und 13 haben die abgerechnete und ausgezahlte Vergütung an die Kassenärztliche Vereinigung zurückzuerstatten, soweit im Rahmen der Prüfung nach Absatz 1, Absatz 1b oder Absatz 2 festgestellt wird, dass die Vergütung zu Unrecht gewährt wurde. Die Vergütung wurde zu Unrecht gewährt, wenn die abgerechneten Leistungen nicht oder nicht ordnungsgemäß erbracht worden sind, die entsprechenden Dokumentationspflichten nicht vollständig erfüllt worden sind oder die geltend gemachten Kosten nicht den tatsächlichen Kosten entsprochen haben. Der Leistungserbringer trägt für die ordnungsgemäße Leistungserbringung und die korrekte Abrechnung der Kosten einschließlich der Erfüllung der jeweiligen Dokumentationspflichten die Darlegungs- und Beweislast. Die Kassenärztliche Vereinigung macht Rückzahlungsansprüche durch Bescheid geltend oder kann den sich ergebenden Rückerstattungsbetrag mit weiteren Forderungen der Leistungserbringer und der jeweiligen sonstigen abrechnenden Stelle nach §§ 7 und 13 verrechnen. Die Kassenärztliche Vereinigung zahlt die Rückerstattungsbeträge und die nach Abschluss einer Prüfung nach Absatz 1, Absatz 1b oder Absatz 2 nicht ausgezahlten Beträge nach Satz 1 an die Liquiditätsreserve des Gesundheitsfonds.
+(5) Während einer Prüfung nach Absatz 1, Absatz 1b oder Absatz 2 können Auszahlungen der Beträge nach § 14 Absatz 1 Satz 5 durch die Kassenärztliche Vereinigung ausgesetzt werden. Die Leistungserbringer und die sonstigen abrechnenden Stellen nach den §§ 7 und 13 haben die abgerechnete und ausgezahlte Vergütung an die Kassenärztliche Vereinigung zurückzuerstatten, soweit im Rahmen der Prüfung nach Absatz 1, Absatz 1b oder Absatz 2 festgestellt wird, dass die Vergütung zu Unrecht gewährt wurde. Die Vergütung wurde zu Unrecht gewährt, wenn die abgerechneten Leistungen nicht oder nicht ordnungsgemäß erbracht worden sind, die entsprechenden Dokumentationspflichten nicht vollständig erfüllt worden sind oder die geltend gemachten Kosten nicht den tatsächlichen Kosten entsprochen haben. Der Leistungserbringer trägt für die ordnungsgemäße Leistungserbringung und die korrekte Abrechnung der Kosten einschließlich der Erfüllung der jeweiligen Dokumentationspflichten die Darlegungs- und Beweislast. Die Kassenärztliche Vereinigung macht Rückzahlungsansprüche durch Bescheid geltend oder kann den sich ergebenden Rückerstattungsbetrag mit weiteren Forderungen der Leistungserbringer und der jeweiligen sonstigen abrechnenden Stelle nach §§ 7 und 13 verrechnen. Die Kassenärztliche Vereinigung zahlt die Rückerstattungsbeträge und die nach Abschluss einer Prüfung nach Absatz 1, Absatz 1b oder Absatz 2 nicht ausgezahlten Beträge nach Satz 1 an die Liquiditätsreserve des Gesundheitsfonds.
 
 (6) Zum Zweck der gegenseitigen Information über Tatsachen mit Bedeutung für die Beauftragung und die Aufhebung der Beauftragung sowie für die Abrechnungsprüfung wirken die zuständigen Stellen des öffentlichen Gesundheitsdienstes mit den Kassenärztlichen Vereinigungen zusammen. Im Rahmen eines regelmäßigen Austauschs unterrichten
 
@@ -248,13 +252,12 @@ An die nach § 6 Absatz 1 der Coronavirus-Testverordnung in der bis zum 28. Febr
 ## § 13 Finanzierung von Testzentren
 
 (1) Kosten für die Errichtung und den laufenden Betrieb von Testzentren werden nach den Maßgaben der Absätze 2 bis 6 erstattet. Dies gilt auch, wenn in den Zentren neben Personen mit einem Anspruch nach § 1 Absatz 1 der Coronavirus-Testverordnung in der bis zum 28. Februar 2023 geltenden Fassung auch Personen im Rahmen der ambulanten Krankenbehandlung getestet werden. Die Zentren sind wirtschaftlich zu betreiben, insbesondere hinsichtlich der Ausstattung mit Personal, der genutzten Räumlichkeiten sowie der Dauer des Betriebs. Die Kosten nach Satz 1 können bei einer Beauftragung als Testzentrum nach
-§ 6 Absatz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 28. Februar 2023 geltenden Fassung der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung              für den Betrieb bis zum 30. Juni 2021 geltend gemacht werden.
+§ 6 Absatz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung              für den Betrieb bis zum 30. Juni 2021 geltend gemacht werden.
 
-(2) Die gesamten Einnahmen aus der Vergütung von Leistungen nach dieser Verordnung, nach regionalen Vereinbarungen mit den Ländern und den zuständigen Stellen des öffentlichen Gesundheitsdienstes und nach den Vereinbarungen aufgrund der Regelungen des Fünften Buches Sozialgesetzbuch sowie die sonstige Vergütung für Testungen in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2, die durch das Testzentrum während des Betriebs im Sinne dieser Verordnung erwirtschaftet werden, sind in der Rechnungslegung des jeweiligen Betreibers gesondert auszuweisen und mit den Gesamtkosten des Testzentrums aufzurechnen. Eine Aufrechnung findet nicht statt bei Vergütungen für Leistungen von selbständig in Testzentren tätigen ärztlichen oder zahnärztlichen Leistungserbringern nach
-§ 6 Absatz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 28. Februar 2023 geltenden Fassung der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung              und Nummer 3. Alle weiteren notwendigen Kosten nach Absatz 1 Satz 1, die durch Vergütungen nach Satz 1 nicht gedeckt sind, können abgerechnet werden. Im Hinblick auf Testzentren, die vom öffentlichen Gesundheitsdienst oder in Kooperation mit diesem betrieben werden, ist die Abrechnung von Personalkosten hinsichtlich originärer Mitarbeiter des öffentlichen Gesundheitsdienstes ausgeschlossen. Für die Testzentren nach
-§ 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 28. Februar 2023 geltenden Fassung der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung              können nur Kosten abgerechnet werden, die nach der Beauftragung durch die zuständigen Stellen des öffentlichen Gesundheitsdienstes als Testzentrum für die Errichtung oder den laufenden Betrieb entstanden sind.
+(2) Die gesamten Einnahmen aus der Vergütung von Leistungen nach dieser Verordnung, nach regionalen Vereinbarungen mit den Ländern und den zuständigen Stellen des öffentlichen Gesundheitsdienstes und nach den Vereinbarungen aufgrund der Regelungen des Fünften Buches Sozialgesetzbuch sowie die sonstige Vergütung für Testungen in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2, die durch das Testzentrum während des Betriebs im Sinne dieser Verordnung erwirtschaftet werden, sind in der Rechnungslegung des jeweiligen Betreibers gesondert auszuweisen und mit den Gesamtkosten des Testzentrums aufzurechnen. Eine Aufrechnung findet nicht statt bei Vergütungen für Leistungen von selbständig in Testzentren tätigen ärztlichen oder zahnärztlichen Leistungserbringern nach § 6 Absatz 1 Nummer 2 und 3 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung. Alle weiteren notwendigen Kosten nach Absatz 1 Satz 1, die durch Vergütungen nach Satz 1 nicht gedeckt sind, können abgerechnet werden. Im Hinblick auf Testzentren, die vom öffentlichen Gesundheitsdienst oder in Kooperation mit diesem betrieben werden, ist die Abrechnung von Personalkosten hinsichtlich originärer Mitarbeiter des öffentlichen Gesundheitsdienstes ausgeschlossen. Für die Testzentren nach
+§ 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung              können nur Kosten abgerechnet werden, die nach der Beauftragung durch die zuständigen Stellen des öffentlichen Gesundheitsdienstes als Testzentrum für die Errichtung oder den laufenden Betrieb entstanden sind.
 
-(3) Die der Rechnungslegung zugrundeliegenden Unterlagen sind bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren. § 7 Absatz 5 gilt entsprechend.
+(3) Die der Rechnungslegung zugrundeliegenden Unterlagen sind bis zum 31. Dezember 2028 unverändert zu speichern oder aufzubewahren. § 7 Absatz 5 gilt entsprechend.
 
 (4) Die zur Abrechnung mit den Krankenkassen nach § 105 Absatz 3 des Fünften Buches Sozialgesetzbuch eingereichten Beträge und rechnungsbegründenden Unterlagen sowie die Höhe des erstatteten Betrags sind für den Zweck der Abrechnung nach dieser Verordnung bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
 
@@ -286,7 +289,7 @@ An die nach § 6 Absatz 1 der Coronavirus-Testverordnung in der bis zum 28. Febr
 
 
 7.  den Gesamtbetrag der für die Errichtung und den Betrieb von Testzentren durch die nach
-    § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 28. Februar 2023 geltenden Fassung der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung                    als Testzentrum beauftragten Dritten abgerechneten Kosten,
+    § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung                    als Testzentrum beauftragten Dritten abgerechneten Kosten,
 
 
 8.  den Gesamtbetrag der für die Errichtung und den Betrieb von Testzentren durch die Kassenärztliche Vereinigung abgerechneten Kosten und
@@ -296,20 +299,20 @@ An die nach § 6 Absatz 1 der Coronavirus-Testverordnung in der bis zum 28. Febr
 
 
 
-Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Angaben sind durch die jeweilige Kassenärztliche Vereinigung in der nächsten Übermittlung zu berichtigen; sachliche oder rechnerische Fehler in den letztmalig übermittelten Angaben sind bis zum 15. Dezember 2023 zu berichtigen. Das Bundesamt für Soziale Sicherung zahlt die nach den Sätzen 1 und 2 übermittelten Beträge aus der Liquiditätsreserve des Gesundheitsfonds an die jeweilige Kassenärztliche Vereinigung.
+Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Angaben sind durch die jeweilige Kassenärztliche Vereinigung in der nächsten Übermittlung zu berichtigen; sachliche oder rechnerische Fehler in den letztmalig übermittelten Angaben sind bis zum 15. Dezember 2023 zu berichtigen. Jede Kassenärztliche Vereinigung kann Änderungen von nach den Sätzen 1 und 2 übermittelten Angaben bis zum 31. Oktober 2028 an das Bundesamt für Soziale Sicherung und an die jeweilige oberste Landesgesundheitsbehörde übermitteln, soweit diese Änderungen der bis zu den in den Sätzen 1 und 2 genannten Zeitpunkten übermittelten Angaben aus der Berücksichtigung von Beträgen resultieren, die mittels einer rechtskräftigen gerichtlichen Entscheidung oder eines gerichtlichen Vergleichs belegt werden; dies gilt nicht für Angaben zur Höhe der Verwaltungskosten nach § 8 Satz 3. Sachliche oder rechnerische Fehler in den nach Satz 3 übermittelten Angaben sind bis zum 30. November 2028 zu berichtigen. Das Bundesamt für Soziale Sicherung zahlt die nach den Sätzen 1 bis 4 übermittelten Beträge aus der Liquiditätsreserve des Gesundheitsfonds an die jeweilige Kassenärztliche Vereinigung.
 
-(2) Das Bundesamt für Soziale Sicherung bestimmt das Nähere zu dem Verfahren der Übermittlung nach Absatz 1 Satz 1 und 2, zu dem Verfahren der Zahlungen aus der Liquiditätsreserve des Gesundheitsfonds nach Absatz 1 Satz 3 und zu dem Verfahren der Rückzahlungen an die Liquiditätsreserve des Gesundheitsfonds nach § 7a Absatz 5 Satz 6.
+(2) Das Bundesamt für Soziale Sicherung bestimmt das Nähere zu dem Verfahren der Übermittlung nach Absatz 1 Satz 1 bis 4, zu dem Verfahren der Zahlungen aus der Liquiditätsreserve des Gesundheitsfonds nach Absatz 1 Satz 5 und zu dem Verfahren der Rückzahlungen an die Liquiditätsreserve des Gesundheitsfonds nach § 7a Absatz 5 Satz 6.
 
-(3) Die Kassenärztlichen Vereinigungen sind verpflichtet, die von ihnen nach Absatz 1 Satz 1 und 2 übermittelten Angaben und die ihnen nach § 7 Absatz 4 Satz 1 und § 13 Absatz 5 Satz 2 und 3 übermittelten Angaben bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
+(3) Die Kassenärztlichen Vereinigungen sind verpflichtet, die von ihnen nach Absatz 1 Satz 1 bis 4 übermittelten Angaben und die ihnen nach § 7 Absatz 4 Satz 1 und § 13 Absatz 5 Satz 2 und 3 übermittelten Angaben bis zum 31. Dezember 2028 unverändert zu speichern oder aufzubewahren.
 
-(4) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach Vornahme der Zahlungen nach Absatz 1 Satz 3 eine Aufstellung der an die Kassenärztlichen Vereinigungen ausgezahlten Beträge.
+(4) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach Vornahme der Zahlungen nach Absatz 1 Satz 5 eine Aufstellung der an die Kassenärztlichen Vereinigungen ausgezahlten Beträge.
 
-(5) Die durch die Kassenärztlichen Vereinigungen gemäß § 14 Absatz 1 Satz 1 der Coronavirus-Testverordnung in der bis zum 10. Oktober 2021 geltenden Fassung übermittelten Gesamtbeträge werden nach Absatz 1 Satz 3 durch das Bundesamt für Soziale Sicherung ausgezahlt, soweit die Zahlung noch nicht erfolgt ist. Für die Übermittlungen nach Satz 1 gilt Absatz 1 Satz 2 entsprechend.
+(5) Die durch die Kassenärztlichen Vereinigungen gemäß § 14 Absatz 1 Satz 1 der Coronavirus-Testverordnung in der bis zum 10. Oktober 2021 geltenden Fassung übermittelten Gesamtbeträge werden nach Absatz 1 Satz 5 durch das Bundesamt für Soziale Sicherung ausgezahlt, soweit die Zahlung noch nicht erfolgt ist. Für die Übermittlungen nach Satz 1 gilt Absatz 1 Satz 2 bis 4 entsprechend.
 
 
 ## § 15 Verfahren für die Finanzierung aus Bundesmitteln
 
-(1) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach der Vornahme von Zahlungen nach § 14 Absatz 1 Satz 3 eine Aufstellung der an die Kassenärztlichen Vereinigungen gezahlten Beträge. Der Bund erstattet die Beträge innerhalb von einer Woche nach der Übermittlung der Aufstellung nach Satz 1 an die Liquiditätsreserve des Gesundheitsfonds.
+(1) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach der Vornahme von Zahlungen nach § 14 Absatz 1 Satz 5 eine Aufstellung der an die Kassenärztlichen Vereinigungen gezahlten Beträge. Der Bund erstattet die Beträge innerhalb von einer Woche nach der Übermittlung der Aufstellung nach Satz 1 an die Liquiditätsreserve des Gesundheitsfonds.
 
 (2) (weggefallen)
 
@@ -370,9 +373,9 @@ Die Angaben nach Satz 1 Nummer 1 und 3 sind nach den Vorgaben des § 7 Absatz 6 
 
 
 
-(5) Die Kassenärztlichen Vereinigungen haben dem Bundesministerium für Gesundheit zum 31. Juli 2023, zum 31. Dezember 2023, zum 31. Juli 2024 und zum 31. Dezember 2024 über die Kassenärztliche Bundesvereinigung jeweils einen Bericht mit folgenden Angaben zu übermitteln:
+(5) Die Kassenärztlichen Vereinigungen haben dem Bundesministerium für Gesundheit in den Jahren 2023 bis 2028 jeweils zum 31. Juli und zum 31. Dezember über die Kassenärztliche Bundesvereinigung einen Bericht mit folgenden Angaben zu übermitteln:
 
-1.  Angaben zur Anzahl der laufenden Verfahren, in denen Auszahlungen der Beträge nach § 14 Absatz 1 Satz 3 nach § 7a Absatz 5 Satz 1 ausgesetzt wurden,
+1.  Angaben zur Anzahl der laufenden Verfahren, in denen Auszahlungen der Beträge nach § 14 Absatz 1 Satz 5 nach § 7a Absatz 5 Satz 1 ausgesetzt wurden,
 
 
 2.  Angaben zur Höhe der Beträge, deren Auszahlung nach § 7a Absatz 5 Satz 1 in laufenden Verfahren ausgesetzt wurden,
@@ -381,13 +384,16 @@ Die Angaben nach Satz 1 Nummer 1 und 3 sind nach den Vorgaben des § 7 Absatz 6 
 3.  Angaben zur Anzahl der laufenden Verfahren, in denen Rückzahlungsansprüche nach § 7a Absatz 5 Satz 5 durch Bescheid geltend gemacht wurden,
 
 
-4.  Angaben zur Höhe der nach § 7a Absatz 5 Satz 5 in laufenden Verfahren durch Bescheid geltend gemachten Rückzahlungsansprüche und zur Höhe der bereits nach § 7a Absatz 5 Satz 6 an die Liquiditätsreserve des Gesundheitsfonds gezahlten Rückerstattungsbeträge,
+4.  Angaben zur Höhe der nach § 7a Absatz 5 Satz 5 in laufenden Verfahren durch Bescheid geltend gemachten Rückzahlungsansprüche und in Abstimmung mit dem Bundesamt für Soziale Sicherung Angaben zur Höhe der bereits nach § 7a Absatz 5 Satz 6 an die Liquiditätsreserve des Gesundheitsfonds gezahlten Rückerstattungsbeträge,
 
 
-5.  Angaben zur Höhe der nach § 14 Absatz 1 Satz 3 durch das Bundesamt für Soziale Sicherung an die jeweilige Kassenärztliche Vereinigung gezahlten Beträge sowie zur Höhe der hiervon bereits an die Leistungserbringer gezahlten Beträge und der hiervon noch nicht an die Leistungserbringer gezahlten Beträge,
+5.  Angaben zur Höhe der nach § 14 Absatz 1 Satz 5 durch das Bundesamt für Soziale Sicherung an die jeweilige Kassenärztliche Vereinigung gezahlten Beträge sowie zur Höhe der hiervon bereits an die Leistungserbringer gezahlten Beträge, der hiervon noch nicht an die Leistungserbringer gezahlten Beträge und der hiervon als Verwaltungskostensatz nach § 8 einbehaltenen Beträge,
 
 
-6.  Angaben zu den Gründen dafür, dass bereits nach § 14 Absatz 1 Satz 3 durch das Bundesamt für Soziale Sicherung an die jeweilige Kassenärztliche Vereinigung gezahlte Beträge noch nicht an die Leistungserbringer gezahlt wurden, soweit dies der Fall ist.
+6.  Angaben zu den Gründen dafür, dass bereits nach § 14 Absatz 1 Satz 5 durch das Bundesamt für Soziale Sicherung an die jeweilige Kassenärztliche Vereinigung gezahlte Beträge noch nicht an die Leistungserbringer gezahlt wurden, soweit dies der Fall ist,
+
+
+7.  Angaben zur Höhe der Rückerstattungsbeträge, die nach § 7a Absatz 5 Satz 5 mit weiteren Forderungen der Leistungserbringer und der jeweiligen sonstigen abrechnenden Stelle nach den §§ 7 und 13 verrechnet wurden.
 
 
 
@@ -405,5 +411,5 @@ Beauftragungen Dritter nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testve
 
 ## § 19 Außerkrafttreten
 
-Diese Verordnung tritt mit Ablauf des 31. Dezember 2024 außer Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Dezember 2028 außer Kraft.
 

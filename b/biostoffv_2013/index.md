@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 21.7.2021 I 3115
 
+Änderung durch
+:   Art. 3 V v. 2.12.2024 I Nr. 384 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Anwendungsbereich, Begriffsbestimmungen und Risikogruppeneinstufung
 
@@ -948,7 +951,7 @@ Die Anzeigepflicht nach § 16 Absatz 1 Nummer 4 bleibt unberührt.
 
 
 
-    *[^F781759_02_BJNR251410013BJNE002501126]
+    *[^F781759_02_BJNR251410013BJNE002502126]
    verbindlich bei gelisteten humanpathogenen Biostoffen
         mit Zugangskontrolle
 
@@ -1238,8 +1241,8 @@ Anmerkung: Gemäß § 10 Absatz 1 sind die als empfohlen bezeichneten Schutzmaß
 
 
 
-    Im Anhang I der Verordnung (EU) Nr. 388/2012 des Europäischen Parlaments und des Rates vom 19. April 2012 zur Änderung der Verordnung (EG) Nr. 428/2009 des Rates über eine Gemeinschaftsregelung für die Kontrolle der Ausfuhr, der Verbringung, der Vermittlung und der Durchfuhr von Gütern mit doppeltem Verwendungszweck (ABl. L 129 vom 16.5.2012, S. 12) unter 1C351 gelistete humanpathogene Erreger sowie unter 1C353 aufgeführte genetisch modifizierte Organismen.
-[^F781759_02_BJNR251410013BJNE002501126]: 
+    In Anhang I der Verordnung (EU) 2021/821 des Europäischen Parlaments und des Rates vom 20. Mai 2021 über eine Unionsregelung für die Kontrolle der Ausfuhr, der Vermittlung, der technischen Unterstützung der Durchfuhr und der Verbringung betreffend Güter mit doppeltem Verwendungszweck (Neufassung) (ABl. L 206 vom 11.6.2021, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2023/66 (ABl. L 9 vom 11.1.2023, S. 1), geändert worden ist, unter 1C351 gelistete human- und tierpathogene Erreger sowie „Toxine“ und unter 1C353 aufgeführte genetisch modifizierte Organismen.
+[^F781759_02_BJNR251410013BJNE002502126]: 
 
 ### Anhang III Zusätzliche Schutzmaßnahmen bei Tätigkeiten in der Biotechnologie
 

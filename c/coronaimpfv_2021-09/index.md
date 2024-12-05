@@ -16,12 +16,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: AT 31.08.2021 V1
 
-Stand: Die V tritt gem. § 17 idF d. Art. 1 Nr. 12 V v. 29.12.2022 BAnz AT 30.12.2022 V1 mit Ablauf des 31.12.2024 außer Kraft
+Stand: Die V tritt gem. § 17 idF d. Art. 1 Nr. 4 V v. 29.11.2024 I Nr. 380 mit Ablauf des 31.12.2028 außer Kraft
 Zuletzt geändert durch
 :   Art. 2 V v. 29.12.2022 BAnz AT 30.12.2022 V1
 
+Änderung durch
+:   Art. 1 V v. 29.11.2024 I Nr. 380 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Die geltung dieser v ist durch
-:   § 17 idF d. Art. 1 Nr. 6 V v. 15.11.2021 BAnz AT 15.11.2021 V1, d. Art. 1 Nr. 9 V v. 16.12.2021 BAnz AT 17.12.2021 V1, d. Art. 1 Nr. 14 V v. 23.5.2022 BAnz AT 24.05.2022 V1, d. Art. 8 Nr. 2 G v. 16.9.2022 I 1454 u. d. Art. 1 Nr. 12 V v. 29.12.2022 BAnz AT 30.12.2022 V1 über den 31.12.2021 hinaus bis zum Ablauf des 31.12.2024 verlängert worden
+:   § 17 idF d. Art. 1 Nr. 6 V v. 15.11.2021 BAnz AT 15.11.2021 V1, d. Art. 1 Nr. 9 V v. 16.12.2021 BAnz AT 17.12.2021 V1, d. Art. 1 Nr. 14 V v. 23.5.2022 BAnz AT 24.05.2022 V1, d. Art. 8 Nr. 2 G v. 16.9.2022 I 1454, d. Art. 1 Nr. 12 V v. 29.12.2022 BAnz AT 30.12.2022 V1 u. d. Art. 1 Nr. 4 V v. 29.11.2024 I Nr. 380 über den 31.12.2021 hinaus bis zum Ablauf des 31.12.2028 verlängert worden
 
 Stand: Ersetzt V 860-5-73 v. 1.6.2021 BAnz AT 02.06.2021 V2 (CoronaImpfV 2021-06)
 
@@ -234,9 +237,9 @@ Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Angaben sin
 
 
 
-Dabei sind Kosten, die für die Errichtung, die Vorhaltung und den Betrieb von Impfzentren im Zeitraum vom 15. Dezember bis zum 31. Dezember 2020 entstanden sind, separat auszuweisen. Der Anspruch nach § 7 ist nach Ablauf der Fristen nach den Sätzen 6 und 7 ausgeschlossen.
+Dabei sind Kosten, die für die Errichtung, die Vorhaltung und den Betrieb von Impfzentren im Zeitraum vom 15. Dezember bis zum 31. Dezember 2020 entstanden sind, separat auszuweisen. Jedes Land kann die in Satz 1 Nummer 1 genannten Angaben erstmalig für ein Impfzentrum oder ein mobiles Impfteam sowie Änderungen von nach Satz 1 Nummer 1 und 2 und Satz 2 übermittelten Angaben bis zum 31. Oktober 2028 an das Bundesamt für Soziale Sicherung übermitteln, soweit die erstmalig übermittelten Angaben oder die Änderungen der bis zu den in den Sätzen 1 und 2 genannten Zeitpunkten übermittelten Angaben aus der Berücksichtigung von erstattungsfähigen Kosten nach § 7 Absatz 1 Satz 1 resultieren, die mittels einer rechtskräftigen gerichtlichen Entscheidung oder eines gerichtlichen Vergleichs belegt werden. Sachliche oder rechnerische Fehler in den nach Satz 9 übermittelten Angaben sind bis zum 30. November 2028 zu berichtigen. Das Bundesamt für Soziale Sicherung zahlt den in § 7 Absatz 1 Satz 1 festgelegten prozentualen Anteil der sich aus der Übermittlung nach Satz 9 ergebenden Änderung des in Satz 1 Nummer 2 genannten Gesamtbetrags aus der Liquiditätsreserve des Gesundheitsfonds an das Land. Der Anspruch nach § 7 ist nach Ablauf der Fristen nach den Sätzen 6, 7 und 9 ausgeschlossen.
 
-(1a) Abweichend von Absatz 1 Satz 9 kann die Abrechnung von erstattungsfähigen Kosten nach § 7 Absatz 1 Satz 1 auch nach Ablauf der Frist nach Satz 6 oder Satz 7 erfolgen, wenn
+(1a) Abweichend von Absatz 1 Satz 12 kann die Abrechnung von erstattungsfähigen Kosten nach § 7 Absatz 1 Satz 1 auch nach Ablauf der Frist nach Satz 6 oder Satz 7 erfolgen, wenn
 
 1.  eine Abrechnung der für ein Quartal erstattungsfähigen Kosten nach § 7 Absatz 1 Satz 1 gegenüber dem Bundesamt für Soziale Sicherung innerhalb der maßgeblichen Frist nach Satz 6 oder Satz 7 erfolgt ist,
 
@@ -248,7 +251,7 @@ Dabei sind Kosten, die für die Errichtung, die Vorhaltung und den Betrieb von I
 
 
 
-Erfolgt die vollständige Abrechnung nicht bis zum 30. November 2024, ist der Anspruch nach § 7 ausgeschlossen.
+Erfolgt die vollständige Abrechnung nicht bis zum 30. November 2024, ist der Anspruch nach § 7 ausgeschlossen; dies gilt nicht für erstattungsfähige Kosten nach § 7 Absatz 1 Satz 1, aus deren Berücksichtigung eine Übermittlung nach Absatz 1 Satz 9 resultiert.
 
 (2) An das Bundesamt für Soziale Sicherung übermittelt
 
@@ -262,15 +265,15 @@ Erfolgt die vollständige Abrechnung nicht bis zum 30. November 2024, ist der An
 
 
 
-Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Beträgen sind durch die jeweilige Kassenärztliche Vereinigung, durch das jeweilige Rechenzentrum und durch die jeweilige Kassenzahnärztliche Vereinigung in der nächsten Übermittlung zu berichtigen; sachliche oder rechnerische Fehler in den letztmalig übermittelten Beträgen sind bis zum 15. November 2023 zu berichtigen. Das Bundesamt für Soziale Sicherung zahlt aus der Liquiditätsreserve des Gesundheitsfonds soweit sich die jeweiligen Beträge aus der Abrechnung von Leistungen ergeben, die bis zum 31. Dezember 2022 erbracht wurden, 100 Prozent und soweit sich die jeweiligen Beträge aus der Abrechnung von Leistungen ergeben, die ab dem 1. Januar 2023 erbracht wurden, 93 Prozent
+Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Beträgen sind durch die jeweilige Kassenärztliche Vereinigung, durch das jeweilige Rechenzentrum und durch die jeweilige Kassenzahnärztliche Vereinigung in der nächsten Übermittlung zu berichtigen; sachliche oder rechnerische Fehler in den letztmalig übermittelten Beträgen sind bis zum 15. November 2023 zu berichtigen. Jede Kassenärztliche Vereinigung, jedes Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch und jede Kassenzahnärztliche Vereinigung kann Änderungen von nach den Sätzen 1 und 2 übermittelten Angaben bis zum 31. Oktober 2028 an das Bundesamt für Soziale Sicherung übermitteln, soweit diese Änderungen der bis zu den in den Sätzen 1 und 2 genannten Zeitpunkten übermittelten Angaben aus der Berücksichtigung von Beträgen resultieren, die mittels einer rechtskräftigen gerichtlichen Entscheidung oder eines gerichtlichen Vergleichs belegt werden. Sachliche oder rechnerische Fehler in den nach Satz 3 übermittelten Angaben sind bis zum 30. November 2028 zu berichtigen. Das Bundesamt für Soziale Sicherung zahlt aus der Liquiditätsreserve des Gesundheitsfonds soweit sich die jeweiligen Beträge aus der Abrechnung von Leistungen ergeben, die bis zum 31. Dezember 2022 erbracht wurden, 100 Prozent und soweit sich die jeweiligen Beträge aus der Abrechnung von Leistungen ergeben, die ab dem 1. Januar 2023 erbracht wurden, 93 Prozent
 
-1.  der nach Satz 1 Nummer 1 übermittelten Beträge an die jeweilige Kassenärztliche Vereinigung,
-
-
-2.  der nach Satz 1 Nummer 2 übermittelten Beträge an das jeweilige Rechenzentrum und
+1.  der nach Satz 1 Nummer 1 und Satz 3 durch eine Kassenärztliche Vereinigung übermittelten Beträge an die jeweilige Kassenärztliche Vereinigung,
 
 
-3.  der nach Satz 1 Nummer 3 übermittelten Beträge an die jeweilige Kassenzahnärztliche Vereinigung.
+2.  der nach Satz 1 Nummer 2 und Satz 3 durch ein Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch übermittelten Beträge an das jeweilige Rechenzentrum und
+
+
+3.  der nach Satz 1 Nummer 3 und Satz 3 durch eine Kassenzahnärztliche Vereinigung übermittelten Beträge an die jeweilige Kassenzahnärztliche Vereinigung.
 
 
 
@@ -278,9 +281,9 @@ Die Rechenzentren leiten den sich aus der Abrechnung nach § 10 Absatz 1 Satz 1 
 
 (3) Die Kassenärztliche Bundesvereinigung übermittelt quartalsweise, letztmalig bis zum 31. Juli 2023, den Betrag der nach § 5 Absatz 2 erstattungsfähigen Kosten an das Bundesamt für Soziale Sicherung. Sachliche oder rechnerische Fehler in dem nach Satz 1 übermittelten Betrag sind durch die Kassenärztliche Bundesvereinigung in der nächsten Übermittlung zu berichtigen; sachliche oder rechnerische Fehler in dem letztmalig übermittelten Betrag sind bis zum 31. August 2023 zu berichtigen. Das Bundesamt für Soziale Sicherung zahlt den Betrag aus der Liquiditätsreserve des Gesundheitsfonds an die Kassenärztliche Bundesvereinigung. Bei der Übermittlung nach Satz 1 sind erstattungsfähige Kosten nach § 5 Absatz 2, die bis zum 31. Dezember 2020 entstanden sind, und erstattungsfähige Kosten nach § 5 Absatz 2, die ab dem 1. Januar 2023 entstanden sind, jeweils separat auszuweisen.
 
-(4) Das Bundesamt für Soziale Sicherung bestimmt das Nähere zum Verfahren nach den Absätzen 1 bis 3. Es informiert den Verband der Privaten Krankenversicherung e. V. über das nach Satz 1 bestimmte Verfahren der Übermittlung nach Absatz 1 Satz 1 und 2 und Absatz 2 Satz 1 und 2.
+(4) Das Bundesamt für Soziale Sicherung bestimmt das Nähere zum Verfahren nach den Absätzen 1 bis 3. Es informiert den Verband der Privaten Krankenversicherung e. V. über das nach Satz 1 bestimmte Verfahren der Übermittlung nach Absatz 1 Satz 1, 2, 9 und 10 und Absatz 2 Satz 1 bis 4.
 
-(5) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit monatlich eine Aufstellung der nach Absatz 1 Satz 3 und 4, Absatz 2 Satz 3 und Absatz 3 Satz 3 ausgezahlten Beträge, die Angaben nach Absatz 1 Satz 1 sowie die Höhe der geschätzten Beträge nach Absatz 1a Satz 1 Nummer 3. Auf Anfrage des Bundesministeriums für Gesundheit übermittelt das Bundesamt für Soziale Sicherung weitere Aufstellungen der nach den Absätzen 1 bis 3 ausgezahlten Beträge.
+(5) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach Vornahme der Zahlungen nach Absatz 1 Satz 3, 4 und 11, Absatz 2 Satz 5 und Absatz 3 Satz 3 eine Aufstellung der ausgezahlten Beträge, die nach Absatz 1 Satz 1, 2, 9 oder Satz 10 übermittelten Angaben und die Höhe der in Absatz 1a Satz 1 Nummer 3 genannten geschätzten Beträge. Auf Anfrage des Bundesministeriums für Gesundheit übermittelt das Bundesamt für Soziale Sicherung weitere Aufstellungen der nach den Absätzen 1 bis 3 ausgezahlten Beträge.
 
 (6) Das Robert Koch-Institut übermittelt dem Bundesministerium für Gesundheit und den Ländern monatlich für jeden Kalendermonat, letztmalig für den Monat April 2023 bis zum 31. Mai 2023, die Anzahl der Schutzimpfungen je Impfzentrum und mobiles Impfteam.
 
@@ -300,7 +303,7 @@ Die Rechenzentren leiten den sich aus der Abrechnung nach § 10 Absatz 1 Satz 1 
 
 ## § 12 Verfahren für die Finanzierung aus Bundesmitteln
 
-(1) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach der Vornahme von Zahlungen nach § 11 Absatz 1 Satz 3, Absatz 2 Satz 3 und Absatz 3 Satz 3 eine Aufstellung der an die Länder, die Kassenärztlichen Vereinigungen, die Rechenzentren, die Kassenzahnärztlichen Vereinigungen und an die Kassenärztliche Bundesvereinigung gezahlten Beträge abzüglich der Beträge nach § 11 Absatz 1 Satz 8, Absatz 2 Satz 5 und Absatz 3 Satz 4. Der Bund erstattet die Beträge an die Liquiditätsreserve des Gesundheitsfonds innerhalb von einer Woche nach der Übermittlung der Aufstellung nach Satz 1.
+(1) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach der Vornahme von Zahlungen nach § 11 Absatz 1 Satz 3 und 11, Absatz 2 Satz 5 und Absatz 3 Satz 3 eine Aufstellung der an die Länder, die Kassenärztlichen Vereinigungen, die Rechenzentren, die Kassenzahnärztlichen Vereinigungen und an die Kassenärztliche Bundesvereinigung gezahlten Beträge abzüglich der Beträge nach § 11 Absatz 1 Satz 8, Absatz 2 Satz 7 und Absatz 3 Satz 4. Der Bund erstattet die Beträge an die Liquiditätsreserve des Gesundheitsfonds innerhalb von einer Woche nach der Übermittlung der Aufstellung nach Satz 1.
 
 (2) Ergänzend zu Absatz 1 Satz 1 übermittelt das Bundesamt für Soziale Sicherung dem Bundesministerium für Gesundheit
 
@@ -341,23 +344,23 @@ Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Angaben sin
 
 
 
-Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Beträgen sind durch die jeweilige Kassenärztliche Vereinigung, durch das jeweilige Rechenzentrum und durch die jeweilige Kassenzahnärztliche Vereinigung in der nächsten Übermittlung zu berichtigen; sachliche oder rechnerische Fehler in den letztmalig übermittelten Beträgen sind bis zum 15. November 2023 zu berichtigen. Der Verband der Privaten Krankenversicherung e. V. zahlt 7 Prozent
+Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Beträgen sind durch die jeweilige Kassenärztliche Vereinigung, durch das jeweilige Rechenzentrum und durch die jeweilige Kassenzahnärztliche Vereinigung in der nächsten Übermittlung zu berichtigen; sachliche oder rechnerische Fehler in den letztmalig übermittelten Beträgen sind bis zum 15. November 2023 zu berichtigen. Jede Kassenärztliche Vereinigung, jedes Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch und jede Kassenzahnärztliche Vereinigung kann Änderungen von nach den Sätzen 1 und 2 übermittelten Angaben bis zum 31. Oktober 2028 an den Verband der Privaten Krankenversicherung e.V. übermitteln, soweit diese Änderungen der bis zu den in den Sätzen 1 und 2 genannten Zeitpunkten übermittelten Angaben aus der Berücksichtigung von Beträgen resultieren, die mittels einer rechtskräftigen gerichtlichen Entscheidung oder eines gerichtlichen Vergleichs belegt werden. Sachliche oder rechnerische Fehler in den nach Satz 3 übermittelten Angaben sind bis zum 30. November 2028 zu berichtigen. Der Verband der Privaten Krankenversicherung e. V. zahlt 7 Prozent
 
-1.  der nach Satz 1 Nummer 1 übermittelten Beträge an die jeweilige Kassenärztliche Vereinigung,
-
-
-2.  der nach Satz 1 Nummer 2 übermittelten Beträge an das jeweilige Rechenzentrum und
+1.  der nach Satz 1 Nummer 1 und Satz 3 durch eine Kassenärztliche Vereinigung übermittelten Beträge an die jeweilige Kassenärztliche Vereinigung,
 
 
-3.  der nach Satz 1 Nummer 3 übermittelten Beträge an die jeweilige Kassenzahnärztliche Vereinigung.
+2.  der nach Satz 1 Nummer 2 und Satz 3 durch ein Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch übermittelten Beträge an das jeweilige Rechenzentrum und
+
+
+3.  der nach Satz 1 Nummer 3 und Satz 3 durch eine Kassenzahnärztliche Vereinigung übermittelten Beträge an die jeweilige Kassenzahnärztliche Vereinigung.
 
 
 
 Die Rechenzentren leiten den sich aus der Abrechnung nach § 10 Absatz 1 Satz 1 ergebenden Betrag an die Apotheken weiter.
 
-(3) Die privaten Krankenversicherungsunternehmen zahlen die sich nach Absatz 1 Satz 3 und Absatz 2a Satz 3 ergebenden Beträge an den Verband der Privaten Krankenversicherung e. V. Der Verband der Privaten Krankenversicherung e. V. bestimmt das Nähere zur Zahlung dieser Beträge der privaten Krankenversicherungsunternehmen.
+(3) Die privaten Krankenversicherungsunternehmen zahlen die sich nach Absatz 1 Satz 3 und Absatz 2a Satz 5 ergebenden Beträge an den Verband der Privaten Krankenversicherung e. V. Der Verband der Privaten Krankenversicherung e. V. bestimmt das Nähere zur Zahlung dieser Beträge der privaten Krankenversicherungsunternehmen.
 
-(4) Der Verband der Privaten Krankenversicherung e. V. übermittelt dem Bundesministerium für Gesundheit monatlich eine Aufstellung der nach Absatz 1 Satz 3 an die Länder und nach Absatz 2a Satz 3 an die Kassenärztlichen Vereinigungen, die Rechenzentren und die Kassenzahnärztlichen Vereinigungen ausgezahlten Beträge, letztmalig bis zum 31. Dezember 2023.
+(4) Der Verband der Privaten Krankenversicherung e. V. übermittelt dem Bundesministerium für Gesundheit monatlich eine Aufstellung der nach Absatz 1 Satz 3 an die Länder und nach Absatz 2a Satz 5 an die Kassenärztlichen Vereinigungen, die Rechenzentren und die Kassenzahnärztlichen Vereinigungen ausgezahlten Beträge, letztmalig bis zum 31. Dezember 2028.
 
 
 ## § 14 (weggefallen)
@@ -374,5 +377,5 @@ Die Rechenzentren leiten den sich aus der Abrechnung nach § 10 Absatz 1 Satz 1 
 
 ## § 17 Außerkrafttreten
 
-Diese Verordnung tritt mit Ablauf des 31. Dezember 2024 außer Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Dezember 2028 außer Kraft.
 
