@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 57 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 43 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Elterngeld
 
@@ -89,10 +92,10 @@ Für angenommene Kinder und Kinder im Sinne des Satzes 1 Nummer 1 sind die Vorsc
 
 2.  eine Blaue Karte EU, eine ICT-Karte, eine Mobiler-ICT-Karte oder eine Aufenthaltserlaubnis besitzt, die für einen Zeitraum von mindestens sechs Monaten zur Ausübung einer Erwerbstätigkeit berechtigen oder berechtigt haben oder diese erlauben, es sei denn, die Aufenthaltserlaubnis wurde
 
-    a)  nach § 16e des Aufenthaltsgesetzes zu Ausbildungszwecken, nach § 19c Absatz 1 des Aufenthaltsgesetzes zum Zweck der Beschäftigung als Au-Pair oder zum Zweck der Saisonbeschäftigung, nach § 19e des Aufenthaltsgesetzes zum Zweck der Teilnahme an einem Europäischen Freiwilligendienst oder nach § 20 Absatz 1 und 2 des Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt,
+    a)  nach § 16e des Aufenthaltsgesetzes zu Ausbildungszwecken, nach § 19c Absatz 1 des Aufenthaltsgesetzes zum Zweck der Beschäftigung als Au-Pair oder zum Zweck der Saisonbeschäftigung, nach § 19e des Aufenthaltsgesetzes zum Zweck der Teilnahme an einem Europäischen Freiwilligendienst oder nach § 20a Absatz 5 Satz 1 des Aufenthaltsgesetzes zur Suche nach einer Erwerbstätigkeit oder nach Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen erteilt,
 
 
-    b)  nach § 16b des Aufenthaltsgesetzes zum Zweck eines Studiums, nach § 16d des Aufenthaltsgesetzes für Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen oder nach § 20 Absatz 3 des Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt und er ist weder erwerbstätig noch nimmt er Elternzeit nach § 15 des Bundeselterngeld- und Elternzeitgesetzes oder laufende Geldleistungen nach dem Dritten Buch Sozialgesetzbuch in Anspruch,
+    b)  nach § 16b des Aufenthaltsgesetzes zum Zweck eines Studiums, nach § 16d des Aufenthaltsgesetzes für Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen, nach § 20 des Aufenthaltsgesetzes zur Suche nach einer Erwerbstätigkeit oder nach § 20a Absatz 5 Satz 2 des Aufenthaltsgesetzes zur Suche nach einer Erwerbstätigkeit oder nach Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen erteilt und er ist weder erwerbstätig noch nimmt er Elternzeit nach § 15 des Bundeselterngeld- und Elternzeitgesetzes oder laufende Geldleistungen nach dem Dritten Buch Sozialgesetzbuch in Anspruch,
 
 
     c)  nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Heimatland oder nach den § 23a oder § 25 Absatz 3 bis 5 des Aufenthaltsgesetzes erteilt,
@@ -918,7 +921,7 @@ Beantragt eine Person Elterngeld, so ist die nach § 12 Absatz 1 zuständige Beh
 
 (2) Für die dem Erziehungsgeld vergleichbaren Leistungen der Länder sind § 8 Absatz 1 und § 9 des Bundeserziehungsgeldgesetzes in der bis zum 31. Dezember 2006 geltenden Fassung weiter anzuwenden.
 
-(3) § 1 Absatz 7 Satz 1 Nummer 1 bis 4 in der Fassung des Artikels 36 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 29. Februar 2020 beginnen. § 1 Absatz 7 Satz 1 Nummer 5 in der Fassung des Artikels 36 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Dezember 2019 beginnen. § 1 Absatz 7 Satz 1 Nummer 2 Buchstabe c in der Fassung des Artikels 12 Nummer 1 des Gesetzes vom 23. Mai 2022 (BGBl. I S. 760) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Mai 2022 beginnen.
+(3) § 1 Absatz 7 Satz 1 Nummer 1 bis 4 in der Fassung des Artikels 36 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 29. Februar 2020 beginnen. § 1 Absatz 7 Satz 1 Nummer 5 in der Fassung des Artikels 36 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Dezember 2019 beginnen. § 1 Absatz 7 Satz 1 Nummer 2 Buchstabe c in der Fassung des Artikels 12 Nummer 1 des Gesetzes vom 23. Mai 2022 (BGBl. I S. 760) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Mai 2022 beginnen. § 1 Absatz 7 Satz 1 Nummer 2 Buchstabe a und b in der Fassung des Artikels 43 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Mai 2024 beginnen.
 
 (4) § 9 Absatz 2 ist auf Kinder anwendbar, die nach dem 31. Dezember 2021 geboren oder mit dem Ziel der Adoption aufgenommen worden sind. § 25 ist auf Kinder anwendbar, die nach dem 31. Oktober 2024 geboren oder mit dem Ziel der Adoption aufgenommen worden sind. Für die nach dem 31. Dezember 2021 und vor dem 1. November 2024 geborenen oder mit dem Ziel der Adoption aufgenommenen Kinder ist § 25 in der bis zum 31. Oktober 2024 geltenden Fassung weiter anzuwenden. Zur Erprobung des Verfahrens können diese Regelungen in Pilotprojekten mit Zustimmung des Bundesministeriums für Familie, Senioren, Frauen und Jugend, des Bundesministeriums für Arbeit und Soziales und des Bundesministeriums des Innern und für Heimat auf Kinder, die vor dem 1. Januar 2022 geboren oder mit dem Ziel der Adoption aufgenommen worden sind, angewendet werden.
 

@@ -21,6 +21,15 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 31 G v. 23.10.2024 I Nr. 323
 
+Änderung durch
+:   Art. 35 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 36 G v. 2.12.2024 I Nr. 387 mWv 1.1.2025 noch nicht berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 53 G v. 2.12.2024 I Nr. 387 noch nicht berücksichtigt
+
 
 ## Erster Teil - Allgemeine Bewertungsvorschriften
 

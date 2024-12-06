@@ -19,7 +19,25 @@ Neugefasst durch
 :   Bek. v. 8.10.2009 I 3366, 3862;
 
 Zuletzt geändert durch
-:   Art. 33 G v. 23.10.2024 I Nr. 323
+:   Art. 1 G v. 2.12.2024 I Nr. 386
+
+Änderung durch
+:   Art. 1 G v. 2.12.2024 I Nr. 387 mWv 1.1.2023 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 2 G v. 2.12.2024 I Nr. 387 mWv 1.1.2024 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 3 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 4 G v. 2.12.2024 I Nr. 387 mWv 1.1.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 5 G v. 2.12.2024 I Nr. 387 mWv 1.1.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 6 G v. 2.12.2024 I Nr. 387 mWv 1.1.2027 noch nicht berücksichtigt
 
 
 ## I. - Steuerpflicht
@@ -6571,7 +6589,7 @@ für einen der Dauer dieser Dienste oder der Tätigkeit entsprechenden Zeitraum,
 3             Absatz 4 Satz 2 und 3 gilt entsprechend.
 
 (6)
-1             Bei der Veranlagung zur Einkommensteuer wird für jedes zu berücksichtigende Kind des Steuerpflichtigen ein Freibetrag von 3 192 Euro für das sächliche Existenzminimum des Kindes (Kinderfreibetrag) sowie ein Freibetrag von 1 464 Euro für den Betreuungs- und Erziehungs- oder Ausbildungsbedarf des Kindes vom Einkommen abgezogen.
+1             Bei der Veranlagung zur Einkommensteuer wird für jedes zu berücksichtigende Kind des Steuerpflichtigen ein Freibetrag von 3 306 Euro für das sächliche Existenzminimum des Kindes (Kinderfreibetrag) sowie ein Freibetrag von 1 464 Euro für den Betreuungs- und Erziehungs- oder Ausbildungsbedarf des Kindes vom Einkommen abgezogen.
 2             Bei Ehegatten, die nach den §§ 26, 26b zusammen zur Einkommensteuer veranlagt werden, verdoppeln sich die Beträge nach Satz 1, wenn das Kind zu beiden Ehegatten in einem Kindschaftsverhältnis steht.
 3             Die Beträge nach Satz 2 stehen dem Steuerpflichtigen auch dann zu, wenn
 
@@ -6601,29 +6619,29 @@ für einen der Dauer dieser Dienste oder der Tätigkeit entsprechenden Zeitraum,
 1             Die tarifliche Einkommensteuer bemisst sich nach dem auf volle Euro abgerundeten zu versteuernden Einkommen.
 2             Sie beträgt ab dem Veranlagungszeitraum 2024 vorbehaltlich der §§ 32b, 32d, 34, 34a, 34b und 34c jeweils in Euro für zu versteuernde Einkommen
 
-1.  bis 11 604 Euro (Grundfreibetrag):
+1.  bis 11 784 Euro (Grundfreibetrag):
 
     0;
 
 
-2.  von 11 605 Euro bis 17 005 Euro:
+2.  von 11 785 Euro bis 17 005 Euro:
 
-    (922,98 · y + 1 400) · y;
+    (954,80 • y + 1 400) • y;
 
 
 3.  von 17 006 Euro bis 66 760 Euro:
 
-    (181,19 · z + 2 397) · z + 1 025,38;
+    (181,19 • z + 2 397) • z + 991,21;
 
 
 4.  von 66 761 Euro bis 277 825 Euro:
 
-    0,42 · x – 10 602,13;
+    0,42 • x – 10 636,31;
 
 
 5.  von 277 826 Euro an:
 
-    0,45 · x – 18 936,88.
+    0,45 • x – 18 971,06.
 
 
 
@@ -8395,7 +8413,7 @@ den Betrag von 10 000 Euro übersteigen.
 
 ergibt den zu versteuernden Jahresbetrag.
 6             Für den zu versteuernden Jahresbetrag ist die Jahreslohnsteuer in den Steuerklassen I, II und IV nach § 32a Absatz 1 sowie in der Steuerklasse III nach § 32a Absatz 5 zu berechnen.
-7             In den Steuerklassen V und VI ist die Jahreslohnsteuer zu berechnen, die sich aus dem Zweifachen des Unterschiedsbetrags zwischen dem Steuerbetrag für das Eineinviertelfache und dem Steuerbetrag für das Dreiviertelfache des zu versteuernden Jahresbetrags nach § 32a Absatz 1 ergibt; die Jahreslohnsteuer beträgt jedoch mindestens 14 Prozent des zu versteuernden Jahresbetrags, für den 13 279 Euro übersteigenden Teil des zu versteuernden Jahresbetrags höchstens 42 Prozent, für den 33 380 Euro übersteigenden Teil des zu versteuernden Jahresbetrags 42 Prozent und für den 222 260 Euro übersteigenden Teil des zu versteuernden Jahresbetrags 45 Prozent.
+7             In den Steuerklassen V und VI ist die Jahreslohnsteuer zu berechnen, die sich aus dem Zweifachen des Unterschiedsbetrags zwischen dem Steuerbetrag für das Eineinviertelfache und dem Steuerbetrag für das Dreiviertelfache des zu versteuernden Jahresbetrags nach § 32a Absatz 1 ergibt; die Jahreslohnsteuer beträgt jedoch mindestens 14 Prozent des zu versteuernden Jahresbetrags, für den 13 432 Euro übersteigenden Teil des zu versteuernden Jahresbetrags höchstens 42 Prozent, für den 33 380 Euro übersteigenden Teil des zu versteuernden Jahresbetrags 42 Prozent und für den 222 260 Euro übersteigenden Teil des zu versteuernden Jahresbetrags 45 Prozent.
 8             Für die Lohnsteuerberechnung ist die als Lohnsteuerabzugsmerkmal mitgeteilte oder die nach § 39c Absatz 1 oder Absatz 2 oder nach § 39e Absatz 5a oder Absatz 6 Satz 8 anzuwendende Steuerklasse maßgebend.
 9             Die monatliche Lohnsteuer ist
 1             /
@@ -11793,8 +11811,8 @@ Marktpreis              an die Stelle des Rücknahmepreises.
 5             § 32 Absatz 6 Satz 1 in der Fassung des Artikels 1 des Gesetzes vom 8. Dezember 2022 (BGBI. I S. 2230) ist beim Steuerabzug vom Arbeitslohn ab dem 1. Januar 2023 anzuwenden.
 
 (32a)
-1             § 32a Absatz 1 und § 51a Absatz 2a Satz 1 in der am 23. Juli 2015 geltenden Fassung sind beim Steuerabzug vom Arbeitslohn erstmals anzuwenden auf laufenden Arbeitslohn, der für einen nach dem 30. November 2015 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach dem 30. November 2015 zufließen.
-2             Bei der Lohnsteuerberechnung auf laufenden Arbeitslohn, der für einen nach dem 30. November 2015, aber vor dem 1. Januar 2016 endenden täglichen, wöchentlichen und monatlichen Lohnzahlungszeitraum gezahlt wird, ist zu berücksichtigen, dass § 32a Absatz 1 und § 51a Absatz 2a Satz 1 in der am 23. Juli 2015 geltenden Fassung bis zum 30. November 2015 nicht angewandt wurden (Nachholung).
+1             § 32a Absatz 1, § 39b Absatz 2 Satz 7 zweiter Halbsatz und § 51a Absatz 2a Satz 1 in Verbindung mit § 32 Absatz 6 Satz 1 in der am 6. Dezember 2024 geltenden Fassung sind beim Steuerabzug vom Arbeitslohn erstmals anzuwenden auf laufenden Arbeitslohn, der für einen nach dem 30. November 2024 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach dem 30. November 2024 zufließen.
+2             Bei der Lohnsteuerberechnung auf laufenden Arbeitslohn, der für einen nach dem 30. November 2024 aber vor dem 1. Januar 2025 endenden täglichen, wöchentlichen und monatlichen Lohnzahlungszeitraum gezahlt wird, ist zu berücksichtigen, dass § 32a Absatz 1, § 39b Absatz 2 Satz 7 zweiter Halbsatz und § 51a Absatz 2a Satz 1 in Verbindung mit § 32 Absatz 6 Satz 1 in der am 6. Dezember 2024 geltenden Fassung bis zum 30. November 2024 nicht angewandt wurden (Nachholung).
 3             Das Bundesministerium der Finanzen hat im Einvernehmen mit den obersten Finanzbehörden der Länder entsprechende Programmablaufpläne aufzustellen und bekannt zu machen (§ 39b Absatz 6 und § 51 Absatz 4 Nummer 1a).
 
 (33)
@@ -11879,11 +11897,7 @@ tritt.
 
 (37a) § 39f Absatz 1 Satz 9 bis 11 und Absatz 3 Satz 1 ist erstmals für den Veranlagungszeitraum 2019 anzuwenden.
 
-(37b)
-1             § 39b Absatz 2 Satz 5 Nummer 4 in der am 23. Juli 2015 geltenden Fassung ist erstmals anzuwenden auf laufenden Arbeitslohn, der für einen nach dem 30. November 2015 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach dem 30. November 2015 zufließen.
-2             Bei der Lohnsteuerberechnung auf laufenden Arbeitslohn, der für einen nach dem 30. November 2015, aber vor dem 1. Januar 2016 endenden täglichen, wöchentlichen und monatlichen Lohnzahlungszeitraum gezahlt wird, ist zu berücksichtigen, dass § 39b Absatz 2 Satz 5 Nummer 4 in der am 23. Juli 2015 geltenden Fassung bis zum 30. November 2015 nicht angewandt wurde (Nachholung).
-3             Das Bundesministerium der Finanzen hat dies im Einvernehmen mit den obersten Finanzbehörden der Länder bei der Aufstellung und Bekanntmachung der geänderten Programmablaufpläne für 2015 zu berücksichtigen (§ 39b Absatz 6 und § 51 Absatz 4 Nummer 1a).
-4             In den Fällen des § 24b Absatz 4 ist für das Kalenderjahr 2015 eine Veranlagung durchzuführen, wenn die Nachholung nach Satz 2 durchgeführt wurde.
+(37b) (weggefallen)
 
 (37c)
 1             § 40 Absatz 2 Satz 1 Nummer 6 in der am 17. November 2016 geltenden Fassung ist erstmals anzuwenden auf Vorteile, die in einem nach dem 31. Dezember 2016 endenden Lohnzahlungszeitraum oder als sonstige Bezüge nach dem 31. Dezember 2016 zugewendet werden, und letztmals anzuwenden auf Vorteile, die in einem vor dem 1. Januar 2031 endenden Lohnzahlungszeitraum oder als sonstige Bezüge vor dem 1. Januar 2031 zugewendet werden.

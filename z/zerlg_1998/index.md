@@ -16,6 +16,9 @@ Fundstelle
 :   BGBl I: 1998, 1998
 
 Stand: Zuletzt geändert Art. 11 G v. 11.12.2018 I 2338
+Änderung durch
+:   Art. 15 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Unmittelbare Steuerberechtigung
 

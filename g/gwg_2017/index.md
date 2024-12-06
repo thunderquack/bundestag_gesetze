@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 2017, 1822
 
 Zuletzt geändert durch
-:   Art. 34 Abs. 21 G v. 22.12.2023 I Nr. 411
+:   Art. 41 Nr. 2 G v. 2.12.2024 I Nr. 387
 
-Mittelbare änderung durch
-:   Art. 34 Abs. 4 G v. 22.12.2023 I Nr. 411 ist berücksichtigt
+Änderung durch
+:   Art. 41 Nr. 1 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 ist nicht ausführbar, da § 50c nicht vorhanden ist
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten ist
@@ -3185,6 +3185,8 @@ Dem entgegenstehende Vereinbarungen sind unwirksam.
 (2) Die nach § 155 Absatz 2 der Gewerbeordnung in Verbindung mit dem jeweiligen Landesrecht nach § 14 Absatz 1 der Gewerbeordnung zuständigen Behörden übermitteln auf Ersuchen den nach § 50 Nummer 9 zuständigen Aufsichtsbehörden kostenfrei die Daten aus der Gewerbeanzeige gemäß den Anlagen 1 bis 3 der Gewerbeanzeigenverordnung über Verpflichtete nach § 2 Absatz 1, soweit die Kenntnis dieser Daten zur Wahrnehmung der Aufgaben der Aufsichtsbehörden nach § 51 erforderlich ist.
 
 (3) Die Registerbehörde nach § 11a Absatz 1 der Gewerbeordnung übermittelt auf Ersuchen den nach § 50 Nummer 9 zuständigen Aufsichtsbehörden kostenfrei die in § 6 der Finanzanlagenvermittlungsverordnung und die in § 8 der Versicherungsvermittlungsverordnung genannten Daten, soweit die Kenntnis dieser Daten zur Wahrnehmung der Aufgaben der Aufsichtsbehörden nach § 51 erforderlich ist.
+
+(3b) Zur Aufgabenwahrnehmung nach § 50c Absatz 2 Nummer 5 sind die Koordinierenden Stellen der Länder befugt, bei den zuständigen Finanzbehörden die Mitteilung von Name und Anschrift zu den durch die Aufsichtsbehörden des Landes nach § 50 Nummer 9 zu beaufsichtigenden Verpflichteten im Sinne des § 2 Absatz 1 Nummer 13, 14 oder 16, geordnet nach Wirtschaftszweigen und Betriebsgrößenklassen, zu verlangen. Sammelersuchen sind zulässig.
 
 (4) Weitergehende Befugnisse der Aufsichtsbehörden zur Verarbeitung von personenbezogenen Daten nach anderen Rechtsvorschriften bleiben unberührt.
 

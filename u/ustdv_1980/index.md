@@ -21,6 +21,15 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 24 G v. 27.3.2024 I Nr. 108
 
+Änderung durch
+:   Art. 28 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 29 G v. 2.12.2024 I Nr. 387 mWv 1.1.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 30 G v. 2.12.2024 I Nr. 387 mWv 1.1.2028 noch nicht berücksichtigt
+
 
 ## - - Zu § 3a des Gesetzes
 

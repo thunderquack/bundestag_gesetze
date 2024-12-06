@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 49 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 51 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Persönlicher Geltungsbereich
 
@@ -463,6 +466,11 @@ Die Einwilligung nach Satz 1 ist spätestens bis zum Ablauf des zweiten Kalender
 (gegenstandslos)
 
 
+## § 16a Gleichstellung der Wertpapierinstitute
+
+Für die Anwendung der vorstehenden Vorschriften dieses Gesetzes sind Wertpapierinstitute im Sinne des Wertpapierinstitutsgesetzes den Kreditinstituten sowie den Kapitalverwaltungsgesellschaften im Sinne des Kapitalanlagegesetzbuchs gleichgestellt.
+
+
 ## § 17 Anwendungsvorschriften
 
 (1) Die vorstehenden Vorschriften dieses Gesetzes gelten vorbehaltlich der nachfolgenden Absätze für vermögenswirksame Leistungen, die nach dem 31. Dezember 1993 angelegt werden.
@@ -510,6 +518,8 @@ gelten statt der vorstehenden §§ 2, 4, 6 und 7 die §§ 2, 4, 6 und 7 des Fün
 (16) Zur Abwicklung von Verträgen, die vor dem 25. Mai 2018 unter den Voraussetzungen des § 15 Absatz 1 Satz 4 in der am 30. Juni 2013 geltenden Fassung abgeschlossen wurden, sind das Unternehmen, das Institut oder der in § 3 Absatz 3 genannte Gläubiger verpflichtet, die Daten nach Maßgabe des § 15 Absatz 1 Satz 1 zu übermitteln, es sei denn, der Arbeitnehmer hat der Datenübermittlung schriftlich widersprochen.
 
 (17) § 13 Absatz 1 Satz 1 in der Fassung des Artikels 34 des Gesetzes vom 11. Dezember 2023 (BGBl. 2023 I Nr. 354) ist erstmals für vermögenswirksame Leistungen anzuwenden, die nach dem 31. Dezember 2023 angelegt werden.
+
+(18) § 16a ist rückwirkend ab Inkrafttreten des Wertpapierinstitutsgesetzes vom 12. Mai 2021 (BGBl. I S. 990) anzuwenden.
 
 
 ## § 18 Kündigung eines vor 1994 abgeschlossenen Anlagevertrags und der Mitgliedschaft in einer Genossenschaft oder Gesellschaft mit beschränkter Haftung

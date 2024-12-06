@@ -23,6 +23,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 10 V v. 19.12.2022 I 2432
 
+Änderung durch
+:   Art. 31 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Grundsätze der Datenübermittlung
 
@@ -32,7 +35,7 @@ Zuletzt geändert durch
 
 (1) Eine Übermittlung von Daten nach
 
-1.  § 10 Absatz 2a, 2b und 4b, den §§ 10a, 22a oder Abschnitt XI des Einkommensteuergesetzes,
+1.  § § 10 Absatz 2a, 2b, 2c und 4b, den § 10a, 22a oder Abschnitt XI des Einkommensteuergesetzes,
 
 
 2.  § 32b Absatz 3 des Einkommensteuergesetzes, soweit auf § 22a des Einkommensteuergesetzes verwiesen wird, § 52 Absatz 30b des Einkommensteuergesetzes oder
@@ -70,7 +73,7 @@ Wird die Mitteilung nach § 11 Abs. 1 und 3 über die zentrale Stelle übermitte
 
 (3) Der codierte Zeichensatz für eine Datenübermittlung nach
 
-1.  § 10 Absatz 2a, 2b und 4b oder § 22a des Einkommensteuergesetzes,
+1.  § 10 Absatz 2a, 2b, 2c und 4b oder § 22a des Einkommensteuergesetzes,
 
 
 2.  § 32b Absatz 3 des Einkommensteuergesetzes, soweit auf § 22a des Einkommensteuergesetzes verwiesen wird, § 52 Absatz 30b des Einkommensteuergesetzes oder
@@ -144,7 +147,7 @@ DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird, sind im Be
 
 (5) Jede Änderung der in den Absätzen 1 bis 3 genannten Daten ist der zentralen Stelle von dem am Verfahren Beteiligten unter Angabe der Kundennummer (Absatz 4) unverzüglich anzuzeigen.
 
-(6) Die Absätze 1 und 3 bis 5 gelten für die mitteilungspflichtigen Stellen im Sinne des § 10 Absatz 2a, 2b und 4b, § 22a Absatz 1 Satz 1 und § 32b Absatz 3 des Einkommensteuergesetzes entsprechend.
+(6) Die Absätze 1 und 3 bis 5 gelten für die mitteilungspflichtigen Stellen im Sinne des § 10 Absatz 2a, 2b, 2c und 4b, § 22a Absatz 1 Satz 1 und § 32b Absatz 3 des Einkommensteuergesetzes entsprechend.
 
 
 ## Abschnitt 2 - Vorschriften zur Altersvorsorge nach § 10a oder Abschnitt XI des Einkommensteuergesetzes

@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 34 Abs. 7 G v. 22.12.2023 I Nr. 411
 
+Änderung durch
+:   Art. 10 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+
 
 ## - - Zu § 2 des Gesetzes
 

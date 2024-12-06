@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 21.10.2024 I Nr. 314
 
+Änderung durch
+:   Art. 50 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Zweck des Wohngeldes und Wohngeldberechtigung
 
@@ -88,7 +91,7 @@ Die Sätze 1 und 2 gelten nicht im Fall des Absatzes 1 Satz 2 Nr. 2.
 
 
 
-Nicht wohngeldberechtigt sind ausländische Personen, die durch eine völkerrechtliche Vereinbarung von der Anwendung deutscher Vorschriften auf dem Gebiet der sozialen Sicherheit befreit sind. In der Regel nicht wohngeldberechtigt sind Ausländer, die im Besitz eines Aufenthaltstitels zur Ausbildungsplatzsuche nach § 17 Absatz 1 des Aufenthaltsgesetzes, zur Arbeitsplatzsuche nach § 20 des Aufenthaltsgesetzes, für ein studienbezogenes Praktikum nach § 16e des Aufenthaltsgesetzes oder zur Teilnahme am europäischen Freiwilligendienst nach § 19e des Aufenthaltsgesetzes sind.
+Nicht wohngeldberechtigt sind ausländische Personen, die durch eine völkerrechtliche Vereinbarung von der Anwendung deutscher Vorschriften auf dem Gebiet der sozialen Sicherheit befreit sind. In der Regel nicht wohngeldberechtigt sind Ausländer, die im Besitz eines Aufenthaltstitels zur Ausbildungsplatzsuche nach § 17 Absatz 1 des Aufenthaltsgesetzes, zur Arbeitsplatzsuche im Anschluss an Aufenthalte im Bundesgebiet nach § 20 des Aufenthaltsgesetzes, aufgrund einer Chancenkarte nach § 20a des Aufenthaltsgesetzes, für ein studienbezogenes Praktikum nach § 16e des Aufenthaltsgesetzes oder zur Teilnahme am europäischen Freiwilligendienst nach § 19e des Aufenthaltsgesetzes sind.
 
 
 ## Teil 2 - Berechnung und Höhe des Wohngeldes

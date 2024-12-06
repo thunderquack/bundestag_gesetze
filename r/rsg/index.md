@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2114
 
+Geändert durch
+:   Art. 49 G v. 2.12.2024 I Nr. 387
+
 Stand: § 22 ist gem. Bek. v. 22.7.2021 I 3141 am 10.7.2021 in Kraft getreten
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -179,6 +182,15 @@ Für die Bemessung der Sicherheitsleistung nach Satz 1 Nummer 1 gilt § 5 Absat
 (3) Bei der Bemessung der Entgelthöhe sind die unterschiedlichen Schadensrisiken der Reiseanbieter angemessen und im Verhältnis zueinander zu berücksichtigen. Wird das Entgelt als bestimmter Prozentsatz vom Umsatz der Reiseanbieter festgelegt, genügt dies in der Regel den Anforderungen des Satzes 1.
 
 (4) Die Art der Bemessung der Entgelthöhe muss für alle Reiseanbieter einheitlich erfolgen.
+
+
+### § 7a Entgelte
+
+(1) Die Entgelte im Sinne des § 7 Absatz 1 und die Gegenleistungen im Sinne des § 16 Absatz 1 Satz 2 Nummer 2 unterliegen beim Reisesicherungsfonds nicht der Körperschaftsteuer oder der Gewerbesteuer.
+
+(2) Aufwendungen des Reisesicherungsfonds dürfen den steuerlichen Gewinn nur mindern, soweit sie in einem unmittelbaren wirtschaftlichen Zusammenhang mit steuerpflichtigen Erträgen stehen.
+
+(3) Gewinne und Verluste aus der Übertragung des Fondsvermögens und des Bestands an Absicherungsverträgen auf einen anderen Rechtsträger im Sinne des § 17 Absatz 3 Satz 2 Nummer 2 bleiben steuerlich außer Ansatz, soweit das übertragene Vermögen anschließend weiterhin dem Geschäft eines Reisesicherungsfonds dient. Satz 1 gilt nicht, soweit das Besteuerungsrecht der Bundesrepublik Deutschland hinsichtlich des Gewinns aus der Veräußerung oder der Nutzung eines Wirtschaftsguts ausgeschlossen oder beschränkt wird.
 
 
 ## Abschnitt 3 - Geschäftsorganisation des Reisesicherungsfonds

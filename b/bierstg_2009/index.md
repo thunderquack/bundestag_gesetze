@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 39 G v. 16.12.2022 I 2294
 
+Änderung durch
+:   Art. 47 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
 

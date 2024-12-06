@@ -21,6 +21,18 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 23.10.2024 I Nr. 323
 
+Änderung durch
+:   Art. 16 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 17 G v. 2.12.2024 I Nr. 387 mWv 1.1.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 18 G v. 2.12.2024 I Nr. 387 mit zukünftiger Wirkung noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 19 G v. 2.12.2024 I Nr. 387 mit zukünftiger Wirkung noch nicht berücksichtigt
+
 
 ## Erster Teil - Einleitende Vorschriften
 

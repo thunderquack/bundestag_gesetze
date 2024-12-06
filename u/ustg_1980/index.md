@@ -21,6 +21,21 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 G v. 23.10.2024 I Nr. 323
 
+Änderung durch
+:   Art. 24 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 25 G v. 2.12.2024 I Nr. 387 mWv 1.1.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 26 G v. 2.12.2024 I Nr. 387 mWv 1.1.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 27 G v. 2.12.2024 I Nr. 387 mWv 1.1.2028 noch nicht berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 52 G v. 2.12.2024 I Nr. 387 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Steuergegenstand und Geltungsbereich
 

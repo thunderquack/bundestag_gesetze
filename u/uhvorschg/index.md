@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 17.7.2007 I 1446;
 
 Zuletzt geändert durch
-:   Art. 11 G v. 23.10.2024 I Nr. 323
+:   Art. 44 G v. 2.12.2024 I Nr. 387
 
 
 ## § 1 Berechtigte
@@ -68,10 +68,10 @@ Für die Feststellung der Vermeidung der Hilfebedürftigkeit und der Höhe des E
 
 2.  eine Blaue Karte EU, eine ICT-Karte, eine Mobiler-ICT-Karte oder eine Aufenthaltserlaubnis besitzt, die für einen Zeitraum von mindestens sechs Monaten zur Ausübung einer Erwerbstätigkeit berechtigen oder berechtigt haben oder diese erlauben, es sei denn, die Aufenthaltserlaubnis wurde
 
-    a)  nach § 16e des Aufenthaltsgesetzes zu Ausbildungszwecken, nach § 19c Absatz 1 des Aufenthaltsgesetzes zum Zweck der Beschäftigung als Au-Pair oder zum Zweck der Saisonbeschäftigung, nach § 19e des Aufenthaltsgesetzes zum Zweck der Teilnahme an einem Europäischen Freiwilligendienst oder nach § 20 Absatz 1 und 2 des Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt,
+    a)  nach § 16e des Aufenthaltsgesetzes zu Ausbildungszwecken, nach § 19c Absatz 1 des Aufenthaltsgesetzes zum Zweck der Beschäftigung als Au-Pair oder zum Zweck der Saisonbeschäftigung, nach § 19e des Aufenthaltsgesetzes zum Zweck der Teilnahme an einem Europäischen Freiwilligendienst oder nach § 20a Absatz 5 Satz 1 des Aufenthaltsgesetzes zur Suche nach einer Erwerbstätigkeit oder nach Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen erteilt,
 
 
-    b)  nach § 16b des Aufenthaltsgesetzes zum Zweck eines Studiums, nach § 16d des Aufenthaltsgesetzes für Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen oder nach § 20 Absatz 3 des Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt und er ist weder erwerbstätig noch nimmt er Elternzeit nach § 15 des Bundeselterngeld- und Elternzeitgesetzes oder laufende Geldleistungen nach dem Dritten Buch Sozialgesetzbuch in Anspruch,
+    b)  nach § 16b des Aufenthaltsgesetzes zum Zweck eines Studiums, nach § 16d des Aufenthaltsgesetzes für Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen, nach § 20 des Aufenthaltsgesetzes zur Suche nach einer Erwerbstätigkeit oder nach § 20a Absatz 5 Satz 2 des Aufenthaltsgesetzes zur Suche nach einer Erwerbstätigkeit oder nach Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen erteilt und er ist weder erwerbstätig noch nimmt er Elternzeit nach § 15 des Bundeselterngeld- und Elternzeitgesetzes oder laufende Geldleistungen nach dem Dritten Buch Sozialgesetzbuch in Anspruch,
 
 
     c)  nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Heimatland oder nach den § 23a oder § 25 Absatz 3 bis 5 des Aufenthaltsgesetzes erteilt,
@@ -220,7 +220,7 @@ Solange der Elternteil, bei dem der Berechtigte nicht lebt, Leistungen nach dem 
 
 (1) § 1 Abs. 2a in der am 19. Dezember 2006 geltenden Fassung ist in Fällen, in denen die Entscheidung über den Anspruch auf Unterhaltsvorschuss für Monate in dem Zeitraum zwischen dem 1. Januar 1994 und dem 18. Dezember 2006 noch nicht bestandskräftig geworden ist, anzuwenden, wenn dies für den Antragsteller günstiger ist. In diesem Fall werden die Aufenthaltsgenehmigungen nach dem Ausländergesetz den Aufenthaltstiteln nach dem Aufenthaltsgesetz entsprechend den Fortgeltungsregelungen in § 101 des Aufenthaltsgesetzes gleichgestellt.
 
-(2) § 1 Absatz 2a Satz 1 Nummer 1 bis 4 in der Fassung des Artikels 38 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 29. Februar 2020 beginnen. § 1 Absatz 2a Satz 1 Nummer 5 in der Fassung des Artikels 38 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Dezember 2019 beginnen. § 1 Absatz 2a Satz 1 Nummer 2 Buchstabe c in der Fassung des Artikels 13 Nummer 1 des Gesetzes vom 23. Mai 2022 (BGBl. I S. 760) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Mai 2022 beginnen.
+(2) § 1 Absatz 2a Satz 1 Nummer 1 bis 4 in der Fassung des Artikels 38 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 29. Februar 2020 beginnen. § 1 Absatz 2a Satz 1 Nummer 5 in der Fassung des Artikels 38 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Dezember 2019 beginnen. § 1 Absatz 2a Satz 1 Nummer 2 Buchstabe c in der Fassung des Artikels 13 Nummer 1 des Gesetzes vom 23. Mai 2022 (BGBl. I S. 760) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Mai 2022 beginnen. § 1 Absatz 2a Satz 1 Nummer 2 Buchstabe a und b in der Fassung des Artikels 44 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Mai 2024 beginnen.
 
 
 ## § 11a Anwendungsvorschrift

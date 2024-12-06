@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 30 G v. 22.12.2023 I Nr. 411
 
+Änderung durch
+:   Art. 33 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Gegenstand der Steuer
 

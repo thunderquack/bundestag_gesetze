@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 28 G v. 27.3.2024 I Nr. 108
 
+Änderung durch
+:   Art. 34 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Steuerpflicht
 

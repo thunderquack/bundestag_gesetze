@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 27.3.2024 I Nr. 108
 
+Änderung durch
+:   Art. 12 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 13 G v. 2.12.2024 I Nr. 387 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## Erster Teil - Allgemeine Vorschriften
 

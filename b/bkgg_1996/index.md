@@ -16,10 +16,13 @@ Fundstelle
 :   BGBl I: 1995, 1250, 1378 (1996 I 714)
 
 Neugefasst durch
-:   Bek. v. 28.1.2009 I 142, 3177
+:   Bek. v. 28.1.2009 I 142, 3177;
 
 Zuletzt geändert durch
 :   Art. 10 G v. 16.12.2022 I 2328
+
+Änderung durch
+:   Art. 42 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Leistungen
@@ -66,10 +69,10 @@ Zuletzt geändert durch
 
 2.  eine Blaue Karte EU, eine ICT-Karte, eine Mobiler-ICT-Karte oder eine Aufenthaltserlaubnis besitzt, die für einen Zeitraum von mindestens sechs Monaten zur Ausübung einer Erwerbstätigkeit berechtigen oder berechtigt haben oder diese erlauben, es sei denn, die Aufenthaltserlaubnis wurde
 
-    a)  nach § 16e des Aufenthaltsgesetzes zu Ausbildungszwecken, nach § 19c Absatz 1 des Aufenthaltsgesetzes zum Zweck der Beschäftigung als Au-Pair oder zum Zweck der Saisonbeschäftigung, nach § 19e des Aufenthaltsgesetzes zum Zweck der Teilnahme an einem Europäischen Freiwilligendienst oder nach § 20 Absatz 1 und 2 des Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt,
+    a)  nach § 16e des Aufenthaltsgesetzes zu Ausbildungszwecken, nach § 19c Absatz 1 des Aufenthaltsgesetzes zum Zweck der Beschäftigung als Au-Pair oder zum Zweck der Saisonbeschäftigung, nach § 19e des Aufenthaltsgesetzes zum Zweck der Teilnahme an einem Europäischen Freiwilligendienst oder nach § 20a Absatz 5 Satz 1 des Aufenthaltsgesetzes zur Suche nach einer Erwerbstätigkeit oder nach Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen erteilt,
 
 
-    b)  nach § 16b des Aufenthaltsgesetzes zum Zweck eines Studiums, nach § 16d des Aufenthaltsgesetzes für Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen oder nach § 20 Absatz 3 des Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt und er ist weder erwerbstätig noch nimmt er Elternzeit nach § 15 des Bundeselterngeld- und Elternzeitgesetzes oder laufende Geldleistungen nach dem Dritten Buch Sozialgesetzbuch in Anspruch,
+    b)  nach § 16b des Aufenthaltsgesetzes zum Zweck eines Studiums, nach § 16d des Aufenthaltsgesetzes für Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen, nach § 20 des Aufenthaltsgesetzes zur Suche nach einer Erwerbstätigkeit oder nach § 20a Absatz 5 Satz 2 des Aufenthaltsgesetzes zur Suche nach einer Erwerbstätigkeit oder nach Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen erteilt und er ist weder erwerbstätig noch nimmt er Elternzeit nach § 15 des Bundeselterngeld- und Elternzeitgesetzes oder laufende Geldleistungen nach dem Dritten Buch Sozialgesetzbuch in Anspruch,
 
 
     c)  nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in seinem Heimatland oder nach den § 23a oder § 25 Absatz 3 bis 5 des Aufenthaltsgesetzes erteilt,
@@ -324,7 +327,9 @@ Eines gesonderten Antrags bedarf es in den Fällen des Satzes 1 Nummer 1 nicht. 
 
 ### § 7a Datenübermittlung
 
-Die Träger der Leistungen nach § 6b und die Träger der Grundsicherung für Arbeitsuchende teilen sich alle Tatsachen mit, die für die Erbringung und Abrechnung der Leistungen nach § 6b dieses Gesetzes und § 28 des Zweiten Buches Sozialgesetzbuch erforderlich sind.
+(1) Die Träger der Leistungen nach § 6b und die Träger der Grundsicherung für Arbeitsuchende teilen sich alle Tatsachen mit, die für die Erbringung und Abrechnung der Leistungen nach § 6b dieses Gesetzes und § 28 des Zweiten Buches Sozialgesetzbuch erforderlich sind.
+
+(2) Die zuständige Familienkasse übermittelt dem Bundeszentralamt für Steuern unter den Vorgaben des § 139b Absatz 10 Satz 2 und 3 der Abgabenordnung die internationale Bankkontonummer (IBAN), bei ausländischen Kreditinstituten auch den internationalen Banken-Identifizierungsschlüssel (BIC), des Kontos, auf welches das Kindergeld zuletzt ausgezahlt worden ist. Ist in den Fällen des Satzes 1 der Familienkasse die Identifikationsnummer nicht bekannt, darf sie diese Identifikationsnummer unter Angabe der in § 139b Absatz 3 der Abgabenordnung genannten Daten beim Bundeszentralamt für Steuern abfragen.
 
 
 ### § 7b Automatisiertes Abrufverfahren
@@ -495,7 +500,7 @@ Soweit dieses Gesetz keine ausdrückliche Regelung trifft, ist bei der Ausführu
 
 (12) § 6 Absatz 3 in der am 1. Januar 2018 geltenden Fassung ist auf Anträge anzuwenden, die nach dem 31. Dezember 2017 eingehen.
 
-(13) § 1 Absatz 3 Satz 1 Nummer 1 bis 4 in der Fassung des Artikels 34 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem letzten Tag des sechsten auf die Verkündung des Fachkräfteeinwanderungsgesetzes folgenden Kalendermonats beginnen. § 1 Absatz 3 Satz 1 Nummer 5 in der Fassung des Artikels 34 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Dezember 2019 beginnen. § 1 Absatz 3 Nummer 2 Buchstabe c in der Fassung des Artikels 5 Nummer 1 des Gesetzes vom 23. Mai 2022 (BGBl. I S. 760) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Mai 2022 beginnen.
+(13) § 1 Absatz 3 Satz 1 Nummer 1 bis 4 in der Fassung des Artikels 34 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem letzten Tag des sechsten auf die Verkündung des Fachkräfteeinwanderungsgesetzes folgenden Kalendermonats beginnen. § 1 Absatz 3 Satz 1 Nummer 5 in der Fassung des Artikels 34 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Dezember 2019 beginnen. § 1 Absatz 3 Nummer 2 Buchstabe c in der Fassung des Artikels 5 Nummer 1 des Gesetzes vom 23. Mai 2022 (BGBl. I S. 760) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Mai 2022 beginnen. § 1 Absatz 3 Satz 1 Nummer 2 in der Fassung des Artikels 42 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Mai 2024 beginnen.
 
 
 ### § 21 Sondervorschrift zur Steuerfreistellung des Existenzminimums eines Kindes in den Veranlagungszeiträumen 1983 bis 1995 durch Kindergeld

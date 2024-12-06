@@ -19,7 +19,7 @@ Neugefasst durch
 :   durch Bek. v. 15.10.2002 I 4130;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 8.12.2022 I 2230
+:   Art. 2 G v. 2.12.2024 I Nr. 386
 
 
 ## § 1 Erhebung eines Solidaritätszuschlags
@@ -218,4 +218,6 @@ Werden auf Grund eines Abkommens zur Vermeidung der Doppelbesteuerung im Geltung
 (23) § 3 Absatz 2a in der am 1. Januar 2023 geltenden Fassung ist erstmals auf den laufenden Arbeitslohn anzuwenden, der für einen nach dem 31. Dezember 2022 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach dem 31. Dezember 2022 zufließen. § 3 Absatz 3 in der Fassung des Artikels 4 des Gesetzes vom 8. Dezember 2022 (BGBl. I S. 2230) ist erstmals im Veranlagungszeitraum 2023 anzuwenden. § 3 Absatz 4 und 4a in der Fassung des Artikels 4 des Gesetzes vom 8. Dezember 2022 (BGBl. I S. 2230) ist erstmals auf den laufenden Arbeitslohn anzuwenden, der für einen nach dem 31. Dezember 2022 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach dem 31. Dezember 2022 zufließen. § 3 Absatz 5 in der Fassung des Artikels 4 des Gesetzes vom 8. Dezember 2022 (BGBl. I S. 2230) ist beim Lohnsteuer-Jahresausgleich durch den Arbeitgeber (§ 42b des Einkommensteuergesetzes) erstmals für das Ausgleichsjahr 2023 anzuwenden.
 
 (24) § 3 Absatz 3 in der Fassung des Artikels 5 des Gesetzes vom 8. Dezember 2022 (BGBl. I S. 2230) ist erstmals im Veranlagungszeitraum 2024 anzuwenden. § 3 Absatz 4 und 4a in der Fassung des Artikels 5 des Gesetzes vom 8. Dezember 2022 (BGBl. I S. 2230) ist erstmals auf den laufenden Arbeitslohn anzuwenden, der für einen nach dem 31. Dezember 2023 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach dem 31. Dezember 2023 zufließen. § 3 Absatz 5 in der Fassung des Artikels 5 des Gesetzes vom 8. Dezember 2022 (BGBl. I S. 2230) ist beim Lohnsteuer-Jahresausgleich durch den Arbeitgeber (§ 42b des Einkommensteuergesetzes) erstmals für das Ausgleichsjahr 2024 anzuwenden.
+
+(25) § 3 Absatz 2a Satz 1 in Verbindung mit § 32 Absatz 6 Satz 1 des Einkommensteuergesetzes in der am 6. Dezember 2024 geltenden Fassung ist erstmals anzuwenden auf laufenden Arbeitslohn, der für einen nach dem 30. November 2024 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach dem 30. November 2024 zufließen. Bei der Lohnsteuerberechnung auf laufenden Arbeitslohn, der für einen nach dem 30. November 2024 aber vor dem 1. Januar 2025 endenden täglichen, wöchentlichen und monatlichen Lohnzahlungszeitraum gezahlt wird, ist zu berücksichtigen, dass § 3 Absatz 2a Satz 1 in Verbindung mit § 32 Absatz 6 Satz 1 des Einkommensteuergesetzes in der am 6. Dezember 2024 geltenden Fassung bis zum 30. November 2024 nicht angewandt wurde (Nachholung). Das Bundesministerium der Finanzen hat dies im Einvernehmen mit den obersten Finanzbehörden der Länder bei der Aufstellung und Bekanntmachung der entsprechenden Programmablaufpläne zu berücksichtigen (§ 52 Absatz 32a Satz 3 des Einkommensteuergesetzes).
 

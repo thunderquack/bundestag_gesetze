@@ -585,15 +585,6 @@ dafür nicht ausreicht.
 (3) (weggefallen)
 
 
-### § 5 Sicherheitsdatenblatt und sonstige Informationspflichten
-
-(1) Die vom Lieferanten hinsichtlich des Sicherheitsdatenblatts beim Inverkehrbringen von Stoffen und Gemischen zu beachtenden Anforderungen ergeben sich aus Artikel 31 in Verbindung mit Anhang II der Verordnung (EG) Nr. 1907/2006. Ist nach diesen Vorschriften die Übermittlung eines Sicherheitsdatenblatts nicht erforderlich, richten sich die Informationspflichten nach Artikel 32 der Verordnung (EG) Nr. 1907/2006.
-
-(2) Bei den Angaben, die nach den Nummern 15 und 16 des Anhangs II der Verordnung (EG) Nr. 1907/2006 zu machen sind, sind insbesondere die nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse zu berücksichtigen, nach denen Stoffe oder Tätigkeiten als krebserzeugend, keimzellmutagen oder reproduktionstoxisch bezeichnet werden.
-
-(3) (weggefallen)
-
-
 ### § 5a Besondere Mitwirkungs- und Informationspflichten für Veranlasser von Tätigkeiten an baulichen oder technischen Anlagen
 
 (1) Derjenige, der Tätigkeiten an baulichen oder technischen Anlagen veranlasst (Veranlasser), hat vor Beginn der Tätigkeiten dem ausführenden Unternehmen alle ihm vorliegenden Informationen zur Bau- oder Nutzungsgeschichte über vorhandene oder vermutete Gefahrstoffe schriftlich oder elektronisch zur Verfügung zu stellen. Der Veranlasser hat sich zur Informationsbeschaffung in zumutbarem Aufwand der ihm zugänglichen Unterlagen zu bedienen. Gefahrstoffe im Sinne von Satz 1 sind solche, die durch die Tätigkeiten freigesetzt werden und zu einer besonderen Gesundheitsgefährdung führen können.

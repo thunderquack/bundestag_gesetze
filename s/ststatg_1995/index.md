@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 33 G v. 16.12.2022 I 2294
 
+Änderung durch
+:   Art. 45 G v. 2.12.2024 I Nr. 387 mWv 1.1.2020 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 46 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+
 
 ## § 1 Anordnung als Bundesstatistik
 
