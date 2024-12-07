@@ -19,6 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 37 V v. 18.1.2022 I 39
 
+V aufgeh. durch
+:   § 15 Satz 2 V 7110-3-218 v. 2.12.2024 I Nr. 390 mWv 1.7.2025
+
+Ersetzt durch
+:   V 7110-3-218 v. 2.12.2024 I Nr. 390 (MetallbMstrV 2025)
+
 
 
 ## Eingangsformel

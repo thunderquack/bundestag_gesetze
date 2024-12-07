@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 3423
 
+Änderung durch
+:   Art. 1 V v. 4.12.2024 I Nr. 397 mWv 10.12.2024 I Nr. 397 noch nicht berücksichtigt
+
 Stand: Ersetzt V 791-8-3 v, 15.9.2005 I 2782 (NatSGÖDeuBuchtV)
 [^F800312_01_BJNR342300017]:     Diese Verordnung dient der Umsetzung der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie 2013/17/EU (ABl. L 158 vom 10.6.2013, S. 193) geändert worden ist, der Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über die Erhaltung der wildlebenden Vogelarten (ABl. L 20 vom 26.1.2010, S. 7), die durch die Richtlinie 2013/17/EU (ABl. L 158 vom 10.6.2013, S. 193) geändert worden ist.
 

@@ -19,6 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 32 V v. 18.1.2022 I 39
 
+V aufgeh. durch
+:   § 14 Satz 2 V 7110-3-219 v. 2.12.2024 I Nr. 391 mWv 1.7.2025
+
+Ersetzt durch
+:   V 7110-3-219 v. 2.12.2024 I Nr. 391 (FeinwerkMechMstrV 2025)
+
 
 
 ## Eingangsformel

@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 9 Abs. 3 G v. 9.12.2020 I 2773
 
+Änderung durch
+:   Art. 1 V v. 3.12.2024 I Nr. 392 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F810214_01_BJNR064400020]:     Mit dieser Verordnung werden die notwendigen Vorgaben zur Sanierungsplanung von weniger bedeutenden Instituten sowie von institutsbezogenen Sicherungssystemen geschaffen. Diese Verordnung dient darüber hinaus der Umsetzung der Vorgaben der Leitlinien der Europäischen Bankenaufsichtsbehörde EBA/GL/2014/06 vom 18.7.2014 über die bei Sanierungsplänen zugrunde zu legende Bandbreite an Szenarien sowie der Vorgaben der Leitlinien der Europäischen Bankenaufsichtsbehörde EBA/GL/2015/02 vom 23.7.2015 zur Mindestliste der qualitativen und quantitativen Indikatoren des Sanierungsplans.
 
 
@@ -79,7 +82,7 @@ Bei der strategischen Analyse des Instituts oder der Gruppe nach § 13 Absatz 2 
 
 ### § 6 Interner Prozess
 
-(1) Die in § 13 Absatz 2 Nummer 6 des Sanierungs- und Abwicklungsgesetzes und in Artikel 5 Absatz 3 Buchstabe a der Delegierten Verordnung (EU) 2016/1075 genannten Prozesse haben vorzusehen, dass die Geschäftsleitung bei Erreichen des Schwellenwerts eines Indikators entscheidet, ob Handlungsoptionen ergriffen werden. Der Sanierungsplan hat in diesem Zusammenhang vorzusehen, dass die von der Geschäftsleitung getroffene Entscheidung zu dokumentieren ist. Er hat des Weiteren vorzusehen, dass die Aufsichtsbehörde unverzüglich und umfassend über das Erreichen des Schwellenwerts des Indikators und über die von der Geschäftsleitung getroffene Entscheidung informiert wird.
+(1) Die in § 13 Absatz 2 Nummer 6 des Sanierungs- und Abwicklungsgesetzes und in Artikel 5 Absatz 3 Buchstabe a der Delegierten Verordnung (EU) 2016/1075 genannten Prozesse haben vorzusehen, dass die Geschäftsleitung unverzüglich, spätestens jedoch innerhalb eines Bankarbeitstages nach Erreichen des Schwellenwerts eines Indikators über diesen Umstand informiert wird und unverzüglich entscheidet, ob Handlungsoptionen ergriffen werden. Der Sanierungsplan hat in diesem Zusammenhang vorzusehen, dass die von der Geschäftsleitung getroffene Entscheidung zu dokumentieren ist. Er hat des Weiteren vorzusehen, dass die Aufsichtsbehörde unverzüglich, spätestens jedoch am nächsten Bankarbeitstag nach Information der Geschäftsleitung nach Absatz 1 Satz 1 über das Erreichen des Schwellenwerts des Indikators und unverzüglich über die von der Geschäftsleitung getroffene Entscheidung jeweils umfassend informiert wird.
 
 (2) Es ist zu beschreiben, wie sichergestellt wird, dass die für die Umsetzung von Handlungsoptionen erforderlichen Informationen aus dem Berichtssystem richtig, vollständig und aktuell sind.
 
@@ -116,11 +119,11 @@ Weitere Kategorien sind durch
 
 abzudecken, es sei denn, das Institut kann im Sanierungsplan nachvollziehbar begründen, dass die entsprechende Kategorie aufgrund seiner Rechtsform, seines Risikoprofils, seiner Größe oder seiner Komplexität nicht relevant ist.
 
-(4) Die Indikatoren sind so zu wählen, dass das Geschäftsmodell und die Geschäftsstrategie, das Risikoprofil, die Größe und die Komplexität des Instituts angemessen abgebildet und für die Sanierungsplanung relevante Steuerungsgrößen der internen Risikosteuerung angemessen berücksichtigt sind. Die Indikatoren müssen instituts- und gruppenspezifische Risiken angemessen abbilden. Die Anzahl, die Art und die Höhe der Schwellenwerte der Indikatoren müssen angemessen sein, um rechtzeitig auf sich verschlechternde Bedingungen in allen für das Institut relevanten Bereichen hinzuweisen. Bei der Auswahl der Indikatoren sind auch zukunftsorientierte Indikatoren zu verwenden.
+(4) Die Indikatoren sind so zu wählen, dass das Geschäftsmodell und die Geschäftsstrategie, das Risikoprofil, die Rechtsform, die Größe und die Komplexität des Instituts angemessen abgebildet und für die Sanierungsplanung relevante Steuerungsgrößen der internen Risikosteuerung angemessen berücksichtigt sind. Die Indikatoren müssen instituts- und gruppenspezifische Risiken angemessen abbilden. Die Anzahl, die Art und die Höhe der Schwellenwerte der Indikatoren müssen angemessen sein, um rechtzeitig auf sich verschlechternde Bedingungen in allen für das Institut relevanten Bereichen hinzuweisen. Bei der Auswahl der Indikatoren sind auch zukunftsorientierte Indikatoren zu verwenden.
 
 (5) Aus den in Absatz 3 genannten Kategorien sind mindestens die in Anlage 1 aufgelisteten Indikatoren in den Sanierungsplan aufzunehmen. Die Institute können darüber hinaus die in Anlage 2 genannten zusätzlichen Indikatoren verwenden.
 
-(6) Sofern das Institut im Sanierungsplan nachvollziehbar begründet, dass einzelne der in Anlage 1 aufgelisteten Indikatoren aufgrund seiner Rechtsform, seines Risikoprofils, seiner Größe oder seiner Komplexität nicht relevant sind, kann das Institut auf die Aufnahme des entsprechenden Indikators in den Sanierungsplan verzichten. Das Institut muss sicherstellen, dass für die Kategorien Kapital, Liquidität, Rentabilität und Qualität der Vermögenswerte mindestens ein Indikator je Kategorie im Sanierungsplan enthalten ist. Weitere Vorgaben zu den einzelnen Kategorien richten sich nach § 8.
+(6) Sofern das Institut im Sanierungsplan nachvollziehbar begründet, dass einzelne der in Anlage 1 aufgelisteten Indikatoren aufgrund seines Risikoprofils, seiner Rechtsform, seiner Größe oder seiner Komplexität nicht relevant sind oder aufgrund der besonderen Eigenschaften des Marktes, in dem das Institut tätig ist, nicht angewendet werden können, kann das Institut auf die Aufnahme des entsprechenden Indikators in den Sanierungsplan verzichten. In diesem Fall hat das Institut ersatzweise einen anderen, für das Institut relevanteren Indikator derselben Kategorie in den Sanierungsplan aufzunehmen. Ist nicht für jeden der in Anlage 1 enthaltenen Indikatoren ein Ersatz möglich, so muss das Institut sicherstellen, dass für die in Absatz 3 Satz 1 genannten Kategorien mindestens ein Indikator je Kategorie im Sanierungsplan enthalten ist. Weitere Vorgaben zu den einzelnen Kategorien richten sich nach § 8.
 
 (7) Indikatoren sind grundsätzlich einzeln zu betrachten. Ist die Einzelbetrachtung eines Indikators nicht geeignet, einen Krisenfall im Sinne des § 12 Absatz 1 Satz 2 des Sanierungs- und Abwicklungsgesetzes anzuzeigen, sind Indikatoren zu kombinieren, sofern und soweit die Aufsichtsbehörde nicht etwas anderes bestimmt. Dies gilt nicht für die verpflichtenden Indikatoren aus den Kategorien Kapital und Liquidität nach Anlage 1. Werden Indikatoren kombiniert, so hat das Institut diese Kombination im Sanierungsplan detailliert zu beschreiben und nachvollziehbar darzulegen, warum eine Einzelbetrachtung nicht geeignet und die gewählte Kombination angemessen ist.
 
@@ -133,25 +136,26 @@ abzudecken, es sei denn, das Institut kann im Sanierungsplan nachvollziehbar beg
 
 ### § 8 Kategorien von Indikatoren
 
-(1) Kapitalindikatoren haben jede eingetretene und jede drohende Verschlechterung des Eigenkapitals in quantitativer und qualitativer Hinsicht einschließlich eines Anstiegs der Verschuldungsquote aufzuzeigen. Die Schwellenwerte sind so festzusetzen, dass ein angemessener Abstand besteht zu den für das Institut geltenden Eigenkapitalanforderungen gemäß Artikel 92 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013, S. 1; L 208 vom 2.8.2013, S. 68; L 321 vom 30.11.2013, S. 6;
-L 193 vom              21.7.2015, S. 166; L 20 vom 25.1.2017, S. 3), die zuletzt durch die Verordnung (EU) 2019/876 (ABl. L 150 vom 7.6.2019, S. 1) geändert worden ist, einschließlich zusätzlicher Eigenmittelanforderungen gemäß § 10 Absatz 3 oder Absatz 4 des Kreditwesengesetzes oder gemäß Artikel 16 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 1024/2013 des Rates vom 15. Oktober 2013 zur Übertragung besonderer Aufgaben im Zusammenhang mit der Aufsicht über Kreditinstitute auf die Europäische Zentralbank (ABl. L 287 vom 29.10.2013, S. 63; L 218 vom 19.8.2015, S. 82).
+(1) Kapitalindikatoren nach Nummer 1 Buchstabe a bis c der Anlage 1 haben jede eingetretene und jede drohende Verschlechterung der Eigenmittel in quantitativer und qualitativer Hinsicht einschließlich eines Anstiegs der Verschuldungsquote aufzuzeigen. Die Schwellenwerte der Kapitalindikatoren sind so festzusetzen, dass ein angemessener Abstand besteht zu den für das Institut geltenden Eigenmittelanforderungen nach Artikel 92 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013, S. 1; L 208 vom 2.8.2013, S. 68; L 321 vom 30.11.2013, S. 6; L 193 vom 21.7.2015, S. 166; L 20 vom 25.1.2017, S. 3; L 92 vom 30.3.2023, S. 29), die zuletzt durch die Verordnung (EU) 2023/2869 (ABl. L, 2023/2869, 20.12.2023) geändert worden ist, zuzüglich zusätzlicher Eigenmittelanforderungen nach § 10 Absatz 3, Absatz 4 oder § 6c Absatz 1 des Kreditwesengesetzes oder nach Artikel 16 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 1024/2013 des Rates vom 15. Oktober 2013 zur Übertragung besonderer Aufgaben im Zusammenhang mit der Aufsicht über Kreditinstitute auf die Europäische Zentralbank (ABl. L 287 vom 29.10.2013, S. 63; L 218 vom 19.8.2015, S. 82) und zuzüglich der kombinierten Kapitalpufferanforderung nach § 10i des Kreditwesengesetzes. Eine Ausnahme von der Verpflichtung zur Festsetzung der Schwellenwerte der Kapitalindikatoren oberhalb der kombinierten Kapitalpufferanforderung nach § 10i des Kreditwesengesetzes besteht, wenn das Institut im Sanierungsplan nachvollziehbar begründet, dass Handlungsoptionen auch nach Verletzung der kombinierten Kapitalpufferanforderung nach § 10i des Kreditwesengesetzes wirksam umgesetzt werden können.
 
-(2) Liquiditätsindikatoren sind so zu wählen, dass sie tatsächliche oder mögliche Verschlechterungen der Fähigkeit des Instituts aufzeigen, seinen aktuellen und künftigen sowie seinen kurz- und langfristigen Liquiditäts- und Refinanzierungsbedarf zu decken. Die Schwellenwerte der Indikatoren haben einen angemessenen Abstand einzuhalten zu den für das Institut geltenden Mindestliquiditätsanforderungen, insbesondere gemäß § 11 Absatz 1 Satz 1 des Kreditwesengesetzes sowie gemäß Artikel 412 der Verordnung (EU) Nr. 575/2013, einschließlich zusätzlicher Liquiditätsanforderungen gemäß § 11 Absatz 3 des Kreditwesengesetzes oder gemäß Artikel 16 Absatz 2 Buchstabe k der Verordnung (EU) Nr. 1024/2013.
+(2) Kapitalindikatoren nach Nummer 1 Buchstabe d der Anlage 1 haben eingetretene und drohende Verschlechterungen der Eigenmittel und der berücksichtigungsfähigen Verbindlichkeiten aufzuzeigen, welche die Institute aufgrund der Mindestanforderung nach den §§ 49 bis 51 des Sanierungs- und Abwicklungsgesetzes oder nach Artikel 12 bis 12i der Verordnung (EU) Nr. 806/2014 des Europäischen Parlaments und des Rates vom 15. Juli 2014 zur Festlegung einheitlicher Vorschriften und eines einheitlichen Verfahrens für die Abwicklung von Kreditinstituten und bestimmten Wertpapierfirmen im Rahmen eines einheitlichen Abwicklungsmechanismus und eines einheitlichen Abwicklungsfonds sowie zur Änderung der Verordnung (EU) Nr. 1093/2010 (ABl. L 225 vom 30.7.2014, S. 1; L 101 vom 18.4.2015, S. 62), die zuletzt durch die Verordnung (EU) 2021/23 (ABl. L 22 vom 22.1.2021, S. 1) geändert worden ist, vorzuhalten haben. Diese Indikatoren sind nur von denjenigen Instituten in den Sanierungsplan aufzunehmen, deren Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten ihre Eigenmittelanforderungen übersteigt. Die Schwellenwerte für die Indikatoren bezüglich der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten sind oberhalb des Betrages festzusetzen, der eine Untersagung von Ausschüttungen nach § 58a des Sanierungs- und Abwicklungsgesetzes durch die Abwicklungsbehörde ermöglichen oder ein Ausschüttungsverbot nach § 10i Absatz 3 des Kreditwesengesetzes begründen würde, es sei denn, das Institut begründet im Sanierungsplan nachvollziehbar, dass Handlungsoptionen auch nach Verletzung der kombinierten Kapitalpufferanforderung nach § 10i Kreditwesengesetz wirksam umgesetzt werden können.
 
-(3) Rentabilitätsindikatoren haben wesentliche tatsächliche oder mögliche Veränderungen der Ertragslage aufzuzeigen, die zu einer schnellen Verschlechterung der Finanzlage des Instituts führen können. Dabei sind auch operationelle Risiken zu berücksichtigen, welche einen signifikanten Einfluss auf die Ertragslage haben könnten.
+(3) Liquiditätsindikatoren sind so zu wählen, dass sie tatsächliche oder mögliche Verschlechterungen der Fähigkeit des Instituts aufzeigen, seinen aktuellen und künftigen sowie seinen kurz- und langfristigen Liquiditäts- und Refinanzierungsbedarf zu decken. Die Schwellenwerte der Indikatoren haben einen angemessenen Abstand einzuhalten zu den für das Institut geltenden Mindestliquiditätsanforderungen, insbesondere gemäß Artikel 412 und 413 der Verordnung (EU) Nr. 575/2013, einschließlich zusätzlicher Liquiditätsanforderungen gemäß § 11 Absatz 3 des Kreditwesengesetzes oder gemäß Artikel 16 Absatz 2 Buchstabe k der Verordnung (EU) Nr. 1024/2013.
 
-(4) Indikatoren bezüglich der Qualität der Vermögensgegenwerte haben in der Regel sowohl den aktuellen Wert als auch die Entwicklung der Qualität der Vermögenswerte des Instituts zu messen und zu überwachen. Dabei sind außerbilanzielle Positionen zu berücksichtigen.
+(4) Rentabilitätsindikatoren haben wesentliche tatsächliche oder mögliche Veränderungen der Ertragslage aufzuzeigen, die zu einer schnellen Verschlechterung der Finanzlage des Instituts führen können. Dabei sind auch operationelle Risiken zu berücksichtigen, welche einen signifikanten Einfluss auf die Ertragslage haben könnten.
 
-(5) Marktbasierte Indikatoren haben die Erwartungen der Marktteilnehmer bezüglich einer möglichen plötzlichen Verschlechterung der finanziellen Situation des Instituts oder der Gruppe, die zu einem erschwerten Zugang zum Kapitalmarkt und zu Refinanzierungsmöglichkeiten führen kann, zu erfassen.
+(5) Indikatoren bezüglich der Qualität der Vermögenswerte haben in der Regel sowohl den aktuellen Wert als auch die Entwicklung der Qualität der Vermögenswerte des Instituts zu messen und zu überwachen. Dabei sind außerbilanzielle Positionen zu berücksichtigen.
 
-(6) Makroökonomische Indikatoren haben mögliche Verschlechterungen der wirtschaftlichen Bedingungen in den für das Institut relevanten Märkten zu erfassen.
+(6) Marktbasierte Indikatoren haben die Erwartungen der Marktteilnehmer bezüglich einer möglichen plötzlichen Verschlechterung der finanziellen Situation des Instituts oder der Gruppe, die zu einem erschwerten Zugang zum Kapitalmarkt und zu Refinanzierungsmöglichkeiten führen kann, zu erfassen.
+
+(7) Makroökonomische Indikatoren haben mögliche Verschlechterungen der wirtschaftlichen Bedingungen in den für das Institut relevanten Märkten zu erfassen.
 
 
 ### § 9 Belastungsanalyse
 
 (1) Wie in Artikel 12 Absatz 2 Buchstabe d der Delegierten Verordnung (EU) 2016/1075 beschrieben, ist die Wirksamkeit der Handlungsoptionen und die Zweckmäßigkeit der Indikatoren in einer Reihe von Belastungsszenarien zu bewerten.
 
-(2) Die Anzahl der Belastungsszenarien hängt von der Größe, Komplexität und Vernetzung des Instituts oder der Gruppe sowie von Art, Umfang und Komplexität des Geschäftsmodells und des damit einhergehenden Risikos ab. Das Institut hat für die Belastungsanalyse mindestens vier verschiedene Belastungsszenarien zu entwickeln.
+(2) Die Anzahl der Belastungsszenarien hängt von der Größe, Komplexität und Vernetzung des Instituts oder der Gruppe sowie von Art, Umfang und Komplexität des Geschäftsmodells und des damit einhergehenden Risikos ab. Global systemrelevante Institute im Sinne von § 10f Absatz 2 Satz 1 des Kreditwesengesetzes und anderweitig systemrelevante Institute im Sinne von § 10g Absatz 2 Satz 1 des Kreditwesengesetzes haben für die Belastungsanalyse mindestens vier verschiedene Belastungsszenarien zu entwickeln, andere Institute mindestens drei.
 
 (3) Der Sanierungsplan muss mindestens ein Belastungsszenario aus jeder der folgenden Kategorien enthalten:
 
@@ -167,7 +171,7 @@ L 193 vom              21.7.2015, S. 166; L 20 vom 25.1.2017, S. 3), die zuletzt
 
 Bei der Entwicklung von weiteren Belastungsszenarien kann das Institut die Kategorie unter Berücksichtigung der Vorgaben aus Absatz 5 selbst auswählen. Der Sanierungsplan muss mindestens ein Belastungsszenario mit plötzlich eintretenden nachteiligen Entwicklungen und mindestens ein Belastungsszenario mit langsam eintretenden nachteiligen Entwicklungen enthalten.
 
-(4) Die Belastungsszenarien müssen schwerwiegend genug sein, um die Wirksamkeit der Sanierungsoption und die Zweckmäßigkeit der Indikatoren nach Artikel 12 Absatz 2 Buchstabe d der Delegierten Verordnung (EU) 2016/1075 bei der Notfallplanung prüfen zu können. Ein Belastungsszenario ist nur dann schwerwiegend genug, wenn in dessen Verlauf der Schwellenwert mindestens eines Indikators nach § 7 Absatz 1 oder der Schwellenwert einer Kombination von Indikatoren nach § 7 Absatz 7 erreicht wird und die ungehinderte Weiterentwicklung des Belastungsszenarios zu einer Bestandsgefährdung des Instituts oder eines gruppenangehörigen Unternehmens nach Artikel 18 Absatz 4 der Verordnung (EU) Nr. 806/2014 des Europäischen Parlaments und des Rates vom 15. Juli 2014 zur Festlegung einheitlicher Vorschriften und eines einheitlichen Verfahrens für die Abwicklung von Kreditinstituten und bestimmten Wertpapierfirmen im Rahmen eines einheitlichen Abwicklungsmechanismus und eines einheitlichen Abwicklungsfonds sowie zur Änderung der Verordnung (EU) Nr. 1093/2010 (ABl. L 225 vom 30.7.2014, S. 1; L 101 vom 18.4.2015, S. 62) oder nach § 63 Absatz 1 oder § 64 in Verbindung mit § 62 Absatz 1 Nummer 1 oder § 63 Absatz 1 des Sanierungs- und Abwicklungsgesetzes führen könnte.
+(4) Die Belastungsszenarien müssen schwerwiegend genug sein, um die Wirksamkeit der Sanierungsoption und die Zweckmäßigkeit der Indikatoren nach Artikel 12 Absatz 2 Buchstabe d der Delegierten Verordnung (EU) 2016/1075 bei der Notfallplanung prüfen zu können. Ein Belastungsszenario ist nur dann schwerwiegend genug, wenn in dessen Verlauf der Schwellenwert mindestens eines Indikators nach § 7 Absatz 1 oder der Schwellenwert einer Kombination von Indikatoren nach § 7 Absatz 7 erreicht wird und die ungehinderte Weiterentwicklung des Belastungsszenarios zu einer Bestandsgefährdung des Instituts oder eines gruppenangehörigen Unternehmens nach Artikel 18 Absatz 4 der Verordnung (EU) Nr. 806/2014 oder nach § 63 Absatz 1 oder § 64 in Verbindung mit § 62 Absatz 1 Nummer 1 oder § 63 Absatz 1 des Sanierungs- und Abwicklungsgesetzes führen könnte.
 
 (5) Die Belastungsszenarien müssen die wesentlichen Risiken abbilden, denen das Institut oder die Gruppe ausgesetzt ist. Für die Feststellung der wesentlichen instituts- oder gruppenspezifischen Risiken sind insbesondere das Geschäfts- und Refinanzierungsmodell, die Art der Geschäftstätigkeiten, die Struktur des Instituts oder der Gruppe, die Größe oder Vernetzung mit anderen Instituten oder dem Finanzsystem im Allgemeinen sowie Risiken oder Schwachstellen des Instituts oder der Gruppe zu berücksichtigen. Das Belastungsszenario muss auf Ereignissen beruhen, die außergewöhnlich, aber plausibel sind.
 
@@ -257,7 +261,7 @@ Das Verhältnis der Forderungen und Verbindlichkeiten der zehn wichtigsten Gegen
 
 ### § 14 Indikatoren
 
-(1) Für jede der in § 7 Absatz 3 Satz 1 genannten Kategorien hat das Institut mindestens einen Indikator festzulegen. Zunächst sind Indikatoren aus Anlage 1 dieser Verordnung zu prüfen. Soweit das Institut für eine der in § 7 Absatz 3 Satz 1 genannten Kategorien keinen Indikator aus Anlage 1 dieser Verordnung aufnimmt, muss im Sanierungsplan nachvollziehbar begründet werden, dass aufgrund der Rechtsform, des Risikoprofils, der Größe oder der Komplexität des Instituts keiner dieser Indikatoren relevant ist. Unter Beachtung des Grundsatzes aus § 7 Absatz 4 ist in diesem Fall für die betreffende Kategorie mindestens ein anderer Indikator zu wählen und die Auswahl dieses Indikators zu begründen. Die Institute können hierbei die in Anlage 2 nicht abschließend genannten zusätzlichen Indikatoren verwenden.
+(1) Für jede der in § 7 Absatz 3 Satz 1 genannten Kategorien hat das Institut mindestens einen Indikator festzulegen. Zunächst sind Indikatoren aus Anlage 1 dieser Verordnung zu prüfen. Soweit das Institut für eine der in § 7 Absatz 3 Satz 1 genannten Kategorien keinen Indikator aus Anlage 1 dieser Verordnung aufnimmt, muss im Sanierungsplan nachvollziehbar begründet werden, dass aufgrund der Rechtsform, des Risikoprofils, der Größe oder der Komplexität des Instituts keiner dieser Indikatoren relevant ist. Unter Beachtung des Grundsatzes aus § 7 Absatz 4 ist in diesem Fall für die betreffende Kategorie mindestens ein anderer Indikator zu wählen und die Auswahl dieses Indikators zu begründen. Die Institute können hierbei die in Anlage 2 nicht abschließend genannten zusätzlichen Indikatoren verwenden. Das Institut ist nicht zur Darstellung von qualitativen Indikatoren verpflichtet, wenn es im Sanierungsplan nachvollziehbar begründet, dass qualitative Indikatoren für die Zwecke der Sanierungsplanung des Instituts nicht geeignet sind.
 
 (2) Es besteht keine Pflicht, marktbasierte und makroökonomische Indikatoren nach § 7 Absatz 3 Satz 2 in den Sanierungsplan aufzunehmen.
 
@@ -280,11 +284,16 @@ Das Verhältnis der Forderungen und Verbindlichkeiten der zehn wichtigsten Gegen
 Eine Belastungsanalyse nach § 9 ist nicht erforderlich.
 
 
+### § 16a Kommunikations- und Informationsplan
+
+Ein Kommunikations- und Informationsplan im Sinne des Artikels 14 der Delegierten Verordnung (EU) 2016/1075 ist nicht erforderlich.
+
+
 ### § 17 Frist zur Einreichung und Aktualisierung von Sanierungsplänen
 
 (1) Wenn die Aufsichtsbehörde die Geltung von vereinfachten Anforderungen festgelegt hat, beträgt die Frist für die erstmalige Erstellung des Sanierungsplans grundsätzlich zwölf Monate.
 
-(2) Hat die Aufsichtsbehörde die Geltung von vereinfachten Anforderungen festgelegt, finden nur § 12 Absatz 4 Satz 1 Nummer 1 und Satz 2 des Sanierungs- und Abwicklungsgesetzes Anwendung.
+(2) Hat die Aufsichtsbehörde die Geltung von vereinfachten Anforderungen festgelegt, so ist § 12 Absatz 4 des Sanierungs- und Abwicklungsgesetzes anzuwenden, wobei § 12 Absatz 4 Satz 1 des Sanierungs- und Abwicklungsgesetzes mit der Maßgabe Anwendung findet, dass der Sanierungsplan nicht mindestens jährlich zu übermitteln ist.
 
 
 ## Abschnitt 4 - Anforderungen an die Erstellung von Sanierungsplänen durch institutsbezogene Sicherungssysteme
@@ -345,9 +354,9 @@ Wird die Befreiung widerrufen, fordert die Aufsichtsbehörde das Institut nach M
 
 ### § 21 Sanierungsplanung durch das institutsbezogene Sicherungssystem
 
-(1) Das institutsbezogene Sicherungssystem hat für die befreiten Institute einen Sanierungsplan zu erstellen. Die Anforderungen nach den §§ 12 bis 19 des Sanierungs- und Abwicklungsgesetzes sind nach Maßgabe der §§ 22 bis 29 zu erfüllen.
+(1) Das institutsbezogene Sicherungssystem hat für die befreiten Institute einen Sanierungsplan zu erstellen. Die Anforderungen nach den §§ 12 bis 19 des Sanierungs- und Abwicklungsgesetzes sind nach Maßgabe der §§ 22 bis 28 zu erfüllen.
 
-(2) Die Angaben zu den Instituten nach Absatz 4 und den §§ 22 bis 28 können zusammengefasst erfolgen. Zu diesem Zweck kann das institutsbezogene Sicherungssystem die Institute in angemessene Klassen einteilen und die Angaben in Bezug auf die gebildeten Klassen darstellen. Es ist anzugeben, welche Institute welcher Klasse zugeordnet wurden. Das institutsbezogene Sicherungssystem hat sicherzustellen, dass die Einteilung der Institute in Klassen und die Zusammenfassung der Angaben im Sanierungsplan nachvollziehbar begründet werden.
+(2) Die Angaben zu den Instituten nach Absatz 4 und den §§ 22 bis 27 können zusammengefasst erfolgen. Zu diesem Zweck kann das institutsbezogene Sicherungssystem die Institute in angemessene Klassen einteilen und die Angaben in Bezug auf die gebildeten Klassen darstellen. Es ist anzugeben, welche Institute welcher Klasse zugeordnet wurden. Das institutsbezogene Sicherungssystem hat sicherzustellen, dass die Einteilung der Institute in Klassen und die Zusammenfassung der Angaben im Sanierungsplan nachvollziehbar begründet werden.
 
 (3) Die Aufsichtsbehörde kann in Abstimmung mit der Deutschen Bundesbank unter Berücksichtigung der in § 19 Absatz 2 des Sanierungs- und Abwicklungsgesetzes genannten Kriterien jederzeit anordnen, dass über die Anforderungen des Absatzes 1 hinaus weitere Anforderungen zu beachten sind. Hierbei kann die Aufsichtsbehörde in Abstimmung mit der Deutschen Bundesbank auch anordnen, dass der ein bestimmtes Institut umfassende Teil des Sanierungsplans von der Geschäftsleitung dieses Instituts unterzeichnet wird.
 
@@ -369,14 +378,14 @@ Wird die Befreiung widerrufen, fordert die Aufsichtsbehörde das Institut nach M
 
 (3) Der Sanierungsplan hat zu beschreiben, wie sichergestellt wird, dass die Indikatoren beim institutsbezogenen Sicherungssystem oder bei den befreiten Instituten so zeitnah und regelmäßig überwacht werden, dass negative Entwicklungen rechtzeitig erkannt werden können. Dazu gehört auch eine Beschreibung, wie das Berichtssystem eine zeitnahe Information über die Indikatorenwerte und deren Abstand zu den entsprechenden Schwellenwerten ermöglicht. Dabei ist auch das Intervall für die Überwachung der jeweiligen Indikatoren zu beschreiben.
 
-(4) Der Eskalations- und Entscheidungsprozess gemäß Artikel 5 Absatz 3 Buchstabe a der Delegierten Verordnung (EU) 2016/1075 ist in Bezug auf das institutsbezogene Sicherungssystem und in Bezug auf die befreiten Institute zu beschreiben. Darüber hinaus hat die Beschreibung des internen Eskalations- und Entscheidungsprozesses darzustellen, wie sichergestellt wird, dass bei Erreichen des Schwellenwerts von Indikatoren die Geschäftsleitung des betroffenen Instituts unverzüglich informiert wird und eine Entscheidung über das Ergreifen von Handlungsoptionen trifft. Auch muss der Sanierungsplan beschreiben, wie diese Entscheidung dokumentiert wird und wie die Aufsichtsbehörde und das institutsbezogene Sicherungssystem sowohl über das Erreichen des Schwellenwerts von Indikatoren als auch über die von der Geschäftsleitung getroffene Entscheidung informiert werden.
+(4) Der Eskalations- und Entscheidungsprozess gemäß Artikel 5 Absatz 3 Buchstabe a der Delegierten Verordnung (EU) 2016/1075 ist in Bezug auf das institutsbezogene Sicherungssystem und in Bezug auf die befreiten Institute zu beschreiben. Darüber hinaus hat die Beschreibung des internen Eskalations- und Entscheidungsprozesses darzustellen, wie sichergestellt wird, dass bei Erreichen des Schwellenwerts von Indikatoren die Geschäftsleitung des betroffenen Instituts unverzüglich, spätestens jedoch innerhalb eines Bankarbeitstages nach Erreichen des Schwellenwerts eines Indikators über diesen Umstand informiert wird und unverzüglich entscheidet, ob Handlungsoptionen ergriffen werden. Auch muss der Sanierungsplan beschreiben, wie diese Entscheidung dokumentiert wird. Er hat des Weiteren vorzusehen, dass die Aufsichtsbehörde und das institutsbezogene Sicherungssystem unverzüglich, spätestens jedoch am nächsten Bankarbeitstag nach Information der Geschäftsleitung nach Absatz 4 Satz 2 über das Erreichen des Schwellenwerts des Indikators und unverzüglich über die von der Geschäftsleitung getroffene Entscheidung jeweils umfassend informiert werden.
 
 (5) Das institutsbezogene Sicherungssystem hat im Sanierungsplan zu beschreiben, wie die Anforderungen von Artikel 5 Absatz 5 der Delegierten Verordnung (EU) 2016/1075 und des § 6 Absatz 2 eingehalten werden.
 
 
 ### § 24 Indikatoren
 
-(1) Im Sanierungsplan ist darzustellen, wie die Anforderungen des § 7 Absatz 1 und 3 bis 7 zu den Indikatoren in Bezug auf die befreiten Institute eingehalten werden. Für jede der in § 7 Absatz 3 Satz 1 genannten Kategorien ist mindestens ein Indikator festzulegen. Für die befreiten Institute entfällt die Darstellung der marktbasierten und makroökonomischen Indikatoren gemäß § 7 Absatz 3 Satz 2. Zunächst sind Indikatoren aus der Anlage 1 dieser Verordnung zu prüfen. Unter Beachtung des Grundsatzes aus § 7 Absatz 4 können auch andere Indikatoren gewählt werden.
+(1) Im Sanierungsplan ist dazustellen, wie die Anforderungen des § 7 Absatz 1 und 3 bis 5, 6 Satz 1 und Absatz 7 zu den Indikatoren in Bezug auf die befreiten Institute eingehalten werden. Für jede der in § 7 Absatz 3 Satz 1 genannten Kategorien ist mindestens ein Indikator festzulegen. Für die befreiten Institute entfällt die Darstellung der marktbasierten und makroökonomischen Indikatoren gemäß § 7 Absatz 3 Satz 2. Zunächst sind Indikatoren aus der Anlage 1 dieser Verordnung zu prüfen. Die Darstellung von qualitativen Indikatoren ist nicht erforderlich, soweit im Sanierungsplan nachvollziehbar begründet wird, dass qualitative Indikatoren für die Zwecke der Sanierungsplanung der befreiten Institute nicht geeignet sind. Unter Beachtung des Grundsatzes aus § 7 Absatz 4 können auch andere Indikatoren gewählt werden.
 
 (2) Der Sanierungsplan hat darzustellen, wie die Schwellenwerte von Indikatoren bei Bedarf, jedoch mindestens bei jeder Aktualisierung des Sanierungsplans, überprüft und erforderlichenfalls angepasst werden.
 
@@ -396,17 +405,12 @@ Wird die Befreiung widerrufen, fordert die Aufsichtsbehörde das Institut nach M
 (4) Ein Zeitplan für die Umsetzung von Handlungsoptionen nach Artikel 12 Absatz 2 Buchstabe c der Delegierten Verordnung (EU) 2016/1075 ist in Bezug auf die befreiten Institute und das institutsbezogene Sicherungssystem darzustellen.
 
 
-### § 26 Kommunikations- und Informationsplan
-
-Der Sanierungsplan des institutsbezogenen Sicherungssystems hat einen Kommunikations- und Informationsplan zu enthalten, der die Anforderungen des Artikels 14 der Delegierten Verordnung (EU) 2016/1075 sowohl in Bezug auf die von der Befreiung erfassten Institute als auch in Bezug auf das institutsbezogene Sicherungssystem erfüllt.
-
-
-### § 27 Vorbereitungsmaßnahmen
+### § 26 Vorbereitungsmaßnahmen
 
 Die Beschreibung der Umsetzung des identifizierten Handlungsbedarfs gemäß Artikel 15 der Delegierten Verordnung (EU) 2016/1075 hat mit Bezug auf das institutsbezogene Sicherungssystem und die befreiten Institute zu erfolgen.
 
 
-### § 28 Informationsaustausch
+### § 27 Informationsaustausch
 
 (1) Der Sanierungsplan hat zu beschreiben, wie das institutsbezogene Sicherungssystem und die von der Befreiung erfassten Institute sich gegenseitig die
 für die              Erstellung, die in § 23 Absatz 2 beschriebene Einbeziehung der Inhalte des Sanierungsplans, die Aktualisierung des Sanierungsplans und die für die Sicherstellung der rechtzeitigen Umsetzung von Handlungsoptionen notwendigen Informationen bereitstellen.
@@ -414,17 +418,20 @@ für die              Erstellung, die in § 23 Absatz 2 beschriebene Einbeziehun
 (2) Der Sanierungsplan hat auch zu beschreiben, wie sichergestellt wird, dass die Informationen im Sinne des Absatzes 1 aktuell, richtig und vollständig sind, sowie dem institutsbezogenen Sicherungssystem rechtzeitig zur Verfügung gestellt werden.
 
 
-### § 29 Aktualisierung
+### § 28 Aktualisierung
 
-Der vom institutsbezogenen Sicherungssystem erstellte Sanierungsplan ist nach jeder Änderung, die sich wesentlich auf den Sanierungsplan auswirken kann, zu aktualisieren und der Aufsichtsbehörde sowie der Deutschen Bundesbank zu übermitteln. Die Aufsichtsbehörde kann von dem institutsbezogenen Sicherungssystem verlangen, seinen Sanierungsplan häufiger zu aktualisieren.
+Der vom institutsbezogenen Sicherungssystem erstellte Sanierungsplan ist nach jeder Änderung, die sich wesentlich auf den Sanierungsplan auswirken kann, zu aktualisieren und der Aufsichtsbehörde sowie der Deutschen Bundesbank zu übermitteln. Die Aufsichtsbehörde kann von dem institutsbezogenen Sicherungssystem verlangen, seinen Sanierungsplan häufiger zu aktualisieren und der Aufsichtsbehörde sowie der Deutschen Bundesbank zu übermitteln.
+
+
+### § 29 Inkrafttreten
+
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Abschnitt 5 - Schlussvorschriften
 
 
-### § 30 Inkrafttreten
-
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+### § 30 (weggefallen)
 
 
 ### Anlage 1 Liste der Indikatoren des Sanierungsplans
@@ -443,6 +450,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     c)  Verschuldungsquote
 
 
+    d)  Quote oder Quoten der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
+
+
 
 
 
@@ -454,7 +464,10 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     b)  Strukturelle Liquiditätsquote
 
 
-    c)  Kosten der Refinanzierung am Interbankengeldmarkt
+    c)  Verfügbare zentralbankfähige unbelastete Vermögenswerte
+
+
+    d)  Liquiditätsposition
 
 
 
@@ -541,7 +554,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     d)  Inkongruenz bei der vertraglichen Laufzeit
 
 
-    e)  Verfügbare unbelastete Vermögenswerte
+    e)  Kosten der Refinanzierung am Interbankengeldmarkt
 
 
 
@@ -572,7 +585,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     d)  Notleidende Kredite nach wesentlicher geografischer oder sektoraler Konzentration
 
 
-    e)[^F810214_02_BJNR064400020BJNE003400000]
+    e)[^F810214_02_BJNR064400020BJNE003401123]
   Gestundete Forderungen
         /Risikopositionen insgesamt
 
@@ -605,4 +618,4 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
     „Unterlassene Forderungen“ gemäß der Definition in den Artikeln 163 bis 183 der Durchführungsverordnung (EU) Nr. 680/2014 der Kommission vom 16. April 2014 zur Festlegung technischer Durchführungsstandards für die aufsichtlichen Meldungen der Institute gemäß der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates (ABl. L 191 vom 28.6.2014, S. 1).
-[^F810214_02_BJNR064400020BJNE003400000]: 
+[^F810214_02_BJNR064400020BJNE003401123]: 
