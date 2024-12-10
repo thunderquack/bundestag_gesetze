@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 33 G v. 16.12.2022 I 2294
 
 Änderung durch
-:   Art. 45 G v. 2.12.2024 I Nr. 387 mWv 1.1.2020 noch nicht berücksichtigt
+:   Art. 45 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 46 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
@@ -234,10 +234,10 @@ Die nach § 28a des Erbschaftsteuer- und Schenkungsteuergesetzes erlassene Erbsc
 
 (9) Für die Statistik über die Forschungszulage werden von den Anspruchsberechtigten ab 2020 jährlich folgende Erhebungsmerkmale erfasst:
 
-1.  förderfähige Aufwendungen im Bereich Forschung und Entwicklung, getrennt nach eigenbetrieblicher Forschung und Auftragsforschung, Höhe der gewährten Forschungszulage mit den im Besteuerungsverfahren festgestellten Angaben;
+1.  die im Antrags- und Festsetzungsverfahren festgestellten Angaben wie insbesondere förderfähige Aufwendungen im Bereich Forschung und Entwicklung, getrennt nach eigenbetrieblicher Forschung und Auftragsforschung, Höhe der gewährten Forschungszulage;
 
 
-2.  Sitz (Gemeinde), Rechtsform, Organschaft, Wirtschaftszweig, Zahl der im Bereich Forschung und Entwicklung Beschäftigten des Anspruchsberechtigten.
+2.  Sitz (Gemeinde), Rechtsform, Organschaft, Wirtschaftszweig, Zahl der im Bereich Forschung und Entwicklung Beschäftigten des Anspruchsberechtigten, Monat und Jahr der Festsetzung der Forschungszulage.
 
 
 

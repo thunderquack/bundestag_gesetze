@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 23.10.2024 I Nr. 323
 
 Änderung durch
-:   Art. 16 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+:   Art. 16 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 17 G v. 2.12.2024 I Nr. 387 mWv 1.1.2025 noch nicht berücksichtigt
@@ -375,7 +375,7 @@ Ein wirtschaftlicher Geschäftsbetrieb ist eine selbständige nachhaltige Tätig
 
 #### § 14b Körperschaften mit Sitz im Ausland
 
-(1) Ist eine Körperschaft mit Sitz (§ 11) im Ausland und Ort der Geschäftsleitung (§ 10) im Geltungsbereich dieses Gesetzes nach dem Recht des Staates, in dem sie ihren Sitz hat, rechtsfähig, sind Verwaltungsakte an sie zu richten, soweit sie nach den Steuergesetzen Steuerschuldner ist. Dies gilt auch dann, wenn sie nach inländischem Gesellschaftsrecht mangels Rechtsfähigkeit nicht als juristische Person zu behandeln ist.
+(1) Ist eine Körperschaft mit Sitz (§ 11) im Ausland und Ort der Geschäftsleitung (§ 10) im Geltungsbereich dieses Gesetzes nach dem Recht des Staates, in dem sie ihren Sitz hat, rechtsfähig, sind Verwaltungsakte an sie zu richten, soweit sie nach den Steuergesetzen Steuerpflichtiger ist. Dies gilt auch dann, wenn sie nach inländischem Gesellschaftsrecht mangels Rechtsfähigkeit nicht als juristische Person zu behandeln ist.
 
 (2) Auf Körperschaften im Sinne des Absatzes 1 Satz 2 sind die für juristische Personen geltenden Regelungen der §§ 34 und 79 entsprechend anzuwenden.
 
@@ -791,7 +791,7 @@ nach den Absätzen 4 oder 5 offenbart, darf der Empfänger diese Daten nur zu de
 
 #### § 31a Mitteilungen zur Bekämpfung der illegalen Beschäftigung und des Leistungsmissbrauchs
 
-(1) Die Offenbarung der nach § 30 geschützten Daten der betroffenen Person ist zulässig, soweit sie
+(1) Die Offenbarung der nach § 30 geschützten Daten der betroffenen Person ist zulässig, soweit sie erforderlich sind
 
 1.  für die Durchführung eines Strafverfahrens, eines Bußgeldverfahrens oder eines anderen gerichtlichen oder Verwaltungsverfahrens mit dem Ziel
 
@@ -803,7 +803,7 @@ nach den Absätzen 4 oder 5 offenbart, darf der Empfänger diese Daten nur zu de
         aa) über Erteilung, Rücknahme oder Widerruf einer Erlaubnis nach dem Arbeitnehmerüberlassungsgesetz oder
 
 
-        bb) über Bewilligung, Gewährung, Rückforderung, Erstattung, Weitergewährung oder Belassen einer Leistung aus öffentlichen Mitteln
+        bb) über Bewilligung, Gewährung, Rückforderung, Erstattung, Weitergewährung oder Belassen einer Leistung aus öffentlichen Mitteln,
 
 
 
@@ -811,14 +811,15 @@ nach den Absätzen 4 oder 5 offenbart, darf der Empfänger diese Daten nur zu de
 
 
 
-    oder
+
+2.  für die Prüfung des Vorliegens oder die Geltendmachung eines Anspruchs auf Rückgewähr einer Leistung aus öffentlichen Mitteln oder
 
 
-2.  für die Geltendmachung eines Anspruchs auf Rückgewähr einer Leistung aus öffentlichen Mitteln
+3.  für die Prüfung des Vorliegens oder die Geltendmachung eines gesetzlichen Anspruchs auf Schadensersatz aus einer vorsätzlich begangenen unerlaubten Handlung, auf Grund derer eine Leistung aus öffentlichen Mitteln gewährt wurde.
 
 
 
-erforderlich ist. In den Fällen von Satz 1 Nummer 1 Buchstabe b Doppelbuchstabe bb oder Nummer 2 ist die Offenbarung auf Ersuchen der zuständigen Stellen auch zulässig, soweit sie für die Durchführung eines Strafverfahrens wegen einer zu Unrecht erlangten Leistung aus öffentlichen Mitteln erforderlich ist.
+In den Fällen von Satz 1 Nummer 1 Buchstabe b Doppelbuchstabe bb oder Nummer 2 ist die Offenbarung auf Ersuchen der zuständigen Stellen auch zulässig, soweit sie für die Durchführung eines Strafverfahrens wegen einer zu Unrecht erlangten Leistung aus öffentlichen Mitteln erforderlich ist. Die für die Verwaltung einer Leistung aus öffentlichen Mitteln zuständige öffentliche Stelle darf die ihr von Finanzbehörden nach Satz 1 übermittelten Informationen abweichend von § 30 Absatz 11 an die für die Verfolgung einer Straftat hinsichtlich der von ihr bewilligten Leistung zuständige Stelle weiterleiten, wenn dies auch nach den für sie geltenden Vorschriften über die Verarbeitung personenbezogener Daten zu anderen Zwecken zulässig ist.
 
 (2) Die Finanzbehörden sind in den Fällen des Absatzes 1 verpflichtet, der zuständigen Stelle die jeweils benötigten Tatsachen mitzuteilen. In den Fällen des Absatzes 1 Satz 1 Nummer 1 Buchstabe b und Nummer 2 erfolgt die Mitteilung auch auf Antrag der betroffenen Person. Die Mitteilungspflicht nach den Sätzen 1 und 2 besteht nicht, soweit deren Erfüllung mit einem unverhältnismäßigen Aufwand verbunden wäre.
 
@@ -876,6 +877,8 @@ Mitteilungen an die Zentralstelle für Finanztransaktionsuntersuchungen sind dur
 
 
 
+
+(3a) Die Finanzbehörden übermitteln einer Koordinierenden Stelle eines Landes nach § 50c des Geldwäschegesetzes auf Ersuchen Name und Anschrift der bei ihnen geführten Steuerpflichtigen im Sinne des § 2 Absatz 1 Nummer 13, 14 oder Nummer 16 des Geldwäschegesetzes nach Maßgabe des § 55 Absatz 3b des Geldwäschegesetzes, geordnet nach Wirtschaftszweigen und Betriebsgrößenklassen. Sammelersuchen sind zulässig. Die von den Finanzbehörden an die zuständigen Koordinierenden Stellen nach § 50c des Geldwäschegesetzes übermittelten Daten können von diesen an die zuständigen Aufsichtsbehörden nach § 50 Nummer 9 des Geldwäschegesetzes zur Erfüllung ihrer Aufgaben nach dem Geldwäschegesetz weitergegeben werden.
 
 (4) § 47 Absatz 3 des Geldwäschegesetzes gilt entsprechend.
 
@@ -1158,9 +1161,9 @@ Hält der oder die Bundesbeauftragte für den Datenschutz und die Informationsfr
 
 #### § 34 Pflichten der gesetzlichen Vertreter und der Vermögensverwalter
 
-(1) Die gesetzlichen Vertreter natürlicher und juristischer Personen sowie rechtsfähiger Personenvereinigungen und die Geschäftsführer von Vermögensmassen haben deren steuerliche Pflichten zu erfüllen. Sie haben insbesondere dafür zu sorgen, dass die Steuern aus den Mitteln entrichtet werden, die sie verwalten.
+(1) Die gesetzlichen Vertreter natürlicher und juristischer Personen sowie rechtsfähiger Personenvereinigungen und die Geschäftsführer von Vermögensmassen haben deren steuerliche Pflichten zu erfüllen. Sie haben insbesondere dafür zu sorgen, dass die Steuern aus den Mitteln entrichtet werden, die sie verwalten. Die Finanzbehörde kann sich an jeden von ihnen wenden.
 
-(2) Bei nicht rechtsfähigen Personenvereinigungen haben die Mitglieder, Gesellschafter oder Gemeinschafter die Pflichten im Sinne des Absatzes 1 zu erfüllen. Die Finanzbehörde kann sich an jedes Mitglied oder jeden Gesellschafter halten. Für nicht rechtsfähige Vermögensmassen gelten die Sätze 1 und 2 mit der Maßgabe, dass diejenigen, denen das Vermögen zusteht, die steuerlichen Pflichten zu erfüllen haben.
+(2) Bei nicht rechtsfähigen Personenvereinigungen haben die Mitglieder, Gesellschafter oder Gemeinschafter die Pflichten im Sinne des Absatzes 1 zu erfüllen. Die Finanzbehörde kann sich an jedes von ihnen halten. Für nicht rechtsfähige Vermögensmassen gelten die Sätze 1 und 2 mit der Maßgabe, dass diejenigen, denen das Vermögen zusteht, die steuerlichen Pflichten zu erfüllen haben.
 
 (3) Steht eine Vermögensverwaltung anderen Personen als den Eigentümern des Vermögens oder deren gesetzlichen Vertretern zu, so haben die Vermögensverwalter die in Absatz 1 bezeichneten Pflichten, soweit ihre Verwaltung reicht.
 
@@ -2137,28 +2140,19 @@ Deutsch             .
 
 ###### § 87a Elektronische Kommunikation
 
-(1) Die Übermittlung elektronischer Dokumente ist zulässig, soweit der Empfänger hierfür einen Zugang eröffnet. Ein elektronisches Dokument ist zugegangen, sobald die für den Empfang bestimmte Einrichtung es in für den Empfänger bearbeitbarer Weise aufgezeichnet hat; § 122 Absatz 2a sowie die §§ 122a und 123 Satz 2 und 3 bleiben unberührt. Übermittelt die Finanzbehörde Daten, die dem Steuergeheimnis unterliegen, sind diese Daten mit einem geeigneten Verfahren zu verschlüsseln; soweit alle betroffenen Personen schriftlich eingewilligt haben, kann auf eine Verschlüsselung verzichtet werden. Die kurzzeitige automatisierte Entschlüsselung, die beim Versenden einer De-Mail-Nachricht durch den akkreditierten Diensteanbieter zum Zweck der Überprüfung auf Schadsoftware und zum Zweck der Weiterleitung an den Adressaten der De-Mail-Nachricht erfolgt, verstößt nicht gegen das Verschlüsselungsgebot des Satzes 3. Eine elektronische Benachrichtigung über die Bereitstellung von Daten zum Abruf oder über den Zugang elektronisch an die Finanzbehörden übermittelter Daten darf auch ohne Verschlüsselung übermittelt werden.
+(1) Die Übermittlung elektronischer Dokumente ist zulässig, soweit der Empfänger hierfür einen Zugang eröffnet. Die Übermittlung elektronischer Nachrichten und Dokumente an Finanzbehörden mit einer qualifizierten elektronischen Signatur oder über das besondere elektronische Behördenpostfach ist nicht zulässig, soweit für die Übermittlung ein sicheres elektronisches Verfahren der Finanzbehörden zur Verfügung steht, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des Datensatzes gewährleistet; dies gilt nicht für Gerichte und Staatsanwaltschaften sowie in den Fällen, in denen die Übermittlung an Finanzbehörden mit einer qualifizierten elektronischen Signatur oder über das besondere elektronische Behördenpostfach gesetzlich vorgeschrieben ist. Ein elektronisches Dokument ist zugegangen, sobald die für den Empfang bestimmte Einrichtung es in für den Empfänger bearbeitbarer Weise aufgezeichnet hat; § 122 Absatz 2a sowie die §§ 122a und 123 Satz 2 und 3 bleiben unberührt. Übermittelt die Finanzbehörde Daten, die dem Steuergeheimnis unterliegen, sind diese Daten mit einem geeigneten Verfahren zu verschlüsseln; soweit alle betroffenen Personen schriftlich eingewilligt haben, kann auf eine Verschlüsselung verzichtet werden. Die kurzzeitige automatisierte Entschlüsselung, die beim Versenden einer De-Mail-Nachricht durch den akkreditierten Diensteanbieter zum Zweck der Überprüfung auf Schadsoftware und zum Zweck der Weiterleitung an den Adressaten der De-Mail-Nachricht erfolgt, verstößt nicht gegen das Verschlüsselungsgebot des Satzes 3. Eine elektronische Benachrichtigung über die Bereitstellung von Daten zum Abruf oder über den Zugang elektronisch an die Finanzbehörden übermittelter Daten darf auch ohne Verschlüsselung übermittelt werden.
 
-(1a) Verhandlungen und Besprechungen können auch elektronisch durch Übertragung in Ton oder Bild und Ton erfolgen. Absatz 1 Satz 3 gilt entsprechend.
+(1a) Verhandlungen und Besprechungen können auch elektronisch durch Übertragung in Ton oder Bild und Ton erfolgen. Absatz 1 Satz 4 gilt entsprechend.
 
 (2) Ist ein der Finanzbehörde übermitteltes elektronisches Dokument für sie zur Bearbeitung nicht geeignet, hat sie dies dem Absender unter Angabe der für sie geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen. Macht ein Empfänger geltend, er könne das von der Finanzbehörde übermittelte elektronische Dokument nicht bearbeiten, hat sie es ihm erneut in einem geeigneten elektronischen Format oder als Schriftstück zu übermitteln.
 
-(3) Eine durch Gesetz für Anträge, Erklärungen oder Mitteilungen an die Finanzbehörden angeordnete Schriftform kann, soweit nicht durch Gesetz etwas anderes bestimmt ist, durch die elektronische Form ersetzt werden. Der elektronischen Form genügt ein elektronisches Dokument, das mit einer qualifizierten elektronischen Signatur versehen ist. Bei der Signierung darf eine Person ein Pseudonym nur verwenden, wenn sie ihre Identität der Finanzbehörde nachweist. Die Schriftform kann auch ersetzt werden
+(3) Eine durch Gesetz für Anträge, Erklärungen oder Mitteilungen an die Finanzbehörden angeordnete Schriftform kann, soweit nicht durch Gesetz etwas anderes bestimmt ist, durch die elektronische Form ersetzt werden. Der elektronischen Form genügt ein elektronisches Dokument, das mit einer qualifizierten elektronischen Signatur versehen ist. Bei der Signierung darf eine Person ein Pseudonym nur verwenden, wenn sie ihre Identität der Finanzbehörde nachweist. Die Schriftform kann auch durch unmittelbare Abgabe der Erklärung in einem elektronischen Formular, das von der Finanzbehörde in einem Eingabegerät oder über öffentlich zugängliche Netze zur Verfügung gestellt wird, ersetzt werden. Bei einer Eingabe über öffentlich zugängliche Netze muss ein elektronischer Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes oder durch ein von der Finanzverwaltung eingerichtetes sicheres Identifizierungsverfahren im Sinne des Absatzes 6 erfolgen. Die Finanzbehörde hat dem Erklärenden vor Abgabe der Erklärung nach Satz 4 Gelegenheit zu geben, die gesamte Erklärung auf Vollständigkeit und Richtigkeit zu prüfen; nach der Abgabe ist dem Erklärenden eine elektronische Kopie der Erklärung zu ermöglichen. Im Fall der Datenübermittlung im Auftrag nach § 87d tritt der Auftragnehmer bei Anwendung des Satzes 6 an die Stelle des Erklärenden. Die Schriftform kann auch durch elektronische Übermittlung eines von dem Erklärenden signierten Dokuments an die Finanzbehörde mit der Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes ersetzt werden.
 
-1.  durch unmittelbare Abgabe der Erklärung in einem elektronischen Formular, das von der Behörde in einem Eingabegerät oder über öffentlich zugängliche Netze zur Verfügung gestellt wird;
-
-
-2.  durch Versendung eines elektronischen Dokuments an die Behörde mit der Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes.
-
-
-
-In den Fällen des Satzes 4 Nummer 1 muss bei einer Eingabe über öffentlich zugängliche Netze ein elektronischer Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen.
-
-(4) Eine durch Gesetz für Verwaltungsakte oder sonstige Maßnahmen der Finanzbehörden angeordnete Schriftform kann, soweit nicht durch Gesetz etwas anderes bestimmt ist, durch die elektronische Form ersetzt werden. Der elektronischen Form genügt ein elektronisches Dokument, das mit einer qualifizierten elektronischen Signatur versehen ist. Die Schriftform kann auch ersetzt werden durch Versendung einer De-Mail-Nachricht nach § 5 Absatz 5 des De-Mail-Gesetzes, bei der die Bestätigung des akkreditierten Diensteanbieters die erlassende Finanzbehörde als Nutzer des De-Mail-Kontos erkennen lässt. Für von der Finanzbehörde aufzunehmende Niederschriften gelten die Sätze 1 und 3 nur, wenn dies durch Gesetz ausdrücklich zugelassen ist.
+(4) Eine durch Gesetz für Verwaltungsakte oder sonstige Maßnahmen der Finanzbehörden angeordnete Schriftform kann, soweit nicht durch Gesetz etwas anderes bestimmt ist, durch die elektronische Form ersetzt werden. Der elektronischen Form genügt ein elektronischer Verwaltungsakt, der mit einer qualifizierten elektronischen Signatur oder einem qualifizierten elektronischen Siegel versehen ist oder in einem sicheren Verfahren nach Absatz 7 oder Absatz 8 übermittelt oder zum Abruf bereitgestellt wird. Die Schriftform kann auch ersetzt werden durch Versendung einer De-Mail-Nachricht nach § 5 Absatz 5 des De-Mail-Gesetzes, bei der die Bestätigung des akkreditierten Diensteanbieters die erlassende Finanzbehörde als Nutzer des De-Mail-Kontos erkennen lässt. Für von der Finanzbehörde aufzunehmende Niederschriften gelten die Sätze 1 und 3 nur, wenn dies durch Gesetz ausdrücklich zugelassen ist.
 
 (5) Ist ein elektronisches Dokument Gegenstand eines Beweises, wird der Beweis durch Vorlegung oder Übermittlung der Datei angetreten; befindet diese sich nicht im Besitz des Steuerpflichtigen oder der Finanzbehörde, gilt § 97 entsprechend. Für die Beweiskraft elektronischer Dokumente gilt § 371a der Zivilprozessordnung entsprechend.
 
-(6) Soweit nichts anderes bestimmt ist, ist bei der elektronischen Übermittlung von amtlich vorgeschriebenen Datensätzen an Finanzbehörden ein sicheres Verfahren zu verwenden, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des Datensatzes gewährleistet. Nutzt der Datenübermittler zur Authentisierung seinen elektronischen Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes, so dürfen die dazu erforderlichen Daten zusammen mit den übrigen übermittelten Daten gespeichert und verwendet werden.
+(6) Soweit gesetzlich nichts anderes bestimmt ist, ist bei der elektronischen Übermittlung von amtlich vorgeschriebenen Datensätzen an Finanzbehörden ein sicheres Verfahren zu verwenden, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des Datensatzes gewährleistet. Nutzt der Datenübermittler zur Authentisierung seinen elektronischen Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes, so dürfen die dazu erforderlichen Daten zusammen mit den übrigen übermittelten Daten gespeichert und verwendet werden.
 
 (7) Wird ein elektronisch erlassener Verwaltungsakt durch Übermittlung nach § 122 Absatz 2a bekannt gegeben, ist ein sicheres Verfahren zu verwenden, das die übermittelnde Stelle oder Einrichtung der Finanzverwaltung authentifiziert und die Vertraulichkeit und Integrität des Datensatzes gewährleistet. Ein sicheres Verfahren liegt insbesondere vor, wenn der Verwaltungsakt
 
@@ -2407,7 +2401,7 @@ Die Prüfung der Voraussetzungen nach Satz 1 obliegt der nach Absatz 1 Satz 1 zu
 2.  zuzusichern, alle Mitwirkungspflichten einschließlich der Pflichten des jeweiligen internationalen Risikobewertungsverfahrens zu erfüllen,
 
 
-3.  die Einwilligung in die Offenbarung und den Austausch personen- und unternehmensbezogener Daten im Rahmen des internationalen Risikobewertungsverfahrens entsprechend den jeweiligen internationalen und nationalen Verfahrensgrundsätzen sowie die Einwilligung nach § 87a Absatz 1 Satz 3 zweiter Halbsatz bezogen auf unternehmensbezogene Daten für alle betroffenen Unternehmen der Unternehmensgruppe zu erteilen und
+3.  die Einwilligung in die Offenbarung und den Austausch personen- und unternehmensbezogener Daten im Rahmen des internationalen Risikobewertungsverfahrens entsprechend den jeweiligen internationalen und nationalen Verfahrensgrundsätzen sowie die Einwilligung nach § 87a Absatz 1 Satz 4 zweiter Halbsatz bezogen auf unternehmensbezogene Daten für alle betroffenen Unternehmen der Unternehmensgruppe zu erteilen und
 
 
 4.  zuzusichern, die für das Verfahren notwendige technische Infrastruktur für alle beteiligten in- und ausländischen Finanzbehörden unter Einhaltung der gesetzlichen Regelungen zum Datenschutz und zur Informationssicherheit bei der Verarbeitung von personenbezogenen Daten zur Verfügung zu stellen, sofern nicht eine geeignete technische Infrastruktur von diesen Finanzbehörden bereitgestellt wird.
@@ -2669,7 +2663,19 @@ Für andere Zwecke ist ein Abrufersuchen an das Bundeszentralamt für Steuern hi
 
 (8a) Kontenabrufersuchen an das Bundeszentralamt für Steuern sind nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmten Schnittstellen zu übermitteln; § 87a Absatz 6 und § 87b Absatz 1 und 2 gelten entsprechend. Das Bundeszentralamt für Steuern kann Ausnahmen von der elektronischen Übermittlung zulassen. Das Bundeszentralamt für Steuern soll der ersuchenden Stelle die Ergebnisse des Kontenabrufs elektronisch übermitteln; § 87a Absatz 7 und 8 gilt entsprechend.
 
-(9) Vor einem Abrufersuchen nach Absatz 7 oder Absatz 8 ist die betroffene Person auf die Möglichkeit eines Kontenabrufs hinzuweisen; dies kann auch durch ausdrücklichen Hinweis in amtlichen Vordrucken und Merkblättern geschehen. Nach Durchführung eines Kontenabrufs ist die betroffene Person vom Ersuchenden über die Durchführung zu benachrichtigen. Ein Hinweis nach Satz 1 erster Halbsatz und eine Benachrichtigung nach Satz 2 unterbleiben, soweit die Voraussetzungen des § 32b Absatz 1 vorliegen oder die Information der betroffenen Person gesetzlich ausgeschlossen ist. § 32c Absatz 5 ist entsprechend anzuwenden. In den Fällen des Absatzes 8 gilt Satz 4 entsprechend, soweit gesetzlich nichts anderes bestimmt ist. Die Sätze 1 und 2 sind nicht anzuwenden in den Fällen des Absatzes 8 Satz 1 Nummer 2 oder 3 oder soweit dies bundesgesetzlich ausdrücklich bestimmt ist.
+(9) Vor einem Abrufersuchen nach Absatz 7 oder Absatz 8 ist die betroffene Person auf die Möglichkeit eines Kontenabrufs hinzuweisen; dies kann auch durch ausdrücklichen Hinweis in amtlichen Vordrucken und Merkblättern geschehen. Nach Durchführung eines Kontenabrufs ist die betroffene Person vom Ersuchenden über die Durchführung zu benachrichtigen. Ein Hinweis nach Satz 1 erster Halbsatz und eine Benachrichtigung nach Satz 2 unterbleiben,
+
+1.  soweit die Voraussetzungen des § 32b Absatz 1 vorliegen,
+
+
+2.  wenn die Überprüfung der Kontoverbindung ergibt, dass die betroffene Person über das nach § 139b Absatz 10 übermittelte Konto verfügungsberechtigt ist, oder
+
+
+3.  wenn die Information der betroffenen Person anderweitig gesetzlich ausgeschlossen ist.
+
+
+
+§ 32c Absatz 5 ist entsprechend anzuwenden. In den Fällen des Absatzes 8 gilt Satz 4 entsprechend, soweit gesetzlich nichts anderes bestimmt ist. Die Sätze 1 und 2 sind nicht anzuwenden in den Fällen des Absatzes 8 Satz 1 Nummer 2 oder 3 oder soweit dies bundesgesetzlich ausdrücklich bestimmt ist.
 
 (10) Ein Abrufersuchen nach Absatz 7 oder Absatz 8 und dessen Ergebnis sind vom Ersuchenden zu dokumentieren.
 
@@ -2683,7 +2689,7 @@ Für andere Zwecke ist ein Abrufersuchen an das Bundeszentralamt für Steuern hi
     a)  den Empfänger gewährter Leistungen sowie den Rechtsgrund, die Höhe, den Zeitpunkt dieser Leistungen und bei unbarer Auszahlung die Bankverbindung, auf die die Leistung erbracht wurde
 
 
-    b)  Verwaltungsakte, die für die betroffene Person die Versagung oder Einschränkung einer steuerlichen Vergünstigung zur Folge haben oder die der betroffenen Person steuerpflichtige Einnahmen ermöglichen,
+    b)  Verwaltungsakte und öffentlich-rechtliche Verträge, die für die betroffene Person die Versagung oder Einschränkung einer steuerlichen Vergünstigung zur Folge haben oder die der betroffenen Person steuerpflichtige Einnahmen ermöglichen,
 
 
     c)  vergebene Subventionen und ähnliche Förderungsmaßnahmen sowie
@@ -3236,10 +3242,13 @@ Soweit die zwischenstaatliche Rechts- und Amtshilfe Steuern betrifft, die von de
 2.  die Übermittlung dieser Daten nach amtlich vorgeschriebenem Datensatz im Wege der Datenfernübertragung an das Bundeszentralamt für Steuern,
 
 
-3.  die Weiterleitung dieser Daten an die zuständige Behörde des anderen Vertragsstaates sowie
+3.  die Weiterleitung dieser Daten an die zuständige Behörde des anderen Vertragsstaates,
 
 
-4.  die Entgegennahme entsprechender Daten von dem anderen Vertragsstaat und deren Weiterleitung nach Maßgabe des § 88 Absatz 3 und 4 an die zuständige Landesfinanzbehörde.
+4.  die Entgegennahme entsprechender Daten von dem anderen Vertragsstaat und deren Weiterleitung nach Maßgabe des § 88 Absatz 3 und 4 an die zuständige Landesfinanzbehörde sowie
+
+
+5.  die Ahndung von vorsätzlichen und leichtfertigen Verstößen durch die in diesen Vereinbarungen dem Grunde nach bestimmten Dritten gegen Pflichten zur Erhebung und zur Meldung von Daten im Sinne der Nummern 1 und 2 als Ordnungswidrigkeiten und die Bestimmung eines Bußgeldes für solche Verstöße bis zu 50 000 Euro; hierfür ist das Bundeszentralamt für Steuern Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten.
 
 
 
@@ -3297,9 +3306,11 @@ Verwaltungsakt ist jede Verfügung, Entscheidung oder andere hoheitliche Maßnah
 
 (1) Ein Verwaltungsakt muss inhaltlich hinreichend bestimmt sein.
 
-(2) Ein Verwaltungsakt kann schriftlich, elektronisch, mündlich oder in anderer Weise erlassen werden. Ein mündlicher Verwaltungsakt ist schriftlich zu bestätigen, wenn hieran ein berechtigtes Interesse besteht und die betroffene Person dies unverzüglich verlangt.
+(2) Ein Verwaltungsakt kann schriftlich, elektronisch, mündlich oder in anderer Weise erlassen werden. Ein mündlicher Verwaltungsakt ist schriftlich oder elektronisch zu bestätigen, wenn hieran ein berechtigtes Interesse besteht und die betroffene Person dies unverzüglich verlangt.
 
-(3) Ein schriftlich oder elektronisch erlassener Verwaltungsakt muss die erlassende Behörde erkennen lassen. Ferner muss er die Unterschrift oder die Namenswiedergabe des Behördenleiters, seines Vertreters oder seines Beauftragten enthalten; dies gilt nicht für einen Verwaltungsakt, der formularmäßig oder mit Hilfe automatischer Einrichtungen erlassen wird. Ist für einen Verwaltungsakt durch Gesetz eine Schriftform angeordnet, so muss bei einem elektronischen Verwaltungsakt auch das der Signatur zugrunde liegende qualifizierte Zertifikat oder ein zugehöriges qualifiziertes Attributzertifikat die erlassende Behörde erkennen lassen. Im Falle des § 87a Absatz 4 Satz 3 muss die Bestätigung nach § 5 Absatz 5 des De-Mail-Gesetzes die erlassende Finanzbehörde als Nutzer des De-Mail-Kontos erkennen lassen.
+(3) Ein schriftlich oder elektronisch erlassener Verwaltungsakt muss die erlassende Behörde erkennen lassen. Ferner muss er die Unterschrift oder die Namenswiedergabe des Behördenleiters, seines Vertreters oder seines Beauftragten enthalten; dies gilt nicht für einen Verwaltungsakt, der formularmäßig oder mit Hilfe automatischer Einrichtungen erlassen wird. Wird für einen Verwaltungsakt, für den gesetzlich die Schriftform angeordnet ist, nach § 87a Absatz 4 Satz 2 die elektronische Form mit einer qualifizierten elektronischen Signatur verwendet, muss das der Signatur zugrunde liegende qualifizierte Zertifikat oder ein zugehöriges qualifiziertes Attributzertifikat die erlassende Behörde erkennen lassen. Im Falle des § 87a Absatz 4 Satz 3 muss die Bestätigung nach § 5 Absatz 5 des De-Mail-Gesetzes die erlassende Finanzbehörde als Nutzer des De-Mail-Kontos erkennen lassen.
+
+(4) Wird für einen Verwaltungsakt die elektronische Form mit einer qualifizierten elektronischen Signatur oder einem qualifizierten elektronischen Siegel verwendet, muss sie oder muss es so lange überprüfbar sein, wie der Verwaltungsakt von der Finanzbehörde gespeichert wird.
 
 
 #### § 120 Nebenbestimmungen zum Verwaltungsakt
@@ -4330,7 +4341,7 @@ Hat ein Nutzer eine grenzüberschreitende Steuergestaltung im Sinne des § 138d 
 
 
 
-(3a) Außerdem speichert das Bundeszentralamt für Steuern zu natürlichen Personen die für sie nach Absatz 10 zuletzt übermittelte internationale Kontonummer (IBAN), bei ausländischen Kreditinstituten auch den internationalen Banken-Identifizierungsschlüssel (BIC).
+(3a) Außerdem speichert das Bundeszentralamt für Steuern zu natürlichen Personen die für sie nach Absatz 10 zuletzt übermittelte internationale Kontonummer (IBAN), bei ausländischen Kreditinstituten auch den internationalen Banken-Identifizierungsschlüssel (BIC). Gespeichert wird nach Satz 1 ausschließlich eine Kontoverbindung, welche mittels SEPA-Überweisung erreichbar ist.
 
 (4) Die in Absatz 3 aufgeführten Daten werden gespeichert, um
 
@@ -4358,7 +4369,7 @@ Die in Absatz 3 Nummer 1 und 8 aufgeführten Daten werden auch zur Ermittlung de
 
 (4c) Die nach Absatz 3a gespeicherten Daten werden gespeichert, um eine unbare Auszahlung von Leistungen aus öffentlichen Mitteln zu ermöglichen, bei denen die Verwendung der nach Absatz 3a gespeicherten Daten vorgesehen ist. Die in Absatz 3 aufgeführten Daten werden bei einer natürlichen Person auch für die in Satz 1 genannten Zwecke gespeichert.
 
-(5) Die in Absatz 3 aufgeführten Daten dürfen nur für die in den Absätzen 4 bis 4c genannten Zwecke verarbeitet werden. Die in Absatz 3a aufgeführten Daten dürfen nur für die in Absatz 4c genannten Zwecke verarbeitet werden; eine Übermittlung, Verwendung oder Beschlagnahme dieser Daten nach anderen Rechtsvorschriften ist unzulässig. Auskunftssperren nach dem Bundesmeldegesetz sind zu beachten und im Fall einer zulässigen Datenübermittlung ebenfalls zu übermitteln. Der Dritte, an den die Daten übermittelt werden, hat die Übermittlungssperren ebenfalls zu beachten. Die Regelungen des Identifikationsnummerngesetzes bleiben unberührt.
+(5) Die in Absatz 3 aufgeführten Daten dürfen nur für die in den Absätzen 4 bis 4c genannten Zwecke verarbeitet werden; darüber hinaus dürfen die in Absatz 3 Nummer 2 bis 10 und Nummer 12 bis 15 aufgeführten Daten nur unter den Voraussetzungen des § 30 Absatz 4 Nummer 5 Buchstabe a den jeweils zuständigen Stellen auf deren Ersuchen offenbart werden. Die in Absatz 3a aufgeführten Daten dürfen nur für die in Absatz 4c genannten Zwecke verarbeitet werden; eine Übermittlung, Verwendung oder Beschlagnahme dieser Daten nach anderen Rechtsvorschriften ist unzulässig. Auskunftssperren nach dem Bundesmeldegesetz sind zu beachten und im Fall einer zulässigen Datenübermittlung ebenfalls zu übermitteln. Der Dritte, an den die Daten übermittelt werden, hat die Übermittlungssperren ebenfalls zu beachten. Die Regelungen des Identifikationsnummerngesetzes bleiben unberührt.
 
 (6) Zum Zwecke der erstmaligen Zuteilung der Identifikationsnummer übermitteln die Meldebehörden dem Bundeszentralamt für Steuern für jeden in ihrem Zuständigkeitsbereich mit alleiniger Wohnung oder Hauptwohnung im Melderegister registrierten Einwohner folgende Daten:
 
@@ -4407,7 +4418,7 @@ Hierzu haben die Meldebehörden jedem in ihrem Zuständigkeitsbereich mit allein
 
 (9) Das Bundeszentralamt für Steuern unterrichtet die Meldebehörden, wenn ihm konkrete Anhaltspunkte für die Unrichtigkeit der ihm von den Meldebehörden übermittelten Daten vorliegen.
 
-(10) Natürliche Personen, die das 18. Lebensjahr vollendet haben, können dem Bundeszentralamt für Steuern die IBAN, bei ausländischen Kreditinstituten auch den BIC, des für Auszahlungen in den Fällen des Absatzes 4c zu verwendenden Kontos unter Angabe der in Absatz 3 Nummer 1 und 8 genannten Daten in einem sicheren Verfahren
+(10) Natürliche Personen können dem Bundeszentralamt für Steuern vorbehaltlich des Satzes 2 die IBAN, bei ausländischen Kreditinstituten auch den BIC, des für Auszahlungen in den Fällen des Absatzes 4c zu verwendenden Kontos unter Angabe der in Absatz 3 Nummer 1 und 8 genannten Daten in einem sicheren Verfahren
 
 1.  übermitteln,
 
@@ -4419,7 +4430,7 @@ Hierzu haben die Meldebehörden jedem in ihrem Zuständigkeitsbereich mit allein
 
 
 
-Für natürliche Personen, die das 18. Lebensjahr noch nicht vollendet haben und für die nach § 63 des Einkommensteuergesetzes Kindergeld festgesetzt worden ist, teilt die zuständige Familienkasse als mitteilungspflichtige Stelle dem Bundeszentralamt für Steuern für die in Absatz 4c genannten Zwecke unter Angabe der in Absatz 3 Nummer 1 und 8 genannten Daten der natürlichen Person die IBAN, bei ausländischen Kreditinstituten auch den BIC, des Kontos mit, auf welches das Kindergeld zuletzt ausgezahlt worden ist; dies gilt nicht, wenn es sich bei dem tatsächlichen Zahlungsempfänger weder um den Kindergeldberechtigten noch um das Kind handelt. Änderungen der nach den Sätzen 1 oder 2 bereits mitgeteilten IBAN, bei ausländischen Kreditinstituten auch des BIC, sind dem Bundeszentralamt für Steuern unter Angabe der in Absatz 3 Nummer 1 und 8 genannten Daten umgehend mitzuteilen.
+Für natürliche Personen, die das 18. Lebensjahr noch nicht vollendet haben und für die nach § 63 des Einkommensteuergesetzes Kindergeld festgesetzt oder nach § 1 Absatz 2 oder § 2 Absatz 1 des Bundeskindergeldgesetzes Kindergeld bewilligt worden ist, teilt die zuständige Familienkasse als mitteilungspflichtige Stelle dem Bundeszentralamt für Steuern für die in Absatz 4c genannten Zwecke unter Angabe der in Absatz 3 Nummer 1 und 8 genannten Daten der natürlichen Person die IBAN, bei ausländischen Kreditinstituten auch den BIC, des Kontos mit, auf welches das Kindergeld zuletzt ausgezahlt worden ist; dies gilt nicht, wenn es sich bei dem tatsächlichen Zahlungsempfänger weder um den Kindergeldberechtigten noch um das Kind handelt. Änderungen der nach den Sätzen 1 oder 2 bereits mitgeteilten IBAN, bei ausländischen Kreditinstituten auch des BIC, sind dem Bundeszentralamt für Steuern unter Angabe der in Absatz 3 Nummer 1 und 8 genannten Daten umgehend mitzuteilen. Ist in den Fällen des Satzes 2 der für die Bewilligungen des Kindergeldes nach dem Bundeskindergeldgesetz zuständigen Familienkasse die Identifikationsnummer nicht bekannt, darf sie diese Identifikationsnummer nach amtlich vorgeschriebenem Datensatz beim Bundeszentralamt für Steuern abfragen. In der Abfrage dürfen nur die in Absatz 3 genannten Daten der minderjährigen Person angegeben werden. Das Bundeszentralamt für Steuern entspricht dem Ersuchen, wenn die übermittelten Daten den beim Bundeszentralamt für Steuern hinterlegten Daten entsprechen.
 
 (11) Die Übermittlung der in Absatz 10 genannten Daten an das Bundeszentralamt für Steuern muss elektronisch nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle erfolgen.
 
@@ -4682,6 +4693,19 @@ Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrat
 
 
 
+##### § 139e Direktauszahlungsmechanismus
+
+(1) Der Direktauszahlungsmechanismus ist die Direktauszahlung öffentlicher Mittel an natürliche Personen unter Verwendung der nach § 139b Absatz 3 und 3a gespeicherten Daten, die durch Bundesgesetz vorgesehen ist. Zuständige Behörde für den Direktauszahlungsmechanismus ist das Bundeszentralamt für Steuern (Direktauszahlungsbehörde). Die Direktauszahlungsbehörde wird im Auftrag der nach dem jeweiligen Leistungsgesetz zuständigen Behörde (Leistungsbehörde) tätig.
+
+(2) Die Direktauszahlung von öffentlichen Mitteln nach Absatz 1 Satz 1 erfolgt unbar auf die zum Zeitpunkt des Datenabrufs nach § 139b Absatz 3a gespeicherte Kontoverbindung.
+
+(3) Erfolgt die Direktauszahlung öffentlicher Mittel auf Antrag, so ist dieser nach amtlich bestimmten Datensatz über die amtlich bestimmte Schnittstelle elektronisch zu übermitteln.
+
+(4) Werden an die Gewährung der Leistung Voraussetzungen geknüpft, die nicht aus den nach § 139b gespeicherten Daten bestimmt oder über amtlich bestimmte Schnittstellen der Direktauszahlungsbehörde zu anderen datenverwaltenden Stellen automatisiert bezogen werden können, sind die erforderlichen Daten von der Leistungsbehörde bei den öffentlichen Stellen zu erheben, die diese Daten verarbeiten. Die Leistungsbehörde teilt der Direktauszahlungsbehörde das Ergebnis der Prüfung nach amtlich bestimmten Datensatz über die amtlich bestimmte Schnittstelle mit.
+
+(5) Die Gutschrift auf die nach Absatz 2 gespeicherte Kontoverbindung (Direktauszahlung) ist ein Verwaltungsakt nach dem jeweiligen Leistungsgesetz, der nicht schriftlich zu bestätigen ist sowie keiner Begründung und keiner gesonderten Rechtsbehelfsbelehrung bedarf. Der Verwaltungsakt wird durch die Gutschrift bekannt gegeben. Andere Verwaltungsakte werden durch Bereitstellung zum Datenabruf bekannt gegeben. Für die Durchführung von Rechtsbehelfsverfahren ist die Leistungsbehörde zuständig. Im Übrigen gelten die für das Leistungsgesetz maßgebenden Vorschriften über das Verwaltungs- sowie das Gerichtsverfahren.
+
+
 ### Zweiter Abschnitt - Mitwirkungspflichten
 
 
@@ -4795,7 +4819,7 @@ Dies gilt nicht, wenn die Ware erkennbar nicht zur gewerblichen Weiterverwendung
 (5) Die Absätze 1 bis 4 gelten auch für Land- und Forstwirte, die nach § 141 buchführungspflichtig sind.
 
 
-##### § 145 Allgemeine Anforderungen an Buchführung und Aufzeichnungen
+##### § 145 Allgemeine Anforderungen an die Buchführung und Aufzeichnungen
 
 (1) Die Buchführung muss so beschaffen sein, dass sie einem sachverständigen Dritten innerhalb angemessener Zeit einen Überblick über die Geschäftsvorfälle und über die Lage des Unternehmens vermitteln kann. Die Geschäftsvorfälle müssen sich in ihrer Entstehung und Abwicklung verfolgen lassen.
 
@@ -4957,15 +4981,15 @@ Die Mitteilung nach Satz 1 ist innerhalb eines Monats nach Anschaffung oder Auß
 
 (5) Wer aufzubewahrende Unterlagen in der Form einer Wiedergabe auf einem Bildträger oder auf anderen Datenträgern vorlegt, ist verpflichtet, auf seine Kosten diejenigen Hilfsmittel zur Verfügung zu stellen, die erforderlich sind, um die Unterlagen lesbar zu machen; auf Verlangen der Finanzbehörde hat er auf seine Kosten die Unterlagen unverzüglich ganz oder teilweise auszudrucken oder ohne Hilfsmittel lesbare Reproduktionen beizubringen.
 
-(6) Sind die Unterlagen nach Absatz 1 mit Hilfe eines Datenverarbeitungssystems erstellt worden,
+(6) Sind die Unterlagen nach Absatz 1 mit Hilfe eines Datenverarbeitungssystems erstellt worden, kann die Finanzbehörde im Rahmen einer Außenprüfung
 
-1.  hat die Finanzbehörde im Rahmen einer Außenprüfung das Recht, Einsicht in die gespeicherten Daten zu nehmen und das Datenverarbeitungssystem zur Prüfung dieser Unterlagen zu nutzen,
-
-
-2.  kann die Finanzbehörde verlangen, dass die Daten nach ihren Vorgaben maschinell ausgewertet zur Verfügung gestellt werden, oder
+1.  Einsicht in die gespeicherten Daten nehmen und das Datenverarbeitungssystem zur Prüfung dieser Unterlagen nutzen,
 
 
-3.  kann die Finanzbehörde verlangen, dass die Daten nach ihren Vorgaben in einem maschinell auswertbaren Format an sie übertragen werden.
+2.  verlangen, dass die Daten nach ihren Vorgaben maschinell ausgewertet zur Verfügung gestellt werden, oder
+
+
+3.  verlangen, dass die Daten nach ihren Vorgaben in einem maschinell auswertbaren Format an sie übertragen werden.
 
 
 
@@ -4983,7 +5007,7 @@ Teilt der Steuerpflichtige der Finanzbehörde mit, dass sich seine Daten nach Ab
 
 Die Kosten trägt der Steuerpflichtige. In Fällen des Satzes 3 hat der mit der Außenprüfung betraute Amtsträger den in § 3 und § 4 Nummer 1 und 2 des Steuerberatungsgesetzes bezeichneten Personen sein Erscheinen in angemessener Frist anzukündigen. Sofern noch nicht mit einer Außenprüfung begonnen wurde, ist es im Fall eines Wechsels des Datenverarbeitungssystems oder im Fall der Auslagerung von aufzeichnungs- und aufbewahrungspflichtigen Daten aus dem Produktivsystem in ein anderes Datenverarbeitungssystem ausreichend, wenn der Steuerpflichtige nach Ablauf des fünften Kalenderjahres, das auf die Umstellung oder Auslagerung folgt, diese Daten ausschließlich auf einem maschinell lesbaren und maschinell auswertbaren Datenträger vorhält.
 
-(7) Die Verarbeitung und Aufbewahrung der nach Absatz 6 zur Verfügung gestellten Daten ist auch auf mobilen Datenverarbeitungssystemen der Finanzbehörden unabhängig von deren Einsatzort zulässig, sofern diese unter Berücksichtigung des Stands der Technik gegen unbefugten Zugriff gesichert sind. Die Finanzbehörde darf die nach Absatz 6 zur Verfügung gestellten und gespeicherten Daten bis zur Unanfechtbarkeit der die Daten betreffenden Verwaltungsakte auch auf den mobilen Datenverarbeitungssystemen unabhängig von deren Einsatzort aufbewahren.
+(7) Die Verarbeitung und Aufbewahrung der nach Absatz 6 zur Verfügung gestellten Daten ist auch auf mobilen Datenverarbeitungssystemen der Finanzbehörden unabhängig von deren Einsatzort zulässig. Die Finanzbehörde darf die nach Absatz 6 zur Verfügung gestellten und gespeicherten Daten bis zur Unanfechtbarkeit der die Daten betreffenden Verwaltungsakte auch auf den mobilen Datenverarbeitungssystemen unabhängig von deren Einsatzort aufbewahren.
 
 
 ##### § 147a Vorschriften für die Aufbewahrung von Aufzeichnungen und Unterlagen bestimmter Steuerpflichtiger
@@ -5163,7 +5187,7 @@ abgegeben wurde.
 
 (5) Der Verspätungszuschlag beträgt vorbehaltlich des Satzes 2, der Absätze 8 und 13 Satz 2 für jeden angefangenen Monat der eingetretenen Verspätung 0,25 Prozent der festgesetzten Steuer, mindestens jedoch 10 Euro für jeden angefangenen Monat der eingetretenen Verspätung. Für Steuererklärungen, die sich auf ein Kalenderjahr oder auf einen gesetzlich bestimmten Zeitpunkt beziehen, beträgt der Verspätungszuschlag für jeden angefangenen Monat der eingetretenen Verspätung 0,25 Prozent der um die festgesetzten Vorauszahlungen und die anzurechnenden Steuerabzugsbeträge verminderten festgesetzten Steuer, mindestens jedoch 25 Euro für jeden angefangenen Monat der eingetretenen Verspätung. Wurde ein Erklärungspflichtiger von der Finanzbehörde erstmals nach Ablauf der gesetzlichen Erklärungsfrist zur Abgabe einer Steuererklärung innerhalb einer dort bezeichneten Frist aufgefordert und konnte er bis zum Zugang dieser Aufforderung davon ausgehen, keine Steuererklärung abgeben zu müssen, so ist der Verspätungszuschlag nur für die Monate zu berechnen, die nach dem Ablauf der in der Aufforderung bezeichneten Erklärungsfrist begonnen haben.
 
-(6) Für Erklärungen zur gesonderten Feststellung von Besteuerungsgrundlagen, für Erklärungen zur Festsetzung des Gewerbesteuermessbetrags und für Zerlegungserklärungen gelten vorbehaltlich des Absatzes 7 die Absätze 1 bis 3 und Absatz 4 Satz 1 und 2 entsprechend. Der Verspätungszuschlag beträgt für jeden angefangenen Monat der eingetretenen Verspätung 25 Euro.
+(6) Für Erklärungen zur gesonderten Feststellung von Besteuerungsgrundlagen, für Erklärungen zur Festsetzung des Gewerbesteuermessbetrags und für Zerlegungserklärungen gelten vorbehaltlich des Absatzes 7 die Absätze 1, 2 und 3 Nummer 1 sowie Absatz 4 Satz 1 und 2 entsprechend. Der Verspätungszuschlag beträgt für jeden angefangenen Monat der eingetretenen Verspätung 25 Euro.
 
 (7) Für Erklärungen zu gesondert festzustellenden einkommensteuerpflichtigen oder körperschaftsteuerpflichtigen Einkünften beträgt der Verspätungszuschlag für jeden angefangenen Monat der eingetretenen Verspätung 0,0625 Prozent der positiven Summe der festgestellten Einkünfte, mindestens jedoch 25 Euro für jeden angefangenen Monat der eingetretenen Verspätung.
 
@@ -5651,7 +5675,7 @@ In den Fällen des Satzes 1 Nr. 2 beginnt die Festsetzungsfrist mit Ablauf des K
 
 ###### § 175a Umsetzung von Verständigungsvereinbarungen
 
-Ein Steuerbescheid ist zu erlassen, aufzuheben oder zu ändern, soweit dies zur Umsetzung einer Vorabverständigungsvereinbarung nach § 89a, einer Verständigungsvereinbarung oder eines Schiedsspruchs nach einem Vertrag im Sinne des § 2 geboten ist. Die Festsetzungsfrist endet insoweit nicht vor Ablauf eines Jahres nach dem Wirksamwerden der Verständigungsvereinbarung oder des Schiedsspruchs oder der einvernehmlichen rückwirkenden Anwendung einer Vorabverständigungsvereinbarung.
+Ein Steuerbescheid ist zu erlassen, aufzuheben oder zu ändern, soweit dies zur Umsetzung einer Vorabverständigungsvereinbarung nach § 89a, einer Verständigungsvereinbarung oder eines Schiedsspruchs nach einem Vertrag im Sinne des § 2 Absatz 1 geboten ist. Verbindliche Auskünfte nach § 89, verbindliche Zusagen nach § 204 oder rechtlich bindende Vereinbarungen zwischen dem Steuerpflichtigen und der Finanzverwaltung stehen dem nicht entgegen. Die Festsetzungsfrist endet insoweit nicht vor Ablauf eines Jahres nach dem Wirksamwerden der Verständigungsvereinbarung oder des Schiedsspruchs oder der einvernehmlichen rückwirkenden Anwendung einer Vorabverständigungsvereinbarung.
 
 
 ###### § 175b Änderung von Steuerbescheiden bei Datenübermittlung durch Dritte
@@ -5662,7 +5686,7 @@ Ein Steuerbescheid ist zu erlassen, aufzuheben oder zu ändern, soweit dies zur 
 
 (3) Ist eine Einwilligung des Steuerpflichtigen in die Übermittlung von Daten im Sinne des § 93c an die Finanzbehörden Voraussetzung für die steuerliche Berücksichtigung der Daten, so ist ein Steuerbescheid aufzuheben oder zu ändern, soweit die Einwilligung nicht vorliegt.
 
-(4) Die Absätze 1 und 2 gelten nicht, wenn nachträglich übermittelte Daten im Sinne des § 93c Absatz 1 oder 3 nicht rechtserheblich sind.
+(4) Die Absätze 1 und 2 gelten nicht, wenn Daten nach § 93c Absatz 1 oder Absatz 3 nicht rechtserheblich sind.
 
 
 ###### § 176 Vertrauensschutz bei der Aufhebung und Änderung von Steuerbescheiden
@@ -6115,7 +6139,7 @@ Die Prüfer haben sich bei Erscheinen unverzüglich auszuweisen. Der Beginn der 
 
 (1) Der Steuerpflichtige hat bei der Feststellung der Sachverhalte, die für die Besteuerung erheblich sein können, mitzuwirken. Er hat insbesondere Auskünfte zu erteilen, Aufzeichnungen, Bücher, Geschäftspapiere und andere Urkunden zur Einsicht und Prüfung vorzulegen, die zum Verständnis der Aufzeichnungen erforderlichen Erläuterungen zu geben und die Finanzbehörde bei Ausübung ihrer Befugnisse nach § 147 Abs. 6 zu unterstützen. Sind der Steuerpflichtige oder die von ihm benannten Personen nicht in der Lage, Auskünfte zu erteilen, oder sind die Auskünfte zur Klärung des Sachverhalts unzureichend oder versprechen Auskünfte des Steuerpflichtigen keinen Erfolg, so kann der Außenprüfer auch andere Betriebsangehörige um Auskunft ersuchen. § 93 Absatz 2 Satz 2 gilt nicht.
 
-(2) Die in Absatz 1 genannten Unterlagen hat der Steuerpflichtige in seinen Geschäftsräumen oder, soweit ein zur Durchführung der Außenprüfung geeigneter Geschäftsraum nicht vorhanden ist, in seinen Wohnräumen oder an Amtsstelle vorzulegen. Sind mobile Endgeräte der Außenprüfer unter Berücksichtigung des Stands der Technik gegen unbefugten Zugriff gesichert, gilt die ortsunabhängige Tätigkeit als an Amtsstelle ausgeübt. Ein zur Durchführung der Außenprüfung geeigneter Raum oder Arbeitsplatz sowie die erforderlichen Hilfsmittel sind unentgeltlich zur Verfügung zu stellen. § 147 Absatz 6 und 7 bleibt unberührt.
+(2) Die in Absatz 1 genannten Unterlagen hat der Steuerpflichtige in seinen Geschäftsräumen oder, soweit ein zur Durchführung der Außenprüfung geeigneter Geschäftsraum nicht vorhanden ist, in seinen Wohnräumen oder an Amtsstelle vorzulegen. Werden mobile Endgeräte in der Außenprüfung eingesetzt, gilt die ortsunabhängige Tätigkeit als an Amtsstelle ausgeübt. Ein zur Durchführung der Außenprüfung geeigneter Raum oder Arbeitsplatz sowie die erforderlichen Hilfsmittel sind unentgeltlich zur Verfügung zu stellen. § 147 Absatz 6 und 7 bleibt unberührt.
 
 (3) Die Außenprüfung findet während der üblichen Geschäfts- oder Arbeitszeit statt. Die Prüfer sind berechtigt, Grundstücke und Betriebsräume zu betreten und zu besichtigen. Bei der Betriebsbesichtigung soll der Betriebsinhaber oder sein Beauftragter hinzugezogen werden.
 
@@ -6257,7 +6281,7 @@ Der Zuschlag zum Mitwirkungsverzögerungsgeld beträgt höchstens 25 000 Euro f
 
 
 
-Die mit der Steuerfahndung betrauten Dienststellen der Landesfinanzbehörden und die Behörden des Zollfahndungsdienstes haben außer den Befugnissen nach § 404 Satz 2 erster Halbsatz auch die Ermittlungsbefugnisse, die den Finanzämtern (Hauptzollämtern) zustehen. In den Fällen der Nummern 2 und 3 gelten die Einschränkungen des § 93 Abs. 1 Satz 3, Abs. 2 Satz 2 und des § 97 Absatz 2 nicht; § 200 Abs. 1 Satz 1 und 2, Abs. 2, Abs. 3 Satz 1 und 2 gilt sinngemäß, § 393 Abs. 1 bleibt unberührt.
+Die mit der Steuerfahndung betrauten Dienststellen der Landesfinanzbehörden und die Behörden des Zollfahndungsdienstes haben außer den Befugnissen nach § 404 Absatz 2 auch die Ermittlungsbefugnisse, die den Finanzämtern (Hauptzollämtern) zustehen. In den Fällen der Nummern 2 und 3 gelten die Einschränkungen des § 93 Abs. 1 Satz 3, Abs. 2 Satz 2 und des § 97 Absatz 2 nicht; § 200 Abs. 1 Satz 1 und 2, Abs. 2, Abs. 3 Satz 1 und 2 gilt sinngemäß, § 393 Abs. 1 bleibt unberührt.
 
 (2) Unabhängig von Absatz 1 sind die mit der Steuerfahndung betrauten Dienststellen der Landesfinanzbehörden und die Behörden des Zollfahndungsdienstes zuständig
 
@@ -6657,7 +6681,7 @@ Ansprüche aus dem Steuerschuldverhältnis (§ 37) werden nur verzinst, soweit d
 
 ##### § 234 Stundungszinsen
 
-(1) Für die Dauer einer gewährten Stundung von Ansprüchen aus dem Steuerschuldverhältnis werden Zinsen erhoben. Wird der Steuerbescheid nach Ablauf der Stundung aufgehoben, geändert oder nach § 129 berichtigt, so bleiben die bis dahin entstandenen Zinsen unberührt.
+(1) Für die Dauer einer gewährten Stundung von Ansprüchen aus dem Steuerschuldverhältnis werden Zinsen erhoben; für Haftungsansprüche gilt dies nur, soweit sich die Haftung auf Steuern und zurückzuzahlende Steuervergütungen erstreckt. Wird der Steuer- oder Haftungsbescheid nach Ablauf der Stundung aufgehoben, geändert oder nach § 129 berichtigt, so bleiben die bis dahin entstandenen Zinsen unberührt.
 
 (2) Auf die Zinsen kann ganz oder teilweise verzichtet werden, wenn ihre Erhebung nach Lage des einzelnen Falls unbillig wäre.
 
@@ -6674,10 +6698,31 @@ Ansprüche aus dem Steuerschuldverhältnis (§ 37) werden nur verzinst, soweit d
 
 (4) Zinsen nach § 233a, die für denselben Zeitraum festgesetzt wurden, sind anzurechnen.
 
+(5) Bei hinterzogenen Vorauszahlungen sind die Absätze 3 und 4 mit folgenden Maßgaben anzuwenden:
+
+1.  wurde die hinterzogene Vorauszahlung vor Festsetzung der Steuer entrichtet, auf die diese Vorauszahlung anzurechnen ist oder wäre, endet der Zinslauf mit der Zahlung der hinterzogenen Vorauszahlung;
+
+
+2.  wurde die hinterzogene Vorauszahlung nicht vor Festsetzung der Steuer entrichtet, auf die diese Vorauszahlung anzurechnen ist oder wäre, gilt Folgendes:
+
+    a)  wurde diese Steuer nicht hinterzogen, endet der Zinslauf für die Vorauszahlung mit Zahlung dieser Steuer, spätestens aber mit der Fälligkeit dieser Steuer;
+
+
+    b)  wurde diese Steuer ebenfalls hinterzogen, endet der Zinslauf für die Vorauszahlung mit Beginn des Zinslaufs für die hinterzogene Steuer;
+
+
+
+
+
+3.  Zinsen nach § 233a, die zu der Steuer festgesetzt wurden, auf die die hinterzogene Vorauszahlung anzurechnen ist oder wäre, sind auf Zinsen zur hinterzogenen Vorauszahlung anzurechnen, soweit sie denselben Zinsberechnungszeitraum betreffen.
+
+
+
+
 
 ##### § 236 Prozesszinsen auf Erstattungsbeträge
 
-(1) Wird durch eine rechtskräftige gerichtliche Entscheidung oder auf Grund  einer solchen Entscheidung eine festgesetzte Steuer herabgesetzt oder eine Steuervergütung gewährt, so ist der zu erstattende oder zu vergütende Betrag vorbehaltlich des Absatzes 3 vom Tag der Rechtshängigkeit an bis zum Auszahlungstag zu verzinsen. Ist der zu erstattende Betrag erst nach Eintritt der Rechtshängigkeit entrichtet worden, so beginnt die Verzinsung mit dem Tag der Zahlung.
+(1) Wird durch eine rechtskräftige gerichtliche Entscheidung oder auf Grund einer solchen Entscheidung eine festgesetzte Steuer herabgesetzt oder eine Steuervergütung gewährt, so ist der zu erstattende oder zu vergütende Betrag vorbehaltlich des Absatzes 3 vom Tag der Rechtshängigkeit an bis zum Auszahlungstag zu verzinsen. Ist der zu erstattende Betrag erst nach Eintritt der Rechtshängigkeit entrichtet worden, so beginnt die Verzinsung mit dem Tag der Zahlung.
 
 (2) Absatz 1 ist entsprechend anzuwenden, wenn
 
@@ -6704,6 +6749,8 @@ Ansprüche aus dem Steuerschuldverhältnis (§ 37) werden nur verzinst, soweit d
 (4) Zinsen nach § 233a, die für denselben Zeitraum festgesetzt wurden, sind anzurechnen.
 
 (5) Ein Zinsbescheid ist nicht aufzuheben oder zu ändern, wenn der Steuerbescheid nach Abschluss des Rechtsbehelfsverfahrens aufgehoben, geändert oder nach § 129 berichtigt wird.
+
+(6) Die Absätze 1 bis 5 gelten für festgesetzte Haftungsansprüche entsprechend, soweit sich die Haftung auf Steuern und zurückzuzahlende Steuervergütungen erstreckt.
 
 
 ##### § 237 Zinsen bei Aussetzung der Vollziehung
@@ -6747,7 +6794,7 @@ Ansprüche aus dem Steuerschuldverhältnis (§ 37) werden nur verzinst, soweit d
 3.  in den Fällen des § 235 mit Ablauf des Kalenderjahrs, in dem die Festsetzung der hinterzogenen Steuern unanfechtbar geworden ist, jedoch nicht vor Ablauf des Kalenderjahrs, in dem ein eingeleitetes Strafverfahren rechtskräftig abgeschlossen worden ist,
 
 
-4.  in den Fällen des § 236 mit Ablauf des Kalenderjahrs, in dem die Steuer erstattet oder die Steuervergütung ausgezahlt worden ist,
+4.  in den Fällen des § 236 mit Ablauf des Kalenderjahrs, in dem die Steuer oder der Haftungsbetrag erstattet oder die Steuervergütung ausgezahlt worden ist,
 
 
 5.  in den Fällen des § 237 mit Ablauf des Kalenderjahrs, in dem ein Einspruch oder eine Anfechtungsklage endgültig erfolglos geblieben ist, und
@@ -8509,13 +8556,15 @@ und dadurch ermöglicht, Steuern zu verkürzen oder nicht gerechtfertigte Steuer
 
 (3) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer Auflage nach § 120 Abs. 2 Nr. 4 zuwiderhandelt, die einem Verwaltungsakt für Zwecke der besonderen Steueraufsicht (§§ 209 bis 217) beigefügt worden ist.
 
-(4) Die Ordnungswidrigkeit nach Absatz 1 Satz 1 Nummer 1, 2 und 8, Absatz 2 Nummer 1a, 1b und 2 sowie Absatz 3 kann mit einer Geldbuße bis zu 5 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
+(4) Die Ordnungswidrigkeit nach Absatz 1 Satz 1 Nummer 1, 2 und 8, Absatz 2 Nummer 1a und 2 sowie Absatz 3 kann mit einer Geldbuße bis zu 5 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
 
 (5) Die Ordnungswidrigkeit nach Absatz 2 Nummer 1c kann mit einer Geldbuße bis zu 10 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
 
 (6) Die Ordnungswidrigkeit nach Absatz 1 Satz 1 Nummer 3 bis 7 und Absatz 2 Nummer 1h und 1i kann mit einer Geldbuße bis zu 25 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
 
 (7) Die Ordnungswidrigkeit nach Absatz 2 Nummer 1, 1d, 1e und 1g kann mit einer Geldbuße bis zu 25 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
+
+(8) Die Ordnungswidrigkeit nach Absatz 2 Nummer 1b kann mit einer Geldbuße bis zu 30 000 Euro geahndet werden, wenn die Handlung nicht nach § 378 geahndet werden kann.
 
 
 #### § 380 Gefährdung der Abzugsteuern
@@ -8829,7 +8878,9 @@ Die Finanzbehörde kann den Antrag stellen, die Einziehung selbständig anzuordn
 
 ###### § 404 Steuer- und Zollfahndung
 
-Die Behörden des Zollfahndungsdienstes und die mit der Steuerfahndung betrauten Dienststellen der Landesfinanzbehörden sowie ihre Beamten haben im Strafverfahren wegen Steuerstraftaten dieselben Rechte und Pflichten wie die Behörden und Beamten des Polizeidienstes nach den Vorschriften der Strafprozessordnung. Die in Satz 1 bezeichneten Stellen haben die Befugnisse nach § 399 Abs. 2 Satz 2 sowie die Befugnis zur Durchsicht der Papiere des von der Durchsuchung Betroffenen (§ 110 Abs. 1 der Strafprozessordnung); ihre Beamten sind Ermittlungspersonen der Staatsanwaltschaft.
+(1) Die Behörden des Zollfahndungsdienstes und die mit der Steuerfahndung betrauten Dienststellen der Landesfinanzbehörden sowie ihre Beamten haben im Strafverfahren wegen Steuerstraftaten dieselben Rechte und Pflichten wie die Behörden und Beamten des Polizeidienstes nach den Vorschriften der Strafprozessordnung. Ihre Beamten sind Ermittlungspersonen der Staatsanwaltschaft.
+
+(2) Die in Absatz 1 Satz 1 bezeichneten Stellen haben die Befugnisse nach § 399 Absatz 2 Satz 2 sowie die Befugnis zur Durchsicht der Papiere und elektronischen Speichermedien des von der Durchsuchung Betroffenen. § 110 Absatz 3 Satz 2 und 3 und Absatz 4 der Strafprozessordnung gilt entsprechend.
 
 
 ##### V. - Entschädigung der Zeugen und der Sachverständigen
@@ -8905,7 +8956,7 @@ Bei Steuerordnungswidrigkeiten ist zuständige Verwaltungsbehörde im Sinne des 
 8.  die §§ 402, 403 Abs. 1, 3 und 4 über die Stellung der Finanzbehörde im Verfahren der Staatsanwaltschaft,
 
 
-9.  § 404 Satz 1 und Satz 2 erster Halbsatz über die Steuer- und Zollfahndung,
+9.  § 404 Absatz 1 Satz 1 und Absatz 2 über die Steuer- und Zollfahndung,
 
 
 10. § 405 über die Entschädigung der Zeugen und der Sachverständigen,

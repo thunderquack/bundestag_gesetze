@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 28 G v. 27.3.2024 I Nr. 108
 
 Änderung durch
-:   Art. 34 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+:   Art. 34 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Steuerpflicht
@@ -303,12 +303,16 @@ Zweckzuwendungen sind Zuwendungen von Todes wegen oder freigebige Zuwendungen un
 2.  Verbindlichkeiten aus Vermächtnissen, Auflagen und geltend gemachten Pflichtteilen und Erbersatzansprüchen;
 
 
-3.  die Kosten der Bestattung des Erblassers, die Kosten für ein angemessenes Grabdenkmal, die Kosten für die übliche Grabpflege mit ihrem Kapitalwert für eine unbestimmte Dauer sowie die Kosten, die dem Erwerber unmittelbar im Zusammenhang mit der Abwicklung, Regelung oder Verteilung des Nachlasses oder mit der Erlangung des Erwerbs entstehen. Für diese Kosten wird insgesamt ein Betrag von 10 300 Euro ohne Nachweis abgezogen. Kosten für die Verwaltung des Nachlasses sind nicht abzugsfähig.
+3.  die Kosten der Bestattung des Erblassers, die Kosten für ein angemessenes Grabdenkmal, die Kosten für die übliche Grabpflege mit ihrem Kapitalwert für eine unbestimmte Dauer sowie die Kosten, die dem Erwerber unmittelbar im Zusammenhang mit der Abwicklung, Regelung oder Verteilung des Nachlasses oder mit der Erlangung des Erwerbs entstehen. Für diese Kosten wird insgesamt ein Betrag von 15 000 Euro ohne Nachweis abgezogen. Kosten für die Verwaltung des Nachlasses sind nicht abzugsfähig.
 
 
 
 
-(6) Nicht abzugsfähig sind Schulden und Lasten, soweit sie in wirtschaftlichem Zusammenhang mit Vermögensgegenständen stehen, die nicht der Besteuerung nach diesem Gesetz unterliegen. Beschränkt sich die Besteuerung auf einzelne Vermögensgegenstände (§ 2 Abs. 1 Nr. 3, § 19 Abs. 2), so sind nur die damit in wirtschaftlichem Zusammenhang stehenden Schulden und Lasten abzugsfähig. Schulden und Lasten sind nicht abzugsfähig, soweit die Vermögensgegenstände, mit denen diese in wirtschaftlichem Zusammenhang stehen, steuerbefreit sind. Schulden und Lasten, die mit nach den §§ 13a und 13c befreitem Vermögen in wirtschaftlichem Zusammenhang stehen, sind nur mit dem Betrag abzugsfähig, der dem Verhältnis des nach Anwendung der §§ 13a und 13c anzusetzenden Werts dieses Vermögens zu dem Wert vor Anwendung der §§ 13a und 13c entspricht. Schulden und Lasten, die nicht in wirtschaftlichem Zusammenhang mit einzelnen Vermögensgegenständen des Erwerbs stehen, sind anteilig allen Vermögensgegenständen des Erwerbs zuzurechnen. Dies gilt nicht für Kosten im Sinne des Absatzes 5 Nummer 3. Der jeweilige Anteil bemisst sich nach dem Verhältnis des Werts des Vermögensgegenstands nach Abzug der mit diesem Vermögensgegenstand in wirtschaftlichem Zusammenhang stehenden Schulden und Lasten zum Gesamtwert der Vermögensgegenstände nach Abzug aller mit diesen Vermögensgegenständen in wirtschaftlichem Zusammenhang stehenden Schulden und Lasten. In den Fällen einer Steuerbefreiung nach den §§ 13a und 13c ist bei Anwendung der Sätze 5 bis 7 nicht auf den einzelnen Vermögensgegenstand, sondern auf die Summe der begünstigten Vermögen im Sinne des § 13b Absatz 2 abzustellen. Der auf den einzelnen Vermögensgegenstand entfallende Anteil an den Schulden und Lasten im Sinne des Satzes 5 ist nicht abzugsfähig, soweit dieser Vermögensgegenstand steuerbefreit ist. Die auf das nach den §§ 13a und 13c befreite Vermögen entfallenden Schulden und Lasten im Sinne der Sätze 5 bis 8 sind nur mit dem Betrag abzugsfähig, der dem Verhältnis des nach Anwendung der §§ 13a und 13c anzusetzenden Werts dieses Vermögens zu dem Wert vor Anwendung der §§ 13a und 13c entspricht. Haben sich Nutzungsrechte als Grundstücksbelastungen bei der Ermittlung des gemeinen Werts einer wirtschaftlichen Einheit des Grundbesitzes ausgewirkt, ist deren Abzug bei der Erbschaftsteuer ausgeschlossen.
+(6) Nicht abzugsfähig sind Schulden und Lasten, soweit sie in wirtschaftlichem Zusammenhang mit Vermögensgegenständen stehen, die nicht der Besteuerung nach diesem Gesetz unterliegen. Beschränkt sich die Besteuerung auf einzelne Vermögensgegenstände (§ 2 Absatz 1 Nummer 3, § 19 Absatz 2), so sind die damit in wirtschaftlichem Zusammenhang stehenden Schulden und Lasten abzugsfähig. Schulden und Lasten, die nicht in wirtschaftlichem Zusammenhang mit einzelnen Vermögensgegenständen des Erwerbs stehen, sind in Fällen der beschränkten Steuerpflicht anteilig abzugsfähig. Der abzugsfähige Anteil bemisst sich nach dem Verhältnis des Werts des der Besteuerung nach diesem Gesetz unterliegenden Vermögens nach Abzug der mit diesem Vermögen in wirtschaftlichem Zusammenhang stehenden Schulden und Lasten zum Gesamtwert des erworbenen Vermögens nach Abzug aller mit diesem Vermögen in wirtschaftlichem Zusammenhang stehenden Schulden und Lasten. Dies gilt auch für Kosten im Sinne des Absatzes 5 Nummer 3 Satz 1. Absatz 5 Nummer 3 Satz 2 bleibt unberührt.
+
+(6a) Schulden und Lasten sind nicht abzugsfähig, soweit die Vermögensgegenstände, mit denen sie in wirtschaftlichem Zusammenhang stehen, steuerbefreit sind. Schulden und Lasten, die mit nach den §§ 13a und 13c befreitem Vermögen in wirtschaftlichem Zusammenhang stehen, sind nur mit dem Betrag abzugsfähig, der dem Verhältnis des nach Anwendung der §§ 13a und 13c anzusetzenden Werts dieses Vermögens zu dem Wert vor Anwendung der §§ 13a und 13c entspricht. Schulden und Lasten, die nicht in wirtschaftlichem Zusammenhang mit einzelnen Vermögensgegenständen des Erwerbs stehen, sind anteilig allen Vermögensgegenständen des Erwerbs zuzurechnen. Dies gilt nicht für Kosten im Sinne des Absatzes 5 Nummer 3. Der jeweilige Anteil bemisst sich nach dem Verhältnis des Werts des Vermögensgegenstands nach Abzug der mit diesem Vermögensgegenstand in wirtschaftlichem Zusammenhang stehenden Schulden und Lasten zum Gesamtwert der Vermögensgegenstände nach Abzug aller mit diesen Vermögensgegenständen in wirtschaftlichem Zusammenhang stehenden Schulden und Lasten. In den Fällen einer Steuerbefreiung nach den §§ 13a und 13c ist bei Anwendung der Sätze 3 bis 5 nicht auf den einzelnen Vermögensgegenstand, sondern auf die Summe der begünstigten Vermögen im Sinne des § 13b Absatz 2 abzustellen. Der auf den einzelnen Vermögensgegenstand entfallende Anteil an den Schulden und Lasten im Sinne des Satzes 3 ist nicht abzugsfähig, soweit dieser Vermögensgegenstand steuerbefreit ist. Die auf das nach den §§ 13a und 13c befreite Vermögen entfallenden Schulden und Lasten im Sinne der Sätze 3 bis 6 sind nur mit dem Betrag abzugsfähig, der dem Verhältnis des nach Anwendung der §§ 13a und 13c anzusetzenden Werts dieses Vermögens zu dem Wert vor Anwendung der §§ 13a und 13c entspricht.
+
+(6b) Haben sich grundstücksbezogene Belastungen bei der Ermittlung des gemeinen Werts einer wirtschaftlichen Einheit des Grundbesitzes ausgewirkt, ist deren Abzug bei der Erbschaftsteuer ausgeschlossen.
 
 (7) In den Fällen des § 1 Abs. 1 Nr. 4 sind Leistungen an die nach der Stiftungsurkunde oder nach der Vereinssatzung Berechtigten nicht abzugsfähig.
 
@@ -474,7 +478,18 @@ Für die Wertermittlung ist, soweit in diesem Gesetz nichts anderes bestimmt ist
     b)  an inländische Körperschaften, Personenvereinigungen und Vermögensmassen, die nach der Satzung, dem Stiftungsgeschäft oder der sonstigen Verfassung und nach ihrer tatsächlichen Geschäftsführung ausschließlich und unmittelbar kirchlichen, gemeinnützigen oder mildtätigen Zwecken im Sinne der §§ 52 bis 54 der Abgabenordnung dienen. Die Befreiung fällt mit Wirkung für die Vergangenheit weg, wenn die Voraussetzungen für die Anerkennung der Körperschaft, Personenvereinigung oder Vermögensmasse als kirchliche, gemeinnützige oder mildtätige Institution innerhalb von zehn Jahren nach der Zuwendung entfallen und das Vermögen nicht begünstigten Zwecken zugeführt wird,
 
 
-    c)  an ausländische Religionsgesellschaften, Körperschaften, Personenvereinigungen und Vermögensmassen der in den Buchstaben a und b bezeichneten Art, die nach § 5 Absatz 1 Nummer 9 des Körperschaftsteuergesetzes in Verbindung mit § 5 Absatz 2 Nummer 2 zweiter Halbsatz des Körperschaftsteuergesetzes steuerbefreit wären, wenn sie inländische Einkünfte erzielen würden, und wenn durch die Staaten, in denen die Zuwendungsempfänger belegen sind, Amtshilfe und Unterstützung bei der Beitreibung geleistet werden. Amtshilfe ist der Auskunftsaustausch im Sinne oder entsprechend der Amtshilferichtlinie gemäß § 2 Absatz 11 des EU-Amtshilfegesetzes in der für den jeweiligen Stichtag der Steuerentstehung geltenden Fassung oder eines entsprechenden Nachfolgerechtsaktes. Beitreibung ist die gegenseitige Unterstützung bei der Beitreibung von Forderungen im Sinne oder entsprechend der Beitreibungsrichtlinie einschließlich der in diesem Zusammenhang anzuwendenden Durchführungsbestimmungen in den für den jeweiligen Stichtag der Steuerentstehung geltenden Fassungen oder eines entsprechenden Nachfolgerechtsaktes. Werden die steuerbegünstigten Zwecke des Zuwendungsempfängers im Sinne des Satzes 1 nur im Ausland verwirklicht, ist für die Steuerbefreiung Voraussetzung, dass natürliche Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt im Geltungsbereich dieses Gesetzes haben, gefördert werden oder dass die Tätigkeit dieses Zuwendungsempfängers neben der Verwirklichung der steuerbegünstigten Zwecke auch zum Ansehen der Bundesrepublik Deutschland beitragen kann. Buchstabe b Satz 2 gilt entsprechend;
+    c)  an ausländische Religionsgesellschaften, Körperschaften, Personenvereinigungen und Vermögensmassen der in den Buchstaben a und b bezeichneten Art, die nach § 5 Absatz 1 Nummer 9 in Verbindung mit Absatz 2 Nummer 2 zweiter Halbsatz des Körperschaftsteuergesetzes steuerbefreit wären, wenn sie inländische Einkünfte erzielen würden, und wenn die Staaten, in den die Zuwendungsempfänger belegen sind, auf Grund völkervertraglicher Abkommen oder Übereinkommen verpflichtet sind, der Bundesrepublik Deutschland
+
+        aa) entsprechend dem OECD-Standard für Transparenz und effektiven Informationsaustausch auf Ersuchen im Sinne des § 4 Absatz 2 Nummer 2 in Verbindung mit Absatz 4 Satz 1 des Steueroasen-Abwehrgesetzes in Bezug auf die Erbschaftsteuer Amtshilfe zu leisten sowie
+
+
+        bb)[^F831909_02_BJNR109330974BJNE002719123]
+ Amtshilfe bei der Beitreibung gemäß einem dem Artikel 27 des OECD-Musterabkommens 2017 zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
+            entsprechenden Artikel in einem Abkommen zur Vermeidung der Doppelbesteuerung in Bezug auf die Erbschaftsteuer zu leisten.
+
+
+
+        Das Bundesministerium der Finanzen veröffentlicht im Bundessteuerblatt Teil I eine Liste der Drittstaaten, die die Voraussetzungen nach Satz 1 zweiter Halbsatz erfüllen. Werden die steuerbegünstigten Zwecke des Zuwendungsempfängers im Sinne des Satzes 1 nur im Ausland verwirklicht, ist für die Steuerbefreiung Voraussetzung, dass natürliche Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt im Geltungsbereich dieses Gesetzes haben, gefördert werden oder dass die Tätigkeit dieses Zuwendungsempfängers neben der Verwirklichung der steuerbegünstigten Zwecke auch zum Ansehen der Bundesrepublik Deutschland beitragen kann. Buchstabe b Satz 2 gilt entsprechend;
 
 
 
@@ -511,6 +526,8 @@ Für die Wertermittlung ist, soweit in diesem Gesetz nichts anderes bestimmt ist
 (2) Angemessen im Sinne des Absatzes 1 Nr. 5 und 12 ist eine Zuwendung, die den Vermögensverhältnissen und der Lebensstellung des Bedachten entspricht. Eine dieses Maß übersteigende Zuwendung ist in vollem Umfang steuerpflichtig.
 
 (3) Jede Befreiungsvorschrift ist für sich anzuwenden. In den Fällen des Absatzes 1 Nr. 2 und 3 kann der Erwerber der Finanzbehörde bis zur Unanfechtbarkeit der Steuerfestsetzung erklären, daß er auf die Steuerbefreiung verzichtet.
+
+[^F831909_02_BJNR109330974BJNE002719123]:     Amtlicher Hinweis: Dieses Dokument ist im Internet abrufbar unter www.bzst.de/DE/Behoerden/             InternationaleAmtshilfe/AmtshilfeBeitreibung             Zustellung/amtshilfe\_beitreibung\_zustellung\_node.html
 
 
 ### § 13a Steuerbefreiung für Betriebsvermögen, Betriebe der Land- und Forstwirtschaft und Anteile an Kapitalgesellschaften
@@ -572,7 +589,7 @@ diese im Zeitpunkt der Entstehung der Steuer (§ 9) einem Betrieb zuzurechnenden
 3.  als Inhaber eines Gewerbebetriebs, als Gesellschafter einer Gesellschaft im Sinne des § 97 Absatz 1 Satz 1 Nummer 5 Satz 1 des Bewertungsgesetzes oder als persönlich haftender Gesellschafter einer Kommanditgesellschaft auf Aktien bis zum Ende des letzten in die Fünfjahresfrist fallenden Wirtschaftsjahres Entnahmen tätigt, die die Summe seiner Einlagen und der ihm zuzurechnenden Gewinne oder Gewinnanteile seit dem Erwerb um mehr als 150 000 Euro übersteigen; Verluste bleiben unberücksichtigt. Gleiches gilt für Inhaber eines begünstigten Betriebs der Land- und Forstwirtschaft oder eines Teilbetriebs oder eines Anteils an einem Betrieb der Land- und Forstwirtschaft. Bei Ausschüttungen an Gesellschafter einer Kapitalgesellschaft ist sinngemäß zu verfahren;
 
 
-4.  Anteile an Kapitalgesellschaften im Sinne des § 13b Absatz 1 Nummer 3 ganz oder teilweise veräußert; eine verdeckte Einlage der Anteile in eine Kapitalgesellschaft steht der Veräußerung der Anteile gleich. Gleiches gilt, wenn die Kapitalgesellschaft innerhalb der Frist aufgelöst oder ihr Nennkapital herabgesetzt wird, wenn diese wesentliche Betriebsgrundlagen veräußert und das Vermögen an die Gesellschafter verteilt wird; Satz 1 Nummer 1 Satz 2 gilt entsprechend;
+4.  Anteile an Kapitalgesellschaften im Sinne des § 13b Absatz 1 Nummer 3 ganz oder teilweise veräußert; eine verdeckte Einlage der Anteile in eine Kapitalgesellschaft steht der Veräußerung der Anteile gleich. Gleiches gilt, wenn die Kapitalgesellschaft innerhalb der Frist aufgelöst oder ihr Nennkapital herabgesetzt wird, wenn diese wesentliche Betriebsgrundlagen veräußert und das Vermögen an die Gesellschafter verteilt wird; Satz 1 Nummer 1 Satz 2 gilt entsprechend In den Fällen einer insolvenzbedingten Auflösung gilt Satz 2 erste Alternative erst mit der Aufgabe des Betriebs oder soweit wesentliche Betriebsgrundlagen veräußert werden;
 
 
 5.  im Fall des § 13b Absatz 1 Nummer 3 Satz 2 die Verfügungsbeschränkung oder die Stimmrechtsbündelung aufgehoben wird.
@@ -730,15 +747,15 @@ Voraussetzung für die Gewährung der Steuerbefreiung nach Satz 1 ist, dass das 
 
 (2) Ein Erwerber kann den verminderten Wertansatz nicht in Anspruch nehmen, soweit er erworbene Grundstücke auf Grund einer letztwilligen Verfügung des Erblassers oder einer rechtsgeschäftlichen Verfügung des Erblassers oder Schenkers auf einen Dritten übertragen muss. Gleiches gilt, wenn ein Erbe im Rahmen der Teilung des Nachlasses Vermögen im Sinne des Absatzes 3 auf einen Miterben überträgt. Überträgt ein Erbe erworbenes begünstigtes Vermögen im Rahmen der Teilung des Nachlasses auf einen Dritten und gibt der Dritte dabei diesem Erwerber nicht begünstigtes Vermögen hin, das er vom Erblasser erworben hat, erhöht sich insoweit der Wert des begünstigten Vermögens des Dritten um den Wert des hingegebenen Vermögens, höchstens jedoch um den Wert des übertragenen Vermögens.
 
-(3) Der verminderte Wertansatz gilt für bebaute Grundstücke oder Grundstücksteile, die
+(3) Der verminderte Wertansatz gilt für bebaute Grundstücke oder Grundstücksteile,
 
-1.  zu Wohnzwecken vermietet werden,
-
-
-2.  im Inland, in einem Mitgliedstaat der Europäischen Union oder in einem Staat des Europäischen Wirtschaftsraums belegen sind,
+1.  die zu Wohnzwecken vermietet werden,
 
 
-3.  nicht zum begünstigten Betriebsvermögen oder begünstigten Vermögen eines Betriebs der Land- und Forstwirtschaft im Sinne des § 13a gehören.
+2.  bei Belegenheit in einem Drittstaat nur, wenn dieser Drittstaat auf Grund völkervertraglicher Abkommen oder Übereinkommen verpflichtet ist, der Bundesrepublik Deutschland entsprechend dem OECD-Standard für Transparenz und effektiven Informationsaustausch auf Ersuchen im Sinne des § 4 Absatz 2 Nummer 2 in Verbindung mit Absatz 4 Satz 1 des Steueroasen-Abwehrgesetzes in Bezug auf die Erbschaftsteuer Amtshilfe zu leisten; das Bundesministerium der Finanzen veröffentlicht im Bundessteuerblatt Teil I eine Liste der Drittstaaten, die diese Voraussetzungen erfüllen,
+
+
+3.  die nicht zum begünstigten Betriebsvermögen oder begünstigten Vermögen eines Betriebs der Land- und Forstwirtschaft im Sinne des § 13a gehören.
 
 
 
@@ -867,7 +884,7 @@ alle übrigen Erwerber und die Zweckzuwendungen.
 
 Stehen dem Kind aus Anlaß des Todes des Erblassers nicht der Erbschaftsteuer unterliegende Versorgungsbezüge zu, wird der Freibetrag um den nach § 13 Abs. 1 des Bewertungsgesetzes zu ermittelnden Kapitalwert dieser Versorgungsbezüge gekürzt. Bei der Berechnung des Kapitalwerts ist von der nach den Verhältnissen am Stichtag (§ 11) voraussichtlichen Dauer der Bezüge auszugehen.
 
-(3) In den Fällen der beschränkten Steuerpflicht (§ 2 Absatz 1 Nummer 3) wird der besondere Versorgungsfreibetrag nach Absatz 1 oder 2 gewährt, wenn durch die Staaten, in denen der Erblasser ansässig war oder der Erwerber ansässig ist, Amtshilfe geleistet wird. Amtshilfe ist der Auskunftsaustausch im Sinne oder entsprechend der Amtshilferichtlinie gemäß § 2 Absatz 11 des EU-Amtshilfegesetzes in der für den jeweiligen Stichtag der Steuerentstehung geltenden Fassung oder eines entsprechenden Nachfolgerechtsaktes.
+(3) In den Fällen der beschränkten Steuerpflicht (§ 2 Absatz 1 Nummer 3) wird der besondere Versorgungsfreibetrag nach Absatz 1 oder 2 gewährt, wenn die Staaten, in denen der Erblasser ansässig war oder der Erwerber ansässig ist, auf Grund völkervertraglicher Abkommen oder Übereinkommen verpflichtet sind, der Bundesrepublik Deutschland entsprechend dem OECD-Standard für Transparenz und effektiven Informationsaustausch auf Ersuchen im Sinne des § 4 Absatz 2 Nummer 2 in Verbindung mit Absatz 4 Satz 1 des Steueroasen-Abwehrgesetzes in Bezug auf die Erbschaftsteuer Amtshilfe zu leisten. Das Bundesministerium der Finanzen veröffentlicht im Bundessteuerblatt Teil I eine Liste der Drittstaaten, die die Voraussetzungen nach Satz 1 erfüllen.
 
 
 ### § 18 Mitgliederbeiträge
@@ -980,7 +997,7 @@ des die Wertgrenze übersteigenden Betrags gedeckt werden kann.
 
 (2) Der Entlastungsbetrag gilt für den nicht unter § 13a Absatz 1 oder § 13c fallenden Teil des Vermögens im Sinne des § 13b Absatz 2. Ein Erwerber kann den Entlastungsbetrag nicht in Anspruch nehmen, soweit er Vermögen im Sinne des Satzes 1 auf Grund einer letztwilligen Verfügung des Erblassers oder einer rechtsgeschäftlichen Verfügung des Erblassers oder Schenkers auf einen Dritten übertragen muss. Gleiches gilt, wenn ein Erbe im Rahmen der Teilung des Nachlasses Vermögen im Sinne des Satzes 1 auf einen Miterben überträgt.
 
-(3) Der auf das Vermögen im Sinne des Absatzes 2 entfallende Anteil an der tariflichen Erbschaftsteuer bemisst sich nach dem Verhältnis des Werts dieses Vermögens nach Anwendung des § 13a oder § 13c und nach Abzug der mit diesem Vermögen in wirtschaftlichem Zusammenhang stehenden abzugsfähigen Schulden und Lasten (§ 10 Absatz 5 und 6) zum Wert des gesamten Vermögensanfalls im Sinne des § 10 Absatz 1 Satz 1 und 2 nach Abzug der mit diesem Vermögen in wirtschaftlichem Zusammenhang stehenden abzugsfähigen Schulden und Lasten (§ 10 Absatz 5 und 6).
+(3) Der auf das Vermögen im Sinne des Absatzes 2 entfallende Anteil an der tariflichen Erbschaftsteuer bemisst sich nach dem Verhältnis des Werts dieses Vermögens nach Anwendung des § 13a oder § 13c und nach Abzug der mit diesem Vermögen in wirtschaftlichem Zusammenhang stehenden abzugsfähigen Schulden und Lasten (§ 10 Absatz 5, 6, 6a und 6b) zum Wert des gesamten Vermögensanfalls im Sinne des § 10 Absatz 1 Satz 1 und 2 nach Abzug der mit diesem Vermögen in wirtschaftlichem Zusammenhang stehenden abzugsfähigen Schulden und Lasten (§ 10 Absatz 5, 6, 6a und 6b).
 
 (4) Zur Ermittlung des Entlastungsbetrags ist für den steuerpflichtigen Erwerb zunächst die Steuer nach der tatsächlichen Steuerklasse des Erwerbers zu berechnen und nach Maßgabe des Absatzes 3 aufzuteilen. Für den steuerpflichtigen Erwerb ist dann die Steuer nach Steuerklasse I zu berechnen und nach Maßgabe des Absatzes 3 aufzuteilen. Der Entlastungsbetrag ergibt sich als Unterschiedsbetrag zwischen der auf Vermögen im Sinne des Absatzes 2 entfallenden Steuer nach den Sätzen 1 und 2.
 
@@ -1123,7 +1140,20 @@ b)  mit 25 Prozent, wenn seit der Entstehung der anrechenbaren Steuer mehr als z
 
 (2) Absatz 1 findet in den Fällen des § 1 Abs. 1 Nr. 4 entsprechende Anwendung.
 
-(3) Gehört zum Erwerb begünstigtes Vermögen im Sinne des § 13d Absatz 3, ist dem Erwerber die darauf entfallende Erbschaftsteuer auf Antrag bis zu zehn Jahren zu stunden, soweit er die Steuer nur durch Veräußerung dieses Vermögens aufbringen kann. Satz 1 gilt entsprechend, wenn zum Erwerb ein Ein- oder Zweifamilienhaus oder Wohneigentum gehört, das der Erwerber nach dem Erwerb zu eigenen Wohnzwecken nutzt, längstens für die Dauer der Selbstnutzung. Nach Aufgabe der Selbstnutzung ist die Stundung unter den Voraussetzungen des Satzes 1 weiter zu gewähren. Die Stundung endet in den Fällen der Sätze 1 bis 3, soweit das erworbene Vermögen Gegenstand einer Schenkung im Sinne des § 7 ist. Die §§ 234 und 238 der Abgabenordnung sind anzuwenden; bei Erwerben von Todes wegen erfolgt diese Stundung zinslos. § 222 der Abgabenordnung bleibt unberührt.
+(3) Gehört zum Erwerb Grundbesitz, der zu Wohnzwecken genutzt wird, ist dem Erwerber die darauf entfallende Erbschaftsteuer auf Antrag bis zu zehn Jahre zu stunden, soweit der Erwerber die Steuer nur durch Veräußerung dieses Vermögens aufbringen kann. Die Stundung endet, soweit der Grundbesitz auf Dritte übergeht oder dauerhaft keinen Wohnzwecken mehr dienen soll. Die §§ 234 und 238 der Abgabenordnung sind mit der Maßgabe anzuwenden, dass bei Erwerben von Todes wegen keine Zinsen erhoben werden. § 222 der Abgabenordnung bleibt unberührt. Ist der Grundbesitz in einem Drittstaat belegen, wird die Stundung nur gewährt, wenn und solange dieser Staat auf Grund völkervertraglicher Abkommen oder Übereinkommen verpflichtet ist, der Bundesrepublik Deutschland
+
+1.  entsprechend dem OECD-Standard für Transparenz und effektiven Informationsaustausch auf Ersuchen im Sinne des § 4 Absatz 2 Nummer 2 in Verbindung mit Absatz 4 Satz 1 des Steueroasen-Abwehrgesetzes in Bezug auf die Erbschaftsteuer Amtshilfe zu leisten,
+
+
+2.[^F831909_03_BJNR109330974BJNE004208123]
+  Amtshilfe bei der Beitreibung gemäß einem dem Artikel 27 des OECD-Musterabkommens 2017 zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
+    entsprechenden Artikel in einem Abkommen zur Vermeidung der Doppelbesteuerung in Bezug auf die Erbschaftsteuer zu leisten.
+
+
+
+Das Bundesministerium der Finanzen veröffentlicht im Bundessteuerblatt Teil I eine Liste der Drittstaaten, die die Voraussetzungen nach Satz 5 erfüllen.
+
+[^F831909_03_BJNR109330974BJNE004208123]:     Amtlicher Hinweis: Dieses Dokument ist im Internet abrufbar unter www.bzst.de/DE/Behoerden             /InternationaleAmtshilfe/AmtshilfeBeitreibung             Zustellung/amtshilfe\_beitreibung\_zustellung\_node.html
 
 
 ### § 28a Verschonungsbedarfsprüfung
@@ -1431,6 +1461,10 @@ Der Verwaltungsakt nach Absatz 1 Satz 1 steht unter dem Vorbehalt des Widerrufs 
 (19) § 13 Absatz 1 Nummer 19 in der Fassung des Artikels 6 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 2931) ist in allen Fällen anzuwenden, soweit die Steuerbescheide noch nicht bestandskräftig sind.
 
 (20) § 2 Absatz 1 Nummer 3 Satz 1 in der am 28. März 2024 geltenden Fassung ist auf Erwerbe anzuwenden, für die die Steuer nach dem 27. März 2024 entsteht.
+
+(21) § 10 Absatz 5 Nummer 3 Satz 2, Absatz 6, 6a und 6b, § 13a Absatz 6 Satz 1 Nummer 4, § 13d Absatz 3, § 19a Absatz 3 und § 28 Absatz 3 in der Fassung des Artikels 34 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) ist auf Erwerbe anzuwenden, für die die Steuer nach dem 31. Dezember 2024 entsteht.
+
+(22) § 13 Absatz 1 Nummer 16 Buchstabe c und § 17 Absatz 3 in der am 6. Dezember 2024 geltenden Fassung ist auf Erwerbe anzuwenden, für die die Steuer nach dem 31. Dezember 2024 entsteht.
 
 
 ### § 37a Sondervorschriften aus Anlass der Herstellung der Einheit Deutschlands

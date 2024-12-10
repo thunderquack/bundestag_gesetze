@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 10 G v. 27.3.2024 I Nr. 108
 
 Änderung durch
-:   Art. 14 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+:   Art. 14 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Internationale Verflechtungen
@@ -609,6 +609,7 @@ ist bei der Ermittlung der Summe der Einkünfte ein Kürzungsbetrag nach Absatz 
 
 
 
+Dabei ist § 1 Absatz 3d nicht auf bis zum 31. Dezember 2024 entstehende Aufwendungen anzuwenden, die auf Finanzierungsbeziehungen beruhen, die vor dem 1. Januar 2024 zivilrechtlich vereinbart wurden und deren tatsächliche Durchführung vor dem 1. Januar 2024 begonnen hat. Werden betroffene Finanzierungsbeziehungen nach dem 31. Dezember 2023 und vor dem 1. Januar 2025 wesentlich geändert, ist § 1 Absatz 3d nicht auf Aufwendungen anzuwenden, die vor der wesentlichen Änderung entstehen.
 
 (2) § 1 Absatz 2 in der Fassung des Artikels 5 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) ist für Zwecke der Anwendung des § 4k Absatz 6 des Einkommensteuergesetzes in der Fassung des Artikels 1 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) bereits für den Veranlagungs- und Erhebungszeitraum 2020 anzuwenden.
 
@@ -622,7 +623,7 @@ ist bei der Ermittlung der Summe der Einkünfte ein Kürzungsbetrag nach Absatz 
 
 
 
-(4) Die §§ 7 bis 13, 16 bis 18 und 20 in der am 1. Juli 2021 geltenden Fassung und § 15 in der am 21. Dezember 2022 geltenden Fassung sind erstmals anzuwenden
+(4) Die §§ 7 bis 10, 12, 13, 16 bis 18 und 20 in der am 1. Juli 2021 geltenden Fassung und § 15 in der am 21. Dezember 2022 geltenden Fassung sind erstmals anzuwenden
 
 1.  für die Einkommen- und Körperschaftsteuer für den Veranlagungszeitraum,
 
@@ -631,7 +632,7 @@ ist bei der Ermittlung der Summe der Einkünfte ein Kürzungsbetrag nach Absatz 
 
 
 
-für den Zwischeneinkünfte hinzuzurechnen sind, die in einem Wirtschaftsjahr der Zwischengesellschaft oder der Betriebsstätte entstanden sind, das nach dem 31. Dezember 2021 beginnt. Verluste, die für Veranlagungszeiträume oder Erhebungszeiträume vor dem 1. Januar 2022 bei Einkünften entstanden sind, für die die ausländische Gesellschaft Zwischengesellschaft ist, können in entsprechender Anwendung des § 10d des Einkommensteuergesetzes, soweit sie die nach § 9 außer Ansatz zu lassenden Einkünfte übersteigen, abgezogen werden. Für Steuern der ausländischen Gesellschaft für Wirtschaftsjahre, die vor dem 1. Januar 2022 enden, gelten § 10 Absatz 1 Satz 2, § 10 Absatz 3 Satz 6 und § 12 Absatz 1 in der am 30. Juni 2021 geltenden Fassung fort. Als Anfangsbestand des Hinzurechnungskorrekturvolumens zum 31. Dezember 2021 wird die Summe der Hinzurechnungsbeträge erfasst, die beim Steuerpflichtigen gemäß § 10 Absatz 2 in der am 30. Juni 2021 geltenden Fassung für die Veranlagungszeiträume 2015 bis 2022 der Besteuerung unterliegen, soweit sie nicht für eine Steuerbefreiung nach § 3 Nummer 41 des Einkommensteuergesetzes in der am 30. Juni 2021 geltenden Fassung zu berücksichtigen sind. Soweit Verluste im Sinne des Satzes 2 durch Anwendung des § 14 in der am 30. Juni 2021 geltenden Fassung einer anderen Gesellschaft zugerechnet worden und noch nicht verrechnet worden sind, können sie auf bis zum 31. Juli 2023 zu stellenden Antrag denjenigen nachgeordneten Zwischengesellschaften im Sinne des § 14 in der am 30. Juni 2021 geltenden Fassung zugeordnet werden, durch deren Tätigkeit sie wirtschaftlich verursacht sind; bei mehreren Steuerpflichtigen ist der Antrag einheitlich zu stellen.
+für den Zwischeneinkünfte hinzuzurechnen sind, die in einem Wirtschaftsjahr der Zwischengesellschaft oder der Betriebsstätte entstanden sind, das nach dem 31. Dezember 2021 beginnt; § 11 in der am 6. Dezember 2024 geltenden Fassung ist erstmals für die Einkommen- und Körperschaftsteuer für den Veranlagungszeitraum 2022 und für die Gewerbesteuer für den Erhebungszeitraum 2022 anzuwenden. Verluste, die für Veranlagungszeiträume oder Erhebungszeiträume vor dem 1. Januar 2022 bei Einkünften entstanden sind, für die die ausländische Gesellschaft Zwischengesellschaft ist, können in entsprechender Anwendung des § 10d des Einkommensteuergesetzes, soweit sie die nach § 9 außer Ansatz zu lassenden Einkünfte übersteigen, abgezogen werden. Für Steuern der ausländischen Gesellschaft für Wirtschaftsjahre, die vor dem 1. Januar 2022 enden, gelten § 10 Absatz 1 Satz 2, § 10 Absatz 3 Satz 6 und § 12 Absatz 1 in der am 30. Juni 2021 geltenden Fassung fort. Als Anfangsbestand des Hinzurechnungskorrekturvolumens zum 31. Dezember 2021 wird die Summe der Hinzurechnungsbeträge erfasst, die beim Steuerpflichtigen gemäß § 10 Absatz 2 in der am 30. Juni 2021 geltenden Fassung für die Veranlagungszeiträume 2015 bis 2022 der Besteuerung unterliegen, soweit sie nicht für eine Steuerbefreiung nach § 3 Nummer 41 des Einkommensteuergesetzes in der am 30. Juni 2021 geltenden Fassung zu berücksichtigen sind. Soweit Verluste im Sinne des Satzes 2 durch Anwendung des § 14 in der am 30. Juni 2021 geltenden Fassung einer anderen Gesellschaft zugerechnet worden und noch nicht verrechnet worden sind, können sie auf bis zum 31. Juli 2023 zu stellenden Antrag denjenigen nachgeordneten Zwischengesellschaften im Sinne des § 14 in der am 30. Juni 2021 geltenden Fassung zugeordnet werden, durch deren Tätigkeit sie wirtschaftlich verursacht sind; bei mehreren Steuerpflichtigen ist der Antrag einheitlich zu stellen.
 
 (5) Für Zwischeneinkünfte, die in einem Wirtschaftsjahr der Zwischengesellschaft oder der Betriebsstätte entstanden sind, das vor dem 1. Januar 2022 beginnt, ist § 8 Absatz 1 Nummer 10 in der am 30. Juni 2021 geltenden Fassung auf Umwandlungen und Einbringungen, deren steuerlicher Übertragungsstichtag nach dem 31. Dezember 2021 liegt, in der folgenden Fassung anzuwenden:
 

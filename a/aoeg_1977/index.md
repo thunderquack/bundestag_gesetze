@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 4 G v. 23.10.2024 I Nr. 323
 
 Änderung durch
-:   Art. 20 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+:   Art. 20 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Änderung von Gesetzen auf dem Gebiet des Finanzwesens
@@ -155,7 +155,9 @@ Fristen, deren Lauf vor dem 1. Januar 1977 begonnen hat, werden nach den bisheri
 
 ### § 5 Zeitpunkt der Einführung des steuerlichen Identifikationsmerkmals
 
-Das Bundesministerium der Finanzen bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates den Zeitpunkt der Einführung des Identifikationsmerkmals nach § 139a Abs. 1 der Abgabenordnung. Die Festlegung der Zeitpunkte für die ausschließliche Verwendung des Identifikationsmerkmals im Bereich der Einfuhr- und Ausfuhrabgaben sowie der Verbrauchsteuern bedarf nicht der Zustimmung des Bundesrates.
+(1) Das Bundesministerium der Finanzen bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates den Zeitpunkt der Einführung des Identifikationsmerkmals nach § 139a Abs. 1 der Abgabenordnung. Die Festlegung der Zeitpunkte für die ausschließliche Verwendung des Identifikationsmerkmals im Bereich der Einfuhr- und Ausfuhrabgaben sowie der Verbrauchsteuern bedarf nicht der Zustimmung des Bundesrates.
+
+(2) Bis zur Bereitstellung eines maschinellen Anfrageverfahrens zur Wirtschafts-Identifikationsnummer sind Regelungen der Abgabenordnung oder anderer Gesetze, nach denen bei wirtschaftlich Tätigen die Wirtschafts-Identifikationsnummer zu erheben, aufzuzeichnen, anzugeben oder mitzuteilen ist, mit der Maßgabe anzuwenden, dass zur Identifizierung des betroffenen wirtschaftlich Tätigen weiterhin die Steuernummer ausreicht. § 154 Absatz 2c der Abgabenordnung ist bis zur Bereitstellung eines maschinellen Anfrageverfahrens zur Wirtschafts-Identifikationsnummer nicht anzuwenden, soweit das Kreditinstitut die Steuernummer eines wirtschaftlich Tätigen erhoben und aufgezeichnet hat. Das Bundesministerium der Finanzen gibt den Tag der erstmaligen Bereitstellung eines maschinellen Anfrageverfahrens zur Wirtschafts-Identifikationsnummer im Bundesgesetzblatt Teil I bekannt.
 
 
 ### § 5a Identifikationsnummer und Wirtschafts-Identifikationsnummer
@@ -365,6 +367,10 @@ Die Vorschriften des § 203 der Reichsabgabenordnung sind auch nach dem 31. Deze
 (16) § 165 Absatz 1 Satz 2 Nummer 2, Satz 4 und Absatz 2 sowie § 171 Absatz 8 der Abgabenordnung sind auf nach dem 21. Juli 2022 erlassene Zinsfestsetzungen nach § 233a der Abgabenordnung für Verzinsungszeiträume ab dem 1. Januar 2019 entsprechend anzuwenden, solange die technischen und organisatorischen Voraussetzungen für die Anwendung des § 238 Absatz 1a der Abgabenordnung in der am 22. Juli 2022 geltenden Fassung noch nicht vorliegen.
 
 (17) § 237 Absatz 6 der Abgabenordnung in der am 28. März 2024 geltenden Fassung gilt für alle Haftungsansprüche, die nach dem 31. Dezember 2024 entstehen.
+
+(18) § 234 Absatz 1, § 236 Absatz 6 und § 239 Absatz 1 Satz 2 Nummer 4 der Abgabenordnung in der am 6. Dezember 2024 geltenden Fassung gelten für alle Haftungsansprüche, die nach dem 31. Dezember 2024 entstehen.
+
+(19) § 235 Absatz 5 der Abgabenordnung gilt in allen Fällen, in denen Zinsen zu hinterzogenen Vorauszahlungen nach dem 6. Dezember 2024 festgesetzt werden.
 
 
 ### § 16 Säumniszuschläge
@@ -579,6 +585,8 @@ Bei Selbstanzeigen nach § 371 der Abgabenordnung, die bis zum 28. April 2011 be
 (3) § 175b Absatz 4 der Abgabenordnung in der am 25. Juni 2017 geltenden Fassung ist erstmals anzuwenden, wenn Daten im Sinne des § 93c der Abgabenordnung der Finanzbehörde nach dem 24. Juni 2017 zugehen.
 
 (4) Den Zeitpunkt der erstmaligen Anwendung des § 138 Absatz 1b Satz 2 der Abgabenordnung in der am 1. Januar 2020 geltenden Fassung bestimmt das Bundesministerium der Finanzen im Einvernehmen mit den obersten Finanzbehörden der Länder durch ein im Bundessteuerblatt zu veröffentlichendes Schreiben. Bis zu diesem Zeitpunkt sind die Auskünfte im Sinne des § 138 Absatz 1b Satz 1 der Abgabenordnung nach amtlich vorgeschriebenem Vordruck zu erteilen.
+
+(5) § 175b Absatz 4 der Abgabenordnung in der am 6. Dezember 2024 geltenden Fassung ist erstmals auf Verwaltungsakte anzuwenden, die nach dem 5. Dezember 2024 erlassen worden sind.
 
 
 ### § 28 Elektronische Bekanntgabe von Verwaltungsakten
@@ -846,6 +854,10 @@ Das Steuerkontrollsystem muss die steuerlichen Risiken laufend abbilden.
 (4) Wird gegen einen vor dem 1. Januar 2024 wirksam gewordenen Bescheid über die gesonderte und einheitliche Feststellung von Besteuerungsgrundlagen Einspruch eingelegt, bestimmt sich die Einspruchsbefugnis nach § 352 der Abgabenordnung in der am 31. Dezember 2023 geltenden Fassung. Das Gleiche gilt, wenn der eine rechtsfähige Personenvereinigung betreffende Feststellungsbescheid nach dem 31. Dezember 2023 und vor dem 1. Januar 2026 nach Maßgabe von Absatz 3 dem Empfangsbevollmächtigten nach § 183 der Abgabenordnung in der bis zum 31. Dezember 2023 geltenden Fassung bekannt gegeben worden ist. Ist über den Einspruch gegen einen vor dem 1. Januar 2024 wirksam gewordenen Bescheid nach dem 31. Dezember 2023 zu entscheiden, richtet sich das weitere Verfahren nach den ab dem 1. Januar 2024 geltenden Vorschriften der Abgabenordnung.
 
 (5) Wurde über das Vermögen einer Personenvereinigung vor dem 1. Januar 2024 das Insolvenzverfahren eröffnet, sind für Feststellungszeiträume und Feststellungszeitpunkte vor dem 1. Januar 2024 § 152 Absatz 4 Satz 3, § 181 Absatz 2 Satz 2 Nummer 1, die §§ 183 und 352 der Abgabenordnung in der am 31. Dezember 2023 geltenden Fassung weiterhin anzuwenden.
+
+(6) Soweit für eine Körperschaft im Sinne des § 14b Absatz 1 Satz 2 der Abgabenordnung in der am 1. Januar 2024 geltenden Fassung vor dem 1. Januar 2024 Verwaltungsakte ergangen sind, wirken diese Verwaltungsakte ab dem 1. Januar 2024 auch gegenüber der Körperschaft. Ab dem 1. Januar 2024 bestimmt sich das weitere Verfahren nach den ab dem 1. Januar 2024 geltenden Vorschriften der Abgabenordnung. Die Sätze 1 und 2 gelten für Verwaltungsakte, die nach dem 31. Dezember 2023 und vor dem 1. Januar 2026 abweichend von § 14b der Abgabenordnung noch nach dem am 31. Dezember 2023 geltenden Recht bekannt gegeben wurden, entsprechend. Ist über einen Einspruch gegen einen vor dem 1. Januar 2024 wirksam gewordenen Verwaltungsakt nach dem 31. Dezember 2023 zu entscheiden, richtet sich das weitere Verfahren nach den ab dem 1. Januar 2024 geltenden Vorschriften der Abgabenordnung; dasselbe gilt für Einsprüche, die gegen Verwaltungsakte im Sinne des Satzes 3 eingelegt wurden.
+
+(7) § 14b Absatz 1 Satz 1 der Abgabenordnung in der am 6. Dezember 2024 geltenden Fassung ist in allen Fällen anzuwenden, in denen der Anspruch aus dem Steuerschuldverhältnis nach dem 5. Dezember 2024 entstanden ist.
 
 
 ### Art 97a - Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands

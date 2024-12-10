@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2022, 2730
 
 Änderung durch
-:   Art. 38 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+:   Art. 38 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -209,7 +209,7 @@ Eine relevante Tätigkeit ist nicht die Tätigkeit eines Anbieters, der als nich
 
 Beherrschung liegt dann vor, wenn ein Rechtsträger oder eine natürliche Person unmittelbar oder mittelbar zu mehr als 50 Prozent am Kapital, an den Mitgliedschaftsrechten, an den Beteiligungsrechten oder an den Stimmrechten eines Rechtsträgers beteiligt ist, wobei mittelbare und unmittelbare Beteiligungen addiert werden. Bei einer mittelbaren Beteiligung wird die Erfüllung der Anforderung, dass mehr als 50 Prozent der Rechte nach Satz 2 an einem anderen Rechtsträger gehalten werden, durch Multiplikation der Beteiligungsquoten an den nachgeordneten Rechtsträgern ermittelt. Ein Rechtsträger oder eine natürliche Person mit einer Stimmrechtsbeteiligung von mehr als 50 Prozent gilt dabei als Halter von 100 Prozent der Stimmrechte.
 
-(3) Ein staatlicher Rechtsträger ist die Regierung, eine Gebietskörperschaft oder eine Behörde eines Staates sowie eine Einrichtung, die sich unter der Kontrolle eines Staates oder einer oder mehrerer Gebietskörperschaften befindet.
+(3) Ein staatlicher Rechtsträger ist die Regierung, eine Gebietskörperschaft oder eine Behörde eines Staates sowie eine Einrichtung, die sich unmittelbar oder über einen oder mehrere andere staatliche Rechtsträger im Alleineigentum und unter der Beherrschung eines Staates oder einer oder mehrerer Gebietskörperschaften befindet.
 
 (4) Eine Steueridentifikationsnummer ist
 
@@ -341,7 +341,7 @@ Die Übermittlung erfolgt mit Ablauf des zweiten Monats des Kalenderjahres, das 
 
 (9) Für die in den Absätzen 7 und 8 genannten Zwecke nutzt das Bundeszentralamt für Steuern das Zentralverzeichnis nach Artikel 8ac Absatz 6 der Amtshilferichtlinie.
 
-(10) Das Bundeszentralamt für Steuern prüft die Einhaltung der Melde- und Sorgfaltspflichten, die den meldenden Plattformbetreibern nach diesem Gesetz auferlegt werden. § 147 Absatz 5 und 6 und die §§ 193 bis 203a der Abgabenordnung sowie § 12 des EU-Amtshilfegesetzes gelten entsprechend.
+(10) Das Bundeszentralamt für Steuern prüft die Einhaltung der Melde- und Sorgfaltspflichten, die den meldenden Plattformbetreibern nach diesem Gesetz auferlegt werden. § 147 Absatz 5 bis 7 und die §§ 193 bis 203a der Abgabenordnung sowie § 12 des EU-Amtshilfegesetzes gelten entsprechend.
 
 (11) Das Bundeszentralamt für Steuern ergreift nach den §§ 26 und 27 Maßnahmen zur Durchsetzung der Pflichten nach diesem Gesetz.
 
@@ -912,5 +912,5 @@ Das Bundeszentralamt für Steuern arbeitet im Rahmen der gegenseitigen Amtshilfe
 
 ### § 29 Anwendungsbestimmungen
 
-Die Pflichten nach den Abschnitten 2 und 3 sind erstmals für den Meldezeitraum zu beachten, der dem Kalenderjahr 2023 entspricht.
+Die Pflichten nach den Abschnitten 2 und 3 sind erstmals für den Meldezeitraum zu beachten, der dem Kalenderjahr 2023 entspricht. § 6 Absatz 3 in der Fassung des Artikels 38 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) ist auf Meldezeiträume anzuwenden, die am oder nach dem 1. Januar 2024 beginnen.
 

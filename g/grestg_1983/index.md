@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 30 G v. 22.12.2023 I Nr. 411
 
 Änderung durch
-:   Art. 33 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+:   Art. 33 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Gegenstand der Steuer
@@ -102,6 +102,8 @@ Zuletzt geändert durch
 
 
 
+
+(4a) Ein Grundstück gehört zum Vermögen einer Gesellschaft im Sinne des § 1 Absatz 2a bis 3a, wenn sie es aufgrund eines Rechtsvorgangs nach § 1 Absatz 1 erworben hat. Die Zugehörigkeit nach Satz 1 endet, wenn ein anderer Rechtsträger das Grundstück auf Grund eines Rechtsvorgangs nach § 1 Absatz 1 erworben hat oder wenn die Voraussetzungen nicht mehr vorliegen, die zur Zugehörigkeit nach Satz 1 geführt haben. Die Sätze 1 und 2 finden keine Anwendung auf Rechtsvorgänge, die nach § 16 Absatz 1 rückgängig gemacht wurden, und auf Grundstücke, die nach § 16 Absatz 2 zurückerworben wurden, soweit dies dazu führt, dass ein Erwerbsvorgang nach § 1 Absatz 2a bis 3a vermieden wird; die Rückgängigmachung und der Rückerwerb gelten für die Zugehörigkeit eines Grundstücks nach den Sätzen 1 und 2 als rückwirkendes Ereignis im Sinne des § 175 Absatz 1 Satz 1 Nummer 2 der Abgabenordnung. Ein Grundstück gehört auch zum Vermögen einer Gesellschaft, wenn diese an dem Grundstück die Verwertungsbefugnis nach § 1 Absatz 2 innehat. Die Zugehörigkeit nach Satz 4 endet, wenn die Voraussetzungen nicht mehr vorliegen, die zur Zugehörigkeit nach Satz 4 geführt haben.
 
 (5) Bei einem Tauschvertrag, der für beide Vertragsteile den Anspruch auf Übereignung eines Grundstücks begründet, unterliegt der Steuer sowohl die Vereinbarung über die Leistung des einen als auch die Vereinbarung über die Leistung des anderen Vertragsteils.
 
@@ -198,7 +200,10 @@ Von der Besteuerung sind ausgenommen:
 5.  der Erwerb eines Grundstücks von einer juristischen Person des öffentlichen Rechts sowie der Rückerwerb des Grundstücks durch die juristische Person des öffentlichen Rechts, wenn das Grundstück im Rahmen einer Öffentlich Privaten Partnerschaft für einen öffentlichen Dienst oder Gebrauch im Sinne des § 3 Abs. 2 des Grundsteuergesetzes benutzt wird und zwischen dem Erwerber und der juristischen Person des öffentlichen Rechts die Rückübertragung des Grundstücks am Ende des Vertragszeitraums vereinbart worden ist. Die Ausnahme von der Besteuerung entfällt mit Wirkung für die Vergangenheit, wenn die juristische Person des öffentlichen Rechts auf die Rückübertragung des Grundstücks verzichtet oder das Grundstück nicht mehr für einen öffentlichen Dienst oder Gebrauch genutzt wird;
 
 
-6.  Erwerbe, die allein auf dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union beruhen.
+6.  Erwerbe, die allein auf dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union beruhen;
+
+
+7.  die Übertragung oder der Übergang von Anteilen am Gesellschaftsvermögen gemäß § 1 Absatz 2a, von Gesellschaftsanteilen gemäß § 1 Absatz 2b und 3 oder von Anteilen am Gesellschaftsvermögen oder Gesellschaftskapital gemäß § 1 Absatz 3a, soweit diese Übertragung oder dieser Übergang durch demokratische Wahlen des Vorstands einer politischen Partei im Sinne des Artikels 21 des Grundgesetzes oder einer Gewerkschaft im Sinne des Artikels 9 Absatz 3 des Grundgesetzes oder eines Zusammenschlusses solcher Gewerkschaften in Form eines nicht rechtsfähigen Vereins bedingt ist.
 
 
 
@@ -527,7 +532,7 @@ Wird von der gesonderten Feststellung abgesehen, so ist in den Fällen der Numme
 2.  Anträge auf Berichtigung des Grundbuchs, die sie beurkundet oder über die sie eine Urkunde entworfen und darauf eine Unterschrift beglaubigt haben, wenn der Antrag darauf gestützt wird, daß der Grundstückseigentümer gewechselt hat;
 
 
-3.  Zuschlagsbeschlüsse im Zwangsversteigerungsverfahren, Enteignungsbeschlüsse und andere Entscheidungen, durch die ein Wechsel im Grundstückseigentum bewirkt wird. Die Anzeigepflicht der Gerichte besteht auch beim Wechsel im Grundstückseigentum auf Grund einer Eintragung im Handels-, Genossenschafts- oder Vereinsregister;
+3.  Zuschlagsbeschlüsse im Zwangsversteigerungsverfahren, Enteignungsbeschlüsse und andere Entscheidungen, durch die ein Wechsel im Grundstückseigentum bewirkt wird. Notare können die Anzeige nach Satz 1 auch elektronisch nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle nach Maßgabe des § 93c der Abgabenordnung erstatten. Die Anzeigepflicht der Gerichte besteht auch beim Wechsel im Grundstückseigentum auf Grund einer Eintragung im Handels-, Genossenschafts- oder Vereinsregister;
 
 
 4.  nachträgliche Änderungen oder Berichtigungen eines der unter Nummern 1 bis 3 aufgeführten Vorgänge.
@@ -677,7 +682,7 @@ Die Gerichte, Behörden und Notare dürfen Urkunden, die einen anzeigepflichtige
 
 ### § 22a Ermächtigung
 
-Zur Vereinfachung des Besteuerungsverfahrens wird das Bundesministerium der Finanzen ermächtigt, im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat und mit Zustimmung des Bundesrates durch Rechtsverordnung ein Verfahren zur elektronischen Übermittlung der Anzeige und der Abschrift der Urkunde im Sinne des § 18 näher zu bestimmen. Die Authentifizierung des Datenübermittlers sowie die Vertraulichkeit und Integrität des übermittelten elektronischen Dokuments sind sicherzustellen. Soweit von dieser Ermächtigung nicht Gebrauch gemacht wurde, ist die elektronische Übermittlung der Anzeige und der Abschrift der Urkunde im Sinne des § 18 ausgeschlossen.
+Zur Vereinfachung des Besteuerungsverfahrens wird das Bundesministerium der Finanzen ermächtigt, im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat und mit Zustimmung des Bundesrates durch Rechtsverordnung ein Verfahren zur elektronischen Übermittlung der Anzeige und der Abschrift der Urkunde im Sinne des § 18 näher zu bestimmen. Die Authentifizierung des Datenübermittlers sowie die Vertraulichkeit und Integrität des übermittelten elektronischen Dokuments sind sicherzustellen.
 
 
 ## Neunter Abschnitt - Übergangs- und Schlußvorschriften
@@ -733,6 +738,12 @@ Zur Vereinfachung des Besteuerungsverfahrens wird das Bundesministerium der Fina
 (23) Bei der Anwendung des § 1 Absatz 2b bleiben Übergänge von Anteilen der Gesellschaft, die vor dem 1. Juli 2021 erfolgen, unberücksichtigt.
 
 (24) § 5 Absatz 3 Satz 1, § 6 Absatz 3 Satz 2 und Absatz 4 und § 7 Absatz 3 in der am 1. Juli 2021 geltenden Fassung sind nicht anzuwenden, wenn die in § 5 Absatz 3 Satz 1, § 6 Absatz 3 Satz 2 oder Absatz 4 oder § 7 Absatz 3 in der am 30. Juni 2021 geltenden Fassung geregelte Frist vor dem 1. Juli 2021 abgelaufen war.
+
+(25) § 1 Absatz 4a ist erstmals auf Erwerbsvorgänge nach § 1 Absatz 2a bis 3a anzuwenden, die nach dem 5. Dezember 2024 verwirklicht werden. Bei der Anwendung des § 1 Absatz 4a sind auch Erwerbsvorgänge nach § 1 Absatz 1 und 2 zu berücksichtigen, die vor dem 6. Dezember 2024 verwirklicht wurden.
+
+(26) § 4 Nummer 7 in der Fassung des Artikels 33 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) ist auf Erwerbsvorgänge anzuwenden, die nach dem 30. Juni 2021 verwirklicht werden.
+
+(27) § 5 Absatz 3 Satz 1, § 6 Absatz 3 Satz 2 und § 19 Absatz 2 Nummer 4 in der bis zum 31. Dezember 2026 geltenden Fassung sind bis zum Ablauf der in § 5 Absatz 3 Satz 1 und § 6 Absatz 3 Satz 2 genannten Fristen für verwirklichte Übergänge nach § 5 Absatz 1 und 2 und § 6 Absatz 3 Satz 1 in der bis zum 31. Dezember 2026 geltenden Fassung mit der Maßgabe weiter anzuwenden, dass anstelle des Vermögens der Gesamthand das Gesellschaftsvermögen tritt.
 
 
 ### § 24 Rechtsfähige Personengesellschaften

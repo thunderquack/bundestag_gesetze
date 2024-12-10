@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 11 G v. 27.3.2024 I Nr. 108
 
 Änderung durch
-:   Art. 12 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+:   Art. 12 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 13 G v. 2.12.2024 I Nr. 387 mWv 1.1.2025 noch nicht berücksichtigt
@@ -158,6 +158,8 @@ Satz 1 ist in den Fällen der Einbringung eines Betriebs, Teilbetriebs oder Mitu
 
 Der Antrag ist spätestens bis zur erstmaligen Abgabe der steuerlichen Schlussbilanz bei dem für die Besteuerung der übertragenden Körperschaft zuständigen Finanzamt zu stellen.
 
+(2a) Die steuerliche Schlussbilanz der übertragenden Körperschaft ist dem zuständigen Finanzamt spätestens bis zum Ablauf der nach § 149 der Abgabenordnung maßgebenden Frist zur Abgabe der Körperschaftsteuererklärung für den Besteuerungszeitraum, in den der steuerliche Übertragungsstichtag fällt, elektronisch zu übermitteln; § 5b des Einkommensteuergesetzes gilt entsprechend.
+
 (3) Haben die Mitgliedstaaten der Europäischen Union bei Verschmelzung einer unbeschränkt steuerpflichtigen Körperschaft Artikel 10 der Richtlinie 2009/133/EG anzuwenden, ist die Körperschaftsteuer auf den Übertragungsgewinn gemäß § 26 des Körperschaftsteuergesetzes um den Betrag ausländischer Steuer zu ermäßigen, der nach den Rechtsvorschriften eines anderen Mitgliedstaats der Europäischen Union erhoben worden wäre, wenn die übertragenen Wirtschaftsgüter zum gemeinen Wert veräußert worden wären. Satz 1 gilt nur, soweit die übertragenen Wirtschaftsgüter einer Betriebsstätte der übertragenden Körperschaft in einem anderen Mitgliedstaat der Europäischen Union zuzurechnen sind und die Bundesrepublik Deutschland die Doppelbesteuerung bei der übertragenden Körperschaft nicht durch Freistellung vermeidet.
 
 
@@ -182,7 +184,7 @@ Der Antrag ist spätestens bis zur erstmaligen Abgabe der steuerlichen Schlussbi
 
 (1) Hat der übernehmende Rechtsträger Anteile an der übertragenden Körperschaft nach dem steuerlichen Übertragungsstichtag angeschafft oder findet er einen Anteilseigner ab, so ist sein Gewinn so zu ermitteln, als hätte er die Anteile an diesem Stichtag angeschafft.
 
-(2) Anteile an der übertragenden Körperschaft im Sinne des § 17 des Einkommensteuergesetzes, die an dem steuerlichen Übertragungsstichtag nicht zu einem Betriebsvermögen eines Gesellschafters der übernehmenden Personengesellschaft oder einer natürlichen Person gehören, gelten für die Ermittlung des Gewinns als an diesem Stichtag in das Betriebsvermögen des übernehmenden Rechtsträgers mit den Anschaffungskosten eingelegt.
+(2) Anteile an der übertragenden Körperschaft im Sinne der §§ 17 und 20 Absatz 2 Satz 1 Nummer 1 des Einkommensteuergesetzes, die an dem steuerlichen Übertragungsstichtag nicht zu einem Betriebsvermögen eines Gesellschafters der übernehmenden Personengesellschaft oder einer natürlichen Person gehören, gelten für die Ermittlung des Gewinns als an diesem Stichtag in das Betriebsvermögen des übernehmenden Rechtsträgers mit den Anschaffungskosten eingelegt.
 
 (3) Gehören an dem steuerlichen Übertragungsstichtag Anteile an der übertragenden Körperschaft zum Betriebsvermögen eines Anteilseigners, ist der Gewinn so zu ermitteln, als seien die Anteile an diesem Stichtag zum Buchwert, erhöht um Abschreibungen sowie um Abzüge nach § 6b des Einkommensteuergesetzes und ähnliche Abzüge, die in früheren Jahren steuerwirksam vorgenommen worden sind, höchstens mit dem gemeinen Wert, in das Betriebsvermögen des übernehmenden Rechtsträgers überführt worden. § 4 Abs. 1 Satz 3 gilt entsprechend.
 
@@ -240,7 +242,7 @@ Im Falle des Formwechsels einer Kapitalgesellschaft in eine Personengesellschaft
 
 Anteile an der übernehmenden Körperschaft sind mindestens mit dem Buchwert, erhöht um Abschreibungen sowie um Abzüge nach § 6b des Einkommensteuergesetzes und ähnliche Abzüge, die in früheren Jahren steuerwirksam vorgenommen worden sind, höchstens mit dem gemeinen Wert, anzusetzen. Auf einen sich daraus ergebenden Gewinn findet § 8b Abs. 2 Satz 4 und 5 des Körperschaftsteuergesetzes Anwendung.
 
-(3) § 3 Abs. 2 Satz 2 und Abs. 3 gilt entsprechend.
+(3) § 3 Absatz 2 Satz 2, Absatz 2a und 3 gilt entsprechend.
 
 
 ### § 12 Auswirkungen auf den Gewinn der übernehmenden Körperschaft
@@ -265,7 +267,7 @@ Anteile an der übernehmenden Körperschaft sind mindestens mit dem Buchwert, er
 1.  das Recht der Bundesrepublik Deutschland hinsichtlich der Besteuerung des Gewinns aus der Veräußerung der Anteile an der übernehmenden Körperschaft nicht ausgeschlossen oder beschränkt wird oder
 
 
-2.  die Mitgliedstaaten der Europäischen Union bei einer Verschmelzung Artikel 8 der Richtlinie 2009/133/EG anzuwenden haben; in diesem Fall ist der Gewinn aus einer späteren Veräußerung der erworbenen Anteile ungeachtet der Bestimmungen eines Abkommens zur Vermeidung der Doppelbesteuerung in der gleichen Art und Weise zu besteuern, wie die Veräußerung der Anteile an der übertragenden Körperschaft zu besteuern wäre. § 15 Abs. 1a Satz 2 des Einkommensteuergesetzes ist entsprechend anzuwenden.
+2.  die Mitgliedstaaten der Europäischen Union bei einer Verschmelzung Artikel 8 der Richtlinie 2009/133/EG anzuwenden haben; in diesem Fall ist der Gewinn aus einer späteren Veräußerung der erworbenen Anteile ungeachtet der Bestimmungen eines Abkommens zur Vermeidung der Doppelbesteuerung in der gleichen Art und Weise zu besteuern, wie die Veräußerung der Anteile an der übertragenden Körperschaft zu besteuern wäre. Der Antrag ist spätestens bis zur erstmaligen Abgabe der Steuererklärung bei dem für die Besteuerung des Anteilseigners zuständigen Finanzamt zu stellen. § 15 Abs. 1a Satz 2 des Einkommensteuergesetzes ist entsprechend anzuwenden.
 
 
 
@@ -310,7 +312,7 @@ Soweit Vermögen einer Körperschaft durch Aufspaltung oder Abspaltung auf eine 
 
 (2) Ein Übernahmegewinn oder Übernahmeverlust ist nicht zu erfassen. In Fällen des § 5 Abs. 2 ist ein Gewinn nach § 7 nicht zu erfassen.
 
-(3) Wird der Betrieb der Personengesellschaft oder der natürlichen Person innerhalb von fünf Jahren nach der Umwandlung aufgegeben oder veräußert, unterliegt ein Aufgabe- oder Veräußerungsgewinn der Gewerbesteuer, auch soweit er auf das Betriebsvermögen entfällt, das bereits vor der Umwandlung im Betrieb der übernehmenden Personengesellschaft oder der natürlichen Person vorhanden war. Satz 1 gilt entsprechend, soweit ein Teilbetrieb oder ein Anteil an der Personengesellschaft aufgegeben oder veräußert wird. Der auf den Aufgabe- oder Veräußerungsgewinnen im Sinne der Sätze 1 und 2 beruhende Teil des Gewerbesteuer-Messbetrags ist bei der Ermäßigung der Einkommensteuer nach § 35 des Einkommensteuergesetzes nicht zu berücksichtigen.
+(3) Wird der Betrieb der Personengesellschaft oder der natürlichen Person innerhalb von fünf Jahren nach der Umwandlung aufgegeben oder veräußert, unterliegt ein Aufgabe- oder Veräußerungsgewinn der Gewerbesteuer, auch soweit er auf das Betriebsvermögen entfällt, das bereits vor der Umwandlung im Betrieb der übernehmenden Personengesellschaft oder der natürlichen Person vorhanden war. Satz 1 gilt entsprechend, soweit ein Teilbetrieb oder ein Anteil an der Personengesellschaft aufgegeben oder veräußert wird. Veräußert eine mittelbar über eine oder mehrere Personengesellschaften an der übernehmenden Personengesellschaft beteiligte natürliche Person einen Anteil an der die Beteiligung vermittelnden Personengesellschaft oder gibt sie diesen auf, unterliegt ein Veräußerungs- oder Aufgabegewinn auf Ebene der vermittelnden Personengesellschaft der Gewerbesteuer, soweit dieser auf den Anteil an der übernehmenden Personengesellschaft entfällt. Der auf den Aufgabe- oder Veräußerungsgewinnen im Sinne der Sätze 1 bis 3 beruhende Teil des Gewerbesteuer-Messbetrags ist bei der Ermäßigung der Einkommensteuer nach § 35 des Einkommensteuergesetzes nicht zu berücksichtigen.
 
 
 ### § 19 Gewerbesteuer bei Vermögensübergang auf eine andere Körperschaft
@@ -351,7 +353,7 @@ Soweit Vermögen einer Körperschaft durch Aufspaltung oder Abspaltung auf eine 
 
 
 
-Der Antrag ist spätestens bis zur erstmaligen Abgabe der steuerlichen Schlussbilanz bei dem für die Besteuerung der übernehmenden Gesellschaft zuständigen Finanzamt zu stellen. Erhält der Einbringende neben den neuen Gesellschaftsanteilen auch sonstige Gegenleistungen, ist das eingebrachte Betriebsvermögen abweichend von Satz 2 mindestens mit dem gemeinen Wert der sonstigen Gegenleistungen anzusetzen, wenn dieser den sich nach Satz 2 ergebenden Wert übersteigt.
+Der Antrag ist spätestens bis zur erstmaligen Abgabe der steuerlichen Schlussbilanz bei dem für die Besteuerung der übernehmenden Gesellschaft zuständigen Finanzamt zu stellen. Erhält der Einbringende neben den neuen Gesellschaftsanteilen auch sonstige Gegenleistungen, ist das eingebrachte Betriebsvermögen abweichend von Satz 2 mindestens mit dem gemeinen Wert der sonstigen Gegenleistungen anzusetzen, wenn dieser den sich nach Satz 2 ergebenden Wert übersteigt. Das eingebrachte Betriebsvermögen im Sinne von Satz 2 Nummer 2 und 4 sowie Satz 4 ermittelt sich unter Berücksichtigung der Entnahmen und Einlagen im Sinne des Absatzes 5 Satz 2.
 
 (3) Der Wert, mit dem die übernehmende Gesellschaft das eingebrachte Betriebsvermögen ansetzt, gilt für den Einbringenden als Veräußerungspreis und als Anschaffungskosten der Gesellschaftsanteile. Ist das Recht der Bundesrepublik Deutschland hinsichtlich der Besteuerung des Gewinns aus der Veräußerung des eingebrachten Betriebsvermögens im Zeitpunkt der Einbringung ausgeschlossen und wird dieses auch nicht durch die Einbringung begründet, gilt für den Einbringenden insoweit der gemeine Wert des Betriebsvermögens im Zeitpunkt der Einbringung als Anschaffungskosten der Anteile. Soweit neben den Gesellschaftsanteilen auch andere Wirtschaftsgüter gewährt werden, ist deren gemeiner Wert bei der Bemessung der Anschaffungskosten der Gesellschaftsanteile von dem sich nach den Sätzen 1 und 2 ergebenden Wert abzuziehen. Umfasst das eingebrachte Betriebsvermögen auch einbringungsgeborene Anteile im Sinne von § 21 Abs. 1 in der Fassung der Bekanntmachung vom 15. Oktober 2002 (BGBl. I S. 4133, 2003 I S. 738), geändert durch Artikel 3 des Gesetzes vom 16. Mai 2003 (BGBl. I S. 660), gelten die erhaltenen Anteile insoweit auch als einbringungsgeboren im Sinne von § 21 Abs. 1 in der Fassung der Bekanntmachung vom 15. Oktober 2002 (BGBl. I S. 4133, 2003 I S. 738), geändert durch Artikel 3 des Gesetzes vom 16. Mai 2003 (BGBl. I S. 660).
 
@@ -428,7 +430,7 @@ Der Antrag ist spätestens bis zur erstmaligen Abgabe der Steuererklärung bei d
 
 Satz 4 gilt in den Fällen des Satzes 6 Nr. 4 und 5 auch hinsichtlich der Anschaffungskosten der auf einer Weitereinbringung dieser Anteile (§ 20 Abs. 1 und § 21 Abs. 1 Satz 2) zum Buchwert beruhenden Anteile.
 
-(2) Soweit im Rahmen einer Sacheinlage (§ 20 Abs. 1) oder eines Anteilstausches (§ 21 Abs. 1) unter dem gemeinen Wert eingebrachte Anteile innerhalb eines Zeitraums von sieben Jahren nach dem Einbringungszeitpunkt durch die übernehmende Gesellschaft unmittelbar oder mittelbar veräußert werden und soweit beim Einbringenden der Gewinn aus der Veräußerung dieser Anteile im Einbringungszeitpunkt nicht nach § 8b Abs. 2 des Körperschaftsteuergesetzes steuerfrei gewesen wäre, ist der Gewinn aus der Einbringung im Wirtschaftsjahr der Einbringung rückwirkend als Gewinn des Einbringenden aus der Veräußerung von Anteilen zu versteuern (Einbringungsgewinn II); § 16 Abs. 4 und § 34 des Einkommensteuergesetzes sind nicht anzuwenden. Absatz 1 Satz 2 gilt entsprechend. Einbringungsgewinn II ist der Betrag, um den der gemeine Wert der eingebrachten Anteile im Einbringungszeitpunkt nach Abzug der Kosten für den Vermögensübergang den Wert, mit dem der Einbringende die erhaltenen Anteile angesetzt hat, übersteigt, vermindert um jeweils ein Siebtel für jedes seit dem Einbringungszeitpunkt abgelaufene Zeitjahr. Der Einbringungsgewinn II gilt als nachträgliche Anschaffungskosten der erhaltenen Anteile. Sätze 1 bis 4 sind nicht anzuwenden, soweit der Einbringende die erhaltenen Anteile veräußert hat; dies gilt auch in den Fällen von § 6 des Außensteuergesetzes vom 8. September 1972 (BGBl. I S. 1713), das zuletzt durch Artikel 7 des Gesetzes vom 7. Dezember 2006 (BGBl. I S. 2782) geändert worden ist, in der jeweils geltenden Fassung, wenn und soweit die Steuer nicht gestundet wird. Sätze 1 bis 5 gelten entsprechend, wenn die übernehmende Gesellschaft die eingebrachten Anteile ihrerseits durch einen Vorgang nach Absatz 1 Satz 6 Nr. 1 bis 5 weiter überträgt oder für diese die Voraussetzungen nach § 1 Abs. 4 nicht mehr erfüllt sind. Absatz 1 Satz 7 ist entsprechend anzuwenden.
+(2) Soweit im Rahmen einer Sacheinlage (§ 20 Abs. 1) oder eines Anteilstausches (§ 21 Abs. 1) unter dem gemeinen Wert eingebrachte Anteile innerhalb eines Zeitraums von sieben Jahren nach dem Einbringungszeitpunkt durch die übernehmende Gesellschaft unmittelbar oder mittelbar veräußert werden und soweit beim Einbringenden der Gewinn aus der Veräußerung dieser Anteile im Einbringungszeitpunkt nicht nach § 8b Abs. 2 des Körperschaftsteuergesetzes steuerfrei gewesen wäre, ist der Gewinn aus der Einbringung im Wirtschaftsjahr der Einbringung rückwirkend als Gewinn des Einbringenden aus der Veräußerung von Anteilen zu versteuern (Einbringungsgewinn II); § 16 Abs. 4 und § 34 des Einkommensteuergesetzes sind nicht anzuwenden. Absatz 1 Satz 2 gilt entsprechend. Einbringungsgewinn II ist der Betrag, um den der gemeine Wert der eingebrachten Anteile im Einbringungszeitpunkt nach Abzug der Kosten für den Vermögensübergang den Wert, mit dem der Einbringende die erhaltenen Anteile angesetzt hat, übersteigt, vermindert um jeweils ein Siebtel für jedes seit dem Einbringungszeitpunkt abgelaufene Zeitjahr. Der Einbringungsgewinn II gilt als nachträgliche Anschaffungskosten der erhaltenen Anteile. Sätze 1 bis 4 sind nicht anzuwenden, soweit der Einbringende die erhaltenen Anteile unter Aufdeckung der stillen Reserven veräußert hat; dies gilt auch in den Fällen von § 6 des Außensteuergesetzes vom 8. September 1972 (BGBl. I S. 1713), das zuletzt durch Artikel 7 des Gesetzes vom 7. Dezember 2006 (BGBl. I S. 2782) geändert worden ist, in der jeweils geltenden Fassung, wenn und soweit die Steuer nicht gestundet wird. Sätze 1 bis 5 gelten entsprechend, wenn die übernehmende Gesellschaft die eingebrachten Anteile ihrerseits durch einen Vorgang nach Absatz 1 Satz 6 Nr. 1 bis 5 weiter überträgt oder für diese die Voraussetzungen nach § 1 Abs. 4 nicht mehr erfüllt sind. Absatz 1 Satz 7 ist entsprechend anzuwenden.
 
 (3) Der Einbringende hat in den dem Einbringungszeitpunkt folgenden sieben Jahren jährlich spätestens bis zum 31. Mai den Nachweis darüber zu erbringen, wem mit Ablauf des Tages, der dem maßgebenden Einbringungszeitpunkt entspricht,
 
@@ -600,6 +602,14 @@ In den Fällen des Formwechsels einer Personengesellschaft in eine Kapitalgesell
 (18) § 1 in der Fassung des Artikels 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2050) ist erstmals auf Umwandlungen und Einbringungen anzuwenden, deren steuerlicher Übertragungsstichtag nach dem 31. Dezember 2021 liegt.
 
 (19) § 15 Absatz 2 in der Fassung des Artikels 11 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist erstmals auf Spaltungen anzuwenden, bei denen die Anmeldung zur Eintragung in das für die Wirksamkeit des jeweiligen Vorgangs maßgebende öffentliche Register nach dem 14. Juli 2023 erfolgt.
+
+(20) § 3 Absatz 2a und § 11 Absatz 3 in der Fassung des Artikels 12 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) sind in allen Fällen anzuwenden, in denen die Anmeldung zur Eintragung in das für die Wirksamkeit des jeweiligen Vorgangs maßgebende öffentliche Register nach dem 5. Dezember 2024 erfolgt ist.
+
+(21) § 5 Absatz 2 und § 13 Absatz 2 in der Fassung des Artikels 12 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) sind erstmals auf Umwandlungen anzuwenden, deren steuerlicher Übertragungsstichtag nach dem 5. Dezember 2024 liegt.
+
+(22) § 18 Absatz 3 Satz 3 und 4 in der Fassung des Artikels 12 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) ist erstmals auf Umwandlungen anzuwenden, deren steuerlicher Übertragungsstichtag nach dem 17. Mai 2024 liegt.
+
+(23) § 20 Absatz 2 Satz 5 in der Fassung des Artikels 12 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) ist erstmals auf Einbringungen anzuwenden, wenn in den Fällen der Gesamtrechtsnachfolge der Umwandlungsbeschluss nach dem 31. Dezember 2023 erfolgt ist oder in den anderen Fällen der Einbringungsvertrag nach dem 31. Dezember 2023 geschlossen worden ist.
 
 
 ### § 28 Bekanntmachungserlaubnis

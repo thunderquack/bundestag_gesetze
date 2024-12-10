@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 34 Abs. 7 G v. 22.12.2023 I Nr. 411
 
 Änderung durch
-:   Art. 10 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+:   Art. 10 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## - - Zu § 2 des Gesetzes
@@ -167,11 +167,8 @@ Hebeberechtigte Gemeinde für die Betriebsstätten auf Kauffahrteischiffen, die 
 
 ### § 20 Grundbesitz
 
-(1)
 1             Die Frage, ob und inwieweit im Sinne des § 9 Nr. 1 des Gesetzes Grundbesitz zum Betriebsvermögen des Unternehmers gehört, ist nach den Vorschriften des Einkommensteuergesetzes oder des Körperschaftsteuergesetzes zu entscheiden.
 2             Maßgebend ist dabei der Stand zu Beginn des Kalenderjahrs.
-
-(2) Gehört der Grundbesitz nur zum Teil zum Betriebsvermögen im Sinne des Absatzes 1, so ist der Kürzung nach § 9 Nr. 1 des Gesetzes nur der entsprechende Teil des Einheitswerts zugrunde zu legen.
 
 
 ### § 21
@@ -303,5 +300,6 @@ Hat das Unternehmen die Geschäftsleitung im Laufe des Erhebungszeitraums in ein
 
 ### § 36 Zeitlicher Anwendungsbereich
 
-Die vorstehende Fassung dieser Verordnung ist erstmals für den Erhebungszeitraum 2021 anzuwenden.
+1             Die vorstehende Fassung dieser Verordnung ist erstmals für den Erhebungszeitraum 2021 anzuwenden.
+2             § 20 Absatz 2 in der Fassung der Bekanntmachung vom 15. Oktober 2002 (BGBl. I S. 4180) ist letztmalig für den Erhebungszeitraum 2024 anzuwenden.
 

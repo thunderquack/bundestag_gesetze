@@ -3592,8 +3592,11 @@ hellrot (maschinenlesbar)
     *
     *
     *
-        *            *[^BJNR017690985BJNE012107160_02_BJNR017690985BJNE012110126]
-   Unentgeltliche Beförderung in Deutschland durch
+        *            *   Unentgeltliche
+                Beförderung
+                in Deutschland
+[^BJNR017690985BJNE012107160_02_BJNR017690985BJNE012110126]
+                durch
 
 
 

@@ -22,10 +22,10 @@ Zuletzt geändert durch
 :   Art. 24 G v. 27.3.2024 I Nr. 108
 
 Änderung durch
-:   Art. 28 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+:   Art. 28 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 29 G v. 2.12.2024 I Nr. 387 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 29 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 30 G v. 2.12.2024 I Nr. 387 mWv 1.1.2028 noch nicht berücksichtigt
@@ -878,12 +878,12 @@ Die §§ 31 und 32 sind entsprechend anzuwenden. Die Sätze 1 und 2 gelten nicht
 
 ### § 43 Erleichterungen bei der Aufteilung der Vorsteuern
 
-Die den folgenden steuerfreien Umsätzen zuzurechnenden Vorsteuerbeträge sind nur dann vom Vorsteuerabzug ausgeschlossen, wenn sie diesen Umsätzen ausschließlich zuzurechnen sind:
+Die den folgenden steuerfreien Umsätzen zuzuordnenden Vorsteuerbeträge sind nur dann vom Vorsteuerabzug ausgeschlossen, wenn sie diesen Umsätzen ausschließlich zuzuordnen sind:
 
 1.  Umsätze von Geldforderungen, denen zum Vorsteuerabzug berechtigende Umsätze des Unternehmers zugrunde liegen;
 
 
-2.  Umsätze von Wechseln, die der Unternehmer von einem Leistungsempfänger erhalten hat, weil er den Leistenden als Bürge oder Garantiegeber befriedigt. Das gilt nicht, wenn die Vorsteuern, die dem Umsatz dieses Leistenden zuzurechnen sind, vom Vorsteuerabzug ausgeschlossen sind;
+2.  Umsätze von Wechseln, die der Unternehmer von einem Leistungsempfänger erhalten hat, weil er den Leistenden als Bürge oder Garantiegeber befriedigt. Das gilt nicht, wenn die Vorsteuern, die dem Umsatz dieses Leistenden zuzuordnen sind, vom Vorsteuerabzug ausgeschlossen sind;
 
 
 3.  sonstige Leistungen, die im Austausch von gesetzlichen Zahlungsmitteln bestehen, Lieferungen von im Inland gültigen amtlichen Wertzeichen sowie Einlagen bei Kreditinstituten, wenn diese Umsätze als Hilfsumsätze anzusehen sind.

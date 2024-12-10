@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 39 G v. 16.12.2022 I 2294
 
 Änderung durch
-:   Art. 47 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+:   Art. 47 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -1151,7 +1151,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit 
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Höchstmengen für den Haustrunk nach § 23 Absatz 2 Nummer 5 sowie den Kreis der Empfangsberechtigten festzulegen.
 
-(2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Bier, das von Haus- und Hobbybrauern in ihren Haushalten ausschließlich zum eigenen Verbrauch bereitet wird, bis zu einer Menge von 2 hl im Kalenderjahr von der Steuer zu befreien.
+(2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Bier, das von Haus- und Hobbybrauern in ihren Haushalten ausschließlich zum eigenen Verbrauch bereitet wird, bis zu einer Menge von 5 hl im Kalenderjahr von der Steuer zu befreien.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
 

@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 30 G v. 23.10.2024 I Nr. 323
 
 Änderung durch
-:   Art. 11 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+:   Art. 11 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt G 610-6-15 v. 15.12.2003 I 2676, 2724 (InvStG)
 
@@ -238,10 +238,13 @@ Die Regelungen zum Steuerabzug nach § 32 Absatz 3 des Körperschaftsteuergesetz
 
 (4) Inländische Immobilienerträge sind
 
-1.  Einkünfte aus der Vermietung und Verpachtung von im Inland belegenen Grundstücken oder grundstücksgleichen Rechten und
+1.  Einkünfte aus der Vermietung und Verpachtung von im Inland belegenen Grundstücken oder grundstücksgleichen Rechten,
 
 
-2.  Gewinne aus der Veräußerung von im Inland belegenen Grundstücken oder grundstücksgleichen Rechten.
+2.  Gewinne aus der Veräußerung von im Inland belegenen Grundstücken oder grundstücksgleichen Rechten und
+
+
+3.  sonstige Einkünfte aus Vermietung und Verpachtung nach § 49 Absatz 1 Nummer 6 des Einkommensteuergesetzes.
 
 
 
@@ -312,12 +315,15 @@ Von gewerblichen Einkünften nach § 49 Absatz 1 Nummer 2 des Einkommensteuerges
 
 (3) Bei Einkünften, die einem Steuerabzug unterliegen, richtet sich der Umfang der Steuerbefreiung nach dem Anteil, den die steuerbegünstigten Anleger am Gesamtbestand der Investmentanteile eines Investmentfonds zum jeweiligen Zeitpunkt des Zuflusses der Einnahmen halten. Bei zu veranlagenden Einkünften richtet sich der Umfang der Steuerbefreiung nach dem Anteil des durchschnittlichen Investmentanteilbesitzes von steuerbegünstigten Anlegern am durchschnittlichen Gesamtbestand der Investmentanteile während des Geschäftsjahres des Investmentfonds.
 
-(4) Die Steuerbefreiung bei inländischen Beteiligungseinnahmen setzt voraus, dass der Investmentfonds die Voraussetzungen für eine Anrechenbarkeit von Kapitalertragsteuer nach § 36a des Einkommensteuergesetzes erfüllt. Die Steuerbefreiung nach Absatz 1 Nummer 1 oder Absatz 2 setzt zudem voraus, dass
+(4) Die Steuerbefreiung bei inländischen Beteiligungseinnahmen setzt voraus, dass der Investmentfonds die Voraussetzungen für eine Anrechenbarkeit von Kapitalertragsteuer nach § 36a des Einkommensteuergesetzes erfüllt. Die Steuerbefreiung nach Absatz 1 Nummer 1 oder Absatz 2 setzt voraus, dass
 
-1.  der Anleger seit mindestens drei Monaten zivilrechtlicher und wirtschaftlicher Eigentümer der Investmentanteile ist und
+1.  der Anleger seit mindestens drei Monaten zivilrechtlicher und wirtschaftlicher Eigentümer der Investmentanteile ist,
 
 
-2.  keine Verpflichtung zur Übertragung der Anteile auf eine andere Person besteht.
+2.  keine Verpflichtung zur Übertragung der Anteile auf eine andere Person besteht und
+
+
+3.  kein Nießbrauch an den Investmenterträgen eingeräumt wurde und keine sonstige Verpflichtung besteht, die Investmenterträge ganz oder teilweise, unmittelbar oder mittelbar anderen Personen zu vergüten.
 
 
 
@@ -362,6 +368,8 @@ Von gewerblichen Einkünften nach § 49 Absatz 1 Nummer 2 des Einkommensteuerges
 
 
 (5) Bei der Auszahlung von Kapitalerträgen an steuerbefreite Investmentfonds oder Anteilklassen im Sinne des Absatzes 1 Satz 1 ist kein Steuerabzug vorzunehmen.
+
+(6) Wenn der Anleger die Voraussetzungen des § 8 Absatz 4 Satz 2 Nummer 3 nicht erfüllt, hat der Anleger die auf seine Investmentanteile entfallenden inländischen Beteiligungseinnahmen, inländischen Immobilienerträge und sonstigen inländischen Einkünfte sowie die Investmenterträge nach § 16 Absatz 1 zu versteuern. § 36a Absatz 4 des Einkommensteuergesetzes ist entsprechend anzuwenden.
 
 
 #### § 11 Erstattung von Kapitalertragsteuer an Investmentfonds durch die Finanzbehörden
@@ -491,7 +499,7 @@ Satz 1 ist auch dann anzuwenden, wenn nach dem Abkommen die Besteuerung der Auss
 
 #### § 17 Erträge bei Abwicklung eines Investmentfonds
 
-(1) Während der Abwicklung eines Investmentfonds gelten Ausschüttungen eines Kalenderjahres insoweit als steuerfreie Kapitalrückzahlung, wie der letzte in diesem Kalenderjahr festgesetzte Rücknahmepreis die fortgeführten Anschaffungskosten unterschreitet. Maßgeblich für die Zwecke des Satzes 1 sind bei bestandsgeschützten Alt-Anteilen die fiktiven Anschaffungskosten nach § 56 Absatz 2 Satz 2 und 3. Im Übrigen ist auf die tatsächlichen Anschaffungskosten abzustellen. Satz 1 ist höchstens für einen Zeitraum von fünf Kalenderjahren nach dem Kalenderjahr, in dem die Abwicklung beginnt, anzuwenden.
+(1) Während der Abwicklung eines Investmentfonds gelten Ausschüttungen eines Kalenderjahres insoweit als steuerfreie Kapitalrückzahlung, wie der letzte in diesem Kalenderjahr festgesetzte Rücknahmepreis die fortgeführten Anschaffungskosten unterschreitet. Maßgeblich für die Zwecke des Satzes 1 sind bei bestandsgeschützten Alt-Anteilen die fiktiven Anschaffungskosten nach § 56 Absatz 2 Satz 2 und 3. Im Übrigen ist auf die tatsächlichen Anschaffungskosten abzustellen. Satz 1 ist höchstens für einen Zeitraum von zehn Kalenderjahren nach dem Kalenderjahr, in dem die Abwicklung beginnt, anzuwenden.
 
 (2) Als Beginn der Abwicklung eines inländischen Investmentfonds gilt der Zeitpunkt, zu dem das Recht der Kapitalverwaltungsgesellschaft zur Verwaltung des Investmentfonds erlischt. Als Beginn der Abwicklung eines ausländischen Investmentfonds gilt der Zeitpunkt, zu dem das Recht der Verwaltungsstelle zur Verwaltung des Investmentfonds erlischt, es sei denn, der gesetzliche Vertreter des ausländischen Investmentfonds weist einen davon abweichenden Beginn der Abwicklung nach.
 
@@ -515,6 +523,37 @@ Satz 1 ist auch dann anzuwenden, wenn nach dem Abkommen die Besteuerung der Auss
 
 (2) Fällt ein Investmentfonds nicht mehr in den Anwendungsbereich dieses Gesetzes, so gelten seine Anteile als veräußert. Als Veräußerungserlös gilt der gemeine Wert der Investmentanteile zu dem Zeitpunkt, zu dem der Investmentfonds nicht mehr in den Anwendungsbereich fällt.
 
+(3) Soweit ein unbeschränkt Steuerpflichtiger seine Investmentanteile nicht im Betriebsvermögen hält, stehen der Veräußerung von Investmentanteilen zum gemeinen Wert gleich
+
+1.  die Beendigung der unbeschränkten Steuerpflicht des Anlegers infolge der Aufgabe des Wohnsitzes oder des gewöhnlichen Aufenthalts,
+
+
+2.  die unentgeltliche Übertragung auf eine nicht unbeschränkt steuerpflichtige Person sowie,
+
+
+3.  vorbehaltlich der Nummern 1 und 2, der Ausschluss oder die Beschränkung des Besteuerungsrechts der Bundesrepublik Deutschland hinsichtlich des Gewinns aus der Veräußerung der Investmentanteile.
+
+
+
+Satz 1 ist nur anzuwenden, wenn
+
+1.  die Summe der nach Absatz 1, § 22 und § 56 ermittelten steuerpflichtigen Gewinne insgesamt positiv ist und
+
+
+2.  der Anleger
+
+    a)  innerhalb der letzten fünf Jahre vor der Veräußerung im Sinne des Satzes 1 unmittelbar oder mittelbar mindestens 1 Prozent der ausgegebenen Investmentanteile gehalten hat oder
+
+
+    b)  im Zeitpunkt der Veräußerung im Sinne des Satzes 1 unmittelbar oder mittelbar Investmentanteile an dem Investmentfonds hält, deren Anschaffungskosten mindestens 500 000 Euro betragen.
+
+
+
+
+
+
+§ 6 Absatz 1 Satz 2 und 3 sowie Absatz 2 bis 5 des Außensteuergesetzes und § 17 Absatz 1 Satz 4 sowie Absatz 2 Satz 3 bis 5 des Einkommensteuergesetzes sind entsprechend anzuwenden. Bei der entsprechenden Anwendung des § 6 Absatz 3 Satz 1 Nummer 2 und Absatz 4 Satz 5 Nummer 5 des Außensteuergesetzes treten die Ausschüttungen nach § 16 Absatz 1 Nummer 1 an die Stelle der Gewinnausschüttungen und die steuerfreien Kapitalrückzahlungen nach § 17 Absatz 1 an die Stelle der Einlagenrückgewähr. Im Fall des Satzes 1 ist keine Kapitalertragsteuer zu erheben.
+
 
 #### § 20 Teilfreistellung
 
@@ -535,7 +574,9 @@ Satz 4 Nummer 1 gilt entsprechend, wenn der Anleger ein Pensionsfonds ist.
 
 (3a) Die Absätze 1 bis 3 gelten auch für Investmentanteile, die mittelbar über Personengesellschaften gehalten werden. Satz 1 ist nicht auf Personengesellschaften anzuwenden, die nach § 1a des Körperschaftsteuergesetzes zur Körperschaftsbesteuerung optiert haben.
 
-(4) Weist der Anleger nach, dass der Investmentfonds die Aktienfonds- oder Mischfonds-Kapitalbeteiligungsquote oder Immobilienfonds- oder Auslands-Immobilienfondsquote während des Geschäftsjahres tatsächlich durchgehend überschritten hat, so ist die Teilfreistellung auf Antrag des Anlegers in der Veranlagung anzuwenden.
+(4) Weist der Anleger nach, dass der Investmentfonds die Aktienfonds- oder Mischfonds-Kapitalbeteiligungsquote oder Immobilienfonds- oder Auslands-Immobilienfondsquote während des Kalenderjahres tatsächlich durchgehend überschritten hat, so ist die Teilfreistellung auf Antrag des Anlegers in der Veranlagung anzuwenden. Wenn der Anleger in einem folgenden Veranlagungszeitraum Verluste in Höhe von mehr als 500 Euro aus der Veräußerung von Investmentanteilen erzielt oder Wertminderungen im Sinne von § 6 Absatz 1 Nummer 2 Satz 2 des Einkommensteuergesetzes von Investmentanteilen geltend macht, für die er zuvor den Nachweis nach Satz 1 erbracht hat, dann ist er verpflichtet, für den gesamten Besitzzeitraum die für die Prüfung der Voraussetzungen einer Teilfreistellung erforderlichen Informationen sowie die Rücknahmepreise zum jeweiligen Kalenderjahresende zu beschaffen und dem Finanzamt mit der Steuererklärung vorzulegen. Der Steuererklärung ist eine Steuerbescheinigung nach § 45a Absatz 2 des Einkommensteuergesetzes oder eine Verlustbescheinigung nach § 43a Absatz 3 Satz 4 des Einkommensteuergesetzes beizufügen, wenn Verluste aus der Veräußerung von Investmentanteilen erzielt werden, die von einer auszahlenden Stelle nach § 44 Absatz 1 Satz 4 des Einkommensteuergesetzes verwahrt oder verwaltet werden. Im Fall des Satzes 2 ist eine Veranlagung ungeachtet von § 46 Absatz 2 des Einkommensteuergesetzes vorzunehmen. Soweit der Anleger die Verpflichtung nach Satz 2 nicht erfüllt, kann das Finanzamt für den Verlust, der auf den gesamten Besitzzeitraum entfällt, den höchsten vom Anleger nachgewiesenen Teilfreistellungssatz anwenden.
+
+(4a) Das für die Veranlagung des Anlegers zuständige Finanzamt kann bei Verlusten aus der Veräußerung von Investmentanteilen oder bei Wertminderungen im Sinne von § 6 Absatz 1 Nummer 2 Satz 2 des Einkommensteuergesetzes von Investmentanteilen selbst im Rahmen der Veranlagung den Nachweis führen, dass der Investmentfonds die Aktienfonds- oder Mischfonds-Kapitalbeteiligungsquote oder Immobilienfonds- oder Auslands-Immobilienfondsquote während des Kalenderjahres tatsächlich durchgehend überschritten hat und die Höhe der Rücknahmepreise ermitteln.
 
 (5) Bei der Ermittlung des Gewerbeertrags nach § 7 des Gewerbesteuergesetzes sind die Freistellungen nach den Absätzen 1 bis 3 nur zur Hälfte zu berücksichtigen.
 
@@ -547,7 +588,7 @@ Betriebsvermögensminderungen, Betriebsausgaben, Veräußerungskosten oder Werbu
 
 #### § 22 Änderung des anwendbaren Teilfreistellungssatzes
 
-(1) Ändert sich der anwendbare Teilfreistellungssatz oder fallen die Voraussetzungen der Teilfreistellung weg, so gilt der Investmentanteil als veräußert und an dem Folgetag als angeschafft. Der Investmentanteil gilt mit Ablauf des Veranlagungszeitraums als veräußert, wenn der Anleger in dem Veranlagungszeitraum den Nachweis nach § 20 Absatz 4 erbringt und in dem folgenden Veranlagungszeitraum keinen Nachweis oder einen Nachweis für einen anderen Teilfreistellungssatz erbringt.
+(1) Ändert sich der anwendbare Teilfreistellungssatz oder fallen die Voraussetzungen der Teilfreistellung weg, so gilt der Investmentanteil als veräußert und an dem Folgetag als angeschafft. Der Investmentanteil gilt mit Ablauf des Veranlagungszeitraums als veräußert, wenn der Anleger in dem Veranlagungszeitraum den Nachweis nach § 20 Absatz 4 Satz 1 erbringt und für den folgenden Veranlagungszeitraum kein Nachweis oder ein Nachweis für einen anderen Teilfreistellungssatz erbracht wird.
 
 (2) Als Veräußerungserlös und Anschaffungskosten ist
 
@@ -560,7 +601,7 @@ Betriebsvermögensminderungen, Betriebsausgaben, Veräußerungskosten oder Werbu
 
 Wird kein Rücknahmepreis festgesetzt, so tritt der Börsen- oder Marktpreis an die Stelle des Rücknahmepreises. Ändert sich der anwendbare Teilfreistellungssatz durch die Einlage eines Investmentanteils in ein Betriebsvermögen, ist der nach den Sätzen 1 und 2 anzusetzende Wert als Einlagewert im Sinne von § 6 Absatz 1 Nummer 5 Satz 1 zweiter Halbsatz Buchstabe c des Einkommensteuergesetzes anzusetzen. Der nach den Sätzen 1 bis 3 anzusetzende Wert gilt als Anschaffungskosten im Sinne von § 6 Absatz 1 Nummer 2 Satz 1 des Einkommensteuergesetzes. Soweit der nach den Sätzen 1 bis 3 anzusetzende Wert höher ist als der Wert vor der fiktiven Veräußerung, sind Wertminderungen im Sinne von § 6 Absatz 1 Nummer 2 Satz 2 des Einkommensteuergesetzes erst zum Zeitpunkt der tatsächlichen Veräußerung des Investmentanteils zu berücksichtigen. Wertaufholungen im Sinne des § 6 Absatz 1 Nummer 2 Satz 3 in Verbindung mit Nummer 1 Satz 4 des Einkommensteuergesetzes sind erst zum Zeitpunkt der tatsächlichen Veräußerung zu berücksichtigen, soweit auf die vorherigen Wertminderungen Satz 5 angewendet wurde und soweit der Wert vor der fiktiven Veräußerung überschritten wird.
 
-(3) Der Gewinn aus der fiktiven Veräußerung nach Absatz 1 gilt in dem Zeitpunkt als zugeflossen, in dem der Investmentanteil tatsächlich veräußert wird oder nach § 19 Absatz 2 als veräußert gilt. Der Gewinn aus der fiktiven Veräußerung nach Absatz 1 unterliegt dem gesonderten Steuertarif für Einkünfte aus Kapitalvermögen nach § 32d des Einkommensteuergesetzes, wenn im Zeitpunkt der fiktiven Veräußerung die Voraussetzungen für eine Besteuerung nach § 20 Absatz 1 Nummer 3 des Einkommensteuergesetzes vorlagen und keine abweichende Zuordnung zu anderen Einkunftsarten nach § 20 Absatz 8 Satz 1 des Einkommensteuergesetzes vorzunehmen war.
+(3) Der Gewinn aus der fiktiven Veräußerung nach Absatz 1 gilt in dem Zeitpunkt als zugeflossen, in dem der Investmentanteil tatsächlich veräußert wird oder nach § 19 Absatz 2 oder 3 als veräußert gilt. Der Gewinn aus der fiktiven Veräußerung nach Absatz 1 unterliegt dem gesonderten Steuertarif für Einkünfte aus Kapitalvermögen nach § 32d des Einkommensteuergesetzes, wenn im Zeitpunkt der fiktiven Veräußerung die Voraussetzungen für eine Besteuerung nach § 20 Absatz 1 Nummer 3 des Einkommensteuergesetzes vorlagen und keine abweichende Zuordnung zu anderen Einkunftsarten nach § 20 Absatz 8 Satz 1 des Einkommensteuergesetzes vorzunehmen war.
 
 
 ### Abschnitt 3 - Verschmelzung von Investmentfonds
@@ -936,10 +977,10 @@ Investmenterträge)              sind
 1.  Kapitalerträge nach § 20 des Einkommensteuergesetzes mit Ausnahme der steuerfrei thesaurierbaren Kapitalerträge,
 
 
-2.  Erträge aus der Vermietung und Verpachtung von Grundstücken und grundstücksgleichen Rechten sowie Gewinne aus der Veräußerung von Grundstücken und grundstücksgleichen Rechten und
+2.  Erträge aus Vermietung und Verpachtung im Sinne des § 21 des Einkommensteuergesetzes sowie Gewinne aus der Veräußerung von Grundstücken und grundstücksgleichen Rechten und
 
 
-3.  sonstige Erträge.
+3.  sonstige Erträge mit Ausnahme der steuerfrei thesaurierbaren sonstigen Erträge.
 
 
 
@@ -958,11 +999,11 @@ Keine ausschüttungsgleichen Erträge sind die inländischen Beteiligungseinnahm
 
 
 
-(3) Sonstige Erträge sind Einkünfte, die nicht unter die §§ 20, 21 und 23 Absatz 1 Satz 1 Nummer 1 des Einkommensteuergesetzes fallen.
+(3) Sonstige Erträge sind Einkünfte, die nicht unter die §§ 20, 21 und 23 Absatz 1 Satz 1 Nummer 1 des Einkommensteuergesetzes fallen. Zu den sonstigen Erträgen gehören auch Einkünfte aus der Veräußerung von anderen Wirtschaftsgütern im Sinne des § 23 Absatz 1 Satz 1 Nummer 2 des Einkommensteuergesetzes, bei denen der Zeitraum zwischen Anschaffung und Veräußerung mehr als ein Jahr oder in den Fällen des § 23 Absatz 1 Satz 1 Nummer 2 Satz 4 des Einkommensteuergesetzes mehr als zehn Jahre beträgt. Steuerfrei thesaurierbare sonstige Erträge sind Gewinne aus der Veräußerung von Währungen, bei denen die zugrunde liegenden obligatorischen Geschäfte eine zeitlich verzögerte Erfüllung vorsehen, die aber keine Termingeschäfte nach § 20 Absatz 2 Satz 1 Nummer 3 des Einkommensteuergesetzes sind. Die Vorschriften betreffend die steuerfrei thesaurierbaren Kapitalerträge sind auf steuerfrei thesaurierbare sonstige Erträge entsprechend anzuwenden.
 
 (4) Die ausschüttungsgleichen Erträge sind nach § 37 mit der Maßgabe zu ermitteln, dass Einnahmen und Werbungskosten insoweit den Anlegern zugerechnet werden, wie diese zum Zeitpunkt des Zuflusses der Einnahmen oder des Abflusses der Werbungskosten Spezial-Investmentanteile an dem Spezial-Investmentfonds halten. Die ausschüttungsgleichen Erträge gelten mit Ablauf des Geschäftsjahres als zugeflossen, in dem sie vereinnahmt worden sind. Bei einer Veräußerung von Spezial-Investmentanteilen vor Ablauf des Geschäftsjahres gelten die ausschüttungsgleichen Erträge im Zeitpunkt der Veräußerung als zugeflossen. Bei Teilausschüttung der in den Absätzen 1 und 5 genannten Erträge innerhalb von vier Monaten nach Ablauf des Geschäftsjahres sind die ausschüttungsgleichen Erträge dem Anleger abweichend von Satz 2 im Zeitpunkt der Teilausschüttung zuzurechnen. Reicht die Ausschüttung nicht aus, um die Kapitalertragsteuer gemäß § 50 einschließlich der bundes- oder landesgesetzlich geregelten Zuschlagsteuern zur Kapitalertragsteuer gegenüber sämtlichen, am Ende des Geschäftsjahres beteiligten Anlegern einzubehalten, gilt auch die Teilausschüttung den Anlegern mit dem Ablauf des Geschäftsjahres, in dem die Erträge vom Spezial-Investmentfonds erzielt worden sind, als zugeflossen und für den Steuerabzug als ausschüttungsgleicher Ertrag.
 
-(5) Die steuerfrei thesaurierbaren Kapitalerträge gelten mit Ablauf des 15. Geschäftsjahres nach dem Geschäftsjahr der Vereinnahmung als ausschüttungsgleiche Erträge und zu diesem Zeitpunkt als zugeflossen, soweit sie die Verluste der Vorjahre übersteigen und nicht bis zum Ende des 15. Geschäftsjahres oder in den vorherigen Geschäftsjahren ausgeschüttet wurden. Absatz 4 ist auf die steuerfrei thesaurierbaren Kapitalerträge nicht anzuwenden.
+(5) Die steuerfrei thesaurierbaren Kapitalerträge gelten mit Ablauf des 15. Geschäftsjahres nach dem Geschäftsjahr der Vereinnahmung als ausschüttungsgleiche Erträge und zu diesem Zeitpunkt als zugeflossen, soweit sie die Verluste der Vorjahre übersteigen und nicht bis zum Ende des 15. Geschäftsjahres oder in den vorherigen Geschäftsjahren ausgeschüttet wurden.
 
 (6) Wird nicht spätestens vier Monate nach Ablauf des Geschäftsjahres des Spezial-Investmentfonds eine Ausschüttung der Erträge des abgelaufenen Geschäftsjahres vorgenommen, so gelten diese Erträge als nicht zur Ausschüttung verwendet.
 
@@ -1266,6 +1307,20 @@ Ausschüttungsgleiche Erträge, die in einem späteren Geschäftsjahr innerhalb 
 
 (4) § 15b des Einkommensteuergesetzes ist auf Verluste aus der Veräußerung von Spezial-Investmentanteilen sowie auf Verluste durch Ansatz des niedrigeren Teilwertes bei Spezial-Investmentanteilen entsprechend anzuwenden.
 
+(5) Soweit ein unbeschränkt Steuerpflichtiger seine Spezial-Investmentanteile nicht im Betriebsvermögen hält, stehen der Veräußerung von Spezial-Investmentanteilen zum gemeinen Wert gleich
+
+1.  die Beendigung der unbeschränkten Steuerpflicht des Anlegers infolge der Aufgabe des Wohnsitzes oder des gewöhnlichen Aufenthalts,
+
+
+2.  die unentgeltliche Übertragung auf eine nicht unbeschränkt steuerpflichtige Person sowie,
+
+
+3.  vorbehaltlich der Nummern 1 und 2, der Ausschluss oder die Beschränkung des Besteuerungsrechts der Bundesrepublik Deutschland hinsichtlich des Gewinns aus der Veräußerung der Spezial-Investmentanteile.
+
+
+
+Satz 1 ist nur anzuwenden, wenn die Summe der nach Absatz 1 bis 3 und § 56 ermittelten steuerpflichtigen Gewinne insgesamt positiv ist. § 6 Absatz 1 Satz 2 und 3 sowie Absatz 2 bis 5 des Außensteuergesetzes und § 17 Absatz 1 Satz 4 sowie Absatz 2 Satz 3 bis 5 des Einkommensteuergesetzes sind entsprechend anzuwenden. Bei der entsprechenden Anwendung des § 6 Absatz 3 Satz 1 Nummer 2 und Absatz 4 Satz 5 Nummer 5 des Außensteuergesetzes treten die ausgeschütteten und ausschüttungsgleichen Erträge an die Stelle der Gewinnausschüttungen und die Substanzbeträge nach § 35 Absatz 5 an die Stelle der Einlagenrückgewähr. § 6 Absatz 3 Satz 1 des Außensteuergesetzes ist mit der Maßgabe anzuwenden, dass anstatt des Entfalls des Steueranspruchs aufgrund einer nur vorübergehenden Abwesenheit die nach den §§ 49 und 56 ermittelten Gewinne zu dem Zeitpunkt zu berücksichtigen ist, zu dem der Spezial-Investmentanteil tatsächlich veräußert wird oder nach § 52 Absatz 2 Satz 1 als veräußert gilt. Der Spezial-Investmentanteil gilt in den Fällen des Satzes 5 mit Beginn des auf die Veräußerung nach Satz 1 folgenden Tages zum gemeinen Wert als angeschafft. Im Fall des Satzes 1 ist keine Kapitalertragsteuer zu erheben. Der Anleger hat den Spezial-Investmentfonds unverzüglich über die Veräußerung nach Satz 1 und 5 zu informieren.
+
 
 #### § 50 Kapitalertragsteuer
 
@@ -1416,7 +1471,7 @@ Ausschüttungsgleiche Erträge, die in einem späteren Geschäftsjahr innerhalb 
 
 (3) Der nach den am 31. Dezember 2017 geltenden Vorschriften ermittelte Gewinn aus der fiktiven Veräußerung nach Absatz 2 Satz 1 einschließlich außerbilanzieller Hinzurechnungen und Abrechnungen ist zu dem Zeitpunkt zu berücksichtigen, zu dem der Alt-Anteil tatsächlich veräußert wird. Bei der tatsächlichen Veräußerung von Alt-Anteilen gelten die zuerst angeschafften Anteile als zuerst veräußert. Der Gewinn aus der fiktiven Veräußerung nach Absatz 2 Satz 1 unterliegt zum Zeitpunkt der tatsächlichen Veräußerung des Alt-Anteils dem Steuerabzug nach § 43 Absatz 1 Satz 1 Nummer 9 des Einkommensteuergesetzes. Kann der Gewinn aus der fiktiven Veräußerung nicht ermittelt werden, so sind 30 Prozent des Rücknahmepreises oder, wenn kein Rücknahmepreis festgesetzt ist, des Börsen- oder Marktpreises als Bemessungsgrundlage für den Steuerabzug anzusetzen (Ersatzbemessungsgrundlage). Bei Ansatz der Ersatzbemessungsgrundlage ist die Abgeltungswirkung nach § 43 Absatz 5 Satz 1 erster Halbsatz des Einkommensteuergesetzes ausgeschlossen und der Entrichtungspflichtige ist verpflichtet, eine Steuerbescheinigung nach § 45a Absatz 2 des Einkommensteuergesetzes auszustellen, in der er den Ansatz der Ersatzbemessungsgrundlage kenntlich zu machen hat. Die als zugeflossen geltenden, aber noch nicht dem Steuerabzug unterworfenen Erträge nach § 7 Absatz 1 Satz 1 Nummer 3 in der bis zum 31. Dezember 2017 geltenden Fassung und der Zwischengewinn nach § 7 Absatz 1 Satz 1 Nummer 4 in der bis zum 31. Dezember 2017 geltenden Fassung unterliegen zum Zeitpunkt der tatsächlichen Veräußerung des Alt-Anteils dem Steuerabzug nach § 43 Absatz 1 Satz 1 Nummer 5 des Einkommensteuergesetzes. Die vorstehenden Sätze sind nicht auf den Gewinn aus der fiktiven Veräußerung nach Absatz 2 Satz 1 anzuwenden, wenn der Gewinn einem Investmentfonds oder einem Spezial-Investmentfonds zuzurechnen ist.
 
-(3a) Für die Zwecke der Absätze 2 und 3 steht eine fiktive Veräußerung nach § 19 Absatz 2 oder § 52 Absatz 2 einer tatsächlichen Veräußerung gleich.
+(3a) Für die Zwecke der Absätze 2 und 3 steht eine fiktive Veräußerung nach § 19 Absatz 2 oder 3, § 49 Absatz 5 oder § 52 Absatz 2 einer tatsächlichen Veräußerung gleich.
 
 (4) Die inländische Stelle, die die Alt-Anteile verwahrt oder verwaltet, hat bis zum 31. Dezember 2020 Folgendes zu ermitteln und bis zur tatsächlichen Veräußerung vorzuhalten:
 
@@ -1565,4 +1620,32 @@ in der Fassung des Artikels 4 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2050).
 in der Fassung des Artikels 14 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294).
 
 (8) § 4 Absatz 2 Nummer 1a und § 26 Nummer 7a in der Fassung des Artikels 25 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) sind nach dem 27. März 2024 anzuwenden. § 6 Absatz 5 Satz 1 Nummer 1 in der Fassung des Artikels 25 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist erstmals auf Gewinne aus der Veräußerung von Anteilen im Sinne des § 49 Absatz 1 Nummer 2 Buchstabe e Doppelbuchstabe cc des Einkommensteuergesetzes anzuwenden, bei denen die Veräußerung nach dem 27. März 2024 erfolgt und nur soweit den Gewinnen nach dem 27. März 2024 eingetretene Wertveränderungen zugrunde liegen. § 43 Absatz 1 in der Fassung des Artikels 25 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist erstmals für Geschäftsjahre anzuwenden, die nach dem 31. Dezember 2024 beginnen. § 2 Absatz 9a in der Fassung des Artikels 25 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist ab dem 1. Januar 2025 anzuwenden.
+
+(10) In der Fassung des Artikels 11 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) sind anzuwenden:
+
+1.  § 17 Absatz 1 Satz 4 ab dem 6. Dezember 2024,
+
+
+2.  § 8 Absatz 4 Satz 2, § 10 Absatz 6, § 20 Absatz 4 und 4a, § 22 Absatz 1 Satz 2 und Absatz 3 Satz 1, § 36 Absatz 5 sowie § 56 Absatz 3a ab dem 1. Januar 2025,
+
+
+3.  § 6 Absatz 4 Satz 1 auf Einkünfte, die einem Investmentfonds in einem Geschäftsjahr zufließen, das nach dem 31. Dezember 2024 beginnt,
+
+
+4.  § 36 Absatz 1 Satz 1 Nummer 2 auf Einkünfte, die einem Spezial-Investmentfonds in einem Geschäftsjahr zufließen, das nach dem 31. Dezember 2024 beginnt,
+
+
+5.  § 36 Absatz 1 Satz 1 Nummer 3 und Absatz 3 Satz 3 auf Gewinne aus der Veräußerung von Währungen mit zeitlich verzögerter Erfüllung, bei denen der obligatorische Vertrag in Geschäftsjahren des Spezial-Investmentfonds, die nach dem 31. Dezember 2024 beginnen, rechtswirksam abgeschlossen wird,
+
+
+6.  § 36 Absatz 3 Satz 2 auf Veräußerungsgeschäfte, bei denen die Wirtschaftsgüter in Geschäftsjahren des Spezial-Investmentfonds, die nach dem 31. Dezember 2024 beginnen, aufgrund eines nach diesem Zeitpunkt rechtswirksam abgeschlossenen obligatorischen Vertrags oder gleichstehenden Rechtsakts angeschafft werden,
+
+
+7.  § 19 Absatz 3 erstmals auf Fälle, in denen die unbeschränkte Steuerpflicht des Anlegers nach dem 31. Dezember 2024 endet, die Investmentanteile nach dem 31. Dezember 2024 unentgeltlich übertragen werden oder der Ausschluss oder die Beschränkung des Besteuerungsrechts der Bundesrepublik Deutschland hinsichtlich des Gewinns aus der Veräußerung der Investmentanteile nach dem 31. Dezember 2024 eingetreten ist, und
+
+
+8.  § 49 Absatz 5 erstmals auf Fälle, in denen die unbeschränkte Steuerpflicht des Anlegers nach dem 31. Dezember 2024 endet, die Spezial-Investmentanteile nach dem 31. Dezember 2024 unentgeltlich übertragen werden oder der Ausschluss oder die Beschränkung des Besteuerungsrechts der Bundesrepublik Deutschland hinsichtlich des Gewinns aus der Veräußerung der Spezial-Investmentanteile nach dem 31. Dezember 2024 eingetreten ist.
+
+
+
 

@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 14 G v. 24.10.2022 I 1838; 2023 I Nr. 109
 
 Änderung durch
-:   Art. 48 G v. 2.12.2024 I Nr. 387 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 48 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeines

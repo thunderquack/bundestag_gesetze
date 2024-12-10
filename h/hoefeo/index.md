@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.7.1976 I 1933;
 
 Zuletzt geändert durch
-:   Art. 24 G v. 20.11.2015 I 2010
+:   Art. 1 G v. 4.12.2024 I Nr. 395
 
 
 ## § 1 Begriff des Hofes

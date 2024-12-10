@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 7 G v. 25.6.2021 I 2056
 
 Änderung durch
-:   Art. 37 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+:   Art. 37 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2011/16/EU des Rates vom 15. Februar 2011 über die Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung und zur Aufhebung der Richtlinie 77/799/EWG (ABl. L 64 vom 11.3.2011, S. 1; Amtshilferichtlinie) in der Fassung der Richtlinie 2014/107/EU (ABl. L 359 vom 16.12.2014, S. 1) sowie der Umsetzung des Gesetzes zu der Mehrseitigen Vereinbarung vom 29. Oktober 2014 zwischen den zuständigen Behörden über den automatischen Austausch von Informationen über Finanzkonten (CRS-MCAA) vom 21. Dezember 2015 (BGBl. 2015 II S. 1630).
 
@@ -90,15 +90,31 @@ Gemäß den geltenden Melde- und Sorgfaltspflichten und ergänzenden Melde- und 
 
 (2) Die durch dieses Gesetz verpflichteten Finanzinstitute haben die Daten und Informationen zu erheben, zu speichern und zu verarbeiten soweit dies zur Erfüllung ihrer Pflichten nach Absatz 1 erforderlich ist.
 
-(3) Die Finanzinstitute nach Absatz 1 haben die bei der Erfüllung der Pflichten nach Absatz 1 erstellten Unterlagen zehn Jahre aufzubewahren. Die Frist zur Aufbewahrung beginnt mit Ablauf des Jahres,
+(3) Die Finanzinstitute nach Absatz 1 haben die folgenden Aufzeichnungen zu den in Satz 2 genannten Zeitpunkten zu erstellen:
 
-1.  in dem die Finanzinstitute oder Dienstleister im Sinne des § 9 Absatz 4 die Informationen nach Absatz 2 erhoben haben, oder
-
-
-2.  in dem das Konto aufgelöst wird, soweit die Unterlagen nach Satz 1 für die weitere Erfüllung der Pflichten nach Absatz 1 benötigt werden.
+1.  eine Beschreibung der Prozesse, einschließlich der automationstechnischen, operativen und organisatorischen Vorkehrungen, insbesondere der relevanten Geschäftsbeziehungen, Zuständigkeiten und Fristen, sowie aller Änderungen hierzu, die zur Erfüllung der Pflichten nach § 8 Absatz 1, 2 Satz 2, Absatz 4 und 5, den §§ 11, 12, § 13 Absatz 2 bis 4, nach § 14 Absatz 3 und 5, den §§ 15 16 Absatz 2 und 3, nach § 21 Absatz 2 auch unter Berücksichtigung der Vorgaben nach den §§ 9, 10 Absatz 2, nach § 14 Absatz 2 und 4, § 16 Absatz 3 und 4, § 17 Absatz 2, den §§ 18 und 22 in Bezug auf einen Meldezeitraum angewandt wurden;
 
 
+2.  in Bezug auf jedes Konto die für die Anwendung der Sorgfaltspflichten nach § 8 Absatz 2 Satz 2, § 11 Absatz 1 und 2 Satz 1, Absatz 3 und 4, § 12 Absatz 1 Nummer 1, 2 Satz 2, Nummer 3 Satz 2, Absatz 3 und 4 Satz 1, Absatz 5 Satz 1, den Absatz 6, 7 und 9, § 13 Absatz 2, 2a Satz 1 bis 3, Absatz 4, § 14 Absatz 3 bis 5, den §§ 15, 16 Absatz 2, 2a Satz 1 bis 3, Absatz 3 und 4, nach § 17 Absatz 1 und 2, § 18 Absatz 1 Satz 1, Absatz 2 Satz 1, Absatz 3, den §§ 21 und 22 verarbeiteten Informationen, den jeweiligen Zeitpunkt der Verarbeitung und das Ergebnis der Verarbeitung;
 
+
+3.  in Bezug auf jedes Konto die nach § 8 Absatz 1, § 11 Absatz 2 Satz 2, § 12 Absatz 4 Satz 2, § 13 Absatz 2a Satz 4 und § 16 Absatz 2a Satz 4 gemeldeten Informationen und den jeweiligen Zeitpunkt einer Meldung.
+
+
+
+Die Aufzeichnungen nach Satz 1 sind zu erstellen:
+
+1.  für Aufzeichnungen nach Nummer 1 spätestens bis zum Ablauf des jeweiligen Meldezeitraums, auf den sich die Aufzeichnungen beziehen,
+
+
+2.  für Aufzeichnungen nach Nummer 2 im Zeitpunkt der jeweiligen Verarbeitung,
+
+
+3.  für Aufzeichnungen nach Nummer 3 bis zum Meldezeitpunkt nach § 6 Absatz 3.
+
+
+
+Die Aufzeichnungen nach Satz 1 müssen nach Maßgabe des Satzes 5 für die Dauer von zehn Jahren aufbewahrt werden. Die Aufzeichnungen nach Satz 1 Nummer 2 und 3 sind nach Ablauf dieser Frist zu löschen. Die Frist zur Aufbewahrung beginnt mit Ablauf des Kalenderjahres, in dem die Aufzeichnungen erstellt worden sind.
 
 
 ### § 3a Pflichten der Kontoinhaber und der Antragsteller
@@ -108,6 +124,11 @@ Gemäß den geltenden Melde- und Sorgfaltspflichten und ergänzenden Melde- und 
 (2) Hat nach diesem Gesetz ein meldendes Finanzinstitut Selbstauskünfte oder Belege einzuholen, so sind diese Informationen oder Unterlagen vollständig und richtig zu erteilen oder herauszugeben.
 
 (3) Wer einem meldenden Finanzinstitut eine Selbstauskunft erteilt hat, muss dem Finanzinstitut bei einer Änderung der Gegebenheiten die neu zutreffenden Angaben bis zum letzten Tag des maßgeblichen Kalenderjahres oder eines anderen geeigneten Meldezeitraums oder 90 Kalendertage nach dem Eintritt der Änderung der Gegebenheiten, je nachdem, welches Datum später ist, mit einer Selbstauskunft richtig und vollständig mitteilen.
+
+
+### § 3b Verhinderung der Umgehung der Meldepflicht
+
+Durch Missbrauch von Gestaltungsmöglichkeiten des Rechts können die Verpflichtungen aus diesem Gesetz nicht umgangen werden. § 42 der Abgabenordnung gilt entsprechend.
 
 
 ### § 4 Zuständige Behörde
@@ -127,7 +148,7 @@ Zuständige Behörde im Sinne dieses Gesetzes ist das Bundesministerium der Fina
 
 (5) Die nach den Absätzen 2 und 3 beim Bundeszentralamt für Steuern gespeicherten Daten werden ab dem Zeitpunkt der Übermittlung nach Absatz 2 Satz 1 15 Jahre lang aufbewahrt. Mit Ablauf eines Jahres der Aufbewahrung nach Satz 1 werden die Daten gelöscht. Geht vor dem in Satz 2 genannten Zeitpunkt eine Änderungsmeldung ein, so beginnt die Frist nach Satz 1 mit dem Zeitpunkt, zu dem die Änderungsmeldung eingegangen ist.
 
-(6) Das Bundeszentralamt für Steuern ist für die Prüfung der Einhaltung der den Finanzinstituten nach diesem Gesetz auferlegten Melde- und Sorgfaltspflichten, besonderen Sorgfaltspflichten sowie ergänzenden Melde- und Sorgfaltsvorschriften für Informationen über Finanzkonten zuständig. Die §§ 193 bis 203 der Abgabenordnung gelten entsprechend.
+(6) Das Bundeszentralamt für Steuern ist für die Prüfung der Einhaltung der den Finanzinstituten nach diesem Gesetz auferlegten Melde- und Sorgfaltspflichten, besonderen Sorgfaltspflichten sowie ergänzenden Melde- und Sorgfaltsvorschriften für Informationen über Finanzkonten zuständig. § 147 Absatz 5 bis 7 und die §§ 193 bis 203a der Abgabenordnung gelten entsprechend.
 
 (7) Die aufgrund dieses Gesetzes vom Bundeszentralamt für Steuern als zuständige Behörde erhobenen und gespeicherten Daten dürfen nur für die in den zugrunde liegenden Regelungen gemäß § 1 Absatz 1 festgelegten Zwecke verwendet werden.
 
@@ -136,7 +157,7 @@ Zuständige Behörde im Sinne dieses Gesetzes ist das Bundesministerium der Fina
 
 ### § 6 Ansässigkeit; Zeitpunkt der Erstanwendung
 
-(1) Finanzinstitute haben zur Wahrung der Melde- und Sorgfaltspflichten nach diesem Gesetz zu den von ihnen geführten Konten die steuerliche Ansässigkeit des Konteninhabers zu erheben und seinem Konto zuzuordnen, unabhängig davon, ob es sich bei dem Kontoinhaber oder dem sonstigen Kunden um eine meldepflichtige Person im Sinne der Melde- und Sorgfaltspflichten nach diesem Gesetz handelt. Bei der Erhebung der steuerlichen Ansässigkeit nach Satz 1 gelten die von den Finanzinstituten geführten Konten insoweit als Konten, für die die Melde- und Sorgfaltspflichten nach diesem Gesetz einzuhalten sind; dies schließt auch die Erhebung der Steueridentifikationsnummer ein.
+(1) Finanzinstitute haben zur Wahrung der Melde- und Sorgfaltspflichten nach diesem Gesetz zu den von ihnen geführten Konten die steuerliche Ansässigkeit des Konteninhabers zu erheben und seinem Konto zuzuordnen, unabhängig davon, ob es sich bei dem Kontoinhaber oder dem sonstigen Kunden um eine meldepflichtige Person im Sinne der Melde- und Sorgfaltspflichten nach diesem Gesetz handelt. Bei der Erhebung der steuerlichen Ansässigkeit nach Satz 1 gelten die von den Finanzinstituten geführten Konten insoweit als Konten, für die die Melde- und Sorgfaltspflichten nach diesem Gesetz einzuhalten sind; dies schließt auch die Erhebung ausländischer Steueridentifikationsnummern ein.
 
 (2) Jedes meldende Finanzinstitut teilt vor einer erstmaligen Übermittlung von Daten nach § 8 jeder betroffenen Person in allgemeiner Form mit oder macht dieser zugänglich, dass die nach diesem Gesetz ermittelten Daten, soweit aufgrund dieses Gesetzes erforderlich, an das Bundeszentralamt für Steuern für Zwecke der Übermittlung an den Ansässigkeitsstaat des Kontoinhabers übermittelt werden.
 
@@ -187,7 +208,16 @@ Die §§ 8 bis 26 legen die allgemeinen Melde- und Sorgfaltspflichten, die beson
 
 Zu den nach Satz 1 Nummer 4 bis 7 gemeldeten Daten muss die Währung genannt werden, auf die die Beträge lauten.
 
-(2) Die Steueridentifikationsnummer oder -nummern und das Geburtsdatum müssen in Bezug auf meldepflichtige Konten, die bestehende Konten sind, nicht gemeldet werden, wenn diese Steueridentifikationsnummer oder -nummern beziehungsweise dieses Geburtsdatum nicht in den Unterlagen des meldenden Finanzinstituts enthalten sind und nicht nach innerstaatlichem Recht oder anderen Rechtsinstrumenten der Europäischen Union von diesem meldenden Finanzinstitut zu erfassen sind. Ein meldendes Finanzinstitut ist jedoch verpflichtet, angemessene Anstrengungen zu unternehmen, um bei bestehenden Konten die Steueridentifikationsnummer und das Geburtsdatum bis zum Ende des zweiten Kalenderjahrs, das dem Jahr folgt, in dem bestehende Konten als meldepflichtige Konten identifiziert wurden, zu beschaffen.
+(2) Die Steueridentifikationsnummer oder -nummern und das Geburtsdatum müssen in Bezug auf meldepflichtige Konten, die bestehende Konten sind, nicht gemeldet werden, wenn diese Steueridentifikationsnummer oder -nummern beziehungsweise dieses Geburtsdatum nicht in den Unterlagen des meldenden Finanzinstituts enthalten sind und nicht nach innerstaatlichem Recht oder anderen Rechtsinstrumenten der Europäischen Union von diesem meldenden Finanzinstitut zu erfassen sind. Ein meldendes Finanzinstitut ist jedoch verpflichtet, angemessene Anstrengungen zu unternehmen, um bei bestehenden Konten die Steueridentifikationsnummer und das Geburtsdatum bis zum Ende des zweiten Kalenderjahrs, das dem Jahr folgt, in dem bestehende Konten als meldepflichtige Konten identifiziert wurden, zu beschaffen. Zur Beschaffung der in Satz 2 genannten Informationen bis zu dem in Satz 2 genannten Zeitpunkt hat ein meldendes Finanzinstitut einmal im Kalenderjahr
+
+1.  Kontakt mit dem Kontoinhaber aufzunehmen sowie
+
+
+2.  elektronisch durchsuchbare Informationen eines verbundenen Rechtsträgers des meldenden Finanzinstituts zu überprüfen.
+
+
+
+Hätte das meldende Finanzinstitut seiner Verpflichtung nach den Sätzen 2 und 3 bereits bis zum 6. Dezember 2024 nachkommen müssen und ist dies unterblieben, so hat es die Verpflichtung nach den Sätzen 2 und 3 bis zum 31. Dezember 2025 und danach im Falle der Nichterlangung der nach Satz 2 zu beschaffenden Informationen bis zum Ende eines jeden Folgejahres nachzuholen.
 
 (3) Die Steueridentifikationsnummer ist nicht zu melden, wenn vom betreffenden Staat keine Steueridentifikationsnummer ausgegeben wird.
 
@@ -285,7 +315,7 @@ Werden bei der elektronischen Suche keine Indizien im Sinne des Satzes 1 Nummer 
 
 
 
-(4) Die Überprüfung von bestehenden Konten von geringerem Wert natürlicher Personen muss bis zum 31. Dezember 2017 abgeschlossen sein.
+(4) Die Überprüfung von bestehenden Konten von geringerem Wert natürlicher Personen muss vom meldenden Finanzinstitut bis zum 31. Dezember 2017 abgeschlossen sein. Hat das meldende Finanzinstitut die Überprüfung nicht bis zum 6. Dezember 2024 abgeschlossen, ist es verpflichtet, diese bis zum 31. Dezember 2025 nachzuholen.
 
 
 ### § 12 Konten von hohem Wert
@@ -355,7 +385,7 @@ Zusätzlich zur Suche in elektronischen Datensätzen und Papierunterlagen, wie i
 
 (8) Ein meldendes Finanzinstitut muss Verfahren einrichten, mit denen sichergestellt wird, dass die Kundenbetreuer Änderungen der Gegebenheiten bei einem Konto erkennen. Wird ein Kundenbetreuer beispielsweise benachrichtigt, dass der Kontoinhaber eine neue Postanschrift in einem meldepflichtigen Staat im Sinne des § 1 Absatz 1 hat, so muss das meldende Finanzinstitut die neue Anschrift als eine Änderung der Gegebenheiten betrachten und ist, sofern es sich für die Anwendung von § 11 Absatz 3 entscheidet, dazu verpflichtet, die entsprechenden Unterlagen vom Kontoinhaber zu beschaffen.
 
-(9) Die Überprüfung bestehender Konten von hohem Wert natürlicher Personen muss bis zum 31. Dezember 2016 abgeschlossen sein.
+(9) Die Überprüfung bestehender Konten von hohem Wert natürlicher Personen muss vom meldenden Finanzinstitut bis zum 31. Dezember 2016 abgeschlossen sein. Hat das meldende Finanzinstitut die Überprüfung nicht bis zum 6. Dezember 2024 abgeschlossen, ist es verpflichtet, diese bis zum 31. Dezember 2025 nachzuholen.
 
 
 ### § 13 Sorgfaltspflichten bei Neukonten natürlicher Personen
@@ -373,11 +403,26 @@ Zusätzlich zur Suche in elektronischen Datensätzen und Papierunterlagen, wie i
 
 
 
-Im Fall des Satzes 1 muss sichergestellt sein, dass vor der Beschaffung der Selbstauskunft oder der Bestätigung ihrer Plausibilität keine Gelder von dem Konto abverfügt werden können. Für den Fall einer Rückzahlung eingegangener Gelder dürfen diese nur an den Einzahler ausgezahlt werden. Kann die Selbstauskunft innerhalb von 90 Kalendertagen seit der Kontoeröffnung nicht beschafft oder ihre Plausibilität nicht bestätigt werden, muss das meldende Finanzinstitut dies dem Bundeszentralamt für Steuern unverzüglich unter Angabe aller zur Identifizierung des Kontoinhabers zur Verfügung stehenden Angaben mitteilen.
+Im Fall des Satzes 1 muss das meldende Finanzinstitut sicherstellen, dass vor der Beschaffung der Selbstauskunft oder der Bestätigung ihrer Plausibilität keine Gelder von dem Konto abverfügt werden können. Für den Fall einer Rückzahlung eingegangener Gelder dürfen diese nur an den Einzahler ausgezahlt werden. Kann die Selbstauskunft innerhalb von 90 Kalendertagen seit der Kontoeröffnung nicht beschafft oder ihre Plausibilität nicht bestätigt werden, muss das meldende Finanzinstitut dem Bundeszentralamt für Steuern unverzüglich Folgendes mitteilen:
+
+1.  die Tatsache, dass die Beschaffung der Selbstauskunft aus rechtlichen oder aus tatsächlichen Gründen unmöglich oder die Bestätigung der Plausibilität unzumutbar war;
+
+
+2.  in Fällen nach Satz 1 Nummer 1 die Gründe der tatsächlichen oder rechtlichen Unmöglichkeit und in Fällen nach Satz 1 Nummer 2 die Gründe der Unzumutbarkeit;
+
+
+3.  ob eine Abverfügung im Sinne des Satzes 2 ausgeschlossen wurde und eine Rückzahlung im Sinne des Satzes 3 erfolgt ist;
+
+
+4.  alle zur Identifizierung des Kontoinhabers zur Verfügung stehenden Angaben.
+
+
+
+Die Mitteilung nach Satz 4 hat nach amtlich vorgeschriebener Form elektronisch im Wege der Datenfernübertragung über eine amtlich bestimmte Schnittstelle zu erfolgen.
 
 (3) Geht aus der Selbstauskunft nach Absatz 2 hervor, dass der Kontoinhaber in einem meldepflichtigen Staat steuerlich ansässig ist, so muss das meldende Finanzinstitut das Konto als meldepflichtiges Konto betrachten und die Selbstauskunft auch die Steueridentifikationsnummer des Kontoinhabers in dem meldepflichtigen Staat vorbehaltlich des § 8 Absatz 3 sowie das Geburtsdatum enthalten.
 
-(4) Tritt bei einem Neukonto natürlicher Personen eine Änderung der Gegebenheiten ein, aufgrund derer dem meldenden Finanzinstitut bekannt ist oder bekannt sein müsste, dass die ursprüngliche Selbstauskunft nicht zutreffend oder unglaubwürdig ist, so darf es sich nicht auf die ursprüngliche Selbstauskunft verlassen und muss eine gültige Selbstauskunft beschaffen, aus der die steuerliche Ansässigkeit oder steuerlichen Ansässigkeiten des Kontoinhabers hervorgeht oder hervorgehen.
+(4) Tritt bei einem Neukonto natürlicher Personen eine Änderung der Gegebenheiten ein, aufgrund derer dem meldenden Finanzinstitut bekannt ist oder bekannt sein müsste, dass die ursprüngliche Selbstauskunft nicht zutreffend oder unglaubwürdig ist, so darf es sich nicht auf die ursprüngliche Selbstauskunft verlassen und muss es unverzüglich nach Änderung der Gegebenheiten eine gültige Selbstauskunft beschaffen, aus der die steuerliche Ansässigkeit oder steuerlichen Ansässigkeiten des Kontoinhabers hervorgeht oder hervorgehen.
 
 
 ### § 14 Sorgfaltspflichten bei bestehenden Konten von Rechtsträgern
@@ -433,9 +478,9 @@ Von den in Absatz 3 beschriebenen bestehenden Konten von Rechtsträgern gelten n
 
 ### § 15 Überprüfungszeitraum und zusätzliche Verfahren für bestehende Konten von Rechtsträgern
 
-(1) Die Überprüfung bestehender Konten von Rechtsträgern mit einem Gesamtkontosaldo oder Gesamtkontowert von mehr als 250 000 US-Dollar zum 31. Dezember 2015 muss bis zum 31. Dezember 2017 abgeschlossen sein.
+(1) Die Überprüfung bestehender Konten von Rechtsträgern mit einem Gesamtkontosaldo oder Gesamtkontowert von mehr als 250 000 US-Dollar zum 31. Dezember 2015 muss vom meldenden Finanzinstitut bis zum 31. Dezember 2017 abgeschlossen sein. Hat das meldende Finanzinstitut die Überprüfung nach Satz 1 nicht bis zum 6. Dezember 2024 abgeschlossen, ist es verpflichtet, diese bis zum 31. Dezember 2025 nachzuholen.
 
-(2) Die Überprüfung bestehender Konten von Rechtsträgern, deren Gesamtkontosaldo oder Gesamtkontowert zum 31. Dezember 2015 250 000 US-Dollar nicht übersteigt, zum 31. Dezember eines Folgejahres jedoch diesen Betrag übersteigt, muss innerhalb des Kalenderjahrs nach dem Jahr, in dem der Gesamtkontosaldo oder Gesamtkontowert diesen Betrag übersteigt, abgeschlossen sein.
+(2) Die Überprüfung bestehender Konten von Rechtsträgern, deren Gesamtkontosaldo oder Gesamtkontowert zum 31. Dezember 2015 250 000 US-Dollar nicht übersteigt, zum 31. Dezember eines Folgejahres jedoch diesen Betrag übersteigt, muss vom meldenden Finanzinstitut innerhalb des Kalenderjahrs nach dem Jahr, in dem der Gesamtkontosaldo oder Gesamtkontowert diesen Betrag übersteigt, abgeschlossen sein. Hätte das meldende Finanzinstitut die Überprüfung nach Satz 1 bis zum 31. Dezember 2024 abschließen müssen und ist es dieser Pflicht nicht nachgekommen, so hat es die Überprüfung bis zum 31. Dezember 2025 nachzuholen.
 
 (3) Tritt bei einem bestehenden Konto von Rechtsträgern eine Änderung der Gegebenheiten ein, aufgrund derer dem meldenden Finanzinstitut bekannt ist oder bekannt sein müsste, dass die Selbstauskunft oder andere kontobezogene Unterlagen nicht zutreffend oder unglaubwürdig sind, so muss es den Status des Kontos nach dem in § 14 Absatz 5 festgelegten Verfahren neu bestimmen.
 
@@ -444,7 +489,7 @@ Von den in Absatz 3 beschriebenen bestehenden Konten von Rechtsträgern gelten n
 
 (1) Die Identifizierung meldepflichtiger Konten unter den Neukonten von Rechtsträgern richtet sich nach den folgenden Absätzen.
 
-(2) Bei Neukonten von Rechtsträgern muss ein meldendes Finanzinstitut die folgenden Überprüfungsverfahren durchführen, um festzustellen, ob das Konto von einer meldepflichtigen Person oder mehreren meldepflichtigen Personen oder von passiven NFEs mit einer oder mehreren beherrschenden Personen, die meldepflichtige Personen sind, gehalten wird:
+(2) Bei Neukonten von Rechtsträgern muss ein meldendes Finanzinstitut vor Kontoeröffnung die folgenden Überprüfungsverfahren durchführen, um festzustellen, ob das Konto von einer meldepflichtigen Person oder mehreren meldepflichtigen Personen oder von passiven NFEs mit einer oder mehreren beherrschenden Personen, die meldepflichtige Personen sind, gehalten wird:
 
 1.  Feststellung, ob der Rechtsträger eine meldepflichtige Person ist:
 
@@ -472,7 +517,22 @@ Von den in Absatz 3 beschriebenen bestehenden Konten von Rechtsträgern gelten n
 
 
 
-Im Fall des Satzes 1 muss sichergestellt sein, dass vor der Beschaffung der Selbstauskunft oder der Bestätigung ihrer Plausibilität keine Gelder von dem Konto abverfügt werden können. Für den Fall einer Rückzahlung eingegangener Gelder dürfen diese nur an den Einzahler ausgezahlt werden. Kann die Selbstauskunft innerhalb von 90 Kalendertagen seit der Kontoeröffnung nicht beschafft oder ihre Plausibilität nicht bestätigt werden, muss das meldende Finanzinstitut dies dem Bundeszentralamt für Steuern unverzüglich unter Angabe aller zur Identifizierung des Kontoinhabers zur Verfügung stehenden Angaben mitteilen.
+Im Fall des Satzes 1 muss das meldende Finanzinstitut sicherstellen, dass vor der Beschaffung der Selbstauskunft oder der Bestätigung ihrer Plausibilität keine Gelder von dem Konto abverfügt werden können. Für den Fall einer Rückzahlung eingegangener Gelder dürfen diese nur an den Einzahler ausgezahlt werden. Kann die Selbstauskunft innerhalb von 90 Kalendertagen seit der Kontoeröffnung nicht beschafft oder ihre Plausibilität nicht bestätigt werden, muss das meldende Finanzinstitut dem Bundeszentralamt für Steuern unverzüglich Folgendes mitteilen:
+
+1.  die Tatsache, dass die Beschaffung der Selbstauskunft aus rechtlichen oder aus tatsächlichen Gründen unmöglich oder die Bestätigung der Plausibilität unzumutbar war;
+
+
+2.  in den Fällen nach Satz 1 Nummer 1 die Gründe der tatsächlichen oder rechtlichen Unmöglichkeit und in den Fällen nach Satz 1 Nummer 2 die Gründe der Unzumutbarkeit;
+
+
+3.  ob eine Abverfügung im Sinne des Satzes 2 ausgeschlossen wurde und eine Rückzahlung im Sinne des Satzes 3 erfolgt ist;
+
+
+4.  alle zur Identifizierung des Kontoinhabers zur Verfügung stehenden Angaben.
+
+
+
+Die Mitteilung nach Satz 4 hat nach amtlich vorgeschriebener Form elektronisch im Wege der Datenfernübertragung über eine amtlich bestimmte Schnittstelle zu erfolgen.
 
 (3) Zur Feststellung der beherrschenden Personen eines Kontoinhabers kann sich ein meldendes Finanzinstitut auf die aufgrund von Verfahren zur Bekämpfung der Geldwäsche und Kundensorgfaltspflichten (AML/KYC – Anti-Money Laundering/Know-your-Customer) erhobenen und verwahrten Informationen verlassen.
 
@@ -1235,23 +1295,64 @@ Gemäß § 20 Nummer 6 Buchstabe c müssen amtliche Dokumente in Bezug auf einen
 
 (2) Die Finanzinstitute haben dem Bundeszentralamt für Steuern die Daten nach § 8 nach amtlich vorgeschriebenem Datensatz elektronisch im Wege der Datenfernübertragung jeweils zum 31. Juli eines Jahres für das vorhergehende Kalenderjahr zu übermitteln; beginnend zum 31. Juli 2017 für 2016.
 
+(3) § 3 Absatz 3 und § 28 Absatz 1 Nummer 1 bis 3 und 7 bis 13 in der Fassung des Artikels 37 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) gelten ab dem 1. Januar 2025 und nur für Pflichten in Bezug auf Meldezeiträume, die am oder nach dem 1. Januar 2025 beginnen.
+
 
 ### § 28 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
-1.  entgegen § 3a Absatz 2 eine Selbstauskunft oder einen Beleg nicht richtig oder nicht vollständig erteilt;
+1.  entgegen § 3 Absatz 3 Satz 1 eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt,
 
 
-2.  entgegen § 3a Absatz 3 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht; oder
+2.  entgegen § 3 Absatz 3 Satz 3 eine Aufzeichnung nicht oder nicht mindestens zehn Jahre aufbewahrt,
 
 
-3.  entgegen § 8 Absatz 1 Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+3.  entgegen § 3 Absatz 3 Satz 4 eine Aufzeichnung nicht oder nicht rechtzeitig löscht,
+
+
+4.  entgegen § 3a Absatz 2 eine Selbstauskunft oder einen Beleg nicht richtig oder nicht vollständig erteilt,
+
+
+5.  entgegen
+
+    a)  § 3a Absatz 3 oder
+
+
+    b)  § 13 Absatz 2a Satz 4 oder § 16 Absatz 2a Satz 4
+
+
+
+    eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+
+6.  entgegen § 8 Absatz 1 Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+
+7.  entgegen § 8 Absatz 2 Satz 3, auch in Verbindung mit Satz 4, Kontakt mit dem Kontoinhaber nicht oder nicht rechtzeitig aufnimmt oder eine dort genannte Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig überprüft,
+
+
+8.  entgegen § 11 Absatz 4 Satz 2, § 12 Absatz 9 Satz 2, § 15 Absatz 1 Satz 2 oder Absatz 2 Satz 2 eine Überprüfung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nachholt,
+
+
+9.  entgegen § 13 Absatz 2 oder 4 oder § 21 Absatz 2 Satz 1 eine Selbstauskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig beschafft oder die Plausibilität dieser Selbstauskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig bestätigt,
+
+
+10. entgegen § 13 Absatz 2a Satz 2 oder § 16 Absatz 2a Satz 2 nicht sicherstellt, dass kein Geld von dem Konto abverfügt werden kann,
+
+
+11. entgegen § 15 Absatz 2 Satz 1 eine Überprüfung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig abschließt,
+
+
+12. entgegen § 16 Absatz 2 ein Überprüfungsverfahren nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführt oder
+
+
+13. entgegen § 17 Absatz 1 sich auf eine Selbstauskunft oder einen Beleg verlässt.
 
 
 
 
-(1a) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 3 mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
+(1a) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 5 Buchstabe b und Nummer 6 bis 13 mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
 (2) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundeszentralamt für Steuern.
 

@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 34 G v. 23.10.2024 I Nr. 323
 
 Änderung durch
-:   Art. 32 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+:   Art. 32 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt I - Steuerpflicht
@@ -529,7 +529,7 @@ Hatte der Steuerschuldner bis zur Bekanntgabe der Jahressteuer keine Vorauszahlu
 
 (2) Die in der Hauptveranlagung 2025 festgesetzten Steuermessbeträge gelten abweichend von § 16 Absatz 2 vorbehaltlich der §§ 17 bis 20 mit Wirkung von dem am 1. Januar 2025 beginnenden Kalenderjahr an. Der Beginn dieses Kalenderjahres ist der Hauptveranlagungszeitpunkt.
 
-(3) Bescheide über die Hauptveranlagung können schon vor dem Hauptveranlagungszeitpunkt erteilt werden. § 21 Satz 2 ist entsprechend anzuwenden.
+(3) Bescheide über die Hauptveranlagung können schon vor dem Hauptveranlagungszeitpunkt erteilt werden. § 21 Satz 2 ist entsprechend anzuwenden. Eine Aufhebung oder Änderung des Bescheids über die Hauptveranlagung findet auch zur Beseitigung eines Fehlers statt, wenn der Fehler der Finanzbehörde bis zum Ablauf des Kalenderjahres der Hauptveranlagung bekannt wird.
 
 
 ### § 37 Anwendung des Gesetzes

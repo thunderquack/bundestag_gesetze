@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 64 G v. 23.10.2024 I Nr. 323
 
 Änderung durch
-:   Art. 21 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+:   Art. 21 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 22 G v. 2.12.2024 I Nr. 387 mWv 1.1.2025 noch nicht berücksichtigt
@@ -163,7 +163,7 @@ Bundesfinanzbehörden sind
     soweit das zuständige Bundesministerium seine Befugnisse in diesem Bereich delegiert;
 
 
-5a. die Entgegennahme und Weiterleitung von Meldungen nach auf der Grundlage von § 117c der Abgabenordnung ergangenen Rechtsverordnungen und die Durchführung von Bußgeldverfahren in den Fällen des § 379 Absatz 2 Nummer 1b der Abgabenordnung sowie die Auswertung dieser Meldungen im Rahmen der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben;
+5a. die Entgegennahme und Weiterleitung von Meldungen nach auf der Grundlage von § 117c der Abgabenordnung ergangenen Rechtsverordnungen und die Durchführung von Bußgeldverfahren in den Fällen des § 379 Absatz 2 Nummer 1b der Abgabenordnung und in den Fällen der auf Grundlage von § 117c Absatz 1 Satz 1 Nummer 5 der Abgabenordnung ergangenen Rechtsverordnung sowie die Auswertung dieser Meldungen im Rahmen der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben;
 
 
 5b. die Entgegennahme und Weiterleitung von Meldungen und Auswertungen im Rahmen der nach § 2 des Gesetzes zum automatischen Austausch von Informationen über Finanzkonten in Steuersachen auszutauschenden Informationen und die Durchführung von Bußgeldverfahren nach § 28 des vorgenannten Gesetzes;
@@ -276,7 +276,7 @@ Bundesfinanzbehörden sind
 
 
 18.
-    a)  die Weiterleitung der Daten, die nach § 10 Absatz 2a, 2b und 4b des Einkommensteuergesetzes in den dort genannten Fällen zu übermitteln sind,
+    a)  die Weiterleitung der Daten, die nach § 10 Absatz 2a, 2b, 2c und 4b des Einkommensteuergesetzes in den dort genannten Fällen zu übermitteln sind,
 
 
     b)  die Sammlung, Auswertung und Weitergabe der Daten, die nach § 10a Absatz 5 des Einkommensteuergesetzes in den dort genannten Fällen zu übermitteln sind,
@@ -288,7 +288,7 @@ Bundesfinanzbehörden sind
     d)  bei einer Datenübermittlung nach § 22a Absatz 1 des Einkommensteuergesetzes die Prüfung nach § 93c Absatz 4 Satz 1 der Abgabenordnung und die Erhebung des Verspätungsgeldes nach § 22a Absatz 5 des Einkommensteuergesetzes,
 
 
-    e)  die Übermittlung der Identifikationsnummer (§ 139b der Abgabenordnung) im Anfrageverfahren nach § 22a Absatz 2 in Verbindung mit § 10 Absatz 2a, 2b und 4b, § 10a Absatz 5 und § 32b Absatz 3 Satz 1 sowie nach § 52 Absatz 30b des Einkommensteuergesetzes,
+    e)  die Übermittlung der Identifikationsnummer (§ 139b der Abgabenordnung) im Anfrageverfahren nach § 22a Absatz 2 in Verbindung mit § 10 Absatz 2a, 2b, 2c und 4b, § 10a Absatz 5 und § 32b Absatz 3 Satz 1 sowie nach § 52 Absatz 30b des Einkommensteuergesetzes,
 
 
     f)  die Gewährung der Altersvorsorgezulage nach Abschnitt XI des Einkommensteuergesetzes sowie
@@ -322,7 +322,7 @@ Bundesfinanzbehörden sind
 25. die Verwaltung der Versicherung- und Feuerschutzsteuer und die zentrale Sammlung und Auswertung der Informationen für die Verwaltung der Versicherung- und Feuerschutzsteuer;
 
 
-26. Entgegennahme von Meldungen und Zahlungen von Zinsabschlag nach der Zinsinformationsverordnung und deren Weiterleitung;
+26. (weggefallen)
 
 
 27. die Erteilung von verbindlichen Auskünften nach § 89 Abs. 2 Satz 3 der Abgabenordnung;
@@ -419,16 +419,19 @@ Bundesfinanzbehörden sind
     d)  die Bereitstellung für Zwecke des Sonderausgabenabzugs nach § 10b des Einkommensteuergesetzes und der Steuerermäßigung des § 34g des Einkommensteuergesetzes der in § 60b Absatz 2 der Abgabenordnung als automatisiert abrufbare Merkmale der im Zuwendungsempfängerregister geführten Körperschaften, Personenvereinigungen, Vermögensmassen, juristischen Personen des öffentlichen Rechts oder öffentlichen Dienststellen für die Finanzbehörden der Länder und für Dritte,
 
 
-    e)  die Erteilung von Auskünften aus der zentralen Sammlung nach Buchstabe a im Wege einer elektronischen Abfrage durch die Finanzbehörden der Länder und durch Dritte.
+    e)  die Erteilung von Auskünften aus der zentralen Sammlung nach Buchstabe a im Wege einer elektronischen Abfrage durch die Finanzbehörden der Länder und durch Dritte;
 
 
 
+
+
+48. die Wahrnehmung der Aufgaben der Direktauszahlungsbehörde nach § 139e der Abgabenordnung.
 
 
 
 Das Bundeszentralamt für Steuern hat Daten, die von ihm oder der zentralen Stelle im Sinne des § 81 des Einkommensteuergesetzes nach § 88 Absatz 4 der Abgabenordnung nicht an die Landesfinanzbehörden weitergeleitet wurden, bis zum Ablauf des 15. Jahres nach dem Jahr des Zugangs der Daten zur Durchführung von Verfahren im Sinne des § 30 Absatz 2 Nummer 1 Buchstabe a und b der Abgabenordnung sowie zur Datenschutzkontrolle zu speichern.
 
-(1a) Soweit durch Absatz 1 Aufgaben der Steuerverwaltung übertragen wurden, ist hiervon auch die Durchführung von Vorfeldermittlungen nach § 208 Absatz 1 Satz 1 Nummer 3 der Abgabenordnung umfasst. Dies gilt nicht für Fälle des Absatzes 1 Satz 1 Nummer 1, 5, 5c bis 5f, 6, 7, 9, 10, 13 bis 17, 19, 22 bis 24, 26, 28, 28a, 28b, 29a bis 34, 36, 38, 42 bis 46 und 46b.
+(1a) Soweit durch Absatz 1 Aufgaben der Steuerverwaltung übertragen wurden, ist hiervon auch die Durchführung von Vorfeldermittlungen nach § 208 Absatz 1 Satz 1 Nummer 3 der Abgabenordnung umfasst. Dies gilt nicht für Fälle des Absatzes 1 Satz 1 Nummer 1, 5, 5c bis 5f, 6, 7, 9, 10, 13 bis 17, 19, 22 bis 24, 28, 28a, 28b, 29a bis 34, 36, 38, 42 bis 45, 46 und 46b.
 
 (2) Die vom Bundeszentralamt für Steuern auf Grund gesetzlicher Vorschriften gewährten Steuererstattungen und Steuervergütungen sowie die nach § 44b Absatz 6 Satz 1 bis 3 des Einkommensteuergesetzes erstattete Kapitalertragsteuer werden von den Ländern in dem Verhältnis getragen, in dem sie an dem Aufkommen der betreffenden Steuern beteiligt sind. Kapitalertragsteuer, die das Bundeszentralamt für Steuern anlässlich der Vergütung von Körperschaftsteuer vereinnahmt hat, steht den Ländern in demselben Verhältnis zu. Für die Aufteilung ist das Aufkommen an den betreffenden Steuern in den einzelnen Ländern maßgebend, das sich ohne Berücksichtigung der in den Sätzen 1 und 2 bezeichneten Steuerbeträge für das Vorjahr ergibt. Das Nähere bestimmt das Bundesministerium der Finanzen durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf.
 
@@ -438,7 +441,7 @@ Das Bundeszentralamt für Steuern hat Daten, die von ihm oder der zentralen Stel
 
 (5) An dem Aufkommen der von der vereinnahmten pauschalen Lohnsteuer (§ 40a Abs. 6 des Einkommensteuergesetzes) sind die Länder und Gemeinden, in denen die Steuerpflichtigen ihren Wohnsitz haben, nach den für die Verteilung des Aufkommens der Einkommensteuer maßgebenden Vorschriften zu beteiligen. Nach Ablauf eines jeden Monats werden die Anteile der einzelnen Länder einschließlich ihrer Gemeinden an der vereinnahmten pauschalen Lohnsteuer festgestellt. Die nach Satz 2 festgestellten Anteile sind an die Länder bis zum 15. des darauf folgenden Monats auszuzahlen. Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere zur Verwaltung und Auszahlung der einheitlichen Pauschsteuer zu bestimmen.
 
-(6) An dem Aufkommen der nach der Richtlinie 2003/48/EG des Rates vom 3. Juni 2003 im Bereich der Besteuerung von Zinserträgen (ABl. EU Nr. L 157 S. 38, 2005 Nr. L 103 S. 41), zuletzt geändert durch die Richtlinie 2006/98/EG des Rates vom 20. November 2006 (ABl. EU Nr. L 363 S. 129), in der jeweils geltenden Fassung von den berechtigten Mitgliedstaaten sowie von den in Artikel 17 dieser Richtlinie genannten Staaten und abhängigen Gebieten erhobenen Quellensteuer sind die Länder und Gemeinden entsprechend ihrem Anteil an der Kapitalertragsteuer nach § 43 Abs. 1 Satz 1 Nr. 6, 7 und 8 bis 12 sowie Satz 2 des Einkommensteuergesetzes zu beteiligen. Die Verteilung des Länder- und Gemeindeanteils auf die einzelnen Länder erfolgt nach den Anteilen an der Kapitalertragsteuer nach § 43 Abs. 1 Satz 1 Nr. 6, 7 und 8 bis 12 sowie Satz 2 des Einkommensteuergesetzes vom Vorjahr, die den Ländern und Gemeinden nach Zerlegung (§ 8 des Zerlegungsgesetzes) zustehen; für 2009 sind die Anteile der Länder und Gemeinden am Zinsabschlagsaufkommen des Jahres 2008 nach Zerlegung maßgeblich. Das Bundeszentralamt für Steuern stellt jeweils nach Ablauf eines Monats die Anteile der Länder einschließlich ihrer Gemeinden fest und zahlt sie an die Länder bis zum 15. des dem Abrechnungsmonat folgenden Monats aus. Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere zur Verwaltung und Auszahlung dieser Quellensteuer zu bestimmen.
+(6) (weggefallen)
 
 (7) Das Aufkommen der in Ausübung der Aufgaben nach Absatz 1 Nummer 12 zugeflossenen Einkommen- und Körperschaftsteuer steht den Ländern und Gemeinden nach den für die Verteilung des Aufkommens der Einkommen- und Körperschaftsteuer maßgebenden Vorschriften zu. Nach Ablauf eines jeden Monats werden die Anteile der einzelnen Länder einschließlich ihrer Gemeinden an den Einnahmen durch das Bundeszentralamt für Steuern festgestellt. Die nach Satz 2 festgestellten Anteile sind an die Länder bis zum 15. des darauf folgenden Monats auszuzahlen. Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere zur Verwaltung und Auszahlung der Einnahmen in Ausübung der Aufgaben nach Absatz 1 Nummer 12 zu bestimmen.
 

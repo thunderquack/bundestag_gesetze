@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 881, 885 (1977 I 288)
 
 Zuletzt geändert durch
-:   Art. 25 G v. 20.11.2015 I 2010
+:   Art. 2 G v. 4.12.2024 I Nr. 395
 
 
 ## § 1 Verhältnis zum allgemeinen Verfahrensrecht

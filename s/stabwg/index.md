@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 8 Abs. 2 G v. 20.12.2022 I 2730
 
 Änderung durch
-:   Art. 40 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 noch nicht berücksichtigt
+:   Art. 40 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -150,10 +150,21 @@ Unterhält ein Steuerpflichtiger Geschäftsbeziehungen oder Beteiligungsverhält
 
 Aufwendungen aus Geschäftsvorgängen im Sinne des § 7 dürfen den Gewinn oder den Überschuss der Einnahmen über die Werbungskosten nicht mindern. Dies gilt nicht, soweit
 
-1.  die den Aufwendungen entsprechenden Erträge der unbeschränkten oder beschränkten Steuerpflicht nach den Vorschriften des Einkommensteuergesetzes, Körperschaftsteuergesetzes oder dieses Gesetzes unterliegen; oder
+1.  die den Aufwendungen entsprechenden Erträge der unbeschränkten oder beschränkten Steuerpflicht nach den Vorschriften des Einkommensteuergesetzes, Körperschaftsteuergesetzes oder dieses Gesetzes unterliegen;
 
 
-2.  auf Grund der aus den Aufwendungen resultierenden Einnahmen ein Hinzurechnungsbetrag im Sinne des § 10 Absatz 1 Satz 1 des Außensteuergesetzes anzusetzen ist.
+2.  auf Grund der aus den Aufwendungen resultierenden Einnahmen ein Hinzurechnungsbetrag im Sinne des § 10 Absatz 1 Satz 1 des Außensteuergesetzes anzusetzen ist; oder
+
+
+3.  die Aufwendungen stammen aus
+
+    a)  Inhaberschuldverschreibungen, die durch eine Globalurkunde verbrieft und im Rahmen der Girosammelverwahrung bei einem Zentralverwahrer verwahrt werden und mit diesen vergleichbare Schuldtitel, die an einer anerkannten Börse im Sinne des § 138 Absatz 2 Satz 1 Nummer 3 Buchstabe b Satz 2 der Abgabenordnung handelbar sind; oder
+
+
+    b)  Versicherungs- oder Rückversicherungsleistungen. Dies gilt nicht für Versicherungs- oder Rückversicherungsprämien.
+
+
+
 
 
 
@@ -254,6 +265,8 @@ Die Aufzeichnungen nach Satz 1 sind spätestens ein Jahr nach Ablauf des betreff
 (1) Die Abschnitte 3 und 4 dieses Gesetzes sind ab dem 1. Januar 2022 anzuwenden.
 
 (1a) § 10 in der Fassung des Artikels 24 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) ist erstmals ab dem 1. Januar 2022 anzuwenden.
+
+(1b) § 8 in der Fassung des Artikels 40 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) ist erstmals ab dem 1. Januar 2025 anzuwenden.
 
 (2) Abweichend von Absatz 1 sind die Abschnitte 3 und 4 dieses Gesetzes in Bezug auf Steuerhoheitsgebiete, die am 1. Januar 2021 nicht auf der im Amtsblatt der Europäischen Union veröffentlichten EU-Liste nicht kooperativer Länder und Gebiete für Steuerzwecke genannt waren, ab dem 1. Januar 2023 anzuwenden.
 

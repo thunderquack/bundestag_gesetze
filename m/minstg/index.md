@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2023, Nr. 397
 
 Änderung durch
-:   Art. 39 G v. 2.12.2024 I Nr. 387 mWv 28.12.2023 noch nicht berücksichtigt
+:   Art. 39 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -43,7 +43,7 @@ Die Mindeststeuer umfasst den Primärergänzungssteuerbetrag nach den §§ 8 bis
 
 #### § 3 Mindeststeuergruppe
 
-(1) Die nach § 1 steuerpflichtigen Geschäftseinheiten einer Unternehmensgruppe bilden eine Mindeststeuergruppe. Die Primärergänzungssteuerbeträge, Sekundärergänzungssteuerbeträge und nationalen Ergänzungssteuerbeträge dieser Geschäftseinheiten werden dem Gruppenträger zugerechnet. Der Gruppenträger schuldet die Mindeststeuer.
+(1) Die nach § 1 steuerpflichtigen Geschäftseinheiten einer Unternehmensgruppe bilden eine Mindeststeuergruppe. Die Primärergänzungssteuerbeträge, Sekundärergänzungssteuerbeträge und nationalen Ergänzungssteuerbeträge dieser Geschäftseinheiten werden dem Gruppenträger zugerechnet. Der Gruppenträger schuldet die Mindeststeuer. Als Mindeststeuergruppe sowie Gruppenträger gilt auch eine einzige im Inland belegene, nach § 1 steuerpflichtige Geschäftseinheit einer Unternehmensgruppe.
 
 (2) Steuerpflichtige Joint Ventures und ihre Tochtergesellschaften im Sinne des § 1 Absatz 2 gelten für Zwecke dieses Paragraphen als Geschäftseinheiten der Unternehmensgruppe, deren oberste Muttergesellschaft das Joint Venture im Konzernabschluss entsprechend § 67 Absatz 4 erfasst. Gilt ein Joint Venture als Geschäftseinheit zweier Unternehmensgruppen, ist dessen nationaler Ergänzungssteuerbetrag hälftig aufzuteilen.
 
@@ -1562,6 +1562,8 @@ Für den Fall, dass in einem der zwei dem Geschäftsjahr vorangegangenen Geschä
 
 
 
+
+(3) Lohnkosten nach Absatz 2 Satz 1 werden anteilig berücksichtigt, wenn der Beschäftigte nach Absatz 1 nicht mehr als 50 Prozent seiner Arbeitszeit im Geschäftsjahr im Steuerhoheitsgebiet der Geschäftseinheit ausübt.
 
 
 #### § 60 Berücksichtigungsfähige materielle Vermögenswerte

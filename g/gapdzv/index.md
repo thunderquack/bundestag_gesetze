@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 4.12.2023 I Nr. 343
 
+Änderung durch
+:   Art. 1 G v. 4.12.2024 I Nr. 396 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Gem. § 28 Abs. 2 F. 24.1.2022 iVm Bek. v. 9.12.2022 I 2287 ist diese V im Übrigen am 22.11.2022 in Kraft getreten
 
 ## Eingangsformel
