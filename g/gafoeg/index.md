@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4602
 
-Änderung durch
-:   Art. 6 G v. 21.11.2024 I Nr. 361 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 6 G v. 21.11.2024 I Nr. 361
 
 
 ## Eingangsformel
