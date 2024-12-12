@@ -17,8 +17,9 @@ Fundstelle
 :   BGBl I: 2017, 842
 
 Zuletzt geändert durch
-:   Art. 3 G v. 8.5.2024 I Nr. 151
+:   Art. 1 V v. 11.12.2024 I Nr. 402
 
+Stand: Die V ist gem. Art. 2 Abs. 1 V v. 10.04.2017 I 842 am 1.7.2017 in Kraft getreten
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
 

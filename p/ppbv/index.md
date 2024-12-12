@@ -14,7 +14,10 @@ Ausfertigungsdatum
 :   2024-06-12
 
 Fundstelle
-:   BGBl. I: 2024, Nr. 188
+:   BGBl I: 2024, Nr. 188
+
+Änderung durch
+:   Art. 5b G v. 5.12.2024 I Nr. 400 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -69,9 +72,7 @@ Auf Grund des § 137k Absatz 4 des Fünften Buches Sozialgesetzbuch, der durch A
 
 (4) Hebamme im Sinne dieser Verordnung ist eine Person mit einer Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“ nach § 5 Absatz 1 des Hebammengesetzes, auch in Verbindung mit den §§ 73 und 74 Absatz 1 des Hebammengesetzes.
 
-[^F830285_01_BJNR0BC0A0024BJNE000300000]
-(5) Der Standort eines Krankenhauses im Sinne dieser Verordnung bestimmt sich nach § 2 der Vereinbarung über die Definition von Standorten der Krankenhäuser und ihrer Ambulanzen gemäß § 2a Absatz 1 des Krankenhausfinanzierungsgesetzes zwischen dem GKV-Spitzenverband KdöR, Berlin, und der Deutschen Krankenhausgesellschaft e.V., Berlin, vom 29. August 2017, die auf der Internetseite der Deutschen Krankenhausgesellschaft
-veröffentlicht ist.
+(5) Der Standort eines Krankenhauses im Sinne dieser Verordnung bestimmt sich nach § 2a des Krankenhausfinanzierungsgesetzes.
 
 (6) Patientin oder Patient im Sinne dieser Verordnung ist eine Person, die in ein Krankenhaus zur stationären oder teilstationären Behandlung aufgenommen wurde oder die in einem Krankenhaus nach § 115f des Fünften Buches Sozialgesetzbuch vergütete Leistungen in Anspruch nimmt.
 
@@ -87,8 +88,6 @@ veröffentlicht ist.
 
 (12) Erwachsene im Sinne dieser Verordnung sind Personen, die das achtzehnte Lebensjahr vollendet haben.
 
-    Amtlicher Hinweis: die Vereinbarung ist abrufbar unter https://www.dkgev.de/fileadmin/default/Mediapool/2\_Themen/2.1\_Digitalisierung\_Daten/2.1.2.\_Informationstechnik\_im\_Krankenhaus/2.1.2.1.\_Verzeichnisse\_und\_Register/Vereinbarungen\_Standortdefinition.pdf
-[^F830285_01_BJNR0BC0A0024BJNE000300000]: 
 
 ### § 3 Entsprechende Anwendung der Vorschriften über die Ermittlung des Pflegebedarfs der teilstationär zu behandelnden Patientinnen und Patienten
 

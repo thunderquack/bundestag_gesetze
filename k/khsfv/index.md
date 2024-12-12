@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 20.12.2022 I 2793
 
+Änderung durch
+:   Art. 4a G v. 5.12.2024 I Nr. 400 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -87,7 +90,7 @@ Auf Grund des § 12 Absatz 3 des Krankenhausfinanzierungsgesetzes, der durch Art
 
 ### § 4 Antragstellung
 
-(1) Die Länder können bis zum 31. Juli 2017 Anträge an das Bundesamt für Soziale Sicherung auf Auszahlung von Fördermitteln aus dem Strukturfonds stellen. Wird ein fristgemäß gestellter Antrag nach Fristablauf bestandskräftig abgelehnt oder zurückgenommen oder werden Fördermittel nach § 7 zurückgezahlt, kann das betreffende Land auch nach dem 31. Juli 2017 Fördermittel beantragen, soweit sein Anteil nach § 3 Absatz 1 noch nicht ausgeschöpft ist.
+(1) Die Länder können bis zum 31. Juli 2017 Anträge an das Bundesamt für Soziale Sicherung auf Auszahlung von Fördermitteln aus dem Strukturfonds stellen. Wird ein fristgemäß gestellter Antrag nach Fristablauf bestandskräftig abgelehnt oder zurückgenommen oder werden Fördermittel nach § 7 zurückgezahlt, kann das betreffende Land bis zum 31. Dezember 2025 Fördermittel beantragen, soweit sein Anteil nach § 3 Absatz 1 noch nicht ausgeschöpft ist.
 
 (2) Dem Antrag sind die nachfolgenden Unterlagen beizufügen:
 
@@ -319,7 +322,7 @@ Im Fall einer finanziellen Beteiligung der privaten Krankenversicherung an der F
 
 ### § 14 Antragstellung
 
-(1) Die Länder können bis zum 31. Dezember 2024 Anträge an das Bundesversicherungsamt auf Auszahlung von Fördermitteln nach § 12a des Krankenhausfinanzierungsgesetzes aus dem Strukturfonds stellen. Wird ein fristgemäß gestellter Antrag nach Fristablauf bestandskräftig abgelehnt oder zurückgenommen oder werden Fördermittel nach § 16 zurückgezahlt, kann das antragstellende Land, soweit sein Anteil nach § 13 Absatz 1 noch nicht ausgeschöpft ist, oder können die gemeinsam antragstellenden Länder, soweit der Betrag nach § 13 Absatz 1, der für die Förderung länderübergreifender Vorhaben zur Verfügung steht, noch nicht ausgeschöpft ist, auch nach dem 31. Dezember 2024 Fördermittel beantragen.
+(1) Die Länder können bis zum 31. Dezember 2025 Anträge an das Bundesversicherungsamt auf Auszahlung von Fördermitteln nach § 12a des Krankenhausfinanzierungsgesetzes aus dem Strukturfonds stellen.
 
 (2) Dem Antrag sind die in § 4 Absatz 2 Satz 1 Nummer 1, 2 und 7 genannten Unterlagen sowie darüber hinaus folgende Unterlagen beizufügen:
 

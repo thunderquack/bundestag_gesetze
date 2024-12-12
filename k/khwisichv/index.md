@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 8.12.2023 I Nr. 356
 
+Änderung durch
+:   Art. 5 G v. 5.12.2024 I Nr. 400 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -135,7 +138,7 @@ Das Institut für das Entgeltsystem im Krankenhaus übermittelt die Übersicht a
 
 (5) Die Frist nach § 111d Absatz 2 Satz 4 des Fünften Buches Sozialgesetzbuch wird bis zum 15. Juni 2021 verlängert.
 
-(6) Die Frist nach § 415 Satz 1 des Fünften Buches Sozialgesetzbuch wird bis zum 31. Dezember 2024 verlängert.
+(6) (weggefallen)
 
 
 ## § 5 Erlösausgleiche für das Jahr 2021

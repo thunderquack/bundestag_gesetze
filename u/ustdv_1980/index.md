@@ -28,7 +28,7 @@ Zuletzt geändert durch
 :   Art. 29 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 30 G v. 2.12.2024 I Nr. 387 mWv 1.1.2028 noch nicht berücksichtigt
+:   Art. 30 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## - - Zu § 3a des Gesetzes

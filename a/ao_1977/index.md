@@ -25,13 +25,13 @@ Zuletzt geändert durch
 :   Art. 16 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 17 G v. 2.12.2024 I Nr. 387 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 17 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 18 G v. 2.12.2024 I Nr. 387 mit zukünftiger Wirkung noch nicht berücksichtigt
+:   Art. 18 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 19 G v. 2.12.2024 I Nr. 387 mit zukünftiger Wirkung noch nicht berücksichtigt
+:   Art. 19 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Einleitende Vorschriften

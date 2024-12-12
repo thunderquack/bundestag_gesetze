@@ -31,13 +31,13 @@ Zuletzt geändert durch
 :   Art. 3 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 4 G v. 2.12.2024 I Nr. 387 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 4 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 5 G v. 2.12.2024 I Nr. 387 mWv 1.1.2026 noch nicht berücksichtigt
+:   Art. 5 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 6 G v. 2.12.2024 I Nr. 387 mWv 1.1.2027 noch nicht berücksichtigt
+:   Art. 6 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## I. - Steuerpflicht

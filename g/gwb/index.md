@@ -22,6 +22,9 @@ Zuletzt geändert durch
 :   Art. 25 G v. 15.7.2024 I Nr. 236
 
 Änderung durch
+:   Art. 6 G v. 5.12.2024 I Nr. 400 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
 :   Art. 20 Nr. 1 G v. 9.12.2004 I 3220 war nicht ausführbar, da zu diesem Zeitpunkt keine amtliche Inhaltsübersicht existierte
 
 
@@ -5402,19 +5405,33 @@ Die Vergabekammern und die Oberlandesgerichte unterrichten das Bundesministerium
 1.  der Zusammenschluss eine standortübergreifende Konzentration von mehreren Krankenhäusern oder einzelnen Fachrichtungen mehrerer Krankenhäuser zum Gegenstand hat,
 
 
-2.  dem Zusammenschluss keine anderen wettbewerbsrechtlichen Vorschriften entgegenstehen und dies das Land bei Antragstellung nach § 14 Absatz 2 Nummer 3 Buchstabe a der Krankenhausstrukturfonds-Verordnung bestätigt hat,
+2.  dem Zusammenschluss keine anderen wettbewerbsrechtlichen Vorschriften entgegenstehen und dies das Land bei Antragstellung nach der Krankenhausstrukturfonds-Verordnung bestätigt hat,
 
 
-3.  das Vorliegen der weiteren Voraussetzungen für eine Förderung nach § 12a Absatz 1 Satz 4 des Krankenhausfinanzierungsgesetzes in Verbindung mit § 11 Absatz 1 Nummer 2 der Krankenhausstrukturfonds-Verordnung in einem Auszahlungsbescheid nach § 15 der Krankenhausstrukturfonds-Verordnung festgestellt wurde und
+3.  das Vorliegen der weiteren Voraussetzungen für eine Förderung nach § 12a Absatz 1 Satz 4 des Krankenhausfinanzierungsgesetzes in Verbindung mit § 11 Absatz 1 Nummer 2 der Krankenhausstrukturfonds-Verordnung oder nach § 12b Absatz 1 Satz 4 Nummer 1 des Krankenhausfinanzierungsgesetzes in einem Auszahlungsbescheid auf der Grundlage der Krankenhausstrukturfonds-Verordnung festgestellt wurde und
 
 
-4.  der Zusammenschluss bis zum 31. Dezember 2027 vollzogen wird.
+4.  der Zusammenschluss bis zum 31. Dezember 2038 vollzogen wird.
 
 
 
-Ein Zusammenschluss im Sinne des Satzes 1 ist dem Bundeskartellamt nach Vollzug anzuzeigen. Für die Evaluierung dieser Regelung sind die §§ 32e und 21 Absatz 3 Satz 8 des Krankenhausentgeltgesetzes entsprechend anzuwenden. Für die Zwecke der Evaluierung und zur Untersuchung der Auswirkungen dieser Regelung auf die Wettbewerbsverhältnisse und die Versorgungsqualität können Daten aus der amtlichen Krankenhausstatistik zusammengeführt werden.
+Werden Zusammenschlüsse im Krankenhausbereich beim Bundeskartellamt nach § 39 Absatz 1 angemeldet, ist das Bundeskartellamt darüber zu informieren, inwieweit ein Antrag auf Förderung aus den Mitteln des Krankenhausstrukturfonds oder des Transformationsfonds gestellt wurde; ein Zusammenschluss im Sinne des Satzes 1 ist dem Bundeskartellamt nach Vollzug anzuzeigen. Für die Evaluierung dieser Regelung sind die §§ 32e und 21 Absatz 3 Satz 8 des Krankenhausentgeltgesetzes entsprechend anzuwenden. Für die Zwecke der Evaluierung und zur Untersuchung der Auswirkungen dieser Regelung auf die Wettbewerbsverhältnisse und die Versorgungsqualität können Daten aus der amtlichen Krankenhausstatistik zusammengeführt werden. Diese Regelung ist anzuwenden auf Zusammenschlüsse, die ab dem 1. Januar 2031 vollzogen werden.
 
-(10) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates im Hinblick auf das Abkommen zwischen dem Bundesministerium für Wirtschaft und Klimaschutz der Bundesrepublik Deutschland und dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung der Schweizerischen Eidgenossenschaft über Zusammenarbeit und Koordinierung der Wettbewerbsbehörden, zu bestimmen, dass
+(10) Die §§ 35 bis 41 sind nicht anzuwenden auf einen Zusammenschluss im Krankenhausbereich, sofern
+
+1.  der Zusammenschluss eine standortübergreifende Konzentration von mehreren Krankenhäusern im Sinne des § 2 Nummer 1 des Krankenhausfinanzierungsgesetzes oder einzelnen Fachrichtungen solcher Krankenhäuser zum Gegenstand hat,
+
+
+2.  die für die Krankenhausplanung zuständigen Landesbehörden der Bundesländer, in denen die am Zusammenschluss beteiligten Krankenhäuser oder einzelnen Fachrichtungen solcher Krankenhäuser belegen sind, – im Falle der Zuständigkeit mehrerer Landesbehörden einvernehmlich – schriftlich bestätigen, dass sie den Zusammenschluss zur Verbesserung der Krankenhausversorgung für erforderlich halten und dem Zusammenschluss nach vorliegenden Erkenntnissen keine anderen wettbewerbsrechtlichen Vorschriften entgegenstehen,
+
+
+3.  der Zusammenschluss bis zum 31. Dezember 2030 vollzogen wird.
+
+
+
+Anträge auf schriftliche Bestätigung nach Satz 1 Nummer 2 sind unverzüglich durch die zuständigen Landesministerien auf ihren Internetseiten unter Nennung der Zusammenschlussbeteiligten zu veröffentlichen. Die für die Krankenhausplanung zuständigen Landesbehörden der Bundesländer setzen sich mit dem Bundeskartellamt vor einer Bestätigung nach Satz 1 Nummer 2 ins Benehmen. Über den Antrag nach Satz 1 Nummer 2 darf nicht vor Ablauf von einem Monat nach der Veröffentlichung entschieden werden. Eine Anmeldung eines Zusammenschlusses im Sinne des Satzes 1 Nummer 1 und 3 ist beim Bundeskartellamt nach § 39 Absatz 1 erst dann zulässig, wenn die Zusammenschlussparteien gegenüber dem Bundeskartellamt nachweisen, dass ihr Antrag auf schriftliche Bestätigung nach Satz 1 Nummer 2 durch die zuständigen Landesbehörden abgelehnt oder nicht innerhalb von zwei Monaten beschieden wurde. Das Bundesministerium für Wirtschaft und Klimaschutz berichtet auf Grundlage einer Stellungnahme der Monopolkommission den gesetzgebenden Körperschaften spätestens nach Ablauf von sechs Jahren nach Inkrafttreten der Regelungen in den Sätzen 1 bis 4 über die Erfahrungen mit dieser Vorschrift. Für Datenanforderungen des Bundesministeriums für Wirtschaft und Klimaschutz und der Monopolkommission zur Evaluierung im Sinne dieses Absatzes ist § 21 Absatz 3 Satz 8 des Krankenhausentgeltgesetzes entsprechend anzuwenden, soweit die Krankenhäuser von einem Zusammenschluss im Sinne des Satzes 1 betroffen sind. § 21 Absatz 3 Satz 9 des Krankenhausentgeltgesetzes findet insofern keine Anwendung. Für die Zwecke der Evaluierung und zur Untersuchung der Auswirkungen dieser Regelungen auf die Wettbewerbsverhältnisse und die Krankenhausversorgung können Daten aus der amtlichen Krankenhausstatistik zusammengeführt werden.
+
+(11) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates im Hinblick auf das Abkommen zwischen dem Bundesministerium für Wirtschaft und Klimaschutz der Bundesrepublik Deutschland und dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung der Schweizerischen Eidgenossenschaft über Zusammenarbeit und Koordinierung der Wettbewerbsbehörden, zu bestimmen, dass
 
 1.  Informationen ausschließlich in kartellbehördlichen Verfahren und sich daran anschließenden Rechtsbehelfsverfahren sowie nur für die Zwecke, für die sie von der schweizerischen Wettbewerbsbehörde übermittelt wurden, verwendet werden dürfen und
 
@@ -5425,5 +5442,5 @@ Ein Zusammenschluss im Sinne des Satzes 1 ist dem Bundeskartellamt nach Vollzug 
 
 soweit sich die in dem Abkommen von der Bundesrepublik Deutschland übernommenen Verpflichtungen und gewährten Rechte im Rahmen der nach den §§ 50a bis 50f zulässigen zwischenbehördlichen Zusammenarbeit halten. Bestimmungen einer Rechtsverordnung nach Satz 1 sind erst ab dem Tag anzuwenden, ab dem das in Satz 1 bezeichnete Abkommen wirksam geworden ist. Das Bundesministerium für Wirtschaft und Klimaschutz gibt den Tag unter Angabe der Bezeichnung des Abkommens zwischen dem Bundesministerium für Wirtschaft und Klimaschutz der Bundesrepublik Deutschland und dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung der Schweizerischen Eidgenossenschaft über Zusammenarbeit und Koordinierung der Wettbewerbsbehörden und dessen Fundstelle im Bundesgesetzblatt bekannt.
 
-(11) Das Bundeskartellamt kann eine Verfügung nach § 32f Absatz 2 auch auf der Grundlage einer Sektoruntersuchung nach § 32e erlassen, die am 7. November 2023 bereits abgeschlossen war, wenn die Veröffentlichung des Abschlussberichts nach § 32e Absatz 4 zu diesem Zeitpunkt weniger als ein Jahr zurücklag. In den Fällen des Satzes 1 ist § 32f Absatz 7 mit der Maßgabe anzuwenden, dass die Frist am 7. November 2023 zu laufen beginnt.
+(12) Das Bundeskartellamt kann eine Verfügung nach § 32f Absatz 2 auch auf der Grundlage einer Sektoruntersuchung nach § 32e erlassen, die am 7. November 2023 bereits abgeschlossen war, wenn die Veröffentlichung des Abschlussberichts nach § 32e Absatz 4 zu diesem Zeitpunkt weniger als ein Jahr zurücklag. In den Fällen des Satzes 1 ist § 32f Absatz 7 mit der Maßgabe anzuwenden, dass die Frist am 7. November 2023 zu laufen beginnt.
 

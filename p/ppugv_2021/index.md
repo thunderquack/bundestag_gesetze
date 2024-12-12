@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 4.11.2024 I Nr. 345
 
+Änderung durch
+:   Art. 5a G v. 5.12.2024 I Nr. 400 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 860-5-54 v. 28.10.2019 I 1492 (PpUGV 2019)
 
 ## Eingangsformel
@@ -64,7 +67,7 @@ Zu den Pflegehilfskräften im Sinne dieser Verordnung zählen außerdem
 
 (2) Schichten im Sinne dieser Verordnung sind die Tagschicht und die Nachtschicht. Die Tagschicht umfasst den Zeitraum von 6 Uhr bis 22 Uhr. Die Nachtschicht umfasst den Zeitraum von 22 Uhr bis 6 Uhr. Die Bestimmung der Tagschicht und der Nachtschicht nach den Sätzen 2 und 3 lässt die Schichteinteilungen unberührt, die in den Krankenhäusern insbesondere zur Gewährleistung familienfreundlicher und flexibler Arbeitszeiten vorgenommen werden. Führt die Arbeitszeitgestaltung eines Krankenhauses dazu, dass eine Schicht sowohl der Tagschicht als auch der Nachtschicht nach den Sätzen 2 und 3 unterfällt, so kann das für diese Schicht vorgehaltene Personal anteilig der Tagschicht und der Nachtschicht zugeordnet werden.
 
-(3) Der Standort eines Krankenhauses im Sinne dieser Verordnung bestimmt sich nach § 2 der Vereinbarung über die Definition von Standorten der Krankenhäuser und ihrer Ambulanzen vom 29. August 2017, die zwischen dem Spitzenverband Bund der Krankenkassen und der Deutschen Krankenhausgesellschaft gemäß § 2a Absatz 1 des Krankenhausfinanzierungsgesetzes geschlossen wurde und die auf der Internetseite der Deutschen Krankenhausgesellschaft veröffentlicht ist.
+(3) Der Standort eines Krankenhauses im Sinne dieser Verordnung bestimmt sich nach § 2a des Krankenhausfinanzierungsgesetzes.
 
 (4) Eine Station im Sinne dieser Verordnung ist die kleinste bettenführende organisatorische Einheit in der Patientenversorgung am Standort eines Krankenhauses, die räumlich ausgewiesen ist und die anhand einer ihr zugewiesenen individuellen Bezeichnung auch für Dritte identifizierbar ist. Auf einer Station werden Patientinnen und Patienten entweder in einem medizinischen Fachgebiet oder interdisziplinär in verschiedenen medizinischen Fachgebieten behandelt. Das einer Station zugeordnete Personal sowie seine Leitungsstruktur lassen sich den Organisations- und Dienstplänen des Krankenhauses entnehmen. Zu einer intensivmedizinischen Behandlungseinheit einer Station zählt jedes Bett, das der intensivmedizinischen Patientenversorgung dient.
 
