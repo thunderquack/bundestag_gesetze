@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 18.1.2011 I 66;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 24.6.2024 I Nr. 215
+:   Art. 4 G v. 8.12.2024 I Nr. 405
 
 
 ## 1. Abschnitt - Allgemeine Bestimmungen
@@ -400,6 +400,10 @@ Ein Antrag auf Genehmigung einer Neuanpflanzung von Reben darf nur genehmigt wer
 (1a) Die nach § 6 Absatz 1, § 6a Absatz 1 oder § 7c Absatz 1 Satz 1 erteilten Genehmigungen, welche im Jahre 2020 ausgelaufen sind oder auslaufen werden, sind innerhalb der Gültigkeitsdauer in Anspruch zu nehmen, die in Artikel 1 Absatz 1 und 3 der Durchführungsverordnung (EU) 2020/601 der Kommission vom 30. April 2020 über die Dringlichkeitsmaßnahmen zur Abweichung von den Artikeln 62 und 66 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich der Gültigkeit von Genehmigungen für Rebpflanzungen und der Rodung im Falle einer vorgezogenen Wiederbepflanzung (ABl. L 140 vom 4.5.2020, S. 46) genannt wird.
 
 (1b) Abweichend von Absatz 1 ist eine nach § 6 Absatz 1 Satz 1 erteilte Genehmigung, die sich auf eine Parzelle bezieht, auf der die Rodung vorgenommen worden ist, innerhalb der in Artikel 62 Absatz 3 Unterabsatz 2 Satz 1 der Verordnung (EU) Nr. 1308/2013 genannten Gültigkeitsdauer in Anspruch zu nehmen.
+
+(1c) Die nach § 6 Absatz 1 oder § 7c Absatz 1 Satz 1 erteilten Genehmigungen, die in den Jahren 2024 oder 2025 auslaufen und in den in Anlage 1 genannten Regionen genutzt werden sollen, sind innerhalb der in Artikel 1 Absatz 1 der Delegierten Verordnung (EU) 2024/2159 der Kommission vom 12. August 2024 über befristete außergewöhnliche Maßnahmen zur Abweichung von bestimmten Vorschriften der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates betreffend das Genehmigungssystem für Rebpflanzungen zur Behebung der Marktstörungen auf dem Weinmarkt der Union (ABl. L, 2024/2159, 13.8.2024) festgelegten Gültigkeitsdauer in Anspruch zu nehmen. Die Festlegungen nach Anlage 1 gelten auch für die Zwecke des Artikel 1 Absatz 2 der Delegierten Verordnung (EU) 2024/2159. Die Länder melden der Bundesanstalt für Landwirtschaft und Ernährung bis zum 28. Februar 2025 die weiteren Informationen nach Artikel 2 Absatz 1 der Delegierten Verordnung (EU) 2024/2159.
+
+(1d) Die nach § 6 Absatz 1, § 6a Absatz 1 oder § 7c Absatz 1 Satz 1 erteilten Genehmigungen, die im Jahre 2024 auslaufen und in den in Anlage 2 genannten Regionen genutzt werden sollen, sind innerhalb der in Artikel 1 Absatz 2 der Durchführungsverordnung (EU) 2024/2146 der Kommission vom 2. August 2024 über befristete Sofortmaßnahmen zur Abweichung von bestimmten Vorschriften der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates und der Delegierten Verordnung (EU) 2017/891 der Kommission für das Jahr 2024 zur Lösung spezifischer Probleme im Weinsektor sowie im Obst- und Gemüsesektor infolge widriger Wetterereignisse (ABl. L, 2024/2146, 5.8.2024) festgelegten Gültigkeitsdauer in Anspruch zu nehmen. Die Festlegungen nach Anlage 2 gelten auch für die Zwecke des Artikel 1 Absatz 3 der Durchführungsverordnung (EU) 2024/2146. Die Länder melden der Bundesanstalt für Landwirtschaft und Ernährung bis zum 28. Februar 2025 die weiteren Informationen nach Artikel 3 Absatz 1 der Durchführungsverordnung (EU) 2024/2146.
 
 (2) Die zuständigen Landesbehörden überprüfen auf der Grundlage der nach § 7c Absatz 1 Satz 5 übermittelten Bescheide, ob Anpflanzungen wie beschieden innerhalb der vorgesehenen Fristen durchgeführt werden.
 
@@ -2022,7 +2026,7 @@ bezeichneten Handlungen fahrlässig begeht.
 
 
 5.  entgegen
-    § 7d Absatz 1, 1a oder 1b                    eine Genehmigung nicht oder nicht richtig in Anspruch nimmt,
+    § 7d Absatz 1, 1a, 1b, 1c oder 1d                    eine Genehmigung nicht oder nicht richtig in Anspruch nimmt,
 
 
 6.  einer Rechtsverordnung nach § 12 Absatz 3 Nummer 5 oder Absatz 5 oder § 44 Absatz 1 Satz 2 oder Absatz 2 Satz 2 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
@@ -2251,6 +2255,72 @@ jeweils in der bis zum 15. Juli 1994 geltenden Fassung weiter anzuwenden.
 
 
 2.  der Europäischen Gemeinschaft oder der Europäischen Union, die durch eine inhaltsgleiche Vorschrift der Europäischen Union ersetzt worden ist, durch den Verweis auf die ersetzende Vorschrift anpassen.
+
+
+
+
+(zu § 7d Absatz 1c)
+
+### Anlage 1 Regionen im Sinne von Artikel 1 Absatz 1 der Delegierten Verordnung (EU) 2024/2159
+
+(Fundstelle: BGBl. 2024 I Nr. 405, S. 10)
+
+
+1.  Bestimmtes Anbaugebiet Ahr
+
+
+2.  Bestimmtes Anbaugebiet Baden
+
+
+3.  Bestimmtes Anbaugebiet Franken
+
+
+4.  Bestimmtes Anbaugebiet Hessische Bergstraße
+
+
+5.  Bestimmtes Anbaugebiet Mittelrhein
+
+
+6.  Bestimmtes Anbaugebiet Mosel
+
+
+7.  Bestimmtes Anbaugebiet Nahe
+
+
+8.  Bestimmtes Anbaugebiet Pfalz
+
+
+9.  Bestimmtes Anbaugebiet Rheingau
+
+
+10. Bestimmtes Anbaugebiet Rheinhessen
+
+
+11. Bestimmtes Anbaugebiet Württemberg
+
+
+
+
+(zu § 7d Absatz 1d)
+
+### Anlage 2 Regionen im Sinne von Artikel 1 Absatz 1 der Delegierten Verordnung (EU) 2024/2146
+
+(Fundstelle: BGBl. 2024 I Nr. 405, S. 11)
+
+
+1.  Bestimmtes Anbaugebiet Baden
+
+
+2.  Bestimmtes Anbaugebiet Hessische Bergstraße
+
+
+3.  Bestimmtes Anbaugebiet Rheingau
+
+
+4.  Bestimmtes Anbaugebiet Württemberg
+
+
+5.  Landweingebiet Saarländischer Landwein
 
 
 

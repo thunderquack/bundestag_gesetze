@@ -17,6 +17,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 121
 
+V aufgeh. durch
+:   § 2 Satz 2 V v. 9.12.2024 I Nr. 407 mWv 1.1.2025
+
+Ersetzt durch
+:   V 2184-1-5-4 v. 9.12.2024 I Nr. 407 (GräbPauschV 2025/2026)
+
 
 ## Eingangsformel
 

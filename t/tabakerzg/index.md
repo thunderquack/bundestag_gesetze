@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 569
 
 Zuletzt geändert durch
-:   Art. 1 G v. 19.7.2023 I Nr. 194
+:   Art. 3 G v. 8.12.2024 I Nr. 405
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -878,6 +878,32 @@ Bedarfsgegenstände dürfen nur in den Verkehr gebracht werden, wenn sie aufgrun
 (1) Vorbehaltlich des Satzes 2 obliegt die Marktüberwachung den nach Landesrecht zuständigen Behörden. Zuständigkeiten zur Durchführung dieses Gesetzes, die durch andere Rechtsvorschriften zugewiesen sind, bleiben unberührt. Im Geschäftsbereich des Bundesministeriums der Verteidigung obliegt die Marktüberwachung dem Bundesministerium der Verteidigung und den von ihm bestimmten Stellen.
 
 (2) Die in Absatz 1 genannten Marktüberwachungsbehörden arbeiten mit den Zollbehörden gemäß Kapitel III Abschnitt 3 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) zusammen. Im Rahmen dieser Zusammenarbeit können die Zollbehörden den Marktüberwachungsbehörden auf Ersuchen die Informationen übermitteln, die sie bei der Überführung von Produkten in den zollrechtlich freien Verkehr erlangt haben und die für die Aufgabenerfüllung der Marktüberwachungsbehörden erforderlich sind. Aussetzungen der Freigabe zum freien Verkehr nach Artikel 27 Absatz 3 Satz 1 der Verordnung (EG) Nr. 765/2008 sind der Marktüberwachungsbehörde zu melden, die für die Zollstelle örtlich zuständig ist.
+
+
+### § 27a Durchführung der Überwachung
+
+Die Überwachung der Einhaltung dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes ist durch fachlich ausgebildete Personen durchzuführen. Das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+
+1.  vorzuschreiben, dass bestimmte Überwachungsmaßnahmen einer wissenschaftlich ausgebildeten Person obliegen und dabei andere fachlich ausgebildete Personen nach Weisung der zuständigen Behörde und unter der fachlichen Aufsicht einer wissenschaftlich ausgebildeten Person eingesetzt werden können,
+
+
+2.  vorzuschreiben, dass abweichend von Satz 1 bestimmte Überwachungsmaßnahmen von sachkundigen Personen durchgeführt werden können,
+
+
+3.  Vorschriften zu erlassen über die
+
+    a)  Anforderungen an die Sachkunde, die an die in Nummer 1 genannte wissenschaftlich ausgebildete Person und die in Nummer 2 genannten sachkundigen Personen,
+
+
+    b)  fachlichen Anforderungen, die an die in Satz 1 genannten Personen
+
+
+
+
+
+
+zu stellen sind, sowie das Verfahren des Nachweises der Sachkunde und der fachlichen Anforderungen zu regeln.
+Die Landesregierungen werden ermächtigt, Rechtsverordnungen nach Satz 2 Nummer 3 zu erlassen, soweit das Bundesministerium von seiner Befugnis keinen Gebrauch macht. Die Landesregierungen sind befugt, die Ermächtigung durch Rechtsverordnung auf andere Behörden zu übertragen.
 
 
 ### § 28 Aufgaben der Marktüberwachungsbehörden

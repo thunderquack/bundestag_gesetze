@@ -358,7 +358,7 @@ Für Luftfahrtgerät, das ausgeführt werden soll, kann die zuständige Stelle e
 (2) Jede Veränderung in der Verwendung eines in der Bundesrepublik Deutschland eingetragenen Notsenders ist dem Luftfahrt-Bundesamt unverzüglich mitzuteilen.
 
 
-## Zweiter Abschnitt - (weggefallen)
+## Zweiter Abschnitt - (§§ 20 bis 37 weggefallen)
 
 
 
