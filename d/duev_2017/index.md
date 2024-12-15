@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 97 G v. 10.8.2021 I 3436
 
+Änderung durch
+:   Art. 32 V v. 11.12.2024 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F2_798273_BJNR130510017]:     Diese Verordnung dient auch der Umsetzung folgender Richtlinien:                                 1.                                    Richtlinie 91/676/EWG des Rates vom 12. Dezember 1991 zum Schutz der Gewässer vor Verunreinigung durch Nitrat aus landwirtschaftlichen Quellen (ABl. L 375 vom 31.12.1991, S. 1), die zuletzt durch die Verordnung (EG) Nr. 1137/2008 (ABl. L 311 vom 21.11.2008, S. 1) geändert worden ist.
 
 

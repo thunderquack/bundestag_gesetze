@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 82 G v. 10.8.2021 I 3436
 
+Änderung durch
+:   Art. 17 V v. 11.12.2024 I Nr. 411 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 

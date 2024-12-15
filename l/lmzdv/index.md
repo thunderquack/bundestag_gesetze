@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1362
 
-Geändert durch
-:   Art. 2 V v. 16.10.2024 I Nr. 315
+Zuletzt geändert durch
+:   Art. 4 V v. 11.12.2024 I Nr. 411
 
 
 ## § 1 Anwendungsbereich

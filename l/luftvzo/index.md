@@ -21,6 +21,9 @@ Neufassung durch
 Zuletzt geändert durch
 :   Art. 4 V v. 7.12.2021 I 5190
 
+Änderung durch
+:   Art. 28 V v. 11.12.2024 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Zulassung des Luftfahrtgeräts und Eintragung der Luftfahrzeuge
 

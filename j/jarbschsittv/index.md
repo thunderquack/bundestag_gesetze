@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 8.10.1986 I 1634
 
+V aufgeh. durch
+:   Art. 18 V v. 11.12.2024 I Nr. 411 mWv 1.1.2025
+
 
 ## Eingangsformel
 

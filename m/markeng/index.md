@@ -13,7 +13,7 @@ Ausfertigungsdatum
 :   1994-10-25
 
 Fundstelle
-:   BGBl I: 1994, 3082 (1995 I 156); 1996, 682
+:   BGBl I: 1994, 3082 (1995 I 156) (1996 I 682)
 
 Zuletzt geändert durch
 :   Art. 1 V v. 24.6.2024 I Nr. 215

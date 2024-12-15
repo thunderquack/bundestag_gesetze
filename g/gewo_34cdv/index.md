@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 28 G v. 6.5.2024 I Nr. 149
 
+Änderung durch
+:   Art. 14 V v. 11.12.2024 I Nr. 411 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## § 1 Anwendungsbereich
 

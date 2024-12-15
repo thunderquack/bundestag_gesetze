@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 9.7.2024 I Nr. 251
 
+Änderung durch
+:   Art. 31 V v. 11.12.2024 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 96-1-2 v. 10.8.1963 I 652 (LuftVO)
 
 ## Abschnitt 1 - Allgemeine Vorschriften

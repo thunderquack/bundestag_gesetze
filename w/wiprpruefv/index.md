@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 23 G v. 25.6.2021 I 2154
 
+Änderung durch
+:   Art. 7 V v. 11.12.2024 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 

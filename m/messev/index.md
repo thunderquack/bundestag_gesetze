@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 29.1.2024 I Nr. 27
 
+Änderung durch
+:   Art. 13 V v. 11.12.2024 I Nr. 411 mWv 1.1.2025 noch nicht berücksichtigt
+
 Diese Verordnung dient der Umsetzung
 
 1.  der Richtlinie 71/317/EWG des Rates vom 26. Juli 1971 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Blockgewichte der mittleren Fehlergrenzenklasse von 5 bis 50 Kilogramm und über zylindrische Gewichtsstücke der mittleren Fehlergrenzenklasse von 1 Gramm bis 10 Kilogramm (ABl. L 202 vom 6.9.1971, S. 14), die durch Artikel 3 der Richtlinie 2011/17/EU vom 9. März 2011 (ABl. L 71 vom 18.3.2011, S. 1) mit Wirkung vom 1. Dezember 2015 aufgehoben wird,

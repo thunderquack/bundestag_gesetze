@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 17.7.2024 I Nr. 243
 
+Änderung durch
+:   Art. 2 V v. 11.12.2024 I Nr. 411 mWv 1.1.2025 noch nicht berücksichtigt
+
 Stand: V in Kraft gem. § 83 Satz 1 iVm Art. 4 Abs. 1 Satz 1 G v. 6.6.2013 I 1482 mWv 1.9.2013
 
 ## Eingangsformel

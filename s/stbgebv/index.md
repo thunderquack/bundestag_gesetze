@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1981, 1442
 
 Zuletzt geändert durch
-:   Art. 1 V v. 10.6.2022 I 877
+:   Art. 1 V v. 11.12.2024 I 411
 
 
 ## Eingangsformel
@@ -91,7 +91,7 @@ Der Steuerberater kann von seinem Auftraggeber für die entstandenen und die vor
 
 ### § 9 Berechnung
 
-(1) Der Steuerberater kann die Vergütung nur auf Grund einer dem Auftraggeber mitgeteilten Berechnung einfordern. Die Berechnung ist von dem Steuerberater zu unterzeichnen oder vorbehaltlich der Zustimmung des Auftraggebers in Textform zu erstellen. Die Zustimmung muss nicht für jede Berechnung einzeln erteilt werden. Der Lauf der Verjährungsfrist ist von der Mitteilung der Berechnung nicht abhängig.
+(1) Der Steuerberater kann die Vergütung nur aufgrund einer von ihm oder auf seine Veranlassung dem Auftraggeber mitgeteilten Berechnung fordern; die Berechnung bedarf der Textform. Der Lauf der Verjährungsfrist ist von der Mitteilung der Berechnung nicht abhängig.
 
 (2) In der Berechnung sind die Beträge der einzelnen Gebühren und Auslagen, die Vorschüsse, eine kurze Bezeichnung des jeweiligen Gebührentatbestands, die Bezeichnung der Auslagen sowie die angewandten Vorschriften dieser Gebührenverordnung und bei Wertgebühren auch der Gegenstandswert anzugeben. Nach demselben Stundensatz berechnete Zeitgebühren können zusammengefaßt werden. Bei Entgelten für Post- und Telekommunikationsdienstleistungen genügt die Angabe des Gesamtbetrages.
 

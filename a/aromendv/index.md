@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4723
 
+Geändert durch
+:   Art. 5 V v. 11.12.2024 I Nr. 411
+
 
 ## § 1 Anwendungsbereich
 

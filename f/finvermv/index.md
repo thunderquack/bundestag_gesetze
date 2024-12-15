@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 17.4.2023 I Nr. 103
 
+Änderung durch
+:   Art. 9 V v. 11.12.2024 I Nr. 411 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Sachkundenachweis
 

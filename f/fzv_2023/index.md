@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2023, Nr. 199, 2
 
 Zuletzt geändert durch
-:   Art. 8 G v. 19.7.2024 I Nr. 245
+:   Art. 23 V v. 11.12.2024 I 411
 
 Stand: Ersetzt V 9232-14 v. 3.2.2011 I 139 (FZV 2011)
 

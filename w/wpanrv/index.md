@@ -20,6 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 28.4.2016 I 1046
 
+Änderung durch
+:   Art. 8 V v. 11.12.2024 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 

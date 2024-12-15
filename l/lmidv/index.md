@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2017, 2272
 
 Zuletzt geändert durch
-:   Art. 1 V v. 3.8.2023 I Nr. 209
+:   Art. 3 V v. 11.12.2024 I Nr. 411
 
 
 ## § 1 Anwendungsbereich

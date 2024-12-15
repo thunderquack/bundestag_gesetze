@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 28.4.2016 I 1046
 
+Änderung durch
+:   Art. 12 V v. 11.12.2024 I Nr. 411 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## § 1 Geltungsbereich der Erlaubnis
 

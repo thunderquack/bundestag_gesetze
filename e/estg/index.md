@@ -10173,7 +10173,7 @@ so ist der Steuerabzug bei Kapitalerträgen im Sinne des § 43 Absatz 1 Satz 1 N
 3a. wenn von Ehegatten, die nach den §§ 26, 26b zusammen zur Einkommensteuer zu veranlagen sind, beide Arbeitslohn bezogen haben und einer für den Veranlagungszeitraum oder einen Teil davon nach der Steuerklasse V oder VI besteuert oder bei Steuerklasse IV der Faktor (§ 39f) eingetragen worden ist;
 
 
-4.  wenn für einen Steuerpflichtigen ein Freibetrag im Sinne des § 39a Absatz 1 Satz 1 Nummer 1 bis 3, 5 oder Nummer 6 ermittelt worden ist und der im Kalenderjahr insgesamt erzielte Arbeitslohn 13 150 Euro übersteigt oder bei Ehegatten, die die Voraussetzungen des § 26 Absatz 1 erfüllen, der im Kalenderjahr von den Ehegatten insgesamt erzielte Arbeitslohn 24 950 Euro übersteigt; dasselbe gilt für einen Steuerpflichtigen, der zum Personenkreis des § 1 Absatz 2 gehört;
+4.  wenn für einen Steuerpflichtigen ein Freibetrag im Sinne des § 39a Absatz 1 Satz 1 Nummer 1 bis 3, 5 oder Nummer 6 ermittelt worden ist und der im Kalenderjahr insgesamt erzielte Arbeitslohn höher ist als die Summe aus dem Grundfreibetrag (§ 32a Absatz 1 Satz 2 Nummer 1), dem Arbeitnehmer-Pauschbetrag (§ 9a Satz 1 Nummer 1 Buchstabe a) und dem Sonderausgaben- Pauschbetrag (§ 10c Satz 1) oder bei Ehegatten, die die Voraussetzungen des § 26 Absatz 1 erfüllen, höher ist als die Summe aus dem doppelten Grundfreibetrag, dem Arbeitnehmer- Pauschbetrag und dem doppelten Sonderausgaben- Pauschbetrag; dasselbe gilt für einen Steuerpflichtigen, der zum Personenkreis des § 1 Absatz 2 gehört;
 
 
 4a. wenn bei einem Elternpaar, bei dem die Voraussetzungen des § 26 Absatz 1 Satz 1 nicht vorliegen,

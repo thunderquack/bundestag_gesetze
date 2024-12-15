@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 3 V v. 17.12.2018 I 2483
 
+Änderung durch
+:   Art. 11 V v. 11.12.2024 I Nr. 411 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Sachkundenachweis
 

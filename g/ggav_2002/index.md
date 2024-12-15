@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 11.3.2019 I 229;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 28.6.2023 I Nr. 174
+:   Art. 25 V v. 11.12.2024 I 411
 
 
 ## § 1 Geltungsbereich
