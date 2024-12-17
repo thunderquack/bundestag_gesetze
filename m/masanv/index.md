@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 644
 
-Geändert durch
-:   Art. 9 Abs. 3 G v. 9.12.2020 I 2773
-
-Änderung durch
-:   Art. 1 V v. 3.12.2024 I Nr. 392 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 3.12.2024 I Nr. 392
 
 [^F810214_01_BJNR064400020]:     Mit dieser Verordnung werden die notwendigen Vorgaben zur Sanierungsplanung von weniger bedeutenden Instituten sowie von institutsbezogenen Sicherungssystemen geschaffen. Diese Verordnung dient darüber hinaus der Umsetzung der Vorgaben der Leitlinien der Europäischen Bankenaufsichtsbehörde EBA/GL/2014/06 vom 18.7.2014 über die bei Sanierungsplänen zugrunde zu legende Bandbreite an Szenarien sowie der Vorgaben der Leitlinien der Europäischen Bankenaufsichtsbehörde EBA/GL/2015/02 vom 23.7.2015 zur Mindestliste der qualitativen und quantitativen Indikatoren des Sanierungsplans.
 

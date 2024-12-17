@@ -9331,8 +9331,6 @@ dem Betriebsstättenfinanzamt unverzüglich anzuzeigen.
 4             Im Fall des § 1 Absatz 1 Nummer 4 und 5 des Körperschaftsteuergesetzes ist Satz 3 Nummer 1 nur anzuwenden, wenn die Körperschaft, Personenvereinigung oder Vermögensmasse durch eine Bescheinigung des für sie zuständigen Finanzamts ihre Zugehörigkeit zu dieser Gruppe von Steuerpflichtigen nachweist.
 5             Die Bescheinigung ist unter dem Vorbehalt des Widerrufs auszustellen.
 6             Die Fälle des Satzes 3 Nummer 2 hat die auszahlende Stelle gesondert aufzuzeichnen und die Erklärung der Zugehörigkeit der Kapitalerträge zu den Betriebseinnahmen oder zu den Einnahmen aus Vermietung und Verpachtung sechs Jahre aufzubewahren; die Frist beginnt mit dem Schluss des Kalenderjahres, in dem die Freistellung letztmalig berücksichtigt wird.
-7             Die auszahlende Stelle hat in den Fällen des Satzes 3 Nummer 2 der Finanzbehörde, die für die Besteuerung des Einkommens des Gläubigers der Kapitalerträge zuständig ist, nach Maßgabe des § 93c der Abgabenordnung neben den in § 93c Absatz 1 der Abgabenordnung genannten Angaben auch die Konto- und Depotbezeichnung oder die sonstige Kennzeichnung des Geschäftsvorgangs zu übermitteln.
-8             § 72a Absatz 4, § 93c Absatz 1 Nummer 3 und Absatz 4 sowie § 203a der Abgabenordnung finden keine Anwendung.
 
 (3)
 1             Kapitalerträge im Sinne des Absatzes 1 Satz 1 Nummer 1 Satz 1 sowie Nummer 1a bis 4 sind inländische, wenn der Schuldner Wohnsitz, Geschäftsleitung oder Sitz im Inland hat; Kapitalerträge im Sinne des Absatzes 1 Satz 1 Nummer 4 sind auch dann inländische, wenn der Schuldner eine Niederlassung im Sinne der §§ 61, 65 oder des § 68 des Versicherungsaufsichtsgesetzes im Inland hat.
@@ -9839,12 +9837,7 @@ so ist der Steuerabzug bei Kapitalerträgen im Sinne des § 43 Absatz 1 Satz 1 N
 2             Satz 1 gilt entsprechend, wenn nach § 44a Absatz 8 Satz 1 der Steuerabzug nicht in voller Höhe vorgenommen worden ist.
 
 (5)
-1             Eine Ersatzbescheinigung darf nur ausgestellt werden, wenn die Urschrift oder die elektronisch übermittelten Daten nach den Angaben des Gläubigers abhandengekommen oder vernichtet sind.
-2             Die Ersatzbescheinigung muss als solche gekennzeichnet sein.
-3             Über die Ausstellung von Ersatzbescheinigungen hat der Aussteller Aufzeichnungen zu führen.
-
-(6)
-1             Eine Bescheinigung, die den Absätzen 2 bis 5 nicht entspricht, hat der Aussteller unverzüglich durch eine berichtigte Bescheinigung zu ersetzen.
+1             Eine Bescheinigung, die den Absätzen 2 bis 4 nicht entspricht, hat der Aussteller unverzüglich durch eine berichtigte Bescheinigung zu ersetzen.
 2             Die berichtigte Bescheinigung ist als solche zu kennzeichnen.
 3             Der Aussteller hat dem für ihn zuständigen Betriebsstättenfinanzamt unverzüglich nach Maßgabe des § 93c der Abgabenordnung neben den in § 93c Absatz 1 der Abgabenordnung genannten Angaben folgende Daten zu übermitteln:
 
@@ -9860,8 +9853,8 @@ so ist der Steuerabzug bei Kapitalerträgen im Sinne des § 43 Absatz 1 Satz 1 N
 
 4             Bei Steuerpflichtigen, die nicht unbeschränkt steuerpflichtig sind, findet Satz 3 mit der Maßgabe Anwendung, dass der Aussteller die Daten an das Bundeszentralamt für Steuern zu übermitteln hat.
 
-(7)
-1             Der Aussteller einer Bescheinigung, die den Absätzen 2 bis 5 nicht entspricht, haftet für die auf Grund dessen verkürzten Steuern oder zu Unrecht gewährten Steuervorteile; dies gilt entsprechend für die die Kapitalerträge auszahlende Stelle und die Zwischenverwahrstellen nach § 45b Absatz 7 bei der Übermittlung fehlerhafter Angaben im Rahmen der Meldepflichten nach § 45b Absatz 2 in Verbindung mit den Absätzen 4 bis 6 Satz 1 und 2 sowie Absatz 7.
+(6)
+1             Der Aussteller einer Bescheinigung, die den Absätzen 2 bis 4 nicht entspricht, haftet für die auf Grund dessen verkürzten Steuern oder zu Unrecht gewährten Steuervorteile; dies gilt entsprechend für die die Kapitalerträge auszahlende Stelle und die Zwischenverwahrstellen nach § 45b Absatz 7 bei der Übermittlung fehlerhafter Angaben im Rahmen der Meldepflichten nach § 45b Absatz 2 in Verbindung mit den Absätzen 4 bis 6 Satz 1 und 2 sowie Absatz 7.
 2             Ist die Bescheinigung nach Absatz 3 durch ein inländisches Kredit-, Finanzdienstleistungs- oder Wertpapierinstitut auszustellen, so haftet der Schuldner auch, wenn er zum Zweck der Bescheinigung unrichtige Angaben macht.
 
 
@@ -10125,24 +10118,7 @@ so ist der Steuerabzug bei Kapitalerträgen im Sinne des § 43 Absatz 1 Satz 1 N
 1             Das Bundeszentralamt für Steuern darf den Sozialleistungsträgern die Daten nach Absatz 1 mitteilen, soweit dies zur Überprüfung des bei der Sozialleistung zu berücksichtigenden Einkommens oder Vermögens erforderlich ist oder die betroffene Person zustimmt.
 2             Für Zwecke des Satzes 1 ist das Bundeszentralamt für Steuern berechtigt, die ihm von den Sozialleistungsträgern übermittelten Daten mit den vorhandenen Daten nach Absatz 1 im Wege des automatisierten Datenabgleichs zu überprüfen und das Ergebnis den Sozialleistungsträgern mitzuteilen.
 
-(3)
-1             Ein inländischer Versicherungsvermittler im Sinne des § 59 Absatz 1 des Versicherungsvertragsgesetzes hat das Zustandekommen eines Vertrages im Sinne des § 20 Absatz 1 Nummer 6 zwischen einer im Inland ansässigen Person und einem Versicherungsunternehmen mit Sitz und Geschäftsleitung im Ausland nach Maßgabe des § 93c der Abgabenordnung dem Bundeszentralamt für Steuern mitzuteilen.
-2             Dies gilt nicht, wenn das Versicherungsunternehmen eine Niederlassung im Inland hat oder das Versicherungsunternehmen dem Bundeszentralamt für Steuern bis zu diesem Zeitpunkt das Zustandekommen eines Vertrages angezeigt und den Versicherungsvermittler hierüber in Kenntnis gesetzt hat.
-3             Neben den in § 93c Absatz 1 der Abgabenordnung genannten Daten sind folgende Daten zu übermitteln:
-
-1.  Name und Anschrift des Versicherungsunternehmens sowie Vertragsnummer oder sonstige Kennzeichnung des Vertrages,
-
-
-2.  Laufzeit und garantierte Versicherungssumme oder Beitragssumme für die gesamte Laufzeit,
-
-
-3.  Angabe, ob es sich um einen konventionellen, einen fondsgebundenen oder einen vermögensverwaltenden Versicherungsvertrag handelt.
-
-
-
-4             Ist mitteilungspflichtige Stelle nach Satz 1 das ausländische Versicherungsunternehmen und verfügt dieses weder über ein Identifikationsmerkmal nach den §§ 139a bis 139c der Abgabenordnung noch über eine Steuernummer oder ein sonstiges Ordnungsmerkmal, so kann abweichend von § 93c Absatz 1 Nummer 2 Buchstabe a der Abgabenordnung auf diese Angaben verzichtet werden.
-5             Der Versicherungsnehmer gilt als Steuerpflichtiger im Sinne des § 93c Absatz 1 Nummer 2 Buchstabe c der Abgabenordnung.
-6             § 72a Absatz 4 und § 203a der Abgabenordnung finden keine Anwendung.
+(3) (weggefallen)
 
 
 #### § 45e Ermächtigung für Zinsinformationsverordnung
@@ -10893,7 +10869,7 @@ so ist der Steuerabzug bei Kapitalerträgen im Sinne des § 43 Absatz 1 Satz 1 N
 
 ### § 50e Bußgeldvorschriften; Nichtverfolgung von Steuerstraftaten bei geringfügiger Beschäftigung in Privathaushalten
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen § 45d Absatz 1 Satz 1, § 45d Absatz 3 Satz 1, der nach § 45e erlassenen Rechtsverordnung oder den unmittelbar geltenden Verträgen mit den in Artikel 17 der Richtlinie 2003/48/EG genannten Staaten und Gebieten eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig abgibt.
+(1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen § 45d Absatz 1 Satz 1, der nach § 45e erlassenen Rechtsverordnung oder den unmittelbar geltenden Verträgen mit den in Artikel 17 der Richtlinie 2003/48/EG genannten Staaten und Gebieten eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig abgibt.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 

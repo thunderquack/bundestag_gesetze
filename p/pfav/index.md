@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 19.7.2024 I Nr. 250
 
+Änderung durch
+:   Art. 3 V v. 11.12.2024 I Nr. 414 mWv 17.12.2024 noch nicht berücksichtigt
+
 Stand: Kapitel 5 tritt gem. § 30 Satz 1 dieser V am 1.7.2016 in Kraft
 
 ## Eingangsformel
