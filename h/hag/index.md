@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1951, 191
 
 Zuletzt geändert durch
-:   Art. 6i G v. 16.9.2022 I 1454
-
-Änderung durch
-:   Art. 51 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 51 G v. 23.10.2024 I Nr. 323
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften

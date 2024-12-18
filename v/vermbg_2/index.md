@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 4. 3.1994 I 406;
 
 Zuletzt geändert durch
-:   Art. 34 G v. 11.12.2023 I Nr. 354
-
-Änderung durch
-:   Art. 49 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 49 G v. 23.10.2024 I Nr. 323
 
 Änderung durch
 :   Art. 51 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 29.1.2024 I Nr. 27
 
 Änderung durch
-:   Art. 13 V v. 11.12.2024 I Nr. 411 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 13 V v. 11.12.2024 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Diese Verordnung dient der Umsetzung
 

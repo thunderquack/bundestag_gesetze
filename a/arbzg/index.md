@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1170, 1171
 
 Zuletzt geändert durch
-:   Art. 6 G v. 22.12.2020 I 3334
-
-Änderung durch
-:   Art. 52 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 52 G v. 23.10.2024 I Nr. 323
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften

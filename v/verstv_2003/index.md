@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 16 G v. 23.10.2024 I Nr. 323
 
 Änderung durch
-:   Art. 15 V v. 11.12.2024 I Nr. 411 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 15 V v. 11.12.2024 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 

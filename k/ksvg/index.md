@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1981, 705
 
 Zuletzt geändert durch
-:   Art. 5a G v. 22.3.2024 I Nr. 101
-
-Änderung durch
-:   Art. 56 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 56 G v. 23.10.2024 I Nr. 323
 
 
 ## Erster Teil - Sozialversicherung der selbständigen Künstler und Publizisten

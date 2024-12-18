@@ -675,10 +675,6 @@ Im Sinne der §§ 48a bis 48f ist:
 
 
 
-#### (XXXX) §§ 48a bis 48f (weggefallen)
-
-
-
 #### § 48b Lärmbedingte Betriebsbeschränkungen an einem Flughafen
 
 (1) Die Luftfahrtbehörde kann unbeschadet anderweitig bereits bestehender oder möglicher Betriebsbeschränkungen für einen Flughafen zur Verminderung des vom Flugbetrieb ausgehenden Lärms den Zugang von knapp die Vorschriften erfüllenden zivilen Unterschallstrahlflugzeugen beschränken.

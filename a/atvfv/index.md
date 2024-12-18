@@ -23,7 +23,7 @@ Zuletzt geändert durch
 :   Art. 2 Abs. 5 G v. 4.12.2023 I Nr. 344
 
 Änderung durch
-:   Art. 16 V v. 11.12.2024 I Nr. 411 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 16 V v. 11.12.2024 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Anwendungsbereich, Antrag und Unterlagen

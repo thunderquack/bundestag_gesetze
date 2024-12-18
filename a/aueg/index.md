@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 3. 2.1995 I 158;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 28.6.2023 I Nr. 172
-
-Änderung durch
-:   Art. 55 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 55 G v. 23.10.2024 I Nr. 323
 
 
 ## § 1 Arbeitnehmerüberlassung, Erlaubnispflicht

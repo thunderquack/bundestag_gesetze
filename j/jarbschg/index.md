@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 965
 
 Zuletzt geändert durch
-:   Art. 5 G v. 19.7.2024 I Nr. 246
-
-Änderung durch
-:   Art. 53 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 53 G v. 23.10.2024 I Nr. 323
 
 
 ## Eingangsformel
