@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 2 V v. 19.7.2024 I Nr. 250
 
 Änderung durch
-:   Art. 2 V v. 11.12.2024 I Nr. 414 mWv 17.12.2024 noch nicht berücksichtigt
+:   Art. 2 V v. 11.12.2024 I Nr. 414 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -233,7 +233,7 @@ Bei Tontinengeschäften beträgt die Solvabilitätskapitalanforderung 1 Prozent 
 
 (2) Bei Versicherungsvereinen auf Gegenseitigkeit ermäßigt sich der Mindestbetrag der Mindestkapitalanforderung um 25 Prozent.
 
-(3) Für Pensions- und Sterbekassen in der Rechtsform des Versicherungsvereins auf Gegenseitigkeit, deren jährliche Beiträge in drei aufeinanderfolgenden Jahren den Betrag von 5 Millionen Euro nicht überschritten haben, entfällt die Mindestkapitalanforderung.
+(3) Für Pensions- und Sterbekassen in der Rechtsform des Versicherungsvereins auf Gegenseitigkeit, deren jährliche Beiträge in drei aufeinanderfolgenden Jahren den Betrag von 5 Millionen Euro nicht überschritten haben, entfällt der Mindestbetrag der Mindestkapitalanforderung.
 
 
 ## Kapitel 3 - Berichterstattung gegenüber der Aufsichtsbehörde
@@ -245,9 +245,60 @@ Bei Tontinengeschäften beträgt die Solvabilitätskapitalanforderung 1 Prozent 
 
 (2) Stichtag für den Solvabilitätsnachweis ist der Stichtag des nach § 341a des Handelsgesetzbuchs vorgeschriebenen Jahresabschlusses. Für die Vorlage bei der Aufsichtsbehörde gilt die gleiche Frist wie für den aufgestellten Jahresabschluss.
 
-(3) Für die Vorlage des Solvabilitätsnachweises sind die in der Anlage abgedruckten Formulare zu verwenden. Beim Ausfüllen ist Anlage 2 Abschnitt C der Versicherungsberichterstattungs-Verordnung zu beachten.
+(3) Für die beim Solvabilitätsnachweis zu verwendenden Formulare gelten die in der Anlage festgelegten Muster. Bei der Erstellung der Formulare ist Anlage 2 Abschnitt C der Versicherungsberichterstattungs-Verordnung zu beachten.
 
-(4) Unternehmen unter Bundesaufsicht legen den Solvabilitätsnachweis elektronisch oder auf Papierformularen der Bundesanstalt für Finanzdienstleistungsaufsicht vor.
+(4) Für Unternehmen unter Landesaufsicht ist Absatz 3 einschließlich der in der Anlage abgedruckten Formulare in der bis zum 16. Dezember 2024 geltenden Fassung anzuwenden.
+
+
+### § 19a Elektronische Einreichung
+
+(1) Unternehmen unter Bundesaufsicht übermitteln der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) den Solvabilitätsnachweis in elektronischer Form.
+
+(2) Die Datenübermittlung erfolgt an die Melde- und Veröffentlichungsplattform (MVP-Portal) der Bundesanstalt. Unternehmen haben über das Internet Zugang zum MVP-Portal, nachdem sie sich bei der Bundesanstalt hierfür registriert haben.
+
+(3) Die Unternehmen haben die ordnungsgemäße Datenübermittlung durch Berücksichtigung der im MVP-Portal hinterlegten Informationen und Hinweise sicherzustellen.
+
+
+### § 19b Datenformate und Einreichungsvorgaben
+
+(1) Einreichungen bei der Bundesanstalt müssen in einem maschinenlesbaren und maschinendurchsuchbaren Dateiformat erfolgen.
+
+(2) Ein Formular besteht aus quantitativen Informationen (quantitativer Formularteil) und gegebenenfalls einer Anlage mit ergänzenden verpflichtenden oder freiwilligen Angaben (qualitativer Formularteil). Der quantitative und der qualitative Formularteil sind in getrennten Meldedateien einzureichen. Der quantitative Formularteil ist auf Basis der von der Bundesanstalt auf ihrer Internetseite veröffentlichten aktuellen XBRL-Taxonomie einschließlich Basisinformationen und Angaben zum Berichtsumfang in einer Meldedatei einzureichen. Sofern die Bundesanstalt für diese Einreichung auf ihrer Internetseite auch ein anderes Format, das von ihr in XBRL konvertiert wird, anbietet, kann die Einreichung alternativ in diesem Format erfolgen.
+
+(3) Die Bundesanstalt veröffentlicht auf ihrer Internetseite
+
+1.  die für eine elektronische Dateneinreichung jeweils zu verwendenden Datenformate,
+
+
+2.  die hinsichtlich Datenformat und Dateninhalt einzuhaltenden Prüfregeln und Einreichungsregeln.
+
+
+
+
+
+### § 19c Zusammen bei der Bundesanstalt einzureichende Formularteile
+
+(1) Bereits bei einem früheren Meldevorgang nach § 1 der Versicherungsberichterstattungs-Verordnung für das jeweilige Geschäftsjahr eingereichte quantitative Formularteile sind erneut zusammen mit dem quantitativen Formularteil des Solvabilitätsnachweises in einer Meldedatei zu übermitteln.
+
+(2) Bereits bei einem früheren Meldevorgang nach § 1 der Versicherungsberichterstattungs-Verordnung für das jeweilige Geschäftsjahr eingereichte qualitative Formularteile sind erneut zusammen mit dem qualitativen Formularteil des Solvabilitätsnachweises in einer Meldedatei zu übermitteln.
+
+(3) Eine Meldedatei mit quantitativen Formularteilen und eine Meldedatei mit qualitativen Formularteilen können zusammen in einem Meldevorgang übermittelt werden.
+
+
+### § 19d Korrekturmeldungen gegenüber der Bundesanstalt
+
+(1) Muss der quantitative Formularteil des Solvabilitätsnachweises nach Übermittlung korrigiert werden, ist dieser Formularteil unverzüglich nach Feststellung des Korrekturbedarfs berichtigt zusammen mit allen weiteren quantitativen Formularteilen von Formularen nach § 1 der Versicherungsberichterstattungs-Verordnung, die bisher in Bezug auf dieses Geschäftsjahr eingereicht wurden, in einer Meldedatei zu übermitteln.
+
+(2) Muss der qualitative Formularteil des Solvabilitätsnachweises nach Übermittlung korrigiert werden, ist dieser Formularteil unverzüglich nach Feststellung des Korrekturbedarfs berichtigt zusammen mit allen weiteren qualitativen Formularteilen von Formularen nach § 1 der Versicherungsberichterstattungs-Verordnung, die bisher in Bezug auf dieses Geschäftsjahr eingereicht wurden, in einer Meldedatei zu übermitteln.
+
+(3) Bezieht sich der Korrekturbedarf nur auf den quantitativen Formularteil oder nur auf den qualitativen Formularteil, bedarf es keiner erneuten Übermittlung des jeweils anderen Formularteils.
+
+
+### § 19e Zurückweisung von Daten
+
+(1) Die Bundesanstalt weist eine Meldedatei zurück, wenn Dateninhalte oder das Datenformat nicht den Vorgaben nach § 19b entsprechen.
+
+(2) Zurückgewiesene Datensätze gelten als nicht eingereicht. Die Zurückweisungsnachricht ist einschließlich der Angabe des Zurückweisungsgrundes im MVP-Portal abrufbar.
 
 
 ## Kapitel 4 - Schlussvorschriften
@@ -259,6 +310,8 @@ Bei Tontinengeschäften beträgt die Solvabilitätskapitalanforderung 1 Prozent 
 
 (2) Für das Geschäftsjahr, das vor dem 1. Januar 2016 begonnen hat, ist die Kapitalausstattungs-Verordnung vom 13. Dezember 1983 (BGBl. I S. 1451), die durch Artikel 1 Nummer 1 der Verordnung vom 16. Dezember 2015 (BGBl. I S. 2345) aufgehoben worden ist, in der bis zum 31. Dezember 2015 geltenden Fassung anzuwenden.
 
+(3) Für ein Geschäftsjahr, das vor dem 1. Januar 2025 endet, ist die Kapitalausstattungs-Verordnung in der bis zum 16. Dezember 2024 geltenden Fassung anzuwenden.
+
 
 ### § 21 Inkrafttreten
 
@@ -268,33 +321,6 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage Solvabilitätsnachweis
 
-(Fundstelle: BGBl. I 2016, 800 - 827)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(Fundstelle: BGBl. 2024 I Nr. 414, S. 172 - 200)
 
 

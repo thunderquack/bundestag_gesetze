@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 6 Abs. 1 G v. 20.12.2023 I Nr. 392
 
+Änderung durch
+:   Art. 1 V v. 17.12.2024 I Nr. 418 mWv 1.1.2025 noch nicht berücksichtigt
+
 Stand: Ersetzt V 51-1-27 v. 19.3.2002 I 1111 (SLV 2002)
 
 ## Kapitel 1 - Allgemeines

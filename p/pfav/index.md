@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 3 V v. 19.7.2024 I Nr. 250
 
 Änderung durch
-:   Art. 3 V v. 11.12.2024 I Nr. 414 mWv 17.12.2024 noch nicht berücksichtigt
+:   Art. 3 V v. 11.12.2024 I Nr. 414 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Kapitel 5 tritt gem. § 30 Satz 1 dieser V am 1.7.2016 in Kraft
 
@@ -112,7 +112,7 @@ Ferner ist eine Einschätzung über die künftige Entwicklung der in den verwend
 
 (1) Der Verantwortliche Aktuar hat den Erläuterungsbericht und den Angemessenheitsbericht bei Abgabe der versicherungsmathematischen Bestätigung dem Vorstand vorzulegen.
 
-(2) Der Vorstand hat den Erläuterungsbericht und den Angemessenheitsbericht unverzüglich nach Aufstellung des Jahresabschlusses der Aufsichtsbehörde vorzulegen.
+(2) Der Vorstand hat den Erläuterungsbericht und den Angemessenheitsbericht unverzüglich nach Aufstellung des Jahresabschlusses der Aufsichtsbehörde einzureichen.
 
 
 ### Kapitel 2 - Berichte für die Aufsichtsbehörde
@@ -134,14 +134,14 @@ Pensionsfonds haben der Aufsichtsbehörde einen internen jährlichen Bericht vor
 
 
 
-#### § 5 Formblätter für Bilanz und Gewinn-und-Verlust-Rechnung
+#### § 5 Formulare für Bilanz und Gewinn-und-Verlust-Rechnung
 
 Pensionsfonds haben ihre Bilanzen und Gewinn-und-Verlust-Rechnungen gegenüber der Aufsichtsbehörde wie folgt aufzustellen:
 
-1.  die Bilanzen nach Formblatt 800 und
+1.  die Bilanzen nach Formular F.800.01 und
 
 
-2.  die Gewinn-und-Verlust-Rechnungen für das gesamte Pensionsfondsgeschäft nach Formblatt 810.
+2.  die Gewinn-und-Verlust-Rechnungen für das gesamte Pensionsfondsgeschäft nach Formular F.810.01.
 
 
 
@@ -149,7 +149,7 @@ Pensionsfonds haben ihre Bilanzen und Gewinn-und-Verlust-Rechnungen gegenüber d
 
 #### § 6 Gesonderte Gewinn-und-Verlust-Rechnung
 
-(1) Pensionsfonds haben zusätzlich jeweils gesonderte pensionsfondstechnische Gewinn-und-Verlust-Rechnungen nach Formblatt 810 bis einschließlich Seite 3 Zeile 15 aufzustellen
+(1) Pensionsfonds haben zusätzlich jeweils gesonderte pensionsfondstechnische Gewinn-und-Verlust-Rechnungen nach Formular F.810.01 bis einschließlich Zeile ZE0670 aufzustellen
 
 1.  für das gesamte inländische Pensionsfondsgeschäft,
 
@@ -165,55 +165,55 @@ Pensionsfonds haben ihre Bilanzen und Gewinn-und-Verlust-Rechnungen gegenüber d
 (2) Die gesonderten pensionsfondstechnischen Gewinn-und-Verlust-Rechnungen für das in einem anderen Mitglied- oder Vertragsstaat betriebene Pensionsfondsgeschäft gemäß Absatz 1 Nummer 3 können entfallen, sofern die gebuchten Bruttobeiträge des im einzelnen Mitglied- oder Vertragsstaat betriebenen Pensionsfondsgeschäfts nicht mehr als 500 000 Euro betragen.
 
 
-#### § 7 Stückzahl und Fristen für die Einreichung der Formblätter
+#### § 7 Fristen für die Einreichung der Formulare
 
-(1) Die Formblätter 800 und 810 gemäß den §§ 5 und 6 sind der Aufsichtsbehörde in jeweils doppelter Ausfertigung spätestens fünf Monate nach Ende des Geschäftsjahres einzureichen.
+(1) Die Formulare F.800.01 und F.810.01 gemäß den §§ 5 und 6 sind der Aufsichtsbehörde spätestens fünf Monate nach Ende des Geschäftsjahres einzureichen.
 
-(2) Ergeben sich bis zu einer späteren Feststellung des Jahresabschlusses Abweichungen, sind der Aufsichtsbehörde unverzüglich nach der Feststellung zusätzlich die insoweit berichtigten Formblätter 800 und 810 in jeweils doppelter Ausfertigung nachzureichen.
+(2) Ergeben sich bis zu einer späteren Feststellung des Jahresabschlusses Abweichungen, sind der Aufsichtsbehörde unverzüglich nach der Feststellung zusätzlich die insoweit berichtigten Formulare F.800.01 und F.810.01 nachzureichen.
 
 
 #### § 8 Formgebundene Erläuterungen
 
 Pensionsfonds haben folgende formgebundene Erläuterungen zu erstellen:
 
-1.  Entwicklung der Kapitalanlagen und der Kapitalanlagen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern gemäß Nachweisung 801,
+1.  Entwicklung der Kapitalanlagen und der Kapitalanlagen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern gemäß Formular F.801.01,
 
 
-2.  Gliederung der in bestimmten Aufwandsposten der Gewinn-und-Verlust-Rechnung ausgewiesenen Aufwendungen nach Aufwandsarten gemäß Nachweisung 802,
+2.  Gliederung der in bestimmten Aufwandsposten der Gewinn-und-Verlust-Rechnung ausgewiesenen Aufwendungen nach Aufwandsarten gemäß Formular F.802.01,
 
 
-3.  Sicherungsvermögen und restliches Vermögen gemäß Nachweisung 803,
+3.  Sicherungsvermögen und restliches Vermögen gemäß Formular F.803.01,
 
 
-4.  kongruente Bedeckung gemäß Nachweisung 804,
+4.  kongruente Bedeckung gemäß Formular F.804.01,
 
 
-5.  Erträge aus und Aufwendungen für Kapitalanlagen und Kapitalanlagen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern gemäß Nachweisung 811,
+5.  Erträge aus und Aufwendungen für Kapitalanlagen und Kapitalanlagen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern gemäß Formular F.811.01,
 
 
-6.  Kapitalanlagen und Kapitalanlagen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern bei Arbeitgebern sowie Forderungen an und Verbindlichkeiten gegenüber Arbeitgebern gemäß Nachweisung 820,
+6.  Kapitalanlagen und Kapitalanlagen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern bei Arbeitgebern sowie Forderungen an und Verbindlichkeiten gegenüber Arbeitgebern gemäß Formular F.820.01,
 
 
-7.  Bewegung des Bestandes an Versorgungsberechtigten gemäß Nachweisung 830,
+7.  Bewegung des Bestandes an Versorgungsberechtigten gemäß Formular F.830.01,
 
 
-8.  Angaben über das ausländische Pensionsfondsgeschäft, gesondert für jeden anderen Mitglied- und Vertragsstaat, gemäß Nachweisung 842,
+8.  Angaben über das ausländische Pensionsfondsgeschäft, gesondert für jeden anderen Mitglied- und Vertragsstaat, gemäß Formular F.842.01,
 
 
-9.  Angaben zu dem in Rückversicherung gegebenen Pensionsfondsgeschäft gemäß Nachweisung 850.
+9.  Angaben zu dem in Rückversicherung gegebenen Pensionsfondsgeschäft gemäß Formular F.850.01.
 
 
 
 
 
-#### § 9 Stückzahl und Fristen für die Einreichung der formgebundenen Erläuterungen
+#### § 9 Fristen für die Einreichung der formgebundenen Erläuterungen
 
-Die formgebundenen Erläuterungen gemäß § 8 sind der Aufsichtsbehörde jeweils in doppelter Ausfertigung einzureichen, und zwar
+Die formgebundenen Erläuterungen gemäß § 8 sind der Aufsichtsbehörde einzureichen, und zwar
 
-1.  spätestens fünf Monate nach Ende des Geschäftsjahres die Nachweisungen 801, 802, 803, 804, 811, 842 und 850 und
+1.  spätestens fünf Monate nach Ende des Geschäftsjahres die Formulare F.801.01, F.802.01, F.803.01, F.804.01, F.811.01, F.842.01 und F.850.01 und
 
 
-2.  spätestens sechs Monate nach Ende des Geschäftsjahres die Nachweisungen 820 und 830.
+2.  spätestens sechs Monate nach Ende des Geschäftsjahres die Formulare F.820.01 und F.830.01.
 
 
 
@@ -221,12 +221,12 @@ Die formgebundenen Erläuterungen gemäß § 8 sind der Aufsichtsbehörde jeweil
 
 #### § 10 Sonstige Rechnungslegungsunterlagen
 
-(1) Pensionsfonds haben folgende sonstige Rechnungslegungsunterlagen einzureichen:
+(1) Pensionsfonds haben eine elektronische Fassung der folgenden sonstigen Rechnungslegungsunterlagen einzureichen:
 
-1.  jeweils unverzüglich nach der Aufstellung die in § 37 Absatz 1 des Versicherungsaufsichtsgesetzes bezeichneten Unterlagen mit den nach § 141 Absatz 5 Satz 1 Nummer 2 und § 128 Absatz 5 des Versicherungsaufsichtsgesetzes vorgeschriebenen Bestätigungen in doppelter Ausfertigung;
+1.  jeweils unverzüglich nach der Aufstellung die in § 37 Absatz 1 des Versicherungsaufsichtsgesetzes bezeichneten Unterlagen mit den nach § 141 Absatz 5 Satz 1 Nummer 2 und § 128 Absatz 5 des Versicherungsaufsichtsgesetzes vorgeschriebenen Bestätigungen;
 
 
-2.  jeweils unverzüglich nach der Feststellung in doppelter Ausfertigung
+2.  jeweils unverzüglich nach der Feststellung
 
     a)  den Geschäftsbericht, zumindest bestehend aus
 
@@ -242,7 +242,7 @@ Die formgebundenen Erläuterungen gemäß § 8 sind der Aufsichtsbehörde jeweil
 
 
 
-    b)  den Bericht des Abschlussprüfers mit den Bemerkungen des Vorstands und des Aufsichtsrats gemäß § 37 Absatz 5 Satz 1 des Versicherungsaufsichtsgesetzes, wobei Vorstand und Aufsichtsrat jeweils ihre Bemerkungen handschriftlich unterzeichnet haben, und
+    b)  den Bericht des Abschlussprüfers sowie die Bemerkungen des Vorstands und des Aufsichtsrats gemäß § 37 Absatz 5 Satz 1 des Versicherungsaufsichtsgesetzes, und
 
 
     c)  den Bericht des Abschlussprüfers zu dem Bericht des Vorstands über die Beziehungen zu verbundenen Unternehmen gemäß § 313 Absatz 2 bis 5 des Aktiengesetzes,
@@ -253,60 +253,44 @@ Die formgebundenen Erläuterungen gemäß § 8 sind der Aufsichtsbehörde jeweil
 
 3.  unverzüglich nach der Hauptversammlung oder der dieser entsprechenden Versammlung der obersten Vertretung
 
-    a)  den endgültigen Geschäftsbericht gemäß Nummer 2 Buchstabe a in der Form, wie er der Hauptversammlung oder der dieser entsprechenden Versammlung der obersten Vertretung vorgelegt wurde, in vierfacher Ausfertigung,
+    a)  den endgültigen Geschäftsbericht gemäß Nummer 2 Buchstabe a in der Fassung, wie er der Hauptversammlung oder der dieser entsprechenden Versammlung der obersten Vertretung vorgelegt wurde,
 
 
-    b)  den Konzernabschluss und den Konzernlagebericht gemäß den §§ 341i und 341j des Handelsgesetzbuchs in vierfacher Ausfertigung,
+    b)  den Konzernabschluss und den Konzernlagebericht gemäß den §§ 341i und 341j des Handelsgesetzbuchs,
 
 
-    c)  den Bericht des Abschlussprüfers über die Prüfung des Konzernabschlusses und des Konzernlageberichts gemäß § 341k des Handelsgesetzbuchs in einfacher Ausfertigung
+    c)  den Bericht des Abschlussprüfers über die Prüfung des Konzernabschlusses und des Konzernlageberichts gemäß § 341k des Handelsgesetzbuchs
 
 
 
     und
 
 
-4.  spätestens sieben Monate nach Ende des Geschäftsjahres in doppelter Ausfertigung ein versicherungsmathematisches Gutachten über den Einfluss der wesentlichen Gewinn-und Verlustquellen auf das Bilanzergebnis und über die wesentlichen versicherungsmathematischen Annahmen, die der Berechnung der pensionsfondstechnischen Rückstellungen zugrunde liegen; die Aufsichtsbehörde bestimmt die Einzelheiten zum versicherungsmathematischen Gutachten.
+4.  spätestens sieben Monate nach Ende des Geschäftsjahres ein versicherungsmathematisches Gutachten über den Einfluss der wesentlichen Gewinn-und Verlustquellen auf das Bilanzergebnis und über die wesentlichen versicherungsmathematischen Annahmen, die der Berechnung der pensionsfondstechnischen Rückstellungen zugrunde liegen; die Aufsichtsbehörde bestimmt die Einzelheiten zum versicherungsmathematischen Gutachten.
 
 
 
+Der Vermerk im Sinne des Satzes 1 Nummer 2 Buchstabe a Doppelbuchstabe aa sowie die Berichte des Satzes 1 Nummer 2 Buchstabe b und c sowie Nummer 3 Buchstabe c sind mit qualifizierter elektronischer Signatur des Abschlussprüfers einzureichen.
 
-(2) Eine Ausfertigung des Geschäftsberichts gemäß Absatz 1 Nummer 3 Buchstabe a ist vom Vorstand, vom Verantwortlichen Aktuar und vom Treuhänder im Sinne des § 128 Absatz 1 des Versicherungsaufsichtsgesetzes handschriftlich zu unterzeichnen. In dieser Ausfertigung ist ferner vom Aufsichtsrat der Bericht des Aufsichtsrats handschriftlich zu unterzeichnen.
+(2) Das Original des Geschäftsberichts gemäß Absatz 1 Satz 1 Nummer 3 Buchstabe a ist vom Vorstand, vom Verantwortlichen Aktuar und vom Treuhänder im Sinne des § 128 Absatz 1 des Versicherungsaufsichtsgesetzes handschriftlich zu unterzeichnen. In dem Original des Geschäftsberichts ist ferner vom Aufsichtsrat der Bericht des Aufsichtsrats handschriftlich zu unterzeichnen. Die handschriftliche Unterzeichnung nach Satz 1 und 2 kann durch eine elektronische Form nach § 126a des Bürgerlichen Gesetzbuches ersetzt werden. Für die an die Bundesanstalt zu übermittelnde elektronische Fassung ist ausreichend, wenn erkennbar ist, wer das Dokument im Original unterzeichnet hat.
 
 
 #### § 11 Halbjährlicher Zwischenbericht
 
-(1) Pensionsfonds haben jeweils zum 30. Juni und 31. Dezember einen internen halbjährlichen Zwischenbericht über ausgewählte Zahlen zur Geschäftsentwicklung als formgebundene Erläuterungen gemäß Nachweisung 882 zu erstellen.
+(1) Pensionsfonds haben jeweils zum 30. Juni und 31. Dezember einen internen halbjährlichen Zwischenbericht über ausgewählte Zahlen zur Geschäftsentwicklung als formgebundene Erläuterungen gemäß Formular F.882.01 zu erstellen.
 
-(2) Die formgebundenen Erläuterungen gemäß Absatz 1 sind der Aufsichtsbehörde jeweils in doppelter Ausfertigung spätestens bis zum Ende des auf das jeweilige Berichtshalbjahr folgenden Monats einzureichen.
-
-
-#### § 12 Anwendung der Formblätter und Nachweisungen
-
-(1) Die auf den Formblättern und Nachweisungen zu setzenden Kennzahlen ergeben sich aus Anlage 1.
-
-(2) Bei der Verwendung der Formblätter und Nachweisungen sind die Anmerkungen und Abkürzungen aus Anlage 2, Abschnitte A und B, zu beachten.
-
-(3) Bei der Erstellung der Formblätter und Nachweisungen ist Anlage 2 Abschnitt C zu beachten.
-
-(4) Die Form der Formblätter und Nachweisungen richtet sich nach den im Bundesgesetzblatt 2005 I S. 3061 bis 3091 veröffentlichten Mustern mit Ausnahme von
-
-1.  Formblatt 800, für das das in Anlage 5 festgelegte Muster gilt,
+(2) Die formgebundenen Erläuterungen gemäß Absatz 1 sind der Aufsichtsbehörde spätestens bis zum Ende des auf das jeweilige Berichtshalbjahr folgenden Monats einzureichen.
 
 
-2.  Formblatt 810, für das das im Bundesgesetzblatt 2010 I S. 474 bis 480 veröffentlichte Muster gilt,
+#### § 12 Anwendung der Formulare
 
+(1) Die auf den Formularen zu setzenden Kennzahlen ergeben sich aus Anlage 1.
 
-3.  den Nachweisungen 801, 802, 803, 804 und 830, für die jeweils das in Anlage 5 festgelegte Muster gilt,
+(2) Bei der Verwendung der Formulare sind die Anmerkungen und Abkürzungen aus Anlage 2, Abschnitte A und B, zu beachten.
 
+(3) Bei der Erstellung der Formulare ist Anlage 2 Abschnitt C zu beachten.
 
-4.  Nachweisung 811, für die das im Bundesgesetzblatt 2010 I S. 487 und 488 veröffentlichte Muster gilt und
-
-
-5.  Nachweisung 842, für die das im Bundesgesetzblatt 2010 I S. 489 veröffentlichte Muster gilt.
-
-
-
+(4) Für die zu verwendenden Formulare gelten die in Anlage 5 festgelegten Muster.
 
 
 ### Kapitel 3 - Überschussbeteiligung
@@ -314,39 +298,39 @@ Die formgebundenen Erläuterungen gemäß § 8 sind der Aufsichtsbehörde jeweil
 
 #### § 13 Anzurechnende Kapitalerträge
 
-(1) Die anzurechnenden Kapitalerträge, die auf die überschussberechtigten Versorgungsverhältnisse entfallen, ergeben sich aus dem mit dem Ergebnis aus Kapitalanlagen (Betrag in Formblatt 810 Seite 1 Zeile 09 Spalte 04 abzüglich Nachweisung 811 Seite 2 Zeile 21 Spalte 01 und 02 zuzüglich Nachweisung 811 Seite 2 Zeile 21 Spalte 03 und 04, erhöht oder vermindert um die Teilbeträge in Nachweisung 811 Seite 1 Zeile 25, die dem Risikoergebnis oder dem übrigen Ergebnis zuzuordnen sind) vervielfachten Wert gemäß Absatz 2.
+(1) Die anzurechnenden Kapitalerträge, die auf die überschussberechtigten Versorgungsverhältnisse entfallen, ergeben sich aus dem mit dem Ergebnis aus Kapitalanlagen (Betrag in Formular F.810.01 Zeile ZE0090 Spalte SP0040 abzüglich Formular F.811.01 Zeile ZE0470 Spalte SP0010 und SP0020 zuzüglich Formular F.811.01 Zeile ZE0470 Spalte SP0030 und SP0040, erhöht oder vermindert um die Teilbeträge in Formular F.811.01 Zeile ZE0250, die dem Risikoergebnis oder dem übrigen Ergebnis zuzuordnen sind) vervielfachten Wert gemäß Absatz 2.
 
 (2) Es ist das Verhältnis der mittleren zinstragenden Passiva gemäß Absatz 3, die auf die überschussberechtigten Versorgungsverhältnisse entfallen, zu den anzurechnenden mittleren Passiva gemäß Absatz 4 zu bilden.
 
-(3) Die mittleren zinstragenden Passiva der überschussberechtigten Versorgungsverhältnisse werden berechnet durch arithmetische Mittelung der zinstragenden Passiva jeweils zum Bilanzstichtag der beiden letzten Geschäftsjahre. Die zinstragenden Passiva sind die pensionsfondstechnischen Brutto-Rückstellungen (entsprechender Teilbetrag in Formblatt 800 Seite 4 Zeile 11 Spalte 04 ohne einen extern finanzierten Rückstellungsteil nach Absatz 6) zuzüglich der Verbindlichkeiten aus dem Pensionsfondsgeschäft gegenüber Versorgungsberechtigten (entsprechender Teilbetrag in Formblatt 800 Seite 5 Zeile 06 Spalte 01) sowie gegenüber Arbeitgebern (entsprechender Teilbetrag in Formblatt 800 Seite 5 Zeile 05 Spalte 02, der auf Verbindlichkeiten aus gutgeschriebenen Überschussanteilen entfällt).
+(3) Die mittleren zinstragenden Passiva der überschussberechtigten Versorgungsverhältnisse werden berechnet durch arithmetische Mittelung der zinstragenden Passiva jeweils zum Bilanzstichtag der beiden letzten Geschäftsjahre. Die zinstragenden Passiva sind die pensionsfondstechnischen Brutto-Rückstellungen (entsprechender Teilbetrag in Formular F.800.01 Zeile ZE0890 Spalte SP0040 ohne einen extern finanzierten Rückstellungsteil nach Absatz 6) zuzüglich der Verbindlichkeiten aus dem Pensionsfondsgeschäft gegenüber Versorgungsberechtigten (entsprechender Teilbetrag in Formular F.800.01 Zeile ZE1100 Spalte SP0010) sowie gegenüber Arbeitgebern (entsprechender Teilbetrag in Formular F.800.01 Zeile ZE1090 Spalte SP0020, der auf Verbindlichkeiten aus gutgeschriebenen Überschussanteilen entfällt).
 
 (4) Die anzurechnenden mittleren Passiva ergeben sich als Summe der folgenden Beträge:
 
 1.  mittlere zinstragende Passiva des Pensionsfondsgeschäfts,
 
 
-2.  mittleres Eigenkapital (berechnet aus den Beträgen in Formblatt 800 Seite 3 Zeile 19 Spalte 04),
+2.  mittleres Eigenkapital (berechnet aus den Beträgen in Formular F.800.01 Zeile ZE0710 Spalte SP0040),
 
 
-3.  mittleres Genussrechtskapital (berechnet aus den Beträgen in Formblatt 800 Seite 3 Zeile 20 Spalte 04),
+3.  mittleres Genussrechtskapital (berechnet aus den Beträgen in Formular F.800.01 Zeile ZE0720 Spalte SP0040),
 
 
-4.  mittlere nachrangige Verbindlichkeiten (berechnet aus den Beträgen in Formblatt 800 Seite 3 Zeile 22 Spalte 04),
+4.  mittlere nachrangige Verbindlichkeiten (berechnet aus den Beträgen in Formular F.800.01 Zeile ZE0740 Spalte SP0040),
 
 
-5.  mittlere Rückstellungen für Pensionen und ähnliche Verpflichtungen (berechnet aus den Beträgen in Formblatt 800 Seite 4 Zeile 17 Spalte 03),
+5.  mittlere Rückstellungen für Pensionen und ähnliche Verpflichtungen (berechnet aus den Beträgen in Formular F.800.01 Zeile ZE0950 Spalte SP0030),
 
 
-6.  Saldo aus den mittleren Abrechnungsverbindlichkeiten und -forderungen aus dem Rückversicherungsgeschäft (berechnet aus dem Saldo der Beträge in Formblatt 800 Seite 5 Zeile 09 Spalte 03 und Seite 2 Zeile 05 Spalte 03) und
+6.  Saldo aus den mittleren Abrechnungsverbindlichkeiten und -forderungen aus dem Rückversicherungsgeschäft (berechnet aus dem Saldo der Beträge in Formular F.800.01 Zeile ZE1130 Spalte SP0030 und Zeile ZE0310 Spalte SP0030) und
 
 
-7.  Saldo aus den mittleren Abrechnungsverbindlichkeiten und -forderungen gegenüber Lebensversicherungsunternehmen (berechnet aus dem Saldo der Beträge in Formblatt 800 Seite 5 Zeile 10 Spalte 03 und Seite 2 Zeile 06 Spalte 03).
+7.  Saldo aus den mittleren Abrechnungsverbindlichkeiten und -forderungen gegenüber Lebensversicherungsunternehmen (berechnet aus dem Saldo der Beträge in Formular F.800.01 Zeile ZE1140 Spalte SP0030 und Zeile ZE0320 Spalte SP0030).
 
 
 
-Dabei ist das eingeforderte, noch nicht eingezahlte Kapital (Betrag in Formblatt 800 Seite 2 Zeile 07 Spalte 03) nicht zu berücksichtigen. Für die mittleren zinstragenden Passiva gilt Absatz 3 sinngemäß. Für die mittleren übrigen Posten gilt Absatz 3 Satz 1 sinngemäß.
+Dabei ist das eingeforderte, noch nicht eingezahlte Kapital (Betrag in Formular F.800.01 Zeile ZE0330 Spalte SP0030) nicht zu berücksichtigen. Für die mittleren zinstragenden Passiva gilt Absatz 3 sinngemäß. Für die mittleren übrigen Posten gilt Absatz 3 Satz 1 sinngemäß.
 
-(5) Soweit die Absätze 1, 3 und 4 Verweisungen auf Formblätter und eine Nachweisung enthalten, beziehen sich diese auf die in § 12 Absatz 4 genannten Formblätter und Nachweisungen.
+(5) Soweit die Absätze 1, 3 und 4 Verweisungen auf Formulare enthalten, beziehen sich diese auf die in § 12 Absatz 4 genannten Formulare.
 
 (6) Der extern finanzierte Rückstellungsteil ist der nach den Sätzen 2 bis 5 ermittelte Teilbetrag einer pensionsfondstechnischen Rückstellung, die auf Grund nicht mehr ausreichender Sicherheiten im Rechnungszins für die überschussberechtigten Versorgungsverhältnisse passiviert ist. Am Bilanzstichtag im Kalenderjahr 2018 ist der extern finanzierte Rückstellungsteil null. Der extern finanzierte Rückstellungsteil wird am Ende eines Geschäftsjahres in dem Maße erhöht, in dem ein Jahresfehlbetrag
 
@@ -381,31 +365,31 @@ Pensionsfonds, die einen extern finanzierten Rückstellungsteil führen, erläut
 
 (1) Zur Sicherstellung einer ausreichenden Mindestzuführung zur Rückstellung für Beitragsrückerstattung müssen Pensionsfonds die überschussberechtigten Versorgungsverhältnisse angemessen am Kapitalanlageergebnis, am Risikoergebnis und am übrigen Ergebnis beteiligen. Die einzelnen Ergebnisse ergeben sich anteilig aus den Erträgen und Aufwendungen, die in der Summe folgender Beträge enthalten sind:
 
-1.  Jahresergebnis nach Steuern (Betrag in Formblatt 810 Seite 6 Zeile 22 Spalte 04),
+1.  Jahresergebnis nach Steuern (Betrag in Formular F.810.01 Zeile ZE1510 Spalte SP0040),
 
 
-2.  Entnahmen aus dem Organisationsfonds nach § 9 Absatz 2 Nummer 5 des Versicherungsaufsichtsgesetzes (Betrag in Formblatt 810 Seite 7 Zeile 02 Spalte 03),
+2.  Entnahmen aus dem Organisationsfonds nach § 9 Absatz 2 Nummer 5 des Versicherungsaufsichtsgesetzes (Betrag in Formular F.810.01 Zeile ZE1580 Spalte SP0030),
 
 
-3.  Bruttoaufwendungen für die erfolgsabhängige Beitragsrückerstattung (Betrag in Formblatt 810 Seite 3 Zeile 11 Spalte 04) und
+3.  Bruttoaufwendungen für die erfolgsabhängige Beitragsrückerstattung (Betrag in Formular F.810.01 Zeile ZE0630 Spalte SP0040) und
 
 
-4.  die im Geschäftsjahr gewährte Direktgutschrift (Summe der Beträge in Formblatt 810 Seite 2 Zeile 20, Seite 3 Zeile 06 und Zeile 08 jeweils Spalte 03).
+4.  die im Geschäftsjahr gewährte Direktgutschrift (Summe der Beträge in Formular F.810.01 Zeile ZE0460, Zeile ZE0580 und Zeile ZE0600 jeweils Spalte SP0030).
 
 
 
 
-(2) Die Beträge des Kapitalanlageergebnisses, des Risikoergebnisses und des übrigen Ergebnisses für die überschussberechtigten Versorgungsverhältnisse sind im Rahmen des versicherungsmathematischen Gutachtens gemäß § 10 Absatz 1 Nummer 4 im Einzelnen herzuleiten. Die Mindestzuführung zur Rückstellung für Beitragsrückerstattung wird nach den Absätzen 3 bis 6 berechnet.
+(2) Die Beträge des Kapitalanlageergebnisses, des Risikoergebnisses und des übrigen Ergebnisses für die überschussberechtigten Versorgungsverhältnisse sind im Rahmen des versicherungsmathematischen Gutachtens gemäß § 10 Absatz 1 Satz 1 Nummer 4 im Einzelnen herzuleiten. Die Mindestzuführung zur Rückstellung für Beitragsrückerstattung wird nach den Absätzen 3 bis 6 berechnet.
 
-(3) Die Mindestzuführung zur Rückstellung für Beitragsrückerstattung in Abhängigkeit von den Kapitalerträgen für die überschussberechtigten Versorgungsverhältnisse beträgt 90 Prozent der nach § 13 anzurechnenden Kapitalerträge abzüglich der rechnungsmäßigen Zinsen ohne eine Verminderung des extern finanzierten Rückstellungsteils nach § 13 Absatz 6 Satz 4 und ohne die anteilig auf die überschussberechtigten Versorgungsverhältnisse entfallenden Zinsen auf die Pensionsrückstellungen (Summe der entsprechenden Teilbeträge der Beträge in Formblatt 810 Seite 2 Zeile 19 Spalte 03 und Seite 3 Zeile 05 Spalte 03 abzüglich der entsprechenden Teilbeträge in Formblatt 810 Seite 6 Zeile 04 Spalte 03). Die Beträge sind im Rahmen des versicherungsmathematischen Gutachtens gemäß § 10 Absatz 1 Nummer 4 im Einzelnen herzuleiten. Ist vertraglich vereinbart, dass die überschussberechtigten Versorgungsverhältnisse an den anzurechnenden Kapitalerträgen zu mehr als 90 Prozent beteiligt werden, ist die Mindestzuführung entsprechend zu erhöhen. Ergeben sich rechnerisch negative Beträge für die Mindestzuführung zur Rückstellung für Beitragsrückerstattung in Abhängigkeit von den Kapitalerträgen, werden sie durch Null ersetzt, wenn die nach § 13 anzurechnenden Kapitalerträge höher ausfallen als die rechnungsmäßigen Zinsen ohne die anteilig auf die überschussberechtigten Versorgungsverhältnisse entfallenden Zinsen auf die Pensionsrückstellungen. Andernfalls beträgt die Mindestzuführung zur Rückstellung für Beitragsrückerstattung in Abhängigkeit von den Kapitalerträgen 100 Prozent der nach § 13 anzurechnenden Kapitalerträge abzüglich der rechnungsmäßigen Zinsen ohne die anteilig auf die überschussberechtigten Versorgungsverhältnisse entfallenden Zinsen auf die Pensionsrückstellungen.
+(3) Die Mindestzuführung zur Rückstellung für Beitragsrückerstattung in Abhängigkeit von den Kapitalerträgen für die überschussberechtigten Versorgungsverhältnisse beträgt 90 Prozent der nach § 13 anzurechnenden Kapitalerträge abzüglich der rechnungsmäßigen Zinsen ohne eine Verminderung des extern finanzierten Rückstellungsteils nach § 13 Absatz 6 Satz 4 und ohne die anteilig auf die überschussberechtigten Versorgungsverhältnisse entfallenden Zinsen auf die Pensionsrückstellungen (Summe der entsprechenden Teilbeträge der Beträge in Formular F.810.01 Zeile ZE0450 Spalte SP0030 und Zeile ZE0570 Spalte SP0030 abzüglich der entsprechenden Teilbeträge in Formular F.810.01 Zeile ZE1340 Spalte SP0030). Die Beträge sind im Rahmen des versicherungsmathematischen Gutachtens gemäß § 10 Absatz 1 Satz 1 Nummer 4 im Einzelnen herzuleiten. Ist vertraglich vereinbart, dass die überschussberechtigten Versorgungsverhältnisse an den anzurechnenden Kapitalerträgen zu mehr als 90 Prozent beteiligt werden, ist die Mindestzuführung entsprechend zu erhöhen. Ergeben sich rechnerisch negative Beträge für die Mindestzuführung zur Rückstellung für Beitragsrückerstattung in Abhängigkeit von den Kapitalerträgen, werden sie durch Null ersetzt, wenn die nach § 13 anzurechnenden Kapitalerträge höher ausfallen als die rechnungsmäßigen Zinsen ohne die anteilig auf die überschussberechtigten Versorgungsverhältnisse entfallenden Zinsen auf die Pensionsrückstellungen. Andernfalls beträgt die Mindestzuführung zur Rückstellung für Beitragsrückerstattung in Abhängigkeit von den Kapitalerträgen 100 Prozent der nach § 13 anzurechnenden Kapitalerträge abzüglich der rechnungsmäßigen Zinsen ohne die anteilig auf die überschussberechtigten Versorgungsverhältnisse entfallenden Zinsen auf die Pensionsrückstellungen.
 
 (4) Die Mindestzuführung zur Rückstellung für Beitragsrückerstattung in Abhängigkeit vom Risikoergebnis für die überschussberechtigten Versorgungsverhältnisse beträgt 90 Prozent des Risikoergebnisses gemäß Absatz 1. Ergeben sich rechnerisch negative Beträge für die Mindestzuführung zur Rückstellung für Beitragsrückerstattung in Abhängigkeit vom Risikoergebnis, werden sie durch Null ersetzt.
 
 (5) Die Mindestzuführung zur Rückstellung für Beitragsrückerstattung aus dem übrigen Ergebnis für die überschussberechtigten Versorgungsverhältnisse beträgt 50 Prozent des übrigen Ergebnisses gemäß Absatz 1. Ergeben sich rechnerisch negative Beträge für die Mindestzuführung zur Rückstellung für Beitragsrückerstattung in Abhängigkeit vom übrigen Ergebnis, werden sie durch Null ersetzt.
 
-(6) Von der Summe der gemäß den Absätzen 3 bis 5 ermittelten Beträge wird die auf die überschussberechtigten Versorgungsverhältnisse entfallende Direktgutschrift (Summe der Beträge in Formblatt 810 Seite 2 Zeile 20, Seite 3 Zeile 06 und Zeile 08 jeweils Spalte 03) abgezogen. Ergibt sich rechnerisch eine negative Mindestzuführung zur Rückstellung für Beitragsrückerstattung, wird sie durch Null ersetzt.
+(6) Von der Summe der gemäß den Absätzen 3 bis 5 ermittelten Beträge wird die auf die überschussberechtigten Versorgungsverhältnisse entfallende Direktgutschrift (Summe der Beträge in Formular F.810.01 Zeile ZE0460, Zeile ZE0580 und Zeile ZE0600 jeweils Spalte SP0030) abgezogen. Ergibt sich rechnerisch eine negative Mindestzuführung zur Rückstellung für Beitragsrückerstattung, wird sie durch Null ersetzt.
 
-(7) Für die Verweisung auf Formblätter in den Absätzen 1, 3 und 6 gilt § 13 Absatz 5 entsprechend.
+(7) Für die Verweisung auf Formulare in den Absätzen 1, 3 und 6 gilt § 13 Absatz 5 entsprechend.
 
 
 #### § 15 Reduzierung der Mindestzuführung
@@ -530,7 +514,7 @@ Das Risikoergebnis und das übrige Ergebnis sind dabei durch Null zu ersetzen, w
 
 
 
-    b)  an Unternehmen im Sinne von Nummer 14 Buchstabe a, an denen der Pensionsfonds als Gesellschafter beteiligt ist (Gesellschafter-Darlehen), wenn die Darlehen die Erfordernisse des § 240 Absatz 1 und Absatz 2 Nummer 1 des Kapitalanlagegesetzbuchs erfüllen;
+    b)  an Unternehmen im Sinne von Nummer 14 Buchstabe a, an denen der Pensionsfonds als Gesellschafter beteiligt ist (Gesellschafter-Darlehen), wenn die Darlehen die Erfordernisse des § 240 Absatz 1 und Absatz 2 Satz 1 Nummer 1 des Kapitalanlagegesetzbuchs erfüllen;
 
 
     c)  an andere Unternehmen mit Sitz in einem Staat des EWR oder in einem Vollmitgliedstaat der OECD mit Ausnahme von Kreditinstituten, sofern diese Darlehen ausreichend dinglich oder schuldrechtlich gesichert sind;
@@ -757,7 +741,7 @@ Das Risikoergebnis und das übrige Ergebnis sind dabei durch Null zu ersetzen, w
 
 (5) Bis zu jeweils 10 Prozent des Sicherungsvermögens können in einem einzelnen Grundstück oder grundstücksgleichen Recht oder in Anteilen an einem Unternehmen angelegt werden, dessen alleiniger Zweck der Erwerb, die Bebauung und Verwaltung von in einem Staat des EWR oder in einem Vollmitgliedstaat der OECD belegenen Grundstücken oder grundstücksgleichen Rechten ist. Dieselbe Grenze gilt für mehrere rechtlich selbständige Grundstücke zusammengenommen, wenn sie wirtschaftlich eine Einheit bilden.
 
-(6) Anlagen in einem Trägerunternehmen des Pensionsfonds im Sinne des § 7 Absatz 1 Satz 2 Nummer 2 des Betriebsrentengesetzes dürfen 5 Prozent des Sicherungsvermögens nicht überschreiten. Ist das Trägerunternehmen Teil eines Konzerns im Sinne des § 18 des Aktiengesetzes, dürfen die Anlagen in den Unternehmen, die derselben Unternehmensgruppe wie das Trägerunternehmen angehören, 10 Prozent des Sicherungsvermögens nicht überschreiten. Wird ein Pensionsfonds von mehreren Unternehmen getragen, so sind Anlagen in diese Unternehmen mit der gebotenen Vorsicht zu tätigen und angemessen zu streuen.
+(6) Anlagen in einem Trägerunternehmen des Pensionsfonds dürfen 5 Prozent des Sicherungsvermögens nicht überschreiten. Ist das Trägerunternehmen Teil eines Konzerns im Sinne des § 18 des Aktiengesetzes, dürfen die Anlagen in den Unternehmen, die derselben Unternehmensgruppe wie das Trägerunternehmen angehören, 10 Prozent des Sicherungsvermögens nicht überschreiten. Wird ein Pensionsfonds von mehreren Unternehmen getragen, so sind Anlagen in diese Unternehmen mit der gebotenen Vorsicht zu tätigen und angemessen zu streuen.
 
 
 #### § 20 Kongruenz
@@ -869,7 +853,7 @@ Andernfalls ist für die gesamte Restlaufzeit der jeweils maßgebliche Rechnungs
 
 (2) Soweit der Pensionsfonds Leistungen garantiert, kann das den Barwert dieser Garantie übersteigende Kapital auf 75 Prozent des gemäß Absatz 1 Nummer 1 berechneten Teilbetrags der Solvabilitätskapitalanforderung angerechnet werden, wenn der Pensionsplan eine Heranziehung in dieser Höhe erlaubt.
 
-(3) Für die Berechnung des Risikokapitals nach Absatz 1 Nummer 4 gelten § 9 Absatz 2 bis 4 sowie § 10 Absatz 1 Satz 2 der Kapitalausstattungs-Verordnung vom 18. April 2016 (BGBl. I S. 795) in der jeweils geltenden Fassung entsprechend. Lässt sich das Risikokapital nach Absatz 1 Nummer 4 nicht ermitteln, so ist stattdessen ein gleichwertiges Berechnungsverfahren, das dem vom Pensionsfonds getragenen Risiko in geeigneter Weise Rechnung trägt, zu verwenden. Das Berechnungsverfahren ist der Aufsichtsbehörde spätestens bei Vorlage der in § 28 bestimmten Unterlagen mitzuteilen.
+(3) Für die Berechnung des Risikokapitals nach Absatz 1 Nummer 4 gelten § 9 Absatz 2 bis 4 sowie § 10 Absatz 1 Satz 2 der Kapitalausstattungs-Verordnung vom 18. April 2016 (BGBl. I S. 795) in der jeweils geltenden Fassung entsprechend. Lässt sich das Risikokapital nach Absatz 1 Nummer 4 nicht ermitteln, so ist stattdessen ein gleichwertiges Berechnungsverfahren, das dem vom Pensionsfonds getragenen Risiko in geeigneter Weise Rechnung trägt, zu verwenden. Das Berechnungsverfahren ist der Aufsichtsbehörde bei Vorlage der in § 28 bestimmten Unterlagen mitzuteilen.
 
 (4) Der Pensionsfonds trägt selbst Kapitalanlagerisiko, soweit durch Vereinbarung im Pensionsplan zugleich die Höhe von Beiträgen und Leistungen garantiert wird. Er trägt ein übernommenes Risiko selbst, soweit er es nicht durch Zukauf von Versicherungsschutz überträgt. Die sich durch Zukauf von Versicherungsschutz ergebende Verminderung der Solvabilitätskapitalanforderung ist in den Fällen des Absatzes 1 Nummer 1 und 2 auf 15 Prozent und im Falle des Absatzes 1 Nummer 4 auf 50 Prozent der ohne Berücksichtigung des Zukaufs von Versicherungsschutz geforderten Solvabilitätskapitalanforderung, bezogen auf das gesamte übernommene Risiko, begrenzt.
 
@@ -987,7 +971,7 @@ Im Fall von Vereinbarungen mit fester Laufzeit haben Pensionsfonds der Aufsichts
 2.  es unter keinen Umständen auf Verlangen des Gläubigers zurückgezahlt werden muss,
 
 
-3.  es nur mit Zustimmung der Aufsicht zurückgezahlt werden kann,
+3.  es nur mit Zustimmung der Aufsichtsbehörde zurückgezahlt werden kann,
 
 
 4.  der Emissionsvertrag dem Pensionsfonds jederzeit erlaubt, Zinszahlungen aufzuschieben, und
@@ -1030,9 +1014,9 @@ kann den Eigenmitteln nur in den Grenzen des Satzes 2 zugerechnet werden. Die Zu
 
 (2) Stichtag für den Solvabilitätsnachweis ist der Stichtag des nach § 341a des Handelsgesetzbuchs vorgeschriebenen Jahresabschlusses. Für die Vorlage bei der Aufsichtsbehörde gilt die gleiche Frist wie für den aufgestellten Jahresabschluss.
 
-(3) Für die Vorlage des Solvabilitätsnachweises ist das in Anlage 4 abgedruckte Formular zu verwenden.
+(3) Als Formular für den Solvabilitätsnachweis ist das in Anlage 4 festgelegte Muster zu verwenden.
 
-(4) Pensionsfonds unter Bundesaufsicht legen den Solvabilitätsnachweis elektronisch oder auf Papierformularen der Bundesanstalt für Finanzdienstleistungsaufsicht vor.
+(4) (weggefallen)
 
 
 ### Kapitel 7 - Lebenslange Zahlungen im Sinne des § 236 Absatz 3 des Versicherungsaufsichtsgesetzes
@@ -1192,7 +1176,62 @@ In den unternehmensinternen Risikoberichten im Sinne des § 26 Absatz 1 Satz 1 u
 
 
 
-Bei Pensionsfonds haben diese Ausführungen im Rahmen des versicherungsmathematischen Gutachtens nach § 10 Absatz 1 Nummer 4 zu erfolgen, bei Pensionskassen im Rahmen des versicherungsmathematischen Gutachtens nach § 17 der Versicherungsberichterstattungs-Verordnung.
+Bei Pensionsfonds haben diese Ausführungen im Rahmen des versicherungsmathematischen Gutachtens nach § 10 Absatz 1 Satz 1 Nummer 4 zu erfolgen, bei Pensionskassen im Rahmen des versicherungsmathematischen Gutachtens nach § 17 der Versicherungsberichterstattungs-Verordnung.
+
+
+### § 42a Elektronische Einreichungen gegenüber der Aufsichtsbehörde
+
+(1) Soweit in dieser Verordnung nichts anderes geregelt ist, sind der Aufsichtsbehörde nach dieser Verordnung einzureichende Unterlagen in elektronischer Form zu übermitteln.
+
+(2) Die elektronische Datenübermittlung erfolgt an die Melde- und Veröffentlichungsplattform (MVP-Portal) der Aufsichtsbehörde. Unternehmen haben über das Internet Zugang zum MVP-Portal, nachdem sie sich bei der Aufsichtsbehörde hierfür registriert haben. Abweichend von Satz 1 kann die Bundesanstalt für die elektronische Datenübermittlung einen abweichenden Einreichungsweg bestimmen.
+
+(3) Die Unternehmen haben die ordnungsgemäße Datenübermittlung durch Berücksichtigung der im MVP-Portal hinterlegten Informationen und Hinweise sicherzustellen.
+
+
+### § 42b Datenformate und Einreichungsvorgaben
+
+(1) Elektronische Einreichungen müssen in einem maschinenlesbaren und maschinendurchsuchbaren Dateiformat erfolgen.
+
+(2) Ein Formular besteht aus quantitativen Informationen (quantitativer Formularteil) und gegebenenfalls einer Anlage mit ergänzenden verpflichtenden oder freiwilligen Angaben (qualitativer Formularteil). Der quantitative und der qualitative Formularteil sind in getrennten Meldedateien einzureichen. Der quantitative Formularteil ist auf Basis der von der Aufsichtsbehörde auf ihrer Internetseite veröffentlichten aktuellen XBRL-Taxonomie einschließlich Basisinformationen und Angaben zum Berichtsumfang in einer Meldedatei einzureichen. Sofern die Aufsichtsbehörde für diese Einreichung auf ihrer Internetseite auch ein anderes Format, das von ihr in XBRL konvertiert wird, anbietet, kann die Einreichung alternativ in diesem Format erfolgen.
+
+(3) Die Aufsichtsbehörde veröffentlicht auf ihrer Internetseite
+
+1.  die für eine elektronische Dateneinreichung jeweils zu verwendenden Datenformate,
+
+
+2.  die hinsichtlich Datenformat und Dateninhalt einzuhaltenden Prüfregeln und Einreichungsregeln.
+
+
+
+
+
+### § 42c Zusammen einzureichende Formularteile
+
+(1) Die quantitativen Formularteile von Formularen mit gleicher Einreichungsfrist nach den §§ 7 und 9 und die qualitativen Formularteile von Formularen mit gleicher Einreichungsfrist nach den §§ 7 und 9 sind jeweils in einer Meldedatei zu übermitteln.
+
+(2) Bereits bei einem früheren Meldevorgang nach § 7 oder § 9 für das jeweilige Geschäftsjahr eingereichte quantitative Formularteile sind zusammen mit nach § 7 oder § 9 später einzureichenden quantitativen Formularteilen erneut in einer Meldedatei zu übermitteln. Bereits bei einem früheren Meldevorgang nach § 7 oder § 9 für das jeweilige Geschäftsjahr eingereichte qualitative Formularteile sind zusammen mit nach § 7 oder § 9 später einzureichenden qualitativen Formularteilen erneut in einer Meldedatei zu übermitteln.
+
+(3) Mit den nach den Absätzen 1 und 2 Satz 1 zu übermittelnden quantitativen Formularteilen ist in der jeweiligen Meldedatei auch der quantitative Formularteil des Formulars nach § 28 für das jeweilige Geschäftsjahr zu übermitteln. Mit den nach den Absätzen 1 und 2 Satz 2 zu übermittelnden qualitativen Formularteilen ist in der jeweiligen Meldedatei auch der qualitative Formularteil des Formulars nach § 28 für das jeweilige Geschäftsjahr zu übermitteln. § 28 bleibt unberührt.
+
+(4) Eine Meldedatei mit quantitativen Formularteilen und eine Meldedatei mit qualitativen Formularteilen können zusammen in einem Meldevorgang übermittelt werden.
+
+
+### § 42d Korrekturmeldungen
+
+(1) Muss ein quantitativer Formularteil nach Übermittlung korrigiert werden, ist dieser Formularteil unverzüglich nach Feststellung des Korrekturbedarfs berichtigt zusammen mit allen weiteren quantitativen Formularteilen, die bisher in Bezug auf dieses Geschäftsjahr eingereicht wurden, in einer Meldedatei einzureichen.
+
+(2) Muss ein qualitativer Formularteil nach Übermittlung korrigiert werden, ist dieser Formularteil unverzüglich nach Feststellung des Korrekturbedarfs berichtigt zusammen mit allen weiteren qualitativen Formularteilen, die bisher in Bezug auf dieses Geschäftsjahr eingereicht wurden, in einer Meldedatei einzureichen.
+
+(3) Muss der quantitative Formularteil oder der qualitative Formularteil eines internen halbjährlichen Zwischenberichts nach Übermittlung korrigiert werden, ist der zu korrigierende Formularteil unverzüglich nach Feststellung des Korrekturbedarfs berichtigt einzureichen.
+
+(4) Bezieht sich der Korrekturbedarf nur auf quantitative Formularteile oder nur auf qualitative Formularteile, bedarf es keiner erneuten Übermittlung der jeweils anderen Formularteile.
+
+
+### § 42e Zurückweisung von Daten
+
+(1) Die Aufsichtsbehörde weist eine Meldedatei zurück, wenn Dateninhalte oder das Datenformat nicht den Vorgaben des § 42b entsprechen.
+
+(2) Zurückgewiesene Datensätze gelten als nicht eingereicht. Die Zurückweisungsnachricht ist einschließlich der Angabe des Zurückweisungsgrundes im MVP-Portal abrufbar.
 
 
 ## Teil 3 - Schlussbestimmungen
@@ -1229,11 +1268,13 @@ anzuwenden.
 
 (7) Anlagen des Sicherungsvermögens, die zum Zeitpunkt, ab dem das Vereinigte Königreich Großbritannien und Nordirland nicht mehr Mitgliedstaat der Europäischen Union ist und auch nicht wie ein solcher zu behandeln ist, die Voraussetzungen der jeweiligen Anlageform nach § 17 Absatz 1 deswegen nicht mehr erfüllen, weil das Vereinigte Königreich Großbritannien und Nordirland nicht länger Staat des EWR ist, können weiterhin der jeweiligen Anlageform nach § 17 Absatz 1 zugeordnet werden.
 
+(8) Auf den Solvabilitätsnachweis nach § 28, den internen jährlichen Bericht sowie für die Anwendung der §§ 13 und 14 für ein Geschäftsjahr, das vor dem 1. Januar 2025 endet, und auf den internen halbjährlichen Zwischenbericht für ein Berichtshalbjahr, das vor dem 1. Januar 2025 begonnen hat, ist die Pensionsfonds-Aufsichtsverordnung in der bis zum 16. Dezember 2024 geltenden Fassung anzuwenden.
+
 (zu § 12 Absatz 1)
 
 ### Anlage 1 Die regionale Herkunft des Pensionsfondsgeschäfts und die dafür zu setzenden Kennzahlen
 
-(Fundstelle: BGBl. I 2016, 857 - 858)
+(Fundstelle: BGBl. I 2016, 857 - 858, bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   01
@@ -1398,12 +1439,12 @@ anzuwenden.
 
 *    *   70
 
-    *   Europa
+    *   (weggefallen)
 
 
 *    *   71
 
-    *   Europäische Gemeinschaft (EG)
+    *   (weggefallen)
 
 
 *    *   72
@@ -1434,18 +1475,17 @@ anzuwenden.
 
 (zu § 12 Absatz 2 und 3)
 
-### Anlage 2 Formblätter und Nachweisungen
+### Anlage 2 Anwendung der Formulare
 
-(Fundstelle: BGBl. I 2016, 859 - 867; bzgl. einzelner Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2016, 859 - 867; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Abschnitt A
 
-Anmerkungen
-## zu den Formblättern und Nachweisungen
+## Anmerkungen zu den Formularen
 
-**Nummer 1: Anmerkungen zum Formblatt 800**
+**Nr. 1: Formular F.800.01**
 
-1.  An die Stelle des Aktivpostens 6.d) „eingefordertes, noch nicht eingezahltes Kapital“ tritt bei Pensionsfondsvereinen auf Gegenseitigkeit in der Bilanz der Aktivposten 6.d) „Wechsel der Zeichner des Gründungsstocks“.
+1.  An die Stelle des Aktivpostens 6.4 „eingefordertes, noch nicht eingezahltes Kapital“ tritt bei Pensionsfondsvereinen auf Gegenseitigkeit in der Bilanz der Aktivposten 6.4 „Wechsel der Zeichner des Gründungsstocks“.
 
 
 2.  Unter diesem Posten ist von Pensionsfondsvereinen auf Gegenseitigkeit der Gründungsstock auszuweisen.
@@ -1462,18 +1502,18 @@ Anmerkungen
 5.  Aktiengesellschaften haben diesen Posten unabhängig vom externen Ausweis (vgl. § 58 Absatz 2a Satz 2 AktG) stets hier anzugeben.
 
 
-6.  Wird die Bilanz unter Berücksichtigung der teilweisen Verwendung des Jahresergebnisses aufgestellt, treten an die Stelle der Posten in den Zeilen 10 bis 13 die Posten in den Zeilen 14 bis 17.
+6.  Wird die Bilanz unter Berücksichtigung der teilweisen Verwendung des Jahresergebnisses aufgestellt, treten an die Stelle der Posten in den Zeilen ZE0640 bis ZE0670 die Posten in den Zeilen ZE0680 bis ZE0710.
 
 
 7.  Hier sind die Teile der erfolgsabhängigen RfB anzugeben, die gemäß § 237 Absatz 1 Satz 1 in Verbindung mit § 140 Absatz 4 VAG gebildet worden sind.
 
 
-8.  Unter diesem Posten ist die im Posten 6.a) enthaltene, nach Kapitel 5 dieser Verordnung zu bildende Deckungsrückstellung auszuweisen (vgl. § 17 Absatz 2 RechPensV).
+8.  Unter diesem Posten ist die im Posten 6.1 enthaltene, nach Kapitel 5 dieser Verordnung zu bildende Deckungsrückstellung auszuweisen (vgl. § 17 Absatz 2 RechPensV).
 
 
 
 
-**Nummer 2: Anmerkungen zum Formblatt 810**
+**Nr. 2: Formular F.810.01**
 
 1.  Unter diesem Posten sind die vom Pensionsfonds geleisteten Beiträge an den Pensionssicherungsverein für die Versorgungsberechtigten auszuweisen.
 
@@ -1495,7 +1535,7 @@ Anmerkungen
 
 
 
-**Nummer 3: Anmerkungen zur Nachweisung 801**
+**Nr. 3: Formular F.801.01**
 
 1.  Für die Zuordnung zu den einzelnen Anlagearten gelten die Regelungen des § 5 RechPensV in Verbindung mit den §§ 7 bis 9 Satz 1, §§ 11 und 12 RechVersV sowie der §§ 6 und 7 RechPensV.
 
@@ -1514,9 +1554,9 @@ Anmerkungen
 
 
 
-**Nummer 4: Anmerkungen zur Nachweisung 802**
+**Nr. 4: Formular F.802.01**
 
-1.  Die Summe der folgenden in der Gewinn-und-Verlust-Rechnung ausgewiesenen funktionalen Aufwendungen (pensionsfondstechnische Rechnung) sowie sonstiger Aufwendungen im Rahmen der gewöhnlichen Geschäftstätigkeit ist auf die Posten des Personal- und Sachaufwands der Nachweisung 802 aufzugliedern:
+1.  Die Summe der folgenden in der Gewinn-und-Verlust-Rechnung ausgewiesenen funktionalen Aufwendungen (pensionsfondstechnische Rechnung) sowie sonstiger Aufwendungen im Rahmen der gewöhnlichen Geschäftstätigkeit ist auf die Posten des Personal- und Sachaufwands des Formulars F.802.01 aufzugliedern:
 
     a)  Regulierungsaufwendungen für Versorgungsfälle ohne Zahlungen für Versorgungsfälle an die Versorgungsberechtigten;
 
@@ -1542,7 +1582,7 @@ Anmerkungen
 2.  Bruttozahlungen in Form von Bar- und Sachbezügen an die Beschäftigten (siehe Anmerkung 9) ohne jeden Abzug. Die Beträge verstehen sich einschließlich Arbeitnehmeranteilen zur gesetzlichen Sozialversicherung, jedoch ohne Arbeitgeberanteile. Einzubeziehen sind sämtliche Zuschläge, wie Superprovisionen an Angestellte, Tantiemen, Mietbeihilfen und Wohnungszuschüsse, Vergütungen für Feiertage, Urlaub und dgl., Entgeltfortzahlungen bei Krankheit sowie Zuschüsse zum Krankengeld, Fahrtkostenzuschüsse, Urlaubsbeihilfen, Entschädigungen, vermögenswirksame Leistungen, Auslösungen (sofern Lohnsteuer entrichtet wurde), familienbezogene Entgeltbestandteile und Abfindungen. Bezüge von Vorstandsmitgliedern und anderen Führungskräften, die steuerrechtlich als Einkünfte aus nichtselbständiger Arbeit zu behandeln sind, sind ebenfalls einzubeziehen. Nicht zu den Bruttoentgelten gehört die freiwillige Beteiligung des Arbeitgebers an den sozialen Abgaben des Arbeitnehmers. Ebenfalls nicht einzubeziehen sind Aufwendungen für Leiharbeitnehmer und freie Pensionsfondsvertreter sowie Mitglieder des Aufsichtsrats (vgl. Anmerkungen 4, 6 und 7).
 
 
-3.  Gesetzliche und übrige Sozialaufwendungen: Arbeitgeberanteile zur Renten-, Arbeitslosen-, Kranken- und Pflegeversicherung; Beiträge zur Berufsgenossenschaft; gesetzlich vorgeschriebene Beiträge zur Krankenversicherung nichtversicherungspflichtiger Angestellter; auf tariflicher oder vertraglicher Grundlage beruhende bzw. freiwillig gewährte Leistungen des Arbeitgebers, soweit sie nicht der Lohnsteuerpflicht unterliegen (z. B. Aufwendungen für die betriebliche Altersversorgung, Beiträge zur Aus- und Fortbildung, Beihilfen und Zuschüsse im Krankheitsfall, laufende Zuschüsse für Verpflegung bei Praktika, Entschädigungen für doppelte Haushaltsführung und Umzugskostenvergütungen). Nicht hierzu gehören Entgeltzahlung bei Krankheit, Urlaub oder Mutterschaft sowie den Pensionsfondsvertretern gewährte Altersversorgungs- und andere Sozialleistungen.
+3.  Gesetzliche und übrige Sozialaufwendungen: Arbeitgeberanteile zur Renten-, Arbeitslosen-, Kranken- und Pflegeversicherung; Beiträge zur Berufsgenossenschaft; gesetzlich vorgeschriebene Beiträge zur Krankenversicherung nichtversicherungspflichtiger Angestellter; auf tariflicher oder vertraglicher Grundlage beruhende bzw. freiwillig gewährte Leistungen des Arbeitgebers, soweit sie nicht der Lohnsteuerpflicht unterliegen (z. B. Aufwendungen für die betriebliche Altersversorgung, Beiträge zur Aus- und Fortbildung, Beihilfen und Zuschüsse im Krankheitsfall, laufende Zuschüsse für Verpflegung bei Praktika, Entschädigungen für doppelte Haushaltsführung und Umzugskostenvergütungen). Nicht hierzu gehören Entgeltzahlung bei Krankheit, Urlaub oder Mutterschaft sowie den Pensionsfondsvertretern gewährte Altersversorgungs- und andere Sozialleistungen.
 
 
 4.  Hierunter sind auch die an Makler gezahlten Courtagen sowie Provisionen für das an andere Unternehmen vermittelte Bauspargeschäft und sonstige Finanzdienstleistungsgeschäfte auszuweisen. Aufwendungen für die Altersversorgung der freien Pensionsfondsvertreter einschließlich der sogenannten Provisionsrenten sind ebenfalls einzubeziehen.
@@ -1551,12 +1591,12 @@ Anmerkungen
 5.  Als sonstiger Sachaufwand sind alle weiteren Aufwendungen für bezogene Dienstleistungen und Waren auszuweisen, die für betriebliche Zwecke verbraucht werden. Hierzu gehören auch die gesamten Vergütungen an den Aufsichtsrat und den Beirat sowie die dem Pensionsfonds innerhalb der Unternehmensgruppe angelasteten Zentralverwaltungsaufwendungen. Ferner gehören hierzu die externen Aufwendungen für die Regulierung von Versorgungsfällen, Rückkäufen, Rückgewährbeträgen und Austrittsvergütungen. Anzugeben sind weiterhin Aufwendungen für Leiharbeitnehmer, für Mieten, Pachten und Leasing, für Bürobedarf und IT-Dienstleistungen sowie Reise- und Werbeaufwand. Nicht anzugeben sind Investitionen in Sachanlagen und immaterielle Vermögensgegenstände sowie die kalkulatorischen Mietaufwendungen für die eigengenutzten Grundstücke und Gebäude (vgl. Anmerkung 7 hinsichtlich der Abschreibungen auf Gebäude).
 
 
-6.  Aufwendungen an Zeitarbeitsfirmen und ähnliche Einrichtungen für die Überlassung von Arbeitskräften, wobei die überlassenen Arbeitskräfte bei den jeweiligen Unternehmen, die die Personaldienstleistungen erbringen, beschäftigt bleiben und von ihnen vergütet werden. Für statistische Zwecke ist hierunter auch das innerhalb der Unternehmensgruppe im Rahmen von Dienstleistungsverträgen ausgetauschte Personal zu erfassen, sofern es von dem überlassenden Unternehmen keine fachlichen Weisungen erhält, d. h. das überlassende Unternehmen sich auf personalwirtschaftliche Tätigkeiten beschränkt. Überlässt hingegen eine Führungsholding Arbeitskräfte an Tochtergesellschaften, um Führungsfunktionen der Holding umzusetzen oder zu unterstützen, sind diese Aufwendungen nicht hier, sondern lediglich als sonstiger Sachaufwand anzugeben. Aufwendungen für alle weiteren überlassenen Arbeitskräfte sind hingegen hier anzugeben. Nicht anzugeben sind bezogene Dienstleistungen auf Basis von Werkverträgen.
+6.  Aufwendungen an Zeitarbeitsfirmen und ähnliche Einrichtungen für die Überlassung von Arbeitskräften, wobei die überlassenen Arbeitskräfte bei den jeweiligen Unternehmen, die die Personaldienstleistungen erbringen, beschäftigt bleiben und von ihnen vergütet werden. Für statistische Zwecke ist hierunter auch das innerhalb der Unternehmensgruppe im Rahmen von Dienstleistungsverträgen ausgetauschte Personal zu erfassen, sofern es von dem überlassenden Unternehmen keine fachlichen Weisungen erhält, d. h. das überlassende Unternehmen sich auf personalwirtschaftliche Tätigkeiten beschränkt. Überlässt hingegen eine Führungsholding Arbeitskräfte an Tochtergesellschaften, um Führungsfunktionen der Holding umzusetzen oder zu unterstützen, sind diese Aufwendungen nicht hier, sondern lediglich als sonstiger Sachaufwand anzugeben. Aufwendungen für alle weiteren überlassenen Arbeitskräfte sind hingegen hier anzugeben. Nicht anzugeben sind bezogene Dienstleistungen auf Basis von Werkverträgen.
 
 
 7.  Hierunter fallen
 
-    a)  Abschreibungen auf erworbene oder selbst erstellte Sachanlagen für betriebliche Zwecke, einschl. auf eigengenutzte Gebäude,
+    a)  Abschreibungen auf erworbene oder selbst erstellte Sachanlagen für betriebliche Zwecke, einschließlich auf eigengenutzte Gebäude,
 
 
     b)  Abschreibungen auf aktivierte Aufwendungen für die Ingangsetzung und Erweiterung des Geschäftsbetriebs,
@@ -1577,31 +1617,31 @@ Anmerkungen
 8.  Als Beschäftigte sind alle Personen zu erfassen, die im Laufe des Geschäftsjahres in einem Arbeits- oder vergleichbaren Dienstverhältnis mit dem Pensionsfonds gestanden und Bezüge erhalten haben, die steuerrechtlich als Einkünfte aus nichtselbständiger Arbeit zu behandeln sind. Dazu gehören Arbeitnehmer im Innen- und Außendienst, Beamte, Vorstandsmitglieder, Geschäftsführer und andere leitende Kräfte, Auszubildende und Praktikanten. Ruhende Dienstverhältnisse sind nicht zu erfassen. Beschäftigte, die Arbeits- bzw. Dienstverträge mit mehreren Unternehmen haben und von diesen Bezüge erhalten, sind bei dem jeweiligen Unternehmen als Teilzeitbeschäftigte zu erfassen. Die Zahl der Beschäftigten ist im Jahresdurchschnitt auszuweisen. Liegen diese Angaben nicht vor, kann die Zahl am Ende des Geschäftsjahres angegeben werden.
 
 
-9.  Berechnung der Vollzeiteinheiten (VZE) in Spalte 4: Summe der vertraglich vereinbarten Wochenarbeitsstunden aller Teilzeitbeschäftigten dividiert durch die geltende reguläre Wochenarbeitszeit eines Vollzeitbeschäftigten. Das Ergebnis ist kaufmännisch zu runden. Beispiel: Fünf Teilzeitbeschäftigte à 20 Stunden ergeben bei einer regulären Wochenarbeitszeit eines Vollzeitbeschäftigten im Unternehmen von 40 Stunden zusammen 2,5 VZE. Einzutragen sind 3 VZE. Liegt ein Arbeits- bzw. Dienstvertrag mit mehreren Unternehmen vor, sind die Teilzeitbeschäftigten bei jedem Unternehmen in der Personenzahl zu berücksichtigen. In die Berechnung der VZE sind nur die bei dem jeweiligen Unternehmen geleisteten Wochenarbeitsstunden in die Berechnung einzubeziehen.
+9.  Berechnung der Vollzeiteinheiten (VZE) in Spalte SP0040: Summe der vertraglich vereinbarten Wochenarbeitsstunden aller Teilzeitbeschäftigten dividiert durch die geltende reguläre Wochenarbeitszeit eines Vollzeitbeschäftigten. Das Ergebnis ist kaufmännisch zu runden. Beispiel: Fünf Teilzeitbeschäftigte à 20 Stunden ergeben bei einer regulären Wochenarbeitszeit eines Vollzeitbeschäftigten im Unternehmen von 40 Stunden zusammen 2,5 VZE. Einzutragen sind 3 VZE. Liegt ein Arbeits- bzw. Dienstvertrag mit mehreren Unternehmen vor, sind die Teilzeitbeschäftigten bei jedem Unternehmen in der Personenzahl zu berücksichtigen. In die Berechnung der VZE sind nur die bei dem jeweiligen Unternehmen geleisteten Wochenarbeitsstunden in die Berechnung einzubeziehen.
 
 
 
 
-**Nummer 5: Anmerkungen zur Nachweisung 803**
+**Nr. 5: Formular F.803.01**
 
 1.  Dieser Posten entspricht der Summe der Passivseite der Bilanz abzüglich der Verbindlichkeiten aus Hypotheken, Grund- und Rentenschulden.
 
 
-2.  Die Gesamtbeträge für die einzelnen Posten in Spalte 01 müssen mit den jeweiligen Bilanzwerten übereinstimmen.
+2.  Die Gesamtbeträge für die einzelnen Posten in Spalte SP0010 müssen mit den jeweiligen Bilanzwerten übereinstimmen.
 
 
-3.  In Spalte 01 ist der Bilanzwert der Kapitalanlagen abzüglich der Verbindlichkeiten aus Hypotheken, Grund- und Rentenschulden anzugeben. Dabei sind die Bilanzwerte der Grundstücke und grundstücksgleichen Rechte abzüglich der auf ihnen ruhenden Hypotheken, Grund- und Rentenschulden anzusetzen.
+3.  In Spalte SP0010 ist der Bilanzwert der Kapitalanlagen abzüglich der Verbindlichkeiten aus Hypotheken, Grund- und Rentenschulden anzugeben. Dabei sind die Bilanzwerte der Grundstücke und grundstücksgleichen Rechte abzüglich der auf ihnen ruhenden Hypotheken, Grund- und Rentenschulden anzusetzen.
 
-    Grundstücke und grundstücksgleiche Rechte, die zum Sicherungsvermögen gehören, sind in Spalte 02 mit ihren Anrechnungswerten für das Sicherungsvermögen anzusetzen. Wenn der Anrechnungswert geringer ist als der Bilanzwert, ist die Differenz als restliches Vermögen auszuweisen. Sofern der Anrechnungswert höher ist als der Bilanzwert, ist die Differenz in Spalte 04 als Minusposten anzusetzen.
-
-
-4.  Forderungen an Lebensversicherungsunternehmen aus noch nicht abgewickelten Versicherungsfällen können in Spalte 02 ausgewiesen werden.
+    Grundstücke und grundstücksgleiche Rechte, die zum Sicherungsvermögen gehören, sind in Spalte SP0020 mit ihren Anrechnungswerten für das Sicherungsvermögen anzusetzen. Wenn der Anrechnungswert geringer ist als der Bilanzwert, ist die Differenz als restliches Vermögen auszuweisen. Sofern der Anrechnungswert höher ist als der Bilanzwert, ist die Differenz in Spalte SP0040 als Minusposten anzusetzen.
 
 
-5.  In diesem Bilanzposten enthaltene rückständige Zins- und Mietforderungen können in Spalte 02, alle übrigen sonstigen Forderungen dürfen nur in Spalte 04 eingesetzt werden.
+4.  Forderungen an Lebensversicherungsunternehmen aus noch nicht abgewickelten Versicherungsfällen können in Spalte SP0020 ausgewiesen werden.
 
 
-6.  In diesem Bilanzposten enthaltene vorausgezahlte Versorgungsleistungen können in Spalte 02, alle übrigen sonstigen Forderungen dürfen nur in Spalte 04 eingesetzt werden.
+5.  In diesem Bilanzposten enthaltene rückständige Zins- und Mietforderungen können in Spalte SP0020, alle übrigen sonstigen Forderungen dürfen nur in Spalte SP0040 eingesetzt werden.
+
+
+6.  In diesem Bilanzposten enthaltene vorausgezahlte Versorgungsleistungen können in Spalte SP0020, alle übrigen sonstigen Forderungen dürfen nur in Spalte SP0040 eingesetzt werden.
 
 
 7.  Dieser Posten entspricht der Summe der Aktivseite der Bilanz abzüglich der vom Bilanzwert der Kapitalanlagen abzusetzenden Verbindlichkeiten aus Hypotheken, Grund- und Rentenschulden.
@@ -1609,7 +1649,7 @@ Anmerkungen
 
 
 
-**Nummer 6: Anmerkungen zur Nachweisung 804**
+**Nr. 6: Formular F.804.01**
 
 1.  Diese Nachweisung ist vorzulegen
 
@@ -1623,15 +1663,16 @@ Anmerkungen
 
 
 
-    Dabei ist für die Kennzeichnung der Währung die entsprechende Kennzahl gemäß Anlage 1 zu verwenden.
+
+    Dabei ist für die Kennzeichnung der Währung die entsprechende Kennzahl gemäß Anlage 1 unter Beachtung von Abschnitt C Ziffer 2.1 zu verwenden.
 
 
-2.  Die Nachweisung 804 stellt eine vereinfachte Nachweisung 803 (Sicherungsvermögen und restliches Vermögen) dar. Die Positionen der Zeilen 18 und 21 auf Seite 1 der Nachweisung 803 werden in der Nachweisung 804 in Zeile 18 inhaltlich zusammengefasst. Die Positionen der Zeilen 03, 05, 06, 07, 08, 09, 11, 12 und 13 auf Seite 2 der Nachweisung 803 sind in anderer Aufteilung in den Zeilen 21, 23, 24, 25 und 26 der Nachweisung 804 zu finden.
+2.  Das Formular F.804.01 stellt ein vereinfachtes Formular F.803.01 (Sicherungsvermögen und restliches Vermögen) dar. Die Positionen der Zeilen ZE0180 und ZE0210 des Formulars F.803.01 werden im Formular F.804.01 in Zeile ZE0180 inhaltlich zusammengefasst. Die Positionen der Zeilen ZE0290, ZE0310, ZE0320, ZE0330, ZE0340, ZE0350, ZE0370, ZE0380 und ZE0390 des Formulars F.803.01 sind in anderer Aufteilung in den Zeilen ZE0210, ZE0230, ZE0240, ZE0250 und ZE0260 des Formulars F.804.01 zu finden.
 
 
 3.  Die Bilanzwerte der Grundstücke und grundstücksgleichen Rechte sind abzüglich der auf ihnen ruhenden Hypotheken, Grund- und Rentenschulden anzusetzen.
 
-    Grundstücke und grundstücksgleiche Rechte, die zum Sicherungsvermögen gehören, sind in Spalte 02 mit ihren Anrechnungswerten für das Sicherungsvermögen anzusetzen. Wenn der Anrechnungswert geringer ist als der Bilanzwert, ist die Differenz als restliches Vermögen auszuweisen. Sofern der Anrechnungswert höher ist als der Bilanzwert, ist die Differenz in Spalte 04 als Minusposten anzusetzen.
+    Grundstücke und grundstücksgleiche Rechte, die zum Sicherungsvermögen gehören, sind in Spalte SP0020 mit ihren Anrechnungswerten für das Sicherungsvermögen anzusetzen. Wenn der Anrechnungswert geringer ist als der Bilanzwert, ist die Differenz als restliches Vermögen auszuweisen. Sofern der Anrechnungswert höher ist als der Bilanzwert, ist die Differenz in Spalte SP0040 als Minusposten anzusetzen.
 
 
 4.  Bei Aktien und Anteilen, die in mehreren Ländern an einer Börse zum amtlichen Handel zugelassen oder in einen organisierten Markt einbezogen sind, kann jeder Vermögenswert nur zur Bedeckung der Währung eines Landes herangezogen werden. Diese Vermögenswerte sind hier auszuweisen.
@@ -1640,20 +1681,26 @@ Anmerkungen
 5.  Soweit Verpflichtungen des Sicherungsvermögens in der Währung eines Mitgliedstaates zu erfüllen sind, kann die Bedeckung bis zu 50 Prozent durch Vermögenswerte erfolgen, die auf Euro lauten, soweit dies nach vernünftiger kaufmännischer Beurteilung gerechtfertigt ist, vgl. Anlage 3 Nummer 7. Dabei kann jeder Vermögenswert nur zur Bedeckung der Währung eines Landes herangezogen werden. Diese Vermögenswerte sind hier auszuweisen.
 
 
-6.  Die Gesamtbeträge für die einzelnen Posten in Spalte 01 müssen mit den jeweiligen anteiligen Bilanzwerten übereinstimmen.
+6.  Die Gesamtbeträge für die einzelnen Posten in Spalte SP0010 müssen mit den jeweiligen anteiligen Bilanzwerten übereinstimmen.
 
 
 
 
-**Nummer 7: Anmerkungen zur Nachweisung 811**
+**Nr. 7: Formular F.811.01**
 
-Auf Grund der Aufhebung des § 247 Absatz 3 HGB durch das Bilanzrechtsmodernisierungsgesetz ist die Bildung eines Sonderpostens mit Rücklagenanteil künftig nicht mehr möglich.
+1.  Auf Grund der Aufhebung des § 247 Absatz 3 HGB durch das Bilanzrechtsmodernisierungsgesetz ist die Bildung eines Sonderpostens mit Rücklagenanteil künftig nicht mehr möglich.
 
-**Nummer 8: Anmerkung zur Nachweisung 820**
 
-Hierunter sind überwiegend von Arbeitgebern genutzte Grundstücke auszuweisen.
 
-**Nummer 9: Anmerkungen zur Nachweisung 830**
+
+**Nr. 8: Formular F.820.01**
+
+1.  Hierunter sind überwiegend von Arbeitgebern genutzte Grundstücke auszuweisen.
+
+
+
+
+**Nr. 9: Formular F.830.01**
 
 1.  Die Angaben zur Anzahl beziehen sich auf die versorgungsberechtigten natürlichen Personen. Bestehen für eine Person mehrere Versorgungsverhältnisse, beispielsweise aus mehreren Pensionsplänen, so ist die Person (als Anwärter und/oder Rentner) nur einmal zu erfassen. Entsprechendes gilt für die Erfassung von Personen als Zu- oder Abgang.
 
@@ -1661,7 +1708,7 @@ Hierunter sind überwiegend von Arbeitgebern genutzte Grundstücke auszuweisen.
 2.  Zum Beispiel Reaktivierung, Wiederinkraftsetzung.
 
 
-3.  Die Davon-Vermerke der Zeilen 17 bis 19, 20, 21, 22, 23 bis 24 sowie 25 bis 26 beziehen sich jeweils auf den Bestand am Ende des Geschäftsjahres in Zeile 16.
+3.  Die Davon-Vermerke der Zeilen ZE0170 bis ZE0190, ZE0200, ZE0210, ZE0220, ZE0230 bis ZE0240 sowie ZE0250 bis ZE0260 beziehen sich jeweils auf den Bestand am Ende des Geschäftsjahres in Zeile ZE0160.
 
 
 4.  Hier ist die Anzahl der Versorgungsanwärter anzugeben, die neben der Anwartschaft auf Altersversorgung nur eine Anwartschaft auf Invaliditätsversorgung besitzen.
@@ -1688,7 +1735,7 @@ Hierunter sind überwiegend von Arbeitgebern genutzte Grundstücke auszuweisen.
 11. Zum Beispiel Wiederinkraftsetzung sowie Erhöhung der Rente.
 
 
-12. Die Davon-Vermerke der Zeilen 16, 17, 18 sowie 19 bis 20 beziehen sich jeweils auf den Bestand am Ende des Geschäftsjahres in Zeile 14.
+12. Die Davon-Vermerke der Zeilen ZE0420, ZE0430, ZE0440 sowie ZE0450 bis ZE0460 beziehen sich jeweils auf den Bestand am Ende des Geschäftsjahres in Zeile ZE0400.
 
 
 13. Hat die Phase der Restverrentung bereits begonnen, so ist die Eintragung in der Zeile „lebenslange Zahlungen“ vorzunehmen.
@@ -1697,14 +1744,14 @@ Hierunter sind überwiegend von Arbeitgebern genutzte Grundstücke auszuweisen.
 14. Einzusetzen ist hier der Betrag der im Folgejahr planmäßig zu zahlenden Renten bzw. – bei Auszahlungsplänen – Raten (entsprechend der Deckungsrückstellung).
 
 
-15. Die Davon-Vermerke der Zeilen 16, 17 sowie 18 bis 19 beziehen sich jeweils auf den Bestand am Ende des Geschäftsjahres in Zeile 14.
+15. Die Davon-Vermerke der Zeilen ZE0680, ZE0690 sowie ZE0700 bis ZE0710 beziehen sich jeweils auf den Bestand am Ende des Geschäftsjahres in Zeile ZE0660.
 
 
 
 
-**Nummer 10: Anmerkungen zur Nachweisung 842**
+**Nr. 10: Formular F.842.01**
 
-1.  Diese Nachweisung ist vorzulegen
+1.  Dieses Formular ist vorzulegen
 
     a)  für das gesamte in den Mitgliedstaaten oder in einem anderen Vertragsstaat betriebene PFG,
 
@@ -1713,13 +1760,14 @@ Hierunter sind überwiegend von Arbeitgebern genutzte Grundstücke auszuweisen.
 
 
 
-    dabei ist für die Kennzeichnung des jeweiligen Mitglied- oder Vertragsstaates und des gesamten PFG im Feld „Herkunft des PFG“ die entsprechende Kennzahl gemäß Anlage 1 zu verwenden.
+
+    dabei ist für die Kennzeichnung des jeweiligen Mitglied- oder Vertragsstaates und des gesamten PFG im Feld „Herkunft des PFG“ die entsprechende Kennzahl gemäß Anlage 1 unter Beachtung von Abschnitt C Ziffer 2.3 zu verwenden.
 
 
 2.  Einschließlich der Rückstellung für noch nicht abgewickelte beendete Pensionsfondsverträge und Versorgungsverhältnisse.
 
 
-3.  Die Davon-Vermerke der Zeilen 16 und 17 beziehen sich auf die Anzahl der Anwärter in Zeile 14.
+3.  Die Davon-Vermerke der Zeilen ZE0160 und ZE0170 beziehen sich auf die Anzahl der Anwärter in Zeile ZE0140.
 
 
 4.  Pensionspläne sind beitragsbezogen, wenn mit ihnen eine Zusage des Arbeitgebers nach § 1 Absatz 2 Nummer 2 des Betriebsrentengesetzes durchgeführt wird.
@@ -1730,9 +1778,9 @@ Hierunter sind überwiegend von Arbeitgebern genutzte Grundstücke auszuweisen.
 
 
 
-**Nummer 11: Anmerkungen zur Nachweisung 850**
+**Nr. 11: Formular F.850.01**
 
-1.  Die Nachweisung ist von allen Pensionsfonds einzureichen, die Pensionsfondsgeschäft in Rückversicherung gegeben haben.
+1.  Das Formular ist von allen Pensionsfonds einzureichen, die Pensionsfondsgeschäft in Rückversicherung gegeben haben.
 
     Angaben zu einzelnen Unternehmen oder Maklern können unterbleiben, sofern das betreffende Pensionsfondsgeschäft weniger als 2 Prozent der Bruttobeiträge ausmacht. Über dieses Geschäft ist jeweils zusammengefasst zu berichten.
 
@@ -1740,51 +1788,39 @@ Hierunter sind überwiegend von Arbeitgebern genutzte Grundstücke auszuweisen.
 2.  Abrechnungsforderungen sind mit einem Pluszeichen (+), Abrechnungsverbindlichkeiten mit einem Minuszeichen (–) zu versehen.
 
 
-3.  Der Gesamtsaldo ergibt sich wie folgt: Zeile 04 – Zeile 06 +/– Zeile 08. Der sich ergebende Saldo ist entsprechend Unternummer 2 zu kennzeichnen.
+3.  Der Gesamtsaldo ergibt sich wie folgt: Zeile ZE0040 – Zeile ZE0060 +/– Zeile ZE0080. Der sich ergebende Saldo ist entsprechend Anmerkung 2 zu kennzeichnen.
 
 
-4.  Die Nachweisung ist für jede Rückversicherungsbeziehung vorzulegen. Die Rückversicherungsbeziehungen sind fortlaufend zu nummerieren. Zur Kennzeichnung der Rückversicherungsbeziehung ist die fortlaufende dreistellige Nummer in der Kopfzeile der Nachweisung einzusetzen (beispielsweise „001“).
+4.  Das Formular ist für jede Rückversicherungsbeziehung vorzulegen. Die Rückversicherungsbeziehungen sind fortlaufend zu nummerieren. Zur Kennzeichnung der Rückversicherungsbeziehung ist die fortlaufende dreistellige Nummer entsprechend Abschnitt C Ziffer 2.4 zu verwenden.
 
 
-5.  Hier ist die Nummer einzutragen, unter der die Erst- und Rückversicherungsunternehmen bzw. Rückversicherungsmakler (sowohl inländische als auch ausländische) bei der BaFin geführt werden. Rückversicherungsmakler sind nur dann aufzuführen, wenn diese dem berichtenden Pensionsfonds die das Versicherungsrisiko tragenden Versicherungsunternehmen nicht bekannt gegeben haben. Die Nummern für die einzelnen Unternehmen und Rückversicherungsmakler können bei der BaFin, die die entsprechenden Listen führt, abgefragt werden. Die Nummer für das Geschäft, über das nach Unternummer 1 Absatz 2 Satz 2 zusammengefasst berichtet werden kann, lautet 6000.
-
-
-
-
-**Nummer 12: Anmerkungen zur Nachweisung 882**
-
-1.  Im Feld „Berichtszeitraum“ sind für die einzelnen Stichtage unabhängig vom Abschlussstichtag des Jahresabschlusses folgende Kennziffern anzugeben:
-
-    a)  zum 30. Juni: 2
-
-
-    b)  zum 31. Dezember: 4
+5.  Hier ist die Nummer einzutragen, unter der die Erst- und Rückversicherungsunternehmen bzw. Rückversicherungsmakler (sowohl inländische als auch ausländische) bei der BaFin geführt werden. Rückversicherungsmakler sind nur dann aufzuführen, wenn diese dem berichtenden Pensionsfonds die das Versicherungsrisiko tragenden Versicherungsunternehmen nicht bekannt gegeben haben. Die Nummern für die einzelnen Unternehmen und Rückversicherungsmakler können bei der BaFin, die die entsprechenden Listen führt, abgefragt werden. Die Nummer für das Geschäft, über das nach Anmerkung 1 Absatz 2 Satz 2 zusammengefasst berichtet werden kann, lautet 6000.
 
 
 
 
+**Nr. 12: Anmerkungen zum Formular F.882.01**
 
-2.  In allen Datenfeldern sind grundsätzlich kumulierte Werte einzutragen, d. h. es können die statistisch fortgeschriebenen Stückzahlen bzw. die auf den entsprechenden Konten bis zum Halbjahresende aufgelaufenen Beträge verwendet werden.
-
-
-3.  Die Davon-Vermerke in den Zeilen 05 und 06 beziehen sich auf die Anzahl der Versorgungsberechtigten in Zeile 03.
+1.  In allen Datenfeldern sind grundsätzlich kumulierte Werte einzutragen, d. h. es können die statistisch fortgeschriebenen Stückzahlen bzw. die auf den entsprechenden Konten bis zum Halbjahresende aufgelaufenen Beträge verwendet werden.
 
 
-4.  Pensionspläne sind beitragsbezogen, wenn mit ihnen eine Zusage des Arbeitgebers nach § 1 Absatz 2 Nummer 2 des Betriebsrentengesetzes durchgeführt wird.
+2.  Die Davon-Vermerke in den Zeilen ZE0050 und ZE0060 beziehen sich auf die Anzahl der Versorgungsberechtigten in Zeile ZE0030.
 
 
-5.  Pensionspläne sind leistungsbezogen, wenn mit ihnen eine Zusage des Arbeitgebers nach § 1 Absatz 1 Satz 1 oder Absatz 2 Nummer 1 des Betriebsrentengesetzes durchgeführt wird.
+3.  Pensionspläne sind beitragsbezogen, wenn mit ihnen eine Zusage des Arbeitgebers nach § 1 Absatz 2 Nummer 2 des Betriebsrentengesetzes durchgeführt wird.
 
 
-6.  Einschließlich der Aufwendungen für beendete Pensionsfondsverträge und Versorgungsverhältnisse.
+4.  Pensionspläne sind leistungsbezogen, wenn mit ihnen eine Zusage des Arbeitgebers nach § 1 Absatz 1 Satz 1 oder Absatz 2 Nummer 1 des Betriebsrentengesetzes durchgeführt wird.
+
+
+5.  Einschließlich der Aufwendungen für beendete Pensionsfondsverträge und Versorgungsverhältnisse.
 
 
 
 
 ## Abschnitt B
 
-Verzeichnis der in den Formblättern,
-## Nachweisungen und Anmerkungen verwendeten Abkürzungen
+## Verzeichnis der in den Formularen und Anmerkungen verwendeten Abkürzungen
 
 
 *    *   abgegebenes PFG
@@ -1847,11 +1883,6 @@ Verzeichnis der in den Formblättern,
     *   Elektronische Datenverarbeitung
 
 
-*    *   Fb
-
-    *   Formblatt
-
-
 *    *   GJ
 
     *   Geschäftsjahr(e, es)
@@ -1882,19 +1913,9 @@ Verzeichnis der in den Formblättern,
     *   Lebensversicherungsunternehmen
 
 
-*    *   Nw
-
-    *   Nachweisung
-
-
 *    *   Nr.
 
     *   Nummer
-
-
-*    *   Pb
-
-    *   Prüfbuchstabe
 
 
 *    *   PF
@@ -1967,291 +1988,188 @@ Verzeichnis der in den Formblättern,
     *   Vorjahr(e, es)
 
 
-*    *   Z.
-
-    *   Zeile(n)
+*    *
 
 
+   ## Abschnitt C
 
-## Abschnitt C
-
-## Bearbeitung der formgebundenen Erläuterungen
+## Weitere Formularvorgaben
 
 
 **1.** **Allgemeines**
 
-    Die formgebundenen Erläuterungen nach den Formblättern und Nachweisungen gemäß den §§ 5 bis 9 sowie 11 sind entweder elektronisch oder auf Papierformularen einzureichen.
+
+1.1 Datenpunkte vom Datentyp „Monetär“ sind in Euro anzugeben.
 
 
-**2.** **Elektronische Einreichung**
-
-    Die Unternehmen haben die ordnungsgemäße Datenübermittlung durch Berücksichtigung der am MVP-Portal hinterlegten Informationen und Hinweise sicherzustellen. Bei der Datenerfassung und bei deren Übermittlung an die BaFin sind die „Grundsätze für die Durchführung regelmäßiger Datenübermittlungen an das Bundesaufsichtsamt für das Versicherungswesen (Datenübermittlungsgrundsätze – DÜG)“ zu beachten.
+1.2 Datenpunkte vom Datentyp „Prozentsatz“ sind mit vier Dezimalstellen auszudrücken (z. B. der Prozentsatz 37,12 % ist mit 0.3712 anzugeben).
 
 
-**3.** **Papierformulare**
+1.3 Alle Datenpunkte sind als positive Werte anzugeben, außer in den folgenden Fällen:
+
+    a)  Die Datenpunkte sind in Bezug auf den natürlichen Betrag des Postens von gegensätzlicher Art.
 
 
-3.1 Formblätter und Nachweisungen auf Papierformularen werden in der BaFin mit einem Schriftenlesesystem erfasst. Sie sind nach Prüfung durch die BaFin (siehe Tz. 3.4) – auf Endlospapier mit EDV-Druckern zu erstellen.
+    b)  Die Art des Datenpunktes ermöglicht das Melden positiver und negativer Werte.
 
 
-3.2 Die einzelnen Formularseiten sind zu vollständigen Formblättern oder Nachweisungen zusammenzustellen.
+    c)  Nach Maßgabe der Hinweise in Anlage 2 Abschnitt A ist ein anderes Meldeformat erforderlich.
 
 
-3.3 Von den Formblättern und Nachweisungen ist eine Ausfertigung als Datenerfassungsbeleg vorgesehen. Hierfür ist stets das Originalformular (keine Durchschriften und Kopien) zu verwenden. Endlosformulare dürfen weder gefaltet noch mechanisch beschädigt sein.
 
 
-3.4 Im Datenteil des Einzelformulars dürfen die in den Formularen der Anlagen 4 und 5 enthaltenen Operationszeichen (+, –, =, (), <) sowie Summen- oder Gliederungsstriche nicht eingetragen werden.
 
-    Vor dem erstmaligen Einsatz von Endlosformularen sind Musterausdrucke für jede Seite der damit zu erstellenden Formblätter und Nachweisungen der BaFin zur Prüfung vorzulegen.
-
-
-3.5 Von dem Endlospapier ist der gelochte Randstreifen zu entfernen. Die einzelnen Blätter des Endlospapiers sind zu trennen.
+1.4 Datenpunkte, zu denen der Pensionsfonds keine Angaben machen kann, bleiben leer.
 
 
-3.6 Ausfüllen der Formulare
+1.5 Sofern ergänzende Hinweise und Bemerkungen zu Formularen erforderlich werden, sind diese als qualitativer Formularteil gemäß § 42b Absatz 2 Satz 1 einzureichen.
 
 
-3.6.1 Allgemeines
+**2.** **Kopfzeilen**
 
-    Die Datenfelder sind im farbig unterlegten Formular als Weißzonen kenntlich gemacht. Außerhalb der Weißzonen dürfen keine Angaben gemacht werden.
-
-    Sofern ausnahmsweise ergänzende Hinweise und Bemerkungen zu Formblättern und Nachweisungen erforderlich werden, sind sie auf einem separaten Blatt beizufügen.
+    Für die Befüllung der Kopfzeilenfelder sind die nachfolgend aufgeführten Kennzeichnungen zu verwenden.
 
 
-3.6.2 Formularkopf
+2.1 Formular F.810.01
 
-    Bei der Erstellung der Formularköpfe der Formblätter und Nachweisungen sind die in den Anmerkungen enthaltenen Hinweise zu einzelnen Datenfeldern zu beachten. Bei den Datenfeldern, die auf allen oder mehreren Formblättern und Nachweisungen identisch sind, ist Folgendes zu beachten:
+    *        *   Fundstelle
 
+        *   Staaten
 
-3.6.2.1 Im Feld „Pb“ ist für Kontrollzwecke der zur Register-Nummer des PF gehörende Prüfbuchstabe anzugeben, der von der BaFin vergeben wird.
-
-
-3.6.2.2 Im Feld „MMJJ“ ist der Abschlussstichtag durch die Monatsangabe in Zahlen und durch die beiden letzten Ziffern der Jahreszahl zu kennzeichnen (zum Beispiel: 31.12.2004 = 1204 oder 30.6.2005 = 0605).
-
-
-3.6.2.3 Das Feld „Herkunft des PFG“ kennzeichnet das in den Formblättern und Nachweisungen dargestellte Pensionsfondsgeschäft. Bei der Kennzeichnung ist Folgendes zu beachten:
-
-
-3.6.2.3.1 Die Kennzahlen für das Feld „Herkunft des PFG“ ergeben sich aus Anlage 1. Das Feld befindet sich auf dem Formblatt 810 und der Nachweisung 842.
-
-
-3.6.2.3.2 In die Kopfzeile des Formblatts 810 und der Nachweisung 842 sind für die Herkunft des PFG folgende Kennzahlen einzusetzen:
-
-    **Formblatt 810            Pensionsfonds**
-
-    *        *
-        *   Fb 810 für:
-
-        *   Kennzahlen
-
-
-    *        *
-        *
-        *
-        *
         *   Herkunft des PFG
-
-
-    *        *
-        *
-        *
-        *
-        *
-        *   1. Feld
-
-        *   2. Feld
 
 
     *        *   § 5 Nr. 2
 
         *   das gesamte PFG
 
-        *
-        *
-        *
-        *
-        *
-        *   00
+        *   Herkunft 00
 
-        *
 
     *        *   § 6 Abs. 1 Nr. 1
 
-        *   das gesamte
-            inländische PFG
+        *   das gesamte inländische PFG
 
-        *
-        *
-        *
-        *
-        *
-        *   01
+        *   Herkunft 01
 
-        *
 
     *        *   § 6 Abs. 1 Nr. 2
 
-        *   das gesamte
-            ausländische PFG
+        *   das gesamte ausländische PFG
 
-        *
-        *
-        *
-        *
-        *
-        *   99
+        *   Herkunft 99
 
-        *
 
     *        *   § 6 Abs. 1 Nr. 3
 
-        *   das ausländische PFG pro Land
+        *   das ausländische PFG pro Staat
 
-        *
-        *
-        *
-        *
-        *
-        *   21
-            bis
-            63
-
-        *
+        *   Herkunft 21 bis Herkunft 25,
+            Herkunft 31 bis Herkunft 34,
+            Herkunft 41,
+            Herkunft 42,
+            Herkunft 44 bis Herkunft 48,
+            Herkunft 51 bis Herkunft 63
 
 
 
-   **Nachweisung 842**
-
-    *        *   Anlage 2 Abschnitt A
-            Nummer 10
-
-        *   Nachweisung 842 für:
-
-        *   Kennzahlen
 
 
-    *        *   Herkunft des PFG
+2.2 Formular F.804.01
+
+    *        *   Fundstelle
+
+        *   Verpflichtung
+
+        *   Währung
 
 
-    *        *   1. Feld
+    *        *   Anmerkung 1 Satz 1 Buchstabe a)
+            zum Formular F.804.01
 
-        *   2. Feld
+        *   für die Verpflichtungen in Euro
+
+        *   Währung 73
 
 
-    *        *   Unternummer 1 Buchstabe a
+    *        *   Anmerkung 1 Satz 1 Buchstabe b)
+            zum Formular F.804.01
+
+        *   für die Verpflichtungen in einer Währung eines Mitgliedstaates, dessen Währung nicht Euro ist, oder eines anderen Vertragsstaates
+
+        *   Währung 21,
+            Währung 23 bis Währung 25,
+            Währung 45,
+            Währung 51,
+            Währung 53,
+            Währung 54,
+            Währung 61,
+            Währung 62
+
+
+    *        *   Anmerkung 1 Satz 1 Buchstabe c)
+            zum Formular F.804.01
+
+        *   für die Verpflichtungen in Schweizer Franken und in US-Dollar
+
+        *   Währung 49,
+            Währung 81
+
+
+
+
+
+2.3 Formular F.842.01
+
+    *        *   Fundstelle
+
+        *   Staaten
+
+        *   Herkunft des PFG
+
+
+    *        *   Anmerkung 1 Satz 1 Buchstabe a)
+            zum Formular F.842.01
 
         *   das gesamte ausländische PFG
 
-        *
-        *   72
+        *   Herkunft 72
 
 
-    *        *   Unternummer 1 Buchstabe b
+    *        *   Anmerkung 1 Satz 1 Buchstabe b)
+            zum Formular F.842.01
 
-        *   das ausländische PFG pro Land
+        *   das ausländische PFG pro Staat
 
-        *   21
-            bis
-            63
-
-        *
-
-
-
-
-3.6.2.3.3 Die verschiedenen Ausfertigungen der Formblätter 810 sowie der Nachweisung 842 können in bestimmten Fällen identische Datenteile enthalten. In derartigen Fällen sind die Formblätter und Nachweisungen nicht mehrfach vorzulegen.
-
-    Vielmehr sind in der Kopfzeile des „gemeinsamen“ Formblattes die Kennzahlen für Herkunft des PFG, die gemäß der Tz. 3.6.2.3.2 die verschiedenen Ausfertigungen kennzeichnen würden, miteinander zu kombinieren, d. h. unterschiedliche Kennzahlen in den einzelnen Ausfertigungen sind auch in der kombinierten Kennzahlenzeile anzubringen.
-
-    Die Grundvoraussetzungen für identische Datenteile sind in folgenden Fällen gegeben, bei denen die Kombination der Kennzahlenzeilen wie folgt vorzunehmen ist:
-
-    Fall 1: Das PFG hat nur eine Herkunft, d. h., es besteht entweder nur aus inländischem oder ausländischem PFG mit der Folge, dass Herkunft 01 oder Herkunft 99 mit Herkunft 00 identisch sind. Existiert beispielsweise nur inländisches PFG, so gilt Folgendes:
-
-
-    Fall 2: Das ausländische PFG besteht nur aus Geschäft in einem einzigen Mitgliedstaat oder in einem anderen Vertragsstaat mit der Folge, dass Herkunft 21-63 mit Herkunft 99 identisch ist:
-
-
-
-3.6.3 Zahlen
-
-
-3.6.3.1 Die Zahlenwerte sind ohne Leerzeichen in die Datenfelder einzutragen. 1000er Stellen sind durch einen Punkt zu trennen.
-
-
-3.6.3.2 Absolute Beträge sind ohne Dezimalstellen anzugeben. Unter 0,5 Euro oder unter 500 Euro (bei
-    TsdEuro)                    ist abzurunden und ansonsten aufzurunden. Cent-Beträge oder Beträge unter 1 TsdEuro können jedoch auch unter Verzicht auf die Rundung einfach weggelassen werden, sofern die Auf- und Abrundung einen unverhältnismäßig hohen Aufwand verursachen würde.
-
-
-3.6.3.3 Zwischensummen und Endsummen sind jeweils nicht durch Neuberechnung aus den centlosen Euro-Beträgen und TsdEuro-Beträgen, sondern ebenfalls durch Auf-/Abrundung oder – alternativ – Streichung der Cent-Beträge oder Beträge unter 1 TsdEuro zu ermitteln.
-
-
-3.6.3.4 Relationen sind mit einer Dezimalstelle anzugeben, die durch ein Komma anzuzeigen ist.
-
-
-3.6.3.5 Datenfelder, in denen der berichtende Pensionsfonds keine Angaben machen kann, müssen frei bleiben. Eine zusätzliche Kennzeichnung z. B. durch einen Strich darf nicht erfolgen.
-
-
-3.6.4 Vorzeichen
-
-    In den Formblättern und Nachweisungen sind vor bestimmten Datenfeldern bereits Vorzeichen fest vorgegeben, die zur Kennzeichnung von Gewinn- oder Verlustfeldern oder als Rechenzeichen dienen (siehe auch Tz. 3.2.2.1). Im Übrigen sind die Beträge in den Formblättern und Nachweisungen nicht mit Vorzeichen zu versehen. Folgende Ausnahmen sind jedoch zu beachten:
-
-
-3.6.4.1 Positive oder negative Vorzeichen sind bei den Posten einzusetzen, die alternativ Aufwendungen oder Erträge enthalten (Aufwendungen oder Erträge aus der Abwicklung pensionsfondstechnischer Rückstellungen; Aufwendungen oder Erträge aus der Veränderung pensionsfondstechnischer Rückstellungen; außerordentliches Ergebnis).
-
-
-3.6.4.2 Negative Vorzeichen sind auch einzusetzen, wenn hohe Erträge aus der Abwicklung pensionsfondstechnischer Rückstellungen der Vorjahre dazu führen, dass pensionsfondstechnische Bruttoaufwendungen (Bruttoaufwendungen für Versorgungsfälle; Bruttoaufwendungen wegen Beendigungen von Pensionsfondsverträgen und Versorgungsverhältnissen; Bruttoaufwendungen für Beitragsrückerstattung) zu Erträgen werden oder wenn pensionsfondstechnische Erträge aus dem in Rückversicherung gegebenen Pensionsfondsgeschäft (Anteile der Rückversicherer an diesen Bruttoaufwendungen) zu Aufwendungen werden.
-
-
-3.6.4.3 Negative Vorzeichen sind ferner einzusetzen, sofern auf Grund besonderer Entwicklungen Ertragsposten ausnahmsweise zu Aufwandsposten werden oder Aufwandsposten ausnahmsweise zu Ertragsposten werden. Dieser Fall kann auch eintreten, wenn bestimmte Posten als Saldogröße mehrerer Unterposten ermittelt werden und die abzuziehenden Unterposten überwiegen.
-
-
-3.6.4.4 In den genannten Fällen sind die Vorzeichen (+ oder –) innerhalb des Datenfeldes direkt vor dem Zahlenwert einzusetzen. Das kaufmännische Minuszeichen (./.) darf nicht verwendet werden.
-
-
-3.6.5 Beispiele
-
-    *        *   falsch:
-
-        *   238 184
-
-        *   – 788 532.70
-
-
-    *        *
-        *   155,344,783
-
-        *   15,236 %
-
-
-    *        *
-        *   + 3227896
-
-        *
-
-    *        *   richtig:
-
-        *   238 184
-
-        *   – 788 533
-
-
-    *        *
-        *   155 344 783
-
-        *   15,2
-
-
-    *        *
-        *   + 3.227.896
-
-        *
+        *   Herkunft 21 bis Herkunft 25,
+            Herkunft 31 bis Herkunft 34,
+            Herkunft 41,
+            Herkunft 42,
+            Herkunft 44 bis Herkunft 48,
+            Herkunft 51 bis Herkunft 63
 
 
 
 
-**4.** **Version**
 
-    Die Unterlagen sind in Euro vorzulegen. Die Beträge sind in vollen „Euro“ oder „TsdEuro“ anzugeben. In der Kopfzeile der Formblätter und Nachweisungen ist in dem Feld „Version“ die Zahl „8“ einzusetzen.
+2.4 Formular F.850.01
+
+    *        *   Fundstelle
+
+        *   Beziehung
+
+        *   Rückversicherungsbeziehung
+
+
+    *        *   Anmerkung 5
+            zum Formular F.850.01
+
+        *   jede zu berichtende Rückversicherungsbeziehung
+
+        *   Rückversicherungsbeziehung 001 bis Rückversicherungsbeziehung 099
+
+
+
 
 
 
@@ -2260,7 +2178,7 @@ Verzeichnis der in den Formblättern,
 
 ### Anlage 3 Kongruenzregeln
 
-(Fundstelle: BGBl. I 2016, 868)
+(Fundstelle: BGBl. I 2016, 868, bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1.  Ist die Deckung eines Pensionsplans in einer bestimmten Währung ausgedrückt, so gelten die Verpflichtungen als in dieser Währung bestehend.
@@ -2280,7 +2198,7 @@ Verzeichnis der in den Formblättern,
 
 6.  Das Sicherungsvermögen braucht nicht in Vermögenswerten angelegt zu werden, die auf die gleiche Währung lauten, in der die Verpflichtungen bestehen, wenn
 
-    a)  es sich nicht um eine Währung eines Mitgliedstaates der Europäischen Gemeinschaft oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum handelt und sich die betreffende Währung nicht zur Anlage eignet, insbesondere weil sie Transferbeschränkungen unterliegt,
+    a)  es sich nicht um eine Währung eines Mitgliedstaates der Europäische Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum handelt und sich die betreffende Währung nicht zur Anlage eignet, insbesondere weil sie Transferbeschränkungen unterliegt,
 
 
     b)  das anzulegende Sicherungsvermögen nicht mehr als 30 Prozent der Verpflichtungen in einer bestimmten Währung betrifft oder
@@ -2292,7 +2210,7 @@ Verzeichnis der in den Formblättern,
 
 
 
-7.  Soweit nach den vorstehenden Regeln das Sicherungsvermögen in Vermögenswerten anzulegen ist, die auf die Währung eines Mitgliedstaates der Europäischen Gemeinschaft, dessen Währung nicht der Euro ist, oder auf die Währung eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum lauten, kann die Anlage bis zu 50 Prozent in auf Euro lautenden Vermögenswerten erfolgen, soweit dies nach vernünftiger kaufmännischer Beurteilung gerechtfertigt ist.
+7.  Soweit nach den vorstehenden Regeln das Sicherungsvermögen in Vermögenswerten anzulegen ist, die auf die Währung eines Mitgliedstaates der Europäische Union, dessen Währung nicht der Euro ist, oder auf die Währung eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum lauten, kann die Anlage bis zu 50 Prozent in auf Euro lautenden Vermögenswerten erfolgen, soweit dies nach vernünftiger kaufmännischer Beurteilung gerechtfertigt ist.
 
 
 
@@ -2301,33 +2219,13 @@ Verzeichnis der in den Formblättern,
 
 ### Anlage 4 Nachweis der Eigenmittel und Berechnung der Solvabilitätskapitalanforderung für Pensionsfonds
 
-(Fundstelle: BGBl. I 2016, 869 - 872)
+(Fundstelle: BGBl. 2024 I Nr. 414, S. 208 - 211)
 
 
+(zu § 12 Absatz 4)
 
+### Anlage 5 Formulare
 
-
-
-### Anlage 5 (zu § 12 Absatz 4)Formblätter und Nachweisungen
-
-(Fundstelle: BGBl. I 2016, 873 - 881);
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(Fundstelle: BGBl. 2024 I Nr. 414, S. 212 - 242)
 
 
