@@ -695,6 +695,27 @@ Für die Erhebung von Gebühren für eine gebührenpflichtige Leistung, die vor 
     *   nach Zeitaufwand
 
 
+*    *   3.14
+
+    *   Anordnung der Veröffentlichung (§ 18a Absatz 1 WpPG), Anordnung der Ergänzung des Informationsblatts (§ 18a Absatz 2 WpPG), des Allokationsberichts (§ 18a Absatz 3 WpPG), des Wirkungsberichts (§ 18a Absatz 4 WpPG) oder der Aufnahme von fehlenden Informationen in die Offenlegung (§ 18a Absatz 6 oder Absatz 7 WpPG) sowie Anordnung der Unterrichtung (§ 18a Absatz 5 WpPG)
+
+    *   884
+
+
+*    *   3.15
+
+    *   Anordnung, dass ein öffentliches Angebot für höchstens zehn Tage auszusetzen ist (§ 18a Absatz 9 Satz 1 WpPG) sowie Untersagung eines öffentlichen Angebots (§ 18a Absatz 10 oder Absatz 11 WpPG)
+
+    *   1 250
+
+
+*    *   3.16
+
+    *   Untersagung der Werbung (§ 18a Absatz 12 Satz 1 zweiter Halbsatz erste Variante WpPG) oder Anordnung, dass die Werbung für jeweils zehn aufeinanderfolgende Tage auszusetzen ist (§ 18a Absatz 12 Satz 1 zweiter Halbsatz zweite Variante WpPG)
+
+    *   990
+
+
 *    *   **4**
 
     *   **Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Vermögensanlagengesetzes (VermAnlG)**

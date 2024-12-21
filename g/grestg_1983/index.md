@@ -532,14 +532,14 @@ Wird von der gesonderten Feststellung abgesehen, so ist in den Fällen der Numme
 2.  Anträge auf Berichtigung des Grundbuchs, die sie beurkundet oder über die sie eine Urkunde entworfen und darauf eine Unterschrift beglaubigt haben, wenn der Antrag darauf gestützt wird, daß der Grundstückseigentümer gewechselt hat;
 
 
-3.  Zuschlagsbeschlüsse im Zwangsversteigerungsverfahren, Enteignungsbeschlüsse und andere Entscheidungen, durch die ein Wechsel im Grundstückseigentum bewirkt wird. Notare können die Anzeige nach Satz 1 auch elektronisch nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle nach Maßgabe des § 93c der Abgabenordnung erstatten. Die Anzeigepflicht der Gerichte besteht auch beim Wechsel im Grundstückseigentum auf Grund einer Eintragung im Handels-, Genossenschafts- oder Vereinsregister;
+3.  Zuschlagsbeschlüsse im Zwangsversteigerungsverfahren, Enteignungsbeschlüsse und andere Entscheidungen, durch die ein Wechsel im Grundstückseigentum bewirkt wird. Die Anzeigepflicht der Gerichte besteht auch beim Wechsel im Grundstückseigentum auf Grund einer Eintragung im Handels-, Genossenschafts- oder Vereinsregister;
 
 
 4.  nachträgliche Änderungen oder Berichtigungen eines der unter Nummern 1 bis 3 aufgeführten Vorgänge.
 
 
 
-Der Anzeige ist eine Abschrift der Urkunde über den Rechtsvorgang, den Antrag, den Beschluß oder die Entscheidung beizufügen.
+Notare können die Anzeige nach Satz 1 auch elektronisch nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle nach Maßgabe des § 93c der Abgabenordnung erstatten. Der Anzeige ist eine Abschrift der Urkunde über den Rechtsvorgang, den Antrag, den Beschluß oder die Entscheidung beizufügen.
 
 (2) Die Anzeigepflicht bezieht sich auch auf Vorgänge, die ein Erbbaurecht oder ein Gebäude auf fremdem Boden betreffen. Sie gilt außerdem für Vorgänge, die die Übertragung von Anteilen an einer Kapitalgesellschaft, einer Personenhandelsgesellschaft oder einer Gesellschaft des bürgerlichen Rechts betreffen, wenn zum Vermögen der Gesellschaft ein im Geltungsbereich dieses Gesetzes liegendes Grundstück gehört.
 

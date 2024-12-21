@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2024, Nr. 279
 
+Geändert durch
+:   Art. 1 V v. 17.12.2024 I Nr. 419
+
 Stand: Ersetzt V 860-5-78 v. 7.10.2021 I 4634 (GIGV)
 
 ## Eingangsformel

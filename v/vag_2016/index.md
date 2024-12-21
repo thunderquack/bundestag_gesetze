@@ -6538,6 +6538,9 @@ Die Aufsichtsbehörde legt die Mindesthäufigkeit und den Anwendungsbereich dies
 4.  zuständige Behörde im Sinne des Artikels 29 Absatz 4 und 5 der Verordnung (EU) 2017/2402 für die in den Geltungsbereich der Verordnung (EU) 2017/2402 einbezogenen Unternehmen,
 
 
+4a. zuständige Behörde im Sinne des Artikels 44 Absatz 2 der Verordnung (EU) 2023/2631 des Europäischen Parlaments und des Rates vom 22. November 2023 über europäische grüne Anleihen sowie fakultative Offenlegungen zu als ökologisch nachhaltig vermarkteten Anleihen und zu an Nachhaltigkeitsziele geknüpften Anleihen (ABl. L, 2023/2631, 30.11.2023), die durch die Verordnung (EU) 2023/2869 (ABl. L, 2023/2869, 20.12.2023) geändert worden ist, für die in den Geltungsbereich der Verordnung (EU) 2023/2631 einbezogenen Originatoren,
+
+
 5.  zuständige Behörde im Sinne des Artikels 14 der Verordnung (EU) 2019/2088,
 
 

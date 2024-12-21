@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1989, 1809
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.12.2023 I Nr. 384
+:   Art. 1 V v. 17.12.2024 I Nr. 421
 
 
 ## Eingangsformel

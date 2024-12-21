@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2005, 1698
 
 Zuletzt geändert durch
-:   Art. 10 G v. 11.12.2023 I Nr. 354
-
-Änderung durch
-:   Art. 2 G v. 28.11.2024 I Nr. 377 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 28.11.2024 I Nr. 377
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/71/EG des Europäischen Parlaments und des Rates vom 4. November 2003 betreffend den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel zu veröffentlichen ist, und zur Änderung der Richtlinie 2001/34/EG (ABl. EU Nr. L 345 S. 64).
 
@@ -32,7 +29,7 @@ Dieses Gesetz dient der Umsetzung der Richtlinie 2003/71/EG des Europäischen Pa
 
 ### § 1 Anwendungsbereich
 
-Dieses Gesetz enthält ergänzende Regelungen zu den Vorschriften der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG (ABl. L 168 vom 30.6.2017, S. 12) in Bezug auf
+(1) Dieses Gesetz enthält ergänzende Regelungen zu den Vorschriften der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG (ABl. L 168 vom 30.6.2017, S. 12) in Bezug auf
 
 1.  Ausnahmen von der Verpflichtung zur Veröffentlichung eines Prospekts;
 
@@ -60,10 +57,20 @@ Dieses Gesetz enthält ergänzende Regelungen zu den Vorschriften der Verordnung
 
 Es gilt nicht für ein öffentliches Angebot der in Artikel 1 Absatz 4 Buchstabe k der Verordnung (EU) 2017/1129 bezeichneten Artikel.
 
+(2) Dieses Gesetz enthält ebenfalls ergänzende Regelungen zu den Vorschriften der Verordnung (EU) 2023/2631 des Europäischen Parlaments und des Rates vom 22. November 2023 über europäische grüne Anleihen sowie fakultative Offenlegungen zu als ökologisch nachhaltig vermarkteten Anleihen und zu an Nachhaltigkeitsziele geknüpften Anleihen (ABl. L, 2023/2631, 30.11.2023), die durch die Verordnung (EU) 2023/2869 (ABl. L, 2023/2869, 20.12.2023) geändert worden ist, in Bezug auf
+
+1.  die Befugnisse der Bundesanstalt
+
+
+2.  die Ahndung von Verstößen hinsichtlich der Vorschriften der Verordnung (EU) 2023/2631.
+
+
+
+
 
 ### § 2 Begriffsbestimmungen
 
-Im Sinne dieses Gesetzes ist oder sind
+(1) Im Sinne dieses Gesetzes ist oder sind
 
 1.  Wertpapiere solche im Sinne des Artikels 2 Buchstabe a der Verordnung (EU) 2017/1129;
 
@@ -92,10 +99,48 @@ Im Sinne dieses Gesetzes ist oder sind
 9.  Werbung eine Mitteilung im Sinne des Artikels 2 Buchstabe k der Verordnung (EU) 2017/1129;
 
 
-10. Bundesanstalt die Bundesanstalt für Finanzdienstleistungsaufsicht.
+10. Bundesanstalt die Bundesanstalt für Finanzdienstleistungsaufsicht;
+
+
+11. europäische grüne Anleihen oder EuGB solche im Sinne des Artikels 3 der Verordnung (EU) 2023/2631;
+
+
+12. ökologisch nachhaltig vermarktete Anleihen solche im Sinne des Artikels 2 Nummer 5 der Verordnung (EU) 2023/2631;
+
+
+13. an Nachhaltigkeitsziele geknüpfte Anleihen solche im Sinne des Artikels 2 Nummer 6 der Verordnung (EU) 2023/2631;
+
+
+14. Informationsblätter solche im Sinne des Artikels 10 der Verordnung (EU) 2023/2631;
+
+
+15. Allokationsberichte solche im Sinne des Artikels 11 der Verordnung (EU) 2023/2631;
+
+
+16. Wirkungsberichte solche im Sinne des Artikels 12 der Verordnung (EU) 2023/2631;
+
+
+17. CapEx-Pläne solche im Sinne des Artikels 2 Nummer 13 der Verordnung (EU) 2023/2631;
+
+
+18. Originatoren solche im Sinne des Artikels 2 Nummer 3 der Verordnung (EU) 2017/2402 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 zur Festlegung eines allgemeinen Rahmens für Verbriefungen und zur Schaffung eines spezifischen Rahmens für einfache, transparente und standardisierte Verbriefung und zur Änderung der Richtlinien 2009/65/EG, 2009/138/EG, 2011/61/EU und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 648/2012 (ABl. L 347 vom 28.12.2017, S. 35), die zuletzt durch Verordnung (EU) 2021/557 (ABl. L 116 vom 6.4.2021, S. 1) geändert worden ist;
+
+
+19. Verbriefungszweckgesellschaften solche im Sinne des Artikels 2 Nummer 2 der Verordnung (EU) 2017/2402;
+
+
+20. Verbriefungsanleihen solche im Sinne des Artikels 2 Nummer 22 der Verordnung (EU) 2023/2631;
+
+
+21. Arbeitstage solche im Sinne des Artikels 2 Buchstabe t der Verordnung (EU) 2017/1129;
+
+
+22. externe Prüfer solche, die gemäß Artikel 22 Absatz 2 der Verordnung (EU) 2023/2631 bei der ESMA registriert wurden.
 
 
 
+
+(2) Bezugnahmen in diesem Gesetz auf den Begriff „Emittent einer europäischen grünen Anleihe“ gelten im Falle einer als „europäische grüne Anleihe“ oder „EuGB“ bezeichneten Verbriefungsanleihe auch als Bezugnahmen auf die Begriffe „Originator“ oder „Verbriefungszweckgesellschaft“.
 
 
 ## Abschnitt 2 - Ausnahmen von der Prospektpflicht und Regelungen zum Wertpapier-Informationsblatt
@@ -379,7 +424,7 @@ Sind in einem nach Artikel 3 Absatz 1 der Verordnung (EU) 2017/1129 veröffentli
 Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 31 Absatz 1 Satz 1 der Verordnung (EU) 2017/1129 in der jeweils geltenden Fassung.
 
 
-### § 18 Befugnisse der Bundesanstalt
+### § 18 Befugnisse der Bundesanstalt im Hinblick auf die Vorgaben der Verordnung (EU) 2017/1129 und dieses Gesetzes
 
 (1) Ist bei der Bundesanstalt ein Prospekt zur Billigung eingereicht worden, kann sie vom Emittenten, Anbieter oder Zulassungsantragsteller die Aufnahme zusätzlicher Angaben in den Prospekt verlangen, wenn dies zum Schutz des Publikums geboten erscheint.
 
@@ -494,6 +539,47 @@ so kann die Bundesanstalt die Werbung untersagen oder für jeweils höchstens ze
 (11) Bedienstete der Bundesanstalt dürfen Geschäftsräume durchsuchen, soweit dies zur Verfolgung von Verstößen gegen die Verordnung (EU) 2017/1129, insbesondere in Fällen eines öffentlichen Angebots ohne Veröffentlichung eines Prospekts nach Artikel 3 Absatz 1 der Verordnung (EU) 2017/1129, geboten ist und der begründete Verdacht besteht, dass in Zusammenhang mit dem Gegenstand der entsprechenden Überprüfung oder Ermittlung Dokumente und andere Daten vorhanden sind, die als Nachweis für den Verstoß dienen können. Das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt. Im Rahmen der Durchsuchung dürfen Bedienstete der Bundesanstalt Gegenstände sicherstellen, die als Beweismittel für die Ermittlung des Sachverhalts von Bedeutung sein können. Befinden sich die Gegenstände im Gewahrsam einer Person und werden sie nicht freiwillig herausgegeben, können Bedienstete der Bundesanstalt sie beschlagnahmen. Durchsuchungen und Beschlagnahmen sind, außer bei Gefahr im Verzug, durch den Richter anzuordnen. Zuständig ist das Amtsgericht Frankfurt am Main. Gegen die richterliche Entscheidung ist die Beschwerde zulässig. Die §§ 306 bis 310 und 311a der Strafprozessordnung gelten entsprechend. Bei Beschlagnahmen ohne gerichtliche Anordnung gilt § 98 Absatz 2 der Strafprozessordnung entsprechend. Zuständiges Gericht für die nachträglich eingeholte gerichtliche Entscheidung ist das Amtsgericht Frankfurt am Main. Über die Durchsuchung ist eine Niederschrift zu fertigen. Sie muss insbesondere die verantwortliche Dienststelle, Grund, Zeit und Ort der Durchsuchung und ihr Ergebnis enthalten.
 
 
+### § 18a Befugnisse der Bundesanstalt im Hinblick auf die Vorgaben der Verordnung (EU) 2023/2631
+
+(1) Hat ein Emittent einer europäischen grünen Anleihe eine Veröffentlichung nach Artikel 15 Absatz 1 der Verordnung (EU) 2023/2631 unterlassen, so kann die Bundesanstalt gegenüber diesem Anleiheemittenten anordnen, die unterlassene Veröffentlichung unverzüglich nachzuholen.
+
+(2) Hat es ein Emittent einer europäischen grünen Anleihe unterlassen, nach Artikel 10 Absatz 1 Buchstabe a der Verordnung (EU) 2023/2631 alle nach Anhang I der Verordnung (EU) 2023/2631 erforderlichen Informationen in das Informationsblatt aufzunehmen, so kann die Bundesanstalt anordnen, dass das betreffende Informationsblatt um die noch fehlenden Informationen zu ergänzen ist.
+
+(3) Hat es ein Emittent einer europäischen grünen Anleihe unterlassen, nach Artikel 11 Absatz 1 der Verordnung (EU) 2023/2631 alle nach Anhang II der Verordnung (EU) 2023/2631 erforderlichen Informationen in einen Allokationsbericht aufzunehmen, so kann die Bundesanstalt anordnen, dass der betreffende Allokationsbericht um die noch fehlenden Informationen zu ergänzen ist.
+
+(4) Hat es ein Emittent einer europäischen grünen Anleihe unterlassen, nach Artikel 12 Absatz 1 der Verordnung (EU) 2023/2631 alle nach Anhang III der Verordnung (EU) 2023/2631 erforderlichen Informationen in den Wirkungsbericht aufzunehmen, so kann die Bundesanstalt anordnen, dass der betreffende Wirkungsbericht um die noch fehlenden Informationen zu ergänzen ist.
+
+(5) Hat es ein Emittent einer europäischen grünen Anleihe unterlassen, die Bundesanstalt nach Artikel 15 Absatz 4 der Verordnung (EU) 2023/2631 über die Veröffentlichung einer in Artikel 15 Absatz 1 Satz 1 der Verordnung (EU) 2023/2631 genannten Unterlage zu unterrichten, so kann die Bundesanstalt anordnen, dass der Anleiheemittent die Unterrichtung unverzüglich unter Berücksichtigung der Vorgaben in § 22 Absatz 4 nachholt.
+
+(6) Hat ein Emittent einer als ökologisch nachhaltig vermarkteten Anleihe Informationen unter Verwendung der gemeinsamen Vorlagen im Sinne des Artikels 21 Absatz 1 Satz 1 der Verordnung (EU) 2023/2631 offengelegt und dabei nicht sämtliche nach Artikel 21 Absatz 2 der Verordnung (EU) 2023/2631 in Verbindung mit dem gemäß Artikel 21 Absatz 4 Satz 1 der Verordnung (EU) 2023/2631 erlassenen delegierten Rechtsakt erforderlichen Informationen bekannt gemacht, so kann die Bundesanstalt anordnen, dass der Emittent die fehlenden Informationen in seine Offenlegungen aufnimmt.
+
+(7) Hat ein Emittent einer an Nachhaltigkeitsziele geknüpften Anleihe Informationen unter Verwendung gemeinsamer Vorlagen im Sinne des Artikels 21 Absatz 1 Satz 1 der Verordnung (EU) 2023/2631 offengelegt und dabei nicht sämtliche nach Artikel 21 Absatz 3 der Verordnung (EU) 2023/2631 in Verbindung mit dem nach Artikel 21 Absatz 4 Satz 1 der Verordnung (EU) 2023/2631 erlassenen delegierten Rechtsakt erforderlichen Informationen bekannt gemacht, so kann die Bundesanstalt anordnen, dass der Emittent die fehlenden Informationen in seine Offenlegungen aufnimmt.
+
+(8) Die Bundesanstalt kann von jedermann Auskünfte, die Vorlage von Informationen und Unterlagen und die Überlassung von Kopien verlangen, soweit dies zur Überwachung der Einhaltung der Verpflichtungen eines Emittenten einer europäischen grünen Anleihe nach Titel II Kapitel 2 Artikel 18 oder Artikel 19 der Verordnung (EU) 2023/2631 sowie bei Emittenten, die von den in Artikel 21 der Verordnung (EU) 2023/2631 vorgesehenen gemeinsamen Vorlagen Gebrauch machen, in Bezug auf die Einhaltung dieser Vorlagen erforderlich ist. Diese sind auf ihr Verlangen elektronisch zu übermitteln. Verfügt der Verpflichtete über einen Zugang zum Melde- und Veröffentlichungssystem der Bundesanstalt, so kann sie die Übermittlung auf diesem Wege verlangen. Die Bundesanstalt kann zudem die Übermittlung in einem von ihr bestimmten Format verlangen.
+
+(9) Hat die Bundesanstalt Anhaltspunkte, dass der Emittent gegen Bestimmungen in Titel II Kapitel 2 oder Artikel 18 oder 19 der Verordnung (EU) 2023/2631 verstößt, kann sie anordnen, dass ein öffentliches Angebot der betreffenden europäischen grünen Anleihe für jeweils höchstens zehn aufeinanderfolgende Arbeitstage auszusetzen ist. Die nach Satz 1 gesetzte Frist beginnt mit der Bekanntgabe der Entscheidung.
+
+(10) Verstößt ein Emittent einer europäischen grünen Anleihe gegen die Bestimmungen in Titel II Kapitel 2, Artikel 18 oder Artikel 19 der Verordnung (EU) 2023/2631, oder hat die Bundesanstalt Anhaltspunkte, dass ein Emittent einer europäischen grünen Anleihe gegen Bestimmungen in Titel II Kapitel 2 oder Artikel 18 oder 19 der Verordnung (EU) 2023/2631 verstößt, kann sie ein öffentliches Angebot der betreffenden europäischen grünen Anleihe untersagen.
+
+(11) Die Bundesanstalt hat ein öffentliches Angebot einer europäischen grünen Anleihe zu untersagen, wenn für die Anleihe entgegen Artikel 10 Absatz 1 in Verbindung mit Artikel 15 Absatz 1 Satz 1 Buchstabe a der Verordnung (EU) 2023/2631 kein Informationsblatt veröffentlicht wurde.
+
+(12) Bestehen Anhaltspunkte für einen Verstoß gegen die Bestimmungen in Titel II Kapitel 2, Artikel 18 oder Artikel 19 der Verordnung (EU) 2023/2631, so kann die Bundesanstalt die Werbung untersagen oder für jeweils höchstens zehn aufeinander folgende Arbeitstage aussetzen oder anordnen, dass sie zu unterlassen oder für jeweils höchstens zehn aufeinander folgende Arbeitstage auszusetzen ist. Die nach Satz 1 gesetzte Frist beginnt mit der Bekanntgabe der Entscheidung.
+
+(13) Die Bundesanstalt kann auf ihrer Internetseite öffentlich bekannt machen, dass ein Emittent einer europäischen grünen Anleihe seinen Verpflichtungen nach der Verordnung (EU) 2023/2631 nicht oder nur unvollständig nachkommt oder diesbezüglich Anhaltspunkte bestehen. Die Bundesanstalt kann anordnen, dass der Emittent einer europäischen grünen Anleihe auf seiner Internetseite bekannt macht, dass er seinen Verpflichtungen nach der Verordnung (EU) 2023/2631 nicht oder nur unvollständig nachkommt oder diesbezüglich Anhaltspunkte bestehen. In einem Auskunfts- und Vorlegungsersuchen nach Absatz 8 ist auf die Befugnis nach den Sätzen 1 und 2 hinzuweisen. Die Bekanntmachung darf nur diejenigen personenbezogenen Daten enthalten, die zur Identifizierung des Emittenten erforderlich sind. Bei nicht bestandskräftigen Maßnahmen ist folgender Hinweis hinzuzufügen: „Diese Maßnahme ist noch nicht bestandskräftig.“. Wurde gegen die Maßnahme ein Rechtsmittel eingelegt, sind der Stand und der Ausgang des Rechtsmittelverfahrens bekannt zu machen. Die Bekanntmachung ist spätestens nach fünf Jahren zu löschen. Die Bundesanstalt sieht von einer Bekanntmachung ab, wenn die Bekanntmachung die Finanzmärkte der Bundesrepublik Deutschland oder eines oder mehrerer Staaten des Europäischen Wirtschaftsraums erheblich gefährden würde. Sie kann von einer Bekanntmachung außerdem absehen, wenn eine Bekanntmachung nachteilige Auswirkungen auf die Durchführung strafrechtlicher, bußgeldrechtlicher oder disziplinarischer Ermittlungen haben kann.
+
+(14) Die Bundesanstalt kann einem Emittenten einer europäischen grünen Anleihe die Emission europäischer grüner Anleihen für einen Zeitraum von höchstens einem Jahr untersagen, wenn dieser Emittent wiederholt oder schwerwiegend gegen Titel II Kapitel 2, Artikel 18 oder Artikel 19 der Verordnung (EU) 2023/2631 verstoßen hat.
+
+(15) Die Bundesanstalt kann nach Ablauf einer Frist von drei Monaten nach einer Bekanntmachung nach Absatz 13 auf ihrer Internetseite öffentlich bekannt machen, dass die in der Bekanntmachung bezeichnete Anleihe nicht oder nicht mehr die Voraussetzungen des Artikels 3 der Verordnung (EU) 2023/2631 erfüllt und die Anleihe nicht oder nicht mehr als „europäische grüne Anleihe“ oder in anderer Weise bezeichnet werden darf, die darauf hindeutet, dass die Voraussetzungen des Artikels 3 der Verordnung (EU) 2023/2631 erfüllt sind. Die Bundesanstalt kann anordnen, dass der Emittent die Bekanntmachung der Bundesanstalt nach Satz 1 auf seiner Internetseite veröffentlicht. Die Bekanntmachung nach Satz 1 darf nur diejenigen personenbezogenen Daten enthalten, die zur Identifizierung des Emittenten erforderlich sind. Die Bekanntmachung ist spätestens nach fünf Jahren zu löschen. Die Bundesanstalt sieht von einer Bekanntmachung ab, wenn die Bekanntmachung die Finanzmärkte der Bundesrepublik Deutschland oder eines oder mehrerer Staaten des Europäischen Wirtschaftsraums erheblich gefährden würde. Sie kann von einer Bekanntmachung außerdem absehen, wenn eine Bekanntmachung nachteilige Auswirkungen auf die Durchführung strafrechtlicher, bußgeldrechtlicher oder disziplinarischer Ermittlungen haben kann.
+
+(16) Bedienstete der Bundesanstalt dürfen Geschäftsräume durchsuchen, um Unterlagen und Daten gleich welcher Form einzusehen, wenn dies zur Wahrnehmung ihrer Aufgaben nach Artikel 44 der Verordnung (EU) 2023/2631 geboten ist und der begründete Verdacht besteht, dass in Zusammenhang mit dem Gegenstand der entsprechenden Überprüfung oder Ermittlung Dokumente und andere Daten vorhanden sind, die als Nachweis für einen Verstoß gegen die Verordnung (EU) 2023/2631 dienen können. Das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt. Im Rahmen der Durchsuchung dürfen Bedienstete der Bundesanstalt Gegenstände sicherstellen, die als Beweismittel für die Ermittlung des Sachverhalts von Bedeutung sein können. Befinden sich die Gegenstände im Gewahrsam einer Person und werden sie nicht freiwillig herausgegeben, können Bedienstete der Bundesanstalt sie beschlagnahmen. Durchsuchungen und Beschlagnahmen sind, außer bei Gefahr im Verzug, durch den Richter anzuordnen. Zuständig ist das Amtsgericht Frankfurt am Main. Gegen die richterliche Entscheidung ist die Beschwerde zulässig. Die §§ 306 bis 310 und 311a der Strafprozessordnung gelten entsprechend. Bei Beschlagnahmen ohne gerichtliche Anordnung gilt § 98 Absatz 2 der Strafprozessordnung entsprechend. Zuständiges Gericht für die nachträglich eingeholte gerichtliche Entscheidung ist das Amtsgericht Frankfurt am Main. Über die Durchsuchung ist eine Niederschrift zu fertigen. Sie muss insbesondere die verantwortliche Dienststelle, Grund, Zeit und Ort der Durchsuchung und ihr Ergebnis enthalten.
+
+(17) Die Bundesanstalt kann der Geschäftsführung der Börse und der Zulassungsstelle Daten einschließlich personenbezogener Daten übermitteln, wenn Tatsachen den Verdacht begründen, dass gegen Bestimmungen der Verordnung (EU) 2023/2631 verstoßen worden ist und die Daten zur Erfüllung der in der Zuständigkeit der Geschäftsführung der Börse oder der Zulassungsstelle liegenden Aufgaben erforderlich sind.
+
+(18) Der gemäß Absatz 8 zur Erteilung einer Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Der Verpflichtete ist über sein Recht zur Verweigerung der Auskunft zu belehren.
+
+(19) Die Absätze 1 bis 18 gelten nicht gegenüber Emittenten europäischer grüner Anleihen, die unter Artikel 1 Absatz 2 Buchstabe b und d der Verordnung (EU) 2017/1129 fallen.
+
+
 ### § 19 Verschwiegenheitspflicht
 
 (1) Die bei der Bundesanstalt Beschäftigten und die nach § 4 Abs. 3 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen dürfen die ihnen bei ihrer Tätigkeit bekannt gewordenen Tatsachen, deren Geheimhaltung im Interesse eines nach diesem Gesetz Verpflichteten, der zuständigen Behörden oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse sowie personenbezogene Daten, nicht unbefugt offenbaren oder verwerten, auch wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit beendet ist. Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten. Ein unbefugtes Offenbaren oder Verwerten im Sinne des Satzes 1 liegt insbesondere nicht vor, wenn Tatsachen weitergegeben werden an
@@ -525,7 +611,7 @@ soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen.
 
 Keine aufschiebende Wirkung haben
 
-1.  Widerspruch und Anfechtungsklage gegen Maßnahmen nach den §§ 18 und 25 sowie
+1.  Widerspruch und Anfechtungsklage gegen Maßnahmen nach den §§ 18, 18a und 25 sowie
 
 
 2.  Widerspruch und Anfechtungsklage gegen die Androhung oder Festsetzung von Zwangsmitteln.
@@ -544,6 +630,8 @@ Keine aufschiebende Wirkung haben
 
 (2) Die englische Sprache wird im Falle des Artikels 27 Absatz 1 und 3 der Verordnung (EU) 2017/1129 anerkannt, sofern der Prospekt auch eine Übersetzung der in Artikel 7 dieser Verordnung genannten Zusammenfassung, oder, im Falle eines EU-Wachstumsprospekts, der speziellen Zusammenfassung gemäß Artikel 15 Absatz 2 dieser Verordnung in die deutsche Sprache enthält. Im Falle von Basisprospekten ist die Zusammenfassung für die einzelne Emission in die deutsche Sprache zu übersetzen. Die englische Sprache wird ohne Übersetzung der Zusammenfassung anerkannt, wenn gemäß Artikel 7 Absatz 1 Unterabsatz 2 der Verordnung (EU) 2017/1129 eine Zusammenfassung nicht erforderlich ist.
 
+(3) Anerkannte Sprache im Sinne des Artikels 15 Absatz 2 Buchstabe a der Verordnung (EU) 2023/2631 ist die deutsche Sprache.
+
 
 ### § 22 Elektronische Einreichung, Aufbewahrung
 
@@ -552,6 +640,8 @@ Keine aufschiebende Wirkung haben
 (2) Die endgültigen Bedingungen des Angebots sind ausschließlich elektronisch über das Melde- und Veröffentlichungssystem der Bundesanstalt zu hinterlegen.
 
 (3) Der gebilligte Prospekt wird von der Bundesanstalt zehn Jahre aufbewahrt. Die Aufbewahrungsfrist beginnt mit dem Ablauf des 31. Dezembers des Kalenderjahres, in dem der Prospekt gebilligt wurde. Dies gilt entsprechend für gebilligte Nachträge und einheitliche Registrierungsformulare einschließlich deren Änderungen.
+
+(4) Die Unterrichtung der Bundesanstalt durch den Emittenten nach Artikel 15 Absatz 4 der Verordnung (EU) 2023/2631 erfolgt ausschließlich elektronisch über das Melde- und Veröffentlichungssystem der Bundesanstalt unter Mitteilung der den jeweiligen Emittenten und die entsprechende Emission betreffenden Angaben.
 
 
 ### § 23 (weggefallen)
@@ -803,6 +893,113 @@ zuwiderhandelt.
 (9) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
 
+### § 24a Bußgeldvorschriften zur Verordnung (EU) 2023/2631
+
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 18a Absatz 1 bis 7, 8 Satz 1, Absatz 9 Satz 1, Absatz 10 bis 12 Satz 1, Absatz 13 Satz 2, Absatz 14 oder Absatz 15 Satz 2 zuwiderhandelt.
+
+(2) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2023/2631 des Europäischen Parlaments und des Rates vom 22. November 2023 über europäische grüne Anleihen sowie fakultative Offenlegungen zu als ökologisch nachhaltig vermarkteten Anleihen und zu an Nachhaltigkeitsziele geknüpften Anleihen (ABl. L, 2023/2631, 30.11.2023) verstößt, indem er vorsätzlich oder leichtfertig
+
+1.  entgegen Artikel 10 Absatz 1 Buchstabe a, auch in Verbindung mit Artikel 16 Absatz 1 Buchstabe a, Absatz 3 Buchstabe b oder Artikel 18 Absatz 3, ein Informationsblatt nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ausfüllt,
+
+
+2.  entgegen Artikel 10 Absatz 1 Buchstabe b, auch in Verbindung mit Artikel 16 Absatz 1 Buchstabe a oder Absatz 3 Buchstabe b, nicht sicherstellt, dass ein Informationsblatt einer Voremissionsprüfung unterzogen wurde oder dass ein externer Prüfer eine befürwortende Stellungnahme abgegeben hat,
+
+
+3.  entgegen Artikel 11 Absatz 1 Unterabsatz 1, auch in Verbindung mit Artikel 16 Absatz 1 Buchstabe a oder Absatz 3 Buchstabe b, einen Allokationsbericht mit den Angaben nach Anhang II nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt,
+
+
+4.  entgegen Artikel 11 Absatz 4, 5 oder Absatz 6 Unterabsatz 1 Satz 1, jeweils auch in Verbindung mit Artikel 16 Absatz 1 Buchstabe a, einen Allokationsbericht nicht unverzüglich nach seiner Erstellung oder seiner Änderung einer Nachemissionsprüfung unterziehen lässt,
+
+
+5.  entgegen Artikel 11 Absatz 5, auch in Verbindung mit Artikel 16 Absatz 1 Buchstabe a, einen Allokationsbericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ändert,
+
+
+6.  entgegen Artikel 11 Absatz 7 Satz 1, auch in Verbindung mit Artikel 16 Absatz 1 Buchstabe a, nicht sicherstellt, dass ein Allokationsberichts oder eine Überprüfung veröffentlicht wird,
+
+
+7.  entgegen Artikel 11 Absatz 7 Satz 2, auch in Verbindung mit Artikel 16 Absatz 1 Buchstabe a, nicht sicherstellt, dass dem Prüfer mindestens 90 Tage für die Überprüfung eines Allokationsberichts zur Verfügung stehen,
+
+
+8.  entgegen Artikel 12 Absatz 1, auch in Verbindung mit Artikel 16 Absatz 1 Buchstabe a, einen Bericht mit den Angaben nach Anhang III nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstellt oder nicht unverzüglich nach seiner Erstellung veröffentlicht,
+
+
+9.  entgegen Artikel 14 Absatz 1 in Verbindung mit Artikel 3 Absatz 1 der Verordnung (EU) 2017/1129 ein Wertpapier mit der Bezeichnung „europäische grüne Anleihe“ oder „EuGB“ öffentlich anbietet,
+
+
+10. entgegen Artikel 15 Absatz 1 Unterabsatz 1 Buchstabe a bis e oder Buchstabe f, jeweils auch in Verbindung mit Artikel 16 Absatz 1 Buchstabe a oder Absatz 3 Buchstabe b, eine Veröffentlichung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
+
+
+11. entgegen Artikel 15 Absatz 1 Unterabsatz 1 Buchstabe h, auch in Verbindung mit Artikel 16 Absatz 1 Buchstabe a oder Absatz 3 Buchstabe b, eine Prüfung eines Wirkungsberichts nicht, nicht richtig, nicht vollständig oder nicht unverzüglich nach deren Erhalt veröffentlicht,
+
+
+12. entgegen Artikel 15 Absatz 1 Unterabsatz 1
+
+    a)  Buchstabe a, d oder Buchstabe f, jeweils auch in Verbindung mit Artikel 15 Absatz 2 oder Absatz 3, oder
+
+
+    b)  Buchstabe b, c, e, g oder Buchstabe h,
+
+
+
+    jeweils auch in Verbindung mit Artikel 16 Absatz 1 Buchstabe a oder Absatz 3 Buchstabe b, ein Informationsblatt, eine Voremissionsprüfung, einen Link, einen Allokationsbericht, eine Nachemissionsprüfung, einen Wirkungsbericht, einen CapEx-Plan oder eine Prüfung eines Wirkungsberichts nicht oder nicht mindestens zwölf Monate zur Verfügung stellt,
+
+
+13. entgegen Artikel 15 Absatz 4 oder Absatz 5, jeweils auch in Verbindung mit Artikel 16 Absatz 1 Buchstabe a oder Absatz 3 Buchstabe b, eine Unterrichtung nicht oder nicht rechtzeitig vornimmt,
+
+
+14. entgegen Artikel 18 Absatz 4 einen Nachweis nicht oder nicht rechtzeitig erbringt oder
+
+
+15. entgegen Artikel 19 Absatz 3 eine dort genannte Information
+
+    a)  nicht oder nicht unverzüglich nach Aufnahme in den Prospekt in das Informationsblatt oder
+
+
+    b)  nicht oder nicht zusammen mit der jährlich vorzunehmenden Aktualisierung in den Allokationsbericht
+
+
+
+    aufnimmt.
+
+
+
+
+(3) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
+
+1.  eine Verbriefungsanleihe unter der Bezeichnung „europäische grüne Anleihe“ oder „EuGB“ öffentlich anbietet, obwohl eine verbriefte Risikoposition dieser Verbriefungsanleihe der Finanzierung einer in Artikel 18 Absatz 1 der Verordnung (EU) 2023/2631 genannten Tätigkeit dient,
+
+
+2.  eine Verbriefungsanleihe unter der Bezeichnung „europäische grüne Anleihe“ oder „EuGB“ öffentlich anbietet, obwohl eine verbriefte Risikoposition dieser Verbriefungsanleihe der Finanzierung einer in Artikel 18 Absatz 2 der Verordnung 2023/2631 genannten Tätigkeit dient, die ein in Anhang I der Delegierten Verordnung (EU) 2021/2139 der Kommission vom 4. Juni 2021 zur Ergänzung der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates durch Festlegung der technischen Bewertungskriterien, anhand deren bestimmt wird, unter welchen Bedingungen davon auszugehen ist, dass eine Wirtschaftstätigkeit einen wesentlichen Beitrag zum Klimaschutz oder zur Anpassung an den Klimawandel leistet, und anhand deren bestimmt wird, ob diese Wirtschaftstätigkeit erhebliche Beeinträchtigungen eines der übrigen Umweltziele vermeidet (ABl. L 442 vom 9.12.2021, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2023/2485 (ABl. L, 2023/2485, 21.11.2023) geändert worden ist, genanntes Kriterium zur „Vermeidung erheblicher Beeinträchtigungen“ nicht erfüllt,
+
+
+3.  einen Prospekt für eine als „europäische grüne Anleihe“ oder „EuGB“ bezeichnete Verbriefungsanleihe veröffentlicht, der die in Artikel 19 Absatz 1 der Verordnung (EU) 2023/2631 genannte Erklärung nicht enthält, oder
+
+
+4.  als Emittent oder Originator einer als nachhaltig vermarkteten oder an Nachhaltigkeitsziele geknüpften Anleihe bei der Veröffentlichung einer in Artikel 21 Absatz 1 der Verordnung (EU) 2023/2631 genannten Information eine Vorlage verwendet, die einer in Artikel 21 Absatz 2 oder Absatz 3 Buchstabe a, b oder Buchstabe d der Verordnung (EU) 2023/2631 genannten Vorgabe nicht entspricht.
+
+
+
+
+(4) Die Ordnungswidrigkeit kann in den Fällen
+
+1.  des Absatzes 1 und
+
+
+2.  der Absätze 2 und 3
+
+
+
+mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden. In den Fällen des Satzes 1 Nummer 2 ist § 30 Absatz 2 Satz 3 des Gesetzes über Ordnungswidrigkeiten anzuwenden.
+
+(5) Bei einer juristischen Person oder Personenvereinigung mit einem jährlichen Gesamtumsatz von mehr als 100 Millionen Euro kann abweichend von Absatz 4 Satz 2 eine Ordnungswidrigkeit nach den Absätzen 2 und 3 mit einer Geldbuße bis zu 0,5 Prozent des jährlichen Gesamtumsatzes geahndet werden.
+
+(6) Die Ordnungswidrigkeit kann in den Fällen der Absätze 2 und 3 über Absatz 4 Satz 1 Nummer 2 und Satz 2 sowie Absatz 5 hinaus mit einer Geldbuße bis zur zweifachen Höhe der durch den Verstoß erzielten Gewinne oder vermiedenen Verluste geahndet werden, sofern sich ein solcher Gewinn oder Verlust beziffern lässt.
+
+(7) Bei der Ermittlung des Gesamtumsatzes im Sinne des Absatzes 5 findet § 120 Absatz 23 des Wertpapierhandelsgesetzes entsprechende Anwendung.
+
+(8) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
+
+
 ### § 25 Maßnahmen bei Verstößen
 
 (1) Im Falle eines Verstoßes gegen die in § 24 Absatz 1, 3 oder 4 genannten Vorschriften kann die Bundesanstalt zur Verhinderung weiterer Verstöße
@@ -815,12 +1012,28 @@ zuwiderhandelt.
 
 
 
-(2) Die Bekanntmachung nach Absatz 1 Nummer 1 darf nur diejenigen personenbezogenen Daten enthalten, die zur Identifizierung des Anbieters oder Emittenten erforderlich sind.
+(2) Im Falle eines Verstoßes gegen die in § 24a Absatz 2 oder 3 genannten Vorschriften kann die Bundesanstalt zur Verhinderung weiterer Verstöße
+
+1.  auf ihrer Internetseite nach den Vorgaben des Artikels 52 der Verordnung (EU) 2023/2631 eine Bekanntgabe des Verstoßes unter Nennung der natürlichen oder juristischen Person oder der Personenvereinigung, die den Verstoß begangen hat, sowie der Art des Verstoßes veröffentlichen,
+
+
+2.  gegenüber der für den Verstoß verantwortlichen natürlichen oder juristischen Person oder Personenvereinigung anordnen, dass diese den Verstoß sowie die Art des Verstoßes auf ihrer Internetseite bekanntzumachen hat,
+
+
+3.  gegenüber der für den Verstoß verantwortlichen natürlichen oder juristischen Person oder Personenvereinigung anordnen, dass die den Verstoß begründenden Handlungen oder Verhaltensweisen dauerhaft einzustellen sind, und
+
+
+4.  gegenüber der für den Verstoß verantwortlichen natürlichen oder juristischen Person oder Personenvereinigung das öffentliche Angebot europäischer grüner Anleihen für einen Zeitraum von bis zu einem Jahr untersagen.
+
+
+
+
+(3) Die Bekanntmachung nach Absatz 1 Nummer 1 und Absatz 2 Nummer 1 darf nur diejenigen personenbezogenen Daten enthalten, die zur Identifizierung des Anbieters oder Emittenten erforderlich sind. Die Bekanntgabe nach Absatz 1 Nummer 1 und nach Absatz 2 Nummer 1 ist nach fünf Jahren zu löschen.
 
 
 ### § 26 Datenschutz
 
-Die Bundesanstalt darf personenbezogene Daten nur zur Erfüllung ihrer aufsichtlichen Aufgaben und für Zwecke der Zusammenarbeit nach Maßgabe der Artikel 33 und 34 der Verordnung (EU) 2017/1129 verarbeiten.
+Die Bundesanstalt darf personenbezogene Daten nur zur Erfüllung ihrer aufsichtlichen Aufgaben und für Zwecke der Zusammenarbeit nach Maßgabe der Artikel 33 und 34 der Verordnung (EU) 2017/1129 sowie der Artikel 46, 55 Absatz 4 Satz 2, Artikel 56 Absatz 5 Satz 1, Absatz 6 Satz 1 und Absatz 7 der Verordnung (EU) 2023/2631 verarbeiten.
 
 
 ### § 27 Übergangsbestimmungen zur Aufhebung des Verkaufsprospektgesetzes

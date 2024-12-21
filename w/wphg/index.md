@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2708;
 
 Zuletzt geändert durch
-:   Art. 19 G v. 6.5.2024 I Nr. 149
-
-Änderung durch
-:   Art. 3 G v. 28.11.2024 I Nr. 377 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 28.11.2024 I Nr. 377
 
 Art. 1 dient auch der Umsetzung der Richtlinie 88/627/EWG des Rates der Europäischen Gemeinschaften vom 12. Dezember 1988 über die bei Erwerb oder Veräußerung einer bedeutenden Beteiligung an einer börsennotierten Gesellschaft zu veröffentlichenden Informationen (ABl. EG Nr. L 348/62) und der Richtlinie 89/592/EWG des Rates der Europäischen Gemeinschaften vom 13. November 1989 zur Koordinierung der Vorschriften betreffend Insidergeschäfte (ABl. EG Nr. L 334/30).
 
@@ -894,11 +891,57 @@ Ein Emittent im Sinne des § 2 Absatz 13 Nummer 2, der die Bundesrepublik Deutsc
 
 für jeweils höchstens zehn aufeinander folgende Arbeitstage aussetzen oder gegenüber den Betreibern der betreffenden geregelten Märkte oder Handelssysteme die Aussetzung des Handels für einen entsprechenden Zeitraum anordnen. Wurde gegen die in Satz 1 genannten Bestimmungen verstoßen, so kann die Bundesanstalt den Handel an dem betreffenden geregelten Markt, multilateralen Handelssystem oder organisierten Handelssystem untersagen. Wurde gegen die in Satz 1 genannten Bestimmungen verstoßen oder besteht ein hinreichend begründeter Verdacht, dass dagegen verstoßen würde, so kann die Bundesanstalt eine Zulassung zum Handel an einem geregelten Markt untersagen. Die Bundesanstalt kann ferner den Handel der Wertpapiere aussetzen oder von dem Betreiber des betreffenden multilateralen Handelssystems oder organisierten Handelssystems die Aussetzung des Handels verlangen, wenn der Handel angesichts der Lage des Emittenten den Anlegerinteressen abträglich wäre.
 
-(2b) Verhängt die Bundesanstalt nach Artikel 42 der Verordnung (EU) Nr. 600/2014 oder die Europäische Wertpapier- und Marktaufsichtsbehörde nach Artikel 40 der Verordnung (EU) Nr. 600/2014 ein Verbot oder eine Beschränkung, so kann die Bundesanstalt zudem anordnen, dass die Zulassung zum Handel an einem geregelten Markt ausgesetzt oder eingeschränkt wird, solange dieses Verbot oder diese Beschränkungen gelten.
+(2b) Hat die Bundesanstalt Anhaltspunkte dafür, dass ein Emittent im Sinne des Artikels 1 Buchstabe a der Verordnung (EU) 2023/2631 oder eine Verbriefungszweckgesellschaft im Sinne des Artikels 2 Nummer 2 der Verordnung (EU) 2017/2402 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 zur Festlegung eines allgemeinen Rahmens für Verbriefungen und zur Schaffung eines spezifischen Rahmens für einfache, transparente und standardisierte Verbriefung und zur Änderung der Richtlinien 2009/65/EG, 2009/138/EG, 2011/61/EU und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 648/2012 (ABl. L 347 vom 28.12.2017, S. 35), die zuletzt durch die Verordnung (EU) 2021/557 (ABl. L 116 vom 6.4.2021, S. 1) geändert worden ist, oder ein Originator im Sinne des Artikels 2 Nummer 3 der Verordnung (EU) 2017/2402 gegen Bestimmungen in Titel II Kapitel 2, Artikel 18 oder Artikel 19 der Verordnung (EU) 2023/2631 verstoßen hat, kann sie die
 
-(2c) In Ausübung der in Absatz 2 Satz 4 und den Absätzen 2a und 2b genannten Befugnisse kann sie Anordnungen auch gegenüber einem öffentlich-rechtlichen Rechtsträger oder gegenüber einer Börse erlassen.
+1.  Zulassung der betreffenden Anleihe zum Handel an einem geregelten Markt oder
 
-(2d) Die Bundesanstalt kann den Vertrieb oder Verkauf von Finanzinstrumenten oder strukturierten Einlagen aussetzen, wenn ein Wertpapierdienstleistungsunternehmen kein wirksames Produktfreigabeverfahren nach § 80 Absatz 9 entwickelt hat oder anwendet oder in anderer Weise gegen § 80 Absatz 1 Satz 2 Nummer 2 oder Absatz 9 bis 11 verstoßen hat.
+
+2.  den Handel
+
+    a)  an einem geregelten Markt,
+
+
+    b)  an einem multilateralen Handelssystem oder
+
+
+    c)  an einem organisierten Handelssystem
+
+
+
+
+
+
+für jeweils höchstens zehn aufeinanderfolgende Arbeitstage aussetzen oder gegenüber den Betreibern der betreffenden geregelten Märkte oder Handelssysteme die Aussetzung des Handels für einen entsprechenden Zeitraum anordnen.
+
+(2c) Hat die Bundesanstalt Anhaltspunkte dafür, dass ein Emittent im Sinne des Artikels 1 Buchstabe a der Verordnung (EU) 2023/2631 oder eine Verbriefungszweckgesellschaft im Sinne des Artikels 2 Nummer 2 der Verordnung (EU) 2017/2402 oder ein Originator im Sinne des Artikels 2 Nummer 3 der Verordnung (EU) 2017/2402 gegen Bestimmungen in Titel II Kapitel 2, Artikel 18 oder Artikel 19 der Verordnung (EU) 2023/2631 verstößt, so kann sie
+
+1.  die Zulassung der betreffenden Anleihe zum Handel an einem geregelten Markt oder
+
+
+2.  den Handel
+
+    a)  an einem geregelten Markt,
+
+
+    b)  an einem multilateralen Handelssystem oder
+
+
+    c)  an einem organisierten Handelssystem
+
+
+
+
+
+
+untersagen.
+
+(2d) Verhängt die Bundesanstalt nach Artikel 42 der Verordnung (EU) Nr. 600/2014 oder die Europäische Wertpapier- und Marktaufsichtsbehörde nach Artikel 40 der Verordnung (EU) Nr. 600/2014 ein Verbot oder eine Beschränkung, so kann die Bundesanstalt zudem anordnen, dass die Zulassung zum Handel an einem geregelten Markt ausgesetzt oder eingeschränkt wird, solange dieses Verbot oder diese Beschränkungen gelten.
+
+(2e) In Ausübung der in Absatz 2 Satz 4 und den Absätzen 2a, 2b, 2c und 2d genannten Befugnisse kann sie Anordnungen auch gegenüber einem öffentlich-rechtlichen Rechtsträger oder gegenüber einer Börse erlassen.
+
+(2f) Die Bundesanstalt kann den Vertrieb oder Verkauf von Finanzinstrumenten oder strukturierten Einlagen aussetzen, wenn ein Wertpapierdienstleistungsunternehmen kein wirksames Produktfreigabeverfahren nach § 80 Absatz 9 entwickelt hat oder anwendet oder in anderer Weise gegen § 80 Absatz 1 Satz 2 Nummer 2 oder Absatz 9 bis 11 verstoßen hat.
+
+(2g) Die Befugnisse der Bundesanstalt nach den Absätzen 2b und 2c gelten nicht gegenüber Emittenten europäischer grüner Anleihen, die unter Artikel 1 Absatz 2 Buchstabe b und d der Verordnung (EU) 2017/1129 fallen.
 
 (3) Die Bundesanstalt kann von jedermann Auskünfte, die Vorlage von Unterlagen oder sonstigen Daten und die Überlassung von Kopien verlangen sowie Personen laden und vernehmen, um
 
@@ -2504,7 +2547,7 @@ zur Verfügung zu stellen. Die Angaben in den Informationsblättern nach Satz 1 
 
 
 
-einholen, die erforderlich sind, um dem Kunden ein Finanzinstrument oder eine Wertpapierdienstleistung empfehlen zu können, das oder die für ihn geeignet ist und insbesondere seiner Risikotoleranz und seiner Fähigkeit, Verluste zu tragen, entspricht. Ein Wertpapierdienstleistungsunternehmen darf seinen Kunden nur Finanzinstrumente und Wertpapierdienstleistungen empfehlen oder Geschäfte im Rahmen der Finanzportfolioverwaltung tätigen, die nach den eingeholten Informationen für den Kunden geeignet sind. Näheres zur Geeignetheit und den im Zusammenhang mit der Beurteilung der Geeignetheit geltenden Pflichten regeln die Artikel 54 und 55 der Delegierten Verordnung (EU) 2017/565. Näheres zur Geeignetheit von Verbriefungen und den im Zusammenhang mit der Beurteilung der Geeignetheit geltenden Pflichten regelt Artikel 3 der Verordnung (EU) 2017/2402 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 zur Festlegung eines allgemeinen Rahmens für Verbriefungen und zur Schaffung eines spezifischen Rahmens für einfache, transparente und standardisierte Verbriefung und zur Änderung der Richtlinien 2009/65/EG, 2009/138/EG, 2011/61/EU und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 648/2012 (ABl. L 347 vom 28.12.2017, S. 35). Erbringt ein Wertpapierdienstleistungsunternehmen eine Anlageberatung, bei der verbundene Produkte oder Dienstleistungen im Sinne des § 63 Absatz 9 empfohlen werden, gilt Satz 2 für das gesamte verbundene Geschäft entsprechend. Erbringen Wertpapierdienstleistungsunternehmen entweder Anlageberatung oder Finanzportfolioverwaltung, die eine Umschichtung von Finanzinstrumenten umfassen, so haben sie die notwendigen Informationen über die Investition des Kunden einzuholen und die Kosten und den Nutzen der Umschichtung von Finanzinstrumenten zu analysieren. Satz 6 gilt nicht für Dienstleistungen, die gegenüber professionellen Kunden erbracht werden, es sei denn, diese Kunden setzen das Wertpapierdienstleistungsunternehmen entweder in elektronischer Form oder in schriftlicher Form darüber in Kenntnis, dass sie von den durch Satz 6 gewährten Rechten Gebrauch machen möchten.
+einholen, die erforderlich sind, um dem Kunden ein Finanzinstrument oder eine Wertpapierdienstleistung empfehlen zu können, das oder die für ihn geeignet ist und insbesondere seiner Risikotoleranz und seiner Fähigkeit, Verluste zu tragen, entspricht. Ein Wertpapierdienstleistungsunternehmen darf seinen Kunden nur Finanzinstrumente und Wertpapierdienstleistungen empfehlen oder Geschäfte im Rahmen der Finanzportfolioverwaltung tätigen, die nach den eingeholten Informationen für den Kunden geeignet sind. Näheres zur Geeignetheit und den im Zusammenhang mit der Beurteilung der Geeignetheit geltenden Pflichten regeln die Artikel 54 und 55 der Delegierten Verordnung (EU) 2017/565. Näheres zur Geeignetheit von Verbriefungen und den im Zusammenhang mit der Beurteilung der Geeignetheit geltenden Pflichten regelt Artikel 3 der Verordnung (EU) 2017/2402. Erbringt ein Wertpapierdienstleistungsunternehmen eine Anlageberatung, bei der verbundene Produkte oder Dienstleistungen im Sinne des § 63 Absatz 9 empfohlen werden, gilt Satz 2 für das gesamte verbundene Geschäft entsprechend. Erbringen Wertpapierdienstleistungsunternehmen entweder Anlageberatung oder Finanzportfolioverwaltung, die eine Umschichtung von Finanzinstrumenten umfassen, so haben sie die notwendigen Informationen über die Investition des Kunden einzuholen und die Kosten und den Nutzen der Umschichtung von Finanzinstrumenten zu analysieren. Satz 6 gilt nicht für Dienstleistungen, die gegenüber professionellen Kunden erbracht werden, es sei denn, diese Kunden setzen das Wertpapierdienstleistungsunternehmen entweder in elektronischer Form oder in schriftlicher Form darüber in Kenntnis, dass sie von den durch Satz 6 gewährten Rechten Gebrauch machen möchten.
 
 (4) Ein Wertpapierdienstleistungsunternehmen, das Anlageberatung erbringt, muss dem Privatkunden auf einem dauerhaften Datenträger vor Vertragsschluss eine Erklärung über die Geeignetheit der Empfehlung (Geeignetheitserklärung) zur Verfügung stellen. Die Geeignetheitserklärung muss die erbrachte Beratung nennen sowie erläutern, wie sie auf die Präferenzen, Anlageziele und die sonstigen Merkmale des Kunden abgestimmt wurde. Näheres regelt Artikel 54 Absatz 12 der Delegierten Verordnung (EU) 2017/565. Wird die Vereinbarung über den Kauf oder Verkauf eines Finanzinstruments mittels eines Fernkommunikationsmittels geschlossen, das die vorherige Übermittlung der Geeignetheitserklärung nicht erlaubt, darf das Wertpapierdienstleistungsunternehmen die Geeignetheitserklärung ausnahmsweise unmittelbar nach dem Vertragsschluss zur Verfügung stellen, wenn der Kunde zugestimmt hat, dass ihm die Geeignetheitserklärung unverzüglich nach Vertragsschluss zur Verfügung gestellt wird und das Wertpapierdienstleistungsunternehmen dem Kunden angeboten hat, die Ausführung des Geschäfts zu verschieben, damit der Kunde die Möglichkeit hat, die Geeignetheitserklärung zuvor zu erhalten. Bei der Erbringung von Anlageberatung haben Wertpapierdienstleistungsunternehmen den Kunden darüber zu informieren, ob die Vorteile einer Umschichtung von Finanzinstrumenten die im Rahmen der Umschichtung anfallenden Kosten überwiegen oder nicht. Satz 5 gilt nicht für Dienstleistungen, die gegenüber professionellen Kunden erbracht werden, es sei denn, diese Kunden setzen das Wertpapierdienstleistungsunternehmen entweder in elektronischer Form oder in schriftlicher Form darüber in Kenntnis, dass sie von den durch Satz 5 gewährten Rechten Gebrauch machen möchten.
 
@@ -3359,7 +3402,7 @@ Die Informationen über die Ausführungsgrundsätze müssen klar, ausführlich u
 
 (1) Ein Wertpapierdienstleistungsunternehmen, das nicht über eine Erlaubnis für das Einlagengeschäft nach § 1 Absatz 1 Satz 2 Nummer 1 des Kreditwesengesetzes verfügt und das Gelder von Kunden hält, hat geeignete Vorkehrungen zu treffen, um die Rechte der Kunden zu schützen und zu verhindern, dass die Gelder des Kunden ohne dessen ausdrückliche Zustimmung für eigene Rechnung oder für Rechnung einer anderen Person verwendet werden.
 
-(2) Ein Wertpapierdienstleistungsunternehmen, das über keine Erlaubnis für das Einlagengeschäft im Sinne des § 1 Abs. 1 Satz 2 Nr. 1 des Kreditwesengesetzes verfügt, hat Kundengelder, die es im Zusammenhang mit einer Wertpapierdienstleistung oder einer Wertpapiernebendienstleistung entgegennimmt, unverzüglich getrennt von den Geldern des Unternehmens und von anderen Kundengeldern auf Treuhandkonten bei solchen Kreditinstituten, Unternehmen im Sinne des § 53b Abs. 1 Satz 1 des Kreditwesengesetzes oder vergleichbaren Instituten mit Sitz in einem Drittstaat, welche zum Betreiben des Einlagengeschäftes befugt sind, einer Zentralbank oder einem qualifizierten Geldmarktfonds zu verwahren, bis die Gelder zum vereinbarten Zweck verwendet werden. Der Kunde kann im Wege individueller Vertragsabrede hinsichtlich der Trennung der Kundengelder voneinander anderweitige Weisung erteilen, wenn er über den mit der Trennung der Kundengelder verfolgten Schutzweck informiert wurde. Zur Verwahrung bei einem qualifizierten Geldmarktfonds hat das Wertpapierdienstleistungsunternehmen die vorherige Zustimmung des Kunden einzuholen. Die Zustimmung ist nur dann wirksam, wenn das Wertpapierdienstleistungsunternehmen den Kunden vor Erteilung der Zustimmung darüber unterrichtet hat, dass die bei dem qualifizierten Geldmarktfonds verwahrten Gelder nicht entsprechend den Schutzstandards dieses Gesetzes und nicht entsprechend der Verordnung zur Konkretisierung der Verhaltensregeln und Organisationsanforderungen für Wertpapierdienstleistungsunternehmen gehalten werden. Das Wertpapierdienstleistungsunternehmen hat dem verwahrenden Institut vor der Verwahrung offen zu legen, dass die Gelder treuhänderisch eingelegt werden. Es hat den Kunden unverzüglich darüber zu unterrichten, bei welchem Institut und auf welchem Konto die Kundengelder verwahrt werden und ob das Institut, bei dem die Kundengelder verwahrt werden, einer Einrichtung zur Sicherung der Ansprüche von Einlegern und Anlegern angehört und in welchem Umfang die Kundengelder durch diese Einrichtung gesichert sind.
+(2) Ein Wertpapierdienstleistungsunternehmen, das über keine Erlaubnis für das Einlagengeschäft im Sinne des § 1 Abs. 1 Satz 2 Nr. 1 des Kreditwesengesetzes verfügt, hat Kundengelder, die es im Zusammenhang mit einer Wertpapierdienstleistung oder einer Wertpapiernebendienstleistung entgegennimmt, unverzüglich getrennt von den Geldern des Unternehmens und von anderen Kundengeldern auf Treuhandkonten bei solchen Kreditinstituten, Unternehmen im Sinne des § 53b Abs. 1 Satz 1 des Kreditwesengesetzes oder vergleichbaren Instituten mit Sitz in einem Drittstaat, welche zum Betreiben des Einlagengeschäftes befugt sind, einer Zentralbank oder einem qualifizierten Geldmarktfonds zu verwahren, bis die Gelder zum vereinbarten Zweck verwendet werden. Der Kunde kann im Wege individueller Vertragsabrede hinsichtlich der Trennung der Kundengelder voneinander anderweitige Weisung erteilen, wenn er über den mit der Trennung der Kundengelder verfolgten Schutzzweck informiert wurde. Zur Verwahrung bei einem qualifizierten Geldmarktfonds hat das Wertpapierdienstleistungsunternehmen die vorherige Zustimmung des Kunden einzuholen. Die Zustimmung ist nur dann wirksam, wenn das Wertpapierdienstleistungsunternehmen den Kunden vor Erteilung der Zustimmung darüber unterrichtet hat, dass die bei dem qualifizierten Geldmarktfonds verwahrten Gelder nicht entsprechend den Schutzstandards dieses Gesetzes und nicht entsprechend der Verordnung zur Konkretisierung der Verhaltensregeln und Organisationsanforderungen für Wertpapierdienstleistungsunternehmen gehalten werden. Das Wertpapierdienstleistungsunternehmen hat dem verwahrenden Institut vor der Verwahrung offen zu legen, dass die Gelder treuhänderisch eingelegt werden. Es hat den Kunden unverzüglich darüber zu unterrichten, bei welchem Institut und auf welchem Konto die Kundengelder verwahrt werden und ob das Institut, bei dem die Kundengelder verwahrt werden, einer Einrichtung zur Sicherung der Ansprüche von Einlegern und Anlegern angehört und in welchem Umfang die Kundengelder durch diese Einrichtung gesichert sind.
 
 (3) Werden die Kundengelder bei einem Kreditinstitut, einem vergleichbaren Institut mit Sitz in einem Drittstaat oder einem Geldmarktfonds, die zur Unternehmensgruppe des Wertpapierdienstleistungsunternehmens gehören, gehalten, dürfen die bei einem solchen Unternehmen oder einer Gemeinschaft von solchen Unternehmen verwahrten Gelder 20 Prozent aller Kundengelder des Wertpapierdienstleistungsunternehmens nicht übersteigen. Die Bundesanstalt kann dem Wertpapierdienstleistungsunternehmen auf Antrag erlauben, die Obergrenze nach Satz 1 zu überschreiten, wenn es nachweist, dass die gemäß Satz 1 geltende Anforderung angesichts der Art, des Umfangs und der Komplexität seiner Tätigkeit sowie angesichts der Sicherheit, die die Verwahrstellen nach Satz 1 bieten sowie angesichts des geringen Saldos an Kundengeldern, das das Wertpapierdienstleistungsunternehmen hält, unverhältnismäßig ist. Das Wertpapierdienstleistungsunternehmen überprüft die nach Satz 2 durchgeführte Bewertung jährlich und leitet der Bundesanstalt seine Ausgangsbewertung sowie die überprüften Bewertungen zur Prüfung zu.
 
@@ -3917,7 +3960,7 @@ Die Bundesanstalt hat die Aufgabe, nach den Vorschriften dieses Abschnitts zu pr
 
 
 
-Ordnet die Bundesanstalt eine Prüfung der Rechnungslegung an, so kann sie ihre Anordnung unter Nennung des betroffenen Unternehmens und den Grund für die Anordnung auf ihrer Internetseite bekannt machen, soweit hieran ein öffentliches Interesse besteht. Die Bekanntmachung des Grunds für die Anordnung darf keine personenbezogenen Daten enthalten. Auf die Prüfung des verkürzten Abschlusses und des zugehörigen Zwischenlageberichts sowie des Zahlungsberichts und Konzernzahlungsberichts ist Satz 2 nicht anzuwenden. Die Prüfung kann trotz Wegfalls der Zulassung der Wertpapiere zum Handel im organisierten Markt fortgesetzt werden, insbesondere dann, wenn Gegenstand der Prüfung ein Fehler ist, an dessen Bekanntmachung ein öffentliches Interesse besteht. Die Bekanntmachung nach Satz 6 ist außerdem unverzüglich der das Unternehmensregister führenden Stelle zur Einstellung in das Unternehmensregister zu übermitteln.
+Ordnet die Bundesanstalt eine Prüfung der Rechnungslegung an, so kann sie ihre Anordnung unter Nennung des betroffenen Unternehmens und den Grund für die Anordnung auf ihrer Internetseite bekannt machen, soweit hieran ein öffentliches Interesse besteht. Die Bekanntmachung des Grunds für die Anordnung darf keine personenbezogenen Daten enthalten. Auf die Prüfung des verkürzten Abschlusses und des zugehörigen Zwischenlageberichts sowie des Zahlungsberichts und Konzernzahlungsberichts ist Satz 3 nicht anzuwenden. Die Prüfung kann trotz Wegfalls der Zulassung der Wertpapiere zum Handel im organisierten Markt fortgesetzt werden, insbesondere dann, wenn Gegenstand der Prüfung ein Fehler ist, an dessen Bekanntmachung ein öffentliches Interesse besteht. Die Bekanntmachung nach Satz 6 ist außerdem unverzüglich der das Unternehmensregister führenden Stelle zur Einstellung in das Unternehmensregister zu übermitteln.
 
 (2) Prüfungsgegenstand können auch die Abschlüsse und Berichte sein, die die beiden Geschäftsjahre zum Gegenstand haben, die dem Geschäftsjahr vorausgehen, auf das Absatz 1 Satz 5 Bezug nimmt; eine stichprobenartige Prüfung ist hierbei nicht zulässig.
 
@@ -5431,16 +5474,19 @@ eine unrichtige Versicherung abgibt.
 
 1.  einer vollziehbaren Anordnung nach
 
-    a)  § 6 Absatz 2a oder 2b,
+    a)  § 6 Absatz 2a oder Absatz 2d,
 
 
-    b)  § 6 Absatz 3 Satz 1,
+    b)  § 6 Absatz 2b oder 2c,
 
 
-    c)  § 87 Absatz 6 Satz 1 Nummer 1 oder Nummer 2 Buchstabe b,
+    c)  § 6 Absatz 3 Satz 1,
 
 
-    d)  § 92 Absatz 1
+    d)  § 87 Absatz 6 Satz 1 Nummer 1 oder Nummer 2 Buchstabe b,
+
+
+    e)  § 92 Absatz 1
 
 
 
@@ -5665,7 +5711,7 @@ nicht überschreiten. Über die in den Sätzen 1 und 2 genannten Beträge hinaus
 
 Handelt es sich bei der juristischen Person oder Personenvereinigung um ein Mutterunternehmen oder um eine Tochtergesellschaft, so ist anstelle des Gesamtumsatzes der juristischen Person oder Personenvereinigung der jeweilige Gesamtbetrag in dem Konzernabschluss des Mutterunternehmens maßgeblich, der für den größten Kreis von Unternehmen aufgestellt wird. Wird der Konzernabschluss für den größten Kreis von Unternehmen nicht nach den in Satz 1 genannten Vorschriften aufgestellt, ist der Gesamtumsatz nach Maßgabe der den in Satz 1 Nummer 1 bis 3 vergleichbaren Posten des Konzernabschlusses zu ermitteln. Ist ein Jahresabschluss oder Konzernabschluss für das maßgebliche Geschäftsjahr nicht verfügbar, ist der Jahres- oder Konzernabschluss für das unmittelbar vorausgehende Geschäftsjahr maßgeblich; ist auch dieser nicht verfügbar, kann der Gesamtumsatz geschätzt werden.
 
-(24) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 Nummer 2 Buchstabe f bis h, Nummer 2b und 4 Buchstabe c, Nummer 10 und 15 sowie des Absatzes 6 Nummer 3 bis 5 sowie des Absatzes 7 Nummer 5, 8 und 9 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 2 und 3, des Absatzes 2 Nummer 1, 2 Buchstabe a, b und k bis n, Nummer 2a, 14a und 16, des Absatzes 4 Nummer 5, des Absatzes 6 Nummer 1 und 2, des Absatzes 7 Nummer 1, 3 und 4 und des Absatzes 12 Nummer 1 Buchstabe b mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 4, des Absatzes 2 Nummer 6 bis 8, 11 bis 13, des Absatzes 7 Nummer 2, 6 und 7 und des Absatzes 12 Nummer 1 Buchstabe c mit einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+(24) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 Nummer 2 Buchstabe f bis h, Nummer 2b und 4 Buchstabe c, Nummer 10 und 15 sowie des Absatzes 6 Nummer 3 bis 5 sowie des Absatzes 7 Nummer 5, 8 und 9 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 2 und 3, des Absatzes 2 Nummer 1, 2 Buchstabe a, b und k bis n, Nummer 2a, 14a und 16, des Absatzes 4 Nummer 5, des Absatzes 6 Nummer 1 und 2, des Absatzes 7 Nummer 1, 3 und 4 und des Absatzes 12 Nummer 1 Buchstabe c mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 4, des Absatzes 2 Nummer 6 bis 8, 11 bis 13, des Absatzes 7 Nummer 2, 6 und 7 und des Absatzes 12 Nummer 1 Buchstabe d mit einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
 (25) § 17 Absatz 2 des Gesetzes über Ordnungswidrigkeiten ist nicht anzuwenden bei Verstößen gegen Gebote und Verbote, die in den Absätzen 17 bis 22 in Bezug genommen werden. Dies gilt nicht für Ordnungswidrigkeiten nach Absatz 2 Nummer 4 Buchstabe a, Absatz 8 Nummer 43 und 44, 134 bis 137 und Absatz 15 Nummer 1. § 30 des Gesetzes über Ordnungswidrigkeiten gilt auch für juristische Personen oder Personenvereinigungen, die über eine Zweigniederlassung oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs im Inland tätig sind.
 

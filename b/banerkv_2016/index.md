@@ -18,13 +18,7 @@ Fundstelle
 :   BGBl I: 2016, 77
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 2 G v. 27.6.2017 I 1947
-
-Änderung durch
-:   Art. 21 V v. 11.12.2024 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 3 Abs. 4 G v. 27.6.2017 I 1947 ist berücksichtigt
+:   Art. 21 V v. 11.12.2024 I Nr. 411
 
 
 ## Eingangsformel

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2022, 2244
 
 Geändert durch
-:   Art. 1 G v. 9.12.2022 I 2273
+:   Art. 1 V v. 16.12.2024 I Nr. 417
 
 
 ## Eingangsformel

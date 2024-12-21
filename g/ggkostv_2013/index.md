@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 V v. 28.6.2023 I Nr. 174
 
+Änderung durch
+:   Art. 2 V v. 17.12.2024 I 422 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Kosten
 
@@ -50,7 +53,7 @@ Zuletzt geändert durch
 8.  der zuständigen Stelle nach § 16 Absatz 8 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt,
 
 
-9.  der Marktüberwachungsbehörden nach § 22 Absatz 5 Satz 3 der Ortsbewegliche-Druckgeräte-Verordnung
+9.  der Marktüberwachungsbehörden nach § 22 Absatz 6 Satz 1 und § 22a Absatz 5 Satz 1 der Ortsbewegliche-Druckgeräte-Verordnung
 
 
 
@@ -1844,7 +1847,7 @@ werden Gebühren und Auslagen erhoben. Die Gebühren ergeben sich aus § 2 in Ve
 
 *    *   1101
 
-    *   Überwachung nach den §§ 21 bis 23 der Ortsbewegliche-Druckgeräte-Verordnung vom 29. November 2011 (BGBl. I S. 2349), die zuletzt durch Artikel 491 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, des Herstellers, Bevollmächtigten, Einführers, Vertreibers, Eigentümers oder Betreibers durch die nach § 20 Absatz 1 Nummer 1 und 2 zuständige Behörde, wenn die Überwachungsmaßnahme auf Grund eines begründeten Verdachts oder einer Beschwerde oder als Stichprobe durchgeführt wurde.
+    *   Überwachung nach den §§ 21 bis 23 der Ortsbewegliche-Druckgeräte-Verordnung vom 29. November 2011 (BGBl. I S. 2349), die zuletzt durch Artikel 1 der Verordnung vom 17. Dezember 2024 (BGBl. 2024 I Nr. 422) geändert worden ist, des Herstellers, Bevollmächtigten, Einführers, Vertreibers, Eigentümers oder Betreibers durch die nach § 20 Absatz 1 Nummer 1 und 2 zuständige Behörde, wenn die Überwachungsmaßnahme auf Grund eines begründeten Verdachts oder einer Beschwerde oder als Stichprobe durchgeführt wurde.
 
     *   25 je begonnene Viertelstunde
 
@@ -1864,7 +1867,7 @@ werden Gebühren und Auslagen erhoben. Die Gebühren ergeben sich aus § 2 in Ve
 
 *    *   1102
 
-    *   Überwachung nach den §§ 21 bis 23 der Ortsbewegliche-Druckgeräte-Verordnung vom 29. November 2011 (BGBl. I S. 2349), die zuletzt durch Artikel 491 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, des Herstellers, Bevollmächtigten, Einführers, Vertreibers, Eigentümers oder Betreibers durch die nach § 20 Absatz 1 Nummer 3 zuständige Behörde, wenn die Überwachungsmaßnahme auf Grund eines begründeten Verdachts oder einer Beschwerde oder als Stichprobe durchgeführt wurde.
+    *   Überwachung nach den §§ 21 bis 23 der Ortsbewegliche-Druckgeräte-Verordnung vom 29. November 2011 (BGBl. I S. 2349), die zuletzt durch Artikel 1 der Verordnung vom 17. Dezember 2024 (BGBl. 2024 I Nr. 422) geändert worden ist, des Herstellers, Bevollmächtigten, Einführers, Vertreibers, Eigentümers oder Betreibers durch die nach § 20 Absatz 1 Nummer 3 zuständige Behörde, wenn die Überwachungsmaßnahme auf Grund eines begründeten Verdachts oder einer Beschwerde oder als Stichprobe durchgeführt wurde.
 
     *   25 je begonnene Viertelstunde
 

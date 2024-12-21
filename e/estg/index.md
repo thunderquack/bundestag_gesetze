@@ -12001,6 +12001,7 @@ tritt.
 3             § 43 Absatz 1 Satz 6 und Absatz 2 Satz 7 und 8 in der am 1. Januar 2017 geltenden Fassung ist erstmals anzuwenden auf Kapitalerträge, die dem Gläubiger nach dem 31. Dezember 2016 zufließen.
 4             § 43 in der Fassung des Artikels 3 des Gesetzes vom 19. Juli 2016 (BGBl. I S. 1730) ist erstmals ab dem 1. Januar 2018 anzuwenden.
 5             § 43 Absatz 1 Satz 6 Nummer 5 in der Fassung des Artikels 1 des Gesetzes vom 2. Juni 2021 (BGBl. I S. 1259) ist erstmals auf Kapitalerträge anzuwenden, die nach dem 31. Dezember 2019 zufließen.
+6             § 43 Absatz 2 Satz 7 und 8 in der am 29. Oktober 2024 geltenden Fassung ist letztmals für Kapitalerträge anzuwenden, die vor dem 1. Januar 2025 zufließen.
 
 (42a) § 43a in der Fassung des Artikels 3 des Gesetzes vom 19. Juli 2016 (BGBl. I S. 1730) ist erstmals ab dem 1. Januar 2018 anzuwenden.
 
@@ -12022,6 +12023,7 @@ tritt.
 2             § 45a Absatz 6 in der Fassung des Artikels 2 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) ist auf Kapitalerträge anzuwenden, die nach dem 31. Dezember 2022 zufließen.
 3             § 45a Absatz 2a und 7 Satz 1 in der Fassung des Artikels 1 des Gesetzes vom 2. Juni 2021 (BGBl I S. 1259), das zuletzt durch Artikel 3 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) geändert worden ist, ist erstmals anzuwenden auf Kapitalerträge, die dem Gläubiger nach dem 31. Dezember 2026 zufließen.
 4             § 45a Absatz 7 Satz 3 in der am 8. Juni 2021 geltenden Fassung ist letztmals anzuwenden für Kapitalerträge, die vor dem 1. Januar 2024 zufließen.
+5             § 45a Absatz 5 in der am 29. Oktober 2024 geltenden Fassung ist letztmals für Ersatzbescheinigungen anzuwenden, die vor dem 1. Januar 2025 ausgestellt werden.
 
 (44b) § 45b Absatz 1 und 8 bis 10 in der Fassung des Artikels 1 des Gesetzes vom 2. Juni 2021 (BGBl. I S. 1259) und § 45b Absatz 2 bis 7 in der Fassung des Artikels 3 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) sind erstmals auf Kapitalerträge anzuwenden, die dem Gläubiger nach dem 31. Dezember 2026 zufließen.
 
@@ -12030,7 +12032,7 @@ tritt.
 (45)
 1             § 45d Absatz 1 in der am 14. Dezember 2010 geltenden Fassung ist erstmals für Kapitalerträge anzuwenden, die ab dem 1. Januar 2013 zufließen; eine Übermittlung der Identifikationsnummer hat für Kapitalerträge, die vor dem 1. Januar 2016 zufließen, nur zu erfolgen, wenn die Identifikationsnummer der Meldestelle vorliegt.
 2             § 45d Absatz 1 in der am 1. Januar 2017 geltenden Fassung ist erstmals anzuwenden auf Kapitalerträge, die dem Gläubiger nach dem 31. Dezember 2016 zufließen.
-3             § 45d Absatz 3 in der am 1. Januar 2017 geltenden Fassung ist für Versicherungsverträge anzuwenden, die nach dem 31. Dezember 2016 abgeschlossen werden.
+3             § 45d Absatz 3 in der am 1. Januar 2017 geltenden Fassung ist letztmals für Versicherungsverträge anzuwenden, die nach dem 31. Dezember 2016 und vor dem 1. Januar 2025 abgeschlossen werden.
 
 (45a)
 1             § 49 Absatz 1 Nummer 2 Buchstabe e Doppelbuchstabe cc in der Fassung des Artikels 3 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) ist erstmals auf Gewinne aus der Veräußerung von Anteilen anzuwenden, bei denen die Veräußerung nach dem 31. Dezember 2018 erfolgt, und nur soweit den Gewinnen nach dem 31. Dezember 2018 eingetretene Wertveränderungen zugrunde liegen.

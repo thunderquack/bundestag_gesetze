@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1228 (5240)
 
-Geändert durch
-:   Art. 6 Abs. 1 G v. 20.12.2023 I Nr. 392
-
-Änderung durch
-:   Art. 1 V v. 17.12.2024 I Nr. 418 mWv 1.1.2025 noch nicht berücksichtigt
+Zuletzt geändert durch
+:   Art. 1 V v. 17.12.2024 I Nr. 418
 
 Stand: Ersetzt V 51-1-27 v. 19.3.2002 I 1111 (SLV 2002)
 

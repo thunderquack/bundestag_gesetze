@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 V v. 28.6.2023 I Nr. 174
 
+Änderung durch
+:   Art. 3 V v. 17.12.2024 I 422 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Geltungsbereich
 
@@ -102,7 +105,7 @@ Der Schulungsnachweis wird mit den Mindestangaben nach Unterabschnitt 1.8.3.18 A
 
 (4) Die Prüfung zur Verlängerung des Schulungsnachweises nach Absatz 1.8.3.16.1 ADR/RID/ADN darf unbegrenzt wiederholt werden, jedoch nur bis zum Ablauf der Geltungsdauer des Schulungsnachweises. Absatz 2 Satz 2 gilt entsprechend. Die Höchstpunktzahl ist jedoch um 50 vom Hundert zu reduzieren.
 
-(5) Die Prüfungsfragen sind aus einer Sammlung auszuwählen, die vom Deutschen Industrie- und Handelskammertag veröffentlicht wird.
+(5) Die Prüfungsfragen sind aus einer Sammlung auszuwählen, die von der Deutschen Industrie- und Handelskammer veröffentlicht wird.
 
 (6) Prüfungen dürfen nur bei Vorliegen aller Voraussetzungen nach Absatz 1 bis 5 durchgeführt werden.
 
