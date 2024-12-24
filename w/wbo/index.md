@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 24 Abs. 1 G v. 25.6.2021 I 2154
 
+Änderung durch
+:   Art. 3 G v. 17.12.2024 I Nr. 424 mWv 1.4.2025 noch nicht berücksichtigt
+
 
 ## § 1 Beschwerderecht
 

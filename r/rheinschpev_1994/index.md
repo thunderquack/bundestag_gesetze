@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 2 V v. 11.3.2024 II Nr. 97 mWv 21.3.2024 u. 1.6.2024 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 3 V v. 17.12.2024 II Nr. 508 mWv 1.1.2025 noch nicht berücksichtigt
+
 Stand: Berichtigung v. 5.9.2023 II Nr. 271 ist berücksichtigt
 
 ## Eingangsformel

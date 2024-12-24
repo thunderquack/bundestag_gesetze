@@ -19,6 +19,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 22.1.2024 I Nr. 17
 
+Änderung durch
+:   Art. 6 G v. 18.12.2024 I Nr. 423 mWv 24.12.2024 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 7 G v. 18.12.2024 I Nr. 423 mWv 1.1.2025 noch nicht berücksichtigt
+
+Stand: Das G ist gem. Art. 34 Abs. 5 G v. 4.8.2019 I 1147 am 1.1.2020 in Kraft getreten
 Stand: Ersetzt G 53-8 v. 29.6.2015 I 1061, 1062 (USG)
 
 ## Kapitel 1 - Allgemeine Vorschriften

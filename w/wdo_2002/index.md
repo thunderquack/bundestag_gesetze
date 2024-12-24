@@ -15,11 +15,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2093
 
+Aufgeh. durch
+:   Art. 5 Satz 2 G 52-6 v. 17.12.2024 I Nr. 424 mWv 1.4.2025
+
 Zuletzt geändert durch
 :   Art. 13 G v. 20.8.2021 I 3932
 
+Stand: Das G ist gem. Art. 11 Abs. 1 G 52-5/1 v. 16.8.2001 I 2093 (WDNeuOG 2) am 1.1.2002 in Kraft getreten
+Ersetzt durch
+:   G 52-6 v. 17.12.2024 I Nr. 424 (WDO 2025)
 
-## Einleitende Bestimmungen
+
+## Einleitende Bestimmungen - 
 
 
 
@@ -1937,7 +1944,7 @@ Kosten werden nur im gerichtlichen Disziplinarverfahren erhoben.
 Die Höhe der Kosten, die nach der Kostenentscheidung zu erstatten sind, wird vom Urkundsbeamten der Geschäftsstelle des Truppendienstgerichts festgesetzt. Auf Erinnerung gegen die Festsetzung entscheidet der Vorsitzende der Truppendienstkammer endgültig. § 112 gilt entsprechend.
 
 
-## Schlussvorschriften
+## Schlussvorschriften - 
 
 
 

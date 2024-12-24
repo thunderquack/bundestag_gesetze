@@ -25,6 +25,9 @@ Fundstelle
 Änderung durch
 :   Art. 1 Nr. 1 iVm Anlage 1 V v. 11.3.2024 II Nr. 97 mWv 1.6.2024 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 1 iVm Anlage 1 und 2 V v. 17.12.2024 II Nr. 508 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## Teil I - Allgemeine Bestimmungen
 

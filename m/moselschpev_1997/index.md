@@ -25,6 +25,9 @@ Stand: Zuletzt geändert Art. 4 V v. 16.2.2022 II 82
 Änderung durch
 :   Art. 4 V v. 11.3.2024 II Nr. 97 mWv 21.3.2024 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 4 V v. 17.12.2024 II Nr. 508 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 

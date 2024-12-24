@@ -22,6 +22,12 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 24.10.2024 I Nr. 329
 
+Änderung durch
+:   Art. 11 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Mittelbare änderung durch
+:   Art. 15 Nr. 3 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2025 v. 25.11.2024 I Nr. 365 ist berücksichtigt
 
 ## Erstes Kapitel - Versicherter Personenkreis
@@ -4663,7 +4669,7 @@ Das Identifikationsmerkmal des Arbeitnehmers oder der Arbeitnehmerin ist die Ver
 
 (4) Bei der Datenstelle darf zu den gesetzlich bestimmten Dateisystemen jeweils ein weiteres Dateisystem geführt werden, soweit dies erforderlich ist, um die Ausführung des Datenschutzes, insbesondere zur Feststellung der Benutzer der Dateisysteme, zu gewährleisten.
 
-(5) Die Einrichtung eines automatisierten Abrufverfahrens für ein Dateisystem der Datenstelle ist nur zulässig gegenüber den in § 148 Absatz 3 genannten Stellen, der Deutschen Rentenversicherung Bund, soweit sie als zentrale Stelle Aufgaben nach dem Einkommensteuergesetz durchführt, den Behörden der Zollverwaltung, soweit diese Aufgaben nach § 2 des Schwarzarbeitsbekämpfungsgesetzes durchführen, und den Unternehmen der privaten Krankenversicherung, soweit sie Krankenversichertennummern nach § 290 in Verbindung mit § 362 Absatz 2 des Fünften Buches vergeben. Die dort enthaltenen besonderen Voraussetzungen für die Deutsche Post AG, für die Versicherungsämter und Gemeindebehörden und für Leistungsträger im Ausland müssen auch bei Satz 1 erfüllt sein. Die Einrichtung eines automatisierten Abrufverfahrens für ein Dateisystem der Datenstelle ist ferner gegenüber dem Bundesamt für Logistik und Mobilität, soweit dieses Aufgaben nach § 11 Absatz 2 Nummer 3 Buchstabe a des Güterkraftverkehrsgesetzes wahrnimmt, zulässig.
+(5) Die Einrichtung eines automatisierten Abrufverfahrens für ein Dateisystem der Datenstelle ist nur zulässig gegenüber den in § 148 Absatz 3 genannten Stellen, der Deutschen Rentenversicherung Bund, soweit sie als zentrale Stelle Aufgaben nach dem Einkommensteuergesetz durchführt, den Behörden der Zollverwaltung, soweit diese Aufgaben nach § 2 des Schwarzarbeitsbekämpfungsgesetzes durchführen, und den Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, der Bundespolizei, den Landespolizeien, der Bundeswehr sowie den Trägern der freien Heilfürsorge, soweit sie Krankenversichertennummern nach § 290 in Verbindung mit § 362 Absatz 2 des Fünften Buches vergeben. Die dort enthaltenen besonderen Voraussetzungen für die Deutsche Post AG, für die Versicherungsämter und Gemeindebehörden und für Leistungsträger im Ausland müssen auch bei Satz 1 erfüllt sein. Die Einrichtung eines automatisierten Abrufverfahrens für ein Dateisystem der Datenstelle ist ferner gegenüber dem Bundesamt für Logistik und Mobilität, soweit dieses Aufgaben nach § 11 Absatz 2 Nummer 3 Buchstabe a des Güterkraftverkehrsgesetzes wahrnimmt, zulässig.
 
 
 #### § 151 Auskünfte der Deutschen Post AG

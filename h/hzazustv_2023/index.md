@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 2118
 
-Geändert durch
-:   Art. 1 V v. 7.12.2023 I Nr. 355
+Zuletzt geändert durch
+:   Art. 1 V v. 17.12.2024 I Nr. 426
 
 Stand: Ersetzt V 600-1-3-20 v. 14.2.2022 I 175 (HZAZustV 2022)
 

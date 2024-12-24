@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 17.6.2024 I Nr. 195
 
+Änderung durch
+:   Art. 12 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Kapitel 1 - Allgemeine Vorschriften
 

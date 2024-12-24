@@ -21,6 +21,9 @@ Fundstelle
 Änderung durch
 :   Art. 2 V v. 22.11.2023 II Nr. 321 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 2 V v. 17.12.2024 II Nr. 508 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## § 1 Inkraftsetzung
 

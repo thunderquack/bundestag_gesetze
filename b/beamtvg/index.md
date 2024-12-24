@@ -21,6 +21,15 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 19.7.2024 I Nr. 247
 
+Änderung durch
+:   Art. 14 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Mittelbare änderung durch
+:   Art. 15 Nr. 4 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Mittelbare änderung durch
+:   Art. 16 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -390,7 +399,7 @@ Zeiten nach § 30 des Bundesbesoldungsgesetzes sind nicht ruhegehaltfähig.
 
 
 
-Eine besondere Verwendung im Ausland ist eine Verwendung nach § 31a Absatz 1 Satz 2 in der während der Verwendung geltenden Fassung.
+Eine besondere Verwendung im Ausland ist eine Verwendung nach § 31a in der während der Verwendung geltenden Fassung.
 
 (4) Sind sowohl die Voraussetzungen des Absatzes 1 als auch die Voraussetzungen der Absätze 2 und 3 erfüllt, findet nur die für den Beamten günstigere Vorschrift Anwendung.
 

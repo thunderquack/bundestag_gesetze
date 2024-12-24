@@ -21,6 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 7.3.2024 I Nr. 91
 
+Stand: Teilweise Neubeschreibung d. Wahlkreise gem. Bek. v. 27.12.2024 I Nr. 437 mWv 27.12.2024 I Nr. 437 noch nicht berücksichtigt
 
 ## Erster Abschnitt - Wahlsystem
 

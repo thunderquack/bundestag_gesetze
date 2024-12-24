@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 16.12.2022 I 2866
 
+Änderung durch
+:   Art. 13 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F1_813875_BJNR247900020]:     Diese Verordnung ersetzt die Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst des Bundes im Informationstechnikzentrum Bund vom 18. September 2020 (BGBl. I S. 2002).
 
 
@@ -282,9 +285,7 @@ Erholungsurlaub wird grundsätzlich während der vorlesungsfreien Zeiten des Bac
 
 (3) Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte behinderte Bewerberinnen und Bewerber sind zum Auswahlverfahren zuzulassen, es sei denn, sie sind offensichtlich fachlich ungeeignet. Vor dem Ausschluss schwerbehinderter Bewerberinnen und Bewerber und diesen gleichgestellter behinderter Bewerberinnen und Bewerber ist die Schwerbehindertenvertretung anzuhören.
 
-(4) Für ehemalige Soldatinnen auf Zeit und ehemalige Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein gelten § 10 Absatz 4 des Soldatenversorgungsgesetzes und die Stellenvorbehaltsverordnung.
-
-(5) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine schriftliche oder elektronische Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind nach Abschluss des Auswahlverfahrens auf Wunsch zurückzusenden, ansonsten zu vernichten. Elektronisch eingereichte Bewerbungsunterlagen sind endgültig zu löschen.
+(4) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine schriftliche oder elektronische Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind nach Abschluss des Auswahlverfahrens auf Wunsch zurückzusenden, ansonsten zu vernichten. Elektronisch eingereichte Bewerbungsunterlagen sind endgültig zu löschen.
 
 
 ### § 9 Auswahlkommission

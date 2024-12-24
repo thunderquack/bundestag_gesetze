@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 31 G v. 20.8.2021 I 3932
 
+Änderung durch
+:   Art. 2 G v. 17.12.2024 I Nr. 424 mWv 1.4.2025 noch nicht berücksichtigt
+
 Stand: Ersetzt G 51-3 v. 16.1.1991 I 47 (SBG)
 
 ## Kapitel 1 - Allgemeine Vorschriften

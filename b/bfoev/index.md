@@ -18,6 +18,15 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 17 G v. 20.8.2021 I 3932
 
+Änderung durch
+:   Art. 4 G v. 18.12.2024 I Nr. 423 mWv 24.12.2024 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 5 G v. 18.12.2024 I Nr. 423 mWv 1.1.2025 noch nicht berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 17 Nr. 1 G v. 18.12.2024 I Nr. 423 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 
 ## Eingangsformel
