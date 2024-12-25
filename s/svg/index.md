@@ -26,7 +26,7 @@ Zuletzt geändert durch
 :   Art. 4 G v. 19.7.2024 I Nr. 247
 
 Änderung durch
-:   Art. 2 G v. 18.12.2024 I Nr. 423 mWv 1.1.2024 bzw. 1.7.2024 bzw. 24.12.2024 noch nicht berücksichtigt
+:   Art. 2 G v. 18.12.2024 I Nr. 423 mWv 1.1.2024 bzw. 1.7.2024 bzw. 24.12.2024 bzw. 1.1.2025 noch nicht berücksichtigt
 
 Ersetzt durch
 :   G 53-12 v. 20.8.2021 I 3932, 3958 (SVG 2025)
