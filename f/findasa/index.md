@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 22 G v. 24.6.2022 I 959
 
+Änderung durch
+:   Art. 22 G v. 27.12.2024 I Nr. 438 mWv 1.7.2024 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Aufbau und Geschäftsführung
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BAnz: 2010, Nr 165, 3646
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.12.2023 I Nr. 387
+:   Art. 1 V v. 19.12.2024 I Nr. 431
 
 
 ## Eingangsformel

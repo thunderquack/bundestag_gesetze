@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 36 G v. 23.10.2024 I Nr. 323
 
+Änderung durch
+:   Art. 9 G v. 27.12.2024 I Nr. 438 mWv 30.12.2024 noch nicht berücksichtigt
+
 
 ## Titel I - Allgemeine Bestimmungen
 

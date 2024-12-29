@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 140
 
+Geändert durch
+:   Art. 16 G v. 27.12.2024 I Nr. 438
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -457,10 +460,16 @@ Die Meldestellen sind befugt, personenbezogene Daten zu verarbeiten, soweit dies
 5.  Gegenparteien im Sinne des Artikels 3 Nummer 2 der Verordnung (EU) 2015/2365 des Europäischen Parlaments und des Rates vom 25. November 2015 über die Transparenz von Wertpapierfinanzierungsgeschäften und der Weiterverwendung sowie zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 337 vom 23.12.2015, S. 1), die zuletzt durch die Verordnung (EU) 2021/23 (ABl. L 22 vom 22.1.2021, S. 1) geändert worden ist, in der jeweils geltenden Fassung,
 
 
-6.  Kapitalverwaltungsgesellschaften gemäß § 17 Absatz 1 des Kapitalanlagegesetzbuchs sowie
+6.  Kapitalverwaltungsgesellschaften gemäß § 17 Absatz 1 des Kapitalanlagegesetzbuchs,
 
 
-7.  Unternehmen gemäß § 1 Absatz 1 des Versicherungsaufsichtsgesetzes mit Ausnahme der nach den §§ 61 bis 66a des Versicherungsaufsichtsgesetzes tätigen Unternehmen mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum.
+7.  Unternehmen gemäß § 1 Absatz 1 des Versicherungsaufsichtsgesetzes mit Ausnahme der nach den §§ 61 bis 66a des Versicherungsaufsichtsgesetzes tätigen Unternehmen mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum,
+
+
+8.  Institute im Sinne des § 2 Absatz 4 des Kryptomärkteaufsichtsgesetzes sowie
+
+
+9.  Institute im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes.
 
 
 

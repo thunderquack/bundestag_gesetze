@@ -19,16 +19,13 @@ Neugefasst durch
 :   Bek. v. 24.2.2010 I 150;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 19.7.2024 I Nr. 247
-
-Änderung durch
-:   Art. 14 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 14 G v. 18.12.2024 I Nr. 423
 
 Mittelbare änderung durch
-:   Art. 15 Nr. 4 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15 Nr. 4 G v. 18.12.2024 I Nr. 423 ist berücksichtigt
 
 Mittelbare änderung durch
-:   Art. 16 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 16 G v. 18.12.2024 I Nr. 423 ist berücksichtigt
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

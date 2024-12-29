@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 23.10.2024 I Nr. 323
 
+Änderung durch
+:   Art. 7 G v. 27.12.2024 I Nr. 438 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erstes Buch - Handelsstand
 
@@ -5179,7 +5182,7 @@ Handelt es sich bei der Kapitalgesellschaft um ein Mutterunternehmen oder um ein
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist
 
-1.  die Bundesanstalt für Finanzdienstleistungsaufsicht in den Fällen des Absatzes 1 bei Kapitalgesellschaften, die kapitalmarktorientiert im Sinne des § 264d sind,
+1.  die Bundesanstalt für Finanzdienstleistungsaufsicht in den Fällen des Absatzes 1 bei Kapitalgesellschaften, die kapitalmarktorientiert im Sinne des § 264d oder Institute nach § 37 Absatz 1 Satz 1 des Kryptomärkteaufsichtsgesetzes sind,
 
 
 2.  das Bundesamt für Justiz

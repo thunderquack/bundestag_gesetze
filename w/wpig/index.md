@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 22.12.2023 I Nr. 411
 
+Änderung durch
+:   Art. 5 G v. 27.12.2024 I Nr. 438 mWv 30.12.2024 noch nicht berücksichtigt
+
 
 ## Kapitel 1 - Allgemeine Vorschriften
 

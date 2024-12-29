@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 22.12.2023 I Nr. 411
 
+Änderung durch
+:   Art. 12 G v. 27.12.2024 I Nr. 438 mWv 30.12.2024 noch nicht berücksichtigt
+
 Stand: Ersetzt G 7610-16 v. 25.6.2009 I 1506 (ZAG)
 
 ## Abschnitt 1 - Allgemeine Vorschriften

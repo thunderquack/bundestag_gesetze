@@ -19,6 +19,9 @@ Zuletzt geändert durch
 :   Art. 41 Nr. 2 G v. 2.12.2024 I Nr. 387
 
 Änderung durch
+:   Art. 8 G v. 27.12.2024 I Nr. 438 mWv 28.12.2024 bzw. 30.12.2024 noch nicht berücksichtigt
+
+Änderung durch
 :   Art. 41 Nr. 1 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 ist nicht ausführbar, da § 50c nicht vorhanden ist
 
 Mittelbare änderung durch

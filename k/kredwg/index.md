@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 28.11.2024 I Nr. 377
 
+Änderung durch
+:   Art. 3 G v. 27.12.2024 I Nr. 438 mWv 30.12.2024 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Allgemeine Vorschriften
 

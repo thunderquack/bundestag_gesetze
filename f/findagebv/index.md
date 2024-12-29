@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 4077
 
 Zuletzt geändert durch
-:   Art. 7 G v. 28.11.2024 I Nr. 377
+:   Art. 20 G v. 27.12.2024 I Nr. 438
 
 
 ## Eingangsformel
@@ -141,10 +141,16 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) erhebt Geb�
 37. Wertpapierinstitutsgesetz,
 
 
-38. Verordnung (EU) 2022/858 des Europäischen Parlaments und des Rates vom 30. Mai 2022 über eine Pilotregelung für auf Distributed-Ledger-Technologie basierende Marktinfrastrukturen und zur Änderung der Verordnungen (EU) Nr. 600/2014 und (EU) Nr. 909/2014 sowie der Richtlinie 2014/65/EU (ABl. L 151 vom 2.6.2022, S. 1).
+38. Verordnung (EU) 2022/858 des Europäischen Parlaments und des Rates vom 30. Mai 2022 über eine Pilotregelung für auf Distributed-Ledger-Technologie basierende Marktinfrastrukturen und zur Änderung der Verordnungen (EU) Nr. 600/2014 und (EU) Nr. 909/2014 sowie der Richtlinie 2014/65/EU (ABl. L 151 vom 2.6.2022, S. 1),
 
 
-38. Kreditzweitmarktgesetz.
+39. Kreditzweitmarktgesetz,
+
+
+40. Verordnung (EU) 2023/1114 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über Märkte für Kryptowerte und zur Änderung der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 1095/2010 sowie der Richtlinien 2013/36/EU und (EU) 2019/1937 (ABl. L 150 vom 9.6.2023, S. 40), die durch die Verordnung (EU) 2023/2869 (ABl. L, 2023/2869, 20.12.2023) geändert worden ist,
+
+
+41. Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1).
 
 
 
@@ -332,12 +338,22 @@ Für die Erhebung von Gebühren für eine gebührenpflichtige Leistung, die vor 
 
 *    *   30
 
-    *   individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2022/858
+    *   Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2022/858
 
 
-*    *   30
+*    *   31
 
     *   Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Kreditzweitmarktgesetzes (KrZwMG)
+
+
+*    *   32
+
+    *   Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2023/1114 und des Kryptomärkteaufsichtsgesetzes
+
+
+*    *   33
+
+    *   Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2022/2554
 
 
 
@@ -1290,6 +1306,14 @@ Für die Erhebung von Gebühren für eine gebührenpflichtige Leistung, die vor 
 
     *   Eigengeschäft
         Erteilung der Erlaubnis zum ausschließlichen Betreiben des Eigengeschäftes nach § 32 Absatz 1a Satz 2 in Verbindung mit Satz 3 KWG
+
+    *   nach Zeitaufwand
+
+
+*    *   5.1.12.1.4
+
+    *   Kryptowertpapierregisterführung
+        Erteilung der Erlaubnis zur Erbringung der Kryptowertpapierregisterführung im Sinne des § 1 Absatz 1a Satz 2 Nummer 8 KWG
 
     *   nach Zeitaufwand
 
@@ -4405,161 +4429,538 @@ Für die Erhebung von Gebühren für eine gebührenpflichtige Leistung, die vor 
 
     *   Erteilung einer besonderen Genehmigung, einer Ausnahme oder einer Änderung einer Genehmigung oder Ausnahme nach Artikel 8, 9 oder 10 der Verordnung (EU) 2022/858
 
-    *   Nach Zeitaufwand
+    *   nach Zeitaufwand
 
 
-*    *   30
+*    *   31
 
     *   Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Kreditzweitmarktgesetzes (KrZwMG)
 
     *
 
-*    *   30.1
+*    *   31.1
 
-    *   Erteilung der Erlaubnis zur Erbringung von Kreditdienstleistungen im Sinne von § 2 Absatz 3 Nummer 1 bis 4 KrZwMG (§ 10 KrZwMG)
+    *   Erteilung der Erlaubnis zur Erbringung von Kreditdienstleistungen im Sinne von § 2 Absatz 3 Nummer 1 bis 4 KrZwMG
+        (§ 10 KrZwMG)
 
     *   nach Zeitaufwand
 
 
-*    *   30.2
+*    *   31.2
 
     *   Erlaubnis zur Erbringung von Kreditdienstleistungen für eine Personenhandelsgesellschaft
 
     *
 
-*    *   30.2.1
+*    *   31.2.1
 
     *   Bei erstmaliger Erteilung der Erlaubnis
 
-    *   Erlaubnisgebühr nach der Nummer 30.1, die bei mehreren persönlich haftenden Gesellschaftern nach dem Anteil ihrer jeweiligen Kapitaleinlagen aufgeteilt wird, mindestens jedoch 250 Euro je persönlich haftendem Gesellschafter
+    *   Erlaubnisgebühr nach der Nummer 31.1,
+        die bei mehreren persönlich haftenden Gesellschaftern nach dem Anteil ihrer jeweiligen Kapitaleinlagen aufgeteilt wird, mindestens jedoch 250 Euro je persönlich haftendem Gesellschafter
 
 
-*    *   30.2.2
+*    *   31.2.2
 
     *   Bei Eintritt eines neuen persönlich haftenden Gesellschafters
 
     *   nach Zeitaufwand
 
 
-*    *   30.3
+*    *   31.3
 
     *   Maßnahmen nach Aufhebung und Erlöschen der Erlaubnis
 
     *
 
-*    *   30.3.1
+*    *   31.3.1
 
-    *   Anordnung der Abwicklung des Instituts, jeweils mit oder ohne Erlass von Weisungen für die Abwicklung oder Bestellung eines Abwicklers (§ 13 Absatz 4 Satz 1 KrZwMG i. V. m. § 38 Absatz 1 Satz 1 und 2 KWG oder § 38 Absatz 2 Satz 1 und 3 KWG)
-
-    *   nach Zeitaufwand
-
-
-*    *   30.3.2
-
-    *   Jeder Folgebescheid zu einem Verwaltungsakt im Sinne der Nummer 30.3.1, mit dem die Abwicklung des Instituts angeordnet wird oder Weisungen für die Abwicklung erlassen werden oder ein Abwickler bestellt wird (§ 13 Absatz 4 Satz 1 KrZwMG i. V. m. § 38 Absatz 1 Satz 1 und 2 KWG oder § 38 Absatz 2 Satz 1 und 3 KWG)
+    *   Anordnung der Abwicklung des Instituts, jeweils mit oder ohne Erlass von Weisungen für die Abwicklung oder Bestellung eines Abwicklers
+        (§ 13 Absatz 4 Satz 1 KrZwMG i. V. m. § 38 Absatz 1 Satz 1 und 2 KWG oder § 38 Absatz 2 Satz 1 und 3 KWG)
 
     *   nach Zeitaufwand
 
 
-*    *   30.4
+*    *   31.3.2
 
-    *   Individuell zurechenbare öffentliche Leistungen in Bezug auf den Erwerb bedeutender Beteiligungen (§ 16 Absatz 1 Satz 3 KrZwMG i. V. m. § 2c KWG)
+    *   Jeder Folgebescheid zu einem Verwaltungsakt im Sinne der Nummer 31.3.1, mit dem die Abwicklung des Instituts angeordnet wird oder Weisungen für die Abwicklung erlassen werden oder ein Abwickler bestellt wird
+        (§ 13 Absatz 4 Satz 1 KrZwMG i. V. m. § 38 Absatz 1 Satz 1 und 2 KWG oder § 38 Absatz 2 Satz 1 und 3 KWG)
+
+    *   nach Zeitaufwand
+
+
+*    *   31.4
+
+    *   Individuell zurechenbare öffentliche Leistungen in Bezug auf den Erwerb bedeutender Beteiligungen
+        (§ 16 Absatz 1 Satz 3 KrZwMG i. V. m. § 2c KWG)
 
     *
 
-*    *   30.4.1
+*    *   31.4.1
 
-    *   Untersagung des beabsichtigten Erwerbs einer bedeutenden Beteiligung oder ihrer Erhöhung oder Erlass einer Anordnung (§ 16 Absatz 1 Satz 3 KrZwMG i. V. m. § 2c Absatz 1b Satz 1, 2 oder Satz 3 KWG)
-
-    *   nach Zeitaufwand
-
-
-*    *   30.4.2
-
-    *   Untersagung der Ausübung von Stimmrechten; Anordnung, dass über die Anteile nur mit Zustimmung der Bundesanstalt verfügt werden darf (§ 16 Absatz 1 Satz 3 KrZwMG i. V. m. § 2c Absatz 2 Satz 1 KWG)
+    *   Untersagung des beabsichtigten Erwerbs einer bedeutenden Beteiligung oder ihrer Erhöhung oder Erlass einer Anordnung
+        (§ 16 Absatz 1 Satz 3 KrZwMG i. V. m. § 2c Absatz 1b Satz 1, 2 oder Satz 3 KWG)
 
     *   nach Zeitaufwand
 
 
-*    *   30.4.3
+*    *   31.4.2
 
-    *   Beauftragung des Treuhänders mit der Veräußerung der Anteile, soweit sie eine bedeutende Beteiligung begründen (§ 16 Absatz 1 Satz 3 KrZwMG i. V. m. § 2c Absatz 2 Satz 4 KWG)
+    *   Untersagung der Ausübung von Stimmrechten; Anordnung, dass über die Anteile nur mit Zustimmung der Bundesanstalt verfügt werden darf
+        (§ 16 Absatz 1 Satz 3 KrZwMG i. V. m. § 2c Absatz 2 Satz 1 KWG)
 
     *   nach Zeitaufwand
 
 
-*    *   30.5
+*    *   31.4.3
 
-    *   Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans (§ 37 Absatz 3, 5 und 6 KrZwMG)
+    *   Beauftragung des Treuhänders mit der Veräußerung der Anteile, soweit sie eine bedeutende Beteiligung begründen
+        (§ 16 Absatz 1 Satz 3 KrZwMG i. V. m. § 2c Absatz 2 Satz 4 KWG)
+
+    *   nach Zeitaufwand
+
+
+*    *   31.5
+
+    *   Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans
+        (§ 37 Absatz 3, 5 und 6 KrZwMG)
 
     *
 
-*    *   30.5.1
+*    *   31.5.1
 
     *   Verlangen nach Abberufung des Geschäftsleiters
 
     *   nach Zeitaufwand
 
 
-*    *   30.5.2
+*    *   31.5.2
 
     *   Untersagung der Ausübung der Tätigkeit als Geschäftsleiter bei Instituten oder anderen Verpflichteten im Sinne des § 2 Absatz 1 GwG gegenüber dem Geschäftsleiter
 
     *   nach Zeitaufwand
 
 
-*    *   30.6
+*    *   31.6
 
-    *   Maßnahmen in besonderen Fällen (§ 36 KrZwMG)
+    *   Maßnahmen in besonderen Fällen
+        (§ 36 KrZwMG)
 
     *
 
-*    *   30.6.1
+*    *   31.6.1
 
-    *   Maßnahmen, wenn die Erfüllung der Verpflichtungen gegenüber anderen Gläubigern gefährdet ist (§ 36 Absatz 1 KrZwMG)
-
-    *   nach Zeitaufwand
-
-
-*    *   30.6.2
-
-    *   Maßnahmen zur Vermeidung eines Insolvenzverfahrens oder einer Erlaubnisaufhebung (§ 36 Absatz 2 KrZwMG)
+    *   Maßnahmen, wenn die Erfüllung der Verpflichtungen gegenüber anderen Gläubigern gefährdet ist
+        (§ 36 Absatz 1 KrZwMG)
 
     *   nach Zeitaufwand
 
 
-*    *   30.7
+*    *   31.6.2
 
-    *   Anordnung, um eine ordnungsgemäße Geschäftsorganisation zu gewährleisten (§ 37 Absatz 1 KrZwMG)
+    *   Maßnahmen zur Vermeidung eines Insolvenzverfahrens oder einer Erlaubnisaufhebung
+        (§ 36 Absatz 2 KrZwMG)
 
     *   nach Zeitaufwand
 
 
-*    *   30.8
+*    *   31.7
+
+    *   Anordnung, um eine ordnungsgemäße Geschäftsorganisation zu gewährleisten
+        (§ 37 Absatz 1 KrZwMG)
+
+    *   nach Zeitaufwand
+
+
+*    *   31.8
 
     *   Feststellender Verwaltungsakt nach § 3 Absatz 3 Satz 1 KrZwMG
 
     *   nach Zeitaufwand
 
 
-*    *   30.9
+*    *   31.9
 
     *   Einschreiten gegen unerlaubte Geschäfte
 
     *
 
-*    *   30.9.1
+*    *   31.9.1
 
-    *   Einstellungsanordnung, Abwicklungsanordnung, Weisungen für die Abwicklung oder Bestellung eines Abwicklers; für eine der aufgezählten Maßnahmen oder mehrere der aufgezählten Maßnahmen, soweit diese in einem Bescheid erlassen werden (§ 38 Absatz 1 Satz 1 und 2 KrZwMG)
+    *   Einstellungsanordnung, Abwicklungsanordnung, Weisungen für die Abwicklung oder Bestellung eines Abwicklers; für eine der aufgezählten Maßnahmen oder mehrere der aufgezählten Maßnahmen, soweit diese in einem Bescheid erlassen werden
+        (§ 38 Absatz 1 Satz 1 und 2 KrZwMG)
 
     *   4 120
 
 
-*    *   30.9.2
+*    *   31.9.2
 
-    *   Verwaltungsakte im Sinne der Nummer 30.9.1 gegenüber Einbezogenen, die eine zurechenbare Ursache für die Einbeziehung gesetzt haben (§ 38 Absatz 1 Satz 4 i. V. m. Satz 1 und 2 KrZwMG)
+    *   Verwaltungsakte im Sinne der Nummer 31.9.1 gegenüber Einbezogenen, die eine zurechenbare Ursache für die Einbeziehung gesetzt haben
+        (§ 38 Absatz 1 Satz 4 i. V. m. Satz 1 und 2 KrZwMG)
 
     *   1 323
+
+
+*    *   32
+
+    *   Individuell zurechenbare öffentliche Leistung auf der Grundlage der Verordnung (EU) 2023/1114 und des Kryptomärkteaufsichtsgesetzes
+
+    *
+
+*    *   32.1
+
+    *   Erteilung einer Zulassung
+
+    *
+
+*    *   32.1.1
+
+    *   Erteilung einer Zulassung zum Emittieren vermögenswertreferenzierter Token
+        (Artikel 16 Absatz 1 Buchstabe a der Verordnung (EU) 2023/1114)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.1.2
+
+    *   Erteilung einer Zulassung zum Anbieten von Kryptowerte-Dienstleistungen
+        (Artikel 59 Absatz 1 Buchstabe a der Verordnung (EU) 2023/1114)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.2
+
+    *   Nachträgliche Erweiterung des Umfangs einer bestehenden Zulassung oder Erlaubnis
+
+    *
+
+*    *   32.2.1
+
+    *   Zulassungserweiterung bei bereits bestehender Zulassung im Sinne von Artikel 16 oder Artikel 59 der Verordnung (EU) 2023/1114
+
+    *   nach Zeitaufwand
+
+
+*    *   32.2.2
+
+    *   Mitteilung der geplanten Emission vermögenswertreferenzierter Token durch ein CRR-Kreditinstitut und Genehmigung des Kryptowerte-Whitepapers
+        (Artikel 17 Absatz 1 der Verordnung (EU) 2023/1114)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.2.3
+
+    *   Mitteilung der geplanten Emission von E-Geld-Token
+        (Artikel 48 der Verordnung (EU) 2023/1114)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.2.4
+
+    *   Mitteilung des geplanten Anbietens von Kryptowerte-Dienstleistungen
+        (Artikel 59 Absatz 1 Buchstabe b in Verbindung mit Artikel 60 der Verordnung (EU) 2023/1114)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.3
+
+    *   Zulassung nach Nummer 32 für eine Personenhandelsgesellschaft
+
+    *
+
+*    *   32.3.1
+
+    *   Bei erstmaliger Erteilung der Zulassung oder bei Zulassungserweiterung
+
+    *   Erteilungsgebühr nach Nummer 32.1.1 oder Nummer 32.1.2, die bei mehreren persönlichen haftenden Gesellschaftern nach dem Verhältnis ihrer jeweiligen Kapitaleinlagen zueinander aufgeteilt wird, mindestens jedoch 250 Euro je persönlich haftendem Gesellschafter
+
+
+*    *   32.3.2
+
+    *   Bei Eintritt eines neuen persönlich haftenden Gesellschafters
+
+    *   nach Zeitaufwand
+
+
+*    *   32.4
+
+    *   Maßnahmen nach Entzug der Zulassung
+
+    *
+
+*    *   32.4.1
+
+    *   Anordnung der Abwicklung des Instituts, jeweils mit oder ohne Erlass von Weisungen für die Abwicklung oder Bestellung eines Abwicklers, sowie jeder Folgebescheid zu einem vorbezeichneten Verwaltungsakt
+        (§ 13 Absatz 1 und 2 KMAG)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.4.2
+
+    *   Anordnung der Übertragung der Vertragsverhältnisse auf einen zugelassenen Anbieter von Kryptowerte-Dienstleistungen
+        (§ 13 Absatz 5 KMAG)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.5
+
+    *   Maßnahmen in Bezug auf das öffentliche Angebot und die Zulassung zum Handel
+
+    *
+
+*    *   32.5.1
+
+    *   Anordnung, dass ein öffentliches Angebot oder eine Zulassung zum Handel auszusetzen ist; Untersagung eines öffentlichen Angebots oder einer Zulassung zum Handel
+        (§ 15 KMAG)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.5.2
+
+    *   Anordnung der Änderung eines Kryptowerte-Whitepapers und Anordnung der Aufnahme zusätzlicher Informationen in das Kryptowerte-Whitepaper
+        (§ 16 KMAG)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.5.3
+
+    *   Anordnung der Änderung der Marketingmitteilungen; Anordnung der Aussetzung von Marketingmitteilungen; Untersagung von Marketingmitteilungen
+        (§ 17 KMAG)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.5.4
+
+    *   Maßnahmen zur Produktintervention
+        (Artikel 105 der Verordnung (EU) 2023/1114)
+
+    *   13 379
+
+
+*    *   32.6
+
+    *   Individuell zurechenbare öffentliche Leistungen in Bezug auf die Übernahme
+        (Titel III Kapitel 4 und Titel V Kapitel 4 der Verordnung (EU)
+        2023/1114)
+
+    *
+
+*    *   32.6.1
+
+    *   Einspruch gegen die Übernahme
+        (Artikel 42 Absatz 2, Artikel 82 Absatz 2 der Verordnung (EU) 2023/1114)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.6.2
+
+    *   Untersagung der Ausübung von Stimmrechten; Anordnung, dass über die Anteile nur mit Zustimmung der Bundesanstalt verfügt werden darf
+        (§ 25 Absatz 7 Satz 1 KMAG)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.6.3
+
+    *   Beauftragung eines Treuhänders mit der Veräußerung der Anteile, soweit sie eine bedeutende Beteiligung begründen
+        (§ 25 Absatz 7 Satz 4 KMAG)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.7
+
+    *   Maßnahmen in Bezug auf die laufende Aufsicht von Instituten
+
+    *
+
+*    *   32.7.1
+
+    *   Anordnung der Berichterstattung durch Emittenten vermögenswertreferenzierter Token
+        (Artikel 22 Absatz 3 der Verordnung (EU) 2023/1114)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.7.2
+
+    *   Maßnahmen zur Beschränkung der Ausgabe vermögenswertreferenzierter Token
+        (Artikel 23 der Verordnung (EU) 2023/1114) in Verbindung mit § 28 KMAG
+
+    *   nach Zeitaufwand
+
+
+*    *   32.7.3
+
+    *   Maßnahmen zur korrekten Berechnung der Eigenmittel von Emittenten vermögenswertreferenzierter Token
+        (Artikel 35 Absatz 3 bis 5 der Verordnung (EU) 2023/1114 in Verbindung mit dem technischen Regulierungsstandard)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.7.4
+
+    *   Aussetzung und Untersagung der Tätigkeit von Anbietern von Kryptowerte-Dienstleistungen; Einschreiten gegen die Erbringung von Kryptowerte-Dienstleistungen entgegen Artikel 60 der Verordnung (EU) 2023/1114
+        (§ 29 Absatz 1 und 2 KMAG)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.7.5
+
+    *   Anordnung der Aussetzung des Handels oder des Ausschlusses eines Kryptowertes vom Handel; Maßnahmen in Bezug auf bestimmte Derivate, Untersagung des Handels auf einer Handelsplattform, Anordnung der Aussetzung des Handels
+        (§ 34 KMAG)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.8
+
+    *   Maßnahmen gegen Mitglieder des Leitungsorgans
+
+    *
+
+*    *   32.8.1
+
+    *   Verlangen nach Abberufung eines Mitglieds des Leitungsorgans
+        (§ 23 Absatz 2 bis 4 KMAG)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.8.2
+
+    *   Untersagung der Wahrnehmung von Leitungsaufgaben
+        (§ 24 KMAG)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.9
+
+    *   Individuell zurechenbare öffentliche Leistungen in Bezug auf Sanierungs- und Rücktauschpläne
+
+    *
+
+*    *   32.9.1
+
+    *   Anordnungen in Bezug zur Erstellung und Änderung von Sanierungs- und Rücktauschplänen
+        (Artikel 46 Absatz 2 und 3, Artikel 47 Absatz 3 der Verordnung (EU) 2023/1114)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.9.2
+
+    *   Aussetzung des Rücktausches
+        (Artikel 46 Absatz 4 der Verordnung (EU) 2023/1114)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.9.3
+
+    *   Anordnung der Durchführung des Rücktauschplans
+        (Artikel 47 der Verordnung (EU) 2023/1114)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.10
+
+    *   Maßnahmen in besonderen Fällen
+
+    *
+
+*    *   32.10.1
+
+    *   Maßnahmen zur Verbesserung der Eigenmittelausstattung
+        (§ 41 KMAG)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.10.2
+
+    *   Maßnahmen bei organisatorischen Mängeln
+        (§ 42 KMAG)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.10.3
+
+    *   Einstweilige Maßnahmen bei Gefahr
+        (§ 43 KMAG)
+
+    *   nach Zeitaufwand
+
+
+*    *   32.11
+
+    *   Einschreiten gegen ungesetzliche Geschäfte
+
+    *
+
+*    *   32.11.1
+
+    *   Einstellungsanordnung, Abwicklungsanordnung, Weisungen für die Abwicklung oder Bestellung eines Abwicklers; für eine der aufgezählten Maßnahmen oder mehrere der aufgezählten Maßnahmen, soweit diese in einem Bescheid erlassen werden
+        (§ 9 KMAG)
+
+    *   4 120
+
+
+*    *   32.11.2
+
+    *   Verwaltungsakte nach Nummer 32.11.1 gegenüber Einbezogenen, die eine zurechenbare Ursache für die Einbeziehung gesetzt haben
+
+    *   1 323
+
+
+*    *   32.12
+
+    *   Übergangsvorschriften
+
+    *
+
+*    *   32.12.1
+
+    *   Durchführung des vereinfachten Verfahrens
+        (§ 50 Absatz 3 KMAG)
+
+    *   nach Zeitaufwand
+
+
+*    *   33
+
+    *   Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2022/2554
+
+    *
+
+*    *   33.1
+
+    *   Maßnahmen infolge der Durchführung eines gebündelten Tests
+        (Artikel 26 Absatz 4 der Verordnung (EU) 2022/2554)
+
+    *   nach Zeitaufwand
+
+
+*    *   33.2
+
+    *   Genehmigung des Einsatzes interner Tester
+        (Artikel 27 Absatz 2 der Verordnung (EU) 2022/2554)
+
+    *   nach Zeitaufwand
 
 
 

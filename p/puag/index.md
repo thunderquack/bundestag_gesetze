@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 Abs. 1 G v. 21.12.2020 I 3229
 
+Änderung durch
+:   Art. 2 G v. 20.12.2024 I Nr. 440 mWv 31.12.2024 noch nicht berücksichtigt
+
 
 ## § 1 Einsetzung
 

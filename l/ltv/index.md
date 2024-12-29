@@ -16,9 +16,8 @@ Fundstelle
 :   BGBl I: 2009, 97
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.12.2023 I Nr. 386
+:   Art. 1 V v. 19.12.2024 I Nr. 430
 
-Stand: Berichtigung v. 23.4.2024 I Nr. 138 ist berücksichtigt
 
 ## § 1
 

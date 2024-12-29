@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 7.10.2024 I Nr. 302
 
+Änderung durch
+:   Art. 14 G v. 27.12.2024 I Nr. 438 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Titel - Gerichtsbarkeit
 
@@ -1122,7 +1125,7 @@ In Jugendschutzsachen (§ 26 Abs. 1 Satz 1) ist neben der für allgemeine Strafs
 1.  nach dem Patentgesetz, dem Gebrauchsmustergesetz, dem Halbleiterschutzgesetz, dem Sortenschutzgesetz, dem Markengesetz, dem Designgesetz, dem Urheberrechtsgesetz, dem Gesetz gegen den unlauteren Wettbewerb, dem Gesetz zum Schutz von Geschäftsgeheimnissen, der Insolvenzordnung, dem Unternehmensstabilisierungs- und -restrukturierungsgesetz, dem Aktiengesetz, dem Gesetz über die Rechnungslegung von bestimmten Unternehmen und Konzernen, dem Gesetz betreffend die Gesellschaften mit beschränkter Haftung, dem Handelsgesetzbuch, dem SE-Ausführungsgesetz, dem Gesetz zur Ausführung der EWG-Verordnung über die Europäische wirtschaftliche Interessenvereinigung, dem Genossenschaftsgesetz, dem SCE-Ausführungsgesetz und dem Umwandlungsgesetz,
 
 
-2.  nach den Gesetzen über das Bank-, Depot-, Börsen- und Kreditwesen sowie nach dem Versicherungsaufsichtsgesetz, dem Zahlungsdiensteaufsichtsgesetz und dem Wertpapierhandelsgesetz,
+2.  nach den Gesetzen über das Bank-, Depot-, Börsen- und Kreditwesen sowie nach dem Versicherungsaufsichtsgesetz, dem Zahlungsdiensteaufsichtsgesetz, dem Kryptomärkteaufsichtsgesetz und dem Wertpapierhandelsgesetz,
 
 
 3.  nach dem Wirtschaftsstrafgesetz 1954, dem Außenwirtschaftsgesetz, dem Sanktionsdurchsetzungsgesetz, den Devisenbewirtschaftungsgesetzen sowie dem Finanzmonopol-, Steuer- und Zollrecht, auch soweit dessen Strafvorschriften nach anderen Gesetzen anwendbar sind; dies gilt nicht, wenn dieselbe Handlung eine Straftat nach dem Betäubungsmittelgesetz darstellt, und nicht für Steuerstraftaten, welche die Kraftfahrzeugsteuer betreffen,
@@ -1682,7 +1685,7 @@ Die Oberlandesgerichte sind in bürgerlichen Rechtsstreitigkeiten im ersten Rech
     und der Generalbundesanwalt wegen der besonderen Bedeutung des Falles die Verfolgung übernimmt,
 
 
-4.  bei Straftaten nach dem Außenwirtschaftsgesetz sowie bei Straftaten nach dem Gesetz über die Kontrolle von Kriegswaffen, wenn die Tat oder im Falle des strafbaren Versuchs auch ihre unterstellte Vollendung nach den Umständen
+4.  bei Straftaten nach dem Außenwirtschaftsgesetz, dem Sanktionsdurchsetzungsgesetz sowie bei Straftaten nach dem Gesetz über die Kontrolle von Kriegswaffen, wenn die Tat oder im Falle des strafbaren Versuchs auch ihre unterstellte Vollendung nach den Umständen
 
     a)  geeignet ist, die äußere Sicherheit oder die auswärtigen Beziehungen der Bundesrepublik Deutschland erheblich zu gefährden, oder
 

@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 48 G v. 12.7.2024 I Nr. 234
 
+Änderung durch
+:   Art. 1 G v. 20.12.2024 I Nr. 440 mWv 31.12.2024 noch nicht berücksichtigt
+
 Mittelbare änderung durch
 :   Art. 49 G v. 12.7.2024 I Nr. 234 ist berücksichtigt
 

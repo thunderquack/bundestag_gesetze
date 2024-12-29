@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2020, 2479
 
 Zuletzt geändert durch
-:   Art. 3 V v. 16.12.2022 I 2866
-
-Änderung durch
-:   Art. 13 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 13 G v. 18.12.2024 I Nr. 423
 
 [^F1_813875_BJNR247900020]:     Diese Verordnung ersetzt die Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst des Bundes im Informationstechnikzentrum Bund vom 18. September 2020 (BGBl. I S. 2002).
 

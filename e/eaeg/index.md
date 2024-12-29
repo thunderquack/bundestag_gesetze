@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 Abs. 11 G v. 12.5.2021 I 990
 
+Änderung durch
+:   Art. 18 G v. 27.12.2024 I Nr. 438 mWv 30.12.2024 noch nicht berücksichtigt
+
 
 ## § 1 Begriffsbestimmungen
 

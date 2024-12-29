@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 15.7.2024 I Nr. 237
 
+Änderung durch
+:   Art. 15 G v. 27.12.2024 I Nr. 438 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
@@ -5049,13 +5052,16 @@ Unternehmensrechtliche Verfahren sind die nach
 10. § 11 Abs. 3 des Gesetzes über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie,
 
 
-11. § 2c Abs. 2 Satz 2 bis 7, den §§ 22o, 36 Absatz 3 Satz 2, § 28 Absatz 2, § 38 Abs. 2 Satz 2, § 45a Abs. 2 Satz 1, 3, 4 und 6 des Kreditwesengesetzes,
+11. § 2c Abs. 2 Satz 2 bis 7, den §§ 22o, 28 Absatz 2, nach § 36 Absatz 3 Satz 3, § 38 Abs. 2 Satz 2, § 45a Abs. 2 Satz 1, 3, 4 und 6 des Kreditwesengesetzes,
 
 
 11a. § 2a Absatz 4 Satz 2 und 3 des Investmentgesetzes,
 
 
 11b. § 27 Absatz 2 Satz 1 bis 6 und § 77 Absatz 2 des Wertpapierinstitutsgesetzes,
+
+
+11c. § 13 Absatz 2 Satz 2, § 23 Absatz 5 Satz 2, § 25 Absatz 7 Satz 2 bis 7, § 28 Absatz 4 Satz 4 sowie § 39 Absatz 4 des Kryptomärkteaufsichtsgesetzes,
 
 
 12. § 23 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes,
