@@ -49,10 +49,13 @@ Dieses Gesetz dient der Umsetzung
 1.  der Vorschriften dieses Gesetzes,
 
 
-2.  der Artikel 4 und 15 der Verordnung (EU) 2015/2365 vom 25. November 2015 über die Transparenz von Wertpapierfinanzierungsgeschäften und der Weiterverwendung sowie zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 337 vom 23.12.2015, S. 1) sowie der auf Grundlage des Artikels 4 dieser Verordnung erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission in der jeweils geltenden Fassung und
+2.  der Artikel 4 und 15 der Verordnung (EU) 2015/2365 vom 25. November 2015 über die Transparenz von Wertpapierfinanzierungsgeschäften und der Weiterverwendung sowie zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 337 vom 23.12.2015, S. 1) sowie der auf Grundlage des Artikels 4 dieser Verordnung erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission in der jeweils geltenden Fassung,
 
 
-3.  der Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 173 vom 12.6.2014, S. 84; L 6 vom 10.1.2015, S. 6; L 270 vom 15.10.2015, S. 4), die durch die Verordnung (EU) 2016/1033 (ABl. L 175 vom 30.6.2016, S. 1) geändert worden ist, in der jeweils geltenden Fassung.
+3.  der Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 173 vom 12.6.2014, S. 84; L 6 vom 10.1.2015, S. 6; L 270 vom 15.10.2015, S. 4), die durch die Verordnung (EU) 2016/1033 (ABl. L 175 vom 30.6.2016, S. 1) geändert worden ist, in der jeweils geltenden Fassung und
+
+
+4.  der Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) in der jeweils geltenden Fassung.
 
 
 
@@ -157,7 +160,7 @@ soweit dies zur Durchsetzung der Vorschriften dieses Gesetzes geboten ist. Eine 
 
 ### § 3a Aufgaben und Befugnisse der Börsenaufsichtsbehörde zur Ausführung der Verordnung (EU) 2015/2365
 
-(1) Die Börsenaufsichtsbehörde überwacht die Einhaltung der Verbote und Gebote der Verordnung (EU) 2015/2365 durch die Börse und den Börsenträger und kann Anordnungen treffen, die geeignet und erforderlich sind, Verstöße gegen die Artikel 4 und 15 der Verordnung (EU) 2015/2365 sowie gegen die auf Grundlage des Artikels 4 erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission in der jeweils geltenden Fassung zu verhindern oder Missstände zu beseitigen.
+(1) Die Börsenaufsichtsbehörde überwacht die Einhaltung der Verbote und Gebote der Verordnung (EU) 2015/2365 durch die Börse und den Börsenträger und kann Anordnungen treffen, die geeignet und erforderlich sind, Verstöße gegen die Artikel 4 und 15 der Verordnung (EU) 2015/2365 sowie gegen die auf Grundlage des Artikels 4 erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission in der jeweils geltenden Fassung zu verhindern oder Missstände zu beseitigen. Die Börsenaufsichtsbehörde überwacht die Einhaltung der Verbote und Gebote der Verordnung (EU) 2022/2554 durch die Börse und den Börsenträger und kann Anordnungen treffen, die geeignet und erforderlich sind, um Verstöße gegen die Verordnung (EU) 2022/2554 sowie gegen die auf ihrer Grundlage erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission in der jeweils geltenden Fassung zu verhindern oder um Missstände zu beseitigen. Zur Erfüllung dieser Aufgaben stehen den Börsenaufsichtsbehörden die Befugnisse nach Artikel 50 der Verordnung (EU) 2022/2554 in Verbindung mit § 3 dieses Gesetzes zu. Die Börsenaufsichtsbehörde und die Deutsche Bundesbank arbeiten bei der Durchführung der Aufgaben nach den Artikeln 26 und 27 der Verordnung (EU) 2022/2554 zusammen. Die Deutsche Bundesbank nimmt die operativen Aufgaben nach den Artikeln 26 und 27 der Verordnung (EU) 2022/2554 wahr. § 7 Absatz 3 und 4 des Kreditwesengesetzes gilt entsprechend.
 
 (2) Bei Verstößen gegen die in Absatz 1 genannten Vorschriften sowie sich hierauf beziehende Anordnungen der Börsenaufsichtsbehörde kann diese eine dauerhafte Einstellung der den Verstoß begründenden Handlungen oder Verhaltensweisen verlangen. Verstößt eine Person, die bei der Börse oder dem Börsenträger tätig ist, vorsätzlich gegen eine der in Absatz 1 genannten Vorschriften oder eine sich auf diese Vorschriften beziehende Anordnung der Börsenaufsichtsbehörde und setzt sie dieses Verhalten trotz Verwarnung durch die Börsenaufsichtsbehörde fort, kann die Börsenaufsichtsbehörde dieser Person für einen Zeitraum von bis zu zwei Jahren die Wahrnehmung von Führungsaufgaben bei Börsen oder Börsenträgern untersagen.
 
@@ -322,23 +325,31 @@ Der Nominierungsausschuss hat bei der Wahrnehmung seiner Aufgaben insbesondere d
 1.  Vorkehrungen zu treffen, um Konflikte zwischen Eigeninteressen des Börsenträgers oder dessen Eigentümern und dem öffentlichen Interesse am ordnungsgemäßen Betrieb der Börse zu erkennen und zu verhindern, soweit diese geeignet sind, sich nachteilig auf den Börsenbetrieb oder auf die Handelsteilnehmer auszuwirken, insbesondere soweit die der Börse gesetzlich übertragenen Überwachungsaufgaben betroffen sind,
 
 
-2.  angemessene Vorkehrungen und Systeme zur Ermittlung und zum Umgang mit den wesentlichen Risiken des Börsenbetriebs zu schaffen, um diese wirksam zu begrenzen, und
+2.  angemessene Vorkehrungen und Systeme zur Ermittlung und zum Umgang mit den wesentlichen Risiken des Börsenbetriebs, einschließlich der IKT-Risiken gemäß Kapitel II der Verordnung (EU) 2022/2554 zu schaffen, um diese wirksam zu begrenzen, und
 
 
-3.  die technische Funktionsfähigkeit der Börsenhandels- und Abwicklungssysteme sicherzustellen, technische Vorkehrungen für einen reibungslosen und zeitnahen Abschluss der im Handelssystem geschlossenen Geschäfte zu schaffen und insbesondere wirksame Notfallmaßnahmen vorzusehen, die bei einem Systemausfall oder bei Störungen in seinen Handelssystemen die Kontinuität seines Geschäftsbetriebs gewährleisten.
-
-
-
-
-(4a) Der Börsenträger muss über Systeme und Verfahren verfügen, um
-
-1.  sicherzustellen, dass seine Handelssysteme belastbar sind und über ausreichende Kapazitäten für Spitzenvolumina an Aufträgen und Mitteilungen verfügen und
-
-
-2.  Aufträge abzulehnen, die die im Voraus festgelegten Grenzen für Volumina und Kurse überschreiten oder eindeutig irrtümlich zustande kamen.
+3.  die technische Funktionsfähigkeit der Börsenhandels- und Abwicklungssysteme sicherzustellen und einen reibungslosen und zeitnahen Abschluss der im Handelssystem geschlossenen Geschäfte zu schaffen.
 
 
 
+
+(4a) Der Börsenträger muss seine operationale Resilienz entsprechend den in Kapitel II der Verordnung (EU) 2022/2554 festgelegten Anforderungen herstellen und erhalten, um sicherzustellen, dass seine Handelssysteme
+
+1.  belastbar sind und über ausreichende Kapazitäten für Spitzenvolumina an Aufträgen und Mitteilungen verfügen,
+
+
+2.  in der Lage sind, unter extremen Stressbedingungen auf den Märkten einen ordnungsgemäßen Handel zu gewährleisten,
+
+
+3.  vollständig geprüft sind, um zu gewährleisten, dass die Vorgaben in den Nummern 1 und 2 erfüllt sind, und
+
+
+4.  wirksamen Vorkehrungen zur Fortführung der Geschäftstätigkeit unterliegen, einschließlich IKT-Geschäftsfortführungsleitlinien und IKT-Geschäftsfortführungsplänen sowie IKT-Reaktionsplänen und IKT-Wiederherstellungsplänen nach Artikel 11 der Verordnung (EU) 2022/2554, um im Falle von Störungen in seinen Handelssystemen die Kontinuität seines Geschäftsbetriebs zu gewährleisten.
+
+
+
+
+(4b) Der Börsenträger muss über Systeme und Verfahren verfügen, um Aufträge abzulehnen, die die im Voraus festgelegten Grenzen für Volumina und Kurse überschreiten oder eindeutig irrtümlich zustande kamen.
 
 (5) Der Börsenträger muss über ausreichende finanzielle Mittel für eine ordnungsgemäße Durchführung des Börsenbetriebs verfügen, wobei Art, Umfang und Risikostruktur der an der Börse getätigten Geschäfte zu berücksichtigen sind.
 
@@ -413,6 +424,8 @@ In den Fällen des Satzes 1 kann die Ausübung der Stimmrechte auf einen Treuhä
 (4) Die Börsenaufsichtsbehörde unterrichtet die Bundesanstalt regelmäßig und auf eine einheitliche und vergleichbare Art über die gemäß § 24 Absatz 2b festgelegten Parameter für eine Volatilitätsunterbrechung.
 
 (5) Die Börsenaufsichtsbehörde und die für die Durchführung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41), die zuletzt durch die Delegierte Verordnung (EU) 2016/1226 (ABl. L 202 vom 28.7.2016, S. 5) geändert worden ist, zuständigen Behörden tauschen untereinander Informationen einschließlich personenbezogener Daten aus, die für die Erfüllung ihrer Aufgaben erforderlich sind.
+
+(6) Die Börsenaufsichtsbehörde und die für die Durchführung der Verordnung (EU) 2022/2554 zuständigen Behörden tauschen untereinander Informationen einschließlich personenbezogener Daten aus, die für die Erfüllung ihrer Aufgaben erforderlich sind.
 
 
 ### § 9 Anwendbarkeit kartellrechtlicher Vorschriften
@@ -817,6 +830,8 @@ Die Börse ist verpflichtet, eine angemessene Größe der kleinstmöglichen Prei
 (2) Die Handelsteilnehmer sind verpflichtet, ihre Algorithmen in einer von der Börse zur Verfügung gestellten Umgebung zu testen. Die Geschäftsführung überwacht die Einhaltung der Pflicht nach Satz 1 und teilt der Börsenaufsichtsbehörde Anhaltspunkte für Verstöße mit.
 
 (3) Wegen der geeigneten Vorkehrungen nach Absatz 1 und der Anforderungen an die Ausgestaltung der Tests nach Absatz 2 wird auf die Delegierte Verordnung (EU) 2017/584 der Kommission vom 14. Juli 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates durch technische Regulierungsstandards zur Festlegung der organisatorischen Anforderungen an Handelsplätze (ABl. L 87 vom 31.3.2017, S. 350), in der jeweils geltenden Fassung, verwiesen.
+
+(3) Wegen der geeigneten Vorkehrungen nach Absatz 1 und der Anforderungen an die Ausgestaltung der Tests nach Absatz 2 wird auf die Kapitel II und IV der Verordnung (EU) 2022/2554 und die Delegierte Verordnung (EU) 2017/584 der Kommission vom 14. Juli 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates durch technische Regulierungsstandards zur Festlegung der organisatorischen Anforderungen an Handelsplätze (ABl. L 87 vom 31.3.2017, S. 350) in der jeweils geltenden Fassung verwiesen.
 
 
 ### § 26e Informationen über die Ausführungsqualität
@@ -1476,6 +1491,8 @@ entgegen Artikel 37 Absatz 3 mit dem Erbringer eines Referenzwerts eine Vereinba
 
 (7) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 909/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 zur Verbesserung der Wertpapierlieferungen und -abrechnungen in der Europäischen Union und über Zentralverwahrer sowie zur Änderung der Richtlinien 98/26/EG und 2014/65/EU und der Verordnung (EU) Nr. 236/2012 (ABl. L 257 vom 28.8.2014, S. 1; L 349 vom 21.12.2016, S. 5), die durch die Verordnung (EU) 2016/1033 (ABl. L 175 vom 30.6.2016, S. 1) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig als Börsenträger oder als Betreiber eines Freiverkehrs im Sinne des § 48 einem Zentralverwahrer entgegen Artikel 53 Absatz 1 Unterabsatz 1 Transaktionsdaten nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung stellt.
 
+(7a) Zuwiderhandlungen gegen die Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56 Absatz 5e und 6 Nummer 1 und 3 des Kreditwesengesetzes geahndet werden.
+
 (8) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2 und des Absatzes 3 mit einer Geldbuße bis hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis fünfzigtausend Euro geahndet werden.
 
 (9) Die Ordnungswidrigkeit kann in den Fällen der Absätze 2 und 5 bis 7 mit einer Geldbuße von bis zu fünf Millionen Euro geahndet werden. Gegenüber einer juristischen Person oder Personenvereinigung kann über Satz 1 hinaus eine höhere Geldbuße in Höhe von bis zu 10 Prozent des Gesamtumsatzes, den die juristische Person oder Personenvereinigung im der Behördenentscheidung vorangegangenen Geschäftsjahr erzielt hat, verhängt werden. Über die in den Sätzen 1 und 2 genannten Beträge hinaus kann die Ordnungswidrigkeit mit einer Geldbuße bis zum Zweifachen des aus dem Verstoß gezogenen wirtschaftlichen Vorteils geahndet werden. Der wirtschaftliche Vorteil umfasst erzielte Gewinne und vermiedene Verluste und kann geschätzt werden.
@@ -1535,7 +1552,7 @@ Handelt es sich bei den in Satz 1 genannten Personen um juristische Personen ode
 
 
 
-Entscheidet sich die Börsenaufsichtsbehörde für eine Bekanntmachung in anonymisierter Form, kann die Bekanntmachung um einen angemessenen Zeitraum aufgeschoben werden, wenn vorhersehbar ist, dass die Gründe für die anonymisierte Bekanntmachung innerhalb dieses Zeitraums wegfallen werden. Wird gegen die Bußgeldentscheidung ein Rechtsbehelf eingelegt, so macht die Börsenaufsichtsbehörde auch diesen Sachverhalt und das Ergebnis des Rechtsbehelfsverfahrens umgehend auf ihrer Internetseite bekannt. Ferner wird jede Entscheidung, mit der eine frühere Bußgeldentscheidung aufgehoben oder geändert wird, ebenfalls bekannt gemacht. Eine Bekanntmachung nach Satz 1 ist nach fünf Jahren zu löschen. Abweichend davon sind personenbezogene Daten zu löschen, sobald ihre Bekanntmachung nicht mehr erforderlich ist. Die Börsenaufsichtsbehörde unterrichtet die Bundesanstalt und die Europäische Wertpapier- und Marktaufsichtsbehörde über alle Bußgeldentscheidungen, die im Einklang mit Satz 4 Nummer 3 nicht bekannt gemacht wurden, sowie über alle Rechtsbehelfe in Verbindung mit diesen Bußgeldentscheidungen und die Ergebnisse der Rechtsbehelfsverfahren. Über die Bekanntmachung einer Bußgeldentscheidung unterrichtet die Börsenaufsichtsbehörde die Bundesanstalt und die Europäische Wertpapier- und Marktaufsichtbehörde gleichzeitig.
+Entscheidet sich die Börsenaufsichtsbehörde für eine Bekanntmachung in anonymisierter Form, kann die Bekanntmachung um einen angemessenen Zeitraum aufgeschoben werden, wenn vorhersehbar ist, dass die Gründe für die anonymisierte Bekanntmachung innerhalb dieses Zeitraums wegfallen werden. Wird gegen die Bußgeldentscheidung ein Rechtsbehelf eingelegt, so macht die Börsenaufsichtsbehörde auch diesen Sachverhalt und das Ergebnis des Rechtsbehelfsverfahrens umgehend auf ihrer Internetseite bekannt. Ferner wird jede Entscheidung, mit der eine frühere Bußgeldentscheidung aufgehoben oder geändert wird, ebenfalls bekannt gemacht. Eine Bekanntmachung nach Satz 1 ist nach fünf Jahren zu löschen. Abweichend davon sind personenbezogene Daten zu löschen, sobald ihre Bekanntmachung nicht mehr erforderlich ist. Die Börsenaufsichtsbehörde unterrichtet die Bundesanstalt und die Europäische Wertpapier- und Marktaufsichtsbehörde über alle Bußgeldentscheidungen, die im Einklang mit Satz 4 Nummer 3 nicht bekannt gemacht wurden, sowie über alle Rechtsbehelfe in Verbindung mit diesen Bußgeldentscheidungen und die Ergebnisse der Rechtsbehelfsverfahren. Über die Bekanntmachung einer Bußgeldentscheidung unterrichtet die Börsenaufsichtsbehörde die Bundesanstalt und die Europäische Wertpapier- und Marktaufsichtbehörde gleichzeitig. Die Börsenaufsichtsbehörde macht Entscheidungen über bestandskräftige Maßnahmen und unanfechtbar gewordene Bußgeldentscheidungen, die wegen Verstößen gegen die Verordnung (EU) 2022/2554 oder gegen die jeweils darauf basierenden delegierten Rechtsakte erlassen wurden, auf ihrer Internetseite unverzüglich öffentlich bekannt.
 
 (3) Die Geschäftsführung kann Entscheidungen über Maßnahmen und Sanktionen nach § 22 Absatz 2 Satz 1 und 2 und § 42 Absatz 2 Satz 1 gegen Handelsteilnehmer und Emittenten auf der Internetseite der Börse bekannt machen. Für die Bekanntmachung gilt Absatz 2 Satz 2 bis 9 entsprechend.
 

@@ -175,7 +175,7 @@ es sei denn, es handelt sich um Zahlungsinstrumente.
     a)  Wertpapiere oder Geldmarktinstrumente,
 
 
-    b)  Devisen, soweit das Geschäft nicht die in Artikel 10 der Delegierten Verordnung (EU) 2017/565 genannten Voraussetzungen erfüllt, oder Rechnungseinheiten,
+    b)  Devisen, soweit das Geschäft nicht die in Artikel 10 der Delegierten Verordnung (EU) 2017/565 genannten Voraussetzungen erfüllt, Rechnungseinheiten oder Kryptowerte im Sinne des Artikels 3 Absatz 1 Nummer 5 der Verordnung (EU) 2023/1114 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über Märkte für Kryptowerte und zur Änderung der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 1095/2010 sowie der Richtlinien 2013/36/EU und (EU) 2019/1937 (ABl. L 150 vom 9.6.2023, S. 40) ohne Kryptowerte nach Artikel 4 Absatz 3 Buchstabe c der Verordnung (EU) 2023/1114
 
 
     c)  Zinssätze oder andere Erträge,
@@ -1132,6 +1132,27 @@ Die in Satz 2 genannten Befugnisse stehen der Bundesanstalt vorbehaltlich von §
 
 
 
+### § 10a Besondere Befugnisse nach der Verordnung (EU) 2022/2554
+
+(1) Die Bundesanstalt kann bei Verstößen gegen die Verordnung (EU) 2022/2554 unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, um die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 sicherzustellen. Insbesondere kann sie gegenüber einem Wertpapierdienstleistungsunternehmen oder einem Schwarmfinanzierungsdienstleister im Sinne des Artikels 2 Absatz 1 Buchstabe e der Verordnung (EU) 2020/1503 anordnen,
+
+1.  das gegen diese Verordnung verstoßende Verhalten zu unterlassen und von einer Wiederholung abzusehen,
+
+
+2.  Praktiken oder Verhaltensweisen, die den Bestimmungen der Verordnung zuwiderlaufen, vorübergehend oder dauerhaft einzustellen und nicht zu wiederholen,
+
+
+3.  sicherzustellen, dass weiterhin die rechtlichen Vorgaben erfüllt werden, und
+
+
+4.  Korrektur- und Abhilfemaßnahmen vorzunehmen.
+
+
+
+
+(2) Die Bundesanstalt kann Untersuchungen über die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 im Anwendungsbereich dieses Gesetzes vornehmen. Unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse kann die Bundesanstalt zu diesem Zweck Mitglieder der Organe eines Wertpapierdienstleistungsunternehmens oder eines Schwarmfinanzierungsdienstleisters im Sinne des Artikels 2 Absatz 1 Buchstabe e der Verordnung (EU) 2020/1503 zu einer Befragung vorladen, damit diese mündliche oder schriftliche Erklärungen zu Sachverhalten oder Unterlagen abgeben, die mit Gegenstand und Zweck der Untersuchung in Zusammenhang stehen, und die mündlichen Erklärungen aufzeichnen. § 6 Absatz 15 gilt entsprechend.
+
+
 ### § 11 Anzeige straftatbegründender Tatsachen
 
 Die Bundesanstalt hat Tatsachen, die den Verdacht einer Straftat nach § 119 begründen, der zuständigen Staatsanwaltschaft unverzüglich anzuzeigen. Sie kann die personenbezogenen Daten der betroffenen Personen, gegen die sich der Verdacht richtet oder die als Zeugen in Betracht kommen, der Staatsanwaltschaft übermitteln, soweit dies für Zwecke der Strafverfolgung erforderlich ist. Die Staatsanwaltschaft entscheidet über die Vornahme der erforderlichen Ermittlungsmaßnahmen, insbesondere über Durchsuchungen, nach den Vorschriften der Strafprozessordnung. Die Befugnisse der Bundesanstalt nach § 6 Absatz 2 bis 13 sowie den §§ 7 bis 9 und 10 Absatz 2 bleiben hiervon unberührt, soweit dies für die Vornahme von Verwaltungsmaßnahmen oder zur Erfüllung von Ersuchen ausländischer Stellen nach § 18 Absatz 2, 4 Satz 1 oder Absatz 10 erforderlich ist und soweit eine Gefährdung des Untersuchungszwecks von Ermittlungen der Strafverfolgungsbehörden oder der für Strafsachen zuständigen Gerichte nicht zu besorgen ist.
@@ -1144,7 +1165,7 @@ Die Adressaten von Maßnahmen nach § 6 Absatz 2 bis 4, 6 bis 8 und 10 bis 13 so
 
 ### § 13 Sofortiger Vollzug
 
-Widerspruch und Anfechtungsklage gegen Maßnahmen nach § 6 Absatz 1 bis 13 und den §§ 7 bis 10 und 54 Absatz 1 einschließlich der Androhung und der Festsetzung von Zwangsmitteln haben keine aufschiebende Wirkung.
+Widerspruch und Anfechtungsklage gegen Maßnahmen nach § 6 Absatz 1 bis 13 und den §§ 7 bis 10a und 54 Absatz 1 einschließlich der Androhung und der Festsetzung von Zwangsmitteln haben keine aufschiebende Wirkung.
 
 
 ### § 14 Befugnisse zur Sicherung des Finanzsystems
@@ -1593,11 +1614,20 @@ eingegangen sind, haben durch einen geeigneten Prüfer innerhalb von neun Monate
 (3) Weitergehende Ansprüche, die nach den Vorschriften des bürgerlichen Rechts auf Grund von Verträgen oder unerlaubten Handlungen erhoben werden können, bleiben unberührt.
 
 
-### § 32f Überwachung und Prüfung der Pflichten nach der Verordnung (EU) 2020/1503; Verordnungsermächtigung
+### § 32f Überwachung und Prüfung der Pflichten der Schwarmfinanzierungsdienstleister nach der Verordnung (EU) 2020/1503 und nach der Verordnung (EU) 2022/2554; Verordnungsermächtigung
 
-(1) Die Bundesanstalt kann zur Überwachung der Einhaltung der Pflichten nach der Verordnung (EU) 2020/1503 in der jeweils geltenden Fassung auch ohne besonderen Anlass Prüfungen bei den Schwarmfinanzierungsdienstleistern im Sinne des Artikels 2 Absatz 1 Buchstabe e der Verordnung (EU) 2020/1503 bei den Unternehmen, mit denen eine Auslagerungsvereinbarung besteht oder bestand, und bei sonstigen zur Durchführung eingeschalteten dritten Personen oder Unternehmen vornehmen.
+(1) Die Bundesanstalt kann zur Überwachung der Einhaltung
 
-(2) Unbeschadet des Absatzes 1 ist einmal jährlich durch einen geeigneten Prüfer zu prüfen, ob die Schwarmfinanzierungsdienstleister die nach der Verordnung (EU) 2020/1503 einzuhaltenden Pflichten erfüllen. Die Bundesanstalt kann auf Antrag von der jährlichen Prüfung ganz oder teilweise unter Berücksichtigung der Art und des Umfangs der betriebenen Geschäfte absehen. Der Schwarmfinanzierungsdienstleister hat den geeigneten Prüfer spätestens zum Ablauf desjenigen Geschäftsjahres zu bestellen, auf das sich die Prüfung erstreckt. Bei Schwarmfinanzierungsdienstleistern, die einem genossenschaftlichen Prüfungsverband angehören oder durch die Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden, wird die Prüfung durch den zuständigen Prüfungsverband oder die zuständige Prüfungsstelle, soweit hinsichtlich Letzterer das Landesrecht dies vorsieht, vorgenommen. Geeignete Prüfer sind darüber hinaus Wirtschaftsprüfer, vereidigte Buchprüfer sowie Wirtschaftsprüfungs- und Buchprüfungsgesellschaften, die hinsichtlich des Prüfungsgegenstandes über ausreichende Kenntnisse verfügen.
+1.  der Pflichten nach der Verordnung (EU) 2020/1503 in der jeweils geltenden Fassung und
+
+
+2.  der Vorgaben nach den Artikeln 5 bis 14, 16 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung mit einer Delegierten Verordnung nach den Artikeln 15, 16, 20, 28 oder Artikel 30 der Verordnung (EU) 2022/2554, sofern im Einzelfall eine Prüfung dieser Vorschriften nicht auch nach § 78 Absatz 1 des Wertpapierinstitutsgesetzes oder § 29 des Kreditwesengesetzes zu erfolgen hat,
+
+
+
+auch ohne besonderen Anlass Prüfungen bei den Schwarmfinanzierungsdienstleistern im Sinne des Artikels 2 Absatz 1 Buchstabe e der Verordnung (EU) 2020/1503, bei den Unternehmen, mit denen eine Auslagerungsvereinbarung besteht oder bestand, und bei sonstigen zur Durchführung eingeschalteten dritten Personen oder Unternehmen vornehmen.
+
+(2) Unbeschadet des Absatzes 1 ist einmal jährlich durch einen geeigneten Prüfer zu prüfen, ob die Schwarmfinanzierungsdienstleister die nach der Verordnung (EU) 2020/1503 einzuhaltenden Pflichten sowie die in Absatz 1 Nummer 2 angeführten Vorgaben nach der Verordnung (EU) 2022/2554 erfüllen. Die Bundesanstalt kann auf Antrag von der jährlichen Prüfung ganz oder teilweise unter Berücksichtigung der Art und des Umfangs der betriebenen Geschäfte absehen. Der Schwarmfinanzierungsdienstleister hat den geeigneten Prüfer spätestens zum Ablauf desjenigen Geschäftsjahres zu bestellen, auf das sich die Prüfung erstreckt. Bei Schwarmfinanzierungsdienstleistern, die einem genossenschaftlichen Prüfungsverband angehören oder durch die Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden, wird die Prüfung durch den zuständigen Prüfungsverband oder die zuständige Prüfungsstelle, soweit hinsichtlich Letzterer das Landesrecht dies vorsieht, vorgenommen. Geeignete Prüfer sind darüber hinaus Wirtschaftsprüfer, vereidigte Buchprüfer sowie Wirtschaftsprüfungs- und Buchprüfungsgesellschaften, die hinsichtlich des Prüfungsgegenstandes über ausreichende Kenntnisse verfügen.
 
 (3) Über die Prüfung nach Absatz 2 ist ein Prüfungsbericht zu erstellen und auf Anforderung der Bundesanstalt vorzulegen. Die wesentlichen Prüfungsergebnisse sind in einem Fragebogen zusammenzufassen, der dem Prüfungsbericht beizufügen ist. Der Fragebogen ist auch dann bei der Bundesanstalt einzureichen, wenn ein Prüfungsbericht nach Satz 1 nicht angefordert wird. Der Fragebogen ist unverzüglich nach Beendigung der Prüfung einzureichen.
 
@@ -3150,7 +3180,7 @@ Wertpapierdienstleistungsunternehmen, die als systematischer Internalisierer tä
 
 (1) Ein Wertpapierdienstleistungsunternehmen muss die organisatorischen Pflichten nach § 25a Absatz 1 und § 25e des Kreditwesengesetzes oder, sofern es sich um ein Wertpapierinstitut handelt, nach § 28 Absatz 1 und 2 und § 41 des Wertpapierinstitutsgesetzes einhalten. Darüber hinaus muss es
 
-1.  angemessene Vorkehrungen treffen, um die Kontinuität und Regelmäßigkeit der Wertpapierdienstleistungen und Wertpapiernebendienstleistungen zu gewährleisten;
+1.  angemessene Vorkehrungen treffen, um die Kontinuität und Regelmäßigkeit der Wertpapierdienstleistungen und Wertpapiernebendienstleistungen zu gewährleisten; zu diesem Zweck greift es auf geeignete und verhältnismäßige Systeme, einschließlich der nach Artikel 7 der Verordnung (EU) 2022/2554 eingerichteten und verwalteten Systeme der Informations- und Kommunikationstechnologie (IKT), sowie auf geeignete und verhältnismäßige Ressourcen und Verfahren zurück;
 
 
 2.  auf Dauer wirksame Vorkehrungen für angemessene Maßnahmen treffen, um Interessenkonflikte bei der Erbringung von Wertpapierdienstleistungen und Wertpapiernebendienstleistungen oder einer Kombination davon zwischen einerseits ihm selbst einschließlich seiner Geschäftsleitung, seiner Mitarbeiter, seiner vertraglich gebundenen Vermittler und der mit ihm direkt oder indirekt durch Kontrolle im Sinne des Artikels 4 Absatz 1 Nummer 37 der Verordnung (EU) Nr. 575/2013 verbundenen Personen und Unternehmen und andererseits seinen Kunden oder zwischen seinen Kunden untereinander zu erkennen und zu vermeiden oder zu regeln; dies umfasst auch solche Interessenkonflikte, die durch die Annahme von Zuwendungen Dritter sowie durch die eigene Vergütungsstruktur oder sonstige Anreizstrukturen des Wertpapierdienstleistungsunternehmens verursacht werden;
@@ -3159,15 +3189,15 @@ Wertpapierdienstleistungsunternehmen, die als systematischer Internalisierer tä
 3.  im Rahmen der Vorkehrungen nach Nummer 2 Grundsätze oder Ziele, die den Umsatz, das Volumen oder den Ertrag der im Rahmen der Anlageberatung empfohlenen Geschäfte unmittelbar oder mittelbar betreffen (Vertriebsvorgaben), derart ausgestalten, umsetzen und überwachen, dass Kundeninteressen nicht beeinträchtigt werden;
 
 
-4.  über solide Sicherheitsmechanismen verfügen, die die Sicherheit und Authentifizierung der Informationsübermittlungswege gewährleisten, das Risiko der Datenverfälschung und des unberechtigten Zugriffs minimieren und verhindern, dass Informationen bekannt werden, so dass die Vertraulichkeit der Daten jederzeit gewährleistet ist.
+4.  über solide Sicherheitsmechanismen zur Erfüllung der Vorgaben der Verordnung (EU) 2022/2554 verfügen, die die Sicherheit und Authentifizierung der Informationsübermittlungswege gewährleisten, das Risiko der Datenverfälschung und des unberechtigten Zugriffs minimieren und verhindern, dass Informationen bekannt werden, sodass die Vertraulichkeit der Daten jederzeit gewährleistet ist.
 
 
 
-Nähere Bestimmungen zur Organisation der Wertpapierdienstleistungsunternehmen enthalten die Artikel 21 bis 26 der Delegierten Verordnung (EU) 2017/565.
+Nähere Bestimmungen zur Organisation der Wertpapierdienstleistungsunternehmen enthält Kapitel II Abschnitt 1 der Delegierten Verordnung (EU) 2017/565.
 
 (2) Ein Wertpapierdienstleistungsunternehmen muss zusätzlich die in diesem Absatz genannten Bestimmungen einhalten, wenn es in der Weise Handel mit Finanzinstrumenten betreibt, dass ein Computeralgorithmus die einzelnen Auftragsparameter automatisch bestimmt, ohne dass es sich um ein System handelt, das nur zur Weiterleitung von Aufträgen zu einem oder mehreren Handelsplätzen, zur Bearbeitung von Aufträgen ohne die Bestimmung von Auftragsparametern, zur Bestätigung von Aufträgen oder zur Nachhandelsbearbeitung ausgeführter Aufträge verwendet wird (algorithmischer Handel). Auftragsparameter im Sinne des Satzes 1 sind insbesondere Entscheidungen, ob der Auftrag eingeleitet werden soll, über Zeitpunkt, Preis oder Quantität des Auftrags oder wie der Auftrag nach seiner Einreichung mit eingeschränkter oder überhaupt keiner menschlichen Beteiligung bearbeitet wird. Ein Wertpapierdienstleistungsunternehmen, das algorithmischen Handel betreibt, muss über Systeme und Risikokontrollen verfügen, die sicherstellen, dass
 
-1.  seine Handelssysteme belastbar sind, über ausreichende Kapazitäten verfügen und angemessenen Handelsschwellen und Handelsobergrenzen unterliegen;
+1.  seine Handelssysteme entsprechend den Vorgaben in Kapitel II der Verordnung (EU) 2022/2554 belastbar sind, über ausreichende Kapazitäten verfügen und angemessenen Handelsschwellen und Handelsobergrenzen unterliegen;
 
 
 2.  die Übermittlung von fehlerhaften Aufträgen oder eine Funktionsweise des Systems vermieden wird, durch die Störungen auf dem Markt verursacht oder ein Beitrag zu diesen geleistet werden könnten;
@@ -3177,7 +3207,7 @@ Nähere Bestimmungen zur Organisation der Wertpapierdienstleistungsunternehmen e
 
 
 
-Ein Wertpapierdienstleistungsunternehmen, das algorithmischen Handel betreibt, muss ferner über wirksame Notfallvorkehrungen verfügen, um mit unvorgesehenen Störungen in seinen Handelssystemen umzugehen, und sicherstellen, dass seine Systeme vollständig geprüft sind und ordnungsgemäß überwacht werden. Das Wertpapierdienstleistungsunternehmen zeigt der Bundesanstalt und den zuständigen Behörden des Handelsplatzes, dessen Mitglied oder Teilnehmer es ist, an, dass es algorithmischen Handel betreibt.
+Ein Wertpapierdienstleistungsunternehmen, das algorithmischen Handel betreibt, muss ferner über wirksame Vorkehrungen zur Fortführung der Geschäftstätigkeiten, einschließlich der nach Artikel 11 der Verordnung (EU) 2022/2554 aufgestellten IKT-Geschäftsfortführungsleitlinie und -pläne sowie IKT-Reaktions- und -Wiederherstellungspläne, verfügen, um mit jeglichen Störungen in ihren Handelssystemen umzugehen und sicherzustellen, dass ihre Systeme vollständig getestet sind und ordnungsgemäß überwacht werden, damit die in diesem Absatz festgelegten allgemeinen Vorgaben und die in den Kapiteln II und IV der Verordnung (EU) 2022/2554 festgelegten spezifischen Vorgaben erfüllt werden. Das Wertpapierdienstleistungsunternehmen zeigt der Bundesanstalt und den zuständigen Behörden des Handelsplatzes, dessen Mitglied oder Teilnehmer es ist, an, dass es algorithmischen Handel betreibt.
 
 (3) Ein Wertpapierdienstleistungsunternehmen, das algorithmischen Handel im Sinne des Artikels 18 der Delegierten Verordnung (EU) 2017/565 betreibt, hat ausreichende Aufzeichnungen zu den in Absatz 2 genannten Angelegenheiten für mindestens fünf Jahre aufzubewahren. Nutzt das Wertpapierdienstleistungsunternehmen eine hochfrequente algorithmische Handelstechnik, müssen diese Aufzeichnungen insbesondere alle von ihm platzierten Aufträge einschließlich Auftragsstornierungen, ausgeführten Aufträge und Kursnotierungen an Handelsplätzen umfassen und chronologisch geordnet aufbewahrt werden. Auf Verlangen der Bundesanstalt sind diese Aufzeichnungen herauszugeben.
 
@@ -6041,6 +6071,11 @@ mit einer Geldbuße bis zum Zweifachen des aus der Zuwiderhandlung gezogenen Vor
 (6) § 120 Absatz 23 und 26 gilt entsprechend.
 
 
+### § 120e Bußgeldvorschriften zur Verordnung (EU) 2022/2554
+
+Zuwiderhandlungen gegen die Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56 Absatz 5e und 6 Nummer 1 und 3 des Kreditwesengesetzes geahndet werden.
+
+
 ### § 121 Zuständige Verwaltungsbehörde
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
@@ -6109,11 +6144,11 @@ zu übermitteln; ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, i
 (4) Eine Bekanntmachung nach Absatz 1 ist fünf Jahre nach ihrer Veröffentlichung zu löschen. Abweichend von Satz 1 sind personenbezogene Daten zu löschen, sobald ihre Bekanntmachung nicht mehr erforderlich ist.
 
 
-### § 125 Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 596/2014, die Verordnung (EU) 2015/2365 und die Verordnung (EU) 2016/1011
+### § 125 Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 596/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011 und die Verordnung (EU) 2022/2554
 
 (1) Die Bundesanstalt macht Entscheidungen über Maßnahmen und Sanktionen, die wegen Verstößen nach den Artikeln 14, 15, 16 Absatz 1 und 2, Artikel 17 Absatz 1, 2, 4, 5 und 8, Artikel 18 Absatz 1 bis 6, Artikel 19 Absatz 1, 2, 3, 5, 6, 7 und 11 und Artikel 20 Absatz 1 der Verordnung (EU) Nr. 596/2014 sowie den Artikeln 4 und 15 der Verordnung (EU) 2015/2365 erlassen wurden, unverzüglich nach Unterrichtung der natürlichen oder juristischen Person, gegen die die Maßnahme oder Sanktion verhängt wurde, auf ihrer Internetseite bekannt. Dies gilt nicht für Entscheidungen über Ermittlungsmaßnahmen.
 
-(2) In der Bekanntmachung benennt die Bundesanstalt die Vorschrift, gegen die verstoßen wurde, und die für den Verstoß verantwortliche natürliche oder juristische Person oder Personenvereinigung.
+(2) In der Bekanntmachung benennt die Bundesanstalt die Vorschrift, gegen die verstoßen wurde, und die für den Verstoß verantwortliche natürliche oder juristische Person oder Personenvereinigung. Die Bundesanstalt macht bestandskräftige Maßnahmen und unanfechtbar gewordene Bußgeldentscheidungen, die wegen Verstößen gegen die Verordnung (EU) 2022/2554 oder die jeweils darauf basierenden delegierten Rechtsakte erlassen wurden, auf ihrer Internetseite unverzüglich bekannt.
 
 (3) Ist die Bekanntmachung der Identität einer von der Entscheidung betroffenen juristischen Person oder der personenbezogenen Daten einer natürlichen Person unverhältnismäßig oder würde die Bekanntmachung laufende Ermittlungen oder die Stabilität der Finanzmärkte gefährden, so
 

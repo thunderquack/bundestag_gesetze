@@ -47,7 +47,7 @@ Fundstelle
 2.  nach Artikel 48 der Verordnung (EU) 2023/1114 E-Geld-Token öffentlich anbieten oder deren Zulassung zum Handel beantragen sowie
 
 
-3.  (zukünftig in Kraft).
+3.  nach Artikel 59 oder Artikel 60 der Verordnung (EU) 2023/1114 Kryptowerte-Dienstleistungen erbringen.
 
 
 
@@ -717,7 +717,27 @@ Im Falle einer Untersagung nach Satz 1 bestellt das Gericht am Sitz des Institut
 (8) Die Bundesanstalt kann in den Fällen des Absatzes 7 auch gegenüber einem die qualifizierte Beteiligung begründenden Unternehmen anordnen, Weisungen des Inhabers einer qualifizierten Beteiligung, der an dem begründenden Unternehmen beteiligt ist, nicht zu befolgen.
 
 
-#### § 26 (zukünftig in Kraft)
+#### § 26 Digitale operationale Resilienz
+
+(1) Die Bundesanstalt kann unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse bei Verstößen gegen die Verordnung (EU) 2022/2554 im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, um die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 im Anwendungsbereich dieses Gesetzes sicherzustellen. Insbesondere kann sie gegenüber einem Institut anordnen,
+
+1.  das Verhalten, das gegen die Verordnung (EU) 2022/2554 verstößt, zu unterlassen und von einer Wiederholung abzusehen,
+
+
+2.  Praktiken oder Verhaltensweisen, die der Verordnung (EU) 2022/2554 zuwiderlaufen, vorübergehend oder dauerhaft einzustellen und nicht zu wiederholen,
+
+
+3.  sicherzustellen, dass weiterhin die rechtlichen Vorgaben der Verordnung (EU) 2022/2554 erfüllt werden und
+
+
+4.  Korrektur- und Abhilfemaßnahmen vorzunehmen.
+
+
+
+
+(2) Die Bundesanstalt und die Deutsche Bundesbank können Untersuchungen über die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 im Anwendungsbereich dieses Gesetzes vornehmen. Unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse kann die Bundesanstalt zu diesem Zweck Mitglieder der Organe eines Instituts zu einer Befragung vorladen, damit diese mündliche oder schriftliche Erklärungen zu Sachverhalten oder Unterlagen abgeben, die mit Gegenstand und Zweck der Untersuchung in Zusammenhang stehen, und die mündlichen Erklärungen aufzeichnen. § 20 Absatz 3 gilt entsprechend. Die Bundesanstalt kann die Durchführung der Befragung auf die Deutsche Bundesbank übertragen.
+
+(3) Die Absätze 1 und 2 gelten nicht für CRR-Kreditinstitute, E-Geld-Institute und Anbieter von Kryptowerte-Dienstleistungen nach Artikel 59 Absatz 1 Buchstabe b der Verordnung (EU) 2023/1114.
 
 
 ### Abschnitt 2 - Sonderbestimmungen für Emittenten vermögenswertreferenzierter Token und E-Geld-Token
@@ -753,21 +773,122 @@ Im Falle einer Untersagung nach Satz 1 bestellt das Gericht am Sitz des Institut
 (9) Die Absätze 1 bis 8 gelten entsprechend für die von Emittenten von E-Geld-Token mit einer Erlaubnis nach § 11 des Zahlungsdiensteaufsichtsgesetzes entgegengenommenen Geldbeträge, die nach Artikel 54 der Verordnung (EU) 2023/1114 hinterlegt oder investiert wurden.
 
 
-### Abschnitt 3 - (zukünftig in Kraft)
+### Abschnitt 3 - Sonderbestimmungen für Anbieter von Kryptowerte-Dienstleistungen
 
 
 #### (XXXX) §§ 29 und 30 (zukünftig in Kraft)
 
 
+#### § 29 Aussetzung und Untersagung der Erbringung von Kryptowerte-Dienstleistungen; Einschreiten bei Erbringung von Kryptowerte-Dienstleistungen entgegen Artikel 60 der Verordnung (EU) 2023/1114
+
+(1) Die Bundesanstalt kann gegenüber Anbietern von Kryptowerte-Dienstleistungen anordnen, dass diese Anbieter ihre Tätigkeit auszusetzen haben, wenn
+
+1.  ein hinreichend begründeter Verdacht besteht, dass gegen die Verordnung (EU) 2023/1114 oder dieses Gesetz verstoßen worden ist,
+
+
+2.  ein Verstoß des Anbieters von Kryptowerte-Dienstleistungen gegen einen der Artikel 88 bis 92 der Verordnung (EU) 2023/1114 vorliegt oder
+
+
+3.  Tatsachen die Annahme rechtfertigen, dass die Erbringung der Kryptowerte-Dienstleistungen angesichts der Lage des Anbieters der Kryptowerte-Dienstleistungen den Interessen der Kunden, insbesondere der Kleinanleger, abträglich wäre.
+
+
+
+Im Falle des Satzes 1 Nummer 1 darf die Aussetzung 30 Tage nicht überschreiten.
+
+(2) Die Bundesanstalt kann die Erbringung von Kryptowerte-Dienstleistungen untersagen, wenn sie feststellt, dass gegen die Verordnung (EU) 2023/1114 oder dieses Gesetz verstoßen worden ist.
+
+(3) Erbringen ein CRR-Kreditinstitut, ein Zentralverwahrer, ein Wertpapierinstitut, ein Finanzdienstleistungsinstitut, ein E-Geld-Institut, eine OGAW-Verwaltungsgesellschaft oder ein Verwalter alternativer Investmentfonds nach Artikel 59 Absatz 1 Buchstabe b der Verordnung (EU) 2023/1114 Kryptowerte-Dienstleistungen, ohne der Bundesanstalt 40 Tage vor der erstmaligen Erbringung dieser Kryptowerte-Dienstleistungen die nach Artikel 60 Absatz 7 der Verordnung (EU) 2023/1114 erforderlichen Informationen übermittelt zu haben, kann die Bundesanstalt die Einstellung der Erbringung dieser Kryptowerte-Dienstleistungen anordnen.
+
+
+#### § 30 Bekanntmachung wesentlicher Informationen zu Anbietern von Kryptowerte-Dienstleistungen
+
+Die Bundesanstalt kann zur Gewährleistung des Schutzes der Interessen der Kunden von Anbietern von Kryptowerte-Dienstleistungen, insbesondere der Kleinanleger, oder des reibungslosen Funktionierens des Marktes alle wesentlichen Informationen, die die Erbringung der Kryptowerte-Dienstleistungen beeinflussen können, bekannt machen oder vom Anbieter der Kryptowerte-Dienstleistung die Bekanntmachung dieser Informationen verlangen. Die Kosten, die der Bundesanstalt durch die in Satz 1 vorgenommene Bekanntmachung entstehen, sind ihr von dem Anbieter der Kryptowerte-Dienstleistung gesondert zu erstatten und auf Verlangen der Bundesanstalt vorzuschießen.
+
+
 ### Abschnitt 4 - Handel auf Handelsplattformen für Kryptowerte und Verhinderung von Marktmissbrauch auf Handelsplattformen für Kryptowerte
 
 
-#### (XXXX) §§ 31 bis 35 (zukünftig in Kraft)
+#### § 31 Verfolgung von Marktmissbrauch
+
+(1) Die Bundesanstalt kann zur Verfolgung von Verstößen gegen Titel VI der Verordnung (EU) 2023/1114 von jeder Person, auch von solchen, die nacheinander an der Übermittlung von Aufträgen oder der Ausführung der betreffenden Tätigkeiten beteiligt sind, sowie von deren Auftraggebern
+
+1.  Auskünfte, Unterlagen und Daten und die Überlassung von Kopien fordern und
+
+
+2.  erforderlichenfalls zum Erhalt von Informationen eine Person vorladen und befragen.
+
+
+
+Gesetzliche Auskunfts- und Aussageverweigerungsrechte sowie gesetzliche Verschwiegenheitspflichten bleiben unberührt.
+
+(2) Bedienstete der Bundesanstalt dürfen Geschäfts- und Wohnräume durchsuchen, soweit dies zur Durchsetzung der Verbote und Gebote des Titels VI der Verordnung (EU) 2023/1114 geboten ist. Das Grundrecht auf Unverletzlichkeit der Wohnung nach Artikel 13 Absatz 1 des Grundgesetzes wird insoweit eingeschränkt. Im Rahmen der Durchsuchung dürfen Bedienstete der Bundesanstalt Gegenstände sicherstellen, die als Beweismittel für die Ermittlung des Sachverhalts von Bedeutung sein können. Befinden sich die Gegenstände im Gewahrsam einer Person und werden sie nicht freiwillig herausgegeben, so können Bedienstete der Bundesanstalt die Gegenstände beschlagnahmen. Durchsuchungen und Beschlagnahmen sind, außer bei Gefahr im Verzug, durch das Gericht anzuordnen. Zuständig ist das Amtsgericht Frankfurt am Main. Gegen die richterliche Entscheidung ist die Beschwerde zulässig. Die §§ 306 bis 310 und 311a der Strafprozessordnung gelten entsprechend. Bei Beschlagnahmen ohne richterliche Anordnung gilt § 98 Absatz 2 der Strafprozessordnung entsprechend. Zuständiges Gericht für die nachträglich eingeholte richterliche Entscheidung ist das Amtsgericht Frankfurt am Main. Über die Durchsuchung ist eine Niederschrift zu fertigen. Sie muss die verantwortliche Dienststelle, Grund, Zeit und Ort der Durchsuchung und ihr Ergebnis enthalten.
+
+(3) Die Bundesanstalt kann die Beschlagnahme von Vermögenswerten beantragen, soweit dies zur Durchsetzung der Verbote und Gebote des Titels VI der Verordnung (EU) 2023/1114 geboten ist. Maßnahmen nach Satz 1 sind durch das Gericht anzuordnen. Zuständig ist das Amtsgericht Frankfurt am Main. Gegen eine richterliche Entscheidung ist die Beschwerde zulässig; die §§ 306 bis 310 und 311a der Strafprozessordnung gelten entsprechend.
+
+(4) Die Bundesanstalt kann von einem Telekommunikationsbetreiber die Herausgabe von in dessen Besitz befindlichen bereits existierenden Verkehrsdaten nach den §§ 9 und 12 des Telekommunikation-Telemedien-Datenschutz-Gesetzes verlangen, wenn bestimmte Tatsachen den Verdacht begründen, dass jemand gegen Titel VI der Verordnung (EU) 2023/1114 verstoßen hat, soweit dies zur Erforschung des Sachverhalts erforderlich ist. § 100a Absatz 3 und 4 und § 100e Absatz 1, 3 und 5 Satz 1 der Strafprozessordnung gelten entsprechend mit der Maßgabe, dass die Bundesanstalt antragsberechtigt ist. Zuständig ist das Amtsgericht Frankfurt am Main. Gegen die richterliche Entscheidung ist die Beschwerde zulässig; die §§ 306 bis 310 und 311a der Strafprozessordnung gelten entsprechend. Das Grundrecht des Brief- und Fernmeldegeheimnisses nach Artikel 10 des Grundgesetzes wird insoweit eingeschränkt.
+
+(5) Die Bundesanstalt kann von Instituten die Herausgabe von bereits existierenden Aufzeichnungen von Telefongesprächen, elektronischen Mitteilungen oder Verkehrsdaten nach den §§ 9 und 12 des Telekommunikation-Telemedien-Datenschutz-Gesetzes, die sich im Besitz dieser Unternehmen befinden, verlangen, soweit dies aufgrund von Anhaltspunkten für die Überwachung der Einhaltung eines Verbots nach den Artikeln 89 und 91 der Verordnung (EU) 2023/1114 erforderlich ist. Das Grundrecht des Brief- und Fernmeldegeheimnisses nach Artikel 10 Absatz 1 des Grundgesetzes wird insoweit eingeschränkt.
+
+(6) Soweit und solange Tatsachen die Annahme rechtfertigen oder feststeht, dass eine Person gegen die Artikel 89 bis 91 der Verordnung (EU) 2023/1114 verstoßen hat, kann die Bundesanstalt ihr vorübergehend die Ausübung ihrer beruflichen Tätigkeit untersagen.
+
+(7) Bei Verstößen gegen Titel VI der Verordnung (EU) 2023/1114 kann die Bundesanstalt von der verantwortlichen natürlichen oder juristischen Person verlangen, dass die den Verstoß begründende Handlung oder Verhaltensweise dauerhaft eingestellt und von einer Wiederholung abgesehen wird.
+
+
+#### § 32 Verschwiegenheitspflicht bei Maßnahmen wegen eines möglichen Verstoßes gegen Artikel 89 oder 91 der Verordnung (EU) 2023/1114
+
+Die Adressaten von Maßnahmen nach § 31, die von der Bundesanstalt wegen eines möglichen Verstoßes gegen ein Verbot nach Artikel 89 oder 91 der Verordnung (EU) 2023/1114 ergriffen werden, dürfen andere Personen als Mitarbeiter staatlicher Stellen und Personen, die aufgrund ihres Berufs einer gesetzlichen Verschwiegenheitspflicht unterliegen, von diesen Maßnahmen oder von einem daraufhin eingeleiteten Ermittlungsverfahren nicht in Kenntnis setzen.
+
+
+#### § 33 Anzeige straftatbegründender Tatsachen
+
+Die Bundesanstalt hat Tatsachen, die den Verdacht einer Straftat nach § 46 Absatz 1 Nummer 4 bis 6 oder Absatz 2 begründen, der zuständigen Staatsanwaltschaft unverzüglich anzuzeigen. Sie kann die personenbezogenen Daten der betroffenen Personen, gegen die sich der Verdacht richtet oder die als Zeugen in Betracht kommen, der Staatsanwaltschaft übermitteln, soweit dies für Zwecke der Strafverfolgung erforderlich ist. Die Staatsanwaltschaft entscheidet über die Vornahme der erforderlichen Ermittlungsmaßnahmen, insbesondere über Durchsuchungen, nach den Vorschriften der Strafprozessordnung. Die Befugnisse der Bundesanstalt bleiben hiervon unberührt, soweit dies für die Vornahme von Verwaltungsmaßnahmen oder zur Erfüllung von Ersuchen ausländischer Stellen nach Artikel 95 Absatz 3 bis 5 der Verordnung (EU) 2023/1114 erforderlich ist und soweit eine Gefährdung des Untersuchungszwecks von Ermittlungen der Strafverfolgungsbehörden oder der für Strafsachen zuständigen Gerichte nicht zu besorgen ist.
+
+
+#### § 34 Aussetzung des Handels und Ausschluss von Kryptowerten vom Handel; Maßnahmen in Bezug auf mit dem Kryptowert verbundene Derivate
+
+(1) Der Betreiber einer Handelsplattform für Kryptowerte kann den Handel mit einem Kryptowert aussetzen oder den Kryptowert vom Handel ausschließen, wenn dies zur Sicherung eines ordnungsgemäßen Handels oder zum Schutz des Publikums geboten erscheint, insbesondere, wenn
+
+1.  der Kryptowert den Regeln der Handelsplattform nicht mehr entspricht,
+
+
+2.  der Kryptowert nicht mehr für die Handelsplattform geeignet ist,
+
+
+3.  der Verdacht einer Marktmanipulation nach Artikel 91 der Verordnung (EU) 2023/1114 oder einer Nichtveröffentlichung von Insiderinformationen entgegen Artikel 88 der Verordnung (EU) 2023/1114 in Bezug auf den Kryptowert besteht oder
+
+
+4.  ein Übernahmeangebot in Bezug auf den Emittenten des Kryptowertes veröffentlicht wurde.
+
+
+
+Eine Maßnahme nach Satz 1 unterbleibt, wenn sie die Interessen der betroffenen Inhaber der Kryptowerte oder das ordnungsgemäße Funktionieren des Marktes erheblich beeinträchtigen könnte. Der Betreiber veröffentlicht die Entscheidungen nach Satz 1 und teilt sie unverzüglich der Bundesanstalt mit. Die Befugnisse der Bundesanstalt nach § 15 bleiben unberührt.
+
+(2) Wird ein Kryptowert, der in den in Absatz 1 Satz 1 Nummer 3 oder Nummer 4 genannten Fällen Gegenstand einer Maßnahme nach Absatz 1 Satz 1 ist, an einer anderen Handelsplattform für Kryptowerte gehandelt, so ordnet die Bundesanstalt Maßnahmen nach Absatz 1 Satz 1 an. Absatz 1 Satz 2 gilt entsprechend.
+
+(3) Wird ein Derivat, das mit einem Kryptowert nach Absatz 1 Satz 1 Nummer 3 oder Nummer 4 verbunden ist oder sich auf einen solchen bezieht, an einem inländischen multilateralen oder organisierten Handelssystem im Sinne des § 2 Absatz 8 Satz 1 Nummer 8 und 9 des Wertpapierhandelsgesetzes oder durch einen inländischen systematischen Internalisierer im Sinne des § 2 Absatz 8 Satz 1 Nummer 2 Buchstabe b des Wertpapierhandelsgesetzes gehandelt, so ordnet die Bundesanstalt Maßnahmen nach § 73 Absatz 1 Satz 1 des Wertpapierhandelsgesetzes an. § 73 Absatz 1 Satz 3 des Wertpapierhandelsgesetzes gilt entsprechend.
+
+(4) Die Bundesanstalt kann auch gegenüber dem Betreiber einer Handelsplattform für Kryptowerte anordnen, den Handel mit einem Kryptowert für bis zu 30 Tage auszusetzen, wenn Tatsachen die Annahme rechtfertigen,
+
+1.  dass gegen die Vorgaben der Verordnung (EU) 2023/1114 oder dieses Gesetzes verstoßen wurde oder
+
+
+2.  dass die Lage des Emittenten oder des Antragstellers den Interessen der Inhaber der Kryptowerte, insbesondere der Kleinanleger, abträglich wäre.
+
+
+
+Unter den Voraussetzungen des Satzes 1 kann die Bundesanstalt den Handel mit einem Kryptowert an einer Handelsplattform für Kryptowerte auch untersagen. Die Bundesanstalt kann eine Anordnung nach den Sätzen 1 und 2 durch Allgemeinverfügung treffen.
+
+
+#### § 35 Bekanntmachung marktrelevanter Informationen zum Handel zugelassener Kryptowerte
+
+(1) Die Bundesanstalt kann alle erforderlichen Maßnahmen ergreifen, um sicherzustellen, dass die Öffentlichkeit im Falle eines Verstoßes gegen Titel VI der Verordnung (EU) 2023/1114 ordnungsgemäß informiert wird, unter anderem durch Richtigstellung falscher oder irreführender offengelegter Information. Sie kann insbesondere einen Anbieter, einen Antragsteller, einen Emittenten oder eine andere Person, die falsche oder irreführende Informationen veröffentlicht oder verbreitet hat, anweisen, eine Berichtigung zu veröffentlichen.
+
+(2) Die Bundesanstalt kann eine nach Artikel 88 Absatz 1 der Verordnung (EU) 2023/1114 gebotene Bekanntgabe auf Kosten des nach Artikel 88 Absatz 1 der Verordnung (EU) 2023/1114 Verpflichteten vornehmen, wenn die Bekanntgabepflicht nicht, nicht richtig, nicht vollständig oder nicht in der vorgesehenen Weise erfüllt wird. Sie kann dies auch von einem Pflichtigen nach Satz 1 verlangen. Die Kosten, die der Bundesanstalt durch eine nach Satz 1 vorgenommene Bekanntmachung entstehen, sind ihr vom Verpflichteten gesondert zu erstatten und auf Verlangen vorzuschießen.
 
 
 #### § 36 Übermittlung von Insiderinformationen; Verordnungsermächtigung
 
-(1) (zukünftig in Kraft)
+(1) Ein Emittent, Anbieter oder Antragsteller, der nach Artikel 88 Absatz 1 der Verordnung (EU) 2023/1114 verpflichtet ist, Insiderinformationen zu veröffentlichen und für den oder die die Bundesrepublik Deutschland Herkunftsmitgliedstaat nach Artikel 3 Absatz 1 Nummer 33 der Verordnung (EU) 2023/1114 ist, hat diese Insiderinformationen unverzüglich nach ihrer Veröffentlichung der Bundesanstalt zu übermitteln.
 
 (2) Das Bundesministerium der Finanzen kann im Benehmen mit der Deutschen Bundesbank durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 
@@ -973,7 +1094,13 @@ Es soll die Bundesanstalt vor Anordnung von Sicherungsmaßnahmen im Rahmen des I
 (5) Die Absätze 1 bis 4 gelten nicht für CRR-Kreditinstitute und E-Geld-Institute.
 
 
-### § 45 (zukünftig in Kraft)
+### § 45 Zuordnung verwahrter Kryptowerte, Kosten der Aussonderung
+
+(1) Der im Rahmen der Kryptoverwahrung für einen Kunden verwahrte Kryptowert gilt als dem Kunden gehörig. Das gilt nicht, wenn der Kunde die Einwilligung zu Verfügungen über den verwahrten Wert für Rechnung des Instituts oder Dritter erteilt hat.
+
+(2) Absatz 1 gilt im Rahmen der Kryptoverwahrung entsprechend für den dem Kunden zustehenden Anteil an Kryptowerten in gemeinschaftlicher Verwahrung sowie für isoliert verwahrte private kryptografische Schlüssel.
+
+(3) Stimmt der Kunde im Insolvenzverfahren über das Vermögen des Instituts einer Aussonderung im Wege einer Übertragung des vom Institut verwahrten Gesamtbestands auf ein vom Insolvenzverwalter bestimmtes Institut, welches die Kryptoverwahrung betreibt, nicht zu, trägt er die Kosten der Aussonderung. Dies gilt nicht, wenn die Bedingungen, zu denen das andere Institut eine Fortführung des Verwahrverhältnisses anbietet, für den Kunden unzumutbar sind. Die Sätze 1 und 2 sind auf die Übertragung wesentlicher Teile des verwahrten Gesamtbestands entsprechend anzuwenden.
 
 
 ## Kapitel 7 - Straf- und Bußgeldvorschriften

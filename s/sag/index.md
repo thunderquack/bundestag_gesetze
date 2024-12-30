@@ -1309,7 +1309,7 @@ Sofern möglich und angezeigt, sollen die Angaben im Abwicklungsplan mengen- und
 2.  eine zusammenfassende Darstellung der seit Vorlage des letzten Abwicklungsplans eingetretenen wesentlichen Veränderungen innerhalb des Instituts,
 
 
-3.  Ausführungen dazu, wie kritische Funktionen und wesentliche Geschäftsaktivitäten im erforderlichen Umfang rechtlich und wirtschaftlich von anderen Funktionen getrennt werden könnten, um deren Fortführung nach einem Ausfall des Instituts zu gewährleisten,
+3.  Ausführungen dazu, wie kritische Funktionen und wesentliche Geschäftsaktivitäten im erforderlichen Umfang rechtlich und wirtschaftlich von anderen Funktionen getrennt werden könnten, um deren Fortführung und die digitale operationelle Resilienz nach einem Ausfall des Instituts zu gewährleisten,
 
 
 4.  eine Analyse, unter welchen zeitlichen und sachlichen Voraussetzungen das Institut bei Berücksichtigung der im Abwicklungsplan diskutierten Umstände Zentralbankfazilitäten, die nicht unter Absatz 2 Satz 1 Nummer 3 Buchstabe b fallen, in Anspruch nehmen kann; in diesem Zusammenhang sollen auch Vermögensgegenstände identifiziert werden, die sich als Sicherheiten eignen könnten,
@@ -1354,7 +1354,7 @@ Sofern möglich und angezeigt, sollen die Angaben im Abwicklungsplan mengen- und
 16a. in einem Fall von § 49b Absatz 4, 5 oder 7 einen Zeitplan für die Einhaltung durch die Abwicklungseinheit gemäß § 54,
 
 
-17. eine Beschreibung der wesentlichen Prozesse und Systeme zur Fortführung des Geschäftsbetriebs des Instituts und
+17. eine Beschreibung der wesentlichen Prozesse und Systeme zur Fortführung des Geschäftsbetriebs des Instituts, einschließlich der Netzwerk- und Informationssysteme im Sinne der Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) und
 
 
 18. sofern einschlägig, Einschätzungen des Instituts in Bezug auf den Abwicklungsplan.
