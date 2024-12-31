@@ -19,6 +19,9 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 19.6.2023 I Nr. 157
 
+Änderung durch
+:   Art. 2 V v. 20.12.2024 I Nr. 443 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -239,7 +242,7 @@ Die Bundessteuerberaterkammer und die Steuerberaterkammern können die Steuerber
 
 (1) Die Anmeldung des Postfachinhabers an seinem besonderen elektronischen Steuerberaterpostfach erfolgt mit dem privaten Schlüssel, der seinem besonderen elektronischen Steuerberaterpostfach zugeordnet ist, und dem zugehörigen Zertifikats-Passwort.
 
-(2) Personen, die zur Übermittlung von Dokumenten mit einer nicht-qualifizierten elektronischen Signatur auf sicheren Übermittlungsweg berechtigt sind, müssen sich beim Übermittlungsvorgang mittels des bei der Erstanmeldung nach § 15 Absatz 1 Nummer 1 genutzten Identifizierungsverfahrens authentisieren. Bis zum 31. Dezember 2024 kann zur Authentisierung auch der Mitgliedsausweis der zuständigen Steuerberaterkammer genutzt werden.
+(2) Personen, die zur Übermittlung von Dokumenten mit einer nicht-qualifizierten elektronischen Signatur auf sicheren Übermittlungsweg berechtigt sind, müssen sich beim Übermittlungsvorgang mittels des bei der Erstanmeldung nach § 15 Absatz 1 Nummer 1 genutzten Identifizierungsverfahrens authentisieren. Bis zum 31. Dezember 2026 kann zur Authentisierung auch der Mitgliedsausweis der zuständigen Steuerberaterkammer genutzt werden.
 
 
 ### § 19 Praxisabwickler, Praxistreuhänder, Vertreter und Zustellungsbevollmächtigte

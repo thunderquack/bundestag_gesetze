@@ -88,25 +88,31 @@ Art. 1 dient auch der Umsetzung der Richtlinie 88/627/EWG des Rates der Europäi
     j)  der Verordnung (EU) 2016/1011 des Europäischen Parlaments und des Rates vom 8. Juni 2016 über Indizes, die bei Finanzinstrumenten und Finanzkontrakten als Referenzwert oder zur Messung der Wertentwicklung eines Investmentfonds verwendet werden, und zur Änderung der Richtlinien 2008/48/EG und 2014/17/EU sowie der Verordnung (EU) Nr. 596/2014 (ABl. L 171 vom 29.6.2016, S. 1), in der jeweils geltenden Fassung,
 
 
-    k)  der Verordnung (EU) 2019/2088 des Europäischen Parlaments und des Rates vom 27. November 2019 über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor (ABl. L 317 vom 9.12.2019, S. 1), die durch die Verordnung (EU) 2020/852 (ABl. L 198 vom 22.6.2020, S. 13) geändert worden ist, sofern es sich um Wertpapierdienstleistungsunternehmen handelt, die Anlageberatung oder Finanzportfolioverwaltung betreiben,
+    k)  der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG (ABl. L 168 vom 30.6.2017, S. 12), die zuletzt durch die Verordnung (EU) 2023/2869 (ABl. L 2023/2869, 20.12.2023) geändert worden ist, in der jeweils geltenden Fassung,
 
 
-    l)  der Verordnung (EU) 2019/1238 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1) in der jeweils geltenden Fassung,
+    l)  der Verordnung (EU) 2019/2088 des Europäischen Parlaments und des Rates vom 27. November 2019 über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor (ABl. L 317 vom 9.12.2019, S. 1), die durch die Verordnung (EU) 2020/852 (ABl. L 198 vom 22.6.2020, S. 13) geändert worden ist, sofern es sich um Wertpapierdienstleistungsunternehmen handelt, die Anlageberatung oder Finanzportfolioverwaltung betreiben,
 
 
-    m)  der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und zur Änderung der Verordnung (EU) 2019/2088 (ABl. L 198 vom 22.6.2020, S. 13), sofern es sich um Wertpapierdienstleistungsunternehmen handelt, die Anlageberatung oder Finanzportfolioverwaltung betreiben,
+    m)  der Verordnung (EU) 2019/1238 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1) in der jeweils geltenden Fassung,
 
 
-    n)  der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1) in der jeweils geltenden Fassung,
+    n)  der Verordnung (EU) 2020/852 des Europäischen Parlaments und des Rates vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und zur Änderung der Verordnung (EU) 2019/2088 (ABl. L 198 vom 22.6.2020, S. 13), sofern es sich um Wertpapierdienstleistungsunternehmen handelt, die Anlageberatung oder Finanzportfolioverwaltung betreiben,
 
 
-    o)  der Delegierten Verordnungen und Durchführungsverordnungen der Europäischen Kommission zur Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU (ABl. L 173 vom 12.6.2014, S. 349; L 74 vom 18.3.2015, S. 38; L 188 vom 13.7.2016, S. 28; L 273 vom 8.10.2016, S. 35; L 64 vom 10.3.2017, S. 116; L 278 vom 27.10.2017, S. 56), die zuletzt durch die Verordnung (EU) 2022/858 (ABl. L 151 vom 2.6.2022, S. 1) geändert worden ist, in der jeweils geltenden Fassung,
+    o)  der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1) in der jeweils geltenden Fassung,
 
 
-    p)  der Delegierten Verordnungen und Durchführungsverordnungen der Europäischen Kommission zur Richtlinie 2004/109/EG des Europäischen Parlaments und des Rates vom 15. Dezember 2004 zur Harmonisierung der Transparenzanforderungen in Bezug auf Informationen über Emittenten, deren Wertpapiere zum Handel auf einem geregelten Markt zugelassen sind, und zur Änderung der Richtlinie 2001/34/EG (ABl. L 390 vom 31.12.2004, S. 38), die zuletzt durch die Richtlinie (EU) 2022/2464 (ABl. L 322 vom 16.12.2022, S. 15) geändert worden ist, in der jeweils geltenden Fassung und
+    p)  der Delegierten Verordnungen und Durchführungsverordnungen der Europäischen Kommission zur Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU (ABl. L 173 vom 12.6.2014, S. 349; L 74 vom 18.3.2015, S. 38; L 188 vom 13.7.2016, S. 28; L 273 vom 8.10.2016, S. 35; L 64 vom 10.3.2017, S. 116; L 278 vom 27.10.2017, S. 56), die zuletzt durch die Verordnung (EU) 2022/858 (ABl. L 151 vom 2.6.2022, S. 1) geändert worden ist, in der jeweils geltenden Fassung,
 
 
-    q)  der Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) in der jeweils geltenden Fassung.
+    q)  der Delegierten Verordnungen und Durchführungsverordnungen der Europäischen Kommission zur Richtlinie 2004/109/EG des Europäischen Parlaments und des Rates vom 15. Dezember 2004 zur Harmonisierung der Transparenzanforderungen in Bezug auf Informationen über Emittenten, deren Wertpapiere zum Handel auf einem geregelten Markt zugelassen sind, und zur Änderung der Richtlinie 2001/34/EG (ABl. L 390 vom 31.12.2004, S. 38), die zuletzt durch die Richtlinie (EU) 2022/2464 (ABl. L 322 vom 16.12.2022, S. 15) geändert worden ist, in der jeweils geltenden Fassung und
+
+
+    r)  der Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) in der jeweils geltenden Fassung,
+
+
+    s)  der Verordnung (EU) 2023/2631 des Europäischen Parlaments und des Rates vom 22. November 2023 über europäische grüne Anleihen sowie fakultative Offenlegungen zu als ökologisch nachhaltig vermarkteten Anleihen und zu an Nachhaltigkeitsziele geknüpften Anleihen (ABl. L, 2023/2631, 30.11.2023), die durch die Verordnung (EU) 2023/2869 (ABl. L, 2023/2869, 20.12.2023) geändert worden ist, in der jeweils geltenden Fassung.
 
 
 

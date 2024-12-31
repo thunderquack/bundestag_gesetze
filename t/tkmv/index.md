@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 880
 
+Geändert durch
+:   Art. 1 V v. 20.12.2024 I Nr. 447
+
 [^F822229_01_BJNR088000022]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2018/1972 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über den europäischen Kodex für die elektronische Kommunikation (ABl. L 321 vom 17.12.2018, S. 36; L 334 vom 27.12.2019, S. 164).
 
 
@@ -42,10 +45,10 @@ Ein Internetzugangsdienst für eine angemessene soziale und wirtschaftliche Teil
 
 1.  Bandbreite
 
-    a)  im Download: mindestens 10,0 Megabit pro Sekunde;
+    a)  im Download: mindestens 15,0 Megabit pro Sekunde;
 
 
-    b)  im Upload: mindestens 1,7 Megabit pro Sekunde;
+    b)  im Upload: mindestens 5,0 Megabit pro Sekunde;
 
 
 

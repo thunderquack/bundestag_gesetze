@@ -39,6 +39,12 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 6 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 1 G v. 23.12.2024 I Nr. 449 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 G v. 23.12.2024 I Nr. 449 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## I. - Steuerpflicht
 

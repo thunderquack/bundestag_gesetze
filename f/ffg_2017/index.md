@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 8.12.2023 I Nr. 351
 
+G aufgeh. durch
+:   § 152 Satz 2 G v. 23.12.2024 I Nr. 451 mWv 1.1.2025
+
+Ersetzt durch
+:   G 707-30 v. 23.12.2024 I Nr. 451 (FFG 2025)
+
 [^F796581_01_BJNR341300016]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 241 vom 17.9.2015, S. 1).
 
 

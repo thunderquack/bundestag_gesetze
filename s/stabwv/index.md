@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 5236
 
-Geändert durch
-:   Art. 1 V v. 15.12.2023 I Nr. 375
+Zuletzt geändert durch
+:   Art. 1 V v. 20.12.2024 I Nr. 444
 
 
 ## Eingangsformel
@@ -39,7 +39,7 @@ Diese Verordnung benennt
 
 ## § 2 Nicht kooperative Steuerhoheitsgebiete
 
-Folgende Steuerhoheitsgebiete sind nach Maßgabe des § 2 Absatz 1 des Gesetzes nicht kooperativ und werden im Anhang I der Schlussfolgerungen des Rates zur überarbeiteten EU-Liste nicht kooperativer Länder und Gebiete für Steuerzwecke vom 17. Oktober 2023 (ABl. C 437 vom 23.10.2023, S. 1) als nicht kooperativ genannt:
+(1) Folgende Steuerhoheitsgebiete sind nach Maßgabe des § 2 Absatz 1 des Gesetzes nicht kooperativ und werden im Anhang I der Schlussfolgerungen des Rates zur überarbeiteten EU-Liste nicht kooperativer Länder und Gebiete für Steuerzwecke vom 8. Oktober 2024 (ABl. C 6322 vom 18.10.2024, S. 2) als nicht kooperativ genannt (§ 1 Nummer 1):
 
 1.  Amerikanisch-Samoa (seit dem 24. Dezember 2021),
 
@@ -47,46 +47,50 @@ Folgende Steuerhoheitsgebiete sind nach Maßgabe des § 2 Absatz 1 des Gesetzes 
 2.  Anguilla (seit dem 21. Dezember 2022),
 
 
-3.  Antigua und Barbuda (seit dem 20. Dezember 2023),
+3.  Fidschi (seit dem 24. Dezember 2021),
 
 
-4.  Bahamas (seit dem 21. Dezember 2022),
+4.  Guam (seit dem 24. Dezember 2021),
 
 
-5.  Belize (seit dem 20. Dezember 2023),
+5.  Palau (seit dem 24. Dezember 2021),
 
 
-6.  Fidschi (seit dem 24. Dezember 2021),
+6.  Panama (seit dem 24. Dezember 2021),
 
 
-7.  Guam (seit dem 24. Dezember 2021),
+7.  Russische Föderation (seit dem 20. Dezember 2023),
 
 
-8.  Palau (seit dem 24. Dezember 2021),
+8.  Samoa (seit dem 24. Dezember 2021),
 
 
-9.  Panama (seit dem 24. Dezember 2021),
+9.  Trinidad und Tobago (seit dem 24. Dezember 2021),
 
 
-10. Russische Föderation (seit dem 20. Dezember 2023),
+10. Amerikanische Jungferninseln (seit dem 24. Dezember 2021),
 
 
-11. Samoa (seit dem 24. Dezember 2021),
+11. Vanuatu (seit dem 24. Dezember 2021).
 
 
-12. Seychellen (seit dem 20. Dezember 2023),
 
 
-13. Trinidad und Tobago (seit dem 24. Dezember 2021),
+(2) Folgende Steuerhoheitsgebiete erfüllen nicht länger die Voraussetzungen des § 2 Absatz 1 des Gesetzes (§ 1 Nummer 2):
+
+1.  Antigua und Barbuda (seit dem 8. Oktober 2024),
 
 
-14. Turks-und Caicosinseln (seit dem 21. Dezember 2022),
+2.  Bahamas (seit dem 20. Februar 2024),
 
 
-15. Amerikanische Jungferninseln (seit dem 24. Dezember 2021),
+3.  Belize (seit dem 20. Februar 2024),
 
 
-16. Vanuatu (seit dem 24. Dezember 2021).
+4.  Seychellen (seit dem 20. Februar 2024),
+
+
+5.  Turks- und Caicosinseln (seit dem 20. Februar 2024).
 
 
 

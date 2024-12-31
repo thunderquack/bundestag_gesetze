@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 12 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 8 Abs. 2 G v. 23.12.2024 I Nr. 449 ist berücksichtigt
+
 
 ## Kapitel 1 - Allgemeine Vorschriften
 

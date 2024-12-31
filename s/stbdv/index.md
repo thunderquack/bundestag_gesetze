@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 22.10.2024 I Nr. 320
 
+Änderung durch
+:   Art. 1 V v. 20.12.2024 I Nr. 443 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -91,23 +94,23 @@ Auf Grund des § 158 des Steuerberatungsgesetzes in der Fassung der Bekanntmachu
 
 ### § 5 Sonstige Nachweise
 
-(1) In den Fällen des § 37a Abs. 1 des Gesetzes ist dem Antrag eine Bescheinigung der nach den Vorschriften der Wirtschaftsprüferordnung zuständigen Stelle darüber beizufügen, dass der Bewerber Wirtschaftsprüfer oder vereidigter Buchprüfer ist oder die Prüfung als Wirtschaftsprüfer oder vereidigter Buchprüfer bestanden hat.
+(1) In den Fällen des § 37a Abs. 1 des Steuerberatungsgesetzes ist dem Antrag eine Bescheinigung der nach den Vorschriften der Wirtschaftsprüferordnung zuständigen Stelle darüber beizufügen, dass der Bewerber Wirtschaftsprüfer oder vereidigter Buchprüfer ist oder die Prüfung als Wirtschaftsprüfer oder vereidigter Buchprüfer bestanden hat.
 
-(2) In den Fällen des § 37a Abs. 2 des Gesetzes sind dem Antrag zusätzlich zu den in § 4 Absatz 3 Nummer 1, 2 und 4 genannten Unterlagen beizufügen
+(2) In den Fällen des § 37a Abs. 2 des Steuerberatungsgesetzes sind dem Antrag zusätzlich zu den in § 4 Absatz 3 Nummer 1, 2 und 4 genannten Unterlagen beizufügen
 
 1.  (weggefallen)
 
 
-2.  eine Bescheinigung der zuständigen Stelle eines Mitgliedstaats der Europäischen Union oder eines Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum (Mitgliedstaat oder Vertragsstaat) oder der Schweiz, durch die nachgewiesen wird, dass der Bewerber ein Diplom erlangt hat, mit dem er in diesem Mitgliedstaat oder Vertragsstaat oder der Schweiz zur Hilfe in Steuersachen berechtigt ist, oder eine Bescheinigung im Sinne des § 37a Absatz 3 Satz 3 und 4 des Gesetzes,
+2.  eine Bescheinigung der zuständigen Stelle eines Mitgliedstaats der Europäischen Union oder eines Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum (Mitgliedstaat oder Vertragsstaat) oder der Schweiz, durch die nachgewiesen wird, dass der Bewerber ein Diplom erlangt hat, mit dem er in diesem Mitgliedstaat oder Vertragsstaat oder der Schweiz zur Hilfe in Steuersachen berechtigt ist, oder eine Bescheinigung im Sinne des § 37a Absatz 3 Satz 3 und 4 des Steuerberatungsgesetzes,
 
 
 3.  soweit erforderlich ein Nachweis über die einjährige Tätigkeit in einem Umfang von mindestens 16 Wochenstunden im steuerberatenden Beruf sowie ein oder mehrere Ausbildungsnachweise im Sinne des Artikels 7 Abs. 2 Buchstabe c der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. EU Nr. L 255 S. 22) in der jeweils geltenden Fassung,
 
 
-4.  eine Bescheinigung über eine mindestens dreijährige Berufsausübung in einem Umfang von mindestens 16 Wochenstunden in einem Mitgliedstaat oder Vertragsstaat oder in der Schweiz, sofern dieser Staat ein Diplom, ein Prüfungszeugnis oder einen sonstigen Befähigungsnachweis eines Drittlandes anerkannt hat,
+4.  eine Bescheinigung über eine mindestens einjährige Berufsausübung in einem Umfang von mindestens 16 Wochenstunden in einem Mitgliedstaat oder Vertragsstaat oder in der Schweiz, sofern dieser Staat ein Diplom, ein Prüfungszeugnis oder einen sonstigen Befähigungsnachweis eines Drittlandes anerkannt hat,
 
 
-5.  die Bestimmung der Prüfungsgebiete, die bei der Prüfung gemäß § 37a Abs. 4 Satz 4 des Gesetzes entfallen sollen, sowie ein Nachweis über die für diese Prüfungsgebiete erlangten Kenntnisse.
+5.  die Bestimmung der Prüfungsgebiete, die bei der Prüfung gemäß § 37a Abs. 4 Satz 4 des Steuerberatungsgesetzes entfallen sollen, sowie ein Nachweis über die für diese Prüfungsgebiete erlangten Kenntnisse.
 
 
 
@@ -136,14 +139,14 @@ Der Antrag und die beizufügenden Unterlagen, soweit sie vom Bewerber stammen, s
 
 ### § 8 Antrag auf Befreiung von der Prüfung
 
-(1) § 1 Abs. 1 und § 4 gelten sinngemäß für einen Antrag auf Befreiung von der Prüfung nach § 38 des Gesetzes mit der Maßgabe, daß der Bewerber in der Erklärung nach § 4 Abs. 2 Nr. 3 über etwaige frühere Anträge auf Zulassung zur Prüfung oder auf Befreiung von der Prüfung Auskunft zu geben hat.
+(1) § 1 Abs. 1 und § 4 gelten sinngemäß für einen Antrag auf Befreiung von der Prüfung nach § 38 des Steuerberatungsgesetzes mit der Maßgabe, daß der Bewerber in der Erklärung nach § 4 Abs. 2 Nr. 3 über etwaige frühere Anträge auf Zulassung zur Prüfung oder auf Befreiung von der Prüfung Auskunft zu geben hat.
 
 (2) Der Bewerber hat dem Antrag auf Befreiung von der Prüfung an Stelle der in § 4 Abs. 3 Nr. 2 und 3 genannten Nachweise beizufügen
 
-1.  in den Fällen des § 38 Abs. 1 Nr. 1 des Gesetzes die Bescheinigung einer deutschen Hochschule, der er angehört oder angehört hat, über Art und Dauer seiner Lehrtätigkeit auf dem Gebiet der von den Bundes- oder Landesfinanzbehörden verwalteten Steuern;
+1.  in den Fällen des § 38 Abs. 1 Nr. 1 des Steuerberatungsgesetzes die Bescheinigung einer deutschen Hochschule, der er angehört oder angehört hat, über Art und Dauer seiner Lehrtätigkeit auf dem Gebiet der von den Bundes- oder Landesfinanzbehörden verwalteten Steuern;
 
 
-2.  in den Fällen des § 38 Abs. 1 Nr. 2 bis 4 des Gesetzes eine Bescheinigung
+2.  in den Fällen des § 38 Abs. 1 Nr. 2 bis 4 des Steuerberatungsgesetzes eine Bescheinigung
 
     a)  der letzten Dienstbehörde oder
 
@@ -243,9 +246,9 @@ Die Bewertung mit halben Zwischennoten ist zulässig.
 
 (1) Die schriftliche Prüfung besteht aus drei Aufsichtsarbeiten.
 
-(2) Zwei Aufsichtsarbeiten sind den Prüfungsgebieten nach § 37 Abs. 3 Nr. 1 bis 4 des Gesetzes und eine Aufsichtsarbeit den Gebieten der Buchführung und des Bilanzwesens zu entnehmen. Die Aufsichtsarbeiten können sich daneben jeweils auch auf andere Prüfungsgebiete erstrecken.
+(2) Zwei Aufsichtsarbeiten sind den Prüfungsgebieten nach § 37 Abs. 3 Nr. 1 bis 4 des Steuerberatungsgesetzes und eine Aufsichtsarbeit den Gebieten der Buchführung und des Bilanzwesens zu entnehmen. Die Aufsichtsarbeiten können sich daneben jeweils auch auf andere Prüfungsgebiete erstrecken.
 
-(3) In der Steuerberaterprüfung in Sonderfällen (§ 37a des Gesetzes) sind die Aufsichtsarbeiten den Prüfungsgebieten nach § 37 Abs. 3 Nr. 1 bis 4 des Gesetzes zu entnehmen. Absatz 2 Satz 2 gilt entsprechend.
+(3) In der Steuerberaterprüfung in Sonderfällen (§ 37a des Steuerberatungsgesetzes) sind die Aufsichtsarbeiten den Prüfungsgebieten nach § 37 Abs. 3 Nr. 1 bis 4 des Steuerberatungsgesetzes zu entnehmen. Absatz 2 Satz 2 gilt entsprechend.
 
 
 ### § 17 Ladung zur schriftlichen Prüfung
@@ -422,7 +425,7 @@ Der Aufsichtführende hat an jedem Prüfungstag jeweils eine Niederschrift zu fe
 (2) Ein Auszug aus der Niederschrift ist zu den Akten des Bewerbers zu nehmen.
 
 
-### § 32 Aufbewahrungsfristen
+### § 32 Aufbewahrungspflichten
 
 (1) Die Aufsichtsarbeiten sind bei der zuständigen Steuerberaterkammer für die Dauer von mindestens zwei Jahren nach Eintritt der Bestandskraft der Prüfungsentscheidung aufzubewahren. In den Fällen des § 21 Absatz 1 besteht keine Aufbewahrungspflicht.
 
@@ -430,7 +433,7 @@ Der Aufsichtführende hat an jedem Prüfungstag jeweils eine Niederschrift zu fe
 
 (3) Ein Nachweis über das Bestehen oder über die Befreiung von der Prüfung ist bei der zuständigen Steuerberaterkammer für die Dauer von mindestens 50 Jahren nach Eintritt der Bestandskraft der Verwaltungsentscheidung aufzubewahren.
 
-(4) Unterlagen können auch in elektronischer Form aufbewahrt werden.
+(4) Die in den Absätzen 1 bis 3 genannten Dokumente können auch elektronisch aufbewahrt werden.
 
 
 ### § 33
@@ -465,7 +468,7 @@ Der Aufsichtführende hat an jedem Prüfungstag jeweils eine Niederschrift zu fe
 5.  ob er sich in geordneten wirtschaftlichen Verhältnissen befindet,
 
 
-6.  ob er innerhalb der letzten zwölf Monate strafgerichtlich verurteilt worden ist und ob gegen ihn ein gerichtliches Strafverfahren oder ein Ermittlungsverfahren anhängig ist; Entsprechendes gilt für berufsgerichtliche Verfahren sowie für Bußgeldverfahren nach der Abgabenordnung und nach dem Steuerberatungsgesetz,
+6.  ob er innerhalb der letzten zwölf Monate strafgerichtlich verurteilt worden ist und ob gegen ihn ein gerichtliches Strafverfahren oder ein Ermittlungsverfahren anhängig ist; Entsprechendes gilt für berufsaufsichtliche Verfahren sowie für Bußgeldverfahren nach der Abgabenordnung und nach dem Steuerberatungsgesetz,
 
 
 7.  ob und gegebenenfalls welche Tätigkeit er nach seiner Bestellung neben dem Beruf als Steuerberater weiter ausüben oder übernehmen will,
@@ -475,18 +478,9 @@ Der Aufsichtführende hat an jedem Prüfungstag jeweils eine Niederschrift zu fe
 
 
 
-Ein Bewerber, der nach § 38 Abs. 1 des Gesetzes von der Prüfung befreit wurde, muss außerdem eine Erklärung darüber abgeben, ob innerhalb der letzten zwölf Monate disziplinarrechtliche Maßnahmen gegen ihn verhängt worden sind und ob disziplinarrechtliche Ermittlungen gegen ihn anhängig sind oder innerhalb der letzten zwölf Monate anhängig waren.
+Ein Bewerber, der nach § 38 Abs. 1 des Steuerberatungsgesetzes von der Prüfung befreit wurde, muss außerdem eine Erklärung darüber abgeben, ob innerhalb der letzten zwölf Monate disziplinarrechtliche Maßnahmen gegen ihn verhängt worden sind und ob disziplinarrechtliche Ermittlungen gegen ihn anhängig sind oder innerhalb der letzten zwölf Monate anhängig waren.
 
-(4) Dem Antrag sind beizufügen:
-
-1.  eine beglaubigte Abschrift der Bescheinigung der zuständigen Stelle über die erfolgreich abgelegte Steuerberaterprüfung oder die Befreiung von dieser Prüfung,
-
-
-2.  ein Passbild.
-
-
-
-Ist der Bewerber Rechtsanwalt, niedergelassener europäischer Rechtsanwalt, Wirtschaftsprüfer oder vereidigter Buchprüfer, so hat er außerdem eine Bescheinigung der für ihn zuständigen Berufsorganisation oder sonst zuständigen Stelle beizufügen, dass keine Tatsachen bekannt sind, die die Rücknahme oder den Widerruf der Zulassung oder Bestellung oder die Einleitung eines berufsgerichtlichen Verfahrens gegen ihn rechtfertigen.
+(4) Dem Antrag ist eine beglaubigte Abschrift der Bescheinigung der zuständigen Stelle über die erfolgreich abgelegte Steuerberaterprüfung oder die Befreiung von dieser Prüfung beizulegen. Ist der Bewerber Rechtsanwalt, niedergelassener europäischer Rechtsanwalt, Wirtschaftsprüfer oder vereidigter Buchprüfer, so hat er außerdem eine Bescheinigung der für ihn zuständigen Berufsorganisation oder sonst zuständigen Stelle beizufügen, dass keine Tatsachen bekannt sind, die die Rücknahme oder den Widerruf der Zulassung oder Bestellung oder die Einleitung eines berufsaufsichtlichen Verfahrens gegen ihn rechtfertigen.
 
 (5) Die Steuerberaterkammer prüft die Angaben des Bewerbers auf Vollständigkeit und Richtigkeit. Sie kann vor einer Entscheidung erforderlichenfalls weitere Ermittlungen anstellen.
 
@@ -533,9 +527,9 @@ Weitere Berufsbezeichnungen des Bewerbers sind in die Berufsurkunde nicht aufzun
 
 (2) Der Antrag auf Wiederbestellung ist nach amtlich vorgeschriebenem Vordruck zu stellen. § 34 Abs. 3 bis 5 gilt entsprechend.
 
-(3) Die bestellende Steuerberaterkammer prüft, ob die Voraussetzungen des § 40 Abs. 2 und 3 des Gesetzes gegeben sind. Vor der Entscheidung ist die Steuerberaterkammer zu hören, der der Bewerber im Zeitpunkt des Erlöschens oder des Widerrufs der Bestellung angehört hat. § 40 Abs. 4 des Gesetzes ist sinngemäß anzuwenden.
+(3) Die bestellende Steuerberaterkammer prüft, ob die Voraussetzungen des § 40 Abs. 2 und 3 des Steuerberatungsgesetzes gegeben sind. Vor der Entscheidung ist die Steuerberaterkammer zu hören, der der Bewerber im Zeitpunkt des Erlöschens oder des Widerrufs der Bestellung angehört hat. § 40 Abs. 4 des Steuerberatungsgesetzes ist sinngemäß anzuwenden.
 
-(4) Unter den Voraussetzungen des § 48 des Gesetzes können auch Personen wiederbestellt werden, die ohne nochmalige Bestellung die Eigenschaft als Steuerberater oder Steuerbevollmächtigter erlangt hatten (§ 154 Abs. 1 und 3 des Gesetzes in der bis zum 30. Juni 2000 geltenden Fassung).
+(4) Unter den Voraussetzungen des § 48 des Steuerberatungsgesetzes können auch Personen wiederbestellt werden, die ohne nochmalige Bestellung die Eigenschaft als Steuerberater oder Steuerbevollmächtigter erlangt hatten (§ 154 Abs. 1 und 3 des Steuerberatungsgesetzes in der bis zum 30. Juni 2000 geltenden Fassung).
 
 
 ### § 39
@@ -629,9 +623,9 @@ Nicht erforderlich ist, dass alle Gebiete Gegenstand der Prüfung sind. Die auf 
 
 (5) Die mündliche Prüfung wird vom Vorsitzenden des Sachkunde-Ausschusses geleitet. Er ist berechtigt, jederzeit in die Prüfung einzugreifen. Im unmittelbaren Anschluss an die mündliche Prüfung berät der Sachkunde-Ausschuss über das Ergebnis der Prüfung. Der Vorsitzende eröffnet hierauf den Antragstellern, ob sie die Prüfung nach der Entscheidung des Sachkunde-Ausschusses bestanden haben; eine Note wird nicht erteilt.
 
-(6) Für die Befreiung von der mündlichen Prüfung hat der Antragsteller neben einer einschlägigen Ausbildung nachzuweisen, dass er vor der Antragstellung mindestens fünf buchführende land- und forstwirtschaftliche Betriebe drei Jahre lang steuerlich beraten hat. Die steuerliche Beratung kann auch im Rahmen einer Tätigkeit als Angestellter nach § 58 des Gesetzes erfolgt sein.
+(6) Für die Befreiung von der mündlichen Prüfung hat der Antragsteller neben einer einschlägigen Ausbildung nachzuweisen, dass er vor der Antragstellung mindestens fünf buchführende land- und forstwirtschaftliche Betriebe drei Jahre lang steuerlich beraten hat. Die steuerliche Beratung kann auch im Rahmen einer Tätigkeit als Angestellter nach § 58 des Steuerberatungsgesetzes erfolgt sein.
 
-(7) Einschlägig im Sinne des § 44 Abs. 2 Satz 2 des Gesetzes ist eine Ausbildung, die Kenntnisse auf den in Absatz 3 genannten Gebieten vermittelt. Dazu rechnen insbesondere
+(7) Einschlägig im Sinne des § 44 Abs. 2 Satz 2 des Steuerberatungsgesetzes ist eine Ausbildung, die Kenntnisse auf den in Absatz 3 genannten Gebieten vermittelt. Dazu rechnen insbesondere
 
 1.  ein erfolgreich abgeschlossenes Hochschulstudium der Agrarwissenschaften oder
 
@@ -642,7 +636,7 @@ Nicht erforderlich ist, dass alle Gebiete Gegenstand der Prüfung sind. Die auf 
 
 Die Teilnahme an einem fachbezogenen Seminar bzw. Lehrgang ohne Abschlussprüfung oder sonstigen Leistungsnachweis der einzelnen Teilnehmer reicht nicht aus.
 
-(8) Nachweise über eine einschlägige Ausbildung und über die praktische Tätigkeit im Sinne des § 44 Abs. 2 Satz 2 des Gesetzes sind dem Antrag beizufügen. Antrag und Nachweise hat die Steuerberaterkammer der für die Landwirtschaft zuständigen obersten Landesbehörde oder der von ihr benannten Behörde und, soweit der Antragsteller Rechtsanwalt oder niedergelassener europäischer Rechtsanwalt ist, der für die berufliche Niederlassung zuständigen Rechtsanwaltskammer zur Stellungnahme zuzuleiten.
+(8) Nachweise über eine einschlägige Ausbildung und über die praktische Tätigkeit im Sinne des § 44 Abs. 2 Satz 2 des Steuerberatungsgesetzes sind dem Antrag beizufügen. Antrag und Nachweise hat die Steuerberaterkammer der für die Landwirtschaft zuständigen obersten Landesbehörde oder der von ihr benannten Behörde und, soweit der Antragsteller Rechtsanwalt oder niedergelassener europäischer Rechtsanwalt ist, der für die berufliche Niederlassung zuständigen Rechtsanwaltskammer zur Stellungnahme zuzuleiten.
 
 (9) Über die Ablehnung eines Antrags auf Befreiung von der mündlichen Prüfung ist ein schriftlicher Bescheid zu erteilen.
 
@@ -710,11 +704,11 @@ Die Teilnahme an einem fachbezogenen Seminar bzw. Lehrgang ohne Abschlussprüfun
 
 ### § 51 Versicherungspflicht
 
-(1) Selbständige Steuerberater und Steuerbevollmächtigte sowie Berufsausübungsgesellschaften sind verpflichtet, sich gegen die sich aus ihrer Berufstätigkeit (§§ 33, 57 Absatz 3 Nummer 2 und 3 des Gesetzes) ergebenden Haftpflichtgefahren für Vermögensschäden zu versichern und die Versicherung während der Dauer ihrer Bestellung oder Anerkennung aufrechtzuerhalten. Der Versicherungsschutz muss sich auch auf solche Vermögensschäden erstrecken, für die der Versicherungsnehmer nach § 278 oder § 831 des Bürgerlichen Gesetzbuchs einzustehen hat.
+(1) Selbständige Steuerberater und Steuerbevollmächtigte sowie Berufsausübungsgesellschaften sind verpflichtet, sich gegen die sich aus ihrer Berufstätigkeit (§§ 33, 57 Absatz 3 Nummer 2 und 3 des Steuerberatungsgesetzes) ergebenden Haftpflichtgefahren für Vermögensschäden zu versichern und die Versicherung während der Dauer ihrer Bestellung oder Anerkennung aufrechtzuerhalten. Der Versicherungsschutz muss sich auch auf solche Vermögensschäden erstrecken, für die der Versicherungsnehmer nach § 278 oder § 831 des Bürgerlichen Gesetzbuchs einzustehen hat.
 
-(2) Selbständige Steuerberater und Steuerbevollmächtigte, die ausschließlich als freie Mitarbeiter für Auftraggeber, die die Voraussetzungen des § 3 des Gesetzes erfüllen, tätig sind, genügen der Versicherungspflicht nach Absatz 1, wenn die sich aus der freien Mitarbeit sowie aus § 63 des Gesetzes ergebenden Haftpflichtgefahren für Vermögensschäden durch die beim Auftraggeber bestehende Versicherung gedeckt sind. Der entsprechende Versicherungsschutz ist durch eine Bestätigung der Versicherung des Auftraggebers nachzuweisen. Satz 1 gilt nicht, wenn neben der freien Mitarbeit eigene Mandate betreut werden.
+(2) Selbständige Steuerberater und Steuerbevollmächtigte, die ausschließlich als freie Mitarbeiter für Auftraggeber, die die Voraussetzungen des § 3 des Steuerberatungsgesetzes erfüllen, tätig sind, genügen der Versicherungspflicht nach Absatz 1, wenn die sich aus der freien Mitarbeit sowie aus § 63 des Steuerberatungsgesetzes ergebenden Haftpflichtgefahren für Vermögensschäden durch die beim Auftraggeber bestehende Versicherung gedeckt sind. Der entsprechende Versicherungsschutz ist durch eine Bestätigung der Versicherung des Auftraggebers nachzuweisen. Satz 1 gilt nicht, wenn neben der freien Mitarbeit eigene Mandate betreut werden.
 
-(3) Absatz 2 gilt sinngemäß auch für Steuerberater und Steuerbevollmächtigte, die ausschließlich als Angestellte nach § 58 des Gesetzes tätig sind, sowie für Partner einer Partnerschaftsgesellschaft mit beschränkter Berufshaftung nach § 8 Absatz 4 des Partnerschaftsgesellschaftsgesetzes, die ausschließlich für die Partnerschaftsgesellschaft tätig sind.
+(3) Absatz 2 gilt sinngemäß auch für Steuerberater und Steuerbevollmächtigte, die ausschließlich als Angestellte nach § 58 des Steuerberatungsgesetzes tätig sind, sowie für Partner einer Partnerschaftsgesellschaft mit beschränkter Berufshaftung nach § 8 Absatz 4 des Partnerschaftsgesellschaftsgesetzes, die ausschließlich für die Partnerschaftsgesellschaft tätig sind.
 
 (4) Die Versicherung muß bei einem im Inland zum Geschäftsbetrieb befugten Versicherungsunternehmen zu den nach Maßgabe des Versicherungsaufsichtsgesetzes eingereichten allgemeinen Versicherungsbedingungen genommen werden.
 
@@ -787,9 +781,9 @@ c)  bezüglich sämtlicher Folgen eines Verstoßes. Dabei gilt mehrfaches, auf g
 
 ### § 54 Anerkennung anderer Berufshaftpflichtversicherungen
 
-(1) Ist eine versicherungspflichtige Person zugleich als Rechtsanwalt, niedergelassener europäischer Rechtsanwalt, Wirtschaftsprüfer oder vereidigter Buchprüfer bestellt oder ist eine versicherungspflichtige Berufsausübungsgesellschaft zugleich als Berufsausübungsgesellschaft im Sinne der Bundesrechtsanwaltsordnung, Wirtschaftsprüfungsgesellschaft oder Buchprüfungsgesellschaft anerkannt, wird der Versicherungspflicht auch mit einer diesen Berufen vorgeschriebenen Berufshaftpflichtversicherung genügt, sofern der Versicherungsvertrag die Voraussetzungen der §§ 52 und 53a erfüllt.
+(1) Ist eine versicherungspflichtige Person zugleich als Rechtsanwalt, niedergelassener europäischer Rechtsanwalt, Wirtschaftsprüfer oder vereidigter Buchprüfer zugelassen oder bestellt oder ist eine versicherungspflichtige Berufsausübungsgesellschaft zugleich als Berufsausübungsgesellschaft im Sinne der Bundesrechtsanwaltsordnung, Wirtschaftsprüfungsgesellschaft oder Buchprüfungsgesellschaft zugelassen oder anerkannt, wird der Versicherungspflicht auch mit einer diesen Berufen vorgeschriebenen Berufshaftpflichtversicherung genügt, sofern der Versicherungsvertrag die Voraussetzungen der §§ 52 bis 53a erfüllt.
 
-(2) Erfolgt die Bestellung zum Steuerberater auf Grund des Bestehens einer Eignungsprüfung im Sinne des § 37a Abs. 2 des Gesetzes, so sind Bescheinigungen über eine abgeschlossene Berufshaftpflichtversicherung, die von den Versicherungsunternehmen eines anderen Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz ausgestellt worden sind, als gleichwertig mit den in Deutschland ausgestellten Bescheinigungen anzuerkennen, sofern sie in Bezug auf Deckungsbedingungen und -umfang den in Deutschland geltenden Rechts- und Verwaltungsvorschriften genügen. Die zum Nachweis vorgelegten Unterlagen sind mit einer beglaubigten Übersetzung vorzulegen, wenn sie nicht in deutscher Sprache abgefasst sind. Die Bescheinigungen dürfen bei ihrer Vorlage nicht älter als drei Monate sein.
+(2) Erfolgt die Bestellung zum Steuerberater auf Grund des Bestehens einer Eignungsprüfung im Sinne des § 37a Abs. 2 des Steuerberatungsgesetzes, so sind Bescheinigungen über eine abgeschlossene Berufshaftpflichtversicherung, die von den Versicherungsunternehmen eines anderen Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz ausgestellt worden sind, als gleichwertig mit den in Deutschland ausgestellten Bescheinigungen anzuerkennen, sofern sie in Bezug auf Deckungsbedingungen und -umfang den in Deutschland geltenden Rechts- und Verwaltungsvorschriften genügen. Die zum Nachweis vorgelegten Unterlagen sind mit einer beglaubigten Übersetzung vorzulegen, wenn sie nicht in deutscher Sprache abgefasst sind. Die Bescheinigungen dürfen bei ihrer Vorlage nicht älter als drei Monate sein.
 
 (3) Ist im Falle des Absatzes 2 die Erfüllung der Verpflichtung des § 53 Abs. 2 durch das Versicherungsunternehmen nicht sichergestellt, so haben die in Deutschland beruflich niedergelassenen selbständigen Steuerberater der zuständigen Steuerberaterkammer jährlich eine Bescheinigung des Versicherers vorzulegen, aus der sich die Versicherungsbedingungen und der Deckungsumfang ergeben.
 
@@ -805,32 +799,12 @@ c)  bezüglich sämtlicher Folgen eines Verstoßes. Dabei gilt mehrfaches, auf g
 
 ### § 56 Anzeige von Veränderungen
 
-(1) Die Beendigung oder Kündigung des Versicherungsvertrages, jede Änderung des Versicherungsvertrages, die den nach dieser Verordnung vorgeschriebenen Versicherungsschutz beeinträchtigt, der Wechsel des Versicherers, der Beginn und die Beendigung der Versicherungspflicht infolge einer Änderung der Form der beruflichen Tätigkeit und der Widerruf einer vorläufigen Deckungszusage sind der gemäß § 67 des Gesetzes zuständigen Steuerberaterkammer von dem Versicherungspflichtigen unverzüglich anzuzeigen.
+(1) Die Beendigung oder Kündigung des Versicherungsvertrages, jede Änderung des Versicherungsvertrages, die den nach dieser Verordnung vorgeschriebenen Versicherungsschutz beeinträchtigt, der Wechsel des Versicherers, der Beginn und die Beendigung der Versicherungspflicht infolge einer Änderung der Form der beruflichen Tätigkeit und der Widerruf einer vorläufigen Deckungszusage sind der gemäß § 67 des Steuerberatungsgesetzes zuständigen Steuerberaterkammer von dem Versicherungspflichtigen unverzüglich anzuzeigen.
 
 (2) Der Versicherer ist befugt, der zuständigen Steuerberaterkammer Beginn und Ende des Versicherungsvertrags, jede Änderung des Versicherungsvertrags, die den nach dieser Verordnung vorgeschriebenen Versicherungsschutz beeinträchtigt, und den Widerruf einer vorläufigen Deckungszusage mitzuteilen. Die zuständige Steuerberaterkammer ist berechtigt, entsprechende Auskünfte bei dem Versicherer einzuholen.
 
 
 ### § 57
-
-(weggefallen)
-
-
-## Siebter Teil - Übergangs- und Schlußvorschriften
-
-
-
-### § 58 Übergangsregelung
-
-(1) Die Vorschriften dieser Verordnung über die Zulassung zur Prüfung in der ab dem 1. Juli 2000 geltenden Fassung sind erstmals auf die Zulassung zur Prüfung im Jahre 2001 anzuwenden.
-
-(2) Auf Prüfungen, die vor dem 1. November 2000 begonnen haben, sind die Vorschriften dieser Verordnung in der bis zum 30. Juni 2000 geltenden Fassung weiter anzuwenden.
-
-(3) Die den Steuerberaterkammern zugewiesenen Aufgaben des Zweiten und Vierten Teils dieser Verordnung in der ab dem 1. Juli 2000 geltenden Fassung werden bis zum 31. Dezember 2000 von den bisher zuständigen Behörden der Finanzverwaltung wahrgenommen.
-
-(4) Die Vorschriften dieser Verordnung in der ab 12. April 2008 geltenden Fassung über die Zulassung zur Prüfung, die Befreiung von der Prüfung, die organisatorische Durchführung der Prüfung und die Abnahme der Prüfung sind erstmals für Prüfungen anzuwenden, die nach dem 31. Dezember 2008 beginnen und für Anträge auf Befreiung von der Prüfung oder auf Erteilung einer verbindlichen Auskunft über die Erfüllung einzelner Voraussetzungen für die Zulassung zur Prüfung oder über die Befreiung von der Prüfung, die nach dem 31. Dezember 2008 gestellt werden.
-
-
-### § 59
 
 (weggefallen)
 

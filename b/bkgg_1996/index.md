@@ -24,6 +24,12 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 42 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 5 G v. 23.12.2024 I Nr. 449 ist berücksichtigt
+
+Änderung durch
+:   Art. 6 G v. 23.12.2024 I Nr. 449 ist berücksichtigt
+
 
 ## Erster Abschnitt - Leistungen
 

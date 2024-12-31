@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.8.1997 I 2022;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 25.10.2024 I Nr. 332
+:   Art. 8 Abs. 3 G v. 23.12.2024 I Nr. 449
 
 
 ## § 1 Leistungsberechtigte
