@@ -116,13 +116,16 @@ Abweichend von Satz 1 Nummer 3 erste Alternative ist ein minderjähriger nicht f
 (4) Für Berechtigte, die keine allgemeinbildende Schule mehr besuchen, mindert sich die nach den Absätzen 1 bis 3 ergebende Unterhaltsleistung, soweit ihre in demselben Monat erzielten Einkünfte des Vermögens und der Ertrag ihrer zumutbaren Arbeit zum Unterhalt ausreichen. Als Ertrag der zumutbaren Arbeit des Berechtigten aus nichtselbstständiger Arbeit gelten die Einnahmen in Geld entsprechend der für die maßgeblichen Monate erstellten Lohn- und Gehaltsbescheinigungen des Arbeitgebers abzüglich eines Zwölftels des Arbeitnehmer-Pauschbetrags; bei Auszubildenden sind zusätzlich pauschal 100 Euro als ausbildungsbedingter Aufwand abzuziehen. Einkünfte und Erträge nach den Sätzen 1 und 2 sind nur zur Hälfte zu berücksichtigen.
 
 
-## § 3 (weggefallen)
+## § 3 Dauer und Bewilligung der Unterhaltsleistung
+
+Die Unterhaltsleistung wird bis zum Entfallen des Anspruchs auf die Unterhaltsleistung erbracht und für diese Dauer bewilligt.
 
 
+## § 4 Beginn und beschränkte Rückwirkung der Unterhaltsleistung
 
-## § 4 Beschränkte Rückwirkung
+(1) Die Unterhaltsleistung wird erbracht, sobald ein wirksamer Antrag gestellt wurde und die Anspruchsvoraussetzungen für die Unterhaltsleistung vorliegen. Liegen alle Anspruchsvoraussetzungen für die Unterhaltsleistung am Beginn des Kalendermonats vor, in dem der Antrag gestellt wurde, so besteht der Anspruch auf die Unterhaltsleistung ab Beginn dieses Kalendermonats.
 
-Die Unterhaltsleistung wird rückwirkend längstens für den letzten Monat vor dem Monat gezahlt, in dem der Antrag hierauf bei der zuständigen Stelle oder bei einer der in § 16 Abs. 2 Satz 1 des Ersten Buches Sozialgesetzbuch bezeichneten Stellen eingegangen ist; dies gilt nicht, soweit es an zumutbaren Bemühungen des Berechtigten gefehlt hat, den in § 1 Abs. 1 Nr. 3 bezeichneten Elternteil zu Unterhaltszahlungen zu veranlassen.
+(2) Die Unterhaltsleistung wird rückwirkend längstens für den letzten Monat vor dem Monat der Antragstellung gezahlt, soweit es nicht an zumutbaren Bemühungen des Berechtigten gefehlt hat, den in § 1 Absatz 1 Nummer 3 bezeichneten Elternteil zu Unterhaltszahlungen zu veranlassen.
 
 
 ## § 5 Ersatz- und Rückzahlungspflicht
@@ -178,11 +181,6 @@ Die Unterhaltsleistung wird rückwirkend längstens für den letzten Monat vor d
 (5) Betreibt das Land die Zwangsvollstreckung aus einem Vollstreckungsbescheid, ist zum Nachweis des nach Absatz 1 übergegangenen Unterhaltsanspruchs dem Vollstreckungsantrag der Bescheid gemäß § 9 Absatz 2 beizufügen.
 
 
-## § 7a Übergegangene Ansprüche des Berechtigten bei Leistungsunfähigkeit
-
-Solange der Elternteil, bei dem der Berechtigte nicht lebt, Leistungen nach dem Zweiten Buch Sozialgesetzbuch bezieht und über kein eigenes Einkommen im Sinne von § 11 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch verfügt, wird der nach § 7 übergegangene Unterhaltsanspruch nicht verfolgt.
-
-
 ## § 8 Aufbringung der Mittel
 
 (1) Geldleistungen, die nach dem Gesetz zu zahlen sind, werden zu 40 Prozent vom Bund, im Übrigen von den Ländern getragen. Eine angemessene Aufteilung der nicht vom Bund zu zahlenden Geldleistungen auf Länder und Gemeinden liegt in der Befugnis der Länder.
@@ -197,6 +195,10 @@ Solange der Elternteil, bei dem der Berechtigte nicht lebt, Leistungen nach dem 
 (2) Die Entscheidung ist dem Antragsteller schriftlich oder elektronisch mitzuteilen. In dem Bescheid sind die nach § 2 Absatz 2 bis 4 angerechneten Beträge anzugeben.
 
 (3) Die Unterhaltsleistung ist monatlich im Voraus zu zahlen. Auszuzahlende Beträge sind auf volle Euro aufzurunden. Beträge unter 5 Euro werden nicht geleistet.
+
+(4) Die durch Landesrecht bestimmte Stelle kann die Zahlung einer laufenden Unterhaltsleistung ohne Erteilung eines Bescheides vorläufig einstellen, wenn sie Kenntnis von Tatsachen erhält, die kraft Gesetzes zum Ruhen oder zum Wegfall des Anspruchs führen, und wenn der Bescheid, aus dem sich der Anspruch ergibt, deshalb aufzuheben ist. Vor der vorläufigen Einstellung sind der Person, die den Antrag auf Zahlung der Unterhaltsleistung gestellt hat, die beabsichtigte vorläufige Einstellung der Zahlung sowie die dafür maßgeblichen Gründe mitzuteilen und es ist ihr Gelegenheit zu geben, sich innerhalb von 14 Tagen zu äußern. Die vorläufige Einstellung der Zahlung ist ihr unverzüglich in Textform mitzuteilen. Sofern innerhalb des Äußerungszeitraums eine Unterhaltsleistung zu zahlen ist, soll die durch Landesrecht bestimmte Stelle die Unterhaltsleistung nur für den Äußerungszeitraum gewähren.
+
+(5) Die durch Landesrecht bestimmte Stelle hat eine vorläufig eingestellte Zahlung einer laufenden Unterhaltsleistung unverzüglich nachzuholen, soweit der Bescheid, aus dem sich der Anspruch ergibt, zwei Monate nach der vorläufigen Einstellung der Zahlung nicht aufgehoben ist.
 
 
 ## § 10 Bußgeldvorschriften
@@ -221,11 +223,6 @@ Solange der Elternteil, bei dem der Berechtigte nicht lebt, Leistungen nach dem 
 (1) § 1 Abs. 2a in der am 19. Dezember 2006 geltenden Fassung ist in Fällen, in denen die Entscheidung über den Anspruch auf Unterhaltsvorschuss für Monate in dem Zeitraum zwischen dem 1. Januar 1994 und dem 18. Dezember 2006 noch nicht bestandskräftig geworden ist, anzuwenden, wenn dies für den Antragsteller günstiger ist. In diesem Fall werden die Aufenthaltsgenehmigungen nach dem Ausländergesetz den Aufenthaltstiteln nach dem Aufenthaltsgesetz entsprechend den Fortgeltungsregelungen in § 101 des Aufenthaltsgesetzes gleichgestellt.
 
 (2) § 1 Absatz 2a Satz 1 Nummer 1 bis 4 in der Fassung des Artikels 38 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 29. Februar 2020 beginnen. § 1 Absatz 2a Satz 1 Nummer 5 in der Fassung des Artikels 38 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Dezember 2019 beginnen. § 1 Absatz 2a Satz 1 Nummer 2 Buchstabe c in der Fassung des Artikels 13 Nummer 1 des Gesetzes vom 23. Mai 2022 (BGBl. I S. 760) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Mai 2022 beginnen. § 1 Absatz 2a Satz 1 Nummer 2 Buchstabe a und b in der Fassung des Artikels 44 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Mai 2024 beginnen.
-
-
-## § 11a Anwendungsvorschrift
-
-Im Sinne dieses Gesetzes beträgt für die Zeit vom 1. Januar 2015 bis zum 30. Juni 2015 die Unterhaltsleistung nach § 2 Absatz 1 Satz 1 monatlich 317 Euro für ein Kind, das das sechste Lebensjahr noch nicht vollendet hat, und monatlich 364 Euro für ein Kind, das das zwölfte Lebensjahr noch nicht vollendet hat. Für die Zeit vom 1. Juli 2015 bis zum 31. Dezember 2015 beträgt die Unterhaltsleistung nach § 2 Absatz 1 Satz 1 monatlich 328 Euro für ein Kind, das das sechste Lebensjahr noch nicht vollendet hat, und monatlich 376 Euro für ein Kind, das das zwölfte Lebensjahr noch nicht vollendet hat. Bis zum 31. Dezember 2015 gilt als für ein erstes Kind zu zahlendes Kindergeld im Sinne von § 2 Absatz 2 Satz 1 ein Betrag in Höhe von monatlich 184 Euro.
 
 
 ## § 12 Bericht

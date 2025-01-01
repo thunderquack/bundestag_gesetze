@@ -689,7 +689,7 @@ Bei einer Leistung, die sich auf einen Gegenstand der Ausfuhr, auf einen Gegenst
 
 ### § 24 Antragsfrist für die Steuervergütung und Nachweis der Voraussetzungen
 
-(1) Die Steuervergütung ist bei dem zuständigen Finanzamt bis zum Ablauf des Kalenderjahres nach amtlich vorgeschriebenem Vordruck oder amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu beantragen, das auf das Kalenderjahr folgt, in dem der Gegenstand in das Drittlandsgebiet gelangt. Ein Antrag kann mehrere Ansprüche auf die Steuervergütung umfassen.
+(1) Die Steuervergütung ist bei dem zuständigen Finanzamt bis zum Ablauf des Kalenderjahres nach amtlich vorgeschriebenem Vordruck oder amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle zu beantragen, das auf das Kalenderjahr folgt, in dem der Gegenstand in das Drittlandsgebiet gelangt. Ein Antrag kann mehrere Ansprüche auf die Steuervergütung umfassen.
 
 (2) Der Nachweis, dass der Gegenstand in das Drittlandsgebiet gelangt ist, muss in der gleichen Weise wie bei Ausfuhrlieferungen geführt werden (§§ 8 bis 11).
 
@@ -811,7 +811,7 @@ Eine Rechnung, deren Gesamtbetrag 250 Euro nicht übersteigt, muss mindestens fo
 
 
 
-Die §§ 31 und 32 sind entsprechend anzuwenden. Die Sätze 1 und 2 gelten nicht für Rechnungen über Leistungen im Sinne der §§ 3c, 6a und 13b des Gesetzes.
+Die §§ 31 und 32 sind entsprechend anzuwenden. Die Sätze 1 und 2 gelten nicht für Rechnungen über Leistungen im Sinne der §§ 3c, 6a und 13b des Gesetzes. Eine Rechnung nach Satz 1 kann abweichend von § 14 Absatz 2 Satz 2 des Gesetzes immer als sonstige Rechnung im Sinne von § 14 Absatz 1 Satz 4 des Gesetzes übermittelt werden.
 
 
 ### § 34 Fahrausweise als Rechnungen
@@ -834,10 +834,37 @@ Die §§ 31 und 32 sind entsprechend anzuwenden. Die Sätze 1 und 2 gelten nicht
 
 
 
+Eine Rechnung nach Satz 1 kann abweichend von § 14 Absatz 2 Satz 2 des Gesetzes immer als sonstige Rechnung im Sinne von § 14 Absatz 1 Satz 4 des Gesetzes übermittelt werden.
 
 (2) Fahrausweise für eine grenzüberschreitende Beförderung im Personenverkehr und im internationalen Eisenbahn-Personenverkehr gelten nur dann als Rechnung im Sinne des § 14 des Gesetzes, wenn eine Bescheinigung des Beförderungsunternehmers oder seines Beauftragten darüber vorliegt, welcher Anteil des Beförderungspreises auf die Strecke im Inland entfällt. In der Bescheinigung ist der Steuersatz anzugeben, der auf den auf das Inland entfallenden Teil der Beförderungsleistung anzuwenden ist.
 
 (3) Die Absätze 1 und 2 gelten für Belege im Reisegepäckverkehr entsprechend.
+
+
+### § 34a Rechnungen von Kleinunternehmern
+
+Eine Rechnung über Umsätze, die nach § 19 Absatz 1 des Gesetzes steuerfrei sind, muss mindestens folgende Angaben enthalten:
+
+1.  den vollständigen Namen und die vollständige Anschrift des leistenden Unternehmers und des Leistungsempfängers,
+
+
+2.  die dem leistenden Unternehmer vom Finanzamt erteilte Steuernummer oder die ihm vom Bundeszentralamt für Steuern erteilte Umsatzsteuer-Identifikationsnummer oder Kleinunternehmer-Identifikationsnummer,
+
+
+3.  das Ausstellungsdatum,
+
+
+4.  die Menge und die Art (handelsübliche Bezeichnung) der gelieferten Gegenstände oder den Umfang und die Art der sonstigen Leistung,
+
+
+5.  das Entgelt für die Lieferung oder sonstige Leistung in einer Summe mit einem Hinweis darauf, dass für die Lieferung oder sonstige Leistung die Steuerbefreiung für Kleinunternehmer gilt (§ 19 des Gesetzes) und
+
+
+6.  in den Fällen der Ausstellung der Rechnung durch den Leistungsempfänger oder durch einen von ihm beauftragten Dritten gemäß § 14 Absatz 2 Satz 5 des Gesetzes die Angabe „Gutschrift“.
+
+
+
+Die §§ 33 und 34 bleiben unberührt. § 31 gilt entsprechend. Eine Rechnung nach Satz 1 kann abweichend von § 14 Absatz 2 Satz 2 des Gesetzes immer als sonstige Rechnung im Sinne von § 14 Absatz 1 Satz 4 des Gesetzes übermittelt werden.
 
 
 ## - - Zu § 15 des Gesetzes
@@ -936,7 +963,7 @@ Das Finanzamt hat dem Unternehmer auf Antrag die Fristen für die Übermittlung 
 
 #### § 48 Verfahren
 
-(1) Der Unternehmer hat die Fristverlängerung für die Übermittlung der Voranmeldungen bis zu dem Zeitpunkt zu beantragen, an dem die Voranmeldung, für die die Fristverlängerung erstmals gelten soll, nach § 18 Abs. 1, 2 und 2a des Gesetzes zu übermitteln ist. Der Antrag ist nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln. Auf Antrag kann das Finanzamt zur Vermeidung von unbilligen Härten auf eine elektronische Übermittlung verzichten; in diesem Fall hat der Unternehmer einen Antrag nach amtlich vorgeschriebenem Vordruck zu stellen. In dem Antrag hat der Unternehmer, der die Voranmeldungen monatlich zu übermitteln hat, die Sondervorauszahlung (§ 47) selbst zu berechnen und anzumelden. Gleichzeitig hat er die angemeldete Sondervorauszahlung zu entrichten.
+(1) Der Unternehmer hat die Fristverlängerung für die Übermittlung der Voranmeldungen bis zu dem Zeitpunkt zu beantragen, an dem die Voranmeldung, für die die Fristverlängerung erstmals gelten soll, nach § 18 Abs. 1, 2 und 2a des Gesetzes zu übermitteln ist. Der Antrag ist nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle zu übermitteln. Auf Antrag kann das Finanzamt zur Vermeidung von unbilligen Härten auf eine elektronische Übermittlung verzichten; in diesem Fall hat der Unternehmer einen Antrag nach amtlich vorgeschriebenem Vordruck zu stellen. In dem Antrag hat der Unternehmer, der die Voranmeldungen monatlich zu übermitteln hat, die Sondervorauszahlung (§ 47) selbst zu berechnen und anzumelden. Gleichzeitig hat er die angemeldete Sondervorauszahlung zu entrichten.
 
 (2) Während der Geltungsdauer der Fristverlängerung hat der Unternehmer, der die Voranmeldungen monatlich zu übermitteln hat, die Sondervorauszahlung für das jeweilige Kalenderjahr bis zum gesetzlichen Zeitpunkt der Übermittlung der ersten Voranmeldung zu berechnen, anzumelden und zu entrichten. Absatz 1 Satz 2 und 3 gilt entsprechend.
 
@@ -1051,7 +1078,7 @@ Vergütungszeitraum ist nach Wahl des Unternehmers ein Zeitraum von mindestens d
 
 #### § 61 Vergütungsverfahren für im übrigen Gemeinschaftsgebiet ansässige Unternehmer
 
-(1) Der im übrigen Gemeinschaftsgebiet ansässige Unternehmer hat den Vergütungsantrag nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung über das in dem Mitgliedstaat, in dem der Unternehmer ansässig ist, eingerichtete elektronische Portal dem Bundeszentralamt für Steuern zu übermitteln. Der Vergütungsantrag gilt nur dann als vorgelegt, wenn der Unternehmer
+(1) Der im übrigen Gemeinschaftsgebiet ansässige Unternehmer hat den Vergütungsantrag nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle über das in dem Mitgliedstaat, in dem der Unternehmer ansässig ist, eingerichtete elektronische Portal dem Bundeszentralamt für Steuern zu übermitteln. Der Vergütungsantrag gilt nur dann als vorgelegt, wenn der Unternehmer
 
 1.  alle Angaben gemacht hat, die in den Artikeln 8 und 9 Absatz 1 der Richtlinie 2008/9/EG des Rates vom 12. Februar 2008 zur Regelung der Erstattung der Mehrwertsteuer gemäß der Richtlinie 2006/112/EG an nicht im Mitgliedstaat der Erstattung, sondern in einem anderen Mitgliedstaat ansässige Steuerpflichtige (ABl. L 44 vom 20.2.2008, S. 23), die durch die Richtlinie 2010/66/EU (ABl. L 275 vom 20.10.2010, S. 1) geändert worden ist, in der jeweils geltenden Fassung gefordert werden, sowie
 
@@ -1074,7 +1101,7 @@ Vergütungszeitraum ist nach Wahl des Unternehmers ein Zeitraum von mindestens d
 
 #### § 61a Vergütungsverfahren für nicht im Gemeinschaftsgebiet ansässige Unternehmer
 
-(1) Der nicht im Gemeinschaftsgebiet ansässige Unternehmer hat den Vergütungsantrag nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung an das Bundeszentralamt für Steuern zu übermitteln. Auf Antrag kann das Bundeszentralamt für Steuern zur Vermeidung von unbilligen Härten auf eine elektronische Übermittlung verzichten. In diesem Fall hat der nicht im Gemeinschaftsgebiet ansässige Unternehmer die Vergütung nach amtlich vorgeschriebenem Vordruck beim Bundeszentralamt für Steuern zu beantragen und den Vergütungsantrag eigenhändig zu unterschreiben.
+(1) Der nicht im Gemeinschaftsgebiet ansässige Unternehmer hat den Vergütungsantrag nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle an das Bundeszentralamt für Steuern zu übermitteln. Auf Antrag kann das Bundeszentralamt für Steuern zur Vermeidung von unbilligen Härten auf eine elektronische Übermittlung verzichten. In diesem Fall hat der nicht im Gemeinschaftsgebiet ansässige Unternehmer die Vergütung nach amtlich vorgeschriebenem Vordruck beim Bundeszentralamt für Steuern zu beantragen und den Vergütungsantrag eigenhändig zu unterschreiben.
 
 (2) Die Vergütung ist binnen sechs Monaten nach Ablauf des Kalenderjahres, in dem der Vergütungsanspruch entstanden ist, zu beantragen. Der Unternehmer hat die Vergütung selbst zu berechnen. Die Vorsteuerbeträge sind durch Vorlage von Rechnungen und Einfuhrbelegen im Original nachzuweisen.
 

@@ -168,44 +168,8 @@ Das Bundesministerium der Finanzen erläßt mit Zustimmung des Bundesrates zur G
 
 
 
-## § 9 Ausnahmen wegen der COVID-19-Pandemie
+## § 9 (weggefallen)
 
-(1) Die für die Finanzverwaltung zuständigen obersten Landesbehörden oder die von ihnen bestimmten Stellen dürfen von den Vorschriften dieses Gesetzes, der Steuerbeamtenausbildungs- und -prüfungsordnung in der am 10. März 2020 geltenden Fassung sowie den vom Ausschuss nach § 8 Nummer 7 zur Konkretisierung dieser Verordnung erlassenen Richtlinien nach Maßgabe der Absätze 2 bis 6 abweichen. Von der Abweichungsbefugnis kann Gebrauch gemacht werden, wenn eine Abweichung von den Vorschriften über die Vorbereitungsdienste, über den Aufstieg und über die Einführung der Steuerbeamten in die Aufgaben des höheren Dienstes wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen geboten ist. Die abweichenden Regelungen sollen die Ziele der Bestimmungen, von denen abgewichen wird, so weit wie möglich erfüllen und sind im Interesse einer sachgerechten und einheitlichen Ausbildung der Steuerbeamten auf das erforderliche Maß zu beschränken.
-
-(2) Abweichend von § 3 Absatz 2 Satz 2, von § 4 Absatz 2 Satz 2 sowie von § 6 Absatz 2 Satz 1 und Absatz 3 Satz 3 ist in der Ausbildung des mittleren Dienstes und des gehobenen Dienstes sowie beim Aufstieg in diese Laufbahnen die Vermittlung der Ausbildungsinhalte durch mobiles Arbeiten, E-Learning, in angeleitetem Selbststudium sowie durch die angeleitete Beschäftigung mit für die Berufspraxis relevanten Themen außerhalb der Dienststelle zulässig. Darüber hinaus können abweichend von den §§ 14 bis 24 und 31 der Steuerbeamtenausbildungs- und -prüfungsordnung in der am 10. März 2020 geltenden Fassung
-
-1.  die Ausbildungsinhalte, die Struktur oder die Dauer der Abschnitte der Ausbildung oder die Ausbildungsabläufe verändert werden,
-
-
-2.  einzelne Ausbildungsinhalte entfallen,
-
-
-3.  Leistungsfeststellungen in abweichender Reihenfolge oder elektronisch erfolgen oder aus zwingenden Gründen entfallen.
-
-
-
-
-(3) Abweichend von § 5 Absatz 2 Satz 3 sind während der praktischen Einweisung in die Aufgaben des höheren Dienstes mobiles Arbeiten, E-Learning, angeleitetes Selbststudium sowie die angeleitete Beschäftigung mit für die Berufspraxis relevanten Themen außerhalb der Dienststelle zulässig. Darüber hinaus können abweichend von den §§ 26 und 29 der Steuerbeamtenausbildungs- und -prüfungsordnung in der am 10. März 2020 geltenden Fassung die Ausbildungsinhalte, der Einführungsablauf und die Dauer einzelner Abschnitte der praktischen Einweisung verändert werden.
-
-(4) Abweichend von den §§ 38, 39 und 44 der Steuerbeamtenausbildungs- und -prüfungsordnung in der am 10. März 2020 geltenden Fassung können der Prüfungsstoff, der Prüfungsablauf und das Prüfungsverfahren verändert werden. Abweichend von § 4 Absatz 2 Satz 6 kann die Zwischenprüfung auch nach mehr als sechs Monaten Fachstudien angesetzt werden. Die Regeldauer des Vorbereitungsdienstes und der Einführungszeit kann verlängert werden. Auf die Zwischenprüfung und auf die mündliche Laufbahnprüfung kann verzichtet werden, wenn dies zwingend erforderlich ist. Soweit auf die Zwischenprüfung verzichtet wird, ist den Prüflingen der Ausbildungsstand in anderer geeigneter Weise mitzuteilen. Ein unzureichender Ausbildungsstand ist mit den Beamten zu erörtern.
-
-(5) Wird nach Absatz 4 auf die mündliche Laufbahnprüfung verzichtet, wird die Endpunktzahl der Laufbahnprüfung abweichend von § 45 Absatz 2 der Steuerbeamtenausbildungs- und -prüfungsordnung in der am 10. März 2020 geltenden Fassung nach folgenden Formeln ermittelt:
-
-1.  im mittleren Dienst nach der Formel
-
-    ![bgbl1_2021_j2442-1_0010.jpg](bgbl1_2021_j2442-1_0010.jpg)
-
-2.  im gehobenen Dienst nach der Formel
-
-    ![bgbl1_2021_j2442-1_0020.jpg](bgbl1_2021_j2442-1_0020.jpg)
-
-
-
-(6) Eine Verwendung der Beamten bei der Bewältigung der COVID-19-Pandemie ist im Umfang von bis zu sechs Monaten auf die Zeiten der fachtheoretischen und berufspraktischen Ausbildung im mittleren Dienst, auf die Fachstudien und berufspraktischen Studienzeiten im gehobenen Dienst, beim Aufstieg sowie auf die Zeit der praktischen Einweisung in die Aufgaben des höheren Dienstes anzurechnen. Dies gilt nur für Verwendungen, die von der für die Finanzverwaltung zuständigen obersten Landesbehörde oder der von ihr bestimmten Stelle aus zwingenden Gründen angeordnet wurden.
-
-(7) Über die ergriffenen Maßnahmen ist dem Ausschuss nach § 8 Nummer 7 zu berichten. Der Ausschuss kann Empfehlungen aussprechen.
-
-(8) Dieser Paragraf tritt am 31. Dezember 2024 außer Kraft.
 
 
 ## § 10 Übergangsvorschrift zu § 9

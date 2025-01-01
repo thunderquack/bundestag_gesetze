@@ -177,83 +177,79 @@ Im Zuständigkeitsbereich des Bundesministeriums für Digitales und Verkehr für
 49. Sportbootführerscheinverordnung (SpFV),
 
 
-50. Verordnung über die Küstenschifffahrt (KüSchV),
+50. Seesicherheits-Untersuchungs-Gesetz (SUG),
 
 
-51. Seesicherheits-Untersuchungs-Gesetz (SUG),
+51. Flaggenrechtsgesetz (FlaggRG),
 
 
-52. Flaggenrechtsgesetz (FlaggRG),
+52. Flaggenrechtsverordnung (FlRV),
 
 
-53. Flaggenrechtsverordnung (FlRV),
+53. Seeleute-Befähigungsverordnung (See-BV),
 
 
-54. Seeleute-Befähigungsverordnung (See-BV),
+54. See-Eigensicherungsverordnung (SeeEigensichV),
 
 
-55. See-Eigensicherungsverordnung (SeeEigensichV),
+55. Schiffssicherheitsverordnung (SchSV),
 
 
-56. Schiffssicherheitsverordnung (SchSV),
+56. Schiffsausrüstungsverordnung (SchAusrV),
 
 
-57. Schiffsausrüstungsverordnung (SchAusrV),
+57. Bundesberggesetz (BBergG),
 
 
-58. Bundesberggesetz (BBergG),
+58. Seeanlagengesetz (SeeAnlG),
 
 
-59. Seeanlagengesetz (SeeAnlG),
+59. Seeanlagenverordnung (SeeAnlV),
 
 
-60. Seeanlagenverordnung (SeeAnlV),
+60. Raumordnungsgesetz (ROG),
 
 
-61. Raumordnungsgesetz (ROG),
+61. Windenergie-auf-See-Gesetz in der bis zum 31.12.2022 geltenden Fassung, soweit Verfahren nach Teil 4 Abschnitt 1 und 2 und Teil 5 des Windenergie-auf-See-Gesetzes (WindSeeG) betroffen sind,
 
 
-62. Windenergie-auf-See-Gesetz in der bis zum 31.12.2022 geltenden Fassung, soweit Verfahren nach Teil 4 Abschnitt 1 und 2 und Teil 5 des Windenergie-auf-See-Gesetzes (WindSeeG) betroffen sind,
+62. Ölschadengesetz (ÖlSG),
 
 
-63. Ölschadengesetz (ÖlSG),
+63. Seeversicherungsnachweisgesetz (SeeVersNachwG),
 
 
-64. Seeversicherungsnachweisgesetz (SeeVersNachwG),
+64. Öl-Pflichtversicherungsbescheinigungs-Verordnung (ÖlPflichtVersBeschV),
 
 
-65. Öl-Pflichtversicherungsbescheinigungs-Verordnung (ÖlPflichtVersBeschV),
+65. Seeversicherungsnachweisverordnung (SeeVersNachwV),
 
 
-66. Seeversicherungsnachweisverordnung (SeeVersNachwV),
+66. Schiffssicherheitsgesetz (SchSG),
 
 
-67. Schiffssicherheitsgesetz (SchSG),
+67. Schiffsbesetzungsverordnung (SchBesV),
 
 
-68. Schiffsbesetzungsverordnung (SchBesV),
+68. MARPOL-Gesetz (IntMeerSchÜbk1973G),
 
 
-69. MARPOL-Gesetz (IntMeerSchÜbk1973G),
+69. Ballastwasser-Gesetz (BallastWG),
 
 
-70. Ballastwasser-Gesetz (BallastWG),
+70. Verordnung (EU) Nr. 1257/2013 des Europäischen Parlaments und des Rates vom 20. November 2013 über das Recycling von Schiffen und zur Änderung der Verordnung (EG) Nr. 1013/2006 und der Richtlinie 2009/16/EG (ABl. L 330 vom 10.12.2013, S. 1) in der jeweils geltenden Fassung,
 
 
-71. Verordnung (EU) Nr. 1257/2013 des Europäischen Parlaments und des Rates vom 20. November 2013 über das Recycling von Schiffen und zur Änderung der Verordnung (EG) Nr. 1013/2006 und der Richtlinie
-    2009/16/EG                    (ABl. L 330 vom 10.12.2013, S. 1) in der jeweils geltenden Fassung,
+71. Seearbeitsgesetz (SeeArbG),
 
 
-72. Seearbeitsgesetz (SeeArbG),
+72. Maritime-Medizin-Verordnung (MariMedV),
 
 
-73. Maritime-Medizin-Verordnung (MariMedV),
+73. EU-Fahrgastrechte-Schifffahrt-Gesetz (EU-FahrgRSchG),
 
 
-74. EU-Fahrgastrechte-Schifffahrt-Gesetz (EU-FahrgRSchG),
-
-
-75. Sportseeschifferscheinverordnung (SportSeeSchV).
+74. Sportseeschifferscheinverordnung (SportSeeSchV).
 
 
 
@@ -3724,24 +3720,6 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 
 *    *   51
 
-    *   Erlaubnis zur Beförderung mit einem Seeschiff fremder Flagge
-
-    *   § 2 Absatz 2 KüSchV
-
-    *   69,30
-
-
-*    *   52
-
-    *   Erlaubnis zur Beförderung mit einem Seeschiff fremder Flagge bei Erteilung einer Jahresgenehmigung
-
-    *   § 2 Absatz 2 KüSchV
-
-    *   831
-
-
-*    *   53
-
     *   Entziehung einer Berechtigung bzw. Ausspruch eines Fahrverbots mit einfacher Feststellung des Verschuldens
 
     *   § 50 Absatz 1 bis 4 SUG
@@ -3749,7 +3727,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
     *   923
 
 
-*    *   54
+*    *   52
 
     *   Entziehung einer Berechtigung bzw. Ausspruch eines Fahrverbots nach einem Unfall mit aufwändiger Feststellung des Verschuldens (z. B. bei mehreren Beteiligten)
 
@@ -3758,7 +3736,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
     *   2 241 – 4 836
 
 
-*    *   55
+*    *   53
 
     *   Fertigung eines feststellenden Verwaltungsakts
 

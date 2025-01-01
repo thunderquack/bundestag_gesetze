@@ -433,7 +433,7 @@ wenn dem Arbeitgeber andere Vorkehrungen nicht zugemutet werden können.
 
 ### § 16 Aushang und Arbeitszeitnachweise
 
-(1) Der Arbeitgeber ist verpflichtet, einen Abdruck dieses Gesetzes, der auf Grund dieses Gesetzes erlassenen, für den Betrieb geltenden Rechtsverordnungen und der für den Betrieb geltenden Tarifverträge und Betriebs- oder Dienstvereinbarungen im Sinne des § 7 Abs. 1 bis 3, §§ 12 und 21a Abs. 6 an geeigneter Stelle im Betrieb zur Einsichtnahme auszulegen oder auszuhängen.
+(1) Der Arbeitgeber ist verpflichtet, eine Kopie dieses Gesetzes, der auf Grund dieses Gesetzes erlassenen, für den Betrieb geltenden Rechtsverordnungen und der für den Betrieb geltenden Tarifverträge und Betriebs- oder Dienstvereinbarungen im Sinne des § 7 Absatz 1 bis 3 und der §§ 12 und 21a Absatz 6 den Arbeitnehmern über die im Betrieb oder in der Dienststelle übliche Informations- und Kommunikationstechnik zur Verfügung zu stellen oder an geeigneter Stelle im Betrieb oder in der Dienststelle zur Einsichtnahme auszulegen oder auszuhängen.
 
 (2) Der Arbeitgeber ist verpflichtet, die über die werktägliche Arbeitszeit des § 3 Satz 1 hinausgehende Arbeitszeit der Arbeitnehmer aufzuzeichnen und ein Verzeichnis der Arbeitnehmer zu führen, die in eine Verlängerung der Arbeitszeit gemäß § 7 Abs. 7 eingewilligt haben. Die Nachweise sind mindestens zwei Jahre aufzubewahren.
 

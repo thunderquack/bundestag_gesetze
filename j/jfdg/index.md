@@ -123,58 +123,7 @@ Ein kombinierter Jugendfreiwilligendienst im In- und Ausland kann vom Träger an
 Der Jugendfreiwilligendienst nach den §§ 5, 6 und 7 kann ausnahmsweise bis zu einer Dauer von 24 Monaten geleistet werden, wenn dies im Rahmen eines besonderen pädagogischen Konzepts begründet ist.
 
 
-## § 9 Förderung
-
-Die Förderung des freiwilligen sozialen Jahres und des freiwilligen ökologischen Jahres richtet sich nach folgenden Rechtsnormen:
-
-1.  § 3 der Verordnung über Sonderurlaub für Bundesbeamte und Richter im Bundesdienst (Sonderurlaub),
-
-
-2.  § 2 Abs. 1 Nr. 8 des Arbeitsgerichtsgesetzes (Zuständigkeit von Gerichten),
-
-
-3.  § 32 Abs. 4 Satz 1 Nr. 2 Buchstabe b und d des Einkommensteuergesetzes (Berücksichtigung von Kindern),
-
-
-4.  § 265 Abs. 2 Satz 3 Nr. 2 des Gesetzes über den Lastenausgleich (Lastenausgleich),
-
-
-5.  § 27 Abs. 2 Satz 2 Nr. 1, § 150 Absatz 2 Satz 1 Nummer 2, § 344 Abs. 2 des Dritten Buches Sozialgesetzbuch (Arbeitsförderung),
-
-
-6.  § 20 Abs. 3 Satz 1 Nr. 2 des Vierten Buches Sozialgesetzbuch (Gesamtsozialversicherungsbeitrag),
-
-
-7.  § 67 Abs. 3 Satz 1 Nr. 2 Buchstabe b und c, § 82 Abs. 2 Satz 2 des Siebten Buches Sozialgesetzbuch (Gesetzliche Unfallversicherung),
-
-
-8.  § 87 Absatz 4 Nummer 2 des Vierzehnten Buches Sozialgesetzbuch,
-
-
-9.  § 2 Abs. 2 Satz 1 Nr. 2 Buchstabe b und d des Bundeskindergeldgesetzes (Kindergeld),
-
-
-10. § 10 Abs. 1 des Vierten Buches Sozialgesetzbuch (Beschäftigungsort),
-
-
-11. § 7 Abs. 1 Satz 1 Nr. 2, § 10 Abs. 2 Nr. 3 des Fünften Buches Sozialgesetzbuch (Krankenversicherung),
-
-
-12. § 6 Absatz 1b Satz 5, § 48 Abs. 4 Satz 1 Nr. 2 Buchstabe b und c des Sechsten Buches Sozialgesetzbuch (Rentenversicherung),
-
-
-13. § 25 Abs. 2 Nr. 3 des Elften Buches Sozialgesetzbuch (Pflegeversicherung),
-
-
-14. § 1 Abs. 1 Nr. 2 Buchstabe h der Verordnung über den Ausgleich gemeinwirtschaftlicher Leistungen im Straßenpersonenverkehr (Ermäßigungen im Straßenpersonenverkehr),
-
-
-15. § 1 Abs. 1 Nr. 2 Buchstabe h der Verordnung über den Ausgleich gemeinwirtschaftlicher Leistungen im Eisenbahnverkehr (Ermäßigungen im Eisenbahnverkehr),
-
-
-16. § 14c des Gesetzes über den Zivildienst der Kriegsdienstverweigerer (Anerkannte Kriegsdienstverweigerer).
-
-
+## § 9 (weggefallen)
 
 
 
@@ -256,7 +205,7 @@ Die Förderung des freiwilligen sozialen Jahres und des freiwilligen ökologisch
 
 ## § 12 Datenschutz
 
-Der Träger des Jugendfreiwilligendienstes darf personenbezogene Daten nach § 11 Abs. 1 Satz 2 verarbeiten, soweit dies für die Förderung nach § 9 in Verbindung mit den dort genannten Vorschriften erforderlich ist. Die Daten sind nach Abwicklung des Jugendfreiwilligendienstes zu löschen.
+Die Einsatzstellen, Zentralstellen und Träger des Jugendfreiwilligendienstes dürfen personenbezogene Daten nach § 11 Absatz 1 Satz 2 verarbeiten, soweit dies für die Durchführung dieses Gesetzes erforderlich ist. Die Daten sind nach Abwicklung des Jugendfreiwilligendienstes zu löschen.
 
 
 ## § 13 Anwendung arbeitsrechtlicher und arbeitsschutzrechtlicher Bestimmungen
@@ -275,9 +224,4 @@ Für eine Tätigkeit im Rahmen eines Jugendfreiwilligendienstes im Sinne dieses 
 (4) Während des Urlaubs sind die den Freiwilligen nach der Vereinbarung zustehenden Geld- und Sachleistungen weiter zu gewähren.
 
 (5) Kann der Urlaub wegen Beendigung des Dienstes ganz oder teilweise nicht mehr gewährt werden, ist er abzugelten.
-
-
-## § 14 Übergangsregelung
-
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz erhalten, gilt § 9 Nummer 8 in der bis zum 31. Dezember 2023 geltenden Fassung weiter.
 

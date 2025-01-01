@@ -630,7 +630,7 @@ In Verfahren nach § 18 Absatz 2 und § 1 der Atomrechtlichen Verfahrensverordnu
 
 #### § 22 Erneute Beteiligung der Öffentlichkeit bei Änderungen im Laufe des Verfahrens
 
-(1) Ändert der Vorhabenträger im Laufe des Verfahrens die Unterlagen, die nach § 19 Absatz 2 auszulegen sind, so ist eine erneute Beteiligung der Öffentlichkeit erforderlich. Sie ist jedoch auf die Änderungen zu beschränken. Hierauf weist die zuständige Behörde in der Bekanntmachung hin.
+(1) Ändert der Vorhabenträger im Laufe des Verfahrens die Unterlagen, die nach § 19 Absatz 2 auszulegen sind, so ist eine erneute Beteiligung der Öffentlichkeit erforderlich. Die Äußerungsfrist nach § 21 Absatz 2 und 3 kann angemessen verkürzt werden. Die Öffentlichkeitsbeteiligung ist auf die Änderungen zu beschränken. Hierauf weist die zuständige Behörde in der Bekanntmachung hin.
 
 (2) Die zuständige Behörde soll von einer erneuten Beteiligung der Öffentlichkeit absehen, wenn zusätzliche erhebliche oder andere erhebliche Umweltauswirkungen nicht zu besorgen sind. Dies ist insbesondere dann der Fall, wenn solche Umweltauswirkungen durch die vom Vorhabenträger vorgesehenen Vorkehrungen ausgeschlossen werden.
 

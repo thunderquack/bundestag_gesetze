@@ -373,7 +373,7 @@ Treffen bei einer Verschmelzung aus gegenseitigen Verträgen, die zur Zeit der V
 
 ##### § 22 Gläubigerschutz
 
-(1) Den Gläubigern der an der Verschmelzung beteiligten Rechtsträger ist, wenn sie binnen sechs Monaten nach dem Tag, an dem die Eintragung der Verschmelzung in das Register des Sitzes desjenigen Rechtsträgers, dessen Gläubiger sie sind, nach § 19 Abs. 3 bekannt gemacht worden ist, ihren Anspruch nach Grund und Höhe schriftlich anmelden, Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können. Dieses Recht steht den Gläubigern jedoch nur zu, wenn sie glaubhaft machen, daß durch die Verschmelzung die Erfüllung ihrer Forderung gefährdet wird. Die Gläubiger sind in einer Bekanntmachung zu der jeweiligen Eintragung auf dieses Recht hinzuweisen.
+(1) Den Gläubigern der an der Verschmelzung beteiligten Rechtsträger ist, wenn sie binnen sechs Monaten nach dem Tag, an dem die Eintragung der Verschmelzung in das Register des Sitzes desjenigen Rechtsträgers, dessen Gläubiger sie sind, nach § 19 Abs. 3 bekannt gemacht worden ist, ihren Anspruch nach Grund und Höhe in Textform anmelden, Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können. Dieses Recht steht den Gläubigern jedoch nur zu, wenn sie glaubhaft machen, daß durch die Verschmelzung die Erfüllung ihrer Forderung gefährdet wird. Die Gläubiger sind in einer Bekanntmachung zu der jeweiligen Eintragung auf dieses Recht hinzuweisen.
 
 (2) Das Recht, Sicherheitsleistung zu verlangen, steht Gläubigern nicht zu, die im Falle der Insolvenz ein Recht auf vorzugsweise Befriedigung aus einer Deckungsmasse haben, die nach gesetzlicher Vorschrift zu ihrem Schutz errichtet und staatlich überwacht ist.
 
@@ -1199,7 +1199,7 @@ Die Satzung der neuen Genossenschaft wird nur wirksam, wenn ihm die Anteilsinhab
 
 ##### § 100 Prüfung der Verschmelzung
 
-Der Verschmelzungsvertrag oder sein Entwurf ist für einen wirtschaftlichen Verein nach den §§ 9 bis 12 zu prüfen. Bei einem eingetragenen Verein ist diese Prüfung nur erforderlich, wenn mindestens zehn vom Hundert der Mitglieder sie schriftlich verlangen.
+Der Verschmelzungsvertrag oder sein Entwurf ist für einen wirtschaftlichen Verein nach den §§ 9 bis 12 zu prüfen. Bei einem eingetragenen Verein ist diese Prüfung nur erforderlich, wenn mindestens zehn vom Hundert der Mitglieder sie in Textform verlangen.
 
 
 ##### § 101 Vorbereitung der Mitgliederversammlung

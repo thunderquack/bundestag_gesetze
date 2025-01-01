@@ -1846,7 +1846,7 @@ An den rechtsgeschäftlich bestellten Vertreter kann mit gleicher Wirkung wie an
 
 (3) Die elektronische Zustellung an die in Absatz 2 Genannten wird durch ein elektronisches Empfangsbekenntnis nachgewiesen, das an das Gericht zu übermitteln ist. Für die Übermittlung ist der vom Gericht mit der Zustellung zur Verfügung gestellte strukturierte Datensatz zu verwenden. Stellt das Gericht keinen strukturierten Datensatz zur Verfügung, so ist dem Gericht das elektronische Empfangsbekenntnis als elektronisches Dokument (§ 130a) zu übermitteln.
 
-(4) An andere als die in Absatz 2 Genannten kann ein elektronisches Dokument elektronisch nur zugestellt werden, wenn sie der Zustellung elektronischer Dokumente für das jeweilige Verfahren zugestimmt haben. Die Zustimmung gilt mit der Einreichung eines elektronischen Dokuments im jeweiligen Verfahren auf einem sicheren Übermittlungsweg als erteilt. Andere als natürliche Personen können die Zustimmung auch allgemein erteilen. Ein elektronisches Dokument gilt am dritten Tag nach dem auf der automatisierten Eingangsbestätigung ausgewiesenen Tag des Eingangs in dem vom Empfänger eröffneten elektronischen Postfach als zugestellt. Satz 4 gilt nicht, wenn der Empfänger nachweist, dass das Dokument nicht oder zu einem späteren Zeitpunkt zugegangen ist.
+(4) An andere als die in Absatz 2 Genannten kann ein elektronisches Dokument elektronisch nur zugestellt werden, wenn sie der Zustellung elektronischer Dokumente für das jeweilige Verfahren zugestimmt haben. Die Zustimmung gilt mit der Einreichung eines elektronischen Dokuments im jeweiligen Verfahren auf einem sicheren Übermittlungsweg als erteilt. Andere als natürliche Personen können die Zustimmung auch allgemein erteilen. Ein elektronisches Dokument gilt am vierten Tag nach dem auf der automatisierten Eingangsbestätigung ausgewiesenen Tag des Eingangs in dem vom Empfänger eröffneten elektronischen Postfach als zugestellt. Satz 4 gilt nicht, wenn der Empfänger nachweist, dass das Dokument nicht oder zu einem späteren Zeitpunkt zugegangen ist.
 
 
 ###### § 174 Zustellung durch Aushändigung an der Amtsstelle
@@ -2616,7 +2616,7 @@ Eine Anfechtung der Entscheidung, dass eine Änderung der Klage nicht vorliege o
 
 ##### § 270 Zustellung; formlose Mitteilung
 
-Mit Ausnahme der Klageschrift und solcher Schriftsätze, die Sachanträge enthalten, sind Schriftsätze und sonstige Erklärungen der Parteien, sofern nicht das Gericht die Zustellung anordnet, ohne besondere Form mitzuteilen. Bei Übersendung durch die Post gilt die Mitteilung, wenn die Wohnung der Partei im Bereich des Ortsbestellverkehrs liegt, an dem folgenden, im Übrigen an dem zweiten Werktag nach der Aufgabe zur Post als bewirkt, sofern nicht die Partei glaubhaft macht, dass ihr die Mitteilung nicht oder erst in einem späteren Zeitpunkt zugegangen ist.
+Mit Ausnahme der Klageschrift und solcher Schriftsätze, die Sachanträge enthalten, sind Schriftsätze und sonstige Erklärungen der Parteien, sofern nicht das Gericht die Zustellung anordnet, ohne besondere Form mitzuteilen. Bei Übersendung durch die Post gilt die Mitteilung am vierten Tag nach der Aufgabe zur Post als bewirkt, sofern nicht die Partei glaubhaft macht, dass ihr die Mitteilung nicht oder erst in einem späteren Zeitpunkt zugegangen ist.
 
 
 ##### § 271 Zustellung der Klageschrift
@@ -3221,7 +3221,7 @@ Das Gericht ist an die Entscheidung, die in den von ihm erlassenen End- und Zwis
 
 Gegen eine der Endentscheidung vorausgehende Entscheidung findet die Rüge nicht statt.
 
-(2) Die Rüge ist innerhalb einer Notfrist von zwei Wochen nach Kenntnis von der Verletzung des rechtlichen Gehörs zu erheben; der Zeitpunkt der Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf eines Jahres seit Bekanntgabe der angegriffenen Entscheidung kann die Rüge nicht mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem dritten Tage nach Aufgabe zur Post als bekannt gegeben. Die Rüge ist schriftlich bei dem Gericht zu erheben, dessen Entscheidung angegriffen wird. Die Rüge muss die angegriffene Entscheidung bezeichnen und das Vorliegen der in Absatz 1 Satz 1 Nr. 2 genannten Voraussetzungen darlegen.
+(2) Die Rüge ist innerhalb einer Notfrist von zwei Wochen nach Kenntnis von der Verletzung des rechtlichen Gehörs zu erheben; der Zeitpunkt der Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf eines Jahres seit Bekanntgabe der angegriffenen Entscheidung kann die Rüge nicht mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem vierten Tag nach Aufgabe zur Post als bekannt gegeben. Die Rüge ist schriftlich bei dem Gericht zu erheben, dessen Entscheidung angegriffen wird. Die Rüge muss die angegriffene Entscheidung bezeichnen und das Vorliegen der in Absatz 1 Satz 1 Nr. 2 genannten Voraussetzungen darlegen.
 
 (3) Dem Gegner ist, soweit erforderlich, Gelegenheit zur Stellungnahme zu geben.
 
@@ -3660,7 +3660,7 @@ Steht der Aufnahme des Beweises ein Hindernis von ungewisser Dauer entgegen, so 
 
 (1) Den Parteien ist gestattet, der Beweisaufnahme beizuwohnen.
 
-(2) Wird die Beweisaufnahme einem Mitglied des Prozessgerichts oder einem anderen Gericht übertragen, so ist die Terminsbestimmung den Parteien ohne besondere Form mitzuteilen, sofern nicht das Gericht die Zustellung anordnet. Bei Übersendung durch die Post gilt die Mitteilung, wenn die Wohnung der Partei im Bereich des Ortsbestellverkehrs liegt, an dem folgenden, im Übrigen an dem zweiten Werktage nach der Aufgabe zur Post als bewirkt, sofern nicht die Partei glaubhaft macht, dass ihr die Mitteilung nicht oder erst in einem späteren Zeitpunkt zugegangen ist.
+(2) Wird die Beweisaufnahme einem Mitglied des Prozessgerichts oder einem anderen Gericht übertragen, so ist die Terminsbestimmung den Parteien ohne besondere Form mitzuteilen, sofern nicht das Gericht die Zustellung anordnet. Bei Übersendung durch die Post gilt die Mitteilung am vierten Tag nach der Aufgabe zur Post als bewirkt, sofern nicht die Partei glaubhaft macht, dass ihr die Mitteilung nicht oder erst in einem späteren Zeitpunkt zugegangen ist.
 
 
 ##### § 357a

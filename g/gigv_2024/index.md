@@ -642,7 +642,8 @@ Anwendungsbereich: Bezeichnung des informationstechnischen Systems, für das ein
 
 ### Anlage 2 Liste gesetzlicher Spezifikationsaufträge an öffentliche Auftraggeber
 
-(Fundstelle: BGBl. 2024 I Nr. 279, S. 12)
+(Fundstelle: BGBl. 2024 I Nr. 279, S. 12;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Datum (Inkrafttreten dieser Verordnung): 14.09.2024
 
@@ -650,6 +651,7 @@ Datum (Inkrafttreten dieser Verordnung): 14.09.2024
 
     *   Rechts-
         grundlage
+        nach SGB V
 
     *   Stelle
 
@@ -659,21 +661,124 @@ Datum (Inkrafttreten dieser Verordnung): 14.09.2024
 
     *   Datum
         Erstellung der
-        Spezifikation bis
+        Spezifikation
+        bis
 
 
-*    *   110
+*    *   001
 
-    *   § 355 Absatz 1
+    *   § 385 Absatz 1 Satz 1 in Verbindung mit Satz 2 Nummer 2 und Absatz 4 Satz 5 sowie in Verbindung mit § 355 Absatz 1 und 4
 
-    *   Kassenärztliche
-        Bundesvereinigung
+    *   Kassenärztliche Bundesvereinigung durch die mio42 GmbH
 
-    *   Beispielschnittstelle
+    *   MIO elektronische Patientenkurzakte
 
-    *   Die Beispielschnittstelle
-        dient hier für Illustrations-
-        zwecke
+    *   Darstellung wesentlicher Informationen, um eine Übersicht über den Patienten zu erhalten; inkl. elektronischer Notfalldaten nach § 334 Absatz 1 Satz 2 Nummer 5 SGB V. Die Inhalte der Spezifikation zum MIO Patientenkurzakte berücksichtigen die EU-Vorgaben
+        für die elektronische Patient Summary
+
+    *
+
+*    *   002
+
+    *   § 385 Absatz 1 Satz 1 in Verbindung
+        mit Satz 2 Nummer 2 und Absatz 4 Satz 5 sowie in Verbindung mit § 355 Absatz 4a
+
+    *   Kassenärztliche Bundesvereinigung durch die mio42 GmbH
+
+    *   MIO Laborbefund
+
+    *   Abbildung und Bewertung patientenbezogener medizinischer Laborbefunde unter Berücksichtigung der EU-
+        Vorgaben für den grenzüberschreitenden Austausch von Laborbefunden
+
+    *
+
+*    *   003
+
+    *   § 385 Absatz 1 Satz 1 in Verbindung
+        mit Satz 2 Nummer 2 und Absatz 4 Satz 5 sowie in Verbindung mit § 355 Absatz 1 und 8 Satz 1
+
+    *   Kassenärztliche Bundesvereinigung durch die mio42 GmbH
+
+    *   MIO Krankenhaus-Entlassbericht
+
+    *   Darstellung relevanter Informationen beim Übergang von stationärer in ambulante Betreuung unter Berücksichtigung der EU-Vorgaben für den grenzüberschreitenden Austausch von elektronischen Krankenhaus-Entlassberichten
+
+    *
+
+*    *   004
+
+    *   § 385 Absatz 1 Satz 1 in Verbindung
+        mit Satz 2 Nummer 2 und Absatz 4 Satz 5 sowie in Verbindung mit § 355 Absatz 1 und 8 Satz 1
+
+    *   Kassenärztliche Bundesvereinigung durch die mio42 GmbH
+
+    *   MIO Bildbefund
+
+    *   Übermittlung von Befunden aus bildgebenden Verfahren zusammen mit Informationen zur Untersuchung unter Berücksichtigung der EU-
+        Vorgaben für den grenzübergreifenden Austausch von elektronischen Bildbefunden
+
+    *
+
+*    *   005
+
+    *   § 385 Absatz 1 Satz 1 in Verbindung
+        mit Satz 2 Nummer 2 und Absatz 4 Satz 5 sowie in Verbindung mit § 355 Absatz 1 und 8 Satz 1
+
+    *   Kassenärztliche Bundesvereinigung durch die mio42 GmbH
+
+    *   Wertelisten zu „Allergien“
+
+    *   Entwicklung von harmonisierten Wertelisten bei Allergien für die semantisch standardisierte Erfassung insbesondere von allergieauslösenden Substanzen (nicht Arzneistoffe) und Allergie-Manifestationen unter Berücksichtigung der EU-Vorgaben für den grenzübergreifenden Austausch von Daten zu Allergien
+
+    *
+
+*    *   006
+
+    *   § 385 Absatz 1 Satz 1 in Verbindung
+        mit Satz 2 Nummer 2 und Absatz 4 Satz 5 sowie in Verbindung mit § 371 Absatz 1 Nummer 1 und § 372 Absatz 1 Satz 1
+
+    *   Kassenärztliche Bundesvereinigung durch die mio42 GmbH
+
+    *   Schnittstellen zur systemneutralen Archivierung von Patientendaten sowie zur Übertragung von Patientendaten bei einem Systemwechsel (AWST)
+
+    *   Weiterentwicklung der Archiv- und Wechselschnittstelle zu einer Mehrwertschnittstelle
+
+    *
+
+*    *   007
+
+    *   § 385 Absatz 1 Satz 1 in Verbindung
+        mit Satz 2 Nummer 2 und Absatz 4 Satz 5 sowie in Verbindung mit § 371 Absatz 1 Nummer 1 und § 372 Absatz 1 Satz 1
+
+    *   Kassenzahnärztliche Bundesvereinigung
+
+    *   Schnittstellen zur systemneutralen Archivierung von Patientendaten sowie zur Übertragung von Patientendaten bei einem Systemwechsel bei zahnärztlichem System (AWST)
+
+    *   Weiterentwicklung der Archiv- und Wechselschnittstelle zu einer Mehrwertschnittstelle
+
+    *
+
+*    *   008
+
+    *   § 385 Absatz 1 Satz 1 in Verbindung mit Satz 2 Nummer 2 und Absatz 4 Satz 5 sowie in Verbindung mit § 371 Absatz 1 Nummer 2 und § 372 Absatz 1 Satz 1
+
+    *   Kassenärztliche Bundesvereinigung
+
+    *   Verordnungsschnittstelle
+
+    *   Schnittstelle für elektronische Programme, die nach § 73 Absatz 9 Satz 1 SGB V für die Verordnung von Arzneimitteln genutzt werden dürfen
+
+    *
+
+*    *   009
+
+    *   § 385 Absatz 1 Satz 1 in Verbindung mit Satz 2 Nummer 2 und Absatz 4 Satz 5 sowie in Verbindung mit § 371 Absatz 1 Nummer 5 und § 372 Absatz 1 Satz 1
+
+    *   Kassenärztliche Bundesvereinigung durch die kv.digital GmbH
+
+    *   Terminmeldeschnittstelle
+
+    *   Schnittstellen für die Meldung von Terminen gemäß § 370a Absatz 5 und für die Nutzung sicherer Kommunikationsverfahren nach § 311 Absatz 6 SGB V
 
     *
 

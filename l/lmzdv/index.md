@@ -160,7 +160,7 @@ Nitritpökelsalz darf nur in Räumen hergestellt werden, die ausschließlich zu 
 
 (2) Die Angaben nach Absatz 1 sind bereitzustellen:
 
-1.  nach Maßgabe des Artikels 12 Absatz 2 der Verordnung (EU) Nr. 1169/2011 oder des § 4 Absatz 3 und 4 der Lebensmittelinformations-Durchführungsverordnung vom 5. Juli 2017 (BGBl. I S. 2272), die zuletzt durch Artikel 4 der Verordnung vom 18. November 2020 (BGBl. I S. 2504) geändert worden ist,
+1.  nach Maßgabe des Artikels 12 Absatz 2 der Verordnung (EU) Nr. 1169/2011 oder des § 4 Absatz 3 und 4 der Lebensmittelinformations-Durchführungsverordnung vom 5. Juli 2017 (BGBl. I S. 2272), die zuletzt durch Artikel 3 der Verordnung vom 11. Dezember 2024 (BGBl. 2024 I Nr. 411) geändert worden ist,
 
 
 2.  soweit Angaben nach § 4 Absatz 2 der Lebensmittelinformations-Durchführungsverordnung verpflichtend sind, in gleicher Art und Weise und über das identische Medium, wie die Angaben nach § 4 Absatz 2 der Lebensmittelinformations-Durchführungsverordnung bereitzustellen sind, und
@@ -223,25 +223,26 @@ gilt Absatz 1 Nummer 7 entsprechend mit der Maßgabe, dass die Angaben gemäß A
 
 
 
-(2) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig entgegen Artikel 5 in Verbindung mit Artikel 4 Absatz 5 in Verbindung mit Artikel 14 in Verbindung mit Anhang II Teil A Abschnitt 2 Nummer 1 der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16; L 105 vom 27.4.2010, S. 114; L 322 vom 21.11.2012, S. 8;
-L 138 vom              24.5.2013, S. 20; L 123 vom 19.5.2015,
-S. 122;              L 214 vom 13.8.2015, S. 30; L 165 vom 23.6.2016, S. 24; L 282 vom 19.10.2016, S. 84; L 82 vom 26.3.2018, S. 18; L 60 vom 28.2.2019, S. 35), die zuletzt durch die Verordnung (EU) 2020/771 (ABl. L 184 vom 12.6.2020, S. 25) geändert worden ist,
+(2) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig entgegen Artikel 5 in Verbindung mit Artikel 4 Absatz 5 in Verbindung mit Artikel 14 in Verbindung mit Anhang II Teil A Abschnitt 2 Nummer 1 der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16; L 105 vom 27.4.2010, S. 114; L 322 vom 21.11.2012, S. 8; L 138 vom 24.5.2013, S. 20; L 123 vom 19.5.2015, S. 122; L 214 vom 13.8.2015, S. 30; L 165 vom 23.6.2016, S. 24; L 282 vom 19.10.2016, S. 84; L 82 vom 26.3.2018, S. 18; L 60 vom 28.2.2019, S. 35; L 309 vom 2.9.2021, S. 37), die zuletzt durch die Verordnung (EU) 2024/346 (ABl. L 346 vom 23.1.2024, S. 1) geändert worden ist,
 
-a)  einen Lebensmittelzusatzstoff, der den niedergelegten Spezifikationen nicht entspricht, die im Anhang der Verordnung (EU) Nr. 231/2012 der Kommission vom 9. März 2012 mit Spezifikationen für die in den Anhängen II und III der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates aufgeführten Lebensmittelzusatzstoffe (ABl. L 83 vom 22.3.2012, S. 1; L 189 vom 14.7.2016, S. 59; L 292 vom 27.10.2016, S. 50), die zuletzt durch die Verordnung (EU) 2020/771 (ABl. L 184 vom 12.6.2020, S. 25) geändert worden ist, genannt sind,
+a)  einen Lebensmittelzusatzstoff, der den niedergelegten Spezifikationen nicht entspricht, die im Anhang der Verordnung (EU) Nr. 231/2012 der Kommission vom 9. März 2012 mit Spezifikationen für die in den Anhängen II und III der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates aufgeführten Lebensmittelzusatzstoffe (ABl. L 83 vom 22.3.2012, S. 1; L 189 vom 14.7.2016, S. 59; L 292 vom 27.10.2016, S. 50), die zuletzt durch die Verordnung (EU) 2024/346 (ABl. L 346 vom 23.1.2024, S. 1) geändert worden ist, genannt sind,
 
 
-b)  ein Lebensmittel, in dem ein Lebensmittelzusatzstoff vorhanden ist, der den niedergelegten Spezifikationen nicht entspricht, die im Anhang der Verordnung (EU) Nr. 231/2012 genannt sind, oder
+b)  ein Lebensmittel, in dem ein Lebensmittelzusatzstoff vorhanden ist, der den niedergelegten Spezifikationen nicht entspricht, die im Anhang der Verordnung (EU) Nr. 231/2012 genannt sind,
 
 
-c)  in Verbindung mit der Bemerkung im Anhang der Verordnung (EU) Nr. 231/2012
+c)  in Verbindung mit Satz 1 des Anhangs der Verordnung (EU) Nr. 231/2012
 
     aa) einen Lebensmittelzusatzstoff, der unter Verwendung von Ethylenoxid sterilisiert worden ist, oder
 
 
-    bb) ein Lebensmittel, das einen unter Verwendung von Ethylenoxid sterilisierten Lebensmittelzusatzstoff enthält,
+    bb) ein Lebensmittel, das einen unter Verwendung von Ethylenoxid sterilisierten Lebensmittelzusatzstoff enthält, oder
 
 
 
+
+
+d)  in Verbindung mit Satz 2 des Anhangs der Verordnung (EU) Nr. 231/2021 einen Lebensmittelzusatzstoff oder ein Gemisch
 
 
 

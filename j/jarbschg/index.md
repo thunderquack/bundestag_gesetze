@@ -73,6 +73,11 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 
 
+### § 1a Formvorgaben
+
+Soweit in diesem Gesetz schriftliche Handlungen vorgesehen sind, können diese auch in Textform erfolgen. Dies gilt nicht für § 6 Absatz 4 Satz 1 und § 21a Absatz 2.
+
+
 ### § 2 Kind, Jugendlicher
 
 (1) Kind im Sinne dieses Gesetzes ist, wer noch nicht 15 Jahre alt ist.
@@ -979,12 +984,12 @@ auf Verlangen die Aufzeichnungen über die Untersuchungsbefunde zur Einsicht aus
 
 #### § 47 Bekanntgabe des Gesetzes und der Aufsichtsbehörde
 
-Arbeitgeber, die regelmäßig mindestens einen Jugendlichen beschäftigen, haben einen Abdruck dieses Gesetzes und die Anschrift der zuständigen Aufsichtsbehörde an geeigneter Stelle im Betrieb zur Einsicht auszulegen oder auszuhängen.
+Arbeitgeber, die regelmäßig mindestens einen Jugendlichen beschäftigen, haben eine Kopie dieses Gesetzes und die Anschrift der zuständigen Aufsichtsbehörde den Arbeitnehmern über die im Betrieb oder in der Dienststelle übliche Informations- und Kommunikationstechnik zur Verfügung zu stellen oder an geeigneter Stelle im Betrieb oder in der Dienststelle zur Einsicht auszulegen oder auszuhängen.
 
 
-#### § 48 Aushang über Arbeitszeit und Pausen
+#### § 48 Information über Arbeitszeit und Pausen
 
-Arbeitgeber, die regelmäßig mindestens drei Jugendliche beschäftigen, haben einen Aushang über Beginn und Ende der regelmäßigen täglichen Arbeitszeit und der Pausen der Jugendlichen an geeigneter Stelle im Betrieb anzubringen.
+Arbeitgeber, die regelmäßig mindestens drei Jugendliche beschäftigen, haben eine Information über Beginn und Ende der regelmäßigen täglichen Arbeitszeit und der Pausen der Jugendlichen den Arbeitnehmern über die im Betrieb oder in der Dienststelle übliche Informations- und Kommunikationstechnik zur Verfügung zu stellen oder an geeigneter Stelle im Betrieb oder in der Dienststelle zur Einsicht auszulegen oder auszuhängen.
 
 
 #### § 49 Verzeichnisse der Jugendlichen
@@ -1046,7 +1051,7 @@ Die Aufsichtsbehörde teilt schwerwiegende Verstöße gegen die Vorschriften die
 
 (2) Ausnahmen können nur für einzelne Beschäftigte, einzelne Betriebe oder einzelne Teile des Betriebs bewilligt werden.
 
-(3) Ist eine Ausnahme für einen Betrieb oder einen Teil des Betriebs bewilligt worden, so hat der Arbeitgeber hierüber an geeigneter Stelle im Betrieb einen Aushang anzubringen.
+(3) Ist eine Ausnahme für einen Betrieb oder einen Teil des Betriebs bewilligt worden, so hat der Arbeitgeber eine Kopie der Bewilligung den Arbeitnehmern über die im Betrieb oder in der Dienststelle übliche Informations- und Kommunikationstechnik zur Verfügung zu stellen oder an geeigneter Stelle im Betrieb oder in der Dienststelle zur Einsicht auszulegen oder auszuhängen.
 
 
 ### Dritter Titel - Ausschüsse für Jugendarbeitsschutz
@@ -1266,10 +1271,10 @@ Die Aufsichtsbehörde teilt schwerwiegende Verstöße gegen die Vorschriften die
 6.  entgegen § 43 Satz 1 einen Jugendlichen für ärztliche Untersuchungen nicht freistellt,
 
 
-7.  entgegen § 47 einen Abdruck des Gesetzes oder die Anschrift der zuständigen Aufsichtsbehörde nicht auslegt oder aushängt,
+7.  entgegen § 47 eine Kopie des Gesetzes oder die Anschrift der zuständigen Aufsichtsbehörde nicht, nicht richtig oder nicht vollständig zur Verfügung stellt und nicht, nicht richtig oder nicht vollständig auslegt und nicht, nicht richtig oder nicht vollständig aushängt,
 
 
-8.  entgegen § 48 Arbeitszeit und Pausen nicht oder nicht in der vorgeschriebenen Weise aushängt,
+8.  entgegen § 48 eine Information nicht, nicht richtig oder nicht vollständig zur Verfügung stellt und nicht, nicht richtig oder nicht vollständig auslegt und nicht, nicht richtig oder nicht vollständig aushängt,
 
 
 9.  entgegen § 49 ein Verzeichnis nicht oder nicht in der vorgeschriebenen Weise führt,
@@ -1281,7 +1286,7 @@ Die Aufsichtsbehörde teilt schwerwiegende Verstöße gegen die Vorschriften die
 11. entgegen § 51 Abs. 2 Satz 2 das Betreten oder Besichtigen der Arbeitsstätten nicht gestattet,
 
 
-12. entgegen § 54 Abs. 3 einen Aushang nicht anbringt.
+12. entgegen § 54 Abs. 3 eine Kopie nicht, nicht richtig oder nicht vollständig zur Verfügung stellt und nicht, nicht richtig oder nicht vollständig auslegt und nicht, nicht richtig oder nicht vollständig aushängt.
 
 
 

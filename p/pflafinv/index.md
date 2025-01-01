@@ -85,7 +85,7 @@ Die Befugnis der Länder, für staatliche Pflegeschulen die Rechtsträgerschaft 
 1.  die erforderlichen Angaben zur Festsetzung der Ausbildungsbudgets nach Anlage 2,
 
 
-2.  die Zahl der voraussichtlichen Ausbildungsverhältnisse im Finanzierungszeitraum differenziert nach beruflicher und hochschulischer Pflegeausbildung, einschließlich der Angabe, inwieweit diese jeweils eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie nach einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes oder, im Fall der Pflegeschulen, die voraussichtlichen Schülerzahlen im Finanzierungszeitraum differenziert nach beruflicher Pflegeausbildung (einschließlich der Angabe, inwieweit diese eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst) und nach einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes,
+2.  die Zahl der voraussichtlichen Ausbildungsverhältnisse im Finanzierungszeitraum differenziert nach beruflicher und hochschulischer Pflegeausbildung, einschließlich der Angabe, inwieweit diese jeweils eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie nach einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes und nach einer Qualifikation nach § 66e des Pflegeberufegesetzes, oder, im Fall der Pflegeschulen, die voraussichtlichen Schülerzahlen im Finanzierungszeitraum differenziert nach beruflicher Pflegeausbildung (einschließlich der Angabe, inwieweit diese eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst) und nach einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes,
 
 
 3.  bei einer Finanzierung über Pauschalbudgets die Angaben, die im Falle von § 4 Absatz 2 Satz 1 zur Festsetzung der Pauschalen nach den vereinbarten Differenzierungskriterien maßgeblich sind,
@@ -283,13 +283,13 @@ Die Angaben nach Satz 1 Nummer 2 und 3 sind zu begründen.
     f)  die Bezeichnung des Trägers der praktischen Ausbildung, der besuchten Pflegeschule oder der besuchten Hochschule samt Studiengang,
 
 
-    g)  die Art der Pflegeausbildung differenziert nach beruflicher und hochschulischer Pflegeausbildung, einschließlich der Angabe, inwieweit diese jeweils eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie nach einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes,
+    g)  die Art der Pflegeausbildung differenziert nach beruflicher und hochschulischer Pflegeausbildung, einschließlich der Angabe, inwieweit diese jeweils eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie nach einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes und nach einer Qualifikation nach § 66e des Pflegeberufegesetzes,
 
 
 
 
 
-2.  für Personen, die die Ausbildung während des Berichtsjahres beendet haben, zusätzlich Angaben zu Datum und Grund der Beendigung der Ausbildung einschließlich Art des Abschlusses (kein Abschluss, Abschluss nach § 1 des Pflegeberufegesetzes, Abschluss nach § 58 Absatz 1 des Pflegeberufegesetzes, Abschluss nach § 58 Absatz 2 des Pflegeberufegesetzes oder Abschluss nach § 39 Absatz 1 des Pflegeberufegesetzes, jeweils einschließlich der Angabe, inwieweit der Abschluss eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie Abschluss mit einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes).
+2.  für Personen, die die Ausbildung während des Berichtsjahres beendet haben, zusätzlich Angaben zu Datum und Grund der Beendigung der Ausbildung einschließlich Art des Abschlusses (kein Abschluss, Abschluss nach § 1 des Pflegeberufegesetzes, Abschluss nach § 58 Absatz 1 des Pflegeberufegesetzes, Abschluss nach § 58 Absatz 2 des Pflegeberufegesetzes oder Abschluss nach § 39 Absatz 1 des Pflegeberufegesetzes, jeweils einschließlich der Angabe, inwieweit der Abschluss eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie Abschluss mit einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes und Abschluss mit einer Qualifikation nach § 66e des Pflegeberufegesetzes).
 
 
 g)  Art der Ausbildung nach den Teilen 2, 3 oder 5,
@@ -750,7 +750,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   4.
 
-    *   die jeweilige Art der Ausbildung, in der sich die Personen befinden, differenziert nach beruflicher und hochschulischer Pflegeausbildung, einschließlich der Angabe, inwieweit diese jeweils eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie nach einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes,
+    *   die jeweilige Art der Ausbildung, in der sich die Personen befinden, differenziert nach beruflicher und hochschulischer Pflegeausbildung, einschließlich der Angabe, inwieweit diese jeweils eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie nach einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes und nach einer Qualifikation nach § 66e des Pflegeberufegesetzes,
 
 
 *    *   5.
@@ -760,12 +760,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   6.
 
-    *   Zeitpunkt des Abschlusses der Ausbildung einschließlich der Art (kein Abschluss, Abschluss nach § 1 des Pflegeberufegesetzes, Abschluss nach § 58 Absatz 1 des Pflegeberufegesetzes, Abschluss nach § 58 Absatz 2 des Pflegeberufegesetzes oder Abschluss nach § 39 Absatz 1 des Pflegeberufegesetzes, jeweils einschließlich der Angabe, inwieweit der Abschluss eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie Abschluss mit einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes) und
+    *   Zeitpunkt des Abschlusses der Ausbildung einschließlich der Art (kein Abschluss, Abschluss nach § 1 des Pflegeberufegesetzes, Abschluss nach § 58 Absatz 1 des Pflegeberufegesetzes, Abschluss nach § 58 Absatz 2 des Pflegeberufegesetzes oder Abschluss nach § 39 Absatz 1 des Pflegeberufegesetzes, jeweils einschließlich der Angabe, inwieweit der Abschluss eine zusätzliche Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes umfasst, sowie Abschluss mit einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes und Abschluss mit einer Qualifikation nach § 66e des Pflegeberufegesetzes) und
 
 
 *    *   7.
 
-    *   die für den Finanzierungszeitraum vertraglich vorgesehene Ausbildungsvergütung je Person differenziert nach beruflicher und hochschulischer Pflegeausbildung sowie nach einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes, und den jeweiligen Arbeitgeberbruttobetrag.
+    *   die für den Finanzierungszeitraum vertraglich vorgesehene Ausbildungsvergütung je Person differenziert nach beruflicher und hochschulischer Pflegeausbildung sowie nach einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes und nach einer Qualifikation nach § 66e des Pflegeberufegesetzes, und den jeweiligen Arbeitgeberbruttobetrag.
 
 
 
@@ -784,7 +784,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3.
 
-    *   Anzahl der Fälle der Durchführung einer zusätzlichen Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes oder einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes,
+    *   Anzahl der Fälle der Durchführung einer zusätzlichen Ausbildung nach § 14 Absatz 1 bis 6 des Pflegeberufegesetzes oder einer Qualifikation nach § 14 Absatz 7 des Pflegeberufegesetzes und einer Qualifikation nach § 66e des Pflegeberufegesetzes,
 
 
 *    *   4.

@@ -35,7 +35,7 @@ Auf Grund der §§ 14 und 131l der Wirtschaftsprüferordnung in der Fassung der 
 1.  ein tabellarischer Lebenslauf, der genaue Angaben über die Vorbildung und den beruflichen Werdegang enthält;
 
 
-2.  Zeugnisse über Hochschulprüfungen, andere einschlägige Prüfungen und die berufliche Tätigkeit, insbesondere mit Angaben über Art und Umfang der Prüfungstätigkeit, in Urschrift oder beglaubigter Abschrift; Angaben über Art und Umfang der Prüfungstätigkeit sind nicht erforderlich, wenn der Nachweis der Prüfungstätigkeit nach § 9 Abs. 4 der Wirtschaftsprüferordnung entfällt;
+2.  Zeugnisse über Hochschulprüfungen, andere einschlägige Prüfungen und die berufliche Tätigkeit, insbesondere mit Angaben über Art und Umfang der Prüfungstätigkeit; Angaben über Art und Umfang der Prüfungstätigkeit sind nicht erforderlich, wenn der Nachweis der Prüfungstätigkeit nach § 9 Abs. 4 der Wirtschaftsprüferordnung entfällt;
 
 
 3.  eine Erklärung darüber, ob und bei welcher Stelle bereits früher ein Antrag auf Zulassung zur Prüfung eingereicht wurde;
@@ -58,11 +58,22 @@ Auf Grund der §§ 14 und 131l der Wirtschaftsprüferordnung in der Fassung der 
 
 
 
-(2) Die Bescheinigung gemäß Absatz 1 Satz 2 Nr. 5, aus der Art und Umfang der Prüfungstätigkeit, insbesondere die Teilnahme an Abschlussprüfungen und die Mitwirkung bei der Abfassung der Prüfungsberichte, hervorgeht, ist in Urschrift oder beglaubigter Abschrift beizufügen. Die Prüfungsstelle kann die Vorlage von wenigstens zwei Prüfungsberichten verlangen. Werden Prüfungsberichte verlangt, hat die zu prüfende Person zu erklären, dass sie diese selbstständig oder im Wesentlichen selbstständig angefertigt hat und Zustimmungserklärungen der Auftraggebenden und der Auftragnehmenden zur Vorlage der Berichte beizufügen; die zu prüfende Person kann die Kennzeichnung des geprüften Gegenstandes in den Berichten beseitigen. Sind die Auftraggebenden nicht die Unternehmen, auf die sich die Prüfungsberichte beziehen, so sind außerdem deren Zustimmungserklärungen beizufügen. Bei Prüfungsberichten genossenschaftlicher Prüfungsverbände sind Zustimmungserklärungen des Prüfungsverbandes und des geprüften Unternehmens beizufügen. Werden Prüfungsberichte ohne Kennzeichnung des geprüften Gegenstandes vorgelegt, so genügt es, wenn die Auftragnehmenden erklären, dass ihnen gegenüber die Zustimmung der Auftraggebenden erteilt worden ist. Die Bescheinigung hat die ausstellende Stelle genau zu bezeichnen; sie ist von dieser auszustellen. Bescheinigungen oder eidesstattliche Versicherungen von zu prüfenden Personen, die nicht in eigener Praxis tätig sind, reichen nicht aus. Gleiches gilt für den Nachweis der Tätigkeit nach § 9 Abs. 1 der Wirtschaftsprüferordnung.
+(2) Aus der Bescheinigung nach Absatz 1 Satz 2 Nummer 5 müssen Art und Umfang der Prüfungstätigkeit, insbesondere die Teilnahme an Abschlussprüfungen und die Mitwirkung bei der Abfassung der Prüfberichte, hervorgehen. Die Prüfungsstelle kann die Vorlage von wenigstens zwei Prüfungsberichten verlangen. Werden Prüfungsberichte verlangt, hat die zu prüfende Person zu erklären, dass sie diese selbstständig oder im Wesentlichen selbstständig angefertigt hat und Zustimmungserklärungen der Auftraggebenden und der Auftragnehmenden zur Vorlage der Berichte beizufügen; die zu prüfende Person kann die Kennzeichnung des geprüften Gegenstandes in den Berichten beseitigen. Sind die Auftraggebenden nicht die Unternehmen, auf die sich die Prüfungsberichte beziehen, so sind außerdem deren Zustimmungserklärungen beizufügen. Bei Prüfungsberichten genossenschaftlicher Prüfungsverbände sind Zustimmungserklärungen des Prüfungsverbandes und des geprüften Unternehmens beizufügen. Werden Prüfungsberichte ohne Kennzeichnung des geprüften Gegenstandes vorgelegt, so genügt es, wenn die Auftragnehmenden erklären, dass ihnen gegenüber die Zustimmung der Auftraggebenden erteilt worden ist. Die Bescheinigung hat die ausstellende Stelle genau zu bezeichnen; sie ist von dieser auszustellen. Bescheinigungen oder eidesstattliche Versicherungen von zu prüfenden Personen, die nicht in eigener Praxis tätig sind, reichen nicht aus. Gleiches gilt für den Nachweis der Tätigkeit nach § 9 Abs. 1 der Wirtschaftsprüferordnung.
 
-(3) Anträge, Nachweise, Bescheinigungen, Aufsichtsarbeiten und Prüfungsniederschriften sind von der Prüfungsstelle nach Abschluss des Prüfungsverfahrens aufzubewahren. Im Fall des § 21 Absatz 4 sind Aufsichtsarbeiten hiervon ausgenommen. Aufsichtsarbeiten sollen nach Ablauf von drei Jahren nach Abschluss des Prüfungsverfahrens vernichtet werden. Für die übrigen Unterlagen beträgt die Aufbewahrungsfrist 70 Jahre; nach Ablauf der Frist sind alle Unterlagen zu vernichten. Unterlagen können auch in elektronischer Form aufbewahrt werden.
+(3) Wurde bereits einmal ein Antrag auf Zulassung gestellt, bei dem die Aufbewahrungsfristen nach § 1a Absatz 2 noch nicht abgelaufen sind, müssen die Unterlagen nach Absatz 1 Satz 2 Nummer 2, 4 und 5 nicht erneut eingereicht werden.
 
 (4) Die Erklärung nach Absatz 1 Satz 2 Nummer 8 kann auch nach der Zulassung zur Prüfung abgegeben werden, solange die Anmeldung zu einem Modul, um das die Prüfung verkürzt werden soll, nicht nach § 22 Absatz 1 Satz 1 oder Absatz 2 Satz 1 ausgeschlossen ist.
+
+
+### § 1a Aufbewahrungsfristen
+
+(1) Die Aufsichtsarbeiten nach § 5 Absatz 1 Satz 5 sind bei der Prüfungsstelle für die Dauer von mindestens drei Jahren nach Eintritt der Bestandskraft der Prüfungsentscheidung aufzubewahren. Im Fall des § 21 Absatz 4 besteht für Aufsichtsarbeiten keine Aufbewahrungspflicht.
+
+(2) Die Anträge auf Zulassung und auf verbindliche Auskunft, die Prüfungsunterlagen der einzelnen Bewerber und die Unterlagen zu den Entscheidungen über die Anträge und Prüfungen sind bei der Prüfungsstelle für die Dauer von mindestens zehn Jahren nach Eintritt der Bestandskraft der Verwaltungsentscheidung aufzubewahren. Wurde der Antrag auf Zulassung zurückgenommen, bevor über den Antrag rechtskräftig entschieden ist, beträgt die Aufbewahrungsfrist zwei Jahre nach Ablauf des Jahres, in dem die Rücknahme erfolgt ist.
+
+(3) Ein Nachweis über das Bestehen oder Nichtbestehen der Prüfung ist bei der Prüfungsstelle für die Dauer von mindestens 50 Jahren nach Eintritt der Bestandskraft der Verwaltungsentscheidung aufzubewahren.
+
+(4) Unterlagen können in elektronischer Form aufbewahrt werden.
 
 
 ### § 2 Prüfungskommission, Prüfungstermine
@@ -489,7 +500,7 @@ Aus der Gesamtnote oder Note der schriftlichen Modulprüfung und der Gesamtnote 
 
 (1) Eine Modulprüfung kann zweimal wiederholt werden. Für die Wiederholung der Modulprüfung ist eine Anmeldung bei der Prüfungsstelle erforderlich; § 5 Absatz 2 Satz 4 und 5 gilt entsprechend.
 
-(2) Die Prüfung kann einmal wiederholt werden. Für die Wiederholung der Prüfung ist eine erneute Zulassung erforderlich. Wird der Antrag auf erneute Zulassung gestellt, sind nur die in § 1 Absatz 1 Satz 2 Nummer 1, 3 und 8 genannten Unterlagen und Erklärungen beizufügen; dies gilt nicht für Anträge nach dem 31. Dezember 2003, wenn die Zulassung zur vorhergehenden Prüfung bereits vor dem 1. Januar 2004 erfolgt ist.
+(2) Die Prüfung kann einmal wiederholt werden. Für die Wiederholung der Prüfung ist eine erneute Zulassung erforderlich.
 
 (3) Im Fall der Wiederholung der Prüfung verfallen zuvor bestandene Modulprüfungen.
 
@@ -551,7 +562,7 @@ Die geprüfte Person kann nach Bekanntgabe des Ergebnisses der Prüfung die Prü
 
 
 
-(3) Der Antrag und die beizufügenden Unterlagen sind, soweit sie von der zu prüfenden Person stammen, in deutscher Sprache einzureichen; sonstige Unterlagen sind mit einer beglaubigten Übersetzung durch einen hierzu ermächtigten Übersetzer oder durch eine hierzu ermächtigte Übersetzerin im Geltungsbereich dieser Verordnung vorzulegen, soweit sie nicht in deutscher Sprache abgefasst sind. Prüfungssprache ist Deutsch. § 1 Abs. 3 gilt entsprechend.
+(3) Der Antrag und die beizufügenden Unterlagen sind, soweit sie von der zu prüfenden Person stammen, in deutscher Sprache einzureichen; sonstige Unterlagen sind mit einer beglaubigten Übersetzung durch einen hierzu ermächtigten Übersetzer oder durch eine hierzu ermächtigte Übersetzerin im Geltungsbereich dieser Verordnung vorzulegen, soweit sie nicht in deutscher Sprache abgefasst sind. Prüfungssprache ist Deutsch. § 1a gilt entsprechend.
 
 
 ### § 26 Prüfungskommission, Prüfungstermine

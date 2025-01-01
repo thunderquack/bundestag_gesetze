@@ -410,7 +410,7 @@ Die Künstlersozialkasse erhebt von den zur Abgabe Verpflichteten (§ 24) eine U
 
 
 
-Die Abgabepflicht nach Satz 1 setzt voraus, dass die Summe der Entgelte nach § 25 für einen in einem Kalenderjahr erteilten Auftrag oder mehrere in einem Kalenderjahr erteilte Aufträge 450 Euro übersteigt. Eine Abgabepflicht nach Satz 1 besteht in Fällen des Satzes 1 Nummer 2 nicht
+Die Abgabepflicht nach Satz 1 setzt voraus, dass die Summe der Entgelte nach § 25 für einen in einem Kalenderjahr erteilten Auftrag oder mehrere in einem Kalenderjahr erteilte Aufträge 1 000 Euro übersteigt. Eine Abgabepflicht nach Satz 1 besteht in Fällen des Satzes 1 Nummer 2 nicht
 
 1.  für Entgelte, die im Rahmen der Durchführung von Veranstaltungen gezahlt werden, wenn in einem Kalenderjahr nicht mehr als drei Veranstaltungen durchgeführt werden, in denen künstlerische oder publizistische Werke oder Leistungen aufgeführt oder dargeboten werden sowie
 
@@ -436,7 +436,7 @@ Die Abgabepflicht nach Satz 1 setzt voraus, dass die Summe der Entgelte nach § 
 1.  die Entgelte, die für urheberrechtliche Nutzungsrechte, sonstige Rechte des Urhebers oder Leistungsschutzrechte an Verwertungsgesellschaften gezahlt werden,
 
 
-2.  steuerfreie Aufwandsentschädigungen und die in § 3 Nr. 26 des Einkommensteuergesetzes genannten steuerfreien Einnahmen.
+2.  steuerfreie Aufwandsentschädigungen und die in § 3 Nummer 26 und 26a des Einkommensteuergesetzes genannten steuerfreien Einnahmen.
 
 
 
@@ -663,13 +663,13 @@ Auf die Rechtsbeziehungen zwischen der Künstlersozialkasse und den Versicherten
 
 ### § 37
 
-(1) Die Unfallversicherung Bund und Bahn führt dieses Gesetz im Auftrag des Bundes als Künstlersozialkasse durch.
+(1) Die Deutsche Rentenversicherung Knappschaft-Bahn-See führt dieses Gesetz im Auftrag des Bundes als Künstlersozialkasse durch. Der Dienstsitz der Künstlersozialkasse ist Wilhelmshaven.
 
-(2) In Angelegenheiten der Künstlersozialversicherung führt der Geschäftsführer der Unfallversicherung Bund und Bahn die Verwaltungsgeschäfte und vertritt die Künstlersozialkasse gerichtlich und außergerichtlich. Stellvertreter des Geschäftsführers in Angelegenheiten der Künstlersozialversicherung ist der für die Künstlersozialkasse zuständige Abteilungsleiter; dieser wird auf Vorschlag des Geschäftsführers nach Anhörung des Beirats bei der Künstlersozialkasse vom Bundesministerium für Arbeit und Soziales bestellt.
+(2) In Angelegenheiten der Künstlersozialversicherung führt das dafür zuständige Mitglied der Geschäftsführung der Deutschen Rentenversicherung Knappschaft-Bahn-See die Verwaltungsgeschäfte und vertritt die Künstlersozialkasse gerichtlich und außergerichtlich. Vor seiner Bestellung ist der Beirat bei der Künstlersozialkasse zu hören. Die für die Künstlersozialkasse zuständige Abteilungsleitung wird auf Vorschlag des Mitglieds der Geschäftsführung nach Anhörung des Beirats bei der Künstlersozialkasse vom Bundesministerium für Arbeit und Soziales bestellt.
 
-(3) Das Bundesministerium für Arbeit und Soziales ernennt und entlässt die Beamtinnen und Beamten der Künstlersozialkasse. Es kann seine Befugnisse auf die Geschäftsführerin oder den Geschäftsführer der Unfallversicherung Bund und Bahn übertragen.
+(3) Das Bundesministerium für Arbeit und Soziales ernennt und entlässt die Beamtinnen und Beamten der Künstlersozialkasse. Es kann seine Befugnisse auf das zuständige Mitglied der Geschäftsführung der Deutschen Rentenversicherung Knappschaft-Bahn-See übertragen.
 
-(4) Oberste Dienstbehörde für den in Absatz 2 Satz 2 genannten Stellvertreter ist das Bundesministerium für Arbeit und Soziales, für die übrigen Beamten der Künstlersozialkasse der Geschäftsführer der Unfallversicherung Bund und Bahn.
+(4) Oberste Dienstbehörde für die in Absatz 2 Satz 3 genannte Abteilungsleitung ist das Bundesministerium für Arbeit und Soziales, für die übrigen Beamten der Künstlersozialkasse das zuständige Mitglied der Geschäftsführung der Deutschen Rentenversicherung Knappschaft-Bahn-See.
 
 
 ### § 37a
@@ -728,22 +728,22 @@ Das Bundesministerium für Arbeit und Soziales bestimmt durch Rechtsverordnung d
 
 ### § 42
 
-Die Einnahmen aus Beitragsanteilen, der Künstlersozialabgabe und dem Bundeszuschuss sind als abgesondertes Vermögen zu verwalten. Dieses haftet nicht für Verbindlichkeiten der Unfallversicherung Bund und Bahn als Träger der gesetzlichen Unfallversicherung. Die Haftung der Unfallversicherung Bund und Bahn für Verbindlichkeiten der Künstlersozialkasse nach dem Ersten und Vierten Teil ist auf das abgesonderte Vermögen der Künstlersozialkasse beschränkt.
+Die Einnahmen aus Beitragsanteilen, der Künstlersozialabgabe und dem Bundeszuschuss sind als abgesondertes Vermögen zu verwalten. Dieses haftet nicht für Verbindlichkeiten der Deutschen Rentenversicherung Knappschaft-Bahn-See aus der Durchführung ihrer weiteren Aufgabenstellungen. Die Haftung der Deutschen Rentenversicherung Knappschaft-Bahn-See für Verbindlichkeiten der Künstlersozialkasse nach dem Ersten und Vierten Teil ist auf das abgesonderte Vermögen der Künstlersozialkasse beschränkt.
 
 
 ### § 43
 
-(1) Die Unfallversicherung Bund und Bahn weist alle zu erwartenden Einnahmen, voraussichtlich zu leistenden Ausgaben und voraussichtlich benötigten Verpflichtungsermächtigungen der Künstlersozialkasse in einem gesonderten Haushaltsplan aus. Auf die Aufstellung und Ausführung des Haushaltsplans, die Zahlungen, die Buchführung und die Rechnungslegung sind die für die Träger der Rentenversicherung jeweils geltenden Bestimmungen, mit Ausnahme des Kontenrahmens, entsprechend anzuwenden.
+(1) Die Deutsche Rentenversicherung Knappschaft-Bahn-See weist alle zu erwartenden Einnahmen, voraussichtlich zu leistenden Ausgaben und voraussichtlich benötigten Verpflichtungsermächtigungen der Künstlersozialkasse in einem gesonderten Haushaltsplan aus. Auf die Aufstellung und Ausführung des Haushaltsplans, die Zahlungen, die Buchführung und die Rechnungslegung sind die für die Träger der Rentenversicherung jeweils geltenden Bestimmungen einschließlich § 71 Absatz 2 des Vierten Buches Sozialgesetzbuch, mit Ausnahme des Kontenrahmens, entsprechend anzuwenden.
 
-(2) Die Künstlersozialkasse erstellt einen eigenen Kontenrahmen. Er bedarf der Genehmigung des Bundesamtes für Soziale Sicherung. Die Veranschlagung und Buchung der Verwaltungseinnahmen und -ausgaben sowie der Investitionseinnahmen und -ausgaben richtet sich nach dem Kontenrahmen für die Träger der allgemeinen Rentenversicherung.
+(2) Die Künstlersozialkasse erstellt einen eigenen Kontenrahmen. Er bedarf der Genehmigung des Bundesamtes für Soziale Sicherung. Die Veranschlagung und Buchung der Verwaltungseinnahmen und -ausgaben sowie der Investitionseinnahmen und -ausgaben richtet sich nach dem Kontenrahmen für die Träger der Deutschen Rentenversicherung.
 
 (3) Die Künstlersozialkasse stellt unter Mitwirkung des Bundesministeriums für Arbeit und Soziales den Haushaltsplan auf und stellt ihn nach Anhörung des Beirats fest.
 
-(4) Der Haushaltsplan bedarf der Genehmigung des Bundesamtes für Soziale Sicherung, die mit Zustimmung des Bundesministeriums für Arbeit und Soziales und des Bundesministeriums der Finanzen erteilt wird. Die Genehmigung erstreckt sich auch auf die Zweckmäßigkeit der Ansätze. Der Haushaltsplan ist dem Bundesamt für Soziale Sicherung spätestens am 1. September vor Beginn des Haushaltsjahres, für das er gelten soll, vorzulegen.
+(4) Der Haushaltsplan bedarf der Genehmigung des Bundesamtes für Soziale Sicherung, die mit Zustimmung des Bundesministeriums für Arbeit und Soziales und des Bundesministeriums der Finanzen erteilt wird. Die Genehmigung erstreckt sich auch auf die Zweckmäßigkeit der Ansätze. Der Haushaltsplan ist dem Bundesamt für Soziale Sicherung spätestens am 1. November vor Beginn des Haushaltsjahres, für das er gelten soll, vorzulegen.
 
 (5) Soweit der Haushaltsplan zu Beginn des Haushaltsjahres noch nicht genehmigt ist, kann das Bundesamt für Soziale Sicherung zulassen, daß die Künstlersozialkasse die Ausgaben leistet, die unvermeidbar sind, um ihre rechtlich begründeten Verpflichtungen und Aufgaben zu erfüllen.
 
-(6) Im Falle eines unvorhergesehenen und unabweisbaren Bedürfnisses, für das Ausgaben im Haushaltsplan nicht oder nicht in ausreichender Höhe veranschlagt sind, kann die Künstlersozialkasse mit Einwilligung des Bundesamtes für Soziale Sicherung, die mit Zustimmung des Bundesministeriums für Arbeit und Soziales und des Bundesministeriums der Finanzen erteilt wird, überplanmäßige und außerplanmäßige Ausgaben leisten. Bei Beitragsabführungen erforderliche überplanmäßige Ausgaben können abweichend von Satz 1 vom Geschäftsführer der Unfallversicherung Bund und Bahn bewilligt werden. Die Bewilligung ist unverzüglich von der Unfallversicherung Bund und Bahn dem Bundesamt für Soziale Sicherung anzuzeigen. Das Bundesversicherungsamt setzt das Bundesministerium für Arbeit und Soziales und das Bundesministerium der Finanzen über die Bewilligung in Kenntnis.
+(6) Im Falle eines unvorhergesehenen und unabweisbaren Bedürfnisses, für das Ausgaben im Haushaltsplan nicht oder nicht in ausreichender Höhe veranschlagt sind, kann die Künstlersozialkasse mit Einwilligung des Bundesamtes für Soziale Sicherung, die mit Zustimmung des Bundesministeriums für Arbeit und Soziales und des Bundesministeriums der Finanzen erteilt wird, überplanmäßige und außerplanmäßige Ausgaben leisten. Bei Beitragsabführungen erforderliche überplanmäßige Ausgaben können abweichend von Satz 1 vom zuständigen Mitglied der Geschäftsführung der Deutschen Rentenversicherung Knappschaft-Bahn-See bewilligt werden. Die Bewilligung ist unverzüglich von der Deutschen Rentenversicherung Knappschaft-Bahn-See dem Bundesamt für Soziale Sicherung anzuzeigen. Das Bundesamt für Soziale Sicherung setzt das Bundesministerium für Arbeit und Soziales und das Bundesministerium der Finanzen über die Bewilligung in Kenntnis.
 
 (7) Nach Ende des Haushaltsjahres hat die Künstlersozialkasse eine Jahresrechnung aufzustellen. Die Jahresrechnung umfaßt auch den Bestand, die Einnahmen und Ausgaben der Liquiditätsreserve und des sonstigen Vermögens. Sie ist von dem nach § 77 Absatz 1a Satz 5 des Vierten Buches Sozialgesetzbuch bestellten Prüfer zu prüfen. Das Bundesamt für Soziale Sicherung erteilt die Entlastung.
 
@@ -803,8 +803,9 @@ Die Künstlersozialkasse hat die Versicherten und die zur Künstlersozialabgabe 
 Abweichend von § 5 Absatz 1 Nummer 5 und Absatz 2 Nummer 1 ist in der gesetzlichen Krankenversicherung und in der sozialen Pflegeversicherung nach diesem Gesetz im Zeitraum vom 23. Juli 2021 bis zum Ablauf des 31. Dezember 2022 erst dann versicherungsfrei, wer eine nicht unter § 2 fallende selbstständige Tätigkeit erwerbsmäßig ausübt und daraus ein Arbeitseinkommen erzielt, das voraussichtlich 1 300 Euro im Monat übersteigt, wenn eine Versicherungsfreiheit in der gesetzlichen Krankenversicherung und der sozialen Pflegeversicherung nach diesem Gesetz im Zeitraum ab dem 1. Januar 2020 eingetreten ist oder eintritt.
 
 
-### § 54 (weggefallen)
+### § 54
 
+Abweichend von § 24 Absatz 2 Satz 2 beträgt die Entgeltsumme 700 Euro im Kalenderjahr 2025.
 
 
 ### § 55

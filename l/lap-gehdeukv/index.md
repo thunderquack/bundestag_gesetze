@@ -135,7 +135,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
     a)  des Schwerbehindertenausweises oder des Bescheides über die Gleichstellung als schwerbehinderter Mensch und
 
 
-    b)  des Zulassungs- oder Eingliederungsscheins oder der Bestätigung nach § 10 Abs. 4 des Soldatenversorgungsgesetzes.
+    b)  des Zulassungs- oder Eingliederungsscheins oder der Bestätigung nach § 14 Absatz 3 des Soldatenversorgungsgesetzes.
 
 
 

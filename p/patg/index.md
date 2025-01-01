@@ -365,7 +365,7 @@ Für jede Anmeldung und jedes Patent ist für das dritte und jedes folgende Jahr
 
 ### § 23
 
-(1) Erklärt sich der Patentanmelder oder der im Register (§ 30 Abs. 1) als Patentinhaber Eingetragene dem Deutschen Patent- und Markenamt gegenüber schriftlich bereit, jedermann die Benutzung der Erfindung gegen angemessene Vergütung zu gestatten, so ermäßigen sich die für das Patent nach Eingang der Erklärung fällig werdenden Jahresgebühren auf die Hälfte. Die Erklärung ist im Register einzutragen und im Patentblatt zu veröffentlichen.
+(1) Erklärt sich der Patentanmelder oder der im Register (§ 30 Abs. 1) als Patentinhaber Eingetragene dem Deutschen Patent- und Markenamt gegenüber schriftlich im Sinne des § 125a bereit, jedermann die Benutzung der Erfindung gegen angemessene Vergütung zu gestatten, so ermäßigen sich die für das Patent nach Eingang der Erklärung fällig werdenden Jahresgebühren auf die Hälfte. Die Erklärung ist im Register einzutragen und im Patentblatt zu veröffentlichen.
 
 (2) Die Erklärung ist unzulässig, solange im Register ein Vermerk über die Einräumung einer ausschließlichen Lizenz (§ 30 Abs. 4) eingetragen ist oder ein Antrag auf Eintragung eines solchen Vermerks dem Deutschen Patent- und Markenamt vorliegt.
 
@@ -377,7 +377,7 @@ Für jede Anmeldung und jedes Patent ist für das dritte und jedes folgende Jahr
 
 (6) Wird die Erklärung für eine Anmeldung abgegeben, so sind die Bestimmungen der Absätze 1 bis 5 entsprechend anzuwenden.
 
-(7) Die Erklärung kann jederzeit gegenüber dem Deutschen Patent- und Markenamt schriftlich zurückgenommen werden, solange dem Patentinhaber noch nicht die Absicht angezeigt worden ist, die Erfindung zu benutzen. Die Zurücknahme wird mit ihrer Einreichung wirksam. Der Betrag, um den sich die Jahresgebühren ermäßigt haben, ist innerhalb eines Monats nach der Zurücknahme der Erklärung zu entrichten. Wird der Unterschiedsbetrag nicht innerhalb der Frist des Satzes 3 gezahlt, so kann er mit dem Verspätungszuschlag noch bis zum Ablauf einer Frist von weiteren vier Monaten gezahlt werden.
+(7) Die Erklärung kann jederzeit gegenüber dem Deutschen Patent- und Markenamt schriftlich im Sinne des § 125a zurückgenommen werden, solange dem Patentinhaber noch nicht die Absicht angezeigt worden ist, die Erfindung zu benutzen. Die Zurücknahme wird mit ihrer Einreichung wirksam. Der Betrag, um den sich die Jahresgebühren ermäßigt haben, ist innerhalb eines Monats nach der Zurücknahme der Erklärung zu entrichten. Wird der Unterschiedsbetrag nicht innerhalb der Frist des Satzes 3 gezahlt, so kann er mit dem Verspätungszuschlag noch bis zum Ablauf einer Frist von weiteren vier Monaten gezahlt werden.
 
 
 ### § 24

@@ -821,7 +821,7 @@ Nach Ablauf dieser Frist darf der Anzeigende die Anlage zur Erzeugung ionisieren
 
 
 
-hat dies der zuständigen Behörde spätestens vier Wochen vor dem beabsichtigten Beginn schriftlich anzuzeigen, sofern der Betrieb nicht nach Absatz 2 der Genehmigungspflicht unterliegt. Nach Ablauf dieser Frist darf der Anzeigende die Röntgeneinrichtung betreiben, es sei denn, die zuständige Behörde hat das Verfahren nach § 20 Absatz 2 ausgesetzt oder den Betrieb untersagt.
+hat dies der zuständigen Behörde spätestens zwei Wochen vor dem beabsichtigten Beginn schriftlich anzuzeigen, sofern der Betrieb nicht nach Absatz 2 der Genehmigungspflicht unterliegt. Nach Ablauf dieser Frist darf der Anzeigende die Röntgeneinrichtung betreiben, es sei denn, die zuständige Behörde hat das Verfahren nach § 20 Absatz 2 ausgesetzt oder den Betrieb untersagt.
 
 (2) Abweichend von Absatz 1 Satz 1 Nummer 1 bedarf einer Genehmigung nach § 12 Absatz 1 Nummer 4, wer eine Röntgeneinrichtung
 
@@ -909,7 +909,7 @@ Verweigert der Sachverständige die Erteilung der Bescheinigung nach Satz 1 Numm
 
 ##### § 20 Prüfung des angezeigten Betriebs einer Röntgeneinrichtung
 
-(1) Die zuständige Behörde prüft die Unterlagen innerhalb von vier Wochen nach Eingang der Anzeige. Teilt die Behörde dem Anzeigenden vor Ablauf der Frist schriftlich mit, dass alle Nachweise nach § 19 Absatz 3 oder 4 erbracht sind, darf der Anzeigende die Röntgeneinrichtung bereits mit Erhalt der Mitteilung betreiben.
+(1) Die zuständige Behörde prüft die Unterlagen innerhalb von zwei Wochen nach Eingang der Anzeige. Teilt die Behörde dem Anzeigenden vor Ablauf der Frist schriftlich mit, dass alle Nachweise nach § 19 Absatz 3 oder 4 erbracht sind, darf der Anzeigende die Röntgeneinrichtung bereits mit Erhalt der Mitteilung betreiben.
 
 (2) Leitet die zuständige Behörde im Falle einer Anzeige nach § 19 Absatz 1 Satz 1 Nummer 1 innerhalb der Frist nach Absatz 1 ein Verfahren zur Prüfung der Rechtfertigung nach § 7 ein, so setzt sie das Verfahren zur Prüfung der Anzeige für die Dauer des Verfahrens zur Prüfung der Rechtfertigung aus.
 

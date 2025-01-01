@@ -655,7 +655,7 @@ Eine Differenzierung der Entgelte zur Verfolgung von öffentlichen oder allgemei
 
 (5) Um einen reibungslosen und effizienten Betrieb auf einem Flughafen sicherzustellen, können die Unternehmer von Verkehrsflughäfen nach Absatz 3 und die Flughafennutzer Leistungsvereinbarungen bezüglich der Qualität der am Flughafen zu erbringenden Dienstleistungen abschließen. Dabei sind die Entgeltordnung sowie Art und Umfang der Dienstleistungen, auf die die Flughafennutzer im Gegenzug für die Zahlung von Flughafenentgelten Anrecht haben, zu berücksichtigen.
 
-(6) Die Genehmigungsbehörde stellt dem Bundesministerium für Digitales und Verkehr auf dessen Verlangen Informationen zur Übermittlung an die Kommission der Europäischen Union im Hinblick auf die Umsetzung und Anwendung der Richtlinie 2009/12/EG des Europäischen Parlaments und des Rates vom 11. März 2009 über Flughafenentgelte (ABl. L 70 vom 14.3.2009, S. 11) zur Verfügung. Die Unternehmer von Verkehrsflughäfen nach Absatz 3 sind verpflichtet, der Genehmigungsbehörde die nach Satz 1 erforderlichen Auskünfte zu erteilen und Unterlagen vorzulegen, soweit dem keine anderweitigen Vorschriften oder Betriebs- und Geschäftsgeheimnisse entgegenstehen.
+(6) (weggefallen)
 
 
 #### § 19c

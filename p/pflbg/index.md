@@ -751,7 +751,7 @@ zu bestimmen; sie können diese Ermächtigung durch Rechtsverordnung auf oberste
 
 (1) Die primärqualifizierende Pflegeausbildung an Hochschulen befähigt zur unmittelbaren Tätigkeit an zu pflegenden Menschen aller Altersstufen und verfolgt gegenüber der beruflichen Pflegeausbildung nach Teil 2 ein erweitertes Ausbildungsziel.
 
-(2) Die hochschulische Ausbildung zur Pflegefachfrau oder zum Pflegefachmann vermittelt die für die selbstständige umfassende und prozessorientierte Pflege von Menschen aller Altersstufen nach § 5 Absatz 2 in akut und dauerhaft stationären sowie ambulanten Pflegesituationen erforderlichen fachlichen und personalen Kompetenzen auf wissenschaftlicher Grundlage und Methodik.
+(2) Die hochschulische Ausbildung zur Pflegefachfrau oder zum Pflegefachmann vermittelt die für die selbstständige umfassende und prozessorientierte Pflege von Menschen aller Altersstufen nach § 5 Absatz 2 in akut und dauerhaft stationären sowie ambulanten Pflegesituationen erforderlichen fachlichen und personalen Kompetenzen auf wissenschaftlicher Grundlage und Methodik. Sie vermittelt zusätzlich die zur eigenverantwortlichen und selbständigen Ausübung von erweiterten heilkundlichen Tätigkeiten erforderlichen fachlichen und personalen Kompetenzen auf wissenschaftlicher Grundlage und Methodik in den Bereichen diabetische Stoffwechsellage, chronische Wunden und Demenz.
 
 (3) Die hochschulische Ausbildung umfasst die in § 5 Absatz 3 beschriebenen Kompetenzen der beruflichen Pflegeausbildung. Sie befähigt darüber hinaus insbesondere
 
@@ -764,10 +764,22 @@ zu bestimmen; sie können diese Ermächtigung durch Rechtsverordnung auf oberste
 3.  sich Forschungsgebiete der professionellen Pflege auf dem neuesten Stand der gesicherten Erkenntnisse erschließen und forschungsgestützte Problemlösungen wie auch neue Technologien in das berufliche Handeln übertragen zu können sowie berufsbezogene Fort- und Weiterbildungsbedarfe zu erkennen,
 
 
-4.  sich kritisch-reflexiv und analytisch sowohl mit theoretischem als auch praktischem Wissen auseinandersetzen und wissenschaftsbasiert innovative Lösungsansätze zur Verbesserung im eigenen beruflichen Handlungsfeld entwickeln und implementieren zu können und
+4.  sich kritisch-reflexiv und analytisch sowohl mit theoretischem als auch praktischem Wissen auseinandersetzen und wissenschaftsbasiert innovative Lösungsansätze zur Verbesserung im eigenen beruflichen Handlungsfeld entwickeln und implementieren zu können,
 
 
-5.  an der Entwicklung von Qualitätsmanagementkonzepten, Leitlinien und Expertenstandards mitzuwirken.
+5.  an der Entwicklung von Qualitätsmanagementkonzepten, Leitlinien und Expertenstandards mitzuwirken,
+
+
+6.  zur selbständigen und eigenverantwortlichen Übernahme von erweiterten heilkundlichen Tätigkeiten in den in Absatz 2 Satz 2 genannten Bereichen in Pflege- und Therapieprozessen auch bei hochkomplexen Pflegebedarfen von Menschen aller Altersstufen unter Einbezug von deren Bezugspersonen und in Zusammenarbeit mit den behandelnden Ärztinnen und Ärzten,
+
+
+7.  zur Integration der eigenverantwortlich und selbständig ausgeübten erweiterten heilkundlichen Aufgaben in den in Absatz 2 Satz 2 genannten Bereichen in den Pflege- und Therapieprozess aus einer pflegerischen Perspektive sowie dazu, die so gewonnenen Erkenntnisse im interprofessionellen Team argumentativ zu vertreten und die subjektiven Vorstellungen zu diesen Aufgaben zu reflektieren,
+
+
+8.  zur Verabreichung von Infusionstherapie und Injektionen sowie zur Verordnung von und Versorgung mit Medizinprodukten und Hilfsmitteln in den in Absatz 2 Satz 2 genannten Bereichen und
+
+
+9.  zur Auseinandersetzung mit einem professionellen Berufs- und Rollenverständnis in Bezug auf die selbständige und eigenverantwortliche Ausübung erweiterter heilkundlicher Tätigkeiten sowie den damit zusammenhängenden fachlichen, wirtschaftlichen, rechtlichen und ethischen Fragestellungen, die sich aus dem Anspruch einer prozesshaften Bearbeitung und einer am zu pflegenden Menschen ausgerichteten Pflege ergeben.
 
 
 
@@ -1517,9 +1529,19 @@ die vor Ablauf des 31. Dezember 2019 begonnen wurde, kann bis zum 31. Dezember 2
 (4) Die durch die Zahlung einer nach Absatz 2 Satz 2 vertraglich vereinbarten Vergütung entstehenden Kosten der Einrichtung nach § 7 Absatz 1, bei der der überwiegende Teil der Praxiseinsätze der studierenden Person stattfindet, werden im Finanzierungsverfahren nach § 39a berücksichtigt.
 
 
-### § 66c Überleitung von begonnenen hochschulischen Pflegeausbildungen nach Teil 3 dieses Gesetzes in der am 31. Dezember 2023 geltenden Fassung
+### § 66c Übergangsvorschrift für begonnene hochschulische Pflegeausbildungen nach Teil 3 dieses Gesetzes in der am 31. Dezember 2024 geltenden Fassung
 
-Die Möglichkeit der Überleitung bereits auf Grundlage von Teil 3 dieses Gesetzes in der am 31. Dezember 2023 geltenden Fassung begonnener hochschulischer Pflegeausbildungen in eine hochschulische Pflegeausbildung auf Grundlage von Teil 3 dieses Gesetzes in der geltenden Fassung bleibt unberührt. Das Nähere regeln die Länder.
+Eine hochschulische Pflegeausbildung, die auf Grundlage von Teil 3 dieses Gesetzes in der am 31. Dezember 2024 geltenden Fassung begonnen wurde, kann bis zum 31. Dezember 2029 auf dieser Grundlage abgeschlossen werden.
+
+
+### § 66d Überleitung von begonnenen hochschulischen Pflegeausbildungen nach Teil 3 dieses Gesetzes in der am 31. Dezember 2023 oder in der am 31. Dezember 2024 geltenden Fassung
+
+Die Möglichkeit der Überleitung bereits auf Grundlage von Teil 3 dieses Gesetzes in der am 31. Dezember 2023 oder in der am 31. Dezember 2024 geltenden Fassung begonnener hochschulischer Pflegeausbildungen in eine hochschulische Pflegeausbildung auf Grundlage von Teil 3 dieses Gesetzes in der geltenden Fassung bleibt unberührt. Das Nähere regeln die Länder.
+
+
+### § 66e Übergangsvorschrift für Personen, die bereits über eine Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Satz 2 verfügen
+
+Personen, die bereits über eine Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Satz 2 verfügen, können die für eine erweiterte heilkundliche Tätigkeit nach § 37 Absatz 2 Satz 2 erforderlichen Kompetenzen ebenfalls erwerben. In diesem Fall finden für den gesonderten Erwerb von erweiterten heilkundlichen Kompetenzen nach § 37 Absatz 2 Satz 2 die Vorschriften von Teil 3 dieses Gesetzes in der geltenden Fassung entsprechend Anwendung. Die erworbenen erweiterten heilkundlichen Kompetenzen werden zum Ende des Studienangebots staatlich geprüft.
 
 
 ### § 67 Kooperationen von Hochschulen und Pflegeschulen

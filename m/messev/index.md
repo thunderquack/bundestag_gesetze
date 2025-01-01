@@ -391,7 +391,7 @@ Satz 1 Nummer 1 Buchstabe d ist nicht für Messgeräte anzuwenden, die an ein Br
 7.  zur Erstattung von Gutachten für staatsanwaltschaftliche oder gerichtliche Verfahren, für Schiedsverfahren oder für andere amtliche Zwecke,
 
 
-8.  bei der Verwendung von Messgeräten für die Abgasuntersuchung von Kraftfahrzeugen für die amtliche Überwachung des öffentlichen Verkehrs,
+8.  bei der Verwendung von Messgeräten nach Anlage VIIId der Straßenverkehrs-Zulassungs-Ordnung für die amtliche Überwachung des öffentlichen Verkehrs,
 
 
 9.  zur Durchführung sonstiger öffentlicher Überwachungsaufgaben.

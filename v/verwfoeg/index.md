@@ -149,7 +149,7 @@ nicht unterschreiten.
 
 (2) Endet ein nach § 2 Abs. 1 Nr. 4 begründetes Beamtenverhältnis auf Probe vor der Berufung in das Beamtenverhältnis auf Lebenszeit ohne Versorgungsanspruch, gilt der Betroffene als nach § 2 des Personalstärkegesetzes mit Ablauf des Monats vor der Ernennung zum Beamten auf Probe in den Ruhestand versetzt.
 
-(3) Auf die in § 1 Nr. 1 Buchstabe b bezeichneten Soldaten im Ruhestand findet § 53 Abs. 2 Nr. 1 des Soldatenversorgungsgesetzes mit der Maßgabe Anwendung, daß als Höchstgrenze einhundertdreißig vom Hundert der ruhegehaltfähigen Dienstbezüge der Besoldungsgruppe gelten, aus der sich das Ruhegehalt berechnet. Eine Anschlußverwendung liegt auch vor, wenn eine Einstellung als Arbeitnehmer im öffentlichen Dienst bis zum ersten Werktag des dritten Monats nach Beendigung des Soldatenverhältnisse erfolgt. Satz 1 gilt nicht für Hinterbliebene.
+(3) Auf die in § 1 Nr. 1 Buchstabe b bezeichneten Soldaten im Ruhestand findet § 68 Abs. 2 Nr. 1 des Soldatenversorgungsgesetzes mit der Maßgabe Anwendung, daß als Höchstgrenze einhundertdreißig vom Hundert der ruhegehaltfähigen Dienstbezüge der Besoldungsgruppe gelten, aus der sich das Ruhegehalt berechnet. Eine Anschlußverwendung liegt auch vor, wenn eine Einstellung als Arbeitnehmer im öffentlichen Dienst bis zum ersten Werktag des dritten Monats nach Beendigung des Soldatenverhältnisse erfolgt. Satz 1 gilt nicht für Hinterbliebene.
 
 
 ## Art 2 - 

@@ -188,11 +188,7 @@ Der Arbeitgeber oder die mit der Insolvenzabwicklung betraute Person hat für fr
 
 #### § 11a Meldungen von Arbeitsentgelt bei flexiblen Arbeitszeitregelungen
 
-(1) Arbeitsentgelt nach § 23b Abs. 2 bis 3 des Vierten Buches Sozialgesetzbuch ist mit der ersten folgenden Lohn- und Gehaltsabrechnung gesondert zu melden, wenn es nicht nach § 7c oder § 7f Abs. 2 Satz 1 des Vierten Buches Sozialgesetzbuch verwendet wird.
-
-(2) Der Wechsel von einem Wertguthaben, das im Beitrittsgebiet erzielt wurde, zu einem Wertguthaben, das im übrigen Bundesgebiet erzielt wurde, und umgekehrt ist mit der ersten folgenden Lohn- und Gehaltsabrechnung nach dem Wechsel taggenau zu melden.
-
-(3) Wird im selben Zeitraum ein Wertguthaben aufgelöst und Arbeitsentgelt gezahlt, ist das Wertguthaben nur dann gesondert unter der Angabe, ob es im Beitritts- oder im übrigen Bundesgebiet erzielt worden ist, zu melden, wenn nicht beide zusammen im Beitrittsgebiet oder zusammen im übrigen Bundesgebiet erzielt worden sind.
+Arbeitsentgelt nach § 23b Abs. 2 bis 3 des Vierten Buches Sozialgesetzbuch ist mit der ersten folgenden Lohn- und Gehaltsabrechnung gesondert zu melden, wenn es nicht nach § 7c oder § 7f Abs. 2 Satz 1 des Vierten Buches Sozialgesetzbuch verwendet wird.
 
 
 #### § 11b Meldung von Arbeitsentgelten bei Mehrfachbeschäftigung auf Anforderung der Einzugsstelle
@@ -294,7 +290,7 @@ Der Antragsteller erhält das Prüfprotokoll und einen Zulassungsbescheid vom Sp
 
 #### § 22 Gemeinsame Grundsätze
 
-Der Spitzenverband Bund der Krankenkassen, die Deutsche Rentenversicherung Bund, die Deutsche Rentenversicherung Knappschaft-Bahn-See, die Bundesagentur für Arbeit, die Deutsche Gesetzliche Unfallversicherung e. V. und die Arbeitsgemeinschaft der berufsständischen Versorgungseinrichtungen e. V. bestimmen in Gemeinsamen Grundsätzen den Umfang, die Grundlagen, das Antrags- und Zulassungsverfahren, die Durchführung, die Qualitätssicherung und die Korrekturen für eine Systemprüfung. Sie legen fest, welche Verfahren grundsätzlich von allen Programmen oder Ausfüllhilfen zu erfüllen sind (Basismodule) und welche Verfahren optional angeboten werden (Zusatzmodul). Die Grundsätze bedürfen der Genehmigung des Bundesministeriums für Arbeit und Soziales, das vorher die Bundesvereinigung der Deutschen Arbeitgeberverbände anzuhören hat.
+Der Spitzenverband Bund der Krankenkassen, die Deutsche Rentenversicherung Bund, die Deutsche Rentenversicherung Knappschaft-Bahn-See, die Bundesagentur für Arbeit, die Deutsche Gesetzliche Unfallversicherung e. V. und die Arbeitsgemeinschaft der berufsständischen Versorgungseinrichtungen e. V. bestimmen in Gemeinsamen Grundsätzen den Umfang, die Grundlagen, das Antrags- und Zulassungsverfahren, die Durchführung, die Qualitätssicherung und die Korrekturen für eine Systemprüfung; soweit das Verfahren nach § 110 Absatz 1 des Vierten Buches Sozialgesetzbuch betroffen ist, ist die Annahmestelle der gemeinsamen Einrichtungen zu beteiligen. Sie legen fest, welche Verfahren grundsätzlich von allen Programmen oder Ausfüllhilfen zu erfüllen sind (Basismodule) und welche Verfahren optional angeboten werden (Zusatzmodul). Die Grundsätze bedürfen der Genehmigung des Bundesministeriums für Arbeit und Soziales, das vorher die Bundesvereinigung der Deutschen Arbeitgeberverbände anzuhören hat.
 
 
 #### § 22a Testverfahren

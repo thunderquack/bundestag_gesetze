@@ -254,7 +254,10 @@ Jahr der Anschaffung ist das Jahr der Lieferung, Jahr der Herstellung ist das Ja
 
 ### § 50 Zuwendungsbestätigung
 
-(1) Zuwendungen im Sinne der §§ 10b und 34g des Gesetzes dürfen vorbehaltlich des Absatzes 2 nur abgezogen werden, wenn der Zuwendende eine Zuwendungsbestätigung, die der Zuwendungsempfänger unter Berücksichtigung des § 63 Absatz 5 der Abgabenordnung nach amtlich vorgeschriebenem Vordruck ausgestellt hat, oder die in den Absätzen 4 bis 6 bezeichneten Unterlagen erhalten hat.
+(1)
+1             Zuwendungen im Sinne der §§ 10b und 34g des Gesetzes dürfen vorbehaltlich des Absatzes 2 nur abgezogen werden, wenn der Zuwendende eine Zuwendungsbestätigung, die der Zuwendungsempfänger unter Berücksichtigung des § 63 Absatz 5 der Abgabenordnung nach amtlich vorgeschriebenem Vordruck ausgestellt hat, oder die in den Absätzen 4 bis 6 bezeichneten Unterlagen erhalten hat.
+2             Zuwendungen an einen nicht im Inland ansässigen Zuwendungsempfänger nach § 10b Absatz 1 Satz 2 Nummer 1 und 3 des Gesetzes dürfen nur abgezogen werden, wenn dieser eine Zuwendungsbestätigung nach amtlich vorgeschriebenem Vordruck ausgestellt hat.
+3             Der nicht im Inland ansässige Zuwendungsempfänger darf eine Zuwendungsbestätigung nur ausstellen, wenn er im Zuwendungsempfängerregister nach § 60b der Abgabenordnung aufgenommen ist.
 
 (2)
 1             Der Zuwendende kann den Zuwendungsempfänger bevollmächtigen, die Zuwendungsbestätigung der für seine Besteuerung nach dem Einkommen zuständigen Finanzbehörde nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung nach Maßgabe des § 93c der Abgabenordnung zu übermitteln.
@@ -264,7 +267,7 @@ Jahr der Anschaffung ist das Jahr der Lieferung, Jahr der Herstellung ist das Ja
 5             § 72a Absatz 4 der Abgabenordnung findet keine Anwendung.
 
 (3)
-1             In den Fällen des Absatzes 2 ist für die Anwendung des § 93c Absatz 4 Satz 1 der Abgabenordnung das Finanzamt zuständig, in dessen Bezirk sich die Geschäftsleitung (§ 10 der Abgabenordnung) des Zuwendungsempfängers im Inland befindet.
+1             In den Fällen des Absatzes 2 ist für die Anwendung des § 93c Absatz 4 Satz 1 der Abgabenordnung das Finanzamt zuständig, in dessen Bezirk sich die Geschäftsleitung (§ 10 der Abgabenordnung) des Zuwendungsempfängers im Inland befindet; für Zuwendungsempfänger nach Absatz 1 Satz 2 ist das Bundeszentralamt für Steuern zuständig.
 2             Die nach Absatz 2 übermittelten Daten können durch dieses Finanzamt zum Zweck der Anwendung des § 93c Absatz 4 Satz 1 der Abgabenordnung bei den für die Besteuerung der Zuwendenden nach dem Einkommen zuständigen Finanzbehörden abgerufen und verwendet werden.
 
 (4)
@@ -1457,7 +1460,7 @@ an Stelle der nach § 7 Absatz 4, 5 oder 5a oder § 7b des Gesetzes zu bemessend
 
 (2c) § 50 in der am 1. Januar 2020 geltenden Fassung ist erstmals auf Zuwendungen anzuwenden, die dem Zuwendungsempfänger nach dem 31. Dezember 2019 zufließen.
 
-(2d) § 50 in der Fassung des Artikels 7 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) ist erstmals auf Zuwendungen anzuwenden, die dem Zuwendungsempfänger nach dem 31. Dezember 2024 zufließen.
+(2d) § 50 in der Fassung des Artikels 9 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist erstmals auf Zuwendungen anzuwenden, die dem Zuwendungsempfänger nach dem 31. Dezember 2024 zufließen.
 
 (3) § 29 Abs. 3 bis 6, §§ 31 und 32 sind in der vor dem 1. Januar 1996 geltenden Fassung für vor diesem Zeitpunkt an Bausparkassen geleistete Beiträge letztmals für den Veranlagungszeitraum 2005 anzuwenden.
 

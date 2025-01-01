@@ -2695,7 +2695,7 @@ Lebt das Kind oder der Jugendliche nur mit einem Elternteil zusammen, so tritt d
 
 #### § 93 Berechnung des Einkommens
 
-(1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert mit Ausnahme der Leistungen nach diesem Buch, der Leistungen nach dem Vierzehnten Buch und der Leistungen nach Gesetzen, die eine entsprechende Anwendung des Vierzehnten Buches vorsehen, und der Renten oder Beihilfen nach dem Bundesentschädigungsgesetz für Schaden an Leben sowie an Körper oder Gesundheit bis zur Höhe der vergleichbaren Leistungen nach dem Vierzehnten Buch. Eine Entschädigung, die nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs wegen eines Schadens, der nicht Vermögensschaden ist, geleistet wird, ist nicht als Einkommen zu berücksichtigen. Geldleistungen, die dem gleichen Zwecke wie die jeweilige Leistung der Jugendhilfe dienen, zählen nicht zum Einkommen und sind unabhängig von einem Kostenbeitrag einzusetzen; dies gilt nicht für
+(1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert mit Ausnahme der Leistungen nach diesem Buch, der Leistungen nach dem Vierzehnten Buch und der Leistungen nach Gesetzen, die eine entsprechende Anwendung des Vierzehnten Buches vorsehen, der Leistungen nach dem Soldatenentschädigungsgesetz, der Renten oder Beihilfen nach dem Bundesentschädigungsgesetz für Schaden an Leben sowie an Körper oder Gesundheit bis zur Höhe der vergleichbaren Leistungen nach dem Vierzehnten Buch. Eine Entschädigung, die nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs wegen eines Schadens, der nicht Vermögensschaden ist, geleistet wird, ist nicht als Einkommen zu berücksichtigen. Geldleistungen, die dem gleichen Zwecke wie die jeweilige Leistung der Jugendhilfe dienen, zählen nicht zum Einkommen und sind unabhängig von einem Kostenbeitrag einzusetzen; dies gilt nicht für
 
 1.  monatliche Leistungen nach § 56 des Dritten Buches bis zu einer Höhe des in § 61 Absatz 2 Satz 1 und § 62 Absatz 3 Satz 1 des Dritten Buches für sonstige Bedürfnisse genannten Betrages und
 
@@ -3442,9 +3442,8 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 Durch § 42 Absatz 5 und § 42a Absatz 1 Satz 2 wird das Grundrecht auf Freiheit der Person (Artikel 2 Absatz 2 Satz 3 des Grundgesetzes) eingeschränkt.
 
 
-### § 107 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+### § 107 (weggefallen)
 
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 81 Nummer 1 und des § 93 Absatz 1 Satz 1 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 
 ### § 108 Übergangsregelung

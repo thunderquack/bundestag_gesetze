@@ -164,7 +164,7 @@ Diese Personen dürfen nicht in die laufende Prüfung eingreifen oder in die Ber
 
 ### § 4 Gleichstellung anderer Berufsqualifikationen
 
-(1) Folgende Berufsqualifikationen und deren Vorläufer sind der Sachkundeprüfung gleichgestellt:
+(1) Folgende Berufsqualifikationen und deren Vorläufer oder Nachfolger sind der Sachkundeprüfung gleichgestellt:
 
 1.  eine mit Erfolg abgelegte Abschlussprüfung
 
@@ -518,7 +518,7 @@ Zu den einzuholenden Informationen nach Absatz 1 Satz 1 und Absatz 2 Satz 1 geh�
 1.  10 000 Euro, sofern der jeweilige Anleger nach seiner Selbstauskunft über ein frei verfügbares Vermögen in Form von Bankguthaben und Finanzinstrumenten von mindestens 100 000 Euro verfügt, oder
 
 
-2.  den zweifachen Betrag des durchschnittlichen monatlichen Nettoeinkommens des jeweiligen Anlegers, höchstens jedoch 10 000 Euro.
+2.  den zweifachen Betrag des durchschnittlichen monatlichen Nettoeinkommens des jeweiligen Anlegers, höchstens jedoch 25 000 Euro.
 
 
 
@@ -619,22 +619,7 @@ Der Gewerbetreibende hat sicherzustellen, dass auch seine Beschäftigten die Pfl
 Der Gewerbetreibende ist nicht befugt, sich im Zusammenhang mit der Finanzanlagenberatung oder -vermittlung nach § 34f Absatz 1 Satz 1 der Gewerbeordnung oder der Honorar-Finanzanlagenberatung nach § 34h Absatz 1 Satz 1 der Gewerbeordnung Eigentum oder Besitz an Geldern oder Anteilen von Anlegern zu verschaffen.
 
 
-### § 21 Anzeigepflicht
-
-Der Gewerbetreibende hat der für die Erlaubniserteilung nach § 34f Absatz 1 oder § 34h Absatz 1 der Gewerbeordnung zuständigen Behörde unverzüglich nach Satz 3 anzuzeigen, welche Personen jeweils mit der Leitung des Betriebs oder einer Zweigniederlassung beauftragt sind. Dies gilt bei juristischen Personen auch für die nach Gesetz, Satzung oder Gesellschaftsvertrag jeweils zur Vertretung berufenen Personen. In der Anzeige ist für jede Person Folgendes anzugeben:
-
-1.  der Name, der Geburtsname, sofern dieser vom Namen abweicht, sowie der Vorname,
-
-
-2.  die Staatsangehörigkeit oder Staatsangehörigkeiten,
-
-
-3.  der Geburtstag und -ort sowie
-
-
-4.  die Anschrift.
-
-
+### § 21 (weggefallen)
 
 
 
@@ -805,22 +790,19 @@ sowie Zusammenschlüsse dieser Personen.
 17. entgegen § 20 sich Eigentum oder Besitz an Geldern oder Anteilen eines Anlegers verschafft,
 
 
-18. entgegen § 21 Satz 1, auch in Verbindung mit Satz 2, eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+18. entgegen § 22 Absatz 1 Satz 1 eine Aufzeichnung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht, entgegen § 23 Satz 1 eine Unterlage nicht, nicht in der vorgeschriebenen Weise oder nicht mindestens fünf Jahre aufbewahrt,
 
 
-19. entgegen § 22 Absatz 1 Satz 1 eine Aufzeichnung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht, entgegen § 23 Satz 1 eine Unterlage nicht, nicht in der vorgeschriebenen Weise oder nicht mindestens fünf Jahre aufbewahrt,
+19. entgegen § 24 Absatz 1 Satz 1 oder Satz 5 einen Prüfungsbericht oder eine Erklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
 
 
-20. entgegen § 24 Absatz 1 Satz 1 oder Satz 5 einen Prüfungsbericht oder eine Erklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+20. einer vollziehbaren Anordnung nach § 24 Absatz 2 Satz 1 zuwiderhandelt,
 
 
-21. einer vollziehbaren Anordnung nach § 24 Absatz 2 Satz 1 zuwiderhandelt,
+21. entgegen § 25 Absatz 1 Satz 1 einem Prüfer eine Einsicht nicht gestattet oder
 
 
-22. entgegen § 25 Absatz 1 Satz 1 einem Prüfer eine Einsicht nicht gestattet oder
-
-
-23. entgegen § 25 Absatz 1 Satz 2 einem Prüfer eine Aufklärung oder einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gibt.
+22. entgegen § 25 Absatz 1 Satz 2 einem Prüfer eine Aufklärung oder einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gibt.
 
 
 

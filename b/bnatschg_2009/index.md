@@ -1966,7 +1966,7 @@ Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird insoweit ein
 ### Abschnitt 6 - Ermächtigungen
 
 
-#### § 54 
+#### § 54 Ermächtigung zum Erlass von Rechtsverordnungen; Erlass von Verwaltungsvorschriften
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmte, nicht unter § 7 Absatz 2 Nummer 13 Buchstabe a oder Buchstabe b fallende Tier- und Pflanzenarten oder Populationen solcher Arten unter besonderen Schutz zu stellen, soweit es sich um natürlich vorkommende Arten handelt, die
 
@@ -2221,6 +2221,21 @@ Die Rechtsverordnungen sind dem Bundestag zuzuleiten. Die Zuleitung erfolgt vor 
 
 
 3.  die zur Sicherung des Zusammenhangs des Netzes „Natura 2000“ notwendigen Maßnahmen im Sinne des § 34 Absatz 5.
+
+
+
+(12) Die Bundesregierung erlässt mit Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften über die Anforderungen hinsichtlich
+
+1.  der Bestandserfassung wild lebender Tiere der besonders geschützten Arten im Hinblick auf die Zugriffsverbote nach § 44 Absatz 1 bei Vorhaben an Eisenbahnbetriebsanlagen,
+
+
+2.  wirksamer und fachlich anerkannter Schutzmaßnahmen in Bezug auf wild lebende Tiere der besonders geschützten Arten bei Vorhaben an Eisenbahnbetriebsanlagen, bei deren Beachtung in der Regel kein Verstoß gegen die Zugriffsverbote nach § 44 Absatz 1 vorliegt, sowie hinsichtlich der Maßnahmen zur Sicherung des Erhaltungszustands dieser Arten im Sinne des § 45 Absatz 7 Satz 2,
+
+
+3.  der Durchführung von Unterhaltungs- und Erneuerungsmaßnahmen an Eisenbahnbetriebsanlagen, bei deren Beachtung in der Regel kein Verstoß gegen die Zugriffsverbote nach § 44 Absatz 1 vorliegt,
+
+
+4.  der Ausstattung von Bahnstrecken mit einer Oberleitung (Elektrifizierung), einschließlich deren Erneuerung, bei deren Beachtung in Bezug auf Stromschlag und Leitungsanflug von Vögeln in der Regel kein Verstoß gegen die Zugriffsverbote nach § 44 Absatz 1 vorliegt und den Vorgaben des § 41 Satz 1 entsprochen wird.
 
 
 

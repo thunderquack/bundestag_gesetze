@@ -400,7 +400,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 #### § 15 Bestellung eines Empfangsbevollmächtigten
 
-Ein Beteiligter ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Inland hat der Behörde auf Verlangen innerhalb einer angemessenen Frist einen Empfangsbevollmächtigten im Inland zu benennen. Unterlässt er dies, gilt ein an ihn gerichtetes Schriftstück am siebenten Tage nach der Aufgabe zur Post und ein elektronisch übermitteltes Dokument am dritten Tage nach der Absendung als zugegangen. Dies gilt nicht, wenn feststeht, dass das Dokument den Empfänger nicht oder zu einem späteren Zeitpunkt erreicht hat. Auf die Rechtsfolgen der Unterlassung ist der Beteiligte hinzuweisen.
+Ein Beteiligter ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Inland hat der Behörde auf Verlangen innerhalb einer angemessenen Frist einen Empfangsbevollmächtigten im Inland zu benennen. Unterlässt er dies, gilt ein an ihn gerichtetes Schriftstück am siebenten Tage nach der Aufgabe zur Post und ein elektronisch übermitteltes Dokument am vierten Tage nach der Absendung als zugegangen. Dies gilt nicht, wenn feststeht, dass das Dokument den Empfänger nicht oder zu einem späteren Zeitpunkt erreicht hat. Auf die Rechtsfolgen der Unterlassung ist der Beteiligte hinzuweisen.
 
 
 #### § 16 Bestellung eines Vertreters von Amts wegen
@@ -977,7 +977,7 @@ Ist die Behörde ermächtigt, nach ihrem Ermessen zu handeln, hat sie ihr Ermess
 
 (1) Ein Verwaltungsakt ist demjenigen Beteiligten bekannt zu geben, für den er bestimmt ist oder der von ihm betroffen wird. Ist ein Bevollmächtigter bestellt, so kann die Bekanntgabe ihm gegenüber vorgenommen werden.
 
-(2) Ein schriftlicher Verwaltungsakt, der im Inland durch die Post übermittelt wird, gilt am dritten Tag nach der Aufgabe zur Post als bekannt gegeben. Ein Verwaltungsakt, der im Inland oder in das Ausland elektronisch übermittelt wird, gilt am dritten Tag nach der Absendung als bekannt gegeben. Dies gilt nicht, wenn der Verwaltungsakt nicht oder zu einem späteren Zeitpunkt zugegangen ist; im Zweifel hat die Behörde den Zugang des Verwaltungsaktes und den Zeitpunkt des Zugangs nachzuweisen.
+(2) Ein schriftlicher Verwaltungsakt, der im Inland durch die Post übermittelt wird, gilt am vierten Tag nach der Aufgabe zur Post als bekannt gegeben. Ein Verwaltungsakt, der im Inland oder in das Ausland elektronisch übermittelt wird, gilt am vierten Tag nach der Absendung als bekannt gegeben. Dies gilt nicht, wenn der Verwaltungsakt nicht oder zu einem späteren Zeitpunkt zugegangen ist; im Zweifel hat die Behörde den Zugang des Verwaltungsaktes und den Zeitpunkt des Zugangs nachzuweisen.
 
 (2a) Mit Einwilligung des Beteiligten kann ein elektronischer Verwaltungsakt dadurch bekannt gegeben werden, dass er vom Beteiligten oder von seinem Bevollmächtigten über öffentlich zugängliche Netze abgerufen wird. Die Behörde hat zu gewährleisten, dass der Abruf nur nach Authentifizierung der berechtigten Person möglich ist und der elektronische Verwaltungsakt von ihr gespeichert werden kann. Der Verwaltungsakt gilt am Tag nach dem Abruf als bekannt gegeben. Wird der Verwaltungsakt nicht innerhalb von zehn Tagen nach Absendung einer Benachrichtigung über die Bereitstellung abgerufen, wird diese beendet. In diesem Fall ist die Bekanntgabe nicht bewirkt; die Möglichkeit einer erneuten Bereitstellung zum Abruf oder der Bekanntgabe auf andere Weise bleibt unberührt.
 

@@ -933,7 +933,7 @@ Liegt in den Fällen des Satzes 1 eine notariell beurkundete Unterhaltsvereinbar
 
 (2) Die zur Berechnung des Wohngeldes erforderlichen Rechenschritte und Rundungen sind in der Reihenfolge auszuführen, die sich aus der Anlage 3 ergibt.
 
-(3) Sind mehr als zwölf Haushaltsmitglieder zu berücksichtigen, erhöht sich für das 13. und jedes weitere zu berücksichtigende Haushaltsmitglied das nach den Absätzen 1 und 2 berechnete monatliche Wohngeld um jeweils 57 Euro, höchstens jedoch bis zur Höhe der zu berücksichtigenden Miete oder Belastung.
+(3) Sind mehr als zwölf Haushaltsmitglieder zu berücksichtigen, erhöht sich für das 13. und jedes weitere zu berücksichtigende Haushaltsmitglied das nach den Absätzen 1 und 2 berechnete monatliche Wohngeld um jeweils 65 Euro, höchstens jedoch bis zur Höhe der zu berücksichtigenden Miete oder Belastung.
 
 
 ## Teil 3 - Nichtbestehen des Wohngeldanspruchs
@@ -1612,7 +1612,7 @@ Die erste Fortschreibung der Werte für „M“ und „Y“ (Anlage 3) und des z
 
 ### § 45 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
 
-(1) Personen, die
+Personen, die
 
 a)  ergänzende Hilfe zum Lebensunterhalt oder
 
@@ -1623,12 +1623,10 @@ b)  andere Hilfen in einer stationären Einrichtung, die den Lebensunterhalt umf
 
 nach dem Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung oder nach einem Gesetz, das dieses für anwendbar erklärt, empfangen, sind vom Wohngeld ausgeschlossen, wenn bei der Berechnung ihrer Hilfen Kosten der Unterkunft berücksichtigt worden sind. § 7 Absatz 1 Satz 3 und Absatz 2 und 3 in der Fassung bis zum 31. Dezember 2023 gelten entsprechend.
 
-(2) Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 7 Absatz 1 Satz 1 Nummer 7, Satz 3 Nummer 2 und Absatz 2 Satz 1 Nummer 3 in der am 31. Dezember 2023 geltenden Fassung weiter.
-
 
 ### Anlage 1 (zu § 12 Absatz 1)
 
-(Fundstelle: BGBl. I 2019, 1881; siehe auch Fußnote)
+(Fundstelle: BGBl. 2024 I Nr. 314, S. 1 – 2)
 
 
 *    *   Anzahl
@@ -1637,223 +1635,192 @@ nach dem Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung o
 
     *   Mietenstufe
 
-    *   Höchstbetrag
-        in Euro
+    *   Höchstbetrag in Euro
 
 
 *    *   1
 
     *   I
 
-    *   338
+    *   361
 
 
-*    *
-    *   II
+*    *   II
 
-    *   381
-
-
-*    *
-    *   III
-
-    *   426
+    *   408
 
 
-*    *
-    *   IV
+*    *   III
 
-    *   478
-
-
-*    *
-    *   V
-
-    *   525
+    *   456
 
 
-*    *
-    *   VI
+*    *   IV
 
-    *   575
+    *   511
 
 
-*    *
-    *   VII
+*    *   V
 
-    *   633
+    *   562
+
+
+*    *   VI
+
+    *   615
+
+
+*    *   VII
+
+    *   677
 
 
 *    *   2
 
     *   I
 
-    *   409
+    *   437
 
 
-*    *
-    *   II
+*    *   II
 
-    *   461
-
-
-*    *
-    *   III
-
-    *   516
+    *   493
 
 
-*    *
-    *   IV
+*    *   III
 
-    *   579
-
-
-*    *
-    *   V
-
-    *   636
+    *   551
 
 
-*    *
-    *   VI
+*    *   IV
 
-    *   697
+    *   619
 
 
-*    *
-    *   VII
+*    *   V
 
-    *   767
+    *   680
+
+
+*    *   VI
+
+    *   745
+
+
+*    *   VII
+
+    *   820
 
 
 *    *   3
 
     *   I
 
-    *   487
+    *   521
 
 
-*    *
-    *   II
+*    *   II
 
-    *   549
-
-
-*    *
-    *   III
-
-    *   614
+    *   587
 
 
-*    *
-    *   IV
+*    *   III
 
-    *   689
-
-
-*    *
-    *   V
-
-    *   757
+    *   657
 
 
-*    *
-    *   VI
+*    *   IV
 
-    *   830
+    *   737
 
 
-*    *
-    *   VII
+*    *   V
 
-    *   912
+    *   809
+
+
+*    *   VI
+
+    *   887
+
+
+*    *   VII
+
+    *   975
 
 
 *    *   4
 
     *   I
 
-    *   568
+    *   608
 
 
-*    *
-    *   II
+*    *   II
 
-    *   641
-
-
-*    *
-    *   III
-
-    *   716
+    *   686
 
 
-*    *
-    *   IV
+*    *   III
 
-    *   803
-
-
-*    *
-    *   V
-
-    *   884
+    *   766
 
 
-*    *
-    *   VI
+*    *   IV
 
-    *   968
+    *   858
 
 
-*    *
-    *   VII
+*    *   V
 
-    *   1 065
+    *   946
+
+
+*    *   VI
+
+    *   1 035
+
+
+*    *   VII
+
+    *   1 139
 
 
 *    *   5
 
     *   I
 
-    *   649
+    *   694
 
 
-*    *
-    *   II
+*    *   II
 
-    *   732
-
-
-*    *
-    *   III
-
-    *   818
+    *   782
 
 
-*    *
-    *   IV
+*    *   III
 
-    *   918
-
-
-*    *
-    *   V
-
-    *   1 010
+    *   875
 
 
-*    *
-    *   VI
+*    *   IV
 
-    *   1 106
+    *   982
 
 
-*    *
-    *   VII
+*    *   V
 
-    *   1 217
+    *   1 080
+
+
+*    *   VI
+
+    *   1 183
+
+
+*    *   VII
+
+    *   1 302
 
 
 *    *   Mehrbetrag
@@ -1863,49 +1830,46 @@ nach dem Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung o
 
     *   I
 
-    *   77
+    *   82
 
 
 *    *   II
 
-    *   88
+    *   94
 
 
 *    *   III
 
-    *   99
+    *   106
 
 
 *    *   IV
 
-    *   111
+    *   119
 
 
-*    *
-    *   V
+*    *   V
 
-    *   121
-
-
-*    *
-    *   VI
-
-    *   139
+    *   129
 
 
-*    *
-    *   VII
+*    *   VI
 
-    *   153
+    *   149
+
+
+*    *   VII
+
+    *   163
 
 
 
 
 ### Anlage 2 (zu § 19 Absatz 1)
 
-(Fundstelle: BGBl. I 2022, 2164 )
+(Fundstelle: BGBl. 2024 I Nr. 314, S. 3)
 
-## **Werte für „a“, „b“ und „c“**
+## Werte für „a“, „b“ und „c“
 
 Die in die Formel nach § 19 Absatz 1 Satz 1 einzusetzenden, nach der Anzahl der zu berücksichtigenden Haushaltsmitglieder unterschiedenen Werte „a“, „b“ und „c“ sind der nachfolgenden Tabelle zu entnehmen:
 
@@ -1952,32 +1916,32 @@ Die in die Formel nach § 19 Absatz 1 Satz 1 einzusetzenden, nach der Anzahl der
 
 *    *   b
 
-    *   4,991E-4
+    *   4,797E-4
 
-    *   3,716E-4
+    *   3,571E-4
 
-    *   3,035E-4
+    *   2,917E-4
 
-    *   2,251E-4
+    *   2,163E-4
 
-    *   1,985E-4
+    *   1,907E-4
 
-    *   1,792E-4
+    *   1,722E-4
 
 
 *    *   c
 
-    *   4,620E-5
+    *   4,080E-5
 
-    *   3,450E-5
+    *   3,040E-5
 
-    *   2,780E-5
+    *   2,450E-5
 
-    *   2,000E-5
+    *   1,760E-5
 
-    *   1,950E-5
+    *   1,720E-5
 
-    *   1,880E-5
+    *   1,660E-5
 
 
 
@@ -2025,33 +1989,32 @@ Die in die Formel nach § 19 Absatz 1 Satz 1 einzusetzenden, nach der Anzahl der
 
 *    *   b
 
-    *   1,657E-4
+    *   1,592E-4
 
-    *   1,648E-4
+    *   1,583E-4
 
-    *   1,432E-4
+    *   1,376E-4
 
-    *   1,300E-4
+    *   1,249E-4
 
-    *   1,188E-4
+    *   1,141E-4
 
-    *   1,152E-4
+    *   1,107E-4
 
 
 *    *   c
 
-    *   1,870E-5
+    *   1,650E-5
 
-    *   1,870E-5
+    *   1,650E-5
 
-    *   1,880E-5
+    *   1,660E-5
 
-    *   1,880E-5
+    *   1,660E-5
 
-    *   2,220E-5
+    *   1,960E-5
 
-    *   2,510E-5
-
+    *   2,210E-5
 
 
 
@@ -2099,13 +2062,12 @@ Die in die Formel nach § 19 Absatz 1 Satz 1 einzusetzenden, nach der Anzahl der
 
 
 
+
 ### Anlage 3 (zu § 19 Absatz 2)
 
-(Fundstelle: BGBl. I 2022, 2164 – 2165)
+(Fundstelle: BGBl. 2024 I Nr. 314, S. 3)
 
-*    *   **Rechenschritte und Rundungen**
-
-
+## Rechenschritte und Rundungen
 
 
 1.  Werte für „M“ und „Y“, die unterhalb der folgenden Tabellenwerte liegen, werden durch diese ersetzt:
@@ -2138,32 +2100,32 @@ Die in die Formel nach § 19 Absatz 1 Satz 1 einzusetzenden, nach der Anzahl der
 
     *        *   M
 
-        *   52
+        *   54
 
-        *   64
+        *   67
 
-        *   76
+        *   79
 
-        *   88
+        *   92
 
-        *   99
+        *   103
 
-        *   99
+        *   103
 
 
     *        *   Y
 
-        *   350
+        *   396
 
-        *   600
+        *   679
 
-        *   800
+        *   906
 
-        *   1 000
+        *   1 132
 
-        *   1 200
+        *   1 358
 
-        *   1 400
+        *   1 585
 
 
 
@@ -2196,32 +2158,32 @@ Die in die Formel nach § 19 Absatz 1 Satz 1 einzusetzenden, nach der Anzahl der
 
     *        *   M
 
-        *   111
+        *   115
 
-        *   123
+        *   128
 
-        *   135
+        *   140
 
-        *   146
+        *   152
 
-        *   180
+        *   187
 
-        *   286
+        *   298
 
 
     *        *   Y
 
-        *   1 600
+        *   1 811
 
-        *   1 800
+        *   2 037
 
-        *   2 000
+        *   2 264
 
-        *   2 200
+        *   2 490
 
-        *   2 400
+        *   2 717
 
-        *   2 600
+        *   2 943
 
 
 

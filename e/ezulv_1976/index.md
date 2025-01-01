@@ -115,10 +115,10 @@ Bei Teilzeitbeschäftigung verringern sich die in § 3 Absatz 1 und 3 Satz 2 sow
 
 2.  Soldaten, die vorübergehend dienstunfähig sind
 
-    a)  infolge eines Dienstunfalls im Sinne des § 27 des Soldatenversorgungsgesetzes in Verbindung mit § 37 Absatz 1 oder Absatz 2 des Beamtenversorgungsgesetzes oder
+    a)  infolge eines Dienstunfalls im Sinne des § 42 des Soldatenversorgungsgesetzes in Verbindung mit § 37 Absatz 1 oder Absatz 2 des Beamtenversorgungsgesetzes oder
 
 
-    b)  infolge eines Unfalls im Sinne des § 63c Absatz 2 Satz 2 des Soldatenversorgungsgesetzes.
+    b)  infolge eines Unfalls im Sinne des § 87 Absatz 2 Satz 2 des Soldatenversorgungsgesetzes.
 
 
 
@@ -595,10 +595,10 @@ Satz 1 Nummer 2 Buchstabe a gilt nicht für Beamte im Sicherungsdienst des Bunde
 
 2.  Soldaten, die vorübergehend dienstunfähig sind
 
-    a)  infolge eines Dienstunfalls im Sinne des § 27 des Soldatenversorgungsgesetzes in Verbindung mit § 37 Absatz 1 oder Absatz 2 des Beamtenversorgungsgesetzes oder
+    a)  infolge eines Dienstunfalls im Sinne des § 42 des Soldatenversorgungsgesetzes in Verbindung mit § 37 Absatz 1 oder Absatz 2 des Beamtenversorgungsgesetzes oder
 
 
-    b)  infolge eines Unfalls im Sinne des § 63c Absatz 2 Satz 2 des Soldatenversorgungsgesetzes.
+    b)  infolge eines Unfalls im Sinne des § 87 Absatz 2 Satz 2 des Soldatenversorgungsgesetzes.
 
 
 
@@ -660,10 +660,10 @@ soweit in den Vorschriften dieses Abschnitts nichts anderes bestimmt ist. In den
 
 2.  bei Soldaten, die vorübergehend dienstunfähig sind
 
-    a)  infolge eines Dienstunfalls im Sinne des § 27 des Soldatenversorgungsgesetzes in Verbindung mit § 37 Absatz 1 oder Absatz 2 des Beamtenversorgungsgesetzes oder
+    a)  infolge eines Dienstunfalls im Sinne des § 42 des Soldatenversorgungsgesetzes in Verbindung mit § 37 Absatz 1 oder Absatz 2 des Beamtenversorgungsgesetzes oder
 
 
-    b)  infolge eines Unfalls im Sinne des § 63c Absatz 2 Satz 2 des Soldatenversorgungsgesetzes.
+    b)  infolge eines Unfalls im Sinne des § 87 Absatz 2 Satz 2 des Soldatenversorgungsgesetzes.
 
 
 

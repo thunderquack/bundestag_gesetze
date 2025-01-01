@@ -113,7 +113,7 @@ Neben Leistungen nach § 6 werden Leistungen nach § 5 nur bis zu 70 Prozent des
 1.  Leistungen nach § 1 Absatz 2 Satz 1 und § 9 Absatz 2 Satz 2, auch in Verbindung mit Absatz 11, des Arbeitsplatzschutzgesetzes und
 
 
-2.  Ruhegehälter nach § 15 Absatz 1 des Soldatenversorgungsgesetzes einschließlich des Unterschiedsbetrags nach § 47 Absatz 1 Satz 2 und 3 des Soldatenversorgungsgesetzes, die der oder dem Reservistendienst Leistenden weitergewährt werden.
+2.  Ruhegehälter nach § 27 Absatz 1 des Soldatenversorgungsgesetzes einschließlich des Unterschiedsbetrags nach § 64 Absatz 1 Satz 2 und 3 des Soldatenversorgungsgesetzes, die der oder dem Reservistendienst Leistenden weitergewährt werden.
 
 
 
@@ -275,7 +275,7 @@ Bemisst sich der Anspruch auf Leistungen nach Tagen, wird der Monat mit 30 Tagen
 
 ### § 27 Auskunfts- und Mitteilungspflichten
 
-(1) Reservistendienst Leistende, die Leistungen nach § 8 Absatz 1 Satz 1 beantragen, haben Leistungen nach § 1 Absatz 2 Satz 1 und § 9 Absatz 2 Satz 2, auch in Verbindung mit Absatz 11, des Arbeitsplatzschutzgesetzes sowie Ruhegehälter nach § 15 Absatz 1 des Soldatenversorgungsgesetzes einschließlich des Unterschiedsbetrags nach § 47 Absatz 1 Satz 2 des Soldatenversorgungsgesetzes anzugeben, die sie für die Zeit des Reservistendienstes erhalten.
+(1) Reservistendienst Leistende, die Leistungen nach § 8 Absatz 1 Satz 1 beantragen, haben Leistungen nach § 1 Absatz 2 Satz 1 und § 9 Absatz 2 Satz 2, auch in Verbindung mit Absatz 11, des Arbeitsplatzschutzgesetzes sowie Ruhegehälter nach § 27 Absatz 1 des Soldatenversorgungsgesetzes einschließlich des Unterschiedsbetrags nach § 64 Absatz 1 Satz 2 des Soldatenversorgungsgesetzes anzugeben, die sie für die Zeit des Reservistendienstes erhalten.
 
 (2) Empfängerinnen und Empfänger von Leistungen nach Kapitel 2 Abschnitt 1 und 2 haben dem Bundesamt unverzüglich jede Änderung der tatsächlichen oder rechtlichen Verhältnisse mitzuteilen, die der Leistungserbringung zugrunde liegen.
 

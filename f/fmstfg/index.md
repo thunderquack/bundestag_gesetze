@@ -799,9 +799,9 @@ Der Wirtschaftsstabilisierungsfonds ist nicht rechtsfähig. Er kann unter seinem
 
 #### § 19 Kostendeckung und Kostenerstattung; Verordnungsermächtigung
 
-(1) Die §§ 3d und 3e gelten hinsichtlich der Kosten der Finanzagentur entsprechend.
+(1) Die §§ 3d und 3e gelten hinsichtlich der Kosten der Finanzagentur entsprechend, wobei an die Stelle des Bundes der Wirtschaftsstabilisierungsfonds tritt, mit der Maßgabe, dass Erstattungen von Kosten, die vom Bund getragen wurden, an den Bund zu leisten sind.
 
-(2) Für Auslagen, die dem Bundesministerium der Finanzen oder dem Bundesministerium für Wirtschaft und Klimaschutz sowie den nach diesem Gesetz vorgesehenen Gremien für Stabilisierungsmaßnahmen nach den §§ 21 und 22 dieses Gesetzes entstehen, können das Bundesministerium der Finanzen oder das Bundesministerium für Wirtschaft und Klimaschutz von den jeweiligen Adressaten eine Erstattung, auch in Form von Kostenpauschalen, nach Maßgabe der nach Absatz 4 erlassenen Rechtsverordnung verlangen.
+(2) Für Auslagen des Bundesministeriums der Finanzen oder des Bundesministeriums für Wirtschaft und Klimaschutz sowie der nach diesem Gesetz vorgesehenen Gremien für Stabilisierungsmaßnahmen nach den §§ 21 und 22 können das Bundesministerium der Finanzen oder das Bundesministerium für Wirtschaft und Klimaschutz von den jeweiligen Adressaten eine Erstattung, auch in Form von Kostenpauschalen, nach Maßgabe der nach Absatz 4 erlassenen Rechtsverordnung verlangen. Auslagen des Bundesministeriums der Finanzen trägt der Wirtschaftsstabilisierungsfonds.
 
 (3) Die §§ 3d und 3e Absatz 1 bis 3 gelten hinsichtlich der Kosten der Kreditanstalt für Wiederaufbau entsprechend.
 
@@ -965,7 +965,7 @@ Die Anforderungen können sich nach Art und Adressaten der Stabilisierungsmaßna
 
 (4) Der Haushaltsausschuss des Deutschen Bundestages ist über Erlass und Änderungen der Rechtsverordnung nach Absatz 2 unverzüglich zu unterrichten.
 
-(5) Die §§ 10a, 11 und 12 gelten entsprechend.
+(5) Die §§ 10a und 11 gelten entsprechend. Die Kosten für die Verwaltung des Wirtschaftsstabilisierungsfonds werden durch diesen getragen.
 
 
 #### § 26 Befristung; Verordnungsermächtigung

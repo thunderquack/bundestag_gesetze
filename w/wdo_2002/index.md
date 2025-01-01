@@ -906,7 +906,7 @@ Sind sie zugleich Angehörige der Reserve oder nicht wehrpflichtige frühere Sol
 
 Für Soldaten im Ruhestand und frühere Soldaten, die als Soldaten im Ruhestand gelten (§ 1 Absatz 3), die in ein Wehrdienstverhältnis nach dem Reservistengesetz berufen werden, bleibt Absatz 2 Satz 1 unberührt.
 
-(4) Wegen desselben Dienstvergehens dürfen nur Kürzung der Dienstbezüge und Beförderungsverbot nebeneinander verhängt werden. Sie sollen insbesondere nebeneinander verhängt werden, wenn erkennbar ist, dass ein Beförderungsverbot keine Auswirkungen auf den weiteren dienstlichen Werdegang des Soldaten haben wird; § 16 Abs. 1 ist nicht anzuwenden. Neben oder anstelle der Kürzung des Ruhegehalts kann auf Kürzung des Ausgleichs (§ 38 des Soldatenversorgungsgesetzes) erkannt werden. Im Übrigen darf wegen desselben Dienstvergehens nur eine gerichtliche Disziplinarmaßnahme verhängt werden.
+(4) Wegen desselben Dienstvergehens dürfen nur Kürzung der Dienstbezüge und Beförderungsverbot nebeneinander verhängt werden. Sie sollen insbesondere nebeneinander verhängt werden, wenn erkennbar ist, dass ein Beförderungsverbot keine Auswirkungen auf den weiteren dienstlichen Werdegang des Soldaten haben wird; § 16 Abs. 1 ist nicht anzuwenden. Neben oder anstelle der Kürzung des Ruhegehalts kann auf Kürzung des Ausgleichs (§ 53 des Soldatenversorgungsgesetzes) erkannt werden. Im Übrigen darf wegen desselben Dienstvergehens nur eine gerichtliche Disziplinarmaßnahme verhängt werden.
 
 (5) Wegen eines Verhaltens, das nach § 17 Abs. 3, § 23 Abs. 2 Nr. 2 Zweite Alternative des Soldatengesetzes als Dienstvergehen gilt, dürfen bei Soldaten im Ruhestand sowie bei früheren Soldaten, die als Soldaten im Ruhestand gelten, als gerichtliche Disziplinarmaßnahmen nur Dienstgradherabsetzung oder Aberkennung des Ruhegehalts verhängt werden.
 
@@ -1509,7 +1509,7 @@ Ein Disziplinargerichtsbescheid darf nur ergehen, wenn die Sache keine besondere
 1.  die Unterhaltsleistung darf die Höhe der Rentenanwartschaft aus der Nachversicherung nicht erreichen,
 
 
-2.  Unterhaltsleistung und Rentenanwartschaft aus der Nachversicherung dürfen zusammen den Betrag nicht übersteigen, der sich als Ruhegehalt nach § 26 Abs. 1 des Soldatenversorgungsgesetzes ergäbe.
+2.  Unterhaltsleistung und Rentenanwartschaft aus der Nachversicherung dürfen zusammen den Betrag nicht übersteigen, der sich als Ruhegehalt nach § 40 Absatz 1 des Soldatenversorgungsgesetzes ergäbe.
 
 
 

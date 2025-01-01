@@ -296,7 +296,7 @@ Bestehen dringende Gründe für die Annahme, daß die Bestallung zurückgenommen
 
 #### § 16
 
-(1) Untersagt ein Seeamt einer Seelotsin oder einem Seelotsen vorübergehend die Ausübung der Befugnisse eines in § 9 Absatz 2 Nummer 1 oder Absatz 4 Nummer 1 oder 2 genannten Befähigungszeugnisses oder wird das Befähigungszeugnis von der ausstellenden Behörde vorübergehend entzogen, ruhend gestellt oder vorläufig sichergestellt, so ist der Inhaberin oder dem Inhaber die Berufsausübung als Seelotsin oder Seelotse nach Anhörung der Bundeslotsenkammer von der Aufsichtsbehörde vorübergehend zu untersagen. Die Dauer der Untersagung durch die Aufsichtsbehörde soll der vom Seeamt festgelegten Dauer und muss dem Zeitraum des Ruhens oder der Sicherstellung entsprechen.
+(1) Wird ein in § 9 Absatz 2 Nummer 1 oder Absatz 4 Nummer 1 oder 2 genanntes Befähigungszeugnis von der zuständigen Behörde für eine bestimmte Zeit vorübergehend entzogen, ruhend gestellt oder vorläufig sichergestellt, so ist der Inhaberin oder dem Inhaber die Berufsausübung als Seelotsin oder Seelotse nach Anhörung der Bundeslotsenkammer von der Aufsichtsbehörde vorübergehend zu untersagen. Die Dauer der Untersagung durch die Aufsichtsbehörde muss dem Zeitraum des Ruhens oder der Sicherstellung entsprechen.
 
 (2) Wird durch eine Seelotseignungsuntersuchung festgestellt, dass eine Seelotsin oder ein Seelotse oder eine Seelotsenanwärterin oder ein Seelotsenanwärter vorübergehend nicht die erforderliche Seelotseignung besitzt, so hat die Aufsichtsbehörde ihr oder ihm die Berufsausübung zu untersagen, bis die Eignung durch ein Seelotseignungszeugnis nachgewiesen ist.
 

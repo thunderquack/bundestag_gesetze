@@ -253,9 +253,9 @@ Die schwangere oder stillende Frau kann ihre Erklärung nach Satz 2 Nummer 1 jed
 
 
 
-Bei gleichartigen Arbeitsbedingungen ist die Beurteilung eines Arbeitsplatzes oder einer Tätigkeit ausreichend.
+Bei gleichartigen Arbeitsbedingungen ist die Beurteilung eines Arbeitsplatzes oder einer Tätigkeit ausreichend. Die Verpflichtung des Arbeitgebers nach Satz 1 entfällt, wenn gemäß einer zu diesem Zweck nach § 30 Absatz 4 veröffentlichten Regel oder Erkenntnis des Ausschusses für Mutterschutz eine schwangere oder stillende Frau die Tätigkeit nicht ausüben oder einer Arbeitsbedingung nicht ausgesetzt sein darf.
 
-(2) Sobald eine Frau dem Arbeitgeber mitgeteilt hat, dass sie schwanger ist oder stillt, hat der Arbeitgeber unverzüglich die nach Maßgabe der Gefährdungsbeurteilung nach Absatz 1 erforderlichen Schutzmaßnahmen festzulegen. Zusätzlich hat der Arbeitgeber der Frau ein Gespräch über weitere Anpassungen ihrer Arbeitsbedingungen anzubieten.
+(2) Sobald eine Frau dem Arbeitgeber mitgeteilt hat, dass sie schwanger ist oder stillt, hat der Arbeitgeber unverzüglich die nach Maßgabe der Gefährdungsbeurteilung nach Absatz 1 oder nach Maßgabe des § 13 erforderlichen Schutzmaßnahmen festzulegen. Zusätzlich hat der Arbeitgeber der Frau ein Gespräch über weitere Anpassungen ihrer Arbeitsbedingungen anzubieten.
 
 (3) Der Arbeitgeber darf eine schwangere oder stillende Frau nur diejenigen Tätigkeiten ausüben lassen, für die er die erforderlichen Schutzmaßnahmen nach Absatz 2 Satz 1 getroffen hat.
 

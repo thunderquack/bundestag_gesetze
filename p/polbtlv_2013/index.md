@@ -81,7 +81,7 @@ Auch wenn Zeiten nach Satz 1 zu berücksichtigen sind, darf
 
 (3) Bei besonderem dienstlichen Bedürfnis kann die Verwaltung des Deutschen Bundestages Ausnahmen von Absatz 1 bis zu den Höchstaltersgrenzen nach Absatz 2 Satz 2 zulassen.
 
-(4) Für Teilnehmerinnen und Teilnehmer an Eingliederungsmaßnahmen nach § 7 Absatz 2 des Soldatenversorgungsgesetzes gelten keine Höchstaltersgrenzen.
+(4) Für Teilnehmerinnen und Teilnehmer an Eingliederungsmaßnahmen nach § 9 Absatz 2 des Soldatenversorgungsgesetzes gelten keine Höchstaltersgrenzen.
 
 
 ## § 7 Gestaltung des Vorbereitungsdienstes, Laufbahnprüfung

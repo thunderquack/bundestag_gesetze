@@ -72,7 +72,7 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung des GAP-Direktz
 
 
 
-(2) Die Erhaltung einer landwirtschaftlichen Fläche im Sinne des Absatzes 1 Nummer 3 liegt vor, wenn vor dem 16. November des jeweiligen Jahres,
+(2) Die Erhaltung einer landwirtschaftlichen Fläche im Sinne des Absatzes 1 Nummer 3 liegt vor, wenn mindestens in jedem zweiten Jahr vor dem 16. November des jeweiligen Jahres,
 
 1.  der Aufwuchs gemäht und das Mähgut abgefahren wird,
 
@@ -84,20 +84,11 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung des GAP-Direktz
 
 
 
-Bei einer Dauerkultur im Sinne des § 6 ist zusätzlich zu einer Tätigkeit nach Satz 1 Nummer 1, 2 oder 3 eine Pflegemaßnahme an den Dauerkulturpflanzen durchzuführen. Satz 2 findet keine Anwendung, soweit eine Tätigkeit nach Satz 1 Nummer 1 oder 2 auch an den Dauerkulturpflanzen durchgeführt wird.
+Bei einer Dauerkultur im Sinne des § 6 ist mindestens in jedem zweiten Jahr auch eine Pflegemaßnahme an den Dauerkulturpflanzen durchzuführen. Satz 2 findet keine Anwendung, soweit eine Tätigkeit nach Satz 1 Nummer 1 oder 2 auch an den Dauerkulturpflanzen durchgeführt wird.
 
-(3) Soweit dies aus natur-, umwelt- oder klimaschutzfachlichen Gründen gerechtfertigt ist, kann die nach Landesrecht zuständige Behörde auf Antrag oder durch Allgemeinverfügung als Ausnahme von Absatz 2 genehmigen:
+(3) Soweit dies aus natur-, umwelt- oder klimaschutzfachlichen Gründen gerechtfertigt ist, kann die nach Landesrecht zuständige Behörde auf Antrag oder durch Allgemeinverfügung als Ausnahme von Absatz 2 die Durchführung einer anderen als der in Absatz 2 Satz 1 Nummer 1 bis 3 genannten Tätigkeiten oder der in Absatz 2 Satz 2 genannten Tätigkeit an den Dauerkulturpflanzen genehmigen. In einem Fall des Satzes 1 ist die Tätigkeit vor dem 16. November des jeweiligen Jahres durchzuführen, soweit die Genehmigung nicht eine Durchführung nach dem 15. November vorschreibt.
 
-1.  die Durchführung einer der in Absatz 2 Nummer 1 bis 3 genannten Tätigkeiten oder der in Absatz 2 Satz 2 genannten Tätigkeit an den Dauerkulturpflanzen nur in jedem zweiten Jahr oder
-
-
-2.  die Durchführung einer anderen als der in Absatz 2 Nummer 1 bis 3 genannten Tätigkeiten oder der in Absatz 2 Satz 2 genannten Tätigkeit an den Dauerkulturpflanzen in jedem oder in jedem zweiten Jahr.
-
-
-
-In einem Fall des Satzes 1 ist die Tätigkeit vor dem 16. November des jeweiligen Jahres durchzuführen, soweit die Genehmigung nicht eine Durchführung nach dem 15. November vorschreibt.
-
-(4) Eine Genehmigung nach Absatz 3 ist zu erteilen, wenn
+(4) Eine Genehmigung nach Absatz 3 gilt nach Ablauf von 15 Arbeitstagen nach Eingang des Antrags bei der nach Landesrecht zuständigen Behörde als erteilt, wenn
 
 1.  es sich um eine Maßnahme handelt
 
@@ -126,15 +117,7 @@ In einem Fall des Satzes 1 ist die Tätigkeit vor dem 16. November des jeweilige
 
 Soweit in einem Fall des Satzes 1 die Tätigkeit nicht nach dem 15. November durchgeführt werden muss, ist sie vor dem 16. November durchzuführen.
 
-(5) Abweichend von den Absätzen 2 und 3 ist die Durchführung einer in Absatz 2 Nummer 1 bis 3 genannten oder auf Grund von Absatz 3 Satz 1 genehmigten Tätigkeit nur in jedem zweiten Jahr erforderlich bei
-
-1.  einer nichtproduktiven Fläche, die nach dem GLÖZ-Standard des § 11 des GAP-Konditionalitäten-Gesetzes vorgehalten wird, oder
-
-
-2.  einer Fläche, die den Verpflichtungen der in § 20 Absatz 1 Nummer 1 des GAP-Direktzahlungen-Gesetzes genannten Öko-Regelung unterliegt.
-
-
-
+(5) (weggefallen)
 
 (6) Abweichend von den Absätzen 2 und 3 liegt die Erhaltung einer landwirtschaftlichen Fläche im Sinne des Absatzes 1 Nummer 3 auch vor, wenn
 
@@ -185,7 +168,7 @@ Soweit in einem Fall des Satzes 1 die Tätigkeit nicht nach dem 15. November dur
 
 (1) Der Begriff landwirtschaftliche Fläche umfasst Ackerland, Dauerkulturen und Dauergrünland, und das auch, wenn diese auf der betreffenden Fläche ein Agroforstsystem nach Absatz 2 bilden.
 
-(2) Ein Agroforstsystem auf Ackerland, in Dauerkulturen oder auf Dauergrünland liegt vor, wenn auf einer Fläche mit dem vorrangigen Ziel der Rohstoffgewinnung oder Nahrungsmittelproduktion entsprechend eines durch die zuständige Landesbehörde oder durch eine vom Land anerkannte Institution als positiv geprüften Nutzungskonzeptes Gehölzpflanzen, die nicht in Anlage 1 aufgeführt sind, angebaut werden:
+(2) Ein Agroforstsystem auf Ackerland, in Dauerkulturen oder auf Dauergrünland liegt vor, wenn auf einer Fläche mit dem vorrangigen Ziel der Rohstoffgewinnung oder Nahrungsmittelproduktion Gehölzpflanzen, die nicht in Anlage 1 aufgeführt sind, angebaut werden:
 
 1.  in mindestens zwei Streifen, die höchstens 40 Prozent der jeweiligen landwirtschaftlichen Fläche einnehmen, oder
 
@@ -208,12 +191,12 @@ Soweit in einem Fall des Satzes 1 die Tätigkeit nicht nach dem 15. November dur
 
 #### § 5 Ackerland
 
-(1) Der Begriff Ackerland umfasst
+(1) Der Begriff Ackerland umfasst Flächen, die
 
-1.  für den Anbau landwirtschaftlicher Kulturpflanzen genutzte andere Flächen als Dauergrünland oder Dauerkulturen und
+1.  für den Anbau landwirtschaftlicher Kulturpflanzen genutzt werden oder
 
 
-2.  für den Anbau landwirtschaftlicher Kulturpflanzen verfügbare, aber brachliegende andere Flächen als Dauergrünland oder Dauerkulturen.
+2.  für den Anbau landwirtschaftlicher Kulturpflanzen verfügbar sind, aber brachliegen.
 
 
 
@@ -395,7 +378,7 @@ Soweit in einem Fall des Satzes 1 die Tätigkeit nicht nach dem 15. November dur
 2.  nach einer Verordnung auf Grund des § 9 Absatz 5 des GAP-Konditionalitäten-Gesetzes in Dauergrünland rückumgewandelt worden sind oder werden,
 
 
-3.  nach einer Verordnung auf Grund des § 12 Absatz 8 des GAP-Konditionalitäten-Gesetzes in Dauergrünland rückumgewandelt worden sind oder werden,
+3.  nach einer Verordnung auf Grund des § 12 Absatz 6 des GAP-Konditionalitäten-Gesetzes in Dauergrünland rückumgewandelt worden sind oder werden,
 
 
 4.  nach einer der in Absatz 6 Nummer 4 genannten Grundlagen einer Verpflichtung zur Umwandlung in Dauergrünland unterliegen und mit Gras oder anderen Grünfutterpflanzen angesät worden sind oder werden oder
@@ -611,10 +594,13 @@ Die §§ 3 bis 8 regeln horizontale Begriffsbestimmungen im Sinne des § 33 Absa
 1.  bei der Lagerung von Erzeugnissen aus der landwirtschaftlichen Tätigkeit des Betriebsinhabers oder der Lagerung von Betriebsmitteln für die landwirtschaftliche Tätigkeit des Betriebsinhabers, wenn die Erzeugnisse oder Betriebsmittel nicht länger als 90 aufeinanderfolgende Tage im Kalenderjahr gelagert werden,
 
 
-2.  bei der Lagerung von Holz auf Dauergrünland außerhalb der Vegetationsperiode oder
+2.  bei der Lagerung von Holz auf Dauergrünland außerhalb der Vegetationsperiode,
 
 
-3.  bei der Nutzung landwirtschaftlicher Flächen außerhalb der Vegetationsperiode für Wintersport.
+3.  bei der Nutzung landwirtschaftlicher Flächen außerhalb der Vegetationsperiode für Wintersport oder
+
+
+4.  bei der Nutzung landwirtschaftlicher Flächen im Rahmen von Pflegearbeiten an angrenzenden Gehölzen oder Gewässern einschließlich der Lagerung des dabei anfallenden Schnittguts oder des Aushubs für nicht länger als 90 aufeinanderfolgende Tage.
 
 
 
@@ -684,16 +670,15 @@ Die §§ 3 bis 8 regeln horizontale Begriffsbestimmungen im Sinne des § 33 Absa
 1.  eine Bearbeitung der Fläche unter Einsatz üblicher landwirtschaftlicher Methoden, Maschinen und Geräte nicht ausschließt und
 
 
-2.[^F820155_01_BJNR013900022BJNE001400000]
+2.[^F820155_01_BJNR013900022BJNE001401119]
   die landwirtschaftlich nutzbare Fläche unter Zugrundelegung der DIN SPEC 91434:2021-05
     um höchstens 15 Prozent verringert.
 
 
 
-Förderfähig sind 85 Prozent der Fläche, die der Ermittlung des Prozentsatzes nach Satz 1 Nummer 2 zugrunde liegt.
 
     Die genannte DIN-SPEC-Norm ist bei der Beuth Verlag GmbH, Berlin, zu beziehen und ist in der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
-[^F820155_01_BJNR013900022BJNE001400000]: 
+[^F820155_01_BJNR013900022BJNE001401119]: 
 
 #### § 13 Verfügbarkeit der förderfähigen Flächen
 
@@ -727,7 +712,7 @@ Der in § 34 Absatz 2 des GAP-Direktzahlungen-Gesetzes genannte Faktor beträgt 
 
 (1) Die geplanten Einheitsbeträge je Hektar begünstigungsfähiger Fläche und Antragsjahr für die Öko-Regelungen, die in § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes genannt sind, sind in Anlage 4 festgesetzt.
 
-(2) Zu jedem geplanten Einheitsbetrag für eine Öko-Regelung kommt für jedes Antragsjahr ein geplanter Höchsteinheitsbetrag in Höhe von 110 Prozent des geplanten Einheitsbetrags zur Anwendung. Ein geplanter Mindesteinheitsbetrag kommt nicht zur Anwendung. Abweichend von Satz 1 kommt für die Antragsjahre 2023 und 2024 jeweils ein geplanter Höchsteinheitsbetrag von 130 Prozent des geplanten Einheitsbetrags zur Anwendung.
+(2) Zu jedem geplanten Einheitsbetrag für eine Öko-Regelung kommt für jedes Antragsjahr ein geplanter Höchsteinheitsbetrag in Höhe von 110 Prozent des geplanten Einheitsbetrags zur Anwendung. Ein geplanter Mindesteinheitsbetrag kommt nicht zur Anwendung. Abweichend von Satz 1 kommt für die Antragsjahre 2023 und 2024 jeweils ein geplanter Höchsteinheitsbetrag von 130 Prozent des geplanten Einheitsbetrags zur Anwendung. Abweichend von Satz 1 kommt ab dem Antragsjahr 2025 jeweils ein geplanter Höchsteinheitsbetrag von 130 Prozent des geplanten Einheitsbetrags zur Anwendung.
 
 
 #### § 17 Weitere Vorschriften für die Öko-Regelungen; Subdelegation
@@ -764,15 +749,15 @@ Der in § 34 Absatz 2 des GAP-Direktzahlungen-Gesetzes genannte Faktor beträgt 
 (2) Zu dem geplanten Einheitsbetrag kommt für jedes Antragsjahr ein geplanter Höchsteinheitsbetrag in Höhe von 110 Prozent des geplanten Einheitsbetrags und ein geplanter Mindesteinheitsbetrag in Höhe von 90 Prozent des geplanten Einheitsbetrags zur Anwendung.
 
 
-##### § 19 Mindest- und Höchstzahl von Tieren sowie Voraussetzungen für die Zahlung für Mutterschafe und -ziegen
+##### § 19 Mindestzahl von Tieren sowie Voraussetzungen für die Zahlung für Mutterschafe und -ziegen
 
 (1) Die Zahlung für Mutterschafe und -ziegen ist für mindestens sechs Tiere zu beantragen.
 
-(2) Die Zahlung für Mutterschafe und -ziegen wird höchstens für die Anzahl von Tieren gewährt, die der Betriebsinhaber nach § 26 Absatz 3 Nummer 2 der Viehverkehrsverordnung für den Stichtag des jeweiligen Jahres in der Altersgruppe zehn bis einschließlich 18 Monate und in der Altersgruppe ab 19 Monaten angezeigt hat.
+(2) (weggefallen)
 
-(3) Förderfähig sind weibliche Schafe und Ziegen,
+(3) Förderfähig sind Mutterschafe und -ziegen,
 
-1.  die am 1. Januar des Antragsjahres mindestens zehn Monate alt sind,
+1.  (weggefallen)
 
 
 2.  die während des Zeitraums vom 15. Mai des Jahres, für das die Zahlung beantragt wird, bis zum 15. August desselben Jahres (Haltungszeitraum) im Betrieb gehalten werden und
@@ -1027,7 +1012,7 @@ Die sich nach Satz 1 ergebende Summe der zu berücksichtigenden Differenzwerte s
 
 ### § 27 Höhere Gewalt und außergewöhnliche Umstände
 
-Erfüllt ein Betriebsinhaber eine Voraussetzung für die Gewährung einer Direktzahlung aufgrund höherer Gewalt oder außergewöhnlicher Umstände nicht, behält er den Anspruch für die Flächen und Tiere, die im Zeitpunkt des Eintretens der höheren Gewalt oder außergewöhnlichen Umstände förderfähig waren.
+Ist ein Verstoß gegen eine Voraussetzung für die Gewährung einer Direktzahlung auf höhere Gewalt oder außergewöhnliche Umstände zurückzuführen, so behält der Antragsteller den Anspruch für diejenigen Flächen und Tiere, die im Zeitpunkt des Eintretens der höheren Gewalt oder der außergewöhnlichen Umstände förderfähig waren.
 
 
 ## Teil 6 - Schlussbestimmungen
@@ -1042,6 +1027,8 @@ Erfüllt ein Betriebsinhaber eine Voraussetzung für die Gewährung einer Direkt
 (3) § 22 ist für das Antragsjahr 2023 in der am 8. Dezember 2023 geltenden Fassung anzuwenden.
 
 (4) Die Anlagen 4 und 5 sind für das Antragsjahr 2023 in der am 7. Dezember 2023 geltenden Fassung weiter anzuwenden.
+
+(5) Anlage 5 Anhang 1 ist bis zum Ablauf des 31. Dezember 2025 in der bis zum Ablauf des 31. Dezember 2024 geltenden Fassung anzuwenden.
 
 
 ### § 29 Inkrafttreten
@@ -1059,7 +1046,8 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage 1 Arten von Gehölzpflanzen, deren Anbau bei Agroforstsystemen ausgeschlossen ist
 
-(Fundstelle: BGBl. I 2022, 153)
+(Fundstelle: BGBl. I 2022, 153;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
@@ -1113,13 +1101,13 @@ Der Bundesrat hat zugestimmt.
     *   Roteiche
 
 
-*    *   Paulownia tomentosa
+*    *   Paulownia tomentosa und ihre Hybriden, sofern sie nicht steril sind
 
     *   Blauglockenbaum
 
 
 
-Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angelegt werden.
+Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angelegt werden. Der Ausschluss nicht steriler Hybride von Paulownia tomentosa gilt für Agroforstsysteme, die nach dem 31. Dezember 2024 angelegt werden.
 
 (zu § 6 Absatz 3)
 
@@ -1316,7 +1304,8 @@ Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angel
 
 ### Anlage 4 Geplante Einheitsbeträge je Hektar begünstigungsfähiger Fläche und Antragsjahr für die in § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes genannten Öko-Regelungen
 
-(Fundstelle: BGBl. I 2022, 156 - 157)
+(Fundstelle: BGBl. I 2022, 156 - 157;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
@@ -1487,7 +1476,7 @@ Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angel
 
 
 
-        Für die nach Anlage 5 Nummer 1.4 begünstigungsfähige Fläche im Umfang von 1 Prozent des förderfähigen Dauergrünlands wird der geplante Einheitsbetrag Stufe 1 angewendet. Für die darüber hinausgehende nach Anlage 5 Nummer 1.4 begünstigungsfähige Fläche bis zum Umfang von 3 Prozent des förderfähigen Dauergrünlands wird der geplante Einheitsbetrag Stufe 2 angewendet. Für die darüber hinausgehende nach Anlage 5 Nummer 1.4 begünstigungsfähige Fläche wird der geplante Einheitsbetrag Stufe 3 angewendet.
+        Für die nach Anlage 5 Nummer 1.4 begünstigungsfähige Fläche im Umfang von 1 Prozent des förderfähigen Dauergrünlands wird der geplante Einheitsbetrag Stufe 1 angewendet. Abweichend von Satz 1 wird der geplante Einheitsbetrag Stufe 1 in dem in Anlage 5 Nummer 1.4.1 Satz 4 genannten Fall im Umfang von bis zu 1 Hektar begünstigungsfähiger Fläche auch dann angewendet, wenn diese Fläche größer ist als 1 Prozent des förderfähigen Dauergrünlands des Betriebs. Für die darüber hinausgehende nach Anlage 5 Nummer 1.4 begünstigungsfähige Fläche bis zum Umfang von 3 Prozent des förderfähigen Dauergrünlands wird der geplante Einheitsbetrag Stufe 2 angewendet. Für die darüber hinausgehende nach Anlage 5 Nummer 1.4 begünstigungsfähige Fläche wird der geplante Einheitsbetrag Stufe 3 angewendet.
 
 
 
@@ -1692,7 +1681,8 @@ Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angel
 
 ### Anlage 5 Verpflichtungen, die bei den Öko-Regelungen nach § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes jeweils eingehalten werden müssen, und die jeweils begünstigungsfähige Fläche
 
-(Fundstelle: BGBl. I 2022, 158 - 161)
+(Fundstelle: BGBl. I 2022, 158 - 161;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
@@ -1702,7 +1692,7 @@ Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angel
 1.1 § 20 Absatz 1 Nummer 1 Buchstabe a des GAP-Direktzahlungen-Gesetzes
 
 
-1.1.1 Es sind nichtproduktive Flächen auf förderfähigem Ackerland über den Anteil, der sich aus § 11 des GAP-Konditionalitäten-Gesetzes oder aus einer Rechtsverordnung auf Grund des GAP-Konditionalitäten-Gesetzes ergibt, hinaus bereitzustellen. Begünstigungsfähig ist nichtproduktives Ackerland höchstens im Umfang von 6 Prozent des förderfähigen Ackerlands des Betriebes. Zu den nichtproduktiven Flächen gehören nicht
+1.1.1 Es sind nichtproduktive Flächen auf förderfähigem Ackerland über den Anteil, der sich aus § 11 des GAP-Konditionalitäten-Gesetzes oder aus einer Rechtsverordnung auf Grund des GAP-Konditionalitäten-Gesetzes ergibt, hinaus bereitzustellen. Begünstigungsfähig ist nichtproduktives Ackerland höchstens im Umfang von 8 Prozent des förderfähigen Ackerlands des Betriebes. Zu den nichtproduktiven Flächen gehören nicht
 
     a)  die in § 11 Absatz 1 Nummer 2 Buchstabe a genannten Flächen und
 
@@ -1711,7 +1701,7 @@ Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angel
 
 
 
-    Abweichend von Satz 2 ist im Fall eines Betriebes mit mehr als 10 Hektar Ackerland nichtproduktives Ackerland im Umfang von bis zu einem Hektar auch dann begünstigungsfähig, wenn dies mehr als 6 Prozent des förderfähigen Ackerlandes des Betriebes ausmacht.
+    Abweichend von Satz 2 ist im Fall eines Betriebes mit mehr als 10 Hektar Ackerland nichtproduktives Ackerland im Umfang von bis zu einem Hektar auch dann begünstigungsfähig, wenn dies mehr als 8 Prozent des förderfähigen Ackerlands des Betriebes ausmacht.
 
 
 1.1.2 Begünstigungsfähige Fläche ist die nichtproduktive Fläche nach Nummer 1.1.1, die die Voraussetzungen der Nummern 1.1.3 und 1.1.4 erfüllt.
@@ -1720,7 +1710,7 @@ Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angel
 1.1.3 Jede nichtproduktive Fläche muss mindestens 0,1 Hektar groß sein.
 
 
-1.1.4 Jede nichtproduktive Fläche muss während des ganzen Antragsjahres brachliegen und der Selbstbegrünung überlassen werden oder durch Aussaat begrünt werden. Die Begrünung durch Aussaat darf nicht mittels Reinsaat einer landwirtschaftlichen Kulturpflanze erfolgen. Eine Reinsaat liegt vor, wenn Samen nur einer Spezies verwendet werden. Auf einer nichtproduktiven Fläche nach Satz 1 dürfen Düngemittel einschließlich Wirtschaftsdünger und Pflanzenschutzmittel nicht angewendet werden. Abweichend von Satz 1 darf ab dem 1. September des Antragsjahres eine Aussaat oder Pflanzung, die nicht vor Ablauf dieses Jahres zur Ernte führt, vorbereitet und durchgeführt oder der Aufwuchs durch Schafe oder Ziegen beweidet werden. Abweichend von Satz 5 darf eine Aussaat von Wintergerste oder Winterraps ab dem 15. August vorbereitet und durchgeführt werden.
+1.1.4 Jede nichtproduktive Fläche muss während des ganzen Antragsjahres brachliegen. Im Fall einer Begrünung durch Aussaat ist eine Saatgutmischung zu verwenden, die mindestens fünf krautartige zweikeimblättrige Arten enthält. Auf einer nichtproduktiven Fläche nach Satz 1 dürfen Düngemittel einschließlich Wirtschaftsdünger und Pflanzenschutzmittel nicht angewendet werden. Abweichend von Satz 1 darf ab dem 1. September des Antragsjahres eine Aussaat oder Pflanzung, die nicht vor Ablauf dieses Jahres zur Ernte führt, vorbereitet und durchgeführt oder der Aufwuchs durch Schafe oder Ziegen beweidet werden. Abweichend von Satz 4 darf eine Aussaat von Wintergerste oder Winterraps ab dem 15. August vorbereitet und durchgeführt werden.
 
 
 1.2 § 20 Absatz 1 Nummer 1 Buchstabe b des GAP-Direktzahlungen-Gesetzes
@@ -1732,7 +1722,7 @@ Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angel
 1.2.2 Blühstreifen oder -flächen müssen eine Mindestgröße von jeweils 0,1 Hektar aufweisen.
 
 
-1.2.3 Bei streifenförmiger Aussaat ist eine Mindestbreite von 5 Metern einzuhalten.
+1.2.3 Bei streifenförmiger Aussaat ist auf der überwiegenden Länge eine Mindestbreite von 5 Metern einzuhalten.
 
 
 1.2.4 Auf einem Blühstreifen oder einer Blühfläche muss sich ein Pflanzenbestand nach Maßgabe der Nummern 1.2.5 bis 1.2.7 befinden, der durch Aussaat einer Saatgutmischung nach Anhang 1 etabliert worden ist. Düngemittel einschließlich Wirtschaftsdünger und Pflanzenschutzmittel dürfen nicht angewendet werden.
@@ -1767,13 +1757,13 @@ Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angel
 1.4 § 20 Absatz 1 Nummer 1 Buchstabe d des GAP-Direktzahlungen-Gesetzes
 
 
-1.4.1 Die begünstigungsfähigen Altgrasstreifen oder -flächen müssen mindestens 1 Prozent des förderfähigen Dauergrünlands des Betriebs umfassen und die Voraussetzungen der Nummern 1.4.2 und 1.4.3 erfüllen. Begünstigungsfähig sind Altgrasstreifen oder -flächen höchstens im Umfang von 6 Prozent des förderfähigen Dauergrünlands des Betriebs. Zu den begünstigungsfähigen Altgrasstreifen oder -flächen gehören nicht die in § 11 Absatz 1 Nummer 2 Buchstabe a genannten Flächen.
+1.4.1 Die begünstigungsfähigen Altgrasstreifen oder -flächen müssen mindestens 1 Prozent des förderfähigen Dauergrünlands des Betriebs umfassen und die Voraussetzungen der Nummern 1.4.2 und 1.4.3 erfüllen. Begünstigungsfähig sind Altgrasstreifen oder -flächen höchstens im Umfang von 6 Prozent des förderfähigen Dauergrünlands des Betriebs. Zu den begünstigungsfähigen Altgrasstreifen oder -flächen gehören nicht die in § 11 Absatz 1 Nummer 2 Buchstabe a genannten Flächen. Abweichend von Satz 2 sind Altgrasstreifen oder -flächen im Umfang von bis zu einem Hektar auch dann begünstigungsfähig, wenn diese mehr als 6 Prozent des förderfähigen Dauergrünlands des Betriebs ausmachen.
 
 
-1.4.2 Altgrasstreifen oder -flächen dürfen höchstens 20 Prozent einer förderfähigen Dauergrünlandfläche bedecken. Ein Altgrasstreifen oder eine Altgrasfläche muss mindestens 0,1 Hektar groß sein. Altgrasstreifen oder Altgrasflächen dürfen sich höchstens in zwei aufeinanderfolgenden Jahren auf derselben Stelle befinden.
+1.4.2 Begünstigungsfähig sind Altgrasstreifen oder -flächen höchstens im Umfang von 20 Prozent einer förderfähigen Dauergrünlandfläche. Altgrasstreifen oder -flächen sind bis zu einer Größe von 0,3 Hektar begünstigungsfähig, auch wenn sie mehr als 20 Prozent einer förderfähigen Dauergrünlandfläche bedecken. Ein Altgrasstreifen oder eine Altgrasfläche muss mindestens 0,1 Hektar groß sein.
 
 
-1.4.3 Eine Beweidung oder eine Schnittnutzung vor dem 1. September ist nicht zulässig.
+1.4.3 Eine Beweidung oder eine Schnittnutzung vor dem 1. September ist nicht zulässig. Die Zerkleinerung und ganzflächige Verteilung des Aufwuchses ist während des ganzen Jahres nicht zulässig.
 
 
 **2.** **Zu § 20 Absatz 1 Nummer 2 des GAP-Direktzahlungen-Gesetzes**
@@ -1782,10 +1772,10 @@ Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angel
 2.1 Begünstigungsfähig ist förderfähiges Ackerland, das die Voraussetzungen der Nummern 2.2 bis 2.10 erfüllt, mit Ausnahme des brachliegenden Ackerlandes.
 
 
-2.2 Auf dem förderfähigen Ackerland des Betriebs mit Ausnahme des brachliegenden Ackerlandes sind mindestens fünf verschiedene Hauptfruchtarten im Antragsjahr anzubauen.
+2.2 Auf dem förderfähigen Ackerland des Betriebs mit Ausnahme des brachliegenden Ackerlandes sind mindestens fünf verschiedene Hauptfruchtarten im Antragsjahr anzubauen. Die Verpflichtung nach Satz 1 gilt als erfüllt, wenn auf mindestens 40 Prozent des förderfähigen Ackerlands mit Ausnahme des brachliegenden Ackerlands des Betriebs beetweise mindestens fünf verschiedene Gemüsekulturen, Küchenkräuter, Heil-, Gewürz- oder Zierpflanzen angebaut werden.
 
 
-2.3 Jede Hauptfruchtart muss auf mindestens 10 Prozent und darf auf höchstens 30 Prozent der Fläche nach Nummer 2.2 angebaut werden. Es müssen mindestens 10 Prozent Leguminosen einschließlich deren Gemenge, bei denen Leguminosen auf der Fläche überwiegen, angebaut werden.
+2.3 Jede Hauptfruchtart muss auf mindestens 10 Prozent und darf auf höchstens 30 Prozent der Fläche nach Nummer 2.2 angebaut werden. Es müssen mindestens 10 Prozent Leguminosen einschließlich deren Gemenge, bei denen Leguminosen auf der Fläche überwiegen, angebaut werden. Satz 1 gilt nicht in den in der Nummer 2.2 Satz 2 geregelten Fällen.
 
 
 2.4 Als Hauptfrucht zählen
@@ -1793,7 +1783,7 @@ Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angel
     a)  eine Kultur einer der verschiedenen in der botanischen Klassifikation landwirtschaftlicher Kulturpflanzen definierten Gattungen,
 
 
-    b)  jede Art im Fall der Gattungen Brassicaceae, Solanaceae und Cucurbitaceae,
+    b)  jede Art im Fall der Familien Brassicaceae, Solanaceae und Cucurbitaceae,
 
 
     c)  Gras oder andere Grünfutterpflanzen im Sinne des § 7 Absatz 2 mit Ausnahme von Leguminosenmischkultur im Sinne der Nummer 2.7.
@@ -1808,13 +1798,19 @@ Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angel
 2.6 Triticum spelta gilt als unterschiedliche Hauptfruchtart gegenüber Hauptfruchtarten, die zu derselben Gattung gehören.
 
 
-2.7 Alle Mischkulturen von Leguminosen oder von Leguminosen mit anderen Pflanzen, sofern Leguminosen überwiegen, zählen zu der einzigen Hauptfruchtart Leguminosenmischkultur.
+2.7 Alle Mischkulturen von feinkörnigen Leguminosen oder von feinkörnigen Leguminosen mit anderen Pflanzen, sofern feinkörnige Leguminosen überwiegen, zählen zu der einzigen Hauptfruchtart feinkörnige Leguminosenmischkultur.
+
+    Alle Mischkulturen von großkörnigen Leguminosen oder von großkörnigen Leguminosen mit anderen Pflanzen, sofern großkörnige Leguminosen überwiegen, zählen zu der einzigen Hauptfruchtart großkörnige Leguminosenmischkultur.
 
 
-2.8 Alle Mischkulturen, die nicht unter Nummer 2.4 Buchstabe c oder Nummer 2.7 fallen und durch Aussaat einer Saatgutmischung oder Aussaat oder Anpflanzung mehrerer Kulturpflanzen in getrennten Reihen etabliert wurden, zählen zu der einzigen Hauptfruchtart sonstige Mischkultur.
+2.8 Alle Mischkulturen, die nicht unter Nummer 2.4 Buchstabe c oder Nummer 2.7 fallen und die durch Aussaat einer Saatgutmischung oder Aussaat oder Anpflanzung mehrerer Kulturpflanzen in getrennten Reihen nach der Ernte der Hauptkultur im Vorjahr etabliert wurden, zählen zu der einzigen Hauptfruchtart Wintermischkultur.
+
+    Alle Mischkulturen, die nicht unter Nummer 2.4 Buchstabe c oder Nummer 2.7 fallen und die durch Aussaat einer Saatgutmischung oder Aussaat oder Anpflanzung mehrerer Kulturen in getrennten Reihen zur Ernte im selben Jahr etabliert wurden, zählen zu der einzigen Hauptfruchtart Sommermischkultur.
+
+    Alle Mischkulturen mit Mais zählen zu der Hauptfruchtart Mais.
 
 
-2.9 Bei dem Anbau von mehr als fünf Hauptfruchtarten werden zur Berechnung der Mindestanteile nach Nummer 2.3 Hauptfruchtarten zusammengefasst.
+2.9 Bei dem Anbau von mehr als fünf Hauptfruchtarten werden zur Berechnung der Mindestanteile nach Nummer 2.3 Hauptfruchtarten zusammengefasst. Der in Nummer 2.2 Satz 2 geregelte beetweise Anbau kann nicht mit anderen Hauptfruchtarten zusammengefasst werden.
 
 
 2.10 Der Anteil von Getreide an der in Nummer 2.2 genannten Fläche darf höchstens 66 Prozent betragen.
@@ -1829,7 +1825,7 @@ Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angel
 3.2 Die Gehölzstreifen müssen folgende Voraussetzungen erfüllen:
 
 
-3.2.1 Der Flächenanteil der Gehölzstreifen an einer förderfähigen Ackerland- oder Dauergrünlandfläche muss zwischen 2 und 35 Prozent betragen.
+3.2.1 Der Flächenanteil der Gehölzstreifen an einer förderfähigen Ackerland- oder Dauergrünlandfläche muss zwischen 2 und 40 Prozent betragen.
 
 
 3.2.2 Die Gehölzstreifen müssen weitestgehend durchgängig mit Gehölzen bestockt sein.
@@ -1838,13 +1834,13 @@ Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angel
 3.2.3 Die Mindestanzahl an Gehölzstreifen muss zwei betragen.
 
 
-3.2.4 Die Breite der einzelnen Gehölzstreifen muss zwischen 3 und 25 Meter betragen.
+3.2.4 Die Breite der einzelnen Gehölzstreifen darf auf der überwiegenden Länge nicht mehr als 25 Meter betragen.
 
 
-3.2.5 Der größte Abstand zwischen zwei Gehölzstreifen sowie zwischen einem Gehölzstreifen und dem Rand der Fläche muss 100 Meter betragen.
+3.2.5 Der größte Abstand zwischen zwei Gehölzstreifen sowie zwischen einem Gehölzstreifen und dem Rand der Fläche darf auf der überwiegenden Länge nicht mehr als 100 Meter betragen.
 
 
-3.2.6 Der kleinste Abstand zwischen zwei Gehölzstreifen sowie zwischen einem Gehölzstreifen und dem Rand der Fläche muss 20 Meter betragen. Wird ein Gehölzstreifen fließgewässerbegleitend oder in Gewässernähe angelegt, kann abweichend von Satz 1 der dort vorgegebene Abstand zum Rand der Fläche geringer sein.
+3.2.6 Der kleinste Abstand zwischen zwei Gehölzstreifen muss auf der überwiegenden Länge 20 Meter betragen. Der kleinste Abstand von Gehölzstreifen zu einem Waldrand oder zu einem in § 23 Absatz 1 Nummer 1 bis 3 der GAP-Konditionalitäten-Verordnung genannten Landschaftselement darf auf der überwiegenden Länge nicht weniger als 20 Meter betragen.
 
 
 3.3 Unbeschadet naturschutzrechtlicher Vorschriften sind Maßnahmen der Holzernte im Antragsjahr nur in den Monaten Januar, Februar und Dezember zulässig.
@@ -1856,7 +1852,60 @@ Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angel
 4.1 Begünstigungsfähig ist das gesamte förderfähige Dauergrünland eines Betriebs, wenn die Voraussetzungen der Nummern 4.2 bis 4.5 erfüllt sind.
 
 
-4.2 Im Gesamtbetrieb ist im Antragsjahr durchschnittlich ein Viehbesatz von mindestens 0,3 und höchstens 1,4 raufutterfressenden Großvieheinheiten (RGV) je Hektar förderfähiges Dauergrünland einzuhalten. Zugrunde gelegt wird der Berechnungsschlüssel nach Anhang II der Durchführungsverordnung (EU) Nr. 808/2014 der Kommission vom 17. Juli 2014 mit Durchführungsvorschriften zur Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) (ABl. L 227 vom 31.7.2014, S. 18) in der durch die Verordnung (EU) 2016/669 der Kommission vom 28. April 2016 (ABl. L 115 vom 29.4.2016, S. 33) geänderten Fassung. Bei Anwendung des Berechnungsschlüssels ist die Kategorie Lämmer von Schafen und Ziegen von der angegebenen RGV für die Kategorie Schafe und Ziegen mitumfasst.
+4.2 Im Gesamtbetrieb ist im Antragsjahr durchschnittlich ein Viehbesatz von mindestens 0,3 und höchstens 1,4 raufutterfressenden Großvieheinheiten (RGV) je Hektar förderfähiges Dauergrünland einzuhalten. Zugrunde gelegt wird der Berechnungsschlüssel nach der nachfolgenden Tabelle:
+
+    *        *   Art
+
+        *   Alter/Kategorie
+
+        *   Koeffizient
+
+
+    *        *   Rinder
+
+        *   weniger als 6 Monate
+
+        *   0,400
+
+
+    *        *   zwischen 6 Monaten und 2 Jahren
+
+        *   0,600
+
+
+    *        *   über 2 Jahre
+
+        *   1,000
+
+
+    *        *   Equiden
+
+        *   über 6 Monate
+
+        *   1,000
+
+
+    *        *   Schafe und Ziegen
+
+        *
+        *   0,150
+
+
+    *        *   Gehegewild
+
+        *   Damwild
+
+        *   0,150
+
+
+    *        *   Rotwild
+
+        *   0,300
+
+
+
+
+    Bei Anwendung des Berechnungsschlüssels ist die Kategorie Lämmer von Schafen und Ziegen von der angegebenen RGV für die Kategorie Schafe und Ziegen mitumfasst.
 
 
 4.3 Die Verwendung von Düngemitteln einschließlich Wirtschaftsdüngern ist nur in dem Umfang erlaubt, der dem Dunganfall von höchstens 1,4 RGV je Hektar förderfähiges Dauergrünland des Betriebs entspricht.
@@ -1882,7 +1931,7 @@ Die Negativliste gilt für Agroforstsysteme, die ab dem 1. Januar 2022 neu angel
 
 6.2 Chemisch-synthetische Pflanzenschutzmittel nach Nummer 6.5 dürfen vom 1. Januar bis zur Ernte auf der jeweiligen Fläche, jedoch mindestens bis zum 31. August des Antragsjahres nicht auf vom Antragsteller bezeichnetem förderfähigen Ackerland angewendet werden, das im Antragsjahr zur Erzeugung genutzt wird von
 
-    a)  Sommergetreide, einschließlich Mais,
+    a)  Sommergetreide, einschließlich Mais, Hirse und Pseudogetreide,
 
 
     b)  Leguminosen, einschließlich Gemenge, außer Ackerfutter,
@@ -2025,16 +2074,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   Descurainia sophia
-
-    *   Gewöhnliche Besenrauke
-
-
-*    *   Erysimum cheiranthoides
-
-    *   Acker-Schöterich
-
-
 *    *   Euphorbia exigua
 
     *   Kleine Wolfsmilch
@@ -2155,11 +2194,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Kleiner Vogelfuß
 
 
-*    *   Papaver argemone
-
-    *   Sand-Mohn
-
-
 *    *   Papaver dubium
 
     *   Saat-Mohn
@@ -2183,11 +2217,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   Reseda lutea
 
     *   Gelber Wau
-
-
-*    *   Sisymbrium officinale
-
-    *   Wege-Rauke
 
 
 *    *   Spergula arvensis
@@ -2223,11 +2252,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   Trifolium dubium
 
     *   Kleiner Klee
-
-
-*    *   Turritis glabra
-
-    *   Turmkraut
 
 
 *    *   Valerianella carinata
@@ -2275,11 +2299,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Großer Odermennig
 
 
-*    *   Ajuga reptans
-
-    *   Kriech-Günsel
-
-
 *    *   Allium oleraceum
 
     *   Gemüse-Lauch
@@ -2320,11 +2339,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Kleine Klette
 
 
-*    *   Arctium tomentosum
-
-    *   Filz-Klette
-
-
 *    *   Asparagus officinalis
 
     *   Gemüse-Spargel
@@ -2355,11 +2369,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Rotbeerige Zaunrübe
 
 
-*    *   Campanula persicifolia
-
-    *   Pfirsichblättrige Glockenblume
-
-
 *    *   Campanula rapunculoides
 
     *   Acker-Glockenblume
@@ -2368,21 +2377,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   Cardamine pratensis
 
     *   Wiesen-Schaumkraut
-
-
-*    *   Carduus crispus
-
-    *   Krause Distel
-
-
-*    *   Carduus nutans
-
-    *   Nickende Distel
-
-
-*    *   Carlina vulgaris
-
-    *   Kleine Eberwurz
 
 
 *    *   Carum carvi
@@ -2398,11 +2392,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   Cerastium holosteoides
 
     *   Gewöhnliches Hornkraut
-
-
-*    *   Chaerophyllum bulbosum
-
-    *   Rüben-Kälberkropf
 
 
 *    *   Chelidonium majus
@@ -2438,11 +2427,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   Daucus carota
 
     *   Wilde Möhre
-
-
-*    *   Digitalis purpurea
-
-    *   Roter Fingerhut
 
 
 *    *   Dipsacus fullonum
@@ -2508,11 +2492,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   Foeniculum vulgare
 
     *   Fenchel
-
-
-*    *   Gagea pratensis
-
-    *   Wiesen-Goldstern
 
 
 *    *   Galium album
@@ -2583,16 +2562,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   Hieracium umbellatum
 
     *   Doldiges Habichtskraut
-
-
-*    *   Hypericum hirsutum
-
-    *   Behaartes Hartheu
-
-
-*    *   Hypericum perforatum
-
-    *   Tüpfel-Hartheu
 
 
 *    *   Hypochaeris radicata
@@ -2745,11 +2714,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Gewöhnlicher Pastinak
 
 
-*    *   Petasites hybridus
-
-    *   Gewöhnliche Pestwurz
-
-
 *    *   Picris hieracioides
 
     *   Gewöhnliches Bitterkraut
@@ -2828,26 +2792,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   Sedum sexangulare
 
     *   Milder Mauerpfeffer
-
-
-*    *   Silene dioica
-
-    *   Rote Lichtnelke
-
-
-*    *   Silene latifolia
-
-    *   Breitblättrige Lichtnelke
-
-
-*    *   Silene nutans
-
-    *   Nickendes Leimkraut
-
-
-*    *   Silene vulgaris
-
-    *   Gemeines Leimkraut
 
 
 *    *   Solidago virgaurea
@@ -2955,11 +2899,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Feinblättrige Wicke
 
 
-*    *   Vincetoxicum hirundinaria
-
-    *   Weiße Schwalbenwurz
-
-
 *    *   Viola hirta
 
     *   Behaartes Veilchen
@@ -2971,7 +2910,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ### Anlage 6 Geplante Einheitsbeträge für die Zahlung für Mutterschafe und -ziegen
 
-(Fundstelle: BGBl. I 2022, 166)
+(Fundstelle: BGBl. I 2022, 166;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
@@ -2995,9 +2935,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   34,44 Euro
 
-    *   33,86 Euro
+    *   39,00 Euro
 
-    *   32,89 Euro
+    *   37,89 Euro
 
 
 
@@ -3005,7 +2945,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ### Anlage 7 Geplante Einheitsbeträge für die Zahlung für Mutterkühe
 
-(Fundstelle: BGBl. I 2022, 167)
+(Fundstelle: BGBl. I 2022, 167;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
@@ -3029,9 +2970,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   77,06 Euro
 
-    *   75,76 Euro
+    *   87,72 Euro
 
-    *   73,60 Euro
+    *   85,22 Euro
 
 
 

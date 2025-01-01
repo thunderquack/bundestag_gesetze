@@ -326,11 +326,11 @@ Liegen die Voraussetzungen des Satzes 1 für einen Teil der Gebäude oder für T
 
 ### § 19 Anzeigepflicht
 
-(1) Jede Änderung in der Nutzung oder in den Eigentumsverhältnissen eines ganz oder teilweise von der Grundsteuer befreiten Steuergegenstandes, die zu einer Änderung oder zum Wegfall der Steuerbefreiung führen kann, hat derjenige anzuzeigen, der nach § 10 als Steuerschuldner in Betracht kommt. Die Anzeige ist innerhalb von drei Monaten nach Eintritt der Änderung bei dem Finanzamt zu erstatten, das für die Festsetzung des Steuermeßbetrags zuständig ist.
+(1) Jede Änderung in der Nutzung oder in den Eigentumsverhältnissen eines ganz oder teilweise von der Grundsteuer befreiten Steuergegenstandes, die zu einer Änderung oder zum Wegfall der Steuerbefreiung führen kann, hat derjenige anzuzeigen, der nach § 10 als Steuerschuldner in Betracht kommt.
 
-(2) Den Wegfall der Voraussetzungen für die ermäßigte Steuermesszahl nach § 15 Absatz 2 bis 5 hat derjenige anzuzeigen, der nach § 10 als Steuerschuldner in Betracht kommt. Die Anzeige ist innerhalb von drei Monaten nach dem Wegfall der Voraussetzungen bei dem Finanzamt zu erstatten, das für die Festsetzung des Steuermessbetrags zuständig ist.
+(2) Den Wegfall der Voraussetzungen für die ermäßigte Steuermesszahl nach § 15 Absatz 2 bis 5 hat derjenige anzuzeigen, der nach § 10 als Steuerschuldner in Betracht kommt.
 
-(3) Die Anzeigen nach den Absätzen 1 und 2 sind Steuererklärungen im Sinne der Abgabenordnung, die eigenhändig zu unterschreiben sind.
+(3) Die Anzeigen nach den Absätzen 1 und 2 sind Steuererklärungen im Sinne der Abgabenordnung, die den Finanzbehörden nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle elektronisch zu übermitteln sind. Die Anzeigen sind bei dem für die Festsetzung des Steuermessbetrags zuständigen Finanzamt bis zum 31. März des Jahres zu erstatten, das auf das Kalenderjahr der Änderung nach Absatz 1 oder das Kalenderjahr des Wegfalls der Voraussetzungen nach Absatz 2 folgt. Auf Antrag kann die zuständige Finanzbehörde zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten; in diesem Fall ist die Anzeige nach amtlich vorgeschriebenem Vordruck abzugeben und eigenhändig zu unterschreiben. Für die Entscheidung über den Antrag gilt § 150 Absatz 8 der Abgabenordnung.
 
 
 ### § 20 Aufhebung des Steuermeßbetrags
@@ -409,16 +409,18 @@ Die Landesregierung kann durch Rechtsverordnung bestimmen, daß bei Betrieben de
 
 (3) Der Beschluß über die Festsetzung oder Änderung des Hebesatzes ist bis zum 30. Juni eines Kalenderjahres mit Wirkung vom Beginn dieses Kalenderjahres zu fassen. Nach diesem Zeitpunkt kann der Beschluß über die Festsetzung des Hebesatzes gefaßt werden, wenn der Hebesatz die Höhe der letzten Festsetzung nicht überschreitet.
 
-(4) Der Hebesatz muß jeweils einheitlich sein
+(4) Der Hebesatz muss vorbehaltlich des Absatzes 5 jeweils einheitlich sein
 
-1.  für die in einer Gemeinde liegenden Betriebe der Land- und Forstwirtschaft;
+1.  für die in einer Gemeinde liegenden Betriebe der Land- und Forstwirtschaft und
 
 
 2.  für die in einer Gemeinde liegenden Grundstücke.
 
 
 
-Wird das Gebiet von Gemeinden geändert, so kann die Landesregierung oder die von ihr bestimmte Stelle für die von der Änderung betroffenen Gebietsteile auf eine bestimmte Zeit verschiedene Hebesätze zulassen.
+Werden Gemeindegebiete geändert, so kann die Landesregierung oder die von ihr bestimmte Stelle für die von der Änderung betroffenen Gebietsteile für eine bestimmte Zeit verschiedene Hebesätze zulassen.
+
+(5) Die Gemeinde kann aus städtebaulichen Gründen baureife Grundstücke als besondere Grundstücksgruppe innerhalb der unbebauten Grundstücke im Sinne des § 246 des Bewertungsgesetzes bestimmen und abweichend von Absatz 4 Satz 1 Nummer 2 für die Grundstücksgruppe der baureifen Grundstücke einen gesonderten Hebesatz festsetzen. Baureife Grundstücke sind unbebaute Grundstücke im Sinne des § 246 des Bewertungsgesetzes, die nach Lage, Form und Größe und ihrem sonstigen tatsächlichen Zustand sowie nach öffentlich-rechtlichen Vorschriften sofort bebaut werden könnten. Eine erforderliche, aber noch nicht erteilte Baugenehmigung sowie zivilrechtliche Gründe, die einer sofortigen Bebauung entgegenstehen, sind unbeachtlich.Als städtebauliche Gründe kommen insbesondere die Deckung eines erhöhten Bedarfs an Wohn- und Arbeitsstätten sowie Gemeinbedarfsund Folgeeinrichtungen, die Nachverdichtung bestehender Siedlungsstrukturen oder die Stärkung der Innenentwicklung in Betracht. Die Gemeinde hat den gesonderten Hebesatz auf einen bestimmten Gemeindeteil zu beschränken, wenn nur für diesen Gemeindeteil die städtebaulichen Gründe vorliegen.Der Gemeindeteil muss mindestens 10 Prozent des gesamten Gemeindegebiets umfassen und in dem Gemeindeteil müssen mehrere baureife Grundstücke belegen sein. Die genaue Bezeichnung der baureifen Grundstücke, deren Lage sowie das Gemeindegebiet, auf das sich der gesonderte Hebesatz bezieht, sind jeweils nach den Verhältnissen zu Beginn eines Kalenderjahres von der Gemeinde zu bestimmen, in einer Karte nachzuweisen und im Wege einer Allgemeinverfügung öffentlich bekannt zu geben. In der Allgemeinverfügung sind die städtebaulichen Erwägungen nachvollziehbar darzulegen und die Wahl des Gemeindegebiets, auf das sich der gesonderte Hebesatz beziehen soll, zu begründen. Hat eine Gemeinde die Grundstücksgruppe baureifer Grundstücke bestimmt und für die Grundstücksgruppe der baureifen Grundstücke einen gesonderten Hebesatz festgesetzt, muss dieser Hebesatz für alle in der Gemeinde oder dem Gemeindeteil liegenden baureifen Grundstücke einheitlich und höher als der einheitliche Hebesatz für die übrigen in der Gemeinde liegenden Grundstücke sein.
 
 
 ### § 26 Koppelungsvorschriften und Höchsthebesätze
@@ -537,6 +539,8 @@ Hatte der Steuerschuldner bis zur Bekanntgabe der Jahressteuer keine Vorauszahlu
 (1) Diese Fassung des Gesetzes gilt erstmals für die Grundsteuer des Kalenderjahres 2025.
 
 (2) Für die Grundsteuer bis einschließlich zum Kalenderjahr 2024 findet das Grundsteuergesetz in der Fassung vom 7. August 1973 (BGBl. I S. 965), das zuletzt durch Artikel 38 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) geändert worden ist, weiter Anwendung.
+
+(3) § 25 Absatz 4 und 5 in der am 1. Januar 2025 geltenden Fassung ist erstmals bei der Hauptveranlagung auf den 1. Januar 2025 anzuwenden.
 
 
 ### § 38 Bekanntmachung

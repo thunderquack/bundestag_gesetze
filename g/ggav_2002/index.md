@@ -383,7 +383,7 @@ In dieser Anlage bedeuten:
 
 *    *   Ausnahme 33 (M)
 
-    *   Beförderung gefährlicher Güter auf Fährschiffen, die Küstenschifffahrt betreiben
+    *   Beförderung gefährlicher Güter auf Fährschiffen
 
 
 *    *   Ausnahme 34 (M)
@@ -2529,7 +2529,7 @@ In dieser Anlage bedeuten:
 ## **Beförderungen durch zivile Unternehmen im Auftrag und unter der Verantwortung der Bundeswehr**
 
 
-**1**[^f806001_02_BJNR435000002BJNE000711123]
+**1**[^f806001_02_BJNR435000002BJNE000712123]
  Abweichend von § 1 Absatz 3 Nummer 1 in Verbindung mit § 5 Absatz 6 der GGVSEB dürfen folgende Allgemeine Ausnahmegenehmigungen der Bundeswehr zur Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt (GGVSEB)
     auch durch zivile Unternehmen angewendet werden, die im Auftrag und unter der Verantwortung der Bundeswehr gefährliche Güter befördern:
 
@@ -2617,10 +2617,10 @@ In dieser Anlage bedeuten:
 
 ## Ausnahme 33 (M)
 
-## **Beförderung gefährlicher Güter auf Fährschiffen, die Küstenschifffahrt betreiben**
+## **Beförderung gefährlicher Güter auf Fährschiffen**
 
 
-**1** Abweichend von § 3 Absatz 1 der GGVSee dürfen gefährliche Güter auf Fährschiffen, die Küstenschifffahrt im Sinne des § 1 der Verordnung über die Küstenschifffahrt vom 5. Juli 2002 (BGBl. I S. 2555), die zuletzt durch Artikel 176 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist, betreiben, sowie auf der Fährstrecke Eemshaven/Borkum befördert werden, wenn die nachfolgenden Bestimmungen beachtet werden.
+**1** Abweichend von § 3 Absatz 1 der GGVSee dürfen gefährliche Güter auf Fährschiffen, die Fahrgäste oder Güter an einem Ort im Gebiet der Bundesrepublik Deutschland an Bord nehmen und sie gegen Entgelt an einen Bestimmungsort in diesem Gebiet befördern, sowie auf der Fährstrecke Eemshaven/Borkum befördert werden, wenn die nachfolgenden Bestimmungen beachtet werden.
 
 
 **2** **Anwendungsbereich**
@@ -2783,5 +2783,5 @@ Abweichend von § 3 Absatz 1 Nummer 1 der GGVSee dürfen gefährliche Güter auf
 
 
     Bei Einstufung nach Nummer 4.2, 4.5 oder 4.6 ist der Stoff der Klasse 3, 8 oder 9 zusätzlich anzugeben.
-[^f806001_01_BJNR435000002BJNE000711123]:     Die Allgemeinen Ausnahmegenehmigungen können auch beim Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr, Abteilung gesetzliche Schutzaufgaben, Referat Grundsatz Gefahrgutwesen (BAUIDBw GS III 1), Fontainengraben 200, Postfach 29 63, 53123 Bonn, angefordert werden.
-[^f806001_02_BJNR435000002BJNE000711123]: 
+[^f806001_01_BJNR435000002BJNE000712123]:     Die Allgemeinen Ausnahmegenehmigungen können auch beim Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr, Abteilung gesetzliche Schutzaufgaben, Referat Grundsatz Gefahrgutwesen (BAUIDBw GS III 1), Fontainengraben 200, Postfach 29 63, 53123 Bonn, angefordert werden.
+[^f806001_02_BJNR435000002BJNE000712123]: 

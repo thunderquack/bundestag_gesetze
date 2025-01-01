@@ -1670,7 +1670,7 @@ Das Bundesamt bedient sich der Hilfe der Landespolizei, einschließlich der Wass
 
 ### § 61 Verhältnis zu anderen Rechtsvorschriften
 
-Zuständigkeiten und Befugnisse nach Maßgabe des Seesicherheits-Untersuchungs-Gesetzes, des Seefischereigesetzes und anderen Rechtsvorschriften zur Entziehung von Berechtigungen, Beschränkung von Berechtigungen oder Sicherstellung und Beschlagnahme der entsprechenden Urkunden bleiben durch die §§ 56 bis 59 unberührt.
+Zuständigkeiten und Befugnisse nach Maßgabe des Seefischereigesetzes und anderen Rechtsvorschriften zur Entziehung von Berechtigungen, Beschränkung von Berechtigungen oder Sicherstellung und Beschlagnahme der entsprechenden Urkunden bleiben durch die §§ 56 bis 59 unberührt.
 
 
 ## Teil 9 - Nachweis einer beruflichen Tätigkeit in der Seeschifffahrt

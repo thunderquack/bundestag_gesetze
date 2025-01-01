@@ -25,7 +25,7 @@ Zuletzt geändert durch
 
 ## § 1 Versteigerungsauftrag
 
-Der Versteigerer darf nur auf Grund eines schriftlichen Vertrags mit dem Inhalt nach Satz 2 versteigern. Der Vertrag muss enthalten:
+Der Versteigerer darf nur auf Grund eines Vertrags in Textform mit dem Inhalt nach Satz 2 versteigern. Der Vertrag muss enthalten:
 
 1.  Vor- und Nachnamen sowie Anschrift des Auftraggebers,
 
@@ -63,18 +63,30 @@ Der Versteigerer darf nur auf Grund eines schriftlichen Vertrags mit dem Inhalt 
 
 (1) Der Versteigerer hat bis spätestens zwei Wochen vor der Versteigerung ein Verzeichnis der zu versteigernden Sachen anzufertigen, in dem das Versteigerungsgut jedes Auftraggebers einheitlich zu kennzeichnen ist. Das Versteigerungsgut ist durch den Namen des Auftraggebers oder durch Deckworte, Buchstaben oder Zahlen bei jeder einzelnen Nummer des Verzeichnisses oder bei übersichtlichen Zusammenstellungen der den einzelnen Auftraggebern gehörenden Sachen zu kennzeichnen. Bei den Zusammenstellungen sind die Sachen, die dem Versteigerer gehören, gesondert aufzuführen und als solche zu kennzeichnen.
 
-(2) Absatz 1 gilt nicht für Briefmarkenversteigerungen, Münzversteigerungen und öffentliche Versteigerungen auf Grund gesetzlicher Vorschrift (§ 383 Abs. 3 des Bürgerlichen Gesetzbuchs). Bei freiwilligen Hausrat- und Nachlassversteigerungen können durch die am Ort der Versteigerung zuständige Behörde Ausnahmen von den Anforderungen nach Absatz 1 zugelassen werden.
+(2) Absatz 1 gilt nicht für Briefmarkenversteigerungen, Münzversteigerungen und öffentliche Versteigerungen auf Grund gesetzlicher Vorschrift (§ 383 Absatz 2 des Bürgerlichen Gesetzbuchs). Bei freiwilligen Hausrat- und Nachlassversteigerungen können durch die am Versteigerungsort zuständige Behörde Ausnahmen von den Anforderungen nach Absatz 1 zugelassen werden.
 
 
 ## § 3 Anzeige
 
-(1) Der Versteigerer hat jede Versteigerung spätestens zwei Wochen vor dem in Aussicht genommenen Versteigerungstermin der zuständigen Behörde sowie der Industrie- und Handelskammer, in deren Bezirk die Versteigerung stattfinden soll, schriftlich oder elektronisch mit den Angaben nach Absatz 2 anzuzeigen. Die Behörde kann in Ausnahmefällen, insbesondere bei leicht verderblichem Versteigerungsgut, die Frist auf Antrag abkürzen. Bei der Versteigerung von landwirtschaftlichem Inventar, landwirtschaftlichen und forstwirtschaftlichen Erzeugnissen oder Vieh ist keine Anzeige erforderlich.
+(1) Der Versteigerer hat jede Versteigerung spätestens zwei Wochen vor dem in Aussicht genommenen Versteigerungstermin der zuständigen Behörde schriftlich oder elektronisch mit den Angaben nach Absatz 2 anzuzeigen. Die Behörde kann in Ausnahmefällen, insbesondere bei leicht verderblichem Versteigerungsgut, die Frist auf Antrag abkürzen. Bei der Versteigerung von landwirtschaftlichem Inventar, landwirtschaftlichen und forstwirtschaftlichen Erzeugnissen oder Vieh ist keine Anzeige erforderlich.
 
-(2) In der Anzeige sind Ort und Zeitpunkt der Versteigerung sowie die Gattung der zu versteigernden Ware anzugeben. In den Fällen des § 6 Abs. 1 Satz 1 sind der Anlass der Versteigerung sowie Name und Anschrift der Auftraggeber anzugeben.
+(2) In der Anzeige sind neben der Gattung der zu versteigernden Ware und dem Zeitpunkt der Versteigerung die folgenden Angaben zu machen:
 
-(2a) Erkennt der Versteigerer in den Fällen des § 6 Abs. 1 Satz 1 Nr. 1 und 2 erst nach Erstattung der Anzeige nach Absatz 1, dass einzelne Gegenstände zu dem zu versteigernden Nachlass oder der zur versteigernden Insolvenzmasse oder zum aufgegebenen Geschäftsbetrieb gehören, darf er diese Gegenstände versteigern, wenn er dies der zuständigen Behörde sowie der Industrie- und Handelskammer unter Bezugnahme auf die nach Absatz 1 erstattete Anzeige unverzüglich anzeigt.
+1.  in den Fällen der Versteigerung und der öffentlichen Versteigerung nach § 383 Absatz 2 Satz 2 Nummer 1 des Bürgerlichen Gesetzbuchs der Versteigerungsort,
 
-(3) Eine neue Versteigerung am Ort der vorhergehenden Versteigerung darf erst dann begonnen werden, wenn die vorhergehende Versteigerung mindestens vor fünf Tagen beendet wurde. Keine der Versteigerungen darf die Dauer von sechs Tagen überschreiten. Die zuständige Behörde kann in Einzelfällen, insbesondere bei Grundstücksversteigerungen, gegebenenfalls nach Einholen einer Stellungnahme bei der örtlich zuständigen Industrie- und Handelskammer, Ausnahmen von den Fristen der Sätze 1 und 2 zulassen.
+
+2.  im Fall der virtuellen öffentlichen Versteigerung nach § 383 Absatz 2 Satz 2 Nummer 2 des Bürgerlichen Gesetzbuchs die Zugangsdaten,
+
+
+3.  im Fall der hybriden öffentlichen Versteigerung nach § 383 Absatz 2 Satz 2 Nummer 3 des Bürgerlichen Gesetzbuchs der Versteigerungsort und die Zugangsdaten.
+
+
+
+In den Fällen des § 6 Abs. 1 Satz 1 sind der Anlass der Versteigerung sowie Name und Anschrift der Auftraggeber anzugeben.
+
+(2a) Erkennt der Versteigerer in den Fällen des § 6 Abs. 1 Satz 1 Nr. 1 und 2 erst nach Erstattung der Anzeige nach Absatz 1, dass einzelne Gegenstände zu dem zu versteigernden Nachlass oder der zur versteigernden Insolvenzmasse oder zum aufgegebenen Geschäftsbetrieb gehören, darf er diese Gegenstände versteigern, wenn er dies der zuständigen Behörde unter Bezugnahme auf die nach Absatz 1 erstattete Anzeige unverzüglich anzeigt.
+
+(3) Eine neue Versteigerung am Ort der vorhergehenden Versteigerung darf erst dann begonnen werden, wenn die vorhergehende Versteigerung mindestens vor fünf Tagen beendet wurde. Keine der Versteigerungen darf die Dauer von sechs Tagen überschreiten. Sofern in einer Versteigerung eine Vielzahl von Versteigerungsobjekten unterschiedlicher Art zur Versteigerung gelangt, die aufgrund ihrer Anzahl nicht innerhalb der Frist des Satzes 2 versteigert werden kann, darf die Versteigerung eine Dauer von zwölf Tagen nicht überschreiten. Die zuständige Behörde kann in Einzelfällen, insbesondere bei Grundstücksversteigerungen, gegebenenfalls nach Einholen einer Stellungnahme bei der örtlich zuständigen Industrie- und Handelskammer, Ausnahmen von den Fristen der Sätze 1 bis 3 zulassen.
 
 (4) Der Versteigerer hat auf Verlangen
 
@@ -93,9 +105,8 @@ Zur Ausübung der Befugnisse nach Satz 1 Nr. 1 bis 3 kann sich die Behörde der 
 (5) Auf Versteigerungen im Reisegewerbe findet § 56a Abs. 2 der Gewerbeordnung keine Anwendung.
 
 
-## § 4 Besichtigung
+## § 4 (weggefallen)
 
-Der Versteigerer hat für die Dauer von mindestens zwei Stunden Gelegenheit zur Besichtigung des Versteigerungsgutes zu geben. Die zuständige Behörde kann Ausnahmen zulassen, wenn der Versteigerer den Bietern in anderer Weise hinreichend Gelegenheit gibt, das Versteigerungsgut zu beurteilen.
 
 
 ## § 5 (weggefallen)
@@ -113,7 +124,7 @@ Der Versteigerer hat für die Dauer von mindestens zwei Stunden Gelegenheit zur 
 2.  wegen Geschäftsaufgabe veräußert wird,
 
 
-3.  im Wege der öffentlichen Versteigerung auf Grund gesetzlicher Vorschrift veräußert wird (§ 383 Abs. 3 des Bürgerlichen Gesetzbuchs).
+3.  im Wege der öffentlichen Versteigerung auf Grund gesetzlicher Vorschrift veräußert wird (§ 383 Absatz 2 des Bürgerlichen Gesetzbuchs).
 
 
 
@@ -124,7 +135,7 @@ Die zuständige Behörde kann im Einzelfall nach Anhörung der für den Versteig
 1.  die Versteigerung in räumlichem oder zeitlichem Zusammenhang mit einer anderen Verkaufsveranstaltung steht, es sei denn, es handelt sich um einen Räumungsverkauf wegen Geschäftsaufgabe, oder
 
 
-2.  das Versteigerungsgut zum Zweck der Versteigerung in eine andere Gemeinde verbracht ist; dies gilt nicht, soweit der Versteigerer glaubhaft macht, dass es sich um einen geeigneten anderen Ort im Sinne des § 383 Abs. 2 des Bürgerlichen Gesetzbuchs handelt.
+2.  das Versteigerungsgut zum Zweck der Versteigerung in eine andere Gemeinde verbracht ist; dies gilt nicht, soweit der Versteigerer glaubhaft macht, dass es sich um einen Versteigerungsort im Sinne des § 383 Absatz 2 des Bürgerlichen Gesetzbuchs handelt.
 
 
 
@@ -147,14 +158,14 @@ Der Versteigerer darf den Zuschlag erst erteilen, wenn nach dreimaligem Wiederho
 
 ## § 9 Untersagung, Aufhebung und Unterbrechung der Versteigerung
 
-Die zuständige Behörde kann die Versteigerung ganz oder teilweise untersagen oder eine begonnene Versteigerung aufheben oder unterbrechen, wenn der Versteigerer gegen § 34b Abs. 6 oder 7 der Gewerbeordnung oder gegen § 2 Abs. 1 oder §§ 3, 4 oder § 6 Abs. 2 dieser Verordnung verstößt oder verstoßen hat.
+Die zuständige Behörde kann die Versteigerung ganz oder teilweise untersagen oder eine begonnene Versteigerung aufheben oder unterbrechen, wenn der Versteigerer gegen § 34b Abs. 6 oder 7 der Gewerbeordnung oder gegen die §§ 2, 3 oder § 6 Absatz 2 dieser Verordnung verstößt oder verstoßen hat.
 
 
 ## § 10 Straftaten und Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1b der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 1 Satz 1 ohne schriftlichen Vertrag versteigert,
+1.  entgegen § 1 Satz 1 ohne Vertrag in Textform versteigert,
 
 
 2.  entgegen § 2 Abs. 1 Satz 1 ein Verzeichnis nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig anfertigt,

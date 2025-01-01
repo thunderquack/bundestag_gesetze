@@ -103,7 +103,7 @@ Im Sinne dieser Verordnung bezeichnet das Wort
 
 (8) Die in Absatz 3 getroffenen Regelungen können bis zum 31. Dezember 2002 ausgesetzt werden.
 
-(9) Beschränkungen nach den Absätzen 4 und 5, deren Verlängerung nach Absatz 7 sowie eine Aussetzung nach Absatz 8 bedürfen der vorherigen Zustimmung der Europäischen Kommission. Die Zustimmung wird durch das Bundesministerium für Verkehr und digitale Infrastruktur spätestens drei Monate vor dem beabsichtigten Inkrafttreten der Beschränkung und in den Fällen des Absatzes 8 bis spätestens zum 1. Juli 2000 beantragt. Der Flugplatzunternehmer ist verpflichtet, dem Bundesministerium für Verkehr und digitale Infrastruktur über die Luftfahrtbehörde die hierfür erforderlichen Unterlagen und Begründungen rechtzeitig zu übermitteln.
+(9) Beschränkungen nach den Absätzen 4 und 5, deren Verlängerung nach Absatz 7 sowie eine Aussetzung nach Absatz 8 bedürfen der vorherigen Zustimmung der Europäischen Kommission. Die Zustimmung wird durch das Bundesministerium für Digitales und Verkehr spätestens drei Monate vor dem beabsichtigten Inkrafttreten der Beschränkung und in den Fällen des Absatzes 8 bis spätestens zum 1. Juli 2000 beantragt. Der Flugplatzunternehmer ist verpflichtet, dem Bundesministerium für Digitales und Verkehr über die Luftfahrtbehörde die hierfür erforderlichen Unterlagen und Begründungen rechtzeitig zu übermitteln.
 
 
 ## § 4 Trennung der Tätigkeitsbereiche
@@ -192,20 +192,11 @@ Der Flugplatzunternehmer hält mindestens einmal im Jahr eine gemeinsame Konsult
 
 
 
-behandelt, ist das Bundesministerium für Verkehr und digitale Infrastruktur zu unterrichten.
+behandelt, ist das Bundesministerium für Digitales und Verkehr zu unterrichten.
 
 (2) Dieses kann, unbeschadet der internationalen Verpflichtungen der Europäischen Union, die Pflichten, die sich aus der Richtlinie 96/67/EG des Rates vom 15. Oktober 1996 gegenüber den Dienstleistern und Nutzern dieses Drittlandes ergeben, im Einklang mit dem Gemeinschaftsrecht ganz oder teilweise aussetzen.
 
-(3) Das Bundesministerium für Verkehr und digitale Infrastruktur unterrichtet die Kommission der Europäischen Gemeinschaften über Art und Ausmaß der Entscheidung.
-
-
-## § 13 Unterrichtung
-
-(1) Die Luftfahrtbehörde meldet dem Bundesministerium für Verkehr und digitale Infrastruktur die unter diese Verordnung fallenden Flugplätze vor dem 1. Juni jeden Jahres mit Angaben zum jeweiligen Passagier- und Frachtaufkommen des abgelaufenen Kalenderjahres und des dem 1. April und dem 1. Oktober des Vorjahres vorausgehenden Sechsmonatszeitraums.
-
-(2) Die Luftfahrtbehörde stellt dem Bundesministerium für Verkehr und digitale Infrastruktur auf dessen Anforderung hin Informationen zur Verfügung, die die Kommission der Europäischen Gemeinschaften zur Erstellung eines Berichts über die Anwendung der Richtlinie 96/67/EG des Rates benötigt.
-
-(3) Der Flugplatzunternehmer ist verpflichtet, der Luftfahrtbehörde die nach Absatz 2 erforderlichen Auskünfte zu erteilen und Unterlagen vorzulegen.
+(3) Das Bundesministerium für Digitales und Verkehr unterrichtet die Kommission der Europäischen Gemeinschaften über Art und Ausmaß der Entscheidung.
 
 (zu § 2 Nr. 4)
 
@@ -356,7 +347,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, 2888 - 2889
 
 (zu § 7)
 
-## Anlage 2 Auswahl-Richtlinie des Bundesministeriums für Verkehr und digitale Infrastruktur
+## Anlage 2 Auswahl-Richtlinie des Bundesministeriums für Digitales und Verkehr
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2889 - 2890;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1027,86 +1018,6 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flug
 
 
 Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
-Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Berlin-Tegel (TXL) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
-
-*    *
-    *   Dienst gemäß Anlage 1
-
-    *   Zahl der Selbstabfertiger
-
-    *   Zahl der Drittabfertiger
-
-
-*    *   3
-
-    *   Gepäckabfertigung
-
-    *   2
-
-    *   2
-
-
-*    *   4
-
-    *   Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug)
-
-    *   2
-
-    *   2
-
-
-*    *   5.1
-
-    *   Lotsen
-
-    *        ![bgbl1_1997_j2894_0010.jpg](bgbl1_1997_j2894_0010.jpg)
-    *        ![bgbl1_1997_j2894_0010.jpg](bgbl1_1997_j2894_0010.jpg)
-
-*    *   5.2
-
-    *   Unterstützen beim Parken
-
-
-*    *   5.3
-
-    *   Kommunikation Flugzeug/Abfertiger
-
-
-*    *   5.4
-
-    *   Be- und Entladung sowie Beförderung Besatzung/Fluggast/Gepäck
-
-
-*    *   5.5
-
-    *   Anlassen/Triebwerke
-
-
-*    *   5.6
-
-    *   Bewegen des Flugzeugs/Bereitstellen
-
-
-*    *   5.7
-
-    *   Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken
-
-    *   2
-
-    *   3
-
-
-*    *   7
-
-    *   Betankungsdienste
-
-    *   2
-
-    *   8
-
-
-
-Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
 Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Hamburg (HAM) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
 *    *
@@ -1711,7 +1622,7 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flug
 
 
 Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im Einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
-Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Berlin-Schönefeld (SXF) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
+Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Berlin-Brandenburg (BER) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
 *    *
     *   Dienst gemäß Anlage 1
@@ -1823,7 +1734,7 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flug
 
     *   Zahl der Selbstabfertiger
 
-    *[^bjnr288510997bjne001800310_01_BJNR288510997BJNE001804124]
+    *[^bjnr288510997bjne001800310_01_BJNR288510997BJNE001805119]
    Zahl der Drittabfertiger
 
 
@@ -2071,4 +1982,4 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flug
 (weggefallen)
 
     Anmerkung: Bestimmungen für Drittabfertiger gelten erst ab Jahr 2001.
-[^bjnr288510997bjne001800310_01_BJNR288510997BJNE001804124]: 
+[^bjnr288510997bjne001800310_01_BJNR288510997BJNE001805119]: 

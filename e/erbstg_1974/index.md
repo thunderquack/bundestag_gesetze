@@ -334,7 +334,7 @@ Für die Wertermittlung ist, soweit in diesem Gesetz nichts anderes bestimmt ist
 
 (2) Anteile an Kapitalgesellschaften, für die ein Wert nach § 151 Abs. 1 Satz 1 Nr. 3 des Bewertungsgesetzes festzustellen ist, sind mit dem auf den Bewertungsstichtag (§ 11) festgestellten Wert anzusetzen.
 
-(3) Grundbesitz (§ 19 Abs. 1 des Bewertungsgesetzes) ist mit dem nach § 151 Abs. 1 Satz 1 Nr. 1 des Bewertungsgesetzes auf den Bewertungsstichtag (§ 11) festgestellten Wert anzusetzen.
+(3) Grundbesitz (§ 157 Absatz 1 Satz 1 des Bewertungsgesetzes) ist mit dem nach § 151 Abs. 1 Satz 1 Nr. 1 des Bewertungsgesetzes auf den Bewertungsstichtag (§ 11) festgestellten Wert anzusetzen.
 
 (4) Bodenschätze, die nicht zum Betriebsvermögen gehören, werden angesetzt, wenn für sie Absetzungen für Substanzverringerung bei der Einkunftsermittlung vorzunehmen sind; sie werden mit ihren ertragsteuerlichen Werten angesetzt.
 

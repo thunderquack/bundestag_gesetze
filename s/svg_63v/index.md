@@ -29,7 +29,7 @@ Zuletzt geändert durch
 
 ## § 1 Flugdienst
 
-(1) Flugdienst im Sinne des § 63 Abs. 1 Nr. 1 und 2 des Soldatenversorgungsgesetzes ist jeder Aufenthalt, der an Bord eines Luftfahrzeugs zur Durchführung eines Flugauftrags oder eines sonstigen Befehls vom Beginn des Starts bis zur Beendigung der Landung erforderlich ist.
+(1) Flugdienst im Sinne des § 84 Absatz 1 Nummer 1 und 2 des Soldatenversorgungsgesetzes ist jeder Aufenthalt, der an Bord eines Luftfahrzeugs zur Durchführung eines Flugauftrags oder eines sonstigen Befehls vom Beginn des Starts bis zur Beendigung der Landung erforderlich ist.
 
 (2) Der Start beginnt nach der Freigabe zum Start oder aus eigenem Entschluß des verantwortlichen Luftfahrzeugführers mit der Bewegung des Luftfahrzeugs zum Zwecke des Abhebens und endet mit Erreichen der Reiseflughöhe oder der durch Flugauftrag vorgeschriebenen Mindestflughöhe. Die Landung beginnt mit der Freigabe zur Landung oder aus eigenem Entschluß des verantwortlichen Luftfahrzeugführers und endet bei Starrflüglern mit dem Verlassen der Start- und Landebahn, bei Drehflüglern mit dem Aufsetzen oder dem Ausrollen.
 

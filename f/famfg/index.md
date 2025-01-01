@@ -251,7 +251,7 @@ Das Bundesministerium der Justiz kann durch Rechtsverordnung mit Zustimmung des 
 
 (1) Dokumente, deren Inhalt eine Termins- oder Fristbestimmung enthält oder den Lauf einer Frist auslöst, sind den Beteiligten bekannt zu geben.
 
-(2) Die Bekanntgabe kann durch Zustellung nach den §§ 166 bis 195 der Zivilprozessordnung oder dadurch bewirkt werden, dass das Schriftstück unter der Anschrift des Adressaten zur Post gegeben wird. Soll die Bekanntgabe im Inland bewirkt werden, gilt das Schriftstück drei Tage nach Aufgabe zur Post als bekannt gegeben, wenn nicht der Beteiligte glaubhaft macht, dass ihm das Schriftstück nicht oder erst zu einem späteren Zeitpunkt zugegangen ist.
+(2) Die Bekanntgabe kann durch Zustellung nach den §§ 166 bis 195 der Zivilprozessordnung oder dadurch bewirkt werden, dass das Schriftstück unter der Anschrift des Adressaten zur Post gegeben wird. Soll die Bekanntgabe im Inland bewirkt werden, gilt das Schriftstück vier Tage nach Aufgabe zur Post als bekannt gegeben, wenn nicht der Beteiligte glaubhaft macht, dass ihm das Schriftstück nicht oder erst zu einem späteren Zeitpunkt zugegangen ist.
 
 (3) Ist eine Bekanntgabe nicht geboten, können Dokumente den Beteiligten formlos mitgeteilt werden.
 

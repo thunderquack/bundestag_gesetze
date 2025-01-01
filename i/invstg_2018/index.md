@@ -1344,14 +1344,14 @@ Satz 1 ist nur anzuwenden, wenn die Summe der nach Absatz 1 bis 3 und § 56 ermi
 
 (1) Die Besteuerungsgrundlagen nach den §§ 29 bis 49, die nicht ausgeglichenen negativen Erträge nach § 41 und die positiven Erträge, die nicht zu einer Ausschüttung verwendet wurden, sind gegenüber dem Spezial-Investmentfonds und dem Anleger gesondert und einheitlich festzustellen.
 
-(2) Eine Erklärung zur gesonderten und einheitlichen Feststellung der Besteuerungsgrundlagen ist der zuständigen Finanzbehörde innerhalb von vier Monaten nach Ablauf des Geschäftsjahres eines Spezial-Investmentfonds nach amtlich vorgeschriebenem Vordruck abzugeben. Wird innerhalb von vier Monaten nach Ablauf des Geschäftsjahres ein Beschluss über eine Ausschüttung gefasst, so ist die Erklärung innerhalb von vier Monaten nach dem Tag des Beschlusses abzugeben.
+(2) Eine Erklärung zur gesonderten und einheitlichen Feststellung der Besteuerungsgrundlagen ist der zuständigen Finanzbehörde innerhalb von acht Monaten nach Ablauf des Geschäftsjahres eines Spezial-Investmentfonds nach amtlich vorgeschriebenem Vordruck abzugeben. Für die Erklärung nach Satz 1 beträgt der Verspätungszuschlag nach § 152 der Abgabenordnung für jeden angefangenen Monat der eingetretenen Verspätung 0,0625 Prozent der ausgeschütteten und ausschüttungsgleichen Erträge; dies gilt ungeachtet einer etwaigen Steuerbefreiung auf Anlegerebene.
 
 (3) Die Erklärung zur gesonderten und einheitlichen Feststellung hat abzugeben:
 
-1.  bei einem inländischen Spezial-Investmentfonds die Kapitalverwaltungsgesellschaft, die inländische Betriebsstätte oder Zweigniederlassung der ausländischen Verwaltungsgesellschaft oder die inländische Verwahrstelle oder
+1.  bei einem inländischen Spezial-Investmentfonds der Spezial-Investmentfonds oder
 
 
-2.  bei einem ausländischen Spezial-Investmentfonds die inländische oder ausländische Verwaltungsgesellschaft oder der inländische Anleger.
+2.  bei einem ausländischen Spezial-Investmentfonds der Spezial-Investmentfonds oder der inländische Anleger.
 
 
 
@@ -1381,7 +1381,7 @@ Satz 1 ist nur anzuwenden, wenn die Summe der nach Absatz 1 bis 3 und § 56 ermi
 
 
 
-(5) Die Erklärung zur gesonderten und einheitlichen Feststellung steht einer gesonderten und einheitlichen Feststellung unter dem Vorbehalt der Nachprüfung gemäß § 164 der Abgabenordnung gleich. Eine berichtigte Feststellungserklärung gilt als Antrag auf Änderung.
+(5) Die Erklärung zur gesonderten und einheitlichen Feststellung steht einer gesonderten und einheitlichen Feststellung unter dem Vorbehalt der Nachprüfung gemäß § 164 der Abgabenordnung gleich. Eine berichtigte Feststellungserklärung gilt als Antrag auf Änderung. Alle Verwaltungsakte und Mitteilungen, die nach diesem Gesetz und der Abgabenordnung mit der gesonderten und einheitlichen Feststellung zusammenhängen, sind dem gesetzlichen Vertreter des Spezial-Investmentfonds in Vertretung der Feststellungsbeteiligten bekannt zu geben; bei der Bekanntgabe ist darauf hinzuweisen, dass die Bekanntgabe mit Wirkung für und gegen alle Feststellungsbeteiligten erfolgt. Ist einem Anleger kein Spezial-Investmentanteil mehr zuzurechnen oder bestehen zwischen dem Anleger und dem gesetzlichen Vertreter des Spezial-Investmentfonds ernstliche Meinungsverschiedenheiten, ist eine Einzelbekanntgabe nur erforderlich, soweit der Anleger der Bekanntgabe an den gesetzlichen Vertreter des Spezial-Investmentfonds gegenüber der Finanzbehörde vor Erlass der Verwaltungsakte oder Mitteilungen widersprochen hat. Ein Widerspruch nach Satz 4 wird der Finanzbehörde gegenüber erst wirksam, wenn er ihr zugeht. Ist nach Satz 4 eine Einzelbekanntgabe erforderlich, gilt § 183 Absatz 3 der Abgabenordnung entsprechend. Zur Einlegung von Rechtsbehelfen gegen Verwaltungsakte, die nach diesem Gesetz und der Abgabenordnung mit der gesonderten und einheitlichen Feststellung zusammenhängen, ist der gesetzliche Vertreter des Spezial-Investmentfonds befugt; § 352 Absatz 1 Nummer 4 und 5 der Abgabenordnung und § 48 Absatz 1 Nummer 4 und 5 der Finanzgerichtsordnung sind entsprechend anzuwenden. In den Fällen des Satzes 4 gelten § 352 Absatz 1 Nummer 3 der Abgabenordnung und § 48 Absatz 1 Nummer 3 der Finanzgerichtsordnung entsprechend.
 
 
 ### Abschnitt 3 - Wegfall der Voraussetzungen eines Spezial-Investmentfonds
@@ -1620,6 +1620,8 @@ in der Fassung des Artikels 4 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2050).
 in der Fassung des Artikels 14 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294).
 
 (8) § 4 Absatz 2 Nummer 1a und § 26 Nummer 7a in der Fassung des Artikels 25 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) sind nach dem 27. März 2024 anzuwenden. § 6 Absatz 5 Satz 1 Nummer 1 in der Fassung des Artikels 25 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist erstmals auf Gewinne aus der Veräußerung von Anteilen im Sinne des § 49 Absatz 1 Nummer 2 Buchstabe e Doppelbuchstabe cc des Einkommensteuergesetzes anzuwenden, bei denen die Veräußerung nach dem 27. März 2024 erfolgt und nur soweit den Gewinnen nach dem 27. März 2024 eingetretene Wertveränderungen zugrunde liegen. § 43 Absatz 1 in der Fassung des Artikels 25 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist erstmals für Geschäftsjahre anzuwenden, die nach dem 31. Dezember 2024 beginnen. § 2 Absatz 9a in der Fassung des Artikels 25 des Gesetzes vom 27. März 2024 (BGBl. 2024 I Nr. 108) ist ab dem 1. Januar 2025 anzuwenden.
+
+(9) § 51 Absatz 5 Satz 3 bis 8 in der Fassung des Artikels 30 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323) ist ab dem 1. Januar 2025 anzuwenden. § 51 Absatz 2 und 3 in der Fassung des Artikels 30 des Gesetzes vom 23. Oktober 2024 (BGBl. 2024 I Nr. 323) ist anzuwenden für Geschäftsjahre des Spezial-Investmentfonds, die nach dem 31. Dezember 2024 beginnen.
 
 (10) In der Fassung des Artikels 11 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) sind anzuwenden:
 

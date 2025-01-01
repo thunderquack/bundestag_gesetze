@@ -130,7 +130,7 @@ Liegt der künftige Sitz der SE im Ausland, ist § 13 Abs. 1 und 2 entsprechend 
 
 ### § 13 Gläubigerschutz
 
-(1) Verlegt eine SE nach Maßgabe von Artikel 8 der Verordnung ihren Sitz, ist den Gläubigern der Gesellschaft, wenn sie binnen zwei Monaten nach dem Tag, an dem der Verlegungsplan offen gelegt worden ist, ihren Anspruch nach Grund und Höhe schriftlich anmelden, Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können. Dieses Recht steht den Gläubigern jedoch nur zu, wenn sie glaubhaft machen, dass durch die Sitzverlegung die Erfüllung ihrer Forderungen gefährdet wird. Die Gläubiger sind im Verlegungsplan auf dieses Recht hinzuweisen.
+(1) Verlegt eine SE nach Maßgabe von Artikel 8 der Verordnung ihren Sitz, ist den Gläubigern der Gesellschaft, wenn sie binnen zwei Monaten nach dem Tag, an dem der Verlegungsplan offen gelegt worden ist, ihren Anspruch nach Grund und Höhe in Textform anmelden, Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können. Dieses Recht steht den Gläubigern jedoch nur zu, wenn sie glaubhaft machen, dass durch die Sitzverlegung die Erfüllung ihrer Forderungen gefährdet wird. Die Gläubiger sind im Verlegungsplan auf dieses Recht hinzuweisen.
 
 (2) Das Recht auf Sicherheitsleistung nach Absatz 1 steht Gläubigern nur im Hinblick auf solche Forderungen zu, die vor oder bis zu 15 Tage nach Offenlegung des Verlegungsplans entstanden sind.
 

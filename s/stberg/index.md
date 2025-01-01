@@ -202,7 +202,7 @@ Die Meldung ist jährlich zu wiederholen, wenn die Person nach Ablauf eines Kale
 
 (3) Sobald die Meldung nach Absatz 2 vollständig vorliegt, veranlasst die zuständige Stelle eine vorübergehende Eintragung der Angaben nach Absatz 2 Satz 3 Nr. 1 bis 4 im Berufsregister oder ihre Verlängerung um ein Jahr. Die jeweilige Eintragung erfolgt unter Angabe der zuständigen Stelle und des Datums der Eintragung. Das Verfahren ist kostenfrei.
 
-(4) Registrierte Personen nach Absatz 3 oder ihre Rechtsnachfolger müssen der zuständigen Stelle alle Änderungen der Angaben nach Absatz 2 Satz 3 Nr. 1 bis 4 unverzüglich schriftlich mitteilen.
+(4) Registrierte Personen nach Absatz 3 oder ihre Rechtsnachfolger müssen der zuständigen Stelle alle Änderungen der Angaben nach Absatz 2 Satz 3 Nr. 1 bis 4 unverzüglich schriftlich oder elektronisch mitteilen.
 
 (5) Personen, die nach Absatz 1 geschäftsmäßig Hilfeleistung in Steuersachen im Inland erbringen, dürfen dabei nur unter der Berufsbezeichnung in den Amtssprachen des Niederlassungsstaates tätig werden, unter der sie ihre Dienste im Niederlassungsstaat anbieten. Wer danach berechtigt ist, die Berufsbezeichnung „Steuerberater“/„Steuerberaterin“, „Steuerbevollmächtigter“/„Steuerbevollmächtigte“ oder „Steuerberatungsgesellschaft“ zu führen, hat zusätzlich die Berufsorganisation, der er im Niederlassungsstaat angehört, sowie den Niederlassungsstaat anzugeben. Eine Verwechslung mit den genannten Berufsbezeichnungen muss ausgeschlossen sein.
 
@@ -479,7 +479,7 @@ Zur geschäftsmäßigen Hilfeleistung in Steuersachen sind ferner befugt:
 
 (1) Andere als die in den §§ 3, 3a, 3d und 4 bezeichneten Personen und Vereinigungen dürfen nicht geschäftsmäßig Hilfe in Steuersachen leisten, insbesondere nicht geschäftsmäßig Rat in Steuersachen erteilen. Die in den §§ 3a, 3d und 4 bezeichneten Personen und Vereinigungen dürfen nur im Rahmen ihrer Befugnis geschäftsmäßig Hilfe in Steuersachen leisten.
 
-(2) Werden den Finanzbehörden oder den Steuerberaterkammern Tatsachen bekannt, die den Verdacht begründen, dass eine Person oder Vereinigung entgegen Absatz 1 geschäftsmäßig Hilfe in Steuersachen leistet, so haben sie diese Tatsachen der für das Bußgeldverfahren zuständigen Stelle mitzuteilen. Werden den Finanzbehörden Tatsachen bekannt, die darauf hinweisen, dass eine Person oder Vereinigung entgegen Absatz 1 geschäftsmäßig Hilfe in Steuersachen leistet, so können sie diese Tatsachen der zuständigen Steuerberaterkammer zum Zwecke der Prüfung der Geltendmachung von Ansprüchen nach den Vorschriften des Gesetzes gegen den unlauteren Wettbewerb (§ 76 Absatz 11) mitteilen.
+(2) Werden den Finanzbehörden oder den Steuerberaterkammern Tatsachen bekannt, die den Verdacht begründen, dass eine Person oder Vereinigung entgegen Absatz 1 geschäftsmäßig Hilfe in Steuersachen leistet, so haben sie diese Tatsachen der für das Bußgeldverfahren zuständigen Stelle mitzuteilen. Werden den Finanzbehörden oder dem Bundesamt für Justiz Tatsachen bekannt, die darauf hinweisen, dass eine Person oder Vereinigung entgegen Absatz 1 geschäftsmäßig Hilfe in Steuersachen leistet, so können sie diese Tatsachen der zuständigen Steuerberaterkammer zum Zwecke der Prüfung der Geltendmachung von Ansprüchen nach den Vorschriften des Gesetzes gegen den unlauteren Wettbewerb (§ 76 Absatz 11) mitteilen. Liegen tatsächliche Anhaltspunkte dafür vor, dass die unbefugte Hilfeleistung in Steuersachen fortgesetzt wird, so ist das Bundesamt für Justiz verpflichtet, die zuständige Steuerberaterkammer über den Ausgang eines nach § 20 Absatz 1 Nummer 1 des Rechtsdienstleistungsgesetzes eingeleiteten Bußgeldverfahrens zu unterrichten. Eine entsprechende Verpflichtung besteht für die Finanzbehörden in Bezug auf Bußgeldverfahren nach § 160. Zuständige Steuerberaterkammer im Sinne der Sätze 2 und 3 ist diejenige, in deren Bezirk die unbefugt hilfeleistende Person oder Vereinigung ihren Sitz hat. Besteht kein Sitz im Inland, jedoch in einem der in § 3a Absatz 2 Satz 2 genannten Staaten, so ist die nach dieser Vorschrift für den jeweiligen Staat zuständige Steuerberaterkammer zuständig. Kann nach den Sätzen 5 und 6 keine Zuständigkeit bestimmt werden, so ist diejenige Steuerberaterkammer zuständig, in deren Bezirk die unbefugte Hilfeleistung erbracht wurde.
 
 (3) Die Finanzbehörden oder die Steuerberaterkammern haben der für das Strafverfahren, das Bußgeldverfahren oder ein berufsaufsichtliches Verfahren zuständigen Stelle ihnen bekannte Tatsachen mitzuteilen, die den Verdacht begründen, dass
 
@@ -517,15 +517,12 @@ Das Verbot des § 5 gilt nicht für
 
 ##### § 7 Untersagung der Hilfeleistung in Steuersachen
 
-(1) Das Finanzamt kann die Hilfeleistung in Steuersachen untersagen,
+(1) Die Finanzbehörde kann die Hilfeleistung in Steuersachen untersagen, wenn
 
-1.  wenn die Tätigkeit durch eine Person oder Vereinigung ausgeübt wird, die nicht unter die §§ 3, 3a, 3d oder 4 fällt,
-
-
-2.  wenn bei einer Tätigkeit nach den §§ 3a, 3d, 4 oder 6 die jeweiligen Befugnisse überschritten werden,
+1.  bei einer Tätigkeit nach den §§ 3a, 3d, 4 oder 6 die jeweiligen Befugnisse überschritten werden oder
 
 
-3.  wenn eine Tätigkeit als Arbeitnehmer zur Umgehung des Verbots nach § 5 missbraucht wird.
+2.  eine Tätigkeit als Arbeitnehmer zur Umgehung des Verbots nach § 5 missbraucht wird.
 
 
 
@@ -612,11 +609,7 @@ Die Abgabe oder Entgegennahme eines Teils der Gebühren oder sonstiger Vorteile 
 Satz 1 Nummer 2 gilt nicht für die Verschwiegenheitspflichten der für eine Berufskammer eines freien Berufs im Geltungsbereich dieses Gesetzes tätigen Personen und für das Steuergeheimnis nach § 30 der Abgabenordnung.
 
 
-##### § 10a Mitteilung über den Ausgang eines Bußgeldverfahrens wegen unbefugter Hilfeleistung in Steuersachen
-
-(1) Liegen tatsächliche Anhaltspunkte dafür vor, das die unbefugte Hilfeleistung in Steuersachen fortgesetzt wird, sind die Finanzbehörden verpflichtet, die Steuerberaterkammer, in deren Bezirk die Person Hilfe in Steuersachen geleistet hat, über den Ausgang eines nach § 160 eingeleiteten Bußgeldverfahrens zu unterrichten und ihr die Tatsachen mitzuteilen, die für die Geltendmachung von Ansprüchen nach den Vorschriften des Gesetzes gegen den unlauteren Wettbewerb erforderlich sind. § 30 der Abgabenordnung steht dem nicht entgegen.
-
-(2) Wird die Hilfe in Steuersachen in verschiedenen Kammerbezirken geleistet, ist die Mitteilung an die Steuerberaterkammer zu richten, in deren Bezirk die Person ihre Geschäftsleitung unterhält, hilfsweise in deren Bezirk die Tätigkeit vorwiegend ausgeübt wird. Ergibt sich die örtliche Zuständigkeit einer Steuerberaterkammer nicht aus Absatz 1 Satz 1 oder Absatz 2 Satz 1, ist die Steuerberaterkammer zuständig, in deren Kammerbezirk die Finanzbehörde, die das Bußgeldverfahren nach § 160 eingeleitet hat, ihren Sitz hat.
+##### § 10a (weggefallen)
 
 
 ##### § 10b Vorwarnmechanismus
@@ -1860,7 +1853,7 @@ Steuerberater und Steuerbevollmächtigter, die in ihrem Beruf in Anspruch genomm
 
 zu richten.
 
-(2) Die Abtretung von Gebührenforderungen oder die Übertragung ihrer Einziehung an Personen und Vereinigungen im Sinne des § 3 Satz 1 ist auch ohne Zustimmung des Mandanten zulässig. Im Übrigen sind Abtretung oder Übertragung nur zulässig, wenn eine ausdrückliche, schriftliche Einwilligung des Mandanten vorliegt oder die Forderung rechtskräftig festgestellt ist. Vor der Einwilligung ist der Mandant über die Informationspflicht des Steuerberaters oder Steuerbevollmächtigten gegenüber dem neuen Gläubiger oder Einziehungsermächtigten aufzuklären. Der neue Gläubiger oder Einziehungsermächtigte ist in gleicher Weise zur Verschwiegenheit verpflichtet wie der beauftragte Steuerberater oder Steuerbevollmächtigte.
+(2) Die Abtretung von Gebührenforderungen oder die Übertragung ihrer Einziehung an Personen und Vereinigungen im Sinne des § 3 Satz 1 ist auch ohne Zustimmung des Mandanten zulässig. Im Übrigen sind Abtretung oder Übertragung nur zulässig, wenn eine ausdrückliche Einwilligung des Mandanten in Textform vorliegt oder die Forderung rechtskräftig festgestellt ist. Vor der Einwilligung ist der Mandant über die Informationspflicht des Steuerberaters oder Steuerbevollmächtigten gegenüber dem neuen Gläubiger oder Einziehungsermächtigten aufzuklären. Der neue Gläubiger oder Einziehungsermächtigte ist in gleicher Weise zur Verschwiegenheit verpflichtet wie der beauftragte Steuerberater oder Steuerbevollmächtigte.
 
 
 #### § 65 Pflicht zur Übernahme einer Prozessvertretung
@@ -1920,7 +1913,7 @@ Satz 1 gilt nicht, soweit der Steuerberater oder der Steuerbevollmächtigte ein 
 
 (1) Der Anspruch des Auftraggebers aus dem zwischen ihm und dem Steuerberater oder Steuerbevollmächtigten bestehenden Vertragsverhältnis auf Ersatz eines fahrlässig verursachten Schadens kann beschränkt werden:
 
-1.  durch schriftliche Vereinbarung im Einzelfall bis zur Höhe der Mindestversicherungssumme;
+1.  durch im Einzelfall in Textform getroffene Vereinbarung bis zur Höhe der Mindestversicherungssumme;
 
 
 2.  durch vorformulierte Vertragsbedingungen auf den vierfachen Betrag der Mindestversicherungssumme, wenn insoweit Versicherungsschutz besteht.
@@ -1929,7 +1922,7 @@ Satz 1 gilt nicht, soweit der Steuerberater oder der Steuerbevollmächtigte ein 
 
 Für Berufsausübungsgesellschaften gilt Satz 1 entsprechend.
 
-(2) Die persönliche Haftung auf Schadensersatz kann durch vorformulierte Vertragsbedingungen beschränkt werden auf die Mitglieder einer Berufsausübungsgesellschaft ohne Haftungsbeschränkung, die das Mandat im Rahmen ihrer eigenen beruflichen Befugnisse bearbeiten und namentlich bezeichnet sind. Die Zustimmungserklärung zu einer solchen Beschränkung darf keine anderen Erklärungen enthalten und muß vom Auftraggeber unterschrieben sein.
+(2) Die persönliche Haftung auf Schadensersatz kann durch vorformulierte Vertragsbedingungen beschränkt werden auf die Mitglieder einer Berufsausübungsgesellschaft ohne Haftungsbeschränkung, die das Mandat im Rahmen ihrer eigenen beruflichen Befugnisse bearbeiten und namentlich bezeichnet sind. Die Zustimmungserklärung zu einer solchen Beschränkung darf keine anderen Erklärungen enthalten und bedarf der Textform.
 
 
 #### § 68 (weggefallen)
@@ -2009,7 +2002,7 @@ Für Berufsausübungsgesellschaften gilt Satz 1 entsprechend.
 
 (1) Mitglieder der Steuerberaterkammer sind außer Steuerberatern und Steuerbevollmächtigten die anerkannten Berufsausübungsgesellschaften, die ihren Sitz im Kammerbezirk haben. Steuerberater und Steuerbevollmächtigte, die im Geltungsbereich dieses Gesetzes keine berufliche Niederlassung begründet haben, sind Mitglieder der Steuerberaterkammer, in deren Bezirk sie bestellt worden sind. § 46 Abs. 2 Nr. 6 bleibt unberührt.
 
-(2) Mitglieder der Steuerberaterkammer sind außerdem, soweit sie nicht Steuerberater oder Steuerbevollmächtigte sind, die Mitglieder des Geschäftsführungs- oder Aufsichtsorgans einer anerkannten Berufsausübungsgesellschaft, die ihren Sitz im Kammerbezirk hat.
+(2) Mitglieder der Steuerberaterkammer sind außerdem, soweit sie nicht Steuerberater, Steuerbevollmächtigte, Mitglied einer Rechtsanwaltskammer oder Mitglied der Patentanwaltskammer sind, die Mitglieder des Geschäftsführungs- oder Aufsichtsorgans einer anerkannten Berufsausübungsgesellschaft, die ihren Sitz im Kammerbezirk hat.
 
 (3) Anerkannte Berufsausübungsgesellschaften, die keinen Sitz im Inland haben, sind Mitglieder der Steuerberaterkammer, die sie anerkannt hat.
 
@@ -2076,10 +2069,11 @@ Für Berufsausübungsgesellschaften gilt Satz 1 entsprechend.
 
 
 
+Ist ein Mitglied der Kammer auch Mitglied eines Geschäftsführungs- oder Aufsichtsorgans einer Berufsausübungsgesellschaft nach der Bundesrechtsanwaltsordnung oder der Patentanwaltsordnung, so umfassen die Aufgaben der Steuerberaterkammer nach Satz 1 Nummer 1 und 4 auch die Berufspflichten des Kammermitglieds als Mitglied dieses Geschäftsführungs- oder Aufsichtsorgans (§ 59d Absatz 1 bis 3 und § 59j Absatz 4 und 5 Satz 1 der Bundesrechtsanwaltsordnung oder § 52d Absatz 1 bis 3 und § 52j Absatz 4 und 5 Satz 1 der Patentanwaltsordnung).
 
-(3) Die Steuerberaterkammer kann die in Absatz 2 Nr. 1 bis 3 bezeichneten Aufgaben einzelnen Mitgliedern des Vorstandes übertragen; weitere Aufgaben können Abteilungen im Sinne des § 77a übertragen werden. Im Fall des Absatzes 2 Nr. 4 zweite Alternative kann der Betroffene eine Entscheidung des Vorstandes verlangen.
+(3) Die Steuerberaterkammer kann die in Absatz 2 Satz 1 Nr. 1 bis 3 bezeichneten Aufgaben einzelnen Mitgliedern des Vorstandes übertragen; weitere Aufgaben können Abteilungen im Sinne des § 77a übertragen werden. Im Fall des Absatzes 2 Satz 1 Nr. 4 zweite Alternative kann der Betroffene eine Entscheidung des Vorstandes verlangen.
 
-(4) Im Einvernehmen mit der Steuerberaterkammer, die nach den Vorschriften dieses Gesetzes für die Wahrnehmung der ihr nach Absatz 2 Nr. 10 obliegenden Aufgaben örtlich zuständig ist, kann eine andere Steuerberaterkammer diese Aufgaben übernehmen. Diese Vereinbarung ist in die Satzungen der beteiligten Steuerberaterkammern aufzunehmen.
+(4) Im Einvernehmen mit der Steuerberaterkammer, die nach den Vorschriften dieses Gesetzes für die Wahrnehmung der ihr nach Absatz 2 Satz 1 Nr. 10 obliegenden Aufgaben örtlich zuständig ist, kann eine andere Steuerberaterkammer diese Aufgaben übernehmen. Diese Vereinbarung ist in die Satzungen der beteiligten Steuerberaterkammern aufzunehmen.
 
 (5) Die Steuerberaterkammer hat die Aufgabe, das Berufsregister ihres Bezirks zu führen. Die Steuerberaterkammern können sich bei der Führung des Berufsregisters einer nach § 84 gebildeten Arbeitsgemeinschaft bedienen.
 
@@ -2093,7 +2087,7 @@ Für Berufsausübungsgesellschaften gilt Satz 1 entsprechend.
 
 (10) Die nach Absatz 9 zuständige Kasse trägt abweichend von § 105 Absatz 2 des Gesetzes über Ordnungswidrigkeiten die notwendigen Auslagen. Sie ist auch ersatzpflichtig im Sinne des § 110 Absatz 4 des Gesetzes über Ordnungswidrigkeiten.
 
-(11) Die Steuerberaterkammer hat die Aufgabe, in den Fällen des § 160 Absatz 1 Ansprüche nach den Vorschriften des Gesetzes gegen den unlauteren Wettbewerb geltend zu machen, wenn Anhaltspunkte dafür vorliegen, dass die unbefugte Hilfeleistung in Steuersachen fortgesetzt wird.
+(11) Die Steuerberaterkammer hat die Aufgabe, in den Fällen der geschäftsmäßigen unbefugten Hilfeleistung in Steuersachen Ansprüche nach den Vorschriften des Gesetzes gegen den unlauteren Wettbewerb geltend zu machen, wenn Anhaltspunkte dafür vorliegen, dass die Tätigkeit fortgesetzt wird.
 
 
 #### § 76a Eintragung in das Berufsregister
@@ -2366,6 +2360,8 @@ Für Berufsausübungsgesellschaften gilt Satz 1 entsprechend.
 
 (2) Absatz 1 gilt in den Fällen des § 154 Absatz 2 Satz 1 entsprechend.
 
+(3) Steuerberater und Steuerbevollmächtigte, die Mitglied eines Geschäftsführungs- oder Aufsichtsorgans einer Berufsausübungsgesellschaft nach der Bundesrechtsanwaltsordnung oder der Patentanwaltsordnung sind, haben dies der Steuerberaterkammer unverzüglich anzuzeigen.
+
 
 #### § 77 Wahl des Vorstands
 
@@ -2557,7 +2553,7 @@ Die Sätze 1 bis 3 gelten auch für Angestellte der Steuerberaterkammern und fü
 2.  die Berufsordnung als Satzung zu erlassen und zu ändern;
 
 
-3.  Richtlinien für die Fürsorgeeinrichtungen der Steuerberaterkammern (§ 76 Abs. 2 Nr. 6) aufzustellen;
+3.  Richtlinien für die Fürsorgeeinrichtungen der Steuerberaterkammern (§ 76 Absatz 2 Satz 1 Nummer 6) aufzustellen;
 
 
 4.  in allen die Gesamtheit der Steuerberaterkammern berührenden Angelegenheiten die Auffassung der Bundessteuerberaterkammer den zuständigen Gerichten und Behörden gegenüber zur Geltung zu bringen;
@@ -2601,7 +2597,10 @@ Die Sätze 1 bis 3 gelten auch für Angestellte der Steuerberaterkammern und fü
 11. die besonderen elektronischen Steuerberaterpostfächer nach den §§ 86d und 86e einzurichten;
 
 
-12. die Einrichtung und der Betrieb einer Datenbank zur Verwaltung von Vollmachtsdaten im Sinne des § 80a der Abgabenordnung und zu deren Übermittlung an die Landesfinanzbehörden.
+12. eine Datenbank zur Verwaltung von Vollmachtsdaten im Sinne des § 80a der Abgabenordnung einzurichten und zu betreiben sowie die Vollmachtsdaten nach Maßgabe des § 80a der Abgabenordnung an die Landesfinanzbehörden zu übermitteln;
+
+
+13. eine Datenbank zur Verwaltung von Vollmachtsdaten im Sinne des § 105a Absatz 2 des Vierten Buches Sozialgesetzbuch einzurichten und zu betreiben sowie die Vollmachtsdaten den in § 105a Absatz 5 des Vierten Buches Sozialgesetzbuch genannten Stellen zur Verfügung zu stellen.
 
 
 
@@ -2816,7 +2815,7 @@ Bei einer virtuellen Satzungsversammlung muss in der Einberufung darauf hingewie
 
 (3) Die Bundessteuerberaterkammer hat sicherzustellen, dass der Zugang zur Steuerberaterplattform nur durch ein sicheres Verfahren mit zwei voneinander unabhängigen Sicherungsmitteln möglich ist.
 
-(4) Die Bundessteuerberaterkammer ist befugt, eine digitale Schnittstelle zwischen der Steuerberaterplattform und der Vollmachtsdatenbank nach § 85a Absatz 2 Nummer 12 einzurichten.
+(4) Die Bundessteuerberaterkammer ist befugt, eine digitale Schnittstelle zwischen der Steuerberaterplattform und den Vollmachtsdatenbanken nach § 85a Absatz 2 Nummer 12 und 13 einzurichten.
 
 (5) Die Bundessteuerberaterkammer kann von Fachsoftwareanbietern für die Nutzung der Steuerberaterplattform Nutzungsentgelte oder Lizenzgebühren verlangen.
 
@@ -2946,7 +2945,7 @@ Die Bundessteuerberaterkammer erhebt von den Steuerberaterkammern Beiträge nach
 
 ##### § 89 Ahndung einer Pflichtverletzung
 
-(1) Gegen einen Steuerberater oder Steuerbevollmächtigten, der schuldhaft gegen Pflichten verstößt, die in diesem Gesetz oder in der Berufsordnung nach § 85a Absatz 2 Nummer 2 bestimmt sind, wird eine berufsgerichtliche Maßnahme verhängt.
+(1) Gegen einen Steuerberater oder Steuerbevollmächtigten, der schuldhaft gegen Pflichten verstößt, die in diesem Gesetz oder in der Berufsordnung nach § 85a Absatz 2 Nummer 2 bestimmt sind, wird eine berufsgerichtliche Maßnahme verhängt. Gleiches gilt, wenn ein Steuerberater oder Steuerbevollmächtigter im Fall des § 76 Absatz 2 Satz 2 dieses Gesetzes gegen Berufspflichten nach § 59d Absatz 1 bis 3 oder § 59j Absatz 4 oder 5 Satz 1 der Bundesrechtsanwaltsordnung oder gegen Berufspflichten nach § 52d Absatz 1 bis 3 oder § 52j Absatz 4 oder 5 Satz 1 der Patentanwaltsordnung verstößt.
 
 (2) Ein außerhalb des Berufs liegendes Verhalten eines Steuerberaters oder Steuerbevollmächtigten, das eine rechtswidrige Tat oder eine mit Geldbuße bedrohte Handlung darstellt, ist eine berufsgerichtlich zu ahnende Pflichtverletzung, wenn es nach den Umständen des Einzelfalls in besonderem Maße geeignet ist, Achtung und Vertrauen in einer für die Ausübung der Berufstätigkeit oder für das Ansehen des Berufs bedeutsamen Weise zu beeinträchtigen.
 
@@ -3009,6 +3008,16 @@ Im Fall einer Gesamtrechtsnachfolge oder einer partiellen Gesamtrechtsnachfolge 
 
 
 5.  Ausschließung aus dem Beruf.
+
+
+
+
+(1a) Im Fall des § 76 Absatz 2 Satz 2 tritt an die Stelle der Ausschließung aus dem Beruf
+
+1.  bei Mitgliedern von Geschäftsführungsorganen die Aberkennung der Eignung, eine Berufsausübungsgesellschaft zu vertreten und ihre Geschäfte zu führen, und
+
+
+2.  bei Mitgliedern von Aufsichtsorganen die Aberkennung der Eignung, Aufsichtsfunktionen einer Berufsausübungsgesellschaft wahrzunehmen.
 
 
 
@@ -3759,15 +3768,9 @@ Für Maßnahmen, die in Verfahren wegen Straftaten oder Ordnungswidrigkeiten ode
 (7) (weggefallen)
 
 
-#### § 157a Übergangsvorschriften anlässlich des Achten Gesetzes zur Änderung des Steuerberatungsgesetzes
+#### § 157a Übergangsvorschrift zu aufsichtsrechtlichen Verfahren bei Wegfall der doppelten Kammermitgliedschaft
 
-(1) Die Vorschriften dieses Gesetzes in der ab 12. April 2008 geltenden Fassung über die Zulassung zur Prüfung, die Befreiung von der Prüfung, die organisatorische Durchführung der Prüfung und die Abnahme der Prüfung sind erstmals für Prüfungen anzuwenden, die nach dem 31. Dezember 2008 beginnen und für Anträge auf Befreiung von der Prüfung oder auf Erteilung einer verbindlichen Auskunft über die Erfüllung einzelner Voraussetzungen für die Zulassung zur Prüfung oder über die Befreiung von der Prüfung, die nach dem 31. Dezember 2008 gestellt werden. Das gilt nicht für § 36 Abs. 1, § 37 Abs. 3, § 37a Abs. 2 bis 4a, § 38 Abs. 1 und die in § 39 Abs. 1 für die Bearbeitung eines Antrags auf Befreiung von der Prüfung oder auf Erteilung einer verbindlichen Auskunft nach § 38a bestimmte Gebührenhöhe. Die in § 39 Abs. 2 bestimmte Höhe der Gebühr gilt für Prüfungen, die nach dem 31. Dezember 2007 beginnen.
-
-(2) Auf Prüfungen, die vor dem 1. November 2007 begonnen haben, sind die Vorschriften dieses Gesetzes in der bis zum 11. April 2008 geltenden Fassung weiter anzuwenden.
-
-(3) Unabhängig von den Absätzen 1 und 2 geht am 1. Juli 2009 in den zu diesem Zeitpunkt anhängigen Rechtsstreitigkeiten wegen der Zulassung zur Prüfung, der Befreiung von der Prüfung oder der Erteilung verbindlicher Auskünfte gemäß § 38a und Überdenkungsverfahren die Zuständigkeit von der für die Finanzverwaltung zuständigen obersten Landesbehörde auf die zuständige Steuerberaterkammer über.
-
-(4) Unabhängig von den Absätzen 1 und 2 wird ab dem 1. Juli 2009 in den zu diesem Zeitpunkt anhängigen Rechtsstreitigkeiten wegen Prüfungsentscheidungen die für die Finanzverwaltung zuständige oberste Landesbehörde durch die zuständige Steuerberaterkammer vertreten.
+Die Zuständigkeit für am 1. Januar 2025 anhängige aufsichtsrechtliche Verfahren gegen ein Mitglied eines Geschäftsführungs- oder Aufsichtsorgans einer steuerberatenden Berufsausübungsgesellschaft, das auch Mitglied einer Rechtsanwaltskammer oder der Patentanwaltskammer ist, geht am 1. Januar 2025 auf diejenige Stelle über, der von diesem Tag an nach der Bundesrechtsanwaltsordnung oder der Patentanwaltsordnung die Zuständigkeit für das Verfahren zukommt.
 
 
 #### § 157b Anwendungsvorschrift
@@ -3864,9 +3867,9 @@ Die Anwendung von Zwangsmitteln richtet sich nach der Abgabenordnung.
 
 #### § 160 Unbefugte Hilfeleistung in Steuersachen
 
-(1) Ordnungswidrig handelt, wer entgegen § 5 Abs. 1 oder entgegen einer vollziehbaren Untersagung nach § 7 geschäftsmäßig Hilfe in Steuersachen leistet.
+(1) Ordnungswidrig handelt, wer einer vollziehbaren Anordnung nach § 7 Absatz 1 oder 2 Satz 1 zuwiderhandelt.
 
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
 
 #### § 161 Schutz der Bezeichnungen "Steuerberatungsgesellschaft", "Lohnsteuerhilfeverein" und "Landwirtschaftliche Buchstelle"

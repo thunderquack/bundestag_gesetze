@@ -177,19 +177,11 @@ Soweit in dieser Verordnung oder in der Hauptzollamtszuständigkeitsverordnung n
 
 (5) Als gekoppelte Erzeugung von Kraft und Wärme (KWK) im Sinn der §§ 3 und 53 bis 53a des Gesetzes gilt die gleichzeitige Umwandlung von eingesetzter Energie in nutzbare mechanische oder elektrische Energie und nutzbare Wärme innerhalb eines thermodynamischen Prozesses.
 
-(6) Als akkreditierte Konformitätsbewertungsstelle im Sinn des § 55 Absatz 8 Nummer 2 des Gesetzes gelten Stellen, die Konformitätsbewertungen einschließlich Kalibrierungen, Prüfungen, Zertifizierungen und Inspektionen durchführen und über eine Akkreditierung einer nationalen Akkreditierungsstelle nach Artikel 4 Absatz 1 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) in der jeweils geltenden Fassung verfügen.
+(6) (weggefallen)
 
-(7) Als nationale Akkreditierungsstelle im Sinn des § 55 Absatz 8 Nummer 2 des Gesetzes gelten folgende Stellen:
+(7) (weggefallen)
 
-1.  die nach § 8 des Akkreditierungsstellengesetzes vom 31. Juli 2009 (BGBl. I S. 2625), das durch Artikel 2 Absatz 80 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044) geändert worden ist, in der jeweils geltenden Fassung beliehene oder errichtete Stelle, und
-
-
-2.  jede andere von einem Mitgliedstaat der Europäischen Union oder einem Staat des Europäischen Wirtschaftsraums nach Artikel 4 Absatz 1 der Verordnung (EG) Nr. 765/2008 als nationale Akkreditierungsstelle benannte Stelle.
-
-
-
-
-(8) Zulassungsstelle nach § 28 des Umweltauditgesetzes im Sinn des § 66b Absatz 1 des Gesetzes ist die nach § 1 der UAG-Beleihungsverordnung vom 18. Dezember 1995 (BGBl. I S. 2013), die zuletzt durch Artikel 1 der Verordnung vom 13. Dezember 2011 (BGBl. I S. 2727) geändert worden ist, in der jeweils geltenden Fassung mit den Aufgaben einer Zulassungs- und Aufsichtsstelle für Umweltgutachter und Umweltgutachterorganisationen jeweils beliehene Stelle.
+(8) (weggefallen)
 
 
 ### § 1c Steuertarif für schwefelhaltige Energieerzeugnisse
@@ -385,7 +377,7 @@ zu erfassen.
 
 soweit die folgenden Absätze zum Zeitpunkt des Erlöschens nichts anderes bestimmen.
 
-(3) Teilen in den Fällen des Absatzes 2 Nummer 6 bis 8 die Erben, der Testamentsvollstrecker, der Nachlasspfleger, die Liquidatoren oder der Insolvenzverwalter dem zuständigen Hauptzollamt vor dem Erlöschen der Zulassung oder Bewilligung schriftlich mit, dass der Betrieb bis zum endgültigen Übergang auf einen anderen Inhaber oder bis zur Abwicklung des Unternehmens fortgeführt wird, so gilt die Zulassung oder Bewilligung für die Rechtsnachfolger, den Testamentsvollstrecker, den Nachlasspfleger, die Liquidatoren oder den Insolvenzverwalter bis spätestens zum Ablauf einer vom zuständigen Hauptzollamt festzusetzenden angemessenen Frist fort. Ein Widerruf nach Absatz 2 Nummer 1 bleibt hiervon unberührt.
+(3) Teilen in den Fällen des Absatzes 2 Nummer 6 bis 8 die Erben, der Testamentsvollstrecker, der Nachlasspfleger, die Liquidatoren oder der Insolvenzverwalter dem zuständigen Hauptzollamt vor dem Erlöschen der Zulassung oder Bewilligung schriftlich mit, dass der Betrieb bis zum endgültigen Übergang auf einen anderen Inhaber oder bis zur Abwicklung des Unternehmens fortgeführt wird, so gilt die Zulassung oder Bewilligung für die Rechtsnachfolger, den Testamentsvollstrecker, den Nachlasspfleger, die Liquidatoren oder den Insolvenzverwalter bis spätestens zum Ablauf einer vom zuständigen Hauptzollamt festzusetzenden angemessenen Frist fort. Ein Widerruf nach Absatz 2 Nummer 1 bleibt hiervon unberührt. Soweit im Eröffnungsbeschluss eines Insolvenzverfahrens die Eigenverwaltung nach § 270 der Insolvenzordnung angeordnet und ein Sachwalter bestellt wurde, kann die Mitteilung nach Satz 1 ausschließlich durch den Inhaber der Zulassung oder der Bewilligung erfolgen.
 
 (4) Beantragen in den in Absatz 2 Nummer 5, 6 und 9 beschriebenen Fällen vor dem Erlöschen der Zulassung oder Bewilligung
 
@@ -574,7 +566,7 @@ Der Betreiber hat auf Verlangen des Hauptzollamts weitere Angaben zu machen, wen
 
 (1) Die unverzügliche Mitteilung nach § 3b Absatz 1 Satz 2 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben. Bei Steuerbefreiungen und Steuerermäßigungen nach § 3b Absatz 1 Satz 1 des Gesetzes entsteht für die verwendeten Energieerzeugnisse die Steuer vorbehaltlich § 21 des Gesetzes nach dem gemäß § 2 des Gesetzes jeweils zutreffenden Steuersatz. Besteht die Steuerbegünstigung in einer Steuerermäßigung, gilt Satz 2 nur für den ermäßigten Teil der Steuer. Der Steuerschuldner hat für Energieerzeugnisse, für die die Steuer entstanden ist, bis zum 15. Tag des folgenden Monats eine Steuererklärung nach amtlich vorgeschriebenem Vordruck abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer für andere Energieerzeugnisse als für Kohle und Erdgas, die in einem Monat entstanden ist, ist am zehnten Tag des zweiten auf die Entstehung folgenden Monats fällig. Die Steuer für Kohle und Erdgas ist am 25. Tag des Monats fällig, der auf den Monat der Entstehung der Steuer folgt. Wird die Mitteilung nach Satz 1 nicht oder nicht rechtzeitig abgegeben, ist die Steueranmeldung unverzüglich abzugeben und die Steuer sofort fällig.
 
-(2) Für die nachweislich nach Absatz 1 versteuerten Energieerzeugnisse kann auf Antrag eine Steuerentlastung bis auf den Betrag entsprechend den in den §§ 3, 3a und 28 Absatz 1 Satz 1 Nummer 1 und 2 des Gesetzes genannten Steuerbefreiungen und Steuerermäßigungen gewährt werden, wenn der Antragsteller nachweist, dass er der Rückforderungsanordnung zwischenzeitlich nachgekommen ist. Die Steuerentlastung nach Satz 1 ist bei dem für den Antragsteller zuständigen Hauptzollamt für alle Energieerzeugnisse zu beantragen. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen (Steueranmeldung). Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Energieerzeugnisse verwendet worden sind, beim Hauptzollamt gestellt wird.
+(2) Für die nachweislich nach Absatz 1 versteuerten Energieerzeugnisse kann auf Antrag eine Steuerentlastung bis auf den Betrag entsprechend der in den §§ 3 und 3a des Gesetzes genannten Steuerermäßigungen gewährt werden, wenn der Antragsteller nachweist, dass er der Rückforderungsanordnung zwischenzeitlich nachgekommen ist. Die Steuerentlastung nach Satz 1 ist bei dem für den Antragsteller zuständigen Hauptzollamt für alle Energieerzeugnisse zu beantragen. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen (Steueranmeldung). Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
 (3) Die Versicherung nach § 3b Absatz 1 Satz 3 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben. Steuerentlastungen nach § 3b Absatz 1 Satz 1 des Gesetzes dürfen nur gewährt werden, wenn die Versicherung dem zuständigen Hauptzollamt vorliegt. Die Versicherung ist vom Antragsteller für den ersten Entlastungsabschnitt jedes Kalenderjahres vorzulegen. Weiteren Anträgen auf Steuerentlastung muss die Versicherung nur beigefügt werden, wenn sich Änderungen gegenüber der dem zuständigen Hauptzollamt bereits vorliegenden Versicherung ergeben haben. Für Änderungsanträge gelten die Sätze 1 bis 4 sinngemäß. Steuerentlastungen nach § 3b Absatz 1 Satz 1 des Gesetzes dürfen nicht ausgezahlt werden, solange eine offene Rückforderungsanordnung besteht.
 
@@ -585,7 +577,7 @@ Der Betreiber hat auf Verlangen des Hauptzollamts weitere Angaben zu machen, wen
 
 (1) Die unverzügliche Mitteilung nach § 3b Absatz 2 Satz 2 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben. Bei Steuerbefreiungen und Steuerermäßigungen nach § 3b Absatz 2 Satz 1 des Gesetzes entsteht für die im entsprechenden Zeitraum verwendeten Energieerzeugnisse die Steuer vorbehaltlich § 21 des Gesetzes nach dem gemäß § 2 des Gesetzes jeweils zutreffenden Steuersatz. Besteht die Steuerbegünstigung in einer Steuerermäßigung, gilt Satz 2 nur für den ermäßigten Teil der Steuer. § 11b Absatz 1 Satz 4 bis 7 gilt entsprechend. Sofern der Zeitraum der Schwierigkeiten zwölf Monate nicht überschritten hat, kann auf Antrag eine Steuerentlastung entsprechend § 11b Absatz 2 gewährt werden.
 
-(2) Die Versicherung nach § 3b Absatz 2 Satz 3 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben. § 11b Absatz 3 Satz 2 bis 5 gilt entsprechend. Steuerentlastungen nach § 3b Absatz 2 Satz 1 des Gesetzes dürfen grundsätzlich nur festgesetzt werden, sofern sich das Unternehmen weder im Entlastungsabschnitt noch im Zeitpunkt der Antragstellung in Schwierigkeiten befand. Hat sich das Unternehmen im Entlastungsabschnitt in Schwierigkeiten befunden, kann gleichwohl eine Festsetzung erfolgen, wenn sich das Unternehmen im Zeitpunkt der Antragstellung nicht mehr in Schwierigkeiten befindet und der Zeitraum der Schwierigkeiten zwölf Monate nicht überschritten hat. Befindet sich das Unternehmen im Zeitpunkt der Antragstellung noch in Schwierigkeiten und ist der Zeitraum von zwölf Monaten noch nicht überschritten, hat die Festsetzung unter der Bedingung zu erfolgen, dass das Unternehmen nachweist, dass die Schwierigkeiten überwunden worden sind und der Zeitraum der Schwierigkeiten insgesamt zwölf Monate nicht überschritten hat.
+(2) Die Versicherung nach § 3b Absatz 2 Satz 3 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben. § 11b Absatz 3 Satz 2 bis 5 gilt entsprechend. Steuerentlastungen nach § 3b Absatz 2 Satz 1 des Gesetzes dürfen nur gewährt werden, sofern sich das Unternehmen im Zeitpunkt der Antragstellung nicht in Schwierigkeiten befand.
 
 (3) Zur Umsetzung von § 3b Absatz 2 des Gesetzes können Verwaltungsakte mit einer Nebenbestimmung nach § 120 der Abgabenordnung versehen werden.
 
@@ -683,7 +675,7 @@ Der Betreiber hat auf Verlangen des Hauptzollamts weitere Angaben zu machen, wen
 
 soweit die folgenden Absätze zum Zeitpunkt des Erlöschens nichts anderes bestimmen.
 
-(3) Teilen in den Fällen des Absatzes 2 Nummer 6 bis 8 die Erben, der Testamentsvollstrecker, der Nachlassverwalter, der Nachlasspfleger, die Liquidatoren oder der Insolvenzverwalter dem zuständigen Hauptzollamt vor dem Erlöschen der Erlaubnis schriftlich mit, dass der Betrieb bis zum endgültigen Übergang auf einen anderen Inhaber oder bis zur Abwicklung des Unternehmens fortgeführt wird, gilt die Erlaubnis für die Rechtsnachfolger, den Testamentsvollstrecker, den Nachlasspfleger, die Liquidatoren oder den Insolvenzverwalter bis spätestens zum Ablauf einer vom zuständigen Hauptzollamt festzusetzenden angemessenen Frist fort. Ein Widerruf nach Absatz 2 Nummer 1 bleibt hiervon unberührt.
+(3) Teilen in den Fällen des Absatzes 2 Nummer 6 bis 8 die Erben, der Testamentsvollstrecker, der Nachlassverwalter, der Nachlasspfleger, die Liquidatoren oder der Insolvenzverwalter dem zuständigen Hauptzollamt vor dem Erlöschen der Erlaubnis schriftlich mit, dass der Betrieb bis zum endgültigen Übergang auf einen anderen Inhaber oder bis zur Abwicklung des Unternehmens fortgeführt wird, gilt die Erlaubnis für die Rechtsnachfolger, den Testamentsvollstrecker, den Nachlasspfleger, die Liquidatoren oder den Insolvenzverwalter bis spätestens zum Ablauf einer vom zuständigen Hauptzollamt festzusetzenden angemessenen Frist fort. Ein Widerruf nach Absatz 2 Nummer 1 bleibt hiervon unberührt. Soweit im Eröffnungsbeschluss eines Insolvenzverfahrens die Eigenverwaltung nach § 270 der Insolvenzordnung angeordnet und ein Sachwalter bestellt wurde, kann die Mitteilung nach Satz 1 ausschließlich durch den Erlaubnisinhaber erfolgen.
 
 (4) Beantragen in den in Absatz 2 Nummer 5, 6 und 9 beschriebenen Fällen vor dem Erlöschen der Erlaubnis
 
@@ -1876,7 +1868,7 @@ Das Hauptzollamt erteilt schriftlich oder elektronisch die Erlaubnis nach § 52 
 
 soweit die folgenden Absätze zum Zeitpunkt des Erlöschens nichts anderes bestimmen.
 
-(3) Teilen in den Fällen des Absatzes 2 Nummer 6 bis 8 die Erben, der Testamentsvollstrecker, der Nachlasspfleger, die Liquidatoren oder der Insolvenzverwalter dem zuständigen Hauptzollamt vor dem Erlöschen der Erlaubnis schriftlich mit, dass der Betrieb bis zum endgültigen Übergang auf einen anderen Inhaber oder bis zur Abwicklung des Unternehmens fortgeführt wird, gilt die Erlaubnis für die Rechtsnachfolger, den Testamentsvollstrecker, den Nachlasspfleger, die Liquidatoren oder den Insolvenzverwalter bis spätestens zum Ablauf einer vom zuständigen Hauptzollamt festzusetzenden angemessenen Frist fort. Ein Widerruf nach Absatz 2 Nummer 1 bleibt hiervon unberührt.
+(3) Teilen in den Fällen des Absatzes 2 Nummer 6 bis 8 die Erben, der Testamentsvollstrecker, der Nachlasspfleger, die Liquidatoren oder der Insolvenzverwalter dem zuständigen Hauptzollamt vor dem Erlöschen der Erlaubnis schriftlich mit, dass der Betrieb bis zum endgültigen Übergang auf einen anderen Inhaber oder bis zur Abwicklung des Unternehmens fortgeführt wird, gilt die Erlaubnis für die Rechtsnachfolger, den Testamentsvollstrecker, den Nachlasspfleger, die Liquidatoren oder den Insolvenzverwalter bis spätestens zum Ablauf einer vom zuständigen Hauptzollamt festzusetzenden angemessenen Frist fort. Ein Widerruf nach Absatz 2 Nummer 1 bleibt hiervon unberührt. Soweit im Eröffnungsbeschluss eines Insolvenzverfahrens die Eigenverwaltung nach § 270 der Insolvenzordnung angeordnet und ein Sachwalter bestellt wurde, kann die Mitteilung nach Satz 1 ausschließlich durch den Erlaubnisinhaber erfolgen.
 
 (4) Beantragen in den in Absatz 2 Nummer 5, 6 und 9 beschriebenen Fällen vor dem Erlöschen der Erlaubnis
 
@@ -1988,7 +1980,7 @@ hat. Das Hauptzollamt kann Ausnahmen zulassen.
 
 (3) Der Versender hat die abgegebenen Energieerzeugnisse unverzüglich in das Herstellungs- oder Lagerbuch einzutragen oder in den an ihrer Stelle zugelassenen Aufzeichnungen zu erfassen.
 
-(4) Der Versender darf steuerfreie Energieerzeugnisse nur übergeben, wenn ihm oder seinem Beauftragten ein gültiger Erlaubnisschein des Empfängers vorliegt oder spätestens bei der Übergabe vorgelegt wird. Bei Liefergeschäften über einen oder mehrere Verteiler (Zwischenhändler), die die Energieerzeugnisse nicht selbst in Besitz nehmen (Streckengeschäft), genügt die Vorlage des gültigen Erlaubnisscheins des ersten Zwischenhändlers beim Versender, wenn jedem Zwischenhändler der gültige Erlaubnisschein des nachfolgenden Zwischenhändlers und dem letzten Zwischenhändler der gültige Erlaubnisschein des Empfängers vorliegt.
+(4) Der Versender darf steuerfreie Energieerzeugnisse nur übergeben, wenn ihm oder seinem Beauftragten ein gültiger Erlaubnisschein des Empfängers vorliegt oder spätestens bei der Übergabe vorgelegt wird. Bei Liefergeschäften über einen oder mehrere Verteiler (Zwischenhändler), die die Energieerzeugnisse nur mittelbar in Besitz nehmen (Streckengeschäft), genügt die Vorlage des gültigen Erlaubnisscheins des ersten Zwischenhändlers beim Versender, wenn jedem Zwischenhändler der gültige Erlaubnisschein des nachfolgenden Zwischenhändlers und dem letzten Zwischenhändler der gültige Erlaubnisschein des Empfängers vorliegt. Fälle des Geheißerwerbs gelten nicht als Liefergeschäfte im Rahmen eines Streckengeschäfts.
 
 (5) Sollen Energieerzeugnisse im Anschluss an die Einfuhr in den Betrieb eines Erlaubnisinhabers befördert werden, ist dies mit der Zollanmeldung schriftlich zu beantragen. Dem Antrag ist der Erlaubnisschein beizufügen, soweit die Erlaubnis nicht allgemein erteilt ist.
 
@@ -2000,15 +1992,15 @@ hat. Das Hauptzollamt kann Ausnahmen zulassen.
 
 (9) Für die Verteilung von steuerfreien Energieerzeugnissen gelten die Absätze 1 bis 4 sinngemäß.
 
-(10) Wer als Erlaubnisinhaber steuerfreie Energieerzeugnisse nach § 4 des Gesetzes in ein Drittland ausführen will, hat das vereinfachte Begleitdokument vor Beginn der Beförderung auszufertigen. Dies gilt für Energieerzeugnisse der Unterpositionen 2710 12 21, 2710 12 25, 2710 19 29 und mittelschwere Öle der Unterposition 2710 20 90 der Kombinierten Nomenklatur jedoch nur, soweit sie als lose Ware ausgeführt werden. An die Stelle des Empfängers tritt die Zollstelle, an der die Energieerzeugnisse das Verbrauchsteuergebiet der Europäischen Union verlassen. Der Beförderer hat die zweite und dritte Ausfertigung des vereinfachten Begleitdokuments bei der Beförderung der Energieerzeugnisse mitzuführen.
+(10) Wer als Erlaubnisinhaber steuerfreie Energieerzeugnisse nach § 4 des Gesetzes in ein Drittland ausführen will, hat die Ausfuhr der Energieerzeugnisse anhand zollrechtlicher Ausfuhrdokumente auf Verlangen des Hauptzollamts zweifelsfrei nachzuweisen.
 
-(11) Werden die Energieerzeugnisse von einer Eisenbahngesellschaft, einem Postdienst oder einer Luftverkehrsgesellschaft im Rahmen eines durchgehenden Beförderungsvertrags zur Beförderung aus dem Verbrauchsteuergebiet der Europäischen Union übernommen, gelten die Energieerzeugnisse vorbehaltlich gegenteiliger Feststellung mit der Bestätigung der Übernahme als ausgeführt. Wird der Beförderungsvertrag mit der Folge geändert, dass eine Beförderung, die außerhalb des Verbrauchsteuergebiets der Europäischen Union enden sollte, innerhalb dieses Gebiets endet, erteilt die zuständige Zollstelle (Ausgangszollstelle im Sinn des § 1 Nummer 11) die Zustimmung zur Änderung nach Artikel 340 Absatz 3 der Durchführungsverordnung zum Zollkodex nur, wenn gewährleistet ist, dass die Energieerzeugnisse im Verbrauchsteuergebiet der Europäischen Union ordnungsgemäß steuerlich erfasst werden.
+(11) Werden die Energieerzeugnisse von einer Eisenbahngesellschaft, einem Postdienst oder einer Luftverkehrsgesellschaft im Rahmen eines durchgehenden Beförderungsvertrags zur Beförderung aus dem Verbrauchsteuergebiet der Europäischen Union übernommen, gelten die Energieerzeugnisse vorbehaltlich gegenteiliger Feststellung mit der Bestätigung der Übernahme als ausgeführt. Wird der Beförderungsvertrag mit der Folge geändert, dass eine Beförderung, die außerhalb des Verbrauchsteuergebiets der Europäischen Union enden sollte, innerhalb dieses Gebiets endet, erteilt die zuständige Zollstelle (Ausgangszollstelle im Sinn des § 1 Nummer 11) die Zustimmung zur Änderung nach Artikel 340 Absatz 3 der Durchführungsverordnung zum Unionszollkodex nur, wenn gewährleistet ist, dass die Energieerzeugnisse im Verbrauchsteuergebiet der Europäischen Union ordnungsgemäß steuerlich erfasst werden.
 
 (12) Der Erlaubnisinhaber hat im Fall des Absatzes 11 den Inhalt der Sendung auf dem Beförderungspapier gut sichtbar mit der Kurzbezeichnung "VSt" als verbrauchsteuerpflichtige Ware zu kennzeichnen, die Sendung in ein Eisenbahn-, Post- oder Luftfrachtausgangsbuch nach amtlich vorgeschriebenem Vordruck einzutragen und das Buch dem Beförderer zur Bestätigung der Übernahme der Sendung vorzulegen. Das Hauptzollamt kann anstelle des Eisenbahn-, Post- oder Luftfrachtausgangsbuchs andere Aufzeichnungen zulassen, wenn die Steuerbelange dadurch nicht gefährdet werden.
 
-(13) Das Hauptzollamt kann den Erlaubnisinhaber auf Antrag von dem Verfahren nach Absatz 10 oder Absatz 11 freistellen, wenn die Energieerzeugnisse unmittelbar ausgeführt werden und die Ausfuhr der Energieerzeugnisse nach dem Ermessen des Hauptzollamts zweifelsfrei nachgewiesen werden kann.
+(13) Das Hauptzollamt kann den Erlaubnisinhaber auf Antrag von dem Verfahren nach Absatz 11 freistellen, wenn die Energieerzeugnisse unmittelbar ausgeführt werden und die Ausfuhr der Energieerzeugnisse nach dem Ermessen des Hauptzollamts zweifelsfrei nachgewiesen werden kann.
 
-(14) Das Bundesministerium der Finanzen kann zulassen, dass andere als die in § 2 Absatz 1 Nummer 1 bis 5 und 8 des Gesetzes genannten Energieerzeugnisse oder Energieerzeugnisse, deren Verwendung, Verteilung oder Verbringen und Ausfuhr aus dem Steuergebiet allgemein erlaubt ist, unter Verzicht auf das Verfahren nach Absatz 10 oder Absatz 11 ausgeführt werden, wenn die Steuerbelange dadurch nicht beeinträchtigt werden.
+(14) Das Bundesministerium der Finanzen kann zulassen, dass andere als die in § 2 Absatz 1 Nummer 1 bis 5 und 8 des Gesetzes genannten Energieerzeugnisse oder Energieerzeugnisse, deren Verwendung, Verteilung oder Verbringen und Ausfuhr aus dem Steuergebiet allgemein erlaubt ist, unter Verzicht auf das Verfahren nach Absatz 11 ausgeführt werden, wenn die Steuerbelange dadurch nicht beeinträchtigt werden.
 
 (15) Der Erlaubnisinhaber hat die nach den Absätzen 10 bis 14 aus dem Steuergebiet verbrachten oder ausgeführten Energieerzeugnisse unverzüglich in das Verwendungsbuch einzutragen oder in den an seiner Stelle zugelassenen Aufzeichnungen zu erfassen.
 
@@ -2526,70 +2518,39 @@ Das zuständige Hauptzollamt kann Anordnungen zu den Aufzeichnungen treffen und 
 
 (1) Die Festsetzung der Vorauszahlungen erfolgt durch Vorauszahlungsbescheid. Ist die Steuer nur in einem Teil des vorletzten dem Veranlagungsjahr vorhergehenden Kalenderjahres entstanden, ist die tatsächlich entstandene Steuer in eine Jahressteuerschuld umzurechnen. Ist die Steuer erstmals im vorangegangenen oder laufenden Kalenderjahr oder bisher noch nicht entstanden, ist die voraussichtlich zu erwartende Jahressteuerschuld maßgebend.
 
-(2) Das Hauptzollamt kann auf Antrag bei der Festsetzung der Höhe der Vorauszahlungen dem Steuerschuldner voraussichtlich im gleichen Zeitraum zu gewährende Steuerentlastungen berücksichtigen, soweit die Steuerbelange dadurch nicht gefährdet sind. Eine Steuerentlastung kann nach Satz 1 nur berücksichtigt werden, wenn in den Fällen des
+(2) Das Hauptzollamt kann auf Antrag bei der Festsetzung der Höhe der Vorauszahlungen dem Steuerschuldner voraussichtlich im gleichen Zeitraum zu gewährende Steuerentlastungen berücksichtigen, soweit die Steuerbelange dadurch nicht gefährdet sind. Satz 1 gilt nur dann, wenn der Entlastungsabschnitt das Kalenderjahr ist, die Festsetzung der zu entlastenden Steuer nicht vor der Festsetzung der Jahressteuerschuld erfolgt und wenn in den Fällen des
 
 1.  § 51 Absatz 1 Nummer 1 des Gesetzes
 
     a)  sich der maßgebende Zeitraum für die Zuordnung des Unternehmens zum Produzierenden Gewerbe nach § 15 Absatz 3 Satz 1 der Stromsteuer-Durchführungsverordnung bestimmt und
 
 
-    b)  die nach § 95 Absatz 3 erforderliche Beschreibung der wirtschaftlichen Tätigkeiten und die Betriebserklärung vom Antragsteller bereits vorgelegt worden sind;
+    b)  die nach § 95 Absatz 3 erforderliche Betriebserklärung vorgelegt worden ist und die Beschreibung der wirtschaftlichen Tätigkeiten vom Antragsteller auf Verlangen des Hauptzollamts vorgelegt wird;
 
 
 
 
 
-2.  § 53 des Gesetzes die nach § 99 Absatz 3 erforderlichen Unterlagen vom Antragsteller bereits vorgelegt worden sind;
+2.  § 53 des Gesetzes die nach § 99 Absatz 3 erforderlichen Angaben und Unterlagen vom Antragsteller bereits vorgelegt worden sind;
 
 
 3.  § 53a Absatz 1 oder Absatz 4 des Gesetzes
 
-    a)  die nach § 99a Absatz 4 erforderlichen Unterlagen vom Antragsteller bereits vorgelegt worden sind und
+    a)  die nach § 99a Absatz 4 erforderlichen Angaben und Unterlagen vom Antragsteller bereits vorgelegt worden sind und
 
 
-    b)  im Fall des § 53a Absatz 1 in Verbindung mit Absatz 3 des Gesetzes darüber hinaus sich der maßgebende Zeitraum für die Zuordnung des Unternehmens zum Produzierenden Gewerbe oder zur Land- und Forstwirtschaft nach § 15 Absatz 3 Satz 1 der Stromsteuer-Durchführungsverordnung bestimmt sowie die nach § 99a Absatz 5 erforderliche Beschreibung der wirtschaftlichen Tätigkeiten bereits vorgelegt worden ist;
-
-
-
-
-
-4.  § 53a Absatz 6 des Gesetzes
-
-    a)  die nach § 99a Absatz 4 erforderlichen Unterlagen vom Antragsteller bereits vorgelegt worden sind und
-
-
-    b)  die Voraussetzungen der §§ 99b und 99c erfüllt sind;
+    b)  im Fall des § 53a Absatz 1 in Verbindung mit Absatz 3 des Gesetzes darüber hinaus sich der maßgebende Zeitraum für die Zuordnung des Unternehmens zum Produzierenden Gewerbe oder zur Land- und Forstwirtschaft nach § 15 Absatz 3 Satz 1 der Stromsteuer-Durchführungsverordnung bestimmt und die Beschreibung der wirtschaftlichen Tätigkeiten vom Antragsteller auf Verlangen des Hauptzollamts vorgelegt wird;
 
 
 
 
 
-5.  § 54 des Gesetzes
+4.  § 54 des Gesetzes
 
     a)  sich der maßgebende Zeitraum für die Zuordnung des Unternehmens zum Produzierenden Gewerbe oder zur Land- und Forstwirtschaft nach § 15 Absatz 3 Satz 1 der Stromsteuer-Durchführungsverordnung bestimmt und
 
 
-    b)  die nach § 100 Absatz 3 erforderliche Beschreibung der wirtschaftlichen Tätigkeiten vom Antragsteller bereits vorgelegt worden ist;
-
-
-
-
-
-6.  § 55 des Gesetzes
-
-    a)  sich der maßgebende Zeitraum für die Zuordnung des Unternehmens zum Produzierenden Gewerbe nach § 15 Absatz 3 Satz 1 der Stromsteuer-Durchführungsverordnung bestimmt,
-
-
-    b)  die nach § 101 Absatz 4 in Verbindung mit § 100 Absatz 3 erforderliche Beschreibung der wirtschaftlichen Tätigkeiten vom Antragsteller bereits vorgelegt worden ist,
-
-
-    c)  der Antragsteller den nach § 55 Absatz 4 Satz 1 Nummer 1 oder Absatz 5 des Gesetzes erforderlichen Nachweis bereits erbracht hat,
-
-
-    d)  die nach § 55 Absatz 4 Satz 1 Nummer 2 Buchstabe b des Gesetzes erforderliche Bekanntmachung der Bundesregierung bereits erfolgt ist und
-
-
-    e)  die nach § 101 Absatz 4 Satz 2 erforderliche Selbsterklärung bereits vorgelegt worden ist.
+    b)  die nach § 100 Absatz 3 erforderliche Beschreibung der wirtschaftlichen Tätigkeiten vom Antragsteller auf Verlangen des Hauptzollamts vorgelegt wird.
 
 
 
@@ -2597,7 +2558,7 @@ Das zuständige Hauptzollamt kann Anordnungen zu den Aufzeichnungen treffen und 
 
 
 
-(3) Beträgt die Höhe der monatlichen Vorauszahlungen nicht mehr als 200 Euro, kann das Hauptzollamt auf die Festsetzung von Vorauszahlungen verzichten.
+(3) Beträgt die Höhe der monatlichen Vorauszahlungen nicht mehr als 200 Euro, wird auf die Festsetzung von Vorauszahlungen verzichtet, wenn die Steuerbelange dadurch nicht beeinträchtigt werden.
 
 
 ## - - Zu § 40 des Gesetzes
@@ -2735,9 +2696,9 @@ Für die Teile des Gasgewinnungsbetriebs (§ 44 Absatz 3 des Gesetzes), in denen
 
 ### § 87 Steuerentlastung beim Verbringen aus dem Steuergebiet
 
-(1) Die Steuerentlastung nach § 46 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts aus dem Steuergebiet verbracht oder ausgeführt worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Energieerzeugnisse aus dem Steuergebiet verbracht oder ausgeführt worden sind, beim Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung nach § 46 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts aus dem Steuergebiet verbracht oder ausgeführt worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(2) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen oder in Einzelfällen die Steuerentlastung unverzüglich gewähren.
+(2) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 (3) Im Fall des § 46 Absatz 1 Satz 1 Nummer 1 in Verbindung mit § 46 Absatz 2 des Gesetzes hat der Antragsteller, ausgenommen im Versandhandel, dem Antrag einen Ausdruck der Eingangsmeldung des vereinfachten elektronischen Verwaltungsdokuments als Nachweis nach § 46 Absatz 2 Nummer 2 des Gesetzes beizufügen. In den Fällen, in denen keine Eingangsmeldung abgegeben wurde, kann ein Ersatznachweis nach § 38g Absatz 2 als hinreichender Nachweis anerkannt werden. In den Fällen des § 46 Absatz 2 Satz 1 Nummer 1 des Gesetzes ist der Versteuerungsnachweis des anderen Mitgliedstaats vorzulegen.
 
@@ -2750,18 +2711,18 @@ Für die Teile des Gasgewinnungsbetriebs (§ 44 Absatz 3 des Gesetzes), in denen
 
 ### § 88 Steuerentlastung bei Aufnahme in Steuerlager
 
-(1) Die Steuerentlastung nach § 47 Abs. 1 Nr. 1 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts in das Steuerlager aufgenommen worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Energieerzeugnisse in das Steuerlager aufgenommen worden sind, beim Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung nach § 47 Abs. 1 Nr. 1 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts in das Steuerlager aufgenommen worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(2) Entlastungsabschnitt ist ein Zeitraum von einem Kalendermonat. Das Hauptzollamt kann auf Antrag einen längeren Zeitraum, höchstens jedoch ein Kalenderjahr, als Entlastungsabschnitt zulassen, außerdem die Steuerentlastung in Einzelfällen unverzüglich gewähren.
+(2) Entlastungsabschnitt ist ein Zeitraum von einem Kalendermonat. Das Hauptzollamt kann auf Antrag einen längeren Zeitraum, höchstens jedoch ein Kalenderjahr, als Entlastungsabschnitt zulassen.
 
 (3) Der Entlastungsberechtigte hat auf Verlangen des Hauptzollamts über die einzelnen Mengen an versteuerten, nicht gebrauchten Energieerzeugnissen, die in das Steuerlager aufgenommen werden, besondere Aufzeichnungen zu führen.
 
 
 ### § 89 Steuerentlastung für Kohlenwasserstoffanteile
 
-(1) Die Steuerentlastung nach § 47 Abs. 1 Nr. 2 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Gemische zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet oder aus denen innerhalb eines Entlastungsabschnitts Energieerzeugnisse im Sinn des § 4 des Gesetzes hergestellt worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Gemische verwendet oder aus ihnen Energieerzeugnisse im Sinn des § 4 des Gesetzes hergestellt worden sind, beim Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung nach § 47 Abs. 1 Nr. 2 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Gemische zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet oder aus denen innerhalb eines Entlastungsabschnitts Energieerzeugnisse im Sinn des § 4 des Gesetzes hergestellt worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(2) Entlastungsabschnitt ist ein Zeitraum von einem Kalendermonat. Das Hauptzollamt kann auf Antrag einen längeren Zeitraum, höchstens jedoch ein Kalenderjahr, als Entlastungsabschnitt zulassen, außerdem die Steuerentlastung in Einzelfällen unverzüglich gewähren.
+(2) Entlastungsabschnitt ist ein Zeitraum von einem Kalendermonat. Das Hauptzollamt kann auf Antrag einen längeren Zeitraum, höchstens jedoch ein Kalenderjahr, als Entlastungsabschnitt zulassen.
 
 (3) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus dem sich für den Entlastungsabschnitt folgende Angaben ergeben müssen:
 
@@ -2778,9 +2739,9 @@ Für die Teile des Gasgewinnungsbetriebs (§ 44 Absatz 3 des Gesetzes), in denen
 
 ### § 90 Steuerentlastung bei steuerfreien Zwecken
 
-(1) Die Steuerentlastung nach § 47 Absatz 1 Nummer 3 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Energieerzeugnisse verwendet worden sind, beim Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung nach § 47 Absatz 1 Nummer 3 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(2) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen oder in Einzelfällen die Steuerentlastung unverzüglich gewähren.
+(2) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 (3) Bei erstmaliger Antragstellung ist dem Antrag eine Betriebserklärung beizufügen, in der die Verwendung der Energieerzeugnisse genau beschrieben ist. Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich Änderungen gegenüber der dem Hauptzollamt bereits vorliegenden Betriebserklärung ergeben haben. Der Antragsteller hat die Änderungen besonders kenntlich zu machen.
 
@@ -2789,9 +2750,9 @@ Für die Teile des Gasgewinnungsbetriebs (§ 44 Absatz 3 des Gesetzes), in denen
 
 ### § 91 Steuerentlastung für Kohle
 
-(1) Die Steuerentlastung nach § 47 Abs. 1 Nr. 5 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für Kohle zu beantragen, die innerhalb eines Entlastungsabschnitts in den Kohlebetrieb aufgenommen oder verwendet worden ist. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Kohle in den Kohlebetrieb aufgenommen oder nachdem sie verwendet worden ist, beim Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung nach § 47 Abs. 1 Nr. 5 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für Kohle zu beantragen, die innerhalb eines Entlastungsabschnitts in den Kohlebetrieb aufgenommen oder verwendet worden ist. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(2) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen oder in Einzelfällen die Steuerentlastung unverzüglich gewähren.
+(2) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 (3) Bei erstmaliger Antragstellung ist dem Antrag im Fall des § 47 Abs. 1 Nr. 5 Buchstabe b des Gesetzes eine Betriebserklärung beizufügen, in der die Verwendung der Kohle genau beschrieben ist. Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich Änderungen gegenüber der dem Hauptzollamt bereits vorliegenden Betriebserklärung ergeben haben. Der Antragsteller hat die Änderungen besonders kenntlich zu machen.
 
@@ -2808,9 +2769,9 @@ Für die Teile des Gasgewinnungsbetriebs (§ 44 Absatz 3 des Gesetzes), in denen
 
 ### § 91a Steuerentlastung für Erdgas bei Einspeisung
 
-(1) Die Steuerentlastung nach § 47 Absatz 1 Nummer 6 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für Erdgas zu beantragen, das innerhalb eines Entlastungsabschnitts in ein Leitungsnetz für unversteuertes Erdgas eingespeist worden ist. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem das Erdgas in ein Leitungsnetz für unversteuertes Erdgas eingespeist worden ist, beim Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung nach § 47 Absatz 1 Nummer 6 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für Erdgas zu beantragen, das innerhalb eines Entlastungsabschnitts in ein Leitungsnetz für unversteuertes Erdgas eingespeist worden ist. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(2) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen oder in Einzelfällen die Steuerentlastung unverzüglich gewähren.
+(2) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 (3) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus dem sich für den Entlastungsabschnitt die Herkunft und die eingespeisten Mengen des versteuerten Erdgases ergeben müssen.
 
@@ -2821,9 +2782,9 @@ Für die Teile des Gasgewinnungsbetriebs (§ 44 Absatz 3 des Gesetzes), in denen
 
 ### § 91b Steuerentlastung für den Eigenverbrauch
 
-(1) Die Steuerentlastung nach § 47a des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen (Steueranmeldung). Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Energieerzeugnisse verwendet worden sind, beim Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung nach § 47a des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen (Steueranmeldung). Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(2) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen oder in Einzelfällen die Steuerentlastung unverzüglich gewähren.
+(2) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 (3) Dem erstmaligen Antrag ist eine Betriebserklärung beizufügen, in der die Verwendung der Energieerzeugnisse genau beschrieben ist, es sei denn, die Betriebserklärung liegt dem Hauptzollamt bereits vor. Das Hauptzollamt kann weitere Angaben und Unterlagen verlangen, wenn dies zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich ist.
 
@@ -2838,9 +2799,9 @@ Für die Teile des Gasgewinnungsbetriebs (§ 44 Absatz 3 des Gesetzes), in denen
 
 (1) Bewilligte Spülvorgänge im Sinne des § 48 Abs. 1 Satz 1 Nr. 1 des Gesetzes sind die vom Hauptzollamt nach § 49 Abs. 1 zugelassenen Vermischungen von leichtem Heizöl und Gasölen der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur.
 
-(2) Die Steuerentlastung nach § 48 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck zu beantragen, wobei im Fall der Steuerentlastung für bewilligte Spülvorgänge alle Spülvorgänge eines Entlastungsabschnitts in einer Anmeldung zusammenzufassen sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag für Gemische, die bei bewilligten Spülvorgängen angefallen sind, spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Energieerzeugnisse vermischt wurden, und für Gemische, die versehentlich entstanden sind, unmittelbar nach Feststellung der Vermischung beim Hauptzollamt gestellt wird.
+(2) Die Steuerentlastung nach § 48 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck zu beantragen, wobei im Fall der Steuerentlastung für bewilligte Spülvorgänge alle Spülvorgänge eines Entlastungsabschnitts in einer Anmeldung zusammenzufassen sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag für Gemische, die bei bewilligten Spülvorgängen angefallen sind oder für Gemische, die versehentlich entstanden sind, spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(3) Entlastungsabschnitt ist im Fall der Steuerentlastung für bewilligte Spülvorgänge nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen oder in Einzelfällen die Steuerentlastung unverzüglich gewähren.
+(3) Entlastungsabschnitt ist im Fall der Steuerentlastung für bewilligte Spülvorgänge nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 (4) Dem Antrag sind Unterlagen über die Versteuerung und die Herkunft der Gemischanteile beizufügen.
 
@@ -2851,11 +2812,11 @@ Für die Teile des Gasgewinnungsbetriebs (§ 44 Absatz 3 des Gesetzes), in denen
 
 ### § 93 Steuerentlastung für zum Verheizen oder in begünstigten Anlagen verwendete Energieerzeugnisse
 
-(1) Die Steuerentlastung nach § 49 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet oder abgegeben worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Energieerzeugnisse verwendet oder abgegeben worden sind, beim Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung nach § 49 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet oder abgegeben worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
 (1a) Bei erstmaliger Antragstellung ist dem Antrag eine Betriebserklärung beizufügen, in der die Verwendung der Energieerzeugnisse genau beschrieben ist. Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich Änderungen gegenüber der dem Hauptzollamt bereits vorliegenden Betriebserklärung ergeben haben. In diesem Fall hat der Antragsteller die Änderungen besonders kenntlich zu machen.
 
-(2) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen oder in Einzelfällen die Steuerentlastung unverzüglich gewähren.
+(2) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 (3) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus dem sich für den Entlastungsabschnitt ergeben müssen:
 
@@ -2885,22 +2846,13 @@ Für die Teile des Gasgewinnungsbetriebs (§ 44 Absatz 3 des Gesetzes), in denen
 
 ### § 95 Steuerentlastung für bestimmte Prozesse und Verfahren
 
-(1) Die Steuerentlastung nach § 51 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Energieerzeugnisse verwendet worden sind, beim Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung nach § 51 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(2) Entlastungsabschnitt für Anträge auf Gewährung einer Steuerentlastung nach § 51 Absatz 1 Nummer 1 des Gesetzes ist das Kalenderjahr. Bestimmt sich der maßgebende Zeitraum für die Zuordnung des Unternehmens zum Produzierenden Gewerbe nach § 15 Absatz 3 Satz 1 der Stromsteuer-Durchführungsverordnung, kann der Antragsteller abweichend von Satz 1 das Kalendervierteljahr oder das Kalenderhalbjahr als Entlastungsabschnitt wählen. Das Hauptzollamt kann im Fall des Satzes 2 auf Antrag auch einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen oder in Einzelfällen die Steuerentlastung unverzüglich gewähren.
+(2) Entlastungsabschnitt für Anträge auf Gewährung einer Steuerentlastung nach § 51 Absatz 1 Nummer 1 des Gesetzes ist das Kalenderjahr. Bestimmt sich der maßgebende Zeitraum für die Zuordnung des Unternehmens zum Produzierenden Gewerbe nach § 15 Absatz 3 Satz 1 der Stromsteuer-Durchführungsverordnung, kann der Antragsteller abweichend von Satz 1 das Kalendervierteljahr oder das Kalenderhalbjahr als Entlastungsabschnitt wählen. Das Hauptzollamt kann im Fall des Satzes 2 auf Antrag auch einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden. Eine Steuerentlastung wird in den Fällen der Sätze 2 und 3 nurgewährt, wenn die nach § 80 Absatz 2 Satz 1 und 2 Nummer 1 dem Steuerschuldnervoraussichtlich zu gewährende Steuerentlastung nicht bereits bei derFestsetzung der Höhe der Vorauszahlungen für den gleichen Zeitraumberücksichtigt wurde.
 
-(2a) Entlastungsabschnitt für Anträge auf Gewährung der Steuerentlastung nach § 51 Absatz 1 Nummer 2 des Gesetzes ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen oder in Einzelfällen die Steuerentlastung unverzüglich gewähren.
+(2a) Entlastungsabschnitt für Anträge auf Gewährung der Steuerentlastung nach § 51 Absatz 1 Nummer 2 des Gesetzes ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
-(3) Dem Antrag sind beizufügen:
-
-1.  im Fall des § 51 Absatz 1 Nummer 1 des Gesetzes eine Beschreibung der wirtschaftlichen Tätigkeiten des Antragstellers im maßgebenden Zeitraum nach amtlich vorgeschriebenem Vordruck, es sei denn, die Beschreibung liegt dem Hauptzollamt für den maßgebenden Zeitraum bereits vor; die Beschreibung muss es dem Hauptzollamt ermöglichen zu prüfen, ob die Energieerzeugnisse durch ein Unternehmen des Produzierenden Gewerbes verwendet worden sind,
-
-
-2.  bei erstmaliger Antragstellung eine Betriebserklärung, in der die Verwendung der Energieerzeugnisse genau beschrieben ist.
-
-
-
-Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich Änderungen gegenüber der dem Hauptzollamt bereits vorliegenden Betriebserklärung ergeben haben. Der Antragsteller hat die Änderungen besonders kenntlich zu machen.
+(3) Dem Antrag ist bei erstmaliger Antragstellung eine Betriebserklärung, in der die Verwendung der Energieerzeugnisse genau beschrieben ist, beizufügen. Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich Änderungen gegenüber der dem Hauptzollamt bereits vorliegenden Betriebserklärung ergeben haben. Der Antragsteller hat die Änderungen besonders kenntlich zu machen. Im Fall des § 51 Absatz 1 Nummer 1 des Gesetzes hat der Antragsteller auf Verlangen des Hauptzollamts eine Beschreibung seiner wirtschaftlichen Tätigkeiten im maßgebenden Zeitraum nach amtlich vorgeschriebenem Vordruck vorzulegen. Die Beschreibung muss es dem Hauptzollamt ermöglichen, das Unternehmen einem Abschnitt oder einer Klasse der Klassifikation der Wirtschaftszweige zuzuordnen.
 
 (4) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus dem sich für den Entlastungsabschnitt die Art, die Menge, die Herkunft und der genaue Verwendungszweck der Energieerzeugnisse ergeben müssen.
 
@@ -2915,9 +2867,9 @@ Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich
 
 (1) Abweichend von § 52 Abs. 1 Satz 2 des Gesetzes wird eine Steuerentlastung auch für nicht gekennzeichnete Energieerzeugnisse der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur gewährt, wenn das Wasserfahrzeug sowohl zu steuerfreien Zwecken nach § 27 Abs. 1 Satz 1 Nr. 1 oder Nr. 2 des Gesetzes als auch zu nicht steuerfreien Zwecken eingesetzt wird oder wenn glaubhaft gemacht wird, dass eine Betankung unvermeidlich war und ordnungsgemäß gekennzeichnete Energieerzeugnisse der Unterpositionen 2710 19 41 bis 2710 19 49 der Kombinierten Nomenklatur kurzfristig nicht verfügbar waren.
 
-(2) Die Steuerentlastung nach § 52 des Gesetzes für in Wasserfahrzeugen verwendete Energieerzeugnisse ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Energieerzeugnisse verwendet worden sind, beim Hauptzollamt gestellt wird.
+(2) Die Steuerentlastung nach § 52 des Gesetzes für in Wasserfahrzeugen verwendete Energieerzeugnisse ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(3) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen oder in Einzelfällen die Steuerentlastung unverzüglich gewähren.
+(3) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 (4) Dem Antrag sind beizufügen:
 
@@ -2955,9 +2907,9 @@ Das zuständige Hauptzollamt kann auf Antrag unter Auflagen von den Pflichten na
 
 ### § 97 Steuerentlastung für die Luftfahrt
 
-(1) Die Steuerentlastung nach § 52 des Gesetzes für Energieerzeugnisse, die zu den in § 27 Abs. 2 oder Abs. 3 des Gesetzes genannten Zwecken verwendet worden sind, ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle innerhalb eines Entlastungsabschnitts verwendeten Energieerzeugnisse zu beantragen. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Energieerzeugnisse verwendet worden sind, beim Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung nach § 52 des Gesetzes für Energieerzeugnisse, die zu den in § 27 Abs. 2 oder Abs. 3 des Gesetzes genannten Zwecken verwendet worden sind, ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle innerhalb eines Entlastungsabschnitts verwendeten Energieerzeugnisse zu beantragen. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(2) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen oder in Einzelfällen die Steuerentlastung unverzüglich gewähren.
+(2) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 (3) Dem Antrag sind im Fall des § 27 Abs. 2 des Gesetzes beizufügen:
 
@@ -3012,9 +2964,17 @@ Das zuständige Hauptzollamt kann auf Antrag unter Auflagen von den Pflichten na
 
 ### § 99 Steuerentlastung für die Stromerzeugung
 
-(1) Die Steuerentlastung nach § 53 des Gesetzes ist für jede Anlage (§ 9) bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Energieerzeugnisse verwendet worden sind, beim zuständigen Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung nach § 53 des Gesetzes ist für jede Anlage (§ 9) bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(2) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt.
+(2) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend kann der Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden. Eine Steuerentlastung nach Satz 2 wird nur gewährt, wenn
+
+1.  der Entlastungsbetrag bereits im jeweils ersten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt und
+
+
+2.  die nach § 80 Absatz 2 Satz 1 und 2 Nummer 2 dem Steuerschuldner voraussichtlich zu gewährende Steuerentlastung nicht bereits bei der Festsetzung der Höhe der Vorauszahlungen für den gleichen Zeitraum berücksichtigt wurde.
+
+
+
 
 (3) Bei erstmaliger Antragstellung sind für jede Anlage anzugeben oder dem Antrag beizufügen:
 
@@ -3049,20 +3009,32 @@ Das Hauptzollamt kann weitere Angaben und Unterlagen verlangen, wenn dies zur Si
 
 ### § 99a Steuerentlastung für die gekoppelte Erzeugung von Kraft und Wärme
 
-(1) Die Steuerentlastung nach § 53a des Gesetzes ist für jede Anlage (§ 9) bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen (Steueranmeldung). Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Energieerzeugnisse verwendet worden sind, beim zuständigen Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung nach § 53a des Gesetzes ist für jede Anlage (§ 9) bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen (Steueranmeldung). Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(2) Entlastungsabschnitt ist im Fall des § 53a Absatz 1 des Gesetzes in Verbindung mit § 53a Absatz 2 des Gesetzes, im Fall des § 53a Absatz 4 des Gesetzes in Verbindung mit § 53a Absatz 5 des Gesetzes sowie im Fall des § 53a Absatz 6 des Gesetzes das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt. Wird als Entlastungsabschnitt das Kalenderjahr zugrunde gelegt, ist der Jahresnutzungsgrad der Anlage nachzuweisen. Wird dagegen ein anderer Entlastungsabschnitt gewählt, ist für jeden Monat des Entlastungsabschnitts der jeweilige Monatsnutzungsgrad nachzuweisen.
+(2) Entlastungsabschnitt ist im Fall des § 53a Absatz 1 des Gesetzes in Verbindung mit § 53a Absatz 2 des Gesetzes sowie im Fall des § 53a Absatz 4 des Gesetzes in Verbindung mit § 53a Absatz 5 des Gesetzes das Kalenderjahr. Hiervon abweichend kann ein Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden. Eine Steuerentlastung nach Satz 2 wird nur gewährt, wenn
 
-(3) Entlastungsabschnitt im Fall des § 53a Absatz 1 des Gesetzes in Verbindung mit § 53a Absatz 3 des Gesetzes ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern
-
-1.  sich der maßgebliche Zeitraum für die Zuordnung eines Unternehmens zum Produzierenden Gewerbe oder zur Land- und Forstwirtschaft nach § 15 Absatz 3 Satz 1 der Stromsteuer-Durchführungsverordnung bestimmt und
+1.  der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt und
 
 
-2.  der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt.
+2.  die nach § 80 Absatz 2 Satz 1 und 2 Nummer 3 dem Steuerschuldner voraussichtlich zu gewährende Steuerentlastung nicht bereits bei der Festsetzung der Höhe der Vorauszahlungen für den gleichen Zeitraum berücksichtigt wurde.
 
 
 
-Wird als Entlastungsabschnitt das Kalenderjahr zugrunde gelegt, ist der Jahresnutzungsgrad nachzuweisen. Wird dagegen ein anderer Entlastungsabschnitt gewählt, ist für jeden Monat des Entlastungsabschnitts der jeweilige Monatsnutzungsgrad nachzuweisen.
+Wird als Entlastungsabschnitt das Kalenderjahr zugrunde gelegt, ist der Jahresnutzungsgrad oder für jeden Kalendermonat des Kalenderjahres der jeweilige Monatsnutzungsgrad der Anlage nachzuweisen. Wird dagegen ein anderer Entlastungsabschnitt gewählt, ist für jeden Monat des Entlastungsabschnitts der jeweilige Monatsnutzungsgrad nachzuweisen.
+
+(3) Entlastungsabschnitt im Fall des § 53a Absatz 1 des Gesetzes in Verbindung mit § 53a Absatz 3 des Gesetzes ist das Kalenderjahr. Hiervon abweichend kann ein Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden. Eine Steuerentlastung nach Satz 2 wird nur gewährt, wenn
+
+1.  sich der maßgebliche Zeitraum für die Zuordnung eines Unternehmens zum Produzierenden Gewerbe oder zur Land- und Forstwirtschaft nach § 15 Absatz 3 Satz 1 der Stromsteuer-Durchführungsverordnung bestimmt,
+
+
+2.  der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt und
+
+
+3.  die nach § 80 Absatz 2 Satz 1 und 2 Nummer 3 dem Steuerschuldner voraussichtlich zu gewährende Steuerentlastung nicht bereits bei der Festsetzung der Höhe der Vorauszahlungen für den gleichen Zeitraum berücksichtigt wurde.
+
+
+
+Wird als Entlastungsabschnitt das Kalenderjahr zugrunde gelegt, ist der Jahresnutzungsgrad oder für jeden Kalendermonat des Kalenderjahres der jeweilige Monatsnutzungsgrad der Anlage nachzuweisen. Wird dagegen ein anderer Entlastungsabschnitt gewählt, ist für jeden Monat des Entlastungsabschnitts der jeweilige Monatsnutzungsgrad nachzuweisen.
 
 (4) Bei erstmaliger Antragstellung sind für jede Anlage anzugeben oder dem Antrag beizufügen:
 
@@ -3094,54 +3066,17 @@ Wird als Entlastungsabschnitt das Kalenderjahr zugrunde gelegt, ist der Jahresnu
 
 
 
-Im Fall des § 53a Absatz 6 des Gesetzes sind zusätzlich bei erstmaliger Antragstellung für jede Anlage anzugeben oder dem Antrag beizufügen:
+Das Hauptzollamt kann weitere Angaben und Unterlagen verlangen, wenn dies zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich ist. Bei Anlagen nach § 9 Absatz 1 Satz 3 Nummer 3 sind die nach den Sätzen 1 und 2 erforderlichen Angaben für jede zur Anlage gehörende KWK-Einheit oder Stromerzeugungseinheit vorzulegen. Der Antragsteller hat Änderungen der nach den Sätzen 1 bis 3 angegebenen Verhältnisse dem Hauptzollamt jeweils mit dem nächsten Antrag auf eine Steuerentlastung mitzuteilen.
 
-1.  ein Nachweis der Hocheffizienz nach § 99b und
-
-
-2.  Angaben zur Absetzung für Abnutzung der Hauptbestandteile nach § 7 des Einkommensteuergesetzes.
-
-
-
-Das Hauptzollamt kann weitere Angaben und Unterlagen verlangen, wenn dies zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich ist. Bei Anlagen nach § 9 Absatz 1 Satz 3 Nummer 3 sind die nach den Sätzen 1 und 2 erforderlichen Angaben für jede zur Anlage gehörende KWK-Einheit oder Stromerzeugungseinheit vorzulegen. Der Antragsteller hat Änderungen der nach den Sätzen 1 bis 4 angegebenen Verhältnisse dem Hauptzollamt jeweils mit dem nächsten Antrag auf eine Steuerentlastung mitzuteilen.
-
-(5) Im Fall einer Steuerentlastung nach § 53a Absatz 1 des Gesetzes in Verbindung mit § 53a Absatz 3 des Gesetzes hat der Antragsteller dem Antrag eine Beschreibung der wirtschaftlichen Tätigkeiten für den maßgebenden Zeitraum nach amtlich vorgeschriebenem Vordruck beizufügen, es sei denn, die Beschreibung liegt dem Hauptzollamt für den maßgebenden Zeitraum bereits vor. Die Beschreibung muss es dem Hauptzollamt ermöglichen zu prüfen, ob die Energieerzeugnisse durch ein Unternehmen des Produzierenden Gewerbes oder der Land- und Forstwirtschaft im Sinne des § 53a Absatz 3 des Gesetzes verwendet worden sind.
+(5) Im Fall einer Steuerentlastung nach § 53a Absatz 1 des Gesetzes in Verbindung mit § 53a Absatz 3 des Gesetzes hat der Antragsteller auf Verlangen des Hauptzollamts eine Beschreibung der wirtschaftlichen Tätigkeiten für den maßgebenden Zeitraum nach amtlich vorgeschriebenem Vordruck vorzulegen. Die Beschreibung muss es dem Hauptzollamt ermöglichen zu prüfen, ob die Energieerzeugnisse durch ein Unternehmen des Produzierenden Gewerbes oder der Land- und Forstwirtschaft im Sinne des § 53a Absatz 3 des Gesetzes verwendet worden sind.
 
 (6) Eine Entlastung wird nur für diejenigen Energieerzeugnisse gewährt, die innerhalb des KWK-Prozesses verwendet worden sind. Für Energieerzeugnisse, die in den in § 3 Absatz 4 Satz 2 des Gesetzes genannten technischen Einrichtungen verwendet worden sind, wird keine Steuerentlastung gewährt.
 
 
-### § 99b Nachweis der Hocheffizienz
-
-(1) Als Nachweis für die Hocheffizienz werden anerkannt:
-
-1.  vorbehaltlich Satz 2 ein Gutachten, das von einem unabhängigen Sachverständigen nach den allgemein anerkannten Regeln der Technik erstellt wurde,
+### § 99b (weggefallen)
 
 
-2.  für Anlagen mit einer elektrischen Nennleistung bis 50 Kilowatt:
-    eine Kopie der Eingangsbestätigung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle über die Anzeige nach Nummer 2 Buchstabe a oder Buchstabe b der Allgemeinverfügung vom 14. Januar 2016 zur Erteilung der Zulassung für kleine KWK-Anlagen mit einer elektrischen Leistung bis 50 Kilowatt (BAnz AT 02.02.2016 B3) oder
-
-
-3.  für Anlagen mit einer elektrischen Nennleistung von mehr als 50 Kilowatt bis 2 Megawatt:
-    eine Kopie des jeweiligen Zulassungsbescheides des Bundesamtes für Wirtschaft und Ausfuhrkontrolle.
-
-
-
-Die Einhaltung der allgemein anerkannten Regeln der Technik wird vermutet, wenn das Sachverständigengutachten auf der Grundlage und nach den Rechenmethoden der Richtlinie 2012/27/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur Energieeffizienz, zur Änderung der Richtlinien 2009/125/EG und 2010/30/EU und zur Aufhebung der Richtlinien 2004/8/EG und 2006/32/EG (ABl. L 315 vom 14.11.2012, S. 1; L 113 vom 25.4.2013, S. 24), die durch die Richtlinie 2013/12/EU (ABl. L 141 vom 28.5.2013, S. 28) geändert worden ist, in der jeweils geltenden Fassung erstellt worden ist. Der Antragsteller kann den Nachweis der Hocheffizienz entsprechend den Vorgaben des Anhangs II der Richtlinie 2012/27/EU insbesondere durch die Vorlage von Herstellernachweisen führen, wenn die Angaben von einem sachverständigen Dritten in angemessener Zeit nachvollzogen werden können und die steuerlichen Belange dadurch nicht beeinträchtigt werden.
-
-(2) Ist der Entlastungsberechtigte im Sinn des § 53a Absatz 4 des Gesetzes nicht zugleich Inhaber eines Nachweises nach Absatz 1, hat er neben dem Nachweis nach Absatz 1 eine Erklärung abzugeben, dass die dem Nachweis zugrunde liegenden technischen Parameter nicht verändert wurden. Das Hauptzollamt kann vom Inhaber des Nachweises nach Absatz 1 die Auskünfte verlangen, die für die Prüfung der Hocheffizienz der Anlage erforderlich sind.
-
-
-### § 99c Betriebsgewöhnliche Nutzungsdauer
-
-(1) Die betriebsgewöhnliche Nutzungsdauer für die Hauptbestandteile einer Anlage entsprechend § 53a Absatz 7 des Gesetzes wird regelmäßig unter Einbeziehung der Erfahrungswerte der steuerlichen Betriebsprüfung nach den §§ 193 ff. der Abgabenordnung beim Vollzug des § 7 des Einkommensteuergesetzes in der Form von Anschreibungstabellen für bestimmte Anlagegüter (AfA-Tabellen) bestimmt. Diese werden vom Bundesministerium der Finanzen in regelmäßigen Abständen aktualisiert und im Bundessteuerblatt Teil I sowie auf den Internetseiten des Bundesministeriums der Finanzen (www.bundesfinanzministerium.de) bekannt gegeben. Stellt das Finanzamt ausnahmsweise eine von den AfA-Tabellen abweichende Nutzungsdauer fest, ist diese zugrunde zu legen. Die Steuerentlastung wird nur in dem Umfang und nur für diejenigen Kalendermonate gewährt, für die eine Absetzung für Abnutzung nach § 7 des Einkommensteuergesetzes in Anspruch genommen werden kann. Bei Wechsel des Eigentümers der Anlage gelten die Sätze 1 bis 4 sinngemäß.
-
-(2) Schreibt der Entlastungsberechtigte die Anlage (§ 9) nach § 7 des Einkommensteuergesetzes nicht selbst und im eigenen Namen ab, hat er den Nachweis zu erbringen, in welchem Umfang die Voraussetzungen nach Absatz 1 gegeben sind. Das zuständige Hauptzollamt kann von demjenigen, der die Anlage abschreibt, die Auskünfte verlangen, die für die Prüfung der Absetzung für Abnutzung (AfA) der Anlage erforderlich sind.
-
-(3) Erfolgt für die Anlage keine Absetzung für Abnutzung nach § 7 des Einkommensteuergesetzes, sind die Absätze 1 und 2 sinngemäß anzuwenden.
-
-(4) Die Kosten für eine Neuerrichtung der Anlage im Sinne des § 53a Absatz 7 Satz 3 des Gesetzes werden anhand der Marktpreise errechnet, die zum Zeitpunkt der Erneuerung der Hauptbestandteile der gesamten Anlage üblich sind. Die Kosten für einen Zubau (§ 9) stehen in diesem Fall den Kosten einer Erneuerung von Hauptbestandteilen der Anlage gleich.
-
-(5) Eine Entlastung wird nur gewährt, soweit die eingesetzten Energieerzeugnisse innerhalb des KWK-Prozesses verwendet worden sind. Für Energieerzeugnisse, die in den in § 3 Absatz 4 Satz 2 des Gesetzes genannten technischen Einrichtungen verwendet worden sind, wird keine Steuerentlastung gewährt.
+### § 99c (weggefallen)
 
 
 ### § 99d (weggefallen)
@@ -3154,11 +3089,19 @@ Die Einhaltung der allgemein anerkannten Regeln der Technik wird vermutet, wenn 
 
 #### § 100 Steuerentlastung für Unternehmen
 
-(1) Die Steuerentlastung nach § 54 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Energieerzeugnisse verwendet worden sind, beim Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung nach § 54 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird. Abweichend von § 3 Absatz 4 der Verbrauch-und-Luftverkehrsteuerdaten-Übermittlungs-Verordnung vom 14. August 2020 (BGBl. I S. 1960, 1961), die durch Artikel 11 des Gesetzes vom 24. Oktober 2022 (BGBl. I S. 1838) geändert worden ist, ist der Antrag ab 1. Januar 2025 nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung an das zuständige Hauptzollamt zu übermitteln (elektronische Datenübermittlung).
 
-(2) Entlastungsabschnitt ist das Kalenderjahr. Bestimmt sich der maßgebende Zeitraum für die Zuordnung eines Unternehmens zum Produzierenden Gewerbe oder zur Land- und Forstwirtschaft nach § 15 Absatz 3 Satz 1 der Stromsteuer-Durchführungsverordnung, kann der Antragsteller abweichend von Satz 1 das Kalendervierteljahr oder das Kalenderhalbjahr als Entlastungsabschnitt wählen. Das Hauptzollamt kann im Fall des Satzes 2 auf Antrag auch den Kalendermonat als Entlastungsabschnitt zulassen. Eine Steuerentlastung wird in den Fällen der Sätze 2 und 3 jedoch nur gewährt, wenn der Entlastungsbetrag den Betrag nach § 54 Absatz 3 des Gesetzes bereits im jeweils ersten Entlastungsabschnitt eines Kalenderjahres überschreitet.
+(2) Entlastungsabschnitt ist das Kalenderjahr. Bestimmt sich der maßgebende Zeitraum für die Zuordnung eines Unternehmens zum Produzierenden Gewerbe oder zur Land- und Forstwirtschaft nach § 15 Absatz 3 Satz 1 der Stromsteuer-Durchführungsverordnung, kann der Antragsteller abweichend von Satz 1 das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden. Eine Steuerentlastung nach Satz 2 wird nur gewährt, wenn
 
-(3) Der Antragsteller hat dem Antrag eine Beschreibung seiner wirtschaftlichen Tätigkeiten im maßgebenden Zeitraum gemäß § 15 Absatz 3 der Stromsteuer-Durchführungsverordnung nach amtlich vorgeschriebenem Vordruck beizufügen, es sei denn, die Beschreibung liegt dem Hauptzollamt bereits vor. Die Beschreibung muss es dem Hauptzollamt ermöglichen zu prüfen, ob die Energieerzeugnisse durch ein Unternehmen im Sinn des § 2 Nummer 3 oder Nummer 5 des Stromsteuergesetzes verwendet worden sind.
+1.  der Entlastungsbetrag den Betrag nach § 54 Absatz 3 des Gesetzes bereits im jeweils ersten Entlastungsabschnitt eines Kalenderjahres überschreitet und
+
+
+2.  die nach § 80 Absatz 2 Satz 1 und 2 Nummer 4 dem Steuerschuldner voraussichtlich zu gewährende Steuerentlastung nicht bereits bei der Festsetzung der Höhe der Vorauszahlungen für den gleichen Zeitraum berücksichtigt wurde.
+
+
+
+
+(3) Der Antragsteller hat auf Verlangen des Hauptzollamts eine Beschreibung der wirtschaftlichen Tätigkeiten für den maßgebenden Zeitraum gemäß § 15 Absatz 3 der Stromsteuer-Durchführungsverordnung nach amtlich vorgeschriebenem Vordruck vorzulegen. Die Beschreibung muss es dem Hauptzollamt ermöglichen zu prüfen, ob die Energieerzeugnisse durch ein Unternehmen im Sinn des § 2 Nummer 3 oder Nummer 5 des Stromsteuergesetzes verwendet worden sind.
 
 (4) Eine Schätzung der jeweils selbst oder von einem anderen Unternehmen (§ 100a) des Produzierenden Gewerbes oder der Land- und Forstwirtschaft verwendeten Wärmemengen und der für die Erzeugung der Wärme verbrauchten Energieerzeugnisse ist zulässig, soweit
 
@@ -3222,32 +3165,11 @@ Die Vorlage einer Selbsterklärung nach Satz 1 Nummer 1 ist nicht erforderlich, 
 
 
 
-### - - Zu § 55 des Gesetzes
+### - - (weggefallen)
 
 
 
-#### § 101 Steuerentlastung für Unternehmen in Sonderfällen
-
-(1) Die Steuerentlastung nach § 55 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Kalenderjahres (Abrechnungszeitraum) verwendet worden sind. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Energieerzeugnisse verwendet worden sind, bei dem für den Antragsteller zuständigen Hauptzollamt gestellt wird.
-
-(2) Bestimmt sich der maßgebende Zeitraum für die Zuordnung eines Unternehmens zum Produzierenden Gewerbe nach § 15 Absatz 3 Satz 1 der Stromsteuer-Durchführungsverordnung, kann das Hauptzollamt auf Antrag einen vorläufigen Entlastungszeitraum von einem Kalendermonat, einem Kalendervierteljahr oder einem Kalenderhalbjahr (vorläufiger Abrechnungszeitraum) zulassen und die Steuerentlastung für innerhalb eines vorläufigen Abrechnungszeitraums verwendete Energieerzeugnisse gewähren. Zur Errechnung der Höhe der Steuerentlastung ist § 55 des Gesetzes sinngemäß auf den vorläufigen Abrechnungszeitraum anzuwenden. Eine Steuerentlastung nach Satz 1 wird nur dann gewährt, wenn
-
-1.  die Summe aus dem Steueranteil nach § 55 Absatz 3 des Gesetzes und der Stromsteuer nach § 10 Absatz 1 Satz 1 bis 4 des Stromsteuergesetzes bereits im ersten vorläufigen Abrechnungszeitraum im Kalenderjahr den Unterschiedsbetrag in der Rentenversicherung (§ 55 Absatz 2 Satz 1 Nummer 1 und 2 des Gesetzes) für diesen Zeitraum übersteigt,
-
-
-2.  der Antragsteller den nach § 55 Absatz 4 Satz 1 Nummer 1 oder Absatz 5 des Gesetzes erforderlichen Nachweis bereits erbracht hat und
-
-
-3.  die nach § 55 Absatz 4 Satz 1 Nummer 2 Buchstabe b des Gesetzes erforderliche Bekanntmachung der Bundesregierung bereits erfolgt ist.
-
-
-
-
-(3) Wurde eine Steuerentlastung für innerhalb eines vorläufigen Abrechnungszeitraums verwendete Energieerzeugnisse nach Absatz 2 gewährt, hat der Antragsteller einen zusammenfassenden Antrag nach Absatz 1 für das Kalenderjahr bis zum 31. Juli des folgenden Kalenderjahres abzugeben. Wird der zusammenfassende Antrag nicht oder nicht rechtzeitig abgegeben, fordert das Hauptzollamt die nach Absatz 2 gewährte Steuerentlastung zurück.
-
-(4) § 100 Absatz 3 bis 5 und § 100a gelten entsprechend. Sofern der Antragsteller Betreiber eines alternativen Systems zur Verbesserung der Energieeffizienz gemäß der Verordnung zu § 66b des Gesetzes ist, hat er dem Antrag nach Absatz 1 eine Selbsterklärung nach amtlich vorgeschriebenem Vordruck beizufügen, aus der hervorgeht, dass das Unternehmen im Antragsjahr die Voraussetzungen der Definition für kleine und mittlere Unternehmen im Sinn des § 55 Absatz 4 Satz 2 des Gesetzes erfüllt hat.
-
-(5) Wurde das Unternehmen nach dem 31. Dezember 2013 neu gegründet (§ 55 Absatz 6 des Gesetzes), hat es die Art der Neugründung und den Zeitpunkt der Betriebsaufnahme durch geeignete Unterlagen nachzuweisen.
+#### § 101 (weggefallen)
 
 
 ### - - Zu § 56 des Gesetzes
@@ -3256,9 +3178,9 @@ Die Vorlage einer Selbsterklärung nach Satz 1 Nummer 1 ist nicht erforderlich, 
 
 #### § 102 Steuerentlastung für den öffentlichen Personennahverkehr, Allgemeines
 
-(1) Die Steuerentlastung nach § 56 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Energieerzeugnisse verwendet worden sind, beim Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung nach § 56 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts verwendet worden sind. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(2) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen oder in Einzelfällen die Steuerentlastung unverzüglich gewähren.
+(2) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 (3) Unternehmen mit Geschäftssitz im Ausland wird eine Steuerentlastung nur gewährt, wenn nachgewiesen ist, dass eine den begünstigten Beförderungen entsprechende Menge Kraftstoff verwendet wurde, die im Steuergebiet des Energiesteuergesetzes durch das Unternehmen versteuert worden ist oder versteuert bezogen worden ist. Das Hauptzollamt kann Regelungen über die Art des Nachweises festlegen.
 
@@ -3489,7 +3411,7 @@ Der nach Satz 1 und 2 zu führende buchmäßige Nachweis ist entsprechend dem je
 
 (1) Der Antrag nach § 57 des Gesetzes ist bei dem für den Betrieb des Antragstellers zuständigen Hauptzollamt zu stellen. Hat der Inhaber eines Betriebs nach § 57 Abs. 2 des Gesetzes seinen Wohnsitz nicht im Steuergebiet und führt er im Steuergebiet Arbeiten im Sinne des § 57 Abs. 1 des Gesetzes aus, so ist der Antrag bei dem Hauptzollamt zu stellen, das für die Steuerentlastung nach § 57 des Gesetzes in der Gemeinde, in der die Arbeiten überwiegend ausgeführt werden, zuständig ist.
 
-(2) Die Steuerentlastung ist mit einer Anmeldung nach amtlich vorgeschriebenem Datensatz für die innerhalb eines Kalenderjahres (Entlastungsabschnitt) zu begünstigten Zwecken nach § 57 Absatz 1 des Gesetzes verwendeten Gasöle (begünstigter Verbrauch) zu beantragen. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag bis zum 31. Dezember des Jahres, das dem Kalenderjahr folgt, in dem die Gasöle verwendet worden sind, beim zuständigen Hauptzollamt gestellt wird. Bei erstmaliger Antragstellung sind dem Antrag beizufügen:
+(2) Die Steuerentlastung ist mit einer Anmeldung nach amtlich vorgeschriebenem Datensatz für die innerhalb eines Kalenderjahres (Entlastungsabschnitt) zu begünstigten Zwecken nach § 57 Absatz 1 des Gesetzes verwendeten Gasöle (begünstigter Verbrauch) zu beantragen. Der Antragsteller hat in der Anmeldung alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird. Bei erstmaliger Antragstellung sind dem Antrag beizufügen:
 
 1.  Quittungen oder Lieferbescheinigungen nach Absatz 4 über im Entlastungsabschnitt insgesamt bezogenen Gasöle,
 
@@ -3525,9 +3447,9 @@ Bei Folgeanträgen hat der Antragsteller die in Satz 4 genannten Unterlagen ledi
 
 #### § 103a Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)
 
-(1) Die Steuerentlastung ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts geliefert worden sind. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Energieerzeugnisse geliefert oder abgegeben worden sind, beim Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts geliefert worden sind. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(2) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt.
+(2) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 (3) Dem Antrag auf Steuerentlastung sind die Abwicklungsscheine nach § 73 Absatz 1 Nummer 1 der Umsatzsteuer-Durchführungsverordnung beizufügen. Das Hauptzollamt kann auf Abwicklungsscheine verzichten, wenn die in diesen vorgeschriebenen Angaben anderen Belegen und den Aufzeichnungen des Antragstellers eindeutig und leicht nachprüfbar zu entnehmen sind.
 
@@ -3542,7 +3464,7 @@ Bei Folgeanträgen hat der Antragsteller die in Satz 4 genannten Unterlagen ledi
 
 (1) Energieerzeugnisse, die für zivile Missionen im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik bezogen werden, sind nicht entlastungsfähig. Energieerzeugnisse, die für den Gebrauch oder Verbrauch durch Zivilpersonal bezogen werden, sind nur dann entlastungsfähig, wenn sie durch das zivile Begleitpersonal von Streitkräften verwendet werden. Dieses muss Aufgaben ausführen, die unmittelbar mit einer Verteidigungsanstrengung im Rahmen mit der Gemeinsamen Sicherheits- und Verteidigungspolitik außerhalb ihres Mitgliedstaates zusammenhängen. Aufgaben, zu deren Erfüllung ausschließlich Zivilpersonal oder zivile Fähigkeiten eingesetzt werden, sind nicht als Verteidigungsanstrengungen zu betrachten.
 
-(2) Die Steuerentlastung nach § 58a Absatz 1 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts geliefert worden sind. Die Steuerentlastung nach § 58a Absatz 2 des Gesetzes ist bei dem Hauptzollamt zu beantragen, in dessen Zuständigkeitsbereich die Maßnahme der Gemeinsamen Sicherheits- und Verteidigungspolitik stattfindet oder stattgefunden hat. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem die Energieerzeugnisse geliefert, abgegeben oder bezogen worden sind, beim Hauptzollamt gestellt wird.
+(2) Die Steuerentlastung nach § 58a Absatz 1 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für alle Energieerzeugnisse zu beantragen, die innerhalb eines Entlastungsabschnitts geliefert worden sind. Die Steuerentlastung nach § 58a Absatz 2 des Gesetzes ist bei dem Hauptzollamt zu beantragen, in dessen Zuständigkeitsbereich die Maßnahme der Gemeinsamen Sicherheits- und Verteidigungspolitik stattfindet oder stattgefunden hat. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
 (3) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres
 
@@ -3553,6 +3475,7 @@ Bei Folgeanträgen hat der Antragsteller die in Satz 4 genannten Unterlagen ledi
 
 
 
+Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 (4) Dem Antrag auf Steuerentlastung nach § 58a des Gesetzes sind Unterlagen beizufügen, die den zeitlichen und räumlichen Umfang der begünstigten Maßnahme der Gemeinsamen Sicherheits- und Verteidigungspolitik sowie die bezogene oder getankte Menge an Energieerzeugnissen belegen. Das Hauptzollamt kann weitere Unterlagen anfordern, sofern dies zur Beurteilung der Steuerbegünstigung erforderlich ist.
 
@@ -3565,7 +3488,7 @@ Bei Folgeanträgen hat der Antragsteller die in Satz 4 genannten Unterlagen ledi
 
 #### § 104 Steuervergütung für Diplomatenbenzin und -dieselkraftstoff
 
-(1) Die Steuervergütung nach § 59 des Gesetzes ist bei dem Hauptzollamt, das für den Dienstsitz der ausländischen Vertretung zuständig ist, nach amtlich vorgeschriebenem Vordruck für die innerhalb eines Vergütungsabschnitts bezogenen Mengen an Benzin und Dieselkraftstoff zu beantragen. Sie muss spätestens in dem auf den Bezug folgenden Kalenderjahr beantragt werden. Die Steuervergütung wird nicht gewährt für Benzin und Dieselkraftstoffe, die in Fahrzeugen verwendet worden sind, die für eine ausländische Vertretung oder andere Begünstigte zugelassen, jedoch nicht begünstigten Dritten zur ständigen Benutzung überlassen worden sind. Eine entsprechende Erklärung ist mit jedem Antrag abzugeben.
+(1) Die Steuervergütung nach § 59 des Gesetzes ist bei dem Hauptzollamt, das für den Dienstsitz der ausländischen Vertretung zuständig ist, nach amtlich vorgeschriebenem Vordruck für die innerhalb eines Vergütungsabschnitts bezogenen Mengen an Benzin und Dieselkraftstoff zu beantragen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird. Die Steuervergütung wird nicht gewährt für Benzin und Dieselkraftstoffe, die in Fahrzeugen verwendet worden sind, die für eine ausländische Vertretung oder andere Begünstigte zugelassen, jedoch nicht begünstigten Dritten zur ständigen Benutzung überlassen worden sind. Eine entsprechende Erklärung ist mit jedem Antrag abzugeben.
 
 (2) Die Vergütung ist, wenn nicht besondere Gründe eine Ausnahme rechtfertigen, erst zu beantragen, wenn die vergütungsfähige Menge 300 Liter übersteigt. Vergütungsabschnitt ist unter den Voraussetzungen des Satzes 1 nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Vergütungsabschnitt zulassen. Eine Änderung des Vergütungsabschnitts ist erst mit Beginn eines neuen Kalenderjahres möglich. Der Antrag nach Satz 1 muss alle im Vergütungsabschnitt entstandenen Vergütungsansprüche umfassen. Ist über ihn entschieden, können für den gleichen Zeitraum keine weiteren Ansprüche geltend gemacht werden.
 
@@ -3806,7 +3729,7 @@ Es gelten
 2.  für die Berechnung des Normvolumens von Erdgas und gasförmigen Kohlenwasserstoffen die DIN 1343, Ausgabe Januar 1990,
 
 
-3.  für die Bestimmung des Brennwerts von Erdgas und gasförmigen Kohlenwasserstoffen die DIN 51857, Ausgabe März 1997, oder die DIN EN ISO 6976, Ausgabe September 2005,
+3.  für die Bestimmung des Brennwerts von Erdgas und gasförmigen Kohlenwasserstoffen die DIN EN ISO 6976, Ausgabe Dezember 2016,
 
 
 4.  für die Bestimmung des Bleigehalts von Benzin nach § 2 Abs. 1 Nr. 1 und 2 des Gesetzes die DIN EN 13723 (Ausgabe Oktober 2002),
@@ -3820,13 +3743,13 @@ Es gelten
     b)  die DIN EN ISO 14596, Ausgabe Dezember 2007,
 
 
-    c)  die DIN EN ISO 20846, Ausgabe Januar 2012,
+    c)  die DIN EN ISO 20846, Ausgabe Dezember 2019,
 
 
-    d)  die DIN EN ISO 20884, Ausgabe Juli 2011, und
+    d)  die DIN EN ISO 20884, Ausgabe Januar 2022, und
 
 
-    e)  die DIN EN 24260, Ausgabe Mai 1994,
+    e)  (weggefallen)
 
 
     f)  die DIN EN ISO 13032, Ausgabe Juni 2012,
@@ -3835,7 +3758,7 @@ Es gelten
 
 
 
-6.  für die Bestimmung des Heizwerts von Energieerzeugnissen nach § 2 Absatz 1 Nummer 9 und 10 des Gesetzes die DIN 51900-1, Ausgabe April 2000,
+6.  für die Bestimmung des Heizwerts von Energieerzeugnissen nach § 2 Absatz 1 Nummer 9 und 10 des Gesetzes die DIN 51900, Ausgabe Dezember 2023,
 
 
 7.  für die Bestimmung des Gehalts der in § 2 Absatz 1 genannten Rotfarbstoffe
@@ -3846,20 +3769,20 @@ Es gelten
     b)  die DIN 51426, Ausgabe September 2011, sofern die Bestimmung nicht durch Biokomponenten gestört wird, oder
 
 
-    c)  die DIN 51430, Ausgabe Oktober 2011;
+    c)  die DIN 51430, Ausgabe Februar 2018;
 
 
 
     im Streitfall ist das Ergebnis der Untersuchung nach dem in der Anlage 2 dieser Verordnung genannten Verfahren maßgeblich,
 
 
-8.  für die Bestimmung des Gehalts des Markierstoffs Solvent Yellow 124 das in der Anlage 3 dieser Verordnung genannte Verfahren (Euromarker-Referenzanalyseverfahren) oder die DIN 51430, Ausgabe Oktober 2011; im Streitfall ist das Ergebnis der Untersuchung nach dem in der Anlage 3 dieser Verordnung genannten Verfahren maßgeblich,
+8.  (weggefallen)
 
 
 9.  für die Bestimmung des Färbeäquivalents von Gemischen der in § 2 Abs. 1 genannten Rotfarbstoffe die Anlage 4 zu dieser Verordnung,
 
 
-10. für die Probeentnahme nach § 1b Absatz 1 Nummer 4 die DIN EN ISO 10715, Ausgabe September 2000,
+10. für die Probeentnahme nach § 1b Absatz 1 Nummer 4 die DIN EN ISO 10715, Ausgabe März 2023,
 
 
 11. für die Bestimmung des Gehalts des in § 2 Absatz 1 genannten Markierstoffs ACCUTRACE
@@ -4544,352 +4467,8 @@ Die Verwendung und die Verteilung von steuerfreien Energieerzeugnissen oder das 
 
 [^bjnr175310006bjne011400000_01_BJNR175310006BJNE011401360]:     Über die Bezugsquellen gibt Auskunft:                DIN-Bezugsquellen für normgerechte Erzeugnisse im DIN Deutsches Institut für Normung e.V., Burggrafenstraße 6, 10787 Berlin.
 
-(zu § 110 Satz 1 Nr. 8)
 
-#### Anlage 3 Harmonisiertes Euromarker - Referenzanalyseverfahren der Gemeinschaft zur  Ermittlung des Markierstoffs Solvent Yellow 124 in Gasölen
-
-(Fundstelle: BGBl. I 2006, 1798 - 1800)
-
-
-*   Für ein reibungsloses Funktionieren des Binnenmarktes und insbesondere zur Vermeidung von Steuerhinterziehung wurde durch die Richtlinie 95/60/EG des Rates vom 27. November 1995 über die steuerliche Kennzeichnung von Gasölen und Kerosin (ABl. EG Nr. L 291 S. 46) ein gemeinsames System zur Kennzeichnung von Gasöl und Kerosin eingeführt, die einem ermäßigten Verbrauchsteuersatz unterliegen. Mit der Entscheidung 2001/574/EG der Kommission vom 13. Juli 2001 zur Bestimmung eines gemeinsamen Stoffs zur steuerlichen Kennzeichnung von Gasölen und Kerosin (ABl. EG Nr. L 203 S. 20, Nr. L 208 S. 48) wurde Solvent Yellow 124 (systematischer Name gemäß IUPAC: N-Ethyl-N-[2-(1-isobutoxyethoxy)ethyl]-4-(phenylazo)anilin); CAS-Nr.: 34432-92-3) als gemeinsamer Stoff zur steuerlichen Kennzeichnung von Gasölen und Kerosin bestimmt. Diese Anlage enthält ein Verfahren zur Ermittlung von Solvent Yellow 124 in Gasöl und Kerosin, welches auf der Methode 455 MAD, Rev. 1 (HPLC) basiert. Das Verfahren ist nach der Leitlinie des Verbrauchsteuerausschusses der Kommission der Europäischen Gemeinschaften vom 13. Januar 2005 (CED Nr. 494 rev.1) in Streitfällen als Referenzverfahren zur Untersuchung von gekennzeichneten, einem ermäßigten Verbrauchsteuersatz unterliegenden Energieerzeugnissen und Dieselkraftstoffgemischen anzuwenden.
-
-
-
-
-*
-    **1** **Zweck und Anwendungsbereich**
-
-
-    1.1 Erläuterung
-
-        Das Verfahren beschreibt die Ermittlung von Solvent Yellow 124 in einem Konzentrationsbereich zwischen der Nachweisgrenze bis 10 mg Solvent Yellow 124 pro Liter. Liegt die Konzentration über 10 mg/l, wird zur genauen Ermittlung der Konzentration eine Verdünnung mit Xylol (Unterabschnitt 3.3) erforderlich.
-
-
-    1.2 Nachweisgrenze
-
-        Die Nachweisgrenze bei Gasöl und Kerosin liegt bei 0,02 mg/l.
-
-
-    1.3 Quantifizierungsgrenze (Bestimmungsgrenze)
-
-        Die Quantifizierungsgrenze bei Gasöl und Kerosin liegt bei 0,07 mg/l.
-
-
-    **2** **Prinzip und Reaktionen**
-
-        Die Probe wird in ein kleines Probengefäß gefüllt. Das Produkt wird mittels Normalphasenchromatographie getrennt und mittels UV/Vis-Nachweis bei 450 nm bestimmt. Um weitere Informationen zu erhalten, kann eine Analyse der Proben mittels Diodenarraydetektor durchgeführt werden, und zwar ebenfalls bei 410 nm. Externe Kalibrierung wird verwendet, die Reinheit des verwendeten Solvent Yellow 124 sollte berücksichtigt werden.
-
-
-    **3** **Reagenzien und andere Materialien**
-
-        Verwenden Sie ausschließlich Reagenzien anerkannter Qualität.
-
-
-    3.1 Solvent Yellow 124,
-
-
-    3.2 Toluol, für Flüssigchromatographie,
-
-
-    3.3 o-Xylol, p.a.,
-
-
-    3.4 Ethylacetat, p.a.
-
-
-    **4** **Geräte**
-
-
-    4.1 Übliche Laborglaswaren. Messkolben (2 000 ml und 100 ml) sowie Pipetten (1 ml, 5 ml und 10 ml) der Klasse B oder besser,
-
-
-    4.2 HPLC-Gerät, ausgerüstet mit:
-
-
-    4.2.1 HPLC-Pumpe, die pulsationsfrei arbeitet und einen konstanten Fluss bei dem erforderlichen Durchflussvolumen,
-
-
-    4.2.2 Probengeber mit Schleifeninjektor (manuell oder Teil eines automatischen Probengebers) mit einer Kapazität von 20 µl,
-
-
-    4.2.3 Säule, 5 µm Siliciumdioxid Länge 200 bis 250 mm, Innendurchmesser 3,0 bis 5,0 mm, zum Beispiel Waters Spherisorb 5 µm oder Luna 5 µm Silica Phenomenex,
-
-
-    4.2.4 Vorsäule, Siliciumdioxid zum Beispiel Spherisorb S5W Waters. Verwendung ratsam, aber nicht obligatorisch,
-
-
-    4.2.5 Säulenofen: Sollte verwendet werden, wenn die Retentionszeit der Solvent Yellow 124-Peaks von Durchlauf zu Durchlauf nicht stabil ist. Temperatur 40 Grad Celsius,
-
-
-    4.2.6 Detektor: UV 450 nm oder bei Verwendung eines Diodenarray 410 nm und 450 nm,
-
-
-    4.2.7 Integrationssystem mit elektronischem Integrator mit Rechen- und Berichtfunktion, kompatibel mit dem Ausgang des Nachweisinstruments.
-
-
-    **5** **Ablauf**
-
-
-    5.1 Allgemein
-
-        Entnehmen Sie eine repräsentative Probe des zu analysierenden Produkts.
-
-
-    5.2 Vorbehandlung der Probe
-
-        Übertragen Sie die Probe in ein kleines Probengefäß. Sollte die Probe Schmutz enthalten, filtern Sie sie mittels eines Spritzenfilters, zum Beispiel 0,45 µm PTFE.
-
-
-    5.3 Mobile Phase
-
-        Elutionsmittel: Mischen Sie 40 ml Ethylacetat (Unterabschnitt 3.4) und 1 960 ml Toluol (Unterabschnitt 3.2) in einem 2 000-ml-Messkolben und homogenisieren Sie das Gemisch.
-
-
-    5.4 Referenzstammlösung
-
-        Stellen Sie eine Referenzstammlösung aus Solvent Yellow 124 von 100 mg/l her durch Verwiegung der erforderlichen Menge Solvent Yellow 124 (Unterabschnitt 3.1) in einem 500-ml-Messkolben und Auffüllen mit Xylol (Unterabschnitt 3.3) bei einer Temperatur von 20 ± 1 Grad Celsius. Notieren Sie das Gewicht mit vier Nachkommastellen. Die Reinheit des verwendeten Solvent Yellow 124 sollte berücksichtigt werden. Gründlich vermischen, eine Nacht stehen lassen. Dann erneut gründlich vermischen und die Kalibrierlösungen vorbereiten.
-
-
-    5.5 Kalibrierlösungen
-
-        *            *   Konzentration
-
-            *   Volumen Referenzstammlösung
-
-            *   Endvolumen-Messkolben
-
-
-        *            *   ungefähr 10 mg/l
-
-            *   10 ml
-
-            *   100 ml
-
-
-        *            *   ungefähr 5 mg/l
-
-            *   5 ml
-
-            *   100 ml
-
-
-        *            *   ungefähr 1 mg/l
-
-            *   1 ml
-
-            *   100 ml
-
-
-
-
-
-
-
-
-
-
-*
-    5.6 Systemkontrolle
-
-        Vor Analyse der Proben müssen die Stabilität des HPLC-Systems und die Retention des Solvent Yellow 124 geprüft werden. Injizieren Sie die Kalibrierlösung mit einer Konzentration von 10 mg/l dreimal und führen Sie jeweils eine Chromatographie durch. Die relative Standardabweichung der Peakfläche bei den drei Injektionen sollte unter 1 Prozent liegen. Die Retentionszeit des Solvent Yellow 124 muss zwei- bis viermal länger sein als die Zeitspanne bis zum Erscheinen des Signals für das Leervolumen t
-        o                         . Die relative Standardabweichung der Retentionszeit des Solvent Yellow 124 sollte unter 2 Prozent liegen. Bei zu kurzer oder zu langer Retentionszeit muss das Elutionsmittel angepasst werden. Durch Zufügen von Ethylacetat zum Elutionsmittel verkürzt sich die Retentionszeit.
-
-
-    5.7 Bestimmung
-
-        Proben und Kalibriersubstanzen werden zweimal analysiert. Beginnen Sie mit den drei Kalibrierlösungen. Es können höchstens zwölf Proben zweimal analysiert werden, dann wird eine neue Kalibrierung erforderlich. Die Sequenz wird immer mit drei Kalibrierlösungen abgeschlossen. Die Kalibrierkurve wird durch den Nullpunkt gezwungen. Liegt der Korrelationskoeffizient der linearen Regression aller Kalibrierpunkte über 0,999, ist die Kalibrierung angemessen. Liegt der Korrelationskoeffizient unter 0,999, muss die Leistung des Systems überprüft und, wenn möglich, verbessert werden.
-
-
-    **6** **Auswertung**
-
-        Zur Auswertung wird nach Unterabschnitt 5.7 aus den Mittelwerten der Peakflächen der zusammengehörigen Kalibrierlösungen A
-        s                          und deren Konzentration C
-        s                          ein Flächenfaktor a wie folgt ermittelt:
-
-        *            *   a                                    =
-
-            *   C
-                s
-
-
-        *            *   A
-                s
-
-
-
-
-
-
-
-
-
-
-*
-    *   Bei der Konzentration des Standards in mg/l ist seine Reinheit zu berücksichtigen.
-
-        Aus den Flächen der Solvent Yellow 124-Peaks der Proben berechnet man die Konzentration wie folgt:
-
-        *            *   c                                    =
-                A
-                P                                      · a
-
-
-
-
-
-
-
-
-
-
-*
-    *   Darin bedeuten:
-
-        c = Konzentration des Solvent Yellow 124 in der Probe in mg/l
-
-        A
-        P                          = Fläche des Solvent Yellow 124-Peaks
-
-        a = Flächenfaktor
-
-
-    **7** **Angabe des Ergebnisses**
-
-        Bei einem Gehalt an Solvent Yellow 124 bis 0,3 mg/l ist der Gehalt in mg/l mit zwei Nachkommastellen, bei höheren Gehalten mit einer Nachkommastelle anzugeben. Beim Runden auf die letzte anzugebende Stelle ist die DIN 1333 (Ausgabe Februar 1992) zu berücksichtigen.
-
-
-    **8** **Präzision**
-
-
-    8.1 Wiederholbarkeit
-
-        Unterschiede zwischen den Ergebnissen zweier Ermittlungen, die in kurzem Abstand nacheinander von derselben Person unter denselben Umständen mit identischem Probengut durchgeführt werden, dürfen bei 95 Prozent der Analysen die nachstehenden Werte nicht übersteigen:
-
-        *            *   Probeninhalt, Bereich
-
-            *   Wiederholbarkeit
-
-
-        *            *   0,12 bis 0,27 mg/l
-
-            *   0,03 mg/l
-
-
-        *            *   4 bis 10 mg/l
-
-            *   0,16 mg/l
-
-
-
-
-
-
-
-
-
-
-*
-    8.2 Vergleichbarkeit
-
-        Unterschiede zwischen den Ergebnissen zweier voneinander unabhängiger Ermittlungen, die zwei verschiedene Personen in verschiedenen Labors unter verschiedenen Umständen mit identischem Probengut durchführen, dürfen bei 95 Prozent der Analysen die nachstehenden Werte nicht übersteigen:
-
-        *            *   Probeninhalt, Bereich
-
-            *   Vergleichbarkeit
-
-
-        *            *   0,12 bis 0,27 mg/l
-
-            *   0,05 mg/l
-
-
-        *            *   4 bis 10 mg/l
-
-            *   0,10 X
-
-
-
-
-
-
-
-
-
-
-*
-    *   Dabei bedeutet X den Durchschnitt der beiden Ergebnisse.
-
-
-    8.3 Messunsicherheit
-
-        Die Messunsicherheit kann aufgrund der Daten zur Vergleichbarkeit geschätzt werden, nachdem bestätigt ist, dass das eigene Labor ebenso gut arbeitet wie die an der Validierungsstudie beteiligten Labors. Die Kalibrierungenauigkeit ist in den Daten zur Vergleichbarkeit nicht enthalten und kommt daher noch hinzu. Die Messunsicherheit wird dann folgendermaßen geschätzt:
-
-        *            *
-            *
-            *
-            *
-            *
-            *
-
-        *            *   U = k · c                                    √
-
-            *   u
-
-            *   2
-
-            *   + u
-
-            *   2
-
-            *
-
-        *            *   R
-
-            *   st
-
-            *
-
-
-
-
-
-
-
-
-
-*
-    *   Darin bedeuten:
-
-        U = erweiterte Messunsicherheit
-
-
-        k = Erweiterungsfaktor (für ein Vertrauensintervall von 95 Prozent, k = 2)
-
-
-        c = Konzentration, für die die Messunsicherheit berechnet werden soll
-
-
-            u
-        R=  relative Messunsicherheit aufgrund der Vergleichbarkeit
-
-
-            u
-        st= relative Messunsicherheit des Kalibrierstandards (in erster Linie Reinheit); kann ignoriert werden, wenn < 1/3 u
-            R
-
-
-
-
-
-    **9** **Anmerkungen**
-
-        Die Vergleichbarkeit ist in der Methode nur für die Bereiche 0,12 bis 0,27 mg/l und 4 bis 10 mg/l angegeben. Die für den oberen Bereich angegebene Formel (R = 0,1 x) wird auf den Bereich von 0,28 bis 3,9 mg/l extrapoliert.
-
-
-
-
-
-
+#### Anlage 3 (weggefallen)
 
 (zu § 110 Satz 1 Nr. 9)
 

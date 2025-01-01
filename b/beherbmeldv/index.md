@@ -27,14 +27,14 @@ Auf Grund des § 56 Absatz 2 des Bundesmeldegesetzes vom 3. Mai 2013 (BGBl. I S.
 
 ## § 1 Anwendungsbereich
 
-Diese Verordnung regelt die Einzelheiten der elektronischen Speicherung und Bereitstellung der Daten von beherbergten Personen in Beherbergungsstätten nach § 29 Absatz 5 und § 30 Absatz 4 des Bundesmeldegesetzes durch die Leiter der Beherbergungsstätten oder der Einrichtungen nach § 29 Absatz 4 des Bundesmeldegesetzes.
+Diese Verordnung regelt die Einzelheiten der elektronischen Speicherung und Bereitstellung der Daten von beherbergten ausländischen Personen in Beherbergungsstätten nach § 29 Absatz 5 und § 30 Absatz 4 des Bundesmeldegesetzes durch die Leiter der Beherbergungsstätten oder der Einrichtungen nach § 29 Absatz 4 des Bundesmeldegesetzes.
 
 
 ## § 2 Dateispezifische Anforderungen
 
-(1) Die in § 1 genannten Leiter der Beherbergungsstätten oder der Einrichtungen haben zu jeder beherbergten Person nach § 29 Absatz 2 des Bundesmeldegesetzes einen Datensatz vollständig am Tag der Ankunft zu speichern.
+(1) Die in § 1 genannten Leiter der Beherbergungsstätten oder der Einrichtungen haben zu jeder beherbergten ausländischen Person nach § 29 Absatz 2 des Bundesmeldegesetzes einen Datensatz vollständig am Tag der Ankunft zu speichern.
 
-(2) Die Daten sind als strukturierter maschinenlesbarer Datensatz im Dateiformat der Extensible Markup Language (XML) zu speichern. Die Daten sind im UNICODE-Zeichensatz UTF 8 zu codieren. Das Bundesministerium des Innern, für Bau und Heimat gibt die Struktur des XML-Dokumentes als XML-Schema-Definition (XSD) im Bundesanzeiger bekannt.
+(2) Die Daten sind als strukturierter maschinenlesbarer Datensatz im Dateiformat der Extensible Markup Language (XML) zu speichern. Die Daten sind im UNICODE-Zeichensatz UTF 8 zu codieren. Das Bundesministerium des Innern und für Heimat gibt die Struktur des XML-Dokumentes als XML-Schema-Definition (XSD) im Bundesanzeiger bekannt.
 
 (3) Die Datei ist nach dem Muster „JJJJMMTT\_
 BeherbMeldeschein             \_Zaehler.xml“ zu benennen. Dabei ist einzusetzen:
@@ -158,21 +158,21 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *   AnzahlAngehoerige
 
-    *   Anzahl der mitreisenden Angehörigen gemäß § 29 Absatz 2 Satz 2 des Bundesmeldegesetzes
+    *   Anzahl der mitreisenden ausländischen Ehegatten, Lebenspartner und minderjährigen Kinder gemäß § 29 Absatz 2 Satz 2 des Bundesmeldegesetzes
 
 
 *    *   9.
 
     *   AnzahlMitreisende
 
-    *   Anzahl der Mitreisenden bei Reisegesellschaften gemäß § 29 Absatz 2 Satz 3 des Bundesmeldegesetzes
+    *   Anzahl der ausländischen Mitreisenden bei Reisegesellschaften gemäß § 29 Absatz 2 Satz 3 des Bundesmeldegesetzes
 
 
 *    *   10.
 
     *   StaatsangehoerigkeitMitreisende
 
-    *   sämtliche Staatsangehörigkeiten der Mitreisenden der Reisegesellschaften
+    *   sämtliche Staatsangehörigkeiten der ausländischen Mitreisenden der Reisegesellschaften
 
 
 *    *   11.

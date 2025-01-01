@@ -57,7 +57,7 @@ nach der Besoldungsgruppe A 9 die ruhegehaltfähige Stellenzulage nach Artikel I
 nach der Besoldungsgruppe A 12 die ruhegehaltfähige Stellenzulage nach Artikel II § 6 Abs. 3
 des Ersten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern.
 
-(3) Absatz 2 gilt in den Fällen des § 24a des Bundespolizeibeamtengesetzes, des § 27 Abs. 1 Satz 2 des Soldatenversorgungsgesetzes und des Artikels 3 Abs. 1 Satz 2 des Zweiten Gesetzes zur Änderung des Bundesbeamtengesetzes vom 28. Juli 1972 (Bundesgesetzbl. I S. 1288) entsprechend.
+(3) Absatz 2 gilt in den Fällen des § 24a des Bundespolizeibeamtengesetzes, des § 42 Absatz 1 Satz 2 des Soldatenversorgungsgesetzes und des Artikels 3 Abs. 1 Satz 2 des Zweiten Gesetzes zur Änderung des Bundesbeamtengesetzes vom 28. Juli 1972 (Bundesgesetzbl. I S. 1288) entsprechend.
 
 (4) In den Fällen des § 20 Abs. 1 Satz 2 des Bundespolizeibeamtengesetzes tritt zu den jeweils ruhegehaltfähigen Dienstbezügen aus der Endstufe der Besoldungsgruppe A 5, A 6, A 7 oder A 9 die ruhegehaltfähige Stellenzulage nach Artikel II § 6 Abs. 2 des Ersten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern.
 

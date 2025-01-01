@@ -248,9 +248,32 @@ Als Steuereinnahme eines Landes gilt ebenfalls seine Steuerkraftzahl der Grunder
 
 Für die von den Gemeinden geleistete Gewerbesteuerumlage sind die Feststellungen der Länder maßgebend.
 
-(2) Als Steuerkraftzahlen der Grundsteuer von den land- und forstwirtschaftlichen Betrieben, der Grundsteuer von den Grundstücken und der Gewerbesteuer werden jeweils für die einzelnen Länder die Beträge angesetzt, die sich ergeben, wenn die im Bundesgebiet insgesamt im Ausgleichsjahr aufgekommenen einzelnen Realsteuern im Verhältnis der länderweisen Grundbeträge dieser Steuern in dem dem Ausgleichsjahr vorausgehenden Kalenderjahr verteilt werden. Dabei sind die Grundbeträge maßgebend, die das Statistische Bundesamt nach dem Ergebnis der Gemeindefinanzstatistik festgestellt hat.
+(2) Als Steuerkraftzahlen der Gewerbesteuer werden jeweils für die einzelnen Länder die Beträge angesetzt, die sich ergeben, wenn die im Bundesgebiet insgesamt im Ausgleichsjahr aufgekommene Gewerbesteuer im Verhältnis der länderweisen Grundbeträge dieser Steuern in dem dem Ausgleichsjahr vorausgehenden Kalenderjahr verteilt werden. Dabei sind die Grundbeträge maßgebend, die das Statistische Bundesamt nach dem Ergebnis der Gemeindefinanzstatistik festgestellt hat. Als Steuerkraftzahlen der Grundsteuer von den land- und forstwirtschaftlichen Betrieben und der Grundsteuer von den Grundstücken werden für die einzelnen Länder jeweils die Beträge angesetzt, die sich ergeben, wenn die im Bundesgebiet insgesamt im Ausgleichsjahr aufgekommenen Grundsteuern jeweils im Verhältnis der Summen der nach bundesgesetzlich normiertem Bewertungsrecht berechneten Grundsteuermessbeträge, die die Länder für das dem Ausgleichsjahr vorausgehende Kalenderjahr für ihr Gebiet festzustellen haben, verteilt werden; dies gilt nicht, soweit das Statistische Bundesamt für alle Länder in bundeseinheitlicher Abgrenzung Grundbeträge der Grundsteuern festgestellt hat. Bei der Ermittlung der Summen nach Satz 3 ist unverhältnismäßiger Verwaltungsaufwand zu vermeiden. Für die Steuerpflichtigen darf durch das Verfahren zur Normierung des Grundsteueraufkommens keine gesonderte Erklärungspflicht entstehen.
 
 (3) Die Steuereinnahmen der Gemeinden eines Landes nach Absatz 1 werden je für sich auf 75 Prozent herabgesetzt.
+
+(4) Für die Ausgleichsjahre 2025 bis 2027 werden bei der Ermittlung der Steuerkraftzahlen der Grundsteuer von den land- und forstwirtschaftlichen Betrieben und der Grundsteuer von den Grundstücken abweichend von den Regelungen in Absatz 2 jeweils die vom Statistischen Bundesamt festgestellten Grundbeträge des Jahres 2024 angesetzt.
+
+(5) Für die Ausgleichsjahre 2028 und 2029 werden bei der Ermittlung der Steuerkraftzahlen der Grundsteuer von den land- und forstwirtschaftlichen Betrieben und der Grundsteuer von den Grundstücken abweichend von den Regelungen in Absatz 2 jeweils die Steuerkraftzahlen für jedes Land ermittelt, indem jeweils anteilig
+
+1.  die Grundbeträge nach Absatz 4
+
+    im Jahr 2028 zu 67 Prozent und
+
+    im Jahr 2029 zu 33 Prozent sowie
+
+
+2.  die für das dem Ausgleichsjahr vorangehende Kalenderjahr ermittelten Beträge gemäß Absatz 2
+
+    im Jahr 2028 zu 33 Prozent und
+
+    im Jahr 2029 zu 67 Prozent
+
+
+
+zugrunde gelegt werden.
+
+(6) Das Bundesministerium der Finanzen kann in der Verordnung nach § 14 Absatz 4 für die Ausgleichsjahre 2025 bis 2029 bei den Grundsteuern in Anlehnung an die Festlegungen in Absatz 4 von § 13 Nummer 2 abweichende Festlegungen treffen.
 
 
 ### § 9 Einwohnerzahl
@@ -309,56 +332,61 @@ Für die von den Gemeinden geleistete Gewerbesteuerumlage sind die Feststellunge
 
 Bund und Länder überprüfen gemeinsam in einem Abstand von drei Jahren, beginnend im Jahr 2022, in welcher Höhe die Sonderlasten dieser Länder ab dem jeweils folgenden Jahr auszugleichen sind. Die Sonderlasten sind entsprechend den im Jahr vor der Überprüfung gegebenen einwohnerbezogenen Verhältnissen der Bedarfsgemeinschaften und der Entwicklung der Kosten der Unterkunft im Durchschnitt der Länder Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen im Verhältnis zum Durchschnitt der Länder Baden-Württemberg, Bayern, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland und Schleswig-Holstein in Bezug zum Ausgangsjahr 2005 zu ermitteln.
 
-(4) Wegen überdurchschnittlich hoher Kosten politischer Führung erhalten nachstehende Länder jährlich folgende Sonderbedarfs-Bundesergänzungszuweisungen:
+(4) Wegen überdurchschnittlich hoher Kosten politischer Führung erhalten nachstehende Länder jährlich folgende Sonderbedarfs-Bundesergänzungszuweisungen, wenn sie im jeweiligen Ausgleichsjahr das Kriterium der Leistungsschwäche gemäß Absatz 2 Satz 2 erfüllen:
 
 *    *   Berlin
 
-    *   58 671 000 Euro,
+    *   62 831 000 Euro,
 
 
 *    *   Brandenburg
 
-    *   80 674 000 Euro,
+    *   76 524 000 Euro,
 
 
 *    *   Bremen
 
-    *   60 332 000 Euro,
+    *   62 501 000 Euro,
+
+
+*    *   Hamburg
+
+    *   78 699 000 Euro,
 
 
 *    *   Mecklenburg-Vorpommern
 
-    *   71 959 000 Euro,
+    *   77 987 000 Euro,
 
 
 *    *   Rheinland-Pfalz
 
-    *   48 337 000 Euro,
+    *   54 410 000 Euro,
 
 
 *    *   Saarland
 
-    *   66 309 000 Euro,
+    *   70 652 000 Euro,
 
 
 *    *   Sachsen
 
-    *   47 371 000 Euro,
+    *   54 510 000 Euro,
 
 
 *    *   Sachsen-Anhalt
 
-    *   70 993 000 Euro,
+    *   78 157 000 Euro,
 
 
 *    *   Schleswig-Holstein
 
-    *   66 308 000 Euro,
+    *   72 969 000 Euro,
 
 
 *    *   Thüringen
 
-    *   71 432 000 Euro.
+    *   78 404 000 Euro.
 
 
 
@@ -382,7 +410,7 @@ Das Bundesministerium der Finanzen stellt nach Ablauf des Ausgleichsjahres die e
 
 ### § 12a Abweichende Bestimmungen für die Ausgleichsjahre 2022 und 2023
 
-Für die Ausgleichsjahre 2022 und 2023 sind in der Rechtsverordnung nach § 12 die Unterschiede zwischen den fortgeschriebenen Einwohnerzahlen der Länder auf der Grundlage des Zensus 2022 einerseits und den fortgeschriebenen Einwohnerzahlen der Länder auf der Grundlage des Zensus 2011 andererseits wie folgt zu berücksichtigen: Die Einwohnerzahlen der Länder nach den §§ 2, 7 Absatz 3 und § 9 Absatz 1 werden ermittelt, indem den Einwohnerzahlen der Länder auf der Grundlage des Zensus 2011 für das Ausgleichsjahr 2022 ein Drittel und für das Ausgleichsjahr 2023 zwei Drittel der Unterschiede nach Satz 1 hinzugerechnet werden.
+Für die Ausgleichsjahre 2022 und 2023 sind in der Rechtsverordnung nach § 12 die Unterschiede zwischen den fortgeschriebenen Einwohnerzahlen der Länder auf der Grundlage des Zensus 2022 einerseits und den fortgeschriebenen Einwohnerzahlen der Länder auf der Grundlage des Zensus 2011 andererseits wie folgt zu berücksichtigen: Die Einwohnerzahlen der Länder nach den §§ 2, 7 Absatz 3 und § 9 Absatz 1 werden ermittelt, indem den Einwohnerzahlen der Länder auf der Grundlage des Zensus 2011 für das Ausgleichsjahr 2022 ein Drittel und für das Ausgleichsjahr 2023 zwei Drittel der Unterschiede nach Satz 1 hinzugerechnet werden. Für die in Satz 1 genannten Jahre wird jeweils eine weitere Zwischenabrechnung im Sinne von § 14 Absatz 3 sowie jeweils eine weitere Verrechnung im Sinne von § 16 erstellt. Die sich hieraus ergebenden Zahlungen werden für das Ausgleichsjahr 2022 zusammen mit den Zahlungen gemäß § 14 Absatz 3 und § 16 für das zweite Quartal 2025 und für das Ausgleichsjahr 2023 zusammen mit den Zahlungen gemäß § 14 Absatz 3 und § 16 für das erste Quartal 2026 entrichtet.
 
 
 ### § 13 Verteilung der Umsatzsteuer und Vollzug des Finanzkraftausgleichs während des Ausgleichsjahres

@@ -28,7 +28,7 @@ Auf Grund des § 30a Abs. 5 und des § 93 Abs. 2 Nr. 5 des Soldatengesetzes in d
 
 ## § 1 Zulässigkeit von Teilzeitbeschäftigung
 
-Teilzeitbeschäftigung ist in folgenden Wehrdienstarten zulässig:
+(1) Teilzeitbeschäftigung ist in folgenden Wehrdienstarten zulässig:
 
 1.  Wehrdienst als Berufssoldatin oder Berufssoldat,
 
@@ -40,6 +40,19 @@ Teilzeitbeschäftigung ist in folgenden Wehrdienstarten zulässig:
 
 
 
+
+(2) Die Teilzeitbeschäftigung ist ausnahmsweise über die Dauer von zwölf Jahren hinaus zulässig, wenn
+
+1.  mindestens ein Kind unter zwölf Jahren oder
+
+
+2.  ein pflegebedürftiger sonstiger Angehöriger
+
+
+
+tatsächlich betreut oder gepflegt wird und zwingende dienstliche Gründe nicht entgegenstehen.
+
+(3) In den Fällen des Absatzes 2 kann die Teilzeitbeschäftigung auch im Umfang von weniger als der Hälfte der regelmäßigen Arbeitszeit bewilligt werden, wenn keine zwingenden dienstlichen Gründe entgegenstehen.
 
 
 ## § 2 Antragsverfahren

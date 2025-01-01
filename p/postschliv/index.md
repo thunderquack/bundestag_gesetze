@@ -280,7 +280,7 @@ Für die Durchführung des Schlichtungsverfahrens werden Gebühren und Auslagen 
 
 ### § 17 Zugangsvermutung
 
-Schriftstücke, die auf Veranlassung der Schlichtungsstelle durch einen Postdienstleister im Inland an eine Partei übermittelt werden, gelten mit dem dritten Tage nach der Aufgabe zur Post als zugegangen.
+Schriftstücke, die auf Veranlassung der Schlichtungsstelle durch einen Postdienstleister im Inland an eine Partei übermittelt werden, gelten mit dem vierten Tage nach der Aufgabe zur Post als zugegangen.
 
 
 ### § 18 Anwendbare Vorschriften der Zivilprozessordnung

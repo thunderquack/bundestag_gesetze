@@ -355,7 +355,7 @@ Soweit Vermögen einer Körperschaft durch Aufspaltung oder Abspaltung auf eine 
 
 Der Antrag ist spätestens bis zur erstmaligen Abgabe der steuerlichen Schlussbilanz bei dem für die Besteuerung der übernehmenden Gesellschaft zuständigen Finanzamt zu stellen. Erhält der Einbringende neben den neuen Gesellschaftsanteilen auch sonstige Gegenleistungen, ist das eingebrachte Betriebsvermögen abweichend von Satz 2 mindestens mit dem gemeinen Wert der sonstigen Gegenleistungen anzusetzen, wenn dieser den sich nach Satz 2 ergebenden Wert übersteigt. Das eingebrachte Betriebsvermögen im Sinne von Satz 2 Nummer 2 und 4 sowie Satz 4 ermittelt sich unter Berücksichtigung der Entnahmen und Einlagen im Sinne des Absatzes 5 Satz 2.
 
-(3) Der Wert, mit dem die übernehmende Gesellschaft das eingebrachte Betriebsvermögen ansetzt, gilt für den Einbringenden als Veräußerungspreis und als Anschaffungskosten der Gesellschaftsanteile. Ist das Recht der Bundesrepublik Deutschland hinsichtlich der Besteuerung des Gewinns aus der Veräußerung des eingebrachten Betriebsvermögens im Zeitpunkt der Einbringung ausgeschlossen und wird dieses auch nicht durch die Einbringung begründet, gilt für den Einbringenden insoweit der gemeine Wert des Betriebsvermögens im Zeitpunkt der Einbringung als Anschaffungskosten der Anteile. Soweit neben den Gesellschaftsanteilen auch andere Wirtschaftsgüter gewährt werden, ist deren gemeiner Wert bei der Bemessung der Anschaffungskosten der Gesellschaftsanteile von dem sich nach den Sätzen 1 und 2 ergebenden Wert abzuziehen. Umfasst das eingebrachte Betriebsvermögen auch einbringungsgeborene Anteile im Sinne von § 21 Abs. 1 in der Fassung der Bekanntmachung vom 15. Oktober 2002 (BGBl. I S. 4133, 2003 I S. 738), geändert durch Artikel 3 des Gesetzes vom 16. Mai 2003 (BGBl. I S. 660), gelten die erhaltenen Anteile insoweit auch als einbringungsgeboren im Sinne von § 21 Abs. 1 in der Fassung der Bekanntmachung vom 15. Oktober 2002 (BGBl. I S. 4133, 2003 I S. 738), geändert durch Artikel 3 des Gesetzes vom 16. Mai 2003 (BGBl. I S. 660).
+(3) Der Wert, mit dem die übernehmende Gesellschaft das eingebrachte Betriebsvermögen ansetzt, gilt für den Einbringenden als Veräußerungspreis und als Anschaffungskosten der Gesellschaftsanteile. Ist das Recht der Bundesrepublik Deutschland hinsichtlich der Besteuerung des Gewinns aus der Veräußerung des eingebrachten Betriebsvermögens im Zeitpunkt der Einbringung ausgeschlossen und wird dieses auch nicht durch die Einbringung begründet, gilt für den Einbringenden insoweit der gemeine Wert des Betriebsvermögens im Zeitpunkt der Einbringung als Anschaffungskosten der Anteile. Soweit neben den Gesellschaftsanteilen auch andere Wirtschaftsgüter gewährt werden, ist deren gemeiner Wert bei der Bemessung der Anschaffungskosten der Gesellschaftsanteile von dem sich nach den Sätzen 1 und 2 ergebenden Wert abzuziehen.
 
 (4) Auf einen bei der Sacheinlage entstehenden Veräußerungsgewinn ist § 16 Abs. 4 des Einkommensteuergesetzes nur anzuwenden, wenn der Einbringende eine natürliche Person ist, es sich nicht um die Einbringung von Teilen eines Mitunternehmeranteils handelt und die übernehmende Gesellschaft das eingebrachte Betriebsvermögen mit dem gemeinen Wert ansetzt. In diesen Fällen ist § 34 Abs. 1 und 3 des Einkommensteuergesetzes nur anzuwenden, soweit der Veräußerungsgewinn nicht nach § 3 Nr. 40 Satz 1 in Verbindung mit § 3c Abs. 2 des Einkommensteuergesetzes teilweise steuerbefreit ist.
 
@@ -400,7 +400,7 @@ Der Antrag ist spätestens bis zur erstmaligen Abgabe der steuerlichen Schlussbi
 
 
 
-Der Antrag ist spätestens bis zur erstmaligen Abgabe der Steuererklärung bei dem für die Besteuerung des Einbringenden zuständigen Finanzamt zu stellen. Haben die eingebrachten Anteile beim Einbringenden nicht zu einem Betriebsvermögen gehört, treten an die Stelle des Buchwerts die Anschaffungskosten. § 20 Abs. 3 Satz 3 und 4 gilt entsprechend.
+Der Antrag ist spätestens bis zur erstmaligen Abgabe der Steuererklärung bei dem für die Besteuerung des Einbringenden zuständigen Finanzamt zu stellen. Haben die eingebrachten Anteile beim Einbringenden nicht zu einem Betriebsvermögen gehört, treten an die Stelle des Buchwerts die Anschaffungskosten. § 20 Abs. 3 Satz 3 gilt entsprechend.
 
 (3) Auf den beim Anteilstausch entstehenden Veräußerungsgewinn ist § 17 Abs. 3 des Einkommensteuergesetzes nur anzuwenden, wenn der Einbringende eine natürliche Person ist und die übernehmende Gesellschaft die eingebrachten Anteile nach Absatz 1 Satz 1 oder in den Fällen des Absatzes 2 Satz 2 der Einbringende mit dem gemeinen Wert ansetzt; dies gilt für die Anwendung von § 16 Abs. 4 des Einkommensteuergesetzes unter der Voraussetzung, dass eine im Betriebsvermögen gehaltene Beteiligung an einer Kapitalgesellschaft eingebracht wird, die das gesamte Nennkapital der Kapitalgesellschaft umfasst. § 34 Abs. 1 des Einkommensteuergesetzes findet keine Anwendung.
 
@@ -552,24 +552,22 @@ In den Fällen des Formwechsels einer Personengesellschaft in eine Kapitalgesell
 
 (3) Abweichend von Absatz 2 ist
 
-1.  § 5 Abs. 4 für einbringungsgeborene Anteile im Sinne von § 21 Abs. 1 mit der Maßgabe weiterhin anzuwenden, dass die Anteile zu dem Wert im Sinne von § 5 Abs. 2 oder Abs. 3 in der Fassung des Absatzes 1 als zum steuerlichen Übertragungsstichtag in das Betriebsvermögen des übernehmenden Rechtsträgers überführt gelten,
+1.  § 5 Absatz 4 für einbringungsgeborene Anteile im Sinne von § 21 Absatz 1 mit der Maßgabe weiterhin anzuwenden, dass die Anteile zu dem Wert im Sinne von § 5 Absatz 2 oder Absatz 3 in der Fassung des Absatzes 1 als zum steuerlichen Übertragungsstichtag in das Betriebsvermögen des übernehmenden Rechtsträgers überführt gelten, sofern der steuerliche Übertragungsstichtag vor dem 1. Januar 2025 liegt,
 
 
-2.  § 20 Abs. 6 in der am 21. Mai 2003 geltenden Fassung für die Fälle des Ausschlusses des Besteuerungsrechts (§ 20 Abs. 3) weiterhin anwendbar, wenn auf die Einbringung Absatz 2 anzuwenden war,
+2.  § 21 in der am 21. Mai 2003 geltenden Fassung für einbringungsgeborene Anteile im Sinne von § 21 Absatz 1, die auf einem Einbringungsvorgang beruhen, auf den Absatz 2 anwendbar war, letztmals anzuwenden, wenn das die Besteuerung auslösende Ereignis vor dem 1. Januar 2025 eintritt. Für § 21 Absatz 2 Satz 1 Nummer 2 in der am 21. Mai 2003 geltenden Fassung gilt dies mit der Maßgabe, dass
+
+    a)  eine Stundung der Steuer gemäß § 6 Absatz 5 des Außensteuergesetzes in der Fassung des Gesetzes vom 7. Dezember 2006 (BGBl. I S. 2782) erfolgt, wenn die Einkommensteuer noch nicht bestandskräftig festgesetzt ist und das die Besteuerung auslösende Ereignis vor dem 1. Januar 2022 eingetreten ist; § 6 Absatz 6 und 7 des Außensteuergesetzes in der bis zum 30. Juni 2021 geltenden Fassung und § 21 Absatz 3 Satz 2 des Außensteuergesetzes sind entsprechend anzuwenden;
 
 
-3.  § 21 in der am 21. Mai 2003 geltenden Fassung für einbringungsgeborene Anteile im Sinne von § 21 Absatz 1, die auf einem Einbringungsvorgang beruhen, auf den Absatz 2 anwendbar war, weiterhin anzuwenden. Für § 21 Absatz 2 Satz 1 Nummer 2 in der am 21. Mai 2003 geltenden Fassung gilt dies mit der Maßgabe, dass
-
-    a)  eine Stundung der Steuer gemäß § 6 Absatz 5 des Außensteuergesetzes in der Fassung des Gesetzes vom 7. Dezember 2006 (BGBl. I S. 2782) erfolgt, wenn die Einkommensteuer noch nicht bestandskräftig festgesetzt ist und das die Besteuerung auslösende Ereignis vor dem 1. Januar 2022 eingetreten ist; § 6 Absatz 6 und 7 des Außensteuergesetzes in der bis zum 30. Juni 2021 geltenden Fassung und § 21 Absatz 3 Satz 2 des Außensteuergesetzes sind entsprechend anzuwenden;
-
-
-    b)  eine Stundung oder ein Entfallen der Steuer gemäß § 6 Absatz 3 und 4 des Außensteuergesetzes in der ab dem 1. Juli 2021 geltenden Fassung auf Antrag des Steuerpflichtigen erfolgt, wenn das die Besteuerung auslösende Ereignis nach dem 31. Dezember 2021 eintritt; § 6 Absatz 5 des Außensteuergesetzes ist entsprechend anzuwenden.
+    b)  eine Stundung oder ein Entfallen der Steuer gemäß § 6 Absatz 3 und 4 des Außensteuergesetzes in der ab dem 1. Juli 2021 geltenden Fassung auf Antrag des Steuerpflichtigen erfolgt, wenn das die Besteuerung auslösende Ereignis nach dem 31. Dezember 2021 eintritt; § 6 Absatz 5 des Außensteuergesetzes ist entsprechend anzuwenden.
 
 
 
 
 
 
+§ 20 Absatz 3 Satz 4 und § 21 Absatz 2 Satz 6 in der Fassung des Gesetzes vom 7. Dezember 2006 (BGBl. I S. 2782) sind letztmals anzuwenden, wenn die Sacheinlage im Sinne von § 20 Absatz 1 oder der Anteilstausch im Sinne von § 21 Absatz 1 vor dem 1. Januar 2025 erfolgt.
 
 (4) Abweichend von Absatz 1 sind §§ 22, 23 und 24 Abs. 5 nicht anzuwenden, soweit hinsichtlich des Gewinns aus der Veräußerung der Anteile oder einem gleichgestellten Ereignis im Sinne von § 22 Abs. 1 die Steuerfreistellung nach § 8b Abs. 4 des Körperschaftsteuergesetzes in der am 12. Dezember 2006 geltenden Fassung oder nach § 3 Nr. 40 Satz 3 und 4 des Einkommensteuergesetzes in der am 12. Dezember 2006 geltenden Fassung ausgeschlossen ist.
 

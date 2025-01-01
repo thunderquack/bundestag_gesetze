@@ -163,7 +163,7 @@ Bei den Dienstbezügen nach Satz 1 Nummer 1 und 2 sind die Dienstbezüge maßgeb
 
 ## § 6 Altersgeldfähige Dienstzeit
 
-(1) Altersgeldfähig ist die Dienstzeit, die der Beamte von der ersten Berufung in das Beamtenverhältnis an im Dienst eines öffentlich-rechtlichen Dienstherrn im Beamtenverhältnis zurückgelegt hat. Bei Berufssoldaten ist die Wehrdienstzeit nach § 2 Absatz 1 Satz 1 des Soldatenversorgungsgesetzes altersgeldfähig. § 6 Absatz 1 Satz 2 und Absatz 2 des Beamtenversorgungsgesetzes gilt entsprechend; § 6a des Beamtenversorgungsgesetzes ist mit der Maßgabe anzuwenden, dass der Antrag nach § 6a Absatz 4 Satz 2 des Beamtenversorgungsgesetzes nur innerhalb von zwölf Monaten nach der Leistungsgewährung im Sinne des § 10 Absatz 2 und 3 gestellt werden kann. Zeiten einer Teilzeitbeschäftigung sind nur zu dem Teil altersgeldfähig, der dem Verhältnis der ermäßigten zur regelmäßigen Arbeitszeit entspricht; dies gilt auch für Zeiten einer eingeschränkten Verwendung wegen begrenzter Dienstfähigkeit nach § 45 des Bundesbeamtengesetzes.
+(1) Altersgeldfähig ist die Dienstzeit, die der Beamte von der ersten Berufung in das Beamtenverhältnis an im Dienst eines öffentlich-rechtlichen Dienstherrn im Beamtenverhältnis zurückgelegt hat. Bei Berufssoldaten ist die Wehrdienstzeit nach § 3 Satz 1 des Soldatenversorgungsgesetzes altersgeldfähig. § 6 Absatz 1 Satz 2 und Absatz 2 des Beamtenversorgungsgesetzes gilt entsprechend; § 6a des Beamtenversorgungsgesetzes ist mit der Maßgabe anzuwenden, dass der Antrag nach § 6a Absatz 4 Satz 2 des Beamtenversorgungsgesetzes nur innerhalb von zwölf Monaten nach der Leistungsgewährung im Sinne des § 10 Absatz 2 und 3 gestellt werden kann. Zeiten einer Teilzeitbeschäftigung sind nur zu dem Teil altersgeldfähig, der dem Verhältnis der ermäßigten zur regelmäßigen Arbeitszeit entspricht; dies gilt auch für Zeiten einer eingeschränkten Verwendung wegen begrenzter Dienstfähigkeit nach § 45 des Bundesbeamtengesetzes.
 
 (2) Der im Beamtenverhältnis zurückgelegten Dienstzeit steht die im Richterverhältnis zurückgelegte Dienstzeit gleich. Der Wehrdienstzeit steht die Zeit des Ruhens der Rechte und Pflichten nach § 25 Absatz 5 des Soldatengesetzes gleich.
 
@@ -172,7 +172,7 @@ Bei den Dienstbezügen nach Satz 1 Nummer 1 und 2 sind die Dienstbezüge maßgeb
 1.  gelten bei Beamten und Richtern auch die im berufsmäßigen oder nichtberufsmäßigen Wehrdienst zurückgelegten Zeiten in entsprechender Anwendung der §§ 8 und 9 des Beamtenversorgungsgesetzes,
 
 
-2.  gilt bei Berufssoldaten auch die Zeit nach § 64 Absatz 1 Satz 1 Nummer 1 und 4 des Soldatenversorgungsgesetzes.
+2.  gilt bei Berufssoldaten auch die Zeit nach § 92 Absatz 1 Satz 1 Nummer 1 und 4 des Soldatenversorgungsgesetzes.
 
 
 

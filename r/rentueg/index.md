@@ -51,7 +51,7 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 4.  erreichte Altersvorsorgeansprüche: die bis zum Stichtag der Standmitteilung erworbenen Ansprüche aus Altersvorsorgeprodukten (Altersvorsorgeansprüche) bei Beginn des Leistungsbezugs oder bei Ablauf des Vertrages unter der Annahme, dass keine weiteren Ansprüche erworben werden,
 
 
-5.  erreichbare Altersvorsorgeansprüche: die Altersvorsorgeansprüche bei Beginn des Leistungsbezugs oder bei Ablauf des Vertrages unter der Annahme, dass bis dahin weitere Ansprüche erworben werden,
+5.  erreichbare Altersvorsorgeansprüche: die Altersvorsorgeansprüche bei Beginn des Leistungsbezugs oder bei Ablauf des Vertrages unter der Annahme, dass bis dahin weitere Ansprüche erworben werden; ist ein weiterer Erwerb von Ansprüchen insbesondere aus vertraglichen oder versicherungsrechtlichen Gründen nicht vorgesehen oder zu erwarten, entsprechen die erreichbaren Altersvorsorgeansprüche den erreichten Altersvorsorgeansprüchen,
 
 
 6.  garantierte Werte: die erreichten oder erreichbaren Altersvorsorgeansprüche, die nach geltendem Recht mindestens entstanden sind oder entstehen werden oder vertraglich zugesichert sind,
@@ -75,6 +75,8 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 (3) Die Informationen in der Digitalen Rentenübersicht sollen von der Zentralen Stelle für die Digitale Rentenübersicht klar, prägnant, verständlich und schlüssig dargestellt werden. Die Darstellung soll möglichst übersichtlich und nutzerfreundlich sein. Die Zentrale Stelle für die Digitale Rentenübersicht hat sowohl für die Digitale Rentenübersicht als auch für das elektronische Portal die jeweils geltenden Vorgaben zur Barrierefreiheit nach dem Behindertengleichstellungsgesetz, insbesondere die §§ 4 und 12a des Behindertengleichstellungsgesetzes, sowie die auf Grundlage des Behindertengleichstellungsgesetzes erlassenen Rechtsverordnungen zur Barrierefreiheit, insbesondere die Barrierefreie-Informationstechnik-Verordnung, zu beachten.
 
 (4) Die Zentrale Stelle für die Digitale Rentenübersicht erteilt Bürgerinnen und Bürgern Auskunft zu ihren Verfahren und zur Zusammenführung der Informationen. Sie erteilt keine Auskünfte über die Altersvorsorgeansprüche aus den einzelnen Altersvorsorgeprodukten der jeweiligen Vorsorgeeinrichtungen. Die Zentrale Stelle für die Digitale Rentenübersicht erteilt Vorsorgeeinrichtungen Auskunft über die Anwendung dieses Gesetzes.
+
+(5) Die Zentrale Stelle für die Digitale Rentenübersicht hat die Nutzung der Digitalen Rentenübersicht für statistische Zwecke zu erfassen und auszuwerten.
 
 
 ## § 4 Grundsätze der Digitalen Rentenübersicht
@@ -172,7 +174,10 @@ Die angebundenen Vorsorgeeinrichtungen sind berechtigt, die Identifikationsnumme
 1.  zum Inhalt und Umfang der in § 3 bestimmten Aufgaben der Zentralen Stelle für die Digitale Rentenübersicht,
 
 
-2.  zum Verfahren für die Authentifizierung der Nutzenden nach § 12 Absatz 1.
+2.  zum Verfahren für die Authentifizierung der Nutzenden nach § 12 Absatz 1,
+
+
+3.  zu Inhalt, Art und Form der statistischen Erfassung und Auswertung von Daten nach § 3 Absatz 5 sowie zu deren Übermittlung an das Bundesministerium für Arbeit und Soziales.
 
 
 

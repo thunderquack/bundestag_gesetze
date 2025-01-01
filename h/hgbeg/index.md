@@ -991,3 +991,24 @@ Die §§ 289f, 334 Absatz 1, § 340n Absatz 1 und § 341n Absatz 1 des Handelsge
 
 Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von § 335 Absatz 2a und § 335a Absatz 4 des Handelsgesetzbuchs in Papierform erstellt, geführt und übermittelt werden. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von § 335 Absatz 2a und § 335a Absatz 4 des Handelsgesetzbuchs in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
 
+
+## Sechsundfünfzigster Abschnitt - Übergangsvorschrift zum Vierten Bürokratieentlastungsgesetz
+
+
+
+### Art 95
+
+§ 257 Absatz 4 des Handelsgesetzbuchs in der ab dem 1. Januar 2025 geltenden Fassung ist vorbehaltlich des Satzes 2 erstmals auf Unterlagen anzuwenden, deren Aufbewahrungsfrist nach § 257 Absatz 4 des Handelsgesetzbuchs in der bis einschließlich 31. Dezember 2024 geltenden Fassung noch nicht abgelaufen ist. Abweichend von Satz 1 ist bei Personen oder Gesellschaften, die
+
+1.  Institute im Sinne des § 1 Absatz 1b des Kreditwesengesetzes sind, einschließlich Zweigstellen nach § 53 des Kreditwesengesetzes,
+
+
+2.  der Aufsicht nach § 1 Absatz 1 des Versicherungsaufsichtsgesetzes unterliegen oder
+
+
+3.  Wertpapierinstitute im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes sind,
+
+
+
+§ 257 Absatz 4 des Handelsgesetzbuchs in der ab dem 1. Januar 2025 geltenden Fassung erstmals auf Unterlagen anzuwenden, deren Aufbewahrungsfrist nach § 257 Absatz 4 des Handelsgesetzbuchs in der bis einschließlich 31. Dezember 2024 geltenden Fassung am 1. Januar 2026 noch nicht abgelaufen ist.
+

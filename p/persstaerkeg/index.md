@@ -100,22 +100,22 @@ Die Versorgung der von Abschnitt I erfaßten Berufssoldaten und Soldaten auf Zei
 
 ### § 6
 
-(1) § 15 Abs. 1 des Soldatenversorgungsgesetzes in der Fassung der Bekanntmachung vom 5. März 1987 (BGBl. I S. 842), das zuletzt durch Artikel 7 des Gesetzes vom 6. Dezember 1991 (BGBl. I S. 2142) geändert worden ist, findet auch Anwendung auf Berufssoldaten, die nach § 2 in den Ruhestand versetzt worden sind.
+(1) § 27 Absatz 1 des Soldatenversorgungsgesetzes in der Fassung der Bekanntmachung vom 5. März 1987 (BGBl. I S. 842), das zuletzt durch Artikel 7 des Gesetzes vom 6. Dezember 1991 (BGBl. I S. 2142) geändert worden ist, findet auch Anwendung auf Berufssoldaten, die nach § 2 in den Ruhestand versetzt worden sind.
 
 (2) In den Fällen der §§ 1 und 2 erhöht sich die ruhegehaltfähige Dienstzeit um die Zeit von der Versetzung in den Ruhestand an bis zum Ablauf des Monats, von dem an der Berufssoldat nach § 44 Abs. 2 in Verbindung mit § 45 Abs. 2 und 3 des Soldatengesetzes in der vor Inkrafttreten dieses Gesetzes geltenden Fassung in den Ruhestand hätte versetzt werden können. Unterliegt der Berufssoldat in den Fällen des § 2 nur der allgemeinen Altersgrenze des § 44 Abs. 1 des Soldatengesetzes, erhöht sich die ruhegehaltfähige Dienstzeit nach Satz 1 um die Zeit bis zum Ablauf des Monats, in dem er wegen Erreichens der allgemeinen Altersgrenze in den Ruhestand getreten wäre. Die Sätze 1 und 2 gelten nicht, soweit diese Zeiten bereits nach anderen Vorschriften als ruhegehaltfähig berücksichtigt werden.
 
-(3) Darüber hinaus gelten § 26 Abs. 2 und § 94b des Soldatenversorgungsgesetzes entsprechend.
+(3) Darüber hinaus gelten § 40 Absatz 2 und § 115 des Soldatenversorgungsgesetzes entsprechend.
 
-(4) § 17 Abs. 2 Satz 1 des Soldatenversorgungsgesetzes gilt entsprechend.
+(4) § 29 Absatz 2 Satz 1 des Soldatenversorgungsgesetzes gilt entsprechend.
 
-(5) § 18 Abs. 1 des Soldatenversorgungsgesetzes findet keine Anwendung.
+(5) § 30 Absatz 1 des Soldatenversorgungsgesetzes findet keine Anwendung.
 
 (6) (weggefallen)
 
 
 ### § 7
 
-(1) Berufssoldaten, die nach § 1 in den Ruhestand versetzt worden sind, erhalten unbeschadet der Regelung des § 38 des Soldatenversorgungsgesetzes einen einmaligen Ausgleich für die Anzahl der Monate, um die die Versetzung in den Ruhestand vor dem Zeitpunkt liegt, von dem an die Berufssoldaten nach § 44 Abs. 2 in Verbindung mit § 45 Abs. 2 und 3 des Soldatengesetzes in der vor Inkrafttreten dieses Gesetzes geltenden Fassung in den Ruhestand hätten versetzt werden können. Der Ausgleich beträgt bei einer Vorverlegung der Zurruhesetzung um
+(1) Berufssoldaten, die nach § 1 in den Ruhestand versetzt worden sind, erhalten unbeschadet der Regelung des § 53 des Soldatenversorgungsgesetzes einen einmaligen Ausgleich für die Anzahl der Monate, um die die Versetzung in den Ruhestand vor dem Zeitpunkt liegt, von dem an die Berufssoldaten nach § 44 Abs. 2 in Verbindung mit § 45 Abs. 2 und 3 des Soldatengesetzes in der vor Inkrafttreten dieses Gesetzes geltenden Fassung in den Ruhestand hätten versetzt werden können. Der Ausgleich beträgt bei einer Vorverlegung der Zurruhesetzung um
 
 *    *   einen bis drei Monate
 
@@ -139,7 +139,7 @@ Die Versorgung der von Abschnitt I erfaßten Berufssoldaten und Soldaten auf Zei
 
 
 
-(2) Für Berufssoldaten, die nach § 2 in den Ruhestand versetzt worden sind, findet § 38 des Soldatenversorgungsgesetzes entsprechende Anwendung. Darüber hinaus gilt § 4 Abs. 1 Satz 1 des Bundesbesoldungsgesetzes entsprechend mit der Maßgabe, daß der Mehrbetrag, der auf der Weitergewährung der Besoldung anstelle von Ruhegehalt beruht, insgesamt viertausend Deutsche Mark nicht übersteigen darf.
+(2) Für Berufssoldaten, die nach § 2 in den Ruhestand versetzt worden sind, findet § 53 des Soldatenversorgungsgesetzes entsprechende Anwendung. Darüber hinaus gilt § 4 Abs. 1 Satz 1 des Bundesbesoldungsgesetzes entsprechend mit der Maßgabe, daß der Mehrbetrag, der auf der Weitergewährung der Besoldung anstelle von Ruhegehalt beruht, insgesamt viertausend Deutsche Mark nicht übersteigen darf.
 
 
 ### § 8

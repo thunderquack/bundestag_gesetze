@@ -162,7 +162,7 @@ Für die in ein Reservewehrdienstverhältnis Berufenen gelten die §§ 5 und 9 A
 
 ### § 11 Versorgung
 
-Erleidet eine Soldatin oder ein Soldat im Reservewehrdienstverhältnis bei der Verrichtung des Wehrdienstes eine Schädigung, richtet sich die Versorgung nach dem Soldatenversorgungsgesetz.
+Erleidet eine Soldatin oder ein Soldat im Reservewehrdienstverhältnis bei der Verrichtung des Wehrdienstes eine gesundheitliche Schädigung, richtet sich die Versorgung nach dem Soldatenversorgungsgesetz und dem Soldatenentschädigungsgesetz.
 
 
 ### § 12 Beendigungsgründe

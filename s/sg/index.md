@@ -69,10 +69,10 @@ Zuletzt geändert durch
 
 (2) Bei der Feststellung der Dienstfähigkeit sowie bei Ernennungs- und Verwendungsentscheidungen kann ein geringeres Maß der körperlichen Eignung verlangt werden, soweit die Einschränkung der körperlichen Eignung zurückzuführen ist auf
 
-1.  eine Wehrdienstbeschädigung im Sinne des § 81 Absatz 1 oder Absatz 2 Nummer 1 oder 3 des Soldatenversorgungsgesetzes oder
+1.  eine Wehrdienstbeschädigung im Sinne des § 3 Absatz 1 des Soldatenentschädigungsgesetzes oder
 
 
-2.  einen Einsatzunfall im Sinne des § 63c Absatz 2 des Soldatenversorgungsgesetzes.
+2.  einen Einsatzunfall im Sinne des § 87 Absatz 2 des Soldatenversorgungsgesetzes.
 
 
 
@@ -691,7 +691,7 @@ Mit der Verarbeitung der Daten dürfen nur Personen betraut werden, die in § 20
 1.  für Zwecke der wissenschaftlichen oder historischen Forschung oder für statistische Zwecke nach Maßgabe des § 27 des Bundesdatenschutzgesetzes sowie
 
 
-2.  aus zwingenden Gründen der Verteidigung nach Maßgabe des § 22 Absatz 1 Nummer 2 Buchstabe d und Absatz 2 des Bundesdatenschutzgesetzes.
+2.  aus zwingenden Gründen der Verteidigung nach Maßgabe des § 22 Absatz 1 Nummer 1 Buchstabe d und Absatz 2 des Bundesdatenschutzgesetzes.
 
 
 
@@ -701,7 +701,8 @@ Mit der Verarbeitung der Daten dürfen nur Personen betraut werden, die in § 20
 
 (1) Für jeden Soldaten ist eine Gesundheitsakte zu führen. Die Gesundheitsakte besteht aus der Gesundheitsgrundakte und aus fall- sowie fachrichtungsbezogenen Gesundheitsteilakten. Das Bundesministerium der Verteidigung legt fest, welche Teile der Gesundheitsakte elektronisch zu führen sind. § 114 Absatz 2 des Bundesbeamtengesetzes gilt entsprechend. § 114 Absatz 3 des Bundesbeamtengesetzes ist auf die Gesundheitsakte nicht anzuwenden.
 
-(2) Die Gesundheitsakte ist eine Teilakte der Personalakte. Sie ist getrennt von der übrigen Personalakte zu bearbeiten und aufzubewahren. Der Zugang ist auf das fachlich und fachaufsichtlich zuständige Sanitätspersonal zu beschränken. § 107 des Bundesbeamtengesetzes ist nicht anzuwenden. § 110 Absatz 2 des Bundesbeamtengesetzes ist auf die Gesundheitsakte mit der Maßgabe anzuwenden, dass der ausdrückliche oder mutmaßliche Wille des Verstorbenen der Erteilung einer Auskunft an die Bevollmächtigten des Soldaten, an seine Hinterbliebenen oder an deren Bevollmächtigte nicht entgegenstehen darf.
+(2) Die Gesundheitsakte ist eine Teilakte der Personalakte. Sie ist getrennt von der übrigen Personalakte zu bearbeiten und aufzubewahren. Der Zugang ist auf das fachlich und fachaufsichtlich zuständige Sanitätspersonal zu beschränken. § 107 des Bundesbeamtengesetzes ist nicht anzuwenden.
+§ 110 Absatz 3              des Bundesbeamtengesetzes ist auf die Gesundheitsakte mit der Maßgabe anzuwenden, dass der ausdrückliche oder mutmaßliche Wille des Verstorbenen der Erteilung einer Auskunft an die Bevollmächtigten des Soldaten, an seine Hinterbliebenen oder an deren Bevollmächtigte nicht entgegenstehen darf.
 
 (3) Soweit für laufende oder künftige Untersuchungen, Behandlungen oder Begutachtungen erforderlich, sind in der Gesundheitsakte zu dokumentieren:
 
@@ -828,7 +829,16 @@ Werden Privatgeheimnisse, die zugleich Daten im Sinne des § 29b Absatz 3 oder 6
 
 #### § 30a Teilzeitbeschäftigung, Familienpflegezeit und Pflegezeit
 
-(1) Einem Soldaten kann auf Antrag Teilzeitbeschäftigung im Umfang von mindestens der Hälfte der regelmäßigen Arbeitszeit nach § 30c Absatz 1 und bis zur jeweils beantragten Dauer, längstens für zwölf Jahre bewilligt werden, soweit dienstliche Gründe nicht entgegenstehen. Die Teilzeitbeschäftigung soll bewilligt werden, wenn er mindestens ein Kind unter 18 Jahren oder einen pflegebedürftigen sonstigen Angehörigen tatsächlich betreut oder pflegt und zwingende dienstliche Gründe nicht entgegenstehen. Die Pflegebedürftigkeit ist nachzuweisen durch ein ärztliches Gutachten oder durch eine Bescheinigung der Pflegekasse oder des Medizinischen Dienstes der Krankenversicherung oder durch eine entsprechende Bescheinigung einer privaten Pflegeversicherung. Soweit Anspruch auf Elternzeit nach § 28 Absatz 7 besteht, kann anstelle von Elternzeit eine Teilzeitbeschäftigung auch im Umfang von weniger als der Hälfte der regelmäßigen Arbeitszeit bewilligt werden. Der Anspruch auf Elternzeit vermindert sich um die Zeit, in der diese Teilzeitbeschäftigung in Anspruch genommen wird.
+(1) Einem Soldaten kann auf Antrag Teilzeitbeschäftigung im Umfang von mindestens der Hälfte der regelmäßigen Arbeitszeit nach § 30c Absatz 1 und bis zur jeweils beantragten Dauer, längstens für zwölf Jahre bewilligt werden, soweit dienstliche Gründe nicht entgegenstehen. Die Teilzeitbeschäftigung soll bewilligt werden, wenn er mindestens ein Kind unter 18 Jahren oder einen pflegebedürftigen sonstigen Angehörigen tatsächlich betreut oder pflegt und zwingende dienstliche Gründe nicht entgegenstehen. Zur Vermeidung unbilliger Härten kann Teilzeitbeschäftigung bewilligt werden
+
+1.  über eine Dauer von zwölf Jahren hinaus und
+
+
+2.  im Umfang von weniger als der Hälfte der regelmäßigen wöchentlichen Arbeitszeit.
+
+
+
+Die Pflegebedürftigkeit ist nachzuweisen durch ein ärztliches Gutachten oder durch eine Bescheinigung der Pflegekasse oder des Medizinischen Dienstes der Krankenversicherung oder durch eine entsprechende Bescheinigung einer privaten Pflegeversicherung. Soweit Anspruch auf Elternzeit nach § 28 Absatz 7 besteht, kann anstelle von Elternzeit eine Teilzeitbeschäftigung auch im Umfang von weniger als der Hälfte der regelmäßigen Arbeitszeit bewilligt werden. Der Anspruch auf Elternzeit vermindert sich um die Zeit, in der diese Teilzeitbeschäftigung in Anspruch genommen wird.
 
 (2) Über den Antrag entscheidet das Bundesministerium der Verteidigung oder die von ihm beauftragte Stelle. Die Ablehnung von Anträgen ist im Einzelnen zu begründen. Einem Antrag darf nur entsprochen werden, wenn der Soldat sich verpflichtet, während des Bewilligungszeitraumes Nebentätigkeiten nur in dem Umfang einzugehen, in dem nach § 20 den in Vollzeit beschäftigten Soldaten die Ausübung von Nebentätigkeiten gestattet ist. Es dürfen nur solche Nebentätigkeiten genehmigt werden, die dem Zweck der Teilzeitbewilligung nicht zuwiderlaufen. Wird die Verpflichtung nach Satz 3 schuldhaft verletzt, soll die Bewilligung widerrufen werden.
 
@@ -854,7 +864,7 @@ als Pflegezeit mit Vorschuss bewilligt. Im Übrigen gelten für die Bewilligung 
 
 #### § 30b Zusammentreffen von Urlaub und Teilzeitbeschäftigung
 
-Urlaube nach § 28 Absatz 5 und den §§ 28a und 30a Absatz 7 sowie Zeiten einer Teilzeitbeschäftigung nach § 30a dürfen zusammen eine Dauer von 15 Jahren nicht überschreiten.
+Urlaube nach § 28 Absatz 5 und den §§ 28a und 30a Absatz 7 sowie Zeiten einer Teilzeitbeschäftigung nach § 30a dürfen zusammen eine Dauer von 15 Jahren nicht überschreiten. Diese Höchstdauer gilt nicht in den Fällen des § 30a Absatz 1 Satz 3 Nummer 1.
 
 
 #### § 30c Arbeitszeit
@@ -974,7 +984,7 @@ Sobald die Voraussetzungen für eine Anhebung nach Satz 1 nicht mehr erfüllt si
 1.  Soldatinnen und Soldaten, die Anspruch auf Dienstbezüge oder Ausbildungsgeld haben oder Elternzeit in Anspruch nehmen, und
 
 
-2.  Versorgungsempfängerinnen und Versorgungsempfänger mit Anspruch auf Versorgungsbezüge nach Abschnitt II des Zweiten Teils des Soldatenversorgungsgesetzes oder nach § 42a oder § 43 des Soldatenversorgungsgesetzes.
+2.  Versorgungsempfängerinnen und Versorgungsempfänger mit Anspruch auf Versorgungsbezüge nach Teil 2 Abschnitt 2 des Soldatenversorgungsgesetzes oder nach § 58 oder § 59 des Soldatenversorgungsgesetzes.
 
 
 
@@ -997,7 +1007,7 @@ Sobald die Voraussetzungen für eine Anhebung nach Satz 1 nicht mehr erfüllt si
 
 (7) Abweichend von Absatz 5 Nr. 1 sind von Berufssoldaten und Soldaten auf Zeit, die nach der Eignungsübung in das Dienstverhältnis eines Berufssoldaten oder Soldaten auf Zeit berufen worden sind, auch die während der Eignungsübung entstandenen Aufwendungen beihilfefähig.
 
-(8) In einer Rechtsverordnung kann vorgesehen werden, Soldaten mit Familien- oder Pflegeaufgaben im Sinne des § 3 Absatz 6 und 7 des Soldatinnen- und Soldatengleichstellungsgesetzes diejenigen Kosten für eine Familien- und Haushaltshilfe zu erstatten, die durch besondere Verwendungen im Ausland gemäß § 56 Absatz 1 des Bundesbesoldungsgesetzes, durch die einsatzvorbereitende Ausbildung dazu, durch einsatzgleiche Verpflichtungen oder durch Dauereinsatzaufgaben entstehen. Als Voraussetzung für die Erstattung ist festzulegen, dass
+(8) In einer Rechtsverordnung kann vorgesehen werden, Soldaten mit Familienpflichten im Sinne des § 4 Absatz 1 des Soldatinnen- und Soldatengleichstellungsgesetzes diejenigen Kosten für eine Familien- und Haushaltshilfe zu erstatten, die durch besondere Verwendungen im Ausland gemäß § 56 Absatz 1 des Bundesbesoldungsgesetzes, durch die einsatzvorbereitende Ausbildung dazu, durch einsatzgleiche Verpflichtungen oder durch Dauereinsatzaufgaben entstehen. Als Voraussetzung für die Erstattung ist festzulegen, dass
 
 1.  der Soldat dem nächsthöheren Disziplinarvorgesetzten eine Betreuungs- oder Pflegesituation unverzüglich anzeigt,
 
@@ -1024,7 +1034,7 @@ Die Erstattung ist auf höchstens 50 Euro pro Tag zu begrenzen. Die Rechtsverord
 
 (2) Eine unbillige Härte liegt insbesondere vor, wenn ein Versuch der Vollstreckung in das Vermögen nicht zu einer vollständigen Befriedigung des Soldaten geführt hat, sofern der Betrag, hinsichtlich dessen der Soldat nicht befriedigt wurde, mindestens 250 Euro erreicht.
 
-(3) Der Dienstherr kann die Zahlung nach Absatz 1 ablehnen, wenn auf Grund desselben Sachverhalts eine einmalige Unfallentschädigung (§ 63 des Soldatenversorgungsgesetzes) oder eine Beschädigtenversorgung nach den §§ 80 und 85 des Soldatenversorgungsgesetzes in Höhe der Grundrente und der Schwerstbeschädigtenzulage nach § 30 Absatz 1 und § 31 des Bundesversorgungsgesetzes gezahlt wird.
+(3) Der Dienstherr kann die Zahlung nach Absatz 1 ablehnen, wenn auf Grund desselben Sachverhalts eine einmalige Unfallentschädigung (§ 84 des Soldatenversorgungsgesetzes) oder ein Ausgleich für gesundheitliche Schädigungsfolgen nach dem Soldatenentschädigungsgesetz gezahlt wird.
 
 (4) Der Antrag nach Absatz 1 kann innerhalb einer Ausschlussfrist von zwei Jahren nach Rechtskraft des Urteils nach Absatz 1 Satz 1 oder nach Eintritt der Unwiderruflichkeit des Vergleichs nach Absatz 1 Satz 2 schriftlich oder elektronisch gestellt werden. Dem Antrag ist ein Nachweis des Vollstreckungsversuches beizufügen. Die Entscheidung trifft das Bundesministerium der Verteidigung oder die von ihm zu bestimmende Stelle. Für Versorgungsempfänger ist die für die Zahlung der Versorgungsbezüge verantwortliche Stelle zuständig. Soweit der Dienstherr die Zahlung übernommen hat, gehen Ansprüche gegen Dritte auf ihn über. Der Übergang der Ansprüche kann nicht zum Nachteil der oder des Geschädigten geltend gemacht werden.
 
@@ -1121,7 +1131,7 @@ In das Dienstverhältnis eines Berufssoldaten können berufen werden
 1.  Unteroffiziere, Feldwebelanwärter jedoch erst mit der Beförderung zum Feldwebel,
 
 
-2.  Offizieranwärter und Geoinformationsoffizieranwärter nach Abschluss des für ihre Laufbahn vorgesehenen Ausbildungsganges mit der Beförderung zum Leutnant, Sanitätsoffizieranwärter jedoch erst mit der Beförderung zum Stabsarzt, Stabsveterinär, Stabsapotheker sowie Militärmusikoffizieranwärter erst mit der Beförderung zum Hauptmann,
+2.  Offizieranwärter nach Abschluss des für ihre Laufbahn vorgesehenen Ausbildungsganges mit der Beförderung zum Leutnant, Geoinformationsoffizieranwärter nach Abschluss des für ihre Laufbahn vorgesehenen Ausbildungsganges mit der Beförderung zum Oberleutnant, Sanitätsoffizieranwärter mit der Beförderung zum Stabsarzt, Stabsveterinär, Stabsapotheker und Militärmusikoffizieranwärter mit der Beförderung zum Hauptmann,
 
 
 3.  Offiziere auf Zeit,
@@ -1139,7 +1149,7 @@ In das Dienstverhältnis eines Berufssoldaten können berufen werden
 
 (2) Die Dauer der Berufung kann auf Grund freiwilliger Weiterverpflichtung innerhalb der Grenzen des Absatzes 1 verlängert werden.
 
-(3) Die Dauer der Berufung eines Soldaten, der Inhaber eines Eingliederungsscheins (§ 9 Absatz 1 Nummer 1 des Soldatenversorgungsgesetzes) ist, verlängert sich ohne die Beschränkungen des Absatzes 1 bis zur Ernennung zum Beamten, längstens jedoch um eineinhalb Jahre.
+(3) Die Dauer der Berufung eines Soldaten, der Inhaber eines Eingliederungsscheins (§ 13 Absatz 1 Nummer 1 des Soldatenversorgungsgesetzes) ist, verlängert sich ohne die Beschränkungen des Absatzes 1 bis zur Ernennung zum Beamten, längstens jedoch um eineinhalb Jahre.
 
 (4) Die Dauer der Berufung eines Soldaten, dessen militärische Ausbildung vor dem Beginn einer Elternzeit nach § 28 Absatz 7 bereits mehr als sechs Monate mit einem Studium oder einer Fachausbildung verbunden ist oder war, verlängert sich ohne die Beschränkungen des Absatzes 1 um die Dauer der Elternzeit. Gleiches gilt für einen Soldaten, der eine Teilzeitbeschäftigung nach § 30a in Anspruch genommen hat; die Dauer der Berufung verlängert sich um die Differenz der Teilzeitbeschäftigung zur Vollzeitbeschäftigung.
 
@@ -1511,7 +1521,7 @@ verliert seinen Dienstgrad und seine Ansprüche auf Versorgung mit Ausnahme der 
 
 ##### § 54 Beendigungsgründe
 
-(1) Das Dienstverhältnis eines Soldaten auf Zeit endet mit dem Ablauf der Zeit, für die er in das Dienstverhältnis berufen ist. Das Dienstverhältnis endet auch mit Ablauf des Monats, in dem das Erlöschen des Rechts aus dem Eingliederungsschein (§ 9 Absatz 5 des Soldatenversorgungsgesetzes) unanfechtbar festgestellt worden ist.
+(1) Das Dienstverhältnis eines Soldaten auf Zeit endet mit dem Ablauf der Zeit, für die er in das Dienstverhältnis berufen ist. Das Dienstverhältnis endet auch mit Ablauf des Monats, in dem das Erlöschen des Rechts aus dem Eingliederungsschein (§ 13 Absatz 5 des Soldatenversorgungsgesetzes) unanfechtbar festgestellt worden ist.
 
 (2) Das Dienstverhältnis endet ferner durch
 
@@ -1574,7 +1584,7 @@ Ist er zuvor in einer anderen Laufbahn verwendet worden, soll er nicht entlassen
 
 (5) Ein Soldat auf Zeit kann während der ersten vier Dienstjahre fristlos entlassen werden, wenn er seine Dienstpflichten schuldhaft verletzt hat und sein Verbleiben in seinem Dienstverhältnis die militärische Ordnung oder das Ansehen der Bundeswehr ernstlich gefährden würde.
 
-(6) Für die Zuständigkeit, die Anhörungspflicht und die Fristen bei der Entlassung gilt § 47 Abs. 1 bis 3 entsprechend. Für das Verfahren bei der Entlassung nach § 46 Absatz 2a gilt § 47a entsprechend. Die Entlassungsverfügung muss dem Soldaten in den Fällen des Absatzes 2 wenigstens drei Monate und in den Fällen des Absatzes 4 wenigstens einen Monat vor dem Entlassungstag unter schriftlicher Angabe der Gründe zugestellt werden. Für Soldaten, die einen Eingliederungsschein (§ 9 Absatz 1 Nummer 2 des Soldatenversorgungsgesetzes) erhalten können und die Erteilung beantragt haben, beträgt die Frist in den Fällen des Absatzes 2 ein Jahr. In den Fällen des Absatzes 3 gilt § 46 Abs. 7 entsprechend.
+(6) Für die Zuständigkeit, die Anhörungspflicht und die Fristen bei der Entlassung gilt § 47 Abs. 1 bis 3 entsprechend. Für das Verfahren bei der Entlassung nach § 46 Absatz 2a gilt § 47a entsprechend. Die Entlassungsverfügung muss dem Soldaten in den Fällen des Absatzes 2 wenigstens drei Monate und in den Fällen des Absatzes 4 wenigstens einen Monat vor dem Entlassungstag unter schriftlicher Angabe der Gründe zugestellt werden. Für Soldaten, die einen Eingliederungsschein (§ 13 Absatz 1 Nummer 2 des Soldatenversorgungsgesetzes) erhalten können und die Erteilung beantragt haben, beträgt die Frist in den Fällen des Absatzes 2 ein Jahr. In den Fällen des Absatzes 3 gilt § 46 Abs. 7 entsprechend.
 
 
 ##### § 56 Folgen der Entlassung und des Verlustes der Rechtsstellung eines Soldaten auf Zeit

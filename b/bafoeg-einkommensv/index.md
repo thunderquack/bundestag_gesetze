@@ -150,15 +150,29 @@ Als Einnahmen, die zur Deckung des Lebensbedarfs bestimmt sind, gelten folgende 
 
 10. nach dem Soldatenversorgungsgesetz
 
-    Übergangsgeld (§ 37),
+    Übergangsgeld (§ 52),
 
-    Arbeitslosenbeihilfe (§ 86a Abs. 1);
+    Arbeitslosenbeihilfe (§ 102 Absatz 1);
 
 
 11. Vorruhestandsgeld nach der Verordnung über die Gewährung von Vorruhestandsgeld vom 8. Februar 1990 (GBl. I Nr. 7 S. 42), die gemäß Anlage II Kapitel VIII Sachgebiet E Abschnitt III Nr. 5 des Einigungsvertrages vom 31. August 1990 und Artikel 4 Nr. 13 der Vereinbarung vom 18. September 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1210, 1243) mit Maßgaben weitergilt.
 
 
-12. Übergangsleistungen nach § 3 der Berufskrankheiten-Verordnung (BKV) vom 31. Oktober 1997 (BGBl. I S. 2623).
+12. Übergangsleistungen nach § 3 der Berufskrankheiten-Verordnung (BKV) vom 31. Oktober 1997 (BGBl. I S. 2623),
+
+
+13. nach dem Soldatenentschädigungsgesetz
+
+    a)  das Krankengeld der Soldatenentschädigung (§ 19),
+
+
+    b)  Übergangsgeld (§§ 30 und 46) und
+
+
+    c)  Geldleistungen nach § 83 Absatz 2.
+
+
+
 
 
 
@@ -241,9 +255,7 @@ Als Einnahmen, die zur Deckung des Lebensbedarfs bestimmt sind, gelten ferner
 
 ## § 3a Übergangsvorschrift
 
-(1) Für Bewilligungszeiträume, die vor dem 30. Juni 2003 begonnen haben, sind die Vorschriften dieser Verordnung in ihrer bis zum 21. Mai 2003 geltenden Fassung weiter anzuwenden.
-
-(2) Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 1 Nummer 3 in der am 31. Dezember 2023 geltenden Fassung weiter.
+Für Bewilligungszeiträume, die vor dem 30. Juni 2003 begonnen haben, sind die Vorschriften dieser Verordnung in ihrer bis zum 21. Mai 2003 geltenden Fassung weiter anzuwenden.
 
 
 ## § 4 Inkrafttreten

@@ -224,7 +224,7 @@ Steht ein Berechtigter in einem Versicherungspflichtverhältnis zur Bundesagentu
 
 ### § 6 Höhe des Kindergeldes
 
-(1) Das Kindergeld beträgt monatlich für jedes Kind 250 Euro.
+(1) Das Kindergeld beträgt monatlich für jedes Kind 255 Euro.
 
 (2) (weggefallen)
 
@@ -259,7 +259,7 @@ Steht ein Berechtigter in einem Versicherungspflichtverhältnis zur Bundesagentu
 
 
 
-(2) Der monatliche Höchstbetrag des Kinderzuschlags deckt zusammen mit dem für ein erstes Kind nach § 66 des Einkommensteuergesetzes zu zahlenden Kindergeld ein Zwölftel des steuerfrei zu stellenden sächlichen Existenzminimums eines Kindes für das jeweilige Kalenderjahr mit Ausnahme des Anteils für Bildung und Teilhabe. Steht dieses Existenzminimum eines Kindes zu Beginn eines Jahres nicht fest, ist insoweit der für das Jahr geltende Betrag für den Mindestunterhalt eines Kindes in der zweiten Altersstufe nach der Mindestunterhaltsverordnung maßgeblich. Als Höchstbetrag des Kinderzuschlags in dem jeweiligen Kalenderjahr gilt der Betrag, der sich zu Beginn des Jahres nach den Sätzen 1 und 2 ergibt, mindestens jedoch ein Betrag in Höhe des Vorjahres. Der Betrag nach Satz 3 erhöht sich ab 1. Juli 2022 um einen Sofortzuschlag in Höhe von 20 Euro.
+(2) Der monatliche Höchstbetrag des Kinderzuschlags deckt zusammen mit dem für ein erstes Kind nach § 66 des Einkommensteuergesetzes zu zahlenden Kindergeld ein Zwölftel des steuerfrei zu stellenden sächlichen Existenzminimums eines Kindes für das jeweilige Kalenderjahr mit Ausnahme des Anteils für Bildung und Teilhabe. Steht dieses Existenzminimum eines Kindes zu Beginn eines Jahres nicht fest, ist insoweit der für das Jahr geltende Betrag für den Mindestunterhalt eines Kindes in der zweiten Altersstufe nach der Mindestunterhaltsverordnung maßgeblich. Als Höchstbetrag des Kinderzuschlags in dem jeweiligen Kalenderjahr gilt der Betrag, der sich zu Beginn des Jahres nach den Sätzen 1 und 2 ergibt, mindestens jedoch ein Betrag in Höhe des Vorjahres. Der Betrag nach Satz 3 erhöht sich um einen Sofortzuschlag in Höhe von 25 Euro.
 
 (3) Ausgehend vom Höchstbetrag mindert sich der jeweilige Kinderzuschlag, wenn das Kind nach den §§ 11 bis 12 des Zweiten Buches Sozialgesetzbuch zu berücksichtigendes Einkommen oder Vermögen hat. Bei der Berücksichtigung des Einkommens bleiben das Wohngeld, das Kindergeld und der Kinderzuschlag außer Betracht. Der Kinderzuschlag wird um 45 Prozent des zu berücksichtigenden Einkommens des Kindes monatlich gemindert. Ein Anspruch auf Zahlung des Kinderzuschlags für ein Kind besteht nicht, wenn zumutbare Anstrengungen unterlassen wurden, Ansprüche auf Einkommen des Kindes geltend zu machen. § 12 des Zweiten Buches Sozialgesetzbuch ist mit der Maßgabe anzuwenden, dass Vermögen nur berücksichtigt wird, wenn es erheblich ist. Ist das zu berücksichtigende Vermögen höher als der nach den Sätzen 1 bis 5 verbleibende monatliche Anspruch auf Kinderzuschlag, so dass es den Kinderzuschlag für den ersten Monat des Bewilligungszeitraums vollständig mindert, entfällt der Anspruch auf Kinderzuschlag. Ist das zu berücksichtigende Vermögen niedriger als der monatliche Anspruch auf Kinderzuschlag, ist der Kinderzuschlag im ersten Monat des Bewilligungszeitraums um einen Betrag in Höhe des zu berücksichtigenden Vermögens zu mindern und ab dem folgenden Monat Kinderzuschlag ohne Minderung wegen des Vermögens zu zahlen.
 

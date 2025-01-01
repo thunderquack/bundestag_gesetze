@@ -107,9 +107,9 @@ Auf Grund des § 7a Absatz 4 Satz 2, § 7g Absatz 2 Satz 2 und des § 7i der Bun
 
 ### § 6 Prüfungstermine
 
-(1) Es sollen mindestens zwei Prüfungstermine im Kalenderjahr angeboten werden.
+(1) Es soll mindestens ein Prüfungstermin im Kalenderjahr angeboten werden.
 
-(2) Die Prüfungstermine sind von der Leitung des Prüfungsamtes festzulegen. Sie sind spätestens vier Monate vor Beginn der schriftlichen Prüfung in der Deutschen Notar-Zeitschrift bekannt zu geben. Daneben soll eine Bekanntgabe auf der Internetseite des Prüfungsamtes erfolgen. Wenn die schriftliche Prüfung elektronisch durchgeführt werden soll, ist darauf bei der Bekanntgabe der Prüfungstermine hinzuweisen.
+(2) Prüfungstermine sind von der Leitung des Prüfungsamtes festzulegen. Sie sind spätestens fünf Monate vor Beginn der schriftlichen Prüfung auf der Internetseite des Prüfungsamtes bekanntzugeben. Wenn die schriftliche Prüfung elektronisch durchgeführt werden soll, ist darauf bei der Bekanntgabe des Prüfungstermins hinzuweisen.
 
 
 ### § 7 Prüfungsorte
@@ -126,12 +126,12 @@ Auf Grund des § 7a Absatz 4 Satz 2, § 7g Absatz 2 Satz 2 und des § 7i der Bun
 1.  eine Ablichtung des Zeugnisses über die bestandene zweite juristische Staatsprüfung der Antragstellerin oder des Antragstellers,
 
 
-2.  eine Bescheinigung der zuständigen Rechtsanwaltskammer über die Zulassung der Antragstellerin oder des Antragstellers zur Rechtsanwaltschaft und über den Tag, seit dem die Zulassung ohne Unterbrechung besteht; die Bescheinigung muss weniger als drei Monate vor Stellung des Antrags auf Zulassung zur notariellen Fachprüfung ausgestellt worden sein.
+2.  eine Bescheinigung der zuständigen Rechtsanwaltskammer über die Dauer der Zulassung der Antragstellerin oder des Antragstellers zur Rechtsanwaltschaft; die Bescheinigung muss weniger als drei Monate vor Stellung des Antrags auf Zulassung zur notariellen Fachprüfung ausgestellt worden sein.
 
 
 
 
-(2) Die Antragsfrist für die Zulassung zur Prüfung endet zehn Wochen vor dem Beginn des schriftlichen Teils eines Prüfungstermins. Die Frist wird gleichzeitig mit dem Prüfungstermin spätestens vier Monate vor Beginn der schriftlichen Prüfung in der Deutschen Notar-Zeitschrift bekannt gegeben. Daneben soll eine Bekanntgabe auf der Internetseite des Prüfungsamtes erfolgen. Maßgeblich für die Einhaltung der Antragsfrist ist das Datum des Eingangs des Antrags beim Prüfungsamt.
+(2) Die Antragsfrist für die Zulassung zur Prüfung endet drei Monate vor dem Beginn des schriftlichen Teils eines Prüfungstermins. Die Frist ist spätestens fünf Monate vor Beginn der schriftlichen Prüfung auf der Internetseite des Prüfungsamtes bekanntzugeben. Maßgeblich für die Einhaltung der Antragsfrist ist das Datum des Eingangs des Antrags beim Prüfungsamt.
 
 (3) Über den Antrag auf Zulassung zur notariellen Fachprüfung entscheidet die Leitung des Prüfungsamtes. Der Antrag ist abzulehnen, wenn
 

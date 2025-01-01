@@ -898,19 +898,8 @@ sofern diese Unterlagen für die Prüfung des Antrags im Einzelfall jeweils erfo
 Der Motor darf auf Stand nur laufen, wenn außerdem das Fahrwerk genügend gesichert ist. Das Abbremsen der Motoren und das Abrollen von den Hallen sind so vorzunehmen, dass Gebäude, andere Luftfahrzeuge und andere Fahrzeuge kein stärkerer Luftstrom trifft und Personen nicht verletzt werden können. Bei laufendem Motor darf sich niemand vor dem Luftfahrzeug oder in einem für die Sicherheit nicht ausreichenden Abstand vom Luftfahrzeug aufhalten.
 
 
-### § 24 Flugbetrieb mit Flugzeugen zur gewerbsmäßigen Beförderung von Personen oder Sachen
+### § 24 (weggefallen)
 
-(1) Der Luftfahrzeugführer eines Flugzeugs mit einer Höchstabflugmasse von mehr als 14 000 Kilogramm darf bei Flügen zur gewerbsmäßigen Beförderung von Personen oder Sachen auf einem Flugplatz im Hoheitsgebiet der Bundesrepublik Deutschland nur starten oder landen, wenn
-
-1.  für den Start Instrumentenabflugverfahren und für die Landung Instrumentenanflugverfahren festgelegt sind und
-
-
-2.  eine Flugverkehrskontrolle vorhanden ist.
-
-
-
-
-(2) Die örtlich zuständige Luftfahrtbehörde des Landes kann für einzelne Flüge Ausnahmen von Absatz 1 zulassen, wenn eine Gefahr für die Sicherheit des Luftverkehrs nicht zu erwarten ist. Die Ausnahmen können eingeschränkt, befristet oder mit Auflagen verbunden werden.
 
 
 ### § 25 Besondere Regelungen für den Flugbetrieb auf einem Flugplatz mit Flugverkehrskontrollstelle
@@ -1291,7 +1280,7 @@ Regelungen, Genehmigungen und Festlegungen nach § 2 Absatz 1, § 16 Absatz 1 un
 19. einer Vorschrift des § 23 Absatz 1 Nummer 1, 2, 3, 8 oder 9 über den Flugbetrieb auf einem Flugplatz oder in dessen Umgebung zuwiderhandelt,
 
 
-20. entgegen § 24 Absatz 1 auf einem Flugplatz startet oder landet,
+20. (weggefallen)
 
 
 21. ohne Erlaubnis nach § 25 Absatz 3 Satz 1 auf einem Rollfeld verkehrt,

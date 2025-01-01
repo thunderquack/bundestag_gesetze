@@ -104,7 +104,7 @@ Diese Verordnung regelt die Anforderungen und das Verfahren
 
 (1) Um als notifizierte Stelle anerkannt zu werden, muss
 
-1.  ein schriftlicher Antrag bei der Bundesnetzagentur gestellt werden und
+1.  ein schriftlicher oder elektronischer Antrag bei der Bundesnetzagentur gestellt werden und
 
 
 2.  der Antragsteller muss in Deutschland seinen Hauptsitz haben.
@@ -141,7 +141,7 @@ Es sind die Antragsunterlagen der Bundesnetzagentur zu verwenden.
 
 ### § 4 Anerkennung als notifizierte Stelle
 
-(1) Hat die Bundesnetzagentur festgestellt, dass der Antragsteller die Anforderungen des § 5 dieser Verordnung erfüllt, so erteilt sie diesem die Befugnis, Konformitätsbewertungen durchzuführen. Die Befugnis wird durch schriftlichen Bescheid erteilt. Der Bescheid muss Folgendes enthalten:
+(1) Hat die Bundesnetzagentur festgestellt, dass der Antragsteller die Anforderungen des § 5 dieser Verordnung erfüllt, so erteilt sie diesem die Befugnis, Konformitätsbewertungen durchzuführen. Die Befugnis wird durch schriftlichen oder elektronischen Bescheid erteilt. Der Bescheid muss Folgendes enthalten:
 
 1.  Vollständige Angaben zu
 
@@ -383,7 +383,7 @@ Mit der Anerkennung als notifizierte Stelle im Sinne des Gesetzes über die elek
 
 ### § 14 Widerruf der erteilten Befugnis
 
-(1) Die Anerkennung als notifizierte Stelle oder Konformitätsbewertungsstelle für Drittstaaten erlischt mit der Einstellung des Betriebs dieser Stelle. Die Einstellung ist der Bundesnetzagentur unverzüglich schriftlich anzuzeigen.
+(1) Die Anerkennung als notifizierte Stelle oder Konformitätsbewertungsstelle für Drittstaaten erlischt mit der Einstellung des Betriebs dieser Stelle. Die Einstellung ist der Bundesnetzagentur unverzüglich schriftlich oder elektronisch anzuzeigen.
 
 (2) Stellt die Bundesnetzagentur fest, dass eine notifizierte Stelle oder eine Konformitätsbewertungsstelle für Drittstaaten die in § 5 dieser Verordnung genannten Anforderungen nicht mehr erfüllt oder sonstigen Verpflichtungen nicht nachkommt, widerruft sie ganz oder teilweise die erteilte Befugnis. Sie unterrichtet unverzüglich die Europäische Kommission und die übrigen Mitgliedstaaten darüber.
 

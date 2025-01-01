@@ -590,7 +590,7 @@ Den Schwerpunkt des mündlichen Teils der Prüfung bilden die Auseinandersetzung
 
 
 
-Die Prüferinnen oder Prüfer nach Satz 2 Nummer 3 oder 4 müssen über eine Erlaubnis zum Führen der Berufsbezeichnung nach § 1, § 58 Absatz 1 oder Absatz 2 oder § 64 des Pflegeberufegesetzes verfügen. Für Prüferinnen oder Prüfer nach Satz 2 Nummer 3 können die Länder bis zum Jahr 2029 Ausnahmen vom Erfordernis nach Satz 3 genehmigen.
+Die Prüferinnen oder Prüfer nach Satz 2 Nummer 3 oder 4 müssen über eine Erlaubnis zum Führen der Berufsbezeichnung nach § 1, § 58 Absatz 1 oder Absatz 2 oder § 64 des Pflegeberufegesetzes verfügen. Für Prüferinnen oder Prüfer nach Satz 2 Nummer 3 können die Länder bis zum Jahr 2029 Ausnahmen vom Erfordernis nach Satz 3 genehmigen. Für die Prüfung der Kompetenzen zur selbständigen und eigenverantwortlichen Ausübung erweiterter heilkundlicher Tätigkeiten durch hochschulisch ausgebildete Pflegefachkräfte nach § 37 Absatz 2 Satz 2 des Pflegeberufegesetzes müssen dem Prüfungsausschuss zusätzlich zu den in Satz 2 Nummer 1 bis 4 genannten Personen zwei ärztliche Fachprüferinnen oder Fachprüfer angehören; die ärztlichen Fachprüferinnen und Fachprüfer sollen die studierenden Personen in den selbständigen und eigenverantwortlichen Kompetenzen zur Ausübung erweiterter heilkundlicher Tätigkeiten unterrichtet haben, die Gegenstand der staatlichen Prüfung sind.
 
 (2) Die zuständige Behörde bestellt das Mitglied nach Absatz 1 Satz 2 Nummer 1 sowie dessen Stellvertreterin oder Stellvertreter. Die Hochschule bestimmt das Mitglied nach Absatz 1 Satz 2 Nummer 2 sowie dessen Stellvertreterin oder Stellvertreter.
 
@@ -612,9 +612,9 @@ Die Prüferinnen oder Prüfer nach Satz 2 Nummer 3 oder 4 müssen über eine Erl
 
 ### § 35 Schriftlicher Teil der Prüfung
 
-(1) Der schriftliche Teil der Prüfung umfasst drei Aufsichtsarbeiten.
+(1) Der schriftliche Teil der Prüfung umfasst vier Aufsichtsarbeiten.
 
-(2) Für die drei Aufsichtsarbeiten sind Module zu folgenden Prüfungsbereichen aus den Kompetenzbereichen I bis V der Anlage 5 festzulegen:
+(2) Für drei Aufsichtsarbeiten sind Module zu folgenden Prüfungsbereichen aus den Kompetenzbereichen I bis V der Anlage 5 Teil A festzulegen:
 
 1.  die Planung, Organisation, Gestaltung, Steuerung und Durchführung von Pflegeprozessen bei komplexen und hochkomplexen Pflegebedarfen, spezifischen Klientengruppen in Pflegesituationen mit besonderen gesundheitlichen Problemlagen sowie in hoch belasteten und kritischen Lebenssituationen auf der Grundlage wissenschaftlicher Theorien, Modelle und Forschungsergebnisse übernehmen,
 
@@ -622,7 +622,7 @@ Die Prüferinnen oder Prüfer nach Satz 2 Nummer 3 oder 4 müssen über eine Erl
 2.  die Entwicklung und Autonomie in der Lebensspanne und unterstützen Menschen aller Altersgruppen bei der Lebensgestaltung auf der Grundlage pflege- und bezugswissenschaftlicher Methoden und Forschungsergebnisse fördern,
 
 
-3.  Beratungs- und Schulungskonzepte auf der Basis gesicherter Forschungsergebnisse konzipieren, gestalten, reflektieren und evaluieren,
+3.  Beratungs- und Schulungskonzepte auf der Basis gesicherter Forschungsergebnisse konzipieren, gestalten reflektieren und evaluieren,
 
 
 4.  Kommunikations-, Interaktions- und Beratungsprozesse in der Pflegepraxis auf der Grundlage pflege- und bezugswissenschaftlicher Methoden und unter ethischen Gesichtspunkten analysieren, reflektieren und evaluieren,
@@ -638,8 +638,9 @@ Die Prüferinnen oder Prüfer nach Satz 2 Nummer 3 oder 4 müssen über eine Erl
 
 
 
+Für die vierte Aufsichtsarbeit sind Module zu Prüfungsbereichen aus den Kompetenzbereichen I bis IV der Anlage 5 Teil B festzulegen; die zu prüfende Person hat hierzu in ihrer Aufsichtsarbeit schriftlich gestellte Fragen zu bearbeiten.
 
-(3) Soweit Module prüfungsbereichsübergreifend konzipiert sind, müssen die genannten Prüfungsbereiche in den gewählten Modulen jeweils zumindest einen Schwerpunkt bilden. Die zu prüfende Person hat in den Aufsichtsarbeiten schriftlich gestellte fallbezogene Aufgaben zu bearbeiten. Die Fallsituationen für die drei Aufsichtsarbeiten sollen insgesamt variiert werden in Bezug auf
+(3) Soweit Module prüfungsbereichsübergreifend konzipiert sind, müssen die genannten Prüfungsbereiche in den gewählten Modulen jeweils zumindest einen Schwerpunkt bilden. Die zu prüfende Person hat in den Aufsichtsarbeiten schriftlich gestellte fallbezogene Aufgaben zu bearbeiten. Die Fallsituationen für die drei Aufsichtsarbeiten nach Absatz 2 Satz 1 sollen insgesamt variiert werden in Bezug auf
 
 1.  die Altersstufe, der die zu pflegenden Menschen angehören,
 
@@ -651,22 +652,22 @@ Die Prüferinnen oder Prüfer nach Satz 2 Nummer 3 oder 4 müssen über eine Erl
 
 
 
-In allen drei Aufsichtsarbeiten werden die Reflexion und Begründung des eigenen Handelns auf der Grundlage von wissenschaftlichen Erkenntnissen geprüft. Die Aufsichtsarbeiten schließen jeweils das nach Absatz 2 zugeordnete Modul ab.
+In allen drei Aufsichtsarbeiten nach Absatz 2 Satz 1 werden die Reflexion und Begründung des eigenen Handelns auf der Grundlage von wissenschaftlichen Erkenntnissen geprüft. Die Aufsichtsarbeiten nach Absatz 2 Satz 1 schließen jeweils das nach Absatz 2 Satz 1 zugeordnete Modul ab.
 
-(4) Die Aufsichtsarbeiten dauern jeweils mindestens 120 Minuten. Sie sind in der Regel an drei aufeinanderfolgenden Werktagen durchzuführen. Die Aufsichtsführenden werden von der Hochschule bestellt.
+(4) Die Aufsichtsarbeiten dauern jeweils mindestens 120 Minuten. Die Aufsichtsarbeiten nach Absatz 2 Satz 1 sind in der Regel an drei aufeinanderfolgenden Werktagen durchzuführen, die Aufsichtsarbeit nach Absatz 2 Satz 2 ist an einem gesonderten Werktag durchzuführen. Die Aufsichtsführenden werden von der Hochschule bestellt.
 
-(5) Die Aufgaben für die Aufsichtsarbeiten werden auf Vorschlag der Hochschule durch die Vorsitzenden des Prüfungsausschusses bestimmt.
+(5) Die Aufgaben für die Aufsichtsarbeiten werden auf Vorschlag der Hochschule durch die Vorsitzenden des Prüfungsausschusses bestimmt. Die zuständige Behörde kann für die Aufsichtsarbeit nach Absatz 2 Satz 2 zentrale Prüfungsaufgaben vorgeben, die unter Beteiligung der Hochschulen erarbeitet werden.
 
-(6) Jede Aufsichtsarbeit ist von zwei Prüferinnen oder Prüfern zu benoten. Aus den Noten der Prüferinnen oder Prüfer für jede Aufsichtsarbeit bilden die Vorsitzenden des Prüfungsausschusses die Note für die einzelne Aufsichtsarbeit als das arithmetische Mittel. Aus den Noten der drei Aufsichtsarbeiten bilden die Vorsitzenden des Prüfungsausschusses die Prüfungsnote für den schriftlichen Teil der staatlichen Prüfung als das arithmetische Mittel. Die Berechnung der Noten nach den Sätzen 2 und 3 erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 17 zuzuordnen.
+(6) Jede Aufsichtsarbeit ist von zwei Prüferinnen oder Prüfern zu benoten. Aus den Noten der Prüferinnen oder Prüfer für jede Aufsichtsarbeit bilden die Vorsitzenden des Prüfungsausschusses die Note für die einzelne Aufsichtsarbeit als das arithmetische Mittel. Aus den Noten der vier Aufsichtsarbeiten bilden die Vorsitzenden des Prüfungsausschusses die Prüfungsnote für den schriftlichen Teil der staatlichen Prüfung als das arithmetische Mittel. Die Berechnung der Noten nach den Sätzen 2 und 3 erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 17 zuzuordnen.
 
-(7) Der schriftliche Teil der staatlichen Prüfung ist bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit „ausreichend“ benotet wird.
+(7) Der schriftliche Teil der staatlichen Prüfung ist bestanden, wenn jede der vier Aufsichtsarbeiten mindestens mit „ausreichend“ benotet wird.
 
 (8) Soweit die Module im Curriculum hinsichtlich des Arbeitsaufwandes unterschiedlich gewichtet sind, ist dies abweichend von Absatz 6 im Hinblick auf die Bildung des arithmetischen Mittels bei der Ermittlung der Prüfungsnote für den schriftlichen Teil der staatlichen Prüfung nach Absatz 6 zu berücksichtigen.
 
 
 ### § 36 Mündlicher Teil der Prüfung
 
-(1) Für den mündlichen Teil der Prüfung ist ein Modul oder sind Module zu folgenden Prüfungsbereichen aus den Kompetenzbereichen III bis V der Anlage 5 festzulegen:
+(1) Für den mündlichen Teil der Prüfung ist ein Modul oder sind Module zu folgenden Prüfungsbereichen aus den Kompetenzbereichen III bis V der Anlage 5 Teil A festzulegen:
 
 1.  verantwortliche Gestaltung und Mitgestaltung des intra- und interprofessionellen Handelns in unterschiedlichen systemischen Kontexten und zur Weiterentwicklung der gesundheitlichen und pflegerischen Versorgung,
 
@@ -678,14 +679,33 @@ In allen drei Aufsichtsarbeiten werden die Reflexion und Begründung des eigenen
 
 
 
+Zusätzlich ist ein Modul oder sind Module zu den Prüfungsbereichen aus den Kompetenzbereichen I bis IV der Anlage 5 Teil B festzulegen.
 
 (2) Im mündlichen Teil der Prüfung hat die zu prüfende Person berufliche Kompetenzen nachzuweisen. Die Prüfung schließt das nach Absatz 1 zugeordnete Modul oder die zugeordneten Module ab.
 
-(3) Die drei Kompetenzbereiche der mündlichen Prüfung werden anhand von komplexen Aufgabenstellungen unter Berücksichtigung aktueller wissenschaftlicher Erkenntnisse geprüft. Die Prüfungsaufgabe besteht in der Bearbeitung einer Fallsituation aus einem anderen Versorgungskontext als dem der praktischen Prüfung und bezieht sich auch auf eine andere Altersstufe der zu pflegenden Menschen.
+(3) Die Kompetenzbereiche der mündlichen Prüfung werden anhand von komplexen Aufgabenstellungen unter Berücksichtigung aktueller wissenschaftlicher Erkenntnisse geprüft. Die Prüfungsaufgabe nach Absatz 1 Satz 1 besteht in der Bearbeitung einer Fallsituation aus einem anderen Versorgungskontext als dem der praktischen Prüfung und bezieht sich auch auf eine andere Altersstufe der zu pflegenden Menschen. Die Prüfungsaufgabe nach Absatz 1 Satz 2 besteht in der Bearbeitung mindestens aus einer Fallsituation aus den Kompetenzbereichen I bis IV der Anlage 5 Teil B.
 
-(4) Die zu prüfenden Personen werden einzeln oder zu zweit geprüft. Die Prüfung soll für jede zu prüfende Person mindestens 30 Minuten und nicht länger als 45 Minuten dauern. Eine angemessene Vorbereitungszeit unter Aufsicht ist zu gewähren.
+(4) Für die Prüfungen nach Absatz 1 Satz 1 gilt:
 
-(5) Die Prüfung wird von zwei Prüferinnen oder Prüfern abgenommen und benotet.
+1.  die zu prüfenden Personen werden einzeln oder zu zweit geprüft,
+
+
+2.  die Prüfung soll für jede zu prüfende Person mindestens 30 Minuten und nicht länger als 45 Minuten dauern.
+
+
+
+Für die Prüfungen nach Absatz 1 Satz 2 gilt:
+
+1.  die zu prüfenden Personen werden einzeln geprüft,
+
+
+2.  die Prüfung soll für jede zu prüfende Person mindestens 15 Minuten und nicht länger als 30 Minuten dauern.
+
+
+
+Eine angemessene Vorbereitungszeit unter Aufsicht ist jeweils zu gewähren.
+
+(5) Die Prüfung wird von zwei Prüferinnen oder Prüfern abgenommen und benotet. Für die Prüfungen nach Absatz 1 Satz 2 sind ärztliche Fachprüferinnen oder Fachprüfer nach § 33 Absatz 1 Satz 5 vorzusehen.
 
 (6) Aus den Noten der Prüferinnen oder Prüfer für die in einem Modul erbrachte Leistung bilden die Vorsitzenden des Prüfungsausschusses die Prüfungsnote für den mündlichen Teil der staatlichen Prüfung als das arithmetische Mittel. Sofern mehrere Module für den mündlichen Teil der Prüfung festgelegt wurden, bilden die Vorsitzenden des Prüfungsausschusses aus den einzelnen Noten der Module die Prüfungsnote für den mündlichen Teil der staatlichen Prüfung als das arithmetische Mittel. Die Berechnung der Prüfungsnote erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 17 zuzuordnen.
 
@@ -694,17 +714,29 @@ In allen drei Aufsichtsarbeiten werden die Reflexion und Begründung des eigenen
 
 ### § 37 Praktischer Teil der Prüfung
 
-(1) Für den praktischen Teil der Prüfung ist ein eigenständiges Modul zu den Kompetenzbereichen I bis V der Anlage 5 festzulegen.
+(1) Der praktische Teil der Prüfung besteht aus
 
-(2) Der praktische Teil der Prüfung besteht aus einer Aufgabe der selbständigen, umfassenden und prozessorientierten Pflege und bezieht sich insbesondere auf die vorbehaltenen Tätigkeiten nach § 4 des Pflegeberufegesetzes. Die zu prüfende Person zeigt die erworbenen Kompetenzen im Bereich einer umfassenden personenbezogenen Erhebung und Feststellung des individuellen Pflegebedarfs, der Planung und Gestaltung der Pflege, der Durchführung der erforderlichen Pflege und der Evaluation des Pflegeprozesses einschließlich der Kommunikation und Beratung sowie in der Qualitätssicherung und in der intra- und interprofessionellen Zusammenarbeit und übernimmt in diesem Rahmen alle anfallenden Aufgaben einer prozessorientierten Pflege. Dabei stellt sie auch die Kompetenz unter Beweis, ihr Pflegehandeln wissenschaftsbasiert oder -orientiert zu begründen und zu reflektieren. Der praktische Teil der Prüfung schließt das Modul nach Absatz 1 ab.
+1.  einem eigenständigen Modul zu den Kompetenzbereichen I bis V der Anlage 5 Teil A und
 
-(3) Die Prüfungsaufgabe soll insbesondere den Versorgungsbereich berücksichtigen, in dem die zu prüfende Person im Rahmen der Praxiseinsätze den Vertiefungseinsatz nach § 38 Absatz 3 Satz 1 des Pflegeberufegesetzes absolviert hat. Sie wird auf Vorschlag mindestens einer Prüferin oder eines Prüfers nach § 33 Absatz 1 Satz 2 Nummer 4 durch die Vorsitzenden des Prüfungsausschusses bestimmt.
 
-(4) Die Prüfung findet in realen und hochkomplexen Pflegesituationen statt. Sie erstreckt sich auf die Pflege von mindestens zwei Menschen, von denen einer einen erhöhten Pflegebedarf und eine hochkomplexe Pflegesituation aufweist. Die zu prüfenden Personen werden einzeln geprüft.
+2.  einem eigenständigen Modul zu den Kompetenzbereichen I bis IV der Anlage 5 Teil B.
 
-(5) Die Prüfung besteht aus der vorab zu erstellenden schriftlichen oder elektronischen Ausarbeitung des Pflegeplans (Vorbereitungsteil), einer Fallvorstellung mit einer Dauer von maximal 20 Minuten, der Durchführung der geplanten und situativ erforderlichen Pflegemaßnahmen und einem Reflexionsgespräch mit einer Dauer von maximal 20 Minuten. Mit der schriftlichen oder elektronischen Ausarbeitung des Pflegeplans stellt die zu prüfende Person unter Beweis, dass sie in der Lage ist, das Pflegehandeln fall-, situations- und zielorientiert sowie wissenschaftsbasiert oder -orientiert zu strukturieren und zu begründen. Die Prüfung ohne den Vorbereitungsteil soll einschließlich des Reflexionsgesprächs die Dauer von 240 Minuten nicht überschreiten und kann durch eine organisatorische Pause von maximal einem Werktag unterbrochen werden. Für den Vorbereitungsteil ist eine angemessene Vorbereitungszeit unter Aufsicht zu gewähren.
 
-(6) Die Prüfung wird von einer Prüferin oder einem Prüfer nach § 33 Absatz 1 Satz 2 Nummer 3 und einer Prüferin oder einem Prüfer nach § 33 Absatz 1 Satz 2 Nummer 4 abgenommen und benotet.
+
+
+(2) Der praktische Teil der Prüfung nach Absatz 1 Nummer 1 besteht aus einer Aufgabe der selbständigen, umfassenden und prozessorientierten Pflege und bezieht sich insbesondere auf die vorbehaltenen Tätigkeiten nach § 4 des Pflegeberufegesetzes. Die zu prüfende Person zeigt die erworbenen Kompetenzen im Bereich einer umfassenden personenbezogenen Erhebung und Feststellung des individuellen Pflegebedarfs, der Planung und Gestaltung der Pflege, der Durchführung der erforderlichen Pflege und der Evaluation des Pflegeprozesses einschließlich der Kommunikation und Beratung sowie in der Qualitätssicherung und in der intra- und interprofessionellen Zusammenarbeit und übernimmt in diesem Rahmen alle anfallenden Aufgaben einer prozessorientierten Pflege. Dabei stellt sie auch die Kompetenz unter Beweis, ihr Pflegehandeln wissenschaftsbasiert oder -orientiert zu begründen und zu reflektieren. Der praktische Teil der Prüfung nach Absatz 1 Nummer 1 schließt das entsprechende Modul ab.
+
+(2a) Der praktische Teil der Prüfung nach Absatz 1 Nummer 2 besteht aus einer Aufgabe zur Ausübung erweiterter heilkundlicher Tätigkeiten bei Patientinnen oder Patienten. Sie umfasst die Kompetenzbereiche I bis IV der Anlage 5 Teil B. Die zu prüfende Person übernimmt dabei alle Aufgaben, die Gegenstand der Behandlung sind, einschließlich der Dokumentation. Die zu prüfende Person zeigt die erworbenen Kompetenzen im Bereich der selbständigen und eigenverantwortlichen Ausübung erweiterter heilkundlicher Tätigkeiten. Dabei stellt sie auch die Kompetenz unter Beweis, ihre Diagnose- und Behandlungsmaßnahmen zu erläutern und zu begründen sowie die Prüfungssituation zu reflektieren. Dabei hat sie nachzuweisen, dass sie in der Lage ist, die erworbenen Kompetenzen zur selbständigen und eigenverantwortlichen Ausübung erweiterter heilkundlicher Tätigkeiten in der beruflichen Praxis anzuwenden, und dass sie befähigt ist, die Aufgaben eigenverantwortlich zu lösen. Der praktische Teil der Prüfung nach Absatz 1 Nummer 2 schließt das entsprechende Modul ab.
+
+(3) Die Prüfungsaufgabe nach Absatz 2 soll insbesondere den Versorgungsbereich berücksichtigen, in dem die zu prüfende Person im Rahmen der Praxiseinsätze den Vertiefungseinsatz nach § 38 Absatz 3 Satz 1 des Pflegeberufegesetzes absolviert hat. Sie wird auf Vorschlag mindestens einer Prüferin oder eines Prüfers nach § 33 Absatz 1 Satz 2 Nummer 4 durch die Vorsitzenden des Prüfungsausschusses bestimmt. Die Prüfungsaufgabe nach Absatz 2a wird auf Vorschlag mindestens einer ärztlichen Fachprüferin oder eines ärztlichen Fachprüfers nach § 33 Absatz 1 Satz 5 durch die Vorsitzenden des Prüfungsausschusses bestimmt.
+
+(4) Die Prüfung findet in realen und hochkomplexen Pflegesituationen statt. Sie erstreckt sich auf die Pflege von mindestens zwei Menschen, von denen einer einen erhöhten Pflegebedarf und eine hochkomplexe Pflegesituation aufweist. Die zu prüfenden Personen werden einzeln geprüft. Die Auswahl der Patientinnen oder Patienten für die Prüfung nach Absatz 2a erfolgt durch eine ärztliche Fachprüferin oder einen ärztlichen Fachprüfer nach § 33 Absatz 1 Satz 5 und mit Einwilligung der Patientin oder des Patienten.
+
+(5) Die Prüfung nach Absatz 2 besteht aus der vorab zu erstellenden schriftlichen oder elektronischen Ausarbeitung des Pflegeplans (Vorbereitungsteil), einer Fallvorstellung mit einer Dauer von maximal 20 Minuten, der Durchführung der geplanten und situativ erforderlichen Pflegemaßnahmen und einem Reflexionsgespräch mit einer Dauer von maximal 20 Minuten. Mit der schriftlichen oder elektronischen Ausarbeitung des Pflegeplans stellt die zu prüfende Person unter Beweis, dass sie in der Lage ist, das Pflegehandeln fall-, situations- und zielorientiert sowie wissenschaftsbasiert oder -orientiert zu strukturieren und zu begründen. Die Prüfung ohne den Vorbereitungsteil soll einschließlich des Reflexionsgesprächs die Dauer von 240 Minuten nicht überschreiten und kann durch eine organisatorische Pause von maximal einem Werktag unterbrochen werden. Für den Vorbereitungsteil ist eine angemessene Vorbereitungszeit unter Aufsicht zu gewähren.
+
+(5a) Die Prüfung nach Absatz 2a besteht aus mindestens einer Fallvorstellung mit einer Dauer von insgesamt maximal 20 Minuten, der Durchführung einer Aufgabe zur Ausübung erweiterter heilkundlicher Tätigkeiten aus den Kompetenzbereichen I bis IV der Anlage 5 Teil B und einem Prüfungsgespräch mit einer Dauer von maximal 20 Minuten. In dem Prüfungsgespräch hat die zu prüfende Person ihre Diagnose- und Behandlungsmaßnahmen zu erläutern und zu begründen sowie die Prüfungssituation zu reflektieren. Die Prüfung für die einzelne zu prüfende Person soll einschließlich des Prüfungsgesprächs in der Regel nicht länger als 180 Minuten dauern und kann durch eine organisatorische Pause von maximal einem Werktag unterbrochen werden.
+
+(6) Die Prüfung nach Absatz 2 wird von einer Prüferin oder einem Prüfer nach § 33 Absatz 1 Satz 2 Nummer 3 und einer Prüferin oder einem Prüfer nach § 33 Absatz 1 Satz 2 Nummer 4 abgenommen und benotet. Die Prüfung nach Absatz 2a wird von zwei ärztlichen Fachprüferinnen oder Fachprüfern nach § 33 Absatz 1 Satz 5 abgenommen und benotet.
 
 (7) Aus den Noten der Prüferinnen oder Prüfer für die in der Prüfung erbrachte Leistung bilden die Vorsitzenden des Prüfungsausschusses die Prüfungsnote für den praktischen Teil der staatlichen Prüfung als das arithmetische Mittel. Die Berechnung der Prüfungsnote erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 17 zuzuordnen.
 
@@ -745,7 +777,7 @@ Die Prüfung bei Ausbildungen nach § 14 des Pflegeberufegesetzes, die im Rahmen
 
 #### § 42 Erlaubnisurkunde
 
-Sind die Voraussetzungen nach § 2 des Pflegeberufegesetzes für die Erteilung der Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Satz 1 des Pflegeberufegesetzes, nach § 1 Satz 2 des Pflegeberufegesetzes, nach § 58 Absatz 1 des Pflegeberufegesetzes oder nach § 58 Absatz 2 des Pflegeberufegesetzes erfüllt, so stellt die zuständige Behörde die Erlaubnisurkunde nach dem Muster der Anlage 13 aus.
+Sind die Voraussetzungen nach § 2 des Pflegeberufegesetzes für die Erteilung der Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Satz 1 des Pflegeberufegesetzes, nach § 1 Satz 2 des Pflegeberufegesetzes, nach § 58 Absatz 1 des Pflegeberufegesetzes oder nach § 58 Absatz 2 des Pflegeberufegesetzes erfüllt, so stellt die zuständige Behörde die Erlaubnisurkunde nach dem Muster der Anlage 13 aus. Für die Ausbildung nach Teil 3 des Pflegeberufegesetzes enthält die Urkunde nach § 1 Satz 2 des Pflegeberufegesetzes einen Hinweis auf die erweiterten heilkundlichen Kompetenzen nach § 37 Absatz 2 Satz 2 des Pflegeberufegesetzes nach dem Muster der Anlage 14.
 
 
 ### Abschnitt 2 - Anerkennung von ausländischen Berufsabschlüssen, erforderliche Anpassungsmaßnahmen und Erbringung von Dienstleistungen
@@ -1277,6 +1309,8 @@ Die Erstattung von Reisekosten für Mitglieder richtet sich nach den Richtlinien
 (2e) Beim praktischen Teil der Prüfung kann nach § 12 Absatz 4 der Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegerin und des Altenpflegers in der am 31. Dezember 2019 geltenden Fassung eine Praxisanleiterin oder ein Praxisanleiter zur Abnahme der Prüfung, nicht jedoch zur Benotung, in beratender Funktion hinzugezogen werden, wenn die Prüfung nach dem 15. Dezember 2023 durchgeführt wird.
 
 (3) Sofern die staatlichen Prüfungen der beruflichen und der hochschulischen Pflegeausbildung nach Teil 1 Abschnitt 2, Teil 2 und Teil 3 sowie der Eignungs- und Kenntnisprüfungen nach Teil 4 Abschnitt 2 auf Grundlage dieser Verordnung in der am 15. Dezember 2023 geltenden Fassung begonnen wurden, können sie auf dieser Grundlage abgeschlossen werden.
+
+(4) Für Ausbildungen, die nach dem Pflegeberufegesetz vor Ablauf des 31. Dezember 2024 begonnen wurden, ist bis zum 31. Dezember 2029 die Pflegeberufe-Ausbildungs- und -Prüfungsverordnung in der am 31. Dezember 2024 geltenden Fassung anzuwenden.
 
 
 #### § 62 Inkrafttreten, Außerkrafttreten
@@ -2879,121 +2913,275 @@ bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
 
 
-(zu § 35 Absatz 2, § 36 Absatz 1, § 37 Absatz 1)
+(zu § 35 Absatz 2 Satz 1 und 2, § 36 Absatz 1 Satz 1 und 2, § 37 Absatz 1 Nummer 1 und 2)
 
 #### Anlage 5 Kompetenzen für die Prüfung der hochschulischen Pflegeausbildung nach § 32
 
-(Fundstelle: BGBl. I 2018, 1611 - 1612;
-bzgl. der einzelnen Ändernungen vgl. Fußnote)
+(Fundstelle: BGBl. 2023 I Nr. 359, S. 32 – 36)
 
-**I.** **Wissenschaftsbasierte Planung, Organisation, Gestaltung, Durchführung, Steuerung und Evaluation auch von hochkomplexen Pflegeprozessen bei Menschen aller Altersstufen.**
+A.  Kompetenzen nach § 35 Absatz 2 Satz 1, § 36 Absatz 1 Satz 1, § 37 Absatz 1 Nummer 1
 
-    Die Absolventinnen und Absolventen
+    I.  Wissenschaftsbasierte Planung, Organisation, Gestaltung, Durchführung, Steuerung und Evaluation auch von hochkomplexen Pflegeprozessen bei Menschen aller Altersstufen.
 
-    1.  erheben und beurteilen den individuellen Pflegebedarf, potentielle Risiken und Gesundheitsgefährdungen in komplexen und hochkomplexen akuten und dauerhaften Pflegesituationen und nutzen spezifische wissenschaftsorientierte Assessmentverfahren unter Berücksichtigung auch von gendermedizinischen Erkenntnissen,
+        Die Absolventinnen und Absolventen
 
+        1.  erheben und beurteilen den individuellen Pflegebedarf, potentielle Risiken und Gesundheitsgefährdungen in komplexen und hochkomplexen akuten und dauerhaften Pflegesituationen und nutzen spezifische wissenschaftsorientierte Assessmentverfahren unter Berücksichtigung auch von gendermedizinischen Erkenntnissen,
 
-    2.  übernehmen Verantwortung für die Planung, Organisation, Gestaltung, Durchführung, Steuerung und Evaluation von Pflegeprozessen bei Menschen mit besonderen gesundheitlichen Problemlagen unter Berücksichtigung von wissenschaftlich fundierten Ansätzen der Gesundheitsförderung, Prävention und Kuration,
 
+        2.  übernehmen Verantwortung für die Planung, Organisation, Gestaltung, Durchführung, Steuerung und Evaluation von Pflegeprozessen bei Menschen mit besonderen gesundheitlichen Problemlagen unter Berücksichtigung von wissenschaftlich fundierten Ansätzen der Gesundheitsförderung, Prävention und Kuration,
 
-    3.  übernehmen Verantwortung für die Planung, Organisation, Gestaltung, Durchführung, Steuerung und Evaluation von Pflegeprozessen bei Menschen in hochbelasteten und kritischen Lebens- und Pflegesituationen auch bei hochkomplexen Pflegebedarfen, spezifischen Klientengruppen und besonderen Verlaufsdynamiken wissenschaftsbasiert und fallorientiert,
 
+        3.  übernehmen Verantwortung für die Planung, Organisation, Gestaltung, Durchführung, Steuerung und Evaluation von Pflegeprozessen bei Menschen in hochbelasteten und kritischen Lebens- und Pflegesituationen auch bei hochkomplexen Pflegebedarfen, spezifischen Klientengruppen und besonderen Verlaufsdynamiken wissenschaftsbasiert und fallorientiert,
 
-    4.  übernehmen die Organisation und Durchführung von Interventionen in lebensbedrohlichen Krisen- und in Katastrophensituationen bis zum Eintreffen der Ärztin oder des Arztes,
 
+        4.  übernehmen die Organisation und Durchführung von Interventionen in lebensbedrohlichen Krisen- und in Katastrophensituationen bis zum Eintreffen der Ärztin oder des Arztes,
 
-    5.  fördern die Entwicklung und Autonomie der zu pflegenden Menschen unter Einbeziehung ihrer familialen Kontexte, Lebenslagen und Lebenswelten auf der Basis eines breiten pflege- und bezugswissenschaftlichen Wissens,
 
+        5.  fördern die Entwicklung und Autonomie der zu pflegenden Menschen unter Einbeziehung ihrer familialen Kontexte, Lebenslagen und Lebenswelten auf der Basis eines breiten pflege- und bezugswissenschaftlichen Wissens,
 
-    6.  unterstützen die zu pflegenden Menschen bei der Entwicklung von Alltagskompetenzen und bei der Lebensgestaltung unter Berücksichtigung eines vertieften pflege- und bezugswissenschaftlichen Wissens,
 
+        6.  unterstützen die zu pflegenden Menschen bei der Entwicklung von Alltagskompetenzen und bei der Lebensgestaltung unter Berücksichtigung eines vertieften pflege- und bezugswissenschaftlichen Wissens,
 
-    7.  analysieren, evaluieren und reflektieren Pflegeprozesse auf der Grundlage pflege- und bezugswissenschaftlicher Methoden, Theorien und Forschungsergebnisse,
 
+        7.  analysieren, evaluieren und reflektieren Pflegeprozesse auf der Grundlage pflege- und bezugswissenschaftlicher Methoden, Theorien und Forschungsergebnisse,
 
-    8.  verfügen über ein grundlegendes Verständnis im Umgang mit digitalen Technologien und Softwareanwendungen und für die Funktionsweise von Endgeräten, um pflegerelevante Hard- und Software, insbesondere digitale Pflegedokumentations- und -assistenzsysteme, bedienen zu können.
 
+        8.  verfügen über ein grundlegendes Verständnis im Umgang mit digitalen Technologien und Softwareanwendungen und für die Funktionsweise von Endgeräten, um pflegerelevante Hard- und Software, insbesondere digitale Pflegedokumentations- und -assistenzsysteme, bedienen zu können.
 
 
 
 
-**II.** **Personen- und situationsorientierte Kommunikation und Beratung von zu pflegenden Menschen aller Altersstufen und ihren Bezugspersonen.**
 
-    Die Absolventinnen und Absolventen
+    II. Personen- und situationsorientierte Kommunikation und Beratung von zu pflegenden Menschen aller Altersstufen und ihren Bezugspersonen.
 
-    1.  nutzen ein vertieftes und kritisches pflege- und bezugswissenschaftliches Wissen in hochkomplexen Kommunikations-, Interaktions- und Beratungssituationen,
+        Die Absolventinnen und Absolventen
 
+        1.  nutzen ein vertieftes und kritisches pflege- und bezugswissenschaftliches Wissen in hochkomplexen Kommunikations-, Interaktions- und Beratungssituationen,
 
-    2.  analysieren, reflektieren und evaluieren kritisch Kommunikations-, Interaktions- und Beratungsprozesse in der Pflegepraxis auf der Grundlage pflege- und bezugswissenschaftlicher Methoden sowie unter ethischen Gesichtspunkten,
 
+        2.  analysieren, reflektieren und evaluieren kritisch Kommunikations-, Interaktions- und Beratungsprozesse in der Pflegepraxis auf der Grundlage pflege- und bezugswissenschaftlicher Methoden sowie unter ethischen Gesichtspunkten,
 
-    3.  konzipieren, gestalten und evaluieren Beratungs- und Schulungskonzepte auf der Basis gesicherter Forschungsergebnisse,
 
+        3.  konzipieren, gestalten und evaluieren Beratungs- und Schulungskonzepte auf der Basis gesicherter Forschungsergebnisse,
 
-    4.  treffen in moralischen Konflikt- und Dilemmasituationen begründete ethische Entscheidungen unter Berücksichtigung von Menschenrechten sowie pflegeethischer Ansätze und fördern berufsethisches Handeln in der Pflegepraxis.
 
+        4.  treffen in moralischen Konflikt- und Dilemmasituationen begründete ethische Entscheidungen unter Berücksichtigung von Menschenrechten sowie pflegeethischer Ansätze und fördern berufsethisches Handeln in der Pflegepraxis.
 
 
 
 
-**III.** **Verantwortliche Gestaltung des intra- und interprofessionellen Handelns in unterschiedlichen systemischen Kontexten und Weiterentwicklung der gesundheitlichen und pflegerischen Versorgung von Menschen aller Altersstufen.**
 
-    Die Absolventinnen und Absolventen
+    III. Verantwortliche Gestaltung des intra- und interprofessionellen Handelns in unterschiedlichen systemischen Kontexten und Weiterentwicklung der gesundheitlichen und pflegerischen Versorgung von Menschen aller Altersstufen.
 
-    1.  konzipieren und gestalten die pflegerische Arbeitsorganisation in qualifikationsheterogenen Pflegeteams und in unterschiedlichen Versorgungssettings auf der Basis gesicherter Forschungsergebnisse,
+        Die Absolventinnen und Absolventen
 
+        1.  konzipieren und gestalten die pflegerische Arbeitsorganisation in qualifikationsheterogenen Pflegeteams und in unterschiedlichen Versorgungssettings auf der Basis gesicherter Forschungsergebnisse,
 
-    2.  führen entsprechend den rechtlichen Bestimmungen ärztliche Anordnungen und Maßnahmen der Diagnostik, Therapie oder Rehabilitation eigenständig und unter Berücksichtigung vertieften forschungsbasierten Wissens sowie gendermedizinischer Erkenntnisse durch,
 
+        2.  führen entsprechend den rechtlichen Bestimmungen ärztliche Anordnungen und Maßnahmen der Diagnostik, Therapie oder Rehabilitation eigenständig und unter Berücksichtigung vertieften forschungsbasierten Wissens sowie gendermedizinischer Erkenntnisse durch,
 
-    3.  analysieren wissenschaftlich begründet die derzeitigen pflegerischen/gesundheitlichen Versorgungsstrukturen, die Steuerung von Versorgungsprozessen und Formen von intra- und interprofessioneller Zusammenarbeit und reflektieren diese kritisch,
 
+        3.  analysieren wissenschaftlich begründet die derzeitigen pflegerischen/gesundheitlichen Versorgungsstrukturen, die Steuerung von Versorgungsprozessen und Formen von intra- und interprofessioneller Zusammenarbeit und reflektieren diese kritisch,
 
-    4.  wirken an der Weiterentwicklung und Implementierung von wissenschaftsorientierten, innovativen Lösungsansätzen der Zusammenarbeit von Berufsgruppen und der Steuerung von Versorgungsprozessen in unterschiedlichen Versorgungsbereichen und über die Versorgungsbereiche hinweg mit.
 
+        4.  wirken an der Weiterentwicklung und Implementierung von wissenschaftsorientierten, innovativen Lösungsansätzen der Zusammenarbeit von Berufsgruppen und der Steuerung von Versorgungsprozessen in unterschiedlichen Versorgungsbereichen und über die Versorgungsbereiche hinweg mit.
 
 
 
 
-**IV.** **Reflexion und Begründung des eigenen Handelns vor dem Hintergrund von Gesetzen, Verordnungen, ethischen Leitlinien und Mitwirkung an der Entwicklung und Implementierung von Qualitätsmanagementkonzepten, Leitlinien und Expertenstandards.**
 
-    Die Absolventinnen und Absolventen
+    IV. Reflexion und Begründung des eigenen Handelns vor dem Hintergrund von Gesetzen, Verordnungen, ethischen Leitlinien und Mitwirkung an der Entwicklung und Implementierung von Qualitätsmanagementkonzepten, Leitlinien und Expertenstandards.
 
-    1.  analysieren wissenschaftlich begründet rechtliche, ökonomische und gesellschaftliche Rahmenbedingungen sowie Verfahren des Qualitätsmanagements und der Qualitätsentwicklung und reflektieren diese kritisch,
+        Die Absolventinnen und Absolventen
 
+        1.  analysieren wissenschaftlich begründet rechtliche, ökonomische und gesellschaftliche Rahmenbedingungen sowie Verfahren des Qualitätsmanagements und der Qualitätsentwicklung und reflektieren diese kritisch,
 
-    2.  wirken an der Entwicklung, Implementierung und Evaluation von wissenschaftsbasierten oder -orientierten innovativen Ansätzen des Qualitätsmanagements und der Qualitätsentwicklung mit,
 
+        2.  wirken an der Entwicklung, Implementierung und Evaluation von wissenschaftsbasierten oder -orientierten innovativen Ansätzen des Qualitätsmanagements und der Qualitätsentwicklung mit,
 
-    3.  beteiligen sich an gesellschaftlichen Aushandlungsprozessen zur Pflege- und Versorgungsqualität
 
+        3.  beteiligen sich an gesellschaftlichen Aushandlungsprozessen zur Pflege- und Versorgungsqualität.
 
 
 
 
-**V.** **Reflexion und Begründung des eigenen Handelns auf der Grundlage von wissenschaftlichen Erkenntnissen und berufsethischen Werthaltungen und Einstellungen sowie Beteiligung an der Berufsentwicklung.**
 
-    Die Absolventinnen und Absolventen
+    V.  Reflexion und Begründung des eigenen Handelns auf der Grundlage von wissenschaftlichen Erkenntnissen und berufsethischen Werthaltungen und Einstellungen sowie Beteiligung an der Berufsentwicklung.
 
-    1.  erschließen und bewerten gesicherte Forschungsergebnisse einschließlich gendermedizinischer Erkenntnisse und wählen diese für den eigenen Handlungsbereich aus,
+        Die Absolventinnen und Absolventen
 
+        1.  erschließen und bewerten gesicherte Forschungsergebnisse einschließlich gendermedizinischer Erkenntnisse und wählen diese für den eigenen Handlungsbereich aus,
 
-    2.  nutzen forschungsgestützte Problemlösungen und neue Technologien für die Gestaltung von Pflegeprozessen,
 
+        2.  nutzen forschungsgestützte Problemlösungen und neue Technologien für die Gestaltung von Pflegeprozessen,
 
-    3.  gestalten die vorbehaltenen Tätigkeiten verantwortlich aus und positionieren pflegewissenschaftliche Erkenntnisse im intra- und interdisziplinären Team,
 
+        3.  gestalten die vorbehaltenen Tätigkeiten verantwortlich aus und positionieren pflegewissenschaftliche Erkenntnisse im intra- und interdisziplinären Team,
 
-    4.  identifizieren eigene und teamübergreifende berufsbezogene Fort- und Weiterbildungsbedarfe,
 
+        4.  identifizieren eigene und teamübergreifende berufsbezogene Fort- und Weiterbildungsbedarfe,
 
-    5.  analysieren und reflektieren wissenschaftlich begründet berufsethische Werthaltungen und Einstellungen,
 
+        5.  analysieren und reflektieren wissenschaftlich begründet berufsethische Werthaltungen und Einstellungen,
 
-    6.  entwickeln ein fundiertes Pflegeverständnis und ein berufliches Selbstverständnis als hochschulisch qualifizierte Pflegefachperson,
 
+        6.  entwickeln ein fundiertes Pflegeverständnis und ein berufliches Selbstverständnis als hochschulisch qualifizierte Pflegefachperson,
 
-    7.  wirken an der Weiterentwicklung der Profession mit.
+
+        7.  wirken an der Weiterentwicklung der Profession mit.
+
+
+
+
+
+
+
+
+B.  Kompetenzen nach § 35 Absatz 2 Satz 2, § 36 Absatz 1 Satz 2, § 37 Absatz 1 Nummer 2
+
+    I.  Grundlagen zur Entwicklung eines professionellen Berufs- und Rollenverständnis mit erweiterter heilkundlicher Verantwortung.
+
+        Die Absolventinnen und Absolventen
+
+        –   entwickeln ein erweitertes Rollenverständnis sowie eine professionelle Haltung im Hinblick auf die Ausübung erweiterter heilkundlicher Aufgaben vor einem rechtlich-ethischen Hintergrund,
+
+
+        –   schätzen ihre eigenen Kompetenzen und Potenziale ein und treffen eine begründete Entscheidung für oder gegen die Übernahme erweiterter heilkundlicher Aufgaben,
+
+
+        –   identifizieren und gestalten die mit den erweiterten heilkundlichen Kompetenzen verbundenen Verantwortungsbereiche in verschiedenen pflegeberuflichen Handlungsfeldern sowie die Spannungsfelder, die sich in der Zusammenarbeit mit Ärztinnen und Ärzten, dem interprofessionellen Team und den involvierten Leistungsträgern ergeben können,
+
+
+        –   übernehmen eine erweiterte Verantwortung für die Einbettung heilkundlicher Tätigkeiten in den Pflege- und Therapieprozess und die Steuerung von Pflege- und Therapieprozessen bei hochkomplexen Pflegebedarfen, gesundheitlichen Problemlagen sowie hochbelasteten und kritischen Lebens- und Pflegesituationen und Verlaufsdynamiken,
+
+
+        –   überwachen und steuern integrierte patientenorientierte Pflege- und Therapieprozesse unter Nutzung vertieften forschungsbasierten Wissens in enger Zusammenarbeit mit Ärztinnen und Ärzten sowie anderen Berufsgruppen,
+
+
+        –   übernehmen die fachliche, wirtschaftliche, ethische und rechtliche Verantwortung für die selbständig ausgeführten übertragenen erweiterten heilkundlichen Aufgaben,
+
+
+        –   beteiligen sich an der wissenschaftsbasierten Weiterentwicklung der Pflege- und Versorgungsqualität und bringen sich in ihrer neuen Rolle als Bindeglied zwischen den zu pflegenden Menschen aller Altersstufen, dem intra- und interprofessionellen Team sowie ggf. den involvierten Leistungsträgern ein,
+
+
+        –   nehmen drohende Über- oder Unterforderungen frühzeitig wahr und erkennen notwendige Veränderungen, z. B. im Aufgabenzuschnitt oder in den Rahmenbedingungen, und leiten entsprechende Handlungsalternativen ab,
+
+
+        –   identifizieren und beheben eigene berufsbezogene Fort- und Weiterbildungsbedarfe,
+
+
+        –   übernehmen die Verantwortung für die Planung, Organisation, Gestaltung, Durchführung, Steuerung und Evaluation von Pflege- und Therapieprozessen bei Menschen in hochkomplexen Pflege- und Lebenssituationen einschließlich der Verordnung von und Versorgung mit Medizinprodukten und Hilfsmitteln,
+
+
+        –   führen selbständig Infusionstherapie und Injektionen unter Berücksichtigung vertieften forschungsbasierten Wissens durch.
+
+
+
+
+
+    II. Erweiterte heilkundliche Verantwortung für Pflege- und Therapieprozesse mit Menschen aller Altersstufen in diabetischer Stoffwechsellage.
+
+        Die Absolventinnen und Absolventen
+
+        –   übernehmen Verantwortung für die Planung, Organisation, Gestaltung, Durchführung, Steuerung und Evaluation von Pflege- und Therapieprozessen bei Menschen aller Altersstufen mit einer diabetischen Stoffwechsellage entlang eines Algorithmus bzw. Behandlungspfads unter Berücksichtigung von entwicklungs- und altersspezifischen besonderen Verlaufsdynamiken in enger Abstimmung mit den zu pflegenden Menschen und ihren Bezugspersonen,
+
+
+        –   schätzen mithilfe von alters- und entwicklungsspezifischen Assessments diabetesassoziierte Werte und klinische Befunde, diabetesassoziierte und patientenindividuelle sowie situationsspezifische Risiken und Komplikationen sowie die funktionelle Unabhängigkeit/Abhängigkeit des zu pflegenden Menschen ein, bewerten die Ergebnisse und leiten Schlussfolgerungen hinsichtlich therapeutischer Interventionen sowie des Hilfe- und Unterstützungsbedarfs der Betroffenen, der Eltern und/oder Bezugspersonen ab,
+
+
+        –   analysieren, reflektieren und evaluieren kritisch Kommunikations-, Interaktions- und Beratungsprozesse auf der Grundlage pflege- und bezugswissenschaftlicher Methoden sowie unter ethischen Gesichtspunkten zur Reflexion der Krankheitsvorstellungen und Bewältigungsarbeit der Betroffenen im Lebensalltag,
+
+
+        –   konzipieren, gestalten und evaluieren abgestimmte entwicklungs- und altersspezifische Schulungs- und Beratungskonzepte mit Menschen in einer diabetischen Stoffwechsellage und ihren Bezugspersonen auf der Basis gesicherter Forschungsergebnisse und etablierter Versorgungsleitlinien,
+
+
+        –   analysieren wissenschaftlich begründet die derzeitigen Versorgungsstrukturen, die Steuerung von Versorgungsprozessen und Formen der intra- und interprofessionellen Zusammenarbeit bei Menschen aller Altersstufen in diabetischer Stoffwechsellage und reflektieren diese kritisch,
+
+
+        –   wirken an der (Weiter-)Entwicklung und Implementierung von wissenschaftsorientierten, innovativen Lösungsansätzen der Zusammenarbeit von Berufsgruppen und der Steuerung von Versorgungsprozessen bei Menschen aller Altersstufen in diabetischer Stoffwechsellage mit,
+
+
+        –   analysieren wissenschaftlich begründet rechtliche, ökonomische und gesellschaftliche Rahmenbedingungen der Versorgung von Menschen aller Altersstufen in diabetischer Stoffwechsellage und bewerten diese kritisch,
+
+
+        –   erschließen und bewerten Forschungsergebnisse und neue Technologien im Bereich der Versorgung von Menschen aller Altersstufen in diabetischer Stoffwechsellage und identifizieren Informations-, Schulungs- und Beratungsbedarfe der am Prozess Beteiligten,
+
+
+        –   erleben und erkennen ihr durch die selbständige Übernahme erweiterter heilkundlicher Aufgaben erweitertes Kompetenzprofil und gestalten die Schnittstellen zu anderen mit der Diabetesproblematik befassten Fachberufen/Gesundheitsberufen.
+
+
+
+
+
+    III. Erweiterte heilkundliche Verantwortung für Pflege- und Therapieprozesse mit Menschen aller Altersstufen, die von chronischen Wunden betroffen sind.
+
+        Die Absolventinnen und Absolventen
+
+        –   übernehmen die Verantwortung für die Planung, Organisation, Gestaltung, Durchführung, Steuerung und Evaluation von Pflege- und Therapieprozessen zur Unterstützung von Menschen mit chronischen oder schwerheilenden Wunden bei der Bewältigung von hochbelasteten Lebens- und Pflegesituationen,
+
+
+        –   nutzen spezifische leitliniengestützte Assessmentinstrumente bzw. koordinieren diagnostische wundbezogene Untersuchungen und erheben und beurteilen den individuellen Pflege- und Therapiebedarf sowie alters- und krankheitsbedingte klinische und familiäre Risiken und Gesundheitsgefährdungen in komplexen und hochkomplexen Pflegesituationen von Menschen mit chronischen Wunden,
+
+
+        –   übernehmen Verantwortung für die Planung, Organisation, Gestaltung, Durchführung, Steuerung und Evaluation von Pflege- und Therapieprozessen entlang eines evidenzbasierten Algorithmus bzw. Behandlungspfads einschließlich der Verordnung von Medizinprodukten (z. B. Verbandmaterial) und Hilfsmitteln bei Menschen mit den besonderen gesundheitlichen Problemlagen einer chronischen oder schwerheilenden Wunde und ihren Bezugspersonen und in enger Abstimmung mit ihnen, entsprechend systematisch entwickelter Leitlinien und Expertenstandards,
+
+
+        –   nutzen ein vertieftes und kritisches pflege- und bezugswissenschaftliches Wissen, um zu pflegende Menschen mit chronischen oder schwerheilenden Wunden und ihre Bezugspersonen bei der Krankheits- und Situationsbewältigung kommunikativ zu unterstützen,
+
+
+        –   konzipieren, gestalten und evaluieren Informations-, Schulungs- und Beratungskonzepte für Menschen mit chronischen Wunden auf der Basis gesicherter Forschungsergebnisse,
+
+
+        –   wirken an der Implementierung erweiterter heilkundlicher Tätigkeiten bei der medizinisch-pflegerischen Versorgung von Menschen mit chronischen Wunden in unterschiedlichen Versorgungsbereichen und über die Versorgungsbereiche hinweg mit,
+
+
+        –   wirken an der Entwicklung, Implementierung und Evaluation von wissenschaftsbasierten oder -orientierten Instrumenten der Qualitätssicherung und -entwicklung im Hinblick auf die pflegerische und medizinische Versorgung von Menschen mit chronischen Wunden mit,
+
+
+        –   schätzen die Wirkung von unterschiedlichen therapeutischen Möglichkeiten bezogen auf die Ziele und den Nutzen für die Wundheilung kritisch ein,
+
+
+        –   erschließen und bewerten (aktuelle) Forschungsergebnisse und Empfehlungen von Fachgesellschaften, z. B. Expertenstandards und Leitlinien, zur Versorgung von Menschen mit chronischen Wunden und nutzen diese ggf. für die Gestaltung des Versorgungsprozesses.
+
+
+
+
+
+    IV. Erweiterte heilkundliche Verantwortung für Pflege- und Therapieprozesse mit Menschen, die von einer Demenz betroffen sind.
+
+        Die Absolventinnen und Absolventen
+
+        –   übernehmen Verantwortung für die Planung, Organisation, Gestaltung, Durchführung, Steuerung und Evaluation von Pflege- und Therapieprozessen entsprechend dem aktuellen Stand der Wissenschaft zur Unterstützung der Menschen mit Demenz und ihrer pflegenden Bezugspersonen und in enger Abstimmung mit ihnen sowie mit dem interprofessionellen Team,
+
+
+        –   nutzen spezifische, wissenschaftlich begründete Assessmentinstrumente der Geriatrie, Demenzdiagnostik und der geriatrischen Pflege, erfassen beobachtbare Verhaltensweisen, die Fähigkeiten zur Selbstversorgung und die Medikation im Kontext dieser Beobachtung, führen Umgebungsassessments durch, veranlassen weiterführende diagnostische Untersuchungen und integrieren biografie- und lebensweltorientierte Daten vor dem Hintergrund eines vertieften, an Forschungsergebnissen orientierten Verständnisses für die Lebenssituation der Menschen, die von Demenz betroffen sind,
+
+
+        –   fördern die Entwicklung der zu pflegenden Menschen in ihrem sozialen Bezugssystem sowie einen möglichst weitgehenden Erhalt von Autonomie auf der Basis von pflege- und bezugswissenschaftlichem Wissen,
+
+
+        –   begründen den Pflege- und Therapieprozess sowohl mit diagnosebedingten Algorithmen bzw. Behandlungspfaden als auch unter Berücksichtigung individueller personenzentrierter Aspekte der Beziehungsgestaltung,
+
+
+        –   nutzen ein vertieftes, kritisches pflege- und bezugswissenschaftliches Wissen, um zu pflegende Menschen mit Demenz und ihre Bezugspersonen bei der Krankheits- und Situationsbewältigung zu unterstützen,
+
+
+        –   konzipieren, gestalten und evaluieren Beratungs- und Schulungskonzepte für Menschen mit Demenz sowie für ihre Bezugspersonen auf der Basis gesicherter Forschungsergebnisse,
+
+
+        –   treffen in moralischen Konfliktsituationen begründete ethische Entscheidungen unter Berücksichtigung pflegeethischer Ansätze,
+
+
+        –   wirken an der (Weiter-)Entwicklung und Implementierung von wissenschaftsorientierten, innovativen Lösungsansätzen der Zusammenarbeit von Berufsgruppen und der Steuerung von Versorgungsprozessen mit Menschen mit Demenz und ihren Bezugspersonen mit,
+
+
+        –   wirken an der Implementierung von wissenschaftsbasierten oder -orientierten Instrumenten der Qualitätssicherung und -entwicklung im Hinblick auf die Unterstützung von Menschen mit Demenz im jeweiligen Versorgungsbereich mit,
+
+
+        –   erschließen und bewerten aktuelle Forschungsergebnisse und neue Technologien zur Versorgung von Menschen mit Demenz und setzen diese im Pflege- und Therapieprozess um.
+
+
+
 
 
 
@@ -3606,6 +3794,64 @@ bzgl. der einzelnen Ändernungen vgl. Fußnote)
     *
 
 
+   (zu § 42 Satz 2)
 
-#### Anlage 14 (weggefallen)
+#### Anlage 14 Anlage zur Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung
+
+(Fundstelle: BGBl. 2023 I Nr. 359, S. 36 )
+
+(Hinweis nach § 42 Satz 2 der Pflegeberufe-Ausbildungs- und -Prüfungsverordnung über die erweiterten heilkundlichen Kompetenzen nach § 37 Absatz 2 Satz 2 des Pflegeberufegesetzes)
+
+*    *
+    *
+    *
+
+*    *   Name, Vorname
+
+
+*    *
+
+*    *
+
+*    *   Geburtsdatum
+
+    *
+    *   Geburtsort
+
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+
+
+   hat im Rahmen der hochschulischen Pflegeausbildung nach Teil 3 des Pflegeberufegesetzes die erforderlichen Kompetenzen zur selbständigen und eigenverantwortlichen Ausübung erweiterter heilkundlicher Tätigkeiten in den Bereichen diabetische Stoffwechsellage, chronische Wunden und Demenz erworben.
+
+
+*    *   Ort, Datum
+
+    *
+    *
+
+*    *
+    *
+    *   (Siegel)
+
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *   (Unterschrift oder qualifizierte elektronische Signatur)
+
+
+
 

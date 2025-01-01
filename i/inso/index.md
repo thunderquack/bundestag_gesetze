@@ -201,7 +201,7 @@ Das Gericht kann die Stundung aufheben, wenn
 
 ### § 8 Zustellungen
 
-(1) Die Zustellungen erfolgen von Amts wegen, ohne dass es einer Beglaubigung des zuzustellenden Schriftstücks bedarf. Sie können dadurch bewirkt werden, dass das Schriftstück unter der Anschrift des Zustellungsadressaten zur Post gegeben wird; § 184 Abs. 2 Satz 1, 2 und 4 der Zivilprozessordnung gilt entsprechend. Soll die Zustellung im Inland bewirkt werden, gilt das Schriftstück drei Tage nach Aufgabe zur Post als zugestellt.
+(1) Die Zustellungen erfolgen von Amts wegen, ohne dass es einer Beglaubigung des zuzustellenden Schriftstücks bedarf. Sie können dadurch bewirkt werden, dass das Schriftstück unter der Anschrift des Zustellungsadressaten zur Post gegeben wird; § 184 Abs. 2 Satz 1, 2 und 4 der Zivilprozessordnung gilt entsprechend. Soll die Zustellung im Inland bewirkt werden, gilt das Schriftstück am vierten Tag nach Aufgabe zur Post als zugestellt.
 
 (2) An Personen, deren Aufenthalt unbekannt ist, wird nicht zugestellt. Haben sie einen zur Entgegennahme von Zustellungen berechtigten Vertreter, so wird dem Vertreter zugestellt.
 

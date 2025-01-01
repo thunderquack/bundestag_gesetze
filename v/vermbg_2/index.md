@@ -129,7 +129,7 @@ Zuletzt geändert durch
 
 (3) Die Anlage vermögenswirksamer Leistungen in Gewinnschuldverschreibungen im Sinne des Absatzes 1 Nr. 1 Buchstabe b und des Absatzes 2 Satz 1, in denen neben der gewinnabhängigen Verzinsung eine gewinnunabhängige Mindestverzinsung zugesagt ist, setzt voraus, daß
 
-1.  der Aussteller in der Gewinnschuldverschreibung erklärt, die gewinnunabhängige Mindestverzinsung werde im Regelfall die Hälfte der Gesamtverzinsung nicht überschreiten, oder
+1.  die gewinnunabhängige Mindestverzinsung der Gewinnschuldverschreibung im Regelfall die Hälfte der Gesamtverzinsung nicht überschreitet oder
 
 
 2.  die gewinnunabhängige Mindestverzinsung zum Zeitpunkt der Ausgabe der Gewinnschuldverschreibung die Hälfte der Emissionsrendite festverzinslicher Wertpapiere nicht überschreitet, die in den Monatsberichten der Deutschen Bundesbank für den viertletzten Kalendermonat ausgewiesen wird, der dem Kalendermonat der Ausgabe vorausgeht.

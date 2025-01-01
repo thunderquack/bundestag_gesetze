@@ -186,21 +186,7 @@ Die Einsatzstellen, Zentralstellen und Träger dürfen personenbezogene Daten na
 
 (1) Für eine Tätigkeit im Rahmen eines Bundesfreiwilligendienstes im Sinne dieses Gesetzes sind die Arbeitsschutzbestimmungen und das Jugendarbeitsschutzgesetz entsprechend anzuwenden.
 
-(2) Soweit keine ausdrückliche sozialversicherungsrechtliche Regelung vorhanden ist, finden auf den Bundesfreiwilligendienst die sozialversicherungsrechtlichen Bestimmungen entsprechende Anwendung, die für die Jugendfreiwilligendienste nach dem Jugendfreiwilligendienstegesetz gelten. Im Übrigen sind folgende Vorschriften entsprechend anzuwenden:
-
-1.  § 3 der Sonderurlaubsverordnung,
-
-
-2.  § 87 Absatz 4 Nummer 2 des Vierzehnten Buches Sozialgesetzbuch,
-
-
-3.  § 1 Absatz 1 Nummer 2 Buchstabe h der Verordnung über den Ausgleich gemeinwirtschaftlicher Leistungen im Straßenpersonenverkehr,
-
-
-4.  § 1 Absatz 1 Nummer 2 Buchstabe h der Verordnung über den Ausgleich gemeinwirtschaftlicher Leistungen im Eisenbahnverkehr.
-
-
-
+(2) Soweit keine ausdrückliche sozialversicherungsrechtliche Regelung vorhanden ist, finden auf den Bundesfreiwilligendienst die sozialversicherungsrechtlichen Bestimmungen entsprechende Anwendung, die für die Jugendfreiwilligendienste nach dem Jugendfreiwilligendienstegesetz gelten.
 
 
 ## § 13a Urlaub
@@ -268,7 +254,6 @@ Die Einsatzstellen, Zentralstellen und Träger können mit ihrem Einverständnis
 (3) Den Einsatzstellen wird der Aufwand für das Taschengeld, die Sozialversicherungsbeiträge, die gesetzlich geregelten Zuschüsse zu Beiträgen zur Kranken- und Pflegeversicherung sowie zu einer berufsständischen Versorgungseinrichtung und die pädagogische Begleitung im Rahmen der im Haushaltsplan vorgesehenen Mittel erstattet; das Bundesministerium für Familie, Senioren, Frauen und Jugend legt im Einvernehmen mit dem Bundesministerium der Finanzen einheitliche Obergrenzen für die Erstattung fest. Der Zuschuss für den Aufwand für die pädagogische Begleitung wird nach den für das freiwillige soziale Jahr im Inland geltenden Richtlinien des Bundes festgesetzt.
 
 
-## § 18 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+## § 18 (weggefallen)
 
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 13 Absatz 2 Satz 2 Nummer 2 in der am 31. Dezember 2023 geltenden Fassung weiter.
 

@@ -1414,16 +1414,13 @@ Zu den bereitzustellenden Informationen zählen insbesondere Stammdaten, Planung
 
 
 
-4.  den Stand der Umsetzung des vorhergehenden Netzentwicklungsplans und im Falle von Verzögerungen, die dafür maßgeblichen Gründe der Verzögerungen,
+4.  Angaben zur zu verwendenden Übertragungstechnologie,
 
 
-5.  Angaben zur zu verwendenden Übertragungstechnologie,
+5.  Darlegung der in Betracht kommenden anderweitigen Planungsmöglichkeiten von Netzausbaumaßnahmen,
 
 
-6.  Darlegung der in Betracht kommenden anderweitigen Planungsmöglichkeiten von Netzausbaumaßnahmen,
-
-
-7.  beginnend mit der Vorlage des ersten Entwurfs des Netzentwicklungsplans im Jahr 2018 alle wirksamen Maßnahmen zur bedarfsgerechten Optimierung, Verstärkung und zum Ausbau der Offshore-Anbindungsleitungen in der ausschließlichen Wirtschaftszone und im Küstenmeer einschließlich der Netzanknüpfungspunkte an Land, die bis zum Ende der jeweiligen Betrachtungszeiträume nach § 12a Absatz 1 für einen schrittweisen, bedarfsgerechten und wirtschaftlichen Ausbau sowie einen sicheren und zuverlässigen Betrieb der Offshore-Anbindungsleitungen sowie zum Weitertransport des auf See erzeugten Stroms oder für eine Anbindung von Testfeldern im Sinne des § 3 Nummer 9 des Windenergie-auf-See-Gesetzes (Testfeld-Anbindungsleitungen) erforderlich sind; für die Maßnahmen nach dieser Nummer werden Angaben zum geplanten Zeitpunkt der Fertigstellung vorgesehen; hierbei müssen die Festlegungen des zuletzt bekannt gemachten Flächenentwicklungsplans nach den §§ 4 bis 8 des Windenergie-auf-See-Gesetzes zu Grunde gelegt werden.
+6.  beginnend mit der Vorlage des ersten Entwurfs des Netzentwicklungsplans im Jahr 2018 alle wirksamen Maßnahmen zur bedarfsgerechten Optimierung, Verstärkung und zum Ausbau der Offshore-Anbindungsleitungen in der ausschließlichen Wirtschaftszone und im Küstenmeer einschließlich der Netzanknüpfungspunkte an Land, die bis zum Ende der jeweiligen Betrachtungszeiträume nach § 12a Absatz 1 für einen schrittweisen, bedarfsgerechten und wirtschaftlichen Ausbau sowie einen sicheren und zuverlässigen Betrieb der Offshore-Anbindungsleitungen sowie zum Weitertransport des auf See erzeugten Stroms oder für eine Anbindung von Testfeldern im Sinne des § 3 Nummer 9 des Windenergie-auf-See-Gesetzes (Testfeld-Anbindungsleitungen) erforderlich sind; für die Maßnahmen nach dieser Nummer werden Angaben zum geplanten Zeitpunkt der Fertigstellung vorgesehen; hierbei müssen die Festlegungen des zuletzt bekannt gemachten Flächenentwicklungsplans nach den §§ 4 bis 8 des Windenergie-auf-See-Gesetzes zu Grunde gelegt werden.
 
 
 
@@ -2742,7 +2739,7 @@ Festlegungen nach Nummer 2 erfolgen im Einvernehmen mit dem Bundesamt für Seesc
 4.  nach den §§ 17a und 17b in der bis zum Ablauf des 28. Dezember 2023 geltenden Fassung,
 
 
-5.  nach § 12b Absatz 1 Satz 3 Nummer 7 und
+5.  nach § 12b Absatz 1 Satz 4 Nummer 6 und
 
 
 6.  für den Flächenentwicklungsplan nach § 5 des Windenergie-auf-See-Gesetzes.
@@ -2807,7 +2804,7 @@ Anbindungsverpflichtete Übertragungsnetzbetreiber sollen Versicherungen zur Dec
 1.  auf Grund der finanziellen Verrechnung zwischen den Übertragungsnetzbetreibern nach § 17f Absatz 1 Satz 1 Nummer 1 bis 5 sowie aus den vereinnahmten Aufschlägen auf die Netzentgelte für die Netzkosten nach § 17d Absatz 1 und den §§ 17a und 17b in der bis zum Ablauf des 28. Dezember 2023 geltenden Fassung sowie
 
 
-2.  für Kosten nach § 12b Absatz 1 Satz 3 Nummer 7 und des Flächenentwicklungsplans nach § 5 des Windenergie-auf-See-Gesetzes nach § 17f Absatz 1 Satz 1 Nummer 6.
+2.  für Kosten nach § 12b Absatz 1 Satz 4 Nummer 6 und des Flächenentwicklungsplans nach § 5 des Windenergie-auf-See-Gesetzes nach § 17f Absatz 1 Satz 1 Nummer 6.
 
 
 
@@ -4642,7 +4639,7 @@ Hierbei sind die beiderseitigen Interessen angemessen zu berücksichtigen. Die j
 
 (1) Stromlieferanten sind verpflichtet, in oder als Anlage zu ihren Rechnungen an Letztverbraucher und in an diese gerichtetem Werbematerial sowie auf ihrer Website für den Verkauf von Elektrizität anzugeben:
 
-1.  den Anteil der einzelnen Energieträger (Kernkraft, Kohle, Erdgas und sonstige fossile Energieträger, Mieterstrom, gefördert nach dem EEG, erneuerbare Energien mit Herkunftsnachweis, nicht gefördert nach dem EEG) an dem Gesamtenergieträgermix, den der Lieferant im Land des Liefervertrags im letzten oder vorletzten Jahr verwendet hat; spätestens ab 1. November eines Jahres sind jeweils die Werte des vorangegangenen Kalenderjahres anzugeben;
+1.  den Anteil der einzelnen Energieträger (Kernkraft, Kohle, Erdgas und sonstige fossile Energieträger, Mieterstrom, gefördert nach dem EEG, erneuerbare Energien mit Herkunftsnachweis, nicht gefördert nach dem EEG) an dem Gesamtenergieträgermix, den der Lieferant im Land des Liefervertrags im letzten oder vorletzten Jahr verwendet hat; spätestens ab 1. Juli eines Jahres sind jeweils die Werte des vorangegangenen Kalenderjahres anzugeben;
 
 
 2.  Informationen über die Umweltauswirkungen zumindest in Bezug auf Kohlendioxidemissionen (CO
@@ -6657,7 +6654,7 @@ Vor dem Beschwerdegericht müssen die Beteiligten sich durch einen Rechtsanwalt 
 
 Gegen eine der Entscheidung vorausgehende Entscheidung findet die Rüge nicht statt.
 
-(2) Die Rüge ist innerhalb von zwei Wochen nach Kenntnis von der Verletzung des rechtlichen Gehörs zu erheben; der Zeitpunkt der Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf eines Jahres seit Bekanntgabe der angegriffenen Entscheidung kann die Rüge nicht mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem dritten Tage nach Aufgabe zur Post als bekannt gegeben. Die Rüge ist schriftlich oder zur Niederschrift des Urkundsbeamten der Geschäftsstelle bei dem Gericht zu erheben, dessen Entscheidung angegriffen wird. Die Rüge muss die angegriffene Entscheidung bezeichnen und das Vorliegen der in Absatz 1 Satz 1 Nr. 2 genannten Voraussetzungen darlegen.
+(2) Die Rüge ist innerhalb von zwei Wochen nach Kenntnis von der Verletzung des rechtlichen Gehörs zu erheben; der Zeitpunkt der Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf eines Jahres seit Bekanntgabe der angegriffenen Entscheidung kann die Rüge nicht mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem vierten Tage nach Aufgabe zur Post als bekannt gegeben. Die Rüge ist schriftlich oder zur Niederschrift des Urkundsbeamten der Geschäftsstelle bei dem Gericht zu erheben, dessen Entscheidung angegriffen wird. Die Rüge muss die angegriffene Entscheidung bezeichnen und das Vorliegen der in Absatz 1 Satz 1 Nr. 2 genannten Voraussetzungen darlegen.
 
 (3) Den übrigen Beteiligten ist, soweit erforderlich, Gelegenheit zur Stellungnahme zu geben.
 

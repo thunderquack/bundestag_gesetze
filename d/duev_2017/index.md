@@ -454,7 +454,7 @@ Bewertung des betrieblichen Nährstoffvergleiches
 
 Der nach Satz 1 Nummer 1 jeweils für die Schläge, die Bewirtschaftungseinheiten oder die nach § 3 Absatz 2 Satz 3 zusammengefassten Flächen aufgezeichnete Düngebedarf ist bis zum Ablauf des 31. März des der Düngebedarfsermittlung folgenden Kalenderjahres zu einer jährlichen betrieblichen Gesamtsumme des Düngebedarfs zusammenzufassen; die jährliche betriebliche Gesamtsumme des Düngebedarfs ist nach Maßgabe der Anlage 5 aufzuzeichnen.
 
-(2) Der Betriebsinhaber hat spätestens zwei Tage nach jeder Düngungsmaßnahme, einschließlich der Aufbringung nach § 3 Absatz 3 Satz 2 und 3 sowie § 5 Absatz 3 Satz 4, folgende Angaben über die Düngungsmaßnahme aufzuzeichnen:
+(2) Der Betriebsinhaber hat spätestens 14 Tage nach jeder Düngungsmaßnahme, einschließlich der Aufbringung nach § 3 Absatz 3 Satz 2 und 3 sowie § 5 Absatz 3 Satz 4, folgende Angaben über die Düngungsmaßnahme aufzuzeichnen:
 
 1.  eindeutige Bezeichnung des Schlages, der Bewirtschaftungseinheit oder der nach § 3 Absatz 2 Satz 3 zusammengefassten Fläche,
 

@@ -214,9 +214,9 @@ Die Angaben nach Satz 1 Nummer 1 bis 4 entfallen, wenn der Hersteller einer Nutz
 
 (2) Einwegkunststoffprodukte nach Anlage 1 dürfen nicht gewerbsmäßig zum Verkauf angeboten werden, wenn ihr Hersteller nicht nach § 7 Absatz 1 Satz 1 registriert ist.
 
-(3) (zukünftig in Kraft)
+(3) Betreiber elektronischer Marktplätze dürfen das Anbieten der in Anlage 1 genannten Einwegkunststoffprodukte nicht ermöglichen, wenn der Hersteller dieser Einwegkunststoffprodukte nicht nach § 7 Absatz 1 Satz 1 registriert ist.
 
-(4) (zukünftig in Kraft)
+(4) Fulfilment-Dienstleister dürfen die in § 3 Nummer 8 genannten Dienstleistungen in Bezug auf Einwegkunststoffprodukte nach Anlage 1 nicht erbringen, wenn der Hersteller dieser Einwegkunststoffprodukte nicht nach § 7 Absatz 1 Satz 1 registriert ist.
 
 
 ### § 10 Beauftragung von Bevollmächtigten; Drittbeauftragung
@@ -232,8 +232,17 @@ Die Angaben nach Satz 1 Nummer 1 bis 4 entfallen, wenn der Hersteller einer Nutz
 (5) Hersteller können Dritte mit der Erfüllung ihrer Pflichten beauftragen; § 22 Satz 2 und 3 des Kreislaufwirtschaftsgesetzes gilt entsprechend. Satz 1 gilt nicht für die Registrierung nach § 7 Absatz 1 und die jährliche Meldung nach § 11 Absatz 1.
 
 
-### § 11 (zukünftig in Kraft)
+### § 11 Jährliche Meldung der Hersteller
 
+(1) Hersteller haben jährlich bis zum 15. Mai dem Umweltbundesamt die von ihnen im vorangegangenen Kalenderjahr erstmals auf dem Markt bereitgestellten oder verkauften Einwegkunststoffprodukte nach Anlage 1 gemäß den Sätzen 2 und 3, aufgeschlüsselt nach jeweiliger Art und Masse, in Kilogramm, zu melden. Die Meldung bedarf der Prüfung und Bestätigung durch einen registrierten Sachverständigen im Sinne von § 3 Absatz 15 des Verpackungsgesetzes oder einen nach § 27 Absatz 2 des Verpackungsgesetzes registrierten Wirtschaftsprüfer, Steuerberater oder vereidigten Buchprüfer. Die Bestätigung ist mit einer qualifizierten elektronischen Signatur gemäß Artikel 3 Nummer 12 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73) zu versehen und vom Hersteller dem Umweltbundesamt zusammen mit der Meldung und dem Prüfbericht elektronisch zu übermitteln. Im Fall einer Bevollmächtigung nach § 10 Absatz 1 übermittelt das Umweltbundesamt die vom Hersteller getätigten Angaben unverzüglich dem Bevollmächtigten.
+
+(2) Das Umweltbundesamt stellt für die Meldung nach Absatz 1 Satz 1, die Bestätigung und die Übermittlung der Meldung und des Prüfberichts nach Absatz 1 Satz 3 sowie die sonstige Kommunikation mit den Herstellern einheitliche elektronische Formulare zur Verfügung und regelt das nähere Verfahren. Das Umweltbundesamt veröffentlicht jährlich auf seiner Internetseite bis zum 31. Dezember Daten über die im Vorjahr insgesamt erstmals auf dem Markt bereitgestellten oder verkauften Einwegkunststoffprodukte nach Anlage 1, aufgeschlüsselt nach jeweiliger Art und Masse.
+
+(3) Bei Vorliegen von Anhaltspunkten für eine Unrichtigkeit oder Unvollständigkeit der Meldung kann das Umweltbundesamt von dem Hersteller die Vorlage weiterer für die Prüfung im Einzelfall erforderlicher Unterlagen verlangen. Werden die Unterlagen nicht eingereicht oder sind die eingereichten Unterlagen nicht geeignet, um die Anhaltspunkte für eine Unrichtigkeit oder Unvollständigkeit zu widerlegen, gilt die Meldung nach Absatz 1 Satz 1 als nicht abgegeben.
+
+(4) Von der Pflicht nach Absatz 1 Satz 2 ist befreit, wer im vorangegangen Kalenderjahr insgesamt weniger als 100 Kilogramm Einwegkunststoffprodukte nach Anlage 1 oder ausschließlich bepfandete Getränkeflaschen nach § 31 des Verpackungsgesetzes erstmals auf dem Markt bereitgestellt oder verkauft hat. Das Umweltbundesamt kann in den Fällen des Satzes 1 jederzeit verlangen, dass eine Prüfung gemäß Absatz 1 Satz 2 durchzuführen und die Bestätigung gemäß Absatz 1 Satz 3 vorzulegen ist.
+
+(5) Das Umweltbundesamt hat im Einvernehmen mit dem Bundeskartellamt Prüfleitlinien zu entwickeln, die von den registrierten Sachverständigen sowie den registrierten Wirtschaftsprüfern, Steuerberatern und vereidigten Buchprüfern bei Prüfungen im Rahmen dieses Gesetzes zu beachten sind. Verstöße gegen die Prüfleitlinien hat das Umweltbundesamt der Zentralen Stelle unverzüglich mitzuteilen und dabei vorhandene Beweisdokumente beizufügen.
 
 
 ## Teil 4 - Einwegkunststoffabgabe
@@ -244,8 +253,19 @@ Die Angaben nach Satz 1 Nummer 1 bis 4 entfallen, wenn der Hersteller einer Nutz
 Die Hersteller von Einwegkunststoffprodukten nach Anlage 1 entrichten jährlich eine Sonderabgabe zur Erstattung der Kosten nach Anlage 2 (Einwegkunststoffabgabe).
 
 
-### § 13 (zukünftig in Kraft)
+### § 13 Festsetzung, Fälligkeit und Säumnis
 
+(1) Die Festsetzung der Einwegkunststoffabgabe erfolgt jährlich durch einen Abgabebescheid des Umweltbundesamtes. Die Einwegkunststoffabgabe berechnet sich aus der gemäß § 11 Absatz 1 gemeldeten Masse der erstmals auf dem Markt bereitgestellten oder verkauften Einwegkunststoffprodukte nach Anlage 1 multipliziert mit dem durch Rechtsverordnung nach § 14 festzulegenden Abgabesatz.
+
+(2) Hat ein Hersteller entgegen § 11 Absatz 1 keine Meldung abgegeben, schätzt das Umweltbundesamt die Masse der erstmals auf dem Markt bereitgestellten oder verkauften Einwegkunststoffprodukte nach Anlage 1 auf der Grundlage vorangegangener Meldungen sowie anderweitig verfügbarer Daten.
+
+(3) Die Einwegkunststoffabgabe wird einen Monat nach Zugang des Abgabebescheids fällig, wenn dieser nicht einen anderen Zeitpunkt für die Fälligkeit bestimmt.
+
+(4) Ist der Abgabepflichtige länger als drei Werktage mit der Entrichtung der Einwegkunststoffabgabe in Verzug, so hat er für jeden angefangenen Monat der Säumnis einen Säumniszuschlag von 1 Prozent des abgerundeten rückständigen Betrags zu entrichten. Der Säumniszuschlag wird nur erhoben, wenn der rückständige Betrag 50 Euro übersteigt und die Säumnis länger als drei Tage beträgt. Für die Berechnung des Säumniszuschlages ist der rückständige Betrag auf volle 50 Euro abzurunden. Erhobene Säumniszuschläge werden in den Einnahmen des Einwegkunststofffonds verbucht.
+
+(5) Der Widerspruch gegen den Abgabebescheid hat keine aufschiebende Wirkung.
+
+(6) Der Anspruch auf Zahlung der Einwegkunststoffabgabe verjährt nach fünf Jahren. Die Verjährung beginnt mit dem Ablauf des Kalenderjahres, in dem der Anspruch erstmals fällig geworden ist. Die Verjährung ist gehemmt, solange der Anspruch wegen höherer Gewalt innerhalb der letzten sechs Monate der Verjährungsfrist nicht verfolgt werden kann. § 19 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154), das zuletzt durch Artikel 2 des Gesetzes vom 16. Juli 2021 (BGBl. I S. 3019) geändert worden ist, in der jeweils geltenden Fassung, ist entsprechend anzuwenden.
 
 
 ### § 14 Festlegung der Abgabesätze, Verordnungsermächtigung
@@ -314,11 +334,47 @@ Die Hersteller von Einwegkunststoffprodukten nach Anlage 1 entrichten jährlich 
 Zur Registrierung der Anspruchsberechtigten nach § 15 richtet das Umweltbundesamt ein informationstechnisches System ein und eröffnet den Zugang für die Anspruchsberechtigten auf seiner Internetseite. Das Umweltbundesamt kann nähere Anweisungen zum elektronischen Registrierungsverfahren erteilen sowie für die sonstige Kommunikation mit den Anspruchsberechtigten die elektronische Übermittlung, eine bestimmte Verschlüsselung sowie die Eröffnung eines Zugangs für die Übermittlung elektronischer Dokumente bestimmen. Das Umweltbundesamt ist befugt, die in § 15 Absatz 2 genannten Daten zu erheben, zu speichern und zu verwenden. Die Daten sind ein Jahr nach Ablauf des Tages, an dem die Registrierung des Anspruchsberechtigten endet, automatisiert zu löschen.
 
 
-### § 17 (zukünftig in Kraft)
+### § 17 Jährliche Meldung der Anspruchsberechtigten
+
+(1) Die Erstattung von Kosten setzt voraus, dass der registrierte Anspruchsberechtigte dem Umweltbundesamt bis zum 15. Mai des betreffenden Jahres folgende Daten für das vorangegangene Kalenderjahr meldet:
+
+1.  Angaben zu den die Sammlungskosten verursachenden Leistungen,
+
+
+2.  Angaben zu den die Reinigungskosten verursachenden Leistungen,
+
+
+3.  Angaben zu den die Sensibilisierungskosten verursachenden Leistungen,
+
+
+4.  Angaben zu den die Datenerhebungs- und -übermittlungskosten verursachenden Leistungen.
 
 
 
-### § 18 (zukünftig in Kraft)
+
+(2) Erfolgt keine fristgerechte Meldung nach Absatz 1, ist eine Auszahlung aus dem Einwegkunststofffonds nach § 21 für das vorangegangene Kalenderjahr ausgeschlossen.
+
+(3) Das Umweltbundesamt legt die Art der zu meldenden Angaben und der zu erbringenden Nachweise fest, stellt für die Meldung und den Prüfbericht nach § 18 Absatz 1 einheitliche elektronische Formulare zur Verfügung und regelt das nähere Verfahren. Das Umweltbundesamt veröffentlicht jährlich bis zum 31. Dezember die Daten über die im Vorjahr insgesamt erbrachten Leistungen und dadurch entstandenen Kosten nach Absatz 1 auf seiner Internetseite.
+
+
+### § 18 Kontrolle der Angaben
+
+(1) Bei Vorliegen von Anhaltspunkten für die Unrichtigkeit der Meldung eines Anspruchsberechtigten nach § 17 Absatz 1, die auch nach entsprechender Aufforderung innerhalb einer angemessenen Frist nicht ausgeräumt werden konnten, kann das Umweltbundesamt anordnen, dass der Anspruchsberechtigte die Angaben der Meldung auf seine Kosten durch einen zugelassenen Sachverständigen überprüfen zu lassen und den Prüfbericht vorzulegen hat. Kommt ein Anspruchsberechtigter dieser Anordnung nicht in der gesetzten Frist nach, gilt die Meldung als nicht erfolgt.
+
+(2) Zugelassener Sachverständiger nach Absatz 1 Satz 1 ist, wer
+
+1.  nach § 36 der Gewerbeordnung in der Fassung der Bekanntmachung vom 22. Februar 1999 (BGBl. I S. 202), die zuletzt durch Artikel 21 des Gesetzes vom 19. Dezember 2022 (BGBl. I S. 2606) geändert worden ist, in der jeweils geltenden Fassung, öffentlich bestellt ist,
+
+
+2.  als Umweltgutachter oder Umweltgutachterorganisation auf Grund einer Zulassung nach den §§ 9 und 10 oder nach § 18 des Umweltauditgesetzes in der Fassung der Bekanntmachung vom 4. September 2002 (BGBl. I S. 3490), das zuletzt durch Artikel 17 des Gesetzes vom 10. August 2021 (BGBl. I S. 3436) geändert worden ist, in der jeweils geltenden Fassung, in dem Bereich tätig werden darf, der näher bestimmt wird durch Anhang I Abschnitt E Abteilung 38 der Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1), die zuletzt durch die Verordnung (EG) Nr. 295/2008 (ABl. L 97 vom 9.4.2008, S. 13) geändert worden ist, in der jeweils geltenden Fassung,
+
+
+3.  eine Befähigung durch eine Akkreditierung der nationalen Akkreditierungsstelle in einem allgemein anerkannten Verfahren hat feststellen lassen oder
+
+
+4.  in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum niedergelassen ist und eine Tätigkeit im Inland nur vorübergehend und gelegentlich ausüben will und seine Berufsqualifikation vor Aufnahme der Tätigkeit entsprechend den §§ 13a und 13b der Gewerbeordnung hat nachprüfen lassen; Verfahren nach dieser Nummer können über eine einheitliche Stelle abgewickelt werden.
+
+
 
 
 
@@ -336,12 +392,34 @@ Zur Registrierung der Anspruchsberechtigten nach § 15 richtet das Umweltbundesa
 (4) Das Punktesystem ist regelmäßig, mindestens alle drei Jahre, zu überprüfen und, soweit erforderlich, anzupassen.
 
 
-### § 20 (zukünftig in Kraft)
+### § 20 Bekanntgabe und Berechnung des Punktewertes
+
+(1) Das Umweltbundesamt berechnet jährlich den Punktewert und gibt diesen bis zum Ablauf des 30. September bekannt. Der Punktewert ist der Quotient aus dem Gesamtauszahlungsbetrag und der Gesamtpunktzahl.
+
+(2) Der Gesamtauszahlungsbetrag berechnet sich aus den bis zum 31. August eingegangenen Einnahmen des Einwegkunststofffonds
+
+1.  abzüglich von
+
+    a)  im vorangegangenen Kalenderjahr angefallenen Verwaltungskosten,
+
+
+    b)  vorgesehenen Mitteln nach § 5 Absatz 2 Satz 1 sowie
 
 
 
-### § 21 (zukünftig in Kraft)
 
+
+2.  gegebenenfalls zuzüglich von Mitteln nach § 5 Absatz 2 Satz 1 Nummer 3.
+
+
+
+
+(3) Die Gesamtpunktzahl ist die Summe der Punkte aller Anspruchsberechtigten für die im vorangegangenen Kalenderjahr erbrachten Leistungen.
+
+
+### § 21 Festsetzung und Auszahlung der Mittel
+
+Das Umweltbundesamt setzt die auszuzahlenden Mittel aus dem Einwegkunststofffonds gegenüber dem jeweiligen Anspruchsberechtigten durch einen Leistungsbescheid fest. Die Höhe der Mittel berechnet sich aus der für die erbrachten Leistungen nach dem Punktesystem errechneten Punktzahl multipliziert mit dem Punktewert. Die Auszahlungen sollen spätestens einen Monat nach Eintritt der Bestandskraft des Bescheides erfolgt sein.
 
 
 ## Teil 7 - Feststellungsbefugnisse

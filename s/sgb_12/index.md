@@ -1419,11 +1419,6 @@ Zuletzt geändert durch
     *   Sozialhilfe für Ausländerinnen und Ausländer mit einem Aufenthaltstitel nach § 24 des Aufenthaltsgesetzes oder einer entsprechenden Fiktionsbescheinigung
 
 
-*    *   § 147
-
-    *   Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
-
-
 
 Anlage zu § 28
 
@@ -2304,7 +2299,7 @@ Hat ein Kreis oder eine kreisfreie Stadt eine Satzung nach den §§ 22a bis 22c 
 
 
 
-Außerdem kann der Tag der Rechtshängigkeit mitgeteilt werden. Die Übermittlung unterbleibt, wenn die Nichtzahlung der Miete nach dem Inhalt der Klageschrift offensichtlich nicht auf Zahlungsunfähigkeit des Mieters beruht. Die übermittelten Daten dürfen auch für entsprechende Zwecke der Sozialen Entschädigung, soweit es sich um Besondere Leistungen im Einzelfall nach Kapitel 11 des Vierzehnten Buches handelt, gespeichert, verändert, genutzt, übermittelt und in der Verarbeitung eingeschränkt werden.
+Außerdem kann der Tag der Rechtshängigkeit mitgeteilt werden. Die Übermittlung unterbleibt, wenn die Nichtzahlung der Miete nach dem Inhalt der Klageschrift offensichtlich nicht auf Zahlungsunfähigkeit des Mieters beruht. Die übermittelten Daten dürfen auch für entsprechende Zwecke der Sozialen Entschädigung, soweit es sich um Besondere Leistungen im Einzelfall nach Kapitel 11 des Vierzehnten Buches handelt, gespeichert, verändert, genutzt, übermittelt und in der Verarbeitung eingeschränkt werden. Gleiches gilt für die Zwecke der Soldatenentschädigung nach dem Soldatenentschädigungsgesetz.
 
 
 ### Fünfter Abschnitt - Gewährung von Darlehen
@@ -3864,7 +3859,7 @@ zu bestimmen.
 1.  Leistungen nach diesem Buch,
 
 
-2.  (weggefallen)
+2.  Leistungen des Ausgleichs für gesundheitliche Schädigungsfolgen nach dem Soldatenentschädigungsgesetz,
 
 
 3.  Renten oder Beihilfen nach dem Bundesentschädigungsgesetz für Schaden an Leben sowie an Körper oder Gesundheit bis zur Höhe der vergleichbaren Leistungen nach dem Vierzehnten Buch,
@@ -4883,7 +4878,10 @@ Erhebungsmerkmale nach § 128a Absatz 2 Nummer 2 sind
 11. öffentlich-rechtliche Leistungen für Kinder,
 
 
-12. sonstige Einkünfte.
+12. Einkünfte nach dem Soldatenentschädigungsgesetz,
+
+
+13. sonstige Einkünfte.
 
 
 
@@ -5246,7 +5244,7 @@ Leistungsberechtigte, denen für den Monat Juli 2022 Leistungen nach dem Dritten
 
 ### § 145 Sofortzuschlag
 
-(1) Minderjährige, die einen Anspruch auf Leistungen nach dem Dritten Kapitel haben, dem ein Regelsatz nach der Regelbedarfsstufe 4, 5 oder 6 zugrunde liegt, haben Anspruch auf einen monatlichen Sofortzuschlag in Höhe von 20 Euro. Anspruch auf den Sofortzuschlag besteht für Minderjährige auch dann, wenn sie
+(1) Minderjährige, die einen Anspruch auf Leistungen nach dem Dritten Kapitel haben, dem ein Regelsatz nach der Regelbedarfsstufe 4, 5 oder 6 zugrunde liegt, haben Anspruch auf einen monatlichen Sofortzuschlag in Höhe von 25 Euro. Anspruch auf den Sofortzuschlag besteht für Minderjährige auch dann, wenn sie
 
 1.  einen Anspruch auf Leistungen nach § 34 haben oder
 
@@ -5275,11 +5273,6 @@ Der Sofortzuschlag wird erstmalig für den Monat Juli 2022 erbracht.
 (4) Das Erfordernis des Nachholens einer erkennungsdienstlichen Behandlung nach Absatz 3 gilt nicht, soweit eine erkennungsdienstliche Behandlung nach § 49 des Aufenthaltsgesetzes nicht vorgesehen ist.
 
 (5) In der Zeit vom 1. Juni 2022 bis einschließlich 31. August 2022 gilt der Antrag auf Leistungen nach diesem Buch für Leistungsberechtigte nach § 18 des Asylbewerberleistungsgesetzes als gestellt. Die Leistungen nach diesem Buch sind gegenüber den Leistungen nach § 18 des Asylbewerberleistungsgesetzes vorrangig. Wenn die Träger der Leistungen nach dem Dritten oder Vierten Kapitel Leistungsberechtigten nach § 18 des Asylbewerberleistungsgesetzes laufende Leistungen zur Sicherung des Lebensunterhalts bewilligt haben, haben sie den Zeitpunkt der Aufnahme der laufenden Leistungsgewährung den für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Behörden unverzüglich anzuzeigen. Der für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Behörde stehen Erstattungsansprüche nach Maßgabe des § 104 des Zehnten Buches zu.
-
-
-### § 147 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
-
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz erhalten, gelten die Vorschriften des § 36 Absatz 2 Satz 4, des § 43 Absatz 3 Satz 2 und 3, des § 82 Absatz 1 Satz 2 und des § 128d Absatz 1 Nummer 8 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 (zu § 28)
 
@@ -5517,6 +5510,21 @@ Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in Verbindung m
     *   357
 
 
+*    *   1. Januar 2025
+
+    *   563
+
+    *   506
+
+    *   451
+
+    *   471
+
+    *   390
+
+    *   357
+
+
 
 
 Regelbedarfsstufe 1:
@@ -5599,6 +5607,13 @@ Für ein Kind bis zur Vollendung des sechsten Lebensjahres.
 
 
 *    *   2024
+
+    *   130 Euro
+
+    *   65 Euro
+
+
+*    *   2025
 
     *   130 Euro
 

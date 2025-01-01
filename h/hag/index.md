@@ -134,7 +134,7 @@ c)  Mündel, Betreute und Pflegekinder des in Heimarbeit Beschäftigten oder nac
 
 ### § 6 Listenführung
 
-Wer Heimarbeit ausgibt oder weitergibt, hat jeden, den er mit Heimarbeit beschäftigt oder dessen er sich zur Weitergabe von Heimarbeit bedient, in Listen auszuweisen. Je drei Abschriften sind halbjährlich der obersten Arbeitsbehörde des Landes oder der von ihr bestimmten Stelle einzusenden.
+Wer Heimarbeit ausgibt oder weitergibt, hat jeden, den er mit Heimarbeit beschäftigt oder dessen er sich zur Weitergabe von Heimarbeit bedient, in Listen auszuweisen. Diese sind halbjährlich der obersten Arbeitsbehörde des Landes oder der von ihr bestimmten Stelle zu übermitteln.
 
 
 ### § 7 Mitteilungspflicht

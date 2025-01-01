@@ -157,15 +157,15 @@ Im Sinne dieses Gesetzes sind
 
 ### § 2 Seefahrtbezogene internationale Untersuchungsregelungen
 
-Seefahrtbezogene internationale Untersuchungsregelungen im Sinne dieses Gesetzes sind die in den Buchstaben A, C und D der Anlage aufgeführten Vorschriften des innerstaatlich geltenden Völkerrechts und die in den Buchstaben B und E der Anlage aufgeführten Vorschriften in Rechtsakten der Europäischen Gemeinschaft in der jeweils angegebenen Fassung.
+Seefahrtbezogene internationale Untersuchungsregelungen im Sinne dieses Gesetzes sind die in den Buchstaben A und C der Anlage aufgeführten Vorschriften des innerstaatlich geltenden Völkerrechts und die in Buchstabe B der Anlage aufgeführten Vorschriften in Rechtsakten der Europäischen Gemeinschaft in der jeweils angegebenen Fassung.
 
 
 ### § 3 Behördliche Aufgaben auf Grund von Rechtsakten der Europäischen Gemeinschaften
 
-Im Rahmen ihrer Zuständigkeiten nach diesem Gesetz haben die darin genannten Behörden des Bundes jeweils die Überprüfungs-, Gestaltungs- und Eingriffsbefugnisse, -aufgaben und -pflichten, die die in Buchstaben B und E der Anlage genannten Einzelregelungen den Mitgliedstaaten zur Verwaltung oder ihren Verwaltungsbehörden für einen Fall vorbehalten oder zuweisen.
+Im Rahmen ihrer Zuständigkeiten nach diesem Gesetz haben die darin genannten Behörden des Bundes jeweils die Überprüfungs-, Gestaltungs- und Eingriffsbefugnisse, -aufgaben und -pflichten, die die in Buchstabe B der Anlage genannten Einzelregelungen den Mitgliedstaaten zur Verwaltung oder ihren Verwaltungsbehörden für einen Fall vorbehalten oder zuweisen.
 
     Diese Bestimmung dient der Umsetzung der in den Buchstaben B und E der Anlage genannten gemeinschaftsrechtlichen Vorschriften.
-[^f776202_02_BJNR181700002BJNE000302305]: 
+[^f776202_02_BJNR181700002BJNE000303119]: 
 
 ## Abschnitt 2 - Untersuchungen bei der Sicherheitsvorsorge durch verantwortliche Personen
 
@@ -586,7 +586,7 @@ Bereits vorgenommene Untersuchungshandlungen bleiben wirksam. Betrifft die Besor
 
 (2) Bevollmächtigte Vertreter nach § 24 Absatz 1 und ihre Berater sowie Sachverständige und Helfer sind verpflichtet, der Bundesstelle ihnen bekannte, für die Erfüllung des Untersuchungsauftrags nach § 9 Absatz 2 erforderliche Tatsachen und Nachweismittel unaufgefordert mitzuteilen.
 
-(3) Zeugen des Seeunfalls und der Vorgänge, die zu ihm geführt haben oder geführt haben können, sind zur wahrheitsgemäßen Aussage verpflichtet. Ein Zeuge kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Der Zeuge kann die Auskunft auch auf solche Fragen verweigern, deren Beantwortung ihn der Gefahr eines gegen ihn gerichteten Seeamtsverfahrens nach Abschnitt 4 oder eines sonstigen erheblichen rechtlichen Nachteils aussetzen würde, der ihn oder einen in Satz 2 bezeichneten Angehörigen betrifft. Er ist über sein Recht zur Verweigerung der Auskunft zu belehren.
+(3) Zeugen des Seeunfalls und der Vorgänge, die zu ihm geführt haben oder geführt haben können, sind zur wahrheitsgemäßen Aussage verpflichtet. Ein Zeuge kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Der Zeuge kann die Auskunft auch auf solche Fragen verweigern, deren Beantwortung ihn der Gefahr eines sonstigen erheblichen rechtlichen Nachteils aussetzen würde, der ihn oder einen in Satz 2 bezeichneten Angehörigen betrifft. Er ist über sein Recht zur Verweigerung der Auskunft zu belehren.
 
 (4) Zeugen und Sachverständige sind auf Antrag nach Maßgabe des Justizvergütungs- und -entschädigungsgesetzes zu entschädigen.
 
@@ -850,255 +850,7 @@ Im Falle der an Bord befindlichen Passagiere werden nur die Daten nach Satz 1 Nu
 Die Bundesstelle wirkt beim Such- und Rettungsdienst mit, indem sie hierfür erforderliche Informationen auf Anfrage beschafft oder vorhandene hierfür erforderliche Informationen an die am Such- und Rettungsdienst beteiligten Personen und Stellen übermittelt. Vor der Einstellung der Suche nach einem vermissten Schiff ist zwischen der für die Koordinierung des Such- und Rettungsdienstes zuständigen Stelle und der Bundesstelle Einvernehmen herzustellen.
 
 
-## Abschnitt 4 - Normvollzug gegenüber einzelnen an Bord verantwortlichen Personen im Verwaltungsverfahren
-
-
-
-### Unterabschnitt 1 - Grundsätze, Vorprüfung
-
-
-
-#### § 39 Sachlicher Geltungsbereich des Abschnitts 4, Verwaltungsverfahren
-
-Dieser Abschnitt gilt für die Ermittlung und Auswertung der Ursachen von Seeunfällen in Bezug auf Inhaber von
-
-1.  Berechtigungen, die im Rahmen der Bundesaufgabe nach § 2 des Seeaufgabengesetzes in der jeweils geltenden Fassung erteilt wurden, und
-
-
-2.  Fahrerlaubnissen für Sportboote oder sonstige Fahrzeuge, die im Rahmen des Seeaufgabengesetzes erteilt wurden,
-
-
-
-(Berechtigungen) sowie auf Inhaber von Befähigungszeugnissen oder Fahrerlaubnissen, die von einer ausländischen Behörde oder für die Binnenschifffahrt ausgestellt sind, als Verfahren im Sinne des § 9 des Verwaltungsverfahrensgesetzes.
-
-
-#### § 40 Internationale Untersuchungsregelungen im Sinne des Abschnitts 4
-
-Die Anwendung der seefahrtbezogenen internationalen Untersuchungsregelungen nach den Buchstaben D und E der Anlage geschieht, soweit dieses Gesetz betroffen ist, im Rahmen dieses Abschnitts.
-
-
-#### § 41 Öffentliches Untersuchungsinteresse
-
-(1) Bestehen hinreichende tatsächliche Anhaltspunkte, dass eine Berechtigung zu entziehen oder die Ausübung der mit ihr oder einem Befähigungszeugnis oder einer Fahrerlaubnis verbundenen Befugnisse zu beschränken ist, so führt die Generaldirektion Wasserstraßen und Schifffahrt unverzüglich eine Prüfung des Untersuchungsinteresses durch.
-
-(2) Hinreichende Anhaltspunkte im Sinne von Absatz 1 sind insbesondere anzunehmen, wenn nach den in Buchstaben D oder E der Anlage enthaltenen internationalen Untersuchungsregelungen der Sachverhalt überprüft werden muss.
-
-(3) Bieten die Ermittlungen der Behörde genügenden Anlass zu der Annahme, dass eine Maßnahme nach Absatz 1 mit Wahrscheinlichkeit zu erwarten ist, so beantragt sie unverzüglich bei dem zuständigen Seeamt, den Fall nach diesem Abschnitt in Bezug auf den von dem Verdacht betroffenen Berechtigten (Beteiligter) zu untersuchen.
-
-(4) Wurde eine Berechtigung im Rahmen der Berufsausübung für die Wasserstraßen- und Schifffahrtsverwaltung des Bundes ausgeübt, so berichtet die Generaldirektion Wasserstraßen und Schifffahrt über alle ihr bekannten Anhaltspunkte im Sinne des Absatzes 1 an das Bundesministerium für Verkehr und digitale Infrastruktur, von dem sie angewiesen werden kann, einen Antrag nach Absatz 3 zu stellen.
-
-(5) Zuständigkeiten und Befugnisse nach anderen Rechtsvorschriften zur Entziehung von Berechtigungen, Beschränkung ihrer Ausübung oder Sicherstellung oder Beschlagnahme der entsprechenden Urkunden bleiben unberührt.
-
-
-#### § 42 Pflicht zur Durchführung oder Einstellung der Untersuchung nach Abschnitt 4
-
-(1) Eine Untersuchung nach diesem Abschnitt ist durchzuführen, soweit die Generaldirektion Wasserstraßen und Schifffahrt einen Antrag nach § 41 Absatz 3 gestellt hat.
-
-(2) Die Untersuchung nach diesem Abschnitt ist einzustellen, wenn der Beteiligte gegenüber einer nach diesem Abschnitt zuständigen Behörde schriftlich unwiderruflich erklärt hat, dass er während der nächsten 30 Monate – oder bei Verdacht der Behörde nach § 41 Absatz 1 auf dauerhaftes Fehlen eines der in § 50 Absatz 1 Satz 1 genannten subjektiven Merkmale auf Dauer – von seiner Berechtigung keinen Gebrauch machen wird, und wenn er dieser Behörde die entsprechenden Berechtigungsurkunden für die jeweilige Dauer unwiderruflich zur Verwahrung übergeben hat. Die zuständige Behörde kann Auflagen anordnen und die in Satz 1 vorgesehenen Fristen bei Vorliegen besonderer Gründe verkürzen. § 50 Absatz 5 gilt entsprechend.
-
-
-### Unterabschnitt 2 - Organe der seeamtlichen Untersuchung
-
-
-
-#### § 43 Zuständigkeit der Seeämter
-
-(1) Die Untersuchung nach diesem Abschnitt obliegt der Generaldirektion Wasserstraßen und Schifffahrt. Sie bildet Untersuchungsausschüsse (Seeämter) in Bremerhaven, Emden, Hamburg, Kiel und Rostock.
-
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung die örtliche Zuständigkeit der Seeämter zu bestimmen.
-
-(3) Das Bundesministerium für Verkehr und digitale Infrastruktur erlässt eine Geschäftsordnung für die Seeämter; vor ihrem Erlass sind die Küstenländer zu hören. Die Geschäftsordnung ist im Verkehrsblatt bekannt zu machen.
-
-
-#### § 44 Besetzung der Seeämter
-
-(1) Die Seeämter entscheiden in der Besetzung mit einem Vorsitzenden, einem Ständigen Beisitzer und zwei ehrenamtlichen Beisitzern.
-
-(2) Beschlüsse werden mit Stimmenmehrheit gefasst. Bei Stimmengleichheit entscheidet die Stimme des Vorsitzenden. Dem Vorsitzenden und den Beisitzern dürfen keine Weisungen für den Inhalt des Spruchs (§ 49) erteilt werden. Entscheidungen außerhalb der mündlichen Verhandlung (§ 48) trifft der Vorsitzende.
-
-(3) Der Vorsitzende der Seeämter muss die Befähigung zum Richteramt nach dem Deutschen Richtergesetz besitzen. Die Ständigen Beisitzer der Seeämter müssen, wenn es sich um Berechtigungen für Kauffahrteischiffe handelt, die Befähigung zum Kapitän auf entsprechenden Schiffen besitzen und über ausreichende Erfahrungen in der Führung eines Seeschiffes verfügen.
-
-
-#### § 45 Ehrenamtliche Beisitzer
-
-(1) Die Generaldirektion Wasserstraßen und Schifffahrt stellt eine Vorschlagsliste für die ehrenamtlichen Beisitzer der Seeämter auf, wählt hieraus die erforderliche Anzahl von ehrenamtlichen Beisitzern aus (Beisitzerliste) und bestellt die Beisitzer für eine ehrenamtliche Tätigkeit. In die Vorschlagsliste werden Personen aufgenommen, die von den beteiligten Bundes- und Landesbehörden sowie den Berufs- und Interessenvertretungen benannt werden.
-
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung zu bestimmen
-
-1.  die Personengruppen, aus denen die Beisitzer auszuwählen sind,
-
-
-2.  die fachlichen Anforderungen an die Beisitzer und
-
-
-3.  die Angaben, die die Beisitzerliste enthalten muss.
-
-
-
-
-(3) Die ehrenamtlichen Beisitzer sind vom Vorsitzenden aus der Beisitzerliste zu den Sitzungen heranzuziehen. Dabei ist unter Berücksichtigung der Bordfunktion des oder der Beteiligten sowie des Ortes und der Art des zugrunde liegenden Sachverhalts die sachkundige und unabhängige Besetzung sicherzustellen. Die ehrenamtlichen Beisitzer sind berechtigt und verpflichtet, sich über die Ergebnisse der Ermittlungen zu unterrichten.
-
-
-### Unterabschnitt 3 - Seeamtsverfahren
-
-
-
-#### § 46 Beweisaufnahme
-
-(1) Außerhalb der mündlichen Verhandlung sind Beweise aufzunehmen, wenn der Sachverhalt es erfordert oder die Beweisaufnahme in der Verhandlung voraussichtlich nicht möglich oder besonders erschwert sein würde. Zur Beweisaufnahme sind der Ständige Beisitzer und nach Lage des Falles weitere Beisitzer hinzuzuziehen. § 48 Absatz 7 und 8 findet Anwendung. Das Seeamt ist befugt, bei der Ermittlung des Sachverhalts eine Versicherung an Eides statt abzunehmen.
-
-(2) Behörden und Stellen, deren Geschäftsbereiche von dem zugrunde liegenden Sachverhalt unmittelbar betroffen sind, sollen von einer beabsichtigten Beweisaufnahme unterrichtet werden; erstrecken sich die Ermittlungen auf ein Schiff unter fremder Flagge, soll, und zwar auch von der Vollstreckung einer Anordnung nach § 47 Absatz 1 Satz 2, die zuständige konsularische Vertretung benachrichtigt werden.
-
-
-#### § 47 Auskunfts-, Herausgabe- und Aufbewahrungspflichten
-
-(1) Die nach dem Schiffssicherheitsgesetz in der jeweils geltenden Fassung für die Sicherheit des Schiffes Verantwortlichen sind nach Maßgabe dieser Verantwortlichkeit verpflichtet, dem Seeamt auf Verlangen über die Beschaffenheit, Besatzung, den Liegeort und den Reiseplan der von dem zugrunde liegenden Sachverhalt betroffenen Schiffe Auskunft zu erteilen. Die für die Untersuchung erheblichen Unterlagen und Gegenstände sind auf Verlangen von demjenigen herauszugeben, der sie in Gewahrsam hat oder verfügungsbefugt ist; dies gilt insbesondere für die benutzten Seekarten, Seetagebücher sowie technischen Aufzeichnungen und Unterlagen. Die nach Satz 2 angeforderten Unterlagen sind von den herausgabepflichtigen Personen bis zum Abschluss der seeamtlichen Untersuchung aufzubewahren.
-
-(2) Die Herausgabe von Unterlagen kann verweigert werden, wenn das Bundesministerium der Verteidigung dies aus Gründen der militärischen Sicherheit für erforderlich hält.
-
-
-#### § 48 Mündliche Verhandlung
-
-(1) Im Untersuchungsverfahren des Seeamtes findet eine mündliche Verhandlung statt, soweit nicht sämtliche Beteiligten demgegenüber dem Vorsitzenden unwiderruflich widersprechen.
-
-(2) Die Beteiligten werden zur mündlichen Verhandlung mit angemessener Frist schriftlich geladen und sind verpflichtet, hierzu persönlich zu erscheinen. Ist eine schriftliche Ladung zur mündlichen Verhandlung nicht rechtzeitig möglich, so kann sie auch durch Telefon, Telegramm, Fernschreiben, Telefax oder Boten bewirkt werden. Die Ladung enthält den Hinweis, dass sich der Beteiligte der Hilfe eines Beistandes bedienen kann und das bei unentschuldigtem Fernbleiben des zum Erscheinen verpflichteten Beteiligten dessen zwangsweise Vorführung angeordnet werden kann.
-
-(3) Der Verhandlungstermin ist den Behörden und Stellen, deren Aufgaben unmittelbar berührt werden, mitzuteilen. Ist der Inhaber eines ausländischen Befähigungszeugnisses beteiligt, ist der Verhandlungstermin der zuständigen konsularischen Vertretung mitzuteilen.
-
-(4) Das Seeamt soll die Verhandlung so fördern, dass sie möglichst in einem Termin erledigt werden kann.
-
-(5) Die mündliche Verhandlung ist öffentlich, soweit nicht ein Betroffener demgegenüber dem Vorsitzenden widerspricht. Das Seeamt kann für die Verhandlung oder für einen Teil davon die Öffentlichkeit auch ausschließen, wenn
-
-1.  eine Gefährdung der öffentlichen Sicherheit und Ordnung zu besorgen ist oder
-
-
-2.  militärische Angelegenheiten geheim zu halten oder wichtige Geschäfts- oder Betriebsgeheimnisse zu wahren sind.
-
-
-
-Der Ausschluss der Öffentlichkeit aus anderen Gründen als denen der Geheimhaltung militärischer Angelegenheiten oder der Wahrung wichtiger Geschäfts- oder Betriebsgeheimnisse steht der Anwesenheit amtlicher Vertreter anderer Staaten nicht entgegen.
-
-(6) Der Vorsitzende eröffnet und leitet die mündliche Verhandlung. Soweit dieses Gesetz keine Verfahrensregelungen enthält, bestimmt der Vorsitzende den Gang der Verhandlung nach pflichtgemäßem Ermessen. Die §§ 66, 68 Absatz 2 und 3 und § 71 des Verwaltungsverfahrensgesetzes finden Anwendung. Wer erst im Verlauf der mündlichen Verhandlung als Beteiligter zu dem Verfahren hinzugezogen wird, kann verlangen, dass die mündliche Verhandlung ausgesetzt wird, insbesondere wenn er einen Beistand hinzuziehen oder Akteneinsicht nehmen will. Der Beteiligte ist hierauf hinzuweisen.
-
-(7) Auf die Mitwirkung von Zeugen und Sachverständigen findet § 65 des Verwaltungsverfahrensgesetzes mit der Maßgabe Anwendung, dass die Vorschriften über Zeugen auch für Beteiligte gelten. Beteiligte können die Aussage über Fragen verweigern, deren Beantwortung sie der Gefahr einer Maßnahme nach § 50 Absatz 1, 2 oder 4 aussetzen würde. Für die eidliche Vernehmung ist auch das Gericht des Ortes zuständig, an dem die mündliche Verhandlung stattfindet. Beteiligte werden nicht eidlich vernommen.
-
-(8) Über die mündliche Verhandlung ist eine Niederschrift zu fertigen. Die Niederschrift muss Angaben enthalten über
-
-1.  den Ort und den Tag der Verhandlung,
-
-
-2.  die Namen des Vorsitzenden, des Schriftführers und der Beisitzer des Seeamtes, der erschienenen Beteiligten, Zeugen und Sachverständigen,
-
-
-3.  den behandelten zugrunde liegenden Sachverhalt,
-
-
-4.  den wesentlichen Inhalt der Aussagen der Beteiligten, der Zeugen und Sachverständigen und
-
-
-5.  das Ergebnis eines Augenscheines.
-
-
-
-Die Niederschrift ist von dem Vorsitzenden und vom Schriftführer zu unterzeichnen.
-
-
-#### § 49 Spruch des Seeamtes
-
-(1) Das Untersuchungsverfahren wird durch Spruch abgeschlossen. Das Seeamt entscheidet unter Würdigung des Gesamtergebnisses des Verfahrens.
-
-(2) Der Spruch enthält
-
-1.  Feststellungen über die zugrunde liegenden Tatsachen,
-
-
-2.  die Entscheidung, dass ein fehlerhaftes Verhalten eines Beteiligten vorliegt, sofern die Untersuchung dies ergeben hat,
-
-
-3.  unter den nach § 50 Absatz 1 bis 4 jeweils dafür maßgebenden Voraussetzungen
-
-    a)  die befristete oder unbefristete Untersagung der Ausübung von Befugnissen (Fahrverbot) (§ 50 Absatz 1 und 4), erforderlichenfalls mit Auflagen (§ 50 Absatz 2),
-
-
-    b)  die Entziehung einer Berechtigung (§ 50 Absatz 2) oder
-
-
-    c)  die Erlaubnis, ein minderes Befähigungszeugnis auszustellen (§ 50 Absatz 3),
-
-
-
-
-
-4.  in den Fällen der Nummer 3 Buchstabe a eine Entscheidung, ob ein Vermerk über ein Fahrverbot von mehr als zwölf Monaten Dauer in eine Urkunde über die Berechtigung einzutragen ist, und
-
-
-5.  in den Fällen der Nummer 3 Buchstabe a und b eine Entscheidung, ob eine vorläufige Sicherstellung und amtliche Verwahrung der über die Berechtigung ausgestellten Urkunde oder Urkunden oder eine Beschlagnahme zum Zwecke einer Eintragung nach Nummer 4 vorzunehmen ist.
-
-
-
-Der Spruch lautet auf Einstellung des Verfahrens, wenn sich herausstellt, dass die Voraussetzungen der §§ 39 bis 41 nicht vorliegen. Der Spruch enthält eine Kostenentscheidung.
-
-(3) Der Spruch darf eine Entscheidung nach Absatz 2 Satz 1 Nummer 2 nur enthalten, wenn er auf Grund dieser Entscheidung auch eine Entscheidung nach Absatz 2 Satz 1 Nummer 3 enthält. Das Seeamt kann ein fehlerhaftes Verhalten eines Beteiligten feststellen, wenn dieser nach der Überzeugung des Seeamtes Rechtsvorschriften, Verwaltungsanordnungen, Richtlinien oder allgemeine für seinen Verantwortungsbereich geltende Grundsätze, insbesondere allgemeine Grundsätze der Schiffsführung, der Schiffsbetriebstechnik, des Funkdienstes, der Sicherheit der Schifffahrt, des Umweltschutzes auf See oder allgemein anerkannte Regeln der Technik nicht beachtet hat.
-
-(4) Der Spruch darf Entscheidungen nach Absatz 2 Satz 1 Nummer 2 oder 3 nur enthalten, wenn
-
-1.  das Seeamt sie zur mündlichen oder schriftlichen Erörterung gestellt hat und
-
-
-2.  der Beteiligte ausreichend Gelegenheit zur Stellungnahme gegenüber dem Seeamt hatte oder trotz ordnungsgemäßer Ladung zur mündlichen Verhandlung ohne ausreichende Entschuldigung nicht erschien. Ist der Beteiligte bei einer mündlichen Verhandlung abwesend, so darf der Spruch Entscheidungen nach Absatz 2 Satz 1 Nummer 2 oder 3 nur enthalten, wenn der Beteiligte zuvor auf diese Möglichkeit hingewiesen worden ist.
-
-
-
-
-(5) Der Spruch ist schriftlich abzufassen und von dem Vorsitzenden und den Beisitzern zu unterzeichnen. Er soll binnen eines Monats vollständig vorliegen. In den Gründen sind die zugrunde liegenden Tatsachen darzustellen. Die Beteiligten und ihre Berechtigungen oder Fahrerlaubnisse sind genau zu bezeichnen. Das Ergebnis der Beweisaufnahme ist zu würdigen. Es sind die Umstände anzugeben, die für den Spruch maßgebend waren.
-
-(6) Der Spruch ist den Beteiligten zuzustellen. Auf Antrag erhalten sie eine Ausfertigung der Niederschrift über die mündliche Verhandlung.
-
-(7) Das Seeamt teilt vollziehbare Entscheidungen im Sinne von Absatz 2 Satz 1 Nummer 3 bis 5 auch den folgenden Stellen mit:
-
-1.  Stellen, die die betreffenden Berechtigungen erteilt oder Zeugnisse ausgestellt haben, bei Fahrerlaubnissen für in Deutschland registrierte Sportboote der Generaldirektion Wasserstraßen und Schifffahrt;
-
-
-2.  in den Fällen, in denen das Seeamt weder die Eintragung eines Vermerks noch die vorläufige Sicherstellung und amtliche Verwahrung einer Urkunde angeordnet hat, den im Rahmen des Seeaufgabengesetzes mit dem schifffahrtspolizeilichen Vollzug beauftragten Behörden.
-
-
-
-
-(8) Unanfechtbare Sprüche des Seeamtes können vollständig – einschließlich der Schiffsnamen, soweit es zur Erfüllung der öffentlichen Aufgabe nach diesem Abschnitt erforderlich ist – oder in gekürzter Fassung in einer amtlichen Entscheidungssammlung veröffentlicht werden, wenn die Namen der natürlichen Personen in der Veröffentlichung anonymisiert werden. Beruht der Spruch auf einem nichtöffentlichen Verfahren, so sind bei der Entscheidung über die Veröffentlichung die Umstände zu berücksichtigen, auf denen die Nichtöffentlichkeit des Verfahrens beruht.
-
-
-#### § 50 Entzug und Beschränkung der Ausübung von Berechtigungen
-
-(1) Das Seeamt hat im Spruch ein Fahrverbot für höchstens 30 Monate auszusprechen, wenn es zu der Überzeugung gelangt ist, dass eine solche Maßnahme für die Sicherheit der Seefahrt im Sinne des § 1 erforderlich ist, weil der Inhaber der Berechtigung während dieser Zeit nicht die für eine Tätigkeit als Schiffsführer oder sonst in der Seefahrt Verantwortlicher gebotene körperliche oder geistige Eignung oder das für diese Tätigkeit gebotene Verantwortungsbewusstsein besitzt. Ein solcher Mangel ist in der Regel anzunehmen, wenn der Inhaber infolge des Genusses alkoholischer Getränke oder anderer berauschender Mittel nicht in der Lage war, den Dienst an Bord sicher auszuüben. Falls der Inhaber mehr als ein Befähigungszeugnis besitzt, kann im Spruch ausgesprochen werden, dass die Ausübung einzelner Befugnisse unbeschränkt bleibt.
-
-(2) Hält das Seeamt eine Maßnahme nach Absatz 1 aus besonderen Gründen zur Sicherheit der Seefahrt nicht für ausreichend, so kann es zusätzliche Auflagen anordnen oder die Berechtigung auf Dauer entziehen.
-
-(3) Die Erteilung einer Berechtigung, deren Befugnisse in der entzogenen oder hinsichtlich der Ausübung beschränkten Berechtigung eingeschlossen sind, kann zugelassen werden.
-
-(4) Unter den Voraussetzungen des Absatzes 1 Satz 1 und 2 kann gegenüber dem Inhaber eines nicht von einer Behörde der Bundesrepublik Deutschland ausgestellten Befähigungszeugnisses oder einer ausländischen Fahrerlaubnis für Sportboote oder sonstige Fahrzeuge sowie eines Befähigungszeugnisses der Binnenschifffahrt für alle oder bestimmte deutsche Hoheitsgewässer ein Fahrverbot ausgesprochen werden.
-
-(5) Wird die Ausübung einer Berechtigung im Sinne des Absatzes 1 oder 4 beschränkt, so ruht diese; die damit verbundene Befugnis darf vom Zeitpunkt des Spruchs – und nach einer gerichtlichen Anfechtungsklage oder Einlegung eines sonstigen Rechtsmittels vom Zeitpunkt der Abweisung des Rechtsbehelfs – an bis zum Ablauf der hierfür im Spruch bezeichneten Frist und zur Erfüllung von Auflagen nach Absatz 2, soweit vorhanden, nicht mehr ausgeübt werden. Befinden sich in den Fällen des § 49 Absatz 2 Nummer 4 und 5 die über die Berechtigung ausgestellten Urkunden nicht im Besitz des Seeamtes, sind sie vom Inhaber unverzüglich dem Seeamt abzuliefern oder im Falle eines Fahrverbots zur Eintragung vorzulegen. § 111a Absatz 5 der Strafprozessordnung gilt entsprechend.
-
-(6) Befähigungszeugnisse sowie Fahrerlaubnisse für Sportboote, die von einer Behörde der Deutschen Demokratischen Republik ausgestellt sind, gelten im Sinne dieser Vorschrift als von einer Behörde der Bundesrepublik Deutschland ausgestellt.
-
-
-### Unterabschnitt 4 - Gebühren und Auslagen
-
-
-
-#### § 51 (weggefallen)
-
-
-### Unterabschnitt 5 - Rechtsbehelfe
-
-
-
-#### § 52 Widerspruchsverfahren
-
-Gegen Verwaltungsakte der Seeämter kann innerhalb eines Monats nach ihrer Bekanntgabe Widerspruch erhoben werden. Widerspruchsbehörde ist die Generaldirektion Wasserstraßen und Schifffahrt. Dem Widerspruch kann das Seeamt nicht nach § 72 der Verwaltungsgerichtsordnung abhelfen.
-
-
-## Abschnitt 5 - Bußgeld-, Schluss- und Übergangsvorschriften
+## Abschnitt 4 - Bußgeld-, Schluss- und Übergangsvorschriften
 
 
 
@@ -1106,7 +858,7 @@ Gegen Verwaltungsakte der Seeämter kann innerhalb eines Monats nach ihrer Bekan
 
 
 
-#### § 53 Bußgeldvorschriften
+#### § 39 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1116,19 +868,10 @@ Gegen Verwaltungsakte der Seeämter kann innerhalb eines Monats nach ihrer Bekan
 1a. entgegen § 23 Absatz 3 Satz 1 den Unfallort, eine Unfallspur, ein Wrackteil oder Trümmerstück des Schiffes oder sonstigen Inhalt des Schiffes oder der Ladung berührt oder verändert,
 
 
-2.  sich ohne Zustimmung nach § 24 Absatz 6 Satz 1 zum Stand der Untersuchung oder zu einzelnen Ergebnissen öffentlich äußert,
+2.  sich ohne Zustimmung nach § 24 Absatz 6 Satz 1 zum Stand der Untersuchung oder zu einzelnen Ergebnissen öffentlich äußert oder
 
 
-3.  entgegen § 26 Absatz 3 Satz 1 nicht wahrheitsgemäß aussagt,
-
-
-4.  entgegen § 47 Absatz 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt, eine Unterlage oder einen Gegenstand nicht oder nicht rechtzeitig herausgibt oder eine Unterlage nicht oder nicht für die vorgeschriebene Dauer aufbewahrt,
-
-
-5.  einem vollziehbaren Fahrverbot nach § 50 Absatz 4 zuwiderhandelt oder
-
-
-6.  entgegen § 50 Absatz 5 Satz 2 eine dort genannte Urkunde nicht oder nicht rechtzeitig abliefert oder nicht oder nicht rechtzeitig vorlegt.
+3.  entgegen § 26 Absatz 3 Satz 1 nicht wahrheitsgemäß aussagt.
 
 
 
@@ -1151,7 +894,7 @@ geahndet werden.
 
 
 
-#### § 54 Vollzugsvereinbarungen zwischen Bund und Küstenländern
+#### § 40 Vollzugsvereinbarungen zwischen Bund und Küstenländern
 
 Dieses Gesetz berührt nicht die über die Vereinbarungen über die Ausübung der schifffahrtspolizeilichen Vollzugsaufgaben erlassenen Gesetze der Länder
 
@@ -1173,22 +916,22 @@ Dieses Gesetz berührt nicht die über die Vereinbarungen über die Ausübung de
 
 
 
-#### § 55 Einschränkung von Grundrechten
+#### § 41 Einschränkung von Grundrechten
 
 Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
 
 
-#### § 56 Verordnungsermächtigung
+#### § 42 Verordnungsermächtigung
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, zur Verbesserung der Sicherheit im Seeverkehr durch Rechtsverordnung ohne Zustimmung des Bundesrates die Anlage in Anpassung an den Gesamtbestand der völkerrechtlich als verbindlich angenommenen und auf Grund innerstaatlichen Rechts anzuwendenden oder gemeinschafts- oder unionsrechtlich in Kraft getretenen seefahrtbezogenen internationalen Untersuchungsregelungen zu ändern.
 
 
-#### § 57 Übergangsregelung
+#### § 43 Übergangsregelung
 
-Sicherheitsuntersuchungen von Seeunfällen, die vor dem 1. Dezember 2011 eingeleitet worden sind, sind nach den am 30. November 2011 geltenden Vorschriften dieses Gesetzes fortzuführen.
+Seeamtsuntersuchungen, die vor dem 1. Januar 2025 eingeleitet worden sind, sind nach den bis einschließlich 31. Dezember 2024 geltenden Vorschriften dieses Gesetzes sowie der auf Grund dieses Gesetzes erlassenen Vorschriften fortzuführen.
 
 
-#### Anlage (zu den §§ 2, 3, 10, 20 Absatz 4, §§ 40 und 41 Absatz 2)
+#### Anlage (zu den §§ 2, 3, 10, 20 Absatz 4)
 
 (Fundstelle: BGBl. I 2012, 408;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1247,31 +990,10 @@ C.  **Internationale Richtlinien und Standards, die bestimmten, in Abschnitt A u
 
 
 
-D.  **Allgemein anerkannte völkerrechtliche Regeln der Untersuchung**
-
-    1.  Verpflichtungen zu Untersuchungsmaßnahmen
-
-        1.1 Artikel 94 Absatz 6 Satz 2 – auch in Verbindung mit Artikel 58 Absatz 2 – SRÜ
+D.  (weggefallen)
 
 
-        1.2 Regel I/5 Absatz 1 der Anlage des Internationalen Übereinkommens von 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (STCW) (BGBl. 1982 II S. 297; 1988 II S. 1118)
-
-
-
-
-
-    2.  Schranken der Untersuchung Artikel 97 Absatz 3 SRÜ
-
-
-
-
-
-E.  **Richtlinienbestimmungen der Europäischen Gemeinschaft über den Berechtigungsentzug**
-
-    –   Artikel 9 Absatz 1 der Richtlinie 2008/106/EG vom 19. November 2008 über Mindestanforderungen für die Ausbildung von Seeleuten (Neufassung) (ABl. L 323 vom 3.12.2008, S. 33)
-
-
-
+E.  (weggefallen)
 
 
 

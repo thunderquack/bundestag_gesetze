@@ -1307,21 +1307,6 @@ Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, du
 Das Bundesministerium der Justiz und für Verbraucherschutz kann im Rahmen seiner Ermächtigung nach Satz 1 die Regelung weiterer Einzelheiten durch Rechtsverordnung den Landesregierungen übertragen und hierbei auch vorsehen, daß diese ihre Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen können.
 
 
-### § 134a Datenübermittlung bei der Entwicklung von Verfahren zur Anlegung des Datenbankgrundbuchs
-
-(1) Die Landesjustizverwaltungen können dem Entwickler eines automatisierten optischen Zeichen- und Inhaltserkennungsverfahrens (Migrationsprogramm) nach Maßgabe der Absätze 2 bis 5 Grundbuchdaten zur Verfügung stellen. Das Migrationsprogramm soll bei der Einführung eines Datenbankgrundbuchs die Umwandlung der Grundbuchdaten in voll strukturierte Eintragungen sowie deren Speicherung unterstützen.
-
-(2) Der Entwickler des Migrationsprogramms darf die ihm übermittelten Grundbuchdaten ausschließlich für die Entwicklung und den Test des Migrationsprogramms verwenden. Die Übermittlung der Daten an den Entwickler erfolgt zentral über eine durch Verwaltungsabkommen der Länder bestimmte Landesjustizverwaltung. Die beteiligten Stellen haben dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, insbesondere zur Wahrung der Vertraulichkeit der betroffenen Daten. Die nach Satz 2 bestimmte Landesjustizverwaltung ist für die Einhaltung der Vorschriften des Datenschutzes verantwortlich und vereinbart mit dem Entwickler die Einzelheiten der Datenverarbeitung.
-
-(3) Die Auswahl der zu übermittelnden Grundbuchdaten erfolgt durch die Landesjustizverwaltungen. Ihr ist ein inhaltlich repräsentativer Querschnitt des Grundbuchdatenbestands zugrunde zu legen. Im Übrigen erfolgt die Auswahl nach formalen Kriterien. Dazu zählen insbesondere die für die Grundbucheintragungen verwendeten Schriftarten und Schriftbilder, die Gliederung der Grundbuchblätter, die Darstellungsqualität der durch Umstellung erzeugten Grundbuchinhalte sowie das Dateiformat der umzuwandelnden Daten. Es dürfen nur so viele Daten übermittelt werden, wie für die Entwicklung und den Test des Migrationsprogramms notwendig sind, je Land höchstens 5 Prozent des jeweiligen Gesamtbestands an Grundbuchblättern.
-
-(4) Der Entwickler des Migrationsprogramms kann die von ihm gespeicherten Grundbuchdaten sowie die daraus abgeleiteten Daten der nach Absatz 2 Satz 2 bestimmten Landesjustizverwaltung oder den jeweils betroffenen Landesjustizverwaltungen übermitteln. Dort dürfen die Daten nur für Funktionstests des Migrationsprogramms sowie für die Prüfung und Geltendmachung von Gewährleistungsansprüchen in Bezug auf das Migrationsprogramm verwendet werden; die Daten sind dort zu löschen, wenn sie dafür nicht mehr erforderlich sind.
-
-(5) Der Entwickler des Migrationsprogramms hat die von ihm gespeicherten Grundbuchdaten sowie die daraus abgeleiteten Daten zu löschen, sobald ihre Kenntnis für die Erfüllung der in Absatz 2 Satz 1 genannten Zwecke nicht mehr erforderlich ist. An die Stelle einer Löschung tritt eine Sperrung, soweit und solange die Kenntnis der in Satz 1 bezeichneten Daten für die Abwehr von Gewährleistungsansprüchen der Landesjustizverwaltungen erforderlich ist. Ihm überlassene Datenträger hat der Entwickler der übermittelnden Stelle zurückzugeben.
-
-(6) Für den im Rahmen der Konzeptionierung eines Datenbankgrundbuchs zu erstellenden Prototypen eines Migrationsprogramms mit eingeschränkter Funktionalität gelten die Absätze 1 bis 5 entsprechend.
-
-
 ## Achter Abschnitt - Elektronischer Rechtsverkehr und elektronische Grundakte
 
 

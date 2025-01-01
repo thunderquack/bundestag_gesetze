@@ -394,34 +394,25 @@ Dem Hauptzollamt Hamburg werden die Zuständigkeiten übertragen für
 2.  die Einnahme und die Buchung der Zuckerabgaben aller Hauptzollämter bundesweit,
 
 
-3.  die Auszahlung und die Buchung der Produktionserstattungen für die Verwendung von Zucker aller Hauptzollämter bundesweit,
+3.  die Bewilligung des laufenden Zahlungsaufschubs der Hauptzollämter Bremen und Oldenburg,
 
 
-4.  die Einnahme und die Buchung der Abgaben im Milchsektor aller Hauptzollämter bundesweit,
+4.  die Bewilligung von Stundungen, die Anforderung und den Erlass von Stundungs-, Säumnis-, Verzugs- oder Kreditzinsen und Säumniszuschlägen sowie die Vollstreckung der daraus resultierenden Geldforderungen im Zusammenhang mit dem vom Hauptzollamt Hamburg bewilligten laufenden Zahlungsaufschub aller Hauptzollämter bundesweit,
 
 
-5.  die Festsetzung und die Erhebung von Ausfuhrabgaben für Marktordnungswaren nach dem Marktorganisationsgesetz aller Hauptzollämter bundesweit; davon unberührt bleibt die Zuständigkeit für die Entgegennahme der Anmeldung und des Antrags auf Abfertigung, für die die Ausfuhrzollstelle zuständig ist,
+5.  die Festsetzung und die Erhebung der Kraftfahrzeugsteuer des Hauptzollamts Itzehoe für das Stadtgebiet Hamburg,
 
 
-6.  die Bewilligung des laufenden Zahlungsaufschubs der Hauptzollämter Bremen und Oldenburg,
+6.  die Festsetzung und Erhebung von Antidumping- sowie von Ausgleichszöllen gemäß der Durchführungsverordnung (EU) 2019/1131 der Kommission vom 2. Juli 2019 zur Einführung eines Zollinstruments für die Durchführung von Artikel 14a der Verordnung (EU) 2016/1036 des Europäischen Parlaments und des Rates und Artikel 24a der Verordnung (EU) 2016/1037 des Europäischen Parlaments und des Rates (ABl. L 179 vom 3.7.2019, S. 12) in der jeweils geltenden Fassung, aller Hauptzollämter bundesweit,
 
 
-7.  die Bewilligung von Stundungen, die Anforderung und den Erlass von Stundungs-, Säumnis-, Verzugs- oder Kreditzinsen und Säumniszuschlägen sowie die Vollstreckung der daraus resultierenden Geldforderungen im Zusammenhang mit dem vom Hauptzollamt Hamburg bewilligten laufenden Zahlungsaufschub aller Hauptzollämter bundesweit,
+7.  die Außenwirtschaftsprüfungen, einschließlich der Überwachungsmaßnahmen der Hauptzollämter Itzehoe, Kiel und Stralsund,
 
 
-8.  die Festsetzung und die Erhebung der Kraftfahrzeugsteuer des Hauptzollamts Itzehoe für das Stadtgebiet Hamburg,
+8.  die Sonderprüfungen der Hauptzollämter Bremen, Itzehoe, Kiel, Oldenburg und Stralsund sowie
 
 
-9.  die Festsetzung und Erhebung von Antidumping- sowie von Ausgleichszöllen gemäß der Durchführungsverordnung (EU) 2019/1131 der Kommission vom 2. Juli 2019 zur Einführung eines Zollinstruments für die Durchführung von Artikel 14a der Verordnung (EU) 2016/1036 des Europäischen Parlaments und des Rates und Artikel 24a der Verordnung (EU) 2016/1037 des Europäischen Parlaments und des Rates (ABl. L 179 vom 3.7.2019, S. 12) in der jeweils geltenden Fassung, aller Hauptzollämter bundesweit,
-
-
-10. die Außenwirtschaftsprüfungen, einschließlich der Überwachungsmaßnahmen der Hauptzollämter Itzehoe, Kiel und Stralsund,
-
-
-11. die Sonderprüfungen der Hauptzollämter Bremen, Itzehoe, Kiel, Oldenburg und Stralsund sowie
-
-
-12. den Aufgabenbereich Vollstreckung des Hauptzollamts Itzehoe für das Stadtgebiet Hamburg.
+9.  den Aufgabenbereich Vollstreckung des Hauptzollamts Itzehoe für das Stadtgebiet Hamburg.
 
 
 
@@ -680,13 +671,16 @@ Dem Hauptzollamt Münster werden die Zuständigkeiten übertragen für
 4.  die Erfassung, die Auswertung, die Ergänzung und die Weiterleitung aller ein- und ausgehenden Nachprüfungsersuchen von Präferenznachweisen und Echtheitsbescheinigungen oder Echtheitszeugnissen sowie die Mitteilung von Prüfungsergebnissen außerhalb förmlicher Nachprüfungsersuchen an die Zollbehörden der Einfuhrstaaten aller Hauptzollämter bundesweit,
 
 
-5.  die Zollprüfungen, die Präferenzprüfungen und die Außenprüfungen, einschließlich der Überwachungsmaßnahmen, des Hauptzollamts Dortmund,
+5.  die Erfassung, die Ergänzung und die Weiterleitung der mitgliedstaatenübergreifenden ein- und ausgehenden Ersuchen zur Überprüfung von Lieferantenerklärungen sowie die Auswertung aller Ersuchen zur Überprüfung von Lieferantenerklärungen,
 
 
-6.  die Außenwirtschaftsprüfungen und die Marktordnungsprüfungen, einschließlich der Überwachungsmaßnahmen, der Hauptzollämter Bielefeld und Dortmund sowie
+6.  die Zollprüfungen, die Präferenzprüfungen und die Außenprüfungen, einschließlich der Überwachungsmaßnahmen, des Hauptzollamts Dortmund,
 
 
-7.  die Straf- und Bußgeldsachen der Hauptzollämter Bielefeld und Dortmund.
+7.  die Außenwirtschaftsprüfungen und die Marktordnungsprüfungen, einschließlich der Überwachungsmaßnahmen, der Hauptzollämter Bielefeld und Dortmund sowie
+
+
+8.  die Straf- und Bußgeldsachen der Hauptzollämter Bielefeld und Dortmund.
 
 
 

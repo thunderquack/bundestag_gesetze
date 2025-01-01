@@ -127,7 +127,7 @@ Die Bedingungen, zu denen die Verwertungsgesellschaft die Rechte des Berechtigte
 
 ##### § 10 Zustimmung zur Rechtswahrnehmung
 
-Nimmt eine Verwertungsgesellschaft auf Grundlage einer vertraglichen Vereinbarung mit dem Rechtsinhaber Urheberrechte oder verwandte Schutzrechte wahr, holt sie dessen Zustimmung zur Wahrnehmung für jedes einzelne Recht ein und dokumentiert diese. Die Vereinbarung bedarf, auch soweit Rechte an künftigen Werken eingeräumt werden, der Textform.
+Nimmt eine Verwertungsgesellschaft auf Grundlage einer vertraglichen Vereinbarung mit dem Rechtsinhaber Urheberrechte oder verwandte Schutzrechte wahr, holt sie dessen Zustimmung zur Wahrnehmung für jedes einzelne Recht ein und dokumentiert diese.
 
 
 ##### § 11 Nutzungen für nicht kommerzielle Zwecke

@@ -939,7 +939,7 @@ Der Anlagenbetreiber ist verpflichtet, die Strommenge, die den Herkunftsnachweis
 
 (1) Für die Verwendung und Entwertung von Regionalnachweisen sind die Vorschriften des § 30 zur Verwendung und Entwertung von Herkunftsnachweisen entsprechend mit der Maßgabe anzuwenden, dass
 
-1.  der Antrag auf Entwertung zulässig ist in der Zeit vom 1. August bis 15. Dezember des Kalenderjahres, das auf den Erzeugungszeitraum der Strommenge, für die der zu entwertende Regionalnachweis ausgestellt worden ist, folgt,
+1.  der Antrag auf Entwertung zulässig ist in der Zeit vom 1. April bis 31. Juli des Kalenderjahres, das auf den Erzeugungszeitraum der Strommenge, für die der zu entwertende Regionalnachweis ausgestellt worden ist, folgt,
 
 
 2.  Regionalnachweise nur zur Kennzeichnung des Stroms, der in regionalem Zusammenhang zur Erzeugung verbraucht worden ist, nach § 79a Absatz 8 des Erneuerbare-Energien-Gesetzes und nach § 42 Absatz 5 Satz 2 des Energiewirtschaftsgesetzes verwendet werden dürfen,

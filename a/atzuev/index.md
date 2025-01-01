@@ -239,7 +239,9 @@ durchgeführt.
 1             Vor Beantragung einer Zuverlässigkeitsüberprüfung ist der Betroffene vom Antragsberechtigten über Ziel und Art der beabsichtigten Zuverlässigkeitsüberprüfung, über den Umfang der Datenerhebung und -verarbeitung sowie über das Recht, die Durchführung eines Zuverlässigkeitsüberprüfungsverfahrens zu verweigern, nebst Folgen für die Aufnahme der jeweiligen Tätigkeit oder für die Gestattung des Zutritts zur jeweiligen Anlage oder Einrichtung schriftlich zu belehren.
 2             Der Betroffene hat seine Kenntnisnahme von der schriftlichen Belehrung auf dem Erklärungsbogen durch Unterschrift zu bestätigen.
 
-(5) Die zuständige Behörde gibt für die Belehrung des Betroffenen, insbesondere über Anfragen nach dem Bundeszentralregistergesetz, sowie für den Erklärungsbogen ein amtliches Formular bekannt.
+(5)
+1             Die zuständige Behörde gibt für die Belehrung des Betroffenen, insbesondere über Anfragen nach dem Bundeszentralregistergesetz, sowie für den Erklärungsbogen ein amtliches Formular bekannt.
+2             Sie stellt den Erklärungsbogen und das Formular für die Belehrung des Betroffenen als elektronische Formulare zur Verfügung.
 
 
 ## § 7 Abschluß der Zuverlässigkeitsüberprüfung

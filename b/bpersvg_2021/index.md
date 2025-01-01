@@ -1776,7 +1776,6 @@ Die Bundesregierung wird ermächtigt, zur Durchführung der in diesem Gesetz bez
 (3) § 52 Absatz 3 Satz 3 und § 53 Absatz 2 Satz 2 finden auf am 15. Juni 2021 bestehende Freistellungen keine Anwendung.
 
 
-### § 131 Übergangsregelung für die Personalvertretungen in den Ländern
+### § 131 (weggefallen)
 
-Die §§ 90, 94 bis 107 Satz 1 und § 109 des Bundespersonalvertretungsgesetzes vom 15. März 1974 (BGBl. I S. 693), das zuletzt durch Artikel 2 des Gesetzes vom 25. Mai 2020 (BGBl. I S. 1063) geändert worden ist, sind bis zum Ablauf des 31. Dezember 2024 weiter anzuwenden.
 

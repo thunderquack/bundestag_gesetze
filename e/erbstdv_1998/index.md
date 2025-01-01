@@ -683,7 +683,7 @@ Persönliches Verhältnis (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartn
 des Erwerbers zum Schenker (z. B. Kind, Geschwisterkind, Bruder der Mutter,
 nicht verwandt) ....................................................
 Verkehrswert des     I Bei Grundbesitz:      I Wert, der der
-übertragenen         I letzter Einheitswert/ I Kostenberechnung
+übertragenen         I letzter Grundsteuerwert/ I Kostenberechnung
 Vermögens            I Grundbesitzwert       I zugrunde liegt
 I (Nichtzutreffendes    I
 I ist zu streichen)     I

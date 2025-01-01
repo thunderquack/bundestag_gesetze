@@ -194,7 +194,7 @@ Verbundene Unternehmen sind rechtlich selbständige Unternehmen, die im Verhält
 
 #### § 20 Mitteilungspflichten
 
-(1) Sobald einem Unternehmen mehr als der vierte Teil der Aktien einer Aktiengesellschaft mit Sitz im Inland gehört, hat es dies der Gesellschaft unverzüglich schriftlich mitzuteilen. Für die Feststellung, ob dem Unternehmen mehr als der vierte Teil der Aktien gehört, gilt § 16 Abs. 2 Satz 1, Abs. 4.
+(1) Sobald einem Unternehmen mehr als der vierte Teil der Aktien einer Aktiengesellschaft mit Sitz im Inland gehört, hat es dies der Gesellschaft unverzüglich in Textform mitzuteilen. Für die Feststellung, ob dem Unternehmen mehr als der vierte Teil der Aktien gehört, gilt § 16 Abs. 2 Satz 1, Abs. 4.
 
 (2) Für die Mitteilungspflicht nach Absatz 1 rechnen zu den Aktien, die dem Unternehmen gehören, auch Aktien,
 
@@ -206,11 +206,11 @@ Verbundene Unternehmen sind rechtlich selbständige Unternehmen, die im Verhält
 
 
 
-(3) Ist das Unternehmen eine Kapitalgesellschaft, so hat es, sobald ihm ohne Hinzurechnung der Aktien nach Absatz 2 mehr als der vierte Teil der Aktien gehört, auch dies der Gesellschaft unverzüglich schriftlich mitzuteilen.
+(3) Ist das Unternehmen eine Kapitalgesellschaft, so hat es, sobald ihm ohne Hinzurechnung der Aktien nach Absatz 2 mehr als der vierte Teil der Aktien gehört, auch dies der Gesellschaft unverzüglich in Textform mitzuteilen.
 
-(4) Sobald dem Unternehmen eine Mehrheitsbeteiligung (§ 16 Abs. 1) gehört, hat es auch dies der Gesellschaft unverzüglich schriftlich mitzuteilen.
+(4) Sobald dem Unternehmen eine Mehrheitsbeteiligung (§ 16 Abs. 1) gehört, hat es auch dies der Gesellschaft unverzüglich in Textform mitzuteilen.
 
-(5) Besteht die Beteiligung in der nach Absatz 1, 3 oder 4 mitteilungspflichtigen Höhe nicht mehr, so ist dies der Gesellschaft unverzüglich schriftlich mitzuteilen.
+(5) Besteht die Beteiligung in der nach Absatz 1, 3 oder 4 mitteilungspflichtigen Höhe nicht mehr, so ist dies der Gesellschaft unverzüglich in Textform mitzuteilen.
 
 (6) Die Gesellschaft hat das Bestehen einer Beteiligung, die ihr nach Absatz 1 oder 4 mitgeteilt worden ist, unverzüglich in den Gesellschaftsblättern bekanntzumachen; dabei ist das Unternehmen anzugeben, dem die Beteiligung gehört. Wird der Gesellschaft mitgeteilt, daß die Beteiligung in der nach Absatz 1 oder 4 mitteilungspflichtigen Höhe nicht mehr besteht, so ist auch dies unverzüglich in den Gesellschaftsblättern bekanntzumachen.
 
@@ -221,11 +221,11 @@ Verbundene Unternehmen sind rechtlich selbständige Unternehmen, die im Verhält
 
 #### § 21 Mitteilungspflichten der Gesellschaft
 
-(1) Sobald der Gesellschaft mehr als der vierte Teil der Anteile einer anderen Kapitalgesellschaft mit Sitz im Inland gehört, hat sie dies dem Unternehmen, an dem die Beteiligung besteht, unverzüglich schriftlich mitzuteilen. Für die Feststellung, ob der Gesellschaft mehr als der vierte Teil der Anteile gehört, gilt § 16 Abs. 2 Satz 1, Abs. 4 sinngemäß.
+(1) Sobald der Gesellschaft mehr als der vierte Teil der Anteile einer anderen Kapitalgesellschaft mit Sitz im Inland gehört, hat sie dies dem Unternehmen, an dem die Beteiligung besteht, unverzüglich in Textform mitzuteilen. Für die Feststellung, ob der Gesellschaft mehr als der vierte Teil der Anteile gehört, gilt § 16 Abs. 2 Satz 1, Abs. 4 sinngemäß.
 
-(2) Sobald der Gesellschaft eine Mehrheitsbeteiligung (§ 16 Abs. 1) an einem anderen Unternehmen gehört, hat sie dies dem Unternehmen, an dem die Mehrheitsbeteiligung besteht, unverzüglich schriftlich mitzuteilen.
+(2) Sobald der Gesellschaft eine Mehrheitsbeteiligung (§ 16 Abs. 1) an einem anderen Unternehmen gehört, hat sie dies dem Unternehmen, an dem die Mehrheitsbeteiligung besteht, unverzüglich in Textform mitzuteilen.
 
-(3) Besteht die Beteiligung in der nach Absatz 1 oder 2 mitteilungspflichtigen Höhe nicht mehr, hat die Gesellschaft dies dem anderen Unternehmen unverzüglich schriftlich mitzuteilen.
+(3) Besteht die Beteiligung in der nach Absatz 1 oder 2 mitteilungspflichtigen Höhe nicht mehr, hat die Gesellschaft dies dem anderen Unternehmen unverzüglich in Textform mitzuteilen.
 
 (4) Rechte aus Anteilen, die einer nach Absatz 1 oder 2 mitteilungspflichtigen Gesellschaft gehören, bestehen nicht für die Zeit, für die sie die Mitteilungspflicht nicht erfüllt. § 20 Abs. 7 Satz 2 gilt entsprechend.
 
@@ -4390,7 +4390,7 @@ Die Abwickler haben unter Hinweis auf die Auflösung der Gesellschaft die Gläub
 
 (5) Die Vertretungsbefugnis der Abwickler kann nicht beschränkt werden.
 
-(6) Abwickler zeichnen für die Gesellschaft, indem sie der Firma einen die Abwicklung andeutenden Zusatz und ihre Namensunterschrift hinzufügen.
+(6) Zeichnen Abwickler für die Gesellschaft, ist der Firma ein auf die Abwicklung hinweisender Zusatz hinzuzufügen.
 
 
 ###### § 270 Eröffnungsbilanz. Jahresabschluß und Lagebericht
@@ -5250,7 +5250,7 @@ Jedem Aktionär der Hauptgesellschaft ist über Angelegenheiten der eingeglieder
 
 
 
-(2) Befinden sich nicht mehr alle Aktien der eingegliederten Gesellschaft in der Hand der Hauptgesellschaft, so hat die Hauptgesellschaft dies der eingegliederten Gesellschaft unverzüglich schriftlich mitzuteilen.
+(2) Befinden sich nicht mehr alle Aktien der eingegliederten Gesellschaft in der Hand der Hauptgesellschaft, so hat die Hauptgesellschaft dies der eingegliederten Gesellschaft unverzüglich in Textform mitzuteilen.
 
 (3) Der Vorstand der bisher eingegliederten Gesellschaft hat das Ende der Eingliederung, seinen Grund und seinen Zeitpunkt unverzüglich zur Eintragung in das Handelsregister des Sitzes der Gesellschaft anzumelden.
 
@@ -5343,7 +5343,7 @@ Die Anfechtung des Übertragungsbeschlusses kann nicht auf § 243 Abs. 2 oder da
 
 (3) In der Hauptversammlung einer börsennotierten Gesellschaft kann ein Unternehmen, dem die wechselseitige Beteiligung gemäß Absatz 1 bekannt ist, sein Stimmrecht zur Wahl von Mitgliedern in den Aufsichtsrat nicht ausüben.
 
-(4) Sind eine Aktiengesellschaft oder Kommanditgesellschaft auf Aktien und ein anderes Unternehmen wechselseitig beteiligte Unternehmen, so haben die Unternehmen einander unverzüglich die Höhe ihrer Beteiligung und jede Änderung schriftlich mitzuteilen.
+(4) Sind eine Aktiengesellschaft oder Kommanditgesellschaft auf Aktien und ein anderes Unternehmen wechselseitig beteiligte Unternehmen, so haben die Unternehmen einander unverzüglich die Höhe ihrer Beteiligung und jede Änderung in Textform mitzuteilen.
 
 
 ### Sechster Teil - Rechnungslegung im Konzern

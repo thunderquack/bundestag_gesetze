@@ -65,7 +65,7 @@ Besteht der durch Tatsachen hinreichend begründete Verdacht eines Verstoßes ge
 
 ## § 2 Aufgaben der Akkreditierungsstelle
 
-(1) Die Akkreditierungsstelle führt auf schriftlichen Antrag einer Konformitätsbewertungsstelle Akkreditierungsverfahren gemäß Artikel 5 der Verordnung (EG) Nr. 765/2008 durch. Sie wendet bei der Akkreditierung die nach § 5 Absatz 3 bekannt gemachten Regeln an.
+(1) Die Akkreditierungsstelle führt auf elektronischen Antrag einer Konformitätsbewertungsstelle Akkreditierungsverfahren gemäß Artikel 5 der Verordnung (EG) Nr. 765/2008 durch. Die Akkreditierungsstelle kann die Verwendung bestimmter elektronischer Formulare und Eingabemasken vorschreiben. Sie wendet bei der Akkreditierung die nach § 5 Absatz 3 bekannt gemachten Regeln an.
 
 (2) Die Akkreditierungsstelle führt ein Verzeichnis der akkreditierten Konformitätsbewertungsstellen mit Angabe des fachlichen Umfangs und hält es auf dem neuesten Stand.
 

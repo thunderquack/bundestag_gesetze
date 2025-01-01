@@ -3250,25 +3250,9 @@ Die in diesem Gebührenverzeichnis enthaltenen Verweisungen auf JAR-Regelungen b
 
     *        *   8.
 
-        *   Zulassung von Ausnahmen für Flüge von und zu bestimmten Flugplätzen (§ 24 Absatz 2 LuftVO)
+        *   (weggefallen)
 
         *
-
-    *        *
-        *   a)
-
-        *   allgemein
-
-        *   800 EUR
-
-
-    *        *
-        *   b)
-
-        *   im Einzelfall
-
-        *   80 EUR
-
 
     *        *   9.
 

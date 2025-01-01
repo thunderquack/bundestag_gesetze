@@ -423,27 +423,13 @@ Träger sind natürliche oder juristische Personen oder rechtsfähige Personenge
 3.  Leistungen zur Berufsausbildung nach dem Vierten Unterabschnitt des Dritten Abschnitts und Leistungen nach den §§ 48a und 54a,
 
 
-4.  Leistungen zur beruflichen Weiterbildung nach dem Vierten Abschnitt, mit Ausnahme von Leistungen nach § 82 Absatz 5 und § 82a, und Leistungen nach den §§ 131a und 131b,
+4.  (weggefallen)
 
 
 5.  Leistungen zur Aufnahme einer sozialversicherungspflichtigen Beschäftigung nach dem Ersten Unterabschnitt des Fünften Abschnitts,
 
 
-6.  Leistungen zur Teilhabe von Menschen mit Behinderungen am Arbeitsleben nach
-
-    a)  den §§ 112 bis 114, 115 Nummer 1 bis 3 mit Ausnahme berufsvorbereitender Bildungsmaßnahmen und der Berufsausbildungsbeihilfe sowie § 116 Absatz 1, 2 und 6,
-
-
-    b)  § 117 Absatz 1 und § 118 Nummer 1 und 3 für die besonderen Leistungen zur Förderung der beruflichen Weiterbildung,
-
-
-    c)  den §§ 119 bis 121,
-
-
-    d)  den §§ 127 und 128 für die besonderen Leistungen zur Förderung der beruflichen Weiterbildung.
-
-
-
+6.  Leistungen zur Teilhabe von Menschen mit Behinderungen am Arbeitsleben nach den §§ 119 bis 121.
 
 
 
@@ -520,7 +506,7 @@ Sofern die Bundesagentur für die Erbringung von Leistungen nach § 35 besondere
 
 (2) Versicherungspflichtig sind Personen in der Zeit, für die sie
 
-1.  von einem Leistungsträger Mutterschaftsgeld, Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld oder von einem Träger der medizinischen Rehabilitation Übergangsgeld beziehen,
+1.  von einem Leistungsträger Mutterschaftsgeld, Krankengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung, Verletztengeld oder von einem Träger der medizinischen Rehabilitation Übergangsgeld beziehen,
 
 
 2.  von einem privaten Krankenversicherungsunternehmen Krankentagegeld beziehen,
@@ -1993,11 +1979,9 @@ Bei der Ermessensentscheidung nach den Absätzen 1 bis 4 kann die Agentur für A
 
 
 
-(7) Bei der Ausübung des Ermessens hat die Agentur für Arbeit die unterschiedlichen Betriebsgrößen angemessen zu berücksichtigen.
+(7) Die Förderung von Arbeitnehmerinnen und Arbeitnehmern in Maßnahmen, die während des Bezugs von Kurzarbeitergeld beginnen, ist bis zum 31. Juli 2024 ausgeschlossen.
 
-(8) Die Förderung von Arbeitnehmerinnen und Arbeitnehmern in Maßnahmen, die während des Bezugs von Kurzarbeitergeld beginnen, ist bis zum 31. Juli 2024 ausgeschlossen.
-
-(9) Behinderungsbedingt erforderliche Mehraufwendungen, die im Zusammenhang mit der Teilnahme an einer nach Absatz 1 geförderten Maßnahme entstehen, werden übernommen.
+(8) Behinderungsbedingt erforderliche Mehraufwendungen, die im Zusammenhang mit der Teilnahme an einer nach Absatz 1 geförderten Maßnahme entstehen, werden übernommen.
 
 
 #### § 82a Qualifizierungsgeld
@@ -2218,6 +2202,8 @@ Kosten für die Betreuung der aufsichtsbedürftigen Kinder der Arbeitnehmerin od
 
 
 (2) Arbeitslose Arbeitnehmerinnen und Arbeitnehmer erhalten bei Teilnahme an einer Weiterbildung nach Absatz 1 zusätzlich einen monatlichen Zuschuss in Höhe von 150 Euro (Weiterbildungsgeld).
+
+(3) Erwerbsfähige Leistungsberechtigte im Sinne des Zweiten Buches erhalten auch im Rahmen eines bestehenden Arbeitsverhältnisses das Weiterbildungsgeld, wenn sie an einer nach § 81 oder § 82 geförderten Weiterbildung teilnehmen, die zu einem Abschluss in einem Ausbildungsberuf führt, für den nach bundes- oder landesrechtlichen Vorschriften eine Ausbildungsdauer von mindestens zwei Jahren festgelegt ist.
 
 
 ### Fünfter Abschnitt - Aufnahme einer Erwerbstätigkeit
@@ -3683,7 +3669,7 @@ Bei der Berechnung der Abzüge nach Satz 2 Nummer 2 und 3 sind
 
 Für die Feststellung der Lohnsteuer wird die Vorsorgepauschale mit folgenden Maßgaben berücksichtigt:
 
-1.  für Beiträge zur Rentenversicherung und zur Arbeitsförderung als Beitragsbemessungsgrenze die für das Bundesgebiet West maßgebliche Beitragsbemessungsgrenze,
+1.  für Beiträge zur Rentenversicherung und zur Arbeitsförderung als Beitragsbemessungsgrenze die maßgebliche Beitragsbemessungsgrenze der allgemeinen Rentenversicherung,
 
 
 2.  für Beiträge zur Krankenversicherung der ermäßigte Beitragssatz nach § 243 des Fünften Buches zuzüglich des durchschnittlichen Zusatzbeitragssatzes nach § 242a des Fünften Buches,
@@ -3744,7 +3730,7 @@ erhält, werden nach Abzug der Steuern, des auf die Arbeitnehmerin oder den Arbe
 1.  Berufsausbildungsbeihilfe für Arbeitslose,
 
 
-2.  Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld, Mutterschaftsgeld oder Übergangsgeld nach diesem oder einem anderen Gesetz, dem eine Leistung zur Teilhabe zugrunde liegt, wegen der keine ganztägige Erwerbstätigkeit ausgeübt wird,
+2.  Krankengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung, Verletztengeld, Mutterschaftsgeld oder Übergangsgeld nach diesem oder einem anderen Gesetz, dem eine Leistung zur Teilhabe zugrunde liegt, wegen der keine ganztägige Erwerbstätigkeit ausgeübt wird,
 
 
 3.  Rente wegen voller Erwerbsminderung aus der gesetzlichen Rentenversicherung oder
@@ -5008,7 +4994,7 @@ Dauert die Arbeitsunfähigkeit länger als in der Bescheinigung nach Satz 1 Numm
 
 (2) Der Nachweis durch die ärztliche Bescheinigung nach Absatz 1 Satz 1 Nummer 1 Buchstabe b und Satz 3 entfällt, wenn die in § 295 Absatz 1 Satz 1 Nummer 1 des Fünften Buches genannten Arbeitsunfähigkeitsdaten nach § 295 Absatz 1 Satz 10 des Fünften Buches elektronisch an die Krankenkasse zu übermitteln sind. Satz 1 gilt entsprechend, wenn die Arbeitsunfähigkeitsdaten nach § 201 Absatz 2 des Siebten Buches elektronisch an die Krankenkassen zu übermitteln sind. Der Nachweis nach Absatz 1 Satz 1 Nummer 2 entfällt, wenn die in § 301 Absatz 1 Satz 1 Nummer 3 und 7 des Fünften Buches genannten Daten zur stationären Behandlung nach § 301 Absatz 1 des Fünften Buches elektronisch an die Krankenkasse zu übermitteln sind.
 
-(3) Die Absätze 1 und 2 gelten entsprechend auch für Teilnehmende an Maßnahmen der beruflichen Weiterbildung oder einer Maßnahme nach § 45, die keinen Anspruch auf Arbeitslosengeld erheben.
+(3) Die Absätze 1 und 2 gelten entsprechend auch für Teilnehmende an einer Maßnahme zur Aktivierung und beruflichen Eingliederung nach § 45 oder an einer nach § 81 geförderten Weiterbildung, die keinen Anspruch auf Arbeitslosengeld erheben und nicht versicherungspflichtig beschäftigt sind.
 
 
 ##### § 312 Arbeitsbescheinigung
@@ -5245,8 +5231,6 @@ Die Bundesagentur wird ermächtigt, durch Anordnung Näheres über die Meldepfli
 
 (5) Leistungen zur Förderung der Teilnahme an Transfermaßnahmen sind innerhalb einer Ausschlussfrist von drei Monaten nach Ende der Maßnahme zu beantragen.
 
-(6) Qualifizierungsgeld wird nicht rückwirkend geleistet. Der Antrag sollte spätestens drei Monate vor Beginn der Maßnahme gestellt werden.
-
 
 #### § 326 Ausschlußfrist für Gesamtabrechnung
 
@@ -5333,7 +5317,7 @@ Die Agentur für Arbeit kann das zu berücksichtigende Einkommen nach Anhörung 
 1.  Renten der Sozialversicherung,
 
 
-2.  Leistungen des Berufsschadensausgleichs nach Kapitel 10 des Vierzehnten Buches sowie nach Gesetzen, die eine entsprechende Anwendung des Vierzehnten Buches vorsehen,
+2.  Leistungen des Berufsschadensausgleichs nach Kapitel 10 des Vierzehnten Buches sowie nach Gesetzen, die eine entsprechende Anwendung des Vierzehnten Buches vorsehen, und Leistungen des Erwerbsschadensausgleichs nach dem Soldatenentschädigungsgesetz,
 
 
 3.  Renten nach dem Gesetz zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen,
@@ -5530,7 +5514,7 @@ Als beitragspflichtige Einnahme gilt bei Personen,
 4.  die als nicht satzungsmäßige Mitglieder geistlicher Genossenschaften oder ähnlicher religiöser Gemeinschaften für den Dienst in einer solchen Genossenschaft oder ähnlichen religiösen Gemeinschaft außerschulisch ausgebildet werden, ein Entgelt in Höhe der gewährten Geld- und Sachbezüge,
 
 
-5.  die als Bezieherinnen oder Bezieher von Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld oder Übergangsgeld versicherungspflichtig sind, 80 Prozent des der Leistung zugrunde liegenden Arbeitsentgelts oder Arbeitseinkommens, wobei 80 Prozent des beitragspflichtigen Arbeitsentgelts aus einem versicherungspflichtigen Beschäftigungsverhältnis abzuziehen sind; bei gleichzeitigem Bezug von Krankengeld neben einer anderen Leistung ist das dem Krankengeld zugrunde liegende Einkommen nicht zu berücksichtigen,
+5.  die als Bezieherinnen oder Bezieher von Krankengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung, Verletztengeld oder Übergangsgeld versicherungspflichtig sind, 80 Prozent des der Leistung zugrunde liegenden Arbeitsentgelts oder Arbeitseinkommens, wobei 80 Prozent des beitragspflichtigen Arbeitsentgelts aus einem versicherungspflichtigen Beschäftigungsverhältnis abzuziehen sind; bei gleichzeitigem Bezug von Krankengeld neben einer anderen Leistung ist das dem Krankengeld zugrunde liegende Einkommen nicht zu berücksichtigen,
 
 
 5a. die Krankengeld nach § 44a des Fünften Buches beziehen, das der Leistung zugrunde liegende Arbeitsentgelt oder Arbeitseinkommen; wird Krankengeld in Höhe der Entgeltersatzleistungen nach diesem Buch gezahlt, gilt Nummer 5,
@@ -5551,7 +5535,7 @@ Als beitragspflichtige Einnahme gilt bei Personen,
 7.  die als Bezieherinnen von Mutterschaftsgeld versicherungspflichtig sind, ein Arbeitsentgelt in Höhe des Mutterschaftsgeldes,
 
 
-8.  die als Pflegepersonen versicherungspflichtig sind (§ 26 Abs. 2b), ein Arbeitsentgelt in Höhe von 50 Prozent der monatlichen Bezugsgröße; dabei ist die Bezugsgröße für das Beitrittsgebiet maßgebend, wenn der Tätigkeitsort im Beitrittsgebiet liegt.
+8.  die als Pflegepersonen versicherungspflichtig sind (§ 26 Abs. 2b), ein Arbeitsentgelt in Höhe von 50 Prozent der monatlichen Bezugsgröße.
 
 
 
@@ -5626,7 +5610,7 @@ Für Personen, die ein Versicherungspflichtverhältnis auf Antrag begründen, gi
 
 
 
-Abweichend von Satz 1 Nummer 2 gilt in Fällen des § 28a Absatz 1 Nummer 2 bis zum Ablauf von einem Kalenderjahr nach dem Jahr der Aufnahme der selbständigen Tätigkeit als beitragspflichtige Einnahme ein Arbeitsentgelt in Höhe von 50 Prozent der monatlichen Bezugsgröße. Dabei ist die Bezugsgröße für das Beitrittsgebiet maßgebend, wenn der Tätigkeitsort im Beitrittsgebiet liegt.
+Abweichend von Satz 1 Nummer 2 gilt in Fällen des § 28a Absatz 1 Nummer 2 bis zum Ablauf von einem Kalenderjahr nach dem Jahr der Aufnahme der selbständigen Tätigkeit als beitragspflichtige Einnahme ein Arbeitsentgelt in Höhe von 50 Prozent der monatlichen Bezugsgröße.
 
 
 #### Zweiter Unterabschnitt - Verfahren
@@ -5672,7 +5656,8 @@ Die Beiträge werden getragen
 
 5.  für Personen, die Krankengeld oder Verletztengeld beziehen, von diesen und den Leistungsträgern je zur Hälfte, soweit sie auf die Leistung entfallen, im übrigen von den Leistungsträgern; die Leistungsträger tragen die Beiträge auch allein, soweit sie folgende Leistungen zahlen:
 
-    a)  Krankengeld der Sozialen Entschädigung oder Übergangsgeld,
+    a)  Krankengeld der Sozialen Entschädigung
+        , Krankengeld der Soldatenentschädigung                          oder Übergangsgeld,
 
 
     b)  Krankengeld oder Verletztengeld in Höhe der Entgeltersatzleistungen nach diesem Buch oder
@@ -6678,22 +6663,11 @@ Hat die Bundesagentur eine externe Gutachterin oder einen externen Gutachter bea
 
 
 
-### Erster Abschnitt - Sonderregelungen im Zusammenhang mit der Herstellung der Einheit Deutschlands
+### Erster Abschnitt - (weggefallen)
 
 
 
-#### § 408 Besondere Bezugsgröße und Beitragsbemessungsgrenze
-
-Soweit Vorschriften dieses Buches bei Entgelten oder Beitragsbemessungsgrundlagen
-
-1.  an die Bezugsgröße anknüpfen, ist die Bezugsgröße für das in Artikel 3 des Einigungsvertrages genannte Gebiet (Beitrittsgebiet),
-
-
-2.  an die Beitragsbemessungsgrenze anknüpfen, ist die Beitragsbemessungsgrenze für das Beitrittsgebiet
-
-
-
-maßgebend, wenn der Beschäftigungsort im Beitrittsgebiet liegt.
+#### § 408 (weggefallen)
 
 
 #### (XXXX) §§ 409 u. 410 (weggefallen)
@@ -7102,8 +7076,6 @@ anzuwenden.
 
 (2) Abweichend von § 422 ist § 153 Absatz 1 Satz 2 Nummer 1 in der ab dem 1. Januar 2019 geltenden Fassung anzuwenden auf Ansprüche auf Arbeitslosengeld bei beruflicher Weiterbildung (§ 144) und für die Berechnung von Ansprüchen auf Berufsausbildungsbeihilfe für Arbeitslose (§ 70).
 
-(3) Die Bundesregierung berichtet dem Deutschen Bundestag in jeder Legislaturperiode, beginnend mit dem Jahr 2020, über die Förderung der beruflichen Weiterbildung im Rahmen der aktiven Arbeitsförderung und die entsprechenden Ausgaben.
-
 
 #### § 448 Gesetz zur Förderung der Ausbildung und Beschäftigung von Ausländerinnen und Ausländern
 
@@ -7187,4 +7159,9 @@ Abweichend von § 422 sind die §§ 54a, 61, 62, 64, 67, 68 und die §§ 123 bis
 #### § 458 Gesetz zur Stärkung der Aus- und Weiterbildungsförderung
 
 § 73a findet keine Anwendung auf Berufsausbildungen, die vor dem 1. April 2024 begonnen haben.
+
+
+#### § 459 Übergangsregelung aus Anlass des Haushaltsfinanzierungsgesetzes 2024
+
+Die Bundesagentur trägt ab dem 1. Januar 2025 die Aufwendungen, die sich aus der Anwendung des § 66a des Zweiten Buches ergeben. Eine Pauschalierung des Aufwendungsersatzes ist zulässig. Die Bundesagentur, das Bundesministerium für Arbeit und Soziales und das Bundesministerium der Finanzen vereinbaren die Höhe des Gesamtbetrages zur Abgeltung der Aufwendungen sowie im Rahmen ihrer jeweiligen Zuständigkeiten die Einzelheiten zum Verfahren. Die Bundesagentur zahlt den Gesamtbetrag zu Beginn des Jahres an den Bund.
 

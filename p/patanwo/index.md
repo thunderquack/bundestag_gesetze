@@ -607,7 +607,12 @@ Wird auf Ersuchen der Patentanwaltskammer für das Verwaltungsverfahren ein Vert
 Satz 1 Nummer 2 gilt nicht für die Verschwiegenheitspflichten der für eine Berufskammer eines freien Berufs im Geltungsbereich dieses Gesetzes tätigen Personen und für das Steuergeheimnis nach § 30 der Abgabenordnung.
 
 
-#### (XXXX) §§ 35 bis 38 (weggefallen)
+#### § 35 Ersetzung der Schriftform
+
+Ist nach diesem Gesetz für die Abgabe einer Erklärung die Schriftform vorgeschrieben, so kann die Erklärung auch über das besondere elektronische Bürger- und Organisationenpostfach abgegeben werden, wenn Erklärender und Empfänger über ein solches verfügen. Ist die Erklärung von einer natürlichen Person abzugeben, so ist das Dokument mit einer qualifizierten elektronischen Signatur der Person zu versehen oder von ihr zu signieren und selbst zu versenden. Andere Postfächer nach § 130a Absatz 4 Satz 1 Nummer 2, 3 und 5 der Zivilprozessordnung stehen dem besonderen elektronischen Bürger- und Organisationenpostfach nach Satz 1 gleich.
+
+
+#### (XXXX) §§ 36 bis 38 (weggefallen)
 
 
 
@@ -867,7 +872,7 @@ Im Fall des Satzes 1 Nummer 1 ist der Anzeige eine Ausfertigung oder eine amtlic
 
 (1) Die Abgabe und Entgegennahme eines Teils der Honorare oder sonstiger Vorteile für die Vermittlung von Aufträgen, gleichviel ob im Verhältnis zu einem Patentanwalt oder Dritten gleich welcher Art, ist unzulässig. Zulässig ist es jedoch, die mitwirkende Tätigkeit eines anderen Patentanwalts angemessen zu honorieren. Die Honorierung der Leistungen hat der Verantwortlichkeit sowie dem Haftungsrisiko der beteiligten Patentanwälte und den sonstigen Umständen Rechnung zu tragen. Die Vereinbarung einer solchen Honorierung darf nicht zur Voraussetzung einer Mandatserteilung gemacht werden. Mehrere Patentanwälte dürfen einen Auftrag gemeinsam bearbeiten und die Honorare in einem den Leistungen der Verantwortlichkeit und dem Haftungsrisiko entsprechenden angemessenen Verhältnis untereinander teilen.
 
-(2) Die Abtretung von Vergütungsforderungen oder die Übertragung ihrer Einziehung an Patentanwälte, Rechtsanwälte, Berufsausübungsgesellschaften nach § 52b dieses Gesetzes oder nach § 59b der Bundesrechtsanwaltsordnung ist zulässig. Im Übrigen sind Abtretung oder Übertragung nur zulässig, wenn eine ausdrückliche, schriftliche Einwilligung des Mandanten vorliegt oder die Forderung rechtskräftig festgestellt ist. Vor der Einwilligung ist der Mandant über die Informationspflicht des Patentanwalts gegenüber dem neuen Gläubiger oder Einziehungsermächtigten aufzuklären. Der neue Gläubiger oder Einziehungsermächtigte ist in gleicher Weise zur Verschwiegenheit verpflichtet wie der beauftragte Patentanwalt.
+(2) Die Abtretung von Vergütungsforderungen oder die Übertragung ihrer Einziehung an Patentanwälte, Rechtsanwälte, Berufsausübungsgesellschaften nach § 52b dieses Gesetzes oder nach § 59b der Bundesrechtsanwaltsordnung ist zulässig. Im Übrigen sind Abtretung oder Übertragung nur zulässig, wenn eine ausdrückliche Einwilligung des Mandanten in Textform vorliegt oder die Forderung rechtskräftig festgestellt ist. Vor der Einwilligung ist der Mandant über die Informationspflicht des Patentanwalts gegenüber dem neuen Gläubiger oder Einziehungsermächtigten aufzuklären. Der neue Gläubiger oder Einziehungsermächtigte ist in gleicher Weise zur Verschwiegenheit verpflichtet wie der beauftragte Patentanwalt.
 
 
 #### § 43b Erfolgshonorar
@@ -948,7 +953,7 @@ Im Fall des Satzes 1 Nummer 1 ist der Anzeige eine Ausfertigung oder eine amtlic
 
 (1) Der Anspruch des Auftraggebers aus dem zwischen ihm und dem Patentanwalt bestehenden Vertragsverhältnis auf Ersatz eines fahrlässig verursachten Schadens kann beschränkt werden:
 
-1.  durch schriftliche Vereinbarung im Einzelfall bis zur Höhe der Mindestversicherungssumme;
+1.  durch im Einzelfall in Textform getroffene Vereinbarung bis zur Höhe der Mindestversicherungssumme;
 
 
 2.  durch vorformulierte Vertragsbedingungen für Fälle einfacher Fahrlässigkeit auf den vierfachen Betrag der Mindestversicherungssumme, wenn insoweit Versicherungsschutz besteht.
@@ -957,7 +962,7 @@ Im Fall des Satzes 1 Nummer 1 ist der Anzeige eine Ausfertigung oder eine amtlic
 
 Für Berufsausübungsgesellschaften gilt Satz 1 entsprechend.
 
-(2) Die Mitglieder einer Berufsausübungsgesellschaft ohne Haftungsbeschränkung haften aus dem zwischen ihr und dem Auftraggeber bestehenden Vertragsverhältnis als Gesamtschuldner. Die persönliche Haftung auf Schadensersatz kann auch durch vorformulierte Vertragsbedingungen beschränkt werden auf einzelne Mitglieder einer Berufsausübungsgesellschaft ohne Haftungsbeschränkung, die das Mandat im Rahmen ihrer eigenen beruflichen Befugnisse bearbeiten und namentlich bezeichnet sind. Die Zustimmungserklärung zu einer solchen Beschränkung darf keine anderen Erklärungen enthalten und muß vom Auftraggeber unterschrieben sein.
+(2) Die Mitglieder einer Berufsausübungsgesellschaft ohne Haftungsbeschränkung haften aus dem zwischen ihr und dem Auftraggeber bestehenden Vertragsverhältnis als Gesamtschuldner. Die persönliche Haftung auf Schadensersatz kann auch durch vorformulierte Vertragsbedingungen beschränkt werden auf einzelne Mitglieder einer Berufsausübungsgesellschaft ohne Haftungsbeschränkung, die das Mandat im Rahmen ihrer eigenen beruflichen Befugnisse bearbeiten und namentlich bezeichnet sind. Die Zustimmungserklärung zu einer solchen Beschränkung darf keine anderen Erklärungen enthalten und bedarf der Textform.
 
 
 #### § 46 Bestellung einer Vertretung
@@ -1017,7 +1022,10 @@ Für Berufsausübungsgesellschaften gilt Satz 1 entsprechend.
 2.  daß er dauernd oder zeitweilig als Richter, Beamter, Berufssoldat oder Soldat auf Zeit verwendet wird,
 
 
-3.  daß er ein öffentliches Amt im Sinne des § 42 Abs. 2 bekleidet.
+3.  daß er ein öffentliches Amt im Sinne des § 42 Abs. 2 bekleidet,
+
+
+4.  dass er Mitglied eines Geschäftsführungs- oder Aufsichtsorgans einer Berufsausübungsgesellschaft nach der Bundesrechtsanwaltsordnung oder dem Steuerberatungsgesetz ist.
 
 
 
@@ -1439,10 +1447,21 @@ Berufsausübungsgesellschaften, bei denen Patentanwälte die Mehrheit der Stimmr
 1.  Personen, die von ihr zur Patentanwaltschaft zugelassen oder von ihr aufgenommen wurden,
 
 
-2.  Berufsausübungsgesellschaften, die von ihr zugelassen wurden, und
+2.  Berufsausübungsgesellschaften, die von ihr zugelassen wurden,
 
 
-3.  Mitglieder von Geschäftsführungs- und Aufsichtsorganen von Berufsausübungsgesellschaften nach Nummer 2, die nicht schon nach Nummer 1 Mitglied der Patentanwaltskammer sind.
+3.  Mitglieder von Geschäftsführungs- und Aufsichtsorganen von Berufsausübungsgesellschaften nach Nummer 2, die nicht schon
+
+    a)  nach Nummer 1 Mitglied der Patentanwaltskammer sind oder
+
+
+    b)  Mitglied einer Rechtsanwaltskammer oder einer Steuerberaterkammer sind, und
+
+
+
+
+
+4.  Mitglieder der Geschäftsleitung der deutschen Zweigniederlassungen von ausländischen Berufsausübungsgesellschaften (§ 159 Absatz 1 Nummer 4), die nicht schon nach Nummer 1 Mitglied der Patentanwaltskammer sind.
 
 
 
@@ -1683,10 +1702,11 @@ Der Vorstand ist beschlußfähig, wenn mindestens die Hälfte seiner Mitglieder 
 
 
 
+Ist ein Mitglied der Kammer auch Mitglied eines Geschäftsführungs- oder Aufsichtsorgans einer Berufsausübungsgesellschaft nach der Bundesrechtsanwaltsordnung oder dem Steuerberatungsgesetz, so umfassen die Aufgaben des Vorstandes nach Satz 1 Nummer 1 und 4 auch die Berufspflichten des Kammermitglieds als Mitglied dieses Geschäftsführungs- oder Aufsichtsorgans (§ 59d Absatz 1 bis 3 und § 59j Absatz 4 und 5 Satz 1 der Bundesrechtsanwaltsordnung oder § 51 Absatz 1 bis 3 und § 55b Absatz 4 und 5 Satz 1 des Steuerberatungsgesetzes).
 
 (3) In Beschwerdeverfahren setzt der Vorstand die Person, die die Beschwerde erhoben hatte von seiner Entscheidung in Kenntnis. Die Mitteilung erfolgt nach Abschluss des Verfahrens einschließlich des Einspruchsverfahrens und ist mit einer kurzen Darstellung der wesentlichen Gründe für die Entscheidung zu versehen. § 71 Absatz 1 bleibt unberührt. Die Mitteilung ist nicht anfechtbar.
 
-(4) Der Vorstand kann die in Absatz 2 Nr. 1 bis 3 und Absatz 3 bezeichneten Aufgaben einzelnen Mitgliedern des Vorstands übertragen.
+(4) Der Vorstand kann die in Absatz 2 Satz 1 Nr. 1 bis 3 und Absatz 3 bezeichneten Aufgaben einzelnen Mitgliedern des Vorstands übertragen.
 
 (5) Beantragt bei Streitigkeiten zwischen einem Mitglied der Patentanwaltskammer und seinem Auftraggeber der Auftraggeber ein Vermittlungsverfahren, so wird dieses eingeleitet, ohne dass es der Zustimmung des Mitglieds bedarf. Ein Schlichtungsvorschlag ist nur verbindlich, wenn er von beiden Seiten angenommen wird.
 
@@ -1820,14 +1840,14 @@ Der Schriftführer führt das Protokoll über die Sitzungen des Vorstands und de
 
 (1) Die Kammerversammlung wird durch den Präsidenten einberufen.
 
-(2) Der Präsident muß die Kammerversammlung einberufen, wenn ein Zehntel der Mitglieder es schriftlich beantragt und hierbei den Gegenstand angibt, der in der Kammerversammlung behandelt werden soll.
+(2) Der Präsident muß die Kammerversammlung einberufen, wenn ein Zehntel der Mitglieder es schriftlich oder elektronisch beantragt und hierbei den Gegenstand angibt, der in der Kammerversammlung behandelt werden soll.
 
 (3) Wenn die Satzung nichts anderes bestimmt, soll die Kammerversammlung am Sitz der Kammer zusammentreten.
 
 
 ##### § 79 Einladung und Einberufungsfrist
 
-Die Kammerversammlung ist mindestens zwei Wochen vorher einzuberufen. Die Einberufung hat schriftlich oder öffentlich in den dazu von der Satzung bestimmten Blättern zu erfolgen. Bei der Fristberechnung sind der Tag der Versendung und der Tag der Versammlung nicht mitzuzählen. In dringenden Fällen kann die Kammerversammlung mit kürzerer Frist einberufen werden.
+Die Kammerversammlung ist mindestens zwei Wochen vorher einzuberufen. Die Einberufung hat schriftlich oder elektronisch zu erfolgen. Bei der Fristberechnung sind der Tag der Versendung und der Tag der Versammlung nicht mitzuzählen. In dringenden Fällen kann die Kammerversammlung mit kürzerer Frist einberufen werden.
 
 
 ##### § 79a Durchführung der Kammerversammlung
@@ -2128,7 +2148,7 @@ Wird durch das Oberlandesgericht oder den Bundesgerichtshof festgestellt, dass e
 
 ### § 95 Ahndung einer Pflichtverletzung
 
-(1) Gegen einen Patentanwalt, der schuldhaft gegen Pflichten verstößt, die in diesem Gesetz oder in der Berufsordnung nach § 52a bestimmt sind, wird eine berufsgerichtliche Maßnahme verhängt.
+(1) Gegen einen Patentanwalt, der schuldhaft gegen Pflichten verstößt, die in diesem Gesetz oder in der Berufsordnung nach § 52a bestimmt sind, wird eine berufsgerichtliche Maßnahme verhängt. Gleiches gilt, wenn ein Patentanwalt im Fall des § 69 Absatz 2 Satz 2 dieses Gesetzes gegen Berufspflichten nach § 59d Absatz 1 bis 3 oder § 59j Absatz 4 oder 5 Satz 1 der Bundesrechtsanwaltsordnung oder gegen Berufspflichten nach § 51 Absatz 1 bis 3 oder § 55b Absatz 4 oder 5 Satz 1 des Steuerberatungsgesetzes verstößt.
 
 (2) Ein außerhalb des Berufes liegendes Verhalten eines Patentanwalts, das eine rechtswidrige Tat oder eine mit Geldbuße bedrohte Handlung darstellt, ist eine berufsgerichtlich zu ahndende Pflichtverletzung, wenn es nach den Umständen des Einzelfalles in besonderem Maße geeignet ist, Achtung und Vertrauen der Rechtsuchenden in einer für die Ausübung der Patentanwaltstätigkeit bedeutsamen Weise zu beeinträchtigen.
 
@@ -2188,6 +2208,15 @@ Im Fall einer Gesamtrechtsnachfolge oder einer partiellen Gesamtrechtsnachfolge 
 
 
 4.  Ausschließung aus der Patentanwaltschaft.
+
+
+
+(1a) Im Fall des § 69 Absatz 2 Satz 2 tritt an die Stelle der Ausschließung aus der Patentanwaltschaft
+
+1.  bei Mitgliedern von Geschäftsführungsorganen die Aberkennung der Eignung, eine Berufsausübungsgesellschaft zu vertreten und ihre Geschäfte zu führen, und
+
+
+2.  bei Mitgliedern eines Aufsichtsorgans die Aberkennung der Eignung, Aufsichtsfunktionen einer Berufsausübungsgesellschaft wahrzunehmen.
 
 
 
@@ -3023,6 +3052,12 @@ Patentanwälte und Patentassessoren, die am 3. Oktober 1990 in die beim Patentam
 
 
 müssen bis zum 1. November 2022 eine Zulassung beantragen. Ihnen stehen bis zur Entscheidung der Patentanwaltskammer über den Antrag auf Zulassung die Befugnisse nach § 52k zu.
+
+
+### § 163 Übergangsvorschrift zu aufsichtsrechtlichen Verfahren bei Wegfall der doppelten Kammermitgliedschaft
+
+Die Zuständigkeit für am 1. Januar 2025 anhängige aufsichtsrechtliche Verfahren gegen ein Mitglied eines Geschäftsführungs- oder Aufsichtsorgans einer patentanwaltlichen Berufsausübungsgesellschaft, das auch Mitglied einer Rechtsanwaltskammer oder einer Steuerberaterkammer ist, geht am 1. Januar 2025 auf diejenige Stelle über, der von diesem Tag an nach der
+Rechtsanwaltsordnung              oder dem Steuerberatungsgesetz die Zuständigkeit für das Verfahren zukommt.
 
 (zu § 52a Absatz 4 Satz 1)
 

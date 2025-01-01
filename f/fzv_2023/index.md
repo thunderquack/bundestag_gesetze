@@ -2211,7 +2211,7 @@ Das zulässige Datenformat der Anzeige hat das Kraftfahrt-Bundesamt festzulegen 
 
 ### § 52 Versicherungskennzeichen
 
-(1) Für ein Kraftfahrzeug im Sinne des § 4 Absatz 3 Satz 1 in Verbindung mit § 3 Absatz 3 Satz 1 Nummer 1 Buchstabe d bis f ist das Versicherungskennzeichen der Nachweis, dass für das jeweilige Kraftfahrzeug eine Kraftfahrzeug-Haftpflichtversicherung nach § 1 des Pflichtversicherungsgesetzes besteht. Nach Abschluss eines Versicherungsvertrages und Zahlung der Prämie hat der Versicherer dem Halter das Versicherungskennzeichen zusammen mit einer Bescheinigung über das Versicherungskennzeichen für das jeweilige Verkehrsjahr zu überlassen. Ein Verkehrsjahr hat jeweils den Zeitraum vom 1. März eines Jahres bis zum Ablauf des Monats Februar des nächsten Jahres zu umfassen. Zur anschließenden Übermittlung an das Kraftfahrt-Bundesamt durch den Versicherer zur Erhebung und Speicherung im dort geführten Zentralen Fahrzeugregister hat der Halter dem Versicherer die in § 33 Absatz 1 Satz 1 Nummer 2 des Straßenverkehrsgesetzes bezeichneten Halterdaten, die Angaben zu Fahrzeugklasse, Art des Aufbaus und Marke des Fahrzeuges sowie die Fahrzeug-Identifizierungsnummer zu übermitteln und auf Verlangen ihm gegenüber nachzuweisen. Das Versicherungskennzeichen und die Bescheinigung verlieren ihre Gültigkeit mit Ablauf des Verkehrsjahres. Die das Fahrzeug führende Person hat die Bescheinigung über das Versicherungskennzeichen mitzuführen und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen.
+(1) Für ein Kraftfahrzeug im Sinne des § 4 Absatz 3 Satz 1 in Verbindung mit § 3 Absatz 3 Satz 1 Nummer 1 Buchstabe d bis f ist das Versicherungskennzeichen der Nachweis, dass für das jeweilige Kraftfahrzeug eine Kraftfahrzeug-Haftpflichtversicherung nach § 1 des Pflichtversicherungsgesetzes besteht. Nach Abschluss eines Versicherungsvertrages und Zahlung der Prämie hat der Versicherer dem Halter das Versicherungskennzeichen zusammen mit einer Bescheinigung über das Versicherungskennzeichen für das jeweilige Verkehrsjahr zu überlassen. Ein Verkehrsjahr hat jeweils den Zeitraum vom 1. März eines Jahres bis zum Ablauf des Monats Februar des nächsten Jahres zu umfassen. Zur anschließenden Übermittlung an das Kraftfahrt-Bundesamt durch den Versicherer zur Erhebung und Speicherung im dort geführten Zentralen Fahrzeugregister hat der Halter dem Versicherer die in § 33 Absatz 1 Satz 1 Nummer 2 des Straßenverkehrsgesetzes bezeichneten Halterdaten, die Angaben zu Fahrzeugklasse, Art des Aufbaus und Marke des Fahrzeuges sowie die Fahrzeug-Identifizierungsnummer zu übermitteln und auf Verlangen ihm gegenüber nachzuweisen. Das Versicherungskennzeichen und die Bescheinigung verlieren ihre Gültigkeit mit Ablauf des Verkehrsjahres. Die das Fahrzeug führende Person hat die Bescheinigung über das Versicherungskennzeichen mitzuführen und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen oder vorzuzeigen.
 
 (2) Das Versicherungskennzeichen hat zu bestehen aus einem Schild, das eine zur eindeutigen Identifizierung des Kraftfahrzeuges geeignete Erkennungsnummer und das Zeichen des zuständigen Verbandes der Kraftfahrtversicherer oder, wenn kein Verband zuständig ist, das Zeichen des Versicherers trägt sowie das Verkehrsjahr angibt, für welches das Versicherungskennzeichen gilt. Die Erkennungsnummer hat sich aus nicht mehr als drei Ziffern und nicht mehr als drei Buchstaben zusammenzusetzen. Die Ziffern sind in einer Zeile über den Buchstaben anzugeben. Das Verkehrsjahr ist durch die Angabe des Kalenderjahrs zu bezeichnen, in welchem es beginnt. Der zuständige Verband der Kraftfahrtversicherer oder, wenn kein Verband zuständig ist, das Kraftfahrt-Bundesamt hat jeweils mit Genehmigung des Bundesministeriums für Digitales und Verkehr den Versicherern die Erkennungsnummern zuzuteilen.
 
@@ -3804,7 +3804,7 @@ Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt,
 3.  entgegen § 4 Absatz 4 ein Kraftfahrzeug oder einen Krankenfahrstuhl nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise kennzeichnet,
 
 
-4.  entgegen § 4 Absatz 5 Satz 1, § 13 Absatz 6 Satz 1, § 31 Satz 3, § 41 Absatz 3 Satz 2, § 42 Absatz 5 Satz 3, § 43 Absatz 2 Satz 2, § 46 Absatz 6 oder § 52 Absatz 1 Satz 6 ein dort genanntes Dokument nicht mitführt oder nicht oder nicht rechtzeitig aushändigt,
+4.  entgegen § 4 Absatz 5 Satz 1, § 13 Absatz 6 Satz 1, § 31 Satz 3, § 41 Absatz 3 Satz 2, § 42 Absatz 5 Satz 3, § 43 Absatz 2 Satz 2 oder § 46 Absatz 6 ein dort genanntes Dokument nicht mitführt oder nicht oder nicht rechtzeitig aushändigt,
 
 
 5.  entgegen § 4 Absatz 5 Satz 2, § 41 Absatz 3 Satz 5 oder § 56 Absatz 2 Nummer 1 ein dort genanntes Dokument nicht aufbewahrt oder nicht oder nicht rechtzeitig aushändigt,
@@ -3870,10 +3870,13 @@ Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes handelt,
 25. entgegen § 41 Absatz 3 Satz 6 ein Kennzeichenschild oder ein Fahrzeugscheinheft nicht oder nicht rechtzeitig vorlegt,
 
 
-26. entgegen § 42 Absatz 3 Satz 1 oder § 43 Absatz 2 Satz 1 ein dort genanntes Kennzeichen verwendet oder
+26. entgegen § 42 Absatz 3 Satz 1 oder § 43 Absatz 2 Satz 1 ein dort genanntes Kennzeichen verwendet,
 
 
-27. entgegen § 47 Absatz 1 Satz 1 oder Absatz 2 Satz 1 nicht sicherstellt, dass ein Kraftfahrzeug ein dort genanntes Kennzeichen oder Unterscheidungszeichen führt.
+27. entgegen § 47 Absatz 1 Satz 1 oder Absatz 2 Satz 1 nicht sicherstellt, dass ein Kraftfahrzeug ein dort genanntes Kennzeichen oder Unterscheidungszeichen führt oder
+
+
+28. entgegen § 52 Absatz 1 Satz 6 die dort genannte Bescheinigung nicht mitführt, nicht oder nicht rechtzeitig aushändigt oder nicht oder nicht rechtzeitig vorzeigt.
 
 
 

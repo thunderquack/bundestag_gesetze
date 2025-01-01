@@ -944,7 +944,7 @@ Jeder Einkommensbezieher ist nur einer der in den Nummern 1 bis 4 bezeichneten G
 
 
 
-Die Erziehungsbeihilfe, die ein Beschädigter für ein Kind erhält (§ 145 Absatz 1 und 2 Nummer 3 des Vierzehnten Buches Sozialgesetzbuch in Verbindung mit § 27 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung), gilt als Einkommen des Kindes.
+Die Erziehungsbeihilfe, die ein Beschädigter für ein Kind erhält (§ 145 Absatz 1 und 2 Nummer 3 des Vierzehnten Buches Sozialgesetzbuch in Verbindung mit § 27 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung), gilt als Einkommen des Kindes. Gleiches gilt für Leistungen nach § 84 Absatz 2 Nummer 3 des Soldatenentschädigungsgesetzes in Verbindung mit § 27 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung.
 
 (4) Nicht als Einkommen gelten
 
@@ -958,6 +958,12 @@ Die Erziehungsbeihilfe, die ein Beschädigter für ein Kind erhält (§ 145 Absa
 
 
 4.  Einnahmen, deren Zweckbestimmung einer Anrechnung auf den Bedarf entgegensteht; dies gilt insbesondere für Einnahmen, die für einen anderen Zweck als für die Deckung des Bedarfs im Sinne dieses Gesetzes bestimmt sind.
+
+
+5.  (weggefallen)
+
+
+6.  Ausgleich für gesundheitliche Schädigungsfolgen nach Kapitel 2 des Soldatenentschädigungsgesetzes, Ausgleichszahlungen nach Kapitel 7 sowie Geldzahlungen nach § 83 Absatz 1 des Soldatenentschädigungsgesetzes.
 
 
 
@@ -1818,9 +1824,8 @@ werden durch dieses Gesetz nicht berührt.
 (2) Die in Absatz 1 Nummer 2, 4 und 5 bezeichneten Vorschriften haben Vorrang vor diesem Gesetz.
 
 
-### § 66 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+### § 66 (weggefallen)
 
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz erhalten, gelten § 21 Absatz 3 Satz 2 und Absatz 4 Nummer 1 und 2 und § 65 Absatz 1 Nummer 1 und 2 in der bis zum 31. Dezember 2023 geltenden Fassung weiter.
 
 
 ### § 66a Übergangs- und Anwendungsvorschrift; Verordnungsermächtigung

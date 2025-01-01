@@ -34,7 +34,7 @@ Zuletzt geändert durch
 2.  Anerkennung ausländischer Entscheidungen in Ehesachen (§ 107 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit),
 
 
-3.  Registrierung nach dem Rechtsdienstleistungsgesetz,
+3.  (weggefallen)
 
 
 4.  Einstellung von Schutzschriften in das Schutzschriftenregister,
@@ -364,7 +364,7 @@ Teil 1 Gebühren ****
 
 *    *   Abschnitt 1
 
-    *   Rechtsdienstleistungsregister
+    *   (weggefallen)
 
 
 *    *   Abschnitt 2
@@ -404,6 +404,11 @@ Teil 1 Gebühren ****
 *    *   Abschnitt 2
 
     *   Schlichtung nach § 57a LuftVG
+
+
+*    *   Abschnitt 3
+
+    *   Rechtsdienstleistungsregister
 
 
 
@@ -475,34 +480,12 @@ Teil 1
 
 
 *    *   Abschnitt 1
-        **Rechtsdienstleistungsregister**
+        **(weggefallen)**
 
 
-*    *   1110
-
-    *   Registrierung nach dem RDG
-        ..........
-        Bei Registrierung einer juristischen Person oder einer rechtsfähigen Personengesellschaft wird mit der Gebühr auch die Eintragung einer qualifizierten Person in das Rechtsdienstleistungsregister abgegolten.
-
-    *   150,00 €
-
-
-*    *   1111
-
-    *   Eintragung einer qualifizierten Person in das Rechtsdienstleistungsregister, wenn die Eintragung nicht durch die Gebühr 1110 abgegolten ist:
-        je Person
-        ..........
-
-    *   150,00 €
-
-
-*    *   1112
-
-    *   Widerruf oder Rücknahme der Registrierung
-        ..........
-
-    *   75,00 €
-
+*    *
+    *
+    *
 
 *    *   Abschnitt 2
         **(weggefallen)**
@@ -672,6 +655,45 @@ Teil 1
 
     *   30,00 €
 
+
+*    *
+    *
+    *
+
+*    *   Abschnitt 3
+        **Rechtsdienstleistungsregister**
+
+
+*    *   1230
+
+    *   Registrierung nach dem RDG ..........
+
+    *   300,00 €
+
+
+*    *
+    *   Bei Registrierung einer juristischen Person oder einer rechtsfähigen Personengesellschaft wird mit der Gebühr auch die Eintragung einer qualifizierten Person in das Rechtsdienstleistungsregister abgegolten.
+
+    *
+
+*    *   1231
+
+    *   Eintragung einer qualifizierten Person in das Rechtsdienstleistungsregister, wenn die Eintragung nicht durch die Gebühr 1230 abgegolten ist:
+        je Person ..........
+
+    *   150,00 €
+
+
+*    *   1232
+
+    *   Widerruf oder Rücknahme der Registrierung ..........
+
+    *   300,00 €
+
+
+*    *
+    *
+    *
 
 *    *   Hauptabschnitt 3
         **Justizverwaltungsangelegenheiten mit Auslandsbezug**
@@ -1121,10 +1143,6 @@ Teil 1
 
     *   220,00 €
 
-
-*    *
-    *
-    *
 
 *    *   **Abschnitt 4**
         **Sonstige Gebühren**

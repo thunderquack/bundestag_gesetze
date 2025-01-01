@@ -38,11 +38,11 @@ Auf Grund der §§ 28n und 28p Abs. 9 des Vierten Buches Sozialgesetzbuch - Geme
 
 ### § 2 Berechnungsvorgang
 
-(1) Beiträge, die der Arbeitgeber und der Beschäftigte je zur Hälfte tragen, werden durch Anwendung des halben Beitragssatzes auf das Arbeitsentgelt und anschließender Verdoppelung des gerundeten Ergebnisses berechnet. Auf Beiträge, die der Arbeitgeber allein trägt, kann Satz 1 entsprechend angewandt werden. Werden Beiträge vom Arbeitgeber und vom Beschäftigten nicht je zur Hälfte getragen, ergibt sich der Beitrag aus der Summe der getrennt berechneten gerundeten Anteile. Beiträge, die vom Beschäftigten allein zu tragen sind, werden durch Anwendung des für diese Beiträge geltenden Beitragssatzes oder Beitragszuschlags auf das Arbeitsentgelt berechnet; Satz 3 zweiter Halbsatz gilt entsprechend. Wird die Mindestbeitragsbemessungsgrundlage des § 163 Abs. 8 des Sechsten Buches Sozialgesetzbuch nicht überschritten, wird der Beitragssatz auf die Mindestbeitragsbemessungsgrundlage angewandt und der vom Arbeitgeber zu tragende Beitragsanteil berechnet und gerundet; durch Abzug des Arbeitgeberanteils vom Beitrag ergibt sich der Beitragsanteil des Beschäftigten.
+(1) Beiträge, die der Arbeitgeber und der Beschäftigte je zur Hälfte tragen, werden durch Anwendung des halben Beitragssatzes auf das Arbeitsentgelt und anschließender Verdoppelung des gerundeten Ergebnisses berechnet. Auf Beiträge, die der Arbeitgeber allein trägt, kann Satz 1 entsprechend angewandt werden. Werden Beiträge vom Arbeitgeber und vom Beschäftigten nicht je zur Hälfte getragen, ergibt sich der Beitrag aus der Summe der getrennt berechneten gerundeten Anteile. Beiträge, die vom Beschäftigten allein zu tragen sind, werden durch Anwendung des für diese Beiträge geltenden Beitragssatzes gegebenenfalls unter Berücksichtigung eines Beitragszuschlags oder von Beitragsabschlägen auf das Arbeitsentgelt berechnet; Satz 3 zweiter Halbsatz gilt entsprechend. Wird die Mindestbeitragsbemessungsgrundlage des § 163 Abs. 8 des Sechsten Buches Sozialgesetzbuch nicht überschritten, wird der Beitragssatz auf die Mindestbeitragsbemessungsgrundlage angewandt und der vom Arbeitgeber zu tragende Beitragsanteil berechnet und gerundet; durch Abzug des Arbeitgeberanteils vom Beitrag ergibt sich der Beitragsanteil des Beschäftigten.
 
 (2) Abweichend von Absatz 1 Satz 1 wird in den Fällen des Übergangsbereichs der vom Arbeitgeber zu zahlende Beitrag durch Anwendung des halben Beitragssatzes auf die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz 1 des Vierten Buches Sozialgesetzbuch und anschließende Verdoppelung des gerundeten Ergebnisses berechnet. Bei Entgelten bis zur Geringfügigkeitsgrenze ergibt sich die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz 1 des Vierten Buches Sozialgesetzbuch durch Anwendung des Faktors F auf das der Beschäftigung nach § 14 in Verbindung mit § 17 des Vierten Buches Sozialgesetzbuch zugrunde liegende Arbeitsentgelt. Der vom Beschäftigten zu tragende Beitragsanteil wird durch Anwendung des jeweiligen halben Beitragssatzes zur gesetzlichen Rentenversicherung, der sozialen Pflegeversicherung nach § 55 Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch, zur Arbeitsförderung und der gesetzlichen Krankenversicherung sowie des halben kassenindividuellen Zusatzbeitragssatzes auf die nach § 20 Absatz 2a Satz 6 des Vierten Buches Sozialgesetzbuch ermittelte beitragspflichtige Einnahme berechnet und gerundet. Der Abzug des Beitragsanteils des Beschäftigten von dem nach Satz 1 errechneten Beitrag ergibt den Beitragsanteil des Arbeitgebers. Überschreiten einzelne Entgelte in Fällen des § 20 Absatz 2a des Vierten Buches Sozialgesetzbuch nicht die Geringfügigkeitsgrenze, ist kein Beitragsanteil nach Satz 3 zu ermitteln, der Arbeitgeber trägt insoweit den gesamten Beitrag allein. Vom Beschäftigten allein zu tragende Beitragsanteile werden durch Anwendung des maßgebenden Beitragssatzes oder Beitragszuschlags auf die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz 1 des Vierten Buches Sozialgesetzbuch berechnet und auf zwei Dezimalstellen gerundet. Die den Beitragsanteil des Beschäftigten reduzierenden Beträge werden durch Anwendung des maßgebenden Beitragsabschlags auf die beitragspflichtige Einnahme nach § 20 Absatz 2a Satz 6 des Vierten Buches Sozialgesetzbuch berechnet und auf zwei Dezimalstellen gerundet.
 
-(3) In Fällen des § 134 des Vierten Buches Sozialgesetzbuch gilt Absatz 2 Satz 1, 2 und 6 mit der Maßgabe, dass die beitragspflichtige Einnahme nach § 134 Satz 1 bis 3 des Vierten Buches Sozialgesetzbuch berechnet wird. In diesen Fällen wird der vom Arbeitgeber zu tragende Beitragsanteil durch Anwendung des halben Beitragssatzes zur gesetzlichen Rentenversicherung, der sozialen Pflegeversicherung, zur Arbeitsförderung und der gesetzlichen Krankenversicherung sowie des halben kassenindividuellen Zusatzbeitragssatzes auf das der Beschäftigung nach § 14 in Verbindung mit § 17 des Vierten Buches Sozialgesetzbuches zugrundeliegende Arbeitsentgelt berechnet und gerundet. Der Abzug des Arbeitgeberanteils von dem nach Satz 1 errechneten Beitrag ergibt den Beitragsanteil des Beschäftigten.
+(3) In Fällen des § 134 des Vierten Buches Sozialgesetzbuch gilt Absatz 2 Satz 1, 2, 6 und 7 mit der Maßgabe, dass die beitragspflichtige Einnahme nach § 134 Satz 1 bis 3 des Vierten Buches Sozialgesetzbuch berechnet wird. In diesen Fällen wird der vom Arbeitgeber zu tragende Beitragsanteil durch Anwendung des halben Beitragssatzes zur gesetzlichen Rentenversicherung, der sozialen Pflegeversicherung, zur Arbeitsförderung und der gesetzlichen Krankenversicherung sowie des halben kassenindividuellen Zusatzbeitragssatzes auf das der Beschäftigung nach § 14 in Verbindung mit § 17 des Vierten Buches Sozialgesetzbuches zugrundeliegende Arbeitsentgelt berechnet und gerundet. Der Abzug des Arbeitgeberanteils von dem nach Satz 1 errechneten Beitrag ergibt den Beitragsanteil des Beschäftigten.
 
 
 ## Zweiter Abschnitt - Zahlungen des Arbeitgebers
@@ -56,7 +56,7 @@ Auf Grund der §§ 28n und 28p Abs. 9 des Vierten Buches Sozialgesetzbuch - Geme
 1.  bei Barzahlung der Tag des Geldeingangs,
 
 
-2.  bei Zahlung durch Scheck, bei Überweisung oder Einzahlung auf ein Konto der Einzugsstelle der Tag der Wertstellung zugunsten der Einzugsstelle, bei rückwirkender Wertstellung das Datum des elektronischen Kontoauszuges des Geldinstituts der Einzugsstelle,
+2.  bei Zahlung durch Scheck, bei Überweisung oder Einzahlung auf ein Konto der Einzugsstelle der Tag der Wertstellung zugunsten der Einzugsstelle,
 
 
 3.  bei Vorliegen einer Einzugsermächtigung der Tag der Fälligkeit.
@@ -206,7 +206,7 @@ Werden die Beiträge vom Arbeitgeber im Wege des Lastschriftverfahrens eingezoge
 
 Bestehen die Entgeltunterlagen aus mehreren Teilen, sind diese Teile durch ein betriebliches Ordnungsmerkmal zu verbinden. Die Angaben nach Satz 1 Nr. 10 bis 15 und 18 sind für jeden Entgeltabrechnungszeitraum erforderlich. Die Beträge nach Satz 1 Nr. 11 und 12 sind für die Meldungen zu summieren. Berichtigungen zu den Angaben nach Satz 1 Nr. 10 bis 15 und 18 oder Stornierungen sind besonders kenntlich zu machen. Die Angaben nach Satz 1 Nr. 8, 9 und 14 können verschlüsselt werden.
 
-(2) Folgende dem Arbeitgeber elektronisch zur Verfügung zu stellende Unterlagen sind in elektronischer Form zu den Entgeltunterlagen zu nehmen;
+(2) Folgende Unterlagen sind in elektronischer Form zu den Entgeltunterlagen zu nehmen:
 
 1.  Unterlagen, aus denen die nach Absatz 1 Satz 1 Nr. 3, 9 und 17 erforderlichen Angaben ersichtlich sind,
 
@@ -232,7 +232,7 @@ Bestehen die Entgeltunterlagen aus mehreren Teilen, sind diese Teile durch ein b
 5a. (weggefallen)
 
 
-6.  die Niederschrift nach § 2 des Nachweisgesetzes sowie für Seefahrtbetriebe der Heuervertrag nach § 28 des Seearbeitsgesetzes,
+6.  eine Kopie der Niederschrift nach § 2 des Nachweisgesetzes sowie für Seefahrtbetriebe eine Kopie des Heuervertrages nach § 28 des Seearbeitsgesetzes,
 
 
 7.  die Erklärung des kurzfristig geringfügigen Beschäftigten über weitere kurzfristige Beschäftigungen im Kalenderjahr oder die Erklärung des geringfügig entlohnten Beschäftigten über weitere Beschäftigungen sowie in beiden Fällen die Bestätigung, dass die Aufnahme weiterer Beschäftigungen dem Arbeitgeber anzuzeigen sind,
@@ -253,7 +253,7 @@ Bestehen die Entgeltunterlagen aus mehreren Teilen, sind diese Teile durch ein b
 11. den Nachweis der Elterneigenschaft sowie den Nachweis über die Anzahl der zu berücksichtigenden Kinder nach § 55 Abs. 3 des Elften Buches Sozialgesetzbuch,
 
 
-12. die Erklärung über den Auszahlungsverzicht von zustehenden Entgeltansprüchen,
+12. die eine Kopie der Erklärung über den Auszahlungsverzicht von zustehenden Entgeltansprüchen,
 
 
 13. die Aufzeichnungen nach § 19 Absatz 1 des Arbeitnehmer-Entsendegesetzes und nach § 17 Absatz 1 des Mindestlohngesetzes,
@@ -262,10 +262,10 @@ Bestehen die Entgeltunterlagen aus mehreren Teilen, sind diese Teile durch ein b
 14. die Bescheinigung nach § 44a Absatz 5 des Elften Buches Sozialgesetzbuch, wenn die Beschäftigung wegen Bezugs von Pflegeunterstützungsgeld unterbrochen wird,
 
 
-15. die Erklärung des oder der Beschäftigten zur Inanspruchnahme einer Pflegezeit im Sinne des § 3 des Pflegezeitgesetzes,
+15. die eine Kopie der Erklärung des oder der Beschäftigten zur Inanspruchnahme einer Pflegezeit im Sinne des § 3 des Pflegezeitgesetzes,
 
 
-16. für Seefahrtbetriebe die Besatzungslisten sowie Seetagebücher nach § 22 des Seearbeitsgesetzes, für Binnenschiffe die Schiffsatteste und für Schiffe der Rheinschifffahrt die Rheinschifffahrtszugehörigkeitsurkunde,
+16. für Seefahrtbetriebe die Besatzungslisten sowie Seetagebücher nach § 22 des Seearbeitsgesetzes, für Binnenschiffe die Schiffsatteste und für Schiffe der Rheinschifffahrt die Rheinschifffahrtszugehörigkeitsurkunde in Kopie,
 
 
 17. (weggefallen)
@@ -283,7 +283,7 @@ Bestehen die Entgeltunterlagen aus mehreren Teilen, sind diese Teile durch ein b
 
 In den Fällen des § 126 des Vierten Buches Sozialgesetzbuch kann weiterhin eine Prüfung von schriftlichen Unterlagen erfolgen.
 
-(3) Die in Absatz 2 genannten Entgeltunterlagen, soweit sie nicht elektronisch aus der Abrechnung des Arbeitgebers entnommen werden können, sind dem Arbeitgeber von den zuständigen Stellen oder dem Beschäftigten, soweit möglich, in elektronischer Form zur Verfügung zu stellen. Bis zum 31. Dezember 2026 kann sich der Arbeitgeber von der Führung elektronischer Unterlagen auf Antrag bei dem für ihn zuständigen Prüfdienst der Deutschen Rentenversicherung nach § 28p des Vierten Buches Sozialgesetzbuch befreien lassen.
+(3) Die in Absatz 2 genannten Entgeltunterlagen, soweit sie nicht elektronisch aus der Abrechnung des Arbeitgebers entnommen werden können, sind dem Arbeitgeber von den zuständigen Stellen oder dem Beschäftigten in elektronischer Form zur Verfügung zu stellen. Bis zum 31. Dezember 2026 kann sich der Arbeitgeber von der Führung elektronischer Unterlagen auf Antrag bei dem für ihn zuständigen Prüfdienst der Deutschen Rentenversicherung nach § 28p des Vierten Buches Sozialgesetzbuch befreien lassen.
 
 
 ### § 9 Beitragsabrechnung
@@ -335,7 +335,7 @@ Die Beträge nach Satz 1 Nummer 7 sind zu summieren und die hierauf entfallenden
 
 (4) Im Beitragsnachweis sind die als gezahlt geltenden Beiträge nach § 28e Abs. 1 Satz 2 des Vierten Buches Sozialgesetzbuch nicht aufzunehmen.
 
-(5) Die Daten der Entgeltunterlagen nach § 8 und der Absätze 1 bis 4 sind in der Aufbewahrungsfrist jederzeit verfügbar und unverzüglich lesbar vorzuhalten. § 147 Abs. 5 und 6 der Abgabenordnung gilt entsprechend. Überführt der Arbeitgeber schriftliche Entgeltunterlagen mit Unterschriftserfordernis in elektronische Form, hat er diese mit einer fortgeschrittenen Signatur des Arbeitgebers zu versehen. Das ihm im Meldeverfahren nach dem Vierten Buch Sozialgesetzbuch ausgestellte Zertifikat kann dafür verwendet werden. Nach vollständiger Übernahme in elektronischer Form können die schriftlichen Entgeltunterlagen vernichtet werden.
+(5) Die Daten der Entgeltunterlagen nach § 8 und der Absätze 1 bis 4 sind in der Aufbewahrungsfrist jederzeit verfügbar und unverzüglich lesbar vorzuhalten. § 147 Abs. 5 und 6 der Abgabenordnung gilt entsprechend. Werden dem Arbeitgeber Dokumente nach § 8 Absatz 2 in Papierform übermittelt, sind diese vom Arbeitgeber in ein elektronisches Format umzuwandeln. Die Originaldokumente sind bis zum bestandskräftigen Abschluss der Betriebsprüfung oder nach den für das Dokument geltenden weiteren gesetzlichen Vorschriften aufzubewahren.
 
 
 ### § 9a Gemeinsame Grundsätze

@@ -1392,7 +1392,10 @@ Bei Verschollenheit gilt für die Besteuerung der Tag als Todestag, mit dessen A
 25. die Förderung des bürgerschaftlichen Engagements zugunsten gemeinnütziger, mildtätiger und kirchlicher Zwecke;
 
 
-26. die Förderung der Unterhaltung und Pflege von Friedhöfen und die Förderung der Unterhaltung von Gedenkstätten für nichtbestattungspflichtige Kinder und Föten.
+26. die Förderung der Unterhaltung und Pflege von Friedhöfen und die Förderung der Unterhaltung von Gedenkstätten für nichtbestattungspflichtige Kinder und Föten;
+
+
+27. die Förderung wohngemeinnütziger Zwecke; dies ist die vergünstigte Wohnraumüberlassung an Personen im Sinne des § 53. § 53 Nummer 2 ist mit der Maßgabe anzuwenden, dass die Bezüge nicht höher sein dürfen als das Fünffache des Regelsatzes der Sozialhilfe im Sinne des § 28 des Zwölften Buches Sozialgesetzbuch; beim Alleinstehenden oder Alleinerziehenden tritt an die Stelle des Fünffachen das Sechsfache des Regelsatzes. Die Hilfebedürftigkeit muss zu Beginn des jeweiligen Mietverhältnisses vorliegen.
 
 
 
@@ -1406,7 +1409,7 @@ Eine Körperschaft verfolgt mildtätige Zwecke, wenn ihre Tätigkeit darauf geri
 1.  die infolge ihres körperlichen, geistigen oder seelischen Zustands auf die Hilfe anderer angewiesen sind oder
 
 
-2.  deren Bezüge nicht höher sind als das Vierfache des Regelsatzes der Sozialhilfe im Sinne des § 28 des Zwölften Buches Sozialgesetzbuch; beim Alleinstehenden oder Alleinerziehenden tritt an die Stelle des Vierfachen das Fünffache des Regelsatzes. Dies gilt nicht für Personen, deren Vermögen zur nachhaltigen Verbesserung ihres Unterhalts ausreicht und denen zugemutet werden kann, es dafür zu verwenden. Bei Personen, deren wirtschaftliche Lage aus besonderen Gründen zu einer Notlage geworden ist, dürfen die Bezüge oder das Vermögen die genannten Grenzen übersteigen. Bezüge im Sinne dieser Vorschrift sind
+2.  deren Bezüge nicht höher sind als das Vierfache des Regelsatzes der Sozialhilfe im Sinne des § 28 des Zwölften Buches Sozialgesetzbuch; beim Alleinstehenden oder Alleinerziehenden tritt an die Stelle des Vierfachen das Fünffache des Regelsatzes. Dies gilt nicht für Personen, deren Vermögen zur nachhaltigen Verbesserung ihres Unterhalts ausreicht und denen zugemutet werden kann, es dafür zu verwenden. Bezüge im Sinne dieser Vorschrift sind
 
     a)  Einkünfte im Sinne des § 2 Abs. 1 des Einkommensteuergesetzes und
 
@@ -1416,7 +1419,10 @@ Eine Körperschaft verfolgt mildtätige Zwecke, wenn ihre Tätigkeit darauf geri
 
 
 
-    aller Haushaltsangehörigen. Zu berücksichtigen sind auch gezahlte und empfangene Unterhaltsleistungen. Die wirtschaftliche Hilfebedürftigkeit im vorstehenden Sinne ist bei Empfängern von Leistungen nach dem Zweiten oder Zwölften Buch Sozialgesetzbuch, des Wohngeldgesetzes, bei Empfängern von Leistungen nach § 27a des Bundesversorgungsgesetzes oder nach § 6a des Bundeskindergeldgesetzes als nachgewiesen anzusehen. Die Körperschaft kann den Nachweis mit Hilfe des jeweiligen Leistungsbescheids, der für den Unterstützungszeitraum maßgeblich ist, oder mit Hilfe der Bestätigung des Sozialleistungsträgers führen. Auf Antrag der Körperschaft kann auf einen Nachweis der wirtschaftlichen Hilfebedürftigkeit verzichtet werden, wenn auf Grund der besonderen Art der gewährten Unterstützungsleistung sichergestellt ist, dass nur wirtschaftlich hilfebedürftige Personen im vorstehenden Sinne unterstützt werden; für den Bescheid über den Nachweisverzicht gilt § 60a Absatz 3 bis 5 entsprechend.
+    aller Haushaltsangehörigen. Zu berücksichtigen sind auch gezahlte und empfangene Unterhaltsleistungen. Die wirtschaftliche Hilfebedürftigkeit im vorstehenden Sinne ist bei Empfängern von Leistungen nach dem Zweiten oder Zwölften Buch Sozialgesetzbuch, des Wohngeldgesetzes, bei Empfängern von Leistungen nach § 27a des Bundesversorgungsgesetzes oder nach § 6a des Bundeskindergeldgesetzes als nachgewiesen anzusehen. Die Körperschaft kann den Nachweis mit Hilfe des jeweiligen Leistungsbescheids, der für den Unterstützungszeitraum maßgeblich ist, oder mit Hilfe der Bestätigung des Sozialleistungsträgers führen. Auf Antrag der Körperschaft kann auf einen Nachweis der wirtschaftlichen Hilfebedürftigkeit verzichtet werden, wenn auf Grund der besonderen Art der gewährten Unterstützungsleistung sichergestellt ist, dass nur wirtschaftlich hilfebedürftige Personen im vorstehenden Sinne unterstützt werden; für den Bescheid über den Nachweisverzicht gilt § 60a Absatz 3 bis 5 entsprechend oder
+
+
+3.  deren wirtschaftliche Lage aus besonderen Gründen zu einer Notlage geworden ist. Als besondere Gründe gelten insbesondere Katastrophen, die durch Erlass des Bundesministeriums der Finanzen oder einer obersten Finanzbehörde der Länder festgestellt wurden. In diesen Fällen reicht es für den Nachweis der Hilfebedürftigkeit aus, wenn die durch die Katastrophe entstandene Notlage sowie die Mehraufwendungen glaubhaft gemacht werden.
 
 
 
@@ -1639,7 +1645,7 @@ Die Steuervergünstigung wird gewährt, wenn sich aus der Satzung, dem Stiftungs
 
 (1) Körperschaften können ihre Mittel ganz oder teilweise
 
-1.  einer Rücklage zuführen, soweit dies erforderlich ist, um ihre steuerbegünstigten, satzungsmäßigen Zwecke nachhaltig zu erfüllen;
+1.  einer Rücklage zuführen, soweit dies erforderlich ist, um ihre steuerbegünstigten, satzungsmäßigen Zwecke nach dem Stand der Planung zum Zeitpunkt der Rücklagenbildung nachhaltig zu erfüllen;
 
 
 2.  einer Rücklage für die beabsichtigte Wiederbeschaffung von Wirtschaftsgütern zuführen, die zur Verwirklichung der steuerbegünstigten, satzungsmäßigen Zwecke erforderlich sind (Rücklage für Wiederbeschaffung). Die Höhe der Zuführung bemisst sich nach der Höhe der regulären Absetzungen für Abnutzung eines zu ersetzenden Wirtschaftsguts. Die Voraussetzungen für eine höhere Zuführung sind nachzuweisen;
@@ -3372,7 +3378,7 @@ oder verbunden werden mit
 
 (2) Ein schriftlicher Verwaltungsakt, der durch die Post übermittelt wird, gilt als bekannt gegeben
 
-1.  bei einer Übermittlung im Inland am dritten Tage nach der Aufgabe zur Post,
+1.  bei einer Übermittlung im Inland am vierten Tage nach der Aufgabe zur Post,
 
 
 2.  bei einer Übermittlung im Ausland einen Monat nach der Aufgabe zur Post,
@@ -3381,7 +3387,7 @@ oder verbunden werden mit
 
 außer wenn er nicht oder zu einem späteren Zeitpunkt zugegangen ist; im Zweifel hat die Behörde den Zugang des Verwaltungsakts und den Zeitpunkt des Zugangs nachzuweisen.
 
-(2a) Ein elektronisch übermittelter Verwaltungsakt gilt am dritten Tage nach der Absendung als bekannt gegeben, außer wenn er nicht oder zu einem späteren Zeitpunkt zugegangen ist; im Zweifel hat die Behörde den Zugang des Verwaltungsakts und den Zeitpunkt des Zugangs nachzuweisen.
+(2a) Ein elektronisch übermittelter Verwaltungsakt gilt am vierten Tage nach der Absendung als bekannt gegeben, außer wenn er nicht oder zu einem späteren Zeitpunkt zugegangen ist; im Zweifel hat die Behörde den Zugang des Verwaltungsakts und den Zeitpunkt des Zugangs nachzuweisen.
 
 (3) Ein Verwaltungsakt darf öffentlich bekannt gegeben werden, wenn dies durch Rechtsvorschrift zugelassen ist. Eine Allgemeinverfügung darf auch dann öffentlich bekannt gegeben werden, wenn eine Bekanntgabe an die Beteiligten untunlich ist.
 
@@ -3411,14 +3417,14 @@ so reicht es für die Bekanntgabe an alle Beteiligten aus, wenn ihnen eine Ausfe
 
 (3) Für den Datenabruf hat sich die abrufberechtigte Person nach Maßgabe des § 87a Absatz 8 zu authentisieren.
 
-(4) Ein zum Abruf bereitgestellter Verwaltungsakt gilt am dritten Tag nach Absendung der elektronischen Benachrichtigung über die Bereitstellung der Daten an die abrufberechtigte Person als bekannt gegeben. Im Zweifel hat die Behörde den Zugang der Benachrichtigung nachzuweisen. Kann die Finanzbehörde den von der abrufberechtigten Person bestrittenen Zugang der Benachrichtigung nicht nachweisen, gilt der Verwaltungsakt an dem Tag als bekannt gegeben, an dem die abrufberechtigte Person den Datenabruf durchgeführt hat. Das Gleiche gilt, wenn die abrufberechtigte Person unwiderlegbar vorträgt, die Benachrichtigung nicht innerhalb von drei Tagen nach der Absendung erhalten zu haben.
+(4) Ein zum Abruf bereitgestellter Verwaltungsakt gilt am vierten Tag nach Absendung der elektronischen Benachrichtigung über die Bereitstellung der Daten an die abrufberechtigte Person als bekannt gegeben. Im Zweifel hat die Behörde den Zugang der Benachrichtigung nachzuweisen. Kann die Finanzbehörde den von der abrufberechtigten Person bestrittenen Zugang der Benachrichtigung nicht nachweisen, gilt der Verwaltungsakt an dem Tag als bekannt gegeben, an dem die abrufberechtigte Person den Datenabruf durchgeführt hat. Das Gleiche gilt, wenn die abrufberechtigte Person unwiderlegbar vorträgt, die Benachrichtigung nicht innerhalb von vier Tagen nach der Absendung erhalten zu haben.
 
 (5) Entscheidet sich die Finanzbehörde, den Verwaltungsakt im Postfach des Nutzerkontos nach dem Onlinezugangsgesetz zum Datenabruf bereitzustellen, gelten abweichend von § 9 Absatz 1 Satz 3 bis 6 des Onlinezugangsgesetzes die Regelungen des Absatzes 4.
 
 
 #### § 123 Bestellung eines Empfangsbevollmächtigten
 
-Ein Beteiligter ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Inland, in einem anderen Mitgliedstaat der Europäischen Union oder in einem Staat, auf den das Abkommen über den Europäischen Wirtschaftsraum anwendbar ist, hat der Finanzbehörde auf Verlangen innerhalb einer angemessenen Frist einen Empfangsbevollmächtigten im Inland zu benennen. Unterlässt er dies, so gilt ein an ihn gerichtetes Schriftstück einen Monat nach der Aufgabe zur Post und ein elektronisch übermitteltes Dokument am dritten Tage nach der Absendung als zugegangen. Dies gilt nicht, wenn feststeht, dass das Schriftstück oder das elektronische Dokument den Empfänger nicht oder zu einem späteren Zeitpunkt erreicht hat. Auf die Rechtsfolgen der Unterlassung ist der Beteiligte hinzuweisen.
+Ein Beteiligter ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Inland, in einem anderen Mitgliedstaat der Europäischen Union oder in einem Staat, auf den das Abkommen über den Europäischen Wirtschaftsraum anwendbar ist, hat der Finanzbehörde auf Verlangen innerhalb einer angemessenen Frist einen Empfangsbevollmächtigten im Inland zu benennen. Unterlässt er dies, so gilt ein an ihn gerichtetes Schriftstück einen Monat nach der Aufgabe zur Post und ein elektronisch übermitteltes Dokument am vierten Tage nach der Absendung als zugegangen. Dies gilt nicht, wenn feststeht, dass das Schriftstück oder das elektronische Dokument den Empfänger nicht oder zu einem späteren Zeitpunkt erreicht hat. Auf die Rechtsfolgen der Unterlassung ist der Beteiligte hinzuweisen.
 
 
 #### § 124 Wirksamkeit des Verwaltungsakts
@@ -4723,13 +4729,13 @@ Wer nach anderen Gesetzen als den Steuergesetzen Bücher und Aufzeichnungen zu f
 
 (1) Gewerbliche Unternehmer sowie Land- und Forstwirte, die nach den Feststellungen der Finanzbehörde für den einzelnen Betrieb
 
-1.  einen Gesamtumsatz im Sinne des § 19 Absatz 3 Satz 1 des Umsatzsteuergesetzes von mehr als 800 000 Euro im Kalenderjahr oder
+1.  einen Gesamtumsatz im Sinne des § 19 Absatz 2 Satz 1 des Umsatzsteuergesetzes von mehr als 800 000 Euro im Kalenderjahr oder
 
 
 2.  (weggefallen)
 
 
-3.  selbstbewirtschaftete land- und forstwirtschaftliche Flächen mit einem Wirtschaftswert (§ 46 des Bewertungsgesetzes) von mehr als 25 000 Euro oder
+3.  (weggefallen)
 
 
 4.  einen Gewinn aus Gewerbebetrieb von mehr als 80 000 Euro im Wirtschaftsjahr oder
@@ -4739,7 +4745,7 @@ Wer nach anderen Gesetzen als den Steuergesetzen Bücher und Aufzeichnungen zu f
 
 
 
-gehabt haben, sind auch dann verpflichtet, für diesen Betrieb Bücher zu führen und auf Grund jährlicher Bestandsaufnahmen Abschlüsse zu machen, wenn sich eine Buchführungspflicht nicht aus § 140 ergibt. Die §§ 238, 240, 241, 242 Abs. 1 und die §§ 243 bis 256 des Handelsgesetzbuchs gelten sinngemäß, sofern sich nicht aus den Steuergesetzen etwas anderes ergibt. Bei der Anwendung der Nummer 3 ist der Wirtschaftswert aller vom Land- und Forstwirt selbstbewirtschafteten Flächen maßgebend, unabhängig davon, ob sie in seinem Eigentum stehen oder nicht.
+gehabt haben, sind auch dann verpflichtet, für diesen Betrieb Bücher zu führen und auf Grund jährlicher Bestandsaufnahmen Abschlüsse zu machen, wenn sich eine Buchführungspflicht nicht aus § 140 ergibt. Die §§ 238, 240, 241, 242 Abs. 1 und die §§ 243 bis 256 des Handelsgesetzbuchs gelten sinngemäß, sofern sich nicht aus den Steuergesetzen etwas anderes ergibt.
 
 (2) Die Verpflichtung nach Absatz 1 ist vom Beginn des Wirtschaftsjahrs an zu erfüllen, das auf die Bekanntgabe der Mitteilung folgt, durch die die Finanzbehörde auf den Beginn dieser Verpflichtung hingewiesen hat. Die Verpflichtung endet mit dem Ablauf des Wirtschaftsjahrs, das auf das Wirtschaftsjahr folgt, in dem die Finanzbehörde feststellt, dass die Voraussetzungen nach Absatz 1 nicht mehr vorliegen.
 
@@ -4750,7 +4756,7 @@ gehabt haben, sind auch dann verpflichtet, für diesen Betrieb Bücher zu führe
 
 ##### § 142 Ergänzende Vorschriften für Land- und Forstwirte
 
-Land- und Forstwirte, die nach § 141 Abs. 1 Nr. 1, 3 oder 5 zur Buchführung verpflichtet sind, haben neben den jährlichen Bestandsaufnahmen und den jährlichen Abschlüssen ein Anbauverzeichnis zu führen. In dem Anbauverzeichnis ist nachzuweisen, mit welchen Fruchtarten die selbstbewirtschafteten Flächen im abgelaufenen Wirtschaftsjahr bestellt waren.
+Land- und Forstwirte, die nach § 141 Absatz 1 Nummer 1 oder 5 zur Buchführung verpflichtet sind, haben neben den jährlichen Bestandsaufnahmen und den jährlichen Abschlüssen ein Anbauverzeichnis zu führen. In dem Anbauverzeichnis ist nachzuweisen, mit welchen Fruchtarten die selbstbewirtschafteten Flächen im abgelaufenen Wirtschaftsjahr bestellt waren.
 
 
 ##### § 143 Aufzeichnung des Wareneingangs
@@ -4851,7 +4857,7 @@ Dies gilt nicht, wenn die Ware erkennbar nicht zur gewerblichen Weiterverwendung
 
 Werden der Finanzbehörde Umstände bekannt, die zu einer Beeinträchtigung der Besteuerung führen, hat sie die Bewilligung zu widerrufen und die unverzügliche Rückverlagerung der elektronischen Bücher und sonstigen erforderlichen elektronischen Aufzeichnungen in einen oder mehrere Mitgliedstaaten der Europäischen Union zu verlangen. Eine Änderung der unter Satz 2 Nummer 1 benannten Umstände ist der zuständigen Finanzbehörde unverzüglich mitzuteilen.
 
-(2c) Kommt der Steuerpflichtige der Aufforderung zur Rückverlagerung seiner elektronischen Buchführung oder seinen Pflichten nach Absatz 2b Satz 4, zur Einräumung des Datenzugriffs nach § 147 Abs. 6, zur Erteilung von Auskünften oder zur Vorlage angeforderter Unterlagen im Sinne des § 200 Abs. 1 im Rahmen einer Außenprüfung innerhalb einer ihm bestimmten angemessenen Frist nach Bekanntgabe durch die zuständige Finanzbehörde nicht nach oder hat er seine elektronische Buchführung ohne Bewilligung der zuständigen Finanzbehörde in einen Drittstaat oder mehrere Drittstaaten verlagert, kann ein Verzögerungsgeld von 2 500 Euro bis 250 000 Euro festgesetzt werden.
+(2c) Kommt der Steuerpflichtige der Aufforderung zur Rückverlagerung seiner elektronischen Buchführung oder seinen Pflichten nach Absatz 2b Satz 4, zur Einräumung des Datenzugriffs nach § 147 Absatz 6 nicht nach oder hat er seine elektronische Buchführung ohne Bewilligung der zuständigen Finanzbehörde in einen Drittstaat oder mehrere Drittstaaten verlagert, kann ein Verzögerungsgeld von 2 500 Euro bis 250 000 Euro festgesetzt werden.
 
 (3) Die Buchungen und die sonst erforderlichen Aufzeichnungen sind in einer lebenden Sprache vorzunehmen. Wird eine andere als die deutsche Sprache verwendet, so kann die Finanzbehörde Übersetzungen verlangen. Werden Abkürzungen, Ziffern, Buchstaben oder Symbole verwendet, muss im Einzelfall deren Bedeutung eindeutig festliegen.
 
@@ -4975,7 +4981,7 @@ Die Mitteilung nach Satz 1 ist innerhalb eines Monats nach Anschaffung oder Auß
 
 
 
-(3) Die in Absatz 1 Nr. 1, 4 und 4a aufgeführten Unterlagen sind zehn Jahre, die sonstigen in Absatz 1 aufgeführten Unterlagen sechs Jahre aufzubewahren, sofern nicht in anderen Steuergesetzen kürzere Aufbewahrungsfristen zugelassen sind. Kürzere Aufbewahrungsfristen nach außersteuerlichen Gesetzen lassen die in Satz 1 bestimmte Frist unberührt. Bei empfangenen Lieferscheinen, die keine Buchungsbelege nach Absatz 1 Nummer 4 sind, endet die Aufbewahrungsfrist mit dem Erhalt der Rechnung. Für abgesandte Lieferscheine, die keine Buchungsbelege nach Absatz 1 Nummer 4 sind, endet die Aufbewahrungsfrist mit dem Versand der Rechnung. Die Aufbewahrungsfrist läuft jedoch nicht ab, soweit und solange die Unterlagen für Steuern von Bedeutung sind, für welche die Festsetzungsfrist noch nicht abgelaufen ist; § 169 Abs. 2 Satz 2 gilt nicht.
+(3) Die in Absatz 1 Nummer 1 und 4a aufgeführten Unterlagen sind zehn Jahre, die in Absatz 1 Nummer 4 aufgeführten Unterlagen acht Jahre und die sonstigen in Absatz 1 aufgeführten Unterlagen sechs Jahre aufzubewahren, sofern nicht in anderen Steuergesetzen kürzere Aufbewahrungsfristen zugelassen sind. Kürzere Aufbewahrungsfristen nach außersteuerlichen Gesetzen lassen die in Satz 1 bestimmte Frist unberührt. Bei empfangenen Lieferscheinen, die keine Buchungsbelege nach Absatz 1 Nummer 4 sind, endet die Aufbewahrungsfrist mit dem Erhalt der Rechnung. Für abgesandte Lieferscheine, die keine Buchungsbelege nach Absatz 1 Nummer 4 sind, endet die Aufbewahrungsfrist mit dem Versand der Rechnung. Die Aufbewahrungsfrist läuft jedoch nicht ab, soweit und solange die Unterlagen für Steuern von Bedeutung sind, für welche die Festsetzungsfrist noch nicht abgelaufen ist; § 169 Abs. 2 Satz 2 gilt nicht.
 
 (4) Die Aufbewahrungsfrist beginnt mit dem Schluss des Kalenderjahrs, in dem die letzte Eintragung in das Buch gemacht, das Inventar, die Eröffnungsbilanz, der Jahresabschluss oder der Lagebericht aufgestellt, der Handels- oder Geschäftsbrief empfangen oder abgesandt worden oder der Buchungsbeleg entstanden ist, ferner die Aufzeichnung vorgenommen worden ist oder die sonstigen Unterlagen entstanden sind.
 
@@ -5795,7 +5801,7 @@ Ist die bisherige Rechtsprechung bereits in einer Steuererklärung oder einer St
 
 (1) Gesondert festgestellt werden insbesondere:
 
-1.  die Einheitswerte und die Grundsteuerwerte nach Maßgabe des Bewertungsgesetzes,
+1.  die Grundsteuerwerte nach Maßgabe des Bewertungsgesetzes,
 
 
 2.
@@ -5894,9 +5900,9 @@ Hat ein Erklärungspflichtiger eine Erklärung zur gesonderten Feststellung abge
 
 (2a) Die Erklärung zur gesonderten Feststellung nach § 180 Absatz 1 Satz 1 Nummer 2 ist nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln. Auf Antrag kann die Finanzbehörde zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten; in diesem Fall ist die Erklärung zur gesonderten Feststellung nach amtlich vorgeschriebenem Vordruck abzugeben und vom Erklärungspflichtigen eigenhändig zu unterschreiben.
 
-(3) Die Frist für die gesonderte Feststellung von Einheitswerten oder von Grundsteuerwerten (Feststellungsfrist) beginnt mit Ablauf des Kalenderjahres, auf dessen Beginn die Hauptfeststellung, die Fortschreibung, die Nachfeststellung oder die Aufhebung eines Einheitswerts oder eines Grundsteuerwerts vorzunehmen ist. Ist eine Erklärung zur gesonderten Feststellung des Einheitswerts oder des Grundsteuerwerts abzugeben, beginnt die Feststellungsfrist mit Ablauf des Kalenderjahres, in dem die Erklärung eingereicht wird, spätestens jedoch mit Ablauf des dritten Kalenderjahres, das auf das Kalenderjahr folgt, auf dessen Beginn die Einheitswertfeststellung oder die Grundsteuerwertfeststellung vorzunehmen oder aufzuheben ist. Wird der Beginn der Feststellungsfrist nach Satz 2 hinausgeschoben, wird der Beginn der Feststellungsfrist für die weiteren Feststellungszeitpunkte des Hauptfeststellungszeitraums jeweils um die gleiche Zeit hinausgeschoben.
+(3) Die Frist für die gesonderte Feststellung von Grundsteuerwerten (Feststellungsfrist) beginnt mit Ablauf des Kalenderjahres, auf dessen Beginn die Hauptfeststellung, die Fortschreibung, die Nachfeststellung oder die Aufhebung eines Grundsteuerwerts vorzunehmen ist. Ist eine Erklärung zur gesonderten Feststellung des Grundsteuerwerts abzugeben, beginnt die Feststellungsfrist mit Ablauf des Kalenderjahres, in dem die Erklärung eingereicht wird, spätestens jedoch mit Ablauf des dritten Kalenderjahres, das auf das Kalenderjahr folgt, auf dessen Beginn die Grundsteuerwertfeststellung vorzunehmen oder aufzuheben ist. Wird der Beginn der Feststellungsfrist nach Satz 2 hinausgeschoben, wird der Beginn der Feststellungsfrist für die weiteren Feststellungszeitpunkte des Hauptfeststellungszeitraums jeweils um die gleiche Zeit hinausgeschoben.
 
-(4) In den Fällen des Absatzes 3 beginnt die Feststellungsfrist nicht vor Ablauf des Kalenderjahrs, auf dessen Beginn der Einheitswert oder der Grundsteuerwert erstmals steuerlich anzuwenden ist.
+(4) In den Fällen des Absatzes 3 beginnt die Feststellungsfrist nicht vor Ablauf des Kalenderjahrs, auf dessen Beginn der Grundsteuerwert erstmals steuerlich anzuwenden ist.
 
 (5) Eine gesonderte Feststellung kann auch nach Ablauf der für sie geltenden Feststellungsfrist insoweit erfolgen, als die gesonderte Feststellung für eine Steuerfestsetzung von Bedeutung ist, für die die Festsetzungsfrist im Zeitpunkt der gesonderten Feststellung noch nicht abgelaufen ist; hierbei bleibt § 171 Abs. 10 außer Betracht. Hierauf ist im Feststellungsbescheid hinzuweisen. § 169 Abs. 1 Satz 3 gilt sinngemäß.
 
@@ -5905,7 +5911,7 @@ Hat ein Erklärungspflichtiger eine Erklärung zur gesonderten Feststellung abge
 
 (1) Feststellungsbescheide sind, auch wenn sie noch nicht unanfechtbar sind, für andere Feststellungsbescheide, für Steuermessbescheide, für Steuerbescheide und für Steueranmeldungen (Folgebescheide) bindend, soweit die in den Feststellungsbescheiden getroffenen Feststellungen für diese Folgebescheide von Bedeutung sind. Dies gilt entsprechend bei Feststellungen nach § 180 Absatz 5 Nummer 2 für Verwaltungsakte, die die Verwirklichung der Ansprüche aus dem Steuerschuldverhältnis betreffen. Wird ein Feststellungsbescheid nach § 180 Absatz 5 Nummer 2 erlassen, aufgehoben oder geändert, ist ein Verwaltungsakt, für den dieser Feststellungsbescheid Bindungswirkung entfaltet, in entsprechender Anwendung des § 175 Absatz 1 Satz 1 Nummer 1 zu korrigieren.
 
-(2) Ein Feststellungsbescheid über einen Einheitswert oder einen Grundsteuerwert nach § 180 Absatz 1 Satz 1 Nummer 1 wirkt auch gegenüber dem Rechtsnachfolger, auf den der Gegenstand der Feststellung nach dem Feststellungszeitpunkt mit steuerlicher Wirkung übergeht. Tritt die Rechtsnachfolge jedoch ein, bevor der Feststellungsbescheid ergangen ist, so wirkt er gegen den Rechtsnachfolger nur dann, wenn er ihm bekannt gegeben wird. Die Sätze 1 und 2 gelten für gesonderte sowie gesonderte und einheitliche Feststellungen von Besteuerungsgrundlagen, die sich erst später auswirken, nach der Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung entsprechend.
+(2) Ein Feststellungsbescheid über einen Grundsteuerwert nach § 180 Absatz 1 Satz 1 Nummer 1 wirkt auch gegenüber dem Rechtsnachfolger, auf den der Gegenstand der Feststellung nach dem Feststellungszeitpunkt mit steuerlicher Wirkung übergeht. Tritt die Rechtsnachfolge jedoch ein, bevor der Feststellungsbescheid ergangen ist, so wirkt er gegen den Rechtsnachfolger nur dann, wenn er ihm bekannt gegeben wird. Die Sätze 1 und 2 gelten für gesonderte sowie gesonderte und einheitliche Feststellungen von Besteuerungsgrundlagen, die sich erst später auswirken, nach der Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung entsprechend.
 
 (3) Erfolgt eine gesonderte Feststellung gegenüber mehreren Beteiligten nach § 179 Absatz 2 Satz 2 einheitlich und ist ein Beteiligter im Feststellungsbescheid unrichtig bezeichnet worden, weil Rechtsnachfolge eingetreten ist, kann dies durch besonderen Bescheid gegenüber dem Rechtsnachfolger berichtigt werden.
 
@@ -5972,7 +5978,7 @@ Ist ein Empfangsbevollmächtigter nach Absatz 1 Satz 1 vorhanden, können die in
 
 
 
-zugerechnet und haben die Feststellungsbeteiligten keinen gemeinsamen Empfangsbevollmächtigten bestellt, so gelten für die Bekanntgabe von Feststellungsbescheiden über den Einheitswert oder den Grundsteuerwert die Regelungen über zusammengefasste Bescheide in § 122 Absatz 7 entsprechend.
+zugerechnet und haben die Feststellungsbeteiligten keinen gemeinsamen Empfangsbevollmächtigten bestellt, so gelten für die Bekanntgabe von Feststellungsbescheiden über den Grundsteuerwert die Regelungen über zusammengefasste Bescheide in § 122 Absatz 7 entsprechend.
 
 
 ##### II. - Festsetzung von Steuermessbeträgen

@@ -227,7 +227,7 @@ Das Erfordernis der Prüfungstätigkeit ist erfüllt, wenn die Bewerbenden nachw
 
 (1) Die Prüfung wird vor der Prüfungskommission abgelegt.
 
-(2) Die Prüfung gliedert sich in eine schriftliche und eine mündliche Prüfung.
+(2) Die Prüfung gliedert sich in eine schriftliche und eine mündliche Prüfung. Die schriftliche Prüfung kann auch elektronisch durchgeführt werden.
 
 (3) An alle Bewerber sind ohne Rücksicht auf ihren beruflichen Werdegang gleiche Anforderungen zu stellen.
 
@@ -538,7 +538,7 @@ b)  die zur gesetzlichen Vertretung berufenen Organe mehrheitlich aus Wirtschaft
 
 #### § 30 Änderungsanzeige
 
-Jede Änderung des Gesellschaftsvertrages oder der Satzung oder in der Person der gesetzlichen Vertreter ist der Wirtschaftsprüferkammer unverzüglich anzuzeigen. Die Wirtschaftsprüferkammer kann als Nachweis der Änderung geeignete Belege, Ausfertigungen oder öffentlich beglaubigte Abschriften anfordern. Wird die Änderung im Handelsregister oder Partnerschaftsregister eingetragen, ist eine öffentlich beglaubigte Abschrift der Eintragung nachzureichen.
+Jede Änderung des Gesellschaftsvertrages oder der Satzung ist der Wirtschaftsprüferkammer unverzüglich anzuzeigen. Die Wirtschaftsprüferkammer kann als Nachweis der Änderung geeignete Belege, Ausfertigungen oder öffentlich beglaubigte Abschriften anfordern.
 
 
 #### § 31 Bezeichnung "Wirtschaftsprüfungsgesellschaft"
@@ -796,7 +796,7 @@ In das Berufsregister sind einleitend die für alle Berufsangehörigen und Wirts
 
 (1) Eintragungen und Löschungen werden von der Wirtschaftsprüferkammer unverzüglich von Amts wegen vorgenommen.
 
-(2) Die Mitglieder der Wirtschaftsprüferkammer sind verpflichtet, die Tatsachen, die eine Eintragung, ihre Veränderung oder eine Löschung erforderlich machen, der Wirtschaftsprüferkammer unverzüglich in einer den §§ 126, 126a des Bürgerlichen Gesetzbuchs entsprechenden Form mitzuteilen. § 62a gilt entsprechend.
+(2) Die Mitglieder der Wirtschaftsprüferkammer sind verpflichtet, die Tatsachen, die eine Eintragung, ihre Veränderung oder eine Löschung erforderlich machen, der Wirtschaftsprüferkammer unverzüglich schriftlich oder elektronisch mitzuteilen. § 62a gilt entsprechend.
 
 (3) Auf Antrag der Berufsangehörigen oder der Wirtschaftsprüfungsgesellschaften stellt die Wirtschaftsprüferkammer einen Registerauszug über die jeweilige Eintragung nach § 38 Nummer 1 Buchstabe h oder Nummer 2 Buchstabe f zur Verfügung.
 
@@ -1235,7 +1235,7 @@ Im Fall des Satzes 2 Nummer 3 gilt mehrfaches auf gleicher oder gleichartiger Fe
 
 (1) Der Anspruch der Auftraggeber aus den zwischen ihnen und den Berufsangehörigen bestehenden Vertragsverhältnissen auf Ersatz eines fahrlässig verursachten Schadens kann beschränkt werden
 
-1.  durch schriftliche Vereinbarung im Einzelfall bis zur Mindesthöhe der Deckungssumme nach § 54 Absatz 4 Satz 1 oder
+1.  durch im Einzelfall in Textform getroffene Vereinbarung bis zur Mindesthöhe der Deckungssumme nach § 54 Absatz 4 Satz 1 oder
 
 
 2.  durch vorformulierte Vertragsbedingungen auf den vierfachen Betrag der Mindesthöhe der Deckungssumme nach § 54 Absatz 4 Satz 1, wenn insoweit Versicherungsschutz besteht.
@@ -1770,6 +1770,11 @@ Die Kommission für Qualitätskontrolle kann im Einvernehmen mit der Abschlusspr
 (5) Auf Personen, die einen Antrag auf Bestellung oder Anerkennung durch die Wirtschaftsprüferkammer gestellt haben, sind die Absätze 1 bis 4 entsprechend anzuwenden. Absatz 2 gilt auch für frühere Mitglieder.
 
 
+### § 58b Elektronische Kommunikation mit den Mitgliedern
+
+Diejenigen Mitglieder der Wirtschaftsprüferkammer, die über ein E-Mail-Postfach oder ein Postfach nach § 130a Absatz 4 Satz 1 Nummer 2, 4 oder 5 der Zivilprozessordnung verfügen, haben deren Adressen der Wirtschaftsprüferkammer zum Zwecke der elektronischen Kommunikation mitzuteilen, sofern dem keine wesentlichen Gründe entgegenstehen.
+
+
 ### § 59 Organe; Kammerversammlungen
 
 (1) Organe der Wirtschaftsprüferkammer sind
@@ -1792,7 +1797,7 @@ Die Kommission für Qualitätskontrolle kann im Einvernehmen mit der Abschlusspr
 
 (3) Die Wahl der Beiratsmitglieder erfolgt getrennt nach Gruppen. Die Gruppe der Wirtschaftsprüfer und Wirtschaftsprüfungsgesellschaften wählt entsprechend der Zahl der Mitglieder der Wirtschaftsprüferkammer, die dieser Gruppe nach dem öffentlichen Berufsregister am 1. Dezember des dem Wahltag vorangehenden Kalenderjahres angehören, eine in der Satzung bestimmte Anzahl von Beiratsmitgliedern. Die Gruppe der anderen stimmberechtigten Mitglieder wählt eine Anzahl von Beiratsmitgliedern, die sich nach der Zahl der stimmberechtigten Mitglieder der Wirtschaftsprüferkammer, die dieser Gruppe an dem in Satz 2 bezeichneten Tag angehören, bemißt. Mindestens eine Zahl von einem Beiratsmitglied mehr als die Hälfte der Zahl aller Beiratsmitglieder muß jedoch von der Gruppe der Wirtschaftsprüfer und Wirtschaftsprüfungsgesellschaften gewählt werden. Satz 1 bis 4 finden auf die Wahl der Vorstandsmitglieder entsprechende Anwendung; die Wahl des Präsidenten der Wirtschaftsprüferkammer erfolgt durch den gesamten Beirat.
 
-(4) Beirat und Vorstand erstatten den Mitgliedern jährlich Bericht. Dazu kann die Wirtschaftsprüferkammer regionale Kammerversammlungen ausrichten. Auf Verlangen des Beirats oder wenn mindestens ein Zwanzigstel der Mitglieder dies schriftlich unter Angabe des zu behandelnden Gegenstandes beantragt, richtet die Wirtschaftsprüferkammer eine Kammerversammlung aus, zu der alle Mitglieder eingeladen werden.
+(4) Beirat und Vorstand erstatten den Mitgliedern jährlich Bericht. Dazu kann die Wirtschaftsprüferkammer regionale Kammerversammlungen ausrichten. Auf Verlangen des Beirats oder wenn mindestens ein Zwanzigstel der Mitglieder dies schriftlich oder elektronisch unter Angabe des zu behandelnden Gegenstandes beantragt, richtet die Wirtschaftsprüferkammer eine Kammerversammlung aus, zu der alle Mitglieder eingeladen werden.
 
 (5) Das Nähere regelt die Wirtschaftsprüferkammer in der Satzung und in der Wahlordnung gemäß § 60 Absatz 1.
 
@@ -2885,9 +2890,7 @@ Soweit nichts anderes geregelt ist, unterliegen EU- und EWR-Abschlussprüfungsge
 
 (2) Bei der Eignungsprüfung wird überprüft, ob der Bewerber oder die Bewerberin über angemessene Kenntnisse der für die Abschlussprüfung relevanten Rechtsvorschriften der Bundesrepublik Deutschland verfügt. Die Eignungsprüfung muss dem Umstand Rechnung tragen, dass der Bewerber oder die Bewerberin in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz über die beruflichen Voraussetzungen verfügt, die für die Zulassung zur Pflichtprüfung von Jahresabschlüssen und anderer Rechnungsunterlagen in diesem Staat erforderlich sind.
 
-(3) Die Prüfung gliedert sich in eine schriftliche und eine mündliche Prüfung. Sie wird in deutscher Sprache abgelegt. Prüfungsgebiete sind durch Rechtsverordnung näher zu bestimmende Bereiche des Wirtschaftlichen Prüfungswesens (rechtliche Vorschriften), des Wirtschaftsrechts, des Steuerrechts und das Berufsrecht der Wirtschaftsprüfer.
-
-(4) (weggefallen)
+(3) Die Prüfung gliedert sich in eine schriftliche und eine mündliche Prüfung. Sie wird in deutscher Sprache abgelegt. Prüfungsgebiete sind durch Rechtsverordnung näher zu bestimmende Bereiche des Wirtschaftlichen Prüfungswesens (rechtliche Vorschriften), des Wirtschaftsrechts, des Steuerrechts und das Berufsrecht der Wirtschaftsprüfer. Die schriftliche Prüfung kann auch elektronisch durchgeführt werden.
 
 
 ### § 131i Anwendung des Berufsqualifikationsfeststellungsgesetzes

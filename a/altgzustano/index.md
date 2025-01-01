@@ -66,14 +66,14 @@ Diese Anordnung regelt die Zuständigkeit für
 
 ## § 2 Festsetzung der Leistungen nach dem Altersgeldgesetz
 
-(1) Die Zuständigkeit der obersten Dienstbehörde für die Festsetzung des Altersgeldes und des Hinterbliebenenaltersgeldes nach § 49 Absatz 1 Satz 1 des Beamtenversorgungsgesetzes in Verbindung mit § 10 Absatz 5 des Altersgeldgesetzes oder nach § 46 Absatz 1 Satz 1 des Soldatenversorgungsgesetzes in Verbindung mit § 2 Absatz 3 Satz 1 und § 10 Absatz 5 des Altersgeldgesetzes sowie die Zuständigkeit für die Erteilung von Altersgeldauskünften nach § 49 Absatz 10 des Beamtenversorgungsgesetzes in Verbindung mit § 10 Absatz 7 Satz 1 des Altersgeldgesetzes oder nach § 46 Absatz 8 des Soldatenversorgungsgesetzes in Verbindung mit § 2 Absatz 3 Satz 1 und § 10 Absatz 5 des Altersgeldgesetzes wird auf die Service-Center der Generalzolldirektion (Service-Center) übertragen, soweit in dieser Anordnung nichts Abweichendes geregelt ist.
+(1) Die Zuständigkeit der obersten Dienstbehörde für die Festsetzung des Altersgeldes und des Hinterbliebenenaltersgeldes nach § 49 Absatz 1 Satz 1 des Beamtenversorgungsgesetzes in Verbindung mit § 10 Absatz 5 des Altersgeldgesetzes oder nach § 63 Absatz 1 Satz 1 des Soldatenversorgungsgesetzes in Verbindung mit § 2 Absatz 3 Satz 1 und § 10 Absatz 5 des Altersgeldgesetzes sowie die Zuständigkeit für die Erteilung von Altersgeldauskünften nach § 49 Absatz 10 des Beamtenversorgungsgesetzes in Verbindung mit § 10 Absatz 7 Satz 1 des Altersgeldgesetzes oder nach § 63 Absatz 8 des Soldatenversorgungsgesetzes in Verbindung mit § 2 Absatz 3 Satz 1 und § 10 Absatz 5 des Altersgeldgesetzes wird auf die Service-Center der Generalzolldirektion (Service-Center) übertragen, soweit in dieser Anordnung nichts Abweichendes geregelt ist.
 
 (2) Die Service-Center sind nicht befugt,
 
 1.  Entscheidungen zu treffen, die eine grundsätzliche, über den Einzelfall hinausgehende Bedeutung haben oder die nur von der obersten Dienstbehörde getroffen werden können, sowie
 
 
-2.  über den Entzug des Altersgeldes nach § 62 Absatz 3 des Beamtenversorgungsgesetzes in Verbindung mit § 10 Absatz 5 des Altersgeldgesetzes oder nach § 60 Absatz 3 des Soldatenversorgungsgesetzes in Verbindung mit § 2 Absatz 3 Satz 1 und § 10 Absatz 5 des Altersgeldgesetzes zu entscheiden.
+2.  über den Entzug des Altersgeldes nach § 62 Absatz 3 des Beamtenversorgungsgesetzes in Verbindung mit § 10 Absatz 5 des Altersgeldgesetzes oder nach § 81 Absatz 4 des Soldatenversorgungsgesetzes in Verbindung mit § 2 Absatz 3 Satz 1 und § 10 Absatz 5 des Altersgeldgesetzes zu entscheiden.
 
 
 
@@ -101,7 +101,7 @@ Abweichend von Satz 1 sind die obersten Dienstbehörden bis zur ersten Festsetzu
 
 ## § 4 Versorgungslastenteilung
 
-Die Service-Center sind zuständig für die Durchführung der Versorgungslastenteilung nach § 107b des Beamtenversorgungsgesetzes in Verbindung mit § 16 des Altersgeldgesetzes oder nach § 92b des Soldatenversorgungsgesetzes in Verbindung mit § 2 Absatz 3 Satz 1 und § 10 Absatz 5 des Altersgeldgesetzes, insbesondere für die Erstattung und Geltendmachung von Versorgungslasten.
+Die Service-Center sind zuständig für die Durchführung der Versorgungslastenteilung nach § 107b des Beamtenversorgungsgesetzes in Verbindung mit § 16 des Altersgeldgesetzes oder nach § 110 des Soldatenversorgungsgesetzes in Verbindung mit § 2 Absatz 3 Satz 1 und § 10 Absatz 5 des Altersgeldgesetzes, insbesondere für die Erstattung und Geltendmachung von Versorgungslasten.
 
 
 ## § 5 Besonderheiten für das Bundeskanzleramt

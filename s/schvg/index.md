@@ -149,7 +149,7 @@ muss den Gläubigern vor ihrer Bestellung zum gemeinsamen Vertreter die maßgebl
 
 ### § 9 Einberufung der Gläubigerversammlung
 
-(1) Die Gläubigerversammlung wird vom Schuldner oder von dem gemeinsamen Vertreter der Gläubiger einberufen. Sie ist einzuberufen, wenn Gläubiger, deren Schuldverschreibungen zusammen 5 Prozent der ausstehenden Schuldverschreibungen erreichen, dies schriftlich mit der Begründung verlangen, sie wollten einen gemeinsamen Vertreter bestellen oder abberufen, sie wollten nach § 5 Absatz 5 Satz 2 über das Entfallen der Wirkung der Kündigung beschließen oder sie hätten ein sonstiges besonderes Interesse an der Einberufung. Die Anleihebedingungen können vorsehen, dass die Gläubiger auch aus anderen Gründen die Einberufung verlangen können.
+(1) Die Gläubigerversammlung wird vom Schuldner oder von dem gemeinsamen Vertreter der Gläubiger einberufen. Sie ist einzuberufen, wenn Gläubiger, deren Schuldverschreibungen zusammen 5 Prozent der ausstehenden Schuldverschreibungen erreichen, dies in Textform mit der Begründung verlangen, sie wollten einen gemeinsamen Vertreter bestellen oder abberufen, sie wollten nach § 5 Absatz 5 Satz 2 über das Entfallen der Wirkung der Kündigung beschließen oder sie hätten ein sonstiges besonderes Interesse an der Einberufung. Die Anleihebedingungen können vorsehen, dass die Gläubiger auch aus anderen Gründen die Einberufung verlangen können.
 
 (2) Gläubiger, deren berechtigtem Verlangen nicht entsprochen worden ist, können bei Gericht beantragen, sie zu ermächtigen, die Gläubigerversammlung einzuberufen. Das Gericht kann zugleich den Vorsitzenden der Versammlung bestimmen. Auf die Ermächtigung muss in der Bekanntmachung der Einberufung hingewiesen werden.
 
@@ -203,7 +203,7 @@ Die Gläubigerversammlung soll bei einem Schuldner mit Sitz im Inland am Sitz de
 
 (1) Der Einberufende führt den Vorsitz in der Gläubigerversammlung, sofern nicht das Gericht einen anderen Vorsitzenden bestimmt hat.
 
-(2) In der Gläubigerversammlung ist durch den Vorsitzenden ein Verzeichnis der erschienenen oder durch Bevollmächtigte vertretenen Gläubiger aufzustellen. Im Verzeichnis sind die Gläubiger unter Angabe ihres Namens, Sitzes oder Wohnorts sowie der Zahl der von jedem vertretenen Stimmrechte aufzuführen. Das Verzeichnis ist vom Vorsitzenden der Versammlung zu unterschreiben und allen Gläubigern unverzüglich zugänglich zu machen.
+(2) In der Gläubigerversammlung ist durch den Vorsitzenden ein Verzeichnis der erschienenen oder durch Bevollmächtigte vertretenen Gläubiger in Textform aufzustellen. Im Verzeichnis sind die Gläubiger unter Angabe ihres Namens, Sitzes oder Wohnorts sowie der Zahl der von jedem vertretenen Stimmrechte aufzuführen. Das Verzeichnis ist allen Gläubigern unverzüglich zugänglich zu machen.
 
 (3) Die Gläubigerversammlung ist beschlussfähig, wenn die Anwesenden wertmäßig mindestens die Hälfte der ausstehenden Schuldverschreibungen vertreten. Wird in der Gläubigerversammlung die mangelnde Beschlussfähigkeit festgestellt, kann der Vorsitzende eine zweite Versammlung zum Zweck der erneuten Beschlussfassung einberufen. Die zweite Versammlung ist beschlussfähig; für Beschlüsse, zu deren Wirksamkeit eine qualifizierte Mehrheit erforderlich ist, müssen die Anwesenden mindestens 25 Prozent der ausstehenden Schuldverschreibungen vertreten. Schuldverschreibungen, deren Stimmrechte ruhen, zählen nicht zu den ausstehenden Schuldverschreibungen. Die Anleihebedingungen können jeweils höhere Anforderungen an die Beschlussfähigkeit stellen.
 

@@ -298,7 +298,7 @@ Für das Verfahren zur grenzüberschreitenden Umweltverträglichkeitsprüfung ge
 
 ### § 8 Gegenstand und Zweck
 
-(1) Die Genehmigungsbehörde hat die rechtzeitig erhobenen Einwendungen mit dem Antragsteller und denjenigen, die Einwendungen erhoben haben, mündlich zu erörtern. Rechtzeitig erhoben sind Einwendungen, die innerhalb der Auslegungsfrist bei den in der Bekanntmachung nach § 5 Abs. 1 Satz 2 Nr. 2 bezeichneten Stellen eingegangen sind.
+(1) Die Genehmigungsbehörde hat die rechtzeitig erhobenen Einwendungen mit dem Antragsteller und denjenigen, die Einwendungen erhoben haben, mündlich zu erörtern. § 27c des Verwaltungsverfahrensgesetzes und die entsprechenden Vorschriften der Verwaltungsverfahrensgesetze der Länder bleiben durch Satz 1 unberührt. Rechtzeitig erhoben sind Einwendungen, die innerhalb der Auslegungsfrist bei den in der Bekanntmachung nach § 5 Abs. 1 Satz 2 Nr. 2 bezeichneten Stellen eingegangen sind.
 
 (2) Der Erörterungstermin dient dazu, die rechtzeitig erhobenen Einwendungen zu erörtern, soweit dies für die Prüfung der Zulassungsvoraussetzungen von Bedeutung sein kann. Er soll denjenigen, die Einwendungen erhoben haben, Gelegenheit geben, ihre Einwendungen zu erläutern.
 

@@ -115,6 +115,8 @@ Alle Einnahmen dienen als Deckungsmittel für alle Ausgaben. Auf die Verwendung 
 
 
 
+(3) Bei Verkauf und Kauf von Bundeswertpapieren sind die gesamten Zinskosten periodengerecht über die Laufzeit des jeweiligen Wertpapiers anteilig jeweils auf die Periode von Zahlungstermin zu Zahlungstermin aufzuteilen. Der Saldo aus Zinsausgaben und Krediteinnahme muss stets der Kassenwirkung der Zahlungen entsprechen.
+
 
 ### § 12 Geltungsdauer der Haushaltspläne
 
@@ -466,6 +468,8 @@ Außerhalb der obersten Bundesbehörden dürfen für die in Satz 1 Nummer 7 gena
 
 (3) Die Ermächtigungen nach Absatz 2 Nr. 1 gelten bis zum Ende des nächsten Haushaltsjahres und, wenn das Haushaltsgesetz für das zweitnächste Haushaltsjahr nicht rechtzeitig verkündet wird, bis zur Verkündung dieses Haushaltsgesetzes. Die Ermächtigungen nach Absatz 2 Nr. 2 gelten bis zum Ende des laufenden Haushaltsjahres und, wenn das Haushaltsgesetz für das nächste Haushaltsjahr nicht rechtzeitig verkündet wird, bis zur Verkündung dieses Haushaltsgesetzes.
 
+(4) Die Ermächtigungen nach Absatz 2 Nummer 1 umfassen unbeschadet der Höhe der Einnahmen aus Krediten die Verpflichtung zur endfälligen Tilgung der durch den Verkauf von Bundeswertpapieren aufgenommenen Kredite in Höhe der Nennwerte. Das Haushaltsgesetz konkretisiert die Art der Anrechnung auf die Kreditermächtigung entsprechend § 11 Absatz 3.
+
 
 ### § 19 Übertragbarkeit
 
@@ -761,7 +765,7 @@ Deckungsfähige Ausgaben dürfen, solange sie verfügbar sind, nach Maßgabe des
 
 An die Stelle des 50. Lebensjahres tritt
 
-1.  das 55. Lebensjahr, wenn die zukünftigen Versorgungslasten nach dem Versorgungslastenteilungs-Staatsvertrag, nach § 107b des Beamtenversorgungsgesetzes, nach § 92b des Soldatenversorgungsgesetzes oder dem Militärseelsorgevertrag vom 22. Februar 1957 (BGBl. 1957 II S. 702) mit dem abgebenden Dienstherrn geteilt werden, oder
+1.  das 55. Lebensjahr, wenn die zukünftigen Versorgungslasten nach dem Versorgungslastenteilungs-Staatsvertrag, nach § 107b des Beamtenversorgungsgesetzes, nach § 110 des Soldatenversorgungsgesetzes oder dem Militärseelsorgevertrag vom 22. Februar 1957 (BGBl. 1957 II S. 702) mit dem abgebenden Dienstherrn geteilt werden, oder
 
 
 2.  das 62. Lebensjahr, wenn bereits Ansprüche auf Versorgung nach beamten- oder soldatenrechtlichen Vorschriften oder Grundsätzen zu Lasten des Bundes erworben wurden und das vorgesehene Amt höchstens der Besoldungsgruppe zugeordnet ist, aus der zuletzt Dienstbezüge gezahlt wurden.
@@ -1025,6 +1029,8 @@ Zahlungen dürfen nur von Kassen und Zahlstellen angenommen oder geleistet werde
 
 
 (3) Absatz 2 Nr. 2 gilt entsprechend für außerplanmäßige Einnahmen und Ausgaben.
+
+(4) Abweichend von Absatz 1 wird der periodengerechte Anteil der Differenz zwischen Nennwert und Verkaufserlös, der beim Verkauf und Kauf von Bundeswertpapieren entsteht, ohne Zahlung im Bundeshaushalt gebucht.
 
 
 ### § 72 Buchung nach Haushaltsjahren

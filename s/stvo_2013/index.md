@@ -1587,7 +1587,7 @@ Satz 3 gilt ferner nicht für Beschränkungen oder Verbote des fließenden Verke
 (11) Absatz 1 Satz 1 und 2 Nummer 1 bis 3, 5 und 6, Absatz 1a, 1f, 2 Satz 1 und 4, Absatz 3, 4, 5 Satz 2 in Verbindung mit Satz 1, Absatz 7 sowie Absatz 9 Satz 1 bis 3, 4 Nummer 7 und Satz 6 gelten entsprechend für mit den Zeichen 330.1 und 330.2 gekennzeichnete Autobahnen in der Baulast des Bundes für das Fernstraßen-Bundesamt. Absatz 2 Satz 1 und 4 sowie Absatz 3, 4 und 7 gelten entsprechend für Bundesstraßen in Bundesverwaltung für das Fernstraßen-Bundesamt.
 
 
-### § 46 Ausnahmegenehmigung und Erlaubnis
+### § 46 Ausnahmegenehmigungen, Erlaubnisse und Bewohnerparkausweise
 
 (1) Die Straßenverkehrsbehörden können in bestimmten Einzelfällen oder allgemein für bestimmte Antragsteller Ausnahmen genehmigen
 
@@ -1684,9 +1684,11 @@ Wird neben einer Ausnahmegenehmigung nach Satz 1 Nummer 3 auch eine Erlaubnis na
 
 im Benehmen mit dem Fernstraßen-Bundesamt entschieden. Das Fernstraßen-Bundesamt kann verlangen, dass ein Antrag auf Erteilung einer Ausnahmegenehmigung gestellt wird. Sieht ein Land kein eigenes Genehmigungsverfahren für die Zulässigkeit nach Satz 3 vor, entscheidet das Fernstraßen-Bundesamt.
 
-(3) Ausnahmegenehmigung und Erlaubnis können unter dem Vorbehalt des Widerrufs erteilt werden und mit Nebenbestimmungen (Bedingungen, Befristungen, Auflagen) versehen werden. Erforderlichenfalls kann die zuständige Behörde die Beibringung eines Sachverständigengutachtens auf Kosten des Antragstellers verlangen. Die Bescheide sind mitzuführen und auf Verlangen zuständigen Personen auszuhändigen. Bei Erlaubnissen nach § 29 Absatz 3 und Ausnahmegenehmigungen nach § 46 Absatz 1 Nummer 5 genügt das Mitführen fernkopierter Bescheide oder von Ausdrucken elektronisch erteilter und signierter Bescheide sowie deren digitalisierte Form auf einem Speichermedium, wenn diese derart mitgeführt wird, dass sie bei einer Kontrolle auf Verlangen zuständigen Personen lesbar gemacht werden kann.
+(3) Ausnahmegenehmigung und Erlaubnis können unter dem Vorbehalt des Widerrufs erteilt werden und mit Nebenbestimmungen (Bedingungen, Befristungen, Auflagen) versehen werden. Erforderlichenfalls kann die zuständige Behörde die Beibringung eines Sachverständigengutachtens auf Kosten des Antragstellers verlangen. Die Bescheide sind mitzuführen und auf Verlangen zuständigen Personen auszuhändigen. Bei Erlaubnissen nach § 29 Absatz 3 und Ausnahmegenehmigungen nach § 46 Absatz 1 Nummer 5 genügt das Mitführen fernkopierter Bescheide oder von Ausdrucken elektronisch erteilter und signierter Bescheide sowie deren digitalisierte Form auf einem Speichermedium, wenn diese derart mitgeführt wird, dass sie bei einer Kontrolle auf Verlangen zuständigen Personen lesbar gemacht werden kann. Bei der Erteilung von Parkausweisen für Bewohner kann die zuständige Behörde bestimmen, dass die Parkausweise nicht in den Fahrzeugen ausgelegt oder angebracht werden müssen.
 
 (4) Ausnahmegenehmigungen und Erlaubnisse der zuständigen Behörde sind für den Geltungsbereich dieser Verordnung wirksam, sofern sie nicht einen anderen Geltungsbereich nennen.
+
+(5) Bewohnerparkausweise und Ausnahmegenehmigungen nach dieser Vorschrift, die als Parkausweise ausgegeben werden, können vollständig durch automatische Einrichtungen erteilt werden, sofern kein Anlass besteht, den Einzelfall durch Amtsträger zu bearbeiten.
 
 
 ### § 47 Örtliche Zuständigkeit

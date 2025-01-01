@@ -62,7 +62,15 @@ Zuletzt geändert durch
 
 ### § 3 Befugnis zur Erbringung außergerichtlicher Rechtsdienstleistungen
 
-Die selbständige Erbringung außergerichtlicher Rechtsdienstleistungen ist nur in dem Umfang zulässig, in dem sie durch dieses Gesetz oder durch oder aufgrund anderer Gesetze erlaubt wird.
+Die selbständige Erbringung außergerichtlicher Rechtsdienstleistungen ist unzulässig, soweit sie nicht erlaubt wird
+
+1.  durch § 5 Absatz 1 Satz 1, § 6 Absatz 1, § 7 Absatz 1 Satz 1, § 8 Absatz 1, § 10 Absatz 1 Satz 1 oder § 15 Absatz 1 Satz 1 oder 2 und Absatz 2 Satz 1 und 5 oder
+
+
+2.  durch oder aufgrund eines anderen Gesetzes.
+
+
+
 
 
 ### § 4 Unvereinbarkeit mit einer anderen Leistungspflicht
@@ -141,9 +149,9 @@ im Rahmen ihres Aufgaben- und Zuständigkeitsbereichs erbringen.
 
 ### § 9 Untersagung von Rechtsdienstleistungen
 
-(1) Die für den Wohnsitz einer Person oder den Sitz einer Vereinigung zuständige Behörde kann den in den §§ 6, 7 Abs. 1 und § 8 Abs. 1 Nr. 4 und 5 genannten Personen und Vereinigungen die weitere Erbringung von Rechtsdienstleistungen für längstens fünf Jahre untersagen, wenn begründete Tatsachen die Annahme dauerhaft unqualifizierter Rechtsdienstleistungen zum Nachteil der Rechtsuchenden oder des Rechtsverkehrs rechtfertigen. Das ist insbesondere der Fall, wenn erhebliche Verstöße gegen die Pflichten nach § 6 Abs. 2, § 7 Abs. 2 oder § 8 Abs. 2 vorliegen.
+(1) Das Bundesamt für Justiz kann den in den §§ 6, 7 Abs. 1 und § 8 Abs. 1 Nr. 4 und 5 genannten Personen und Vereinigungen die weitere Erbringung von Rechtsdienstleistungen für längstens fünf Jahre untersagen, wenn begründete Tatsachen die Annahme dauerhaft unqualifizierter Rechtsdienstleistungen zum Nachteil der Rechtsuchenden oder des Rechtsverkehrs rechtfertigen. Das ist insbesondere der Fall, wenn erhebliche Verstöße gegen die Pflichten nach § 6 Abs. 2, § 7 Abs. 2 oder § 8 Abs. 2 vorliegen.
 
-(2) Die bestandskräftige Untersagung ist bei der zuständigen Behörde zu registrieren und im Rechtsdienstleistungsregister nach § 16 öffentlich bekanntzumachen. Bei einer bestandskräftigen Untersagung gilt § 15b entsprechend.
+(2) Die bestandskräftige Untersagung ist beim Bundesamt für Justiz zu registrieren und im Rechtsdienstleistungsregister nach § 16 öffentlich bekanntzumachen. Bei einer bestandskräftigen Untersagung gilt § 15b entsprechend.
 
 (3) Von der Untersagung bleibt die Befugnis, unentgeltliche Rechtsdienstleistungen innerhalb familiärer, nachbarschaftlicher oder ähnlich enger persönlicher Beziehungen zu erbringen, unberührt.
 
@@ -153,7 +161,7 @@ im Rahmen ihres Aufgaben- und Zuständigkeitsbereichs erbringen.
 
 ### § 10 Rechtsdienstleistungen aufgrund besonderer Sachkunde
 
-(1) Natürliche und juristische Personen sowie rechtsfähige Personengesellschaften, die bei der zuständigen Behörde registriert sind (registrierte Personen), dürfen aufgrund besonderer Sachkunde Rechtsdienstleistungen in folgenden Bereichen erbringen:
+(1) Natürliche und juristische Personen sowie rechtsfähige Personengesellschaften, die beim Bundesamt für Justiz registriert sind (registrierte Personen), dürfen aufgrund besonderer Sachkunde Rechtsdienstleistungen in folgenden Bereichen erbringen:
 
 1.  Inkassodienstleistungen (§ 2 Abs. 2 Satz 1),
 
@@ -227,16 +235,16 @@ Die Registrierung kann auf einen Teilbereich der in Satz 1 genannten Bereiche be
 
 (2) Die Vermögensverhältnisse einer Person sind in der Regel ungeordnet, wenn über ihr Vermögen das Insolvenzverfahren eröffnet worden oder sie in das vom Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2 der Insolvenzordnung, § 882b der Zivilprozessordnung) eingetragen ist. Ungeordnete Vermögensverhältnisse liegen nicht vor, wenn im Fall der Insolvenzeröffnung die Gläubigerversammlung einer Fortführung des Unternehmens auf der Grundlage eines Insolvenzplans zugestimmt und das Gericht den Plan bestätigt hat, oder wenn die Vermögensinteressen der Rechtsuchenden aus anderen Gründen nicht konkret gefährdet sind.
 
-(3) Die theoretische Sachkunde ist gegenüber der zuständigen Behörde durch Zeugnisse nachzuweisen. Praktische Sachkunde setzt in der Regel eine mindestens zwei Jahre unter Anleitung erfolgte Berufsausübung oder praktische Berufsausbildung voraus. In der Regel müssen im Fall des § 10 Absatz 1 Satz 1 Nummer 1 zumindest zwölf Monate, im Fall des § 10 Absatz 1 Satz 1 Nummer 2 zumindest 18 Monate der Berufsausübung oder -ausbildung im Inland erfolgen. Ist die Person berechtigt, in einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz einen der in § 10 Absatz 1 Satz 1 Nummer 1 oder 2 genannten Berufe oder einen vergleichbaren Beruf auszuüben, und liegen die Voraussetzungen des § 1 Absatz 2 und 3 des Gesetzes über die Tätigkeit europäischer Patentanwälte in Deutschland sinngemäß vor, so kann die Sachkunde unter Berücksichtigung der bestehenden Berufsqualifikation auch durch einen mindestens sechsmonatigen Anpassungslehrgang nachgewiesen werden. Das Berufsqualifikationsfeststellungsgesetz ist nicht anzuwenden.
+(3) Die theoretische Sachkunde ist durch Zeugnisse nachzuweisen. Praktische Sachkunde setzt in der Regel eine mindestens zwei Jahre unter Anleitung erfolgte Berufsausübung oder praktische Berufsausbildung voraus. In der Regel müssen im Fall des § 10 Absatz 1 Satz 1 Nummer 1 zumindest zwölf Monate, im Fall des § 10 Absatz 1 Satz 1 Nummer 2 zumindest 18 Monate der Berufsausübung oder -ausbildung im Inland erfolgen. Ist die Person berechtigt, in einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz einen der in § 10 Absatz 1 Satz 1 Nummer 1 oder 2 genannten Berufe oder einen vergleichbaren Beruf auszuüben, und liegen die Voraussetzungen des § 1 Absatz 2 und 3 des Gesetzes über die Tätigkeit europäischer Patentanwälte in Deutschland sinngemäß vor, so kann die Sachkunde unter Berücksichtigung der bestehenden Berufsqualifikation auch durch einen mindestens sechsmonatigen Anpassungslehrgang nachgewiesen werden. Das Berufsqualifikationsfeststellungsgesetz ist nicht anzuwenden.
 
 (4) Juristische Personen und rechtsfähige Personengesellschaften müssen mindestens eine natürliche Person benennen, die alle nach Absatz 1 Nr. 1 und 2 erforderlichen Voraussetzungen erfüllt (qualifizierte Person). Die qualifizierte Person muss in dem Unternehmen dauerhaft beschäftigt, in allen Angelegenheiten, die Rechtsdienstleistungen des Unternehmens betreffen, weisungsunabhängig und weisungsbefugt sowie zur Vertretung nach außen berechtigt sein. Registrierte Einzelpersonen können qualifizierte Personen benennen.
 
-(5) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten zu den Voraussetzungen der Registrierung nach den §§ 11 und 12 zu regeln, insbesondere die Anforderungen an die Sachkunde und ihren Nachweis einschließlich der Anerkennung und Zertifizierung privater Anbieter von Sachkundelehrgängen, an die Anerkennung ausländischer Berufsqualifikationen und den Anpassungslehrgang sowie, auch abweichend von den Vorschriften des Versicherungsvertragsgesetzes für die Pflichtversicherung, an Inhalt und Ausgestaltung der Berufshaftpflichtversicherung.
+(5) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten zu den Voraussetzungen der Registrierung nach den §§ 11 und 12 zu regeln, insbesondere die Anforderungen an die Sachkunde und ihren Nachweis einschließlich der Anerkennung und Zertifizierung privater Anbieter von Sachkundelehrgängen, an die Anerkennung ausländischer Berufsqualifikationen und den Anpassungslehrgang sowie, auch abweichend von den Vorschriften des Versicherungsvertragsgesetzes für die Pflichtversicherung, an Inhalt und Ausgestaltung der Berufshaftpflichtversicherung.
 
 
 ### § 13 Registrierungsverfahren; Verordnungsermächtigung
 
-(1) Der Antrag auf Registrierung ist an die für den Ort der inländischen Hauptniederlassung zuständige Behörde zu richten. Hat eine Person im Inland keine Niederlassung, so kann sie den Antrag an jede nach § 19 für die Durchführung dieses Gesetzes zuständige Behörde richten. Das Registrierungsverfahren kann auch über eine einheitliche Stelle nach den Vorschriften des Verwaltungsverfahrensgesetzes abgewickelt werden. Mit dem Antrag, der alle nach § 16 Absatz 2 Satz 1 Nummer 1 Buchstabe a bis d und Satz 2 in das Rechtsdienstleistungsregister einzutragenden Angaben enthalten muss, sind zur Prüfung der Voraussetzungen nach § 12 Abs. 1 Nr. 1 und 2 sowie Abs. 4 beizubringen:
+(1) Der Antrag auf Registrierung ist beim Bundesamt für Justiz zu stellen. Das Registrierungsverfahren kann auch über eine einheitliche Stelle nach den §§ 71a bis 71e des Verwaltungsverfahrensgesetzes abgewickelt werden. Mit dem Antrag, der alle nach § 16 Absatz 2 Satz 1 Nummer 1 Buchstabe a bis d und Satz 2 in das Rechtsdienstleistungsregister einzutragenden Angaben enthalten muss, sind zur Prüfung der Voraussetzungen nach § 12 Abs. 1 Nr. 1 und 2 sowie Abs. 4 beizubringen:
 
 1.  eine zusammenfassende Darstellung des beruflichen Ausbildungsgangs und der bisherigen Berufsausübung,
 
@@ -254,7 +262,7 @@ Die Registrierung kann auf einen Teilbereich der in Satz 1 genannten Bereiche be
 
 
 
-In den Fällen des § 12 Abs. 4 müssen die in Satz 4 genannten Unterlagen sowie Unterlagen zum Nachweis der in § 12 Abs. 4 Satz 2 genannten Voraussetzungen für jede qualifizierte Person gesondert beigebracht werden.
+In den Fällen des § 12 Abs. 4 müssen die in Satz 3 genannten Unterlagen sowie Unterlagen zum Nachweis der in § 12 Abs. 4 Satz 2 genannten Voraussetzungen für jede qualifizierte Person gesondert beigebracht werden.
 
 (2) Zur Prüfung der Voraussetzungen nach § 10 Absatz 1 Satz 1 Nummer 1, § 12 Absatz 1 Nummer 2 sowie § 5 Absatz 1 ist mit dem Antrag auf Registrierung einer Inkassodienstleistung eine inhaltliche Darstellung der beabsichtigten Tätigkeiten beizufügen. Diese muss insbesondere Angaben dazu enthalten,
 
@@ -266,13 +274,13 @@ In den Fällen des § 12 Abs. 4 müssen die in Satz 4 genannten Unterlagen sowie
 
 
 
-(3) Über den Antrag ist innerhalb einer Frist von drei Monaten zu entscheiden; § 42a Absatz 2 Satz 2 bis 4 des Verwaltungsverfahrensgesetzes gilt entsprechend. Für Entscheidungen über den Versagungsgrund des § 12 Absatz 1 Nummer 1 Buchstabe a gilt § 15 der Bundesrechtsanwaltsordnung entsprechend. Wenn die Registrierungsvoraussetzungen nach § 12 Absatz 1 Nummer 1 und 2 sowie Absatz 4 vorliegen, fordert die zuständige Behörde den Antragsteller vor Ablauf der Frist nach Satz 1 auf, den Nachweis über die Berufshaftpflichtversicherung sowie über die Erfüllung von Bedingungen (§ 10 Absatz 3 Satz 1) zu erbringen. Sobald diese Nachweise erbracht sind, nimmt sie die Registrierung vor und veranlasst ihre öffentliche Bekanntmachung im Rechtsdienstleistungsregister. Erachtet die zuständige Behörde eine Nebenleistung, zu der Angaben nach Absatz 2 Satz 2 Nummer 2 erfolgt sind, als nicht zulässig, so hat sie dies dem Antragsteller spätestens mit der Registrierung der Inkassodienstleistung mitzuteilen.
+(3) Über den Antrag ist innerhalb einer Frist von drei Monaten zu entscheiden; § 42a Absatz 2 Satz 2 bis 4 des Verwaltungsverfahrensgesetzes gilt entsprechend. Für Entscheidungen über den Versagungsgrund des § 12 Absatz 1 Nummer 1 Buchstabe a gilt § 15 der Bundesrechtsanwaltsordnung entsprechend. Wenn die Registrierungsvoraussetzungen nach § 12 Absatz 1 Nummer 1 und 2 sowie Absatz 4 vorliegen, fordert das Bundesamt für Justiz den Antragsteller vor Ablauf der Frist nach Satz 1 auf, den Nachweis über die Berufshaftpflichtversicherung sowie über die Erfüllung von Bedingungen (§ 10 Absatz 3 Satz 1) zu erbringen. Sobald diese Nachweise erbracht sind, nimmt es die Registrierung vor und veranlasst ihre öffentliche Bekanntmachung im Rechtsdienstleistungsregister. Erachtet das Bundesamt für Justiz eine Nebenleistung, zu der Angaben nach Absatz 2 Satz 2 Nummer 2 erfolgt sind, als nicht zulässig, so hat es dies dem Antragsteller spätestens mit der Registrierung der Inkassodienstleistung mitzuteilen.
 
-(4) Registrierte Personen oder ihre Rechtsnachfolger müssen alle Änderungen, die sich auf die Registrierung oder den Inhalt des Rechtsdienstleistungsregisters auswirken, der zuständigen Behörde unverzüglich in Textform mitteilen. Diese veranlasst die notwendigen Registrierungen und ihre öffentliche Bekanntmachung im Rechtsdienstleistungsregister. Wirkt sich eine Verlegung der Hauptniederlassung auf die Zuständigkeit nach Absatz 1 Satz 1 aus, so gibt die Behörde den Vorgang an die Behörde ab, die für den Ort der neuen Hauptniederlassung zuständig ist. Diese unterrichtet die registrierte Person über die erfolgte Übernahme, registriert die Änderung und veranlasst ihre öffentliche Bekanntmachung im Rechtsdienstleistungsregister.
+(4) Registrierte Personen oder ihre Rechtsnachfolger müssen alle Änderungen, die sich auf die Registrierung oder den Inhalt des Rechtsdienstleistungsregisters auswirken, dem Bundesamt für Justiz unverzüglich in Textform mitteilen. Dieses veranlasst die notwendigen Registrierungen und ihre öffentliche Bekanntmachung im Rechtsdienstleistungsregister.
 
-(5) Inkassodienstleister, die Tätigkeiten auf anderen als bereits zuvor mitgeteilten Rechtsgebieten erbringen wollen, haben diese Tätigkeiten unverzüglich der zuständigen Behörde in Textform mitzuteilen. Satz 1 gilt entsprechend, wenn andere als bereits zuvor mitgeteilte Nebenleistungen erbracht werden sollen. Erachtet die zuständige Behörde eine nach Satz 2 mitgeteilte Nebenleistung als nicht zulässig, so hat sie dies dem Inkassodienstleister innerhalb von zwei Monaten mitzuteilen.
+(5) Inkassodienstleister, die Tätigkeiten auf anderen als bereits zuvor mitgeteilten Rechtsgebieten erbringen wollen, haben diese Tätigkeiten unverzüglich dem Bundesamt für Justiz in Textform mitzuteilen. Satz 1 gilt entsprechend, wenn andere als bereits zuvor mitgeteilte Nebenleistungen erbracht werden sollen. Erachtet das Bundesamt für Justiz eine nach Satz 2 mitgeteilte Nebenleistung als nicht zulässig, so hat es dies dem Inkassodienstleister innerhalb von zwei Monaten mitzuteilen.
 
-(6) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Registrierungsverfahrens und des Meldeverfahrens nach § 15 zu regeln. Dabei sind insbesondere Aufbewahrungs- und Löschungsfristen vorzusehen.
+(6) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des Registrierungsverfahrens und des Meldeverfahrens nach § 15 zu regeln. Dabei sind insbesondere Aufbewahrungs- und Löschungsfristen vorzusehen.
 
 
 ### § 13a Darlegungs- und Informationspflichten bei Inkassodienstleistungen gegenüber Privatpersonen
@@ -434,13 +442,13 @@ Inkassodienstleister haben fremde Gelder unverzüglich an eine empfangsberechtig
 
 ### § 13h Aufsichtsmaßnahmen
 
-(1) Die zuständige Behörde übt die Aufsicht über die Einhaltung dieses Gesetzes aus. Die Aufsicht umfasst zudem die Einhaltung anderer Gesetze, soweit sich aus diesen Vorgaben für die berufliche Tätigkeit der registrierten Personen ergeben.
+(1) Das Bundesamt für Justiz übt die Aufsicht über die Einhaltung dieses Gesetzes aus. Die Aufsicht umfasst zudem die Einhaltung anderer Gesetze, soweit sich aus diesen Vorgaben für die berufliche Tätigkeit der registrierten Personen ergeben. Das Bundesamt für Justiz ist zuständige Stelle im Sinne des § 117 Absatz 2 des Versicherungsvertragsgesetzes.
 
-(2) Die zuständige Behörde trifft gegenüber Personen, die Rechtsdienstleistungen erbringen, Maßnahmen, um die Einhaltung der in Absatz 1 genannten Gesetze sicherzustellen. Sie kann insbesondere anordnen, dass ein bestimmtes Verhalten zu unterlassen ist. Eine solche Anordnung kommt insbesondere zur Klärung einer Rechtsfrage von grundsätzlicher Bedeutung oder bei einem erheblichen oder wiederholten Verstoß gegen Rechtsvorschriften in Betracht.
+(2) Das Bundesamt für Justiz trifft gegenüber registrierten Personen Maßnahmen, um die Einhaltung der in Absatz 1 genannten Gesetze sicherzustellen. Es kann insbesondere anordnen, dass ein bestimmtes Verhalten zu unterlassen ist. Eine solche Anordnung kommt insbesondere zur Klärung einer Rechtsfrage von grundsätzlicher Bedeutung oder bei einem erheblichen oder wiederholten Verstoß gegen Rechtsvorschriften in Betracht.
 
-(3) Obliegt die Kontrolle der Einhaltung von Vorgaben im Sinne des Absatzes 1 Satz 2 vorrangig einer anderen Behörde oder ist in Bezug auf solche Vorgaben ein sonstiges Verfahren anhängig, so hat die nach diesem Gesetz zuständige Behörde in der Regel den Ausgang der Prüfung der anderen Behörde oder des sonstigen Verfahrens abzuwarten und erst im Anschluss daran zu entscheiden, ob noch Maßnahmen nach diesem Gesetz erforderlich sind.
+(3) Obliegt die Kontrolle der Einhaltung von Vorgaben im Sinne des Absatzes 1 Satz 2 vorrangig einer anderen Behörde oder ist in Bezug auf solche Vorgaben ein sonstiges Verfahren anhängig, so hat das Bundesamt für Justiz in der Regel den Ausgang der Prüfung der anderen Behörde oder des sonstigen Verfahrens abzuwarten und erst im Anschluss daran zu entscheiden, ob noch Maßnahmen nach diesem Gesetz erforderlich sind.
 
-(4) Die zuständige Behörde kann einer Person, die Rechtsdienstleistungen erbringt, den Betrieb vorübergehend ganz oder teilweise untersagen, wenn begründete Tatsachen die Annahme rechtfertigen, dass
+(4) Das Bundesamt für Justiz kann einer Person, die Rechtsdienstleistungen erbringt, den Betrieb vorübergehend ganz oder teilweise untersagen, wenn begründete Tatsachen die Annahme rechtfertigen, dass
 
 1.  eine Voraussetzung für die Registrierung nach § 12 weggefallen ist oder
 
@@ -450,14 +458,29 @@ Inkassodienstleister haben fremde Gelder unverzüglich an eine empfangsberechtig
 
 
 
-(5) Soweit es zur Erfüllung der der zuständigen Behörde als Aufsichtsbehörde übertragenen Aufgaben erforderlich ist, hat die Person, die Rechtsdienstleistungen erbringt, der zuständigen Behörde und den in ihrem Auftrag handelnden Personen das Betreten der Geschäftsräume während der üblichen Betriebszeiten zu gestatten, auf Verlangen die in Betracht kommenden Bücher, Aufzeichnungen, Belege, Schriftstücke und sonstigen Unterlagen in geeigneter Weise zur Einsicht vorzulegen, auch soweit sie elektronisch geführt werden, Auskunft zu erteilen und die erforderliche Unterstützung zu gewähren. Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft verweigern, wenn er sich damit selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr der Verfolgung wegen einer Straftat oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Er ist auf dieses Recht hinzuweisen.
+(5) Soweit es zur Erfüllung der Aufgaben der Aufsichtsbehörde erforderlich ist, hat die registrierte Person ihr und den in ihrem Auftrag handelnden Personen
+
+1.  das Betreten der Geschäftsräume während der üblichen Betriebszeiten zu gestatten,
+
+
+2.  auf Verlangen die in Betracht kommenden Bücher und Dokumente, auch soweit sie elektronisch geführt werden, in geeigneter Weise zur Einsicht vorzulegen,
+
+
+3.  Auskunft zu erteilen und
+
+
+4.  die sonst erforderliche Unterstützung zu gewähren.
+
+
+
+Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft verweigern, wenn er sich damit selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr der Verfolgung wegen einer Straftat oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Er ist auf dieses Recht hinzuweisen.
 
 (6) In Beschwerdeverfahren teilt die Aufsichtsbehörde dem Beschwerdeführer ihre Entscheidung mit, sobald das Verfahren bei ihr abgeschlossen ist. In der Mitteilung sind die wesentlichen Gründe für die Entscheidung kurz darzustellen. Die Mitteilung ist nicht anfechtbar.
 
 
 ### § 14 Widerruf der Registrierung
 
-Die zuständige Behörde widerruft die Registrierung unbeschadet des § 49 des Verwaltungsverfahrensgesetzes oder entsprechender landesrechtlicher Vorschriften,
+Das Bundesamt für Justiz widerruft die Registrierung unbeschadet des § 49 des Verwaltungsverfahrensgesetzes oder entsprechender landesrechtlicher Vorschriften,
 
 1.  wenn begründete Tatsachen die Annahme rechtfertigen, dass die registrierte Person oder eine qualifizierte Person die erforderliche persönliche Eignung oder Zuverlässigkeit nicht mehr besitzt; dies ist in der Regel der Fall, wenn einer der in § 12 Abs. 1 Nr. 1 genannten Gründe nachträglich eintritt oder die registrierte Person beharrlich Änderungsmitteilungen nach § 13 Absatz 4 Satz 1 oder Mitteilungen nach § 13 Absatz 5 Satz 1 oder 2 unterlässt,
 
@@ -477,16 +500,16 @@ Für die Entscheidung über einen Widerruf nach Satz 1 Nummer 1 in Verbindung mi
 
 ### § 14a Bestellung eines Abwicklers für Rentenberater
 
-(1) Ist eine als Rentenberater registrierte Person (§ 10 Absatz 1 Satz 1 Nummer 2) verstorben oder wurde ihre Registrierung zurückgenommen oder widerrufen, so kann die für die Registrierung zuständige Behörde einen Abwickler für ihre Praxis bestellen. Der Abwickler muss Rechtsanwalt sein oder eine Registrierung für denselben Bereich besitzen wie die registrierte Person, deren Praxis abzuwickeln ist.
+(1) Ist eine als Rentenberater registrierte Person (§ 10 Absatz 1 Satz 1 Nummer 2) verstorben oder wurde ihre Registrierung zurückgenommen oder widerrufen, so kann das Bundesamt für Justiz einen Abwickler für ihre Praxis bestellen. Der Abwickler muss Rechtsanwalt sein oder eine Registrierung für denselben Bereich besitzen wie die registrierte Person, deren Praxis abzuwickeln ist.
 
-(2) Für die Bestellung und Durchführung der Abwicklung gelten § 53 Absatz 4 Satz 3, § 54 Absatz 1 Satz 2 und 3, Absatz 3 und 4 Satz 1 bis 3 sowie § 55 Absatz 1 Satz 4 und 5, Absatz 2 Satz 1 und 4, Absatz 3 Satz 2 und Absatz 4 der Bundesrechtsanwaltsordnung entsprechend mit der Maßgabe, dass an die Stelle des Vorstands der Rechtsanwaltskammer die Behörde tritt, die den Abwickler bestellt hat.
+(2) Für die Bestellung und Durchführung der Abwicklung gelten § 53 Absatz 4 Satz 3, § 54 Absatz 1 Satz 2 und 3, Absatz 3 und 4 Satz 1 bis 3 sowie § 55 Absatz 1 Satz 4 und 5, Absatz 2 Satz 1 und 4, Absatz 3 Satz 2 und Absatz 4 der Bundesrechtsanwaltsordnung entsprechend mit der Maßgabe, dass an die Stelle des Vorstands der Rechtsanwaltskammer das Bundesamt für Justiz tritt.
 
 
 ### § 15 Vorübergehende Rechtsdienstleistungen
 
 (1) Natürliche und juristische Personen sowie rechtsfähige Personengesellschaften, die in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz zur Ausübung eines in § 10 Absatz 1 Satz 1 Nummer 1 oder 2 genannten oder eines vergleichbaren Berufs rechtmäßig niedergelassen sind, dürfen diesen Beruf in der Bundesrepublik Deutschland mit denselben Rechten und Pflichten wie eine nach § 10 Absatz 1 Satz 1 Nummer 1 oder 2 registrierte Person vorübergehend und gelegentlich ausüben (vorübergehende Rechtsdienstleistungen). Wenn weder der Beruf noch die Ausbildung zu diesem Beruf im Staat der Niederlassung reglementiert sind, gilt dies nur, wenn die Person oder Gesellschaft den Beruf in den in Satz 1 genannten Staaten während der vorhergehenden zehn Jahre mindestens ein Jahr ausgeübt hat. Ob Rechtsdienstleistungen vorübergehend und gelegentlich erbracht werden, ist insbesondere anhand ihrer Dauer, Häufigkeit, regelmäßigen Wiederkehr und Kontinuität zu beurteilen.
 
-(2) Vorübergehende Rechtsdienstleistungen sind nur zulässig, wenn die Person oder Gesellschaft vor der ersten Erbringung von Dienstleistungen im Inland einer nach § 19 zuständigen Behörde in Textform eine Meldung mit dem Inhalt nach Satz 3 erstattet. Das Meldeverfahren kann auch über eine einheitliche Stelle nach den §§ 71a bis 71e des Verwaltungsverfahrensgesetzes abgewickelt werden. Die Meldung muss neben den nach § 16 Absatz 2 Satz 1 Nummer 1 Buchstabe a bis c und Satz 2 im Rechtsdienstleistungsregister öffentlich bekanntzumachenden Angaben enthalten:
+(2) Vorübergehende Rechtsdienstleistungen sind nur zulässig, wenn die Person oder Gesellschaft vor der ersten Erbringung von Dienstleistungen im Inland dem Bundesamt für Justiz in Textform eine Meldung mit dem Inhalt nach Satz 3 erstattet. Das Meldeverfahren kann auch über eine einheitliche Stelle nach den §§ 71a bis 71e des Verwaltungsverfahrensgesetzes abgewickelt werden. Die Meldung muss neben den nach § 16 Absatz 2 Satz 1 Nummer 1 Buchstabe a bis c und Satz 2 im Rechtsdienstleistungsregister öffentlich bekanntzumachenden Angaben enthalten:
 
 1.  eine Bescheinigung darüber, dass die Person oder Gesellschaft in einem Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz rechtmäßig zur Ausübung eines der in § 10 Absatz 1 Satz 1 Nummer 1 oder 2 genannten Berufe oder eines vergleichbaren Berufs niedergelassen ist und dass ihr die Ausübung dieser Tätigkeit zum Zeitpunkt der Vorlage der Bescheinigung nicht, auch nicht vorübergehend, untersagt ist,
 
@@ -506,13 +529,13 @@ Für die Entscheidung über einen Widerruf nach Satz 1 Nummer 1 in Verbindung mi
 
 § 13 Absatz 4 Satz 1 und 2 gilt entsprechend. Die Meldung ist jährlich zu wiederholen, wenn die Person oder Gesellschaft nach Ablauf eines Jahres erneut vorübergehende Rechtsdienstleistungen im Inland erbringen will. In diesem Fall ist der Nachweis oder die Erklärung nach Satz 3 Nummer 3 erneut beizufügen.
 
-(3) Sobald die Meldung nach Absatz 2 vollständig vorliegt, nimmt die zuständige Behörde eine vorübergehende Registrierung oder ihre Verlängerung um ein Jahr vor und veranlasst die öffentliche Bekanntmachung im Rechtsdienstleistungsregister. Das Verfahren ist kostenfrei.
+(3) Sobald die Meldung nach Absatz 2 vollständig vorliegt, nimmt das Bundesamt für Justiz eine vorübergehende Registrierung oder ihre Verlängerung um ein Jahr vor und veranlasst die öffentliche Bekanntmachung im Rechtsdienstleistungsregister. Das Verfahren ist kostenfrei.
 
 (4) Vorübergehende Rechtsdienstleistungen sind unter der in der Sprache des Niederlassungsstaats für die Tätigkeit bestehenden Berufsbezeichnung zu erbringen. Eine Verwechslung mit den in § 11 Abs. 4 aufgeführten Berufsbezeichnungen muss ausgeschlossen sein.
 
 (5) Vorübergehend registrierte Personen oder Gesellschaften, die ihren Beruf auf dem Gebiet der Bundesrepublik Deutschland ausüben, sind verpflichtet, eine Berufshaftpflichtversicherung zur Deckung der sich aus ihrer Berufstätigkeit in Deutschland ergebenden Haftpflichtgefahren für Vermögensschäden abzuschließen, die nach Art und Umfang den durch ihre berufliche Tätigkeit entstehenden Risiken angemessen ist. Ist der Person oder Gesellschaft der Abschluss einer solchen Versicherung nicht möglich oder unzumutbar, hat sie ihre Auftraggeberin oder ihren Auftraggeber vor ihrer Beauftragung auf diese Tatsache und deren Folgen in Textform hinzuweisen.
 
-(6) Die zuständige Behörde kann einer vorübergehend registrierten Person oder Gesellschaft die weitere Erbringung von Rechtsdienstleistungen untersagen, wenn aufgrund begründeter Tatsachen anzunehmen ist, dass sie dauerhaft unqualifizierte Rechtsdienstleistungen zum Nachteil der Rechtsuchenden oder des Rechtsverkehrs erbringen wird oder wenn sie in erheblichem Maß gegen Berufspflichten verstoßen hat. Die Voraussetzungen nach Satz 1 sind regelmäßig erfüllt, wenn die Person oder Gesellschaft
+(6) Das Bundesamt für Justiz kann einer vorübergehend registrierten Person oder Gesellschaft die weitere Erbringung von Rechtsdienstleistungen untersagen, wenn aufgrund begründeter Tatsachen anzunehmen ist, dass sie dauerhaft unqualifizierte Rechtsdienstleistungen zum Nachteil der Rechtsuchenden oder des Rechtsverkehrs erbringen wird oder wenn sie in erheblichem Maß gegen Berufspflichten verstoßen hat. Die Voraussetzungen nach Satz 1 sind regelmäßig erfüllt, wenn die Person oder Gesellschaft
 
 1.  im Staat der Niederlassung nicht mehr rechtmäßig niedergelassen ist oder ihr die Ausübung der Tätigkeit dort untersagt ist,
 
@@ -544,7 +567,7 @@ Für die Entscheidung über einen Widerruf nach Satz 1 Nummer 1 in Verbindung mi
 
 ### § 15b Betrieb ohne Registrierung
 
-Werden Rechtsdienstleistungen ohne erforderliche Registrierung oder vorübergehende Registrierung erbracht, so kann die zuständige Behörde die Fortsetzung des Betriebs verhindern.
+Werden Rechtsdienstleistungen ohne erforderliche Registrierung oder vorübergehende Registrierung erbracht, so kann das Bundesamt für Justiz die Fortsetzung des Betriebs verhindern.
 
 
 ## Teil 4 - Rechtsdienstleistungsregister
@@ -554,11 +577,11 @@ Werden Rechtsdienstleistungen ohne erforderliche Registrierung oder vorübergehe
 
 (1) Das Rechtsdienstleistungsregister dient der Information der Rechtsuchenden, der Personen, die Rechtsdienstleistungen anbieten, des Rechtsverkehrs und öffentlicher Stellen. Die Einsicht in das Rechtsdienstleistungsregister steht jedem unentgeltlich zu.
 
-(2) Im Rechtsdienstleistungsregister werden unter Angabe der nach § 9 Absatz 1 Satz 1, § 13 Absatz 1 Satz 1 oder 2 oder § 15 Absatz 2 Satz 1 zuständigen Behörde und des Datums der jeweiligen Registrierung nur öffentlich bekanntgemacht:
+(2) Im Rechtsdienstleistungsregister hat das Bundesamt für Justiz unter Angabe des Datums der jeweiligen Registrierung öffentlich bekanntzumachen:
 
 1.  die Registrierung von Personen, denen Rechtsdienstleistungen in einem oder mehreren der in § 10 Abs. 1 genannten Bereiche oder Teilbereiche erlaubt sind, unter Angabe
 
-    a)  ihres Familiennamens und Vornamens, ihres Namens oder ihrer Firma einschließlich ihrer gesetzlichen Vertreter sowie des Registergerichts und der Registernummer, unter der sie in das Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts-  oder Vereinsregister eingetragen sind,
+    a)  ihres Familiennamens und Vornamens, ihres Namens oder ihrer Firma einschließlich ihrer gesetzlichen Vertreter sowie des Registergerichts und der Registernummer, unter der sie in das Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister eingetragen sind,
 
 
     b)  ihres Gründungsjahres,
@@ -584,7 +607,7 @@ Werden Rechtsdienstleistungen ohne erforderliche Registrierung oder vorübergehe
 
 2.  die Registrierung von Personen oder Vereinigungen, denen die Erbringung von Rechtsdienstleistungen nach § 9 Abs. 1 bestandskräftig untersagt worden ist, unter Angabe
 
-    a)  ihres Familiennamens und Vornamens, ihres Namens oder ihrer Firma einschließlich ihrer gesetzlichen Vertreter sowie des Registergerichts und der Registernummer, unter der sie in das Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts-  oder Vereinsregister eingetragen sind,
+    a)  ihres Familiennamens und Vornamens, ihres Namens oder ihrer Firma einschließlich ihrer gesetzlichen Vertreter sowie des Registergerichts und der Registernummer, unter der sie in das Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister eingetragen sind,
 
 
     b)  ihres Gründungsjahres,
@@ -602,12 +625,12 @@ Werden Rechtsdienstleistungen ohne erforderliche Registrierung oder vorübergehe
 
 Bei öffentlichen Bekanntmachungen nach Satz 1 Nummer 1 und 2, die sich auf eine nicht im Gesellschaftsregister eingetragene Gesellschaft bürgerlichen Rechts beziehen, sind anstelle des Registergerichts und der Registernummer Name und Anschrift ihrer vertretungsberechtigten Gesellschafter anzugeben. Bei öffentlichen Bekanntmachungen nach Satz 1 Nummer 1 werden mit der Geschäftsanschrift auch die Telefonnummer und die E-Mail-Adresse der registrierten Person veröffentlicht, wenn sie in die Veröffentlichung dieser Daten in Textform eingewilligt hat. Wird ein Abwickler bestellt, ist auch dies unter Angabe von Familienname, Vorname und Anschrift des Abwicklers zu veröffentlichen.
 
-(3) Die öffentliche Bekanntmachung erfolgt durch eine zentrale und länderübergreifende Veröffentlichung im Internet unter der Adresse www.rechtsdienstleistungsregister.de. Die nach § 9 Absatz 1 Satz 1, § 13 Absatz 1 Satz 1 oder 2 oder § 15 Absatz 2 Satz 1 zuständige Behörde trägt die datenschutzrechtliche Verantwortung für die von ihr im Rechtsdienstleistungsregister veröffentlichten Daten, insbesondere für die Rechtmäßigkeit ihrer Erhebung, die Zulässigkeit ihrer Veröffentlichung und ihre Richtigkeit. Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der öffentlichen Bekanntmachung im Internet zu regeln.
+(3) Die öffentliche Bekanntmachung erfolgt durch eine Veröffentlichung im Internet unter der Adresse www.rechtsdienstleistungsregister.de. Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten der öffentlichen Bekanntmachung im Internet zu regeln.
 
 
 ### § 17 Löschung von Veröffentlichungen; Verordnungsermächtigung
 
-(1) Die im Rechtsdienstleistungsregister öffentlich bekanntgemachten Daten sind zu löschen
+(1) Das Bundesamt für Justiz hat die im Rechtsdienstleistungsregister öffentlich bekanntgemachten Daten zu löschen:
 
 1.  bei registrierten Personen mit dem Verzicht auf die Registrierung,
 
@@ -630,7 +653,7 @@ Bei öffentlichen Bekanntmachungen nach Satz 1 Nummer 1 und 2, die sich auf eine
 
 Wird im Fall des Satzes 1 Nummer 2 oder 4 ein Abwickler bestellt, erfolgt eine Löschung erst nach Beendigung der Abwicklung.
 
-(2) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Löschungsverfahrens zu regeln.
+(2) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des Löschungsverfahrens zu regeln.
 
 
 ## Teil 5 - Datenübermittlung und Zuständigkeiten, Bußgeldvorschriften
@@ -638,7 +661,7 @@ Wird im Fall des Satzes 1 Nummer 2 oder 4 ein Abwickler bestellt, erfolgt eine L
 
 ### § 18 Umgang mit personenbezogenen Daten; Verordnungsermächtigung
 
-(1) Die zuständigen Behörden dürfen einander und anderen für die Durchführung dieses Gesetzes zuständigen Behörden Daten über Registrierungen nach § 9 Abs. 2, § 10 Abs. 1 und § 15 Abs. 3 übermitteln, soweit die Kenntnis der Daten zur Durchführung dieses Gesetzes erforderlich ist. Sie dürfen die nach § 16 Abs. 2 öffentlich bekanntzumachenden Daten längstens für die Dauer von drei Jahren nach Löschung der Veröffentlichung zentral und länderübergreifend in einem Dateisystem speichern und aus diesem im automatisierten Verfahren abrufen; § 16 Abs. 3 Satz 2 gilt entsprechend. Gerichte und Behörden dürfen der zuständigen Behörde personenbezogene Daten übermitteln, soweit deren Kenntnis für folgende Zwecke erforderlich ist:
+(1) Gerichte und Behörden dürfen dem Bundesamt für Justiz personenbezogene Daten übermitteln, soweit deren Kenntnis für folgende Zwecke erforderlich ist:
 
 1.  die Registrierung oder die Rücknahme oder den Widerruf der Registrierung,
 
@@ -656,30 +679,27 @@ Wird im Fall des Satzes 1 Nummer 2 oder 4 ein Abwickler bestellt, erfolgt eine L
 
 
 
-Satz 3 gilt nur, soweit durch die Übermittlung der Daten schutzwürdige Interessen der Person nicht beeinträchtigt werden oder soweit das öffentliche Interesse das Geheimhaltungsinteresse der Person überwiegt.
+Satz 1 gilt nur, soweit durch die Übermittlung der Daten schutzwürdige Interessen der Person nicht beeinträchtigt werden oder soweit das öffentliche Interesse das Geheimhaltungsinteresse der Person überwiegt.
 
-(2) Für die Verwaltungszusammenarbeit mit Behörden anderer Mitgliedstaaten der Europäischen Union, anderer Vertragsstaaten des Europäischen Wirtschaftsraums und der Schweiz gelten die §§ 8a bis 8d des Verwaltungsverfahrensgesetzes entsprechend. Die zuständige Behörde nutzt für diese Verwaltungszusammenarbeit das Binnenmarkt-Informationssystem der Europäischen Union.
+(2) Für die Verwaltungszusammenarbeit mit Behörden anderer Mitgliedstaaten der Europäischen Union, anderer Vertragsstaaten des Europäischen Wirtschaftsraums und der Schweiz gelten die §§ 8a bis 8d des Verwaltungsverfahrensgesetzes entsprechend. Für diese Verwaltungszusammenarbeit ist das Binnenmarkt-Informationssystem der Europäischen Union zu nutzen.
 
-(2a) Wird in einem verwaltungsgerichtlichen Verfahren festgestellt, dass eine Person bei einem Antrag auf Anerkennung ihrer Berufsqualifikation nach der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22; L 271 vom 16.10.2007, S. 18; L 93 vom 4.4.2008, S. 28; L 33 vom 3.2.2009, S. 49; L 305 vom 24.10.2014, S. 115), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L 354 vom 28.12.2013, S. 132; L 268 vom 15.10.2015, S. 35; L 95 vom 9.4.2016, S. 20) geändert worden ist, in der jeweils geltenden Fassung einen gefälschten Berufsqualifikationsnachweis verwendet hat, hat die zuständige Behörde die Angaben zur Identität der Person und die Tatsache, dass sie einen gefälschten Berufsqualifikationsnachweis verwendet hat, binnen drei Tagen nach Rechtskraft der gerichtlichen Entscheidung über das Binnenmarkt-Informationssystem den anderen Mitgliedstaaten der Europäischen Union, den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz mitzuteilen. § 38 Absatz 2 des Gesetzes über die Tätigkeit europäischer Rechtsanwälte in Deutschland gilt entsprechend.
+(2a) Wird in einem verwaltungsgerichtlichen Verfahren festgestellt, dass eine Person bei einem Antrag auf Anerkennung ihrer Berufsqualifikation nach der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22; L 271 vom 16.10.2007, S. 18; L 93 vom 4.4.2008, S. 28; L 33 vom 3.2.2009, S. 49; L 305 vom 24.10.2014, S. 115), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L 354 vom 28.12.2013, S. 132; L 268 vom 15.10.2015, S. 35; L 95 vom 9.4.2016, S. 20) geändert worden ist, in der jeweils geltenden Fassung einen gefälschten Berufsqualifikationsnachweis verwendet hat, hat das Bundesamt für Justiz die Angaben zur Identität der Person und die Tatsache, dass sie einen gefälschten Berufsqualifikationsnachweis verwendet hat, binnen drei Tagen nach Rechtskraft der gerichtlichen Entscheidung über das Binnenmarkt-Informationssystem den anderen Mitgliedstaaten der Europäischen Union, den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz mitzuteilen. § 38 Absatz 2 des Gesetzes über die Tätigkeit europäischer Rechtsanwälte in Deutschland gilt entsprechend.
 
-(3) Das Bundesministerium der Justiz wird ermächtigt, die Einzelheiten des Umgangs mit personenbezogenen Daten, insbesondere der Veröffentlichung in dem Rechtsdienstleistungsregister, der Einsichtnahme in das Register, der Datenübermittlung einschließlich des automatisierten Datenabrufs und der Amtshilfe, durch Rechtsverordnung mit Zustimmung des Bundesrates zu regeln.
+(3) Das Bundesministerium der Justiz wird ermächtigt, die Einzelheiten des Umgangs mit personenbezogenen Daten, insbesondere der Veröffentlichung in dem Rechtsdienstleistungsregister, der Einsichtnahme in das Register, der Datenübermittlung einschließlich des automatisierten Datenabrufs und der Amtshilfe, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu regeln.
 
 
-### § 19 Zuständigkeit und Übertragung von Befugnissen
+### § 19 (weggefallen)
 
-(1) Zuständig für die Durchführung dieses Gesetzes sind die Landesjustizverwaltungen, die zugleich zuständige Stellen im Sinn des § 117 Abs. 2 des Gesetzes über den Versicherungsvertrag sind. Mehrere Länder können eine Aufgabenwahrnehmung durch eine Landesjustizverwaltung vereinbaren.
-
-(2) Die Landesregierungen werden ermächtigt, die Aufgaben und Befugnisse, die den Landesjustizverwaltungen nach diesem Gesetz zustehen, durch Rechtsverordnung auf diesen nachgeordnete Behörden zu übertragen. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 ### § 20 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
-1.  einer vollziehbaren Anordnung nach § 9 Absatz 1 Satz 1, § 13h Absatz 2 Satz 3 oder § 15 Absatz 6 Satz 1, auch in Verbindung mit Absatz 7 Satz 2, zuwiderhandelt,
+1.  entgegen § 3 eine außergerichtliche Rechtsdienstleistung geschäftsmäßig erbringt,
 
 
-2.  ohne Registrierung nach § 10 Absatz 1 eine dort genannte Rechtsdienstleistung erbringt,
+2.  einer vollziehbaren Anordnung nach § 9 Absatz 1 Satz 1, § 13h Absatz 2 Satz 3 oder § 15 Absatz 6 Satz 1, auch in Verbindung mit Absatz 7 Satz 2, zuwiderhandelt,
 
 
 3.  einer vollziehbaren Auflage nach § 10 Absatz 3 Satz 1 zuwiderhandelt,
@@ -698,19 +718,15 @@ Satz 3 gilt nur, soweit durch die Übermittlung der Daten schutzwürdige Interes
 1.  entgegen § 13 Absatz 4 Satz 1, auch in Verbindung mit § 15 Absatz 2 Satz 4, auch in Verbindung mit § 15 Absatz 7 Satz 2, entgegen § 13 Absatz 5 Satz 1, auch in Verbindung mit Satz 2, oder entgegen § 13a Absatz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 
-2.  entgegen § 13a Absatz 1 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+2.  entgegen § 13a Absatz 1 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt oder
 
 
-3.  entgegen § 13a Absatz 3 oder 4 Satz 1 einen Hinweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gibt,
-
-
-4.  entgegen § 15 Absatz 2 Satz 1, auch in Verbindung mit Absatz 7 Satz 2, eine vorübergehende Rechtsdienstleistung erbringt oder
-
-
-5.  entgegen § 15 Absatz 2 Satz 5, auch in Verbindung mit Absatz 7 Satz 2, eine dort genannte Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig wiederholt.
+3.  entgegen § 13a Absatz 3 oder 4 Satz 1 einen Hinweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gibt.
 
 
 
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+
+(4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
 

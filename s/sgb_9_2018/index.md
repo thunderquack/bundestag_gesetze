@@ -112,7 +112,7 @@ Zur Teilhabe am Leben in der Gesellschaft werden erbracht:
 4.  die Träger der gesetzlichen Rentenversicherung für Leistungen nach § 5 Nummer 1 bis 3, der Träger der Alterssicherung der Landwirte für Leistungen nach § 5 Nummer 1 und 3,
 
 
-5.  die Träger der Sozialen Entschädigung für Leistungen nach § 5 Nummer 1 bis 5,
+5.  die Träger der Sozialen Entschädigung und der Träger der Soldatenentschädigung für Leistungen nach § 5 Nummer 1 bis 5
 
 
 6.  die Träger der öffentlichen Jugendhilfe für Leistungen nach § 5 Nummer 1, 2, 4 und 5 sowie
@@ -124,8 +124,6 @@ Zur Teilhabe am Leben in der Gesellschaft werden erbracht:
 
 
 (2) Die Rehabilitationsträger nehmen ihre Aufgaben selbständig und eigenverantwortlich wahr.
-
-(3) Die Bundesagentur für Arbeit ist auch Rehabilitationsträger für die Leistungen zur Teilhabe am Arbeitsleben für erwerbsfähige Leistungsberechtigte mit Behinderungen im Sinne des Zweiten Buches, sofern nicht ein anderer Rehabilitationsträger zuständig ist. Die Zuständigkeit der Jobcenter nach § 6d des Zweiten Buches für die Leistungen zur beruflichen Teilhabe von Menschen mit Behinderungen nach § 16 Absatz 1 des Zweiten Buches bleibt unberührt. Die Bundesagentur für Arbeit stellt den Rehabilitationsbedarf fest. Sie beteiligt das zuständige Jobcenter nach § 19 Absatz 1 Satz 2 und berät das Jobcenter zu den von ihm zu erbringenden Leistungen zur Teilhabe am Arbeitsleben nach § 16 Absatz 1 Satz 3 des Zweiten Buches. Das Jobcenter entscheidet über diese Leistungen innerhalb der in Kapitel 4 genannten Fristen.
 
 
 #### § 7 Vorbehalt abweichender Regelungen
@@ -157,7 +155,7 @@ Zur Teilhabe am Leben in der Gesellschaft werden erbracht:
 
 (3) Absatz 1 ist auch anzuwenden, um durch Leistungen zur Teilhabe Pflegebedürftigkeit zu vermeiden, zu überwinden, zu mindern oder eine Verschlimmerung zu verhüten. Die Aufgaben der Pflegekassen als Träger der sozialen Pflegeversicherung bei der Sicherung des Vorrangs von Rehabilitation vor Pflege nach den §§ 18a und 31 des Elften Buches bleiben unberührt.
 
-(4) Absatz 1 gilt auch für die Jobcenter im Rahmen ihrer Zuständigkeit für Leistungen zur beruflichen Teilhabe nach § 6 Absatz 3 mit der Maßgabe, dass sie mögliche Rehabilitationsbedarfe erkennen und auf eine Antragstellung beim voraussichtlich zuständigen Rehabilitationsträger hinwirken sollen.
+(4) Absatz 1 gilt auch für die Jobcenter mit der Maßgabe, dass sie mögliche Rehabilitationsbedarfe erkennen und auf eine Antragstellung beim voraussichtlich zuständigen Rehabilitationsträger hinwirken sollen.
 
 
 #### § 10 Sicherung der Erwerbsfähigkeit
@@ -208,7 +206,7 @@ Zur Teilhabe am Leben in der Gesellschaft werden erbracht:
 
 Die Rehabilitationsträger benennen Ansprechstellen, die Informationsangebote nach Satz 2 an Leistungsberechtigte, an Arbeitgeber und an andere Rehabilitationsträger vermitteln. Für die Zusammenarbeit der Ansprechstellen gilt § 15 Absatz 3 des Ersten Buches entsprechend.
 
-(2) Absatz 1 gilt auch für Jobcenter im Rahmen ihrer Zuständigkeit für Leistungen zur beruflichen Teilhabe nach § 6 Absatz 3, für die Integrationsämter in Bezug auf Leistungen und sonstige Hilfen für schwerbehinderte Menschen nach Teil 3 und für die Pflegekassen als Träger der sozialen Pflegeversicherung nach dem Elften Buch.
+(2) Absatz 1 gilt auch für Jobcenter, für die Integrationsämter in Bezug auf Leistungen und sonstige Hilfen für schwerbehinderte Menschen nach Teil 3 und für die Pflegekassen als Träger der sozialen Pflegeversicherung nach dem Elften Buch.
 
 (3) Die Rehabilitationsträger, Integrationsämter und Pflegekassen können die Informationsangebote durch ihre Verbände und Vereinigungen bereitstellen und vermitteln lassen. Die Jobcenter können die Informationsangebote durch die Bundesagentur für Arbeit bereitstellen und vermitteln lassen.
 
@@ -298,7 +296,7 @@ es sei denn, die Rehabilitationsträger vereinbaren Abweichendes. Hat ein Rehabi
 
 (5) Hat der leistende Rehabilitationsträger in den Fällen des § 18 Aufwendungen für selbstbeschaffte Leistungen nach dem Leistungsgesetz eines nach § 15 beteiligten Rehabilitationsträgers zu erstatten, kann er von dem beteiligten Rehabilitationsträger einen Ausgleich verlangen, soweit dieser durch die Erstattung nach § 18 Absatz 4 Satz 2 von seiner Leistungspflicht befreit wurde. Hat ein beteiligter Rehabilitationsträger den Eintritt der Erstattungspflicht für selbstbeschaffte Leistungen zu vertreten, umfasst der Ausgleich den gesamten Erstattungsbetrag abzüglich des Betrages, der sich aus der bei anderen Rehabilitationsträgern eingetretenen Leistungsbefreiung ergibt.
 
-(6) Für den Erstattungsanspruch des Trägers der Eingliederungshilfe, der öffentlichen Jugendhilfe und der Sozialen Entschädigung gilt § 108 Absatz 2 des Zehnten Buches entsprechend.
+(6) Für den Erstattungsanspruch des Trägers der Eingliederungshilfe, der öffentlichen Jugendhilfe, der Sozialen Entschädigung und der Soldatenentschädigung gilt § 108 Absatz 2 des Zehnten Buches entsprechend.
 
 
 #### § 17 Begutachtung
@@ -345,7 +343,7 @@ es sei denn, die Rehabilitationsträger vereinbaren Abweichendes. Hat ein Rehabi
 
 (6) Konnte der Rehabilitationsträger eine unaufschiebbare Leistung nicht rechtzeitig erbringen oder hat er eine Leistung zu Unrecht abgelehnt und sind dadurch Leistungsberechtigten für die selbstbeschaffte Leistung Kosten entstanden, sind diese vom Rehabilitationsträger in der entstandenen Höhe zu erstatten, soweit die Leistung notwendig war. Der Anspruch auf Erstattung richtet sich gegen den Rehabilitationsträger, der zum Zeitpunkt der Selbstbeschaffung über den Antrag entschieden hat. Lag zum Zeitpunkt der Selbstbeschaffung noch keine Entscheidung vor, richtet sich der Anspruch gegen den leistenden Rehabilitationsträger.
 
-(7) Die Absätze 1 bis 5 gelten nicht für die Träger der Eingliederungshilfe, der öffentlichen Jugendhilfe und der Sozialen Entschädigung, soweit dieser Leistungen zur Teilhabe nach § 62 Satz 1 Nummer 1 bis 3 des Vierzehnten Buches erbringt.
+(7) Die Absätze 1 bis 5 gelten nicht für die Träger der Eingliederungshilfe, der öffentlichen Jugendhilfe, der Sozialen Entschädigung, soweit dieser Leistungen zur Teilhabe nach § 62 Satz 1 Nummer 1 bis 3 des Vierzehnten Buches erbringt, sowie der Soldatenentschädigung, soweit dieser Leistungen nach den Kapiteln 4 und 5 des Soldatenentschädigungsgesetzes erbringt.
 
 
 #### § 19 Teilhabeplan
@@ -423,7 +421,7 @@ Wenn Leistungsberechtigte die Erstellung eines Teilhabeplans wünschen und die V
 
 #### § 21 Besondere Anforderungen an das Teilhabeplanverfahren
 
-Ist der Träger der Eingliederungshilfe der für die Durchführung des Teilhabeplanverfahrens verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für die Gesamtplanung ergänzend; dabei ist das Gesamtplanverfahren ein Gegenstand des Teilhabeplanverfahrens. Ist der Träger der öffentlichen Jugendhilfe der für die Durchführung des Teilhabeplans verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für den Hilfeplan nach den §§ 36, 36b und 37c des Achten Buches ergänzend. Ist der Träger der Sozialen Entschädigung der für die Durchführung des Teilhabeplanverfahrens verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für das Fallmanagement nach § 30 des Vierzehnten Buches ergänzend.
+Ist der Träger der Eingliederungshilfe der für die Durchführung des Teilhabeplanverfahrens verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für die Gesamtplanung ergänzend; dabei ist das Gesamtplanverfahren ein Gegenstand des Teilhabeplanverfahrens. Ist der Träger der öffentlichen Jugendhilfe der für die Durchführung des Teilhabeplans verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für den Hilfeplan nach den §§ 36, 36b und 37c des Achten Buches ergänzend. Ist der Träger der Sozialen Entschädigung der für die Durchführung des Teilhabeplanverfahrens verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für das Fallmanagement nach § 30 des Vierzehnten Buches ergänzend. Ist der Träger der Soldatenentschädigung der für die Durchführung des Teilhabeplanverfahrens verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für das Fallmanagement nach dem Soldatenentschädigungsgesetz ergänzend.
 
 
 #### § 22 Einbeziehung anderer öffentlicher Stellen
@@ -566,11 +564,11 @@ ausführen. Der zuständige Rehabilitationsträger bleibt für die Ausführung d
 
 ##### § 29 Persönliches Budget
 
-(1) Auf Antrag der Leistungsberechtigten werden Leistungen zur Teilhabe durch die Leistungsform eines Persönlichen Budgets ausgeführt, um den Leistungsberechtigten in eigener Verantwortung ein möglichst selbstbestimmtes Leben zu ermöglichen. Bei der Ausführung des Persönlichen Budgets sind nach Maßgabe des individuell festgestellten Bedarfs die Rehabilitationsträger, die Pflegekassen und die Integrationsämter beteiligt. Das Persönliche Budget wird von den beteiligten Leistungsträgern trägerübergreifend als Komplexleistung erbracht. Das Persönliche Budget kann auch nicht trägerübergreifend von einem einzelnen Leistungsträger erbracht werden. Budgetfähig sind auch die neben den Leistungen nach Satz 1 erforderlichen Leistungen der Krankenkassen und der Pflegekassen, Leistungen der Träger der Unfallversicherung bei Pflegebedürftigkeit Leistungen der Träger der Sozialen Entschädigung zur Krankenbehandlung, bei Pflegebedürftigkeit und zur Weiterführung des Haushalts sowie Hilfe zur Pflege der Sozialhilfe, die sich auf alltägliche und regelmäßig wiederkehrende Bedarfe beziehen und als Geldleistungen oder durch Gutscheine erbracht werden können. An die Entscheidung sind die Leistungsberechtigten für die Dauer von sechs Monaten gebunden.
+(1) Auf Antrag der Leistungsberechtigten werden Leistungen zur Teilhabe durch die Leistungsform eines Persönlichen Budgets ausgeführt, um den Leistungsberechtigten in eigener Verantwortung ein möglichst selbstbestimmtes Leben zu ermöglichen. Bei der Ausführung des Persönlichen Budgets sind nach Maßgabe des individuell festgestellten Bedarfs die Rehabilitationsträger, die Pflegekassen und die Integrationsämter beteiligt. Das Persönliche Budget wird von den beteiligten Leistungsträgern trägerübergreifend als Komplexleistung erbracht. Das Persönliche Budget kann auch nicht trägerübergreifend von einem einzelnen Leistungsträger erbracht werden. Budgetfähig sind auch die neben den Leistungen nach Satz 1 erforderlichen Leistungen der Krankenkassen und der Pflegekassen, Leistungen der Träger der Unfallversicherung bei Pflegebedürftigkeit, Leistungen der Träger der Sozialen Entschädigung zur Krankenbehandlung, bei Pflegebedürftigkeit und zur Weiterführung des Haushalts, Leistungen des Trägers der Soldatenentschädigung zur medizinischen Versorgung und bei Pflegebedürftigkeit sowie Hilfe zur Pflege der Sozialhilfe, die sich auf alltägliche und regelmäßig wiederkehrende Bedarfe beziehen und als Geldleistungen oder durch Gutscheine erbracht werden können. An die Entscheidung sind die Leistungsberechtigten für die Dauer von sechs Monaten gebunden.
 
 (2) Persönliche Budgets werden in der Regel als Geldleistung ausgeführt, bei laufenden Leistungen monatlich. In begründeten Fällen sind Gutscheine auszugeben. Mit der Auszahlung oder der Ausgabe von Gutscheinen an die Leistungsberechtigten gilt deren Anspruch gegen die beteiligten Leistungsträger insoweit als erfüllt. Das Bedarfsermittlungsverfahren für laufende Leistungen wird in der Regel im Abstand von zwei Jahren wiederholt. In begründeten Fällen kann davon abgewichen werden. Persönliche Budgets werden auf der Grundlage der nach Kapitel 4 getroffenen Feststellungen so bemessen, dass der individuell festgestellte Bedarf gedeckt wird und die erforderliche Beratung und Unterstützung erfolgen kann. Dabei soll die Höhe des Persönlichen Budgets die Kosten aller bisher individuell festgestellten Leistungen nicht überschreiten, die ohne das Persönliche Budget zu erbringen sind. § 35a des Elften Buches bleibt unberührt.
 
-(3) Werden Leistungen zur Teilhabe in der Leistungsform des Persönlichen Budgets beantragt, ist der nach § 14 leistende Rehabilitationsträger für die Durchführung des Verfahrens zuständig. Satz 1 findet entsprechend Anwendung auf die Pflegekassen und die Integrationsämter sowie auf die Träger der Sozialen Entschädigung, soweit diese Leistungen nach Absatz 1 Satz 5 erbringen. Enthält das Persönliche Budget Leistungen, für die der Leistungsträger nach den Sätzen 1 und 2 nicht Leistungsträger nach § 6 Absatz 1 sein kann, leitet er den Antrag insoweit unverzüglich dem nach seiner Auffassung zuständigen Leistungsträger nach § 15 zu.
+(3) Werden Leistungen zur Teilhabe in der Leistungsform des Persönlichen Budgets beantragt, ist der nach § 14 leistende Rehabilitationsträger für die Durchführung des Verfahrens zuständig. Satz 1 findet entsprechend Anwendung auf die Pflegekassen und die Integrationsämter sowie auf die Träger der Sozialen Entschädigung und der Soldatenentschädigung, soweit diese Leistungen nach Absatz 1 Satz 5 erbringen. Enthält das Persönliche Budget Leistungen, für die der Leistungsträger nach den Sätzen 1 und 2 nicht Leistungsträger nach § 6 Absatz 1 sein kann, leitet er den Antrag insoweit unverzüglich dem nach seiner Auffassung zuständigen Leistungsträger nach § 15 zu.
 
 (4) Der Leistungsträger nach Absatz 3 und die Leistungsberechtigten schließen zur Umsetzung des Persönlichen Budgets eine Zielvereinbarung ab. Sie enthält mindestens Regelungen über
 
@@ -1430,10 +1428,13 @@ Ist wegen Art oder Schwere der Behinderung der Besuch einer Berufsschule am Ort 
 2.  die Träger der Unfallversicherung im Rahmen ihrer Zuständigkeit für durch Arbeitsunfälle Verletzte und von Berufskrankheiten Betroffene,
 
 
-3.  die Träger der Rentenversicherung unter den Voraussetzungen der §§ 11 bis 13 des Sechsten Buches und
+3.  die Träger der Rentenversicherung unter den Voraussetzungen der §§ 11 bis 13 des Sechsten Buches,
 
 
-4.  die Träger der Sozialen Entschädigung unter den Voraussetzungen der §§ 63 und 64 des Vierzehnten Buches.
+4.  die Träger der Sozialen Entschädigung unter den Voraussetzungen der §§ 63 und 64 des Vierzehnten Buches und
+
+
+5.  der Träger der Soldatenentschädigung unter den Voraussetzungen des Kapitels 4 des Soldatenentschädigungsgesetzes.
 
 
 
@@ -1444,6 +1445,9 @@ Ist wegen Art oder Schwere der Behinderung der Besuch einer Berufsschule am Ort 
 
 
 2.  die Träger der Sozialen Entschädigung unter den Voraussetzungen des § 63 des Vierzehnten Buches,
+
+
+2a. der Träger der Soldatenentschädigung unter den Voraussetzungen des Kapitels 4 des Soldatenentschädigungsgesetzes,
 
 
 3.  die Träger der öffentlichen Jugendhilfe unter den Voraussetzungen des § 35a des Achten Buches und
@@ -1464,7 +1468,7 @@ Ist wegen Art oder Schwere der Behinderung der Besuch einer Berufsschule am Ort 
 
 (1) Die Leistungen zur medizinischen Rehabilitation und zur Teilhabe am Arbeitsleben der in § 6 Absatz 1 Nummer 1 bis 5 genannten Rehabilitationsträger werden ergänzt durch
 
-1.  Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld, Übergangsgeld, Ausbildungsgeld oder Unterhaltsbeihilfe,
+1.  Krankengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung, Verletztengeld, Übergangsgeld, Ausbildungsgeld oder Unterhaltsbeihilfe,
 
 
 2.  Beiträge und Beitragszuschüsse
@@ -1517,7 +1521,10 @@ Ist wegen Art oder Schwere der Behinderung der Besuch einer Berufsschule am Ort 
 3.  Übergangsgeld: die Träger der Rentenversicherung nach Maßgabe dieses Buches und der §§ 20 und 21 des Sechsten Buches,
 
 
-4.  die Träger der Sozialen Entschädigung Krankengeld der Sozialen Entschädigung nach Maßgabe des § 47 des Vierzehnten Buches.
+4.  die Träger der Sozialen Entschädigung Krankengeld der Sozialen Entschädigung nach Maßgabe des § 47 des Vierzehnten Buches,
+
+
+5.  Krankengeld der Soldatenentschädigung: der Träger der Soldatenentschädigung nach Maßgabe des § 19 des Soldatenentschädigungsgesetzes.
 
 
 
@@ -1533,7 +1540,10 @@ Ist wegen Art oder Schwere der Behinderung der Besuch einer Berufsschule am Ort 
 3.  die Bundesagentur für Arbeit nach Maßgabe dieses Buches und der §§ 119 bis 121 des Dritten Buches,
 
 
-4.  die Träger der Sozialen Entschädigung nach Maßgabe dieses Buches und des § 64 des Vierzehnten Buches.
+4.  die Träger der Sozialen Entschädigung nach Maßgabe dieses Buches und des § 64 des Vierzehnten Buches,
+
+
+5.  der Träger der Soldatenentschädigung nach Maßgabe dieses Buches und des § 30 des Soldatenentschädigungsgesetzes.
 
 
 
@@ -1552,7 +1562,7 @@ Ist wegen Art oder Schwere der Behinderung der Besuch einer Berufsschule am Ort 
 
 
 
-(6) Das Krankengeld, das Krankengeld der Sozialen Entschädigung, das Verletztengeld und das Übergangsgeld werden für Kalendertage gezahlt; wird die Leistung für einen ganzen Kalendermonat gezahlt, so wird dieser mit 30 Tagen angesetzt.
+(6) Das Krankengeld, das Krankengeld der Sozialen Entschädigung, das Krankengeld der Soldatenentschädigung, das Verletztengeld und das Übergangsgeld werden für Kalendertage gezahlt; wird die Leistung für einen ganzen Kalendermonat gezahlt, so wird dieser mit 30 Tagen angesetzt.
 
 
 #### § 66 Höhe und Berechnung des Übergangsgelds
@@ -1577,7 +1587,7 @@ Ist wegen Art oder Schwere der Behinderung der Besuch einer Berufsschule am Ort 
 
 
 
-Leisten Träger der Sozialen Entschädigung nach dem Vierzehnten Buch Übergangsgeld, beträgt das Übergangsgeld 80 Prozent der Berechnungsgrundlage, wenn die Leistungsempfänger eine der Voraussetzungen von Satz 3 Nummer 1 erfüllen, und im Übrigen 70 Prozent der Berechnungsgrundlage.
+Leisten Träger der Sozialen Entschädigung nach dem Vierzehnten Buch Übergangsgeld, beträgt das Übergangsgeld 80 Prozent der Berechnungsgrundlage, wenn die Leistungsempfänger eine der Voraussetzungen von Satz 3 Nummer 1 erfüllen, und im Übrigen 70 Prozent der Berechnungsgrundlage. Die Höhe des Übergangsgeldes nach dem Soldatenentschädigungsgesetz richtet sich nach § 30 Absatz 2 des Soldatenentschädigungsgesetzes.
 
 (2) Das Nettoarbeitsentgelt nach Absatz 1 Satz 1 berechnet sich, indem der Anteil am Nettoarbeitsentgelt, der sich aus dem kalendertäglichen Hinzurechnungsbetrag nach § 67 Absatz 1 Satz 6 ergibt, mit dem Prozentsatz angesetzt wird, der sich aus dem Verhältnis des kalendertäglichen Regelentgeltbetrages nach § 67 Absatz 1 Satz 1 bis 5 zu dem sich aus diesem Regelentgeltbetrag ergebenden Nettoarbeitsentgelt ergibt. Das kalendertägliche Übergangsgeld darf das kalendertägliche Nettoarbeitsentgelt, das sich aus dem Arbeitsentgelt nach § 67 Absatz 1 Satz 1 bis 5 ergibt, nicht übersteigen.
 
@@ -1630,12 +1640,12 @@ Maßgebend ist die Bezugsgröße, die für den Wohnsitz oder für den gewöhnlic
 
 #### § 69 Kontinuität der Bemessungsgrundlage
 
-Haben Leistungsempfänger Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung oder Übergangsgeld bezogen und wird im Anschluss daran eine Leistung zur medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben ausgeführt, so wird bei der Berechnung der diese Leistungen ergänzenden Leistung zum Lebensunterhalt von dem bisher zugrunde gelegten Arbeitsentgelt ausgegangen; es gilt die für den Rehabilitationsträger jeweils geltende Beitragsbemessungsgrenze.
+Haben Leistungsempfänger Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung oder Übergangsgeld bezogen und wird im Anschluss daran eine Leistung zur medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben ausgeführt, so wird bei der Berechnung der diese Leistungen ergänzenden Leistung zum Lebensunterhalt von dem bisher zugrunde gelegten Arbeitsentgelt ausgegangen; es gilt die für den Rehabilitationsträger jeweils geltende Beitragsbemessungsgrenze.
 
 
 #### § 70 Anpassung der Entgeltersatzleistungen
 
-(1) Die Berechnungsgrundlage, die dem Krankengeld, dem Krankengeld der Sozialen Entschädigung, dem Verletztengeld und dem Übergangsgeld zugrunde liegt, wird jeweils nach Ablauf eines Jahres ab dem Ende des Bemessungszeitraums an die Entwicklung der Bruttoarbeitsentgelte angepasst und zwar entsprechend der Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Absatz 2 Satz 1 des Sechsten Buches) vom vorvergangenen zum vergangenen Kalenderjahr.
+(1) Die Berechnungsgrundlage, die dem Krankengeld, dem Krankengeld der Sozialen Entschädigung, dem Krankengeld der Soldatenentschädigung, dem Verletztengeld und dem Übergangsgeld zugrunde liegt, wird jeweils nach Ablauf eines Jahres ab dem Ende des Bemessungszeitraums an die Entwicklung der Bruttoarbeitsentgelte angepasst und zwar entsprechend der Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Absatz 2 Satz 1 des Sechsten Buches) vom vorvergangenen zum vergangenen Kalenderjahr.
 
 (2) Der Anpassungsfaktor wird errechnet, indem die Bruttolöhne und -gehälter je Arbeitnehmer für das vergangene Kalenderjahr durch die entsprechenden Bruttolöhne und -gehälter für das vorvergangene Kalenderjahr geteilt werden; § 68 Absatz 7 und § 121 Absatz 1 des Sechsten Buches gelten entsprechend.
 
@@ -1646,7 +1656,7 @@ Haben Leistungsempfänger Krankengeld, Verletztengeld, Krankengeld der Sozialen 
 
 #### § 71 Weiterzahlung der Leistungen
 
-(1) Sind nach Abschluss von Leistungen zur medizinischen Rehabilitation oder von Leistungen zur Teilhabe am Arbeitsleben weitere Leistungen zur Teilhabe am Arbeitsleben erforderlich, während derer dem Grunde nach Anspruch auf Übergangsgeld besteht, und können diese Leistungen aus Gründen, die die Leistungsempfänger nicht zu vertreten haben, nicht unmittelbar anschließend durchgeführt werden, werden das Verletztengeld, das Krankengeld der Sozialen Entschädigung oder das Übergangsgeld für diese Zeit weitergezahlt. Voraussetzung für die Weiterzahlung ist, dass
+(1) Sind nach Abschluss von Leistungen zur medizinischen Rehabilitation oder von Leistungen zur Teilhabe am Arbeitsleben weitere Leistungen zur Teilhabe am Arbeitsleben erforderlich, während derer dem Grunde nach Anspruch auf Übergangsgeld besteht, und können diese Leistungen aus Gründen, die die Leistungsempfänger nicht zu vertreten haben, nicht unmittelbar anschließend durchgeführt werden, werden das Verletztengeld, das Krankengeld der Sozialen Entschädigung, das Krankengeld der Soldatenentschädigung oder das Übergangsgeld für diese Zeit weitergezahlt. Voraussetzung für die Weiterzahlung ist, dass
 
 1.  die Leistungsempfänger arbeitsunfähig sind und keinen Anspruch auf Krankengeld mehr haben oder
 
@@ -5025,6 +5035,5 @@ als Grundlage für die nach § 231 Absatz 4 Satz 2 Nummer 1 und § 232 Absatz 2 
 
 (9) Das Inkrafttreten der bei einer Beschäftigungsquote von 0 Prozent zu zahlenden Ausgleichsabgabe gilt nicht als Neubestimmung der Ausgleichsabgabe im Sinne des § 160 Absatz 3 Satz 2.
 
-(
-10             ) Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 6 Absatz 1 Nummer 5, des § 16 Absatz 6, des § 18 Absatz 7, des § 63 Absatz 1 Nummer 4 und Absatz 2 Nummer 2, des § 64 Absatz 1 Nummer 1 und Absatz 2 Satz 2, des § 65 Absatz 1 Nummer 4, Absatz 2 Nummer 4, Absatz 5 Nummer 2, Absatz 6 und 7, des § 66 Absatz 1 Satz 4, der §§ 69, 70 Absatz 1, des § 71 Absatz 1 Satz 1, des § 152 Absatz 1 Satz 1 und 4, des § 228 Absatz 4 Nummer 2 und des § 241 Absatz 5 in der am 31. Dezember 2023 geltenden Fassung weiter.
+(10) (weggefallen)
 

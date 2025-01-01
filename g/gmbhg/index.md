@@ -358,7 +358,7 @@ Ein Gesellschafter, welcher den auf die Stammeinlage eingeforderten Betrag nicht
 
 ### § 23 Versteigerung des Geschäftsanteils
 
-Ist die Zahlung des rückständigen Betrags von Rechtsvorgängern nicht zu erlangen, so kann die Gesellschaft den Geschäftsanteil im Wege öffentlicher Versteigerung verkaufen lassen. Eine andere Art des Verkaufs ist nur mit Zustimmung des ausgeschlossenen Gesellschafters zulässig.
+Ist die Zahlung des rückständigen Betrags von Rechtsvorgängern nicht zu erlangen, so kann die Gesellschaft den Geschäftsanteil im Wege öffentlicher Versteigerung verkaufen lassen. Die Versteigerung kann auch durch einen Notar erfolgen. Eine andere Art des Verkaufs ist nur mit Zustimmung des ausgeschlossenen Gesellschafters zulässig.
 
 
 ### § 24 Aufbringung von Fehlbeträgen
@@ -645,7 +645,7 @@ Der Bestimmung der Gesellschafter unterliegen:
 
 (1) Die Beschlüsse der Gesellschafter werden in Versammlungen gefaßt. Versammlungen können auch fernmündlich oder mittels Videokommunikation abgehalten werden, wenn sämtliche Gesellschafter sich damit in Textform einverstanden erklären.
 
-(2) Der Abhaltung einer Versammlung bedarf es nicht, wenn sämtliche Gesellschafter in Textform mit der zu treffenden Bestimmung oder mit der schriftlichen Abgabe der Stimmen sich einverstanden erklären.
+(2) Der Abhaltung einer Versammlung bedarf es nicht, wenn sämtliche Gesellschafter sich in Textform mit der zu treffenden Bestimmung oder mit der Abgabe der Stimmen in Textform einverstanden erklären.
 
 (3) Befinden sich alle Geschäftsanteile der Gesellschaft in der Hand eines Gesellschafters oder daneben in der Hand der Gesellschaft, so hat er unverzüglich nach der Beschlußfassung eine Niederschrift aufzunehmen und zu unterschreiben.
 
@@ -1075,7 +1075,7 @@ Ergibt sich bei Aufstellung der Jahresbilanz für das Geschäftsjahr, in dem der
 
 (1) Die Liquidatoren haben in der bei ihrer Bestellung bestimmten Form ihre Willenserklärungen kundzugeben und für die Gesellschaft zu zeichnen. Ist nichts darüber bestimmt, so muß die Erklärung und Zeichnung durch sämtliche Liquidatoren erfolgen.
 
-(2) Die Zeichnungen geschehen in der Weise, daß die Liquidatoren der bisherigen, nunmehr als Liquidationsfirma zu bezeichnenden Firma ihre Namensunterschrift beifügen.
+(2) Zeichnen Liquidatoren für die Gesellschaft, ist der Firma ein auf die Liquidation hinweisender Zusatz hinzuzufügen.
 
 
 ### § 69 Rechtsverhältnisse von Gesellschaft und Gesellschaftern

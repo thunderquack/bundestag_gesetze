@@ -40,7 +40,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Artikel 2 § 2 Abs. 1 Satz 4 und Artikel 3 § 3 Abs. 2 Satz 4 des 2. Haushaltsstrukturgesetzes sind nicht anzuwenden.
 
-(4) Die Anpassung der Versorgungsbezüge nach den Absätzen 1 und 2 gilt nicht als Erhöhung der beamtenrechtlichen Versorgungsbezüge im Sinne des § 57 Abs. 2 Satz 2 und des § 58 Abs. 2 Satz 1 des Beamtenversorgungsgesetzes. Satz 1 gilt entsprechend in den Fällen des § 55c Abs. 2 Satz 2 und des § 55d Abs. 2 Satz 1 des Soldatenversorgungsgesetzes.
+(4) Die Anpassung der Versorgungsbezüge nach den Absätzen 1 und 2 gilt nicht als Erhöhung der beamtenrechtlichen Versorgungsbezüge im Sinne des § 57 Abs. 2 Satz 2 und des § 58 Abs. 2 Satz 1 des Beamtenversorgungsgesetzes. Satz 1 gilt entsprechend in den Fällen des § 73 Absatz 2 Satz 2 und des § 74 Absatz 2 Satz 1 des Soldatenversorgungsgesetzes.
 
 
 ## Art 2 - Sonstige Änderungen des Besoldungsrechts

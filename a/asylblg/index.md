@@ -670,7 +670,7 @@ Für Leistungsberechtigte des Asylbewerberleistungsgesetzes, auf die bis zum 21.
 
 ## § 16 Sofortzuschlag
 
-Minderjährige Leistungsberechtigte sowie Leistungsberechtigte, die das 25. Lebensjahr noch nicht vollendet haben, unverheiratet sind und mit mindestens einem Elternteil in einer Wohnung im Sinne von § 42a Absatz 2 Satz 2 des Zwölften Buches Sozialgesetzbuch zusammenleben, haben Anspruch auf einen monatlichen Sofortzuschlag in Höhe von 20 Euro. Der Sofortzuschlag wird erstmalig für den Monat Juli 2022 erbracht.
+Minderjährige Leistungsberechtigte sowie Leistungsberechtigte, die das 25. Lebensjahr noch nicht vollendet haben, unverheiratet sind und mit mindestens einem Elternteil in einer Wohnung im Sinne von § 42a Absatz 2 Satz 2 des Zwölften Buches Sozialgesetzbuch zusammenleben, haben Anspruch auf einen monatlichen Sofortzuschlag in Höhe von 25 Euro. Der Sofortzuschlag wird erstmalig für den Monat Juli 2022 erbracht.
 
 
 ## § 17 Einmalzahlung für den Monat Juli 2022

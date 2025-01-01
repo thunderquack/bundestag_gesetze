@@ -45,7 +45,7 @@ Einsatzgeschädigte im Sinne dieses Gesetzes sind
 
 
 
-die eine nicht nur geringfügige gesundheitliche Schädigung durch einen Einsatzunfall im Sinne von § 63c des Soldatenversorgungsgesetzes oder § 31a des Beamtenversorgungsgesetzes erlitten haben.
+die eine nicht nur geringfügige gesundheitliche Schädigung durch einen Einsatzunfall im Sinne von § 87 des Soldatenversorgungsgesetzes oder § 31a des Beamtenversorgungsgesetzes erlitten haben.
 
 
 ### § 2 Anwendungsbereich
@@ -54,7 +54,7 @@ die eine nicht nur geringfügige gesundheitliche Schädigung durch einen Einsatz
 
 (2) Einsatzgeschädigte nach § 1 Nummer 1, die zugleich unter § 1 Nummer 2, 3 oder 4 fallen, gelten für die Anwendung dieses Gesetzes ausschließlich als Einsatzgeschädigte nach § 1 Nummer 1, wenn sie den Einsatzunfall in einem Wehrdienstverhältnis erlitten haben. Haben Einsatzgeschädigte nach § 1 Nummer 1 bis 4 den Einsatzunfall in einem Dienstverhältnis nach dem THW-Gesetz erlitten, sind auf sie die für Einsatzgeschädigte nach § 1 Nummer 5 geltenden Vorschriften anzuwenden.
 
-(3) § 63c Absatz 6 des Soldatenversorgungsgesetzes und § 31a Absatz 4 des Beamtenversorgungsgesetzes gelten entsprechend.
+(3) § 87 Absatz 7 des Soldatenversorgungsgesetzes und § 31a Absatz 4 des Beamtenversorgungsgesetzes gelten entsprechend.
 
 
 ### § 3 Berufliche Qualifizierung
@@ -182,7 +182,7 @@ Die Schutzzeit endet spätestens fünf Jahre nach Beginn des Bezugs von Leistung
 3.  die Einstellung nicht das Erreichen eines der Ziele des § 4 Absatz 1 erwarten lässt,
 
 
-4.  Einsatzversorgung nach § 63f des Soldatenversorgungsgesetzes gewährt worden ist oder
+4.  Einsatzversorgung nach § 90 des Soldatenversorgungsgesetzes gewährt worden ist oder
 
 
 5.  eine Einstellung nach Satz 1 bereits zu einem inzwischen wieder beendeten Wehrdienstverhältnis geführt hat.
@@ -191,7 +191,7 @@ Die Schutzzeit endet spätestens fünf Jahre nach Beginn des Bezugs von Leistung
 
 Die Einstellung erfolgt mit dem Dienstgrad, der endgültig verliehen worden ist. Ist dieser niedriger als der Dienstgrad, der am Ende des Wehrdienstverhältnisses geführt wurde, erfolgt die Einstellung mit dem höheren Dienstgrad.
 
-(6) Der Antrag nach Absatz 5 Satz 1 ist innerhalb einer Ausschlussfrist von zwei Jahren nach Eintritt des Einsatzunfalls zu stellen. Bei einer Erkrankung, die nach § 63c Absatz 2 des Soldatenversorgungsgesetzes als Einsatzunfall gilt, beginnt die Ausschlussfrist im Zeitpunkt der erstmaligen ärztlichen Diagnose der Erkrankung, sofern die oder der Einsatzgeschädigte zu diesem Zeitpunkt zumindest annehmen kann, dass die Erkrankung im Zusammenhang mit einem Einsatz steht. Nach Ablauf der Ausschlussfrist erfolgt die Einstellung nur, wenn seit dem Eintritt des Einsatzunfalls noch nicht zehn Jahre vergangen sind und gleichzeitig mit dem Antrag Umstände glaubhaft gemacht werden, nach denen die oder der Einsatzgeschädigte mit der Möglichkeit einer den Anspruch auf die Einstellung nach Absatz 5 begründenden Folge des Unfalls nicht rechnen konnte oder durch die sie oder er gehindert war, den Antrag zu stellen. Der Antrag muss, nachdem mit der Möglichkeit einer den Anspruch auf die Einstellung begründenden Folge des Unfalls gerechnet werden konnte oder das Hindernis für den Antrag weggefallen ist, innerhalb von sechs Monaten gestellt werden.
+(6) Der Antrag nach Absatz 5 Satz 1 ist innerhalb einer Ausschlussfrist von zwei Jahren nach Eintritt des Einsatzunfalls zu stellen. Bei einer Erkrankung, die nach § 87 Absatz 2 des Soldatenversorgungsgesetzes als Einsatzunfall gilt, beginnt die Ausschlussfrist im Zeitpunkt der erstmaligen ärztlichen Diagnose der Erkrankung, sofern die oder der Einsatzgeschädigte zu diesem Zeitpunkt zumindest annehmen kann, dass die Erkrankung im Zusammenhang mit einem Einsatz steht. Nach Ablauf der Ausschlussfrist erfolgt die Einstellung nur, wenn seit dem Eintritt des Einsatzunfalls noch nicht zehn Jahre vergangen sind und gleichzeitig mit dem Antrag Umstände glaubhaft gemacht werden, nach denen die oder der Einsatzgeschädigte mit der Möglichkeit einer den Anspruch auf die Einstellung nach Absatz 5 begründenden Folge des Unfalls nicht rechnen konnte oder durch die sie oder er gehindert war, den Antrag zu stellen. Der Antrag muss, nachdem mit der Möglichkeit einer den Anspruch auf die Einstellung begründenden Folge des Unfalls gerechnet werden konnte oder das Hindernis für den Antrag weggefallen ist, innerhalb von sechs Monaten gestellt werden.
 
 
 ### § 7 Weiterverwendung als Berufssoldatin oder Berufssoldat
@@ -231,26 +231,26 @@ Die Einstellung erfolgt mit dem Dienstgrad, der endgültig verliehen worden ist.
 
 ### § 9 Versorgung der Soldatinnen und Soldaten und ihrer Hinterbliebenen
 
-(1) Im Falle einer Weiterverwendung nach § 7 oder § 8 entfallen die Ansprüche auf Berufsförderung und Dienstzeitversorgung nach Abschnitt I des Zweiten Teils des Soldatenversorgungsgesetzes.
+(1) Im Falle einer Weiterverwendung nach § 7 oder § 8 entfallen die Ansprüche auf Berufsförderung und Dienstzeitversorgung nach Teil 2 Abschnitt 1 des Soldatenversorgungsgesetzes.
 
 (2) Die Versorgung Einsatzgeschädigter nach § 1 Nummer 1, die sich in einer Schutzzeit nach § 4 befinden und nicht nach § 7 oder § 8 weiterverwendet werden, sowie ihrer Hinterbliebenen richtet sich nach dem Soldatenversorgungsgesetz mit folgenden Maßgaben:
 
-1.  Wer aus einem Dienstverhältnis als Soldatin auf Zeit oder Soldat auf Zeit nach § 6 in ein Wehrdienstverhältnis besonderer Art eintritt, erhält die Leistungen der Berufsförderung und Dienstzeitversorgung nach Abschnitt I des Zweiten Teils des Soldatenversorgungsgesetzes, die bei Beendigung des Wehrdienstverhältnisses durch Zeitablauf zustehen, erst, wenn auch das Wehrdienstverhältnis besonderer Art endet.
+1.  Wer aus einem Dienstverhältnis als Soldatin auf Zeit oder Soldat auf Zeit nach § 6 in ein Wehrdienstverhältnis besonderer Art eintritt, erhält die Leistungen der Berufsförderung und Dienstzeitversorgung nach Teil 2 Abschnitt 1 des Soldatenversorgungsgesetzes, die bei Beendigung des Wehrdienstverhältnisses durch Zeitablauf zustehen, erst, wenn auch das Wehrdienstverhältnis besonderer Art endet.
 
 
-2.  Wer nach § 6 in ein Wehrdienstverhältnis besonderer Art eintritt, erwirbt dadurch keine Ansprüche auf Berufsförderung und Dienstzeitversorgung. Zeiten in einem Wehrdienstverhältnis besonderer Art führen nicht zur Eingliederungsberechtigung nach den §§ 9 und 10 des Soldatenversorgungsgesetzes.
+2.  Wer nach § 6 in ein Wehrdienstverhältnis besonderer Art eintritt, erwirbt dadurch keine Ansprüche auf Berufsförderung und Dienstzeitversorgung. Zeiten in einem Wehrdienstverhältnis besonderer Art führen nicht zur Eingliederungsberechtigung nach den §§ 13 und 14 des Soldatenversorgungsgesetzes.
 
 
-3.  Durch ein Wehrdienstverhältnis besonderer Art nach § 6 ist der Anspruch auf Freistellung vom militärischen Dienst nach § 5 Absatz 5 des Soldatenversorgungsgesetzes in der bis einschließlich 25. Juli 2012 geltenden Fassung unabhängig von seiner Dauer abgegolten und die Gesamtförderungsdauer nach § 5 Absatz 4 des Soldatenversorgungsgesetzes entsprechend herabgesetzt.
+3.  Durch ein Wehrdienstverhältnis besonderer Art nach § 6 ist der Anspruch auf Freistellung vom militärischen Dienst nach § 7 Absatz 6 des Soldatenversorgungsgesetzes in der bis einschließlich 25. Juli 2012 geltenden Fassung unabhängig von seiner Dauer abgegolten und die Gesamtförderungsdauer nach § 7 Absatz 5 des Soldatenversorgungsgesetzes entsprechend herabgesetzt.
 
 
-4.  Endet die Schutzzeit nach § 4 bei einer Soldatin auf Zeit oder einem Soldaten auf Zeit vor Ablauf der Zeit, für die sie oder er in das Dienstverhältnis berufen ist, und wurden während der Schutzzeit berufliche Qualifikationen im Sinne des § 5 Absatz 6 bis 9 des Soldatenversorgungsgesetzes erworben, vermindern sich der Anspruch auf Freistellung vom militärischen Dienst nach § 5 Absatz 5 des Soldatenversorgungsgesetzes in der bis einschließlich 25. Juli 2012 geltenden Fassung und die Gesamtförderungsdauer nach § 5 Absatz 4 des Soldatenversorgungsgesetzes entsprechend.
+4.  Endet die Schutzzeit nach § 4 bei einer Soldatin auf Zeit oder einem Soldaten auf Zeit vor Ablauf der Zeit, für die sie oder er in das Dienstverhältnis berufen ist, und wurden während der Schutzzeit berufliche Qualifikationen im Sinne des § 7 Absatz 7 bis 11 des Soldatenversorgungsgesetzes erworben, vermindern sich der Anspruch auf Freistellung vom militärischen Dienst nach § 7 Absatz 6 des Soldatenversorgungsgesetzes in der bis einschließlich 25. Juli 2012 geltenden Fassung und die Gesamtförderungsdauer nach § 7 Absatz 5 des Soldatenversorgungsgesetzes entsprechend.
 
 
-5.  § 42 des Soldatenversorgungsgesetzes ist auf die Hinterbliebenen der Einsatzgeschädigten nach § 1 Nummer 1, die während der Schutzzeit nach § 4 verstorben sind, unbeachtlich einer Wehrdienstzeit von mindestens sechs Jahren und hinsichtlich der Dauer unbeachtlich des Anspruchs auf Übergangsgebührnisse entsprechend anzuwenden.
+5.  § 57 des Soldatenversorgungsgesetzes ist auf die Hinterbliebenen der Einsatzgeschädigten nach § 1 Nummer 1, die während der Schutzzeit nach § 4 verstorben sind, unbeachtlich einer Wehrdienstzeit von mindestens sechs Jahren und hinsichtlich der Dauer unbeachtlich des Anspruchs auf Übergangsgebührnisse entsprechend anzuwenden.
 
 
-6.  § 62 Absatz 1 des Soldatenversorgungsgesetzes gilt entsprechend für Einsatzgeschädigte nach § 1 Nummer 1, deren Wehrdienstverhältnis besonderer Art anders als durch eine Berufung nach § 7 Absatz 1 oder § 8 Absatz 1 Satz 1 Nummer 1 oder durch eine Einstellung nach § 8 Absatz 1 Satz 1 Nummer 2 geendet hat, und für die Hinterbliebenen der Einsatzgeschädigten nach § 1 Nummer 1, die während des Wehrdienstverhältnisses besonderer Art verstorben sind.
+6.  § 83 Absatz 1 des Soldatenversorgungsgesetzes gilt entsprechend für Einsatzgeschädigte nach § 1 Nummer 1, deren Wehrdienstverhältnis besonderer Art anders als durch eine Berufung nach § 7 Absatz 1 oder § 8 Absatz 1 Satz 1 Nummer 1 oder durch eine Einstellung nach § 8 Absatz 1 Satz 1 Nummer 2 geendet hat, und für die Hinterbliebenen der Einsatzgeschädigten nach § 1 Nummer 1, die während des Wehrdienstverhältnisses besonderer Art verstorben sind.
 
 
 
@@ -274,7 +274,7 @@ Die Einstellung erfolgt mit dem Dienstgrad, der endgültig verliehen worden ist.
 3.  die Einstellung nicht das Erreichen eines der Ziele des § 4 Absatz 1 Satz 1 erwarten lässt,
 
 
-4.  Einsatzversorgung nach § 37 Absatz 3 des Beamtenversorgungsgesetzes oder nach § 63f des Soldatenversorgungsgesetzes gewährt wird oder wurde oder
+4.  Einsatzversorgung nach § 37 Absatz 3 des Beamtenversorgungsgesetzes oder nach § 90 des Soldatenversorgungsgesetzes gewährt wird oder wurde oder
 
 
 5.  eine Einstellung nach Satz 1 bereits zu einem inzwischen wieder beendeten Beamtenverhältnis geführt hat.
@@ -338,7 +338,7 @@ Die Einstellung erfolgt mit dem Dienstgrad, der endgültig verliehen worden ist.
 3.  die Einstellung nicht das Erreichen eines der Ziele des § 4 Absatz 1 erwarten lässt,
 
 
-4.  Einsatzversorgung nach § 63f des Soldatenversorgungsgesetzes gewährt worden ist oder die altersmäßigen Voraussetzungen des Bezugs einer ungekürzten Vollrente wegen Alters nach dem Sechsten Buch Sozialgesetzbuch erfüllt sind oder
+4.  Einsatzversorgung nach § 90 des Soldatenversorgungsgesetzes gewährt worden ist oder die altersmäßigen Voraussetzungen des Bezugs einer ungekürzten Vollrente wegen Alters nach dem Sechsten Buch Sozialgesetzbuch erfüllt sind oder
 
 
 5.  eine Einstellung nach Satz 1 bereits zu einem inzwischen wieder beendeten Arbeitsverhältnis geführt hat.
@@ -351,7 +351,7 @@ Die Einstellung erfolgt mit dem Dienstgrad, der endgültig verliehen worden ist.
 
 (1) Soweit während der Schutzzeit nach § 4 das Entgelt im Krankheitsfall einschließlich Entgeltersatzleistungen nach dem Siebten Buch Sozialgesetzbuch die Höhe des bisherigen monatlichen Nettoentgelts unterschreitet, erhalten Einsatzgeschädigte nach § 1 Nummer 4 vom Arbeitgeber einen Ausgleichsbetrag in Höhe des Unterschiedsbetrages zwischen dem Entgelt im Krankheitsfall einschließlich Entgeltersatzleistungen nach dem Siebten Buch Sozialgesetzbuch und dem Nettoentgelt.
 
-(2) Entgeltersatzleistungen im Sinne von Absatz 1 sind das Verletztengeld, das Übergangsgeld sowie die Verletztenrente aus der gesetzlichen Unfallversicherung. Eine Verletztenrente ist nur zu berücksichtigen, soweit sie den Betrag übersteigt, der bei gleichem Grad der Minderung der Erwerbsfähigkeit als Grundrente nach § 31 in Verbindung mit § 84a Satz 1 und 2 des Bundesversorgungsgesetzes geleistet würde.
+(2) Entgeltersatzleistungen im Sinne von Absatz 1 sind das Verletztengeld, das Übergangsgeld sowie die Verletztenrente aus der gesetzlichen Unfallversicherung. Eine Verletztenrente ist nur zu berücksichtigen, soweit sie den Betrag übersteigt, der bei gleichem Grad der Minderung der Erwerbsfähigkeit als Ausgleich für gesundheitliche Schädigungsfolgen nach dem Soldatenentschädigungsgesetz geleistet würde.
 
 (3) Nettoentgelt im Sinne von Absatz 1 ist das um die gesetzlichen Abzüge geminderte Entgelt. Bei freiwillig gesetzlich Krankenversicherten ist dabei deren Gesamtkranken- und Pflegeversicherungsbeitrag abzüglich des Beitragszuschusses des Arbeitgebers nach dem Fünften Buch Sozialgesetzbuch und dem Elften Buch Sozialgesetzbuch zu berücksichtigen. Der Zusatzbeitrag nach § 242 des Fünften Buches Sozialgesetzbuch bleibt unberücksichtigt. Satz 2 gilt für Versicherte eines privaten Krankenversicherungsunternehmens, das die Voraussetzungen nach § 257 Absatz 2a des Fünften Buches Sozialgesetzbuch erfüllt, entsprechend mit der Maßgabe, dass als Krankenversicherungsbeitrag nur der nach § 257 Absatz 2 des Fünften Buches Sozialgesetzbuch zuschussfähige Betrag und als Pflegeversicherungsbeitrag nur der nach § 61 Absatz 2 des Elften Buches Sozialgesetzbuch zuschussfähige Betrag zu berücksichtigen ist. Entgelt sind das Tabellenentgelt und die sonstigen in Monatsbeträgen festgelegten Entgeltbestandteile zuzüglich des Durchschnitts der nicht in Monatsbeträgen festgelegten Entgeltbestandteile der dem Einsatzunfall vorangegangenen drei Kalendermonate. Ausgenommen hiervon sind das zusätzlich für Mehrarbeit und Überstunden gezahlte Entgelt, Leistungsentgelte, Jahressonderzahlungen sowie sonstige besondere Zahlungen. Entgeltbestandteile, die ausschließlich aufgrund der Beschäftigung im Ausland gezahlt werden, bleiben außer Ansatz.
 

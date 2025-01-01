@@ -88,7 +88,7 @@ Zuletzt geändert durch
 
 
 
-Vorrangig sollen Leistungen erbracht werden, die die unmittelbare Aufnahme einer Ausbildung oder Erwerbstätigkeit ermöglichen, es sei denn, eine andere Leistung ist für die dauerhafte Eingliederung erforderlich. Von der Erforderlichkeit für die dauerhafte Eingliederung ist insbesondere auszugehen, wenn leistungsberechtigte Personen ohne Berufsabschluss Leistungen zur Unterstützung der Aufnahme einer Ausbildung nach diesem Buch, dem Dritten Buch oder auf anderer rechtlicher Grundlage erhalten oder an einer nach § 16 Absatz 1 Satz 2 Nummer 4 in Verbindung mit § 81 des Dritten Buches zu fördernden beruflichen Weiterbildung teilnehmen oder voraussichtlich teilnehmen werden. Die Verpflichtung zur vorrangigen Aufnahme einer Ausbildung oder Erwerbstätigkeit gilt nicht im Verhältnis zur Förderung von Existenzgründungen mit einem Einstiegsgeld für eine selbständige Erwerbstätigkeit nach § 16b.
+Vorrangig sollen Leistungen erbracht werden, die die unmittelbare Aufnahme einer Ausbildung oder Erwerbstätigkeit ermöglichen, es sei denn, eine andere Leistung ist für die dauerhafte Eingliederung erforderlich. Von der Erforderlichkeit für die dauerhafte Eingliederung ist insbesondere auszugehen, wenn leistungsberechtigte Personen ohne Berufsabschluss Leistungen zur Unterstützung der Aufnahme einer Ausbildung nach diesem Buch, dem Dritten Buch oder auf anderer rechtlicher Grundlage erhalten oder an einer nach § 81 des Dritten Buches zu fördernden beruflichen Weiterbildung teilnehmen oder voraussichtlich teilnehmen werden. Die Verpflichtung zur vorrangigen Aufnahme einer Ausbildung oder Erwerbstätigkeit gilt nicht im Verhältnis zur Förderung von Existenzgründungen mit einem Einstiegsgeld für eine selbständige Erwerbstätigkeit nach § 16b.
 
 (2) Bei der Beantragung von Leistungen nach diesem Buch sollen unverzüglich Leistungen zur Eingliederung in Arbeit nach dem Ersten Abschnitt des Dritten Kapitels erbracht werden.
 
@@ -599,7 +599,7 @@ Für Abwesenheiten außerhalb des näheren Bereichs aufgrund der Ausübung einer
 1.  Leistungen nach diesem Buch,
 
 
-2.  (weggefallen)
+2.  Ausgleich für gesundheitliche Schädigungsfolgen nach dem Soldatenentschädigungsgesetz sowie Ausgleichszahlungen an Hinterbliebene nach dem Soldatenentschädigungsgesetz,
 
 
 3.  die Renten oder Beihilfen, die nach dem Bundesentschädigungsgesetz für Schaden an Leben sowie an Körper oder Gesundheit erbracht werden, bis zur Höhe der vergleichbaren Entschädigungszahlungen nach Kapitel 9 des Vierzehnten Buches,
@@ -903,22 +903,10 @@ Im Kooperationsplan kann auch festgehalten werden,
 3.  Leistungen zur Berufsausbildung nach dem Vierten Unterabschnitt des Dritten Abschnitts und Leistungen nach den §§ 48a und 54a Absatz 1 bis 5,
 
 
-4.  Leistungen zur beruflichen Weiterbildung nach dem Vierten Abschnitt, mit Ausnahme von Leistungen nach § 82 Absatz 5 und § 82a, und Leistungen nach den §§ 131a und 131b,
+4.  (weggefallen)
 
 
 5.  Leistungen zur Aufnahme einer sozialversicherungspflichtigen Beschäftigung nach dem Ersten Unterabschnitt des Fünften Abschnitts.
-
-
-
-Für Eingliederungsleistungen an erwerbsfähige Leistungsberechtigte mit Behinderungen nach diesem Buch gelten entsprechend
-
-1.  die §§ 112 bis 114, 115 Nummer 1 bis 3 mit Ausnahme berufsvorbereitender Bildungsmaßnahmen und der Berufsausbildungsbeihilfe sowie § 116 Absatz 1, 2, 5 und 6 des Dritten Buches,
-
-
-2.  § 117 Absatz 1 und § 118 Nummer 3 des Dritten Buches für die besonderen Leistungen zur Förderung der beruflichen Weiterbildung,
-
-
-3.  die §§ 127 und 128 des Dritten Buches für die besonderen Leistungen zur Förderung der beruflichen Weiterbildung.
 
 
 
@@ -928,22 +916,7 @@ Für Eingliederungsleistungen an erwerbsfähige Leistungsberechtigte mit Behinde
 
 (3) Abweichend von § 44 Absatz 1 Satz 1 des Dritten Buches können Leistungen auch für die Anbahnung und Aufnahme einer schulischen Berufsausbildung erbracht werden.
 
-(3a) Abweichend von § 81 Absatz 4 des Dritten Buches kann die Agentur für Arbeit unter Anwendung des Vergaberechts Träger mit der Durchführung von Maßnahmen der beruflichen Weiterbildung beauftragen, wenn die Maßnahme den Anforderungen des § 180 des Dritten Buches entspricht und
-
-1.  eine dem Bildungsziel entsprechende Maßnahme örtlich nicht verfügbar ist oder
-
-
-2.  die Eignung und persönlichen Verhältnisse der erwerbsfähigen Leistungsberechtigten dies erfordern.
-
-
-
-§ 176 Absatz 2 des Dritten Buches findet keine Anwendung.
-
-(3b) Abweichend von § 87a Absatz 2 des Dritten Buches erhalten erwerbsfähige Leistungsberechtigte auch im Rahmen eines bestehenden Arbeitsverhältnisses ein Weiterbildungsgeld, sofern sie die sonstigen Voraussetzungen nach § 87a Absatz 1 des Dritten Buches erfüllen.
-
 (4) Die Agentur für Arbeit als Träger der Grundsicherung für Arbeitsuchende kann die Ausbildungsvermittlung durch die für die Arbeitsförderung zuständigen Stellen der Bundesagentur wahrnehmen lassen. Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere über die Höhe, Möglichkeiten der Pauschalierung und den Zeitpunkt der Fälligkeit der Erstattung von Aufwendungen bei der Ausführung des Auftrags nach Satz 1 festzulegen.
-
-(5) (weggefallen)
 
 
 #### § 16a Kommunale Eingliederungsleistungen
@@ -2906,6 +2879,11 @@ Der zuständige Träger der Leistungen nach diesem Buch kann mit Zustimmung des 
 (2) Ist eine Leistung nur für einen begrenzten Zeitraum zuerkannt worden, richtet sich eine Verlängerung nach den zum Zeitpunkt der Entscheidung über die Verlängerung geltenden Vorschriften.
 
 
+### § 66a Übergangsregelung aus Anlass des Haushaltsfinanzierungsgesetzes 2024
+
+§ 66 findet entsprechende Anwendung beim Übergang der Förderung der beruflichen Weiterbildung und der beruflichen Rehabilitation von den Jobcentern auf die Agenturen für Arbeit zum 1. Januar 2025.
+
+
 ### § 67 Vereinfachtes Verfahren für den Zugang zu sozialer Sicherung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung
 
 (1) Leistungen für Bewilligungszeiträume, die in der Zeit vom 1. März 2020 bis zum 31. März 2022 beginnen, werden nach Maßgabe der Absätze 2 bis 4 erbracht.
@@ -2966,7 +2944,7 @@ Leistungsberechtigte, die für den Monat Mai 2021 Anspruch auf Arbeitslosengeld 
 
 ### § 72 Sofortzuschlag
 
-(1) Kinder, Jugendliche und junge Erwachsene, die Anspruch auf Bürgergeld haben, dem ein Regelbedarf nach den Regelbedarfsstufen 3, 4, 5 oder 6 zu Grunde liegt, haben zusätzlich Anspruch auf einen monatlichen Sofortzuschlag in Höhe von 20 Euro. Satz 1 gilt auch für Kinder, Jugendliche und junge Erwachsene, die
+(1) Kinder, Jugendliche und junge Erwachsene, die Anspruch auf Bürgergeld haben, dem ein Regelbedarf nach den Regelbedarfsstufen 3, 4, 5 oder 6 zu Grunde liegt, haben zusätzlich Anspruch auf einen monatlichen Sofortzuschlag in Höhe von 25 Euro. Satz 1 gilt auch für Kinder, Jugendliche und junge Erwachsene, die
 
 1.  nur einen Anspruch auf eine Bildungs- und Teilhabeleistung haben oder
 
@@ -3026,9 +3004,8 @@ Leistungsberechtigte, die für den Monat Juli 2022 Anspruch auf Arbeitslosengeld
 (2) Eine spätere Zuweisung von Tätigkeiten in den gemeinsamen Einrichtungen, die nach § 44g Absatz 2 in der bis zum 31. Dezember 2014 geltenden Fassung erfolgt ist, gilt fort.
 
 
-### § 80 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+### § 80 (weggefallen)
 
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz erhalten, gelten § 11a Absatz 1 Nummer 2, § 18 Absatz 1 Nummer 1 und § 44a Absatz 3 Satz 2 in der bis zum 31. Dezember 2023 geltenden Fassung weiter.
 
 
 ### § 81 (weggefallen)

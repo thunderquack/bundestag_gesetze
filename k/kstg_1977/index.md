@@ -1231,7 +1231,7 @@ aufzuteilen.
 
 
 
-(2) Absatz 1 Satz 1 gilt auch für steuerpflichtige Genossenschaften sowie für steuerpflichtige Vereine, die eine gemeinschaftliche Tierhaltung im Sinne des § 51a des Bewertungsgesetzes betreiben.
+(2) Absatz 1 Satz 1 gilt auch für steuerpflichtige Genossenschaften sowie für steuerpflichtige Vereine, die eine gemeinschaftliche Tierhaltung im Sinne des § 13b des Einkommensteuergesetzes betreiben.
 
 
 ### § 26 Steuerermäßigung bei ausländischen Einkünften
@@ -1675,21 +1675,20 @@ Die Körperschaftsteuer entsteht
 3             Wird ein Gewinnabführungsvertrag im Sinne des Satzes 2 vorzeitig nach dem 1. August 2018 durch Kündigung beendet, gilt die Kündigung als durch einen wichtigen Grund im Sinne des § 14 Absatz 1 Satz 1 Nummer 3 Satz 2 gerechtfertigt.
 4             Wird ein Gewinnabführungsvertrag im Sinne des Satzes 2 an die Anforderungen des § 14 Absatz 2 in der Fassung des Artikels 6 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) angepasst, gilt diese Anpassung für die Anwendung des § 14 Absatz 1 Satz 1 Nummer 3 nicht als Neuabschluss.
 5             § 14 Absatz 4 sowie § 27 Absatz 1 Satz 3 und Absatz 6 in der Fassung des Artikels 1 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2050) und § 27 Absatz 6 Satz 3 in der Fassung des Artikels 8 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) sind erstmals auf Minder- und Mehrabführungen anzuwenden, die nach dem 31. Dezember 2021 erfolgen.
-6             Hinsichtlich des Zeitpunkts der Minder- und Mehrabführungen ist dabei auf das Ende des Wirtschaftsjahres der Organgesellschaft abzustellen.
-7             Noch bestehende Ausgleichsposten für organschaftliche Minder- und Mehrabführungen, die nach Maßgabe des § 14 Absatz 4 in der am 31. Dezember 2021 geltenden Fassung in der Steuerbilanz gebildet wurden oder noch zu bilden sind, sind nach den zu berücksichtigenden organschaftlichen Minder- und Mehrabführungen im Sinne von § 14 Absatz 4 in der Fassung des Artikels 1 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2050) zum Schluss des Wirtschaftsjahres aufzulösen, das nach dem 31. Dezember 2021 endet.
-8             Aktive Ausgleichsposten erhöhen, passive Ausgleichsposten mindern dabei den Buchwert der Beteiligung des Organträgers an der Organgesellschaft in der Steuerbilanz.
-9             Noch bestehende Ausgleichsposten sind für Zwecke der Sätze 7 und 8 zunächst durch Anwendung eines Angleichungsfaktors zu erhöhen, wenn die Beteiligungshöhe des Organträgers zum 31. Dezember 2021 oder, falls die Organschaft zu diesem Zeitpunkt nicht mehr besteht, am Ende des letzten Wirtschaftsjahres der Organschaft, weniger als 100 Prozent am Nennkapital der Organgesellschaft betragen hat.
-10             Angleichungsfaktor ist der Kehrwert des durchschnittlichen Beteiligungsanteils des Organträgers bezogen auf das Nennkapital der Organgesellschaft an den Bilanzstichtagen der letzten fünf Wirtschaftsjahre.
-11             Das Produkt aus Angleichungsfaktor und Ausgleichsposten tritt für Zwecke der Sätze 7 und 8 jeweils an die Stelle der noch bestehenden Ausgleichsposten.
-12             Besteht das Organschaftsverhältnis weniger als fünf Wirtschaftsjahre, ist Satz 11 mit der Maßgabe anzuwenden, dass der entsprechend kürzere Zeitraum zugrunde zu legen ist.
-13             Soweit ein passiver Ausgleichsposten die Summe aus dem aktiven Ausgleichsposten und dem Buchwert der Beteiligung des Organträgers an der Organgesellschaft in der Steuerbilanz übersteigt, liegt ein Ertrag aus der Beteiligung an der Organgesellschaft vor.
-14             § 3 Nummer 40 Buchstabe a und § 3c Absatz 2 des Einkommensteuergesetzes sowie § 8b Absatz 2, 3, 6, 7 und 8 dieses Gesetzes sind auf diesen Beteiligungsertrag anzuwenden.
-15             Bis zur Höhe des Beteiligungsertrags nach Satz 13 kann eine den steuerlichen Gewinn mindernde Rücklage gebildet werden.
-16             Soweit diese Rücklage gebildet wird, sind § 3 Nummer 40 Buchstabe a und § 3c Absatz 2 des Einkommensteuergesetzes sowie § 8b Absatz 2, 3, 6, 7 und 8 dieses Gesetzes auf den Beteiligungsertrag nach Satz 13 nicht anzuwenden.
-17             Die Rücklage nach Satz 15 ist grundsätzlich im Wirtschaftsjahr der Bildung und in den neun folgenden Wirtschaftsjahren zu jeweils einem Zehntel gewinnerhöhend aufzulösen.
-18             Die Rücklage ist in vollem Umfang gewinnerhöhend aufzulösen, wenn die Beteiligung des Organträgers an der Organgesellschaft oder der vermittelnden Gesellschaft veräußert wird; bei einer teilweisen Veräußerung ist die Rücklage anteilig aufzulösen.
-19             Der Veräußerung gleichgestellt sind insbesondere die Umwandlung der Organgesellschaft auf eine Personengesellschaft oder eine natürliche Person, die verdeckte Einlage der Beteiligung an der Organgesellschaft und die Auflösung der Organgesellschaft.
-20             § 3 Nummer 40 Buchstabe a und § 3c Absatz 2 des Einkommensteuergesetzes sowie § 8b Absatz 2, 3, 6, 7 und 8 dieses Gesetzes sind bei der Auflösung der Rücklage anzuwenden.
+6             Noch bestehende Ausgleichsposten für organschaftliche Minder- und Mehrabführungen, die nach Maßgabe des § 14 Absatz 4 in der am 31. Dezember 2021 geltenden Fassung in der Steuerbilanz gebildet wurden oder noch zu bilden sind, sind nach den zu berücksichtigenden organschaftlichen Minder- und Mehrabführungen im Sinne von § 14 Absatz 4 in der Fassung des Artikels 1 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2050) zum Schluss des Wirtschaftsjahres aufzulösen, das nach dem 31. Dezember 2021 endet.
+7             Aktive Ausgleichsposten erhöhen, passive Ausgleichsposten mindern dabei den Buchwert der Beteiligung des Organträgers an der Organgesellschaft in der Steuerbilanz.
+8             Noch bestehende Ausgleichsposten sind für Zwecke der Sätze 7 und 8 zunächst durch Anwendung eines Angleichungsfaktors zu erhöhen, wenn die Beteiligungshöhe des Organträgers zum 31. Dezember 2021 oder, falls die Organschaft zu diesem Zeitpunkt nicht mehr besteht, am Ende des letzten Wirtschaftsjahres der Organschaft, weniger als 100 Prozent am Nennkapital der Organgesellschaft betragen hat.
+9             Angleichungsfaktor ist der Kehrwert des durchschnittlichen Beteiligungsanteils des Organträgers bezogen auf das Nennkapital der Organgesellschaft an den Bilanzstichtagen der letzten fünf Wirtschaftsjahre.
+10             Das Produkt aus Angleichungsfaktor und Ausgleichsposten tritt für Zwecke der Sätze 7 und 8 jeweils an die Stelle der noch bestehenden Ausgleichsposten.
+11             Besteht das Organschaftsverhältnis weniger als fünf Wirtschaftsjahre, ist Satz 11 mit der Maßgabe anzuwenden, dass der entsprechend kürzere Zeitraum zugrunde zu legen ist.
+12             Soweit ein passiver Ausgleichsposten die Summe aus dem aktiven Ausgleichsposten und dem Buchwert der Beteiligung des Organträgers an der Organgesellschaft in der Steuerbilanz übersteigt, liegt ein Ertrag aus der Beteiligung an der Organgesellschaft vor.
+13             § 3 Nummer 40 Buchstabe a und § 3c Absatz 2 des Einkommensteuergesetzes sowie § 8b Absatz 2, 3, 6, 7 und 8 dieses Gesetzes sind auf diesen Beteiligungsertrag anzuwenden.
+14             Bis zur Höhe des Beteiligungsertrags nach Satz 13 kann eine den steuerlichen Gewinn mindernde Rücklage gebildet werden.
+15             Soweit diese Rücklage gebildet wird, sind § 3 Nummer 40 Buchstabe a und § 3c Absatz 2 des Einkommensteuergesetzes sowie § 8b Absatz 2, 3, 6, 7 und 8 dieses Gesetzes auf den Beteiligungsertrag nach Satz 13 nicht anzuwenden.
+16             Die Rücklage nach Satz 15 ist grundsätzlich im Wirtschaftsjahr der Bildung und in den neun folgenden Wirtschaftsjahren zu jeweils einem Zehntel gewinnerhöhend aufzulösen.
+17             Die Rücklage ist in vollem Umfang gewinnerhöhend aufzulösen, wenn die Beteiligung des Organträgers an der Organgesellschaft oder der vermittelnden Gesellschaft veräußert wird; bei einer teilweisen Veräußerung ist die Rücklage anteilig aufzulösen.
+18             Der Veräußerung gleichgestellt sind insbesondere die Umwandlung der Organgesellschaft auf eine Personengesellschaft oder eine natürliche Person, die verdeckte Einlage der Beteiligung an der Organgesellschaft und die Auflösung der Organgesellschaft.
+19             § 3 Nummer 40 Buchstabe a und § 3c Absatz 2 des Einkommensteuergesetzes sowie § 8b Absatz 2, 3, 6, 7 und 8 dieses Gesetzes sind bei der Auflösung der Rücklage anzuwenden.
 
 (6f) § 15 in der Fassung des Artikels 6 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) ist erstmals für den Veranlagungszeitraum 2018 anzuwenden.
 
@@ -1725,6 +1724,8 @@ Die Körperschaftsteuer entsteht
 (8a) § 21a Absatz 1 in der am 1. Januar 2016 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2016 anzuwenden.
 
 (8b) § 24 in der Fassung des Artikels 6 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Veranlagungszeitraum 2019 anzuwenden.
+
+(8c) § 25 Absatz 2 in der Fassung des Artikels 7 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Veranlagungszeitraum 2025 anzuwenden.
 
 (9)
 1             § 26 in der am 31. Dezember 2014 geltenden Fassung ist erstmals auf Einkünfte und Einkunftsteile anzuwenden, die nach dem 31. Dezember 2013 zufließen.

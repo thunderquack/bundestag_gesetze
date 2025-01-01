@@ -536,7 +536,7 @@ Ist bei Vorliegen einer Amtspflichtverletzung nur streitig, ob der Ausschlußgru
 
 (2) Die Notare sind auch zuständig, Auflassungen entgegenzunehmen sowie Teilhypotheken- und Teilgrundschuldbriefe auszustellen.
 
-(3) Die Notare sind ferner zuständig, freiwillige Versteigerungen durchzuführen. Eine Versteigerung beweglicher Sachen sollen sie nur vornehmen, wenn diese durch die Versteigerung unbeweglicher Sachen oder durch eine von dem Notar beurkundete oder vermittelte Vermögensauseinandersetzung veranlaßt ist.
+(3) Die Notare sind ferner zuständig, freiwillige Versteigerungen durchzuführen. Eine Versteigerung beweglicher Sachen sollen sie nur vornehmen, wenn diese durch die Versteigerung unbeweglicher Sachen oder durch eine von dem Notar beurkundete oder vermittelte Vermögensauseinandersetzung veranlaßt ist. Öffentlich erfolgende freiwillige Versteigerungen nach Satz 1 gelten als öffentliche Versteigerungen im Sinne des Bürgerlichen Gesetzbuchs.
 
 (4) Die Notare sind auch zur Vermittlung nach den Bestimmungen des Sachenrechtsbereinigungsgesetzes zuständig.
 
@@ -575,7 +575,7 @@ Die Notare sind auch zuständig, Geld, Wertpapiere und Kostbarkeiten, die ihnen 
 
 #### § 24 Betreuung und Vertretung der Beteiligten
 
-(1) Zu dem Amt des Notars gehört auch die sonstige Betreuung der Beteiligten auf dem Gebiete vorsorgender Rechtspflege, insbesondere die Anfertigung von Urkundenentwürfen und die Beratung der Beteiligten. Der Notar ist auch, soweit sich nicht aus anderen Vorschriften Beschränkungen ergeben, in diesem Umfange befugt, die Beteiligten vor Gerichten und Verwaltungsbehörden zu vertreten.
+(1) Zu dem Amt des Notars gehört auch die sonstige Betreuung der Beteiligten auf dem Gebiete vorsorgender Rechtspflege, insbesondere die Anfertigung von Urkundenentwürfen und die Beratung der Beteiligten. Der Notar ist auch, soweit sich nicht aus anderen Vorschriften Beschränkungen ergeben, in diesem Umfange befugt, die Beteiligten vor Gerichten und Verwaltungsbehörden zu vertreten. Insbesondere ist der Notar, der Erklärungen im Zusammenhang mit einer Unternehmensgründung beurkundet oder beglaubigt, befugt, für die Beteiligten Anzeigen zu erstatten, Mitteilungen vorzunehmen und Anträge zu stellen, die im Zusammenhang mit der Gründung stehen.
 
 (2) Nimmt ein Anwaltsnotar Handlungen der in Absatz 1 bezeichneten Art vor, so ist anzunehmen, daß er als Notar tätig geworden ist, wenn die Handlung bestimmt ist, Amtsgeschäfte der in den §§ 20 bis 23 bezeichneten Art vorzubereiten oder auszuführen. Im übrigen ist im Zweifel anzunehmen, daß er als Rechtsanwalt tätig geworden ist.
 
@@ -1156,7 +1156,7 @@ Wird in einem nach diesem Gesetz geführten Verwaltungsverfahren für den Notar 
 
 #### § 64c Ersetzung der Schriftform
 
-Ist nach diesem Gesetz oder einer aufgrund dieses Gesetzes erlassenen Rechtsverordnung für die Abgabe einer Erklärung die Schriftform vorgeschrieben, so kann die Erklärung auch über das besondere elektronische Notarpostfach abgegeben werden, wenn Erklärender und Empfänger über ein solches verfügen. Ist die Erklärung von einer natürlichen Person abzugeben, so ist das Dokument mit einer qualifizierten elektronischen Signatur der Person zu versehen oder von ihr zu signieren und selbst zu versenden. Ein besonderes elektronisches Behördenpostfach steht dem besonderen elektronischen Notarpostfach im Sinne des Satzes 1 gleich.
+Ist nach diesem Gesetz oder einer aufgrund dieses Gesetzes erlassenen Rechtsverordnung für die Abgabe einer Erklärung die Schriftform vorgeschrieben, so kann die Erklärung auch über das besondere elektronische Notarpostfach abgegeben werden, wenn Erklärender und Empfänger über ein solches verfügen. Ist die Erklärung von einer natürlichen Person abzugeben, so ist das Dokument mit einer qualifizierten elektronischen Signatur der Person zu versehen oder von ihr zu signieren und selbst zu versenden. Ein besonderes elektronisches Behördenpostfach steht dem besonderen elektronischen Notarpostfach nach Satz 1 gleich.
 
 
 #### § 64d Übermittlung von Daten

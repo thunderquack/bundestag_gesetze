@@ -2930,6 +2930,9 @@ Zuständige Aufsichtsbehörde für die Durchführung dieses Gesetzes ist
 
 
 
+5a. für Verpflichtete nach § 2 Absatz 1 Nummer 11 das Bundesamt für Justiz,
+
+
 6.  für Wirtschaftsprüfer und vereidigte Buchprüfer nach § 2 Absatz 1 Nummer 12 die Wirtschaftsprüferkammer (§ 57 Absatz 2 Nummer 17 der Wirtschaftsprüferordnung),
 
 
@@ -3553,7 +3556,7 @@ Gegenüber Verpflichteten gemäß § 2 Absatz 1 Nummer 1 bis 3 und 6 bis 9, die 
 
 Handelt es sich bei der juristischen Person oder Personenvereinigung um ein Mutterunternehmen oder um ein Tochterunternehmen, so ist anstelle des Gesamtumsatzes der juristischen Person oder Personenvereinigung der jeweilige Gesamtbetrag in demjenigen Konzernabschluss des Mutterunternehmens maßgeblich, der für den größten Kreis von Unternehmen aufgestellt wird. Wird der Konzernabschluss für den größten Kreis von Unternehmen nicht nach den in Satz 1 genannten Vorschriften aufgestellt, ist der Gesamtumsatz nach Maßgabe der den in Satz 1 Nummer 1 bis 3 vergleichbaren Posten des Konzernabschlusses zu ermitteln. Ist ein Jahresabschluss oder Konzernabschluss für das maßgebliche Geschäftsjahr nicht verfügbar, so ist der Jahresabschluss oder Konzernabschluss für das unmittelbar vorausgehende Geschäftsjahr maßgeblich. Ist auch der Jahresabschluss oder Konzernabschluss für das unmittelbar vorausgehende Geschäftsjahr nicht verfügbar, so kann der Gesamtumsatz geschätzt werden.
 
-(5) Die jeweils nach § 50 Nummer 1 und 7a bis 9 zuständige Aufsichtsbehörde ist auch Verwaltungsbehörde nach § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten. Für Ordnungswidrigkeiten nach Absatz 1 Satz 1 Nummer 54 bis 66 ist Verwaltungsbehörde nach § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten das Bundesverwaltungsamt.
+(5) Die jeweils nach § 50 Nummer 1, 5a und 7a bis 9 zuständige Aufsichtsbehörde ist auch Verwaltungsbehörde nach § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten. Für Ordnungswidrigkeiten nach Absatz 1 Satz 1 Nummer 54 bis 66 ist Verwaltungsbehörde nach § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten das Bundesverwaltungsamt.
 
 (5a) Soweit nach Absatz 5 Satz 1 die Finanzbehörde Verwaltungsbehörde ist, gelten § 387 Absatz 2, § 410 Absatz 1 Nummer 2, 6 bis 11, Absatz 2 und § 412 der Abgabenordnung sinngemäß.
 

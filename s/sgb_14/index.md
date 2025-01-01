@@ -194,9 +194,9 @@ Ausländerinnen und Ausländer haben dieselben Ansprüche wie Deutsche.
 
 (1) Berechtigte haben wegen eines schädigenden Ereignisses nach diesem Buch gegen den Bund oder die Länder nur die auf diesem Buch beruhenden Ansprüche. Jedoch finden die Vorschriften der beamtenrechtlichen Unfallfürsorge in der jeweils geltenden Fassung Anwendung. Trifft ein Entschädigungsanspruch aufgrund eines schädigenden Ereignisses nach Kapitel 2 Abschnitt 2 Unterabschnitt 1 mit einem Schadensersatzanspruch aufgrund fahrlässiger Amtspflichtverletzung zusammen, so wird der Anspruch nach § 839 Absatz 1 des Bürgerlichen Gesetzbuchs nicht dadurch ausgeschlossen, dass die Voraussetzungen für den Entschädigungsanspruch bestehen.
 
-(2) Treffen Ansprüche aus mehreren schädigenden Ereignissen nach § 1 Absatz 2 zusammen, so ist ein einheitlicher Grad der Schädigungsfolgen festzusetzen. Dies gilt auch, wenn Ansprüche aus diesem Gesetz mit Ansprüchen aus anderen Gesetzen, die eine entsprechende Anwendung dieses Gesetzes vorsehen, zusammentreffen.
+(2) Treffen Ansprüche aus mehreren schädigenden Ereignissen nach § 1 Absatz 2 zusammen, so ist ein einheitlicher Grad der Schädigungsfolgen festzusetzen. Dies gilt auch, wenn Ansprüche aus diesem Gesetz mit Ansprüchen nach dem Soldatenentschädigungsgesetz oder aus anderen Gesetzen, die eine entsprechende Anwendung dieses Gesetzes vorsehen, zusammentreffen.
 
-(3) Ansprüche nach dem Siebten Buch, nach dem Soldatenversorgungsgesetz oder nach der beamtenrechtlichen Unfallfürsorge gehen den Ansprüchen nach diesem Buch vor, soweit beide Ansprüche auf derselben Ursache beruhen. Der Anspruch auf Leistungen nach diesem Buch ruht in Höhe der Versorgung aus der gesetzlichen Unfallversicherung oder nach dem Soldatenversorgungsgesetz und in Höhe des Unterschiedsbetrags zwischen einer Versorgung nach allgemeinen beamtenrechtlichen Bestimmungen und aus der beamtenrechtlichen Unfallfürsorge, soweit beide Ansprüche auf derselben Ursache beruhen.
+(3) Ansprüche nach dem Siebten Buch, nach dem Soldatenentschädigungsgesetz oder nach der beamtenrechtlichen Unfallfürsorge gehen den Ansprüchen nach diesem Buch vor, soweit beide Ansprüche auf derselben Ursache beruhen. Der Anspruch auf Leistungen nach diesem Buch ruht in Höhe der Versorgung aus der gesetzlichen Unfallversicherung oder nach dem Soldatenentschädigungsgesetz und in Höhe des Unterschiedsbetrags zwischen einer Versorgung nach allgemeinen beamtenrechtlichen Bestimmungen und aus der beamtenrechtlichen Unfallfürsorge, soweit beide Ansprüche auf derselben Ursache beruhen.
 
 
 #### § 9 Ausschluss der Pfändbarkeit von Ansprüchen
@@ -795,7 +795,7 @@ Dabei gelten die Grundsätze der Leistungserbringung des Rechts der gesetzlichen
 
 (4) Das Krankengeld der Sozialen Entschädigung beträgt 80 Prozent des Regelentgelts, darf jedoch das entgangene regelmäßige Nettoarbeitsentgelt nicht übersteigen. Das Regelentgelt wird bis zur Höhe der jeweils geltenden Leistungsbemessungsgrenze berücksichtigt. Leistungsbemessungsgrenze ist der 360. Teil der jährlichen Beitragsbemessungsgrenze der allgemeinen Rentenversicherung.
 
-(5) Haben Geschädigte von einem anderen Rehabilitationsträger Krankengeld, Versorgungskrankengeld, Verletztengeld oder Übergangsgeld bezogen und ist ihnen im Anschluss daran Krankengeld der Sozialen Entschädigung zu zahlen, so ist bei dessen Berechnung von dem bisher zugrunde gelegten Entgelt auszugehen.
+(5) Haben Geschädigte von einem anderen Rehabilitationsträger Krankengeld, Versorgungskrankengeld, Krankengeld der Soldatenentschädigung, Verletztengeld oder Übergangsgeld bezogen und ist ihnen im Anschluss daran Krankengeld der Sozialen Entschädigung zu zahlen, so ist bei dessen Berechnung von dem bisher zugrunde gelegten Entgelt auszugehen.
 
 (6) Für die nach dem Künstlersozialversicherungsgesetz Versicherten sowie für Versicherte, die eine Wahlerklärung nach § 44 Absatz 2 Satz 1 Nummer 2 des Fünften Buches abgegeben haben, entsteht der Anspruch auf Krankengeld der Sozialen Entschädigung zu den in § 46 Satz 1 des Fünften Buches geregelten Zeiten. § 46 Satz 2 bis 4 des Fünften Buches findet keine Anwendung.
 
@@ -1732,7 +1732,7 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 ### § 93 Leistungen zum Lebensunterhalt
 
-(1) Geschädigte erhalten Leistungen zum Lebensunterhalt. Hinterbliebene erhalten Leistungen nach Satz 1 für einen Zeitraum von bis zu fünf Jahren nach dem Tod der oder des Geschädigten. Die Vorschriften des Dritten und Vierten Kapitels des Zwölften Buches gelten entsprechend unter Berücksichtigung der besonderen Lage der Geschädigten und Hinterbliebenen. Leistungen zum Lebensunterhalt werden nur erbracht, soweit der Lebensunterhalt nicht aus den übrigen Leistungen nach diesem Gesetz bestritten werden kann.
+(1) Geschädigte erhalten Leistungen zum Lebensunterhalt. Hinterbliebene erhalten Leistungen nach Satz 1 für einen Zeitraum von bis zu fünf Jahren nach dem Tod der oder des Geschädigten. Die Vorschriften des Dritten und Vierten Kapitels sowie § 145 Absatz 1 und 2 des Zwölften Buches gelten entsprechend unter Berücksichtigung der besonderen Lage der Geschädigten und Hinterbliebenen. Leistungen zum Lebensunterhalt werden nur erbracht, soweit der Lebensunterhalt nicht aus den übrigen Leistungen nach diesem Gesetz bestritten werden kann.
 
 (2) Sind für Geschädigte und Waisen Leistungen zum Lebensunterhalt während der Erbringung von Leistungen nach dem Achten Buch erforderlich, erbringt diese der Träger der Sozialen Entschädigung nach Maßgabe des Absatzes 1, soweit nicht der Träger der öffentlichen Jugendhilfe Leistungen nach § 39 des Achten Buches erbringt.
 

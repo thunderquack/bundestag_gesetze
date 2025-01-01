@@ -181,7 +181,7 @@ Die Vorschriften dieses Gesetzes für im Wege der Prozesskostenhilfe beigeordnet
 
 
 
-(2) Die Rüge ist innerhalb von zwei Wochen nach Kenntnis von der Verletzung des rechtlichen Gehörs zu erheben; der Zeitpunkt der Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf eines Jahres seit Bekanntmachung der angegriffenen Entscheidung kann die Rüge nicht mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem dritten Tage nach Aufgabe zur Post als bekannt gemacht. Die Rüge ist bei dem Gericht zu erheben, dessen Entscheidung angegriffen wird; § 33 Absatz 7 Satz 1 und 2 gilt entsprechend. Die Rüge muss die angegriffene Entscheidung bezeichnen und das Vorliegen der in Absatz 1 Nummer 2 genannten Voraussetzungen darlegen.
+(2) Die Rüge ist innerhalb von zwei Wochen nach Kenntnis von der Verletzung des rechtlichen Gehörs zu erheben; der Zeitpunkt der Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf eines Jahres seit Bekanntmachung der angegriffenen Entscheidung kann die Rüge nicht mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem vierten Tag nach Aufgabe zur Post als bekannt gemacht. Die Rüge ist bei dem Gericht zu erheben, dessen Entscheidung angegriffen wird; § 33 Absatz 7 Satz 1 und 2 gilt entsprechend. Die Rüge muss die angegriffene Entscheidung bezeichnen und das Vorliegen der in Absatz 1 Nummer 2 genannten Voraussetzungen darlegen.
 
 (3) Den übrigen Beteiligten ist, soweit erforderlich, Gelegenheit zur Stellungnahme zu geben.
 

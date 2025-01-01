@@ -153,7 +153,7 @@ Versicherungspflichtig sind Personen in der Zeit,
 2b. in der sie als ehemalige Soldaten auf Zeit Übergangsgebührnisse beziehen, es sei denn, sie sind für die Zeiten als Soldaten auf Zeit nach § 186 nachversichert worden,
 
 
-3.  für die sie von einem Leistungsträger Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Übergangsgeld, Arbeitslosengeld oder von der sozialen oder einer privaten Pflegeversicherung Pflegeunterstützungsgeld beziehen, wenn sie im letzten Jahr vor Beginn der Leistung zuletzt versicherungspflichtig waren; der Zeitraum von einem Jahr verlängert sich um Anrechnungszeiten wegen des Bezugs von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches,
+3.  für die sie von einem Leistungsträger Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung, Übergangsgeld, Arbeitslosengeld oder von der sozialen oder einer privaten Pflegeversicherung Pflegeunterstützungsgeld beziehen, wenn sie im letzten Jahr vor Beginn der Leistung zuletzt versicherungspflichtig waren; der Zeitraum von einem Jahr verlängert sich um Anrechnungszeiten wegen des Bezugs von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches,
 
 
 3a. für die sie von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Landesebene, soweit das Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben oder im Zusammenhang mit einer im Sinne von § 9 des Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen beziehen, wenn sie im letzten Jahr vor Beginn dieser Zahlung zuletzt versicherungspflichtig waren; der Zeitraum von einem Jahr verlängert sich um Anrechnungszeiten wegen des Bezugs von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches,
@@ -189,7 +189,10 @@ Auf Antrag ihres Arbeitgebers versicherungspflichtig sind auch Angehörige eines
 1.  eine der in § 3 Satz 1 Nr. 3 genannten Sozialleistungen oder Leistungen für den Ausfall von Arbeitseinkünften nach § 3 Satz 1 Nummer 3a beziehen und nicht nach diesen Vorschriften versicherungspflichtig sind,
 
 
-2.  nur deshalb keinen Anspruch auf Krankengeld haben, weil sie nicht in der gesetzlichen Krankenversicherung versichert sind oder in der gesetzlichen Krankenversicherung ohne Anspruch auf Krankengeld versichert sind, für die Zeit der Arbeitsunfähigkeit oder der Ausführung von Leistungen zur medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben, wenn sie im letzten Jahr vor Beginn der Arbeitsunfähigkeit oder der Ausführung von Leistungen zur medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben zuletzt versicherungspflichtig waren, längstens jedoch für 18 Monate.
+2.  nur deshalb keinen Anspruch auf Krankengeld haben, weil sie nicht in der gesetzlichen Krankenversicherung versichert sind oder in der gesetzlichen Krankenversicherung ohne Anspruch auf Krankengeld versichert sind, für die Zeit der Arbeitsunfähigkeit oder der Ausführung von Leistungen zur medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben, wenn sie im letzten Jahr vor Beginn der Arbeitsunfähigkeit oder der Ausführung von Leistungen zur medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben zuletzt versicherungspflichtig waren, längstens jedoch für 18 Monate,
+
+
+3.  Erwerbsschadensausgleich nach dem Soldatenentschädigungsgesetz beziehen, wenn die zuständige Behörde den Antrag nach § 41 des Soldatenentschädigungsgesetzes stellt.
 
 
 
@@ -199,7 +202,7 @@ Dies gilt auch für Personen, die ihren gewöhnlichen Aufenthalt im Ausland habe
 
 (4) Die Versicherungspflicht beginnt
 
-1.  in den Fällen der Absätze 1 und 2 mit dem Tag, an dem erstmals die Voraussetzungen nach den Absätzen 1 und 2 vorliegen, wenn sie innerhalb von drei Monaten danach beantragt wird, sonst mit dem Tag, der dem Eingang des Antrags folgt,
+1.  in den Fällen der Absätze 1 und 2 sowie des Absatzes 3 Satz 1 Nummer 3 mit dem Tag, an dem die dort genannten Voraussetzungen erstmals vorliegen, wenn sie innerhalb von drei Monaten danach beantragt wird, sonst mit dem Tag, der dem Eingang des Antrags folgt,
 
 
 2.  in den Fällen des Absatzes 3 Satz 1 Nr. 1 mit Beginn der Leistung und in den Fällen des Absatzes 3 Satz 1 Nr. 2 mit Beginn der Arbeitsunfähigkeit oder Rehabilitation, wenn der Antrag innerhalb von drei Monaten danach gestellt wird, andernfalls mit dem Tag, der dem Eingang des Antrags folgt, frühestens jedoch mit dem Ende der Versicherungspflicht aufgrund einer vorausgehenden versicherungspflichtigen Beschäftigung oder Tätigkeit.
@@ -309,7 +312,7 @@ Satz 1 Nr. 1 gilt entsprechend für die Aufnahme einer zweiten selbständigen T�
 
 (1b) Personen, die eine geringfügige Beschäftigung nach § 8 Absatz 1 Nummer 1 oder § 8a in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten Buches ausüben, werden auf Antrag von der Versicherungspflicht befreit. Der schriftliche oder elektronische Befreiungsantrag ist dem Arbeitgeber zu übergeben. § 8 Absatz 2 des Vierten Buches ist mit der Maßgabe anzuwenden, dass eine Zusammenrechnung mit einer nicht geringfügigen Beschäftigung nur erfolgt, wenn diese versicherungspflichtig ist. Der Antrag kann bei mehreren geringfügigen Beschäftigungen nur einheitlich gestellt werden und ist für die Dauer der Beschäftigungen bindend. Satz 1 gilt nicht für Personen, die im Rahmen betrieblicher Berufsbildung, nach dem Jugendfreiwilligendienstegesetz, nach dem Bundesfreiwilligendienstgesetz oder nach § 1 Satz 1 Nummer 2 bis 4 beschäftigt sind oder von der Möglichkeit einer stufenweisen Wiederaufnahme einer nicht geringfügigen Tätigkeit (§ 74 des Fünften Buches) Gebrauch machen.
 
-(2) Die Befreiung erfolgt auf Antrag des Versicherten, in den Fällen des Absatzes 1 Nr. 2 und 3 auf Antrag des Arbeitgebers. In den Fällen des Absatzes 1 Satz 1 Nummer 1 hat der Versicherte den Antrag elektronisch über die zuständige berufsständische Versorgungseinrichtung zu stellen. Diese leitet den Antrag durch Datenübertragung an den Träger der Rentenversicherung zusammen mit den Bestätigungen über das Vorliegen einer Pflichtmitgliedschaft in einer berufsständischen Versorgungseinrichtung, über das Bestehen einer Pflichtmitgliedschaft in der berufsständischen Kammer und über die Pflicht zur Zahlung einkommensbezogener Beiträge zur Entscheidung unverzüglich weiter. Der Träger der Rentenversicherung teilt seine Entscheidung dem Antragsteller in Textform und der den Antrag weiterleitenden berufsständischen Versorgungseinrichtung elektronisch mit. Der Eingang des Antrags bei der berufsständischen Versorgungseinrichtung ist für die Wahrung der in Absatz 4 bestimmten Frist maßgeblich. Der Datenaustausch erfolgt über die Annahmestelle der berufsständischen Versorgungseinrichtungen und die Datenstelle der Rentenversicherung. Die technische Ausgestaltung des Verfahrens regeln die Deutsche Rentenversicherung Bund und die Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e. V. in gemeinsamen Grundsätzen, die vom Bundesministerium für Arbeit und Soziales zu genehmigen sind.
+(2) Die Befreiung erfolgt auf Antrag des Versicherten, in den Fällen des Absatzes 1 Nr. 2 und 3 auf Antrag des Arbeitgebers. In den Fällen des Absatzes 1 Satz 1 Nummer 1 hat der Versicherte den Antrag elektronisch über die zuständige berufsständische Versorgungseinrichtung zu stellen. Diese leitet den Antrag durch Datenübertragung an den Träger der Rentenversicherung zusammen mit den Bestätigungen über das Vorliegen einer Pflichtmitgliedschaft in einer berufsständischen Versorgungseinrichtung, über das Bestehen einer Pflichtmitgliedschaft in der berufsständischen Kammer und über die Pflicht zur Zahlung einkommensbezogener Beiträge zur Entscheidung unverzüglich weiter. Der Träger der Rentenversicherung teilt seine Entscheidung dem Antragsteller in Textform und der den Antrag weiterleitenden berufsständischen Versorgungseinrichtung elektronisch mit. Der Rentenversicherungsträger informiert den Arbeitgeber elektronisch über das Ergebnis seiner Entscheidung. Der Eingang des Antrags bei der berufsständischen Versorgungseinrichtung ist für die Wahrung der in Absatz 4 bestimmten Frist maßgeblich. Der Datenaustausch erfolgt über die Annahmestelle der berufsständischen Versorgungseinrichtungen und die Datenstelle der Rentenversicherung. Die technische Ausgestaltung des Verfahrens regeln die Deutsche Rentenversicherung Bund und die Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e. V. in gemeinsamen Grundsätzen, die vom Bundesministerium für Arbeit und Soziales zu genehmigen sind.
 
 (3) Über die Befreiung entscheidet der Träger der Rentenversicherung. Abweichend von Satz 1 entscheidet in den Fällen des Absatzes 1 Satz 1 Nummer 1 und 2 die Deutsche Rentenversicherung Bund, nachdem das Vorliegen der Voraussetzungen bestätigt worden ist
 
@@ -488,7 +491,7 @@ Die Leistungen zur Prävention haben Vorrang vor den Leistungen zur Teilhabe. Di
 
 (1) Leistungen zur Teilhabe werden nicht für Versicherte erbracht, die
 
-1.  wegen eines Arbeitsunfalls, einer Berufskrankheit, einer Schädigung im Sinne des Sozialen Entschädigungsrechts oder wegen eines Einsatzunfalls, der Ansprüche nach dem Einsatz-Weiterverwendungsgesetz begründet, gleichartige Leistungen eines anderen Rehabilitationsträgers oder Leistungen zur Eingliederung nach dem Einsatz-Weiterverwendungsgesetz erhalten können,
+1.  wegen eines Arbeitsunfalls, einer Berufskrankheit, einer Schädigung im Sinne des Sozialen Entschädigungsrechts, einer Wehrdienstbeschädigung nach § 3 des Soldatenentschädigungsgesetzes oder wegen eines Einsatzunfalls, der Ansprüche nach dem Einsatz-Weiterverwendungsgesetz begründet, gleichartige Leistungen eines anderen Rehabilitationsträgers oder Leistungen zur Eingliederung nach dem Einsatz-Weiterverwendungsgesetz erhalten können,
 
 
 2.  eine Rente wegen Alters von wenigstens zwei Dritteln der Vollrente beziehen oder beantragt haben,
@@ -730,7 +733,7 @@ Die Träger der gesetzlichen Rentenversicherung erbringen die Leistungen zur Tei
     a)  Arbeitsentgelt oder Arbeitseinkommen erzielt und im Bemessungszeitraum Beiträge zur Rentenversicherung gezahlt haben oder
 
 
-    b)  Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Übergangsgeld, Kurzarbeitergeld, Qualifizierungsgeld, Arbeitslosengeld oder Mutterschaftsgeld bezogen haben und für die von dem der Sozialleistung zugrunde liegenden Arbeitsentgelt oder Arbeitseinkommen Beiträge zur Rentenversicherung gezahlt worden sind.
+    b)  Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung Übergangsgeld, Kurzarbeitergeld, Qualifizierungsgeld, Arbeitslosengeld oder Mutterschaftsgeld bezogen haben und für die von dem der Sozialleistung zugrunde liegenden Arbeitsentgelt oder Arbeitseinkommen Beiträge zur Rentenversicherung gezahlt worden sind.
 
 
 
@@ -998,9 +1001,11 @@ Versicherte haben Anspruch auf Altersrente für langjährig unter Tage beschäft
 haben.
 
 
-###### § 41 Altersrente und Kündigungsschutz
+###### § 41 Altersrente und Ende des Arbeitsverhältnisses
 
-Der Anspruch des Versicherten auf eine Rente wegen Alters ist nicht als ein Grund anzusehen, der die Kündigung eines Arbeitsverhältnisses durch den Arbeitgeber nach dem Kündigungsschutzgesetz bedingen kann. Eine Vereinbarung, die die Beendigung des Arbeitsverhältnisses eines Arbeitnehmers ohne Kündigung zu einem Zeitpunkt vorsieht, zu dem der Arbeitnehmer vor Erreichen der Regelaltersgrenze eine Rente wegen Alters beantragen kann, gilt dem Arbeitnehmer gegenüber als auf das Erreichen der Regelaltersgrenze abgeschlossen, es sei denn, dass die Vereinbarung innerhalb der letzten drei Jahre vor diesem Zeitpunkt abgeschlossen oder von dem Arbeitnehmer innerhalb der letzten drei Jahre vor diesem Zeitpunkt bestätigt worden ist. Sieht eine Vereinbarung die Beendigung des Arbeitsverhältnisses mit dem Erreichen der Regelaltersgrenze vor, können die Arbeitsvertragsparteien durch Vereinbarung während des Arbeitsverhältnisses den Beendigungszeitpunkt, gegebenenfalls auch mehrfach, hinausschieben.
+(1) Der Anspruch des Versicherten auf eine Rente wegen Alters ist nicht als ein Grund anzusehen, der die Kündigung eines Arbeitsverhältnisses durch den Arbeitgeber nach dem Kündigungsschutzgesetz bedingen kann. Eine Vereinbarung, die die Beendigung des Arbeitsverhältnisses eines Arbeitnehmers ohne Kündigung zu einem Zeitpunkt vorsieht, zu dem der Arbeitnehmer vor Erreichen der Regelaltersgrenze eine Rente wegen Alters beantragen kann, gilt dem Arbeitnehmer gegenüber als auf das Erreichen der Regelaltersgrenze abgeschlossen, es sei denn, dass die Vereinbarung innerhalb der letzten drei Jahre vor diesem Zeitpunkt abgeschlossen oder von dem Arbeitnehmer innerhalb der letzten drei Jahre vor diesem Zeitpunkt bestätigt worden ist. Sieht eine Vereinbarung die Beendigung des Arbeitsverhältnisses mit dem Erreichen der Regelaltersgrenze vor, können die Arbeitsvertragsparteien durch Vereinbarung während des Arbeitsverhältnisses den Beendigungszeitpunkt, gegebenenfalls auch mehrfach, hinausschieben.
+
+(2) Eine Vereinbarung, die die Beendigung des Arbeitsverhältnisses mit dem Erreichen der Regelaltersgrenze vorsieht, bedarf zu ihrer Wirksamkeit der Textform. § 14 Absatz 4 des Teilzeit- und Befristungsgesetzes gilt nicht.
 
 
 ###### § 42 Vollrente und Teilrente
@@ -1379,7 +1384,7 @@ Kalendermonate, die durch Versorgungsausgleich oder Rentensplitting ermittelt we
 1.  wegen eines Arbeitsunfalls oder einer Berufskrankheit,
 
 
-2.  wegen einer Wehrdienstbeschädigung nach dem Soldatenversorgungsgesetz als Wehrdienstleistende oder Soldaten auf Zeit,
+2.  wegen einer Wehrdienstbeschädigung nach § 81 des Soldatenversorgungsgesetzes in der am 31. Dezember 2024 geltenden Fassung oder nach § 3 des Soldatenentschädigungsgesetzes als Wehrdienstleistende oder Soldaten auf Zeit,
 
 
 3.  wegen einer Zivildienstbeschädigung nach dem Zivildienstgesetz als Zivildienstleistende oder
@@ -2232,7 +2237,7 @@ Für die Ermittlung von Zuschlägen an Entgeltpunkten aus Beiträgen nach Beginn
 
 ###### § 76e Zuschläge an Entgeltpunkten für Zeiten einer besonderen Auslandsverwendung
 
-(1) Für Zeiten einer besonderen Auslandsverwendung nach § 63c Absatz 1 des Soldatenversorgungsgesetzes oder § 31a Absatz 1 des Beamtenversorgungsgesetzes ab dem 13. Dezember 2011 werden Zuschläge an Entgeltpunkten ermittelt, wenn während dieser Zeiten Pflichtbeitragszeiten vorliegen und nach dem 30. November 2002 insgesamt mindestens 180 Tage an Zeiten einer besonderen Auslandsverwendung vorliegen, die jeweils ununterbrochen mindestens 30 Tage gedauert haben.
+(1) Für Zeiten einer besonderen Auslandsverwendung nach § 87 Absatz 1 des Soldatenversorgungsgesetzes oder § 31a Absatz 1 des Beamtenversorgungsgesetzes ab dem 13. Dezember 2011 werden Zuschläge an Entgeltpunkten ermittelt, wenn während dieser Zeiten Pflichtbeitragszeiten vorliegen und nach dem 30. November 2002 insgesamt mindestens 180 Tage an Zeiten einer besonderen Auslandsverwendung vorliegen, die jeweils ununterbrochen mindestens 30 Tage gedauert haben.
 
 (2) Die Zuschläge an Entgeltpunkten betragen für jeden Kalendermonat der besonderen Auslandsverwendung 0,18 Entgeltpunkte, wenn diese Zeiten jeweils ununterbrochen mindestens 30 Tage gedauert haben; für jeden Teilzeitraum wird der entsprechende Anteil zugrunde gelegt.
 
@@ -2838,7 +2843,7 @@ Nachversicherten, die ihren Anspruch auf Versorgung ganz und auf Dauer verloren 
 
 
 
-2.  Krankengeld der Sozialen Entschädigung,
+2.  Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung,
 
     a)  das aufgrund einer Arbeitsunfähigkeit geleistet wird, die nach dem Beginn der Rente eingetreten ist, oder
 
@@ -2950,7 +2955,7 @@ des vorvergangenen Kalenderjahres zu berücksichtigen. Bei Anwendung von Satz 4 
 
 (5) Einkommen nach Absatz 2 ist auch dann abschließend zu berücksichtigen, wenn die Einkommensteuer vorläufig oder unter Vorbehalt der Nachprüfung festgesetzt oder die Entscheidung der Finanzbehörde angefochten wurde, es sei denn, die Vollziehung des Einkommensteuerbescheides wurde ausgesetzt. Einkommensänderungen, die dem Träger der Rentenversicherung jeweils bis zum 31. Oktober vorliegen, sind vom darauffolgenden 1. Januar an zu berücksichtigen; Absatz 6 bleibt unberührt.
 
-(6) Die jährliche Einkommensanrechnung ist zunächst nur unter Berücksichtigung von Einkommen nach Absatz 2 Satz 1 Nummer 1 und 2 durchzuführen. Ist ein Rentenanteil aus dem Zuschlag an Entgeltpunkten für langjährige Versicherung zu leisten, haben der Berechtigte und sein Ehegatte über Einkommen nach Absatz 2 Satz 1 Nummer 3 innerhalb von drei Monaten nach Bekanntgabe des Bescheides über den Rentenanteil aus dem Zuschlag an Entgeltpunkten für langjährige Versicherung dem Träger der Rentenversicherung mitzuteilen, wenn solches Einkommen in dem nach Absatz 2 Satz 3 und 4 maßgeblichen Kalenderjahr erzielt wurde und dessen Höhe nachzuweisen. Der Berechtigte ist auf die Überprüfungsrechte nach § 151c hinzuweisen. Erfolgt keine Mitteilung nach Satz 2, gilt Einkommen nach Absatz 2 Satz 1 Nummer 3 als nicht erzielt. Teilen der Berechtigte und sein Ehegatte Einkommen nach Absatz 2 Satz 1 Nummer 3 mit und ergibt sich nach erneuter Einkommensprüfung ein veränderter Rentenanteil aus dem Zuschlag an Entgeltpunkten für langjährige Versicherung, ist der Bescheid mit Wirkung für die Zukunft aufzuheben. Im Fall einer zu Unrecht unterbliebenen oder unrichtigen Auskunft ist der Bescheid vom Beginn des Zeitraumes der Anrechnung von Einkommen nach Satz 1 aufzuheben. Soweit Bescheide aufgehoben wurden, sind zu viel erbrachte Leistungen zu erstatten; § 50 Absatz 2a bis 5 des Zehnten Buches bleibt unberührt. Nicht anzuwenden ist die Vorschrift zur Anhörung Beteiligter (§ 24 des Zehnten Buches).
+(6) Die jährliche Einkommensanrechnung ist zunächst nur unter Berücksichtigung von Einkommen nach Absatz 2 Satz 1 Nummer 1 und 2 durchzuführen. Ist ein Rentenanteil aus dem Zuschlag an Entgeltpunkten für langjährige Versicherung zu leisten, haben der Berechtigte und sein Ehegatte über Einkommen nach Absatz 2 Satz 1 Nummer 3 innerhalb von drei Monaten nach Bekanntgabe des Bescheides über den Rentenanteil aus dem Zuschlag an Entgeltpunkten für langjährige Versicherung dem Träger der Rentenversicherung mitzuteilen, wenn solches Einkommen in dem nach Absatz 2 Satz 3 und 4 maßgeblichen Kalenderjahr erzielt wurde und dessen Höhe nachzuweisen. Erfolgt keine Mitteilung nach Satz 2, gilt Einkommen nach Absatz 2 Satz 1 Nummer 3 als nicht erzielt. Teilen der Berechtigte und sein Ehegatte Einkommen nach Absatz 2 Satz 1 Nummer 3 mit und ergibt sich nach erneuter Einkommensprüfung ein veränderter Rentenanteil aus dem Zuschlag an Entgeltpunkten für langjährige Versicherung, ist der Bescheid mit Wirkung für die Zukunft aufzuheben. Im Fall einer zu Unrecht unterbliebenen oder unrichtigen Auskunft ist der Bescheid vom Beginn des Zeitraumes der Anrechnung von Einkommen nach Satz 1 aufzuheben. Soweit Bescheide aufgehoben wurden, sind zu viel erbrachte Leistungen zu erstatten; § 50 Absatz 2a bis 5 des Zehnten Buches bleibt unberührt. Nicht anzuwenden ist die Vorschrift zur Anhörung Beteiligter (§ 24 des Zehnten Buches).
 
 (7) Ist in einer Rente ein Zuschlag an Entgeltpunkten für langjährige Versicherung enthalten, sind auf den hierauf beruhenden Rentenanteil die Regelungen zu Renten und Hinzuverdienst sowie zur Einkommensanrechnung auf Renten wegen Todes nicht anzuwenden. Auf diesen Rentenanteil finden ausschließlich die Absätze 1 bis 6 Anwendung.
 
@@ -4167,7 +4172,7 @@ Die Deutsche Rentenversicherung Knappschaft-Bahn-See führt die Versicherung fü
 
 
 
-bei ihr versichert sind, in der knappschaftlichen Rentenversicherung durch, wenn diese im letzten Jahr vor Beginn dieser Zeiten zuletzt wegen einer Beschäftigung in der knappschaftlichen Rentenversicherung versichert waren.
+bei ihr versichert sind, in der knappschaftlichen Rentenversicherung durch, wenn diese im letzten Jahr vor Beginn dieser Zeiten zuletzt wegen einer Beschäftigung in der knappschaftlichen Rentenversicherung versichert waren. Die Rentenversicherung für Bezieher von Erwerbsschadensausgleich ist in der knappschaftlichen Rentenversicherung durchzuführen, wenn der Erwerbsschadensausgleich für eine Beschäftigung gewährt wird, für die Beiträge zur knappschaftlichen Rentenversicherung gezahlt werden.
 
 
 #### Unterabschnitt 3a - Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See für die Seemannskasse
@@ -4557,7 +4562,10 @@ Der Rentenversicherungsträger darf die Versicherungsnummer, den Familiennamen, 
 12. mit den Versicherungsämtern und Gemeindebehörden, soweit sie mit der Aufnahme von Anträgen auf Leistungen aus der gesetzlichen Rentenversicherung betraut sind und
 
 
-13. mit weiteren Zusatzversorgungseinrichtungen des öffentlichen Dienstes und öffentlich-rechtlichen Zusatzversorgungseinrichtungen, soweit diese Daten zur Feststellung von Leistungen erforderlich sind.
+13. mit weiteren Zusatzversorgungseinrichtungen des öffentlichen Dienstes und öffentlich-rechtlichen Zusatzversorgungseinrichtungen, soweit diese Daten zur Feststellung von Leistungen erforderlich sind und
+
+
+14. mit den gemeinsamen Einrichtungen im Sinne von § 4 Absatz 2 des Tarifvertragsgesetzes, soweit dies für die Feststellung des Versicherungsfalles, für die Berechnung der Betriebsrente oder die Prüfung des Fortbestehens des Anspruchs auf die Betriebsrente dem Grund oder der Höhe nach, erforderlich ist.
 
 
 
@@ -4778,13 +4786,6 @@ Das Identifikationsmerkmal des Arbeitnehmers oder der Arbeitnehmerin ist die Ver
 
 
 
-
-
-#### § 151c Auskunftsrechte zur Überprüfung von Einkünften aus Kapitalvermögen beim Zuschlag an Entgeltpunkten für langjährige Versicherung
-
-(1) Die Träger der Rentenversicherung können für Berechtigte, bei denen nach Prüfung des Einkommens nach § 97a ein Rentenanteil aus dem Zuschlag an Entgeltpunkten für langjährige Versicherung geleistet wird, und für deren Ehegatten im Wege des automatisierten Datenabgleichs bei einer durch Zufallsauswahl gewonnenen hinreichenden Anzahl von Fällen das Bundeszentralamt für Steuern nach § 93 Absatz 8 Satz 1 Nummer 1 Buchstabe g der Abgabenordnung ersuchen, bei Kreditinstituten die in § 93b Absatz 1 und 1a der Abgabenordnung bezeichneten Daten für den Berechtigten und dessen Ehegatten abzurufen. § 93 Absatz 8a bis 10 und § 93b Absatz 2 bis 4 der Abgabenordnung gelten entsprechend. Ein Abruf nach Satz 1 ist frühestens nach Ablauf der in § 97a Absatz 6 Satz 2 genannten Auskunftsfrist zulässig. Die Träger der Rentenversicherung dürfen für einen Abruf nach Satz 1 Name, Vornamen, Geburtsdatum und Anschrift des Berechtigten und seines Ehegatten an das Bundeszentralamt für Steuern übermitteln. Das Bundeszentralamt für Steuern darf die ihm nach Satz 4 vom Träger der Rentenversicherung übermittelten Daten nur zur Durchführung des Abrufs nach Satz 1 und zum Zweck der Datenschutzkontrolle verwenden. Die Träger der Rentenversicherung dürfen die vom Bundeszentralamt für Steuern erhobenen Daten nur für die Ermittlung des Einkommens nach § 97a nutzen. Für das Verfahren nach diesem Absatz gilt § 79 Absatz 1, 2 bis 4 des Zehnten Buches entsprechend mit der Maßgabe, dass es einer Genehmigung nach § 79 Absatz 1 des Zehnten Buches nicht bedarf.
-
-(2) Die Träger der Rentenversicherung sind berechtigt, bei jedem im Verfahren nach Absatz 1 Satz 1 ermittelten Kreditinstitut die Höhe aller bei ihm in dem maßgeblichen Kalenderjahr erzielten, versteuerten Einkünfte aus Kapitalvermögen nach § 20 des Einkommensteuergesetzes von Berechtigten und deren Ehegatten zu erheben, sofern deren Kenntnis für die Einkommensprüfung nach § 97a zur Gewährung eines Zuschlags an Entgeltpunkten für langjährige Versicherung erforderlich ist. Die Träger der Rentenversicherung dürfen hierzu Name, Vornamen, Geburtsdatum und Anschrift des Berechtigten und seines Ehegatten an das betroffene Kreditinstitut übermitteln. Das nach Satz 1 um Auskunft ersuchte Kreditinstitut ist verpflichtet, die ihm bekannten, in Satz 1 bezeichneten Daten an den um Auskunft ersuchenden Träger der Rentenversicherung zu übermitteln. Der Berechtigte und sein Ehegatte sind über die Durchführung der Datenerhebung und deren Ergebnis zu informieren.
 
 
 #### § 152 Verordnungsermächtigung
@@ -5050,7 +5051,7 @@ Beitragspflichtige Einnahmen sind
 
 (4) Bei Versicherten, die eine versicherungspflichtige ehrenamtliche Tätigkeit aufnehmen und für das vergangene Kalenderjahr freiwillige Beiträge gezahlt haben, gilt jeder Betrag zwischen dem Arbeitsentgelt und der Beitragsbemessungsgrenze als Arbeitsentgelt (Unterschiedsbetrag), wenn die Versicherten dies beim Arbeitgeber beantragen. Satz 1 gilt nur für versicherungspflichtige ehrenamtliche Tätigkeiten für Körperschaften des öffentlichen Rechts. Der Antrag kann nur für laufende und künftige Lohn- und Gehaltsabrechnungszeiträume gestellt werden.
 
-(5) Bei Arbeitnehmern, die nach dem Altersteilzeitgesetz Aufstockungsbeträge zum Arbeitsentgelt erhalten, gilt auch mindestens ein Betrag in Höhe von 80 vom Hundert des Regelarbeitsentgelts für die Altersteilzeitarbeit, begrenzt auf den Unterschiedsbetrag zwischen 90 vom Hundert der monatlichen Beitragsbemessungsgrenze und dem Regelarbeitsentgelt, höchstens jedoch bis zur Beitragsbemessungsgrenze, als beitragspflichtige Einnahme. Für Personen, die nach § 3 Satz 1 Nr. 3 für die Zeit des Bezugs von Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld oder Übergangsgeld versichert sind, und für Personen, die für die Zeit der Arbeitsunfähigkeit oder der Ausführung von Leistungen zur Teilhabe, in der sie Krankentagegeld von einem privaten Krankenversicherungsunternehmen erhalten, nach § 4 Abs. 3 Satz 1 Nr. 2 versichert sind, gilt Satz 1 entsprechend.
+(5) Bei Arbeitnehmern, die nach dem Altersteilzeitgesetz Aufstockungsbeträge zum Arbeitsentgelt erhalten, gilt auch mindestens ein Betrag in Höhe von 80 vom Hundert des Regelarbeitsentgelts für die Altersteilzeitarbeit, begrenzt auf den Unterschiedsbetrag zwischen 90 vom Hundert der monatlichen Beitragsbemessungsgrenze und dem Regelarbeitsentgelt, höchstens jedoch bis zur Beitragsbemessungsgrenze, als beitragspflichtige Einnahme. Für Personen, die nach § 3 Satz 1 Nr. 3 für die Zeit des Bezugs von Krankengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung, Verletztengeld oder Übergangsgeld versichert sind, und für Personen, die für die Zeit der Arbeitsunfähigkeit oder der Ausführung von Leistungen zur Teilhabe, in der sie Krankentagegeld von einem privaten Krankenversicherungsunternehmen erhalten, nach § 4 Abs. 3 Satz 1 Nr. 2 versichert sind, gilt Satz 1 entsprechend.
 
 (6) Soweit Kurzarbeitergeld oder Qualifizierungsgeld geleistet wird, gilt als beitragspflichtige Einnahmen 80 vom Hundert des Unterschiedsbetrags zwischen dem Soll-Entgelt und dem Ist-Entgelt nach § 106 des Dritten Buches (Kurzarbeitergeld) oder nach § 82b des Dritten Buches (Qualifizierungsgeld).
 
@@ -5112,10 +5113,13 @@ Beitragspflichtige Einnahmen sind bei selbständig Tätigen abweichend von Satz 
 1b. bei Personen, die in einem Wehrdienstverhältnis besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes versichert sind, die daraus gewährten Dienstbezüge in dem Umfang, in dem sie bei Beschäftigten als Arbeitsentgelt zu berücksichtigen wären,
 
 
-1c. bei Personen, die als ehemalige Soldaten auf Zeit Übergangsgebührnisse beziehen, die nach § 11 des Soldatenversorgungsgesetzes gewährten Übergangsgebührnisse; liegen weitere Versicherungsverhältnisse vor, ist beitragspflichtige Einnahme höchstens die Differenz aus der Beitragsbemessungsgrenze und den beitragspflichtigen Einnahmen aus den weiteren Versicherungsverhältnissen,
+1c. bei Personen, die als frühere Soldaten auf Zeit Übergangsgebührnisse beziehen, die nach dem Soldatenversorgungsgesetz gewährten Übergangsgebührnisse; liegen weitere Versicherungsverhältnisse vor, ist beitragspflichtige Einnahme höchstens die Differenz aus der Beitragsbemessungsgrenze und den beitragspflichtigen Einnahmen aus den weiteren Versicherungsverhältnissen,
 
 
-2.  bei Personen, die Arbeitslosengeld, Übergangsgeld, Krankengeld, Verletztengeld oder Krankengeld der Sozialen Entschädigung beziehen, 80 vom Hundert des der Leistung zugrunde liegenden Arbeitsentgelts oder Arbeitseinkommens, wobei 80 vom Hundert des beitragspflichtigen Arbeitsentgelts aus einem nicht geringfügigen Beschäftigungsverhältnis abzuziehen sind, und bei gleichzeitigem Bezug von Krankengeld neben einer anderen Leistung das dem Krankengeld zugrundeliegende Einkommen nicht zu berücksichtigen ist,
+1d. bei Personen, die Erwerbsschadensausgleich nach dem Soldatenentschädigungsgesetz beziehen, der gewährte Erwerbsschadensausgleich,
+
+
+2.  bei Personen, die Arbeitslosengeld, Übergangsgeld, Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung oder Krankengeld der Soldatenentschädigung beziehen, 80 vom Hundert des der Leistung zugrunde liegenden Arbeitsentgelts oder Arbeitseinkommens, wobei 80 vom Hundert des beitragspflichtigen Arbeitsentgelts aus einem nicht geringfügigen Beschäftigungsverhältnis abzuziehen sind, und bei gleichzeitigem Bezug von Krankengeld neben einer anderen Leistung das dem Krankengeld zugrundeliegende Einkommen nicht zu berücksichtigen ist,
 
 
 2a. bei Personen, die im Anschluss an den Bezug von Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches Verletztengeld beziehen, monatlich der Betrag von 205 Euro,
@@ -5269,7 +5273,7 @@ Die Höhe der monatlichen Mindestbeitragsbemessungsgrundlage für freiwillig Ver
 6.  bei Arbeitnehmern, die nach dem Altersteilzeitgesetz Aufstockungsbeträge zum Arbeitsentgelt erhalten, für die sich nach § 163 Abs. 5 Satz 1 ergebende beitragspflichtige Einnahme von den Arbeitgebern,
 
 
-7.  bei Arbeitnehmern, die nach dem Altersteilzeitgesetz Aufstockungsbeträge zum Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld, Übergangsgeld oder Krankentagegeld erhalten, für die sich nach § 163 Abs. 5 Satz 2 ergebende beitragspflichtige Einnahme
+7.  bei Arbeitnehmern, die nach dem Altersteilzeitgesetz Aufstockungsbeträge zum Krankengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung, Verletztengeld, Übergangsgeld oder Krankentagegeld erhalten, für die sich nach § 163 Abs. 5 Satz 2 ergebende beitragspflichtige Einnahme
 
     a)  von der Bundesagentur oder, im Fall der Leistungserbringung nach § 10 Abs. 2 Satz 2 des Altersteilzeitgesetzes, von den Arbeitgebern, wenn die Voraussetzungen des § 4 des Altersteilzeitgesetzes vorliegen,
 
@@ -5310,7 +5314,7 @@ Die Beiträge werden getragen
 
 (1) Die Beiträge werden getragen
 
-1.  bei Wehr- oder Zivildienst Leistenden, ehemaligen Soldaten auf Zeit während des Bezugs von Übergangsgebührnissen nach § 11 des Soldatenversorgungsgesetzes, Personen in einem Wehrdienstverhältnis besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes und für Kindererziehungszeiten vom Bund,
+1.  bei Wehr- oder Zivildienstleistenden, früheren Soldaten auf Zeit während des Bezugs von Übergangsgebührnissen nach dem Soldatenversorgungsgesetz, Personen in einem Wehrdienstverhältnis besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes und für Kindererziehungszeiten vom Bund,
 
 
 2.  bei Personen, die
@@ -5318,7 +5322,7 @@ Die Beiträge werden getragen
     a)  Krankengeld oder Verletztengeld beziehen, von den Beziehern der Leistung und den Leistungsträgern je zur Hälfte, soweit sie auf die Leistung entfallen und diese Leistungen nicht in Höhe der Leistungen der Bundesagentur für Arbeit zu zahlen sind, im Übrigen vom Leistungsträger; die Beiträge werden auch dann von den Leistungsträgern getragen, wenn die Bezieher der Leistung zur Berufsausbildung beschäftigt sind und das der Leistung zugrunde liegende Arbeitsentgelt auf den Monat bezogen die Geringfügigkeitsgrenze nicht übersteigt,
 
 
-    b)  Krankengeld der Sozialen Entschädigung, Übergangsgeld oder Arbeitslosengeld beziehen, von den Leistungsträgern,
+    b)  Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung, Übergangsgeld oder Arbeitslosengeld beziehen, von den Leistungsträgern,
 
 
     c)  Krankengeld nach § 44a des Fünften Buches beziehen, vom Leistungsträger,
@@ -5349,6 +5353,9 @@ Die Beiträge werden getragen
 
 
 4.  bei Entwicklungshelfern, bei Personen, die für eine begrenzte Zeit im Ausland beschäftigt sind, bei sekundierten Personen oder bei sonstigen im Ausland beschäftigten Personen von den antragstellenden Stellen,
+
+
+4a. bei Personen, die Erwerbsschadensausgleich nach dem Soldatenentschädigungsgesetz beziehen, von der antragstellenden Stelle.
 
 
 5.  bei Zeiten der Arbeitsunfähigkeit oder der Ausführung von Leistungen zur Teilhabe ohne Anspruch auf Krankengeld von den Versicherten selbst,
@@ -5454,7 +5461,7 @@ gilt Absatz 1 entsprechend.
 
 ###### § 175 Beitragszahlung bei Künstlern und Publizisten
 
-(1) Die Künstlersozialkasse zahlt für nachgewiesene Zeiten des Bezugs von Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Übergangsgeld oder Mutterschaftsgeld sowie für nachgewiesene Anrechnungszeiten von Künstlern und Publizisten keine Beiträge.
+(1) Die Künstlersozialkasse zahlt für nachgewiesene Zeiten des Bezugs von Krankengeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung, Übergangsgeld oder Mutterschaftsgeld sowie für nachgewiesene Anrechnungszeiten von Künstlern und Publizisten keine Beiträge.
 
 (2) Die Künstlersozialkasse ist zur Zahlung eines Beitrags für Künstler und Publizisten nur insoweit verpflichtet, als diese ihren Beitragsanteil zur Rentenversicherung nach dem Künstlersozialversicherungsgesetz an die Künstlersozialkasse gezahlt haben.
 
@@ -5475,7 +5482,12 @@ Das Nähere über Zahlung und Abrechnung der Beiträge für nicht erwerbsmäßig
 
 ###### § 176b Beitragszahlung und Abrechnung für Bezieher von Übergangsgebührnissen
 
-Das Nähere über Zahlung und Abrechnung der Beiträge für ehemalige Soldaten auf Zeit bei Bezug von Übergangsgebührnissen können das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle und die Deutsche Rentenversicherung Bund durch Vereinbarung regeln. Die Vereinbarung bedarf der Zustimmung des Bundesministeriums für Arbeit und Soziales.
+Das Nähere über Zahlung und Abrechnung der Beiträge für frühere Soldaten auf Zeit bei Bezug von Übergangsgebührnissen können das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle und die Deutsche Rentenversicherung Bund durch Vereinbarung regeln. Die Vereinbarung bedarf der Zustimmung des Bundesministeriums für Arbeit und Soziales.
+
+
+###### § 176c Beitragszahlung und Abrechnung für Bezieher von Erwerbsschadensausgleich
+
+Das Nähere über Zahlung und Abrechnung der Beiträge für Personen, die Erwerbsschadensausgleich nach dem Soldatenentschädigungsgesetz beziehen, können das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle und die Deutsche Rentenversicherung Bund durch Vereinbarung regeln. Die Vereinbarung bedarf des Einvernehmens des Bundesministeriums für Arbeit und Soziales.
 
 
 ###### § 177 Beitragszahlung für Kindererziehungszeiten
@@ -5851,9 +5863,16 @@ Eine Meldung nach § 28a Abs. 1 bis 3 des Vierten Buches haben zu erstatten
 
 ###### § 192b Meldepflichten bei Bezug von Übergangsgebührnissen
 
-(1) Bei ehemaligen Soldaten auf Zeit, die Übergangsgebührnisse beziehen, hat das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle Beginn und Ende des Bezuges der Übergangsgebührnisse zu melden.
+(1) Bei früheren Soldaten auf Zeit, die Übergangsgebührnisse beziehen, hat das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle Beginn und Ende des Bezuges der Übergangsgebührnisse zu melden.
 
-(2) § 28a Absatz 1 Satz 2, Absatz 3 und 5, § 28b Absatz 1, die §§ 28c und 95 Absatz 1 Satz 1 und 2 und Absatz 3 des Vierten Buches gelten entsprechend.
+(2) § 28a Absatz 1 Satz 2, Absatz 2, 3 und 5, § 28b Absatz 1, die §§ 28c und 95 Absatz 1 Satz 1 und 2 und Absatz 3 des Vierten Buches gelten entsprechend.
+
+
+###### § 192c Meldepflichten bei Bezug von Erwerbsschadensausgleich
+
+(1) Bei Personen, die Erwerbsschadensausgleich nach dem Soldatenentschädigungsgesetz beziehen, hat das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle Beginn und Ende des Bezuges des Erwerbsschadensausgleichs sowie den Betrag des Erwerbsschadensausgleichs, der im gemeldeten Zeitraum gezahlt wurde, in vollen Euro zu melden.
+
+(2) § 28a Absatz 1 Satz 2, Absatz 2, 3 und 5, § 28b Absatz 1, die §§ 28c und 95 Absatz 1 Satz 1 und 2 sowie Absatz 3 des Vierten Buches, § 5 Absatz 1, 3, 4 und 6 sowie § 38 Absatz 2, 4 und 5 der Datenerfassungs- und -übermittlungsverordnung gelten entsprechend.
 
 
 ###### § 193 Meldung von sonstigen rechtserheblichen Zeiten
@@ -6462,18 +6481,8 @@ Als Versicherte der knappschaftlichen Rentenversicherung gelten auch sonstige Ve
 Die Vorschriften dieses Abschnitts ergänzen die Vorschriften der vorangehenden Kapitel für Sachverhalte, die von dem Zeitpunkt des Inkrafttretens der Vorschriften der vorangehenden Kapitel an nicht mehr oder nur noch übergangsweise eintreten können.
 
 
-##### § 228a Besonderheiten für das Beitrittsgebiet
+##### § 228a (weggefallen)
 
-Soweit Vorschriften dieses Buches bei Arbeitsentgelten, Arbeitseinkommen oder Beitragsbemessungsgrundlagen
-
-1.  an die Bezugsgröße anknüpfen, ist die Bezugsgröße für das Beitrittsgebiet (Bezugsgröße (Ost)),
-
-
-2.  an die Beitragsbemessungsgrenze anknüpfen, ist die Beitragsbemessungsgrenze für das Beitrittsgebiet (Beitragsbemessungsgrenze (Ost), Anlage 2a)
-
-
-
-maßgebend, wenn die Einnahmen aus einer Beschäftigung oder Tätigkeit im Beitrittsgebiet erzielt werden. Satz 1 gilt für die Ermittlung der Beitragsbemessungsgrundlagen bei sonstigen Versicherten entsprechend.
 
 
 ##### § 228b Maßgebende Werte in der Anpassungsphase
@@ -11212,14 +11221,12 @@ Ob im Beitrittsgebiet ein Betrieb knappschaftlich ist, einem knappschaftlichen B
 
 
 
-###### § 275a Beitragsbemessungsgrenzen im Beitrittsgebiet für die Zeit bis zum 31. Dezember 2024
-
-Die Beitragsbemessungsgrenzen (Ost) in der allgemeinen Rentenversicherung sowie in der knappschaftlichen Rentenversicherung verändern sich zum 1. Januar eines jeden Kalenderjahres auf die Werte, die sich ergeben, wenn die für dieses Kalenderjahr jeweils geltenden Werte der Anlage 2 durch den für dieses Kalenderjahr bestimmten Wert der Anlage 10 geteilt werden. Dabei ist von den ungerundeten Beträgen auszugehen, aus denen die Beitragsbemessungsgrenzen errechnet wurden. Die Beitragsbemessungsgrenzen (Ost) sind für das Jahr, für das sie bestimmt werden, auf das nächsthöhere Vielfache von 600 aufzurunden. Für die Zeit ab 1. Januar 2025 sind Beitragsbemessungsgrenzen (Ost) nicht mehr zu bestimmen.
+###### § 275a (weggefallen)
 
 
-###### § 275b Verordnungsermächtigung
 
-Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Beitragsbemessungsgrenzen in Ergänzung der Anlage 2a festzusetzen.
+###### § 275b (weggefallen)
+
 
 
 ###### § 275c (weggefallen)
@@ -11259,7 +11266,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 ###### § 277a Durchführung der Nachversicherung im Beitrittsgebiet
 
-(1) Bei der Durchführung der Nachversicherung von Personen, die eine nachversicherungspflichtige Beschäftigung im Beitrittsgebiet ausgeübt haben, ist die Beitragsbemessungsgrundlage für die Berechnung der Beiträge für Zeiten im Beitrittsgebiet vor dem 1. Januar 1992 mit den entsprechenden Werten der Anlage 10 und mit dem Verhältniswert zu vervielfältigen, in dem zum Zeitpunkt der Zahlung die Bezugsgröße (Ost) zur Bezugsgröße steht; die Beitragsbemessungsgrundlage ist nur bis zu einem Betrag zu berücksichtigen, der dem durch die entsprechenden Werte der Anlage 10 geteilten Betrag der jeweiligen Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung entspricht. § 181 Abs. 4 bleibt unberührt. Für Personen, die nach § 233a Abs. 1 Satz 2 als nachversichert gelten, erfolgt anstelle einer Zahlung von Beiträgen für die Nachversicherung eine Erstattung der Aufwendungen aus der Nachversicherung; der Durchführung der Nachversicherung und der Erstattung werden die bisherigen Vorschriften, die im Gebiet der Bundesrepublik Deutschland außerhalb des Beitrittsgebiets anzuwenden sind, fiktiv zugrunde gelegt.
+(1) Bei der Durchführung der Nachversicherung von Personen, die eine nachversicherungspflichtige Beschäftigung im Beitrittsgebiet ausgeübt haben, ist die Beitragsbemessungsgrundlage für die Berechnung der Beiträge für Zeiten im Beitrittsgebiet vor dem 1. Januar 1992 mit den entsprechenden Werten der Anlage 10 zu vervielfältigen; die Beitragsbemessungsgrundlage ist nur bis zu einem Betrag zu berücksichtigen, der dem durch die entsprechenden Werte der Anlage 10 geteilten Betrag der jeweiligen Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung entspricht. § 181 Abs. 4 bleibt unberührt. Für Personen, die nach § 233a Abs. 1 Satz 2 als nachversichert gelten, erfolgt anstelle einer Zahlung von Beiträgen für die Nachversicherung eine Erstattung der Aufwendungen aus der Nachversicherung; der Durchführung der Nachversicherung und der Erstattung werden die bisherigen Vorschriften, die im Gebiet der Bundesrepublik Deutschland außerhalb des Beitrittsgebiets anzuwenden sind, fiktiv zugrunde gelegt.
 
 (2) Für Pfarrer, Pastoren, Prediger, Vikare und andere Mitarbeiter von Religionsgesellschaften im Beitrittsgebiet, die nach § 233a Abs. 3 als nachversichert gelten, gilt die Nachversicherung mit den Entgelten als durchgeführt, für die Beiträge nachgezahlt worden sind. Die Religionsgesellschaften haben den Nachversicherten die jeweiligen Entgelte zu bescheinigen.
 
@@ -11281,7 +11288,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 
 
-Die Beitragsbemessungsgrundlage ist für die Berechnung der Beiträge mit den entsprechenden Werten der Anlage 10 und mit dem Verhältniswert zu vervielfältigen, in dem im Zeitpunkt der Zahlung die Bezugsgröße (Ost) zur Bezugsgröße steht. § 181 Abs. 4 bleibt unberührt.
+Die Beitragsbemessungsgrundlage ist für die Berechnung der Beiträge mit den entsprechenden Werten der Anlage 10 zu vervielfältigen. § 181 Abs. 4 bleibt unberührt.
 
 
 ###### § 278 Mindestbeitragsbemessungsgrundlage für die Nachversicherung
@@ -11319,7 +11326,7 @@ Die Beitragsbemessungsgrundlage ist für die Berechnung der Beiträge mit den en
 2.  vom 1. Januar 1957 bis zum 30. Juni 1990 ein monatliches Arbeitsentgelt in Höhe von 20 vom Hundert der durch den Wert der Anlage 10 geteilten jeweiligen Beitragsbemessungsgrenze in der Rentenversicherung der Arbeiter und der Angestellten,
 
 
-3.  vom 1. Juli 1990 an ein monatliches Arbeitsentgelt in Höhe von 40 vom Hundert der jeweiligen Bezugsgröße (Ost).
+3.  vom 1. Juli 1990 bis zum 31. Dezember 2024 ein monatliches Arbeitsentgelt in Höhe von 40 vom Hundert der jeweiligen Bezugsgröße (Ost).
 
 
 
@@ -11332,7 +11339,7 @@ Die Beitragsbemessungsgrundlage ist für die Berechnung der Beiträge mit den en
 2.  vom 1. Januar 1968 bis zum 30. Juni 1990 ein monatliches Arbeitsentgelt in Höhe von 10 vom Hundert der durch den Wert der Anlage 10 geteilten jeweiligen Beitragsbemessungsgrenze in der Rentenversicherung der Arbeiter und der Angestellten,
 
 
-3.  vom 1. Juli 1990 an ein monatliches Arbeitsentgelt in Höhe von 20 vom Hundert der jeweiligen Bezugsgröße (Ost).
+3.  vom 1. Juli 1990 bis zum 31. Dezember 2024 ein monatliches Arbeitsentgelt in Höhe von 20 vom Hundert der jeweiligen Bezugsgröße (Ost).
 
 
 
@@ -11352,9 +11359,8 @@ Die Beitragsbemessungsgrundlage ist für die Berechnung der Beiträge mit den en
 Beitragspflichtige Einnahmen bei im Beitrittsgebiet mitarbeitenden Ehegatten sind die Einnahmen aus der Tätigkeit.
 
 
-###### § 279b Beitragsbemessungsgrundlage für freiwillig Versicherte
+###### § 279b (weggefallen)
 
-Für freiwillig Versicherte, die ihren gewöhnlichen Aufenthalt im Beitrittsgebiet haben, ist Beitragsbemessungsgrundlage ein Betrag von der Mindestbemessungsgrundlage (§ 167) bis zur Beitragsbemessungsgrenze. § 228a gilt nicht.
 
 
 ###### § 279c Beitragstragung im Beitrittsgebiet
@@ -11598,9 +11604,7 @@ Für die Bestimmung des allgemeinen Bundeszuschusses nach § 213 Absatz 2 für d
 
 ###### § 287b Ausgaben für Leistungen zur Teilhabe
 
-(1) Bei der Anwendung von § 220 Abs. 1 ist die Veränderung der Bruttolöhne und -gehälter für die Bundesrepublik Deutschland ohne das Beitrittsgebiet und für das Beitrittsgebiet jeweils getrennt festzustellen.
-
-(2) Die jährlichen Ausgaben für Leistungen zur Teilhabe werden in der Zeit vom 1. Januar 2014 bis zum 31. Dezember 2050 bedarfsgerecht unter Berücksichtigung einer Demografiekomponente fortgeschrieben. Die Demografiekomponente ist zusätzlich zur voraussichtlichen Entwicklung der Bruttolöhne und -gehälter je Arbeitnehmer bei der Festsetzung der jährlichen Ausgaben für Leistungen zur Teilhabe nach § 220 Absatz 1 Satz 1 als gesonderter Faktor zu berücksichtigen. Der Faktor wird wie folgt festgesetzt:
+Die jährlichen Ausgaben für Leistungen zur Teilhabe werden in der Zeit vom 1. Januar 2014 bis zum 31. Dezember 2050 bedarfsgerecht unter Berücksichtigung einer Demografiekomponente fortgeschrieben. Die Demografiekomponente ist zusätzlich zur voraussichtlichen Entwicklung der Bruttolöhne und -gehälter je Arbeitnehmer bei der Festsetzung der jährlichen Ausgaben für Leistungen zur Teilhabe nach § 220 Absatz 1 Satz 1 als gesonderter Faktor zu berücksichtigen. Der Faktor wird wie folgt festgesetzt:
 
 *    *   Jahr
 
@@ -11973,7 +11977,7 @@ Die Leistung für Kindererziehung bleibt als Einkommen unberücksichtigt, wenn b
 
 ##### § 301 Leistungen zur Teilhabe
 
-(1) Für Leistungen zur Teilhabe sind bis zum Ende der Leistungen die Vorschriften weiter anzuwenden, die im Zeitpunkt der Antragstellung oder, wenn den Leistungen ein Antrag nicht vorausging, der Inanspruchnahme galten. Werden Leistungen zur Teilhabe nach dem bis zum 31. Dezember 2000 geltenden Recht bewilligt und besteht deshalb ein Anspruch auf Rente wegen verminderter Erwerbsfähigkeit oder auf große Witwenrente oder große Witwerrente wegen Minderung der Erwerbsfähigkeit nicht, besteht der Anspruch auf Rente weiterhin nicht, solange Übergangsgeld, Verletztengeld oder Krankengeld der Sozialen Entschädigung geleistet wird.
+(1) Für Leistungen zur Teilhabe sind bis zum Ende der Leistungen die Vorschriften weiter anzuwenden, die im Zeitpunkt der Antragstellung oder, wenn den Leistungen ein Antrag nicht vorausging, der Inanspruchnahme galten. Werden Leistungen zur Teilhabe nach dem bis zum 31. Dezember 2000 geltenden Recht bewilligt und besteht deshalb ein Anspruch auf Rente wegen verminderter Erwerbsfähigkeit oder auf große Witwenrente oder große Witwerrente wegen Minderung der Erwerbsfähigkeit nicht, besteht der Anspruch auf Rente weiterhin nicht, solange Übergangsgeld, Verletztengeld, Krankengeld der Sozialen Entschädigung oder Krankengeld der Soldatenentschädigung geleistet wird.
 
 (2) Die Träger der Rentenversicherung können die am 31. Dezember 1991 bestehenden Fachkliniken zur Behandlung von Erkrankungen der Atmungsorgane, die nicht überwiegend der Behandlung von Tuberkulose dienen, zur Krankenhausbehandlung weiter betreiben.
 
@@ -12838,9 +12842,8 @@ Zur Verfolgung und Ahndung von Ordnungswidrigkeiten arbeiten die Rentenversicher
 ergeben. Sie unterrichten die für die Verfolgung und Ahndung zuständigen Behörden, die Träger der Sozialhilfe sowie die Behörden nach § 71 des Aufenthaltsgesetzes. Die Unterrichtung kann auch Angaben über die Tatsachen enthalten, die für die Abgabe der Meldungen des Arbeitgebers und die Einziehung der Beiträge zur Sozialversicherung erforderlich sind.
 
 
-### § 322 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+### § 322 (weggefallen)
 
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 3 Satz 1 Nummer 3, des § 20 Absatz 1 Nummer 3 Buchstabe b, des § 96a Absatz 3 Satz 1 Nummer 2, des § 163 Absatz 5 Satz 2, des § 166 Absatz 1 Nummer 2, des § 168 Absatz 1 Nummer 7, des § 170 Absatz 1 Nummer 2 Buchstabe b, des § 175 Absatz 1, des § 245 Absatz 2 Nummer 3 und 5, des § 250 Absatz 1 Nummer 1 und des § 301 Absatz 1 Satz 2 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 
 ### Anlage 1 Durchschnittsentgelt in Euro/DM/RM
@@ -13587,7 +13590,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   10
+*    *   2010
 
     *   31 144
 
@@ -13647,7 +13650,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   20
+*    *   2020
 
     *   39 167
 
@@ -13667,14 +13670,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   23
 
-    *
-    *   43 142\*)
+    *   44 732
 
+    *
 
 *    *   24
 
     *
     *   45 358\*)
+
+
+*    *   25
+
+    *
+    *   50 493\*)
 
 
 
@@ -14387,6 +14396,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *   111 600
+
+
+*    *   1.1.2025 - 31.12.2025
+
+    *   96 600
+
+    *
+    *   118 800
 
 
 

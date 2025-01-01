@@ -189,7 +189,7 @@ Leistungen Dritter sind
 
 ## § 12 Zentral verwaltete Verfahren der Informationstechnik
 
-Kosten der zentral verwalteten Verfahren der Informationstechnik sind die Aufwendungen der Bundesagentur für Arbeit für die Betreuung und Unterhaltung sowie Organisation des Betriebes der zentral verwalteten laufenden Verfahren der Informationstechnik für die gemeinsamen Einrichtungen nach § 50 Absatz 3 des Zweiten Buches Sozialgesetzbuch.
+Kosten der zentral verwalteten Verfahren der Informationstechnik sind die Aufwendungen der Bundesagentur für Arbeit für die Betreuung, Unterhaltung, Weiterentwicklung sowie Organisation des Betriebes der zentral verwalteten laufenden Verfahren der Informationstechnik für die gemeinsamen Einrichtungen nach § 50 Absatz 3 des Zweiten Buches Sozialgesetzbuch. Zu den Kosten der zentral verwalteten Verfahren der Informationstechnik zählen auch die Aufwendungen der Bundesagentur für Arbeit für die Betreuung, Unterhaltung, Weiterentwicklung und Organisation des Betriebes von laufenden Verfahren, die aus strukturellen, architektonischen oder sicherheitsrelevanten Gründen zum Betrieb der Verfahren nach Satz 1 notwendig sind, sowie die Aufwendungen für Informationstechnik zur Unterstützung der gemeinsamen Einrichtungen bei der Betrugsprävention und der Aufdeckung banden- oder gewerbsmäßiger Kriminalität.
 
 
 ## § 13 Grundsätze zur Bestimmung der Gesamtverwaltungskosten
@@ -215,7 +215,7 @@ Personalnebenkosten nach § 6 werden in tatsächlicher Höhe anerkannt. Für Per
 
 ## § 16 Versorgungsaufwendungen für Beamtinnen und Beamte
 
-Für Versorgungsaufwendungen nach § 7 wird ein Zuschlag von bis zu 30 Prozent der nach § 14 bestimmten Personalkosten für Beamtinnen und Beamte anerkannt. Abweichend von Satz 1 gilt vom 1. Januar 2015 bis 31. Dezember 2024 ein Zuschlag von bis zu 35 Prozent.
+Für Versorgungsaufwendungen nach § 7 wird ein Zuschlag von bis zu 30 Prozent der nach § 14 bestimmten ruhegehaltfähigen Personalkosten für Beamtinnen und Beamte anerkannt. Abweichend von Satz 1 gilt vom 1. Januar 2015 bis 31. Dezember 2025 ein Zuschlag von bis zu 35 Prozent.
 
 
 ## § 17 Bestimmung der Kosten für die Personalverwaltung

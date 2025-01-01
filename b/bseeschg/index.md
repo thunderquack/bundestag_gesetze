@@ -473,7 +473,7 @@ Das Bundesamt für Seeschifffahrt und Hydrographie hat die Durchführung von Ins
 3b. Art und Weise der Überprüfung der Befähigung und Eignung, insbesondere durch die Abnahme von Prüfungen, sowie das Verfahren;
 
 
-3c. die Voraussetzungen und das Verfahren, nach denen, vorbehaltlich des Anwendungsbereichs des Seesicherheits-Untersuchungs-Gesetzes, Nachweise über Befähigungen im Schiffsdienst und Fahrerlaubnisse für das Führen von Traditionsschiffen und Sportfahrzeugen erteilt, entzogen oder deren Ruhen angeordnet, Fahrverbote erteilt und entsprechende Urkunden vorläufig sichergestellt oder eingezogen werden können;
+3c. die Voraussetzungen und das Verfahren, nach denen Nachweise über Befähigungen im Schiffsdienst und Fahrerlaubnisse für das Führen von Traditionsschiffen und Sportfahrzeugen erteilt, entzogen oder deren Ruhen angeordnet, Fahrverbote erteilt und entsprechende Urkunden vorläufig sichergestellt oder eingezogen werden können;
 
 
 3d. die Anforderungen an die Erteilung eines Nachweises über die Zugehörigkeit zu der Berufsgruppe der Seeleute;

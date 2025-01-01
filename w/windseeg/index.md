@@ -118,10 +118,10 @@ Im Sinn dieses Gesetzes ist oder sind
 9.  „Testfelder“ Bereiche in der ausschließlichen Wirtschaftszone und im Küstenmeer, in denen im räumlichen Zusammenhang Pilotwindenergieanlagen auf See, Windenergieanlagen auf See oder sonstige Energiegewinnungsanlagen, die an das Netz angeschlossen werden und bei denen Innovationen erprobt werden sollen, errichtet werden sollen und die gemeinsam über eine Testfeld-Anbindungsleitung angebunden werden sollen,
 
 
-10. „Testfeld-Anbindungsleitungen“ Testfeld-Anbindungsleitungen im Sinn von § 12b Absatz 1 Satz 4 Nummer 7 des Energiewirtschaftsgesetzes,
+10. „Testfeld-Anbindungsleitungen“ Testfeld-Anbindungsleitungen im Sinn von § 12b Absatz 1 Satz 4 Nummer 6 des Energiewirtschaftsgesetzes,
 
 
-11.[^f794982_06_BJNR231000016BJNE000404119]
+11.[^f794982_06_BJNR231000016BJNE000405119]
  „Windenergieanlage auf See“ jede Anlage zur Erzeugung von Strom aus Windenergie, die auf See in einer Entfernung von mindestens drei Seemeilen gemessen von der Küstenlinie der Bundesrepublik Deutschland aus seewärts errichtet worden ist; als Küstenlinie gilt die in der Karte Nummer 2920 „Deutsche Nordseeküste und angrenzende Gewässer“, Ausgabe 1994, XII., sowie in der Karte Nummer 2921 „Deutsche Ostseeküste und angrenzende Gewässer“, Ausgabe 1994, XII., des Bundesamtes für Seeschifffahrt und Hydrographie im Maßstab 1:375 000
     dargestellte Küstenlinie,
 
@@ -135,7 +135,7 @@ Im Sinn dieses Gesetzes ist oder sind
 
 
     Amtlicher Hinweis: Zu beziehen beim Bundesamt für Seeschifffahrt und Hydrographie, Bernhard-Nocht-Straße 78, 20359 Hamburg und in der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
-[^f794982_06_BJNR231000016BJNE000404119]: 
+[^f794982_06_BJNR231000016BJNE000405119]: 
 
 ## Teil 2 - Fachplanung und zentrale Voruntersuchung
 

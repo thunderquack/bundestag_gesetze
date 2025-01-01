@@ -35,8 +35,7 @@ Zuletzt geändert durch
 1.  als Versicherungs- oder Bausparkassenvertreter im Rahmen ihrer Tätigkeit für ein der Aufsicht der Bundesanstalt für Finanzdienstleistungsaufsicht unterliegendes Versicherungs- oder Bausparunternehmen den Abschluss von Verträgen über Darlehen vermitteln oder die Gelegenheit zum Abschluss solcher Verträge nachweisen oder
 
 
-2.  als Wohnimmobilienverwalter nach § 34c Absatz 1 Satz 1 Nummer 4 der Gewerbeordnung tätig sind, mit Ausnahme der §§ 9, 11, 15 bis 15b, 18 Absatz 1 Nummer 6, 8, 11, 11a, Absatz 2 und 3 und
-    § 19.
+2.  als Wohnimmobilienverwalter nach § 34c Absatz 1 Satz 1 Nummer 4 der Gewerbeordnung tätig sind, mit Ausnahme der §§ 11, 15 bis 15b, 18 Absatz 1 Nummer 7, 9, 10 Absatz 2 und 3 und § 19.
 
 
 
@@ -226,9 +225,8 @@ handelt und der Auftraggeber in gesonderter Urkunde auf die Anwendung dieser Bes
 (2) Die Verpflichtung, Rechnung zu legen, entfällt, soweit der Auftraggeber nach Beendigung des Auftrages dem Gewerbetreibenden gegenüber schriftlich darauf verzichtet oder der Gewerbetreibende mit den Vermögenswerten des Auftraggebers eine Leistung zu einem Festpreis zu erbringen hat.
 
 
-## § 9 Anzeigepflicht
+## § 9 (weggefallen)
 
-Der Gewerbetreibende hat der zuständigen Behörde die jeweils mit der Leitung des Betriebes oder einer Zweigniederlassung beauftragten Personen unverzüglich anzuzeigen. Dies gilt bei juristischen Personen auch für die nach Gesetz, Satzung oder Gesellschaftsvertrag jeweils zur Vertretung berufenen Personen. In der Anzeige sind Name, Geburtsname, sofern er vom Namen abweicht, Vornamen, Staatsangehörigkeit, Geburtstag, Geburtsort und Anschrift der betreffenden Personen anzugeben.
 
 
 ## § 10 Buchführungspflicht
@@ -487,31 +485,25 @@ Bei Gewerbetreibenden im Sinne des § 34c Absatz 1 Satz 1 Nummer 1 und 2 der Gew
 5.  einer Vorschrift des § 6 Abs. 1, Abs. 2 Satz 1 oder 2, Abs. 3 Satz 1 oder Abs. 3 Satz 2 in Verbindung mit Abs. 2 Satz 2 über die getrennte Vermögensverwaltung zuwiderhandelt,
 
 
-6.  entgegen § 9 die Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+6.  entgegen § 10 Abs. 1 bis 5 erforderliche Aufzeichnungen nicht, nicht richtig, nicht vollständig, nicht ordnungsgemäß oder nicht rechtzeitig macht oder Unterlagen oder Belege nicht oder nicht übersichtlich sammelt,
 
 
-7.  entgegen § 10 Abs. 1 bis 5 erforderliche Aufzeichnungen nicht, nicht richtig, nicht vollständig, nicht ordnungsgemäß oder nicht rechtzeitig macht oder Unterlagen oder Belege nicht oder nicht übersichtlich sammelt,
+7.  entgegen § 11 Satz 1 Nummer 1, 2 oder 3 dem Auftraggeber die dort bezeichneten Angaben nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig mitteilt,
 
 
-8.  entgegen § 11 Satz 1 Nummer 1, 2 oder 3 dem Auftraggeber die dort bezeichneten Angaben nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig mitteilt,
+8.  entgegen § 14 Abs. 1 Satz 1 Geschäftsunterlagen nicht während der vorgeschriebenen Frist aufbewahrt,
 
 
-9.  (weggefallen)
+9.  entgegen § 15b Absatz 2 Satz 3 einen Nachweis oder eine Unterlage nicht oder nicht mindestens fünf Jahre aufbewahrt,
 
 
-10. entgegen § 14 Abs. 1 Satz 1 Geschäftsunterlagen nicht während der vorgeschriebenen Frist aufbewahrt,
+10. einer vollziehbaren Anordnung nach § 15b Absatz 3 Satz 1 zuwiderhandelt,
 
 
-11. entgegen § 15b Absatz 2 Satz 3 einen Nachweis oder eine Unterlage nicht oder nicht mindestens fünf Jahre aufbewahrt,
+11. entgegen § 16 Abs. 1 Satz 1 oder 2 einen Prüfungsbericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig oder eine dort genannte Erklärung nicht, nicht richtig oder nicht rechtzeitig vorlegt oder
 
 
-11a. einer vollziehbaren Anordnung nach § 15b Absatz 3 Satz 1 zuwiderhandelt,
-
-
-12. entgegen § 16 Abs. 1 Satz 1 oder 2 einen Prüfungsbericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig oder eine dort genannte Erklärung nicht, nicht richtig oder nicht rechtzeitig vorlegt oder
-
-
-13. den Duldungs- oder Mitwirkungspflichten des § 17 Abs. 1 nicht, nicht ausreichend oder nicht rechtzeitig nachkommt.
+12. den Duldungs- oder Mitwirkungspflichten des § 17 Abs. 1 nicht, nicht ausreichend oder nicht rechtzeitig nachkommt.
 
 
 
@@ -525,10 +517,10 @@ Bei Gewerbetreibenden im Sinne des § 34c Absatz 1 Satz 1 Nummer 1 und 2 der Gew
 
 (1) Üben Gewerbetreibende von einer Niederlassung in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum aus im Geltungsbereich der Gewerbeordnung vorübergehend selbständig eine Tätigkeit
 
-1.  nach § 34c Absatz 1 Satz 1 Nummer 1 oder Nummer 3 der Gewerbeordnung aus, sind die §§ 8 bis 11, 14 bis 17, 18 Absatz 1 Nummer 6 bis 13, jeweils auch in Verbindung mit § 18 Absatz 2 und 3,
+1.  nach § 34c Absatz 1 Satz 1 Nummer 1 oder Nummer 3 der Gewerbeordnung aus, sind die §§ 8 bis 11, 14 bis 17, 18 Absatz 1 Nummer 7 bis 12, jeweils auch in Verbindung mit § 18 Absatz 2 und 3,
 
 
-2.  nach § 34c Absatz 1 Satz 1 Nummer 4 der Gewerbeordnung aus, sind die §§ 9, 11, 15 bis 15b, 18 Absatz 1 Nummer 6, 8, 11, 11a, jeweils auch in Verbindung mit § 18 Absatz 2 und 3
+2.  nach § 34c Absatz 1 Satz 1 Nummer 4 der Gewerbeordnung aus, sind die §§ 11, 15 bis 15b, 18 Absatz 1 Nummer 7, 9, 10, jeweils auch in Verbindung mit § 18 Absatz 2 und 3
 
 
 
@@ -536,10 +528,10 @@ insoweit nicht anwendbar. § 4 Absatz 2 der Gewerbeordnung gilt entsprechend.
 
 (2) In den Fällen
 
-1.  des § 34c Absatz 1 Satz 1 Nummer 1 oder Nummer 3 der Gewerbeordnung sind die §§ 2, 4 bis 8, 10 bis 18 Absatz 1 Nummer 1, 2, 4, 5 und 7 bis 13, jeweils auch in Verbindung mit § 18 Absatz 2 und 3,
+1.  des § 34c Absatz 1 Satz 1 Nummer 1 oder Nummer 3 der Gewerbeordnung sind die §§ 2, 4 bis 8, 10 bis 18 Absatz 1 Nummer 1, 2, 4, 5 und 6 bis 12, jeweils auch in Verbindung mit § 18 Absatz 2 und 3,
 
 
-2.  des § 34c Absatz 1 Satz 1 Nummer 4 der Gewerbeordnung sind die §§ 9, 11, 15 bis 15b, 18 Absatz 1 Nummer 6, 8, 11, 11a, jeweils auch in Verbindung mit § 18 Absatz 2 und 3
+2.  des § 34c Absatz 1 Satz 1 Nummer 4 der Gewerbeordnung sind die §§ 11, 15 bis 15b, 18 Absatz 1 Nummer 7, 9, 10, jeweils auch in Verbindung mit § 18 Absatz 2 und 3
 
 
 

@@ -36,6 +36,8 @@ Zuletzt geändert durch
 
 (2) Die Einheitswerte für Mineralgewinnungsrechte, denen die Wertverhältnisse vom 1. Januar 1977 zugrunde liegen, sind erstmals anzuwenden bei der Feststellung von Einheitswerten der gewerblichen Betriebe auf den 1. Januar 1977 und bei der Festsetzung von Steuern, bei denen die Steuer nach dem 31. Dezember 1976 entsteht.
 
+(3) Die Absätze 1 und 2 sind letztmals anzuwenden für gesonderte Feststellungen auf den 1. Januar 2024.
+
 
 ### Art 8 bis 38 - 
 
@@ -86,6 +88,8 @@ Zuletzt geändert durch
 (13) Die durch Artikel 21 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) geänderten Vorschriften der Abgabenordnung sind auf alle am 18. Dezember 2019 anhängigen Verfahren anzuwenden, soweit nichts anderes bestimmt ist.
 
 (14) § 93a Absatz 1 Satz 1 Nummer 1 Buchstabe a, Absatz 2 Satz 2 und Absatz 4 der Abgabenordnung in der Fassung des Artikels 27 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) ist vorbehaltlich des Satzes 2 erstmals für nach dem 31. Dezember 2020 verwirklichte Sachverhalte anzuwenden. § 93a Absatz 1 Satz 1 Nummer 1 Buchstabe a, Absatz 2 Satz 2 und Absatz 4 der Abgabenordnung in der Fassung des Artikels 27 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) ist für im Kalenderjahr 2020 verwirklichte Sachverhalte anzuwenden, soweit eine Mitteilungspflicht nach der Mitteilungsverordnung nach dem 1. Januar 2020 begründet wurde. § 93a Absatz 1 Satz 1 Nummer 1 Buchstabe e der Abgabenordnung in der Fassung des Artikels 27 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) ist ab dem 1. Januar 2021 anzuwenden.
+
+(15) § 122 Absatz 2 Nummer 1 und Absatz 2a, § 122a Absatz 4 und § 123 Satz 2 der Abgabenordnung in der am 1. Januar 2025 geltenden Fassung sind auf alle Verwaltungsakte anzuwenden, die nach dem 31. Dezember 2024 zur Post gegeben, elektronisch übermittelt oder elektronisch zum Abruf bereit gestellt werden.
 
 
 ### § 1a Steuerlich unschädliche Betätigungen
@@ -227,7 +231,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung des Bundesra
 
 (1) Die Vorschriften der Abgabenordnung über die Festsetzungsverjährung gelten erstmals für die Festsetzung sowie für die Aufhebung und Änderung der Festsetzung von Steuern, Steuervergütungen und - soweit für steuerliche Nebenleistungen eine Festsetzungsverjährung vorgesehen ist - von steuerlichen Nebenleistungen, die nach dem 31. Dezember 1976 entstehen. Für vorher entstandene Ansprüche gelten die Vorschriften der Reichsabgabenordnung über die Verjährung und über die Ausschlußfristen weiter, soweit sie für die Festsetzung einer Steuer, Steuervergütung oder steuerlichen Nebenleistung, für die Aufhebung oder Änderung einer solchen Festsetzung oder für die Geltendmachung von Erstattungsansprüchen von Bedeutung sind; § 14 Abs. 2 dieses Artikels bleibt unberührt.
 
-(2) Absatz 1 gilt sinngemäß für die gesonderte Feststellung von Besteuerungsgrundlagen sowie für die Festsetzung, Zerlegung und Zuteilung von Steuermeßbeträgen. Bei der Einheitsbewertung tritt an die Stelle des Zeitpunkts der Entstehung des Steueranspruchs der Zeitpunkt, auf den die Hauptfeststellung, die Fortschreibung, die Nachfeststellung oder die Aufhebung eines Einheitswerts vorzunehmen ist.
+(2) Absatz 1 gilt sinngemäß für die gesonderte Feststellung von Besteuerungsgrundlagen sowie für die Festsetzung, Zerlegung und Zuteilung von Steuermeßbeträgen. Bei der Einheitsbewertung tritt an die Stelle des Zeitpunkts der Entstehung des Steueranspruchs der Zeitpunkt, auf den die Hauptfeststellung, die Fortschreibung, die Nachfeststellung oder die Aufhebung eines Einheitswerts vorzunehmen ist. Satz 2 ist letztmals anzuwenden für gesonderte Feststellungen auf den 1. Januar 2024.
 
 (3) Wenn die Schlußbesprechung oder die letzten Ermittlungen vor dem 1. Januar 1987 stattgefunden haben, beginnt der nach § 171 Abs. 4 Satz 3 der Abgabenordnung zu berechnende Zeitraum am 1. Januar 1987.
 
@@ -271,7 +275,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung des Bundesra
 
 ### § 10b Gesonderte Feststellungen
 
-§ 180 Abs. 1 Nr. 2 Buchstabe a, Abs. 4 und Abs. 5 der Abgabenordnung in der Fassung des Artikels 26 des Gesetzes vom 21. Dezember 1993 (BGBl. I S. 2310) ist erstmals auf Feststellungszeiträume anzuwenden, die nach dem 31. Dezember 1994 beginnen. § 180 Absatz 1 Satz 2 der Abgabenordnung in der Fassung des Artikels 1 des Gesetzes vom 22. Dezember 2014 (BGBl. I S. 2417) ist erstmals auf Feststellungszeiträume anzuwenden, die nach dem 31. Dezember 2014 beginnen.
+§ 180 Abs. 1 Nr. 2 Buchstabe a, Abs. 4 und Abs. 5 der Abgabenordnung in der Fassung des Artikels 26 des Gesetzes vom 21. Dezember 1993 (BGBl. I S. 2310) ist erstmals auf Feststellungszeiträume anzuwenden, die nach dem 31. Dezember 1994 beginnen. § 180 Absatz 1 Satz 2 der Abgabenordnung in der Fassung des Artikels 1 des Gesetzes vom 22. Dezember 2014 (BGBl. I S. 2417) ist erstmals auf Feststellungszeiträume anzuwenden, die nach dem 31. Dezember 2014 beginnen. § 180 Absatz 1 Satz 1 Nummer 1, § 181 Absatz 3 Satz 1 und 2 und Absatz 4, § 182 Absatz 2 Satz 1 und § 183a Absatz 4 der Abgabenordnung in der am 1. Januar 2025 geltenden Fassung sind erstmals auf Feststellungszeitpunkte nach dem 31. Dezember 2024 anzuwenden.
 
 
 ### § 10c Billigkeitsmaßnahmen bei der Festsetzung des Gewerbesteuermessbetrags
@@ -488,7 +492,23 @@ Die Höhe der Gebühren und Auslagen im Vollstreckungsverfahren richtet sich nac
 
 ### § 19a Aufbewahrungsfristen
 
-§ 147 Abs. 3 der Abgabenordnung in der Fassung des Artikels 2 des Gesetzes vom 19. Dezember 1998 (BGBl. I S. 3816) gilt erstmals für Unterlagen, deren Aufbewahrungsfrist nach § 147 Abs. 3 der Abgabenordnung in der bis zum 23. Dezember 1998 geltenden Fassung noch nicht abgelaufen ist. § 147 Absatz 3 Satz 3 und 4 der Abgabenordnung in der am 1. Januar 2017 geltenden Fassung gilt für alle Lieferscheine, deren Aufbewahrungsfrist nach § 147 Absatz 3 der Abgabenordnung in der bis zum 31. Dezember 2016 geltenden Fassung noch nicht abgelaufen ist.
+(1)§ 147 Abs. 3 der Abgabenordnung in der Fassung des Artikels 2 des Gesetzes vom 19. Dezember 1998 (BGBl. I S. 3816) gilt erstmals für Unterlagen, deren Aufbewahrungsfrist nach § 147 Abs. 3 der Abgabenordnung in der bis zum 23. Dezember 1998 geltenden Fassung noch nicht abgelaufen ist. § 147 Absatz 3 Satz 3 und 4 der Abgabenordnung in der am 1. Januar 2017 geltenden Fassung gilt für alle Lieferscheine, deren Aufbewahrungsfrist nach § 147 Absatz 3 der Abgabenordnung in der bis zum 31. Dezember 2016 geltenden Fassung noch nicht abgelaufen ist.
+
+(2) § 147 Absatz 3 Satz 1 der Abgabenordnung in der ab dem 1. Januar 2025 geltenden Fassung gilt vorbehaltlich des Absatzes 3 erstmals für alle Unterlagen, deren Aufbewahrungsfrist nach § 147 Absatz 3 der Abgabenordnung in der bis einschließlich 31. Dezember 2024 geltenden Fassung noch nicht abgelaufen ist.
+
+(3) Bei Steuerpflichtigen, die
+
+1.  Institute im Sinne des § 1 Absatz 1b des Kreditwesengesetzes sind, einschließlich Zweigstellen nach § 53 des Kreditwesengesetzes,
+
+
+2.  der Aufsicht nach § 1 Absatz 1 des Versicherungsaufsichtsgesetzes unterliegen oder
+
+
+3.  Wertpapierinstitute im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes sind,
+
+
+
+ist § 147 Absatz 3 Satz 1 der Abgabenordnung in der ab dem 1. Januar 2025 geltenden Fassung abweichend von Absatz 2 erstmals auf Unterlagen anzuwenden, deren Aufbewahrungsfrist nach § 147 Absatz 3 Satz 1 der Abgabenordnung in der bis einschließlich 31. Dezember 2024 geltenden Fassung am 1. Januar 2026 noch nicht abgelaufen ist.
 
 
 ### § 19b Zugriff auf datenverarbeitungsgestützte Buchführungssysteme
@@ -893,7 +913,7 @@ Für die Anwendung der Abgabenordnung in dem in Artikel 3 des Einigungsvertrages
 6.  §§ 69 bis 76 und 191 Abs. 3 bis 5 sind anzuwenden, wenn der haftungsbegründende Tatbestand nach dem Wirksamwerden des Beitritts verwirklicht worden ist.
 
 
-7.  Bei der Anwendung des § 141 Abs. 1 Nr. 3 tritt an die Stelle des Wirtschaftswerts der Ersatzwirtschaftswert (§ 125 des Bewertungsgesetzes).
+7.  Bei der Anwendung des § 141 Abs. 1 Nr. 3 tritt an die Stelle des Wirtschaftswerts der Ersatzwirtschaftswert (§ 125 des Bewertungsgesetzes). Satz 1 ist letztmals für gesonderte Feststellungen auf den 1. Januar 2024 anzuwenden.
 
 
 8.  Die Vorschriften über verbindliche Zusagen auf Grund einer Außenprüfung (§§ 204 bis 207) sind anzuwenden, wenn die Schlußbesprechung nach dem Wirksamwerden des Beitritts stattfindet oder, falls eine solche nicht erforderlich ist, wenn dem Steuerpflichtigen der Prüfungsbericht nach dem Wirksamwerden des Beitritts zugegangen ist. Hat die Schlußbesprechung nach dem 30. Juni 1990 und vor dem Wirksamwerden des Beitritts stattgefunden oder war eine solche nicht erforderlich und ist der Prüfungsbericht dem Steuerpflichtigen nach dem 30. Juni 1990 und vor dem Wirksamwerden des Beitritts zugegangen, sind die bisherigen Vorschriften der Abgabenordnung der Deutschen Demokratischen Republik (AO 1990) vom 22. Juni 1990 (Sonderdruck Nr. 1428 des Gesetzblattes) sowie des Einführungsgesetzes zur Abgabenordnung der Deutschen Demokratischen Republik vom 22. Juni 1990 (Sonderdruck Nr. 1428 des Gesetzblattes) über verbindliche Zusagen auf Grund einer Außenprüfung weiter anzuwenden.

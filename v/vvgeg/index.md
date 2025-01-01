@@ -97,6 +97,11 @@ Versicherungsnehmer, für die am 1. August 2013 das Ruhen der Leistungen gemäß
 Das Muster in der Anlage des Versicherungsvertragsgesetzes in der bis einschließlich 14. Juni 2021 geltenden Fassung kann noch bis zum Ablauf des 31. Dezember 2021 verwendet werden. In diesem Fall ist § 8 des Versicherungsvertragsgesetzes in der bis einschließlich 14. Juni 2021 geltenden Fassung anzuwenden.
 
 
-## (XXXX) Art 9 bis 15 (weggefallen)
+## Art 9 Übergangsvorschrift zu § 7a Absatz 5 des Versicherungsvertragsgesetzes
+
+§ 7a Absatz 5 des Versicherungsvertragsgesetzes in der ab dem 1. Januar 2025 geltenden Fassung ist nur auf Restschuldversicherungen anzuwenden, die sich auf einen Allgemein-Verbraucherdarlehensvertrag beziehen, der nach dem 1. Januar 2025 abgeschlossen wurde.
+
+
+## (XXXX) Art 10 bis 15 (weggefallen)
 
 

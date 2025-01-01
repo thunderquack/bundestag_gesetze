@@ -1368,7 +1368,7 @@ Hat sich die Körperschaftsteuer für Einkünfte aus Berlin (West) nach § 21 Ab
 3.  Übergangsgeld aus der gesetzlichen Unfallversicherung,
 
 
-4.  Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten Buches Sozialgesetzbuch,
+4.  Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten Buches Sozialgesetzbuch oder Krankengeld der Soldatenentschädigung nach § 19 des Soldatenentschädigungsgesetzes,
 
 
 5.  Kurzarbeitergeld oder Schlechtwettergeld,

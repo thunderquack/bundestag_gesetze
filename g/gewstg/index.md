@@ -144,7 +144,7 @@ Von der Gewerbesteuer sind befreit
     2                   Sind nach der Satzung der Einrichtung nur Pflichtmitgliedschaften sowie freiwillige Mitgliedschaften, die unmittelbar an eine Pflichtmitgliedschaft anschließen, möglich, so steht dies der Steuerbefreiung nicht entgegen, wenn die Satzung die Zahlung keiner höheren jährlichen Beiträge zulässt als das Fünfzehnfache der Beiträge, die sich bei einer Beitragsbemessungsgrundlage in Höhe der doppelten monatlichen Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung ergeben würden;
 
 
-12. Gesellschaften, bei denen die Gesellschafter als Unternehmer (Mitunternehmer) anzusehen sind, sowie Genossenschaften, soweit die Gesellschaften und die Genossenschaften eine gemeinschaftliche Tierhaltung im Sinne des § 51a des Bewertungsgesetzes betreiben;
+12. Gesellschaften, bei denen die Gesellschafter als Unternehmer (Mitunternehmer) anzusehen sind, sowie Genossenschaften, soweit die Gesellschaften und die Genossenschaften eine gemeinschaftliche Tierhaltung im Sinne des § 13b des Einkommensteuergesetzes betreiben;
 
 
 13. private Schulen und andere allgemeinbildende oder berufsbildende Einrichtungen, soweit unmittelbar dem Schul- und Bildungszweck dienende Leistungen erbracht werden, wenn sie
@@ -1014,12 +1014,13 @@ Erstreckt sich die Betriebsstätte auf mehrere Gemeinden, so ist der Steuermessb
 
 (2)
 1             § 3 Nummer 1 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden.
-2             § 3 Nummer 2 ist für die Investitionsbank Sachsen-Anhalt erstmals für den Erhebungszeitraum 2023 anzuwenden.
-3             Die Steuerbefreiung nach § 3 Nummer 2 in der bis zum 20. Dezember 2022 geltenden Fassung ist für die Investitionsbank Sachsen-Anhalt – Anstalt der Norddeutschen Landesbank – Girozentrale – letztmalig für den Erhebungszeitraum 2023 anzuwenden.
-4             § 3 Nummer 13 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2015 anzuwenden.
-5             § 3 Nummer 24 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden.
-6             § 3 Nummer 32 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden.
-7             § 3 Nummer 32 in der Fassung des Artikels 10 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) ist erstmals für den Erhebungszeitraum 2022 anzuwenden.
+2             § 3 Nummer 12 in der Fassung des Artikels 9 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2025 anzuwenden.
+3             § 3 Nummer 2 ist für die Investitionsbank Sachsen-Anhalt erstmals für den Erhebungszeitraum 2023 anzuwenden.
+4             Die Steuerbefreiung nach § 3 Nummer 2 in der bis zum 20. Dezember 2022 geltenden Fassung ist für die Investitionsbank Sachsen-Anhalt – Anstalt der Norddeutschen Landesbank – Girozentrale – letztmalig für den Erhebungszeitraum 2023 anzuwenden.
+5             § 3 Nummer 13 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2015 anzuwenden.
+6             § 3 Nummer 24 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden.
+7             § 3 Nummer 32 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden.
+8             § 3 Nummer 32 in der Fassung des Artikels 10 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) ist erstmals für den Erhebungszeitraum 2022 anzuwenden.
 
 (3)
 1             § 7 Satz 3 in der durch Artikel 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) geänderten Fassung ist erstmals für den Erhebungszeitraum 2009 anzuwenden.

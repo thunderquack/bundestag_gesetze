@@ -34,7 +34,7 @@ Zuletzt geändert durch
 
 (1) Von der Zahlung der Kosten sind befreit der Bund, die Länder und die nach dem Haushaltsplan des Bundes oder eines Landes für Rechnung des Bundes oder eines Landes verwalteten öffentlichen Körperschaften oder Anstalten, bei einer Zwangsvollstreckung nach § 885 der Zivilprozessordnung wegen der Auslagen jedoch nur, soweit diese einen Betrag von 5 000 Euro nicht übersteigen. Bei der Vollstreckung wegen öffentlich-rechtlicher Geldforderungen ist maßgebend, wer ohne Berücksichtigung des § 252 der Abgabenordnung oder entsprechender Vorschriften Gläubiger der Forderung ist.
 
-(2) Bei der Durchführung des Zwölften Buches Sozialgesetzbuch sind die Träger der Sozialhilfe, bei der Durchführung des Zweiten Buches Sozialgesetzbuch die nach diesem Buch zuständigen Träger der Leistungen, bei der Durchführung des Achten Buches Sozialgesetzbuch die Träger der öffentlichen Jugendhilfe und bei der Durchführung der Besonderen Leistungen im Einzelfall nach dem Vierzehnten Buch Sozialgesetzbuch die Träger der Sozialen Entschädigung von den Gebühren befreit. Sonstige Vorschriften, die eine sachliche oder persönliche Befreiung von Kosten gewähren, gelten für Gerichtsvollzieherkosten nur insoweit, als sie ausdrücklich auch diese Kosten umfassen.
+(2) Bei der Durchführung des Zwölften Buches Sozialgesetzbuch sind die Träger der Sozialhilfe, bei der Durchführung des Zweiten Buches Sozialgesetzbuch die nach diesem Buch zuständigen Träger der Leistungen, bei der Durchführung des Achten Buches Sozialgesetzbuch die Träger der öffentlichen Jugendhilfe, bei der Durchführung der Besonderen Leistungen im Einzelfall nach dem Vierzehnten Buch Sozialgesetzbuch die Träger der Sozialen Entschädigung und bei der Durchführung der Leistungen nach Kapitel 5 des Soldatenentschädigungsgesetzes der Träger der Soldatenentschädigung von den Gebühren befreit. Sonstige Vorschriften, die eine sachliche oder persönliche Befreiung von Kosten gewähren, gelten für Gerichtsvollzieherkosten nur insoweit, als sie ausdrücklich auch diese Kosten umfassen.
 
 (3) Landesrechtliche Vorschriften, die in weiteren Fällen eine sachliche oder persönliche Befreiung von Gerichtsvollzieherkosten gewähren, bleiben unberührt.
 
@@ -243,11 +243,6 @@ Auslagen, die in anderen als den in § 15 Abs. 1 genannten Fällen bei der gleic
 (1) Die Kosten sind vorbehaltlich des Absatzes 2 nach dem Gesetz über Kosten der Gerichtsvollzieher in der im Bundesgesetzblatt Teil III, Gliederungsnummer 362-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 2 Abs. 5 des Gesetzes vom 17. Dezember 1997 (BGBl. I S. 3039), zu erheben, wenn der Auftrag vor dem Inkrafttreten dieses Gesetzes erteilt worden ist; § 3 Abs. 3 Satz 1 und § 18 Abs. 1 Satz 2 sind anzuwenden. Werden solche Aufträge und Aufträge, die nach dem Inkrafttreten dieses Gesetzes erteilt worden sind, durch dieselbe Amtshandlung erledigt, sind die Gebühren insoweit gesondert zu erheben.
 
 (2) Kosten der in § 15 Abs. 1 genannten Art sind nach neuem Recht zu erheben, soweit sie nach dem Inkrafttreten dieses Gesetzes entstanden sind.
-
-
-### § 20 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
-
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 2 Absatz 2 Satz 1 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 (zu § 9)
 

@@ -103,10 +103,7 @@ Die Landesgesetze können für die Fälle, in welchen bei der Zwangsversteigerun
 Soweit die Vorschriften der Zivilprozessordnung auf Sachverständige, die zum Zweck der Festsetzung des Verkehrswertes nach § 74a Absatz 5 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung angehört werden, entsprechend anzuwenden sind, ist deren bis zum 15. Oktober 2016 geltende Fassung weiterhin maßgeblich.
 
 
-## § 14 (weggefallen)
+## § 14
 
-
-
-## § 15 (weggefallen)
-
+§ 94a des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung ist auf die bis einschließlich 31. Dezember 2024 angeordneten Zwangsversteigerungen nicht anzuwenden.
 

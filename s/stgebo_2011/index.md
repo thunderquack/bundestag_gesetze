@@ -1356,7 +1356,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 ## 2. Abschnitt
 
-[^F1.774775_01_BJNR009800011BJNE001304123]
+[^F1.774775_01_BJNR009800011BJNE001305123]
 Gebühren der Behörden im Landesbereich
 ## 
 
@@ -1404,7 +1404,7 @@ Gebühren der Behörden im Landesbereich
     *
     *   Ersterteilung, Erweiterung oder Verlängerung einer Fahrerlaubnis, Ersterteilung oder Erweiterung einer Fahrerlaubnis zur Fahrgastbeförderung
 
-    *   34,50
+    *   35,70
 
 
 *    *
@@ -1419,7 +1419,7 @@ Gebühren der Behörden im Landesbereich
     *
     *   auf Grund einer Fahrerlaubnis aus einem Mitgliedstaat der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum sowie aus einem in Anlage 11 zur Fahrerlaubnis-Verordnung aufgeführten Staat, sofern keine Prüfung verlangt wird
 
-    *   26,90
+    *   28,10
 
 
 *    *   202.3
@@ -1427,7 +1427,7 @@ Gebühren der Behörden im Landesbereich
     *
     *   nach vorangegangener Versagung oder Entziehung der in- oder ausländischen Fahrerlaubnis oder Fahrerlaubnis zur Fahrgastbeförderung, nach vorangegangenem Verzicht auf die in- oder ausländische Fahrerlaubnis oder nach Verhängung einer Sperrfrist
 
-    *   34,50 bis 257,30
+    *   35,70 bis 258,50
 
 
 *    *   202.4
@@ -1435,7 +1435,7 @@ Gebühren der Behörden im Landesbereich
     *
     *   als Ersatz
 
-    *   19,20 bis 37,10
+    *   20,40 bis 38,30
 
 
 *    *   202.5
@@ -1443,7 +1443,7 @@ Gebühren der Behörden im Landesbereich
     *
     *   bei der Umstellung einer Fahrerlaubnis alten Rechts (§ 6 Absatz 6 Satz 2 FeV)
 
-    *   24,30
+    *   25,50
 
 
 *    *   202.6
@@ -1459,7 +1459,7 @@ Gebühren der Behörden im Landesbereich
     *
     *   Ausfertigung eines Führerscheins, soweit nicht bereits in den Nummern 202.1 bis 202.5 eingeschlossen, oder einer als Nachweis der Fahrerlaubnis geltenden befristeten Prüfungsbescheinigung (§ 22 Absatz 4 Satz 7 FeV), soweit vom Bewerber veranlasst
 
-    *   9,00
+    *   10,20
 
 
 *    *   202.8
@@ -3066,7 +3066,7 @@ Gebühren der Behörden im Landesbereich
     *
     *   Ausstellung eines Fahrerqualifizierungsnachweises sowie Zustellung des Fahrerqualifizierungsnachweises im Direktversand innerhalb Deutschlands
 
-    *   11,70
+    *   14,20
 
 
 *    *   343.4
@@ -3074,7 +3074,7 @@ Gebühren der Behörden im Landesbereich
     *
     *   Ausstellung eines Fahrerqualifizierungsnachweises sowie Zustellung des Fahrerqualifizierungsnachweises im Direktversand in EU-Mitgliedstaaten
 
-    *   12,80
+    *   15,60
 
 
 *    *   343.5
@@ -3082,7 +3082,7 @@ Gebühren der Behörden im Landesbereich
     *
     *   Ausstellung eines Fahrerqualifizierungsnachweises im Expressverfahren sowie Aushändigung des Fahrerqualifizierungsnachweises
 
-    *   17,10
+    *   20,60
 
 
 *    *   344
@@ -3889,7 +3889,7 @@ Gebühren der amtlich anerkannten Sachverständigen
 
 *    *
     *   Begutachtung nach §§ 21 und 23 StVZO
-[^F828785_01_BJNR009800011BJNE001304123]
+[^F828785_01_BJNR009800011BJNE001305123]
         oder § 13 EG-FGV
 
     *
@@ -3904,22 +3904,22 @@ Gebühren der amtlich anerkannten Sachverständigen
 
     *   Hauptuntersuchung (HU) nach
         § 29 StVZO
-[^F828785_03_BJNR009800011BJNE001304123]
-[^F828785_04_BJNR009800011BJNE001304123]
+[^F828785_03_BJNR009800011BJNE001305123]
+[^F828785_04_BJNR009800011BJNE001305123]
         ,
-[^F828785_05_BJNR009800011BJNE001304123]
+[^F828785_05_BJNR009800011BJNE001305123]
         ,
-[^F828785_06_BJNR009800011BJNE001304123]
+[^F828785_06_BJNR009800011BJNE001305123]
         ,
-[^F828785_07_BJNR009800011BJNE001304123]
+[^F828785_07_BJNR009800011BJNE001305123]
         ,
-[^F828785_08_BJNR009800011BJNE001304123]
+[^F828785_08_BJNR009800011BJNE001305123]
         ,
 
     *   Sicherheitsprüfung (SP) nach § 29 StVZO
 
 
-*    *[^F828785_02_BJNR009800011BJNE001304123]
+*    *[^F828785_02_BJNR009800011BJNE001305123]
    Voll-Gutachten (GA) nach § 21 StVZO oder § 13 EG-FGV und GA nach § 23 StVZO
         ,
 
@@ -4377,15 +4377,15 @@ _\_\__\_\__\_\__\_\__\_\_
 
 
    Die Behörden im Landesbereich erheben auch die Gebühren für den Bund, soweit diese im Zusammenhang mit den jeweiligen Amtshandlungen stehen.
-[^F1.774775_01_BJNR009800011BJNE001304123]:     Werden für die Begutachtung nach § 21 StVZO (Spalten 1 bis 3), § 13 EG-FGV oder für die Änderungsabnahme nach § 19 Absatz 3 StVZO (Spalte 4) die erforderlichen Unterlagen und Nachweise vom Antragsteller nicht vorgelegt, kann der zusätzliche Zeitaufwand für die Datenbeschaffung oder für (weitere) erforderliche Prüfungen entsprechend der Gebührennummer 499 berechnet werden.
-[^F828785_01_BJNR009800011BJNE001304123]:     Wird das Gutachten nach § 23 StVZO gleichzeitig mit einem Gutachten nach § 21 StVZO erstellt, darf für das Gutachten nach § 23 StVZO nur die Hälfte der Gebühr zusätzlich zur Gebühr für das Gutachten nach § 21 StVZO erhoben werden.
-[^F828785_02_BJNR009800011BJNE001304123]:     Wird eine Hauptuntersuchung und eine Sicherheitsprüfung nach Nummer 2.3 der Anlage VIIIa StVZO durchgeführt, ist die Gebühr für diese Untersuchung aus der Gebühr für Hauptuntersuchungen (Spalte 5) zuzüglich dem 0,6-Fachen der Gebühr für Sicherheitsprüfungen (Spalte 6) zu bilden.
-[^F828785_03_BJNR009800011BJNE001304123]:     Bei Hauptuntersuchungen an land- und forstwirtschaftlichen Zugmaschinen ist nicht die zulässige Gesamtmasse, sondern die Masse der von den gebremsten Achsen auf den Boden übertragenen zulässigen Last oder die durch die Bauart bestimmte Höchstgeschwindigkeit maßgeblich; beträgt die durch die Bauart bestimmte Höchstgeschwindigkeit von land- und forstwirtschaftlichen Zugmaschinen nicht mehr als 40 km/h, gilt für die Hauptuntersuchung die Gebührennummer 413.4.1.
-[^F828785_04_BJNR009800011BJNE001304123]:     Bei Hauptuntersuchungen und Sicherheitsprüfungen an Sattelanhängern und Starrdeichselanhängern ist nicht die zulässige Gesamtmasse, sondern die Masse der von den Achsen auf den Boden übertragenen zulässigen Last maßgeblich.
-[^F828785_05_BJNR009800011BJNE001304123]:     Die Gebührennummern 413.3 und 413.4 erhöhen sich für Kraftfahrzeuge, die mit Fremd- oder Kompressionszündungsmotor angetrieben werden bei einer Hauptuntersuchung nach § 29 StVZO oder eine Begutachtung nach § 21 StVZO um einen der Gebührennummer 413.5 entsprechenden Betrag, wenn kein Nachweis über eine durchgeführte Untersuchung nach Nummer 3.1.1.1 der Anlage VIII StVZO durch eine entsprechend anerkannte Kraftfahrzeugwerkstatt vorliegt. (Bei den in Nummer 1.2.1.2 der Anlage VIII StVZO genannten Kraftfahrzeugen entfällt eine Überprüfung der Abgase nach Nummer 6.8.2 der Anlage VIIIa StVZO).
-[^F828785_06_BJNR009800011BJNE001304123]:     Zusätzlich zu den Gebühren für Hauptuntersuchungen (Spalte 5) – Gebührennummern 413.1 bis 413.4.6 – wird für die Bereitstellung von Vorgaben nach Nummer 1 der Anlage VIIIa StVZO eine zusätzliche Gebühr von 1,00 Euro je Hauptuntersuchung erhoben.
-[^F828785_07_BJNR009800011BJNE001304123]:     Wird eine Hauptuntersuchung nach Nummer 2.2 der Anlage VIIIa StVZO nach Überschreitung des Vorführtermins um mehr als zwei Monate an einem Fahrzeug durchgeführt, ist die Gebühr für diese Untersuchung aus der Gebühr für die Hauptuntersuchung (Spalte 5) zuzüglich dem 0,2-Fachen dieser Gebühr zu bilden.
-[^F828785_08_BJNR009800011BJNE001304123]: 
+[^F1.774775_01_BJNR009800011BJNE001305123]:     Werden für die Begutachtung nach § 21 StVZO (Spalten 1 bis 3), § 13 EG-FGV oder für die Änderungsabnahme nach § 19 Absatz 3 StVZO (Spalte 4) die erforderlichen Unterlagen und Nachweise vom Antragsteller nicht vorgelegt, kann der zusätzliche Zeitaufwand für die Datenbeschaffung oder für (weitere) erforderliche Prüfungen entsprechend der Gebührennummer 499 berechnet werden.
+[^F828785_01_BJNR009800011BJNE001305123]:     Wird das Gutachten nach § 23 StVZO gleichzeitig mit einem Gutachten nach § 21 StVZO erstellt, darf für das Gutachten nach § 23 StVZO nur die Hälfte der Gebühr zusätzlich zur Gebühr für das Gutachten nach § 21 StVZO erhoben werden.
+[^F828785_02_BJNR009800011BJNE001305123]:     Wird eine Hauptuntersuchung und eine Sicherheitsprüfung nach Nummer 2.3 der Anlage VIIIa StVZO durchgeführt, ist die Gebühr für diese Untersuchung aus der Gebühr für Hauptuntersuchungen (Spalte 5) zuzüglich dem 0,6-Fachen der Gebühr für Sicherheitsprüfungen (Spalte 6) zu bilden.
+[^F828785_03_BJNR009800011BJNE001305123]:     Bei Hauptuntersuchungen an land- und forstwirtschaftlichen Zugmaschinen ist nicht die zulässige Gesamtmasse, sondern die Masse der von den gebremsten Achsen auf den Boden übertragenen zulässigen Last oder die durch die Bauart bestimmte Höchstgeschwindigkeit maßgeblich; beträgt die durch die Bauart bestimmte Höchstgeschwindigkeit von land- und forstwirtschaftlichen Zugmaschinen nicht mehr als 40 km/h, gilt für die Hauptuntersuchung die Gebührennummer 413.4.1.
+[^F828785_04_BJNR009800011BJNE001305123]:     Bei Hauptuntersuchungen und Sicherheitsprüfungen an Sattelanhängern und Starrdeichselanhängern ist nicht die zulässige Gesamtmasse, sondern die Masse der von den Achsen auf den Boden übertragenen zulässigen Last maßgeblich.
+[^F828785_05_BJNR009800011BJNE001305123]:     Die Gebührennummern 413.3 und 413.4 erhöhen sich für Kraftfahrzeuge, die mit Fremd- oder Kompressionszündungsmotor angetrieben werden bei einer Hauptuntersuchung nach § 29 StVZO oder eine Begutachtung nach § 21 StVZO um einen der Gebührennummer 413.5 entsprechenden Betrag, wenn kein Nachweis über eine durchgeführte Untersuchung nach Nummer 3.1.1.1 der Anlage VIII StVZO durch eine entsprechend anerkannte Kraftfahrzeugwerkstatt vorliegt. (Bei den in Nummer 1.2.1.2 der Anlage VIII StVZO genannten Kraftfahrzeugen entfällt eine Überprüfung der Abgase nach Nummer 6.8.2 der Anlage VIIIa StVZO).
+[^F828785_06_BJNR009800011BJNE001305123]:     Zusätzlich zu den Gebühren für Hauptuntersuchungen (Spalte 5) – Gebührennummern 413.1 bis 413.4.6 – wird für die Bereitstellung von Vorgaben nach Nummer 1 der Anlage VIIIa StVZO eine zusätzliche Gebühr von 1,00 Euro je Hauptuntersuchung erhoben.
+[^F828785_07_BJNR009800011BJNE001305123]:     Wird eine Hauptuntersuchung nach Nummer 2.2 der Anlage VIIIa StVZO nach Überschreitung des Vorführtermins um mehr als zwei Monate an einem Fahrzeug durchgeführt, ist die Gebühr für diese Untersuchung aus der Gebühr für die Hauptuntersuchung (Spalte 5) zuzüglich dem 0,2-Fachen dieser Gebühr zu bilden.
+[^F828785_08_BJNR009800011BJNE001305123]: 
 (zu Gebühren-Nummer 263.1.1)
 
 ## Anhang Entscheidung über eine Erlaubnis oder Ausnahme bei Großraum- und Schwertransporten nach § 29 Absatz 3 oder § 46 Absatz 1 Satz 1 Nummer 5 StVO

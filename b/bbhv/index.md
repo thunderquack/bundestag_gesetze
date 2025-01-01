@@ -240,7 +240,7 @@ Satz 1 Nummer 1 gilt nicht bei Kostenerstattung nach § 13 des Fünften Buches S
 
 Satz 3 gilt nicht für
 
-1.  Personen, die Leistungen nach den Kapiteln 5, 7 und 8 des Vierzehnten Buches Sozialgesetzbuch erhalten,
+1.  Personen, die Leistungen nach den Kapiteln 5, 7 und 8 des Vierzehnten Buches Sozialgesetzbuch oder Leistungen nach Kapitel 3 des Soldatenentschädigungsgesetzes erhalten,
 
 
 2.  freiwillige Mitglieder der gesetzlichen Krankenversicherung,
@@ -265,7 +265,7 @@ Satz 3 gilt nicht für
 
 (3) Sind Leistungsansprüche gegenüber Dritten nicht geltend gemacht worden, sind sie gleichwohl bei der Beihilfefestsetzung zu berücksichtigen. Hierbei sind Aufwendungen für Arznei- und Verbandmittel in voller Höhe anzusetzen. Andere Aufwendungen, bei denen der fiktive Leistungsanspruch gegenüber Dritten nicht ermittelt werden kann, sind um 50 Prozent zu kürzen. Die Sätze 1 bis 3 gelten nicht für
 
-1.  Leistungsansprüche nach den Kapiteln 5, 7 und 8 des Vierzehnten Buches Sozialgesetzbuch,
+1.  Leistungsansprüche nach den Kapiteln 5, 7 und 8 des Vierzehnten Buches Sozialgesetzbuch oder Leistungsansprüche nach Kapitel 3 des Soldatenentschädigungsgesetzes,
 
 
 2.  berücksichtigungsfähige Kinder, die von der Pflichtversicherung in der gesetzlichen Kranken- oder Rentenversicherung einer anderen Person erfasst werden,
@@ -1872,7 +1872,7 @@ sind entsprechend den §§ 45a und 45b des Elften Buches Sozialgesetzbuch beihil
 
 Die Höhe der fortgewährten Pauschalbeihilfe beträgt die Hälfte der vor Beginn der Verhinderungs- oder Kurzzeitpflege geleisteten Pauschalbeihilfe. Verstirbt die pflegebedürftige Person, wird die Pauschalbeihilfe bis zum Ende des Kalendermonats gewährt, in dem der Tod eingetreten ist.
 
-(5) Pauschalbeihilfe wird nicht gewährt, sofern ein Anspruch nach den §§ 74 bis 76 des Vierzehnten Buches Sozialgesetzbuch besteht.
+(5) Pauschalbeihilfe wird nicht gewährt, sofern ein Anspruch nach den §§ 74 bis 76 des Vierzehnten Buches Sozialgesetzbuch oder nach § 17 Absatz 1 des Soldatenentschädigungsgesetzes besteht.
 
 (6) Beihilfefähig sind auch Aufwendungen für Beratungsbesuche im Sinne des § 37 Absatz 3 bis 3b des Elften Buches Sozialgesetzbuch, sofern für den jeweiligen Beratungsbesuch Anspruch auf Zahlung eines Zuschusses durch die private oder soziale Pflegeversicherung besteht. § 37 Absatz 4 Satz 1 des Elften Buches Sozialgesetzbuch bleibt unberührt. Der Umfang der beihilfefähigen Aufwendungen bestimmt sich entsprechend § 37 Absatz 3c des Elften Buches Sozialgesetzbuch. § 37 Absatz 6 des Elften Buches Sozialgesetzbuch gilt entsprechend.
 
@@ -2009,7 +2009,7 @@ Die Aufwendungen nach Satz 1 sind insgesamt nur bis zur Höhe des in § 40b Absa
 
 Satz 1 gilt bei anderen Abrechnungszeiträumen entsprechend. Hat eine beihilfeberechtigte oder eine berücksichtigungsfähige Person Anspruch auf Zuschuss zu den Unterkunfts-, Investitions- und Verpflegungskosten nach landesrechtlichen Vorschriften, sind die Aufwendungen nach Satz 1 in Höhe des tatsächlich gezahlten Zuschusses zu mindern.
 
-(3) Maßgeblich sind die im Kalenderjahr vor der Antragstellung erzielten Einnahmen. Einnahmen sind:
+(3) Maßgeblich sind die im Kalenderjahr vor dem Entstehen der pflegebedingten Aufwendungen erzielten Einnahmen. Einnahmen sind:
 
 1.  die Bruttobezüge nach § 1 Absatz 2 Nummer 1 und 3 und Absatz 3 des Bundesbesoldungsgesetzes, die nach Anwendung von Ruhens-, Kürzungs- und Anrechnungsvorschriften verbleiben, und der Altersteilzeitzuschlag; unberücksichtigt bleibt der kinderbezogene Familienzuschlag,
 
@@ -2020,11 +2020,14 @@ Satz 1 gilt bei anderen Abrechnungszeiträumen entsprechend. Hat eine beihilfebe
 3.  der Zahlbetrag der Renten aus der gesetzlichen Rentenversicherung und aus einer zusätzlichen Alters- und Hinterbliebenenversorgung der beihilfeberechtigten Person, der Ehegattin oder des Ehegatten oder der Lebenspartnerin oder des Lebenspartners; maßgeblich ist der Betrag, der sich vor Abzug der Beiträge zur Kranken- und Pflegeversicherung und ohne Berücksichtigung des Beitragszuschusses ergibt; eine Leistung für Kindererziehung nach § 294 des Sechsten Buches Sozialgesetzbuch bleibt unberücksichtigt,
 
 
-4.  der unter § 2 Absatz 3 des Einkommensteuergesetzes fallende Gesamtbetrag der Einkünfte der Ehegattin oder des Ehegatten oder der Lebenspartnerin oder des Lebenspartners; unberücksichtigt bleibt der Anteil einer gesetzlichen Rente, der der Besteuerung unterliegt.
+4.  die unter § 2 Absatz 2 des Einkommenssteuergesetzes fallenden Einkünfte der beihilfeberechtigten Person aus selbständiger und nicht selbständiger Arbeit und
+
+
+5.  der unter § 2 Absatz 3 des Einkommensteuergesetzes fallende Gesamtbetrag der Einkünfte der Ehegattin oder des Ehegatten oder der Lebenspartnerin oder des Lebenspartners; unberücksichtigt bleibt der Anteil einer gesetzlichen Rente, der der Besteuerung unterliegt.
 
 
 
-Die Einnahmen sind jährlich nachzuweisen. Macht die beihilfeberechtigte Person glaubhaft, dass die aktuellen Einnahmen voraussichtlich wesentlich geringer sind als die im Kalenderjahr vor der Antragstellung erzielten durchschnittlichen monatlichen Einnahmen, sind die Einnahmen im jeweiligen Pflegemonat zugrunde zu legen. Hat die beihilfeberechtigte Person keine Einnahmen nach Satz 1 aus dem Kalenderjahr vor Antragstellung, werden die voraussichtlichen Einnahmen im jeweiligen Pflegemonat zugrunde gelegt. Befinden sich verheiratete oder in einer Lebenspartnerschaft lebende Personen in vollstationärer Pflege und verstirbt die beihilfeberechtigte Person, sind die aktuellen Einnahmen im jeweiligen Pflegemonat zugrunde zu legen, bis die Voraussetzungen nach Satz 4 nicht mehr vorliegen.
+Die Einnahmen sind jährlich nachzuweisen. Macht die beihilfeberechtigte Person glaubhaft, dass die aktuellen Einnahmen voraussichtlich wesentlich geringer sind als die im Kalenderjahr vor dem Entstehen der pflegebedingten Aufwendungen erzielten durchschnittlichen monatlichen Einnahmen, sind die Einnahmen im jeweiligen Pflegemonat zugrunde zu legen. Hat die beihilfeberechtigte Person keine Einnahmen nach Satz 1 aus dem Kalenderjahr vor dem Entstehen der pflegebedingten Aufwendungen, werden die voraussichtlichen Einnahmen im jeweiligen Pflegemonat zugrunde gelegt. Befinden sich verheiratete oder in einer Lebenspartnerschaft lebende Personen in vollstationärer Pflege und verstirbt die beihilfeberechtigte Person, sind die aktuellen Einnahmen im jeweiligen Pflegemonat zugrunde zu legen, bis die Voraussetzungen nach Satz 4 nicht mehr vorliegen.
 
 (4) Beihilfefähig sind Aufwendungen für zusätzliche Betreuung und Aktivierung entsprechend § 43b des Elften Buches Sozialgesetzbuch, die über die nach Art und Schwere der Pflegebedürftigkeit notwendige Versorgung hinausgeht.
 
@@ -2480,7 +2483,7 @@ Voraussetzung der Kostenbeteiligung ist eine Vereinbarung zwischen dem Bund und 
 
 (1) Die oberste Dienstbehörde oder eine von ihr bestimmte Behörde kann im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes den Bemessungssatz für Aufwendungen anlässlich einer Dienstbeschädigung angemessen erhöhen, soweit nicht bereits Ansprüche nach dem Beamtenversorgungsgesetz bestehen.
 
-(2) Den Bemessungssatz für beihilfefähige Aufwendungen nach den Kapiteln 2 und 4 von Versorgungsempfängerinnen, Versorgungsempfängern und deren berücksichtigungsfähigen Personen mit geringen Gesamteinkünften kann die oberste Dienstbehörde für höchstens drei Jahre um höchstens 10 Prozentpunkte erhöhen, wenn der Beitragsaufwand für eine beihilfekonforme private Krankenversicherung 15 Prozent ihrer oder seiner Gesamteinkünfte übersteigt. Zu den maßgebenden Gesamteinkünften zählt das durchschnittliche Monatseinkommen der zurückliegenden zwölf Monate aus Bruttoversorgungsbezügen, Sonderzahlungen, Renten, Kapitalerträgen und aus sonstigen laufenden Einnahmen der beihilfeberechtigten Person und ihrer berücksichtigungsfähigen Personen nach § 4 Absatz 1; unberücksichtigt bleiben Entschädigungszahlungen an Geschädigte nach dem Vierzehnten Buch Sozialgesetzbuch, Blindengeld, Wohngeld und Leistungen für Kindererziehung nach § 294 des Sechsten Buches Sozialgesetzbuch. Die geringen Gesamteinkünfte betragen 150 Prozent des Ruhegehalts nach § 14 Abs. 4 Satz 2 und 3 des Beamtenversorgungsgesetzes. Der Betrag erhöht sich um 255,65 Euro, wenn für die berücksichtigungsfähige Person nach § 4 Absatz 1 ebenfalls Beiträge zur privaten Krankenversicherung gezahlt werden. Ein zu zahlender Versorgungsausgleich der Versorgungsempfängerin oder des Versorgungsempfängers mindert die anzurechnenden Gesamteinkünfte nicht. Bei einer erneuten Antragstellung ist von den fiktiven Beiträgen zur Krankenversicherung auszugehen, die sich unter Zugrundelegung eines Bemessungssatzes nach § 46 ergeben würden.
+(2) Den Bemessungssatz für beihilfefähige Aufwendungen nach den Kapiteln 2 und 4 von Versorgungsempfängerinnen, Versorgungsempfängern und deren berücksichtigungsfähigen Personen mit geringen Gesamteinkünften kann die oberste Dienstbehörde für höchstens drei Jahre um höchstens 10 Prozentpunkte erhöhen, wenn der Beitragsaufwand für eine beihilfekonforme private Krankenversicherung 15 Prozent ihrer oder seiner Gesamteinkünfte übersteigt. Zu den maßgebenden Gesamteinkünften zählt das durchschnittliche Monatseinkommen der zurückliegenden zwölf Monate aus Bruttoversorgungsbezügen, Sonderzahlungen, Renten, Kapitalerträgen und aus sonstigen laufenden Einnahmen der beihilfeberechtigten Person und ihrer berücksichtigungsfähigen Personen nach § 4 Absatz 1; unberücksichtigt bleiben Entschädigungszahlungen an Geschädigte nach dem Vierzehnten Buch Sozialgesetzbuch oder Ausgleiche für gesundheitliche Schädigungsfolgen nach dem Soldatenentschädigungsgesetz, Blindengeld, Wohngeld und Leistungen für Kindererziehung nach § 294 des Sechsten Buches Sozialgesetzbuch. Die geringen Gesamteinkünfte betragen 150 Prozent des Ruhegehalts nach § 14 Abs. 4 Satz 2 und 3 des Beamtenversorgungsgesetzes. Der Betrag erhöht sich um 255,65 Euro, wenn für die berücksichtigungsfähige Person nach § 4 Absatz 1 ebenfalls Beiträge zur privaten Krankenversicherung gezahlt werden. Ein zu zahlender Versorgungsausgleich der Versorgungsempfängerin oder des Versorgungsempfängers mindert die anzurechnenden Gesamteinkünfte nicht. Bei einer erneuten Antragstellung ist von den fiktiven Beiträgen zur Krankenversicherung auszugehen, die sich unter Zugrundelegung eines Bemessungssatzes nach § 46 ergeben würden.
 
 (3) Die oberste Dienstbehörde kann den Bemessungssatz in weiteren Ausnahmefällen im Einvernehmen mit dem Bundesministerium des Innern und für Heimat angemessen erhöhen, wenn dies im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes zwingend geboten ist. Hierbei ist ein sehr strenger Maßstab anzulegen. Bei dauernder Pflegebedürftigkeit ist eine Erhöhung ausgeschlossen.
 

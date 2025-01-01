@@ -44,7 +44,7 @@ Soweit in dieser Verordnung oder in der Hauptzollamtszuständigkeitsverordnung n
 
 (1) Soweit im Stromsteuergesetz oder in dieser Verordnung nichts anderes bestimmt ist, sind Versorger keine Letztverbraucher im Sinn des § 5 Absatz 1 Satz 1 des Gesetzes.
 
-(1a) Wer ausschließlich nach § 3 des Gesetzes zu versteuernden Strom bezieht und diesen ausschließlich innerhalb einer Kundenanlage leistet, gilt vorbehaltlich Satz 2 nicht als Versorger, sondern als Letztverbraucher im Sinne des § 5 Absatz 1 Satz 1 des Gesetzes. Satz 1 gilt nur dann, wenn ausschließlich von einem im Steuergebiet ansässigen Versorger bezogener Strom geleistet wird. Für diejenigen, an die der Strom innerhalb der Kundenanlage geleistet wird, besteht weiterhin die Möglichkeit, einen Steuerentlastungsanspruch nach den §§ 9a bis 10 des Gesetzes sowie nach den §§ 12a und 14a geltend zu machen.
+(1a) Wer ausschließlich nach § 3 des Gesetzes zu versteuernden Strom bezieht und diesen ausschließlich innerhalb einer Kundenanlage leistet, gilt vorbehaltlich Satz 2 nicht als Versorger, sondern als Letztverbraucher im Sinne des § 5 Absatz 1 Satz 1 des Gesetzes. Satz 1 gilt nur dann, wenn ausschließlich von einem im Steuergebiet ansässigen Versorger bezogener Strom geleistet wird. Für diejenigen, an die der Strom innerhalb der Kundenanlage geleistet wird, besteht weiterhin die Möglichkeit, einen Steuerentlastungsanspruch nach den §§ 9a bis 9e des Gesetzes sowie nach den §§ 12a und 14a geltend zu machen.
 
 (2) Wer ausschließlich nach § 3 des Gesetzes zu versteuernden Strom bezieht und diesen ausschließlich
 
@@ -58,9 +58,9 @@ Soweit in dieser Verordnung oder in der Hauptzollamtszuständigkeitsverordnung n
 
 
 
-als Letztverbraucher leistet, gilt nicht als Versorger, sondern als Letztverbraucher im Sinne des § 5 Absatz 1 Satz 1 des Gesetzes. Dies gilt jedoch nur dann, wenn ausschließlich von einem im Steuergebiet ansässigen Versorger bezogener Strom geleistet wird. Personen nach den Nummern 1 und 3 haben weiterhin die Möglichkeit, einen Steuerentlastungsanspruch nach den §§ 9a bis 10 des Gesetzes sowie nach den §§ 12a und 14a geltend zu machen.
+als Letztverbraucher leistet, gilt nicht als Versorger, sondern als Letztverbraucher im Sinne des § 5 Absatz 1 Satz 1 des Gesetzes. Dies gilt jedoch nur dann, wenn ausschließlich von einem im Steuergebiet ansässigen Versorger bezogener Strom geleistet wird. Personen nach den Nummern 1 und 3 haben weiterhin die Möglichkeit, einen Steuerentlastungsanspruch nach den §§ 9a bis 9e des Gesetzes sowie nach den §§ 12a und 14a geltend zu machen.
 
-(3) Wer ausschließlich nach § 3 zu versteuernden Strom bezieht und ausschließlich diesen in geringem Umfang an Dritte leistet, gilt insoweit nicht als Versorger, sondern als Letztverbraucher im Sinne von § 5 Absatz 1 Satz 1 des Gesetzes. Dies gilt jedoch nur dann, wenn ausschließlich von einem im Steuergebiet ansässigen Versorger bezogener Strom geleistet wird. Dritte haben weiterhin die Möglichkeit, einen Steuerentlastungsanspruch nach den §§ 9a bis 10 des Gesetzes sowie nach den §§ 12a und 14a geltend zu machen.
+(3) Wer ausschließlich nach § 3 zu versteuernden Strom bezieht und ausschließlich diesen in geringem Umfang an Dritte leistet, gilt insoweit nicht als Versorger, sondern als Letztverbraucher im Sinne von § 5 Absatz 1 Satz 1 des Gesetzes. Dies gilt jedoch nur dann, wenn ausschließlich von einem im Steuergebiet ansässigen Versorger bezogener Strom geleistet wird. Dritte haben weiterhin die Möglichkeit, einen Steuerentlastungsanspruch nach den §§ 9a bis 9e des Gesetzes sowie nach den §§ 12a und 14a geltend zu machen.
 
 (4) Versorger gelten als Letztverbraucher im Sinne von § 5 Absatz 1 Satz 1 des Gesetzes, soweit sie
 
@@ -134,7 +134,7 @@ Ein Batterieelektrofahrzeug nach Nummer 1 ist ein Kraftfahrzeug im Sinne des § 
 
 (1) Die unverzügliche Mitteilung nach § 2a Absatz 1 Satz 2 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben. Bei Steuerbefreiungen und Steuerermäßigungen nach § 2a Absatz 1 Satz 1 des Gesetzes entsteht für den entnommenen elektrischen Strom die Steuer nach dem Steuersatz des § 3 des Gesetzes. Besteht die Steuerbegünstigung in einer Steuerermäßigung, gilt Satz 2 nur für den ermäßigten Teil der Steuer. Der Steuerschuldner hat für elektrischen Strom, für den die Steuer entstanden ist, bis zum 15. Tag des folgenden Monats eine Steuererklärung nach amtlich vorgeschriebenem Vordruck abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer, die in einem Monat entstanden ist, ist am 25. Tag des Monats fällig, der auf den Monat der Entstehung der Steuer folgt. Wird die Mitteilung nach Satz 1 nicht oder nicht rechtzeitig abgegeben, ist die Steueranmeldung unverzüglich abzugeben und die Steuer sofort fällig.
 
-(2) Für den nachweislich nach Absatz 1 versteuerten elektrischen Strom kann auf Antrag eine Steuerentlastung bis auf den Betrag entsprechend den in § 2a Absatz 1 und 3 des Gesetzes genannten Steuerbefreiungen und Steuerermäßigungen gewährt werden, wenn der Antragsteller nachweist, dass er der Rückforderungsanordnung zwischenzeitlich nachgekommen ist. Die Steuerentlastung nach Satz 1 ist bei dem für den Antragsteller zuständigen Hauptzollamt zu beantragen. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen (Steueranmeldung). Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem der Strom entnommen worden ist, beim Hauptzollamt gestellt wird.
+(2) Für den nachweislich nach Absatz 1 versteuerten elektrischen Strom kann auf Antrag eine Steuerentlastung bis auf den Betrag entsprechend den in § 2a Absatz 1 und 3 des Gesetzes genannten Steuerbefreiungen und Steuerermäßigungen gewährt werden, wenn der Antragsteller nachweist, dass er der Rückforderungsanordnung zwischenzeitlich nachgekommen ist. Die Steuerentlastung nach Satz 1 ist bei dem für den Antragsteller zuständigen Hauptzollamt zu beantragen. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen (Steueranmeldung). Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
 (3) Die Versicherung nach § 2a Absatz 1 Satz 3 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben. Steuerentlastungen nach § 2a Absatz 1 Satz 1 des Gesetzes sowie die Steuerentlastungen nach den §§ 12c, 12d und 14a dürfen nur gewährt werden, wenn die Versicherung dem zuständigen Hauptzollamt vorliegt. Die Versicherung ist vom Antragsteller für den ersten Entlastungsabschnitt jedes Kalenderjahres vorzulegen. Weiteren Anträgen auf Steuerentlastung muss die Versicherung nur beigefügt werden, wenn sich Änderungen gegenüber der dem zuständigen Hauptzollamt bereits vorliegenden Versicherung ergeben haben. Für Änderungsanträge gelten die Sätze 1 bis 4 sinngemäß. Steuerentlastungen nach § 2a Absatz 1 Satz 1 des Gesetzes sowie die Steuerentlastungen nach den §§ 12c, 12d und 14a dürfen nicht ausgezahlt werden, solange eine offene Rückforderungsanordnung besteht.
 
@@ -145,7 +145,7 @@ Ein Batterieelektrofahrzeug nach Nummer 1 ist ein Kraftfahrzeug im Sinne des § 
 
 (1) Die unverzügliche Mitteilung nach § 2a Absatz 2 Satz 2 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben. Bei Steuerbefreiungen und Steuerermäßigungen nach § 2a Absatz 2 Satz 1 des Gesetzes entsteht für den entnommenen elektrischen Strom die Steuer nach dem Steuersatz des § 3 des Gesetzes. Besteht die Steuerbegünstigung in einer Steuerermäßigung, gilt Satz 2 nur für den ermäßigten Teil der Steuer. § 1d Absatz 1 Satz 4 bis 7 gilt entsprechend. Sofern der Zeitraum der Schwierigkeiten zwölf Monate nicht überschritten hat, kann auf Antrag eine Steuerentlastung entsprechend § 1d Absatz 2 gewährt werden.
 
-(2) Die Versicherung nach § 2a Absatz 2 Satz 3 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben. § 1d Absatz 3 Satz 2 bis 5 gilt entsprechend. Steuerentlastungen nach § 2a Absatz 2 Satz 1 des Gesetzes sowie die Steuerentlastungen nach den §§ 12c, 12d und 14a dürfen grundsätzlich nur festgesetzt werden, sofern sich das Unternehmen weder im Entlastungsabschnitt noch im Zeitpunkt der Antragstellung in Schwierigkeiten befand. Hat sich das Unternehmen im Entlastungsabschnitt in Schwierigkeiten befunden, kann gleichwohl eine Festsetzung erfolgen, wenn sich das Unternehmen im Zeitpunkt der Antragstellung nicht mehr in Schwierigkeiten befindet und der Zeitraum der Schwierigkeiten zwölf Monate nicht überschritten hat. Befindet sich das Unternehmen im Zeitpunkt der Antragstellung noch in Schwierigkeiten und ist der Zeitraum von zwölf Monaten noch nicht überschritten, hat die Festsetzung unter der Bedingung zu erfolgen, dass das Unternehmen nachweist, dass die Schwierigkeiten überwunden worden sind und der Zeitraum der Schwierigkeiten insgesamt zwölf Monate nicht überschritten hat.
+(2) Die Versicherung nach § 2a Absatz 2 Satz 3 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben. § 1d Absatz 3 Satz 2 bis 5 gilt entsprechend. Steuerentlastungen nach § 2a Absatz 2 Satz 1 des Gesetzes sowie die Steuerentlastungen nach den §§ 12c, 12d und 14a dürfen nur gewährt werden, sofern sich das Unternehmen im Zeitpunkt der Antragstellung nicht in Schwierigkeiten befand.
 
 (3) Zur Umsetzung des § 2a Absatz 2 des Gesetzes können Verwaltungsakte mit einer Nebenbestimmung nach § 120 der Abgabenordnung versehen werden.
 
@@ -222,7 +222,7 @@ Ein Batterieelektrofahrzeug nach Nummer 1 ist ein Kraftfahrzeug im Sinne des § 
 
 soweit die folgenden Absätze zum Zeitpunkt des Erlöschens nichts anderes bestimmen.
 
-(4) Teilen in den Fällen des Absatzes 3 Nummer 6 bis 8 die Erben, der Testamentsvollstrecker, der Nachlassverwalter, der Nachlasspfleger, die Liquidatoren oder der Insolvenzverwalter dem zuständigen Hauptzollamt vor dem Erlöschen der Erlaubnis schriftlich mit, dass der Betrieb bis zum endgültigen Übergang auf einen anderen Inhaber oder bis zur Abwicklung des Unternehmens fortgeführt wird, gilt die Erlaubnis für die Rechtsnachfolger, den Testamentsvollstrecker, den Nachlassverwalter, den Nachlasspfleger, die Liquidatoren oder den Insolvenzverwalter entgegen Absatz 3 bis spätestens zum Ablauf einer vom zuständigen Hauptzollamt festzusetzenden angemessenen Frist fort. Ein Widerruf nach Absatz 3 Nummer 1 bleibt hiervon unberührt.
+(4) Teilen in den Fällen des Absatzes 3 Nummer 6 bis 8 die Erben, der Testamentsvollstrecker, der Nachlassverwalter, der Nachlasspfleger, die Liquidatoren oder der Insolvenzverwalter dem zuständigen Hauptzollamt vor dem Erlöschen der Erlaubnis schriftlich mit, dass der Betrieb bis zum endgültigen Übergang auf einen anderen Inhaber oder bis zur Abwicklung des Unternehmens fortgeführt wird, gilt die Erlaubnis für die Rechtsnachfolger, den Testamentsvollstrecker, den Nachlassverwalter, den Nachlasspfleger, die Liquidatoren oder den Insolvenzverwalter entgegen Absatz 3 bis spätestens zum Ablauf einer vom zuständigen Hauptzollamt festzusetzenden angemessenen Frist fort. Ein Widerruf nach Absatz 3 Nummer 1 bleibt hiervon unberührt. Soweit im Eröffnungsbeschluss eines Insolvenzverfahrens die Eigenverwaltung nach § 270 der Insolvenzordnung angeordnet und ein Sachwalter bestellt wurde, kann die Mitteilung nach Satz 1 ausschließlich durch den Erlaubnisinhaber erfolgen.
 
 (5) Beantragen in den in Absatz 3 Nummer 5, 6 und 9 beschriebenen Fällen vor dem Erlöschen der Erlaubnis
 
@@ -319,14 +319,14 @@ zuständige              Hauptzollamt nicht darauf verzichtet. Das Hauptzollamt 
 
 (1) Die Festsetzung der Vorauszahlungen erfolgt durch Vorauszahlungsbescheid. Ist die Steuer nur in einem Teil des vorletzten dem Veranlagungsjahr vorhergehenden Kalenderjahres entstanden, ist die tatsächlich entstandene Steuer in eine Jahressteuerschuld umzurechnen. Ist die Steuer erstmals im vorangegangenen oder laufenden Kalenderjahr oder bisher noch nicht entstanden, ist die voraussichtlich zu erwartende Jahressteuerschuld maßgebend.
 
-(2) Das Hauptzollamt kann auf Antrag bei der Festsetzung der Höhe der Vorauszahlungen die voraussichtlich dem Steuerschuldner im gleichen Zeitraum nach den §§ 9a, 9b und 10 des Gesetzes zu erlassende, zu erstattende oder zu vergütende Steuer berücksichtigen, soweit die Steuerbelange dadurch nicht gefährdet sind. Satz 1 gilt nur, wenn in den Fällen des
+(2) Das Hauptzollamt kann auf Antrag bei der Festsetzung der Höhe der Vorauszahlungen dem Steuerschuldner voraussichtlich im gleichen Zeitraum zu gewährende Steuerentlastungen nach den §§ 9a und 9b des Gesetzes berücksichtigen, soweit die Steuerbelange dadurch nicht gefährdet sind. Satz 1 gilt nur, wenn der Entlastungsabschnitt das Kalenderjahr ist, die Festsetzung der zu entlastenden Steuer nicht vor der Festsetzung der Jahressteuerschuld erfolgt und wenn in den Fällen des
 
 1.  § 9a des Gesetzes
 
-    a)  sich der maßgebende Zeitraum für die Zuordnung des Unternehmens zum Produzierenden Gewerbe nach § 15 Absatz 3 Satz 1 bestimmt und
+    a)  sich der maßgebende Zeitraum für die Zuordnung zum Produzierenden Gewerbe nach § 15 Absatz 3 Satz 1 bestimmt und
 
 
-    b)  die nach § 17a Absatz 3 erforderliche Beschreibung der wirtschaftlichen Tätigkeiten und die Betriebserklärung vom Antragsteller bereits vorgelegt worden sind;
+    b)  die nach § 17a Absatz 3 erforderliche Betriebserklärung vorgelegt worden ist und die Beschreibung der wirtschaftlichen Tätigkeiten vom Antragsteller auf Verlangen des Hauptzollamts vorgelegt wird;
 
 
 
@@ -337,27 +337,7 @@ zuständige              Hauptzollamt nicht darauf verzichtet. Das Hauptzollamt 
     a)  sich der maßgebende Zeitraum für die Zuordnung des Unternehmens zum Produzierenden Gewerbe oder zur Land- und Forstwirtschaft nach § 15 Absatz 3 Satz 1 bestimmt und
 
 
-    b)  die nach § 17b Absatz 3 erforderliche Beschreibung der wirtschaftlichen Tätigkeiten vom Antragsteller bereits vorgelegt worden ist;
-
-
-
-
-
-3.  § 10 des Gesetzes
-
-    a)  sich der maßgebende Zeitraum für die Zuordnung des Unternehmens zum Produzierenden Gewerbe nach § 15 Absatz 3 Satz 1 bestimmt,
-
-
-    b)  die nach § 19 Absatz 4 in Verbindung mit § 17b Absatz 3 erforderliche Beschreibung der wirtschaftlichen Tätigkeiten vom Antragsteller bereits vorgelegt worden ist,
-
-
-    c)  der Antragsteller den nach § 10 Absatz 3 Satz 1 Nummer 1 oder Absatz 4 des Gesetzes erforderlichen Nachweis bereits erbracht hat,
-
-
-    d)  die nach § 10 Absatz 3 Satz 1 Nummer 2 Buchstabe b des Gesetzes erforderliche Bekanntmachung der Bundesregierung bereits erfolgt ist und
-
-
-    e)  die nach § 19 Absatz 4 Satz 2 erforderliche Selbsterklärung bereits vorgelegt worden ist.
+    b)  die nach § 17b Absatz 3 erforderliche Beschreibung der wirtschaftlichen Tätigkeiten vom Antragsteller auf Verlangen des Hauptzollamts vorgelegt wird.
 
 
 
@@ -365,7 +345,7 @@ zuständige              Hauptzollamt nicht darauf verzichtet. Das Hauptzollamt 
 
 
 
-(3) Beträgt die Höhe der monatlichen Vorauszahlungen nicht mehr als 200 Euro, kann das Hauptzollamt auf die Festsetzung von Vorauszahlungen verzichten.
+(3) Beträgt die Höhe der monatlichen Vorauszahlungen nicht mehr als 200 Euro, wird auf die Festsetzung von Vorauszahlungen verzichtet, wenn die Steuerbelange dadurch nicht beeinträchtigt werden.
 
 
 ### § 7 Mengenermittlung
@@ -405,7 +385,7 @@ Wird die durch Mieter, Pächter oder vergleichbare Vertragsparteien des Versorge
 
 (3) Das Hauptzollamt kann vom Antragsteller weitere Angaben und Unterlagen verlangen, wenn sie zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen. Es kann auf Angaben und Unterlagen verzichten, soweit die Steuerbelange dadurch nicht beeinträchtigt werden.
 
-(4) Sollen in den Fällen nach § 9 Absatz 1 Nummer 1, 2 und 3 des Gesetzes weitere Anlagen steuerbefreit betrieben werden oder soll der Betrieb von solchen Anlagen eingestellt werden, hat der Erlaubnisinhaber in entsprechender Anwendung der Absätze 1 und 3 eine Änderung der Erlaubnis zu beantragen.
+(4) Sollen in den Fällen nach § 9 Absatz 1 Nummer 1, 2 und 3 des Gesetzes weitere Anlagen betrieben werden oder soll der Betrieb von solchen Anlagen eingestellt werden, hat der Erlaubnisinhaber in entsprechender Anwendung der Absätze 1 und 3 eine Änderung der Erlaubnis zu beantragen.
 
 (5) Für den Nachweis einer hocheffizienten KWK-Anlage nach § 2 Nummer 10 des Gesetzes gelten entsprechend:
 
@@ -438,7 +418,7 @@ Abweichend von § 99b der Energiesteuer-Durchführungsverordnung gilt der Nachwe
 
 (1) Unter Verzicht auf eine förmliche Einzelerlaubnis (§ 9) ist die Entnahme von Strom für steuerbegünstigte Zwecke nach § 9 Absatz 3 des Gesetzes allgemein erlaubt. Dies gilt nicht für die Entnahme von Strom für Wasserfahrzeuge der Haupterwerbsfischerei auf Binnengewässern, für Wasserfahrzeuge der Position 8903 der Kombinierten Nomenklatur (§ 1 Absatz 2 des Gesetzes) und für Wasserfahrzeuge der Position 8905 der Kombinierten Nomenklatur, auf denen die in § 14 Absatz 2 Nummer 2 genannten Arbeitsmaschinen betrieben werden.
 
-(2) Unter Verzicht auf die förmliche Einzelerlaubnis (§ 9) ist die Entnahme von Strom für steuerbegünstigte Zwecke nach § 9 Absatz 1 Nummer 3 des Gesetzes allgemein erlaubt, wenn der Strom
+(2) Unter Verzicht auf die förmliche Einzelerlaubnis (§ 9) ist die Entnahme oder die Leistung von Strom für steuerbegünstigte Zwecke nach § 9 Absatz 1 Nummer 3 des Gesetzes allgemein erlaubt, wenn der Strom
 
 1.  in Anlagen aus erneuerbaren Energieträgern mit einer elektrischen Nennleistung von bis zu 1 Megawatt erzeugt wird;
 
@@ -501,7 +481,7 @@ zur Erzeugung von Strom im technischen Sinne verbraucht wird.
 
 (2) Soweit die Verbrauchsmenge nach Absatz 1 wegen des Nichtvorhandenseins von Mess- oder Zähleinrichtungen nicht ermittelt werden kann, ist eine sachgerechte, von einem Dritten nachvollziehbare Schätzung zulässig.
 
-(3) Absatz 2 gilt nur, wenn der entnommene Strom selbst erzeugt oder als Versorger bezogen worden ist. Wird der Strom als Letztverbraucher bezogen und sind keine Mess- und Zähleinrichtungen vorhanden, die eine Abgrenzung der zur Stromerzeugung steuerfrei entnommenen Strommengen von den zu versteuernden Mengen ermöglichen, so wird die Strombegünstigung nur in Form einer Steuerentlastung nach § 12a gewährt. Das zuständige Hauptzollamt kann darüber hinaus verlangen, dass die Steuerbegünstigung nur in Form der Steuerentlastung nach § 12a gewährt wird, wenn Steuerbelange gefährdet erscheinen.
+(3) Absatz 2 gilt nur, wenn der entnommene Strom selbst erzeugt oder als Versorger bezogen worden ist. Wird der Strom als Letztverbraucher bezogen und sind keine Mess- und Zähleinrichtungen vorhanden, die eine Abgrenzung der zur Stromerzeugung steuerfrei entnommenen Strommengen von den zu versteuernden Mengen ermöglichen, so wird die Steuerbegünstigung nur in Form einer Steuerentlastung nach § 12a gewährt. Das zuständige Hauptzollamt kann darüber hinaus verlangen, dass die Steuerbegünstigung nur in Form der Steuerentlastung nach § 12a gewährt wird, wenn Steuerbelange gefährdet erscheinen.
 
 (4) In den Fällen des § 1a Absatz 6 und 7 wird die Steuerbegünstigung nur in Form einer Steuerentlastung nach § 12a gewährt.
 
@@ -535,9 +515,9 @@ zur Erzeugung von Strom im technischen Sinne verbraucht wird.
 
 
 
-Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem der Strom entnommen wurde, beim Hauptzollamt gestellt wird.
+Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(4) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt.
+(4) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 (4a) Bei erstmaliger Antragstellung ist dem Antrag für jede Anlage eine Betriebserklärung nach amtlich vorgeschriebenem Vordruck beizufügen. Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich Änderungen gegenüber der dem zuständigen Hauptzollamt bereits vorliegenden Betriebserklärung ergeben haben. Der Antragsteller hat die Änderungen besonders kenntlich zu machen.
 
@@ -572,11 +552,11 @@ Eine Entnahme von Strom im räumlichen Zusammenhang zu einer Anlage im Sinn des 
 
 (2) Entlastungsberechtigt ist derjenige, der den Strom entnommen hat.
 
-(3) Die Steuerentlastung ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts entnommen worden ist. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem der Strom entnommen wurde, beim Hauptzollamt gestellt wird.
+(3) Die Steuerentlastung ist für jede Anlage bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts entnommen worden ist. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(4) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt.
+(4) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
-(5) Bei erstmaliger Antragstellung ist dem Antrag für jede Anlage eine Betriebserklärung nach amtlich vorgeschriebenem Vordruck beizufügen. Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich Änderungen gegenüber den dem Hauptzollamt bereits vorliegenden Angaben und Unterlagen ergeben haben. Der Antragsteller hat die Änderungen besonders kenntlich zu machen. § 11a gilt entsprechend.
+(5) Bei erstmaliger Antragstellung ist dem Antrag für die Anlage eine Betriebserklärung nach amtlich vorgeschriebenem Vordruck beizufügen. Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich Änderungen gegenüber den dem Hauptzollamt bereits vorliegenden Angaben und Unterlagen ergeben haben. Der Antragsteller hat die Änderungen besonders kenntlich zu machen. § 11a gilt entsprechend.
 
 (6) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus dem sich für den Entlastungsabschnitt die Menge und der genaue Verwendungszweck des Stroms ergeben müssen.
 
@@ -587,11 +567,11 @@ Eine Entnahme von Strom im räumlichen Zusammenhang zu einer Anlage im Sinn des 
 
 (2) Entlastungsberechtigt ist derjenige, der den Strom entnommen hat.
 
-(3) Die Steuerentlastung ist für jede Anlage bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts entnommen worden ist. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem der Strom entnommen wurde, beim Hauptzollamt gestellt wird.
+(3) Die Steuerentlastung ist für jede Anlage bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts entnommen worden ist. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(4) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt. Wird als Entlastungsabschnitt das Kalenderjahr zugrunde gelegt, ist der Jahresnutzungsgrad nachzuweisen. Wird dagegen ein anderer Entlastungsabschnitt gewählt, ist für jeden Monat des Entlastungsabschnitts der jeweilige Monatsnutzungsgrad nachzuweisen.
+(4) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt. Wird als Entlastungsabschnitt das Kalenderjahr zugrunde gelegt, ist der Jahresnutzungsgrad nachzuweisen. Wird dagegen ein anderer Entlastungsabschnitt gewählt, ist für jeden Monat des Entlastungsabschnitts der jeweilige Monatsnutzungsgrad nachzuweisen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
-(5) Bei erstmaliger Antragstellung sind dem Antrag für jede Anlage beizufügen:
+(5) Bei erstmaliger Antragstellung sind dem Antrag für die Anlage beizufügen:
 
 1.  eine Betriebserklärung nach amtlich vorgeschriebenem Vordruck,
 
@@ -686,7 +666,7 @@ an ihre Mieter, Pächter oder an vergleichbare Vertragsparteien leisten. Der Erl
 
 ### § 14a Steuerentlastung für die Landstromversorgung
 
-(1) Auf Antrag wird eine Steuerentlastung für nachweislich nach § 3 des Gesetzes versteuerten Strom gewährt, der zu dem in § 9 Absatz 3 des Gesetzes genannten Zweck verbraucht worden ist. Die Steuerentlastung beträgt 20 Euro je Megawattstunde. § 14 gilt entsprechend.
+(1) Auf Antrag wird eine Steuerentlastung für nachweislich nach § 3 des Gesetzes versteuerten Strom gewährt, der zu dem in § 9 Absatz 3 des Gesetzes genannten Zweck entnommen worden ist. Die Steuerentlastung beträgt 20 Euro je Megawattstunde. § 14 gilt entsprechend.
 
 (2) Entlastungsberechtigt ist
 
@@ -698,18 +678,18 @@ an ihre Mieter, Pächter oder an vergleichbare Vertragsparteien leisten. Der Erl
 
 
 
-(3) Die Steuerentlastung ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts entnommen worden ist. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem der Strom entnommen worden ist, beim Hauptzollamt gestellt wird.
+(3) Die Steuerentlastung ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts entnommen worden ist. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(4) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen oder in Einzelfällen die Steuerentlastung unverzüglich gewähren.
+(4) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von einem Kalendermonat als Entlastungsabschnitt zulassen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 
-## - - Zu § 2 Nummer 3 bis 6 und den §§ 9a bis 10 des Gesetzes
+## - - Zu § 2 Nummer 3 bis 6 und den §§ 9a und 9b des Gesetzes
 
 
 
 ### § 15 Zuordnung von Unternehmen
 
-(1) Das Hauptzollamt entscheidet über die Zuordnung eines Unternehmens nach § 2 Nummer 3 und 5 des Gesetzes zu einem Abschnitt oder einer Klasse der Klassifikation der Wirtschaftszweige. Für die Zuordnung sind die Abgrenzungsmerkmale maßgebend, die in der Klassifikation der Wirtschaftszweige und in deren Vorbemerkungen genannt sind, soweit die folgenden Absätze nichts anderes bestimmen.
+(1) Das Hauptzollamt ist für die Zuordnung eines Unternehmens nach § 2 Nummer 3 und 5 des Gesetzes zu einem Abschnitt oder einer Klasse der Klassifikation der Wirtschaftszweige zuständig. Für die Zuordnung sind die Abgrenzungsmerkmale maßgebend, die in der Klassifikation der Wirtschaftszweige und in deren Vorbemerkungen genannt sind, soweit die folgenden Absätze nichts anderes bestimmen.
 
 (2) Die Zuordnung eines Unternehmens zu einem Abschnitt oder einer Klasse der Klassifikation der Wirtschaftszweige erfolgt nach den wirtschaftlichen Tätigkeiten des Unternehmens im maßgebenden Zeitraum.
 
@@ -774,20 +754,11 @@ Das Hauptzollamt kann die Wahl des Unternehmens zurückweisen, wenn diese offens
 
 ### § 17a Erlass, Erstattung oder Vergütung der Steuer für bestimmte Prozesse und Verfahren
 
-(1) Der Erlass, die Erstattung oder die Vergütung der Steuer nach § 9a des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für innerhalb eines Erlass-, Erstattungs- oder Vergütungsabschnitts entnommenen Strom zu beantragen. Der Antragsteller hat in der Anmeldung alle für die Bemessung des Erlasses, der Erstattung oder der Vergütung erforderlichen Angaben zu machen und den Erlass, die Erstattung oder die Vergütung selbst zu berechnen. Der Erlass, die Erstattung oder die Vergütung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem der Strom entnommen wurde, beim Hauptzollamt gestellt wird.
+(1) Der Erlass, die Erstattung oder die Vergütung der Steuer (Steuerentlastung) nach § 9a des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts entnommen worden ist. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(2) Erlass-, Erstattungs- oder Vergütungsabschnitt ist das Kalenderjahr. Bestimmt sich der maßgebende Zeitraum für die Zuordnung des Unternehmens zum Produzierenden Gewerbe nach § 15 Absatz 3 Satz 1, kann der Antragsteller das Kalendervierteljahr oder das Kalenderhalbjahr als Erlass-, Erstattungs- oder Vergütungsabschnitt wählen. Das Hauptzollamt kann im Fall des Satzes 2 auf Antrag auch den Kalendermonat als Erlass-, Erstattungs- oder Vergütungsabschnitt zulassen.
+(2) Entlastungsabschnitt ist das Kalenderjahr. Bestimmt sich der maßgebende Zeitraum für die Zuordnung des Unternehmens zum Produzierenden Gewerbe nach § 15 Absatz 3 Satz 1, kann der Antragsteller das Kalendervierteljahr oder das Kalenderhalbjahr als Entlastungsabschnitt wählen. Das Hauptzollamt kann in den Fällen nach Satz 2 auf Antrag auch den Kalendermonat als Entlastungsabschnitt zulassen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden. Eine Steuerentlastung nach den Sätzen 2 und 3 wird nur gewährt, wenn die nach § 6 Absatz 2 Satz 1 und 2 Nummer 1 dem Steuerschuldner voraussichtlich im gleichen Zeitraum zu gewährende Steuerentlastung nicht bereits bei der Festsetzung der Höhe der Vorauszahlungen berücksichtigt wurde.
 
-(3) Dem Antrag sind beizufügen:
-
-1.  eine Beschreibung der wirtschaftlichen Tätigkeiten des Unternehmens im maßgebenden Zeitraum nach amtlich vorgeschriebenem Vordruck, die dem Hauptzollamt eine Zuordnung des Unternehmens zu einem Abschnitt oder gegebenenfalls einer Klasse der Klassifikation der Wirtschaftszweige ermöglicht, es sei denn, die Beschreibung liegt dem Hauptzollamt für den maßgebenden Zeitraum bereits vor,
-
-
-2.  bei erstmaliger Antragstellung eine Betriebserklärung, in der die Verwendung des Stroms genau beschrieben ist.
-
-
-
-Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich Änderungen gegenüber der dem Hauptzollamt bereits vorliegenden Betriebserklärung ergeben haben. Der Antragsteller hat die Änderungen besonders kenntlich zu machen.
+(3) Dem Antrag ist bei erstmaliger Antragstellung eine Betriebserklärung beizufügen, in der die Verwendung des Stroms genau beschrieben wird. Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich Änderungen gegenüber der dem Hauptzollamt bereits vorliegenden Betriebserklärung ergeben haben. Der Antragsteller hat die Änderungen besonders kenntlich zu machen. Darüber hinaus hat der Antragsteller auf Verlangen des Hauptzollamts eine Beschreibung seiner wirtschaftlichen Tätigkeiten im maßgebenden Zeitraum nach amtlich vorgeschriebenem Vordruck vorzulegen. Die Beschreibung muss es dem Hauptzollamt ermöglichen, das Unternehmen einem Abschnitt oder einer Klasse der Klassifikation der Wirtschaftszweige zuzuordnen.
 
 (4) Der Antragsteller hat einen buchmäßigen Nachweis zu führen, aus dem sich für den Entlastungsabschnitt die Menge und der genaue Verwendungszweck des Stroms ergeben müssen.
 
@@ -802,11 +773,19 @@ Weiteren Anträgen muss eine Betriebserklärung nur beigefügt werden, wenn sich
 
 ### § 17b Steuerentlastung für Unternehmen
 
-(1) Die Steuerentlastung nach § 9b des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts entnommen worden ist. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem der Strom entnommen worden ist, beim Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung nach § 9b des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts entnommen worden ist. Der Antragsteller hat in der Anmeldung alle Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird. Abweichend von § 3 Absatz 4 der Verbrauch-und-Luftverkehrsteuerdaten-Übermittlungs-Verordnung vom 14. August 2020 (BGBl. I S. 1960, 1961), die durch Artikel 11 des Gesetzes vom 24. Oktober 2022 (BGBl. I S. 1838) geändert worden ist, ist der Antrag ab 1. Januar 2025 nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung an das zuständige Hauptzollamt zu übermitteln (elektronische Datenübermittlung).
 
-(2) Entlastungsabschnitt ist das Kalenderjahr. Bestimmt sich der maßgebende Zeitraum für die Zuordnung eines Unternehmens zum Produzierenden Gewerbe oder zur Land- und Forstwirtschaft nach § 15 Absatz 3 Satz 1, kann der Antragsteller abweichend von Satz 1 das Kalendervierteljahr oder das Kalenderhalbjahr als Entlastungsabschnitt wählen. Das Hauptzollamt kann im Fall des Satzes 2 auf Antrag auch den Kalendermonat als Entlastungsabschnitt zulassen. Eine Steuerentlastung wird in den Fällen der Sätze 2 und 3 jedoch nur gewährt, wenn der Entlastungsbetrag den Betrag von 1 000 Euro bereits im jeweils ersten Entlastungsabschnitt eines Kalenderjahres überschreitet.
+(2) Entlastungsabschnitt ist das Kalenderjahr. Bestimmt sich der maßgebende Zeitraum für die Zuordnung eines Unternehmens des Produzierenden Gewerbes oder zur Land- und Forstwirtschaft nach § 15 Absatz 3 Satz 1, kann der Antragsteller abweichend von Satz 1 das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden. Eine Steuerentlastung nach Satz 2 wird nur gewährt, wenn
 
-(3) Der Antragsteller hat dem Antrag eine Beschreibung seiner wirtschaftlichen Tätigkeiten im maßgebenden Zeitraum nach amtlich vorgeschriebenem Vordruck beizufügen, es sei denn, die Beschreibung liegt dem Hauptzollamt bereits vor. Die Beschreibung muss es dem Hauptzollamt ermöglichen, das Unternehmen einem Abschnitt oder einer Klasse der Klassifikation der Wirtschaftszweige zuzuordnen.
+1.  der Entlastungsbetrag, ohne Berücksichtigung des Betrags nach § 9b Absatz 2 Satz 2 des Gesetzes, bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 1 000 Euro beträgt und
+
+
+2.  die nach § 6 Absatz 2 Satz 1 und 2 Nummer 2 dem Steuerschuldner voraussichtlich im gleichen Zeitraum zu gewährende Steuerentlastung nicht bereits bei der Festsetzung der Höhe der Vorauszahlungen berücksichtigt wurde.
+
+
+
+
+(3) Der Antragsteller hat auf Verlangen des Hauptzollamts eine Beschreibung seiner wirtschaftlichen Tätigkeiten im maßgebenden Zeitraum nach amtlich vorgeschriebenem Vordruck vorzulegen. Die Beschreibung muss es dem Hauptzollamt ermöglichen, das Unternehmen einem Abschnitt oder einer Klasse der Klassifikation der Wirtschaftszweige zuzuordnen.
 
 (4) Vom Antragsteller erzeugter oder bezogener Strom gilt auch dann als für betriebliche Zwecke entnommen, wenn
 
@@ -896,7 +875,7 @@ Die Vorlage einer Selbsterklärung nach Satz 1 Nummer 1 ist nicht erforderlich, 
 
 ### § 17d Steuerentlastung für den Öffentlichen Personennahverkehr, Allgemeines
 
-(1) Die Steuerentlastung nach § 9c des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts für begünstigte Zwecke entnommen worden ist. In der Anmeldung sind alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung ist selbst zu berechnen (Steueranmeldung). Eine Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem der Strom verwendet worden ist, beim zuständigen Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung nach § 9c des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts für begünstigte Zwecke entnommen worden ist. In der Anmeldung sind alle für die Bemessung der Steuerentlastung erforderlichen Angaben zu machen und die Steuerentlastung ist selbst zu berechnen (Steueranmeldung). Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
 (2) Entlastungsabschnitt ist nach Wahl des Antragstellers ein Zeitraum von einem Kalendervierteljahr, einem Kalenderhalbjahr oder einem Kalenderjahr.
 
@@ -926,9 +905,9 @@ Die Vorlage einer Selbsterklärung nach Satz 1 Nummer 1 ist nicht erforderlich, 
 
 ### § 17f Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)
 
-(1) Die Steuerentlastung ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts geleistet oder zur Erzeugung der gelieferten Wärme unmittelbar eingesetzt worden ist. Der Antragsteller hat in der Anmeldung die Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem der Strom geleistet worden ist, beim Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts geleistet oder zur Erzeugung der gelieferten Wärme unmittelbar eingesetzt worden ist. Der Antragsteller hat in der Anmeldung die Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(2) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt.
+(2) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 (3) Dem Antrag auf Steuerentlastung sind die Abwicklungsscheine nach § 73 Absatz 1 Nummer 1 der Umsatzsteuer-Durchführungsverordnung beizufügen. Das Hauptzollamt kann auf Abwicklungsscheine verzichten, wenn die in diesen vorgeschriebenen Angaben anderen Belegen und den Aufzeichnungen des Antragstellers eindeutig und leicht nachprüfbar zu entnehmen sind.
 
@@ -941,9 +920,9 @@ Die Vorlage einer Selbsterklärung nach Satz 1 Nummer 1 ist nicht erforderlich, 
 
 ### § 17g Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik (GSVP)
 
-(1) Die Steuerentlastung ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts geleistet worden ist. Der Antragsteller hat in der Anmeldung die Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem der Strom geleistet worden ist, beim Hauptzollamt gestellt wird.
+(1) Die Steuerentlastung ist bei dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Entlastungsabschnitts geleistet worden ist. Der Antragsteller hat in der Anmeldung die Angaben zu machen, die für die Bemessung der Steuerentlastung erforderlich sind, und die Steuerentlastung selbst zu berechnen. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum Ablauf der Festsetzungsfrist im Sinne des § 169 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung beim Hauptzollamt gestellt wird.
 
-(2) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt.
+(2) Entlastungsabschnitt ist das Kalenderjahr. Hiervon abweichend können Antragsteller das Kalenderhalbjahr, das Kalendervierteljahr oder den Kalendermonat als Entlastungsabschnitt wählen, sofern der Entlastungsbetrag bereits im jeweils ersten gewählten Entlastungsabschnitt eines Kalenderjahres mindestens 10 000 Euro beträgt. Das Wahlrecht kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 (3) Dem Antrag auf Steuerentlastung sind Unterlagen beizufügen, die den zeitlichen und räumlichen Umfang der begünstigten Maßnahme der Gemeinsamen Sicherheits- und Verteidigungspolitik sowie die vom Antragsteller geleistete Strommenge belegen. Das Hauptzollamt kann weitere Unterlagen anfordern, sofern dies zur Beurteilung der Steuerbegünstigung erforderlich ist.
 
@@ -952,49 +931,14 @@ Die Vorlage einer Selbsterklärung nach Satz 1 Nummer 1 ist nicht erforderlich, 
 (5) Strom, der für zivile Missionen im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik geleistet wird, ist nur dann entlastungsfähig, wenn er durch das zivile Begleitpersonal von Streitkräften entnommen wird. Dieses muss Aufgaben ausführen, die unmittelbar mit einer Verteidigungsanstrengung im Rahmen mit der Gemeinsamen Sicherheits- und Verteidigungspolitik außerhalb ihres Mitgliedstaates zusammenhängen. Aufgaben, zu deren Erfüllung ausschließlich Zivilpersonal oder zivile Fähigkeiten eingesetzt werden, sind nicht als Verteidigungsanstrengungen zu betrachten.
 
 
-## - - zu § 10 des Gesetzes
+## - - (weggefallen)
 
 
 
-### § 18 Begriffsbestimmungen zu § 10 des Gesetzes
-
-(1) Als akkreditierte Konformitätsbewertungsstelle im Sinn des § 10 Absatz 7 Nummer 2 des Gesetzes gelten Stellen, die Konformitätsbewertungen einschließlich Kalibrierungen, Prüfungen, Zertifizierungen und Inspektionen durchführen und über eine Akkreditierung einer nationalen Akkreditierungsstelle nach Artikel 4 Absatz 1 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) in der jeweils geltenden Fassung verfügen.
-
-(2) Als nationale Akkreditierungsstelle im Sinn des § 10 Absatz 7 Nummer 2 des Gesetzes gelten folgende Stellen:
-
-1.  die nach § 8 des Akkreditierungsstellengesetzes vom 31. Juli 2009 (BGBl. I S. 2625), das durch Artikel 2 Absatz 80 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044) geändert worden ist, in der jeweils geltenden Fassung beliehene oder errichtete Stelle und
+### § 18 (weggefallen)
 
 
-2.  jede andere von einem Mitgliedstaat der Europäischen Union oder einem Staat des Europäischen Wirtschaftsraums nach Artikel 4 Absatz 1 der Verordnung (EG) Nr. 765/2008 als nationale Akkreditierungsstelle benannte Stelle.
-
-
-
-
-(3) Zulassungsstelle nach § 28 des Umweltauditgesetzes im Sinn des § 12 Absatz 1 des Gesetzes ist die nach § 1 der UAG-Beleihungsverordnung vom 18. Dezember 1995 (BGBl. I S. 2013), die zuletzt durch Artikel 1 der Verordnung vom 13. Dezember 2011 (BGBl. I S. 2727) geändert worden ist, in der jeweils geltenden Fassung mit den Aufgaben einer Zulassungs- und Aufsichtsstelle für Umweltgutachter und Umweltgutachterorganisationen jeweils beliehene Stelle.
-
-
-### § 19 Erlass, Erstattung oder Vergütung der Steuer in Sonderfällen
-
-(1) Der Erlass, die Erstattung oder die Vergütung der Steuer nach § 10 des Gesetzes ist bei dem für den Antragsteller zuständigen Hauptzollamt nach amtlich vorgeschriebenem Vordruck für den Strom zu beantragen, der innerhalb eines Kalenderjahres (Abrechnungszeitraum) entnommen worden ist. Die Steuerentlastung wird nur gewährt, wenn der Antrag spätestens bis zum 31. Dezember des Jahres, das auf das Kalenderjahr folgt, in dem der Strom entnommen worden ist, beim Hauptzollamt gestellt wird.
-
-(2) Bestimmt sich der maßgebende Zeitraum für die Zuordnung des Unternehmens zum Produzierenden Gewerbe nach § 15 Absatz 3 Satz 1, kann das Hauptzollamt unbeschadet des § 6 Abs. 2 auf Antrag einen vorläufigen Erlass-, Erstattungs- oder Vergütungszeitraum von einem Kalendermonat, einem Kalendervierteljahr oder einem Kalenderhalbjahr (vorläufiger Abrechnungszeitraum) zulassen und die Steuer für innerhalb eines vorläufigen Abrechnungszeitraumes entnommenen Strom erlassen, erstatten oder vergüten. Zur Errechnung der Höhe des Erlasses, der Erstattung oder der Vergütung ist § 10 des Gesetzes sinngemäß auf den vorläufigen Abrechnungszeitraum anzuwenden. Die Steuer wird nur dann nach Satz 1 erlassen, erstattet oder vergütet, wenn
-
-1.  die Steuer nach § 10 Absatz 1 Satz 1 bis 4 des Gesetzes bereits im ersten vorläufigen Abrechnungszeitraum im Kalenderjahr den Unterschiedsbetrag in der Rentenversicherung (§ 10 Absatz 2 Satz 1 Nummer 1 und 2 des Gesetzes) für diesen Zeitraum übersteigt,
-
-
-2.  der Antragsteller den nach § 10 Absatz 3 Satz 1 Nummer 1 oder Absatz 4 des Gesetzes erforderlichen Nachweis bereits erbracht hat und
-
-
-3.  die nach § 10 Absatz 3 Satz 1 Nummer 2 Buchstabe b des Gesetzes erforderliche Bekanntmachung der Bundesregierung bereits erfolgt ist.
-
-
-
-
-(3) Wurde die voraussichtlich zu erlassende, zu erstattende oder zu vergütende Steuer bei der Berechnung der Höhe der Vorauszahlungen nach § 6 Abs. 2 berücksichtigt oder die Steuer für innerhalb eines vorläufigen Abrechnungszeitraumes entnommenen Strom nach Absatz 2 erlassen, erstattet oder vergütet, hat der Antragsteller einen zusammenfassenden Antrag nach Absatz 1 für das Kalenderjahr bis zum 31. Juli des folgenden Kalenderjahres abzugeben. Wird der zusammenfassende Antrag nicht oder nicht rechtzeitig abgegeben, fordert das Hauptzollamt die nach Absatz 2 erlassene, erstattete oder vergütete Steuer zurück.
-
-(4) § 17b Absatz 3 bis 7 und § 17c gelten entsprechend. Sofern der Antragsteller Betreiber eines alternativen Systems zur Verbesserung der Energieeffizienz gemäß der Verordnung zu § 12 des Gesetzes ist, hat er dem Antrag nach Absatz 1 eine Selbsterklärung nach amtlich vorgeschriebenem Vordruck beizufügen, aus der hervorgeht, dass das Unternehmen im Antragsjahr die Voraussetzungen der Definition für kleine und mittlere Unternehmen im Sinn des § 10 Absatz 3 Satz 2 des Gesetzes erfüllt hat.
-
-(5) Wurde das Unternehmen nach dem 31. Dezember 2013 neu gegründet (§ 10 Absatz 5 des Gesetzes), hat es die Art der Neugründung und den Zeitpunkt der Betriebsaufnahme durch geeignete Unterlagen nachzuweisen.
+### § 19 (weggefallen)
 
 
 ## - - Zu § 156 Absatz 1 der Abgabenordnung
@@ -1019,7 +963,7 @@ Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung handelt, 
 1.  entgegen § 2 Absatz 3, § 3 Absatz 7 Satz 1, auch in Verbindung mit § 3 Absatz 7 Satz 2, jeweils auch in Verbindung mit § 9 Absatz 2, § 4 Absatz 4, auch in Verbindung mit § 4 Absatz 7 oder § 13a Absatz 3 Satz 2, entgegen § 4 Absatz 5 Satz 2, entgegen § 11 Absatz 4 oder entgegen § 11 Absatz 5 Satz 2 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
 
 
-2.  entgegen § 4 Absatz 2 Satz 1, auch in Verbindung mit § 4 Absatz 8 Satz 1 oder § 13a Absatz 3 Satz 2, entgegen § 11 Absatz 2 Satz 1 oder entgegen § 17c Absatz 4 Satz 1, auch in Verbindung mit § 19 Absatz 4 Satz 1, eine Aufzeichnung nicht, nicht richtig oder nicht vollständig führt,
+2.  entgegen § 4 Absatz 2 Satz 1, auch in Verbindung mit § 4 Absatz 8 Satz 1 oder § 13a Absatz 3 Satz 2, entgegen § 11 Absatz 2 Satz 1 oder entgegen § 17c Absatz 4 Satz 1 eine Aufzeichnung nicht, nicht richtig oder nicht vollständig führt,
 
 
 2a. entgegen § 4 Absatz 2 Satz 5 eine Aufzeichnung oder einen Nachweis nicht oder nicht rechtzeitig vorlegt,
@@ -1034,7 +978,7 @@ Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung handelt, 
 4a. entgegen § 4 Absatz 7 Satz 1, auch in Verbindung mit § 4 Absatz 8, eine Steuerbegünstigung nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise ausweist oder
 
 
-5.  entgegen § 17c Absatz 2 Satz 1, auch in Verbindung mit § 19 Absatz 4 Satz 1, oder entgegen § 19 Absatz 4 Satz 2 eine Selbsterklärung nicht richtig oder nicht vollständig abgibt.
+5.  entgegen § 17c Absatz 2 Satz 1 eine Selbsterklärung nicht richtig oder nicht vollständig abgibt.
 
 
 

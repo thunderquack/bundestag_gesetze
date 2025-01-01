@@ -2507,6 +2507,13 @@ Auf vor dem 1. Juli 2024 erfolgte Verfügungen eines nicht wirksam Verheirateten
 § 1092 Absatz 3 Satz 1 des Bürgerlichen Gesetzbuchs in der seit dem 17. Oktober 2024 geltenden Fassung ist nur auf beschränkte persönliche Dienstbarkeiten anzuwenden, für die die Eintragungsbewilligung nach dem 17. Oktober 2024 notariell beurkundet oder öffentlich beglaubigt wird.
 
 
+#### § 70 Übergangsvorschrift zum Schriftformerfordernis bei Gewerbemiet- und Landpachtverträgen
+
+(1) Auf Mietverhältnisse gemäß § 578 des Bürgerlichen Gesetzbuchs, die vor dem 1. Januar 2025 entstanden sind, ist § 578 Absatz 1 des Bürgerlichen Gesetzbuchs in der bis einschließlich 31. Dezember 2024 geltenden Fassung bis einschließlich 1. Januar 2026 weiter anzuwenden. Abweichend von Satz 1 ist auf Mietverhältnisse nach Satz 1, deren Änderung ab dem 1. Januar 2025 vereinbart wird, bereits ab dem Zeitpunkt der Änderungsvereinbarung § 578 des Bürgerlichen Gesetzbuchs in der Fassung vom 1. Januar 2025 anzuwenden.
+
+(2) Auf Landpachtverhältnisse gemäß § 585a des Bürgerlichen Gesetzbuchs, die vor dem 1. Januar 2025 entstanden sind, ist § 585a des Bürgerlichen Gesetzbuchs in der bis einschließlich 31. Dezember 2024 geltenden Fassung bis einschließlich 1. Juli 2026 weiter anzuwenden. Abweichend von Satz 1 ist auf Landpachtverhältnisse nach Satz 1, deren Änderung ab dem 1. Januar 2025 vereinbart wird, bereits ab dem Zeitpunkt der Änderungsvereinbarung § 585a des Bürgerlichen Gesetzbuchs in der Fassung vom 1. Januar 2025 anzuwenden.
+
+
 ## Sechster Teil - Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet
 
 
@@ -4474,7 +4481,7 @@ Lässt sich die Höhe des Entgelts nach Satz 1 Nummer 1 noch nicht bestimmen, is
 
 #### § 1 Allgemeine Informationspflichten bei Immobiliar-Verbraucherdarlehensverträgen und entsprechenden Finanzierungshilfen
 
-(1) Unternehmer, die den Abschluss von Immobiliar-Verbraucherdarlehensverträgen oder deren Vermittlung durch gebundene Darlehensvermittler gemäß § 655a Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs anbieten, stellen für Standardgeschäfte nach § 675a des Bürgerlichen Gesetzbuchs schriftlich, in geeigneten Fällen auch elektronisch, unentgeltlich Informationen über Entgelte und Auslagen der Geschäftsbesorgung zur Verfügung, soweit nicht eine Preisfestsetzung nach § 315 des Bürgerlichen Gesetzbuchs erfolgt oder die Entgelte und Auslagen gesetzlich verbindlich geregelt sind.
+(1) Unternehmer, die den Abschluss von Immobiliar-Verbraucherdarlehensverträgen oder deren Vermittlung durch gebundene Darlehensvermittler gemäß § 655a Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs anbieten, stellen für Standardgeschäfte nach § 675a des Bürgerlichen Gesetzbuchs in Textform unentgeltlich Informationen über Entgelte und Auslagen der Geschäftsbesorgung zur Verfügung, soweit nicht eine Preisfestsetzung nach § 315 des Bürgerlichen Gesetzbuchs erfolgt oder die Entgelte und Auslagen gesetzlich verbindlich geregelt sind.
 
 (2) Die Informationen nach Absatz 1 müssen zumindest folgende Angaben enthalten:
 
@@ -4528,7 +4535,7 @@ Werden Verträge in einer anderen Währung als der Landeswährung des Darlehensn
 
 #### § 2 Allgemeine Informationspflichten bei Überziehungsmöglichkeiten und Entgeltvereinbarungen für die Duldung einer Überziehung
 
-(1) Unternehmer, die den Abschluss von Verträgen über die Einräumung von Überziehungsmöglichkeiten gemäß § 504 des Bürgerlichen Gesetzbuchs oder deren Vermittlung durch gebundene Darlehensvermittler gemäß § 655a Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs anbieten, stellen für Standardgeschäfte nach § 675a des Bürgerlichen Gesetzbuchs schriftlich, in geeigneten Fällen auch elektronisch, unentgeltlich Informationen über Entgelte und Auslagen der Geschäftsbesorgung zur Verfügung, soweit nicht eine Preisfestsetzung nach § 315 des Bürgerlichen Gesetzbuchs erfolgt oder die Entgelte und Auslagen gesetzlich verbindlich geregelt sind.
+(1) Unternehmer, die den Abschluss von Verträgen über die Einräumung von Überziehungsmöglichkeiten gemäß § 504 des Bürgerlichen Gesetzbuchs oder deren Vermittlung durch gebundene Darlehensvermittler gemäß § 655a Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs anbieten, stellen für Standardgeschäfte nach § 675a des Bürgerlichen Gesetzbuchs in Textform unentgeltlich Informationen über Entgelte und Auslagen der Geschäftsbesorgung zur Verfügung, soweit nicht eine Preisfestsetzung nach § 315 des Bürgerlichen Gesetzbuchs erfolgt oder die Entgelte und Auslagen gesetzlich verbindlich geregelt sind.
 
 (2) Der Sollzinssatz, der für die Überziehungsmöglichkeit berechnet wird, ist in den nach Absatz 1 zur Verfügung zu stellenden Informationen klar, eindeutig und in auffallender Weise anzugeben. Verfügt derjenige, der gemäß Absatz 1 Informationen bereitzustellen hat, über einen Internetauftritt, so ist der Sollzinssatz in entsprechender Weise auch dort anzugeben.
 

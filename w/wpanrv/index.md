@@ -114,11 +114,11 @@ Die Anerkennung eines Masterstudiengangs nach § 1 Satz 2 setzt voraus, dass die
 
 (1) Die Prüfungsstelle stellt auf Grundlage der Akkreditierung des Masterstudiengangs gemäß § 5 die Anrechnung von Leistungen auf das Wirtschaftsprüfungsexamen fest. Sie lässt die antragstellende Person zum Wirtschaftsprüfungsexamen im Umfang des Absatzes 3 zu und lädt sie gemäß § 9 Abs. 6 Satz 2 der Wirtschaftsprüferordnung zum nächstmöglichen Prüfungstermin.
 
-(2) Dem Antrag an die Prüfungsstelle gemäß § 1 oder § 25 der Wirtschaftsprüferprüfungsverordnung ist das Zeugnis über den Masterabschluss im Original oder in beglaubigter Abschrift beizufügen. Die Masterabschlussprüfung darf zum Zeitpunkt der Antragstellung auf Zulassung zum Wirtschaftsprüfungsexamen nicht länger als vier Jahre zurückliegen.
+(2) Dem Antrag an die Prüfungsstelle gemäß § 1 oder § 25 der Wirtschaftsprüferprüfungsverordnung ist das Zeugnis über den Masterabschluss beizufügen. Die Masterabschlussprüfung darf zum Zeitpunkt der Antragstellung auf Zulassung zum Wirtschaftsprüfungsexamen nicht länger als vier Jahre zurückliegen.
 
 (3) Die Anrechnung ersetzt die schriftlichen und mündlichen Prüfungen in den Prüfungsgebieten "Angewandte Betriebswirtschaftslehre, Volkswirtschaftslehre" und "Wirtschaftsrecht". Der Kurzvortrag sowie die schriftlichen und mündlichen Prüfungen in den Prüfungsgebieten "Wirtschaftliches Prüfungswesen, Unternehmensbewertung und Berufsrecht" und "Steuerrecht" müssen vor der Prüfungskommission nach § 2 der Wirtschaftsprüferprüfungsverordnung nach Wahl der Prüfungsstelle auch in Sonderprüfungsterminen abgelegt werden. Dies gilt auch für Rücktrittsfolge- und Wiederholungsprüfungen in den Prüfungsgebieten "Wirtschaftliches Prüfungswesen, Unternehmensbewertung und Berufsrecht" und "Steuerrecht". In den Fällen der Sätze 2 und 3 dauert die mündliche Prüfung 60 Minuten. § 19 Abs. 5 der Wirtschaftsprüferprüfungsverordnung findet Anwendung.
 
-(4) Wenn eine Anrechnung im Einzelfall voraussichtlich nicht erfolgen kann, ist der Hochschule, die das Zeugnis über den Masterabschluss ausgestellt hat, Gelegenheit zur Stellungnahme zu geben. Erfolgt danach keine Anrechnung, teilt die Prüfungsstelle dies der antragstellenden Person schriftlich oder elektronisch mit. Die Ablehnung einer Anrechnung kann insbesondere gerechtfertigt sein, wenn der Masterstudiengang nach der Akkreditierung wesentlich umgestaltet wird, so dass eine besondere Eignung nach § 1 ganz oder in Teilen entfallen ist. Für das Widerspruchsverfahren gilt § 5 Abs. 5 der Wirtschaftsprüferordnung entsprechend.
+(4) Wenn eine Anrechnung im Einzelfall voraussichtlich nicht erfolgen kann, ist der Hochschule, die das Zeugnis über den Masterabschluss ausgestellt hat, Gelegenheit zur Stellungnahme zu geben. Erfolgt danach keine Anrechnung, teilt die Prüfungsstelle dies der antragstellenden Person mit. Die Ablehnung einer Anrechnung kann insbesondere gerechtfertigt sein, wenn der Masterstudiengang nach der Akkreditierung wesentlich umgestaltet wird, so dass eine besondere Eignung nach § 1 ganz oder in Teilen entfallen ist. Für das Widerspruchsverfahren gilt § 5 Abs. 5 der Wirtschaftsprüferordnung entsprechend.
 
 
 ## Teil 2 - Verkürzte Prüfung nach Anrechnung gleichwertiger Prüfungsleistungen (§ 13b der Wirtschaftsprüferordnung)
@@ -162,14 +162,14 @@ im Ergebnis gleichzusetzen sind. Die Gleichwertigkeit ist anhand des Referenzrah
 
 (2) Die Bestätigung der Prüfungsstelle ist nach Maßgabe der Gebührenordnung der Wirtschaftsprüferkammer kostenpflichtig.
 
-(3) Kann eine Bestätigung nicht erteilt werden, so teilt die Prüfungsstelle dies der Hochschule schriftlich oder elektronisch mit. Für das Widerspruchsverfahren gilt § 5 Abs. 5 der Wirtschaftsprüferordnung entsprechend.
+(3) Kann eine Bestätigung nicht erteilt werden, so teilt die Prüfungsstelle dies der Hochschule mit. Für das Widerspruchsverfahren gilt § 5 Abs. 5 der Wirtschaftsprüferordnung entsprechend.
 
 
 ### § 9 Anrechnung auf das Wirtschaftsprüfungsexamen
 
 (1) Die Prüfungsstelle stellt im Zulassungsverfahren zum Wirtschaftsprüfungsexamen die Anrechnung nach § 7 Abs. 1 und die Gleichwertigkeit nach § 7 Abs. 2 fest. Die Feststellung erfolgt auf Grundlage einer Bestätigung gemäß § 8.
 
-(2) Die Leistungsnachweise sind von der antragstellenden Person im Original oder in beglaubigter Abschrift mit dem Antrag nach § 1 oder § 25 der Wirtschaftsprüferprüfungsverordnung vorzulegen. Der erfolgreiche Abschluss des Studiengangs, aus dem die Leistungsnachweise stammen, darf zum Zeitpunkt der Antragstellung auf Zulassung zum Wirtschaftsprüfungsexamen nicht länger als acht Jahre zurückliegen.
+(2) Die Leistungsnachweise sind von der antragstellenden Person mit dem Antrag nach § 1 oder § 25 der Wirtschaftsprüferprüfungsverordnung vorzulegen. Der erfolgreiche Abschluss des Studiengangs, aus dem die Leistungsnachweise stammen, darf zum Zeitpunkt der Antragstellung auf Zulassung zum Wirtschaftsprüfungsexamen nicht länger als acht Jahre zurückliegen.
 
 (3) Wird festgestellt, dass ein Leistungsnachweis angerechnet wird, entfällt die schriftliche und mündliche Prüfung in dem entsprechenden Prüfungsgebiet im Wirtschaftsprüfungsexamen; § 13 der Wirtschaftsprüferordnung bleibt unberührt. Die Prüfungsstelle teilt der antragstellenden Person die für das Wirtschaftsprüfungsexamen verbleibenden Prüfungsgebiete mit.
 
@@ -177,7 +177,7 @@ im Ergebnis gleichzusetzen sind. Die Gleichwertigkeit ist anhand des Referenzrah
 
 (5) § 19 Abs. 5 der Wirtschaftsprüferprüfungsverordnung findet Anwendung.
 
-(6) Wenn eine Anrechnung voraussichtlich nicht erfolgen kann, ist der ausstellenden Hochschule Gelegenheit zur Stellungnahme zu geben. Erfolgt danach keine Anrechnung, teilt die Prüfungsstelle dies der antragstellenden Person schriftlich oder elektronisch mit. Die Ablehnung einer Anrechnung kann insbesondere gerechtfertigt sein, wenn der Studiengang nach der Bestätigung wesentlich umgestaltet wurde, so dass die Gleichwertigkeit nach § 7 Abs. 2 ganz oder in Teilen entfallen ist. Für das Widerspruchsverfahren gilt § 5 Abs. 5 der Wirtschaftsprüferordnung entsprechend.
+(6) Wenn eine Anrechnung voraussichtlich nicht erfolgen kann, ist der ausstellenden Hochschule Gelegenheit zur Stellungnahme zu geben. Erfolgt danach keine Anrechnung, teilt die Prüfungsstelle dies der antragstellenden Person mit. Die Ablehnung einer Anrechnung kann insbesondere gerechtfertigt sein, wenn der Studiengang nach der Bestätigung wesentlich umgestaltet wurde, so dass die Gleichwertigkeit nach § 7 Abs. 2 ganz oder in Teilen entfallen ist. Für das Widerspruchsverfahren gilt § 5 Abs. 5 der Wirtschaftsprüferordnung entsprechend.
 
 
 ## Teil 3 - Schlussbestimmungen

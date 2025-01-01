@@ -53,13 +53,11 @@ Zuletzt geändert durch
 
 Als Unternehmen der Landwirtschaft gelten auch die Imkerei, die Binnenfischerei und die Wanderschäferei. Betreibt ein Versicherter mehrere Unternehmen, gelten sie als ein Unternehmen.
 
-(5) Ein Unternehmen der Landwirtschaft erreicht dann die Mindestgröße, wenn sein Wirtschaftswert einen von der landwirtschaftlichen Alterskasse unter Berücksichtigung der örtlichen oder regionalen Gegebenheiten festgesetzten Grenzwert erreicht; der Ertragswert für Nebenbetriebe bleibt hierbei unberücksichtigt. Ein Unternehmen der Imkerei muß grundsätzlich mindestens 100 Bienenvölker umfassen. Ein Unternehmen der Binnenfischerei muß grundsätzlich mindestens 120 Arbeitstage jährlich erfordern. Ein Unternehmen der Wanderschäferei muß grundsätzlich eine Herde von mindestens 240 Großtieren umfassen.
+(5) Ein Unternehmen der Landwirtschaft erreicht dann die Mindestgröße, wenn das Unternehmen einen von der landwirtschaftlichen Alterskasse unter Berücksichtigung der örtlichen oder regionalen Gegebenheiten anhand des Flächenwertes oder des Arbeitsbedarfs festgesetzten Grenzwert erreicht. Ein Unternehmen der Imkerei muß grundsätzlich mindestens 100 Bienenvölker umfassen. Ein Unternehmen der Binnenfischerei muß grundsätzlich mindestens 120 Arbeitstage jährlich erfordern. Ein Unternehmen der Wanderschäferei muß grundsätzlich eine Herde von mindestens 240 Großtieren umfassen.
 
-(6) Der Wirtschaftswert ist der durch die Finanzbehörden nach dem Bewertungsgesetz im Einheitswertbescheid für das land- und forstwirtschaftliche Vermögen festgesetzte Wirtschaftswert. Pachtflächen sowie verpachtete oder nachhaltig nicht landwirtschaftlich genutzte Flächen sind mit dem durchschnittlichen Hektarwert der entsprechenden Nutzung der Eigentumsfläche zu bewerten und bei der Festlegung des Wirtschaftswertes des Unternehmens entsprechend zu berücksichtigen. Dies gilt auch für land- und forstwirtschaftlich genutzte Flächen, die nach § 69 des Bewertungsgesetzes dem Grundvermögen zugerechnet werden. Ist der gesamte Betrieb gepachtet, ist der für den Verpächter maßgebende Wirtschaftswert anzusetzen. Ist der Wirtschaftswert des Unternehmens ganz oder teilweise nicht zu ermitteln, ist er zu schätzen. Weichen bei gartenbaulicher Nutzung die dem Einheitswertbescheid zugrunde liegenden betrieblichen Verhältnisse von den tatsächlichen ab, sind die Flächen nach ihrer tatsächlichen Nutzung zu bewerten.
+(6) Landwirt nach Absatz 2 ist nicht, wer ein Unternehmen der Landwirtschaft ohne die Absicht der nachhaltigen Gewinnerzielung betreibt.
 
-(7) Landwirt nach Absatz 2 ist nicht, wer ein Unternehmen der Landwirtschaft ohne die Absicht der nachhaltigen Gewinnerzielung betreibt.
-
-(8) Mitarbeitende Familienangehörige sind
+(7) Mitarbeitende Familienangehörige sind
 
 1.  Verwandte bis zum dritten Grade,
 
@@ -140,7 +138,7 @@ Versicherungsfrei sind
 1.  Renten aus der gesetzlichen Rentenversicherung, der gesetzlichen Unfallversicherung, einer berufsständischen Versicherungs- oder Versorgungseinrichtung oder Versorgungsbezüge nach beamtenrechtlichen Vorschriften oder Grundsätzen und vergleichbare Bezüge aus einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis oder aus der Versorgung der Abgeordneten,
 
 
-2.  Krankengeld, Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten Buches Sozialgesetzbuch, Verletztengeld, soweit es nicht nach § 55a Absatz 2 des Siebten Buches Sozialgesetzbuch gewährt wird, oder Übergangsgeld, Arbeitslosengeld, Qualifizierungsgeld oder Unterhaltsgeld nach dem Dritten Buch Sozialgesetzbuch und vergleichbare Leistungen von einem Sozialleistungsträger.
+2.  Krankengeld, Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten Buches Sozialgesetzbuch, Krankengeld der Soldatenentschädigung, Verletztengeld, soweit es nicht nach § 55a Absatz 2 des Siebten Buches Sozialgesetzbuch gewährt wird, oder Übergangsgeld, Arbeitslosengeld, Qualifizierungsgeld oder Unterhaltsgeld nach dem Dritten Buch Sozialgesetzbuch und vergleichbare Leistungen von einem Sozialleistungsträger.
 
 
 
@@ -204,16 +202,7 @@ Erwerbsersatzeinkommen sind auch den in Satz 2 genannten Leistungen vergleichbar
 (3) Die Berechtigung zur freiwilligen Weiterversicherung endet mit Beginn des Kalendermonats, zu dessen Beginn die Voraussetzungen des Absatzes 1 Nr. 2 bis 4 nicht mehr erfüllt sind.
 
 
-### § 6 Verordnungsermächtigung
-
-Das Bundesministerium für Arbeit und Soziales bestimmt im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates auf der Grundlage der für den Agrarbericht der Bundesregierung ausgewerteten Gartenbaubetriebe
-
-1.  die Zuordnung der tatsächlichen Nutzung zu gärtnerischen Nutzungsteilen und
-
-
-2.  die Hektarwerte der gärtnerischen Nutzungsteile; dabei ist der fünfjährige Durchschnitt der Hektarwerte zugrunde zu legen.
-
-
+### § 6 (weggefallen)
 
 
 
@@ -890,32 +879,7 @@ Maßgebend für die Feststellung des Einkommens nach Satz 3 Nr. 2 ist
 
 Die Anspruchsvoraussetzungen für den Zuschuss zum Beitrag sind in den Fällen des Satzes 4 Nr. 1 frühestens vom Kalendermonat der Ausfertigung des Einkommensteuerbescheides an erfüllt.
 
-(4) Änderungen des Einkommens sind vom Beginn des dritten Kalendermonats nach Ausfertigung des Einkommensteuerbescheides zu berücksichtigten; dies gilt entsprechend, wenn vor erstmaliger Bewilligung eines Zuschusses zum Beitrag Einkommensteuerbescheide aus unterschiedlichen Veranlagungsjahren vorliegen. Einkommensteuerbescheide, die dem Zuschuss zum Beitrag zugrunde gelegte Einkommensteuerbescheide ändern, werden mit Wirkung für die Vergangenheit berücksichtigt. Wird der Gewinn aus Land- und Forstwirtschaft erstmals nach § 4 Abs. 1 oder 3 des Einkommensteuergesetzes ermittelt, gilt Absatz 5 bis zum Ablauf des zweiten Kalendermonats nach Ausfertigung des ersten Einkommensteuerbescheides.
-
-(5) Wird der Gewinn aus Land- und Forstwirtschaft nicht nach § 4 Abs. 1 oder 3 des Einkommensteuergesetzes ermittelt oder ist das Jahreseinkommen nach Absatz 3 Satz 4 Nr. 2 zu ermitteln, wird für Landwirte das Arbeitseinkommen aus der Land- und Forstwirtschaft nach Absatz 6 von der landwirtschaftlichen Alterskasse festgesetzt. In diesen Fällen ist Arbeitseinkommen aus der Land- und Forstwirtschaft nur festzusetzen, wenn bei Vorliegen eines Einkommensteuerbescheides im Sinne des Absatzes 3 Satz 4 Nr. 1 in dem Veranlagungsjahr, auf das sich dieser Einkommensteuerbescheid bezieht, oder bei Fehlen eines solchen Einkommensteuerbescheides im vorvergangenen Kalenderjahr ein Unternehmen der Landwirtschaft betrieben wurde; das Arbeitseinkommen nach Absatz 6 ist anteilig zu berücksichtigen, wenn nicht während des gesamten maßgebenden Kalenderjahres ein Unternehmen der Landwirtschaft betrieben wurde.
-
-(6) Das Arbeitseinkommen aus der Land- und Forstwirtschaft nach Absatz 5 wird auf der Grundlage von Beziehungswerten ermittelt, die
-
-1.  sich aus dem Wirtschaftswert und dem fünfjährigen Durchschnitt der Gewinne der für den Agrarbericht der Bundesregierung ausgewerteten landwirtschaftlichen Testbetriebe ergeben; dabei sind die mit steigendem Wirtschaftswert sich verändernde Ertragskraft je Deutsche Mark Wirtschaftswert und die bei zusätzlicher außerbetrieblicher Berufstätigkeit unterschiedliche Ertragskraft zu berücksichtigen und
-
-
-2.  sich nach folgenden Gruppen unterscheiden:
-
-    Gruppe 1:
-
-    Betriebe, deren Unternehmer nach § 1 Abs. 2 oder Abs. 4 Satz 4 ein außerbetriebliches Erwerbs- und Erwerbsersatzeinkommen bis zu einem Sechstel der Bezugsgröße des Jahres, auf das für das außerbetriebliche Erwerbs- und Erwerbsersatzeinkommen abzustellen ist, erzielt hat,
-
-    Gruppe 2:
-
-    Betriebe, deren Unternehmer nach § 1 Abs. 2 oder Abs. 4 Satz 4 ein außerbetriebliches Erwerbs- und Erwerbsersatzeinkommen von mindestens fünf Sechsteln der Bezugsgröße des Jahres, auf das für das außerbetriebliche Erwerbs- und Erwerbsersatzeinkommen abzustellen ist, erzielt hat,
-
-    Gruppe 3:
-
-    Betriebe, deren Unternehmer nach § 1 Abs. 2 oder Abs. 4 Satz 4 ein außerbetriebliches Erwerbs- und Erwerbsersatzeinkommen zwischen einem Sechstel und fünf Sechsteln der Bezugsgröße des Jahres, auf das für das außerbetriebliche Erwerbs- und Erwerbsersatzeinkommen abzustellen ist, erzielt hat, wobei sich der Beziehungswert für diese Gruppe mit jedem zusätzlichen Euro, um die das außerbetriebliche Erwerbs- und Erwerbsersatzeinkommen ein Sechstel der jeweils maßgebenden Bezugsgröße übersteigt, dem Beziehungswert für die Gruppe 2 annähert.
-
-
-
-Für die Ermittlung des außerbetrieblichen Erwerbs- und Erwerbsersatzeinkommens nach Satz 1 Nr. 2 ist Absatz 3 Satz 3 bis 5 anzuwenden. Betriebe, die von mehr als einem Unternehmer, von einer Personenhandelsgesellschaft oder einer juristischen Person betrieben werden, sind der Gruppe 1 zuzuordnen. Für Unternehmen mit einem Wirtschaftswert bis zu 25 000 Deutsche Mark gilt der für diesen Wirtschaftswert ermittelte Beziehungswert. Maßgebend für den zugrunde zu legenden Wirtschaftswert sind die am 1. Juli des vergangenen Kalenderjahres bestehenden betrieblichen Verhältnisse; beginnt die Versicherung nach dem 1. Juli des jeweiligen Vorjahres, sind die betrieblichen Verhältnisse zum Zeitpunkt des Beginns der Versicherung maßgebend. Betreibt ein Versicherter mehrere Unternehmen der Landwirtschaft, gelten diese als ein Unternehmen. Mitunternehmern ist das aus dem Wirtschaftswert des Unternehmens der Landwirtschaft ermittelte Arbeitseinkommen entsprechend ihrer Gewinnbeteiligung zuzurechnen.
+(4) Änderungen des Einkommens sind vom Beginn des dritten Kalendermonats nach Ausfertigung des Einkommensteuerbescheides zu berücksichtigten; dies gilt entsprechend, wenn vor erstmaliger Bewilligung eines Zuschusses zum Beitrag Einkommensteuerbescheide aus unterschiedlichen Veranlagungsjahren vorliegen. Einkommensteuerbescheide, die dem Zuschuss zum Beitrag zugrunde gelegte Einkommensteuerbescheide ändern, werden mit Wirkung für die Vergangenheit berücksichtigt.
 
 
 ###### § 33 Berechnung
@@ -930,18 +894,15 @@ Für die Ermittlung des außerbetrieblichen Erwerbs- und Erwerbsersatzeinkommens
 
 (1) Der Zuschuß zum Beitrag wird monatlich geleistet und zum selben Zeitpunkt wie der Beitrag fällig.
 
-(2) Der Zuschuß zum Beitrag wird von dem Kalendermonat an geleistet, in dem die Voraussetzungen erfüllt sind, wenn der Antrag bis zum Ende des dritten Kalendermonats nach Ablauf des Monats gestellt wird, in dem die Anspruchsvoraussetzungen erfüllt sind. Bei späterer Antragstellung wird der Zuschuß von dem Kalendermonat an geleistet, in dem er beantragt wird. Bei rückwirkender Feststellung der Versicherungspflicht gelten die Sätze 1 und 2 mit der Maßgabe, daß die Frist mit Bekanntgabe des Bescheides über die Feststellung der Versicherungspflicht beginnt. Wird die Versicherungspflicht als Folge der Beendigung einer Befreiung von der Versicherungspflicht nach § 3 Abs. 1 oder § 85 Abs. 3b rückwirkend festgestellt, gilt Satz 3 nur, wenn der Antrag aus Gründen, die der Berechtigte nicht zu vertreten hat, nicht innerhalb der in Satz 1 genannten Frist gestellt worden ist.
+(2) Der Zuschuß zum Beitrag wird von dem Kalendermonat an geleistet, in dem die Voraussetzungen erfüllt sind, wenn der Antrag bis zum Ende des dritten Kalendermonats nach Ablauf des Monats gestellt wird, in dem die Anspruchsvoraussetzungen erfüllt sind. Bei späterer Antragstellung wird der Zuschuß von dem Kalendermonat an geleistet, in dem er beantragt wird. Bei rückwirkender Feststellung der Versicherungspflicht gelten die Sätze 1 und 2 mit der Maßgabe, daß die Frist mit Bekanntgabe des Bescheides über die Feststellung der Versicherungspflicht beginnt. Wird die Versicherungspflicht als Folge der Beendigung einer Befreiung von der Versicherungspflicht nach § 3 Abs. 1 rückwirkend festgestellt, gilt Satz 3 nur, wenn der Antrag aus Gründen, die der Berechtigte nicht zu vertreten hat, nicht innerhalb der in Satz 1 genannten Frist gestellt worden ist.
 
 (3) Sind der landwirtschaftlichen Alterskasse die nach § 32 Abs. 3 maßgebenden Einkommen vom Leistungsberechtigten nicht nachgewiesen worden, kann sie nur Vorschüsse zahlen. Ist das Einkommen aufgrund der Mitwirkung des Leistungsberechtigten oder seiner mangelnden Mitwirkung unrichtig festgestellt worden, ist der Verwaltungsakt mit Wirkung für die Vergangenheit zurückzunehmen.
 
 (4) Ändern sich die für Grund oder Höhe des Zuschusses zum Beitrag maßgebenden Verhältnisse, ist der Verwaltungsakt vom Zeitpunkt der Änderung der Verhältnisse an aufzuheben. In den Fällen des § 32 Abs. 4 Satz 2 ist der Verwaltungsakt von dem Zeitpunkt an aufzuheben, von dem an er auf dem geänderten Einkommensteuerbescheid beruht hat. Einer Anhörung nach § 24 des Zehnten Buches Sozialgesetzbuch bedarf es nicht, wenn sich das nach § 32 Absatz 3 Satz 3 maßgebende Einkommen geändert hat und diese Änderung berücksichtigt werden soll.
 
-(5) (weggefallen)
 
+###### § 35 (weggefallen)
 
-###### § 35 Verordnungsermächtigung
-
-Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere zur Ermittlung des Arbeitseinkommens aus der Land- und Forstwirtschaft nach § 32 Abs. 6 zu bestimmen.
 
 
 ##### Zweiter Titel - Zuschuss zum Beitrag zur Krankenversicherung
@@ -1554,7 +1515,7 @@ Der Bund trägt den Unterschiedsbetrag zwischen den Einnahmen und den Ausgaben d
 
 ##### § 80 Ausgaben für Teilhabe sowie für Betriebs- und Haushaltshilfe
 
-(1) Die jährlichen Ausgaben der landwirtschaftlichen Alterskasse für Leistungen zur Teilhabe sowie für Betriebs- und Haushaltshilfe werden entsprechend der voraussichtlichen Entwicklung der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Abs. 2 Satz 1 des Sechsten Buches Sozialgesetzbuch) und der voraussichtlichen Entwicklung der Zahl der Versicherten, die zugleich nach § 2 des Zweiten Gesetzes über die Krankenversicherung der Landwirte versichert sind, festgesetzt. In der Zeit vom 1. Januar 2014 bis zum 31. Dezember 2050 werden die jährlichen Ausgaben nach Satz 1 unter zusätzlicher Berücksichtigung einer Demografiekomponente fortgeschrieben; § 287b Absatz 2 des Sechsten Buches Sozialgesetzbuch ist entsprechend anzuwenden. Überschreiten die Ausgaben am Ende eines Kalenderjahres den für dieses Kalenderjahr jeweils bestimmten Betrag, wird der sich für das zweite Kalenderjahr nach dem Jahr der Überschreitung der Ausgaben nach Satz 1 ergebende Betrag entsprechend vermindert.
+(1) Die jährlichen Ausgaben der landwirtschaftlichen Alterskasse für Leistungen zur Teilhabe sowie für Betriebs- und Haushaltshilfe werden entsprechend der voraussichtlichen Entwicklung der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Abs. 2 Satz 1 des Sechsten Buches Sozialgesetzbuch) und der voraussichtlichen Entwicklung der Zahl der Versicherten, die zugleich nach § 2 des Zweiten Gesetzes über die Krankenversicherung der Landwirte versichert sind, festgesetzt. In der Zeit vom 1. Januar 2014 bis zum 31. Dezember 2050 werden die jährlichen Ausgaben nach Satz 1 unter zusätzlicher Berücksichtigung einer Demografiekomponente fortgeschrieben; § 287b des Sechsten Buches Sozialgesetzbuch ist entsprechend anzuwenden. Überschreiten die Ausgaben am Ende eines Kalenderjahres den für dieses Kalenderjahr jeweils bestimmten Betrag, wird der sich für das zweite Kalenderjahr nach dem Jahr der Überschreitung der Ausgaben nach Satz 1 ergebende Betrag entsprechend vermindert.
 
 (2) Die landwirtschaftliche Alterskasse darf Mittel für Bauvorhaben im Bereich der Teilhabe nicht aufwenden.
 
@@ -1606,11 +1567,7 @@ Die Vorschriften dieses Abschnitts ergänzen die Vorschriften der vorangegangene
 
 (4) Für Personen, die im Beitrittsgebiet als Landwirt im Sinne des § 2 Abs. 1 Nr. 1 des Zweiten Gesetzes über die Krankenversicherung der Landwirte selbständig tätig sind und die Erklärung abgegeben haben, daß sie die Zahlung von Beiträgen zur Altershilfe für Landwirte fortsetzen wollen, gelten ab 1. Januar 1995 die für Landwirte maßgebenden Vorschriften dieses Gesetzes; bei der Anwendung der Vorschriften dieses Kapitels gelten sie als Personen, die am 31. Dezember 1994 als Landwirte beitragspflichtig waren.
 
-(5) Die nach dem am 31. Dezember 1994 geltenden Recht festgesetzten Mindesthöhen gelten bis zur Festsetzung der Mindestgrößen nach § 1 Abs. 5, längstens bis zum 31. Dezember 1995, weiter. Die landwirtschaftlichen Alterskassen können als Maßstab für die Festlegung der Mindestgröße statt des Wirtschaftswertes den Flächenwert oder den Arbeitsbedarf zugrunde legen. Für die in § 111 genannten Versicherungsträger gelten die Sätze 1 und 2 entsprechend mit der Maßgabe, daß die nach dem am 31. Dezember 1994 geltenden Recht festgesetzten Mindesthöhen der Träger der landwirtschaftlichen Krankenversicherung im Beitrittsgebiet bis zur Festsetzung der Mindestgröße nach § 1 Abs. 5, längstens bis zum 31. Dezember 1995, gelten.
-
-(6) Die am 31. Dezember 2012 geltenden Mindestgrößen gelten bis zur Festsetzung der Mindestgröße nach § 1 Absatz 5, längstens bis zum 31. Dezember 2013, weiter.
-
-(7) Die Versicherungspflicht für nach § 1 Absatz 3 versicherte Lebenspartner beginnt mit Inkrafttreten der Gleichstellungsvorschrift für Lebenspartner (§ 1a).
+(5) Die Versicherungspflicht für nach § 1 Absatz 3 versicherte Lebenspartner beginnt mit Inkrafttreten der Gleichstellungsvorschrift für Lebenspartner (§ 1a).
 
 
 ##### § 85 Versicherungsfreiheit, Versicherungsbefreiung
@@ -1652,36 +1609,6 @@ Satz 1 gilt nur, wenn Versicherte nach § 1 Abs. 3
 
 
 Eine Wiedereinsetzung in den vorigen Stand ist ausgeschlossen.
-
-(3a) (weggefallen)
-
-(3b) Versicherte nach § 1 Abs. 3 werden auf Antrag von der Versicherungspflicht befreit, solange
-
-1.  der nach § 1 Abs. 6 und § 32 Abs. 6 Satz 5 ermittelte Wirtschaftswert des Unternehmens der Landwirtschaft 15 000 Deutsche Mark nicht überschreitet,
-
-
-2.  der Unternehmer nach § 1 Abs. 2 ohne Berücksichtigung des Arbeitseinkommens aus Land- und Forstwirtschaft regelmäßig Erwerbs- und Erwerbsersatzeinkommen von mehr als 20 452 Euro jährlich erzielt,
-
-
-
-wenn
-
-1.  die Ehe
-
-    a)  in der Zeit vom 1. Januar 1995 bis zum 31. Dezember 1999 geschlossen wird und bis zum 31. Dezember 1999 eine selbständige landwirtschaftliche Tätigkeit aufgenommen wird oder
-
-
-    b)  bereits am 31. Dezember 1994 bestanden hat und in der Zeit vom 1. Januar 1995 bis zum 31. Dezember 1999 eine am 31. Dezember 1994 noch nicht ausgeübte landwirtschaftliche Tätigkeit aufgenommen wird und
-
-
-
-
-
-2.  der Unternehmer nach § 1 Abs. 2 bereits von der Versicherungspflicht befreit ist, es sei denn, er hat die Wartezeit von 15 Jahren zu dem Zeitpunkt, zu dem der Versicherte nach § 1 Abs. 3 den Antrag auf Befreiung von der Versicherungspflicht stellt, noch nicht erfüllt.
-
-
-
-Der Antrag ist bis zum 31. Dezember 1999 zu stellen. Die Befreiung wirkt vom Vorliegen der Befreiungsvoraussetzungen an, wenn sie innerhalb von 3 Monaten oder bis zum 31. März 1996 beantragt wird, sonst vom Eingang des Antrags an.
 
 (4) Versicherte nach § 1 Abs. 3 sind ab 1. Januar 1995 von der Versicherungspflicht auch dann befreit, wenn sie
 
@@ -1731,6 +1658,8 @@ Eine Wiedereinsetzung in den vorigen Stand ist ausgeschlossen.
 (9) Personen, die am 31. März 2003 nach § 3 Abs. 1 Nr. 1 in der bis zum 31. März 2003 geltenden Fassung von der Versicherungspflicht befreit waren, bleiben von der Versicherungspflicht befreit, solange das für die Befreiung nach § 3 Abs. 1 Nr. 1 maßgebende Einkommen jährlich ein Siebtel der Bezugsgröße oder 4800 Euro überschreitet. Sie können bis zum 30. September 2003 erklären, dass die Befreiung von der Versicherungspflicht zum 31. März 2003 enden soll. Personen, die am 30. September 2022 nach § 3 Absatz 1 Nummer 1 in der bis zum 30. September 2022 geltenden Fassung von der Versicherungspflicht befreit waren, bleiben von der Versicherungspflicht befreit, solange das für die Befreiung nach § 3 Absatz 1 Nummer 1 maßgebende Einkommen regelmäßig jährlich 4 800 Euro überschreitet. Sie können bis zum 31. März 2023 erklären, dass die Befreiung von der Versicherungspflicht zum 30. September 2022 enden soll.
 
 (10) Bei der Anwendung von § 3 Absatz 4 Satz 2 gilt das Versorgungskrankengeld als Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten Buches Sozialgesetzbuch.
+
+(11) Personen, die am 31. Dezember 2024 nach § 85 Absatz 3b in der bis zum 31. Dezember 2024 geltenden Fassung von der Versicherungspflicht befreit waren, sind ab dem 1. Januar 2025 in dieser Tätigkeit versicherungsfrei. Diese können bis zum 30. Juni 2025 erklären, dass die Versicherungsfreiheit nicht eintreten soll. Wird die Erklärung abgegeben, besteht Versicherungspflicht ab dem 1. Januar 2025.
 
 
 #### Dritter Unterabschnitt - Teilhabe
@@ -3120,7 +3049,7 @@ Für Witwenrenten und Witwerrenten mit einem Rentenartfaktor vor mindestens 0,6 
 1.  mit Arbeitsentgelt oder Arbeitseinkommen, das durchschnittlich im Monat drei Zehntel der für Monatsbezüge geltenden Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung überschreitet, oder
 
 
-2.  mit einem Anspruch auf Arbeitslosengeld oder Unterhaltsgeld nach dem Dritten Buch Sozialgesetzbuch oder Anspruch auf Krankengeld, Versorgungskrankengeld, Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten Buches Sozialgesetzbuch, Verletztengeld oder Übergangsgeld gegenüber einem Sozialleistungsträger und sind diese Sozialleistungen auf der Grundlage eines Betrages berechnet, der drei Zehntel der für Monatsbezüge geltenden Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung überschreitet,
+2.  mit einem Anspruch auf Arbeitslosengeld oder Unterhaltsgeld nach dem Dritten Buch Sozialgesetzbuch oder Anspruch auf Krankengeld, Versorgungskrankengeld, Krankengeld der Soldatenentschädigung, Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten Buches Sozialgesetzbuch, Verletztengeld oder Übergangsgeld gegenüber einem Sozialleistungsträger und sind diese Sozialleistungen auf der Grundlage eines Betrages berechnet, der drei Zehntel der für Monatsbezüge geltenden Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung überschreitet,
 
 
 
@@ -3179,7 +3108,7 @@ Trifft eine Rente an Witwen oder Witwer mit einer Rente aus der gesetzlichen Ren
 
 Der Anspruch ruht während der Zeit,
 
-1.  für die ein Anspruch auf Krankengeld, Versorgungskrankengeld, Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten Buches Sozialgesetzbuch, Verletztengeld oder Übergangsgeld von einem Sozialleistungsträger, auf Arbeitslosengeld oder Unterhaltsgeld nach dem Dritten Buch Sozialgesetzbuch oder auf vergleichbare Leistungen zuerkannt ist, wenn diese Sozialleistungen auf der Grundlage eines Betrages berechnet werden, der drei Zehntel der für Monatsbezüge geltenden Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung überschreitet,
+1.  für die ein Anspruch auf Krankengeld, Versorgungskrankengeld, Krankengeld der Soldatenentschädigung, Krankengeld der Sozialen Entschädigung nach § 47 des Vierzehnten Buches Sozialgesetzbuch, Verletztengeld oder Übergangsgeld von einem Sozialleistungsträger, auf Arbeitslosengeld oder Unterhaltsgeld nach dem Dritten Buch Sozialgesetzbuch oder auf vergleichbare Leistungen zuerkannt ist, wenn diese Sozialleistungen auf der Grundlage eines Betrages berechnet werden, der drei Zehntel der für Monatsbezüge geltenden Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung überschreitet,
 
 
 2.  in der Betriebs- oder Haushaltshilfe gestellt wird.
@@ -3219,6 +3148,11 @@ Personen, die am 31. Dezember 1994 unabhängig von einer Tätigkeit als Landwirt
 ##### § 107b Neuregelung des Zuschusses zum Beitrag zum 1. April 2021
 
 § 32 Absatz 1 und § 33 Absatz 1 in der bis zum 31. März 2021 geltenden Fassung sind weiterhin anzuwenden, soweit der Anspruch auf Zuschuss zum Beitrag für Zeiträume vor dem 1. April 2021 festzustellen ist.
+
+
+##### § 107c Neuregelung der Ermittlung von Arbeitseinkommen aus Land- und Forstwirtschaft zum 1. Januar 2025
+
+§ 32 Absatz 4 Satz 3, Absatz 5 und 6 in der bis zum 31. Dezember 2024 geltenden Fassung ist weiterhin anzuwenden, soweit der Anspruch auf Zuschuss zum Beitrag für Zeiträume vor dem 1. Januar 2025 festzustellen ist.
 
 
 #### Siebter Unterabschnitt - Rentenauskunft
@@ -3393,9 +3327,8 @@ Personen, die einen Zuschuß zur Nachzahlung von Beiträgen für Landwirte zur g
 (2) Die Höhe des Kürzungsbetrages sowie seine Veränderungen sind der landwirtschaftlichen Alterskasse von dem Rentenversicherungsträger mitzuteilen, der die Rente festgestellt hat.
 
 
-#### § 130 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+#### § 130 (weggefallen)
 
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 3 Absatz 4 Satz 2 Nummer 2 und Satz 6 und des § 106 Absatz 2 Satz 1 Nummer 2 und Absatz 6 Satz 2 Nummer 1 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 
 #### Anlage 1

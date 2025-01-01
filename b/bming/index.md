@@ -199,15 +199,7 @@ Die Amtsbezüge werden monatlich im voraus gezahlt.
 (4)
 § 83a des Bundesbeamtengesetzes              einschließlich der dazu ergangenen Übergangsvorschriften und § 87a des Bundesbeamtengesetzes sind sinngemäß anzuwenden.
 
-(5) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise werden den Mitgliedern der Bundesregierung in entsprechender Anwendung des § 14 Absatz 4 bis 8 des Bundesbesoldungsgesetzes die folgenden Sonderzahlungen gewährt:
-
-1.  für den Monat Juni 2023 eine einmalige Sonderzahlung in Höhe von 1 240 Euro sowie
-
-
-2.  für die Monate Juli 2023 bis Februar 2024 eine monatliche Sonderzahlung in Höhe von jeweils 220 Euro.
-
-
-
+(5) (weggefallen)
 
 
 ## § 12

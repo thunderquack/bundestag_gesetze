@@ -290,7 +290,7 @@ entsprechen.
         aa) der sich verpflichtet, mindestens 200 000 Euro zu investieren,
 
 
-        bb) der schriftlich in einem vom Vertrag über die Investitionsverpflichtung getrennten Dokument angibt, dass er sich der Risiken im Zusammenhang mit der beabsichtigten Verpflichtung oder Investition bewusst ist,
+        bb) der in Textform in einem vom Vertrag über die Investitionsverpflichtung getrennten Dokument angibt, dass er sich der Risiken im Zusammenhang mit der beabsichtigten Verpflichtung oder Investition bewusst ist,
 
 
         cc) dessen Sachverstand, Erfahrungen und Kenntnisse die AIF-Verwaltungsgesellschaft oder die von ihr beauftragte Vertriebsgesellschaft bewertet, ohne von der Annahme auszugehen, dass der Anleger über die Marktkenntnisse und -erfahrungen der in Anhang II Abschnitt I der Richtlinie 2014/65/EU genannten Anleger verfügt,

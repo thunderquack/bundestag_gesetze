@@ -232,7 +232,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 ##### § 14 Bestellung eines Empfangsbevollmächtigten
 
-Ein Beteiligter ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Inland hat der Behörde auf Verlangen innerhalb einer angemessenen Frist einen Empfangsbevollmächtigten im Inland zu benennen. Unterlässt er dies, gilt ein an ihn gerichtetes Schriftstück am siebenten Tage nach der Aufgabe zur Post und ein elektronisch übermitteltes Dokument am dritten Tage nach der Absendung als zugegangen. Dies gilt nicht, wenn feststeht, dass das Dokument den Empfänger nicht oder zu einem späteren Zeitpunkt erreicht hat. Auf die Rechtsfolgen der Unterlassung ist der Beteiligte hinzuweisen.
+Ein Beteiligter ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Inland hat der Behörde auf Verlangen innerhalb einer angemessenen Frist einen Empfangsbevollmächtigten im Inland zu benennen. Unterlässt er dies, gilt ein an ihn gerichtetes Schriftstück am siebenten Tage nach der Aufgabe zur Post und ein elektronisch übermitteltes Dokument am vierten Tag nach der Absendung als zugegangen. Dies gilt nicht, wenn feststeht, dass das Dokument den Empfänger nicht oder zu einem späteren Zeitpunkt erreicht hat. Auf die Rechtsfolgen der Unterlassung ist der Beteiligte hinzuweisen.
 
 
 ##### § 15 Bestellung eines Vertreters von Amts wegen
@@ -726,9 +726,9 @@ Erlässt die Behörde einen schriftlichen Verwaltungsakt oder bestätigt sie sch
 
 (1) Ein Verwaltungsakt ist demjenigen Beteiligten bekannt zu geben, für den er bestimmt ist oder der von ihm betroffen wird. Ist ein Bevollmächtigter bestellt, kann die Bekanntgabe ihm gegenüber vorgenommen werden.
 
-(2) Ein schriftlicher Verwaltungsakt, der im Inland durch die Post übermittelt wird, gilt am dritten Tag nach der Aufgabe zur Post als bekannt gegeben. Ein Verwaltungsakt, der im Inland oder Ausland elektronisch übermittelt wird, gilt am dritten Tag nach der Absendung als bekannt gegeben. Dies gilt nicht, wenn der Verwaltungsakt nicht oder zu einem späteren Zeitpunkt zugegangen ist; im Zweifel hat die Behörde den Zugang des Verwaltungsaktes und den Zeitpunkt des Zugangs nachzuweisen.
+(2) Ein schriftlicher Verwaltungsakt, der im Inland durch die Post übermittelt wird, gilt am vierten Tag nach der Aufgabe zur Post als bekannt gegeben. Ein Verwaltungsakt, der im Inland oder Ausland elektronisch übermittelt wird, gilt am vierten Tag nach der Absendung als bekannt gegeben. Dies gilt nicht, wenn der Verwaltungsakt nicht oder zu einem späteren Zeitpunkt zugegangen ist; im Zweifel hat die Behörde den Zugang des Verwaltungsaktes und den Zeitpunkt des Zugangs nachzuweisen.
 
-(2a) Mit Einwilligung des Beteiligten können elektronische Verwaltungsakte bekannt gegeben werden, indem sie dem Beteiligten zum Abruf über öffentlich zugängliche Netze bereitgestellt werden. Die Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden. Die Behörde hat zu gewährleisten, dass der Abruf nur nach Authentifizierung der berechtigten Person möglich ist und der elektronische Verwaltungsakt von ihr gespeichert werden kann. Ein zum Abruf bereitgestellter Verwaltungsakt gilt am dritten Tag nach Absendung der elektronischen Benachrichtigung über die Bereitstellung des Verwaltungsaktes an die abrufberechtigte Person als bekannt gegeben. Im Zweifel hat die Behörde den Zugang der Benachrichtigung nachzuweisen. Kann die Behörde den von der abrufberechtigten Person bestrittenen Zugang der Benachrichtigung nicht nachweisen, gilt der Verwaltungsakt an dem Tag als bekannt gegeben, an dem die abrufberechtigte Person den Verwaltungsakt abgerufen hat. Das Gleiche gilt, wenn die abrufberechtigte Person unwiderlegbar vorträgt, die Benachrichtigung nicht innerhalb von drei Tagen nach der Absendung erhalten zu haben. Die Möglichkeit einer erneuten Bereitstellung zum Abruf oder der Bekanntgabe auf andere Weise bleibt unberührt.
+(2a) Mit Einwilligung des Beteiligten können elektronische Verwaltungsakte bekannt gegeben werden, indem sie dem Beteiligten zum Abruf über öffentlich zugängliche Netze bereitgestellt werden. Die Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden. Die Behörde hat zu gewährleisten, dass der Abruf nur nach Authentifizierung der berechtigten Person möglich ist und der elektronische Verwaltungsakt von ihr gespeichert werden kann. Ein zum Abruf bereitgestellter Verwaltungsakt gilt am vierten Tag nach Absendung der elektronischen Benachrichtigung über die Bereitstellung des Verwaltungsaktes an die abrufberechtigte Person als bekannt gegeben. Im Zweifel hat die Behörde den Zugang der Benachrichtigung nachzuweisen. Kann die Behörde den von der abrufberechtigten Person bestrittenen Zugang der Benachrichtigung nicht nachweisen, gilt der Verwaltungsakt an dem Tag als bekannt gegeben, an dem die abrufberechtigte Person den Verwaltungsakt abgerufen hat. Das Gleiche gilt, wenn die abrufberechtigte Person unwiderlegbar vorträgt, die Benachrichtigung nicht innerhalb von drei Tagen nach der Absendung erhalten zu haben. Die Möglichkeit einer erneuten Bereitstellung zum Abruf oder der Bekanntgabe auf andere Weise bleibt unberührt.
 
 (2b) In Angelegenheiten nach dem Abschnitt 1 des Bundeselterngeld- und Elternzeitgesetzes gilt abweichend von Absatz 2a für die Bekanntgabe von elektronischen Verwaltungsakten § 9 des Onlinezugangsgesetzes.
 
@@ -1103,7 +1103,7 @@ Für förmliche Rechtsbehelfe gegen Verwaltungsakte gelten, wenn der Sozialrecht
 3.  im Schwerbehindertenrecht von der zuständigen Stelle im Zusammenhang mit der Verwendung der Ausgleichsabgabe für erforderlich gehalten werden,
 
 
-4.  im Recht der Sozialen Entschädigung für erforderlich gehalten werden,
+4.  im Recht der Sozialen Entschädigung und der Soldatenentschädigung für erforderlich gehalten werden,
 
 
 5.  im Kindergeldrecht für erforderlich gehalten werden.
@@ -1344,7 +1344,7 @@ Die in Absatz 1 Satz 3 zweite Alternative genannte andere öffentliche Stelle da
 
 (2) Für die Erfüllung einer gesetzlichen oder sich aus einem Tarifvertrag ergebenden Aufgabe sind den in § 35 des Ersten Buches genannten Stellen gleichgestellt
 
-1.  die Stellen, die Leistungen nach dem Lastenausgleichsgesetz, dem Bundesentschädigungsgesetz, dem Strafrechtlichen Rehabilitierungsgesetz, dem Beruflichen Rehabilitierungsgesetz, dem Gesetz über die Entschädigung für Strafverfolgungsmaßnahmen, dem Unterhaltssicherungsgesetz, dem Beamtenversorgungsgesetz und den Vorschriften, die auf das Beamtenversorgungsgesetz verweisen, dem Soldatenversorgungsgesetz, dem Anspruchs- und Anwartschaftsüberführungsgesetz und den Vorschriften der Länder über die Gewährung von Blinden- und Pflegegeldleistungen zu erbringen haben,
+1.  die Stellen, die Leistungen nach dem Lastenausgleichsgesetz, dem Bundesentschädigungsgesetz, dem Strafrechtlichen Rehabilitierungsgesetz, dem Beruflichen Rehabilitierungsgesetz, dem Gesetz über die Entschädigung für Strafverfolgungsmaßnahmen, dem Unterhaltssicherungsgesetz, dem Beamtenversorgungsgesetz und den Vorschriften, die auf das Beamtenversorgungsgesetz verweisen, dem Soldatenentschädigungsgesetz, dem Anspruchs- und Anwartschaftsüberführungsgesetz und den Vorschriften der Länder über die Gewährung von Blinden- und Pflegegeldleistungen zu erbringen haben,
 
 
 2.  die gemeinsamen Einrichtungen der Tarifvertragsparteien im Sinne des § 4 Absatz 2 des Tarifvertragsgesetzes, die Zusatzversorgungseinrichtungen des öffentlichen Dienstes und die öffentlich-rechtlichen Zusatzversorgungseinrichtungen,
@@ -2213,12 +2213,12 @@ Die Leistungsträger haben auf Verlangen eines behandelnden Arztes Untersuchungs
 
 (2) Der Umfang des Erstattungsanspruchs richtet sich nach den für den zuständigen Leistungsträger geltenden Rechtsvorschriften.
 
-(3) Die Absätze 1 und 2 gelten gegenüber den Trägern der Eingliederungshilfe, der Sozialhilfe, der Sozialen Entschädigung, soweit diese Besondere Leistungen im Einzelfall erbringen, und der Jugendhilfe nur von dem Zeitpunkt ab, von dem ihnen bekannt war, dass die Voraussetzungen für ihre Leistungspflicht vorlagen.
+(3) Die Absätze 1 und 2 gelten gegenüber den Trägern der Eingliederungshilfe, der Sozialhilfe, der Sozialen Entschädigung, soweit diese Besondere Leistungen im Einzelfall erbringen, der Soldatenentschädigung nach Kapitel 5 des Soldatenentschädigungsgesetzes und der Jugendhilfe nur von dem Zeitpunkt ab, von dem ihnen bekannt war, dass die Voraussetzungen für ihre Leistungspflicht vorlagen.
 
 
 #### § 104 Anspruch des nachrangig verpflichteten Leistungsträgers
 
-(1) Hat ein nachrangig verpflichteter Leistungsträger Sozialleistungen erbracht, ohne dass die Voraussetzungen von § 103 Abs. 1 vorliegen, ist der Leistungsträger erstattungspflichtig, gegen den der Berechtigte vorrangig einen Anspruch hat oder hatte, soweit der Leistungsträger nicht bereits selbst geleistet hat, bevor er von der Leistung des anderen Leistungsträgers Kenntnis erlangt hat. Nachrangig verpflichtet ist ein Leistungsträger, soweit dieser bei rechtzeitiger Erfüllung der Leistungsverpflichtung eines anderen Leistungsträgers selbst nicht zur Leistung verpflichtet gewesen wäre. Ein Erstattungsanspruch besteht nicht, soweit der nachrangige Leistungsträger seine Leistungen auch bei Leistung des vorrangig verpflichteten Leistungsträgers hätte erbringen müssen. Satz 1 gilt entsprechend, wenn von den Trägern der Eingliederungshilfe, der Sozialhilfe, der Sozialen Entschädigung, soweit diese Besondere Leistungen im Einzelfall erbringen, und der Jugendhilfe Aufwendungsersatz geltend gemacht oder ein Kostenbeitrag erhoben werden kann; Satz 3 gilt in diesen Fällen nicht.
+(1) Hat ein nachrangig verpflichteter Leistungsträger Sozialleistungen erbracht, ohne dass die Voraussetzungen von § 103 Abs. 1 vorliegen, ist der Leistungsträger erstattungspflichtig, gegen den der Berechtigte vorrangig einen Anspruch hat oder hatte, soweit der Leistungsträger nicht bereits selbst geleistet hat, bevor er von der Leistung des anderen Leistungsträgers Kenntnis erlangt hat. Nachrangig verpflichtet ist ein Leistungsträger, soweit dieser bei rechtzeitiger Erfüllung der Leistungsverpflichtung eines anderen Leistungsträgers selbst nicht zur Leistung verpflichtet gewesen wäre. Ein Erstattungsanspruch besteht nicht, soweit der nachrangige Leistungsträger seine Leistungen auch bei Leistung des vorrangig verpflichteten Leistungsträgers hätte erbringen müssen. Satz 1 gilt entsprechend, wenn von den Trägern der Eingliederungshilfe, der Sozialhilfe, der Sozialen Entschädigung, soweit diese Besondere Leistungen im Einzelfall erbringen, der Soldatenentschädigung nach Kapitel 5 des Soldatenentschädigungsgesetzes und der Jugendhilfe Aufwendungsersatz geltend gemacht oder ein Kostenbeitrag erhoben werden kann; Satz 3 gilt in diesen Fällen nicht.
 
 (2) Absatz 1 gilt auch dann, wenn von einem nachrangig verpflichteten Leistungsträger für einen Angehörigen Sozialleistungen erbracht worden sind und ein anderer mit Rücksicht auf diesen Angehörigen einen Anspruch auf Sozialleistungen, auch auf besonders bezeichnete Leistungsteile, gegenüber einem vorrangig verpflichteten Leistungsträger hat oder hatte.
 
@@ -2233,7 +2233,7 @@ Die Leistungsträger haben auf Verlangen eines behandelnden Arztes Untersuchungs
 
 (2) Der Umfang des Erstattungsanspruchs richtet sich nach den für den zuständigen Leistungsträger geltenden Rechtsvorschriften.
 
-(3) Die Absätze 1 und 2 gelten gegenüber den Trägern der Eingliederungshilfe, der Sozialhilfe, der Sozialen Entschädigung, soweit diese Besondere Leistungen im Einzelfall erbringen, und der Jugendhilfe nur von dem Zeitpunkt ab, von dem ihnen bekannt war, dass die Voraussetzungen für ihre Leistungspflicht vorlagen.
+(3) Die Absätze 1 und 2 gelten gegenüber den Trägern der Eingliederungshilfe, der Sozialhilfe, der Sozialen Entschädigung, soweit diese Besondere Leistungen im Einzelfall erbringen, der Soldatenentschädigung nach Kapitel 5 des Soldatenentschädigungsgesetzes und der Jugendhilfe nur von dem Zeitpunkt ab, von dem ihnen bekannt war, dass die Voraussetzungen für ihre Leistungspflicht vorlagen.
 
 
 #### § 106 Rangfolge bei mehreren Erstattungsberechtigten
@@ -2271,7 +2271,7 @@ Die Leistungsträger haben auf Verlangen eines behandelnden Arztes Untersuchungs
 
 (1) Sach- und Dienstleistungen sind in Geld zu erstatten.
 
-(2) Ein Erstattungsanspruch der Träger der Eingliederungshilfe, der Sozialhilfe, der Sozialen Entschädigung, soweit diese Besondere Leistungen im Einzelfall erbringen, und der Jugendhilfe ist von anderen Leistungsträgern
+(2) Ein Erstattungsanspruch der Träger der Eingliederungshilfe, der Sozialhilfe, der Sozialen Entschädigung, soweit diese Besondere Leistungen im Einzelfall erbringen, der Soldatenentschädigung nach Kapitel 5 des Soldatenentschädigungsgesetzes und der Jugendhilfe ist von anderen Leistungsträgern
 
 1.  für die Dauer des Erstattungszeitraumes und
 
@@ -2409,5 +2409,5 @@ Für den Anspruch auf Ersatz von Beiträgen zur Rentenversicherung gilt § 116 A
 
 (7) § 94 Absatz 1a Satz 3 findet nur Anwendung auf die Bildung von oder den Beitritt zu Arbeitsgemeinschaften, wenn die Bildung oder der Beitritt nach dem 30. Juni 2020 erfolgt; die am 30. Juni 2020 bereits bestehenden Arbeitsgemeinschaften dürfen weitergeführt werden.
 
-(8) Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz erhalten, gelten § 64 Absatz 2 Satz 3 Nummer 2 und Absatz 3 Satz 2, § 65 Absatz 1 Satz 3, § 66 Absatz 2, § 88 Absatz 1 Satz 2, § 103 Absatz 3, § 104 Absatz 1 Satz 4, § 105 Absatz 3 und § 108 Absatz 2 Satz 1 in der bis zum 31. Dezember 2023 geltenden Fassung weiter.
+(8) (weggefallen)
 

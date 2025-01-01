@@ -222,7 +222,7 @@ Bei jeder Registrierung müssen die Daten eingetragen werden, die nach der Anlag
 
 (3) Registrierungen haben keine feststellende Wirkung im Hinblick auf das Vorliegen von Tatsachen. Insbesondere haben Registrierungen keine feststellende Wirkung im Hinblick auf das Vorliegen von Tatsachen, die für die Inanspruchnahme von Zahlungen nach dem Erneuerbare-Energien-Gesetz oder dem Kraft-Wärme-Kopplungsgesetz maßgeblich sind.
 
-(4) Die Bundesnetzagentur bestätigt den Betreibern die Registrierung einer Einheit auf Anforderung schriftlich, sofern die Einheit als in Betrieb genommen registriert wurde.
+(4) Die Bundesnetzagentur bestätigt den Betreibern die Registrierung einer Einheit auf Anforderung schriftlich oder elektronisch, sofern die Einheit als in Betrieb genommen registriert wurde.
 
 
 ### § 9 Verarbeitung von Daten
@@ -494,10 +494,11 @@ Die Bundesnetzagentur kann Festlegungen nach § 29 Absatz 1 des Energiewirtschaf
 
 Stromspeicher gelten bis zum 30. September 2021 als registriert im Sinn von § 5.
 
+(zu § 6)
 
 ### Anlage Im Marktstammdatenregister zu erfassende Daten
 
-(Fundstelle: BGBl. 2024 I Nr. 151, S. 28 - 37)
+(Fundstelle: BGBl. 2024 I Nr. 402, S. 1 - 11)
 
 
 *    *   Abkürzung
@@ -517,7 +518,7 @@ Stromspeicher gelten bis zum 30. September 2021 als registriert im Sinn von § 5
 
 *    *   A
 
-    *   automatische Eintragung durch das System
+    *   Automatische Eintragung durch das System
 
 
 *    *   NP
@@ -532,17 +533,17 @@ Stromspeicher gelten bis zum 30. September 2021 als registriert im Sinn von § 5
 
 *    *   V\*1
 
-    *   vertraulich nach Maßgabe von § 15 Absatz 1 Satz 1 Nr. 1 Buchstabe a (Einheiten*                      30 kW)
+    *   vertraulich nach Maßgabe von § 15 Absatz 1 Satz 1 Nummer 1 Buchstabe a (Einheiten*                      30 kW)
 
 
 *    *   V\*2
 
-    *   vertraulich nach Maßgabe von § 15 Absatz 1 Satz 1 Nr. 1 Buchstabe b (Betriebs- und Geschäftsgeheimnisse)
+    *   vertraulich nach Maßgabe von § 15 Absatz 1 Satz 1 Nummer 1 Buchstabe b (Betriebs- und Geschäftsgeheimnisse)
 
 
 *    *   V\*3
 
-    *   vertraulich nach Maßgabe von § 15 Absatz 1 Satz 1 Nr. 2 (natürliche Person)
+    *   vertraulich nach Maßgabe von § 15 Absatz 1 Satz 1 Nummer 2 (natürliche Person)
 
 
 *    *   \*4
@@ -562,12 +563,12 @@ Stromspeicher gelten bis zum 30. September 2021 als registriert im Sinn von § 5
 
 *    *   \*7
 
-    *   bei Netzbetreibern
+    *   bei Netzbetreiber
 
 
 *    *   \*8
 
-    *   bei Einheiten mit Inbetriebnahme nach dem 30. Juni 2017
+    *   bei Einheiten mit Inbetriebnahme nach dem Ablauf des 30. Juni 2017
 
 
 *    *   \*9
@@ -602,7 +603,7 @@ Stromspeicher gelten bis zum 30. September 2021 als registriert im Sinn von § 5
 
 *    *   \*15
 
-    *   Nicht bei Flugwindenergieanlagen an Land
+    *   nicht bei Flugwindenergieanlagen
 
 
 *    *   WI
@@ -612,7 +613,7 @@ Stromspeicher gelten bis zum 30. September 2021 als registriert im Sinn von § 5
 
 *    *   SO
 
-    *   solare Strahlungsenergie
+    *   Solare Strahlungsenergie
 
 
 *    *   BI
@@ -647,12 +648,13 @@ Stromspeicher gelten bis zum 30. September 2021 als registriert im Sinn von § 5
 
 *    *   SSA
 
-    *   steckerfertige Solaranlage
+    *   Steckerfertige Solaranlage
 
 
 
-Tabelle I
-## Zu erfassende Daten zu Marktakteuren und Behörden
+## Tabelle A
+
+## Zu erfassende Daten zu Marktakteuren
 
 
 *    *   Nr.
@@ -677,10 +679,10 @@ Tabelle I
         prüfung
 
 
-*    *   I.1 Allgemeine Daten ****
+*    *   **A.1 Allgemeine Daten**
 
 
-*    *   I.1.1
+*    *   A.1.1
 
     *   Name des Marktakteurs
 
@@ -692,7 +694,7 @@ Tabelle I
 
     *
 
-*    *   I.1.2
+*    *   A.1.2
 
     *   Adressdaten
 
@@ -704,7 +706,7 @@ Tabelle I
 
     *
 
-*    *   I.1.3
+*    *   A.1.3
 
     *   Region auf NUTS-II-Ebene
 
@@ -715,7 +717,7 @@ Tabelle I
     *
     *
 
-*    *   I.1.4
+*    *   A.1.4
 
     *   Rechtsform
 
@@ -726,7 +728,7 @@ Tabelle I
 
     *
 
-*    *   I.1.5
+*    *   A.1.5
 
     *   Eintrag in ein Register
         (z. B. Handelsregister)
@@ -737,7 +739,7 @@ Tabelle I
     *
     *
 
-*    *   I.1.6
+*    *   A.1.6
 
     *   Registergericht und Register-Nummer
 
@@ -747,7 +749,7 @@ Tabelle I
     *
     *
 
-*    *   I.1.7
+*    *   A.1.7
 
     *   Geburtsdatum
 
@@ -758,7 +760,7 @@ Tabelle I
     *
     *
 
-*    *   I.1.8
+*    *   A.1.8
 
     *   Tätigkeitsbeginn
 
@@ -768,7 +770,7 @@ Tabelle I
     *
     *
 
-*    *   I.1.9
+*    *   A.1.9
 
     *   Tätigkeitsende
 
@@ -778,7 +780,7 @@ Tabelle I
     *
     *
 
-*    *   I.1.10
+*    *   A.1.10
 
     *   Betriebsnummer der Bundesnetzagentur
 
@@ -788,7 +790,7 @@ Tabelle I
     *
     *
 
-*    *   I.1.11
+*    *   A.1.11
 
     *   Marktpartneridentifikationsnummer
 
@@ -799,32 +801,33 @@ Tabelle I
     *
     *
 
-*    *   I.1.12
+*    *   A.1.12
 
     *   ACER-Code
 
-    *   P\*14
+    *   P
 
     *   V\*3
 
     *
-    *
+    *   SSA: [I]: /.
 
-*    *   I.1.13
+
+*    *   A.1.13
 
     *   Umsatzsteueridentifikationsnummer
 
-    *   P\*14
+    *   P
 
     *   V\*3
 
     *
-    *
+    *   SSA: [I]: /.
 
-*    *   I.1.14
 
-    *   Kontaktdaten des Ansprechpartners
-        für die Bundesnetzagentur und Anschlussnetzbetreiber
+*    *   A.1.14
+
+    *   Kontaktdaten des Ansprechpartners für die Bundesnetzagentur und Anschlussnetzbetreiber
 
     *   R
 
@@ -833,21 +836,20 @@ Tabelle I
     *
     *
 
-*    *   I.1.15
+*    *   A.1.15
 
     *   Registrierungsdatum
 
     *   A
 
-    *   V\*3
-
     *
     *
+    *
 
-*    *   I.2 Zusätzliche Daten zu Anlagenbetreibern ****
+*    *   **A.2 Zusätzliche Daten zu Anlagenbetreibern**
 
 
-*    *   I.2.1
+*    *   A.2.1
 
     *   Kleinst-, Klein- oder mittleres Unternehmen
 
@@ -857,7 +859,7 @@ Tabelle I
     *
     *
 
-*    *   I.2.2
+*    *   A.2.2
 
     *   ausschließlich Einkünfte aus nichtselbstständiger Arbeit außer Einkünften aus Anlagenbetrieb
 
@@ -869,7 +871,7 @@ Tabelle I
     *   SSA: [I]: /.
 
 
-*    *   I.2.3
+*    *   A.2.3
 
     *   Hauptwirtschaftszweig auf Ebene der NACE-Gruppe
 
@@ -881,10 +883,10 @@ Tabelle I
     *   SSA: [I]: /.
 
 
-*    *   I.3 Zusätzliche Daten zu Stromlieferanten ****
+*    *   **A.3 Zusätzliche Daten zu Stromlieferanten**
 
 
-*    *   I.3.1
+*    *   A.3.1
 
     *   Direktvermarktungsunternehmen
 
@@ -895,7 +897,7 @@ Tabelle I
     *
     *
 
-*    *   I.3.2
+*    *   A.3.2
 
     *   Stromgroßhändler
 
@@ -906,7 +908,7 @@ Tabelle I
     *
     *
 
-*    *   I.3.3
+*    *   A.3.3
 
     *   Belieferung von Letztverbrauchern
 
@@ -917,7 +919,7 @@ Tabelle I
     *
     *
 
-*    *   I.3.4
+*    *   A.3.4
 
     *   Belieferung von Haushaltskunden mit Strom
 
@@ -928,10 +930,10 @@ Tabelle I
     *
     *
 
-*    *   I.4 Zusätzliche Daten zu Gastransportkunden ****
+*    *   **A.4 Zusätzliche Daten zu Gastransportkunden**
 
 
-*    *   I.4.1
+*    *   A.4.1
 
     *   Gasgroßhändler
 
@@ -942,7 +944,7 @@ Tabelle I
     *
     *
 
-*    *   I.4.2
+*    *   A.4.2
 
     *   Belieferung von Letztverbrauchern (Gaslieferant)
 
@@ -953,7 +955,7 @@ Tabelle I
     *
     *
 
-*    *   I.4.3
+*    *   A.4.3
 
     *   Belieferung von Haushaltskunden mit Gas
 
@@ -964,13 +966,13 @@ Tabelle I
     *
     *
 
-*    *   I.5 Zusätzliche Daten zu Strom- und Gasnetzbetreibern ****
+*    *   **A.5 Zusätzliche Daten zu Strom- und Gasnetzbetreibern**
 
 
-*    *   **I.5.1 Allgemeine Daten**
+*    *   **A.5.1 Allgemeine Daten**
 
 
-*    *   I.5.1.1
+*    *   A.5.1.1
 
     *   geschlossenes Verteilernetz
 
@@ -980,7 +982,7 @@ Tabelle I
     *
     *
 
-*    *   I.5.1.2
+*    *   A.5.1.2
 
     *   Bundesländer
 
@@ -990,7 +992,7 @@ Tabelle I
     *
     *
 
-*    *   I.5.1.3
+*    *   A.5.1.3
 
     *   mehr als 100 000 angeschlossene Kunden
 
@@ -1000,10 +1002,10 @@ Tabelle I
     *
     *
 
-*    *   **I.5.2 Zusätzliche Daten zu Stromnetzbetreibern**
+*    *   **A.5.2 Zusätzliche Daten zu Stromnetzbetreibern**
 
 
-*    *   I.5.2.1
+*    *   A.5.2.1
 
     *   Bilanzierungsgebiete
 
@@ -1013,10 +1015,10 @@ Tabelle I
     *
     *
 
-*    *   I.5.2.2  Zusätzliche Daten zu Bilanzierungsgebieten
+*    *   A.5.2.2 Zusätzliche Daten zu Bilanzierungsgebieten
 
 
-*    *   I.5.2.2.1
+*    *   A.5.2.2.1
 
     *   Bezeichnung
 
@@ -1026,9 +1028,9 @@ Tabelle I
     *
     *
 
-*    *   I.5.2.2.2.
+*    *   A.5.2.2.2
 
-    *   Energy Identification Code für Gebiete
+    *   Energy-Identification Code für Gebiete
         (Y-EIC)
 
     *   R
@@ -1037,7 +1039,7 @@ Tabelle I
     *
     *
 
-*    *   I.5.2.2.3
+*    *   A.5.2.2.3
 
     *   Regelzone
 
@@ -1048,7 +1050,8 @@ Tabelle I
     *
 
 
-   Tabelle II
+   ## Tabelle B
+
 ## Zu erfassende Daten zu Stromerzeugungseinheiten, EEG-Anlagen und KWK-Anlagen
 
 
@@ -1077,6 +1080,7 @@ Tabelle I
         verschiedenen Status
 
     *
+    *
 
 *    *   in
         Planung/
@@ -1095,13 +1099,13 @@ Tabelle I
         prüfung
 
 
-*    *   II.1 Daten zur Stromerzeugungseinheit ****
+*    *   **B.1 Daten zur Stromerzeugungseinheit**
 
 
-*    *   **II.1.1 Allgemeine Daten**
+*    *   **B.1.1 Allgemeine Daten**
 
 
-*    *   II.1.1.1
+*    *   B.1.1.1
 
     *   Name der Einheit
 
@@ -1112,13 +1116,13 @@ Tabelle I
     *
     *
     *
-    *   SSA: [I]: A.
-        SSA: [II]: A.
+    *   SSA: [I]: A., [II]: A.
 
 
-*    *   II.1.1.2
+*    *   B.1.1.2
 
-    *   Standort der Einheit (Adresse oder Flurstücke)
+    *   Standort der Einheit
+        (Adresse oder Flurstücke)
 
     *   R
 
@@ -1131,9 +1135,10 @@ Tabelle I
 
     *
 
-*    *   II.1.1.3
+*    *   B.1.1.3
 
-    *   Standort der Einheit (geografisch)
+    *   Standort der Einheit
+        (geografisch)
 
     *   R
 
@@ -1145,9 +1150,10 @@ Tabelle I
     *
     *
 
-*    *   II.1.1.4
+*    *   B.1.1.4
 
-    *   Energy Identification Code für technische Ressource (W-EIC)
+    *   Energy Identification Code für technische Ressource
+        (W-EIC)
 
     *
     *   P\*12
@@ -1157,7 +1163,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.1.5
+*    *   B.1.1.5
 
     *   geplantes Inbetriebnahmedatum
 
@@ -1169,7 +1175,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.1.6
+*    *   B.1.1.6
 
     *   Inbetriebnahmedatum
 
@@ -1182,7 +1188,7 @@ Tabelle I
 
     *
 
-*    *   II.1.1.7
+*    *   B.1.1.7
 
     *   Bruttoleistung
 
@@ -1197,9 +1203,10 @@ Tabelle I
     *   WI: [I]: P, [II]: P.
         BI, GS: [V]: NP\*8.
         KE: [I]: /.
+        SP: [II]: A\*14.
 
 
-*    *   II.1.1.8
+*    *   B.1.1.8
 
     *   Nettonennleistung
 
@@ -1219,7 +1226,7 @@ Tabelle I
         KE: [I]: /.
 
 
-*    *   II.1.1.9
+*    *   B.1.1.9
 
     *   Schwarzstartfähigkeit
 
@@ -1233,7 +1240,7 @@ Tabelle I
 
     *
 
-*    *   II.1.1.10
+*    *   B.1.1.10
 
     *   Inselbetriebsfähigkeit
 
@@ -1247,7 +1254,7 @@ Tabelle I
 
     *
 
-*    *   II.1.1.11
+*    *   B.1.1.11
 
     *   Präqualifikation Regelleistung
 
@@ -1260,7 +1267,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.1.12
+*    *   B.1.1.12
 
     *   Fernsteuerbarkeit durch Netzbetreiber
 
@@ -1273,7 +1280,7 @@ Tabelle I
 
     *
 
-*    *   II.1.1.13
+*    *   B.1.1.13
 
     *   Fernsteuerbarkeit durch Direktvermarkter
 
@@ -1285,7 +1292,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.1.14
+*    *   B.1.1.14
 
     *   Art der Einspeisung
 
@@ -1300,7 +1307,7 @@ Tabelle I
         SP: [II]: A\*14.
 
 
-*    *   II.1.1.15
+*    *   B.1.1.15
 
     *   Technologie der Stromerzeugung
 
@@ -1310,14 +1317,14 @@ Tabelle I
     *
     *
     *
-    *   WI: [I]: R
+    *   WI: [I]: P, [II]: P.
         SO: /.
         BI: [I]: P.
         GS: [II]: P.
         SP: [I]: R.
 
 
-*    *   II.1.1.16
+*    *   B.1.1.16
 
     *   Energieträger
 
@@ -1331,7 +1338,7 @@ Tabelle I
 
     *
 
-*    *   II.1.1.17
+*    *   B.1.1.17
 
     *   Hauptbrennstoff
 
@@ -1347,7 +1354,7 @@ Tabelle I
         BI: [I]: /.
 
 
-*    *   II.1.1.18
+*    *   B.1.1.18
 
     *   Grenzkraftwerk
 
@@ -1358,10 +1365,10 @@ Tabelle I
     *
     *   WA: [II]: P\*11.
         VE: [II]: P\*11.
-        SSP: [II]: P nur bei Pumpspeichern mit einer Nettonennleistung*                      1 MW
+        SP: [II]: P nur bei Pumpspeichern mit einer Nettonennleistung*                      = 1 MW
 
 
-*    *   II.1.1.19
+*    *   B.1.1.19
 
     *   Datum der endgültigen Stilllegung
 
@@ -1374,7 +1381,7 @@ Tabelle I
 
     *
 
-*    *   II.1.1.20
+*    *   B.1.1.20
 
     *   Einsatzverantwortlicher
 
@@ -1386,7 +1393,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.1.21
+*    *   B.1.1.21
 
     *   Anschlussnetzbetreiber
 
@@ -1397,9 +1404,10 @@ Tabelle I
     *
     *   NP
 
-    *
+    *   SSA: [II]: A.
 
-*    *   II.1.1.22
+
+*    *   B.1.1.22
 
     *   vom Anschlussnetzbetreiber vergebene Identifikationsnummer
 
@@ -1412,7 +1420,7 @@ Tabelle I
     *   SSA: [II]: /.
 
 
-*    *   II.1.1.23
+*    *   B.1.1.23
 
     *   MaStR-Nummer des Anlagenbetreibers
 
@@ -1425,7 +1433,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.1.24
+*    *   B.1.1.24
 
     *   Registrierungsdatum
 
@@ -1438,23 +1446,23 @@ Tabelle I
     *
     *
 
-*    *   II.1.1.25
+*    *   B.1.1.25
 
     *   Anlage nach dem EEG
 
-    *
-    *   R
+    *   A
+
+    *   A
 
     *
     *
     *   NP
 
     *   VE: [II]: /.
-        WI: [II]: A.
-        SO: [II]: A.
+        SP: [I]: R, [II]: R.
 
 
-*    *   II.1.1.26
+*    *   B.1.1.26
 
     *   Datum des Betreiberwechsels
 
@@ -1467,12 +1475,12 @@ Tabelle I
     *   bei Betreiberwechsel
 
 
-*    *   II.1.1.27
+*    *   B.1.1.27
 
     *   Verwendung als Notstromaggregat
 
     *
-    *   R
+    *   R\*11
 
     *
     *
@@ -1482,49 +1490,90 @@ Tabelle I
         SP: [II]: /\*14.
 
 
-*    *   **II.1.2 Zusätzliche Daten zu Genehmigungen (nur bei Projekten und Neueinheiten)**
+*    *   B.1.1.28
+
+    *   Reserveart nach dem EnWG
+
+    *
+    *   P\*11
+
+    *
+    *
+    *
+    *   WI: [II]: /.
+        SO: [II]: /.
 
 
-*    *   II.1.2.1
+*    *   B.1.1.29
+
+    *   Datum der Überführung in die Reserve
+
+    *
+    *   P\*11
+
+    *
+    *
+    *
+    *   WI: [II]: /.
+        SO: [II]: /.
+
+
+*    *   **B.1.2 Zusätzliche Daten zu Genehmigungen (nur bei Projekten und Neueinheiten)**
+
+
+*    *   B.1.2.1
 
     *   Art der Genehmigung
 
     *   R
 
-    *   P
+    *   R
 
     *
     *
     *
     *
 
-*    *   II.1.2.2
+*    *   B.1.2.2
 
     *   Genehmigungsdatum
 
     *   R
 
-    *   P
+    *   R
 
     *
     *
     *
     *
 
-*    *   II.1.2.3
+*    *   B.1.2.3
 
     *   Genehmigungsbehörde
 
     *   R
 
-    *   P
+    *   R
 
     *
     *
     *
     *
 
-*    *   II.1.2.4
+*    *   B.1.2.4
+
+    *   Datum der Antragstellung
+
+    *   R
+
+    *   R
+
+    *
+    *
+    *
+    *
+
+*    *   B.1.2.5
 
     *   Aktenzeichen der Genehmigung gemäß Genehmigungsbehörde
 
@@ -1537,7 +1586,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.2.5
+*    *   B.1.2.6
 
     *   Frist, innerhalb derer nach der Genehmigung mit der Errichtung oder dem Betrieb der Anlage begonnen werden muss
 
@@ -1550,7 +1599,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.2.6
+*    *   B.1.2.7
 
     *   Wasserrechtsnummer
 
@@ -1562,7 +1611,7 @@ Tabelle I
     *   WA: [I]: P, [II]: P.
 
 
-*    *   II.1.2.7
+*    *   B.1.2.8
 
     *   Ablaufdatum der Wasserrechtsgenehmigung
 
@@ -1574,7 +1623,7 @@ Tabelle I
     *   WA: [I]: P, [II]: P.
 
 
-*    *   II.1.2.8
+*    *   B.1.2.9
 
     *   Registrierungsdatum
 
@@ -1588,10 +1637,10 @@ Tabelle I
     *
     *
 
-*    *   **II.1.3 Zusätzliche Daten zu Verbrennungsenergie-Einheiten**
+*    *   **B.1.3 Zusätzliche Daten zu Verbrennungsenergie-Einheiten**
 
 
-*    *   II.1.3.1
+*    *   B.1.3.1
 
     *   Name des Kraftwerks
 
@@ -1604,7 +1653,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.3.2
+*    *   B.1.3.2
 
     *   Name des Kraftwerksblocks
 
@@ -1617,7 +1666,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.3.3
+*    *   B.1.3.3
 
     *   Datum des Baubeginns
 
@@ -1629,7 +1678,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.3.4
+*    *   B.1.3.4
 
     *   Nettonennleistung im Kombibetrieb
 
@@ -1642,7 +1691,7 @@ Tabelle I
 
     *
 
-*    *   II.1.3.5
+*    *   B.1.3.5
 
     *   MaStR-Nummern der SEE, die mit der SEE im Kombibetrieb verbunden sind
 
@@ -1654,7 +1703,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.3.6
+*    *   B.1.3.6
 
     *   ausschließliche Verwendung im Kombibetrieb
 
@@ -1666,7 +1715,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.3.7
+*    *   B.1.3.7
 
     *   weiterer Hauptbrennstoff
 
@@ -1678,56 +1727,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.3.8
-
-    *   Datum des Beginns der gesetzlichen Hinderung an der Stilllegung (Netzreserve)
-
-    *
-    *   P\*12
-
-    *
-    *
-    *
-    *
-
-*    *   II.1.3.9
-
-    *   Datum Übergang in die Sicherheitsbereitschaft
-
-    *
-    *   P
-
-    *
-    *
-    *
-    *   nur bei Braunkohle
-
-
-*    *   II.1.3.10
-
-    *   Datum des Beginns der vorläufigen oder endgültigen Stilllegung
-
-    *
-    *   P
-
-    *
-    *
-    *
-    *
-
-*    *   II.1.3.11
-
-    *   Datum der Beendigung der vorläufigen Stilllegung
-
-    *
-    *   P
-
-    *
-    *
-    *
-    *
-
-*    *   II.1.3.12
+*    *   B.1.3.8
 
     *   KWK-Anlage
 
@@ -1740,10 +1740,10 @@ Tabelle I
 
     *
 
-*    *   **II.1.4 Zusätzliche Daten zu Einheiten in Notstromaggregaten**
+*    *   **B.1.4 Zusätzliche Daten zu Einheiten in Notstromaggregaten**
 
 
-*    *   II.1.4.1
+*    *   B.1.4.1
 
     *   Einsatzort
 
@@ -1755,10 +1755,10 @@ Tabelle I
     *
     *
 
-*    *   **II.1.5 Zusätzliche Daten zu Biomasse-Einheiten**
+*    *   **B.1.5 Zusätzliche Daten zu Biomasse-Einheiten**
 
 
-*    *   II.1.5.1
+*    *   B.1.5.1
 
     *   Biomasseart (Brennstoff)
 
@@ -1771,7 +1771,7 @@ Tabelle I
 
     *
 
-*    *   II.1.5.2
+*    *   B.1.5.2
 
     *   KWK-Anlage
 
@@ -1784,15 +1784,23 @@ Tabelle I
 
     *
 
-*    *   **II.1.6 Zusätzliche Daten Solareinheiten (ohne Solarthermie)**
+*    *   **B.1.6 Zusätzliche Daten zu Solareinheiten (ohne Solarthermie)**
 
 
-*    *   II.1.6.1 Allgemeine Daten
+*    *   B.1.6.1
 
+    *   allgemeine Daten
 
-*    *   II.1.6.1.1
+    *
+    *
+    *
+    *
+    *
+    *
 
-    *   Lage (Art des Errichtungsorts)
+*    *   B.1.6.1.1
+
+    *   Art der Solaranlage
 
     *   R
 
@@ -1804,7 +1812,7 @@ Tabelle I
 
     *
 
-*    *   II.1.6.1.2
+*    *   B.1.6.1.2
 
     *   Wechselrichterleistung
 
@@ -1818,7 +1826,7 @@ Tabelle I
 
     *
 
-*    *   II.1.6.1.3
+*    *   B.1.6.1.3
 
     *   Anzahl der Module
 
@@ -1831,7 +1839,7 @@ Tabelle I
     *   SSA: [II]: /.
 
 
-*    *   II.1.6.1.4
+*    *   B.1.6.1.4
 
     *   Hauptausrichtung
 
@@ -1844,7 +1852,7 @@ Tabelle I
     *   SSA: [II]: /.
 
 
-*    *   II.1.6.1.5
+*    *   B.1.6.1.5
 
     *   Neigungswinkel der Hauptausrichtung
 
@@ -1857,7 +1865,7 @@ Tabelle I
     *   SSA: [II]: /.
 
 
-*    *   II.1.6.1.6
+*    *   B.1.6.1.6
 
     *   Nebenausrichtung
 
@@ -1870,7 +1878,7 @@ Tabelle I
     *   SSA: [II]: /.
 
 
-*    *   II.1.6.1.7
+*    *   B.1.6.1.7
 
     *   Neigungswinkel der Nebenausrichtung
 
@@ -1883,7 +1891,7 @@ Tabelle I
     *   SSA: [II]: /.
 
 
-*    *   II.1.6.1.8
+*    *   B.1.6.1.8
 
     *   Leistungsbegrenzung
 
@@ -1895,36 +1903,12 @@ Tabelle I
     *
     *
 
-*    *   II.1.6.2 Zusätzliche Daten zu Einheiten in Freiflächenanlagen
+*    *   B.1.6.2 Zusätzliche Daten zu Einheiten, die nicht steckerfertige Solaranlagen und nicht Gebäudesolaranlagen sind
 
 
-*    *   II.1.6.2.1
+*    *   B.1.6.2.1
 
-    *   in Anspruch genommene Fläche
-
-    *
-    *   P
-
-    *
-    *
-    *
-    *
-
-*    *   II.1.6.2.2
-
-    *   in Anspruch genommene landwirtschaftlich genutzte Fläche
-
-    *
-    *   P
-
-    *
-    *
-    *
-    *
-
-*    *   II.1.6.2.3
-
-    *   Art der Fläche
+    *   Größe der in Anspruch genommenen Fläche
 
     *
     *   R
@@ -1934,12 +1918,45 @@ Tabelle I
     *
     *
 
-*    *   II.1.6.3 Zusätzliche Daten zu Einheiten in baulichen Anlagen (Gebäude und Fassade)
+*    *   B.1.6.2.2
 
+    *   vorherige Nutzungsartengruppe der Fläche
 
-*    *   II.1.6.3.1
+    *
+    *   R
 
-    *   Nutzung des Gebäudes
+    *
+    *
+    *
+    *
+
+*    *   B.1.6.2.3
+
+    *   vorheriger Nutzungsartenbereich der Fläche
+
+    *
+    *   A
+
+    *
+    *
+    *
+    *
+
+*    *   B.1.6.2.4
+
+    *   Zusätzliche Merkmale der Fläche und der aktuellen Flächennutzung
+
+    *
+    *   R
+
+    *
+    *
+    *
+    *
+
+*    *   B.1.6.2.5
+
+    *   Lichte Höhe
 
     *
     *   P
@@ -1947,13 +1964,29 @@ Tabelle I
     *
     *
     *
-    *   SSA: [II]: A.
+    *   nur bei Einheiten
+        auf aktuell landwirtschaftlich genutzten Flächen
 
 
-*    *   II.1.6.4 Zusätzliche Daten zu steckerfertigen Solaranlagen
+*    *   B.1.6.3 Zusätzliche Daten zu Gebäudesolaranlagen
 
 
-*    *   II.1.6.4.1
+*    *   B.1.6.3.1
+
+    *   Art der Nutzung des Gebäudes
+
+    *
+    *   P
+
+    *
+    *
+    *
+    *
+
+*    *   B.1.6.4 Zusätzliche Daten zu steckerfertigen Solaranlagen
+
+
+*    *   B.1.6.4.1
 
     *   Zählernummer
 
@@ -1966,13 +1999,13 @@ Tabelle I
     *
     *
 
-*    *   **II.1.7 Zusätzliche Daten zu Windenergie-Einheiten**
+*    *   **B.1.7 Zusätzliche Daten zu Windenergie-Einheiten**
 
 
-*    *   II.1.7.1 Allgemeine Daten
+*    *   B.1.7.1 Allgemeine Daten
 
 
-*    *   II.1.7.1.1
+*    *   B.1.7.1.1
 
     *   an Land oder auf See
 
@@ -1986,7 +2019,7 @@ Tabelle I
 
     *
 
-*    *   II.1.7.1.2
+*    *   B.1.7.1.2
 
     *   Name des Windparks
 
@@ -1999,20 +2032,21 @@ Tabelle I
     *
     *
 
-*    *   II.1.7.1.3
+*    *   B.1.7.1.3
 
-    *   (Naben-)Höhe
-
-    *   P\*15
+    *   (Naben)-Höhe
 
     *   P\*15
 
-    *
-    *
-    *
-    *
+    *   P\*15
 
-*    *   II.1.7.1.4
+    *
+    *
+    *
+    *   [II]: R\*12.
+
+
+*    *   B.1.7.1.4
 
     *   Rotordurchmesser
 
@@ -2023,9 +2057,10 @@ Tabelle I
     *
     *
     *
-    *
+    *   [II]: R\*12.
 
-*    *   II.1.7.1.5
+
+*    *   B.1.7.1.5
 
     *   Angaben zu Auflagen zu Abschaltungen oder Leistungsbegrenzungen
 
@@ -2037,7 +2072,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.7.1.6
+*    *   B.1.7.1.6
 
     *   Hersteller
 
@@ -2050,7 +2085,7 @@ Tabelle I
 
     *
 
-*    *   II.1.7.1.7
+*    *   B.1.7.1.7
 
     *   Typenbezeichnung
 
@@ -2062,7 +2097,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.7.1.8
+*    *   B.1.7.1.8
 
     *   Rotorblattenteisungssystem
 
@@ -2074,7 +2109,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.7.1.9
+*    *   B.1.7.1.9
 
     *   Einrichtung zur bedarfsgesteuerten Nachtkennzeichnung
 
@@ -2087,10 +2122,10 @@ Tabelle I
 
     *
 
-*    *   II.1.7.2 Zusätzliche Daten zu Wind auf See
+*    *   B.1.7.2 Zusätzliche Daten zu Wind auf See
 
 
-*    *   II.1.7.2.1
+*    *   B.1.7.2.1
 
     *   Nordsee oder Ostsee
 
@@ -2103,7 +2138,20 @@ Tabelle I
     *
     *
 
-*    *   II.1.7.2.2
+*    *   B.1.7.2.2
+
+    *   Gebiet nach dem Flächenentwicklungsplan
+
+    *   R
+
+    *   R
+
+    *
+    *
+    *
+    *
+
+*    *   B.1.7.2.3
 
     *   Wassertiefe
 
@@ -2115,7 +2163,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.7.2.3
+*    *   B.1.7.2.4
 
     *   Küstenentfernung
 
@@ -2127,10 +2175,88 @@ Tabelle I
     *
     *
 
-*    *   **II.1.8 Zusätzliche Daten zu Wasserkraft-Einheiten**
+*    *   B.1.7.3 Zusätzliche Daten zu Wind an Land
 
 
-*    *   II.1.8.1
+*    *   B.1.7.3.1
+
+    *   Größe der in Anspruch genommenen Fläche
+
+    *
+    *   R
+
+    *
+    *
+    *
+    *
+
+*    *   B.1.7.3.2
+
+    *   vorherige Nutzungsartengruppe der Fläche
+
+    *
+    *   R
+
+    *
+    *
+    *
+    *
+
+*    *   B.1.7.3.3
+
+    *   vorheriger Nutzungsartenbereich der Fläche
+
+    *
+    *   A
+
+    *
+    *
+    *
+    *
+
+*    *   B.1.7.41 Zusätzliche Daten zu Flugwindenergieanlagen
+
+
+*    *   B.1.7.4.1
+
+    *   Technologie
+
+    *
+    *   R
+
+    *
+    *
+    *
+    *
+
+*    *   B.1.7.4.2
+
+    *   Flughöhe
+
+    *
+    *   R
+
+    *
+    *
+    *
+    *
+
+*    *   B.1.7.4.3
+
+    *   Flugradius
+
+    *
+    *   R
+
+    *
+    *
+    *
+    *
+
+*    *   **B.1.8 Zusätzliche Daten zu Wasserkraft-Einheiten**
+
+
+*    *   B.1.8.1
 
     *   Name des Kraftwerks
 
@@ -2143,7 +2269,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.8.2
+*    *   B.1.8.2
 
     *   Art des Zuflusses
 
@@ -2156,34 +2282,10 @@ Tabelle I
     *   nur bei Laufwasser
 
 
-*    *   II.1.8.3
-
-    *   Datum des Beginns der vorläufigen oder endgültigen Stilllegung
-
-    *
-    *   P
-
-    *
-    *
-    *
-    *
-
-*    *   II.1.8.4
-
-    *   Datum der Beendigung der vorläufigen Stilllegung
-
-    *
-    *   P
-
-    *
-    *
-    *
-    *
-
-*    *   **II.1.9 Zusätzliche Daten zu Speichereinheiten**
+*    *   **B.1.9 Zusätzliche Daten zu Speichereinheiten**
 
 
-*    *   II.1.9.1
+*    *   B.1.9.1
 
     *   Speichertechnologie
 
@@ -2197,10 +2299,10 @@ Tabelle I
     *   [II]: A\*14.
 
 
-*    *   II.1.9.2 Zusätzliche Daten zu Batterien
+*    *   B.1.9.2 Zusätzliche Daten zu Batterien
 
 
-*    *   II.1.9.2.1
+*    *   B.1.9.2.1
 
     *   Wechselrichterleistung
 
@@ -2215,7 +2317,7 @@ Tabelle I
     *   [II]: A\*14.
 
 
-*    *   II.1.9.2.2
+*    *   B.1.9.2.2
 
     *   Batterietechnologie
 
@@ -2228,9 +2330,9 @@ Tabelle I
     *   [II]: A\*14.
 
 
-*    *   II.1.9.2.3
+*    *   B.1.9.2.3
 
-    *   AC- oder DC-gekoppeltes System
+    *   AC- oder DC- gekoppeltes System
 
     *
     *   P
@@ -2241,10 +2343,10 @@ Tabelle I
     *   [II]: A\*14.
 
 
-*    *   II.1.9.3 Zusätzliche Daten zu Pumpspeichern
+*    *   B.1.9.3 Zusätzliche Daten zu Pumpspeichern
 
 
-*    *   II.1.9.3.1
+*    *   B.1.9.3.1
 
     *   Pumpspeicher mit oder ohne natürlichen Zufluss
 
@@ -2256,7 +2358,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.9.3.2
+*    *   B.1.9.3.2
 
     *   Leistungsaufnahme im Pumpbetrieb
 
@@ -2268,7 +2370,7 @@ Tabelle I
     *
     *
 
-*    *   II.1.9.3.3
+*    *   B.1.9.3.3
 
     *   kontinuierliche Regelbarkeit im Pumpbetrieb
 
@@ -2280,13 +2382,13 @@ Tabelle I
     *
     *
 
-*    *   II.2 Daten zu EEG-Anlagen ****
+*    *   **B.2 Daten zu EEG-Anlagen**
 
 
-*    *   **II.2.1 Allgemeine Daten**
+*    *   **B.2.1 Allgemeine Daten**
 
 
-*    *   II.2.1.1
+*    *   B.2.1.1
 
     *   installierte Leistung
 
@@ -2299,7 +2401,7 @@ Tabelle I
 
     *
 
-*    *   II.2.1.2
+*    *   B.2.1.2
 
     *   Inbetriebnahmedatum nach EEG
 
@@ -2312,7 +2414,7 @@ Tabelle I
 
     *
 
-*    *   II.2.1.3
+*    *   B.2.1.3
 
     *   Registrierungsdatum
 
@@ -2326,9 +2428,9 @@ Tabelle I
     *
     *
 
-*    *   II.2.1.4
+*    *   B.2.1.4
 
-    *   Betrieb durch eine Bürgerenergiegesellschaft nach § 22b EEG
+    *   Betrieb durch eine Bürgerenergiegesellschaft nach EEG
 
     *
     *
@@ -2340,10 +2442,10 @@ Tabelle I
         SO: [II]: P\*11.
 
 
-*    *   **II.2.2 Zusätzliche Daten bei Teilnahme an Ausschreibung nach dem EEG**
+*    *   **B.2.2 Zusätzliche Daten bei Teilnahme an Ausschreibung nach dem EEG**
 
 
-*    *   II.2.2.1
+*    *   B.2.2.1
 
     *   Zuschlagsnummer
 
@@ -2357,7 +2459,7 @@ Tabelle I
     *   SO: [II]: P\*13.
 
 
-*    *   II.2.2.2
+*    *   B.2.2.2
 
     *   zugeordnete Gebotsmengen
 
@@ -2370,10 +2472,10 @@ Tabelle I
     *   SO: [II]: P\*13.
 
 
-*    *   **II.2.3 Zusätzliche Daten zu Biomasse-Anlagen**
+*    *   **B.2.3 Zusätzliche Daten zu Biomasse-Anlagen**
 
 
-*    *   II.2.3.1
+*    *   B.2.3.1
 
     *   ausschließliche Verwendung von Biomasse nach Biomasseverordnung
 
@@ -2385,10 +2487,10 @@ Tabelle I
     *
     *
 
-*    *   II.2.3.2 Zusätzliche Daten bei Verwendung von gasförmiger Biomasse
+*    *   B.2.3.2 Zusätzliche Daten bei Verwendung von gasförmiger Biomasse
 
 
-*    *   II.2.3.2.1
+*    *   B.2.3.2.1
 
     *   Höchstbemessungsleistung
 
@@ -2403,10 +2505,10 @@ Tabelle I
         EEG-Inbetriebnahmedatum vor dem 1. August 2014
 
 
-*    *   II.2.3.3 Zusätzliche Daten bei Verwendung von Biogas
+*    *   B.2.3.3 Zusätzliche Daten bei Verwendung von Biogas
 
 
-*    *   II.2.3.3.1
+*    *   B.2.3.3.1
 
     *   Gaserzeugungskapazität
 
@@ -2418,10 +2520,10 @@ Tabelle I
     *
     *
 
-*    *   II.2.3.4 Zusätzliche Daten bei Verwendung von Biomethan
+*    *   B.2.3.4 Zusätzliche Daten bei Verwendung von Biomethan
 
 
-*    *   II.2.3.4.1
+*    *   B.2.3.4.1
 
     *   Datum des erstmaligen ausschließlichen Einsatzes von Biomethan
 
@@ -2433,10 +2535,10 @@ Tabelle I
     *
     *
 
-*    *   **II.2.4 Zusätzliche Daten zu Windenergie-Anlagen**
+*    *   **B.2.4 Zusätzliche Daten zu Windenergie-Anlagen**
 
 
-*    *   II.2.4.1
+*    *   B.2.4.1
 
     *   Pilotwindanlage
 
@@ -2451,7 +2553,7 @@ Tabelle I
         EEG-Inbetriebnahmedatum ab dem 1. Januar 2017
 
 
-*    *   II.2.4.2
+*    *   B.2.4.2
 
     *   Prototypanlage
 
@@ -2465,7 +2567,7 @@ Tabelle I
         EEG-Inbetriebnahmedatum vor dem 1. Januar 2017
 
 
-*    *   II.2.4.3
+*    *   B.2.4.3
 
     *   Verhältnis der Ertragseinschätzung zum Referenzertrag nach Ertragsgutachten
 
@@ -2477,7 +2579,7 @@ Tabelle I
     *
     *
 
-*    *   II.2.4.4
+*    *   B.2.4.4
 
     *   Verhältnis des Ertrags zum Referenzertrag nach Ablauf des Referenzzeitraums von fünf Jahren
 
@@ -2489,7 +2591,7 @@ Tabelle I
     *
     *
 
-*    *   II.2.4.5
+*    *   B.2.4.5
 
     *   Verhältnis des Ertrags zum Referenzertrag nach Ablauf des Referenzzeitraums von zehn Jahren
 
@@ -2501,7 +2603,7 @@ Tabelle I
     *
     *
 
-*    *   II.2.4.6
+*    *   B.2.4.6
 
     *   Verhältnis des Ertrags zum Referenzertrag nach Ablauf des Referenzzeitraums von 15 Jahren
 
@@ -2513,10 +2615,10 @@ Tabelle I
     *
     *
 
-*    *   **II.2.5 Zusätzliche Daten zu Ertüchtigungsmaßnahmen an Wasserkraft-Anlagen**
+*    *   **B.2.5 Zusätzliche Daten zu Ertüchtigungsmaßnahmen an Wasserkraft-Anlagen**
 
 
-*    *   II.2.5.1
+*    *   B.2.5.1
 
     *   Art der Ertüchtigung
 
@@ -2528,7 +2630,7 @@ Tabelle I
     *
     *
 
-*    *   II.2.5.2
+*    *   B.2.5.2
 
     *   Datum der Ertüchtigungsmaßnahme
 
@@ -2540,7 +2642,7 @@ Tabelle I
     *
     *
 
-*    *   II.2.5.3
+*    *   B.2.5.3
 
     *   prozentuale Erhöhung des Leistungsvermögens
 
@@ -2552,7 +2654,7 @@ Tabelle I
     *
     *
 
-*    *   II.2.5.4
+*    *   B.2.5.4
 
     *   zulassungspflichtige Ertüchtigungsmaßnahme
 
@@ -2564,13 +2666,13 @@ Tabelle I
     *
     *
 
-*    *   II.3 Daten zu KWK-Anlagen ****
+*    *   **B.3 Daten zu KWK-Anlagen**
 
 
-*    *   **II.3.1 Allgemeine Daten**
+*    *   **B.3.1 Allgemeine Daten**
 
 
-*    *   II.3.1.1
+*    *   B.3.1.1
 
     *   thermische Nutzleistung
 
@@ -2582,7 +2684,7 @@ Tabelle I
     *
     *
 
-*    *   II.3.1.2
+*    *   B.3.1.2
 
     *   elektrische KWK-Leistung
 
@@ -2595,7 +2697,7 @@ Tabelle I
 
     *
 
-*    *   II.3.1.3
+*    *   B.3.1.3
 
     *   Inbetriebnahmedatum
 
@@ -2608,7 +2710,7 @@ Tabelle I
 
     *
 
-*    *   II.3.1.4
+*    *   B.3.1.4
 
     *   Registrierungsdatum
 
@@ -2622,10 +2724,10 @@ Tabelle I
     *
     *
 
-*    *   **II.3.2 Zusätzliche Angaben bei Teilnahme an Ausschreibung**
+*    *   **B.3.2 Zusätzliche Angaben bei Teilnahme an Ausschreibung**
 
 
-*    *   II.3.2.1
+*    *   B.3.2.1
 
     *   Zuschlagsnummer
 
@@ -2638,17 +2740,20 @@ Tabelle I
     *
 
 
-   Tabelle III
-Zu erfassende Daten zu Stromverbrauchseinheiten,
-## Gaserzeugungs- und Gasverbrauchseinheiten
+   ## Tabelle C
+
+Zu erfassende Daten zu
+## Stromverbrauchseinheiten, Gaserzeugungs- und Gasverbrauchseinrichtungen
 
 
 *    *   Nr.
 
     *   Datum
 
-    *   Art der Angabe in den verschiedenen Status
+    *   Art der Angabe in den
+        verschiedenen Status
 
+    *
     *
     *   Abweichungen bei
         Registrierungspflicht,
@@ -2658,26 +2763,25 @@ Zu erfassende Daten zu Stromverbrauchseinheiten,
 
 
 *    *   in
-        Planung/
-        im Bau
+        Planung
+        /im Bau
 
-    *   in
-        Betrieb
+    *   in Betrieb
 
-    *   still-
-        gelegt
+    *   stillgelegt
 
-    *   vertraulich
+    *   Vertrau-
+        lichkeit
 
     *   Netz-
         betreiber-
         prüfung
 
 
-*    *   III.1 Allgemeine Daten ****
+*    *   **C.1 Allgemeine Daten**
 
 
-*    *   III.1.1
+*    *   C.1.1
 
     *   Name der Einheit
 
@@ -2690,7 +2794,7 @@ Zu erfassende Daten zu Stromverbrauchseinheiten,
     *
     *
 
-*    *   III.1.2
+*    *   C.1.2
 
     *   Standort der Einheit (Adresse oder Flurstücke)
 
@@ -2705,7 +2809,7 @@ Zu erfassende Daten zu Stromverbrauchseinheiten,
 
     *
 
-*    *   III.1.3
+*    *   C.1.3
 
     *   Standort der Einheit (geografisch)
 
@@ -2718,7 +2822,7 @@ Zu erfassende Daten zu Stromverbrauchseinheiten,
     *
     *
 
-*    *   III.1.4
+*    *   C.1.4
 
     *   geplantes Inbetriebnahmedatum
 
@@ -2730,7 +2834,7 @@ Zu erfassende Daten zu Stromverbrauchseinheiten,
     *
     *
 
-*    *   III.1.5
+*    *   C.1.5
 
     *   Inbetriebnahmedatum
 
@@ -2742,7 +2846,7 @@ Zu erfassende Daten zu Stromverbrauchseinheiten,
     *
     *
 
-*    *   III.1.6
+*    *   C.1.6
 
     *   Datum der endgültigen Stilllegung
 
@@ -2754,7 +2858,7 @@ Zu erfassende Daten zu Stromverbrauchseinheiten,
     *
     *
 
-*    *   III.1.7
+*    *   C.1.7
 
     *   Netzbetreiber
 
@@ -2766,7 +2870,7 @@ Zu erfassende Daten zu Stromverbrauchseinheiten,
     *
     *
 
-*    *   III.1.8
+*    *   C.1.8
 
     *   vom Anschlussnetzbetreiber vergebene Identifikationsnummer
 
@@ -2778,7 +2882,7 @@ Zu erfassende Daten zu Stromverbrauchseinheiten,
     *
     *
 
-*    *   III.1.9
+*    *   C.1.9
 
     *   Registrierungsdatum
 
@@ -2792,7 +2896,7 @@ Zu erfassende Daten zu Stromverbrauchseinheiten,
     *
     *
 
-*    *   III.1.10
+*    *   C.1.10
 
     *   Datum des Betreiberwechsels
 
@@ -2805,12 +2909,13 @@ Zu erfassende Daten zu Stromverbrauchseinheiten,
     *   bei Betreiberwechsel
 
 
-*    *   III.2 Daten zu Stromverbrauchseinheiten ****
+*    *   **C.2 Daten zu Stromverbrauchseinheiten**
 
 
-*    *   III.2.1
+*    *   C.2.1
 
-    *   Anzahl angeschlossener Stromverbrauchseinheiten*                      50 MW
+    *   Anzahl angeschlossener Stromverbrauchseinheiten
+        *                      50 MW
 
     *
     *   P
@@ -2820,7 +2925,7 @@ Zu erfassende Daten zu Stromverbrauchseinheiten,
     *
     *
 
-*    *   III.2.2
+*    *   C.2.2
 
     *   Einsatzverantwortlicher
 
@@ -2830,14 +2935,13 @@ Zu erfassende Daten zu Stromverbrauchseinheiten,
     *
     *
     *
-    *   wenn angeschlossene Stromverbrauchseinheiten
-        *                      50 MW vorhanden sind
+    *   wenn angeschlossene Stromverbrauchseinheiten*                      50 MW vorhanden sind
 
 
-*    *   III.3 Daten zu Gaserzeugungseinheiten ****
+*    *   **C.3 Daten zu Gaserzeugungseinheiten**
 
 
-*    *   III.3.1
+*    *   C.3.1
 
     *   Technologie
 
@@ -2851,7 +2955,7 @@ Zu erfassende Daten zu Stromverbrauchseinheiten,
 
     *
 
-*    *   III.3.2
+*    *   C.3.2
 
     *   Erzeugungsleistung
 
@@ -2865,10 +2969,10 @@ Zu erfassende Daten zu Stromverbrauchseinheiten,
 
     *
 
-*    *   III.4 Daten zu Gasverbrauchseinheiten ****
+*    *   **C.4 Daten zu Gasverbrauchseinheiten**
 
 
-*    *   III.4.1
+*    *   C.4.1
 
     *   Gasverbrauch für Stromerzeugung
 
@@ -2880,7 +2984,7 @@ Zu erfassende Daten zu Stromverbrauchseinheiten,
     *
     *
 
-*    *   III.4.2
+*    *   C.4.2
 
     *   maximale Gasbezugsleistung zur Stromerzeugung
 
@@ -2893,7 +2997,7 @@ Zu erfassende Daten zu Stromverbrauchseinheiten,
     *   nur bei gasverbrauchenden Stromerzeugungseinheiten
 
 
-*    *   III.4.3
+*    *   C.4.3
 
     *   MaStR-Nummern der gasverbrauchenden Stromerzeugungseinheiten
 
@@ -2908,7 +3012,8 @@ Zu erfassende Daten zu Stromverbrauchseinheiten,
 
 
 
-Tabelle IV
+## Tabelle D
+
 ## Zu erfassende Daten zu Strom- und Gasspeichereinheiten
 
 
@@ -2919,6 +3024,7 @@ Tabelle IV
     *   Art der Angabe in den
         verschiedenen Status
 
+    *
     *
 
 *    *   in Planung/
@@ -2934,10 +3040,10 @@ Tabelle IV
     *   Netzbetreiberprüfung
 
 
-*    *   IV.1 Daten zu Gasspeichereinheiten ****
+*    *   **D.1 Daten zu Gasspeichereinheiten**
 
 
-*    *   IV.1.1
+*    *   D.1.1
 
     *   Speichername
 
@@ -2948,7 +3054,7 @@ Tabelle IV
     *
     *
 
-*    *   IV.1.2
+*    *   D.1.2
 
     *   Speicherart
 
@@ -2961,7 +3067,7 @@ Tabelle IV
     *   NP
 
 
-*    *   IV.1.3
+*    *   D.1.3
 
     *   maximal nutzbares Arbeitsgasvolumen
 
@@ -2973,7 +3079,7 @@ Tabelle IV
     *   NP
 
 
-*    *   IV.1.4
+*    *   D.1.4
 
     *   maximale Einspeicherleistung
 
@@ -2984,7 +3090,7 @@ Tabelle IV
     *
     *
 
-*    *   IV.1.5
+*    *   D.1.5
 
     *   maximale Ausspeicherleistung
 
@@ -2995,7 +3101,7 @@ Tabelle IV
     *
     *
 
-*    *   IV.1.6
+*    *   D.1.6
 
     *   Energy Identification Code für technische Ressourcen (W-EIC)
 
@@ -3006,10 +3112,10 @@ Tabelle IV
     *
     *
 
-*    *   IV.2  Daten zu Stromspeichereinheiten ****
+*    *   **D.2 Daten zu Stromspeichereinheiten**
 
 
-*    *   IV.2.1
+*    *   D.2.1
 
     *   nutzbare Speicherkapazität
 
@@ -3023,7 +3129,8 @@ Tabelle IV
 
 
 
-Tabelle V
+## Tabelle E
+
 Zu erfassende Daten zu technischen Stromerzeugungs- und Stromverbrauchslokationen
 ## und technischen Gaserzeugungs- und Gasverbrauchslokationen
 
@@ -3034,13 +3141,15 @@ Zu erfassende Daten zu technischen Stromerzeugungs- und Stromverbrauchslokatione
 
     *   in Betrieb
 
-    *   Vertraulichkeit
+    *   Abweichungen
+        bei Registrie-
+        rungspflicht oder Vertraulichkeit
 
 
-*    *   V.1 Allgemeine Daten ****
+*    *   **E.1 Allgemeine Daten**
 
 
-*    *   V.1.1
+*    *   E.1.1
 
     *   Name der technischen Lokation
 
@@ -3048,13 +3157,13 @@ Zu erfassende Daten zu technischen Stromerzeugungs- und Stromverbrauchslokatione
 
     *
 
-*    *   V.2 Daten zu technischen Stromlokationen ****
+*    *   **E.2 Daten zu technischen Stromlokationen**
 
 
-*    *   **V.2.1 Allgemeine Daten**
+*    *   **E.2.1 Allgemeine Daten**
 
 
-*    *   V.2.1.1
+*    *   E.2.1.1
 
     *   Spannungsebene
 
@@ -3062,7 +3171,7 @@ Zu erfassende Daten zu technischen Stromerzeugungs- und Stromverbrauchslokatione
 
     *
 
-*    *   V.2.1.2
+*    *   E.2.1.2
 
     *   Bilanzierungsgebiet
 
@@ -3070,7 +3179,7 @@ Zu erfassende Daten zu technischen Stromerzeugungs- und Stromverbrauchslokatione
 
     *
 
-*    *   V.2.1.3
+*    *   E.2.1.3
 
     *   Netzanschlusspunktbezeichnung
 
@@ -3078,7 +3187,7 @@ Zu erfassende Daten zu technischen Stromerzeugungs- und Stromverbrauchslokatione
 
     *
 
-*    *   V.2.1.4
+*    *   E.2.1.4
 
     *   Status Netzanschlusspunkt
 
@@ -3086,22 +3195,23 @@ Zu erfassende Daten zu technischen Stromerzeugungs- und Stromverbrauchslokatione
 
     *
 
-*    *   **V.2.2 Daten zu technischen Stromerzeugungslokationen**
+*    *   **E.2.2 Daten zu technischen Stromerzeugungslokationen**
 
 
-*    *   V.2.2.1
+*    *   E.2.2.1
 
     *   Nettoengpassleistung
 
     *   P
 
-    *   nicht bei Einheiten, die an die Niederspannung angeschlossen sind
+    *   nur bei
+        Netzanschlusspunkten in Spannungsebenen oberhalb der Mittelspannung
 
 
-*    *   **V.2.3 Daten zu technischen Stromverbrauchslokationen**
+*    *   **E.2.3 Daten zu technischen Stromverbrauchslokationen**
 
 
-*    *   V.2.3.1
+*    *   E.2.3.1
 
     *   Netzanschlusskapazität
 
@@ -3109,13 +3219,13 @@ Zu erfassende Daten zu technischen Stromerzeugungs- und Stromverbrauchslokatione
 
     *
 
-*    *   V.3 Daten zu technischen Gaslokationen ****
+*    *   **E.3 Daten zu technischen Gaslokationen**
 
 
-*    *   **V.3.1 Allgemeine Daten**
+*    *   **E.3.1 Allgemeine Daten**
 
 
-*    *   V.3.1.1
+*    *   E.3.1.1
 
     *   Gasqualität am Netzanschluss
 
@@ -3123,7 +3233,7 @@ Zu erfassende Daten zu technischen Stromerzeugungs- und Stromverbrauchslokatione
 
     *
 
-*    *   V.3.1.2
+*    *   E.3.1.2
 
     *   Netzanschlusspunktbezeichnung
 
@@ -3131,7 +3241,7 @@ Zu erfassende Daten zu technischen Stromerzeugungs- und Stromverbrauchslokatione
 
     *
 
-*    *   V.3.1.3
+*    *   E.3.1.3
 
     *   Status Netzanschlusspunkt
 
@@ -3139,10 +3249,10 @@ Zu erfassende Daten zu technischen Stromerzeugungs- und Stromverbrauchslokatione
 
     *
 
-*    *   **V.3.2 Daten zu technischen Gaserzeugungslokationen**
+*    *   **E.3.2 Daten zu technischen Gaserzeugungslokationen**
 
 
-*    *   V.3.2.1
+*    *   E.3.2.1
 
     *   maximale Einspeiseleistung
 
@@ -3150,10 +3260,10 @@ Zu erfassende Daten zu technischen Stromerzeugungs- und Stromverbrauchslokatione
 
     *
 
-*    *   **V.3.3.  Daten zu technischen Gasverbrauchslokationen**
+*    *   **E.3.3 Daten zu technischen Gasverbrauchslokationen**
 
 
-*    *   V.3.3.1
+*    *   E.3.3.1
 
     *   maximale Ausspeiseleistung
 

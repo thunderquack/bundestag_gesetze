@@ -541,7 +541,12 @@ Jeder hat Anspruch auf Beratung über seine Rechte und Pflichten nach diesem Ges
 
 
 
-(2) Zuständig sind die nach Bundesrecht oder Landesrecht bestimmten Träger der Sozialen Entschädigung. Bei der Durchführung der Krankenbehandlung wirken die Träger der gesetzlichen Krankenversicherung und bei der Durchführung der Hilfsmittelversorgung die Träger der gesetzlichen Unfallversicherung mit. Für die Leistungen nach den §§ 80, 81a bis 83a des Soldatenversorgungsgesetzes ist die Bundeswehrverwaltung zuständig.
+(2) Zuständig sind die nach Bundesrecht oder Landesrecht bestimmten Träger der Sozialen Entschädigung. Bei der Durchführung der Krankenbehandlung wirken die Träger der gesetzlichen Krankenversicherung und bei der Durchführung der Hilfsmittelversorgung die Träger der gesetzlichen Unfallversicherung mit.
+
+
+#### § 24a Leistungen der Soldatenentschädigung
+
+Die Entschädigung für Soldatinnen und Soldaten sowie frühere Soldatinnen und Soldaten richtet sich nach dem Soldatenentschädigungsgesetz. Zuständig für die Durchführung ist die Bundeswehrverwaltung.
 
 
 #### § 25 Kindergeld, Kinderzuschlag, Elterngeld und Leistungen für Bildung und Teilhabe
@@ -719,7 +724,7 @@ sowie die jeweils gebotene Beratung und Unterstützung.
 
 4.  unterhaltssichernde und andere ergänzende Leistungen, insbesondere
 
-    a)  Krankengeld, Krankengeld der Sozialen Entschädigung, Verletztengeld, Übergangsgeld, Ausbildungsgeld oder Unterhaltsbeihilfe,
+    a)  Krankengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung, Verletztengeld, Übergangsgeld, Ausbildungsgeld oder Unterhaltsbeihilfe,
 
 
     b)  Beiträge zur gesetzlichen Kranken-, Unfall-, Renten- und Pflegeversicherung sowie zur Bundesagentur für Arbeit,
@@ -742,7 +747,7 @@ sowie die jeweils gebotene Beratung und Unterstützung.
 
 
 
-(2) Zuständig sind die in den §§ 19 bis 24, 27 und 28 genannten Leistungsträger und die Integrationsämter.
+(2) Zuständig sind die in den §§ 19 bis 24a, 27 und 28 genannten Leistungsträger und die Integrationsämter.
 
 
 ## Dritter Abschnitt - Gemeinsame Vorschriften für alle Sozialleistungsbereiche dieses Gesetzbuchs
@@ -1332,7 +1337,7 @@ Bis zu ihrer Einordnung in dieses Gesetzbuch gelten die nachfolgenden Gesetze mi
 17. der Fünfte Abschnitt des Schwangerschaftskonfliktgesetzes,
 
 
-18. die §§ 80 bis 83a des Soldatenversorgungsgesetzes, soweit sie die entsprechende Anwendung des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung vorsehen.
+18. das Soldatenentschädigungsgesetz.
 
 
 
@@ -1353,7 +1358,6 @@ Artikel 229 § 6 Abs. 1 und 2 des Einführungsgesetzes zum Bürgerlichen Gesetzb
 § 53 Abs. 6 und § 54 Abs. 6 sind nur auf Geldleistungen anzuwenden, soweit diese nach dem 30. März 2005 ganz oder teilweise zu Unrecht erbracht werden.
 
 
-### § 72 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+### § 72 (weggefallen)
 
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz erhalten, gilt die Vorschrift des § 29 Absatz 1 Nummer 4 Buchstabe a in der bis zum 31. Dezember 2023 geltenden Fassung weiter.
 

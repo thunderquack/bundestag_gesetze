@@ -613,6 +613,20 @@ Die Bundesverbände der Parteien haben für einen angemessenen Finanzausgleich f
 
 (8) Im Rechenschaftsbericht sind die Summe der Zuwendungen natürlicher Personen bis zu 3 300 Euro je Person sowie die Summe der Zuwendungen natürlicher Personen, soweit sie den Betrag von 3 300 Euro übersteigen, gesondert auszuweisen.
 
+(8a) Einnahmen aus Sponsoring gemäß § 27 Absatz 1b sind neben der Berücksichtigung als Einnahme in einem gesonderten Teil im Rechenschaftsbericht aufzuführen (Sponsoring-Bericht), wenn der zugewendete Bruttobetrag im Einzelfall 750 Euro oder bei mehreren Zuwendungen der gleichen Person an den gleichen Gebietsverband im Rechnungsjahr 6 000 Euro übersteigt. Bei der Angabe im Rechenschaftsbericht sind Einnahmen aus Sponsoring
+
+1.  unter Angabe von Namen und Anschrift des Zuwendenden,
+
+
+2.  des Bruttowertes der Einnahme und
+
+
+3.  der Art des Sponsorings
+
+
+
+zu verzeichnen.
+
 (9) Dem Rechenschaftsbericht ist eine Zusammenfassung voranzustellen:
 
 1.  Einnahmen der Gesamtpartei gemäß Absatz 4 Nr. 1 bis 9 und deren Summe,

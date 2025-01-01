@@ -30,9 +30,8 @@ Zuletzt geändert durch
 Die Erlaubnis zum Betrieb des Gewerbes eines Pfandleihers gilt für den Geltungsbereich dieser Verordnung.
 
 
-## § 2 Anzeige
+## § 2 (weggefallen)
 
-Der Pfandleiher hat der zuständigen Behörde bei Beginn des Gewerbebetriebs anzuzeigen, welche Räume er für den Gewerbebetrieb benutzt; ferner hat er jeden Wechsel der für den Gewerbebetrieb benutzten Räume unverzüglich anzuzeigen.
 
 
 ## § 3 Buchführung
@@ -149,7 +148,7 @@ Der Pfandleiher hat das Pfand mindestens zum doppelten Betrag des Darlehens gege
 
 (3) Absatz 2 Satz 1 findet keine Anwendung, wenn der Pfandleiher auf Verlangen des Verpfänders eine andere Verwertungsfrist mit diesem vereinbart.
 
-(4) Der Pfandleiher hat zu veranlassen, daß die Versteigerung mindestens eine Woche und höchstens zwei Wochen vor dem für die Versteigerung vorgesehenen Zeitpunkt in einer Tageszeitung, in der üblicherweise amtliche Bekanntmachungen veröffentlicht werden, bekanntgemacht wird. Die Bekanntmachung muß Ort und Zeit der Versteigerung, die allgemeine Bezeichnung der Pfänder, den Namen oder die Firma des Pfandleihers, die Nummern der einzelnen Pfandleihverträge oder die Anfangs- und Endnummern der zur Versteigerung gelangenden Serie sowie den Zeitraum der Verpfändungen ergeben; bei Pfändern, deren Versteigerung bereits in früheren Anzeigen bekanntgemacht worden ist und die nicht versteigert worden sind, genügt an Stelle der Angabe der Nummern und des Zeitraums ein Hinweis auf die früheren Anzeigen.
+(4) Der Pfandleiher hat zu veranlassen, dass die Versteigerung mindestens eine Woche und höchstens zwei Wochen vor dem für die Versteigerung vorgesehenen Zeitpunkt in einer Tageszeitung, einer sonstigen Zeitung oder auf seiner Homepage bekanntgemacht wird. Die Bekanntmachung muß Ort und Zeit der Versteigerung, die allgemeine Bezeichnung der Pfänder, den Namen oder die Firma des Pfandleihers, die Nummern der einzelnen Pfandleihverträge oder die Anfangs- und Endnummern der zur Versteigerung gelangenden Serie sowie den Zeitraum der Verpfändungen ergeben; bei Pfändern, deren Versteigerung bereits in früheren Anzeigen bekanntgemacht worden ist und die nicht versteigert worden sind, genügt an Stelle der Angabe der Nummern und des Zeitraums ein Hinweis auf die früheren Anzeigen.
 
 
 ## § 10 Zinsen und Vergütung
@@ -200,25 +199,18 @@ Wird das Darlehen in Teilbeträgen zurückgezahlt, sind die Zinsen und die Verg�
 (2) Stehen in den Fällen des Absatzes 1 den Überschüssen Mindererlöse aus früheren Vereinbarungen nach § 5 mit demselben Verpfänder gegenüber, so darf der Pfandleiher sich aus dem Überschuss auch hinsichtlich des Mindererlöses befriedigen.
 
 
-## § 12 Aushang
+## § 12 (weggefallen)
 
-Der Pfandleiher hat in seinen Geschäftsräumen an gut sichtbarer Stelle einen Abdruck dieser Verordnung auszuhängen.
 
 
 ## § 12a Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1b der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 2 die für den Geschäftsbetrieb benutzten Räume oder einen Wechsel der Räume nicht oder nicht rechtzeitig anzeigt,
+1.  einer Vorschrift des § 3 Abs. 1, 2 oder 3 über Aufzeichnungen, Unterlagen und Belege zuwiderhandelt,
 
 
-2.  einer Vorschrift des § 3 Abs. 1, 2 oder 3 über Aufzeichnungen, Unterlagen und Belege zuwiderhandelt,
-
-
-3.  (weggefallen)
-
-
-4.  einer Vorschrift
+2.  einer Vorschrift
 
     a)  des § 5 über die Annahme des Pfandes und die Fälligkeit des Darlehens,
 
@@ -234,19 +226,16 @@ Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1b der Gewerbeordnung handelt
     zuwiderhandelt,
 
 
-5.  entgegen § 8 ein Pfand nicht vorschriftsmäßig versichert,
+3.  entgegen § 8 ein Pfand nicht vorschriftsmäßig versichert,
 
 
-6.  entgegen § 9 Abs. 1 sich aus dem Pfand befriedigt, entgegen § 9 Abs. 2 Satz 1 das Pfand nicht rechtzeitig verwertet oder entgegen § 9 Abs. 4 nicht veranlaßt, daß die Versteigerung rechtzeitig und vorschriftsmäßig bekanntgemacht wird,
+4.  entgegen § 9 Abs. 1 sich aus dem Pfand befriedigt, entgegen § 9 Abs. 2 Satz 1 das Pfand nicht rechtzeitig verwertet oder entgegen § 9 Abs. 4 nicht veranlaßt, daß die Versteigerung rechtzeitig und vorschriftsmäßig bekanntgemacht wird,
 
 
-7.  einer Vorschrift des § 10 über Zinsen, Kosten und Vergütungen zuwiderhandelt,
+5.  einer Vorschrift des § 10 über Zinsen, Kosten und Vergütungen zuwiderhandelt oder
 
 
-8.  entgegen § 11 Satz 1 Überschüsse nicht oder nicht rechtzeitig abführt oder
-
-
-9.  entgegen § 12 einen Abdruck dieser Verordnung nicht aushängt.
+6.  entgegen § 11 Satz 1 Überschüsse nicht oder nicht rechtzeitig abführt.
 
 
 

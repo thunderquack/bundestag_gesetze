@@ -301,7 +301,7 @@ der Unternehmer, ihrer Ehegatten oder ihrer Lebenspartner.
 1.  Personen, soweit für sie beamtenrechtliche Unfallfürsorgevorschriften oder entsprechende Grundsätze gelten; ausgenommen sind Ehrenbeamte und ehrenamtliche Richter,
 
 
-2.  Personen in der Zeit, in der sie aufgrund gesetzlicher Pflicht Wehrdienst oder Zivildienst leisten.
+2.  Personen in der Zeit, in der sie Zivildienst leisten, und Personen, für die das Soldatenentschädigungsgesetz gilt,
 
 
 3.  satzungsmäßige Mitglieder geistlicher Genossenschaften, Diakonissen und Angehörige ähnlicher Gemeinschaften, wenn ihnen nach den Regeln der Gemeinschaft Anwartschaft auf die in der Gemeinschaft übliche Versorgung gewährleistet und die Erfüllung der Gewährleistung gesichert ist.
@@ -916,6 +916,10 @@ Für die an der Heilbehandlung nach Satz 1 beteiligten Ärzte, Zahnärzte, Einri
 
 (2) § 360 des Fünften Buches gilt entsprechend für die Leistungserbinger nach § 27 Absatz 1 sowie die Unfallversicherungsträger, sobald die Verordnung von Leistungen nach § 27 Absatz 1 Nummer 4 elektronisch erfolgt und der Leistungserbringer an die Telematikinfrastruktur angebunden ist.
 
+(3) § 350a des Fünften Buches gilt entsprechend für Versicherte dieses Buches.
+
+(4) § 351 des Fünften Buches gilt entsprechend für den zuständigen Unfallversicherungsträger.
+
 
 ##### § 28 Ärztliche und zahnärztliche Behandlung
 
@@ -1111,7 +1115,7 @@ für die Versicherten und für eine wegen des Gesundheitsschadens erforderliche 
 1.  infolge des Versicherungsfalls arbeitsunfähig sind oder wegen einer Maßnahme der Heilbehandlung eine ganztägige Erwerbstätigkeit nicht ausüben können und
 
 
-2.  unmittelbar vor Beginn der Arbeitsunfähigkeit oder der Heilbehandlung Anspruch auf Arbeitsentgelt, Arbeitseinkommen, Krankengeld, Pflegeunterstützungsgeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Übergangsgeld, Unterhaltsgeld, Kurzarbeitergeld, Qualifizierungsgeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder nicht nur Leistungen für Erstausstattungen für Bekleidung bei Schwangerschaft und Geburt nach dem Zweiten Buch oder Mutterschaftsgeld hatten.
+2.  unmittelbar vor Beginn der Arbeitsunfähigkeit oder der Heilbehandlung Anspruch auf Arbeitsentgelt, Arbeitseinkommen, Krankengeld, Pflegeunterstützungsgeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung, Übergangsgeld, Unterhaltsgeld, Kurzarbeitergeld, Qualifizierungsgeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder nicht nur Leistungen für Erstausstattungen für Bekleidung bei Schwangerschaft und Geburt nach dem Zweiten Buch oder Mutterschaftsgeld hatten.
 
 
 
@@ -1191,11 +1195,11 @@ Arbeitseinkommen ist bei der Ermittlung des Regelentgelts mit dem 360. Teil des 
 
 (1a) Für Ansprüche auf Verletztengeld, die vor dem 1. Januar 2001 entstanden sind, ist § 47 Abs. 1 und 2 des Fünften Buches in der vor dem 22. Juni 2000 jeweils geltenden Fassung für Zeiten nach dem 31. Dezember 1996 mit der Maßgabe entsprechend anzuwenden, dass sich das Regelentgelt um 10 vom Hundert, höchstens aber bis zu einem Betrag in Höhe des dreihundertsechzigsten Teils des Höchstjahresarbeitsverdienstes erhöht. Das regelmäßige Nettoarbeitsentgelt ist um denselben Vomhundertsatz zu erhöhen. Satz 1 und 2 gilt für Ansprüche, über die vor dem 22. Juni 2000 bereits unanfechtbar entschieden war, nur für Zeiten vom 22. Juni 2000 an bis zum Ende der Leistungsdauer. Entscheidungen über die Ansprüche, die vor dem 22. Juni 2000 unanfechtbar geworden sind, sind nicht nach § 44 Abs. 1 des Zehnten Buches zurückzunehmen.
 
-(2) Versicherte, die Arbeitslosengeld, Unterhaltsgeld, Kurzarbeitergeld oder Qualifizierungsgeld, Qualifizierungsgeld bezogen haben, erhalten Verletztengeld in Höhe des Krankengeldes nach § 47b des Fünften Buches. Versicherte, die nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder nicht nur Leistungen für Erstausstattungen für Bekleidung bei Schwangerschaft und Geburt nach dem Zweiten Buch bezogen haben, erhalten Verletztengeld in Höhe des Betrages des Bürgergeldes nach § 19 Absatz 1 Satz 1 des Zweiten Buches.
+(2) Versicherte, die Arbeitslosengeld, Unterhaltsgeld, Kurzarbeitergeld oder Qualifizierungsgeld bezogen haben, erhalten Verletztengeld in Höhe des Krankengeldes nach § 47b des Fünften Buches. Versicherte, die nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches oder nicht nur Leistungen für Erstausstattungen für Bekleidung bei Schwangerschaft und Geburt nach dem Zweiten Buch bezogen haben, erhalten Verletztengeld in Höhe des Betrages des Bürgergeldes nach § 19 Absatz 1 Satz 1 des Zweiten Buches.
 
 (3) Versicherte, die als Entwicklungshelfer Unterhaltsleistungen nach § 4 Abs. 1 Nr. 1 des Entwicklungshelfer-Gesetzes bezogen haben, erhalten Verletztengeld in Höhe dieses Betrages.
 
-(4) Bei Versicherten, die unmittelbar vor dem Versicherungsfall Krankengeld, Pflegeunterstützungsgeld, Verletztengeld, Krankengeld der Sozialen Entschädigung oder Übergangsgeld bezogen haben, wird bei der Berechnung des Verletztengeldes von dem bisher zugrunde gelegten Regelentgelt ausgegangen.
+(4) Bei Versicherten, die unmittelbar vor dem Versicherungsfall Krankengeld, Pflegeunterstützungsgeld, Verletztengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung oder Übergangsgeld bezogen haben, wird bei der Berechnung des Verletztengeldes von dem bisher zugrunde gelegten Regelentgelt ausgegangen.
 
 (5) Abweichend von Absatz 1 erhalten Versicherte, die den Versicherungsfall infolge einer Tätigkeit als Unternehmer, mitarbeitende Ehegatten oder Lebenspartner oder den Unternehmern nach § 6 Abs. 1 Nr. 2 Gleichgestellte erlitten haben, Verletztengeld je Kalendertag in Höhe des 450. Teils des Jahresarbeitsverdienstes. Ist das Verletztengeld für einen ganzen Kalendermonat zu zahlen, ist dieser mit 30 Tagen anzusetzen.
 
@@ -1241,7 +1245,7 @@ Auf das Verletzten- und Übergangsgeld werden von dem gleichzeitig erzielten Ein
 1.  beitragspflichtiges Arbeitsentgelt oder Arbeitseinkommen, das bei Arbeitnehmern um die gesetzlichen Abzüge und bei sonstigen Versicherten um 20 vom Hundert vermindert ist; dies gilt nicht für einmalig gezahltes Arbeitsentgelt,
 
 
-2.  Mutterschaftsgeld, Krankengeld der Sozialen Entschädigung, Unterhaltsgeld, Kurzarbeitergeld, Qualifizierungsgeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches; dies gilt auch, wenn Ansprüche auf Leistungen nach dem Dritten Buch wegen einer Sperrzeit ruhen oder der Auszahlungsanspruch auf Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches gemindert ist.
+2.  Mutterschaftsgeld, Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung, Unterhaltsgeld, Kurzarbeitergeld, Qualifizierungsgeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches; dies gilt auch, wenn Ansprüche auf Leistungen nach dem Dritten Buch wegen einer Sperrzeit ruhen oder der Auszahlungsanspruch auf Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten Buches gemindert ist.
 
 
 
@@ -1321,7 +1325,7 @@ Auf das Verletzten- und Übergangsgeld werden von dem gleichzeitig erzielten Ein
 
 ##### § 56 Voraussetzungen und Höhe des Rentenanspruchs
 
-(1) Versicherte, deren Erwerbsfähigkeit infolge eines Versicherungsfalls über die 26. Woche nach dem Versicherungsfall hinaus um wenigstens 20 vom Hundert gemindert ist, haben Anspruch auf eine Rente. Ist die Erwerbsfähigkeit infolge mehrerer Versicherungsfälle gemindert und erreichen die Vomhundertsätze zusammen wenigstens die Zahl 20, besteht für jeden, auch für einen früheren Versicherungsfall, Anspruch auf Rente. Die Folgen eines Versicherungsfalls sind nur zu berücksichtigen, wenn sie die Erwerbsfähigkeit um wenigstens 10 vom Hundert mindern. Den Versicherungsfällen stehen gleich Unfälle oder Entschädigungsfälle nach den Beamtengesetzen, dem Vierzehnten Buch, dem Soldatenversorgungsgesetz, dem Gesetz über den zivilen Ersatzdienst, dem Gesetz über die Abgeltung von Besatzungsschäden, dem Häftlingshilfegesetz und den entsprechenden Gesetzen, die Entschädigung für Unfälle oder Beschädigungen gewähren.
+(1) Versicherte, deren Erwerbsfähigkeit infolge eines Versicherungsfalls über die 26. Woche nach dem Versicherungsfall hinaus um wenigstens 20 vom Hundert gemindert ist, haben Anspruch auf eine Rente. Ist die Erwerbsfähigkeit infolge mehrerer Versicherungsfälle gemindert und erreichen die Vomhundertsätze zusammen wenigstens die Zahl 20, besteht für jeden, auch für einen früheren Versicherungsfall, Anspruch auf Rente. Die Folgen eines Versicherungsfalls sind nur zu berücksichtigen, wenn sie die Erwerbsfähigkeit um wenigstens 10 vom Hundert mindern. Den Versicherungsfällen stehen gleich Unfälle oder Entschädigungsfälle nach den Beamtengesetzen, dem Vierzehnten Buch, dem Soldatenentschädigungsgesetz, dem Gesetz über den zivilen Ersatzdienst, dem Gesetz über die Abgeltung von Besatzungsschäden, dem Häftlingshilfegesetz und den entsprechenden Gesetzen, die Entschädigung für Unfälle oder Beschädigungen gewähren.
 
 (2) Die Minderung der Erwerbsfähigkeit richtet sich nach dem Umfang der sich aus der Beeinträchtigung des körperlichen und geistigen Leistungsvermögens ergebenden verminderten Arbeitsmöglichkeiten auf dem gesamten Gebiet des Erwerbslebens. Bei jugendlichen Versicherten wird die Minderung der Erwerbsfähigkeit nach den Auswirkungen bemessen, die sich bei Erwachsenen mit gleichem Gesundheitsschaden ergeben würden. Bei der Bemessung der Minderung der Erwerbsfähigkeit werden Nachteile berücksichtigt, die die Versicherten dadurch erleiden, daß sie bestimmte von ihnen erworbene besondere berufliche Kenntnisse und Erfahrungen infolge des Versicherungsfalls nicht mehr oder nur noch in vermindertem Umfang nutzen können, soweit solche Nachteile nicht durch sonstige Fähigkeiten, deren Nutzung ihnen zugemutet werden kann, ausgeglichen werden.
 
@@ -1352,7 +1356,7 @@ Für die Dauer einer Heimpflege von mehr als einem Kalendermonat kann der Unfall
 
 (1) Die Renten von Beamten, die nach § 82 Abs. 4 berechnet werden, werden nur insoweit gezahlt, als sie die Dienst- oder Versorgungsbezüge übersteigen; den Beamten verbleibt die Rente jedoch mindestens in Höhe des Betrages, der bei Vorliegen eines Dienstunfalls als Unfallausgleich zu gewähren wäre. Endet das Dienstverhältnis wegen Dienstunfähigkeit infolge des Versicherungsfalls, wird Vollrente insoweit gezahlt, als sie zusammen mit den Versorgungsbezügen aus dem Dienstverhältnis die Versorgungsbezüge, auf die der Beamte bei Vorliegen eines Dienstunfalls Anspruch hätte, nicht übersteigt. Die Höhe dieser Versorgungsbezüge stellt die Dienstbehörde fest. Für die Hinterbliebenen gilt dies entsprechend.
 
-(2) Absatz 1 gilt für die Berufssoldaten entsprechend. Anstelle des Unfallausgleichs wird der Ausgleich nach § 85 des Soldatenversorgungsgesetzes gezahlt.
+(2) Absatz 1 gilt für die Berufssoldaten entsprechend. Anstelle des Unfallausgleichs wird der Ausgleich für gesundheitliche Schädigungsfolgen nach § 11 des Soldatenentschädigungsgesetzes gezahlt.
 
 
 ##### § 62 Rente als vorläufige Entschädigung
@@ -1937,7 +1941,7 @@ haben, ist Satz 1 entsprechend anzuwenden; die Verringerung beträgt 35 vom Hund
 2.  Personen, die nach § 2 Abs. 1 Nr. 10, 11 oder 13 oder Abs. 3 Nr. 2 versichert sind,
 
 
-3.  Personen, die nach § 2 Abs. 1 Nr. 1 oder § 2 Absatz 3 Satz 1 Nummer 3 Buchstabe a versichert sind, wenn diese an einer besonderen Auslandsverwendung im Sinne des § 31a des Beamtenversorgungsgesetzes oder des § 63c des Soldatenversorgungsgesetzes teilnehmen, sowie Personen, die nach § 2 Absatz 3 Satz 1 Nummer 3 Buchstabe c versichert sind.
+3.  Personen, die nach § 2 Abs. 1 Nr. 1 oder § 2 Absatz 3 Satz 1 Nummer 3 Buchstabe a versichert sind, wenn diese an einer besonderen Auslandsverwendung im Sinne des § 31a des Beamtenversorgungsgesetzes oder des § 87 des Soldatenversorgungsgesetzes teilnehmen, sowie Personen, die nach § 2 Absatz 3 Satz 1 Nummer 3 Buchstabe c versichert sind.
 
 
 
@@ -3717,13 +3721,13 @@ innerhalb von vier Wochen dem Unfallversicherungsträger mitzuteilen.
 
 #### § 193 Pflicht zur Anzeige eines Versicherungsfalls durch die Unternehmer
 
-(1) Die Unternehmer haben Unfälle von Versicherten in ihren Unternehmen dem Unfallversicherungsträger anzuzeigen, wenn Versicherte getötet oder so verletzt sind, daß sie mehr als drei Tage arbeitsunfähig werden. Satz 1 gilt entsprechend für Unfälle von Versicherten, deren Versicherung weder eine Beschäftigung noch eine selbständige Tätigkeit voraussetzt.
+(1) Die Unternehmer haben Unfälle von Versicherten in ihren Unternehmen dem Unfallversicherungsträger anzuzeigen, wenn Versicherte getötet oder so verletzt sind, daß sie mehr als drei Tage arbeitsunfähig werden. Satz 1 gilt entsprechend für Unfälle von Versicherten, deren Versicherung weder eine Beschäftigung noch eine selbständige Tätigkeit voraussetzt. Unfälle der nach § 2 Absatz 1 Nummer 8 Versicherten sind anzuzeigen, wenn der Unfall infolge einer Tätigkeit eingetreten ist, die mit dem Besuch der Einrichtung zusammenhängt, und eine versicherte Person infolge des Unfalles ärztlich behandelt werden muss oder zu Tode gekommen ist.
 
 (2) Haben Unternehmer im Einzelfall Anhaltspunkte, daß bei Versicherten ihrer Unternehmen eine Berufskrankheit vorliegen könnte, haben sie diese dem Unfallversicherungsträger anzuzeigen.
 
 (3) Bei Unfällen der nach § 2 Abs. 1 Nr. 8 Buchstabe b Versicherten hat der Schulhoheitsträger die Unfälle auch dann anzuzeigen, wenn er nicht Unternehmer ist. Bei Unfällen der nach § 2 Absatz 1 Nummer 15 Buchstabe a und d Versicherten hat der Träger der Einrichtung, in der die stationäre oder teilstationäre Behandlung, die stationären, teilstationären oder ambulanten Leistungen zur medizinischen Rehabilitation oder zur Prävention erbracht werden, die Unfälle anzuzeigen.
 
-(4) Die Anzeige ist binnen drei Tagen zu erstatten, nachdem die Unternehmer von dem Unfall oder von den Anhaltspunkten für eine Berufskrankheit Kenntnis erlangt haben. Der Versicherte kann vom Unternehmer verlangen, daß ihm eine Kopie der Anzeige überlassen wird.
+(4) Die Anzeige ist binnen drei Tagen zu erstatten, nachdem die Unternehmer von dem Unfall oder von den Anhaltspunkten für eine Berufskrankheit Kenntnis erlangt haben. Der Versicherte hat das Recht, die Inhalte der Anzeige von dem anzeigenden Unternehmer in einem barrierefreien Format zu erhalten.
 
 (5) Die Anzeige ist vom Betriebs- oder Personalrat mit zu unterzeichnen; bei Erstattung der Anzeige durch Datenübertragung ist anzugeben, welches Mitglied des Betriebs- oder Personalrats vor der Absendung von ihr Kenntnis genommen hat. Der Unternehmer hat die Sicherheitsfachkraft und den Betriebsarzt über jede Unfall- oder Berufskrankheitenanzeige in Kenntnis zu setzen. Verlangt der Unfallversicherungsträger zur Feststellung, ob eine Berufskrankheit vorliegt, Auskünfte über gefährdende Tätigkeiten von Versicherten, haben die Unternehmer den Betriebs- oder Personalrat über dieses Auskunftsersuchen unverzüglich zu unterrichten.
 
@@ -4138,7 +4142,7 @@ Die Vorschriften des Ersten bis Neunten Kapitels gelten für Versicherungsfälle
 
 (2) Die Vorschriften über den Jahresarbeitsverdienst gelten nicht für Versicherungsfälle in dem in Artikel 3 des Einigungsvertrags genannten Gebiet, die vor dem 1. Januar 1992 eingetreten sind; für diese Versicherungsfälle ist § 1152 Abs. 2 der Reichsversicherungsordnung in der am Tag vor Inkrafttreten dieses Gesetzes geltenden Fassung weiter anzuwenden mit der Maßgabe, dass der zuletzt am 1. Juli 2001 angepasste Betrag aus § 1152 Abs. 2 der Reichsversicherungsordnung ab 1. Januar 2002 in Euro umgerechnet und auf volle Euro-Beträge aufgerundet wird.
 
-(3) Für Versicherungsfälle im Zuständigkeitsbereich der Unfallversicherung Bund und Bahn nach § 125 Absatz 1, die nach dem 31. Dezember 1991 eingetreten sind, gilt § 85 Abs. 2 Satz 1 mit der Maßgabe, daß der Jahresarbeitsverdienst höchstens das Zweifache der im Zeitpunkt des Versicherungsfalls geltenden Bezugsgröße (West) beträgt.
+(3) (weggefallen)
 
 (4) Für Versicherte an Bord von Seeschiffen und für nach § 2 Abs. 1 Nr. 7 versicherte Küstenschiffer und Küstenfischer ist § 1152 Abs. 6 der Reichsversicherungsordnung in der am Tag vor Inkrafttreten dieses Gesetzes geltenden Fassung weiter anzuwenden mit der Maßgabe, daß an die Stelle der dort genannten Vorschriften der Reichsversicherungsordnung § 92 dieses Buches tritt.
 
@@ -4153,9 +4157,8 @@ Die Vorschriften des Ersten bis Neunten Kapitels gelten für Versicherungsfälle
 (9) (weggefallen)
 
 
-### § 216 
+### § 216 (weggefallen)
 
-Soweit Vorschriften dieses Buches beim Jahresarbeitsverdienst oder beim Sterbegeld an die Bezugsgröße anknüpfen, ist die Bezugsgröße für das in Artikel 3 des Einigungsvertrags genannte Gebiet (Bezugsgröße (Ost)) maßgebend, wenn es sich um einen Versicherungsfall in diesem Gebiet handelt.
 
 
 ### § 217 Bestandsschutz
@@ -4414,9 +4417,8 @@ Der Angleichungssatz im ersten Jahr ergibt sich aus der Summe des Ausgangssatzes
 Bei Änderungen, die die zum Unternehmer oder zum Unternehmen gespeicherten Daten betreffen, gilt § 192 Absatz 2 entsprechend. Das Nähere zum Verfahren, zu den erforderlichen Angaben und zu den Datensätzen regelt die Deutsche Gesetzliche Unfallversicherung e. V. in Abstimmung mit der landwirtschaftlichen Berufsgenossenschaft in Grundsätzen, die durch das Bundesministerium für Arbeit und Soziales zu genehmigen sind.
 
 
-### § 225 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+### § 225 (weggefallen)
 
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 4 Absatz 1 Nummer 2, des § 45 Absatz 1 Nummer 2, des § 47 Absatz 4, des § 52 Nummer 2 und des § 56 Absatz 1 Satz 4 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 (zu § 114)
 

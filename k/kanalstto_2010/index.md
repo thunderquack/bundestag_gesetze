@@ -84,8 +84,8 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
 
 ## Anlage Verzeichnis der Entgelte
 
-(Fundstelle: BGBl. 2023 I Nr. 387, S. 1 – 4)
-
+(Fundstelle: BGBl. 2024 I Nr. 431, S. 1 – 4;
+bzgl. einzelner Änderungen vgl. Fußnote)
 
 *    *   **Es sind zu entrichten für**
 
@@ -116,7 +116,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   500
 
     *
-    *   1 090
+    *   1 201
 
 
 *    *   501 –
@@ -124,7 +124,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   600
 
     *
-    *   1 095
+    *   1 207
 
 
 *    *   601 –
@@ -132,7 +132,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   700
 
     *
-    *   1 100
+    *   1 212
 
 
 *    *   701 –
@@ -140,7 +140,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   800
 
     *
-    *   1 102
+    *   1 214
 
 
 *    *   801 –
@@ -148,7 +148,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   900
 
     *
-    *   1 107
+    *   1 220
 
 
 *    *   901 –
@@ -156,7 +156,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   1 000
 
     *
-    *   1 115
+    *   1 229
 
 
 *    *   1 001 –
@@ -164,7 +164,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   1 100
 
     *
-    *   1 120
+    *   1 234
 
 
 *    *   1 101 –
@@ -172,7 +172,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   1 200
 
     *
-    *   1 132
+    *   1 247
 
 
 *    *   1 201 –
@@ -180,7 +180,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   1 300
 
     *
-    *   1 141
+    *   1 257
 
 
 *    *   1 301 –
@@ -188,7 +188,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   1 400
 
     *
-    *   1 147
+    *   1 264
 
 
 *    *   1 401 –
@@ -196,7 +196,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   1 500
 
     *
-    *   1 157
+    *   1 275
 
 
 *    *   1 501 –
@@ -204,7 +204,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   1 600
 
     *
-    *   1 170
+    *   1 289
 
 
 *    *   1 601 –
@@ -212,7 +212,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   1 700
 
     *
-    *   1 175
+    *   1 295
 
 
 *    *   1 701 –
@@ -220,7 +220,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   1 800
 
     *
-    *   1 181
+    *   1 301
 
 
 *    *   1 801 –
@@ -228,7 +228,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   1 900
 
     *
-    *   1 195
+    *   1 317
 
 
 *    *   1 901 –
@@ -236,7 +236,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   2 000
 
     *
-    *   1 196
+    *   1 318
 
 
 *    *   2 001 –
@@ -244,7 +244,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   2 100
 
     *
-    *   1 197
+    *   1 319
 
 
 *    *   2 101 –
@@ -252,7 +252,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   2 200
 
     *
-    *   1 199
+    *   1 321
 
 
 *    *   2 201 –
@@ -260,7 +260,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   2 300
 
     *
-    *   1 202
+    *   1 325
 
 
 *    *   2 301 –
@@ -268,7 +268,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   2 400
 
     *
-    *   1 207
+    *   1 330
 
 
 *    *   2 401 –
@@ -276,7 +276,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   2 500
 
     *
-    *   1 214
+    *   1 338
 
 
 *    *   2 501 –
@@ -284,7 +284,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   2 600
 
     *
-    *   1 221
+    *   1 346
 
 
 *    *   2 601 –
@@ -292,7 +292,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   2 700
 
     *
-    *   1 223
+    *   1 348
 
 
 *    *   2 701 –
@@ -300,7 +300,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   2 800
 
     *
-    *   1 226
+    *   1 351
 
 
 *    *   2 801 –
@@ -308,7 +308,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   2 900
 
     *
-    *   1 237
+    *   1 363
 
 
 *    *   2 901 –
@@ -316,7 +316,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   3 000
 
     *
-    *   1 254
+    *   1 382
 
 
 *    *   3 001 –
@@ -324,7 +324,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   3 250
 
     *
-    *   1 265
+    *   1 394
 
 
 *    *   3 251 –
@@ -332,7 +332,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   3 500
 
     *
-    *   1 282
+    *   1 413
 
 
 *    *   3 501 –
@@ -340,7 +340,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   3 750
 
     *
-    *   1 286
+    *   1 417
 
 
 *    *   3 751 –
@@ -348,7 +348,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   4 000
 
     *
-    *   1 302
+    *   1 435
 
 
 *    *   4 001 –
@@ -356,7 +356,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   4 250
 
     *
-    *   1 306
+    *   1 439
 
 
 *    *   4 251 –
@@ -364,7 +364,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   4 500
 
     *
-    *   1 317
+    *   1 451
 
 
 *    *   4 501 –
@@ -372,7 +372,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   4 750
 
     *
-    *   1 342
+    *   1 479
 
 
 *    *   4 751 –
@@ -380,7 +380,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   5 000
 
     *
-    *   1 358
+    *   1 497
 
 
 *    *   5 001 –
@@ -388,7 +388,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   5 250
 
     *
-    *   1 366
+    *   1 505
 
 
 *    *   5 251 –
@@ -396,7 +396,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   5 500
 
     *
-    *   1 382
+    *   1 523
 
 
 *    *   5 501 –
@@ -404,7 +404,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   5 750
 
     *
-    *   1 396
+    *   1 538
 
 
 *    *   5 751 –
@@ -412,7 +412,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   6 000
 
     *
-    *   1 412
+    *   1 556
 
 
 *    *   6 001 –
@@ -420,7 +420,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   6 250
 
     *
-    *   1 421
+    *   1 566
 
 
 *    *   6 251 –
@@ -428,7 +428,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   6 500
 
     *
-    *   1 426
+    *   1 571
 
 
 *    *   6 501 –
@@ -436,7 +436,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   6 750
 
     *
-    *   1 448
+    *   1 596
 
 
 *    *   6 751 –
@@ -444,7 +444,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   7 000
 
     *
-    *   1 468
+    *   1 618
 
 
 *    *   7 001 –
@@ -452,7 +452,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   7 250
 
     *
-    *   1 484
+    *   1 635
 
 
 *    *   7 251 –
@@ -460,7 +460,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   7 500
 
     *
-    *   1 507
+    *   1 661
 
 
 *    *   7 501 –
@@ -468,7 +468,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   7 750
 
     *
-    *   1 525
+    *   1 681
 
 
 *    *   7 751 –
@@ -476,7 +476,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   8 000
 
     *
-    *   1 531
+    *   1 687
 
 
 *    *   8 001 –
@@ -484,7 +484,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   8 250
 
     *
-    *   1 538
+    *   1 695
 
 
 *    *   8 251 –
@@ -492,7 +492,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   8 500
 
     *
-    *   1 545
+    *   1 703
 
 
 *    *   8 501 –
@@ -500,7 +500,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   8 750
 
     *
-    *   1 549
+    *   1 707
 
 
 *    *   8 751 –
@@ -508,7 +508,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   9 000
 
     *
-    *   1 567
+    *   1 727
 
 
 *    *   9 001 –
@@ -516,7 +516,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   9 250
 
     *
-    *   1 582
+    *   1 743
 
 
 *    *   9 251 –
@@ -524,7 +524,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   9 500
 
     *
-    *   1 601
+    *   1 764
 
 
 *    *   9 501 –
@@ -532,7 +532,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   9 750
 
     *
-    *   1 620
+    *   1 785
 
 
 *    *   9 751 –
@@ -540,7 +540,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   10 000
 
     *
-    *   1 626
+    *   1 792
 
 
 *    *   10 001 –
@@ -548,7 +548,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   10 250
 
     *
-    *   1 633
+    *   1 800
 
 
 *    *   10 251 –
@@ -556,7 +556,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   10 500
 
     *
-    *   1 642
+    *   1 809
 
 
 *    *   10 501 –
@@ -564,7 +564,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   10 750
 
     *
-    *   1 661
+    *   1 830
 
 
 *    *   10 751 –
@@ -572,7 +572,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   11 000
 
     *
-    *   1 680
+    *   1 851
 
 
 *    *   11 001 –
@@ -580,7 +580,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   11 250
 
     *
-    *   1 703
+    *   1 877
 
 
 *    *   11 251 –
@@ -588,7 +588,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   11 500
 
     *
-    *   1 722
+    *   1 898
 
 
 *    *   11 501 –
@@ -596,7 +596,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   11 750
 
     *
-    *   1 741
+    *   1 919
 
 
 *    *   11 751 –
@@ -604,7 +604,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   12 000
 
     *
-    *   1 762
+    *   1 942
 
 
 *    *   12 001 –
@@ -612,7 +612,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   12 500
 
     *
-    *   1 767
+    *   1 947
 
 
 *    *   12 501 –
@@ -620,7 +620,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   13 000
 
     *
-    *   1 773
+    *   1 954
 
 
 *    *   13 001 –
@@ -628,7 +628,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   13 500
 
     *
-    *   1 787
+    *   1 969
 
 
 *    *   13 501 –
@@ -636,7 +636,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   14 000
 
     *
-    *   1 805
+    *   1 989
 
 
 *    *   14 001 –
@@ -644,7 +644,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   14 500
 
     *
-    *   1 836
+    *   2 023
 
 
 *    *   14 501 –
@@ -652,7 +652,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   15 000
 
     *
-    *   1 864
+    *   2 054
 
 
 *    *   15 001 –
@@ -660,7 +660,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   15 500
 
     *
-    *   1 867
+    *   2 057
 
 
 *    *   15 501 –
@@ -668,7 +668,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   16 000
 
     *
-    *   1 903
+    *   2 097
 
 
 *    *   16 001 –
@@ -676,7 +676,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   16 500
 
     *
-    *   1 932
+    *   2 129
 
 
 *    *   16 501 –
@@ -684,7 +684,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   17 000
 
     *
-    *   1 966
+    *   2 167
 
 
 *    *   17 001 –
@@ -692,7 +692,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   17 500
 
     *
-    *   1 991
+    *   2 194
 
 
 *    *   17 501 –
@@ -700,7 +700,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   18 000
 
     *
-    *   2 030
+    *   2 237
 
 
 *    *   18 001 –
@@ -708,7 +708,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   18 500
 
     *
-    *   2 057
+    *   2 267
 
 
 *    *   18 501 –
@@ -716,7 +716,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   19 000
 
     *
-    *   2 092
+    *   2 305
 
 
 *    *   19 001 –
@@ -724,7 +724,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   19 500
 
     *
-    *   2 125
+    *   2 342
 
 
 *    *   19 501 –
@@ -732,7 +732,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   20 000
 
     *
-    *   2 156
+    *   2 376
 
 
 *    *   20 001 –
@@ -740,7 +740,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   20 500
 
     *
-    *   2 163
+    *   2 384
 
 
 *    *   20 501 –
@@ -748,7 +748,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   21 000
 
     *
-    *   2 197
+    *   2 421
 
 
 *    *   21 001 –
@@ -756,7 +756,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   21 500
 
     *
-    *   2 221
+    *   2 448
 
 
 *    *   21 501 –
@@ -764,7 +764,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   22 000
 
     *
-    *   2 256
+    *   2 486
 
 
 *    *   22 001 –
@@ -772,7 +772,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   22 500
 
     *
-    *   2 287
+    *   2 520
 
 
 *    *   22 501 –
@@ -780,7 +780,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   23 000
 
     *
-    *   2 313
+    *   2 549
 
 
 *    *   23 001 –
@@ -788,7 +788,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   23 500
 
     *
-    *   2 325
+    *   2 562
 
 
 *    *   23 501 –
@@ -796,7 +796,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   24 000
 
     *
-    *   2 369
+    *   2 611
 
 
 *    *   24 001 –
@@ -804,7 +804,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   24 500
 
     *
-    *   2 408
+    *   2 654
 
 
 *    *   24 501 –
@@ -812,7 +812,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   25 000
 
     *
-    *   2 449
+    *   2 699
 
 
 *    *   25 001 –
@@ -820,7 +820,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   25 500
 
     *
-    *   2 465
+    *   2 716
 
 
 *    *   25 501 –
@@ -828,7 +828,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   26 000
 
     *
-    *   2 488
+    *   2 742
 
 
 *    *   26 001 –
@@ -836,7 +836,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   26 500
 
     *
-    *   2 504
+    *   2 759
 
 
 *    *   26 501 –
@@ -844,7 +844,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   27 000
 
     *
-    *   2 531
+    *   2 789
 
 
 *    *   27 001 –
@@ -852,7 +852,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   27 500
 
     *
-    *   2 552
+    *   2 812
 
 
 *    *   27 501 –
@@ -860,7 +860,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   28 000
 
     *
-    *   2 579
+    *   2 842
 
 
 *    *   28 001 –
@@ -868,7 +868,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   28 500
 
     *
-    *   2 606
+    *   2 872
 
 
 *    *   28 501 –
@@ -876,7 +876,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   29 000
 
     *
-    *   2 630
+    *   2 898
 
 
 *    *   29 001 –
@@ -884,7 +884,7 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   29 500
 
     *
-    *   2 673
+    *   2 946
 
 
 *    *   29 501 –
@@ -892,17 +892,17 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
     *   30 000
 
     *
-    *   2 703
+    *   2 979
 
 
-*    *   für jede weitere angefangene 500 über 30 000
+*    *   für jede weiteren angefangenen 500 über 30 000
 
-    *   30
+    *   33
 
 
 *    *   höchstens jedoch
 
-    *   3 767
+    *   4 151
 
 
 *    *   1.2
@@ -925,37 +925,37 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
 
 *    *   2
 
-    *   die Wartezeit an Bord bis zur Abfahrt des Fahrzeugs, wenn die Abfahrt aus nicht revierbedingten Gründen verzögert wird, nach Ablauf einer Stunde, für jede angefangene Stunde,
+    *   die Wartezeit an Bord bis zur Abfahrt des Fahrzeugs, wenn die Abfahrt aus nicht revierbedingten Gründen verzögert wird, nach Ablauf einer Stunde, für jede angefangene Stunde
 
-    *   63 Euro,
+    *   69 Euro,
 
 
 *    *   3
 
-    *   die Zeit der Fahrtunterbrechung, wenn das Fahrzeug aus nicht revierbedingten Gründen ankert oder festmacht, für jede angefangene Stunde,
+    *   die Zeit der Fahrtunterbrechung, wenn das Fahrzeug aus nicht revierbedingten Gründen ankert oder festmacht, für jede angefangene Stunde
 
-    *   51 Euro,
+    *   56 Euro,
 
 
 *    *   4
 
     *   die Tätigkeit bei den notwendigen Manövern in Fällen der Nummer 3 und Nummer 5
 
-    *   60 Euro,
+    *   66 Euro,
 
 
 *    *   5
 
     *   die Wartezeit an Bord des Fahrzeugs, wenn die Abfahrt oder Fortsetzung der Fahrt aus revierbedingten Gründen verzögert wird, nach Ablauf von zwei Stunden für jede weitere angefangene Stunde
 
-    *   49 Euro,
+    *   54 Euro,
 
 
 *    *   6
 
     *   die Wartezeit nach beendeter Tätigkeit bis zum Verlassen des Fahrzeugs, wenn der oder die Steurer auf Wunsch der Schiffsführung an Bord bleiben, für jede angefangene Stunde
 
-    *   51 Euro,
+    *   56 Euro,
 
 
 *    *   7
@@ -968,38 +968,39 @@ Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kana
 
     *   im Bereich der Binnenhäfen von Brunsbüttel und Kiel-Holtenau sowie an der Anlegebrücke der Bunkerstation Projensdorf
 
-    *   31 Euro,
+    *   34 Euro,
 
 
 *    *   7.2
 
     *   im übrigen Bereich des Nord-Ostsee-Kanals
 
-    *   45 Euro,
+    *   50 Euro,
 
 
 *    *   8
 
     *   den vergeblichen Weg, wenn der oder die Kanalsteurer aus anderen als revierbedingten Gründen nicht an Bord genommen oder vor Aufnahme ihrer Tätigkeit wieder entlassen werden
 
-    *   68 Euro,
+    *   75 Euro,
 
 
 *    *   9
 
     *   die Zeit der Abwesenheit von der Einsatzstation in Fällen der Nummer 8, wenn das Fahrzeug außerhalb der Schleusen des Nord-Ostsee-Kanals liegt, für jede angefangene Stunde
 
-    *   51 Euro,
+    *   56 Euro,
 
 
 *    *   10
 
     *   das Fehlen einer angemessenen Bordunterkunft ein Ausgleich in Höhe von
 
-    *   207 Euro.
+    *   228 Euro.
 
 
 *    *   Außerdem sind die Fahrtauslagen in Fällen der Nummern 7 und 8 zu erstatten.
+
 
 
 

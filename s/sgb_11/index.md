@@ -432,19 +432,21 @@ als Förderung der Pflegeeinrichtungen gilt. Zur finanziellen Förderung der Inv
 
 ### § 13 Verhältnis der Leistungen der Pflegeversicherung zu anderen Sozialleistungen
 
-(1) Den Leistungen der Pflegeversicherung gehen die Entschädigungsleistungen wegen Pflegebedürftigkeit
+(1) Den Leistungen der Pflegeversicherung gehen folgende Entschädigungsleistungen wegen Pflegebedürftigkeit vor:
 
-1.  nach dem Vierzehnten Buch und nach den Gesetzen, die eine entsprechende Anwendung des Vierzehnten Buches vorsehen,
-
-
-2.  aus der gesetzlichen Unfallversicherung und
+1.  Entschädigungsleistungen nach dem Vierzehnten Buch und nach den Gesetzen, die eine entsprechende Anwendung des Vierzehnten Buches vorsehen,
 
 
-3.  aus öffentlichen Kassen auf Grund gesetzlich geregelter Unfallversorgung oder Unfallfürsorge
+2.  Entschädigungsleistungen aus der gesetzlichen Unfallversicherung,
+
+
+3.  Entschädigungsleistungen aus öffentlichen Kassen auf Grund gesetzlich geregelter Unfallversorgung oder Unfallfürsorge und
+
+
+4.  Entschädigungsleistungen nach dem Soldatenentschädigungsgesetz.
 
 
 
-vor.
 
 (2) Die Leistungen nach dem Fünften Buch einschließlich der Leistungen der häuslichen Krankenpflege nach § 37 des Fünften Buches bleiben unberührt. Dies gilt auch für krankheitsspezifische Pflegemaßnahmen, soweit diese im Rahmen der häuslichen Krankenpflege nach § 37 des Fünften Buches oder der außerklinischen Intensivpflege nach § 37c des Fünften Buches zu leisten sind.
 
@@ -460,7 +462,7 @@ vor.
 
 
 
-vor, soweit dieses Buch nichts anderes bestimmt. Leistungen zur Pflege nach diesen Gesetzen sind zu gewähren, wenn und soweit Leistungen der Pflegeversicherung nicht erbracht werden oder diese Gesetze dem Grunde oder der Höhe nach weitergehende Leistungen als die Pflegeversicherung vorsehen. Die Leistungen der Eingliederungshilfe für Menschen mit Behinderungen nach dem Neunten Buch, die Leistungen zur Teilhabe nach dem Vierzehnten Buch und die Leistungen der Eingliederungshilfe nach dem Achten Buch bleiben unberührt, sie sind im Verhältnis zur Pflegeversicherung nicht nachrangig; die notwendige Hilfe in den Einrichtungen und Räumlichkeiten nach § 71 Abs. 4 ist einschließlich der Pflegeleistungen zu gewähren.
+vor, soweit dieses Buch nichts anderes bestimmt. Leistungen zur Pflege nach diesen Gesetzen sind zu gewähren, wenn und soweit Leistungen der Pflegeversicherung nicht erbracht werden oder diese Gesetze dem Grunde oder der Höhe nach weitergehende Leistungen als die Pflegeversicherung vorsehen. Die Leistungen der Eingliederungshilfe für Menschen mit Behinderungen nach dem Neunten Buch, die Leistungen zur Teilhabe nach dem Vierzehnten Buch, die Leistungen der Eingliederungshilfe nach dem Soldatenentschädigungsgesetz und die Leistungen der Eingliederungshilfe nach dem Achten Buch bleiben unberührt, sie sind im Verhältnis zur Pflegeversicherung nicht nachrangig; die notwendige Hilfe in den Einrichtungen und Räumlichkeiten nach § 71 Abs. 4 ist einschließlich der Pflegeleistungen zu gewähren.
 
 (3a) (weggefallen)
 
@@ -905,7 +907,7 @@ Pflegepersonen im Sinne dieses Buches sind Personen, die nicht erwerbsmäßig ei
 5.  Personen, die in Einrichtungen der Jugendhilfe, in Berufsbildungswerken oder in ähnlichen Einrichtungen für behinderte Menschen für eine Erwerbstätigkeit befähigt werden sollen,
 
 
-6.  Teilnehmer an Leistungen zur Teilhabe am Arbeitsleben sowie an Berufsfindung oder Arbeitserprobung, es sei denn, sie gehören zu dem Personenkreis des § 151 des Vierzehnten Buches,
+6.  Teilnehmer an Leistungen zur Teilhabe am Arbeitsleben sowie an Berufsfindung oder Arbeitserprobung, es sei denn, sie gehören zu dem Personenkreis des § 151 des Vierzehnten Buches oder des § 81 Absatz 3 des Soldatenentschädigungsgesetzes,
 
 
 7.  behinderte Menschen, die in anerkannten Werkstätten für behinderte Menschen oder in Blindenwerkstätten im Sinne des § 226 des Neunten Buches oder für diese Einrichtungen in Heimarbeit oder bei einem anderen Leistungsanbieter nach § 60 des Neunten Buches tätig sind,
@@ -950,7 +952,7 @@ Versicherungspflicht in der sozialen Pflegeversicherung besteht auch für Person
 2.  Kriegsschadenrente oder vergleichbare Leistungen nach dem Lastenausgleichsgesetz oder dem Reparationsschädengesetz oder laufende Beihilfe nach dem Flüchtlingshilfegesetz beziehen,
 
 
-3.  nach § 145 Absatz 2 Nummer 4 des Vierzehnten Buches ergänzende Hilfe zum Lebensunterhalt nach dem Bundesversorgungsgesetz weiter erhalten oder Leistungen zum Lebensunterhalt nach § 93 des Vierzehnten Buches beziehen,
+3.  nach § 145 Absatz 2 Nummer 4 des Vierzehnten Buches oder nach § 84 Absatz 1 in Verbindung mit Absatz 2 Nummer 4 des Soldatenentschädigungsgesetzes ergänzende Hilfe zum Lebensunterhalt nach dem Bundesversorgungsgesetz weiter erhalten oder Leistungen zum Lebensunterhalt nach § 93 des Vierzehnten Buches beziehen,
 
 
 4.  laufende Leistungen zum Unterhalt und Leistungen der Krankenhilfe nach dem Achten Buch beziehen,
@@ -1003,7 +1005,7 @@ wenn sie gegen das Risiko Krankheit weder in der gesetzlichen Krankenversicherun
 
 (4a) Die Absätze 1 und 3 gelten entsprechend für Mitglieder von Solidargemeinschaften, deren Mitgliedschaft gemäß § 176 Absatz 1 des Fünften Buches als ein mit dem Anspruch auf freie Heilfürsorge oder einer Beihilfeberechtigung vergleichbarer Anspruch im Sinne des § 193 Absatz 3 Satz 2 Nummer 2 des Versicherungsvertragsgesetzes gilt und die ohne die Mitgliedschaft in der Solidargemeinschaft nach § 193 Absatz 3 des Versicherungsvertragsgesetzes verpflichtet wären, eine Krankheitskostenversicherung abzuschließen. Eine Kündigung des Versicherungsvertrages wird bei fortbestehender Versicherungspflicht erst wirksam, wenn der Versicherungsnehmer nachweist, dass die versicherte Person bei einem neuen Versicherer ohne Unterbrechung versichert ist. Sofern ein Mitglied bereits gegen das Risiko der Pflegebedürftigkeit in der sozialen Pflegeversicherung versichert ist, gilt die Versicherungspflicht nach Satz 1 als erfüllt. § 21a Absatz 2 bleibt unberührt.
 
-(5) Die Absätze 1, 3 und 4 gelten nicht für Personen, die sich auf nicht absehbare Dauer in stationärer Pflege befinden und bereits Leistungen bei Pflegebedürftigkeit nach § 74 Satz 1 Nummer 1 des Vierzehnten Buches oder Pflegeleistungen für Geschädigte nach § 146 Absatz 2 des Vierzehnten Buches in Verbindung mit § 43 des Elften Buches, nach § 44 des Siebten Buches, nach § 34 des Beamtenversorgungsgesetzes oder nach Gesetzen erhalten, die eine entsprechende Anwendung des Vierzehnten Buches vorsehen, sofern sie keine Familienangehörigen haben, für die in der sozialen Pflegeversicherung nach § 25 eine Familienversicherung bestünde.
+(5) Die Absätze 1, 3 und 4 gelten nicht für Personen, die sich auf nicht absehbare Dauer in stationärer Pflege befinden und bereits Leistungen bei Pflegebedürftigkeit nach § 74 Satz 1 Nummer 1 des Vierzehnten Buches oder Pflegeleistungen für Geschädigte nach § 146 Absatz 2 des Vierzehnten Buches in Verbindung mit § 43 des Elften Buches, nach § 44 des Siebten Buches, nach § 16 Nummer 8 des Soldatenentschädigungsgesetzes in Verbindung mit § 17 des Soldatenentschädigungsgesetzes, nach § 34 des Beamtenversorgungsgesetzes oder nach Gesetzen erhalten, die eine entsprechende Anwendung des Vierzehnten Buches vorsehen, sofern sie keine Familienangehörigen haben, für die in der sozialen Pflegeversicherung nach § 25 eine Familienversicherung bestünde.
 
 (6) Das private Krankenversicherungsunternehmen oder ein anderes die Pflegeversicherung betreibendes Versicherungsunternehmen sind verpflichtet,
 
@@ -1271,7 +1273,7 @@ Auf Leistungen besteht kein Anspruch, wenn sich Personen in den Geltungsbereich 
 1.  solange sich der Versicherte im Ausland aufhält. Bei vorübergehendem Auslandsaufenthalt von bis zu sechs Wochen im Kalenderjahr ist das Pflegegeld nach § 37 oder anteiliges Pflegegeld nach § 38 weiter zu gewähren. Für die Pflegesachleistung gilt dies nur, soweit die Pflegekraft, die ansonsten die Pflegesachleistung erbringt, den Pflegebedürftigen während des Auslandsaufenthaltes begleitet,
 
 
-2.  soweit Versicherte Entschädigungsleistungen wegen Pflegebedürftigkeit aus der gesetzlichen Unfallversicherung oder aus öffentlichen Kassen auf Grund gesetzlich geregelter Unfallversorgung oder Unfallfürsorge erhalten. Dies gilt auch, wenn vergleichbare Leistungen aus dem Ausland oder von einer zwischenstaatlichen oder überstaatlichen Einrichtung bezogen werden.
+2.  soweit Versicherte Entschädigungsleistungen wegen Pflegebedürftigkeit aus der gesetzlichen Unfallversicherung, nach dem Soldatenentschädigungsgesetz oder aus öffentlichen Kassen auf Grund gesetzlich geregelter Unfallversorgung oder Unfallfürsorge erhalten. Dies gilt auch, wenn vergleichbare Leistungen aus dem Ausland oder von einer zwischenstaatlichen oder überstaatlichen Einrichtung bezogen werden.
 
 
 
@@ -2008,7 +2010,10 @@ Ab 1. Januar 1996 können sie die Mitgliedschaft bei der Pflegekasse wählen, di
 5.  der Leistungsträger für Krankenversorgungsberechtigte nach dem Bundesentschädigungsgesetz,
 
 
-6.  der Dienstherr für Soldaten auf Zeit.
+6.  der Dienstherr für Soldaten auf Zeit,
+
+
+7.  die Bundeswehrverwaltung für geschädigte Personen nach dem Soldatenentschädigungsgesetz.
 
 
 
@@ -2271,7 +2276,7 @@ Satz 1 gilt nicht, wenn der Rentenantragsteller eine eigene Rente, Arbeitsentgel
 
 (3) Beitragsfrei sind Mitglieder für die Dauer des Bezuges von Mutterschafts- oder Elterngeld. Die Beitragsfreiheit erstreckt sich nur auf die in Satz 1 genannten Leistungen.
 
-(4) Beitragsfrei sind auf Antrag Mitglieder, die sich auf nicht absehbare Dauer in stationärer Pflege befinden und bereits Leistungen bei Pflegebedürftigkeit nach § 74 Satz 1 Nummer 1 des Vierzehnten Buches oder Pflegeleistungen für Geschädigte nach § 146 Absatz 2 des Vierzehnten Buches in Verbindung mit § 43 des Elften Buches, nach § 44 des Siebten Buches, nach § 34 des Beamtenversorgungsgesetzes oder nach Gesetzen erhalten, die eine entsprechende Anwendung des Vierzehnten Buches vorsehen, sofern sie keine Familienangehörigen haben, für die eine Versicherung nach § 25 besteht.
+(4) Beitragsfrei sind auf Antrag Mitglieder, die sich auf nicht absehbare Dauer in stationärer Pflege befinden und bereits Leistungen bei Pflegebedürftigkeit nach § 74 Satz 1 Nummer 1 des Vierzehnten Buches oder Pflegeleistungen für Geschädigte nach § 146 Absatz 2 des Vierzehnten Buches in Verbindung mit § 43 des Elften Buches, nach § 44 des Siebten Buches, nach § 34 des Beamtenversorgungsgesetzes, nach § 16 Nummer 8 des Soldatenentschädigungsgesetzes in Verbindung mit § 17 des Soldatenentschädigungsgesetzes oder nach Gesetzen erhalten, die eine entsprechende Anwendung des Vierzehnten Buches vorsehen, sofern sie keine Familienangehörigen haben, für die eine Versicherung nach § 25 besteht.
 
 (5) Beitragsfrei sind Mitglieder für die Dauer des Bezuges von Pflegeunterstützungsgeld. Die Beitragsfreiheit erstreckt sich nur auf die in Satz 1 genannten Leistungen.
 
@@ -2284,7 +2289,7 @@ Satz 1 gilt nicht, wenn der Rentenantragsteller eine eigene Rente, Arbeitsentgel
 
 (3) Für die Beitragsbemessung der in § 20 Absatz 1 Satz 2 Nummer 3 genannten Altenteiler gilt § 45 des Zweiten Gesetzes über die Krankenversicherung der Landwirte.
 
-(4) Bei freiwilligen Mitgliedern der gesetzlichen Krankenversicherung und bei Mitgliedern der sozialen Pflegeversicherung, die nicht in der gesetzlichen Krankenversicherung versichert sind, ist für die Beitragsbemessung § 240 des Fünften Buches entsprechend anzuwenden. Für die Beitragsbemessung der in der gesetzlichen Krankenversicherung versicherten Rentenantragsteller und freiwillig versicherten Rentner finden darüber hinaus die §§ 238a und 239 des Fünften Buches entsprechende Anwendung. Abweichend von Satz 1 ist bei Mitgliedern nach § 20 Abs. 1 Nr. 10, die in der gesetzlichen Krankenversicherung freiwillig versichert sind, § 236 des Fünften Buches entsprechend anzuwenden; als beitragspflichtige Einnahmen der satzungsmäßigen Mitglieder geistlicher Genossenschaften, Diakonissen und ähnlicher Personen, die freiwillig in der gesetzlichen Krankenversicherung versichert sind, sind der Wert für gewährte Sachbezüge oder das ihnen zur Beschaffung der unmittelbaren Lebensbedürfnisse an Wohnung, Verpflegung, Kleidung und dergleichen gezahlte Entgelt zugrunde zu legen. Bei freiwilligen Mitgliedern der gesetzlichen Krankenversicherung, die von einem Rehabilitationsträger Verletztengeld, Krankengeld der Sozialen Entschädigung oder Übergangsgeld erhalten, gilt für die Beitragsbemessung § 235 Abs. 2 des Fünften Buches entsprechend; für die in der landwirtschaftlichen Krankenversicherung freiwillig Versicherten gilt § 46 des Zweiten Gesetzes über die Krankenversicherung der Landwirte.
+(4) Bei freiwilligen Mitgliedern der gesetzlichen Krankenversicherung und bei Mitgliedern der sozialen Pflegeversicherung, die nicht in der gesetzlichen Krankenversicherung versichert sind, ist für die Beitragsbemessung § 240 des Fünften Buches entsprechend anzuwenden. Für die Beitragsbemessung der in der gesetzlichen Krankenversicherung versicherten Rentenantragsteller und freiwillig versicherten Rentner finden darüber hinaus die §§ 238a und 239 des Fünften Buches entsprechende Anwendung. Abweichend von Satz 1 ist bei Mitgliedern nach § 20 Abs. 1 Nr. 10, die in der gesetzlichen Krankenversicherung freiwillig versichert sind, § 236 des Fünften Buches entsprechend anzuwenden; als beitragspflichtige Einnahmen der satzungsmäßigen Mitglieder geistlicher Genossenschaften, Diakonissen und ähnlicher Personen, die freiwillig in der gesetzlichen Krankenversicherung versichert sind, sind der Wert für gewährte Sachbezüge oder das ihnen zur Beschaffung der unmittelbaren Lebensbedürfnisse an Wohnung, Verpflegung, Kleidung und dergleichen gezahlte Entgelt zugrunde zu legen. Bei freiwilligen Mitgliedern der gesetzlichen Krankenversicherung, die von einem Rehabilitationsträger Verletztengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung oder Übergangsgeld erhalten, gilt für die Beitragsbemessung § 235 Abs. 2 des Fünften Buches entsprechend; für die in der landwirtschaftlichen Krankenversicherung freiwillig Versicherten gilt § 46 des Zweiten Gesetzes über die Krankenversicherung der Landwirte.
 
 (5) Der Beitragsberechnung von Personen, die nach § 26 Abs. 2 weiterversichert sind, werden für den Kalendertag der 180. Teil der monatlichen Bezugsgröße nach § 18 des Vierten Buches zugrunde gelegt.
 
@@ -2312,7 +2317,7 @@ Satz 1 gilt nicht, wenn der Rentenantragsteller eine eigene Rente, Arbeitsentgel
 
 (4) Mitglieder der sozialen Pflegeversicherung, die in der gesetzlichen Krankenversicherung freiwillig versichert sind, sowie Mitglieder, deren Mitgliedschaft nach § 49 Abs. 2 Satz 1 erhalten bleibt oder nach den §§ 26 und 26a freiwillig versichert sind, und die nach § 21 Nr. 6 versicherten Soldaten auf Zeit sowie die nach § 21a Absatz 1 Satz 1 versicherten Mitglieder von Solidargemeinschaften tragen den Beitrag allein. Abweichend von Satz 1 werden
 
-1.  die auf Grund des Bezuges von Verletztengeld, Krankengeld der Sozialen Entschädigung nach Kapitel 5 des Vierzehnten Buches oder von Übergangsgeld zu zahlenden Beiträge von dem zuständigen Rehabilitationsträger,
+1.  die auf Grund des Bezuges von Verletztengeld, Krankengeld der Sozialen Entschädigung nach Kapitel 5 des Vierzehnten Buches, Krankengeld der Soldatenentschädigung oder von Übergangsgeld zu zahlenden Beiträge von dem zuständigen Rehabilitationsträger,
 
 
 2.  die Beiträge für satzungsmäßige Mitglieder geistlicher Genossenschaften, Diakonissen und ähnliche Personen einschließlich der Beiträge bei einer Weiterversicherung nach § 26 von der Gemeinschaft
@@ -3029,9 +3034,9 @@ Die Pflegevergütung ist von den Pflegebedürftigen oder deren Kostenträgern zu
 
 #### § 82a Ausbildungsvergütung
 
-(1) Die Ausbildungsvergütung im Sinne dieser Vorschrift umfasst die Vergütung, die aufgrund von Rechtsvorschriften, Tarifverträgen, entsprechenden allgemeinen Vergütungsregelungen oder aufgrund vertraglicher Vereinbarungen an Personen, die nach Bundesrecht in der Altenpflege oder nach Landesrecht in der Altenpflegehilfe ausgebildet werden, während der Dauer ihrer praktischen oder theoretischen Ausbildung zu zahlen ist, sowie die nach § 17 Abs. 1a des Altenpflegegesetzes zu erstattenden Weiterbildungskosten.
+(1) Die Ausbildungsvergütung im Sinne dieser Vorschrift umfasst die Vergütung, die aufgrund von Rechtsvorschriften, Tarifverträgen, entsprechenden allgemeinen Vergütungsregelungen oder aufgrund vertraglicher Vereinbarungen an Personen, die nach Landesrecht in der Altenpflegehilfe ausgebildet werden, während der Dauer ihrer praktischen oder theoretischen Ausbildung zu zahlen ist.
 
-(2) Soweit eine nach diesem Gesetz zugelassene Pflegeeinrichtung nach Bundesrecht zur Ausbildung in der Altenpflege oder nach Landesrecht zur Ausbildung in der Altenpflegehilfe berechtigt oder verpflichtet ist, ist die Ausbildungsvergütung der Personen, die aufgrund eines entsprechenden Ausbildungsvertrages mit der Einrichtung oder ihrem Träger zum Zwecke der Ausbildung in der Einrichtung tätig sind, während der Dauer des Ausbildungsverhältnisses in der Vergütung der allgemeinen Pflegeleistungen (§ 84 Abs. 1, § 89) berücksichtigungsfähig. Betreut die Einrichtung auch Personen, die nicht pflegebedürftig im Sinne dieses Buches sind, so ist in der Pflegevergütung nach Satz 1 nur der Anteil an der Gesamtsumme der Ausbildungsvergütungen berücksichtigungsfähig, der bei einer gleichmäßigen Verteilung der Gesamtsumme auf alle betreuten Personen auf die Pflegebedürftigen im Sinne dieses Buches entfällt. Soweit die Ausbildungsvergütung im Pflegesatz eines zugelassenen Pflegeheimes zu berücksichtigen ist, ist der Anteil, der auf die Pflegebedürftigen im Sinne dieses Buches entfällt, gleichmäßig auf alle pflegebedürftigen Heimbewohner zu verteilen. Satz 1 gilt nicht, soweit
+(2) Soweit eine nach diesem Gesetz zugelassene Pflegeeinrichtung nach Landesrecht zur Ausbildung in der Altenpflegehilfe berechtigt oder verpflichtet ist, ist die Ausbildungsvergütung der Personen, die aufgrund eines entsprechenden Ausbildungsvertrages mit der Einrichtung oder ihrem Träger zum Zwecke der Ausbildung in der Einrichtung tätig sind, während der Dauer des Ausbildungsverhältnisses in der Vergütung der allgemeinen Pflegeleistungen (§ 84 Abs. 1, § 89) berücksichtigungsfähig. Betreut die Einrichtung auch Personen, die nicht pflegebedürftig im Sinne dieses Buches sind, so ist in der Pflegevergütung nach Satz 1 nur der Anteil an der Gesamtsumme der Ausbildungsvergütungen berücksichtigungsfähig, der bei einer gleichmäßigen Verteilung der Gesamtsumme auf alle betreuten Personen auf die Pflegebedürftigen im Sinne dieses Buches entfällt. Soweit die Ausbildungsvergütung im Pflegesatz eines zugelassenen Pflegeheimes zu berücksichtigen ist, ist der Anteil, der auf die Pflegebedürftigen im Sinne dieses Buches entfällt, gleichmäßig auf alle pflegebedürftigen Heimbewohner zu verteilen. Satz 1 gilt nicht, soweit
 
 1.  die Ausbildungsvergütung oder eine entsprechende Vergütung nach anderen Vorschriften aufgebracht wird oder
 
@@ -3047,7 +3052,7 @@ Die Ausbildungsvergütung ist in der Vergütungsvereinbarung über die allgemein
 1.  Die Kosten der Ausbildungsvergütung werden nach einheitlichen Grundsätzen gleichmäßig auf alle zugelassenen ambulanten, teilstationären und stationären Pflegeeinrichtungen und die Altenheime im Land verteilt. Bei der Bemessung und Verteilung der Umlage ist sicherzustellen, daß der Verteilungsmaßstab nicht einseitig zu Lasten der zugelassenen Pflegeeinrichtungen gewichtet ist. Im übrigen gilt Absatz 2 Satz 2 und 3 entsprechend.
 
 
-2.  Die Gesamthöhe der Umlage darf den voraussichtlichen Mittelbedarf zur Finanzierung eines angemessenen Angebots an Ausbildungsplätzen nicht überschreiten.
+2.  Die Gesamthöhe der Umlage darf den voraussichtlichen Mittelbedarf zur Finanzierung eines angemessenen Angebots an Ausbildungsplätzen nicht überschreiten; bei der Prüfung der Angemessenheit des Angebots an Ausbildungsplätzen ist zu berücksichtigen, dass eine abgeschlossene landesrechtlich geregelte Assistenz- oder Helferausbildung in der Pflege nach § 11 Absatz 1 Nummer 2 Buchstabe b des Pflegeberufegesetzes den Zugang zur Ausbildung nach dem Pflegeberufegesetz ermöglicht und nach § 12 Absatz 2 des Pflegeberufegesetzes auch zu einer Anrechnung und Verkürzung der Ausbildung führen kann.
 
 
 3.  Aufwendungen für die Vorhaltung, Instandsetzung oder Instandhaltung von Ausbildungsstätten (§§ 9, 82 Abs. 2 bis 4), für deren laufende Betriebskosten (Personal- und Sachkosten) sowie für die Verwaltungskosten der nach Landesrecht für das Umlageverfahren zuständigen Stelle bleiben unberücksichtigt.
@@ -5094,8 +5099,6 @@ Sowohl Personen- und Altersgruppen als auch Begutachtungsanlässe und Begutachtu
 (4) Die im Jahr 2015 gemäß § 45c zur Verfügung gestellten Fördermittel, die nach § 45c Absatz 5 Satz 2 in der bis zum 31. Dezember 2016 geltenden Fassung auf das Folgejahr 2016 übertragen und bis zum Ende des Jahres 2016 in den Ländern nicht in Anspruch genommen worden sind, können im Jahr 2017 gemäß § 45c Absatz 6 Satz 3 bis 9 in der ab dem 1. Januar 2017 geltenden Fassung von den Ländern beantragt werden, die im Jahr 2015 mindestens 80 Prozent der auf sie gemäß § 45c Absatz 5 Satz 1 in der bis zum 31. Dezember 2016 geltenden Fassung nach dem Königsteiner Schlüssel entfallenden Mittel ausgeschöpft haben.
 
 (5) In Fällen, in denen am 31. Dezember 2016 der Bezug von Leistungen der Pflegeversicherung mit Leistungen der Eingliederungshilfe für Menschen mit Behinderungen nach dem Zwölften Buch, dem Bundesversorgungsgesetz oder dem Achten Buch bereits zusammentrifft, muss eine Vereinbarung nach § 13 Absatz 4 in der ab dem 1. Januar 2017 geltenden Fassung nur dann abgeschlossen werden, wenn einer der beteiligten Träger oder der Leistungsbezieher dies verlangt. Trifft der Bezug von Leistungen der Pflegeversicherung außerdem mit Leistungen der Hilfe zur Pflege nach dem Zwölften Buch oder dem Bundesversorgungsgesetz zusammen, gilt Satz 1 entsprechend.
-
-(6) Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 13 Absatz 1 Nummer 1, Absatz 3 Satz 1 Nummer 3 und Satz 3, des § 20 Absatz 1 Satz 2 Nummer 6, des § 21 Nummer 1 und 3, des § 23 Absatz 5, des § 34 Absatz 1 Nummer 2, des § 50 Absatz 2 Nummer 1 und 3, des § 56 Absatz 4, des § 57 Absatz 4 Satz 4, des § 59 Absatz 3 Satz 2 und Absatz 4 Satz 2 Nummer 1 und des § 144 Absatz 5 Satz 2 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 
 #### § 145 Besitzstandsschutz für pflegebedürftige Menschen mit Behinderungen in häuslicher Pflege

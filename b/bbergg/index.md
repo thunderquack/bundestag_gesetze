@@ -125,7 +125,7 @@ Als bergfreie Bodenschätze gelten:
     a)  alle Bodenschätze im Bereich der Küstengewässer sowie
 
 
-    b)  Erdwärme und die im Zusammenhang mit ihrer Gewinnung auftretenden anderen Energien (Erdwärme).
+    b)  Erdwärme aus Bohrungen ab einer Teufe von 400 Metern und die im Zusammenhang mit ihrer Gewinnung auftretenden anderen Energien.
 
 
 

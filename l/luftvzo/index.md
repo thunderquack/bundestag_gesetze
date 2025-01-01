@@ -637,86 +637,12 @@ Das Luftfahrt-Bundesamt ist Durchsetzungs- und Beschwerdestelle im Sinne der Art
 (2) Die Rücknahme, der Widerruf oder das Erlöschen der Genehmigung aus anderen Gründen ist bekannt zu machen; § 42 Abs. 4 Satz 1 ist sinngemäß anzuwenden.
 
 
-### 2. - Lärmbedingte Betriebsbeschränkungen von knapp die Vorschriften erfüllenden zivilen Unterschallstrahlflugzeugen an Flughäfen
+### 2. - (§§ 48a bis 48f weggefallen)
 
 
 
-#### § 48a Begriffsbestimmungen
+#### (XXXX) §§ 48a bis 48f (weggefallen)
 
-Im Sinne der §§ 48a bis 48f ist:
-
-1.  "Flughafen" ein Zivilflughafen mit mehr als 50.000 Flugbewegungen ziviler Unterschallstrahlflugzeuge im Kalenderjahr (Starts oder Landungen) unter Berücksichtigung des Durchschnitts der letzten drei Kalenderjahre vor der Anwendung der §§ 48a bis 48f auf dem betreffenden Flughafen;
-
-
-2.  "Stadtflughafen" ein ziviler Flughafen, der im Anhang I der Richtlinie 2002/30/EG des Europäischen Parlaments und des Rates vom 26. März 2002 über Regeln und Verfahren für lärmbedingte Betriebsbeschränkungen auf Flughäfen der Gemeinschaft (ABl. EG Nr. L 85 S. 40) aufgeführt ist;
-
-
-3.  "ziviles Unterschallstrahlflugzeug" ein Flugzeug mit einer höchstzulässigen Startmasse von 34.000 Kilogramm oder mehr oder dessen Baureihe mit Sitzplätzen für mehr als 19 Passagiere zugelassen ist;
-
-
-4.  "knapp die Vorschriften erfüllendes Luftfahrzeug" ein ziviles Unterschallstrahlflugzeug, das die im Band I Teil II Kapitel 3 des Anhangs 16 des Abkommens vom 7. Dezember 1944 über die Internationale Zivilluftfahrt (BGBl. 1956 II S. 411) festgelegten Höchstwerte um eine kumulative Marge von höchstens fünf EPNdB (Effektive Perceived Noise in Dezibel) unterschreitet, wobei die kumulative Marge die in EPNdB ausgedrückte Zahl ist, die man durch Addieren der einzelnen Margen (d. h. der Differenzen zwischen dem bescheinigten Lärmpegel und dem zulässigen Lärmhöchstpegel) jeder der drei Referenzlärmmesspunkte, wie sie im Band I Teil II Kapitel 3 des Anhangs 16 des Abkommens über die Internationale Zivilluftfahrt festgelegt sind, erhält;
-
-
-5.  "Betriebsbeschränkung" eine lärmrelevante Maßnahme zur Begrenzung oder Reduzierung des Zugangs ziviler Unterschallstrahlflugzeuge zu einem Flughafen. Darin eingeschlossen sind Betriebsbeschränkungen, durch die knapp die Vorschriften erfüllende Luftfahrzeuge von bestimmten Flughäfen abgezogen werden sollen sowie partielle Betriebsbeschränkungen, die den Betrieb ziviler Unterschallstrahlflugzeuge je nach Zeitraum einschränken;
-
-
-6.  "ausgewogener Ansatz" der Ansatz, innerhalb dessen die Luftfahrtbehörde die möglichen Maßnahmen zur Lösung des Lärmproblems auf einem Flughafen prüft, insbesondere die absehbare Auswirkung einer Reduzierung des Fluglärms an der Quelle, der Flächennutzungsplanung und -verwaltung, der lärmmindernden Betriebsverfahren und Betriebsbeschränkungen;
-
-
-7.  "Entwicklungsland" ein Staat, der von der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) in der Liste der Empfänger von offizieller Entwicklungshilfe - Teil 1 in der jeweils zuletzt veröffentlichten Fassung erfasst ist. Dies gilt nicht für den Fall, dass ein dort genannter Staat Vertragsstaat der Internationalen Zivilluftfahrt Organisation (ICAO) ist und dort einen Beitrag leistet, der über dem von dieser Organisation festgelegten Mindestbeitragssatz liegt. Für Staaten, die nicht Vertragsstaaten der Internationalen Zivilluftfahrt Organisation sind, ist die Einstufung der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung maßgeblich;
-
-
-8.  "Betroffener" eine natürliche oder juristische Person, die von Lärmminderungsmaßnahmen, einschließlich Betriebsbeschränkungen betroffen ist oder betroffen werden kann oder ein berechtigtes Interesse an solchen Maßnahmen hat.
-
-
-
-
-
-#### § 48b Lärmbedingte Betriebsbeschränkungen an einem Flughafen
-
-(1) Die Luftfahrtbehörde kann unbeschadet anderweitig bereits bestehender oder möglicher Betriebsbeschränkungen für einen Flughafen zur Verminderung des vom Flugbetrieb ausgehenden Lärms den Zugang von knapp die Vorschriften erfüllenden zivilen Unterschallstrahlflugzeugen beschränken.
-
-(2) Bei einem Stadtflughafen kann die zuständige Luftfahrtbehörde wegen der objektiv höheren Lärmsensitivität Maßnahmen im Sinne von § 48a Nr. 5 hinsichtlich der in Nummer 4 dieser Vorschrift genannten Luftfahrzeuge anwenden, sofern die im Band I Teil II Kapitel 3 des Anhangs 16 des Abkommens vom 7. Dezember 1944 über die Internationale Zivilluftfahrt (BGBl. 1956 II S. 411) festgelegten Höchstwerte um eine kumulative Marge von bis zu zehn EPNdB (Effective Perceived Noise in Dezibel) unterschritten werden. Dabei ist die kumulative Marge die in EPNdB ausgedrückte Zahl, die man durch Addition einzelner Margen (d. h. der Differenzen zwischen dem bescheinigten Lärmpegel und dem zulässigen Lärmhöchstpegel) jeder der drei Referenzlärmmesspunkte erhält, wie sie im Band I Teil II Kapitel 3 des Anhangs 16 des Abkommens über die Internationale Zivilluftfahrt festgelegt sind.
-
-(3) Betriebsbeschränkungen nach Absatz 1 oder 2 können nur dann ausgesprochen werden, wenn unter Beachtung des ausgewogenen Ansatzes alle danach möglichen Maßnahmen zur Lösung des Lärmproblems an dem jeweiligen Flughafen geprüft worden sind. Die voraussichtlichen Kosten der Betriebsbeschränkungen dürfen unter Berücksichtigung der Besonderheiten des Flughafens, insbesondere im Hinblick auf bestehende Verpflichtungen, zu dem wahrscheinlichen Nutzen der Betriebsbeschränkungen nicht außer Verhältnis stehen.
-
-(4) Die Luftfahrtbehörde stellt sicher, dass Betriebsbeschränkungen im Rahmen bestehender Verkehrsrechte ohne Diskriminierung hinsichtlich der Staatszugehörigkeit der betroffenen Luftfahrtunternehmen oder des Flugzeugherstellers des betroffenen Fluggerätes in wettbewerbsneutraler Weise erfolgen.
-
-
-#### § 48c Prüfung für die Einführung von lärmbedingten Betriebsbeschränkungen
-
-(1) Bei der Prüfung der Einführung von Betriebsbeschränkungen nach § 48b sind die in Anlage 2 dieser Verordnung aufgeführten Informationen zu berücksichtigen, soweit dies für die konkrete Maßnahme und die Merkmale des jeweiligen Flughafens angemessen und möglich ist.
-
-(2) Erfolgt die Prüfung der Einführung von Betriebsbeschränkungen nach § 48b im Zusammenhang mit der Prüfung eines Vorhabens an einem Flughafen nach dem Gesetz über die Umweltverträglichkeitsprüfung, so gelten die Anforderungen des Absatzes 1 als erfüllt, sofern bei der Prüfung die in der Anlage 2 aufgeführten Informationen so weit als möglich berücksichtigt werden konnten.
-
-(3) Absatz 1 gilt nicht für Betriebsbeschränkungen, die bereits vor dem 9. April 2005 erlassen worden sind, sowie für unwesentliche technische Änderungen partieller Betriebsbeschränkungen, die für die Luftfahrtunternehmen an dem Flughafen keine signifikanten Kostenauswirkungen haben und die nach dem 9. April 2005 vorgenommen werden.
-
-
-#### § 48d Fristen zur Einführung von lärmbedingten Betriebsbeschränkungen
-
-Ergibt die nach §§ 48b und 48c durchgeführte Prüfung aller möglichen Maßnahmen, dass an einem Flughafen lärmbedingte Maßnahmen eingeführt werden müssen, um den Betrieb von knapp die Vorschriften erfüllenden zivilen Unterschallstrahlflugzeugen zu beschränken, gelten für den betreffenden Flughafen an Stelle des in Artikel 9 der Verordnung (EWG) Nr. 2408/92 des Rates über den Zugang von Luftfahrtunternehmen der Gemeinschaft zu Strecken des innergemeinschaftlichen Luftverkehrs vom 23. Juli 1992 (ABl. EG Nr. L 240 S. 8) vorgesehenen Verfahrens folgende Vorschriften:
-
-a)  sechs Monate nach Einführung der Zugangsbeschränkung im Sinne von Satz 1 werden keine über die Vorjahresperiode hinausgehenden Dienste mit Flugzeugen nach § 48a Nr. 4 mehr zugelassen,
-
-
-b)  nach weiteren sechs Monaten kann von jedem Luftfahrtunternehmen verlangt werden, die Flugbewegungen um jährlich bis zu 20 Prozent der ursprünglichen Gesamtzahl an Flugbewegungen mit Fluggerät im Sinne von § 48a Nr. 4 zu vermindern.
-
-
-
-
-
-#### § 48e Verfahren zur Einführung von lärmbedingten Betriebsbeschränkungen
-
-(1) Die Luftfahrtbehörde macht die Absicht zur Einführung von Betriebsbeschränkungen nach § 48b mit den aus § 48c folgenden Erwägungen öffentlich bekannt und fordert die Betroffenen zur Stellungnahme innerhalb eines angemessenen Zeitraums auf.
-
-(2) Bei Betriebsbeschränkungen nach § 48d erfolgt die öffentliche Bekanntmachung der Entscheidung im Fall des Buchstaben a dieser Bestimmung sechs Monate und im Fall des Buchstaben b ein Jahr vor Wirksamwerden, wobei als Beginn der Wirksamkeit ein Zeitpunkt festzusetzen ist, der zwei Monate nach der Flugplankonferenz für die anstehende Flugplanperiode liegen soll.
-
-
-#### § 48f Ausnahmegenehmigungen
-
-(1) Ein Luftfahrzeug, das im Luftfahrzeugregister eines Entwicklungslandes eingetragen ist, wird bis zum 28. März 2012 von den Betriebsbeschränkungen nach § 48b ausgenommen, sofern das Luftfahrzeug den Flughafen zwischen dem 1. Januar 1996 und dem 26. März 2002 bereits angeflogen hat, während dieses Zeitraums in dem Register des Entwicklungslandes eingetragen gewesen ist und weiterhin von einer in diesem Staat ansässigen natürlichen oder juristischen Person betrieben wird. Die Voraussetzungen sind nachzuweisen, insbesondere mit einem Lärmzeugnis, das die Einhaltung der Höchstwerte des Bands I Teil II Kapitel 3 des Anhangs 16 des Abkommens über die Internationale Zivilluftfahrt bescheinigt.
-
-(2) In Einzelfällen darf die Luftfahrtbehörde den auf Grund dieses Unterabschnitts vom Zugang zum Flughafen ausgeschlossenen Luftfahrzeugen den Zugang ausnahmsweise gestatten, wenn so ungewöhnliche Umstände vorliegen, dass die Versagung des Zugangs unverhältnismäßig wäre. Dies gilt insbesondere für den Zugang zum Flughafen zum Zwecke der Durchführung von humanitären Hilfeleistungen oder für Reparatur-, Umrüstungs- und Wartungszwecke, durch die keine Einnahmen erzielt werden. Die Luftfahrtbehörde kann geeigneten Personen als Beliehenen die Wahrnehmung der Aufgaben nach Satz 1 und 2 übertragen. Die Beleihung kann jederzeit widerrufen werden.
 
 
 ### 3. - Landeplätze
@@ -816,9 +742,7 @@ Die Genehmigung eines Landeplatzes wird von der Luftfahrtbehörde des Landes ert
 
 (4) Bei Landeplätzen mit Instrumentenflugbetrieb gelten § 43 Abs. 2, §§ 45a, 45b, 47 Abs. 1 Nr. 4 und 5, Abs. 2 Satz 2 entsprechend. § 45c gilt mit der Maßgabe, dass der Flugleiter zum Beauftragten für das Sicherheitsmanagementsystem bestellt werden kann. Bei Landeplätzen ohne Instrumentenflugbetrieb finden die Sätze 1 und 2 Anwendung, wenn die zuständige Behörde auf Grund des Umfanges des Flugbetriebes oder der Erhöhung der Gefahrenlage die Einführung des Sicherheitsmanagementsystems gegenüber dem Landeplatzhalter anordnet.
 
-(5) Die §§ 48a bis 48f finden Anwendung, soweit ein Landeplatz Flugbewegungen in der in § 48a Nr. 1 bestimmten Höhe aufweist und den Betrieb von zivilen Unterschallstrahlflugzeugen zulässt.
-
-(6) Für Verkehrslandeplätze, für die ein Zeugnis nach Artikel 8a der Verordnung (EG) Nr. 216/2008 erforderlich ist, gelten § 44 Absatz 1 Nummer 2 und die §§ 45d und 47 Absatz 2a entsprechend.
+(5) Für Verkehrslandeplätze, für die ein Zeugnis nach Artikel 8a der Verordnung (EG) Nr. 216/2008 erforderlich ist, gelten § 44 Absatz 1 Nummer 2 und die §§ 45d und 47 Absatz 2a entsprechend.
 
 
 ### 4. - Segelfluggelände

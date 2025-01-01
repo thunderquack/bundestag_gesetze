@@ -84,7 +84,7 @@ Die Prüfung des Verschmelzungsplans und die Erstellung des schriftlichen Berich
 
 Hat eine Vertreterversammlung die Verschmelzung beschlossen, ist jedes Mitglied zur Ausschlagung berechtigt; für die Vertreter gilt Satz 1.
 
-(3) Die Ausschlagung ist gegenüber der Europäischen Genossenschaft schriftlich binnen zwei Monaten nach dem Tag zu erklären, an dem die Verschmelzung im Sitzstaat der Europäischen Genossenschaft nach den dort geltenden Vorschriften eingetragen und bekannt gemacht worden ist. Die Ausschlagung kann nicht unter einer Bedingung oder einer Zeitbestimmung erklärt werden. Sie wird in dem Zeitpunkt wirksam, in dem die Ausschlagungserklärung der Europäischen Genossenschaft zugeht.
+(3) Die Ausschlagung ist gegenüber der Europäischen Genossenschaft in Textform binnen zwei Monaten nach dem Tag zu erklären, an dem die Verschmelzung im Sitzstaat der Europäischen Genossenschaft nach den dort geltenden Vorschriften eingetragen und bekannt gemacht worden ist. Die Ausschlagung kann nicht unter einer Bedingung oder einer Zeitbestimmung erklärt werden. Sie wird in dem Zeitpunkt wirksam, in dem die Ausschlagungserklärung der Europäischen Genossenschaft zugeht.
 
 (4) Die Europäische Genossenschaft hat sich mit einem früheren Mitglied, dessen Beteiligung an der Europäischen Genossenschaft nach Absatz 1 als nicht erworben gilt, auf Grund der Schlussbilanz der übertragenden Genossenschaft auseinanderzusetzen. Auf die Auseinandersetzung ist § 93 Abs. 2 und 3 des Umwandlungsgesetzes entsprechend anzuwenden.
 
@@ -109,7 +109,7 @@ Liegt der künftige Sitz der Europäischen Genossenschaft im Ausland, gilt § 11
 
 ### § 11 Gläubigerschutz bei Sitzverlegung; Negativerklärung
 
-(1) Verlegt eine Europäische Genossenschaft nach Artikel 7 der Verordnung (EG) Nr. 1435/2003 ihren Sitz, ist den Gläubigern der Europäischen Genossenschaft soweit Sicherheit zu leisten, wie sie nicht Befriedigung verlangen können, wenn sie binnen zwei Monaten nach dem Tag, an dem der Verlegungsplan offen gelegt worden ist, ihren Anspruch nach Grund und Höhe schriftlich anmelden und glaubhaft machen, dass durch die Sitzverlegung die Erfüllung ihrer Forderungen gefährdet wird. Die Gläubiger sind im Verlegungsplan auf dieses Recht hinzuweisen.
+(1) Verlegt eine Europäische Genossenschaft nach Artikel 7 der Verordnung (EG) Nr. 1435/2003 ihren Sitz, ist den Gläubigern der Europäischen Genossenschaft soweit Sicherheit zu leisten, wie sie nicht Befriedigung verlangen können, wenn sie binnen zwei Monaten nach dem Tag, an dem der Verlegungsplan offen gelegt worden ist, ihren Anspruch nach Grund und Höhe in Textform anmelden und glaubhaft machen, dass durch die Sitzverlegung die Erfüllung ihrer Forderungen gefährdet wird. Die Gläubiger sind im Verlegungsplan auf dieses Recht hinzuweisen.
 
 (2) Das Recht auf Sicherheitsleistung nach Absatz 1 steht den Gläubigern nur im Hinblick auf solche Forderungen zu, die vor oder bis zu 15 Tage nach Offenlegung des Verlegungsplans entstanden sind.
 

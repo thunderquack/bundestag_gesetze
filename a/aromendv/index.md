@@ -136,7 +136,7 @@ Die Verwendung von Aromastoffen ist verboten bei der Herstellung
 
 (3) Die Angaben nach Absatz 1 Satz 1 und Absatz 2 sind bei Lebensmitteln im Sinne des § 2 Nummer 3, soweit diese nicht zur Selbstbedienung angeboten werden, sowie bei Lebensmitteln im Sinne des § 2 Nummer 1 und 2 wie folgt bereitzustellen:
 
-1.  nach Maßgabe des Artikels 12 Absatz 2 der Verordnung (EU) Nr. 1169/2011 oder gemäß § 4 Absatz 3 und 4 der Lebensmittelinformations-Durchführungsverordnung vom 5. Juli 2017 (BGBl. I S. 2272), die zuletzt durch Artikel 4 der Verordnung vom 18. November 2020 (BGBl. I S. 2504) geändert worden ist, und
+1.  nach Maßgabe des Artikels 12 Absatz 2 der Verordnung (EU) Nr. 1169/2011 oder gemäß § 4 Absatz 3 und 4 der Lebensmittelinformations-Durchführungsverordnung vom 5. Juli 2017 (BGBl. I S. 2272), die zuletzt durch Artikel 3 der Verordnung vom 11. Dezember 2024 (BGBl. 2024 I Nr. 411) geändert worden ist, und
 
 
 2.  soweit Angaben nach § 4 Absatz 2 der Lebensmittelinformations-Durchführungsverordnung verpflichtend sind, in gleicher Art und Weise und über das identische Medium, wie die Angaben nach § 4 Absatz 2 der Lebensmittelinformations-Durchführungsverordnung bereitzustellen sind.

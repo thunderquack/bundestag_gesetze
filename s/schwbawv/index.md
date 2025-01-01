@@ -41,7 +41,7 @@ Zuletzt geändert durch
 
 ### § 2 Zugehörigkeit zu Sondergruppen
 
-(1) Im Ausweis ist die Bezeichnung "Kriegsbeschädigt" einzutragen, wenn der schwerbehinderte Mensch wegen eines Grades der Schädigungsfolgen von mindestens 50 Anspruch auf Versorgung nach dem Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung oder nach § 24 des Vierzehnten Buches Sozialgesetzbuch hat.
+(1) Im Ausweis ist die Bezeichnung "Kriegsbeschädigt" einzutragen, wenn der schwerbehinderte Mensch wegen eines Grades der Schädigungsfolgen von mindestens 50 Anspruch auf Versorgung nach dem Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung oder nach § 21 des Vierzehnten Buches Sozialgesetzbuch hat.
 
 (2) Im Ausweis sind folgende Merkzeichen einzutragen:
 
@@ -73,6 +73,9 @@ Zuletzt geändert durch
 
 
 
+
+
+    c)  wenn der schwerbehinderte Mensch wegen eines Grades der Schädigungsfolgen von mindestens 50 Anspruch auf Leistungen nach dem Soldatenentschädigungsgesetz,
 
 
 

@@ -2874,7 +2874,7 @@ Der Arbeitgeber kann Inhalt, Ort und Zeit der Arbeitsleistung nach billigem Erme
 
 (2) Das Zeugnis muss klar und verständlich formuliert sein. Es darf keine Merkmale oder Formulierungen enthalten, die den Zweck haben, eine andere als aus der äußeren Form oder aus dem Wortlaut ersichtliche Aussage über den Arbeitnehmer zu treffen.
 
-(3) Die Erteilung des Zeugnisses in elektronischer Form ist ausgeschlossen.
+(3) Das Zeugnis kann mit Einwilligung des Arbeitnehmers in elektronischer Form erteilt werden.
 
 
 #### § 110 Wettbewerbsverbot

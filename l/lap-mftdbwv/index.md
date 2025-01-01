@@ -122,7 +122,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 5.  gegebenenfalls
 
-    a)  eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der Bestätigung nach § 10 Abs. 4 des Soldatenversorgungsgesetzes und
+    a)  eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der Bestätigung nach § 14 Absatz 3 des Soldatenversorgungsgesetzes und
 
 
     b)  Ablichtungen der Zeugnisse, die bei Beendigung des Grundwehrdienstes und über Wehrübungen erteilt wurden.

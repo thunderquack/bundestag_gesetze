@@ -950,7 +950,7 @@ In Straf- oder Bußgeldverfahren, die sich gegen den Arbeitgeber oder dessen Mit
 
 (3) Die Abgabe und Entgegennahme eines Teils der Gebühren oder sonstiger Vorteile für die Vermittlung von Aufträgen, gleichviel ob im Verhältnis zu einem Rechtsanwalt oder Dritten gleich welcher Art, ist unzulässig. Zulässig ist es jedoch, eine über den Rahmen der Nummer 3400 der Anlage 1 zum Rechtsanwaltsvergütungsgesetz hinausgehende Tätigkeit eines anderen Rechtsanwalts angemessen zu honorieren. Die Honorierung der Leistungen hat der Verantwortlichkeit sowie dem Haftungsrisiko der beteiligten Rechtsanwälte und den sonstigen Umständen Rechnung zu tragen. Die Vereinbarung einer solchen Honorierung darf nicht zur Voraussetzung einer Mandatserteilung gemacht werden. Mehrere beauftragte Rechtsanwälte dürfen einen Auftrag gemeinsam bearbeiten und die Gebühren in einem den Leistungen, der Verantwortlichkeit und dem Haftungsrisiko entsprechenden angemessenen Verhältnis untereinander teilen. Die Sätze 2 und 3 gelten nicht für beim Bundesgerichtshof zugelassene Prozeßbevollmächtigte.
 
-(4) Die Abtretung von Vergütungsforderungen oder die Übertragung ihrer Einziehung an Rechtsanwälte oder Berufsausübungsgesellschaften nach § 59b ist zulässig. Im Übrigen sind Abtretung oder Übertragung nur zulässig, wenn eine ausdrückliche, schriftliche Einwilligung des Mandanten vorliegt oder die Forderung rechtskräftig festgestellt ist. Vor der Einwilligung ist der Mandant über die Informationspflicht des Rechtsanwalts gegenüber dem neuen Gläubiger oder Einziehungsermächtigten aufzuklären. Der neue Gläubiger oder Einziehungsermächtigte ist in gleicher Weise zur Verschwiegenheit verpflichtet wie der beauftragte Rechtsanwalt.
+(4) Die Abtretung von Vergütungsforderungen oder die Übertragung ihrer Einziehung an Rechtsanwälte oder Berufsausübungsgesellschaften nach § 59b ist zulässig. Im Übrigen sind Abtretung oder Übertragung nur zulässig, wenn eine ausdrückliche Einwilligung des Mandanten in Textform vorliegt oder die Forderung rechtskräftig festgestellt ist. Vor der Einwilligung ist der Mandant über die Informationspflicht des Rechtsanwalts gegenüber dem neuen Gläubiger oder Einziehungsermächtigten aufzuklären. Der neue Gläubiger oder Einziehungsermächtigte ist in gleicher Weise zur Verschwiegenheit verpflichtet wie der beauftragte Rechtsanwalt.
 
 (5) Richten sich die zu erhebenden Gebühren nach dem Gegenstandswert, hat der Rechtsanwalt vor Übernahme des Auftrags hierauf hinzuweisen.
 
@@ -1013,7 +1013,7 @@ Der Rechtsanwalt ist verpflichtet, Schutzschriften ausschließlich zum Schutzsch
 
 (1) Der Anspruch des Auftraggebers aus dem zwischen ihm und dem Rechtsanwalt bestehenden Vertragsverhältnis auf Ersatz eines fahrlässig verursachten Schadens kann beschränkt werden:
 
-1.  durch schriftliche Vereinbarung im Einzelfall bis zur Höhe der Mindestversicherungssumme;
+1.  durch im Einzelfall in Textform getroffene Vereinbarung bis zur Höhe der Mindestversicherungssumme;
 
 
 2.  durch vorformulierte Vertragsbedingungen für Fälle einfacher Fahrlässigkeit auf den vierfachen Betrag der Mindestversicherungssumme, wenn insoweit Versicherungsschutz besteht.
@@ -1022,7 +1022,7 @@ Der Rechtsanwalt ist verpflichtet, Schutzschriften ausschließlich zum Schutzsch
 
 Für Berufsausübungsgesellschaften gilt Satz 1 entsprechend.
 
-(2) Die Mitglieder einer Berufsausübungsgesellschaft ohne Haftungsbeschränkung haften aus dem zwischen ihr und dem Auftraggeber bestehenden Vertragsverhältnis als Gesamtschuldner. Die persönliche Haftung auf Schadensersatz kann auch durch vorformulierte Vertragsbedingungen beschränkt werden auf einzelne Mitglieder einer Berufsausübungsgesellschaft ohne Haftungsbeschränkung, die das Mandat im Rahmen ihrer eigenen beruflichen Befugnisse bearbeiten und namentlich bezeichnet sind. Die Zustimmungserklärung zu einer solchen Beschränkung darf keine anderen Erklärungen enthalten und muß vom Auftraggeber unterschrieben sein.
+(2) Die Mitglieder einer Berufsausübungsgesellschaft ohne Haftungsbeschränkung haften aus dem zwischen ihr und dem Auftraggeber bestehenden Vertragsverhältnis als Gesamtschuldner. Die persönliche Haftung auf Schadensersatz kann auch durch vorformulierte Vertragsbedingungen beschränkt werden auf einzelne Mitglieder einer Berufsausübungsgesellschaft ohne Haftungsbeschränkung, die das Mandat im Rahmen ihrer eigenen beruflichen Befugnisse bearbeiten und namentlich bezeichnet sind. Die Zustimmungserklärung zu einer solchen Beschränkung darf keine anderen Erklärungen enthalten und bedarf der Textform.
 
 
 #### § 53 Bestellung einer Vertretung
@@ -1084,7 +1084,10 @@ Für Berufsausübungsgesellschaften gilt Satz 1 entsprechend.
 2.  daß er dauernd oder zeitweilig als Richter, Beamter, Berufssoldat oder Soldat auf Zeit verwendet wird,
 
 
-3.  daß er ein öffentliches Amt im Sinne des § 47 Abs. 2 bekleidet.
+3.  daß er ein öffentliches Amt im Sinne des § 47 Abs. 2 bekleidet,
+
+
+4.  dass er Mitglied eines Geschäftsführungs- oder Aufsichtsorgans einer Berufsausübungsgesellschaft nach der Patentanwaltsordnung oder dem Steuerberatungsgesetz ist.
 
 
 
@@ -1531,10 +1534,21 @@ Berufsausübungsgesellschaften, bei denen Rechtsanwälte die Mehrheit der Stimmr
 1.  Personen, die von ihr zur Rechtsanwaltschaft zugelassen oder von ihr aufgenommen wurden,
 
 
-2.  Berufsausübungsgesellschaften, die von ihr zugelassen wurden, und
+2.  Berufsausübungsgesellschaften, die von ihr zugelassen wurden,
 
 
-3.  Mitglieder von Geschäftsführungs- und Aufsichtsorganen von Berufsausübungsgesellschaften nach Nummer 2, die nicht schon nach Nummer 1 Mitglied einer Rechtsanwaltskammer sind.
+3.  Mitglieder von Geschäftsführungs- und Aufsichtsorganen von Berufsausübungsgesellschaften nach Nummer 2, die nicht schon
+
+    a)  nach Nummer 1 Mitglied einer Rechtsanwaltskammer sind oder
+
+
+    b)  Mitglied der Patentanwaltskammer oder einer Steuerberaterkammer sind, und
+
+
+
+
+
+4.  Mitglieder der Geschäftsleitung der deutschen Zweigniederlassungen von ausländischen Berufsausübungsgesellschaften (§ 207a Absatz 1 Nummer 4), die nicht schon nach Nummer 1 Mitglied einer Rechtsanwaltskammer sind.
 
 
 
@@ -1749,10 +1763,11 @@ Der Vorstand ist beschlußfähig, wenn mindestens die Hälfte seiner Mitglieder 
 
 
 
+Ist ein Mitglied der Kammer auch Mitglied eines Geschäftsführungs- oder Aufsichtsorgans einer Berufsausübungsgesellschaft nach der Patentanwaltsordnung oder dem Steuerberatungsgesetz, so umfassen die Aufgaben des Vorstandes nach Satz 1 Nummer 1 und 4 auch die Berufspflichten des Kammermitglieds als Mitglied dieses Geschäftsführungs- oder Aufsichtsorgans (§ 52d Absatz 1 bis 3 und § 52j Absatz 4 und 5 Satz 1 der Patentanwaltsordnung oder § 51 Absatz 1 bis 3 und § 55b Absatz 4 und 5 Satz 1 des Steuerberatungsgesetzes).
 
 (3) In Beschwerdeverfahren setzt der Vorstand die Person, die die Beschwerde erhoben hatte von seiner Entscheidung in Kenntnis. Die Mitteilung erfolgt nach Abschluss des Verfahrens einschließlich des Einspruchsverfahrens und ist mit einer kurzen Darstellung der wesentlichen Gründe für die Entscheidung zu versehen. § 76 Absatz 1 bleibt unberührt. Die Mitteilung ist nicht anfechtbar.
 
-(4) Der Vorstand kann die in Absatz 1 Satz 2, Absatz 2 Nr. 1 bis 3 und Absatz 3 bezeichneten Aufgaben einzelnen Mitgliedern des Vorstandes übertragen.
+(4) Der Vorstand kann die in Absatz 1 Satz 2, Absatz 2 Satz 1 Nr. 1 bis 3 und Absatz 3 bezeichneten Aufgaben einzelnen Mitgliedern des Vorstandes übertragen.
 
 (5) Beantragt bei Streitigkeiten zwischen einem Mitglied der Rechtsanwaltskammer und seinem Auftraggeber der Auftraggeber ein Vermittlungsverfahren, so wird dieses eingeleitet, ohne dass es der Zustimmung des Mitglieds bedarf. Ein Schlichtungsvorschlag ist nur verbindlich, wenn er von beiden Seiten angenommen wird.
 
@@ -1933,14 +1948,14 @@ Der Schriftführer führt das Protokoll über die Sitzungen des Vorstandes und d
 
 (1) Die Kammerversammlung wird durch den Präsidenten einberufen.
 
-(2) Der Präsident muß die Kammerversammlung einberufen, wenn ein Zehntel der Mitglieder es schriftlich beantragt und hierbei den Gegenstand angibt, der in der Kammerversammlung behandelt werden soll.
+(2) Der Präsident muß die Kammerversammlung einberufen, wenn ein Zehntel der Mitglieder es schriftlich oder elektronisch beantragt und hierbei den Gegenstand angibt, der in der Kammerversammlung behandelt werden soll.
 
 (3) Wenn die Geschäftsordnung der Kammer nichts anderes bestimmt, soll die Kammerversammlung am Sitz der Rechtsanwaltskammer stattfinden.
 
 
 ##### § 86 Einladung und Einberufungsfrist
 
-Die Kammerversammlung ist mindestens zwei Wochen vorher durch schriftliche Einladung einzuberufen. Bei der Fristberechnung sind der Tag der Versendung und der Tag der Versammlung nicht mitzuzählen. In dringenden Fällen kann die Kammerversammlung mit kürzerer Frist einberufen werden.
+Die Kammerversammlung ist mindestens zwei Wochen vorher durch schriftliche oder elektronische Einladung einzuberufen. Verfügt das Mitglied über eines der in § 37 Satz 1 oder 3 genannten Postfächer, so soll eine elektronische Einladung über dieses Postfach erfolgen. Bei der Fristberechnung sind der Tag der Versendung und der Tag der Versammlung nicht mitzuzählen. In dringenden Fällen kann die Kammerversammlung mit kürzerer Frist einberufen werden.
 
 
 ##### § 86a Durchführung der Kammerversammlung
@@ -2355,7 +2370,7 @@ Wird durch den Anwaltsgerichtshof oder den Bundesgerichtshof festgestellt, dass 
 
 ### § 113 Ahndung einer Pflichtverletzung
 
-(1) Gegen einen Rechtsanwalt, der schuldhaft gegen Pflichten verstößt, die in diesem Gesetz oder in der Berufsordnung nach § 59a bestimmt sind, wird eine anwaltsgerichtliche Maßnahme verhängt.
+(1) Gegen einen Rechtsanwalt, der schuldhaft gegen Pflichten verstößt, die in diesem Gesetz oder in der Berufsordnung nach § 59a bestimmt sind, wird eine anwaltsgerichtliche Maßnahme verhängt. Gleiches gilt, wenn ein Rechtsanwalt im Fall des § 73 Absatz 2 Satz 2 dieses Gesetzes gegen Berufspflichten nach § 52d Absatz 1 bis 3 oder § 52j Absatz 4 oder 5 Satz 1 der Patentanwaltsordnung oder gegen Berufspflichten nach § 51 Absatz 1 bis 3 oder § 55b Absatz 4 oder 5 Satz 1 des Steuerberatungsgesetzes verstößt.
 
 (2) Ein außerhalb des Berufs liegendes Verhalten eines Rechtsanwalts, das eine rechtswidrige Tat oder eine mit Geldbuße bedrohte Handlung darstellt, ist eine anwaltsgerichtlich zu ahndende Pflichtverletzung, wenn es nach den Umständen des Einzelfalls in besonderem Maße geeignet ist, Achtung und Vertrauen der Rechtsuchenden in einer für die Ausübung der Anwaltstätigkeit bedeutsamen Weise zu beeinträchtigen.
 
@@ -2418,6 +2433,16 @@ Im Fall einer Gesamtrechtsnachfolge oder einer partiellen Gesamtrechtsnachfolge 
 
 
 5.  Ausschließung aus der Rechtsanwaltschaft.
+
+
+
+
+(1a) Im Fall des § 73 Absatz 2 Satz 2 tritt an die Stelle der Ausschließung aus der Rechtsanwaltschaft
+
+1.  bei Mitgliedern von Geschäftsführungsorganen die Aberkennung der Eignung, eine Berufsausübungsgesellschaft zu vertreten und ihre Geschäfte zu führen, und
+
+
+2.  bei Mitgliedern von Aufsichtsorganen die Aberkennung der Eignung, Aufsichtsfunktionen einer Berufsausübungsgesellschaft wahrzunehmen.
 
 
 
@@ -3470,11 +3495,10 @@ Berufsausübungsgesellschaften bleiben bei der Ermittlung der Mitgliederzahl unb
 1.  das Schlichtungsverfahren muss für die Beteiligten unentgeltlich durchgeführt werden;
 
 
-2.  die Schlichtung muss jedenfalls für vermögensrechtliche Streitigkeiten bis zu einem Wert von
-    15 000 Euro                    statthaft sein;
+2.  die Schlichtung muss jedenfalls für vermögensrechtliche Streitigkeiten bis zu einem Wert von 15 000 Euro statthaft sein;
 
 
-3.  die Durchführung des Schlichtungsverfahrens darf nicht von der Inanspruchnahme eines Vermittlungsverfahrens nach § 73 Absatz 2 Nummer 3 abhängig gemacht werden.
+3.  die Durchführung des Schlichtungsverfahrens darf nicht von der Inanspruchnahme eines Vermittlungsverfahrens nach § 73 Absatz 2 Satz 1 Nummer 3 abhängig gemacht werden.
 
 
 
@@ -3822,8 +3846,9 @@ Am 1. September 2009 bestehende Rechtsanwaltskammern, die ihren Sitz nicht am Or
 (2) Rechtsanwälte, die schon nach dem Rechtsanwaltsgesetz vom 13. September 1990 zugelassen waren oder die auf Grundlage des Absatzes 1 zugelassen sind, erfüllen die Voraussetzung der Befähigung zum Richteramt gemäß § 93 Abs. 1 Satz 3 und § 101 Abs. 1 Satz 2.
 
 
-### § 212 (weggefallen)
+### § 212 Übergangsvorschrift zu aufsichtsrechtlichen Verfahren bei Wegfall der doppelten Kammermitgliedschaft
 
+Die Zuständigkeit für am 1. Januar 2025 anhängige aufsichtsrechtliche Verfahren gegen ein Mitglied eines Geschäftsführungs- oder Aufsichtsorgans einer anwaltlichen Berufsausübungsgesellschaft, das auch Mitglied der Patentanwaltskammer oder einer Steuerberaterkammer ist, geht am 1. Januar 2025 auf diejenige Stelle über, der von diesem Tag an nach der Patentanwaltsordnung oder dem Steuerberatungsgesetz die Zuständigkeit für das Verfahren zukommt.
 
 (zu § 59a Absatz 4 Satz 1)
 

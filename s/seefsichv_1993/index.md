@@ -327,7 +327,7 @@ Der Schiffsführer darf nicht durch den Reeder, den Charterer oder irgendeine an
 
 
 
-(1a) Ordnungswidrig im Sinne des § 53 Absatz 1 Nummer 1 des Seesicherheits-Untersuchungs-Gesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 7a nicht dafür Sorge trägt, dass die dort genannten Daten gesichert, ihr Überschreiben oder sonstiges Verändern verhindert, Geräte geschützt oder Beweise eingeholt oder gesichert werden.
+(1a) Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 1 des Seesicherheits-Untersuchungs-Gesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 7a nicht dafür Sorge trägt, dass die dort genannten Daten gesichert, ihr Überschreiben oder sonstiges Verändern verhindert, Geräte geschützt oder Beweise eingeholt oder gesichert werden.
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach den Absätzen 1 und 1a wird auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 

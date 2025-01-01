@@ -61,15 +61,7 @@ geändert durch das Einführungsgesetz zum Strafgesetzbuch vom 2. März 1974 (Bu
 
 (2) Die für Bundesminister geltenden beihilferechtlichen, reise- und umzugskostenrechtlichen Vorschriften sind entsprechend anzuwenden.
 
-(3) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise werden den Parlamentarischen Staatssekretären in entsprechender Anwendung des § 14 Absatz 4 bis 8 des Bundesbesoldungsgesetzes die folgenden Sonderzahlungen gewährt:
-
-1.  für den Monat Juni 2023 eine einmalige Sonderzahlung in Höhe von 1 240 Euro und
-
-
-2.  für die Monate Juli 2023 bis Februar 2024 eine monatliche Sonderzahlung in Höhe von jeweils 220 Euro.
-
-
-
+(3) (weggefallen)
 
 
 ## § 6

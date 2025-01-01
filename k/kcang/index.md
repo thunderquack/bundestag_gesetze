@@ -1507,19 +1507,50 @@ In den Fällen des § 34 Absatz 4 kann das Gericht Führungsaufsicht nach § 68 
 Die §§ 35 bis 38 des Betäubungsmittelgesetzes finden auch bei cannabisbezogener Abhängigkeitserkrankung Anwendung.
 
 
-### Abschnitt 5 - (zukünftig in Kraft)
+### Abschnitt 5 - Tilgung von Eintragungen im Bundeszentralregister
 
 
-#### § 40 (zukünftig in Kraft)
+#### § 40 Tilgungsfähige Eintragungen im Bundeszentralregister
+
+(1) Eine Eintragung im Bundeszentralregister über eine Verurteilung nach § 29 des Betäubungsmittelgesetzes ist tilgungsfähig, wenn
+
+1.  die verurteilte Person wegen des unerlaubten Umgangs mit Cannabis oder Vermehrungsmaterial strafgerichtlich verurteilt worden ist und
+
+
+2.  das geltende Recht
+
+    a)  für die der Verurteilung zugrunde liegenden Handlungen keine Strafe mehr vorsieht oder
+
+
+    b)  für die Handlungen nur noch Geldbuße allein oder Geldbuße in Verbindung mit einer Nebenfolge androht.
 
 
 
-#### § 41 (zukünftig in Kraft)
 
 
 
-#### § 42 (zukünftig in Kraft)
 
+(2) Unter den Voraussetzungen des Absatzes 1 sind auch solche Eintragungen im Bundeszentralregister tilgungsfähig, die auf Entscheidungen beruhen, durch die nachträglich aus mehreren Einzelstrafen auf Grund von Verurteilungen nach § 29 des Betäubungsmittelgesetzes eine Gesamtstrafe gebildet worden ist.
+
+(3) Ist die Person in einer Verurteilung nach § 29 des Betäubungsmittelgesetzes auch wegen Taten verurteilt worden, für die das Recht weiterhin Strafe vorsieht, so ist die Tilgung einer auf dieser Verurteilung beruhenden Eintragung im Bundeszentralregister ausgeschlossen. Hierbei ist unbeachtlich, ob die Taten zueinander in Tateinheit oder Tatmehrheit stehen. Die Sätze 1 und 2 gelten entsprechend für Eintragungen, die auf Entscheidungen über nachträglich gebildete Gesamtstrafen beruhen.
+
+
+#### § 41 Feststellung der Tilgungsfähigkeit von Eintragungen im Bundeszentralregister
+
+(1) Die Staatsanwaltschaft stellt auf Antrag der verurteilten Person fest, ob eine die Person betreffende Eintragung im Bundeszentralregister nach § 40 tilgungsfähig ist.
+
+(2) Im Rahmen der Feststellung durch die Staatsanwaltschaft nach Absatz 1 genügt es zum Nachweis der Voraussetzungen nach § 40 Absatz 1 oder Absatz 2, wenn diese durch die verurteilte Person glaubhaft gemacht werden. Zur Glaubhaftmachung kann die Staatsanwaltschaft auch die eidesstattliche Versicherung der verurteilten Person zulassen. Für die Abnahme der eidesstattlichen Versicherung ist die Staatsanwaltschaft zuständig.
+
+(3) Die örtliche Zuständigkeit der Staatsanwaltschaft bestimmt sich nach dem Gericht, das im ersten Rechtszug die in § 40 Absatz 1 Nummer 1 genannte Verurteilung ausgesprochen oder die Entscheidung nach § 40 Absatz 2 erlassen hat. Lässt sich diese Staatsanwaltschaft nicht nach Satz 1 bestimmen, so ist diejenige Staatsanwaltschaft zuständig, in deren Bezirk die verurteilte Person zum Zeitpunkt der Antragstellung ihren Wohnsitz im Inland hat. Hat die verurteilte Person ihren Wohnsitz im Ausland, so ist die Staatsanwaltschaft Berlin zuständig. Der Antrag kann bei jeder Staatsanwaltschaft schriftlich eingereicht oder zu Protokoll der Geschäftsstelle erklärt werden.
+
+(4) Nimmt die Staatsanwaltschaft eine zu Unrecht getroffene Feststellung nach Absatz 1 zurück, so teilt sie der Registerbehörde die Rücknahme und die nach § 5 des Bundeszentralregistergesetzes erforderlichen Daten für die im Bundeszentralregister vorzunehmende Wiedereintragung der getilgten Verurteilung oder der getilgten Entscheidung über die nachträgliche Bildung einer Gesamtstrafe mit. Die Staatsanwaltschaft hat vor ihrer Entscheidung darüber, ob eine Feststellung nach Absatz 1 zurückgenommen wird, der verurteilten Person Gelegenheit zur Stellungnahme zu geben. § 50 des Bundeszentralregistergesetzes ist nicht anzuwenden.
+
+
+#### § 42 Verfahren zur Tilgung von Eintragungen aus dem Bundeszentralregister
+
+(1) Stellt die Staatsanwaltschaft die Tilgungsfähigkeit einer Eintragung im Bundeszentralregister über eine strafgerichtliche Verurteilung oder über eine strafgerichtliche Entscheidung fest (§ 41), so hat sie dies der Registerbehörde und der verurteilten Person mitzuteilen. Liegen die Voraussetzungen für die Tilgung nicht vor, so hat die Staatsanwaltschaft die verurteilte Person darüber unter Angabe der Gründe zu bescheiden.
+
+(2) Eintragungen im Bundeszentralregister über strafgerichtliche Verurteilungen oder Entscheidungen, deren Tilgungsfähigkeit nach § 41 durch die Staatsanwaltschaft festgestellt und von dieser der Registerbehörde mitgeteilt worden ist, sind durch die Registerbehörde zu tilgen.
 
 
 ## Kapitel 8 - Schlussvorschriften

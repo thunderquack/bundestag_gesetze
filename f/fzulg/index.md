@@ -163,6 +163,8 @@ Die Forschungszulage kann nur für Forschungs- und Entwicklungsvorhaben im Sinne
 
 (2) Bei Anspruchsberechtigten im Sinne des § 1 Absatz 2 erfolgt die Anrechnung nach Absatz 1 Satz 2 anteilig im Rahmen der jeweiligen Veranlagung zur Einkommen- oder Körperschaftsteuer. Die Anteile an der anzurechnenden Forschungszulage sind gesondert und einheitlich gegenüber den Mitunternehmern festzustellen. Maßstab für die Verteilung ist der jeweils vereinbarte Gewinnverteilungsschlüssel. Wird der Forschungszulagenbescheid aufgehoben oder geändert, ist die gesonderte und einheitliche Feststellung nach Satz 2 entsprechend zu ändern.
 
+(2a) Wenn im Zeitpunkt der Festsetzung der Forschungszulage die Steuererklärung für die nächste erstmalige Festsetzung von Einkommen- oder Körperschaftsteuer noch nicht abgegeben worden ist und die Vorauszahlungen nach § 37 Absatz 3 Satz 3 des Einkommensteuergesetzes für den letzten noch nicht veranlagten Zeitraum angepasst werden können, hat das Finanzamt die Vorauszahlungen für diesen Veranlagungszeitraum um die festgesetzte Forschungszulage, jedoch höchstens auf 0 Euro, auf Antrag herabzusetzen.
+
 (3) Wird der Forschungszulagenbescheid aufgehoben oder geändert, ist die nach Absatz 1 Satz 2 oder Absatz 2 Satz 1 erfolgte Anrechnung entsprechend zu ändern.
 
 

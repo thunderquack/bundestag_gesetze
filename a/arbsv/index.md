@@ -128,7 +128,7 @@ dienen.
 1.  der Behörde der allgemeinen Verwaltung auf der Kreisstufe, in deren Gebiet die Agentur für Arbeit ihren Sitz hat,
 
 
-2.  der Standortverwaltung, in deren Bereich die Agentur für Arbeit ihren Sitz hat,
+2.  des Bundesamtes für das Personalmanagement der Bundeswehr,
 
 
 3.  der Arbeitnehmer- sowie der Arbeitgebergruppe im Verwaltungsausschuss der Agentur für Arbeit.
@@ -165,10 +165,10 @@ wenn und soweit dies erforderlich ist oder es zwei Mitglieder des Arbeitskräfte
 1.  der Länder, deren Gebiet zum Bezirk der Dienststelle gehören,
 
 
-2.  der Wehrbereichsverwaltung, in deren Zuständigkeitsbereich die Dienststelle ihren Sitz hat,
+2.  des Bundesamtes für das Personalmanagement der Bundeswehr,
 
 
-3.  der Arbeitnehmer- sowie der Arbeitgebergruppe im Verwaltungsausschuss der Dienststelle.
+3.  der Arbeitnehmer- sowie der Arbeitgebergruppe, die im Bezirk der Dienststelle der Bundesagentur für Arbeit, die durch den Vorstand der Bundesagentur für Arbeit mit der Wahrnehmung der Aufgaben nach § 7 Absatz 2 Satz 3 beauftragt ist, Beratungsfunktionen wahrnehmen, die der Selbstverwaltung entsprechen.
 
 
 

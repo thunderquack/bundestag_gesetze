@@ -379,6 +379,12 @@ Bundesfinanzbehörden sind
 41. die Entgegennahme und Weiterleitung von Anzeigen, Umsatzsteuererklärungen und Zahlungen von im Inland oder nicht im Gemeinschaftsgebiet ansässigen Unternehmern oder von im Auftrag handelnden im Inland ansässigen Vertretern in Anwendung der Artikel 369o bis 369v und 369x der Richtlinie 2006/112/EG des Rates in der Fassung von Artikel 2 Nummer 30 der Richtlinie (EU) 2017/2455 des Rates vom 5. Dezember 2017 zur Änderung der Richtlinie 2006/112/EG und der Richtlinie 2009/132/EG in Bezug auf bestimmte mehrwertsteuerliche Pflichten für die Erbringung von Dienstleistungen und für Fernverkäufe von Gegenständen (ABl. L 348 vom 29.12.2017, S. 7) einschließlich der mit der Durchführung des Besteuerungsverfahrens nach § 18k des Umsatzsteuergesetzes zusammenhängenden Tätigkeiten auf Grund der Kapitel V und XI Abschnitt 3 der Verordnung (EU) Nr. 904/2010 des Rates in der Fassung von Artikel 1 der Verordnung (EU) 2017/2454 des Rates vom 5. Dezember 2017 zur Änderung der Verordnung (EU) Nr. 904/2010 des Rates über die Zusammenarbeit der Verwaltungsbehörden und die Betrugsbekämpfung auf dem Gebiet der Mehrwertsteuer (ABl. L 348 vom 29.12.2017, S. 1);
 
 
+41a. die Durchführung des Meldeverfahrens für Kleinunternehmer im übrigen Gemeinschaftsgebiet nach § 19a des Umsatzsteuergesetzes;
+
+
+41b. die Zusammenarbeit mit anderen Mitgliedstaaten nach Kapitel Xa der Verordnung (EU) Nr. 904/2010 des Rates vom 7. Oktober 2010 über die Zusammenarbeit der Verwaltungsbehörden und die Betrugsbekämpfung auf dem Gebiet der Mehrwertsteuer (ABl. L 268 vom 12.10.2010, S. 1) in der jeweils geltenden Fassung;
+
+
 42. die Einrichtung und Pflege des Online-Zugriffs der Finanzämter auf ATLAS-Ein- und Ausfuhrdaten;
 
 
@@ -391,7 +397,7 @@ Bundesfinanzbehörden sind
 44a. die Durchführung des Bußgeldverfahrens in den Fällen des § 379 Absatz 2 Nummer 1e und 1f der Abgabenordnung;
 
 
-45. die Übermittlung von Daten im Rahmen des automatisierten Datenabrufverfahrens mit den Trägern der gesetzlichen Rentenversicherung in den in § 151b Absatz 2 Satz 2 und § 151c Absatz 1 des Sechsten Buches Sozialgesetzbuch genannten Fällen;
+45. die Übermittlung von Daten im Rahmen des automatisierten Datenabrufverfahrens mit den Trägern der gesetzlichen Rentenversicherung in dem in § 151b Absatz 2 Satz 2 des Sechsten Buches Sozialgesetzbuch genannten Fall;
 
 
 45a. die Durchführung des Besteuerungsverfahrens nach dem Gesetz zur Einführung eines EU-Energiekrisenbeitrags nach der Verordnung (EU) 2022/1854;

@@ -53,7 +53,7 @@ Auf Grund des § 108 Absatz 3 Satz 1 der Gewerbeordnung, der durch Artikel 8 des
 8.  den Beitragsgruppenschlüssel und die zuständige Einzugsstelle für den Gesamtsozialversicherungsbeitrag;
 
 
-9.  gegebenenfalls die Angabe, dass ein Beitragszuschlag für Kinderlose nach § 55 Absatz 3 des Elften Buches Sozialgesetzbuch erhoben wird;
+9.  die Kennziffer 0 für den Beitragszuschlag für Kinderlose, die Kennziffern 1 bis 5 für Beschäftigte entsprechend der Anzahl ihrer Kinder, die nach § 55 Absatz 3 des Elften Buches Sozialgesetzbuch zu berücksichtigen sind, sowie eine Kennziffer für Beschäftigte, für die die Elterneigenschaft nachgewiesen ist;
 
 
 10. gegebenenfalls die Angabe, dass es sich um ein Beschäftigungsverhältnis im Übergangsbereich nach § 20 Absatz 2 des Vierten Buches Sozialgesetzbuch handelt;
@@ -88,7 +88,7 @@ Auf Grund des § 108 Absatz 3 Satz 1 der Gewerbeordnung, der durch Artikel 8 des
     c)  Gesamtbruttoentgelt ohne Trennung nach laufenden und einmaligen Bezügen und Abzügen,
 
 
-    d)  pauschal besteuerte Bezüge nach den §§ 37b, 40 Absatz 1 und 2, nach § 40a Absatz 2 und § 40b des Einkommensteuergesetzes jeweils nach ihrer gesetzlichen Grundlage getrennt, als sonstiges Pauschalsteuerbrutto alle weiteren pauschal besteuerten Bezüge;
+    d)  pauschal besteuerte Bezüge nach den §§ 37b, 40 Absatz 1 und 2, nach § 40a Absatz 2 und § 40b sowie § 52 Absatz 40 des Einkommensteuergesetzes jeweils nach ihrer gesetzlichen Grundlage getrennt, als sonstiges Pauschalsteuerbrutto alle weiteren pauschal besteuerten Bezüge;
 
 
 

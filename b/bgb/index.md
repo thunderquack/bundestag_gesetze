@@ -239,12 +239,12 @@ Der Verein ist für den Schaden verantwortlich, den der Vorstand, ein Mitglied d
 
 (2) Bei der Berufung der Versammlung kann vorgesehen werden, dass Mitglieder auch ohne Anwesenheit am Versammlungsort im Wege der elektronischen Kommunikation an der Versammlung teilnehmen und andere Mitgliederrechte ausüben können (hybride Versammlung). Die Mitglieder können beschließen, dass künftige Versammlungen auch als virtuelle Versammlungen einberufen werden können, an der Mitglieder ohne Anwesenheit am Versammlungsort im Wege der elektronischen Kommunikation teilnehmen und ihre anderen Mitgliederrechte ausüben müssen. Wird eine hybride oder virtuelle Versammlung einberufen, so muss bei der Berufung auch angegeben werden, wie die Mitglieder ihre Rechte im Wege der elektronischen Kommunikation ausüben können.
 
-(3) Auch ohne Versammlung der Mitglieder ist ein Beschluss gültig, wenn alle Mitglieder ihre Zustimmung zu dem Beschluss schriftlich erklären.
+(3) Auch ohne Versammlung der Mitglieder ist ein Beschluss gültig, wenn alle Mitglieder ihre Zustimmung zu dem Beschluss in Textform erklären.
 
 
 ###### § 33 Satzungsänderung
 
-(1) Zu einem Beschluss, der eine Änderung der Satzung enthält, ist eine Mehrheit von drei Vierteln der abgegebenen Stimmen erforderlich. Zur Änderung des Zweckes des Vereins ist die Zustimmung aller Mitglieder erforderlich; die Zustimmung der nicht erschienenen Mitglieder muss schriftlich erfolgen.
+(1) Zu einem Beschluss, der eine Änderung der Satzung enthält, ist eine Mehrheit von drei Vierteln der abgegebenen Stimmen erforderlich. Zur Änderung des Zweckes des Vereins ist die Zustimmung aller Mitglieder erforderlich; die Zustimmung der nicht erschienenen Mitglieder muss in Textform erfolgen.
 
 (2) Beruht die Rechtsfähigkeit des Vereins auf Verleihung, so ist zu jeder Änderung der Satzung die Genehmigung der zuständigen Behörde erforderlich.
 
@@ -4836,11 +4836,34 @@ Das Recht des Gläubigers auf den hinterlegten Betrag erlischt mit dem Ablauf vo
 
 ##### § 383 Versteigerung hinterlegungsunfähiger Sachen
 
-(1) Ist die geschuldete bewegliche Sache zur Hinterlegung nicht geeignet, so kann der Schuldner sie im Falle des Verzugs des Gläubigers am Leistungsort versteigern lassen und den Erlös hinterlegen. Das Gleiche gilt in den Fällen des § 372 Satz 2, wenn der Verderb der Sache zu besorgen oder die Aufbewahrung mit unverhältnismäßigen Kosten verbunden ist.
+(1) Ist die geschuldete bewegliche Sache zur Hinterlegung nicht geeignet, so kann der Schuldner sie im Falle des Verzugs des Gläubigers versteigern lassen und den Erlös hinterlegen. Das Gleiche gilt in den Fällen des § 372 Satz 2, wenn der Verderb der Sache zu besorgen oder die Aufbewahrung mit unverhältnismäßigen Kosten verbunden ist.
 
-(2) Ist von der Versteigerung am Leistungsort ein angemessener Erfolg nicht zu erwarten, so ist die Sache an einem geeigneten anderen Orte zu versteigern.
+(2) Die Versteigerung hat durch einen öffentlich bestellten und vereidigten Versteigerer oder durch einen für den Bezirk, in dem sich die zu versteigernde Sache befindet, bestellten Gerichtsvollzieher öffentlich zu erfolgen (öffentliche Versteigerung). Die Versteigerung hat zu erfolgen:
 
-(3) Die Versteigerung hat durch einen für den Versteigerungsort bestellten Gerichtsvollzieher oder zu Versteigerungen befugten anderen Beamten oder öffentlich angestellten Versteigerer öffentlich zu erfolgen (öffentliche Versteigerung). Zeit und Ort der Versteigerung sind unter allgemeiner Bezeichnung der Sache öffentlich bekannt zu machen.
+1.  ausschließlich an einem Versteigerungsort,
+
+
+2.  im Wege elektronischer Kommunikation bei gleichzeitiger Teilnahme an der Versteigerung ohne physische Präsenz der Beteiligten am Versteigerungsort (virtuelle öffentliche Versteigerung) oder
+
+
+3.  an einem Versteigerungsort unter gleichzeitiger Möglichkeit zur Teilnahme im Wege elektronischer Kommunikation ohne physische Präsenz am Versteigerungsort (hybride öffentliche Versteigerung).
+
+
+
+Erfolgt die Versteigerung an einem Versteigerungsort (Satz 2 Nummer 1 oder 3), so muss dieser für die Versteigerung geeignet sein.
+
+(3) Unter allgemeiner Bezeichnung der zu versteigernden Sache sind öffentlich bekannt zu machen:
+
+1.  der Zeitpunkt der Versteigerung,
+
+
+2.  in den Fällen des Absatzes 2 Satz 2 Nummer 1 und bei hybriden öffentlichen Versteigerungen der Versteigerungsort sowie
+
+
+3.  bei virtuellen öffentlichen Versteigerungen und bei hybriden öffentlichen Versteigerungen die Zugangsdaten.
+
+
+
 
 (4) Die Vorschriften der Absätze 1 bis 3 gelten nicht für eingetragene Schiffe und Schiffsbauwerke.
 
@@ -5049,7 +5072,7 @@ Eine Schuld kann von einem Dritten durch Vertrag mit dem Gläubiger in der Weise
 
 (1) Übernimmt der Erwerber eines Grundstücks durch Vertrag mit dem Veräußerer eine Schuld des Veräußerers, für die eine Hypothek an dem Grundstück besteht, so kann der Gläubiger die Schuldübernahme nur genehmigen, wenn der Veräußerer sie ihm mitteilt. Sind seit dem Empfang der Mitteilung sechs Monate verstrichen, so gilt die Genehmigung als erteilt, wenn nicht der Gläubiger sie dem Veräußerer gegenüber vorher verweigert hat; die Vorschrift des § 415 Abs. 2 Satz 2 findet keine Anwendung.
 
-(2) Die Mitteilung des Veräußerers kann erst erfolgen, wenn der Erwerber als Eigentümer im Grundbuch eingetragen ist. Sie muss schriftlich geschehen und den Hinweis enthalten, dass der Übernehmer an die Stelle des bisherigen Schuldners tritt, wenn nicht der Gläubiger die Verweigerung innerhalb der sechs Monate erklärt.
+(2) Die Mitteilung des Veräußerers kann erst erfolgen, wenn der Erwerber als Eigentümer im Grundbuch eingetragen ist. Sie muss in Textform geschehen und den Hinweis enthalten, dass der Übernehmer an die Stelle des bisherigen Schuldners tritt, wenn nicht der Gläubiger die Verweigerung innerhalb der sechs Monate erklärt.
 
 (3) Der Veräußerer hat auf Verlangen des Erwerbers dem Gläubiger die Schuldübernahme mitzuteilen. Sobald die Erteilung oder Verweigerung der Genehmigung feststeht, hat der Veräußerer den Erwerber zu benachrichtigen.
 
@@ -6019,11 +6042,13 @@ Keine Immobiliar-Verbraucherdarlehensverträge sind Verträge gemäß Absatz 2 S
 (7) Die Vereinbarung eines veränderlichen Sollzinssatzes, der sich nach einem Index oder Referenzzinssatz richtet, ist nur wirksam, wenn der Index oder Referenzzinssatz objektiv, eindeutig bestimmt und für Darlehensgeber und Darlehensnehmer verfügbar und überprüfbar ist.
 
 
-###### § 492a Kopplungsgeschäfte bei Immobiliar-Verbraucherdarlehensverträgen
+###### § 492a Kopplungsgeschäfte
 
 (1) Der Darlehensgeber darf den Abschluss eines Immobiliar-Verbraucherdarlehenvertrags unbeschadet des § 492b nicht davon abhängig machen, dass der Darlehensnehmer oder ein Dritter weitere Finanzprodukte oder -dienstleistungen erwirbt (Kopplungsgeschäft). Ist der Darlehensgeber zum Abschluss des Immobiliar-Verbraucherdarlehensvertrags bereit, ohne dass der Verbraucher weitere Finanzprodukte oder -dienstleistungen erwirbt, liegt ein Kopplungsgeschäft auch dann nicht vor, wenn die Bedingungen für den Immobiliar-Verbraucherdarlehensvertrag von denen abweichen, zu denen er zusammen mit den weiteren Finanzprodukten oder -dienstleistungen angeboten wird.
 
-(2) Soweit ein Kopplungsgeschäft unzulässig ist, sind die mit dem Immobiliar-Verbraucherdarlehensvertrag gekoppelten Geschäfte nichtig; die Wirksamkeit des Immobiliar-Verbraucherdarlehensvertrags bleibt davon unberührt.
+(1a) Der Darlehensgeber darf den Abschluss eines Allgemein-Verbraucherdarlehensvertrags nicht davon abhängig machen, dass der Darlehensnehmer oder ein Dritter eine Restschuldversicherung abschließt. Ist der Darlehensgeber zum Abschluss des Allgemein-Verbraucherdarlehensvertrags bereit, ohne dass der Verbraucher eine Restschuldversicherung abschließt, liegt ein Kopplungsgeschäft auch dann nicht vor, wenn die Bedingungen für den Allgemein-Verbraucherdarlehensvertrag von denen abweichen, zu denen er zusammen mit der Restschuldversicherung angeboten wird.
+
+(2) Soweit ein Kopplungsgeschäft nach Absatz 1 oder Absatz 1a unzulässig ist, sind die mit dem Verbraucherdarlehensvertrag gekoppelten Geschäfte nichtig; die Wirksamkeit des Verbraucherdarlehensvertrags bleibt davon unberührt.
 
 
 ###### § 492b Zulässige Kopplungsgeschäfte
@@ -7039,7 +7064,9 @@ Die Vertragsparteien können nach Abschluss des Mietvertrags aus Anlass von Erha
 
 (3a) Ein Glasfaserbereitstellungsentgelt nach § 72 Absatz 1 des Telekommunikationsgesetzes hat der Mieter nur bei wirtschaftlicher Umsetzung der Maßnahme zu tragen. Handelt es sich um eine aufwändige Maßnahme im Sinne von § 72 Absatz 2 Satz 4 des Telekommunikationsgesetzes, hat der Mieter die Kosten nur dann zu tragen, wenn der Vermieter vor Vereinbarung der Glasfaserbereitstellung soweit möglich drei Angebote eingeholt und das wirtschaftlichste ausgewählt hat.
 
-(4) Eine zum Nachteil des Mieters von Absatz 1, Absatz 2 Satz 2, Absatz 3 oder Absatz 3a abweichende Vereinbarung ist unwirksam.
+(4) Der Vermieter hat dem Mieter auf Verlangen Einsicht in die der Abrechnung zugrundeliegenden Belege zu gewähren. Der Vermieter ist berechtigt, die Belege elektronisch bereitzustellen.
+
+(5) Eine zum Nachteil des Mieters von Absatz 1, Absatz 2 Satz 2, Absatz 3 oder Absatz 3a abweichende Vereinbarung ist unwirksam.
 
 
 ###### § 556a Abrechnungsmaßstab für Betriebskosten
@@ -7710,7 +7737,7 @@ Dem Mieter steht kein Zurückbehaltungsrecht gegen den Rückgabeanspruch des Ver
 
 ###### § 574b Form und Frist des Widerspruchs
 
-(1) Der Widerspruch des Mieters gegen die Kündigung ist schriftlich zu erklären. Auf Verlangen des Vermieters soll der Mieter über die Gründe des Widerspruchs unverzüglich Auskunft erteilen.
+(1) Der Widerspruch des Mieters gegen die Kündigung ist in Textform zu erklären. Auf Verlangen des Vermieters soll der Mieter über die Gründe des Widerspruchs unverzüglich Auskunft erteilen.
 
 (2) Der Vermieter kann die Fortsetzung des Mietverhältnisses ablehnen, wenn der Mieter ihm den Widerspruch nicht spätestens zwei Monate vor der Beendigung des Mietverhältnisses erklärt hat. Hat der Vermieter nicht rechtzeitig vor Ablauf der Widerspruchsfrist auf die Möglichkeit des Widerspruchs sowie auf dessen Form und Frist hingewiesen, so kann der Mieter den Widerspruch noch im ersten Termin des Räumungsrechtsstreits erklären.
 
@@ -7852,7 +7879,7 @@ Satz 1 ist nicht anzuwenden, wenn die Gesellschafter oder Erwerber derselben Fam
 
 ###### § 578 Mietverhältnisse über Grundstücke und Räume
 
-(1) Auf Mietverhältnisse über Grundstücke sind die Vorschriften der §§ 550, 554, 562 bis 562d, 566 bis 567b sowie 570 entsprechend anzuwenden.
+(1) Auf Mietverhältnisse über Grundstücke sind die Vorschriften der §§ 554, 562 bis 562d, 566 bis 567b sowie 570 entsprechend anzuwenden. § 550 ist mit der Maßgabe anzuwenden, dass ein Mietvertrag, der für längere Zeit als ein Jahr nicht in Textform geschlossen wird, für unbestimmte Zeit gilt.
 
 (2) Auf Mietverhältnisse über Räume, die keine Wohnräume sind, sind die in Absatz 1 genannten Vorschriften sowie § 552 Abs. 1, § 555a Absatz 1 bis 3, §§ 555b, 555c Absatz 1 bis 4, § 555d Absatz 1 bis 6, § 555e Absatz 1 und 2, § 555f und § 569 Abs. 2 entsprechend anzuwenden. § 556c Absatz 1 und 2 sowie die auf Grund des § 556c Absatz 3 erlassene Rechtsverordnung sind entsprechend anzuwenden, abweichende Vereinbarungen sind zulässig. Sind die Räume zum Aufenthalt von Menschen bestimmt, so gilt außerdem § 569 Abs. 1 entsprechend.
 
@@ -8002,7 +8029,7 @@ Gibt der Pächter den gepachteten Gegenstand nach der Beendigung des Pachtverhä
 
 ###### § 585a Form des Landpachtvertrags
 
-Wird der Landpachtvertrag für längere Zeit als zwei Jahre nicht in schriftlicher Form geschlossen, so gilt er für unbestimmte Zeit.
+Wird der Landpachtvertrag für längere Zeit als zwei Jahre nicht in Textform geschlossen, so gilt er für unbestimmte Zeit.
 
 
 ###### § 585b Beschreibung der Pachtsache
@@ -8136,7 +8163,7 @@ Das Pachtverhältnis endet mit dem Ablauf der Zeit, für die es eingegangen ist.
 
 ###### § 594a Kündigungsfristen
 
-(1) Ist die Pachtzeit nicht bestimmt, so kann jeder Vertragsteil das Pachtverhältnis spätestens am dritten Werktag eines Pachtjahrs für den Schluss des nächsten Pachtjahrs kündigen. Im Zweifel gilt das Kalenderjahr als Pachtjahr. Die Vereinbarung einer kürzeren Frist bedarf der Schriftform.
+(1) Ist die Pachtzeit nicht bestimmt, so kann jeder Vertragsteil das Pachtverhältnis spätestens am dritten Werktag eines Pachtjahrs für den Schluss des nächsten Pachtjahrs kündigen. Im Zweifel gilt das Kalenderjahr als Pachtjahr. Die Vereinbarung einer kürzeren Frist bedarf der Textform.
 
 (2) Für die Fälle, in denen das Pachtverhältnis außerordentlich mit der gesetzlichen Frist vorzeitig gekündigt werden kann, ist die Kündigung nur für den Schluss eines Pachtjahrs zulässig; sie hat spätestens am dritten Werktag des halben Jahres zu erfolgen, mit dessen Ablauf die Pacht enden soll.
 
@@ -8155,7 +8182,7 @@ Ist der Pächter berufsunfähig im Sinne der Vorschriften der gesetzlichen Rente
 
 (1) Stirbt der Pächter, so sind sowohl seine Erben als auch der Verpächter innerhalb eines Monats, nachdem sie vom Tod des Pächters Kenntnis erlangt haben, berechtigt, das Pachtverhältnis mit einer Frist von sechs Monaten zum Ende eines Kalendervierteljahrs zu kündigen.
 
-(2) Die Erben können der Kündigung des Verpächters widersprechen und die Fortsetzung des Pachtverhältnisses verlangen, wenn die ordnungsmäßige Bewirtschaftung der Pachtsache durch sie oder durch einen von ihnen beauftragten Miterben oder Dritten gewährleistet erscheint. Der Verpächter kann die Fortsetzung des Pachtverhältnisses ablehnen, wenn die Erben den Widerspruch nicht spätestens drei Monate vor Ablauf des Pachtverhältnisses erklärt und die Umstände mitgeteilt haben, nach denen die weitere ordnungsmäßige Bewirtschaftung der Pachtsache gewährleistet erscheint. Die Widerspruchserklärung und die Mitteilung bedürfen der schriftlichen Form. Kommt keine Einigung zustande, so entscheidet auf Antrag das Landwirtschaftsgericht.
+(2) Die Erben können der Kündigung des Verpächters widersprechen und die Fortsetzung des Pachtverhältnisses verlangen, wenn die ordnungsmäßige Bewirtschaftung der Pachtsache durch sie oder durch einen von ihnen beauftragten Miterben oder Dritten gewährleistet erscheint. Der Verpächter kann die Fortsetzung des Pachtverhältnisses ablehnen, wenn die Erben den Widerspruch nicht spätestens drei Monate vor Ablauf des Pachtverhältnisses erklärt und die Umstände mitgeteilt haben, nach denen die weitere ordnungsmäßige Bewirtschaftung der Pachtsache gewährleistet erscheint. Die Widerspruchserklärung und die Mitteilung bedürfen der Textform. Kommt keine Einigung zustande, so entscheidet auf Antrag das Landwirtschaftsgericht.
 
 (3) Gegenüber einer Kündigung des Verpächters nach Absatz 1 ist ein Fortsetzungsverlangen des Erben nach § 595 ausgeschlossen.
 
@@ -8203,7 +8230,7 @@ und die vertragsmäßige Beendigung des Pachtverhältnisses für den Pächter od
 
 
 
-(4) Die Erklärung des Pächters, mit der er die Fortsetzung des Pachtverhältnisses verlangt, bedarf der schriftlichen Form. Auf Verlangen des Verpächters soll der Pächter über die Gründe des Fortsetzungsverlangens unverzüglich Auskunft erteilen.
+(4) Die Erklärung des Pächters, mit der er die Fortsetzung des Pachtverhältnisses verlangt, bedarf der Textform. Auf Verlangen des Verpächters soll der Pächter über die Gründe des Fortsetzungsverlangens unverzüglich Auskunft erteilen.
 
 (5) Der Verpächter kann die Fortsetzung des Pachtverhältnisses ablehnen, wenn der Pächter die Fortsetzung nicht mindestens ein Jahr vor Beendigung des Pachtverhältnisses vom Verpächter verlangt oder auf eine Anfrage des Verpächters nach § 594 die Fortsetzung abgelehnt hat. Ist eine zwölfmonatige oder kürzere Kündigungsfrist vereinbart, so genügt es, wenn das Verlangen innerhalb eines Monats nach Zugang der Kündigung erklärt wird.
 
@@ -8596,7 +8623,7 @@ Nach der Kündigung eines dauernden Dienstverhältnisses hat der Dienstberechtig
 
 ###### § 630 Pflicht zur Zeugniserteilung
 
-Bei der Beendigung eines dauernden Dienstverhältnisses kann der Verpflichtete von dem anderen Teil ein schriftliches Zeugnis über das Dienstverhältnis und dessen Dauer fordern. Das Zeugnis ist auf Verlangen auf die Leistungen und die Führung im Dienst zu erstrecken. Die Erteilung des Zeugnisses in elektronischer Form ist ausgeschlossen. Wenn der Verpflichtete ein Arbeitnehmer ist, findet § 109 der Gewerbeordnung Anwendung.
+Bei der Beendigung eines dauernden Dienstverhältnisses kann der Verpflichtete von dem anderen Teil ein schriftliches Zeugnis über das Dienstverhältnis und dessen Dauer fordern. Das Zeugnis ist auf Verlangen auf die Leistungen und die Führung im Dienst zu erstrecken. Das Zeugnis kann mit Einwilligung des Verpflichteten in elektronischer Form erteilt werden. Wenn der Verpflichtete ein Arbeitnehmer ist, findet § 109 der Gewerbeordnung Anwendung.
 
 
 ##### Untertitel 2 - Behandlungsvertrag
@@ -12975,7 +13002,7 @@ Wer infolge der Vorschriften der §§ 973, 974, 976 einen Rechtsverlust erleidet
 Reichs,              der
 Bundesstaaten              und der Gemeinden können die Versteigerung durch einen ihrer Beamten vornehmen lassen.
 
-(1a) Die Versteigerung kann nach Maßgabe der nachfolgenden Vorschriften auch als allgemein zugängliche Versteigerung im Internet erfolgen.
+(1a) Die Versteigerung kann nach Maßgabe der nachfolgenden Vorschriften auch als allgemein zugängliche Versteigerung im Internet über eine Versteigerungsplattform erfolgen.
 
 (1b) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates für ihren Bereich Versteigerungsplattformen zur Versteigerung von Fundsachen zu bestimmen; sie kann diese Ermächtigung durch Rechtsverordnung auf die fachlich zuständigen obersten Bundesbehörden übertragen. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung für ihren Bereich entsprechende Regelungen zu treffen; sie können die Ermächtigung auf die fachlich zuständigen obersten Landesbehörden übertragen. Die Länder können Versteigerungsplattformen bestimmen, die sie länderübergreifend nutzen. Sie können eine Übertragung von Abwicklungsaufgaben auf die zuständige Stelle eines anderen Landes vereinbaren.
 
@@ -14698,19 +14725,19 @@ Der Pfandgläubiger ist nicht verpflichtet, einem ihm im Range nachstehenden Pfa
 (2) Hat das Pfand einen Börsen- oder Marktpreis, so findet die Vorschrift des § 1221 Anwendung.
 
 
-##### § 1236 Versteigerungsort
+##### § 1236 Durchführung der Versteigerung
 
-Die Versteigerung hat an dem Orte zu erfolgen, an dem das Pfand aufbewahrt wird. Ist von einer Versteigerung an dem Aufbewahrungsort ein angemessener Erfolg nicht zu erwarten, so ist das Pfand an einem geeigneten anderen Orte zu versteigern.
+Für die Durchführung der Versteigerung ist § 383 Absatz 2 Satz 2 und 3 anzuwenden.
 
 
 ##### § 1237 Öffentliche Bekanntmachung
 
-Zeit und Ort der Versteigerung sind unter allgemeiner Bezeichnung des Pfandes öffentlich bekannt zu machen. Der Eigentümer und Dritte, denen Rechte an dem Pfande zustehen, sind besonders zu benachrichtigen; die Benachrichtigung darf unterbleiben, wenn sie untunlich ist.
+Für die öffentliche Bekanntmachung der Versteigerung ist § 383 Absatz 3 anzuwenden. Der Eigentümer und Dritte, denen Rechte an dem Pfande zustehen, sind besonders zu benachrichtigen; die Benachrichtigung darf unterbleiben, wenn sie untunlich ist.
 
 
 ##### § 1238 Verkaufsbedingungen
 
-(1) Das Pfand darf nur mit der Bestimmung verkauft werden, dass der Käufer den Kaufpreis sofort bar zu entrichten hat und seiner Rechte verlustig sein soll, wenn dies nicht geschieht.
+(1) Das Pfand darf nur mit der Bestimmung verkauft werden, dass der Käufer den Kaufpreis sofort zu entrichten hat und seiner Rechte verlustig sein soll, wenn dies nicht geschieht.
 
 (2) Erfolgt der Verkauf ohne diese Bestimmung, so ist der Kaufpreis als von dem Pfandgläubiger empfangen anzusehen; die Rechte des Pfandgläubigers gegen den Ersteher bleiben unberührt. Unterbleibt die sofortige Entrichtung des Kaufpreises, so gilt das Gleiche, wenn nicht vor dem Schluss des Versteigerungstermins von dem Vorbehalt der Rechtsverwirkung Gebrauch gemacht wird.
 
@@ -14719,7 +14746,7 @@ Zeit und Ort der Versteigerung sind unter allgemeiner Bezeichnung des Pfandes ö
 
 (1) Der Pfandgläubiger und der Eigentümer können bei der Versteigerung mitbieten. Erhält der Pfandgläubiger den Zuschlag, so ist der Kaufpreis als von ihm empfangen anzusehen.
 
-(2) Das Gebot des Eigentümers darf zurückgewiesen werden, wenn nicht der Betrag bar erlegt wird. Das Gleiche gilt von dem Gebot des Schuldners, wenn das Pfand für eine fremde Schuld haftet.
+(2) Das Gebot des Eigentümers darf zurückgewiesen werden, wenn nicht der Betrag mit dem Gebot zur Verfügung gestellt wird. Das Gleiche gilt von dem Gebot des Schuldners, wenn das Pfand für eine fremde Schuld haftet.
 
 
 ##### § 1240 Gold- und Silbersachen

@@ -59,7 +59,7 @@ Die Zahl der Mitglieder muss mindestens drei betragen.
 
 ### § 5 Form der Satzung
 
-Die Satzung der Genossenschaft bedarf der schriftlichen Form.
+Die Satzung der Genossenschaft bedarf der Textform.
 
 
 ### § 6 Mindestinhalt der Satzung
@@ -161,7 +161,15 @@ Die Satzung muss ferner bestimmen:
 
 (2) Der Anmeldung sind beizufügen:
 
-1.  die Satzung, die von mindestens drei Mitgliedern unterzeichnet sein muss;
+1.  die Satzung, die
+
+    a)  von mindestens drei Mitgliedern unterzeichnet sein muss oder
+
+
+    b)  verbunden sein muss mit einer Versicherung des Vorstands, dass die eingereichte Satzung der von der Gründungsversammlung beschlossenen Satzung entspricht, sowie der Erklärung von mindestens drei Personen in Textform, dass sie in der Gründungsversammlung Mitglied der Genossenschaft geworden sind;
+
+
+
 
 
 2.  eine Abschrift der Urkunden über die Bestellung des Vorstands und des Aufsichtsrats;
@@ -223,21 +231,21 @@ Vor der Eintragung in das Genossenschaftsregister ihres Sitzes hat die Genossens
 -
 
 
-### § 15 Beitrittserklärung
+### § 15 Erwerb der Mitgliedschaft
 
-(1) Die Mitgliedschaft wird durch eine schriftliche, unbedingte Beitrittserklärung und die Zulassung des Beitritts durch die Genossenschaft erworben. Dem Antragsteller ist vor Abgabe seiner Beitrittserklärung eine Abschrift der Satzung in der jeweils geltenden Fassung zur Verfügung zu stellen; es reicht aus, wenn die Satzung im Internet unter der Adresse der Genossenschaft abrufbar ist und dem Antragsteller ein Ausdruck der Satzung angeboten wird. Eine Vollmacht zur Abgabe der Beitrittserklärung bedarf der Schriftform. Bei Gründungsmitgliedern kann die Mitgliedschaft statt durch Beitrittserklärung durch Unterzeichnung der Satzung erworben werden.
+(1) Die Mitgliedschaft wird durch eine unbedingte Beitrittserklärung in Textform und die Zulassung des Beitritts durch die Genossenschaft erworben; die Satzung kann für die Beitrittserklärung die Schriftform vorschreiben. Dem Antragsteller ist vor Abgabe seiner Beitrittserklärung eine Abschrift der Satzung in der jeweils geltenden Fassung zur Verfügung zu stellen; es reicht aus, wenn die Satzung im Internet unter der Adresse der Genossenschaft abrufbar ist und dem Antragsteller ein Ausdruck der Satzung angeboten wird. Eine Vollmacht zur Abgabe der Beitrittserklärung bedarf der Textform. Bei Gründungsmitgliedern kann die Mitgliedschaft statt durch Beitrittserklärung durch Unterzeichnung der Satzung erworben werden.
 
-(2) Das Mitglied ist unverzüglich in die Mitgliederliste einzutragen und hiervon unverzüglich zu benachrichtigen. Lehnt die Genossenschaft die Zulassung ab, hat sie dies dem Antragsteller unverzüglich unter Rückgabe seiner Beitrittserklärung mitzuteilen.
+(2) Das Mitglied ist unverzüglich in die Mitgliederliste einzutragen und hiervon unverzüglich zu benachrichtigen. Lehnt die Genossenschaft die Zulassung ab, hat sie dies dem Antragsteller unverzüglich mitzuteilen. Zusätzlich zu der Mitteilung nach Satz 2 ist im Falle einer schriftlichen Beitrittserklärung diese unverzüglich zurückzugeben. Bei einer elektronischen Beitrittserklärung sind die Daten der Beitrittserklärung unverzüglich nach Absenden der Mitteilung nach Satz 2 zu löschen.
 
 
 ### § 15a Inhalt der Beitrittserklärung
 
-Die Beitrittserklärung muss die ausdrückliche Verpflichtung des Mitglieds enthalten, die nach Gesetz und Satzung geschuldeten Einzahlungen auf den Geschäftsanteil zu leisten. Bestimmt die Satzung, dass die Mitglieder unbeschränkt oder beschränkt auf eine Haftsumme Nachschüsse zu leisten haben, so muss die Beitrittserklärung ferner die ausdrückliche Verpflichtung enthalten, die zur Befriedigung der Gläubiger erforderlichen Nachschüsse unbeschränkt oder bis zu der in der Satzung bestimmten Haftsumme zu zahlen. Bestimmt die Satzung weitere Zahlungspflichten oder eine Kündigungsfrist von mehr als einem Jahr, so muss dies in der Beitrittserklärung ausdrücklich zur Kenntnis genommen werden.
+Die Beitrittserklärung muss die ausdrückliche Verpflichtung des Mitglieds enthalten, die nach Gesetz und Satzung geschuldeten Einzahlungen auf den Geschäftsanteil zu leisten. Bestimmt die Satzung, dass die Mitglieder unbeschränkt oder beschränkt auf eine Haftsumme Nachschüsse zu leisten haben, so muss die Beitrittserklärung ferner die ausdrückliche Verpflichtung enthalten, die zur Befriedigung der Gläubiger erforderlichen Nachschüsse unbeschränkt oder bis zu der in der Satzung bestimmten Haftsumme zu zahlen. Bestimmt die Satzung weitere Zahlungspflichten oder eine Kündigungsfrist von mehr als einem Jahr, so muss dies in der Beitrittserklärung ausdrücklich zur Kenntnis genommen werden. In einer elektronisch vorgefertigten Beitrittserklärung müssen eine Verpflichtung nach Satz 2 und die in Satz 3 genannten Umstände optisch hervorgehoben werden.
 
 
 ### § 15b Beteiligung mit weiteren Geschäftsanteilen
 
-(1) Zur Beteiligung mit weiteren Geschäftsanteilen bedarf es einer schriftlichen und unbedingten Beitrittserklärung. Für deren Inhalt gilt § 15a entsprechend.
+(1) Zur Beteiligung mit weiteren Geschäftsanteilen bedarf es einer unbedingten Beitrittserklärung in Textform; die Satzung kann in diesem Fall für die Beitrittserklärung die Schriftform vorschreiben. Für deren Inhalt gilt § 15a entsprechend.
 
 (2) Die Beteiligung mit weiteren Geschäftsanteilen darf, außer bei einer Pflichtbeteiligung, nicht zugelassen werden, bevor alle Geschäftsanteile des Mitglieds, bis auf den zuletzt neu übernommenen, voll eingezahlt sind.
 
@@ -365,7 +373,7 @@ Die Satzung kann bestimmen, dass der Gewinn nicht verteilt, sondern der gesetzli
 
 (2) Der Vorstand der Genossenschaft hat dafür zu sorgen, dass den Mitgliedern der Genossenschaft vor Vertragsschluss die wesentlichen Informationen über das Investitionsvorhaben sowie mögliche Risiken aus der Darlehensgewährung zur Verfügung gestellt werden.
 
-(3) Der Vorstand hat während der gesamten Laufzeit des Darlehens die Einhaltung der Zweckbindung sicherzustellen. Eine Änderung der Zweckbindung zugunsten eines anderen zulässigen Investitionsvorhabens der Genossenschaft ist nur gestattet, wenn das jeweilige Mitglied der Änderung schriftlich zustimmt, nachdem es die wesentlichen Informationen über das andere Investitionsvorhaben erhalten hat.
+(3) Der Vorstand hat während der gesamten Laufzeit des Darlehens die Einhaltung der Zweckbindung sicherzustellen. Eine Änderung der Zweckbindung zugunsten eines anderen zulässigen Investitionsvorhabens der Genossenschaft ist nur gestattet, wenn das jeweilige Mitglied der Änderung in Textform zustimmt, nachdem es die wesentlichen Informationen über das andere Investitionsvorhaben erhalten hat.
 
 (4) Das Mitglied ist an seine Willenserklärung, die auf den Abschluss des Darlehensvertrags gerichtet ist, nicht mehr gebunden, wenn es sie fristgerecht in Textform gegenüber der Genossenschaft widerrufen hat. Der Widerruf muss keine Begründung enthalten. Die Widerrufsfrist beträgt 14 Tage. Sie beginnt mit Vertragsschluss, wenn der Vertrag einen deutlichen Hinweis auf das Widerrufsrecht enthält, sonst zu dem Zeitpunkt, zu dem das Mitglied einen solchen Hinweis in Textform erhält. Ist der Beginn der Widerrufsfrist streitig, so trifft die Beweislast die Genossenschaft. Das Widerrufsrecht erlischt spätestens zwölf Monate nach dem Vertragsschluss. Zur Fristwahrung genügt die rechtzeitige Absendung des Widerrufs. Im Fall des Widerrufs ist der empfangene Darlehensbetrag unverzüglich zurückzugewähren. Für den Zeitraum zwischen der Auszahlung des Darlehensbetrages des Mitglieds an die Genossenschaft und der Rückzahlung an das Mitglied hat die Genossenschaft den vereinbarten Sollzinssatz zu zahlen.
 
@@ -636,7 +644,7 @@ Zur Aufhebung oder Änderung der Bestimmungen der Satzung über Mehrstimmrechte 
 
 (4) Das Mitglied soll sein Stimmrecht persönlich ausüben. Das Stimmrecht geschäftsunfähiger oder in der Geschäftsfähigkeit beschränkter natürlicher Personen sowie das Stimmrecht von juristischen Personen wird durch ihre gesetzlichen Vertreter, das Stimmrecht von rechtsfähigen Personengesellschaften durch deren vertretungsbefugte Gesellschafter ausgeübt.
 
-(5) Das Mitglied oder sein gesetzlicher Vertreter können Stimmvollmacht erteilen. Für die Vollmacht ist die schriftliche Form erforderlich. Ein Bevollmächtigter kann nicht mehr als zwei Mitglieder vertreten. Die Satzung kann persönliche Voraussetzungen für Bevollmächtigte aufstellen, insbesondere die Bevollmächtigung von Personen ausschließen, die sich geschäftsmäßig zur Ausübung des Stimmrechts erbieten.
+(5) Das Mitglied oder sein gesetzlicher Vertreter können Stimmvollmacht erteilen. Für die Vollmacht ist die Textform erforderlich; die Satzung kann für die Vollmacht die Schriftform vorschreiben. Ein Bevollmächtigter kann nicht mehr als zwei Mitglieder vertreten. Die Satzung kann persönliche Voraussetzungen für Bevollmächtigte aufstellen, insbesondere die Bevollmächtigung von Personen ausschließen, die sich geschäftsmäßig zur Ausübung des Stimmrechts erbieten.
 
 (6) Niemand kann für sich oder für einen anderen das Stimmrecht ausüben, wenn darüber Beschluss gefasst wird, ob er oder das vertretene Mitglied zu entlasten oder von einer Verbindlichkeit zu befreien ist oder ob die Genossenschaft gegen ihn oder das vertretene Mitglied einen Anspruch geltend machen soll.
 
@@ -703,7 +711,7 @@ Eine Zahl von 150 Mitgliedern ist in jedem Fall ausreichend, um einen Wahlvorsch
 
 
 
-(2) Bei einer Präsenzversammlung können Beschlüsse der Mitglieder auch schriftlich oder im Wege der elektronischen Kommunikation gefasst werden; das Nähere hat die Satzung zu regeln. Ferner kann die Satzung vorsehen, dass
+(2) Bei einer Präsenzversammlung können Beschlüsse der Mitglieder auch schriftlich oder im Wege der elektronischen Kommunikation gefasst werden; Absatz 6 gilt entsprechend. Ferner kann die Satzung vorsehen, dass
 
 1.  in bestimmten Fällen Mitglieder des Aufsichtsrats im Wege der Bild- und Tonübertragung an der Generalversammlung teilnehmen können und
 
@@ -1180,7 +1188,7 @@ Auch aufgelöste Genossenschaften unterliegen den Vorschriften dieses Abschnitts
 
 (1) Jedes Mitglied hat das Recht, seine Mitgliedschaft durch Kündigung zu beenden.
 
-(2) Die Kündigung kann nur zum Schluss eines Geschäftsjahres und mindestens drei Monate vor dessen Ablauf in schriftlicher Form erklärt werden. In der Satzung kann eine längere, höchstens fünfjährige Kündigungsfrist bestimmt werden. Bei Genossenschaften, bei denen mehr als drei Viertel der Mitglieder als Unternehmer im Sinne des § 14 des Bürgerlichen Gesetzbuchs Mitglied sind, kann die Satzung zum Zweck der Sicherung der Finanzierung des Anlagevermögens für die Unternehmer eine Kündigungsfrist bis zu zehn Jahre bestimmen.
+(2) Die Kündigung kann nur zum Schluss eines Geschäftsjahres und mindestens drei Monate vor dessen Ablauf in Textform erklärt werden; die Satzung kann für die Kündigung die Schriftform vorschreiben. In der Satzung kann eine längere, höchstens fünfjährige Kündigungsfrist bestimmt werden. Bei Genossenschaften, bei denen mehr als drei Viertel der Mitglieder als Unternehmer im Sinne des § 14 des Bürgerlichen Gesetzbuchs Mitglied sind, kann die Satzung zum Zweck der Sicherung der Finanzierung des Anlagevermögens für die Unternehmer eine Kündigungsfrist bis zu zehn Jahre bestimmen.
 
 (3) Entgegen einer in der Satzung bestimmten Kündigungsfrist von mehr als zwei Jahren kann jedes Mitglied, das der Genossenschaft mindestens ein volles Geschäftsjahr angehört hat, seine Mitgliedschaft durch Kündigung vorzeitig beenden, wenn ihm nach seinen persönlichen oder wirtschaftlichen Verhältnissen ein Verbleib in der Genossenschaft bis zum Ablauf der Kündigungsfrist nicht zugemutet werden kann. Die Kündigung ist in diesem Fall mit einer Frist von drei Monaten zum Schluss eines Geschäftsjahres zu erklären, zu dem das Mitglied nach der Satzung noch nicht kündigen kann.
 
@@ -1203,7 +1211,7 @@ Wird das Insolvenzverfahren über das Vermögen eines Mitglieds eröffnet und ei
 
 ### § 67 Beendigung der Mitgliedschaft wegen Aufgabe des Wohnsitzes
 
-Ist nach der Satzung die Mitgliedschaft an den Wohnsitz innerhalb eines bestimmten Bezirks geknüpft, kann ein Mitglied, das seinen Wohnsitz in diesem Bezirk aufgibt, seine Mitgliedschaft ohne Einhaltung einer Kündigungsfrist zum Schluss des Geschäftsjahres kündigen; die Kündigung bedarf der Schriftform. Über die Aufgabe des Wohnsitzes ist die Bescheinigung einer Behörde vorzulegen.
+Ist nach der Satzung die Mitgliedschaft an den Wohnsitz innerhalb eines bestimmten Bezirks geknüpft, kann ein Mitglied, das seinen Wohnsitz in diesem Bezirk aufgibt, seine Mitgliedschaft ohne Einhaltung einer Kündigungsfrist zum Schluss des Geschäftsjahres kündigen; die Kündigung bedarf der Textform; die Satzung kann für die Kündigung die Schriftform vorschreiben. Über die Aufgabe des Wohnsitzes ist die Bescheinigung einer Behörde vorzulegen.
 
 
 ### § 67a Außerordentliches Kündigungsrecht
@@ -1219,12 +1227,12 @@ Ist nach der Satzung die Mitgliedschaft an den Wohnsitz innerhalb eines bestimmt
 
 Hat eine Vertreterversammlung die Änderung der Satzung beschlossen, kann jedes Mitglied kündigen; für die Vertreter gilt Satz 1.
 
-(2) Die Kündigung bedarf der Schriftform. Sie kann nur innerhalb eines Monats zum Schluss des Geschäftsjahres erklärt werden. Die Frist beginnt in den Fällen des Absatzes 1 Satz 1 Nr. 1 mit der Beschlussfassung, in den Fällen des Absatzes 1 Satz 1 Nr. 2 mit der Erlangung der Kenntnis von der Beschlussfassung. Ist der Zeitpunkt der Kenntniserlangung streitig, trägt die Genossenschaft die Beweislast. Im Falle der Kündigung wirkt die Änderung der Satzung weder für noch gegen das Mitglied.
+(2) Die Kündigung bedarf der Textform; die Satzung kann für die Kündigung die Schriftform vorschreiben. Sie kann nur innerhalb eines Monats zum Schluss des Geschäftsjahres erklärt werden. Die Frist beginnt in den Fällen des Absatzes 1 Satz 1 Nr. 1 mit der Beschlussfassung, in den Fällen des Absatzes 1 Satz 1 Nr. 2 mit der Erlangung der Kenntnis von der Beschlussfassung. Ist der Zeitpunkt der Kenntniserlangung streitig, trägt die Genossenschaft die Beweislast. Im Falle der Kündigung wirkt die Änderung der Satzung weder für noch gegen das Mitglied.
 
 
 ### § 67b Kündigung einzelner Geschäftsanteile
 
-(1) Ein Mitglied, das mit mehreren Geschäftsanteilen beteiligt ist, kann die Beteiligung mit einem oder mehreren seiner weiteren Geschäftsanteile zum Schluss eines Geschäftsjahres durch schriftliche Erklärung kündigen, soweit es nicht nach der Satzung oder einer Vereinbarung mit der Genossenschaft zur Beteiligung mit mehreren Geschäftsanteilen verpflichtet ist oder die Beteiligung mit mehreren Geschäftsanteilen Voraussetzung für eine von dem Mitglied in Anspruch genommene Leistung der Genossenschaft ist.
+(1) Ein Mitglied, das mit mehreren Geschäftsanteilen beteiligt ist, kann die Beteiligung mit einem oder mehreren seiner weiteren Geschäftsanteile zum Schluss eines Geschäftsjahres durch Erklärung in Textform kündigen, soweit es nicht nach der Satzung oder einer Vereinbarung mit der Genossenschaft zur Beteiligung mit mehreren Geschäftsanteilen verpflichtet ist oder die Beteiligung mit mehreren Geschäftsanteilen Voraussetzung für eine von dem Mitglied in Anspruch genommene Leistung der Genossenschaft ist. Die Satzung kann für die Kündigung die Schriftform vorschreiben.
 
 (2) § 65 Abs. 2 bis 5 gilt sinngemäß.
 
@@ -1283,7 +1291,7 @@ Wird die Genossenschaft binnen sechs Monaten nach Beendigung der Mitgliedschaft 
 
 ### § 76 Übertragung des Geschäftsguthabens
 
-(1) Jedes Mitglied kann sein Geschäftsguthaben jederzeit durch schriftliche Vereinbarung einem anderen ganz oder teilweise übertragen und hierdurch seine Mitgliedschaft ohne Auseinandersetzung beenden oder die Anzahl seiner Geschäftsanteile verringern, sofern der Erwerber, im Fall einer vollständigen Übertragung anstelle des Mitglieds, der Genossenschaft beitritt oder bereits Mitglied der Genossenschaft ist und das bisherige Geschäftsguthaben dieses Mitglieds mit dem ihm zuzuschreibenden Betrag den Geschäftsanteil nicht übersteigt. Eine teilweise Übertragung von Geschäftsguthaben ist unwirksam, soweit das Mitglied nach der Satzung oder einer Vereinbarung mit der Genossenschaft zur Beteiligung mit mehreren Geschäftsanteilen verpflichtet ist oder die Beteiligung mit mehreren Geschäftsanteilen Voraussetzung für eine von dem Mitglied in Anspruch genommene Leistung der Genossenschaft ist.
+(1) Jedes Mitglied kann sein Geschäftsguthaben jederzeit durch Vereinbarung in Textform einem anderen ganz oder teilweise übertragen und hierdurch seine Mitgliedschaft ohne Auseinandersetzung beenden oder die Anzahl seiner Geschäftsanteile verringern, sofern der Erwerber, im Fall einer vollständigen Übertragung anstelle des Mitglieds, der Genossenschaft beitritt oder bereits Mitglied der Genossenschaft ist und das bisherige Geschäftsguthaben dieses Mitglieds mit dem ihm zuzuschreibenden Betrag den Geschäftsanteil nicht übersteigt. Eine teilweise Übertragung von Geschäftsguthaben ist unwirksam, soweit das Mitglied nach der Satzung oder einer Vereinbarung mit der Genossenschaft zur Beteiligung mit mehreren Geschäftsanteilen verpflichtet ist oder die Beteiligung mit mehreren Geschäftsanteilen Voraussetzung für eine von dem Mitglied in Anspruch genommene Leistung der Genossenschaft ist.
 
 (2) Die Satzung kann eine vollständige oder teilweise Übertragung von Geschäftsguthaben ausschließen oder an weitere Voraussetzungen knüpfen; dies gilt nicht für die Fälle, in denen in der Satzung nach § 65 Abs. 2 Satz 3 eine Kündigungsfrist von mehr als fünf Jahren bestimmt oder nach § 8a oder § 73 Abs. 4 der Anspruch nach § 73 Abs. 2 Satz 2 auf Auszahlung des Auseinandersetzungsguthabens eingeschränkt ist.
 
@@ -1762,7 +1770,7 @@ Die Vorschriften der Insolvenzordnung über den Insolvenzplan sind mit folgenden
 
 Hat eine Vertreterversammlung die Fortsetzung der Genossenschaft beschlossen, kann jedes Mitglied kündigen; für die Vertreter gilt Satz 1.
 
-(2) Die Kündigung bedarf der Schriftform. Sie kann nur innerhalb eines Monats zum Schluss des Geschäftsjahres erklärt werden. Die Frist beginnt in den Fällen des Absatzes 1 Satz 1 Nr. 1 mit der Beschlussfassung, in den Fällen des Absatzes 1 Satz 1 Nr. 2 mit der Erlangung der Kenntnis von der Beschlussfassung. Ist der Zeitpunkt der Kenntniserlangung streitig, trägt die Genossenschaft die Beweislast. Im Fall der Kündigung wirkt der Beschluss über die Fortsetzung der Genossenschaft weder für noch gegen das Mitglied.
+(2) Die Kündigung bedarf der Textform; die Satzung kann für die Kündigung die Schriftform vorschreiben. Sie kann nur innerhalb eines Monats zum Schluss des Geschäftsjahres erklärt werden. Die Frist beginnt in den Fällen des Absatzes 1 Satz 1 Nr. 1 mit der Beschlussfassung, in den Fällen des Absatzes 1 Satz 1 Nr. 2 mit der Erlangung der Kenntnis von der Beschlussfassung. Ist der Zeitpunkt der Kenntniserlangung streitig, trägt die Genossenschaft die Beweislast. Im Fall der Kündigung wirkt der Beschluss über die Fortsetzung der Genossenschaft weder für noch gegen das Mitglied.
 
 (3) Der Zeitpunkt der Beendigung der Mitgliedschaft ist unverzüglich in die Mitgliederliste einzutragen; das Mitglied ist hiervon unverzüglich zu benachrichtigen.
 
@@ -2018,4 +2026,23 @@ Die Festlegungen nach § 9 Absatz 3 Satz 1 und 3 sowie Absatz 4 Satz 1 und 3 in 
 ### § 176 Übergangsvorschrift zum Zweiten Gesetz zur Änderung des DWD-Gesetzes sowie zur Änderung handelsrechtlicher Vorschriften
 
 Die Größenmerkmale des § 267a Absatz 1 Satz 1 des Handelsgesetzbuchs in der ab dem 17. April 2024 geltenden Fassung sind für die Einstufung als Kleinstgenossenschaft in § 53a Absatz 1 Satz 1 erstmals anzuwenden auf die Prüfung für ein frühestens am 31. Dezember 2024 endendes Geschäftsjahr.
+
+
+### § 177 Übergangsvorschrift zum Vierten Bürokratieentlastungsgesetz
+
+(1) Der Vorstand kann mit Zustimmung des Aufsichtsrats oder, wenn die Genossenschaft keinen Aufsichtsrat hat, mit Zustimmung eines von der Generalversammlung aus ihrer Mitte gewählten Bevollmächtigten beschließen, dass bis zum 31. Dezember 2029
+
+1.  eine Beitrittserklärung nach § 15 Absatz 1 Satz 1 oder § 15b Absatz 1 Satz 1,
+
+
+2.  eine Vollmachtserteilung nach § 15 Absatz 1 Satz 3 oder § 43 Absatz 5,
+
+
+3.  eine Kündigungserklärung nach § 65 Absatz 1, den §§ 67, 67a Absatz 2, nach § 67b oder § 118 Absatz 2 Satz 1
+
+
+
+auch in Textform zulässig sind, auch wenn die Satzung die Schriftform vorsieht. Dies gilt nicht, wenn die Satzung die Wirksamkeit der Textform ausdrücklich ausschließt.
+
+(2) Der Vorstand kann mit Zustimmung des Aufsichtsrats oder, wenn die Genossenschaft keinen Aufsichtsrat hat, mit Zustimmung eines von der Generalversammlung aus ihrer Mitte gewählten Bevollmächtigten beschließen, dass bis zum 31. Dezember 2029 für die Übertragung des Geschäftsguthabens nach § 76 Absatz 1 Satz 1 eine schriftliche Vereinbarung erforderlich ist, soweit nicht die Satzung die Textform vorsieht. Weitere Voraussetzungen gemäß § 76 Absatz 2 bleiben unberührt.
 

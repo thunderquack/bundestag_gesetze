@@ -41,7 +41,7 @@ Stand: Ersetzt G 51-3 v. 16.1.1991 I 47 (SBG)
 
 (2) Soldatinnen und Soldaten, die Aufgaben nach diesem Gesetz wahrnehmen, haben über die ihnen in Ausübung ihrer Tätigkeit bekannt gewordenen Angelegenheiten und Tatsachen gegenüber Dritten Stillschweigen zu bewahren. Die Schweigepflicht besteht nicht für Angelegenheiten oder Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
 
-(3) Die Wahrnehmung von Rechten und die Erfüllung von Pflichten nach diesem Gesetz gelten als Dienst im Sinne des § 27 des Soldatenversorgungsgesetzes oder als Wehrdienst im Sinne des § 81 des Soldatenversorgungsgesetzes.
+(3) Die Wahrnehmung von Rechten und die Erfüllung von Pflichten nach diesem Gesetz gelten als Dienst im Sinne des § 42 des Soldatenversorgungsgesetzes oder als Wehrdienst im Sinne des Soldatengesetzes.
 
 
 ## Kapitel 2 - Beteiligung der Soldatinnen und Soldaten durch Vertrauenspersonen

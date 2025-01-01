@@ -48,7 +48,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 3.  die Flächen stillgelegt oder abgegeben haben, die von ihnen unmittelbar vor der Antragstellung genutzt worden sind, wobei als Nutzung auch die Stillegung von Flächen für einen Zeitraum von bis zu 5 Jahren nach Maßgabe EWG-rechtlicher Vorschriften gilt,
 
 
-4.  den Wirtschaftswert im Sinne des Gesetzes über die Alterssicherung der Landwirte der von ihnen vor der Antragstellung bewirtschafteten Unternehmen durch Verringerung der Flächen in den letzten fünf Jahren, frühestens vom 1. Januar 1986 an, um nicht mehr als 10 vom Hundert vermindert haben, es sei denn die Verminderung erfolgte auf Grund einer Maßnahme, die die Voraussetzungen der §§ 2 oder 3 erfüllt, und
+4.  den Wirtschaftswert im Sinne des Gesetzes über die Alterssicherung der Landwirte in der bis zum 31. Dezember 2024 geltenden Fassung der von ihnen vor der Antragstellung bewirtschafteten Unternehmen durch Verringerung der Flächen in den letzten fünf Jahren, frühestens vom 1. Januar 1986 an, um nicht mehr als 10 vom Hundert vermindert haben, es sei denn die Verminderung erfolgte auf Grund einer Maßnahme, die die Voraussetzungen der §§ 2 oder 3 erfüllt, und
 
 
 5.  ein Unternehmen der Landwirtschaft betrieben haben, welches ohne die in § 1 Abs. 4 Satz 4 des Gesetzes über die Alterssicherung der Landwirte aufgeführten Unternehmenszweige die Mindestgröße (§ 1 Abs. 5 Satz 1 des Gesetzes über die Alterssicherung der Landwirte) erreicht.
@@ -343,7 +343,7 @@ Der Anspruch auf ein Ausgleichsgeld ruht während der Zeit, in der der Leistungs
 1.  eine Beschäftigung oder selbständige Tätigkeit ausübt, die die Geringfügigkeitsgrenze des § 8 des Vierten Buches Sozialgesetzbuch überschreitet,
 
 
-2.  Krankengeld, Krankengeld der Sozialen Entschädigung, Übergangsgeld oder Verletztengeld von einem Sozialleistungsträger, eine Entgeltersatzleistung oder Eingliederungshilfe nach dem Dritten Buch Sozialgesetzbuch, Altersübergangsgeld nach dem Arbeitsförderungsgesetz in der bis zum 31. Dezember 1997 geltenden Fassung, Eingliederungsgeld nach dem Arbeitsförderungsgesetz in der bis zum 31. Dezember 1992 geltenden Fassung oder eine Vorruhestandsleistung von der Bundesagentur für Arbeit nach Anlage II Kapitel VIII Sachgebiet E Abschnitt III Nr. 5 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1210) erhält.
+2.  Krankengeld, Krankengeld der Sozialen Entschädigung, Krankengeld der Soldatenentschädigung, Übergangsgeld oder Verletztengeld von einem Sozialleistungsträger, eine Entgeltersatzleistung oder Eingliederungshilfe nach dem Dritten Buch Sozialgesetzbuch, Altersübergangsgeld nach dem Arbeitsförderungsgesetz in der bis zum 31. Dezember 1997 geltenden Fassung, Eingliederungsgeld nach dem Arbeitsförderungsgesetz in der bis zum 31. Dezember 1992 geltenden Fassung oder eine Vorruhestandsleistung von der Bundesagentur für Arbeit nach Anlage II Kapitel VIII Sachgebiet E Abschnitt III Nr. 5 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1210) erhält.
 
 
 
@@ -591,7 +591,7 @@ Vom 1. Januar 1997 an ist dieses Gesetz nur noch anzuwenden, wenn die Voraussetz
 
 (4) § 18e gilt nur für die Fälle, in denen am 18. Juni 1994 die Leistung noch nicht endgültig festgesetzt war.
 
-(5) Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 12 Satz 1 Nummer 2 in der am 31. Dezember 2023 geltenden Fassung weiter.
+(5) (weggefallen)
 
 
 ### § 23 Inkrafttreten

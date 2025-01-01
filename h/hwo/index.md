@@ -3032,7 +3032,7 @@ Die zuständige Behörde unterrichtet die zuständige Handwerkskammer über die 
 
 (5) Soweit durch Gesetz oder durch Rechtsverordnung nach § 1 Abs. 3 Handwerke oder handwerksähnliche Gewerbe zusammengefasst werden, gelten die vor dem Inkrafttreten der jeweiligen Änderungsvorschrift nach § 25 dieses Gesetzes oder nach § 4 des Berufsbildungsgesetzes erlassenen Ausbildungsordnungen und die nach § 45 Abs. 1 oder § 51a Abs. 1 in Verbindung mit Abs. 2 sowie die nach § 50a oder § 51d dieses Gesetzes erlassenen Rechtsvorschriften bis zum Erlass neuer Rechtsverordnungen nach diesem Gesetz fort. Satz 1 gilt entsprechend für noch bestehende Vorschriften gemäß § 122 Abs. 2 und 4.
 
-(6) Soweit durch Gesetz zulassungspflichtige Handwerke in die Anlage B überführt werden, gilt für die Ausbildungsordnungen Absatz 5 entsprechend. Die bis zum 31. Dezember 2003 begonnenen Meisterprüfungsverfahren sind auf Antrag des Prüflings nach den bis dahin geltenden Vorschriften von den vor dem 31. Dezember 2003 von der höheren Verwaltungsbehörde errichteten Meisterprüfungsausschüssen abzuschließen.
+(6) Soweit durch Gesetz zulassungspflichtige Handwerke in die Anlage B überführt werden, gilt für die Ausbildungsordnungen Absatz 5 entsprechend.
 
 (7) In den Fällen des Absatzes 3 Satz 1 liegt ein Ausnahmefall nach § 8 Abs. 1 Satz 2 auch dann vor, wenn zum Zeitpunkt der Antragstellung für das zu betreibende Handwerk eine Rechtsverordnung nach § 45 noch nicht in Kraft getreten ist.
 
@@ -3096,11 +3096,7 @@ Der Meisterprüfung im Sinne des § 45 bleiben die in § 133 Abs. 10 der Gewerbe
 (3) Soweit für die bisher bestehenden Handwerksorganisationen eine Rechtsnachfolge nicht eintritt, findet eine Vermögensauseinandersetzung nach den für sie bisher geltenden gesetzlichen Bestimmungen statt. Bei Meinungsverschiedenheiten entscheidet die nach dem geltenden Recht zuständige Aufsichtsbehörde.
 
 
-#### § 124a
-
-(1) Verfahren zur Wahl der Vollversammlung von Handwerkskammern, die nach den Satzungsbestimmungen bis zum 31. Dezember 2004 zu beginnen sind, können nach den bisherigen Vorschriften zu Ende geführt werden. Durch Beschluss der Vollversammlung kann die Wahlzeit nach Wahlen, die entsprechend Satz 1 nach den bisherigen Vorschriften zu Ende geführt werden, in Abweichung von § 103 Abs. 1 Satz 1 verkürzt werden. Wahlzeiten, die nach den Satzungsbestimmungen bis zum 31. Dezember 2004 enden, können durch Beschluss der Vollversammlung bis zu einem Jahr verlängert werden, um die Wahl zur Handwerkskammer nach den neuen Vorschriften durchzuführen. Die Verlängerung oder Verkürzung der Wahlzeiten sind der obersten Landesbehörde anzuzeigen.
-
-(2) Für das Verfahren der Wahl zu einer Vollversammlung einer Handwerkskammer, deren laufende Wahlperiode nach dem 14. Februar 2020 und spätestens zum Ablauf des 31. Dezember 2020 endet, gilt Absatz 1 entsprechend.
+#### § 124a (weggefallen)
 
 
 #### § 124b

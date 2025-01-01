@@ -128,6 +128,11 @@ Maßgeblich sind die Bestimmungen für Kapitalgesellschaften.
 (2) Konkretisierungen, insbesondere die Ausübung handelsrechtlicher Wahlrechte, und von Absatz 1 abweichende Regelungen, die aufgrund der Besonderheiten der öffentlichen Haushaltswirtschaft erforderlich sind, werden von Bund und Ländern in dem Gremium nach § 49a Absatz 1 erarbeitet.
 
 
+#### § 7b Periodengerechte Aufteilung von Zinskosten im Haushalt des Bundes
+
+Im Haushalt des Bundes sind bei Verkauf und Kauf von selbst emittierten Wertpapieren die gesamten Zinskosten periodengerecht über die Laufzeit des jeweiligen Wertpapiers anteilig jeweils auf die Periode von Zahlungstermin zu Zahlungstermin aufzuteilen. Der Saldo aus Zinsausgaben und Krediteinnahme muss stets der Kassenwirkung der Zahlungen entsprechen.
+
+
 ### Abschnitt II - Aufstellung des Haushaltsplans
 
 
@@ -148,6 +153,8 @@ Maßgeblich sind die Bestimmungen für Kapitalgesellschaften.
 
 
 
+
+(3) Die Veranschlagung von Einnahmen und Ausgaben aus Verkauf und Kauf von selbst emittierten Wertpapieren im Haushaltsplan des Bundes erfolgt in periodengerechter Aufteilung entsprechend § 7b.
 
 
 #### § 9 Geltungsdauer der Haushaltspläne
@@ -437,7 +444,9 @@ Zahlungen dürfen nur von Kassen und Zahlstellen angenommen oder geleistet werde
 
 #### § 33 Buchführung, Belegpflicht
 
-Über Zahlungen ist nach der im Haushaltsplan oder sonst vorgesehenen Ordnung in zeitlicher Folge Buch zu führen. Das für die Finanzen zuständige Ministerium kann für eingegangene Verpflichtungen, Geldforderungen und andere Bewirtschaftungsvorgänge die Buchführung anordnen. Alle Buchungen sind zu belegen.
+(1) Über Zahlungen ist nach der im Haushaltsplan oder sonst vorgesehenen Ordnung in zeitlicher Folge Buch zu führen. Das für die Finanzen zuständige Ministerium kann für eingegangene Verpflichtungen, Geldforderungen und andere Bewirtschaftungsvorgänge die Buchführung anordnen. Alle Buchungen sind zu belegen.
+
+(2) Abweichend von Absatz 1 wird der periodengerechte Anteil der Differenz zwischen Nennwert und Verkaufserlös, der bei Verkauf und Kauf von selbst emittierten Wertpapieren entsteht, ohne Zahlung im Bundeshaushalt gebucht.
 
 
 #### § 33a (weggefallen)
@@ -755,6 +764,8 @@ Die Vorschriften dieses Teils gelten einheitlich und unmittelbar für den Bund u
 ### § 49a Gremium zur Standardisierung des staatlichen Rechnungswesens
 
 (1) Zur Gewährleistung einer einheitlichen Verfahrens- und Datengrundlage jeweils für Kameralistik, Doppik und Produkthaushalte richten Bund und Länder ein gemeinsames Gremium ein. Das Gremium erarbeitet Standards für kamerale und doppische Haushalte sowie für Produkthaushalte und stellt dabei sicher, dass die Anforderungen der Finanzstatistik einschließlich der der Volkswirtschaftlichen Gesamtrechnungen berücksichtigt werden. Beschlüsse werden mit den Stimmen des Bundes und der Mehrheit von zwei Dritteln der Zahl der Länder gefasst. Die Standards werden jeweils durch Verwaltungsvorschriften des Bundes und der Länder umgesetzt. Das Gremium erarbeitet die Standards für doppische Haushalte und Produkthaushalte erstmals zum 1. Januar 2010 und überprüft die Standards für doppische Haushalte, Produkthaushalte und kamerale Haushalte anschließend einmal jährlich. Näheres regelt eine Verwaltungsvereinbarung zwischen Bund und Ländern.
+
+(1a) Im Zusammenhang mit der Kreditaufnahme ist es im Haushalt des Bundes abweichend vom Grundsatz der Einheitlichkeit zulässig, bei Verkauf und Kauf von selbst emittierten Wertpapieren entsprechend § 7b zu verfahren.
 
 (2) Zur Gewährleistung der Vergleichbarkeit der Haushaltswirtschaft bei Bund und Ländern kann die Bundesregierung durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über die Standards für kamerale und doppische Haushalte sowie für Produkthaushalte, insbesondere zum Gruppierungs- und Funktionenplan, zum Verwaltungskontenrahmen und Produktrahmen sowie zu den Standards nach § 7a Absatz 2 für die staatliche Doppik.
 

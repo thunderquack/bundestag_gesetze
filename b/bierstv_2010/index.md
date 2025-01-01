@@ -1061,11 +1061,9 @@ versehen sind.
 
 ### § 41 Herstellung durch Haus- und Hobbybrauer
 
-(1) Bier, das von Haus- und Hobbybrauern in ihren Haushalten ausschließlich zum eigenen Verbrauch hergestellt und nicht verkauft wird, ist von der Steuer bis zu einer Menge von 2 hl je Kalenderjahr befreit. Bier, das von Hausbrauern in nicht gewerblichen Gemeindebrauhäusern hergestellt wird, gilt als in den Haushalten der Hausbrauer hergestellt.
+(1) Bier, das von Haus- und Hobbybrauern in ihren Haushalten ausschließlich zum eigenen Verbrauch hergestellt und nicht verkauft wird, ist von der Steuer bis zu einer Menge von 5 hl je Kalenderjahr befreit. Bier, das von Hausbrauern in nicht gewerblichen Gemeindebrauhäusern hergestellt wird, gilt als in den Haushalten der Hausbrauer hergestellt.
 
-(2) Haus- und Hobbybrauer haben den Beginn der Herstellung und den Herstellungsort dem Hauptzollamt vorab anzuzeigen. In der Anzeige ist die Biermenge anzugeben, die voraussichtlich innerhalb eines Kalenderjahres erzeugt wird. Das Hauptzollamt kann Erleichterungen zulassen.
-
-(3) Wird die Menge nach Absatz 1 überschritten, ist eine Steueranmeldung nach amtlich vorgeschriebenem Vordruck abzugeben. § 15 Absatz 2 in Verbindung mit § 14 Absatz 5 Satz 1 Nummer 2 des Gesetzes gilt entsprechend.
+(2) Wird die Menge nach Absatz 1 überschritten, ist eine Steueranmeldung nach amtlich vorgeschriebenem Vordruck abzugeben. § 15 Absatz 2 in Verbindung mit § 14 Absatz 5 Satz 1 Nummer 2 des Gesetzes gilt entsprechend.
 
 
 ## Abschnitt 17 - Zu § 24 des Gesetzes
@@ -1136,7 +1134,7 @@ Die mit der Steueraufsicht betrauten Amtsträger können von Waren, die der Bier
     a)  § 7 Absatz 1 Satz 1, Absatz 3 Satz 1 oder 2 oder Absatz 4, jeweils auch in Verbindung mit § 13 Absatz 6, § 14 Absatz 6, § 35 Absatz 7, § 35a Absatz 7, § 37 Absatz 7 Satz 1 oder § 39a Absatz 4,
 
 
-    b)  § 10 Absatz 1 Satz 1, auch in Verbindung mit § 39c Absatz 1 Satz 4, entgegen § 11 Absatz 1 Satz 4, auch in Verbindung mit § 39c Absatz 3 Satz 2, entgegen § 30 Absatz 2 oder 3, jeweils auch in Verbindung mit § 38, entgegen § 31a Absatz 3, § 35 Absatz 4 Satz 1, auch in Verbindung mit Absatz 5 Satz 3, entgegen § 35a Absatz 4 Satz 1, auch in Verbindung mit Absatz 5 Satz 3, entgegen § 39a Absatz 2 Satz 2 oder § 41 Absatz 2 Satz 1 oder
+    b)  § 10 Absatz 1 Satz 1, auch in Verbindung mit § 39c Absatz 1 Satz 4, entgegen § 11 Absatz 1 Satz 4, auch in Verbindung mit § 39c Absatz 3 Satz 2, entgegen § 30 Absatz 2 oder 3, jeweils auch in Verbindung mit § 38, entgegen § 31a Absatz 3, § 35 Absatz 4 Satz 1, auch in Verbindung mit Absatz 5 Satz 3, entgegen § 35a Absatz 4 Satz 1, auch in Verbindung mit Absatz 5 Satz 3, oder entgegen § 39a Absatz 2 Satz 2 oder
 
 
     c)  § 25 Absatz 4 Satz 1, auch in Verbindung mit § 27 Absatz 4, jeweils auch in Verbindung mit § 35f Satz 1,

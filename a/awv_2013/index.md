@@ -130,25 +130,8 @@ Es verordnen auf Grund
 (2) Eine Sammelgenehmigung kann einem Antragsteller für eine unbestimmte Anzahl gleichartiger Rechtsgeschäfte oder Handlungen mit einem oder mehreren genau bestimmten Endverwendern oder Bestimmungsländern erteilt werden, wenn dies wegen der beabsichtigten Wiederholung der Rechtsgeschäfte oder Handlungen zweckmäßig erscheint.
 
 
-### § 5 Rückgabe von Verwaltungsakten
+### § 5 (weggefallen)
 
-(1) Der Adressat eines Verwaltungsakts in Papierform muss der für den Erlass zuständigen Stelle die diesen Verwaltungsakt verkörpernde Urkunde unverzüglich zurückgeben, wenn
-
-1.  der erteilte Verwaltungsakt unwirksam wird, bevor er vollständig ausgenutzt wurde,
-
-
-2.  der Adressat die Absicht aufgibt, den Verwaltungsakt vollständig auszunutzen, oder
-
-
-3.  der Verwaltungsakt oder die ihn verkörpernde Urkunde durch einen weiteren Bescheid, insbesondere eine Zweitausfertigung, ersetzt wurde und der ursprüngliche Verwaltungsakt infolge der Ersetzung keinen eigenen Regelungsgehalt mehr aufweist.
-
-
-
-Im Übrigen bleibt § 52 des Verwaltungsverfahrensgesetzes unberührt.
-
-(2) Durch Allgemeinverfügung, die im Bundesanzeiger bekannt zu machen ist, kann die zuständige Stelle festlegen, von welchem Zeitpunkt an und unter welchen Voraussetzungen auf die Rückgabepflicht nach Absatz 1 verzichtet werden kann.
-
-(3) Die Rückgabepflicht auf Grund von Rechtsakten der Europäischen Union bleibt unberührt.
 
 
 ### § 6 Aufbewahrung von Verwaltungsakten
@@ -1893,17 +1876,16 @@ Sofern sich in einem Prüfverfahren nach § 55 Absatz 1 oder nach § 60 Absatz 1
 
 Für Zwecke der Meldungen nach diesem Kapitel ist
 
-1.  Inland das deutsche Wirtschaftsgebiet im Sinne des Kapitels 2 Nummer 2.05. des Anhangs A der Verordnung (EG) Nr. 2223/96 des Rates vom 25. Juni 1996 zum Europäischen System Volkswirtschaftlicher Gesamtrechnungen auf nationaler und regionaler Ebene in der Europäischen Gemeinschaft (ABl. L 310 vom 30.11.1996, S. 1), die zuletzt durch die Verordnung (EU) Nr. 715/2010 (ABl. L 210 vom 11.8.2010, S. 1) geändert worden ist,
+1.  Inland das deutsche Wirtschaftsgebiet im Sinne des Kapitels 2 Nummer 2.05 des Anhangs A der Verordnung (EU) Nr. 549/2013 des Europäischen Parlaments und des Rates vom 21. Mai 2013 zum Europäischen System Volkswirtschaftlicher Gesamtrechnungen auf nationaler und regionaler Ebene in der Europäischen Union (ABl. L 174 vom 26.6.2013, S. 1), die zuletzt durch die Verordnung (EU) 2023/734 (ABl. L 97 vom 5.4.2023, S. 1) geändert worden ist, in der jeweils geltenden Fassung,
 
 
-2.  Inländer jede institutionelle Einheit im Inland im Sinne des Kapitels 2 Nummer 2.12. und 2.13. in Verbindung mit Nummer 2.07. des Anhangs A der Verordnung (EG) Nr. 2223/96 und
+2.  Inländer jede institutionelle Einheit im Inland im Sinne des Kapitels 2 Nummer 2.12 bis 2.30 in Verbindung mit Nummer 2.07 bis 2.11 des Anhangs A der Verordnung (EU) Nr. 549/2013 und
 
 
-3.  Ausländer jede institutionelle Einheit im Ausland im Sinne des Kapitels 2 Nummer 2.12. und 2.13. in Verbindung mit Nummer 2.07. des Anhangs A der Verordnung (EG) Nr. 2223/96.
+3.  Ausländer jede institutionelle Einheit im Ausland im Sinne dieses Kapitels 2 Nummer 2.12 bis 2.30 in Verbindung mit Nummer 2.07 bis 2.11 des Anhangs A der Verordnung (EU) Nr. 549/2013.
 
 
 
-Ausländer im Sinne dieses Kapitels sind auch Unternehmen, Zweigniederlassungen, Betriebsstätten und Banken, deren Sitz sich im Ausland befindet.
 
 
 ### Abschnitt 2 - Meldevorschriften im Kapitalverkehr
@@ -1928,10 +1910,10 @@ Ausländer im Sinne dieses Kapitels sind auch Unternehmen, Zweigniederlassungen,
 
 (3) Die Meldepflicht nach Absatz 1 entfällt,
 
-1.  wenn die Bilanzsumme des ausländischen Unternehmens, an dem der Inländer oder ein anderes von ihm abhängiges ausländisches Unternehmen beteiligt ist, 3 Millionen Euro nicht überschreitet,
+1.  wenn die Bilanzsumme des ausländischen Unternehmens, an dem der Inländer oder ein anderes von ihm abhängiges ausländisches Unternehmen beteiligt ist, 6 Millionen Euro nicht überschreitet,
 
 
-2.  wenn das Betriebsvermögen, das der ausländischen Zweigniederlassung oder Betriebsstätte nach Absatz 1 Nummer 3 zugeordnet ist, 3 Millionen Euro nicht überschreitet oder
+2.  wenn das Betriebsvermögen, das der ausländischen Zweigniederlassung oder Betriebsstätte nach Absatz 1 Nummer 3 zugeordnet ist, 6 Millionen Euro nicht überschreitet oder
 
 
 3.  soweit dem Inländer Unterlagen, die er zur Erfüllung seiner Meldepflicht benötigt, aus tatsächlichen oder rechtlichen Gründen nicht zugänglich sind.
@@ -1939,9 +1921,9 @@ Ausländer im Sinne dieses Kapitels sind auch Unternehmen, Zweigniederlassungen,
 
 
 
-(4) Die Meldungen sind nach dem Stand des Bilanzstichtags des Meldepflichtigen oder, wenn der Meldepflichtige nicht bilanziert, nach dem Stand des 31. Dezember zu erstatten, wobei die Angaben gemäß Anlage K3 „Vermögen von Inländern im Ausland“ enthalten sein müssen.
+(4) Die Meldungen sind nach dem Stand des Bilanzstichtags des Meldepflichtigen oder, wenn der Meldepflichtige nicht bilanziert, nach dem Stand des 31. Dezember zu erstatten, wobei die Angaben gemäß Anlage 2 enthalten sein müssen.
 
-(5) Stimmt der Bilanzstichtag eines ausländischen Unternehmens, an dem der Meldepflichtige oder ein anderes von ihm abhängiges ausländisches Unternehmen beteiligt ist, nicht mit dem Bilanzstichtag des Meldepflichtigen überein, so ist die Meldung des Vermögens gemäß Anlage K3 nach der Bilanz, deren Bilanzstichtag unmittelbar vor dem des Meldepflichtigen liegt, zu erstatten. Wenn der Meldepflichtige nicht bilanziert und der Bilanzstichtag eines ausländischen Unternehmens, an dem der Meldepflichtige oder ein anderes von ihm abhängiges Unternehmen beteiligt ist, nicht mit dem 31. Dezember übereinstimmt, so ist die Meldung des Vermögens gemäß Anlage K3 nach der Bilanz zu erstatten, deren Bilanzstichtag unmittelbar vor dem 31. Dezember liegt.
+(5) Stimmt der Bilanzstichtag eines ausländischen Unternehmens, an dem der Meldepflichtige oder ein anderes von ihm abhängiges ausländisches Unternehmen beteiligt ist, nicht mit dem Bilanzstichtag des Meldepflichtigen überein, so ist die Meldung des Vermögens gemäß Anlage 2 nach der Bilanz, deren Bilanzstichtag unmittelbar vor dem des Meldepflichtigen liegt, zu erstatten. Wenn der Meldepflichtige nicht bilanziert und der Bilanzstichtag eines ausländischen Unternehmens, an dem der Meldepflichtige oder ein anderes von ihm abhängiges Unternehmen beteiligt ist, nicht mit dem 31. Dezember übereinstimmt, so ist die Meldung des Vermögens gemäß Anlage 2 nach der Bilanz zu erstatten, deren Bilanzstichtag unmittelbar vor dem 31. Dezember liegt.
 
 (6) Meldepflichtig ist der Inländer, dem das Vermögen unmittelbar oder über ein abhängiges ausländisches Unternehmen am Bilanzstichtag des Inländers oder, soweit er nicht bilanziert, am 31. Dezember zuzurechnen ist.
 
@@ -1966,13 +1948,10 @@ Ausländer im Sinne dieses Kapitels sind auch Unternehmen, Zweigniederlassungen,
 1.  natürliche und juristische ausländische Personen, die sich zum Zweck der Gründung oder des Erwerbs eines inländischen Unternehmens, des Erwerbs von Beteiligungen an einem solchen Unternehmen oder zur gemeinsamen Ausübung ihrer Anteilsrechte an einem solchen Unternehmen zusammengeschlossen haben,
 
 
-2.  natürliche und juristische ausländische Personen, die gemeinsam wirtschaftliche Interessen verfolgen, indem sie an einem oder mehreren Unternehmen Beteiligungen halten,
+2.  natürliche und juristische ausländische Personen, die gemeinsam wirtschaftliche Interessen verfolgen, indem sie an einem oder mehreren Unternehmen Beteiligungen halten, und
 
 
-3.  natürliche ausländische Personen, die miteinander verheiratet sind, eine Lebenspartnerschaft führen oder in gerader Linie verwandt, verschwägert oder durch Adoption verbunden oder in der Seitenlinie bis zum dritten Grad verwandt oder bis zum zweiten Grad verschwägert sind, und
-
-
-4.  juristische ausländische Personen, die im Sinne des § 15 des Aktiengesetzes miteinander verbunden sind.
+3.  juristische ausländische Personen, die im Sinne des § 15 des Aktiengesetzes miteinander verbunden sind.
 
 
 
@@ -1981,10 +1960,10 @@ Ausländer im Sinne dieses Kapitels sind auch Unternehmen, Zweigniederlassungen,
 
 (4) Die Meldepflicht nach Absatz 1 entfällt,
 
-1.  wenn die Bilanzsumme des inländischen Unternehmens, an dem der Ausländer, die wirtschaftlich verbundenen Ausländer oder ein anderes von dem Ausländer oder von den wirtschaftlich verbundenen Ausländern abhängiges inländisches Unternehmen beteiligt sind, 3 Millionen Euro nicht überschreitet,
+1.  wenn die Bilanzsumme des inländischen Unternehmens, an dem der Ausländer, die wirtschaftlich verbundenen Ausländer oder ein anderes von dem Ausländer oder von den wirtschaftlich verbundenen Ausländern abhängiges inländisches Unternehmen beteiligt sind, 6 Millionen Euro nicht überschreitet,
 
 
-2.  wenn das Betriebsvermögen, das der inländischen Zweigniederlassung oder Betriebsstätte nach Absatz 1 Nummer 3 zugeordnet ist, 3 Millionen Euro nicht überschreitet,
+2.  wenn das Betriebsvermögen, das der inländischen Zweigniederlassung oder Betriebsstätte nach Absatz 1 Nummer 3 zugeordnet ist, 6 Millionen Euro nicht überschreitet,
 
 
 3.  soweit dem Inländer Unterlagen, die er zur Erfüllung seiner Meldepflicht benötigt, aus tatsächlichen oder rechtlichen Gründen nicht zugänglich sind, oder
@@ -1995,7 +1974,7 @@ Ausländer im Sinne dieses Kapitels sind auch Unternehmen, Zweigniederlassungen,
 
 
 
-(5) Die Meldungen sind nach dem Stand des Bilanzstichtags des Meldepflichtigen oder, wenn es sich bei dem Meldepflichtigen um eine nicht bilanzierende inländische Zweigniederlassung oder Betriebsstätte eines ausländischen Unternehmens handelt, nach dem Stand des Bilanzstichtages des ausländischen Unternehmens zu erstatten, wobei die Angaben gemäß Anlage K4 „Vermögen von Ausländern im Inland“ enthalten sein müssen.
+(5) Die Meldungen sind nach dem Stand des Bilanzstichtags des Meldepflichtigen oder, wenn es sich bei dem Meldepflichtigen um eine nicht bilanzierende inländische Zweigniederlassung oder Betriebsstätte eines ausländischen Unternehmens handelt, nach dem Stand des Bilanzstichtages des ausländischen Unternehmens zu erstatten, wobei die Angaben gemäß Anlage 3 enthalten sein müssen.
 
 (6) Meldepflichtig ist
 
@@ -2011,17 +1990,25 @@ Ausländer im Sinne dieses Kapitels sind auch Unternehmen, Zweigniederlassungen,
 
 
 
-#### § 66 Meldung von Forderungen und Verbindlichkeiten
+#### § 66 Meldungen von Forderungen und Verbindlichkeiten
 
-(1) Inländer, ausgenommen natürliche Personen, monetäre Finanzinstitute gemäß Artikel 1 erster Gedankenstrich der Verordnung (EG) Nr. 25/2009 der Europäischen Zentralbank vom 19. Dezember 2008 über die Bilanz des Sektors der monetären Finanzinstitute (ABl. L 15 vom 20.1.2009, S. 14), die zuletzt durch die Verordnung (EU) Nr. 883/2011 (ABl. L 228 vom 3.9.2011, S. 13) geändert worden ist, und Investmentaktiengesellschaften sowie Kapitalverwaltungsgesellschaften bezüglich der Forderungen und Verbindlichkeiten ihrer Investmentfonds, haben ihre Forderungen und Verbindlichkeiten gegenüber Ausländern der Deutschen Bundesbank gemäß der Absätze 2 und 3 in den Fristen des § 71 Absatz 3 und 4 zu melden, wenn diese Forderungen oder Verbindlichkeiten bei Ablauf eines Monats jeweils zusammengerechnet mehr als 5 Millionen Euro betragen.
+(1) Inländer haben ihre Forderungen und Verbindlichkeiten gegenüber Ausländern der Deutschen Bundesbank gemäß Absatz 3 innerhalb der Frist des § 71 Absatz 3 zu melden, wenn diese Forderungen oder Verbindlichkeiten bei Ablauf eines Monats jeweils zusammengerechnet mehr als 6 Millionen Euro betragen.
 
-(2) Die zu meldenden Forderungen und Verbindlichkeiten gegenüber ausländischen Banken müssen die Angaben gemäß Anlage Z5 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit ausländischen Banken“ enthalten.
+(2) Von der Meldepflicht nach Absatz 1 ausgenommen sind
 
-(3) Die zu meldenden Forderungen und Verbindlichkeiten gegenüber ausländischen Nichtbanken müssen die Angaben gemäß der Anlage Z5a Blatt 1/1 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit verbundenen ausländischen Nichtbanken“, Anlage Z5a Blatt 1/2 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit sonstigen ausländischen Nichtbanken“, Anlage Z5a Blatt 2/1 „Forderungen und Verbindlichkeiten gegenüber verbundenen ausländischen Nichtbanken aus dem Waren- und Dienstleistungsverkehr“ und Anlage Z5a Blatt 2/2 „Forderungen und Verbindlichkeiten gegenüber sonstigen ausländischen Nichtbanken aus dem Waren- und Dienstleistungsverkehr“ enthalten.
+1.  natürliche Personen und
 
-(4) Inländer, die der Meldepflicht nach Absatz 1 unterliegen und deren Forderungen oder Verbindlichkeiten aus Finanzbeziehungen mit Ausländern bei Ablauf eines Quartals mehr als 500 Millionen Euro betragen, haben ihre Forderungen und Verbindlichkeiten gegenüber Ausländern aus derivativen Finanzinstrumenten nach dem Stand vom Quartalsende in der Frist des § 71 Absatz 5 zu melden, wobei die Angaben gemäß der Anlage Z5b „Forderungen und Verbindlichkeiten gegenüber Ausländern aus derivativen Finanzinstrumenten“ enthalten sein müssen. Die Bestände sind grundsätzlich mit ihrem beizulegenden Zeitwert zu bewerten.
 
-(5) Entfällt für einen Inländer, der für einen vorangegangenen Meldestichtag meldepflichtig war, wegen Unterschreitens der in den Absätzen 1 und 4 genannten Betragsgrenzen die Meldepflicht, so hat er dies schriftlich oder elektronisch anzuzeigen.
+2.  monetäre Finanzinstitute nach Artikel 2 Absatz 1 der Verordnung (EU) 2021/379 der Europäischen Zentralbank vom 22. Januar 2021 über die Bilanzpositionen der Kreditinstitute und des Sektors der monetären Finanzinstitute (ABl. L 73 vom 3.3.2021, S. 16) in der jeweils geltenden Fassung, Investmentaktiengesellschaften und Investmentkommanditgesellschaften sowie Kapitalverwaltungsgesellschaften bezüglich der Forderungen und Verbindlichkeiten ihrer Investmentfonds.
+
+
+
+
+(3) Die zu meldenden Forderungen und Verbindlichkeiten müssen die Angaben nach Anlage 4 enthalten.
+
+(4) Inländer, die der Meldepflicht nach Absatz 1 unterliegen und deren Forderungen oder Verbindlichkeiten aus Finanzbeziehungen mit Ausländern bei Ablauf eines Quartals mehr als 500 Millionen Euro betragen, haben diese Forderungen und Verbindlichkeiten gegenüber Ausländern, soweit sie aus derivativen Finanzinstrumenten resultieren, nach dem Stand vom Quartalsende in der Frist des § 71 Absatz 4 zu melden, wobei in der Meldung die Angaben nach der Anlage 4 enthalten sein müssen. Die Bestände sind grundsätzlich mit ihrem beizulegenden Zeitwert zu bewerten.
+
+(5) Entfällt für einen Inländer, der für den vorangegangenen Meldestichtag meldepflichtig war, wegen Unterschreitens der in den Absätzen 1 oder 4 genannten Betragsgrenzen die Meldepflicht, so hat er dies in der nach § 72 Absatz 1 oder Absatz 3 vorgegebenen Form anzuzeigen.
 
 
 ### Abschnitt 3 - Meldung von Zahlungen
@@ -2029,7 +2016,7 @@ Ausländer im Sinne dieses Kapitels sind auch Unternehmen, Zweigniederlassungen,
 
 #### § 67 Meldung von Zahlungen
 
-(1) Inländer haben der Deutschen Bundesbank in den Fristen des § 71 Absatz 7 und 8 Zahlungen gemäß Absatz 4 zu melden, die sie
+(1) Inländer haben der Deutschen Bundesbank in den Fristen des § 71 Absatz 6 Zahlungen gemäß Absatz 4 zu melden, die sie
 
 1.  von Ausländern oder für deren Rechnung von Inländern entgegennehmen (eingehende Zahlungen) oder
 
@@ -2041,69 +2028,52 @@ Ausländer im Sinne dieses Kapitels sind auch Unternehmen, Zweigniederlassungen,
 
 (2) Nicht zu melden sind
 
-1.  Zahlungen, die den Betrag von 12 500 Euro oder den Gegenwert in anderer Währung nicht übersteigen,
+1.  Zahlungen, die den Betrag von 50 000 Euro oder den Gegenwert in anderer Währung nicht übersteigen,
 
 
-2.  Zahlungen für die Einfuhr, Ausfuhr oder Verbringung von Waren und
+2.  Zahlungen für die Einfuhr, Ausfuhr oder Verbringung von Waren,
 
 
-3.  Zahlungen, die die Gewährung, Aufnahme oder Rückzahlung von Krediten, einschließlich der Begründung und Rückzahlung von Guthaben, mit einer ursprünglich vereinbarten Laufzeit oder Kündigungsfrist von nicht mehr als zwölf Monaten zum Gegenstand haben.
+3.  Zahlungen, die die Gewährung, Aufnahme oder Rückzahlung von Krediten, einschließlich der Begründung und Rückzahlung von Guthaben, mit einer ursprünglich vereinbarten Laufzeit oder Kündigungsfrist von nicht mehr als zwölf Monaten zum Gegenstand haben, und
+
+
+4.  Zinszahlungen für ausländische Anleihen und Geldmarktpapiere.
 
 
 
 
-(3) Zahlungen im Sinne dieses Abschnitts sind auch die Aufrechnung und die Verrechnung sowie Zahlungen, die mittels Lastschriftverfahren abgewickelt werden. Als Zahlung gilt ferner das Einbringen von Sachen und Rechten in Unternehmen, Zweigniederlassungen und Betriebsstätten.
+(3) Zahlungen im Sinne dieses Abschnitts sind auch die Aufrechnung und die Verrechnung sowie Zahlungen, die mittels Lastschriftverfahren abgewickelt werden. Als Zahlung gilt ferner:
 
-(4) In den Meldungen ein- und ausgehender Zahlungen müssen die Angaben gemäß Anlage Z4 „Zahlungen im Außenwirtschaftsverkehr” enthalten sein. Im Fall von Zahlungen im Zusammenhang mit Wertpapiergeschäften und Finanzderivaten müssen die Angaben gemäß Anlage Z10 „Wertpapiergeschäfte und Finanzderivate im Außenwirtschaftsverkehr“ enthalten sein.
+1.  das Einbringen von Sachen und Rechten in Unternehmen, Zweigniederlassungen und Betriebsstätten und
+
+
+2.  die Übertragung von Kryptowerten im Sinne des § 1 Absatz 11 Satz 4 des Kreditwesengesetzes.
+
+
+
+
+(4) In den Meldungen ein- und ausgehender Zahlungen müssen die Angaben gemäß Anlage 5 enthalten sein. Im Fall von Zahlungen im Zusammenhang mit Wertpapiergeschäften und Finanzderivaten müssen die Angaben gemäß Anlage 6 enthalten sein.
 
 (5) In den Meldungen sind aussagefähige Angaben zu den zugrunde liegenden Leistungen oder zum Grundgeschäft zu machen und die entsprechenden Kennzahlen der Anlage LV „Leistungsverzeichnis der Deutschen Bundesbank für die Zahlungsbilanz“, bei Zahlungen für in Aktien verbriefte Direktinvestitionen zusätzlich die internationale Wertpapierkennnummer und Nennbetrag oder Stückzahl anzugeben. Im Fall von Zahlungen im Zusammenhang mit Wertpapieren und Finanzderivaten sind anstelle der Angaben zum Grundgeschäft die Bezeichnungen der Wertpapiere, die internationale Wertpapierkennnummer sowie Nennbetrag oder Stückzahl anzugeben.
 
-
-#### § 68 Meldung von Zahlungen im Transithandel
-
-(1) Sind Meldungen nach § 67 Absatz 1 aufgrund von Transithandelsgeschäften abzugeben, sind zusätzlich zu § 67 Absatz 4 noch folgende Angaben zu machen:
-
-1.  die Benennung der Ware,
+(6) Der Meldepflichtige nach Absatz 1, der eine ausgehende Zahlung im Transithandelsgeschäft gemeldet hat und die Transithandelsware danach in das Inland einführt oder verbringt, hat den ursprünglich gemeldeten Betrag als „Stornierung im Transithandel“ der Deutschen Bundesbank in der Frist des § 71 Absatz 6 zu melden.
 
 
-2.  die zweistellige Kapitelnummer des Warenverzeichnisses für die Außenhandelsstatistik und
+#### (XXXX) §§ 68 und 69 (weggefallen)
 
-
-3.  das Land, in dem der ausländische Vertragspartner seinen Sitz hat.
-
-
-
-
-(2) Der Meldepflichtige gemäß § 67 Absatz 1, der eine ausgehende Zahlung im Transithandel gemeldet hat und die Transithandelsware danach in das Inland einführt oder verbringt, hat den ursprünglich gemeldeten Betrag als „Stornierung im Transithandel” der Deutschen Bundesbank in der Frist des § 71 Absatz 7 anzuzeigen.
-
-
-#### § 69 Meldung von Zahlungen der Seeschifffahrtsunternehmen
-
-Inländer, die ein Seeschifffahrtsunternehmen betreiben, haben abweichend von § 67 Zahlungen, die sie im Zusammenhang mit dem Betrieb der Seeschifffahrt entgegennehmen oder leisten, der Deutschen Bundesbank in der Frist des § 71 Absatz 7 zu melden. In der Meldung müssen die Angaben gemäß Anlage Z8 „Einnahmen und Ausgaben der Seeschifffahrt“ enthalten sein.
 
 
 #### § 70 Meldungen der Geldinstitute
 
-(1) Inländische Geldinstitute haben der Deutschen Bundesbank in der Frist des § 71 Absatz 8 zu melden:
+(1) Inländische Geldinstitute haben der Deutschen Bundesbank in der Frist des § 71 Absatz 6 zu melden:
 
-1.  Zahlungen für die Veräußerung oder den Erwerb von Wertpapieren und Finanzderivaten, die das Geldinstitut für eigene oder fremde Rechnung an Ausländer verkauft oder von Ausländern kauft, sowie Zahlungen, die das Geldinstitut im Zusammenhang mit der Einlösung inländischer Wertpapiere an Ausländer leistet oder von diesen erhält; in den Meldungen müssen die Angaben gemäß Anlage Z10 „Wertpapiergeschäfte und Finanzderivate im Außenwirtschaftsverkehr“ enthalten sein;
-
-
-2.  Zins- und Dividendenzahlungen auf inländische Wertpapiere, die sie an Ausländer leisten oder von diesen erhalten; in den Meldungen müssen die Angaben gemäß Anlage Z11 „Zahlungen für Wertpapier-Erträge im Außenwirtschaftsverkehr“ enthalten sein;
+1.  Zahlungen für die Veräußerung oder den Erwerb von Wertpapieren und Finanzderivaten, die das Geldinstitut für eigene oder fremde Rechnung an Ausländer verkauft oder von Ausländern kauft, sowie Zahlungen, die das Geldinstitut im Zusammenhang mit der Einlösung inländischer Wertpapiere an Ausländer leistet oder von diesen erhält; in den Meldungen müssen die Angaben gemäß Anlage 6 enthalten sein;
 
 
-3.  ein- und ausgehende Zahlungen für Zinsen und zinsähnliche Erträge und Aufwendungen, ausgenommen Wertpapierzinsen, die sie für eigene Rechnung von Ausländern entgegennehmen oder an Ausländer leisten; in den Meldungen müssen die Angaben gemäß Anlage Z14 „Zinseinnahmen und zinsähnliche Erträge im Außenwirtschaftsverkehr (ohne Wertpapierzinsen)“ und Anlage Z15 „Zinsausgaben und zinsähnliche Aufwendungen im Außenwirtschaftsverkehr (ohne Wertpapierzinsen)“ enthalten sein;
+2.  Zins- und Dividendenzahlungen auf inländische Wertpapiere, die sie an Ausländer leisten oder von diesen erhalten; in den Meldungen müssen die Angaben gemäß Anlage 5 enthalten sein;
 
 
-4.  im Zusammenhang mit dem Reiseverkehr
-
-    a)  ein- und ausgehende Zahlungen aus Kartenumsätzen; in den Meldungen müssen die Angaben gemäß Anlage Z12 „Zahlungseingänge/Zahlungsausgänge im Reiseverkehr: Karten-Umsätze“ enthalten sein,
-
-
-    b)  ein- und ausgehende Zahlungen aus dem An- und Verkauf von Sorten sowie Umsätze aus dem Verkauf oder aus der Versendung von Fremdwährungsreiseschecks; in den Meldungen müssen die Angaben gemäß Anlage Z13 „Zahlungseingänge/Zahlungsausgänge im Reiseverkehr: Sorten und Fremdwährungsreiseschecks“ enthalten sein.
-
-
-
+3.  im Zusammenhang mit dem Reiseverkehr ein- und ausgehende Zahlungen aus Kartenumsätzen; in den Meldungen müssen die Angaben nach Anlage 7 enthalten sein.
 
 
 
@@ -2124,7 +2094,7 @@ Inländer, die ein Seeschifffahrtsunternehmen betreiben, haben abweichend von §
 
 
 
-(3) Absatz 1 Nummer 1 und 3 ist nicht anzuwenden auf Zahlungen, die den Betrag von 12 500 Euro oder den Gegenwert in anderer Währung nicht übersteigen.
+(3) Absatz 1 Nummer 1 ist nicht anzuwenden auf Zahlungen, die den Betrag von 50 000 Euro oder den Gegenwert in anderer Währung nicht übersteigen.
 
 (4) Bei Meldungen nach Absatz 1 Nummer 1 sind die Kennzahlen der Anlage LV „Leistungsverzeichnis der Deutschen Bundesbank für die Zahlungsbilanz“ und die Bezeichnungen der Wertpapiere, die internationale Wertpapierkennnummer sowie Nennbetrag oder Stückzahl anzugeben.
 
@@ -2136,22 +2106,17 @@ Inländer, die ein Seeschifffahrtsunternehmen betreiben, haben abweichend von §
 
 #### § 71 Meldefristen
 
-(1) Meldungen gemäß § 64 nach Anlage K3 sind einmal jährlich spätestens bis zum letzten Werktag des sechsten auf den Bilanzstichtag des Meldepflichtigen oder, soweit der Meldepflichtige nicht bilanziert, des sechsten auf den 31. Dezember folgenden Kalendermonats einzureichen.
+(1) Meldungen gemäß § 64 nach Anlage 2 sind einmal jährlich spätestens bis zum letzten Werktag des sechsten auf den Bilanzstichtag des Meldepflichtigen oder, soweit der Meldepflichtige nicht bilanziert, des sechsten auf den 31. Dezember folgenden Kalendermonats einzureichen.
 
-(2) Meldungen gemäß § 65 nach Anlage K4 sind einmal jährlich spätestens bis zum letzten Werktag des sechsten auf den Bilanzstichtag des Meldepflichtigen oder, soweit es sich bei dem Meldepflichtigen um eine nicht bilanzierende inländische Zweigniederlassung oder Betriebsstätte eines ausländischen Unternehmens handelt, des sechsten auf den Bilanzstichtag des ausländischen Unternehmens folgenden Monats einzureichen.
+(2) Meldungen gemäß § 65 nach Anlage 3 sind einmal jährlich spätestens bis zum letzten Werktag des sechsten auf den Bilanzstichtag des Meldepflichtigen oder, soweit es sich bei dem Meldepflichtigen um eine nicht bilanzierende inländische Zweigniederlassung oder Betriebsstätte eines ausländischen Unternehmens handelt, des sechsten auf den Bilanzstichtag des ausländischen Unternehmens folgenden Monats einzureichen.
 
-(3) Meldungen gemäß § 66 Absatz 1 in Verbindung mit § 66 Absatz 2 nach Anlage Z5 sind monatlich bis zum zehnten Kalendertag des folgenden Monats nach dem Stand des letzten Werktages des Vormonats einzureichen.
+(3) Meldungen gemäß § 66 Absatz 1 in Verbindung mit § 66 Absatz 3 nach Anlage 4 sind monatlich bis zum zehnten Werktag des folgenden Monats nach dem Stand des letzten Werktages des Vormonats einzureichen.
 
-(4) Meldungen gemäß § 66 Absatz 1 in Verbindung mit § 66 Absatz 3 nach Anlage Z5a Blatt 1 und Blatt 2 sind monatlich bis zum 20. Kalendertag des folgenden Monats nach dem Stand des letzten Werktages des Vormonats einzureichen.
+(4) Meldungen gemäß § 66 Absatz 1 in Verbindung mit § 66 Absatz 4 nach Anlage 4 sind bis zum 50. Werktag nach Ablauf eines jeden Kalendervierteljahres einzureichen.
 
-(5) Meldungen gemäß § 66 Absatz 1 in Verbindung mit § 66 Absatz 4 nach Anlage Z5b sind bis zum
-50\. Kalendertag              nach Ablauf eines jeden Kalendervierteljahres einzureichen.
+(5) Die Anzeige gemäß § 66 Absatz 5 ist für die in § 66 Absatz 1 genannte Betragsgrenze bis zum 15. Werktag des darauf folgenden Monats, für die in § 66 Absatz 4 genannte Betragsgrenze bis zum 50. Werktag nach Ablauf des Kalendervierteljahres einzureichen.
 
-(6) Die Anzeige gemäß § 66 Absatz 5 ist für die in § 66 Absatz 1 genannte Betragsgrenze bis zum 20. Kalendertag des darauf folgenden Monats, für die in § 66 Absatz 4 genannte Betragsgrenze bis zum 50. Kalendertag nach Ablauf des Kalendervierteljahres einzureichen.
-
-(7) Meldungen gemäß § 67 Absatz 1 in Verbindung mit § 67 Absatz 4 Satz 1 nach Anlage Z4, Meldungen gemäß § 69 nach Anlage Z8 sowie Stornomeldungen nach § 68 Absatz 2 sind bis zum siebenten Kalendertag des auf die Leistung oder Entgegennahme der Zahlungen oder der Einfuhr oder Verbringung der Transithandelsware folgenden Monats einzureichen.
-
-(8) Meldungen gemäß § 67 Absatz 1 in Verbindung mit § 67 Absatz 4 Satz 2 nach Anlage Z10 sowie Meldungen gemäß § 70 Absatz 1 nach den Anlagen Z10, Z11, Z12, Z13, Z14 und Z15 sind bis zum fünften Kalendertag des folgenden Monats einzureichen.
+(6) Meldungen nach § 67 Absatz 1 in Verbindung mit § 67 Absatz 4, Meldungen nach § 70 Absatz 1 sowie Stornomeldungen nach § 67 Absatz 6 sind bis zum siebten Werktag des folgenden Monats einzureichen.
 
 
 #### § 72 Meldestelle und Einreichungsweg
@@ -2832,7 +2797,7 @@ Die §§ 74 bis 77 gelten auch für Deutsche im Ausland.
 
 (2) Ordnungswidrig im Sinne des § 19 Absatz 3 Nummer 1 Buchstabe b des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 5 Absatz 1 Satz 1 eine Urkunde nicht oder nicht rechtzeitig zurückgibt,
+1.  (weggefallen)
 
 
 2.  entgegen § 6 Absatz 1 eine Urkunde nicht oder nicht mindestens fünf Jahre aufbewahrt,
@@ -2894,10 +2859,10 @@ Die §§ 74 bis 77 gelten auch für Deutsche im Ausland.
 18. entgegen § 32 Absatz 3 ein dort genanntes Dokument nicht, nicht richtig oder nicht rechtzeitig vorlegt,
 
 
-19. entgegen § 64 Absatz 1, § 65 Absatz 1, § 66 Absatz 1 oder Absatz 4 Satz 1, § 67 Absatz 1, auch in Verbindung mit § 68 Absatz 1, entgegen § 69 oder § 70 Absatz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
+19. entgegen § 64 Absatz 1, § 65 Absatz 1, § 66 Absatz 1 oder Absatz 4 Satz 1, § 67 Absatz 1 oder § 70 Absatz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
 
 
-20. entgegen § 68 Absatz 2 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
+20. entgegen § 67 Absatz 6 eine Stornomeldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
 
 
@@ -7649,192 +7614,1225 @@ d)  mit „anwenderzugänglicher Programmierbarkeit“ durch Eingabe-/Wiedergabe
 
 
 
+(zu § 64)
 
-### Anlage 2 (weggefallen)
+### Anlage 2 DIREKA1 Meldung von Vermögen von Inländern im Ausland
 
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 17 - 19)
 
 
-### Anlage 3 Vermögen von Inländern im Ausland
+*    *   **Meldeinhalte**
 
-(Fundstelle: BAnz AT 07.09.2021 V1)
 
-![banzat_2021_210811001115B001.jpg](banzat_2021_210811001115B001.jpg)
-![banzat_2021_210811001115B002.jpg](banzat_2021_210811001115B002.jpg)
+*    *   Angaben zum Meldepflichtigen
 
-### Anlage 4 Vermögen von Ausländern im Inland
 
-(Fundstelle: BAnz AT 07.09.2021 V1)
+*    *   Angaben zum Einreicher
 
-![banzat_2021_210811001115B003.jpg](banzat_2021_210811001115B003.jpg)
-![banzat_2021_210811001115B004.jpg](banzat_2021_210811001115B004.jpg)
 
-### Anlage 5 Anlage Z4 „Zahlungen im Außenwirtschaftsverkehr“
+*    *   Kontaktdaten für Rückfragen
 
-(Fundstelle: BGBl. I 2013, 2936 - 2937)
 
+*    *   Meldedatum
 
 
 
-### Anlage 6 Anlage Z5 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit ausländischen Banken“
 
-(Fundstelle: BGBl. I 2013, 2938 - 2939)
+*    *   **Über die allgemeinen Angaben des Meldepflichtigen hinausgehende Angaben**
 
 
+*    *   Wirtschaftszweig
 
 
-### Anlage 7 Anlage Z5a Blatt 1/1 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit verbundenen ausländischen Nichtbanken“
+*    *   Rechtsform
 
-(Fundstelle: BGBl. I 2013, 2940 - 2941)
 
+*    *   Bilanzsumme
 
 
+*    *   Jahresumsatz
 
-### Anlage 8 Anlage Z5a Blatt 1/2 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit sonstigen ausländischen Nichtbanken“
 
-(Fundstelle: BGBl. I 2013, 2942 - 2943)
+*    *   Zahl der Beschäftigten
 
 
+*    *   Sitzland der ausländischen Konzernspitze
 
 
-### Anlage 9 Anlage Z5a Blatt 2/1 „Forderungen und Verbindlichkeiten gegenüber verbundenen ausländischen Nichtbanken aus dem Waren- und Dienstleistungsverkehr“
 
-(Fundstelle: BGBl. I 2013, 2944 - 2945)
 
+*    *   **Falls der Meldepflichtige zu einem deutschen Konzern gehört: Angaben zum Konzern**
 
 
+*    *   Bilanzsumme
 
-### Anlage 10 Anlage Z5a Blatt 2/2 „Forderungen und Verbindlichkeiten gegenüber sonstigen ausländischen Nichtbanken aus dem Waren- und Dienstleistungsverkehr“
 
-(Fundstelle: BGBl. I 2013, 2946 - 2947)
+*    *   Jahresumsatz
 
 
+*    *   Zahl der Beschäftigten
 
 
-### Anlage 11 Anlage Z5b „Forderungen und Verbindlichkeiten gegenüber Ausländern aus derivativen Finanzinstrumenten“
+*    *   Firma der deutschen Konzernmutter
 
-(Fundstelle: BGBl. I 2013, 2948 - 2949)
 
 
 
+*    *   **Liste der ausländischen Unternehmen, an denen der Meldepflichtige unmittelbar oder mittelbar zum Meldestichtag beteiligt ist oder zum letzten Meldestichtag beteiligt war mit folgendem Inhalt**
 
-### Anlage 12 Anlage Z8 „Einnahmen und Ausgaben der Seeschifffahrt“
 
-(Fundstelle: BGBl. I 2013, 2950 - 2951)
+*    *   Firma
 
 
+*    *   Sitz
 
 
-### Anlage 13 Anlage Z10 „Wertpapiergeschäfte und Finanzderivate im Außenwirtschaftsverkehr“
+*    *   Sitzland
 
-(Fundstelle: BGBl. I 2013, 2952 - 2953)
 
+*    *   Wirtschaftszweig
 
 
+*    *   Angabe zur Selbständigkeit
 
-### Anlage 14 Anlage Z11 „Zahlungen für Wertpapier-Erträge im Außenwirtschaftsverkehr“
 
-(Fundstelle: BGBl. I 2013, 2954 - 2956)
+*    *   ISIN
 
 
+*    *   Unmittelbare ausländische Beteiligungsgeber, über die der Meldepflichtige mittelbar beteiligt ist
 
 
+*    *   Erstmelde-/Abgangsgrund
 
-### Anlage 15 Anlage Z12 „Zahlungseingänge/Zahlungsausgänge im Reiseverkehr: Karten-Umsätze“
 
-(Fundstelle: BGBl. I 2013, 2957 - 2958)
+*    *   Währung
 
 
+*    *   Jahresumsatz
 
 
-### Anlage 16 Anlage Z13 „Zahlungseingänge/Zahlungsausgänge im Reiseverkehr: Sorten und Fremdwährungsreiseschecks“
+*    *   Investitionen in Sachanlagen
 
-(Fundstelle: BGBl. I 2013, 2959 - 2960)
 
+*    *   Personalaufwand
 
 
+*    *   Zahl der Beschäftigten
 
-### Anlage 17 Anlage Z14 „Zinseinnahmen und zinsähnliche Erträge im Außenwirtschaftsverkehr (ohne Wertpapierzinsen)“
 
-(Fundstelle: BGBl. I 2013, 2961 - 2962)
+*    *   Summe der Stimmrechtsanteile vom Meldepflichtigen und unmittelbaren Beteiligungsgebern
 
 
+*    *   Bilanz der ausländischen Beteiligung (siehe Beschreibung: Bilanzinformationen)
 
 
-### Anlage 18 Anlage Z15 „Zinsausgaben und zinsähnliche Aufwendungen im Außenwirtschaftsverkehr (ohne Wertpapierzinsen)“
+*    *   Auf den Meldepflichtigen entfallende Anteile der folgenden Bilanzinformationen:
 
-(Fundstelle: BGBl. I 2013, 2963 - 2964)
 
+*    *
+    *   Anteile an verbundenen Unternehmen, Beteiligungen
 
 
-Anlage LV zur Außenwirtschaftsverordnung
+*    *
+    *   Ausleihungen an Anteilseigner, verbundene Unternehmen, Unternehmen, mit denen ein Beteiligungsverhältnis besteht
 
-### Anlage 19 Leistungsverzeichnis der Deutschen Bundesbank für die Zahlungsbilanz
 
-(Fundstelle: BAnz AT 28.10.2020 V1)
+*    *
+    *   Forderungen an Anteilseigner, verbundene Unternehmen, Unternehmen, mit denen ein Beteiligungsverhältnis besteht
 
-## **Dienstleistungen**
+
+*    *
+    *   Gezeichnetes oder eingefordertes Kapital, Dotationskapital, Einlagen von Gesellschaftern
+
+
+*    *
+    *   Verbindlichkeiten gegenüber Anteilseignern, verbundenen Unternehmen, Unternehmen, mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *   Börsenwert der vom Meldepflichtigen unmittelbar gehaltenen Anteile
+
+
+*    *   Anteil der Stimmrechte des Meldepflichtigen
+
+
+*    *   Auf den oder die unmittelbaren ausländischen Beteiligungsgeber entfallenden Anteile der folgenden Bilanzinformationen:
+
+
+*    *
+    *   Anteile an verbundenen Unternehmen, Beteiligungen
+
+
+*    *
+    *   Ausleihungen an Anteilseigner, verbundene Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Forderungen an Anteilseigner, verbundene Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Gezeichnetes oder eingefordertes Kapital, Dotationskapital, Einlagen von Gesellschaftern
+
+
+*    *
+    *   Verbindlichkeiten gegenüber Anteilseignern, verbundenen Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+
+
+*    *   **Bilanzinformationen der ausländischen Beteiligungen**
+
+
+*    *   Bilanzstichtag
+
+
+*    *   Art der Rechnungslegung
+
+
+*    *   Sachanlagen und immaterielle Vermögensgegenstände
+
+
+*    *   Finanzanlagen insgesamt
+
+
+*    *   Darunter:
+
+
+*    *
+    *   Anteile an verbundenen Unternehmen, Beteiligungen
+
+
+*    *
+    *   Ausleihungen an in Deutschland ansässige Anteilseigner, verbundene Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Ausleihungen an nicht in Deutschland ansässige Anteilseigner, verbundene Unternehmen, Unternehmen an denen ein Beteiligungsverhältnis besteht
+
+
+*    *   Umlaufvermögen insgesamt
+
+
+*    *   Darunter:
+
+
+*    *
+    *   Forderungen gegenüber in Deutschland ansässige Anteilseigner, verbundenen Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Forderungen gegenüber nicht in Deutschland ansässigen Anteilseigner, verbundenen Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *   Übrige Aktiva
+
+
+*    *   Nicht durch Eigenkapital gedeckter Fehlbetrag
+
+
+*    *   Gezeichnetes oder eingefordertes Kapital, Dotationskapital, Einlagen von Gesellschaftern
+
+
+*    *   Kapitalrücklage
+
+
+*    *   Gewinnrücklagen
+
+
+*    *   Bei internationaler Rechnungslegung: kumulierte erfolgsneutrale Eigenkapitalveränderungen
+
+
+*    *   Gewinnvortrag/Verlustvortrag
+
+
+*    *   Jahresüberschuss/Jahresfehlbetrag
+
+
+*    *   Verbindlichkeiten insgesamt
+
+
+*    *   Darunter:
+
+
+*    *   Verbindlichkeiten gegenüber in Deutschland ansässigen Anteilseignern, verbundenen Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *   Verbindlichkeiten gegenüber nicht in Deutschland ansässigen Anteilseignern, verbundenen Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *   Übrige Passiva
+
+
+*    *   Bilanzsumme
+
+
+
+(zu § 65)
+
+### Anlage 3 DIREKA2 Meldung von Vermögen von Ausländern im Inland
+
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 20 - 22)
+
+
+*    *   **Meldeinhalte**
+
+    *
+
+*    *   Angaben zum Meldepflichtigen
+
+    *
+
+*    *   Angaben zum Einreicher
+
+    *
+
+*    *   Kontaktdaten für Rückfragen
+
+    *
+
+*    *   Meldedatum
+
+    *
+
+
+
+*    *   **Über die allgemeinen Angaben des Meldepflichtigen hinausgehende Angaben**
+
+
+*    *   Wirtschaftszweig
+
+
+*    *   Rechtsform
+
+
+*    *   ISIN
+
+
+*    *   Erstmeldegrund
+
+
+*    *   Jahresumsatz
+
+
+*    *   Zahl der Beschäftigten
+
+
+*    *   Bilanz des Meldepflichtigen (siehe Beschreibung: Bilanzinformationen)
+
+
+
+
+*    *   **Liste der ausländischen Beteiligungsgeber mit folgendem Inhalt**
+
+
+*    *   Firma oder Name
+
+
+*    *   Sitz
+
+
+*    *   Sitzland
+
+
+*    *   Sitzland des Endeigentümers
+
+
+*    *   Auf den ausländischen Beteiligungsgeber entfallende Anteile der folgenden Bilanzinformationen des Meldepflichtigen:
+
+
+*    *
+    *   Anteile an verbundenen Unternehmen, Beteiligungen
+
+
+*    *
+    *   Ausleihungen an Anteilseigner, verbundene Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht im Ausland
+
+
+*    *
+    *   Forderungen an Anteilseigner, verbundene Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht im Ausland
+
+
+*    *
+    *   Gezeichnetes oder eingefordertes Kapital, Dotationskapital, Einlagen von Gesellschaftern
+
+
+*    *
+    *   Verbindlichkeiten gegenüber Anteilseignern, verbundenen Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht im Ausland
+
+
+*    *
+    *   Börsenwert der gehaltenen Anteile
+
+
+*    *
+    *   Anteil der Stimmrechte
+
+
+
+
+*    *   **Liste der inländischen Unternehmen, an denen die Ausländer über den Meldepflichtigen zum Meldestichtag mittelbar beteiligt sind oder zum letzten Meldestichtag beteiligt waren mit folgendem Inhalt (nur für vom ausländischen Beteiligungsgeber abhängige Unternehmen):**
+
+
+*    *   Firma
+
+
+*    *   Sitz
+
+
+*    *   Wirtschaftszweig
+
+
+*    *   Rechtsform
+
+
+*    *   Unmittelbare inländische Beteiligungsgeber über die der Meldepflichtige mittelbar beteiligt ist
+
+
+*    *   Erstmelde-/Abgangsgrund
+
+
+*    *   Jahresumsatz
+
+
+*    *   Zahl der Beschäftigten
+
+
+*    *   Bilanz der inländischen Beteiligung (siehe Beschreibung: Bilanzinformationen)
+
+
+*    *   Auf den oder die ausländischen Beteiligungsgeber entfallenden Anteile der folgenden Bilanzinformationen:
+
+
+*    *
+    *   Anteile an verbundenen Unternehmen, Beteiligungen
+
+
+*    *
+    *   Ausleihungen an Anteilseigner, verbundene Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Forderungen an Anteilseigner, verbundene Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Verbindlichkeiten gegenüber Anteilseignern, verbundenen Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *   Auf die direkten inländischen Beteiligungsgeber entfallende Anteile der folgenden Bilanzinformationen:
+
+
+*    *
+    *   Anteile an verbundenen Unternehmen, Beteiligungen
+
+
+*    *
+    *   Ausleihungen an Anteilseigner, verbundene Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Forderungen an Anteilseigner, verbundene Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Gezeichnetes oder eingefordertes Kapital, Dotationskapital, Einlagen von Gesellschaftern
+
+
+*    *
+    *   Verbindlichkeiten gegenüber Anteilseignern, verbundenen Unternehmen, Unternehmen an denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Anteil der Stimmrechte des unmittelbaren Beteiligungsgebers
+
+
+
+
+*    *   **Bilanzinformationen (für Meldepflichtigen und seine deutschen Beteiligungen)**
+
+
+*    *   Bilanzstichtag
+
+
+*    *   Art der Rechnungslegung
+
+
+*    *   Sachanlagen und immaterielle Vermögensgegenstände
+
+
+*    *   Finanzanlagen insgesamt
+
+
+*    *   Darunter:
+
+
+*    *
+    *   Anteile an verbundenen Unternehmen, Beteiligungen
+
+
+*    *
+    *   Ausleihungen an in Deutschland ansässige Anteilseigner, verbundene Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Ausleihungen an nicht in Deutschland ansässige Anteilseigner, verbundene Unternehmen, Unternehmen an denen ein Beteiligungsverhältnis besteht
+
+
+*    *   Umlaufvermögen insgesamt
+
+
+*    *   Darunter:
+
+
+*    *
+    *   Forderungen gegenüber in Deutschland ansässigen Anteilseigner, verbundenen Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht in Deutschland
+
+
+*    *
+    *   Forderungen gegenüber nicht in Deutschland ansässigen Anteilseigner, verbundenen Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *   Übrige Aktiva
+
+
+*    *   Nicht durch Eigenkapital gedeckter Fehlbetrag
+
+
+*    *   Gezeichnetes oder eingefordertes Kapital, Dotationskapital, Einlagen von Gesellschaftern
+
+
+*    *   Kapitalrücklage
+
+
+*    *   Gewinnrücklagen
+
+
+*    *   Bei internationaler Rechnungslegung: kumulierte erfolgsneutrale Eigenkapitalveränderungen
+
+
+*    *   Gewinnvortrag/Verlustvortrag
+
+
+*    *   Jahresüberschuss/Jahresfehlbetrag
+
+
+*    *   Verbindlichkeiten insgesamt
+
+
+*    *   Darunter:
+
+
+*    *
+    *   Verbindlichkeiten gegenüber in Deutschland ansässigen Anteilseignern, verbundenen Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *
+    *   Verbindlichkeiten gegenüber nicht in Deutschland ansässigen Anteilseignern, verbundenen Unternehmen, Unternehmen mit denen ein Beteiligungsverhältnis besteht
+
+
+*    *   Übrige Passiva
+
+
+*    *   Bilanzsumme
+
+
+
+(zu § 66)
+
+### Anlage 4 AUSWIB1 Bestandsmeldungen der Forderungen und Verbindlichkeiten im Außenwirtschaftsverkehr nach den §§ 66 ff. der Außenwirtschaftsverordnung
+
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 23 - 25)
+
+
+*    *   **Meldeinhalte**
+
+
+*    *   Angaben zum Meldepflichtigen
+
+
+*    *   Angaben zum Einreicher
+
+
+*    *   Kontaktdaten für Rückfragen
+
+
+*    *   Meldedatum
+
+
+
+
+*    *   **Liste der Forderungen und Verbindlichkeiten, gegliedert nach:**
+
+
+*    *   Sitzland des Schuldners/Gläubigers
+
+
+*    *   Währung der Forderung/Verbindlichkeit (außer für derivative Finanzinstrumente)
+
+
+*    *   Bestandsarten gemäß Bestandsartenverzeichnis
+
+
+*    *   Betrag (in Tausend Euro/fremde Währungen sind in Euro umzurechnen)
+
+
+
+
+*    *   **Bestandsartenverzeichnis (AUSWI) zur Außenwirtschaftsverordnung der Deutschen Bundesbank für die Zahlungsbilanz**
+
+
+*    *   Finanzbeziehungen gegenüber ausländischen Banken (ohne Wertpapiere)
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   Finanzbeziehungen gegenüber verbundenen ausländischen Nichtbanken (ohne Wertpapiere)
+
+
+*    *   – gegenüber Unternehmen, die am Meldepflichtigen beteiligt sind
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   – gegenüber Unternehmen, an denen der Meldepflichtige beteiligt ist
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   – gegenüber Unternehmen, mit denen der Meldepflichtige über einen gemeinsamen Beteiligten verbunden ist
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   Finanzbeziehungen gegenüber sonstigen ausländischen Nichtbanken (ohne Wertpapiere)
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *   Waren- und Dienstleistungsverkehr gegenüber verbundenen ausländischen Nichtbanken
+
+
+*    *   – gegenüber Unternehmen, die am Meldepflichtigen beteiligt sind
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   aus geleisteten Anzahlungen
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   aus empfangenen Anzahlungen
+
+
+*    *   – gegenüber Unternehmen, an denen der Meldepflichtige beteiligt ist
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   aus geleisteten Anzahlungen
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   aus empfangenen Anzahlungen
+
+
+*    *   – gegenüber Unternehmen, mit denen der Meldepflichtige über einen gemeinsamen Beteiligten verbunden ist
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   aus geleisteten Anzahlungen
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   aus empfangenen Anzahlungen
+
+
+*    *   Waren- und Dienstleistungsverkehr gegenüber sonstigen ausländischen Nichtbanken
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   aus geleisteten Anzahlungen
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von bis zu 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   mit Fristigkeiten von mehr als 1 Jahr
+
+
+*    *
+    *   ○
+
+    *   aus empfangenen Anzahlungen
+
+
+*    *   Derivative Finanzinstrumente gegenüber Ausländern
+
+
+*    *   •
+
+    *   Forderungen
+
+
+*    *
+    *   ○
+
+    *   an ausländische Banken
+
+
+*    *
+    *   ○
+
+    *   an ausländische verbundene Nichtbanken
+
+
+*    *
+    *   ○
+
+    *   an ausländische sonstige Nichtbanken
+
+
+*    *   •
+
+    *   Verbindlichkeiten
+
+
+*    *
+    *   ○
+
+    *   gegenüber ausländischen Banken
+
+
+*    *
+    *   ○
+
+    *   gegenüber ausländischen verbundenen Nichtbanken
+
+
+*    *
+    *   ○
+
+    *   gegenüber ausländischen sonstigen Nichtbanken
+
+
+
+(zu den §§ 67 und § 70 Absatz 1 Nummer 2)
+
+### Anlage 5 ZABILC1 Zahlungen für Dienstleistungen, Transit, Direktinvestitionen, Kapitalverkehr (einschließlich Wertpapier- und Zinserträge) im Außenwirtschaftsverkehr nach den §§ 67 ff. der Außenwirtschaftsverordnung
+
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 26)
+
+
+*    *   **Meldeinhalte**
+
+
+*    *   Angaben zum Meldepflichtigen
+
+
+*    *   Angaben zum Einreicher
+
+
+*    *   Kontaktdaten für Rückfragen
+
+
+*    *   Meldedatum
+
+
+*    *   Die Zahlungsinformationen sind nach folgenden Merkmalen zu gliedern:
+
+        •   Transaktionsrichtung
+
+
+        •   Kennzahl laut Leistungsverzeichnis
+
+
+        •   Zahlungszweck
+
+
+        •   Betrag
+
+
+        •   Land
+
+
+        •   Verrechnungskennzeichen (außer für Wertpapier- und Zinserträge)
+
+
+        •   ISIN (Kapitalverkehr)
+
+
+        •   Bezeichnung des Wertpapieres (Kapitalverkehr)
+
+
+        •   Stückzahl (Kapitalverkehr)
+
+
+        •   Warencode (Transitverkehr)
+
+
+        •   Warenbezeichnung (Transitverkehr)
+
+
+
+
+
+
+(zu den §§ 67 Absatz 4 und § 70 Absatz 1 Nummer 1)
+
+### Anlage 6 ZABILC2 Zahlungen für Wertpapiergeschäfte, Finanzderivate im Außenwirtschaftsverkehr nach § 67 Abs. 4 und § 70 Abs. 1 Nr. 1 der Außenwirtschaftsverordnung
+
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 27)
+
+
+*    *   **Meldeinhalte**
+
+
+*    *   Angaben zum Meldepflichtigen
+
+
+*    *   Angaben zum Einreicher
+
+
+*    *   Kontaktdaten für Rückfragen
+
+
+*    *   Meldedatum
+
+
+*    *   Die Zahlungsinformationen sind nach folgenden Merkmalen zu gliedern:
+
+        •   Transaktionsrichtung
+
+
+        •   Kennzahl laut Leistungsverzeichnis
+
+
+        •   Betrag
+
+
+        •   Land
+
+
+        •   Notierungsart
+
+
+        •   ISIN
+
+
+        •   Bezeichnung des Wertpapieres bzw. Finanzinstruments
+
+
+        •   Stückzahl/Nominalbetrag
+
+
+        •   Emissionswährung
+
+
+
+
+
+
+(zu § 70 Absatz 1 Nummer 3)
+
+### Anlage 7 ZABILC3 Zahlungen für den Reiseverkehr (Karten-Umsätze) im Außenwirtschaftsverkehr nach § 70 Abs. 1 Nr. 3 der Außenwirtschaftsverordnung
+
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 28)
+
+
+*    *   **Meldeinhalte**
+
+
+*    *   Angaben zum Meldepflichtigen
+
+
+*    *   Angaben zum Einreicher
+
+
+*    *   Kontaktdaten für Rückfragen
+
+
+*    *   Meldedatum
+
+
+*    *   Die Zahlungsinformationen sind nach folgenden Merkmalen zu gliedern:
+
+        •   Transaktionsrichtung
+
+
+        •   Kennzahl laut Leistungsverzeichnis
+
+
+        •   Betrag
+
+
+        •   Land
+
+
+
+
+
+
+(zu § 70 Absatz 1 Nummer 3)
+
+### Anlage 8 Leistungsverzeichnis zur Außenwirtschaftsverordnung Leistungsverzeichnis der Deutschen Bundesbank für die Zahlungsbilanz
+
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 29 - 42)
+
+## Dienstleistungen
 
 
 *    *   **Produktbezogene Dienstleistungen**
 
     *
 
-*    *
-    *   Forschung und Entwicklung
+*    *   Forschung und Entwicklung
 
     *   **549**
 
 
-*    *
-    *   Produkttests
+*    *   Produkttests
 
     *   **551**
 
 
-*    *
-    *   Herstellung von audiovisuellen und sonstigen künstlerischen Produkten
+*    *   Herstellung von audiovisuellen und sonstigen künstlerischen Produkten
 
     *   **564**
 
 
-*    *
-    *   Wartung und Reparatur
+*    *   Wartung und Reparatur
 
     *   **566**
 
 
-*    *
-    *   Lohnfertigung
+*    *   Lohnfertigung
 
     *   **567**
 
 
-*    *
-    *   Technische Dienstleistungen
+*    *   Technische Dienstleistungen
 
     *   **553**
 
 
-*    *
-    *   Architekturdienstleistungen
+*    *   Architekturdienstleistungen
 
     *   **554**
 
 
-*    *
-    *   Ingenieur-Dienstleistungen
+*    *   Ingenieur-Dienstleistungen
 
     *   **555**
 
 
-*    *
-    *   Entsorgungsleistungen
+*    *   Entsorgungsleistungen
 
     *   **534**
 
 
-*    *
-    *   Dienstleistungen für Landwirtschaft und Bergbau
+*    *   Dienstleistungen für Landwirtschaft und Bergbau
 
     *   **558**
 
@@ -7843,62 +8841,52 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *
-    *   Provisionen
+*    *   Provisionen
 
     *   **523**
 
 
-*    *
-    *   Finanzdienstleistungen
+*    *   Finanzdienstleistungen
 
     *   **533**
 
 
-*    *
-    *   Juristische Dienstleistungen
+*    *   Juristische Dienstleistungen
 
     *   **536**
 
 
-*    *
-    *   Wirtschaftsprüfung, Buchführung, Steuerberatung
+*    *   Wirtschaftsprüfung, Buchführung, Steuerberatung
 
     *   **546**
 
 
-*    *
-    *   Unternehmens- und Public-Relation-Beratung
+*    *   Unternehmens- und Public-Relation-Beratung
 
     *   **556**
 
 
-*    *
-    *   Werbung, Marktforschung, Messekosten
+*    *   Werbung, Marktforschung, Messekosten
 
     *   **540**
 
 
-*    *
-    *   Miete und Operationelles Leasing
+*    *   Miete und Operationelles Leasing
 
     *   **594**
 
 
-*    *
-    *   Amtliche Gebühren
+*    *   Amtliche Gebühren
 
     *   **619**
 
 
-*    *
-    *   Pacht
+*    *   Pacht
 
     *   **694**
 
 
-*    *
-    *   Sonstige produktbezogene oder unternehmensbezogene Dienstleistungen
+*    *   Sonstige produktbezogene oder unternehmensbezogene Dienstleistungen
 
     *   **571**
 
@@ -7907,38 +8895,32 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *
-    *   Gesundheitsleistungen
+*    *   Gesundheitsleistungen
 
     *   **658**
 
 
-*    *
-    *   Bildungsdienstleistungen
+*    *   Bildungsdienstleistungen
 
     *   **659**
 
 
-*    *
-    *   Freizeit- und Kulturdienstleistungen
+*    *   Freizeit- und Kulturdienstleistungen
 
     *   **643**
 
 
-*    *
-    *   Personalleasing
+*    *   Personalleasing
 
     *   **517**
 
 
-*    *
-    *   Entgelte für nicht selbständige Arbeit
+*    *   Entgelte für nicht selbständige Arbeit
 
     *   **521**
 
 
-*    *
-    *   Sonstige personenbezogene Dienstleistungen
+*    *   Sonstige personenbezogene Dienstleistungen
 
     *   **695**
 
@@ -7947,98 +8929,79 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *   **1.**
-
-    *   **Nutzungsgebühren und Lizenzen**
+*    *   **1. Nutzungsgebühren und Lizenzen**
 
     *
 
-*    *
-    *   Nutzung von Software
+*    *   Nutzung von Software
 
     *   **613**
 
 
-*    *
-    *   Nutzung von audiovisuellen Produkten und sonstigen künstlerischen Urheberrechten
+*    *   Nutzung von audiovisuellen Produkten und sonstigen künstlerischen Urheberrechten
 
     *   **614**
 
 
-*    *
-    *   Nutzung von Forschungsergebnissen, Erfindungen und Verfahren
+*    *   Nutzung von Forschungsergebnissen, Erfindungen und Verfahren
 
     *   **615**
 
 
-*    *
-    *   Nutzung von Marken-, Warenzeichen, Namensrechten und Franchise
+*    *   Nutzung von Marken-, Warenzeichen, Namensrechten und Franchise
 
     *   **616**
 
 
-*    *
-    *   Nutzung von sonstigen Rechten
+*    *   Nutzung von sonstigen Rechten
 
     *   **617**
 
 
-*    *   **2.**
-
-    *   **Vertriebs- und Reproduktionsrechte an geistigem Eigentum**
+*    *   **2. Vertriebs- und Reproduktionsrechte an geistigem Eigentum**
 
     *
 
-*    *
-    *   Reproduktion und Vertrieb von Computersoftware
+*    *   Reproduktion und Vertrieb von Computersoftware
 
     *   **623**
 
 
-*    *
-    *   Reproduktion, Vertrieb und Übertragung von audiovisuellen Produkten und sonstigen künstlerischen Urheberrechten
+*    *   Reproduktion, Vertrieb und Übertragung von audiovisuellen Produkten und sonstigen künstlerischen Urheberrechten
 
     *   **624**
 
 
-*    *
-    *   Sonstige Vertriebsrechte
+*    *   Sonstige Vertriebsrechte
 
     *   **627**
 
 
-*    *   **3.**
-
-    *   **Erwerb/Veräußerung von geistigem Eigentum**
+*    *   **3. Erwerb/Veräußerung von geistigem Eigentum**
 
     *
 
-*    *
-    *   Kauf/Verkauf von Software
+*    *   Kauf/Verkauf von Software
 
     *   **633**
 
 
-*    *
-    *   Kauf/Verkauf von audiovisuellen Produkten und sonstigen künstlerischen Urheberrechten
+*    *   Kauf/Verkauf von audiovisuellen Produkten und sonstigen künstlerischen Urheberrechten
 
     *   **634**
 
 
-*    *
-    *   Kauf/Verkauf von Forschungsergebnissen
+*    *   Kauf/Verkauf von Forschungsergebnissen
 
     *   **635**
 
 
-*    *
-    *   Kauf/Verkauf von Markenrechten und Warenzeichen
+*    *   Kauf/Verkauf von Markenrechten und Warenzeichen
 
     *   **636**
 
 
-*    *
-    *   Kauf/Verkauf von sonstigen Rechten
+*    *   Kauf/Verkauf von sonstigen Rechten
 
     *   **637**
 
@@ -8047,26 +9010,22 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *
-    *   Kommunikationsdienstleistungen
+*    *   Kommunikationsdienstleistungen
 
     *   **576**
 
 
-*    *
-    *   EDV-Dienstleistungen
+*    *   EDV-Dienstleistungen
 
     *   **573**
 
 
-*    *
-    *   Nachrichten- und Informationsdienste
+*    *   Nachrichten- und Informationsdienste
 
     *   **572**
 
 
-*    *
-    *   Speicherung von Informationen sowie Bereitstellung entsprechender Infrastruktur
+*    *   Speicherung von Informationen sowie Bereitstellung entsprechender Infrastruktur
 
     *   **574**
 
@@ -8075,86 +9034,67 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *   **1.**
-
-    *   **Baustellen im Ausland unter einem Jahr im Auftrag von Ausländern**
+*    *   **1. Baustellen im Ausland unter einem Jahr im Auftrag von Ausländern**
 
     *
 
-*    *
-    *   Ausgaben für Baustellen im Ausland, die kürzer als ein Jahr bestehen
+*    *   Ausgaben für Baustellen im Ausland, die kürzer als ein Jahr bestehen
 
     *   **580**
 
 
-*    *
-    *   Einnahmen aus Baustellen im Ausland, die kürzer als ein Jahr bestehen
+*    *   Einnahmen aus Baustellen im Ausland, die kürzer als ein Jahr bestehen
 
     *   **570**
 
 
-*    *   **2.**
-
-    *   **Baustellen im Ausland über einem Jahr im Auftrag von Ausländern**
+*    *   **2. Baustellen im Ausland über einem Jahr im Auftrag von Ausländern**
 
     *
 
-*    *
-    *   Ausgaben für Baustellen im Ausland, die länger als ein Jahr bestehen
+*    *   Ausgaben für Baustellen im Ausland, die länger als ein Jahr bestehen
 
     *   **579**
 
 
-*    *
-    *   Einnahmen aus Baustellen im Ausland, die länger als ein Jahr bestehen
+*    *   Einnahmen aus Baustellen im Ausland, die länger als ein Jahr bestehen
 
     *   **569**
 
 
-*    *   **3.**
-
-    *   **Baustellen im Inland unter einem Jahr im Auftrag von Inländern**
+*    *   **3. Baustellen im Inland unter einem Jahr im Auftrag von Inländern**
 
     *
 
-*    *
-    *   Einnahmen aus Baustellen im Inland, die kürzer als ein Jahr bestehen
+*    *   Einnahmen aus Baustellen im Inland, die kürzer als ein Jahr bestehen
 
     *   **580**
 
 
-*    *
-    *   Ausgaben für Baustellen im Inland, die kürzer als ein Jahr bestehen
+*    *   Ausgaben für Baustellen im Inland, die kürzer als ein Jahr bestehen
 
     *   **570**
 
 
-*    *   **4.**
-
-    *   **Baustellen im Inland über einem Jahr im Auftrag von Inländern**
+*    *   **4. Baustellen im Inland über einem Jahr im Auftrag von Inländern**
 
     *
 
-*    *
-    *   Einnahmen aus Baustellen im Inland, die länger als ein Jahr bestehen
+*    *   Einnahmen aus Baustellen im Inland, die länger als ein Jahr bestehen
 
     *   **579**
 
 
-*    *
-    *   Ausgaben für Baustellen im Inland, die länger als ein Jahr bestehen
+*    *   Ausgaben für Baustellen im Inland, die länger als ein Jahr bestehen
 
     *   **569**
 
 
-*    *   **5.**
-
-    *   **Sonstige Bauleistungen**
+*    *   **5. Sonstige Bauleistungen**
 
     *
 
-*    *
-    *   Reparatur von Gebäuden und anderen nicht beweglichen Sachen
+*    *   Reparatur von Gebäuden und anderen nicht beweglichen Sachen
 
     *   **561**
 
@@ -8163,218 +9103,174 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *   **1.**
-
-    *   **Seeverkehr**
+*    *   **1. Seeverkehr**
 
     *
 
-*    *
-    *   Personenbeförderung auf See
+*    *   Personenbeförderung auf See
 
     *   **654**
 
 
-*    *
-    *   Seefrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und Verbringungen
+*    *   Seefrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und Verbringungen
 
     *   **669**
 
 
-*    *
-    *   Sonstige Seefrachten
+*    *   Sonstige Seefrachten
 
     *   **081**
 
 
-*    *
-    *   Transportnebenleistungen für den Seeverkehr
+*    *   Transportnebenleistungen für den Seeverkehr
 
     *   **310**
 
 
-*    *   **2.**
-
-    *   **Luftverkehr**
+*    *   **2. Luftverkehr**
 
     *
 
-*    *
-    *   Personenbeförderung in Flugzeugen
+*    *   Personenbeförderung in Flugzeugen
 
     *   **014**
 
 
-*    *
-    *   Luftfrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und Verbringungen
+*    *   Luftfrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und Verbringungen
 
     *   **225**
 
 
-*    *
-    *   Sonstige Luftfrachten
+*    *   Sonstige Luftfrachten
 
     *   **082**
 
 
-*    *
-    *   Transportnebenleistungen für den Luftverkehr
+*    *   Transportnebenleistungen für den Luftverkehr
 
     *   **360**
 
 
-*    *   **3.**
-
-    *   **Straßenverkehr**
+*    *   **3. Straßenverkehr**
 
     *
 
-*    *
-    *   Personenbeförderung auf der Straße
+*    *   Personenbeförderung auf der Straße
 
     *   **674**
 
 
-*    *
-    *   Straßenfrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und Verbringungen
+*    *   Straßenfrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und Verbringungen
 
     *   **240**
 
 
-*    *
-    *   Sonstige Straßenfrachten
+*    *   Sonstige Straßenfrachten
 
     *   **671**
 
 
-*    *
-    *   Transportnebenleistungen für den Straßenverkehr
+*    *   Transportnebenleistungen für den Straßenverkehr
 
     *   **670**
 
 
-*    *   **4.**
-
-    *   **Schienenverkehr**
+*    *   **4. Schienenverkehr**
 
     *
 
-*    *
-    *   Personenbeförderung auf der Schiene
+*    *   Personenbeförderung auf der Schiene
 
     *   **013**
 
 
-*    *
-    *   Bahnfrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und Verbringungen
+*    *   Bahnfrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und Verbringungen
 
     *   **676**
 
 
-*    *
-    *   Sonstige Bahnfrachten
+*    *   Sonstige Bahnfrachten
 
     *   **681**
 
 
-*    *
-    *   Transportnebenleistungen für den Schienenverkehr
+*    *   Transportnebenleistungen für den Schienenverkehr
 
     *   **340**
 
 
-*    *   **5.**
-
-    *   **Binnenschiffsverkehr**
+*    *   **5. Binnenschiffsverkehr**
 
     *
 
-*    *
-    *   Personenbeförderung auf Binnenschiffen
+*    *   Personenbeförderung auf Binnenschiffen
 
     *   **664**
 
 
-*    *
-    *   Binnenschiffsfrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und Verbringungen
+*    *   Binnenschiffsfrachten im Zusammenhang mit den deutschen Ein- und Ausfuhren und Verbringungen
 
     *   **216**
 
 
-*    *
-    *   Sonstige Binnenschiffsfrachten
+*    *   Sonstige Binnenschiffsfrachten
 
     *   **661**
 
 
-*    *
-    *   Transportnebenleistungen für den Binnenschiffsverkehr
+*    *   Transportnebenleistungen für den Binnenschiffsverkehr
 
     *   **690**
 
 
-*    *   **6.**
-
-    *   **Transport durch Rohr- und Stromfernleitungen**
+*    *   **6. Transport durch Rohr- und Stromfernleitungen**
 
     *
 
-*    *
-    *   Rohrfernleitungstransporte im Zusammenhang mit den deutschen Ein- und Ausfuhren und Verbringungen
+*    *   Rohrfernleitungstransporte im Zusammenhang mit den deutschen Ein- und Ausfuhren und Verbringungen
 
     *   **226**
 
 
-*    *
-    *   Sonstige Rohrfernleitungstransporte
+*    *   Sonstige Rohrfernleitungstransporte
 
     *   **215**
 
 
-*    *
-    *   Übertragung von Stromfernleitungen
+*    *   Übertragung von Stromfernleitungen
 
     *   **217**
 
 
-*    *   **7.**
-
-    *   **Post- und Kurierdienste (KEP)**
+*    *   **7. Post- und Kurierdienste (KEP)**
 
     *
 
-*    *
-    *   Post- und Kurierdienste im Zusammenhang mit den deutschen Ein- und Ausfuhren und Verbringungen
+*    *   Post- und Kurierdienste im Zusammenhang mit den deutschen Ein- und Ausfuhren und Verbringungen
 
     *   **696**
 
 
-*    *
-    *   Sonstige Post- und Kurierdienste
+*    *   Sonstige Post- und Kurierdienste
 
     *   **691**
 
 
-*    *   **8.**
-
-    *   **Sonstige Transportdienstleistungen**
+*    *   **8. Sonstige Transportdienstleistungen**
 
     *
 
-*    *
-    *   Bedarf für Transportmittel
+*    *   Bedarf für Transportmittel
 
     *   **361**
 
 
-*    *
-    *   Weltraumtransporte
+*    *   Weltraumtransporte
 
     *   **629**
 
 
-*    *
-    *   Allgemeine Transportnebenleistungen
+*    *   Allgemeine Transportnebenleistungen
 
     *   **680**
 
@@ -8383,176 +9279,140 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *   **1.**
-
-    *   **Lebensversicherungen (ohne Risikolebensversicherung)**
+*    *   **1. Lebensversicherungen (ohne Risikolebensversicherung)**
 
     *
 
-*    *
-    *   Lebensversicherungen inländischer **Versicherungsnehmer**
+*    *   Lebensversicherungen inländischer Versicherungsnehmer
 
     *   **400**
 
 
-*    *
-    *   Lebensversicherungen inländischer **Versicherungsgeber mit Ausländern**
+*    *   Lebensversicherungen inländischer Versicherungsgeber mit Ausländern
 
     *   **440**
 
 
-*    *
-    *   Lebensversicherungen inländischer **Versicherungsgeber mit Inländern**
+*    *   Lebensversicherungen inländischer Versicherungsgeber mit Inländern
 
     *   **443**
 
 
-*    *   **2.**
-
-    *   **Lebensversicherungszweitmarkt**
+*    *   **2. Lebensversicherungszweitmarkt**
 
     *
 
-*    *
-    *   Lebensversicherungszweitmarkt
+*    *   Lebensversicherungszweitmarkt
 
     *   **401**
 
 
-*    *   **3.**
-
-    *   **Transportversicherungen**
+*    *   **3. Transportversicherungen**
 
     *
 
-*    *
-    *   Transportversicherung inländischer **Versicherungsnehmer**
+*    *   Transportversicherung inländischer Versicherungsnehmer
 
     *   **410**
 
 
-*    *
-    *   Transportversicherung inländischer **Versicherungsgeber**                      – Versicherungsvertrag mit Ausländern
+*    *   Transportversicherung inländischer Versicherungsgeber – Versicherungsvertrag mit Ausländern
 
     *   **441**
 
 
-*    *
-    *   Transportversicherung inländischer **Versicherungsgeber**                      – Versicherungsvertrag mit Inländern
+*    *   Transportversicherung inländischer Versicherungsgeber – Versicherungsvertrag mit Inländern
 
     *   **444**
 
 
-*    *   **4.**
-
-    *   **Sonstige Versicherungen**
+*    *   **4. Sonstige Versicherungen**
 
     *
 
-*    *
-    *   Sonstiger Versicherungsverkehr inländischer **Versicherungsnehmer**
+*    *   Sonstiger Versicherungsverkehr inländischer Versicherungsnehmer
 
     *   **420**
 
 
-*    *
-    *   Sonstiger Versicherungsverkehr inländischer **Versicherungsgeber**                      – Versicherungsvertrag mit Ausländern
+*    *   Sonstiger Versicherungsverkehr inländischer Versicherungsgeber – Versicherungsvertrag mit Ausländern
 
     *   **442**
 
 
-*    *
-    *   Sonstiger Versicherungsverkehr inländischer **Versicherungsgeber**                      – Versicherungsvertrag mit Inländern
+*    *   Sonstiger Versicherungsverkehr inländischer Versicherungsgeber – Versicherungsvertrag mit Inländern
 
     *   **445**
 
 
-*    *   **5.**
-
-    *   **Rückversicherungen**
+*    *   **5. Rückversicherungen**
 
     *
 
-*    *
-    *   Abgehendes (Retro-) Geschäft
+*    *   Abgehendes (Retro-) Geschäft
 
     *   **450**
 
 
-*    *
-    *   Eingehendes (Rück-) Geschäft
+*    *   Eingehendes (Rück-) Geschäft
 
     *   **451**
 
 
-*    *
-    *   Rückversicherungsprovision
+*    *   Rückversicherungsprovision
 
     *   **439**
 
 
-*    *
-    *   Prämien- und Schadensrückerstattungen im abgehenden (Retro-) Geschäft – Korrektur Kennz. 450 (fakultativ)
+*    *   Prämien- und Schadensrückerstattungen im abgehenden (Retro-) Geschäft – Korrektur Kennz. 450 (fakultativ)
 
     *   **447**
 
 
-*    *
-    *   Prämien- und Schadensrückerstattungen im eingehenden (Rück-) Geschäft – Korrektur Kennz. 451 (fakultativ)
+*    *   Prämien- und Schadensrückerstattungen im eingehenden (Rück-) Geschäft – Korrektur Kennz. 451 (fakultativ)
 
     *   **448**
 
 
-*    *
-    *   Gewinnbeteiligungen bei Rückversicherungen
+*    *   Gewinnbeteiligungen bei Rückversicherungen
 
     *   **449**
 
 
-*    *
-    *   Verlustbeteiligungen bei Rückversicherungen
+*    *   Verlustbeteiligungen bei Rückversicherungen
 
     *   **459**
 
 
-*    *
-    *   Portfolioübertragung zwischen Versicherern
+*    *   Portfolioübertragung zwischen Versicherern
 
     *   **452**
 
 
-*    *   **6.**
-
-    *   **Betriebsrenten**
+*    *   **6. Betriebsrenten**
 
     *
 
-*    *
-    *   Ausländische Pensionskassen und Vorsorgewerke
+*    *   Ausländische Pensionskassen und Vorsorgewerke
 
     *   **638**
 
 
-*    *
-    *   Inländische Pensionskassen und Vorsorgewerke
+*    *   Inländische Pensionskassen und Vorsorgewerke
 
     *   **639**
 
 
-*    *   **7.**
-
-    *   **Sonstiges**
+*    *   **7. Sonstiges**
 
     *
 
-*    *
-    *   Sonstige Einnahmen von Versicherungen
+*    *   Sonstige Einnahmen von Versicherungen
 
     *   **460**
 
 
-*    *
-    *   Versicherungsnebenleistungen
+*    *   Versicherungsnebenleistungen
 
     *   **657**
 
@@ -8561,70 +9421,60 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *
-    *   Reiseverkehr
+*    *   Reiseverkehr
 
     *   **017**
 
 
 
-## **Übertragungen**
+## Übertragungen
 
 
 *    *   **Private Übertragungen**
 
     *
 
-*    *
-    *   Zahlungen im Verkehr mit ausländischen Behörden
+*    *   Zahlungen im Verkehr mit ausländischen Behörden
 
     *   **810**
 
 
-*    *
-    *   Subventionen der Europäischen Union
+*    *   Subventionen der Europäischen Union
 
     *   **812**
 
 
-*    *
-    *   Erbschaft, Vermächtnis, Schenkung, Restitution
+*    *   Erbschaft, Vermächtnis, Schenkung, Restitution
 
     *   **850**
 
 
-*    *
-    *   Wiedergutmachungsleistungen privater Stellen
+*    *   Wiedergutmachungsleistungen privater Stellen
 
     *   **724**
 
 
-*    *
-    *   Privater Schuldenerlass
+*    *   Privater Schuldenerlass
 
     *   **727**
 
 
-*    *
-    *   Unterstützungszahlungen zwischen privaten Haushalten
+*    *   Unterstützungszahlungen zwischen privaten Haushalten
 
     *   **728**
 
 
-*    *
-    *   Unterstützungszahlungen ausländischer Arbeitnehmer
+*    *   Unterstützungszahlungen ausländischer Arbeitnehmer
 
     *   **861**
 
 
-*    *
-    *   Kapitalanlagen ausländischer Arbeitnehmer
+*    *   Kapitalanlagen ausländischer Arbeitnehmer
 
     *   **862**
 
 
-*    *
-    *   Sonstige private Unterstützungszahlungen
+*    *   Sonstige private Unterstützungszahlungen
 
     *   **729**
 
@@ -8633,134 +9483,108 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *   **1.**
-
-    *   **Ausgaben für Renten**
+*    *   **1. Ausgaben für Renten**
 
     *
 
-*    *
-    *   Renten
+*    *   Renten
 
     *   **526**
 
 
-*    *
-    *   Pensionen
+*    *   Pensionen
 
     *   **527**
 
 
-*    *
-    *   Kriegsopferversorgung
+*    *   Kriegsopferversorgung
 
     *   **528**
 
 
-*    *
-    *   Sonstige Renten
+*    *   Sonstige Renten
 
     *   **529**
 
 
-*    *   **2.**
-
-    *   **Steuereinnahmen und Steuererstattungen inländischer öffentlicher Stellen**
+*    *   **2. Steuereinnahmen und Steuererstattungen inländischer öffentlicher Stellen**
 
     *
 
-*    *
-    *   Einkommensteuer und Solidaritätszuschlag
+*    *   Einkommensteuer und Solidaritätszuschlag
 
     *   **762**
 
 
-*    *
-    *   Kapitalertrags- und Körperschaftsteuer
+*    *   Kapitalertrags- und Körperschaftsteuer
 
     *   **763**
 
 
-*    *
-    *   Mehrwertsteuer
+*    *   Mehrwertsteuer
 
     *   **764**
 
 
-*    *
-    *   Gewerbesteuer
+*    *   Gewerbesteuer
 
     *   **765**
 
 
-*    *
-    *   Grund- und Grunderwerbsteuer
+*    *   Grund- und Grunderwerbsteuer
 
     *   **769**
 
 
-*    *
-    *   Sonstige Steuern
+*    *   Sonstige Steuern
 
     *   **774**
 
 
-*    *   **3.**
-
-    *   **Zahlungen des Bundes an deutsche diplomatische Vertretungen**
+*    *   **3. Zahlungen des Bundes an deutsche diplomatische Vertretungen**
 
     *
 
-*    *
-    *   Zahlungen des Bundes an die diplomatischen Vertretungen im Ausland zur Bestreitung der laufenden Kosten
+*    *   Zahlungen des Bundes an die diplomatischen Vertretungen im Ausland zur Bestreitung der laufenden Kosten
 
     *   **710**
 
 
-*    *
-    *   Gehaltszahlungen an deutsche Beschäftigte bei deutschen Botschaften und Konsulaten
+*    *   Gehaltszahlungen an deutsche Beschäftigte bei deutschen Botschaften und Konsulaten
 
     *   **712**
 
 
-*    *
-    *   Gehaltszahlungen an ausländische Beschäftige bei deutschen Botschaften und Konsulaten
+*    *   Gehaltszahlungen an ausländische Beschäftige bei deutschen Botschaften und Konsulaten
 
     *   **525**
 
 
-*    *   **4.**
-
-    *   **Sonstige Einnahmen und Ausgaben des Bundes, der Länder und der Gemeinden**
+*    *   **4. Sonstige Einnahmen und Ausgaben des Bundes, der Länder und der Gemeinden**
 
     *
 
-*    *
-    *   Wiedergutmachungsleistungen öffentlicher Stellen
+*    *   Wiedergutmachungsleistungen öffentlicher Stellen
 
     *   **720**
 
 
-*    *
-    *   Transaktionen mit Internationalen Organisationen
+*    *   Transaktionen mit Internationalen Organisationen
 
     *   **740**
 
 
-*    *
-    *   Einnahmen und Ausgaben der Bundeswehr
+*    *   Einnahmen und Ausgaben der Bundeswehr
 
     *   **700**
 
 
-*    *
-    *   Schuldenerlass des Bundes
+*    *   Schuldenerlass des Bundes
 
     *   **725**
 
 
-*    *
-    *   Sonstige Einnahmen und Ausgaben des Bundes, der Länder, Gemeinden und anderer öffentlicher Stellen
+*    *   Sonstige Einnahmen und Ausgaben des Bundes, der Länder, Gemeinden und anderer öffentlicher Stellen
 
     *   **760**
 
@@ -8769,64 +9593,56 @@ Anlage LV zur Außenwirtschaftsverordnung
 
     *
 
-*    *
-    *   europäische Bankenabgabe
+*    *   Europäische Bankenabgabe
 
     *   **815**
 
 
-*    *
-    *   Sonstige Übertragungen
+*    *   Sonstige Übertragungen
 
     *   **854**
 
 
 
 Warenverkehr
-(Hinweis: Zahlungen für deutsche Ein- und Ausfuhren oder das Verbringen
-## **von Waren sind gem. § 67 Abs. 2 Nr. 2 AWV von der Meldepflicht befreit)**
+(Hinweis: Zahlungen für deutsche Ein- und Ausfuhren oder das Verbringen von Waren sind
+## gem. § 67 Abs. 2 Nr. 2 AWV von der Meldepflicht befreit)
 
 
 *    *   **Transithandel**
 
     *
 
-*    *
-    *   Transithandel
+*    *   Transithandel
 
     *   **003**
 
 
-*    *   **Handel mit elektrischem Strom und Gas**
+*    *   **Handel mit elektrischem Strom, Gas und Gold**
 
     *
 
-*    *   **Handel mit Gas –**                      Übergabepunkt im Inland
+*    *   Handel mit Gas – Übergabepunkt im Inland
 
     *   **998**
 
 
-*    *   **Handel mit Gas –**                      Übergabepunkt im Ausland
+*    *   Handel mit Gas – Übergabepunkt im Ausland
 
     *   **990**
 
 
-*    *   **Handel mit elektrischem Strom –**                      Übergabepunkt im Inland
+*    *   Handel mit elektrischem Strom – Übergabepunkt im Inland
 
     *   **994**
 
 
-*    *   **Handel mit elektrischem Strom –**                      Übergabepunkt im Ausland
+*    *   Handel mit elektrischem Strom – Übergabepunkt im Ausland
 
     *   **995**
 
 
-*    *   **Handel mit Gold**
-
-    *
-
-*    *
-    *   Handel mit Gold
+*    *   Handel mit Gold
 
     *   **989**
 
@@ -8835,14 +9651,12 @@ Warenverkehr
 
     *
 
-*    *
-    *   Lieferungen von Waren und Dienstleistungen an die im Inland stationierten ausländischen Streitkräfte
+*    *   Lieferungen von Waren und Dienstleistungen an die im Inland stationierten ausländischen Streitkräfte
 
     *   **770**
 
 
-*    *
-    *   Einnahmen und Ausgaben im Sonstigen Warenverkehr
+*    *   Einnahmen und Ausgaben im sonstigen Warenverkehr
 
     *   **997**
 
@@ -8851,33 +9665,53 @@ Warenverkehr
 
     *
 
-*    *
-    *   Zahlungen im Zusammenhang mit deutschen Ein- und Ausfuhren und Verbringungen, die den Wert der Waren reduzieren
+*    *   Zahlungen im Zusammenhang mit deutschen Ein- und Ausfuhren und Verbringungen, die den Wert der Waren reduzieren
 
     *   **600**
 
 
-*    *
-    *   Zahlungen im Zusammenhang mit deutschen Ein- und Ausfuhren und Verbringungen, die den Wert der Waren erhöhen
+*    *   Zahlungen im Zusammenhang mit deutschen Ein- und Ausfuhren und Verbringungen, die den Wert der Waren erhöhen
 
     *   **602**
 
 
-*    *
-    *   Abgaben im Zusammenhang mit deutschen Ein- und Ausfuhren
+*    *   Abgaben im Zusammenhang mit deutschen Ein- und Ausfuhren
 
     *   **601**
 
 
-*    *
-    *   Gewährleistungen, Ersatz- und Rückzahlungen sowie Preisnachlässe im Dienstleistungsverkehr mit dem Ausland
+*    *   Gewährleistungen, Ersatz- und Rückzahlungen sowie Preisnachlässe im Dienstleistungsverkehr mit dem Ausland
 
     *   **610**
 
 
+*    *   **Kryptowerte und Nonfungible Token**
+
+    *
+
+*    *   Kryptowerte und digitale Vermögenswerte ohne korrespondierende Verbindlichkeit
+
+    *   **804**
+
+
+*    *   Ausländische Kryptowerte und digitale Vermögenswerte mit Verbindlichkeiten
+
+    *   **814**
+
+
+*    *   Inländische Kryptowerte und digitale Vermögenswerte mit Verbindlichkeiten
+
+    *   **824**
+
+
+*    *   Nonfungible Token (NFT)
+
+    *   **834**
+
+
 
 Kapitalverkehr und Kapitalerträge
-## **I. Vermögensanlagen von Inländern im Ausland**
+## I. Vermögensanlagen von Inländern im Ausland
 
 
 *    *   **Ausländische Wertpapiere**
@@ -8890,43 +9724,37 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   **a)**
+*    *   **a)**
 
     *   **Anleihen ausländischer öffentlicher Emittenten**
 
     *
 
 *    *
-    *
     *   Euro-Anleihen ausländischer öffentlicher Emittenten
 
     *   **701**
 
 
 *    *
-    *
     *   Fremdwährungs-Anleihen ausländischer öffentlicher Emittenten
 
     *   **101**
 
 
-*    *
-    *   **b)**
+*    *   **b)**
 
     *   **Anleihen ausländischer privater Emittenten**
 
     *
 
 *    *
-    *
     *   Euro-Anleihen ausländischer privater Emittenten
 
     *   **702**
 
 
 *    *
-    *
     *   Fremdwährungs-Anleihen ausländischer privater Emittenten
 
     *   **102**
@@ -8939,7 +9767,6 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *
     *   Geldmarktpapiere ausländischer Emittenten
 
     *   **105**
@@ -8952,7 +9779,6 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *
     *   Aktien und sonstige Dividendenpapiere ausländischer Emittenten
 
     *   **104**
@@ -8964,43 +9790,37 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   **a)**
+*    *   **a)**
 
     *   **Geldmarktfondszertifikate**
 
     *
 
 *    *
-    *
     *   Ausländische Geldmarktfondszertifikate mit Ertragsausschüttung (auch bei Wahlmöglichkeit zwischen Barausschüttung und Thesaurierung)
 
     *   **606**
 
 
 *    *
-    *
     *   Ausländische thesaurierende Geldmarktfonds
 
     *   **607**
 
 
-*    *
-    *   **b)**
+*    *   **b)**
 
     *   **Sonstige Investmentfondszertifikate**
 
     *
 
 *    *
-    *
     *   Sonstige ausländische Investmentfonds mit Ertragsausschüttung (auch bei Wahlmöglichkeit zwischen Barausschüttung und Thesaurierung)
 
     *   **106**
 
 
 *    *
-    *
     *   Sonstige ausländische thesaurierende Investmentfonds
 
     *   **129**
@@ -9016,106 +9836,91 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   **a)**
+*    *   **a)**
 
     *   **Anteile an ausländischen Aktiengesellschaften, gehalten von inländischen MFIs**
 
     *
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**                     , Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen **nicht börsennotierten Aktiengesellschaften**
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen nicht börsennotierten Aktiengesellschaften
 
     *   **107**
 
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**                     , Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen **börsennotierten Aktiengesellschaften**
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen börsennotierten Aktiengesellschaften
 
     *   **827**
 
 
 *    *
-    *
-    *   **Einzahlungen in die Kapitalrücklagen**                      und **Auszahlungen aus den Rücklagen und Gewinnvorträgen**                      bei ausländischen **Aktiengesellschaften**                      einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen.
+    *   Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen bei ausländischen Aktiengesellschaften einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen
 
     *   **108**
 
 
-*    *
-    *   **b)**
+*    *   **b)**
 
     *   **Anteile an ausländischen Aktiengesellschaften, gehalten von inländischen Unternehmen, Privatpersonen und öffentlichen Haushalten**
 
     *
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**                     , Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen **nicht börsennotierten Aktiengesellschaften**
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen nicht börsennotierten Aktiengesellschaften
 
     *   **207**
 
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**                     , Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen **börsennotierten Aktiengesellschaften**
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen börsennotierten Aktiengesellschaften
 
     *   **927**
 
 
 *    *
-    *
-    *   **Einzahlungen in die Kapitalrücklagen**                      und **Auszahlungen aus den Rücklagen und Gewinnvorträgen**                      bei ausländischen **Aktiengesellschaften**                      einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen.
+    *   Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen bei ausländischen Aktiengesellschaften einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen
 
     *   **208**
 
 
-*    *
-    *   **c)**
+*    *   **c)**
 
-    *   **Anteile an ausländischen Nicht-Aktiengesellschaften, gehalten von inländische MFIs**
+    *   **Anteile an ausländischen Nicht-Aktiengesellschaften, gehalten von inländischen MFIs**
 
     *
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**                     , Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen **Nicht-Aktiengesellschaften**                      – Zahlungen bei Errichtung und Aufhebung bzw. Erwerb und Veräußerung von ausländischen Zweigniederlassungen und Betriebsstätten
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen Nicht-Aktiengesellschaften – Zahlungen bei Errichtung und Aufhebung bzw. Erwerb und Veräußerung von ausländischen Zweigniederlassungen und Betriebsstätten
 
     *   **111**
 
 
 *    *
-    *
-    *   **Einzahlungen in die** **Kapitalrücklagen**                      und **Auszahlungen aus den Rücklagen und Gewinnvorträgen**                      bei ausländischen **Nicht-Aktiengesellschaften**                      einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen
+    *   Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen bei ausländischen Nicht-Aktiengesellschaften einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen
 
     *   **112**
 
 
-*    *
-    *   **d)**
+*    *   **d)**
 
     *   **Anteile an ausländischen Nicht-Aktiengesellschaften, gehalten von inländischen Unternehmen, Privatpersonen und öffentlichen Haushalten**
 
     *
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**                     , Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen **Nicht-Aktiengesellschaften**                      – Zahlungen bei Errichtung und Aufhebung bzw. Erwerb und Veräußerung von ausländischen Zweigniederlassungen und Betriebsstätten
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen, Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei ausländischen Nicht-Aktiengesellschaften – Zahlungen bei Errichtung und Aufhebung bzw. Erwerb und Veräußerung von ausländischen Zweigniederlassungen und Betriebsstätten
 
     *   **211**
 
 
 *    *
-    *
-    *   **Einzahlungen in die Kapitalrücklagen**                      und **Auszahlungen aus den Rücklagen und Gewinnvorträgen**                      bei ausländischen **Nicht-Aktiengesellschaften**                      einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen
+    *   Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen bei ausländischen Nicht-Aktiengesellschaften einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen
 
     *   **212**
 
 
 *    *
-    *
     *   Explorationsaufwendungen im Ausland
 
     *   **237**
@@ -9128,31 +9933,31 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *   Gewährung und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische **Unternehmen und Privatpersonen**                      sowie öffentliche Haushalte (als Kreditgeber) an ausländische Unternehmen, an denen sie unmittelbar oder mittelbar beteiligt sind, sowie an Zweigniederlassungen und Betriebsstätten
+    *   Gewährung und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische Unternehmen und Privatpersonen sowie öffentliche Haushalte (als Kreditgeber) an ausländische Unternehmen, an denen sie unmittelbar oder mittelbar beteiligt sind, sowie an Zweigniederlassungen und Betriebsstätten
 
     *   **222**
 
 
 *    *
-    *   Aufnahme und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische **Unternehmen und Privatpersonen**                      sowie öffentliche Haushalte (als Kreditnehmer) von ausländischen Unternehmen, an denen sie unmittelbar oder mittelbar beteiligt sind, sowie von ausländischen Zweigniederlassungen und Betriebsstätten
+    *   Aufnahme und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische Unternehmen und Privatpersonen sowie öffentliche Haushalte (als Kreditnehmer) von ausländischen Unternehmen, an denen sie unmittelbar oder mittelbar beteiligt sind, sowie von ausländischen Zweigniederlassungen und Betriebsstätten
 
     *   **267**
 
 
 *    *
-    *   **Aufnahme**                      und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische **Unternehmen und Privatpersonen**                      sowie öffentliche Haushalte (als Kreditnehmer) von ausländischen **Finanzierungstöchtern**                     , an denen sie unmittelbar oder mittelbar beteiligt sind
+    *   Aufnahme und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische Unternehmen und Privatpersonen sowie öffentliche Haushalte (als Kreditnehmer) von ausländischen Finanzierungstöchtern, an denen sie unmittelbar oder mittelbar beteiligt sind
 
     *   **269**
 
 
 *    *
-    *   **Gewährung**                      und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch **inländische Unternehmen**                      (als Kreditgeber) an ausländische Unternehmen, an denen sie nicht unmittelbar oder mittelbar beteiligt sind, mit denen sie jedoch unmittelbar oder mittelbar einen gemeinsamen Direktinvestor haben
+    *   Gewährung und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische Unternehmen (als Kreditgeber) an ausländische Unternehmen, an denen sie nicht unmittelbar oder mittelbar beteiligt sind, mit denen sie jedoch unmittelbar oder mittelbar einen gemeinsamen Direktinvestor haben
 
     *   **228**
 
 
 *    *
-    *   **Aufnahme**                      und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch **inländische Unternehmen**                      (als Kreditnehmer) von ausländischen Unternehmen, an denen sie nicht unmittelbar oder mittelbar beteiligt sind, mit denen sie jedoch unmittelbar oder mittelbar einen gemeinsamen Direktinvestor haben
+    *   Aufnahme und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische Unternehmen (als Kreditnehmer) von ausländischen Unternehmen, an denen sie nicht unmittelbar oder mittelbar beteiligt sind, mit denen sie jedoch unmittelbar oder mittelbar einen gemeinsamen Direktinvestor haben
 
     *   **268**
 
@@ -9175,7 +9980,7 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *   Gewährung und Rückzahlung von Krediten an Ausländer, Dotierung und Rückzahlung von Guthaben bei ausländischen Banken, sowie Abtretung (offen oder still) von Auslandsforderungen mit einer jeweiligen Laufzeit von mehr als 12 Monaten durch
+    *   Gewährung und Rückzahlung von Krediten an Ausländer, Dotierung und Rückzahlung von Guthaben bei ausländischen Banken sowie Abtretung (offen oder still) von Auslandsforderungen mit einer jeweiligen Laufzeit von mehr als 12 Monaten durch
 
     *
 
@@ -9218,25 +10023,21 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   Kauf und Verkauf von Immobilien und Grundstücken im Ausland sowie Erwerb und Veräußerung von Anteilen an geschlossenen Immobilienfonds – unabhängig von der Höhe der Beteiligung – durch inländische
+*    *   Kauf und Verkauf von Immobilien und Grundstücken im Ausland sowie Erwerb und Veräußerung von Anteilen an geschlossenen Immobilienfonds – unabhängig von der Höhe der Beteiligung – durch inländische
 
     *
 
-*    *
-    *   MFIs
+*    *   MFIs
 
     *   **132**
 
 
-*    *
-    *   Unternehmen und Privatpersonen
+*    *   Unternehmen und Privatpersonen
 
     *   **232**
 
 
-*    *
-    *   Öffentliche Haushalte
+*    *   Öffentliche Haushalte
 
     *   **332**
 
@@ -9293,7 +10094,7 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *   Erwerb und Veräußerung von Übrigen Kapitalanlagen im Ausland durch inländische
+    *   Erwerb und Veräußerung von übrigen Kapitalanlagen im Ausland durch inländische
 
     *
 
@@ -9316,7 +10117,7 @@ Kapitalverkehr und Kapitalerträge
 
 
 
-## **II. Vermögensanlagen von Ausländern im Inland**
+## II. Vermögensanlagen von Ausländern im Inland
 
 
 *    *   **Inländische Wertpapiere**
@@ -9329,120 +10130,103 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   **a)**
+*    *   **a)**
 
     *   **Anleihen inländischer öffentlicher Emittenten**
 
     *
 
 *    *
-    *
     *   Bundesschatzanweisungen
 
     *   **140**
 
 
 *    *
-    *
     *   Festverzinsliche Anleihen inländischer öffentlicher Emittenten
 
     *   **141**
 
 
 *    *
-    *
     *   Variabel verzinsliche Anleihen inländischer öffentlicher Emittenten
 
     *   **641**
 
 
 *    *
-    *
     *   Kapital-Strips der stripbaren Bundesanleihen
 
     *   **133**
 
 
 *    *
-    *
     *   Zins-Strips der stripbaren Bundesanleihen
 
     *   **134**
 
 
 *    *
-    *
     *   Fremdwährungsanleihen inländischer öffentlicher Emittenten
 
     *   **143**
 
 
-*    *
-    *   **b)**
+*    *   **b)**
 
     *   **Anleihen und Schuldverschreibungen inländischer Banken (MFIs)**
 
     *
 
 *    *
-    *
     *   Festverzinsliche Euro-Anleihen inländischer MFIs
 
     *   **461**
 
 
 *    *
-    *
     *   Variabel verzinsliche Euro-Anleihen inländischer MFIs
 
     *   **465**
 
 
 *    *
-    *
     *   Festverzinsliche Fremdwährungsanleihen inländischer MFIs
 
     *   **491**
 
 
 *    *
-    *
     *   Variabel verzinsliche Fremdwährungsanleihen inländischer MFIs
 
     *   **495**
 
 
-*    *
-    *   **c)**
+*    *   **c)**
 
     *   **Anleihen und Schuldverschreibungen inländischer Unternehmen**
 
     *
 
 *    *
-    *
     *   Festverzinsliche Euro-Anleihen inländischer Unternehmen
 
     *   **462**
 
 
 *    *
-    *
     *   Variabel verzinsliche Euro-Anleihen inländischer Unternehmen
 
     *   **466**
 
 
 *    *
-    *
     *   Festverzinsliche Fremdwährungsanleihen inländischer Unternehmen
 
     *   **492**
 
 
 *    *
-    *
     *   Variabel verzinsliche Fremdwährungsanleihen inländischer Unternehmen
 
     *   **496**
@@ -9473,7 +10257,7 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *   Übrige **Geldmarktpapiere inländischer**                      öffentlicher **Emittenten**
+    *   Übrige Geldmarktpapiere inländischer öffentlicher Emittenten
 
     *   **345**
 
@@ -9514,37 +10298,32 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   **a)**
+*    *   **a)**
 
     *   **Geldmarktfondszertifikate**
 
     *
 
 *    *
-    *
-    *   **Inländische Geldmarktfonds mit Ertragsausschüttung**                      (auch bei Wahlmöglichkeit zwischen Barausschüttung und Thesaurierung)
+    *   Inländische Geldmarktfonds mit Ertragsausschüttung (auch bei Wahlmöglichkeit zwischen Barausschüttung und Thesaurierung)
 
     *   **646**
 
 
 *    *
-    *
     *   Inländische thesaurierende Geldmarktfonds
 
     *   **647**
 
 
-*    *
-    *   **b)**
+*    *   **b)**
 
     *   **Sonstige Investmentfondszertifikate**
 
     *
 
 *    *
-    *
-    *   **Sonstige inländische Investmentfonds mit Ertragsausschüttung**                      (auch bei Wahlmöglichkeit zwischen Barausschüttung und Thesaurierung)
+    *   Sonstige inländische Investmentfonds mit Ertragsausschüttung (auch bei Wahlmöglichkeit zwischen Barausschüttung und Thesaurierung)
 
     *   **146**
 
@@ -9565,100 +10344,86 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   **a)**
+*    *   **a)**
 
     *   **Anteile an inländischen MFIs in der Rechtsform der Aktiengesellschaft**
 
     *
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**                      an inländischen **nicht börsennotierten MFIs**                      in der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen Aktien, ausgegeben durch nicht börsennotierte MFIs
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen nicht börsennotierten MFIs in der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen Aktien, ausgegeben durch nicht börsennotierte MFIs
 
     *   **147**
 
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**                      an inländischen **börsennotierten MFIs**                      in der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen Aktien, ausgegeben durch börsennotierte MFIs
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen börsennotierten MFIs in der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen Aktien, ausgegeben durch börsennotierte MFIs
 
     *   **847**
 
 
 *    *
-    *
-    *   **Einzahlungen in die Kapitalrücklagen**                      und **Auszahlungen aus den Rücklagen und Gewinnvorträgen**                      einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen bei inländischen **MFIs**                      in der Rechtsform der **Aktiengesellschaft**
+    *   Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen bei inländischen MFIs in der Rechtsform der Aktiengesellschaft
 
     *   **148**
 
 
-*    *
-    *   **b)**
+*    *   **b)**
 
     *   **Anteile an inländischen Unternehmen in der Rechtsform der Aktiengesellschaften**
 
     *
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**                      an inländischen **nicht börsennotierten Unternehmen**                      in der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen Aktien, ausgegeben durch nicht börsennotierte Unternehmen
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen nicht börsennotierten Unternehmen in der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen Aktien, ausgegeben durch nicht börsennotierte Unternehmen
 
     *   **247**
 
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**                      an inländischen **börsennotierten Unternehmen**                      in der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen Aktien, ausgegeben durch börsennotierte Unternehmen
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen börsennotierten Unternehmen in der Rechtsform der Aktiengesellschaft sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen in Form von inländischen Aktien, ausgegeben durch börsennotierte Unternehmen
 
     *   **947**
 
 
 *    *
-    *
-    *   **Einzahlungen in die Kapitalrücklagen**                      und **Auszahlungen aus den Rücklagen und Gewinnvorträgen**                      einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen bei inländischen **Unternehmen**                      in der Rechtsform der **Aktiengesellschaft**
+    *   Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen bei inländischen Unternehmen in der Rechtsform der Aktiengesellschaft
 
     *   **248**
 
 
-*    *
-    *   **c)**
+*    *   **c)**
 
     *   **Anteile an inländischen MFIs in anderer Rechtsform als der der Aktiengesellschaft**
 
     *
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**                      an inländischen **MFIs, die nicht Aktiengesellschaften**                      sind, sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei diesen inländischen MFIs. Zahlungen bei Errichtung und Aufhebung bzw. Erwerb und Veräußerung von inländischen Zweigniederlassungen und Betriebsstätten ausländischer Banken, die inländische MFIs sind
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen MFIs, die nicht Aktiengesellschaften sind, sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei diesen inländischen MFIs. Zahlungen bei Errichtung und Aufhebung bzw. Erwerb und Veräußerung von inländischen Zweigniederlassungen und Betriebsstätten ausländischer Banken, die inländische MFIs sind
 
     *   **151**
 
 
 *    *
-    *
-    *   **Einzahlungen in die Kapitalrücklagen**                      und **Auszahlungen aus den Rücklagen und Gewinnvorträgen**                      einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen bei inländischen **MFIs**                      in der Rechtsform der **Nicht-Aktiengesellschaft**
+    *   Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen bei inländischen MFIs in der Rechtsform der Nicht-Aktiengesellschaft
 
     *   **152**
 
 
-*    *
-    *   **d)**
+*    *   **d)**
 
     *   **Anteile an inländischen Unternehmen in anderer Rechtsform als der der Aktiengesellschaft**
 
     *
 
 *    *
-    *
-    *   Erwerb bzw. Veräußerung von **Kapitalbeteiligungen**                      an inländischen **Unternehmen, die nicht Aktiengesellschaften**                      sind, sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei diesen inländischen Unternehmen. Zahlungen bei Errichtung und Aufhebung bzw. Erwerb und Veräußerung von inländischen Zweigniederlassungen und Betriebsstätten ausländischer Unternehmen und Privatpersonen
+    *   Erwerb bzw. Veräußerung von Kapitalbeteiligungen an inländischen Unternehmen, die nicht Aktiengesellschaften sind, sowie Kapitaleinzahlungen, Kapitalerhöhungen und Kapitalherabsetzungen bei diesen inländischen Unternehmen. Zahlungen bei Errichtung und Aufhebung bzw. Erwerb und Veräußerung von inländischen Zweigniederlassungen und Betriebsstätten ausländischer Unternehmen und Privatpersonen
 
     *   **251**
 
 
 *    *
-    *
-    *   **Einzahlungen in die Kapitalrücklagen**                      und **Auszahlungen aus den Rücklagen und Gewinnvorträgen**                      einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen bei inländischen **Unternehmen**                      in der Rechtsform der **Nicht-Aktiengesellschaft**
+    *   Einzahlungen in die Kapitalrücklagen und Auszahlungen aus den Rücklagen und Gewinnvorträgen einschl. der Zuschüsse zum Ausgleich von bilanzierten Verlustvorträgen bei inländischen Unternehmen in der Rechtsform der Nicht-Aktiengesellschaft
 
     *   **252**
 
@@ -9670,31 +10435,31 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *   Aufnahme und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische **Unternehmen**                      (als Kreditnehmer) bei ausländischen Unternehmen, die an ihnen unmittelbar oder mittelbar beteiligt sind, sowie Kreditaufnahmen von inländischen Zweigniederlassungen und Betriebsstätten bei ihren ausländischen Zentralen
+    *   Aufnahme und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische Unternehmen (als Kreditnehmer) bei ausländischen Unternehmen, die an ihnen unmittelbar oder mittelbar beteiligt sind, sowie Kreditaufnahmen von inländischen Zweigniederlassungen und Betriebsstätten bei ihren ausländischen Zentralen
 
     *   **262**
 
 
 *    *
-    *   **Gewährung**                      und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische **Unternehmen**                      (als Kreditgeber) an ausländische Unternehmen, die an ihnen unmittelbar oder mittelbar beteiligt sind, sowie Kredite, die inländische Zweigniederlassungen und Betriebsstätten an ihre ausländischen Zentralen geben
+    *   Gewährung und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische Unternehmen (als Kreditgeber) an ausländische Unternehmen, die an ihnen unmittelbar oder mittelbar beteiligt sind, sowie Kredite, die inländische Zweigniederlassungen und Betriebsstätten an ihre ausländischen Zentralen geben
 
     *   **227**
 
 
 *    *
-    *   **Gewährung**                      und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische **Finanzierungstöchter**                      (als Kreditgeber) an ausländische Unternehmen und Privatpersonen, die an ihnen unmittelbar oder mittelbar beteiligt sind
+    *   Gewährung und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische Finanzierungstöchter (als Kreditgeber) an ausländische Unternehmen und Privatpersonen, die an ihnen unmittelbar oder mittelbar beteiligt sind
 
     *   **219**
 
 
 *    *
-    *   **Aufnahme**                      und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische Unternehmen (als Kreditnehmer) von ausländischen Unternehmen, die an ihnen nicht unmittelbar oder mittelbar beteiligt sind, mit denen sie jedoch unmittelbar oder mittelbar einen gemeinsamen Direktinvestor haben
+    *   Aufnahme und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische Unternehmen (als Kreditnehmer) von ausländischen Unternehmen, die an ihnen nicht unmittelbar oder mittelbar beteiligt sind, mit denen sie jedoch unmittelbar oder mittelbar einen gemeinsamen Direktinvestor haben
 
     *   **268**
 
 
 *    *
-    *   **Gewährung**                      und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische Unternehmen (als Kreditgeber) an ausländische Unternehmen, die an ihnen nicht unmittelbar oder mittelbar beteiligt sind, mit denen sie jedoch unmittelbar oder mittelbar einen gemeinsamen Direktinvestor haben
+    *   Gewährung und Rückzahlung von Krediten mit einer Laufzeit von mehr als 12 Monaten durch inländische Unternehmen (als Kreditgeber) an ausländische Unternehmen, die an ihnen nicht unmittelbar oder mittelbar beteiligt sind, mit denen sie jedoch unmittelbar oder mittelbar einen gemeinsamen Direktinvestor haben
 
     *   **228**
 
@@ -9710,8 +10475,7 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *   **Stille Abtretung**                      und Tilgung **von kurzfristigen Inlandsforderungen und**                      Schuldscheindarlehen, Namensschuldverschreibungen und ähnlichen **nicht börsenfähigen Wertpapieren**                      (Laufzeit bis
-        12 Monate) durch Inländer, unterschieden nach inländischen **Schuldnergruppen:**
+    *   Stille Abtretung und Tilgung von kurzfristigen Inlandsforderungen und Schuldscheindarlehen, Namensschuldverschreibungen und ähnlichen nicht börsenfähigen Wertpapieren (Laufzeit bis 12 Monate) durch Inländer, unterschieden nach inländischen Schuldnergruppen:
 
     *
 
@@ -9734,7 +10498,7 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *   Sonstige finanzielle Unternehmen (der ESVG 2010 Teilsektoren (nachfolgend: S.) S. 125, S. 126 und S. 127)
+    *   Sonstige finanzielle Unternehmen (der ESVG 2010 Teilsektoren S. 125, S. 126 und S. 127)
 
     *   **275**
 
@@ -9759,13 +10523,12 @@ Kapitalverkehr und Kapitalerträge
 
 *    *   **2.**
 
-    *   Kredite und Bankguthaben mit einer Ursprungslaufzeit von mehr als 12 Monaten
-        **(langfristige Kredite und Einlagen)**
+    *   **Kredite und Bankguthaben mit einer Ursprungslaufzeit von mehr als 12 Monaten (langfristige Kredite und Einlagen)**
 
     *
 
 *    *
-    *   **Gewährung und Rückzahlung von Krediten**                      (sowie **offene Abtretung**                      von Inlandsforderungen) mit einer Laufzeit von mehr als 12 Monaten an inländische
+    *   Gewährung und Rückzahlung von Krediten (sowie offene Abtretung von Inlandsforderungen) mit einer Laufzeit von mehr als 12 Monaten an inländische
 
     *
 
@@ -9788,7 +10551,7 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *   Nichtfinanzielle Unternehmen
+    *   Nichtfinanzielle Unternehmen und Privatpersonen
 
     *   **941**
 
@@ -9806,7 +10569,7 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *   Erstabsatz und **offene Abtretung**                      sowie Tilgung oder Rückerwerb von **langfristigen**                      Schuldscheindarlehen, Namensschuldverschreibungen und ähnlichen **nicht börsenfähigen Wertpapieren**                      (Laufzeit über 12 Monate) durch Inländer
+    *   Erstabsatz und offene Abtretung sowie Tilgung oder Rückerwerb von langfristigen Schuldscheindarlehen, Namensschuldverschreibungen und ähnlichen nicht börsenfähigen Wertpapieren (Laufzeit über 12 Monate) durch Inländer
 
     *
 
@@ -9823,8 +10586,7 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *   Emissionen von sonstigen finanziellen Unternehmen (der ESVG 2010 Teilsektoren S. 125, S. 126
-        und S. 127)
+    *   Emissionen von sonstigen finanziellen Unternehmen (der ESVG 2010 Teilsektoren S.125, S.126, und S.127)
 
     *   **263**
 
@@ -9854,8 +10616,7 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *   **Stille Abtretung**                      und Tilgung von **langfristigen Inlandsforderungen und**                      Schuldscheindarlehen, Namensschuldverschreibungen und ähnlichen **nicht börsenfähigen Wertpapieren**                      (Laufzeit über
-        12 Monate) durch Inländer, unterschieden nach folgenden inländischen **Schuldnergruppen**                     :
+    *   Stille Abtretung und Tilgung von langfristigen Inlandsforderungen und Schuldscheindarlehen, Namensschuldverschreibungen und ähnlichen nicht börsenfähigen Wertpapieren (Laufzeit über 12 Monate) durch Inländer, unterschieden nach folgenden inländischen Schuldnergruppen:
 
     *
 
@@ -9878,7 +10639,7 @@ Kapitalverkehr und Kapitalerträge
 
 
 *    *
-    *   Sonstige finanzielle Unternehmen (der ESVG 2010 Teilsektoren S. 125, S. 126 und S. 127)
+    *   Sonstige finanzielle Unternehmen (der ESVG 2010 Teilsektoren S.125, S.126, und S.127)
 
     *   **276**
 
@@ -9905,25 +10666,21 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   Kauf und Verkauf von Immobilien und Grundstücken im Inland oder von im Inland aufgelegten Immobilienzertifikaten geschlossener Immobilienfonds – unabhängig von der Höhe der Beteiligung – durch
+*    *   Kauf und Verkauf von Immobilien und Grundstücken im Inland oder von im Inland Aufgelegten Immobilienzertifikaten geschlossener Immobilienfonds – unabhängig von der Höhe der Beteiligung – durch
 
     *
 
-*    *
-    *   MFIs (Eigengeschäft)
+*    *   MFIs (Eigengeschäft)
 
     *   **172**
 
 
-*    *
-    *   Unternehmen und Privatpersonen
+*    *   Unternehmen und Privatpersonen
 
     *   **272**
 
 
-*    *
-    *   Öffentliche Haushalte
+*    *   Öffentliche Haushalte
 
     *   **372**
 
@@ -9974,7 +10731,7 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *   Erwerb und Veräußerung von Übrigen Kapitalanlagen im Inland bei inländischen
+    *   Erwerb und Veräußerung von übrigen Kapitalanlagen im Inland bei inländischen
 
     *
 
@@ -9997,167 +10754,131 @@ Kapitalverkehr und Kapitalerträge
 
 
 
-## **III. Finanzderivate**
+## III. Finanzderivate
 
 
-*    *   **1.**
-
-    *   **Financial Futures**
+*    *   **1. Financial Futures**
 
     *
 
-*    *
-    *   Financial Futures, ausländische Terminbörsen
+*    *   Financial Futures, ausländische Terminbörsen
 
     *   **882**
 
 
-*    *
-    *   Financial Futures, inländische Terminbörsen
+*    *   Financial Futures, inländische Terminbörsen
 
     *   **842**
 
 
-*    *   **2.**
-
-    *   **Optionen**
+*    *   **2. Optionen**
 
     *
 
-*    *
-    *   Optionen, ausländische Terminbörsen
+*    *   Optionen, ausländische Terminbörsen
 
     *   **821**
 
 
-*    *
-    *   Optionen, inländische Terminbörsen
+*    *   Optionen, inländische Terminbörsen
 
     *   **831**
 
 
-*    *   **3.**
-
-    *   **Forward Rate Agreements (FRAs)**
+*    *   **3. Forward Rate Agreements (FRAs)**
 
     *
 
-*    *
-    *   Forward Rate Agreements
+*    *   Forward Rate Agreements
 
     *   **898**
 
 
-*    *   **4.**
-
-    *   **Zins- und Währungsswaps**
+*    *   **4. Zins- und Währungsswaps**
 
     *
 
-*    *
-    *   Swapzinsen und Ausgleichszahlungen
+*    *   Swapzinsen und Ausgleichszahlungen
 
     *   **584**
 
 
-*    *   **5.**
-
-    *   **Equity Swaps**
+*    *   **5. Equity Swaps**
 
     *
 
-*    *
-    *   Equity Swaps
+*    *   Equity Swaps
 
     *   **984**
 
 
-*    *   **6.**
-
-    *   **OTC-Optionen**
+*    *   **6. OTC-Optionen**
 
     *
 
-*    *
-    *   OTC-Optionen mit ausländischen Stillhaltern
+*    *   OTC-Optionen mit ausländischen Stillhaltern
 
     *   **820**
 
 
-*    *
-    *   OTC-Optionen mit inländischen Stillhaltern
+*    *   OTC-Optionen mit inländischen Stillhaltern
 
     *   **830**
 
 
-*    *
-    *   Mitarbeiteroptionen von inländischen Gesellschaften
+*    *   Mitarbeiteroptionen von inländischen Gesellschaften
 
     *   **832**
 
 
-*    *
-    *   Mitarbeiteroptionen von ausländischen Gesellschaften
+*    *   Mitarbeiteroptionen von ausländischen Gesellschaften
 
     *   **833**
 
 
-*    *   **7.**
-
-    *   **Credit Default Swaps**
+*    *   **7. Credit Default Swaps**
 
     *
 
-*    *
-    *   Credit Default Swaps
+*    *   Credit Default Swaps
 
     *   **840**
 
 
-*    *   **8.**
-
-    *   **Total Return Swaps**
+*    *   **8. Total Return Swaps**
 
     *
 
-*    *
-    *   Total Return Swaps
+*    *   Total Return Swaps
 
     *   **584**
 
 
-*    *   **9.**
-
-    *   **Optionsscheine**
+*    *   **9. Optionsscheine**
 
     *
 
-*    *
-    *   Optionsscheine ausländischer Emittenten
+*    *   Optionsscheine ausländischer Emittenten
 
     *   **110**
 
 
-*    *
-    *   Optionsscheine inländischer Emittenten
+*    *   Optionsscheine inländischer Emittenten
 
     *   **150**
 
 
-*    *   **10.**
-
-    *   **Sonstige außerbörsliche Termingeschäfte**
+*    *   **10. Sonstige außerbörsliche Termingeschäfte**
 
     *
 
-*    *
-    *   Sonstige außerbörsliche Termingeschäfte
+*    *   Sonstige außerbörsliche Termingeschäfte
 
     *   **883**
 
 
 
-## **IV. Kapitalerträge (Einnahmen und Ausgaben)**
+## IV. Kapitalerträge (Einnahmen und Ausgaben)
 
 
 *    *   **Erträge aus Wertpapieren**
@@ -10170,30 +10891,26 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   **a)**
+*    *   **a)**
 
     *   **Zinsen auf Wertpapiere öffentlicher Emittenten**
 
     *
 
 *    *
-    *
-    *   Zinsen auf Wertpapiere **inländischer**                      öffentlicher Emittenten, die an Ausländer gezahlt werden bzw. die Inländer als erste inländische Stelle von ausländischen Lagerstellen erhalten
+    *   Zinsen auf Wertpapiere inländischer öffentlicher Emittenten, die an Ausländer gezahlt werden bzw. die Inländer als erste inländische Stelle von ausländischen Lagerstellen erhalten
 
     *   **382**
 
 
-*    *
-    *   **b)**
+*    *   **b)**
 
     *   **Zinsen auf Wertpapiere privater Emittenten**
 
     *
 
 *    *
-    *
-    *   Zinsen auf Wertpapiere **inländischer**                      privater Emittenten, die an Ausländer gezahlt werden bzw. die Inländer als erste inländische Stelle von ausländischen Lagerstellen erhalten
+    *   Zinsen auf Wertpapiere inländischer privater Emittenten, die an Ausländer gezahlt werden bzw. die Inländer als erste inländische Stelle von ausländischen Lagerstellen erhalten
 
     *   **183**
 
@@ -10205,37 +10922,37 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *   Erträge aus **ausländischen**                      Aktien oder Genussscheinen, die von inländischen **MFIs**                      vereinnahmt werden
+    *   Erträge aus ausländischen Aktien oder Genussscheinen, die von inländischen MFIs vereinnahmt werden
 
     *   **185**
 
 
 *    *
-    *   Erträge aus **ausländischen**                      Aktien oder Genussscheinen, die von **inländischen Unternehmen, Privatpersonen und öffentlichen Haushalten**                      vereinnahmt werden
+    *   Erträge aus ausländischen Aktien oder Genussscheinen, die von inländischen Unternehmen, Privatpersonen und öffentlichen Haushalten vereinnahmt werden
 
     *   **985**
 
 
 *    *
-    *   Erträge aus **inländischen**                      Aktien oder Genussscheinen, die an Ausländer gezahlt werden bzw. die über ausländische Lagerstellen an Inländer gezahlt werden
+    *   Erträge aus inländischen Aktien oder Genussscheinen, die an Ausländer gezahlt werden bzw. die über ausländische Lagerstellen an Inländer gezahlt werden
 
     *   **285**
 
 
 *    *
-    *   Erträge auf **ausländische**                      Investmentzertifikate, die von inländischen **MFIs**                      vereinnahmt werden
+    *   Erträge auf ausländische Investmentzertifikate, die von inländischen MFIs vereinnahmt werden
 
     *   **585**
 
 
 *    *
-    *   Erträge auf **ausländische**                      Investmentzertifikate, die von inländischen **Unternehmen, Privatpersonen und öffentlichen Haushalten**                      vereinnahmt werden
+    *   Erträge auf ausländische Investmentzertifikate, die von inländischen Unternehmen, Privatpersonen und öffentlichen Haushalten vereinnahmt werden
 
     *   **885**
 
 
 *    *
-    *   Erträge auf **inländische**                      Investmentanteile, die an Ausländer gezahlt werden bzw. die Inländer von ausländischen Lagerstellen erhalten
+    *   Erträge auf inländische Investmentanteile, die an Ausländer gezahlt werden bzw. die Inländer von ausländischen Lagerstellen erhalten
 
     *   **685**
 
@@ -10251,13 +10968,13 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *   Erträge aus Anteilen an Aktiengesellschaften, die von inländischen **MFIs**                      vereinnahmt oder gezahlt werden
+    *   Erträge aus Anteilen an Aktiengesellschaften, die von inländischen MFIs vereinnahmt oder gezahlt werden
 
     *   **188**
 
 
 *    *
-    *   Erträge aus Anteilen an Aktiengesellschaften, die von inländischen **Unternehmen und Privatpersonen**                      vereinnahmt oder gezahlt werden
+    *   Erträge aus Anteilen an Aktiengesellschaften, die von inländischen Unternehmen und Privatpersonen vereinnahmt oder gezahlt werden
 
     *   **288**
 
@@ -10269,25 +10986,25 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *   Erträge aus Anteilen an sonstigen Kapitalgesellschaften (z. B. GmbH-Anteilen), die von inländischen **MFIs**                      vereinnahmt oder gezahlt werden
+    *   Erträge aus Anteilen an sonstigen Kapitalgesellschaften (z. B. GmbH-Anteilen), die von inländischen MFIs vereinnahmt oder gezahlt werden
 
     *   **186**
 
 
 *    *
-    *   Erträge aus Anteilen an sonstigen Kapitalgesellschaften (z.B. GmbH-Anteilen), die von inländischen **Unternehmen und Privatpersonen**                      vereinnahmt oder gezahlt werden
+    *   Erträge aus Anteilen an sonstigen Kapitalgesellschaften (z. B. GmbH-Anteilen), die von inländischen Unternehmen und Privatpersonen vereinnahmt oder gezahlt werden
 
     *   **286**
 
 
 *    *
-    *   Erträge aus sonstigen Geschäfts- und Kapitalanteilen (z. B. Kommanditanteilen) sowie Zweigniederlassungen, die von inländischen **MFIs**                      vereinnahmt oder gezahlt werden
+    *   Erträge aus sonstigen Geschäfts- und Kapitalanteilen (z. B. Kommanditanteilen) sowie Zweigniederlassungen, die von inländischen MFIs vereinnahmt oder gezahlt werden
 
     *   **187**
 
 
 *    *
-    *   Erträge aus sonstigen Geschäfts- und Kapitalanteilen (z. B. Kommanditanteilen) sowie Zweigniederlassungen, die von inländischen **Unternehmen und Privatpersonen**                      vereinnahmt oder gezahlt werden
+    *   Erträge aus sonstigen Geschäfts- und Kapitalanteilen (z. B. Kommanditanteilen) sowie Zweigniederlassungen, die von inländischen Unternehmen und Privatpersonen vereinnahmt oder gezahlt werden
 
     *   **287**
 
@@ -10299,25 +11016,25 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *   **Kredite von Direktinvestoren an Tochterunternehmen**                     : Zinsen aus Kreditgewährungen inländischer Direktinvestoren an deren ausländische Tochterunternehmen sowie Zinsen aus Kreditaufnahmen inländischer Tochterunternehmen von ihren ausländischen Direktinvestoren
+    *   Kredite von Direktinvestoren an Tochterunternehmen: Zinsen aus Kreditgewährungen inländischer Direktinvestoren an deren ausländische Tochterunternehmen sowie Zinsen aus Kreditaufnahmen inländischer Tochterunternehmen von ihren ausländischen Direktinvestoren
 
     *   **289**
 
 
 *    *
-    *   **Kredite von Tochterunternehmen an Direktinvestoren**                     : Zinsen aus Kreditgewährungen inländischer Tochterunternehmen an deren ausländische Direktinvestoren sowie Zinsen aus Kreditaufnahmen inländischer Direktinvestoren von ihren ausländischen Tochterunternehmen
+    *   Kredite von Tochterunternehmen an Direktinvestoren: Zinsen aus Kreditgewährungen inländischer Tochterunternehmen an deren ausländische Direktinvestoren sowie Zinsen aus Kreditaufnahmen inländischer Direktinvestoren von ihren ausländischen Tochterunternehmen
 
     *   **689**
 
 
 *    *
-    *   **Kredite zwischen Schwesterunternehmen:**                      Zinsen aus Kreditgewährungen verbundener Unternehmen, zwischen denen keine unmittelbare oder mittelbare Beteiligung besteht, die jedoch unmittelbar oder mittelbar einen gemeinsamen Direktinvestor haben
+    *   Kredite zwischen Schwesterunternehmen: Zinsen aus Kreditgewährungen verbundener Unternehmen, zwischen denen keine unmittelbare oder mittelbare Beteiligung besteht, die jedoch unmittelbar oder mittelbar einen gemeinsamen Direktinvestor haben
 
     *   **789**
 
 
 *    *
-    *   **Kredite von Finanzierungstöchtern an Direktinvestoren**                     : Zinsen aus Kreditgewährungen inländischer Finanzierungstöchter an deren ausländische Direktinvestoren sowie Zinsen aus Kreditaufnahmen inländischer Direktinvestoren von ihren ausländischen Finanzierungstöchtern
+    *   Kredite von Finanzierungstöchtern an Direktinvestoren: Zinsen aus Kreditgewährungen inländischer Finanzierungstöchter an deren ausländische Direktinvestoren sowie Zinsen aus Kreditaufnahmen inländischer Direktinvestoren von ihren ausländischen Finanzierungstöchtern
 
     *   **889**
 
@@ -10329,13 +11046,13 @@ Kapitalverkehr und Kapitalerträge
     *
 
 *    *
-    *   Vereinnahmte oder geleistete Zuschüsse von **MFIs**                      zur Vermeidung von Verlustvorträgen bzw. Jahresfehlbeträgen sowie Übernahmen der negativen Betriebsergebnisse von Betriebsstätten und Zweigniederlassungen, soweit diese in das Ergebnis aus der gewöhnlichen Geschäftstätigkeit eingehen
+    *   Vereinnahmte oder geleistete Zuschüsse von MFIs zur Vermeidung von Verlustvorträgen bzw. Jahresfehlbeträgen sowie Übernahmen der negativen Betriebsergebnisse von Betriebsstätten und Zweigniederlassungen, soweit diese in das Ergebnis aus der gewöhnlichen Geschäftstätigkeit eingehen
 
     *   **190**
 
 
 *    *
-    *   Vereinnahmte oder geleistete Zuschüsse von **Unternehmen und Privatpersonen**                      zur Vermeidung von Verlustvorträgen bzw. Jahresfehlbeträgen sowie Übernahmen der negativen Betriebsergebnisse von Betriebsstätten und Zweigniederlassungen, soweit diese in das Ergebnis aus der gewöhnlichen Geschäftstätigkeit eingehen
+    *   Vereinnahmte oder geleistete Zuschüsse von Unternehmen und Privatpersonen zur Vermeidung von Verlustvorträgen bzw. Jahresfehlbeträgen sowie Übernahmen der negativen Betriebsergebnisse von Betriebsstätten und Zweigniederlassungen, soweit diese in das Ergebnis aus der gewöhnlichen Geschäftstätigkeit eingehen
 
     *   **290**
 
@@ -10344,38 +11061,32 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   Einnahmen und Ausgaben von negativen Zinsen der MFIs aus Bankguthaben, Krediten etc.
+*    *   Einnahmen und Ausgaben von negativen Zinsen der MFIs aus Bankguthaben, Krediten etc.
 
     *   **181**
 
 
-*    *
-    *   Zinseinnahmen und -ausgaben der **MFIs**                      aus Bankguthaben, Krediten etc.
+*    *   Zinseinnahmen und -ausgaben der MFIs aus Bankguthaben, Krediten etc.
 
     *   **184**
 
 
-*    *
-    *   Einnahmen und Ausgaben von negativen Zinsen der Unternehmen und Privatpersonen aus Bankguthaben, Krediten etc.
+*    *   Einnahmen und Ausgaben von negativen Zinsen der Unternehmen und Privatpersonen aus Bankguthaben, Krediten etc.
 
     *   **281**
 
 
-*    *
-    *   Zinseinnahmen und -ausgaben der **Unternehmen und Privatpersonen**                      aus Bankguthaben, Krediten etc.
+*    *   Zinseinnahmen und -ausgaben der Unternehmen und Privatpersonen aus Bankguthaben, Krediten etc.
 
     *   **284**
 
 
-*    *
-    *   Einnahmen und Ausgaben von negativen Zinsen öffentlicher Haushalte aus Bankguthaben, Krediten etc.
+*    *   Einnahmen und Ausgaben von negativen Zinsen öffentlicher Haushalte aus Bankguthaben, Krediten etc.
 
     *   **381**
 
 
-*    *
-    *   Zinseinnahmen und -ausgaben der **öffentlichen Haushalte**                      aus Bankguthaben, Krediten etc.
+*    *   Zinseinnahmen und -ausgaben der öffentlichen Haushalte aus Bankguthaben, Krediten etc.
 
     *   **384**
 
@@ -10384,20 +11095,17 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   Pacht- und Mieterträge sowie -aufwendungen von inländischen **MFIs**
+*    *   Pacht- und Mieterträge sowie -aufwendungen von inländischen MFIs
 
     *   **180**
 
 
-*    *
-    *   Pacht- und Mieterträge sowie -aufwendungen von inländischen **Unternehmen und Privatpersonen**
+*    *   Pacht- und Mieterträge sowie -aufwendungen von inländischen Unternehmen und Privatpersonen
 
     *   **280**
 
 
-*    *
-    *   Pacht- und Mieterträge sowie -aufwendungen von inländischen **öffentlichen Haushalten**
+*    *   Pacht- und Mieterträge sowie -aufwendungen von inländischen öffentlichen Haushalten
 
     *   **380**
 
@@ -10406,34 +11114,30 @@ Kapitalverkehr und Kapitalerträge
 
     *
 
-*    *
-    *   Aufwendungen und Erträge von **MFIs**                      aus sonstigen, nicht in Wertpapieren verbrieften Unternehmensbeteiligungen bei ausländischen bzw. inländischen Nicht-Aktiengesellschaften
+*    *   Aufwendungen und Erträge von MFIs aus sonstigen, nicht in Wertpapieren verbrieften Unternehmensbeteiligungen bei ausländischen bzw. inländischen Nicht-Aktiengesellschaften
 
     *   **197**
 
 
-*    *
-    *   Aufwendungen und Erträge von **Unternehmen und Privatpersonen**                      sowie öffentlichen Haushalten aus sonstigen, nicht in Wertpapieren verbrieften Unternehmensbeteiligungen bei ausländischen bzw. inländischen Nicht-Aktiengesellschaften
+*    *   Aufwendungen und Erträge von Unternehmen und Privatpersonen sowie öffentlichen Haushalten aus sonstigen, nicht in Wertpapieren verbrieften Unternehmensbeteiligungen bei ausländischen bzw. inländischen Nicht-Aktiengesellschaften
 
     *   **297**
 
 
 
-## **Sonstige Transaktionen**
+## Sonstige Transaktionen
 
 
 *    *   **Sonstige Transaktionen, die nicht direkt den Kennzahlen des Waren- und Dienstleistungsverkehrs bzw. des Kapitalverkehrs zugeordnet werden können**
 
     *
 
-*    *
-    *   Sonstige Transaktionen für Waren und Dienstleistungen
+*    *   Sonstige Transaktionen für Waren und Dienstleistungen
 
     *   **950**
 
 
-*    *
-    *   Sonstige Transaktionen im Kapitalverkehr
+*    *   Sonstige Transaktionen im Kapitalverkehr
 
     *   **951**
 

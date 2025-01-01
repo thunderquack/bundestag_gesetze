@@ -172,7 +172,7 @@ Diese Personen dürfen nicht in die laufende Prüfung eingreifen oder in die Ber
 
 ### § 5 Anerkennung von ausländischen Befähigungsnachweisen im Rahmen der Niederlassungsfreiheit
 
-Unterscheiden sich die nach § 13c der Gewerbeordnung vorgelegten Nachweise hinsichtlich der zugrunde liegenden Sachgebiete wesentlich von den Anforderungen der §§ 1 und 3 und gleichen die Kenntnisse, Fähigkeiten und Kompetenzen, die die antragstellende Person im Rahmen ihrer Berufspraxis oder durch sonstige einschlägige nachgewiesene Qualifikationen erworben hat, diesen wesentlichen Unterschied nicht aus, so ist die Erlaubnis zur Aufnahme der angestrebten Tätigkeit von der erfolgreichen Teilnahme an einer ergänzenden, diese Sachgebiete umfassenden Sachkundeprüfung (spezifische Sachkundeprüfung) abhängig.
+Unterscheiden sich die nach § 13c der Gewerbeordnung vorgelegten Nachweise hinsichtlich der zugrunde liegenden Sachgebiete wesentlich von den Anforderungen der §§ 1 und 3 und gleichen die Kenntnisse, Fähigkeiten und Kompetenzen, die die antragstellende Person im Rahmen ihrer Berufspraxis oder durch sonstige einschlägige nachgewiesene Qualifikationen erworben hat, diesen wesentlichen Unterschied nicht aus, so ist die Erlaubnis zur Aufnahme der angestrebten Tätigkeit von der erfolgreichen Teilnahme an einer ergänzenden, diese Sachgebiete umfassenden Sachkundeprüfung (spezifische Sachkundeprüfung) abhängig. § 4 Absatz 2 gilt entsprechend für einen in einem anderen Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erworbenen Abschluss.
 
 
 ## Abschnitt 2 - Vermittlerregister
@@ -348,22 +348,7 @@ Er hat die entsprechenden Unterlagen und Belege übersichtlich zu sammeln. Die A
 (2) Der Prüfer ist zur gewissenhaften und unparteiischen Prüfung und zur Verschwiegenheit verpflichtet. Er darf nicht unbefugt Geschäfts- und Betriebsgeheimnisse verwerten, die er bei seiner Tätigkeit erfahren hat. Ein Prüfer, der vorsätzlich oder fahrlässig seine Pflichten verletzt, ist dem Gewerbetreibenden zum Ersatz des daraus entstehenden Schadens verpflichtet. Mehrere Personen haften als Gesamtschuldner.
 
 
-### § 17 Anzeigepflicht
-
-Der Gewerbetreibende hat der für die Erlaubniserteilung nach § 34i Absatz 1 der Gewerbeordnung zuständigen Behörde unverzüglich nach Satz 3 anzuzeigen, welche Personen jeweils mit der Leitung des Betriebs oder einer Zweigniederlassung beauftragt sind. Dies gilt bei juristischen Personen auch für die nach Gesetz, Satzung oder Gesellschaftsvertrag jeweils zur Vertretung berufenen Personen. In der Anzeige ist für jede Person Folgendes anzugeben:
-
-1.  der Name, der Geburtsname, sofern dieser vom Namen abweicht, sowie der Vorname,
-
-
-2.  die Staatsangehörigkeit oder Staatsangehörigkeiten,
-
-
-3.  das Geburtsdatum und der Geburtsort sowie
-
-
-4.  die aktuelle Anschrift.
-
-
+### § 17 (weggefallen)
 
 
 
@@ -394,13 +379,10 @@ Die für die Erlaubniserteilung zuständigen Behörden und die Registerbehörde 
 4.  einer vollziehbaren Anordnung nach § 15 Absatz 1 Satz 1 zuwiderhandelt,
 
 
-5.  entgegen § 16 Absatz 1 Satz 1 einem Prüfer eine Einsicht nicht gestattet,
+5.  entgegen § 16 Absatz 1 Satz 1 einem Prüfer eine Einsicht nicht gestattet oder
 
 
-6.  entgegen § 16 Absatz 1 Satz 2 einem Prüfer eine Aufklärung oder einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gibt oder
-
-
-7.  entgegen § 17 Satz 1, auch in Verbindung mit Satz 2, eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
+6.  entgegen § 16 Absatz 1 Satz 2 einem Prüfer eine Aufklärung oder einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gibt.
 
 
 
