@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2586, 2587
 
 Zuletzt geändert durch
-:   Art. 8 G v. 15.7.2024 I Nr. 237
-
-Änderung durch
-:   Art. 15 G v. 27.12.2024 I Nr. 438 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15 G v. 27.12.2024 I Nr. 438
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war

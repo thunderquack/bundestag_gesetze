@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.5.1975 I 1077;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 7.10.2024 I Nr. 302
-
-Änderung durch
-:   Art. 14 G v. 27.12.2024 I Nr. 438 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 14 G v. 27.12.2024 I Nr. 438
 
 
 ## Erster Titel - Gerichtsbarkeit

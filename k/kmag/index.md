@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2024, Nr. 438, 2
 
+Änderung durch
+:   Art. 2 G v. 27.12.2024 I Nr. 438 mWv 30.12.2024 noch nicht berücksichtigt
+
 
 ## Kapitel 1 - Allgemeine Maßnahmen
 

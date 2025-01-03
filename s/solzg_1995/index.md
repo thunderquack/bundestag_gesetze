@@ -19,13 +19,7 @@ Neugefasst durch
 :   durch Bek. v. 15.10.2002 I 4130;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 2.12.2024 I Nr. 386
-
-Änderung durch
-:   Art. 3 G v. 23.12.2024 I Nr. 449 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 23.12.2024 I Nr. 449 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 23.12.2024 I Nr. 449
 
 
 ## § 1 Erhebung eines Solidaritätszuschlags

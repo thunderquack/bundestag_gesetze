@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art 1 G v. 8.10.2021 I 4650
 
+Änderung durch
+:   Art. 1 G v. 23.12.2024 I Nr. 450 mWv 31.12.2024 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Erwerb und Verlust der Mitgliedschaft im Bundestag
 

@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 3955, 3956
 
 Zuletzt geändert durch
-:   Art. 4 G v. 21.8.2024 I Nr. 361
-
-Mittelbare änderung durch
-:   Art. 6 G v. 21.8.2024 I Nr. 361 ist berücksichtigt
-
-Änderung durch
-:   Art. 9 G v. 23.12.2024 I Nr. 449 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 23.12.2024 I Nr. 449
 
 Das g tritt gem. § 20 mit ablauf des 31.12.2019 außer kraft; § 20 aufgeh. durch
 :   Art. 2 Nr. 21 G v. 14.8.2017 I 3122 mWv 1.1.2020; Art. 2 Nr. 21 aufgeh. durch Art. 4 Nr. 2 G v. 17.12.2018 I 2522; § 20 aufgeh. durch Art. 1 Nr. 2 G v. 17.12.2018 I 2522 mWv 21.12.2018; dadurch ist die Geltung dieses G über den 31.12.2019 hinaus verlängert worden
