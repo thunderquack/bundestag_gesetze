@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 6 G v. 28.11.2024 I Nr. 377
 
 Änderung durch
-:   Art. 11 G v. 27.12.2024 I Nr. 438 mWv 30.12.2024 noch nicht berücksichtigt
+:   Art. 11 G v. 27.12.2024 I Nr. 438 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates vom 25. November 2009 betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II) (ABl. L 335 vom 17.12.2009, S. 1), die zuletzt durch die Richtlinie 2014/51/EU (ABl. L 153 vom 22.5.2014, S. 1) geändert worden ist.
 
@@ -1045,13 +1045,16 @@ Die Versicherungsunternehmen übermitteln die in Satz 1 genannten Bewertungen de
 6.  die Anforderungen nach Artikel 16 Absatz 1 bis 4, Artikel 23 Absatz 3 Satz 1, Absatz 5, 6 und 10, Artikel 28 Absatz 2 sowie Artikel 29 der Verordnung (EU) 2016/1011 des Europäischen Parlaments und des Rates vom 8. Juni 2016 über Indizes, die bei Finanzinstrumenten und Finanzkontrakten als Referenzwert oder zur Messung der Wertentwicklung eines Investmentfonds verwendet werden, und zur Änderung der Richtlinien 2008/48/EG und 2014/17/EU sowie der Verordnung (EU) Nr. 596/2014 (ABl. L 171 vom 29.6.2016, S. 1),
 
 
-7.  die Anforderungen nach Artikel 28 Absatz 1 bis 3 der Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 173 vom 12.6.2014, S. 84; L 6 vom 10.1.2015, S. 6; L 270 vom 15.10.2015, S. 4) und
+7.  die Anforderungen nach Artikel 28 Absatz 1 bis 3 der Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 173 vom 12.6.2014, S. 84; L 6 vom 10.1.2015, S. 6; L 270 vom 15.10.2015, S. 4),
 
 
 8.  die Anforderungen nach den Artikeln 5 bis 9, 18 bis 26, 26b bis 26e, 27 Absatz 1 und 4 und nach Artikel 43 Absatz 5 und 6 der Verordnung (EU) 2017/2402 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 zur Festlegung eines allgemeinen Rahmens für Verbriefungen und zur Schaffung eines spezifischen Rahmens für einfache, transparente und standardisierte Verbriefungen und zur Änderung der Richtlinien 2009/65/EG, 2009/138/EG, 2011/61/EU und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 648/2012 (ABl. L 347 vom 28.12.2017, S. 35),
 
 
-9.  die Anforderungen nach den Artikeln 3 bis 13 der Verordnung (EU) 2019/2088 des Europäischen Parlaments und des Rates vom 27. November 2019 über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor (ABl. L 317 vom 9.12.2019, S. 1), die durch die Verordnung (EU) 2020/852 (ABl. L 198 vom 22.6.2020, S. 13) geändert worden ist, sowie nach den Artikeln 5 bis 7 der Verordnung (EU) 2020/852 des Europäischen Parlamentes und des Rates vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und zur Änderung der Verordnung (EU) 2019/2088 (ABl. L 198 vom 22.6.2020, S. 13).
+9.  die Anforderungen nach den Artikeln 3 bis 13 der Verordnung (EU) 2019/2088 des Europäischen Parlaments und des Rates vom 27. November 2019 über nachhaltigkeitsbezogene Offenlegungspflichten im Finanzdienstleistungssektor (ABl. L 317 vom 9.12.2019, S. 1), die durch die Verordnung (EU) 2020/852 (ABl. L 198 vom 22.6.2020, S. 13) geändert worden ist, sowie nach den Artikeln 5 bis 7 der Verordnung (EU) 2020/852 des Europäischen Parlamentes und des Rates vom 18. Juni 2020 über die Einrichtung eines Rahmens zur Erleichterung nachhaltiger Investitionen und zur Änderung der Verordnung (EU) 2019/2088 (ABl. L 198 vom 22.6.2020, S. 13) und
+
+
+10. die Vorgaben nach den Artikeln 5 bis 14, 16 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1), auch in Verbindung mit einer Delegierten Verordnung nach Artikel 15, 16, 20, 28 oder Artikel 30 der Verordnung (EU) 2022/2554.
 
 
 
@@ -1456,7 +1459,7 @@ Versicherungsunternehmen haben der Aufsichtsbehörde unverzüglich Folgendes anz
 
 
 
-dürfen die Versicherungsunternehmen nur zusammenarbeiten, wenn diese Versicherungsvermittler die in Satz 1 genannten Voraussetzungen erfüllen. Die Angemessenheit der Qualifikation richtet sich nach den Anforderungen im Zusammenhang mit den von ihnen vertriebenen Produkten. Die Sätze 1 bis 3 gelten nicht für Personen im Sinne von § 24, soweit diese die dort genannten Anforderungen an die Zuverlässigkeit und fachliche Eignung erfüllen. Inhalt, Umfang sowie Dokumentation von nachzuweisenden Qualifikationsmaßnahmen haben Abschnitt 1 der Versicherungsvermittlungsverordnung zu entsprechen.
+dürfen die Versicherungsunternehmen nur zusammenarbeiten, wenn diese Versicherungsvermittler die in Satz 1 genannten Voraussetzungen sowie die für sie geltenden Anforderungen der Verordnung (EU) 2022/2554 erfüllen. Die Angemessenheit der Qualifikation richtet sich nach den Anforderungen im Zusammenhang mit den von ihnen vertriebenen Produkten. Die Sätze 1 bis 3 gelten nicht für Personen im Sinne von § 24, soweit diese die dort genannten Anforderungen an die Zuverlässigkeit und fachliche Eignung erfüllen. Inhalt, Umfang sowie Dokumentation von nachzuweisenden Qualifikationsmaßnahmen haben Abschnitt 1 der Versicherungsvermittlungsverordnung zu entsprechen.
 
 (2a) Versicherungsunternehmen stellen durch geeignete Maßnahmen der Geschäftsorganisation sicher, dass die Anforderungen nach den Absätzen 1 und 2 durch ihre Angestellten und Vermittler nach Absatz 1 Nummer 1 und 2 und deren am Versicherungsvertrieb unmittelbar oder maßgeblich beteiligten Angestellten erfüllt, überwacht und dokumentiert werden, soweit die Erfüllung dieser Anforderungen nicht bereits durch Erlaubnisverfahren nach der Gewerbeordnung gewährleistet wird. Zu diesem Zweck erlassen sie entsprechende interne Leitlinien, schaffen angemessene interne Verfahren und richten hierfür eine Funktion ein, die die ordnungsgemäße Umsetzung sicherstellt.
 
@@ -6487,6 +6490,9 @@ Haben ein oder mehrere Versicherungsunternehmen eine gemischte Versicherungs-Hol
 
 (4) Für Unternehmen mit Sitz im Inland, deren Haupttätigkeit der Erwerb und das Halten unmittelbarer oder mittelbarer Beteiligungen an Erst- oder Rückversicherungsunternehmen oder Pensionsfonds ist und die nicht bereits der Aufsicht nach diesem Gesetz unterliegen, gelten die Absätze 1 bis 3 entsprechend.
 
+(5) Für Versicherungs-Holdinggesellschaften nach § 7 Nummer 31 und für Unternehmen nach Absatz 4 gelten die Vorgaben der Verordnung (EU) 2022/2554, die Vorgaben der auf Grundlage der Verordnung (EU) 2022/2554 erlassenen Rechtsakte sowie die Bestimmungen dieses Gesetzes, die auf Vorgaben der Verordnung (EU) 2022/2554 verweisen. Anstelle der Artikel 5 bis 15 der Verordnung (EU) 2022/2554 gilt
+der vereinfachte              Informations- und Kommunikationstechnologien-Risikomanagementrahmen (IKT-Risikomanagementrahmen) nach Artikel 16 der Verordnung (EU) 2022/2554.
+
 
 ## Teil 6 - Aufsicht: Aufgaben und allgemeine Befugnisse, Organisation
 
@@ -6550,11 +6556,16 @@ Die Aufsichtsbehörde legt die Mindesthäufigkeit und den Anwendungsbereich dies
 6.  zuständige Behörde im Sinne des Artikels 21 Absatz 1 der Verordnung (EU) 2020/852,
 
 
-7.  zuständige Behörde im Sinne des Artikels 2 Nummer 18 der Verordnung (EU) 2019/1238 für die in den Geltungsbereich der Verordnung (EU) 2019/1238 einbezogenen Unternehmen.
+7.  zuständige Behörde im Sinne des Artikels 2 Nummer 18 der Verordnung (EU) 2019/1238 für die in den Geltungsbereich der Verordnung (EU) 2019/1238 einbezogenen Unternehmen,
+
+
+8.  zuständige Behörde im Sinne der Verordnung (EU) 2022/2554.
 
 
 
 (2) Die Aufsichtsbehörde ist zuständige Stelle nach Artikel 5 Absatz 1 der Richtlinie 2014/17/EU des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Wohnimmobilienkreditverträge für Verbraucher und zur Änderung der Richtlinien 2008/48/EG und 2013/36/EU und der Verordnung (EU) Nr. 1093/2010 (ABl. L 60 vom 28.2.2014, S. 34; L 47 vom 20.2.2015, S. 34; L 246 vom 23.9.2015, S. 11) für die von ihr beaufsichtigten Unternehmen.
+
+(3) Die nach Absatz 1 Nummer 8 zuständige Behörde wirkt bei der Durchführung der Artikel 26 und 27 der Verordnung (EU) 2022/2554 mit der Deutschen Bundesbank zusammen. Die Deutsche Bundesbank nimmt die operativen Aufgaben nach den Artikeln 26 und 27 der Verordnung (EU) 2022/2554 wahr. § 7 Absatz 3 und 4 des Kreditwesengesetzes gilt entsprechend.
 
 
 #### § 296 Grundsatz der Verhältnismäßigkeit
@@ -6993,6 +7004,27 @@ Die Aufsichtsbehörde kann nach Anhörung der Spitzenverbände der Unternehmen i
 (2) Wird eine Verbriefung als STS-Verbriefung im Sinne des Artikels 18 der Verordnung (EU) 2017/2402 bezeichnet und hat ein Originator, ein Sponsor oder eine Verbriefungszweckgesellschaft gegen eine der Anforderungen der Artikel 19 bis 26 oder der Artikel 26b bis 26e der Verordnung (EU) 2017/2402 verstoßen oder macht ein Originator eine irreführende Meldung nach Artikel 27 Absatz 1 dieser Verordnung, kann die Aufsichtsbehörde vorübergehend verbieten, dass ein beaufsichtigtes Unternehmen als Originator gemäß Artikel 27 Absatz 1 dieser Verordnung meldet, dass seine Verbriefungen die Anforderungen der Artikel 19 bis 22, der Artikel 23 bis 26 oder der Artikel 26b bis 26e dieser Verordnung erfüllen.
 
 
+#### § 308d Besondere Befugnisse nach der Verordnung (EU) 2022/2554
+
+(1) Die Aufsichtsbehörde kann bei Verstößen gegen die Verordnung (EU) 2022/2554 unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, um die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 im Geltungsbereich dieses Gesetzes sicherzustellen. Sie kann gegenüber einem Versicherungsunternehmen insbesondere anordnen,
+
+1.  das gegen diese Verordnung verstoßende Verhalten zu unterlassen und von einer Wiederholung abzusehen,
+
+
+2.  Praktiken oder Verhaltensweisen, die den Bestimmungen der Verordnung zuwiderlaufen, vorübergehend oder dauerhaft einzustellen und nicht zu wiederholen,
+
+
+3.  sicherzustellen, dass weiterhin die rechtlichen Vorgaben erfüllt werden, und
+
+
+4.  Korrektur- und Abhilfemaßnahmen vorzunehmen.
+
+
+
+
+(2) Die Aufsichtsbehörde kann Untersuchungen über die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 im Anwendungsbereich dieses Gesetzes vornehmen. Unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse kann die Aufsichtsbehörde zu diesem Zweck Mitglieder der Organe eines Versicherungsunternehmens zu einer Befragung vorladen, damit diese mündliche oder schriftliche Erklärungen zu Sachverhalten oder Unterlagen abgeben, die mit Gegenstand und Zweck der Untersuchung in Zusammenhang stehen, und die mündlichen Erklärungen aufzeichnen. § 305 Absatz 5 gilt entsprechend.
+
+
 #### § 309 Verschwiegenheitspflicht
 
 (1) Die bei den Versicherungsaufsichtsbehörden beschäftigten oder von ihnen beauftragten Personen, die nach § 307 bestellten Sonderbeauftragten, die nach § 308 Absatz 1 Satz 2 bestellten Abwickler und die nach § 19 Absatz 2 Satz 1 gerichtlich bestellten Treuhänder sowie die Mitglieder des Versicherungsbeirats dürfen bei ihrer Tätigkeit erhaltene vertrauliche Informationen an keine andere Person oder Behörde weitergeben. Dies gilt auch für die in Satz 1 genannten Personen, sofern ihnen Tatsachen im Rahmen der Anbahnung einer Beauftragung oder Bestellung anvertraut werden sowie für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 genannten Informationen erhalten. Die Sätze 1 und 2 gelten nicht für die Weitergabe von Informationen in zusammengefasster oder allgemeiner Form, bei der die einzelnen Versicherungsunternehmen nicht zu erkennen sind.
@@ -7084,7 +7116,7 @@ soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen.
 
 (1) Verwaltungsakte nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung können mit Nebenbestimmungen versehen werden.
 
-(2) Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Aufsichtsbehörde einschließlich der Androhung und Festsetzung von Zwangsmitteln nach § 18 Absatz 1 und 2, den §§ 19, 20, 25 Absatz 4 Satz 1 und 2, den §§ 36, 66a, 127 Absatz 2, § 133 Absatz 1 und 2, § 134 Absatz 7, § 135 Absatz 3, § 137 Absatz 2, den dem § 264 sowie nach § 298 Absatz 1 und 2 und § 299 Nummer 1, diese in Verbindung mit § 8 Absatz 1 oder § 15 Absatz 1 und 2 oder § 23 oder § 294 Absatz 6 oder § 295, nach § 298 Absatz 3, den §§ 301, 303 Absatz 2, § 304 Absatz 3 Nummer 2 und Absatz 4 Satz 2, § 305 Absatz 1 bis 4 und 6, den §§ 306, 307 Absatz 1 sowie den §§ 308, 308b, 312 und 314 haben keine aufschiebende Wirkung. Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Aufsichtsbehörde nach Artikel 6 Absatz 4, Artikel 8 Absatz 1 oder Artikel 63 der Verordnung (EU) 2019/1238 sowie gegen die Androhung und Festsetzung von Zwangsmitteln gegen diese Maßnahmen und Entscheidungen haben keine aufschiebende Wirkung.
+(2) Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Aufsichtsbehörde einschließlich der Androhung und Festsetzung von Zwangsmitteln nach § 18 Absatz 1 und 2, den §§ 19, 20, 25 Absatz 4 Satz 1 und 2, den §§ 36, 66a, 127 Absatz 2, § 133 Absatz 1 und 2, § 134 Absatz 7, § 135 Absatz 3, § 137 Absatz 2, § 264 sowie nach § 298 Absatz 1 und 2 und § 299 Nummer 1, diese in Verbindung mit § 8 Absatz 1 oder § 15 Absatz 1 und 2 oder § 23 oder § 294 Absatz 6 oder § 295, nach § 298 Absatz 3, den §§ 301, 303 Absatz 2, § 304 Absatz 3 Nummer 2 und Absatz 4 Satz 2, § 305 Absatz 1 bis 4 und 6, den §§ 306, 307 Absatz 1 sowie den §§ 308, 308b, 308d, 312 und 314 haben keine aufschiebende Wirkung. Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Aufsichtsbehörde nach Artikel 6 Absatz 4, Artikel 8 Absatz 1 oder Artikel 63 der Verordnung (EU) 2019/1238 sowie gegen die Androhung und Festsetzung von Zwangsmitteln gegen diese Maßnahmen und Entscheidungen haben keine aufschiebende Wirkung.
 
 
 #### § 310a Elektronische Übermittlung; Verordnungsermächtigung
@@ -7282,9 +7314,9 @@ Abweichend von Satz 1 kann die Bundesanstalt in den Fällen von Satz 1 Nummer 2 
 (3) Eine Bekanntmachung soll fünf Jahre auf der Internetseite der Bundesanstalt veröffentlicht bleiben. Abweichend von Satz 1 sind personenbezogene Daten zu löschen, sobald die Bekanntmachung nicht mehr erforderlich ist.
 
 
-#### § 319a Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011 oder die Verordnung (EU) 2017/2402
+#### § 319a Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011, die Verordnung (EU) 2017/2402 oder die Verordnung (EU) 2022/2554
 
-(1) Die Aufsichtsbehörde macht Entscheidungen über Maßnahmen und Sanktionen, die wegen Verstößen gegen die Verordnung (EU) 2015/2365 oder die Verordnung (EU) 2016/1011 oder auf diesen Verordnungen basierende delegierte Rechtsakte erlassen wurden, auf ihrer Internetseite unverzüglich nach Unterrichtung der natürlichen oder juristischen Person, gegen die die Maßnahme oder Sanktion verhängt wurde, bekannt.
+(1) Die Aufsichtsbehörde macht Entscheidungen über Maßnahmen und Sanktionen, die wegen Verstößen gegen die Verordnung (EU) 2015/2365 oder die Verordnung (EU) 2016/1011 oder auf diesen Verordnungen basierende delegierte Rechtsakte erlassen wurden, auf ihrer Internetseite unverzüglich nach Unterrichtung der natürlichen oder juristischen Person, gegen die die Maßnahme oder Sanktion verhängt wurde, bekannt. Die Aufsichtsbehörde macht Entscheidungen über bestandskräftige Maßnahmen und unanfechtbar gewordene Bußgeldentscheidungen, die wegen Verstößen gegen die Verordnung (EU) 2022/2554 oder gegen die jeweils darauf basierenden delegierten Rechtsakte erlassen wurden, auf ihrer Internetseite unverzüglich öffentlich bekannt.
 
 (2) In der Bekanntmachung benennt die Aufsichtsbehörde die Vorschrift, gegen die verstoßen wurde, und die für den Verstoß verantwortliche natürliche oder juristische Person oder Personenvereinigung.
 
@@ -7923,6 +7955,8 @@ Will die Aufsichtsbehörde eines anderen Mitglied- oder Vertragsstaats in einem 
 
 (4l) Zuwiderhandlungen gegen die Verordnung (EU) 2019/1238 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1) durch Personen im Anwendungsbereich dieses Gesetzes können nach § 120a des Wertpapierhandelsgesetzes geahndet werden.
 
+(4m) Zuwiderhandlungen gegen die Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56 Absatz 5e und 6 Nummer 1 und 3 des Kreditwesengesetzes geahndet werden.
+
 (5) Die Ordnungswidrigkeit kann in den Fällen der Absätze 4e und 4h bis 4k mit einer Geldbuße bis zu fünf Millionen Euro, in den Fällen des Absatzes 4d mit einer Geldbuße bis zu siebenhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 2 Buchstabe b, des Absatzes 2 Nummer 3, des Absatzes 3 Nummer 3, 3a, 3b und 3c, der Absätze 4a und 4b sowie 4g mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2 Nummer 2, des Absatzes 3 Nummer 2 Buchstabe a, der Absätze 4 und 4f mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 3 Nummer 7 mit einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden. In den Fällen des Absatzes 3 Nummer 3 kann gegenüber einer juristischen Person oder Personenvereinigung über Satz 1 hinaus eine höhere Geldbuße von bis zu fünf Millionen Euro verhängt werden.
 
 (6) Gegenüber einer juristischen Person oder einer Personenvereinigung kann in den Fällen des Absatzes 4d über Absatz 5 hinaus eine höhere Geldbuße verhängt werden; diese darf den höheren der Beträge von fünf Millionen Euro oder 3 Prozent des Gesamtumsatzes, den die juristische Person oder die Personenvereinigung im der Behördenentscheidung vorausgegangenen Geschäftsjahr erzielt hat, nicht übersteigen.
@@ -8433,6 +8467,11 @@ Die §§ 36, 191, 331, 332 und 334 in der ab dem 1. Juli 2021 geltenden Fassung 
 (1) Für oberste Vertretungen, die bis einschließlich 31. August 2023 einberufen werden, kann der Vorstand mit Zustimmung des Aufsichtsrats entscheiden, dass die oberste Vertretung als virtuelle oberste Vertretung entsprechend § 118a des Aktiengesetzes abgehalten wird.
 
 (2) § 241 Nummer 2, § 242 Absatz 1 und § 243 Absatz 3 Satz 1 Nummer 4 des Aktiengesetzes in der ab dem 27. Juli 2022 geltenden Fassung sind erstmals auf oberste Vertretungen anzuwenden, die ab dem 27. Juli 2022 einberufen werden.
+
+
+### § 360 Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz
+
+§ 35 Absatz 1 Satz 1 Nummer 10 ist erstmals anzuwenden auf Rechnungslegungsunterlagen für ein nach dem 31. Dezember 2024 beginnendes Geschäftsjahr.
 
 
 ### Anlage 1 Einteilung der Risiken nach Sparten

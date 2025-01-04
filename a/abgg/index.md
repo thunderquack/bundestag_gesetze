@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art 1 G v. 8.10.2021 I 4650
 
 Änderung durch
-:   Art. 1 G v. 23.12.2024 I Nr. 450 mWv 31.12.2024 noch nicht berücksichtigt
+:   Art. 1 G v. 23.12.2024 I Nr. 450 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Erwerb und Verlust der Mitgliedschaft im Bundestag
@@ -65,7 +65,7 @@ Einem Bewerber um einen Sitz im Bundestag ist zur Vorbereitung seiner Wahl inner
 
 ### § 5 Ruhen der Rechte und Pflichten aus einem öffentlich-rechtlichen Dienstverhältnis
 
-(1) Die Rechte und Pflichten aus dem Dienstverhältnis eines in den Bundestag gewählten Beamten mit Dienstbezügen ruhen vom Tage der Feststellung des Bundeswahlausschusses (§ 42 Abs. 2 Satz 1 des Bundeswahlgesetzes) oder der Annahme des Mandats für die Dauer der Mitgliedschaft mit Ausnahme der Pflicht zur Amtsverschwiegenheit und des Verbots der Annahme von Belohnungen und Geschenken. Das gleiche gilt, wenn ein Mitglied des Bundestages in ein solches Dienstverhältnis berufen wird, von dem Tage an, mit dem seine Ernennung wirksam wird. Der Beamte hat das Recht, seine Amts- oder Dienstbezeichnung mit dem Zusatz "außer Dienst" ("a. D.") zu führen. Bei unfallverletzten Beamten bleiben die Ansprüche auf das Heilverfahren und einen Unfallausgleich unberührt. Satz 1 gilt längstens bis zum Eintritt oder bis zur Versetzung in den Ruhestand.
+(1) Die Rechte und Pflichten aus dem Dienstverhältnis eines in den Bundestag gewählten Beamten mit Dienstbezügen ruhen vom Tage der Feststellung des Bundeswahlausschusses (§ 42 Absatz 3 Satz 1 des Bundeswahlgesetzes) oder der Annahme des Mandats für die Dauer der Mitgliedschaft mit Ausnahme der Pflicht zur Amtsverschwiegenheit und des Verbots der Annahme von Belohnungen und Geschenken. Das gleiche gilt, wenn ein Mitglied des Bundestages in ein solches Dienstverhältnis berufen wird, von dem Tage an, mit dem seine Ernennung wirksam wird. Der Beamte hat das Recht, seine Amts- oder Dienstbezeichnung mit dem Zusatz "außer Dienst" ("a. D.") zu führen. Bei unfallverletzten Beamten bleiben die Ansprüche auf das Heilverfahren und einen Unfallausgleich unberührt. Satz 1 gilt längstens bis zum Eintritt oder bis zur Versetzung in den Ruhestand.
 
 (2) Für den in den einstweiligen Ruhestand versetzten Beamten gilt Absatz 1 längstens bis zum Eintritt oder bis zur Versetzung in den dauernden Ruhestand sinngemäß.
 
@@ -522,13 +522,13 @@ Soweit in diesem Gesetz nichts anderes bestimmt ist, sind die für die Bundesbea
 
 ### § 27 Zuschuss zu den Kosten in Krankheits-, Pflege- und Geburtsfällen
 
-(1) Die Mitglieder des Bundestages erhalten einen Zuschuss zu den notwendigen Kosten in Krankheits-, Pflege-, und Geburtsfällen in sinngemäßer Anwendung der für Bundesbeamte geltenden Vorschriften. Das gilt auch für Versorgungsempfänger nach diesem Gesetz, soweit nicht auf Grund eines Dienstverhältnisses oder der Mitgliedschaft in einer anderen gesetzgebenden Körperschaft ein Anspruch auf Beihilfe besteht und auf den Anspruch nach diesem Gesetz gegenüber dem Bundestag schriftlich verzichtet wurde.
+(1) Die Mitglieder des Bundestages erhalten einen Zuschuss zu den notwendigen Kosten in Krankheits-, Pflege-, und Geburtsfällen in sinngemäßer Anwendung der für Bundesbeamte geltenden Vorschriften. Das gilt auch für Versorgungsempfänger nach diesem Gesetz, soweit nicht auf Grund eines Dienstverhältnisses oder der Mitgliedschaft in einer anderen gesetzgebenden Körperschaft ein Anspruch auf Beihilfe besteht und auf den Anspruch nach diesem Gesetz gegenüber dem Bundestag schriftlich verzichtet wurde. § 76 des Bundesbeamtengesetzes ist mit der Maßgabe sinngemäß anzuwenden, dass der Schadensersatzanspruch auf die Bundesrepublik Deutschland übergeht.
 
 (2) Anstelle des Anspruchs auf den Zuschuß nach Absatz 1 erhalten die Mitglieder und Versorgungsempfänger einen Zuschuß zu ihren Krankenversicherungsbeiträgen, wenn der Arbeitgeber keine Beiträge nach § 249 des Fünften Buches des Sozialgesetzbuches zahlt oder kein Anspruch auf einen Beitragszuschuß nach § 257 des Fünften Buches des Sozialgesetzbuches besteht. Mitglieder der gesetzlichen Krankenversicherung, die eine Rente aus der gesetzlichen Rentenversicherung beziehen und entweder den darauf entfallenden Krankenversicherungsbeitrag nach § 249a des Fünften Buches Sozialgesetzbuch nur zur Hälfte tragen oder gemäß § 106 des Sechsten Buches Sozialgesetzbuch einen Beitragszuschuß beziehen, erhalten für diesen rentenbezogenen Krankenversicherungsbeitrag keinen Zuschuß. Als Zuschuss ist die Hälfte des aus eigenen Mitteln geleisteten Krankenversicherungsbeitrages in Anlehnung an § 249 des Fünften Buches Sozialgesetzbuch zu zahlen. Besteht die Mitgliedschaft nicht ausschließlich in einer gesetzlichen Krankenkasse gemäß § 4 des Fünften Buches Sozialgesetzbuch, beträgt der Zuschuss höchstens die Hälfte des Beitrages nach § 249 des Fünften Buches Sozialgesetzbuch.
 
 (3) Der Anspruch auf den Zuschuß zu den Krankenversicherungsbeiträgen nach Absatz 2 schließt bei Mitgliedern des Bundestages ein den Anspruch auf einen Zuschuß in Höhe der Hälfte des aus eigenen Mitteln geleisteten Pflegeversicherungsbeitrages, höchstens jedoch die Hälfte des Höchstbeitrages der sozialen Pflegeversicherung. Der Zuschuss umfasst nicht den Beitragszuschlag für Kinderlose nach § 55 des Elften Buches Sozialgesetzbuch.
 
-(4) Die Entscheidung darüber, ob das Mitglied anstelle der Leistungen nach Absatz 1 den Zuschuß nach Absatz 2 in Anspruch nehmen will, ist innerhalb von vier Monaten nach Feststellung des Bundeswahlausschusses (§ 42 Abs. 2 Satz 1 des Bundeswahlgesetzes) oder Annahme des Mandats dem Präsidenten des Bundestages mitzuteilen; die Entscheidung ist für die Dauer der Wahlperiode unwiderruflich. Versorgungsempfänger haben die Entscheidung innerhalb von vier Monaten nach Bekanntgabe des Versorgungsbescheides dem Präsidenten mitzuteilen; sie bleiben an diese Entscheidung gebunden.
+(4) Die Entscheidung darüber, ob das Mitglied anstelle der Leistungen nach Absatz 1 den Zuschuss nach Absatz 2 in Anspruch nehmen will, ist innerhalb von vier Monaten nach Feststellung des Bundeswahlausschusses (§ 42 Absatz 3 Satz 1 des Bundeswahlgesetzes) oder Annahme des Mandats dem Präsidenten des Bundestages mitzuteilen; die Entscheidung ist für die Dauer der Wahlperiode unwiderruflich. Nach Fristablauf kann die Mitteilung über die Entscheidung innerhalb einer Wahlperiode mit Wirkung zum Beginn des folgenden Kalendermonats nachgeholt werden. Erwirbt ein Mitglied auch in der folgenden Wahlperiode ein Mandat, gilt die getroffene Entscheidung fort, sofern das Mitglied nicht innerhalb der in Satz 1 genannten Frist eine andere Entscheidung trifft. Versorgungsempfänger haben die Entscheidung innerhalb von vier Monaten nach Bekanntgabe des Versorgungsbescheides dem Präsidenten mitzuteilen; sie bleiben an diese Entscheidung gebunden.
 
 
 ### § 28 Unterstützungen
@@ -576,7 +576,7 @@ Ein Verzicht auf die Abgeordnetenentschädigung nach § 11 und auf die Leistunge
 
 ### § 32 Beginn und Ende der Ansprüche, Zahlungsvorschriften
 
-(1) Die in den §§ 11, 12, 16, 27 und 28 geregelten Ansprüche entstehen mit dem Tag der Feststellung des Bundeswahlausschusses (§ 42 Abs. 2 Satz 1 des Bundeswahlgesetzes) oder im Fall des § 45 Abs. 3 des Bundeswahlgesetzes mit dem Tag der Annahme des Mandats, auch wenn die Wahlperiode des letzten Bundestages noch nicht abgelaufen ist. Mandatsbezogene Aufwendungen, die einem gewählten Wahlkreisbewerber oder einem gewählten Landeslistenbewerber zwischen dem Wahltag und dem Tag der Feststellung des Bundeswahlausschusses (§ 42 Abs. 2 Satz 1 des Bundeswahlgesetzes) oder im Fall des § 45 Abs. 3 des Bundeswahlgesetzes mit dem Tag der Annahme des Mandats im Hinblick auf den Zusammentritt des neuen Bundestages entstehen, werden ebenfalls erstattet.
+(1) Die in den §§ 11, 12, 16, 27 und 28 geregelten Ansprüche entstehen mit dem Tag der Feststellung des Bundeswahlausschusses (§ 42 Absatz 3 Satz 1 des Bundeswahlgesetzes) oder im Fall des § 45 Absatz 2 des Bundeswahlgesetzes mit dem Tag der Annahme des Mandats, auch wenn die Wahlperiode des letzten Bundestages noch nicht abgelaufen ist. Mandatsbezogene Aufwendungen, die einem gewählten Wahlkreisbewerber oder einem gewählten Landeslistenbewerber zwischen dem Wahltag und dem Tag der Feststellung des Bundeswahlausschusses (§ 42 Absatz 3 Satz 1 des Bundeswahlgesetzes) oder im Fall des § 45 Absatz 2 des Bundeswahlgesetzes mit dem Tag der Annahme des Mandats im Hinblick auf den Zusammentritt des neuen Bundestages entstehen, werden ebenfalls erstattet.
 
 (2) Ausgeschiedene Mitglieder erhalten die Abgeordnetenentschädigung nach § 11 bis zum Ende des Monats, in dem sie ausgeschieden sind, und die Geldleistungen nach § 12 Abs. 2 bis zum Ende des darauf folgenden Monats. Die Rechte nach § 16 erlöschen 14 Tage nach dem Ausscheiden aus dem Bundestag.
 
@@ -866,7 +866,7 @@ gelten nicht als Spenden im Sinne dieser Vorschrift; sie sind jedoch entsprechen
 
 ### § 49 Interessenverknüpfung im Ausschuss
 
-Ein Mitglied des Bundestages, das entgeltlich mit einem Gegenstand beschäftigt ist, der in einem Ausschuss des Bundestages zur Beratung ansteht, hat als Mitglied dieses Ausschusses vor einer Wortmeldung eine Interessenverknüpfung offenzulegen. Ein Mitglied des Bundestages, das in einem Ausschuss die Berichterstattung übernommen hat, hat vor der Beratung eine konkrete Interessenverknüpfung offenzulegen; diese Angaben werden in der Beschlussempfehlung des Ausschusses angemerkt.
+Ein Mitglied des Bundestages, das entgeltlich mit einem Beratungsgegenstand beschäftigt ist, zu dem es in einem Ausschuss des Bundestages oder innerhalb einer Fraktion die Berichterstattung übernommen hat, hat vor einer Beratung in einem Ausschuss offenzulegen, wenn eine konkrete gegenwärtige oder zukünftige Interessenverknüpfung besteht. Sonstige an einer Ausschussberatung teilnehmende Mitglieder des Bundestages, die entgeltlich mit einem Beratungsgegenstand beschäftigt sind, haben eine konkrete Interessenverknüpfung offenzulegen, soweit sie nicht aus den gemäß § 47 veröffentlichten Angaben ersichtlich ist. Die Angaben nach Satz 1 und Satz 2 sind der oder dem Ausschussvorsitzenden mitzuteilen und werden in der Beschlussempfehlung des Ausschusses angemerkt.
 
 
 ### § 50 Rückfrage
@@ -919,18 +919,13 @@ Für Beteiligungen, die bei Inkrafttreten dieses Gesetzes bereits gehalten werde
 (3) Die Fraktionen sind nicht Teil der öffentlichen Verwaltung; sie üben keine öffentliche Gewalt aus.
 
 
-## Zwölfter Abschnitt - (weggefallen)
-
--
-
-
 ### § 55 Aufgaben
 
 (1) Die Fraktionen wirken an der Erfüllung der Aufgaben des Deutschen Bundestages mit.
 
 (2) Die Fraktionen können mit Fraktionen anderer Parlamente und parlamentarischen Einrichtungen national und international zusammenarbeiten.
 
-(3) Die Fraktionen und ihre Mitglieder können die Öffentlichkeit über ihre Tätigkeit unterrichten.
+(3) Zu den Aufgaben der Fraktionen gehört eine eigenständige Öffentlichkeitsarbeit. Sie dient der Unterrichtung der Öffentlichkeit über parlamentarische Vorgänge, Initiativen und Konzepte der Fraktionen, der Vermittlung ihrer politischen Standpunkte und dem Dialog mit Bürgerinnen und Bürgern über parlamentarisch-politische Fragen. Die Fraktionen sind im Rahmen ihrer zulässigen Aufgabenwahrnehmung bei der Wahl der Mittel, des Orts, der Zeit und der Häufigkeit ihrer Unterrichtung frei. Zu den Mitteln gehört insbesondere auch die digitale Kommunikation. Die Öffentlichkeitsarbeit der Fraktionen unterliegt nicht dem Gebot der politischen Neutralität. Die Fraktionen müssen als Urheber ausdrücklich erkennbar sein. Sechs Wochen vor Wahlen zum Deutschen Bundestag oder zum Europäischen Parlament bedarf die Öffentlichkeitsarbeit eines besonderen parlamentarischen Anlasses.
 
 
 ### § 56 Organisation
@@ -959,12 +954,14 @@ Für Beteiligungen, die bei Inkrafttreten dieses Gesetzes bereits gehalten werde
 
 (4) Leistungen nach Absatz 1 dürfen die Fraktionen nur für Aufgaben verwenden, die ihnen nach dem Grundgesetz, diesem Gesetz und der Geschäftsordnung des Deutschen Bundestages obliegen. Eine Verwendung für Parteiaufgaben ist unzulässig.
 
-(5) Geldleistungen nach Absatz 1 können auf neue Rechnung vorgetragen werden.
+(5) Eine rechtswidrige Verwendung der Geld- und Sachleistungen stellt der Ältestenrat nach Anhörung der betroffenen Fraktion fest. Die Feststellung wird als Drucksache veröffentlicht. Der Ältestenrat kann den Bundesrechnungshof in Einzelfällen ersuchen, die Rechtmäßigkeit der Verwendung von Geld- und Sachleistungen zu prüfen. Rechtswidrig verwendete Geld- und Sachleistungen sind an den Bundeshaushalt zurückzuführen. Der zu erstattende Betrag kann mit zukünftigen Leistungen nach Absatz 1 verrechnet werden. Als rechtswidrig festgestellte Maßnahmen sind unverzüglich einzustellen.
+
+(6) Geldleistungen nach Absatz 1 können auf neue Rechnung vorgetragen werden.
 
 
 ### § 59 Haushalts- und Wirtschaftsführung, Buchhaltung
 
-(1) Einzelheiten der Haushalts- und Wirtschaftsführung werden in Ausführungsbestimmungen geregelt, die der Ältestenrat nach Anhörung des Bundesrechnungshofes erläßt.
+(1) Einzelheiten der Haushalts- und Wirtschaftsführung können in Ausführungsbestimmungen geregelt werden, die der Ältestenrat nach Anhörung des Bundesrechnungshofes erläßt.
 
 (2) Die Fraktionen haben Bücher über ihre rechnungslegungspflichtigen Einnahmen und Ausgaben sowie über ihr Vermögen zu führen. Dabei ist nach den Grundsätzen ordnungsgemäßer Buchführung unter Berücksichtigung des Gesetzeszwecks zu verfahren.
 

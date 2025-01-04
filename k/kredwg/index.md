@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 4 G v. 28.11.2024 I Nr. 377
 
 Änderung durch
-:   Art. 3 G v. 27.12.2024 I Nr. 438 mWv 30.12.2024 noch nicht berücksichtigt
+:   Art. 3 G v. 27.12.2024 I Nr. 438 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -133,7 +133,30 @@ Zuletzt geändert durch
 5.  die Vermittlung von Einlagengeschäften mit Unternehmen mit Sitz außerhalb des Europäischen Wirtschaftsraums (Drittstaateneinlagenvermittlung),
 
 
-6.  die Verwahrung, die Verwaltung und die Sicherung von Kryptowerten oder privaten kryptografischen Schlüsseln, die dazu dienen, Kryptowerte für andere zu halten, zu speichern oder darüber zu verfügen, sowie die Sicherung von privaten kryptografischen Schlüsseln, die dazu dienen, Kryptowertpapiere für andere nach § 4 Absatz 3 des Gesetzes über elektronische Wertpapiere zu halten, zu speichern oder darüber zu verfügen (Kryptoverwahrgeschäft),
+6.  das qualifizierte Kryptoverwahrgeschäft durch
+
+    a)  die Verwahrung und Verwaltung kryptografischer Instrumente für andere oder
+
+
+    b)  die Sicherung privater kryptografischer Schlüssel für andere, die dazu dienen, kryptografische Instrumente oder Kryptowertpapiere, Kryptofondsanteile oder in- und ausländische Wertpapiere, die unter Verwendung der Distributed-Ledger-Technologie oder einer ähnlichen Technologie übertragen und gespeichert werden können, zu speichern oder darüber zu verfügen,
+
+
+
+    Kryptografische Instrumente im Sinne dieses Gesetzes sind digitale Darstellungen eines Wertes, der von keiner Zentralbank oder öffentlichen Stelle emittiert wurde oder garantiert wird und nicht den gesetzlichen Status einer Währung oder von Geld besitzt, aber von natürlichen oder juristischen Personen aufgrund einer Vereinbarung oder tatsächlichen Übung als Tausch- oder Zahlungsmittel akzeptiert wird oder Anlagezwecken dient und der auf elektronischem Wege übertragen, gespeichert und gehandelt werden kann. Keine kryptografischen Instrumente im Sinne dieses Gesetzes sind
+
+    1.  E-Geld im Sinne des § 1 Absatz 2 Satz 3 des Zahlungsdiensteaufsichtsgesetzes,
+
+
+    2.  monetäre Werte, die die Vorgaben nach § 2 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes erfüllen oder nur für Zahlungsvorgänge im Sinne des § 2 Absatz 1 Nummer 11 des Zahlungsdiensteaufsichtsgesetzes eingesetzt werden,
+
+
+    3.  Kryptowerte im Sinne des Artikels 3 Absatz 1 Nummer 5 der Verordnung (EU) 2023/1114 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über Märkte für Kryptowerte und zur Änderung der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 1095/2010 sowie der Richtlinien 2013/36/EU und (EU) 2019/1937 (ABl. L 150 vom 9.6.2023, S. 40), die durch die Verordnung (EU) 2023/2869 (ABl. L, 2023/2869, 20.12.2023) geändert worden ist, im Anwendungsbereich der Verordnung (EU) 2023/1114 und
+
+
+    4.  Wertpapiere im Sinne des Depotgesetzes.
+
+
+
 
 
 7.  der Handel mit Sorten (Sortengeschäft),
@@ -295,30 +318,21 @@ Das Bundesministerium der Finanzen kann nach Anhörung der Deutschen Bundesbank 
 9.  Berechtigungen nach § 3 Nummer 3 des Treibhausgas-Emissionshandelsgesetzes, Emissionsreduktionseinheiten nach § 2 Nummer 20 des Projekt- Mechanismen-Gesetzes und zertifizierte Emissionsreduktionen nach § 2 Nummer 21 des Projekt-Mechanismen-Gesetzes, soweit diese jeweils im Emissionshandelsregister gehalten werden dürfen (Emissionszertifikate),
 
 
-10. Kryptowerte sowie
+10. (weggefallen)
 
 
 11. für Schwarmfinanzierungszwecke nach Artikel 2 Absatz 1 Buchstabe n der Verordnung (EU) 2020/1503 des Europäischen Parlaments und des Rates vom 7. Oktober 2020 über Europäische Schwarmfinanzierungsdienstleister für Unternehmen und zur Änderung der Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1), in der jeweils geltenden Fassung, zugelassene Instrumente (Schwarmfinanzierungsinstrumente).
 
 
 
-Hinterlegungsscheine im Sinne dieses Gesetzes sind Wertpapiere, die auf dem Kapitalmarkt handelbar sind, ein Eigentumsrecht an Wertpapieren von Emittenten mit Sitz im Ausland verbriefen, zum Handel auf einem organisierten Markt zugelassen sind und unabhängig von den Wertpapieren des jeweiligen gebietsfremden Emittenten gehandelt werden können. Geldmarktinstrumente sind Instrumente im Sinne des Artikels 11 der Delegierten Verordnung (EU) 2017/565 mit Ausnahme von Zahlungsinstrumenten. Kryptowerte im Sinne dieses Gesetzes sind digitale Darstellungen eines Wertes, der von keiner Zentralbank oder öffentlichen Stelle emittiert wurde oder garantiert wird und nicht den gesetzlichen Status einer Währung oder von Geld besitzt, aber von natürlichen oder juristischen Personen aufgrund einer Vereinbarung oder tatsächlichen Übung als Tausch- oder Zahlungsmittel akzeptiert wird oder Anlagezwecken dient und der auf elektronischem Wege übertragen, gespeichert und gehandelt werden kann. Keine Kryptowerte im Sinne dieses Gesetzes sind
-
-1.  E-Geld im Sinne des § 1 Absatz 2 Satz 3 des Zahlungsdiensteaufsichtsgesetzes oder
-
-
-2.  ein monetärer Wert, der die Anforderungen des § 2 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes erfüllt oder nur für Zahlungsvorgänge nach § 2 Absatz 1 Nummer 11 des Zahlungsdiensteaufsichtsgesetzes eingesetzt wird.
-
-
-
-Derivate sind
+Hinterlegungsscheine im Sinne dieses Gesetzes sind Wertpapiere, die auf dem Kapitalmarkt handelbar sind, ein Eigentumsrecht an Wertpapieren von Emittenten mit Sitz im Ausland verbriefen, zum Handel auf einem organisierten Markt zugelassen sind und unabhängig von den Wertpapieren des jeweiligen gebietsfremden Emittenten gehandelt werden können. Geldmarktinstrumente sind Instrumente im Sinne des Artikels 11 der Delegierten Verordnung (EU) 2017/565 mit Ausnahme von Zahlungsinstrumenten. Kryptowerte sind solche im Sinne des Artikels 3 Absatz 1 Nummer 5 der Verordnung (EU) 2023/1114. Keine Kryptowerte im Sinne dieses Gesetzes sind solche nach Artikel 4 Absatz 3 Buchstabe c der Verordnung (EU) 2023/1114. Derivate sind
 
 1.  als Kauf, Tausch oder anderweitig ausgestaltete Festgeschäfte oder Optionsgeschäfte, die zeitlich verzögert zu erfüllen sind und deren Wert sich unmittelbar oder mittelbar vom Preis oder Maß eines Basiswertes ableitet (Termingeschäfte) mit Bezug auf die folgenden Basiswerte:
 
     a)  Wertpapiere oder Geldmarktinstrumente,
 
 
-    b)  Devisen, soweit das Geschäft nicht die Voraussetzungen des Artikels 10 der Delegierten Verordnung (EU) 2017/565 erfüllt, oder Rechnungseinheiten,
+    b)  Devisen, soweit das Geschäft nicht die Voraussetzungen des Artikels 10 der Delegierten Verordnung (EU) 2017/565 erfüllt, Rechnungseinheiten oder Kryptowerte,
 
 
     c)  Zinssätze oder andere Erträge,
@@ -397,7 +411,7 @@ dient. Gehört der Sicherungsgeber zu den in Artikel 1 Abs. 2 Buchstabe e der Ri
 
 (19) Finanzbranche im Sinne dieses Gesetzes sind folgende Branchen:
 
-1.  die Banken- und Wertpapierdienstleistungsbranche; dieser gehören Kreditinstitute im Sinne des Absatzes 1, Finanzdienstleistungsinstitute im Sinne des Absatzes 1a, Wertpapierinstitute im Sinne des Absatzes 3d Satz 2, Kapitalverwaltungsgesellschaften im Sinne des § 17 des Kapitalanlagegesetzbuchs, extern verwaltete Investmentgesellschaften im Sinne des § 1 Absatz 13 des Kapitalanlagegesetzbuchs, Finanzunternehmen im Sinne des Absatzes 3, Anbieter von Nebendienstleistungen oder entsprechende Unternehmen mit Sitz im Ausland sowie E-Geld-Institute im Sinne des § 1 Absatz 2 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes sowie Zahlungsinstitute im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes an;
+1.  die Banken- und Wertpapierdienstleistungsbranche; dieser gehören Kreditinstitute im Sinne des Absatzes 1, Finanzdienstleistungsinstitute im Sinne des Absatzes 1a, Wertpapierinstitute im Sinne des Absatzes 3d Satz 2, Kapitalverwaltungsgesellschaften im Sinne des § 17 des Kapitalanlagegesetzbuchs, extern verwaltete Investmentgesellschaften im Sinne des § 1 Absatz 13 des Kapitalanlagegesetzbuchs, Finanzunternehmen im Sinne des Absatzes 3, Anbieter von Nebendienstleistungen oder entsprechende Unternehmen mit Sitz im Ausland sowie E-Geld-Institute im Sinne des § 1 Absatz 2 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes sowie Zahlungsinstitute im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes an und Institute im Sinne des § 2 Absatz 4 des Kryptomärkteaufsichtsgesetzes;
 
 
 2.  die Versicherungsbranche; dieser gehören Erst- und Rückversicherungsunternehmen im Sinne des § 7 Nummer 33 des Versicherungsaufsichtsgesetzes, Versicherungs-Holdinggesellschaften im Sinne des § 7 Nummer 31 des Versicherungsaufsichtsgesetzes oder entsprechende Unternehmen mit Sitz im Ausland an; zu den Versicherungsunternehmen im Sinne des ersten Halbsatzes gehören weder die Sterbekassen noch die in § 1 Absatz 4 und § 3 des Versicherungsaufsichtsgesetzes genannten Unternehmen und Einrichtungen.
@@ -537,7 +551,21 @@ Spareinlagen im Sinne des Satzes 1 Nummer 3 Buchstabe a sind
 
 sind, gelten vorbehaltlich des § 2 Absatz 7 bis 9f die Vorgaben der Verordnung (EU) Nr. 575/2013 und des Kapitels 2 der Verordnung (EU) 2017/2402 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 zur Festlegung eines allgemeinen Rahmens für Verbriefungen und zur Schaffung eines spezifischen Rahmens für einfache, transparente und standardisierte Verbriefung und zur Änderung der Richtlinien 2009/65/EG, 2009/138/EG, 2011/61/EU und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 648/2012 (ABl. L 347 vom 28.12.2017, S. 35), die Vorgaben der auf Grundlage der Verordnung (EU) Nr. 575/2013 und des Kapitels 2 der Verordnung (EU) 2017/2402 erlassenen Rechtsakte, die Bestimmungen dieses Gesetzes, die auf Vorgaben der Verordnung (EU) Nr. 575/2013 oder des Kapitels 2 der Verordnung (EU) 2017/2402 verweisen, sowie die in Ergänzung der Verordnung (EU) Nr. 575/2013 erlassenen Rechtsverordnungen nach § 10 Absatz 1 Satz 1 und § 13 Absatz 1 so, als seien diese Institute CRR-Kreditinstitute.
 
-(2) (weggefallen)
+(2) Für Einrichtungen, die in Artikel 2 Absatz 5 Nummer 5 der Richtlinie 2013/36/EU namentlich genannt werden, gelten die Vorgaben der Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU)
+2016/1011              (ABl. L 333 vom 27.12.2022, S. 1) und die Vorgaben der auf Grundlage der Verordnung (EU) 2022/2554 erlassenen Rechtsakte sowie die Bestimmungen dieses Gesetzes, die auf Vorgaben der Verordnung (EU) 2022/2554 verweisen, als wenn diese Einrichtungen CRR-Kreditinstitute wären.
+
+(2a) Für Institute, die nicht nach Artikel 2 der Verordnung (EU) 2022/2554 im Geltungsbereich der Verordnung (EU) 2022/2554 liegen, gelten die Vorgaben der Verordnung (EU) 2022/2554 und die Vorgaben der auf Grundlage der Verordnung (EU) 2022/2554 erlassenen Rechtsakte sowie die Bestimmungen dieses Gesetzes, die auf Vorgaben der Verordnung (EU) 2022/2554 verweisen so, als wären diese Institute. Abweichend von Satz 1 finden
+
+1.  anstelle der Vorgaben der Artikel 5 bis 15 der Verordnung (EU) 2022/2554 die Vorgaben des vereinfachten Informations- und Kommunikationstechnologien-Risikomanagementrahmens nach Artikel 16 der Verordnung (EU) 2022/2554 Anwendung,
+
+
+2.  die Vorgaben an die Durchführung der bedrohungsgeleiteten Penetrationstests nach den Artikeln 26 und 27 der Verordnung (EU) 2022/2554 keine Anwendung,
+
+
+3.  die Vorgaben an das IKT-Drittparteienrisikomanagement nach den Artikeln 28 bis 30 der Verordnung (EU) 2022/2554 auf Kleinstunternehmen im Sinne von Artikel 3 Nummer 60 der Verordnung (EU) 2022/2554 keine Anwendung.
+
+
+
 
 (3) Für Kreditinstitute und Finanzdienstleistungsinstitute, die keine CRR-Kreditinstitute und keine Wohnungsunternehmen mit Spareinrichtung sind, gelten die Vorgaben von Artikel 4 Absatz 1 Unterabsatz 1, Artikel 5a Absatz 1, der Artikel 8b bis 8d der Verordnung (EG) Nr. 1060/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über Ratingagenturen (ABl. L 302 vom 17.11.2009, S. 1; L 350 vom 29.12.2009, S. 59; L 145 vom 31.5.2011, S. 57; L 267 vom 6.9.2014, S. 30), die zuletzt durch die Verordnung (EU) 2017/2402 (ABl. L 347 vom 28.12.2017, S. 35) geändert worden ist, und die auf ihrer Grundlage erlassenen Rechtsakte so, als seien diese Kreditinstitute und Finanzdienstleistungsinstitute CRR-Kreditinstitute.
 
@@ -612,7 +640,7 @@ Eine natürliche oder juristische Person oder eine Personengesellschaft gilt als
     d)  das Unternehmen der Bundesanstalt auf Anforderung die Umstände mitteilt, auf Grund derer es zu der Auffassung gelangt, dass seine Tätigkeit eine Nebentätigkeit zu seiner Haupttätigkeit darstellt;
 
 
-    e)  das Unternehmen auf Anforderung der Bundesanstalt unverzüglich mitteilt, aufgrund welcher Tatsachen und Berechnungsverfahren gemäß der Delegierten Verordnung (EU) 2017/592 es die Ausnahme in Anspruch nimmt;
+    e)  (weggefallen)
 
 
 
@@ -728,7 +756,7 @@ Eine natürliche oder juristische Person oder eine Personengesellschaft gilt als
     d)  das Unternehmen der Bundesanstalt auf Anforderung die Umstände mitteilt, auf Grund derer es zu der Auffassung gelangt, dass seine Tätigkeit eine Nebentätigkeit zu seiner Haupttätigkeit darstellt.
 
 
-    e)  das Unternehmen auf Anforderung der Bundesanstalt unverzüglich mitteilt, aufgrund welcher Tatsachen und Berechnungsverfahren gemäß der Delegierten Verordnung (EU) 2017/592 es die Ausnahme in Anspruch nimmt;
+    e)  (weggefallen)
 
 
 
@@ -785,7 +813,7 @@ Für Einrichtungen und Unternehmen im Sinne des Satzes 1 Nr. 3 und 4 gelten die 
 
 (7a) Auf Unternehmen, die ausschließlich Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 9 oder Nummer 10 erbringen, sind die §§ 10, 10c bis 10i, 11 bis 13c, 15 bis 18 und 24 Absatz 1 Nummer 4, 9, 11, 14 bis 14b, 16 und 17, Absatz 1a Nummer 5, die §§ 25, 25a Absatz 5 und 5b, § 25d Absatz 7 Satz 2, die §§ 26a und 33 Absatz 1 Satz 1 Nummer 1 und die §§ 45, 46b und 46c dieses Gesetzes sowie die Artikel 24 bis 455 und 465 bis 519 der Verordnung (EU) Nr. 575/2013 nicht anzuwenden.
 
-(7b) Auf Finanzdienstleistungsinstitute, die außer dem Kryptoverwahrgeschäft oder der Kryptowertpapierregisterführung keine weiteren Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 erbringen, sind die §§ 10, 10c bis 18 und 24 Absatz 1 Nummer 14 bis 14b, die §§ 24a und 25a Absatz 5, die §§ 26a und 45 dieses Gesetzes sowie die Artikel 39, 41, 50 bis 403 und 411 bis 455 der Verordnung (EU) Nr. 575/2013 nicht anzuwenden.
+(7b) Auf Finanzdienstleistungsinstitute, die außer dem qualifizierten Kryptoverwahrgeschäft oder der Kryptowertpapierregisterführung keine weiteren Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 erbringen, sind die §§ 10, 10c bis 18 und 24 Absatz 1 Nummer 14 bis 14b, die §§ 24a und 25a Absatz 5, die §§ 26a und 45 dieses Gesetzes sowie die Artikel 39, 41, 50 bis 403 und 411 bis 455 der Verordnung (EU) Nr. 575/2013 nicht anzuwenden.
 
 (8) (weggefallen)
 
@@ -1284,6 +1312,8 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 und setzt ihnen gegenüber in Fällen der Nummer 1 die Einhaltung der Anforderungen nach den Artikeln 6 bis 9, in Fällen der Nummer 2 die Einhaltung der Anforderungen nach den Artikeln 18 bis 27 und in Fällen der Nummer 3 die Einhaltung der Anforderungen nach Artikel 28 der Verordnung (EU) 2017/2402 und der auf Grundlage der Verordnung (EU) 2017/2402 erlassenen Rechtsakte nach den Vorschriften dieses Gesetzes durch, soweit nicht § 295 Absatz 1 Nummer 4 des Versicherungsaufsichtsgesetzes oder § 5 Absatz 12 des Kapitalanlagegesetzbuchs anzuwenden sind. Im Fall einer als „europäische grüne Anleihe“ bezeichneten Verbriefungsanleihe im Sinne des Artikels 16 der Verordnung (EU) 2023/2631 des Europäischen Parlaments und des Rates vom 22. November 2023 über europäische grüne Anleihen sowie fakultative Offenlegungen zu als ökologisch nachhaltig vermarkteten Anleihen und zu an Nachhaltigkeitsziele geknüpften Anleihen (ABl. L, 2023/2631, 30.11.2023), die durch die Verordnung (EU) 2023/2869 (ABl. L, 2023/2869, 20.12.2023) geändert worden ist, setzt die Bundesanstalt gemäß Artikel 44 Absatz 2 der Verordnung (EU) 2023/2631 als zuständige Behörde die an einen Originator gestellten Anforderungen nach der Verordnung (EU) 2023/2631 und nach der auf ihrer Grundlage erlassenen delegierten Rechtsakte und technischen Durchführungs- und Regulierungsstandards der Europäischen Kommission sowie die dazu erlassenen gesetzlichen Regelungen im Wertpapierprospektgesetz und Wertpapierhandelsgesetz durch, soweit nicht § 295 Absatz 1 Nummer 4a des Versicherungsaufsichtsgesetzes oder § 5 Absatz 12 des Kapitalanlagegesetzbuchs anzuwenden sind.
 
 (1f) Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 2 Nummer 18 der Verordnung (EU) 2019/1238 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1) nach den Vorschriften dieses Gesetzes, soweit nicht § 295 Absatz 1 Nummer 7 des Versicherungsaufsichtsgesetzes, § 32a Absatz 1 des Wertpapierhandelsgesetzes oder § 5 Absatz 13 des Kapitalanlagegesetzbuchs anzuwenden sind.
+
+(1g) Die Aufsichtsbehörden nach § 1 Absatz 5 sind zuständige Behörden nach Artikel 46 der Verordnung (EU) 2022/2554. Bei der Durchführung der Aufgaben nach den Artikeln 26 und 27 der Verordnung (EU) 2022/2554 wirkt die Bundesanstalt mit der Deutschen Bundesbank zusammen. Die Deutsche Bundesbank nimmt die operativen Aufgaben nach den Artikeln 26 und 27 der Verordnung (EU) 2022/2554 wahr. § 7 Absatz 3 und 4 gilt entsprechend.
 
 (2) Die Bundesanstalt hat Mißständen im Kredit- und Finanzdienstleistungswesen entgegenzuwirken, welche die Sicherheit der den Instituten anvertrauten Vermögenswerte gefährden, die ordnungsmäßige Durchführung der Bankgeschäfte oder Finanzdienstleistungen beeinträchtigen oder erhebliche Nachteile für die Gesamtwirtschaft herbeiführen können.
 
@@ -3749,7 +3779,7 @@ Im Übrigen hat der Verwalter des Refinanzierungsregisters die inhaltliche Richt
 
 (1d) Ein CRR-Kreditinstitut, das bedeutend im Sinne des § 1 Absatz 3c ist oder das von der Bundesanstalt oder der Deutschen Bundesbank dazu aufgefordert wurde, hat der Aufsichtsbehörde und der Deutschen Bundesbank dreijährlich die Informationen zum geschlechtsspezifischen Lohngefälle anzuzeigen, die für die Zwecke des Artikels 75 Absatz 1 der Richtlinie 2013/36/EU erforderlich sind.
 
-(2) Hat ein Institut die Absicht, sich mit einem anderen Institut im Sinne dieses Gesetzes, E-Geld-Institut im Sinne des Zahlungsdiensteaufsichtsgesetzes oder Zahlungsinstitut im Sinne des Zahlungsdiensteaufsichtsgesetzes zu vereinigen, hat es dies der Aufsichtsbehörde und der Deutschen Bundesbank unverzüglich anzuzeigen.
+(2) Hat ein Institut die Absicht, sich mit einem anderen Institut im Sinne dieses Gesetzes, einem Wertpapierinstitut im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes, einem E-Geld-Institut im Sinne des Zahlungsdiensteaufsichtsgesetzes, einem Zahlungsinstitut im Sinne des Zahlungsdiensteaufsichtsgesetzes oder einem Institut im Sinne des § 2 Absatz 4 des Kryptomärkteaufsichtsgesetzes zu vereinigen, hat es dies der Aufsichtsbehörde und der Deutschen Bundesbank unverzüglich anzuzeigen.
 
 (2a) Ein Mitglied eines Verwaltungs- oder Aufsichtsorgans eines CRR-Kreditinstituts, das bedeutend im Sinne des § 1 Absatz 3c ist, einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft hat der Aufsichtsbehörde und der Deutschen Bundesbank die Aufnahme und die Beendigung einer Tätigkeit als Geschäftsleiter oder als Aufsichtsrats- oder Verwaltungsratsmitglied eines anderen Unternehmens unverzüglich anzuzeigen.
 
@@ -4486,7 +4516,7 @@ Bedient sich ein CRR-Kreditinstitut eines vertraglich gebundenen Vermittlers im 
 
 (1) Die Bundesanstalt überwacht die Einhaltung der Pflichten der Kreditinstitute nach
 
-1.  der Verordnung (EU) 2015/847 des Europäischen Parlaments und des Rates vom 20. Mai 2015 über die Übermittlung von Angaben bei Geldtransfers und zur Aufhebung der Verordnung (EU) Nr. 1781/2006 (ABl. L 141 vom 5.6.2015, S. 1),
+1.  der Verordnung (EU) 2023/1113 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über die Übermittlung von Angaben bei Geldtransfers und Transfers bestimmter Kryptowerte und zur Änderung der Richtlinie (EU) 2015/849 (ABl. L 150 vom 9.6.2023, S. 1),
 
 
 2.  der Verordnung (EG) Nr. 924/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über grenzüberschreitende Zahlungen in der Gemeinschaft und zur Aufhebung der Verordnung (EG) Nr. 2560/2001 (ABl. L 266 vom 9.10.2009, S. 1), die durch die Verordnung (EU) Nr. 260/2012 (ABl. L 94 vom 30.3.2012, S. 22) geändert worden ist,
@@ -4653,15 +4683,15 @@ Ist das CRR-Kreditinstitut in den Konzernabschluss eines anderen Mutterunternehm
 (2) Kommt ein Institut seinen Offenlegungspflichten in anderen als den in Artikel 432 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung genannten Fällen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nach, kann die Bundesanstalt im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, die ordnungsgemäße Offenlegung der Informationen zu veranlassen. Die Bundesanstalt kann von den Artikeln 433 bis 434 der Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung abweichende Zeitpunkte und Orte für die Veröffentlichung festlegen oder die Offenlegung zusätzlicher Informationen verlangen.
 
 
-### 5d. - Besondere Pflichten bei Kryptoverwahrung
+### 5d. - Besondere Pflichten bei qualifizierter Kryptoverwahrung
 
 
 
 #### § 26b Vermögenstrennung
 
-(1) Ein Institut, das das Kryptoverwahrgeschäft betreibt, hat sicherzustellen, dass die Kryptowerte und privaten kryptographischen Schlüssel der Kunden getrennt von den Kryptowerten und privaten kryptographischen Schlüsseln des Instituts verwahrt werden. Werden Kryptowerte mehrerer Kunden gebündelt verwahrt (gemeinschaftliche Verwahrung), so ist sicherzustellen, dass sich die den einzelnen Kunden zustehenden Anteile am gemeinschaftlich verwahrten Gesamtbestand jederzeit bestimmen lassen.
+(1) Ein Institut, das das qualifizierte Kryptoverwahrgeschäft betreibt, hat sicherzustellen, dass die kryptografischen Instrumente und privaten kryptographischen Schlüssel der Kunden getrennt von den kryptografischen Instrumenten und privaten kryptographischen Schlüsseln des Instituts verwahrt werden. Werden kryptografische Instrumente mehrerer Kunden gebündelt verwahrt (gemeinschaftliche Verwahrung), so ist sicherzustellen, dass sich die den einzelnen Kunden zustehenden Anteile am gemeinschaftlich verwahrten Gesamtbestand jederzeit bestimmen lassen.
 
-(2) Das Institut hat sicherzustellen, dass über die verwahrten Kryptowerte und privaten kryptographischen Schlüssel des Kunden ohne dessen ausdrückliche Einwilligung nicht für eigene Rechnung des Instituts oder für Rechnung einer anderen Person verfügt werden kann.
+(2) Das Institut hat sicherzustellen, dass über die verwahrten kryptografischen Instrumente und privaten kryptographischen Schlüssel des Kunden ohne dessen ausdrückliche Einwilligung nicht für eigene Rechnung des Instituts oder für Rechnung einer anderen Person verfügt werden kann.
 
 
 ### 6. - Prüfung und Prüferbestellung
@@ -4703,7 +4733,7 @@ Die Bestellung durch das Gericht ist endgültig. § 318 Abs. 5 des Handelsgesetz
 
 2.  die Anforderungen
 
-    a)  nach § 3 Absatz 2 und 3, nach den §§ 10a, 10c bis 10j jeweils auch in Verbindung mit einer Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 5, nach den §§ 11, 13 bis 13c, 18, 18a, 25 Absatz 1 und 2, § 25a Absatz 1 Satz 3 jeweils auch in Verbindung mit einer Rechtsverordnung nach § 25 Absatz 3 und § 25a Absatz 5 auch in Verbindung mit einer Rechtsverordnung nach § 25a Absatz 6, nach § 25a Absatz 1 Satz 6 Nummer 1, Absatz 3, nach den §§ 25b, 25c Absatz 2 bis 4b, § 25d Absatz 3 bis 12, § 26a, nach den §§ 13 und 14 Absatz 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 22, nach § 51a Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51a Absatz 1, nach § 51b Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51b Absatz 2 und nach § 51c Absatz 1,
+    a)  nach § 3 Absatz 2 und 3, nach den §§ 10a, 10c bis 10j jeweils auch in Verbindung mit einer Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 5, nach den §§ 11, 13 bis 13c, 18, 18a, 25 Absatz 1 und 2, § 25a Absatz 1 Satz 3 jeweils auch in Verbindung mit einer Rechtsverordnung nach § 25 Absatz 3 und § 25a Absatz 5 auch in Verbindung mit einer Rechtsverordnung nach § 25a Absatz 6, nach § 25a Absatz 1 Satz 6 Nummer 1, Absatz 3, nach den §§ 25b, 25c Absatz 2 bis 4b, § 25d Absatz 3 bis 12, nach den §§ 26a und § 26b, nach den §§ 13 und 14 Absatz 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 22, nach § 51a Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51a Absatz 1, nach § 51b Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51b Absatz 2 und nach § 51c Absatz 1,
 
 
     b)  nach den §§ 17, 20, 23, 25 und 27 des Finanzkonglomerate-Aufsichtsgesetzes,
@@ -4733,10 +4763,15 @@ Die Bestellung durch das Gericht ist endgültig. § 318 Abs. 5 des Handelsgesetz
     j)  nach den Artikeln 5 bis 9, 18 bis 26, 26b bis 26e, 27 Absatz 1 und 4 sowie nach Artikel 43 Absatz 5 und 6 der Verordnung (EU) 2017/2402,
 
 
-    k)  nach den §§ 7 bis 14 und 16 bis 22 des Gesetzes über elektronische Wertpapiere, auch in Verbindung mit einer Rechtsverordnung nach § 15 oder § 23 des Gesetzes über elektronische Wertpapiere und
+    k)  nach § 5 Absatz 1 und 2 sowie den §§ 7 bis 14 und 16 bis 22 des Gesetzes über elektronische Wertpapiere, auch in Verbindung mit einer Rechtsverordnung nach § 15 oder § 23 des Gesetzes über elektronische Wertpapiere und
 
 
-    l)  nach den Artikeln 3 bis 11 der Verordnung (EU) 2022/858 des Europäischen Parlaments und des Rates vom 30. Mai 2022 über eine Pilotregelung für auf Distributed-Ledger-Technologie basierende Marktinfrastrukturen und zur Änderung der Verordnungen (EU) Nr. 600/2014 und (EU) Nr. 909/2014 sowie der Richtlinie 2014/65/EU (ABl. L 151 vom 2.6.2022, S. 1), sofern die davon betroffenen Geschäfte von dem Institut erbracht werden.
+    l)  nach den Artikeln 3 bis 11 der Verordnung (EU) 2022/858 des Europäischen Parlaments und des Rates vom 30. Mai 2022 über eine Pilotregelung für auf Distributed-Ledger-Technologie basierende Marktinfrastrukturen und zur Änderung der Verordnungen (EU) Nr. 600/2014 und (EU) Nr. 909/2014 sowie der Richtlinie 2014/65/EU (ABl. L 151 vom 2.6.2022, S. 1), sofern die davon betroffenen Geschäfte von dem Institut erbracht werden und
+
+
+
+
+    m)  nach den Artikeln 5 bis 14, 16 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung mit einer Delegierten Verordnung nach den Artikeln 15, 16, 20, 28 oder Artikel 30 der Verordnung (EU) 2022/2554.
 
 
 
@@ -4749,7 +4784,7 @@ Ist ein Institut nach § 2a Absatz 1 freigestellt, hat der Prüfer den Fortbesta
 
 (1b) Bei der Prüfung des Jahresabschlusses eines Zentralverwahrers ist auch zu prüfen, ob die Anforderungen nach den Artikeln 6, 7, 26 bis 53, 54 Absatz 3 und nach Artikel 59 der Verordnung (EU) Nr. 909/2014 sowie nach den gemäß diesen Artikeln von der Europäischen Kommission erlassenen technischen Regulierungs- und Durchführungsstandards eingehalten sind. Bei der Prüfung des Jahresabschlusses eines Kreditinstituts, das von einem Zentralverwahrer nach Artikel 54 Absatz 4 der Verordnung (EU) Nr. 909/2014 dazu benannt wurde, bankartige Nebendienstleistungen zu erbringen, ist zudem zu prüfen, ob die Anforderungen nach Artikel 54 Absatz 4 und Artikel 59 der Verordnung (EU) Nr. 909/2014 sowie nach den gemäß diesen Artikeln von der Europäischen Kommission erlassenen technischen Regulierungs- und Durchführungsstandards eingehalten sind. Die Sätze 1 und 2 gelten entsprechend für den verkürzten Abschluss eines Zentralverwahrers, wenn ein solcher nach den gesetzlichen Vorgaben zu erstellen ist.
 
-(2) Der Prüfer hat auch zu prüfen, ob das Institut seinen Verpflichtungen nach den §§ 24c und 25g Absatz 1 und 2, den §§ 25h bis 25m und dem Geldwäschegesetz nachgekommen ist; bei Kreditinstituten hat der Prüfer auch zu prüfen, ob das Kreditinstitut seinen Verpflichtungen nach der Verordnung (EG) Nr. 924/2009, der Verordnung (EU) Nr. 260/2012, der Verordnung (EU) 2015/847 des Europäischen Parlaments und des Rates vom 20. Mai 2015 über die Übermittlung von Angaben bei Geldtransfers und zur Aufhebung der Verordnung (EU) Nr. 1781/2006 (ABl. L 141 vom 5.6.2015, S. 1), der Verordnung (EU) 2015/751, dem Zahlungskontengesetz und den §§ 45, 46 und 48 bis 55 des Zahlungsdiensteaufsichtsgesetzes nachgekommen ist. Zudem hat er die Einhaltung der Mitteilungs- und Veröffentlichungspflichten und sonstigen Anforderungen der Artikel 5 bis 10 und 12 bis 14 der Verordnung (EU) Nr. 236/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 über Leerverkäufe und bestimmte Aspekte von Credit Default Swaps (ABl. L 86 vom 24.3.2012, S. 1) zu prüfen. Bei Instituten, Zweigniederlassungen im Sinne des § 53b und Zweigstellen im Sinne des § 53, die das Depotgeschäft betreiben, hat er dieses Geschäft besonders zu prüfen, soweit es nicht nach § 89 Absatz 1 Satz 2 des Wertpapierhandelsgesetzes zu prüfen ist; diese Prüfung hat sich auch auf die Einhaltung des § 67a Absatz 3 und des § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 des Aktiengesetzes über Mitteilungspflichten und des § 135 des Aktiengesetzes über die Ausübung des Stimmrechts zu erstrecken. Bei Zentralverwahrern ist auch besonders zu prüfen, ob die Bestimmungen des Depotgesetzes, der §§ 7 bis 10 und 12 und 13 des Gesetzes über elektronische Wertpapiere, auch in Verbindung mit einer Rechtsverordnung nach § 15 des Gesetzes über elektronische Wertpapiere, sowie des § 67a Absatz 3, des § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 und des § 135 des Aktiengesetzes eingehalten werden. Bei Pfandbriefbanken im Sinne des § 1 Absatz 1 Satz 1 des Pfandbriefgesetzes ist die Einhaltung der organisatorischen Anforderungen an die Verfahren und Systeme aus § 4 Absatz 4, den §§ 5, 16, 24, 26d, 27, 27a sowie 28 des Pfandbriefgesetzes zu prüfen. Über die Prüfungen nach den Sätzen 1 bis 5 ist jeweils gesondert zu berichten; § 26 Abs. 1 Satz 3 gilt entsprechend.
+(2) Der Prüfer hat auch zu prüfen, ob das Institut seinen Verpflichtungen nach den §§ 24c und 25g Absatz 1 und 2, den §§ 25h bis 25m und dem Geldwäschegesetz nachgekommen ist; bei Kreditinstituten hat der Prüfer auch zu prüfen, ob das Kreditinstitut seinen Verpflichtungen nach der Verordnung (EG) Nr. 924/2009, der Verordnung (EU) Nr. 260/2012, der Verordnung (EU) 2023/1113, der Verordnung (EU) 2015/751, dem Zahlungskontengesetz und den §§ 45, 46 und 48 bis 55 des Zahlungsdiensteaufsichtsgesetzes nachgekommen ist. Zudem hat er die Einhaltung der Mitteilungs- und Veröffentlichungspflichten und sonstigen Anforderungen der Artikel 5 bis 10 und 12 bis 14 der Verordnung (EU) Nr. 236/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 über Leerverkäufe und bestimmte Aspekte von Credit Default Swaps (ABl. L 86 vom 24.3.2012, S. 1) zu prüfen. Bei Instituten, Zweigniederlassungen im Sinne des § 53b und Zweigstellen im Sinne des § 53, die das Depotgeschäft betreiben, hat er dieses Geschäft besonders zu prüfen, soweit es nicht nach § 89 Absatz 1 Satz 2 des Wertpapierhandelsgesetzes zu prüfen ist; diese Prüfung hat sich auch auf die Einhaltung des § 67a Absatz 3 und des § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 des Aktiengesetzes über Mitteilungspflichten und des § 135 des Aktiengesetzes über die Ausübung des Stimmrechts zu erstrecken. Bei Zentralverwahrern ist auch besonders zu prüfen, ob die Bestimmungen des Depotgesetzes, der §§ 7 bis 10 und 12 und 13 des Gesetzes über elektronische Wertpapiere, auch in Verbindung mit einer Rechtsverordnung nach § 15 des Gesetzes über elektronische Wertpapiere, sowie des § 67a Absatz 3, des § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 und des § 135 des Aktiengesetzes eingehalten werden. Bei Pfandbriefbanken im Sinne des § 1 Absatz 1 Satz 1 des Pfandbriefgesetzes ist die Einhaltung der organisatorischen Anforderungen an die Verfahren und Systeme aus § 4 Absatz 4, den §§ 5, 16, 24, 26d, 27, 27a sowie 28 des Pfandbriefgesetzes zu prüfen. Über die Prüfungen nach den Sätzen 1 bis 5 ist jeweils gesondert zu berichten; § 26 Abs. 1 Satz 3 gilt entsprechend.
 
 (3) Der Prüfer hat unverzüglich der Bundesanstalt und der Deutschen Bundesbank anzuzeigen, wenn ihm bei der Prüfung Tatsachen bekannt werden, welche die Einschränkung oder Versagung des Bestätigungsvermerkes rechtfertigen, die den Bestand des Instituts gefährden oder seine Entwicklung wesentlich beeinträchtigen können, die einen erheblichen Verstoß gegen die Vorschriften über die Zulassungsvoraussetzungen des Instituts oder die Ausübung einer Tätigkeit nach diesem Gesetz darstellen oder die schwerwiegende Verstöße der Geschäftsleiter gegen Gesetz, Satzung oder Gesellschaftsvertrag erkennen lassen. Auf Verlangen der Bundesanstalt oder der Deutschen Bundesbank hat der Prüfer ihnen die Art und den Umfang seines Vorgehens darzustellen, den Prüfungsbericht zu erläutern und sonstige bei der Prüfung bekannt gewordene Tatsachen mitzuteilen, die gegen eine ordnungsgemäße Durchführung der Geschäfte des Instituts sprechen. Die Anzeige-, Erläuterungs- und Mitteilungspflichten nach den Sätzen 1 und 2 bestehen auch in Bezug auf ein Unternehmen, das mit dem Institut in enger Verbindung steht, sofern dem Prüfer die Tatsachen im Rahmen der Prüfung des Instituts bekannt werden. Der Prüfer haftet nicht für die Richtigkeit von Tatsachen, die er nach diesem Absatz in gutem Glauben anzeigt.
 
@@ -4911,10 +4946,10 @@ Die nach Satz 5 einzureichenden Anzeigen und vorzulegenden Unterlagen sind durch
     b)  das Eigengeschäft in jedem dieser Fälle sowohl auf individueller als auch auf auf Ebene der Unternehmensgruppe aggregierter Basis eine Nebentätigkeit zur Haupttätigkeit darstellt; die Kriterien, wann eine Nebentätigkeit vorliegt, werden in einem auf der Grundlage von Artikel 2 Absatz 4 und Artikel 89 der Richtlinie 2014/65/EU erlassenen delegierten Rechtsakt der Kommission bestimmt,
 
 
-    c)  das Unternehmen der Bundesanstalt auf Anforderung die Umstände mitteilt, auf Grund derer es zu der Auffassung gelangt, dass seine Tätigkeit eine Nebentätigkeit zu seiner Haupttätigkeit darstellt.
+    c)  das Unternehmen der Bundesanstalt auf Anforderung die Umstände mitteilt, auf Grund derer es zu der Auffassung gelangt, dass seine Tätigkeit eine Nebentätigkeit zu seiner Haupttätigkeit darstellt,
 
 
-    d)  das Unternehmen auf Anforderung der Bundesanstalt unverzüglich mitteilt, aufgrund welcher Tatsachen und Berechnungsverfahren gemäß der Delegierten Verordnung (EU) 2017/592 es die Ausnahme in Anspruch nimmt,
+    d)  (weggefallen)
 
 
 
@@ -4959,7 +4994,7 @@ Das Nähere zu Inhalt und Form des Erlaubnisantrages regeln die technischen Regu
 
 (2) Die Bundesanstalt kann die Erlaubnis unter Auflagen erteilen, die sich im Rahmen des mit diesem Gesetz verfolgten Zweckes halten müssen. Sie kann die Erlaubnis auf einzelne Bankgeschäfte oder Finanzdienstleistungen beschränken.
 
-(2a) Die Erlaubnis nach § 32 Absatz 1 Satz 1 zum Betreiben der Bankgeschäfte nach § 1 Absatz 1 Satz 2 Nummer 4 und 10 sowie zum Erbringen der Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 1 bis 4 kann, außer in den Fällen des Absatzes 1 Satz 2, nur erteilt werden, wenn die Erlaubnis zur Erbringung mindestens eines anderen Bankgeschäfts vorliegt oder gleichzeitig erteilt wird. Satz 1 gilt nicht, wenn zugleich eine Erlaubnis für das Kryptoverwahrgeschäft erteilt wird und sich die betriebenen Bankgeschäfte sowie die erbrachten Finanzdienstleistungen auf Rechnungseinheiten im Sinne des § 1 Absatz 11 Nummer 7 oder Kryptowerte im Sinne des § 1 Absatz 11 Nummer 10 beziehen.
+(2a) Die Erlaubnis nach § 32 Absatz 1 Satz 1 zum Betreiben der Bankgeschäfte nach § 1 Absatz 1 Satz 2 Nummer 4 und 10 sowie zum Erbringen der Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 1 bis 4 kann, außer in den Fällen des Absatzes 1 Satz 2, nur erteilt werden, wenn die Erlaubnis zur Erbringung mindestens eines anderen Bankgeschäfts vorliegt oder gleichzeitig erteilt wird. Satz 1 gilt nicht, wenn zugleich eine Erlaubnis für das qualifizierte Kryptoverwahrgeschäft erteilt wird und sich die betriebenen Bankgeschäfte sowie die erbrachten Finanzdienstleistungen auf Rechnungseinheiten im Sinne des § 1 Absatz 11 Nummer 7 oder kryptografische Instrumente im Sinne des § 1 Absatz 1a Satz 9 und 10 beziehen.
 
 (3) Vor Erteilung der Erlaubnis hat die Bundesanstalt die für das Institut in Betracht kommende Sicherungseinrichtung zu hören.
 
@@ -5842,13 +5877,13 @@ Die Höhe des Rückzahlungsbetrages oder des Zinszahlungsbetrages gilt nicht ber
 (2) Die nach Absatz 1 sowie die nach § 46g Absatz 1 erlassenen Rechtsverordnungen treten, wenn sie nicht vorher aufgehoben worden sind, drei Monate nach ihrer Verkündung außer Kraft.
 
 
-#### § 46i Zuordnung verwahrter Kryptowerte; Kosten der Aussonderung
+#### § 46i Zuordnung verwahrter kryptografischer Instrumente; Kosten der Aussonderung
 
-(1) Der im Rahmen eines Kryptoverwahrgeschäfts für einen Kunden verwahrte Kryptowert gilt als dem Kunden gehörig. Das gilt nicht, wenn der Kunde die Einwilligung zu Verfügungen über den verwahrten Wert für Rechnung des Instituts oder Dritter erteilt hat.
+(1) Das im Rahmen eines qualifizierten Kryptoverwahrgeschäfts für einen Kunden verwahrte kryptografische Instrument gilt als dem Kunden gehörig. Das gilt nicht, wenn der Kunde die Einwilligung zu Verfügungen über den verwahrten Wert für Rechnung des Instituts oder Dritter erteilt hat.
 
-(2) Absatz 1 gilt entsprechend für den dem Kunden zustehenden Anteil an Kryptowerten in gemeinschaftlicher Verwahrung sowie für isoliert verwahrte private kryptographische Schlüssel.
+(2) Absatz 1 gilt im Rahmen eines qualifizierten Kryptoverwahrgeschäfts entsprechend für den dem Kunden zustehenden Anteil an kryptografischen Instrumenten in gemeinschaftlicher Verwahrung sowie für isoliert verwahrte private kryptographische Schlüssel.
 
-(3) Stimmt der Kunde im Insolvenzverfahren über das Vermögen des Instituts einer Aussonderung im Wege der Übertragung des vom Institut verwahrten Gesamtbestands auf ein vom Insolvenzverwalter bestimmtes Institut, welches das Kryptoverwahrgeschäft betreibt, nicht zu, trägt er die Kosten der Aussonderung. Dies gilt nicht, wenn die Bedingungen, zu denen das andere Institut eine Fortführung des Verwahrverhältnisses anbietet, für den Kunden unzumutbar sind. Die Sätze 1 und 2 sind auf die Übertragung wesentlicher Teile des verwahrten Gesamtbestands entsprechend anzuwenden.
+(3) Stimmt der Kunde im Insolvenzverfahren über das Vermögen des Instituts einer Aussonderung im Wege der Übertragung des vom Institut verwahrten Gesamtbestands auf ein vom Insolvenzverwalter bestimmtes Institut, welches das qualifizierte Kryptoverwahrgeschäft betreibt, nicht zu, trägt er die Kosten der Aussonderung. Dies gilt nicht, wenn die Bedingungen, zu denen das andere Institut eine Fortführung des Verwahrverhältnisses anbietet, für den Kunden unzumutbar sind. Die Sätze 1 und 2 sind auf die Übertragung wesentlicher Teile des verwahrten Gesamtbestands entsprechend anzuwenden.
 
 
 #### § 47 Anordnungsbefugnis nach der Verordnung (EU) Nr. 1286/2014
@@ -5868,6 +5903,27 @@ Verstößt ein Institut, das über ein PRIIP im Sinne des Artikels 4 Nummer 3 de
 
 
 
+
+
+#### § 47a Besondere Befugnisse nach der Verordnung (EU) 2022/2554
+
+(1) Die Bundesanstalt kann bei Verstößen gegen die Verordnung (EU) 2022/2554 unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, um die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 im Anwendungsbereich dieses Gesetzes sicherzustellen. Sie kann gegenüber einem Institut insbesondere anordnen,
+
+1.  das gegen diese Verordnung verstoßende Verhalten zu unterlassen und von einer Wiederholung abzusehen,
+
+
+2.  Praktiken oder Verhaltensweisen, die den Bestimmungen der Verordnung zuwiderlaufen, vorübergehend oder dauerhaft einzustellen und nicht zu wiederholen,
+
+
+3.  sicherzustellen, dass weiterhin die rechtlichen Vorgaben erfüllt werden, und
+
+
+4.  Korrektur- und Abhilfemaßnahmen vorzunehmen.
+
+
+
+
+(2) Die Bundesanstalt und die Deutsche Bundesbank können Untersuchungen über die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 im Anwendungsbereich dieses Gesetzes vornehmen. Unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse kann die Bundesanstalt zu diesem Zweck Mitglieder der Organe eines Instituts zu einer Befragung vorladen, damit diese mündliche oder schriftliche Erklärungen zu Sachverhalten oder Unterlagen abgeben, die mit Gegenstand und Zweck der Untersuchung in Zusammenhang stehen, und die mündlichen Erklärungen aufzeichnen. § 44 Absatz 6 gilt entsprechend. Die Bundesanstalt kann die Durchführung der Befragung auf die Deutsche Bundesbank übertragen.
 
 
 #### § 48 Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017/2402
@@ -6029,7 +6085,7 @@ Die Bagatellgrenze nach Satz 1 Nummer 2 beträgt mindestens 50 000 Euro, der un
 
 #### § 49 Sofortige Vollziehbarkeit
 
-(1) Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der Grundlage des § 2c Absatz 1b Satz 1 bis 3, Absatz 2 Satz 1 und Absatz 2a, des § 3 Absatz 4, des § 6 Absatz 1b, der §§ 6a, 6c und 8a Absatz 3 bis 5, des § 10 Absatz 3, 3a und 4, des § 10f Absatz 1 und 2, des § 10g Absatz 1 bis 4, des § 12a Absatz 2, des § 13c Absatz 3 Satz 4, des § 25b Absatz 4a des § 25c Absatz 4c, des § 28 Absatz 1, des § 35 Absatz 2 Nummer 2 bis 6 und Absatz 2a Satz 1, der §§ 36, 37 und 44 Absatz 1, auch in Verbindung mit § 44b, Absatz 2 und 3a Satz 1, des § 44a Absatz 2 Satz 1, der §§ 44c, 45 und 45a Absatz 1, des § 45b Absatz 1, der §§ 45c, 46, 46a, 46b, 48u Absatz 1 und 7, des § 53b Absatz 12, der §§ 53l, 53n Absatz 1 sowie der §§ 53p und 53q Absatz 2 haben keine aufschiebende Wirkung.
+(1) Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der Grundlage des § 2c Absatz 1b Satz 1 bis 3, Absatz 2 Satz 1 und Absatz 2a, des § 3 Absatz 4, des § 6 Absatz 1b, der §§ 6a, 6c und 8a Absatz 3 bis 5, des § 10 Absatz 3, 3a und 4, des § 10f Absatz 1 und 2, des § 10g Absatz 1 bis 4, des § 12a Absatz 2, des § 13c Absatz 3 Satz 4, des § 25b Absatz 4a des § 25c Absatz 4c, des § 28 Absatz 1, des § 35 Absatz 2 Nummer 2 bis 6 und Absatz 2a Satz 1, der §§ 36, 37 und 44 Absatz 1, auch in Verbindung mit § 44b, Absatz 2 und 3a Satz 1, des § 44a Absatz 2 Satz 1, der §§ 44c, 45 und 45a Absatz 1, des § 45b Absatz 1, der §§ 45c, 46, 46a, 46b, 47a, 48u Absatz 1 und 7, des § 53b Absatz 12, der §§ 53l, 53n Absatz 1 sowie der §§ 53p und 53q Absatz 2 haben keine aufschiebende Wirkung.
 
 (2) Widerspruch und Anfechtungsklage gegen Maßnahmen und Entscheidungen der Bundesanstalt auf der Grundlage des Artikels 6 Absatz 4, des Artikels 8 Absatz 1 und des Artikels 63 der Verordnung (EU) 2019/1238 sowie gegen die Androhung und Festsetzung von Zwangsmitteln gegen diese Maßnahmen und Entscheidungen haben keine aufschiebende Wirkung.
 
@@ -7008,7 +7064,7 @@ wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 (3) (weggefallen)
 
-(4) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2015/847 des Europäischen Parlaments und des Rates vom 20. Mai 2015 über begleitende Angaben bei Geldtransfers und zur Aufhebung der Verordnung (EU) Nr. 1781/2006 (ABl. L 141 vom 5.6.2015, S. 1) verstößt, indem er bei Geldtransfers vorsätzlich oder fahrlässig
+(4) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2023/1113 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über die Übermittlung von Angaben bei Geldtransfers und Transfers bestimmter Kryptowerte und zur Änderung der Richtlinie 2015/849 (ABl. L 150 vom 9.6.2023, S. 1) verstößt, indem er bei Geldtransfers vorsätzlich oder fahrlässig
 
 1.  entgegen Artikel 4 Absatz 1, auch in Verbindung mit den Artikeln 5 und 6, nicht sicherstellt, dass die vorgeschriebenen Angaben zum Auftraggeber vollständig übermittelt werden,
 
@@ -7560,15 +7616,55 @@ Die Bestimmungen des Satzes 1 gelten auch für ein Kreditinstitut oder Finanzdie
 
 
 
+(5e) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnung (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  einer vollziehbaren Anordnung nach
+
+    a)  Artikel 6 Absatz 5 Satz 3, Artikel 28 Absatz 3 Unterabsatz 4 oder Artikel 42 Absatz 6 Satz 1 oder
+
+
+    b)  Artikel 16 Absatz 2 Satz 3 oder Artikel 26 Absatz 1 Satz 2
+
+
+
+    zuwiderhandelt,
+
+
+2.  entgegen Artikel 19 Absatz 4 dort genannte Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+
+
+3.  entgegen Artikel 26 Absatz 1 Satz 1 einen Test nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführt,
+
+
+4.  entgegen Artikel 28 Absatz 3 Unterabsatz 3 einen Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+
+
+5.  entgegen Artikel 28 Absatz 3 Unterabsatz 5 die Behörde
+
+    a)  über eine geplante vertragliche Vereinbarung bis zum Abschluss einer solchen Vereinbarung,
+
+
+    b)  unverzüglich über den Fall, dass eine Funktion kritisch oder wichtig geworden ist,
+
+
+
+    nicht, nicht richtig oder nicht vollständig unterrichtet oder
+
+
+6.  entgegen Artikel 45 Absatz 3 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+
+
+
+
 (6) Die Ordnungswidrigkeit kann
 
-1.  in den Fällen des Absatzes 2 Nummer 1 Buchstabe a, b und h, Nummer 3 Buchstabe a und f, Nummer 4 und 12, der Absätze 4f, 4h, 5 Satz 1 Nummer 1 bis 7, 15, 18, 19 und 22 bis 29 und der Absätze 5b bis 5d mit einer Geldbuße bis zu fünf Millionen Euro,
+1.  in den Fällen des Absatzes 2 Nummer 1 Buchstabe a, b und h, Nummer 3 Buchstabe a und f, Nummer 4 und 12, der Absätze 4f, 4h, 5 Satz 1 Nummer 1 bis 7, 15, 18, 19 und 22 bis 29 und der Absätze 5b bis 5e Nummer 2 und 3 mit einer Geldbuße bis zu fünf Millionen Euro,
 
 
 1a. in den Fällen des Absatzes 4g mit einer Geldbuße bis zu siebenhunderttausend Euro,
 
 
-2.  in den Fällen der Absätze 1 und 2 Nummer 3 Buchstabe l und des Absatzes 5a mit einer Geldbuße bis zu fünfhunderttausend Euro,
+2.  in den Fällen der Absätze 1 und 2 Nummer 3 Buchstabe l und der Absätze 5a und 5e Nummer 1, 4, 5 und 6 mit einer Geldbuße bis zu fünfhunderttausend Euro,
 
 
 3.  in den Fällen des Absatzes 2 Nummer 2 Buchstabe a, Nummer 3 Buchstabe b bis e, g bis k und m, Nummer 5 bis 10, 13, 14, 17a und 17b, der Absätze 4, 4b Nummer 1 bis 5 und des Absatzes 4c in Verbindung mit Absatz 1a mit einer Geldbuße bis zu zweihunderttausend Euro und
@@ -7714,7 +7810,7 @@ Abweichend von Satz 1 kann die Bundesanstalt in den Fällen von Satz 1 Nummer 2 
 (5) Die Maßnahmen und Bußgeldentscheidungen im Sinne des Absatzes 1 mit Ausnahme der Bußgeldentscheidungen nach § 56 Absatz 4e sollen mindestens für fünf Jahre ab Bestandskraft der Maßnahme oder ab Unanfechtbarkeit der Bußgeldentscheidung auf den Internetseiten der Bundesanstalt veröffentlicht bleiben. Abweichend von Satz 1 sind personenbezogene Daten zu löschen, sobald ihre Bekanntmachung nicht mehr erforderlich ist.
 
 
-### § 60c Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011 oder die Verordnung (EU) 2017/2402
+### § 60c Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011, die Verordnung (EU) 2017/2402 oder die Verordnung (EU) 2022/2554
 
 (1) Die Bundesanstalt macht Entscheidungen über Maßnahmen und Sanktionen, die wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014 oder Artikel 4 oder 15 der Verordnung (EU) 2015/2365, Artikel 16 Absatz 1 bis 4 der Verordnung (EU) 2016/1011 oder die jeweils darauf basierenden delegierten Rechtsakte erlassen wurden, auf ihrer Internetseite unverzüglich nach Unterrichtung der natürlichen oder juristischen Person, gegen die die Maßnahme oder Sanktion verhängt wurde, bekannt.
 
@@ -7745,7 +7841,7 @@ Abweichend von Satz 1 kann die Bundesanstalt in den Fällen von Satz 1 Nummer 2 
 
 (5) Eine Bekanntmachung nach Absatz 1 ist fünf Jahre nach ihrer Bekanntmachung zu löschen. Abweichend von Satz 1 sind personenbezogene Daten zu löschen, sobald ihre Bekanntmachung nicht mehr erforderlich ist.
 
-(6) Bei bestandskräftigen Maßnahmen und unanfechtbar gewordenen Bußgeldentscheidungen, die wegen eines Verstoßes gegen die Artikel 6, 7, 9 oder 27 Absatz 1 der Verordnung (EU) 2017/2402 erlassen wurden, gelten die Absätze 1 bis 3 und 5 mit der Maßgabe entsprechend, dass die Bekanntmachung auch die verhängten Maßnahmen und Bußgeldentscheidungen umfasst und in der Verhältnismäßigkeitsprüfung nach Absatz 3 geprüft wird, ob die Bekanntmachung den beteiligten Personen einen unverhältnismäßigen Schaden zufügen würde.
+(6) Bei bestandskräftigen Maßnahmen und unanfechtbar gewordenen Bußgeldentscheidungen, die wegen eines Verstoßes gegen die Artikel 6, 7, 9 oder 27 Absatz 1 der Verordnung (EU) 2017/2402 oder wegen Verstößen gegen die Verordnung (EU) 2022/2554 erlassen wurden, gelten die Absätze 1 bis 3 und 5 mit der Maßgabe entsprechend, dass die Bekanntmachung auch die verhängten Maßnahmen und Bußgeldentscheidungen umfasst und in der Verhältnismäßigkeitsprüfung nach Absatz 3 geprüft wird, ob die Bekanntmachung den beteiligten Personen einen unverhältnismäßigen Schaden zufügen würde.
 
 
 ### § 60d Bekanntmachung von Maßnahmen und Sanktionen gegen Wertpapierdienstleistungsunternehmen und Betreiber von Datenbereitstellungsdiensten
@@ -8065,11 +8161,8 @@ Für ein Unternehmen, das auf Grund der Ausdehnung des Begriffs des Eigenhandels
 (8) Für ein Unternehmen mit Sitz in einem Drittstaat, das auf Grund der Erweiterung der Erlaubnispflicht für das Betreiben des Eigengeschäfts gemäß § 32 Absatz 1a Satz 2 und 3 am 3. Januar 2018 eine Erlaubnis nach § 32 Absatz 1 Satz 1 benötigt, gilt die Befreiung nach § 2 Absatz 5 ab dem 3. Januar 2018 bis zur Entscheidung der Europäischen Wertpapier- und Marktaufsichtsbehörde über eine Eintragung des Unternehmens in das Register nach Artikel 48 der Verordnung (EU) Nr. 600/2014 als vorläufig erteilt, wenn es bis zum 2. Juli 2018 einen vollständigen Freistellungsantrag nach § 2 Absatz 5 Satz 1 stellt. Für ein Unternehmen mit Sitz in einem Drittstaat, das, wenn es ein Unternehmen mit Sitz im Inland wäre, die Regelungen der Absätze 1 bis 6 in Anspruch nehmen könnte, gilt die Freistellung nach § 2 Absatz 5 ab dem 3. Januar 2018 für das Betreiben der dann nach diesem Gesetz erlaubnispflichtigen Geschäfte als zu diesem Zeitpunkt vorläufig erteilt, wenn es bis zum 2. Juli 2018 einen vollständigen Freistellungsantrag nach § 2 Absatz 5 Satz 1 stellt.
 
 
-### § 64y Übergangsvorschriften zum Gesetz zur Umsetzung der Änderungsrichtlinie zur Vierten EU-Geldwäscherichtlinie
+### § 64y (weggefallen)
 
-(1) Für ein Unternehmen, das auf Grund des neuen Tatbestands in § 1 Absatz 1a Satz 2 Nummer 6 am 1. Januar 2020 zum Finanzdienstleistungsinstitut wird, gilt die Erlaubnis für den Betrieb des Kryptoverwahrgeschäftes als zu diesem Zeitpunkt vorläufig erteilt, wenn es bis zum 30. November 2020 einen vollständigen Erlaubnisantrag nach § 32 Absatz 1 Satz 1 und 2, auch in Verbindung mit einer Rechtsverordnung nach § 24 Absatz 4, stellt und wenn es die Absicht, einen Erlaubnisantrag zu stellen, bis zum 31. März 2020 der Bundesanstalt schriftlich anzeigt. Unternehmen nach Satz 1, die am 1. Januar 2020 auch als vertraglich gebundene Vermittler nach § 2 Absatz 10 tätig sind, können neben der Tätigkeit als vertraglich gebundener Vermittler bis zum 30. November 2020 weiterhin das Kryptoverwahrgeschäft betreiben.
-
-(2) Für ein Unternehmen, das auf Grund der Erweiterung des Begriffs des Finanzinstruments im Sinne des § 1 Absatz 11 um Kryptowerte am 1. Januar 2020 eine Erlaubnis nach § 32 Absatz 1 Satz 1 benötigt, gilt die Erlaubnis für das Betreiben der dann nach diesem Gesetz erlaubnispflichtigen Geschäfte als zu diesem Zeitpunkt vorläufig erteilt, wenn es bis zum 30. November 2020 einen vollständigen Erlaubnisantrag nach § 32 Absatz 1 Satz 1 und 2, auch in Verbindung mit einer Rechtsverordnung nach § 24 Absatz 4, stellt und wenn es die Absicht, einen Erlaubnisantrag zu stellen, bis zum 31. März 2020 der Bundesanstalt schriftlich anzeigt.
 
 
 ### § 65 Übergangsvorschrift zum Gesetz zur Einführung von elektronischen Wertpapieren
@@ -8077,6 +8170,15 @@ Für ein Unternehmen, das auf Grund der Ausdehnung des Begriffs des Eigenhandels
 (1) Ein Unternehmen, das am 10. Juni 2021 über die Erlaubnis für den Betrieb des Kryptoverwahrgeschäftes verfügt, darf dieses Geschäft auch hinsichtlich der Sicherung von privaten kryptografischen Schlüsseln erbringen, die dazu dienen, Kryptowertpapiere nach § 4 Absatz 3 des Gesetzes über elektronische Wertpapiere zu halten, zu speichern oder darüber zu verfügen.
 
 (2) Für ein Unternehmen, das eine Tätigkeit nach § 1 Absatz 1a Satz 2 Nummer 8 innerhalb der ersten sechs Monate seit dem 10. Juni 2021 aufnimmt, gilt die Erlaubnis für die Kryptowertpapierregisterführung als vorläufig erteilt, wenn es sechs Monate nach Aufnahme der Tätigkeit einen vollständigen Erlaubnisantrag nach § 32 Absatz 1 Satz 1 und 2, auch in Verbindung mit einer Rechtsverordnung nach § 23 des Gesetzes über elektronische Wertpapiere, stellt und wenn es der Bundesanstalt die Absicht, die Tätigkeit aufzunehmen, zwei Monate vor Aufnahme der Tätigkeit schriftlich anzeigt. Die Anzeige muss die Angaben nach § 32 Absatz 1 Satz 2 Nummer 1, 2 und 5 enthalten und den Vorgaben der Verordnung gemäß § 24 Absatz 4 entsprechen. Die Bundesanstalt kann die Aufnahme der Tätigkeit insbesondere bei Zweifeln an der Eignung des Aufzeichnungssystems oder, wenn ihr Tatsachen bekannt werden, die eine Versagung der Erlaubnis nach § 33 Absatz 1 rechtfertigen, bis zum Abschluss des Erlaubnisverfahrens untersagen.
+
+
+### § 65a Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz
+
+(1) Für ein Institut, das am 29. Dezember 2024 über eine Erlaubnis zur Erbringung des Kryptoverwahrgeschäftes im Sinne des § 1 Absatz 1a Satz 2 Nummer 6 verfügt, gilt die Erlaubnis für die Erbringung des qualifizierten Kryptoverwahrgeschäftes im Sinne des § 1 Absatz 1a Satz 2 Nummer 6 in der Fassung vom 30. Dezember 2024 als erteilt.
+
+(2) § 29 Absatz 1 Satz 2 Nummer 2 Buchstabe m ist erstmals anzuwenden auf Rechnungslegungsunterlagen für ein nach dem 31. Dezember 2024 beginnendes Geschäftsjahr.
+
+(3) § 1a Absatz 2a ist ab dem 1. Januar 2027 anzuwenden. Die Anforderungen an das Meldewesen nach Kapitel III der Verordnung (EU) 2022/2554 sind ab dem 17. Januar 2025 anzuwenden.
 
 
 ### Anhang I Informationsbogen für den Einleger

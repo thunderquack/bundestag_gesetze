@@ -23,7 +23,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 5.12.2024 I Nr. 400 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 10 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 18.12.2024 I Nr. 423 ist berücksichtigt
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 3836
 
 Zuletzt geändert durch
-:   Art. 30 G v. 20.8.2021 I 3932
-
-Änderung durch
-:   Art. 8 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 18.12.2024 I Nr. 423
 
 
 ## Abschnitt 1 - Errichtung

@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 7 Abs. 11 G v. 12.5.2021 I 990
 
 Änderung durch
-:   Art. 18 G v. 27.12.2024 I Nr. 438 mWv 30.12.2024 noch nicht berücksichtigt
+:   Art. 18 G v. 27.12.2024 I Nr. 438 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Begriffsbestimmungen
@@ -42,14 +42,14 @@ Zuletzt geändert durch
 1.  Bankgeschäfte oder Finanzdienstleistungen im Sinne des § 1 Absatz 1 Satz 2 Nummer 4, 5 oder Nummer 10 oder Absatz 1a Satz 2 Nummer 1 bis 4 des Kreditwesengesetzes,
 
 
-2.  Wertpapierdienstleistungen im Sinne des § 2 Absatz 1 Nummer 1 bis 10 Buchstabe c des Wertpapierinstitutsgesetzes oder
+2.  Wertpapierdienstleistungen und Wertpapiernebendienstleistungen im Sinne des § 2 Absatz 2 Nummer 1 bis 10 oder Absatz 3 Nummer 1 des Wertpapierinstitutsgesetzes oder
 
 
 3.  Dienstleistungen und Nebendienstleistungen nach § 20 Absatz 2 Nummer 1, 2 und 3 oder Absatz 3 Nummer 2 bis 5 des Kapitalanlagegesetzbuchs,
 
 
 
-soweit sie sich nicht auf Rechnungseinheiten im Sinne des § 1 Absatz 11 Satz 1 Nummer 7 des Kreditwesengesetzes oder auf Kryptowerte im Sinne des § 1 Absatz 11 Satz 1 Nummer 10 des Kreditwesengesetzes beziehen.
+soweit sie sich nicht auf Rechnungseinheiten im Sinne des § 1 Absatz 11 Satz 1 Nummer 7 des Kreditwesengesetzes beziehen.
 
 (3) Verbindlichkeiten aus Wertpapiergeschäften im Sinne dieses Gesetzes sind die Verpflichtungen eines Instituts zur Rückzahlung von Geldern, die Anlegern aus Wertpapiergeschäften geschuldet werden oder gehören und die für deren Rechnung im Zusammenhang mit Wertpapiergeschäften gehalten werden. Hierzu gehören auch Ansprüche von Anlegern auf Herausgabe von Instrumenten, deren Eigentümer diese sind und die für deren Rechnung im Zusammenhang mit Wertpapiergeschäften gehalten oder verwahrt werden.
 

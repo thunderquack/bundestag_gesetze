@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 41 Nr. 2 G v. 2.12.2024 I Nr. 387
 
 Änderung durch
-:   Art. 8 G v. 27.12.2024 I Nr. 438 mWv 28.12.2024 bzw. 30.12.2024 noch nicht berücksichtigt
+:   Art. 8 G v. 27.12.2024 I Nr. 438 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 41 Nr. 1 G v. 2.12.2024 I Nr. 387 mWv 6.12.2024 ist nicht ausführbar, da § 50c nicht vorhanden ist
@@ -318,20 +318,32 @@ Holdinggesellschaften, die ausschließlich Beteiligungen an Unternehmen außerha
 
 (28) Die Bezeichnung
 
-1.  Richtlinie (EU) 2015/849 bezeichnet die Richtlinie (EU) 2015/849 des Europäischen Parlamentes und des Rates vom 20. Mai 2015 zur Verhinderung der Nutzung des Finanzsystems zum Zweck der Geldwäsche und der Terrorismusfinanzierung, zur Änderung der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 2005/60/EG des Europäischen Parlaments und des Rates und der Richtlinie 2006/70/EG der Kommission, die zuletzt durch die Richtlinie (EU) 2018/843 des Europäischen Parlamentes und des Rates vom 30. Mai 2018 zur Änderung der Richtlinie (EU) 2015/849 zur Verhinderung der Nutzung des Finanzsystems zum Zweck der Geldwäsche und der Terrorismusfinanzierung und zur Änderung der Richtlinien 2009/138/EG und 2013/36/EU geändert worden ist.
+1.  Richtlinie (EU) 2015/849 bezeichnet die Richtlinie (EU) 2015/849 des Europäischen Parlamentes und des Rates vom 20. Mai 2015 zur Verhinderung der Nutzung des Finanzsystems zum Zweck der Geldwäsche und der Terrorismusfinanzierung, zur Änderung der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 2005/60/EG des Europäischen Parlaments und des Rates und der Richtlinie 2006/70/EG der Kommission, die zuletzt durch die Richtlinie (EU) 2018/843 des Europäischen Parlamentes und des Rates vom 30. Mai 2018 zur Änderung der Richtlinie (EU) 2015/849 zur Verhinderung der Nutzung des Finanzsystems zum Zweck der Geldwäsche und der Terrorismusfinanzierung und zur Änderung der Richtlinien 2009/138/EG und 2013/36/EU geändert worden ist;
 
 
 2.  Richtlinie (EU) 2019/1153 bezeichnet die Richtlinie (EU) 2019/1153 des Europäischen Parlamentes und des Rates vom 20. Juni 2019 zur Festlegung von Vorschriften zur Erleichterung der Nutzung von Finanz- und sonstigen Informationen für die Verhütung, Aufdeckung, Untersuchung oder Verfolgung bestimmter Straftaten und zur Aufhebung des Beschlusses 2000/642/JI des Rates;
 
 
-3.  Verordnung (EU) 2016/794 bezeichnet die Verordnung (EU) 2016/794 des Europäischen Parlamentes und des Rates vom 11. Mai 2016 über die Agentur der Europäischen Union für die Zusammenarbeit auf dem Gebiet der Strafverfolgung (Europol) und zur Ersetzung und Aufhebung der Beschlüsse 2009/371/JI, 2009/934/JI, 2009/935/JI, 2009/936/JI und 2009/968/JI.
+3.  Verordnung (EU) 2016/794 bezeichnet die Verordnung (EU) 2016/794 des Europäischen Parlamentes und des Rates vom 11. Mai 2016 über die Agentur der Europäischen Union für die Zusammenarbeit auf dem Gebiet der Strafverfolgung (Europol) und zur Ersetzung und Aufhebung der Beschlüsse 2009/371/JI, 2009/934/JI, 2009/935/JI, 2009/936/JI und 2009/968/JI;
+
+
+4.  Verordnung (EU) 2023/1113 bezeichnet die Verordnung (EU) 2023/1113 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über die Übermittlung von Angaben bei Geldtransfers und Transfers bestimmter Kryptowerte und zur Änderung der Richtlinie (EU) 2015/849 (ABl. L 150 vom 9.6.2023, S. 1);
+
+
+5.  Verordnung (EU) 2023/1114 bezeichnet die Verordnung (EU) 2023/1114 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über Märkte für Kryptowerte und zur Änderung der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 1095/2010 sowie der Richtlinien 2013/36/EU und (EU) 2019/1937 (ABl. L 150 vom 9.6.2023, S. 40).
 
 
 
 
-(29) Kryptowerte im Sinne dieses Gesetzes sind Kryptowerte nach § 1 Absatz 11 Satz 1 Nummer 10 in Verbindung mit Satz 4 und 5 des Kreditwesengesetzes.
+(29) Kryptowerte im Sinne dieses Gesetzes sind Kryptowerte im Sinne des Artikels 3 Nummer 14 der Verordnung (EU) 2023/1113.
 
-(30) Übertragung von Kryptowerten im Sinne dieses Gesetzes ist jeglicher Transfer von Kryptowerten zwischen natürlichen oder juristischen Personen im Rahmen der Erbringung von Finanzdienstleistungen oder dem Betreiben von Bankgeschäften im Sinne des Kreditwesengesetzes, der nicht ausschließlich die Kryptoverwahrung im Sinne des § 1 Absatz 1a Satz 2 Nummer 6 des Kreditwesengesetzes darstellt.
+(30) Kryptowertetransfer im Sinne dieses Gesetzes ist jeder Kryptowertetransfer im Sinne des Artikels 3 Nummer 10 der Verordnung (EU) 2023/1113.
+
+(31) Anbieter von Kryptowerte-Dienstleistungen im Sinne dieses Gesetzes sind Anbieter von Kryptowerte-Dienstleistungen im Sinne des Artikels 3 Absatz 1 Nummer 15 der Verordnung (EU) 2023/1114, wenn sie eine oder mehrere Kryptowerte-Dienstleistungen im Sinne des Artikels 3 Absatz 1 Nummer 16 der Verordnung (EU) 2023/1114 erbringen, mit Ausnahme der Beratung zu Kryptowerten im Sinne des Artikels 3 Absatz 1 Nummer 16 Buchstabe h der Verordnung (EU) 2023/1114.
+
+(32) Emittenten vermögenswertreferenzierter Token im Sinne dieses Gesetzes sind Emittenten vermögenswertreferenzierter Token nach Artikel 16 Absatz 1 Buchstabe a der Verordnung (EU) 2023/1114, die vermögenswertreferenzierte Token nicht ausschließlich über einen Anbieter von Kryptowerte-Dienstleistungen öffentlich anbieten oder die deren Zulassung zum Handel nicht ausschließlich über einen Anbieter von Kryptowerte-Dienstleistungen beantragen.
+
+(33) Selbst gehostete Adresse im Sinne dieses Gesetzes ist eine selbst gehostete Adresse im Sinne des Artikels 3 Nummer 20 der Verordnung (EU) 2023/1113.
 
 
 ### § 2 Verpflichtete, Verordnungsermächtigung
@@ -341,7 +353,7 @@ Holdinggesellschaften, die ausschließlich Beteiligungen an Unternehmen außerha
 1.  Kreditinstitute nach § 1 Absatz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 3 bis 8 des Kreditwesengesetzes genannten Unternehmen, und im Inland gelegene Zweigstellen und Zweigniederlassungen von Kreditinstituten mit Sitz im Ausland,
 
 
-2.  Finanzdienstleistungsinstitute nach § 1 Absatz 1a des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 6 Satz 1 Nummer 3 bis 10 und 12 und Absatz 10 des Kreditwesengesetzes genannten Unternehmen, im Inland gelegene Zweigstellen und Zweigniederlassungen von Finanzdienstleistungsinstituten mit Sitz im Ausland sowie Wertpapierinstitute nach § 2 Absatz 1 des Wertpapierinstitutsgesetzes und im Inland gelegene Niederlassungen vergleichbarer Unternehmen mit Sitz im Ausland,
+2.  Finanzdienstleistungsinstitute nach § 1 Absatz 1a des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 6 Satz 1 Nummer 3 bis 10 und 12 und Absatz 10 des Kreditwesengesetzes genannten Unternehmen, im Inland gelegene Zweigstellen und Zweigniederlassungen von Finanzdienstleistungsinstituten mit Sitz im Ausland, Wertpapierinstitute nach § 2 Absatz 1 des Wertpapierinstitutsgesetzes und im Inland gelegene Niederlassungen vergleichbarer Unternehmen mit Sitz im Ausland sowie Anbieter von Kryptowerte-Dienstleistungen und Emittenten vermögenswertreferenzierter Token,
 
 
 3.  Zahlungsinstitute und E-Geld-Institute nach § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes und im Inland gelegene Zweigstellen und Zweigniederlassungen von vergleichbaren Instituten mit Sitz im Ausland,
@@ -674,6 +686,8 @@ Mittelbare Kontrolle liegt insbesondere vor, wenn entsprechende Anteile von eine
 
 (4) Verpflichtete nach § 2 Absatz 1 Nummer 15 haben über die in Absatz 2 genannten Maßnahmen hinaus Datenverarbeitungssysteme zu betreiben, mittels derer sie in der Lage sind, sowohl Geschäftsbeziehungen als auch einzelne Transaktionen im Spielbetrieb und über ein Spielerkonto nach § 16 zu erkennen, die als zweifelhaft oder ungewöhnlich anzusehen sind aufgrund des öffentlich verfügbaren oder im Unternehmen verfügbaren Erfahrungswissens über die Methoden der Geldwäsche und der Terrorismusfinanzierung. Sie haben diese Datenverarbeitungssysteme zu aktualisieren. Die Aufsichtsbehörde kann Kriterien bestimmen, bei deren Erfüllung Verpflichtete nach § 2 Absatz 1 Nummer 15 vom Einsatz von Datenverarbeitungssystemen nach Satz 1 absehen können.
 
+(4a) Anbieter von Kryptowerte-Dienstleistungen haben angemessene Maßnahmen zu treffen, die die Einhaltung der Vorgaben der Verordnung (EU) 2023/1113 gewährleisten.
+
 (5) Die Verpflichteten haben im Hinblick auf ihre Art und Größe angemessene Vorkehrungen zu treffen, damit es ihren Mitarbeitern und Personen in einer vergleichbaren Position unter Wahrung der Vertraulichkeit ihrer Identität möglich ist, Verstöße gegen geldwäscherechtliche Vorschriften geeigneten Stellen zu berichten.
 
 (6) Die Verpflichteten treffen Vorkehrungen, um auf Anfrage der Zentralstelle für Finanztransaktionsuntersuchungen oder auf Anfrage anderer zuständiger Behörden Auskunft darüber zu geben, ob sie während eines Zeitraums von fünf Jahren vor der Anfrage mit bestimmten Personen eine Geschäftsbeziehung unterhalten haben und welcher Art diese Geschäftsbeziehung war. Sie haben sicherzustellen, dass die Informationen sicher und vertraulich an die anfragende Stelle übermittelt werden. Verpflichtete nach § 2 Absatz 1 Nummer 10 und 12 können die Auskunft verweigern, wenn sich die Anfrage auf Informationen bezieht, die sie im Rahmen von Tätigkeiten der Rechtsberatung oder Prozessvertretung erhalten haben. Die Pflicht zur Auskunft bleibt bestehen, wenn der Verpflichtete weiß, dass die Rechtsberatung oder Prozessvertretung für den Zweck der Geldwäsche oder der Terrorismusfinanzierung genutzt wurde oder wird.
@@ -743,10 +757,13 @@ Die Verpflichteten haben in ihrer Anzeige darzulegen, dass die Voraussetzungen f
 3.  die Ergebnisse der Untersuchung nach § 15 Absatz 6 Nummer 1,
 
 
-4.  von den Beteiligten vorgelegte Nachweise nach § 16a Absatz 2 und
+4.  von den Beteiligten vorgelegte Nachweise nach § 16a Absatz 2,
 
 
-5.  die Erwägungsgründe und eine nachvollziehbare Begründung des Bewertungsergebnisses eines Sachverhalts hinsichtlich der Meldepflicht nach § 43 Absatz 1.
+5.  die Erwägungsgründe und eine nachvollziehbare Begründung des Bewertungsergebnisses eines Sachverhalts hinsichtlich der Meldepflicht nach § 43 Absatz 1 und
+
+
+6.  die Entscheidung eines Anbieters von Kryptowerte-Dienstleistungen über die Beendigung einer grenzüberschreitenden Korrespondenzbeziehung aus Gründen der Prävention von Geldwäsche oder von Terrorismusfinanzierung.
 
 
 
@@ -877,7 +894,7 @@ Verpflichtete müssen gegenüber den Aufsichtsbehörden auf deren Verlangen darl
     b)  die Durchführung einer sonstigen Transaktion im Wert von 15 000 Euro oder mehr,
 
 
-    c)  die Übertragung von Kryptowerten, die zum Zeitpunkt der Übertragung einem Gegenwert von 1 000 Euro oder mehr entspricht,
+    c)  Kryptowertetransfers, die zum Zeitpunkt der Durchführung des Kryptowertetransfers einem Gegenwert von 1 000 Euro oder mehr entsprechen,
 
 
 
@@ -1289,6 +1306,7 @@ Bei der Anordnung dieser Maßnahmen gilt für die zuständigen Aufsichtsbehörde
 
 
 
+Handelt es sich um eine grenzüberschreitende Korrespondenzbeziehung zwischen Anbietern von Kryptowerte-Dienstleistungen, hat der Verpflichtete zusätzlich zu den verstärkten Sorgfaltspflichten nach Satz 1 Nummer 1 Informationen über die Zulassung oder Eintragung des Respondenten einzuholen.
 
 (8) Liegen Tatsachen, einschlägige Evaluierungen, Berichte oder Bewertungen nationaler oder internationaler für die Verhinderung oder Bekämpfung der Geldwäsche oder der Terrorismusfinanzierung zuständiger Stellen vor, die die Annahme rechtfertigen, dass über die in Absatz 3 genannten Fälle hinaus ein höheres Risiko besteht, so kann die Aufsichtsbehörde anordnen, dass die Verpflichteten die Transaktionen oder Geschäftsbeziehungen einer verstärkten Überwachung unterziehen und zusätzliche, dem Risiko angemessene Sorgfaltspflichten sowie erforderliche Gegenmaßnahmen zu erfüllen haben.
 
@@ -1304,6 +1322,27 @@ Bei der Anordnung dieser Maßnahmen gilt für die zuständigen Aufsichtsbehörde
 
 
 Das Bundesministerium der Finanzen hat bei Erlass einer Rechtsverordnung nach dieser Vorschrift einschlägige Evaluierungen, Bewertungen oder Berichte internationaler Organisationen oder von Einrichtungen für die Festlegung von Standards mit Kompetenzen im Bereich der Verhinderung von Geldwäsche und der Bekämpfung von Terrorismusfinanzierung hinsichtlich der von einzelnen Drittstaaten ausgehenden Risiken zu berücksichtigen.
+
+
+### § 15a Verstärkte Sorgfaltspflichten bei der Übertragung von Kryptowerten von einer selbst gehosteten oder an eine selbst gehostete Adresse
+
+(1) Verpflichtete, die eine Übertragung von Kryptowerten ausführen, deren Begünstigter oder Auftraggeber eine selbst gehostete Adresse ist, haben das mit der Übertragung verbundene Risiko des Missbrauchs zum Zwecke der Geldwäsche und Terrorismusfinanzierung sowie das Risiko der Nichtumsetzung und Umgehung gezielter Finanzsanktionen und gezielter Finanzsanktionen im Zusammenhang mit Proliferationsfinanzierung zu ermitteln und zu bewerten sowie angemessene Maßnahmen zur Risikominderung zu treffen.
+
+(2) Risikomindernde Maßnahmen nach Absatz 1 umfassen mindestens eine der folgenden Maßnahmen, gegebenenfalls auch in Kombination miteinander:
+
+1.  die Erhebung, Überprüfung und Speicherung der Identität des Begünstigten oder Auftraggebers sowie des wirtschaftlich Berechtigten der selbst gehosteten Adresse,
+
+
+2.  Maßnahmen zur Ermittlung der Herkunft und des Ziels der zu übertragenden Kryptowerte,
+
+
+3.  die verstärkte, kontinuierliche Überwachung dieser Transaktionen und der mit diesen Transaktionen in Verbindung stehenden Geschäftsbeziehung oder
+
+
+4.  andere Maßnahmen zur Minderung und Beherrschung der Risiken von Geldwäsche und von Terrorismusfinanzierung sowie des Risikos der Nichtumsetzung und Umgehung gezielter Finanzsanktionen und gezielter Finanzsanktionen im Zusammenhang mit Proliferationsfinanzierung.
+
+
+
 
 
 ### § 16 Besondere Vorschriften für das Glücksspiel im Internet
@@ -1480,7 +1519,7 @@ Absatz 3 Satz 2 und 3 gilt entsprechend.
 
 (8) Soweit eine vertragliche Vereinbarung nach Absatz 5 mit deutschen Botschaften, Auslandshandelskammern oder Konsulaten geschlossen wird, gelten diese kraft Vereinbarung als geeignet. Absatz 7 findet keine Anwendung.
 
-(9) Bei der Übertragung nach Absatz 5 bleiben die Vorschriften über die Auslagerung von Aktivitäten und Prozessen nach § 25b des Kreditwesengesetzes unberührt.
+(9) Bei der Übertragung nach Absatz 5 bleiben die Vorschriften über die Auslagerung von Aktivitäten und Prozessen nach § 25b des Kreditwesengesetzes und nach Artikel 73 der Verordnung (EU) 2023/1114 unberührt.
 
 
 ## Abschnitt 4 - Transparenzregister
@@ -2708,7 +2747,7 @@ so hat der Verpflichtete diesen Sachverhalt unabhängig vom Wert des betroffenen
 
 ### § 45 Form der Meldung, Registrierungspflicht, Ausführung durch Dritte, Verordnungsermächtigung
 
-(1) Die Meldung nach § 43 Absatz 1 oder § 44 hat elektronisch zu erfolgen. Verpflichtete nach § 2 Absatz 1 haben sich unabhängig von der Abgabe einer Verdachtsmeldung bei der Zentralstelle für Finanztransaktionsuntersuchungen elektronisch zu registrieren. Bei einer Störung der elektronischen Datenübermittlung ist die Übermittlung auf dem Postweg zulässig. Meldungen nach § 44 sind aufgrund des besonderen Bedürfnisses nach einem einheitlichen Datenübermittlungsverfahren auch für die aufsichtsführenden Landesbehörden bindend.
+(1) Die Meldung nach § 43 Absatz 1 oder § 44 hat elektronisch zu erfolgen. Verpflichtete nach § 2 Absatz 1 haben sich unabhängig von der Abgabe einer Verdachtsmeldung bei der Zentralstelle für Finanztransaktionsuntersuchungen elektronisch zu registrieren. Bei einer Störung der elektronischen Datenübermittlung ist die Übermittlung auf dem Postweg zulässig. Dies gilt auch für die aufsichtführenden Landesbehörden.
 
 (2) Auf Antrag kann die Zentralstelle für Finanztransaktionsuntersuchungen zur Vermeidung von unbilligen Härten auf die elektronische Übermittlung einer Meldung eines Verpflichteten verzichten und die Übermittlung auf dem Postweg genehmigen. Die Ausnahmegenehmigung kann befristet werden.
 
@@ -2716,7 +2755,7 @@ so hat der Verpflichtete diesen Sachverhalt unabhängig vom Wert des betroffenen
 
 (4) Bei Erfüllung der Meldepflicht nach § 43 Absatz 1 kann ein Verpflichteter entsprechend § 6 Absatz 7 auf Dritte zurückgreifen.
 
-(5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen über die Form der Meldung nach § 43 Absatz 1 oder § 44 erlassen. Von Absatz 1 und den Regelungen einer Rechtsverordnung nach Satz 1 kann durch Landesrecht nicht abgewichen werden.
+(5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen über die erforderlichen Angaben und die Form der Meldung nach § 43 Absatz 1 oder § 44 erlassen. Von Absatz 1 und den Regelungen einer Rechtsverordnung nach Satz 1 kann durch Landesrecht nicht abgewichen werden.
 
 
 ### § 46 Durchführung von Transaktionen
@@ -2883,7 +2922,7 @@ Zuständige Aufsichtsbehörde für die Durchführung dieses Gesetzes ist
     a)  Kreditinstitute mit Ausnahme der Deutschen Bundesbank,
 
 
-    b)  Finanzdienstleistungsinstitute sowie Zahlungsinstitute nach § 1 Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes, E-Geld-Institute nach § 1 Absatz 2 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes und Wertpapierinstitute nach § 2 Absatz 1 des Wertpapierinstitutsgesetzes,
+    b)  Finanzdienstleistungsinstitute sowie Zahlungsinstitute nach § 1 Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes, E-Geld-Institute nach § 1 Absatz 2 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes, Wertpapierinstitute nach § 2 Absatz 1 des Wertpapierinstitutsgesetzes, Anbieter von Kryptowerte-Dienstleistungen und Emittenten vermögenswertreferenzierter Token
 
 
     c)  im Inland gelegene Zweigstellen und Zweigniederlassungen von Kreditinstituten mit Sitz im Ausland, von Finanzdienstleistungsinstituten mit Sitz im Ausland, von Zahlungsinstituten mit Sitz im Ausland und von Wertpapierinstituten mit Sitz im Ausland,
@@ -2956,6 +2995,8 @@ Zuständige Aufsichtsbehörde für die Durchführung dieses Gesetzes ist
 (1) Die Aufsichtsbehörden üben die Aufsicht über die Verpflichteten aus.
 
 (2) Die Aufsichtsbehörden können im Rahmen der ihnen gesetzlich zugewiesenen Aufgaben die geeigneten und erforderlichen Maßnahmen und Anordnungen treffen, um die Einhaltung der in diesem Gesetz und der in aufgrund dieses Gesetzes ergangenen Rechtsverordnungen festgelegten Anforderungen sicherzustellen. Insbesondere können die Aufsichtsbehörden in diesem Rahmen durch erforderliche Maßnahmen und Anordnungen sicherstellen, dass die Verpflichteten diese Anforderungen auch im Einzelfall einhalten und nicht entgegen diesen Anforderungen Geschäftsbeziehungen begründen oder fortsetzen und Transaktionen durchführen. Sie können hierzu auch die ihnen für sonstige Aufsichtsaufgaben eingeräumten Befugnisse ausüben. Widerspruch und Anfechtungsklage gegen diese Maßnahmen haben keine aufschiebende Wirkung.
+
+(2a) Die Aufsichtsbehörde nach § 50 Nummer 1 übt, unbeschadet der Aufsicht nach Absatz 1, die Aufsicht über die Einhaltung der Verordnung (EU) 2023/1113 durch Anbieter von Kryptowerte-Dienstleistungen aus. Sie kann die erforderlichen Anordnungen treffen, um die Einhaltung der Verordnung (EU) 2023/1113 durch Anbieter von Kryptowerte-Dienstleistungen sicherzustellen.
 
 (3) Die Aufsichtsbehörde nach § 50 Nummer 1, soweit sich die Aufsichtstätigkeit auf die in § 50 Nummer 1 Buchstabe g und h genannten Verpflichteten oder die in § 50 Nummer 1 Buchstabe b genannten Verpflichteten, soweit sie die Voraussetzungen des § 2 Absatz 6 Nummer 16 des Kreditwesengesetzes erfüllen, bezieht, und die Aufsichtsbehörden nach § 50 Nummer 3 bis 9 können bei den Verpflichteten Prüfungen zur Einhaltung der in diesem Gesetz festgelegten Anforderungen durchführen. Die Prüfungen können ohne besonderen Anlass vor Ort und anderswo erfolgen. Die Aufsichtsbehörden können die Durchführung der Prüfungen vertraglich auf sonstige Personen und Einrichtungen übertragen. Häufigkeit und Intensität der Prüfungen haben sich am Risikoprofil der Verpflichteten im Hinblick auf Geldwäsche und Terrorismusfinanzierung zu orientieren, das in regelmäßigen Abständen und bei Eintritt wichtiger Ereignisse oder Entwicklungen in deren Geschäftsleitung und Geschäftstätigkeit neu zu bewerten ist.
 
@@ -3367,6 +3408,9 @@ Dem entgegenstehende Vereinbarungen sind unwirksam.
 44. entgegen § 15 Absatz 7 Nummer 4 oder Nummer 5 in Verbindung mit Absatz 3 Nummer 4 keine Maßnahmen ergreift,
 
 
+44a. entgegen § 15a keine Maßnahmen zur Risikoermittlung, Risikobewertung oder zur Risikominderung trifft,
+
+
 45. entgegen § 15 Absatz 5a und 8 einer vollziehbaren Anordnung der Aufsichtsbehörde zuwiderhandelt,
 
 
@@ -3513,10 +3557,13 @@ Die Ordnungswidrigkeit kann bei vorsätzlicher Begehung mit einer Geldbuße bis 
 5.  entgegen § 15 Absatz 9 in Verbindung mit § 15 Absatz 3 Nummer 2 die Geschäftsbeziehung begründet, fortsetzt, sie nicht kündigt oder nicht auf andere Weise beendet oder die Transaktion durchführt,
 
 
-6.  entgegen § 46 Absatz 1 Satz 1 eine Transaktion durchführt oder
+6.  entgegen § 46 Absatz 1 Satz 1 eine Transaktion durchführt,
 
 
-7.  entgegen § 47 Absatz 1 in Verbindung mit Absatz 2 den Vertragspartner, den Auftraggeber oder einen Dritten in Kenntnis setzt.
+7.  entgegen § 47 Absatz 1 in Verbindung mit Absatz 2 den Vertragspartner, den Auftraggeber oder einen Dritten in Kenntnis setzt und
+
+
+8.  einer vollziehbaren Anordnung nach § 51 Absatz 2a Satz 2 nicht oder nicht rechtzeitig nachkommt.
 
 
 

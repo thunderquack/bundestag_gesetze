@@ -21,9 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 7.3.2024 I Nr. 91
 
-Neubeschreibung der wahlkreise nr. 17, 158 u. 159 durch
-:   Bek. v. 27.12.2024 I Nr. 437 mWv 27.12.2024 I Nr. 437 ist berücksichtigt
-
+Stand: Bek. zur Wahlkreiseinteilung v. 27.12.2024 I Nr. 437 ist berücksichtigt
 
 ## Erster Abschnitt - Wahlsystem
 

@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 48 G v. 12.7.2024 I Nr. 234
 
 Änderung durch
-:   Art. 1 G v. 20.12.2024 I Nr. 440 mWv 31.12.2024 noch nicht berücksichtigt
+:   Art. 1 G v. 20.12.2024 I Nr. 440 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 49 G v. 12.7.2024 I Nr. 234 ist berücksichtigt
@@ -109,6 +109,8 @@ Die vom Bundesrat zu berufenden Richter werden mit zwei Dritteln der Stimmen des
 
 (4) Das Recht des Wahlorgans, einen nicht vom Bundesverfassungsgericht Vorgeschlagenen zu wählen, bleibt unberührt.
 
+(5) Hat das zuständige Wahlorgan innerhalb von drei Monaten, nachdem ihm das Bundesverfassungsgericht einen Wahlvorschlag gemacht hat, keinen Nachfolger gewählt, kann sein Wahlrecht auch vom anderen Wahlorgan ausgeübt werden. Ein so gewählter Richter gilt als vom ursprünglich zuständigen Wahlorgan gewählt.
+
 
 ### § 8
 
@@ -169,31 +171,31 @@ Das Bundesverfassungsgericht entscheidet
 3.  über Beschwerden gegen Entscheidungen des Bundestages, die die Gültigkeit einer Wahl oder den Erwerb oder Verlust der Mitgliedschaft eines Abgeordneten beim Bundestag betreffen (Artikel 41 Abs. 2 des Grundgesetzes),
 
 
-3a. über Beschwerden von Vereinigungen gegen ihre Nichtanerkennung als Partei für die Wahl zum Bundestag (Artikel 93 Absatz 1 Nummer 4c des Grundgesetzes),
+3a. über Beschwerden von Vereinigungen gegen ihre Nichtanerkennung als Partei für die Wahl zum Bundestag (Artikel 94 Absatz 1 Nummer 4c des Grundgesetzes),
 
 
 4.  über Anklagen des Bundestages oder des Bundesrates gegen den Bundespräsidenten (Artikel 61 des Grundgesetzes),
 
 
-5.  über die Auslegung des Grundgesetzes aus Anlaß von Streitigkeiten über den Umfang der Rechte und Pflichten eines obersten Bundesorgans oder anderer Beteiligter, die durch das Grundgesetz oder in der Geschäftsordnung eines obersten Bundesorgans mit eigenen Rechten ausgestattet sind (Artikel 93 Abs. 1 Nr. 1 des Grundgesetzes),
+5.  über die Auslegung des Grundgesetzes aus Anlaß von Streitigkeiten über den Umfang der Rechte und Pflichten eines obersten Bundesorgans oder anderer Beteiligter, die durch das Grundgesetz oder in der Geschäftsordnung eines obersten Bundesorgans mit eigenen Rechten ausgestattet sind (Artikel 94 Absatz 1 Nummer 1 des Grundgesetzes),
 
 
-6.  bei Meinungsverschiedenheiten oder Zweifeln über die förmliche oder sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit dem Grundgesetz oder die Vereinbarkeit von Landesrecht mit sonstigem Bundesrecht auf Antrag der Bundesregierung, einer Landesregierung oder eines Viertels der Mitglieder des Bundestages (Artikel 93 Abs. 1 Nr. 2 des Grundgesetzes),
+6.  bei Meinungsverschiedenheiten oder Zweifeln über die förmliche oder sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit dem Grundgesetz oder die Vereinbarkeit von Landesrecht mit sonstigem Bundesrecht auf Antrag der Bundesregierung, einer Landesregierung oder eines Viertels der Mitglieder des Bundestages (Artikel 94 Absatz 1 Nummer 2 des Grundgesetzes),
 
 
-6a. bei Meinungsverschiedenheiten, ob ein Gesetz den Voraussetzungen des Artikels 72 Abs. 2 des Grundgesetzes entspricht, auf Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes (Artikel 93 Abs. 1 Nr. 2a des Grundgesetzes),
+6a. bei Meinungsverschiedenheiten, ob ein Gesetz den Voraussetzungen des Artikels 72 Abs. 2 des Grundgesetzes entspricht, auf Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes (Artikel 94 Absatz 1 Nummer 2a des Grundgesetzes),
 
 
-6b. darüber, ob im Falle des Artikels 72 Abs. 4 die Erforderlichkeit für eine bundesgesetzliche Regelung nach Artikel 72 Abs. 2 nicht mehr besteht oder Bundesrecht in den Fällen des Artikels 125a Abs. 2 Satz 1 nicht mehr erlassen werden könnte, auf Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes (Artikel 93 Abs. 2 des Grundgesetzes),
+6b. darüber, ob im Falle des Artikels 72 Abs. 4 die Erforderlichkeit für eine bundesgesetzliche Regelung nach Artikel 72 Abs. 2 nicht mehr besteht oder Bundesrecht in den Fällen des Artikels 125a Abs. 2 Satz 1 nicht mehr erlassen werden könnte, auf Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes (Artikel 94 Absatz 2 des Grundgesetzes),
 
 
-7.  bei Meinungsverschiedenheiten über Rechte und Pflichten des Bundes und der Länder, insbesondere bei der Ausführung von Bundesrecht durch die Länder und bei der Ausübung der Bundesaufsicht (Artikel 93 Abs. 1 Nr. 3 und Artikel 84 Abs. 4 Satz 2 des Grundgesetzes),
+7.  bei Meinungsverschiedenheiten über Rechte und Pflichten des Bundes und der Länder, insbesondere bei der Ausführung von Bundesrecht durch die Länder und bei der Ausübung der Bundesaufsicht (Artikel 94 Absatz 1 Nummer 3 und Artikel 84 Abs. 4 Satz 2 des Grundgesetzes),
 
 
-8.  in anderen öffentlich-rechtlichen Streitigkeiten zwischen dem Bund und den Ländern, zwischen verschiedenen Ländern oder innerhalb eines Landes, soweit nicht ein anderer Rechtsweg gegeben ist (Artikel 93 Abs. 1 Nr. 4 des Grundgesetzes),
+8.  in anderen öffentlich-rechtlichen Streitigkeiten zwischen dem Bund und den Ländern, zwischen verschiedenen Ländern oder innerhalb eines Landes, soweit nicht ein anderer Rechtsweg gegeben ist (Artikel 94 Absatz 1 Nummer 4 des Grundgesetzes),
 
 
-8a. über Verfassungsbeschwerden (Artikel 93 Abs. 1 Nr. 4a und 4b des Grundgesetzes),
+8a. über Verfassungsbeschwerden (Artikel 94 Absatz 1 Nummer 4a und 4b des Grundgesetzes),
 
 
 9.  über Richteranklagen gegen Bundesrichter und Landesrichter (Artikel 98 Abs. 2 und 5 des Grundgesetzes),
@@ -217,7 +219,7 @@ Das Bundesverfassungsgericht entscheidet
 14. bei Meinungsverschiedenheiten über das Fortgelten von Recht als Bundesrecht (Artikel 126 des Grundgesetzes),
 
 
-15. in den ihm sonst durch Bundesgesetz zugewiesenen Fällen (Artikel 93 Abs. 3 des Grundgesetzes).
+15. in den ihm sonst durch Bundesgesetz zugewiesenen Fällen (Artikel 94 Absatz 3 des Grundgesetzes).
 
 
 
@@ -876,17 +878,17 @@ Der Beschluß des Bundesrates nach Artikel 84 Abs. 4 Satz 1 des Grundgesetzes ka
 
 (1) Antragsteller und Antragsgegner können nur sein
 
-1.  bei öffentlich-rechtlichen Streitigkeiten gemäß Artikel 93 Abs. 1 Nr. 4 des Grundgesetzes zwischen dem Bund und den Ländern:
+1.  bei öffentlich-rechtlichen Streitigkeiten gemäß Artikel 94 Absatz 1 Nummer 4 des Grundgesetzes zwischen dem Bund und den Ländern:
 
     die Bundesregierung und die Landesregierungen;
 
 
-2.  bei öffentlich-rechtlichen Streitigkeiten gemäß Artikel 93 Abs. 1 Nr. 4 des Grundgesetzes zwischen den Ländern:
+2.  bei öffentlich-rechtlichen Streitigkeiten gemäß Artikel 94 Absatz 1 Nummer 4 des Grundgesetzes zwischen den Ländern:
 
     die Landesregierungen;
 
 
-3.  bei öffentlich-rechtlichen Streitigkeiten gemäß Artikel 93 Abs. 1 Nr. 4 des Grundgesetzes innerhalb eines Landes:
+3.  bei öffentlich-rechtlichen Streitigkeiten gemäß Artikel 94 Absatz 1 Nummer 4 des Grundgesetzes innerhalb eines Landes:
 
     die obersten Organe des Landes und die in der Landesverfassung oder in der Geschäftsordnung eines obersten Organs des Landes mit eigenen Rechten ausgestatteten Teile dieser Organe, wenn sie durch den Streitgegenstand in ihren Rechten oder Zuständigkeiten unmittelbar berührt sind.
 
@@ -941,7 +943,7 @@ Für das Verfahren gelten die allgemeinen Vorschriften des II. Teiles dieses Ges
 
 #### § 76
 
-(1) Der Antrag der Bundesregierung, einer Landesregierung oder eines Viertels der Mitglieder des Bundestages gemäß Artikel 93 Abs. 1 Nr. 2 des Grundgesetzes ist nur zulässig, wenn der Antragsteller Bundes- oder Landesrecht
+(1) Der Antrag der Bundesregierung, einer Landesregierung oder eines Viertels der Mitglieder des Bundestages gemäß Artikel 94 Absatz 1 Nummer 2 des Grundgesetzes ist nur zulässig, wenn der Antragsteller Bundes- oder Landesrecht
 
 1.  wegen seiner förmlichen oder sachlichen Unvereinbarkeit mit dem Grundgesetz oder dem sonstigen Bundesrecht für nichtig hält oder
 
@@ -951,7 +953,7 @@ Für das Verfahren gelten die allgemeinen Vorschriften des II. Teiles dieses Ges
 
 
 
-(2) Der Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes gemäß Artikel 93 Abs. 1 Nr. 2a des Grundgesetzes ist nur zulässig, wenn der Antragsteller ein Bundesgesetz wegen Nichterfüllung der Voraussetzungen des Artikels 72 Abs. 2 des Grundgesetzes für nichtig hält; der Antrag kann auch darauf gestützt werden, daß der Antragsteller das Bundesgesetz wegen Nichterfüllung der Voraussetzungen des Artikels 75 Abs. 2 des Grundgesetzes für nichtig hält.
+(2) Der Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes gemäß Artikel 94 Absatz 1 Nummer 2a des Grundgesetzes ist nur zulässig, wenn der Antragsteller ein Bundesgesetz wegen Nichterfüllung der Voraussetzungen des Artikels 72 Abs. 2 des Grundgesetzes für nichtig hält; der Antrag kann auch darauf gestützt werden, daß der Antragsteller das Bundesgesetz wegen Nichterfüllung der Voraussetzungen des Artikels 75 Abs. 2 des Grundgesetzes für nichtig hält.
 
 
 #### § 77
@@ -1186,7 +1188,7 @@ Die Kammer kann die Annahme der Verfassungsbeschwerde ablehnen oder die Verfassu
 
 #### § 96
 
-(1) Aus der Begründung eines Antrags nach Artikel 93 Abs. 2 Satz 1 des Grundgesetzes muss sich das Vorliegen der in Artikel 93 Abs. 2 Satz 3 des Grundgesetzes bezeichneten Voraussetzung ergeben.
+(1) Aus der Begründung eines Antrags nach Artikel 94 Absatz 2 Satz 1 des Grundgesetzes muss sich das Vorliegen der in Artikel 94 Absatz 2 Satz 3 des Grundgesetzes bezeichneten Voraussetzung ergeben.
 
 (2) Das Bundesverfassungsgericht gibt den anderen Antragsberechtigten sowie dem Bundestag und der Bundesregierung binnen einer zu bestimmenden Frist Gelegenheit zur Äußerung.
 

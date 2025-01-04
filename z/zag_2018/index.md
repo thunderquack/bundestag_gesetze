@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 11 G v. 22.12.2023 I Nr. 411
 
 Änderung durch
-:   Art. 12 G v. 27.12.2024 I Nr. 438 mWv 30.12.2024 noch nicht berücksichtigt
+:   Art. 12 G v. 27.12.2024 I Nr. 438 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt G 7610-16 v. 25.6.2009 I 1506 (ZAG)
 
@@ -257,7 +257,7 @@ Eine natürliche oder juristische Person oder eine Personengesellschaft gilt als
 
 
 
-9.  Dienste, die von technischen Dienstleistern erbracht werden, die zwar zur Erbringung der Zahlungsdienste beitragen, jedoch zu keiner Zeit in den Besitz der zu übertragenden Gelder gelangen; hierzu zählen die Verarbeitung und Speicherung von Daten, vertrauensbildende Maßnahmen und Dienste zum Schutz der Privatsphäre, Nachrichten- und Instanzenauthentisierung, Bereitstellung von Informationstechnologie- und Kommunikationsnetzen sowie Bereitstellung und Wartung der für Zahlungsdienste genutzten Endgeräte und Einrichtungen; jeweils mit Ausnahme von Zahlungsauslösediensten und Kontoinformationsdiensten;
+9.  Dienste, die von technischen Dienstleistern erbracht werden, die zwar zur Erbringung der Zahlungsdienste beitragen, jedoch zu keiner Zeit in den Besitz der zu übertragenden Gelder gelangen; hierzu zählen die Verarbeitung und Speicherung von Daten, vertrauensbildende Maßnahmen und Dienste zum Schutz der Privatsphäre, Nachrichten- und Instanzenauthentisierung, Bereitstellung von Informationstechnologie- und Kommunikationsnetzen (IKT-Netzen) sowie Bereitstellung und Wartung der für Zahlungsdienste genutzten Endgeräte und Einrichtungen; jeweils mit Ausnahme von Zahlungsauslösediensten und Kontoinformationsdiensten;
 
 
 10. Dienste, die auf Zahlungsinstrumenten beruhen, die
@@ -366,12 +366,35 @@ Satz 1 gilt für die Ausgabe von E-Geld entsprechend mit der Maßgabe, dass der 
 
 (4) Die Bundesanstalt entscheidet in Zweifelsfällen, dass ein Unternehmen den Vorschriften dieses Gesetzes unterliegt. Als Zweifelsfall gilt insbesondere jeder Fall, bei dem die Einstufung als Institut, Zahlungsdienstleister oder E-Geld-Emittent zwischen dem Betreiber und der Bundesanstalt oder einer anderen Verwaltungsbehörde streitig ist. Ihre Entscheidungen binden die anderen Verwaltungsbehörden.
 
+(5) Für Zahlungsinstitute und E-Geld-Institute ist die Bundesanstalt zuständige Behörde nach Artikel 46 der Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1). Bei der Durchführung der Artikel 26 und 27 der Verordnung (EU) 2022/2554 wirkt die Bundesanstalt mit der Deutschen Bundesbank zusammen. Die Deutsche Bundesbank nimmt die operativen Aufgaben nach den Artikeln 26 und 27 der Verordnung (EU) 2022/2554 wahr. § 7 Absatz 3 und 4 des Kreditwesengesetzes gilt entsprechend.
+
 
 #### § 4a Elektronische Bekanntgabe oder Zustellung von Verwaltungsakten; Verordnungsermächtigung
 
 (1) Verwaltungsakte, die aufgrund dieses Gesetzes erlassen werden, dürfen nach § 4f des Finanzdienstleistungsaufsichtsgesetzes elektronisch bekanntgegeben oder nach § 4g des Finanzdienstleistungsaufsichtsgesetzes elektronisch zugestellt werden. Institute sowie juristische und natürliche Personen, die aufgrund dieses Gesetzes einen Antrag gestellt haben, sind verpflichtet, für den elektronischen Abruf der nach Satz 1 elektronisch bekanntgegebenen oder zugestellten Verwaltungsakte das von der Bundesanstalt bereitgestellte elektronische Kommunikationsverfahren zu nutzen und hierfür den elektronischen Zugang zu eröffnen, es sei denn, die Bundesanstalt bestimmt einen anderen Übermittlungsweg.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen zum Zugang zum elektronischen Kommunikationsverfahren nach Absatz 1, zu seiner Durchführung und seiner Nutzung zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht.
+
+
+#### § 4b Besondere Befugnisse nach der Verordnung (EU) 2022/2554
+
+(1) Die Bundesanstalt kann bei Verstößen gegen die Verordnung (EU) 2022/2554 unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, um die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 im Anwendungsbereich dieses Gesetzes sicherzustellen. Insbesondere kann sie gegenüber einem Institut anordnen,
+
+1.  das gegen diese Verordnung verstoßende Verhalten zu unterlassen und von einer Wiederholung abzusehen,
+
+
+2.  Praktiken oder Verhaltensweisen, die den Bestimmungen der Verordnung zuwiderlaufen, vorübergehend oder dauerhaft einzustellen und nicht zu wiederholen,
+
+
+3.  sicherzustellen, dass weiterhin die rechtlichen Vorgaben erfüllt werden, und
+
+
+4.  Korrektur- und Abhilfemaßnahmen vorzunehmen.
+
+
+
+
+(2) Die Bundesanstalt und die Deutsche Bundesbank können Untersuchungen über die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 im Anwendungsbereich dieses Gesetzes vornehmen. Unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse kann die Bundesanstalt zu diesem Zweck Mitglieder der Organe eines Instituts zu einer Befragung vorladen, damit diese mündliche oder schriftliche Erklärungen zu Sachverhalten oder Unterlagen abgeben, die mit Gegenstand und Zweck der Untersuchung in Zusammenhang stehen, und die mündlichen Erklärungen aufzeichnen. § 19 Absatz 4 gilt entsprechend. Die Bundesanstalt kann die Durchführung der Befragung auf die Deutsche Bundesbank übertragen.
 
 
 #### § 5 Zusammenarbeit mit anderen Behörden
@@ -437,7 +460,7 @@ Sie kann ihre Maßnahmen nach den Sätzen 1 und 2 bekannt machen; personenbezoge
 
 #### § 9 Sofortige Vollziehbarkeit
 
-Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt, einschließlich der Androhung und Festsetzung von Zwangsmitteln, auf der Grundlage des § 4 Absatz 2, der §§ 7, 8, § 13 Absatz 2 Nummer 2 bis 5 oder § 14 Absatz 1 in Verbindung mit § 2c Absatz 1b Satz 1 bis 3, Absatz 2 Satz 1 und Absatz 2a des Kreditwesengesetzes, auf der Grundlage des § 15 Absatz 1 Satz 3 und 4, der §§ 19 bis 21, diese auch in Verbindung mit § 17 Absatz 3 Satz 3, § 23 Absatz 1, § 24 Absatz 4 oder auf der Grundlage des § 25 Absatz 3, des § 26 Absatz 3 und 3a oder des § 27 Absatz 3 Satz 1 und 3 oder Absatz 4 Satz 2 oder des § 32 Absatz 2 oder des § 39 Absatz 8 haben keine aufschiebende Wirkung.
+Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt, einschließlich der Androhung und Festsetzung von Zwangsmitteln, auf der Grundlage des § 4 Absatz 2, der §§ 4b, 7, 8, 13 Absatz 2 Nummer 2 bis 5 oder § 14 Absatz 1 in Verbindung mit § 2c Absatz 1b Satz 1 bis 3, Absatz 2 Satz 1 und Absatz 2a des Kreditwesengesetzes, auf der Grundlage des § 15 Absatz 1 Satz 3 und 4, der §§ 19 bis 21, diese auch in Verbindung mit § 17 Absatz 3 Satz 3, § 23 Absatz 1, § 24 Absatz 4 oder auf der Grundlage des § 25 Absatz 3, des § 26 Absatz 3 und 3a oder des § 27 Absatz 3 Satz 1 und 3 oder Absatz 4 Satz 2 oder des § 32 Absatz 2 oder des § 39 Absatz 8 haben keine aufschiebende Wirkung.
 
 
 ## Abschnitt 2 - Erlaubnis; Inhaber bedeutender Beteiligungen
@@ -475,16 +498,16 @@ Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt, einschließ
 4.  eine Beschreibung der Maßnahmen zur Erfüllung der Sicherungsanforderungen nach § 17;
 
 
-5.  eine Beschreibung der Unternehmenssteuerung und der internen Kontrollmechanismen des Antragstellers einschließlich der Verwaltungs-, Risikomanagement- und Rechnungslegungsverfahren, aus der hervorgeht, dass diese Unternehmenssteuerung, Kontrollmechanismen und Verfahren verhältnismäßig, angemessen, zuverlässig und ausreichend sind;
+5.  eine Beschreibung der Unternehmenssteuerung und der internen Kontrollmechanismen des Antragstellers einschließlich der Verwaltungs-, Risikomanagement- und Rechnungslegungsverfahren sowie Vereinbarungen über die Nutzung von IKT-Diensten nach der Verordnung (EU) 2022/2554, aus der hervorgeht, dass diese Unternehmenssteuerung, Kontrollmechanismen und Verfahren verhältnismäßig, angemessen, zuverlässig und ausreichend sind;
 
 
-6.  eine Beschreibung der vorhandenen Verfahren für Überwachung, Handhabung und Folgemaßnahmen bei Sicherheitsvorfällen und sicherheitsbezogenen Kundenbeschwerden, einschließlich eines Mechanismus für die Meldung von Vorfällen, der die Meldepflichten nach § 54 berücksichtigt;
+6.  eine Beschreibung der vorhandenen Verfahren für Überwachung, Handhabung und Folgemaßnahmen bei Sicherheitsvorfällen und sicherheitsbezogenen Kundenbeschwerden, einschließlich eines Mechanismus für die Meldung von Vorfällen, der die Meldepflichten nach Kapitel III der Verordnung (EU) 2022/2554 berücksichtigt;
 
 
 7.  eine Beschreibung der vorhandenen Verfahren für die Erfassung, Überwachung, Rückverfolgung sowie Beschränkung des Zugangs zu sensiblen Zahlungsdaten;
 
 
-8.  eine Beschreibung der Regelungen zur Geschäftsfortführung im Krisenfall, einschließlich klarer Angabe der maßgeblichen Abläufe, der wirksamen Notfallpläne und eines Verfahrens für die regelmäßige Überprüfung der Angemessenheit und Wirksamkeit solcher Pläne;
+8.  eine Beschreibung der Vorkehrungen zur Fortführung der Geschäftstätigkeiten, einschließlich klarer Angaben der kritischen Vorgänge, wirksamer IKT-Geschäftsfortführungsleitlinien und ‑pläne, IKT-Reaktions- und -Wiederherstellungspläne sowie eines Verfahrens für regelmäßige Tests der Angemessenheit und Wirksamkeit dieser Pläne nach der Verordnung (EU) 2022/2554;
 
 
 9.  eine Beschreibung der Grundsätze und Definitionen für die Erfassung statistischer Daten über Leistungsfähigkeit, Geschäftsvorgänge und Betrugsfälle;
@@ -575,7 +598,8 @@ Mit den Unterlagen nach Satz 1 Nummer 4 bis 6 und 12 hat der Antragsteller eine 
 Der Antrag muss den Nachweis enthalten, dass die in Satz 1 Nummer 5 genannten Personen zuverlässig sind und über angemessene theoretische und praktische Kenntnisse und Erfahrungen, einschließlich Leitungserfahrung, für den Betrieb des E-Geld-Geschäfts und die Erbringung von Zahlungsdiensten verfügen. Der Antragsteller hat mindestens zwei Geschäftsleiter zu bestellen; bei Unternehmen mit geringer Größe genügt ein Geschäftsleiter. Für das weitere Verfahren gilt § 10 Absatz 2 Satz 2, 3 und 6 sowie Absatz 3 und 6 entsprechend.
 
 (3) Die Bundesanstalt kann die Erlaubnis unter Auflagen erteilen, die sich im Rahmen des mit diesem Gesetz verfolgten Zweckes halten müssen. Erbringt das E-Geld-Institut zugleich Zahlungsdienste oder geht es anderen Geschäftstätigkeiten nach, kann die Bundesanstalt ihm auferlegen, dass es die Erbringung von Zahlungsdiensten oder die anderen Geschäfte abzuspalten oder ein eigenes Unternehmen für das
-E-Geld-Geschäft              zu gründen hat, wenn diese die finanzielle Solidität des Instituts oder die Prüfungsmöglichkeiten beeinträchtigen oder beeinträchtigen könnten.
+E-Geld-Geschäft              zu gründen hat, wenn diese die finanzielle Solidität des Instituts oder die Prüfungsmöglichkeiten beeinträchtigen oder beeinträchtigen könnten. Im Falle des § 15 Absatz 7 Satz 3 des Wertpapierinstitutsgesetzes ist die Erlaubnis nach Absatz 1 auf die Emission von E-Geld-Token nach Artikel 48 der Verordnung (EU) 2023/1114 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über Märkte für Kryptowerte und zur Änderung der Verordnungen (EU)
+Nr. 1093/2010              und (EU) Nr. 1095/2010 sowie der Richtlinien 2013/36/EU und (EU) 2019/1937 (ABl. L 150 vom 9.6.2023, S. 40) zu beschränken.
 
 (4) Das E-Geld-Institut hat der Bundesanstalt unverzüglich jede materiell und strukturell wesentliche Änderung der tatsächlichen und rechtlichen Verhältnisse mitzuteilen, soweit sie die Richtigkeit der nach Absatz 2 Satz 1 und 2 vorgelegten Angaben und Nachweise betreffen.
 
@@ -674,7 +698,7 @@ Die Erlaubnis zur Erbringung von Zahlungsdiensten oder zum Betreiben des E-Geld-
 4.  die Fortsetzung der Erbringung von Zahlungsdiensten oder des Betreibens des E-Geld-Geschäfts die Stabilität des betriebenen Zahlungssystems oder das Vertrauen darin gefährden würde oder
 
 
-5.  schwerwiegend, wiederholt oder systematisch gegen § 27, gegen das Geldwäschegesetz, gegen die Verordnung (EU) 2015/847 des Europäischen Parlaments und des Rates vom 20. Mai 2015 über die Übermittlung von Angaben bei Geldtransfers und zur Aufhebung der Verordnung (EU) Nr. 1781/2006 (ABl. L 141 vom 5.6.2015, S. 1) oder gegen die zur Durchführung dieser Vorschriften erlassenen Verordnungen oder vollziehbaren Anordnungen verstoßen wurde.
+5.  schwerwiegend, wiederholt oder systematisch gegen § 27, gegen das Geldwäschegesetz, gegen die Verordnung (EU) 2023/1113 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über die Übermittlung von Angaben bei Geldtransfers und Transfers bestimmter Kryptowerte und zur Änderung der Richtlinie (EU) 2015/849 (ABl. L 150 vom 9.6.2023, S. 1) oder gegen die zur Durchführung dieser Vorschriften erlassenen Verordnungen oder vollziehbaren Anordnungen verstoßen wurde.
 
 
 
@@ -883,16 +907,20 @@ Die Bestellung durch das Gericht ist endgültig. § 318 Absatz 5 des Handelsgese
 
 (1) Als Teil der Prüfung des Jahresabschlusses sowie eines Zwischenabschlusses hat der Prüfer auch die wirtschaftlichen Verhältnisse des Instituts zu prüfen. Bei der Prüfung des Jahresabschlusses hat er insbesondere festzustellen, ob das Institut die Anzeigepflichten nach § 10 Absatz 5, § 11 Absatz 4, § 21 Absatz 4 Satz 1, § 28 Absatz 1, auch in Verbindung mit einer Rechtsverordnung nach § 28 Absatz 4, erfüllt hat. Der Prüfer hat auch zu prüfen, ob das Institut seinen Verpflichtungen
 
-1.  nach dem Geldwäschegesetz und der Verordnung (EU) 2015/847 nachgekommen ist,
+1.  nach dem Geldwäschegesetz und der Verordnung (EU) 2023/1113 nachgekommen ist,
 
 
 2.  nach § 3, nach § 15, auch in Verbindung mit einer Rechtsverordnung nach § 15 Absatz 3, nach den §§ 16 bis 18, 25 bis 30, 36, 45, 46 und 48 bis 55 nachgekommen ist,
 
 
-3.  nach der Verordnung (EG) Nr. 924/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über grenzüberschreitende Zahlungen in der Gemeinschaft und zur Aufhebung der Verordnung (EG) Nr. 2560/2001 (ABl. L 266 vom 9.10.2009, S. 11), die durch die Verordnung (EU) Nr. 260/2012 (ABl. L 94 vom 30.3.2012, S. 22) geändert worden ist, und der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die durch die Verordnung (EU) Nr. 248/2014 (ABl. L 84 vom 20.3.2014, S.1) geändert worden ist, nachgekommen ist und
+3.  nach der Verordnung (EG) Nr. 924/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über grenzüberschreitende Zahlungen in der Gemeinschaft und zur Aufhebung der Verordnung (EG) Nr. 2560/2001 (ABl. L 266 vom 9.10.2009, S. 11), die durch die Verordnung (EU) Nr. 260/2012 (ABl. L 94 vom 30.3.2012, S. 22) geändert worden ist, und der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die durch die Verordnung (EU) Nr. 248/2014 (ABl. L 84 vom 20.3.2014, S.1) geändert worden ist, nachgekommen ist,
 
 
-4.  nach der Verordnung (EU) 2015/751 des Europäischen Parlaments und des Rates vom 29. April 2015 über Interbankenentgelte für kartengebundene Zahlungsvorgänge (ABl. L 123 vom 19.5.2015, S. 1) nachgekommen ist.
+4.  nach der Verordnung (EU) 2015/751 des Europäischen Parlaments und des Rates vom 29. April 2015 über Interbankenentgelte für kartengebundene Zahlungsvorgänge (ABl. L 123 vom 19.5.2015, S. 1) nachgekommen ist und
+
+
+5.  nach den Artikeln 5 bis 14, 16 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU)
+    2022/2554,                    auch in Verbindung mit einer Delegierten Verordnung nach den Artikeln 15 und 20 der Verordnung (EU) 2022/2554, nachgekommen ist.
 
 
 
@@ -952,7 +980,7 @@ Die Bundesanstalt teilt dem Institut binnen zwei Monaten nach vollständiger Üb
 
 ### § 26 Auslagerung
 
-(1) Ein Institut muss abhängig von Art, Umfang, Komplexität und Risikogehalt einer Auslagerung von Aktivitäten und Prozessen auf ein anderes Unternehmen, die für die Durchführung von Zahlungsdiensten, E-Geld-Geschäften oder sonstigen nach diesem Gesetz institutstypischen Dienstleistungen wesentlich sind, einschließlich IT-Systeme, angemessene Vorkehrungen treffen, um übermäßige zusätzliche Risiken zu vermeiden. Eine Auslagerung darf weder die Ordnungsmäßigkeit dieser Geschäfte und Dienstleistungen noch die Geschäftsorganisation beeinträchtigen. Insbesondere muss ein angemessenes und wirksames Risikomanagement durch das Institut gewährleistet bleiben, das die ausgelagerten Aktivitäten und Prozesse einbezieht, und die Auslagerung darf nicht zu einer Delegation der Verantwortung der Geschäftsleiter oder anderen in § 10 Absatz 2 Nummer 14 und in § 11 Absatz 2 Satz 2 Nummer 5 bezeichneten Personen an das Auslagerungsunternehmen führen. Das Institut bleibt für die Einhaltung der von ihm zu beachtenden gesetzlichen Bestimmungen verantwortlich. Durch die Auslagerung darf die Bundesanstalt an der Wahrnehmung ihrer Aufgaben nicht gehindert werden; ihre Auskunfts- und Prüfungsrechte sowie Kontrollmöglichkeiten müssen in Bezug auf die ausgelagerten Aktivitäten und Prozesse auch bei einer Auslagerung auf ein Unternehmen mit Sitz im Ausland durch geeignete Vorkehrungen gewährleistet werden; Entsprechendes gilt für die Wahrnehmung der Aufgaben der Prüfer des Instituts. Eine Auslagerung bedarf einer schriftlichen Vereinbarung, welche die zur Einhaltung der vorstehenden Voraussetzungen erforderlichen Rechte des Instituts, einschließlich Weisungs- und Kündigungsrechten, sowie die korrespondierenden Pflichten des Auslagerungsunternehmens festschreibt. Hat bei einer wesentlichen Auslagerung ein Auslagerungsunternehmen seinen Sitz in einem Drittstaat, ist vertraglich sicherzustellen, dass das Auslagerungsunternehmen einen inländischen Zustellungsbevollmächtigten benennt, an den Bekanntgaben und Zustellungen durch die Bundesanstalt bewirkt werden können. Ein Institut hat im Rahmen seines Risikomanagements ein Auslagerungsregister zu führen; darin sind sämtliche wesentlichen und nicht wesentlichen Auslagerungen zu erfassen.
+(1) Ein Institut muss abhängig von Art, Umfang, Komplexität und Risikogehalt einer Auslagerung von Aktivitäten und Prozessen auf ein anderes Unternehmen, die für die Durchführung von Zahlungsdiensten, E-Geld-Geschäften oder sonstigen nach diesem Gesetz institutstypischen Dienstleistungen wesentlich sind, einschließlich IKT-Systeme, angemessene Vorkehrungen treffen, um übermäßige zusätzliche Risiken zu vermeiden. Eine Auslagerung darf weder die Ordnungsmäßigkeit dieser Geschäfte und Dienstleistungen noch die Geschäftsorganisation beeinträchtigen. Insbesondere muss ein angemessenes und wirksames Risikomanagement durch das Institut gewährleistet bleiben, das die ausgelagerten Aktivitäten und Prozesse einbezieht, und die Auslagerung darf nicht zu einer Delegation der Verantwortung der Geschäftsleiter oder anderen in § 10 Absatz 2 Nummer 14 und in § 11 Absatz 2 Satz 2 Nummer 5 bezeichneten Personen an das Auslagerungsunternehmen führen. Das Institut bleibt für die Einhaltung der von ihm zu beachtenden gesetzlichen Bestimmungen verantwortlich. Durch die Auslagerung darf die Bundesanstalt an der Wahrnehmung ihrer Aufgaben nicht gehindert werden; ihre Auskunfts- und Prüfungsrechte sowie Kontrollmöglichkeiten müssen in Bezug auf die ausgelagerten Aktivitäten und Prozesse auch bei einer Auslagerung auf ein Unternehmen mit Sitz im Ausland durch geeignete Vorkehrungen gewährleistet werden; Entsprechendes gilt für die Wahrnehmung der Aufgaben der Prüfer des Instituts. Eine Auslagerung bedarf einer schriftlichen Vereinbarung, welche die zur Einhaltung der vorstehenden Voraussetzungen erforderlichen Rechte des Instituts, einschließlich Weisungs- und Kündigungsrechten, sowie die korrespondierenden Pflichten des Auslagerungsunternehmens festschreibt. Hat bei einer wesentlichen Auslagerung ein Auslagerungsunternehmen seinen Sitz in einem Drittstaat, ist vertraglich sicherzustellen, dass das Auslagerungsunternehmen einen inländischen Zustellungsbevollmächtigten benennt, an den Bekanntgaben und Zustellungen durch die Bundesanstalt bewirkt werden können. Ein Institut hat im Rahmen seines Risikomanagements ein Auslagerungsregister zu führen; darin sind sämtliche wesentlichen und nicht wesentlichen Auslagerungen zu erfassen.
 
 (2) Beabsichtigt ein Institut, wesentliche betriebliche Aufgaben von Zahlungsdiensten oder des E-Geld-Geschäfts auszulagern, hat es die Bundesanstalt und die Deutsche Bundesbank hiervon in Kenntnis zu setzen. Eine betriebliche Aufgabe ist dann wesentlich, wenn deren unzureichende oder unterlassene Wahrnehmung die dauerhafte Einhaltung der Zulassungsanforderungen oder der anderen Verpflichtungen des Instituts nach diesem Gesetz, seine finanzielle Leistungsfähigkeit oder die Solidität oder die Kontinuität seiner Zahlungsdienste oder des E-Geld-Geschäfts wesentlich beeinträchtigen würde.
 
@@ -987,7 +1015,7 @@ Die Bundesanstalt teilt dem Institut binnen zwei Monaten nach vollständiger Üb
 4.  interne Verfahren und Kontrollsysteme, die die Einhaltung der Verordnung (EG) Nr. 924/2009, der Verordnung (EU) Nr. 260/2012 und der Verordnung (EU) 2015/751 des Europäischen Parlaments und des Rates vom 29. April 2015 über Interbankenentgelte für kartengebundene Zahlungsvorgänge (ABl. L 123 vom 19.5.2015, S. 1) gewährleisten;
 
 
-5.  unbeschadet der Pflichten der §§ 4 bis 7 des Geldwäschegesetzes angemessene Maßnahmen, einschließlich Datenverarbeitungssysteme, die die Einhaltung der Anforderungen des Geldwäschegesetzes und der Verordnung (EU) 2015/847 gewährleisten; soweit dies zur Erfüllung dieser Pflicht erforderlich ist, darf das Institut personenbezogene Daten verarbeiten.
+5.  unbeschadet der Pflichten der §§ 4 bis 7 des Geldwäschegesetzes angemessene Maßnahmen, einschließlich Datenverarbeitungssysteme, die die Einhaltung der Anforderungen des Geldwäschegesetzes und der Verordnung (EU) 2023/1113 gewährleisten; soweit dies zur Erfüllung dieser Pflicht erforderlich ist, darf das Institut personenbezogene Daten verarbeiten.
 
 
 
@@ -996,7 +1024,7 @@ Die Bundesanstalt teilt dem Institut binnen zwei Monaten nach vollständiger Üb
 
 (3) Die Bundesanstalt kann gegenüber einem Institut im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, um die Anforderungen an eine ordnungsgemäße Geschäftsorganisation im Sinne des Absatzes 1 zu erfüllen. Die Bundesanstalt kann Kriterien bestimmen, bei deren Vorliegen Institute vom Einsatz von Datenverarbeitungssystemen nach Absatz 1 Satz 2 Nummer 5 absehen können. Satz 1 gilt entsprechend für Auslagerungsunternehmen, soweit ausgelagerte Aktivitäten und Prozesse betroffen sind.
 
-(4) Die Bundesanstalt überwacht die Einhaltung der in der Verordnung (EU) 2015/847, in der Verordnung (EG) Nr. 924/2009, in der Verordnung (EU) Nr. 260/2012 und in der Verordnung (EU) 2015/751 enthaltenden Pflichten durch die Institute. Sie kann gegenüber einem Institut und seinen Geschäftsleitern Anordnungen treffen, die geeignet und erforderlich sind, um Verstöße gegen die Pflichten nach den Verordnungen nach Satz 1 zu verhindern oder zu unterbinden.
+(4) Die Bundesanstalt überwacht die Einhaltung der in der Verordnung (EU) 2023/1113, in der Verordnung (EG) Nr. 924/2009, in der Verordnung (EU) Nr. 260/2012 und in der Verordnung (EU) 2015/751 enthaltenden Pflichten durch die Institute. Sie kann gegenüber einem Institut und seinen Geschäftsleitern Anordnungen treffen, die geeignet und erforderlich sind, um Verstöße gegen die Pflichten nach den Verordnungen nach Satz 1 zu verhindern oder zu unterbinden.
 
 
 ### § 28 Anzeigen; Verordnungsermächtigung
@@ -1027,7 +1055,7 @@ Die Bundesanstalt teilt dem Institut binnen zwei Monaten nach vollständiger Üb
 8.  das Entstehen, die Änderung oder die Beendigung einer engen Verbindung im Sinne des Artikels 4 Absatz 1 Nummer 38 der Verordnung (EU) Nr. 575/2013 zu einer anderen natürlichen Person oder einem anderen Unternehmen;
 
 
-9.  die Absicht, sich mit einem anderen Institut im Sinne dieses Gesetzes, einem Institut im Sinne des § 1 Absatz 1b des Kreditwesengesetzes oder einem Wertpapierinstitut im Sinne des Wertpapierinstitutsgesetzes zu vereinigen;
+9.  die Absicht, sich mit einem anderen Institut im Sinne dieses Gesetzes, einem Institut im Sinne des § 1 Absatz 1b des Kreditwesengesetzes, einem Wertpapierinstitut im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes oder einem Institut im Sinne des § 2 Absatz 4 des Kryptomärkteaufsichtsgesetzes zu vereinigen;
 
 
 10. die Absicht einer Auslagerung, den Vollzug einer Auslagerung sowie wesentliche Änderungen und schwerwiegende Vorfälle im Rahmen von bestehenden wesentlichen Auslagerungen, die einen wesentlichen Einfluss auf die Geschäftstätigkeit des Instituts haben können.
@@ -1488,7 +1516,7 @@ Die §§ 45 und 46 gelten nicht für Zahlungsvorgänge, die durch kartengebunden
 
 #### § 53 Beherrschung operationeller und sicherheitsrelevanter Risiken
 
-(1) Ein Zahlungsdienstleister hat angemessene Risikominderungsmaßnahmen und Kontrollmechanismen zur Beherrschung der operationellen und der sicherheitsrelevanten Risiken im Zusammenhang mit den von ihm erbrachten Zahlungsdiensten einzurichten, aufrechtzuerhalten und anzuwenden. Dies umfasst wirksame Verfahren für die Behandlung von Störungen im Betriebsablauf, auch zur Aufdeckung und Klassifizierung schwerer Betriebs- und Sicherheitsvorfälle.
+(1) Ein Zahlungsdienstleister hat angemessene Risikominderungsmaßnahmen und Kontrollmechanismen zur Beherrschung der operationellen und der sicherheitsrelevanten Risiken im Zusammenhang mit den von ihm erbrachten Zahlungsdiensten einzurichten, aufrechtzuerhalten und anzuwenden. Dies umfasst wirksame Verfahren für die Behandlung von Störungen im Betriebsablauf, auch zur Aufdeckung und Klassifizierung schwerer Betriebs- und Sicherheitsvorfälle. Für Zahlungsdienstleister im Sinne des § 1 Absatz 1 Satz 1 Nummer 1, 2 oder Nummer 3 gelten die Sätze 1 und 2 unbeschadet der Vorschriften in Kapitel II der Verordnung (EU) 2022/2554.
 
 (2) Ein Zahlungsdienstleister hat der Bundesanstalt einmal jährlich eine aktuelle und umfassende Bewertung der operationellen und sicherheitsrelevanten Risiken im Zusammenhang mit den von ihm erbrachten Zahlungsdiensten und hinsichtlich der Angemessenheit der Risikominderungsmaßnahmen und Kontrollmechanismen, die er zur Beherrschung dieser Risiken ergriffen hat, zu übermitteln. Die Bundesanstalt kann gegenüber einem Zahlungsdienstleister festlegen, dass die Übermittlung der Bewertung nach Satz 1 in kürzeren Zeitabständen zu erfolgen hat.
 
@@ -1506,6 +1534,8 @@ Die §§ 45 und 46 gelten nicht für Zahlungsvorgänge, die durch kartengebunden
 (5) Die Zahlungsdienstleister haben der Bundesanstalt mindestens einmal jährlich statistische Daten zu Betrugsfällen in Verbindung mit den unterschiedlichen Zahlungsmitteln vorzulegen. Die Bundesanstalt hat der Europäischen Bankenaufsichtsbehörde und der Europäischen Zentralbank die vorgelegten Daten in aggregierter Form zur Verfügung zu stellen.
 
 (6) Meldepflichten der Zahlungsdienstleister an andere inländische Behörden, Mitwirkungsaufgaben der Bundesanstalt sowie die Zuständigkeiten anderer inländischen Behörden für schwerwiegende Betriebs- oder Sicherheitsvorfälle bleiben unberührt.
+
+(7) Die Absätze 1 bis 4 gelten nicht für Zahlungsdienstleister im Sinne des § 1 Absatz 1 Satz 1 Nummer 1, 2 oder Nummer 3.
 
 
 ### Unterabschnitt 4 - Starke Kundenauthentifizierung
@@ -1777,6 +1807,8 @@ Der Betreiber eines Zahlungssystems darf objektive Bedingungen für eine Teilnah
 
 
 
+(3a) Zuwiderhandlungen gegen die Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnung (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56 Absatz 5e und 6 Nummer 1 und 3 des Kreditwesengesetzes geahndet werden.
+
 (4) Die Ordnungswidrigkeit kann in Fällen des Absatzes 1 mit einer Geldbuße bis zu einer Million Euro, in Fällen des Absatzes 3 Nummer 1 und 2 mit einer Geldbuße bis dreihunderttausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu hunderttausend Euro geahndet werden.
 
 (5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
@@ -1797,6 +1829,36 @@ Das Gericht, die Strafverfolgungs- oder die Strafvollstreckungsbehörde hat in S
 
 
 zu übermitteln. Ist gegen die Entscheidung ein Rechtsbehelf eingelegt worden, ist die Entscheidung unter Hinweis auf den eingelegten Rechtsbehelf zu übermitteln. § 60a Absatz 1a bis 3 des Kreditwesengesetzes gilt entsprechend.
+
+
+### § 65a Bekanntmachung von Sanktionen wegen Verstößen gegen die Verordnung (EU) 2022/2554
+
+(1) Die Bundesanstalt macht Entscheidungen über bestandskräftige Maßnahmen und unanfechtbar gewordene Bußgeldentscheidungen, die wegen Verstößen gegen die Verordnung (EU) 2022/2554 oder gegen die jeweils darauf basierenden delegierten Rechtsakte erlassen wurden, auf ihrer Internetseite unverzüglich bekannt.
+
+(2) In der Bekanntmachung benennt die Bundesanstalt die Vorschrift, gegen die verstoßen wurde, und die für den Verstoß verantwortliche natürliche oder juristische Person oder Personenvereinigung.
+
+(3) Ist die Bekanntmachung der Identität einer von der Entscheidung betroffenen juristischen Person oder der personenbezogenen Daten einer natürlichen Person unverhältnismäßig oder würde die Bekanntmachung laufende Ermittlungen oder die Stabilität der Finanzmärkte gefährden, so
+
+1.  schiebt die Bundesanstalt die Bekanntmachung der Entscheidung auf, bis die Gründe für das Aufschieben weggefallen sind,
+
+
+2.  macht die Bundesanstalt die Entscheidung ohne Nennung der Identität oder der personenbezogenen Daten bekannt, wenn hierdurch ein wirksamer Schutz der Identität oder der betreffenden personenbezogenen Daten gewährleistet ist, oder
+
+
+3.  macht die Bundesanstalt die Entscheidung nicht bekannt, wenn eine Bekanntmachung nach den Nummern 1 und 2 nicht ausreichend wäre, um sicherzustellen, dass
+
+    a)  die Stabilität der Finanzmärkte nicht gefährdet wird oder
+
+
+    b)  die Verhältnismäßigkeit der Bekanntmachung gewahrt bleibt.
+
+
+
+
+
+
+
+(4) Eine Bekanntmachung nach Absatz 1 ist spätestens fünf Jahre nach ihrer Bekanntmachung zu löschen. Abweichend von Satz 1 sind personenbezogene Daten zu löschen, sobald ihre Bekanntmachung nicht mehr erforderlich ist.
 
 
 ## Abschnitt 14 - Übergangsvorschriften
@@ -1840,4 +1902,9 @@ E-Geld-Institut              nach Absatz 1 dieses Gesetz in der ab dem 13. Janua
 (4) Bis zum Inkrafttreten des § 55 erfolgt die starke Kundenauthentifizierung nach Maßgabe des Rundschreibens der Bundesanstalt 4/2015 (BA) vom 5. Mai 2015, abrufbar von der Internetseite der Bundesanstalt.
 
 (5) Ein Unternehmen, das ab dem 13. Januar 2018 Zahlungsdienste anbietet, die nach diesem Gesetz in der bis zum 12. Januar 2018 geltenden Fassung noch erlaubnisfrei waren, und diese Dienste auch ab dem 13. Januar 2018 weiter anbieten will, hat innerhalb von drei Monaten ab dem 13. Januar 2018 einen Erlaubnisantrag nach § 10 Absatz 1 oder einen Registrierungsantrag nach § 34 Absatz 1 zu stellen. Wird der Erlaubnisantrag oder Registrierungsantrag rechtzeitig und vollständig gestellt, ist dieses Unternehmen bis zur Bestandskraft der Entscheidung über den Erlaubnisantrag oder Registrierungsantrag durch die Bundesanstalt insoweit weiterhin erlaubt tätig.
+
+
+### § 69 Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz
+
+§ 24 Absatz 1 Satz 3 Nummer 5 ist erstmals für ein nach dem 31. Dezember 2024 beginnende Geschäftsjahr anzuwenden.
 

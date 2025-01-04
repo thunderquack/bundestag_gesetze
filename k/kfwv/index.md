@@ -21,7 +21,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 13.2.2023 I Nr. 39
 
 Änderung durch
-:   Art. 21 G v. 27.12.2024 I Nr. 438 mWv 30.12.2024 noch nicht berücksichtigt
+:   Art. 21 G v. 27.12.2024 I Nr. 438 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -36,10 +36,13 @@ Auf Grund des § 12a des Gesetzes über die Kreditanstalt für Wiederaufbau, der
 1.  des Kreditwesengesetzes in der jeweils geltenden Fassung,
 
 
-2.  des Finanzkonglomerate-Aufsichtsgesetzes in der jeweils geltenden Fassung sowie
+2.  des Finanzkonglomerate-Aufsichtsgesetzes in der jeweils geltenden Fassung,
 
 
-3.  der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1) in der jeweils geltenden Fassung
+3.  der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1) in der jeweils geltenden Fassung sowie
+
+
+4.  der Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) in der jeweils geltenden Fassung
 
 
 
@@ -52,7 +55,7 @@ entsprechend anzuwenden sind auf die Kreditanstalt für Wiederaufbau (Anstalt) u
 
 ## § 2 Allgemeine Vorschriften
 
-Folgende Vorschriften der Verordnung (EU) Nr. 575/2013 und des Kreditwesengesetzes sind entsprechend anzuwenden:
+Folgende Vorschriften der Verordnung (EU) Nr. 575/2013, der Verordnung (EU) 2022/2554 und des Kreditwesengesetzes sind entsprechend anzuwenden:
 
 1.  Artikel 3 der Verordnung (EU) Nr. 575/2013,
 
@@ -69,10 +72,13 @@ Folgende Vorschriften der Verordnung (EU) Nr. 575/2013 und des Kreditwesengesetz
 5.  die §§ 6, 6a und 7 des Kreditwesengesetzes,
 
 
-6.  die §§ 6b bis 6d des Kreditwesengesetzes und
+6.  die §§ 6b bis 6d des Kreditwesengesetzes,
 
 
-7.  § 8 Absatz 2 des Kreditwesengesetzes.
+7.  § 8 Absatz 2 des Kreditwesengesetzes und
+
+
+8.  die Artikel 3 und 4 der Verordnung (EU) 2022/2554.
 
 
 
@@ -80,7 +86,7 @@ Folgende Vorschriften der Verordnung (EU) Nr. 575/2013 und des Kreditwesengesetz
 
 ## § 3 Vorschriften für Institute, Institutsgruppen, Finanzholding-Gruppen, Finanzkonglomerate, gemischte Finanzholding-Gesellschaften und gemischte Unternehmen
 
-Folgende Vorschriften der Verordnung (EU) Nr. 575/2013 und des Kreditwesengesetzes sind auf die Anstalt und die KfW-Gruppe entsprechend anzuwenden:
+Folgende Vorschriften der Verordnung (EU) Nr. 575/2013, der Verordnung (EU) 2022/2554 und des Kreditwesengesetzes sind auf die Anstalt und die KfW-Gruppe entsprechend anzuwenden:
 
 1.  die Artikel 25 bis 91 der Verordnung (EU) Nr. 575/2013 sowie die §§ 10 und 12a des Kreditwesengesetzes,
 
@@ -121,10 +127,19 @@ Folgende Vorschriften der Verordnung (EU) Nr. 575/2013 und des Kreditwesengesetz
 13. die §§ 28 bis 30 und 31 Absatz 3 des Kreditwesengesetzes,
 
 
-14. die Artikel 429 bis 429g der Verordnung (EU) Nr. 575/2013 und
+14. die Artikel 429 bis 429g der Verordnung (EU) Nr. 575/2013,
 
 
-15. die Artikel 430 und 430b der Verordnung (EU) Nr. 575/2013.
+15. die Artikel 430 und 430b der Verordnung (EU) Nr. 575/2013,
+
+
+16. die Artikel 5 bis 15 der Verordnung (EU) 2022/2554,
+
+
+17. die Artikel 17 bis 30 der Verordnung (EU) 2022/2554 und
+
+
+18. Artikel 45 der Verordnung (EU) 2022/2554.
 
 
 

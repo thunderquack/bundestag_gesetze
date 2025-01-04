@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 36 G v. 23.10.2024 I Nr. 323
 
 Änderung durch
-:   Art. 9 G v. 27.12.2024 I Nr. 438 mWv 30.12.2024 noch nicht berücksichtigt
+:   Art. 9 G v. 27.12.2024 I Nr. 438 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Titel I - Allgemeine Bestimmungen
@@ -1792,7 +1792,12 @@ Die Beschäftigung einer unmittelbar bei der Vermittlung oder Beratung mitwirken
 
 (11) Die zuständige Behörde kann jede in das Gewerbezentralregister nach § 149 Absatz 2 einzutragende, nicht mehr anfechtbare Entscheidung wegen Verstoßes gegen Bestimmungen dieses Gesetzes oder einer Rechtsverordnung nach § 34e öffentlich bekannt machen. Die Bekanntmachung erfolgt durch Eintragung in das Register nach § 11a Absatz 1. Die zuständige Behörde kann von einer Bekanntmachung nach Satz 1 absehen, diese verschieben oder eine Bekanntmachung auf anonymer Basis vornehmen, wenn eine Bekanntmachung personenbezogener Daten unverhältnismäßig wäre oder die Bekanntmachung nach Satz 1 die Stabilität der Finanzmärkte oder laufende Ermittlungen gefährden würde. Eine Bekanntmachung nach Satz 1 ist fünf Jahre nach ihrer Bekanntmachung zu löschen. Abweichend von Satz 4 sind personenbezogene Daten zu löschen, sobald ihre Bekanntmachung nicht mehr erforderlich ist.
 
+(11a) Die zuständige Behörde nach Absatz 13 macht jede nicht mehr anfechtbare Entscheidung, die wegen Verstoßes gegen die Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) oder die jeweils darauf basierenden delegierten Rechtsakte erlassen wurde, unverzüglich auf ihrer Internetseite öffentlich bekannt. Absatz 11 Satz 2 bis 5 gilt entsprechend.
+
 (12) Die Industrie- und Handelskammern richten Verfahren ein zur Annahme von Meldungen über mögliche oder tatsächliche Verstöße gegen die zur Umsetzung der Richtlinie (EU) 2016/97 ergangenen Vorschriften, bei denen es ihre Aufgabe ist, deren Einhaltung zu überwachen. Die Meldungen können auch anonym abgegeben werden. § 4 Absatz 2 sowie die §§ 5 bis 11, 24, 25 und 27 bis 31 des Hinweisgeberschutzgesetzes vom 31. Mai 2023 (BGBl. 2023 I Nr. 140) sind entsprechend anzuwenden. Die Schutzmaßnahmen für hinweisgebende Personen im Sinne des § 1 des Hinweisgeberschutzgesetzes richten sich nach dessen Abschnitten 3 und 4.
+
+(13) Die zuständige Industrie- und Handelskammer überwacht die Einhaltung der Verordnung (EU)
+2022/2554              durch Gewerbetreibende nach den Absätzen 1, 2 und 6, die 250 oder mehr Personen beschäftigen und einen Jahresumsatz von mehr als 50 Millionen Euro oder eine Jahresbilanzsumme von mehr als 43 Millionen Euro aufweisen. Sie kann im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, um die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 sicherzustellen; § 29 ist auf Gewerbetreibende nach Satz 1 in Verbindung mit Absatz 6 entsprechend anzuwenden. Bei der Durchführung ihrer Aufgaben kann sich die zuständige Industrie- und Handelskammer anderer Personen und Einrichtungen bedienen. Die zuständige Industrie- und Handelskammer ist außerdem befugt, Gewerbetreibende im Sinne des Satzes 1 und Gewerbetreibende, bei denen Tatsachen die Annahme rechtfertigen, dass ein Gewerbe im Sinne des Satzes 1 ausgeübt wird, auf deren Kosten durch einen von ihr bestimmten geeigneten Prüfer überprüfen zu lassen. Der Prüfungsbericht muss einen Vermerk darüber enthalten, ob Verstöße des Gewerbetreibenden festgestellt worden sind. Verstöße sind in dem Vermerk aufzuzeigen. Der Prüfer hat den Vermerk mit Angabe von Ort und Datum zu unterzeichnen, wobei die elektronische Namenswiedergabe genügt. Geeignete Prüfer sind Personen, die auf Grund ihrer Vorbildung und Erfahrung in der Lage sind, eine ordnungsgemäße Prüfung in dem jeweiligen Gewerbebetrieb durchzuführen, sowie deren Zusammenschlüsse. Ungeeignet für eine Prüfung sind Personen, bei denen die Besorgnis der Befangenheit besteht. Soweit Gewerbetreibende nach Satz 1 über eine Erlaubnis nach § 32 Absatz 1 des Kreditwesengesetzes verfügen, ist für Aufgaben nach der Verordnung (EU) 2022/2554 ausschließlich die Bundesanstalt für Finanzdienstleistungsaufsicht zuständig.
 
 
 ##### § 34e Verordnungsermächtigung
@@ -1848,7 +1853,7 @@ Die Rechtsverordnung nach Satz 1 ist dem Bundestag zuzuleiten. Die Zuleitung erf
 
 (2) In der Rechtsverordnung nach Absatz 1 Satz 1 kann die Befugnis des Versicherungsvermittlers zur Entgegennahme und zur Verwendung von Vermögenswerten des Versicherungsnehmers oder für diesen bestimmten Vermögenswerten beschränkt werden, soweit dies zum Schutz des Versicherungsnehmers erforderlich ist. In der Rechtsverordnung nach Absatz 1 Satz 1 kann ferner bestimmt werden, dass über die Erfüllung der Verpflichtungen im Sinne des Absatzes 1 Satz 1 Nummer 2 Buchstabe b Aufzeichnungen zu führen sind und die Einhaltung der Verpflichtungen im Sinne des Absatzes 1 Satz 1 Nummer 2 Buchstabe b auf Kosten des Versicherungsvermittlers regelmäßig oder aus besonderem Anlass zu überprüfen und der zuständigen Behörde der Prüfungsbericht vorzulegen ist, soweit es zur wirksamen Überwachung erforderlich ist; hierbei können die Einzelheiten der Prüfung, insbesondere deren Anlass, Zeitpunkt und Häufigkeit, die Auswahl, Bestellung und Abberufung der Prüfer, deren Rechte, Pflichten und Verantwortlichkeit, der Inhalt des Prüfberichts, die Verpflichtungen des Versicherungsvermittlers gegenüber dem Prüfer sowie das Verfahren bei Meinungsverschiedenheiten zwischen dem Prüfer und dem Versicherungsvermittler, geregelt werden.
 
-(3) In der Rechtsverordnung nach Absatz 1 Satz 1 kann ferner bestimmt werden, dass die Einhaltung der Vorschriften über die wirtschaftliche Unabhängigkeit des Versicherungsberaters auf seine Kosten regelmäßig oder aus besonderem Anlass zu überprüfen und der zuständigen Behörde der Prüfungsbericht vorzulegen ist, soweit es zur wirksamen Überwachung erforderlich ist; hierbei können die Einzelheiten der Prüfung, insbesondere deren Anlass, Zeitpunkt und Häufigkeit, die Auswahl, Bestellung und Abberufung der Prüfer, deren Rechte, Pflichten und Verantwortlichkeit, der Inhalt des Prüfberichts, die Verpflichtungen des Versicherungsberaters gegenüber dem Prüfer sowie das Verfahren bei Meinungsverschiedenheiten zwischen dem Prüfer und dem Versicherungsberater, geregelt werden. Zur Überwachung der wirtschaftlichen Unabhängigkeit kann in der Rechtsverordnung bestimmt werden, dass der Versicherungsberater über die Einnahmen aus seiner Tätigkeit Aufzeichnungen zu führen hat.
+(3) In der Rechtsverordnung nach Absatz 1 Satz 1 kann ferner bestimmt werden, dass die Einhaltung der Vorschriften nach § 34d Absatz 13 sowie über die wirtschaftliche Unabhängigkeit des Versicherungsberaters jeweils auf seine Kosten regelmäßig oder aus besonderem Anlass zu überprüfen und der zuständigen Behörde der Prüfungsbericht vorzulegen ist, soweit es zur wirksamen Überwachung erforderlich ist; hierbei können die Einzelheiten der Prüfung, insbesondere deren Anlass, Zeitpunkt und Häufigkeit, die Auswahl, Bestellung und Abberufung der Prüfer, deren Rechte, Pflichten und Verantwortlichkeit, der Inhalt des Prüfberichts, die Verpflichtungen des Versicherungsberaters gegenüber dem Prüfer sowie das Verfahren bei Meinungsverschiedenheiten zwischen dem Prüfer und dem Versicherungsberater, geregelt werden. Zur Überwachung der wirtschaftlichen Unabhängigkeit kann in der Rechtsverordnung bestimmt werden, dass der Versicherungsberater über die Einnahmen aus seiner Tätigkeit Aufzeichnungen zu führen hat.
 
 
 ##### § 34f Finanzanlagenvermittler
@@ -3455,6 +3460,31 @@ des Bürgerlichen Gesetzbuchs eine Rückbeförderung vereinbart oder eine Zahlun
 
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfhunderttausend Euro geahndet werden. § 30 Absatz 2 Satz 3 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
+
+
+### § 147d Verletzung von Vorschriften über die digitale operationale Resilienz durch Versicherungsvermittler nach § 34d Absatz 1, Versicherungsberater nach § 34d Absatz 2 und Versicherungsvermittler in Nebentätigkeit nach § 34d Absatz 6
+
+(1) Ordnungswidrig handelt, wer als Person im Anwendungsbereich dieses Gesetzes gegen die Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnungen (EG) Nr. 1060/2009, (EU)
+Nr. 648/2012,              (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) verstößt, indem er vorsätzlich oder fahrlässig,
+
+1.  einer vollziehbaren Anordnung nach Artikel 6 Absatz 5 Satz 3, Artikel 28 Absatz 3 Unterabsatz 4 oder Artikel 42 Absatz 6 Satz 1 zuwiderhandelt,
+
+
+2.  entgegen Artikel 19 Absatz 4 der zuständigen Behörde dort genannte Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+
+
+3.  entgegen Artikel 28 Absatz 3 Unterabsatz 3 der zuständigen Behörde einen Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+
+
+4.  entgegen Artikel 28 Absatz 3 Unterabsatz 5 der zuständigen Behörde die Unterrichtung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt oder
+
+
+5.  entgegen Artikel 45 Absatz 3 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt.
+
+
+
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfhunderttausend Euro geahndet werden.
 
 
 ### § 148 Strafbare Verletzung gewerberechtlicher Vorschriften

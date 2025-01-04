@@ -20,13 +20,10 @@ Neugefasst durch
 :   Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 24.10.2024 I Nr. 329
-
-Änderung durch
-:   Art. 11 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 18.12.2024 I Nr. 423
 
 Mittelbare änderung durch
-:   Art. 15 Nr. 3 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15 Nr. 3 G v. 18.12.2024 I Nr. 423 ist berücksichtigt
 
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2025 v. 25.11.2024 I Nr. 365 ist berücksichtigt
 

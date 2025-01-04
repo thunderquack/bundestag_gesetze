@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 5 G v. 28.11.2024 I Nr. 377
 
 Änderung durch
-:   Art. 6 G v. 27.12.2024 I Nr. 438 mWv 30.12.2024 noch nicht berücksichtigt
+:   Art. 6 G v. 27.12.2024 I Nr. 438 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen für Investmentvermögen und Verwaltungsgesellschaften
@@ -245,6 +245,9 @@ entsprechen.
 
 
 24. Kollektive Vermögensverwaltung umfasst die Portfolioverwaltung, das Risikomanagement, administrative Tätigkeiten, den Vertrieb von eigenen Investmentanteilen sowie bei AIF Tätigkeiten im Zusammenhang mit den Vermögensgegenständen des AIF.
+
+
+24a. Kryptowerte im Sinne dieses Gesetzes sind solche nach Artikel 3 Absatz 1 Nummer 5 der Verordnung (EU) 2023/1114 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über Märkte für Kryptowerte und zur Änderung der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 1095/2010 sowie der Richtlinien 2013/36/EU und (EU) 2019/1937 (ABl. L 150 vom 9.6.2023, S. 40), die durch die Verordnung (EU) 2023/2869 (ABl. L, 2023/2869, 20.12.2023) geändert worden ist. Keine Kryptowerte im Sinne dieses Gesetzes sind solche nach Artikel 4 Absatz 3 Buchstabe c der Verordnung (EU) 2023/1114.
 
 
 25. Leverage ist jede Methode, mit der die Verwaltungsgesellschaft den Investitionsgrad eines von ihr verwalteten Investmentvermögens durch Kreditaufnahme, Wertpapier-Darlehen, in Derivate eingebettete Hebelfinanzierungen oder auf andere Weise erhöht. Kriterien
@@ -628,6 +631,23 @@ Sofern aus Aufzeichnungen von Telefongesprächen Daten aus dem Kernbereich priva
 
 (14) Für Kapitalverwaltungsgesellschaften ist die Bundesanstalt zuständige Behörde im Sinne des Artikels 2 Nummer 18 der Verordnung (EU) 2019/1238 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1), in der jeweils geltenden Fassung. Die Bundesanstalt ist befugt, alle Maßnahmen zu treffen, die geeignet und erforderlich sind, um zu überwachen, ob die Verordnung (EU) 2019/1238 und die auf ihrer Grundlage erlassenen delegierten Rechtsakte und technischen Durchführungs- und Regulierungsstandards eingehalten werden, oder um zu prüfen, ob die Voraussetzungen für eine Maßnahme nach Artikel 63 der Verordnung (EU) 2019/1238 vorliegen.
 
+(15) Für Kapitalverwaltungsgesellschaften, die in den Anwendungsbereich der Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnung (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) fallen, ist die Bundesanstalt zuständige Behörde nach Artikel 46 der Verordnung (EU) 2022/2554. Bei der Durchführung der Aufgaben nach den Artikeln 26 und 27 der Verordnung (EU) 2022/2554 wirkt die Bundesanstalt mit der Deutschen Bundesbank zusammen. Die Deutsche Bundesbank nimmt die operativen Aufgaben nach den Artikeln 26 und 27 der Verordnung (EU) 2022/2554 wahr. § 7 Absatz 3 und 4 des Kreditwesengesetzes gilt entsprechend. Die Bundesanstalt kann bei Verstößen gegen die Verordnung (EU) 2022/2554 unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, um die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 sicherzustellen. Insbesondere kann sie gegenüber einer Kapitalverwaltungsgesellschaft anordnen,
+
+1.  das gegen diese Verordnung verstoßende Verhalten zu unterlassen und von einer Wiederholung abzusehen,
+
+
+2.  Praktiken oder Verhaltensweisen, die den Bestimmungen der Verordnung zuwiderlaufen, vorübergehend oder dauerhaft einzustellen und nicht zu wiederholen,
+
+
+3.  sicherzustellen, dass weiterhin die rechtlichen Vorgaben erfüllt werden, und
+
+
+4.  Korrektur- und Abhilfemaßnahmen vorzunehmen.
+
+
+
+Die Bundesanstalt kann Untersuchungen über die Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 im Anwendungsbereich dieses Gesetzes vornehmen. Unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse kann die Bundesanstalt zu diesem Zweck Mitglieder der Organe einer Kapitalverwaltungsgesellschaft zu einer Befragung vorladen, damit diese mündliche oder schriftliche Erklärungen zu Sachverhalten oder Unterlagen abgeben, die mit Gegenstand und Zweck der Untersuchung in Zusammenhang stehen, und die mündlichen Erklärungen aufzeichnen. Für das Recht zur Auskunftsverweigerung und die Belehrungspflicht gilt § 6 Absatz 15 des Wertpapierhandelsgesetzes entsprechend.
+
 
 #### § 6 Besondere Aufgaben
 
@@ -636,7 +656,7 @@ Sofern aus Aufzeichnungen von Telefongesprächen Daten aus dem Kernbereich priva
 
 #### § 7 Sofortige Vollziehbarkeit
 
-(1) Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließlich der Androhung und Festsetzung von Zwangsmitteln auf Grundlage von § 5 Absatz 5a, der §§ 6, 14, 15, 16, 19 Absatz 2 und 3, §§ 39, 40, 41, 42, 44 Absatz 5, § 68 Absatz 7, § 113 Absatz 2 und 3, § 311 Absatz 1 und 3 Satz 1 Nummer 1, § 314 Absatz 1 und 2, § 329 Absatz 2 Satz 3 Nummer 2 Buchstabe c und § 330 Absatz 2 Satz 3 Nummer 2 Buchstabe c haben keine aufschiebende Wirkung.
+(1) Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließlich der Androhung und Festsetzung von Zwangsmitteln auf Grundlage von § 5 Absatz 5a und 15, der §§ 6, 14, 15, 16, 19 Absatz 2 und 3, §§ 39, 40, 41, 42, 44 Absatz 5, § 68 Absatz 7, § 113 Absatz 2 und 3, § 311 Absatz 1 und 3 Satz 1 Nummer 1, § 314 Absatz 1 und 2, § 329 Absatz 2 Satz 3 Nummer 2 Buchstabe c und § 330 Absatz 2 Satz 3 Nummer 2 Buchstabe c haben keine aufschiebende Wirkung.
 
 (2) Ergreift die Bundesanstalt gemäß den §§ 5, 11 Absatz 4 oder 6, § 311 Absatz 1 und 3 Satz 1 Nummer 1, § 314, § 316 Absatz 3 Satz 2 auch in Verbindung mit § 320 Absatz 2 oder § 330 Absatz 4, oder gemäß § 321 Absatz 3 Satz 2 auch in Verbindung mit § 322 Absatz 4, § 325 Absatz 2, § 326 Absatz 3 oder § 329 Absatz 4 zum Schutz der Anleger Maßnahmen, einschließlich einer Untersagung des Vertriebs von Anteilen oder Aktien an AIF, die im Geltungsbereich dieses Gesetzes vertrieben werden, haben Widerspruch und Anfechtungsklage gegen diese Maßnahmen einschließlich der Androhung und Festsetzung von Zwangsmitteln ebenfalls keine aufschiebende Wirkung.
 
@@ -1785,7 +1805,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 4.  geeignete Regelungen für die Anlage des eigenen Vermögens der Kapitalverwaltungsgesellschaft;
 
 
-5.  angemessene Kontroll- und Sicherheitsvorkehrungen für den Einsatz der elektronischen Datenverarbeitung; für die Verarbeitung personenbezogener Daten sind dies insbesondere technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679;
+5.  angemessene Kontroll- und Sicherheitsvorkehrungen für den Einsatz der elektronischen Datenverarbeitung einschließlich in Bezug auf Netzwerk- und Informationssysteme, die in Einklang mit der Verordnung (EU) 2022/2554 eingerichtet und verwaltet werden, und im Hinblick auf die Verarbeitung personenbezogener Daten insbesondere technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679;
 
 
 6.  eine vollständige Dokumentation der ausgeführten Geschäfte, die insbesondere gewährleistet, dass jedes das Investmentvermögen betreffende Geschäft nach Herkunft, Kontrahent sowie Art und Abschlusszeitpunkt und -ort rekonstruiert werden kann;
@@ -2228,10 +2248,13 @@ Die Regelungen haben sich insbesondere an Größe und Vergütungsstruktur der Ka
 6.  den Artikeln 6 bis 9 und 18 bis 27 der Verordnung (EU) 2017/2402,
 
 
-7.  den Artikeln 3 bis 10 und 12 bis 13 der Verordnung (EU) 2019/2088 sowie
+7.  den Artikeln 3 bis 10 und 12 bis 13 der Verordnung (EU) 2019/2088,
 
 
-8.  den Artikeln 5 bis 7 der Verordnung (EU) 2020/852
+8.  den Artikeln 5 bis 7 der Verordnung (EU) 2020/852 sowie
+
+
+9.  nach den Artikeln 5 bis 14, 17 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung mit einer Delegierten Verordnung nach den Artikeln 15, 20, 28 oder Artikel 30 der Verordnung (EU) 2022/2554
 
 
 
@@ -4605,10 +4628,13 @@ Der Vorstand hat bei der Wahrnehmung seiner Aufgaben unabhängig von der Verwahr
     e)  nach den Artikeln 5 bis 9, 18 bis 27 und 43 Absatz 5 und 6 der Verordnung (EU) 2017/2402,
 
 
-    f)  nach Artikel 3 bis 13 der Verordnung (EU) 2019/2088 und
+    f)  nach Artikel 3 bis 13 der Verordnung (EU) 2019/2088,
 
 
-    g)  nach den Artikeln 5 bis 7 der Verordnung (EU) 2020/852 sowie
+    g)  nach den Artikeln 5 bis 7 der Verordnung (EU) 2020/852 und
+
+
+    h)  nach den Artikeln 5 bis 14, 17 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung mit einer Delegierten Verordnung nach den Artikeln 15, 20, 28 oder Artikel 30 der Verordnung (EU) 2022/2554, sowie
 
 
 
@@ -4844,10 +4870,13 @@ Eine intern verwaltete offene Investmentkommanditgesellschaft hat der Bundesanst
 5.  den Artikeln 5 bis 9, 18 bis 27 und 43 Absatz 5 und 6 der Verordnung (EU) 2017/2402,
 
 
-6.  den Artikeln 3 bis 13 der Verordnung (EU) 2019/2088 sowie
+6.  den Artikeln 3 bis 13 der Verordnung (EU) 2019/2088,
 
 
-7.  den Artikeln 5 bis 7 der Verordnung (EU) 2020/852
+7.  den Artikeln 5 bis 7 der Verordnung (EU) 2020/852 sowie
+
+
+8.  den Artikeln 5 bis 14, 17 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung mit einer Delegierten Verordnung nach den Artikeln 15, 20, 28 oder Artikel 30 der Verordnung (EU) 2022/2554.
 
 
 
@@ -6747,7 +6776,7 @@ Auf die Verwaltung von Sonstigen Investmentvermögen nach Maßgabe der §§ 220 
 4.  unverbriefte Darlehensforderungen,
 
 
-5.  Kryptowerte im Sinne von § 1 Absatz 11 Satz 4 des Kreditwesengesetzes zu Anlagezwecken, wenn deren Verkehrswert ermittelt werden kann.
+5.  Kryptowerte zu Anlagezwecken, wenn deren Verkehrswert ermittelt werden kann.
 
 
 
@@ -7731,7 +7760,7 @@ Auf die Verwaltung von Infrastruktur-Sondervermögen nach Maßgabe der §§ 260b
 8.  Gelddarlehen nach § 285 Absatz 3 Satz 1 und 3, der mit der Maßgabe entsprechend anwendbar ist, dass abweichend von § 285 Absatz 3 Satz 1 höchstens 30 Prozent des aggregierten eingebrachten Kapitals und des noch nicht eingeforderten zugesagten Kapitals des geschlossenen Publikums-AIF für diese Darlehen verwendet werden und im Fall des § 285 Absatz 3 Satz 1 Nummer 3 die dem jeweiligen Unternehmen gewährten Darlehen nicht die Anschaffungskosten der an dem Unternehmen gehaltenen Beteiligungen überschreiten,
 
 
-9.  Kryptowerte im Sinne des § 1 Absatz 11 Satz 4 des Kreditwesengesetzes zu Anlagezwecken, wenn deren Verkehrswert ermittelt werden kann.
+9.  Kryptowerte zu Anlagezwecken, wenn deren Verkehrswert ermittelt werden kann.
 
 
 
@@ -8470,7 +8499,7 @@ Nr. 231/2013             .
     i)  Edelmetalle, unverbriefte Darlehensforderungen und Unternehmensbeteiligungen, wenn der Verkehrswert dieser Beteiligungen ermittelt werden kann,
 
 
-    j)  Kryptowerte im Sinne von § 1 Absatz 11 Satz 4 des Kreditwesengesetzes zu Anlagezwecken, wenn deren Verkehrswert ermittelt werden kann;
+    j)  Kryptowerte zu Anlagezwecken, wenn deren Verkehrswert ermittelt werden kann;
 
 
 
@@ -11318,6 +11347,8 @@ Für Kapitalverwaltungsgesellschaften, die PEPPs im Sinne der Verordnung (EU) 20
 
 
 
+(6h) Zuwiderhandlungen gegen die Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verordnung (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011 (ABl. L 333 vom 27.12.2022, S. 1) durch Personen im Anwendungsbereich dieses Gesetzes können nach § 56 Absatz 5e und 6 Nummer 1 und 3 des Kreditwesengesetzes geahndet werden.
+
 (7) Die Ordnungswidrigkeit kann wie folgt geahndet werden:
 
 1.  in den Fällen des Absatzes 1 Nummer 1, 4 und 5, des Absatzes 2 Nummer 1, 3 bis 7, 9, 10, 13, 14, 25 bis 30, 33 bis 35, 76, 77, 81, des Absatzes 6b Nummer 8, des Absatzes 6c Nummer 1 sowie der Absätze 6d bis 6f und bei einer wiederholten Vornahme einer der in Absatz 1 Nummer 2 und 3 oder in Absatz 2 Nummer 13a, 15a, 24, 31, 32, 37, 38, 40, 41, 49 bis 63, 65, 72, 73, 78, 79 und 80 aufgeführten Handlungen mit einer Geldbuße bis zu fünf Millionen Euro; gegenüber einer juristischen Person oder einer Personenvereinigung kann über diesen Betrag hinaus eine Geldbuße in Höhe bis zu 10 Prozent des jährlichen Gesamtumsatzes verhängt werden;
@@ -11387,7 +11418,7 @@ zu übermitteln; ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, i
 2.  wegen Verstößen gegen Gebote und Verbote, die in § 340 Absatz 7 Nummer 2 oder Nummer 3 oder Absatz 3 oder im Zusammenhang mit AIF in § 340 Absatz 7 Nummer 1 in Bezug genommen werden, kann die Bundesanstalt und
 
 
-3.  wegen Verstößen gegen die Verordnung (EU) 2015/2365 und die Verordnung (EU) 2016/1011 im Zusammenhang mit OGAW und AIF muss die Bundesanstalt
+3.  wegen Verstößen gegen die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011 und die Verordnung (EU) 2022/2554 im Zusammenhang mit OGAW und AIF muss die Bundesanstalt
 
 
 
@@ -11912,4 +11943,9 @@ Die §§ 45 bis 47, 123 und 135 in der ab 17. August 2021 geltenden Fassung sind
 ##### § 364 Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie
 
 Die §§ 12, 160 und 353 in der ab dem 1. August 2022 geltenden Fassung sind erstmals auf Jahresberichte für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten Vorschriften in der bis einschließlich 31. Juli 2022 geltenden Fassung sind letztmals anzuwenden auf Jahresberichte für das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
+
+
+##### § 365 Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz
+
+§ 38 Absatz 3 Satz 2 Nummer 9, § 121 Absatz 3 Satz 1 Nummer 2 Buchstabe h und § 136 Absatz 3 Satz 2 Nummer 8 sind erstmals anzuwenden auf Rechnungslegungsunterlagen für ein nach dem 31. Dezember 2024 beginnendes Geschäftsjahr.
 

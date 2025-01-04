@@ -19,11 +19,6 @@ Stand: Ersetzt V 707-27 v. 23.12.2016 I 3413 (FFG 2017)
 [^F832216_01_BJNR1C30A0024]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (kodifizierter Text) (ABl. L 241 vom 17.9.2015, S. 1).
 
 
-## Eingangsformel
-
-Der Bundestag hat das folgende Gesetz beschlossen:
-
-
 ## Teil 1 - Aufbau und Organisation der Filmförderungsanstalt
 
 
@@ -37,13 +32,6 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 (2) Die Filmförderungsanstalt kann ihren Namen durch Regelung in der Satzung ändern.
 
 (3) Die Filmförderungsanstalt hat ihren Sitz in Berlin.
-
-
-#### Schlussformel
-
-(1) Die verfassungsmäßigen Rechte des Bundesrates sind gewahrt.
-
-(2) Das vorstehende Gesetz wird hiermit ausgefertigt. Es ist im Bundesgesetzblatt zu verkünden.
 
 
 #### § 2 Aufgaben der Filmförderungsanstalt

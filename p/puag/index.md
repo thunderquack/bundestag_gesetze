@@ -19,8 +19,9 @@ Zuletzt geändert durch
 :   Art. 12 Abs. 1 G v. 21.12.2020 I 3229
 
 Änderung durch
-:   Art. 2 G v. 20.12.2024 I Nr. 440 mWv 31.12.2024 noch nicht berücksichtigt
+:   Art. 2 G v. 20.12.2024 I Nr. 440 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Stand: Das G ist gem. Art. 3 G v. 19.6.2001 I 1142 mWv 26.6.2001 in Kraft getreten
 
 ## § 1 Einsetzung
 
@@ -362,7 +363,7 @@ Für die Einnahme eines Augenscheins gilt § 18 Abs. 1 bis 3 erster Halbsatz und
 
 ## § 36 Gerichtliche Zuständigkeiten
 
-(1) Zuständiges Gericht für Streitigkeiten nach diesem Gesetz ist der Bundesgerichtshof, soweit Artikel 93 des Grundgesetzes sowie § 13 des Bundesverfassungsgerichtsgesetzes und die Vorschriften dieses Gesetzes nichts Abweichendes bestimmen.
+(1) Zuständiges Gericht für Streitigkeiten nach diesem Gesetz ist der Bundesgerichtshof, soweit Artikel 94 des Grundgesetzes sowie § 13 des Bundesverfassungsgerichtsgesetzes und die Vorschriften dieses Gesetzes nichts Abweichendes bestimmen.
 
 (2) Hält der Bundesgerichtshof den Einsetzungsbeschluss für verfassungswidrig und kommt es für die Entscheidung auf dessen Gültigkeit an, so ist das Verfahren auszusetzen und die Entscheidung des Bundesverfassungsgerichtes einzuholen. Satz 1 gilt für den Ermittlungsrichter oder die Ermittlungsrichterin des Bundesgerichtshofes entsprechend.
 

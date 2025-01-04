@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 3932, 3933
 
 Änderung durch
-:   Art. 1 G v. 18.12.2024 I Nr. 423 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 1 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Das G tritt gem. Art. 90 Abs. 1 G v. 20.8.2021 I 3932 am 1.1.2025 in Kraft. Gem. Art. 90 Abs. 4 Satz 1 dieses G treten § 6 Abs. 5 u. § 18 Abs. 2 am 1.10.2021 in Kraft.
 
@@ -86,6 +86,7 @@ Dieses Gesetz gilt für
 
 
 
+Stiefkinder nach Satz 1 Nummer 3 und Pflegekinder nach Satz 1 Nummer 4 stehen den Waisen nach Satz 1 Nummer 2 gleich. Berechtigte nach Satz 1 Nummer 6 und 7 stehen den Eltern nach Satz 1 Nummer 5 gleich.
 
 (7) Pflegekinder sind Personen, mit denen eine Soldatin oder ein Soldat oder eine geschädigte Person durch ein familienähnliches, auf Dauer angelegtes Band verbunden ist, sofern die Soldatin oder der Soldat oder die geschädigte Person die Personen nicht zu Erwerbszwecken in den Haushalt aufgenommen hat und das Obhuts- und Pflegeverhältnis zu den Eltern nicht mehr besteht.
 
@@ -125,15 +126,42 @@ Eine Wehrdienstbeschädigung liegt nicht vor, wenn die geschädigte Person die G
 
 (2) Zum Wehrdienst gehören auch
 
-1.  Verrichtungen und Veranstaltungen nach § 42 Absatz 2 Satz 2 und Absatz 3 des Soldatenversorgungsgesetzes sowie
+1.  Dienstreisen und die dienstliche Tätigkeit am Bestimmungsort,
 
 
-2.  das Erscheinen zur Feststellung der Wehrdienstfähigkeit, zur Eignungsuntersuchung und Eignungsfeststellung oder im Rahmen der Dienstleistungs- oder Wehrüberwachung auf Anordnung einer zuständigen Dienststelle.
+2.  die Teilnahme an dienstlichen Veranstaltungen,
+
+
+3.  Nebentätigkeiten im öffentlichen Dienst oder in dem ihm gleichstehenden Dienst, zu deren Übernahme die Soldatin oder der Soldat nach § 20 Absatz 7 des Soldatengesetzes verpflichtet ist,
+
+
+4.  Nebentätigkeiten, deren Wahrnehmung von der Soldatin oder dem Soldaten im Zusammenhang mit den Dienstgeschäften erwartet wird, sofern die Soldatin oder der Soldat hierbei nicht in der gesetzlichen Unfallversicherung nach dem Siebten Buch Sozialgesetzbuch versichert ist, sowie
+
+
+5.  das Erscheinen zur Feststellung der Wehrdienstfähigkeit, zur Eignungsuntersuchung und Eignungsfeststellung oder im Rahmen der Dienstleistungs- oder Wehrüberwachung auf Anordnung einer zuständigen Dienststelle.
 
 
 
 
-(3) Erfasst sind auch Unfälle, welche die geschädigte Person erleidet
+(3) Als Wehrdienst gilt auch das Zurücklegen des mit dem Dienst zusammenhängenden Weges zu und von der Dienststelle. Hat die Soldatin oder der Soldat wegen der Entfernung ihrer oder seiner ständigen Familienwohnung vom Dienstort am Dienstort oder in dessen Nähe eine Unterkunft, so gilt Satz 1 auch für den Weg zwischen der Familienwohnung und der Dienststelle oder der Unterkunft am Dienstort. Der Zusammenhang mit dem Dienst gilt als nicht unterbrochen, wenn die Soldatin oder der Soldat
+
+1.  von dem unmittelbaren Weg zwischen der Wohnung und der Dienststelle in vertretbarem Umfang abweicht,
+
+    a)  um ein eigenes Kind, für das ihr oder ihm dem Grunde nach Kindergeld zusteht, wegen ihrer oder seiner eigenen Berufstätigkeit oder der Berufstätigkeit ihres oder seines Ehegatten in fremde Obhut zu geben oder aus fremder Obhut abzuholen oder
+
+
+    b)  weil sie oder er mit anderen berufstätigen oder in der gesetzlichen Unfallversicherung versicherten Personen gemeinsam ein Fahrzeug für den Weg zu und von der Dienststelle benutzt oder
+
+
+
+
+
+2.  in ihrer oder seiner Wohnung Dienst leistet und Wege zurücklegt, um ein Kind im Sinne der Nummer 1 Buchstabe a in fremde Obhut zu geben oder aus fremder Obhut abzuholen.
+
+
+
+
+(4) Von Absatz 1 Satz 1 Nummer 1 sind auch Unfälle erfasst, welche die geschädigte Person erleidet
 
 1.  während einer Maßnahme nach den Kapiteln 3 bis 5,
 
@@ -145,8 +173,9 @@ Eine Wehrdienstbeschädigung liegt nicht vor, wenn die geschädigte Person die G
 
 
 
+Ein Unfall, den die Soldatin oder der Soldat bei der Gewährung der unentgeltlichen truppenärztlichen Versorgung oder auf einem hierzu notwendigen Weg erleidet, gilt ebenfalls als Unfall nach Absatz 1 Satz 1 Nummer 1.
 
-(4) Als Wehrdienstbeschädigung gilt auch die Beschädigung oder der Verlust eines im oder am Körper getragenen Hilfsmittels.
+(5) Als Wehrdienstbeschädigung gilt auch, wenn statt der primären Gesundheitsstörung die Beschädigung oder der Verlust eines im oder am Körper getragenen Hilfsmittels vorliegt.
 
 
 ### § 4 Besondere Fallgestaltungen
@@ -213,7 +242,7 @@ Satz 1 Nummer 3 gilt auch, wenn sich der tätliche Angriff oder dessen rechtmä�
 
 (3) Vorübergehende sekundäre Gesundheitsstörungen sind nicht zu berücksichtigen; als vorübergehend gilt ein Zeitraum von bis zu sechs Monaten.
 
-(4) Ist bei der geschädigten Person neben einer Schädigungsfolge auf Grund einer Wehrdienstbeschädigung auch eine Schädigungsfolge auf Grund eines schädigenden Ereignisses nach dem Vierzehnten Buch Sozialgesetzbuch anerkannt worden, so ist ein einheitlicher Grad der Schädigungsfolgen festzusetzen.
+(4) Ist bei der geschädigten Person neben einer Schädigungsfolge auf Grund einer Wehrdienstbeschädigung auch eine Schädigungsfolge auf Grund eines schädigenden Ereignisses nach dem Vierzehnten Buch Sozialgesetzbuch oder nach einem Gesetz, welches die Anwendung des Vierzehnten Buches Sozialgesetzbuch vorsieht, anerkannt worden, so ist ein einheitlicher Grad der Schädigungsfolgen festzusetzen.
 
 (5) Das Bundesministerium der Verteidigung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Folgendes zu regeln:
 
@@ -289,7 +318,9 @@ Ansprüche auf Leistungen der Soldatenentschädigung gehen Ansprüchen auf Leist
 
 (1) Die Leistungen der Soldatenentschädigung gehen Leistungen anderer Träger, insbesondere anderer Sozialleistungsträger, vor.
 
-(2) Leistungsansprüche aus privaten Sicherungs- und Versorgungssystemen sind auf Leistungen der Soldatenentschädigung nicht anzurechnen.
+(2) Ausgleichszahlungen nach den §§ 11 und 43 Absatz 1 sowie den §§ 44 und 45 werden nicht als Einkommen oder Vermögen auf andere Sozialleistungen oder auf Leistungen nach dem Asylbewerberleistungsgesetz angerechnet.
+
+(3) Leistungsansprüche aus privaten Sicherungs- und Versorgungssystemen sind auf Leistungen der Soldatenentschädigung nicht anzurechnen.
 
 
 ## Kapitel 2 - Ausgleich für gesundheitliche Schädigungsfolgen
@@ -299,19 +330,19 @@ Ansprüche auf Leistungen der Soldatenentschädigung gehen Ansprüchen auf Leist
 
 (1) Geschädigte Personen erhalten einen Ausgleich für gesundheitliche Schädigungsfolgen als monatliche Zahlung in Höhe von
 
-1.  400 Euro bei einem Grad der Schädigungsfolgen von 30 und 40,
+1.  418 Euro bei einem Grad der Schädigungsfolgen von 30 und 40,
 
 
-2.  800 Euro bei einem Grad der Schädigungsfolgen von 50 und 60,
+2.  837 Euro bei einem Grad der Schädigungsfolgen von 50 und 60,
 
 
-3.  1 200 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
+3.  1 255 Euro bei einem Grad der Schädigungsfolgen von 70 und 80,
 
 
-4.  1 600 Euro bei einem Grad der Schädigungsfolgen von 90,
+4.  1 673 Euro bei einem Grad der Schädigungsfolgen von 90,
 
 
-5.  2 000 Euro bei einem Grad der Schädigungsfolgen von 100.
+5.  2 091 Euro bei einem Grad der Schädigungsfolgen von 100.
 
 
 
@@ -321,7 +352,13 @@ Ansprüche auf Leistungen der Soldatenentschädigung gehen Ansprüchen auf Leist
 
 ### § 12 Abfindung
 
-Anstelle der monatlichen Zahlung nach § 11 Absatz 1 kann auf Antrag eine Abfindung in Höhe des 60-fachen der monatlichen Zahlung gezahlt werden, wenn die geschädigte Person das 18. Lebensjahr vollendet hat und nicht zu erwarten ist, dass innerhalb der nächsten fünf Jahre der Grad der Schädigungsfolgen wesentlich sinkt.
+(1) Einer geschädigten Person, die das 18. Lebensjahr vollendet hat und einen Anspruch auf eine monatliche Zahlung nach § 11 Absatz 1 hat, kann auf Antrag eine Abfindung gezahlt werden, wenn nicht zu erwarten ist, dass innerhalb der nächsten fünf Jahre der Grad der Schädigungsfolgen wesentlich sinkt.
+
+(2) Die Zahlung der Abfindung erfolgt jeweils für fünf Jahre (Abfindungszeitraum). Der Abfindungszeitraum beginnt mit dem auf den Antrag folgenden Monat.
+
+(3) Die Höhe der Abfindung beträgt das 60-Fache der monatlichen Entschädigungszahlung nach § 11 Absatz 1. Auf die Abfindung sind bereits geleistete monatliche Entschädigungszahlungen anzurechnen.
+
+(4) Mit Zahlung der Abfindung sind die Ansprüche auf die monatlichen Entschädigungszahlungen für die Dauer von fünf Jahren abgegolten.
 
 
 ### § 13 Höhe und Zeitpunkt der Anpassung, Verordnungsermächtigung
@@ -402,7 +439,10 @@ Die Leistungen der medizinischen Versorgung umfassen insbesondere:
 11. Reisekosten nach § 43 des Siebten Buches Sozialgesetzbuch,
 
 
-12. Krankengeld der Soldatenentschädigung nach Kapitel 3 Abschnitt 2 Unterabschnitt 2.
+12. Krankengeld der Soldatenentschädigung nach Kapitel 3 Abschnitt 2 Unterabschnitt 2,
+
+
+13. sonstige Leistungen zur Erreichung und Sicherstellung des Erfolges der Leistungen zur medizinischen Rehabilitation.
 
 
 
@@ -441,7 +481,7 @@ Die Leistungen der medizinischen Versorgung umfassen insbesondere:
 
 (2) Arbeitsunfähigkeit liegt vor, wenn die geschädigte Person auf Grund der anerkannten Schädigungsfolge ihre zuletzt vor der Arbeitsunfähigkeit ausgeübte Erwerbstätigkeit nicht mehr oder nur unter der Gefahr der Verschlimmerung des Gesundheitszustands ausführen kann.
 
-(3) Frühere Soldatinnen und frühere Soldaten, die am Tag der Beendigung des Wehrdienstverhältnisses infolge der anerkannten Schädigungsfolge arbeitsunfähig sind und vor Beginn des Wehrdienstverhältnisses keine Erwerbstätigkeit ausgeübt haben, gelten auch dann als arbeitsunfähig, wenn sie nicht oder nur mit der Gefahr einer Verschlimmerung des Gesundheitszustands fähig sind, einer Erwerbstätigkeit oder Berufsausbildung nachzugehen. Als Zeitpunkt des Eintritts der Arbeitsunfähigkeit gilt der Zeitpunkt der Beendigung des Wehrdienstverhältnisses.
+(3) Frühere Soldatinnen und frühere Soldaten, die nach Beendigung des Wehrdienstverhältnisses infolge der anerkannten Schädigungsfolge arbeitsunfähig sind und vor Beginn des Wehrdienstverhältnisses keine Erwerbstätigkeit ausgeübt haben, gelten auch dann als arbeitsunfähig, wenn sie nicht oder nur mit der Gefahr einer Verschlimmerung des Gesundheitszustands fähig sind, einer Erwerbstätigkeit oder Berufsausbildung nachzugehen.
 
 (4) Als arbeitsunfähig gelten auch geschädigte Personen, die, ohne arbeitsunfähig zu sein, wegen einer Maßnahme der medizinischen Versorgung nach diesem Gesetz keine ganztägige Erwerbstätigkeit ausüben können. Dies gilt nicht für Maßnahmen zur Anpassung oder Instandsetzung von Hilfsmitteln und Körperersatzstücken. Insoweit gelten § 43 des Siebten Buches Sozialgesetzbuch und § 65a Absatz 1 Satz 1 und Absatz 2 des Ersten Buches Sozialgesetzbuch entsprechend.
 
@@ -450,13 +490,13 @@ Die Leistungen der medizinischen Versorgung umfassen insbesondere:
 
 ##### § 20 Berechnung und Höhe des Krankengeldes der Soldatenentschädigung
 
-(1) Das Krankengeld der Soldatenentschädigung beträgt 80 Prozent des erzielten regelmäßigen Entgelts und darf das entgangene regelmäßige Nettoarbeitsentgelt (Regelentgelt) nicht übersteigen. Das Regelentgelt wird bis zur Höhe der jeweils geltenden Leistungsbemessungsgrenze berücksichtigt. Leistungsbemessungsgrenze ist der 360. Teil der jährlichen Beitragsbemessungsgrenze der allgemeinen Rentenversicherung. Im Übrigen berechnet sich das Krankengeld der Soldatenentschädigung entsprechend § 47 des Fünften Buches Sozialgesetzbuch.
+(1) Das Krankengeld der Soldatenentschädigung beträgt 80 Prozent des erzielten regelmäßigen Entgelts (Regelentgelt) und darf das entgangene regelmäßige Nettoarbeitsentgelt nicht übersteigen. Das Regelentgelt wird bis zur Höhe der jeweils geltenden Leistungsbemessungsgrenze berücksichtigt. Leistungsbemessungsgrenze ist der 360. Teil der jährlichen Beitragsbemessungsgrenze der allgemeinen Rentenversicherung. Im Übrigen berechnet sich das Krankengeld der Soldatenentschädigung entsprechend § 47 des Fünften Buches Sozialgesetzbuch.
 
-(2) Bei geschädigten Personen, die geringfügig beschäftigt sind, entspricht das zugrunde zu legende Regelentgelt dem Nettoentgelt. Bei geschädigten Personen, die nicht gesetzlich krankenversichert sind, wird das Krankengeld der Soldatenentschädigung auf Grundlage der nachgewiesenen Einnahmen berechnet, die beitragspflichtig wären, wenn die geschädigte Person gesetzlich krankenversichert wäre.
+(2) Bei geschädigten Personen, die geringfügig beschäftigt sind, entspricht das zugrunde zu legende Regelentgelt dem Nettoentgelt. Bei geschädigten Personen, die nicht der Versicherungspflicht in der gesetzlichen Krankenversicherung unterliegen, wird das Krankengeld der Soldatenentschädigung auf Grundlage der nachgewiesenen Einnahmen berechnet, die beitragspflichtig wären, wenn die geschädigte Person gesetzlich krankenversichert wäre.
 
-(3) Wenn es für die frühere Soldatin oder den früheren Soldaten günstiger ist, gelten als Regelentgelt die bei Beendigung des Wehrdienstverhältnisses bezogenen Geld- und Sachbezüge.
+(3) Für den Fall, dass die geschädigte Person im Zeitpunkt der Beendigung des Wehrdienstverhältnisses infolge einer anerkannten Wehrdienstbeschädigung arbeitsunfähig ist, gelten, wenn dies für die Person günstiger ist, als Regelentgelt die bei der Beendigung des Wehrdienstverhältnisses bezogenen Geld- und Sachbezüge.
 
-(4) Ein Anspruch auf Krankengeld der Soldatenentschädigung besteht nicht, wenn unmittelbar vor der Arbeitsunfähigkeit Arbeitslosengeld II bezogen wurde.
+(4) Ein Anspruch auf Krankengeld der Soldatenentschädigung besteht nicht, wenn unmittelbar vor der Arbeitsunfähigkeit Bürgergeld bezogen wurde.
 
 (5) Die Berechnungsgrundlage, die dem Krankengeld der Soldatenentschädigung zugrunde liegt, wird entsprechend § 70 des Neunten Buches Sozialgesetzbuch angepasst.
 
@@ -513,19 +553,10 @@ Im Fall einer Wiedererkrankung gelten die §§ 19 bis 21 mit der Maßgabe entspr
 
 Das Krankengeld der Soldatenentschädigung wird um die Zahlbeträge der folgenden Leistungen gekürzt, wenn die Leistungen von einem Zeitpunkt nach dem Beginn der Arbeitsunfähigkeit oder der stationären Behandlung an zuerkannt werden:
 
-1.  Altersrente, Rente wegen Erwerbsminderung oder Landabgaberente aus der Alterssicherung der Landwirte,
+1.  Rente wegen teilweiser Erwerbsminderung oder Teilrente nach dem Sechsten Buch Sozialgesetzbuch,
 
 
-2.  Rente wegen teilweiser Erwerbsminderung oder Teilrente nach dem Sechsten Buch Sozialgesetzbuch,
-
-
-3.  Knappschaftsausgleichsleistung oder Rente für Bergleute,
-
-
-4.  vergleichbare Leistungen, die von einem Träger oder einer staatlichen Stelle im Ausland gezahlt werden,
-
-
-5.  Leistungen, die ihrer Art nach den in den Nummern 1 bis 3 genannten Leistungen vergleichbar sind, wenn sie nach Bestimmungen gezahlt werden, die ausschließlich für das in dem in Artikel 3 des Einigungsvertrags genannten Gebiet gelten.
+2.  vergleichbare Leistungen, die von einem Träger oder einer staatlichen Stelle im Inland oder Ausland als Teilrente gezahlt werden.
 
 
 
@@ -563,7 +594,7 @@ Die Erstattung erfolgt bis zur Höhe der Beiträge, die zur gesetzlichen Rentenv
 
 ##### § 26 Erstattung der Kosten selbstbeschaffter Maßnahmen der medizinischen Versorgung
 
-(1) Entstehen der geschädigten Person Kosten für eine selbstbeschaffte notwendige Leistung der medizinischen Versorgung der Schädigungsfolge nach Antragstellung, jedoch vor Anerkennung der Schädigungsfolge, werden ihr die entstandenen Kosten im angemessenen Umfang erstattet. Dies gilt auch, wenn nach Abschluss der selbstbeschafften Leistung der medizinischen Versorgung keine Schädigungsfolge mehr vorliegt. Angemessen sind die Kosten, die auch bei der Inanspruchnahme der Sachleistung nach diesem Gesetz angefallen wären. § 27 Absatz 2 Nummer 2 und § 59 Absatz 2 gelten entsprechend.
+(1) Entstehen der geschädigten Person Kosten für eine selbstbeschaffte notwendige Leistung der medizinischen Versorgung der Schädigungsfolge nach Antragstellung, jedoch vor Anerkennung der Schädigungsfolge, werden ihr die entstandenen Kosten im angemessenen Umfang erstattet. Dies gilt auch, wenn nach Abschluss der selbstbeschafften Leistung der medizinischen Versorgung keine Schädigungsfolge mehr vorliegt. Angemessen sind die Kosten, die auch bei der Inanspruchnahme der Sachleistung nach diesem Gesetz angefallen wären. Absatz 2 Nummer 1 und § 59 Absatz 2 gelten entsprechend.
 
 (2) Entstehen die Kosten einer selbstbeschafften notwendigen Leistung der medizinischen Versorgung nach Anerkennung der Schädigungsfolge, werden sie der geschädigten Person in der entstandenen Höhe erstattet, wenn
 
@@ -645,7 +676,7 @@ Bei der Auswahl der Leistungen werden Eignung, Neigung, bisherige Tätigkeit sow
 
 (2) Für die Höhe und die Berechnung des Übergangsgeldes gilt § 20 entsprechend. Schließt sich eine Maßnahme nach Kapitel 4 unmittelbar an den Bezug von Krankengeld der Soldatenentschädigung an, entspricht die Höhe des Übergangsgeldes der Höhe des zuletzt gezahlten Krankengeldes der Soldatenentschädigung.
 
-(3) Wird die geschädigte Person während einer Maßnahme zur Teilhabe am Arbeitsleben arbeitsunfähig, wird Krankengeld der Soldatenentschädigung in der Höhe des Übergangsgeldes gewährt.
+(3) Wird die geschädigte Person während einer Maßnahme zur Teilhabe am Arbeitsleben infolge der anerkannten Schädigungsfolge arbeitsunfähig, wird Krankengeld der Soldatenentschädigung in der Höhe des Übergangsgeldes gewährt.
 
 (4) § 71 Absatz 1 bis 3 und § 72 des Neunten Buches Sozialgesetzbuch gelten entsprechend.
 
@@ -748,10 +779,12 @@ Leistungen können zur Deckung des schädigungsbedingten Bedarfs auch in sonstig
 
 (2) Der Erwerbsschaden ist der schädigungsbedingte Unterschiedsbetrag zwischen dem derzeitigen Einkommen und dem Referenzeinkommen.
 
+(3) Eine durch schädigungsunabhängige Einwirkungen, Ereignisse oder Verfügungen, insbesondere durch das Hinzutreten von schädigungsunabhängigen Gesundheitsstörungen, bewirkte Minderung des derzeitigen Einkommens bleibt bei der Berechnung des Erwerbsschadensausgleichs unberücksichtigt. In diesem Fall wird das derzeitige Einkommen (§ 38), das vor dem Eintritt der schädigungsunabhängigen Einwirkung, des Ereignisses oder der Verfügung erzielt worden ist, fiktiv angerechnet und jährlich nach § 39 Absatz 4 angepasst.
+
 
 ### § 38 Derzeitiges Einkommen
 
-Derzeitiges Einkommen sind Arbeitsentgelte nach § 14 des Vierten Buches Sozialgesetzbuch, Arbeitseinkommen nach § 15 des Vierten Buches Sozialgesetzbuch und Erwerbsersatzeinkommen nach § 18a Absatz 3 Nummer 1 bis 7 und 9 des Vierten Buches Sozialgesetzbuch, sowie der Berufsschadensausgleich nach § 18a Absatz 3 Nummer 8 des Vierten Buches Sozialgesetzbuch. Die §§ 18b und 18c des Vierten Buches Sozialgesetzbuch gelten entsprechend. Ein monatlich feststehendes Einkommen ist gegeben, wenn sich ein bestimmter Monatsbetrag auf Grund eines Gesetzes, eines Tarifvertrags, einer Betriebsvereinbarung oder einer Vereinbarung mit dem Arbeitgeber ergibt. Sonderleistungen wie Weihnachtsgratifikationen, zusätzliche Monatsgehälter und Erfolgsprämien sind als Einkommen in den Monaten zu berücksichtigen, in denen sie gezahlt werden.
+Derzeitiges Einkommen sind die in § 18a des Vierten Buches Sozialgesetzbuch genannten Einkommensarten, mit Ausnahme der in § 18a Absatz 1 Satz 1 Nummer 3 und Absatz 3 Satz 1 Nummer 10 des Vierten Buches Sozialgesetzbuch genannten Einkommensarten. Die §§ 18b und 18c des Vierten Buches Sozialgesetzbuch gelten entsprechend.
 
 
 ### § 39 Referenzeinkommen
@@ -777,6 +810,7 @@ Derzeitiges Einkommen sind Arbeitsentgelte nach § 14 des Vierten Buches Sozialg
 
 
 
+Die Zuordnung des monatlichen Referenzeinkommens zu der geschädigten Person erfolgt anhand der Verhältnisse vor der erstmaligen Auswirkung der Schädigungsfolgen.
 
 (2) Hat eine geschädigte Person in dem Beruf, den sie vor der Auswirkung der Schädigungsfolge ausgeübt hat, ein höheres Einkommen als das nach Absatz 1 festgelegte Referenzeinkommen erzielt, ist als Referenzeinkommen das vor der Auswirkung der Schädigungsfolge in den letzten zwölf Monaten oder, wenn dies günstiger ist, in den letzten 36 Monaten vor der Auswirkung der Schädigungsfolgen regelmäßig erzielte und nach § 38 zu ermittelnde Einkommen, höchstens jedoch 6 402 Euro, zugrunde zu legen. Bei monatlich feststehendem Einkommen wird auf die Ermittlung eines durchschnittlichen Einkommens verzichtet, wenn dies günstiger ist.
 
@@ -799,9 +833,9 @@ Die Ermittlung des Referenzeinkommens nach Absatz 2 bleibt unberührt.
 (5) Die Anpassung erfolgt durch Rechtsverordnung des Bundesministeriums der Verteidigung, die nicht der Zustimmung des Bundesrates bedarf, jeweils zum gleichen Zeitpunkt, zu dem die Renten der gesetzlichen Rentenversicherung angepasst werden.
 
 
-### § 40 Dauer des Bezug von Erwerbsschadensausgleich
+### § 40 Dauer des Bezugs von Erwerbsschadensausgleich
 
-Der Erwerbsschadensausgleich wird bis zum Ablauf des Monats gezahlt, im dem die geschädigte Person
+Der Anspruch auf Erwerbsschadensausgleich endet mit Ablauf des Kalendermonats, der dem Kalendermonat vorausgeht, ab dem die geschädigte Person
 
 1.  Altersrente nach dem Sechsten Buch Sozialgesetzbuch bezieht,
 
@@ -834,6 +868,8 @@ Satz 1 Nummer 4 gilt nicht, wenn die geschädigte Person zum Zeitpunkt des Errei
 
 Die Erstattung erfolgt für nachgewiesene entrichtete Beiträge bis zur Höhe der Beiträge, die zur gesetzlichen Rentenversicherung für die Zeit des Bezugs von Erwerbsschadensausgleich zu entrichten wären, wenn für die geschädigte Person nach Absatz 1 eine Rentenversicherungspflicht beantragt worden wäre.
 
+(3) In der gesetzlichen Krankenversicherung nach § 5 Absatz 1 Nummer 13 des Fünften Buches Sozialgesetzbuch versicherungspflichtig oder freiwillig in der gesetzlichen Krankenversicherung versicherte Empfängerinnen und Empfänger von Erwerbsschadensausgleich können auf Antrag einen Beitragszuschuss zu ihren Beiträgen zur gesetzlichen Kranken- und zur sozialen Pflegeversicherung in Höhe desjenigen Betrages erhalten, um den sich die Beiträge durch Berücksichtigung des Erwerbsschadensausgleichs bei der Beitragsbemessung erhöhen. Der Beitragszuschuss ist bei der Beitragsbemessung nach § 240 des Fünften Buches Sozialgesetzbuch nicht zu berücksichtigen. Der Anspruch nach Satz 1 ist ausgeschlossen, wenn die Empfängerin oder der Empfänger einen Anspruch auf einen Beitragszuschuss des Arbeitgebers nach § 257 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch und § 61 Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch hat.
+
 
 ## Kapitel 7 - Leistungen an Hinterbliebene
 
@@ -853,18 +889,52 @@ Die Erstattung erfolgt für nachgewiesene entrichtete Beiträge bis zur Höhe de
 
 (3) Die Witwe oder der Witwer hat zusätzlich zur Leistung nach Absatz 1 Anspruch auf eine monatliche Ausgleichszahlung in Höhe von 50 Prozent des zugrunde zu legenden Referenzeinkommens der geschädigten Person nach § 39 Absatz 1, soweit sie oder er
 
-1.  Kinder der verstorbenen geschädigten Person bis zur Vollendung des 12. Lebensjahres erzieht oder
+1.  Waisen der verstorbenen geschädigten Person bis zur Vollendung des 12. Lebensjahres erzieht oder
 
 
-2.  Kinder erzieht und mit diesen Kindern in häuslicher Gemeinschaft lebt, die wegen körperlicher, geistiger oder seelischer Behinderung außerstande sind, sich selbst zu unterhalten, oder
+2.  Waisen der verstorbenen geschädigten Person, die wegen körperlicher, geistiger oder seelischer Behinderung außerstande sind, sich selbst zu unterhalten, erzieht und mit diesen Waisen in häuslicher Gemeinschaft lebt oder
 
 
-3.  zum Zeitpunkt des Versterbens der geschädigten Person voll erwerbsgemindert oder erwerbsunfähig nach dem Sechsten Buch Sozialgesetzbuch ist.
+3.  voll erwerbsgemindert oder erwerbsunfähig nach dem Sechsten Buch Sozialgesetzbuch ist.
+
+
+
+Mit Erreichen der Regelaltersgrenze beträgt die Ausgleichszahlung 30 Prozent des zugrunde zu legenden Referenzeinkommens der geschädigten Person nach § 39 Absatz 1.
+
+(4) Für die Dauer des Bezugs der Ausgleichszahlung nach Absatz 3 wird folgendes Einkommen auf diese Leistung angerechnet:
+
+1.  Renten der Rentenversicherung wegen Todes, gekürzt um 14 Prozent,
+
+
+2.  Renten der Alterssicherung der Landwirte wegen Todes, gekürzt um 14 Prozent,
+
+
+3.  Witwen- und Witwerrente der Unfallversicherung, gekürzt um den Anteil der von der Witwe oder dem Witwer zu tragenden Beiträge zur Bundesagentur für Arbeit und, soweit Beiträge zur sonstigen Sozialversicherung oder zu einem Krankenversicherungsunternehmen gezahlt werden, zusätzlich um 10 Prozent,
+
+
+4.  Witwen- und Witwergeld und vergleichbare Bezüge aus einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis oder aus einem versicherungsfreien Arbeitsverhältnis mit Anspruch auf Versorgung nach beamtenrechtlichen Vorschriften oder Grundsätzen und vergleichbare Bezüge aus der Versorgung der Abgeordneten sowie Leistungen nach dem Bundesversorgungsteilungsgesetz und vergleichbare Leistungen nach entsprechenden länderrechtlichen Regelungen, gekürzt um 25 Prozent,
+
+
+5.  Unfall-Hinterbliebenenversorgung und vergleichbare Bezüge aus einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis oder aus einem versicherungsfreien Arbeitsverhältnis mit Anspruch auf Versorgung nach beamtenrechtlichen Vorschriften oder Grundsätzen sowie vergleichbare Bezüge aus der Versorgung der Abgeordneten, gekürzt um 25 Prozent,
+
+
+6.  Renten der öffentlich-rechtlichen Versicherungs- oder Versorgungseinrichtungen bestimmter Berufsgruppen wegen Todes, gekürzt um 29,6 Prozent,
+
+
+7.  Entschädigungszahlungen an Hinterbliebene nach dem Vierzehnten Buch Sozialgesetzbuch sowie nach Gesetzen, die die entsprechende Anwendung des Vierzehnten Buches Sozialgesetzbuch vorsehen,
+
+
+8.  Renten wegen Todes, die aus Anlass eines Arbeitsverhältnisses zugesagt worden sind, sowie Leistungen aus der Versorgungsausgleichskasse, gekürzt um 17,5 Prozent; sofern es sich dabei um Leistungen handelt, die der nachgelagerten Besteuerung unterliegen, gekürzt um 23 Prozent,
+
+
+9.  Leistung nach § 46 Absatz 1 in Verbindung mit § 30.
 
 
 
 
-(4) Für die Dauer des Bezugs der Ausgleichszahlung nach Absatz 3 wird das gleichzeitig erzielte Einkommen oder Erwerbsersatzeinkommen nach den §§ 14, 15 sowie 18a bis 18e des Vierten Buches Sozialgesetzbuch auf die Ausgleichszahlung nach Absatz 3 angerechnet. Der Anspruch nach Absatz 3 ruht in Höhe der Hinterbliebenenversorgung nach den §§ 56 bis 61 des Soldatenversorgungsgesetzes.
+(5) Die Witwe oder der Witwer hat die Leistungen nach Absatz 4 nachzuweisen. Sie oder er kann verlangen, dass die Zahlstelle eine Bescheinigung über die von ihr im maßgebenden Zeitraum gezahlte Leistung und den Zeitraum, für den diese gezahlt wurde, ausstellt.
+
+(6) § 41 Absatz 3 gilt entsprechend.
 
 
 ### § 44 Ausgleichszahlung an Waisen
@@ -873,9 +943,9 @@ Die Erstattung erfolgt für nachgewiesene entrichtete Beiträge bis zur Höhe de
 
 (2) Waisen, die durch das Versterben des anderen Elternteils zu Vollwaisen werden, erhalten eine monatliche Ausgleichszahlung in Höhe von 650 Euro. § 13 gilt entsprechend.
 
-(3) Die Ausgleichszahlung wird bis zu dem Monat gezahlt, in dem die Waise das 25. Lebensjahr vollendet.
+(3) Die Ausgleichszahlung wird bis zu dem Kalendermonat gezahlt, in dem die Waise das 27. Lebensjahr vollendet.
 
-(4) Über die Vollendung des 25. Lebensjahres hinaus werden Leistungen an Waisen erbracht, solange sie die Berechtigung für Kindergeldleistungen nach § 62 des Einkommensteuergesetzes oder nach § 1 des Bundeskindergeldgesetzes nachweisen.
+(4) (weggefallen)
 
 
 ### § 45 Ausgleichszahlung an Eltern
@@ -892,17 +962,9 @@ Die Erstattung erfolgt für nachgewiesene entrichtete Beiträge bis zur Höhe de
 
 
 
-frühestens jedoch von dem Monat an, in dem die geschädigte Person das 18. Lebensjahr vollendet hätte.
+frühestens jedoch von dem Kalendermonat an, in dem die geschädigte Person das 18. Lebensjahr vollendet hätte.
 
-(2) Die monatliche Ausgleichszahlung an Eltern beträgt für jedes Kind, das an der Schädigungsfolge der Wehrdienstbeschädigung verstorben ist,
-
-1.  für ein noch lebendes Elternteil 250 Euro,
-
-
-2.  für beide Elternteile je 150 Euro.
-
-
-
+(2) Die monatliche Ausgleichszahlung an Eltern beträgt für jedes Kind, das an der Schädigungsfolge der Wehrdienstbeschädigung verstorben ist, 300 Euro. Sind mehrere anspruchsberechtigte Elternteile vorhanden, so wird die monatliche Ausgleichszahlung unter den anspruchsberechtigten Elternteilen zu gleichen Teilen aufgeteilt.
 
 (3) § 13 gilt entsprechend.
 
@@ -940,7 +1002,7 @@ frühestens jedoch von dem Monat an, in dem die geschädigte Person das 18. Lebe
 
 ### § 49 Sterbegeld
 
-(1) Beim Tod der geschädigten Person wird Sterbegeld in Höhe des Zweifachen der monatlichen Zahlung des Ausgleichs für gesundheitliche Schädigungsfolgen und des Erwerbsschadensausgleichs gewährt, soweit diese Leistungen der geschädigten Person für den Sterbemonat bewilligt waren. Für den Fall, dass der beschädigten Person zum Zeitpunkt des Versterbens Leistungen nach Kapitel 15 bewilligt waren, tritt an die Stelle des Ausgleichs für gesundheitliche Schädigungsfolgen der Gesamtbetrag nach § 83 Absatz 1 und an die Stelle des Erwerbsschadensausgleichs der Berufsschadensausgleich nach § 82.
+(1) Beim Tod der geschädigten Person wird Sterbegeld in Höhe des Zweifachen der monatlichen Zahlung des Ausgleichs für gesundheitliche Schädigungsfolgen und des Erwerbsschadensausgleichs gewährt, soweit diese Leistungen der geschädigten Person für den Sterbemonat bewilligt waren. Für den Fall, dass der geschädigten Person zum Zeitpunkt des Versterbens Leistungen nach Kapitel 15 bewilligt waren, tritt an die Stelle des Ausgleichs für gesundheitliche Schädigungsfolgen der Gesamtbetrag nach § 83 Absatz 1 und an die Stelle des Erwerbsschadensausgleichs der Berufsschadensausgleich nach § 82.
 
 (2) Anspruchsberechtigt sind in nachstehender Rangfolge
 
@@ -954,7 +1016,7 @@ frühestens jedoch von dem Monat an, in dem die geschädigte Person das 18. Lebe
 
 
 
-wenn sie mit der geschädigten Person zum Zeitpunkt des Todes in häuslicher Gemeinschaft gelebt haben. Ansonsten steht das Sterbegeld derjenigen Person zu, welche von der geschädigten Person zum Zeitpunkt des Versterbens unterhalten wurde.
+wenn sie mit der geschädigten Person zum Zeitpunkt des Todes in häuslicher Gemeinschaft gelebt haben. Hat die geschädigte Person mit keiner dieser Personen in häuslicher Gemeinschaft gelebt, so ist das Sterbegeld nach der Rangfolge des Satzes 1 derjenigen Person zu zahlen, die von der geschädigten Person unterhalten wurde.
 
 (3) Der Anspruch auf Sterbegeld ruht in Höhe der Leistung des Sterbegeldes nach den §§ 56 und 59 des Soldatenversorgungsgesetzes.
 
@@ -964,7 +1026,7 @@ wenn sie mit der geschädigten Person zum Zeitpunkt des Todes in häuslicher Gem
 
 ### § 50 Ausgleichszahlung an Partnerinnen und Partner einer verfestigten Lebensgemeinschaft
 
-Die monatliche Ausgleichszahlung nach § 43 Absatz 1 erhalten auch Partnerinnen und Partner einer zum Zeitpunkt des Versterbens der geschädigten Person verfestigten Lebensgemeinschaft, sofern die geschädigte Person an den Schädigungsfolgen einer Wehrdienstbeschädigung verstorben ist und die Partnerin oder der Partner einer verfestigten Lebensgemeinschaft unter Verzicht auf eine Erwerbstätigkeit die Betreuung eines gemeinsamen Kindes ausübt. Dieser Anspruch besteht für die ersten drei Lebensjahre des Kindes.
+Die monatliche Ausgleichszahlung nach § 43 Absatz 1 erhalten auch Partnerinnen und Partner einer zum Zeitpunkt des Versterbens der geschädigten Person verfestigten Lebensgemeinschaft, sofern die geschädigte Person an den Schädigungsfolgen einer Wehrdienstbeschädigung verstorben ist und die Partnerin oder der Partner einer verfestigten Lebensgemeinschaft unter Verzicht auf eine Erwerbstätigkeit die Betreuung eines gemeinsamen Kindes ausübt. Dieser Anspruch besteht für die ersten drei Lebensjahre des Kindes. § 59 Absatz 2 gilt mit der Maßgabe entsprechend, dass der Antrag auf Gewährung der Ausgleichszahlung innerhalb eines Jahres nach dem schädigungsbedingten Tod der geschädigten Person zu stellen ist.
 
 
 ### § 51 Erstattung von Kosten für psychotherapeutische Leistungen in besonderen Fällen
@@ -988,7 +1050,7 @@ Die monatliche Ausgleichszahlung nach § 43 Absatz 1 erhalten auch Partnerinnen 
 
 (2) Die nachgewiesenen Kosten für medizinisch notwendige und angemessene Leistungen der medizinischen Versorgung der anerkannten Schädigungsfolge nach § 16 Nummer 1 und 5 werden bis zur Höhe des Zweifachen der Vergütung erstattet, die bei Erbringung als Sachleistung im Inland angefallen wären. In besonders begründeten Fällen kann auch der darüberhinausgehende Betrag teilweise oder ganz erstattet werden. Leistungen der medizinischen Versorgung können auch im Inland nach vorheriger Genehmigung durch die zuständige Behörde durchgeführt werden, wenn medizinische Gründe oder Kostengründe dies erfordern. Reisekosten können in diesem Fall in angemessenem Umfang erstattet werden. § 63 gilt entsprechend.
 
-(3) Die Kosten für Arzneimittel und Verbandmittel sowie Heilmittel und Hilfsmittel können in voller Höhe erstattet werden.
+(3) Die notwendigen Kosten für Arzneimittel und Verbandmittel sowie für Heilmittel und Hilfsmittel werden in voller Höhe erstattet.
 
 (4) Die Kosten für weitere Leistungen der medizinischen Versorgung nach § 16 Nummer 6 bis 12 werden bis zu der Höhe erstattet, die bei Erbringung im Inland angefallen wären.
 
@@ -1075,14 +1137,14 @@ Die monatliche Ausgleichszahlung nach § 43 Absatz 1 erhalten auch Partnerinnen 
 
 (2) Die Angaben der geschädigten Person oder ihrer Hinterbliebenen, die sich auf die mit der Gesundheitsstörung oder mit dem Wehrdienst im Zusammenhang stehenden Tatsachen beziehen, sind, wenn Beweismittel nicht vorhanden oder nicht zu beschaffen oder ohne Verschulden der geschädigten Person oder ihrer Hinterbliebenen verlorengegangen sind, der Entscheidung zu Grunde zu legen, soweit sie nach den Umständen des Falles glaubhaft erscheinen.
 
-(3) Die zuständige Behörde kann nach § 27 des Verwaltungsverfahrensgesetzes von der geschädigten Person, den Hinterbliebenen und anderen Personen die Abgabe einer Versicherung an Eides statt über die Richtigkeit ihrer Angaben nach Absatz 2 verlangen. In gleicher Weise kann von den Sachverständigen die Abgabe einer Versicherung an Eides statt über die Richtigkeit ihrer Angaben verlangt werden.
+(3) Die zuständige Behörde kann von der geschädigten Person, den Hinterbliebenen und anderen Personen die Abgabe einer Versicherung an Eides statt über die Richtigkeit ihrer Angaben nach Absatz 2 verlangen. In gleicher Weise kann von den Sachverständigen die Abgabe einer Versicherung an Eides statt über die Richtigkeit ihrer Angaben verlangt werden.
 
 
 #### § 59 Leistungsbeginn und vorläufige Entscheidung
 
-(1) Bei erstmaligem Antrag auf Anerkennung der Schädigungsfolge sind Leistungen ab dem Monat zu erbringen, in dem die Voraussetzungen vorliegen, frühestens ab dem Monat, in dem der Antrag gestellt wird. Wird das Verwaltungsverfahren von Amts wegen eingeleitet, beginnt die Leistung mit dem Monat, in dem die anspruchsbegründenden Tatsachen der zuständigen Behörde bekannt geworden sind.
+(1) Bei erstmaligem Antrag auf Anerkennung der Schädigungsfolge sind Leistungen ab dem Kalendermonat zu erbringen, in dem die Voraussetzungen vorliegen, frühestens ab dem Kalendermonat, in dem der Antrag gestellt wird. Wird das Verwaltungsverfahren von Amts wegen eingeleitet, beginnt die Leistung mit dem Kalendermonat, in dem die anspruchsbegründenden Tatsachen der zuständigen Behörde bekannt geworden sind.
 
-(2) Stellt die geschädigte Person den Antrag auf Anerkennung der Schädigungsfolge innerhalb eines Jahres nach Eintritt der primären Gesundheitsstörung, werden Leistungen ab dem Zeitpunkt des Eintritts der Schädigungsfolge erbracht. War die geschädigte Person ohne ihr Verschulden an der Antragstellung innerhalb der Jahresfrist nach Satz 1 gehindert, verlängert sich diese Frist um den Zeitraum der Verhinderung.
+(2) Stellt die geschädigte Person den Antrag auf Anerkennung der Schädigungsfolge innerhalb eines Jahres nach Eintritt der sekundären Gesundheitsstörung, werden Leistungen ab dem Zeitpunkt des Eintritts der Schädigungsfolge erbracht. War die geschädigte Person ohne ihr Verschulden an der Antragstellung innerhalb der Jahresfrist nach Satz 1 gehindert, verlängert sich diese Frist um den Zeitraum der Verhinderung.
 
 (3) Über die Erbringung von Leistungen kann auf Antrag vorläufig entschieden werden,
 
@@ -1100,23 +1162,23 @@ Die monatliche Ausgleichszahlung nach § 43 Absatz 1 erhalten auch Partnerinnen 
 
 
 
-(4) Der Grund der Vorläufigkeit ist in der Entscheidung anzugeben. Nach Abschluss der Ermittlungen ist eine endgültige Entscheidung zu treffen. Auf Grund der vorläufigen Entscheidung erbrachte Leistungen sind auf die zustehende Leistung anzurechnen. Soweit mit der endgültigen Entscheidung ein Leistungsanspruch nicht oder nur in geringerer Höhe zuerkannt wird, sind auf Grund der vorläufigen Entscheidung erbrachte Leistungen vom Empfänger zu erstatten.
+(4) Der Grund der Vorläufigkeit ist in der Entscheidung anzugeben. Nach Abschluss der Ermittlungen ist eine endgültige Entscheidung zu treffen. Auf Grund der vorläufigen Entscheidung erbrachte Leistungen sind auf die zustehende Leistung anzurechnen. Soweit mit der endgültigen Entscheidung ein Leistungsanspruch nicht oder nur in geringerer Höhe zuerkannt wird und ein Erstattungsanspruch gegen einen anderen Leistungsträger nach den §§ 102 bis 114 des Zehnten Buches Sozialgesetzbuch nicht in Betracht kommt, sind Leistungen, die auf Grund der vorläufigen Entscheidung erbracht worden sind, vom Empfänger zu erstatten. § 50 des Zehnten Buches Sozialgesetzbuch ist zu beachten.
 
 
 #### § 60 Änderungen und Ende von Leistungen
 
-(1) Ändern sich aus tatsächlichen oder rechtlichen Gründen die Voraussetzungen für die Höhe einer Leistung nach ihrer Feststellung, wird die Leistung in neuer Höhe nach Ablauf des Monats geleistet, in dem die Änderung wirksam geworden ist.
+(1) Ändern sich aus tatsächlichen oder rechtlichen Gründen die Voraussetzungen für die Höhe einer Leistung nach ihrer Feststellung, so wird die Leistung in neuer Höhe nach Ablauf des Kalendermonats gewährt, in dem diese Änderung eingetreten ist.
 
-(2) Fallen aus tatsächlichen oder rechtlichen Gründen die Anspruchsvoraussetzungen für eine Leistung weg, wird die Leistung bis zum Ende des Monats gewährt, in dem der Wegfall wirksam geworden ist.
+(2) Fallen aus tatsächlichen oder rechtlichen Gründen die Anspruchsvoraussetzungen für eine Leistung weg, so wird die Leistung bis zum Ende des Kalendermonats gewährt, in dem die Anspruchsvoraussetzungen weggefallen sind.
 
-(3) Beruht die Minderung oder der Wegfall der Leistungen, deren Höhe vom Einkommen beeinflusst wird, auf einer Erhöhung dieses Einkommens, so tritt die Minderung oder der Wegfall mit dem Monat ein, in dem das Einkommen sich erhöht hat.
+(3) Beruht die Minderung oder der Wegfall der Leistungen, deren Höhe vom Einkommen beeinflusst wird, auf einer Erhöhung dieses Einkommens, so tritt die Minderung oder der Wegfall mit dem Kalendermonat ein, in dem das Einkommen sich erhöht hat.
 
 (4) Leistungen werden bis zum Ende des Kalendermonats gewährt, in dem die geschädigte Person verstorben ist, die Zahlung von Dienstbezügen nach § 60 des Soldatenversorgungsgesetzes endet oder der Tod der geschädigten Person nach dem Verschollenheitsgesetz erklärt wurde. Kehrt die verschollene geschädigte Person zurück, lebt der Anspruch auf Leistungen nach diesem Gesetz wieder auf.
 
 
 #### § 61 Beginn der Leistungen an Hinterbliebene
 
-(1) Die Leistungen an Hinterbliebene beginnen frühestens mit dem auf den Sterbemonat folgenden Monat. Kinder, die nach dem Versterben der geschädigten Person geboren werden, erhalten Leistungen vom ersten Tag des Geburtsmonats an.
+(1) Die Leistungen an Hinterbliebene beginnen frühestens mit dem auf den Sterbemonat folgenden Kalendermonat. Kinder, die nach dem Versterben der geschädigten Person geboren werden, erhalten Leistungen vom ersten Tag des Geburtsmonats an.
 
 (2) § 59 Absatz 2 gilt mit der Maßgabe entsprechend, dass der Antrag auf Gewährung der Ausgleichszahlung innerhalb eines Jahres nach dem schädigungsbedingten Tod der geschädigten Person zu stellen ist.
 
@@ -1125,14 +1187,14 @@ Die monatliche Ausgleichszahlung nach § 43 Absatz 1 erhalten auch Partnerinnen 
 
 (1) In Ergänzung zu § 47 des Ersten Buches Sozialgesetzbuch gilt § 118 Absatz 3 bis 4a des Sechsten Buches Sozialgesetzbuch entsprechend.
 
-(2) Alle laufenden Geldleistungen werden monatlich im Voraus geleistet, und zwar am letzten Arbeitstag des Monats, der dem Monat vorausgeht, für den sie bestimmt sind.
+(2) Alle laufenden Geldleistungen werden monatlich im Voraus geleistet, und zwar am letzten Arbeitstag des Kalendermonats, der dem Kalendermonat vorausgeht, für den sie bestimmt sind.
 
 
 #### § 63 Umrechnung von ausländischem Einkommen
 
 (1) Ist Einkommen zu berücksichtigen, das in fremder Währung erzielt wird, wird es nach dem Referenzkurs in Euro umgerechnet, den die Europäische Zentralbank öffentlich bekannt gibt. Wird für die fremde Währung von der Europäischen Zentralbank ein Referenzkurs nicht veröffentlicht, wird das Einkommen nach dem von der Deutschen Bundesbank ermittelten Mittelkurs für die Währung des betreffenden Landes umgerechnet; für Länder mit differenziertem Kurssystem ist der Kurs für den nichtkommerziellen Bereich zugrunde zu legen.
 
-(2) Bei Berücksichtigung von Einkommen ist in den Fällen, in denen der Beginn der Leistung oder der neu berechneten Leistung in der Vergangenheit liegt, der Umrechnungskurs für den Kalendermonat maßgebend, in dem die Anrechnung des Einkommens beginnt. Bei Berücksichtigung von Einkommen ist in den Fällen, in denen der Beginn der Leistung oder der neu berechneten Leistung nicht in der Vergangenheit liegt, der Umrechnungskurs für den ersten Monat des Kalendervierteljahres maßgebend, das dem Beginn der Berücksichtigung von Einkommen vorausgeht. Überstaatliches Recht bleibt unberührt.
+(2) Bei Berücksichtigung von Einkommen ist in den Fällen, in denen der Beginn der Leistung oder der neu berechneten Leistung in der Vergangenheit liegt, der Umrechnungskurs für den Kalendermonat maßgebend, in dem die Anrechnung des Einkommens beginnt. Bei Berücksichtigung von Einkommen ist in den Fällen, in denen der Beginn der Leistung oder der neu berechneten Leistung nicht in der Vergangenheit liegt, der Umrechnungskurs für den ersten Kalendermonat des Kalendervierteljahres maßgebend, das dem Beginn der Berücksichtigung von Einkommen vorausgeht. Überstaatliches Recht bleibt unberührt.
 
 (3) Der angewandte Umrechnungskurs bleibt so lange maßgebend, bis
 
@@ -1157,7 +1219,7 @@ Ansprüche auf Leistungen nach den §§ 11, 43 Absatz 1, §§ 44, 45, 50 und 83 
 
 #### § 65 Ruhensregelung
 
-Soweit Ansprüche nach diesem Gesetz und Ansprüche nach der beamtenrechtlichen Unfallfürsorge auf derselben Ursache beruhen, ruhen die Ansprüche nach diesem Gesetz insoweit, als aus derselben Ursache Ansprüche auf entsprechende Leistungen nach den beamtenrechtlichen Vorschriften über die Unfallfürsorge bestehen. Der Anspruch auf Erwerbsschadensausgleich ruht in Höhe des Unterschieds zwischen der Versorgung nach allgemeinen beamtenrechtlichen Bestimmungen und aus der beamtenrechtlichen Unfallfürsorge.
+Soweit Ansprüche der geschädigten Person nach diesem Gesetz und Ansprüche der geschädigten Person aus dem Beamtenverhältnis nach der beamtenrechtlichen Unfallfürsorge auf derselben Ursache beruhen, ruhen die Ansprüche nach diesem Gesetz insoweit, als auf Grund derselben Ursache Ansprüche auf entsprechende Leistungen nach den beamtenrechtlichen Vorschriften über die Unfallfürsorge bestehen.
 
 
 #### § 66 Zuständigkeit und Kostentragung beim Zusammentreffen von Ansprüchen
@@ -1174,7 +1236,11 @@ Für die Festsetzung nach § 6 Absatz 4 ist die Behörde zuständig, die auf Gru
 
 #### § 68 Erstattung von Leistungen durch öffentlich-rechtliche Stellen
 
-Hat die zuständige Behörde als Träger der Soldatenentschädigung Leistungen erbracht und stellt sich nachträglich heraus, dass eine andere öffentlich-rechtliche Stelle, die nicht Leistungsträger nach § 12 des Ersten Buches Sozialgesetzbuch ist, zur Leistung verpflichtet gewesen wäre, hat die zur Leistung verpflichtete Stelle die Aufwendungen zu erstatten; Verwaltungskosten werden nicht erstattet. Der Umfang der Erstattung richtet sich nach den Rechtsvorschriften, die für die zur Leistung verpflichtete Stelle gelten.
+(1) Hat die zuständige Behörde als Träger der Soldatenentschädigung Leistungen erbracht und stellt sich nachträglich heraus, dass eine andere öffentlich-rechtliche Stelle, die nicht Leistungsträger nach § 12 des Ersten Buches Sozialgesetzbuch ist, zur Leistung verpflichtet gewesen wäre, hat die zur Leistung verpflichtete Stelle die Aufwendungen zu erstatten. Der Umfang der Erstattung richtet sich nach den Rechtsvorschriften, die für die zur Leistung verpflichtete Stelle gelten.
+
+(2) Hat eine öffentlich-rechtliche Stelle, die nicht Leistungsträger nach § 12 des Ersten Buches Sozialgesetzbuch ist, Leistungen erbracht und stellt sich nachträglich heraus, dass die zuständige Behörde als Träger der Soldatenentschädigung zur Leistung verpflichtet gewesen wäre, so hat die zuständige Behörde der Soldatenentschädigung die Aufwendungen zu erstatten. Der Umfang der Erstattung richtet sich nach den Rechtsvorschriften dieses Gesetzes.
+
+(3) In den Fällen der Absätze 1 und 2 werden Verwaltungskosten nicht erstattet.
 
 
 #### § 69 Erlass von Verwaltungsvorschriften
@@ -1188,21 +1254,21 @@ Das Bundesministerium der Verteidigung erlässt die zur Durchführung dieses Ges
 
 (2) Die Erbringung der folgenden Leistungen wird auf die Unfallversicherung Bund und Bahn übertragen:
 
-1.  Leistungen der medizinischen Versorgung nach Kapitel 3 Abschnitt 2 Unterabschnitt 1 und 2,
+1.  Leistungen der medizinischen Versorgung nach Kapitel 3 Abschnitt 2 Unterabschnitt 1 und 2 und die Leistungen der Hilfsmittelversorgung nach den Kapiteln 3 bis 5 für alle früheren Soldatinnen und Soldaten nach § 31 Absatz 2 des Siebten Buches Sozialgesetzbuch,
 
 
-2.  Leistungen zur Teilhabe am Arbeitsleben nach Kapitel 4,
+2.  Leistungen zur Teilhabe am Arbeitsleben nach Kapitel 4 für geschädigte Personen, die sich nicht im Wehrdienstverhältnis befinden,
 
 
 3.  Leistungen zur Teilhabe am Arbeitsleben nach § 46 sowie
 
 
-4.  Leistungen der Wohnungshilfe nach § 33 Absatz 2 Nummer 2.
+4.  Leistungen der Wohnungshilfe.
 
 
 
 
-(3) Die Unfallversicherung Bund und Bahn kann mit Zustimmung des Bundesministeriums der Verteidigung andere Sozialleistungsträger mit der ihr obliegenden Berechnung und Gewährung des Krankengeldes der Soldatenentschädigung beauftragen. Die Einzelheiten der Beauftragung einschließlich der Erstattung der Aufwendungen und Verwaltungskosten werden durch Vereinbarung geregelt.
+(3) Die Unfallversicherung Bund und Bahn kann mit Zustimmung des Bundesministeriums der Verteidigung andere Sozialleistungsträger mit einer ihr obliegenden Aufgabe, beispielsweise mit der Berechnung und Gewährung des Krankengeldes der Soldatenentschädigung oder des Übergangsgeldes, beauftragen. Die Einzelheiten der Beauftragung einschließlich der Erstattung der Aufwendungen und Verwaltungskosten werden durch Vereinbarung geregelt.
 
 
 ### Abschnitt 2 - Vorverfahren und Rechtsweg
@@ -1291,48 +1357,40 @@ Für die Auskunft an die geschädigte Person auf Grund ihres Auskunftsrechts nac
 
 ### § 80 Grundsätze
 
-(1) Personen, deren Ansprüche nach dem Soldatenversorgungsgesetz in der am 31. Dezember 2024 geltenden Fassung in Verbindung mit dem Bundesversorgungsgesetz in der bis zum 31. Dezember 2023 geltenden Fassung bis zum 31. Dezember 2024 unanfechtbar festgestellt sind, erhalten diese Leistungen weiter nach Maßgabe des Kapitels 15. Kurzfristige Unterbrechungen im Leistungsbezug unmittelbar vor dem 31. Dezember 2024 lassen die Ansprüche auf Leistungen nach Satz 1 unberührt.
+(1) Personen, die im Dezember 2024 Leistungen nach § 80 des Soldatenversorgungsgesetzes in der am 31. Dezember 2024 geltenden Fassung erhalten und deren Ansprüche vor dem 1. Januar 2025 unanfechtbar festgestellt sind, erhalten diese Leistungen weiter nach Maßgabe des Kapitels 15. Kurzfristige Unterbrechungen im Leistungsbezug unmittelbar vor dem 31. Dezember 2024 lassen die Ansprüche auf Leistungen nach Satz 1 unberührt.
 
-(2) Über einen bis zum 31. Dezember 2024 gestellten und nicht bestandskräftig beschiedenen Antrag auf Leistungen nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz ist nach dem im Zeitpunkt der Entscheidung geltenden Recht zu entscheiden.
+(2) Über einen bis zum 31. Dezember 2024 gestellten und nicht bestandskräftig beschiedenen Antrag auf Leistungen nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz ist nach dem zum Zeitpunkt der Antragstellung geltenden Recht zu entscheiden. Bei rückwirkender Leistungsfeststellung und Leistungsgewährung für Dezember 2024 werden die Berechtigten so gestellt, als hätten sie die Geldleistung im Dezember 2024 bezogen.
 
-(3) Abweichend von Absatz 2 wird nach dem im Zeitpunkt der Antragstellung geltenden Recht entschieden über einen bis zum 31. Dezember 2024 gestellten und nicht bestandskräftig beschiedenen Antrag auf
+(3) Geldleistungen nach § 11 erhalten die Personen, deren Ansprüche vor dem 1. Januar 2025 unanfechtbar festgestellt worden sind und die
 
-1.  Ausgleichsrente nach den §§ 32, 34, 41 und 47 des Bundesversorgungsgesetzes,
-
-
-2.  Ehegattenzuschlag nach § 33a des Bundesversorgungsgesetzes,
+1.  im Dezember 2024 ausschließlich Leistungen nach § 85 oder § 80 in Verbindung mit § 108 Absatz 2 Satz 1 Nummer 1 bis 3 des Soldatenversorgungsgesetzes in der am 31. Dezember 2024 geltenden Fassung oder
 
 
-3.  Kinderzuschlag nach § 33b des Bundesversorgungsgesetzes,
-
-
-4.  Schadensausgleich nach § 40a des Bundesversorgungsgesetzes oder
-
-
-5.  die in § 84 genannten befristeten Geldleistungen oder befristeten Sachleistungen.
+2.  Leistungen nach § 80 in Verbindung mit § 108 Absatz 2 Satz 1 Nummer 1 bis 3 des Soldatenversorgungsgesetzes in der am 31. Dezember 2024 geltenden Fassung sowie Berufsschadensausgleich nach § 80 des Soldatenversorgungsgesetzes in der am 31. Dezember 2024 geltenden Fassung in Verbindung mit § 30 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung
 
 
 
+erhalten. Die bisher anerkannten Schädigungsfolgen sowie die Bemessung des Grades der Schädigungsfolgen für die Entscheidung über die Leistungen gelten als rechtsverbindlich festgestellt. Führt die Anwendung des § 11 zu geringeren Leistungen, werden mindestens die Leistungen in Höhe eines monatlichen Gesamtbetrages nach § 83 Absatz 1 erbracht.
+
+(4) Hinterbliebene, die im Dezember 2024 ausschließlich Leistungen nach § 80 in Verbindung mit § 108 Absatz 2 Satz 1 Nummer 4 und 5 des Soldatenversorgungsgesetzes in der am 31. Dezember 2024 geltenden Fassung erhalten und deren Ansprüche vor dem 1. Januar 2025 unanfechtbar festgestellt worden sind, erhalten Geldleistungen nach § 43 Absatz 1 oder § 44. Führt die Anwendung des § 43 Absatz 1 oder des § 44 zu geringeren Leistungen, werden mindestens die Leistungen in Höhe eines monatlichen Gesamtbetrages nach § 83 Absatz 1 erbracht. Satz 1 gilt nicht für Waisen, die im Dezember 2024 Leistungen nach § 80 in Verbindung mit § 108 Absatz 1 des Soldatenversorgungsgesetzes in der am 31. Dezember 2024 geltenden Fassung in Verbindung mit § 45 Absatz 3 Satz 1 Buchstabe d des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung erhalten.
 
 
 ### § 81 Leistungen der Heil- und Krankenbehandlung
 
 (1) Personen, deren Anspruch auf Heilbehandlung nach § 80 des Soldatenversorgungsgesetzes in der am 31. Dezember 2024 geltenden Fassung in Verbindung mit § 10 Absatz 1 des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung unanfechtbar festgestellt worden ist, erhalten ab dem 1. Januar 2025 Leistungen der medizinischen Versorgung nach Kapitel 3.
 
-(2) Personen, deren Ansprüche auf einzelne Leistungen der Heil- oder Krankenbehandlung nach dem Soldatenversorgungsgesetz in der am 31. Dezember 2024 geltenden Fassung in Verbindung mit dem Bundesversorgungsgesetz in der bis zum 31. Dezember 2023 geltenden Fassung bis zum 31. Dezember 2024 unanfechtbar festgestellt worden sind, erhalten diese Leistungen in dem bewilligten Umfang weiter, längstens jedoch bis zum 31. Dezember 2025. Dies gilt auch für Ansprüche auf einzelne Leistungen der Heil- oder Krankenbehandlung, die bis zum 31. Dezember 2024 beantragt, aber noch nicht bestandskräftig beschieden worden sind.
+(2) Personen, deren Ansprüche auf einzelne Leistungen der Heil- oder Krankenbehandlung nach dem Soldatenversorgungsgesetz in der am 31. Dezember 2024 geltenden Fassung in Verbindung mit dem Bundesversorgungsgesetz in der bis zum 31. Dezember 2023 geltenden Fassung bis zum 31. Dezember 2024 unanfechtbar festgestellt worden sind, erhalten diese Leistungen in dem bewilligten Umfang weiter, längstens jedoch bis zum 31. Dezember 2025. Personen, deren Ansprüche auf einzelne Leistungen nach den §§ 82 und 83 des Soldatenversorgungsgesetzes in der am 31. Dezember 2024 geltenden Fassung in Verbindung mit dem Bundesversorgungsgesetz in der bis zum 31. Dezember 2023 geltenden Fassung bis zum 31. Dezember 2024 bestandskräftig festgestellt worden sind, erhalten diese Leistungen in dem bewilligten Umfang weiter, längstens jedoch bis zum 31. Dezember 2027. Eine Verlängerung über den Drei-Jahres-Zeitraum hinaus ist nicht zulässig. Dies gilt auch für Ansprüche auf einzelne Leistungen der Heil- oder Krankenbehandlung, die bis zum 31. Dezember 2024 beantragt, aber noch nicht bestandskräftig beschieden worden sind. Die Anpassung des Versorgungskrankengeldes nach § 83 Absatz 1 des Soldatenversorgungsgesetzes erfolgt nach § 70 des Neunten Buches Sozialgesetzbuch.
 
-(3) Personen, die bis zum 31. Dezember 2024 Heil- oder Krankenbehandlung für Nichtschädigungsfolgen nach § 80 des Soldatenversorgungsgesetzes in der am 31. Dezember 2024 geltenden Fassung in Verbindung mit § 10 Absatz 2 sowie 4 bis 6 des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung erhalten, haben Anspruch auf Leistungen bei Krankheit nach dem Dritten Kapitel des Fünften Buches Sozialgesetzbuch. Die Leistungen werden ohne Kostenbeteiligung als Dienst- und Sachleistung zur Verfügung gestellt. Der Anspruch nach Satz 1 ruht für die Dauer einer Mitgliedschaft in der gesetzlichen Krankenversicherung. Personen, die Leistungen nach Satz 1 in Anspruch nehmen, haben die Berechtigung entsprechend § 15 Absatz 2 bis 6 des Fünften Buches Sozialgesetzbuch nachzuweisen.
+(3) Personen mit Wohnsitz im Inland, die bis zum 31. Dezember 2024 Heil- oder Krankenbehandlung für Nichtschädigungsfolgen nach § 80 des Soldatenversorgungsgesetzes in der am 31. Dezember 2024 geltenden Fassung in Verbindung mit § 10 Absatz 2 sowie 4 bis 6 des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung erhalten, haben Anspruch auf Leistungen bei Krankheit durch die gesetzliche Krankenkasse nach dem Dritten Kapitel des Fünften Buches Sozialgesetzbuch. Die Leistungen werden ohne Kostenbeteiligung als Dienst- und Sachleistung zur Verfügung gestellt. Der Anspruch nach Satz 1 ruht für die Dauer einer Mitgliedschaft in der gesetzlichen Krankenversicherung. Personen, die Leistungen nach Satz 1 in Anspruch nehmen, haben die Berechtigung entsprechend § 15 Absatz 2 bis 6 des Fünften Buches Sozialgesetzbuch nachzuweisen. Personen mit Wohnsitz oder gewöhnlichem Aufenthalt im Ausland, die bis zum 31. Dezember 2024 Heil- oder Krankenbehandlung für Nichtschädigungsfolgen nach § 80 des Soldatenversorgungsgesetzes in der am 31. Dezember 2024 geltenden Fassung in Verbindung mit § 10 Absatz 2 sowie 4 bis 6 des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung erhalten, haben Anspruch auf Leistungen bei Krankheit nach dem Dritten Kapitel des Fünften Buches Sozialgesetzbuch ohne Kostenbeteiligung durch die zuständige Behörde in entsprechender Anwendung des § 52.
 
-(4) Die Leistung nach Absatz 3 wird von der entsprechend § 173 des Fünften Buches Sozialgesetzbuch gewählten Krankenkasse erbracht. § 175 Absatz 4 Satz 1 bis 5 des Fünften Buches Sozialgesetzbuch gilt entsprechend. Die Berechtigten erhalten von der gewählten Krankenkasse eine elektronische Gesundheitskarte nach § 291 des Fünften Buches Sozialgesetzbuch.
+(4) Die Leistung nach Absatz 3 Satz 1 wird von der entsprechend § 173 des Fünften Buches Sozialgesetzbuch gewählten Krankenkasse erbracht. § 175 Absatz 4 Satz 1 bis 5 des Fünften Buches Sozialgesetzbuch gilt entsprechend. Die Berechtigten erhalten von der gewählten Krankenkasse eine elektronische Gesundheitskarte nach § 291 des Fünften Buches Sozialgesetzbuch.
 
 (5) Den Krankenkassen werden von der zuständigen Behörde nach § 70 Absatz 1 halbjährlich die Aufwendungen erstattet, die ihnen durch die Übernahme der Leistungen nach den Absätzen 2 und 3 entstehen. Als angemessene Verwaltungskosten werden ihnen von der zuständigen Behörde halbjährlich 5 Prozent des Erstattungsbetrags nach Satz 1 erstattet.
 
 
 ### § 82 Berufsschadensausgleich
 
-(1) Personen, deren Anspruch auf Berufsschadensausgleich nach § 30 Absatz 3 bis 12 des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung festgestellt worden ist, erhalten ab dem 1. Januar 2025 den Berufsschadensausgleich nach den §§ 89 bis 90 des Sozialgesetzbuchs Vierzehntes Buch weiter. Unterbrechungen des Bezugs von Berufsschadensausgleich berühren die Anwendung der §§ 89 bis 90 des Sozialgesetzbuchs Vierzehntes Buch nicht.
-
-(2) § 91 des Sozialgesetzbuchs Vierzehntes Buch ist anzuwenden.
+Personen, die im Dezember 2024 Berufsschadensausgleich nach § 30 Absatz 3 bis 12 des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung beziehen, erhalten weiterhin einen Betrag, der dem um 25 Prozent erhöhten Betrag des Berufsschadensausgleichs entspricht. Die Zahlung nach Satz 1 vermindert sich mit dem Erreichen der Regelaltersgrenze um 50 Prozent. Dies gilt nicht, wenn die Zahlung nach Satz 1 bereits wegen Erreichens der Regelaltersgrenze gemindert wurde. § 13 gilt entsprechend. Ein Anspruch auf Zahlung eines Erwerbsschadensausgleichs nach § 37 besteht nicht, wenn die Zahlung nach Satz 1 bezogen wird.
 
 
 ### § 83 Geldleistungen
@@ -1355,7 +1413,7 @@ Für die Auskunft an die geschädigte Person auf Grund ihres Auskunftsrechts nac
 
 
 
-Ist eine Grundrente nach § 72 des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung oder nach § 1 Absatz 1 der Rentenkapitalisierungsgesetz-KOV vom 27. April 1970 (BGBl. I S. 413) kapitalisiert, verringert sich der Betrag nach Satz 1 während des Abfindungszeitraums um den kapitalisierten Betrag.
+Ist eine Rente nach § 72 oder § 78a des Bundesversorgungsgesetzes in der bis zum 31. Dezember 2023 geltenden Fassung oder nach § 1 Absatz 1 der Rentenkapitalisierungsgesetz-KOV vom 27. April 1970 (BGBl. I S. 413) kapitalisiert, verringert sich der Betrag nach Satz 1 während des Abfindungszeitraums um den kapitalisierten Betrag.
 
 (2) Personen, die im Dezember 2024 folgende einkommensabhängige Geldleistungen beziehen, erhalten einen monatlichen Gesamtbetrag, der sich aus der Summe dieser Geldleistungen ergibt:
 
@@ -1375,9 +1433,9 @@ Ist eine Grundrente nach § 72 des Bundesversorgungsgesetzes in der bis zum 31. 
 
 
 
-Der so errechnete Gesamtbetrag wird um 25 Prozent erhöht.
+Der so errechnete Gesamtbetrag wird um 25 Prozent erhöht. Wird an eine Witwe oder einen Witwer die Leistung nach Satz 1 gewährt, besteht kein Anspruch auf eine zusätzliche Ausgleichszahlung nach § 43 Absatz 3.
 
-(3) Personen, die im Dezember 2024 Witwen- oder Waisenbeihilfe nach § 48 des Bundesversorgungsgesetzes beziehen, erhalten ab dem 1. Januar 2025 monatlich 125 Prozent dieser Geldleistungen.
+(3) Personen, die im Dezember 2024 Witwen- oder Waisenbeihilfe nach § 48 des Bundesversorgungsgesetzes beziehen, erhalten ab dem 1. Januar 2025 monatlich 125 Prozent dieser Geldleistungen. § 80 Absatz 4 und § 85 gelten nicht.
 
 (4) Bei der Berechnung der einkommensabhängigen Leistungen nach den Absätzen 2 und 3 bleiben Anrechnungen von einmaligen Leistungen unberücksichtigt. Bei der Feststellung der Geldleistungen nach den Absätzen 1 bis 3 bleiben Beträge unberücksichtigt, die nach § 65 des Bundesversorgungsgesetzes zum Ruhen der Versorgungsleistungen geführt haben.
 
@@ -1400,7 +1458,7 @@ Der so errechnete Gesamtbetrag wird um 25 Prozent erhöht.
 
 
 
-wenn die Anspruchsvoraussetzungen der Leistungen dem Grunde nach wegfallen.
+wenn die Anspruchsvoraussetzungen der Leistungen dem Grunde nach wegfallen. Der Betrag nach Absatz 2 verringert sich nicht, wenn die Voraussetzungen auf Grund einer Neufestsetzung des Grades der Schädigungsfolgen nach § 86 wegfallen.
 
 (7) Die nach den Absätzen 1 bis 3 errechneten Beträge werden jährlich nach § 13 angepasst.
 
@@ -1436,41 +1494,138 @@ wenn die Anspruchsvoraussetzungen der Leistungen dem Grunde nach wegfallen.
 
 
 
-(3) Soweit die Weiterbewilligung der Leistung für Zeiten ab dem 1. Januar 2024 beantragt wird, richtet sich der Einsatz von Einkommen und Vermögen nach dem Bundesversorgungsgesetz und nach der Verordnung zur Kriegsopferfürsorge jeweils in der am 31. Dezember 2023 geltenden Fassung mit der Maßgabe, dass
+(3) Soweit die Weiterbewilligung der Leistung für Zeiten ab dem 1. Januar 2025 beantragt wird, richtet sich der Einsatz von Einkommen und Vermögen nach dem Bundesversorgungsgesetz und nach der Verordnung zur Kriegsopferfürsorge jeweils in der am 31. Dezember 2023 geltenden Fassung. Soweit es für die berechtigte Person günstiger ist, richtet sich der Einsatz von Einkommen und Vermögen mit der Maßgabe nach Satz 1, dass
 
-1.  an die Stelle der Einkommensgrenze nach § 25e Absatz 1 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung die Einkommensgrenze nach § 107 Absatz 1 des Sozialgesetzbuchs Vierzehntes Buch tritt,
-
-
-2.  an die Stelle des Grundbetrags nach § 27d Absatz 5 Satz 2 Nummer 1 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung ein Betrag in Höhe des Vierfachen der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch tritt,
+1.  an die Stelle der Einkommensgrenze nach § 25e Absatz 1 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung die Einkommensgrenze nach § 107 Absatz 1 des Vierzehnten Buches Sozialgesetzbuch tritt,
 
 
-3.  an die Stelle des Grundbetrags nach § 27d Absatz 5 Satz 2 Nummer 2 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung ein Betrag in Höhe des Achtfachen der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch tritt,
+2.  an die Stelle des Grundbetrags nach § 26c Absatz 5 Satz 1 Nummer 1 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung ein Betrag in Höhe des Vierfachen der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch tritt,
 
 
-4.  an die Stelle der Einkommensfreibeträge nach der Verordnung zur Kriegsopferfürsorge in der am 31. Dezember 2023 geltenden Fassung die Einkommensfreibeträge der Verordnung nach § 109 des Sozialgesetzbuchs Vierzehntes Buch treten und
+3.  an die Stelle des Grundbetrags nach § 26c Absatz 5 Satz 1 Nummer 2 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung ein Betrag in Höhe des Achtfachen der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch tritt,
 
 
-5.  an die Stelle der Vermögensschonbeträge nach § 25f des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung in Verbindung mit der Verordnung zur Kriegsopferfürsorge in der am 31. Dezember 2023 geltenden Fassung die Vermögensschonbeträge der Verordnung nach § 109 des Sozialgesetzbuchs Vierzehntes Buch treten.
+4.  an die Stelle der Einkommensfreibeträge nach der Verordnung zur Kriegsopferfürsorge in der am 31. Dezember 2023 geltenden Fassung die Einkommensfreibeträge der Verordnung nach § 109 des Vierzehnten Buches Sozialgesetzbuch treten und
+
+
+5.  bei der Ermittlung der Vermögensschonbeträge nach § 25f des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung anstelle des Betrages von
+
+    a)  40 Prozent des Bemessungsbetrages ein Betrag in Höhe des 40-Fachen der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch zugrunde gelegt wird,
+
+
+    b)  35 Prozent des Bemessungsbetrages ein Betrag in Höhe des 35-Fachen der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch zugrunde gelegt wird,
+
+
+    c)  20 Prozent des Bemessungsbetrages ein Betrag in Höhe des 20-Fachen der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch zugrunde gelegt wird und
+
+
+    d)  2 Prozent des Bemessungsbetrages ein Betrag in Höhe des Zweifachen der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch zugrunde gelegt wird.
 
 
 
+
+
+
+
+(4) Für den Einsatz von Einkommen und Vermögen bei der Erbringung der Leistungen der Eingliederungshilfe für Menschen mit Behinderungen nach Absatz 2 Nummer 5 gilt § 27d Absatz 5 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung.
 
 
 ### § 85 Wahlrecht
 
-(1) Anstelle der Leistungen nach den §§ 83 und 84 können Personen, deren Ansprüche nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz in der bis zum 31. Dezember 2023 geltenden Fassung vor dem 1. Januar 2025 unanfechtbar festgestellt worden sind, Geldleistungen nach Kapitel 2 oder 7 erhalten. In diesem Fall gelten die bisher anerkannten Schädigungsfolgen sowie die Bemessung des Grades der Schädigungsfolgen für die Entscheidung über die Leistungen als rechtsverbindlich festgestellt.
+(1) Personen, deren Ansprüche nach dem Soldatenversorgungsgesetz in Verbindung mit dem Bundesversorgungsgesetz in der bis zum 31. Dezember 2023 geltenden Fassung vor dem 1. Januar 2025 unanfechtbar festgestellt worden sind und die nicht unter den Anwendungsbereich des § 80 Absatz 3 oder 4 fallen, können anstelle der Leistungen nach § 83 Absatz 1 und 2 Geldleistungen nach den §§ 11 und 43 Absatz 1 und 2 sowie nach § 44 oder § 45 erhalten. Bei geschädigten Personen gelten die bisher anerkannten Schädigungsfolgen sowie die Bemessung des Grades der Schädigungsfolgen für die Entscheidung über die Leistungen als rechtsverbindlich festgestellt.
 
-(2) Das Wahlrecht ist innerhalb von zwölf Monaten nach Inkrafttreten dieses Gesetzes auszuüben, spätestens jedoch sechs Monate nach der Bestandskraft einer nach § 80 Absatz 3 ergangenen Entscheidung. Soweit mehrere Entscheidungen nach § 80 Absatz 3 zu treffen sind, ist auf die letzte Entscheidung abzustellen. Die Wahlentscheidung ist unwiderruflich, bedarf der Schriftform und ist gegenüber der zuständigen Behörde zu erklären.
+(2) Das Wahlrecht ist innerhalb von zwölf Monaten nach Inkrafttreten dieses Gesetzes auszuüben, spätestens jedoch sechs Monate nach der Bestandskraft der letzten nach § 80 Absatz 2 ergangenen Entscheidung. Die Wahlentscheidung wirkt zurück auf den 1. Januar 2025. Bereits erbrachte Leistungen nach § 83 werden angerechnet. Die Wahlentscheidung ist unwiderruflich, bedarf der Schriftform und ist gegenüber der zuständigen Behörde zu erklären.
 
 
 ### § 86 Neufeststellung
 
-(1) Die Neufeststellung der Anspruchsberechtigung und des Grades der Schädigungsfolgen erfolgt auf Antrag und richtet sich nach Kapitel 1, soweit dieses Gesetz nichts anderes bestimmt. Eine Neufeststellung kann auch von Amts wegen erfolgen.
+(1) Die Neufeststellung der Anspruchsberechtigung und des Grades der Schädigungsfolgen erfolgt auf Antrag und richtet sich nach diesem Gesetz. Eine Neufeststellung kann auch von Amts wegen erfolgen.
 
-(2) Wäre nach Durchführung des Verfahrens nach Absatz 1 die Geldleistung nach § 83 Absatz 1 Nummer 1 zu erhöhen oder zu mindern, wird der Betrag nach § 83 Absatz 1 für jeden Zehnergrad der Änderung des Grades der Schädigungsfolgen um 25 Prozent erhöht oder gemindert.
+(2) Wäre nach Durchführung des Verfahrens nach Absatz 1 die Geldleistung nach § 83 Absatz 1 Nummer 1 zu erhöhen oder zu mindern, wird der Betrag nach § 83 Absatz 1 für jeden Zehnergrad der Änderung des Grades der Schädigungsfolgen um den entsprechenden Anteil erhöht oder gemindert.
+
+(3) Werden bei einer Neufeststellung von Pflegeleistungen auf Grund der Rechtsänderung in § 17 keine oder geringere Geldleistungen festgestellt, so werden mindestens die vor der Neufeststellung bezogenen Geldleistungen nach den Vorschriften des Soldatenversorgungsgesetzes in der am 31. Dezember 2024 geltenden Fassung in Verbindung mit dem Bundesversorgungsgesetz in der bis zum 31. Dezember 2023 geltenden Fassung weiter erbracht. Dies gilt nicht für den Fall, dass keine oder geringere Pflegeleistungen festgestellt werden, weil bei der zu pflegenden Person tatsächliche Änderungen eingetreten sind.
 
 
 ### § 87 Anrechnungsvorschrift
 
-Die Geldleistung nach § 83 bleibt bei anderen Sozialleistungen und Leistungen nach dem Asylbewerberleistungsgesetz als Einkommen unberücksichtigt, soweit sie den Betrag einer Grundrente nach § 31 Absatz 1 Satz 1 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung nach einem Grad der Schädigungsfolgen von 100 zuzüglich der seitdem vollzogenen Anpassungen nach § 13 nicht überschreitet.
+Die Geldleistung nach § 83 bleibt bei anderen Sozialleistungen und bei den Leistungen nach dem Asylbewerberleistungsgesetz als Einkommen unberücksichtigt, soweit sie den Betrag von 1 165 Euro nicht überschreitet. § 13 gilt entsprechend.
+
+
+### § 88 Pflegeausgleich
+
+Witwen und Witwer erhalten einen monatlichen Pflegeausgleich, wenn
+
+1.  die geschädigte Person schädigungsbedingt pflegebedürftig war,
+
+
+2.  sie die geschädigte Person während ihrer Ehe bereits vor dem 1. Januar 2025 gepflegt haben,
+
+
+3.  die Pflegezeit insgesamt mehr als zehn Jahre betragen hat und
+
+
+4.  sie nicht eine monatliche Geldleistung nach § 83 Absatz 1 erhalten, in der eine Geldleistung nach § 83 Absatz 1 Satz 1 Nummer 5 enthalten ist.
+
+
+
+Der monatliche Pflegeausgleich beträgt für jedes Jahr der über zehn Jahre hinausgehenden Pflegezeit 20 Euro. Kalendermonate, in denen die Pflege nicht unentgeltlich geleistet wurde, werden dabei nicht mitgezählt. Die anzurechnende Gesamtpflegezeit wird auf volle Jahre aufgerundet.
+
+
+### § 89 Ausgleichszahlung für Witwen und Witwer bei nicht schädigungsbedingtem Tod
+
+(1) Witwen und Witwer einer nicht schädigungsbedingt verstorbenen geschädigten Person erhalten eine monatliche Ausgleichszahlung, wenn
+
+1.  die Schädigung bereits vor dem 1. Januar 2025 eingetreten ist,
+
+
+2.  die Ehe bereits vor dem 1. Januar 2025 bestand,
+
+
+3.  die Witwe oder der Witwer keine monatliche Geldleistung nach § 83 Absatz 3 erhält und
+
+
+4.  die geschädigte Person Anspruch hatte
+
+    a)  im Zeitpunkt ihres Todes
+
+        aa) auf eine Leistung nach § 83 Absatz 1 oder § 11 Absatz 1, der ein Grad der Schädigungsfolgen von 100 zu Grunde liegt, oder
+
+
+        bb) auf Pflegegeld nach § 17 oder
+
+
+
+
+
+    b)  mindestens fünf Jahre auf Berufsschadensausgleich nach § 80 des Soldatenversorgungsgesetzes in der am 31. Dezember 2024 geltenden Fassung in Verbindung mit § 30 des Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden Fassung oder nach § 82.
+
+
+
+
+
+
+
+(2) Die monatliche Ausgleichszahlung beträgt
+
+1.  für Witwen und Witwer von geschädigten Personen mit einem Grad der Schädigungsfolgen von unter 100: 500 Euro,
+
+
+2.  für Witwen und Witwer von geschädigten Personen mit einem Grad der Schädigungsfolgen von 100: 750 Euro.
+
+
+
+
+(3) Berechtigte nach Absatz 1 erhalten auf Antrag anstelle der monatlichen Ausgleichszahlung eine einmalige Abfindung. Der Antrag ist innerhalb eines Jahres nach Bewilligung der Ausgleichszahlung zu stellen.
+
+(4) Die Abfindung beträgt
+
+1.  bei einem Anspruch auf die monatliche Ausgleichszahlung nach Absatz 2 Nummer 1: 60 000 Euro,
+
+
+2.  bei einem Anspruch auf die monatliche Ausgleichszahlung nach Absatz 2 Nummer 2: 90 000 Euro.
+
+
+
+
+(5) Auf die Abfindung sind bereits geleistete monatliche Ausgleichszahlungen anzurechnen. Mit der Zahlung der Abfindung sind alle Ansprüche auf die monatlichen Ausgleichszahlungen bei nicht schädigungsbedingtem Tod abgegolten.
 
