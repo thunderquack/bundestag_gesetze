@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 1730
 
 Zuletzt geändert durch
-:   Art. 30 G v. 23.10.2024 I Nr. 323
-
-Änderung durch
-:   Art. 11 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 2.12.2024 I Nr. 387
 
 Stand: Ersetzt G 610-6-15 v. 15.12.2003 I 2676, 2724 (InvStG)
 

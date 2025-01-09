@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 24 V v. 19.6.2020 I 1328
 
 Änderung durch
-:   Art. 4 Abs. 1 G v. 17.12.2024 I Nr. 424 mWv 1.4.2025 noch nicht berücksichtigt
+:   Art. 4 Abs. 1 G v. 17.12.2024 I Nr. 424 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 §§ 1 bis 47 u. §§ 62 bis 74 aufgeh. durch
 :   Art. 3 Abs. 1 Satz 2 G v. 19.10.1994 I 2978 mWv 1.11.1994

@@ -16,16 +16,10 @@ Fundstelle
 :   BGBl I: 2006, 2336
 
 Zuletzt geändert durch
-:   Art. 17 G v. 20.8.2021 I 3932
-
-Änderung durch
-:   Art. 4 G v. 18.12.2024 I Nr. 423 mWv 24.12.2024 noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 5 G v. 18.12.2024 I Nr. 423 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 5 G v. 18.12.2024 I Nr. 423
 
 Mittelbare änderung durch
-:   Art. 17 Nr. 1 G v. 18.12.2024 I Nr. 423 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 17 Nr. 1 G v. 18.12.2024 I Nr. 423 ist berücksichtigt
 
 
 
@@ -34,7 +28,7 @@ Mittelbare änderung durch
 Auf Grund des § 10a Abs. 1 und 3 des Soldatenversorgungsgesetzes in der Fassung der Bekanntmachung vom 9. April 2002 (BGBl. I S. 1258, 1909), der durch Artikel 1 Nr. 23 des Gesetzes vom 4. Mai 2005 (BGBl. I S. 1234) eingefügt worden ist, verordnet die Bundesregierung:
 
 
-## Teil 1 - Berufsberatung nach § 5 des Soldatenversorgungsgesetzes
+## Teil 1 - Allgemeine Vorschriften und Berufsberatung nach § 5 des Soldatenversorgungsgesetzes
 
 
 
@@ -44,7 +38,7 @@ Auf Grund des § 10a Abs. 1 und 3 des Soldatenversorgungsgesetzes in der Fassung
 
 (2) Gefördert werden nur Maßnahmen, die eine Befähigung oder Berechtigung vermitteln, über die die Soldatin auf Zeit oder der Soldat auf Zeit noch nicht verfügt.
 
-(3) Eine Maßnahme schulischer und beruflicher Bildung kann auch dann gefördert werden, wenn bereits vermittelte Inhalte wiederholt oder bereits vermittelte Kenntnisse aufgefrischt werden, soweit dies voraussichtlich unverzichtbare Voraussetzung für den erfolgreichen Abschluss einer anschließend angestrebten Maßnahme der schulischen oder beruflichen Bildung sein wird.
+(3) Eine Maßnahme schulischer und beruflicher Bildung kann auch dann gefördert werden, wenn bereits vermittelte Inhalte wiederholt oder bereits vermittelte Kenntnisse aufgefrischt werden, soweit dies voraussichtlich Voraussetzung für den erfolgreichen Abschluss einer anschließend angestrebten Maßnahme der schulischen oder beruflichen Bildung sein wird.
 
 
 ### § 1a Zuständigkeiten
@@ -128,6 +122,7 @@ Auf Grund des § 10a Abs. 1 und 3 des Soldatenversorgungsgesetzes in der Fassung
 
 
 
+Das Beratungsgespräch kann mittels Video-Konferenz durchgeführt werden.
 
 (4) Die Förderungsberechtigten nach § 5 Absatz 3 des Soldatenversorgungsgesetzes haben an der Berufsberatung teilzunehmen. Das Karrierecenter der Bundeswehr – Berufsförderungsdienst – vereinbart mit den truppendienstlichen Vorgesetzten jeweils einen Termin. Die truppendienstlichen Vorgesetzten stellen die Teilnahme sicher. Die Verpflichtung zur Teilnahme entfällt, wenn im Zeitraum nach § 5 Absatz 3 des Soldatenversorgungsgesetzes bereits eine entsprechende Beratung stattgefunden hat.
 
@@ -139,7 +134,7 @@ Auf Grund des § 10a Abs. 1 und 3 des Soldatenversorgungsgesetzes in der Fassung
 
 (8) Nach der Wehrdienstzeit werden die Aufwendungen für Fahrten zum und vom nächstgelegenen Beratungsort erstattet, wenn die Förderungsberechtigten vereinbarungsgemäß von einem auswärtigen Wohn-, Maßnahme- oder Arbeitsort reisen. Die Erstattung richtet sich nach den für die Beamtinnen und Beamten des Bundes geltenden reisekostenrechtlichen Vorschriften.
 
-(9) Soldatinnen und Soldaten, die freiwilligen Wehrdienst nach § 58b des Soldatengesetzes leisten, werden vor der Inanspruchnahme von Leistungen der Berufsförderung und im Übrigen auf Antrag beraten.
+(9) Soldatinnen und Soldaten, die freiwilligen Wehrdienst nach § 58b des Soldatengesetzes leisten, werden vor der Inanspruchnahme von Leistungen der Berufsförderung, mit Ausnahme von Leistungen der Basisqualifizierungen nach § 6 Absatz 4 Satz 1 des Soldatenversorgungsgesetzes, und im Übrigen auf Antrag beraten.
 
 
 ### § 2a Erstattung von Aufwendungen für die Berufsberatung
@@ -188,7 +183,7 @@ Auf Grund des § 10a Abs. 1 und 3 des Soldatenversorgungsgesetzes in der Fassung
 
 (2) Wird der konkrete Bildungsbedarf im Einzelfall durch die Teilnahme an internen Maßnahmen nicht gedeckt, kann das Karrierecenter der Bundeswehr – Berufsförderungsdienst – die Kosten für andere Bildungsmaßnahmen (externe Maßnahmen) grundsätzlich bis zur Höhe des Kostenrichtwertes erstatten. Der Kostenrichtwert bemisst sich nach der Dauer des Dienstverhältnisses.
 
-(3) Ehemalige Soldatinnen auf Zeit und ehemalige Soldaten auf Zeit können im Rahmen freier Kapazitäten innerhalb von sechs Jahren nach Beendigung des Dienstverhältnisses an internen Maßnahmen des Karrierecenters der Bundeswehr – Berufsförderungsdienst – teilnehmen. § 6 Absatz 2 ist nicht anzuwenden.
+(3) Ehemalige Soldatinnen auf Zeit und ehemalige Soldaten auf Zeit können im Rahmen freier Kapazitäten innerhalb von sieben Jahren nach Beendigung des Dienstverhältnisses, bei ehemaligen Soldatinnen auf Zeit und ehemaligen Soldaten auf Zeit mit einer Gesamtdienstzeit von mindestens 20 Jahren innerhalb von acht Jahren nach Beendigung des Dienstverhältnisses, an internen Maßnahmen des Karrierecenters der Bundeswehr – Berufsförderungsdienst – teilnehmen. § 6 Absatz 2 ist nicht anzuwenden.
 
 
 ### § 6 Erstattung von Kosten
@@ -230,7 +225,7 @@ Auf Grund des § 10a Abs. 1 und 3 des Soldatenversorgungsgesetzes in der Fassung
 
 
 
-Tritt die auflösende Bedingung ein, kann die weitere Teilnahme an der Maßnahme gestattet werden. Kosten, die nach Eintritt der Bedingung entstehen, werden nicht erstattet.
+Tritt die auflösende Bedingung ein, kann die weitere Teilnahme an der Maßnahme gestattet werden. Kosten, die nach Eintritt der Bedingung entstehen, werden im Falle des Satzes 1 Nummer 1 und 4 nicht erstattet.
 
 (3) § 28 Absatz 1 gilt entsprechend.
 
@@ -380,7 +375,7 @@ Ein Studienhalbjahr an einer Bundeswehrfachschule umfasst je nach Lehrgang bis z
 3.  zwischen dem Maßnahmeträger und den Förderungsberechtigten angemessene Teilnahmebedingungen schriftlich oder elektronisch vereinbart wurden, wobei die Vereinbarung von allgemein vorgeschriebenen oder von üblichen Regelungen nicht zu Ungunsten der Förderungsberechtigten abweichen darf, und
 
 
-4.  sie mit einem Zeugnis abschließt, das Auskunft über den Inhalt des vermittelten Lehrstoffs gibt.
+4.  sie mit einem Zeugnis oder einer Bestätigung abschließt, das oder die Auskunft über den Inhalt des vermittelten Lehrstoffs gibt.
 
 
 
@@ -413,7 +408,7 @@ Dauert die Maßnahme insgesamt weniger als 4 Tage, ist von Vollzeitform auszugeh
 
 ### § 16 Durchführung der Förderung der beruflichen Bildung
 
-(1) Maßnahmen der beruflichen Bildung werden nur gefördert, wenn sie bis zum Ablauf von sechs Jahren nach Beendigung des Dienstverhältnisses begonnen werden; die Förderung kann bis zum Erreichen der jeweiligen Förderungshöchstdauer nach § 7 des Soldatenversorgungsgesetzes erfolgen.
+(1) Maßnahmen der beruflichen Bildung werden nur gefördert, wenn sie bis zum Ablauf von sieben Jahren nach Beendigung des Dienstverhältnisses, bei Soldatinnen auf Zeit und Soldaten auf Zeit mit einer Gesamtdienstzeit von mindestens 20 Jahren bis zum Ablauf von acht Jahren nach Beendigung des Dienstverhältnisses, begonnen werden; die Förderung kann bis zum Erreichen der jeweiligen Förderungshöchstdauer nach § 7 des Soldatenversorgungsgesetzes erfolgen.
 
 (2) Eine Maßnahme der beruflichen Bildung in Vollzeitform kann ausnahmsweise bis zu drei Monate vor dem Dienstzeitende gefördert werden, wenn
 
@@ -818,7 +813,7 @@ Satz 1 gilt entsprechend für Soldatinnen auf Zeit und Soldaten auf Zeit mit ein
 
 
 
-(2) Soldatinnen auf Zeit und Soldaten auf Zeit, die einen Anspruch auf Förderung der schulischen oder beruflichen Bildung nach § 7 des Soldatenversorgungsgesetzes haben, werden Eingliederungshilfen nur innerhalb von sieben Jahren nach Beendigung des Dienstverhältnisses gewährt. Dies gilt nicht für die Eingliederungshilfen nach Absatz 1 Nummer 3 und 5.
+(2) Soldatinnen auf Zeit und Soldaten auf Zeit, die einen Anspruch auf Förderung der schulischen oder beruflichen Bildung nach § 7 des Soldatenversorgungsgesetzes haben, werden Eingliederungshilfen nur innerhalb von acht Jahren nach Beendigung des Dienstverhältnisses, bei Soldatinnen auf Zeit und Soldaten auf Zeit mit einer Gesamtdienstzeit von mindestens 20 Jahren innerhalb von neun Jahren nach Beendigung des Dienstverhältnisses, gewährt. Dies gilt nicht für die Eingliederungshilfen nach Absatz 1 Nummer 3 und 5.
 
 (3) Ist bei Eingliederungsmaßnahmen nach § 9 Absatz 4 Satz 1 des Soldatenversorgungsgesetzes eine Teilnahme an entsprechenden internen Maßnahmen des Karrierecenters der Bundeswehr – Berufsförderungsdienst – nicht oder nicht rechtzeitig möglich, kann eine Förderung nach § 7 des Soldatenversorgungsgesetzes bewilligt werden. Ist die Frist nach § 7 Absatz 6 des Soldatenversorgungsgesetzes abgelaufen oder der Höchstbetrag nach § 19 Absatz 2 ausgeschöpft, können auf schriftlichen Antrag ausnahmsweise die notwendigen Kosten für die Teilnahme erstattet werden. § 20 Absatz 2 und § 23 gelten entsprechend.
 

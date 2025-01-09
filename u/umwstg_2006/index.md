@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 2782, 2791
 
 Zuletzt geändert durch
-:   Art. 11 G v. 27.3.2024 I Nr. 108
-
-Änderung durch
-:   Art. 12 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 G v. 2.12.2024 I Nr. 387
 
 Änderung durch
 :   Art. 13 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -267,11 +264,11 @@ Anteile an der übernehmenden Körperschaft sind mindestens mit dem Buchwert, er
 1.  das Recht der Bundesrepublik Deutschland hinsichtlich der Besteuerung des Gewinns aus der Veräußerung der Anteile an der übernehmenden Körperschaft nicht ausgeschlossen oder beschränkt wird oder
 
 
-2.  die Mitgliedstaaten der Europäischen Union bei einer Verschmelzung Artikel 8 der Richtlinie 2009/133/EG anzuwenden haben; in diesem Fall ist der Gewinn aus einer späteren Veräußerung der erworbenen Anteile ungeachtet der Bestimmungen eines Abkommens zur Vermeidung der Doppelbesteuerung in der gleichen Art und Weise zu besteuern, wie die Veräußerung der Anteile an der übertragenden Körperschaft zu besteuern wäre. Der Antrag ist spätestens bis zur erstmaligen Abgabe der Steuererklärung bei dem für die Besteuerung des Anteilseigners zuständigen Finanzamt zu stellen. § 15 Abs. 1a Satz 2 des Einkommensteuergesetzes ist entsprechend anzuwenden.
+2.  die Mitgliedstaaten der Europäischen Union bei einer Verschmelzung Artikel 8 der Richtlinie 2009/133/EG anzuwenden haben; in diesem Fall ist der Gewinn aus einer späteren Veräußerung der erworbenen Anteile ungeachtet der Bestimmungen eines Abkommens zur Vermeidung der Doppelbesteuerung in der gleichen Art und Weise zu besteuern, wie die Veräußerung der Anteile an der übertragenden Körperschaft zu besteuern wäre. § 15 Abs. 1a Satz 2 des Einkommensteuergesetzes ist entsprechend anzuwenden.
 
 
 
-Die Anteile an der übernehmenden Körperschaft treten steuerlich an die Stelle der Anteile an der übertragenden Körperschaft. Gehören die Anteile an der übertragenden Körperschaft nicht zu einem Betriebsvermögen, treten an die Stelle des Buchwerts die Anschaffungskosten.
+Der Antrag ist spätestens bis zur erstmaligen Abgabe der Steuererklärung bei dem für die Besteuerung des Anteilseigners zuständigen Finanzamt zu stellen. Die Anteile an der übernehmenden Körperschaft treten steuerlich an die Stelle der Anteile an der übertragenden Körperschaft. Gehören die Anteile an der übertragenden Körperschaft nicht zu einem Betriebsvermögen, treten an die Stelle des Buchwerts die Anschaffungskosten.
 
 
 ### § 14 (weggefallen)

@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 1.10.2002 I 3866; 2003 I 61;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 23.10.2024 I Nr. 323
-
-Änderung durch
-:   Art. 16 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 16 G v. 2.12.2024 I Nr. 387
 
 Änderung durch
 :   Art. 17 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -7892,9 +7889,7 @@ Wird die Pfändung auf andere Weise abgewendet, wird keine Gebühr erhoben.
 (2) Wird gegen Gesamtschuldner wegen der Gesamtschuld bei derselben Gelegenheit vollstreckt, so werden Pfändungs-, Wegnahme- und Verwertungsgebühren nur einmal erhoben. Die in Satz 1 bezeichneten Personen schulden die Gebühren als Gesamtschuldner.
 
 
-#### § 343
-
-(weggefallen)
+#### § 343 (weggefallen)
 
 
 #### § 344 Auslagen

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 1142
 
 Zuletzt geändert durch
-:   Art. 12 Abs. 1 G v. 21.12.2020 I 3229
-
-Änderung durch
-:   Art. 2 G v. 20.12.2024 I Nr. 440 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 20.12.2024 I Nr. 440
 
 Stand: Das G ist gem. Art. 3 G v. 19.6.2001 I 1142 mWv 26.6.2001 in Kraft getreten
 

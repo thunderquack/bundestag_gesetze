@@ -79,11 +79,14 @@ Nicht zu den Krankenhausleistungen nach Satz 2 Nummer 2 gehören
 1.  eine Dialyse, wenn hierdurch eine entsprechende Behandlung fortgeführt wird, das Krankenhaus keine eigene Dialyseeinrichtung hat und ein Zusammenhang mit dem Grund der Krankenhausbehandlung nicht besteht,
 
 
-2.  bei der Krankenhausbehandlung von Menschen mit Hörbehinderung Leistungen der Dolmetscherassistenz zum Ausgleich der behinderungsbedingten Kommunikationsbeeinträchtigungen.
+2.  eine Strahlentherapie, wenn ihre Durchführung durch Dritte medizinisch notwendig ist,
+
+
+3.  bei der Krankenhausbehandlung von Menschen mit Hörbehinderung Leistungen der Dolmetscherassistenz zum Ausgleich der behinderungsbedingten Kommunikationsbeeinträchtigungen.
 
 
 
-Besondere Aufgaben nach Satz 2 Nummer 4 setzen deren Ausweisung und Festlegung im Krankenhausplan des Landes oder eine gleichartige Festlegung durch die zuständige Landesbehörde im Einzelfall gegenüber dem Krankenhaus voraus. Die besonderen Aufgaben umfassen nur Leistungen, die nicht bereits durch die Fallpauschalen, nach sonstigen Regelungen dieses Gesetzes oder nach Regelungen des Fünften Buches Sozialgesetzbuch vergütet werden; sie können auch Leistungen, die nicht zur unmittelbaren stationären Patientenversorgung gehören, umfassen.
+Besondere Aufgaben nach Satz 2 Nummer 4 setzen deren Ausweisung und Festlegung im Krankenhausplan des Landes oder eine gleichartige Festlegung durch die zuständige Landesbehörde im Einzelfall gegenüber dem Krankenhaus voraus; die Ausweisung und Festlegung im Krankenhausplan oder die Festlegung im Einzelfall kann durch die Genehmigung des nach § 5 Absatz 3 vereinbarten Zuschlags nach § 14 Absatz 1 Satz 2 ersetzt werden. Die besonderen Aufgaben umfassen nur Leistungen, die nicht bereits durch die Fallpauschalen, nach sonstigen Regelungen dieses Gesetzes oder nach Regelungen des Fünften Buches Sozialgesetzbuch vergütet werden; sie können auch Leistungen, die nicht zur unmittelbaren stationären Patientenversorgung gehören, umfassen.
 
 (3) Bei der Erbringung von allgemeinen Krankenhausleistungen durch nicht im Krankenhaus fest angestellte Ärztinnen und Ärzte hat das Krankenhaus sicherzustellen, dass diese für ihre Tätigkeit im Krankenhaus die gleichen Anforderungen erfüllen, wie sie auch für fest im Krankenhaus angestellte Ärztinnen und Ärzte gelten.
 

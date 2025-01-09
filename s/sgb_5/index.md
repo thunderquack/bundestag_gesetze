@@ -10707,7 +10707,7 @@ Die Gesellschaft hat die Aufgabe, die Verpflichtungen auf Grund der Rechtsnachfo
 
 ### § 217b Organe
 
-(1) Bei dem Spitzenverband Bund der Krankenkassen wird als Selbstverwaltungsorgan ein Verwaltungsrat gebildet. Ein Mitglied des Verwaltungsrates muss dem Verwaltungsrat, dem ehrenamtlichen Vorstand oder der Vertreterversammlung einer Mitgliedskasse angehören. § 33 Abs. 3, die §§ 40, 41, 42 Abs. 1 bis 3, die §§ 58, 59, 62 Absatz 1 bis 4 und 6, § 63 Abs. 1, 3, 4, § 64 Absatz 1 bis 3 und § 66 Abs. 1 des Vierten Buches und § 197 gelten entsprechend.
+(1) Bei dem Spitzenverband Bund der Krankenkassen wird als Selbstverwaltungsorgan ein Verwaltungsrat gebildet. Ein Mitglied des Verwaltungsrates muss dem Verwaltungsrat, dem ehrenamtlichen Vorstand oder der Vertreterversammlung einer Mitgliedskasse angehören. § 33 Abs. 3, die §§ 40, 41, 42 Abs. 1 bis 3, die §§ 58, 59, 62 Absatz 1 bis 4 und 6, § 63 Abs. 1, 3, 4, § 64 Absatz 1 bis 3, § 64a und § 66 Abs. 1 des Vierten Buches und § 197 gelten entsprechend.
 
 (1a) Der Verwaltungsrat kann sämtliche Geschäfts- und Verwaltungsunterlagen einsehen und prüfen. Der Verwaltungsrat kann von dem Vorstand jederzeit einen Bericht über Angelegenheiten der Körperschaften verlangen. Der Bericht ist rechtzeitig und in der Regel schriftlich zu erstatten. Die Rechte nach den Sätzen 1 und 2 können auch mit einem Viertel der abgegebenen Stimmen im Verwaltungsrat geltend gemacht werden.
 
@@ -14794,6 +14794,11 @@ Die Zulassung kann mit Nebenbestimmungen versehen werden.
 (8) Die Gesellschaft für Telematik veröffentlicht eine Liste mit den zugelassenen Komponenten und Diensten sowie mit den zugelassenen Herstellern und Anbietern von Komponenten und Diensten auf ihrer Internetseite.
 
 
+#### § 326 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 5 Absatz 1 Nummer 6, des § 49 Absatz 1 Nummer 3, des § 55 Absatz 2 Satz 2 Nummer 2 und 3 sowie Satz 4, des § 62 Absatz 2 Satz 4 sowie Satz 5 Nummer 2, des § 192 Absatz 1 Nummer 3, des § 235 Absatz 1 Satz 4 und Absatz 2 Satz 1, des § 242 Absatz 3 Satz 1 Nummer 5, des § 251 Absatz 1 und des § 294a Absatz 1 Satz 1 in der am 31. Dezember 2023 geltenden Fassung weiter.
+
+
 #### § 326 Verbot der Nutzung der Telematikinfrastruktur ohne Zulassung oder Bestätigung
 
 Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematikinfrastruktur müssen über die nach § 323 Absatz 2 und § 325 Absatz 1 erforderliche Zulassung oder über die nach § 327 Absatz 2 Satz 1 erforderliche Bestätigung verfügen, bevor sie die Telematikinfrastruktur nutzen.
@@ -17133,7 +17138,7 @@ Im Sinne dieses Kapitels bezeichnet der Ausdruck
 8.  durch Maßnahmen zur Kompetenzbildung das Verständnis für Sachverhalte der Interoperabilität im Gesundheitswesen zu fördern sowie mit den Mitteln der Öffentlichkeitsarbeit kommunikativ die Aufgaben des Kompetenzzentrums gemäß den Nummern 1 bis 7 zu begleiten und
 
 
-9.  die Bundesregierung im Rahmen von Vorhaben und Gremien zur Förderung der Interoperabilität im Gesundheitswesen auf Bundesebene, in der Europäischen Union und im Rahmen bimultilateraler Abstimmungen zu unterstützen und die Aufgabe nach den Nummern 1 bis 4 und 6 auf Basis internationaler Standards vorzunehmen.
+9.  die Bundesregierung im Rahmen von Vorhaben und Gremien zur Förderung der Interoperabilität im Gesundheitswesen auf Bundesebene, in der Europäischen Union und im Rahmen bi- und multilateraler Abstimmungen zu unterstützen und die Aufgabe nach den Nummern 1 bis 4 und 6 auf Basis internationaler Standards vorzunehmen.
 
 
 
@@ -17750,11 +17755,6 @@ Die Geltendmachung von Ansprüchen der Krankenkassen auf Rückzahlung von geleis
 ### § 413 Übergangsregelung zur Tragung der Beiträge durch Dritte für Auszubildende in einer außerbetrieblichen Einrichtung
 
 § 251 Absatz 4c in der bis zum 31. Dezember 2019 geltenden Fassung sowie § 242 Absatz 3 Satz 1 Nummer 1 in der bis zum 30. Juni 2020 geltenden Fassung sind weiterhin anzuwenden, wenn die Berufsausbildung in einer außerbetrieblichen Einrichtung vor dem 1. Januar 2020 begonnen wurde.
-
-
-### § 413 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
-
-Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist, erhalten, gelten die Vorschriften des § 5 Absatz 1 Nummer 6, des § 49 Absatz 1 Nummer 3, des § 55 Absatz 2 Satz 2 Nummer 2 und 3 sowie Satz 4, des § 62 Absatz 2 Satz 4 sowie Satz 5 Nummer 2, des § 192 Absatz 1 Nummer 3, des § 235 Absatz 1 Satz 4 und Absatz 2 Satz 1, des § 242 Absatz 3 Satz 1 Nummer 5, des § 251 Absatz 1 und des § 294a Absatz 1 Satz 1 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 
 ### § 414 Übergangsregelung für am 1. April 2020 bereits geschlossene Krankenkassen

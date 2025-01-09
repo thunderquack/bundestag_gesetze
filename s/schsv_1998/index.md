@@ -120,8 +120,6 @@ werden. Soweit solche Absprachen oder Modelle die zur Verbesserung der Schiffssi
 
 soweit nicht in den nachfolgenden Vorschriften etwas anderes bestimmt ist.
 
-(2) Für ein Schiff, das einer bestimmten Schiffskategorie angehört, müssen, wenn es in einer anderen Schiffskategorie eingesetzt werden soll, die Anforderungen für Schiffe eingehalten werden, die zum Zeitpunkt der Änderung der Schiffskategorie auf Kiel gelegt worden sind, soweit nicht in den nachfolgenden Vorschriften etwas anderes bestimmt ist.
-
 (1a) Absatz 1 Nummer 6 gilt für
 
 1.  ein Schiff im Sinne des § 3 Buchstabe c des Flaggenrechtsgesetzes oder
@@ -143,6 +141,8 @@ nur, soweit der Betreiber des Schiffes einen Antrag nach § 9 Absatz 3 Satz 1 Nu
 
 
 Im Fall des Satzes 1 ist § 11 nicht anzuwenden.
+
+(2) Für ein Schiff, das einer bestimmten Schiffskategorie angehört, müssen, wenn es in einer anderen Schiffskategorie eingesetzt werden soll, die Anforderungen für Schiffe eingehalten werden, die zum Zeitpunkt der Änderung der Schiffskategorie auf Kiel gelegt worden sind, soweit nicht in den nachfolgenden Vorschriften etwas anderes bestimmt ist.
 
 
 ## § 6a Dampfkessel

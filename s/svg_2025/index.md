@@ -23,7 +23,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 4 Abs. 4 G v. 17.12.2024 I Nr. 424 mWv 1.4.2025 noch nicht berücksichtigt
+:   Art. 4 Abs. 4 G v. 17.12.2024 I Nr. 424 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Das G tritt gem. Art. 90 Abs. 1 G v. 20.8.2021 I 3932 am 1.1.2025 in Kraft
 Stand: Ersetzt G 53-4 v. 26.7.1957 I 785 (SVG)

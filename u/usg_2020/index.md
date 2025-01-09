@@ -17,13 +17,7 @@ Fundstelle
 :   BGBl I: 2019, 1147, 1179
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.1.2024 I Nr. 17
-
-Änderung durch
-:   Art. 6 G v. 18.12.2024 I Nr. 423 mWv 24.12.2024 noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 7 G v. 18.12.2024 I Nr. 423 mWv 1.1.2025 noch nicht berücksichtigt
+:   Art. 6 u. 7 G v. 18.12.2024 I Nr. 423
 
 Stand: Das G ist gem. Art. 34 Abs. 5 G v. 4.8.2019 I 1147 am 1.1.2020 in Kraft getreten
 Stand: Ersetzt G 53-8 v. 29.6.2015 I 1061, 1062 (USG)
@@ -121,12 +115,21 @@ Neben Leistungen nach § 6 werden Leistungen nach § 5 nur bis zu 70 Prozent des
 
 #### § 9 Leistungen für Versorgungsempfänger
 
-Reservistendienst leistende Versorgungsempfängerinnen und Versorgungsempfänger erhalten mindestens den Unterschiedsbetrag zwischen
+Leisten Versorgungsempfängerinnen und Versorgungsempfänger Reservistendienst, so erhalten sie mindestens die Differenz aus
 
-1.  ihren Versorgungsbezügen nach Abzug der Lohnsteuer, des Solidaritätszuschlags und der Kirchensteuer sowie
+1.  der Summe aus
+
+    a)  ihren ruhegehaltfähigen Dienstbezügen nach der Endstufe der Besoldungsgruppe, aus der das Ruhegehalt berechnet ist, und
 
 
-2.  den ruhegehaltfähigen Dienstbezügen nach der Endstufe der Besoldungsgruppe, aus der das Ruhegehalt berechnet ist, gemindert um den Betrag, der als Lohnsteuer, Solidaritätszuschlag und Kirchensteuer von den Dienstbezügen abzuziehen wäre.
+    b)  dem Unterschiedsbetrag nach § 64 Absatz 1 Satz 2 und 3 des Soldatenversorgungsgesetzes,
+
+
+
+    wobei von dieser Summe der Betrag subtrahiert wird, der als Lohnsteuer, Solidaritätszuschlag und Kirchensteuer von den Dienstbezügen abzuziehen wäre, und
+
+
+2.  ihren Versorgungsbezügen, von denen die Lohnsteuer, der Solidaritätszuschlag und die Kirchensteuer abgezogen wird.
 
 
 

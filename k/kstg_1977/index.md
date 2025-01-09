@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.10.2002 I 4144;
 
 Zuletzt geändert durch
-:   Art. 18 G v. 27.3.2024 I Nr. 108
-
-Änderung durch
-:   Art. 8 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 2.12.2024 I Nr. 387
 
 
 ## Erster Teil - Steuerpflicht
@@ -1761,8 +1758,9 @@ Die Körperschaftsteuer entsteht
 3             Ein negativer Teilbetrag im Sinne des § 30 Absatz 2 Nummer 2 in der Fassung des Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) ist vorrangig mit dem positiven zusammengefassten Teilbetrag im Sinne des Satzes 1 zu verrechnen.
 
 (6)
-1             Ist einer der belasteten Teilbeträge negativ, mindert dieser vorrangig den nach Anwendung des Absatzes 5 verbleibenden positiven Teilbetrag im Sinne des § 30 Absatz 2 Nummer 2 in der Fassung des Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034); ein darüber hinausgehender Negativbetrag mindert den positiven zusammengefassten Teilbetrag nach Absatz 5 Satz 1. Ein nach Anwendung des Satzes 1 verbleibender negativer belasteter Teilbetrag ist vorbehaltlich des Satzes 3 mit den positiven belasteten Teilbeträgen in der Reihenfolge zu verrechnen, in der ihre Belastung zunimmt.
-2             Die Verrechnung nach Satz 2 unterbleibt bis zur Höhe eines positiven Bestands des Teilbetrags des § 30 Absatz 2 Nummer 4 in der Fassung des Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) nach Anwendung des Absatzes 2 abzüglich des Betrags, um den sich der Verrechnungsbetrag in den Fällen des Absatzes 4 Satz 2 vermindert hat.
+1             Ist einer der belasteten Teilbeträge negativ, mindert dieser vorrangig den nach Anwendung des Absatzes 5 verbleibenden positiven Teilbetrag im Sinne des § 30 Absatz 2 Nummer 2 in der Fassung des Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034); ein darüber hinausgehender Negativbetrag mindert den positiven zusammengefassten Teilbetrag nach Absatz 5 Satz 1.
+2              Ein nach Anwendung des Satzes 1 verbleibender negativer belasteter Teilbetrag ist vorbehaltlich des Satzes 3 mit den positiven belasteten Teilbeträgen in der Reihenfolge zu verrechnen, in der ihre Belastung zunimmt.
+3             Die Verrechnung nach Satz 2 unterbleibt bis zur Höhe eines positiven Bestands des Teilbetrags des § 30 Absatz 2 Nummer 4 in der Fassung des Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) nach Anwendung des Absatzes 2 abzüglich des Betrags, um den sich der Verrechnungsbetrag in den Fällen des Absatzes 4 Satz 2 vermindert hat.
 
 (6a) (weggefallen)
 

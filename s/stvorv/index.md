@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Durchführung des Stellenvorbehalts nach § 10 Abs. 4 Satz 7 des
-  Soldatenversorgungsgesetzes
+Title: Stellenvorbehaltsverordnung
 jurabk: StVorV
 layout: default
 origslug: stvorv
@@ -8,7 +7,7 @@ slug: stvorv
 
 ---
 
-# Verordnung zur Durchführung des Stellenvorbehalts nach § 10 Abs. 4 Satz 7 des Soldatenversorgungsgesetzes (StVorV)
+# Stellenvorbehaltsverordnung (StVorV)
 
 Ausfertigungsdatum
 :   1999-08-24
@@ -16,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1906
 
-Stand: Zukünftige amtl. Langüberschrift: Stellenvorbehaltsverordnung (ab 1.1.2025; 2021 I 3932)
 Zuletzt geändert durch
 :   Art. 16 G v. 20.8.2021 I 3932
-
-[^BJNR106610014_01_BJNR190600999]:     Nichtamtlicher Hinweis: Die Überschrift wird gem. Art. 16 Nr. 1 G v. 20.8.2021 I 3932 mWv 1.1.2025 wie folgt gefasst:  **Stellenvorbehaltsverordnung (StVorV)**
 
 
 ## Eingangsformel
