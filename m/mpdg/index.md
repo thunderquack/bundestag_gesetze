@@ -241,6 +241,13 @@ Satz 1 gilt für Entscheidungen der zuständigen Bundesoberbehörde nach den Abs
 
 
 
+### § 7a Verfahren für die Informationspflicht nach Artikel 10a der Verordnung (EU) 2017/745 und Artikel 10a der Verordnung (EU) 2017/746
+
+(1) Die Anzeigen der Hersteller nach Artikel 10a Absatz 1 der Verordnung (EU) 2017/745 und Artikel 10a Absatz 1 der Verordnung (EU) 2017/746 erfolgen elektronisch in maschinenlesbarer Form an die zuständige Bundesoberbehörde. Die zuständige Bundesoberbehörde veröffentlicht Vorgaben zur Übermittlung der Meldungen nach Artikel 10a Absatz 1 der Verordnung (EU) 2017/745 und Artikel 10a Absatz 1 der Verordnung (EU) 2017/746 auf ihrer Internetseite; die Barrierefreiheit nach § 12a des Behindertengleichstellungsgesetzes ist zu gewährleisten.
+
+(2) Die zuständige Bundesoberbehörde sorgt für die Mitteilung nach Artikel 10a Absatz 2 der Verordnung (EU) 2017/745 und Artikel 10a Absatz 2 der Verordnung (EU) 2017/746.
+
+
 ### § 8 Sprachenregelung für die EU-Konformitätserklärung und für Produktinformationen
 
 (1) Der Hersteller hat für Produkte, die im Geltungsbereich dieses Gesetzes auf dem Markt bereitgestellt werden, die EU-Konformitätserklärung nach Artikel 19 Absatz 1 der Verordnung (EU) 2017/745 und Artikel 17 Absatz 1 der Verordnung (EU) 2017/746 in deutscher oder in englischer Sprache zur Verfügung zu stellen.
@@ -1698,6 +1705,9 @@ Die zuständige Bundesoberbehörde hat die Aufgabe, die zuständigen Behörden, 
 
 
 4.  Sonderzulassungen nach § 7, außer in den Fällen des § 90 Absatz 3,
+
+
+4a. das Verfahren nach Artikel 10a Absatz 1 der Verordnung (EU) 2017/745 oder Artikel 10a Absatz 1 der Verordnung (EU) 2017/746 sowie die Meldungen nach Artikel 10a Absatz 2 der Verordnung (EU) 2017/745 oder Artikel 10a Absatz 2 der Verordnung (EU) 2017/746,
 
 
 5.  die Genehmigung von klinischen Prüfungen nach den Artikeln 70 und 78 der Verordnung (EU) 2017/745 und von Leistungsstudien nach den Artikeln 66 und 74 der Verordnung (EU) 2017/746, einschließlich der Prüfung wesentlicher Änderungen nach Artikel 75 der Verordnung (EU) 2017/745 und Artikel 71 der Verordnung (EU) 2017/746,
