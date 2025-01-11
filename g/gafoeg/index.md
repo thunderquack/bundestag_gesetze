@@ -24,13 +24,13 @@ Geändert durch
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 
-## (XXXX) Art 1 und 2 Änderungsvorschriften
+## (XXXX) Art 1 und 2 (Änderungsvorschriften)
 
 
 ## Art 3 Gesetz über Finanzhilfen des Bundes zum Ausbau ganztägiger Bildungs- und Betreuungsangebote für Kinder im Grundschulalter (Ganztagsfinanzhilfegesetz - GaFinHG)
 
 
-## (XXXX) Art 4 und 5 Änderungsvorschriften
+## (XXXX) Art 4 und 5 (Änderungsvorschriften)
 
 
 ## Art 6 Evaluation
