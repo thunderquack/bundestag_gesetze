@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.9.1984 I 1213;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 3.6.2021 I 1471
-
-Änderung durch
-:   Art. 72 Abs. 6 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 72 Abs. 6 G v. 23.10.2024 I Nr. 323
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen

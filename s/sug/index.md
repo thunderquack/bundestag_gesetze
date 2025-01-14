@@ -20,10 +20,7 @@ Neugefasst durch
 :   Bek. v. 1.3.2012 I 390;
 
 Zuletzt geändert durch
-:   Art. 148 G v. 20.11.2019 I 1626
-
-Änderung durch
-:   Art. 71 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 71 G v. 23.10.2024 I Nr. 323
 
 
 ## Abschnitt 1 - Anwendungsbereich
@@ -164,7 +161,7 @@ Seefahrtbezogene internationale Untersuchungsregelungen im Sinne dieses Gesetzes
 
 Im Rahmen ihrer Zuständigkeiten nach diesem Gesetz haben die darin genannten Behörden des Bundes jeweils die Überprüfungs-, Gestaltungs- und Eingriffsbefugnisse, -aufgaben und -pflichten, die die in Buchstabe B der Anlage genannten Einzelregelungen den Mitgliedstaaten zur Verwaltung oder ihren Verwaltungsbehörden für einen Fall vorbehalten oder zuweisen.
 
-    Diese Bestimmung dient der Umsetzung der in den Buchstaben B und E der Anlage genannten gemeinschaftsrechtlichen Vorschriften.
+    Diese Bestimmung dient der Umsetzung der in den Buchstaben B der Anlage genannten gemeinschaftsrechtlichen Vorschriften.
 [^f776202_02_BJNR181700002BJNE000303119]: 
 
 ## Abschnitt 2 - Untersuchungen bei der Sicherheitsvorsorge durch verantwortliche Personen
@@ -988,12 +985,6 @@ C.  **Internationale Richtlinien und Standards, die bestimmten, in Abschnitt A u
 
 
 
-
-
-D.  (weggefallen)
-
-
-E.  (weggefallen)
 
 
 

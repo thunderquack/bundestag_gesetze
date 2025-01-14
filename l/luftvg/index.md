@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.5.2007 I 698;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 22.12.2023 I Nr. 409
-
-Änderung durch
-:   Art. 9 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 23.10.2024 I Nr. 323
 
 Änderung durch
 :   Art. 3 G v. 23.10.2024 I Nr. 327 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -654,8 +651,6 @@ Eine Differenzierung der Entgelte zur Verfolgung von öffentlichen oder allgemei
 (4) Ein Flughafenunternehmen nach Absatz 3, das in einem Ballungsgebiet mehr als einen Verkehrsflughafen betreibt, kann mit Zustimmung der Genehmigungsbehörde eine für alle Verkehrsflughäfen geltende Entgeltordnung erlassen.
 
 (5) Um einen reibungslosen und effizienten Betrieb auf einem Flughafen sicherzustellen, können die Unternehmer von Verkehrsflughäfen nach Absatz 3 und die Flughafennutzer Leistungsvereinbarungen bezüglich der Qualität der am Flughafen zu erbringenden Dienstleistungen abschließen. Dabei sind die Entgeltordnung sowie Art und Umfang der Dienstleistungen, auf die die Flughafennutzer im Gegenzug für die Zahlung von Flughafenentgelten Anrecht haben, zu berücksichtigen.
-
-(6) (weggefallen)
 
 
 #### § 19c

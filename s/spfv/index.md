@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 1016 (4043)
 
 Zuletzt geändert durch
-:   Art. 7 V v. 18.3.2024 I Nr. 100
-
-Änderung durch
-:   Art. 72 Abs. 4 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 72 Abs. 4 G v. 23.10.2024 I Nr. 323
 
 
 ## § 1 Anwendungsbereich
