@@ -142,21 +142,6 @@ Zuletzt geändert durch
 
 
 
-    Kryptografische Instrumente im Sinne dieses Gesetzes sind digitale Darstellungen eines Wertes, der von keiner Zentralbank oder öffentlichen Stelle emittiert wurde oder garantiert wird und nicht den gesetzlichen Status einer Währung oder von Geld besitzt, aber von natürlichen oder juristischen Personen aufgrund einer Vereinbarung oder tatsächlichen Übung als Tausch- oder Zahlungsmittel akzeptiert wird oder Anlagezwecken dient und der auf elektronischem Wege übertragen, gespeichert und gehandelt werden kann. Keine kryptografischen Instrumente im Sinne dieses Gesetzes sind
-
-    1.  E-Geld im Sinne des § 1 Absatz 2 Satz 3 des Zahlungsdiensteaufsichtsgesetzes,
-
-
-    2.  monetäre Werte, die die Vorgaben nach § 2 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes erfüllen oder nur für Zahlungsvorgänge im Sinne des § 2 Absatz 1 Nummer 11 des Zahlungsdiensteaufsichtsgesetzes eingesetzt werden,
-
-
-    3.  Kryptowerte im Sinne des Artikels 3 Absatz 1 Nummer 5 der Verordnung (EU) 2023/1114 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über Märkte für Kryptowerte und zur Änderung der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 1095/2010 sowie der Richtlinien 2013/36/EU und (EU) 2019/1937 (ABl. L 150 vom 9.6.2023, S. 40), die durch die Verordnung (EU) 2023/2869 (ABl. L, 2023/2869, 20.12.2023) geändert worden ist, im Anwendungsbereich der Verordnung (EU) 2023/1114 und
-
-
-    4.  Wertpapiere im Sinne des Depotgesetzes.
-
-
-
 
 
 7.  der Handel mit Sorten (Sortengeschäft),
@@ -187,7 +172,21 @@ Die Anschaffung und die Veräußerung von Finanzinstrumenten für eigene Rechnun
 
 
 
-Ein Unternehmen, das als Finanzdienstleistung geltendes Eigengeschäft nach Satz 3 betreibt, gilt als Finanzdienstleistungsinstitut. Die Sätze 3 und 4 gelten nicht für Abwicklungsanstalten nach § 8a Absatz 1 Satz 1 des Stabilisierungsfondsgesetzes. Ob ein häufiger systematischer Handel im Sinne des Satzes 2 Nummer 4 Buchstabe b vorliegt, bemisst sich nach der Zahl der Geschäfte außerhalb eines Handelsplatzes im Sinne des § 2 Absatz 22 des Wertpapierhandelsgesetzes (OTC-Handel) mit einem Finanzinstrument zur Ausführung von Kundenaufträgen, die für eigene Rechnung durchgeführt werden. Ob ein Handel in erheblichem Umfang im Sinne des Satzes 2 Nummer 4 Buchstabe b vorliegt, bemisst sich entweder nach dem Anteil des OTC-Handels an dem Gesamthandelsvolumen des Unternehmens in einem bestimmten Finanzinstrument oder nach dem Verhältnis des OTC-Handels des Unternehmens zum Gesamthandelsvolumen in einem bestimmten Finanzinstrument in der Europäischen Union. Die Voraussetzungen der systematischen Internalisierung sind erst dann erfüllt, wenn sowohl die in den Artikeln 12 bis 17 der Delegierten Verordnung (EU) 2017/565 bestimmte Obergrenze für häufigen systematischen Handel als auch die in der vorgenannten Delegierten Verordnung bestimmte einschlägige Obergrenze für den Handel in erheblichem Umfang überschritten werden oder wenn ein Unternehmen sich freiwillig den für die systematische Internalisierung geltenden Regelungen unterworfen und einen entsprechenden Erlaubnisantrag bei der Bundesanstalt gestellt hat.
+Ein Unternehmen, das als Finanzdienstleistung geltendes Eigengeschäft nach Satz 3 betreibt, gilt als Finanzdienstleistungsinstitut. Die Sätze 3 und 4 gelten nicht für Abwicklungsanstalten nach § 8a Absatz 1 Satz 1 des Stabilisierungsfondsgesetzes. Ob ein häufiger systematischer Handel im Sinne des Satzes 2 Nummer 4 Buchstabe b vorliegt, bemisst sich nach der Zahl der Geschäfte außerhalb eines Handelsplatzes im Sinne des § 2 Absatz 22 des Wertpapierhandelsgesetzes (OTC-Handel) mit einem Finanzinstrument zur Ausführung von Kundenaufträgen, die für eigene Rechnung durchgeführt werden. Ob ein Handel in erheblichem Umfang im Sinne des Satzes 2 Nummer 4 Buchstabe b vorliegt, bemisst sich entweder nach dem Anteil des OTC-Handels an dem Gesamthandelsvolumen des Unternehmens in einem bestimmten Finanzinstrument oder nach dem Verhältnis des OTC-Handels des Unternehmens zum Gesamthandelsvolumen in einem bestimmten Finanzinstrument in der Europäischen Union. Die Voraussetzungen der systematischen Internalisierung sind erst dann erfüllt, wenn sowohl die in den Artikeln 12 bis 17 der Delegierten Verordnung (EU) 2017/565 bestimmte Obergrenze für häufigen systematischen Handel als auch die in der vorgenannten Delegierten Verordnung bestimmte einschlägige Obergrenze für den Handel in erheblichem Umfang überschritten werden oder wenn ein Unternehmen sich freiwillig den für die systematische Internalisierung geltenden Regelungen unterworfen und einen entsprechenden Erlaubnisantrag bei der Bundesanstalt gestellt hat. Kryptografische Instrumente im Sinne dieses Gesetzes sind digitale Darstellungen eines Wertes, der von keiner Zentralbank oder öffentlichen Stelle emittiert wurde oder garantiert wird und nicht den gesetzlichen Status einer Währung oder von Geld besitzt, aber von natürlichen oder juristischen Personen aufgrund einer Vereinbarung oder tatsächlichen Übung als Tausch- oder Zahlungsmittel akzeptiert wird oder Anlagezwecken dient und der auf elektronischem Wege übertragen, gespeichert und gehandelt werden kann. Keine kryptografischen Instrumente im Sinne dieses Gesetzes sind
+
+1.  E-Geld im Sinne des § 1 Absatz 2 Satz 3 des Zahlungsdiensteaufsichtsgesetzes,
+
+
+2.  monetäre Werte, die die Vorgaben nach § 2 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes erfüllen oder nur für Zahlungsvorgänge im Sinne des § 2 Absatz 1 Nummer 11 des Zahlungsdiensteaufsichtsgesetzes eingesetzt werden,
+
+
+3.  Kryptowerte im Sinne des Artikels 3 Absatz 1 Nummer 5 der Verordnung (EU) 2023/1114 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über Märkte für Kryptowerte und zur Änderung der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 1095/2010 sowie der Richtlinien 2013/36/EU und (EU) 2019/1937 (ABl. L 150 vom 9.6.2023, S. 40), die durch die Verordnung (EU) 2023/2869 (ABl. L, 2023/2869, 20.12.2023) geändert worden ist, im Anwendungsbereich der Verordnung (EU) 2023/1114 und
+
+
+4.  Wertpapiere im Sinne des Depotgesetzes.
+
+
+
 
 (1b) Institute im Sinne dieses Gesetzes sind Kreditinstitute und Finanzdienstleistungsinstitute.
 

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 1753
 
 Zuletzt geändert durch
-:   Art. 4 G v. 27.3.2024 I Nr. 107
-
-Änderung durch
-:   Art. 1 V v. 20.12.2024 I Nr. 445 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 20.12.2024 I Nr. 445
 
 
 ## - - Allgemeines

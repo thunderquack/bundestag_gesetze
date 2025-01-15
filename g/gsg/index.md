@@ -166,7 +166,7 @@ Die pharmazeutischen Hersteller haben die Preise entsprechend zu senken und rech
 Versicherungsfreie Personen, die keinen Anspruch auf einen Beitragszuschuß nach § 257 des Fünften Buches Sozialgesetzbuch haben und bei einem privaten Versicherungsunternehmen versichert sind, können ab 1. Juli 1994 bei diesem Versicherungsunternehmen eine Bescheinigung darüber beantragen, daß der Versicherungsschutz die Bedingungen nach § 257 Abs. 2a Satz 1 Nr. 1 bis 4 des Fünften Buches Sozialgesetzbuch erfüllt. Erteilt das Versicherungsunternehmen diese Bescheinigung nicht innerhalb von zwei Monaten nach Antragseingang, kann der Versicherungsnehmer den Versicherungsvertrag innerhalb von zwei weiteren Monaten mit sofortiger Wirkung kündigen. Das Versicherungsunternehmen darf die Bescheinigung nur erteilen, wenn ihm die zuständige Aufsichtsbehörde bestätigt hat, daß es die Versicherung, die Grundlage des Versicherungsvertrages ist, nach den in Satz 1 genannten Voraussetzungen betreibt.
 
 
-## Art 33 Überleitungsvorschriften
+## Art 33 - Überleitungsvorschriften
 
 
 

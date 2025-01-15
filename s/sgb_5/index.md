@@ -1421,7 +1421,7 @@ Die Vertragsärztin oder der Vertragsarzt, die oder der die Leistung nach Satz 1
 
 ##### § 31a Medikationsplan
 
-(1) Versicherte, die gleichzeitig mindestens drei verordnete Arzneimittel anwenden, haben Anspruch auf Erstellung und Aushändigung eines Medikationsplans in Papierform sowie auf Erstellung eines elektronischen Medikationsplans nach § 334 Absatz 1 Satz 2 Nummer 4 durch einen an der vertragsärztlichen Versorgung teilnehmenden Arzt. Das Nähere zu den Voraussetzungen des Anspruchs nach Satz 1 vereinbaren die Kassenärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen als Bestandteil der Bundesmantelverträge. Jeder an der vertragsärztlichen Versorgung teilnehmende Arzt ist verpflichtet, bei der Verordnung eines Arzneimittels den Versicherten, der einen Anspruch nach Satz 1 hat, über diesen Anspruch zu informieren.
+(1) Versicherte, die gleichzeitig mindestens drei verordnete Arzneimittel anwenden, haben Anspruch auf Erstellung und Aushändigung eines Medikationsplans in Papierform sowie auf Erstellung eines elektronischen Medikationsplans nach § 334 Absatz 1 Satz 2 Nummer 4 durch einen an der vertragsärztlichen Versorgung teilnehmenden Arzt. Das Nähere zu den Voraussetzungen des Anspruchs nach Satz 1 vereinbaren die Kassenärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen als Bestandteil der Bundesmantelverträge. Jeder an der vertragsärztlichen Versorgung teilnehmende Arzt ist verpflichtet, bei der Verordnung eines Arzneimittels den Versicherten, der einen Anspruch nach Satz 1 hat, über diesen Anspruch zu informieren. Ab dem Zeitpunkt, zu dem die elektronische Patientenakte gemäß § 342 Absatz 1 Satz 2 zur Verfügung steht, ist der an der vertragsärztlichen Versorgung teilnehmende Arzt nach Satz 1 verpflichtet, einen elektronischen Medikationsplan zu erstellen, soweit der Versicherte einen Anspruch nach Satz 1 hat und dem Zugriff des Arztes auf Daten nach § 342 Absatz 2a in der elektronischen Patientenakte gemäß § 353 Absatz 1 oder 2 nicht widersprochen hat.
 
 (2) In dem Medikationsplan sind mit Anwendungshinweisen zu dokumentieren
 
@@ -1439,7 +1439,9 @@ Den besonderen Belangen der blinden und sehbehinderten Patienten ist bei der Erl
 
 (3) Der Arzt nach Absatz 1 Satz 1 hat den Medikationsplan zu aktualisieren, sobald er die Medikation ändert oder er Kenntnis davon erlangt, dass eine anderweitige Änderung der Medikation eingetreten ist. Auf Wunsch des Versicherten hat die Apotheke bei Abgabe eines Arzneimittels eine insoweit erforderliche Aktualisierung des Medikationsplans vorzunehmen. Ab dem 1. Januar 2019 besteht der Anspruch auf Aktualisierung über den Anspruch nach Satz 1 hinaus gegenüber jedem an der vertragsärztlichen Versorgung teilnehmenden Arzt sowie nach Satz 2 gegenüber der abgebenden Apotheke, wenn der Versicherte gegenüber dem Arzt oder der abgebenden Apotheke den Zugriff auf den elektronischen Medikationsplan nach § 334 Absatz 1 Satz 2 Nummer 4 erlaubt. Hierzu haben Apotheken sich bis zum 30. September 2020 an die Telematikinfrastruktur nach § 291a Absatz 7 Satz 1 anzuschließen. Die Aktualisierungen nach Satz 3 sind im elektronischen Medikationsplan nach § 334 Absatz 1 Satz 2 Nummer 4 zu speichern, sofern der Versicherte dies wünscht.
 
-(3a) Bei der Angabe von Fertigarzneimitteln sind im Medikationsplan neben der Arzneimittelbezeichnung insbesondere auch die Wirkstoffbezeichnung, die Darreichungsform und die Wirkstärke des Arzneimittels anzugeben. Hierfür sind einheitliche Bezeichnungen zu verwenden, die in der Referenzdatenbank nach § 31b zur Verfügung gestellt werden.
+(3a) Ab dem Zeitpunkt, zu dem die elektronische Patientenakte gemäß § 342 Absatz 1 Satz 2 zur Verfügung steht, sind die nach Absatz 3 Satz 3 an der vertragsärztlichen Versorgung teilnehmenden Ärzte sowie die abgebenden Apotheken nach Absatz 3 Satz 2 verpflichtet, den Medikationsplan nach Absatz 1 Satz 1 zu aktualisieren und diese Aktualisierungen nach Absatz 3 Satz 5 im elektronischen Medikationsplan zu speichern, soweit der Versicherte dem Zugriff des Arztes oder der abgebenden Apotheke auf Daten nach § 342 Absatz 2a in der elektronischen Patientenakte nicht gemäß § 353 Absatz 1 oder 2 widersprochen hat.
+
+(3b) Bei der Angabe von Fertigarzneimitteln sind im Medikationsplan neben der Arzneimittelbezeichnung insbesondere auch die Wirkstoffbezeichnung, die Darreichungsform und die Wirkstärke des Arzneimittels anzugeben. Hierfür sind einheitliche Bezeichnungen zu verwenden, die in der Referenzdatenbank nach § 31b zur Verfügung gestellt werden.
 
 (4) Inhalt, Struktur und die näheren Vorgaben zur Erstellung und Aktualisierung des Medikationsplans sowie ein Verfahren zu seiner Fortschreibung vereinbaren die Kassenärztliche Bundesvereinigung, die Bundesärztekammer und die für die Wahrnehmung der wirtschaftlichen Interessen gebildete maßgebliche Spitzenorganisation der Apotheker auf Bundesebene im Benehmen mit dem Spitzenverband Bund der Krankenkassen und der Deutschen Krankenhausgesellschaft. Den auf Bundesebene für die Wahrnehmung der Interessen der Patienten und der Selbsthilfe chronisch kranker und behinderter Menschen maßgeblichen Organisationen ist Gelegenheit zur Stellungnahme zu geben.
 
@@ -14983,7 +14985,7 @@ Die Kassenärztlichen Bundesvereinigungen können für die an der vertragsärztl
 
 (2) Mit den Versicherten darf nicht vereinbart werden, den Zugriff auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 anderen als den in den §§ 352, 356 Absatz 1, in § 357 Absatz 1, § 359 Absatz 1, § 361 Absatz 2 Satz 1 und § 363 genannten Personen oder zu anderen als den dort genannten Zwecken, einschließlich der Abrechnung der zum Zweck der Versorgung erbrachten Leistungen, zu gestatten.
 
-(3) Die Versicherten dürfen nicht bevorzugt oder benachteiligt werden, weil sie einen Zugriff auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 bewirkt oder verweigert haben.
+(3) Die Versicherten dürfen weder bevorzugt noch benachteiligt werden, weil sie der Einrichtung einer elektronischen Patientenakte nach § 342 Absatz 1 Satz 2 und § 344 Absatz 3 widersprochen, einen Zugriff auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 im Wege der Einwilligung nach § 339 Absatz 1a und § 353 Absatz 3 bis 6 erlaubt oder im Wege eines Widerspruchs nach § 337 Absatz 3, § 339 Absatz 1 und § 353 Absatz 1 und 2 verweigert oder ihre weiteren Rechte nach § 337 oder ihre Betroffenenrechte gemäß der Verordnung (EU) 2016/679 ausgeübt haben.
 
 
 ##### § 336 Zugriffsrechte der Versicherten
@@ -15026,13 +15028,13 @@ Abweichend von Satz 1 kann der Versicherte nach umfassender Information durch de
 (7) Die Gesellschaft für Telematik legt bis zum 30. Juni 2023 im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik und der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit die erforderlichen technischen Vorgaben für die Identifizierung der Versicherten nach Absatz 1 Satz 2 und Absatz 2 Satz 5 fest. Die Gesellschaft für Telematik kann den Apotheken Dienste zur Durchführung der Identifizierung der Versicherten zur Verfügung stellen. Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere zu regeln zu der Durchführung der Identifizierung der Versicherten sowie der Vergütung und Abrechnung der Apotheken für die Durchführung der Identifizierung der Versicherten.
 
 
-##### § 337 Recht der Versicherten auf Verarbeitung von Daten sowie auf Erteilung von Zugriffsberechtigungen auf Daten
+##### § 337 Recht der Versicherten auf Verarbeitung von Daten sowie auf Erteilung und Verwehrung von Zugriffsberechtigungen auf Daten
 
 (1) Jeder Versicherte ist berechtigt, Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1, 4 und 5 auszulesen und zu übermitteln sowie Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1, soweit es sich um Daten nach § 341 Absatz 2 Nummer 1 Buchstabe b, Nummer 3, 4, 6, 7 und 16 handelt, und Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 2 und 3 zu verarbeiten. Satz 1 findet keine Anwendung auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4 und 5, soweit diese auf der elektronischen Gesundheitskarte gespeichert sind.
 
 (2) Der Versicherte ist berechtigt, Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 bis 7 eigenständig zu löschen sowie den Zugriff auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 bis 5 und 7 zu beschränken sowie diese Beschränkung aufzuheben. Satz 1 findet keine Anwendung auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4 und 5, soweit diese auf der elektronischen Gesundheitskarte gespeichert sind. Im Übrigen müssen Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 bis 7 auf Verlangen der Versicherten durch die nach Maßgabe der §§ 352, 356, 357, 359 und 361 insoweit Zugriffsberechtigten gelöscht werden. Soweit es sich um Datensätze und Informationsobjekte handelt, die als Anwendungsfälle der elektronischen Patientenakte gemäß § 342 Absatz 2a bis 2c gesamthaft und zusammenhängend verarbeitet werden, kann der jeweilige Anwendungsfall nur in seiner Gesamtheit gelöscht werden.
 
-(3) Der Versicherte ist berechtigt, gemäß § 339 Zugriffsberechtigungen auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 zu erteilen.
+(3) Die Versicherten sind jederzeit berechtigt, gemäß § 353 Absatz 1 und 2 dem Zugriff auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1, 4, 5 und 7 zu widersprechen und gemäß § 353 Absatz 3 bis 6 im Wege der Einwilligung Zugriffsberechtigungen auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 und 6 zu erteilen. Satz 1 findet keine Anwendung auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4, 5 und 7, soweit diese auf der elektronischen Gesundheitskarte gespeichert sind. Die Erteilung von Zugriffsberechtigungen auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 2 und 3, auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1, soweit es sich um Daten nach § 341 Absatz 2 Nummer 7 Buchstabe a und b und Nummer 16 handelt, sowie auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4 und 5, soweit diese auf der elektronischen Gesundheitskarte gespeichert sind, erfolgt nach Maßgabe der §§ 356, 357 und 359.
 
 
 ##### § 338 Komponenten zur Wahrnehmung der Versichertenrechte
@@ -15046,7 +15048,7 @@ Abweichend von Satz 1 kann der Versicherte nach umfassender Information durch de
 
 ##### § 339 Voraussetzungen für den Zugriff von Leistungserbringern und anderen zugriffsberechtigten Personen
 
-(1) Zugriffsberechtigte Leistungserbringer und andere zugriffsberechtigte Personen dürfen nach Maßgabe der §§ 352, 356, 357 und 359 auf personenbezogene Daten, insbesondere Gesundheitsdaten, der Versicherten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 bis 5 und 7 zugreifen, soweit die Versicherten hierzu ihre vorherige Einwilligung erteilt haben. Hierzu bedarf es einer eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe.
+(1) Zugriffsberechtigte nach § 352 Satz 1 Nummer 1 bis 15 und 19, auch in Verbindung mit Satz 2, dürfen für Zwecke der Gesundheitsvorsorge oder der Arbeitsmedizin, für die Beurteilung der Arbeitsfähigkeit des Beschäftigten, für die medizinische Diagnostik, die Versorgung oder Behandlung im Gesundheits- oder Sozialbereich oder für die Verwaltung von Systemen und Diensten im Gesundheits- oder Sozialbereich nach Maßgabe der §§ 352 und 359 im zeitlichen Zusammenhang mit der Behandlung auf personenbezogene Daten, insbesondere auf Gesundheitsdaten der Versicherten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1, 4, 5 und 7 zugreifen, soweit die Versicherten dem nicht widersprochen haben; dies gilt nicht für Daten in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 4 und 5, soweit diese auf der elektronischen Gesundheitskarte gespeichert sind. Der Zugriff auf Daten des Versicherten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 2 bis 5 und auf Daten nach § 341 Absatz 2 Nummer 7 Buchstabe a und b und Nummer 16 ist nach Maßgabe der §§ 356, 357 und 359 zulässig; dies gilt für Daten in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 4 und 5 nur, soweit diese auf der elektronischen Gesundheitskarte gespeichert sind. Der Nachweis des zeitlichen Zusammenhangs mit der Behandlung erfolgt mittels der elektronischen Gesundheitskarte oder der digitalen Identität der Versicherten nach § 291 Absatz 8 Satz 1.
 
 (1a) Zugriffsberechtigte nach § 352 Satz 1 Nummer 16 bis 18, auch in Verbindung mit Satz 2, dürfen nach Maßgabe der §§ 352 und 359 auf personenbezogene Daten, insbesondere auf Gesundheitsdaten der Versicherten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1, 4, 5 und 7 zugreifen, soweit die Versicherten hierzu ihre Einwilligung erteilt haben. Die Zugriffsvoraussetzungen nach den §§ 356 und 357 bleiben unberührt.
 
@@ -15391,72 +15393,7 @@ Berechtigt im Sinne von Satz 1 Nummer 4 sind Leistungserbringerinstitutionen, mi
 
 ###### § 343 Informationspflichten der Krankenkassen
 
-(1) Die Krankenkassen haben den Versicherten, bevor sie ihnen gemäß § 342 Absatz 1 Satz 1 eine elektronische Patientenakte anbieten, umfassendes, geeignetes Informationsmaterial über die elektronische Patientenakte in präziser, transparenter, verständlicher und leicht zugänglicher Form in einer klaren und einfachen Sprache und barrierefrei zur Verfügung zu stellen. Das Informationsmaterial muss über alle relevanten Umstände der Datenverarbeitung für die Einrichtung der elektronischen Patientenakte, die Übermittlung von Daten in die elektronische Patientenakte und die Verarbeitung von Daten in der elektronischen Patientenakte durch Leistungserbringer einschließlich der damit verbundenen Datenverarbeitungsvorgänge in den verschiedenen Bestandteilen der Telematikinfrastruktur und die für die Datenverarbeitung datenschutzrechtlich Verantwortlichen informieren. Das Informationsmaterial enthält insbesondere Informationen über
-
-1.  den jeweiligen Anbieter der von der Krankenkasse zur Verfügung gestellten elektronischen Patientenakte,
-
-
-2.  die Funktionsweise der elektronischen Patientenakte, einschließlich der Art der in ihr zu verarbeitenden Daten gemäß § 341 Absatz 2,
-
-
-3.  die Freiwilligkeit der Einrichtung der elektronischen Patientenakte und das Recht auf jederzeitige teilweise oder vollständige Löschung,
-
-
-4.  das Erfordernis der vorherigen Einwilligung in die Datenverarbeitung in der elektronischen Patientenakte gegenüber Krankenkassen, Anbietern und Leistungserbringern sowie die Möglichkeit des Widerrufs der Einwilligung,
-
-
-5.  die für den Zweck der Einrichtung der elektronischen Patientenakte erforderliche Datenverarbeitung durch die Krankenkassen und die Anbieter gemäß § 344 Absatz 1,
-
-
-6.  den Anspruch gemäß § 337 auf selbständige Speicherung und Löschung von Daten in der elektronischen Patientenakte und über die Verarbeitung dieser Daten durch die Krankenkassen und Anbieter in der elektronischen Patientenakte einschließlich des Hinweises, dass die Krankenkassen keinen Zugriff auf die in der elektronischen Patientenakte gespeicherten Daten haben,
-
-
-7.  den Anspruch auf Übertragung von bei der Krankenkasse gespeicherten Daten in die elektronische Patientenakte nach § 350 Absatz 1 und die Verarbeitung dieser Daten durch die Krankenkassen und Anbieter in der elektronischen Patientenakte,
-
-
-8.  den Anspruch auf Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Leistungserbringer nach den §§ 347 bis 349 und die Verarbeitung dieser Daten durch die Leistungserbringer, Krankenkassen und Anbieter in der elektronischen Patientenakte,
-
-
-9.  den Anspruch auf Übertragung von Daten aus elektronischen Gesundheitsakten in die elektronische Patientenakte nach § 351 und die Verarbeitung dieser Daten durch die Krankenkassen und Anbieter in der elektronischen Patientenakte,
-
-
-10. die Voraussetzungen für den Zugriff von Leistungserbringern auf Daten in der elektronischen Patientenakte nach § 352 und die Verarbeitung dieser Daten durch den Leistungserbringer,
-
-
-11. die Möglichkeit, bei der Datenverarbeitung nach Nummer 10 beim Leistungserbringer durch technische Zugriffsfreigabe in die konkrete Datenverarbeitung einzuwilligen,
-
-
-12. die fehlende Möglichkeit, vor dem 1. Januar 2022 die Einwilligung sowohl auf spezifische Dokumente und Datensätze als auch auf Gruppen von Dokumenten und Datensätzen der elektronischen Patientenakte nach § 342 Absatz 2 Nummer 2 Buchstabe b zu beschränken,
-
-
-13. die fehlende Möglichkeit, die Einwilligung mittels der dezentralen Infrastruktur der Leistungserbringer auf spezifische Dokumente und Datensätze zu beschränken,
-
-
-14. das Angebot von zusätzlichen Anwendungen nach § 345 Absatz 1 und über deren Funktionsweise einschließlich der Art der in ihr zu verarbeitenden Daten, den Speicherort und die Zugriffsrechte,
-
-
-15. die sichere Nutzung von Komponenten, die den Zugriff der Versicherten auf die elektronische Patientenakte über eine Benutzeroberfläche geeigneter Endgeräte ermöglichen,
-
-
-16. die Möglichkeit und die Voraussetzungen, gemäß § 363 Daten der elektronischen Patientenakte freiwillig für die in § 303e Absatz 2 Nummer 2, 4, 5 und 7 aufgeführten Forschungszwecke freizugeben,
-
-
-17. die Rechte der Versicherten gegenüber der Krankenkasse als dem für die Datenverarbeitung Verantwortlichen nach Artikel 4 Nummer 7 der Verordnung (EU) 2016/679,
-
-
-18. die Möglichkeit, den Zugriff von Leistungserbringern nach Nummer 10 auf Daten in der elektronischen Patientenakte nach § 352 auch Ärzten, die bei einer für den Öffentlichen Gesundheitsdienst zuständigen Behörde tätig sind, und Fachärzten für Arbeitsmedizin sowie Ärzten, die über die Zusatzbezeichnung „Betriebsmedizin“ verfügen, zu erteilen,
-
-
-19. die Möglichkeit, ab dem 1. Januar 2022 über die Benutzeroberfläche eines geeigneten Endgeräts einem Vertreter die Befugnis zu erteilen, die Rechte des Versicherten im Rahmen der Führung seiner elektronischen Patientenakte innerhalb der erteilten Vertretungsbefugnis wahrzunehmen,
-
-
-20. mögliche versorgungsrelevante Folgen, die daraus resultieren können, dass der Versicherte von seinen Rechten Gebrauch macht, sich gegen die Nutzung einer elektronischen Patientenakte zu entscheiden, Zugriffe auf Daten der elektronischen Patientenakte nicht zu erteilen oder Daten der elektronischen Patientenakte zu löschen und
-
-
-21. die Möglichkeit für die Versicherten, ab dem 1. Januar 2023 Daten aus ihren digitalen Gesundheitsanwendungen nach § 33a mit ihrer Einwilligung vom Hersteller einer solchen Anwendung über den Anbieter der elektronischen Patientenakte in ihre elektronische Patientenakte zu übermitteln.
-
-
-
+(1) (weggefallen)
 
 (1a) Die Krankenkassen haben den Versicherten, bevor sie ihnen eine elektronische Patientenakte gemäß § 342 Absatz 1 Satz 2 zur Verfügung stellen, umfassendes und geeignetes Informationsmaterial über die elektronische Patientenakte in präziser, transparenter, verständlicher und leicht zugänglicher Form in einer klaren und einfachen Sprache und barrierefrei zur Verfügung zu stellen. Die Informationen müssen über alle relevanten Umstände der Datenverarbeitung für die Einrichtung der elektronischen Patientenakte, über die Übermittlung von Daten in die elektronische Patientenakte und über die Verarbeitung von Daten in der elektronischen Patientenakte durch Leistungserbringer einschließlich der damit verbundenen Datenverarbeitungsvorgänge in den verschiedenen Bestandteilen der Telematikinfrastruktur und über die für die Datenverarbeitung datenschutzrechtlich Verantwortlichen informieren. Das Informationsmaterial muss insbesondere Informationen enthalten über
 
@@ -15556,7 +15493,7 @@ Berechtigt im Sinne von Satz 1 Nummer 4 sind Leistungserbringerinstitutionen, mi
 
 
 
-(2) Zur Unterstützung der Krankenkassen bei der Erfüllung ihrer Informationspflichten nach Absatz 1 hat der Spitzenverband Bund der Krankenkassen im Benehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit spätestens bis zum 30. November 2020 geeignetes Informationsmaterial, auch in elektronischer Form, zu erstellen und den Krankenkassen zur verbindlichen Nutzung zur Verfügung zu stellen.
+(2) (weggefallen)
 
 (3) Zur Unterstützung der Krankenkassen bei der Erfüllung ihrer Informationspflichten nach Absatz 1a hat der Spitzenverband Bund der Krankenkassen im Benehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit spätestens acht Monate vor dem in § 342 Absatz 1 Satz 2 genannten Datum geeignetes Informationsmaterial, auch in elektronischer Form, zu erstellen und den Krankenkassen zur verbindlichen Nutzung zur Verfügung zu stellen.
 
@@ -15565,15 +15502,21 @@ Berechtigt im Sinne von Satz 1 Nummer 4 sind Leistungserbringerinstitutionen, mi
 (5) Zur Unterstützung der Krankenkassen bei der Erfüllung ihrer Informationspflichten nach Absatz 4 hat der Spitzenverband Bund der Krankenkassen im Benehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit spätestens drei Monate vor dem gemäß der Rechtsverordnung nach § 342 Absatz 2b und 2c jeweils hierzu festgelegten Datum geeignetes Informationsmaterial, auch in elektronischer Form, zu erstellen und den Krankenkassen zur verbindlichen Nutzung zur Verfügung zu stellen.
 
 
-###### § 344 Einwilligung der Versicherten und Zulässigkeit der Datenverarbeitung durch die Krankenkassen und Anbieter der elektronischen Patientenakte
+###### § 344 Widerspruch der Versicherten und Zulässigkeit der Datenverarbeitung durch die Krankenkassen und die Anbieter der elektronischen Patientenakte
 
-(1) Hat der Versicherte nach vorheriger Information gemäß § 343 gegenüber der Krankenkasse in die Einrichtung der elektronischen Patientenakte eingewilligt, so dürfen die Krankenkasse, der Anbieter der elektronischen Patientenakte sowie der Anbieter von einzelnen Diensten und Komponenten der elektronischen Patientenakte die zum Zweck der Einrichtung erforderlichen administrativen personenbezogenen Daten verarbeiten. Die Krankenkasse darf versichertenbezogene Daten über den Anbieter der elektronischen Patientenakte in die elektronische Patientenakte übermitteln.
+(1) Hat der Versicherte nach vorheriger Information gemäß § 343 der Einrichtung einer elektronischen Patientenakte gegenüber der Krankenkasse nicht innerhalb einer Frist von sechs Wochen widersprochen, stellt die Krankenkasse dem Versicherten eine elektronische Patientenakte bereit. Die Krankenkasse, der Anbieter der elektronischen Patientenakte sowie die Anbieter von einzelnen Diensten und Komponenten der elektronischen Patientenakte dürfen die zum Zweck der Einrichtung erforderlichen administrativen personenbezogenen Daten verarbeiten. Die Krankenkasse darf versichertenbezogene Daten über den Anbieter der elektronischen Patientenakte in die elektronische Patientenakte übermitteln.
 
-(2) Macht der Versicherte nach vorheriger Information gemäß § 343 von seinen Ansprüchen gemäß den §§ 347 bis 351 Gebrauch, dürfen auf Grund der Einwilligung des Versicherten die Krankenkassen, der Anbieter der elektronischen Patientenakte und die Anbieter von einzelnen Diensten und Komponenten der elektronischen Patientenakte die zu diesem Zweck übermittelten personenbezogenen Daten speichern. Die Kenntnisnahme der Daten und der Zugriff auf die Daten nach den §§ 347 bis 351 ist nicht zulässig.
+(2) Macht der Versicherte nach vorheriger Information gemäß § 343 von seinen in § 343 Absatz 1a Nummer 14 genannten Rechten und Ansprüchen Gebrauch, dürfen auf Grund der Einwilligung des Versicherten die Krankenkassen, der Anbieter der elektronischen Patientenakte und die Anbieter von einzelnen Diensten und Komponenten der elektronischen Patientenakte die zu diesem Zweck übermittelten personenbezogenen Daten speichern. Die Kenntnisnahme der Daten und der Zugriff auf die Daten nach den §§ 347 bis 351 ist nicht zulässig.
 
-(3) Auf Verlangen des Versicherten gegenüber der Krankenkasse hat der Anbieter auf Veranlassung der Krankenkasse die elektronische Patientenakte vollständig zu löschen.
+(2a) Macht der Versicherte nach vorheriger Information gemäß § 343 von seinen in § 343 Absatz 1a Nummer 13 und in § 350 genannten Rechten zum Widerspruch gegen die Übermittlung und Speicherung von Daten in die elektronische Patientenakte keinen Gebrauch, dürfen die Krankenkassen, der Anbieter der elektronischen Patientenakte und die Anbieter von einzelnen Diensten und Komponenten der elektronischen Patientenakte die übermittelten personenbezogenen Daten speichern. Eine Kenntnisnahme der Daten und ein Zugriff auf die Daten nach den §§ 347 bis 351 durch die Krankenkassen, den Anbieter der elektronischen Patientenakte oder die Anbieter von einzelnen Diensten und Komponenten der elektronischen Patientenakte ist nicht zulässig.
+
+(3) Die Versicherten können einer bereitgestellten elektronischen Patientenakte gemäß Absatz 1 auch jederzeit nach Einrichtung widersprechen. Der Widerspruch kann gegenüber der Krankenkasse erklärt werden oder über eine Benutzeroberfläche eines geeigneten Endgeräts erfolgen. Die Krankenkasse hat den Versicherten umfassend darüber zu informieren, dass nach einem erfolgten Widerspruch die elektronische Patientenakte einschließlich aller darin gespeicherten Daten gelöscht wird und diese Daten auch bei einer erneuten Einrichtung auf Verlangen nach Absatz 5 nicht wiederhergestellt werden können. Macht der Versicherte von seinem Widerspruch gegen die bereitgestellte elektronische Patientenakte Gebrauch, hat der Anbieter auf Veranlassung der Krankenkasse die elektronische Patientenakte unverzüglich und vollständig zu löschen.
 
 (4) Sofern es für die Durchsetzung von datenschutzrechtlichen Ansprüchen der Versicherten gegenüber den für die Verarbeitung von Daten in der elektronischen Patientenakte Verantwortlichen notwendig ist, sind die in § 352 genannten Leistungserbringer verpflichtet, die Verantwortlichen bei der Umsetzung zu unterstützen.
+
+(5) Versicherte, die der Einrichtung einer elektronischen Patientenakte widersprochen haben, können nach dem Widerspruch jederzeit die Einrichtung der elektronischen Patientenakte gegenüber der Krankenkasse verlangen. Satz 1 gilt auch bei einem Wechsel der Krankenkasse.
+
+(6) Die Krankenkasse hat zwölf Monate nach Kenntnis des Todes eines Versicherten dessen elektronische Patientenakte zu löschen, es sei denn, es werden entgegenstehende berechtigte Interessen Dritter geltend gemacht und nachgewiesen.
 
 
 ###### § 345 Angebot und Nutzung zusätzlicher Inhalte und Anwendungen
@@ -15589,97 +15532,122 @@ Berechtigt im Sinne von Satz 1 Nummer 4 sind Leistungserbringerinstitutionen, mi
 
 ###### § 346 Unterstützung bei der elektronischen Patientenakte
 
-(1) Ärzte, Zahnärzte und Psychotherapeuten, die an der vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an der vertragsärztlichen Versorgung teilnehmen oder in zugelassen Krankenhäusern tätig sind, haben auf der Grundlage der Informationspflichten der Krankenkassen nach § 343 die Versicherten auf deren Verlangen bei der Verarbeitung medizinischer Daten in der elektronischen Patientenakte ausschließlich im aktuellen Behandlungskontext zu unterstützen. Die Unterstützungsleistung nach Satz 1 umfasst die Übermittlung von medizinischen Daten in die elektronische Patientenakte und ist ausschließlich auf medizinische Daten aus der konkreten aktuellen Behandlung beschränkt. § 630c Absatz 4 des Bürgerlichen Gesetzbuchs bleibt unberührt. Die in Satz 1 genannten Ärzte, Zahnärzte, Psychotherapeuten, Einrichtungen und zugelassenen Krankenhäuser können Aufgaben in diesem Zusammenhang, soweit diese übertragbar sind, auf Personen übertragen, die als berufsmäßige Gehilfen oder zur Vorbereitung auf den Beruf bei ihnen tätig sind.
+(1) Ärzte, Zahnärzte und Psychotherapeuten, die an der vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an der vertragsärztlichen Versorgung teilnehmen oder in zugelassen Krankenhäusern tätig sind, haben auf der Grundlage der Informationspflichten der Krankenkassen nach § 343 die Versicherten nach Maßgabe der §§ 347 bis 349 bei der Verarbeitung medizinischer Daten in der elektronischen Patientenakte ausschließlich im aktuellen Behandlungskontext zu unterstützen. Die Unterstützungsleistung nach Satz 1 umfasst die Übermittlung von medizinischen Daten in die elektronische Patientenakte und ist ausschließlich auf medizinische Daten aus der konkreten aktuellen Behandlung beschränkt. § 630c Absatz 4 des Bürgerlichen Gesetzbuchs bleibt unberührt. Die in Satz 1 genannten Ärzte, Zahnärzte, Psychotherapeuten, Einrichtungen und zugelassenen Krankenhäuser können Aufgaben in diesem Zusammenhang, soweit diese übertragbar sind, auf Personen übertragen, die als berufsmäßige Gehilfen oder zur Vorbereitung auf den Beruf bei ihnen tätig sind.
 
-(2) Auf Verlangen der Versicherten haben Apotheker bei der Abgabe eines Arzneimittels die Versicherten bei der Verarbeitung arzneimittelbezogener Daten in der elektronischen Patientenakte zu unterstützen. Apotheker können Aufgaben in diesem Zusammenhang auf zum pharmazeutischen Personal der Apotheke gehörende Personen übertragen.
+(2) Apotheker haben bei der Abgabe eines Arzneimittels die Versicherten bei der Verarbeitung arzneimittelbezogener Daten in der elektronischen Patientenakte zu unterstützen und nach Maßgabe des § 339 Absatz 1 Daten des Versicherten nach § 341 Absatz 2 Nummer 1 Buchstabe b und Nummer 11 in der elektronischen Patientenakte zu speichern, soweit diese nicht gemäß § 360 Absatz 14 in der elektronischen Patientenakte gespeichert sind und soweit die Versicherten dem Zugriff der Apotheker auf die elektronische Patientenakte und der Übermittlung und Speicherung dieser Daten in die elektronische Patientenakte nicht gemäß § 353 Absatz 1 oder 2 widersprochen haben. Apotheker können Aufgaben in diesem Zusammenhang auf zum pharmazeutischen Personal der Apotheke gehörende Personen übertragen.
 
-(3) Ärzte, Zahnärzte und Psychotherapeuten, die an der vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an der vertragsärztlichen Versorgung teilnehmen oder in zugelassen Krankenhäusern tätig sind, haben auf der Grundlage der Informationspflichten der Krankenkassen nach § 343 die Versicherten auf deren Verlangen bei der erstmaligen Befüllung der elektronischen Patientenakte ausschließlich im aktuellen Behandlungskontext zu unterstützen. Die Unterstützungsleistung nach Satz 1 umfasst die Übermittlung von medizinischen Daten in die elektronische Patientenakte und ist ausschließlich auf medizinische Daten aus der konkreten aktuellen Behandlung beschränkt. Die in Satz 1 genannten Leistungserbringer können Aufgaben in diesem Zusammenhang, soweit diese übertragbar sind, auf Personen übertragen, die als berufsmäßige Gehilfen oder zur Vorbereitung auf den Beruf bei ihnen oder in an der vertragsärztlichen Versorgung teilnehmenden Einrichtungen oder in zugelassenen Krankenhäusern tätig sind.
+(3) Ärzte, Zahnärzte und Psychotherapeuten, die an der vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an der vertragsärztlichen Versorgung teilnehmen oder in zugelassen Krankenhäusern tätig sind, haben auf der Grundlage der Informationspflichten der Krankenkassen nach § 343 die Versicherten nach Maßgabe der §§ 347 bis 349 bei der erstmaligen Befüllung der elektronischen Patientenakte ausschließlich im aktuellen Behandlungskontext zu unterstützen. Die Unterstützungsleistung nach Satz 1 umfasst die Übermittlung von medizinischen Daten in die elektronische Patientenakte und ist ausschließlich auf medizinische Daten aus der konkreten aktuellen Behandlung beschränkt. Die in Satz 1 genannten Leistungserbringer können Aufgaben in diesem Zusammenhang, soweit diese übertragbar sind, auf Personen übertragen, die als berufsmäßige Gehilfen oder zur Vorbereitung auf den Beruf bei ihnen oder in an der vertragsärztlichen Versorgung teilnehmenden Einrichtungen oder in zugelassenen Krankenhäusern tätig sind.
 
 (4) Für Leistungen nach Absatz 2 zur Unterstützung der Versicherten bei der Verarbeitung arzneimittelbezogener Daten in der elektronischen Patientenakte erhalten Apotheken eine zusätzliche Vergütung. Das Nähere zu den Abrechnungsvoraussetzungen für Leistungen der Apotheken nach Absatz 2 vereinbaren der Spitzenverband Bund der Krankenkassen und die für die Wahrnehmung der wirtschaftlichen Interessen gebildete maßgebliche Spitzenorganisation der Apotheker auf Bundesebene mit Wirkung zum 1. Januar 2021. Kommt eine Vereinbarung nach Satz 2 ganz oder teilweise nicht zustande, gilt § 129 Absatz 8.
 
-(5) Für Leistungen nach Absatz 3 erhalten die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer sowie Krankenhäuser ab dem 1. Januar 2021 über einen Zeitraum von zwölf Monaten eine einmalige Vergütung je Erstbefüllung in Höhe von 10 Euro.
-
-(6) Die Leistungen nach Absatz 3 dürfen im Rahmen der gesetzlichen Krankenversicherung je Versichertem und elektronischer Patientenakte insgesamt nur einmal erbracht und abgerechnet werden. Das Nähere zu den Abrechnungsvoraussetzungen und -verfahren für Leistungen nach Absatz 3 vereinbaren der Spitzenverband Bund der Krankenkassen, die Kassenärztlichen Bundesvereinigungen sowie die Deutsche Krankenhausgesellschaft mit Wirkung zum 1. Januar 2021. Die Vereinbarung stellt sicher, dass nur eine einmalige Abrechnung der Vergütung für die Leistungen nach Absatz 3 möglich ist.
+(5) Die Leistungen nach Absatz 3 dürfen im Rahmen der gesetzlichen Krankenversicherung je Versichertem und elektronischer Patientenakte insgesamt nur einmal erbracht und nur einmal von Ärzten, die an der vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an der vertragsärztlichen Versorgung teilnehmen oder in zugelassen Krankenhäusern tätig sind und im Schwerpunkt die aktuelle ärztliche Behandlung des Versicherten übernehmen, abgerechnet werden. Das Nähere zu den Abrechnungsvoraussetzungen und -verfahren für Leistungen nach Absatz 3 vereinbaren der Spitzenverband Bund der Krankenkassen, die Kassenärztlichen Bundesvereinigungen sowie die Deutsche Krankenhausgesellschaft mit Wirkung zum Zeitpunkt der Zurverfügungstellung der elektronischen Patientenakte nach § 342 Absatz 1 Satz 2. Die Vereinbarung stellt sicher, dass nur eine einmalige Abrechnung der Vergütung für die Leistungen nach Absatz 3 möglich ist.
 
 
-###### § 347 Anspruch der Versicherten auf Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Leistungserbringer
+###### § 347 Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Leistungserbringer
 
-(1) Versicherte haben Anspruch auf Übermittlung von Daten nach § 341 Absatz 2 Nummer 1 bis 5 und 10 bis 13 in die elektronische Patientenakte und dortige Speicherung, soweit diese Daten im Rahmen der vertragsärztlichen Versorgung bei der Behandlung des Versicherten durch die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer elektronisch verarbeitet werden und soweit andere Rechtsvorschriften nicht entgegenstehen. Die in § 342 Absatz 1 und 2 geregelten Fristen bleiben unberührt.
+(1) Die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer haben nach Maßgabe der §§ 346 und 339 Absatz 1 Daten des Versicherten, die gemäß § 342 Absatz 2a, 2b und 2c als Anwendungsfälle in der elektronischen Patientenakte verarbeitet werden können, in die elektronische Patientenakte zu übermitteln und dort zu speichern. Die Verpflichtung nach Satz 1 gilt, soweit
 
-(2) Die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer haben
-
-1.  die Versicherten im Rahmen der vertragsärztlichen Versorgung über den Anspruch nach Absatz 1 zu informieren und
+1.  diese Daten im Rahmen der vertragsärztlichen Versorgung bei der konkreten aktuellen Behandlung des Versicherten von den an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringern erhoben und in semantisch und syntaktisch interoperabler Form verarbeitet werden und
 
 
-2.  die Daten nach Absatz 1 auf Verlangen des Versicherten in die elektronische Patientenakte nach § 341 zu übermitteln und dort zu speichern.
+2.  der Versicherte weder dem Zugriff der Leistungserbringer nach Satz 1 auf die Daten in der elektronischen Patientenakte insgesamt noch dem Anwendungsfall gemäß § 353 Absatz 1 oder 2 widersprochen hat.
 
 
 
+Abweichend von Satz 1 ist die Übermittlung und Speicherung von Ergebnissen genetischer Untersuchungen oder Analysen im Sinne des Gendiagnostikgesetzes in die elektronische Patientenakte nur durch die verantwortliche ärztliche Person und mit ausdrücklicher und schriftlich oder in elektronischer Form vorliegender Einwilligung des Versicherten zulässig. Die nach Satz 1 verpflichteten Leistungserbringer haben die Versicherten vor der Übermittlung und Speicherung von Daten des Versicherten, deren Bekanntwerden Anlass zu Diskriminierung oder Stigmatisierung des Versicherten geben kann, insbesondere zu sexuell übertragbaren Infektionen, psychischen Erkrankungen und Schwangerschaftsabbrüchen, in die elektronische Patientenakte auf das Recht zum Widerspruch gegen die Übermittlung und Speicherung der Daten in die elektronische Patientenakte hinzuweisen. Einen daraufhin erklärten Widerspruch des Versicherten haben die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer nachprüfbar in ihrer Behandlungsdokumentation zu protokollieren. Die in § 342 geregelten Fristen bleiben unberührt.
+
+(2) Ferner haben die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer folgende Daten in die elektronische Patientenakte zu übermitteln und dort zu speichern:
+
+1.  Daten zu Laborbefunden,
 
 
-###### § 348 Anspruch der Versicherten auf Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Krankenhäuser
-
-(1) Versicherte haben Anspruch auf Übermittlung von Daten nach § 341 Absatz 2 Nummer 1 bis 5, 10, 11 und 13 in die elektronische Patientenakte und dortige Speicherung, soweit diese Daten im Rahmen der Krankenhausbehandlung des Versicherten elektronisch erhoben wurden und soweit andere Rechtsvorschriften nicht entgegenstehen. Die in § 342 Absatz 1 und 2 geregelten Fristen bleiben unberührt.
-
-(2) Die Leistungserbringer in den zugelassenen Krankenhäusern haben
-
-1.  die Versicherten über den Anspruch nach Absatz 1 zu informieren und
+2.  Befundberichte aus bildgebender Diagnostik,
 
 
-2.  die Daten nach Absatz 1 auf Verlangen des Versicherten in die elektronische Patientenakte nach § 341 zu übermitteln und dort zu speichern.
+3.  Befundberichte aus invasiven oder chirurgischen sowie aus nicht-invasiven oder konservativen Maßnahmen und
 
 
-
-
-
-###### § 349 Anspruch der Versicherten auf Übertragung von Daten aus Anwendungen der Telematikinfrastruktur nach § 334 und von elektronischen Arztbriefen in die elektronische Patientenakte
-
-(1) Über die in den §§ 347 und 348 geregelten Ansprüche hinaus haben Versicherte einen Anspruch auf Übermittlung von Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 2 bis 6 und von elektronischen Arztbriefen nach § 383 Absatz 2 in die elektronische Patientenakte und dortige Speicherung gegen Personen, die
-
-1.  nach § 352 zum Zugriff auf die elektronische Patientenakte berechtigt sind und
-
-
-2.  Daten des Versicherten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 2 bis 6 und § 383 verarbeiten.
+4.  elektronische Arztbriefe gemäß § 341 Absatz 2 Nummer 1 Buchstabe d.
 
 
 
-Die in § 342 Absatz 1 und 2 geregelten Fristen bleiben unberührt.
+Die Verpflichtung nach Satz 1 gilt, soweit die Daten im Rahmen der konkreten aktuellen Behandlung durch die Leistungserbringer erhoben und elektronisch verarbeitet wurden und nicht bereits nach Absatz 1 in die elektronische Patientenakte zu übermitteln und dort zu speichern sind. Darüber hinaus können die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer Daten nach Satz 1 Nummer 1 bis 4 aus vorangegangenen Behandlungen in die elektronische Patientenakte übermitteln und dort speichern, soweit diese durch den Leistungserbringer erhoben und elektronisch verarbeitet wurden und das aus Sicht des Leistungserbringers für die Versorgung des Versicherten erforderlich ist.
 
-(2) Nach Absatz 1 verpflichtete Personen haben
+(3) Eine Übermittlung und Speicherung der Daten nach Absatz 2 ist nur zulässig, soweit der Versicherte dem Zugriff der Leistungserbringer nach Absatz 1 Satz 1 auf die Daten in der elektronischen Patientenakte insgesamt gemäß § 353 Absatz 2 nicht widersprochen hat. Die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer haben die Versicherten in der Behandlung darüber zu informieren, welche Daten nach Absatz 2 in die elektronische Patientenakte übermittelt und dort gespeichert werden. Erklärt der Versicherte daraufhin seinen Widerspruch, hat der Leistungserbringer diesen nachprüfbar in seiner Behandlungsdokumentation zu protokollieren. Die Übermittlung und Speicherung nach Absatz 2 ist nur zulässig, soweit andere Rechtsvorschriften der Übermittlung und Speicherung nicht entgegenstehen. Absatz 1 Satz 3 bis 5 gilt entsprechend. Darüber hinaus haben Leistungserbringer die Versicherten vor der Übermittlung und Speicherung von Daten des Versicherten in die elektronische Patientenakte, deren Bekanntwerden Anlass zu Diskriminierung oder Stigmatisierung des Versicherten geben kann, insbesondere zu sexuell übertragbaren Infektionen, psychischen Erkrankungen und Schwangerschaftsabbrüchen, auf die Möglichkeit, die Verarbeitung dieser Daten zu beschränken, hinzuweisen. Absatz 1 Satz 6 gilt entsprechend.
 
-1.  die Versicherten über den Anspruch nach Absatz 1 zu informieren und
+(4) Über die Verpflichtung nach Absatz 1 Satz 1 und Absatz 2 Satz 1 hinaus haben die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer auf Verlangen der Versicherten Daten der Versicherten nach § 341 Absatz 2 Nummer 1 bis 5, 10 bis 14 und 16 in die elektronische Patientenakte zu übermitteln und dort zu speichern, soweit diese Daten in der konkreten aktuellen Behandlung durch die Leistungserbringer erhoben und elektronisch verarbeitet werden. Eine Übermittlung und Speicherung der Daten nach Satz 1 ist nur zulässig, soweit der Versicherte abweichend von § 339 Absatz 1 in die Übermittlung und Speicherung dieser Daten eingewilligt hat. Die Leistungserbringer haben nachprüfbar in ihrer Behandlungsdokumentation zu protokollieren, dass der Versicherte seine Einwilligung erteilt hat. Die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer haben die Versicherten über den Anspruch nach Satz 1 zu informieren. Die Verpflichtung nach Satz 1 gilt, soweit andere Rechtsvorschriften der Übermittlung und Speicherung nicht entgegenstehen.
 
-
-2.  die verarbeiteten Daten nach Absatz 1 auf Verlangen des Versicherten in die elektronische Patientenakte nach § 341 zu übermitteln und dort zu speichern.
-
+(5) Auf Verlangen des Versicherten haben die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer elektronische Abschriften der Patientenakte nach § 630g Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs in die elektronische Patientenakte zu übermitteln und dort gemäß § 341 Absatz 2 Nummer 15 zu speichern. Absatz 4 Satz 2, 3 und 5 gilt entsprechend.
 
 
+###### § 348 Übertragung von Behandlungsdaten in die elektronische Patientenakte durch zugelassene Krankenhäuser
 
-(3) Ändern sich Daten nach § 334 Absatz 1 Satz 2 Nummer 4, 5 und 7 und werden diese Daten in der elektronischen Patientenakte verfügbar gemacht, haben Versicherte einen Anspruch auf Speicherung der geänderten Daten in der elektronischen Patientenakte. Der Anspruch richtet sich gegen den Leistungserbringer, der die Änderung der Daten nach § 334 Absatz 1 Satz 2 Nummer 4, 5 oder 7 vorgenommen hat.
+(1) Die Leistungserbringer in zugelassenen Krankenhäusern haben nach Maßgabe der §§ 346 und 339 Absatz 1 Daten des Versicherten, die gemäß § 342 Absatz 2a, 2b und 2c als Anwendungsfälle in der elektronischen Patientenakte verarbeitet werden können, in die elektronische Patientenakte zu übermitteln und dort zu speichern.
 
-(4) Nach Absatz 3 verpflichtete Leistungserbringer haben
+(2) Die Verpflichtung nach Absatz 1 gilt, soweit
 
-1.  die Versicherten über den Anspruch nach Absatz 3 zu informieren und
-
-
-2.  die geänderten Daten auf Verlangen des Versicherten in die elektronische Patientenakte nach § 341 Absatz 2 Nummer 1 Buchstabe b und c einzustellen.
+1.  diese Daten im Rahmen der Krankenhausbehandlung bei der konkreten aktuellen Behandlung des Versicherten von den Leistungserbringern in zugelassenen Krankenhäusern erhoben und in semantisch und syntaktisch interoperabler Form verarbeitet werden und
 
 
+2.  der Versicherte weder dem Zugriff der Leistungserbringer nach Absatz 1 auf die Daten in der elektronischen Patientenakte insgesamt noch dem Anwendungsfall gemäß § 353 Absatz 1 oder 2 widersprochen hat.
 
+
+
+§ 347 Absatz 1 Satz 3 bis 6 gilt entsprechend.
+
+(3) Über die Verpflichtung nach Absatz 1 Satz 1 hinaus haben die Leistungserbringer in zugelassenen Krankenhäusern Daten nach § 347 Absatz 2 Satz 1 Nummer 1 bis 3 und Entlassbriefe in die elektronische Patientenakte zu übermitteln und dort zu speichern, soweit diese Daten
+
+1.  im Rahmen der Krankenhausbehandlung des Versicherten durch die Leistungserbringer in zugelassenen Krankenhäusern erhoben und elektronisch verarbeitet werden und
+
+
+2.  nicht bereits nach Absatz 1 in die elektronische Patientenakte zu übermitteln und dort zu speichern sind.
+
+
+
+Darüber hinaus können die Leistungserbringer in zugelassenen Krankenhäusern Daten nach Satz 1 aus vorangegangenen Behandlungen in die elektronische Patientenakte übermitteln und dort speichern, soweit diese durch den Leistungserbringer erhoben und elektronisch verarbeitet wurden und das aus Sicht des Leistungserbringers für die Versorgung des Versicherten erforderlich ist. Eine Übermittlung und Speicherung der Daten nach den Sätzen 1 und 2 ist nur zulässig, soweit der Versicherte dem Zugriff der Leistungserbringer nach Satz 1 auf die Daten in der elektronischen Patientenakte insgesamt gemäß § 353 Absatz 2 nicht widersprochen hat. Die Leistungserbringer in zugelassenen Krankenhäusern haben die Versicherten in der Behandlung darüber zu informieren, welche Daten in die elektronische Patientenakte übermittelt und dort gespeichert werden sollten. Erklärt der Versicherte daraufhin seinen Widerspruch, hat der Leistungserbringer diesen nachprüfbar in seiner Behandlungsdokumentation zu protokollieren. Die Übermittlung und Speicherung der Daten nach den Sätzen 1 und 2 ist nur zulässig, soweit andere Rechtsvorschriften der Übermittlung und Speicherung nicht entgegenstehen. § 347 Absatz 1 Satz 3 bis 5 gilt entsprechend. Darüber hinaus haben Leistungserbringer die Versicherten vor der Übermittlung und Speicherung von Daten des Versicherten in die elektronische Patientenakte, deren Bekanntwerden Anlass zu Diskriminierung oder Stigmatisierung des Versicherten geben kann, insbesondere zu sexuell übertragbaren Infektionen, psychischen Erkrankungen und Schwangerschaftsabbrüchen, auf die Möglichkeit, die Verarbeitung dieser Daten zu beschränken, hinzuweisen. § 347 Absatz 1 Satz 6 gilt entsprechend.
+
+(4) Über die Verpflichtung nach den Absätzen 1 und 2 hinaus haben die Leistungserbringer in zugelassenen Krankenhäusern auf Verlangen der Versicherten Daten der Versicherten nach § 341 Absatz 2 Nummer 1 bis 5, 10 bis 14 und 16 in die elektronische Patientenakte zu übermitteln und dort zu speichern, soweit diese Daten im Rahmen der Krankenhausbehandlung des Versicherten durch die Leistungserbringer in zugelassenen Krankenhäusern erhoben und elektronisch verarbeitet werden. Eine Übermittlung und Speicherung der Daten nach Satz 1 ist nur zulässig, soweit der Versicherte abweichend von § 339 Absatz 1 in die Übermittlung und Speicherung dieser Daten eingewilligt hat. Die Leistungserbringer in zugelassenen Krankenhäusern haben nachprüfbar in ihrer Behandlungsdokumentation zu protokollieren, dass der Versicherte seine Einwilligung erteilt hat. Die Leistungserbringer in zugelassenen Krankenhäusern haben die Versicherten über den Anspruch nach Satz 1 zu informieren. Die Verpflichtung nach Satz 1 gilt, soweit andere Rechtsvorschriften der Übermittlung und Speicherung nicht entgegenstehen.
+
+(5) Auf Verlangen des Versicherten haben die Leistungserbringer in zugelassenen Krankenhäusern elektronische Abschriften der Patientenakte nach § 630g Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs in die elektronische Patientenakte zu übermitteln und dort gemäß § 341 Absatz 2 Nummer 15 zu speichern.
+
+
+###### § 349 Übertragung von Daten in die elektronische Patientenakte durch weitere Zugriffsberechtigte; Anspruch der Versicherten auf Übertragung des elektronischen Medikationsplans und der elektronischen Notfalldaten in die elektronische Patientenakte
+
+(1) Über die in § 346 Absatz 2, in den §§ 347 und 348 genannten Leistungserbringer hinaus können weitere Zugriffsberechtigte nach Maßgabe der Absätze 2 bis 4 und § 352 Daten des Versicherten in die elektronische Patientenakte übermitteln und dort speichern, soweit sie an die Telematikinfrastruktur angeschlossen sind.
+
+(2) Zugriffsberechtigte nach § 352 Satz 1 Nummer 1 bis 15 und 19, auch in Verbindung mit Satz 2, können Daten der Anwendungsfälle gemäß § 342 Absatz 2a, 2b und 2c, Daten nach § 347 Absatz 2 Satz 1 Nummer 1 bis 4 sowie Daten nach § 341 Absatz 2 Nummer 1 Buchstabe b und c und Nummer 10 und 11 in die elektronische Patientenakte übermitteln und dort speichern, soweit diese Daten im Rahmen der konkreten aktuellen Behandlung des Versicherten durch die Zugriffsberechtigten erhoben und elektronisch verarbeitet werden. Darüber hinaus können die Zugriffsberechtigten die Daten nach Satz 1 aus vorangegangenen Behandlungen in die elektronische Patientenakte übermitteln und dort speichern, soweit diese durch den Zugriffsberechtigten erhoben und elektronisch verarbeitet wurden und das aus Sicht des Zugriffsberechtigten für die Versorgung des Versicherten erforderlich ist. Eine Übermittlung und Speicherung der Daten nach den Sätzen 1 und 2 ist nur zulässig, soweit der Versicherte dem Zugriff der Leistungserbringer nach Satz 1 auf die Daten in der elektronischen Patientenakte insgesamt gemäß § 353 Absatz 2 nicht widersprochen hat. Die Zugriffsberechtigten haben die Versicherten darüber zu informieren, welche Daten in die elektronische Patientenakte übermittelt und dort gespeichert werden sollten. Erklärt der Versicherte daraufhin seinen Widerspruch, so hat der Zugriffsberechtigte nach Satz 1 diesen nachprüfbar in seiner Behandlungsdokumentation zu protokollieren. Die Übermittlung und Speicherung der Daten nach den Sätzen 1 und 2 ist nur zulässig, soweit andere Rechtsvorschriften der Übermittlung und Speicherung nicht entgegenstehen. § 347 Absatz 1 Satz 3 bis 6 gilt entsprechend.
+
+(3) Zugriffsberechtigte nach § 352 Satz 1 Nummer 1 bis 15 und 19, auch in Verbindung mit Satz 2, haben auf Verlangen der Versicherten Daten der Versicherten nach § 341 Absatz 2 Nummer 1 bis 5, 10 bis 14 und 16 in die elektronische Patientenakte zu übermitteln und dort zu speichern, soweit diese Daten im Rahmen der konkreten aktuellen Behandlung des Versicherten durch diese Zugriffsberechtigten erhoben und elektronisch verarbeitet werden. Eine Übermittlung und Speicherung der Daten nach Satz 1 ist nur zulässig, soweit der Versicherte abweichend von § 339 Absatz 1 in die Übermittlung und Speicherung dieser Daten eingewilligt hat. Die Zugriffsberechtigten haben nachprüfbar in ihrer Behandlungsdokumentation zu protokollieren, dass der Versicherte seine Einwilligung erteilt hat. Die Zugriffsberechtigten haben die Versicherten über den Anspruch nach Satz 1 zu informieren. Die Verpflichtung nach Satz 1 gilt, soweit andere Rechtsvorschriften der Übermittlung und Speicherung nicht entgegenstehen.
+
+(4) Zugriffsberechtigte nach § 352 Satz 1 Nummer 16 bis 18, auch in Verbindung mit Satz 2, haben auf Verlangen der Versicherten Daten der Anwendungsfälle gemäß § 342 Absatz 2a, 2b und 2c sowie Daten der Versicherten nach § 341 Absatz 2 Nummer 1 bis 5, 10 bis 14 und 16 in die elektronische Patientenakte zu übermitteln und dort zu speichern, soweit diese Daten im Rahmen der konkreten aktuellen Behandlung des Versicherten durch diese Zugriffsberechtigten erhoben und elektronisch verarbeitet werden. Eine Übermittlung und Speicherung der Daten nach Satz 1 ist nur zulässig, soweit der Versicherte nach Maßgabe des § 339 Absatz 1a in den Zugriff eingewilligt hat. Die Zugriffsberechtigten haben die Versicherten über den Anspruch nach Satz 1 zu informieren. Die Verpflichtung nach Satz 1 gilt, soweit andere Rechtsvorschriften der Übermittlung und Speicherung nicht entgegenstehen.
+
+(5) Ändern sich Daten in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 4 und 5 und werden diese Daten in der elektronischen Patientenakte verfügbar gemacht, haben Versicherte einen Anspruch auf Speicherung der geänderten Daten in der elektronischen Patientenakte. Der Anspruch richtet sich gegen den Leistungserbringer, der die Änderung der Daten in der Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4 oder 5 vorgenommen hat.
+
+(6) Nach Absatz 5 verpflichtete Leistungserbringer haben
+
+1.  die Versicherten über den Anspruch nach Absatz 5 zu informieren und
+
+
+2.  die geänderten Daten auf Verlangen des Versicherten in die elektronische Patientenakte nach § 341 Absatz 2 Nummer 1 Buchstabe b und c zu übermitteln und dort zu speichern.
+
+
+
+
+(7) Sobald der elektronische Medikationsplan nicht mehr auf der elektronischen Gesundheitskarte, sondern nach § 358 Absatz 8 in der elektronischen Patientenakte nach § 341 Absatz 2 Nummer 1 Buchstabe b gespeichert wird, gilt der Anspruch des Versicherten nach Absatz 5 nur noch für Daten in der Anwendung nach § 334 Absatz 1 Satz 2 Nummer 5.
 
 
 ###### § 350 Übertragung von bei der Krankenkasse gespeicherten Daten in die elektronische Patientenakte
 
-(1) Versicherte haben ab dem 1. Januar 2022 einen Anspruch darauf, dass die Krankenkasse Daten des Versicherten nach § 341 Absatz 2 Nummer 8 über die bei ihr in Anspruch genommenen Leistungen über den Anbieter der elektronischen Patientenakte in die elektronische Patientenakte nach § 341 übermittelt und dort speichert.
+(1) Hat der Versicherte nach vorheriger Information gemäß § 343 der Übermittlung und Speicherung seiner Daten nach § 341 Absatz 2 Nummer 8 gegenüber der Krankenkasse nicht widersprochen, hat die Krankenkasse Daten über die bei ihr in Anspruch genommenen Leistungen über den Anbieter der elektronischen Patientenakte in die elektronische Patientenakte zu übermitteln und zu speichern. Die Versicherten können der Übermittlung und Speicherung von Daten in der Folge jederzeit widersprechen. Der Widerspruch kann gegenüber der Krankenkasse oder über eine Benutzeroberfläche eines geeigneten Endgeräts erklärt werden.
 
 (2) Das Nähere zu Inhalt und Struktur der relevanten Datensätze haben der Spitzenverband Bund der Krankenkassen und die Kassenärztliche Bundesvereinigung im Benehmen mit der Kassenzahnärztlichen Bundesvereinigung, der Bundesärztekammer, der Bundeszahnärztekammer und der Deutschen Krankenhausgesellschaft bis zum 31. Dezember 2020 zu vereinbaren. Dabei ist sicherzustellen, dass in der elektronischen Patientenakte erkennbar ist, dass es sich um Daten der Krankenkassen handelt.
 
 (3) Die Krankenkasse hat die Versicherten
 
-1.  über den Anspruch nach Absatz 1 umfassend und leicht verständlich zu informieren und
+1.  über die Möglichkeit des Widerspruchs nach Absatz 1 umfassend und leicht verständlich zu informieren und
 
 
-2.  darüber aufzuklären, dass die Übermittlung der Daten über den Anbieter der elektronischen Patientenakte erfolgt und nur auf Antrag der Versicherten gegenüber der Krankenkasse zulässig ist.
+2.  darüber aufzuklären, dass die Übermittlung der Daten über den Anbieter der elektronischen Patientenakte erfolgt.
 
 
 
@@ -15723,7 +15691,7 @@ Die in § 342 Absatz 1 und 2 geregelten Fristen bleiben unberührt.
 
 ###### § 352 Verarbeitung von Daten in der elektronischen Patientenakte durch Leistungserbringer und andere zugriffsberechtigte Personen
 
-Auf die Daten in der elektronischen Patientenakte nach § 341 Absatz 1 Satz 1 dürfen mit Einwilligung der Versicherten nach § 339 ausschließlich folgende Personen zugreifen:
+Auf die Daten in der elektronischen Patientenakte nach § 341 Absatz 1 Satz 1 dürfen, nach Maßgabe des § 339 Absatz 1 und 1a, ausschließlich folgende Personen zugreifen:
 
 1.  Ärzte, die zur Versorgung der Versicherten in deren Behandlung eingebunden sind, mit einem Zugriff, der die Verarbeitung von Daten nach § 341 Absatz 2 ermöglicht, soweit dies für die Versorgung der Versicherten erforderlich ist;
 
@@ -15881,19 +15849,19 @@ Auf die Daten in der elektronischen Patientenakte nach § 341 Absatz 1 Satz 1 d�
 Die Zugriffsrechte nach Satz 1 gelten auch, soweit die jeweiligen Zugriffsberechtigten nach dem Siebten Buch tätig werden.
 
 
-###### § 353 Erteilung der Einwilligung
+###### § 353 Erklärung des Widerspruchs; Erteilung der Einwilligung
 
-(1) Die Versicherten erteilen die nach § 352 erforderliche Einwilligung in den Zugriff auf Daten der elektronischen Patientenakte nach § 341. Hierzu bedarf es einer eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe über die Benutzeroberfläche eines geeigneten Endgeräts.
+(1) Die Versicherten können der Verarbeitung von Daten, die gemäß § 342 Absatz 2a, 2b und 2c als Anwendungsfälle in der elektronischen Patientenakte verarbeitet werden können, insgesamt widersprechen. Der Widerspruch erfolgt über die Benutzeroberfläche eines geeigneten Endgeräts oder durch Erklärung gegenüber der Ombudsstelle nach § 342a. Ferner können Versicherte dem Zugriff auf Daten, die gemäß § 342 Absatz 2a, 2b und 2c als Anwendungsfälle in der elektronischen Patientenakte verarbeitet werden können, durch einzelne Zugriffsberechtigte nach § 352 Satz 1 Nummer 1 bis 15 und 19, auch in Verbindung mit Satz 2, widersprechen. Der Widerspruch kann abweichend von Satz 2 nur über die Benutzeroberfläche eines geeigneten Endgeräts erfolgen. Der Widerspruch gilt bis auf Widerruf.
 
-(2) Abweichend von Absatz 1 können die Versicherten die Einwilligung auch gegenüber einem nach § 352 zugriffsberechtigten Leistungserbringer unter Nutzung der dezentralen Infrastruktur der Leistungserbringer erteilen. Hierzu bedarf es
+(2) Versicherte können dem Zugriff auf Daten der elektronischen Patientenakte insgesamt durch einzelne Zugriffsberechtigte nach § 352 Satz 1 Nummer 1 bis 15 und 19, auch in Verbindung mit Satz 2, widersprechen. Der Widerspruch erfolgt über die Benutzeroberfläche eines geeigneten Endgeräts oder durch Erklärung gegenüber der Ombudsstelle nach § 342a. Der Widerspruch gilt bis auf Widerruf.
 
-1.  einer eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe und
+(3) Soweit die Versicherten nicht nach Absatz 1 oder Absatz 2 widersprochen haben, erteilen sie die nach § 347 Absatz 1 Satz 3, auch in Verbindung mit § 347 Absatz 3 Satz 5, § 348 Absatz 2 Satz 2, Absatz 3 Satz 6 oder § 349 Absatz 2 Satz 6, erforderliche ausdrückliche Einwilligung in die Übermittlung und Speicherung von Ergebnissen genetischer Untersuchungen oder Analysen im Sinne des Gendiagnostikgesetzes in die elektronische Patientenakte gegenüber der verantwortlichen ärztlichen Person schriftlich oder in elektronischer Form.
 
+(4) Die Versicherten erteilen die Einwilligung in den Zugriff auf Daten in der elektronischen Patientenakte durch einzelne Zugriffsberechtigte nach § 352 Satz 1 Nummer 16 bis 18, auch in Verbindung mit Satz 2 über die Benutzeroberfläche eines geeigneten Endgeräts. Eine nach Satz 1 erteilte Einwilligung kann sich entweder auf den Zugriff auf Daten in der elektronischen Patientenakte insgesamt oder lediglich auf Daten, die gemäß § 342 Absatz 2a, 2b und 2c als Anwendungsfälle in der elektronischen Patientenakte verarbeitet werden können, erstrecken.
 
-2.  vor der Einwilligung in einen konkreten Datenzugriff einer Information der Versicherten durch den betreffenden Leistungserbringer über die fehlende Möglichkeit der Beschränkung der Zugriffsrechte nach § 342 Absatz 2 Nummer 2 Buchstabe b und die Bedeutung der Zugriffsberechtigung auf Kategorien von Dokumenten und Datensätzen nach § 342 Absatz 2 Nummer 2 Buchstabe c.
+(5) Abweichend von Absatz 4 können die Versicherten die Einwilligung auch gegenüber einem nach § 352 Satz 1 Nummer 16 bis 18, auch in Verbindung mit Satz 2, Zugriffsberechtigten in der Umgebung des Zugriffsberechtigten erteilen. Die Einwilligung erfolgt in der Umgebung des Zugriffsberechtigten mittels der elektronischen Gesundheitskarte oder der digitalen Identität der Versicherten nach § 291 Absatz 8 Satz 1. Eine nach diesem Absatz erteilte Einwilligung kann sich abweichend von Absatz 4 Satz 2 nur auf den Zugriff auf Daten in der elektronischen Patientenakte insgesamt erstrecken. Hierüber hat der Zugriffsberechtigte den Versicherten zu informieren. Die Einwilligung haben die Zugriffsberechtigten nachprüfbar in ihrer Behandlungsdokumentation zu protokollieren.
 
-
-
+(6) Soweit die Versicherten nicht nach Absatz 2 dem Zugriff auf Daten in der elektronischen Patientenakte insgesamt widersprochen haben, erteilen sie die Einwilligung in die Übermittlung und Speicherung von Daten in die elektronische Patientenakte gemäß § 347 Absatz 4, § 348 Absatz 4 und § 349 Absatz 3 durch Zugriffsberechtigte nach § 352 Satz 1 Nummer 1 bis 15 und 19, auch in Verbindung mit Satz 2, in der Umgebung der Zugriffsberechtigten.
 
 
 ##### Vierter Untertitel - Festlegungen für technische Voraussetzungen und semantische und syntaktische Interoperabilität von Daten
@@ -16050,7 +16018,7 @@ Für die Kassenärztliche Bundesvereinigung entscheidet der Vorstand über die F
 
 ##### § 356 Zugriff auf Hinweise der Versicherten auf das Vorhandensein und den Aufbewahrungsort von Erklärungen zur Organ- und Gewebespende
 
-(1) Auf Daten zu Hinweisen des Versicherten auf das Vorhandensein und den Aufbewahrungsort von Erklärungen zur Organ- und Gewebespende in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 2 und 7 dürfen mit Einwilligung des Versicherten, die abweichend von § 339 Absatz 1 hierzu keiner eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe des Versicherten bedarf, ausschließlich folgende Personen zugreifen:
+(1) Der Zugriff auf Daten zu Hinweisen des Versicherten auf das Vorhandensein und den Aufbewahrungsort von Erklärungen zur Organ- und Gewebespende in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 1 und 2 ist abweichend von § 339 Absatz 1 und 1a ausschließlich für folgende Personen und nur mit Einwilligung des Versicherten, die keiner eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe des Versicherten bedarf, zulässig:
 
 1.  Ärzte, die in die Behandlung des Versicherten eingebunden sind, mit einem Zugriff, der die Verarbeitung von Daten ermöglicht, soweit dies für die Erstellung und Aktualisierung der Hinweise des Versicherten auf das Vorhandensein und den Aufbewahrungsort von Erklärungen zur Organ- und Gewebespende erforderlich ist;
 
@@ -16159,7 +16127,7 @@ Die Zugriffsrechte nach Satz 1 gelten auch, wenn die jeweiligen Zugriffsberechti
 
 (7) Die in der elektronischen Patientenakte nach § 341 Absatz 2 Nummer 1 Buchstabe c gespeicherte elektronische Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 7 muss ab der im Wege der Rechtsverordnung nach § 342 Absatz 2b hierzu festzulegenden Frist den grenzüberschreitenden Austausch von Gesundheitsdaten entsprechend den in § 359 Absatz 4 festgelegten Anforderungen gewährleisten. Die Gesellschaft für Telematik hat hierfür bis zum 1. Januar 2022 die erforderlichen Voraussetzungen zu schaffen.
 
-(8) Der elektronische Medikationsplan wird ab dem 1. Oktober 2024 technisch in eine eigenständige Anwendung innerhalb der Telematikinfrastruktur überführt, die nicht mehr auf der elektronischen Gesundheitskarte gespeichert wird. Ärzte, die an der vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an der vertragsärztlichen Versorgung teilnehmen oder in zugelassenen Krankenhäusern, Vorsorgeeinrichtungen oder Rehabilitationseinrichtungen tätig sind, haben ab diesem Zeitpunkt auf Verlangen des Versicherten und mit dessen Einwilligung die Daten, die im elektronischen Medikationsplan auf der elektronischen Gesundheitskarte gespeichert sind, in der Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4 zu speichern und den auf der elektronischen Gesundheitskarte gespeicherten Medikationsplan zu löschen. Erteilt der Versicherte seine Einwilligung nach den Sätzen 1 und 2 nicht, bleibt der elektronische Medikationsplan mindestens bis zum 1. Januar 2025 und anschließend so lange auf der elektronischen Gesundheitskarte gespeichert, bis diese ihre Gültigkeit verliert. Die Gesellschaft für Telematik hat bis zum 31. Oktober 2021 die nach den Sätzen 1 bis 3 erforderlichen Voraussetzungen zu schaffen.
+(8) Der elektronische Medikationsplan wird ab der Zurverfügungstellung der elektronischen Patientenakte gemäß § 342 Absatz 1 Satz 2 nicht mehr auf der elektronischen Gesundheitskarte, sondern in der elektronischen Patientenakte gespeichert und aktualisiert. Ärzte, die an der vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an der vertragsärztlichen Versorgung teilnehmen oder in zugelassenen Krankenhäusern, Vorsorgeeinrichtungen oder Rehabilitationseinrichtungen tätig sind, haben ab diesem Zeitpunkt die Daten, die im elektronischen Medikationsplan auf der elektronischen Gesundheitskarte gespeichert sind, als Informationsobjekt gemäß § 342 Absatz 2a in der elektronischen Patientenakte nach § 341 Absatz 2 Nummer 1 Buchstabe b zu speichern und den auf der elektronischen Gesundheitskarte gespeicherten Medikationsplan zu löschen, soweit der Versicherte der Speicherung des elektronischen Medikationsplans in der elektronischen Patientenakte nicht widersprochen hat. Daten des elektronischen Medikationsplans sind auf der elektronischen Gesundheitskarte auch bei einem Widerspruch des Versicherten gegen die Speicherung des elektronischen Medikationsplans in der elektronischen Patientenakte durch zugriffsberechtigte Leistungserbringer nach Satz 2 zu löschen.
 
 (9) Mit der Einführung der elektronischen Notfalldaten, der elektronischen Patientenkurzakte und des elektronischen Medikationsplans haben die Krankenkassen den Versicherten geeignetes Informationsmaterial in präziser, transparenter, verständlicher und leicht zugänglicher Form in einer klaren und einfachen Sprache barrierefrei zur Verfügung zu stellen. Dieses muss über alle relevanten Umstände der Datenverarbeitung bei der Erstellung der elektronischen Notfalldaten, der elektronischen Patientenkurzakte und des elektronischen Medikationsplans sowie bei der Speicherung von Daten in den elektronischen Notfalldaten, der elektronischen Patientenkurzakte und dem elektronischen Medikationsplan durch Leistungserbringer informieren. Das Material enthält insbesondere Hinweise über
 
@@ -16254,9 +16222,9 @@ Die Zugriffsrechte nach Satz 1 gelten auch, wenn die jeweiligen Zugriffsberechti
 
 Die Zugriffsrechte nach Satz 1 gelten auch, wenn die jeweiligen Zugriffsberechtigten nach dem Siebten Buch tätig werden.
 
-(2) Der Zugriff auf den elektronischen Medikationsplan nach § 334 Absatz 1 Satz 2 Nummer 4 ist, soweit dieser auf der elektronischen Gesundheitskarte gespeichert ist, mit Einwilligung des Versicherten zulässig. Abweichend von Satz 1 bedarf es hierzu keiner eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe des Versicherten, wenn der Versicherte auf das Erfordernis einer technischen Zugriffsfreigabe verzichtet hat und die Zugriffsberechtigten nachprüfbar in ihrer Behandlungsdokumentation protokollieren, dass der Zugriff mit Einwilligung des Versicherten erfolgt ist.
+(2) Der Zugriff auf den elektronischen Medikationsplan nach § 334 Absatz 1 Satz 2 Nummer 4 ist, soweit dieser auf der elektronischen Gesundheitskarte gespeichert ist, mit Einwilligung des Versicherten zulässig. Abweichend von Satz 1 bedarf es hierzu keiner eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe des Versicherten, wenn der Versicherte auf das Erfordernis einer technischen Zugriffsfreigabe verzichtet hat und die Zugriffsberechtigten nachprüfbar in ihrer Behandlungsdokumentation protokollieren, dass der Zugriff mit Einwilligung des Versicherten erfolgt ist. Sobald der elektronische Medikationsplan nicht mehr auf der elektronischen Gesundheitskarte sondern nach § 358 Absatz 8 als Informationsobjekt nach § 342 Absatz 2a in der elektronischen Patientenakte nach § 341 Absatz 2 Nummer 1 Buchstabe b gespeichert wird, dürfen Zugriffsberechtigte nach § 352 ausschließlich nach Maßgabe des § 339 Absatz 1 und 1a auf Daten des elektronischen Medikationsplans zugreifen.
 
-(3) Der Zugriff auf die elektronischen Notfalldaten und auf die Daten der elektronischen Patientenkurzakte nach § 334 Absatz 1 Satz 2 Nummer 5 und 7 ist abweichend von § 339 Absatz 1 zulässig
+(3) Der Zugriff auf die elektronischen Notfalldaten nach § 334 Absatz 1 Satz 2 Nummer 5 ist abweichend von § 339 Absatz 1 und 1a zulässig
 
 1.  ohne eine Einwilligung der Versicherten, soweit es zur Versorgung der Versicherten in einem Notfall erforderlich ist, und
 
@@ -16268,38 +16236,6 @@ Die Zugriffsrechte nach Satz 1 gelten auch, wenn die jeweiligen Zugriffsberechti
 Im Fall des Satzes 1 Nummer 2 bedarf es keiner eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe des Versicherten.
 
 (4) Der Zugriff auf die nach § 341 Absatz 2 Nummer 1 Buchstabe c in der elektronischen Patientenakte gespeicherten Daten der elektronischen Patientenkurzakte zum grenzüberschreitenden Austausch von Gesundheitsdaten zum Zweck der Unterstützung einer konkreten Behandlung des Versicherten durch einen in einem anderen Mitgliedstaat der Europäischen Union nach dem Recht des jeweiligen Mitgliedstaats zum Zugriff auf die Daten berechtigten Leistungserbringer über die jeweiligen nationalen eHealth-Kontaktstellen bedarf der Einwilligung durch den Versicherten in die Nutzung des Zugriffsverfahrens nach § 351 Absatz 2 Nummer 2. Zusätzlich ist erforderlich, dass der Versicherte zum Zeitpunkt der Behandlung den Zugriff der nationalen eHealth-Kontaktstelle des Mitgliedstaats, in dem die Behandlung stattfindet, durch eine eindeutige bestätigende Handlung technisch freigibt. Abweichend von den Absätzen 1 und 3 sowie von § 339 finden für die Verarbeitung der Daten durch einen Leistungserbringer in einem anderen Mitgliedstaat der Europäischen Union die Bestimmungen des Mitgliedstaats Anwendung, in dem der Leistungserbringer seinen Sitz hat. Hierbei finden die gemeinsamen europäischen Vereinbarungen zum grenzüberschreitenden Austausch von Gesundheitsdaten Berücksichtigung.
-
-
-##### § 359a Elektronische Rechnung
-
-(1) Sobald die für die Anwendung nach § 334 Absatz 1 Satz 2 Nummer 8 erforderlichen Dienste und Komponenten in der Telematikinfrastruktur zur Verfügung stehen, können die Leistungserbringer und Stellen nach Absatz 2 medizinische oder sonstige Leistungen, die nicht dem Sachleistungsprinzip unterliegen, in elektronischer Form (elektronische Rechnung) abrechnen und diese Rechnungsdaten mit Einwilligung des Versicherten unter Nutzung der Dienste und Komponenten der Anwendung nach § 334 Absatz 1 Satz 2 Nummer 8 für Abrechnungszwecke verarbeiten. § 360 Absatz 13 bleibt unberührt.
-
-(2) Auf Daten der Versicherten in der elektronischen Rechnung nach Absatz 1 Satz 1 dürfen mit Einwilligung des Versicherten zu Abrechnungszwecken ausschließlich die folgenden Personen zugreifen:
-
-1.  Ärzte sowie Personen, die als deren berufsmäßige Gehilfen oder zur Vorbereitung auf den Beruf tätig sind,
-
-
-2.  Zahnärzte sowie Personen, die als berufsmäßige Gehilfen oder zur Vorbereitung auf den Beruf tätig sind,
-
-
-3.  Apotheker sowie Personen, die als berufsmäßige Gehilfen oder zur Vorbereitung auf den Beruf tätig sind,
-
-
-4.  Verrechnungsstellen, soweit sie im Auftrag der Leistungserbringer gemäß den Nummern 1 bis 3 bei der Abrechnung oder soweit sie aufgrund von diesen Leistungserbringern abgeleiteter Forderungsinhaberschaft tätig werden sowie
-
-
-5.  zuständige Kostenträger.
-
-
-
-
-(3) Die Versicherten können die Daten elektronischer Rechnungen zum Zweck der Korrektur fehlerhafter Daten mit den zugriffsberechtigten Personen nach Absatz 2 teilen.
-
-(4) Die Erteilung der Einwilligung in den Zugriff auf die Daten des Versicherten in der elektronischen Rechnung nach Absatz 1 Satz 2 erfolgt über die Benutzeroberfläche eines geeigneten Endgerätes und bedarf einer eindeutigen bestätigenden Handlung.
-
-(5) Mit Einwilligung des Versicherten dürfen die Daten elektronischer Rechnungen nach Absatz 1 Satz 1 für die Dauer von maximal zehn Jahren in den Diensten der Anwendung gespeichert werden.
-
-(6) Die Gesellschaft für Telematik ist verpflichtet, im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik und der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit bis spätestens zum 1. Januar 2025 die Maßnahmen durchzuführen, die erforderlich sind, damit die elektronische Rechnung unter Nutzung der Telematikinfrastruktur zur Verfügung steht.
 
 
 #### Sechster Titel - Übermittlung ärztlicher Verordnungen
@@ -16342,7 +16278,7 @@ Im Fall des Satzes 1 Nummer 2 bedarf es keiner eindeutigen bestätigenden Handlu
 
 (13) Mit Einwilligung des Versicherten können die Rechnungsdaten zu einer elektronischen Verordnung, die nicht dem Sachleistungsprinzip unterliegt, für die Dauer von maximal zehn Jahren in den Diensten der Anwendung nach § 334 Absatz 1 Satz 2 Nummer 6 gespeichert werden. Auf die Rechnungsdaten nach Satz 1 haben nur die Versicherten selbst Zugriff. Die Versicherten können diese Rechnungsdaten zum Zweck der Korrektur fehlerhafter Daten mit zugriffsberechtigten Leistungserbringern und anderen zugriffsberechtigten Personen nach § 361 Absatz 1 und zum Zweck der Kostenerstattung mit Kostenträgern teilen.
 
-(14) Mit Einwilligung des Versicherten können Daten zu Verordnungen nach den Absätzen 2 und 4 bis 7 und, soweit technisch möglich, Dispensierinformationen nach § 312 Absatz 1 Satz 1 Nummer 3 automatisiert in der elektronischen Patientenakte gespeichert werden.
+(14) Soweit der Versicherte dem nicht widersprochen hat, werden Daten zu Verordnungen nach den Absätzen 2 und 4 bis 7 und Daten auf der Grundlage von Verordnungen nach Absatz 2 abgegebenen Arzneimitteln, sowie, soweit technisch möglich, deren Chargennummer, und, soweit auf der Verordnung angegeben, deren Dosierung (Dispensierinformationen) automatisiert an die elektronische Patientenakte übermittelt und nach § 341 Absatz 2 Nummer 11 gespeichert. Der Widerspruch nach Satz 1 kann über die Benutzeroberfläche, die dem Versicherten gemäß Absatz 10 für den Zugriff auf elektronische Verordnungen zur Verfügung zu stellen ist, über die Benutzeroberfläche gemäß § 342 sowie bei der Ombudsstelle gemäß § 342a erklärt oder widerrufen werden.
 
 (15) Das Bundesministerium für Gesundheit kann die in den Absätzen 2 bis 8 genannten Fristen durch Rechtsverordnung ohne Zustimmung des Bundesrates verlängern.
 

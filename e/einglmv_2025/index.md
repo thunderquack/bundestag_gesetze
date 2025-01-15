@@ -15,7 +15,7 @@ Ausfertigungsdatum
 :   2024-12-17
 
 Fundstelle
-:   BGBl. I: 2024, Nr. 420
+:   BGBl. I: 2024, Nr. 420 (2025 I Nr. 6)
 
 Stand: Die V tritt gem. § 4 Satz 2 mit Ablauf des 31.12.2025 außer Kraft
 
@@ -26,7 +26,7 @@ Auf Grund des § 46 Absatz 2 Satz 3 des Zweiten Buches Sozialgesetzbuch – Bür
 
 ## § 1 Verteilungsmaßstäbe für die Mittel für Eingliederungsleistungen
 
-(1) Die Verteilung der im Bundeshaushalt 2024 in Kapitel 1101 Titelgruppe 01 Titel 685 11 veranschlagten Mittel für Eingliederungsleistungen erfolgt nach den in den Absätzen 2 bis 5 festgelegten anderen und ergänzenden Maßstäben. Die verbindlich nach der Erläuterung Nummer 1 zu Kapitel 1101 Titelgruppe 01 Titel 685 11 zur Verfügung stehenden Ausgabereste werden zur Verstärkung der Mittel für Verwaltungskosten zur Durchführung der Grundsicherung für Arbeitsuchende nach Kapitel 1101 Titelgruppe 01 Titel 636 13 eingesetzt. Für den Aufgabenübergang von den Jobcentern auf die Agenturen für Arbeit zum 1. Januar 2025 stehen nach § 459 des Dritten Buches Sozialgesetzbuch zur Verstärkung des Ansatzes bei Titel 685 11 weitere 311 Millionen Euro für die Förderung der beruflichen Weiterbildung und weitere 50 Millionen Euro für die Förderung der beruflichen Rehabilitation zur Verfügung. Die Mittel nach Satz 3 dienen der Ausfinanzierung von Maßnahmen, die noch durch die Jobcenter durchgeführt werden. Die Verteilung dieser Mittel erfolgt nach den in Absatz 7 festgelegten anderen und ergänzenden Maßstäben.
+(1) Die Verteilung der im Bundeshaushalt 2025 in Kapitel 1101 Titelgruppe 01 Titel 685 11 veranschlagten Mittel für Eingliederungsleistungen erfolgt nach den in den Absätzen 2 bis 5 festgelegten anderen und ergänzenden Maßstäben. Die verbindlich nach der Erläuterung Nummer 1 zu Kapitel 1101 Titelgruppe 01 Titel 685 11 zur Verfügung stehenden Ausgabereste werden zur Verstärkung der Mittel für Verwaltungskosten zur Durchführung der Grundsicherung für Arbeitsuchende nach Kapitel 1101 Titelgruppe 01 Titel 636 13 eingesetzt. Für den Aufgabenübergang von den Jobcentern auf die Agenturen für Arbeit zum 1. Januar 2025 stehen nach § 459 des Dritten Buches Sozialgesetzbuch zur Verstärkung des Ansatzes bei Titel 685 11 weitere 311 Millionen Euro für die Förderung der beruflichen Weiterbildung und weitere 50 Millionen Euro für die Förderung der beruflichen Rehabilitation zur Verfügung. Die Mittel nach Satz 3 dienen der Ausfinanzierung von Maßnahmen, die noch durch die Jobcenter durchgeführt werden. Die Verteilung dieser Mittel erfolgt nach den in Absatz 7 festgelegten anderen und ergänzenden Maßstäben.
 
 (2) Für die Ausfinanzierung von Leistungen nach § 16e des Zweiten Buches Sozialgesetzbuch in der Fassung der Bekanntmachung vom 13. Mai 2011 (BGBl. I S. 850, 2094) werden Mittel nach Maßgabe der am 31. Dezember 2024 für diese Leistungen bestehenden Verpflichtungen, fällig im Jahr 2025, und der umzubuchenden Festlegungen aus dem Jahr 2024 gesondert verteilt. Eine über diese Verteilung hinausgehende Verstärkung der Mittel nach Satz 1 durch die Jobcenter ist nicht zulässig.
 
@@ -43,7 +43,7 @@ Auf Grund des § 46 Absatz 2 Satz 3 des Zweiten Buches Sozialgesetzbuch – Bür
 
 ## § 2 Verteilungsmaßstäbe für die Mittel für Verwaltungskosten
 
-(1) Die Verteilung der im Bundeshaushalt 2024 in Kapitel 1101 Titelgruppe 01 Titel 636 13 für Verwaltungskosten für die Durchführung der Grundsicherung für Arbeitsuchende veranschlagten Mittel und der nach § 1 Absatz 1 Satz 2 zusätzlich eingesetzten Mittel erfolgt nach den in den Absätzen 2 bis 5 festgelegten anderen und ergänzenden Maßstäben.
+(1) Die Verteilung der im Bundeshaushalt 2025 in Kapitel 1101 Titelgruppe 01 Titel 636 13 für Verwaltungskosten für die Durchführung der Grundsicherung für Arbeitsuchende veranschlagten Mittel und der nach § 1 Absatz 1 Satz 2 zusätzlich eingesetzten Mittel erfolgt nach den in den Absätzen 2 bis 5 festgelegten anderen und ergänzenden Maßstäben.
 
 (2) 2,5 Millionen Euro werden für überregionale Sonderbedarfe einbehalten.
 

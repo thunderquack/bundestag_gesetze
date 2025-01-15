@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2021, 3932, 3958
 
 Zuletzt geändert durch
-:   Art. 5 G v. 19.7.2024 I Nr. 247
-
-Änderung durch
-:   Art. 3 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 18.12.2024 I Nr. 424
 
 Änderung durch
 :   Art. 4 Abs. 4 G v. 17.12.2024 I Nr. 424 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
