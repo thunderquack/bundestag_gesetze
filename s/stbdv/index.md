@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1979, 1922
 
 Zuletzt geändert durch
-:   Art. 8 G v. 22.10.2024 I Nr. 320
-
-Änderung durch
-:   Art. 1 V v. 20.12.2024 I Nr. 443 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 20.12.2024 I Nr. 443
 
 
 ## Eingangsformel
@@ -802,9 +799,4 @@ c)  bezüglich sämtlicher Folgen eines Verstoßes. Dabei gilt mehrfaches, auf g
 (1) Die Beendigung oder Kündigung des Versicherungsvertrages, jede Änderung des Versicherungsvertrages, die den nach dieser Verordnung vorgeschriebenen Versicherungsschutz beeinträchtigt, der Wechsel des Versicherers, der Beginn und die Beendigung der Versicherungspflicht infolge einer Änderung der Form der beruflichen Tätigkeit und der Widerruf einer vorläufigen Deckungszusage sind der gemäß § 67 des Steuerberatungsgesetzes zuständigen Steuerberaterkammer von dem Versicherungspflichtigen unverzüglich anzuzeigen.
 
 (2) Der Versicherer ist befugt, der zuständigen Steuerberaterkammer Beginn und Ende des Versicherungsvertrags, jede Änderung des Versicherungsvertrags, die den nach dieser Verordnung vorgeschriebenen Versicherungsschutz beeinträchtigt, und den Widerruf einer vorläufigen Deckungszusage mitzuteilen. Die zuständige Steuerberaterkammer ist berechtigt, entsprechende Auskünfte bei dem Versicherer einzuholen.
-
-
-### § 57
-
-(weggefallen)
 

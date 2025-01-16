@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Beschluss v. 5.12.2023; 2024 I Nr. 42
 
+Änderung durch
+:   Beschluss v. 27.11.2024; 2025 I Nr. 9 mWv 1.1.2025 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 
