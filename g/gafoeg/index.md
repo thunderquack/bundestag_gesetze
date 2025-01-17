@@ -50,5 +50,5 @@ Die Bundesregierung evaluiert unter Beteiligung der Länder zum 31. Dezember 202
 
 (5) Artikel 2 tritt am 1. August 2029 in Kraft.
 
-(6) Artikel 4 tritt am 1. Januar 2026 in Kraft.
+(6) (weggefallen)
 

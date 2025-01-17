@@ -6502,20 +6502,10 @@ Die Finanzbehörden können Ansprüche aus dem Steuerschuldverhältnis ganz oder
 1.  bei Übergabe oder Übersendung von Zahlungsmitteln am Tag des Eingangs, bei Hingabe oder Übersendung von Schecks jedoch drei Tage nach dem Tag des Eingangs,
 
 
-2.  bei Überweisung oder Einzahlung auf ein Konto der Finanzbehörde und bei Einzahlung mit Zahlschein
-
-    *   an dem Tag, an dem der Betrag der Finanzbehörde gutgeschrieben wird,
+2.  bei Überweisung oder Einzahlung auf ein Konto der Finanzbehörde und bei Einzahlung mit Zahlschein an dem Tag, an dem der Betrag der Finanzbehörde gutgeschrieben wird,
 
 
-
-
-
-3.  bei Vorliegen eines SEPA-Lastschriftmandats
-
-    *   am Fälligkeitstag.
-
-
-
+3.  bei Vorliegen eines SEPA-Lastschriftmandats am Fälligkeitstag.
 
 
 
@@ -9050,7 +9040,7 @@ Bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall steuerbegünsti
 
 Bei **Betrieben gewerblicher Art von juristischen Personen des öffentlichen Rechts, bei den von einer juristischen Person des öffentlichen Rechts verwalteten unselbständigen Stiftungen und bei geistlichen Genossenschaften**              (Orden, Kongregationen) ist folgende Bestimmung aufzunehmen:
 § 3 Abs. 2:
-„Der – die – das … erhält bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke nicht mehr als – seine – ihre – eingezahlten Kapitalanteile und den gemeinen Wert seiner – ihrer – geleisteten Sacheinlagen zurück. “
+„Der – die – das … erhält bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke nicht mehr als – seine – ihre – eingezahlten Kapitalanteile und den gemeinen Wert seiner – ihrer – geleisteten Sacheinlagen zurück.“
 
 Bei **Stiftungen**              ist diese Bestimmung nur erforderlich, wenn die Satzung dem Stifter einen Anspruch auf Rückgewähr von Vermögen einräumt. Fehlt die Regelung, wird das eingebrachte Vermögen wie das übrige Vermögen behandelt.
 
@@ -9058,12 +9048,12 @@ Bei **Kapitalgesellschaften**              sind folgende ergänzende Bestimmunge
 
 1.  § 3 Abs. 1 Satz 2:
 
-    „Die Gesellschafter dürfen keine Gewinnanteile und auch keine sonstigen Zuwendungen aus Mitteln der Körperschaft erhalten. “
+    „Die Gesellschafter dürfen keine Gewinnanteile und auch keine sonstigen Zuwendungen aus Mitteln der Körperschaft erhalten.“
 
 
 2.  § 3 Abs. 2:
 
-    „Sie erhalten bei ihrem Ausscheiden oder bei Auflösung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke nicht mehr als ihre eingezahlten Kapitalanteile und den gemeinen Wert ihrer geleisteten Sacheinlagen zurück. “
+    „Sie erhalten bei ihrem Ausscheiden oder bei Auflösung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke nicht mehr als ihre eingezahlten Kapitalanteile und den gemeinen Wert ihrer geleisteten Sacheinlagen zurück.“
 
 
 3.  § 5:

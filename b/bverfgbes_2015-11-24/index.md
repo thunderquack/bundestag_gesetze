@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Beschluss v. 5.12.2023; 2024 I Nr. 42
 
 Änderung durch
-:   Beschluss v. 27.11.2024; 2025 I Nr. 9 mWv 1.1.2025 noch nicht berücksichtigt
+:   Beschluss v. 27.11.2024; 2025 I Nr. 9 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -30,7 +30,7 @@ Das Plenum des Bundesverfassungsgerichts hat am 24. November 2015 gemäß § 14 
 
 ## A.
 
-Mit Wirkung vom 1. Januar 2024 ist abweichend von § 14 Absatz 1 bis 3 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des Bundesverfassungsgerichts auch zuständig:
+Mit Wirkung vom 1. Januar 2025 ist abweichend von § 14 Absatz 1 bis 3 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des Bundesverfassungsgerichts auch zuständig:
 
 I.  Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und Verfassungsbeschwerden aus den Rechtsbereichen
 
@@ -66,14 +66,26 @@ I.  Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und Verf
     8.  des Bußgeldverfahrens;
 
 
-    9.  des Einkommensteuerrechts einschließlich des Kirchensteuerrechts,
+    9.  des Einkommensteuerrechts einschließlich des Kirchensteuerrechts;
+
+
+    10. des Rechts des Versicherungswesens;
+
+
+    11. des Glücksspielrechts;
+
+
+    12. grundstücks- und unternehmensbezogene Vermögensfragen im Zusammenhang mit der Herstellung der Deutschen Einheit;
+
+
+    13. des Kreditrechts einschließlich des Rechts der Sicherungen,
 
 
 
     jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
 
 
-II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem Geschäftsjahr 2024 eingehen, aus den Rechtsbereichen
+II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem Geschäftsjahr 2025 eingehen, aus den Rechtsbereichen
 
     1.  des Vertriebenenrechts;
 
@@ -100,7 +112,7 @@ II. Für Normenkontrollverfahren und Verfassungsbeschwerden, die ab dem Geschäf
     jeweils einschließlich der dazugehörigen Amtshaftungs-, Kostenrechts-, Prozesskostenhilfe-, Beratungshilfe- und Verzögerungsverfahren sowie Verfahren zu Befangenheitsanträgen.
 
 
-III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2024 eingehen, aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der Rechtsbereiche
+III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2025 eingehen, aus dem Bereich der Zivilgerichtsbarkeit mit Ausnahme der Rechtsbereiche
 
     1.  Allgemeines Persönlichkeitsrecht;
 
@@ -141,46 +153,37 @@ III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2024 eingehen, aus d
     13. Wettbewerbsrecht;
 
 
-    14. grundstücks- und unternehmensbezogene Vermögensfragen im Zusammenhang mit der Herstellung der Deutschen Einheit;
+    14. Bau- und Bodenrecht einschließlich Erschließungs- und Enteignungsrecht;
 
 
-    15. Bau- und Bodenrecht einschließlich Erschließungs- und Enteignungsrecht;
+    15. Gesellschaftsrecht einschließlich des Genossenschaftsrechts;
 
 
-    16. Gesellschaftsrecht einschließlich Genossenschaftsrecht;
+    16. Bank-, Börsen- und Wertpapierrecht;
 
 
-    17. Bank-, Börsen- und Wertpapierrecht;
+    17. Recht der Finanzmarktstabilisierung einschließlich Enteignungen;
 
 
-    18. Kreditrecht einschließlich des Rechts der Sicherungen;
+    18. Regulierungsrecht;
 
 
-    19. Recht der Finanzmarktstabilisierung einschließlich Enteignungen;
+    19. Anwaltsvertragsrecht;
 
 
-    20. Regulierungsrecht;
+    20. wirtschaftsrechtliche Fragen der gesetzlichen Krankenversicherung;
 
 
-    21. Anwaltsvertragsrecht;
+    21. Vollstreckung öffentlich-rechtlicher Forderungen;
 
 
-    22. wirtschaftsrechtliche Fragen der gesetzlichen Krankenversicherung;
+    22. Wohnungseigentumsrecht;
 
 
-    23. Vollstreckung öffentlich-rechtlicher Forderungen;
+    23. Dienst- und Werkvertragsrecht;
 
 
-    24. Wohnungseigentumsrecht;
-
-
-    25. Dienst- und Werkvertragsrecht;
-
-
-    26. Kaufrecht;
-
-
-    27. Recht des Versicherungswesens,
+    24. Kaufrecht,
 
 
 
@@ -189,7 +192,9 @@ III. Für Verfassungsbeschwerden, die ab dem Geschäftsjahr 2024 eingehen, aus d
 
 IV. Im Übrigen für Normenkontrollverfahren und Verfassungsbeschwerden
 
-    1.  bei denen die Auslegung und Anwendung von Völkerrecht oder der Artikel 23, 24 und 59 GG, mit Ausnahme der einzelnen menschenrechtlichen Gewährleistungen, überwiegen;
+    1.  bei denen die Auslegung und Anwendung von Völkerrecht
+
+        oder der Artikel 23, 24 und 59 GG, mit Ausnahme der einzelnen menschenrechtlichen Gewährleistungen, überwiegen;
 
 
     2.  bei denen andere Fragen als solche der Auslegung und Anwendung der Artikel 1 bis 17, 19, 101 und 103 Absatz 1 GG (auch in Verbindung mit dem Rechtsstaatsprinzip) überwiegen.
@@ -208,5 +213,5 @@ Im Verfassungsbeschwerdeverfahren bestimmt sich der maßgebliche Rechtsbereich a
 
 ## C.
 
-Für die bis zum 31. Dezember 2023 anhängigen Verfahren bleibt es bei der bisherigen Senatszuständigkeit.
+Am 31. Dezember 2024 anhängige Verfahren aus dem Rechtsbereich des Rechts des Versicherungswesens (A. I. Ziffer 10), des Glücksspielrechts (A. I. Ziffer 11), der grundstücks- und unternehmensbezogenen Vermögensfragen im Zusammenhang mit der Herstellung der Deutschen Einheit (A. I. Ziffer 12) und des Kreditrechts einschließlich des Rechts der Sicherungen (A. I. Ziffer 13) gehen in die Zuständigkeit des Zweiten Senats über. Im Übrigen bleibt es für die bis zum 31. Dezember 2024 anhängigen Verfahren bei der bisherigen Senatszuständigkeit.
 
