@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1973, 965
 
 Zuletzt geändert durch
-:   Art. 34 G v. 23.10.2024 I Nr. 323
-
-Änderung durch
-:   Art. 32 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 32 G v. 2.12.2024 I Nr. 387
 
 
 ## Abschnitt I - Steuerpflicht

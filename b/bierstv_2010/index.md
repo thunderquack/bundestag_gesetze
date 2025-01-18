@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 3262, 3319
 
 Zuletzt geändert durch
-:   Art. 14 G v. 24.10.2022 I 1838; 2023 I Nr. 109
-
-Änderung durch
-:   Art. 48 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 48 G v. 2.12.2024 I Nr. 387
 
 
 ## Abschnitt 1 - Allgemeines

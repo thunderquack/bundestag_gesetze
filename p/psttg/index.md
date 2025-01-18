@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 2730
 
-Änderung durch
-:   Art. 38 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 38 G v. 2.12.2024 I Nr. 387
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

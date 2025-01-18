@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 2531
 
 Zuletzt geändert durch
-:   Art. 7 G v. 25.6.2021 I 2056
-
-Änderung durch
-:   Art. 37 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 37 G v. 2.12.2024 I Nr. 387
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2011/16/EU des Rates vom 15. Februar 2011 über die Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung und zur Aufhebung der Richtlinie 77/799/EWG (ABl. L 64 vom 11.3.2011, S. 1; Amtshilferichtlinie) in der Fassung der Richtlinie 2014/107/EU (ABl. L 359 vom 16.12.2014, S. 1) sowie der Umsetzung des Gesetzes zu der Mehrseitigen Vereinbarung vom 29. Oktober 2014 zwischen den zuständigen Behörden über den automatischen Austausch von Informationen über Finanzkonten (CRS-MCAA) vom 21. Dezember 2015 (BGBl. 2015 II S. 1630).
 

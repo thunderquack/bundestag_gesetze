@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.2.2005 I 434;
 
 Zuletzt geändert durch
-:   Art. 24 G v. 27.3.2024 I Nr. 108
-
-Änderung durch
-:   Art. 28 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 29 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. Art. 29 G v. 2.12.2024 I Nr. 387
 
 Änderung durch
 :   Art. 30 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

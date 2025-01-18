@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 1870, 1908
 
 Zuletzt geändert durch
-:   Art. 39 G v. 16.12.2022 I 2294
-
-Änderung durch
-:   Art. 47 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 47 G v. 2.12.2024 I Nr. 387
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen

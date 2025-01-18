@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2014, 1054
 
-Geändert durch
+Zuletzt geändert durch
 :   Art. 9 G v. 27.7.2021 I 3274
+
+Änderung durch
+:   Art. 2 V v. 15.1.2025 I Nr. 11 mWv 18.1.2025 noch nicht berücksichtigt
 
 
 ## § 1 Ziel

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 2056
 
 Zuletzt geändert durch
-:   Art. 8 Abs. 2 G v. 20.12.2022 I 2730
-
-Änderung durch
-:   Art. 40 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 40 G v. 2.12.2024 I Nr. 387
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

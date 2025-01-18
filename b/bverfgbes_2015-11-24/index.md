@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 118
 
 Zuletzt geändert durch
-:   Beschluss v. 5.12.2023; 2024 I Nr. 42
-
-Änderung durch
-:   Beschluss v. 27.11.2024; 2025 I Nr. 9 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Beschluss v. 27.11.2024; 2025 I Nr. 9
 
 
 ## Eingangsformel

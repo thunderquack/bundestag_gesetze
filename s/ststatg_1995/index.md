@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 1250, 1409
 
 Zuletzt geändert durch
-:   Art. 33 G v. 16.12.2022 I 2294
-
-Änderung durch
-:   Art. 45 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 45 G v. 2.12.2024 I Nr. 387
 
 Änderung durch
 :   Art. 46 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
