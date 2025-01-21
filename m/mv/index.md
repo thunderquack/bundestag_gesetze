@@ -17,10 +17,10 @@ Fundstelle
 :   BGBl I: 1993, 1554
 
 Zuletzt geändert durch
-:   Art. 1 V v. 25.11.2024 I Nr. 364
+:   Art. 23 G v. 2.12.2024 I Nr. 387
 
-Änderung durch
-:   Art. 23 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Neufassung durch
+:   Bek. v. 14.1.2025 I Nr. 14 noch nicht berücksichtigt
 
 
 ## Eingangsformel

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 1964
 
-Änderung durch
-:   Art. 4 Abs. 2 G v. 17.12.2024 I Nr. 424 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitett
+Geändert durch
+:   Art. 4 Abs. 2 G v. 17.12.2024 I Nr. 424
 
 Stand: Ersetzt V 52-5-4 v. 7.2.2016 I 178 (WDOBezV 2016)
 

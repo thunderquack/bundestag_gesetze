@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 1965
 
+Änderung durch
+:   Art. 1 V v. 15.1.2025 I Nr. 13 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
