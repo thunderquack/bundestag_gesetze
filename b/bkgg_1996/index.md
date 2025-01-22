@@ -19,16 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.1.2009 I 142, 3177;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 16.12.2022 I 2328
-
-Änderung durch
-:   Art. 42 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 5 G v. 23.12.2024 I Nr. 449 ist berücksichtigt
-
-Änderung durch
-:   Art. 6 G v. 23.12.2024 I Nr. 449 ist berücksichtigt
+:   Art. 6 G v. 23.12.2024 I Nr. 449
 
 
 ## Erster Abschnitt - Leistungen

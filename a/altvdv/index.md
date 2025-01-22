@@ -21,10 +21,7 @@ Neugefasst durch
 :   Bek. v. 28.2.2005 I 487;
 
 Zuletzt geändert durch
-:   Art. 10 V v. 19.12.2022 I 2432
-
-Änderung durch
-:   Art. 31 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 31 G v. 2.12.2024 I Nr. 387
 
 
 ## Abschnitt 1 - Grundsätze der Datenübermittlung
@@ -35,7 +32,7 @@ Zuletzt geändert durch
 
 (1) Eine Übermittlung von Daten nach
 
-1.  § § 10 Absatz 2a, 2b, 2c und 4b, den § 10a, 22a oder Abschnitt XI des Einkommensteuergesetzes,
+1.  § § 10 Absatz 2a, 2b, 2c und 4b, den §§ 10a, 22a oder Abschnitt XI des Einkommensteuergesetzes,
 
 
 2.  § 32b Absatz 3 des Einkommensteuergesetzes, soweit auf § 22a des Einkommensteuergesetzes verwiesen wird, § 52 Absatz 30b des Einkommensteuergesetzes oder

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 1856
 
 Zuletzt geändert durch
-:   Art. 1 V v. 21.10.2024 I Nr. 314
-
-Änderung durch
-:   Art. 50 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 50 G v. 2.12.2024 I Nr. 387
 
 
 ## Teil 1 - Zweck des Wohngeldes und Wohngeldberechtigung

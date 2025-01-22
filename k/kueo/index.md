@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 1292
 
 Zuletzt geändert durch
-:   Art. 5 G v. 16.10.2023 I Nr. 280
-
-Änderung durch
-:   Art. 1 V v. 15.1.2025 I Nr. 12 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 15.1.2025 I Nr. 12
 
 [^F772203_01_BJNR129200009]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen Parlaments und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 204 vom 21.7.1998, S. 37), die zuletzt durch Richtlinie 2006/96/EG des Rates vom 20. November 2006 (ABl. L 363 vom 20.12.2006, S. 81) geändert worden ist, sind beachtet worden.
 
