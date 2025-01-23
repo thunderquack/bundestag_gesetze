@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 2221
 
-Änderung durch
-:   Art. 19 V v. 11.12.2024 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 19 V v. 11.12.2024 I Nr. 411
 
 
 
