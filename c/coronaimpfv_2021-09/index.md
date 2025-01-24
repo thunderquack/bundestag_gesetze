@@ -18,10 +18,7 @@ Fundstelle
 
 Stand: Die V tritt gem. § 17 idF d. Art. 1 Nr. 4 V v. 29.11.2024 I Nr. 380 mit Ablauf des 31.12.2028 außer Kraft
 Zuletzt geändert durch
-:   Art. 2 V v. 29.12.2022 BAnz AT 30.12.2022 V1
-
-Änderung durch
-:   Art. 1 V v. 29.11.2024 I Nr. 380 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 29.11.2024 I Nr. 380
 
 Die geltung dieser v ist durch
 :   § 17 idF d. Art. 1 Nr. 6 V v. 15.11.2021 BAnz AT 15.11.2021 V1, d. Art. 1 Nr. 9 V v. 16.12.2021 BAnz AT 17.12.2021 V1, d. Art. 1 Nr. 14 V v. 23.5.2022 BAnz AT 24.05.2022 V1, d. Art. 8 Nr. 2 G v. 16.9.2022 I 1454, d. Art. 1 Nr. 12 V v. 29.12.2022 BAnz AT 30.12.2022 V1 u. d. Art. 1 Nr. 4 V v. 29.11.2024 I Nr. 380 über den 31.12.2021 hinaus bis zum Ablauf des 31.12.2028 verlängert worden

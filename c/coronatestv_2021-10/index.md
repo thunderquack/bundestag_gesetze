@@ -18,10 +18,7 @@ Fundstelle
 
 Stand: Die V tritt gem. § 19 idF d. Art. 2 Nr. 7 V v. 29.11.2024 I Nr. 380 mit Ablauf des 31.12.2028 außer Kraft
 Zuletzt geändert durch
-:   Art. 1 V v. 11.1.2023 I Nr. 13
-
-Änderung durch
-:   Art. 2 V v. 29.11.2024 I Nr. 380 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 29.11.2024 I Nr. 380
 
 Die geltung dieser v ist durch
 :   § 19 Abs. 1 idF d. Art. 1 Nr. 8 V v. 12.11.2021 BAnz AT 12.11.2021 V1, d. Art. 2 Nr. 9 V v. 16.12.2021 BAnz AT 17.12.2021 V1, d. Art. 1 Nr. 9 V v. 29.3.2022 BAnz AT 30.03.2022 V1 u. d. Art. 1 Nr. 9 V v. 29.06.2022 BAnz AT 29.06.2022 V1 über den 31.12.2021 hinaus bis zum Ablauf des 25.11.2022 verlängert worden; die Geltung der V ist durch § 19 idF d. Art. 1 Nr. 11 V v. 24.11.2022 BAnz AT 24.11.2022 V2 u. d. Art. 2 Nr. 7 V v. 29.11.2024 I Nr. 380 über den 25.11.2022 hinaus bis zum Ablauf des 31.12.2028 verlängert worden
@@ -251,11 +248,9 @@ An die nach § 6 Absatz 1 der Coronavirus-Testverordnung in der bis zum 28. Febr
 
 ## § 13 Finanzierung von Testzentren
 
-(1) Kosten für die Errichtung und den laufenden Betrieb von Testzentren werden nach den Maßgaben der Absätze 2 bis 6 erstattet. Dies gilt auch, wenn in den Zentren neben Personen mit einem Anspruch nach § 1 Absatz 1 der Coronavirus-Testverordnung in der bis zum 28. Februar 2023 geltenden Fassung auch Personen im Rahmen der ambulanten Krankenbehandlung getestet werden. Die Zentren sind wirtschaftlich zu betreiben, insbesondere hinsichtlich der Ausstattung mit Personal, der genutzten Räumlichkeiten sowie der Dauer des Betriebs. Die Kosten nach Satz 1 können bei einer Beauftragung als Testzentrum nach
-§ 6 Absatz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung              für den Betrieb bis zum 30. Juni 2021 geltend gemacht werden.
+(1) Kosten für die Errichtung und den laufenden Betrieb von Testzentren werden nach den Maßgaben der Absätze 2 bis 6 erstattet. Dies gilt auch, wenn in den Zentren neben Personen mit einem Anspruch nach § 1 Absatz 1 der Coronavirus-Testverordnung in der bis zum 28. Februar 2023 geltenden Fassung auch Personen im Rahmen der ambulanten Krankenbehandlung getestet werden. Die Zentren sind wirtschaftlich zu betreiben, insbesondere hinsichtlich der Ausstattung mit Personal, der genutzten Räumlichkeiten sowie der Dauer des Betriebs. Die Kosten nach Satz 1 können bei einer Beauftragung als Testzentrum nach § 6 Absatz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung für den Betrieb bis zum 30. Juni 2021 geltend gemacht werden.
 
-(2) Die gesamten Einnahmen aus der Vergütung von Leistungen nach dieser Verordnung, nach regionalen Vereinbarungen mit den Ländern und den zuständigen Stellen des öffentlichen Gesundheitsdienstes und nach den Vereinbarungen aufgrund der Regelungen des Fünften Buches Sozialgesetzbuch sowie die sonstige Vergütung für Testungen in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2, die durch das Testzentrum während des Betriebs im Sinne dieser Verordnung erwirtschaftet werden, sind in der Rechnungslegung des jeweiligen Betreibers gesondert auszuweisen und mit den Gesamtkosten des Testzentrums aufzurechnen. Eine Aufrechnung findet nicht statt bei Vergütungen für Leistungen von selbständig in Testzentren tätigen ärztlichen oder zahnärztlichen Leistungserbringern nach § 6 Absatz 1 Nummer 2 und 3 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung. Alle weiteren notwendigen Kosten nach Absatz 1 Satz 1, die durch Vergütungen nach Satz 1 nicht gedeckt sind, können abgerechnet werden. Im Hinblick auf Testzentren, die vom öffentlichen Gesundheitsdienst oder in Kooperation mit diesem betrieben werden, ist die Abrechnung von Personalkosten hinsichtlich originärer Mitarbeiter des öffentlichen Gesundheitsdienstes ausgeschlossen. Für die Testzentren nach
-§ 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung              können nur Kosten abgerechnet werden, die nach der Beauftragung durch die zuständigen Stellen des öffentlichen Gesundheitsdienstes als Testzentrum für die Errichtung oder den laufenden Betrieb entstanden sind.
+(2) Die gesamten Einnahmen aus der Vergütung von Leistungen nach dieser Verordnung, nach regionalen Vereinbarungen mit den Ländern und den zuständigen Stellen des öffentlichen Gesundheitsdienstes und nach den Vereinbarungen aufgrund der Regelungen des Fünften Buches Sozialgesetzbuch sowie die sonstige Vergütung für Testungen in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2, die durch das Testzentrum während des Betriebs im Sinne dieser Verordnung erwirtschaftet werden, sind in der Rechnungslegung des jeweiligen Betreibers gesondert auszuweisen und mit den Gesamtkosten des Testzentrums aufzurechnen. Eine Aufrechnung findet nicht statt bei Vergütungen für Leistungen von selbständig in Testzentren tätigen ärztlichen oder zahnärztlichen Leistungserbringern nach § 6 Absatz 1 Nummer 2 und 3 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung. Alle weiteren notwendigen Kosten nach Absatz 1 Satz 1, die durch Vergütungen nach Satz 1 nicht gedeckt sind, können abgerechnet werden. Im Hinblick auf Testzentren, die vom öffentlichen Gesundheitsdienst oder in Kooperation mit diesem betrieben werden, ist die Abrechnung von Personalkosten hinsichtlich originärer Mitarbeiter des öffentlichen Gesundheitsdienstes ausgeschlossen. Für die Testzentren nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung können nur Kosten abgerechnet werden, die nach der Beauftragung durch die zuständigen Stellen des öffentlichen Gesundheitsdienstes als Testzentrum für die Errichtung oder den laufenden Betrieb entstanden sind.
 
 (3) Die der Rechnungslegung zugrundeliegenden Unterlagen sind bis zum 31. Dezember 2028 unverändert zu speichern oder aufzubewahren. § 7 Absatz 5 gilt entsprechend.
 
@@ -288,8 +283,7 @@ An die nach § 6 Absatz 1 der Coronavirus-Testverordnung in der bis zum 28. Febr
 6.  den Gesamtbetrag der für die Errichtung und den Betrieb von Testzentren durch den öffentlichen Gesundheitsdienst abgerechneten Kosten,
 
 
-7.  den Gesamtbetrag der für die Errichtung und den Betrieb von Testzentren durch die nach
-    § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung                    als Testzentrum beauftragten Dritten abgerechneten Kosten,
+7.  den Gesamtbetrag der für die Errichtung und den Betrieb von Testzentren durch die nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung in der bis zum 30. Juni 2021 geltenden Fassung als Testzentrum beauftragten Dritten abgerechneten Kosten,
 
 
 8.  den Gesamtbetrag der für die Errichtung und den Betrieb von Testzentren durch die Kassenärztliche Vereinigung abgerechneten Kosten und
