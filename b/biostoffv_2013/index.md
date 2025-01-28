@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 2514
 
 Zuletzt geändert durch
-:   Art. 1 V v. 21.7.2021 I 3115
-
-Änderung durch
-:   Art. 3 V v. 2.12.2024 I Nr. 384 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 2.12.2024 I Nr. 384
 
 
 ## Abschnitt 1 - Anwendungsbereich, Begriffsbestimmungen und Risikogruppeneinstufung

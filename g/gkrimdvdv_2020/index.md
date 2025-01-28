@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2020, 2883
 
 Zuletzt geändert durch
-:   Art. 1 V v. 3.7.2023 I Nr. 177
-
-Änderung durch
-:   Art. 1 V v. 15.1.2025 I Nr. 18 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 15.1.2025 I Nr. 18
 
 Stand: Ersetzt V 2030-6-31 v. 2.2.2015 I 98, 100 (GKrimDVDV)
 

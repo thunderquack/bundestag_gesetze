@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2010, 1214
 
 Zuletzt geändert durch
-:   Art. 5 V v. 15.12.2022 I 2862
-
-Änderung durch
-:   Art. 3 V v. 15.1.2025 I Nr. 18 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 15.1.2025 I Nr. 18
 
 
 ## Eingangsformel
@@ -53,6 +50,8 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 ### § 4 Auswahlverfahren
 
 (1) Über die Zulassung zum Präsenzstudiengang und über die Zulassung zum Fernstudiengang entscheidet jeweils die Hochschule auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den gehobenen nichttechnischen Verwaltungsdienst geeignet sind. § 36 der Bundeslaufbahnverordnung bleibt unberührt. Das Auswahlverfahren wird an der Hochschule von einer Auswahlkommission durchgeführt. Es besteht aus einem schriftlichen und einem mündlichen Teil. Das Bundesministerium des Innern und für Heimat entscheidet über Ausnahmen von der Zuständigkeit nach Satz 1.
+
+(1a) (weggefallen)
 
 (2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das Dreifache der Zahl an Studienplätzen, kann die Zahl der am Auswahlverfahren Teilnehmenden auf das Dreifache der Zahl an Studienplätzen beschränkt werden. In diesem Fall wird zugelassen, wer nach den eingereichten Unterlagen am besten geeignet ist. Daneben werden schwerbehinderte und diesen gleichgestellte behinderte Menschen sowie ehemalige Soldatinnen auf Zeit und Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein zum Auswahlverfahren zugelassen, wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen. Die §§ 7 und 8 des Bundesgleichstellungsgesetzes sind zu berücksichtigen. Das Nähere zu den Kriterien und zum Verfahren der Auswahl regelt die Auswahlverfahrensrichtlinie.
 
