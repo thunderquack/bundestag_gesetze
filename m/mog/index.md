@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.11.2017 I 3746;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 23 G v. 20.12.2022 I 2752
-
-Änderung durch
-:   Art. 2 G v. 23.10.2024 I Nr. 327 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 23.10.2024 I Nr. 327
 
 
 ## Abschnitt 1 - Begriffsbestimmungen

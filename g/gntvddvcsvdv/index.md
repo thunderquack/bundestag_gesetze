@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2020, 2021
 
 Zuletzt geändert durch
-:   Art. 7 V v. 15.12.2022 I 2862
-
-Änderung durch
-:   Art. 4 V v. 15.1.2025 I Nr. 18 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 V v. 15.1.2025 I Nr. 18
 
 
 ## Eingangsformel

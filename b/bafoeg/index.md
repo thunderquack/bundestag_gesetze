@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.12.2010 I 1952; 2012 I 197;
 
 Zuletzt geändert durch
-:   Art. 18 G v. 22.12.2023 I Nr. 408
-
-Änderung durch
-:   Art. 1 G v. 19.7.2024 I Nr. 249 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 19.7.2024 I Nr. 249
 
 
 ## § 1 Grundsatz
@@ -1845,14 +1842,6 @@ werden durch dieses Gesetz nicht berührt.
 (7) Für Auszubildende, deren Förderungshöchstdauer für den laufenden Ausbildungsabschnitt vor dem 25. Juli 2024 endet, ist § 15 für diesen Ausbildungsabschnitt in der am 24. Juli 2024 geltenden Fassung weiter anzuwenden. Satz 1 gilt nicht für Auszubildende, die am 25. Juli 2024 Förderung nach § 15 Absatz 3 beziehen oder nur deshalb nicht beziehen, weil über ihren Antrag auf Förderung nach § 15 Absatz 3 noch nicht entschieden worden ist.
 
 (8) Für Auszubildende an Höheren Fachschulen, Akademien und Hochschulen, die bis zum für ihre jeweilige Ausbildung geltenden Beginn des Semesters, der vor dem 25. Juli 2024 liegt, im Sinne von § 7 Absatz 3 Satz 3 die Fachrichtung gewechselt oder im Sinne von § 7 Absatz 3 Satz 2 die Ausbildung abgebrochen haben, ist § 7 Absatz 3 in der am 24. Juli 2024 geltenden Fassung für diesen Fachrichtungswechsel oder Abbruch der Ausbildung weiter anzuwenden. Satz 1 gilt auch, wenn der Fachrichtungswechsel oder der Abbruch der Ausbildung zum Beginn des Semesters, der vor dem 25. Juli 2024 liegt, als vollzogen gilt.
-
-(8a) (weggefallen)
-
-(8b) (weggefallen)
-
-(9) (weggefallen)
-
-(10) (weggefallen)
 
 
 ### § 66b Übergangsvorschrift aus Anlass des Endes des Übergangszeitraums nach dem Abkommen über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft

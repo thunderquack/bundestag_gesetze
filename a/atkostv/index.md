@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1981, 1457
 
 Zuletzt geändert durch
-:   Art. 5 G v. 20.5.2021 I 1194
-
-Änderung durch
-:   Art. 11 G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 23.10.2024 I Nr. 324
 
 
 ## Eingangsformel

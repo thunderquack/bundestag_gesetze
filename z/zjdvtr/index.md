@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 Vertrag v. 25.4.2023 I Nr. 352
 
-Stand: Von einer Textkonsolidierung wurde abgesehen, da es sich um vertragliche Änderungen handelt
 
 ## Präambel
 

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 2262, 2275
 
 Zuletzt geändert durch
-:   Art. 2b G v. 19.7.2023 I Nr. 197
-
-Änderung durch
-:   Art. 5 G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 23.10.2024 I Nr. 324
 
 
 ## § 1 Anspruch auf Abschläge

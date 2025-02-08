@@ -15,6 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1051
 
+V aufgeh. durch
+:   § 23 Satz 2 V 7110-6-138 v. 31.1.2025 I Nr. 29 mWv 1.8.2025
+
+Ersetzt durch
+:   V 7110-6-138 v. 31.1.2025 I Nr. 29 (FotoAusbV 2025)
+
 [^f772115_01_BJNR105100009]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
 

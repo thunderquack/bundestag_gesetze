@@ -19,31 +19,7 @@ Neugefasst durch
 :   Bek. v. 8.10.2009 I 3366, 3862;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 2.12.2024 I Nr. 386
-
-Änderung durch
-:   Art. 1 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 5 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 23.12.2024 I Nr. 449 ist berücksichtigt
-
-Änderung durch
-:   Art. 2 G v. 23.12.2024 I Nr. 449 ist berücksichtigt
+:   Art. 2 G v. 23.12.2024 I Nr. 449
 
 
 ## I. - Steuerpflicht
@@ -425,7 +401,7 @@ Steuerfrei sind
 
 
 11. Bezüge aus öffentlichen Mitteln oder aus Mitteln einer öffentlichen Stiftung, die wegen Hilfsbedürftigkeit oder als Beihilfe zu dem Zweck bewilligt werden, die Erziehung oder Ausbildung, die Wissenschaft oder Kunst unmittelbar zu fördern.
-    2                   Darunter fallen nicht Kinderzuschläge und Kinderbeihilfen, die auf Grund der Besoldungsgesetze, besonderer Tarife oder ähnlicher Vorschriften gewährt werden; maßgeblich ist jeweils die am 22. Juni 2022 gültige Fassung des Infektionsschutzgesetzes.
+    2                   Darunter fallen nicht Kinderzuschläge und Kinderbeihilfen, die auf Grund der Besoldungsgesetze, besonderer Tarife oder ähnlicher Vorschriften gewährt werden.
     3                   Voraussetzung für die Steuerfreiheit ist, dass der Empfänger mit den Bezügen nicht zu einer bestimmten wissenschaftlichen oder künstlerischen Gegenleistung oder zu einer bestimmten Arbeitnehmertätigkeit verpflichtet wird.
     4                   Den Bezügen aus öffentlichen Mitteln wegen Hilfsbedürftigkeit gleichgestellt sind Beitragsermäßigungen und Prämienrückzahlungen eines Trägers der gesetzlichen Krankenversicherung für nicht in Anspruch genommene Beihilfeleistungen;
 
@@ -434,7 +410,7 @@ Steuerfrei sind
 
 
 11b. zusätzlich zum ohnehin geschuldeten Arbeitslohn vom Arbeitgeber in der Zeit vom 18. November 2021 bis zum 31. Dezember 2022 an seine Arbeitnehmer zur Anerkennung besonderer Leistungen während der Corona-Krise gewährte Leistungen bis zu einem Betrag von 4 500 Euro.
-    2                   Voraussetzung für die Steuerbefreiung ist, dass die Arbeitnehmer in Einrichtungen im Sinne des § 23 Absatz 3 Satz 1 Nummer 1 bis 4, 8, 11 oder Nummer 12 des Infektionsschutzgesetzes oder § 36 Absatz 1 Nummer 2 oder Nummer 7 des Infektionsschutzgesetzes tätig sind.
+    2                   Voraussetzung für die Steuerbefreiung ist, dass die Arbeitnehmer in Einrichtungen im Sinne des § 23 Absatz 3 Satz 1 Nummer 1 bis 4, 8, 11 oder Nummer 12 des Infektionsschutzgesetzes oder § 36 Absatz 1 Nummer 2 oder Nummer 7 des Infektionsschutzgesetzes tätig sind; maßgeblich ist jeweils die am 22. Juni 2022 gültige Fassung des Infektionsschutzgesetzes.
     3                   Die Steuerbefreiung gilt entsprechend für Personen, die in den in Satz 2 genannten Einrichtungen im Rahmen einer Arbeitnehmerüberlassung oder im Rahmen eines Werk- oder Dienstleistungsvertrags eingesetzt werden.
     4                   Nummer 11a findet auf die Leistungen im Sinne der Sätze 1 bis 3 keine Anwendung.
     5                   Abweichend von Satz 1 gilt die Steuerbefreiung für Leistungen nach § 150c des Elften Buches Sozialgesetzbuch in der Fassung des Gesetzes zur Stärkung des Schutzes der Bevölkerung und insbesondere vulnerabler Personengruppen vor COVID-19 vom 16. September 2022 (BGBl. I S. 1454) auch dann, wenn sie in der Zeit bis zum 31. Mai 2023 gewährt werden;

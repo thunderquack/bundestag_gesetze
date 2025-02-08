@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2020, 960
 
 Zuletzt geändert durch
-:   Art. 3f G v. 28.6.2022 I 938
-
-Änderung durch
-:   Art. 3 G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 23.10.2024 I Nr. 324
 
 Stand: Das Inkrafttreten dieses G wurde mit Ausnahme der §§ 7, 87, 88, 90 Abs. 3 u. § 97 Abs. 1 Satz 2 u. 3 gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben. §§ 7 u. 90 Abs. 3 treten gem. Art. 17 Abs. 4 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 2 G v. 19.5.2020 I 1018 mWv 24.4.2020 in Kraft. § 87 tritt gem. Art. 17 Abs. 3 Nr. 1 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 2 G v. 19.5.2020 I 1018 am 23.5.2020 in Kraft. Für die §§ 88 u. 97 Abs. 1 Satz 2 u. 3 verbleibt es bei der Inkraftsetzung gem. Art. 17 Abs. 1 Satz 1 G v. 28.4.2020 I 960 zum 23.5.2020.
 

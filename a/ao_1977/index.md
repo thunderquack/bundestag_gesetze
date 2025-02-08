@@ -19,16 +19,10 @@ Neugefasst durch
 :   Bek. v. 1.10.2002 I 3866; 2003 I 61;
 
 Zuletzt geändert durch
-:   Art. 16 G v. 2.12.2024 I Nr. 387
+:   Art. 19 G v. 2.12.2024 I Nr. 387
 
-Änderung durch
-:   Art. 17 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 18 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 19 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Neufassung durch
+:   Bek. v. 23.1.2025 I Nr. 24 noch nicht berücksichtigt
 
 
 ## Erster Teil - Einleitende Vorschriften

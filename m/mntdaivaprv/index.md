@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2012, 1554
 
 Zuletzt geändert durch
-:   Art. 4 V v. 15.12.2022 I 2862
-
-Änderung durch
-:   Art. 2 V v. 15.1.2025 I Nr. 18 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 15.1.2025 I Nr. 18
 
 
 ## Eingangsformel
@@ -66,8 +63,6 @@ Die Ausbildung vermittelt in enger Verbindung von Theorie und Praxis die Methode
 
 
 Je Auswahlkommission kann eine Tarifbeschäftigte oder ein Tarifbeschäftigter anstelle einer Beamtin oder eines Beamten zum Mitglied bestellt werden, wenn sie oder er über vergleichbare Kenntnisse verfügt. Mitglieder und Ersatzmitglieder der Auswahlkommission werden von der Einstellungsbehörde für die Dauer von drei Jahren bestellt. Wiederbestellung ist zulässig.
-
-(4a) (weggefallen)
 
 (5) Die Mitglieder der Auswahlkommission sind unabhängig und nicht weisungsgebunden.
 
@@ -273,8 +268,6 @@ Erholungsurlaub soll nur während der berufspraktischen Ausbildung (§ 10) gewä
 ### § 8 Inhalt der fachtheoretischen Ausbildung
 
 (1) Die fachtheoretische Ausbildung umfasst mindestens 1 090 Lehrstunden. Davon entfallen mindestens 210 Lehrstunden auf den Einführungslehrgang, mindestens 320 Lehrstunden auf den Zwischenlehrgang und mindestens 540 Lehrstunden auf den Abschlusslehrgang.
-
-(1a) (weggefallen)
 
 (2) Die fachtheoretische Ausbildung erstreckt sich auf folgende Fachgebiete:
 
@@ -541,8 +534,6 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der Anwärterinnen 
 
 (1) In der mündlichen Abschlussprüfung haben die Anwärterinnen und Anwärter die in den in § 8 Absatz 2 genannten Fachgebieten erworbenen Kenntnisse nachzuweisen.
 
-(1a) (weggefallen)
-
 (2) Zur mündlichen Abschlussprüfung wird zugelassen, wer in mindestens drei Klausuren der schriftlichen Abschlussprüfung mindestens fünf Rangpunkte und insgesamt eine Durchschnittsrangpunktzahl von mindestens 5 erreicht hat. Den Anwärterinnen und Anwärtern wird rechtzeitig schriftlich mitgeteilt, ob sie zur mündlichen Abschlussprüfung zugelassen werden oder nicht.
 
 (3) Die Dauer der mündlichen Abschlussprüfung darf 30 Minuten je Anwärterin oder Anwärter nicht unterschreiten und soll 40 Minuten nicht überschreiten. Bei Gruppenprüfungen sollen nicht mehr als fünf Anwärterinnen und Anwärter gleichzeitig geprüft werden.
@@ -643,8 +634,6 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der Anwärterinnen 
 
 
 Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der Laufbahnprüfung für die Ermittlung der Abschlussnote bei Nachkommawerten ab 50 aufgerundet und bei kleineren Nachkommawerten abgerundet.
-
-(2a) (weggefallen)
 
 (3) Die oder der Vorsitzende der Prüfungskommission teilt den Anwärterinnen und Anwärtern die erreichten Rangpunkte mit und erläutert die Bewertungen auf Wunsch kurz mündlich.
 

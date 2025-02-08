@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.8.2021 I 4036;
 
 Zuletzt geändert durch
-:   Art. 30 G v. 15.7.2024 I Nr. 236
-
-Änderung durch
-:   Art. 1 G v. 23.10.2024 I Nr. 327 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 23.10.2024 I Nr. 327
 
 
 ## Teil 1 - Anwendungsbereich und Begriffsbestimmungen

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2019, 2494
 
 Zuletzt geändert durch
-:   Art. 7 G v. 20.12.2022 I 2793
-
-Änderung durch
-:   Art. 11a G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11a G v. 23.10.2024 I Nr. 324
 
 
 ## Abschnitt 1 - Zweck; Begriffsbestimmungen

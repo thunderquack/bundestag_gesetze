@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2750
 
 Zuletzt geändert durch
-:   Art. 5 G v. 20.12.2022 I 2793
-
-Änderung durch
-:   Art. 4 G v. 5.12.2024 I Nr. 400 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 5.12.2024 I Nr. 400
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften

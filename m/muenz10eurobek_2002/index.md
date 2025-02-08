@@ -33,7 +33,7 @@ Die Wertseite trägt einen Adler, der im unteren Halbkreis von zwölf Sternen um
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
 *   "HISTORISCH UND ZUKUNFTSWEISEND
-    \*\*\**\*\**\*\*\*\*"
+    \*\*\**\*\**\*\**\*"
 
 
 

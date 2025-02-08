@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.5.2007 I 698;
 
 Zuletzt geändert durch
-:   Art. 9 G v. 23.10.2024 I Nr. 323
-
-Änderung durch
-:   Art. 3 G v. 23.10.2024 I Nr. 327 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 23.10.2024 I Nr. 327
 
 
 ## Erster Abschnitt - Luftverkehr

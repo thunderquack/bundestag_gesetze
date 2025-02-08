@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2021, 4744
 
 Zuletzt geändert durch
-:   Art. 27 V v. 11.12.2024 I Nr. 411
+:   Art. 2 V v. 29.1.2025 I Nr. 28
 
 
 ## Eingangsformel
@@ -6707,6 +6707,17 @@ Gebühren und Auslagen
     *   § 8 Absatz 1 SchBesV
 
     *   59,85
+
+
+*    *   3202
+
+    *   Zulassung von Lehrgängen nach STCW 95 Regel A-VI/1, A-VI/2,
+        A-VI/3 und nach Anlage 1a, Teil 3, Kapitel 11 SchSV
+
+    *   § 3 Absatz 4 SeeBV i. V. m. STCW 95 Regel A-VI/1, A-VI/2, A-VI/3 sowie Anlage 1a, Teil 3, Kapitel 11,
+        Regel 3 SchSV
+
+    *   nach Zeitaufwand
 
 
 *    *   **IV. Besichtigungen, Audits, Inspektionen, Beurteilungen und Planprüfung**

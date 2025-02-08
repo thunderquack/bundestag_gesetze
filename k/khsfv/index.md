@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 2350
 
 Zuletzt geändert durch
-:   Art. 6 G v. 20.12.2022 I 2793
-
-Änderung durch
-:   Art. 4a G v. 5.12.2024 I Nr. 400 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4a G v. 5.12.2024 I Nr. 400
 
 
 ## Eingangsformel

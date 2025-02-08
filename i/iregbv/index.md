@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 4344
 
 Zuletzt geändert durch
-:   Art. 1 V v. 21.10.2024 I Nr. 318
-
-Änderung durch
-:   Art. 11b G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11b G v. 23.10.2024 I Nr. 324
 
 
 ## Eingangsformel

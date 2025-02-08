@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2349
 
-Geändert durch
-:   Art. 491 V v. 31.8.2015 I 1474
-
-Änderung durch
-:   Art. 1 V v. 17.12.2024 I 422 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 17.12.2024 I Nr. 422
 
 [^F1_775826_BJNR234910011]:     Diese Verordnung dient der Umsetzung der Richtlinie 2010/35/EU des Europäischen Parlaments und des Rates vom 16. Juni 2010 über ortsbewegliche Druckgeräte und zur Aufhebung der Richtlinien des Rates 76/767/EWG, 84/525/EWG, 84/526/EWG, 84/527/EWG und 1999/36/EG (ABl. L 165 vom 30.6.2010, S. 1).
 

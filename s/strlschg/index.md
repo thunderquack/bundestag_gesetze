@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 1966
 
 Zuletzt geändert durch
-:   Art. 40 G v. 23.10.2024 I Nr. 323
-
-Änderung durch
-:   Art. 4 G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 23.10.2024 I Nr. 324
 
 
 ## Teil 1 - Allgemeine Vorschriften

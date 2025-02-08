@@ -15,6 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 396
 
+V aufgeh. durch
+:   § 17 Satz 2 V 806-22-1-160 v. 31.1.2025 I Nr. 30 mWv 1.8.2025
+
+Ersetzt durch
+:   V 806-22-1-160 v. 31.1.2025 I Nr. 30 (FloristAusbV 2025)
+
 Zuletzt geändert durch
 :   Art. 2 Abs. 7 G v. 5. 7.2017 I 2234
 

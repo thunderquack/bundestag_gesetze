@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 11.3.2019 I 304;
 
 Zuletzt geändert durch
-:   Art. 3 V v. 28.6.2023 I Nr. 174
-
-Änderung durch
-:   Art. 3 V v. 17.12.2024 I 422 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 17.12.2024 I Nr. 422
 
 
 ## § 1 Geltungsbereich

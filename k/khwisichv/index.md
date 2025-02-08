@@ -17,10 +17,7 @@ Fundstelle
 :   BAnz: AT 08.04.2021 V1
 
 Zuletzt geändert durch
-:   Art. 1 V v. 8.12.2023 I Nr. 356
-
-Änderung durch
-:   Art. 5 G v. 5.12.2024 I Nr. 400 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 5.12.2024 I Nr. 400
 
 
 ## Eingangsformel
@@ -137,8 +134,6 @@ Das Institut für das Entgeltsystem im Krankenhaus übermittelt die Übersicht a
 (4a) Die bis zum 19. März 2022 laufenden Fristen nach § 25 Absatz 1 Satz 1 des Krankenhausfinanzierungsgesetzes werden bis zum 30. Juni 2022 verlängert.
 
 (5) Die Frist nach § 111d Absatz 2 Satz 4 des Fünften Buches Sozialgesetzbuch wird bis zum 15. Juni 2021 verlängert.
-
-(6) (weggefallen)
 
 
 ## § 5 Erlösausgleiche für das Jahr 2021

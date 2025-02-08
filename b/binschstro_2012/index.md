@@ -16,13 +16,10 @@ Fundstelle
 :   BGBl I: 2012, 2 (1666) [Anlageband]
 
 Zuletzt geändert durch
-:   Art. 5 V v. 5.4.2023 II Nr. 105
+:   Art. 2 V v. 18.3.2024 I Nr. 100, Nr. 115
 
 Änderung durch
-:   Art. 2 V v. 18.3.2024 I Nr. 100, Nr. 115 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 V v. 23.7.2024 I Nr. 253 mWv 1.9.2024 noch nicht berücksichtigt
+:   Art. 2 V v. 23.7.2024 I Nr. 253 mWv 1.9.2024 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 5 V v. 18.9.2024 I Nr. 286 mWv 1.10.2024 noch nicht berücksichtigt
@@ -3967,7 +3964,167 @@ Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen Parlaments und
 
 
 *    *
+
+*    *   **Kapitel 28**
+
+
+*    *   **Donau**
+
+
+*    *
     *
+
+*    *   § 28.01
+
+    *   Anwendungsbereich
+
+
+*    *   § 28.02
+
+    *   Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe
+
+
+*    *   § 28.03
+
+    *   Zusammenstellung der Verbände
+
+
+*    *   § 28.04
+
+    *   Fahrgeschwindigkeit
+
+
+*    *   § 28.05
+
+    *   Bergfahrt
+
+
+*    *   § 28.06
+
+    *   Begegnen
+
+
+*    *   § 28.07
+
+    *   Überholen
+
+
+*    *   § 28.08
+
+    *   Wenden
+
+
+*    *   § 28.09
+
+    *   Ankern
+
+
+*    *   § 28.10
+
+    *   Stillliegen
+
+
+*    *   § 28.11
+
+    *   Schifffahrt bei Hochwasser
+
+
+*    *   § 28.12
+
+    *   Schifffahrt bei Eis
+
+
+*    *   § 28.13
+
+    *   Nachtschifffahrt
+
+
+*    *   § 28.14
+
+    *   Einsatz von Trägerschiffsleichtern
+
+
+*    *   § 28.15
+
+    *   Meldepflicht
+
+
+*    *   § 28.16
+
+    *   Höhe der Brücken und Freileitungen
+
+
+*    *   § 28.17
+
+    *   Kennzeichnung der Brücken- und Wehrdurchfahrten
+
+
+*    *   § 28.18
+
+    *   Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
+
+
+*    *   § 28.19
+
+    *   Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+
+
+*    *   § 28.20
+
+    *   Segeln
+
+
+*    *   § 28.21
+
+    *   Bezeichnung der Fahrzeuge
+
+
+*    *   § 28.22
+
+    *   Regelungen über den Verkehr
+
+
+*    *   § 28.23
+
+    *   Regelungen zum Sprechfunk
+
+
+*    *   § 28.24
+
+    *   Sonderbestimmungen für Kleinfahrzeuge
+
+
+*    *   § 28.25
+
+    *   Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+
+
+*    *   § 28.26
+
+    *   Schutz der Kanäle und Anlagen
+
+
+*    *   § 28.27
+
+    *   Verkehrsbeschränkungen der Schifffahrt
+
+
+*    *   § 28.28
+
+    *   Benutzung der Wasserstraße
+
+
+*    *   § 28.29
+
+    *   Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
+
+
+*    *   § 28.30
+
+    *   Übergangsbestimmungen
+
+
+*    *
     *
 
 *    *   **Dritter Teil**
@@ -3980,7 +4137,7 @@ Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen Parlaments und
     *
     *
 
-*    *   **Kapitel 28**
+*    *   **Kapitel 29**
 
 
 *    *   Gewässerschutz und Abfallbeseitigung
@@ -3991,27 +4148,27 @@ Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen Parlaments und
     *
     *
 
-*    *   28.01
+*    *   29.01
 
     *   Behandlung von Schiffsabfällen
 
 
-*    *   28.02
+*    *   29.02
 
     *   Allgemeine Sorgfaltspflicht
 
 
-*    *   28.03
+*    *   29.03
 
     *   Sorgfaltspflicht beim Bunkern
 
 
-*    *   28.04
+*    *   29.04
 
     *   Sorgfaltspflicht beim Bunkern von Flüssigerdgas (LNG)
 
 
-*    *   28.05
+*    *   29.05
 
     *   Anstrich und Außenreinigung der Fahrzeuge
 
@@ -4083,7 +4240,7 @@ Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen Parlaments und
 
 
     An mehreren Stellen dieser Verordnung findet sich der Vermerk „ohne Inhalt“ oder „keine besonderen Vorschriften“, da die Nummerierung der Paragrafen und Anlagen im Hinblick auf die europäische Vereinheitlichung der Schifffahrtspolizeiverordnungen einer Entschließung der Wirtschaftskommission der Vereinten Nationen für Europa (Arbeitsgruppe Binnenschifffahrt Entschließung Nummer 24 vom 15. November 1985 in der vierten revidierten Fassung) folgt bzw. die Sonderkapitel eine einheitliche Gliederungsstruktur enthalten sollen.
-[^BJNR000210012BJNE000100000_01_BJNR000210012BJNE000104119]: 
+[^BJNR000210012BJNE000100000_01_BJNR000210012BJNE000105119]: 
 
 ## Erster Teil - Gemeinsame Bestimmungen für alle Binnenschifffahrtsstraßen
 
@@ -4197,136 +4354,141 @@ In dieser Verordnung gelten als:
     ein Fahrgastschiff ohne Kabinen für die Übernachtung von Fahrgästen;
 
 
-18. „Fahrgastboot“:
+18. „Kabinenschiff“
+
+    ein Fahrgastschiff mit Kabinen für die Übernachtung von Fahrgästen;
+
+
+19. „Fahrgastboot“:
 
     ein nach Anhang II Kapitel 7 der Binnenschiffsuntersuchungsordnung zugelassenes und eingerichtetes Fahrzeug zur Beförderung von Fahrgästen;
 
 
-19. „Personenbarkasse“:
+20. „Personenbarkasse“:
 
     ein nach Anhang II Kapitel 5 der Binnenschiffsuntersuchungsordnung zugelassenes Fahrzeug zur Beförderung von Fahrgästen;
 
 
-20. „Sportfahrzeug”:
+21. „Sportfahrzeug”:
 
     ein Fahrzeug, das für Sport- oder Erholungszwecke verwendet wird und kein Fahrgastschiff oder Fahrgastboot ist;
 
 
-21. „Vorspann”:
+22. „Vorspann”:
 
     ein Fahrzeug mit Maschinenantrieb, das an der Spitze eines Fahrzeugs oder Verbandes Schleppunterstützung leistet;
 
 
-22. „stillliegend”:
+23. „stillliegend”:
 
     ein Fahrzeug, ein Schwimmkörper oder eine schwimmende Anlage, das, der oder die unmittelbar oder mittelbar vor Anker liegt oder am Ufer festgemacht ist;
 
 
-23. „fahrend“ oder „in Fahrt befindlich“:
+24. „fahrend“ oder „in Fahrt befindlich“:
 
     ein Fahrzeug, ein Schwimmkörper oder eine schwimmende Anlage, das, der oder die weder unmittelbar noch mittelbar ankert, unmittelbar noch mittelbar am Ufer festgemacht ist oder festgefahren ist;
 
 
-24. „Ankern“:
+25. „Ankern“:
 
     das Halten eines Fahrzeugs auf dem Wasser in Position mit Hilfe eines Gegenstandes, der an einem Seil oder einer Kette befestigt ist und durch sein Gewicht oder seine Form am Grund haftet;
 
 
-25. „Länge/Breite eines Fahrzeugs, eines Verbandes“:
+26. „Länge/Breite eines Fahrzeugs, eines Verbandes“:
 
     die Länge oder Breite über alles im Sinne des Artikels 1.01 Nummer 4.17 und 4.20 ES-TRIN;
 
 
-26. „Radarfahrt“:
+27. „Radarfahrt“:
 
     eine Fahrt bei unsichtigem Wetter mit Radar;
 
 
-27. „unsichtiges Wetter“:
+28. „unsichtiges Wetter“:
 
     ein Zustand, bei dem die Sicht durch Nebel, Schneefall, heftige Regengüsse oder andere ähnliche Ursachen eingeschränkt ist;
 
 
-28. „Nacht“:
+29. „Nacht“:
 
     der Zeitraum zwischen Sonnenuntergang und Sonnenaufgang;
 
 
-29. „Tag“:
+30. „Tag“:
 
     der Zeitraum zwischen Sonnenaufgang und Sonnenuntergang;
 
 
-30. „weißes Licht“, „rotes Licht“, „grünes Licht“, „gelbes Licht“ und „blaues Licht“:
+31. „weißes Licht“, „rotes Licht“, „grünes Licht“, „gelbes Licht“ und „blaues Licht“:
 
-[^bjnr000210012bjne000200000_1_BJNR000210012BJNE000209119]
+[^bjnr000210012bjne000200000_1_BJNR000210012BJNE000210119]
     ein Licht, dessen Farbe den Anforderungen der Tabelle 2 der Norm DIN EN 14744:2006-01 entspricht
     ;
 
 
-31. „starkes Licht“, „helles Licht“ und „gewöhnliches Licht“:
+32. „starkes Licht“, „helles Licht“ und „gewöhnliches Licht“:
 
     ein Licht, dessen Stärke den Anforderungen der Tabelle 1 der Norm DIN EN 14744:2006-01 entspricht
     ;
 
 
-32. „Funkellicht“:
+33. „Funkellicht“:
 
     ein Licht, dessen Anzahl regelmäßiger Lichterscheinungen der Anforderung der Zeile 1 der Tabelle 3 der Norm DIN EN 14744:2006-01 entspricht
     ;
 
 
-33. „kurzer Ton“:
+34. „kurzer Ton“:
 
     ein Ton von etwa einer Sekunde Dauer;
 
 
-34. „langer Ton“:
+35. „langer Ton“:
 
     ein Ton von etwa vier Sekunden Dauer, wobei die Pause zwischen zwei aufeinanderfolgenden Tönen etwa eine Sekunde beträgt;
 
 
-35. „Folge sehr kurzer Töne“:
+36. „Folge sehr kurzer Töne“:
 
     eine Folge von mindestens sechs Tönen von je etwa einer viertel Sekunde Dauer, wobei die Pausen zwischen den aufeinanderfolgenden Tönen ebenfalls etwa eine viertel Sekunde betragen;
 
 
-36. „Fahrwasser“:
+37. „Fahrwasser“:
 
     der Teil der Wasserstraße, der den örtlichen Umständen nach vom durchgehenden Schiffsverkehr benutzt wird;
 
 
-37. „Fahrrinne“:
+38. „Fahrrinne“:
 
     der Teil des Fahrwassers, in dem für den durchgehenden Schiffsverkehr bestimmte Breiten und Tiefen vorhanden sind, deren Erhaltung im Rahmen des Möglichen und Zumutbaren angestrebt wird;
 
 
-38. „rechte Seite/linke Seite“:
+39. „rechte Seite/linke Seite“:
 
     die „rechte Seite“ oder „linke Seite“ des Fahrwassers/der Fahrrinne, bezogen auf die Richtung „Talfahrt“;
 
 
-39. „zu Berg“ oder „Bergfahrt“:
+40. „zu Berg“ oder „Bergfahrt“:
 
     auf einem Fluss die Richtung zur Quelle, auf einem Schifffahrtskanal die Richtung, die im zweiten Teil dieser Verordnung für die einzelnen Binnenschifffahrtsstraßen als „Bergfahrt“ bezeichnet ist, ferner die Fahrt von der Hafeneinfahrt in den Hafen;
 
 
-40. „zu Tal“ oder „Talfahrt“:
+41. „zu Tal“ oder „Talfahrt“:
 
     die der Richtung „zu Berg“ oder der „Bergfahrt“ entgegengesetzte Richtung;
 
 
-41. „Stoffnummer“:
+42. „Stoffnummer“:
 
     Nummer zur Kennzeichnung von Stoffen, denen noch keine UN-Nummer zugeordnet wurde oder die nicht einer Sammelbezeichnung mit UN-Nummer zugeordnet werden können, entsprechend ADN in der jeweils geltenden Fassung. Diese vierstellige Zahl beginnt mit der Ziffer 9;
 
 
-42. „UN-Nummer“:
+43. „UN-Nummer“:
 
     vierstellige Zahl als Nummer zur Kennzeichnung von Stoffen oder Gegenständen entsprechend ADN in der jeweils geltenden Fassung;
 
 
-43. „Anlage“:
+44. „Anlage“:
 
     bundeseigene
 
@@ -4339,87 +4501,87 @@ In dieser Verordnung gelten als:
 
 
 
-44. „Kilometerangabe (km-Angabe)“:
+45. „Kilometerangabe (km-Angabe)“:
 
     bei einer Streckenangabe schließt der Kilometerendpunkt die jeweilige Kilometerangabe ein und der Kilometeranfangspunkt die jeweilige Kilometerangabe aus;
 
 
-45. „diensttuende Mindestbesatzung“:
+46. „diensttuende Mindestbesatzung“:
 
     die Besatzung nach Teil 3 der Binnenschiffspersonalverordnung oder nach den §§ 19.02 bis 19.10 der Rheinschiffspersonalverordnung, die sich nicht in der Ruhezeit befindet;
 
 
-46. „Inland AIS Gerät“:
+47. „Inland AIS Gerät“:
 
     ein Gerät im Sinne der Durchführungsverordnung (EU) 2019/838 der Kommission vom 20. Februar 2019 über die technischen Spezifikationen für Schiffsverfolgungs- und -aufspürungssysteme und zur Aufhebung der Verordnung (EG) Nr. 415/2007 (ABl. L 138 vom 24.5.2019, S. 31), die in Teil II „Standard für Verfolgungs- und Aufspürungssysteme in der Binnenschifffahrt“ des ES-RIS wiedergegeben ist, das auf einem Fahrzeug eingebaut ist und genutzt wird;
 
 
-47. „Inland AIS Gerät“:
+48. „Inland AIS Gerät“:
 
     ein Gerät zur Darstellung von elektronischen Binnenschifffahrtskarten, das in den zwei Betriebsarten Informationsmodus oder Navigationsmodus betrieben werden kann;
 
 
-48. „ADN“:
+49. „ADN“:
 
     die dem Europäischen Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen (ADN) vom 26. Mai 2000 in der Anlage beigefügte Verordnung (BGBl. 2007 II S. 1906, 1908 – Anlageband), die zuletzt durch Artikel 1 der Verordnung vom 17. Dezember 2010 (BGBl. 2010 II S. 1550) geändert worden ist, in der jeweils geltenden Fassung;
 
 
-49. „Binnenschiffsuntersuchungsordnung":
+50. „Binnenschiffsuntersuchungsordnung":
 
     Verordnung über die Schiffssicherheit in der Binnenschifffahrt vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden und anzuwendenden Fassung;
 
 
-50. „Binnenschiffspersonalverordnung“:
+51. „Binnenschiffspersonalverordnung“:
 
     Binnenschiffspersonalverordnung vom 26. November 2021 (BGBl. I S. 4982) in der jeweils geltenden und anzuwendenden Fassung;
 
 
-51. „Rheinschiffspersonalverordnung“:
+52. „Rheinschiffspersonalverordnung“:
 
     Anlage 1 zu § 1 Absatz 2 Nummer 1 der Rheinschiffspersonaleinführungsverordnung vom 5. April 2023 (BGBl. 2023 II Nr. 105, Anlageband) in der jeweils geltenden und anzuwendenden Fassung;
 
 
-52. „Sportbootführerscheinverordnung“:
+53. „Sportbootführerscheinverordnung“:
 
     Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I S. 1016, 4043), die zuletzt durch Artikel 11 der Verordnung vom 31. Oktober 2019 (BGBl. I S. 1518) geändert worden ist, in der jeweils geltenden Fassung;
 
 
-53. „Binnenschifffahrt-Sportbootvermietungsverordnung“:
+54. „Binnenschifffahrt-Sportbootvermietungsverordnung“:
 
     Binnenschifffahrt-Sportbootvermietungsverordnung vom 18. April 2000 (BGBl. I S. 572), die zuletzt durch Artikel 4 der Verordnung vom 31. Oktober 2019 (BGBl. I S. 1518) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung;
 
 
-54. „Regionale Vereinbarung über den Binnenschifffahrtsfunk“:
+55. „Regionale Vereinbarung über den Binnenschifffahrtsfunk“:
 
     Regionale Vereinbarung vom 6. April 2000 über den Binnenschifffahrtsfunk (BGBl. 2000 II S. 1213, 1214) in der jeweils geltenden Fassung;
 
 
-55. „Binnenschifffahrt-Sprechfunkverordnung“:
+56. „Binnenschifffahrt-Sprechfunkverordnung“:
 
     Verordnung über den Betrieb von Sprechfunkanlagen auf Ultrakurzwellen in der Binnenschifffahrt und den Erwerb des UKW-Sprechfunkzeugnisses für den Binnenschifffahrtsfunk vom 18. Dezember 2002 (BGBl. I S. 4569; 2003 I S. 130), die zuletzt durch § 38 Absatz 6 der Verordnung vom 16. Dezember 2011 (BGBl. 2012 I S. 2) geändert worden ist, in der jeweils geltenden Fassung;
 
 
-56. „ES-TRIN“:
+57. „ES-TRIN“:
 
     Europäischer Standard der technischen Vorschriften für Binnenschiffe in der Ausgabe 2019/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 9. Dezember 2019, BAnz AT 09.12.2019 B2). Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Mitgliedstaat der Europäischen Union oder der Zentralkommission für die Rheinschifffahrt zu verstehen;
 
 
-57. „ES-RIS“:
+58. „ES-RIS“:
 
     Europäischer Standard für Binnenschiffsinformationsdienste in der Ausgabe 2021/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 2. Juni 2021 (BAnz AT 01.09.2021 B4)); dabei ist unter Mitgliedstaat ein Mitgliedstaat der Europäischen Union oder der Zentralkommission für die Rheinschifffahrt zu verstehen;
 
 
-58. „LNG-System“:
+59. „LNG-System“:
 
     sämtliche Teile des Fahrzeugs, die Flüssigerdgas (LNG) oder Erdgas enthalten können, insbesondere Motoren, Brennstofftanks und die Schlauch- und Rohrleitungen für das Bunkern;
 
 
-59. „Bunkerbereich“:
+60. „Bunkerbereich“:
 
     der Bereich in einem Radius von 20 Metern um den Bunkerverteiler;
 
 
-60. „Flüssigerdgas (LNG)“:
+61. „Flüssigerdgas (LNG)“:
 
     Erdgas, das durch Abkühlung auf eine Temperatur von –161 °C verflüssigt wurde.
 
@@ -4427,7 +4589,7 @@ In dieser Verordnung gelten als:
 
 
     Die Norm ist bei der Beuth-Verlag GmbH erschienen und beim Deutschen Patent- und Markenamt in München archivmäßig gesichert.
-[^bjnr000210012bjne000200000_1_BJNR000210012BJNE000209119]: 
+[^bjnr000210012bjne000200000_1_BJNR000210012BJNE000210119]: 
 
 #### § 1.02 Schiffsführer
 
@@ -5795,7 +5957,13 @@ Bezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb
 
 
 
-3.  Die Nummern 1 und 2 gelten nicht für ein Kleinfahrzeug oder für eine Fähre; für ein Kleinfahrzeug gilt § 3.13, für eine Fähre § 3.16.
+3.  Das Fahrzeug mit Maschinenantrieb muss die Lichter nach Nummer 1 und 2 auch dann führen, wenn ihm bei Nacht vorübergehend auf kurzer Strecke ein Vorspann vorausfährt; der Vorspann muss die Lichter nach § 3.09 Nummer 1 Buchstabe a Satz 1 führen.
+
+
+4.  Das Fahrzeug mit Maschinenantrieb muss die Bezeichnung nach § 3.09 Nummer 3 Satz 1 Buchstabe b führen, wenn ihm bei Tag vorübergehend auf einer kurzen Strecke ein Vorspann vorausfährt; der Vorspann muss die Bezeichnung nach § 3.09 Nummer 1 Buchstabe b Satz 1 führen.
+
+
+5.  Die Nummern 1 bis 4 gelten nicht für ein Kleinfahrzeug oder für eine Fähre; für ein Kleinfahrzeug gilt § 3.13, für eine Fähre § 3.16.
 
 
 
@@ -5830,7 +5998,7 @@ Bezeichnung der Schleppverbände in Fahrt
 
 
 
-    *   Das Fahrzeug muss diese Lichter auch dann beibehalten, wenn ihm vorübergehend auf einer kurzen Strecke ein Vorspann voranfährt; der Vorspann muss die Lichter ebenfalls führen.
+    *   Das Fahrzeug muss diese Lichter auch dann führen, wenn ihm vorübergehend auf kurzer Strecke ein Vorspann vorausfährt; der Vorspann muss die Lichter führen, die das geschleppte Fahrzeug führen muss.
 
 
     b)  bei Tag:
@@ -5842,7 +6010,7 @@ Bezeichnung der Schleppverbände in Fahrt
 
             *                ![bgbl1_2019_j1518-1_0020.jpg](bgbl1_2019_j1518-1_0020.jpg)
 
-        *            *   Das Fahrzeug muss den Zylinder auch dann beibehalten, wenn ihm vorübergehend auf einer kurzen Strecke ein Vorspann voran fährt; der Vorspann muss den Zylinder ebenfalls führen.
+        *            *   Das Fahrzeug muss den Zylinder auch dann führen, wenn ihm vorübergehend auf einer kurzen Strecke ein Vorspann vorausfährt; der Vorspann muss den Zylinder ebenfalls führen.
 
 
 
@@ -5883,8 +6051,7 @@ Bezeichnung der Schleppverbände in Fahrt
 
     a)  bei Nacht:
 
-        *            *   ein weißes helles, von allen Seiten sichtbares Licht; dieses muss
-                nach hinten und kann nach den Seiten durch eine Mattglasscheibe abgeblendet werden;
+        *            *   ein weißes helles, von allen Seiten sichtbares Licht;
 
             *                ![bgbl1_2012_j0001_0008_ab1.jpg](bgbl1_2012_j0001_0008_ab1.jpg)
 
@@ -6090,7 +6257,13 @@ Bezeichnung der Schubverbände in Fahrt
 
 
 
-2.  Nummer 1 gilt nicht für ein Kleinfahrzeug, das nur Kleinfahrzeuge längsseits gekuppelt führt, und nicht für ein längsseits gekuppeltes Kleinfahrzeug. Für derartige Kleinfahrzeuge gilt § 3.13 Nummer 2 und 3.
+2.  Die gekuppelten Fahrzeuge müssen die Lichter nach Nummer 1 auch dann führen, wenn ihnen vorübergehend auf kurzer Strecke ein Vorspann vorausfährt; der Vorspann muss die Lichter nach § 3.09 Nummer 1 Buchstabe a Satz 1 führen.
+
+
+3.  Jedes gekuppelte Fahrzeug muss die Bezeichnung nach § 3.09 Nummer 3 Satz 1 Buchstabe b führen, wenn ihm bei Tag vorübergehend auf einer kurzen Strecke ein Vorspann vorausfährt; der Vorspann muss die Bezeichnung nach § 3.09 Nummer 1 Buchstabe b Satz 1 führen.
+
+
+4.  Nummer 1, auch in Verbindung mit Nummer 2, und Nummer 3 gelten nicht für ein Kleinfahrzeug, das nur Kleinfahrzeuge längsseits gekuppelt führt, und nicht für ein längsseits gekuppeltes Kleinfahrzeug. Für ein Kleinfahrzeug nach Satz 1 gilt § 3.13 Nummer 2 und 3.
 
 
 
@@ -6752,7 +6925,7 @@ stillliegender Fischereifahrzeuge und der Netze oder Ausleger
 
     b)  bei Tag:
 
-        *            *   durch gelbe Döpper in ausreichender Zahl, um ihre Lage kenntlich
+        *            *   durch gelbe Döpper oder gelbe Flaggen in ausreichender Zahl, um ihre Lage kenntlich
                 zu machen.
 
             *                ![bgbl1_2012_j0001_0067_ab1.jpg](bgbl1_2012_j0001_0067_ab1.jpg)
@@ -7234,7 +7407,7 @@ Hinweis auf das Verbot des Stillliegens nebeneinander
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils sicherzustellen, dass in den Fällen des § 3.01 Nummer 2 die für die Nacht vorgeschriebenen Lichter zusätzlich auch bei Tag gesetzt werden.
 
 
-2.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils sicherzustellen, dass auf dem Fahrzeug, dem Verband, dem Schwimmkörper oder der schwimmenden Anlage die in § 3.08 Nummer 1, auch in Verbindung mit Nummer 2 und mit § 3.28a Nummer 1, § 3.11 Nummer 1, § 3.12 Nummer 1, § 3.15 Satz 1, § 3.17, § 3.18 Nummer 1 Satz 1 und § 3.19 jeweils vorgeschriebene Bezeichnung während der Fahrt geführt wird.
+2.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils sicherzustellen, dass auf dem Fahrzeug, dem Verband, dem Vorspann, dem Schwimmkörper oder der schwimmenden Anlage die in § 3.08 Nummer 1, auch in Verbindung mit Nummer 2 und 3, und Nummer 4 und mit § 3.28a Nummer 1, § 3.11 Nummer 1, auch in Verbindung mit Nummer 2, und Nummer 3, § 3.12 Nummer 1, § 3.15 Satz 1, §§ 3.17, 3.18 Nummer 1 Satz 1 und § 3.19 jeweils vorgeschriebene Bezeichnung während der Fahrt geführt wird.
 
 
 3.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils sicherzustellen, dass auf dem Fahrzeug, dem Verband, dem Vorspann, dem Schwimmkörper oder der schwimmenden Anlage in den in § 3.09 Nummer 1 bis 4, § 3.10 Nummer 1 bis 4, § 3.13 Nummer 1 bis 6, § 3.14 Nummer 1 bis 7, jeweils auch in Verbindung mit Nummer 8, und § 3.16 Nummer 1 bis 3 genannten Fällen die dort jeweils vorgeschriebene Bezeichnung während der Fahrt geführt wird.
@@ -7487,13 +7660,13 @@ Hinweis auf das Verbot des Stillliegens nebeneinander
 
 
 
-*   Ein Kleinfahrzeug muss außerdem mit einer in gutem Betriebszustand befindlichen Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet sein. Unbeschadet des § 1.09 Nummer 3 kann jedoch am Tag bei guter Sicht abweichend von Satz 1 Buchstabe b Radar zu Ausbildungszwecken verwendet werden, auch wenn sich eine Person nach Satz 1 Buchstabe b nicht an Bord befindet.
+*   Ein Kleinfahrzeug muss außerdem mit einer in gutem Betriebszustand befindlichen Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet sein. Unbeschadet des § 1.09 Nummer 3 kann jedoch am Tag bei guter Sicht abweichend von Satz 1 Buchstabe b Radar zu Ausbildungszwecken verwendet werden, auch wenn sich eine Person nach Satz 1 Buchstabe b nicht an Bord befindet. Wenn eine Zielverfolgung gleichzeitig mit Radar und AIS erfolgt, ist die Radarinformation der Navigation als die maßgebende Information zu Grunde zu legen.
 
 
 2.  Bei einem Schubverband oder gekuppelten Fahrzeugen gilt Nummer 1 nur für das Fahrzeug, auf dem sich der Führer des Verbandes befindet.
 
 
-3.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils sicherzustellen, dass auf dem Fahrzeug Radar nur nach den in Nummer 1 Satz 1, auch in Verbindung mit Satz 2, genannten Anforderungen benutzt wird.
+3.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils sicherzustellen, dass auf dem Fahrzeug Radar nur nach den in Nummer 1 Satz 1, auch in Verbindung mit Satz 2 und 4, genannten Anforderungen genutzt wird.
 
 
 4.  Der Eigentümer und der Ausrüster dürfen jeweils die Radarfahrt eines Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn
@@ -8453,7 +8626,7 @@ Es ist verboten, in die Abstände zwischen den Teilen eines Schleppverbandes hin
 ##### § 6.17 Fahrt auf gleicher Höhe; Verbot der Annäherung an Fahrzeuge
 
 
-1.  Fahrzeuge dürfen nicht auf gleicher Höhe fahren. Kleinfahrzeuge dürfen auf gleicher Höhe fahren, wenn es der verfügbare Raum ohne Störung oder Gefährdung der Schifffahrt gestattet.
+1.  Fahrzeuge dürfen nur auf gleicher Höhe fahren, wenn es der verfügbare Raum ohne Störung oder Gefährdung der Schifffahrt gestattet.
 
 
 2.  Außer beim Überholen, beim Begegnen oder Vorbeifahren ist es verboten, näher als 50,00 m an ein Fahrzeug oder einen Verband heranzufahren, das oder der eine Bezeichnung nach § 3.14 Nummer 2 oder 3 führt.
@@ -8812,8 +8985,8 @@ Es ist verboten, an einem der in § 3.25 genannten Fahrzeuge an der Seite vorbei
 
 *    *
         2.  Bei der Annäherung an eine bewegliche Brücke muss ein Fahrzeug
-            seine Fahrt verlangsamen. Es muss, wenn es das Öffnen der Brücke
-            verlangt, „zwei lange Töne“ geben. Bis zur Freigabe der Durchfahrt
+            seine Fahrt verlangsamen. Es muss, wenn es das Öffnen der Brücke verlangt, „zwei lange Töne“ geben oder dies der Brückenaufsicht über Funk mitteilen.
+            Bis zur Freigabe der Durchfahrt
             muss es sich mindestens 50,00 m von der Brücke entfernt halten,
             sofern nicht das Tafelzeichen B.5 (Anlage 7) einen anderen Abstand
             angibt. Kann oder will ein Fahrzeug die Brücke nicht durchfahren,
@@ -10303,7 +10476,7 @@ Der Schiffsführer eines anderen Fahrzeugs als ein Fahrgastschiff darf das Fahrz
     b)  die Anlegestelle sich in einem ordnungsgemäßen Zustand befindet,
 
 
-    c)  die Anlegestelle bei Dunkelheit ausreichend beleuchtet ist.
+    c)  die Anlegestelle bei Dunkelheit von Land oder vom Fahrgastschiff aus ausreichend beleuchtet ist.
 
 
 
@@ -11171,26 +11344,15 @@ Die Vorschriften dieses Kapitels gelten auf dem **Main**              (Ma) von d
     *        *   Binnenschifffahrtsstraße
 
         *   Länge
+            m
 
         *   Breite
-
-
-    *        *   m
-
-        *   m
-
-
+            m
 
 
     *        *   1.1
 
-        *   km 0,00 (Mainmündung) bis km 387,40
-
-        *
-        *
-
-    *        *
-        *   (unterhalb Eisenbahnbrücke bei Hallstadt)
+        *   km 0,00 (Mainmündung) bis km 387,40 (unterhalb Eisenbahnbrücke bei Hallstadt)
 
         *
         *
@@ -11209,40 +11371,53 @@ Die Vorschriften dieses Kapitels gelten auf dem **Main**              (Ma) von d
         *
         *
 
-    *        *
-        *
-        *
-        *
-
     *        *   1.2
 
-        *   km 0,00 bis km 37,20 (Osthafen Frankfurt)
+        *   km 0,00 (Mainmündung) bis km 1,12
 
         *
         *
 
     *        *
-        *   a) Fahrzeug
+        *   a) Fahrzeug
 
         *   135,00
 
-        *   14,00
+        *   25,00
 
 
     *        *
-        *   b) Verband
+        *   b) Verband
 
         *   190,00
 
-        *   14,00
+        *   25,00
+
+
+    *        *   1.3
+
+        *   km 1,12 bis km 37,20 (Osthafen Frankfurt)
+
+        *
+        *
+
+    *        *
+        *   a) Fahrzeug
+
+        *   135,00
+
+        *   14,20
 
 
     *        *
-        *
-        *
-        *
+        *   b) Verband
 
-    *        *   1.3
+        *   190,00
+
+        *   14,20
+
+
+    *        *   1.4
 
         *   km 37,20 bis km 52,00 (Unterwasser Schleuse Mühlheim)
 
@@ -11250,7 +11425,7 @@ Die Vorschriften dieses Kapitels gelten auf dem **Main**              (Ma) von d
         *
 
     *        *
-        *   a) Fahrzeug
+        *   a) Fahrzeug
 
         *   135,00
 
@@ -11258,19 +11433,14 @@ Die Vorschriften dieses Kapitels gelten auf dem **Main**              (Ma) von d
 
 
     *        *
-        *   b) Verband
+        *   b) Verband
 
         *   190,00
 
         *   12,20
 
 
-    *        *
-        *
-        *
-        *
-
-    *        *   1.4
+    *        *   1.5
 
         *   km 52,00 bis km 84,00 (Hafen Aschaffenburg)
 
@@ -11278,7 +11448,7 @@ Die Vorschriften dieses Kapitels gelten auf dem **Main**              (Ma) von d
         *
 
     *        *
-        *   a) Fahrzeug
+        *   a) Fahrzeug
 
         *   135,00
 
@@ -11286,59 +11456,31 @@ Die Vorschriften dieses Kapitels gelten auf dem **Main**              (Ma) von d
 
 
     *        *
-        *   b) Verband
+        *   b) Verband
 
         *   190,00
 
         *   11,45
 
 
-    *        *   1.5
-
-        *   km 84,00 bis km 174,20 (Unterwasser Schleuse Lengfurt)
-
-        *
-        *
-
-    *        *
-        *   Fahrzeug/Verband
-
-        *   90,00
-
-        *   11,45
-
-
-    *        *
-        *   – die zulässige Länge darf bei einem Fahrzeug auf bis zu 110,00 m und bei einem Verband auf bis zu 190,00 m erhöht werden, wenn das Fahrzeug und der Verband mit einer aktiven Bugsteuereinrichtung – bei einem Verband an der Spitze des Verbandes – und einer Sprechverbindung zwischen Steuerstand und Spitze des Fahrzeugs oder Verbandes ausgerüstet ist –
-
-
-    *        *
-        *
-        *
-        *
-
     *        *   1.6
 
-        *   km 174,20 bis km 384,07 (Abzweigung Main-Donau-Kanal)
+        *   km 84,00 bis km 387,07 (Abzweigung Main-Donau-Kanal)
 
         *
         *
 
     *        *
-        *   Fahrzeug/Verband
+        *   a) Fahrzeug/Verband
 
         *   90,00
 
-        *   11,45
-
-
-    *        *
-        *   – die zulässige Länge darf auf bis zu 110,00 m erhöht werden, wenn das Fahrzeug und der Verband mit einer aktiven Bugsteuereinrichtung – bei einem Verband an der Spitze des Verbandes – und einer Sprechverbindung zwischen Steuerstand und Spitze des Fahrzeugs oder Verbandes ausgerüstet ist –.
+        *   11,45.
 
 
 
 
-
+    Im Fall des Satzes 1 Nummer 1.6 darf die zulässige Länge bei einem Fahrzeug auf bis zu 135,00 m und bei einem Verband auf bis zu 190,00 m erhöht werden, wenn das Fahrzeug oder der Verband mit einer aktiven Bugsteuereinrichtung – bei einem Verband an der Spitze des Verbandes – und einer Sprechverbindung zwischen Steuerstand und Spitze des Fahrzeugs oder Verbandes ausgerüstet sind. Die aktive Bugsteuereinrichtung nach Satz 2 muss bei einem Fahrzeug und einem Verband mit einer Länge von mehr als 110,00 m bis zu einer Länge von 135,00 m mindestens 27 kN Pfahlzugkraft leisten und bei einem Verband mit einer Länge von mehr als 135,00 m mindestens 36 kN Pfahlzugkraft leisten. Die Ausrüstung nach Satz 2 ist nicht erforderlich, sofern ein Fahrzeug oder ein Schubverband mit einer Länge von bis zu 110,00 m mit zwei Hauptantriebsmotoren mit jeweils 350 kW Antriebsleistung und zwei Hauptpropellern ausgerüstet ist. Die Ausrüstung nach Satz 2 ist ferner nicht erforderlich, sofern ein Fahrzeug oder ein Schubverband mit einer Länge von mehr als 110 m bis zu einer Länge von 120,00 m mit zwei Hauptantriebsmotoren mit jeweils 400 kW Antriebsleistung und zwei Hauptpropellern ausgerüstet ist.
 
 
 2.  Als Verband im Sinne der Nummer 1 gelten nur ein Schubverband und gekuppelte Fahrzeuge.
@@ -11351,10 +11493,29 @@ Die Vorschriften dieses Kapitels gelten auf dem **Main**              (Ma) von d
 
     b)  beträgt
 
-        aa) von der Schleusengruppe Kostheim bis zur Schleuse Lengfurt mindestens 2,90 m,
+        aa)
+            *                *   von der Schleusengruppe Kostheim bis zur Schleuse Lengfurt mindestens
+
+                *   2,90 m,
 
 
-        bb) von der Schleuse Lengfurt bis zur Abzweigung des Main-Donau-Kanals 2,50 m.
+
+
+
+        bb)
+            *                *   von der Schleuse Lengfurt bis zur Schleuse Limbach
+
+                *   2,50 m,
+
+
+
+
+
+        cc)
+            *                *   von der Schleuse Limbach bis zur Abzweigung des Main-Donau-Kanals
+
+                *   2,90 m.
+
 
 
 
@@ -11367,25 +11528,40 @@ Die Vorschriften dieses Kapitels gelten auf dem **Main**              (Ma) von d
 
 4.  Die Fahrrinnenbreite beträgt
 
-    *        *   a)
+    a)
+        *            *   von der Mainmündung bis zum Hafen Aschaffenburg
 
-        *   von der Mainmündung bis Hafen Aschaffenburg
-
-        *   50,00 m,
-
-
-    *        *   b)
-
-        *   vom Hafen Aschaffenburg bis zur Schleuse Lengfurt
-
-        *   40,00 m,
+            *   50,00 m,
 
 
-    *        *   c)
 
-        *   von der Schleuse Lengfurt bis zur Abzweigung des Main-Donau-Kanals
 
-        *   36,00 m.
+
+    b)
+        *            *   vom Hafen Aschaffenburg bis zur Schleuse Lengfurt
+
+            *   40,00 m,
+
+
+
+
+
+    c)
+        *            *   von der Schleuse Lengfurt bis zur Schleuse Limbach
+
+            *   36,00 m,
+
+
+
+
+
+    d)
+        *            *   von der Schleuse Limbach bis zur Abzweigung des Main-Donau-Kanals
+
+            *   40,00 m.
+
+
+
 
 
 
@@ -11400,7 +11576,10 @@ Die Vorschriften dieses Kapitels gelten auf dem **Main**              (Ma) von d
 1.  Das Fahren mit einem Schleppverband ist verboten. Satz 1 gilt nicht für das Schleppen von Kleinfahrzeugen.
 
 
-2.  Die zuständige Behörde kann Ausnahmen von Nummer 1 Satz 1 zulassen.
+2.  Der Tiefgang eines schiebenden Tankmotorschiffes im Sinne des Artikels 1.01 Nummer 1.6 ES-TRIN oder eines schiebenden Gütermotorschiffes im Sinne des Artikels 1.01 Nummer 1.7 ES-TRIN darf nicht geringer sein als der Tiefgang des geschobenen Fahrzeugs.
+
+
+3.  Die zuständige Behörde kann Ausnahmen von Nummer 1 Satz 1 zulassen.
 
 
 
@@ -11731,20 +11910,34 @@ Durchfahren der Brücken, Sperrwerke,
 1.  Ein Kleinfahrzeug darf die Bootsschleusen und Bootsumsetzanlagen nicht bei Nacht benutzen.
 
 
-2.  Ein Kleinfahrzeug darf die Bootsschleusen von Kostheim bis unterhalb von Kleinostheim nur bei einem Wasserstand von weniger als 230 cm am Richtpegel Frankfurt-Osthafen, von Kleinostheim bis unterhalb von Steinbach nur bei einem Wasserstand von weniger als 230 cm am Richtpegel Steinbach, von Steinbach bis Limbach nur bei einem Wasserstand von weniger als 230 cm am Richtpegel Trunstadt benutzen.
+2.  Ein Kleinfahrzeug darf die Bootsschleusen
+
+    a)  von Kostheim bis unterhalb von Kleinostheim nur bei einem Wasserstand von weniger als 230 cm am Richtpegel Frankfurt-Osthafen benutzen,
 
 
-3.  An einer Schleuse, die durch ein Mittelhaupt in eine größere und eine nach oberstrom liegende kleinere Kammer unterteilt ist, wird durch folgende Signallichter angezeigt, welche Teilkammer für die Schleusung vorgesehen ist:
-
-    a)  zwei grüne Lichter nebeneinander und zwei weiße Lichter nebeneinander über den grünen Lichtern: Einfahrt frei für die nach unterstrom liegende große Teilkammer;
+    b)  von Kleinostheim bis unterhalb von Steinbach nur bei einem Wasserstand von weniger als 230 cm am Richtpegel Steinbach benutzen und
 
 
-    b)  zwei grüne Lichter nebeneinander und ein weißes Licht über dem linken grünen Licht: Einfahrt frei für die nach oberstrom liegende kleine Teilkammer.
+    c)  von Steinbach bis Limbach nur bei einem Wasserstand von weniger als 230 cm am Richtpegel Trunstadt benutzen.
 
 
 
 
-    Wird die ganze Schleusenkammer für die Schleusung freigegeben, werden zwei grüne Lichter nebeneinander gezeigt.
+
+3.  An einer Schleuse, die durch ein Mittelhaupt in eine größere nach unterstrom liegende und eine kleinere nach oberstrom liegende Kammer unterteilt ist, wird durch folgende Signallichter angezeigt, welche Teilkammer für die Schleusung vorgesehen ist:
+
+    a)  zwei grüne Lichter nebeneinander und zwei weiße Lichter nebeneinander über den grünen Lichtern:
+
+        Einfahrt frei für die nach unterstrom liegende große Teilkammer;
+
+
+    b)  zwei grüne Lichter nebeneinander und ein weißes Licht über dem linken grünen Licht:
+
+        Einfahrt frei für die nach oberstrom liegende kleine Teilkammer.
+
+
+
+    Werden beide Teilkammern für die Schleusung freigegeben, werden zwei grüne Lichter nebeneinander gezeigt.
 
 
 
@@ -11762,7 +11955,7 @@ Eine frei fahrende Fähre mit Maschinenantrieb, die im Übersetzverkehr keine L�
 
 #### § 11.22 Regelungen über den Verkehr
 
-(keine besonderen Vorschriften)
+Werden auf einem Kabinenschiff mit einer Länge von mehr als 110,00 m in der Fahrt auf dem Main oberhalb des Hafens Aschaffenburg Fensterreihen während der Fahrt teilweise oder ganz unter den Wasserspiegel ballastiert, sind sie durch von außen angebrachte, geeignete Vorsatzscheiben gegen Bruch durch äußere Einwirkung zu sichern.
 
 
 #### § 11.23 Regelungen zum Sprechfunk
@@ -11849,10 +12042,10 @@ Verhaltenspflichten des Schiffsführers,
 
     a)  sicherzustellen, dass
 
-        aa) das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 11.02 Nummer 1 nicht überschreitet und
+        aa) das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 11.02 Nummer 1 Satz 1 nicht überschreitet und
 
 
-        bb) auf dem von ihm geführten Fahrzeug oder Verband in dem in § 11.02 Nummer 1.5 und 1.6 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist,
+        bb) auf dem von ihm geführten Fahrzeug oder Verband die nach § 11.02 Nummer 1 Satz 2 in Verbindung mit Satz 3, auch in Verbindung mit den Sätzen 4 und 5, jeweils angegebene Ausrüstung vorhanden ist,
 
 
 
@@ -11860,7 +12053,7 @@ Verhaltenspflichten des Schiffsführers,
 
     b)  die Vorschriften über
 
-        aa) die Zusammenstellung der Verbände nach § 11.03 Nummer 1 Satz 1 und
+        aa) die Zusammenstellung der Verbände nach § 11.03 Nummer 1 Satz 1 und Nummer 2 und
 
 
         bb) die Meldepflicht nach § 11.15 Nummer 1 Satz 1, 2, Nummer 2 Satz 2, 3 und Nummer 3 bis 5
@@ -11870,10 +12063,13 @@ Verhaltenspflichten des Schiffsführers,
         einzuhalten oder sicherzustellen, dass diese eingehalten werden,
 
 
-    c)  die Verkehrsbeschränkung nach § 11.27 Nummer 1 Satz 1 zu beachten oder sicherzustellen, dass diese beachtet wird, und
+    c)  die Regelung über den Verkehr nach § 11.22 zu beachten oder sicherzustellen, dass diese beachtet wird,
 
 
-    d)  das in § 11.27 Nummer 2 Satz 1 vorgesehene Verbot, die dort angegebene Binnenschifffahrtsstraße zu befahren, zu beachten oder sicherzustellen, dass dieses beachtet wird.
+    d)  die Verkehrsbeschränkung nach § 11.27 Nummer 1 Satz 1 zu beachten oder sicherzustellen, dass diese beachtet wird, und
+
+
+    e)  das in § 11.27 Nummer 2 Satz 1 vorgesehene Verbot, die dort angegebene Binnenschifffahrtsstraße zu befahren, zu beachten oder sicherzustellen, dass dieses beachtet wird.
 
 
 
@@ -11883,10 +12079,10 @@ Verhaltenspflichten des Schiffsführers,
 
 3.  Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn
 
-    a)  das Fahrzeug oder der Verband die zugelassenen Höchstabmessungen nach § 11.02 Nummer 1 nicht überschreitet und
+    a)  das Fahrzeug oder der Verband die zugelassenen Höchstabmessungen nach § 11.02 Nummer 1 Satz 1 nicht überschreitet und
 
 
-    b)  auf dem Fahrzeug oder Verband in dem in § 11.02 Nummer 1.5 und 1.6 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist.
+    b)  die nach § 11.02 Nummer 1 Satz 2 in Verbindung mit Satz 3, auch in Verbindung mit den Sätzen 4 und 5, jeweils angegebene Ausrüstung vorhanden ist.
 
 
 
@@ -11930,10 +12126,10 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 #### § 12.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe und Abladetiefe
 
 
-1.  Ein Fahrzeug oder ein Verband darf auf dem Main-Donau-Kanal jeweils eine Länge von 90,00 m und eine Breite von 11,45 m nicht überschreiten. Die Länge darf bei einem Fahrzeug auf bis zu 110,00 m und bei einem Verband auf bis zu 190,00 m erhöht werden, wenn das Fahrzeug oder der Verband mit einer aktiven Bugsteuereinrichtung – bei einem Verband an der Spitze des Verbandes – und einer Sprechverbindung zwischen Steuerstand und Spitze des Fahrzeugs oder Verbandes ausgerüstet ist.
+1.  Ein Fahrzeug oder ein Verband darf auf dem Main-Donau-Kanal eine Länge von 90,00 m und eine Breite von 11,45 m nicht überschreiten. Die zulässige Länge darf bei einem Fahrzeug auf bis zu 135,00 m und bei einem Verband auf bis zu 190,00 m erhöht werden, wenn das Fahrzeug oder der Verband mit einer aktiven Bugsteuereinrichtung – bei einem Verband an der Spitze des Verbandes – und einer Sprechverbindung zwischen Steuerstand und Spitze des Fahrzeugs oder Verbandes ausgerüstet ist. Die Ausrüstung nach Satz 2 ist nicht erforderlich, sofern ein Fahrzeug oder ein Schubverband mit einer Länge von bis zu 110,00 m mit zwei Hauptantriebsmotoren mit jeweils 350 kW Antriebsleistung und zwei Hauptpropellern ausgerüstet ist. Die Ausrüstung nach Satz 2 ist ferner nicht erforderlich, sofern ein Fahrzeug oder ein Schubverband mit einer Länge von mehr als 110,00 m bis zu einer Länge von 120,00 m mit zwei Hauptantriebsmotoren mit jeweils 400 kW Antriebsleistung und zwei Hauptpropellern ausgerüstet ist.
 
 
-2.  Die Fahrrinnentiefe beträgt von der Abzweigung aus dem Main (km 0,07) bis zur Schleuse Bamberg 2,70 m.
+2.  Die Fahrrinnentiefe beträgt von der Abzweigung aus dem Main (km 0,07) bis zur Schleuse Bamberg 2,90 m.
 
 
 3.  Die zulässige Abladetiefe beträgt von der Schleuse Bamberg bis zur Einmündung in die Donau (km 170,78) 2,70 m.
@@ -11948,7 +12144,10 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 1.  Das Fahren mit einem Schleppverband ist verboten. Satz 1 gilt nicht für das Schleppen von Kleinfahrzeugen.
 
 
-2.  Die zuständige Behörde kann Ausnahmen von Nummer 1 Satz 1 zulassen.
+2.  Der Tiefgang eines schiebenden Tankmotorschiffes im Sinne des Artikels 1.01 Nummer 1.6 ES-TRIN oder eines schiebenden Gütermotorschiffes im Sinne des Artikels 1.01 Nummer 1.7 ES-TRIN darf nicht geringer sein als der Tiefgang des geschobenen Fahrzeugs.
+
+
+3.  Die zuständige Behörde kann Ausnahmen von Nummer 1 Satz 1 zulassen.
 
 
 
@@ -12286,7 +12485,7 @@ Das Segeln ist verboten. Die zuständige Behörde kann im Einzelfall Ausnahmen z
 
 #### § 12.22 Regelungen über den Verkehr
 
-(keine besonderen Vorschriften)
+Werden auf einem Kabinenschiff mit einer Länge von mehr als 110,00 m Fensterreihen während der Fahrt teilweise oder ganz unter den Wasserspiegel ballastiert, sind sie durch von außen angebrachte, geeignete Vorsatzscheiben gegen Bruch durch äußere Einwirkung zu sichern.
 
 
 #### § 12.23 Regelungen zum Sprechfunk
@@ -12409,10 +12608,10 @@ Verhaltenspflichten des Schiffsführers,
 
     a)  sicherzustellen, dass
 
-        aa) das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 12.02 Nummer 1 und die zugelassene Abladetiefe nach § 12.02 Nummer 3 nicht überschreitet,
+        aa) das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 12.02 Nummer 1 Satz 1 und 2, Satz 2 auch in Verbindung mit Satz 3 und 4, und die zulässige Abladetiefe nach § 12.02 Nummer 3 nicht überschreitet,
 
 
-        bb) auf dem von ihm geführten Fahrzeug oder Verband in dem in § 12.02 Nummer 1 Satz 2 genannten Fall die dort angegebene Ausrüstung vorhanden ist und
+        bb) auf dem von ihm geführten Fahrzeug oder Verband in den Fällen des § 12.02 Nummer 1 Satz 2 bis 4 die dort jeweils angegebene Ausrüstung vorhanden ist und,
 
 
         cc) der Bug eines von ihm geführten einzeln fahrenden Fahrzeugs mit Pontonform der Form nach § 12.26 Satz 1 entspricht,
@@ -12425,7 +12624,7 @@ Verhaltenspflichten des Schiffsführers,
 
     b)  die Vorschriften über
 
-        aa) die Zusammenstellung der Verbände nach § 12.03 Nummer 1 Satz 1,
+        aa) die Zusammenstellung der Verbände nach § 12.03 Nummer 1 Satz 1 und Nummer 2,
 
 
         bb) das Ankern nach § 12.09 Nummer 1,
@@ -12444,25 +12643,28 @@ Verhaltenspflichten des Schiffsführers,
         einzuhalten oder sicherzustellen, dass diese eingehalten werden,
 
 
-
-
-    c)  das in § 12.20 Satz 1 vorgesehene Verbot zu segeln, zu beachten oder sicherzustellen, dass dieses beachtet wird, und
-
-
-    d)  das in § 12.25 Nummer 1, 2 Satz 1 und Nummer 3 Satz 1 jeweils vorgesehene Verbot, die dort jeweils angegebene Binnenschifffahrtsstraße zu befahren, zu beachten oder sicherzustellen, dass dieses jeweils beachtet wird.
+    c)  die Regelung über den Verkehr nach § 12.22 zu beachten oder sicherzustellen, dass diese beachtet werden,
 
 
 
 
+    d)  das in § 12.20 Satz 1 vorgesehene Verbot zu segeln, zu beachten oder sicherzustellen, dass dieses beachtet wird, und
+
+
+    e)  das in § 12.25 Nummer 1, 2 Satz 1 und Nummer 3 Satz 1 jeweils vorgesehene Verbot, die dort jeweils angegebene Binnenschifffahrtsstraße zu befahren, zu beachten oder sicherzustellen, dass dieses jeweils beachtet wird.
 
 
 
-3.  Der Eigentümer und der Ausrüster dürfen jeweils
-
-    a)  die Inbetriebnahme eines Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn das Fahrzeug oder der Verband die zugelassenen Höchstabmessungen nach § 12.02 Nummer 1 und die zugelassene Abladetiefe nach § 12.02 Nummer 3 nicht überschreitet, und
 
 
-    b)  die Inbetriebnahme eines Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn auf dem Fahrzeug oder Verband in dem in § 12.02 Nummer 1 Satz 2 genannten Fall die dort angegebene Ausrüstung vorhanden ist.
+
+
+3.  Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn
+
+    a)  das Fahrzeug oder der Verband die zugelassenen Höchstabmessungen nach § 12.02 Nummer 1 Satz 1 und 2, Satz 2 auch in Verbindung mit Satz 3 und 4, und die zugelassene Abladetiefe nach § 12.02 Nummer 3 nicht überschreitet und
+
+
+    b)  auf dem Fahrzeug oder Verband in den Fällen des § 12.02 Nummer 1 Satz 2 bis 4 die dort jeweils angegebene Ausrüstung vorhanden ist.
 
 
 
@@ -30614,23 +30816,1075 @@ Verhaltenspflichten des Schiffsführers,
 
 
 
+### Kapitel 28 - Donau
+
+
+#### § 28.01 Anwendungsbereich
+
+Die Vorschriften dieses Kapitels gelten auf der **Donau**              zwischen Kelheim (Donau-km 2414,72) und Jochenstein (Donau-km 2201,75).
+
+
+#### § 28.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe
+
+
+1.  Ein Fahrzeug darf auf den nachfolgend genannten Streckenabschnitten folgende Abmessungen nicht überschreiten:
+
+    *        *   Streckenabschnitt
+
+        *   Länge
+            m
+
+        *   Breite
+            m
+
+
+    *        *   1.1
+
+        *   km 2414,72 (Kelheim) bis km 2411,60 (Einmündung des Main-Donau-Kanals)
+
+        *   55,00
+
+        *   11,45
+
+
+    *        *   1.2
+
+        *   km 2411,60 (Einmündung des Main-Donau-Kanals) bis
+            km 2249,85 (Liegestelle Vilshofen)
+
+        *   135,00
+
+        *   11,45
+
+
+    *        *   1.3
+
+        *   km 2249,85 (Liegestelle Vilshofen) bis km 2223,30 (Eisenbahnbrücke Kräutelstein)
+
+        *   135,00
+
+        *   22,90
+
+
+
+
+
+2.  Ein Schubverband darf auf den nachfolgend genannten Streckenabschnitten folgende Abmessungen nicht überschreiten:
+
+    *        *   Streckenabschnitt
+
+        *   Länge
+            m
+
+        *   Breite
+            m
+
+
+    *        *   2.1
+
+        *   **Bergfahrt**
+
+        *
+        *
+
+    *        *   2.1.1
+
+        *   km 2223,30 (Eisenbahnbrücke Kräutelstein) bis km 2249,85 (Liegestelle Vilshofen)
+
+        *   190,00
+
+        *   22,90
+
+
+    *        *   2.1.2
+
+        *   km 2249,85 (Liegestelle Vilshofen) bis km 2330,20 (Oberwasser Schleuse Straubing)
+
+        *   135,00
+            190,00
+
+        *   22,90
+            11,45.
+
+
+    *        *
+        *   Ein Schubverband mit einer Länge von mehr als 135,00 m und einer Breite von mehr als 11,45 m und nicht mehr als 22,90 m darf fahren, wenn der Wasserstand am Pegel Hofkirchen mindestens 350 cm beträgt.
+
+
+    *        *   2.1.3
+
+        *   km 2330,20 (Oberwasser Schleuse Straubing) bis
+            km 2376,80 (Regensburg Eisenbahnbrücke Schwabelweis)
+
+        *   190,00
+
+        *   22,90
+
+
+    *        *   2.1.4.1
+
+        *   km 2376,80 (Regensburg Eisenbahnbrücke Schwabelweis) bis km 2411,60 (Einmündung in den Main-Donau-Kanal)/Donau-Südarm, km 2378,45 S (Regensburg Nibelungenbrücke)
+
+        *   190,00
+
+        *   11,45
+
+
+    *        *   2.1.4.2
+
+        *   km 2376,80 (Regensburg Eisenbahnbrücke Schwabelweis) bis Donau-Südarm, km 2378,45 S (Regensburg Nibelungenbrücke)/km 2379,50 (Unterwasser Schleuse Regensburg)
+
+        *   135,00
+
+        *   22,90
+
+
+    *        *   2.1.5
+
+        *   km 2411,60 (Einmündung Main-Donau-Kanal) bis
+            km 2414,72 (Kelheim)
+
+        *   55,00
+
+        *   11,45
+
+
+    *        *   2.2
+
+        *   **Talfahrt**
+
+        *
+        *
+
+    *        *   2.2.1
+
+        *   km 2414,72 (Kelheim) bis km 2411,60 (Einmündung des Main-Donau-Kanals)
+
+        *   55,00
+
+        *   11,45
+
+
+    *        *   2.2.2
+
+        *   km 2411,60 (Einmündung des Main-Donau-Kanals) bis
+            km 2376,80 (Regensburg Eisenbahnbrücke Schwabelweis)
+
+        *   190,00
+
+        *   11,45
+
+
+    *        *   2.2.3
+
+        *   km 2379,50 (Unterwasser Schleuse Regensburg)/Donau-Südarm, km 2378,45 S (Regensburg Nibelungenbrücke) bis km 2376,80 (Regensburg Eisenbahnbrücke Schwabelweis)
+
+        *   135,00
+
+        *   22,90
+
+
+    *        *   2.2.4
+
+        *   km 2376,80 (Regensburg Eisenbahnbrücke Schwabelweis) bis km 2355,00 (Oberwasser Schleuse Geisling)
+
+        *   190,00
+
+        *   22,90
+
+
+    *        *   2.2.5.1
+
+        *   km 2355,00 (Oberwasser Schleuse Geisling) bis
+            km 2330,20 (Oberwasser Schleuse Straubing)
+
+        *   135,00
+
+        *   22,90
+
+
+    *        *   2.2.5.2
+
+        *   km 2355,00 (Oberwasser Schleuse Geisling) bis
+            km 2320,90 (Koppelstelle im Unterwasser Schleuse Straubing)
+
+        *   190,00
+
+        *   11,45
+
+
+    *        *   2.2.6
+
+        *   km 2330,20 (Oberwasser Schleuse Straubing)/
+            km 2320,90 (Koppelstelle im Unterwasser Schleuse Straubing) bis km 2249,85 (Liegestelle Vilshofen)
+
+        *   135,00
+
+        *   22,90
+
+
+    *        *   2.2.7
+
+        *   km 2249,85 (Liegestelle Vilshofen) bis
+            km 2223,30 (Eisenbahnbrücke Kräutelstein)
+
+        *   190,00
+
+        *   22,90
+
+
+
+
+
+3.  Gekuppelte Fahrzeuge dürfen auf den nachfolgend genannten Streckenabschnitten folgende Abmessungen nicht überschreiten:
+
+    *        *   Streckenabschnitt
+
+        *   Länge
+            m
+
+        *   Breite
+            m
+
+
+    *        *   3.1
+
+        *   km 2414,72 (Kelheim) bis km 2411,60 (Einmündung Main-Donau-Kanal)
+
+        *   55,00
+
+        *   11,45
+
+
+    *        *   3.2.1
+
+        *   km 2411,60 (Einmündung des Main-Donau-Kanals) bis
+            km 2376,80 (Regensburg Eisenbahnbrücke Schwabelweis)
+
+        *   135,00
+
+        *   11,45
+
+
+    *        *   3.2.2
+
+        *   Donau-Südarm, km 2378,45 S (Regensburg Nibelungenbrücke)/km 2379,50 (Unterwasser Schleuse Regensburg) bis km 2376,80 (Regensburg Eisenbahnbrücke Schwabelweis)
+
+        *   135,00
+
+        *   22,90
+
+
+    *        *   3.3
+
+        *   km 2376,80 (Regensburg Eisenbahnbrücke Schwabelweis) bis km 2355,00 (Oberwasser Schleuse Geisling)
+
+        *   135,00
+
+        *   34,35
+
+
+    *        *   3.4
+
+        *   km 2355,00 (Oberwasser Schleuse Geisling) bis
+            km 2249,85 (Liegestelle Vilshofen)
+
+        *   135,00
+
+        *   22,90
+
+
+    *        *   3.5
+
+        *   km 2249,85 (Liegestelle Vilshofen) bis km 2223,30 (Eisenbahnbrücke Kräutelstein)
+
+        *   135,00
+
+        *   34,35.
+
+
+
+
+
+4.  In den Schleusen dürfen folgende Abmessungen eines Fahrzeugs oder Verbandes nicht überschritten werden:
+
+    a)  Ein Fahrzeug oder Verband darf folgende Abmessungen nicht überschreiten:
+
+        *            *   Schleuse
+
+            *   Länge
+                m
+
+            *   Breite
+                m
+
+
+        *            *   aa)
+
+            *   Bad Abbach und Regensburg
+
+            *
+            *
+
+        *            *
+            *   a) Fahrzeug
+
+            *   135,00
+
+            *   11,45
+
+
+        *            *
+            *   b) Verband
+
+            *   190,00
+
+            *   11,45
+
+
+        *            *   bb)
+
+            *   Geisling und Straubing
+
+            *
+            *
+
+        *            *
+            *   a) Fahrzeug
+
+            *   135,00
+
+            *   11,45
+
+
+        *            *
+            *   b) Verband
+
+            *   190,00
+
+            *   22,90
+
+
+        *            *   cc)
+
+            *   Kachlet und Jochenstein
+
+            *
+            *
+
+        *            *
+            *   a) Fahrzeug
+
+            *   135,00
+
+            *   22,90
+
+
+        *            *
+            *   b) Verband
+
+            *   190,00
+
+            *   22,90
+
+
+
+
+
+    b)  In den Schleusenkammern der Schleusen Geisling und Straubing sowie in den Schleusenkammern der Schleusengruppen Kachlet und Jochenstein darf die Breite nebeneinanderliegender einzelner Fahrzeuge oder Verbände zusammen 22,90 m nicht überschreiten.
+
+
+
+
+
+5.  Die Fahrrinnentiefe beträgt auf den nachfolgenden Streckenabschnitten bei den aufgeführten Wasserständen des jeweiligen Pegels:
+
+    *        *   Streckenabschnitt
+
+        *   Wasserstand
+            am Pegel
+            in cm
+
+        *   Fahrrinnen-
+            tiefe
+            in m
+
+
+    *        *   5.1
+
+        *   km 2414,72 (Kelheim) bis km 2411,60 (Einmündung des Main-Donau-Kanals)
+
+        *   250
+            am Pegel
+            Kelheim
+
+        *   1,20
+
+
+    *        *   5.2
+
+        *   5.2.1
+
+        *   km 2411,60 (Einmündung des Main-Donau-Kanals) bis km 2379,70 (Schleuse Regensburg)
+
+        *   170
+            am Pegel Oberndorf
+
+        *   2,90
+
+
+    *        *
+        *   5.2.2
+
+        *   km 2379,70 (Schleuse Regensburg)
+            bis km 2355,00 (Oberwasser Schleuse Geisling
+
+        *   292
+            am Pegel Schwabelweis
+
+        *
+
+    *        *
+        *   5.2.3
+
+        *   km 2355,00 (Oberwasser Schleuse Geisling bis
+            km 2330,20 (Oberwasser Schleuse Straubing)
+
+        *   310
+            am Pegel
+            Pfatter
+
+        *
+
+    *        *   5.3
+
+        *   km 2330,20 (Oberwasser Schleuse Straubing) bis
+            km 2311,90 (unterhalb des Hafens Straubing-Sand)
+
+        *   290
+            am Pegel
+            Pfelling
+
+        *   2,65
+
+
+    *        *   5.4
+
+        *   5.4.1
+
+        *   km 2311,90 (unterhalb des Hafens Straubing-Sand) bis km 2285,89 (Eisenbahnbrücke Deggendorf)
+
+        *   290
+            am Pegel
+            Pfelling
+
+        *   2,00
+
+
+    *        *
+        *   5.4.2
+
+        *   km 2285,89 (Eisenbahnbrücke Deggendorf) bis
+            km 2283,00 (Wallnergelände Deggendorf)
+
+        *   210
+            am Pegel Deggendorf
+
+        *
+
+    *        *
+        *   5.4.3
+
+        *   km 2283,00 (Wallnergelände Deggendorf) bis
+            km 2249,90 (Vilshofen)
+
+        *   207
+            am Pegel Hofkirchen
+
+        *
+
+    *        *   5.5
+
+        *   5.5.1
+
+        *   km 2249,90 (Vilshofen) bis km 2230,60 (Schleuse Kachlet)
+
+        *   207
+            am Pegel Hofkirchen
+
+        *   2,70
+
+
+    *        *
+        *   5.5.2
+
+        *   km 2230,60 (Schleuse Kachlet) bis km 2223,30 (Eisenbahnbrücke Kräutelstein)
+
+        *   415
+            am Pegel
+            Passau-Donau
+
+        *
+
+    *        *   5.6
+
+        *   km 2223,30 (Eisenbahnbrücke Kräutelstein) bis
+            km 2201,75 (Jochenstein)
+
+        *   415
+            am Pegel
+            Passau-Donau
+
+        *   2,80
+
+
+
+
+
+
+
+
+#### § 28.03 Zusammenstellung der Verbände
+
+
+1.  Ein Schleppverband darf auf den nachfolgend genannten Streckenabschnitten folgende Abmessungen und Gruppierungen nicht überschreiten:
+
+    *        *   Streckenabschnitt
+
+        *   Anzahl der am schleppenden Fahrzeug längsseits gekuppelten Fahrzeuge
+
+        *   Anzahl der im Anhang geschleppten Reihen von Fahrzeugen
+
+        *   Breite
+            m
+
+
+    *        *   1.1
+
+        *   **Bergfahrt**
+
+        *
+        *
+        *
+
+    *        *   1.1.1
+
+        *   km 2223,30 (Eisenbahnbrücke Kräutelstein) bis
+            km 2249,85 (Liegestelle Vilshofen)
+
+        *   1
+
+        *   4
+
+        *   22,90
+
+
+    *        *   1.1.2
+
+        *   km 2249,85 (Liegestelle Vilshofen) bis km 2355,00 (Oberwasser Schleuse Geisling)
+
+        *   –
+            1
+            –
+
+        *   5
+            1
+            2
+
+        *   11,45
+            22,90
+            22,90
+
+
+    *        *   1.1.3
+
+        *   km 2355,00 (Oberwasser Schleuse Geisling) bis
+            km 2376,80 (Regensburg Eisenbahnbrücke Schwabelweis)
+
+        *   1
+
+        *   4
+
+        *   22,90
+
+
+    *        *   1.1.4
+
+        *   km 2376,80 (Regensburg Eisenbahnbrücke Schwabelweis) bis km 2411,60 (Einmündung des
+            Main-Donau-Kanals)
+
+        *   1
+
+        *   2
+
+        *   11,45
+
+
+    *        *   1.1.5
+
+        *   km 2411,60 (Einmündung des Main-Donau-Kanals) bis km 2414,72 (Kelheim)
+
+        *   –
+
+        *   1
+
+        *   11,45
+
+
+    *        *   1.2
+
+        *   **Talfahrt**
+
+        *
+        *
+        *
+
+    *        *   1.2.1
+
+        *   km 2414,72 (Kelheim) bis km 2376,80 (Regensburg Eisenbahnbrücke Schwabelweis)
+
+        *   –
+
+        *   1
+
+        *   11,45
+
+
+    *        *   1.2.2
+
+        *   km 2376,80 (Regensburg Eisenbahnbrücke Schwabelweis) bis km 2321,45 (Unterwasser Schleuse Straubing)
+
+        *   1
+            1
+
+        *   1
+            2
+
+        *   30,00
+            22,90
+
+
+    *        *   1.2.3
+
+        *   km 2321,45 (Unterwasser Schleuse Straubing) bis
+            km 2223,30 (Eisenbahnbrücke Kräutelstein)
+
+        *   1
+
+        *   1
+
+        *   30,00
+
+
+    *        *   1.2.4
+
+        *   km 2249,85 (Liegestelle Vilshofen) bis
+            km 2230,30 (Unterwasser Schleuse Kachlet)
+
+        *   1
+
+        *   2
+
+        *   22,90
+
+
+
+
+    Die zuständige Behörde kann Ausnahmen von den Abmessungen und Gruppierungen nach Satz 1 zulassen, sofern die Sicherheit und Leichtigkeit des Schiffsverkehrs dadurch nicht gefährdet werden.
+
+
+2.  Ein Fahrzeug mit Maschinenantrieb, das ein anderes Fahrzeug schleppt, schiebt oder gekuppelt mitführt, darf dieses beim Festmachen oder Ankern nicht verlassen, ehe das Fahrwasser freigemacht ist und sich der Führer des Verbandes vergewissert hat, dass es sich in Sicherheit befindet.
+
+
+
+
+
+#### § 28.04 Fahrgeschwindigkeit
+
+(keine besonderen Vorschriften)
+
+
+#### § 28.05 Bergfahrt
+
+(keine besonderen Vorschriften)
+
+
+#### § 28.06 Begegnen
+
+
+1.  Für das Begegnen auf den Strecken
+
+    a)  zwischen der Mündung des Main-Donau-Kanals (km 2411,60) und dem Oberwasser der Schleuse Straubing (km 2330,50),
+
+
+    b)  zwischen Vilshofen (km 2249,00) und Schalding (km 2234,50) und
+
+
+    c)  zwischen der Liegestelle Schildorf (km 2220,00) und Grünau (2205,56)
+
+
+
+    gelten die Regeln der Nummern 2 und 3.
+
+
+2.  Abweichend von § 6.04 müssen die Bergfahrer und die Talfahrer ihren Kurs so weit nach Steuerbord richten, dass die Vorbeifahrt ohne Gefahr Backbord an Backbord stattfinden kann.
+
+
+3.  Der Bergfahrer kann verlangen, dass die Vorbeifahrt nach den Regeln des § 6.04 Steuerbord an Steuerbord stattfindet, wenn er
+
+    a)  zu einer Nebenwasserstraße, einem Hafen, einer Lade-, Lösch-, Anlege- oder Liegestelle oder einer Landebrücke am rechten Ufer fährt,
+
+
+    b)  von einer am rechten Ufer gelegenen Lade-, Lösch-, Anlege- oder Liegestelle oder einer Landebrücke abfährt oder
+
+
+    c)  aus einer Nebenwasserstraße oder einem Hafen ausfahren will.
+
+
+
+    Satz 1 gilt nur, wenn sich der Bergfahrer zuvor vergewissert hat, dass seinem Verlangen ohne Gefahr entsprochen werden kann.
+
+
+4.  Das Begegnen eines Fahrzeugs oder Verbandes mit einem Fahrzeug oder einem Verband mit jeweils einer Gesamtbreite von mehr als 11,45 m ist zwischen dem unteren Vorhafen der Schleuse Regensburg (km 2379,20) und der Lazarettspitze (km 2377,80) verboten. Der Schiffsführer eines Fahrzeugs oder Verbandes nach Satz 1 hat sich vor der Einfahrt in den in Satz 1 genannten Bereich über Funk (Kanal 10) zu melden. § 6.07 ist entsprechend anzuwenden. Satz 1 und 3 gelten nicht für ein Kleinfahrzeug.
+
+
+
+
+
+#### § 28.07 Überholen
+
+(keine besonderen Vorschriften)
+
+
+#### § 28.08 Wenden
+
+(keine besonderen Vorschriften)
+
+
+#### § 28.09 Ankern
+
+(keine besonderen Vorschriften)
+
+
+#### § 28.10 Stillliegen
+
+An der Liegestelle Heining (km 2232,36 bis km 2231,62) gelten folgende besonderen Regeln zum Stillliegen:
+
+1.  Ein Fahrzeug, das bestimmte entzündbare Güter nach der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt in der Fassung der Bekanntmachung vom 18. August 2023 (BGBl. 2023 I Nr. 227), in der jeweils geltenden Fassung in Verbindung mit Abschnitt 7.1.5 oder 7.2.5 ADN befördert und die Bezeichnung nach § 3.14 Nummer 1 führen muss, darf nur stillliegen, wenn es auf Schleusung wartet.
+
+
+2.  Ein Fahrzeug ohne Maschinenantrieb muss auch dann an Land festgemacht sein, wenn es ankert. Satz 1 gilt nicht für ein Fahrzeug, das zu einem Verband gehört.
+
+
+3.  Ein Fahrzeug muss vom Ufer einen Abstand von mindestens 10,00 m halten.
+
+
+4.  Ein Kleinfahrzeug darf nicht stillliegen.
+
+
+
+
+
+#### § 28.11 Schifffahrt bei Hochwasser
+
+
+1.  Hat der Wasserstand den Höchsten Schifffahrtswasserstand (HSW) erreicht oder überschritten, so ist die Schifffahrt einschließlich des Übersetzverkehrs einzustellen. Die Höchsten Schifffahrtswasserstände sowie die Abschnitte, für die sie gelten, sind nachstehend aufgeführt:
+
+    *        *   Pegel
+
+        *   Wasserstand
+            in cm
+
+        *   Abschnitt
+
+
+    *        *   Oberndorf
+
+        *   480
+
+        *   Kelheim bis Schleuse Regensburg
+
+
+    *        *   Regensburg-Schwabelweis
+
+        *   520
+
+        *   Schleuse Regensburg bis Schleuse Geisling
+
+
+    *        *   Pfatter
+
+        *   600
+
+        *   Schleuse Geisling bis Schleuse Straubing
+
+
+    *        *   Pfelling
+
+        *   620
+
+        *   Straubing bis Deggendorf
+
+
+    *        *   Hofkirchen
+
+        *   480
+
+        *   Deggendorf bis Schalding
+
+
+    *        *   Passau-Donau
+
+        *   780
+
+        *   Schalding bis Jochenstein.
+
+
+
+
+
+2.  Die zuständige Behörde kann Ausnahmen von Nummer 1 Satz 1 zulassen, wenn die Sicherheit und Leichtigkeit des Schiffsverkehrs dadurch nicht gefährdet werden.
+
+
+
+
+
+#### § 28.12 Schifffahrt bei Eis
+
+(keine besonderen Vorschriften)
+
+
+#### § 28.13 Nachtschifffahrt
+
+(keine besonderen Vorschriften)
+
+
+#### § 28.14 Einsatz von Trägerschiffsleichtern
+
+(keine besonderen Vorschriften)
+
+
+#### § 28.15 Meldepflicht
+
+(keine besonderen Vorschriften)
+
+
+#### § 28.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+
+Die zulässigen Durchfahrtshöhen und -breiten unter festen Brücken und die hierfür maßgeblichen Voraussetzungen werden von der zuständigen Behörde durch schifffahrtspolizeilichen Hinweis bekannt gemacht.
+
+
+#### § 28.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+
+(keine besonderen Vorschriften)
+
+
+#### § 28.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
+
+Ein Verband muss seine mitgeführten Einheiten rechtzeitig für die Schleusung umgruppieren, soweit dies für eine ordnungsgemäße Schleusung erforderlich ist. Ein talfahrender Verband darf nach der Schleusung nur im unteren Vorhafen zusammengestellt werden; er darf hierzu an beiden Ufermauern des unteren Schleusenvorhafens anlegen. Ein bergfahrender Verband darf nach der Schleusung erst nach der Ausfahrt aus dem oberen Schleusenvorhafen wieder zusammengestellt werden. Die zuständige Behörde kann Ausnahmen von den Sätzen 1 bis 3 zulassen, wenn die Sicherheit und Leichtigkeit der Schifffahrt dadurch nicht gefährdet werden.
+
+
+#### § 28.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+
+
+1.  Abweichend von § 6.28 Nummer 1 Satz 1 gehören im Falle der Schleusen Kachlet und Jochenstein neben der Schleuse jeweils die Strecke zwischen der Schleuse und den Vorsignalanlagen zum Schleusenbereich.
+
+
+2.  In den Schleusen Kachlet und Jochenstein wird abweichend von § 6.29 Nummer 1 Satz 1 jeweils in der Reihenfolge des Eintreffens an den Vorsignalanlagen geschleust.
+
+
+3.  In den Schleusenbereichen Kachlet und Jochenstein wird jeweils das Einfahren in die Schleuse zusätzlich zu den in § 6.28a Nummer 2 genannten Sichtzeichen auch durch Signallichter der Vor- und Abrufsignalanlagen geregelt. Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person müssen hierzu die folgenden Regeln beachten:
+
+    a)  Talfahrt (Vorsignal oder Abrufsignal):
+
+        Die Weisung zur Benutzung der Schleusenkammer wird durch Richtungsweiser gegeben, die aus zwei weißen Signallichtern nebeneinander bestehen, die folgende Bedeutung haben:
+
+        aa) linkes festes Licht, rechtes Gleichtaktlicht:
+
+            rechte Schleuse benutzen;
+
+
+        bb) rechtes festes Licht, linkes Gleichtaktlicht:
+
+            linke Schleuse benutzen;
+
+
+        cc) festes Licht links und rechts:
+
+            bis zur Einweisung warten;
+
+
+        dd) Gleichtaktlicht links und rechts:
+
+            beide Schleusen benutzbar.
+
+
+
+
+
+    b)  Bergfahrt (Vorsignal):
+
+        Die Weisung zur Benutzung der Schleusenkammer wird durch Richtungsweiser gegeben, die aus einem Signallicht bestehen, das folgende Bedeutung hat:
+
+        aa) ein festes Licht:
+
+            bis zur Einweisung warten,
+
+
+        bb) ein Gleichtaktlicht:
+
+            Einfahrt in die Schleuse frei.
+
+
+
+
+
+
+
+
+4.  Abweichend von Nummer 3 Satz 2 müssen der Schiffsführer und die nach 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person eines Kleinfahrzeugs nur die Sichtzeichen nach § 6.28a Nummer 2 Satz 1 bis 5 beachten.
+
+
+
+
+
+#### § 28.20 Segeln
+
+(keine besonderen Vorschriften)
+
+
+#### § 28.21 Bezeichnung der Fahrzeuge
+
+(keine besonderen Vorschriften)
+
+
+#### § 28.22 Regelungen über den Verkehr
+
+
+1.  Der Schiffsführer eines zu Tal fahrenden Fahrzeugs und der Führer eines zu Tal fahrenden Verbandes, das oder der seine Fahrt auf der Strecke zwischen den Staustufen Jochenstein und Aschach unterbrechen will, muss dies beim Schleusenvorgang in Jochenstein der Schleusenaufsicht melden. Satz 1 gilt nicht für ein Kleinfahrzeug.
+
+
+2.  Für die Ausübung der Fischerei gelten folgende Regeln:
+
+    a)  Das Schleppfischen mit mehreren Fahrzeugen nebeneinander ist verboten.
+
+
+    b)  Das Aufstellen von Fischereigeräten in der Fahrrinne, in deren Nähe oder auf bezeichneten Liegeplätzen ist verboten.
+
+
+
+
+
+
+
+
+#### § 28.23 Regelungen zum Sprechfunk
+
+(keine besonderen Vorschriften)
+
+
+#### § 28.24 Sonderbestimmungen für Kleinfahrzeuge
+
+(keine besonderen Vorschriften)
+
+
+#### § 28.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+
+Ein Kleinfahrzeug das mit einer Antriebsmaschine ausgerüstet ist, darf die Altwässer, insbesondere Wasserflächen hinter Parallelwerken oder Leitdämmen, nicht befahren. Satz 1 gilt nicht für
+
+1.  ein Fahrzeug, das zur Ausübung eines Berufsfischereirechtes oder Jagdrechtes benutzt wird;
+
+
+2.  Zu- und Abfahrten von Liegeplätzen, die von der zuständigen Behörde zugelassen sind.
+
+
+
+
+
+#### § 28.26 Schutz der Kanäle und Anlagen
+
+(keine besonderen Vorschriften)
+
+
+#### § 28.27 Verkehrsbeschränkungen der Schifffahrt
+
+Das Befahren der zwischen Friesheim (km 2363,25) und Kiefenholz (km 2359,05) ausgewiesenen Fischruhezonen ist verboten.
+
+
+#### § 28.28 Benutzung der Wasserstraßen
+
+(keine besonderen Vorschriften)
+
+
+#### § 28.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
+
+
+1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils die Vorschriften über
+
+    a)  das Verhalten beim Begegnen nach § 28.06 Nummer 1 in Verbindung mit Nummer 2 und 3 Satz 1, dieser in Verbindung mit Satz 2, und Nummer 4 Satz 1 und 3 und
+
+
+    b)  die Schifffahrt bei Hochwasser nach § 28.11 Nummer 1 Satz 1
+
+
+
+    einzuhalten oder sicherzustellen, dass diese eingehalten werden,
+
+
+2.  Der Schiffsführer hat
+
+    a)  sicherzustellen, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 28.02 Nummer 1 bis 4 nicht überschreitet und
+
+
+    b)  die Vorschriften über
+
+        aa) die Zusammenstellung der Verbände nach § 28.03 Nummer 1 Satz 1 und Nummer 2,
+
+
+        bb) das Stillliegen nach § 28.10 Nummer 1, 2 Satz 1, auch in Verbindung mit Satz 2, Nummer 3 und 5 und
+
+
+        cc) die Umgruppierung und Zusammenstellung eines Verbandes bei der Schleusung nach § 28.18 Satz 1, 2 Halbsatz 1 und Satz 3
+
+
+
+        einzuhalten oder sicherzustellen, dass diese eingehalten werden,
+
+
+    c)  das in § 28.25 Satz 1 angeordnete Verbot, die Altwässer zu befahren, und das in § 28.27 angeordnete Verbot, die bezeichneten Fischruhezonen zu befahren, zu beachten oder sicherzustellen, dass diese Verbote beachtet werden.
+
+
+
+
+
+3.  Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn es oder er die zugelassenen Höchstabmessungen nach § 28.02 Nummer 1 bis 3 und Nummer 5 Buchstabe a und b nicht überschreitet.
+
+
+
+
+
+#### § 28.30 Übergangsbestimmungen
+
+Unbeschadet des § 1.01 Nummer 30 und 31, § 3.02 Nummer 2 und § 4.06 Nummer 1 Satz 1 Buchstabe a dürfen Lichter, Signalleuchten und Radargeräte, die den Anforderungen der vor dem 1. September 2024 von der Donaukommission für die Donau beschlossenen Empfehlungen jeweils entsprechen, bis zu deren Ersatz weiterverwendet werden. Satz 1 gilt unbeschadet des § 2.04 für die an den Fahrzeugen angebrachten Einsenkungsmarken und Tiefgangsanzeiger entsprechend.
+
+
 ## Dritter Teil - Umweltbestimmungen
 
 
-### Kapitel 28 - Gewässerschutz und Abfallbeseitigung auf Fahrzeugen
+### Kapitel 29 - Gewässerschutz und Abfallbeseitigung auf Fahrzeugen
 
 
-#### § 28.01 Behandlung von Schiffsabfällen
+#### § 29.01 Behandlung von Schiffsabfällen
 
 Für die Behandlung von Schiffsabfällen einschließlich deren Einleitung oder Einbringung in das Wasser gelten die Bestimmungen des Übereinkommens vom 9. September 1996 über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (BGBl. 2003 II S. 1799) sowie die zu seiner Ausführung ergangenen Vorschriften.
 
 
-#### § 28.02 Allgemeine Sorgfaltspflicht
+#### § 29.02 Allgemeine Sorgfaltspflicht
 
 Der Schiffsführer, die übrige Besatzung und sonstige Personen an Bord müssen die nach den Umständen gebotene Sorgfalt anwenden, um eine Verschmutzung der Wasserstraße zu vermeiden. Insbesondere der Schiffsführer hat sicherzustellen, dass kein Brenn- oder Schmierstoff in die Wasserstraße gelangt.
 
 
-#### § 28.03 Sorgfaltspflicht beim Bunkern
+#### § 29.03 Sorgfaltspflicht beim Bunkern
 
 
 1.  Der Schiffsführer hat beim Bunkern von Brenn- und Schmierstoffen dafür zu sorgen, dass
@@ -30676,7 +31930,7 @@ Der Schiffsführer, die übrige Besatzung und sonstige Personen an Bord müssen 
 
 
 
-#### § 28.04 Sorgfaltspflicht beim Bunkern von Flüssigerdgas (LNG)
+#### § 29.04 Sorgfaltspflicht beim Bunkern von Flüssigerdgas (LNG)
 
 
 1.  Die in § 28.03 Nummer 1 Buchstabe a und b und Nummer 2 Buchstabe a und d genannten Vorschriften gelten nicht beim Bunkern von Flüssigerdgas (LNG).
@@ -30797,7 +32051,7 @@ Der Schiffsführer, die übrige Besatzung und sonstige Personen an Bord müssen 
 
 
 
-#### § 28.05 Anstrich und Außenreinigung der Fahrzeuge
+#### § 29.05 Anstrich und Außenreinigung der Fahrzeuge
 
 Es ist verboten, die Außenhaut eines Fahrzeugs mit Öl anzustreichen oder mit Mitteln zu reinigen, die nicht in das Gewässer gelangen dürfen.
 

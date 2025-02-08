@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2021, 3209
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 6 G v. 22.3.2024 I Nr. 104
+:   Art. 3 V v. 22.1.2025 I Nr. 23
 
 
 ## Eingangsformel

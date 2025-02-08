@@ -989,7 +989,3 @@ IV. **Ermittlung der Bonitätsnote**
 
 
 
-
-### Anlage 2 (weggefallen)
-
-

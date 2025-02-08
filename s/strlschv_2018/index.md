@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2018, 2034, 2036 (2021 I 5261)
 
 Zuletzt geändert durch
-:   Art. 2 V v. 17.4.2024 I Nr. 132
-
-Änderung durch
-:   Art. 10 G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 23.10.2024 I Nr. 324
 
 Stand: Ersetzt V 751-1-8 v. 20.7.2001 I 1714; 2002 I 1459 (StrlSchV 2001)
 Diese Verordnung dient der Umsetzung der Richtlinie 2013/59/Euratom des Rates vom 5. Dezember 2013 zur Festlegung grundlegender Sicherheitsnormen für den Schutz vor den Gefahren einer Exposition gegenüber ionisierender Strahlung und zur Aufhebung der Richtlinien 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom und 2003/122/Euratom (ABl. L 13 vom 17.1.2014, S. 1) sowie der Umsetzung des Artikels 8d der Richtlinie 2009/71/Euratom des Rates vom 25. Juni 2009 über einen Gemeinschaftsrahmen für die nukleare Sicherheit kerntechnischer Anlagen (ABl. L 172 vom 2.7.2009, S. 18), in der durch die Richtlinie des Rates 2014/87/Euratom vom 8. Juli 2014 zur Änderung der Richtlinie 2009/71/Euratom über einen Gemeinschaftsrahmen für die nukleare Sicherheit kerntechnischer Anlagen (ABl. L 219 vom 25.7.2014, S. 42) geänderten Fassung.
