@@ -13,7 +13,7 @@ Ausfertigungsdatum
 :   2019-12-12
 
 Fundstelle
-:   BGBl I: 2019, 2728
+:   BGBl I: 2019, 2728 (2022 I 2098)
 
 Zuletzt geändert durch
 :   Art. 7 G v. 22.12.2023 I Nr. 412

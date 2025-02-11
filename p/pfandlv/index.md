@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 1. 6.1976 I 1334,
 
 Zuletzt geändert durch
-:   Art. 2 V v. 28.4.2016 I 1046
-
-Änderung durch
-:   Art. 12 V v. 11.12.2024 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 V v. 11.12.2024 I Nr. 411
 
 
 ## § 1 Geltungsbereich der Erlaubnis

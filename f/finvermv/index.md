@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 1006
 
 Zuletzt geändert durch
-:   Art. 2 V v. 17.4.2023 I Nr. 103
-
-Änderung durch
-:   Art. 9 V v. 11.12.2024 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 V v. 11.12.2024 I Nr. 411
 
 
 ## Abschnitt 1 - Sachkundenachweis

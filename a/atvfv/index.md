@@ -17,13 +17,10 @@ Fundstelle
 :   BGBl I: 1977, 280
 
 Neugefasst durch
-:   Bek. v. 3.2.1995 I 180;
+:   Bek. v. 3.2.1995 I 180
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 5 G v. 4.12.2023 I Nr. 344
-
-Änderung durch
-:   Art. 16 V v. 11.12.2024 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 16 V v. 11.12.2024 I Nr. 411
 
 
 ## Erster Abschnitt - Anwendungsbereich, Antrag und Unterlagen

@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1999, 1525
 
 Zuletzt geändert durch
-:   Art. 82 G v. 10.8.2021 I 3436
-
-Änderung durch
-:   Art. 17 V v. 11.12.2024 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 17 V v. 11.12.2024 I Nr. 411
 
 
 ## Eingangsformel

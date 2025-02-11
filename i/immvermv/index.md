@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 1046
 
-Geändert durch
-:   Art. 3 V v. 17.12.2018 I 2483
-
-Änderung durch
-:   Art. 11 V v. 11.12.2024 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 11 V v. 11.12.2024 I Nr. 411
 
 
 ## Abschnitt 1 - Sachkundenachweis

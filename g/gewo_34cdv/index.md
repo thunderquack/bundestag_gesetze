@@ -17,13 +17,10 @@ Fundstelle
 :   BGBl I: 1974, 1314
 
 Neugefasst durch
-:   Bek. v. 7.11.1990 I 2479;
+:   Bek. v. 7.11.1990 I 2479
 
 Zuletzt geändert durch
-:   Art. 28 G v. 6.5.2024 I Nr. 149
-
-Änderung durch
-:   Art. 14 V v. 11.12.2024 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 14 V v. 11.12.2024 I Nr. 411
 
 
 ## § 1 Anwendungsbereich
@@ -35,7 +32,8 @@ Zuletzt geändert durch
 1.  als Versicherungs- oder Bausparkassenvertreter im Rahmen ihrer Tätigkeit für ein der Aufsicht der Bundesanstalt für Finanzdienstleistungsaufsicht unterliegendes Versicherungs- oder Bausparunternehmen den Abschluss von Verträgen über Darlehen vermitteln oder die Gelegenheit zum Abschluss solcher Verträge nachweisen oder
 
 
-2.  als Wohnimmobilienverwalter nach § 34c Absatz 1 Satz 1 Nummer 4 der Gewerbeordnung tätig sind, mit Ausnahme der §§ 11, 15 bis 15b, 18 Absatz 1 Nummer 7, 9, 10 Absatz 2 und 3 und § 19.
+2.  als Wohnimmobilienverwalter nach § 34c Absatz 1 Satz 1 Nummer 4 der Gewerbeordnung tätig sind, mit Ausnahme der §§ 11, 15 bis 15b, 18 Absatz 1 Nummer 7, 9, 10 Absatz 2 und 3 und
+    § 19                   .
 
 
 

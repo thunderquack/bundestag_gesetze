@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2014, 2010, 2011
 
 Zuletzt geändert durch
-:   Art. 1 V v. 29.1.2024 I Nr. 27
-
-Änderung durch
-:   Art. 13 V v. 11.12.2024 I Nr. 411 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 13 V v. 11.12.2024 I Nr. 411
 
 Diese Verordnung dient der Umsetzung
 

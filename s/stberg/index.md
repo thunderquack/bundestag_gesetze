@@ -2597,10 +2597,7 @@ Die Sätze 1 bis 3 gelten auch für Angestellte der Steuerberaterkammern und fü
 11. die besonderen elektronischen Steuerberaterpostfächer nach den §§ 86d und 86e einzurichten;
 
 
-12. eine Datenbank zur Verwaltung von Vollmachtsdaten im Sinne des § 80a der Abgabenordnung einzurichten und zu betreiben sowie die Vollmachtsdaten nach Maßgabe des § 80a der Abgabenordnung an die Landesfinanzbehörden zu übermitteln;
-
-
-13. eine Datenbank zur Verwaltung von Vollmachtsdaten im Sinne des § 105a Absatz 2 des Vierten Buches Sozialgesetzbuch einzurichten und zu betreiben sowie die Vollmachtsdaten den in § 105a Absatz 5 des Vierten Buches Sozialgesetzbuch genannten Stellen zur Verfügung zu stellen.
+12. die Einrichtung und der Betrieb einer Datenbank zur Verwaltung von Vollmachtsdaten im Sinne des § 80a der Abgabenordnung und zu deren Übermittlung an die Landesfinanzbehörden.
 
 
 
@@ -2815,7 +2812,7 @@ Bei einer virtuellen Satzungsversammlung muss in der Einberufung darauf hingewie
 
 (3) Die Bundessteuerberaterkammer hat sicherzustellen, dass der Zugang zur Steuerberaterplattform nur durch ein sicheres Verfahren mit zwei voneinander unabhängigen Sicherungsmitteln möglich ist.
 
-(4) Die Bundessteuerberaterkammer ist befugt, eine digitale Schnittstelle zwischen der Steuerberaterplattform und den Vollmachtsdatenbanken nach § 85a Absatz 2 Nummer 12 und 13 einzurichten.
+(4) Die Bundessteuerberaterkammer ist befugt, eine digitale Schnittstelle zwischen der Steuerberaterplattform und der Vollmachtsdatenbank nach § 85a Absatz 2 Nummer 12 einzurichten.
 
 (5) Die Bundessteuerberaterkammer kann von Fachsoftwareanbietern für die Nutzung der Steuerberaterplattform Nutzungsentgelte oder Lizenzgebühren verlangen.
 
