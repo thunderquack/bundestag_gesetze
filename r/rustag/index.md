@@ -650,7 +650,6 @@ Die Staatsangehörigkeitsbehörden übermitteln den Verfassungsschutzbehörden z
 
 
 
-
 Die Gebühr ermäßigt sich für ein minderjähriges Kind, das miteingebürgert wird und das keine eigenen Einkünfte im Sinne des Einkommensteuergesetzes hat, auf 51 Euro. Für den Widerruf oder die Rücknahme einer beantragten Leistung nach Satz 1, soweit der Betroffene dazu Anlass gegeben hat, die Ablehnung oder die Rücknahme eines Antrages auf Vornahme einer solchen Leistung nach Beginn der sachlichen Bearbeitung sowie die Zurückweisung oder die Rücknahme des Widerspruchs nach Beginn der sachlichen Bearbeitung wird eine Gebühr in Höhe von 25 Euro bis zu dem Betrag erhoben, der als Gebühr für die Vornahme der beantragten Leistung vorgesehen ist oder zu erheben wäre.
 
 (3) Gebührenfrei sind:

@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2024, Nr. 1
 
 Zuletzt geändert durch
-:   Art. 3 V v. 23.7.2024 I Nr. 256
-
-Änderung durch
-:   Art. 2 V v. 6.2.2025 I Nr. 32 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 6.2.2025 I Nr. 32
 
 Stand: Die Anlage zu § 2 Absatz 1, Abschnitte 3 und 4 ist gem. § 6 Abs. 2 dieser V am 1.2.2024 in Kraft getreten
 
