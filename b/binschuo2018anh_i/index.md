@@ -21,20 +21,20 @@ Fundstelle
 
 (Fundstelle: BGBl. I 2018, 1419 - 1421)
 
-## Zone 1
 
+## Zone 1
 
 *    *   Ems
 
     *   Von der Verbindungslinie zwischen dem ehemaligen Leuchtturm Greetsiel und der Westmole der Hafeneinfahrt des Eemshavens seewärts bis zum Breitenparallel
 [^F804091_04_BJNR141900018BJNE000100000]
-        53° 30' N                      und dem Meridian 6° 45' O, d. h. geringfügig seewärts des Leichterplatzes für Trockenfrachter in der Alten Ems
+        53° 30' N                        und dem Meridian 6° 45' O, d. h. geringfügig seewärts des Leichterplatzes für Trockenfrachter in der Alten Ems
+
 
 
 
 Zone 2
 ## Zone 2-See
-
 
 *    *   Ems
 
@@ -105,7 +105,7 @@ Zone 2
         (außer Greifswalder Hafengebiet mit Ryck)
 
     *   Seewärts begrenzt durch die Verbindungslinie von der Ostspitze Thiessower Haken (Südperd) über die Ostspitze Insel Ruden zur Nordspitze Insel Usedom
-        (54° 10' 37'' N,                      13° 47' 51'' O) bis zur Grenze des Greifswalder Hafengebietes
+        (54° 10' 37'' N,                        13° 47' 51'' O) bis zur Grenze des Greifswalder Hafengebietes
 
 
 *    *   Gewässer, die vom Festland und der Insel Usedom eingeschlossen sind (Peenestrom,
@@ -116,8 +116,8 @@ Zone 2
 
 
 
-## Zone 2-Binnen
 
+## Zone 2-Binnen
 
 *    *   Ems
 
@@ -304,8 +304,8 @@ Zone 2
 
 
 
-## Zone 3
 
+## Zone 3
 
 *    *   Donau
 
@@ -328,10 +328,11 @@ Zone 2
     *
 
 
+
    ## Zone 4
 
-
 *    *   Alle Binnenwasserstraßen außer denen der Zonen 1, 2 und 3
+
 
 
 

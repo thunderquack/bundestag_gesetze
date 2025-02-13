@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2749
 
 Zuletzt geändert durch
-:   Art. 1 G v. 16.7.2021 I 2941
-
-Änderung durch
-:   Art. 2 G v. 19.7.2024 I Nr. 245 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
+:   Art. 2 G v. 19.7.2024 I Nr. 245
 
 
 ## § 1 Geltungsbereich
@@ -272,8 +266,6 @@ Soweit ein Recht auf Akteneinsicht besteht, können die Behörden des Bundes, di
 (1) Für die Verarbeitung personenbezogener Daten im Verwaltungsportal des Bundes nach § 9a Absatz 3 Nummer 3 bis 6 und nach § 9b Absatz 2 und 3 ist die jeweils zuständige Behörde des Bundes datenschutzrechtlich verantwortlich; die für das Verwaltungsportal des Bundes zuständige öffentliche Stelle wird insofern tätig als Auftragsverarbeiter nach Artikel 4 Nummer 8 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2).
 
 (2) Im Übrigen führt die für das Verwaltungsportal des Bundes zuständige öffentliche Stelle die Verarbeitung personenbezogener Daten in ausschließlich eigener datenschutzrechtlicher Verantwortlichkeit aus.
-
-(3) (weggefallen)
 
 
 ## § 10 Umsetzung von Standardisierungsbeschlüssen des IT-Planungsrates

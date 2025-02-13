@@ -16,18 +16,8 @@ Fundstelle
 :   BGBl I: 2009, 1346
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 2 G v. 22.3.2024 I Nr. 104
+:   Art. 8e G v. 19.7.2024 I Nr. 245
 
-Änderung durch
-:   Art. 8e G v. 19.7.2024 I Nr. 245 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 5 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 8 G v. 23.10.2024 I Nr. 323 noch nicht berücksichtigt
-
-Stand: Mittelbare Änderung gem. Art. 3 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 

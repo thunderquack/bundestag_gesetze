@@ -3027,6 +3027,7 @@ Bezeichnungen der Fahrzeuge in Fahrt, die zur Beförderung von mehr als 12 Fahrg
     *        ![bgbl2_1994_j0027_ab_0030.jpg](bgbl2_1994_j0027_ab_0030.jpg)
 
 
+
    Bezeichnung der Fähren in Fahrt
 
 ###### § 3.16 (Anlage 3  Bild 34, 35, 36)
@@ -3091,6 +3092,7 @@ Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die einen Vorrang besitzen
     *        ![bgbl2_1994_j0028_ab_0030.jpg](bgbl2_1994_j0028_ab_0030.jpg)
 
 
+
    Zusätzliche Bezeichnung manövrierunfähiger Fahrzeuge in Fahrt
 
 ###### § 3.18 (Anlage 3: Bild 38)
@@ -3149,6 +3151,7 @@ Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die einen Vorrang besitzen
 
 
 
+
 Bezeichnung der Schwimmkörper und schwimmenden Anlagen in Fahrt
 
 ###### § 3.19 (Anlage 3  Bild 39)
@@ -3160,6 +3163,7 @@ Bezeichnung der Schwimmkörper und schwimmenden Anlagen in Fahrt
 *    *   von allen Seiten sichtbare weiße helle Lichter in genügender Zahl, um ihre Umrisse kenntlich zu machen.
 
     *        ![bgbl2_1994_j0029_ab_0020.jpg](bgbl2_1994_j0029_ab_0020.jpg)
+
 
 
 
@@ -3243,6 +3247,7 @@ Zusätzliche Bezeichnung stilliegender Fahrzeuge bei Beförderung bestimmter gef
     *        ![bgbl2_1994_j0030_ab_0060.jpg](bgbl2_1994_j0030_ab_0060.jpg)
 
 
+
    Bezeichnung der Fähren, die an ihrer Anlegestelle stilliegen
 
 ###### § 3.22 (Anlage 3  Bild 45, 46)
@@ -3283,6 +3288,7 @@ Zusätzliche Bezeichnung stilliegender Fahrzeuge bei Beförderung bestimmter gef
     *        ![bgbl2_1994_j0031_ab_0030.jpg](bgbl2_1994_j0031_ab_0030.jpg)
 
 *    *   Die in Satz 1 vorgeschriebenen Lichter brauchen nicht geführt zu werden, wenn die Voraussetzungen des § 3.20 Nr. 3 Buchstabe b oder c erfüllt sind.
+
 
 
 
@@ -3328,6 +3334,7 @@ Bezeichnung bestimmter stilliegender Fischereifahrzeuge und der Netze oder Ausle
     *   durch gelbe Döpper in ausreichender Zahl, um ihre Lage kenntlich zu machen.
 
     *        ![bgbl2_1994_j0032_ab_0020.jpg](bgbl2_1994_j0032_ab_0020.jpg)
+
 
 
    Bezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener oder gesunkener Fahrzeuge
@@ -3563,6 +3570,7 @@ Zusätzliche Bezeichnung der Fahrzeuge, Schwimmkörper und schwimmenden Anlagen,
 
 
 
+
 #### Abschnitt III. - Sonstige Bezeichnung
 
 
@@ -3578,6 +3586,7 @@ Zusätzliche Bezeichnung der Fahrzeuge, Schwimmkörper und schwimmenden Anlagen,
     *        ![bgbl2_1994_j0035_ab_0060.jpg](bgbl2_1994_j0035_ab_0060.jpg)
 
 
+
    Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten im Fahrwasser ausführen
 
 ##### § 3.28 (Anlage 3: Bild 57)
@@ -3591,6 +3600,7 @@ Zusätzliche Bezeichnung der Fahrzeuge, Schwimmkörper und schwimmenden Anlagen,
 
 *    *        ![bgbl2_2020_j0354_0010.jpg](bgbl2_2020_j0354_0010.jpg)
     *        ![bgbl2_2020_j0354_0020.jpg](bgbl2_2020_j0354_0020.jpg)
+
 
 
    Schutz gegen Wellenschlag
@@ -3651,6 +3661,7 @@ Zusätzliche Bezeichnung der Fahrzeuge, Schwimmkörper und schwimmenden Anlagen,
 
 
 
+
 Notzeichen
 
 ##### § 3.30 (Anlage 3  Bild 59)
@@ -3693,6 +3704,7 @@ Notzeichen
 
 
 
+
 Hinweis auf das Verbot, das Fahrzeug zu betreten
 
 ##### § 3.31 (Anlage 3 Bild 60)
@@ -3723,6 +3735,7 @@ Hinweis auf das Verbot, das Fahrzeug zu betreten
 *    *   3.
 
     *   Die Symbole, die nach der am 30. November 2011 gültigen Fassung der Rheinschifffahrtspolizeiverordnung vorgeschrieben waren, dürfen bis zum 30. November 2015 verwendet werden.
+
 
 
 
@@ -3772,6 +3785,7 @@ Hinweis auf das Verbot, zu rauchen, ungeschütztes Licht oder Feuer zu verwenden
 *    *   3.
 
     *   Die Symbole, die nach der am 30. November 2011 gültigen Fassung der Rheinschifffahrtspolizeiverordnung vorgeschrieben waren, dürfen bis zum 30. November 2015 verwendet werden.
+
 
 
 
@@ -4277,6 +4291,7 @@ Begegnen  Grundregeln
 
 
 
+
 ##### § 6.05 Begegnen Ausnahmen von den Grundregeln
 
 
@@ -4381,6 +4396,7 @@ Die §§ 6.04 und 6.05 gelten nicht beim Begegnen von schnellen Schiffen mit and
 
 
 
+
 ##### § 6.09 Überholen Allgemeine Bestimmungen
 
 
@@ -4464,6 +4480,7 @@ Die §§ 6.04 und 6.05 gelten nicht beim Begegnen von schnellen Schiffen mit and
 
 
 
+
 #### Abschnitt III. - Weitere Regeln für die Fahrt
 
 
@@ -4490,6 +4507,7 @@ Die §§ 6.04 und 6.05 gelten nicht beim Begegnen von schnellen Schiffen mit and
     *
     *        ![bgbl2_1994_j0046_ab_0050.jpg](bgbl2_1994_j0046_ab_0050.jpg)
     *        ![bgbl2_1994_j0046_ab_0060.jpg](bgbl2_1994_j0046_ab_0060.jpg)
+
 
 
 
@@ -4532,6 +4550,7 @@ Die §§ 6.04 und 6.05 gelten nicht beim Begegnen von schnellen Schiffen mit and
 *    *   Sind hingegen Strecken durch das Tafelzeichen E.8 (Anlage 7) gekennzeichnet, so wird dem Schiffsführer empfohlen, dort zu wenden, wobei dieser Paragraph zu beachten ist.
 
     *        ![bgbl2_1994_j0047_ab_0010.jpg](bgbl2_1994_j0047_ab_0010.jpg)
+
 
 
 
@@ -4622,6 +4641,7 @@ Es ist verboten, in die Abstände zwischen den Teilen eines Schleppverbandes hin
 
 
 
+
 ##### § 6.17 Fahrt auf gleicher Höhe, Verbot der Annäherung an Fahrzeuge
 
 
@@ -4653,6 +4673,7 @@ Es ist verboten, in die Abstände zwischen den Teilen eines Schleppverbandes hin
     *   Das Verbot nach Nummer 1 gilt weder beim Treibenlassen, sofern dies gestattet ist, noch für kleine Bewegungen auf Liegestellen, Lade- und Löschplätzen sowie auf Reeden; es gilt jedoch für derartige Bewegungen auf Strecken, die nach § 7.03 Nr. 1 Buchstabe b durch das Tafelzeichen A.6 (Anlage 7) gekennzeichnet sind.
 
     *        ![bgbl2_1994_j0049_ab_0010.jpg](bgbl2_1994_j0049_ab_0010.jpg)
+
 
 
 
@@ -4730,6 +4751,7 @@ Es ist verboten, in die Abstände zwischen den Teilen eines Schleppverbandes hin
 
 
 
+
 ##### § 6.21 Zusammenstellung der Verbände
 
 
@@ -4786,6 +4808,7 @@ Vorbeifahrt an schwimmenden Geräten bei der Arbeit sowie an festgefahrenen oder
 
     *
     *        ![bgbl2_1994_j0050_ab_0050.jpg](bgbl2_1994_j0050_ab_0050.jpg)
+
 
 
 
@@ -4849,6 +4872,7 @@ Vorbeifahrt an schwimmenden Geräten bei der Arbeit sowie an festgefahrenen oder
 
 
 
+
 ##### § 6.25 Durchfahrt unter festen Brücken
 
 
@@ -4896,6 +4920,7 @@ Vorbeifahrt an schwimmenden Geräten bei der Arbeit sowie an festgefahrenen oder
 *    *   3.
 
     *   Sind bestimmte Öffnungen fester Brücken nach Nummer 2 gekennzeichnet, kann die Schiffahrt die nicht gekennzeichneten Öffnungen nur auf eigene Gefahr benutzen.
+
 
 
 
@@ -5044,6 +5069,7 @@ d)  Beim Ankern, Schleifenlassen von Ketten, Fieren von Tauen, Festmachen an Lan
 
 
 
+
 ##### § 6.28a Schleuseneinfahrt und -ausfahrt
 
 
@@ -5140,6 +5166,7 @@ d)  Beim Ankern, Schleifenlassen von Ketten, Fieren von Tauen, Festmachen an Lan
 *    *   4.
 
     *   Werden keine Signallichter oder keine Tafelzeichen gezeigt, ist die Einfahrt in die Schleuse oder die Ausfahrt aus der Schleuse ohne besondere Anordnung der Schleusenaufsicht verboten.
+
 
 
 
@@ -5406,6 +5433,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit dem ke
 
 
 
+
 #### § 7.03 Ankern und Benutzung von Ankerpfählen
 
 
@@ -5434,6 +5462,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit dem ke
 *    *   3.
 
     *   Auf den Abschnitten, auf denen das Ankern und die Benutzung von Ankerpfählen nach Nummer 1 Buchstabe a verboten sind, dürfen Fahrzeuge und Schwimmkörper sowie schwimmende Anlagen nur auf den Strecken Ankerpfähle benutzen, die durch das Tafelzeichen E.6.1 (Anlage 7) gekennzeichnet sind, und nur auf der Seite der Wasserstraße, auf der das Tafelzeichen steht.
+
 
 
 
@@ -5471,6 +5500,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit dem ke
 
 
 
+
 #### § 7.05 Liegestellen
 
 
@@ -5497,6 +5527,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit dem ke
     *   Auf Liegestellen, bei denen das Tafelzeichen E.5.3 (Anlage 7) aufgestellt ist, dürfen auf der Seite der Wasserstraße, auf der das Tafelzeichen steht, nicht mehr Fahrzeuge und Schwimmkörper nebeneinander stilliegen, als auf dem Tafelzeichen in römischen Zahlen angegeben ist.
 
     *        ![bgbl2_1994_j0061_ab_0020.jpg](bgbl2_1994_j0061_ab_0020.jpg)
+
 
 
 
@@ -5539,6 +5570,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit dem ke
 *    *   4.
 
     *   Nummer 3 findet keine Anwendung auf Fahrzeuge, die während des Stillliegens ausschließlich eine Energieversorgung nutzen, welche keine Geräusche sowie keine gasförmigen Schadstoffe und luftverunreinigenden Partikel verursacht.
+
 
 
 
@@ -6018,6 +6050,7 @@ e)  solange Fahrgäste an Bord sind, muß nachts jede Stunde ein Kontrollgang du
 *    *   11.
 
     *   Auf dem Großen Elsässischen Kanal und dem kanalisierten Rhein bis km 294,00 kann die in den §§ 3.08, 3.09, 3.10, 3.13, 3.14, 3.15 und 3.29 angegebene Mindesthöhe der Lichter und Zeichen in dem Maße herabgesetzt werden, als es für die Durchfahrt unter Bauwerken erforderlich ist, wobei alle Maßnahmen zu treffen sind, damit die verschiedenen Lichter und Zeichen sichtbar bleiben.
+
 
 
 
@@ -7700,6 +7733,7 @@ Der Vermerk im Schiffsattest nach § 6.21 Nr. 2 wird durch eine Bescheinigung de
 *    *   4.
 
     *   Auf den Reeden dürfen bis zu drei Fahrzeuge nebeneinander liegen, sofern nicht durch die Bestimmungen für die einzelnen Reeden diese Anzahl eingeschränkt oder nach § 7.05 Nr. 2, 3 oder 4 eine andere Regelung getroffen wird.
+
 
 
 

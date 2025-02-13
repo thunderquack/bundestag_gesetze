@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 3122, 3138
 
 Zuletzt geändert durch
-:   Art. 16 G v. 28.6.2021 I 2250; 2023 I Nr. 230
-
-Änderung durch
-:   Art. 1 G v. 19.7.2024 I Nr. 245 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 19.7.2024 I Nr. 245
 
 
 ## § 1 Anwendungsbereich

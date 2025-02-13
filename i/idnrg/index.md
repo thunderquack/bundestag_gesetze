@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2021, 591 (2023 I Nr. 230)
 
 Zuletzt geändert durch
-:   Art. 11 G v. 8.5.2024 I Nr. 152
-
-Änderung durch
-:   Art. 8f G v. 19.7.2024 I Nr. 245 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8f G v. 19.7.2024 I Nr. 245
 
 Stand: Das G ist gem. Art. 22 Satz 2 iVm Bek. v. 24.8.2023 I Nr. 230 mWv 31.8.2023 in Kraft getreten
 Stand: § 12 ist gem. Art. 22 Satz 1 mWv 7.4.2021 in Kraft getreten

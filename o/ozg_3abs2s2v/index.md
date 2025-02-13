@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4370
 
-Änderung durch
-:   Art. 7 G v. 19.7.2024 I Nr. 245 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 7 G v. 19.7.2024 I Nr. 245
 
 
 ## Eingangsformel

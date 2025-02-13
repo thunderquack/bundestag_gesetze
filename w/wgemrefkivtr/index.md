@@ -23,14 +23,13 @@ Stand: Inkraft gem. Art. 2 Abs. 2 G v. 10.12.2014 I 2078 iVm Bek. v. 22.12. 2014
 
 (Fundstelle: BGBl. I 2014, 2079 - 2081)
 
+
 Vertrag zwischen der Bundesrepublik Deutschland, vertreten durch den Bundesminister des Innern, und der Weltgemeinschaft Reformierter Kirchen
 – Körperschaft des öffentlichen Rechts –
-## vertreten durch den Präsidenten, den Generalsekretär und den Generalschatzmeister
-
+vertreten durch den Präsidenten, den Generalsekretär und den Generalschatzmeister
 Agreement concluded between the Federal Republic of Germany, represented by the Federal Minister of the Interior, and the World Communion of Reformed Churches
 – a corporation under public law –
 ## represented by the President, the General Secretary and the General Treasurer
-
 
 *    *   **Artikel 1**
 
@@ -271,6 +270,7 @@ Agreement concluded between the Federal Republic of Germany, represented by the 
         Johann Weusmann
         Generalschatzmeister
         General Treasurer
+
 
 
 

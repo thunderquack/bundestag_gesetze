@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 2702, 2706
 
 Zuletzt geändert durch
-:   Art. 9 G v. 6.5.2024 I Nr. 149
-
-Änderung durch
-:   Art. 3 G v. 19.7.2024 I Nr. 245 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 19.7.2024 I Nr. 245
 
 
 ## § 1 Gegenstand der Zusammenarbeit; Koordinierungsgremium
