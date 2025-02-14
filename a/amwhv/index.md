@@ -18,13 +18,7 @@ Fundstelle
 :   BGBl I: 2006, 2523
 
 Zuletzt geändert durch
-:   Art. 3a G v. 9.8.2019 I 1202
-
-Mittelbare änderung durch
-:   Art. 4 Nr. 3 G v. 27.9.2021 I 4530 ist berücksichtigt
-
-Änderung durch
-:   Art. 9 G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 23.10.2024 I Nr. 324
 
 
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen

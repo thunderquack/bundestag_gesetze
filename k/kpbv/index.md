@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 2333
 
+Zuletzt geändert durch
+:   Art. 8 G v. 23.10.2024 I Nr. 324
+
 Stand: Die §§ 5 bis 12 sind gem. Art. 13 Abs. 2 u. 3 G v. 12.7.2017 I 2333 iVm Bek. v. 7.10.2021 I 4648 mWv 31.1.2022 in Kraft getreten.
-Änderung durch
-:   Art. 7 G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 G v. 23.10.2024 I Nr. 324 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
 [^BJNR233300017_01]:     Diese Verordnung dient der Durchführung der Verordnung (EU) Nr. 536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1; L 311 vom 17.11.2016, S. 25).
 
 

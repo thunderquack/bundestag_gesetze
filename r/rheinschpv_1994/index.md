@@ -3820,14 +3820,6 @@ Hinweis auf das Verbot des Stilliegens nebeneinander
 
 
 
-2.  Bei Nacht müssen die Tafeln so beleuchtet sein, daß sie an beiden Seiten des Fahrzeugs deutlich sichtbar sind.
-
-
-3.  Dieser Paragraph gilt nicht für die in § 3.21 genannten Fahrzeuge, Schubverbände und gekuppelten Fahrzeuge.
-
-
-
-
 Zusätzliche Bezeichnung der Fahrzeuge beim Einsatz von Tauchern
 
 ##### § 3.34 (Anlage 3: Bild 65)
@@ -6360,266 +6352,220 @@ Unterhalb der Spyck'schen Fähre (km 857,40) müssen sich die Fahrzeuge bei unsi
 #### § 10.01 Beschränkung der Schiffahrt bei Hochwasser oberhalb der Spyck'schen Fähre
 
 
-*    *   1.
+1.  Zwischen der Mittleren Rheinbrücke in Basel (km 166,53) und den Schleusen Kembs (km 179,10) sowie zwischen den Schleusen Iffezheim (km 334,00) und der Spyck’schen Fähre (km 857,40) ist die Schifffahrt bei Hochwasserständen zwischen den Marken I und II nachstehenden Beschränkungen unterworfen:
 
-    *   Zwischen der Mittleren Rheinbrücke in Basel (km 166,53) und den Schleusen Kembs (km 179,10) sowie zwischen den Schleusen Iffezheim (km 334,00) und der Spyck’schen Fähre (km 857,40) ist die Schifffahrt bei Hochwasserständen zwischen den Marken I und II nachstehenden Beschränkungen unterworfen:
+    a)  alle Fahrzeuge - mit Ausnahme der Kleinfahrzeuge ohne Maschinenantrieb - müssen sich in der Talfahrt möglichst in der Mitte, in der Bergfahrt im mittleren Drittel des Stromes halten; als Breite des Stromes gilt der Abstand zwischen den Uferlinien; beim Fahren einschließlich des Überholens sind höchstens bis zu zwei Schiffs- oder Verbandsbreiten zulässig;
 
 
-*    *
-    *   a)
+    b)  erfordern es die örtlichen Verhältnisse, abweichend von Buchstabe a näher an ein Ufer heranzufahren, müssen alle dort genannten Fahrzeuge dennoch möglichst weit vom Ufer entfernt bleiben und ihre Geschwindigkeit entsprechend vermindern;
 
-    *   alle Fahrzeuge - mit Ausnahme der Kleinfahrzeuge ohne Maschinenantrieb - müssen sich in der Talfahrt möglichst in der Mitte, in der Bergfahrt im mittleren Drittel des Stromes halten; als Breite des Stromes gilt der Abstand zwischen den Uferlinien; beim Fahren einschließlich des Überholens sind höchstens bis zu zwei Schiffs- oder Verbandsbreiten zulässig;
 
+    c)  § 9.04 bleibt unberührt. Zwischen Lorch (km 540,20) und St. Goar (km 556,00) hat die Bergfahrt das mittlere Drittel des Stromes aber so weit zum linken Ufer einzuhalten, daß die Begegnung mit der Talfahrt ohne Gefahr Backbord an Backbord stattfinden kann;
 
-*    *
-    *   b)
 
-    *   erfordern es die örtlichen Verhältnisse, abweichend von Buchstabe a näher an ein Ufer heranzufahren, müssen alle dort genannten Fahrzeuge dennoch möglichst weit vom Ufer entfernt bleiben und ihre Geschwindigkeit entsprechend vermindern;
+    d)  unbeschadet des § 6.20 darf die Höchstgeschwindigkeit der Fahrzeuge gegenüber dem Ufer 20 km in der Stunde nicht überschreiten, ausgenommen die Talfahrt in der Gebirgsstrecke zwischen Bingen (km 528,50) und St. Goar (km 556,00), in der die Höchstgeschwindigkeit der Fahrzeuge gegenüber dem Ufer 24 km in der Stunde nicht überschreiten darf;
 
 
-*    *
-    *   c)
+    e)  nach Überschreiten der Hochwassermarke I dürfen innerhalb des entsprechenden Streckenabschnitts nur solche Fahrzeuge ihre Fahrt fortsetzen, die mit einer Sprechfunkanlage ausgerüstet sind. Sie müssen den Verkehrskreis Nautische Information auf Empfang geschaltet haben. Dies gilt nicht für Kleinfahrzeuge, die mit Muskelkraft fortbewegt werden;
 
-    *   § 9.04 bleibt unberührt. Zwischen Lorch (km 540,20) und St. Goar (km 556,00) hat die Bergfahrt das mittlere Drittel des Stromes aber so weit zum linken Ufer einzuhalten, daß die Begegnung mit der Talfahrt ohne Gefahr Backbord an Backbord stattfinden kann;
 
+    f)  nach Überschreiten der Hochwassermarke I ist schnellen Schiffen die Fahrt verboten.
 
-*    *
-    *   d)
 
-    *   unbeschadet des § 6.20 darf die Höchstgeschwindigkeit der Fahrzeuge gegenüber dem Ufer 20 km in der Stunde nicht überschreiten, ausgenommen die Talfahrt in der Gebirgsstrecke zwischen Bingen (km 528,50) und St. Goar (km 556,00), in der die Höchstgeschwindigkeit der Fahrzeuge gegenüber dem Ufer 24 km in der Stunde nicht überschreiten darf;
 
 
-*    *
-    *   e)
 
-    *   nach Überschreiten der Hochwassermarke I dürfen innerhalb des entsprechenden Streckenabschnitts nur solche Fahrzeuge ihre Fahrt fortsetzen, die mit einer Sprechfunkanlage ausgerüstet sind. Sie müssen den Verkehrskreis Nautische Information auf Empfang geschaltet haben. Dies gilt nicht für Kleinfahrzeuge, die mit Muskelkraft fortbewegt werden;
+2.  Erreicht oder überschreitet der Wasserstand die Hochwassermarke II an dem Richtpegel für den unter Nummer 3 aufgeführten Streckenabschnitt, ist die Schiffahrt mit Ausnahme des Übersetzverkehrs innerhalb des Streckenabschnitts verboten.
 
 
-*    *
-    *   f)
+3.  Die in Nummer 1 und 2 genannten Hochwassermarken werden durch folgende Wasserstände bestimmt und die Richtpegel für die Berg- oder Talfahrt gelten für die nachstehend aufgeführten Streckenabschnitte:
 
-    *   nach Überschreiten der Hochwassermarke I ist schnellen Schiffen die Fahrt verboten.
 
+    *        *   Strecke
 
-*    *   2.
+        *   Richtpegel
+            für Berg- und Talfahrt
+            Wasserstand
 
-    *   Erreicht oder überschreitet der Wasserstand die Hochwassermarke II an dem Richtpegel für den unter Nummer 3 aufgeführten Streckenabschnitt, ist die Schiffahrt mit Ausnahme des Übersetzverkehrs innerhalb des Streckenabschnitts verboten.
 
+    *        *   Marke I
 
-*    *   3.
+        *   Marke II
 
-    *   Die in Nummer 1 und 2 genannten Hochwassermarken werden durch folgende Wasserstände bestimmt und die Richtpegel für die Berg- oder Talfahrt gelten für die nachstehend aufgeführten Streckenabschnitte:
 
+    *        *   Basel (km 166,53)
 
+        *
 
+    *        *   Basel-Schleusen Kembs
+            Kembs (km 179,10)
 
-*    *   Strecke
+        *   Basel-Rheinhalle
+            7,00 8,20
 
-    *   Richtpegel
-        für Berg- und Talfahrt
-        Wasserstand
 
+    *        *   Schleusen Iffezheim (km 334,00)
 
-*    *   Marke I
+        *
 
-    *   Marke II
+    *        *   Schleusen Iffezheim-Germersheim
+            Germersheim (km 384,00)
 
+        *   Maxau
+            6,20 7,50
 
-*    *   Basel (km 166,53)
 
-    *
+    *        *   Germersheim-Mannheim-Rheinau
+            Mannheim-Rheinau (km 410,50)
 
-*    *   Basel-Schleusen Kembs
-        Kembs (km 179,10)
+        *   Speyer
+            6,20 7,30
 
-    *   Basel-Rheinhalle
-        7,00 8,20
 
+    *        *   Mannheim-Rheinau-Mannheim-Sandhofen
+            Mannheim-Sandhofen (km 431,50)
 
-*    *   Schleusen Iffezheim (km 334,00)
+        *   Mannheim
+            6,50 7,60
 
-    *
 
-*    *   Schleusen Iffezheim-Germersheim
-        Germersheim (km 384,00)
+    *        *   Mannheim-Sandhofen-Gernsheim
+            Gernsheim (km 462,00)
 
-    *   Maxau
-        6,20 7,50
+        *   Worms
+            4,40 6,50
 
 
-*    *   Germersheim-Mannheim-Rheinau
-        Mannheim-Rheinau (km 410,50)
+    *        *   Gernsheim-Eltville
+            Eltville (km 511,00)
 
-    *   Speyer
-        6,20 7,30
+        *   Mainz
+            4,75 6,30
 
 
-*    *   Mannheim-Rheinau-Mannheim-Sandhofen
-        Mannheim-Sandhofen (km 431,50)
+    *        *   Eltville-Lorch
+            Lorch (km 540,00)
 
-    *   Mannheim
-        6,50 7,60
+        *   Bingen
+            3,50 4,90
 
 
-*    *   Mannheim-Sandhofen-Gernsheim
-        Gernsheim (km 462,00)
+    *        *   Lorch-Bad Salzig
+            Bad Salzig (km 566,00)
 
-    *   Worms
-        4,40 6,50
+        *   Kaub
+            4,60 6,40
 
 
-*    *   Gernsheim-Eltville
-        Eltville (km 511,00)
+    *        *   Bad Salzig-Engers
+            Engers (km 601,00)
 
-    *   Mainz
-        4,75 6,30
+        *   Koblenz
+            4,70 6,50
 
 
-*    *   Eltville-Lorch
-        Lorch (km 540,00)
+    *        *   Engers-Bad Breisig
+            Bad Breisig (km 624,00)
 
-    *   Bingen
-        3,50 4,90
+        *   Andernach
+            5,50 7,60
 
 
-*    *   Lorch-Bad Salzig
-        Bad Salzig (km 566,00)
+    *        *   Bad Breisig-Mondorf
+            Mondorf (km 660,00)
 
-    *   Kaub
-        4,60 6,40
+        *   Oberwinter
+            4,90 6,80
 
 
-*    *   Bad Salzig-Engers
-        Engers (km 601,00)
+    *        *   Mondorf-Dormagen
+            Dormagen (km 710,00)
 
-    *   Koblenz
-        4,70 6,50
+        *   Köln
+            6,20 8,30
 
 
-*    *   Engers-Bad Breisig
-        Bad Breisig (km 624,00)
+    *        *   Dormagen-Krefeld
+            Krefeld (km 763,00)
 
-    *   Andernach
-        5,50 7,60
+        *   Düsseldorf
+            7,10 8,80
 
 
-*    *   Bad Breisig-Mondorf
-        Mondorf (km 660,00)
+    *        *   Krefeld-Orsoy
+            Orsoy (km 794,00)
 
-    *   Oberwinter
-        4,90 6,80
+        *   Duisburg-Ruhrort
+            9,30 11,30
 
 
-*    *   Mondorf-Dormagen
-        Dormagen (km 710,00)
+    *        *   Orsoy-Rees
+            Rees (km 837,00)
 
-    *   Köln
-        6,20 8,30
+        *   Wesel
+            8,70 10,60
 
 
-*    *   Dormagen-Krefeld
-        Krefeld (km 763,00)
+    *        *   Rees-Spyck'sche Fähre
+            Spyck'sche Fähre (km 857,40)
 
-    *   Düsseldorf
-        7,10 8,80
+        *   Emmerich
+            7,00 8,70
 
 
-*    *   Krefeld-Orsoy
-        Orsoy (km 794,00)
 
-    *   Duisburg-Ruhrort
-        9,30 11,30
 
 
-*    *   Orsoy-Rees
-        Rees (km 837,00)
+4.  Zwischen Basel und den Schleusen Kembs können die zuständigen Behörden einzelnen Fahrzeugen und Verbänden für diesen Streckenabschnitt bis zu einem Wasserstand von 8,50 m am Pegel Basel-Rheinhalle die Fahrt freigeben, wenn der Wasserstand bereits seit mehr als drei aufeinanderfolgenden Tagen überwiegend über der Marke von 8,20 m lag und die Vorhersagen dahin gehen, dass der Wasserstand auch an den folgenden zwei Tagen noch über dieser Marke liegen wird.
 
-    *   Wesel
-        8,70 10,60
 
+5.  Zwischen den Schleusen Kembs und den Schleusen Iffezheim (km 334,00) wird die Schiffahrt bei Hochwasser wie folgt geregelt:
 
-*    *   Rees-Spyck'sche Fähre
-        Spyck'sche Fähre (km 857,40)
+    a)  zwischen dem oberen Vorhafen der Schleusen Kembs und dem oberen Vorhafen der Schleusen Vogelgrün ist die Schiffahrt keinen Beschränkungen wegen Hochwassers unterworfen. Die zuständige Behörde kann jedoch, um Ansammlungen von Fahrzeugen in den Vorhäfen der Schleusen Kembs und Vogelgrün zu vermeiden, die Fahrzeuge auf die Vorhäfen der verschiedenen Schleusen verteilen;
 
-    *   Emmerich
-        7,00 8,70
 
+    b)  zwischen den Schleusen Vogelgrün und den Schleusen Iffezheim
 
+        -   wird der Betrieb der Schleusen einer gegebenen Haltung eingestellt, wenn die auf einer Mauer bei dem Unterhaupt dieser Schleusen sichtbar angebrachte Hochwassermarke II erreicht oder überschritten ist;
 
 
-*    *   4.
+        -   ist Kleinfahrzeugen die Fahrt in einer Haltung verboten, wenn die an dem Unterhaupt der jeweils oberhalb liegenden Schleuse sichtbar angebrachte Hochwassermarke II erreicht oder überschritten ist.
 
-    *   Zwischen Basel und den Schleusen Kembs können die zuständigen Behörden einzelnen Fahrzeugen und Verbänden für diesen Streckenabschnitt bis zu einem Wasserstand von 8,50 m am Pegel Basel-Rheinhalle die Fahrt freigeben, wenn der Wasserstand bereits seit mehr als drei aufeinanderfolgenden Tagen überwiegend über der Marke von 8,20 m lag und die Vorhersagen dahin gehen, dass der Wasserstand auch an den folgenden zwei Tagen noch über dieser Marke liegen wird.
 
 
-*    *   5.
+        Jedoch kann die zuständige Behörde einzelnen Fahrzeugen und Verbänden für den Streckenabschnitt von unterhalb der Schleuse Vogelgrün bis unterhalb der Schleuse Straßburg bis zu einem Wasserstand von 0,40 m über der angebrachten Hochwassermarke II die Fahrt und die Schleusungen freigeben, wenn der Wasserstand bereits seit mehr als drei aufeinander folgenden Tagen überwiegend über der Hochwassermarke II lag und die Vorhersagen dahin gehen, dass der Wasserstand auch an den folgenden zwei Tagen noch über dieser Hochwassermarke liegen wird;
 
-    *   Zwischen den Schleusen Kembs und den Schleusen Iffezheim (km 334,00) wird die Schiffahrt bei Hochwasser wie folgt geregelt:
 
+    c)  auf der Stromstrecke zwischen dem südlichen Vorhafen (km 291,30) und dem nördlichen Vorhafen (km 295,50) des Straßburger Hafens wird die Schiffahrt bei Erreichen des höchsten Schiffahrtswasserstandes (HSW) wie folgt gesperrt:
 
-*    *
-    *   a)
+        -
+            *                *   in der Talfahrt durch ein bei km 291,30
 
-    *   zwischen dem oberen Vorhafen der Schleusen Kembs und dem oberen Vorhafen der Schleusen Vogelgrün ist die Schiffahrt keinen Beschränkungen wegen Hochwassers unterworfen. Die zuständige Behörde kann jedoch, um Ansammlungen von Fahrzeugen in den Vorhäfen der Schleusen Kembs und Vogelgrün zu vermeiden, die Fahrzeuge auf die Vorhäfen der verschiedenen Schleusen verteilen;
+                *                    ![bgbl2_1994_j0071_ab_0010.jpg](bgbl2_1994_j0071_ab_0010.jpg)
 
+            *                *   aufgestelltes rotes Licht (Zeichen A.1, Anlage 7);
 
-*    *
-    *   b)
+                *
 
-    *   zwischen den Schleusen Vogelgrün und den Schleusen Iffezheim
 
 
-*    *
-    *
-    *   -
 
-    *   wird der Betrieb der Schleusen einer gegebenen Haltung eingestellt, wenn die auf einer Mauer bei dem Unterhaupt dieser Schleusen sichtbar angebrachte Hochwassermarke II erreicht oder überschritten ist;
+        -
+            *                *   in der Bergfahrt durch ein bei km 294,50
 
-    *
+                *
 
-*    *
-    *
-    *   -
+            *                *   aufgestelltes rotes Licht (Zeichen A.1, Anlage 7).
 
-    *   ist Kleinfahrzeugen die Fahrt in einer Haltung verboten, wenn die an dem Unterhaupt der jeweils oberhalb liegenden Schleuse sichtbar angebrachte Hochwassermarke II erreicht oder überschritten ist.
+                *
 
-    *
 
-*    *
-    *   Jedoch kann die zuständige Behörde einzelnen Fahrzeugen und Verbänden für den Streckenabschnitt von unterhalb der Schleuse Vogelgrün bis unterhalb der Schleuse Straßburg bis zu einem Wasserstand von 0,40 m über der angebrachten Hochwassermarke II die Fahrt und die Schleusungen freigeben, wenn der Wasserstand bereits seit mehr als drei aufeinander folgenden Tagen überwiegend über der Hochwassermarke II lag und die Vorhersagen dahin gehen, dass der Wasserstand auch an den folgenden zwei Tagen noch über dieser Hochwassermarke liegen wird;
 
 
-*    *
-    *   c)
 
-    *   auf der Stromstrecke zwischen dem südlichen Vorhafen (km 291,30) und dem nördlichen Vorhafen (km 295,50) des Straßburger Hafens wird die Schiffahrt bei Erreichen des höchsten Schiffahrtswasserstandes (HSW) wie folgt gesperrt:
 
 
-*    *
-    *
-    *   -
 
-    *   in der Talfahrt durch ein bei km 291,30
-
-    *        ![bgbl2_1994_j0071_ab_0010.jpg](bgbl2_1994_j0071_ab_0010.jpg)
-
-*    *
-    *
-    *
-    *   aufgestelltes rotes Licht (Zeichen A.1, Anlage 7);
-
-
-*    *
-    *
-    *   -
-
-    *   in der Bergfahrt durch ein bei km 294,50
-
-
-*    *
-    *
-    *
-    *   aufgestelltes rotes Licht (Zeichen A.1, Anlage 7).
 
 
 
@@ -6627,7 +6573,7 @@ Unterhalb der Spyck'schen Fähre (km 857,40) müssen sich die Fahrzeuge bei unsi
 
 #### § 10.02 Beschränkung der Schiffahrt bei Niedrigwasser zwischen Bingen und St. Goar
 
-Zwischen St. Goar und Bingen ist die Schleppschiffahrt zu Berg in der Zeit zwischen einer halben Stunde nach Sonnenuntergang und einer halben Stunde vor Sonnenaufgang verboten, sobald der Wasserstand am Kauber Pegel 1,00 m unterschreitet. Dies gilt nicht für Schleppverbände, die nur aus zwei Fahrzeugen bestehen und nicht für geschleppte Schubverbände.
+   Zwischen St. Goar und Bingen ist die Schleppschiffahrt zu Berg in der Zeit zwischen einer halben Stunde nach Sonnenuntergang und einer halben Stunde vor Sonnenaufgang verboten, sobald der Wasserstand am Kauber Pegel 1,00 m unterschreitet. Dies gilt nicht für Schleppverbände, die nur aus zwei Fahrzeugen bestehen und nicht für geschleppte Schubverbände.
 Schleppverbände, die nur aus zwei Fahrzeugen bestehen, dürfen zwischen Bingen (km 529,10) und Trechtingshausen (km 535,40) zusätzlich von einem Fahrzeug mit Maschinenantrieb geschleppt werden.
 
 

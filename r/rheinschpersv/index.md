@@ -863,7 +863,6 @@ Stand: Diese V ist gem. Art. 1 § 13 V v. 5.4.2023 II Nr. 105 mWv 14.4.2023 nich
 In dieser Verordnung gelten als
 Fahrzeugarten
 
-
 1.  „Fahrzeug“ ein Binnenschiff, eine Fähre, ein schwimmendes Gerät und ein Seeschiff;
 
 
@@ -913,9 +912,7 @@ Fahrzeugarten
 
 
 
-
 Fahrzeugzusammenstellungen
-
 
 17. „Verband“ ein starrer Verband oder ein Schleppverband;
 
@@ -942,9 +939,7 @@ Fahrzeugzusammenstellungen
 
 
 
-
 Personal
-
 
 25. „Besatzung“ die Decksmannschaft und das Maschinenpersonal;
 
@@ -980,9 +975,7 @@ Personal
 
 
 
-
 Andere Begriffe
-
 
 36. „ADN“ die dem europäischen Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen beigefügte Verordnung (ADN);
 

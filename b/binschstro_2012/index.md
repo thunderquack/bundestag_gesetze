@@ -6846,7 +6846,6 @@ Zusätzliche Bezeichnung stillliegender Fahrzeuge bei Beförderung bestimmter ge
 
 Die nach § 3.14 jeweils vorgeschriebene Bezeichnung ist von den dort genannten Fahrzeugen, Schubverbänden und gekuppelten Fahrzeugen auch beim Stillliegen zu führen.
 
-
 *    *
     *        ![bgbl1_2012_j0001_0057_ab1.jpg](bgbl1_2012_j0001_0057_ab1.jpg)
     *        ![bgbl1_2012_j0001_0058_ab1.jpg](bgbl1_2012_j0001_0058_ab1.jpg)
@@ -6858,6 +6857,7 @@ Die nach § 3.14 jeweils vorgeschriebene Bezeichnung ist von den dort genannten 
 *    *
     *        ![bgbl1_2012_j0001_0061_ab1.jpg](bgbl1_2012_j0001_0061_ab1.jpg)
     *        ![bgbl1_2012_j0001_0062_ab1.jpg](bgbl1_2012_j0001_0062_ab1.jpg)
+
 
 
    Bezeichnung der Fähren, die an ihrer Anlegestelle stillliegen

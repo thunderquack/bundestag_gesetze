@@ -553,7 +553,8 @@ Mittelbare Kontrolle liegt insbesondere vor, wenn entsprechende Anteile von eine
     a)  Mitglied des Vorstands der Stiftung ist oder die als Begünstigte der Stiftung bestimmt worden ist, oder
 
 
-    b)  als Treugeber (Settlor), Verwalter von Trusts (Trustee) oder Protektor handelt oder die als Begünstige der Rechtsgestaltung bestimmt worden ist.
+    b)  als Treugeber (Settlor), Verwalter von Trusts (Trustee) oder Protektor handelt oder die als
+        Begünstigte                          der Rechtsgestaltung bestimmt worden ist.
 
 
 

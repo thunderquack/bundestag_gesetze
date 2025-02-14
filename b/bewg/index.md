@@ -1118,7 +1118,6 @@ Der nach den Sätzen 2 und 3 maßgebliche Reingewinn ergibt sich aus der Spalte 
 
 (1) Tierbestände gehören in vollem Umfang zur landwirtschaftlichen Nutzung, wenn im Wirtschaftsjahr
 
-
 *    *   für die ersten 20 Hektar
 
     *   nicht mehr als 10 Vieheinheiten
@@ -1145,6 +1144,7 @@ Der nach den Sätzen 2 und 3 maßgebliche Reingewinn ergibt sich aus der Spalte 
 
 
 *    *   je Hektar der vom Inhaber des Betriebs regelmäßig landwirtschaftlich genutzten Flächen erzeugt oder gehalten werden. Die Tierbestände sind nach dem Futterbedarf in Vieheinheiten umzurechnen.
+
 
 
 

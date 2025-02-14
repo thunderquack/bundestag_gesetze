@@ -876,8 +876,10 @@ Für die Zwecke des Satzes 1 Nummer 2 gilt eine Änderung der Quote für den ant
 
 (2) Die Institute berechnen den Kapitalpuffer für systemische Risiken nach § 10e Absatz 1 des Kreditwesengesetzes wie folgt:
 
-![bgbl1_2021_j4306-1_0010.jpg](bgbl1_2021_j4306-1_0010.jpg)
-Dabei steht
+*    *        ![bgbl1_2021_j4306-1_0010.jpg](bgbl1_2021_j4306-1_0010.jpg)
+
+
+   Dabei steht
 
 1.  B
     SR                    für den Kapitalpuffer für systemische Risiken,

@@ -26,7 +26,6 @@ Aufgrund des § 46 Nr. 1 des Bundeswasserstraßengesetzes in der Fassung der Bek
 
 Die Betriebszeiten der Schleusen am Mittellandkanal, seinen Zweigkanälen und am Elbe-Seitenkanal werden wie folgt festgesetzt:
 
-
 *    *   1.
 
     *   Mittellandkanal
@@ -323,6 +322,7 @@ Die Betriebszeiten der Schleusen am Mittellandkanal, seinen Zweigkanälen und am
     *   am Neujahrstag und an beiden Weihnachtsfeiertagen
 
     *   Betriebsruhe
+
 
 
 

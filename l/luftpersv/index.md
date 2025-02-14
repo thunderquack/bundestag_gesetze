@@ -936,10 +936,6 @@ Als Flugzeiten für den Erwerb und die Erweiterung eines Luftfahrerscheins für 
 
 
 
-### Unterabschnitt 5 - Berechtigung für Schleppflug und Passagierberechtigung für Luftsportgeräteführer
-
-
-
 #### (XXXX) §§ 50 bis 53 (weggefallen)
 
 
@@ -1059,6 +1055,10 @@ Der Bewerber hat in einer theoretischen und praktischen Prüfung nachzuweisen, d
 
 
 #### (XXXX) §§ 78 bis 80 (weggefallen)
+
+
+
+### Unterabschnitt 5 - Berechtigung für Schleppflug und Passagierberechtigung für Luftsportgeräteführer
 
 
 

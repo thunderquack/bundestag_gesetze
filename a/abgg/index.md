@@ -252,7 +252,6 @@ Bezieht ein Mitglied des Bundestages an einem Tag, an dem es sich in die Anwesen
 
 (2) Mitglieder des Bundestages, die vor dem 1. Januar 1947 geboren sind, erreichen die Altersgrenze mit Vollendung des 65. Lebensjahres. Für Mitglieder des Bundestages, die nach dem 31. Dezember 1946 geboren sind, wird die Altersgrenze wie folgt angehoben:
 
-
 *    *   Geburtsjahr
 
     *   Anhebung um Monate
@@ -416,6 +415,7 @@ Bezieht ein Mitglied des Bundestages an einem Tag, an dem es sich in die Anwesen
     *   66
 
     *   10.
+
 
 
 

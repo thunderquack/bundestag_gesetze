@@ -80,7 +80,6 @@ Geändert durch
 
 
 
-
 *    *   Vorderseite
 
     *   Rückseite
@@ -94,6 +93,7 @@ Geändert durch
 
 
         Originalgröße: 16 cm
+
 
 
 
