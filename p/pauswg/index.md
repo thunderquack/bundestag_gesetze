@@ -18,6 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8e G v. 19.7.2024 I Nr. 245
 
+Änderung durch
+:   Art. 5 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 8 G v. 23.10.2024 I Nr. 323 noch nicht berücksichtigt
+
+Stand: Mittelbare Änderung gem. Art. 3 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 

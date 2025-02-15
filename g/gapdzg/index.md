@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 3003; 2022, 2262
 
-Änderung durch
-:   Art. 1a G v. 18.11.2024 I Nr. 356 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 1a G v. 18.11.2024 I Nr. 356
 
 Stand: Gem. § 36 Abs. 2 dieses G iVm Nr. 2 Bek. v. 5.12.2022 I 2262 tritt dieses G im Übrigen am 22.11.2022 in Kraft
 

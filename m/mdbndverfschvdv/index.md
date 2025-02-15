@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 15.12.2022 I 2865
 
+Änderung durch
+:   Art. 1 V v. 11.2.2025 I Nr. 35 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 2030-7-9-2 v. 22.6.2004 I 1303 (LAP-mDBNDV) und V 2030-7-4-1 v. 15.10.2001 I 2652 (LAP-mDVerfSchV)
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -27,11 +30,6 @@ Stand: Ersetzt V 2030-7-9-2 v. 22.6.2004 I 1303 (LAP-mDBNDV) und V 2030-7-4-1 v.
 ### § 1 Vorbereitungsdienst
 
 Die Ausbildung und Prüfung nach dieser Verordnung sind der Vorbereitungsdienst für den mittleren Dienst im Bundesnachrichtendienst und für den mittleren Dienst im Verfassungsschutz des Bundes.
-
-
-### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
-
-Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 
 ### § 2 Ausbildungsziele
@@ -352,7 +350,7 @@ Erholungsurlaub wird in der Regel während der berufspraktischen Ausbildung gew�
 
 In begründeten Fällen können zwei Mitglieder der Auswahlkommission Tarifbeschäftigte oder Soldatinnen oder Soldaten sein, wenn sie über die erforderliche Qualifikation verfügen.
 
-(2a) Bis zum 31. Dezember 2024 kann eine Auswahlkommission nur aus folgenden Mitgliedern bestehen:
+(3) Die Dienstbehörde kann festlegen, dass eine Auswahlkommission abweichend von Absatz 2 Satz 1 nur aus folgenden Mitgliedern besteht:
 
 1.  einer Beamtin oder einem Beamten des gehobenen oder höheren nichttechnischen Verwaltungsdienstes des Bundes als Vorsitzender oder Vorsitzendem und
 
@@ -363,13 +361,13 @@ In begründeten Fällen können zwei Mitglieder der Auswahlkommission Tarifbesch
 
 Eines der Mitglieder kann Arbeitnehmerin oder Arbeitnehmer oder Soldatin oder Soldat sein, wenn sie oder er über die erforderliche Qualifikation verfügt.
 
-(3) Die Dienstbehörde bestellt die Mitglieder der Auswahlkommission und eine ausreichende Anzahl von Ersatzmitgliedern für die Dauer von fünf Jahren. Wiederbestellung ist zulässig.
+(4) Die Dienstbehörde bestellt die Mitglieder der Auswahlkommission und eine ausreichende Anzahl von Ersatzmitgliedern für die Dauer von fünf Jahren. Wiederbestellung ist zulässig.
 
-(4) Die Mitglieder der Auswahlkommission bewerten die im Auswahlverfahren gezeigten Leistungen unabhängig voneinander.
+(5) Die Mitglieder der Auswahlkommission bewerten die im Auswahlverfahren gezeigten Leistungen unabhängig voneinander.
 
-(5) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen unabhängig und nicht weisungsgebunden.
+(6) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen unabhängig und nicht weisungsgebunden.
 
-(6) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
+(7) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
 
 ### § 13 Teile des Auswahlverfahrens
@@ -489,7 +487,7 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn die erforderliche 
 
 (2) Die Ausbildung umfasst eine fachtheoretische Ausbildung am Zentrum für Nachrichtendienstliche Aus- und Fortbildung und eine berufspraktische Ausbildung.
 
-(2a) Bis zum 31. Dezember 2024 können für einzelne oder alle Lehrveranstaltungen, die keine als Verschlusssachen eingestuften Inhalte enthalten, digitale Lehrformate genutzt werden.
+(2a) (weggefallen)
 
 (3) Die fachtheoretische Ausbildung unterteilt sich in drei Abschnitte. Die berufspraktische Ausbildung unterteilt sich in zwei Abschnitte.
 
@@ -549,22 +547,11 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn die erforderliche 
 
 
 
-(4a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2024 die Abschnitte der fachtheoretischen und der berufspraktischen Ausbildung – abweichend von den Absätzen 3 und 4 –
-
-1.  anders unterteilt werden,
-
-
-2.  in einer anderen Abfolge durchgeführt werden,
-
-
-3.  eine andere Dauer haben.
-
-
-
+(4a) (weggefallen)
 
 (5) Die Dauer der fachtheoretischen Ausbildung beträgt insgesamt mindestens 900 Lehrstunden.
 
-(6) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2024 die Zahl der Lehrstunden um bis zu 10 Prozent verringert wird.
+(6) Für die Lehrveranstaltungen können digitale Lehrformate genutzt werden, wenn die Vorgaben zum Umgang mit Verschlusssachen berücksichtigt werden.
 
 
 #### § 23 Lehrplan
@@ -676,7 +663,7 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn die erforderliche 
 
 #### § 27 Lehrgebiete
 
-(1) Die Lehrgebiete der fachtheoretischen Ausbildung sind:
+Die Lehrgebiete der fachtheoretischen Ausbildung sind:
 
 1.  operative Beschaffung und Observation,
 
@@ -704,8 +691,6 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn die erforderliche 
 
 
 
-(2) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2024 eine Reduzierung der Lehrgebiete vorgenommen wird.
-
 
 #### § 28 Organisation und Durchführung
 
@@ -716,20 +701,9 @@ Für die Organisation und Durchführung der fachtheoretischen Ausbildung ist das
 
 (1) In der fachtheoretischen Ausbildung sind mindestens zwölf Leistungstests zu absolvieren. Sechs Leistungstests sind Klausuren.
 
-(1a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2024 in der fachtheoretischen Ausbildung
+(2) Die Dienstbehörden können einvernehmlich festlegen, dass in der fachtheoretischen Ausbildung mehr als sechs Leistungstests in einer anderen Prüfungsform als der Klausur absolviert werden können.
 
-1.  mehr als sechs Leistungstests in einer anderen Prüfungsform als der Klausur absolviert werden können,
-
-
-2.  die Zahl der Leistungstests auf weniger als zwölf reduziert wird und
-
-
-3.  vollständig auf die Leistungstests verzichtet wird.
-
-
-
-
-(2) Die Leistungstests im Abschlusslehrgang müssen mindestens zwei Wochen vor Beginn der Laufbahnprüfung abgeschlossen sein.
+(3) Die Leistungstests im Abschlusslehrgang müssen mindestens zwei Wochen vor Beginn der Laufbahnprüfung abgeschlossen sein.
 
 
 #### § 30 Zeugnis über die Leistungstests, Rangpunktzahl der Leistungstests
@@ -827,6 +801,8 @@ Für die Organisation und Durchführung der fachtheoretischen Ausbildung ist das
 
 (3) Der Ausbildungsplan wird der Anwärterin oder dem Anwärter bekannt gegeben.
 
+(4) Ein bereits bekannt gegebener Ausbildungsplan kann von der Ausbildungsbehörde geändert werden. Die Änderung ist der Dienstbehörde, wenn Ausbildungsbehörde und Dienstbehörde nicht identisch sind, und der Anwärterin oder dem Anwärter mitzuteilen.
+
 
 #### § 36 Bewertung der Praktika
 
@@ -839,15 +815,7 @@ Für die Organisation und Durchführung der fachtheoretischen Ausbildung ist das
 
 (1) In den praxisbezogenen Lehrveranstaltungen sind mindestens zwei Leistungstests zu absolvieren. Zwei Leistungstests sind Klausuren.
 
-(2) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2024 in den praxisbezogenen Lehrveranstaltungen
-
-1.  die Leistungstests in einer anderen Form als der Klausur absolviert werden können oder
-
-
-2.  die Zahl der zu absolvierenden Leistungstests auf einen reduziert wird und dieser Leistungstest in einer anderen Form als der Klausur absolviert werden kann.
-
-
-
+(2) Die Dienstbehörden können einvernehmlich festlegen, dass in den praxisbezogenen Lehrveranstaltungen die Leistungstests in einer anderen Form als der Klausur absolviert werden können.
 
 
 #### § 38 Zeugnis über die Praktika und über die Leistungstests, Rangpunktzahl der Praktika und der Leistungstests
@@ -927,13 +895,13 @@ Das Prüfungsamt am Zentrum für Nachrichtendienstliche Aus- und Fortbildung org
 
 (2) Je eine Klausur wird einem der Lehrgebiete nach § 27 entnommen. Es können jedoch auch zwei Klausuren demselben Lehrgebiet entnommen werden.
 
-(2a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2024 der Inhalt der Klausur mehr als einem Lehrgebiet entnommen wird.
+(2a) (weggefallen)
 
 (3) Die Bearbeitungszeit für jede Klausur beträgt 180 Minuten.
 
 (4) Die Klausuren werden an drei aufeinanderfolgenden Arbeitstagen geschrieben.
 
-(4a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2024 die Klausuren nicht an aufeinanderfolgenden Arbeitstagen geschrieben werden.
+(4a) (weggefallen)
 
 (5) Die Klausuren werden unter Aufsicht geschrieben.
 
@@ -1034,29 +1002,13 @@ Die Laufbahnprüfung besteht aus einer schriftlichen und einer mündlichen Absch
 
 
 
-(2a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2024
-
-1.  der Gegenstand der Klausuren den Lehrgebieten nach § 27 Absatz 1 Nummer 1 bis 6 auch anders zugeordnet wird und
-
-
-2.  der Gegenstand der jeweiligen Klausur aus mehr als einem der genannten Lehrgebiete entnommen wird.
-
-
-
+(2a) (weggefallen)
 
 (3) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
 
 (4) Die Klausuren werden an aufeinanderfolgenden Arbeitstagen geschrieben. An einem Tag wird nur eine Klausur geschrieben. Nach zwei Prüfungstagen ist ein freier Tag vorzusehen.
 
-(4a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2024
-
-1.  die Klausuren – abweichend von Absatz 4 Satz 1 – nicht an aufeinanderfolgenden Arbeitstagen geschrieben werden oder
-
-
-2.  nach zwei aufeinanderfolgenden Prüfungstagen – abweichend von Absatz 4 Satz 3 – mehr als ein freier Tag vorzusehen ist.
-
-
-
+(4a) (weggefallen)
 
 (5) Die Klausuren werden unter Aufsicht geschrieben.
 
@@ -1157,7 +1109,7 @@ Eine oder einer der beiden Beisitzenden kann auch Tarifbeschäftigte oder Tarifb
 
 (4) In einer Gruppe dürfen höchstens fünf Anwärterinnen und Anwärter geprüft werden.
 
-(4a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum 31. Dezember 2024 die mündliche Abschlussprüfung als Einzelprüfung durchgeführt wird.
+(4a) (weggefallen)
 
 (5) Die Dauer der mündlichen Abschlussprüfung darf je Anwärterin oder Anwärter 30 Minuten nicht unterschreiten und soll 40 Minuten je Anwärterin oder Anwärter nicht überschreiten.
 
@@ -1243,7 +1195,7 @@ Wiederholung der Laufbahnprüfung, Abschlusszeugnis,
 
 
 
-(2a) Ist festgelegt worden, dass in der fachtheoretischen Ausbildung vollständig auf die Leistungstests verzichtet wird, so legen die Dienstbehörden einvernehmlich fest, durch welche anderen Bewertungen die Rangpunktzahl der Leistungstests der fachtheoretischen Ausbildung ersetzt wird bei der Berechnung der Rangpunktzahl der Laufbahnprüfung.
+(2a) (weggefallen)
 
 (3) Die Laufbahnprüfung hat bestanden,
 

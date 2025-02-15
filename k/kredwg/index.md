@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2776
 
 Zuletzt geändert durch
-:   Art. 4 G v. 28.11.2024 I Nr. 377
-
-Änderung durch
-:   Art. 3 G v. 27.12.2024 I Nr. 438 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 27.12.2024 I Nr. 438
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2996; 2022, 2262
 
-Änderung durch
-:   Art. 1 G v. 18.11.2024 I Nr. 356 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 1 G v. 18.11.2024 I Nr. 356
 
 Stand: Gem. § 24 Abs. 2 dieses G iVm Nr. 1 Bek. v. 5.12.2022 I 2262 ist dieses G im Übrigen am 22.11.2022 in Kraft getreten
 
@@ -135,7 +135,7 @@ Ausnahmen im Sinne des Satzes 1 Nummer 3 bis 7 dürfen nicht gewährt werden, so
 2.  im Fall von anderem Dauergrünland als dem in Nummer 1 genannten, das ab dem 1. Januar 2015 neu entstanden ist,
 
 
-3.  im Fall von anderem Dauergrünland als dem in den Nummern 1 und 2 genannten, wenn in derselben Region nach § 4 Absatz 2 eine Fläche mit der entsprechenden Hektarzahl als Dauergrünland neu angelegt wird. Das Überführen in eine nichtlandwirtschaftliche Fläche ist genehmigungsfrei.
+3.  im Fall von anderem Dauergrünland als dem in den Nummern 1 und 2 genannten, wenn in derselben Region nach § 4 Absatz 2 eine Fläche mit der entsprechenden Hektarzahl als Dauergrünland neu angelegt wird.
 
 
 
