@@ -20,8 +20,6 @@ Fundstelle
 
 Auf Grund des § 115 Absatz 1 Satz 6 der Zivilprozessordnung, der zuletzt durch Artikel 10 Nummer 3 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3229) geändert worden ist, werden die ab dem 1. Januar 2023 maßgebenden Beträge, die nach § 115 Absatz 1 Satz 3 Nummer 1 Buchstabe b und Nummer 2 sowie Satz 5 der Zivilprozessordnung vom Einkommen der Partei abzusetzen sind, bekannt gemacht:
 
-
-
 *    *
     *   Freibetrag
         Bund
@@ -72,7 +70,7 @@ Auf Grund des § 115 Absatz 1 Satz 6 der Zivilprozessordnung, der zuletzt durch 
         Erwachsene
         (§ 115 Abs. 1 Satz 3 Nr. 2
         Buchstabe b ZPO
-        Regelbedarfsstufe 3                     )
+        Regelbedarfsstufe 3                       )
 
     *   442 €
 
@@ -88,7 +86,7 @@ Auf Grund des § 115 Absatz 1 Satz 6 der Zivilprozessordnung, der zuletzt durch 
         zur Vollendung des 18. Lebensjahres
         (§ 115 Abs. 1 Satz 3 Nr. 2
         Buchstabe b ZPO
-        Regelbedarfsstufe 4                     )
+        Regelbedarfsstufe 4                       )
 
     *   462 €
 
@@ -104,7 +102,7 @@ Auf Grund des § 115 Absatz 1 Satz 6 der Zivilprozessordnung, der zuletzt durch 
         zur Vollendung des 14. Lebensjahres
         (§ 115 Abs. 1 Satz 3 Nr. 2
         Buchstabe b ZPO
-        Regelbedarfsstufe 5                     )
+        Regelbedarfsstufe 5                       )
 
     *   383 €
 
@@ -120,7 +118,7 @@ Auf Grund des § 115 Absatz 1 Satz 6 der Zivilprozessordnung, der zuletzt durch 
         sechsten Lebensjahres
         (§ 115 Abs. 1 Satz 3 Nr. 2
         Buchstabe b ZPO
-        Regelbedarfsstufe 6                     )
+        Regelbedarfsstufe 6                       )
 
     *   350 €
 
@@ -129,6 +127,7 @@ Auf Grund des § 115 Absatz 1 Satz 6 der Zivilprozessordnung, der zuletzt durch 
     *   360 €
 
     *   363 €
+
 
 
 

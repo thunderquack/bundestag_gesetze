@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 1250, 1409
 
 Zuletzt geändert durch
-:   Art. 45 G v. 2.12.2024 I Nr. 387
-
-Änderung durch
-:   Art. 46 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 46 G v. 2.12.2024 I Nr. 387
 
 
 ## § 1 Anordnung als Bundesstatistik

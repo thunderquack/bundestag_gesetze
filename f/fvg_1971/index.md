@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.4.2006 I 846, 1202;
 
 Zuletzt geändert durch
-:   Art. 21 G v. 2.12.2024 I Nr. 387
-
-Änderung durch
-:   Art. 22 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 22 G v. 2.12.2024 I Nr. 387
 
 
 ## Abschnitt I - Allgemeine Vorschriften

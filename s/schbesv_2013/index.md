@@ -242,8 +242,11 @@ Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 2 des Seeaufgabengesetzes hand
 
 (2) Bis zum Ablauf des 30. Juni 2027 ist § 5 in folgender Fassung anzuwenden:
 
-§ 5
-## Schiffsoffiziere
+*    *   § 5
+        ## Schiffsoffiziere
+
+
+
 
 Auf Schiffen mit einer Bruttoraumzahl von über 8 000 muss von den Offizieren des nautischen oder technischen Bereichs mindestens einer Unionsbürger sein.
 

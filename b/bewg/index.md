@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 1.2.1991 I 230;
 
 Zuletzt geändert durch
-:   Art. 31 G v. 23.10.2024 I Nr. 323
-
-Änderung durch
-:   Art. 35 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 35 G v. 2.12.2024 I Nr. 387
 
 Änderung durch
 :   Art. 36 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

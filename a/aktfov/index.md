@@ -29,7 +29,6 @@ Auf Grund des § 127a Abs. 5 des Aktiengesetzes, der durch Artikel 1 Nr. 7 des G
 
 (1) Das Aktionärsforum ist Teil des Bundesanzeigers und ist jedenfalls über die Internetseiten
 
-
 *    *   www.bundesanzeiger.de,
         www.unternehmensregister.de und
         www.aktionaersforum.de

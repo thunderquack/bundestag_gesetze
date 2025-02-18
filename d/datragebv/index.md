@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2014, 458
 
 Zuletzt geändert durch
-:   Art. 2 V v. 19.6.2020 I 1371
-
-Änderung durch
-:   Art. 2 V v. 29.1.2025 I Nr. 27 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 29.1.2025 I Nr. 27
 
 
 ## Eingangsformel

@@ -1736,8 +1736,12 @@ Die Körperschaftsteuer entsteht
 
 (11) § 36 ist in allen Fällen, in denen die Endbestände im Sinne des § 36 Absatz 7 noch nicht bestandskräftig festgestellt sind, in der folgenden Fassung anzuwenden:
 
-„§ 36
-## Endbestände
+
+*    *   „§ 36
+        ## Endbestände
+
+
+
 
 (1) Auf den Schluss des letzten Wirtschaftsjahrs, das in dem Veranlagungszeitraum endet, für den das Körperschaftsteuergesetz in der Fassung der Bekanntmachung vom 22. April 1999 (BGBl. I S. 817), das durch Artikel 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) geändert worden ist, letztmals anzuwenden ist, werden die Endbestände der Teilbeträge des verwendbaren Eigenkapitals ausgehend von den gemäß § 47 Absatz 1 Satz 1 Nummer 1 des Körperschaftsteuergesetzes in der Fassung der Bekanntmachung vom 22. April 1999 (BGBl. I S. 817), das zuletzt durch Artikel 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) geändert worden ist, festgestellten Teilbeträgen gemäß den nachfolgenden Absätzen ermittelt.
 
