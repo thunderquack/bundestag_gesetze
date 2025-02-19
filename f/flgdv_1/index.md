@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2186
 
 Zuletzt geändert durch
-:   Art. 7 V v. 10.3.2022 I 428
-
-Änderung durch
-:   Art. 1 V v. 30.10.2024 I Nr. 342 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 30.10.2024 I Nr. 342
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -115,26 +112,26 @@ Zum Zweck der Durchführung von Kontrollen verarbeitet und übermittelt die zust
 
 
 
-    Die Preismeldungen sind wie folgt zu unterteilen:
-
-    1.  bei Rindern
-
-        a)  nach den gesetzlichen Kategorien für Rinderschlachtkörper und
-
-
-        b)  nach den gesetzlichen Handelsklassen für Rinderschlachtkörper,
 
 
 
+Die Preismeldungen sind wie folgt zu unterteilen:
+
+1.  bei Rindern
+
+    a)  nach den gesetzlichen Kategorien für Rinderschlachtkörper und
 
 
-    2.  bei Schweinen nach den gesetzlichen Handelsklassen für Schweineschlachtkörper und
-
-
-    3.  bei Schafen nach den gesetzlichen Kategorien für Schafschlachtkörper.
+    b)  nach den gesetzlichen Handelsklassen für Rinderschlachtkörper,
 
 
 
+
+
+2.  bei Schweinen nach den gesetzlichen Handelsklassen für Schweineschlachtkörper und
+
+
+3.  bei Schafen nach den gesetzlichen Kategorien für Schafschlachtkörper.
 
 
 

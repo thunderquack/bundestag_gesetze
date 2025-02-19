@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 18.1.1995 I 46;
 
 Zuletzt geändert durch
-:   Art. 9 V v. 10.3.2022 I 428
-
-Änderung durch
-:   Art. 5 V v. 30.10.2024 I Nr. 342 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 V v. 30.10.2024 I Nr. 342
 
 
 ## § 1 Anwendungsbereich
@@ -105,11 +102,6 @@ Wer Eier liefert, verkauft oder sonst in den Verkehr bringt, die nach Güte- ode
 (1) Die Zulassung einer Packstelle nach Artikel 3 Absatz 2 der Durchführungsverordnung (EU) 2023/2466 erfolgt auf Antrag des Betreibers bei der zuständigen Landesbehörde. Der Antrag muss mindestens den Namen, die Anschrift und die Telekommunikationsdaten des Betriebes sowie des Betriebsinhabers enthalten.
 
 (2) Eine Änderung der Räumlichkeiten der Packstelle oder der technischen Anlagen sind der zuständigen Behörde unverzüglich anzuzeigen.
-
-
-## § 3a
-
-(weggefallen)
 
 
 ## § 4 Marktnotierungen
@@ -195,8 +187,6 @@ Die Zollbehörde darf Anmeldungen zur Überführung in den zollrechtlich freien 
 
 (3) Die Bundesanstalt leitet eine Durchschrift der Anzeige unverzüglich an die zuständigen Behörden der Länder weiter.
 
-(4) (weggefallen)
-
 
 ## § 6a Anordnungen der zuständigen Behörden
 
@@ -257,7 +247,6 @@ Diese Befugnisse erstrecken sich auch auf Erzeugnisse, die an öffentlichen Orte
 
 ## § 8 (weggefallen)
 
-...
 
 
 ## § 9

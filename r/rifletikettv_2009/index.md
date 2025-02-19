@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 1715
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.7.2015 I 1408
-
-Änderung durch
-:   Art. 2 V v. 30.10.2024 I Nr. 342 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 30.10.2024 I Nr. 342
 
 
 ## Abschnitt 1 - Begriffsbestimmungen, Nachweise zur Rückverfolgbarkeit

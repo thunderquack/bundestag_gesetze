@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2186, 2196
 
 Zuletzt geändert durch
-:   Art. 4 V v. 10.3.2022 I 428
-
-Änderung durch
-:   Art. 4 V v. 30.10.2024 I Nr. 342 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 V v. 30.10.2024 I Nr. 342
 
 
 ## § 1 Gesetzliche Handelsklassen und Kategorien für Rinderschlachtkörper

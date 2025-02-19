@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 16.8.1990 I 1809;
 
 Zuletzt geändert durch
-:   Art. 5 V v. 10.3.2022 I 428
-
-Änderung durch
-:   Art. 3 V v. 30.10.2024 I Nr. 342 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 30.10.2024 I Nr. 342
 
 
 ## § 1 Gesetzliche Handelsklassen
