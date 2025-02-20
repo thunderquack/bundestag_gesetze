@@ -578,7 +578,6 @@ Absatz 1 Satz 2 gilt entsprechend.
 
 (1) Die Meldebehörden übermitteln gemäß § 6 Absatz 1 Nummer 9 des AZR-Gesetzes bei Änderung der Anschrift unverzüglich folgende Daten an das Ausländerzentralregister (Ausländerzentralregistermitteilung):
 
-
 *    *
     *   Blattnummer des DSMeld (Datenblatt)
 
@@ -636,6 +635,7 @@ Absatz 1 Satz 2 gilt entsprechend.
 *    *   11. Auszugsdatum
 
     *   1306.
+
 
 
 

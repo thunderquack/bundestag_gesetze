@@ -16747,7 +16747,7 @@ Ein Fahrzeug darf nur wenden, wenn das Manöver ohne Berührung der Ufer und Bau
 *    *
     *   a)
 
-    *   auf der **Ruhr**                      (bei Normalstau)
+    *   auf der **Ruhr**                        (bei Normalstau)
 
     *
 
@@ -16776,7 +16776,7 @@ Ein Fahrzeug darf nur wenden, wenn das Manöver ohne Berührung der Ufer und Bau
 *    *
     *   b)
 
-    *   auf dem **Rhein-Herne-Kanal**                     ,
+    *   auf dem **Rhein-Herne-Kanal**                       ,
 
     *   4,50 m,
 
@@ -16858,7 +16858,7 @@ Ein Fahrzeug darf nur wenden, wenn das Manöver ohne Berührung der Ufer und Bau
 *    *
     *   g)
 
-    *   auf den **Stichkanälen Ibbenbüren, Osnabrück, Hannover-Linden**                      und **Hildesheim**
+    *   auf den **Stichkanälen Ibbenbüren, Osnabrück, Hannover-Linden**                        und **Hildesheim**
 
     *   4,00 m,
 
@@ -16981,7 +16981,7 @@ Ein Fahrzeug darf nur wenden, wenn das Manöver ohne Berührung der Ufer und Bau
 *    *
     *   m)
 
-    *   auf dem **Rothenseer Verbindungskanal**                      (bei HSW der Elbe)
+    *   auf dem **Rothenseer Verbindungskanal**                        (bei HSW der Elbe)
 
     *   5,00 m,
 
@@ -17017,6 +17017,7 @@ Ein Fahrzeug darf nur wenden, wenn das Manöver ohne Berührung der Ufer und Bau
 *    *   4.
 
     *   Die Durchfahrtshöhe der Eisenbahnbrücke über dem Verbindungskanal zwischen dem Kleinen Wendsee und dem Wusterwitzer See ist bei einem Wasserstand von 286 cm am Unterpegel Wusterwitz auf 3,75 m beschränkt.
+
 
 
 
@@ -26802,7 +26803,7 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
 *    *
     *   b)
 
-    *   der **Oranienburger Havel**                     , der **Wriezener Alten Oder**
+    *   der **Oranienburger Havel**                       , der **Wriezener Alten Oder**
 
     *   6 km/h,
 
@@ -26852,7 +26853,7 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
     *
 
 *    *
-    *   Satz 1 gilt nicht auf der **Havel-Oder-Wasserstraße**                      von der Schleuse Spandau bis zur Abzweigung des Havelkanals einschließlich **Nordteil des Nieder Neuendorfer Sees**                      und auf dem **Tegeler See**                     . Als ufernaher Schutzstreifen gilt eine 100,00 m breite parallel zur Uferlinie (Land-Wasser-Übergang) verlaufende Wasserfläche.
+    *   Satz 1 gilt nicht auf der **Havel-Oder-Wasserstraße**                        von der Schleuse Spandau bis zur Abzweigung des Havelkanals einschließlich **Nordteil des Nieder Neuendorfer Sees**                        und auf dem **Tegeler See**                       . Als ufernaher Schutzstreifen gilt eine 100,00 m breite parallel zur Uferlinie (Land-Wasser-Übergang) verlaufende Wasserfläche.
 
     *
     *
@@ -26885,6 +26886,7 @@ Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-Wasserstraße**    
     *   4 km/h.
 
     *
+
 
 
 
@@ -28943,7 +28945,7 @@ Ein Fahrzeug oder ein Verband mit jeweils einer Länge von mehr als 67,00 m darf
 
 *    *   1.
 
-    *   Erreicht oder überschreitet der Wasserstand den Höchsten Schifffahrtswasserstand (HSW) – Hochwassermarke – an dem Richtpegel für den unter Nummer 2 jeweils aufgeführten Streckenabschnitt, ist mit der Einstellung der Schifffahrt zu rechnen, und die zuständige Behörde kann die Schifffahrt innerhalb des Streckenabschnitts einschließlich der Wehrsaalen ganz oder teilweise verbieten.
+    *   Erreicht oder überschreitet der Wasserstand den Höchsten Schifffahrtswasse rstand (HSW) – Hochwassermarke – an dem Richtpegel für den unter Nummer 2 jeweils aufgeführten Streckenabschnitt, ist mit der Einstellung der Schifffahrt zu rechnen, und die zuständige Behörde kann die Schifffahrt innerhalb des Streckenabschnitts einschließlich der Wehrsaalen ganz oder teilweise verbieten.
 
 
 *    *
@@ -29034,6 +29036,7 @@ Ein Fahrzeug oder ein Verband mit jeweils einer Länge von mehr als 67,00 m darf
     *
     *
     *
+
 
 
 
