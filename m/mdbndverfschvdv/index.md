@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2019, 1221
 
 Zuletzt geändert durch
-:   Art. 1 V v. 15.12.2022 I 2865
-
-Änderung durch
-:   Art. 1 V v. 11.2.2025 I Nr. 35 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 11.2.2025 I Nr. 35
 
 Stand: Ersetzt V 2030-7-9-2 v. 22.6.2004 I 1303 (LAP-mDBNDV) und V 2030-7-4-1 v. 15.10.2001 I 2652 (LAP-mDVerfSchV)
 
@@ -487,8 +484,6 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn die erforderliche 
 
 (2) Die Ausbildung umfasst eine fachtheoretische Ausbildung am Zentrum für Nachrichtendienstliche Aus- und Fortbildung und eine berufspraktische Ausbildung.
 
-(2a) (weggefallen)
-
 (3) Die fachtheoretische Ausbildung unterteilt sich in drei Abschnitte. Die berufspraktische Ausbildung unterteilt sich in zwei Abschnitte.
 
 (4) Die Abfolge und die Dauer der einzelnen Abschnitte sind wie folgt festgesetzt:
@@ -546,8 +541,6 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn die erforderliche 
 
 
 
-
-(4a) (weggefallen)
 
 (5) Die Dauer der fachtheoretischen Ausbildung beträgt insgesamt mindestens 900 Lehrstunden.
 
@@ -895,13 +888,9 @@ Das Prüfungsamt am Zentrum für Nachrichtendienstliche Aus- und Fortbildung org
 
 (2) Je eine Klausur wird einem der Lehrgebiete nach § 27 entnommen. Es können jedoch auch zwei Klausuren demselben Lehrgebiet entnommen werden.
 
-(2a) (weggefallen)
-
 (3) Die Bearbeitungszeit für jede Klausur beträgt 180 Minuten.
 
 (4) Die Klausuren werden an drei aufeinanderfolgenden Arbeitstagen geschrieben.
-
-(4a) (weggefallen)
 
 (5) Die Klausuren werden unter Aufsicht geschrieben.
 
@@ -1002,13 +991,9 @@ Die Laufbahnprüfung besteht aus einer schriftlichen und einer mündlichen Absch
 
 
 
-(2a) (weggefallen)
-
 (3) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
 
 (4) Die Klausuren werden an aufeinanderfolgenden Arbeitstagen geschrieben. An einem Tag wird nur eine Klausur geschrieben. Nach zwei Prüfungstagen ist ein freier Tag vorzusehen.
-
-(4a) (weggefallen)
 
 (5) Die Klausuren werden unter Aufsicht geschrieben.
 
@@ -1109,8 +1094,6 @@ Eine oder einer der beiden Beisitzenden kann auch Tarifbeschäftigte oder Tarifb
 
 (4) In einer Gruppe dürfen höchstens fünf Anwärterinnen und Anwärter geprüft werden.
 
-(4a) (weggefallen)
-
 (5) Die Dauer der mündlichen Abschlussprüfung darf je Anwärterin oder Anwärter 30 Minuten nicht unterschreiten und soll 40 Minuten je Anwärterin oder Anwärter nicht überschreiten.
 
 
@@ -1194,8 +1177,6 @@ Wiederholung der Laufbahnprüfung, Abschlusszeugnis,
 
 
 
-
-(2a) (weggefallen)
 
 (3) Die Laufbahnprüfung hat bestanden,
 

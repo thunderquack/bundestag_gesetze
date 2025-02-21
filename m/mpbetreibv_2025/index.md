@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl. I: 2025, Nr. 38
 
 Änderung durch
-:   Art. 1 V v. 14.2.2025 I Nr. 39 mWv 20.2.2025 noch nicht berücksichtigt
+:   Art. 1 V v. 14.2.2025 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt V 7102-47-11 v. 29.6.1998 I 1762 (MPBetreibV)
 
@@ -94,7 +94,7 @@ Stand: Ersetzt V 7102-47-11 v. 29.6.1998 I 1762 (MPBetreibV)
 
 (3) Eine Einweisung in die ordnungsgemäße Handhabung des Produktes ist erforderlich. Für Software gilt dies auch nach jeder Installation von Softwareaktualisierungen, die die Handhabung der Software durch den Benutzer beim Betreiben und Benutzen nicht nur geringfügig ändern. Abweichend von Satz 1 ist eine Einweisung nicht erforderlich,
 
-1.  wenn für das Produkt eine Gebrauchsanweisung entbehrlich ist entsprechend,
+1.  wenn für das Produkt eine Gebrauchsanweisung entbehrlich ist entsprechend
 
     a)  Anhang I Kapitel III Ziffer 23.1 Buchstabe d der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165; L 241 vom 8.7.2021, S. 7), die zuletzt durch die Verordnung (EU) 2024/568 (ABl. L, 2024/568, 14.2.2024) geändert worden ist, in der jeweils geltenden Fassung, oder
 
@@ -113,7 +113,7 @@ Die Einweisung in die ordnungsgemäße Handhabung aktiver nicht implantierbarer 
 
 (4) Miteinander verbundene Produkte sowie Produkte, die mit anderen Gegenständen verbunden sind, dürfen nur betrieben und benutzt werden, wenn sie dafür in dieser Kombination unter Berücksichtigung der Zweckbestimmung und der Sicherheit der Patienten, Benutzer, Beschäftigten oder Dritten geeignet sind.
 
-(5) Der Betreiber darf nur solchen Personen mit dem Benutzen eines Produktes beauftragen, die die in Absatz 2 genannten Voraussetzungen erfüllen und die in das Produkt gemäß Absatz 3 eingewiesen sind. Satz 1 gilt nicht in den Fällen des § 3 Absatz 2 bis 4.
+(5) Der Betreiber darf nur solche Personen mit dem Benutzen eines Produktes beauftragen, die die in Absatz 2 genannten Voraussetzungen erfüllen und die in das Produkt gemäß Absatz 3 eingewiesen sind. Satz 1 gilt nicht in den Fällen des § 3 Absatz 2 bis 4.
 
 (6) Der Benutzer hat sich vor dem Benutzen eines Produktes von der Funktionsfähigkeit und dem ordnungsgemäßen Zustand des Produktes zu überzeugen und die Gebrauchsanweisung sowie die sonstigen beigefügten sicherheitsbezogenen Informationen und Instandhaltungshinweise zu beachten. Satz 1 gilt entsprechend für zur Benutzung miteinander verbundene Produkte, für Gegenstände, die mit Produkten zur Benutzung verbunden sind, sowie für die jeweilige Kombination. Für vernetzte Produkte sind bei der Verbindung mit einem Netzwerk die Anforderungen des Herstellers hinsichtlich der digitalen Infrastruktur in Bezug auf die Informationssicherheit seiner Produkte zu beachten.
 
@@ -124,7 +124,7 @@ Die Einweisung in die ordnungsgemäße Handhabung aktiver nicht implantierbarer 
 
 ## § 5 Besondere Anforderungen
 
-(1) Sofern für eine Tätigkeit nach dieser Verordnung besondere Anforderungen vorausgesetzt werden, darf diese Tätigkeit nur durchführen, wer
+Sofern für eine Tätigkeit nach dieser Verordnung besondere Anforderungen vorausgesetzt werden, darf diese Tätigkeit nur durchführen, wer
 
 1.  hinsichtlich der jeweiligen Tätigkeit über aktuelle Kenntnisse aufgrund einer geeigneten Ausbildung und einer einschlägigen beruflichen Tätigkeit verfügt,
 
@@ -166,7 +166,7 @@ Die Einweisung in die ordnungsgemäße Handhabung aktiver nicht implantierbarer 
 
 (2) Die Instandhaltung von Produkten sowie von mit Produkten verbundenen Gegenständen umfasst insbesondere Wartungen und Inspektionen, die für die Gewährleistung des sicheren und ordnungsgemäßen Produktbetriebs erforderlich sind, sowie Instandsetzungen zur Wiederherstellung der Funktionsfähigkeit eines Produktes. Die Angaben des Herstellers sind dabei zu berücksichtigen. Angemessene Maßnahmen zur Instandhaltung sind auch im Anschluss an sicherheitsrelevante Vorkommnisse, die die ordnungsgemäße Funktionsfähigkeit eines Produktes in Frage stellen können, durchzuführen. Die Instandhaltung von Software umfasst die Installation sicherheitsrelevanter Softwareaktualisierungen.
 
-(3) Der Betreiber darf mit der Instandhaltung nur Personen, Betriebe oder Einrichtungen beauftragen, die selbst oder deren Beschäftigte, die die Instandhaltung durchführen, die Voraussetzungen nach § 5 Absatz 1 hinsichtlich der Instandhaltung des jeweiligen Produktes erfüllen. Satz 1 gilt nicht für die Installation sicherheitsrelevanter Softwareaktualisierungen nach Absatz 2 Satz 4.
+(3) Der Betreiber darf mit der Instandhaltung nur Personen, Betriebe oder Einrichtungen beauftragen, die selbst oder deren Beschäftigte, die die Instandhaltung durchführen, die Voraussetzungen nach § 5 hinsichtlich der Instandhaltung des jeweiligen Produktes erfüllen. Satz 1 gilt nicht für die Installation sicherheitsrelevanter Softwareaktualisierungen nach Absatz 2 Satz 4.
 
 (4) Nach der Instandhaltung müssen die für die Sicherheit und Funktionsfähigkeit der Produkte wesentlichen konstruktiven und funktionellen Merkmale geprüft werden, soweit sie durch die Maßnahmen beeinträchtigt werden können.
 
@@ -179,16 +179,23 @@ Die Einweisung in die ordnungsgemäße Handhabung aktiver nicht implantierbarer 
 
 (3) Für die Aufbereitung von Produkten mit besonders hohen Anforderungen an die Aufbereitung („Kritisch C“) gemäß der Empfehlung nach Absatz 2 ist die entsprechend dieser Empfehlung vorzunehmende Zertifizierung des Qualitätsmanagementsystems durch eine anerkannte Benannte Stelle nach § 17b des Medizinprodukterecht-Durchführungsgesetzes Voraussetzung. Für die Aufbereitung von Produkten, die nicht unter die verpflichtende Voraussetzung nach Satz 1 fallen, kann die Erfüllung der Anforderungen der Empfehlung durch eine von einer anerkannten Benannten Stelle nach § 17b des Medizinprodukterecht-Durchführungsgesetzes vorgenommenen Zertifizierung des Qualitätsmanagementsystems bestätigt werden.
 
-(4) Der Betreiber darf mit der Aufbereitung nur Personen, Betriebe oder Einrichtungen beauftragen, die selbst oder deren Beschäftigte, die die Aufbereitung durchführen, die Voraussetzungen nach § 5 Absatz 1 hinsichtlich der Aufbereitung des jeweiligen Produktes erfüllen. Sofern die nach Satz 1 beauftragte Stelle oder deren Beschäftigte nicht über eine nach § 5 Absatz 1 Nummer 1 erforderliche Ausbildung verfügen, kann für den Nachweis der aktuellen Kenntnis die Teilnahme an fachspezifischen Fortbildungsmaßnahmen berücksichtigt werden. Die Validierung und Leistungsbeurteilung des Aufbereitungsprozesses muss im Auftrag des Betreibers durch qualifizierte Fachkräfte erfolgen, die die Voraussetzungen nach § 5 Absatz 1 hinsichtlich der Validierung und Leistungsbeurteilung derartiger Prozesse erfüllen. Die zuständige Behörde ist befugt, die Erfüllung der Voraussetzungen nach § 5 Absatz 1 hinsichtlich der Durchführung von Validierungen und Leistungsbeurteilungen der Prozesse bei der vom Betreiber nach Satz 1 beauftragten Stelle zu kontrollieren.
+(4) Der Betreiber darf mit der Aufbereitung nur Personen, Betriebe oder Einrichtungen beauftragen, die selbst oder deren Beschäftigte, die die Aufbereitung durchführen, die Voraussetzungen nach § 5 hinsichtlich der Aufbereitung des jeweiligen Produktes erfüllen. Sofern die nach Satz 1 beauftragte Stelle oder deren Beschäftigte nicht über eine nach § 5 Nummer 1 erforderliche Ausbildung verfügen, kann für den Nachweis der aktuellen Kenntnis die Teilnahme an fachspezifischen Fortbildungsmaßnahmen berücksichtigt werden. Die Validierung und Leistungsbeurteilung des Aufbereitungsprozesses muss im Auftrag des Betreibers durch qualifizierte Fachkräfte erfolgen, die die Voraussetzungen nach § 5 hinsichtlich der Validierung und Leistungsbeurteilung derartiger Prozesse erfüllen. Die zuständige Behörde ist befugt, die Erfüllung der Voraussetzungen nach § 5 hinsichtlich der Durchführung von Validierungen und Leistungsbeurteilungen der Prozesse bei der vom Betreiber nach Satz 1 beauftragten Stelle zu kontrollieren.
 
 
 ## § 9 Aufbereitung und Weiterverwendung von Einmalprodukten
 
-(1) Die Verwendung von nach Artikel 17 Absatz 2 der Verordnung (EU) 2017/745 aufbereiteten Einmalprodukten im Sinne des Artikels 2 Nummer 8 der Verordnung (EU) 2017/745 am Menschen ist verboten.
+(1) Die Aufbereitung und Weiterverwendung von Einmalprodukten im Sinne des Artikels 2 Nummer 8 der Verordnung (EU) 2017/745 durch Gesundheitseinrichtungen ist zulässig unter Einhaltung
 
-(2) Für Gesundheitseinrichtungen ist die Aufbereitung und Weiterverwendung von Einmalprodukten im Sinne des Artikels 2 Nummer 8 der Verordnung (EU) 2017/745 nach Artikel 17 Absatz 3 der Verordnung (EU) 2017/745 unter Einhaltung der Absätze 3 bis 5 nur dann zulässig, wenn die Einmalprodukte innerhalb einer Gesundheitseinrichtung oder im Auftrag einer Gesundheitseinrichtung von einem externen Aufbereiter nach Artikel 17 Absatz 4 der Verordnung (EU) 2017/745 aufbereitet werden und die aufbereiteten Produkte jeweils in ihrer Gesamtheit von dem externen Aufbereiter an die beauftragende Gesundheitseinrichtung zurückgegeben werden.
+1.  der Vorgaben des Artikels 17 der Verordnung (EU) 2017/745 in Verbindung mit der Durchführungsverordnung (EU) 2020/1207 der Kommission vom 19. August 2020 zur Festlegung von Vorschriften zur Anwendung der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates hinsichtlich gemeinsamer Spezifikationen für die Aufbereitung von Einmalprodukten (ABl. L 273 vom 20.8.2020, S. 3) in der jeweils geltenden Fassung und
 
-(3) Unter der Voraussetzung, dass die Anforderungen nach Artikel 17 Absatz 3 Unterabsatz 1 Buchstabe a und b und Absatz 5 der Verordnung (EU) 2017/745 erfüllt sind, gelten für Gesundheitseinrichtungen, die Einmalprodukte im Sinne des Artikels 2 Nummer 8 der Verordnung (EU) 2017/745 für die Weiterverwendung innerhalb der Gesundheitseinrichtung aufbereiten, abweichend von Artikel 17 Absatz 2 der Verordnung (EU) 2017/745 nicht die Pflichten
+
+2.  der Empfehlung nach § 8 Absatz 2.
+
+
+
+Soweit die Vorgaben nach Satz 1 Nummer 2 den Vorgaben nach Satz 1 Nummer 1 widersprechen, gehen die Vorgaben nach Satz 1 Nummer 1 vor. Die Sätze 1 und 2 gelten entsprechend für die Aufbereitung von Einmalprodukten im Sinne des Artikels 2 Nummer 8 der Verordnung (EU) 2017/745 durch von einer Gesundheitseinrichtung beauftragte externe Aufbereiter, sofern das aufbereitete Produkt in seiner Gesamtheit an die betreffende Gesundheitseinrichtung zurückgeben wird.
+
+(2) Unter der Voraussetzung, dass die Anforderungen nach Artikel 17 Absatz 3 Unterabsatz 1 Buchstabe a und b und Absatz 5 der Verordnung (EU) 2017/745 erfüllt sind, gelten für Gesundheitseinrichtungen, die Einmalprodukte im Sinne des Artikels 2 Nummer 8 der Verordnung (EU) 2017/745 für die Weiterverwendung innerhalb der Gesundheitseinrichtung aufbereiten, abweichend von Artikel 17 Absatz 2 der Verordnung (EU) 2017/745 nicht die Pflichten
 
 1.  zur Durchführung eines Konformitätsbewertungsverfahrens nach Artikel 52 der Verordnung (EU) 2017/745,
 
@@ -196,22 +203,21 @@ Die Einweisung in die ordnungsgemäße Handhabung aktiver nicht implantierbarer 
 2.  zur Aushändigung der Informationen und Unterlagen für den Nachweis der Konformität des Produktes nach Artikel 10 Absatz 14 der Verordnung (EU) 2017/745,
 
 
-3.  zur Abgabe einer EU-Konformitätserklärung nach Artikel 10 Absatz 6 der Verordnung (EU) 2017/745 und Artikel 19 der Verordnung (EU) 2017/745,
+3.  zur Abgabe einer EU-Konformitätserklärung nach Artikel 10 Absatz 6 und Artikel 19 der Verordnung (EU) 2017/745,
 
 
-4.  zur Anbringung einer CE-Kennzeichnung auf das Einmalprodukt nach Artikel 10 Absatz 6 der Verordnung (EU) 2017/745 und Artikel 20 der Verordnung (EU) 2017/745 und
+4.  zur Anbringung einer CE-Kennzeichnung auf das Einmalprodukt nach Artikel 10 Absatz 6 und Artikel 20 der Verordnung (EU) 2017/745 und
 
 
-5.  zur Durchführung einer klinischen Bewertung nach Artikel 10 Absatz 3 der Verordnung (EU) 2017/745 und Artikel 61 der Verordnung (EU) 2017/745.
+5.  zur Durchführung einer klinischen Bewertung nach Artikel 10 Absatz 3 und Artikel 61 der Verordnung (EU) 2017/745.
 
 
 
 Satz 1 gilt auch für externe Aufbereiter, die Einmalprodukte im Auftrag einer Gesundheitseinrichtung aufbereiten, sofern das aufbereitete Einmalprodukt in seiner Gesamtheit an die betreffende Gesundheitseinrichtung zurückgegeben wird.
 
-(4) Gesundheitseinrichtungen, die Einmalprodukte im Sinne des Artikels 2 Nummer 8 der Verordnung
-(EU) 2017/745              für die Weiterverwendung innerhalb der Gesundheitseinrichtung aufbereiten, und externe Aufbereiter, die Einmalprodukte im Sinne des Artikels 2 Nummer 8 der Verordnung (EU) 2017/745 im Auftrag einer Gesundheitseinrichtung aufbereiten und das aufbereitete Einmalprodukt in seiner Gesamtheit an die betreffende Gesundheitseinrichtung zurückgeben, lassen die in den Gemeinsamen Spezifikationen nach Artikel 17 Absatz 5 der Verordnung (EU) 2017/745 in Verbindung mit Artikel 22 Absatz 1 der Durchführungsverordnung (EU) 2020/1207 der Kommission vom 19. August 2020 zur Festlegung von Vorschriften zur Anwendung der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates hinsichtlich gemeinsamer Spezifikationen für die Aufbereitung von Einmalprodukten (ABl. L 273 vom 20.8.2020, S. 3) in der jeweils geltenden Fassung festgelegten regelmäßigen externen Begutachtungen von der Benannten Stelle vornehmen, die die Zertifizierung nach Artikel 17 Absatz 5 Satz 4 der Verordnung (EU) 2017/745 vorgenommen hat.
+(3) Gesundheitseinrichtungen, die Einmalprodukte im Sinne des Artikels 2 Nummer 8 der Verordnung (EU) 2017/745 für die Weiterverwendung innerhalb der Gesundheitseinrichtung aufbereiten und externe Aufbereiter, die Einmalprodukte im Sinne des Artikels 2 Nummer 8 der Verordnung (EU) 2017/745 im Auftrag einer Gesundheitseinrichtung aufbereiten und das aufbereitete Produkt in seiner Gesamtheit an die betreffende Gesundheitseinrichtung zurückgeben, lassen die in den Gemeinsamen Spezifikationen nach Artikel 17 Absatz 5 der Verordnung (EU) 2017/745 in Verbindung mit Artikel 22 Absatz 1 der Durchführungsverordnung (EU) 2020/1207 festgelegten regelmäßigen externen Begutachtungen von der anerkannten Benannten Stelle vornehmen, die die Zertifizierung nach Artikel 17 Absatz 5 Satz 4 der Verordnung (EU) 2017/745 vorgenommen hat.
 
-(5) Der Betreiber darf mit der Aufbereitung von Einmalprodukten nur Personen, Betriebe oder Einrichtungen beauftragen, die selbst oder deren Beschäftigte, die die Aufbereitung durchführen, die Voraussetzungen nach § 5 Absatz 1 hinsichtlich der Aufbereitung des jeweiligen Einmalproduktes erfüllen. Sofern die beauftragte Stelle nach Satz 1 oder deren Beschäftigte nicht über eine nach § 5 Absatz 1 Nummer 1 erforderliche Ausbildung verfügen, kann für den Nachweis der aktuellen Kenntnis die Teilnahme an fachspezifischen Fortbildungsmaßnahmen berücksichtigt werden. Die Validierung und Leistungsbeurteilung des Aufbereitungsprozesses muss im Auftrag des Betreibers durch qualifizierte Fachkräfte erfolgen, die die Voraussetzungen nach § 5 Absatz 1 hinsichtlich der Validierung und Leistungsbeurteilung derartiger Prozesse erfüllen. Die zuständige Behörde ist befugt, die Erfüllung der Voraussetzungen nach § 5 Absatz 1 hinsichtlich der Durchführung von Validierungen und Leistungsbeurteilungen der Prozesse bei der vom Betreiber nach Satz 1 beauftragten Stelle zu kontrollieren.
+(4) Der Betreiber darf mit der Aufbereitung von Einmalprodukten nur Personen, Betriebe oder Einrichtungen beauftragen, die selbst oder deren Beschäftigte, die die Aufbereitung durchführen, die Voraussetzungen nach § 5 hinsichtlich der Aufbereitung des jeweiligen Einmalproduktes erfüllen. Sofern die beauftragte Stelle nach Satz 1 oder deren Beschäftigte nicht über eine nach § 5 Nummer 1 erforderliche Ausbildung verfügen, kann für den Nachweis der aktuellen Kenntnis die Teilnahme an fachspezifischen Fortbildungsmaßnahmen berücksichtigt werden. Die Validierung und Leistungsbeurteilung des Aufbereitungsprozesses muss im Auftrag des Betreibers durch qualifizierte Fachkräfte erfolgen, die die Voraussetzungen nach § 5 hinsichtlich der Validierung und Leistungsbeurteilung derartiger Prozesse erfüllen. Die zuständige Behörde ist befugt, die Erfüllung der Voraussetzungen nach § 5 hinsichtlich der Durchführung von Validierungen und Leistungsbeurteilungen der Prozesse bei der vom Betreiber nach Satz 1 beauftragten Stelle zu kontrollieren.
 
 
 ## § 10 Qualitätssicherungssystem für medizinische Laboratorien
@@ -232,7 +238,7 @@ Satz 1 gilt auch für externe Aufbereiter, die Einmalprodukte im Auftrag einer G
 
 
 
-Eine Einweisung nach Nummer 2 ist in den Fällen des § 4 Absatz 3 Satz 3 Nummer 2 nicht erforderlich.
+Eine Einweisung nach Satz 1 Nummer 2 ist in den Fällen des § 4 Absatz 3 Satz 3 Nummer 2 nicht erforderlich.
 
 (2) Die in Anlage 1 aufgeführten Produkte dürfen nur von Personen betrieben und benutzt werden, die durch den Hersteller, eine dazu befugte Person, die im Einvernehmen mit dem Hersteller handelt, oder durch die nach Absatz 1 Satz 1 Nummer 2 von dem Betreiber beauftragte Person unter Berücksichtigung der Gebrauchsanweisung in die sachgerechte Handhabung dieses Produktes eingewiesen worden sind, es sei denn, die Einweisung ist nach Absatz 1 Satz 2 nicht erforderlich.
 
@@ -245,7 +251,7 @@ Eine Einweisung nach Nummer 2 ist in den Fällen des § 4 Absatz 3 Satz 3 Nummer
 
 (1) Der Betreiber hat für Produkte nach Anlage 1 nach Maßgabe der Sätze 2 und 3 sicherheitstechnische Kontrollen nach den allgemein anerkannten Regeln der Technik durchzuführen oder durchführen zu lassen. Die sicherheitstechnischen Kontrollen sind spätestens alle zwei Jahre mit Ablauf des Monats durchzuführen, in dem die Inbetriebnahme des Produktes erfolgte oder die letzte sicherheitstechnische Kontrolle durchgeführt wurde. Ist aufgrund der konkreten Benutzungs- und Umgebungsbedingungen des Produktes zu einem früheren Zeitpunkt mit Mängeln zu rechnen, ist der Betreiber verpflichtet, rechtzeitig vor Ablauf der zwei Jahre sicherheitstechnische Kontrollen durchzuführen oder durchführen zu lassen. Die sicherheitstechnischen Kontrollen schließen die Messfunktionen ein. Für andere Produkte sowie mit Produkten nach Anlage 1 verbundene Gegenstände gelten die Sätze 1 bis 3 entsprechend.
 
-(2) Abweichend von Absatz 1 können für Automatische Externe Defibrillatoren, die für die Benutzung durch Laien vorgesehen sind, sicherheitstechnische Kontrollen entfallen, wenn der Automatische Externe Defibrillator selbsttestend ist und eine regelmäßige Sichtprüfung durch den Betreiber erfolgt. Ab dem 1. Januar 2027 gilt für neu in Betrieb genommene Automatische Externe Defibrillatoren, die für Benutzung durch Laien vorgesehen sind, zusätzlich, dass diese die Ergebnisse der Selbsttests dokumentieren und regelmäßig automatisch an den Betreiber per Fernüberwachung übermitteln. In den Fällen des Satzes 2 kann abweichend von Satz 1 die Sichtprüfung durch den Betreiber abhängig von den Ergebnissen der Fernüberwachung anlassbezogen erfolgen. Die Daten des Automatischen Externen Defibrillators zur Funktionsfähigkeit, dem Standort und der öffentlichen Zugänglichkeit sind vom Betreiber durch den Hersteller öffentlich abrufbar zur Verfügung zu stellen. Der Betreiber muss sicherstellen, dass nach einem fehlgeschlagenen Selbsttest die Funktionsfähigkeit des Automatischen Externen Defibrillators unverzüglich wiederhergestellt wird.
+(2) Abweichend von Absatz 1 können für Automatische Externe Defibrillatoren, die für die Benutzung durch Laien vorgesehen sind, sicherheitstechnische Kontrollen entfallen, wenn der Automatische Externe Defibrillator selbsttestend ist und eine regelmäßige Sichtprüfung durch den Betreiber erfolgt. Ab dem 1. Januar 2027 gilt für neu in Betrieb genommene Automatische Externe Defibrillatoren, die für die Benutzung durch Laien vorgesehen sind, zusätzlich, dass diese die Ergebnisse der Selbsttests dokumentieren und regelmäßig automatisch an den Betreiber per Fernüberwachung übermitteln. In den Fällen des Satzes 2 kann abweichend von Satz 1 die Sichtprüfung durch den Betreiber abhängig von den Ergebnissen der Fernüberwachung anlassbezogen erfolgen. Die Daten des Automatischen Externen Defibrillators zur Funktionsfähigkeit, dem Standort und der öffentlichen Zugänglichkeit sind vom Betreiber durch den Hersteller öffentlich abrufbar zur Verfügung zu stellen. Der Betreiber muss sicherstellen, dass nach einem fehlgeschlagenen Selbsttest die Funktionsfähigkeit des Automatischen Externen Defibrillators unverzüglich wiederhergestellt wird.
 
 (3) Derjenige, der sicherheitstechnische Kontrollen durchführt, hat
 
@@ -256,9 +262,9 @@ Eine Einweisung nach Nummer 2 ist in den Fällen des § 4 Absatz 3 Satz 3 Nummer
 
 
 
-Das Protokoll nach Satz 1 hat der Betreiber ab Abschluss der sicherheitstechnischen Kontrollen bis zu den nächsten sicherheitstechnischen Kontrollen aufzubewahren.
+Das Protokoll nach Satz 1 Nummer 1 hat der Betreiber ab Abschluss der sicherheitstechnischen Kontrollen bis zu den nächsten sicherheitstechnischen Kontrollen aufzubewahren.
 
-(4) Der Betreiber darf mit der Durchführung der sicherheitstechnischen Kontrollen nur Personen, Betriebe oder Einrichtungen beauftragen, die selbst oder deren Beschäftige, die die sicherheitstechnischen Kontrollen durchführen, die Voraussetzungen nach § 5 Absatz 1 hinsichtlich der sicherheitstechnischen Kontrollen des jeweiligen Produktes erfüllen.
+(4) Der Betreiber darf mit der Durchführung der sicherheitstechnischen Kontrollen nur Personen, Betriebe oder Einrichtungen beauftragen, die selbst oder deren Beschäftige, die die sicherheitstechnischen Kontrollen durchführen, die Voraussetzungen nach § 5 hinsichtlich der sicherheitstechnischen Kontrollen des jeweiligen Produktes erfüllen.
 
 
 ## § 13 Medizinproduktebuch
@@ -294,7 +300,7 @@ Das Protokoll nach Satz 1 hat der Betreiber ab Abschluss der sicherheitstechnisc
 
 (1) Der Betreiber hat für alle aktiven nichtimplantierbaren Produkte der jeweiligen Betriebsstätte ein Bestandsverzeichnis zu führen. Die Aufnahme in ein Verzeichnis, das auf Grund anderer Vorschriften geführt wird, ist zulässig. Satz 1 gilt nicht in den Fällen des § 3 Absatz 4.
 
-(2) In das Bestandsverzeichnis sind für jedes Produkt nach Absatz 1 folgende Angaben einzutragen:
+(2) In das Bestandsverzeichnis sind für jedes Produkt nach Absatz 1 Satz 1 folgende Angaben einzutragen:
 
 1.  Bezeichnung, Art und Typ, Loscode oder die Seriennummer, Anschaffungsjahr des Produktes,
 
@@ -317,17 +323,15 @@ Das Protokoll nach Satz 1 hat der Betreiber ab Abschluss der sicherheitstechnisc
 
 (1) Der Betreiber hat für die in der Anlage 2 aufgeführten Produkte nach den allgemein anerkannten Regeln der Technik messtechnische Kontrollen nach Maßgabe der Absätze 4 bis 6 durchzuführen oder durchführen zu lassen. Eine ordnungsgemäße Durchführung der messtechnischen Kontrollen nach Satz 1 wird vermutet, wenn der Leitfaden zu messtechnischen Kontrollen von Produkten mit Messfunktion der Physikalisch-Technischen Bundesanstalt beachtet wird. Der Leitfaden wird in seiner jeweils aktuellen Fassung auf der Internetseite der Physikalisch-Technischen Bundesanstalt bekannt gemacht und von der Physikalisch-Technischen Bundesanstalt archiviert.
 
-(2) (weggefallen)
+(2) Durch die messtechnischen Kontrollen wird festgestellt, ob das Produkt die zulässigen maximalen Messabweichungen (Fehlergrenzen) einhält, die in dem Leitfaden nach Absatz 1 Satz 2 angegeben sind.
 
-(3) Durch die messtechnischen Kontrollen wird festgestellt, ob das Produkt die zulässigen maximalen Messabweichungen (Fehlergrenzen) einhält, die in dem Leitfaden nach Absatz 1 Satz 2 angegeben sind.
-
-(3a) In den Fällen des § 3 Absatz 2 bis 4 gilt Absatz 1 dann nicht für Messgeräte zur nichtinvasiven Blutdruckmessung, die der Hersteller für die Anwendung durch Laien vorsieht, wenn der Hersteller der Messgeräte gegenüber dem Versorgenden oder gegenüber einem Dritten, der das Messgerät auf Veranlassung des Versorgenden bereitstellt, bescheinigt, dass das Messgerät über seine gesamte Nutzungsdauer die zulässige maximale Messabweichung einhält. In den Fällen, in denen der Hersteller eine solche Bescheinigung nicht ausstellen kann, kann die in Anlage 2 festgelegte Frist für die messtechnische Kontrolle aufgrund einer gutachterlichen Stellungnahme des Herstellers bis zu einer vom Hersteller festgelegten Dauer verlängert werden.
+(3) In den Fällen des § 3 Absatz 2 bis 4 gilt Absatz 1 dann nicht für Messgeräte zur nichtinvasiven Blutdruckmessung, die der Hersteller für die Anwendung durch Laien vorsieht, wenn der Hersteller der Messgeräte gegenüber dem Versorgenden oder gegenüber einem Dritten, der das Messgerät auf Veranlassung des Versorgenden bereitstellt, bescheinigt, dass das Messgerät über seine gesamte Nutzungsdauer die zulässige maximale Messabweichung einhält. In den Fällen, in denen der Hersteller eine solche Bescheinigung nicht ausstellen kann, kann die in Anlage 2 festgelegte Frist für die messtechnische Kontrolle aufgrund einer gutachterlichen Stellungnahme des Herstellers bis zu einer vom Hersteller festgelegten Dauer verlängert werden.
 
 (4) Für die messtechnischen Kontrollen dürfen, sofern in der Anlage 2 nicht anders angegeben, nur messtechnische Normale benutzt werden, die auf ein nationales oder internationales Normal rückgeführt sind und hinreichend kleine Fehlergrenzen und Messunsicherheiten einhalten. Die Fehlergrenzen und Messunsicherheiten gelten als hinreichend klein, wenn sie den Anforderungen des in Absatz 1 Satz 2 genannten Leitfadens entsprechen oder wenn sie ein Drittel der Fehlergrenzen und Messunsicherheiten des zu prüfenden Produktes nicht überschreiten.
 
 (5) Die messtechnischen Kontrollen sind innerhalb der in Anlage 2 festgelegten Fristen durchzuführen. Für die Wiederholungen der messtechnischen Kontrollen gelten dieselben Fristen. Die Fristen beginnen mit Ablauf des Jahres, in dem das Produkt in Betrieb genommen oder die letzten messtechnischen Kontrollen durchgeführt wurden. Messtechnische Kontrollen sind unverzüglich durchzuführen, wenn
 
-1.  Anzeichen dafür vorliegen, dass das Produkt die Fehlergrenzen nach Absatz 3 nicht einhält oder
+1.  Anzeichen dafür vorliegen, dass das Produkt die Fehlergrenzen nach Absatz 2 nicht einhält oder
 
 
 2.  die messtechnischen Eigenschaften des Produktes durch einen Eingriff oder auf andere Weise beeinflusst worden sein könnten.
@@ -340,19 +344,17 @@ Das Protokoll nach Satz 1 hat der Betreiber ab Abschluss der sicherheitstechnisc
 1.  für das Messwesen zuständige Behörden oder
 
 
-2.  Personen, Betriebe oder Einrichtungen, die selbst oder deren Beschäftigte, die die messtechnischen Kontrollen durchführen, die Voraussetzungen nach § 5 Absatz 1 hinsichtlich der messtechnischen Kontrollen des jeweiligen Produktes erfüllen.
+2.  Personen, Betriebe oder Einrichtungen, die selbst oder deren Beschäftigte, die die messtechnischen Kontrollen durchführen, die Voraussetzungen nach § 5 hinsichtlich der messtechnischen Kontrollen des jeweiligen Produktes erfüllen.
 
 
 
 
-(7) (weggefallen)
-
-(8) Derjenige, der messtechnische Kontrollen durchführt, hat
+(7) Derjenige, der messtechnische Kontrollen durchführt, hat
 
 1.  über die messtechnischen Kontrollen ein Protokoll anzufertigen, das das Datum der Durchführung und die Ergebnisse der messtechnischen Kontrollen unter Angabe der ermittelten Messwerte, der Messverfahren und sonstiger Beurteilungsergebnisse enthält, und
 
 
-2.  das Produkt nach den erfolgreichen messtechnischen Kontrollen mit einem Zeichen zu kennzeichnen, aus dem das Jahr der nächsten messtechnischen Kontrollen und die Behörde oder Person, die die messtechnischen Kontrollen durchgeführt hat, eindeutig und rückverfolgbar hervorgehen; die in dem in Absatz 1 genannten Leitfaden enthaltenen Anforderungen an die Kennzeichnung der messtechnischen Kontrolle sind zu beachten.
+2.  das Produkt nach den erfolgreichen messtechnischen Kontrollen mit einem Zeichen zu kennzeichnen, aus dem das Jahr der nächsten messtechnischen Kontrollen und die Behörde oder Person, die die messtechnischen Kontrollen durchgeführt hat, eindeutig und rückverfolgbar hervorgehen; die in dem in Absatz 1 Satz 2 genannten Leitfaden enthaltenen Anforderungen an die Kennzeichnung der messtechnischen Kontrolle sind zu beachten.
 
 
 
@@ -363,15 +365,15 @@ Das Protokoll nach Satz 1 Nummer 1 hat der Betreiber ab Abschluss der messtechni
 
 (1) Die für die Implantation verantwortliche Gesundheitseinrichtung ist verpflichtet, unverzüglich nach Abschluss der Implantation eines Produktes dem betroffenen Patienten
 
-1.  die Informationen im Sinne des Artikels 18 Absatz 1 Unterabsatz 1 der Verordnung (EU) 2017/745 in einer Form zur Verfügung zu stellen, die einen schnellen Zugang zu den Informationen ermöglicht und
+1.  die Informationen im Sinne des Artikels 18 Absatz 1 Unterabsatz 1 der Verordnung (EU) 2017/745 in einer Form zur Verfügung zu stellen, die einen schnellen Zugang zu den Informationen ermöglicht, und
 
 
 2.  den Implantationsausweis im Sinne des Artikels 18 Absatz 1 Unterabsatz 3 der Verordnung (EU) 2017/745 zur Verfügung zu stellen, der neben den Angaben nach Artikel 18 Absatz 1 Unterabsatz 1 Buchstabe a der Verordnung (EU) 2017/745 folgende zusätzliche Angaben enthält:
 
-    a)  der Vor- und Zuname des Patienten,
+    a)  den Vor- und Zunamen des Patienten,
 
 
-    b)  den Namen und die Adresse der Einrichtung, in der die Implantation durchgeführt wurde und
+    b)  den Namen und die Adresse der Einrichtung, in der die Implantation durchgeführt wurde, und
 
 
     c)  das Datum der Implantation.
@@ -385,7 +387,7 @@ Dies gilt nicht für implantierbare Produkte im Sinne des Artikels 18 Absatz 3 d
 
 (2) Der Betreiber einer Einrichtung, in der die in Anlage 3 genannten Produkte implantiert werden, hat die Dokumentation zu diesen Implantaten, mit der Patienten im Falle von Sicherheitskorrekturmaßnahmen im Feld und sonstigen notwendigen Korrekturmaßnahmen eindeutig identifiziert und erreicht werden können, so aufzubewahren, dass der betroffene Patientenkreis innerhalb von drei Werktagen über den Typ und die Chargen- oder Seriennummer des Implantates sowie über den Namen des Herstellers und, sofern vorhanden, des Bevollmächtigten oder des Importeurs ermittelt werden kann. Die Aufzeichnungen sind für die Dauer von 20 Jahren nach der Implantation aufzubewahren. Danach sind sie unverzüglich zu vernichten.
 
-(3) Kann der Patient über die Dokumentation gemäß Absatz 2 nicht erreicht werden, kann die Einrichtung unter Angabe der Krankenversicherungsnummer die Übermittlung der für die Kontaktaufnahme erforderlichen Daten des Patienten von seiner Krankenkasse verlangen.
+(3) Kann der Patient über die Dokumentation gemäß Absatz 2 Satz 1 nicht erreicht werden, kann die Einrichtung unter Angabe der Krankenversichertennummer die Übermittlung der für die Kontaktaufnahme erforderlichen Daten des Patienten von seiner Krankenkasse verlangen.
 
 
 ## § 17 Besondere Pflichten bei bestimmter Software
@@ -405,7 +407,7 @@ Die Prüfung der ordnungsmäßen Installation nach Satz 1 Nummer 1 kann bei Vorl
 
 (3) Wird Software nach Absatz 1 in einer Gesundheitseinrichtung betrieben und benutzt, hat der Betreiber nach Maßgabe des Satzes 2 angemessene IT-Sicherheitsüberprüfungen nach den allgemein anerkannten Regeln der Technik durchzuführen oder durchführen zu lassen, die dazu geeignet sind, Risiken und Leistungsbeeinträchtigungen frühzeitig zu erkennen und soweit wie möglich zu verringern. Die IT-Sicherheitsüberprüfungen sind spätestens alle zwei Jahre mit Ablauf des Monats durchzuführen, in dem die Installation der Software erfolgte oder die letzte IT-Sicherheitsüberprüfung durchgeführt wurde. Ist aufgrund der konkreten Benutzungs- und Umgebungsbedingungen der Software zu einem früheren Zeitpunkt mit Mängeln zu rechnen, ist der Betreiber verpflichtet, rechtzeitig vor Ablauf der zwei Jahre IT-Sicherheitsüberprüfungen durchzuführen oder durchführen zu lassen. Über die IT-Sicherheitsüberprüfungen ist ein Protokoll anzufertigen, das das Datum der Durchführung und ihre Ergebnisse enthält.
 
-(4) Der Betreiber darf mit der Durchführung der IT-Sicherheitsüberprüfungen nach Absatz 3 nur Personen, Betriebe oder Einrichtungen beauftragen, die selbst oder deren Beschäftige, die die IT-Sicherheitsüberprüfungen durchführen, die Voraussetzungen nach § 5 Absatz 1 hinsichtlich der IT-Sicherheitsüberprüfungen des jeweiligen Produktes erfüllen.
+(4) Der Betreiber darf mit der Durchführung der IT-Sicherheitsüberprüfungen nach Absatz 3 nur Personen, Betriebe oder Einrichtungen beauftragen, die selbst oder deren Beschäftige, die die IT-Sicherheitsüberprüfungen durchführen, die Voraussetzungen nach § 5 hinsichtlich der IT-Sicherheitsüberprüfungen des jeweiligen Produktes erfüllen.
 
 
 ## § 18 Produkte der Bundeswehr
@@ -441,7 +443,7 @@ Ordnungswidrig im Sinne des § 94 Absatz 2 Nummer 10 des Medizinprodukterecht-D
 2a. entgegen § 7 Absatz 1 Satz 1 eine Instandhaltung nicht oder nicht richtig durchführt und nicht oder nicht richtig durchführen lässt,
 
 
-3.  entgegen § 7 Absatz 3 Satz 1, § 8 Absatz 4 Satz 1, § 9 Absatz 5 Satz 1, § 12 Absatz 4, § 15 Absatz 6 Nummer 2 oder § 17 Absatz 4 eine Person, einen Betrieb oder eine Einrichtung beauftragt,
+3.  entgegen § 7 Absatz 3 Satz 1, § 8 Absatz 4 Satz 1, § 9 Absatz 4 Satz 1, § 12 Absatz 4, § 15 Absatz 6 Nummer 2 oder § 17 Absatz 4 eine Person, einen Betrieb oder eine Einrichtung beauftragt,
 
 
 4.  entgegen § 8 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, die Aufbereitung eines dort genannten Produktes nicht richtig durchführt,
@@ -453,19 +455,19 @@ Ordnungswidrig im Sinne des § 94 Absatz 2 Nummer 10 des Medizinprodukterecht-D
 6.  entgegen § 11 Absatz 1 Satz 1 oder Absatz 2 oder § 17 Absatz 1 Satz 1 oder Absatz 2 ein Produkt betreiben lässt, benutzen lässt, betreibt oder benutzt,
 
 
-7.  entgegen § 12 Absatz 1 Satz 1, auch in Verbindung mit Satz 5, oder entgegen § 17 Absatz 3 Satz 1 eine Kontrolle oder eine IT-Sicherheitsüberprüfung nicht, nicht richtig oder nicht rechtzeitig durchführt und nicht, nicht richtig, oder nicht rechtzeitig durchführen lässt,
+7.  entgegen § 12 Absatz 1 Satz 1, auch in Verbindung mit Satz 5, oder entgegen § 15 Absatz 1 Satz 1 oder § 17 Absatz 3 Satz 1 eine Kontrolle oder eine IT-Sicherheitsüberprüfung nicht, nicht richtig oder nicht rechtzeitig durchführt und nicht, nicht richtig, oder nicht rechtzeitig durchführen lässt,
 
 
-8.  entgegen § 12 Absatz 3 Satz 2 oder § 15 Absatz 8 Satz 2 ein dort genanntes Protokoll nicht oder nicht für die vorgeschriebene Dauer aufbewahrt,
+8.  entgegen § 12 Absatz 3 Satz 2 oder § 15 Absatz 7 Satz 2 ein dort genanntes Protokoll nicht oder nicht für die vorgeschriebene Dauer aufbewahrt,
 
 
 9.  entgegen § 13 Absatz 1 Satz 1 oder § 14 Absatz 1 Satz 1 ein Medizinproduktebuch oder ein Bestandsverzeichnis nicht oder nicht richtig führt,
 
 
-9a. entgegen § 15 Absatz 1 ein in der Anlage 2 aufgeführtes Produkt betreibt, das nicht nach den allgemein anerkannten Regeln der Technik nach Maßgabe des § 15 Absätze 4 bis 6 messtechnisch kontrolliert wurde,
+9a. (weggefallen)
 
 
-10. entgegen § 15 Absatz 8 Satz 1 Nummer 2 ein Produkt nicht, nicht richtig oder nicht rechtzeitig kennzeichnet,
+10. entgegen § 15 Absatz 7 Satz 1 Nummer 2 erster Halbsatz ein Produkt nicht, nicht richtig oder nicht rechtzeitig kennzeichnet,
 
 
 11. entgegen § 16 Absatz 1 Satz 1 eine dort genannte Information oder einen Implantationsausweis nicht, nicht richtig oder nicht rechtzeitig zur Verfügung stellt oder
@@ -668,7 +670,7 @@ und
 *    *   2
 
     *   **Ausnahmen von messtechnischen Kontrollen**
-        Abweichend von Nummer 1.5.1 unterliegen keiner messtechnischen Kontrolle Therapiedosimeter, die nach jeder Einwirkung, die die Richtigkeit der Messung beeinflussen kann, sowie mindestens alle zwei Jahre in den verwendeten Messbereichen kalibriert und die Ergebnisse aufgezeichnet werden. Die Kalibrierung muss von fachkundigen Personen, die vom Betreiber bestimmt sind, mit einem Therapiedosimeter durchgeführt werden, dessen Richtigkeit entsprechend § 15 Absatz 3 sichergestellt worden ist und das bei der die Therapie durchführenden Stelle ständig verfügbar ist.
+        Abweichend von Nummer 1.5.1 unterliegen keiner messtechnischen Kontrolle Therapiedosimeter, die nach jeder Einwirkung, die die Richtigkeit der Messung beeinflussen kann, sowie mindestens alle zwei Jahre in den verwendeten Messbereichen kalibriert und die Ergebnisse aufgezeichnet werden. Die Kalibrierung muss von fachkundigen Personen, die vom Betreiber bestimmt sind, mit einem Therapiedosimeter durchgeführt werden, dessen Richtigkeit entsprechend § 15 Absatz 2 sichergestellt worden ist und das bei der die Therapie durchführenden Stelle ständig verfügbar ist.
 
     *
 
