@@ -22,10 +22,10 @@ Zuletzt geändert durch
 :   Art. 2 G v. 19.6.2024 I Nr. 206
 
 Änderung durch
-:   Art. 4 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt
+:   Art. 4 G v. 23.10.2024 I Nr. 322 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
-Stand: Mittelbare Änderung gem. Art. 1 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt
-Stand: Mittelbare Änderung gem. Art. 3 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt
+Stand: Mittelbare Änderung gem. Art. 1 G v. 23.10.2024 I Nr. 322 ist berücksichtigt
+Stand: Mittelbare Änderung gem. Art. 3 G v. 23.10.2024 I Nr. 322 ist berücksichtigt
 
 ## Erster Abschnitt - Passvorschriften
 
@@ -434,13 +434,13 @@ Der Inhaber eines Passes ist verpflichtet, der Passbehörde unverzüglich
 2.  auf Verlangen den alten Pass beim Empfang eines neuen Passes abzugeben;
 
 
-3.  den Verlust des Passes und sein Wiederauffinden anzuzeigen und
+3.  den Verlust des Passes und sein Wiederauffinden anzuzeigen;
 
 
-4.  anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die Streitkräfte oder einen vergleichbaren bewaffneten Verband eines ausländischen Staates, dessen Staatsangehörigkeit er besitzt, eingetreten ist.
+4.  anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die Streitkräfte oder einen vergleichbaren bewaffneten Verband eines ausländischen Staates, dessen Staatsangehörigkeit er besitzt, eingetreten ist und
 
 
-6.  im Falle der Ausgabe des Passes im Wege des Versands anzuzeigen, wenn die Sendung unbefugt geöffnet worden ist oder den Pass nicht enthält oder wenn der Pass beschädigt ist oder eine Angabe auf dem Pass unrichtig ist.
+5.  im Falle der Ausgabe des Passes im Wege des Versands anzuzeigen, wenn die Sendung unbefugt geöffnet worden ist oder den Pass nicht enthält oder wenn der Pass beschädigt ist oder eine Angabe auf dem Pass unrichtig ist.
 
 
 

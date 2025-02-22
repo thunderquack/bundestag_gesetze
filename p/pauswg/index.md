@@ -19,12 +19,12 @@ Zuletzt geändert durch
 :   Art. 8e G v. 19.7.2024 I Nr. 245
 
 Änderung durch
-:   Art. 5 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt
+:   Art. 5 G v. 23.10.2024 I Nr. 322 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 8 G v. 23.10.2024 I Nr. 323 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
-Stand: Mittelbare Änderung gem. Art. 3 G v. 23.10.2024 I Nr. 322 noch nicht berücksichtigt
+Stand: Mittelbare Änderung gem. Art. 3 G v. 23.10.2024 I Nr. 322 ist berücksichtigt
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -952,13 +952,13 @@ zuständigen Behörden das Lichtbild sowie die Unterschrift der antragstellenden
 2.  auf Verlangen den alten Ausweis beim Empfang eines neuen Ausweises abzugeben,
 
 
-3.  den Verlust des Ausweises und sein Wiederauffinden anzuzeigen und im Falle des Wiederauffindens diesen vorzulegen und
+3.  den Verlust des Ausweises und sein Wiederauffinden anzuzeigen und im Falle des Wiederauffindens diesen vorzulegen,
 
 
-4.  anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die Streitkräfte oder einen vergleichbaren bewaffneten Verband eines ausländischen Staates, dessen Staatsangehörigkeit er besitzt, eingetreten ist.
+4.  anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die Streitkräfte oder einen vergleichbaren bewaffneten Verband eines ausländischen Staates, dessen Staatsangehörigkeit er besitzt, eingetreten ist und
 
 
-6.  im Falle der Ausgabe des Personalausweiseses im Wege des Versands anzuzeigen, wenn die Sendung unbefugt geöffnet worden ist oder den Personalausweis nicht enthält oder wenn der Personalausweis beschädigt ist oder eine Angabe auf dem Personalausweis unrichtig ist.
+5.  im Falle der Ausgabe des Personalausweiseses im Wege des Versands anzuzeigen, wenn die Sendung unbefugt geöffnet worden ist oder den Personalausweis nicht enthält oder wenn der Personalausweis beschädigt ist oder eine Angabe auf dem Personalausweis unrichtig ist.
 
 
 

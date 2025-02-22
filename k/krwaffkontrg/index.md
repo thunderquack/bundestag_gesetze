@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.11.1990 I 2506;
 
 Zuletzt geändert durch
-:   Art. 25 G v. 19.12.2022 I 2606
+:   Art. 1 V v. 19.2.2025 I Nr. 47
 
 
 ## Erster Abschnitt - Genehmigungsvorschriften

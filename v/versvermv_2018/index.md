@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 2483 (2019 I 411)
 
+Geändert durch
+:   Art. 1 V v. 17.2.2025 I Nr. 43
+
 Stand: Ersetzt V 7100-1-9 v. 15.5.2007 I 733 (VersVermV)
 
 ## Abschnitt 1 - Erlaubnisverfahren, Sachkundenachweis, Weiterbildung
@@ -188,7 +191,7 @@ der erreichbaren Punkte erzielt. Der praktische Teil der Prüfung ist bestanden,
 
 ### § 5 Gleichstellung anderer Berufsqualifikationen
 
-(1) Folgende Berufsqualifikationen und deren Vorläufer sind der Sachkundeprüfung gleichgestellt:
+(1) Folgende Berufsqualifikationen und deren Vorläufer oder Nachfolger sind der Sachkundeprüfung gleichgestellt:
 
 1.  eine mit Erfolg abgelegte Abschlussprüfung
 
@@ -198,10 +201,13 @@ der erreichbaren Punkte erzielt. Der praktische Teil der Prüfung ist bestanden,
     b)  als Kaufmann für Versicherungen und Finanzen oder als Kauffrau für Versicherungen und Finanzen,
 
 
-    c)  als Geprüfter Fachwirt für Versicherungen und Finanzen oder als Geprüfte Fachwirtin für Versicherungen und Finanzen oder
+    c)  als Geprüfter Fachwirt für Versicherungen und Finanzen oder als Geprüfte Fachwirtin für Versicherungen und Finanzen,
 
 
-    d)  als Geprüfter Fachwirt für Finanzberatung oder als Geprüfte Fachwirtin für Finanzberatung;
+    d)  als Geprüfter Fachwirt für Finanzberatung oder als Geprüfte Fachwirtin für Finanzberatung oder
+
+
+    e)  als Kaufmann für Versicherungen und Finanzanlagen oder als Kauffrau für Versicherungen und Finanzanlagen
 
 
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 3632
 
 Zuletzt geändert durch
-:   Art. 1 V v. 3.5.2024 I Nr. 146
+:   Art. 1 V v. 18.2.2025 I Nr. 44
 
 
 ## § 1
@@ -155,15 +155,15 @@ Die Verschreibung eines Arzneimittels im Sinne des § 2 Abs. 3 ist in zwei Ausfe
 
 ## § 3a
 
-(1) Eine Verschreibung von Arzneimitteln, die die Wirkstoffe Lenalidomid, Pomalidomid oder Thalidomid enthalten, darf nur auf einem amtlichen Formblatt, das vom Bundesinstitut für Arzneimittel und Medizinprodukte entweder ausgegeben oder in elektronischer Form zur Verfügung gestellt wird, erfolgen. Das Formblatt nach Satz 1 ist ausschließlich zur Verschreibung der in Satz 1 genannten Arzneimittel bestimmt.
+(1) Eine Verschreibung von Arzneimitteln, die die Wirkstoffe Lenalidomid, Pomalidomid oder Thalidomid enthalten, darf nur auf einem amtlichen Formblatt, das vom Bundesinstitut für Arzneimittel und Medizinprodukte ausgegeben wird, oder als Verschreibung in elektronischer Form über die Telematikinfrastruktur, die als Sonderverschreibung mit dem Zusatz „T-Rezept“ gekennzeichnet ist, erfolgen. Das in Satz 1 genannte Formblatt und die in Satz 1 genannte Verschreibung in elektronischer Form dürfen ausschließlich zur Verschreibung der in Satz 1 genannten Arzneimittel verwendet werden.
 
-(2) Verschreibungen nach Absatz 1 Satz 1 müssen die Bestätigung der ärztlichen Person enthalten, dass die Sicherheitsmaßnahmen gemäß der aktuellen Fachinformation eines entsprechenden Fertigarzneimittels eingehalten werden, insbesondere, dass erforderlichenfalls ein Schwangerschafts-Präventionsprogramm durchgeführt wird und dass der Patientin oder dem Patienten vor Beginn der medikamentösen Behandlung geeignete medizinische Informationsmaterialien ausgehändigt wurden. Ferner muss auf der Verschreibung vermerkt sein, ob eine Behandlung innerhalb oder außerhalb der jeweils zugelassenen Anwendungsgebiete erfolgt.
+(2) Verschreibungen nach Absatz 1 Satz 1 müssen die Bestätigung der ärztlichen Person enthalten, dass die Sicherheitsmaßnahmen gemäß der aktuellen Fachinformation eines entsprechenden Fertigarzneimittels eingehalten werden, insbesondere, dass erforderlichenfalls ein Schwangerschafts-Präventionsprogramm durchgeführt wird und dass der Patientin oder dem Patienten vor Beginn der medikamentösen Behandlung geeignete medizinische Informationsmaterialien ausgehändigt wurden. Ferner muss auf einer Verschreibung auf dem in Absatz 1 Satz 1 genannten Formblatt ersetzt vermerkt sein, ob eine Behandlung innerhalb oder außerhalb der jeweils zugelassenen Anwendungsgebiete erfolgt. Bei einer Verschreibung in elektronischer Form muss vermerkt sein, ob eine Behandlung außerhalb der jeweils zugelassenen Anwendungsgebiete erfolgt.
 
-(3) Die Höchstmenge der auf Verschreibungen nach Absatz 1 Satz 1 verordneten Arzneimittel darf je Verschreibung für Frauen im gebärfähigen Alter den Bedarf für vier Wochen, ansonsten den für zwölf Wochen nicht übersteigen.
+(3) Die Höchstmenge der auf Verschreibungen nach Absatz 1 Satz 1 verordneten Arzneimittel darf je Verschreibung für gebärfähige Frauen den Bedarf für vier Wochen, ansonsten den für zwölf Wochen nicht übersteigen. Bei einer Verschreibung in elektronischer Form müssen die Reichdauer und die Angabe, ob es sich um eine Verschreibung für eine gebärfähige Frau handelt, vermerkt sein.
 
-(4) Verschreibungen von in Absatz 1 Satz 1 genannten Arzneimitteln sind bis zu sechs Tage nach dem Datum ihrer Ausfertigung gültig. Verschreibungen von in Absatz 1 Satz 1 genannten Arzneimitteln in elektronischer Form sind bis zu sechs Tage nach dem Datum ihrer qualifizierten elektronischen Signatur gültig.
+(4) Verschreibungen von in Absatz 1 Satz 1 genannten Arzneimitteln sind bis zu sechs Tage nach dem Datum ihrer Ausfertigung oder ihrer qualifizierten elektronischen Signatur gültig.
 
-(5) Das Formblatt nach Absatz 1 Satz 1 wird vom Bundesinstitut für Arzneimittel und Medizinprodukte auf Anforderung einer ärztlichen Person entweder elektronisch zur Verfügung gestellt oder gegen Nachweis der ärztlichen Approbation ausgegeben. Der Anforderung muss eine Erklärung der ärztlichen Person beigefügt sein, dass
+(5) Das Formblatt nach Absatz 1 Satz 1 wird vom Bundesinstitut für Arzneimittel und Medizinprodukte auf Anforderung einer ärztlichen Person gegen Nachweis der ärztlichen Approbation ausgegeben. Der Anforderung muss eine Erklärung der ärztlichen Person beigefügt sein, dass
 
 1.  ihr die medizinischen Informationsmaterialien zu Lenalidomid, Pomalidomid oder Thalidomid gemäß der aktuellen Fachinformationen entsprechender Fertigarzneimittel vorliegen,
 
@@ -175,11 +175,11 @@ Die Verschreibung eines Arzneimittels im Sinne des § 2 Abs. 3 ist in zwei Ausfe
 
 
 
-Auf der Verschreibung in elektronischer Form sind die Erklärungen nach Satz 2 Nummer 1 bis 3 abzugeben.
+Bei einer Verschreibung in elektronischer Form ist die in Satz 2 Nummer 3 genannte Erklärung abzugeben.
 
-(6) Das Bundesinstitut für Arzneimittel und Medizinprodukte macht ein Muster des Formblatts nach Absatz 1 Satz 1 einschließlich des Formblatts in elektronischer Form barrierefrei öffentlich bekannt.
+(6) Das Bundesinstitut für Arzneimittel und Medizinprodukte macht ein Muster des in Absatz 1 Satz 1 genannten Formblatts barrierefrei öffentlich bekannt.
 
-(7) Apotheken übermitteln dem Bundesinstitut für Arzneimittel und Medizinprodukte wöchentlich die Durchschriften der Verschreibungen nach Absatz 1 Satz 1. Bei Verschreibungen von Arzneimitteln nach Absatz 1 Satz 1 in elektronischer Form stellen die Dienste der Telematikinfrastruktur nach Abgabe der Arzneimittel in der Apotheke die unmittelbare elektronische Übermittlung einer elektronischen Kopie der Verschreibung, bereinigt um Patientendaten, an das Bundesinstitut für Arzneimittel und Medizinprodukte sicher.
+(7) Apotheken übermitteln dem Bundesinstitut für Arzneimittel und Medizinprodukte wöchentlich die Durchschriften der Verschreibungen nach Absatz 1 Satz 1. Bei Verschreibungen von Arzneimitteln nach Absatz 1 Satz 1 in elektronischer Form stellen die Dienste der Telematikinfrastruktur nach Abgabe der Arzneimittel in der Apotheke die unmittelbare elektronische Übermittlung der Informationen, die sich bei einer Verschreibung auf dem in Absatz 1 Satz 1 genannten Formblatt aus der in Satz 1 genannten Durchschrift ergeben, einschließlich der in Absatz 2 Satz 1 und 3 genannten Informationen, sowie die in Absatz 3 Satz 2 genannten Informationen, jeweils bereinigt um Patientendaten, und die in Absatz 5 Satz 3 genannte Erklärung sowie Informationen zur Kontaktaufnahme mit der abgebenden Apotheke an das Bundesinstitut für Arzneimittel und Medizinprodukte sicher.
 
 
 ## § 3b
@@ -229,6 +229,7 @@ Verschreibungspflichtig sind, sofern im Einzelfall nicht anders geregelt, auch A
 Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, Haaren oder Nägeln zu verstehen.
 
 **Abacavir**
+**Abaloparatid**
 **Abamectin**
 **Abarelix**
 **Abatacept**
@@ -389,6 +390,7 @@ N
 **Apremilast**
 **Aprepitant**
 **Aprindin**
+**Aprocitentan**
 **Apronalid**
 **Aprotinin**
 **Ardeparin**
@@ -630,6 +632,7 @@ b)  als Lutschtablette mit maximal 3 mg Benzydaminhydrochlorid pro abgeteilter F
 - ausgenommen zum äußeren Gebrauch in Pflastern, Salben oder ähnlichen Zubereitungen -
 **Cantharidin**
 **Capecitabin**
+**Capivasertib**              und seine Ester
 **Capmatinib**
 **Capreomycin**
 **Capsaicin**              und seine Ester
@@ -776,6 +779,7 @@ N **** **-[2-oxo-(2,4,5-trimethylanilino)ethyl]glycin**
 **Cinchophen**              und seine Ester
 **Cinnarizin**
 **Cinoxacin**
+**Cipaglucosidase alfa**
 **Ciprofloxacin**
 **Cisaprid**
 **Cisatracurium-Salze**
@@ -897,7 +901,7 @@ b)  zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasale
 **Cyproheptadin**
 **Cyproteron**              und seine Ester
 **Cytarabin**
-**Cytisin**
+**Cytisiniclin**
 
 **Dabigatran**              und seine Ester
 **Dabrafenib**
@@ -911,6 +915,7 @@ b)  zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasale
 – zur parenteralen Anwendung –
 **Danaparoid**
 **Danazol**
+**Danicopan**
 **Danofloxacin**
 **Dapagliflozin**              und seine Ester
 **Dapiprazol**
@@ -924,6 +929,7 @@ b)  zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasale
 **Darunavir**
 **Dasabuvir**
 **Dasatinib**
+**Dasiglucagon**
 **Datura-Arten**              und ihre Zubereitungen
 – ausgenommen in homöopathischen Zubereitungen zur oralen Anwendung aus oberirdischen Teilen von
 Datura stramonium              zur Blütezeit, die nach den Herstellungsvorschriften 25 und 26 des Homöopathischen Arzneibuches hergestellt sind –
@@ -1122,6 +1128,7 @@ Datura stramonium              zur Blütezeit, die nach den Herstellungsvorschri
 **Edoxaban**
 **Edoxudin**
 **Efavirenz**
+**Efbemalenograstim alfa**
 **Efgartigimod alfa**
 **Eflornithin**
 **Eisen(III)-citrat-Hydrat, basisches**
@@ -1130,6 +1137,7 @@ Datura stramonium              zur Blütezeit, die nach den Herstellungsvorschri
 **Eisen(III)-Maltol**
 **Eisen-Verbindungen**
 - zur parenteralen Anwendung, ausgenommen zur Prophylaxe der Eisenmangelanämie bei Saugferkeln, sofern dies als alleiniger Anwendungsbereich auf Behältnissen und äußeren Umhüllungen angegeben ist -
+**Elacestrant**              und seine Ester
 **Elbasvir**
 **Eletriptan**
 **Elexacaftor**
@@ -1150,6 +1158,7 @@ Datura stramonium              zur Blütezeit, die nach den Herstellungsvorschri
 **Endomid**
 **Enfluran**
 **Enfuvirtid**
+**Enmetazobactam**
 **Enoxacin**
 **Enoxaparin**
 – zur parenteralen Anwendung –
@@ -1263,6 +1272,7 @@ bei Tieren -
 **Etoposid**
 **Etoricoxib**
 **Etozolin**
+**Etrasimod**              und seine Ester
 **Etravirin**
 **Etretinat**
 **Etynodiol**              und seine Ester
@@ -1306,6 +1316,7 @@ bei Tieren -
 **Ferumoxytol**
 **Fesoterodin**
 **Fexofenadin**
+**Fezolinetant**
 **Fibrinolysin (human)**
 **Fidaxomicin**              und seine Derivate und Analoga
 **Filgrastrim**
@@ -1397,6 +1408,7 @@ Fludeoxyglucose (
 **Fostemsavir**
 **Framycetin**
 **Frovatriptan**
+**Fruquintinib**
 **Fulvestrant**
 **Furaltadon**
 **Furazolidon**
@@ -1479,10 +1491,10 @@ Camellia sinensis              (L.) O. Kuntze (45 – 56:1), entsprechend 55 –
 **Haloperidol**              und seine Ester
 **Halothan**
 **Haloxon**
-(
-13 **C) Harnstoff**
-(
-14 **C) Harnstoff**
+**(**
+13 **C)Harnstoff**
+**(**
+14 **C)Harnstoff**
 **Hemoglobinglutamer**
 - zur Anwendung bei Tieren -
 **Heparine**
@@ -1615,6 +1627,7 @@ und sofern auf Behältnissen und äußeren Umhüllungen eine Beschränkung der A
 **Insulin detemir**
 **Insulin glargin**
 **Insulin glulisin**
+**Insulin icodec**
 **Insulin lispro**
 **Insulin (vom Schwein)-Zink-Injektionssuspension, kristallin**
 - zur Anwendung bei Tieren -
@@ -1635,6 +1648,7 @@ und sofern auf Behältnissen und äußeren Umhüllungen eine Beschränkung der A
 **Iprazochrom**
 **Iproclozid**
 **Ipronidazol**
+**Iptacopan**              und seine Ester
 - zur Anwendung bei Tieren -
 **Irbesartan**
 **Irinotecan**
@@ -1803,6 +1817,8 @@ b)  zur Linderung von neuropathischen Schmerzen nach einer Herpes-Zoster-Infekti
 - zur Anwendung bei Tieren -
 **Lurasidon**
 **Luspatercept**
+**(**
+177 **Lu)Lutetiumvipivotidtetraxetan**              und seine Ester
 **Lutropin**
 **Lutropin alfa**
 **Lynestrenol**
@@ -1970,6 +1986,7 @@ O             -Acyl-Derivate
 **Mofebutazon**
 **Molgramostim**
 **Molsidomin**
+**Momelotinib**
 **Mometason**              und seine Ester
 – ausgenommen Mometasonfuroat zur intranasalen Anwendung bei Erwachsenen zur symptomatischen Behandlung der saisonalen allergischen Rhinitis, nach der Erstdiagnose einer saisonalen allergischen Rhinitis durch einen Arzt, in einer Tagesdosis bis zu 200 Mikrogramm Mometasonfuroat, sofern auf Behältnissen und äußeren Umhüllungen angegeben ist, dass die Anwendung auf Erwachsene beschränkt ist –
 **Monepantel**
@@ -2129,6 +2146,7 @@ b)  bis zu 15 mg Nicotin je abgeteilter Arzneiform und in einer Tagesdosis bis z
 **Olopatadin**
 – ausgenommen zur Anwendung am Auge, sofern auf Behältnissen und äußeren Umhüllungen eine Beschränkung der Anwendung auf Erwachsene angegeben ist, es sei denn, es handelt sich um von der Europäischen Kommission als verschreibungspflichtig zugelassene Arzneimittel –
 **Olsalazin**
+**Omaveloxolon**
 **Ombitasvir**
 **Omega-3-Säurenethylester**
 - zur adjuvanten Behandlung zur Sekundärprophylaxe nach Herzinfarkt, zusätzlich zur Standard-Behandlung (z. B. Statine, Thrombozytenaggregationshemmer, Betablocker, ACE-Hemmer) -
@@ -2251,6 +2269,7 @@ c)  oralen Anwendung (in maximaler Einzeldosis von 500 mg und maximaler Tagesdo
 **Pegunigalsidase alfa**
 **Pegvaliase**
 **Pegvisomant**
+**Pegzilarginase**
 **Pemetrexed**
 **Pemigatinib**
 **Penbutolol**
@@ -2337,8 +2356,8 @@ b)  zur Anwendung beim Pferd und beim Hund -
 **Pipenzolatbromid**
 **Piperacillin**
 **Piperaquin**
-**Piperazin,**              auch als Hydrat
-- als Wurmmittel -
+**Piperazin**
+– als Wurmmittel –
 **Piperidolat**
 **Piperoxan**
 **Piperylon**
@@ -2531,6 +2550,7 @@ b)  in einer Konzentration bis zu 1% in Zubereitungen, die wieder abgespült wer
 – ausgenommen Arzneimittel zum Aufbringen auf die Haut oder Schleimhaut, außer zur Anwendung am Auge –
 **Quintiofos**
 **Quinupristin**
+**Quizartinib**
 
 **Rabeprazol**
 **Racecadotril**
@@ -2588,6 +2608,7 @@ b)  unter den Warnhinweisen angegeben wird, dass Racecadotril nur nach ärztlich
 - ausgenommen zum äußeren Gebrauch in Zubereitungen mit einer Tagesdosis bis zu 50 000 I.E. -
 **Reviparin**
 – zur parenteralen Anwendung –
+**Rezafungin**              und seine Ester
 **Ribavirin**
 **Ribociclib**
 **Ribostamycin**
@@ -2606,6 +2627,7 @@ b)  unter den Warnhinweisen angegeben wird, dass Racecadotril nur nach ärztlich
 **Risdiplam**
 **Risedronsäure**
 **Risperidon**
+**Ritlecitinib**
 **Ritodrin**
 **Ritonavir**
 **Rivaroxaban**
@@ -2708,6 +2730,7 @@ Samarium(
 **Sofosbuvir**
 **Solifenacin**
 **Solriamfetol**
+**Somapacitan**
 **Somatorelin**
 **Somatostatin**
 **Somatrogon**
@@ -2720,6 +2743,7 @@ Samarium(
 **Spagluminsäure**
 - zur Behandlung der saisonalen Rhinitis -
 **Sparfloxacin**
+**Sparsentan**
 **Spartein**
 - ausgenommen zum äußeren Gebrauch -
 **Spectinomycin**
@@ -2897,7 +2921,7 @@ Samarium(
 **Tiomesteron**
 **Tiopronin**
 **Tiotixen**
-**Tiotropiumbromid**              und sein Hydrat
+**Tiotropiumbromid**
 **Tipiracil**
 **Tipranavir**
 **Tiracizin**
@@ -2905,6 +2929,7 @@ Samarium(
 **Tirbanibulin**
 **Tirofiban**
 **Tiropramid**
+**Tirzepatid**
 **Tivozanib**
 **Tixocortol**              und seine Ester
 **Tizanidin**
@@ -2915,6 +2940,7 @@ Samarium(
 **Tocofersolan**              und seine Ester
 – bei Vitamin-E-Mangel auf Grund digestiver Malabsorption bei pädiatrischen Patienten –
 **Tofacitinib**
+**Tofersen**
 **Tolazamid**
 **Tolbutamid**
 **Tolcapon**
@@ -3023,6 +3049,7 @@ Samarium(
 **Valnemulin**
 **Valproinsäure**
 **Valsartan**
+**Vamorolon**              und seine Ester
 **Vancomycin**
 **Vandetanib**
 **Vardenafil**
@@ -3045,6 +3072,7 @@ Samarium(
 **Vernakalant**
 **Verteporfin**
 **Vestronidase alfa**
+**Vibegron**              und seine Ester
 **Vidarabin**
 **Vigabatrin**
 **Vilanterol**
@@ -3088,6 +3116,7 @@ Samarium(
 **Zeranol**
 **Ziconotid**
 **Zidovudin**
+**Zilucoplan**
 **Zinkoxid zur oralen Anwendung**
 – ausgenommen in Tagesdosen bis zu 25 mg Zink –
 **Zink**
@@ -3131,6 +3160,7 @@ Zubereitung aus
 **Azelastin**
 und
 **Fluticasonpropionat**
+– ausgenommen Zubereitungen aus Azelastin und Fluticasonpropionat zur intranasalen Anwendung bei Erwachsenen zur symptomatischen Behandlung der mittelschweren bis schweren saisonalen allergischen Rhinitis, nach deren Erstdiagnose durch einen Arzt und wenn eine Monotherapie entweder mit einem intranasalen Antihistaminikum oder einem Glukokortikoid nicht als ausreichend erachtet wird, in einer Tagesdosis bis zu 200 Mikrogramm Fluticasonpropionat, sofern auf Behältnissen und äußeren Umhüllungen angegeben ist, dass die Anwendung auf Erwachsene beschränkt ist –
 Zubereitung aus
 **Colfosceril,**
 **1-Hexadecanol**

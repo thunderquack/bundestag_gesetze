@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2025, Nr. 38
 
-Änderung durch
-:   Art. 1 V v. 14.2.2025 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 1 V v. 14.2.2025 I Nr. 39
 
 Stand: Ersetzt V 7102-47-11 v. 29.6.1998 I 1762 (MPBetreibV)
 
@@ -555,7 +555,8 @@ und
 
 ## Anlage 2 (zu § 13 Absatz 1 und § 15 Absatz 1)
 
-(Fundstelle: BGBl. 2025 I Nr. 38, S. 13)
+(Fundstelle: BGBl. 2025 I Nr. 38, S. 13
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   1
