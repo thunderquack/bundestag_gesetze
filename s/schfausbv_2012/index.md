@@ -15,6 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1430
 
+V aufgeh. durch
+:   § 19 Satz 2 V 7110-6-139 v. 18.2.2025 I Nr. 46 mWv 1.8.2025
+
+Ersetzt durch
+:   V 7110-6-139 v. 18.2.2025 I Nr. 46 (SchfAusbV 2025)
+
 [^F1_777313_BJNR143000012]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 
 

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1957, 572, 608
 
 Zuletzt geändert durch
-:   Art. 6 G v. 22.3.2024 I Nr. 101
-
-Änderung durch
-:   Art. 1 V v. 14.2.2025 I Nr. 40 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 14.2.2025 I Nr. 40
 
 
 ## Eingangsformel

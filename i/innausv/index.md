@@ -19,6 +19,9 @@ Stand: Die V tritt nach § 20 am 31.12.2028 außer Kraft
 Zuletzt geändert durch
 :   Art. 8 G v. 20.12.2022 I 2512
 
+Änderung durch
+:   Art. 6 G v. 21.2.2025 I Nr. 51 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Anwendungsbereich
 
@@ -106,7 +109,7 @@ Satz 1 Nummer 1 gilt entsprechend auch für die Teile der Anlagenkombination, f�
 
 ## § 9 Verringerung des Zahlungsanspruchs bei negativen Preisen
 
-Für Anlagen, die Zahlungen aufgrund eines Zuschlags in der Innovationsauschreibung erhalten, verringert sich der anzulegende Wert für einen Zeitraum, in dem der Wert der Stundenkontrakte für die Preiszone für Deutschland am Spotmarkt der Strombörse in der vortägigen Auktion negativ ist, auf null.
+Für Anlagen, die Zahlungen aufgrund eines Zuschlags in der Innovationsauschreibung erhalten, verringert sich der anzulegende Wert für einen Zeitraum, in dem der Spotmarktpreis nach § 3 Nummer 42a des Erneuerbare-Energien-Gesetzes negativ ist, auf null.
 
 
 ## § 10 Höchstwert
@@ -189,7 +192,9 @@ Die §§ 2, 3, 5, 7, 8, 9 und 11 dürfen erst nach der beihilferechtlichen Geneh
 
 ## § 19 Übergangsvorschrift
 
-Für Strom aus Anlagen, deren Zuschläge in einem Zuschlagsverfahren eines Gebotstermins vor dem 1. Dezember 2022 ermittelt worden sind, ist diese Verordnung in der am 28. Juli 2022 geltenden Fassung anzuwenden.
+(1) Für Anlagen, deren Zuschläge in einem Zuschlagsverfahren eines Gebotstermins vor dem 1. Dezember 2022 ermittelt worden sind, ist diese Verordnung in der am 28. Juli 2022 geltenden Fassung mit der Maßgabe anzuwenden, dass für die Verringerung der fixen Marktprämie Absatz 2 Satz 2 entsprechend anzuwenden ist.
+
+(2) Für Anlagen, deren Zuschläge in einem Zuschlagsverfahren eines Gebotstermins nach dem 30. November 2022 und vor dem 25. Februar 2025 ermittelt worden sind, ist § 9 in der am 24. Februar 2025 geltenden Fassung mit der Maßgabe nach Satz 2 anzuwenden. Ab dem Tag, an dem die Strombörsen erstmals in der vortägigen Auktion am Day-Ahead-Markt Stromviertelstundenkontrakte der Kopplung der Orderbücher zugrunde legen, verringert sich der anzulegende Wert für eine Kalenderstunde auf null, wenn in dieser Kalenderstunde das arithmetische Mittel aus den für die Viertelstunden dieser Kalenderstunde ermittelten Spotmarktpreisen nach § 3 Nummer 42a des Erneuerbare-Energien-Gesetzes negativ ist.
 
 
 ## § 20 Außerkrafttreten

@@ -16,8 +16,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 687
 
+V aufgeh. durch
+:   § 15 Satz 2 V 7110-3-221 v. 19.2.2025 I Nr. 48 mWv 1.8.2025
+
 Zuletzt geändert durch
 :   Art. 2 Abs. 61 V v. 18.1.2022 I 39
+
+Ersetzt durch
+:   V 7110-3-221 v. 19.2.2025 I Nr. 48 (ZahntechMstrV 2025)
 
 
 

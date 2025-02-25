@@ -16,6 +16,15 @@ Fundstelle
 :   BGBl I: 2014, 1066
 
 Stand: Zuletzt geändert Art. 4 G v. 23.10.2024 I Nr. 327
+Änderung durch
+:   Art. 3 G v. 21.2.2025 I Nr. 51 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 4 G v. 21.2.2025 I Nr. 51 mWv 25.2.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 1 G v. 21.2.2025 I Nr. 52 mWv 25.2.2025 noch nicht berücksichtigt
+
 
 ## Teil 1 - Allgemeine Bestimmungen
 
@@ -282,7 +291,7 @@ Im Sinn dieses Gesetzes ist oder sind
 42. „Speichergas“ jedes Gas, das keine erneuerbare Energie ist, aber zum Zweck der Zwischenspeicherung von Strom aus erneuerbaren Energien ausschließlich unter Einsatz von Strom aus erneuerbaren Energien erzeugt wird,
 
 
-42a. „Spotmarktpreis“ der Strompreis in Cent pro Kilowattstunde, der sich in der Preiszone für Deutschland aus der Kopplung der Orderbücher aller Strombörsen in der vortägigen Auktion von Stromstundenkontrakten ergibt; wenn die Kopplung der Orderbücher aller Strombörsen nicht oder nur teilweise erfolgt, ist für die Dauer der unvollständigen Kopplung der Durchschnittspreis aller Strombörsen gewichtet nach dem jeweiligen Handelsvolumen zugrunde zu legen,
+42a. „Spotmarktpreis“ der Strompreis in Cent pro Kilowattstunde, der sich in der Preiszone für Deutschland aus der Kopplung der Orderbücher aller Strombörsen in der vortägigen Auktion von Stromviertelstundenkontrakten am Day-Ahead-Markt ergibt; wenn die Kopplung der Orderbücher aller Strombörsen nicht oder nur teilweise erfolgt, ist für die Dauer der unvollständigen Kopplung der Durchschnittspreis aller Strombörsen gewichtet nach dem jeweiligen Handelsvolumen zugrunde zu legen,
 
 
 43. „Steckersolargerät“ ein Gerät, das aus einer Solaranlage oder aus mehreren Solaranlagen, einem Wechselrichter, einer Anschlussleitung und einem Stecker zur Verbindung mit dem Endstromkreis eines Letztverbrauchers besteht,
@@ -5986,6 +5995,33 @@ Für Anlagen, die in einem Zuschlagsverfahren eines Gebotstermins nach dem 31. D
 
 (42) Bei Anlagen, die nach dem 31. Dezember 2023 in Betrieb genommen wurden, ist abweichend von § 38d Absatz 6 die Erstattung des Projektsicherungsbeitrags nicht vor dem 1. Juni 2024 fällig.
 
+(43) Für Strom aus Anlagen nach Absatz 1 sind abweichend von Absatz 1 und vorbehaltlich des Absatzes 44 ab dem 1. Januar 2025 § 3 Nummer 42a und Anlage 1 dieses Gesetzes anstelle von § 3 Nummer 42a und Anlage 1 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung anzuwenden.
+
+(44) Für den Zeitraum vom 1. Januar 2025 bis einschließlich zu dem Tag, an dem die Strombörsen erstmals in der vortägigen Auktion am Day-Ahead-Markt Stromviertelstundenkontrakte der Kopplung der Orderbücher zugrunde legen, sind § 3 Nummer 42a und Anlage 1 in der am 31. Dezember 2024 geltenden Fassung anzuwenden für
+
+1.  die Berechnung der energieträgerspezifischen Monatsmarktwerte nach Anlage 1 Nummer 3, sofern nicht ein Fall des Satzes 3 vorliegt,
+
+
+2.  die Veröffentlichungspflichten der Übertragungsnetzbetreiber nach Anlage 1 Nummer 5.1, 5.2 und 5.4 und
+
+
+3.  die Mitteilung der Informationen nach Anlage 1 Nummer 6 durch die Strombörsen an die Übertragungsnetzbetreiber.
+
+
+
+Für die Berechnung der energieträgerspezifischen Jahresmarktwerte nach Anlage 1 Nummer 4 für das Jahr 2025 ist Anlage 1 Nummer 4 für den Zeitraum bis einschließlich zu dem Tag, an dem die Strombörsen erstmals in der vortägigen Auktion am Day-Ahead-Markt Stromviertelstundenkontrakte der Kopplung der Orderbücher zugrunde legen, mit folgenden Maßgaben anzuwenden:
+
+1.  als Spotmarktpreis ist für jede Viertelstunde einer Kalenderstunde der für die betreffende Kalenderstunde ermittelte durchschnittliche Strompreis in Cent pro Kilowattstunde, der sich in der Preiszone für Deutschland aus der Kopplung der Orderbücher aller Strombörsen in der vortägigen Auktion von Stromstundenkontrakten am Day-Ahead-Markt ergibt, anzusetzen und
+
+
+2.  die für jede einzelne Viertelstunde der Kalenderstunde maßgebliche Strommenge wird ermittelt, indem die Menge des nach der Online-Hochrechnung nach Anlage 1 Nummer 5.1 zum Erneuerbare-Energien-Gesetz in der am 31. Dezember 2022 geltenden Fassung nach Satz 1 Nummer 2 in dieser Kalenderstunde erzeugten Stroms der jeweiligen Technologie gleichmäßig auf die Viertelstunden verteilt wird.
+
+
+
+Fällt der Tag, an dem die Strombörsen erstmals in der vortägigen Auktion am Day-Ahead-Markt Stromviertelstundenkontrakte der Kopplung der Orderbücher zugrunde legen, in einem Monat auf einen anderen Tag als den Monatsersten, sind bei der Berechnung der energieträgerspezifischen Monatsmarktwerte nach Anlage 1 Nummer 3.2 und 3.3 für diesen Monat die Maßgaben nach Satz 2 Nummer 1 und 2 für alle Kalendertage des Monats bis einschließlich zu dem Tag, an dem die Strombörsen erstmals in der vortägigen Auktion am Day-Ahead-Markt Stromviertelstundenkontrakte der Kopplung der Orderbücher zugrunde legen, entsprechend anzuwenden.
+
+(45) Um die Stunden zu ermitteln, in denen der Spotmarktpreis nach Maßgabe des § 51 Absatz 1 dieses Gesetzes, nach Maßgabe des § 51 Absatz 1 des Erneuerbare-Energien-Gesetzes in der am 24. Februar 2025 geltenden Fassung und nach Maßgabe des § 51 Absatz 1 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung negativ ist, ist für den Zeitraum vom 1. Januar 2025 bis einschließlich zu dem Tag, an dem die Strombörsen erstmals in der vortägigen Auktion am Day-Ahead-Markt Stromviertelstundenkontrakte der Kopplung der Orderbücher zugrunde legen, § 3 Nummer 42a des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2024 geltenden Fassung anzuwenden. Sofern nach der jeweils anzuwendenden Fassung des § 51 Absatz 1 als maßgebliche Zeiteinheit Stunden, in denen der Spotmarktpreis negativ ist, zugrunde zu legen sind, ist ab dem Tag, an dem die Strombörsen erstmals in der vortägigen Auktion am Day-Ahead-Markt Stromviertelstundenkontrakte der Kopplung der Orderbücher zugrunde legen, eine Kalenderstunde dann zu berücksichtigen, wenn das arithmetische Mittel aus den Spotmarktpreisen der Viertelstunden dieser Kalenderstunde negativ ist.
+
 
 #### § 101 Beihilferechtlicher Genehmigungsvorbehalt
 
@@ -6126,13 +6162,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   –
 
-    *   Für jede Stunde eines Kalendermonats wird der durchschnittliche Spotmarktpreis mit der Menge des in dieser Stunde nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land multipliziert.
+    *   Für jede Viertelstunde eines Kalendermonats wird der durchschnittliche Spotmarktpreis mit der Menge des in dieser Viertelstunde nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land multipliziert.
 
 
 *    *
     *   –
 
-    *   Die Ergebnisse für alle Stunden des Kalendermonats werden summiert.
+    *   Die Ergebnisse für alle Viertelstunden des Kalendermonats werden summiert.
 
 
 *    *
@@ -6248,13 +6284,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   –
 
-    *   Für jede Stunde eines Kalenderjahres wird der durchschnittliche Spotmarktpreis mit der Menge des in dieser Stunde nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land multipliziert.
+    *   Für jede Viertelstunde eines Kalenderjahres wird der durchschnittliche Spotmarktpreis mit der Menge des in dieser Viertelstunde nach der Online-Hochrechnung nach Nummer 5.1 erzeugten Stroms aus Windenergieanlagen an Land multipliziert.
 
 
 *    *
     *   –
 
-    *   Die Ergebnisse für alle Stunden des Kalenderjahres werden summiert.
+    *   Die Ergebnisse für alle Viertelstunden des Kalenderjahres werden summiert.
 
 
 *    *
@@ -6292,7 +6328,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   5.1
 
-    *   Die Übertragungsnetzbetreiber müssen jederzeit unverzüglich auf einer gemeinsamen Internetseite in einheitlichem Format die auf der Grundlage einer repräsentativen Anzahl von gemessenen Referenzanlagen erstellte Online-Hochrechnung der Menge des tatsächlich erzeugten Stroms aus Windenergieanlagen an Land, Windenergieanlagen auf See und Solaranlagen in ihren Regelzonen in mindestens stündlicher Auflösung veröffentlichen. Für die Erstellung der Online-Hochrechnung sind Reduzierungen der Einspeiseleistung der Anlage durch den Netzbetreiber oder im Rahmen der Direktvermarktung nicht zu berücksichtigen.
+    *   Die Übertragungsnetzbetreiber müssen jederzeit unverzüglich auf einer gemeinsamen Internetseite in einheitlichem Format die auf der Grundlage einer repräsentativen Anzahl von gemessenen Referenzanlagen erstellte Online-Hochrechnung der Menge des tatsächlich erzeugten Stroms aus Windenergieanlagen an Land, Windenergieanlagen auf See und Solaranlagen in ihren Regelzonen in mindestens viertelstündlicher Auflösung veröffentlichen. Für die Erstellung der Online-Hochrechnung sind Reduzierungen der Einspeiseleistung der Anlage durch den Netzbetreiber oder im Rahmen der Direktvermarktung nicht zu berücksichtigen.
 
 
 *    *   5.2
@@ -6303,7 +6339,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   a)
 
-    *   den Spotmarktpreis für jeden Kalendertag in stündlicher Auflösung,
+    *   den Spotmarktpreis für jeden Kalendertag in viertelstündlicher Auflösung,
 
 
 *    *
@@ -6387,13 +6423,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   a)
 
-    *   bis zum Ablauf des zweiten Werktags des Folgemonats den von ihnen im Rahmen der Kopplung der Orderbücher aller Strombörsen ermittelten Spotmarktpreis für jeden Kalendertag in stündlicher Auflösung und
+    *   bis zum Ablauf des zweiten Werktags des Folgemonats den von ihnen im Rahmen der Kopplung der Orderbücher aller Strombörsen ermittelten Spotmarktpreis für jeden Kalendertag in viertelstündlicher Auflösung und
 
 
 *    *
     *   b)
 
-    *   im Fall einer nicht vollständigen oder nur teilweisen Kopplung der Orderbücher aller Strombörsen für die jeweils hiervon betroffenen Stunden den an ihrer Strombörse ermittelten Preis für die Stromstundenkontrakte in der vortägigen Auktion und ihr Handelsvolumen für diese Stromstundenkontrakte; diese Mitteilung muss unverzüglich, spätestens zwei Stunden nach Abschluss der vortägigen Auktion erfolgen.
+    *   im Fall einer nicht vollständigen oder nur teilweisen Kopplung der Orderbücher aller Strombörsen für die jeweils hiervon betroffenen Viertelstunden den an ihrer Strombörse ermittelten Preis für die Stromviertelstundenkontrakte in der vortägigen Auktion und ihr Handelsvolumen für diese Stromviertelstundenkontrakte; diese Mitteilung muss unverzüglich, spätestens zwei Stunden nach Abschluss der vortägigen Auktion erfolgen.
 
 
 

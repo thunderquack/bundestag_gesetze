@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 29.6.2021 I 2245
 
+Änderung durch
+:   Art. 1 V v. 19.2.2025 I Nr. 50 mWv ersten Tag des auf die Verkündung folgenden Quartals noch nicht berücksichtigt
+
 
 ## Eingangsformel
 

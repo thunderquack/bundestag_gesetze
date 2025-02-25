@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 G v. 22.12.2023 I Nr. 405
 
+Änderung durch
+:   Art. 7 G v. 21.2.2025 I Nr. 51 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F812505_01_BJNR181810020]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 241 vom 17.9.2015, S. 1).
 
 
@@ -381,16 +384,13 @@ Die Bundesnetzagentur berichtigt im Fall des § 7 Absatz 4 Satz 2 das nach Satz 
     a)  bis einschließlich 31. Mai 2021 ein Gebot in der Ausschreibung abgibt, den Kohleersatzbonus nach § 7 Absatz 2 des Kraft-Wärme-Kopplungsgesetzes in der am 13. August 2020 geltenden Fassung oder nach § 7c des Kraft-Wärme-Kopplungsgesetzes für den Fall eines Zuschlags nach § 21 ab Bestandskraft des Zuschlags nicht in Anspruch nimmt (bedingte Verzichtserklärung),
 
 
-    b)  nach dem 31. Mai 2021 ein Gebot in der Ausschreibung abgibt, den Kohleersatzbonus nach § 7 Absatz 2 des Kraft-Wärme-Kopplungsgesetzes in der am 13. August 2020 geltenden Fassung oder nach § 7c des Kraft-Wärme-Kopplungsgesetzes unabhängig davon, ob ein Zuschlag nach § 21 erteilt wird, nicht in Anspruch nimmt (unbedingte Verzichtserklärung).
+    b)  nach dem 31. Mai 2021 ein Gebot in der Ausschreibung abgibt, den Kohleersatzbonus nach § 7 Absatz 2 des Kraft-Wärme-Kopplungsgesetzes in der am 13. August 2020 geltenden Fassung oder nach § 7c des Kraft-Wärme-Kopplungsgesetzes unabhängig davon, ob ein Zuschlag nach § 21 erteilt wird, nicht in Anspruch nimmt (unbedingte Verzichtserklärung) und
 
 
 
 
 
-7.  der Anlagenbetreiber legt eine Erklärung zu der angestrebten Nutzung des Standorts der Steinkohleanlage nach dem Wirksamwerden des Verbots der Kohleverfeuerung vor und erklärt sein Einverständnis, dass seine Angaben zu der angestrebten Nutzung im Fall eines Zuschlags nach § 21 durch die Bundesnetzagentur veröffentlicht werden und
-
-
-8.  der Anlagenbetreiber weist der Bundesnetzagentur durch Eigenerklärung nach, dass er sich für den Fall, dass dieses Gebot einen Zuschlag erhält, verpflichtet, auf Anforderung der Übertragungsnetzbetreiber mit Regelverantwortung den oder die Generatoren der bezuschlagten Steinkohleanlage zu einem Betriebsmittel zur Bereitstellung von Blind- und Kurzschlussleistung umrüsten zu lassen und den Übertragungsnetzbetreibern nach § 12 Absatz 1 und nach § 13a Absatz 1 des Energiewirtschaftsgesetzes für maximal acht Jahre ab dem Zeitpunkt, zu dem das Verbot der Kohleverfeuerung für die bezuschlagte Steinkohleanlage wirksam wird, zur Verfügung zu stellen.
+7.  der Anlagenbetreiber legt eine Erklärung zu der angestrebten Nutzung des Standorts der Steinkohleanlage nach dem Wirksamwerden des Verbots der Kohleverfeuerung vor und erklärt sein Einverständnis, dass seine Angaben zu der angestrebten Nutzung im Fall eines Zuschlags nach § 21 durch die Bundesnetzagentur veröffentlicht werden.
 
 
 
@@ -529,7 +529,7 @@ Die Bundesnetzagentur berichtigt im Fall des § 7 Absatz 4 Satz 2 das nach Satz 
 
 (2) Die Gebotsmenge nach Absatz 1 Nummer 5 muss stets der gesamten Nettonennleistung der Steinkohleanlage entsprechen.
 
-(3) Dem Gebot sind Nachweise über das Vorliegen der Voraussetzungen nach Absatz 1 Nummer 10 und § 12 Absatz 1 Satz 2 Nummer 4 bis 8 beizufügen. Gibt ein Bieter in einer Ausschreibung mehrere Gebote für unterschiedliche Steinkohleanlagen ab, muss er die Gebote nummerieren und eindeutig kennzeichnen, welche Nachweise zu welchem Gebot gehören.
+(3) Dem Gebot sind Nachweise über das Vorliegen der Voraussetzungen nach Absatz 1 Nummer 10 und § 12 Absatz 1 Satz 2 Nummer 4 bis 7 beizufügen. Gibt ein Bieter in einer Ausschreibung mehrere Gebote für unterschiedliche Steinkohleanlagen ab, muss er die Gebote nummerieren und eindeutig kennzeichnen, welche Nachweise zu welchem Gebot gehören.
 
 (4) Die Gebote müssen der Bundesnetzagentur spätestens am jeweiligen Gebotstermin zugehen. Nicht fristgerecht eingegangene Gebote bleiben unberücksichtigt. Gebote müssen den Formatvorgaben nach § 11 Absatz 3 entsprechen, soweit die Bundesnetzagentur Formatvorgaben gemacht hat.
 
@@ -736,16 +736,7 @@ Steinkohleanlagen, denen ein Zuschlag nach § 21 erteilt wurde, dürfen an Besch
 
 (3) Erfolgt die endgültige Stilllegung einer Steinkohleanlage zu dem Zeitpunkt, zu dem auch das Verbot der Kohleverfeuerung gemäß § 51 spätestens wirksam wird, besteht abweichend von § 13b Absatz 1 des Energiewirtschaftsgesetzes keine Pflicht zur Anzeige der vorläufigen oder endgültigen Stilllegung der Steinkohleanlage. Der § 13b des Energiewirtschaftsgesetzes ist in diesem Fall nicht anzuwenden. Erfolgt die vorläufige oder endgültige Stilllegung einer Steinkohleanlage vor dem Zeitpunkt, zu dem das Verbot der Kohleverfeuerung gemäß § 51 spätestens wirksam wird, ist § 13b des Energiewirtschaftsgesetzes abweichend von den Sätzen 1 und 2 mit der Maßgabe anzuwenden, dass bei der Prüfung der Systemrelevanz der Anlage der angezeigte Stilllegungszeitpunkt zugrunde gelegt wird. Im Übrigen bleibt Absatz 2 Nummer 1 und 2 unberührt.
 
-(4) Ein Betreiber eines Übertragungsnetzes darf die Umrüstung einer in seiner Regelzone liegenden Steinkohleanlage nach § 12 Absatz 1 Satz 2 Nummer 8 verlangen, sofern sie nach § 13b Absatz 3 Satz 2 des Energiewirtschaftsgesetzes endgültig stillgelegt werden soll und die Steinkohleanlage ohne die Umrüstung als systemrelevant nach § 13b Absatz 2 Satz 2 des Energiewirtschaftsgesetzes genehmigt worden wäre. Der Anlagenbetreiber hat gegen den Betreiber eines Übertragungsnetzes Anspruch
-
-1.  auf Erstattung der nachgewiesenen Kosten für die Umrüstung seiner Anlage und
-
-
-2.  auf eine angemessene Vergütung entsprechend § 13c Absatz 3 des Energiewirtschaftsgesetzes.
-
-
-
-§ 13c Absatz 5 des Energiewirtschaftsgesetzes ist entsprechend anzuwenden. Nach der Beendigung der Verpflichtung nach Satz 1 ist § 13c Absatz 4 Satz 2 und 3 des Energiewirtschaftsgesetzes entsprechend anzuwenden.
+(4) (weggefallen)
 
 
 ## Teil 4 - Gesetzliche Reduzierung der Steinkohleverstromung
@@ -1387,6 +1378,11 @@ Für individuell zurechenbare öffentliche Leistungen der Bundesnetzagentur nach
 ### § 66 Fristen und Termine
 
 Für die Berechnung von Fristen und für die Bestimmung von Terminen ist § 31 des Verwaltungsverfahrensgesetzes entsprechend anzuwenden, soweit nicht durch dieses Gesetz etwas anderes bestimmt ist.
+
+
+### § 67 Übergangsbestimmung
+
+Für Anlagen, deren Umrüstung ein Betreiber eines Übertragungsnetzes mit Regelzonenverantwortung vor dem 25. Februar 2025 nach § 26 Absatz 4 verlangt hat, sind § 12 Absatz 1 Satz 1 Nummer 8, § 14 Absatz 3 Satz 1 und § 26 Absatz 4 in der bis zum Ablauf des 24. Februar 2025 geltenden Fassung anzuwenden.
 
 (zu § 12 Absatz 3)
 
