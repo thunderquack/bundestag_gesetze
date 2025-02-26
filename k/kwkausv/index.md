@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 8.5.2024 I Nr. 151
 
+Änderung durch
+:   Art. 2 G v. 21.2.2025 I Nr. 54 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Anwendungsbereich
 

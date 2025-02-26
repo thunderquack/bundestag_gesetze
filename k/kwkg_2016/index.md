@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 20.12.2022 I 2512
 
+Änderung durch
+:   Art. 1 G v. 21.2.2025 I Nr. 54 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Ersetzt V 754-18 v. 19.3.2002 I 1092 (KWKG 2002)
 
 ## Abschnitt 1 - Allgemeine Bestimmungen

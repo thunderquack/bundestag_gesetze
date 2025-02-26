@@ -20,7 +20,7 @@ Stand: Zuletzt geändert Art. 4 G v. 23.10.2024 I Nr. 327
 :   Art. 3 G v. 21.2.2025 I Nr. 51 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 4 G v. 21.2.2025 I Nr. 51 mWv 25.2.2025 noch nicht berücksichtigt
+:   Art. 4 G v. 21.2.2025 I Nr. 51 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 1 G v. 21.2.2025 I Nr. 52 mWv 25.2.2025 noch nicht berücksichtigt
@@ -548,7 +548,7 @@ Bei Freiflächenanlagen dürfen die betroffenen Kommunen den Abschluss der Verei
 
 (1) Netzbetreiber müssen Anlagen zur Erzeugung von Strom aus erneuerbaren Energien und aus Grubengas unverzüglich vorrangig an der Stelle an ihr Netz anschließen, die im Hinblick auf die Spannungsebene geeignet ist und die in der Luftlinie kürzeste Entfernung zum Standort der Anlage aufweist, wenn nicht dieses oder ein anderes Netz einen technisch und wirtschaftlich günstigeren Verknüpfungspunkt aufweist; bei der Prüfung des wirtschaftlich günstigeren Verknüpfungspunkts sind die unmittelbar durch den Netzanschluss entstehenden Kosten zu berücksichtigen. Bei einer oder mehreren Anlagen mit einer installierten Leistung von insgesamt höchstens 30 Kilowatt, die sich auf einem Grundstück mit bereits bestehendem Netzanschluss befinden, gilt der Verknüpfungspunkt des Grundstücks mit dem Netz als günstigster Verknüpfungspunkt.
 
-(2) Anlagenbetreiber dürfen einen anderen Verknüpfungspunkt dieses oder eines anderen im Hinblick auf die Spannungsebene geeigneten Netzes wählen, es sei denn, die daraus resultierenden Mehrkosten des Netzbetreibers sind nicht unerheblich.
+(2) Anlagenbetreiber dürfen einen anderen Verknüpfungspunkt dieses oder eines anderen im Hinblick auf die Spannungsebene geeigneten Netzes wählen, es sei denn, die daraus resultierenden Mehrkosten des Netzbetreibers sind nicht unerheblich. Dies kann auch ein Verknüpfungspunkt sein, der bereits von einer bestehenden Anlage genutzt wird, sofern der Betreiber der bestehenden Anlage der Mitnutzung zustimmt. Die Wahl nach Satz 1 oder Satz 2 kann mit dem Angebot einer flexiblen Netzanschlussvereinbarung nach § 8a verbunden werden.
 
 (3) Der Netzbetreiber darf abweichend von den Absätzen 1 und 2 der Anlage einen anderen Verknüpfungspunkt zuweisen, es sei denn, die Abnahme des Stroms aus der betroffenen Anlage nach § 11 Absatz 1 wäre an diesem Verknüpfungspunkt nicht sichergestellt.
 
@@ -625,33 +625,77 @@ Netzbetreiber müssen ein Webportal zur Verfügung stellen, über das das Netzan
 Das Format und die Inhalte der nach Satz 2 bis 4 bereitzustellenden Informationen und Webportale sind möglichst weitgehend zu vereinheitlichen. Im Übrigen ist Absatz 6 Satz 2 und 3 entsprechend mit der Maßgabe anzuwenden, dass für die fristgerechte Übermittlung die in Satz 4 geregelte Frist von einem Monat maßgeblich ist. Des Weiteren ist Absatz 6 Satz 4 entsprechend anzuwenden.
 
 
+#### § 8a Flexible Netzanschlussvereinbarungen
+
+(1) Der Netzbetreiber und der Anlagenbetreiber können eine anschlussseitige Begrenzung der maximalen Wirkleistungseinspeisung in das Netz vereinbaren (flexible Netzanschlussvereinbarung). Die Einhaltung der Wirkleistungsbegrenzung ist durch den Anlagenbetreiber jederzeit durch geeignete technische Maßnahmen sicherzustellen. Die Wirkleistungsbegrenzung kann auch auf einzelne Zeitfenster beschränkt sein und in ihrer Höhe je Zeitfenster variieren.
+
+(2) In der flexiblen Netzanschlussvereinbarung sind insbesondere Regelungen zu treffen
+
+1.  zur Höhe der anschlussseitig begrenzten maximalen Wirkleistungseinspeisung,
+
+
+2.  zu Zeitfenstern mit unterschiedlich hoch begrenzten maximalen Wirkleistungseinspeisungen, sofern dies ermöglicht werden soll,
+
+
+3.  zur Dauer der anschlussseitigen Begrenzung sowie zu den anschließend geltenden Regelungen, sofern die Begrenzung nicht dauerhaft vorgesehen ist,
+
+
+4.  zur Sicherstellung der technischen Anforderungen an die Begrenzung der maximalen Wirkleistungseinspeisung,
+
+
+5.  zur Haftung des Anlagenbetreibers bei Überschreitung der maximalen Wirkleistungseinspeisung und
+
+
+6.  zum Einverständnis anderer Anlagenbetreiber oder Betreiber von Stromspeichern, sofern über denselben Netzverknüpfungspunkt Anlagen oder Stromspeicher anderer Betreiber bereits angeschlossen sind oder zeitgleich angeschlossen werden sollen.
+
+
+
+Im Fall des Satzes 1 Nummer 6 sind ergänzende Regelungen zu treffen zur gemeinsamen Verantwortung der Anlagenbetreiber oder Betreiber von Stromspeichern für die Einhaltung der Regelungen sowie zu einer gesamtschuldnerischen Haftung nach Satz 1 Nummer 5.
+
+(3) Liegt der technisch und wirtschaftlich günstigste Verknüpfungspunkt, der im Hinblick auf die Spannungsebene geeignet ist, nach § 8 Absatz 1 Satz 1 zweite Alternative nicht an der Stelle mit der in der Luftlinie kürzesten Entfernung zum Standort der Anlage nach § 8 Absatz 1 Satz 1 erste Alternative, so hat der Netzbetreiber für diesen Punkt die grundsätzliche Möglichkeit des Abschlusses einer flexiblen Netzanschlussvereinbarung zu prüfen und dem Anlagenbetreiber das Ergebnis dieser Prüfung gemeinsam mit dem Ergebnis seiner Netzverträglichkeitsprüfung mitzuteilen.
+
+
+#### § 8b Mitteilung des Einspeiseortes
+
+Der Netzbetreiber teilt dem Anschlussbegehrenden innerhalb von vier Wochen, nachdem sich der Netzbetreiber und der Anschlussbegehrende auf einen Verknüpfungspunkt geeinigt haben, alphanumerische Bezeichnungen des vereinbarten Ortes der Messung, der Entnahme und der Einspeisung von Energie mit.
+
+
 #### § 9 Technische Vorgaben
 
-(1) Vorbehaltlich abweichender Vorgaben in einer aufgrund des § 95 Nummer 2 erlassenen Verordnung müssen die Betreiber von Anlagen und KWK-Anlagen mit einer installierten Leistung von mehr als 25 Kilowatt und die Betreiber von Anlagen, die hinter einem Netzanschluss mit mindestens einer steuerbaren Verbrauchseinrichtung nach § 14a des Energiewirtschaftsgesetzes betrieben werden, sicherstellen, dass bei ihren Anlagen und KWK-Anlagen spätestens zusammen mit dem intelligenten Messsystem technische Einrichtungen eingebaut werden, die notwendig sind, damit über ein Smart-Meter-Gateway nach § 2 Satz 1 Nummer 19 des Messstellenbetriebsgesetzes Netzbetreiber oder andere Berechtigte jederzeit entsprechend den Vorgaben in Schutzprofilen und in Technischen Richtlinien nach dem Messstellenbetriebsgesetz
+(1) Betreiber von Anlagen oder KWK-Anlagen haben den ordnungsgemäßen technischen Zustand der Anlage und der jeweiligen elektrischen Anlage hinter der Hausanschlusssicherung sicherzustellen, so dass
 
-1.  die Ist-Einspeisung abrufen können und
-
-
-2.  die Einspeiseleistung stufenweise oder, sobald die technische Möglichkeit besteht, stufenlos ferngesteuert regeln können.
+1.  der Messstellenbetreiber seine Verpflichtungen zum Einbau und Betrieb von intelligenten Messsystemen und Steuerungseinrichtungen nach den §§ 3, 29 und 45 des Messstellenbetriebsgesetzes erfüllen kann und
 
 
-
-Solange der Messstellenbetreiber von der Möglichkeit des agilen Rollouts nach § 31 Absatz 1 Nummer 2 in Verbindung mit § 21 Absatz 1 Nummer 1 Buchstabe c des Messstellenbetriebsgesetzes für Anlagen mit einer installierten Leistung von höchstens 25 Kilowatt, die hinter einem Netzanschluss mit mindestens einer steuerbaren Verbrauchseinrichtung nach § 14a des Energiewirtschaftsgesetzes betrieben werden, Gebrauch macht und gegenüber dem Anlagenbetreiber in Textform das Vorliegen der Voraussetzungen des § 31 Absatz 1 des Messstellenbetriebsgesetzes bestätigt, ist die Pflicht nach Satz 1 Nummer 2 spätestens mit dem Anwendungsupdate nach § 31 Absatz 1 des Messstellenbetriebsgesetzes zu erfüllen. Satz 1 ist nicht anzuwenden auf Steckersolargeräte mit einer installierten Leistung von insgesamt bis zu 2 Kilowatt und mit einer Wechselrichterleistung von insgesamt bis zu 800 Voltampere, die hinter der Entnahmestelle eines Letztverbrauchers betrieben werden.
-
-(1a) Vorbehaltlich abweichender Vorgaben in einer aufgrund des § 95 Nummer 2 erlassenen Verordnung müssen die Betreiber von Anlagen und KWK-Anlagen mit einer installierten Leistung von mehr als 7 Kilowatt und höchstens 25 Kilowatt, die nicht hinter einem Netzanschluss mit mindestens einer steuerbaren Verbrauchseinrichtung nach § 14a des Energiewirtschaftsgesetzes betrieben werden, sicherstellen, dass bei ihren Anlagen spätestens zusammen mit dem intelligenten Messsystem technische Einrichtungen eingebaut werden, die notwendig sind, damit über ein Smart-Meter-Gateway nach § 2 Satz 1 Nummer 19 des Messstellenbetriebsgesetzes Netzbetreiber oder andere Berechtigte jederzeit entsprechend den Vorgaben in Schutzprofilen und Technischen Richtlinien nach dem Messstellenbetriebsgesetz die Ist-Einspeisung abrufen können.
-
-(1b) Ihre Verpflichtungen aus den Absätzen 1 und 1a können die Betreiber auch durch einen Dritten erfüllen lassen. Beauftragt der Anlagenbetreiber den Messstellenbetreiber nach § 34 Absatz 2 des Messstellenbetriebsgesetzes mit den erforderlichen Zusatzleistungen, so genügt er abweichend von Absatz 1 Satz 1 und Absatz 1a bereits mit der Auftragserteilung seinen dort genannten Verpflichtungen.
-
-(2) Bis zum Einbau von intelligenten Messsystemen und technischen Einrichtungen im Sinne der Absätze 1 und 1a und unbeschadet weiterer Vorgaben im Zusammenhang mit steuerbaren Verbrauchseinrichtungen nach § 14a des Energiewirtschaftsgesetzes müssen Betreiber von
-
-1.  Anlagen und KWK-Anlagen mit einer installierten Leistung von mehr als 100 Kilowatt sicherstellen, dass ihre Anlagen mit technischen Einrichtungen ausgestattet sind, mit denen der Netzbetreiber jederzeit die Ist-Einspeisung abrufen und die Einspeiseleistung ganz oder teilweise ferngesteuert reduzieren kann, oder
-
-
-2.  Anlagen und KWK-Anlagen mit einer installierten Leistung von mehr als 25 Kilowatt und höchstens 100 Kilowatt sicherstellen, dass ihre Anlagen mit technischen Einrichtungen ausgestattet sind, mit denen der Netzbetreiber jederzeit die Einspeiseleistung ganz oder teilweise ferngesteuert reduzieren kann.
+2.  Netzbetreiber oder andere Berechtigte jederzeit die Ist-Einspeisung abrufen und die Einspeiseleistung bei Anlagen und KWK-Anlagen, die Strom in das Netz einspeisen, vollständig oder, sobald jeweils die technische Möglichkeit besteht, stufenweise oder stufenlos ferngesteuert regeln können.
 
 
 
-Die Pflicht nach Satz 1 Nummer 2 ist nicht anzuwenden, soweit der Anlagenbetreiber den Messstellenbetreiber nach Absatz 1b Satz 2 beauftragt hat. Die Pflicht nach Satz 1 kann bei mehreren Anlagen, die gleichartige erneuerbare Energien einsetzen und über denselben Verknüpfungspunkt mit dem Netz verbunden sind, auch mit einer gemeinsamen technischen Einrichtung erfüllt werden, wenn hiermit die jeweilige Pflicht nach Satz 1 für die Gesamtheit der Anlagen erfüllt werden kann.
+Dabei sind vorbehaltlich sonstiger Rechtsvorschriften die allgemein anerkannten Regeln der Technik zu beachten. Die Sätze 1 und 2 sind nicht anzuwenden auf Steckersolargeräte mit einer installierten Leistung von insgesamt bis zu 2 Kilowatt und mit einer Wechselrichterleistung von insgesamt bis zu 800 Voltampere, die hinter der Entnahmestelle eines Letztverbrauchers betrieben werden.
+
+(2) Bis zum Einbau von intelligenten Messsystemen und Steuerungseinrichtungen nach § 29 Absatz 1 Nummer 2 des Messstellenbetriebsgesetzes und zur erstmaligen erfolgreichen Testung der Anlage oder KWK-Anlage auf Ansteuerbarkeit durch den Netzbetreiber über diese neu eingebaute Technik sowie unbeschadet weiterer Vorgaben im Zusammenhang mit der netzorientierten Steuerung von steuerbaren Verbrauchseinrichtungen nach § 14a des Energiewirtschaftsgesetzes müssen
+
+1.  Betreiber von Anlagen oder KWK-Anlagen, die jeweils eine installierte Leistung von mindestens 100 Kilowatt haben, sicherstellen, dass diese Anlagen jeweils mit technischen Einrichtungen ausgestattet sind, mit denen der Netzbetreiber jederzeit die Ist-Einspeisung abrufen und die Einspeiseleistung ganz oder teilweise ferngesteuert reduzieren kann,
+
+
+2.  Betreiber von Anlagen oder KWK-Anlagen, die jeweils eine installierte Leistung ab 25 Kilowatt und von weniger als 100 Kilowatt haben,
+
+    a)  sicherstellen, dass diese Anlagen jeweils mit technischen Einrichtungen ausgestattet sind, mit denen der Netzbetreiber jederzeit die Einspeiseleistung ganz oder teilweise ferngesteuert reduzieren kann, und
+
+
+    b)  soweit es sich um Anlagen handelt, die der Einspeisevergütung oder dem Mieterstromzuschlag nach § 19 Absatz 1 Nummer 2 oder Nummer 3 zugeordnet sind, am Verknüpfungspunkt ihrer Anlage mit dem Netz die maximale Wirkleistungseinspeisung auf 60 Prozent der installierten Leistung begrenzen oder
+
+
+
+
+
+3.  Betreiber von Anlagen, die der Einspeisevergütung oder dem Mieterstromzuschlag nach § 19 Absatz 1 Nummer 2 oder Nummer 3 zugeordnet sind und die eine installierte Leistung von weniger als 25 Kilowatt haben, oder von KWK-Anlagen, die jeweils eine installierte Leistung von weniger als 25 Kilowatt haben, am Verknüpfungspunkt dieser Anlagen mit dem Netz jeweils die maximale Wirkleistungseinspeisung auf 60 Prozent der installierten Leistung begrenzen.
+
+
+
+Die Pflicht nach Satz 1 kann bei mehreren Anlagen oder KWK-Anlagen, die gleichartige erneuerbare Energien einsetzen und über denselben Verknüpfungspunkt mit dem Netz verbunden sind, auch mit einer gemeinsamen technischen Einrichtung erfüllt werden, wenn hiermit die jeweilige Pflicht nach Satz 1 für die Gesamtheit der Anlagen oder KWK-Anlagen erfüllt werden kann. Der Netzbetreiber hat die Testung auf Ansteuerbarkeit nach Satz 1 spätestens im Rahmen der nächsten auf den Einbau des intelligenten Messsystems und der Steuerungseinrichtungen nach § 29 Absatz 1 Nummer 2 des Messstellenbetriebsgesetzes folgenden, nach § 12 Absatz 2b Satz 1 des Energiewirtschaftsgesetzes durchzuführenden testweisen Anpassungen sowie Abrufung der Ist-Einspeisung vorzunehmen. Satz 1 Nummer 3 ist nicht anzuwenden auf Steckersolargeräte mit einer installierten Leistung von insgesamt bis zu 2 Kilowatt und mit einer Wechselrichterleistung von insgesamt bis zu 800 Voltampere, die hinter der Entnahmestelle eines Letztverbrauchers betrieben werden.
+
+(2a) Nach dem Einbau von intelligenten Messsystemen und Steuerungseinrichtungen nach § 29 Absatz 1 Nummer 2 des Messstellenbetriebsgesetzes hat der Netzbetreiber dem Anlagenbetreiber bis zu einer nach Absatz 2 Satz 1 erfolgreich durchgeführten Testung zum Ausgleich der entstehenden Aufwendungen für den Weiterbetrieb von technischen Einrichtungen nach Absatz 2 Satz 1 Nummer 1 und 2 ab dem 1. Januar 2028 für jedes angefangene Jahr einen Betrag von 100 Euro brutto zu zahlen. Die Zahlungspflicht entfällt, wenn der Netzbetreiber eine erfolglose Testung nach Satz 1 nicht zu vertreten hat.
 
 (3) Mehrere Solaranlagen gelten unabhängig von den Eigentumsverhältnissen und ausschließlich zum Zweck der Ermittlung der installierten Leistung im Sinne der Absätze 1, 1a und 2 als eine Anlage, wenn
 
@@ -676,7 +720,7 @@ Abweichend von Satz 1 gelten mehrere Solaranlagen, die ausschließlich auf, an o
 
 Entsteht eine Pflicht nach Absatz 1, 1a oder 2 für einen Anlagenbetreiber erst durch den Zubau von Anlagen eines anderen Anlagenbetreibers, kann er von diesem den Ersatz der daraus entstehenden Kosten verlangen.
 
-(4) Regelungen zur Weitverkehrsnetzanbindung von Anlagen in einer nach § 95 Nummer 2a erlassenen Verordnung sind unabhängig von den Vorgaben nach den Absätzen 1 bis 3 anzuwenden und lassen die sich hieraus ergebenden Pflichten unberührt.
+(4) Regelungen zur Weitverkehrsnetzanbindung von Anlagen in einer nach § 19 Absatz 2 Satz 3 des Messstellenbetriebsgesetzes erlassenen Verordnung sind unabhängig von den Vorgaben nach den Absätzen 1 bis 3 anzuwenden und lassen die sich hieraus ergebenden Pflichten unberührt.
 
 (5) Betreiber von Anlagen zur Erzeugung von Strom aus Biogas müssen sicherstellen, dass bei der Erzeugung des Biogases zusätzliche Gasverbrauchseinrichtungen zur Vermeidung einer Freisetzung von Biogas verwendet werden.
 
@@ -726,7 +770,7 @@ Die Pflicht nach Satz 1 gilt ab dem 1. Januar 2025. Betreiber von Windenergieanl
     a)  die Ist-Einspeisung abrufen kann und
 
 
-    b)  die Einspeiseleistung stufenweise oder, sobald die technische Möglichkeit besteht, stufenlos ferngesteuert regeln kann, und
+    b)  die Einspeiseleistung vollständig oder, sobald jeweils die technische Möglichkeit besteht, stufenweise oder, stufenlos ferngesteuert regeln kann, und
 
 
 
@@ -744,22 +788,25 @@ Die Pflicht nach Satz 1 gilt ab dem 1. Januar 2025. Betreiber von Windenergieanl
 
 
 
-Die Pflicht nach Satz 1 Nummer 1 gilt auch als erfüllt, wenn mehrere Anlagen, die über denselben Verknüpfungspunkt mit dem Netz verbunden sind, mit einer gemeinsamen technischen Einrichtung ausgestattet sind, mit der der Direktvermarktungsunternehmer oder die andere Person jederzeit die Pflicht nach Satz 1 Nummer 1 für die Gesamtheit der Anlagen erfüllen kann. Wird der Strom vom Anlagenbetreiber unmittelbar an einen Letztverbraucher oder unmittelbar an einer Strombörse veräußert, sind die Sätze 1 und 2 entsprechend anzuwenden mit der Maßgabe, dass der Anlagenbetreiber die Befugnisse des Direktvermarktungsunternehmers oder der anderen Person wahrnimmt. Die Pflicht nach Satz 1 muss nicht vor dem Beginn des zweiten auf die Inbetriebnahme der Anlage folgenden Kalendermonats erfüllt werden. § 9 Absatz 3 ist zur Ermittlung der installierten Leistung entsprechend anzuwenden.
+Die Pflicht nach Satz 1 Nummer 1 gilt auch als erfüllt, wenn mehrere Anlagen, die über denselben Verknüpfungspunkt mit dem Netz verbunden sind, mit einer gemeinsamen technischen Einrichtung ausgestattet sind, mit der der Direktvermarktungsunternehmer oder die andere Person jederzeit die Pflicht nach Satz 1 Nummer 1 für die Gesamtheit der Anlagen erfüllen kann. Wird der Strom vom Anlagenbetreiber unmittelbar an einen Letztverbraucher oder unmittelbar an einer Strombörse veräußert, sind die Sätze 1 und 2 entsprechend anzuwenden mit der Maßgabe, dass der Anlagenbetreiber die Befugnisse des Direktvermarktungsunternehmers oder der anderen Person wahrnimmt. Die Pflicht nach Satz 1 muss nicht vor dem Beginn des zweiten auf die erstmalige Einspeisung der Anlage folgenden Kalendermonats und nicht vor dem Beginn des zweiten auf die Meldung des Direktvermarktungsunternehmens an den Netzbetreiber zur Übernahme der Vermarktung folgenden Kalendermonats erfüllt werden. § 9 Absatz 3 ist zur Ermittlung der installierten Leistung entsprechend anzuwenden.
 
-(2) Die Pflicht nach Absatz 1 muss ab Einbau eines intelligenten Messsystems über das Smart-Meter-Gateway nach § 2 Nummer 19 des Messstellenbetriebsgesetzes erfüllt werden. § 9 Absatz 1b ist entsprechend anzuwenden. Hinsichtlich der Pflicht nach Absatz 1 Satz 2 Nummer 1 Buchstabe b ist auch § 9 Absatz 1 Satz 2 entsprechend anzuwenden. Bis zum Einbau eines intelligenten Messsystems
-
-1.  müssen die Anlagenbetreiber Übertragungstechniken und Übertragungswege zur Abrufung der Ist-Einspeisung und zur ferngesteuerten Regelung der Einspeiseleistung verwenden, die dem Stand der Technik bei Inbetriebnahme der Anlage entsprechen und wirtschaftlich vertretbar sind; die Einhaltung des Stands der Technik wird vermutet, wenn die einschlägigen Standards und Empfehlungen des Bundesamtes für Sicherheit in der Informationstechnik berücksichtigt werden, und
-
-
-2.  können die Betreiber von Anlagen mit einer installierten Leistung von höchstens 100 Kilowatt mit dem Direktvermarktungsunternehmer oder der anderen Person, an die der Strom veräußert wird, vertragliche Regelungen vereinbaren, die von den Pflichten nach Absatz 1 Satz 1 Nummer 1 abweichen, wenn der gesamte in der Anlage erzeugte Strom eingespeist wird.
-
-
-
-Zur Bestimmung der Größe einer Anlage nach Satz 2 ist § 9 Absatz 3 Satz 1 entsprechend anzuwenden.
+(2) Die Pflicht nach Absatz 1 muss ab dem 1. Januar 2028 und ab Einbau eines intelligenten Messsystems über das Smart-Meter-Gateway nach § 2 Nummer 19 des Messstellenbetriebsgesetzes erfüllt werden. Sofern die Pflicht nach Absatz 1 nicht über das Smart-Meter-Gateway erfüllt wird, müssen die Anlagenbetreiber Übertragungstechniken und Übertragungswege zur Abrufung der Ist-Einspeisung und zur ferngesteuerten Regelung der Einspeiseleistung verwenden, die dem Stand der Technik bei Inbetriebnahme der Anlage entsprechen und wirtschaftlich vertretbar sind. Die Einhaltung des Stands der Technik wird widerleglich vermutet, wenn die einschlägigen Standards und Empfehlungen des Bundesamtes für Sicherheit in der Informationstechnik berücksichtigt werden.
 
 (3) Die Nutzung der technischen Einrichtungen zur Abrufung der Ist-Einspeisung und zur ferngesteuerten Regelung der Einspeiseleistung sowie die Befugnis, diese zu nutzen, dürfen das Recht des Netzbetreibers zu Maßnahmen nach § 13 Absatz 1 und 2 des Energiewirtschaftsgesetzes nicht beschränken.
 
 (4) Regelungen zur Weitverkehrsnetzanbindung von Anlagen in einer nach § 95 Nummer 2a erlassenen Verordnung sind unabhängig von den Vorgaben nach den Absätzen 1 bis 3 anzuwenden und lassen die sich hieraus ergebenden Pflichten unberührt.
+
+(5) Die Netzbetreiber stimmen untereinander bis zum Ablauf des 1. März 2026 einheitliche, für Anlagenbetreiber und Direktvermarktungsunternehmen einfach umsetzbare Nachweise ab, die sie zur Überprüfung der in diesem Paragraphen genannten Pflichten heranziehen. Sie stellen dabei die Massengeschäftstauglichkeit der Nachweisführung sicher. Soweit die Bundesnetzagentur eine Festlegung nach § 85 Absatz 2 Nummer 2 getroffen hat, müssen Netzbetreiber, Direktvermarktungsunternehmen und Anlagenbetreiber für die Nachweisführung das festgelegte Verfahren und Format nutzen.
+
+(6) Das Direktvermarktungsunternehmen ist verpflichtet,
+
+1.  den Anlagenbetreiber bei einem Verstoß gegen die Pflichten nach diesem Paragraphen zur unverzüglichen Einhaltung aufzufordern und
+
+
+2.  dem Netzbetreiber mitzuteilen, wenn der Anlagenbetreiber der Aufforderung nach Nummer 1 nicht binnen vier Wochen nachgekommen ist.
+
+
+
 
 
 #### § 10c Zuordnung geringfügiger Verbräuche
@@ -769,7 +816,7 @@ Im Fall von Solaranlagen mit einer installierten Leistung von insgesamt bis zu 1
 
 #### § 11 Abnahme, Übertragung und Verteilung
 
-(1) Netzbetreiber müssen vorbehaltlich des § 13 des Energiewirtschaftsgesetzes den gesamten Strom aus erneuerbaren Energien oder aus Grubengas, der in einer Veräußerungsform nach § 21b Absatz 1 veräußert wird, unverzüglich vorrangig physikalisch abnehmen, übertragen und verteilen. Macht der Anlagenbetreiber einen Anspruch nach § 19 Absatz 1 Nummer 2 geltend, umfasst die Pflicht aus Satz 1 auch die kaufmännische Abnahme.
+(1) Netzbetreiber müssen vorbehaltlich abweichender Vorgaben in einer aufgrund des § 91 Nummer 2 erlassenen Verordnung oder in § 13 des Energiewirtschaftsgesetzes den gesamten Strom aus erneuerbaren Energien oder aus Grubengas, der in einer Veräußerungsform nach § 21b Absatz 1 veräußert wird, unverzüglich vorrangig physikalisch abnehmen, übertragen und verteilen. Macht der Anlagenbetreiber einen Anspruch nach § 19 Absatz 1 Nummer 2 geltend, umfasst die Pflicht aus Satz 1 auch die kaufmännische Abnahme. Besteht eine flexible Netzanschlussvereinbarung nach § 8a, so beschränkt sich die Verpflichtung nach Satz 1 auf den Anteil des Stroms, der im Rahmen der vereinbarten maximalen Wirkleistungseinspeisung erzeugt wird.
 
 (2) Soweit Strom aus einer Anlage, die an das Netz des Anlagenbetreibers oder einer dritten Person, die nicht Netzbetreiber ist, angeschlossen ist, mittels kaufmännisch-bilanzieller Weitergabe in ein Netz angeboten wird, ist Absatz 1 entsprechend anzuwenden, und der Strom ist für die Zwecke dieses Gesetzes so zu behandeln, als wäre er in das Netz eingespeist worden.
 
@@ -884,11 +931,48 @@ Die Kosten der Optimierung, der Verstärkung und des Ausbaus des Netzes trägt d
 
 (2) Der Anspruch nach Absatz 1 besteht nur, soweit der Anlagenbetreiber für den Strom kein vermiedenes Netzentgelt nach § 18 Absatz 1 Satz 1 der Stromnetzentgeltverordnung in Anspruch nimmt.
 
-(3) Der Anspruch nach Absatz 1 besteht auch, wenn der Strom vor der Einspeisung in ein Netz in einem Stromspeicher, in dem innerhalb eines Kalenderjahres ausschließlich Strom aus erneuerbaren Energien oder Grubengas zwischengespeichert wird, zwischengespeichert worden ist. In diesem Fall bezieht sich der Anspruch auf die Strommenge, die aus dem Stromspeicher in das Netz eingespeist wird. Die Höhe des Anspruchs pro eingespeister Kilowattstunde bestimmt sich nach der Höhe des Anspruchs, die bei einer Einspeisung ohne Zwischenspeicherung bestanden hätte. Der Anspruch nach Absatz 1 besteht auch bei einem gemischten Einsatz mit Speichergasen. Die Sätze 1 bis 4 sind für den Anspruch nach Absatz 1 Nummer 3 entsprechend anzuwenden.
+(3) Wird der Strom vor der Einspeisung in ein Netz in einem Stromspeicher zwischengespeichert, so kann der Betreiber des Stromspeichers den Anspruch nach Absatz 1 nach folgenden Maßgaben geltend machen:
 
-(3a) Auf Batteriespeicher, in denen innerhalb eines Kalenderjahres nicht ausschließlich Strom aus erneuerbaren Energien oder Grubengas zwischengespeichert wird, ist für die Zeiträume, in denen ausschließlich Strom aus erneuerbaren Energien oder Grubengas zwischengespeichert wird, Absatz 3 nach Maßgabe dieses Absatzes und der Festlegungen der Bundesnetzagentur nach § 85d Satz 1 Nummer 1 bis 3 entsprechend anzuwenden, wobei abweichend von Absatz 3 Satz 1 kein Anspruch nach Absatz 1 Nummer 2 besteht. Der Beginn eines Zeitraums nach Satz 1 setzt voraus, dass technisch sichergestellt ist, dass in diesem Zeitraum ausschließlich Strom aus erneuerbaren Energien oder Grubengas zwischengespeichert werden kann. Der Wechsel zwischen einem Zeitraum, in dem ausschließlich Strom aus erneuerbaren Energien oder Grubengas zwischengespeichert wird, und einem Zeitraum, in dem nicht ausschließlich Strom aus erneuerbaren Energien oder Grubengas zwischengespeichert wird, erfolgt jeweils zum Beginn eines Kalendermonats und setzt voraus, dass der jeweils zu beendende Zeitraum mindestens zwei Monate angedauert hat und dass innerhalb des laufenden Kalenderjahres nicht mehr als fünf Wechsel erfolgt sind. Abweichend von Satz 3 ist ein Wechsel auch möglich, wenn vor Beginn des Zeitraums, in dem ausschließlich Strom aus erneuerbaren Energien oder Grubengas zwischengespeichert wird, der Anlagenbetreiber einen geeigneten Nachweis erbringt oder erbracht hat, dass der Batteriespeicher vor dem Wechsel soweit entleert wurde, wie es die technische Ausstattung im üblichen Betrieb zulässt. Auf Batteriespeicher sind in den Zeiträumen nach Satz 1 die Vorschriften dieses Gesetzes und des Energiefinanzierungsgesetzes entsprechend anwendbar.
+1.  der Ausschließlichkeitsoption nach Absatz 3a,
 
-(3b) Wenn Strom aus einer Anlage nach § 3 Nummer 1 vor der Einspeisung in ein Netz in einem Stromspeicher zwischengespeichert worden ist, in dem nicht ausschließlich Strom aus erneuerbaren Energien oder Grubengas zwischengespeichert wird, ist Absatz 3 Satz 1, 3 und 4 nach Maßgabe dieses Absatzes und der Festlegung nach § 85d Satz 1 Nummer 4 entsprechend anzuwenden, wobei abweichend von Absatz 3 Satz 1 kein Anspruch nach Absatz 1 Nummer 2 besteht. In diesem Fall bezieht sich der Anspruch auf die Strommenge, die aus dem Stromspeicher in das Netz eingespeist und nach Maßgabe der Festlegung nach § 85d Satz 1 Nummer 4 als förderfähiger Anteil bestimmt und nachgewiesen wird. Die Vorschriften dieses Gesetzes und des Energiefinanzierungsgesetzes sind entsprechend anwendbar, soweit der Anspruch nach Satz 1 geltend gemacht wird. Die Sätze 1 bis 4 sind für den Anspruch nach Absatz 1 Nummer 3 entsprechend anzuwenden.
+
+2.  der Abgrenzungsoption nach Absatz 3b oder
+
+
+3.  der Pauschaloption nach Absatz 3c.
+
+
+
+Die Höhe des Anspruchs pro eingespeister Kilowattstunde bestimmt sich in den Fällen des Satzes 1 nach der Höhe des Anspruchs, die bei einer Einspeisung ohne Zwischenspeicherung bestanden hätte; dabei ist § 24 Absatz 3 entsprechend anzuwenden. Wird an einer Einspeisestelle aus mehreren Stromspeichern Strom in ein Netz eingespeist, kann der Anspruch nur einheitlich nach Maßgabe einer Option geltend gemacht werden. Die Option nach Satz 1 Nummer 1 ist für den Anspruch nach Absatz 1 Nummer 3 entsprechend anzuwenden. Die Optionen nach Satz 1 Nummer 2 und 3 sind entsprechend auf Ladepunkte für Elektromobile mit den Maßgaben anzuwenden, dass ausschließlich für die Zwecke dieses Absatzes sowie der Absätze 3b und 3c
+
+1.  Ladepunkte Stromspeichern gleichzusetzen sind,
+
+
+2.  der Verbrauch von über einen Ladepunkt bezogenem Strom in einem Elektromobil als in dem Ladepunkt verbraucht gilt und
+
+
+3.  der mit dem Elektromobil erzeugte und über den Ladepunkt in ein Netz eingespeiste Strom als in dem Ladepunkt erzeugt gilt.
+
+
+
+
+(3a) Im Fall eines Stromspeichers, in dem innerhalb eines Kalenderjahres ausschließlich Strom aus erneuerbaren Energien oder Grubengas zum Zweck der Zwischenspeicherung verbraucht wird, besteht der Anspruch nach Absatz 3 in Verbindung mit Absatz 1 Nummer 1 und 2 auch für den in diesem Stromspeicher erzeugten und in das Netz eingespeisten Strom (Ausschließlichkeitsoption). Der Anspruch nach Satz 1 besteht auch bei einem gemischten Einsatz mit Speichergasen.
+
+(3b) Im Fall eines Stromspeichers, in dem nicht ausschließlich Strom aus erneuerbaren Energien oder Grubengas zur Zwischenspeicherung verbraucht wird, besteht der Anspruch nach Absatz 3 in Verbindung mit Absatz 1 Nummer 1 für einen Anteil an der in diesem Stromspeicher erzeugten und in das Netz eingespeisten Strommenge, der nach Maßgabe einer Festlegung nach § 85d als förderfähiger Anteil bestimmt und nachgewiesen wird (Abgrenzungsoption). Die Vorschriften dieses Gesetzes und des Energiefinanzierungsgesetzes sind entsprechend anzuwenden, soweit der Anspruch nach Satz 1 geltend gemacht wird.
+
+(3c) Im Fall des gemeinsamen Betriebs von Solaranlagen und einem oder mehreren Stromspeichern können der Anspruch nach Absatz 1 Nummer 1 sowie der Anspruch nach Absatz 3 in Verbindung mit Absatz 1 Nummer 1 auch für einen pauschalen Anteil an den in diesen Solaranlagen und diesen Stromspeichern erzeugten und in das Netz eingespeisten Strommengen geltend gemacht werden (Pauschaloption). Dies setzt voraus, dass hinter der Einspeisestelle
+
+1.  Strom ausschließlich in Solaranlagen und Stromspeichern erzeugt wird,
+
+
+2.  alle Solaranlagen und Stromspeicher von demselben Betreiber betrieben werden und
+
+
+3.  die Solaranlagen eine installierte Leistung von insgesamt höchstens 30 Kilowatt haben, wobei Steckersolargeräte bei der Ermittlung der installierten Leistung in entsprechender Anwendung des § 24 Absatz 1 Satz 5 unberücksichtigt bleiben.
+
+
+
+Der Anspruch nach Satz 1 besteht für die insgesamt in einem Kalenderjahr an der Einspeisestelle in das Netz eingespeiste Strommenge, höchstens jedoch für eine Strommenge von bis zu 500 Kilowattstunden pro Kalenderjahr je Kilowatt installierter Leistung der Solaranlagen. Die förderfähige Strommenge ist nach Maßgabe einer Festlegung der Bundesnetzagentur nach § 85d zu bestimmen und nachzuweisen. Die Vorschriften dieses Gesetzes und des Energiefinanzierungsgesetzes sind entsprechend anzuwenden, soweit der Anspruch nach Satz 1 geltend gemacht wird.
 
 (4) Der Anspruch nach Absatz 1 entfällt bei Anlagen, deren anzulegender Wert gesetzlich bestimmt wird, wenn zum Zeitpunkt der Inbetriebnahme der Anlage
 
@@ -933,6 +1017,7 @@ Der Anspruch auf die Zahlung der Marktprämie nach § 19 Absatz 1 Nummer 1 beste
 
 
 
+Abweichend von Satz 1 Nummer 3 setzt der Anspruch auf die Zahlung der Marktprämie nach § 19 Absatz 1 Nummer 1 in Verbindung mit Absatz 3 Satz 1 Nummer 2 oder Nummer 3 und Absatz 3b oder Absatz 3c voraus, dass der gesamte an der betroffenen Einspeisestelle in ein Netz eingespeiste Strom in einem gesonderten Bilanz- oder Unterbilanzkreis bilanziert wird, in dem ausschließlich Strom bilanziert wird, bei dem der förderfähige Anteil aus dem Stromspeicher nach der Abgrenzungs- oder Pauschaloption bestimmt wird oder dessen Einstellung in den Bilanz- oder Unterbilanzkreis nicht von dem Anlagenbetreiber oder dem Direktvermarktungsunternehmer zu vertreten ist.
 
 
 #### § 21 Einspeisevergütung und Mieterstromzuschlag
@@ -1292,11 +1377,13 @@ Zum Zweck der Ermittlung der Anlagengröße von Windenergieanlagen an Land von B
 (2) Abweichend von Absatz 1 ist die Einspeisevergütung nach § 19 Absatz 1 Nummer 2 in Verbindung mit § 21 Absatz 1 Satz 1 Nummer 4 bei ausgeförderten Anlagen bis zum 31. Dezember 2032 zu zahlen.
 
 
-#### § 26 Abschläge und Fälligkeit
+#### § 26 Abschläge, Fälligkeit und Endabrechnung
 
 (1) Auf die zu erwartenden Zahlungen nach § 19 Absatz 1 sind monatlich jeweils zum 15. Kalendertag für den Vormonat Abschläge in angemessenem Umfang zu leisten. Wird die Höhe der Marktprämie nach Anlage 1 Nummer 4 anhand des Jahresmarktwertes berechnet, können die Abschläge für Zahlungen der Marktprämie anhand des Jahresmarktwertes des Vorjahres bestimmt werden. Zu hohe oder zu niedrige Abschläge sind mit der Endabrechnung im jeweils folgenden Kalenderjahr auszugleichen oder zu erstatten.
 
 (2) Der Anspruch nach § 19 Absatz 1 wird fällig, sobald und soweit der Anlagenbetreiber seine Pflichten zur Übermittlung von Daten nach § 71 Absatz 1 erfüllt hat. Satz 1 ist für den Anspruch auf monatliche Abschläge nach Absatz 1 erst ab März des auf die Inbetriebnahme der Anlage folgenden Jahres anzuwenden.
+
+(3) Die Endabrechnung nach Absatz 1 muss die Nummer der EEG-Anlage nach § 8 Absatz 2 der Marktstammdatenregisterverordnung enthalten und ist dem Berechtigten auf Verlangen in digitaler und massengeschäftstauglicher Form auszustellen.
 
 
 #### § 27 Aufrechnung
@@ -3410,78 +3497,108 @@ Betreiber von Anlagen zur Erzeugung von Strom aus Biogas, die nach dem am 31. Ju
 
 #### § 51 Verringerung des Zahlungsanspruchs bei negativen Preisen
 
-(1) Wenn der Spotmarktpreis
-
-1.  im Jahr 2023 für die Dauer von mindestens vier aufeinanderfolgenden Stunden,
-
-
-2.  in den Jahren 2024 und 2025 für die Dauer von mindestens drei aufeinanderfolgenden Stunden,
-
-
-3.  im Jahr 2026 für die Dauer von mindestens zwei aufeinanderfolgenden Stunden und
-
-
-4.  ab dem Jahr 2027 für die Dauer von mindestens einer Stunde
-
-
-
-negativ ist, verringert sich der anzulegende Wert für den gesamten Zeitraum, in dem der Spotmarktpreis ohne Unterbrechung negativ ist, auf null.
+(1) Für Zeiträume, in denen der Spotmarktpreis negativ ist, verringert sich der anzulegende Wert auf null.
 
 (2) Absatz 1 ist nicht anzuwenden auf
 
-1.  Anlagen mit einer installierten Leistung von weniger als 400 Kilowatt, wobei § 24 Absatz 1 entsprechend anzuwenden ist,
+1.  Anlagen mit einer installierten Leistung von weniger als 100 Kilowatt für Zeiträume vor dem Ablauf des Kalenderjahres, in dem die Anlage mit einem intelligenten Messsystem ausgestattet wird, und
 
 
-2.  Pilotwindenergieanlagen an Land nach § 3 Nummer 37 Buchstabe b und
-
-
-3.  Pilotwindenergieanlagen auf See nach § 3 Nummer 6 des Windenergie-auf-See-Gesetzes.
+2.  Anlagen mit einer installierten Leistung von weniger als 2 Kilowatt für Zeiträume vor dem Ablauf des Kalenderjahres, in dem die Bundesnetzagentur die Festlegung nach § 85 Absatz 2 Nummer 12 getroffen hat.
 
 
 
+Zur Ermittlung der Anlagengröße nach Satz 1 ist § 24 entsprechend anzuwenden.
 
 (3) Wenn der Strom in einem Kalendermonat, in dem die Voraussetzungen nach Absatz 1 mindestens einmal erfüllt sind, in der Ausfallvergütung veräußert wird, muss der Anlagenbetreiber dem Netzbetreiber bei der Datenübermittlung nach § 71 Absatz 1 Nummer 1 die Strommenge mitteilen, die er in dem Zeitraum eingespeist hat, in dem der Spotmarktpreis ohne Unterbrechung negativ gewesen ist; anderenfalls verringert sich der Anspruch in diesem Kalendermonat um 5 Prozent pro Kalendertag, in dem dieser Zeitraum ganz oder teilweise liegt.
 
 
 #### § 51a Verlängerung des Vergütungszeitraums bei negativen Preisen
 
-(1) Für Strom aus Anlagen, für den sich der anzulegende Wert nach Maßgabe des § 51 verringert und deren anzulegender Wert durch Ausschreibungen ermittelt wird, verlängert sich der Vergütungszeitraum um die Anzahl der Stunden, in denen sich der anzulegende Wert nach Maßgabe des § 51 Absatz 1 im Jahr der Inbetriebnahme und in den darauffolgenden 19 Kalenderjahren auf null verringert hat, aufgerundet auf den nächsten vollen Kalendertag.
+(1) Für Strom aus Anlagen, für den sich der anzulegende Wert nach Maßgabe des § 51 verringert, verlängert sich der Vergütungszeitraum um die Anzahl der Viertelstunden, in denen sich der anzulegende Wert nach Maßgabe des § 51 Absatz 1 im Jahr der Inbetriebnahme und in den darauffolgenden 19 Kalenderjahren auf null verringert hat. Die nach Satz 1 ermittelte Anzahl an Viertelstunden wird aufgerundet auf den nächsten vollen Kalendertag.
 
-(2) Die Strombörsen müssen den Übertragungsnetzbetreibern jeweils bis zum 15. Januar eines Kalenderjahres die Anzahl der Stunden mitteilen, in denen sich der anzulegende Wert jeweils
+(2) Für Strom aus Solaranlagen, für den sich der anzulegende Wert nach Maßgabe des § 51 verringert, wird die Anzahl der Viertelstunden, um die sich der Vergütungszeitraum nach Absatz 1 Satz 1 verlängern würde, mit dem Faktor 0,5 multipliziert und das Ergebnis wird auf die nächste volle Viertelstunde aufgerundet (Volllastviertelstunden). Die Anzahl der Volllastviertelstunden entspricht einem Zeitkontingent, um das der Vergütungszeitraum verlängert wird. Dabei entsprechen die Monate des Jahres jeweils der folgenden Anzahl an Volllastviertelstunden:
 
-1.  nach Maßgabe des § 51 Absatz 1 und
-
-
-2.  nach Maßgabe des § 51 Absatz 1 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung
+1.  87 für den Monat Januar,
 
 
-
-im Vorjahr auf null verringert hat.
-
-(3) Die Übertragungsnetzbetreiber müssen jeweils bis zum 31. Januar eines Kalenderjahres auf einer gemeinsamen Internetseite folgende Informationen veröﬀentlichen:
-
-1.  die Anzahl der Stunden, in denen sich der anzulegende Wert jeweils
-
-    a)  nach Maßgabe des § 51 Absatz 1 und
+2.  189 für den Monat Februar,
 
 
-    b)  nach Maßgabe des § 51 Absatz 1 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung
+3.  340 für den Monat März,
+
+
+4.  442 für den Monat April,
+
+
+5.  490 für den Monat Mai,
+
+
+6.  508 für den Monat Juni,
+
+
+7.  498 für den Monat Juli,
+
+
+8.  453 für den Monat August,
+
+
+9.  371 für den Monat September,
+
+
+10. 231 für den Monat Oktober,
+
+
+11. 118 für den Monat November und
+
+
+12. 73 für den Monat Dezember.
 
 
 
-    im Vorjahr auf null verringert hat, und
+Endet der ursprüngliche Vergütungszeitraum der Solaranlage untermonatlich, entsprechen die für die verbleibenden Tage dieses Monats anzulegenden Volllastviertelstunden dem Quotienten aus den nach Ende des Vergütungszeitraums verbleibenden Tagen des Monats und der Gesamtanzahl der Tage dieses Monats, multipliziert mit den Volllastviertelstunden dieses Monats nach Satz 3. Der Vergütungszeitraum verlängert sich um einen Zeitraum, der sich gegebenenfalls über mehrere aufeinanderfolgende Monate erstreckt, bis das nach Satz 1 errechnete Zeitkontingent an auszugleichenden Volllastviertelstunden aufgebraucht ist. Der Vergütungszeitraum verlängert sich bis zum Ende des Monats, auf den die letzte auszugleichende Volllastviertelstunde entfällt.
+
+(3) Die Strombörsen müssen den Übertragungsnetzbetreibern jeweils bis zum 15. Januar eines Kalenderjahres die Anzahl der Viertelstunden und Stunden, in denen sich der anzulegende Wert jeweils im Vorjahr auf null verringert hat,
+
+1.  in Viertelstunden nach Maßgabe des § 51 Absatz 1 mitteilen,
 
 
-2.  ab dem Jahr 2041 die Anzahl der Stunden, in denen sich der anzulegende Wert jeweils
-
-    a)  nach Maßgabe des § 51 Absatz 1 und
+2.  in Stunden nach Maßgabe des § 51 Absatz 1 des Erneuerbare-Energien-Gesetzes in der am 24. Februar 2025 geltenden Fassung mitteilen und
 
 
-    b)  nach Maßgabe des § 51 Absatz 1 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung
+3.  in Stunden nach Maßgabe des § 51 Absatz 1 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung mitteilen.
 
 
 
-    in den vorangegangenen 20 Jahren auf null verringert hat, und die auf den nächsten vollen Kalendertag aufgerundete Anzahl dieser Stunden.
+
+(4) Die Übertragungsnetzbetreiber müssen jeweils bis zum 31. Januar eines Kalenderjahres auf einer gemeinsamen Internetseite folgende Informationen veröffentlichen:
+
+1.  die Anzahl der
+
+    a)  Viertelstunden, in denen sich der anzulegende Wert nach Maßgabe des § 51 Absatz 1 im Vorjahr auf null verringert hat,
+
+
+    b)  Stunden, in denen sich der anzulegende Wert nach Maßgabe des § 51 Absatz 1 des Erneuerbare-Energien-Gesetzes in der am 24. Februar 2025 geltenden Fassung im Vorjahr auf null verringert hat, und
+
+
+    c)  Stunden, in denen sich der anzulegende Wert nach Maßgabe des § 51 Absatz 1 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung im Vorjahr auf null verringert hat, und
+
+
+
+
+
+2.  ab dem Jahr 2041 die Anzahl der
+
+    a)  Viertelstunden, in denen sich der anzulegende Wert nach Maßgabe des § 51 Absatz 1 in den vorangegangenen 20 Jahren auf null verringert hat, und die auf den nächsten vollen Kalendertag aufgerundete Anzahl dieser Viertelstunden,
+
+
+    b)  Stunden, in denen sich der anzulegende Wert nach Maßgabe des § 51 Absatz 1 des Erneuerbare-Energien-Gesetzes in der am 24. Februar 2025 geltenden Fassung in den vorangegangenen 20 Jahren auf null verringert hat, und die auf den nächsten vollen Kalendertag aufgerundete Anzahl dieser Stunden, und
+
+
+    c)  Stunden, in denen sich der anzulegende Wert nach Maßgabe des § 51 Absatz 1 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung in den vorangegangenen 20 Jahren auf null verringert hat, und die auf den nächsten vollen Kalendertag aufgerundete Anzahl dieser Viertelstunden und Stunden.
+
+
+
 
 
 
@@ -3491,7 +3608,7 @@ im Vorjahr auf null verringert hat.
 
 (1) Anlagenbetreiber müssen an den Netzbetreiber, an dessen Netz die Anlage angeschlossen ist, eine Zahlung leisten, wenn sie
 
-1.  gegen § 9 Absatz 1, 1a oder 2 verstoßen,
+1.  gegen § 9 Absatz 1 oder Absatz 2 verstoßen,
 
 
 2.  gegen § 9 Absatz 5 verstoßen,
@@ -3572,6 +3689,43 @@ Bei einem nach dem Ablauf des 31. Dezember 2023 auftretenden Pflichtverstoß nac
 (7) Bei Pflichtverstößen nach Absatz 1 verlieren die Anlagenbetreiber zusätzlich für das gesamte Kalenderjahr den Anspruch auf ein Entgelt für dezentrale Einspeisung nach § 18 der Stromnetzentgeltverordnung.
 
 (8) Bei einem Pflichtverstoß nach Absatz 1 Nummer 1 durch Betreiber von KWK-Anlagen sind die Absätze 2, 3, 6 und 7 entsprechend anzuwenden.
+
+
+#### § 52a Netztrennung oder Unterbindung der Einspeisung durch andere Maßnahmen bei schweren Pflichtverstößen
+
+(1) Der Netzbetreiber, an dessen Netz eine Anlage angeschlossen ist, muss die Anlage vorbehaltlich der Androhung nach Absatz 2 vom Netz trennen oder deren Einspeisung durch andere Maßnahmen unterbinden, wenn der Anlagenbetreiber hinsichtlich dieser Anlage in einem Zeitraum von zwölf Monaten in insgesamt mindestens sechs Monaten jeweils mindestens einmal gegen § 9 Absatz 1 oder Absatz 2 oder gegen § 10b Absatz 1 oder Absatz 2 verstoßen hat und der Anlagenbetreiber die Anlage nicht bereits nachweislich außer Betrieb genommen hat.
+
+(2) Bevor der Netzbetreiber eine Anlage nach Absatz 1 vom Netz trennt oder deren Einspeisung durch andere Maßnahmen unterbindet, hat er dem Anlagenbetreiber unter Benennung der konkreten Pflichtverletzung in Textform eine Frist von einem Monat zur Behebung zu setzen und auf die Rechtsfolgen nach Absatz 1 bei fehlender Behebung hinzuweisen. Der Netzbetreiber kann die Frist nach Satz 1 einmalig um bis zu einen Monat verlängern.
+
+(3) Bei Trennung einer Anlage vom Netz oder Unterbindung der Einspeisung durch andere Maßnahmen nach Absatz 1 ist eine Wiederzuschaltung durch den Anlagenbetreiber zu verhindern. Dies wird in der Regel dadurch bewirkt, dass bei ausschließlich manuell zu bedienenden Schalteinrichtungen die Anlage vom Netzanschluss in einem plombierten Bereich dauerhaft getrennt wird, oder durch Rückbau wesentlicher Teile der Anlage.
+
+(4) Soweit dies für die Trennung der Anlage vom Netz oder für die Unterbindung der Einspeisung durch andere Maßnahmen erforderlich ist, darf der Netzbetreiber durch von ihm beschäftigte oder beauftragte Personen
+
+1.  die Räume und Grundstücke, in oder auf denen sich die Anlage befindet, während der üblichen Geschäftszeiten betreten, wobei der Anlagenbetreiber und, bei juristischen Personen, rechtsfähigen Personengesellschaften oder nichtrechtsfähigen Vereinen, die nach Gesetz oder Satzung zur Vertretung berufenen Personen verpflichtet sind, das Betreten von Geschäftsräumen und Geschäftsgrundstücken während der üblichen Geschäftszeiten zu dulden, und
+
+
+2.  die Anlage und, soweit erforderlich, die Kundenanlage oder die Kundenanlage zur betrieblichen Eigenversorgung hinter der Anschlusssicherung ändern, wobei
+
+    a)  die berechtigten Interessen des Anlagenbetreibers und des Anschlussnehmers zu beachten sind,
+
+
+    b)  durch die Änderung der Leitungs- und Messaufbau in der Kundenanlage nicht verändert werden darf und
+
+
+    c)  der Anlagenbetreiber und, bei juristischen Personen, rechtsfähigen Personengesellschaften oder nichtrechtsfähigen Vereinen, die nach Gesetz oder Satzung zur Vertretung berufenen Personen verpflichtet sind, die Änderung zu dulden.
+
+
+
+
+
+
+Die vom Netzbetreiber beschäftigten oder beauftragten Personen müssen sich gegenüber dem Anlagenbetreiber durch Vorlage eines Auftrags des Netzbetreibers in Textform sowie eines gültigen Ausweisdokumentes legitimieren.
+
+(5) Der Anlagenbetreiber hat dafür Sorge zu tragen, dass die Anlage für die Trennung der Anlage vom Netz oder die Unterbindung der Einspeisung durch andere Maßnahmen nach Absatz 1 zugänglich ist, und dem Netzbetreiber auf Anforderung alle für die Netztrennung erforderlichen Informationen zur Verfügung zu stellen.
+
+(6) Eine Anlage, die nach Absatz 1 vom Netz getrennt wurde, wird nach Maßgabe des § 8 unter Rückbau der Maßnahmen nach den Absätzen 3 und 4 Satz 1 Nummer 2 wieder an das Netz angeschlossen, sobald der Anlagenbetreiber die Behebung der nach Absatz 2 benannten Pflichtverletzung vollständig nachgewiesen hat.
+
+(7) Der Anlagenbetreiber hat dem Netzbetreiber die Kosten der Netztrennung oder der Unterbindung der Einspeisung durch andere Maßnahmen, einschließlich der Kosten von Maßnahmen zur Verhinderung der Wiederzuschaltung nach Absatz 3, und die Kosten der etwaigen Wiederherstellung des Anschlusses zu erstatten.
 
 
 #### § 53 Verringerung der Einspeisevergütung
@@ -4318,7 +4472,7 @@ Solange Anlagenbetreiber eine Zahlung nach § 19 erhalten, können sie die deuts
 1.  zu den technischen Einrichtungen nach § 9 Absatz 1 bis 2, insbesondere zu den Datenformaten,
 
 
-2.  (weggefallen)
+2.  zur Nachweisführung nach § 10b Absatz 5,
 
 
 3.  zur Abwicklung von Zuordnungen und Wechseln nach den §§ 21b und 21c, insbesondere zu Verfahren, Fristen und Datenformaten,
@@ -4327,7 +4481,7 @@ Solange Anlagenbetreiber eine Zahlung nach § 19 erhalten, können sie die deuts
 4.  abweichend von § 30 zu Anforderungen an die Gebote und die Bieter, um die Ernsthaftigkeit und Verbindlichkeit der Gebote zu gewährleisten,
 
 
-5.  (weggefallen)
+5.  zur standardisierten und massengeschäftstauglichen Abwicklung der Direktvermarktung,
 
 
 6.  zu Nachweisen, die der Bieter erbringen muss, um zu belegen, dass die Fläche, auf der die Freiflächenanlage nach § 37 Absatz 1 Nummer 2 Buchstabe h geplant und nach § 38a Absatz 1 Nummer 3 errichtet worden ist, tatsächlich zum Zeitpunkt des Beschlusses über die Aufstellung oder Änderung des Bebauungsplans als Ackerland genutzt worden ist,
@@ -4351,16 +4505,19 @@ Solange Anlagenbetreiber eine Zahlung nach § 19 erhalten, können sie die deuts
 11. abweichend von § 37a die Sicherheit und Pönale auf bis 100 Euro pro Kilowatt der Gebotsmenge zu erhöhen,
 
 
-12. (weggefallen)
+12. zur Anwendbarkeit von § 51 Absatz 1 auf Anlagen mit einer installierten Leistung von weniger als 2 Kilowatt, wenn die technische Ausstattung dieser Anlagen und die Abrechnungsprozesse der Netzbetreiber hinreichend massengeschäftstauglich und digitalisiert sind, um eine Anwendbarkeit des § 51 Absatz 1 bei diesen Anlagen mit angemessenem Aufwand abzubilden,
 
 
-13. (weggefallen)
+13. um abweichend von § 51a Absatz 2 Satz 1 den Faktor zur Ermittlung der Volllastviertelstunden anzupassen,
 
 
 14. zur Berücksichtigung von Strom aus solarer Strahlungsenergie, der selbst verbraucht wird, bei den Veröffentlichungspflichten nach § 73 und bei der Berechnung des Marktwerts von Strom aus solarer Strahlungsenergie nach Anlage 1 Nummer 3.3.4 und 4.3.4 zu diesem Gesetz, jeweils insbesondere zu Berechnung oder Abschätzung der Strommengen,
 
 
-15. abweichend von § 39l zur Ermittlung eines entsprechend § 39i Absatz 3 degressiv auszugestaltenden anzulegenden Werts für Biomethananlagen nach § 39j, soweit in ihnen Biogas eingesetzt wird, das in dem jeweiligen Kalenderjahr durch anaerobe Vergärung von Biomasse im Sinn der Biomasseverordnung mit einem Anteil von getrennt erfassten Bioabfällen im Sinn der Abfallschlüssel Nummer 20 02 01, 20 03 01 und 20 03 02 der Nummer 1 Buchstabe a des Anhangs 1 der Bioabfallverordnung gewonnen worden ist, für den aus diesen Bioabfällen erzeugten Strom, einschließlich der entsprechenden Nachweisanforderungen.
+15. abweichend von § 39l zur Ermittlung eines entsprechend § 39i Absatz 3 degressiv auszugestaltenden anzulegenden Werts für Biomethananlagen nach § 39j, soweit in ihnen Biogas eingesetzt wird, das in dem jeweiligen Kalenderjahr durch anaerobe Vergärung von Biomasse im Sinn der Biomasseverordnung mit einem Anteil von getrennt erfassten Bioabfällen im Sinn der Abfallschlüssel Nummer 20 02 01, 20 03 01 und 20 03 02 der Nummer 1 Buchstabe a des Anhangs 1 der Bioabfallverordnung gewonnen worden ist, für den aus diesen Bioabfällen erzeugten Strom, einschließlich der entsprechenden Nachweisanforderungen und
+
+
+16. abweichend von einer Rechtsverordnung nach § 91 Nummer 1 Buchstabe c zur Preissetzung von preislimitierten Geboten, soweit sich Anhaltspunkte dafür ergeben haben, dass die Preissetzung anderer Marktteilnehmer zu deutlich niedrigeren oder höheren Preisen abgeschlossen wird als zu der in einer Rechtsverordnung nach § 91 Nummer 1 Buchstabe c geregelten Preissetzung durch den Übertragungsnetzbetreiber.
 
 
 
@@ -4417,38 +4574,16 @@ Solange Anlagenbetreiber eine Zahlung nach § 19 erhalten, können sie die deuts
 
 ### § 85d Festlegung zu flexibler Speichernutzung
 
-Die Bundesnetzagentur kann unter Beachtung der Schutzprofile und Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik nach dem Messstellenbetriebsgesetz und im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik und der Physikalisch-Technischen Bundesanstalt Festlegungen nach § 29 Absatz 1 des Energiewirtschaftsgesetzes treffen zu den näheren Anforderungen an
+Die Bundesnetzagentur kann unter Beachtung der Schutzprofile und Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik nach dem Messstellenbetriebsgesetz und im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik und der Physikalisch-Technischen Bundesanstalt Festlegungen nach § 29 Absatz 1 des Energiewirtschaftsgesetzes treffen
 
-1.  den Nachweis technischer Maßnahmen nach § 19 Absatz 3a Satz 2, um sicherzustellen, dass ausschließlich Strom aus erneuerbaren Energien oder Grubengas eingespeichert werden kann,
-
-
-2.  die massengeschäftstaugliche Abwicklung von Zuordnungen zu Zeiträumen und Wechseln der Zeiträume nach § 19 Absatz 3a, insbesondere zu Verfahren, Fristen und Datenformaten,
+1.  zu den näheren Anforderungen an die Bestimmung und den Nachweis der Strommengen, auf die sich die Ansprüche nach § 19 Absatz 3b und 3c beziehen, einschließlich einer sicheren, automatisierten und massengeschäftstauglichen Erhebung, Ermittlung, Zuordnung, Abgrenzung, Verarbeitung und Übermittlung der erforderlichen Werte, wobei hinsichtlich erforderlicher Messwerte die geltenden mess- und eichrechtlichen Anforderungen zu beachten sind, und
 
 
-3.  die Entleerung nach § 19 Absatz 3a Satz 4, insbesondere
-
-    a)  zu Voraussetzungen und Nachweis einer Entleerung und
-
-
-    b)  zur sicheren, automatisierten und massengeschäftstauglichen Erhebung, Ermittlung, Zuordnung, Abgrenzung, Verarbeitung und Übermittlung der erforderlichen Werte, insbesondere zu Verfahren, Fristen und Datenformaten, wobei hinsichtlich erforderlicher Messwerte die geltenden mess- und eichrechtlichen Anforderungen zu beachten sind, und
+2.  zu den näheren Bedingungen für ein erstmaliges Geltendmachen oder einen Wechsel in die Optionen nach § 19 Absatz 3b und 3c, einschließlich der Bestimmung der maßgeblichen Strommenge für den Anspruch nach § 19 Absatz 3c bei einer unterjährigen Inanspruchnahme.
 
 
 
-
-
-4.  die Bestimmung und den Nachweis der Strommenge, auf die sich der Anspruch nach § 19 Absatz 3b bezieht, und berücksichtigt dabei insbesondere
-
-    a)  den Umgang mit solchen Strommengen, die im Speicher selbst oder sonst hinter dem Netzverknüpfungspunkt verbraucht werden, und
-
-
-    b)  die sichere, automatisierte und massengeschäftstaugliche Erhebung, Ermittlung, Zuordnung, Abgrenzung, Verarbeitung und Übermittlung der erforderlichen Werte, wobei hinsichtlich erforderlicher Messwerte die geltenden mess- und eichrechtlichen Anforderungen zu beachten sind.
-
-
-
-
-
-
-Festlegungen nach Satz 1 Nummer 1 und 2 trifft die Bundesnetzagentur erstmalig bis zum 30. Juni 2025, eine Festlegung nach Satz 1 Nummer 3 erstmalig bis zum 30. September 2025 und eine Festlegung nach Satz 1 Nummer 4 erstmalig bis zum 30. Juni 2026.
+Festlegungen nach Satz 1 trifft die Bundesnetzagentur erstmals bis zum Ablauf des 30. Juni 2026.
 
 
 ### § 86 Bußgeldvorschriften
@@ -5406,18 +5541,18 @@ Die Bundesregierung wird ermächtigt, zur Weiterentwicklung des bundesweiten Aus
     b)  der Überwachung der Vermarktung,
 
 
-    c)  Anforderungen an die Vermarktung und Kontoführung sowie an die Ermittlung des Werts des Abzugs für Strom aus ausgeförderten Anlagen nach § 53 Absatz 4 einschließlich von Veröffentlichungs- und Transparenzpflichten, Fristen und Übergangsregelungen für den Ausgleich des EEG-Finanzierungsbedarfs nach den Teilen 3 und 4 Abschnitt 1 des Energiefinanzierungsgesetzes und
+    c)  Anforderungen an die Vermarktung, insbesondere an die Preissetzung von preislimitierten Geboten, und Kontoführung sowie an die Ermittlung des Werts des Abzugs für Strom aus ausgeförderten Anlagen nach § 53 Absatz 4 einschließlich von Veröffentlichungs- und Transparenzpflichten, Fristen und Übergangsregelungen für den Ausgleich des EEG-Finanzierungsbedarfs nach den Teilen 3 und 4 Abschnitt 1 des Energiefinanzierungsgesetzes und
 
 
 
 
 
-2.  dass und unter welchen Voraussetzungen die Übertragungsnetzbetreiber berechtigt werden können,
+2.  dass und unter welchen Voraussetzungen die Übertragungsnetzbetreiber berechtigt oder verpflichtet werden können,
 
     a)  mit Anlagenbetreibern vertragliche Vereinbarungen zu treffen, die unter angemessener Berücksichtigung des Einspeisevorrangs der Optimierung der Vermarktung des Stroms dienen; dies schließt die Berücksichtigung der durch solche Vereinbarungen entstehenden Kosten im Rahmen des Ausgleichs des EEG-Finanzierungsbedarfs nach den Teilen 3 und 4 Abschnitt 1 des Energiefinanzierungsgesetzes ein, sofern sie volkswirtschaftlich angemessen sind,
 
 
-    b)  Anlagen, die nach dem 31. Dezember 2015 in Betrieb genommen werden, bei andauernden negativen Preisen abzuregeln.
+    b)  Anlagen bei negativen Preisen abzuregeln und den Anlagenbetreibern die durch die Abregelung entgangenen Einnahmen, insbesondere einen entgangenen Anspruch nach § 19 Absatz 1 Nummer 2, finanziell auszugleichen.
 
 
 
@@ -5509,7 +5644,29 @@ Außerdem kann bestimmt werden, dass auch chemische Verbindungen, die ausschlie�
 (3) Im Anwendungsbereich der Absätze 1 und 2 wird die Bundesregierung auch ermächtigt, Grünen Wasserstoff durch einen Verweis auf die Verordnung nach § 37d Absatz 2 Satz 1 Nummer 13 des Bundes-Immissionsschutzgesetzes zu bestimmen.
 
 
-#### § 94 (weggefallen)
+#### § 94 Verordnungsermächtigung zu systemdienlichem Anlagenbetrieb
+
+Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, zur Sicherstellung eines netz- und systemdienlichen Betriebs von Anlagen, soweit sie der Einspeisevergütung zugeordnet sind, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu regeln,
+
+1.  dass Übertragungsnetzbetreiber aufgrund von Gefahren für die Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems die Einspeisung von Strom in ein Netz für bestimmte Zeiträume auf einen Anteil der Wirkleistungseinspeisung zwischen 0 und 100 Prozent begrenzen können,
+
+
+2.  welche weiteren Berechtigten aufgrund einer Begrenzung nach Nummer 1 die Ist-Einspeisung von Anlagen abrufen und die Einspeiseleistung ferngesteuert regeln können,
+
+
+3.  in welchen Verfahren, Fristen und Datenformaten Übertragungsnetzbetreiber Begrenzungen nach Nummer 1 gegenüber betroffenen Marktakteuren kommunizieren,
+
+
+4.  welche Rechtsfolgen Anlagenbetreiber bei Zuwiderhandlung gegen eine Begrenzung nach Nummer 1 treffen, und dabei insbesondere zu bestimmen, dass der Anlagenbetreiber Zahlungen entsprechend § 52 Absatz 1 zu leisten hat oder dass der Netzbetreiber Maßnahmen entsprechend § 52a vorzunehmen hat,
+
+
+5.  dass die Verlängerung des Förderzeitraums abweichend von § 51a Absatz 1 und 2 auf solche Viertelstunden beschränkt wird, in denen kein Strom, für den ein Anspruch nach § 19 Absatz 1 besteht, aus der Anlage in das Netz eingespeist wurde, und
+
+
+6.  in welcher Form und zu welchen Zeitpunkten Zeiträume nach Nummer 1 und Zeiten, in denen der Spotmarktpreis negativ ist, öffentlich bekanntgemacht werden müssen.
+
+
+
 
 
 #### § 95 Weitere Verordnungsermächtigungen
@@ -5530,7 +5687,7 @@ Die Bundesregierung wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimm
 
 
 
-2.  im Anwendungsbereich des § 9 zu regeln, ab welchem Schwellenwert die Pflichten des § 9 Absatz 1 oder 1a auch für Anlagen und KWK-Anlagen mit einer installierten Leistung von weniger als 25 Kilowatt gelten und, soweit erforderlich, dafür kostenschützende Regelungen angelehnt an die Preisobergrenzen in § 30 des Messstellenbetriebsgesetzes vorzusehen,
+2.  (weggefallen)
 
 
 2a. unbeschadet der §§ 9, 10b sowie 100 Absatz 3, 3a und 4 Regelungen zur Weitverkehrsnetzanbindung von Anlagen einschließlich Steckersolargeräten, wenn deren Nutzung mit unverhältnismäßigen Gefahren verbunden wäre, auch für Anlagen, die vor dem 1. Januar 2023 in Betrieb genommen worden sind, vorzugeben, insbesondere
@@ -5618,7 +5775,7 @@ Die Bundesregierung wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimm
 
 #### § 96 Gemeinsame Bestimmungen
 
-(1) Die Rechtsverordnungen auf Grund der §§ 88, 88b, 88c, 88d, 88e, 88f, 89, 91, 92, 93 und 95 Nummer 2 bedürfen der Zustimmung des Bundestages.
+(1) Die Rechtsverordnungen auf Grund der §§ 88, 88b, 88c, 88d, 88e, 88f, 89, 91, 92 und 93 bedürfen der Zustimmung des Bundestages.
 
 (2) Wenn Rechtsverordnungen nach Absatz 1 der Zustimmung des Bundestages bedürfen, kann diese Zustimmung davon abhängig gemacht werden, dass dessen Änderungswünsche übernommen werden. Übernimmt der Verordnungsgeber die Änderungen, ist eine erneute Beschlussfassung durch den Bundestag nicht erforderlich. Hat sich der Bundestag nach Ablauf von sechs Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, gilt seine Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
 
@@ -5841,46 +5998,45 @@ Die Bundesnetzagentur berichtet der Bundesregierung bis zum 31. Dezember 2024 un
 
 (2) Für Anlagen nach Absatz 1, die nach dem 31. Dezember 2020 in Betrieb genommen worden sind, deren anzulegender Wert in einem Zuschlagsverfahren eines Gebotstermins nach dem 31. Dezember 2020 ermittelt worden ist oder die nach dem 31. Dezember 2020 als Pilotwindenergieanlage an Land im Sinn des § 3 Nummer 37 Buchstabe b durch das Bundesministerium für Wirtschaft und Klimaschutz festgestellt worden sind, ist § 6 dieses Gesetzes anstelle des § 6 in der am 31. Dezember 2022 geltenden Fassung anzuwenden mit der Maßgabe, dass auch Windenergieanlagen an Land mit einer installierten Leistung von mehr als 750 Kilowatt bis einschließlich 1 000 Kilowatt den Gemeinden Beträge durch einseitige Zuwendungen ohne Gegenleistung anbieten dürfen. Für Windenergieanlagen an Land und Freiflächenanlagen nach Absatz 1, die vor dem 1. Januar 2021 in Betrieb genommen worden sind, deren anzulegender Wert in einem Zuschlagsverfahren eines Gebotstermins vor dem 1. Januar 2021 ermittelt worden ist oder die vor dem 1. Januar 2021 als Pilotwindenergieanlage an Land im Sinn des § 3 Nummer 37 Buchstabe b durch das Bundesministerium für Wirtschaft und Klimaschutz festgestellt worden sind, ist § 6 dieses Gesetzes anzuwenden. Auf Vereinbarungen, die vor dem 16. Mai 2024 geschlossen wurden, ist § 6 Absatz 4 Satz 1 in der am 15. Mai 2024 geltenden Fassung anzuwenden.
 
-(3) Sobald
+(3) § 9 Absatz 1 ist anstelle der technischen Vorgaben nach der für eine Anlage oder eine KWK-Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes entsprechend anzuwenden bei
 
-1.  eine Anlage nach Absatz 1, die eine installierte Leistung von mehr als 25 Kilowatt hat oder die nach der für sie maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes mit einer technischen Einrichtung ausgestattet werden muss, mit der der Netzbetreiber jederzeit die Einspeiseleistung bei Netzüberlastung ferngesteuert reduzieren kann,
-
-
-2.  eine KWK-Anlage, die vor dem 1. Januar 2023 in Betrieb genommen worden ist und eine installierte Leistung von mehr als 25 Kilowatt hat, oder
+1.  Anlagen nach Absatz 1, die Strom in das Netz einspeisen, und
 
 
-3.  eine Anlage nach Absatz 1, die hinter einem steuerbaren Netzanschluss nach § 14a des Energiewirtschaftsgesetzes betrieben wird,
+2.  KWK-Anlagen, die vor dem 1. Januar 2023 in Betrieb genommen worden sind und eine installierte Leistung von mehr als 25 Kilowatt haben.
 
 
 
-nach dem Messstellenbetriebsgesetz mit einem intelligenten Messsystem ausgestattet wird, ist § 9 Absatz 1 und 1b dieses Gesetzes anstelle der technischen Vorgaben nach der für die Anlage oder die KWK-Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes entsprechend anzuwenden. In den Fällen des Satzes 1 Nummer 1 und 2 gilt bis zum Einbau des intelligenten Messsystems nach dem Messstellenbetriebsgesetz die Pflicht nach der maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes, die Anlage oder die KWK-Anlage mit technischen Einrichtungen auszustatten, mit denen der Netzbetreiber jederzeit die Einspeiseleistung bei Netzüberlastung ferngesteuert reduzieren kann, auch als erfüllt, wenn die technischen Einrichtungen nur dazu geeignet sind,
+Bis zum Einbau von intelligenten Messsystemen und Steuerungseinrichtungen nach § 29 Absatz 1 Nummer 2 des Messstellenbetriebsgesetzes und zur erstmaligen erfolgreichen Testung der Anlage auf Ansteuerbarkeit durch den Netzbetreiber gilt die Pflicht nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes, die Anlage oder die KWK-Anlage mit technischen Einrichtungen auszustatten, mit denen der Netzbetreiber jederzeit die Einspeiseleistung bei Netzüberlastung ferngesteuert reduzieren kann, auch als erfüllt, wenn
 
-1.  die Einspeiseleistung bei Netzüberlastung stufenweise ferngesteuert zu reduzieren,
-
-
-2.  die Anlage oder die KWK-Anlage vollständig ferngesteuert abzuschalten oder
+1.  die technischen Einrichtungen nur dazu geeignet sind, die Einspeiseleistung bei Netzüberlastung vollständig oder, sobald die technische Möglichkeit besteht, stufenweise ferngesteuert zu reduzieren,
 
 
-3.  die Anforderungen zu erfüllen, die der Netzbetreiber dem Anlagenbetreiber oder dem Betreiber der KWK-Anlage zur Erfüllung der Pflicht vor der Inbetriebnahme der Anlage übermittelt hat.
+2.  der Anlagenbetreiber nach § 9 Absatz 2 Satz 1 Nummer 3 in der am 31. Dezember 2022 geltenden Fassung oder nach einer entsprechenden Bestimmung einer früheren Fassung die maximale Wirkleistungseinspeisung seiner Anlage am Verknüpfungspunkt mit dem Netz auf 70 Prozent der installierten Leistung begrenzt oder
 
 
-
-Satz 2 ist rückwirkend anzuwenden. Abweichend von Satz 3 sind die Bestimmungen in Satz 2 nicht anzuwenden auf Fälle, in denen vor dem 1. Januar 2021 ein Rechtsstreit zwischen Anlagenbetreiber und Netzbetreiber rechtskräftig entschieden wurde.
-
-(3a) Für Betreiber von Solaranlagen mit einer installierten Leistung von höchstens 7 Kilowatt entfällt ab dem 1. Januar 2023 die Pflicht nach § 9 Absatz 2 Satz 1 Nummer 3 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung oder nach einer entsprechenden Bestimmung einer früheren Fassung des Erneuerbare-Energien-Gesetzes, nach der die Anlagen mit technischen Einrichtungen ausgestattet werden mussten, mit denen der Netzbetreiber jederzeit die Einspeiseleistung bei Netzüberlastung ferngesteuert reduzieren kann, oder die Betreiber am Verknüpfungspunkt ihrer Anlage mit dem Netz die maximale Wirkleistungseinspeisung auf 70 Prozent der installierten Leistung begrenzen mussten. Im Übrigen bleibt Absatz 3 unberührt. Sofern Betreiber von Anlagen nach dem Entfallen der Pflicht nach Satz 1 die maximale Wirkleistungseinspeisung ihrer Anlagen nicht mehr auf 70 Prozent der installierten Leistung begrenzen oder die bisherige Ausstattung ihrer Anlage mit einer technischen Einrichtung, mit der der Netzbetreiber jederzeit die Einspeiseleistung ganz oder teilweise ferngesteuert reduzieren kann, beenden wollen, ist § 8 entsprechend anzuwenden; insbesondere ist dem Netzbetreiber das Begehren vorab mitzuteilen.
-
-(4) Sobald
-
-1.  eine Anlage nach Absatz 1, die eine installierte Leistung von mehr als 7 Kilowatt und höchstens 25 Kilowatt hat und die nicht nach der für sie maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes mit einer technischen Einrichtung ausgestattet werden muss, mit welcher der Netzbetreiber jederzeit die Einspeiseleistung bei Netzüberlastung ferngesteuert reduzieren kann, oder
-
-
-2.  eine KWK-Anlage, die vor dem 1. Januar 2023 in Betrieb genommen worden ist und eine installierte Leistung von mehr als 7 Kilowatt und höchstens 25 Kilowatt hat,
+3.  die technischen Einrichtungen nur dazu geeignet sind, die Anforderungen zu erfüllen, die der Netzbetreiber dem Anlagenbetreiber oder dem Betreiber der KWK-Anlage zur Erfüllung der Pflicht vor der Inbetriebnahme der Anlage übermittelt hat.
 
 
 
-nach dem Messstellenbetriebsgesetz mit einem intelligenten Messsystem ausgestattet wird, ist § 9 Absatz 1a und 1b dieses Gesetzes anstelle der technischen Vorgaben nach der für die Anlage oder die KWK-Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes entsprechend anzuwenden.
+Der Netzbetreiber hat die Testung auf Ansteuerbarkeit nach Satz 2 spätestens im Rahmen der nächsten, auf den Einbau des intelligenten Messsystems und der Steuerungseinrichtungen nach § 29 Absatz 1 Nummer 2 des Messstellenbetriebsgesetzes folgenden, nach § 12 Absatz 2b Satz 1 des Energiewirtschaftsgesetzes durchzuführenden testweisen Anpassungen sowie Abrufung der Ist-Einspeisung vorzunehmen. Satz 2 ist rückwirkend anzuwenden. Abweichend von Satz 4 sind die Bestimmungen in Satz 2 nicht anzuwenden auf Fälle, in denen vor dem 1. Januar 2021 ein Rechtsstreit zwischen Anlagenbetreiber und Netzbetreiber rechtskräftig entschieden wurde. Nach dem Einbau von intelligenten Messsystemen und Steuerungseinrichtungen nach § 29 Absatz 1 Nummer 2 des Messstellenbetriebsgesetzes hat der Netzbetreiber dem Anlagenbetreiber bis zu einer nach Satz 2 erstmals erfolgreich durchgeführten Testung zum Ausgleich der entstehenden Aufwendungen für den Weiterbetrieb von technischen Einrichtungen nach Satz 2 Nummer 1 und 2 ab dem 1. Januar 2028 für jedes angefangene Jahr einen Betrag von 100 Euro brutto zu zahlen. Die Zahlungspflicht entfällt, wenn der Netzbetreiber die erfolglose Testung nach Satz 2 nicht zu vertreten hat.
 
-(5) Zur Bestimmung der Größe einer Anlage nach den Absätzen 3 bis 4 ist § 9 Absatz 3 Satz 1 entsprechend anzuwenden.
+(3a) Soweit die Aufhebung der Begrenzung vor dem Ablauf des 25. Februar 2025 erfolgt, entfällt für Betreiber von Solaranlagen mit einer installierten Leistung von höchstens 7 Kilowatt ab dem 1. Januar 2023 die Pflicht nach § 9 Absatz 2 Satz 1 Nummer 3 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung oder nach einer entsprechenden Bestimmung einer früheren Fassung des Erneuerbare-Energien-Gesetzes, nach der
+
+1.  die Anlagen mit technischen Einrichtungen ausgestattet werden mussten, mit denen der Netzbetreiber jederzeit die Einspeiseleistung bei Netzüberlastung ferngesteuert reduzieren kann, oder
+
+
+2.  die Betreiber am Verknüpfungspunkt ihrer Anlage mit dem Netz die maximale Wirkleistungseinspeisung auf 70 Prozent der installierten Leistung begrenzen mussten.
+
+
+
+Im Übrigen bleibt Absatz 3 unberührt. Sofern Betreiber von Anlagen nach dem Entfallen der Pflicht nach Satz 1 die maximale Wirkleistungseinspeisung ihrer Anlagen nicht mehr auf 70 Prozent der installierten Leistung begrenzen oder die bisherige Ausstattung ihrer Anlage mit einer technischen Einrichtung, mit der der Netzbetreiber jederzeit die Einspeiseleistung ganz oder teilweise ferngesteuert reduzieren kann, beenden wollen, ist § 8 entsprechend anzuwenden; insbesondere ist dem Netzbetreiber das Begehren vorab mitzuteilen.
+
+(3b) § 9 Absatz 2 Satz 1 Nummer 2 Buchstabe b und Nummer 3 ist nicht anzuwenden auf Anlagen, die nach dem Ablauf des 31. Dezember 2022 und vor dem 25. Februar 2025 in Betrieb genommen wurden.
+
+(4) (weggefallen)
+
+(5) Zur Bestimmung der Größe einer Anlage nach den Absätzen 3 und 3a ist § 9 Absatz 3 Satz 1 entsprechend anzuwenden.
 
 (6) § 9 Absatz 8 dieses Gesetzes ist für Anlagen nach Absatz 1 anstelle von § 9 Absatz 8 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung anzuwenden, wobei die Pflichten nach § 9 Absatz 8 nur von Anlagen erfüllt werden müssen, die nach dem 31. Dezember 2005 in Betrieb genommen worden sind. Dabei ist § 9 Absatz 8 Satz 4 erst ab dem 9. Februar 2024 anzuwenden.
 
@@ -5888,7 +6044,7 @@ nach dem Messstellenbetriebsgesetz mit einem intelligenten Messsystem ausgestatt
 
 (8) Für Anlagen, die vor dem 1. Januar 2017 in Betrieb genommen worden sind und Ablaugen der Zellstoffherstellung einsetzen, ist auch nach dem 1. Januar 2017 die Biomasseverordnung anzuwenden, die für die jeweilige Anlage am 31. Dezember 2016 anzuwenden war. Anlagen nach Satz 1 dürfen nicht an Ausschreibungen teilnehmen.
 
-(9) § 52 ist auf Anlagen nach Absatz 1 und KWK-Anlagen anzuwenden, wenn der Betreiber ab dem 1. Januar 2023 gegen eine Pflicht verstößt, die einer der in § 52 Absatz 1 genannten Pflichten in der für die Anlage oder KWK-Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes entspricht. Abweichend von Satz 1 ist § 52 Absatz 1 Nummer 4 und 5 auf Anlagen nach Absatz 1 mit einer installierten Leistung bis einschließlich 500 Kilowatt nicht anzuwenden, wenn der Betreiber vor dem 1. Juli 2024 gegen eine Pflicht verstößt, die einer der in § 52 Absatz 1 Nummer 4 und 5 genannten Pflichten in der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes entspricht. § 52 tritt insofern an die Stelle der Sanktionsbewehrung dieser Pflicht nach der für die Anlage oder KWK-Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes. Im Übrigen bestimmen sich die Sanktionsbewehrungen nach der für die Anlage oder KWK-Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes. Abweichend von Satz 4 ist bei einem Verstoß gegen eine Registrierungspflicht ab dem 1. Januar 2023 ausschließlich § 52 dieses Gesetzes anzuwenden.
+(9) § 52 ist auf Anlagen nach Absatz 1 und KWK-Anlagen anzuwenden, wenn der Betreiber ab dem 1. Januar 2023 gegen eine Pflicht verstößt, die einer der in § 52 Absatz 1 genannten Pflichten in der für die Anlage oder KWK-Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes entspricht. Abweichend von Satz 1 ist § 52 Absatz 1 Nummer 4 und 5 auf Anlagen nach Absatz 1 mit einer installierten Leistung bis einschließlich 500 Kilowatt nicht anzuwenden, wenn der Betreiber vor dem 1. Juli 2024 gegen eine Pflicht verstößt, die einer der in § 52 Absatz 1 Nummer 4 und 5 genannten Pflichten in der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes entspricht. § 52 tritt insofern an die Stelle der Sanktionsbewehrung dieser Pflicht nach der für die Anlage oder KWK-Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes. Im Übrigen bestimmen sich die Sanktionsbewehrungen nach der für die Anlage oder KWK-Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes. Abweichend von Satz 4 ist bei einem Verstoß gegen eine Registrierungspflicht ab dem 1. Januar 2023 ausschließlich § 52 dieses Gesetzes anzuwenden. § 52a ist auf Anlagen nach Absatz 1 und KWK-Anlagen anzuwenden, wenn der Betreiber ab dem 25. Februar 2025 gegen eine Pflicht verstößt, die einer der in § 52a Absatz 1 genannten Pflichten in der für die Anlage oder KWK-Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes entspricht.
 
 (10) § 71 Absatz 2 bis 6 ist auch für Zahlungen an die Betreiber von Anlagen nach Absatz 1 anzuwenden, die nach dem 31. Juli 2014 in Betrieb genommen wurden. Wenn Anlagenbetreiber nach Satz 1 keine Anlage nach dem 31. Dezember 2022 in Betrieb genommen haben, für die sie Zahlungen nach § 19 Absatz 1 oder § 50 in Anspruch nehmen, ist Satz 1 mit der Maßgabe anzuwenden, dass abweichend von § 71 Absatz 2 der maßgebliche Schwellenwert 500 000 Euro beträgt.
 
@@ -5955,7 +6111,7 @@ Abweichend von Satz 1 sind die Fristen des § 36e Absatz 1 und des § 55 Absatz 
 
 (31) § 8 Absatz 6 Satz 1 ist auf Netzanschlussbegehren nach § 8 Absatz 1 Satz 2, die nach dem Ablauf des 30. Juni 2024 und vor dem 1. Januar 2025 gestellt werden, mit der Maßgabe anzuwenden, dass die Frist zur Übermittlung der in § 8 Absatz 6 Satz 1 genannten Informationen höchstens einen Monat beträgt. § 8 Absatz 6 Satz 3 ist in den Fällen nach Satz 1 entsprechend mit einer Frist von einem Monat anzuwenden.
 
-(32) § 8 Absatz 6a ist auf Netzanschlussbegehren anzuwenden, die nach dem Ablauf des 30. Juni 2024 gestellt werden.
+(32) (weggefallen)
 
 (33) § 36h Absatz 3 Satz 2 und 3 und § 46 Absatz 3 sind nicht anzuwenden auf Flugwindenergieanlagen an Land, die vor dem 1. Januar 2025 in Betrieb genommen worden sind oder deren anzulegender Wert in einem Zuschlagsverfahren eines Gebotstermins vor dem 1. Januar 2025 ermittelt worden ist. Wenn die Summe der installierten Leistung aller Flugwindenergieanlagen an Land, die an das Register als in Betrieb genommen gemeldet worden sind, bis zum 1. Oktober eines Jahres erstmals 50 Megawatt überschritten hat, ist
 
@@ -5968,7 +6124,7 @@ Abweichend von Satz 1 sind die Fristen des § 36e Absatz 1 und des § 55 Absatz 
 
 Die Bundesnetzagentur veröffentlicht jährlich unverzüglich nach dem 1. Oktober die Summe der installierten Leistung aller Flugwindenergieanlagen an Land, die an das Register als in Betrieb genommen gemeldet worden sind.
 
-(34) § 19 Absatz 3a und 3b ist erst anzuwenden, wenn und soweit jeweils konkretisierende Festlegungen der Bundesnetzagentur nach § 85d wirksam werden.
+(34) § 19 Absatz 3b und 3c ist erst anzuwenden, wenn und soweit jeweils konkretisierende Festlegungen der Bundesnetzagentur nach § 85d wirksam werden. Für Strom aus Anlagen nach Absatz 1 sind, abweichend von Absatz 1, § 19 Absatz 3 bis 3c sowie § 20 Satz 2 dieses Gesetzes anstelle von § 19 Absatz 3 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung anzuwenden; dabei greift auch insoweit die Einschränkung nach Satz 1.
 
 (35) Abweichend von § 46 Absatz 1 Satz 1 zweiter Halbsatz ist bei der Berechnung des anzulegenden Wertes für Strom aus Windenergieanlagen an Land nach § 22 Absatz 2 Satz 2 Nummer 1 bis 3, die nach dem 15. Mai 2024 und vor dem 1. Januar 2025 in Betrieb genommen worden sind, der Zuschlagswert durch den Durchschnitt aus den Gebotswerten des jeweils höchsten noch bezuschlagten Gebots der Gebotstermine für Windenergieanlagen an Land im Vorjahr zu ersetzen.
 
@@ -5987,7 +6143,7 @@ Für Anlagen, die in einem Zuschlagsverfahren eines Gebotstermins nach dem 31. D
 
 (38) Für Biogasanlagen, in denen Biogas eingesetzt wird, das durch anaerobe Vergärung von Biomasse im Sinn der Biomasseverordnung gewonnen worden ist, und deren installierte Leistung aufgrund der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes insgesamt höchstens 75 Kilowatt betragen darf, bleibt der Vergütungsanspruch nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes bestehen, wenn die installierte Leistung der Anlage auf höchstens 150 Kilowatt erhöht wird. Der nach Satz 1 fortbestehende Vergütungsanspruch ist jährlich auf die Strommenge begrenzt, die in den drei der Leistungserhöhung vorangegangenen Kalenderjahren durchschnittlich innerhalb eines Kalenderjahres in das Netz eingespeist und vergütet wurde. Es besteht kein Vergütungsanspruch nach diesem Gesetz für Strommengen, die aufgrund der Leistungserhöhung nach Satz 1 erzeugt werden. Der Vergütungsanspruch besteht nach Satz 1 nur fort, wenn bei der Erzeugung des gesamten in der Anlage eingesetzten Biogases die Voraussetzungen von § 44 Absatz 2 Nummer 3 dieses Gesetzes erfüllt sind. § 44 Absatz 3 dieses Gesetzes ist entsprechend anzuwenden. Die aufgrund der Leistungserhöhung zusätzlich erzeugten Strommengen müssen dem Netzbetreiber nicht zur Verfügung gestellt werden. Eine Pflicht zur Direktvermarktung besteht auch dann nicht, wenn durch die Leistungserhöhung eine installierte Leistung von 100 Kilowatt überschritten wird.
 
-(39) Für Anlagen, die vor dem 1. Mai 2025 in Betrieb genommen werden, ist § 22 Absatz 3 Satz 2 in der am 15. Mai 2024 geltenden Fassung anzuwenden. Für Ausschreibungen zu Gebotsterminen vor dem 1. Mai 2025 ist § 30 Absatz 2 in der am 15. Mai 2024 geltenden Fassung anzuwenden.
+(39) Für Anlagen, die nach dem Ablauf des 31. Dezember 2022 und vor dem 1. Mai 2025 in Betrieb genommen werden, sind § 22 Absatz 3 Satz 2 und § 48 Absatz 1a in der am 15. Mai 2024 geltenden Fassung anzuwenden. Für Ausschreibungen zu Gebotsterminen vor dem 1. Mai 2025 ist § 30 Absatz 2 in der am 15. Mai 2024 geltenden Fassung anzuwenden.
 
 (40) Für Anlagen, die vor dem 16. Mai 2024 in Betrieb genommen werden, ist § 48 Absatz 2 in der am 15. Mai 2024 geltenden Fassung anzuwenden. Bei der Anwendung des § 49 zum 1. August 2024 gelten die in § 48 Absatz 2 genannten Werte als im vorangegangenen Zeitraum geltende anzulegende Werte.
 
@@ -6022,10 +6178,14 @@ Fällt der Tag, an dem die Strombörsen erstmals in der vortägigen Auktion am D
 
 (45) Um die Stunden zu ermitteln, in denen der Spotmarktpreis nach Maßgabe des § 51 Absatz 1 dieses Gesetzes, nach Maßgabe des § 51 Absatz 1 des Erneuerbare-Energien-Gesetzes in der am 24. Februar 2025 geltenden Fassung und nach Maßgabe des § 51 Absatz 1 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung negativ ist, ist für den Zeitraum vom 1. Januar 2025 bis einschließlich zu dem Tag, an dem die Strombörsen erstmals in der vortägigen Auktion am Day-Ahead-Markt Stromviertelstundenkontrakte der Kopplung der Orderbücher zugrunde legen, § 3 Nummer 42a des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2024 geltenden Fassung anzuwenden. Sofern nach der jeweils anzuwendenden Fassung des § 51 Absatz 1 als maßgebliche Zeiteinheit Stunden, in denen der Spotmarktpreis negativ ist, zugrunde zu legen sind, ist ab dem Tag, an dem die Strombörsen erstmals in der vortägigen Auktion am Day-Ahead-Markt Stromviertelstundenkontrakte der Kopplung der Orderbücher zugrunde legen, eine Kalenderstunde dann zu berücksichtigen, wenn das arithmetische Mittel aus den Spotmarktpreisen der Viertelstunden dieser Kalenderstunde negativ ist.
 
+(46) Für Anlagen, die nach dem 31. Dezember 2022 und vor dem 25. Februar 2025 in Betrieb genommen wurden oder deren anzulegender Wert in einem Zuschlagsverfahren eines Gebotstermins nach dem 31. Dezember 2022 und vor dem 25. Februar 2025 ermittelt wurde, sind die §§ 51 und 51a Absatz 1 in der am 24. Februar 2025 geltenden Fassung anzuwenden. § 51a Absatz 2 ist nicht anzuwenden auf Strom aus Solaranlagen, die vor dem 25. Februar 2025 in Betrieb genommen wurden.
+
+(47) Für Anlagen, deren anzulegender Wert sich nach der für sie maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes in Zeiträumen, in denen der Spotmarktpreis negativ ist, nicht verringert, sind die §§ 51 und § 51a anzuwenden, wenn der Anlagenbetreiber in Textform gegenüber dem Netzbetreiber erklärt, dass diese anwendbar sein sollen. Die Erklärung nach Satz 1 kann nur mit Wirkung frühestens zum Ablauf des Kalenderjahres, in dem die Anlage mit einem intelligenten Messsystem ausgestattet wird, abgegeben werden. Nach Wirksamwerden der Erklärung nach Satz 1 erhöht sich der anzulegende Wert für die Anlage um 0,6 Cent pro Kilowattstunde.
+
 
 #### § 101 Beihilferechtlicher Genehmigungsvorbehalt
 
-Die Bestimmungen von § 22 Absatz 3 Satz 2, § 28b Absatz 2, § 30 Absatz 2, § 36h Absatz 3 Satz 2 und 3, § 37 Absatz 3, § 37b Absatz 2, § 37d, § 38a Absatz 1 Nummer 5, § 38h Satz 2, § 46 Absatz 3, § 48 Absatz 1b, 2 und 4 Satz 2, § 85a Absatz 1 Satz 2 und § 100 Absatz 15, 16 und 36 dürfen erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission und nur nach Maßgabe dieser Genehmigung angewandt werden. Bis zu dieser Genehmigung sind § 22 Absatz 3 Satz 2, § 28b Absatz 2, § 30 Absatz 2, § 37 Absatz 3, § 38a Absatz 1 Nummer 5, § 38b Absatz 1 Satz 2 und 3, § 46 Absatz 3, § 48 Absatz 2 und 4 Satz 2 sowie § 85a Absatz 1 Satz 2 in der am 15. Mai 2024 geltenden Fassung anzuwenden.
+Die Bestimmungen von § 19 Absatz 3c, § 22 Absatz 3 Satz 2, § 28b Absatz 2, § 30 Absatz 2, § 36h Absatz 3 Satz 2 und 3, § 37 Absatz 3, § 37b Absatz 2, § 37d, § 38a Absatz 1 Nummer 5, § 38h Satz 2, § 46 Absatz 3, § 48 Absatz 1b, 2 und 4 Satz 2, § 85a Absatz 1 Satz 2 und § 100 Absatz 35 und 47 dürfen erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission und nur nach Maßgabe dieser Genehmigung angewandt werden. Bis zu dieser Genehmigung sind § 22 Absatz 3 Satz 2, § 28b Absatz 2, § 30 Absatz 2, § 37 Absatz 3, § 38a Absatz 1 Nummer 5, § 38b Absatz 1 Satz 2 und 3, § 46 Absatz 3, § 48 Absatz 2 und 4 Satz 2 sowie § 85a Absatz 1 Satz 2 in der am 15. Mai 2024 geltenden Fassung anzuwenden.
 
 (zu § 23a)
 
@@ -6074,7 +6234,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   Für Strom aus Anlagen, die vor dem 1. Januar 2023 in Betrieb genommen worden sind oder deren Zuschlag vor dem 1. Januar 2023 erteilt worden ist, wird die Höhe der Marktprämie nach § 23a („MP“) anhand des energieträgerspezifischen Monatsmarktwertes nach Nummer 3 berechnet. Für Strom aus anderen Anlagen wird die Höhe der Marktprämie nach § 23a („MP“) anhand des energieträgerspezifischen Jahresmarktwertes nach Nummer 4 berechnet.
+    *   Für Strom aus Anlagen, die vor dem 1. Januar 2023 in Betrieb genommen worden sind oder deren Zuschlag vor dem 1. Januar 2023 erteilt worden ist, wird die Höhe der Marktprämie nach § 23a („MP“) anhand des energieträgerspezifischen Monatsmarktwertes nach Nummer 3 berechnet. Für Strom aus anderen Anlagen wird die Höhe der Marktprämie nach § 23a („MP“) anhand des energieträgerspezifischen Jahresmarktwertes nach Nummer 4 berechnet. Für Strom aus Anlagen nach Satz 1 wird abweichend von Satz 1 die Höhe der Marktprämie nach § 23a („MP“) anhand des energieträgerspezifischen Jahresmarktwertes nach Nummer 4 berechnet, wenn der Anspruch nach der Abgrenzungs- oder der Pauschaloption nach § 19 Absatz 3b oder 3c geltend gemacht wird.
 
 
 *    *   **3.**

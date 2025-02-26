@@ -1,27 +1,27 @@
 ---
 Title: Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für
-  das Jahr 2024
-jurabk: ERPWiPlanG 2024
+  das Jahr 2025
+jurabk: ERPWiPlanG 2025
 layout: default
-origslug: erpwiplang_2024
-slug: erpwiplang_2024
+origslug: erpwiplang_2025
+slug: erpwiplang_2025
 
 ---
 
-# Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2024 (ERPWiPlanG 2024)
+# Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2025 (ERPWiPlanG 2025)
 
 Ausfertigungsdatum
-:   2023-12-20
+:   2025-02-21
 
 Fundstelle
-:   BGBl I: 2023, Nr. 388
+:   BGBl. I: 2025, Nr. 53
 
-Stand: Die §§ 2 bis 5 treten gem. § 6 am Tag der Verkündung des ERP-Wirtschaftsplangesetzes 2025, frühestens jedoch am 31.12.2024, außer Kraft
+Stand: Die §§ 2 bis 5 treten gem. § 6 am Tag der Verkündung des ERP-Wirtschaftsplangesetzes 2026, frühestens jedoch am 31.12.2025, außer Kraft
 
 ## § 1 Feststellung des Wirtschaftsplans des ERP-Sondervermögens
 
-Der Wirtschaftsplan des ERP-Sondervermögens für das Jahr 2024, der diesem Gesetz als Anlage beigefügt und nach § 8 Absatz 1 Satz 1 des ERP-Verwaltungsgesetzes vom 26. Juni 2007 (BGBl. I S. 1160), geändert durch Artikel 246 der Verordnung vom 31. August 2015 (BGBl. I S. 1474), aufgestellt worden ist, wird in Einnahmen und Ausgaben auf
-1 092 233 000 Euro
+Der Wirtschaftsplan des ERP-Sondervermögens für das Jahr 2025, der diesem Gesetz als Anlage beigefügt und nach § 8 Absatz 1 Satz 1 des ERP-Verwaltungsgesetzes vom 26. Juni 2007 (BGBl. I S. 1160), geändert durch Artikel 246 der Verordnung vom 31. August 2015 (BGBl. I S. 1474), aufgestellt worden ist, wird in Einnahmen und Ausgaben auf
+1 192 053 000 Euro
 festgestellt.
 
 
@@ -37,7 +37,7 @@ Wird gegenüber dem ERP-Wirtschaftsplan infolge eines unvorhergesehenen und unab
 
 ## § 4 Übernahme von Gewährleistungen
 
-(1) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, mit Einwilligung des Bundesministeriums der Finanzen Bürgschaften, Garantien oder sonstige Gewährleistungen zur Förderung der gewerblichen Wirtschaft einschließlich der freien Berufe bis zu einem Gesamtbetrag von 4 338 000 000 Euro zu Lasten des ERP-Sondervermögens zu übernehmen.
+(1) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, mit Einwilligung des Bundesministeriums der Finanzen Bürgschaften, Garantien oder sonstige Gewährleistungen zur Förderung der gewerblichen Wirtschaft einschließlich der freien Berufe bis zu einem Gesamtbetrag von 4 560 000 000 Euro zu Lasten des ERP-Sondervermögens zu übernehmen.
 
 (2) Auf den Höchstbetrag nach Absatz 1 werden die aufgrund der Ermächtigungen der früheren Wirtschaftsplangesetze übernommenen Bürgschaften, Garantien und sonstigen Gewährleistungen angerechnet, soweit das ERP-Sondervermögen noch in Anspruch genommen werden kann oder in Anspruch genommen worden ist und für die erbrachten Leistungen keinen Ersatz erlangt hat.
 
@@ -48,37 +48,24 @@ Wird gegenüber dem ERP-Wirtschaftsplan infolge eines unvorhergesehenen und unab
 
 ## § 5 Vom Verwendungszweck ausgenommene Beträge
 
-Die in Kapitel 1 Titel 681 02 und 681 03 veranschlagten Beträge und Verpflichtungsermächtigungen sind von der Begrenzung der in § 2 des ERP-Verwaltungsgesetzes festgelegten Zweckbestimmung ausgenommen.
+Die in Kapitel 1 Titel 681 02 und 681 03 veranschlagten Beträge und Verpflichtungsermächtigungen sind von der Begrenzung der in § 2 des ERP-Verwaltungsgesetzes festgelegten Zweckbestimmung ausgenommen.
 
 
-## § 6 Verordnungsermächtigung zur Umsetzung der Nationalen Strategie für Soziale Innovationen und Gemeinwohlorientierte Unternehmen
+## § 6 Befristung
 
-(1) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Finanzen die Anwendung dieses Gesetzes auf die Förderung von gemeinnützigen kleinen und mittleren Unternehmen zu erstrecken, soweit dies der Umsetzung des Handlungsfeldes 6 der am 13. September 2023 von der Bundesregierung beschlossenen und auf der Homepage des Bundesministeriums für Wirtschaft und Klimaschutz veröffentlichten Nationalen Strategie für Soziale Innovationen und Gemeinwohlorientierte Unternehmen dienlich ist. Dabei sind die in diesem Gesetz veranschlagten Ansätze beizubehalten.
-
-(2) Die Rechtsverordnung bedarf der Zustimmung des Deutschen Bundestages. Die Zuleitung soll bis zum 31. März 2024 erfolgen.
+Die §§ 2 bis 5 treten am Tag der Verkündung des ERP-Wirtschaftsplangesetzes 2026, frühestens jedoch am 31. Dezember 2025, außer Kraft.
 
 
-## § 7 Verordnungsermächtigung zur Umsetzung von Nachhaltigkeitskriterien in Programmen des ERP-Wirtschaftsplans
+## § 7 Inkrafttreten
 
-(1) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen eine Rechtsverordnung zu erlassen, mit der eine Systematik aufgestellt wird, nach welchen Kriterien in Programmen zur Unterstützung von nachhaltigen Unternehmensgründungen und -übernahmen im Anwendungsbereich dieses Gesetzes der Nachweis der Nachhaltigkeit erbracht werden kann.
-
-(2) Die Rechtsverordnung bedarf der Zustimmung des Deutschen Bundestages. Die Zuleitung soll bis zum 30. Juni 2024 erfolgen.
-
-
-## § 8 Befristung
-
-Die §§ 2 bis 5 treten am Tag der Verkündung des ERP-Wirtschaftsplangesetzes 2025, frühestens jedoch am 31. Dezember 2024, außer Kraft.
-
-
-## § 9 Inkrafttreten
-
-Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
+Dieses Gesetz tritt mit Wirkung vom 1. Januar 2025 in Kraft.
 
 (zu § 1)
 
 ## Anlage Wirtschaftsplan nach § 8 des ERP-Verwaltungsgesetzes vom 26. Juni 2007
 
-(Fundstelle: BGBl. 2023 I Nr. 388, S. 4 - 18)
+(Fundstelle: BGBl. 2025 I Nr. 53, S. 4 - 18)
+
 
 
 *    *   Kapitel 1 (Ausgaben):
@@ -98,6 +85,7 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
 
 
+
 *    *   Anlage 1:
 
     *   Übersicht über die Verpflichtungen und Verpflichtungsermächtigungen aus Kapitel 1
@@ -105,7 +93,7 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
 *    *   Anlage 2:
 
-    *   Nachweisung des ERP-Sondervermögens nach dem Stand vom 31. Dezember 2022
+    *   Nachweisung des ERP-Sondervermögens nach dem Stand vom 31. Dezember 2023
 
 
 *    *   Anlage 3:
@@ -115,8 +103,10 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
 
 
-### **Kapitel 1**
 
+
+
+## Kapitel 1
 
 *    *   Titel
         und
@@ -126,16 +116,16 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   Betrag
         für
-        2024
+        2025
         1 000 €
 
     *   Betrag
         für
-        2023
+        2024
         1 000 €
 
     *   Ist-Ergebnis
-        2022
+        2023
         1 000 €
 
 
@@ -159,26 +149,19 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
 *    *   892 01-691
 
-    *   Finanzierungshilfen zur Unterstützung von Unternehmensgründungen und -übernahmen, zur Leistungssteigerung mittelständischer privater Unternehmen sowie für Exporte der gewerblichen Wirtschaft
+    *   Finanzierungshilfen zur Unterstützung von Unternehmensgründungen und -übernahmen und zur Leistungssteigerung mittelständischer privater Unternehmen sowie für Exporte der gewerblichen Wirtschaft
+
+    *   61 600
 
     *   64 500
 
     *   60 200
 
-    *   33 986
-
-
-*    *
-    *   Die veranschlagten Mittel werden für Förderkosten im Zusammenhang mit KfW-refinanzierten Darlehen und der KfW-Beteiligungsfinanzierung außerhalb der KfW Capital eingesetzt.
-
-    *
-    *
-    *
 
 *    *
     *   Verpflichtungsermächtigung
 
-    *   377 200 T€
+    *   252 300 T€
 
     *
     *
@@ -193,18 +176,9 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
 
 *    *
-    *   Jahr 2025 bis zu
-
-    *   72 600 T€
-
-    *
-    *
-    *
-
-*    *
     *   Jahr 2026 bis zu
 
-    *   72 500 T€
+    *   54 300 T€
 
     *
     *
@@ -213,7 +187,16 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *
     *   Jahr 2027 bis zu
 
-    *   61 400 T€
+    *   45 100 T€
+
+    *
+    *
+    *
+
+*    *
+    *   Jahr 2028 bis zu
+
+    *   39 200 T€
 
     *
     *
@@ -222,7 +205,7 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *
     *   in künftigen Haushaltsjahren
 
-    *   170 700 T€
+    *   113 700 T€
 
     *
     *
@@ -241,6 +224,9 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
         3.  Die Verpflichtungsermächtigung ist mit der Verpflichtungsermächtigung bei folgenden Titeln gegenseitig deckungsfähig: 683 01 und 682 01.
 
 
+        4.  Mehrausgaben dürfen bis zur Höhe der Mehreinnahmen bei folgendem Titel geleistet werden: 162 01. Dies gilt auch für zu erwartende Einnahmen aus bestehenden Ansprüchen. Falls Ausgaben aufgrund zu erwartender Einnahmen geleistet wurden und diese Einnahmen im laufenden Haushaltsjahr nicht eingehen, dürfen diese Einnahmen, soweit sie in den folgenden Haushaltsjahren eingehen, nicht mehr zur Leistung von Ausgaben verwendet werden.
+
+
 
 
     *
@@ -249,19 +235,19 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
 *    *   683 01-691
 
-    *   Förderkosten aus Zusagen bis zum 31.12.2023
+    *   Förderkosten aus Zusagen bis zum 31.12.2024
+
+    *   219 600
 
     *   219 300
 
     *   136 100
 
-    *   63 179
-
 
 *    *
     *   Zahlungsverpflichtungen
 
-    *   2 041 300 T€
+    *   2 121 200 T€
 
     *
     *
@@ -276,18 +262,9 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
 
 *    *
-    *   Jahr 2025 bis zu
-
-    *   201 200 T€
-
-    *
-    *
-    *
-
-*    *
     *   Jahr 2026 bis zu
 
-    *   177 300 T€
+    *   203 000 T€
 
     *
     *
@@ -296,7 +273,16 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *
     *   Jahr 2027 bis zu
 
-    *   151 800 T€
+    *   188 700 T€
+
+    *
+    *
+    *
+
+*    *
+    *   Jahr 2028 bis zu
+
+    *   164 100 T€
 
     *
     *
@@ -305,7 +291,7 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *
     *   in künftigen Haushaltsjahren
 
-    *   1 511 100 T€
+    *   1 565 400 T€
 
     *
     *
@@ -334,17 +320,17 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   Förderkosten für die Finanzierung von Projekten mit deutschen und europäischen Partnern zur Bereitstellung von haftendem Kapital für kleine und mittlere Unternehmen durch die KfW Capital
 
+    *   42 500
+
     *   30 300
 
     *   19 100
-
-    *   12 300
 
 
 *    *
     *   Verpflichtungsermächtigungen
 
-    *   137 600 T€
+    *   192 100 T€
 
     *
     *
@@ -359,18 +345,9 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
 
 *    *
-    *   Jahr 2025 bis zu
-
-    *   32 500 T€
-
-    *
-    *
-    *
-
-*    *
     *   Jahr 2026 bis zu
 
-    *   34 600 T€
+    *   46 000 T€
 
     *
     *
@@ -379,7 +356,7 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *
     *   Jahr 2027 bis zu
 
-    *   35 500 T€
+    *   47 700 T€
 
     *
     *
@@ -388,7 +365,16 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *
     *   Jahr 2028 bis zu
 
-    *   35 000 T€
+    *   49 400 T€
+
+    *
+    *
+    *
+
+*    *
+    *   Jahr 2029 bis zu
+
+    *   49 000 T€
 
     *
     *
@@ -415,20 +401,19 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
 *    *   682 02-330
 
-    *   Finanzierungen von Projekten mit deutschen und europäischen Partnern zur Bereitstellung von haftendem Kapital für kleine und mittlere Unternehmen.
-        Mehrausgaben können bis zur Höhe der Einnahmen aus Kap. 3 Tit. 129 01 geleistet werden. In diesem Zusammenhang können mit Zustimmung des BMF Verpflichtungen für künftige Haushaltsjahre eingegangen werden
+    *   Finanzierungen von Projekten mit deutschen und europäischen Partnern zur Bereitstellung von haftendem Kapital für kleine und mittlere Unternehmen
+
+    *   860 000
 
     *   770 000
 
-    *   720 000
-
-    *   298 838
+    *   290 885
 
 
 *    *
     *   Verpflichtungsermächtigung
 
-    *   4 290 300 T€
+    *   4 525 900 T€
 
     *
     *
@@ -445,7 +430,7 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *
     *   in künftigen Haushaltsjahren
 
-    *   4 290 300 T€
+    *   4 525 900 T€
 
     *
     *
@@ -471,17 +456,17 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *   Gewährung von Stipendien an Studentinnen und Studenten und junge Wissenschaftlerinnen und Wissenschaftler sowie langfristige Förderung von Informationsreisen von deutsch/
         jüdisch-amerikanischen                        Jugendlichen und von Multiplikatoren nach Deutschland
 
+    *   3 733
+
     *   3 633
 
-    *   3 332
-
-    *   3 045
+    *   2 937
 
 
 *    *
     *   Verpflichtungsermächtigung
 
-    *   6 460 T€
+    *   160 T€
 
     *
     *
@@ -496,18 +481,9 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
 
 *    *
-    *   Jahr 2025 bis zu
-
-    *   2 210 T€
-
-    *
-    *
-    *
-
-*    *
     *   Jahr 2026 bis zu
 
-    *   2 210 T€
+    *   80 T€
 
     *
     *
@@ -516,7 +492,7 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *
     *   Jahr 2027 bis zu
 
-    *   2 040 T€
+    *   80 T€
 
     *
     *
@@ -543,9 +519,9 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   3 600
 
-    *   4 600
+    *   3 600
 
-    *   2 927
+    *   2 714
 
 
 *    *
@@ -566,18 +542,9 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
 
 *    *
-    *   Jahr 2025 bis zu
-
-    *   1 500 T€
-
-    *
-    *
-    *
-
-*    *
     *   Jahr 2026 bis zu
 
-    *   1 300 T€
+    *   1 500 T€
 
     *
     *
@@ -594,6 +561,15 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
 *    *
     *   Jahr 2028 bis zu
+
+    *   1 300 T€
+
+    *
+    *
+    *
+
+*    *
+    *   Jahr 2029 bis zu
 
     *   1 000 T€
 
@@ -620,11 +596,11 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   Inanspruchnahme aus Gewährleistungen
 
-    *   0
+    *   –
 
-    *   0
+    *   –
 
-    *   0
+    *   –
 
 
 *    *
@@ -644,11 +620,11 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *
     *   Gesamtsumme Investitionsfinanzierung
 
+    *   1 191 033
+
     *   1 091 333
 
-    *   943 332
-
-    *   414 275
+    *   511 937
 
 
 *    *
@@ -661,31 +637,32 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *
     *   Zuweisungen und Zuschüsse
 
+    *   7 333
+
     *   7 233
 
-    *   7 932
-
-    *   5 972
+    *   5 652
 
 
 *    *
     *   Ausgaben für Investitionen
 
+    *   1 183 700
+
     *   1 084 100
 
-    *   935 400
-
-    *   408 303
+    *   506 285
 
 
 *    *
     *   Gesamtsumme Investitionsfinanzierung
 
+    *   1 191 033
+
     *   1 091 333
 
-    *   943 332
+    *   511 937
 
-    *   414 275
 
 
 
@@ -701,15 +678,15 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *   **Zu Tit. 892 01**
 
 
-*    *   Die ERP-Finanzierungshilfen sollen der Unterstützung von Unternehmensgründungen und -übernahmen, der Leistungssteigerung mittelständischer privater Unternehmen sowie der Förderung von Exporten der gewerblichen Wirtschaft dienen.
+*    *   Die veranschlagten Mittel werden für Förderkosten im Zusammenhang mit KfW-refinanzierten Darlehen und der KfW-Beteiligungsfinanzierung außerhalb der KfW Capital eingesetzt.
 
 
-*    *   Dementsprechend sollen mit den Mitteln folgende Finanzierungszwecke mit einem Volumen von rd. 10 270 Mio. Euro gefördert werden:
+*    *   Dementsprechend sollen mit den Mitteln folgende Finanzierungszwecke mit einem Volumen von rd. 10 765 Mio. Euro gefördert werden:
 
 
 *    *   a) Existenzgründungen und Wachstumsfinanzierungen einschließlich Vorhaben in regionalen Fördergebieten und Leasingfinanzierung
 
-    *   7 110 Mio. Euro
+    *   7 605 Mio. Euro
 
 
 *    *   b) Refinanzierung privater Kapitalbeteiligungsgesellschaften
@@ -727,16 +704,16 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *   1 000 Mio. Euro
 
 
-*    *   Der für 2024 geplante Förderjahrgang führt mit dem oben genannten Volumen in Höhe von 10 270 Mio. Euro über die gesamte Laufzeit betrachtet zu einer barwertigen Zinsverbilligung in Höhe von 260 Mio. Euro.
+*    *   Der für 2025 geplante Förderjahrgang führt mit dem oben genannten Volumen in Höhe von 10 765 Mio. Euro über die gesamte Laufzeit betrachtet zu einer barwertigen Zinsverbilligung in Höhe von 263,5 Mio. Euro.
 
 
 *    *   Wenn es die Nachfrage erfordert, können Zinsverbilligungen angepasst, Vergabevolumina entsprechend verändert und Verschiebungen zwischen den einzelnen Förderbereichen vorgenommen werden.
 
 
-*    *   Bei der Planung des Neugeschäfts wurde sichergestellt, dass das ERP-Sondervermögen die daraus resultierenden Belastungen dauerhaft tragen kann. Dabei wurde das für das Jahr 2024 geplante Fördervolumen auch für die kommenden Jahre zugrunde gelegt.
+*    *   Bei der Planung des Neugeschäfts wurde sichergestellt, dass das ERP-Sondervermögen die daraus resultierenden Belastungen dauerhaft tragen kann. Dabei wurde das für das Jahr 2025 geplante Fördervolumen auch für die kommenden Jahre zugrunde gelegt.
 
 
-*    *   Entsprechend der vorstehenden Aufteilung und mit der Zielsetzung, dass dadurch zu einer nachhaltigen Entwicklung beigetragen werden soll, können Finanzierungshilfen mit Zinsverbilligung und Beteiligungsfinanzierungen für folgende Zwecke gewährt werden:
+*    *   Entsprechend der vorstehenden Aufteilung und mit der Zielsetzung, dass dadurch zu einer nachhaltigen Entwicklung beigetragen werden soll, können Finanzierungshilfen mit Zinsverbilligung, Tilgungszuschüssen und Beteiligungsfinanzierungen für folgende Zwecke gewährt werden:
 
         a)  Existenzgründungen, Unternehmensübernahmen und Wachstumsfinanzierungen mittelständischer Unternehmen der gewerblichen Wirtschaft und der Freien Berufe unter besonderer Berücksichtigung regionaler Fördergebiete, einschließlich des ERP-Startfonds und Leasingfinanzierung.
 
@@ -762,30 +739,30 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *   **Zu Tit. 683 01**
 
 
-*    *   Der Titelansatz enthält die Zahlungsverpflichtungen aus den im Zuge der Neuordnung nicht auf den Bund übertragenen Kreditforderungen und die Kosten aus Zusagen nach der Neuordnung der ERP-Wirtschaftsförderung bis einschließlich 31. Dezember 2023.
+*    *   Der Titelansatz enthält die Zahlungsverpflichtungen aus den im Zuge der Neuordnung nicht auf den Bund übertragenen Kreditforderungen und die Kosten aus Zusagen nach der Neuordnung der ERP-Wirtschaftsförderung bis einschließlich 31. Dezember 2024.
 
 
-*    *   Die Zahlungsverpflichtungen in künftigen Haushaltsjahren belaufen sich auf 2 041,3 Mio. Euro, davon fällig:
+*    *   Die Zahlungsverpflichtungen in künftigen Haushaltsjahren belaufen sich auf 2 121,2 Mio. Euro, davon fällig:
 
 
-*    *   e) Jahr 2025 bis zu
+*    *   Jahr 2026 bis
 
-    *   201,2 Mio. Euro
-
-
-*    *   f)   Jahr 2026 bis zu
-
-    *   177,3 Mio. Euro
+    *   203 Mio. Euro
 
 
-*    *   g) Jahr 2027 bis zu
+*    *   Jahr 2027 bis zu
 
-    *   151,8 Mio. Euro
+    *   188,7 Mio. Euro
 
 
-*    *   h) in künftigen Haushaltsjahren
+*    *   Jahr 2028 bis zu
 
-    *   1 511,1 Mio. Euro.
+    *   164,1 Mio. Euro
+
+
+*    *   in künftigen Haushaltsjahren
+
+    *   1 565,4 Mio. Euro.
 
 
 *    *   **Zu Tit. 682 01**
@@ -819,22 +796,19 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
         –   die Dotierung der ERP/EIF-Programme mit dem Ziel, mittelständischen Unternehmen die Beschaffung von haftendem Kapital sowohl in der Früh- und Wachstumsphase (Venture Capital) als auch in der Expansionsphase (Venture Debt, Mezzaninkapital) zu erleichtern;
 
 
-        –   die Bedienung von Kapitalabrufen der High-Tech Gründerfonds I, II, III, und IV, sowie des DeepTech & Climate Fonds und der HTGF Wachstumsfazilität;
+        –   die Bedienung von Kapitalabrufen der High-Tech Gründerfonds I, II, III, und IV, sowie des DeepTech & Climate Fonds, des HTGF Opportunity, des Fonds coparion und des bei KfW Capital aufzulegenden Ko-Investment Vehikels für Direktbeteiligungen;
 
 
-        –   die Bedienung von Kapitalabrufen des Fonds coparion;
+        –   die Beteiligung des ERP-Sondervermögens an RegioInnoGrowth, einem Modul zur Eigenkapitalstärkung innovativer Start-ups und Mittelständler;
 
 
-        –   die Beteiligung des ERP-Sondervermögens am Wachstumsfonds Deutschland und an RegioInnoGrowth, einem Modul zur Eigenkapitalstärkung innovativer Start-ups und Mittelständler;
-
-
-        –   weitere Maßnahmen sind der Mikromezzaninfonds zusammen mit dem Europäischen Sozialfonds (ESF), Beteiligungen an Frühphasen- und mittelstandsorientierten Beteiligungsgesellschaften.
+        –   Weitere Maßnahmen sind der Mikromezzaninfonds zusammen mit dem Europäischen Sozialfonds (ESF), Beteiligungen an Frühphasen- und mittelstandsorientierten Beteiligungsgesellschaften.
 
 
 
 
 
-*    *   In dem Titel sind Doppelveranschlagungen als Ansatz im Haushaltsjahr 2024 beziehungsweise als Verpflichtungsermächtigung mit Auszahlung in den Jahren 2025 ff. erforderlich, da es von den nicht vorab zu bestimmenden Markt- und Investitionsgegebenheiten abhängt, ob die Verwalter der refinanzierten Fonds die Kapitalzusagen mit Auszahlungen im Haushaltsjahr 2024 oder in Folgejahren tätigen.
+*    *   In dem Titel sind Doppelveranschlagungen als Ansatz im Haushaltsjahr 2025 beziehungsweise als Verpflichtungsermächtigung mit Auszahlung in den Jahren 2026 ff. erforderlich, da es von den nicht vorab zu bestimmenden Markt- und Investitionsgegebenheiten abhängt, ob die Verwalter der refinanzierten Fonds die Kapitalzusagen mit Auszahlungen im Haushaltsjahr 2025 oder in Folgejahren tätigen.
 
 
 *    *   Die ausgewiesenen Mittel sind Teil des Sondervermögens (Umschichtung) und gehen nicht zu Lasten der erwirtschafteten Erträge.
@@ -843,7 +817,7 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *   Aus dem Ansatz können auch Ausgaben für Mandatar-/Projektträger-/Verwaltungskosten geleistet werden.
 
 
-*    *   Die Verpflichtungsermächtigungen zu Lasten künftiger Haushaltsjahre belaufen sich auf rund 4 290 Mio. Euro.
+*    *   Die Verpflichtungsermächtigungen zu Lasten künftiger Haushaltsjahre belaufen sich auf rund 4 526 Mio. Euro.
 
 
 *    *   Im Rahmen der veranschlagten Mittel können auch bis zu 15 Mio. Euro für neue Förderansätze gewährt werden.
@@ -852,16 +826,15 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *   **Zu Tit. 681 02**
 
 
-*    *   Von dem veranschlagten Baransatz entfallen
-        3,013                        Mio. Euro auf Stipendienprogramme, und zwar
+*    *   Von dem veranschlagten Baransatz entfallen 3,103 Mio. Euro auf Stipendienprogramme, und zwar
 
-        –   1,72 Mio. Euro auf das MOE/GUS-Stipendienprogramm, mit dem Studentinnen und Studenten der Wirtschaftswissenschaften aus mittel-, ost- und südosteuropäischen Ländern ein Studienaufenthalt in Deutschland ermöglicht wird,
-
-
-        –   bis zu 0,99 Mio. Euro auf das ERP-Stipendienprogramm USA, mit dem jungen deutschen postgraduierten Wissenschaftlerinnen und Wissenschaftlern die Möglichkeit gegeben wird, ihre Ausbildung an einer führenden Hochschule in den Vereinigten Staaten von Amerika fortzusetzen,
+        –   1,71 Mio. Euro auf das MOE/GUS-Stipendienprogramm, mit dem Studentinnen und Studenten der Wirtschaftswissenschaften aus mittel-, ost- und südosteuropäischen Ländern ein Studienaufenthalt in Deutschland ermöglicht wird,
 
 
-        –   bis zu 0,303 Mio. Euro zur Mitfinanzierung des McCloy Academic Scholarship Program.
+        –   bis zu 0,998 Mio. Euro auf das ERP-Stipendienprogramm USA, mit dem jungen deutschen postgraduierten Wissenschaftlerinnen und Wissenschaftlern die Möglichkeit gegeben wird, ihre Ausbildung an einer führenden Hochschule in den Vereinigten Staaten von Amerika fortzusetzen,
+
+
+        –   bis zu 0,395 Mio. Euro zur Mitfinanzierung des McCloy Academic Scholarship Program.
 
 
 
@@ -870,13 +843,10 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *   Aus dem Ansatz können auch Ausgaben für Evaluierung und Auswahl der Stipendiatinnen und Stipendiaten der genannten Stipendienprogramme finanziert werden.
 
 
-*    *   Bis zu 0,620 Mio. Euro des Baransatzes entfallen auf ein deutsch/jüdisch-amerikanisches Begegnungsprojekt, mit dem jungen amerikanischen Jüdinnen und Juden und Multiplikatoren die Möglichkeit gegeben wird, sich an Ort und Stelle selbst ein Bild über die Situation im heutigen Deutschland und über das Verhältnis zu den jüdischen Mitbürgerinnen und Mitbürgern zu machen. Dieses Projekt ist langfristig angelegt.
+*    *   Bis zu 0,63 Mio. Euro des Baransatzes entfallen auf ein deutsch/jüdisch-amerikanisches Begegnungsprojekt, mit dem jungen amerikanischen Jüdinnen und Juden und Multiplikatoren die Möglichkeit gegeben wird, sich an Ort und Stelle selbst ein Bild über die Situation im heutigen Deutschland und über das Verhältnis zu den jüdischen Mitbürgerinnen und Mitbürgern zu machen. Dieses Projekt ist langfristig angelegt.
 
 
 *    *   Grundsätzlich sollen Reisen in die USA nicht gefördert werden.
-
-
-*    *   Außer dem Baransatz ist bei diesem Titel eine Verpflichtungsermächtigung in Höhe von insgesamt 6,46 Mio. Euro veranschlagt, fällig in den Jahren 2025 bis 2027. Sie dient einer Fortsetzung der Förderung der ERP-Stipendienprogramme McCloy und GUS/MOE sowie einer dauerhaften Aufstockung des ERP-Stipendienprogramms USA und des Programms „Germany Close Up“.
 
 
 *    *   Aus dem Ansatz können auch Mandatar-/Projektträger-/Verwaltungskosten geleistet werden.
@@ -888,7 +858,7 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *   Die Mittel dienen der Durchführung des Deutschen Programms für transatlantische Begegnung (ERP-Transatlantik-Programm). Im Rahmen dieses Programms werden völkerverbindende, insbesondere transatlantische Projekte im Sinne von George C. Marshall finanziell gefördert. Über die Förderung entscheidet das Bundesministerium für Wirtschaft und Klimaschutz grundsätzlich im Einvernehmen mit dem Interministeriellen Ausschuss (IMA) bestehend aus dem Bundesministerium für Wirtschaft und Klimaschutz, dem Bundeskanzleramt, dem Auswärtigen Amt und dem Bundesministerium für Bildung und Forschung.
 
 
-*    *   Außer dem Baransatz ist bei diesem Titel eine Verpflichtungsermächtigung in Höhe von insgesamt 5,1 Mio Euro veranschlagt, fällig in den Jahren 2025 bis 2028, um auch mehrjährige Projekte fördern zu können.
+*    *   Außer dem Baransatz ist bei diesem Titel eine Verpflichtungsermächtigung in Höhe von insgesamt 5,1 Mio. Euro veranschlagt, fällig in den Jahren 2026 bis 2029, um auch mehrjährige Projekte fördern zu können.
 
 
 *    *   Aus dem Ansatz können auch Mandatar-/Projektträger-/Verwaltungskosten geleistet werden.
@@ -897,19 +867,20 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *   **Zu Tit. 870 01**
 
 
-*    *   Der Betrag ist für Inanspruchnahme aus Gewährleistungen, Bürgschaften, Haftungsfreistellungen und Haftungszusagen vorgesehen.
+*    *   Der Betrag ist für eine etwaige Inanspruchnahme aus Gewährleistungen, Bürgschaften, Haftungsfreistellungen und Haftungszusagen vorgesehen.
 
 
-*    *   Die Ermächtigung zur Übernahme von Gewährleistungen ergibt sich aus § 4 des jeweiligen ERP-Wirtschaftsplangesetzes.
+*    *   Die Ermächtigung zur Übernahme von Gewährleistungen ergibt sich aus § 4 des jeweiligen ERP-Wirtschaftsplangesetzes.
 
 
-*    *   Die Verpflichtungen aus Gewährleistungen betrugen am 31. Dezember 2022 rund 2 500 Mio. Euro.
+*    *   Die Verpflichtungen aus Gewährleistungen betrugen am 31. Dezember 2023 rund 2 900 Mio. Euro.
 
 
 
 
-### **Kapitel 2**
 
+
+## Kapitel 2
 
 *    *   Titel
         und
@@ -919,16 +890,16 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   Betrag
         für
-        2024
+        2025
         1 000 €
 
     *   Betrag
         für
-        2023
+        2024
         1 000 €
 
     *   Ist-Ergebnis
-        2022
+        2023
         1 000 €
 
 
@@ -954,22 +925,22 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   Kosten für befristete Arbeitskräfte, sonstige Beschäftigungsentgelte (auch für Auszubildende) sowie Aufwendungen für nebenberuflich und nebenamtlich Tätige
 
-    *   200
+    *   220
 
     *   200
 
-    *   194
+    *   176
 
 
 *    *   531 01-013
 
     *   Kosten für Veröffentlichungen und Untersuchungen sowie sonstige Kosten des ERP-Sondervermögens
 
+    *   800
+
     *   650
 
-    *   750
-
-    *   58
+    *   110
 
 
 *    *
@@ -992,11 +963,11 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   Zinsaufwendungen
 
-    *   0
+    *   –
 
-    *   1 500
+    *   –
 
-    *   0
+    *   –
 
 
 *    *
@@ -1015,47 +986,53 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
     *
 
-*    *   671 01-680
-
-    *   Bearbeitungsgebühren
-
-    *   50
-
-    *   50
-
-    *   0
-
-
 *    *   595 01-062
 
-    *   Tilgung von Krediten gemäß § 2 ERP-Wirtschaftsplangesetz 2022
+    *   Tilgung von Krediten gemäß § 2 ERP-Wirtschaftsplangesetz
 
     *   –
 
     *   –
 
-    *   0
+    *   –
 
 
 *    *   697 01-389
 
     *   Ausgleich von Liquiditätszuflüssen
 
-    *   0
+    *   –
 
-    *   0
+    *   –
 
-    *   0
+    *   –
 
 
 *    *
     *   Summe Sonstige Ausgaben
 
+    *   1 020
+
     *   900
 
-    *   2 500
+    *   286
 
-    *   252
+
+*    *
+    *   **Gegenüber dem Vorjahr entfallene Titel**
+
+    *
+    *
+    *
+
+*    *   671 01-680
+
+    *   Bearbeitungsgebühren
+
+    *
+    *   50
+
+    *   –
 
 
 *    *
@@ -1068,31 +1045,32 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *
     *   Sonstige Ausgaben
 
+    *   1 020
+
     *   900
 
-    *   1 000
-
-    *   252
+    *   286
 
 
 *    *
     *   Zinskosten
 
-    *   0
+    *   –
 
-    *   1 500
+    *   –
 
-    *   0
+    *   –
 
 
 *    *
     *   Gesamtsumme Sonstige Ausgaben
 
+    *   1 020
+
     *   900
 
-    *   2 500
+    *   286
 
-    *   252
 
 
 
@@ -1108,29 +1086,25 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *   **Zu Tit. 427 09**
 
 
-*    *   Veranschlagt werden Kosten für die zeitweilige Überlassung von Personal zur Unterstützung des Bundesministeriums für Wirtschaft und Klimaschutz bei der Wahrnehmung seiner Aufgaben bei der Verwaltung des ERP-Sondervermögens gemäß § 1 in Verbindung mit § 10 ERP-Verwaltungsgesetz. Hierbei geht es insbesondere um Aufgaben, die sich aus der Beteiligung des ERP-Sondervermögens an der Kreditanstalt für Wiederaufbau ergeben und besondere finanzwirtschaftliche Kenntnisse voraussetzen.
+*    *   Veranschlagt werden Kosten für die zeitweilige Überlassung von Personal zur Unterstützung des Bundesministeriums für Wirtschaft und Klimaschutz bei der Wahrnehmung seiner Aufgaben bei der Verwaltung des ERP-Sondervermögens gemäß § 1 in Verbindung mit § 10 ERP-Verwaltungsgesetz. Hierbei geht es insbesondere um Aufgaben, die sich aus der Beteiligung des ERP-Sondervermögens an der Kreditanstalt für Wiederaufbau ergeben und besondere finanzwirtschaftliche Kenntnisse voraussetzen.
 
 
 *    *   **Zu Tit. 531 01**
 
 
-*    *   Durch diese Mittel sollen Maßnahmen der Öffentlichkeitsarbeit und der Fortentwicklung der ERP-Programme finanziert werden. Hierzu gehören Publikationen, in denen über Tätigkeit und Programme des ERP-Sondervermögens auch im Internet informiert wird.
-        Ferner können aus dem Ansatz sonstige Ausgaben des ERP-Sondervermögens geleistet werden, soweit sie nicht vom Bund übernommen werden.
+*    *   Durch diese Mittel sollen Maßnahmen der Öffentlichkeitsarbeit und der Fortentwicklung der ERP-Programme finanziert werden. Hierzu gehören Publikationen, in denen über Tätigkeit und Programme des ERP-Sondervermögens auch im Internet informiert wird. Finanziert werden können auch Evaluierungen von ERP-Programmen sowie praxisnahe Untersuchungsformen (z. B. Seminare, Workshops, Tagungen u. Ä.), die zur Fortentwicklung der ERP-Förderung beitragen können. Ferner können aus dem Ansatz sonstige Ausgaben des ERP-Sondervermögens geleistet werden, soweit sie nicht vom Bund übernommen werden. Darunter fallen auch Gerichts-, Prüfungs- und ähnliche Kosten.
 
 
-*    *   Finanziert werden können auch Evaluierungen von ERP-Programmen sowie praxisnahe Untersuchungsformen (z. B. Seminare, Workshops, Tagungen u. Ä.), die zur Fortentwicklung der ERP-Förderung beitragen können. Mit Blick auf den aktuellen Stand geplanter Evaluationen von Förderprogrammen wurde der Haushaltsansatz gegenüber dem Vorjahr reduziert.
+*    *   Aus dem Ansatz können auch Erstattungen an sonstige Bereiche im Inland geleistet werden, wie zu erstattende Bearbeitungsgebühren, die nicht aus der Zinsmarge zu decken sind. Dazu gehören insbesondere die Gebühren für die treuhänderische Verwaltung von ERP-Darlehen und sonstigen Forderungen (z. B. wenn das ERP-Sondervermögen aus Bürgschaften in Anspruch genommen wird und den Förderinstituten die Weiterverfolgung der auf das ERP-Sondervermögen übergegangenen Forderungen übertragen worden ist).
+
+
+*    *   Mehr wegen Inflationsanpassung, dem aktuellen Stand geplanter Evaluationen von Förderprogrammen ab 2025 sowie ab 2025 Mitveranschlagung der Ausgaben des wegfallenden Titels 671 01 in Höhe von 50 T Euro.
 
 
 *    *   **Zu Tit. 575 01**
 
 
-*    *   Der Betrag ist für die Negativ-Verzinsung der von der Kreditanstalt für Wiederaufbau angelegten liquiden Mittel vorgesehen.
-
-
-*    *   **Zu Tit. 671 01**
-
-
-*    *   Veranschlagt sind zu erstattende Bearbeitungsgebühren, die nicht aus der Zinsmarge zu decken sind. Dazu gehören insbesondere die Gebühren für die treuhänderische Verwaltung von ERP-Darlehen und sonstigen Forderungen (z. B. wenn das ERP-Sondervermögen aus Bürgschaften in Anspruch genommen wird und den Förderinstituten die Weiterverfolgung der auf das ERP-Sondervermögen übergegangenen Forderungen übertragen worden ist). Aus dem Ansatz können auch Gerichts-, Prüfungs- und ähnliche Kosten gezahlt werden.
+*    *   Der Betrag ist für eine mögliche Negativ-Verzinsung der von der Kreditanstalt für Wiederaufbau angelegten liquiden Mittel vorgesehen.
 
 
 *    *   **Zu Tit. 595 01**
@@ -1142,7 +1116,7 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *   **Zu Tit. 697 01**
 
 
-*    *   Mit dem Bundesrechnungshof wurde im Zusammenhang mit der Prüfung der Jahresrechnung 2008 vereinbart, dass im Rahmen des ERP-Wirtschaftsplans alle Zahlungsströme erfasst werden, also auch solche, die sich nicht im Wirtschaftsförderungsbereich, sondern im Vermögensbereich des ERP-Sondervermögens abspielen (z. B. Rückzahlungen von ausgereichten Darlehen oder Einnahmen, die dem Erhalt der Vermögenssubstanz dienen). Der Ausgleichstitel gleicht Einnahmen und Ausgaben durch einen Korrekturposten aus und trägt so dem Grundsatz des Haushaltsausgleichs im ERP-Verwaltungsgesetz Rechnung.
+*    *   Mit dem Bundesrechnungshof wurde im Zusammenhang mit der Prüfung der Jahresrechnung 2008 vereinbart, dass im Rahmen des ERP-Wirtschaftsplans alle Zahlungsströme erfasst werden, also auch solche, die sich nicht im Wirtschaftsförderungsbereich, sondern im Vermögensbereich des ERP-Sondervermögens abspielen (z. B. Rückzahlungen von ausgereichten Darlehen oder Einnahmen, die dem Erhalt der Vermögenssubstanz dienen). Der Ausgleichstitel gleicht Einnahmen und Ausgaben durch einen Korrekturposten aus und trägt so dem Grundsatz des Haushaltsausgleichs im ERP-Verwaltungsgesetz Rechnung.
 
 
 *    *   Aus dem Titel können auch Zahlungen im Rahmen der Förderabrechnung der ERP-Wirtschaftsförderung des Vorjahres geleistet werden.
@@ -1150,8 +1124,9 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
 
 
-### **Kapitel 3**
 
+
+## Kapitel 3
 
 *    *   Titel
         und
@@ -1161,16 +1136,16 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   Betrag
         für
-        2024
+        2025
         1 000 €
 
     *   Betrag
         für
-        2023
+        2024
         1 000 €
 
     *   Ist-Ergebnis
-        2022
+        2023
         1 000 €
 
 
@@ -1196,55 +1171,63 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   Vermischte Einnahmen
 
-    *   0
+    *   –
 
-    *   0
+    *   –
 
-    *   80
+    *   220
 
 
 *    *   141 02-680
 
     *   Rückflüsse aus der Inanspruchnahme aus Gewährleistungen
 
-    *   0
+    *   –
 
-    *   0
+    *   –
 
-    *   0
+    *   –
 
 
 *    *   162 01-691
 
     *   Erträge aus Vermögen
 
+    *   421 137
+
     *   409 372
 
-    *   349 633
+    *   623 366
 
-    *   447 529
 
+*    *
+    *   Haushaltsvermerk:
+        Mehreinnahmen dienen zur Leistung der Mehrausgaben bei folgendem Titel: 892 01. Die Höhe der Mehreinnahmen zur Verstärkung des Titels 892 01 dürfen jedoch nicht zu einer Überschreitung der prognostizierten inflationierten Förderzielgröße von insgesamt 432,4 Mio. Euro führen.
+
+    *
+    *
+    *
 
 *    *   182 01-691
 
     *   Tilgung von Darlehen
 
+    *   489 244
+
     *   474 222
 
-    *   474 453
-
-    *   420 919
+    *   284 041
 
 
 *    *   129 01-873
 
     *   Einnahmen aus Vermögen
 
+    *   230 696
+
     *   146 747
 
-    *   44 575
-
-    *   0
+    *   –
 
 
 *    *
@@ -1259,11 +1242,11 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   Zinszuschüsse und Erstattungen aus dem Bundeshaushalt zur Leistungssteigerung mittelständischer privater Unternehmen der gewerblichen Wirtschaft (ERP-Innovationsfinanzierung)
 
+    *   41 160
+
     *   50 789
 
-    *   50 871
-
-    *   25 560
+    *   20 470
 
 
 *    *
@@ -1278,11 +1261,11 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   Zuschüsse und Erstattungen des Europäischen Sozialfonds (ESF)
 
+    *   9 816
+
     *   11 103
 
-    *   26 300
-
-    *   2 723
+    *   9 542
 
 
 *    *
@@ -1297,21 +1280,21 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   Einnahmen aus Kreditaufnahmen bei der KfW
 
-    *   0
+    *   –
 
-    *   0
+    *   –
 
-    *   0
+    *   –
 
 
 *    *
     *   Gesamteinnahmen
 
+    *   1 192 053
+
     *   1 092 233
 
-    *   945 832
-
-    *   896 811
+    *   937 640
 
 
 *    *
@@ -1324,31 +1307,32 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *
     *   Verwaltungseinnahmen
 
-    *   0
+    *   –
 
-    *   0
+    *   –
 
-    *   0
+    *   220
 
 
 *    *
     *   Übrige Einnahmen
 
+    *   1 192 053
+
     *   1 092 233
 
-    *   945 832
-
-    *   896 811
+    *   937 420
 
 
 *    *
     *   Gesamteinnahmen
 
+    *   1 192 0533
+
     *   1 092 233
 
-    *   945 832
+    *   937 640
 
-    *   896 811
 
 
 
@@ -1375,59 +1359,39 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
 *    *   a) Vergütung ERP-Förderrücklage
 
-    *   228 573 T€
+    *   227 980 T€
 
 
 *    *   b) Vergütung der KfW-Gewinnrücklagen I und II
 
-    *   130 219 T€
+    *   128 289 T€
 
 
 *    *   c) Vergütung der ERP-Risikodeckungsmasse
 
-    *   44 387 T€
+    *   57 755 T€
 
 
-*    *   d) Erträge aus Darlehen an Unternehmen
+*    *   d) Zinserträge
 
-    *   193 T€
-
-
-*    *   e) Zinserträge
-
-    *   6 000 T€
+    *   7 113 T€
 
 
 *    *   Summe
 
-    *   409 372 T€
+    *   421 137 T€
 
 
 *    *   Diese Erträge stehen für Fördermaßnahmen im Rahmen des ERP-Wirtschaftsplans zur Verfügung. Die nicht für Förderung in einem Jahr eingesetzten Erträge dienen als Haftkapital für unerwartete Verluste aus der risikotragenden Förderung und zusammen mit dem erwarteten Zuwachs der nicht für die Förderung nutzbaren Vermögensbestandteile des ERP-Sondervermögens in der KfW dem Substanzerhalt.
 
 
-*    *   Um einen dauerhaften Substanzerhalt des ERP-Sondervermögens zu gewährleisten, haben das Bundesministerium für Wirtschaft und Klimaschutz und das Bundesministeriums für Finanzen eine Ausgleichsvereinbarung abgeschlossen, nach der Jahresfehlbeträge zum fortgeschriebenen Gegenwertaufkommen des ERP-Sondervermögens jährlich ausgeglichen werden. Die zum Ausgleich erforderlichen Beträge werden jeweils im Zusammenhang mit der Aufstellung der jährlichen Bilanz des ERP-Sondervermögens ermittelt und mit Wirkung für diese Bilanz gebucht.
+*    *   Um einen dauerhaften Substanzerhalt des ERP-Sondervermögens zu gewährleisten, haben das Bundesministerium für Wirtschaft und Klimaschutz und das Bundesministerium für Finanzen eine Ausgleichsvereinbarung abgeschlossen, nach der Jahresfehlbeträge zum fortgeschriebenen Gegenwertaufkommen des ERP-Sondervermögens jährlich ausgeglichen werden. Die zum Ausgleich erforderlichen Beträge werden jeweils im Zusammenhang mit der Aufstellung der jährlichen Bilanz des ERP-Sondervermögens ermittelt und mit Wirkung für diese Bilanz gebucht.
 
 
 *    *   **Zu Tit. 182 01**
 
 
-*    *   Veranschlagt sind Tilgungen von ERP-Darlehen:
-
-
-*    *   Senator der Finanzen Berlin
-
-    *   1 053 T€
-
-
-*    *   Unternehmen
-
-    *   473 169 T€
-
-
-*    *   Summe
-
-    *   474 222 T€
+*    *   Veranschlagt sind Tilgungen von ERP-Darlehen an Unternehmen: 489 244 T€.
 
 
 *    *   **Zu Tit. 129 01**
@@ -1439,7 +1403,7 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *   **Zu Tit. 231 01**
 
 
-*    *   Der Bundeshaushalt beteiligt sich an den aus den Titeln 892 01 (Finanzierungshilfen zur Unterstützung von Unternehmensgründungen und -übernahmen, zur Leistungssteigerung mittelständischer privater Unternehmen sowie für Exporte der gewerblichen Wirtschaft) und 683 01 (Förderkosten aus Zusagen bis zum 31.12.2022 sowie sonstige Verpflichtungen aus der Neuordnung der ERP-Wirtschaftsförderung) des ERP-Wirtschaftsplans im Rahmen der ERP-Innovationsfinanzierung gewährten Zinszuschüssen. Die vom Bundeshaushalt dem ERP-Sondervermögen zu erstattenden Beträge werden bei diesem Titel vereinnahmt.
+*    *   Der Bundeshaushalt beteiligt sich an den aus den Titeln 892 01 (Finanzierungshilfen zur Unterstützung von Unternehmensgründungen und -übernahmen und zur Leistungssteigerung mittelständischer privater Unternehmen sowie für Exporte der gewerblichen Wirtschaft) und 683 01 (Förderkosten aus Zusagen bis zum 31.12.2024 sowie sonstige Verpflichtungen aus der Neuordnung der ERP-Wirtschaftsförderung) des ERP-Wirtschaftsplans im Rahmen der ERP-Innovationsfinanzierung gewährten Zinszuschüssen. Die vom Bundeshaushalt dem ERP-Sondervermögen zu erstattenden Beträge werden bei diesem Titel vereinnahmt.
 
 
 *    *   **Zu Tit. 272 01**
@@ -1459,8 +1423,9 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
 
 
-## **Abschluss**
 
+
+## **Abschluss**
 
 *    *   Ka-
         pitel
@@ -1504,15 +1469,17 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *   Investitions- und
         Exportfinanzierung
 
-    *   945 486
+    *   961 357
 
-    *   1 091 333
+    *   1 191 033
 
-    *
-    *
-    *   7 233
+    *   –
 
-    *   1 084 100
+    *   –
+
+    *   7 333
+
+    *   1 183 700
 
 
 *    *   2
@@ -1520,50 +1487,44 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *   Sonstige Ausgaben/
         Einnahmen
 
-    *   146 747
+    *   230 696
 
-    *   900
+    *   1 020
 
-    *   900
+    *   1 020
 
-    *   0
+    *   –
 
-    *
-    *
+    *   –
+
+    *   –
+
 
 *    *
     *
-    *   1 092 233
+    *   1 192 053
 
-    *   1 092 233
+    *   1 192 053
 
-    *   900
+    *   1 020
 
-    *   0
+    *   –
 
     *   7 233
 
-    *   1 084 100
+    *   1 183 700
 
 
 *    *
     *
     *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
 
 
-   ### **Anlage 1**
 
+
+
+   Anlage 1
 ## **Übersicht über die Verpflichtungen und Verpflichtungsermächtigungen aus Kapitel 1**
-
 
 *    *   Titel sowie Zweckbestimmung
         (stichwortartig)
@@ -1571,28 +1532,28 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *   Aus-
         gaben-
         soll
-        2024
+        2025
 
     *   a) Bis einschl.
-        31\.12.2022
+        31\.12.2023
         eingegangene
         Verpflichtungen
-        fällig ab 2024
-        b) VE 2023
-        c) VE 2024
+        fällig ab 2025
+        b) VE 2024
+        c) VE 2025
 
     *   davon fällig
 
 
-*    *   2024
-
-    *   2025
+*    *   2025
 
     *   2026
 
     *   2027
 
-    *   2028 ff.
+    *   2028
+
+    *   2029 ff.
 
 
 *    *   in Mio. €
@@ -1619,7 +1580,7 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   Mittelständische Unternehmen, Exportfinanzierung
 
-    *   64,5
+    *   61,6
 
     *   a)
 
@@ -1659,38 +1620,38 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
     *   c)
 
-    *   377,200
+    *   252,300
 
     *   –
 
-    *   72,600
+    *   54,300
 
-    *   72,500
+    *   45,100
 
-    *   61,400
+    *   39,200
 
-    *   170,700
+    *   113,700
 
 
 *    *   683 01
 
     *   Förderkosten
 
-    *   219,3
+    *   219,6
 
     *   a)
 
-    *   1 825,600
+    *   274,700
 
-    *   145,900
+    *   49,500
 
-    *   130,100
+    *   39,200
 
-    *   118,700
+    *   38,000
 
-    *   108,100
+    *   30,700
 
-    *   1 322,800
+    *   117,300
 
 
 *    *
@@ -1698,17 +1659,17 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
     *   b)
 
-    *   313,900
+    *   137,600
 
-    *   67,900
+    *   26,900
 
-    *   65,500
+    *   20,700
 
-    *   53,000
+    *   18,700
 
-    *   38,200
+    *   15,200
 
-    *   89,300
+    *   56,100
 
 
 *    *
@@ -1716,17 +1677,17 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
     *   c)
 
-    *   2 041,300
+    *   2121,200
 
     *   –
 
-    *   201,200
+    *   203,000
 
-    *   177,300
+    *   188,700
 
-    *   151,800
+    *   164,100
 
-    *   1 511,100
+    *   1565,400
 
 
 *    *   682 01
@@ -1734,17 +1695,17 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *   Förderkosten für die
         KfW Capital
 
-    *   30,3
+    *   42,5
 
     *   a)
 
-    *   0
+    *   –
 
-    *   0
+    *   –
 
-    *   0
+    *   –
 
-    *   0
+    *   –
 
     *   –
 
@@ -1756,27 +1717,7 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
     *   b)
 
-    *   73,800
-
-    *   17,200
-
-    *   18,400
-
-    *   19,000
-
-    *   19,200
-
-    *   –
-
-
-*    *
-    *
-    *
-    *   c)
-
     *   137,600
-
-    *   –
 
     *   32,500
 
@@ -1786,20 +1727,40 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   35,000
 
+    *   –
+
+
+*    *
+    *
+    *
+    *   c)
+
+    *   192,100
+
+    *   –
+
+    *   46,000
+
+    *   47,700
+
+    *   49,400
+
+    *   49,000
+
 
 *    *   681 02
 
     *   Gewährung von Stipendien und Förderung von Informationsreisen
 
-    *   3,6
+    *   3,7
 
     *   a)
 
-    *   –
+    *   1,660
 
-    *   –
+    *   0,830
 
-    *   –
+    *   0,830
 
     *   –
 
@@ -1813,13 +1774,13 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
     *   b)
 
-    *   4,650
+    *   6,460
 
-    *   1,550
+    *   2,210
 
-    *   1,550
+    *   2,210
 
-    *   1,550
+    *   2,040
 
     *   –
 
@@ -1831,15 +1792,15 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
     *   c)
 
-    *   6,460
+    *   0,160
 
     *   –
 
-    *   2,210
+    *   0,080
 
-    *   2,210
+    *   0,080
 
-    *   2,040
+    *   –
 
     *   –
 
@@ -1853,11 +1814,11 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   a)
 
-    *   1,557
+    *   1,678
 
-    *   0,805
+    *   1,140
 
-    *   0,752
+    *   0,538
 
     *   –
 
@@ -1871,11 +1832,11 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
     *   b)
 
-    *   5,800
-
-    *   2,000
+    *   5,100
 
     *   1,500
+
+    *   1,300
 
     *   1,300
 
@@ -1905,21 +1866,21 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *
     *   Summe
 
-    *   321,3
+    *   331,033
 
     *   a)
 
-    *   1 827,157
+    *   278,038
 
-    *   146,705
+    *   51,470
 
-    *   130,852
+    *   40,568
 
-    *   118,700
+    *   38,000
 
-    *   108,100
+    *   30,700
 
-    *   1 322,800
+    *   117,300
 
 
 *    *
@@ -1927,17 +1888,17 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
     *   b)
 
-    *   398,150
+    *   286,760
 
-    *   88,650
+    *   63,110
 
-    *   86,950
+    *   58,810
 
-    *   74,850
+    *   57,540
 
-    *   58,400
+    *   51,200
 
-    *   89,300
+    *   56,100
 
 
 *    *
@@ -1945,49 +1906,50 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
     *   c)
 
-    *   2 567,660
+    *   2 570,860
 
     *   –
 
-    *   310,010
+    *   304,880
 
-    *   287,910
+    *   282,880
 
-    *   252,040
+    *   254,000
 
-    *   1 717,800
+    *   1 729,100
 
 
 *    *   682 02
 
-    *   Kooperationsprojekte
+    *   Kooperations-
+        projekte
 
-    *   770,0
+    *   860
 
     *   a)
 
-    *   2 164,700
-
-    *
-    *
-    *   2023 ff. :
-
-    *   2 164,700
-
-    *
-
-*    *
-    *
-    *
-    *   b)
-
-    *   3 488,900
+    *   2 188,10
 
     *
     *
     *   2024 ff. :
 
-    *   3 488,900
+    *   2 188,10
+
+    *
+
+*    *
+    *
+    *
+    *   b)
+
+    *   4 290,30
+
+    *
+    *
+    *   2025 ff. :
+
+    *   4 290,30
 
     *
 
@@ -1996,31 +1958,32 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
     *   c)
 
-    *   4 290,300
+    *   4 525,90
 
     *
     *
-    *   2025 ff. :
+    *   2026 ff. :
 
-    *   4 290,300
+    *   4 525,90
 
     *
 
 
-   ### **Anlage 2**
 
-## **Nachweisung des ERP-Sondervermögens nach dem Stand vom 31. Dezember 2022**
 
-**Aktivseite**
+
+   Anlage 2
+**Nachweisung des ERP-Sondervermögens nach dem Stand vom 31. Dezember 2023**
+## **Aktivseite**
 
 *    *
     *
     *
     *
-    *   2022
+    *   2023
         EUR
 
-    *   2021
+    *   2022
         EUR
 
 
@@ -2036,16 +1999,16 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   Guthaben bei Kreditinstituten
 
-    *   282 872 554,51
+    *   315 351 908,16
 
     *
-    *   138 167 631,67
+    *   282 872 554,51
 
 
 *    *
     *   2.
 
-    *   Anlage bei Fondsgesellschaften
+    *   Anlage in Spezialfonds
 
     *   1 656 258 715,11
 
@@ -2058,10 +2021,10 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   Anlage bei Unternehmen
 
-    *   17 379 484,09
+    *   11 350 201,03
 
     *
-    *   25 113 337,56
+    *   17 379 484,09
 
 
 *    *
@@ -2070,10 +2033,10 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *   Gesonderter Finanzierungsblock
         „Mikromezzaninfonds Deutschland I“
 
-    *   48 831 395,28
+    *   47 575 245,06
 
     *
-    *   49 059 899,60
+    *   48 831 395,28
 
 
 *    *
@@ -2082,45 +2045,165 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *   Gesonderter Finanzierungsblock
         „Mikromezzaninfonds Deutschland II“
 
+    *   62 559 646,71
+
+    *   2 093 095 716,07
+
     *   66 237 376,46
-
-    *   2 071 579 525,45
-
-    *   68 682 353,06
 
 
 *    *   **B.**
 
     *   **Darlehensforderungen**
 
-    *   848 031 992,56
+    *   981 951 902,98
 
-    *   807 795 338,72
+    *   848 031 992,56
 
 
 *    *   **C.**
 
-    *   **Rechnungsabgrenzung**
+    *   **Sonstige Forderungen**
 
     *
-    *   0,00
+    *   314 530 370,39
 
-    *   0,00
+    *   464 122 011,77
 
 
 *    *   **D.**
 
-    *   **Sonstige Forderungen**
+    *   **Beteiligung an Fonds**
 
     *
-    *   464 122 011,77
+    *
+    *
 
-    *   601 056 773,26
+*    *
+    *   1.
+
+    *   High-Tech Gründerfonds I
+
+    *   24 163 901,57
+
+    *
+    *   26 722 114,51
+
+
+*    *
+    *   2.
+
+    *   High-Tech Gründerfonds II
+
+    *   59 378 680,05
+
+    *
+    *   69 417 356,27
+
+
+*    *
+    *   3.
+
+    *   High-Tech Gründerfonds III
+
+    *   68 988 760,74
+
+    *
+    *   60 314 197,02
+
+
+*    *
+    *   4.
+
+    *   High-Tech-Gründerfonds IV
+
+    *   17 576 588,87
+
+    *
+    *   3 412 287,96
+
+
+*    *
+    *   5.
+
+    *   coparion
+
+    *   119 943 710,65
+
+    *
+    *   121 871 371,43
+
+
+*    *
+    *   6.
+
+    *   Earlybird Health GmbH & Co. Beteiligungs KG
+
+    *   12 829 690,86
+
+    *
+    *   12 066 892,36
+
+
+*    *
+    *   7.
+
+    *   eCAPITAL IV
+
+    *   5 909 560,64
+
+    *
+    *   5 640 899,49
+
+
+*    *
+    *   8.
+
+    *   Cybersecurity Fonds
+
+    *   5 014 872,57
+
+    *
+    *   4 703 696,14
+
+
+*    *
+    *   9.
+
+    *   Brockhaus Private Equity
+
+    *   1,00
+
+    *
+    *   1,00
+
+
+*    *
+    *   10.
+
+    *   Obermark
+
+    *   14 431 410,49
+
+    *
+    *   18 764 490,49
+
+
+*    *
+    *   11.
+
+    *   DeepTech & Climate Fonds
+
+    *   7 079 852,03
+
+    *   335 317 029,47
+
+    *   5 150 000,00
 
 
 *    *   **E.**
 
-    *   **Beteiligungen**
+    *   **Beteiligung an der KfW**
 
     *
     *
@@ -2140,8 +2223,7 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *
     *   2.
 
-    *   KfW-Rücklage aus Mitteln des
-        ERP-SV
+    *   KfW-Rücklage aus Mitteln des ERP-Sondervermögens
 
     *   1 190 752 106,00
 
@@ -2165,10 +2247,10 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   Sonderrücklage I
 
-    *   1 917 081 227,52
+    *   2 100 737 258,88
 
     *
-    *   1 783 531 429,77
+    *   1 917 081 227,52
 
 
 *    *
@@ -2176,10 +2258,10 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   ERP-Gewinnrücklage I
 
-    *   1 758 479 618,15
+    *   1 638 970 673,93
 
     *
-    *   1 909 575 857,04
+    *   1 758 479 618,15
 
 
 *    *
@@ -2187,10 +2269,10 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   ERP-Gewinnrücklage II
 
-    *   979 555 314,04
+    *   1 083 564 015,22
 
     *
-    *   903 922 943,55
+    *   979 555 314,04
 
 
 *    *
@@ -2198,10 +2280,10 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   ERP-Risikodeckungsmasse
 
-    *   1 339 912 002,72
+    *   1 747 995 859,93
 
     *
-    *   924 635 837,58
+    *   1 339 912 002,72
 
 
 *    *
@@ -2209,10 +2291,10 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   Sonstige Sonderrücklage II
 
-    *   3 448 495 897,70
+    *   3 673 832 239,53
 
     *
-    *   3 284 637 283,02
+    *   3 448 495 897,70
 
 
 *    *
@@ -2233,150 +2315,27 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   615 270 642,68
 
-    *
+    *   20 898 279 858,61
+
     *   615 270 642,68
 
 
-*    *
-    *   11.
+*    *   **F.**
 
-    *   High-Tech Gründerfonds I
-
-    *   26 722 114,51
-
-    *
-    *   37 026 648,41
-
-
-*    *
-    *   12.
-
-    *   High-Tech Gründerfonds II
-
-    *   69 417 356,27
-
-    *
-    *   83 295 514,09
-
-
-*    *
-    *   13.
-
-    *   High-Tech Gründerfonds III
-
-    *   60 314 197,02
-
-    *
-    *   47 874 694,29
-
-
-*    *
-    *   14.
-
-    *   High-Tech-Gründerfonds IV
-
-    *   3 412 287,96
-
-    *
-    *   0,00
-
-
-*    *
-    *   15.
-
-    *   High-Tech-Gründerfonds Wachstumsfazilität
+    *   **Rechnungsabgrenzung**
 
     *   0,00
 
-    *
     *   0,00
-
-
-*    *
-    *   16.
-
-    *   coparion
-
-    *   121 871 371,43
-
-    *
-    *   104 362 276,09
-
-
-*    *
-    *   17.
-
-    *   Earlybird Health GmbH & Co. Beteiligungs KG
-
-    *   12 066 892,36
-
-    *
-    *   10 550 504,53
-
-
-*    *
-    *   18.
-
-    *   eCAPITAL IV
-
-    *   5 640 899,49
-
-    *
-    *   5 049 015,72
-
-
-*    *
-    *   19.
-
-    *   Cybersecurity Fonds
-
-    *   4 703 696,14
-
-    *
-    *   3 735 679,26
-
-
-*    *
-    *   20.
-
-    *   Brockhaus Private Equity
-
-    *   1,00
-
-    *
-    *   2 223 041,00
-
-
-*    *
-    *   21.
-
-    *   Obermark
-
-    *   18 764 490,49
-
-    *
-    *   22 995 847,27
-
-
-*    *
-    *   21.
-
-    *   Deep-Tech Climate Fonds
-
-    *   5 150 000,00
-
-    *   20 424 767 177,92
-
-    *   445 113,91
 
 
 *    *
     *   Summe der Aktiva
 
     *
-    *   23 808 500 707,70
+    *   24 623 174 877,52
 
-    *   23 123 175 545,63
+    *   23 808 500 707,70
 
 
 *    *
@@ -2385,6 +2344,7 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
     *
     *
+
 
 
 
@@ -2394,10 +2354,10 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
     *
     *
-    *   2022
+    *   2023
         EUR
 
-    *   2021
+    *   2022
         EUR
 
 
@@ -2413,10 +2373,10 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   Rückstellung Förderlasten
 
-    *   612 760 737,61
+    *   678 605 469,72
 
     *
-    *   521 169 289,23
+    *   612 760 737,61
 
 
 *    *
@@ -2448,7 +2408,7 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
     *   0,00
 
-    *   612 760 737,61
+    *   678 605 469,72
 
     *   0,00
 
@@ -2461,51 +2421,39 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
     *
 
 *    *
+    *   1.
+
     *   Verbindlichkeiten aus ERP-Förderlast
 
+    *   5 558 297,44
+
+    *
     *   5 912 703,02
 
-    *
-    *   3 679 543,09
-
 
 *    *
+    *   2.
+
     *   Verbindlichkeiten gegenüber dem gesonderten Finanzierungsblock Mikromezzaninfonds
 
-    *   48 831 395,28
+    *   47 575 245,06
 
     *
-    *   49 059 899,60
+    *   48 831 395,28
 
 
 *    *
+    *   3.
+
     *   Verbindlichkeiten gegenüber dem
         gesonderten Finanzierungsblock
         Mikromezzaninfonds II
 
+    *   62 559 646,71
+
+    *   115 693 189,21
+
     *   66 237 376,46
-
-    *
-    *   68 682 353,06
-
-
-*    *
-    *   Sonstige Verbindlichkeiten
-
-    *   0,00
-
-    *
-    *   0,00
-
-
-*    *
-    *   Verwahrungen
-
-    *   0,00
-
-    *   120 981 474,76
-
-    *   0,00
 
 
 *    *   **C.**
@@ -2518,37 +2466,37 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 *    *
     *   Vermögensbestand 01.01.
 
-    *   22 480 584 460,65
+    *   23 074 758 495,33
 
     *
-    *   21 154 586 678,24
+    *   22 480 584 460,65
 
 
 *    *
     *   Gewinn/Verlust
 
-    *   594 174 034,68
+    *   754 117 723,26
 
     *
-    *   1 325 997 782,41
+    *   594 174 034,68
 
 
 *    *
     *   Vermögensbestand 31.12.
 
     *
-    *   23 074 758 495,33
+    *   23 828 876 218,59
 
-    *   22 480 584 460,65
+    *   23 074 758 495,33
 
 
 *    *
     *   Summe Passiva
 
     *
-    *   23 808 500 707,70
+    *   24 623 174 877,52
 
-    *   23 123 175 545,63
+    *   23 808 500 707,70
 
 
 *    *
@@ -2560,17 +2508,22 @@ Dieses Gesetz tritt am 1. Januar 2024 in Kraft.
 
 
 
-   ### **Anlage 3**
 
-## **Bericht der KfW gemäß § 8 des ERP-Verwaltungsgesetzes über die Verwendung des eingebrachten Eigenkapitals und des gewährten Nachrangdarlehens**
 
-Im Jahr 2022 wurde in der Mittelstandsfinanzierung aus den ERP-Förderprogrammen ein Finanzierungsvolumen von rd. 8,9 Mrd. Euro gebunden, die Förderlast belief sich im genannten Zeitraum auf 109,2 Mio. Euro.
+*    *   Anlage 3
+        ## **Bericht der KfW gemäß § 8 des ERP-Verwaltungsgesetzes über die Verwendung des eingebrachten Eigenkapitals und des gewährten Nachrangdarlehens**
+
+
+
+
+
+Im Jahr 2023 wurde in der Mittelstandsfinanzierung aus den ERP-Förderprogrammen ein Finanzierungsvolumen von rd. 9,2 Mrd. Euro gebunden, die Förderlast belief sich im genannten Zeitraum auf 219,4 Mio. Euro.
 
 Die ERP-Förderrücklage wird im Rahmen dieses Finanzierungsbedarfs eingesetzt, darüber hinaus dient sie als Eigenkapital der risikoseitigen Unterlegung der ERP-Förderkredite.
 
-Das seit 2007 im Rahmen der Neuordnung der ERP-Wirtschaftsförderung eingebrachte Kapital hat die KfW für den Zeitraum vom 01.01. bis 31.12.2022 vertragsgemäß wie folgt vergütet:
+Das seit 2007 im Rahmen der Neuordnung der ERP-Wirtschaftsförderung eingebrachte Kapital hat die KfW für den Zeitraum vom 01.01. bis 31.12.2023 vertragsgemäß wie folgt vergütet:
 
-•   Vergütung der ERP-Förderrücklage gemäß § 8 des „Durchführungsvertrages 2019“ durch Teilnahme der Rücklagen an der jährlichen Verteilung des nach den Vorabdotierungen verbleibenden handelsrechtlichen Jahresergebnisses der KfW.
+•   Vergütung der ERP-Förderrücklage gemäß § 8 des „Durchführungsvertrages 2019“ durch Teilnahme der Rücklagen an der jährlichen Verteilung des nach den Vorabdotierungen verbleibenden handelsrechtlichen Jahresergebnisses der KfW.
 
 
 •   Die in den Vorjahren nicht zur ERP-Förderung eingesetzten anteiligen Jahresergebnisse werden einer separaten Gewinnrücklage zugeführt (ERP-Gewinnrücklagen I), die für die ERP-Förderung in Folgejahren eingesetzt werden können.
@@ -2584,28 +2537,28 @@ Das seit 2007 im Rahmen der Neuordnung der ERP-Wirtschaftsförderung eingebracht
 
 
 
-Die entsprechenden Anteile am zu verteilenden Jahresüberschuss der KfW beliefen sich für das Geschäftsjahr 2022 auf 373,4 Mio. Euro und verteilten sich wie folgt auf die ERP-Rücklagen:
+Die entsprechenden Anteile am zu verteilenden Jahresüberschuss der KfW beliefen sich für das Geschäftsjahr 2023 auf 507,9 Mio. Euro und verteilten sich wie folgt auf die ERP-Rücklagen:
 
-•   264,7 Mio. Euro für die ERP-Förderrücklage
-
-
-•   73,2 Mio. Euro für die ERP-Gewinnrücklage I
+•   350,5 Mio. Euro für die ERP-Förderrücklage
 
 
-•   35,5 Mio. Euro für die ERP-Risikodeckungsmasse
+•   89,3 Mio. Euro für die ERP-Gewinnrücklage I
 
 
-
-
-Diese zur Abdeckung der ERP-Förderlasten 2022 zur Verfügung stehenden Erträge aus dem in die KfW eingebrachten Kapital wurden wie folgt eingesetzt:
-
-1.  Abdeckung der Förderlasten aus der ERP-Wirtschaftsförderung 2022 in Höhe von 109,2 Mio. Euro.
-
-
-2.  Die danach verbleibenden Mittel in Höhe von 264,2 Mio. Euro wurden gemäß den vertraglichen Regelungen der ERP-Gewinnrücklage I zugeführt. Da das ERP-Beteiligungsvolumen der KfW Capital in Höhe von 1 339,9 Mio. Euro den Saldo vom 31.12.2021 von 924,6 Mio. Euro übersteigt, war eine Dotierung der ERP-Risikodeckungsmasse zum 31.12.2022 mit 415,3 Mio. Euro zulasten der ERP-Gewinnrücklage I erforderlich. Hiernach beläuft sich der Saldo der ERP-Gewinnrücklage I zum 31.12.2022 auf 1 758,5 Mio. Euro. Der Saldo der ERP-Risikodeckungsmasse zum 31.12.2022 beläuft sich auf 1 339,9 Mio. Euro.
+•   68,1 Mio. Euro für die ERP-Risikodeckungsmasse
 
 
 
 
-Somit wurden die aus dem eingebrachten Kapital erzielten Erträge für die ERP-Förderung eingesetzt bzw. dem ERP-Sondervermögen zugeführt. Die Ordnungsmäßigkeit der Berichterstattung zum 31.12.2022 wird vertragsgemäß durch einen Wirtschaftsprüfer geprüft und bestätigt.
+Diese zur Abdeckung der ERP-Förderlasten 2023 zur Verfügung stehenden Erträge aus dem in die KfW eingebrachten Kapital wurden wie folgt eingesetzt:
+
+1.  Abdeckung der Förderlasten aus der ERP-Wirtschaftsförderung 2023 in Höhe von 219,4 Mio. Euro.
+
+
+2.  Die danach verbleibenden Mittel in Höhe von 288,6 Mio. Euro wurden gemäß den vertraglichen Regelungen der ERP-Gewinnrücklage I zugeführt. Da das ERP-Beteiligungsvolumen der KfW Capital in Höhe von 1 748,0 Mio. Euro den Saldo vom 31.12.2022 von 1 339,9 Mio. Euro übersteigt, war eine Dotierung der ERP-Risikodeckungsmasse zum 31.12.2023 mit 408,1 Mio. Euro zulasten der ERP-Gewinnrücklage I erforderlich. Hiernach beläuft sich der Saldo der ERP-Gewinnrücklage I zum 31.12.2023 auf 1 639,0 Mio. Euro. Der Saldo der ERP-Risikodeckungsmasse zum 31.12.2023 beläuft sich auf 1 748,0 Euro.
+
+
+
+
+Somit wurden die aus dem eingebrachten Kapital erzielten Erträge für die ERP-Förderung eingesetzt bzw. dem ERP-Sondervermögen zugeführt. Die Ordnungsmäßigkeit der Berichterstattung zum 31.12.2023 wird vertragsgemäß durch einen Wirtschaftsprüfer geprüft und bestätigt.
 

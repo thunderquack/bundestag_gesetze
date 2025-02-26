@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 1506
 
+Geändert durch
+:   Art. 4 G v. 21.02.2025 I Nr. 55
+
 Stand: Ersetzt V 51-3-4 v. 18.3.1997 I 558 (SBGWV)
 
 ## Kapitel 1 - Wahl der Vertrauenspersonen

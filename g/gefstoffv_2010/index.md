@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1643, 1644
 
 Zuletzt geändert durch
-:   Art. 2 V v. 21.7.2021 I 3115
-
-Änderung durch
-:   Art. 1 V v. 2.12.2024 I Nr. 384 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 2.12.2024 I Nr. 384
 
 [^F774705_01_BJNR164400010]:     Artikel 1 dieser Verordnung dient der Umsetzung folgender Richtlinien:                                 –                                    Richtlinie 98/24/EG des Rates vom 7. April 1998 zum Schutz von Gesundheit und Sicherheit der Arbeitnehmer vor der Gefährdung durch chemische Arbeitsstoffe bei der Arbeit (ABl. L 131 vom 5.5.1998, S. 11), die durch die Richtlinie 2007/30/EG (ABl. L 165 vom 27.6.2007, S. 21) geändert worden ist,
 
