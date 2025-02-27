@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 427
 
 Zuletzt geändert durch
-:   Art. 2 V v. 17.12.2020 I 3011
-
-Änderung durch
-:   Art. 1 V v. 19.2.2025 I Nr. 49 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 19.2.2025 I Nr. 49
 
 
 ## § 1 Geltungsbereich

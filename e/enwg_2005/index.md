@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 23.12.2024 I Nr. 448
 
+Änderung durch
+:   Art. 1 G v. 21.2.2025 I Nr. 51 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand: Das G ist gem. Art. 5 Abs. 1 G v. 7.7.2005 I 1970 am 13.7.2005 in Kraft getreten
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/54/EG des Europäischen Parlaments und des Rates vom 26. Juni 2003 über gemeinsame Vorschriften für den Elektrizitätsbinnenmarkt und zur Aufhebung der Richtlinie 96/92/EG (ABl. EU Nr. L 176 S. 37), der Richtlinie 2003/55/EG des Europäischen Parlaments und des Rates vom 26. Juni 2003 über gemeinsame Vorschriften für den Erdgasbinnenmarkt und zur Aufhebung der Richtlinie 98/30/EG (ABl. EU Nr. L 176 S. 57), der Richtlinie 2004/67/EG des Rates vom 26. April 2004 über Maßnahmen zur Gewährleistung der sicheren Erdgasversorgung (ABl. EU Nr. L 127 S. 92) und der Richtlinie 2006/32/EG des Europäischen Parlaments und des Rates vom 5. April 2006 über Endenergieeffizienz und Energiedienstleistungen und zur Aufhebung der Richtlinie 93/76/EWG des Rates (ABl. EU Nr. L 114 S. 64).
 
@@ -1307,6 +1310,72 @@ Die Errichtung und der Betrieb von Anlagen zur Speicherung elektrischer Energie 
 
 (2) Betreiber von Übertragungsnetzen haben Betreibern eines anderen Netzes, mit dem die eigenen Übertragungsnetze technisch verbunden sind, die notwendigen Informationen bereitzustellen, um den sicheren und effizienten Betrieb, den koordinierten Ausbau und den Verbund sicherzustellen.
 
+(2a) Jeder Betreiber eines Elektrizitätsversorgungsnetzes muss sicherstellen, dass er jederzeit in der Lage ist, für die folgenden, an sein Netz angeschlossenen Anlagen Anpassungen nach § 13a Absatz 1, auch in Verbindung mit § 14 Absatz 1, vorzunehmen und die jeweilige Ist-Einspeisung abzurufen:
+
+1.  Anlagen zur Erzeugung oder Speicherung von elektrischer Energie mit einer Nennleistung ab 100 Kilowatt sowie
+
+
+2.  Anlagen zur Erzeugung oder Speicherung von elektrischer Energie, die durch einen Betreiber eines Elektrizitätsversorgungsnetzes jederzeit fernsteuerbar sind.
+
+
+
+
+(2b) Zum Zwecke des Nachweises der Erfüllung der Pflichten nach Absatz 2a hat jeder Betreiber eines Elektrizitätsversorgungsnetzes jährlich Anpassungen nach § 13a Absatz 1, auch in Verbindung mit § 14 Absatz 1, sowie Abrufe der Ist-Einspeisung testweise vorzunehmen, wobei Anlagen mit einer Nennleistung von unter 100 Kilowatt erst ab dem 1. Januar 2026 einzubeziehen sind. Jeder grundzuständige Messstellenbetreiber im Sinne des § 2 Satz 1 Nummer 4 des Messstellenbetriebsgesetzes hat jährlich den Stand der Erfüllung der Pflichten zur Ausstattung von Messstellen mit intelligenten Messsystemen und Steuerungseinrichtungen nach § 29 Absatz 1 Nummer 2 in Verbindung mit § 45 Absatz 1 des Messstellenbetriebsgesetzes in dem Netzgebiet, auf das sich seine Grundzuständigkeit erstreckt, zu überprüfen und das Ergebnis des aktuellen Stands dem Betreiber von Energieversorgungsnetzen des jeweiligen Netzgebiets zu übermitteln. Jeder Betreiber eines Elektrizitätsverteilernetzes hat die Ergebnisse der von ihm nach Satz 1 durchzuführenden Tests und die nach Satz 2 von dem grundzuständigen Messstellenbetreiber an ihn übermittelten Ergebnisse dem ihm jeweils vorgelagerten Betreiber eines Elektrizitätsversorgungsnetzes schriftlich oder elektronisch zu übermitteln. Der jeweils vorgelagerte Betreiber eines Elektrizitätsversorgungsnetzes muss die Ergebnisse nach den Sätzen 1 und 2 einer Plausibilitätsprüfung unterziehen und deren jeweiliges Ergebnis dem ihm nachgelagerten Betreiber eines Elektrizitätsversorgungsnetzes und dem grundzuständigen Messstellenbetreiber schriftlich oder elektronisch übermitteln. Der Betreiber eines Elektrizitätsverteilernetzes, der einem Betreiber eines Übertragungsnetzes mit Regelzonenverantwortung unmittelbar nachgelagert ist, hat diesem Betreiber eines Übertragungsnetzes mit Regelzonenverantwortung zusätzlich zu den nach Satz 3 zu übermittelnden Ergebnissen, die in seinem Netzgebiet ermittelt wurden, auch die Ergebnisse nach den Sätzen 1 und 2 der ihm jeweils nachgelagerten Betreiber von Elektrizitätsverteilernetzen sowie die Ergebnisse der von diesen durchgeführten Plausibilitätsprüfungen schriftlich oder elektronisch zu übermitteln.
+
+(2c) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung sind verpflichtet, auf der Grundlage der Ergebnisse nach Absatz 2b Satz 1 und 2 gemeinsam einen Gesamtbericht zu erstellen und bis zum Ablauf des 30. Novembers eines jeden Kalenderjahres, erstmals zum Ablauf des 30. November 2025, der Bundesnetzagentur und dem Bundesministerium für Wirtschaft und Klimaschutz vorzulegen. Dieser Gesamtbericht umfasst
+
+1.  die Ergebnisse der nach Absatz 2b Satz 1 durchgeführten Tests und der nach Absatz 2b Satz 2 durchgeführten Überprüfungen, einschließlich der jeweils durchgeführten Plausibilitätsprüfungen,
+
+
+2.  eine Bewertung des Umfangs der Erfüllung der Verpflichtungen nach Absatz 2a und der Verpflichtungen nach § 29 Absatz 1 Nummer 2 in Verbindung mit § 45 Absatz 1 des Messstellenbetriebsgesetzes sowie
+
+
+3.  Handlungsempfehlungen zur Verbesserung der eigenen Steuerungsfähigkeit der Betreiber von Übertragungsnetzen und derjenigen der ihnen unmittelbar oder mittelbar nachgelagerten Betreiber von Elektrizitätsverteilernetzen.
+
+
+
+Jeder Betreiber eines Elektrizitätsverteilernetzes und jeder grundzuständige Messstellenbetreiber ist verpflichtet, an der Erstellung des Gesamtberichts mitzuwirken. Die Bundesnetzagentur veröffentlicht spätestens drei Monate nach Eingang des Gesamtberichts diejenigen Abschnitte des Gesamtberichts, die die nach Satz 2 Nummer 2 und 3 genannten Inhalte enthalten.
+
+(2d) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung haben auf ihrer jeweiligen Internetseite spätestens zum 25. April 2025 einheitliche Leitlinien für die Betreiber von Elektrizitätsversorgungsnetzen und grundzuständigen Messstellenbetreiber zu veröffentlichen
+
+1.  zum Ablauf der Tests nach Absatz 2b Satz 1 in Abhängigkeit von der Anlagengröße, der Spannungsebene und den unterschiedlichen technischen Einrichtungen, die sowohl zum Abruf der Ist-Einspeisung als auch zur Steuerung der Wirkleistungs- und Blindleistungserzeugung oder des Wirkleistungsbezugs genutzt werden,
+
+
+2.  zum Ablauf der Überprüfungen nach Absatz 2b Satz 2 sowie
+
+
+3.  zur Erfassung, Aufbereitung und Weiterleitung der Daten, insbesondere im Hinblick auf den zeitlichen Ablauf und zum Datenformat.
+
+
+
+Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung können die einheitlichen Leitlinien innerhalb von zwei Monaten nach Vorlage des jeweiligen Gesamtberichts nach Absatz 2c Satz 1 anpassen und auf ihrer jeweiligen Internetseite veröffentlichen.
+
+(2e) Wenn der Betreiber eines Elektrizitätsverteilernetzes, der einem anderen Betreiber eines Elektrizitätsverteilernetzes nachgelagert ist, dauerhaft oder wiederholt gegen seine Pflichten nach Absatz 2a verstößt, kann ihm die Bundesnetzagentur in Anwendung des § 65 Absatz 2 insbesondere die Pflicht nach § 13a Absatz 1 in Verbindung mit § 14 Absatz 1 zur ferngesteuerten Regelung von Anlagen zur Erzeugung oder Speicherung von elektrischer Energie, die an ein nachgelagertes Elektrizitätsverteilernetz angeschlossen sind, sowie die Pflicht zur Ausübung der Betriebsführung, soweit diese im unmittelbaren Zusammenhang mit der ferngesteuerten Regelung von Anlagen zur Erzeugung oder Speicherung elektrischer Energie steht, entziehen und auf den ihm vorgelagerten Betreiber eines Elektrizitätsverteilernetzes übertragen. Die Verpflichtung von Anlagenbetreibern, die Ansteuerbarkeit und Sichtbarkeit einer von ihnen betriebenen Anlage gegenüber dem Betreiber eines Elektrizitätsversorgungsnetzes, an dessen Netz sie angeschlossen ist, sicherzustellen, besteht im Falle einer Übertragung nach Satz 1 auch im Verhältnis zu dem vorgelagerten Betreiber eines Elektrizitätsverteilernetzes. Weist der nachgelagerte Betreiber eines Elektrizitätsverteilernetzes die nach Absatz 2a geforderte Fähigkeit, Anpassungen vorzunehmen und die Ist-Einspeisung abzurufen, gegenüber der Bundesnetzagentur nach, so kann die Bundesnetzagentur die Aufgaben nach Satz 1 an diesen zurückübertragen.
+
+(2f) Das Bundesministerium für Wirtschaft und Klimaschutz überprüft bis zum Ablauf des 31. Dezember 2033 die praktische Anwendung und die Notwendigkeit einer Weitergeltung der Regelungen in den Absätzen 2b bis 2e.
+
+(2g) Die Bundesnetzagentur kann dem grundzuständigen Messstellenbetreiber die Grundzuständigkeit nach § 2 Satz 1 Nummer 5 des Messstellenbetriebsgesetzes entziehen und die Einsetzung eines Auffangmessstellenbetreibers im Sinne des § 11 Absatz 3 Satz 1 des Messstellenbetriebsgesetzes anordnen, wenn
+
+1.  sich aus den Ergebnissen des Gesamtberichts nach Absatz 2c ergibt, oder die Bundesnetzagentur auf anderem Wege hiervon Kenntnis erlangt, dass die Ausstattungsverpflichtungen nach § 29 Absatz 1 Nummer 2 in Verbindung mit § 45 Absatz 1 des Messstellenbetriebsgesetzes in dem Netzgebiet eines grundzuständigen Messstellenbetreibers um mindestens 25 Prozent unterschritten sind und dies zu einer nicht unerheblichen Gefährdung oder Störung der Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems in mindestens einer Regelzone wesentlich beitragen könnte oder
+
+
+2.  der grundzuständige Messstellenbetreiber seine Pflichten nach Absatz 2b oder seine Mitwirkungspflicht nach Absatz 2c Satz 3 nicht oder nicht ausreichend erfüllt und deshalb nicht festgestellt werden kann, ob die Ausstattungsverpflichtungen nach § 29 Absatz 1 Nummer 2 in Verbindung mit § 45 Absatz 1 des Messstellenbetriebsgesetzes in dem Netzgebiet eines grundzuständigen Messstellenbetreibers um mindestens 25 Prozent unterschritten wurden und dies zu einer nicht unerheblichen Gefährdung oder Störung der Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems in mindestens einer Regelzone wesentlich beitragen könnte.
+
+
+
+Dem grundzuständigen Messstellenbetreiber ist vorab Gelegenheit zur Stellungnahme innerhalb einer angemessenen Frist zu gewähren.
+
+(2h) Der Betreiber eines Elektrizitätsversorgungsnetzes, an dessen Netz eine Anlage nach Absatz 2a angeschlossen ist, muss die Anlage vom Netz trennen oder deren Einspeisung durch andere Maßnahmen unterbinden, wenn
+
+1.  der Messstellenbetreiber seinen Pflichten zum ordnungsgemäßen Messstellenbetrieb nach § 3 Absatz 2 des Messstellenbetriebsgesetzes nicht nachkommt und dadurch die Möglichkeit des Netzbetreibers, die Einspeiseleistung der Anlage ferngesteuert zu regeln, nicht unerheblich beeinträchtigt wird und
+
+
+2.  der Anlagenbetreiber die Anlage nicht bereits nachweislich außer Betrieb genommen hat.
+
+
+
+§ 52a Absatz 2 bis 7 des Erneuerbare-Energien-Gesetzes ist entsprechend anzuwenden. Im Falle einer nach Satz 1 erfolgten Netztrennung oder Unterbindung der Einspeisung kann der Anlagenbetreiber vom Messstellenbetreiber Ersatz des aufgrund dessen entstandenen Schadens verlangen. Die Ersatzpflicht tritt nicht ein, wenn der Messstellenbetreiber die Pflichtverletzung nach Satz 1 Nummer 1 nicht zu vertreten hat. Weitergehende Ersatzansprüche bleiben unberührt.
+
 (3) Betreiber von Übertragungsnetzen haben dauerhaft die Fähigkeit des Netzes sicherzustellen, die Nachfrage nach Übertragung von Elektrizität zu befriedigen und insbesondere durch entsprechende Übertragungskapazität und Zuverlässigkeit des Netzes zur Versorgungssicherheit beizutragen. Dafür können sie im Rahmen des technisch Möglichen auch geeignete technische Anlagen etwa zur Bereitstellung von nicht frequenzgebundenen Systemdienstleistungen nutzen, die keine Anlagen zur Erzeugung elektrischer Energie sind. Hierbei hat eine Abwägung mit einer marktgestützten Beschaffung nach § 12h zu erfolgen.
 
 (3a) Um die technische Sicherheit und die Systemstabilität zu gewährleisten, wird das Bundesministerium für Wirtschaft und Klimaschutz ermächtigt, durch Rechtsverordnung technische Anforderungen an Energieanlagen und Energieanlagenteile, insbesondere an Anlagen nach dem Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz, vorzugeben sowie Netzbetreiber und Anlagenbetreiber zu verpflichten, Anlagen, die bereits vor dem 1. Januar 2012 in Betrieb genommen worden sind, entsprechend nachzurüsten sowie anlagenbezogene Daten, die zur Durchführung und Kontrolle des Nachrüstungsprozesses erforderlich sind, bereitzustellen und auszuwerten und Regelungen zur Kostentragung zu treffen.
@@ -2287,6 +2356,67 @@ Im Übrigen sind die Absätze 2 bis 7 entsprechend anzuwenden. Die Pflichten der
 (9) Erstmals zum 1. Juli 2028 und anschließend alle zwei Jahre evaluieren die Betreiber der Übertragungsnetze mit Regelzonenverantwortung die Anwendung der Maßnahme nach den Absätzen 1 bis 7 und legen einen Bericht vor. Satz 1 ist für Betreiber von Elektrizitätsverteilernetzen, die von der Möglichkeit nach Absatz 8 seit mindestens zwölf Monaten Gebrauch machen, mit der Maßgabe anzuwenden, dass sie die Anwendung der Maßnahme nach Absatz 8 evaluieren. Die Regulierungsbehörde legt auf dieser Basis ebenfalls einen Bericht gegebenenfalls mit Empfehlungen für Anpassungen der Anwendungen der Maßnahme vor.
 
 
+#### § 13l Umrüstung einer Erzeugungsanlage zu einem Betriebsmittel zur Bereitstellung von Blind- und Kurzschlussleistung sowie von Trägheit der lokalen Netzstabilität; Betrieb des Betriebsmittels
+
+(1) Der Betreiber eines Übertragungsnetzes mit Regelzonenverantwortung kann vom Betreiber einer in seiner Regelzone angeschlossenen Erzeugungsanlage mit einer Nennleistung ab 50 Megawatt die Umrüstung dieser Erzeugungsanlage zu einem Betriebsmittel zur Bereitstellung von Blind- und Kurzschlussleistung verlangen (Umrüstungsverlangen), wenn
+
+1.  die Erzeugungsanlage
+
+    a)  eine Steinkohleanlage nach § 3 Nummer 25 des Kohleverstromungsbeendigungsgesetzes, eine Steinkohle-Kleinanlage nach § 3 Nummer 26 des Kohleverstromungsbeendigungsgesetzes oder eine Braunkohle-Kleinanlage nach § 3 Nummer 10 des Kohleverstromungsbeendigungsgesetzes ist und für diese Erzeugungsanlage nach § 51 Absatz 1 Satz 1 des Kohleverstromungsbeendigungsgesetzes ein Verbot der Kohleverfeuerung wirksam wird und die Erzeugungsanlage nach § 26 Absatz 2 des Kohleverstromungsbeendigungsgesetzes oder § 37 Absatz 2 des Kohleverstromungsbeendigungsgesetzes, jeweils in Verbindung mit § 13b Absatz 1 Satz 1 und Absatz 3 Satz 2 dieses Gesetzes, endgültig stillgelegt werden soll oder
+
+
+    b)  durch ihren Betreiber zur endgültigen Stilllegung nach § 13b Absatz 1 Satz 1 in Verbindung mit § 13b Absatz 3 Satz 2 angezeigt wurde,
+
+
+
+
+
+2.  die Stilllegung dieser Erzeugungsanlage wegen des im Elektrizitätsversorgungssystem bestehenden Bedarfs zur Bereitstellung von Blind- und Kurzschlussleistung mit hinreichender Wahrscheinlichkeit zu einer nicht unerheblichen Gefährdung oder Störung der Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems führen würde,
+
+
+3.  die Gefährdung oder Störung nach Nummer 2 nicht durch andere angemessene Maßnahmen beseitigt werden kann,
+
+
+4.  die Umrüstung der Erzeugungsanlage und der Betrieb nach Absatz 4 des durch die Umrüstung entstandenen Betriebsmittels den Zwecken des § 1 Absatz 1 und 2 entsprechen und
+
+
+5.  die Bundesnetzagentur das Umrüstungsverlangen zuvor nach Absatz 3 genehmigt hat.
+
+
+
+
+(2) Der Betreiber eines Übertragungsnetzes mit Regelzonenverantwortung kann vom Betreiber einer in seiner Regelzone angeschlossenen Erzeugungsanlage mit einer Nennleistung ab 50 Megawatt bei Gelegenheit der Umrüstung nach Absatz 1 auch verlangen, dass diese Erzeugungsanlage so umgerüstet wird, dass sie neben den in Absatz 1 genannten Systemsicherheitsmaßnahmen zusätzlich auch in der Lage ist, Trägheit der lokalen Netzstabilität bereitzustellen (erweitertes Umrüstungsverlangen), wenn
+
+1.  die in Absatz 1 Nummer 1 bis 4 aufgeführten Voraussetzungen vorliegen,
+
+
+2.  zusätzlich an dem Standort der Erzeugungsanlage ein entsprechender Bedarf für die Bereitstellung von Trägheit der lokalen Netzstabilität besteht, die Stilllegung dieser Erzeugungsanlage wegen dieses Bedarfs mit hinreichender Wahrscheinlichkeit zu einer nicht unerheblichen Gefährdung oder Störung der Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems führen würde und die Gefährdung oder Störung nicht durch andere angemessene Maßnahmen beseitigt werden kann und
+
+
+3.  die Bundesnetzagentur das erweiterte Umrüstungsverlangen zuvor nach Absatz 3 genehmigt hat.
+
+
+
+Die Umrüstung nach diesem Absatz umfasst auch die Installation der für die Bereitstellung von Trägheit der lokalen Netzstabilität erforderlichen Komponenten, wie insbesondere Schwungmassen, in angemessenem Umfang.
+
+(3) Der Betreiber eines Übertragungsnetzes mit Regelzonenverantwortung stellt bei der Bundesnetzagentur spätestens sechs Monate vor dem angezeigten Stilllegungszeitpunkt einer in Absatz 1 genannten Erzeugungsanlage schriftlich oder elektronisch einen mit einer Begründung versehenen Antrag auf die nach Absatz 1 Nummer 5 oder Absatz 2 Satz 1 Nummer 3 erforderliche Genehmigung des Umrüstungsverlangens oder des erweiterten Umrüstungsverlangens und übermittelt dem Betreiber der Erzeugungsanlage unverzüglich schriftlich oder elektronisch eine Kopie des Antrags. In dem Antrag ist nachzuwiesen, dass die Voraussetzungen für das Umrüstungsverlangen nach Absatz 1 Nummer 1 bis 4 beziehungsweise nach Absatz 2 Satz 1 Nummer 1 und 2 erfüllt sind. Zur Begründung der Notwendigkeit des Umrüstungsverlangens oder des erweiterten Umrüstungsverlangens soll der Antragsteller insbesondere die Systemanalyse oder die Langfristanalyse der Betreiber von Übertragungsnetzen mit Regelzonenverantwortung nach § 3 Absatz 2 der Netzreserveverordnung, den Bericht der Bundesnetzagentur nach § 3 Absatz 1 der Netzreserveverordnung oder den Systemstabilitätsbericht der Betreiber von Übertragungsnetzen mit Regelzonenverantwortung nach § 12i dieses Gesetzes heranziehen. Die Bundesnetzagentur hat den Antrag zu genehmigen, wenn die in Absatz 1 beziehungsweise bei einem erweiterten Umrüstungsverlangen zusätzlich auch die in Absatz 2 genannten Voraussetzungen vorliegen. Die Genehmigung kann unter Bedingungen erteilt und mit Auflagen verbunden werden. Der Betreiber des Übertragungsnetzes mit Regelzonenverantwortung übermittelt dem Betreiber der Erzeugungsanlage unverzüglich nach Zugang der Genehmigung schriftlich oder elektronisch eine Kopie der Genehmigung.
+
+(4) Die Umrüstung der Erzeugungsanlage nach den Absätzen 1 und 2 sowie der Betrieb des durch die Umrüstung entstandenen Betriebsmittels erfolgen in dem Umfang und für den Zeitraum, die erforderlich sind, um die Gefährdung oder Störung der Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems abzuwenden. Die Dauer des angeforderten Betriebs darf einen Zeitraum von insgesamt acht Jahren ab der Inbetriebnahme des Betriebsmittels nicht überschreiten. Das durch die Umrüstung nach den Absätzen 1 oder 2 entstandene Betriebsmittel darf ausschließlich nach Maßgabe der von den Betreibern von Übertragungsnetzen mit Regelzonenverantwortung angeforderten Systemsicherheitsmaßnahmen betrieben und in dem für diese Zwecke erforderlichen Umfang nicht stillgelegt werden. Ab dem Zeitpunkt der Genehmigung nach Absatz 1 Nummer 5 oder Absatz 2 Satz 1 Nummer 3 ist § 13b für den Zeitraum der Verpflichtung nach diesem Absatz nicht anzuwenden.
+
+(5) Der Betreiber der nach den Absätzen 1 oder 2 umgerüsteten Erzeugungsanlage hat gegen den Betreiber des Übertragungsnetzes mit Regelzonenverantwortung, in dessen Regelzone die Anlage angeschlossen ist, Anspruch auf
+
+1.  Erstattung der nachgewiesenen Kosten für die Umrüstung seiner Erzeugungsanlage und
+
+
+2.  eine angemessene Vergütung entsprechend § 13c Absatz 3.
+
+
+
+Zu den Kosten der Umrüstung nach Satz 1 Nummer 1 zählen auch die Kosten für Komponenten wie insbesondere Schwungmassen nach Absatz 2 Satz 2. Nach der Beendigung der Verpflichtung nach Absatz 4 ist § 13c Absatz 4 Satz 2 und 3 entsprechend anzuwenden. Unbeschadet der gesetzlichen Verpflichtungen erfolgen auf Grundlage der anlagenspezifischen Kostenstruktur die Kostenerstattung sowie die Vergütung für die Verpflichtungen nach den Absätzen 1 bis 4 auf Grundlage des Abschlusses von Verträgen zwischen den Betreibern von Übertragungsnetzen und Anlagenbetreibern in Abstimmung mit der Bundesnetzagentur. § 13c Absatz 5 ist entsprechend anzuwenden.
+
+(6) Die Absätze 1 bis 5 sind nicht anzuwenden auf die in Anlage 2 zum Kohleverstromungsbeendigungsgesetz genannten Braunkohleanlagen.
+
+
 #### § 14 Aufgaben der Betreiber von Elektrizitätsverteilernetzen
 
 (1) Die §§ 12, 13 bis 13c und die auf Grundlage des § 13i Absatz 3 erlassenen Rechtsverordnungen gelten für Betreiber von Elektrizitätsverteilernetzen im Rahmen ihrer Verteilungsaufgaben entsprechend, soweit sie für die Sicherheit und Zuverlässigkeit der Elektrizitätsversorgung in ihrem Netz verantwortlich sind. § 13 Absatz 9 ist mit der Maßgabe anzuwenden, dass die Betreiber von Elektrizitätsverteilernetzen nur auf Anforderung der Regulierungsbehörde die Schwachstellenanalyse zu erstellen und über das Ergebnis zu berichten haben.
@@ -2614,7 +2744,25 @@ Die §§ 15 und 16 Absatz 1 bis 4a gelten für Betreiber von Gasverteilernetzen 
 
 (2a) Der Netzanschlussvorrang gemäß § 8 Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes und § 3 Absatz 1 Satz 1 des Kraft-Wärme-Kopplungsgesetzes ist nicht gegenüber Energiespeicheranlagen anzuwenden.
 
-(2b) (weggefallen)
+(2b) Betreiber von Elektrizitätsversorgungsnetzen können Anschlussnehmern den Abschluss einer flexiblen Netzanschlussvereinbarung anbieten. Eine flexible Netzanschlussvereinbarung nach Satz 1 gibt dem Betreiber von Elektrizitätsversorgungsnetzen das Recht, vom Anschlussnehmer eine statische oder dynamische Begrenzung der maximalen Entnahme- oder Einspeiseleistung zu verlangen. Eine flexible Netzanschlussvereinbarung muss insbesondere folgende Regelungen enthalten:
+
+1.  Höhe der Begrenzung der Entnahme- oder Einspeiseleistung,
+
+
+2.  Zeitraum oder Zeiträume der Begrenzung der Entnahme- oder Einspeiseleistung,
+
+
+3.  Dauer der flexiblen Netzanschlussvereinbarung,
+
+
+4.  technische Anforderungen an die Begrenzung der Entnahme- oder Einspeiseleistung und
+
+
+5.  Haftung des Anschlussnehmers bei Überschreitung der vereinbarten maximalen Entnahme- oder Einspeiseleistung.
+
+
+
+§ 8a des Erneuerbare-Energien-Gesetzes sowie Inhalte einer Festlegung der Bundesnetzagentur nach § 14a bleiben unberührt.
 
 (3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die technischen und wirtschaftlichen Bedingungen für einen Netzanschluss nach Absatz 1 Satz 1 zu erlassen. Insbesondere können durch Rechtsverordnungen nach Satz 1 unter angemessener Berücksichtigung der Interessen der Betreiber von Energieversorgungsnetzen und der Anschlussnehmer
 
@@ -2629,7 +2777,7 @@ Die §§ 15 und 16 Absatz 1 bis 4a gelten für Betreiber von Gasverteilernetzen 
 
 
 
-(4) Die Bundesnetzagentur kann durch Festlegung nach § 29 Absatz 1 Vorgaben zu den technischen und wirtschaftlichen Bedingungen für einen Netzanschluss nach Absatz 1 Satz 1 oder zu den Methoden für die Bestimmung dieser Bedingungen machen; dabei kann sie von Verordnungen nach Absatz 3 abweichen oder ergänzende Regelungen treffen. Dies umfasst insbesondere Vorgaben zu Anschlusskosten und Baukostenzuschüssen.
+(4) Die Bundesnetzagentur kann durch Festlegung nach § 29 Absatz 1 Vorgaben zu den technischen und wirtschaftlichen Bedingungen für einen Netzanschluss nach Absatz 1 Satz 1 oder Absatz 2b oder zu den Methoden für die Bestimmung dieser Bedingungen machen; dabei kann sie von Verordnungen nach Absatz 3 abweichen oder ergänzende Regelungen treffen. Dies umfasst insbesondere Vorgaben zu Anschlusskosten und Baukostenzuschüssen.
 
 
 #### § 17a (weggefallen)
@@ -6158,7 +6306,7 @@ In Verfahren wegen leichtfertig begangener Straftaten wird die Bundesnetzagentur
 7.  Festlegungen nach § 13j Absatz 2 Nummer 3, 5 bis 7 und 9, Absatz 3 Satz 1 in Verbindung mit § 13i Absatz 3 Nummer 1 Buchstabe a, b, c und f, § 13j Absatz 3 Satz 2 hinsichtlich des § 13b sowie nach § 13j Absatz 4, 5, 7 Nummer 1 und 2 und Absatz 6,
 
 
-7a. Entscheidungen und Aufgaben nach § 13k,
+7a. Entscheidungen und Aufgaben nach den §§ 13k und 13l Absatz 3,
 
 
 8.  Aufgaben nach § 14 Absatz 2 und den §§ 14c bis 14e,
@@ -7891,7 +8039,7 @@ Der Betreiber der Anlage kann auf die Einstufung als Bestandsanlage verzichten. 
 
 (33) Für besondere netztechnische Betriebsmittel, für die bis zum 30. November 2020 ein Vergabeverfahren begonnen wurde, ist § 11 Absatz 3 in der bis zum 27. Juli 2021 geltenden Fassung anzuwenden. Satz 1 ist auch anzuwenden, wenn ein bereits vor dem 30. November 2020 begonnenes Vergabeverfahren aufgrund rechtskräftiger Entscheidung nach dem 30. November 2020 neu durchgeführt werden muss.
 
-(34) Ladepunkte, die von Betreibern von Elektrizitätsverteilernetzen bereits vor dem 27. Juli 2021 entwickelt, verwaltet oder betrieben worden sind, gelten bis zum 31. Dezember 2023 als aufgrund eines regionalen Marktversagens im Sinne von § 7c Absatz 2 Satz 1 genehmigt. Betreiber von Elektrizitätsverteilernetzen haben ihre Tätigkeiten in Bezug auf diese Ladepunkte der Bundesnetzagentur in Textform bis zum 31. Dezember 2023 anzuzeigen und bis zum 31. Dezember 2023 einzustellen, wenn nicht die Bundesnetzagentur zuvor eine Genehmigung nach § 7c Absatz 2 erteilt hat. Soweit Betreiber von Elektrizitätsverteilernetzen, die von § 7 Absatz 2 Satz 1 erfasst sind, betroffen sind, gelten Ladepunkte bis zum Ablauf des 31. Dezember 2024 als im Sinne des Satzes 1 genehmigt. Im Falle des Satzes 3 haben die Anzeige und die Einstellung der Tätigkeit nach Satz 2 bis zum Ablauf des 31. Dezember 2024 zu erfolgen. Der Zugang zu Ladepunkten nach Satz 1 ist Dritten zu angemessenen und diskriminierungsfreien Bedingungen zu gewähren.
+(34) Ladepunkte, die von Betreibern von Elektrizitätsverteilernetzen bereits vor dem 27. Juli 2021 entwickelt, verwaltet oder betrieben worden sind, gelten bis zum 31. Dezember 2023 als aufgrund eines regionalen Marktversagens im Sinne von § 7c Absatz 2 Satz 1 genehmigt. Betreiber von Elektrizitätsverteilernetzen haben ihre Tätigkeiten in Bezug auf diese Ladepunkte der Bundesnetzagentur in Textform bis zum 31. Dezember 2023 anzuzeigen und bis zum 31. Dezember 2023 einzustellen, wenn nicht die Bundesnetzagentur zuvor eine Genehmigung nach § 7c Absatz 2 erteilt hat. Soweit Betreiber von Elektrizitätsverteilernetzen, die von § 7 Absatz 2 Satz 1 erfasst sind, betroffen sind, gelten Ladepunkte bis zum Ablauf des 31. Dezember 2026 als im Sinne des Satzes 1 genehmigt. Im Falle des Satzes 3 haben die Anzeige und die Einstellung der Tätigkeit nach Satz 2 bis zum Ablauf des 31. Dezember 2026 zu erfolgen. Der Zugang zu Ladepunkten nach Satz 1 ist Dritten zu angemessenen und diskriminierungsfreien Bedingungen zu gewähren.
 
 (35) § 6b Absatz 4 und § 6c Absatz 1 und 2 in der ab dem 1. August 2022 geltenden Fassung sind erstmals auf Rechnungslegungsunterlagen für das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten Vorschriften in der bis einschließlich 31. Juli 2022 geltenden Fassung sind letztmals anzuwenden auf Rechnungslegungsunterlagen für das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
 

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 2623
 
 Zuletzt geändert durch
-:   Art. 1 V v. 29.6.2021 I 2245
-
-Änderung durch
-:   Art. 1 V v. 19.2.2025 I Nr. 50 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 19.2.2025 I Nr. 50
 
 
 ## Eingangsformel
