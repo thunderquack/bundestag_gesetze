@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 11.9.2012 I 2022;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 21.11.2024 I Nr. 361
+:   Art. 3 G v. 24.2.2025 I Nr. 57
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -300,6 +300,8 @@ In den Ländern wird sichergestellt, dass sich junge Menschen und ihre Familien 
 (4) Die Leistungen nach diesem Buch gehen Leistungen nach dem Neunten und Zwölften Buch vor. Abweichend von Satz 1 gehen Leistungen nach § 27a Absatz 1 in Verbindung mit § 34 Absatz 6 des Zwölften Buches und Leistungen der Eingliederungshilfe nach dem Neunten Buch für junge Menschen, die körperlich oder geistig behindert oder von einer solchen Behinderung bedroht sind, den Leistungen nach diesem Buch vor. Landesrecht kann regeln, dass Leistungen der Frühförderung für Kinder unabhängig von der Art der Behinderung vorrangig von anderen Leistungsträgern gewährt werden.
 
 (5) Soweit Leistungen zum Lebensunterhalt nach § 39 erbracht werden, gehen sie den Leistungen zum Lebensunterhalt nach § 93 des Vierzehnten Buches vor.
+
+(7) Die Leistungen nach diesem Buch gehen den Leistungen aus dem Gewalthilfegesetz vom 24. Februar 2025 (BGBl. 2025 I Nr. 57) vor.
 
 
 ### § 10a Beratung

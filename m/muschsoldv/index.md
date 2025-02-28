@@ -16,10 +16,13 @@ Fundstelle
 :   BGBl I: 1990, 3015
 
 Neugefasst durch
-:   Bek. v. 18.11.2004 I 2858
+:   Bek. v. 18.11.2004 I 2858;
 
 Zuletzt geändert durch
 :   Art. 6 V v. 20.8.2013 I 3286, 3741
+
+Änderung durch
+:   Art. 4 G v. 24.2.2025 I Nr. 59 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1

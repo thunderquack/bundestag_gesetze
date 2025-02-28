@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 320
 
 Zuletzt geändert durch
-:   Art. 5 V v. 16.8.2021 I 3582
+:   Art. 3 G v. 24.2.2025 I Nr. 59
 
 
 ## Abschnitt 1 - Mutterschutz

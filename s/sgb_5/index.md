@@ -25,6 +25,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 10 G v. 18.12.2024 I Nr. 423 ist berücksichtigt
 
+Änderung durch
+:   Art. 2 G v. 24.2.2025 I Nr. 59 ist berücksichtigt
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 

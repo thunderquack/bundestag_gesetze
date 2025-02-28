@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 23.12.2024 I Nr. 449
 
+Änderung durch
+:   Art. 4 G v. 24.2.2025 I Nr. 57 mWv 28.2.2025 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 5 G v. 24.2.2025 I Nr. 57 mit zukünftiger Wirkung noch nicht berücksichtigt
+
 Das g tritt gem. § 20 mit ablauf des 31.12.2019 außer kraft; § 20 aufgeh. durch
 :   Art. 2 Nr. 21 G v. 14.8.2017 I 3122 mWv 1.1.2020; Art. 2 Nr. 21 aufgeh. durch Art. 4 Nr. 2 G v. 17.12.2018 I 2522; § 20 aufgeh. durch Art. 1 Nr. 2 G v. 17.12.2018 I 2522 mWv 21.12.2018; dadurch ist die Geltung dieses G über den 31.12.2019 hinaus verlängert worden
 
