@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1961, 1646
 
 Geändert durch
-:   § 8 V v. 31. 3.1966 I 199
+:   § 8 V v. 31.3.1966 I 199
 
 
 ## Eingangsformel

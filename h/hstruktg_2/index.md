@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1981, 1523
 
 Geändert durch
-:   Art. 14. G v. 29. 6.1998 I 1666
+:   Art. 14. G v. 29.6.1998 I 1666, 3128
 
 
 ## Art 1 - Bundesbesoldungsgesetz

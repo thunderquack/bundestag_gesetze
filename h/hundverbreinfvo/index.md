@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 1248
 
 Geändert durch
-:   Art. 86 G v. 21. 6.2005 I 1818
+:   Art. 86 G v. 21.6.2005 I 1818
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen Parlaments und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften (ABl. EG Nr. L 204 S. 37), zuletzt geändert durch die Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20. Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 

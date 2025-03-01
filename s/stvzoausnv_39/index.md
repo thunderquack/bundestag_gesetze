@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1991, 1431
 
 Geändert durch
-:   Art. 2 V v. 23. 6.1993 I 1024
+:   Art. 2 V v. 23.6.1993 I 1024
 
 
 ## Eingangsformel

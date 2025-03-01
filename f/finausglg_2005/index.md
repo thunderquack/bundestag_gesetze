@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 3955, 3956
 
 Zuletzt geändert durch
-:   Art. 9 G v. 23.12.2024 I Nr. 449
-
-Änderung durch
-:   Art. 4 G v. 24.2.2025 I Nr. 57 mWv 28.2.2025 noch nicht berücksichtigt
+:   Art. 4 G v. 24.2.2025 I Nr. 57
 
 Änderung durch
 :   Art. 5 G v. 24.2.2025 I Nr. 57 mit zukünftiger Wirkung noch nicht berücksichtigt
@@ -131,27 +128,28 @@ Das g tritt gem. § 20 mit ablauf des 31.12.2019 außer kraft; § 20 aufgeh. dur
 
 *    *   2027
 
-    *   minus 11 577 407 683 Euro
+    *   minus 11 689 407 683 Euro
 
-    *   9 177 407 683 Euro
+    *   9 289 407 683 Euro
 
     *   2 400 000 000 Euro
 
 
 *    *   2028
 
-    *   minus 11 902 407 683 Euro
+    *   minus 12 043 907 683 Euro
 
-    *   9 502 407 683 Euro
+    *   9 643 907 683 Euro
 
     *   2 400 000 000 Euro
 
 
 *    *   2029
 
-    *   minus 12 127 407 683 Euro
+    *   minus 12 322 407 683
+        Euro
 
-    *   9 727 407 683 Euro
+    *   9 922 407 683 Euro
 
     *   2 400 000 000 Euro
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 2378 (1994 I 2439)
 
 Zuletzt geändert durch
-:   Art. 107 G v. 8. 7.2016 I 1594
+:   Art. 107 G v. 8.7.2016 I 1594
 
 Artikel 2 und 5 dieses Gesetzes dienen der Übernahme der Richtlinie 91/440/EWG des Rates vom 29. Juli 1991 zur Entwicklung der Eisenbahnunternehmen der Gemeinschaft (ABl. EG Nr. L 237 S. 25).
 

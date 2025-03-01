@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 9 G v. 12.12.2019 I 2652
 
+Änderung durch
+:   Art. 2 G v. 25.2.2025 I Nr. 63 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Personenkreis
 

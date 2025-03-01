@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 650
 
 Zuletzt geändert durch
-:   Art. 12 G v. 28. 6.1990 I 1221
+:   Art. 12 G v. 28.6.1990 I 1221
 
 
 ## § 1 Sachliche Geltung des Gesetzes

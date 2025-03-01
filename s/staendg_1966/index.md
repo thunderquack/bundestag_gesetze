@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1966, 702
 
 Geändert durch
-:   § 17 Satz 2 G v. 18. 3.1971 I 239
+:   § 17 Satz 2 G v. 18.3.1971 I 239
 
 
 ## Art 1 bis 4

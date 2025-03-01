@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 12 G v. 2.6.2021 I 1387
 
+Änderung durch
+:   Art. 3 G v. 25.2.2025 I Nr. 63 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Rehabilitierung und Folgeansprüche
 

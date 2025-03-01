@@ -16,10 +16,16 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 4125
 
+V aufgeh. durch
+:   § 19 Satz 2 V 806-22-1-159 v. 25.2.2025 I Nr. 62 mWv 1.8.2025
+
 Geändert durch
 :   Art. 1 V v. 16.6.2014 I 791
 
 Stand: Ersetzt V 806-21-1-165 v. 13.2.1991 I 425, V 806-21-1-164 v. 13.2.1991 I 436 u. V 806-21-1-176 v. 12.3.1992 I 507
+Ersetzt durch
+:   V 806-22-1-159 v. 25.2.2025 I Nr. 62 (BüroMKfAusbV 2025)
+
     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers veröffentlicht.
 [^f783660_01_BJNR412500013]: 
 

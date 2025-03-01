@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1965, 79
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 17 G v. 12. 8.2005 I 2354
+:   Art. 2 Abs. 17 G v. 12.8.2005 I 2354
 
 
 ## Erster Teil - Ansprüche gegen die Nationalsozialistische Deutsche Arbeiterpartei (NSDAP) und ihre Einrichtungen

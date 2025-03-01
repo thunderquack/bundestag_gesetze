@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1993, 1554
 
 Neugefasst durch
-:   durch Bek. v. 14.1.2025 I Nr. 14
+:   Bek. v. 14.1.2025 I Nr. 14
 
 
 ## Eingangsformel

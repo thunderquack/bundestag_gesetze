@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1967, 1259 (1968 I 49, 253)
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 15 G v. 8. 6.1989 I 1026
+:   Art. 4 Abs. 15 G v. 8.6.1989 I 1026
 
 
 ## Art 1 - Reichsversicherungsordnung, Angestelltenversicherungsgesetz, Reichsknappschaftsgesetz

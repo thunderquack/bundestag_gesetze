@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 1763
 
 Neugefasst durch
-:   Bek. V v. 26.11.2010 I 1720;
+:   Bek. v. 26.11.2010 I 1720;
 
 Zuletzt geändert durch
 :   Art. 406 V v. 31.8.2015 I 1474

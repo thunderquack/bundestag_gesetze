@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 944, 975
 
 Neugefasst durch
-:   durch Bek. v. 15.10.2002 I 4130;
+:   Bek. v. 15.10.2002 I 4130;
 
 Zuletzt geändert durch
 :   Art. 4 G v. 23.12.2024 I Nr. 449

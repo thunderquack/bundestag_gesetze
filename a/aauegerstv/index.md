@@ -20,6 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 57 Abs. 15 G v. 12.12.2019 I 2652
 
+Änderung durch
+:   Art. 1 V v. 26.2.2025 I Nr. 65 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -76,6 +79,8 @@ Auf Grund des § 16 Abs. 2 des Anspruchs- und Anwartschaftsüberführungsgesetze
 
 (5) Erstattungsbetrag ist bei Leistungen nach den §§ 9 und 11 des Anspruchs- und Anwartschaftsüberführungsgesetzes die durch die Deutsche Rentenversicherung Bund ausgezahlte Leistung in der vom Versorgungsträger mitgeteilten Höhe.
 
+(6) Erstattungsbetrag ist bei Rentenzuschlägen nach § 307j des Sechsten Buches Sozialgesetzbuch der jeweilige Anteilswert der Anlage multipliziert mit dem Betrag der monatlich für den Zeitraum vom 1. Juli 2024 bis zum 30. November 2025 ausgezahlten Rentenzuschläge.
+
 
 ## § 3 Erstattung der Verwaltungskosten
 
@@ -119,4 +124,141 @@ Diese Verordnung tritt mit Wirkung vom 1. Januar 1992 in Kraft.
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
+
+(zu § 2 Absatz 6)
+
+## Anlage Anteilswerte nach § 2 Absatz 6
+
+(Fundstelle: BGBl. 2025 I Nr. 65, S. 2)
+
+
+*    *   **Anteilswerte knappschaftliche Rentenversicherung**
+
+    *   **Bereich Ost**
+
+    *   **Bereich West**
+
+
+*    *   Zusatzversorgung nach Anlage 1 Nummer 1 – 22 zum Anspruchs- und Anwartschaftsüberführungsgesetz
+
+    *   0,964007 %
+
+    *   0,025288 %
+
+
+*    *   Zusatzversorgung nach Anlage 1 Nummer 23 – 26 zum Anspruchs- und Anwartschaftsüberführungsgesetz
+
+    *   0,001992 %
+
+    *   0,000246 %
+
+
+*    *   Zusatzversorgung nach Anlage 1 Nummer 27 zum Anspruchs- und Anwartschaftsüberführungsgesetz
+
+    *   0,039842 %
+
+    *   0,001306 %
+
+
+*    *   Sonderversorgung nach Anlage 2 Nummer 1 zum Anspruchs- und Anwartschaftsüberführungsgesetz
+
+    *   1,041501 %
+
+    *   0,046055 %
+
+
+*    *   Sonderversorgung nach Anlage 2 Nummer 2 zum Anspruchs- und Anwartschaftsüberführungsgesetz
+
+    *   0,442752 %
+
+    *   0,014084 %
+
+
+*    *   Sonderversorgung nach Anlage 2 Nummer 3 zum Anspruchs- und Anwartschaftsüberführungsgesetz
+
+    *   0,028261 %
+
+    *   0,000576 %
+
+
+*    *   Sonderversorgung nach Anlage 2 Nummer 4 zum Anspruchs- und Anwartschaftsüberführungsgesetz
+
+    *   0,455721 %
+
+    *   0,017217 %
+
+
+*    *   Pensionsstatut Carl-Zeiss-Stiftung Jena nach § 1 Absatz 1 des Zusatzversorgungssystem-Gleichstellungsgesetzes
+
+    *   0,013696 %
+
+    *   0,000627 %
+
+
+
+
+*    *   **Anteilswerte allgemeine Rentenversicherung**
+
+    *   **Bereich Ost**
+
+    *   **Bereich West**
+
+
+*    *   Zusatzversorgung nach Anlage 1 Nummer 1 – 22 zum Anspruchs- und Anwartschaftsüberführungsgesetz
+
+    *   1,301967 %
+
+    *   0,030701 %
+
+
+*    *   Zusatzversorgung nach Anlage 1 Nummer 23 – 26 zum Anspruchs- und Anwartschaftsüberführungsgesetz
+
+    *   0,007310 %
+
+    *   0,000302 %
+
+
+*    *   Zusatzversorgung nach Anlage 1 Nummer 27 zum Anspruchs- und Anwartschaftsüberführungsgesetz
+
+    *   0,048652 %
+
+    *   0,001488 %
+
+
+*    *   Sonderversorgung nach Anlage 2 Nummer 1 zum Anspruchs- und Anwartschaftsüberführungsgesetz
+
+    *   0,737330 %
+
+    *   0,034741 %
+
+
+*    *   Sonderversorgung nach Anlage 2 Nummer 2 zum Anspruchs- und Anwartschaftsüberführungsgesetz
+
+    *   0,450682 %
+
+    *   0,015388 %
+
+
+*    *   Sonderversorgung nach Anlage 2 Nummer 3 zum Anspruchs- und Anwartschaftsüberführungsgesetz
+
+    *   0,036188 %
+
+    *   0,001171 %
+
+
+*    *   Sonderversorgung nach Anlage 2 Nummer 4 zum Anspruchs- und Anwartschaftsüberführungsgesetz
+
+    *   0,376653 %
+
+    *   0,011810 %
+
+
+*    *   Pensionsstatut Carl-Zeiss-Stiftung Jena nach § 1 Absatz 1 des Zusatzversorgungssystem-Gleichstellungsgesetzes
+
+    *   0,026719 %
+
+    *   0,001602 %
+
+
+
 
