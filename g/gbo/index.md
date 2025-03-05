@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.5.1994 I 1114;
 
 Zuletzt geändert durch
-:   Art. 16 G v. 19.12.2022 I 2606
-
-Änderung durch
-:   Art. 6 G v. 25.2.2025 I Nr. 63 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 25.2.2025 I Nr. 63
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften

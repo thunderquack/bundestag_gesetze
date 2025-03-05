@@ -19,7 +19,7 @@ Fundstelle
 :   BGBl I: 1961, 301
 
 Zuletzt geändert durch
-:   Art. 24 G v. 27. 7.2001 I 1887
+:   Art. 24 G v. 27.7.2001 I 1887
 
 
 ## Erster Abschnitt - Vollstreckbarerklärung gerichtlicher Entscheidungen

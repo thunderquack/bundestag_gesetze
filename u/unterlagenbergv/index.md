@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1982, 1553
 
 Zuletzt geändert durch
-:   Art. 4 V v. 10. 8.2005 I 2452
+:   Art. 4 V v. 10.8.2005 I 2452
 
 
 ## 1. Abschnitt - Karten und Lagerisse für Bergbauberechtigungen

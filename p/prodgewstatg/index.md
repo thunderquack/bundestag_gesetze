@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1975, 2779
 
 Neugefasst durch
-:   Bek. v. 21. 3.2002 I 1181;
+:   Bek. v. 21.3.2002 I 1181;
 
 Zuletzt geändert durch
 :   Art. 7 G v. 22.2.2021 I 266

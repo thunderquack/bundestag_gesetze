@@ -19,7 +19,7 @@ Fundstelle
 :   BGBl I: 1961, 981
 
 Geändert durch
-:   Art. VI G v. 9. 9.1965 I 1254
+:   Art. VI G v. 9.9.1965 I 1254
 
 
 ## Erster Abschnitt - Einkommensteuer
@@ -41,7 +41,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 -
 
 
-## Zweiter bis Elfter Abschnitt
+## Zweiter bis Elfter Abschnitt - 
 
 
 

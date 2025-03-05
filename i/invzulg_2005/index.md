@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 438; 2005, 1059, 2514
 
 Neugefasst durch
-:   Bek. v. 30. 9.2005 I 2961
+:   Bek. v. 30.9.2005 I 2961
 
 Stand: Das G ist gem. § 10 iVm Bek. v. 6.4.2005 I 1059 u. v. 19.8.2005 I 2514 mWv 24.1.2005 in Kraft getreten
 

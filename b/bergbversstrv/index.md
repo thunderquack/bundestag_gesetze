@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1982, 1553, 1560
 
 Geändert durch
-:   Art. 3 V v. 10. 8.2005 I 2452
+:   Art. 3 V v. 10.8.2005 I 2452
 
 
 ## § 1 Anwendung von Vorschriften des Bundesberggesetzes
