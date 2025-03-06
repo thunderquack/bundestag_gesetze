@@ -22,6 +22,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 22 G v. 22.12.2023 I Nr. 414
 
+Änderung durch
+:   Art. 12 G v. 27.2.2025 I Nr. 72 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1
 

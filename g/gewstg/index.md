@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 9 G v. 2.12.2024 I Nr. 387
 
+Änderung durch
+:   Art. 4 G v. 28.2.2025 I Nr. 69 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt I - Allgemeines
 
@@ -108,7 +111,7 @@ Von der Gewerbesteuer sind befreit
 1.  das Bundeseisenbahnvermögen, die staatlichen Lotterieunternehmen, die zugelassenen öffentlichen Spielbanken mit ihren der Spielbankenabgabe unterliegenden Tätigkeiten und der Erdölbevorratungsverband nach § 2 Absatz 1 des Erdölbevorratungsgesetzes vom 16. Januar 2012 (BGBl. I S. 74) in der jeweils geltenden Fassung;
 
 
-2.  die Deutsche Bundesbank, die Kreditanstalt für Wiederaufbau, die Landwirtschaftliche Rentenbank, die Bayerische Landesanstalt für Aufbaufinanzierung, die Bremer Aufbau-Bank GmbH, die Landeskreditbank Baden-Württemberg - Förderbank, die Bayerische Landesbodenkreditanstalt, die Investitionsbank Berlin, die Hamburgische Investitions- und Förderbank, die NRW.Bank, die Investitions- und Förderbank Niedersachsen, die Saarländische Investitionskreditbank Aktiengesellschaft, die Investitionsbank Schleswig-Holstein, die Investitionsbank des Landes Brandenburg, die Sächsische Aufbaubank - Förderbank -, die Thüringer Aufbaubank, die Investitionsbank Sachsen-Anhalt, die Investitions- und Strukturbank Rheinland-Pfalz, das Landesförderinstitut Mecklenburg-Vorpommern - Geschäftsbereich der Norddeutschen Landesbank Girozentrale -, die Wirtschafts- und Infrastrukturbank Hessen – rechtlich unselbständige Anstalt in der Landesbank Hessen-Thüringen Girozentrale und die Liquiditäts-Konsortialbank Gesellschaft mit beschränkter Haftung;
+2.  die Deutsche Bundesbank, die Kreditanstalt für Wiederaufbau, die DEG – Deutsche Investitions- und Entwicklungsgesellschaft mbH, die Landwirtschaftliche Rentenbank, die Bayerische Landesanstalt für Aufbaufinanzierung, die Bremer Aufbau-Bank GmbH, die Landeskreditbank Baden-Württemberg - Förderbank, die Bayerische Landesbodenkreditanstalt, die Investitionsbank Berlin, die Hamburgische Investitions- und Förderbank, die NRW.Bank, die Investitions- und Förderbank Niedersachsen, die Saarländische Investitionskreditbank Aktiengesellschaft, die Investitionsbank Schleswig-Holstein, die Investitionsbank des Landes Brandenburg, die Sächsische Aufbaubank - Förderbank -, die Thüringer Aufbaubank, die Investitionsbank Sachsen-Anhalt, die Investitions- und Strukturbank Rheinland-Pfalz, das Landesförderinstitut Mecklenburg-Vorpommern - Geschäftsbereich der Norddeutschen Landesbank Girozentrale -, die Wirtschafts- und Infrastrukturbank Hessen – rechtlich unselbständige Anstalt in der Landesbank Hessen-Thüringen Girozentrale und die Liquiditäts-Konsortialbank Gesellschaft mit beschränkter Haftung;
 
 
 3.  die Bundesanstalt für vereinigungsbedingte Sonderaufgaben;
@@ -1013,11 +1016,12 @@ Erstreckt sich die Betriebsstätte auf mehrere Gemeinden, so ist der Steuermessb
 1             § 3 Nummer 1 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden.
 2             § 3 Nummer 12 in der Fassung des Artikels 9 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2025 anzuwenden.
 3             § 3 Nummer 2 ist für die Investitionsbank Sachsen-Anhalt erstmals für den Erhebungszeitraum 2023 anzuwenden.
-4             Die Steuerbefreiung nach § 3 Nummer 2 in der bis zum 20. Dezember 2022 geltenden Fassung ist für die Investitionsbank Sachsen-Anhalt – Anstalt der Norddeutschen Landesbank – Girozentrale – letztmalig für den Erhebungszeitraum 2023 anzuwenden.
-5             § 3 Nummer 13 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2015 anzuwenden.
-6             § 3 Nummer 24 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden.
-7             § 3 Nummer 32 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden.
-8             § 3 Nummer 32 in der Fassung des Artikels 10 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) ist erstmals für den Erhebungszeitraum 2022 anzuwenden.
+4             § 3 Nummer 2 ist für die DEG – Deutsche Investitions- und Entwicklungsgesellschaft mbH erstmals für den Erhebungszeitraum 2024 anzuwenden.
+5             Die Steuerbefreiung nach § 3 Nummer 2 in der bis zum 20. Dezember 2022 geltenden Fassung ist für die Investitionsbank Sachsen-Anhalt – Anstalt der Norddeutschen Landesbank – Girozentrale – letztmalig für den Erhebungszeitraum 2023 anzuwenden.
+6             § 3 Nummer 13 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2015 anzuwenden.
+7             § 3 Nummer 24 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden.
+8             § 3 Nummer 32 in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2019 anzuwenden.
+9             § 3 Nummer 32 in der Fassung des Artikels 10 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) ist erstmals für den Erhebungszeitraum 2022 anzuwenden.
 
 (3)
 1             § 7 Satz 3 in der durch Artikel 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) geänderten Fassung ist erstmals für den Erhebungszeitraum 2009 anzuwenden.

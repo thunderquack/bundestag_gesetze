@@ -2075,8 +2075,8 @@ Pflanzenarten im Anwendungsbereich dieser Verordnung
 *_\_\__\_\__\_\__\_\__*
 
     Entsprechend Artenverzeichnis.
-[^f804748_02_BJNR196400018BJNE002702119]: [^F814042_03_BJNR196400018BJNE002702119]:     ICNCP – Internationaler Code der Nomenklatur der Kulturpflanzen (International Code of Nomenclature for Cultivated Plants).
-
+[^f804748_02_BJNR196400018BJNE002702119]:     ICNCP – Internationaler Code der Nomenklatur der Kulturpflanzen (International Code of Nomenclature for Cultivated Plants).
+[^F814042_03_BJNR196400018BJNE002702119]: 
 (zu § 6a Absatz 2 Nummer 3)
 
 ### Anlage 2 Besondere Anforderungen an Bestände von Anbaumaterial von Zierpflanzen

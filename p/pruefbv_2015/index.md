@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 28 G v. 3.6.2021 I 1568
 
+Änderung durch
+:   Art. 13 G v. 28.2.2025 I Nr. 69 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 

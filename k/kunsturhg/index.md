@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1907, 7
 
 Zuletzt geändert durch
-:   Art. 3 § 31 G v. 16. 2.2001 I 266
+:   Art. 3 § 31 G v. 16.2.2001 I 266
 
 G aufgeh. durch
 :   § 141 Nr. 5 G v. 9.9.1965 I 1273 mWv 1.1.1966, soweit es nicht den Schutz von Bildnissen betrifft

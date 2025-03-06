@@ -18,6 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 21.9.2023 I Nr. 260
 
+Stand: Die zugehörige V v. 21.2.2011 I 271 (FMSASatzV 2011) tritt gem. Art. 14 G v. 28.2.2025 I Nr. 69 mWv 1.1.2026 außer Kraft
 
 ## Abschnitt 1 - Grundlagen der Organisation
 

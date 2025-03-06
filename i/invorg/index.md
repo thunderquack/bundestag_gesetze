@@ -17,11 +17,12 @@ Fundstelle
 :   BGBl I: 1992, 1257, 1268 (1993 I 1811)
 
 Neugefasst durch
-:   Bek. v. 4. 8.1997 I 1996;
+:   Bek. v. 4.8.1997 I 1996;
 
 Zuletzt geändert durch
 :   Art. 588 V v. 31.8.2015 I 1474
 
+Stand: Das G ist gem. Art. 15 G III-19-2 v. 14.7.1992 I 1257 am 22.7.1992 in Kraft getreten.
 
 ## Abschnitt 1 - Vorrang für Investitionen
 

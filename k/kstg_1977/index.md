@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 8 G v. 2.12.2024 I Nr. 387
 
+Änderung durch
+:   Art. 3 G v. 28.2.2025 I Nr. 69 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Steuerpflicht
 
@@ -222,7 +225,7 @@ Beschränkt körperschaftsteuerpflichtig sind
 1.  das Bundeseisenbahnvermögen, die staatlichen Lotterieunternehmen und der Erdölbevorratungsverband nach § 2 Absatz 1 des Erdölbevorratungsgesetzes vom 16. Januar 2012 (BGBl. I S. 74) in der jeweils geltenden Fassung;
 
 
-2.  die Deutsche Bundesbank, die Kreditanstalt für Wiederaufbau, die Landwirtschaftliche Rentenbank, die Bayerische Landesanstalt für Aufbaufinanzierung, die Bremer Aufbau-Bank GmbH, die Landeskreditbank Baden-Württemberg-Förderbank, die Bayerische Landesbodenkreditanstalt, die Investitionsbank Berlin, die Hamburgische Investitions- und Förderbank, die NRW.Bank, die Investitions- und Förderbank Niedersachsen, die Saarländische Investitionskreditbank Aktiengesellschaft, die Investitionsbank Schleswig-Holstein, die Investitionsbank des Landes Brandenburg, die Sächsische Aufbaubank - Förderbank -, die Thüringer Aufbaubank, die Investitionsbank Sachsen-Anhalt, die Investitions- und Strukturbank Rheinland-Pfalz, das Landesförderinstitut Mecklenburg-Vorpommern - Geschäftsbereich der Norddeutschen Landesbank Girozentrale -, die Wirtschafts- und Infrastrukturbank Hessen – rechtlich unselbständige Anstalt in der Landesbank Hessen-Thüringen Girozentrale und die Liquiditäts-Konsortialbank Gesellschaft mit beschränkter Haftung;
+2.  die Deutsche Bundesbank, die Kreditanstalt für Wiederaufbau, die DEG – Deutsche Investitions- und Entwicklungsgesellschaft mbH, die Landwirtschaftliche Rentenbank, die Bayerische Landesanstalt für Aufbaufinanzierung, die Bremer Aufbau-Bank GmbH, die Landeskreditbank Baden-Württemberg-Förderbank, die Bayerische Landesbodenkreditanstalt, die Investitionsbank Berlin, die Hamburgische Investitions- und Förderbank, die NRW.Bank, die Investitions- und Förderbank Niedersachsen, die Saarländische Investitionskreditbank Aktiengesellschaft, die Investitionsbank Schleswig-Holstein, die Investitionsbank des Landes Brandenburg, die Sächsische Aufbaubank - Förderbank -, die Thüringer Aufbaubank, die Investitionsbank Sachsen-Anhalt, die Investitions- und Strukturbank Rheinland-Pfalz, das Landesförderinstitut Mecklenburg-Vorpommern - Geschäftsbereich der Norddeutschen Landesbank Girozentrale -, die Wirtschafts- und Infrastrukturbank Hessen – rechtlich unselbständige Anstalt in der Landesbank Hessen-Thüringen Girozentrale und die Liquiditäts-Konsortialbank Gesellschaft mit beschränkter Haftung;
 
 
 2a. die Bundesanstalt für vereinigungsbedingte Sonderaufgaben;
@@ -1624,8 +1627,9 @@ Die Körperschaftsteuer entsteht
 2             Die Steuerbefreiung nach § 5 Absatz 1 Nummer 2 in der bis zum 30. Juli 2014 geltenden Fassung ist für die Hamburgische Wohnungsbaukreditanstalt letztmals für den Veranlagungszeitraum 2013 anzuwenden.
 3             § 5 Absatz 1 Nummer 2 ist für die Investitionsbank Sachsen-Anhalt erstmals für den Veranlagungszeitraum 2023 anzuwenden.
 4             Die Steuerbefreiung nach § 5 Absatz 1 Nummer 2 in der bis zum 20. Dezember 2022 geltenden Fassung ist für die Investitionsbank Sachsen-Anhalt – Anstalt der Norddeutschen Landesbank – Girozentrale – letztmalig für den Veranlagungszeitraum 2023 anzuwenden.
-5             § 5 Absatz 1 Nummer 16 Satz 1 und 2 in der am 1. Januar 2016 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2015 anzuwenden.
-6             § 5 Absatz 1 Nummer 24 in der am 31. Dezember 2014 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2014 anzuwenden.
+5             § 5 Absatz 1 Nummer 2 ist für die DEG – Deutsche Investitions- und Entwicklungsgesellschaft mbH erstmals für den Veranlagungszeitraum 2024 anzuwenden.
+6             § 5 Absatz 1 Nummer 16 Satz 1 und 2 in der am 1. Januar 2016 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2015 anzuwenden.
+7             § 5 Absatz 1 Nummer 24 in der am 31. Dezember 2014 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2014 anzuwenden.
 
 (3a) § 5 Absatz 1 Nummer 3 Buchstabe d, Nummer 4 und 16 Satz 3 in der am 1. Januar 2016 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2016 anzuwenden.
 

@@ -23,7 +23,7 @@ Stand: Zuletzt geändert Art. 4 G v. 23.10.2024 I Nr. 327
 :   Art. 4 G v. 21.2.2025 I Nr. 51 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 1 G v. 21.2.2025 I Nr. 52 mWv 25.2.2025 noch nicht berücksichtigt
+:   Art. 1 G v. 21.2.2025 I Nr. 52 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -95,6 +95,9 @@ Im Sinn dieses Gesetzes ist oder sind
 
 
 
+
+
+7a. „Betriebsviertelstunde“ jede Viertelstunde, in der die Anlage Strom erzeugt, unabhängig vom Grad der Auslastung der Anlage,
 
 
 8.  „bezuschlagtes Gebot“ ein Gebot, für das ein Zuschlag erteilt worden ist,
@@ -319,6 +322,9 @@ Im Sinn dieses Gesetzes ist oder sind
 
 
 47. „Unternehmen in Schwierigkeiten“ ein Unternehmen in Schwierigkeiten im Sinn der Mitteilung der Kommission – Leitlinien für staatliche Beihilfen zur Rettung und Umstrukturierung nichtfinanzieller Unternehmen in Schwierigkeiten (ABl. C 249 vom 31.7.2014, S. 1),
+
+
+47a. „Wärmeversorgungseinrichtung“ eine Einrichtung zur leitungsgebundenen Versorgung von mehreren Gebäuden mit Wärme aus einer Biomasseanlage mit einer thermischen Gesamtnennleistung von mindestens 300 Kilowatt,
 
 
 48. „Windenergieanlage an Land“ jede Anlage zur Erzeugung von Strom aus Windenergie, die keine Windenergieanlage auf See ist,
@@ -1593,14 +1599,20 @@ Das Ausschreibungsvolumen wird jeweils gleichmäßig auf die Gebotstermine eines
 2.  im Jahr 2024 500 Megawatt zu installierende Leistung,
 
 
-3.  im Jahr 2025 400 Megawatt zu installierende Leistung und
+3.  im Jahr 2025 1 300 Megawatt zu installierende Leistung,
 
 
-4.  in den Jahren 2026 bis 2028 jeweils 300 Megawatt zu installierende Leistung.
+4.  im Jahr 2026 1 126 Megawatt zu installierende Leistung,
+
+
+5.  im Jahr 2027 326 Megawatt zu installierende Leistung und
+
+
+6.  im Jahr 2028 76 Megawatt zu installierende Leistung.
 
 
 
-Das Ausschreibungsvolumen nach Satz 1 Nummer 1 bis 3 wird jeweils gleichmäßig auf die Gebotstermine eines Kalenderjahres verteilt.
+Das Ausschreibungsvolumen nach Satz 1 wird jeweils gleichmäßig auf die Gebotstermine eines Kalenderjahres verteilt.
 
 (3) Das Ausschreibungsvolumen
 
@@ -2757,11 +2769,11 @@ Die Bundesnetzagentur schließt Gebote für Biomasseanlagen von dem Zuschlagsver
 
 ##### § 39d Zuschlagsverfahren für Biomasseanlagen
 
-(1) Abweichend von § 32 Absatz 1 führt die Bundesnetzagentur folgendes Zuschlagsverfahren für Biomasseanlagen durch, sofern die insgesamt eingereichte Gebotsmenge der zugelassenen Gebote unter der ausgeschriebenen Menge des Gebotstermins liegt. Sie separiert die Gebote, die für Neuanlagen abgegeben wurden, von denen, die für Bestandsanlagen im Sinn des § 39g abgegeben wurden. Die Bundesnetzagentur prüft die Zulässigkeit aller Gebote nach den §§ 33 und 34. Die Bundesnetzagentur sortiert die Gebote für Neuanlagen und für Bestandsanlagen jeweils nach § 32 Absatz 1 Satz 3. Sie erteilt der Reihenfolge nach jeweils allen zulässigen Geboten für Neuanlagen einen Zuschlag im Umfang ihres Gebots, bis 80 Prozent der eingereichten Gebotsmenge der zugelassenen Gebote für Neuanlagen erreicht oder erstmalig durch ein Gebot überschritten sind, und allen zulässigen Geboten für Bestandsanlagen einen Zuschlag im Umfang ihres Gebots, bis 80 Prozent der eingereichten Gebotsmenge der zugelassenen Gebote für Bestandsanlagen erreicht oder erstmalig durch ein Gebot überschritten sind (Zuschlagsbegrenzung). Geboten oberhalb der Zuschlagsbegrenzung wird kein Zuschlag erteilt; das Gebot, durch das die Zuschlagsbegrenzung erreicht oder überschritten wird, erhält den Zuschlag in dem Umfang, für den das Gebot abgegeben worden ist.
+(1) Abweichend von § 32 Absatz 1 führt die Bundesnetzagentur folgendes Zuschlagsverfahren für Biomasseanlagen durch, sofern die insgesamt eingereichte Gebotsmenge der zugelassenen Gebote unter der ausgeschriebenen Menge des Gebotstermins liegt. Sie separiert die Gebote, die für Neuanlagen abgegeben wurden, von denen, die für bestehende Biomasseanlagen im Sinn des § 39g abgegeben wurden. Die Bundesnetzagentur prüft die Zulässigkeit aller Gebote nach den §§ 33 und 34. Die Bundesnetzagentur sortiert die Gebote für Neuanlagen und für bestehende Biomasseanlagen jeweils nach § 32 Absatz 1 Satz 3. Sie erteilt der Reihenfolge nach jeweils allen zulässigen Geboten für Neuanlagen einen Zuschlag im Umfang ihres Gebots, bis 80 Prozent der eingereichten Gebotsmenge der zugelassenen Gebote für Neuanlagen erreicht oder erstmalig durch ein Gebot überschritten sind, und allen zulässigen Geboten für bestehende Biomasseanlagen einen Zuschlag im Umfang ihres Gebots, bis 80 Prozent der eingereichten Gebotsmenge der zugelassenen Gebote für bestehende Biomasseanlagen erreicht oder erstmalig durch ein Gebot überschritten sind (Zuschlagsbegrenzung). Geboten oberhalb der Zuschlagsbegrenzung wird kein Zuschlag erteilt; das Gebot, durch das die Zuschlagsbegrenzung erreicht oder überschritten wird, erhält den Zuschlag in dem Umfang, für den das Gebot abgegeben worden ist.
 
-(2) Ab dem Jahr 2022 führt die Bundesnetzagentur abweichend von Absatz 1 und § 32 Absatz 1 folgendes Zuschlagsverfahren für Biomasseanlagen durch, sofern die insgesamt eingereichte Gebotsmenge der zugelassenen Gebote mindestens der ausgeschriebenen Menge des Gebotstermins entspricht. Sie öffnet die fristgerecht eingegangenen Gebote nach dem Gebotstermin. Sie prüft die Zulässigkeit der Gebote nach den §§ 33 und 34. Sie separiert die zugelassenen Gebote, die für Projekte in der Südregion abgegeben wurden, und sortiert diese Gebote entsprechend § 32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 4 separierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von 50 Prozent des an diesem Gebotstermin zu vergebenden Ausschreibungsvolumens durch einen Zuschlag erreicht oder erstmalig überschritten ist. Sodann sortiert die Bundesnetzagentur sämtliche zugelassenen Gebote, die nicht bereits nach Satz 5 einen Zuschlag erhalten haben, entsprechend § 32 Absatz 1 Satz 3 und erteilt allen Geboten einen Zuschlag im Umfang ihres Gebots, bis eine weitere Menge in Höhe von 50 Prozent des Ausschreibungsvolumens erstmals durch den Zuschlag zu einem Gebot erreicht oder überschritten ist (Zuschlagsgrenze). Geboten oberhalb der Zuschlagsgrenze wird kein Zuschlag erteilt.
+(2) Abweichend von Absatz 1 und § 32 Absatz 1 führt die Bundesnetzagentur ab dem 25. Februar 2025 bis zum Ablauf des 31. Dezember 2027 folgendes Zuschlagsverfahren für Biomasseanlagen durch, sofern die insgesamt eingereichte Gebotsmenge der zugelassenen Gebote mindestens der ausgeschriebenen Menge des Gebotstermins entspricht. Sie öffnet die fristgerecht eingegangenen Gebote nach dem Gebotstermin. Sie prüft die Zulässigkeit der Gebote nach den §§ 33 und 34. Sie separiert die Gebote für bestehende Biomasseanlagen, die bereits am 1. Januar 2024 an eine Wärmeversorgungseinrichtung angeschlossen waren und zum Zeitpunkt der Gebotsabgabe noch immer an diese angeschlossen sind (bestehende Biomasseanlagen mit Anschluss an eine Wärmeversorgungseinrichtung) und deren bisherige Förderung nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes vor dem 1. Januar 2029 endet. Die Bundesnetzagentur sortiert die nach Satz 4 separierten Gebote entsprechend § 32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 5 sortierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von 50 Prozent des an diesem Gebotstermin zu vergebenden Ausschreibungsvolumens durch einen Zuschlag erreicht oder erstmalig überschritten ist (Zuschlagsgrenze). Die Bundesnetzagentur separiert die Gebote für bestehende Biomasseanlagen mit Anschluss an eine Wärmeversorgungseinrichtung, deren bisherige Förderung nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes vor dem 1. Januar 2031 endet. Die Bundesnetzagentur sortiert die nach Satz 7 separierten Gebote nach § 32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 8 sortierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von insgesamt 70 Prozent des an diesem Gebotstermin zu vergebenden Ausschreibungsvolumens, einschließlich des nach Satz 6 bezuschlagten Ausschreibungsvolumens, erreicht oder erstmalig überschritten ist (Zuschlagsgrenze). Schließlich sortiert die Bundesnetzagentur sämtliche zugelassenen Gebote, die nicht bereits nach Satz 6 oder Satz 9 einen Zuschlag erhalten haben, entsprechend § 32 Absatz 1 Satz 3 und erteilt allen Geboten einen Zuschlag im Umfang ihres Gebots, bis das gesamte Ausschreibungsvolumen, einschließlich der nach den Sätzen 6 und 9 bezuschlagten Gebotsmenge, durch den Zuschlag zu einem Gebot erreicht oder erstmalig überschritten ist (Zuschlagsgrenze). Geboten oberhalb der Zuschlagsgrenze wird kein Zuschlag erteilt; das Gebot, durch das die jeweilige Zuschlagsgrenze erreicht oder überschritten wird, erhält den Zuschlag in dem Umfang, für den das Gebot abgegeben worden ist.
 
-(3) Ab dem Jahr 2022 führt die Bundesnetzagentur abweichend von Absatz 1 und § 32 Absatz 1 folgendes Zuschlagsverfahren für Biomasseanlagen durch, sofern die insgesamt eingereichte Gebotsmenge der zugelassenen Gebote unter der ausgeschriebenen Menge des Gebotstermins liegt. Sie öffnet die fristgerecht eingegangenen Gebote nach dem Gebotstermin. Sie prüft die Zulässigkeit der Gebote nach den §§ 33 und 34. Sie separiert die zugelassenen Gebote, die für Anlagen in der Südregion abgegeben wurden; sie separiert diese Gebote danach, ob sie für Neuanlagen oder für Bestandsanlagen im Sinne des § 39g abgegeben wurden. Die Bundesnetzagentur sortiert die Gebote, die für Bestandsanlagen in der Südregion abgegeben wurden, entsprechend § 32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 5 separierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von 20 Prozent der an diesem Gebotstermin eingereichten Gebotsmenge der zugelassenen Gebote durch einen Zuschlag erreicht oder erstmalig überschritten ist. Sodann sortiert die Bundesnetzagentur die nach Satz 4 erster Halbsatz separierten Gebote, denen noch kein Zuschlag erteilt wurde, entsprechend § 32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 7 sortierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von insgesamt 40 Prozent einschließlich der nach Satz 6 bezuschlagten Gebotsmenge der an diesem Gebotstermin eingereichten Gebotsmenge der zugelassenen Gebote durch einen Zuschlag erreicht oder erstmalig überschritten ist. Sie separiert die zugelassenen Gebote, die noch nicht bezuschlagt wurden; sie separiert diese Gebote danach, ob sie für Neuanlagen oder für Bestandsanlagen im Sinn des § 39g abgegeben wurden. Die Bundesnetzagentur sortiert die Gebote, die für Bestandsanlagen abgegeben wurden, entsprechend § 32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 10 separierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von 20 Prozent der an diesem Gebotstermin eingereichten Gebotsmenge der zugelassenen Gebote durch einen Zuschlag erreicht oder erstmalig überschritten ist. Sodann sortiert die Bundesnetzagentur die Gebote, denen noch kein Zuschlag erteilt wurde, entsprechend § 32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 12 sortierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von weiteren 40 Prozent einschließlich der nach Satz 11 bezuschlagten Gebotsmenge der an diesem Gebotstermin eingereichten Gebotsmenge der zugelassenen Gebote durch einen Zuschlag erreicht oder erstmalig überschritten ist.
+(3) Abweichend von Absatz 1 und § 32 Absatz 1 führt die Bundesnetzagentur ab dem 25. Februar 2025 bis zum Ablauf des 31. Dezember 2027 folgendes Zuschlagsverfahren für Biomasseanlagen durch, sofern die insgesamt eingereichte Gebotsmenge der zugelassenen Gebote unter der ausgeschriebenen Menge des Gebotstermins liegt. Sie öffnet die fristgerecht eingegangenen Gebote nach dem Gebotstermin. Sie prüft die Zulässigkeit der Gebote nach den §§ 33 und 34. Sie separiert die Gebote für bestehende Biomasseanlagen mit Anschluss an eine Wärmeversorgungseinrichtung, deren bisherige Förderung nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes vor dem 1. Januar 2029 endet. Die Bundesnetzagentur sortiert die nach Satz 4 separierten Gebote entsprechend § 32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 5 sortierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von 40 Prozent der an diesem Gebotstermin eingereichten Gebotsmenge der zugelassenen Gebote durch einen Zuschlag erreicht oder erstmalig überschritten ist (Zuschlagsbegrenzung). Die Bundesnetzagentur separiert die Gebote für bestehende Biomasseanlagen mit Anschluss an eine Wärmeversorgungseinrichtung, deren bisherige Förderung nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes vor dem 1. Januar 2031 endet. Die Bundesnetzagentur sortiert die nach Satz 7 separierten Gebote entsprechend § 32 Absatz 1 Satz 3. Sodann erteilt die Bundesnetzagentur allen nach Satz 8 sortierten Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von insgesamt 60 Prozent, einschließlich der nach Satz 6 bezuschlagten Gebotsmenge, der an diesem Gebotstermin eingereichten Gebotsmenge der zugelassenen Gebote durch einen Zuschlag erreicht oder erstmalig überschritten ist (Zuschlagsbegrenzung). Schließlich sortiert die Bundesnetzagentur sämtliche zugelassenen Gebote, die nicht bereits nach Satz 6 oder Satz 9 einen Zuschlag erhalten haben, entsprechend § 32 Absatz 1 Satz 3 und erteilt allen Geboten einen Zuschlag im Umfang ihres Gebots, bis eine Zuschlagsmenge von insgesamt 80 Prozent, einschließlich der nach den Sätzen 6 und 9 bezuschlagten Gebotsmenge, der an diesem Gebotstermin eingereichten Gebotsmenge der zugelassenen Gebote durch einen Zuschlag erreicht oder erstmalig überschritten ist (Zuschlagsbegrenzung). Geboten oberhalb der Zuschlagsbegrenzung wird kein Zuschlag erteilt; das Gebot, durch das die jeweilige Zuschlagsbegrenzung erreicht oder überschritten wird, erhält den Zuschlag in dem Umfang, für den das Gebot abgegeben worden ist.
 
 
 ##### § 39e Erlöschen von Zuschlägen für Biomasseanlagen
@@ -2789,25 +2801,26 @@ Die Verlängerung soll höchstens für die Dauer der Gültigkeit der Genehmigung
 
 ##### § 39g Einbeziehung bestehender Biomasseanlagen
 
-(1) Abweichend von § 39 Absatz 1 Nummer 1 können für Biomasseanlagen, die erstmals vor dem 1. Januar 2017 ausschließlich mit Biomasse im Sinn der Biomasseverordnung in der für die Inbetriebnahme maßgeblichen Fassung in Betrieb genommen worden sind (bestehende Biomasseanlagen), Gebote abgegeben werden, wenn der bisherige Zahlungsanspruch für Strom aus dieser Anlage nach dem Erneuerbare-Energien-Gesetz in der für die Anlage maßgeblichen Fassung zum Zeitpunkt der Ausschreibung nur noch für höchstens acht Jahre besteht. Abweichend von § 22 Absatz 4 Satz 2 können auch bestehende Biomasseanlagen mit einer installierten Leistung von 150 Kilowatt oder weniger Gebote abgeben. Der Zuschlagswert ist für alle bezuschlagten Gebote von Anlagen nach Satz 2 abweichend von § 3 Nummer 51 der Gebotswert des höchsten noch bezuschlagten Gebots desselben Gebotstermins.
+(1) Abweichend von § 39 Absatz 1 Nummer 1 können für Biomasseanlagen, die erstmals vor dem 1. Januar 2017 ausschließlich mit Biomasse im Sinn der Biomasseverordnung in der für die Inbetriebnahme maßgeblichen Fassung in Betrieb genommen worden sind (bestehende Biomasseanlagen), Gebote abgegeben werden, wenn der bisherige Zahlungsanspruch für Strom aus dieser Anlage nach dem Erneuerbare-Energien-Gesetz in der für die Anlage maßgeblichen Fassung zum Zeitpunkt der Ausschreibung nur noch für höchstens fünf Jahre besteht. Abweichend von § 22 Absatz 4 Satz 2 können auch bestehende Biomasseanlagen mit einer installierten Leistung von 150 Kilowatt oder weniger Gebote abgeben. Der Zuschlagswert ist für alle bezuschlagten Gebote von Anlagen nach Satz 2 abweichend von § 3 Nummer 51 der Gebotswert des höchsten noch bezuschlagten Gebots desselben Gebotstermins.
 
-(2) Erteilt die Bundesnetzagentur nach Absatz 1 einer bestehenden Biomasseanlage einen Zuschlag, tritt der Anspruch nach § 19 Absatz 1 ab dem ersten Tag eines durch den Anlagenbetreiber zu bestimmenden Kalendermonats für die Zukunft an die Stelle aller bisherigen Ansprüche nach dem Erneuerbare-Energien-Gesetz in der für die Anlage maßgeblichen Fassung. Der Anlagenbetreiber muss dem Netzbetreiber einen Kalendermonat mitteilen, der nicht vor dem dritten und nicht nach dem 60. Kalendermonat liegt, der auf die öffentliche Bekanntgabe des Zuschlags folgt. Die Mitteilung hat vor Beginn des Kalendermonats zu erfolgen, der dem nach Satz 2 mitzuteilenden Kalendermonat vorangeht. Wenn der Anlagenbetreiber keine Mitteilung nach Satz 2 macht, tritt der neue Anspruch am ersten Tag des 61. Kalendermonats, der auf die öffentliche Bekanntgabe des Zuschlags folgt, an die Stelle der bisherigen Ansprüche. Der Netzbetreiber muss der Bundesnetzagentur den Tag nach Satz 1 mitteilen, sobald dieser ihm bekannt ist.
+(2) Erteilt die Bundesnetzagentur nach Absatz 1 einer bestehenden Biomasseanlage einen Zuschlag, tritt der Anspruch nach § 19 Absatz 1 ab dem ersten Tag eines durch den Anlagenbetreiber zu bestimmenden Kalendermonats für die Zukunft an die Stelle aller bisherigen Ansprüche nach dem Erneuerbare-Energien-Gesetz in der für die Anlage maßgeblichen Fassung. Der Anlagenbetreiber muss dem Netzbetreiber einen Kalendermonat mitteilen, der nicht vor dem dritten und nicht nach dem 42. Kalendermonat liegt, der auf die öffentliche Bekanntgabe des Zuschlags folgt. Die Mitteilung hat vor Beginn des Kalendermonats zu erfolgen, der dem nach Satz 2 mitzuteilenden Kalendermonat vorangeht. Wenn der Anlagenbetreiber keine Mitteilung nach Satz 2 macht, tritt der neue Anspruch am ersten Tag des 43. Kalendermonats, der auf die öffentliche Bekanntgabe des Zuschlags folgt, an die Stelle der bisherigen Ansprüche. Der Netzbetreiber muss der Bundesnetzagentur den Tag nach Satz 1 mitteilen, sobald dieser ihm bekannt ist.
 
-(3) Die Anlage gilt als an dem Tag nach Absatz 2 neu in Betrieb genommen. Ab diesem Tag sind für diese Anlagen alle Rechte und Pflichten verbindlich, die für Anlagen gelten, die nach dem 31. Dezember 2022 in Betrieb genommen worden sind, und es ist die Biomasseverordnung in der zum Zeitpunkt der Bekanntmachung der Ausschreibung geltenden Fassung verbindlich.
+(3) Die Anlage gilt als an dem Tag nach Absatz 2 neu in Betrieb genommen. Ab diesem Tag sind für diese Anlagen alle Rechte und Pflichten verbindlich, die zum Zeitpunkt des Gebotstermins gelten, in dem das Angebot für die Anlage abgegeben wurde, und es ist die Biomasseverordnung in der zum Zeitpunkt der Bekanntmachung der Ausschreibung geltenden Fassung verbindlich.
 
 (4) Der neue Anspruch nach § 19 Absatz 1 in Verbindung mit Absatz 2 besteht nur, wenn ein Umweltgutachter mit einer Zulassung für den Bereich Elektrizitätserzeugung aus erneuerbaren Energien bescheinigt hat, dass die Anlage für einen bedarfsorientierten Betrieb technisch geeignet ist und der Anlagenbetreiber diese Bescheinigung dem Netzbetreiber vorgelegt hat. Maßgeblich für einen bedarfsorientierten Betrieb sind
 
-1.  für Anlagen, die Biogas einsetzen, die Anforderungen nach § 39i Absatz 2 Satz 2 Nummer 1 und
+1.  für Anlagen, die Biogas einsetzen, die Anforderungen nach § 39i Absatz 2a und
 
 
-2.  für Anlagen, die feste Biomasse einsetzen, die Anforderungen nach § 39i Absatz 2 Satz 2 Nummer 2.
+2.  für Anlagen, die feste Biomasse einsetzen, die Anforderungen nach § 39i Absatz 2.
 
 
 
+Sofern der Zuschlag aufgrund von § 39d Absatz 2 Satz 6 oder Satz 9 oder § 39d Absatz 3 Satz 6 oder Satz 9 erteilt wurde, besteht der Anspruch nach § 19 Absatz 1 in Verbindung mit Absatz 2 nur, wenn ein Umweltgutachter mit einer Zulassung für den Bereich Wärmeversorgung bescheinigt hat, dass die Anlage bereits am 1. Januar 2024 an eine Wärmeversorgungseinrichtung angeschlossen und zum Zeitpunkt der Gebotsabgabe noch immer an diese angeschlossen war, und der Anlagenbetreiber diese Bescheinigung dem Netzbetreiber vorgelegt hat.
 
 (5) Die §§ 39 bis 39f sind mit den Maßgaben anzuwenden, dass
 
-1.  die Genehmigung nach § 39 Absatz 1 Nummer 2 für einen Zeitraum bis mindestens zum letzten Tag des elften Kalenderjahres, das auf den Gebotstermin folgt, erteilt worden sein muss,
+1.  die Genehmigung nach § 39 Absatz 1 Nummer 2 für einen Zeitraum bis mindestens zum letzten Tag des 13. Kalenderjahres, das auf den Gebotstermin folgt, erteilt worden sein muss,
 
 
 1a. die Anlage dem Register gemeldet worden sein muss,
@@ -2815,10 +2828,13 @@ Die Verlängerung soll höchstens für die Dauer der Gültigkeit der Genehmigung
 
 2.  der Bieter in Ergänzung zu § 39 Absatz 3 Eigenerklärungen beifügen muss, nach denen
 
-    a)  er Betreiber der Biomasseanlage ist und
+    a)  er Betreiber der Biomasseanlage ist,
 
 
-    b)  die Genehmigung nach § 39 Absatz 1 Nummer 2 die Anforderung nach Nummer 1 erfüllt,
+    b)  falls zutreffend, die Biomasseanlage eine bestehende Biomasseanlage ist, die bereits am 1. Januar 2024 an eine Wärmeversorgungseinrichtung angeschlossen war und zum Zeitpunkt der Gebotsabgabe noch immer angeschlossen ist, und
+
+
+    c)  die Genehmigung nach § 39 Absatz 1 Nummer 2 die Anforderung nach Nummer 1 erfüllt,
 
 
 
@@ -2852,7 +2868,7 @@ Die Verlängerung soll höchstens für die Dauer der Gültigkeit der Genehmigung
 
 
 
-(3) Abweichend von § 25 Absatz 1 Satz 1 beträgt der Zahlungszeitraum für bestehende Biomasseanlagen zehn Jahre. Dieser Zeitraum kann nicht erneut nach § 39g verlängert werden.
+(3) Abweichend von § 25 Absatz 1 Satz 1 beträgt der Zahlungszeitraum für bestehende Biomasseanlagen zwölf Jahre. Dieser Zeitraum kann nicht erneut nach § 39g verlängert werden.
 
 
 ##### § 39i Besondere Zahlungsbestimmungen für Biomasseanlagen
@@ -2862,10 +2878,13 @@ Die Verlängerung soll höchstens für die Dauer der Gültigkeit der Genehmigung
 1.  im Jahr 2023 einen Zuschlag erhalten haben, in jedem Kalenderjahr insgesamt höchstens 40 Masseprozent beträgt,
 
 
-2.  im Jahr 2024 oder 2025 einen Zuschlag erhalten haben, in jedem Kalenderjahr insgesamt höchstens 35 Masseprozent beträgt,
+2.  einen Zuschlag in einem Gebotstermin nach dem Ablauf des 31. Dezember 2023 und vor dem 25. Februar 2025 erhalten haben, in jedem Kalenderjahr insgesamt höchstens 35 Masseprozent beträgt,
 
 
-3.  im Jahr 2026, 2027 oder 2028 einen Zuschlag erhalten haben, in jedem Kalenderjahr höchstens 30 Masseprozent beträgt.
+3.  einen Zuschlag in einem Gebotstermin nach dem 25. Februar 2025 und vor dem 1. Januar 2026 erhalten haben, in jedem Kalenderjahr insgesamt höchstens 30 Masseprozent beträgt,
+
+
+4.  im Jahr 2026, 2027 oder 2028 einen Zuschlag erhalten haben, in jedem Kalenderjahr höchstens 25 Masseprozent beträgt.
 
 
 
@@ -2873,16 +2892,18 @@ Als Mais im Sinn von Satz 1 sind Ganzpflanzen, Maiskorn-Spindel-Gemisch, Körner
 
 (1a) Ein durch einen Zuschlag erworbener Anspruch nach § 19 Absatz 1 für Strom aus Biogas besteht nur, wenn in der Anlage kein Biomethan eingesetzt wird.
 
-(2) Für Strom aus Biomasseanlagen verringert sich der Anspruch nach § 19 Absatz 1 für jede Kilowattstunde, um die in einem Kalenderjahr die Höchstbemessungsleistung der Anlage überschritten wird, in der Veräußerungsform der Marktprämie auf null und in den Veräußerungsformen einer Einspeisevergütung auf den Marktwert. Höchstbemessungsleistung im Sinn von Satz 1 ist
+(2) Für Strom aus Biomasseanlagen, die feste Biomasse einsetzen, verringert sich der Anspruch nach § 19 Absatz 1 für jede Kilowattstunde, um die in einem Kalenderjahr die Höchstbemessungsleistung der Anlage überschritten wird, in der Veräußerungsform der Marktprämie auf null und in den Veräußerungsformen einer Einspeisevergütung auf den Marktwert. Höchstbemessungsleistung im Sinn des Satzes 1 ist der um 25 Prozent verringerte Wert der bezuschlagten Gebotsmenge. Wird der Zuschlag nach § 35a teilweise entwertet, ist bei der Bestimmung der Höchstbemessungsleistung nach Satz 2 die bezuschlagte Gebotsmenge entsprechend zu verringern.
 
-1.  für Anlagen, die Biogas einsetzen, der um 55 Prozent verringerte Wert der bezuschlagten Gebotsmenge und
+(2a) Für Strom aus Biogasanlagen, deren anzulegender Wert in einem Zuschlagsverfahren ermittelt worden ist, besteht der Anspruch nach § 19 Absatz 1 nur für die Kilowattstunden, die in den 11 680 Betriebsviertelstunden eines Kalenderjahres eingespeist werden, in denen die Anlage die höchsten Strommengen je Betriebsviertelstunde eingespeist hat (förderfähige Betriebsviertelstunden). Im ersten Jahr der Geltendmachung des Anspruchs nach Satz 1 reduziert sich die Anzahl der förderfähigen Betriebsviertelstunden nach Satz 1 anteilig im Verhältnis der vollen Kalendermonate, in denen der Anspruch nach Satz 1 geltend gemacht wird, zu zwölf Kalendermonaten. Die Zahl der förderfähigen Betriebsviertelstunden nach Satz 1 oder Satz 5 reduziert sich jeweils um 500 Betriebsviertelstunden
 
-
-2.  für Anlagen, die feste Biomasse einsetzen, der um 25 Prozent verringerte Wert der bezuschlagten Gebotsmenge.
-
+1.  für Biogasanlagen, die einen Zuschlag in einem Gebotstermin am 1. April erhalten haben, ab dem 1. Januar des fünften, des siebten, des neunten und des elften Jahres nach Zuschlagserteilung und
 
 
-Wird der Zuschlag nach § 35a teilweise entwertet, ist bei der Bestimmung der Höchstbemessungsleistung nach Satz 2 die bezuschlagte Gebotsmenge entsprechend zu verringern.
+2.  für Biogasanlagen, die einen Zuschlag in einem Gebotstermin am 1. Oktober erhalten haben, ab dem 1. Januar des sechsten, des achten, des neunten und des elften Jahres nach Zuschlagserteilung.
+
+
+
+Im letzten Jahr der Geltendmachung des Anspruchs nach Satz 1 reduziert sich die Anzahl der Betriebsviertelstunden nach Satz 3 anteilig im Verhältnis der vollen Kalendermonate, in denen der Anspruch nach Satz 1 geltend gemacht wird, zu zwölf Kalendermonaten. Abweichend von Satz 1 beträgt die Anzahl der förderfähigen Betriebsviertelstunden für Biogasanlagen mit einer installierten Leistung bis einschließlich 350 Kilowatt, deren anzulegender Wert in einem Zuschlagsverfahren ermittelt worden ist, 16 000 Betriebsviertelstunden.
 
 (3) Soweit in Biomasseanlagen Biogas eingesetzt wird, das in dem jeweiligen Kalenderjahr durch anaerobe Vergärung von Biomasse im Sinn der Biomasseverordnung mit einem Anteil von getrennt erfassten Bioabfällen im Sinn der Abfallschlüssel Nummer 20 02 01, 20 03 01 und 20 03 02 der Nummer 1 Buchstabe a des Anhangs 1 der Bioabfallverordnung gewonnen worden ist, ist der anzulegende Wert für den aus diesen Bioabfällen erzeugten Strom unabhängig von ihrem Zuschlagswert der Höhe nach begrenzt
 
@@ -2918,7 +2939,7 @@ Die anzulegenden Werte nach Satz 1 verringern sich erstmals ab dem 1. Juli 2024 
 
 (2) In Ergänzung zu den Anforderungen nach den §§ 30 und 39 müssen Bieter ihren Geboten für Biomethananlagen mit einer installierten Leistung von mehr als 10 Megawatt, die nach dem 30. Juni 2023 nach dem Bundes-Immissionsschutzgesetz genehmigt worden sind, den Nachweis beifügen, dass die Anlagen ab dem 1. Januar 2028 mit höchstens 10 Prozent der Kosten, die eine mögliche Neuerrichtung einer Biomethananlage mit gleicher Leistung nach dem aktuellen Stand der Technik betragen würde, so umgestellt werden können, dass sie ihren Strom ausschließlich auf Basis von Wasserstoff gewinnen können.
 
-(3) In Ergänzung zu den Anforderungen nach § 39 Absatz 1 müssen die Biomethananlagen, für die Gebote abgegeben werden, in der Südregion errichtet werden.
+(3) (weggefallen)
 
 (4) In den Fällen des § 28d Absatz 6 korrigiert die Bundesnetzagentur das nach § 29 Absatz 1 Satz 2 Nummer 2 bekanntgemachte Ausschreibungsvolumen bis spätestens zwei Wochen vor dem Gebotstermin. § 29 Absatz 2 ist entsprechend anzuwenden.
 
@@ -3133,7 +3154,15 @@ Die anzulegenden Werte nach den §§ 42 bis 44 verringern sich erstmals ab dem 1
 
 ##### § 44b Gemeinsame Bestimmungen für Strom aus Gasen
 
-(1) Der Anspruch nach § 19 Absatz 1 für Strom aus Biogas besteht für Strom, der in Anlagen mit einer installierten Leistung von mehr als 100 Kilowatt erzeugt wird, nur für den Anteil der in einem Kalenderjahr erzeugten Strommenge, der einer Bemessungsleistung der Anlage von 45 Prozent des Wertes der installierten Leistung entspricht. Für den darüber hinausgehenden Anteil der in dem Kalenderjahr erzeugten Strommenge verringert sich der Anspruch nach § 19 Absatz 1 in der Veräußerungsform der Marktprämie auf null und in den Veräußerungsformen einer Einspeisevergütung auf den Marktwert. Die Sätze 1 und 2 sind nicht für Strom aus Anlagen im Sinn von § 44 anzuwenden, in denen Biogas eingesetzt wird, das durch anaerobe Vergärung von Biomasse im Sinn der Biomasseverordnung gewonnen worden ist.
+(1) Der Anspruch nach § 19 Absatz 1 für Strom aus Biogas besteht für Strom, der in Anlagen mit einer installierten Leistung von mehr als 100 Kilowatt erzeugt wird, nur für den Anteil der in einem Kalenderjahr erzeugten Strommenge, der einer Bemessungsleistung der Anlage von 45 Prozent des Wertes der installierten Leistung entspricht. Für den darüber hinausgehenden Anteil der in dem Kalenderjahr erzeugten Strommenge verringert sich der Anspruch nach § 19 Absatz 1 in der Veräußerungsform der Marktprämie auf null und in den Veräußerungsformen einer Einspeisevergütung auf den Marktwert. Die Sätze 1 und 2 sind nicht anzuwenden für Strom
+
+1.  aus Anlagen im Sinn des § 44, in denen Biogas eingesetzt wird, das durch anaerobe Vergärung von Biomasse im Sinn der Biomasseverordnung gewonnen worden ist, und
+
+
+2.  aus Biogasanlagen, die einen Zuschlag nach § 39 erhalten haben.
+
+
+
 
 (2) Der Anspruch nach § 19 Absatz 1 für Strom aus Biomasse nach § 42 oder § 43 besteht ferner nur, soweit bei Anlagen, in denen Biomethan eingesetzt wird, der Strom in einer hocheffizienten KWK-Anlage erzeugt wird.
 
@@ -3471,7 +3500,7 @@ In den Fällen des Satzes 2 wird die Anzahl der nach Satz 1 erforderlichen Vier
 
 ##### § 50a Flexibilitätszuschlag für neue Anlagen
 
-(1) Der Anspruch nach § 50 beträgt für die Bereitstellung flexibler installierter Leistung 65 Euro pro Kilowatt installierter Leistung und Jahr (Flexibilitätszuschlag) in
+(1) Der Anspruch nach § 50 beträgt für die Bereitstellung flexibler installierter Leistung 100 Euro pro Kilowatt installierter Leistung und Jahr (Flexibilitätszuschlag) in
 
 1.  Anlagen zur Erzeugung von Strom aus Biogas mit einer installierten Leistung von mehr als 100 Kilowatt, deren anzulegender Wert gesetzlich bestimmt wird, und
 
@@ -3482,7 +3511,7 @@ In den Fällen des Satzes 2 wird die Anzahl der nach Satz 1 erforderlichen Vier
 
 Der Anspruch nach Satz 1 verringert sich für die Anlagenbetreiber, die für ihre Anlage die Flexibilitätsprämie nach § 50b dieses Gesetzes oder nach der für sie maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes in Anspruch genommen haben, für denjenigen Leistungsteil, der sich als Quotient aus der Gesamtsumme der für diese Anlage in Anspruch genommenen Flexibilitätsprämie in Euro und 1 300 Euro je Kilowatt ergibt, auf 50 Euro je Kilowatt installierter Leistung und Jahr.
 
-(2) Der Anspruch auf den Flexibilitätszuschlag besteht nur, wenn der Anlagenbetreiber für den in § 44b Absatz 1 bestimmten Anteil der in einem Kalenderjahr erzeugten Strommenge einen Anspruch nach § 19 Absatz 1 in Verbindung mit § 39, § 42 oder § 43 in Anspruch nimmt und dieser Anspruch nicht nach § 52 verringert ist.
+(2) Der Anspruch auf den Flexibilitätszuschlag besteht nur, wenn der Anlagenbetreiber für den in § 44b Absatz 1 bestimmten Anteil der in einem Kalenderjahr erzeugten Strommenge oder für die in den nach § 39i Absatz 2a festgelegten Betriebsviertelstunden erzeugten Strommenge einen Anspruch nach § 19 Absatz 1 in Verbindung mit § 39, § 42 oder § 43 in Anspruch nimmt und dieser Anspruch nicht nach § 52 verringert ist.
 
 (3) Der Flexibilitätszuschlag kann für die gesamte Dauer des Anspruchs nach § 19 Absatz 1 verlangt werden.
 
@@ -3602,6 +3631,11 @@ Endet der ursprüngliche Vergütungszeitraum der Solaranlage untermonatlich, ent
 
 
 
+
+
+#### § 51b Verringerung des Zahlungsanspruchs für Biogasanlagen in Ausschreibungen bei schwach positiven und negativen Preisen
+
+Für Anlagen, die Biogas mit Ausnahme von Biomethan einsetzen und deren anzulegender Wert in einem Zuschlagsverfahren ermittelt worden ist, verringert sich der anzulegende Wert auf null für Zeiträume, in denen der Spotmarktpreis 2 Cent pro Kilowattstunde oder weniger beträgt. Die §§ 51 und 51a sind auf diese Anlagen nicht anzuwenden.
 
 
 #### § 52 Zahlungen bei Pflichtverstößen
@@ -6139,7 +6173,7 @@ Die Bundesnetzagentur veröffentlicht jährlich unverzüglich nach dem 1. Oktobe
 
 Für Anlagen, die in einem Zuschlagsverfahren eines Gebotstermins nach dem 31. Dezember 2022 und vor dem 16. Mai 2024 einen Zuschlag erhalten haben, sind § 39j und § 55 Absatz 4 und 5a in der am 15. Mai 2024 geltenden Fassung des Erneuerbare-Energien-Gesetzes anwendbar, wenn der Bieter in Textform gegenüber der Bundesnetzagentur erklärt, dass diese anwendbar bleiben sollen.
 
-(37) § 39d Absatz 2 und 3 ist bei den Ausschreibungen für Biomasseanlagen und § 39k Absatz 3 ist bei den Ausschreibungen für Biomethananlagen mit einem Gebotstermin nach dem 15. Mai 2024 und vor dem 1. Januar 2028 nicht anzuwenden.
+(37) Für Anlagen, deren anzulegender Wert in einem Zuschlagsverfahren eines Gebotstermins nach dem Ablauf des 31. Dezember 2022 und vor dem 24. Februar 2025 ermittelt worden ist, sind § 28c Absatz 1, die §§ 39d, 39g Absatz 1 Satz 1, Absatz 2 Satz 2 und 4, Absatz 3 Satz 2, Absatz 4 und 5 Nummer 1 und 2, § 39h Absatz 3 Satz 1, § 39i Absatz 1 Satz 1, Absatz 2 Satz 1 und 2, § 44b Absatz 1 Satz 3 und § 50a Absatz 1 Satz 1 und Absatz 2 in der am 24. Februar 2025 geltenden Fassung anzuwenden. § 3 Nummer 7a und 47b, § 39i Absatz 2a und § 51b sind nicht auf Anlagen nach Satz 1 anzuwenden.
 
 (38) Für Biogasanlagen, in denen Biogas eingesetzt wird, das durch anaerobe Vergärung von Biomasse im Sinn der Biomasseverordnung gewonnen worden ist, und deren installierte Leistung aufgrund der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes insgesamt höchstens 75 Kilowatt betragen darf, bleibt der Vergütungsanspruch nach der für die Anlage maßgeblichen Fassung des Erneuerbare-Energien-Gesetzes bestehen, wenn die installierte Leistung der Anlage auf höchstens 150 Kilowatt erhöht wird. Der nach Satz 1 fortbestehende Vergütungsanspruch ist jährlich auf die Strommenge begrenzt, die in den drei der Leistungserhöhung vorangegangenen Kalenderjahren durchschnittlich innerhalb eines Kalenderjahres in das Netz eingespeist und vergütet wurde. Es besteht kein Vergütungsanspruch nach diesem Gesetz für Strommengen, die aufgrund der Leistungserhöhung nach Satz 1 erzeugt werden. Der Vergütungsanspruch besteht nach Satz 1 nur fort, wenn bei der Erzeugung des gesamten in der Anlage eingesetzten Biogases die Voraussetzungen von § 44 Absatz 2 Nummer 3 dieses Gesetzes erfüllt sind. § 44 Absatz 3 dieses Gesetzes ist entsprechend anzuwenden. Die aufgrund der Leistungserhöhung zusätzlich erzeugten Strommengen müssen dem Netzbetreiber nicht zur Verfügung gestellt werden. Eine Pflicht zur Direktvermarktung besteht auch dann nicht, wenn durch die Leistungserhöhung eine installierte Leistung von 100 Kilowatt überschritten wird.
 
@@ -6185,7 +6219,9 @@ Fällt der Tag, an dem die Strombörsen erstmals in der vortägigen Auktion am D
 
 #### § 101 Beihilferechtlicher Genehmigungsvorbehalt
 
-Die Bestimmungen von § 19 Absatz 3c, § 22 Absatz 3 Satz 2, § 28b Absatz 2, § 30 Absatz 2, § 36h Absatz 3 Satz 2 und 3, § 37 Absatz 3, § 37b Absatz 2, § 37d, § 38a Absatz 1 Nummer 5, § 38h Satz 2, § 46 Absatz 3, § 48 Absatz 1b, 2 und 4 Satz 2, § 85a Absatz 1 Satz 2 und § 100 Absatz 35 und 47 dürfen erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission und nur nach Maßgabe dieser Genehmigung angewandt werden. Bis zu dieser Genehmigung sind § 22 Absatz 3 Satz 2, § 28b Absatz 2, § 30 Absatz 2, § 37 Absatz 3, § 38a Absatz 1 Nummer 5, § 38b Absatz 1 Satz 2 und 3, § 46 Absatz 3, § 48 Absatz 2 und 4 Satz 2 sowie § 85a Absatz 1 Satz 2 in der am 15. Mai 2024 geltenden Fassung anzuwenden.
+(1) Die Bestimmungen von § 19 Absatz 3c, § 22 Absatz 3 Satz 2, § 28b Absatz 2, § 30 Absatz 2, § 36h Absatz 3 Satz 2 und 3, § 37 Absatz 3, § 37b Absatz 2, § 37d, § 38a Absatz 1 Nummer 5, § 38h Satz 2, § 46 Absatz 3, § 48 Absatz 1b, 2 und 4 Satz 2, § 85a Absatz 1 Satz 2 und § 100 Absatz 35 und 47 dürfen erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission und nur nach Maßgabe dieser Genehmigung angewandt werden. Bis zu dieser Genehmigung sind § 22 Absatz 3 Satz 2, § 28b Absatz 2, § 30 Absatz 2, § 37 Absatz 3, § 38a Absatz 1 Nummer 5, § 38b Absatz 1 Satz 2 und 3, § 46 Absatz 3, § 48 Absatz 2 und 4 Satz 2 sowie § 85a Absatz 1 Satz 2 in der am 15. Mai 2024 geltenden Fassung anzuwenden.
+
+(2) Die Bestimmungen von § 28c Absatz 1, der §§ 39d, 39g Absatz 1 Satz 1, Absatz 2 Satz 2 und 4, Absatz 3 Satz 2, Absatz 4 und 5 Nummer 1 und 2, von § 39h Absatz 3 Satz 1, § 39i Absatz 2 Satz 1 und 2, Absatz 2a, § 44b Absatz 1 Satz 3, § 50a Absatz 1 Satz 1, Absatz 2 und § 51b dürfen erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission und nur nach Maßgabe dieser Genehmigung angewandt werden. Bis zu dieser Genehmigung sind § 28c Absatz 1, die §§ 39d, 39g Absatz 1 Satz 1, Absatz 2 Satz 2 und 4, Absatz 3 Satz 2, Absatz 4 und 5 Nummer 1 und 2, § 39h Absatz 3 Satz 1, § 39i Absatz 2 Satz 1 und 2, § 44b Absatz 1 Satz 3 und § 50a Absatz 1 Satz 1 und Absatz 2 in der am 24. Februar 2025 geltenden Fassung anzuwenden.
 
 (zu § 23a)
 

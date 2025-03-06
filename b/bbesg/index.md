@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 7 G v. 19.7.2024 I Nr. 247
 
+Änderung durch
+:   Art. 2 G v. 27.2.2025 I Nr. 72 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -966,9 +969,9 @@ Der Entscheidung kann eine prognostizierte Bewerberlage zugrunde gelegt werden.
 
 (2) Eine Prämie in Höhe von einmalig 5 000 Euro erhält, wer ab dem 1. April 2008 ein Auswahlverfahren bei den Spezialkräften der Bundeswehr für eine Verwendung im Sinne des Absatzes 1 bestanden hat und ausgebildet wird. Der Anspruch entsteht mit Beginn dieser Ausbildung. Er erlischt rückwirkend, wenn die Ausbildung aus Gründen, die der Soldat zu vertreten hat, endet, bevor der Anspruch auf eine Prämie nach Absatz 3 entstanden ist.
 
-(3) Eine Prämie in Höhe von einmalig 11 000 Euro erhält, wer die Ausbildung für Einsatzaufgaben der Spezialkräfte der Bundeswehr erfolgreich abgeschlossen hat und entsprechend verwendet wird. Der Anspruch entsteht mit Beginn der Verwendung. Er erlischt rückwirkend, wenn die Verwendung aus Gründen, die der Soldat zu vertreten hat, vor Ablauf von sechs Jahren seit Beginn der Ausbildung für eine Verwendung nach Absatz 1 endet. Satz 3 gilt entsprechend, wenn diese Verwendung aus Gründen, die der Soldat zu vertreten hat, für einen Zeitraum von mehr als drei Monaten unterbrochen und dadurch die Verwendungsdauer von insgesamt sechs Jahren nicht erreicht wird.
+(3) Eine Prämie in Höhe von einmalig 16 000 Euro erhält, wer die Ausbildung für Einsatzaufgaben der Spezialkräfte der Bundeswehr erfolgreich abgeschlossen hat und entsprechend verwendet wird. Der Anspruch entsteht mit Beginn der Verwendung. Er erlischt rückwirkend, wenn die Verwendung aus Gründen, die der Soldat zu vertreten hat, vor Ablauf von sechs Jahren seit Beginn der Ausbildung für eine Verwendung nach Absatz 1 endet. Satz 3 gilt entsprechend, wenn diese Verwendung aus Gründen, die der Soldat zu vertreten hat, für einen Zeitraum von mehr als drei Monaten unterbrochen und dadurch die Verwendungsdauer von insgesamt sechs Jahren nicht erreicht wird.
 
-(4) Eine Prämie in Höhe von 7 000 Euro pro Jahr erhält, wer über sechs Jahre hinaus für Einsatzaufgaben der Spezialkräfte der Bundeswehr zur Verfügung steht. Der Zeitraum von sechs Jahren rechnet ab dem Beginn der Ausbildung für eine Verwendung nach Absatz 1. Der Anspruch entsteht zu Beginn des siebten oder eines jeden weiteren Jahres der Verwendung. Besteht die Verwendung aus Gründen, die der Soldat zu vertreten hat, nicht während des gesamten Jahres, steht nur der Teil der Prämie zu, der der Verwendungsdauer entspricht.
+(4) Eine Prämie in Höhe von 9 000 Euro pro Jahr erhält, wer über sechs Jahre hinaus für Einsatzaufgaben der Spezialkräfte der Bundeswehr zur Verfügung steht. Der Zeitraum von sechs Jahren rechnet ab dem Beginn der Ausbildung für eine Verwendung nach Absatz 1. Der Anspruch entsteht zu Beginn des siebten oder eines jeden weiteren Jahres der Verwendung. Besteht die Verwendung aus Gründen, die der Soldat zu vertreten hat, nicht während des gesamten Jahres, steht nur der Teil der Prämie zu, der der Verwendungsdauer entspricht.
 
 (5) (weggefallen)
 
@@ -983,12 +986,12 @@ Der Entscheidung kann eine prognostizierte Bewerberlage zugrunde gelegt werden.
 
 ### § 44 Verpflichtungsprämie für Soldaten auf Zeit
 
-(1) Einem Soldaten auf Zeit, der in vom Bundesministerium der Verteidigung bestimmten Verwendungsbereichen mit Personalmangel verwendet wird, kann zur Sicherstellung der Funktionsfähigkeit des Verwendungsbereichs eine Verpflichtungsprämie gewährt werden
+(1) Einem Soldaten auf Zeit kann zur Sicherstellung der personellen Einsatzbereitschaft der Bundeswehr, unter Berücksichtigung militärischer Personalplanung oder militärfachlicher Erfordernisse, eine Verpflichtungsprämie gewährt werden
 
 1.  bei der Begründung eines Dienstverhältnisses,
 
 
-2.  bei der Weiterverpflichtung eines Soldaten auf Zeit oder
+2.  bei der Weiterverpflichtung oder
 
 
 3.  bei einem bestehenden Dienstverhältnis, um einen Dienstposten anforderungsgerecht besetzen zu können.
@@ -996,15 +999,13 @@ Der Entscheidung kann eine prognostizierte Bewerberlage zugrunde gelegt werden.
 
 
 
-(2) Ein Personalmangel in einem Verwendungsbereich liegt vor, wenn die personellen Zielvorgaben, die sich aus der militärischen Personalbedarfsplanung ergeben, seit mindestens sechs Monaten zu nicht mehr als 90 Prozent erfüllt werden können und keine Anhaltspunkte dafür vorliegen, dass dieser Schwellenwert innerhalb der nächsten 24 Monate überschritten wird.
+(2) Die Prämie kann für jedes Jahr der Gewährung bis zum Zweifachen des Anfangsgrundgehalts der jeweiligen Besoldungsgruppe betragen. Für die personelle Einsatzbereitschaft der Bundeswehr besonders relevantes Schlüsselpersonal kann die Prämie bis zum Dreieinhalbfachen des Anfangsgrundgehalts der jeweiligen Besoldungsgruppe betragen. Die Höhe der Prämie sowie Beginn und Ende des Gewährungszeitraums sind festzusetzen.
 
-(3) Die Prämie kann für jedes Jahr der Gewährung bis zum Zweifachen des Anfangsgrundgehalts der jeweiligen Besoldungsgruppe betragen. Für die personelle Einsatzbereitschaft der Bundeswehr besonders relevantes Schlüsselpersonal kann die Prämie bis zum Dreieinhalbfachen des Anfangsgrundgehalts der jeweiligen Besoldungsgruppe betragen. Die Höhe der Prämie sowie Beginn und Ende des Gewährungszeitraums sind festzusetzen.
+(3) Die Prämie wird frühestens nach Ablauf einer Dienstzeit von sechs Monaten gezahlt. Die für die Prämienbemessung maßgebliche Dienstzeit bemisst sich unter Ausschluss der nach § 40 Absatz 6 des Soldatengesetzes in der Dienstzeitfestsetzung eingerechneten Zeiten. Wird die Dienstzeit stufenweise festgesetzt, wird die Prämie anteilig entsprechend der jeweils festgesetzten Dienstzeit gewährt.
 
-(4) Die Prämie wird frühestens nach Ablauf einer Dienstzeit von sechs Monaten gezahlt. Die für die Prämienbemessung maßgebliche Dienstzeit bemisst sich unter Ausschluss der nach § 40 Absatz 6 des Soldatengesetzes in der Dienstzeitfestsetzung eingerechneten Zeiten. Wird die Dienstzeit stufenweise festgesetzt, wird die Prämie anteilig entsprechend der jeweils festgesetzten Dienstzeit gewährt.
+(4) Mit Gewährung der Prämie besteht für den Soldaten auf Zeit die Verpflichtung, mindestens für den Gewährungszeitraum im Dienst zu verbleiben. Unterbrechungen, die zusammengerechnet länger als ein Zwölftel des Gewährungszeitraums andauern, verlängern den Gewährungszeitraum entsprechend. Erfüllt der Soldat auf Zeit die Verpflichtung nicht, so hat er die Prämie in voller Höhe zurückzuzahlen. Von der Rückforderung kann aus Billigkeitsgründen abgesehen werden, wenn die Verpflichtung nach Satz 1 aus Gründen, die vom Soldaten auf Zeit nicht zu vertreten sind, nicht erfüllt werden kann. Von der Rückforderung ist abzusehen, wenn der Soldat auf Zeit stirbt oder wegen Dienstunfähigkeit entlassen wird.
 
-(5) Mit Gewährung der Prämie besteht für den Soldaten auf Zeit die Verpflichtung, mindestens für den Gewährungszeitraum im Dienst zu verbleiben. Unterbrechungen, die zusammengerechnet länger als ein Zwölftel des Gewährungszeitraums andauern, verlängern den Gewährungszeitraum entsprechend. Erfüllt der Soldat auf Zeit die Verpflichtung nicht, so hat er die Prämie in voller Höhe zurückzuzahlen. Von der Rückforderung kann aus Billigkeitsgründen abgesehen werden, wenn die Verpflichtung nach Satz 1 aus Gründen, die vom Soldaten auf Zeit nicht zu vertreten sind, nicht erfüllt werden kann. Von der Rückforderung ist abzusehen, wenn der Soldat auf Zeit stirbt oder wegen Dienstunfähigkeit entlassen wird.
-
-(6) Die Prämie wird nicht gewährt neben
+(5) Die Prämie wird nicht gewährt neben
 
 1.  einer Prämie für Angehörige der Spezialkräfte der Bundeswehr nach § 43a sowie
 
@@ -1013,9 +1014,11 @@ Der Entscheidung kann eine prognostizierte Bewerberlage zugrunde gelegt werden.
 
 
 
-Prämien nach Absatz 1 Nummer 1 bis 3 können nebeneinander gewährt werden, soweit sie insgesamt den Höchstbetrag nach Absatz 3 Satz 2 nicht übersteigen.
+Prämien nach Absatz 1 Nummer 1 bis 3 können nebeneinander gewährt werden, soweit sie insgesamt den Höchstbetrag nach Absatz 2 Satz 2 nicht übersteigen.
 
-(7) Entscheidungen nach den Absätzen 1 und 3 bis 6, insbesondere über eine Staffelung der Prämienbeträge in den Fällen des Absatzes 1, trifft das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle. Dabei sind insbesondere die für den Verwendungsbereich geforderten Qualifikationen, der Personalmangel sowie der Gewährungszeitraum zu berücksichtigen.
+(6) Entscheidungen nach den Absätzen 1 bis 5, insbesondere über eine Staffelung der Prämienbeträge in den Fällen des Absatzes 1, trifft das Bundesministerium der Verteidigung oder eine von ihm bestimmte Stelle.
+
+(7) Die Ausgaben für Prämien des Dienstherrn dürfen 2 Prozent der im Einzelplan des Bundesministeriums der Verteidigung veranschlagten jährlichen Besoldungsausgaben für Soldaten nicht überschreiten.
 
 
 ### § 45 Zulage für die Wahrnehmung befristeter Funktionen
@@ -1085,7 +1088,7 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Re
 
 (1) Soldaten mit Dienstbezügen nach der Bundesbesoldungsordnung A erhalten für tatsächlich geleistete Dienste in den in § 30c Absatz 4 des Soldatengesetzes genannten Fällen eine Vergütung, soweit ein über einen dienstfreien Tag im Kalendermonat hinausgehender zeitlicher Ausgleich nicht gewährt werden kann.
 
-(2) Die Vergütung beträgt 91 Euro für jeden Tag, für den keine Freistellung vom Dienst gewährt werden kann.
+(2) Die Vergütung beträgt 101 Euro für jeden Tag, für den keine Freistellung vom Dienst gewährt werden kann.
 
 (3) Die Vergütung wird nicht gewährt
 
@@ -1152,6 +1155,28 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Re
 (2) Bei einer geringeren durchschnittlichen wöchentlichen Arbeitszeit werden die Beträge nach Absatz 1 Satz 2 anteilig gewährt, und zwar entsprechend dem Teil der durchschnittlichen wöchentlichen Arbeitszeit, der über 48 Stunden hinausgeht. Dabei ist die durchschnittliche wöchentliche Arbeitszeit in einem Kalendermonat auf volle Stunden zu runden. Bei einem Bruchteil von mindestens 30 Minuten wird aufgerundet; ansonsten wird abgerundet.
 
 
+### § 50d Vergütung für Soldaten mit besonderen Alarmierungsverpflichtungen
+
+(1) Soldaten, für die besondere Alarmierungsverpflichtungen im Rahmen nationaler oder multinationaler Verpflichtungen gelten und für die eine ständige Erreichbarkeit außerhalb der regelmäßigen Arbeitszeit mit einer Rückkehrverpflichtung zur Dienststelle angeordnet wurde, erhalten eine Vergütung nach Maßgabe des Absatzes 2. Mit der Vergütung sind alle zeitlichen und sonstigen Belastungen abgegolten, die durch die angeordnete ständige Erreichbarkeit und Rückkehrverpflichtung entstehen.
+
+(2) Die Vergütung beträgt bei einer für einen vollen Monat angeordneten ständigen Erreichbarkeit mit Rückkehrzeiten zur Dienststelle
+
+1.  unterhalb von zwei Stunden, 500 Euro,
+
+
+2.  oberhalb von zwei Stunden bis zwölf Stunden, 300 Euro,
+
+
+3.  oberhalb von zwölf Stunden bis 24 Stunden, 150 Euro,
+
+
+4.  oberhalb von 24 Stunden bis 48 Stunden, 75 Euro.
+
+
+
+Soweit die Anordnung nicht für volle Kalendermonate erfolgt, wird die Vergütung anteilig gewährt.
+
+
 ### § 51 Andere Zulagen und Vergütungen
 
 Andere als die in diesem Abschnitt geregelten Zulagen und Vergütungen dürfen nur gewährt werden, soweit dies gesetzlich bestimmt ist. Vergütungen für Nebentätigkeiten im öffentlichen Dienst bleiben unberührt.
@@ -1186,7 +1211,7 @@ Die oberste Dienstbehörde kann im Einvernehmen mit dem Bundesministerium des In
 
 ### § 53 Auslandszuschlag
 
-(1) Der Auslandszuschlag gilt materiellen Mehraufwand sowie allgemeine und dienstortbezogene immaterielle Belastungen der allgemeinen Verwendung im Ausland ab. Er bemisst sich nach der Höhe des Mehraufwands und der Belastungen, zusammengefasst in Dienstortstufen, sowie des zustehenden Grundgehalts, darüber hinaus nach der Anzahl der berücksichtigungsfähigen Personen sowie der Bereitstellung von Gemeinschaftsunterkunft oder -verpflegung oder entsprechenden Geldleistungen. Der Ermittlung des materiellen Mehraufwands und der dienstortbezogenen immateriellen Belastungen werden standardisierte Dienstortbewertungen im Verhältnis zum Sitz der Bundesregierung zugrunde gelegt. Die allgemeinen immateriellen Belastungen des Auslandsdienstes werden dienstortunabhängig abgegolten. Bei außergewöhnlichen materiellen Mehraufwendungen oder immateriellen Belastungen kann die oberste Dienstbehörde zur Abgeltung dieser Mehraufwendungen oder Belastungen oder zur Sicherung einer anforderungsgerechten Besetzung von Dienstposten im Ausland im Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen befristet einen Zuschlag in Höhe von bis zu 700 Euro monatlich im Verwaltungswege festsetzen.
+(1) Der Auslandszuschlag gilt materiellen Mehraufwand sowie allgemeine und dienstortbezogene immaterielle Belastungen der allgemeinen Verwendung im Ausland ab. Er bemisst sich nach der Höhe des Mehraufwands und der Belastungen, zusammengefasst in Dienstortstufen, sowie des zustehenden Grundgehalts, darüber hinaus nach der Anzahl der berücksichtigungsfähigen Personen sowie der Bereitstellung von Gemeinschaftsunterkunft oder -verpflegung oder entsprechenden Geldleistungen. Der Ermittlung des materiellen Mehraufwands und der dienstortbezogenen immateriellen Belastungen werden standardisierte Dienstortbewertungen im Verhältnis zum Sitz der Bundesregierung zugrunde gelegt. Die allgemeinen immateriellen Belastungen des Auslandsdienstes werden dienstortunabhängig abgegolten. Bei außergewöhnlichen materiellen Mehraufwendungen oder immateriellen Belastungen kann die oberste Dienstbehörde zur Abgeltung dieser Mehraufwendungen oder Belastungen oder zur Sicherung einer anforderungsgerechten Besetzung von Dienstposten im Ausland im Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen befristet einen Zuschlag in Höhe von bis zu 1 000 monatlich im Verwaltungswege festsetzen.
 
 (2) Der Auslandszuschlag für den Beamten, Richter oder Soldaten wird nach der Tabelle in Anlage VI.1 gezahlt. Bei der ersten neben dem Beamten, Richter oder Soldaten berücksichtigungsfähigen Person nach Absatz 4 Nr. 1 oder 3 erhöht sich der Betrag um 40 Prozent. Für alle anderen berücksichtigungsfähigen Personen wird jeweils ein Zuschlag nach der Tabelle in Anlage VI.2 gezahlt. Wird dem Beamten, Richter oder Soldaten Gemeinschaftsunterkunft oder Gemeinschaftsverpflegung bereitgestellt, so verringert sich der Betrag nach den Sätzen 1 und 2 auf 85 Prozent. Werden sowohl Gemeinschaftsunterkunft als auch Gemeinschaftsverpflegung bereitgestellt, so verringert sich der Betrag nach den Sätzen 1 und 2 auf 70 Prozent. Die Sätze 4 und 5 gelten auch, wenn entsprechende Geldleistungen gezahlt werden.
 
@@ -1222,7 +1247,7 @@ Die oberste Dienstbehörde kann im Einvernehmen mit dem Bundesministerium des In
 
 (5) Begründet eine berücksichtigungsfähige Person im Sinne des Absatzes 4 Nummer 1 oder 3 erst später einen Wohnsitz am ausländischen Dienstort oder gibt sie ihn vorzeitig auf, werden ab dem Eintreffen rückwirkend bis zum Beginn der Verwendung des Beamten, Richters oder Soldaten oder ab dem Auszug aus der gemeinsamen Wohnung bis zum Ende der Verwendung 70 Prozent des für diese Person geltenden Satzes gewährt, längstens jedoch für sechs Monate. Stirbt eine im ausländischen Haushalt lebende berücksichtigungsfähige Person, wird sie beim Auslandszuschlag bis zum Ende der Verwendung weiter berücksichtigt, längstens jedoch für zwölf Monate.
 
-(6) Empfängern von Auslandsdienstbezügen, für die das Gesetz über den Auswärtigen Dienst gilt, wird unter Berücksichtigung des § 29 jenes Gesetzes ein um 4 Prozent ihrer Dienstbezüge im Ausland erhöhter Auslandszuschlag gezahlt. Dies gilt bei nur befristeter Verwendung im Auswärtigen Dienst nach Ablauf des sechsten Jahres der Verwendung im Ausland; Unterbrechungen von weniger als fünf Jahren sind unschädlich. Verheirateten Empfängern von Auslandsdienstbezügen, für die das Gesetz über den Auswärtigen Dienst gilt, kann unter Berücksichtigung des § 29 des genannten Gesetzes ein um bis zu 18,6 Prozent ihres Grundgehalts zuzüglich Amtszulagen, höchstens jedoch um 18,6 Prozent des Grundgehalts aus der Endstufe der Besoldungsgruppe A 14 erhöhter Auslandszuschlag gezahlt werden, der zum Aufbau einer eigenständigen Altersvorsorge des Ehegatten zu verwenden ist; Erwerbseinkommen des Ehegatten wird berücksichtigt. Voraussetzung der Gewährung ist, dass der Nachweis der Verwendung im Sinne des Satzes 3 nach Maßgabe der Auslandszuschlagsverordnung erbracht wird. Abweichend von den Sätzen 3 und 4 kann Empfängern von Auslandsdienstbezügen mit Ehegatten mit ausschließlich ausländischer Staatsangehörigkeit, die keinen Verwendungsnachweis erbringen, ein um bis zu 6 Prozent ihrer Dienstbezüge im Ausland erhöhter Auslandszuschlag gezahlt werden. Für Personen im Sinne des Absatzes 4 Nummer 3 kann dem Besoldungsempfänger unter entsprechender Berücksichtigung des § 29 des Gesetzes über den Auswärtigen Dienst ein um bis zu 6 Prozent seiner Dienstbezüge im Ausland erhöhter Auslandszuschlag gezahlt werden, soweit der Besoldungsempfänger nicht bereits einen Zuschlag nach Satz 3 erhält; Erwerbseinkommen dieser Personen wird berücksichtigt.
+(6) Empfängern von Auslandsdienstbezügen, für die das Gesetz über den Auswärtigen Dienst gilt, wird unter Berücksichtigung des § 29 jenes Gesetzes ein um 4 Prozent ihrer Dienstbezüge im Ausland erhöhter Auslandszuschlag gezahlt. Dies gilt bei nur befristeter Verwendung im Auswärtigen Dienst nach Ablauf des sechsten Jahres der Verwendung im Ausland; Unterbrechungen von weniger als fünf Jahren sind unschädlich. Verheirateten Empfängern von Auslandsdienstbezügen, für die das Gesetz über den Auswärtigen Dienst gilt, kann unter Berücksichtigung des § 29 des genannten Gesetzes ein um bis zu 18,6 Prozent ihres Grundgehalts zuzüglich Amtszulagen, höchstens jedoch um 18,6 Prozent des Grundgehalts aus der Endstufe der Besoldungsgruppe A 14 erhöhter Auslandszuschlag gezahlt werden, der zum Aufbau einer eigenständigen Altersvorsorge des Ehegatten zu verwenden ist; Erwerbseinkommen des Ehegatten wird berücksichtigt. Voraussetzung der Gewährung ist, dass der Nachweis der Verwendung im Sinne des Satzes 3 nach Maßgabe der Auslandszuschlagsverordnung erbracht wird. Abweichend von den Sätzen 3 und 4 kann Empfängern von Auslandsdienstbezügen mit Ehegatten mit ausschließlich ausländischer Staatsangehörigkeit, die keinen Verwendungsnachweis erbringen, ein um bis zu 6 Prozent ihrer Dienstbezüge im Ausland erhöhter Auslandszuschlag gezahlt werden. Für Personen im Sinne des Absatzes 4 Nummer 3 kann dem Besoldungsempfänger unter entsprechender Berücksichtigung des § 29 des Gesetzes über den Auswärtigen Dienst ein um bis zu 6 Prozent seiner Dienstbezüge im Ausland erhöhter Auslandszuschlag gezahlt werden, soweit der Besoldungsempfänger nicht bereits einen Zuschlag nach Satz 3 erhält; Erwerbseinkommen dieser Personen wird berücksichtigt. Die Sätze 3 bis 5 gelten entsprechend für Angehörige des Geschäftsbereichs des Bundesministeriums der Verteidigung, für die das Gesetz über den Auswärtigen Dienst nicht gilt, wenn sie zur Sicherstellung der Einsatzbereitschaft im Rahmen der Landes- und Bündnisverteidigung im Ausland soldatische Tätigkeiten wahrnehmen oder unmittelbar unterstützen.
 
 (7) Das Auswärtige Amt regelt die Einzelheiten des Auslandszuschlags einschließlich dessen Erhöhung nach Absatz 6 Satz 3 sowie die Zuteilung der Dienstorte zu den Stufen des Auslandszuschlags durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat, dem Bundesministerium der Finanzen und dem Bundesministerium der Verteidigung.
 
@@ -1300,7 +1325,7 @@ Satz 1 gilt entsprechend für eine Verwendung im Ausland oder außerhalb des deu
 
 
 
-(3) Der Auslandsverwendungszuschlag gilt alle materiellen Mehraufwendungen und immateriellen Belastungen der besonderen Verwendung im Ausland mit Ausnahme der nach deutschem Reisekostenrecht zustehenden Reisekostenvergütung ab. Dazu gehören insbesondere Mehraufwendungen auf Grund besonders schwieriger Bedingungen im Rahmen der Verwendung oder Belastungen durch Unterbringung in provisorischen Unterkünften sowie Belastungen durch eine spezifische Bedrohung der Mission oder deren Durchführung in einem Konfliktgebiet. Er wird für jeden Tag der Verwendung gewährt und bei einer Verwendung nach Absatz 1 als einheitlicher Tagessatz abgestuft nach dem Umfang der Mehraufwendungen und Belastungen für jede Verwendung festgesetzt. Der Tagessatz der höchsten Stufe beträgt 145 Euro. Dauert die Verwendung im Einzelfall weniger als 15 Tage, kann der Satz der nächstniedrigeren Stufe ausgezahlt werden. In den Fällen des Absatzes 2 wird der Tagessatz der höchsten Stufe gewährt. Die endgültige Abrechnung erfolgt nach Abschluss der Verwendung. Abschlagszahlungen können monatlich im Voraus geleistet werden. Ein Anspruch auf Auslandsdienstbezüge an einem anderen ausländischen Dienstort bleibt unberührt; auf den Auslandsverwendungszuschlag wird jedoch auf Grund der geringeren Aufwendungen und Belastungen am bisherigen ausländischen Dienstort pauschaliert ein Anteil des Auslandszuschlags nach § 53 angerechnet.
+(3) Der Auslandsverwendungszuschlag gilt alle materiellen Mehraufwendungen und immateriellen Belastungen der besonderen Verwendung im Ausland mit Ausnahme der nach deutschem Reisekostenrecht zustehenden Reisekostenvergütung ab. Dazu gehören insbesondere Mehraufwendungen auf Grund besonders schwieriger Bedingungen im Rahmen der Verwendung oder Belastungen durch Unterbringung in provisorischen Unterkünften sowie Belastungen durch eine spezifische Bedrohung der Mission oder deren Durchführung in einem Konfliktgebiet. Er wird für jeden Tag der Verwendung gewährt und bei einer Verwendung nach Absatz 1 als einheitlicher Tagessatz abgestuft nach dem Umfang der Mehraufwendungen und Belastungen für jede Verwendung festgesetzt. Der Tagessatz der höchsten Stufe beträgt 153 Euro. Dauert die Verwendung im Einzelfall weniger als 15 Tage, kann der Satz der nächstniedrigeren Stufe ausgezahlt werden. In den Fällen des Absatzes 2 wird der Tagessatz der höchsten Stufe gewährt. Die endgültige Abrechnung erfolgt nach Abschluss der Verwendung. Abschlagszahlungen können monatlich im Voraus geleistet werden. Ein Anspruch auf Auslandsdienstbezüge an einem anderen ausländischen Dienstort bleibt unberührt; auf den Auslandsverwendungszuschlag wird jedoch auf Grund der geringeren Aufwendungen und Belastungen am bisherigen ausländischen Dienstort pauschaliert ein Anteil des Auslandszuschlags nach § 53 angerechnet.
 
 (4) Steht Beamten, Richtern oder Soldaten ein Auslandsverwendungszuschlag aus einer Verwendung nach Absatz 1 an einem ausländischen Dienstort zu und befindet sich ein anderer Beamter, Richter oder Soldat an diesem Ort auf Dienstreise, gelten für Letzteren ab dem 15. Tag der Dienstreise rückwirkend ab dem Tag der Ankunft am ausländischen Dienstort die Vorschriften über den Auslandsverwendungszuschlag entsprechend. Das gilt nur, wenn die Dienstreise hinsichtlich der Mehraufwendungen und Belastungen einer Verwendung nach Absatz 1 entspricht. Ist der Beamte, Richter oder Soldat wegen Verschleppung, Gefangenschaft oder aus sonstigen mit dem Dienst zusammenhängenden Gründen, die er nicht zu vertreten hat, dem Einflussbereich des Dienstherrn entzogen, werden für diesen Zeitraum Aufwandsentschädigungen und Zulagen, die zum Zeitpunkt des Eintritts des Ereignisses zustanden, weiter gewährt; daneben steht ihm Auslandsverwendungszuschlag nach dem Tagessatz der höchsten Stufe zu.
 
@@ -1794,8 +1819,10 @@ Bundesamt für Strahlenschutz
 Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
 Bundesanstalt für Geowissenschaften und Rohstoffe
+Bundesanstalt für Gewässerkunde
 Bundesanstalt für Materialforschung und-prüfung
 Bundesanstalt für Straßenwesen
+Bundesanstalt für Wasserbau
 Bundesinstitut für Arzneimittel und Medizinprodukte
 Bundesinstitut für Risikobewertung
 Bundesinstitut für Sportwissenschaft
@@ -1958,6 +1985,25 @@ Soldaten der Besoldungsgruppen A 7 bis A 9 erhalten als Kompaniefeldwebel eine S
 
 (3) Die allgemeinen Verwaltungsvorschriften erlässt das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat.
 
+**5b. Zulage für Soldaten als Combat Controller bei den Luftlande- und Fernspähkräften der Bundeswehr**
+
+(1) Eine Stellenzulage nach Anlage IX erhalten Soldaten bei Verwendung als Combat Controller in einem Großverband, einem Verband oder einer Einheit der Luftlande- und Fernspähkräfte der Bundeswehr
+
+1.  bis zur Erlangung der Basisqualifikation der Stufe B,
+
+
+2.  nach Erlangung der Basisqualifikation der Stufe B,
+
+
+3.  nach Erlangung der Basisqualifikation der Stufe C.
+
+
+
+
+(2) Die Stellenzulage wird nicht neben einer Stellenzulage nach Nummer 5a und einer Erschwerniszulage nach den §§ 23h und 23i der Erschwerniszulagenverordnung gewährt.
+
+(3) Der Erwerb der Berechtigung nach Absatz 1 wird durch allgemeine Verwaltungsvorschrift des Bundesministeriums der Verteidigung geregelt.
+
 **6. Zulage für Beamte und Soldaten in fliegerischer Verwendung**
 
 (1) Eine Stellenzulage nach Anlage IX erhalten Beamte und Soldaten in Besoldungsgruppen der Bundesbesoldungsordnung A, wenn sie verwendet werden
@@ -1968,10 +2014,10 @@ Soldaten der Besoldungsgruppen A 7 bis A 9 erhalten als Kompaniefeldwebel eine S
 2.  als Luftfahrzeugführer mit der Erlaubnis zum Führen sonstiger strahlgetriebener Flugzeuge oder sonstiger Luftfahrzeuge oder als Luftfahrzeugoperationsoffizier,
 
 
-3.  als Steuerer mit der Erlaubnis und Berechtigung zum Führen und Bedienen unbemannter Luftfahrtgeräte, die nach Instrumentenflugregeln geführt und bedient werden müssen,
+3.  als Steuerer mit der Erlaubnis und Berechtigung zum Führen und Bedienen oder als Waffensystemoperateur mit der Erlaubnis und Berechtigung zum Bedienen unbemannter Luftfahrtgeräte, die nach Instrumentenflugregeln geführt und bedient werden müssen,
 
 
-4.  als Flugtechniker in der Bundespolizei oder als sonstige ständige Luftfahrzeugbesatzungsangehörige in der Bundeswehr.
+4.  als Flugtechniker in der Bundespolizei oder als sonstiger ständiger Luftfahrzeugbesatzungsangehöriger in der Bundeswehr und in anderen Einrichtungen des Bundes.
 
 
 
@@ -2010,7 +2056,7 @@ Der Fünfjahreszeitraum verlängert sich bei Soldaten, die zur Erhaltung ihres f
 
 (5) Die Stellenzulage wird neben einer Stellenzulage nach Nummer 8 nur gewährt, soweit sie diese übersteigt. Abweichend von Satz 1 wird die Stellenzulage nach Absatz 1 neben einer Stellenzulage nach Nummer 8 gewährt, soweit sie deren Hälfte übersteigt.
 
-(6) Der Erwerb der Berechtigung nach Absatz 1 Satz 2 wird durch allgemeine Verwaltungsvorschrift des Bundesministeriums der Verteidigung geregelt. Im Übrigen erlässt die oberste Dienstbehörde die allgemeinen Verwaltungsvorschriften im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat.
+(6) Der Erwerb der Erlaubnis und Berechtigung nach Absatz 1 Satz 1 Nummer 3 und der Berechtigung nach Absatz 1 Satz 2 wird durch allgemeine Verwaltungsvorschrift des Bundesministeriums der Verteidigung geregelt. Im Übrigen erlässt die oberste Dienstbehörde die allgemeinen Verwaltungsvorschriften im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat.
 
 **6a. Zulage für Beamte und Soldaten als Luftfahrttechnisches Prüfpersonal und freigabeberechtigtes Personal**
 
@@ -2049,17 +2095,20 @@ Der Fünfjahreszeitraum verlängert sich bei Soldaten, die zur Erhaltung ihres f
 
 (2) Nachrichtendienste sind der Bundesnachrichtendienst, das Bundesamt für den Militärischen Abschirmdienst, das Bundesamt für Verfassungsschutz sowie die Einrichtungen für Verfassungsschutz der Länder.
 
-**8a. Zulage für Beamte der Bundeswehr und Soldaten in der Fernmelde- und elektronischen Aufklärung, der satellitengestützten abbildenden Aufklärung oder der Luftbildauswertung**
+**8a. Zulage für Beamte der Bundeswehr und Soldaten in der Fernmelde- und elektronischen Aufklärung, der satellitengestützten abbildenden Aufklärung, der Luftbildauswertung oder der hydroakustischen Aufklärung**
 
 (1) Beamte der Bundeswehr und Soldaten erhalten eine Stellenzulage nach Anlage IX, wenn sie verwendet werden in
 
 1.  der Fernmelde- und elektronischen Aufklärung,
 
 
-2.  der satellitengestützten abbildenden Aufklärung oder
+2.  der satellitengestützten abbildenden Aufklärung,
 
 
-3.  der Luftbildauswertung.
+3.  der Luftbildauswertung oder
+
+
+4.  der hydroakustischen Aufklärung.
 
 
 
@@ -2303,18 +2352,18 @@ Bundesbesoldungsordnung A
 
 Hauptamtsgehilfe
 
-[^F816618_01_BJNR011740975BJNE025060130]
+[^F816618_01_BJNR011740975BJNE025061130]
 Oberaufseher
 
 Oberschaffner
 
 Oberwachtmeister
-[^F816618_02_BJNR011740975BJNE025060130]
+[^F816618_02_BJNR011740975BJNE025061130]
 ,
 
 Grenadier, Jäger, Panzerschütze, Panzergrenadier, Panzerjäger, Kanonier, Panzerkanonier, Pionier, Panzerpionier, Funker, Panzerfunker, Schütze, Flieger, Sanitätssoldat, Matrose
 
-[^F816618_03_BJNR011740975BJNE025060130]
+[^F816618_03_BJNR011740975BJNE025061130]
 Gefreiter
 
 
@@ -2322,34 +2371,34 @@ Gefreiter
 
 Amtsmeister
 
-[^f780997_08_BJNR011740975BJNE025060130]
+[^f780997_08_BJNR011740975BJNE025061130]
 Hauptaufseher
 
 Hauptschaffner
 
 Hauptwachtmeister
-[^f780997_09_BJNR011740975BJNE025060130]
+[^f780997_09_BJNR011740975BJNE025061130]
 ,
 
 Oberwart
-[^f780997_10_BJNR011740975BJNE025060130]
+[^f780997_10_BJNR011740975BJNE025061130]
 ,
 
 Obergefreiter
 
-[^f780997_11_BJNR011740975BJNE025060130]
+[^f780997_11_BJNR011740975BJNE025061130]
 Hauptgefreiter
 
 ## **Besoldungsgruppe A 5**
 
-[^f780997_12_BJNR011740975BJNE025060130]
+[^f780997_12_BJNR011740975BJNE025061130]
 Betriebsassistent
-[^f780997_13_BJNR011740975BJNE025060130]
+[^f780997_13_BJNR011740975BJNE025061130]
 ,
 
 Erster Hauptwachtmeister
 ,
-[^f780997_14_BJNR011740975BJNE025060130]
+[^f780997_14_BJNR011740975BJNE025061130]
 ,
 
 Hauptwart
@@ -2371,46 +2420,46 @@ Seekadett
 
 ## **Besoldungsgruppe A 6**
 
-[^f780997_16_BJNR011740975BJNE025060130]
+[^f780997_16_BJNR011740975BJNE025061130]
 Betriebsassistent
 
 Erster Hauptwachtmeister
-[^f780997_17_BJNR011740975BJNE025060130]
+[^f780997_17_BJNR011740975BJNE025061130]
 ,
 
 Hauptwart
 
 Oberamtsmeister
 
-[^f780997_18_BJNR011740975BJNE025060130]
+[^f780997_18_BJNR011740975BJNE025061130]
 Sekretär
 
 Korporal
 
-[^bjnr011740975bjne025047116_05_BJNR011740975BJNE025060130]
+[^bjnr011740975bjne025047116_05_BJNR011740975BJNE025061130]
 Stabskorporal
 
-[^f780997_19_BJNR011740975BJNE025060130]
+[^f780997_19_BJNR011740975BJNE025061130]
 Stabsunteroffizier
 
 Obermaat
 
 ## **Besoldungsgruppe A 7**
 
-[^f780997_20_BJNR011740975BJNE025060130]
+[^f780997_20_BJNR011740975BJNE025061130]
 Brandmeister
 
-[^f780997_21_BJNR011740975BJNE025060130]
+[^f780997_21_BJNR011740975BJNE025061130]
 Oberlokomotivführer
 
-[^f780997_22_BJNR011740975BJNE025060130]
+[^f780997_22_BJNR011740975BJNE025061130]
 Obersekretär
 
 Oberwerkmeister
 
 Polizeimeister
 
-[^f780997_23_BJNR011740975BJNE025060130]
+[^f780997_23_BJNR011740975BJNE025061130]
 Stabsunteroffizier
 
 Obermaat
@@ -2423,7 +2472,7 @@ Fähnrich
 
 Fähnrich zur See
 
-[^f780997_24_BJNR011740975BJNE025060130]
+[^f780997_24_BJNR011740975BJNE025061130]
 Oberfeldwebel
 
 Oberbootsmann
@@ -2440,7 +2489,7 @@ Oberbrandmeister
 
 Polizeiobermeister
 
-[^f780997_25_BJNR011740975BJNE025060130]
+[^f780997_25_BJNR011740975BJNE025061130]
 Hauptfeldwebel
 
 Hauptbootsmann
@@ -2451,7 +2500,7 @@ Oberfähnrich zur See
 
 ## **Besoldungsgruppe A 9**
 
-[^bjnr011740975bjne025047116_stern_BJNR011740975BJNE025060130]
+[^bjnr011740975bjne025047116_stern_BJNR011740975BJNE025061130]
 Amtsinspektor
 
 Betriebsinspektor
@@ -2482,7 +2531,7 @@ Leutnant
 
 Leutnant zur See
 
-[^f780997_29_BJNR011740975BJNE025060130]
+[^f780997_29_BJNR011740975BJNE025061130]
 **Besoldungsgruppe A 10**
 ## 
 
@@ -2500,16 +2549,16 @@ Oberleutnant
 
 Oberleutnant zur See
 
-[^f780997_30_BJNR011740975BJNE025060130]
+[^f780997_30_BJNR011740975BJNE025061130]
 **Besoldungsgruppe A 11**
 ## 
 
 Amtmann
 
-[^f780997_31_BJNR011740975BJNE025060130]
+[^f780997_31_BJNR011740975BJNE025061130]
 Kanzler
 
-[^f780997_32_BJNR011740975BJNE025060130]
+[^f780997_32_BJNR011740975BJNE025061130]
 Kriminalhauptkommissar
 
 Polizeihauptkommissar
@@ -2524,12 +2573,12 @@ Kapitänleutnant
 
 Amtsrat
 
-[^f780997_33_BJNR011740975BJNE025060130]
+[^f780997_33_BJNR011740975BJNE025061130]
 Kanzler Erster Klasse
-[^f780997_34_BJNR011740975BJNE025060130]
+[^f780997_34_BJNR011740975BJNE025061130]
 ,
 
-[^f780997_35_BJNR011740975BJNE025060130]
+[^f780997_35_BJNR011740975BJNE025061130]
 Kriminalhauptkommissar
 
 Polizeihauptkommissar
@@ -2547,7 +2596,7 @@ Hauptmann
 
 Kapitänleutnant
 
-[^f780997_36_BJNR011740975BJNE025060130]
+[^f780997_36_BJNR011740975BJNE025061130]
 **Besoldungsgruppe A 13**
 ## 
 
@@ -2562,9 +2611,9 @@ Erster Kriminalhauptkommissar
 
 Erster Polizeihauptkommissar
 
-[^f780997_38_BJNR011740975BJNE025060130]
+[^f780997_38_BJNR011740975BJNE025061130]
 Kanzler Erster Klasse
-[^f780997_39_BJNR011740975BJNE025060130]
+[^f780997_39_BJNR011740975BJNE025061130]
 ,
 
 Konsul
@@ -2573,7 +2622,7 @@ Kustos
 
 Legationsrat
 
-[^f780997_40_BJNR011740975BJNE025060130]
+[^f780997_40_BJNR011740975BJNE025061130]
 Militärrabbiner
 
 Oberamtsrat
@@ -2591,16 +2640,16 @@ Rat
 
 Seehauptkapitän
 
-[^f780997_41_BJNR011740975BJNE025060130]
+[^f780997_41_BJNR011740975BJNE025061130]
 Fachschuloberlehrer
-[^f780997_42_BJNR011740975BJNE025060130]
+[^f780997_42_BJNR011740975BJNE025061130]
 ,
-[^f780997_43_BJNR011740975BJNE025060130]
+[^f780997_43_BJNR011740975BJNE025061130]
 ,
 
 Studienrat
 
-–[^f780997_44_BJNR011740975BJNE025060130]
+–[^f780997_44_BJNR011740975BJNE025061130]
    im höheren Dienst –
 
 
@@ -2631,10 +2680,10 @@ Akademischer Oberrat
 
 Konsul Erster Klasse
 
-[^f780997_47_BJNR011740975BJNE025060130]
+[^f780997_47_BJNR011740975BJNE025061130]
 Legationsrat Erster Klasse
 
-[^f780997_49_BJNR011740975BJNE025060130]
+[^f780997_49_BJNR011740975BJNE025061130]
 Militärrabbiner
 
 Oberkustos
@@ -2645,7 +2694,7 @@ Pfarrer
 
 Fachschuldirektor
 
-–[^f780997_50_BJNR011740975BJNE025060130]
+–[^f780997_50_BJNR011740975BJNE025061130]
    als Leiter einer Bundeswehrfachschule mit Lehrgängen, die zu einem Abschluss führen, der dem der Realschule entspricht –
 
 
@@ -2653,9 +2702,9 @@ Fachschuldirektor
 
 Fachschuloberlehrer
 
-–[^f780997_51_BJNR011740975BJNE025060130]
+–[^f780997_51_BJNR011740975BJNE025061130]
    als der ständige Vertreter des Direktors einer Fachschule als Leiter einer Fachschule mit beruflichem Unterricht mit bis zu 360 Unterrichtsteilnehmern –
-[^f780997_52_BJNR011740975BJNE025060130]
+[^f780997_52_BJNR011740975BJNE025061130]
     ,
 
 
@@ -2666,7 +2715,7 @@ Fachschuloberlehrer
 
 Oberstudienrat
 
-–[^f780997_53_BJNR011740975BJNE025060130]
+–[^f780997_53_BJNR011740975BJNE025061130]
    im höheren Dienst –
 
 
@@ -2679,7 +2728,7 @@ Regierungsschulrat
 
 
 
-[^f780997_48_BJNR011740975BJNE025060130]
+[^f780997_48_BJNR011740975BJNE025061130]
 Oberstleutnant
 
 Fregattenkapitän
@@ -2699,20 +2748,20 @@ Akademischer Direktor
 
 
 
-[^f780997_54_BJNR011740975BJNE025060130]
+[^f780997_54_BJNR011740975BJNE025061130]
 Botschafter
 
 Botschaftsrat
 
-[^f780997_55_BJNR011740975BJNE025060130]
+[^f780997_55_BJNR011740975BJNE025061130]
 Bundesbankdirektor
 
 Dekan
 
-[^f780997_56_BJNR011740975BJNE025060130]
+[^f780997_56_BJNR011740975BJNE025061130]
 Direktor
 
-[^f780997_57_BJNR011740975BJNE025060130]
+[^f780997_57_BJNR011740975BJNE025061130]
 Generalkonsul
 
 Gesandter
@@ -2727,9 +2776,9 @@ Vortragender Legationsrat
 
 Direktor einer Fachschule
 
-–[^f780997_61_BJNR011740975BJNE025060130]
+–[^f780997_61_BJNR011740975BJNE025061130]
    als Leiter einer Fachschule mit beruflichem Unterricht mit bis zu 360 Unterrichtsteilnehmern –
-[^f780997_62_BJNR011740975BJNE025060130]
+[^f780997_62_BJNR011740975BJNE025061130]
     ,
 
 
@@ -2754,9 +2803,9 @@ Studiendirektor
 
 
 
-[^f780997_60_BJNR011740975BJNE025060130]
+[^f780997_60_BJNR011740975BJNE025061130]
 Oberstleutnant
-[^f780997_64_BJNR011740975BJNE025060130]
+[^f780997_64_BJNR011740975BJNE025061130]
 ,
 
 Fregattenkapitän
@@ -2778,31 +2827,31 @@ Abteilungsdirektor
 
 Abteilungspräsident
 
-[^f809527_04_BJNR011740975BJNE025060130]
+[^f809527_04_BJNR011740975BJNE025061130]
 Botschafter
 
-[^f809527_10_BJNR011740975BJNE025060130]
+[^f809527_10_BJNR011740975BJNE025061130]
 Botschaftsrat Erster Klasse
 
-[^f809527_05_BJNR011740975BJNE025060130]
+[^f809527_05_BJNR011740975BJNE025061130]
 Bundesbankdirektor
 
-[^f809527_06_BJNR011740975BJNE025060130]
+[^f809527_06_BJNR011740975BJNE025061130]
 Direktor
 
-[^f809527_07_BJNR011740975BJNE025060130]
+[^f809527_07_BJNR011740975BJNE025061130]
 Generalkonsul
 
 Gesandter
 
 Leitender Akademischer Direktor
 
-[^f809527_08_BJNR011740975BJNE025060130]
+[^f809527_08_BJNR011740975BJNE025061130]
 – als wissenschaftlicher Mitarbeiter an einer Hochschule –
 
 Leitender Dekan
 
-[^f809527_09_BJNR011740975BJNE025060130]
+[^f809527_09_BJNR011740975BJNE025061130]
 Leitender Direktor
 
 Leitender Militärrabbiner
@@ -2821,10 +2870,10 @@ Leitender Regierungsschuldirektor
 
 Oberstudiendirektor
 
-[^f809527_11_BJNR011740975BJNE025060130]
+[^f809527_11_BJNR011740975BJNE025061130]
 – im höheren Dienst als Leiter einer Fachschule mit beruflichem Unterricht mit mehr als 360 Unterrichtsteilnehmern –
 
-[^f809527_12_BJNR011740975BJNE025060130]
+[^f809527_12_BJNR011740975BJNE025061130]
 Oberst
 
 Kapitän zur See
@@ -2844,10 +2893,10 @@ Bundesbesoldungsordnung B
 
 ## **Besoldungsgruppe B 1**
 
-[^f809527_13a_BJNR011740975BJNE025060130]
+[^f809527_13a_BJNR011740975BJNE025061130]
 Direktor
 
-[^f809527_13_BJNR011740975BJNE025060130]
+[^f809527_13_BJNR011740975BJNE025061130]
 Direktor und Professor
 
 ## **Besoldungsgruppe B 2**
@@ -2863,21 +2912,21 @@ Abteilungsdirektor, Abteilungspräsident
 
 
 
-[^f809527_14_BJNR011740975BJNE025060130]
+[^f809527_14_BJNR011740975BJNE025061130]
 Direktor
 
-[^f809527_15_BJNR011740975BJNE025060130]
+[^f809527_15_BJNR011740975BJNE025061130]
 Direktor und Professor
 
 Vizepräsident
 
-–[^f809527_16_BJNR011740975BJNE025060130]
+–[^f809527_16_BJNR011740975BJNE025061130]
    bei einer Dienststelle oder sonstigen Einrichtung, wenn der Leiter in die Besoldungsgruppe B 5 eingestuft ist –
 
 
 
 
-[^f809527_17_BJNR011740975BJNE025060130]
+[^f809527_17_BJNR011740975BJNE025061130]
 Oberst
 
 Kapitän zur See
@@ -2937,27 +2986,29 @@ Abteilungspräsident beim Bundesamt für Soziale Sicherung
 
 
 
-[^f809527_18_BJNR011740975BJNE025060130]
+[^f809527_18_BJNR011740975BJNE025061130]
 Botschafter
 
-[^f809527_23_BJNR011740975BJNE025060130]
+[^f809527_23_BJNR011740975BJNE025061130]
 Botschaftsrat Erster Klasse
 
-[^f809527_19_BJNR011740975BJNE025060130]
+[^f809527_19_BJNR011740975BJNE025061130]
 Bundesbankdirektor
 
-[^f809527_20_BJNR011740975BJNE025060130]
+[^f809527_20_BJNR011740975BJNE025061130]
 Direktor
 
-[^f809527_21_BJNR011740975BJNE025060130]
+[^f809527_21_BJNR011740975BJNE025061130]
 Direktor und Professor
 
-[^f809527_22_BJNR011740975BJNE025060130]
+[^f809527_22_BJNR011740975BJNE025061130]
 Generalkonsul
 
 Gesandter
 
 Kurator der Museumsstiftung Post und Telekommunikation
+
+Leitender Polizeidirektor beim Deutschen Bundestag
 
 Leitender Postdirektor
 
@@ -2978,7 +3029,7 @@ Leitender Postdirektor
 Ministerialrat
 
 –   bei einer obersten Bundesbehörde oder beim Bundeseisenbahnvermögen –
-[^f809527_24_BJNR011740975BJNE025060130]
+[^f809527_24_BJNR011740975BJNE025061130]
     ,
 
 
@@ -2989,7 +3040,7 @@ Ministerialrat
 
 Vizepräsident
 
-–[^f809527_25_BJNR011740975BJNE025060130]
+–[^f809527_25_BJNR011740975BJNE025061130]
    bei einer Dienststelle oder sonstigen Einrichtung, wenn der Leiter in die Besoldungsgruppe B 6 eingestuft ist –
 
 
@@ -2997,7 +3048,7 @@ Vizepräsident
 
 Vortragender Legationsrat Erster Klasse
 
-[^f809527_26_BJNR011740975BJNE025060130]
+[^f809527_26_BJNR011740975BJNE025061130]
 Oberst
 
 Kapitän zur See
@@ -3014,26 +3065,26 @@ Oberstveterinär
 
 ## **Besoldungsgruppe B 4**
 
-[^f809527_27_BJNR011740975BJNE025060130]
+[^f809527_27_BJNR011740975BJNE025061130]
 Direktor
 
-[^f809527_30a_BJNR011740975BJNE025060130]
+[^f809527_30a_BJNR011740975BJNE025061130]
 Direktor und Professor
 
-[^f809527_28_BJNR011740975BJNE025060130]
+[^f809527_28_BJNR011740975BJNE025061130]
 Erster Direktor
 
 Leitender Direktor des Marinearsenals
 
-[^f809527_29_BJNR011740975BJNE025060130]
+[^f809527_29_BJNR011740975BJNE025061130]
 Präsident
 
-[^f809527_30aa_BJNR011740975BJNE025060130]
+[^f809527_30aa_BJNR011740975BJNE025061130]
 Präsident und Professor
 
 Vizepräsident
 
-–[^f809527_30_BJNR011740975BJNE025060130]
+–[^f809527_30_BJNR011740975BJNE025061130]
    bei einer Dienststelle oder sonstigen Einrichtung, wenn der Leiter in die Besoldungsgruppe B 7 eingestuft ist –
 
 
@@ -3042,16 +3093,16 @@ Vizepräsident
 
 ## **Besoldungsgruppe B 5**
 
-[^f809527_31_BJNR011740975BJNE025060130]
+[^f809527_31_BJNR011740975BJNE025061130]
 Bundesbankdirektor
 
-[^f809527_32_BJNR011740975BJNE025060130]
+[^f809527_32_BJNR011740975BJNE025061130]
 Direktor
 
-[^f809527_33_BJNR011740975BJNE025060130]
+[^f809527_33_BJNR011740975BJNE025061130]
 Direktor und Professor
 
-[^f809527_34_BJNR011740975BJNE025060130]
+[^f809527_34_BJNR011740975BJNE025061130]
 Erster Direktor
 
 Generaldirektor der Staatsbibliothek der Stiftung Preußischer Kulturbesitz
@@ -3060,18 +3111,18 @@ Generaldirektor und Professor der Staatlichen Museen der Stiftung Preußischer K
 
 Inspekteur der Bereitschaftspolizeien der Länder
 
-[^f809527_35_BJNR011740975BJNE025060130]
+[^f809527_35_BJNR011740975BJNE025061130]
 Oberdirektor
 
-[^f809527_36_BJNR011740975BJNE025060130]
+[^f809527_36_BJNR011740975BJNE025061130]
 Präsident
 
-[^f809527_37_BJNR011740975BJNE025060130]
+[^f809527_37_BJNR011740975BJNE025061130]
 Präsident und Professor
 
 Vizepräsident, Vizedirektor
 
-–[^f809527_38_BJNR011740975BJNE025060130]
+–[^f809527_38_BJNR011740975BJNE025061130]
    bei einer Dienststelle oder sonstigen Einrichtung, wenn der Leiter in die Besoldungsgruppe B 8 eingestuft ist –
 
 
@@ -3080,28 +3131,28 @@ Vizepräsident, Vizedirektor
 
 ## **Besoldungsgruppe B 6**
 
-[^f809527_39_BJNR011740975BJNE025060130]
+[^f809527_39_BJNR011740975BJNE025061130]
 Botschafter
 
-[^f809527_40_BJNR011740975BJNE025060130]
+[^f809527_40_BJNR011740975BJNE025061130]
 Bundesbankdirektor
 
 Bundeswehrdisziplinaranwalt
 
 Direktionspräsident bei der Generalzolldirektion
 
-[^f809527_41_BJNR011740975BJNE025060130]
+[^f809527_41_BJNR011740975BJNE025061130]
 Direktor
 
-[^f809527_42_BJNR011740975BJNE025060130]
+[^f809527_42_BJNR011740975BJNE025061130]
 Direktor und Professor
 
-[^f809527_43_BJNR011740975BJNE025060130]
+[^f809527_43_BJNR011740975BJNE025061130]
 Erster Direktor
 
 Generaldirektor der Deutschen Nationalbibliothek
 
-[^f809527_44_BJNR011740975BJNE025060130]
+[^f809527_44_BJNR011740975BJNE025061130]
 Generalkonsul
 
 Gesandter
@@ -3116,10 +3167,10 @@ Ministerialdirigent
 
 –   bei einer obersten Bundesbehörde
 
-[^f809527_45_BJNR011740975BJNE025060130]
+[^f809527_45_BJNR011740975BJNE025061130]
     als Leiter einer Abteilung,
 
-[^f809527_46_BJNR011740975BJNE025060130]
+[^f809527_46_BJNR011740975BJNE025061130]
     als Leiter einer Unterabteilung,
 
     als der ständige Vertreter eines in die Besoldungsgruppe B 9 eingestuften Abteilungsleiters, soweit kein Unterabteilungsleiter vorhanden ist –
@@ -3130,18 +3181,18 @@ Ministerialdirigent
 
 
 
-[^f809527_47_BJNR011740975BJNE025060130]
+[^f809527_47_BJNR011740975BJNE025061130]
 Oberdirektor
 
-[^f809527_48_BJNR011740975BJNE025060130]
+[^f809527_48_BJNR011740975BJNE025061130]
 Präsident
 
-[^f809527_49_BJNR011740975BJNE025060130]
+[^f809527_49_BJNR011740975BJNE025061130]
 Präsident und Professor
 
 Vizepräsident
 
-–[^f809527_50_BJNR011740975BJNE025060130]
+–[^f809527_50_BJNR011740975BJNE025061130]
    bei einer Dienststelle oder sonstigen Einrichtung, wenn der Leiter in die Besoldungsgruppe B 9 eingestuft ist –
 
 
@@ -3162,7 +3213,7 @@ Admiralarzt
 
 ## **Besoldungsgruppe B 7**
 
-[^f809527_51_BJNR011740975BJNE025060130]
+[^f809527_51_BJNR011740975BJNE025061130]
 Direktor
 
 Ministerialdirigent
@@ -3172,13 +3223,13 @@ Ministerialdirigent
 
 
 
-[^f809527_52_BJNR011740975BJNE025060130]
+[^f809527_52_BJNR011740975BJNE025061130]
 Oberdirektor
 
-[^f809527_53_BJNR011740975BJNE025060130]
+[^f809527_53_BJNR011740975BJNE025061130]
 Präsident
 
-[^f809527_54_BJNR011740975BJNE025060130]
+[^f809527_54_BJNR011740975BJNE025061130]
 Präsident und Professor
 
 Vizepräsident
@@ -3201,37 +3252,37 @@ Admiralstabsarzt
 
 ## **Besoldungsgruppe B 8**
 
-[^f809527_55_BJNR011740975BJNE025060130]
+[^f809527_55_BJNR011740975BJNE025061130]
 Direktor
 
-[^f809527_56_BJNR011740975BJNE025060130]
+[^f809527_56_BJNR011740975BJNE025061130]
 Erster Direktor
 
-[^f809527_57_BJNR011740975BJNE025060130]
+[^f809527_57_BJNR011740975BJNE025061130]
 Präsident
 
-[^f809527_58_BJNR011740975BJNE025060130]
+[^f809527_58_BJNR011740975BJNE025061130]
 Präsident und Professor
 
 ## **Besoldungsgruppe B 9**
 
-[^f809527_59_BJNR011740975BJNE025060130]
+[^f809527_59_BJNR011740975BJNE025061130]
 Botschafter
 
-[^f809527_60_BJNR011740975BJNE025060130]
+[^f809527_60_BJNR011740975BJNE025061130]
 Bundesbankdirektor
 
 Direktor beim Bundesverfassungsgericht
 
 Ministerialdirektor
 
-–[^f809527_61_BJNR011740975BJNE025060130]
+–[^f809527_61_BJNR011740975BJNE025061130]
    bei einer obersten Bundesbehörde als Leiter einer Abteilung –
 
 
 
 
-[^f809527_62_BJNR011740975BJNE025060130]
+[^f809527_62_BJNR011740975BJNE025061130]
 Präsident
 
 Vizepräsident des Bundesrechnungshofes
@@ -3261,7 +3312,7 @@ Ministerialdirektor
 
 Präsident der Deutschen Rentenversicherung Bund
 
-[^f809527_63_BJNR011740975BJNE025060130]
+[^f809527_63_BJNR011740975BJNE025061130]
 General
 
 Admiral
@@ -3273,121 +3324,121 @@ Präsident des Bundesrechnungshofes
 Staatssekretär
 
     Erhält eine Amtszulage nach Anlage IX.
-[^f780997_08_BJNR011740975BJNE025060130]:     Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.
-[^f780997_09_BJNR011740975BJNE025060130]:     Als Eingangsamt.
-[^f780997_10_BJNR011740975BJNE025060130]:     Erhält eine Amtszulage nach Anlage IX.
-[^f780997_11_BJNR011740975BJNE025060130]:     Erhält eine Amtszulage nach Anlage IX.
-[^f780997_12_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 6.
-[^f780997_13_BJNR011740975BJNE025060130]:     Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.
-[^f780997_14_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 5.
-[^f780997_16_BJNR011740975BJNE025060130]:     Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX.
-[^f780997_17_BJNR011740975BJNE025060130]:     Als Eingangsamt.
-[^f780997_18_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 7.
-[^f780997_19_BJNR011740975BJNE025060130]:     Erhält eine Amtszulage nach Anlage IX.
-[^bjnr011740975bjne025047116_05_BJNR011740975BJNE025060130]:     Als Eingangsamt.
-[^f780997_20_BJNR011740975BJNE025060130]:     Auch als Eingangsamt.
-[^f780997_21_BJNR011740975BJNE025060130]:     Auch als Eingangsamt für Laufbahnen des mittleren technischen Dienstes.
-[^f780997_22_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 6.
-[^f780997_23_BJNR011740975BJNE025060130]:     Erhält eine Amtszulage nach Anlage IX.
-[^f780997_24_BJNR011740975BJNE025060130]:     Erhält eine Amtszulage nach Anlage IX.
-[^f780997_25_BJNR011740975BJNE025060130]:     Beamte und Soldaten in Funktionen, die sich von denen der Besoldungsgruppe A 9 abheben, können eine Amtszulage nach Anlage IX erhalten.
-[^bjnr011740975bjne025047116_stern_BJNR011740975BJNE025060130]:     Auch als Eingangsamt (siehe § 23 Absatz 2).
-[^f780997_29_BJNR011740975BJNE025060130]:     Auch als Eingangsamt (siehe § 23 Absatz 2).
-[^f780997_30_BJNR011740975BJNE025060130]:     Im Auswärtigen Dienst.
-[^f780997_31_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 12.
-[^f780997_32_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 13.
-[^f780997_33_BJNR011740975BJNE025060130]:     Im Auswärtigen Dienst.
-[^f780997_34_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 11.
-[^f780997_35_BJNR011740975BJNE025060130]:     Beamte des gehobenen Dienstes und Soldaten im Dienstgrad Stabshauptmann oder Stabskapitänleutnant in Funktionen, die sich von denen der Besoldungsgruppe A 13 abheben, können eine Amtszulage nach Anlage IX erhalten.
-[^f780997_36_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 12.
-[^f780997_38_BJNR011740975BJNE025060130]:     Im Auswärtigen Dienst.
-[^f780997_39_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 14.
-[^f780997_40_BJNR011740975BJNE025060130]:     Mit der Befähigung für das Lehramt an Realschulen.
-[^f780997_41_BJNR011740975BJNE025060130]:     Erhält als der ständige Vertreter eines Fachschuldirektors oder als Fachvorsteher eine Amtszulage nach Anlage IX.
-[^f780997_42_BJNR011740975BJNE025060130]:     Als Eingangsamt.
-[^f780997_43_BJNR011740975BJNE025060130]:     Mit der Befähigung für ein Lehramt.
-[^f780997_44_BJNR011740975BJNE025060130]:     Führt während der Verwendung als Leiter einer Botschaft oder Gesandtschaft die Amtsbezeichnung „Botschafter“ oder „Gesandter“.
-[^f780997_47_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 15.
-[^f780997_48_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 13.
-[^f780997_49_BJNR011740975BJNE025060130]:     Erhält eine Amtszulage nach Anlage IX.
-[^f780997_50_BJNR011740975BJNE025060130]:     Mit der Befähigung für das Lehramt an Realschulen.
-[^f780997_51_BJNR011740975BJNE025060130]:     Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.
-[^f780997_52_BJNR011740975BJNE025060130]:     Mit der Befähigung für ein Lehramt.
-[^f780997_53_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 6, B 9.
-[^f780997_54_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 5, B 6, B 9.
-[^f780997_55_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 16, B 2, B 3, B 4, B 6, B 7, B 8, B 9. Prüfer als Gruppenleiter beim Deutschen Patent- und Markenamt erhalten eine Amtszulage nach Anlage IX.
-[^f780997_56_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 6.
-[^f780997_57_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 14.
-[^f780997_60_BJNR011740975BJNE025060130]:     Erhält eine Amtszulage nach Anlage IX.
-[^f780997_61_BJNR011740975BJNE025060130]:     Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.
-[^f780997_62_BJNR011740975BJNE025060130]:     Auf herausgehobenen Dienstposten.
-[^f780997_64_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 6, B 9.
-[^f809527_04_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 5, B 6, B 9.
-[^f809527_05_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, B 2, B 3, B 4, B 5, B 6, B 7, B 8, B 9.
-[^f809527_06_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 6.
-[^f809527_07_BJNR011740975BJNE025060130]:     Nur in Stellen von besonderer Bedeutung.
-[^f809527_08_BJNR011740975BJNE025060130]:     Für die Leiter von besonders großen und besonders bedeutenden unteren Verwaltungsbehörden sowie die Leiter von Mittelbehörden oder Oberbehörden können nach Maßgabe des Haushalts Planstellen mit einer Amtszulage nach Anlage IX ausgestattet werden.
-[^f809527_09_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe B 3.
-[^f809527_10_BJNR011740975BJNE025060130]:     Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.
-[^f809527_11_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 2, B 3.
-[^f809527_12_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 2, B 3, B 4, B 5, B 6.
-[^f809527_13_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 2, B 3, B 4, B 5, B 6, B 7, B 8.
-[^f809527_13a_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 3, B 4, B 5, B 6, B 7, B 8.
-[^f809527_14_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 1, B 3, B 4, B 5, B 6.
-[^f809527_15_BJNR011740975BJNE025060130]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.
-[^f809527_16_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 16, B 3.
-[^f809527_17_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6, B 9.
-[^f809527_18_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 5, B 6, B 9.
-[^f809527_19_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 4, B 5, B 6, B 7, B 8.
-[^f809527_20_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 1, B 2, B 4, B 5, B 6.
-[^f809527_21_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6.
-[^f809527_22_BJNR011740975BJNE025060130]:     Soweit nicht in der Besoldungsgruppe A 16.
-[^f809527_23_BJNR011740975BJNE025060130]:     Der Leiter des Präsidialbüros des Präsidenten des Deutschen Bundestages erhält eine Stellenzulage in Höhe des Unterschiedsbetrages zwischen dem Grundgehalt der Besoldungsgruppe B 3 und dem Grundgehalt der Besoldungsgruppe B 6.
-[^f809527_24_BJNR011740975BJNE025060130]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.
-[^f809527_25_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 16, B 2.
-[^f809527_26_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 5, B 6, B 7, B 8.
-[^f809527_27_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 5, B 6.
-[^f809527_28_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 5, B 6, B 7, B 8, B 9.
-[^f809527_29_BJNR011740975BJNE025060130]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.
-[^f809527_30_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 1, B 2, B 3, B 5, B 6.
-[^f809527_30a_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 5, B 6, B 7, B 8.
-[^f809527_30aa_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 6, B 9.
-[^f809527_31_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 4, B 6, B 7, B 8.
-[^f809527_32_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 1, B 2, B 3, B 4, B 6.
-[^f809527_33_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 4, B 6, B 8.
-[^f809527_34_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 6, B 7.
-[^f809527_35_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 4, B 6, B 7, B 8, B 9.
-[^f809527_36_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 4, B 6, B 7, B 8.
-[^f809527_37_BJNR011740975BJNE025060130]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.
-[^f809527_38_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 9.
-[^f809527_39_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 5, B 9.
-[^f809527_40_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 4, B 5, B 7, B 8.
-[^f809527_41_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 1, B 2, B 3, B 4, B 5.
-[^f809527_42_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 8.
-[^f809527_43_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3.
-[^f809527_44_BJNR011740975BJNE025060130]:     Soweit die Funktion nicht dem Amt des Ministerialdirektors in die Besoldungsgruppe B 9 zugeordnet ist.
-[^f809527_45_BJNR011740975BJNE025060130]:     Soweit die Funktion nicht dem Amt des Ministerialrats in die Besoldungsgruppe B 3 zugeordnet ist.
-[^f809527_46_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 5, B 7.
-[^f809527_47_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 7, B 8, B 9.
-[^f809527_48_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 4, B 5, B 7, B 8.
-[^f809527_49_BJNR011740975BJNE025060130]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört.
-[^f809527_50_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 4, B 5, B 6, B 8.
-[^f809527_51_BJNR011740975BJNE025060130]:     Für höchstens einen Geschäftsführer, dessen Funktion sich von denen der Geschäftsführer in den Besoldungsgruppen B 5, B 6 abhebt.
-[^f809527_52_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6, B 8, B 9.
-[^f809527_53_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 4, B 5, B 6, B 8.
-[^f809527_54_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 4, B 5, B 6, B 7.
-[^f809527_55_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6.
-[^f809527_56_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6, B 7, B 9.
-[^f809527_57_BJNR011740975BJNE025060130]:     Wenn nicht in den Besoldungsgruppen B 4, B 5, B 6, B 7.
-[^f809527_58_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 6.
-[^f809527_59_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 5, B 6.
-[^f809527_60_BJNR011740975BJNE025060130]:     Soweit die Funktion nicht dem Amt des Ministerialdirigenten in Besoldungsgruppe B 6 zugeordnet ist. Auch in der Funktion einer übergeordneten Leitung mehrerer Abteilungen.
-[^f809527_61_BJNR011740975BJNE025060130]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6, B 7, B 8.
-[^f809527_62_BJNR011740975BJNE025060130]:     Erhält als Generalinspekteur der Bundeswehr eine Amtszulage nach Anlage IX.
-[^f809527_63_BJNR011740975BJNE025060130]:     Erhält eine Amtszulage nach Anlage IX.
-[^F816618_01_BJNR011740975BJNE025060130]:     Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.
-[^F816618_02_BJNR011740975BJNE025060130]:     Erhält eine Amtszulage nach Anlage IX.
-[^F816618_03_BJNR011740975BJNE025060130]: 
+[^f780997_08_BJNR011740975BJNE025061130]:     Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.
+[^f780997_09_BJNR011740975BJNE025061130]:     Als Eingangsamt.
+[^f780997_10_BJNR011740975BJNE025061130]:     Erhält eine Amtszulage nach Anlage IX.
+[^f780997_11_BJNR011740975BJNE025061130]:     Erhält eine Amtszulage nach Anlage IX.
+[^f780997_12_BJNR011740975BJNE025061130]:     Soweit nicht in der Besoldungsgruppe A 6.
+[^f780997_13_BJNR011740975BJNE025061130]:     Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.
+[^f780997_14_BJNR011740975BJNE025061130]:     Soweit nicht in der Besoldungsgruppe A 5.
+[^f780997_16_BJNR011740975BJNE025061130]:     Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX.
+[^f780997_17_BJNR011740975BJNE025061130]:     Als Eingangsamt.
+[^f780997_18_BJNR011740975BJNE025061130]:     Soweit nicht in der Besoldungsgruppe A 7.
+[^f780997_19_BJNR011740975BJNE025061130]:     Erhält eine Amtszulage nach Anlage IX.
+[^bjnr011740975bjne025047116_05_BJNR011740975BJNE025061130]:     Als Eingangsamt.
+[^f780997_20_BJNR011740975BJNE025061130]:     Auch als Eingangsamt.
+[^f780997_21_BJNR011740975BJNE025061130]:     Auch als Eingangsamt für Laufbahnen des mittleren technischen Dienstes.
+[^f780997_22_BJNR011740975BJNE025061130]:     Soweit nicht in der Besoldungsgruppe A 6.
+[^f780997_23_BJNR011740975BJNE025061130]:     Erhält eine Amtszulage nach Anlage IX.
+[^f780997_24_BJNR011740975BJNE025061130]:     Erhält eine Amtszulage nach Anlage IX.
+[^f780997_25_BJNR011740975BJNE025061130]:     Beamte und Soldaten in Funktionen, die sich von denen der Besoldungsgruppe A 9 abheben, können eine Amtszulage nach Anlage IX erhalten.
+[^bjnr011740975bjne025047116_stern_BJNR011740975BJNE025061130]:     Auch als Eingangsamt (siehe § 23 Absatz 2).
+[^f780997_29_BJNR011740975BJNE025061130]:     Auch als Eingangsamt (siehe § 23 Absatz 2).
+[^f780997_30_BJNR011740975BJNE025061130]:     Im Auswärtigen Dienst.
+[^f780997_31_BJNR011740975BJNE025061130]:     Soweit nicht in der Besoldungsgruppe A 12.
+[^f780997_32_BJNR011740975BJNE025061130]:     Soweit nicht in der Besoldungsgruppe A 13.
+[^f780997_33_BJNR011740975BJNE025061130]:     Im Auswärtigen Dienst.
+[^f780997_34_BJNR011740975BJNE025061130]:     Soweit nicht in der Besoldungsgruppe A 11.
+[^f780997_35_BJNR011740975BJNE025061130]:     Beamte des gehobenen Dienstes und Soldaten im Dienstgrad Stabshauptmann oder Stabskapitänleutnant in Funktionen, die sich von denen der Besoldungsgruppe A 13 abheben, können eine Amtszulage nach Anlage IX erhalten.
+[^f780997_36_BJNR011740975BJNE025061130]:     Soweit nicht in der Besoldungsgruppe A 12.
+[^f780997_38_BJNR011740975BJNE025061130]:     Im Auswärtigen Dienst.
+[^f780997_39_BJNR011740975BJNE025061130]:     Soweit nicht in der Besoldungsgruppe A 14.
+[^f780997_40_BJNR011740975BJNE025061130]:     Mit der Befähigung für das Lehramt an Realschulen.
+[^f780997_41_BJNR011740975BJNE025061130]:     Erhält als der ständige Vertreter eines Fachschuldirektors oder als Fachvorsteher eine Amtszulage nach Anlage IX.
+[^f780997_42_BJNR011740975BJNE025061130]:     Als Eingangsamt.
+[^f780997_43_BJNR011740975BJNE025061130]:     Mit der Befähigung für ein Lehramt.
+[^f780997_44_BJNR011740975BJNE025061130]:     Führt während der Verwendung als Leiter einer Botschaft oder Gesandtschaft die Amtsbezeichnung „Botschafter“ oder „Gesandter“.
+[^f780997_47_BJNR011740975BJNE025061130]:     Soweit nicht in der Besoldungsgruppe A 15.
+[^f780997_48_BJNR011740975BJNE025061130]:     Soweit nicht in der Besoldungsgruppe A 13.
+[^f780997_49_BJNR011740975BJNE025061130]:     Erhält eine Amtszulage nach Anlage IX.
+[^f780997_50_BJNR011740975BJNE025061130]:     Mit der Befähigung für das Lehramt an Realschulen.
+[^f780997_51_BJNR011740975BJNE025061130]:     Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.
+[^f780997_52_BJNR011740975BJNE025061130]:     Mit der Befähigung für ein Lehramt.
+[^f780997_53_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 6, B 9.
+[^f780997_54_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 5, B 6, B 9.
+[^f780997_55_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 16, B 2, B 3, B 4, B 6, B 7, B 8, B 9. Prüfer als Gruppenleiter beim Deutschen Patent- und Markenamt erhalten eine Amtszulage nach Anlage IX.
+[^f780997_56_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 16, B 3, B 6.
+[^f780997_57_BJNR011740975BJNE025061130]:     Soweit nicht in der Besoldungsgruppe A 14.
+[^f780997_60_BJNR011740975BJNE025061130]:     Erhält eine Amtszulage nach Anlage IX.
+[^f780997_61_BJNR011740975BJNE025061130]:     Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.
+[^f780997_62_BJNR011740975BJNE025061130]:     Auf herausgehobenen Dienstposten.
+[^f780997_64_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 6, B 9.
+[^f809527_04_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 5, B 6, B 9.
+[^f809527_05_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 15, B 2, B 3, B 4, B 5, B 6, B 7, B 8, B 9.
+[^f809527_06_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 15, B 3, B 6.
+[^f809527_07_BJNR011740975BJNE025061130]:     Nur in Stellen von besonderer Bedeutung.
+[^f809527_08_BJNR011740975BJNE025061130]:     Für die Leiter von besonders großen und besonders bedeutenden unteren Verwaltungsbehörden sowie die Leiter von Mittelbehörden oder Oberbehörden können nach Maßgabe des Haushalts Planstellen mit einer Amtszulage nach Anlage IX ausgestattet werden.
+[^f809527_09_BJNR011740975BJNE025061130]:     Soweit nicht in der Besoldungsgruppe B 3.
+[^f809527_10_BJNR011740975BJNE025061130]:     Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.
+[^f809527_11_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen B 2, B 3.
+[^f809527_12_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen B 2, B 3, B 4, B 5, B 6.
+[^f809527_13_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 2, B 3, B 4, B 5, B 6, B 7, B 8.
+[^f809527_13a_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 3, B 4, B 5, B 6, B 7, B 8.
+[^f809527_14_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen B 1, B 3, B 4, B 5, B 6.
+[^f809527_15_BJNR011740975BJNE025061130]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.
+[^f809527_16_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 16, B 3.
+[^f809527_17_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6, B 9.
+[^f809527_18_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 5, B 6, B 9.
+[^f809527_19_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 4, B 5, B 6, B 7, B 8.
+[^f809527_20_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen B 1, B 2, B 4, B 5, B 6.
+[^f809527_21_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6.
+[^f809527_22_BJNR011740975BJNE025061130]:     Soweit nicht in der Besoldungsgruppe A 16.
+[^f809527_23_BJNR011740975BJNE025061130]:     Der Leiter des Präsidialbüros des Präsidenten des Deutschen Bundestages erhält eine Stellenzulage in Höhe des Unterschiedsbetrages zwischen dem Grundgehalt der Besoldungsgruppe B 3 und dem Grundgehalt der Besoldungsgruppe B 6.
+[^f809527_24_BJNR011740975BJNE025061130]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.
+[^f809527_25_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 16, B 2.
+[^f809527_26_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 5, B 6, B 7, B 8.
+[^f809527_27_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen B 5, B 6.
+[^f809527_28_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen B 5, B 6, B 7, B 8, B 9.
+[^f809527_29_BJNR011740975BJNE025061130]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.
+[^f809527_30_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen B 1, B 2, B 3, B 5, B 6.
+[^f809527_30a_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen B 5, B 6, B 7, B 8.
+[^f809527_30aa_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 6, B 9.
+[^f809527_31_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 4, B 6, B 7, B 8.
+[^f809527_32_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen B 1, B 2, B 3, B 4, B 6.
+[^f809527_33_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen B 4, B 6, B 8.
+[^f809527_34_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen B 6, B 7.
+[^f809527_35_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen B 4, B 6, B 7, B 8, B 9.
+[^f809527_36_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen B 4, B 6, B 7, B 8.
+[^f809527_37_BJNR011740975BJNE025061130]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.
+[^f809527_38_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 9.
+[^f809527_39_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 5, B 9.
+[^f809527_40_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 4, B 5, B 7, B 8.
+[^f809527_41_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen B 1, B 2, B 3, B 4, B 5.
+[^f809527_42_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 8.
+[^f809527_43_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3.
+[^f809527_44_BJNR011740975BJNE025061130]:     Soweit die Funktion nicht dem Amt des Ministerialdirektors in die Besoldungsgruppe B 9 zugeordnet ist.
+[^f809527_45_BJNR011740975BJNE025061130]:     Soweit die Funktion nicht dem Amt des Ministerialrats in die Besoldungsgruppe B 3 zugeordnet ist.
+[^f809527_46_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen B 5, B 7.
+[^f809527_47_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 7, B 8, B 9.
+[^f809527_48_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen B 4, B 5, B 7, B 8.
+[^f809527_49_BJNR011740975BJNE025061130]:     Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört.
+[^f809527_50_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 4, B 5, B 6, B 8.
+[^f809527_51_BJNR011740975BJNE025061130]:     Für höchstens einen Geschäftsführer, dessen Funktion sich von denen der Geschäftsführer in den Besoldungsgruppen B 5, B 6 abhebt.
+[^f809527_52_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6, B 8, B 9.
+[^f809527_53_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen B 4, B 5, B 6, B 8.
+[^f809527_54_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen A 15, A 16, B 1, B 2, B 3, B 4, B 5, B 6, B 7.
+[^f809527_55_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6.
+[^f809527_56_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6, B 7, B 9.
+[^f809527_57_BJNR011740975BJNE025061130]:     Wenn nicht in den Besoldungsgruppen B 4, B 5, B 6, B 7.
+[^f809527_58_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 6.
+[^f809527_59_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 5, B 6.
+[^f809527_60_BJNR011740975BJNE025061130]:     Soweit die Funktion nicht dem Amt des Ministerialdirigenten in Besoldungsgruppe B 6 zugeordnet ist. Auch in der Funktion einer übergeordneten Leitung mehrerer Abteilungen.
+[^f809527_61_BJNR011740975BJNE025061130]:     Soweit nicht in den Besoldungsgruppen B 4, B 5, B 6, B 7, B 8.
+[^f809527_62_BJNR011740975BJNE025061130]:     Erhält als Generalinspekteur der Bundeswehr eine Amtszulage nach Anlage IX.
+[^f809527_63_BJNR011740975BJNE025061130]:     Erhält eine Amtszulage nach Anlage IX.
+[^F816618_01_BJNR011740975BJNE025061130]:     Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.
+[^F816618_02_BJNR011740975BJNE025061130]:     Erhält eine Amtszulage nach Anlage IX.
+[^F816618_03_BJNR011740975BJNE025061130]: 
 (zu § 32 Satz 1)
 
 ### Anlage II Bundesbesoldungsordnung W
@@ -5544,14 +5595,14 @@ VI.2
 
 *    *   30
 
-    *   Nummer 6
+    *   Nummer 5b
 
     *
     *
 
 *    *   31
 
-    *   Absatz 1 Satz 1
+    *   Absatz 1
 
     *
     *
@@ -5561,7 +5612,7 @@ VI.2
     *   Nummer 1
 
     *
-    *   680,00
+    *   150,00
 
 
 *    *   33
@@ -5569,7 +5620,7 @@ VI.2
     *   Nummer 2
 
     *
-    *   540,00
+    *   300,00
 
 
 *    *   34
@@ -5577,10 +5628,48 @@ VI.2
     *   Nummer 3
 
     *
-    *   475,00
+    *   350,00
 
 
 *    *   35
+
+    *   Nummer 6
+
+    *
+    *
+
+*    *   36
+
+    *   Absatz 1 Satz 1
+
+    *
+    *
+
+*    *   37
+
+    *   Nummer 1
+
+    *
+    *   680,00
+
+
+*    *   38
+
+    *   Nummer 2
+
+    *
+    *   540,00
+
+
+*    *   39
+
+    *   Nummer 3
+
+    *
+    *   475,00
+
+
+*    *   40
 
     *   Nummer 4
 
@@ -5588,7 +5677,7 @@ VI.2
     *   435,00
 
 
-*    *   36
+*    *   41
 
     *   Absatz 1 Satz 2
 
@@ -5596,7 +5685,7 @@ VI.2
     *   615,00
 
 
-*    *   37
+*    *   42
 
     *   Nummer 6a
 
@@ -5604,7 +5693,7 @@ VI.2
     *   150,00
 
 
-*    *   38
+*    *   43
 
     *   Nummer 7
 
@@ -5612,101 +5701,65 @@ VI.2
 
     *
 
-*    *   39
+*    *   44
 
     *   – A 3 bis A 5
 
     *   165,00
 
 
-*    *   40
+*    *   45
 
     *   – A 6 bis A 9
 
     *   220,00
 
 
-*    *   41
+*    *   46
 
     *   – A 10 bis A 13
 
     *   275,00
 
 
-*    *   42
+*    *   47
 
     *   – A 14, A 15, B 1
 
     *   330,00
 
 
-*    *   43
+*    *   48
 
     *   – A 16, B 2 bis B 4
 
     *   400,00
 
 
-*    *   44
+*    *   49
 
     *   – B 5 bis B 7
 
     *   470,00
 
 
-*    *   45
+*    *   50
 
     *   – B 8 bis B 10
 
     *   540,00
 
 
-*    *   46
+*    *   51
 
     *   – B 11
 
     *   610,00
 
 
-*    *   47
-
-    *   Nummer 8
-
-    *   Beamte und Soldaten der Besoldungsgruppen
-
-    *
-
-*    *   48
-
-    *   – A 3 bis A 5
-
-    *   150,00
-
-
-*    *   49
-
-    *   – A 6 bis A 9
-
-    *   200,00
-
-
-*    *   50
-
-    *   – A 10 bis A 13
-
-    *   250,00
-
-
-*    *   51
-
-    *   – A 14 und höher
-
-    *   300,00
-
-
 *    *   52
 
-    *   Nummer 8a
+    *   Nummer 8
 
     *   Beamte und Soldaten der Besoldungsgruppen
 
@@ -5716,58 +5769,94 @@ VI.2
 
     *   – A 3 bis A 5
 
-    *   103,00
+    *   150,00
 
 
 *    *   54
 
     *   – A 6 bis A 9
 
-    *   141,00
+    *   200,00
 
 
 *    *   55
 
     *   – A 10 bis A 13
 
-    *   174,00
+    *   250,00
 
 
 *    *   56
 
     *   – A 14 und höher
 
-    *   206,00
+    *   300,00
 
 
 *    *   57
+
+    *   Nummer 8a
+
+    *   Beamte und Soldaten der Besoldungsgruppen
+
+    *
+
+*    *   58
+
+    *   – A 3 bis A 5
+
+    *   103,00
+
+
+*    *   59
+
+    *   – A 6 bis A 9
+
+    *   141,00
+
+
+*    *   60
+
+    *   – A 10 bis A 13
+
+    *   174,00
+
+
+*    *   61
+
+    *   – A 14 und höher
+
+    *   206,00
+
+
+*    *   62
 
     *   Anwärter der Laufbahngruppe
 
     *
 
-*    *   58
+*    *   63
 
     *   – des mittleren Dienstes
 
     *   75,00
 
 
-*    *   59
+*    *   64
 
     *   – des gehobenen Dienstes
 
     *   99,00
 
 
-*    *   60
+*    *   65
 
     *   – des höheren Dienstes
 
     *   122,00
 
 
-*    *   61
+*    *   66
 
     *   Nummer 8b
 
@@ -5775,35 +5864,35 @@ VI.2
 
     *
 
-*    *   62
+*    *   67
 
     *   – A 3 bis A 5
 
     *   120,00
 
 
-*    *   63
+*    *   68
 
     *   – A 6 bis A 9
 
     *   160,00
 
 
-*    *   64
+*    *   69
 
     *   – A 10 bis A 13
 
     *   200,00
 
 
-*    *   65
+*    *   70
 
     *   – A 14 und höher
 
     *   240,00
 
 
-*    *   66
+*    *   71
 
     *   Nummer 8c
 
@@ -5811,35 +5900,35 @@ VI.2
 
     *
 
-*    *   67
+*    *   72
 
     *   – A 3 bis A 5
 
     *   85,00
 
 
-*    *   68
+*    *   73
 
     *   – A 6 bis A 9
 
     *   110,00
 
 
-*    *   69
+*    *   74
 
     *   – A 10 bis A 13
 
     *   125,00
 
 
-*    *   70
+*    *   75
 
     *   – A 14 und höher
 
     *   140,00
 
 
-*    *   71
+*    *   76
 
     *   Nummer 9
 
@@ -5847,35 +5936,35 @@ VI.2
 
     *
 
-*    *   72
+*    *   77
 
     *   – einem Jahr
 
     *   95,00
 
 
-*    *   73
+*    *   78
 
     *   – zwei Jahren
 
     *   228,00
 
 
-*    *   74
+*    *   79
 
     *   Nummer 9a
 
     *
     *
 
-*    *   75
+*    *   80
 
     *   Absatz 1
 
     *
     *
 
-*    *   76
+*    *   81
 
     *   Nummer 1
 
@@ -5883,7 +5972,7 @@ VI.2
     *   350,00
 
 
-*    *   77
+*    *   82
 
     *   Nummer 2
 
@@ -5891,7 +5980,7 @@ VI.2
     *   700,00
 
 
-*    *   78
+*    *   83
 
     *   Nummer 3
 
@@ -5899,14 +5988,14 @@ VI.2
     *   225,00
 
 
-*    *   79
+*    *   84
 
     *   Absatz 3
 
     *
     *
 
-*    *   80
+*    *   85
 
     *   Nummer 1
 
@@ -5914,7 +6003,7 @@ VI.2
     *   136,00
 
 
-*    *   81
+*    *   86
 
     *   Nummer 2 und 3
 
@@ -5922,7 +6011,7 @@ VI.2
     *   76,00
 
 
-*    *   82
+*    *   87
 
     *   Nummer 10
 
@@ -5930,35 +6019,35 @@ VI.2
 
     *
 
-*    *   83
+*    *   88
 
     *   – einem Jahr
 
     *   95,00
 
 
-*    *   84
+*    *   89
 
     *   – zwei Jahren
 
     *   190,00
 
 
-*    *   85
+*    *   90
 
     *   Nummer 11
 
     *
     *
 
-*    *   86
+*    *   91
 
     *   Absatz 1
 
     *
     *
 
-*    *   87
+*    *   92
 
     *   Nummer 1
 
@@ -5966,7 +6055,7 @@ VI.2
     *   415,00
 
 
-*    *   88
+*    *   93
 
     *   Nummer 2
 
@@ -5974,7 +6063,7 @@ VI.2
     *   615,00
 
 
-*    *   89
+*    *   94
 
     *   Absatz 3
 
@@ -5982,7 +6071,7 @@ VI.2
     *   220,00
 
 
-*    *   90
+*    *   95
 
     *   Nummer 12
 
@@ -5990,14 +6079,14 @@ VI.2
     *   55,00
 
 
-*    *   91
+*    *   96
 
     *   Nummer 13
 
     *
     *
 
-*    *   92
+*    *   97
 
     *   Absatz 1
 
@@ -6006,7 +6095,7 @@ VI.2
     *   110,00
 
 
-*    *   93
+*    *   98
 
     *
     *   Beamte des gehobenen Dienstes
@@ -6014,7 +6103,7 @@ VI.2
     *   160,00
 
 
-*    *   94
+*    *   99
 
     *   Absatz 2 Satz 1
 
@@ -6022,28 +6111,28 @@ VI.2
 
     *
 
-*    *   95
+*    *   100
 
     *   – A 6 bis A 9
 
     *   200,00
 
 
-*    *   96
+*    *   101
 
     *   – A 10 bis A 13
 
     *   210,00
 
 
-*    *   97
+*    *   102
 
     *   – A 14 bis A 16
 
     *   220,00
 
 
-*    *   98
+*    *   103
 
     *   Nummer 14
 
@@ -6051,7 +6140,7 @@ VI.2
     *   35,00
 
 
-*    *   99
+*    *   104
 
     *   Nummer 15
 
@@ -6059,35 +6148,35 @@ VI.2
 
     *
 
-*    *   100
+*    *   105
 
     *   – A 3 bis A 5
 
     *   70,00
 
 
-*    *   101
+*    *   106
 
     *   – A 6 bis A 9
 
     *   90,00
 
 
-*    *   102
+*    *   107
 
     *   – A 10 bis A 13
 
     *   110,00
 
 
-*    *   103
+*    *   108
 
     *   – A 14 und höher
 
     *   140,00
 
 
-*    *   104
+*    *   109
 
     *   Nummer 16
 
@@ -6095,75 +6184,39 @@ VI.2
 
     *
 
-*    *   105
+*    *   110
 
     *   – A 3 bis A 5
 
     *   150,00
 
 
-*    *   106
+*    *   111
 
     *   – A 6 bis A 9
 
     *   200,00
 
 
-*    *   107
+*    *   112
 
     *   – A 10 bis A 13
 
     *   250,00
 
 
-*    *   108
+*    *   113
 
     *   – A 14 und höher
 
     *   300,00
 
 
-*    *   109
+*    *   114
 
     *   Nummer 17
 
     *   Beamte der Besoldungsgruppen
-
-    *
-
-*    *   110
-
-    *   – A 3 bis A 5
-
-    *   96,00
-
-
-*    *   111
-
-    *   – A 6 bis A 9
-
-    *   128,00
-
-
-*    *   112
-
-    *   – A 10 bis A 13
-
-    *   160,00
-
-
-*    *   113
-
-    *   – A 14 und höher
-
-    *   192,00
-
-
-*    *   114
-
-    *   Nummer 18
-
-    *   Beamte und Soldaten der Besoldungsgruppen
 
     *
 
@@ -6197,9 +6250,9 @@ VI.2
 
 *    *   119
 
-    *   Nummer 19
+    *   Nummer 18
 
-    *   Beamte der Besoldungsgruppen
+    *   Beamte und Soldaten der Besoldungsgruppen
 
     *
 
@@ -6207,36 +6260,72 @@ VI.2
 
     *   – A 3 bis A 5
 
-    *   20,00
+    *   96,00
 
 
 *    *   121
 
     *   – A 6 bis A 9
 
-    *   40,00
+    *   128,00
 
 
 *    *   122
 
     *   – A 10 bis A 13
 
-    *   60,00
+    *   160,00
 
 
 *    *   123
 
     *   – A 14 und höher
 
-    *   80,00
+    *   192,00
 
 
 *    *   124
 
+    *   Nummer 19
+
+    *   Beamte der Besoldungsgruppen
+
+    *
+
+*    *   125
+
+    *   – A 3 bis A 5
+
+    *   20,00
+
+
+*    *   126
+
+    *   – A 6 bis A 9
+
+    *   40,00
+
+
+*    *   127
+
+    *   – A 10 bis A 13
+
+    *   60,00
+
+
+*    *   128
+
+    *   – A 14 und höher
+
+    *   80,00
+
+
+*    *   129
+
     *   Amtszulagen
 
 
-*    *   125
+*    *   130
 
     *   Besoldungs-
         gruppe
@@ -6246,7 +6335,7 @@ VI.2
     *
     *
 
-*    *   126
+*    *   131
 
     *   A 3
 
@@ -6256,7 +6345,7 @@ VI.2
     *   49,73
 
 
-*    *   127
+*    *   132
 
     *
     *   2
@@ -6265,7 +6354,7 @@ VI.2
     *   91,73
 
 
-*    *   128
+*    *   133
 
     *
     *   3
@@ -6274,7 +6363,7 @@ VI.2
     *   46,31
 
 
-*    *   129
+*    *   134
 
     *   A 4
 
@@ -6284,7 +6373,7 @@ VI.2
     *   49,73
 
 
-*    *   130
+*    *   135
 
     *
     *   2
@@ -6293,7 +6382,7 @@ VI.2
     *   91,73
 
 
-*    *   131
+*    *   136
 
     *
     *   4
@@ -6302,7 +6391,7 @@ VI.2
     *   9,99
 
 
-*    *   132
+*    *   137
 
     *   A 5
 
@@ -6312,7 +6401,7 @@ VI.2
     *   49,73
 
 
-*    *   133
+*    *   138
 
     *
     *   3
@@ -6321,7 +6410,7 @@ VI.2
     *   91,73
 
 
-*    *   134
+*    *   139
 
     *   A 6
 
@@ -6331,7 +6420,7 @@ VI.2
     *   49,73
 
 
-*    *   135
+*    *   140
 
     *   A 7
 
@@ -6341,7 +6430,7 @@ VI.2
     *   61,76
 
 
-*    *   136
+*    *   141
 
     *   A 8
 
@@ -6351,7 +6440,7 @@ VI.2
     *   79,56
 
 
-*    *   137
+*    *   142
 
     *   A 9
 
@@ -6361,7 +6450,7 @@ VI.2
     *   370,22
 
 
-*    *   138
+*    *   143
 
     *   A 13
 
@@ -6371,7 +6460,7 @@ VI.2
     *   376,24
 
 
-*    *   139
+*    *   144
 
     *
     *   7
@@ -6380,7 +6469,7 @@ VI.2
     *   171,97
 
 
-*    *   140
+*    *   145
 
     *   A 14
 
@@ -6390,7 +6479,7 @@ VI.2
     *   257,95
 
 
-*    *   141
+*    *   146
 
     *   A 15
 
@@ -6400,7 +6489,7 @@ VI.2
     *   343,91
 
 
-*    *   142
+*    *   147
 
     *
     *   8
@@ -6409,7 +6498,7 @@ VI.2
     *   257,95
 
 
-*    *   143
+*    *   148
 
     *   A 16
 
@@ -6419,7 +6508,7 @@ VI.2
     *   288,47
 
 
-*    *   144
+*    *   149
 
     *   B 10
 
@@ -6429,24 +6518,24 @@ VI.2
     *   596,09
 
 
-*    *   145
+*    *   150
 
     *   *Anlage III* **(Bundesbesoldungsordnung R)**
 
 
-*    *   146
+*    *   151
 
     *   Stellenzulage
 
 
-*    *   147
+*    *   152
 
     *   Vorbemerkung
 
     *
     *
 
-*    *   148
+*    *   153
 
     *   Nummer 2
 
@@ -6454,7 +6543,7 @@ VI.2
 
     *
 
-*    *   149
+*    *   154
 
     *
     *   – R 2 und R 3
@@ -6462,7 +6551,7 @@ VI.2
     *   400,00
 
 
-*    *   150
+*    *   155
 
     *
     *   – R 5 bis R 7
@@ -6470,7 +6559,7 @@ VI.2
     *   470,00
 
 
-*    *   151
+*    *   156
 
     *
     *   – R 8 und höher
@@ -6478,12 +6567,12 @@ VI.2
     *   540,00
 
 
-*    *   152
+*    *   157
 
     *   Amtszulagen
 
 
-*    *   153
+*    *   158
 
     *   Besoldungs-
         gruppe
@@ -6493,7 +6582,7 @@ VI.2
     *
     *
 
-*    *   154
+*    *   158
 
     *   R 2
 
@@ -6503,7 +6592,7 @@ VI.2
     *   285,20
 
 
-*    *   155
+*    *   160
 
     *   R 7
 
@@ -6513,7 +6602,7 @@ VI.2
     *   424,12
 
 
-*    *   156
+*    *   161
 
     *   R 8
 

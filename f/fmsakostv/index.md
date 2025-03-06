@@ -16,8 +16,16 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 1928
 
+Stand: Zukünftige amtl. Langüberschrift: Verordnung über die Erstattung und Umlage von Kosten im Zusammenhang mit der Finanzmarktstabilisierung (ab 1.1.2026; BGBl. 2025 I Nr. 69)
+Stand: Zukünftige amtl. Kurzüberschrift: FMS-Kostenverordnung (ab 1.1.2026; BGBl. 2025 I Nr. 69)
+Stand: Zukünftige amtl. Buchstabenankürzung: FMSKostV (ab 1.1.2026; BGBl. 2025 I Nr. 69)
 Zuletzt geändert durch
 :   Art. 4 Abs. 3 G v. 10.7.2020 I 1633
+
+Änderung durch
+:   Art. 6 G v. 28.2.2025 I Nr. 69 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+[^BJNR192810015]:     Nichtamtlicher Hinweis: Die Überschrift wurde gern. Art. 6 Nr. 1 G v. 28.2.2025 I Nr. 69 mWv 1.1.2026 wie folgt gefasst:  **Verordnung über die Erstattung und Umlage von Kosten im Zusammenhang mit der Finanzmarktstabilisierung**  **(FMS-Kostenverordnung - FMSKostV)**
 
 
 ## Abschnitt 1 - Kostenerstattung

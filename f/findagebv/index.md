@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 4077
 
 Zuletzt geändert durch
-:   Art. 20 G v. 27.12.2024 I Nr. 438
+:   Art. 12 G v. 28.2.2025 I Nr. 69
 
 
 ## Eingangsformel

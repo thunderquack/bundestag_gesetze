@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 22 G v. 10.8.2021 I 3436
 
+Änderung durch
+:   Art. 4 G v. 27.2.2025 I Nr. 70 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^F1_777603_BJNR172610012]:     Artikel 1 dieses Gesetzes dient der Umsetzung der Richtlinie 2009/31/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über die geologische Speicherung von Kohlendioxid und zur Änderung der Richtlinie 85/337/EWG des Rates sowie der Richtlinien 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG und 2008/1/EG des Europäischen Parlaments und des Rates sowie der Verordnung (EG) Nr. 1013/2006 (ABl. L 140 vom 5.6.2009, S. 114).
 
 
@@ -871,7 +874,7 @@ Vorsorge (Deckungsvorsorge) bis zum Zeitpunkt der Übertragung der Verantwortung
 
 Die zuständige Behörde kann bestimmen und zulassen, dass die Vorsorgemaßnahmen verbunden werden, soweit die Wirksamkeit und die Übersichtlichkeit der Deckungsvorsorge nicht beeinträchtigt werden. Der Betreiber ist verpflichtet, der Behörde die Deckungsvorsorge auf Verlangen, mindestens jedoch jährlich, nachzuweisen.
 
-(4) Für den Nachsorgebeitrag nach § 31 Absatz 2 Satz 1 sind im Rahmen der Deckungsvorsorge nach Absatz 1  3 Prozent des durchschnittlichen Wertes der Anzahl der Berechtigungen nach § 3 Absatz 4 Satz 1 des Treibhausgas-Emissionshandelsgesetzes, die der im Betriebsjahr gespeicherten Menge Kohlendioxid entspricht, jeweils zum Jahresende bei der zuständigen Behörde als Sicherheit in Geld zu leisten. Das geleistete Geld ist nach Maßgabe des § 1841 Absatz 2 und des § 1842 des Bürgerlichen Gesetzbuchs verzinslich anzulegen; die Zinsen werden zusätzlich zum Betrag nach Satz 1 Teil der Sicherheit. Das Geld steht für die Erfüllung der anderen in Absatz 1 genannten Pflichten und Ansprüche nachrangig zur Verfügung und ist vom Betreiber unverzüglich zu ersetzen, soweit es in Anspruch genommen wird.
+(4) Für den Nachsorgebeitrag nach § 31 Absatz 2 Satz 1 sind im Rahmen der Deckungsvorsorge nach Absatz 1  3 Prozent des durchschnittlichen Wertes der Anzahl der Berechtigungen nach § 3 Nummer 3 des Treibhausgas-Emissionshandelsgesetzes, die der im Betriebsjahr gespeicherten Menge Kohlendioxid entspricht, jeweils zum Jahresende bei der zuständigen Behörde als Sicherheit in Geld zu leisten. Das geleistete Geld ist nach Maßgabe des § 1841 Absatz 2 und des § 1842 des Bürgerlichen Gesetzbuchs verzinslich anzulegen; die Zinsen werden zusätzlich zum Betrag nach Satz 1 Teil der Sicherheit. Das Geld steht für die Erfüllung der anderen in Absatz 1 genannten Pflichten und Ansprüche nachrangig zur Verfügung und ist vom Betreiber unverzüglich zu ersetzen, soweit es in Anspruch genommen wird.
 
 
 ### § 31 Übertragung der Verantwortung

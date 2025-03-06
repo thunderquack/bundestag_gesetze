@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 266
 
-Geändert durch
-:   Art. 2 G v. 17.1.2024 I Nr. 13 mWv 23.1.2024
+Zuletzt geändert durch
+:   Art. 2 G v. 27.2.2025 I Nr. 71
 
 
 ## Abschnitt 1 - Allgemeines
@@ -183,7 +183,7 @@ Im Sinne dieses Gesetzes sind
 1.  Umsatz der Erhebungseinheit im Berichtsmonat insgesamt sowie im Handels- und Dienstleistungsbereich gegliedert nach Bundesländern,
 
 
-2.  Zahl der tätigen Personen der Erhebungseinheit am Ende des Berichtsmonats nach Art der Tätigkeit sowie im Berichtsmonat Januar zusätzlich gegliedert nach Bundesländern,
+2.  Zahl der tätigen Personen der Erhebungseinheit am Ende des Berichtsmonats nach Art der Tätigkeit gegliedert nach Bundesländern,
 
 
 3.  Bezeichnung und Wirtschaftszweignummer der wirtschaftlichen Tätigkeit der Erhebungseinheit gemäß der Klassifikation der Wirtschaftszweige. Erzielt eine Erhebungseinheit mit Handel und Dienstleistungen weniger als 50 Prozent ihres Umsatzes, werden die Angaben zu Satz 1 Nummer 3 zu der Tätigkeit erhoben, in der diese Einheit ihren wirtschaftlichen Schwerpunkt hat.

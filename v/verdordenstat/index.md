@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1955, 749
 
 Geändert durch
-:   Art. 6 Erlass v. 29. 1.1979 I 142
+:   Art. 6 Erlass v. 29.1.1979 I 142
 
 
 ## Art 1
