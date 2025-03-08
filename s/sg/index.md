@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 21.02.2025 I Nr. 55
 
+Änderung durch
+:   Art. 6 G v. 27.2.2025 I Nr. 72 mWv 6.3.2025 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Gemeinsame Vorschriften
 

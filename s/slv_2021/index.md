@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 17.12.2024 I Nr. 418
 
-Stand: Die V ist gem. Art. 3 Abs. 1 Satz 1 V v. 28.5.2021 I 1228 am 5.6.2021 in Kraft getreten
 Stand: Ersetzt V 51-1-27 v. 19.3.2002 I 1111 (SLV 2002)
 
 ## Kapitel 1 - Allgemeines

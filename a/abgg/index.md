@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 23.12.2024 I Nr. 450
 
-Stand: Das G ist gem. Art. X Satz 2 G v. 18.2.1977 I 297 nach Maßgabe seines § 46 in Kraft getreten
 
 ## Erster Abschnitt - Erwerb und Verlust der Mitgliedschaft im Bundestag
 

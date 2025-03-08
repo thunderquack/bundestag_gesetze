@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 22.12.2023 I Nr. 413
 
-Stand: Das G ist gem. Art. 5 Satz 1 G v. 26.6.2001 I 1254 mWv 29.6.2001 in Kraft getreten
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
 

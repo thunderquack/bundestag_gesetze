@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 1976, 3416
 
 Zuletzt geändert durch
-:   AnO v. 13. 9.1977 I 1870
+:   AnO v. 13.9.1977 I 1870
 
 
 ## Eingangsformel

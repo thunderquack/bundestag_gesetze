@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2003, 3
 
 Zuletzt geändert durch
-:   Art. 2 V v. 24.1.2024 I Nr. 21
+:   Art. 2 V v. 27.2.2025 I Nr. 73
 
 
 ## Eingangsformel
@@ -228,6 +228,25 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsver
 ## § 1f
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird nach § 19 Absatz 5 des Zahlungskontengesetzes ermächtigt, eine Rechtsverordnung nach Maßgabe des § 19 Absatz 1 und 3 des Zahlungskontengesetzes im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium der Justiz und dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz zu erlassen.
+
+
+## § 1g
+
+Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen auf Grundlage des Kryptomärkteaufsichtsgesetzes zu erlassen:
+
+1.  im Einvernehmen mit der Deutschen Bundesbank nach Maßgabe des § 21 Absatz 7 Satz 1,
+
+
+2.  im Einvernehmen mit der Deutschen Bundesbank nach Maßgabe des § 36 Absatz 2 Satz 1,
+
+
+3.  im Einvernehmen mit dem Bundesministerium der Justiz und der Deutschen Bundesbank nach Maßgabe des § 37 Absatz 6 Satz 1 und
+
+
+4.  im Einvernehmen mit dem Bundesministerium der Justiz und der Deutschen Bundesbank nach Maßgabe des § 40 Absatz 4 Satz 1, 2 und 3.
+
+
+
 
 
 ## § 2

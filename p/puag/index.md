@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 20.12.2024 I Nr. 440
 
-Stand: Das G ist gem. Art. 3 G v. 19.6.2001 I 1142 mWv 26.6.2001 in Kraft getreten
 
 ## § 1 Einsetzung
 

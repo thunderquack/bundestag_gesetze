@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 20.12.2023 I Nr. 392
 
+Änderung durch
+:   Art. 5 G v. 27.2.2025 I Nr. 72 mWv 6.3.2025 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Wehrpflicht
 

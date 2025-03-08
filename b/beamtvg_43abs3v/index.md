@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1977, 1011
 
 Zuletzt geändert durch
-:   Art. 65 G v. 21. 6.2005 I 1818
+:   Art. 65 G v. 21.6.2005 I 1818
 
 
 ## Eingangsformel

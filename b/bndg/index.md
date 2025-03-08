@@ -16,9 +16,8 @@ Fundstelle
 :   BGBl I: 1990, 2954, 2979
 
 Zuletzt geändert durch
-:   Art. 4 G v. 6.5.2024 I Nr. 149 mWv 14.5.2024
+:   Art. 4 G v. 6.5.2024 I Nr. 149
 
-Stand: Das G ist gem. Art. 6 Abs. 1 G v. 20.12.1990 I 2954 am 30.12.1990 in Kraft getreten
 
 ## Abschnitt 1 - Organisation, Aufgaben und allgemeine Befugnisse
 

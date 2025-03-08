@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2024, Nr. 181
 
-Geändert durch
-:   Art. 1 V v. 25.11.2024 I Nr. 366
+Zuletzt geändert durch
+:   Art. 2 V v. 5.3.2025 I Nr. 76
 
 Stand: Die V tritt gem. § 2 Satz 2 mWv 7.12.2024 außer Kraft, sofern nicht mit Zustimmung des Bundesrates etwas anderes verordnet wird; gem. § 2 idF d. Art. 1 V v. 25.11.2024 I Nr. 366 ist die Geltung dieser V über den 6.12.2024 hinaus verlängert worden
 
@@ -41,6 +41,11 @@ Auf Grund des § 11 Absatz 4 Satz 1 Nummer 1 des Tiergesundheitsgesetzes in der 
 
 
 (2) Absatz 1 gilt nur, solange kein immunologisches Tierarzneimittel gemäß Artikel 44, 47, 49 oder 52 der Verordnung (EU) 2019/6 zugelassen worden ist.
+
+
+## § 1a Vorläufige Fortgeltung der Gestattung nach § 1 Absatz 1
+
+Abweichend von § 1 Absatz 2 dürfen die in § 1 Absatz 1 genannten immunologischen Tierarzneimittel vorläufig weiter angewendet werden.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten

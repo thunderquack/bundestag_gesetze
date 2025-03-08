@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 1228
 
 Zuletzt geändert durch
-:   Art. 54 G v. 23.10.2024 I Nr. 323
-
-Änderung durch
-:   Art. 1 G v. 24.2.2025 I Nr. 59 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 24.2.2025 I Nr. 59
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

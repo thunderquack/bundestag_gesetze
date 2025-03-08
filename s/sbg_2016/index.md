@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 21.02.2025 I Nr. 55
 
-Stand: Das G ist gem. Art. 3 Abs. 1 G v. 29.8.2016 I 2065 am 2.9.2016 in Kraft getreten
 Stand: Ersetzt G 51-3 v. 16.1.1991 I 47 (SBG)
 
 ## Kapitel 1 - Allgemeine Vorschriften
