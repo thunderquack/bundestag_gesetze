@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 6 u. 7 G v. 18.12.2024 I Nr. 423
 
 Änderung durch
-:   Art. 14 G v. 27.2.2025 I Nr. 72 mWv 6.3.2025 noch nicht berücksichtigt
+:   Art. 14 G v. 27.2.2025 I Nr. 72 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt G 53-8 v. 29.6.2015 I 1061, 1062 (USG)
 
@@ -197,7 +197,7 @@ Reservistendienst Leistende erhalten für Dienstleistungen an einem Samstag, ein
 
 #### § 17 Zuschlag für besondere zeitliche Belastungen
 
-(1) Reservistendienst Leistende erhalten einen Zuschlag für jede Dienstleistung, für die Besoldungsempfängerinnen und Besoldungsempfängern unter gleichen Voraussetzungen und im gleichen Umfang nach den §§ 50 bis 50b des Bundesbesoldungsgesetzes und den dazu erlassenen Rechtsverordnungen eine Vergütung gewährt wird.
+(1) Reservistendienst Leistende erhalten einen Zuschlag für jede Dienstleistung, für die Besoldungsempfängerinnen und Besoldungsempfängern unter gleichen Voraussetzungen und im gleichen Umfang nach den §§ 50 bis 50b sowie 50d des Bundesbesoldungsgesetzes und den dazu erlassenen Rechtsverordnungen eine Vergütung gewährt wird.
 
 (2) Der Zuschlag beträgt 70 Prozent der Leistungen, die dienstgradgleichen Besoldungsempfängerinnen und Besoldungsempfängern gewährt werden.
 

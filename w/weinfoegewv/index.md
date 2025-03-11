@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 304
 
-Änderung durch
-:   Art. 1 V v. 18.10.2024 I Nr. 317 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 1 V v. 18.10.2024 I Nr. 317
 
 
 ## Abschnitt 1 - Allgemeines

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2024, Nr. 17
 
 Änderung durch
-:   Art. 8 G v. 27.2.2025 I Nr. 72 mWv 6.3.2025 noch nicht berücksichtigt
+:   Art. 8 G v. 27.2.2025 I Nr. 72 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: Ersetzt G 51-7 v. 27.12.2004 I 3822 (SGleiG)
 
@@ -397,7 +397,7 @@ Es sollen Angebote zur Betreuung von Kindern und pflegebedürftigen Angehörigen
 1.  sie zusätzlich anfallen,
 
 
-2.  sie unabdingbar sind und
+2.  sie unabwendbar sind und
 
 
 3.  eine Erstattung nach anderen Rechtsgrundlagen nicht möglich ist.
@@ -407,7 +407,7 @@ Es sollen Angebote zur Betreuung von Kindern und pflegebedürftigen Angehörigen
 
 (2) Die Erstattung ist für die Dauer folgender Maßnahmen möglich:
 
-1.  Teilnahme an dienstlich veranlassten Aus-, Fort- oder Weiterbildungen außerhalb des regelmäßigen Dienstorts,
+1.  Teilnahme an dienstlich veranlassten Aus-, Fort- oder Weiterbildungen,
 
 
 2.  sonstige dienstlich bedingte Abwesenheiten vom regelmäßigen Dienstort,

@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 20.12.2023 I Nr. 392
 
 Änderung durch
-:   Art. 5 G v. 27.2.2025 I Nr. 72 mWv 6.3.2025 noch nicht berücksichtigt
+:   Art. 5 G v. 27.2.2025 I Nr. 72 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Wehrpflicht
@@ -846,7 +846,7 @@ Diese Stellen dürfen die Daten zu dem Zweck, zu dem sie ihnen übermittelt word
 
 ### § 25 Personalakten ungedienter Wehrpflichtiger
 
-Für die Führung der Personalakten ungedienter Wehrpflichtiger gelten die §§ 29 bis 29e des Soldatengesetzes entsprechend.
+Für die Führung der Personalakten ungedienter Wehrpflichtiger gelten die §§ 29 bis 29f des Soldatengesetzes entsprechend.
 
 
 ### (XXXX) §§ 26 und 27 (weggefallen)
