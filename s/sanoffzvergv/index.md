@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2012, 1000
 
 Zuletzt geändert durch
-:   Art. 9 V v. 8.1.2020 I 27
+:   Art. 3 V v. 6.3.2025 I Nr. 78
 
 
 ## § 1 Anspruchsvoraussetzungen

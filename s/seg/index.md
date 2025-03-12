@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 3932, 3933
 
-Änderung durch
-:   Art. 1 G v. 18.12.2024 I Nr. 423 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 1 G v. 18.12.2024 I Nr. 423
 
 Stand: Das G tritt gem. Art. 90 Abs. 1 G v. 20.8.2021 I 3932 am 1.1.2025 in Kraft. Gem. Art. 90 Abs. 4 Satz 1 dieses G treten § 6 Abs. 5 u. § 18 Abs. 2 am 1.10.2021 in Kraft.
 

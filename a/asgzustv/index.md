@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1973, 1321
 
-Geändert durch
-:   Art. 77 G v. 23.12.2003 I 2848
+Zuletzt geändert durch
+:   Art. 6 V v. 6.3.2025 I Nr. 78
 
 
 ## Eingangsformel

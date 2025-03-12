@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2018, 891
 
 Zuletzt geändert durch
-:   Art. 11 V v. 8.1.2020 I 27
+:   Art. 4 V v. 6.3.2025 I Nr. 78
 
 
 ## § 1 Regelungsgegenstand

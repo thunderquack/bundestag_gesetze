@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 1982
 
 Zuletzt geändert durch
-:   Art. 2 G v. 30.7.2024 I Nr. 254
-
-Änderung durch
-:   Art. 5 G v. 28.2.2025 I Nr. 69 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 28.2.2025 I Nr. 69
 
 
 ## Abschnitt 1 - Finanzmarktstabilisierung

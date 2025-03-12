@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.10.2002 I 4144;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 2.12.2024 I Nr. 387
-
-Änderung durch
-:   Art. 3 G v. 28.2.2025 I Nr. 69 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 28.2.2025 I Nr. 69
 
 
 ## Erster Teil - Steuerpflicht

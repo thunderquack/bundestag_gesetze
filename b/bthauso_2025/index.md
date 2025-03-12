@@ -15,7 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2025, Nr. 77
 
-Stand: Ersetzt Hausordnung 1101-01-5 v. 27.4.2023 I Nr. 122 (BTHausO 2023)
+Stand: Ersetzt Hausordnung 1101-1-5 v. 27.4.2023 I Nr. 122 (BTHausO 2023)
 
 ## Eingangsformel
 

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2580
 
-Änderung durch
-:   Art. 1 V v. 6.3.2025 I Nr. 74 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 1 V v. 6.3.2025 I Nr. 74
 
 Stand: Ersetzt V 7402-1-1 v. 2.4.1962 I 206 (AHStatDV)
 

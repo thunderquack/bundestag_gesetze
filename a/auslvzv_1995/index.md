@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 8.4.2009 I 809
 
 Zuletzt geändert durch
-:   Art. 6 V v. 8.1.2020 I 27
+:   Art. 1 V v. 6.3.2025 I Nr. 78
 
 
 ## § 1 Anspruchsvoraussetzungen bei besonderen Verwendungen im Ausland
@@ -105,7 +105,7 @@ Als materielle Mehraufwendungen und immaterielle Belastungen im Verwendungsgebie
 
     *   Allgemeine, mit der besonderen Verwendung nach § 56 Absatz 1 des Bundesbesoldungsgesetzes typischerweise verbundene Mehraufwendungen und Belastungen
 
-    *   48 Euro
+    *   54 Euro
 
 
 *    *   2
@@ -133,7 +133,7 @@ Als materielle Mehraufwendungen und immaterielle Belastungen im Verwendungsgebie
 
 
 
-    *   69 Euro
+    *   77 Euro
 
 
 *    *   3
@@ -150,7 +150,7 @@ Als materielle Mehraufwendungen und immaterielle Belastungen im Verwendungsgebie
 
 
 
-    *   85 Euro
+    *   93 Euro
 
 
 *    *   4
@@ -159,7 +159,7 @@ Als materielle Mehraufwendungen und immaterielle Belastungen im Verwendungsgebie
 
     *   Hohe Belastungen, insbesondere durch bürgerkriegsähnliche Auseinandersetzungen, terroristische Handlungen, außerordentliche Gewaltkriminalität, Piraterie, Minen oder vergleichbare gesundheitliche Gefährdungen
 
-    *   103 Euro
+    *   111 Euro
 
 
 *    *   5
@@ -168,7 +168,7 @@ Als materielle Mehraufwendungen und immaterielle Belastungen im Verwendungsgebie
 
     *   Sehr hohe Belastungen, insbesondere durch Verwendung unter Bürgerkriegsbedingungen, durch organisierte bewaffnete Aktionen, Terrorakte oder bei vergleichbaren gesundheitlichen Gefährdungen
 
-    *   123 Euro
+    *   131 Euro
 
 
 *    *   6
@@ -185,7 +185,7 @@ Als materielle Mehraufwendungen und immaterielle Belastungen im Verwendungsgebie
 
 
 
-    *   145 Euro
+    *   153 Euro
 
 
 
