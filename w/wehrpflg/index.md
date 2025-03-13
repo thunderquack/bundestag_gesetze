@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.8.2011 I 1730;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 20.12.2023 I Nr. 392
-
-Änderung durch
-:   Art. 5 G v. 27.2.2025 I Nr. 72 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 27.2.2025 I Nr. 72
 
 
 ## Abschnitt 1 - Wehrpflicht

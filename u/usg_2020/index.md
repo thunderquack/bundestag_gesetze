@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2019, 1147, 1179
 
 Zuletzt geändert durch
-:   Art. 6 u. 7 G v. 18.12.2024 I Nr. 423
-
-Änderung durch
-:   Art. 14 G v. 27.2.2025 I Nr. 72 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 14 G v. 27.2.2025 I Nr. 72
 
 Stand: Ersetzt G 53-8 v. 29.6.2015 I 1061, 1062 (USG)
 

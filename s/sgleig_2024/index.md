@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2024, Nr. 17
 
-Änderung durch
-:   Art. 8 G v. 27.2.2025 I Nr. 72 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 8 G v. 27.2.2025 I Nr. 72
 
 Stand: Ersetzt G 51-7 v. 27.12.2004 I 3822 (SGleiG)
 

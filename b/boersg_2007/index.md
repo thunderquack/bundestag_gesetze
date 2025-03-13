@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 1330, 1351
 
 Zuletzt geändert durch
-:   Art. 11 G v. 11.12.2023 I Nr. 354
-
-Änderung durch
-:   Art. 10 G v. 27.12.2024 I Nr. 438 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 27.12.2024 I Nr. 438
 
 Dieses Gesetz dient der Umsetzung
 
