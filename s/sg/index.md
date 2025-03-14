@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 30.5.2005 I 1482;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 21.02.2025 I Nr. 55
-
-Änderung durch
-:   Art. 6 G v. 27.2.2025 I Nr. 72 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 27.2.2025 I Nr. 72
 
 
 ## Erster Abschnitt - Gemeinsame Vorschriften

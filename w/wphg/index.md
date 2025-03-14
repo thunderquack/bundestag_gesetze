@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2708;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 27.12.2024 I Nr. 438
-
-Änderung durch
-:   Art. 2 G v. 28.2.2025 I Nr. 69 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 28.2.2025 I Nr. 69
 
 Art. 1 dient auch der Umsetzung der Richtlinie 88/627/EWG des Rates der Europäischen Gemeinschaften vom 12. Dezember 1988 über die bei Erwerb oder Veräußerung einer bedeutenden Beteiligung an einer börsennotierten Gesellschaft zu veröffentlichenden Informationen (ABl. EG Nr. L 348/62) und der Richtlinie 89/592/EWG des Rates der Europäischen Gemeinschaften vom 13. November 1989 zur Koordinierung der Vorschriften betreffend Insidergeschäfte (ABl. EG Nr. L 334/30).
 

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1751
 
-Änderung durch
-:   Art. 1 G v. 27.2.2025 I Nr. 71 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 1 G v. 27.2.2025 I Nr. 71
 
 Stand: Ersetzt G 7402-1 v. 1.5.1957 I 413 (AHStatGes)
 

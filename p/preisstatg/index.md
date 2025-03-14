@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1958, 605
 
 Zuletzt geändert durch
-:   Art. 3 G v. 17.1.2024 I Nr. 13
-
-Änderung durch
-:   Art. 4 G v. 27.2.2025 I Nr. 71 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 27.2.2025 I Nr. 71
 
 
 ## § 1

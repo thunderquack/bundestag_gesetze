@@ -19,13 +19,10 @@ Neugefasst durch
 :   Bek. v. 1.2.1991 I 230;
 
 Zuletzt geändert durch
-:   Art. 35 G v. 2.12.2024 I Nr. 387
-
-Änderung durch
-:   Art. 36 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 36 G v. 2.12.2024 I Nr. 387
 
 Mittelbare änderung durch
-:   Art. 53 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 53 G v. 2.12.2024 I Nr. 387 ist berücksichtigt
 
 
 ## Erster Teil - Allgemeine Bewertungsvorschriften
