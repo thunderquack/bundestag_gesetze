@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 195
 
+V aufgeh. durch
+:   § 19 Satz 2 V 806-22-1-161 v. 26.2.2025 I Nr. 81 mWv 1.8.2025
+
 Geändert durch
 :   Art. 9 G v. 24.6.2022 I 959
+
+Ersetzt durch
+:   V 806-22-1-161 v. 26.2.2025 I Nr. 81 (JFAngAusbV 2025)
 
 
 

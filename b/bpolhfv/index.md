@@ -16,8 +16,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2014, 586
 
+Stand: Zukünftige amtl. Langüberschrift: Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei und beim Deutschen Bundestag (ab 1.11.2025; 2025 I Nr. 80)
 Zuletzt geändert durch
 :   Art. 65 V v. 19.6.2020 I 1328
+
+Änderung durch
+:   Art. 1 V v. 11.3.2025 I Nr. 80 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+[^f014610_01_BJNR058600014]:     Nichtamtlicher Hinweis: Die Überschrift wurde gem. Art. 1 Nr. 1 V v. 11.3.2025 I Nr. 80 mWv 1.11.2025 wie folgt gefasst:  **Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei und beim Deutschen Bundestag**
 
 
 ## Eingangsformel
