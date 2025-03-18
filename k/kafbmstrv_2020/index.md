@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2019, 2836
 
 Geändert durch
-:   Art. 2 Abs. 89 V v. 18.1.2022 I 39
-
-Änderung durch
-:   Art. 1 V v. 11.3.2025 I Nr. 79 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 11.3.2025 I Nr. 79
 
 Stand: Ersetzt V 7110-3-153 v. 8.5.2003 I 668 (KaFbMstrV 2003)
 
