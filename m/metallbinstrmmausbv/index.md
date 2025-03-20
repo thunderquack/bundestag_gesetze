@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 1010
 
 Geändert durch
-:   Art. 1 V v. 26. 5.1999 I 1099
+:   Art. 1 V v. 26.5.1999 I 1099
 
 
 ## Eingangsformel

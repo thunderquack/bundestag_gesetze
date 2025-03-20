@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1269
 
 Geändert durch
-:   Art. 2 V v. 1. 8.2005 I 2287
+:   Art. 2 V v. 1.8.2005 I 2287
 
 
 ## Eingangsformel

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1982, 617
 
 Zuletzt geändert durch
-:   Art. 4 V v. 24. 6.1986 I 933
+:   Art. 4 V v. 24.6.1986 I 933
 
 
 ## Eingangsformel

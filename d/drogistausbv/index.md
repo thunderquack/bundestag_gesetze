@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 1197
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 6 G v. 5. 7.2017 I 2234
+:   Art. 2 Abs. 6 G v. 5.7.2017 I 2234
 
 
 ## Eingangsformel

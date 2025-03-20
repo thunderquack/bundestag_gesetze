@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1963, 9
 
 Zuletzt geändert durch
-:   Art. 17 G v. 22. 5.2005 I 1373
+:   Art. 17 G v. 22.5.2005 I 1373
 
 
 ## Art I

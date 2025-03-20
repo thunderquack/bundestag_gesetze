@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 571
 
 Geändert durch
-:   Art. 3 V v. 9. 5.2005 I 1292
+:   Art. 3 V v. 9.5.2005 I 1292
 
 
 ## Eingangsformel

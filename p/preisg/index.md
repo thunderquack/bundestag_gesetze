@@ -16,7 +16,7 @@ Fundstelle
 :   WiGBl: 1948, 27
 
 Geändert durch
-:   Art. 22 G v. 18. 2.1986 I 265
+:   Art. 22 G v. 18.2.1986 I 265
 
 
 ## Eingangsformel

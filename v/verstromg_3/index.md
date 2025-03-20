@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1974, 3473
 
 Neugefasst durch
-:   Bek. v. 19. 4.1990 I 917;
+:   Bek. v. 19.4.1990 I 917
 
 Zuletzt geändert durch
 :   Art. 322 V v. 31.8.2015 I 1474

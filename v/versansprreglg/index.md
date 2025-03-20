@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1955, 474
 
 Neugefasst durch
-:   Bek. v. 3. 7.1964 I 433, 806;
+:   Bek. v. 3.7.1964 I 433, 806
 
 Zuletzt geändert durch
 :   Art. 2 Nr. 20 G v. 20.12.1991 I 2317

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1963, 491
 
 Zuletzt geändert durch
-:   Art. 14 G v. 6. 6.1994 I 1170
+:   Art. 14 G v. 6.6.1994 I 1170
 
 
 ## Eingangsformel

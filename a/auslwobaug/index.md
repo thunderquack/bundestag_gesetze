@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1986, 280
 
 Zuletzt geändert durch
-:   Art. 11 Nr. 19 G v. 30. 7.2004 I 1950
+:   Art. 11 Nr. 19 G v. 30.7.2004 I 1950
 
 
 ## Eingangsformel

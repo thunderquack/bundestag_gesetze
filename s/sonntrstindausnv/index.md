@@ -17,10 +17,10 @@ Fundstelle
 :   BGBl I: 1961, 900
 
 Neugefasst durch
-:   Bek. v. 31. 7.1968 I 885;
+:   Bek. v. 31.7.1968 I 885
 
 Zuletzt geändert durch
-:   Art. 13 G v. 6. 6.1994 I 1170
+:   Art. 13 G v. 6.6.1994 I 1170
 
 
 ## § 1

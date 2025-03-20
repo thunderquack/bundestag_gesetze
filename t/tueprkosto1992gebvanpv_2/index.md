@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2003, 2105
 
 Geändert durch
-:   Art. 26 G v. 6. 1.2004 I 2
+:   Art. 26 G v. 6.1.2004 I 2
 
 
 ## Eingangsformel

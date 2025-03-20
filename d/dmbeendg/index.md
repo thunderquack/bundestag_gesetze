@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1999, 2402
 
 Geändert durch
-:   Art. 7 G v. 14. 9.2005 I 2746
+:   Art. 7 G v. 14.9.2005 I 2746
 
 
 ## § 1

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1961, 58
 
 Neugefasst durch
-:   Bek. v. 1. 6.1976 I 1334,
+:   Bek. v. 1.6.1976 I 1334
 
 Zuletzt geändert durch
 :   Art. 12 V v. 11.12.2024 I Nr. 411

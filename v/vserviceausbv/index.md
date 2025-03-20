@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1997, 1583
 
 Geändert durch
-:   Art. 1 V v. 20. 7.2004 I 1716
+:   Art. 1 V v. 20.7.2004 I 1716
 
 
 ## Eingangsformel
