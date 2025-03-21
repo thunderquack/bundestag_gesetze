@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 1311
 
 Neugefasst durch
-:   Bek. v. 1. 7.1997 I 1620;
+:   Bek. v. 1.7.1997 I 1620;
 
 Zuletzt geändert durch
 :   Art. 13 G v. 12.12.2019 I 2652

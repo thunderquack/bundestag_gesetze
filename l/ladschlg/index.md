@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1956, 875
 
 Neugefasst durch
-:   Bek. v. 2. 6.2003 I 744;
+:   Bek. v. 2.6.2003 I 744;
 
 Zuletzt geändert durch
 :   Art. 430 V v. 31.8.2015 I 1474

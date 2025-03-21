@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1977, 274
 
 Neugefasst durch
-:   Bek v. 29.5.1992 I 1001;
+:   Bek. v. 29.5.1992 I 1001;
 
 Zuletzt geändert durch
 :   Art. 4 G v. 3.7.2024 I Nr. 225

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 585
 
 Neugefasst durch
-:   Bek. v. 4. 3.1994 I 406;
+:   Bek. v. 4.3.1994 I 406;
 
 Zuletzt geändert durch
 :   Art. 51 G v. 2.12.2024 I Nr. 387

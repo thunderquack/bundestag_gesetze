@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1972, 2097
 
 Neugefasst durch
-:   Bek. v. 15.2.1991 I 454
+:   Bek. v. 15.2.1991 I 454;
 
 Zuletzt geändert durch
 :   Art. 11 G v. 25.3.2019 I 357

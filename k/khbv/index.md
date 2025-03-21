@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.3.1987 I 1045;
 
 Zuletzt geändert durch
-:   Art. 25 Abs. 2 G v. 7.8.2021
+:   Art. 25 Abs. 2 G v. 7.8.2021 I 3311
 
 
 ## § 1 Anwendungsbereich

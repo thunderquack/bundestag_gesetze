@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1966, 187
 
 Geändert durch
-:   Art. 4 Abs. 13 G v. 5. 5.2004 I 718
+:   Art. 4 Abs. 13 G v. 5.5.2004 I 718
 
 
 ## Eingangsformel

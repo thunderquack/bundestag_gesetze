@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2015, 2274, 2280
 
 Zuletzt geändert durch
-:   Art. 4 G v. 7.8.2021
+:   Art. 4 G v. 7.8.2021 I 3311
 
 
 ## § 1 Erhebungsmerkmale für die Gleichstellungsstatistik

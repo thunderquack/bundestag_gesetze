@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1951, 269
 
 Zuletzt geändert durch
-:   Art. 7 G v. 30. 7.2004 I 1950
+:   Art. 7 G v. 30.7.2004 I 1950
 
 
 ## Kapitel I - Allgemeine Vorschriften

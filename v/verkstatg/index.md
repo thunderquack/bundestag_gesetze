@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1999, 2452
 
 Neugefasst durch
-:   Bek. v. 20.2.2004 I 318
+:   Bek. v. 20.2.2004 I 318;
 
 Zuletzt geändert durch
 :   Art. 1 G v. 16.8.2023 I Nr. 218

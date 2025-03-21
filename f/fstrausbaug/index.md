@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1971, 873
 
 Neugefasst durch
-:   Bek. v. 20.1.2005 I 201
+:   Bek. v. 20.1.2005 I 201;
 
 Zuletzt geändert durch
 :   Art. 2 G v. 22.12.2023 I Nr. 409

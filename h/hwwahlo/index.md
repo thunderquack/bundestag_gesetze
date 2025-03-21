@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1953, 1411, 1432
 
 Neugefasst durch
-:   Bek. v. 24.9.1998 I 3074
+:   Bek. v. 24.9.1998 I 3074;
 
 Zuletzt geändert durch
 :   Art. 35b G v. 24.12.2003 I 2954

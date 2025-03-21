@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1986, 2457
 
 Zuletzt geändert durch
-:   Art. 48 G v. 20.12.1988
+:   Art. 48 G v. 20.12.1988 I 2355
 
 
 ## Eingangsformel

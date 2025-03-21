@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1955, 498
 
 Neugefasst durch
-:   Bek. v. 2. 6.1993 I 838;
+:   Bek. v. 2.6.1993 I 838;
 
 Zuletzt geändert durch
 :   Art. 9 G v. 12.12.2019 I 2652

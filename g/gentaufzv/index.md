@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 2338
 
 Neugefasst durch
-:   Bek v. 4.11.1996 I 1644;
+:   Bek. v. 4.11.1996 I 1644;
 
 Zuletzt geändert durch
 :   Art. 3 V v. 28.4.2008 I 766

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 420
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 11 G v. 22. 9.2005 I 2809
+:   Art. 4 Abs. 11 G v. 22.9.2005 I 2809
 
 
 ## Eingangsformel

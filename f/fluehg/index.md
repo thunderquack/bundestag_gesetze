@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1965, 612
 
 Neugefasst durch
-:   Bek. v. 15. 5.1971 I 681;
+:   Bek. v. 15.5.1971 I 681;
 
 Zuletzt geändert durch
-:   Art. 6a G v. 21. 7.2004 I 1742
+:   Art. 6a G v. 21.7.2004 I 1742
 
 
 ## Abschnitt I - Allgemeine Bestimmungen

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1984, 880
 
 Neugefasst durch
-:   Bek. v. 19. 3.1993 I 406
+:   Bek. v. 19.3.1993 I 406
 
 Zuletzt geändert durch
 :   Art. 3 Abs. 1 G v. 22.11.2020 I 2466

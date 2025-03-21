@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2015, 2274
 
 Geändert durch
-:   Art. 3 G v. 7.8.2021
+:   Art. 3 G v. 7.8.2021 I 3311
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
