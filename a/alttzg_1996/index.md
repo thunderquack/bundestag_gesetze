@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1996, 1078
 
 Zuletzt geändert durch
-:   Art. 12 Abs. 16 G v. 16.12.2022
+:   Art. 12 Abs. 16 G v. 16.12.2022 I 2328
 
 
 ## § 1 Grundsatz

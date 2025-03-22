@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1992, 1174
 
 Neugefasst durch
-:   Bek. v. 19. 8.1998 I 2366;
+:   Bek. v. 19.8.1998 I 2366;
 
 Geändert durch
 :   Art. 8 G v. 19.6.2006 I 1305

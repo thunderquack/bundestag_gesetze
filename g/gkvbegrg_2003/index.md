@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 4637, 4640
 
 Geändert durch
-:   Art. 1c G v. 12. 6.2003 I 844
+:   Art. 1c G v. 12.6.2003 I 844
 
 
 ## (XXXX)

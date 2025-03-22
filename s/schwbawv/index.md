@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1981, 431
 
 Neugefasst durch
-:   Bek. vom 25.7.1991 I 1739;
+:   Bek. v. 25.7.1991 I 1739;
 
 Zuletzt geändert durch
 :   Art. 52 G v. 20.8.2021 I 3932

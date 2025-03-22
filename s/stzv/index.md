@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2005, 3157
 
 Zuletzt geändert durch
-:   Art. 7 G v. 20.8.2021 I 3932
+:   Art. 1 V v. 17.3.2025 I Nr. 89
 
 
 
@@ -126,7 +126,7 @@ einer Teilzeitbeschäftigung.
 
 ## § 5 Ausgestaltung der Teilzeitbeschäftigung
 
-(1) Die Teilzeitbeschäftigung kann auf bis zu vier Zeitabschnitte verteilt werden.
+(1) Die Teilzeitbeschäftigung kann auf bis zu vier, zur Vermeidung unbilliger Härten auch auf mehr Zeitabschnitte verteilt werden.
 
 (2) Die Ausgestaltung der Teilzeitbeschäftigung kann nach flexiblen Arbeitszeitmodellen, insbesondere Blockzeitbildung, bewilligt werden, soweit wichtige dienstliche Gründe nicht entgegenstehen.
 

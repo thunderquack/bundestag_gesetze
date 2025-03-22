@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1972, 1393
 
 Neugefasst durch
-:   Bek. v. 3. 2.1995 I 158;
+:   Bek. v. 3.2.1995 I 158;
 
 Zuletzt geändert durch
 :   Art. 55 G v. 23.10.2024 I Nr. 323

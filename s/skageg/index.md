@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1957, 1883
 
 Zuletzt geändert durch
-:   Art. 15 G v. 29. 4.1997 I 968
+:   Art. 15 G v. 29.4.1997 I 968
 
 
 ## Erster Abschnitt - Einführung der Selbstverwaltung

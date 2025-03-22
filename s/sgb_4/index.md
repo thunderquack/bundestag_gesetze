@@ -20,13 +20,7 @@ Neugefasst durch
 :   Bek. v. 12.11.2009 I 3710, 3973; 2011 I 363;
 
 Zuletzt geändert durch
-:   Art. 9 G v. 18.12.2024 I Nr. 423
-
-Mittelbare änderung durch
-:   Art. 15 Nr. 2 G v. 18.12.2024 I Nr. 423 ist berücksichtigt
-
-Änderung durch
-:   Art. 6a G v. 25.2.2025 I Nr. 63 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6a G v. 25.2.2025 I Nr. 63
 
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen

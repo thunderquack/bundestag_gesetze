@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1961, 453
 
 Neugefasst durch
-:   Bek. v. 20. 4.1970 I 410;
+:   Bek. v. 20.4.1970 I 410;
 
 Geändert durch
 :   Art. 16 G v. 13.12.2007 I 2904
