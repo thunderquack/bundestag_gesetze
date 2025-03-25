@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1717
 
-Geändert durch
-:   Art. 1 V v. 21.9.2021 I 4312
+Zuletzt geändert durch
+:   Art. 1 V v. 19.3.2025 I Nr. 90
 
 
 ## Eingangsformel

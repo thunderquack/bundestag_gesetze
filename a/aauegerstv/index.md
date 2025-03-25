@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 1992, 999
 
 Zuletzt geändert durch
-:   Art. 57 Abs. 15 G v. 12.12.2019 I 2652
-
-Änderung durch
-:   Art. 1 V v. 26.2.2025 I Nr. 65 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 26.2.2025 I Nr. 65
 
 
 ## Eingangsformel
