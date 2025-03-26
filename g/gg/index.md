@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl: 1949, 1
 
 Zuletzt geändert durch
-:   Art. 1 G v. 20.12.2024 I Nr. 439
-
-Änderung durch
-:   Art. 1 G v. 22.3.2025 I Nr. 94 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 22.3.2025 I Nr. 94
 
 
 ## Eingangsformel

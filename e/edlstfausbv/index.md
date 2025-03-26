@@ -15,6 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 782
 
+V aufgeh. durch
+:   Art. 3 Satz 2 Nr. 3 V v. 20.3.2025 I Nr. 93 mWv 1.8.2025
+
+Ersetzt durch
+:   V 806-22-1-163 v. 20.3.2025 I Nr. 93 (EdlStFAusbV 2025)
+
 
 
 ## Eingangsformel
