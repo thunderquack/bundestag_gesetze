@@ -19,16 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2776
 
 Zuletzt geändert durch
-:   Art. 3 G v. 27.12.2024 I Nr. 438
-
-Änderung durch
-:   Art. 7 G v. 28.2.2025 I Nr. 69 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 G v. 28.2.2025 I Nr. 69 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 9 G v. 28.2.2025 I Nr. 69 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 28.2.2025 I Nr. 69
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften

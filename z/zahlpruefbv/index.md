@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 3648
 
 Zuletzt geändert durch
-:   Art. 25 G v. 11.12.2023 I Nr. 354
-
-Änderung durch
-:   Art. 10 G v. 28.2.2025 I Nr. 69 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 28.2.2025 I Nr. 69
 
 
 ## Eingangsformel
