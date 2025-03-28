@@ -20,7 +20,7 @@ V aufgeh. durch
 :   § 4 Abs. 2 dieser V idF d. Art. 1 Nr. 2 V v. 22.11.2024 I Nr. 362 mit Ablauf des 4.3.2026
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.11.2024 I Nr. 362
+:   Art. 1 V v. 21.3.2025 I Nr. 95
 
 
 ## Eingangsformel
@@ -48,7 +48,7 @@ c)  sich am 24. Februar 2022 auf der Grundlage eines nach ukrainischem Recht ert
 
 
 
-(2) Ukrainische Staatsangehörige, die am 24. Februar 2022 einen Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Ukraine hatten, aber die sich zu diesem Zeitpunkt vorübergehend nicht in der Ukraine aufgehalten haben, und die bis zum 31. Dezember 2024 in das Bundesgebiet eingereist sind, ohne den für einen langfristigen Aufenthalt im Bundesgebiet erforderlichen Aufenthaltstitel zu besitzen, sind für einen Zeitraum von 90 Tagen ab dem Zeitpunkt der erstmaligen Einreise in das Bundesgebiet vom Erfordernis eines Aufenthaltstitels befreit. Dies gilt auch für in der Ukraine anerkannte Flüchtlinge im Sinne des Abkommens vom 28. Juli 1951 über die Rechtsstellung der Flüchtlinge (BGBl. 1953 II S. 559, 560) und Personen, die in der Ukraine internationalen oder gleichwertigen nationalen Schutz genießen.
+(2) Ukrainische Staatsangehörige, die am 24. Februar 2022 einen Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Ukraine hatten, aber die sich zu diesem Zeitpunkt vorübergehend nicht in der Ukraine aufgehalten haben, und die bis zum 4. Dezember 2025 in das Bundesgebiet eingereist sind, ohne den für einen langfristigen Aufenthalt im Bundesgebiet erforderlichen Aufenthaltstitel zu besitzen, sind für einen Zeitraum von 90 Tagen ab dem Zeitpunkt der erstmaligen Einreise in das Bundesgebiet vom Erfordernis eines Aufenthaltstitels befreit. Dies gilt auch für in der Ukraine anerkannte Flüchtlinge im Sinne des Abkommens vom 28. Juli 1951 über die Rechtsstellung der Flüchtlinge (BGBl. 1953 II S. 559, 560) und Personen, die in der Ukraine internationalen oder gleichwertigen nationalen Schutz genießen.
 
 (3) Die Befreiung nach den Absätzen 1 und 2 gilt nur, solange keine ablehnende Entscheidung zur Erteilung eines Aufenthaltstitels getroffen wurde.
 
