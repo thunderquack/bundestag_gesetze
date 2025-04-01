@@ -187,7 +187,7 @@ Arbeitszeit ist insbesondere nicht:
 
 Die Verkürzung beginnt mit Beginn des Monats der Antragstellung, sofern die Voraussetzungen vorliegen. Sie endet mit Ablauf des Monats, in dem die Voraussetzungen nicht mehr vorliegen. § 116 Absatz 1 des Neunten Buches Sozialgesetzbuch ist anwendbar. Die Soldatinnen und Soldaten sind verpflichtet, jede Änderung unverzüglich anzuzeigen und auf Verlangen entsprechende Nachweise zu erbringen. Bei Teilzeitbeschäftigung wird die regelmäßige wöchentliche Arbeitszeit entsprechend dem Umfang der bewilligten Teilzeitbeschäftigung verkürzt.
 
-(2) Bei Vollzeitbeschäftigung sowie bei Teilzeitbeschäftigung mit einer Verkürzung der Arbeitszeit um weniger als 10 Prozent wird die regelmäßige wöchentliche Arbeitszeit in der Regel auf Montag bis Freitag verteilt. Aus dienstlichen Gründen kann die regelmäßige wöchentliche Arbeitszeit auf Montag bis Samstag verteilt werden.
+(2) Bei Vollzeitbeschäftigung sowie bei Teilzeitbeschäftigung wird die regelmäßige wöchentliche Arbeitszeit in der Regel auf Montag bis Freitag verteilt. Aus dienstlichen Gründen kann hiervon abgewichen werden. Eine individuelle Verteilung der regelmäßigen wöchentlichen Arbeitszeit auf Montag bis Freitag kann auf Antrag genehmigt werden, soweit dienstliche Gründe nicht entgegenstehen.
 
 (3) Die regelmäßige wöchentliche Arbeitszeit verkürzt sich für jeden für den jeweiligen Dienstort geltenden gesetzlichen Feiertag sowie für Heiligabend und Silvester um die auf diese Tage entfallende Arbeitszeit. Im selben Umfang wird die Arbeitszeit für Soldatinnen und Soldaten verkürzt, die im Schichtdienst eingesetzt sind. Bei der Verkürzung bleibt unberücksichtigt, ob und wie lange die Soldatin oder der Soldat an diesen Tagen tatsächlich hätte Dienst leisten müssen.
 
@@ -219,7 +219,7 @@ Die Verkürzung beginnt mit Beginn des Monats der Antragstellung, sofern die Vor
 
 Wenn nicht voraussehbare und vom Dienstherrn nicht zu vertretende Umstände es erfordern, darf die Höchstgrenze von zusammenhängend 168 Stunden ausnahmsweise um bis zu zwölf Stunden überschritten werden.
 
-(3) Das Kommando Luftwaffe und das Marinekommando übermitteln dem Bundesministerium der Verteidigung im Januar und Juli eines jeden Jahres eine Liste der Soldatinnen und Soldaten, die im Berichtszeitraum die in Absatz 1 Satz 1 genannten Tätigkeiten ausgeübt haben. Berichtszeitraum ist jeweils das vorangegangene Halbjahr. Zu jeder Soldatin und zu jedem Soldaten sind anzugeben:
+(3) Das Kommando Luftwaffe und das Marinekommando übermitteln dem Bundesministerium der Verteidigung im Januar und Juli eines jeden Jahres eine Liste der Soldatinnen und Soldaten, die im Berichtszeitraum die in Absatz 1 Satz 1 genannten Tätigkeiten ausgeübt haben und deren höchstzulässige durchschnittliche wöchentliche Arbeitszeit mehr als 48 Stunden betragen hat. Berichtszeitraum ist jeweils das vorangegangene Halbjahr. Zu jeder Soldatin und zu jedem Soldaten sind anzugeben:
 
 1.  die Zeiträume, in denen eine höchstzulässige durchschnittliche wöchentliche Arbeitszeit mehr als 48 Stunden betragen hat,
 
@@ -243,27 +243,44 @@ Wenn nicht voraussehbare und vom Dienstherrn nicht zu vertretende Umstände es e
 
 ### § 6 Regelmäßige tägliche Arbeitszeit
 
-(1) Die regelmäßige tägliche Arbeitszeit sowie deren Beginn und Ende sind festzulegen. Die regelmäßige tägliche Arbeitszeit darf 13 Stunden einschließlich der Pausen nicht überschreiten. Von Satz 2 kann abgewichen werden, wenn dienstliche Gründe dies erfordern, insbesondere in folgenden Bereichen:
+(1) Die regelmäßige tägliche Arbeitszeit sowie deren Beginn und Ende sind festzulegen. Die regelmäßige tägliche Arbeitszeit darf 13 Stunden einschließlich der Pausen nicht überschreiten. Von Satz 2 kann abgewichen werden, wenn dienstliche Gründe dies erfordern, bei:
 
-1.  allgemeine Grundausbildung,
-
-
-2.  Dienstposten-, Laufbahn- und Einsatzausbildung,
+1.  Wach-, Sonder-, Ordnungs- und Feldjägerdiensten einschließlich Personenschutzdiensten,
 
 
-3.  Dauereinsatzaufgaben,
+2.  außergewöhnlichen Ereignissen sowie im Zusammenhang mit Unfällen, die zu einem übermäßigen, nicht vorhersehbaren Arbeitsanfall führen,
 
 
-4.  Wach-, Sonder- und Ordnungsdienste,
+3.  Tätigkeiten, in denen die Kontinuität des Dienstes gewährleistet sein muss, insbesondere in folgenden Bereichen:
+
+    a)  Grund- und Basisausbildung,
 
 
-5.  Dienst in kurativen Sanitätseinrichtungen,
+    b)  Dienstposten- und Laufbahnausbildung,
 
 
-6.  eintägige Seefahrten seegehender Einheiten der Marine und
+    c)  eintägige Ausbildungs- und Übungsvorhaben im Rahmen der Einsatzausbildung,
 
 
-7.  Durchführung von Langstreckenflügen durch Luftfahrzeugbesatzungen.
+    d)  militärische Flugsicherung,
+
+
+    e)  Pflege- oder Behandlungsdienste in kurativen Sanitätseinrichtungen und im Rahmen von Rettungsdiensten,
+
+
+    f)  Betrieb von Flughäfen oder Häfen, einschließlich Brandabwehr,
+
+
+    g)  eintägige Seefahrten seegehender Einheiten der Marine,
+
+
+    h)  Durchführung von Langstreckenflügen durch Luftfahrzeugbesatzungen und
+
+
+    i)  Vorbereitung und Durchführung von Veranstaltungen mit erheblichem Öffentlichkeitsinteresse.
+
+
+
 
 
 
@@ -463,7 +480,7 @@ Vor einer Versetzung ist das Gleitzeitkonto grundsätzlich auszugleichen.
 
 
 
-(2) Die Generalinspekteurin und der Generalinspekteur der Bundeswehr sowie die Inspekteurinnen und Inspekteure der militärischen Organisationsbereiche können für ihren jeweiligen Verantwortungsbereich einzelne weitere Dienstposten von der Anwendung der in Absatz 1 bezeichneten Vorschriften dieses Abschnitts ausnehmen, wenn die Dienstposten mit Soldatinnen oder Soldaten von der Besoldungsgruppe B 6 an aufwärts besetzt sind. Die Entscheidung ist zu begründen und aktenkundig zu machen; sie kann nicht delegiert werden.
+(2) Die Generalinspekteurin und der Generalinspekteur der Bundeswehr sowie die Inspekteurinnen und Inspekteure der Teilstreitkräfte und die Befehlshaberinnen und Befehlshaber des Operativen Führungskommandos der Bundeswehr, des Unterstützungskommandos der Bundeswehr und des Zentralen Sanitätsdienstes der Bundeswehr können für ihren jeweiligen Verantwortungsbereich einzelne weitere Dienstposten von der Anwendung der in Absatz 1 bezeichneten Vorschriften dieses Abschnitts ausnehmen, wenn die Dienstposten mit Soldatinnen oder Soldaten von der Besoldungsgruppe B 6 an aufwärts besetzt sind. Die Entscheidung ist zu begründen und aktenkundig zu machen; sie kann nicht delegiert werden.
 
 (3) Die Pflicht der Vorgesetzten der in Absatz 1 genannten Soldatinnen und Soldaten, für die Sicherheit und Gesundheit ihrer Untergebenen zu sorgen, bleibt unberührt.
 
@@ -540,301 +557,632 @@ Die Vorgesetzten sollen unter Berücksichtigung der militärischen Lage die beso
 
 ### Anlage (zu § 1 Absatz 2)
 
-(Fundstelle: BGBl. I 2022, 1537 - 1538)
+(Fundstelle: BGBl. 2025 Nr. 78, S. 4 - 6)
 
 
 *    *   Nr.
 
     *   Internationale oder supranationale militärische Stelle
 
-    *   Staat
+    *   Staat (Kurzform)
 
 
 *    *   1
+
+    *   4th Psychological Operation (Airborne)
+
+    *   Vereinigte Staaten
+
+
+*    *   2
+
+    *   Air Operations Coordination Centre Headquarters NATO Rapid Deployable Corps
+
+    *   Türkei
+
+
+*    *   3
 
     *   Air Operations Coordination Centre Multi National Corps Northeast
 
     *   Polen
 
 
-*    *   2
+*    *   4
 
     *   BALTIC Defense College
 
     *   Estland
 
 
-*    *   3
+*    *   5
+
+    *   BICES Group Executive
+
+    *   Belgien
+
+
+*    *   6
+
+    *   Canadian Forces College
+
+    *   Kanada
+
+
+*    *   7
 
     *   Centre de Formation à l´Appui Aérien Nancy-Ochey
 
     *   Frankreich
 
 
-*    *   4
+*    *   8
 
     *   Centre of Excellence Counter Improvised Explosive Devices
 
     *   Spanien
 
 
-*    *   5
+*    *   9
+
+    *   Chemical, Biological, Radiological and Nuclear Centre of Excellence
+
+    *   Tschechien
+
+
+*    *   10
 
     *   Civil-Military Cooperation Centre of Excellence
 
     *   Niederlande
 
 
-*    *   6
+*    *   11
 
     *   Combined Air Operations Centre Torrejon
 
     *   Spanien
 
 
-*    *   7
+*    *   12
 
     *   Combined Joint Operations from the Sea Centre of Excellence
 
     *   Vereinigte Staaten
 
 
-*    *   8
+*    *   13
 
     *   Commander Strike Force Training Atlantic USA
 
     *   Vereinigte Staaten
 
 
-*    *   9
+*    *   14
 
     *   Deployable Air Command and Control Centre Poggio Renatico
 
     *   Italien
 
 
-*    *   10
-
-    *   Escadron de Transport Évreux
-
-    *   Frankreich
-
-
-*    *   11
-
-    *   European Air Group
-
-    *   Großbritannien
-
-
-*    *   12
-
-    *   European Air Transport Command
-
-    *   Niederlande
-
-
-*    *   13
-
-    *   European Centre of Excellence for Countering Hybrid Threats
-
-    *   Finnland
-
-
-*    *   14
-
-    *   European Union Military Committee
-
-    *   Belgien
-
-
 *    *   15
 
-    *   Headquarters Supreme Allied Command Transformation
+    *   Deputy Commanding Officer United States Army John F. Kennedy Special Warfare Centre and School
 
     *   Vereinigte Staaten
 
 
 *    *   16
 
-    *   Internationales Zentrum für Humanitäres Minenräumen
+    *   Escadron de Transport Évreux
 
-    *   Schweiz
+    *   Frankreich
 
 
 *    *   17
 
-    *   Joint Air Power Competence Centre
+    *   EUROCONTROL
 
-    *   Deutschland
+    *   Belgien
 
 
 *    *   18
 
-    *   Joint Allied Lessons Learned Centre
-
-    *   Portugal
-
-
-*    *   19
-
-    *   Joint Chemical Biological Radiological Nuclear Defence Centre of Excellence
-
-    *   Tschechien
-
-
-*    *   20
-
-    *   Joint Force Command Naples
-
-    *   Italien
-
-
-*    *   21
-
-    *   Joint Force Command Norfolk
-
-    *   Vereinigte Staaten
-
-
-*    *   22
-
-    *   Joint Forces Training Centre
-
-    *   Polen
-
-
-*    *   23
-
-    *   Joint Warfare Centre
-
-    *   Norwegen
-
-
-*    *   24
-
-    *   Land Command Headquarters Izmir
-
-    *   Türkei
-
-
-*    *   25
-
-    *   Maritime Command Headquarters Northwood
+    *   European Air Group
 
     *   Großbritannien
 
 
+*    *   19
+
+    *   European Air Transport Command
+
+    *   Niederlande
+
+
+*    *   20
+
+    *   European Centre of Excellence for Countering Hybrid Threats
+
+    *   Finnland
+
+
+*    *   21
+
+    *   European Commission - Directorate-General for Defence Industry and Space
+
+    *   Belgien
+
+
+*    *   22
+
+    *   European Defence Agency
+
+    *   Belgien
+
+
+*    *   23
+
+    *   European External Action Service
+
+    *   Belgien
+
+
+*    *   24
+
+    *   European Union Military Staff
+
+    *   Belgien
+
+
+*    *   25
+
+    *   Headquarters Department of the Army
+
+    *   Vereinigte Staaten
+
+
 *    *   26
 
-    *   Multinational Multirole Tanker Transport Fleet
+    *   Headquarters Joint Logistic Support Group Brunssum
 
     *   Niederlande
 
 
 *    *   27
 
-    *   NATO Airborne Early Warning and Control Force
+    *   Headquarters Joint Support and Enabling Command
 
     *   Deutschland
 
 
 *    *   28
 
-    *   NATO Alliance Ground Surveillance Force
+    *   Headquarters Supreme Allied Command Transformation
+
+    *   Vereinigte Staaten
+
+
+*    *   29
+
+    *   Internationales Zentrum für Humanitäres Minenräumen
+
+    *   Schweiz
+
+
+*    *   30
+
+    *   Joint Air Power Competence Centre
+
+    *   Deutschland
+
+
+*    *   31
+
+    *   Joint Allied Lessons Learned Centre
+
+    *   Portugal
+
+
+*    *   32
+
+    *   Joint Deployable Exploitation and Analysis Laboratority
+
+    *   Niederlande
+
+
+*    *   33
+
+    *   Joint Electronic Warfare Core Staff
+
+    *   Großbritannien
+
+
+*    *   34
+
+    *   Joint Force Command Naples
 
     *   Italien
 
 
-*    *   29
+*    *   35
+
+    *   Joint Force Command Norfolk
+
+    *   Vereinigte Staaten
+
+
+*    *   36
+
+    *   Joint Forces Training Centre
+
+    *   Polen
+
+
+*    *   37
+
+    *   Joint Warfare Centre
+
+    *   Norwegen
+
+
+*    *   38
+
+    *   Land Command Headquarters Izmir
+
+    *   Türkei
+
+
+*    *   39
+
+    *   Land Warfare Center Amersfoort
+
+    *   Niederlande
+
+
+*    *   40
+
+    *   Maritime Command Headquarters Northwood
+
+    *   Großbritannien
+
+
+*    *   41
+
+    *   Ministery of Defense
+
+    *   Litauen
+
+
+*    *   42
+
+    *   Ministery of Defense
+
+    *   Niederlande
+
+
+*    *   43
+
+    *   Movement Coordination Centre Europe
+
+    *   Niederlande
+
+
+*    *   44
+
+    *   Multinational Multirole Tanker Transport Fleet
+
+    *   Niederlande
+
+
+*    *   45
+
+    *   National Defense Headquarters
+
+    *   Kanada
+
+
+*    *   46
+
+    *   NATO Airborne Early Warning and Control Force
+
+    *   Deutschland
+
+
+*    *   47
 
     *   NATO Allied Joint Force Command Brunssum
 
     *   Niederlande
 
 
-*    *   30
+*    *   48
 
     *   NATO Centre of Excellence for Military Medicine
 
     *   Ungarn
 
 
-*    *   31
+*    *   49
 
-    *   NATO Communications and Information Agency (Anteil Norfolk)
+    *   NATO Communications and Information Agency Lissabon
+
+    *   Portugal
+
+
+*    *   50
+
+    *   NATO Communications and Information Agency Brüssel
+
+    *   Belgien
+
+
+*    *   51
+
+    *   NATO Communications and Information Agency Brunssum
+
+    *   Niederlande
+
+
+*    *   52
+
+    *   NATO Communications and Information Agency Norfolk
 
     *   Vereinigte Staaten
 
 
-*    *   32
+*    *   53
+
+    *   NATO Communications and Information Agency Ramstein
+
+    *   Deutschland
+
+
+*    *   54
+
+    *   NATO Communications and Information Agency The Hague
+
+    *   Niederlande
+
+
+*    *   55
+
+    *   NATO Communications and Information Agency Uedem
+
+    *   Deutschland
+
+
+*    *   56
 
     *   NATO Defence College
 
     *   Italien
 
 
-*    *   33
+*    *   57
 
-    *   NATO Military Committee
+    *   NATO Force Integration Unit
+
+    *   Estland
+
+
+*    *   58
+
+    *   NATO Force Integration Unit
+
+    *   Ungarn
+
+
+*    *   59
+
+    *   NATO Force Integration Unit
+
+    *   Litauen
+
+
+*    *   60
+
+    *   NATO Force Integration Unit
+
+    *   Lettland
+
+
+*    *   61
+
+    *   NATO Force Integration Unit
+
+    *   Polen
+
+
+*    *   62
+
+    *   NATO Force Integration Unit
+
+    *   Slowakei
+
+
+*    *   63
+
+    *   NATO Intelligence Fusion Centre Molesworth
+
+    *   Großbritannien
+
+
+*    *   64
+
+    *   NATO Intelligence, Surveillance & Reconnaissance Force
+
+    *   Italien
+
+
+*    *   65
+
+    *   NATO International Military Staff
 
     *   Belgien
 
 
-*    *   34
+*    *   66
+
+    *   NATO International Staff
+
+    *   Belgien
+
+
+*    *   67
 
     *   NATO Special Operations Headquarters
 
     *   Belgien
 
 
-*    *   35
+*    *   68
 
     *   NATO Strategic Communications Centre of Excellence
 
     *   Lettland
 
 
-*    *   36
+*    *   69
+
+    *   Naval Postgraduate School
+
+    *   Vereinigte Staaten
+
+
+*    *   70
+
+    *   Commando Landstrijdkrachten
+
+    *   Niederlande
+
+
+*    *   71
+
+    *   Office of the Assistant Secretary of Defense for Health Affairs
+
+    *   Vereinigte Staaten
+
+
+*    *   72
 
     *   Organisation für Sicherheit und Zusammenarbeit in Europa
 
     *   Österreich
 
 
-*    *   37
+*    *   73
 
     *   Special Operations Command
 
     *   Vereinigte Staaten
 
 
-*    *   38
+*    *   74
+
+    *   Strategic Airlift Coordination Center
+
+    *   Niederlande
+
+
+*    *   75
 
     *   Strike Forces NATO Headquarters
 
     *   Portugal
 
 
-*    *   39
+*    *   76
 
     *   Supreme Headquarters Allied Powers Europe
 
     *   Belgien
 
 
-*    *   40
+*    *   77
 
     *   Tactical Leadership Programme
 
     *   Spanien
 
 
-*    *   41
+*    *   78
+
+    *   U.S. Army Cyber Center of Excellence
+
+    *   Vereinigte Staaten
+
+
+*    *   79
+
+    *   U.S. Army Maneuver Support Center of Excellence, Fort Leonard Wood, MO
+
+    *   Vereinigte Staaten
+
+
+*    *   80
+
+    *   U.S. Army War College
+
+    *   Vereinigte Staaten
+
+
+*    *   81
+
+    *   United States Air Force Academy
+
+    *   Vereinigte Staaten
+
+
+*    *   82
+
+    *   UNITED STATES Army Sergeants Major Academy
+
+    *   Vereinigte Staaten
+
+
+*    *   83
+
+    *   UNITED STATES Military Academy
+
+    *   Vereinigte Staaten
+
+
+*    *   84
+
+    *   UNITED STATES OF AMERICA Combined Arms Center
+
+    *   Vereinigte Staaten
+
+
+*    *   85
+
+    *   US Central Command
+
+    *   Vereinigte Staaten
+
+
+*    *   86
+
+    *   US Naval War College Newport
+        Senior Enlisted Academy Newport
+
+    *   Vereinigte Staaten
+
+
+*    *   87
+
+    *   US-ARMY Combined Arms Center
+
+    *   Vereinigte Staaten
+
+
+*    *   88
 
     *   Zentrum für Sicherheitspolitik
 
     *   Schweiz
+
 
 
 

@@ -29,7 +29,9 @@ Auf Grund des § 9 Abs. 1 und 6 und des § 193 Abs. 8 des Siebten Buches Sozialg
 
 ### § 1 Berufskrankheiten
 
-Berufskrankheiten sind die in der Anlage 1 bezeichneten Krankheiten, die Versicherte infolge einer den Versicherungsschutz nach § 2, 3 oder 6 des Siebten Buches Sozialgesetzbuch begründenden Tätigkeit erleiden.
+(1) Berufskrankheiten sind die in der Anlage 1 bezeichneten Krankheiten, die Versicherte infolge einer den Versicherungsschutz nach § 2, 3 oder 6 des Siebten Buches Sozialgesetzbuch begründenden Tätigkeit erleiden.
+
+(2) Bei der Entscheidung über das Vorliegen einer Berufskrankheit nach § 9 Absatz 1 Satz 2 sowie nach § 9 Absatz 2 des Siebten Buches Sozialgesetzbuch sind die veröffentlichten Ergebnisse der Beratungen des Ärztlichen Sachverständigenbeirates Berufskrankheiten nach § 9 Absatz 4 dieser Verordnung auf ihrem jeweils aktuellen Stand vorrangig zu berücksichtigen. Dies gilt insbesondere in Bezug auf die Art, die Diagnostik und die Merkmale des jeweiligen Krankheitsbildes sowie hinsichtlich der Art, der Ausprägung und des Ausmaßes der ursächlichen Einwirkungen, einschließlich vorhandener Dosismaße.
 
 
 ### § 2 Erweiterter Versicherungsschutz in Unternehmen der Seefahrt
@@ -468,6 +470,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Koxarthrose durch Lastenhandhabung mit einer kumulativen Dosis von mindestens 9 500 Tonnen während des Arbeitslebens gehandhabter Lasten mit einem Lastgewicht von mindestens 20 kg, die mindestens zehnmal pro Tag gehandhabt wurden
 
 
+*    *   2117
+
+    *   Läsion der Rotatorenmanschette der Schulter durch eine langjährige und intensive Belastung durch Überschulterarbeit, repetitive Bewegungen im Schultergelenk, Kraftanwendungen im Schulterbereich durch Heben von Lasten oder Hand-Arm-Schwingungen
+
+
+*    *   2118
+
+    *   Gonarthrose bei professionellen Fußballspielerinnen und Fußballspielern nach mindestens 13-jähriger Expositionsdauer
+
+
 *    *   22
 
     *   Druckluft
@@ -635,6 +647,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   4116
 
     *   Lungenkrebs nach langjähriger und intensiver Passivrauchexposition am Arbeitsplatz bei Versicherten, die selbst nie oder maximal bis zu 400 Zigarettenäquivalente aktiv geraucht haben
+
+
+*    *   4117
+
+    *   Chronische obstruktive Bronchitis einschließlich Emphysem durch Quarzstaubexposition bei Nachweis der Einwirkung einer kumulativen Dosis am Arbeitsplatz von mindestens zwei Quarz-Feinstaubjahren [(mg/m
+        3                       ) x Jahre] oberhalb der Konzentration von 0,1 mg/m
+        3
 
 
 *    *   42

@@ -127,7 +127,7 @@ Im Sinne dieses Gesetzes ist oder sind
 6.  „Betreiber von KWK-Anlagen“ diejenigen, die den KWK-Strom erzeugen und das wirtschaftliche Risiko für den Betrieb der KWK-Anlagen tragen,
 
 
-6a. „Dampfnetze“ Einrichtungen zur leitungsgebundenen Versorgung einer Mehrzahl von Produktionsprozessen mit Prozessdampf und industrieller Abwärme, aus mindestens einer KWK-Anlage und einem externen Einspeiser im Sinn des § 2 Nummer 9,
+6a. „Dampfnetze“ Einrichtungen zur leitungsgebundenen Versorgung einer Mehrzahl von Produktionsprozessen mit Prozessdampf und unvermeidbarer Abwärme, aus mindestens einer KWK-Anlage und einem externen Einspeiser im Sinn des § 2 Nummer 9,
 
 
 6b. „Dampfsammelschienen“ Einrichtungen zur leitungsgebundenen Versorgung mit Dampf, an denen mindestens zwei Dampferzeuger und eine Dampfturbine oder ein Dampferzeuger und zwei Dampfturbinen angeschlossen sind; keine Dampfturbinen in diesem Sinn sind Dampfentspannungseinrichtungen sowie Endkundenanlagen,
@@ -148,16 +148,10 @@ Im Sinne dieses Gesetzes ist oder sind
 8.  „Endkundenanlagen“ von einem Anderen betriebene Dampfturbinen, die keinen Dampf in ein Dampf- oder Wärmenetz einspeisen; Endkundenanlagen sind Bestandteil aller KWK-Anlagen, von denen sie Dampf beziehen; die insoweit zuzurechnende elektrische KWK-Leistung und die elektrische Leistung der Endkundenanlagen bemessen sich entsprechend dem Verhältnis der Dampferzeugungsleistung der jeweiligen KWK-Anlage zur Dampferzeugungsleistung sämtlicher Dampferzeuger, von denen die Endkundenanlagen Dampf beziehen,
 
 
-8a. eine KWK-Anlage „hocheffizient“, sofern sie den Vorgaben der Richtlinie 2012/27/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur Energieeffizienz, zur Änderung der Richtlinien 2009/125/EG und 2010/30/EU und zur Aufhebung der Richtlinien 2004/8/EG und 2006/32/EG (ABl. L 315 vom 14.11.2012, S. 1) in der jeweils geltenden Fassung entspricht,
+8a. eine KWK-Anlage „hocheffizient“, sofern sie den Vorgaben der Richtlinie (EU) 2023/1791 des Europäischen Parlaments und des Rates vom 13. September 2023 zur Energieeffizienz und zur Änderung der Verordnung (EU) 2023/955 (ABl. L 231 vom 20.9.2023, S. 1), die zuletzt durch die Richtlinie (EU) 2024/1788 (ABl. L 2024/1788 vom 15.7.2024, S. 1) geändert worden ist, in der jeweils geltenden Fassung entspricht,
 
 
-9.  „industrielle Abwärme“ nicht genutzte Wärme aus industriellen Produktionsanlagen oder -prozessen in Unternehmen des verarbeitenden Gewerbes,
-
-
-9a. „innovative KWK-Systeme“ besonders energieeffiziente und treibhausgasarme Systeme, in denen KWK-Anlagen in Verbindung mit hohen Anteilen von Wärme aus erneuerbaren Energien oder aus dem gereinigten Wasser von Kläranlagen KWK-Strom und Wärme bedarfsgerecht erzeugen oder umwandeln,
-
-
-9b. (weggefallen)
+9.  „innovative KWK-Systeme“ besonders energieeffiziente und treibhausgasarme Systeme, in denen KWK-Anlagen in Verbindung mit hohen Anteilen von Wärme aus erneuerbaren Energien oder aus dem gereinigten Wasser von Kläranlagen KWK-Strom und Wärme bedarfsgerecht erzeugen oder umwandeln,
 
 
 10. „Kältenetze“ Einrichtungen zur leitungsgebundenen Versorgung mit Kälte,
@@ -271,10 +265,16 @@ Im Sinne dieses Gesetzes ist oder sind
 29b. „Unternehmen in Schwierigkeiten“ ein Unternehmen in Schwierigkeiten im Sinn der Mitteilung der Kommission – Leitlinien für staatliche Beihilfen zur Rettung und Umstrukturierung nichtfinanzieller Unternehmen in Schwierigkeiten (ABl. C 249 vom 31.7.2014, S. 1),
 
 
+29c „unvermeidbare Abwärme“ Wärme, die als unvermeidbares Nebenprodukt in einer Industrieanlage, einer Stromerzeugungsanlage oder im tertiären Sektor anfällt und ohne den Zugang zu einem Wärmenetz ungenutzt in die Luft oder in das Wasser abgeleitet werden würde, dabei gilt Abwärme als unvermeidbar, soweit sie aus wirtschaftlichen, sicherheitstechnischen oder sonstigen Gründen im Produktionsprozess nicht nutzbar ist und nicht mit vertretbarem Aufwand verringert werden kann, dabei ist § 3 Absatz 4 des Wärmeplanungsgesetzes vom 20. Dezember 2023 (BGBl. 2023 I Nr. 394) entsprechend anzuwenden,
+
+
 30. „Verbraucherabgang“ die Übergabestelle nach § 10 Absatz 1 der Verordnung über Allgemeine Bedingungen für die Versorgung mit Fernwärme vom 20. Juni 1980 (BGBl. I S. 742), die zuletzt durch Artikel 16 des Gesetzes vom 25. Juli 2013 (BGBl. I S. 2722) geändert worden ist,
 
 
 31. „Vorrichtungen zur Abwärmeabfuhr“ Kondensations-, Kühl- oder Bypass-Einrichtungen, in denen die Strom- und Nutzwärmeerzeugung entkoppelt werden kann,
+
+
+31a. Wärme aus erneuerbaren Energien“ Wärme aus den in § 3 Absatz 1 Nummer 15 des Wärmeplanungsgesetzes in der jeweils geltenden Fassung genannten Wärmequellen
 
 
 32. „Wärmenetze“ Einrichtungen zur leitungsgebundenen Versorgung mit Wärme,
@@ -373,13 +373,21 @@ Im Sinne dieses Gesetzes ist oder sind
     b)  über einen in einem Zuschlagsverfahren nach § 11 der KWK-Ausschreibungsverordnung erteilten Zuschlag verfügen, der nicht nach § 16 der KWK-Ausschreibungsverordnung entwertet wurde, oder
 
 
-    c)  nach dem 31. Dezember 2026, aber vor dem 1. Januar 2030 in Dauerbetrieb genommen worden sind,
+    c)  nach Ablauf des 31. Dezember 2026 in Dauerbetrieb genommen worden sind, sofern für das Vorhaben bis zum Ablauf des 31. Dezember 2026
+
+        aa) eine Genehmigung nach dem Bundes-Immissionsschutzgesetz in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274; 2021 I S. 123), das zuletzt durch Artikel 1 des Gesetzes vom 3. Juli 2024 (BGBl. 2024 I Nr. 225; 2024 I Nr. 340) geändert worden ist, in der jeweils geltenden Fassung erteilt worden ist und die Anlage bis zum Ablauf des vierten Jahres nach der Erteilung der Genehmigung in Dauerbetrieb genommen worden ist, oder
+
+
+        bb) eine verbindliche Bestellung der Anlage oder im Fall einer Modernisierung eine verbindliche Bestellung der wesentlichen, die Effizienz bestimmenden Anlagenteile erfolgt ist, sofern nach dem Bundes-Immissionsschutzgesetz keine Genehmigung für die Anlage erforderlich ist und die Anlage bis zum Ablauf des vierten Jahres nach der verbindlichen Bestellung in Dauerbetrieb genommen worden ist,
 
 
 
 
 
-2.  die Anlagen Strom auf Basis von Abfall, Abwärme, Biomasse, gasförmigen oder flüssigen Brennstoffen gewinnen,
+
+
+
+2.  die Anlagen Strom auf Basis von Abfall, Abwärme, Biomasse, gasförmigen oder nicht fossilen flüssigen Brennstoffen gewinnen,
 
 
 3.  die Anlagen hocheffizient sind,
@@ -398,7 +406,7 @@ Im Sinne dieses Gesetzes ist oder sind
 
 
 
-Satz 1 Nummer 1 Buchstabe a und c ist nicht für KWK-Anlagen mit einer elektrischen Leistung bis einschließlich 50 Megawatt anzuwenden, soweit im Rahmen der Evaluierung des Kraft-Wärme-Kopplungsgesetzes im Jahr 2022 festgestellt werden sollte, dass von diesen Anlagen unter den geltenden Förderbedingungen kein die Förderung rechtfertigender Nutzen für die Erreichung der Ziele nach § 1 Absatz 1 für den Zeitraum nach dem 31. Dezember 2025 mehr ausgehen und der Bundestag insoweit mit Wirkung zum 1. Januar 2026 Änderungen an den Förderbedingungen für diese Anlagen beschließen sollte. Die Bundesregierung wird dem Bundestag rechtzeitig einen Vorschlag unterbreiten, unter welchen Voraussetzungen eine Förderung dieser Anlagen für den Zeitraum nach dem 31. Dezember 2025 fortgeführt werden sollte.
+Satz 1 Nummer 1 Buchstabe a und c ist nicht für KWK-Anlagen mit einer elektrischen Leistung bis einschließlich 50 Megawatt anzuwenden, soweit im Rahmen der Evaluierung des Kraft-Wärme-Kopplungsgesetzes im Jahr 2022 festgestellt werden sollte, dass von diesen Anlagen unter den geltenden Förderbedingungen kein die Förderung rechtfertigender Nutzen für die Erreichung der Ziele nach § 1 Absatz 1 für den Zeitraum nach dem 31. Dezember 2025 mehr ausgehen und der Bundestag insoweit mit Wirkung zum 1. Januar 2026 Änderungen an den Förderbedingungen für diese Anlagen beschließen sollte.
 
 (1a) Ein Anspruch nach Absatz 1 besteht für KWK-Strom aus modernisierten Dampfsammelschienen-KWK-Anlagen auch dann, wenn die Dampfsammelschienen-KWK-Anlagen
 
@@ -549,7 +557,7 @@ Der Zuschlag nach Satz 1 Nummer 5 Buchstabe a erhöht sich ab dem 1. Januar 2023
 
 
 
-(5) Für Zeiträume, in denen der Wert des Spotmarktpreises nach § 3 Nummer 42a des Erneuerbare-Energien-Gesetzes in der vortägigen Auktion null oder negativ ist, verringert sich der Anspruch auf Zahlung von Zuschlägen auf null. Satz 1 ist nicht anzuwenden auf KWK-Anlagen mit einer elektrischen Leistung bis zu 50 Kilowatt.
+(5) Für Zeiträume, in denen der Wert des Spotmarktpreises nach § 3 Nummer 42a des Erneuerbare-Energien-Gesetzes in der vortägigen Auktion null oder negativ ist, verringert sich der Anspruch auf Zahlung von Zuschlägen auf null.
 
 
 ### § 7a Bonus für innovative erneuerbare Wärme
@@ -725,7 +733,16 @@ Die neue KWK-Anlage, die die elektrische KWK-Leistung einer bestehenden KWK-Anla
 
 
 
-(3) Bei Dampfsammelschienen-KWK-Anlagen mit einer elektrischen Leistung von mehr als 50 Megawatt ist Absatz 1 mit der Maßgabe entsprechend anzuwenden, dass der Ersatz eines bestehenden Dampferzeugers der Dampfsammelschienen-KWK-Anlage, der Dampf auf Basis von Stein- oder Braunkohle erzeugt, dem Ersatz einer bestehenden KWK-Anlage mit einer neuen KWK-Anlage gleichzustellen ist. In diesen Fällen wird der nach Absatz 1 zu gewährende Bonus nur für den Anteil der elektrischen KWK-Leistung gewährt, der dem Anteil des ersetzten Dampferzeugers im Verhältnis zu der Summe sämtlicher Dampferzeuger in der bestehenden KWK-Anlage entspricht.
+(3) Bei Dampfsammelschienen-KWK-Anlagen ist Absatz 1 mit der Maßgabe entsprechend anzuwenden, dass der Ersatz eines bestehenden Dampferzeugers der Dampfsammelschienen-KWK-Anlage, der Dampf auf Basis von Steinkohle oder von Braunkohle erzeugt, dem Ersatz einer bestehenden KWK-Anlage mit einer neuen KWK-Anlage gleichzustellen ist, wenn
+
+1.  die Dampfsammelschienen-KWK-Anlage über eine elektrische Leistung von mehr als 50 Megawatt verfügt, oder
+
+
+2.  alle Dampferzeuger der Dampfsammelschienen-KWK-Anlage, die Dampf auf Basis von Stein- oder Braunkohle erzeugen, ersetzt werden.
+
+
+
+In den Fällen des Satzes 1 wird der nach Absatz 1 zu gewährende Bonus nur für den Anteil der elektrischen KWK-Leistung gewährt, der dem Anteil der ersetzten Dampferzeuger, die Dampf auf Basis von Stein- oder Braunkohle erzeugen, an der Summe sämtlicher Dampferzeuger in der bestehenden KWK-Anlage entspricht.
 
 (4) Der Bonus nach Absatz 1 wird einmalig gezahlt, sobald die bestehende KWK-Anlage oder, in den Fällen des Absatzes 3 der bestehende Dampferzeuger stillgelegt wurde und der Anlagenbetreiber seine Mitteilungspflicht nach § 7e erfüllt hat.
 
@@ -931,7 +948,7 @@ Die Bestätigung nach Satz 2 Nummer 5 und 6 muss ferner eine Selbstverpflichtung
 1.  nach den Grundlagen und Rechenmethoden der Nummern 4 bis 6 sowie 8 des Arbeitsblattes FW 308 „Zertifizierung von KWK-Anlagen – Ermittlung des KWK-Stromes“ des Energieeffizienzverbandes für Wärme, Kälte und KWK e. V. AGFW (Bundesanzeiger vom 19. Oktober 2015, nichtamtlicher Teil, Institutionelle Veröffentlichungen) erstellt wurde und
 
 
-2.  die Anhänge I und II der Richtlinie 2012/27/EU sowie die dazu erlassenen Leitlinien in der jeweils geltenden Fassung beachtet.
+2.  die Anhänge II und III der Richtlinie (EU) 2023/1791 sowie die dazu erlassenen Leitlinien in der jeweils geltenden Fassung beachtet.
 
 
 
@@ -949,9 +966,7 @@ Die Bestätigung nach Satz 2 Nummer 5 und 6 muss ferner eine Selbstverpflichtung
 
 
 
-(5) Die Zulassung von KWK-Anlagen mit einer elektrischen KWK-Leistung von mehr als 300 Megawatt darf erst nach beihilferechtlicher Genehmigung durch die Europäische Kommission erteilt werden. In den Fällen des § 11 Absatz 4 Satz 1 ist Satz 1 entsprechend anzuwenden.
-
-(6) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle kann Zulassungen für KWK-Anlagen mit einer elektrischen KWK-Leistung von bis zu 50 Kilowatt in Form der Allgemeinverfügung gemäß § 35 Satz 2 des Verwaltungsverfahrensgesetzes von Amts wegen erteilen. Die Allgemeinverfügung nach Satz 1 kann mit Nebenbestimmungen verbunden werden. Für Anlagen, die durch Allgemeinverfügung nach Satz 1 zugelassen werden, ist § 11 Absatz 3 entsprechend anzuwenden.
+(5) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle kann Zulassungen für KWK-Anlagen mit einer elektrischen KWK-Leistung von bis zu 50 Kilowatt in Form der Allgemeinverfügung gemäß § 35 Satz 2 des Verwaltungsverfahrensgesetzes von Amts wegen erteilen. Die Allgemeinverfügung nach Satz 1 kann mit Nebenbestimmungen verbunden werden. Für Anlagen, die durch Allgemeinverfügung nach Satz 1 zugelassen werden, ist § 11 Absatz 3 entsprechend anzuwenden.
 
 
 ### § 11 Überprüfung, Wirkung und Erlöschen der Zulassung
@@ -974,6 +989,8 @@ Die Bestätigung nach Satz 2 Nummer 5 und 6 muss ferner eine Selbstverpflichtung
 (3) Die Zulassung wird mit Wirkung zum Zeitpunkt der Aufnahme des Dauerbetriebs der Anlage erteilt, wenn der Antrag bis zum 31. Dezember des Kalenderjahres gestellt wird, das auf die Aufnahme des Dauerbetriebs der Anlage folgt. Wird der Antrag später gestellt, so wird die Zulassung rückwirkend zum 1. Januar des Kalenderjahres erteilt, in dem der Antrag gestellt worden ist. Bei Wiederaufnahme des Dauerbetriebs der Anlage nach Modernisierung oder Nachrüstung sind die Sätze 1 und 2 entsprechend anzuwenden.
 
 (4) Bei Änderung von Eigenschaften der KWK-Anlage im Sinne des § 10 Absatz 2 Satz 1 Nummer 4 erlischt die Zulassung rückwirkend zum Zeitpunkt der Änderung. Satz 1 gilt nicht, wenn der Betreiber der KWK-Anlage eine Änderung der Zulassung bis zum Ablauf des auf die Änderung folgenden Kalenderjahres bei dem Bundesamt für Wirtschaft und Ausfuhrkontrolle beantragt. Der Netzbetreiber, an dessen Netz die Anlage direkt oder mittelbar angeschlossen ist, ist über die Änderung in Kenntnis zu setzen.
+
+(5) Einer Änderung der Eigenschaften einer KWK-Anlage im Sinn des Absatzes 4 steht es gleich, wenn der Standort der KWK-Anlage verändert wird.
 
 
 ### § 12 Vorbescheid für neue KWK-Anlagen mit einer elektrischen Leistung von mehr als 50 Megawatt
@@ -1099,7 +1116,7 @@ Zahlt ein Netzbetreiber einem Anlagenbetreiber mehr als nach diesem Gesetz vorge
 5.  zu der seit Aufnahme des Dauerbetriebs erreichten Anzahl an Vollbenutzungsstunden und in Fällen des § 13 zu der seit dem 1. Januar 2016 erreichten Anzahl Vollbenutzungsstunden,
 
 
-6.  in den Fällen des § 6 Absatz 3 Nummer 2 ein Nachweis über die entrichtete EEG-Umlage,
+6.  in den Fällen des § 6 Absatz 3 Nummer 2 über die an Letztverbraucher in einer Kundenanlage oder in einem geschlossenen Verteilernetz gelieferte Strommenge,
 
 
 7.  in den Fällen des § 6 Absatz 3 Nummer 3 ein Nachweis über den Einsatz der KWK-Anlage in einem stromkostenintensiven Unternehmen sowie darüber, dass der KWK-Strom durch das Unternehmen selbst verbraucht wird.
@@ -1125,7 +1142,7 @@ Die Einhaltung der allgemein anerkannten Regeln der Technik wird vermutet, wenn 
 5.  zu der seit Aufnahme des Dauerbetriebs erreichten Anzahl an Vollbenutzungsstunden,
 
 
-6.  in den Fällen des § 6 Absatz 3 Nummer 2 ein Nachweis über die entrichtete EEG-Umlage,
+6.  in den Fällen des § 6 Absatz 3 Nummer 2 über die an Letztverbraucher in einer Kundenanlage oder in einem geschlossenen Verteilernetz gelieferte Strommenge,
 
 
 7.  in den Fällen des § 6 Absatz 3 Nummer 3 ein Nachweis über den Einsatz der KWK-Anlage in einem stromkostenintensiven Unternehmen sowie darüber, dass der KWK-Strom durch das Unternehmen selbst verbraucht wird.
@@ -1133,7 +1150,7 @@ Die Einhaltung der allgemein anerkannten Regeln der Technik wird vermutet, wenn 
 
 
 
-(4) Wenn in einem Kalendermonat die Voraussetzungen nach § 7 Absatz 5 Satz 1 mindestens einmal erfüllt sind, legen die Betreiber von KWK-Anlagen mit der Abrechnung nach den Absätzen 2 und 3 Angaben zur Strommenge vor, die sie in dem Zeitraum erzeugt haben, in dem der Spotmarktpreis nach § 3 Nummer 42a des Erneuerbare-Energien-Gesetzes null oder negativ gewesen ist. Andernfalls verringert sich der Anspruch in diesem Kalendermonat um 5 Prozent pro Kalendertag, in dem dieser Zeitraum ganz oder teilweise liegt. Die Sätze 1 und 2 sind nicht anzuwenden auf KWK-Anlagen mit einer elektrischen Leistung von bis zu 50 Kilowatt.
+(4) Wenn in einem Kalendermonat die Voraussetzungen nach § 7 Absatz 5 Satz 1 mindestens einmal erfüllt sind, legen die Betreiber von KWK-Anlagen mit der Abrechnung nach den Absätzen 2 und 3 Angaben zur Strommenge vor, die sie in dem Zeitraum erzeugt haben, in dem der Spotmarktpreis nach § 3 Nummer 42a des Erneuerbare-Energien-Gesetzes null oder negativ gewesen ist. Andernfalls verringert sich der Anspruch in diesem Kalendermonat um 5 Prozent pro Kalendertag, in dem dieser Zeitraum ganz oder teilweise liegt.
 
 (5) Betreiber von KWK-Anlagen nach Absatz 3, die nicht über Vorrichtungen zur Abwärmeabfuhr verfügen, sind von der Pflicht zur Mitteilung der Menge der KWK-Nutzwärmeerzeugung und zur Messung der abgegebenen Menge der KWK-Nutzwärme befreit. Betreiber von KWK-Anlagen mit einer elektrischen KWK-Leistung von bis zu 50 Kilowatt sind gegenüber dem Bundesamt für Wirtschaft und Ausfuhrkontrolle von den in Absatz 3 genannten Mitteilungspflichten befreit.
 
@@ -1196,13 +1213,29 @@ Die Einhaltung der allgemein anerkannten Regeln der Technik wird vermutet, wenn 
         aa) bis zum 31. Dezember 2026 oder
 
 
-        bb) nach dem 31. Dezember 2026, aber vor dem 1. Januar 2030 oder
+        bb) nach dem 31. Dezember 2026, jedoch vor dem 1. Januar 2028, sofern für das Vorhaben bis zum 31. Dezember 2026
+
+            aaa) sämtliche nach Landesrecht erforderlichen Genehmigungen vorgelegen haben und das Wärmenetz bis zum Ende des vierten Jahres nach dem Vorliegen der letzten für das Vorhaben nach Landesrecht erforderlichen Genehmigung in Betrieb genommen worden ist, oder
+
+
+            bbb) eine verbindliche Beauftragung der wesentlichen Bauleistungen erfolgt ist, sofern nach Landesrecht keine Genehmigung erforderlich ist, oder
 
 
 
 
 
-    b)  in den Fällen der Nummer 2 Buchstabe c bis zum 31. Dezember 2022,
+
+
+
+    b)  in den Fällen der Nummer 2 Buchstabe c und d nach dem 31. Dezember 2027, sofern für das Vorhaben bis zum 31. Dezember 2026
+
+        aa) sämtliche für das Vorhaben nach Landesrecht erforderlichen Genehmigungen vorgelegen haben und das Wärmenetz bis zum Ende des vierten Jahres nach dem Vorliegen der letzten für das Vorhaben nach Landesrecht erforderlichen Genehmigung in Betrieb genommen worden ist, oder
+
+
+        bb) eine verbindliche Beauftragung der wesentlichen Bauleistungen erfolgt ist, sofern nach Landesrecht keine Genehmigung erforderlich ist,
+
+
+
 
 
 
@@ -1213,10 +1246,13 @@ Die Einhaltung der allgemein anerkannten Regeln der Technik wird vermutet, wenn 
     a)  mindestens zu 75 Prozent mit Wärme aus KWK-Anlagen erfolgt,
 
 
-    b)  mindestens zu 75 Prozent mit einer Kombination aus Wärme aus KWK-Anlagen, Wärme aus erneuerbaren Energien oder industrieller Abwärme, die ohne zusätzlichen Brennstoffeinsatz bereitgestellt wird, erfolgt, oder
+    b)  mindestens zu 75 Prozent mit einer Kombination aus Wärme aus KWK-Anlagen, Wärme aus erneuerbaren Energien oder unvermeidbarer Abwärme, die ohne zusätzlichen Brennstoffeinsatz bereitgestellt wird, erfolgt,
 
 
-    c)  mindestens zu 50 Prozent mit einer Kombination aus Wärme aus KWK-Anlagen, Wärme aus erneuerbaren Energien oder industrieller Abwärme, die ohne zusätzlichen Brennstoffeinsatz bereitgestellt wird, erfolgt und
+    c)  mindestens zu 80 Prozent mit Wärme aus hocheffizienten KWK-Anlagen erfolgt, oder
+
+
+    d)  mindestens zu 75 Prozent mit einer Kombination aus Wärme aus hocheffizienten KWK-Anlagen, Wärme aus erneuerbaren Energien oder unvermeidbarer Abwärme, die ohne zusätzlichen Brennstoffeinsatz bereitgestellt wird, erfolgt, wobei der Anteil erneuerbarer Energien mindestens 5 Prozent beträgt und
 
 
 
@@ -1227,7 +1263,7 @@ Die Einhaltung der allgemein anerkannten Regeln der Technik wird vermutet, wenn 
 
 
 
-(2) Im Fall des Absatzes 1 Nummer 2 Buchstabe b und c besteht der Anspruch nur, solange der Anteil der Wärme aus KWK-Anlagen 10 Prozent der transportierten Wärmemenge nicht unterschreitet.
+(2) Im Fall des Absatzes 1 Nummer 2 Buchstabe b und d besteht der Anspruch nur, solange der Anteil der Wärme aus KWK-Anlagen 10 Prozent der transportierten Wärmemenge nicht unterschreitet.
 
 (3) Zuständig für die Auszahlung des Zuschlags ist derjenige Übertragungsnetzbetreiber, zu dessen Regelzone das Netz gehört, an das die KWK-Anlage, die in das neue oder ausgebaute Wärmenetz einspeist, mittelbar oder unmittelbar angeschlossen ist. Sind mehrere KWK-Anlagen an das Wärmenetz angeschlossen, so ist der Übertragungsnetzbetreiber zuständig, zu dessen Regelzone das Netz gehört, an das die KWK-Anlage mit der größten elektrischen KWK-Leistung angeschlossen ist.
 
@@ -1252,16 +1288,7 @@ Die Einhaltung der allgemein anerkannten Regeln der Technik wird vermutet, wenn 
 
 ### § 19 Höhe des Zuschlags für den Neu- und Ausbau von Wärmenetzen
 
-(1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle legt den Zuschlag für den Neu- und Ausbau von Wärmenetzen mit der Zulassung fest. Der Zuschlag beträgt
-
-1.  40 Prozent der ansatzfähigen Investitionskosten des Neu- oder Ausbaus in den Fällen des § 18 Absatz 1 Nummer 2 Buchstabe a und b oder
-
-
-2.  30 Prozent der ansatzfähigen Investitionskosten des Neu- oder Ausbaus in den Fällen des § 18 Absatz 1 Nummer 2 Buchstabe c.
-
-
-
-Der Zuschlag darf insgesamt 20 Millionen Euro je Projekt nicht überschreiten.
+(1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle legt den Zuschlag für den Neu- und Ausbau von Wärmenetzen mit der Zulassung fest. Der Zuschlag beträgt 40 Prozent der ansatzfähigen Investitionskosten des Neu- oder Ausbaus. Der Zuschlag darf insgesamt 50 Millionen Euro je Projekt nicht überschreiten.
 
 (2) Ansatzfähige Investitionskosten sind alle Kosten, die für erforderliche Leistungen Dritter im Rahmen des Neu- oder Ausbaus von Wärmenetzen tatsächlich angefallen sind. Nicht dazu gehören insbesondere
 
@@ -1316,7 +1343,7 @@ Die Bestätigung nach Satz 2 Nummer 5 und 6 muss ferner eine Selbstverpflichtu
 
 (5) Auf Antrag entscheidet das Bundesamt für Wirtschaft und Ausfuhrkontrolle vor der Inbetriebnahme des Neu- oder Ausbaus eines Wärmenetzes mit einem Volumen an ansatzfähigen Investitionskosten von mehr als 5 Millionen Euro über die Frage der Zuschlagberechtigung durch schriftlichen oder elektronischen Vorbescheid. Die Bindungswirkung des Vorbescheides umfasst die Höhe des Zuschlags und die Höhe der ansatzfähigen Investitionskosten ab Inbetriebnahme des Neu- oder Ausbaus des Wärmenetzes gemäß der zum Zeitpunkt der Stellung des Antrags auf den Vorbescheid geltenden Fassung dieses Gesetzes, soweit die Voraussetzungen nach § 18 Absatz 1 Nummer 1 und 2, nach § 19 Absatz 1 im Rahmen der Zulassung bestätigt werden. Im Übrigen ist § 12 entsprechend anzuwenden.
 
-(6) Die Zulassung für Zuschlagszahlungen nach § 18, die einen Betrag von 15 Millionen Euro je Unternehmen überschreiten, darf von dem Bundesamt für Wirtschaft und Ausfuhrkontrolle erst nach beihilferechtlicher Genehmigung durch die Europäische Kommission erteilt werden.
+(6) Die Zulassung für Zuschlagszahlungen nach § 18, die einen Betrag von 15 Millionen Euro je Unternehmen überschreiten, darf von dem Bundesamt für Wirtschaft und Ausfuhrkontrolle unbeschadet des § 19 Absatz 1 Satz 3 nur erteilt werden, wenn der Antragsteller gegenüber dem Bundesamt für Wirtschaft und Ausfuhrkontrolle nachweist, dass das Vorhaben die in Artikel 46 und in Kapitel I der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1; ABl. L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) 2023/1315 (ABl. L 167 vom 30.6.2023, S. 1) geändert worden ist, festgelegten Voraussetzungen erfüllt.
 
 
 ### § 21 Zuschlagzahlungen für Kältenetze
@@ -1336,7 +1363,15 @@ Die §§ 18, 19 und 20 sind für den Neu- und Ausbau von Kältenetzen entspreche
     a)  bis zum 31. Dezember 2026 oder
 
 
-    b)  nach dem 31. Dezember 2026, aber vor dem 1. Januar 2030,
+    b)  nach dem 31. Dezember 2026, sofern für den Wärmespeicher bis zum 31. Dezember 2026
+
+        aa) sämtliche nach Landesrecht erforderlichen Genehmigungen vorgelegen haben und der Wärmespeicher bis zum Ende des vierten Jahres nach dem Vorliegen der letzten für den Wärmespeicher nach Landesrecht erforderlichen Genehmigung in Betrieb genommen worden ist, oder
+
+
+        bb) eine verbindliche Beauftragung der wesentlichen Bauleistungen erfolgt ist, sofern nach Landesrecht keine Genehmigung für den Wärmespeicher erforderlich ist,
+
+
+
 
 
 
@@ -1353,7 +1388,7 @@ Die §§ 18, 19 und 20 sind für den Neu- und Ausbau von Kältenetzen entspreche
 
 
 
-(2) Industrielle Abwärme, die ohne zusätzlichen Brennstoffeinsatz bereitgestellt wird, sowie Wärme aus erneuerbaren Energien stehen Wärme aus KWK-Anlagen im Sinne von Absatz 1 Nummer 2 gleich, solange der Anteil der Wärme aus KWK-Anlagen 25 Prozent der eingespeisten Wärmemenge nicht unterschreitet.
+(2) Unvermeidbare Abwärme, die ohne zusätzlichen Brennstoffeinsatz bereitgestellt wird, sowie Wärme aus erneuerbaren Energien stehen Wärme aus KWK-Anlagen im Sinne von Absatz 1 Nummer 2 gleich, solange der Anteil der Wärme aus KWK-Anlagen 10 Prozent der eingespeisten Wärmemenge nicht unterschreitet.
 
 (3) Zuständig für die Auszahlung des Zuschlags ist derjenige Übertragungsnetzbetreiber, zu dessen Regelzone das Netz gehört, an das die KWK-Anlage, die in den neuen Wärmespeicher einspeist, mittelbar oder unmittelbar angeschlossen ist. Speisen mehrere KWK-Anlagen in den neuen Wärmespeicher ein, so ist der Übertragungsnetzbetreiber zuständig, zu dessen Regelzone das Netz gehört, an das die KWK-Anlage mit der größten elektrischen KWK-Leistung angeschlossen ist.
 
@@ -1537,7 +1572,7 @@ Die Finanzierung der Ausgaben der Netzbetreiber nach diesem Gesetz und nach aufg
 12. ob und in welchem Umfang die betreffende Energieeinheit Gegenstand einer nationalen Förderregelung war, und Art der Förderregelung und
 
 
-13. die Primärenergieeinsparung nach Anhang II der Richtlinie 2012/27/EU in der jeweils geltenden Fassung.
+13. die Primärenergieeinsparung nach Anhang III der Richtlinie (EU) 2023/1791 in der jeweils geltenden Fassung.
 
 
 
@@ -2230,11 +2265,11 @@ Ist eine Genehmigung nach dem Bundes-Immissionsschutzgesetz für die Aufnahme od
 
 Satz 1 ist nur anzuwenden, wenn die Betreiber der Blöcke dies beantragen. Satz 1 ist bis zum Erlöschen der bereits vor dem 30. November 2018 oder der nach Satz 1 Nummer 2 bis 4 erteilten Zulassung und nur für diese anzuwenden. Satz 1 ist auch auf eine Änderungszulassung anzuwenden, mit der eine bereits vor dem 30. November 2018 oder eine nach Satz 1 Nummer 2 bis 4 erteilte Zulassung geändert wird. Nach Erlöschen der bereits vor dem 30. November 2018 oder der nach Satz 1 Nummer 2 bis 4 erteilten Zulassung bestimmt sich die nach § 5 Absatz 1 Nummer 2 Buchstabe b oder § 8 Absatz 2 Nummer 1 bis 3 für eine erneute Modernisierung der KWK-Anlage abzuwartende Karenzzeit einmalig nach der Investitionstiefe des vor dem 30. November 2018 oder nach Satz 1 Nummer 2 bis 4 zugelassenen Vorhabens bezogen auf die gesamte Dampfsammelschienen-KWK-Anlage. Die Karenzzeit beträgt wenigstens zwei Jahre ab der erstmaligen Aufnahme des Dauerbetriebs der Dampfsammelschienen-KWK-Anlage oder ab der Wiederaufnahme des Dauerbetriebs einer bereits modernisierten Dampfsammelschienen-KWK-Anlage. Die Karenzzeit beträgt fünf Jahre, wenn die Kosten der Modernisierung mindestens 25 Prozent und zehn Jahre, wenn die Kosten der Modernisierung mindestens 50 Prozent einer möglichen Neuerrichtung einer Dampfsammelschienen-KWK-Anlage mit gleicher Leistung nach dem Stand der Technik betragen haben. Dieser Absatz ist nicht anzuwenden für die Bestimmung der Höhe des Fördersatzes bestehender KWK-Anlagen nach § 13 Absatz 3, unabhängig davon, ob eine Zulassung bereits erteilt worden ist.
 
-(17) Die Bestimmungen des Kraft-Wärme-Kopplungsgesetzes in der am 13. August 2020 geltenden Fassung sind anzuwenden auf KWK-Anlagen, die bis zum 13. August 2020 in Dauerbetrieb genommen worden sind. Abweichend von Satz 1 sind § 7 Absatz 1 und Absatz 3a, § 8 Absatz 1 und 4, § 18 und § 19 des Kraft-Wärme-Kopplungsgesetzes in der am 14. August 2020 geltenden Fassung ab dem Kalenderjahr 2020 anzuwenden auf KWK-Anlagen und Wärmenetze, die nach dem 31. Dezember 2019 in Dauerbetrieb genommen worden sind. In den Fällen des Satzes 2 ist § 7 Absatz 1 mit der Maßgabe anzuwenden, dass der Zuschlag für KWK-Strom bis zu einer Strommenge gewährt wird, die maximal der Stromerzeugung der KWK-Anlage in der Hälfte der nach § 8 insgesamt vorgesehenen förderfähigen Vollbenutzungsstunden entspricht, auch wenn auf diesen Strom die §§ 61e bis 61g und § 104 Absatz 4 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung anzuwenden sind, wenn für das Vorhaben ein Vorbescheid bis zum 31. Dezember 2019 beantragt worden ist. Abweichend von Satz 1 ist § 15 Absatz 4 Satz 3 ab dem 1. Januar 2020 auch auf KWK-Anlagen mit einer elektrischen Leistung von bis zu 50 Kilowatt anzuwenden, die bis zum 13. August 2020 in Dauerbetrieb genommen worden sind. Abweichend von Satz 4 ist § 15 Absatz 4 Satz 3 auch schon vor dem 1. Januar 2020 auf KWK-Anlagen anzuwenden, die bis zum 13. August 2020 in Dauerbetrieb genommen worden sind, soweit für das betreffende Kalenderjahr noch keine Mitteilung nach § 15 Absatz 4 des Kraft-Wärme-Kopplungsgesetzes in der am 13. August 2020 geltenden Fassung durch den Betreiber der KWK-Anlage erfolgt ist. Soweit in den Fällen des Satzes 4 und 5 § 15 Absatz 4 Satz 3 anzuwenden ist, ist auch § 7 Absatz 5 Satz 2 mit der Maßgabe entsprechend anzuwenden, dass § 7 Absatz 7 des Kraft-Wärme-Kopplungsgesetzes in der am 13. August 2020 geltenden Fassung auf KWK-Anlagen mit einer elektrischen Leistung bis zu 50 Kilowatt nicht anzuwenden ist.
+(17) Die Bestimmungen des Kraft-Wärme-Kopplungsgesetzes in der am 13. August 2020 geltenden Fassung sind anzuwenden auf KWK-Anlagen, die bis zum 13. August 2020 in Dauerbetrieb genommen worden sind. Abweichend von Satz 1 sind § 7 Absatz 1 und Absatz 3a, § 8 Absatz 1 und 4, § 18 und § 19 des Kraft-Wärme-Kopplungsgesetzes in der am 14. August 2020 geltenden Fassung ab dem Kalenderjahr 2020 anzuwenden auf KWK-Anlagen und Wärmenetze, die nach dem 31. Dezember 2019 in Dauerbetrieb genommen worden sind. In den Fällen des Satzes 2 ist § 7 Absatz 1 mit der Maßgabe anzuwenden, dass der Zuschlag für KWK-Strom bis zu einer Strommenge gewährt wird, die maximal der Stromerzeugung der KWK-Anlage in der Hälfte der nach § 8 insgesamt vorgesehenen förderfähigen Vollbenutzungsstunden entspricht, auch wenn auf diesen Strom die §§ 61e bis 61g und § 104 Absatz 4 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2022 geltenden Fassung anzuwenden sind, wenn für das Vorhaben ein Vorbescheid bis zum 31. Dezember 2019 beantragt worden ist.
 
 (18) § 7 Absatz 1 Satz 2 ist nicht anzuwenden auf KWK-Anlagen, die vor dem 1. Januar 2023 in Betrieb genommen worden sind.
 
-(19) Die Bestimmungen nach § 6 Absatz 1 Nummer 1 Buchstabe c, § 7b, § 18 Absatz 1 Nummer 1 Buchstabe a Doppelbuchstabe bb und § 22 Absatz 1 Nummer 1 Buchstabe b dürfen erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission und nur nach Maßgabe der Genehmigung angewandt werden.
+(19) § 6 Absatz 1 Satz 1 Nummer 1, § 7 Absatz 5 Satz 2, § 15 Absatz 4 Satz 3, § 18 Absatz 1 und 2 und § 35 Absatz 17 Satz 4 bis 6 in der bis zum Ablauf des 31. März 2025 geltenden Fassung sind anzuwenden auf KWK-Anlagen und auf neue oder ausgebaute Fernwärme- und Kältenetze, die vor dem 1. April 2025 im Fall von KWK-Anlagen erstmals den Dauerbetrieb aufgenommen haben, oder im Fall einer Modernisierung wieder aufgenommen haben oder im Fall von Fernwärme- oder Kältenetzen in Betrieb genommen wurden.
 
 (20) § 7 Absatz 1 Satz 1 Nummer 5 ist anzuwenden auf KWK-Anlagen, die nach dem 31. Dezember 2020 den Dauerbetrieb aufgenommen oder nach einer erfolgten Modernisierung wieder aufgenommen haben. § 7 Absatz 4 des Kraft-Wärme-Kopplungsgesetzes in der am 31. Dezember 2020 geltenden Fassung ist anzuwenden auf KWK-Anlagen, die vor dem 1. Januar 2021 den Dauerbetrieb aufgenommen haben oder nach einer erfolgten Modernisierung wieder aufgenommen haben.
 
@@ -2249,6 +2284,10 @@ Satz 1 ist nur anzuwenden, wenn die Betreiber der Blöcke dies beantragen. Satz 
 
 
 (22) Sofern nach § 7c Absatz 1 Satz 2 Nummer 2 eine Stilllegung der bestehenden KWK-Anlagen oder in den Fällen des § 7c Absatz 3 des bestehenden Dampferzeugers spätestens zwischen dem 1. Januar 2022 und dem 1. April 2024 zu erfolgen hat, ist § 7c Absatz 1 Satz 2 Nummer 2 nicht anzuwenden und die bestehende KWK-Anlage oder in den Fällen des § 7c Absatz 3 der bestehende Dampferzeuger muss stattdessen bis zum Ablauf des 31. März 2024 endgültig stillgelegt sein.
+
+(23) § 5 Absatz 2 in der bis zum 31. Dezember 2020 geltenden Fassung ist anzuwenden auf KWK-Anlagen in innovativen KWK-Systemen, die vor dem 1. Januar 2021 in einer Ausschreibung nach Maßgabe einer Rechtsverordnung nach § 33b einen Ausschreibungszuschlag erhalten haben.
+
+(24) § 7b darf erst nach der beihilferechtlichen Genehmigung durch die Europäische Kommission und nur nach Maßgabe der Genehmigung angewandt werden.
 
 
 ### § 36 (weggefallen)

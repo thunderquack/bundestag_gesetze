@@ -401,13 +401,10 @@ In einer völkerrechtlichen Vereinbarung kann auch festgelegt werden, dass ein T
 
 
 
-    e)  dass der Bieter der Eigentümer der Flächen ist, auf denen die KWK-Anlage oder das innovative KWK-System errichtet oder modernisiert werden soll, oder dass er das Gebot mit Zustimmung des Eigentümers der Flächen abgibt,
+    e)  dass der Bieter der Eigentümer der Flächen ist, auf denen die KWK-Anlage oder das innovative KWK-System errichtet oder modernisiert werden soll, oder dass er das Gebot mit Zustimmung des Eigentümers der Flächen abgibt.
 
 
 
-
-
-13. im Rahmen der Ausschreibungen für innovative KWK-Systeme einen Wärmetransformationsplan, der nachvollziehbar darlegt, mit welchen Maßnahmen der Betreiber das innovative KWK-System in das Wärmenetz integrieren und die Dekarbonisierung des mit dem innovativen KWK-System verbundenen Wärmenetzes in den ersten zehn Jahren ab Aufnahme des Dauerbetriebs im Sinn des Klimaschutzes und einer sicheren Wärmeversorgung voranbringen will; sofern kein Anschluss des innovativen KWK-Systems an ein Wärmenetz erfolgt, hat der Wärmetransformationsplan nachvollziehbar darzulegen, mit welchen Maßnahmen der Betreiber das innovative KWK-System in die Wärmeversorgung der Wärmesenke integrieren will und diese Wärmeversorgung in den ersten zehn Jahren ab Aufnahme des Dauerbetriebs weiter dekarbonisieren will.
 
 
 
@@ -767,7 +764,7 @@ Abweichend von Satz 1 Nummer 1 darf der in der KWK-Anlage oder dem innovativen K
 
 
 
-In sonstigen Fällen, in denen kein Anschluss des innovativen KWK-Systems an ein Wärmenetz erfolgt, ist Satz 1 mit der Maßgabe anzuwenden, dass anstelle der Einspeisung in ein Wärmenetz die anderweitige Wärmebereitstellung für Raumheizung, Warmwasserbereitung, Kälteerzeugung oder Prozesswärme maßgeblich ist. In dem Kalenderjahr, in dem die KWK-Anlage in Betrieb genommen wird, sind die Sätze 1 und 2 mit der Maßgabe entsprechend anzuwenden, dass für dieses Kalenderjahr anstelle des Wertes von 30 Prozent ein Wert von 2,5 Prozent pro Kalendermonat, der nach der Inbetriebnahme für dieses Kalenderjahr verbleibt, anzusetzen ist.
+In sonstigen Fällen, in denen kein Anschluss des innovativen KWK-Systems an ein Wärmenetz erfolgt, ist Satz 1 mit der Maßgabe anzuwenden, dass anstelle der Einspeisung in ein Wärmenetz die anderweitige Wärmebereitstellung für Raumheizung, Warmwasserbereitung, Kälteerzeugung oder Prozesswärme maßgeblich ist. In dem Kalenderjahr, in dem die KWK-Anlage in Betrieb genommen wird, sind die Sätze 1 und 2 mit der Maßgabe entsprechend anzuwenden, dass für dieses Kalenderjahr anstelle des Wertes von 30 Prozent ein Wert von 2,5 Prozent pro Kalendermonat und anstelle des Wertes von 35 Prozent ein Wert von 2,92 Prozent pro Kalendermonat, der nach der Inbetriebnahme für dieses Kalenderjahr verbleibt, anzusetzen ist.
 
 (6) Entgegen den Absätzen 2 bis 5 erhaltene Zahlungen sind dem zur Auszahlung der Zuschlagszahlung verpflichteten Netzbetreiber vollumfänglich zurückzugewähren; die Einrede der Entreicherung ist ausgeschlossen. Die Netzbetreiber müssen die nach Satz 1 erhaltenen Zahlungen als Einnahmen im Rahmen des Belastungsausgleichs nach § 28 des Kraft-Wärme-Kopplungsgesetzes verbuchen.
 
@@ -780,26 +777,17 @@ In sonstigen Fällen, in denen kein Anschluss des innovativen KWK-Systems an ein
 
 (1) Bieter, die einen Zuschlag nach § 11 erhalten haben, der nicht vollständig entwertet worden ist, sind bis zur Zulassung der KWK-Anlage oder des innovativen KWK-Systems durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle verpflichtet, der ausschreibenden Stelle oder einer von dieser benannten dritten Stelle jeweils bis zum 31. Mai eines jeden Jahres den Projektfortschritt mitzuteilen. Bei der Mitteilung nach Satz 1 ist anzugeben, welcher der folgenden Realisierungsschritte im Hinblick auf die KWK-Anlage oder das innovative KWK-System bereits verwirklicht wurde:
 
-1.  Genehmigungserteilung nach dem Bundes-Immissionsschutzgesetz,
+1.  Aufnahme des Probebetriebs,
 
 
-2.  verbindliche Bestellung,
+2.  Aufnahme oder Wiederaufnahme des Dauerbetriebs der KWK-Anlage,
 
 
-3.  Baubeginn,
-
-
-4.  Aufnahme des Probebetriebs,
-
-
-5.  Aufnahme oder Wiederaufnahme des Dauerbetriebs der KWK-Anlage,
-
-
-6.  Aufnahme des Dauerbetriebs der Komponenten zur Bereitstellung innovativer erneuerbarer Wärme des innovativen KWK-Systems.
+3.  Aufnahme des Dauerbetriebs der Komponenten zur Bereitstellung innovativer erneuerbarer Wärme des innovativen KWK-Systems.
 
 
 
-Die Mitteilung nach Satz 1 hat mittels eines von der ausschreibenden Stelle veröffentlichten Formulars zu erfolgen. Wurde der Dauerbetrieb der Komponenten zur Bereitstellung innovativer erneuerbarer Wärme des innovativen KWK-Systems aufgenommen, ist zusätzlich anzugeben, ob und in welcher Höhe eine investive Förderung nach den Richtlinien zur Förderung der Nutzung erneuerbarer Energien im Wärmemarkt in Anspruch genommen wurde. Die Mitteilung nach Satz 4 hat zusätzlich gegenüber dem zuständigen Netzbetreiber zu erfolgen.
+Die Mitteilung nach Satz 1 hat mittels eines von der ausschreibenden Stelle veröffentlichten Formulars zu erfolgen. Wurde der Dauerbetrieb der Komponenten zur Bereitstellung innovativer erneuerbarer Wärme des innovativen KWK-Systems aufgenommen, ist zusätzlich anzugeben, ob und in welcher Höhe eine investive Förderung nach den Richtlinien zur Förderung der Nutzung erneuerbarer Energien im Wärmemarkt oder nach der Bundesförderung für effiziente Wärmenetze in Anspruch genommen wurde. Die Mitteilung nach Satz 4 hat zusätzlich gegenüber dem zuständigen Netzbetreiber zu erfolgen.
 
 (2) Während der Dauer der Zuschlagszahlung ist dem Bundesamt für Wirtschaft und Ausfuhrkontrolle und dem zur Zuschlagszahlung verpflichteten Netzbetreiber jeweils bis zum 31. März des darauffolgenden Kalenderjahres vorzulegen
 
@@ -908,7 +896,7 @@ Die Höhe der Pönale nach Absatz 1 Nummer 3 berechnet sich aus der Gebotsmenge 
 
 
 
-(6) Die Übertragungsnetzbetreiber müssen die nach Absatz 1 zu leistenden Pönalen als Einnahme im Rahmen des Belastungsausgleichs nach § 28 des Kraft-Wärme-Kopplungsgesetzes verbuchen. Sie müssen den Eingang der Pönalen von Bietern der ausschreibenden Stelle unverzüglich mitteilen.
+(6) Die Übertragungsnetzbetreiber müssen die nach Absatz 1 zu leistenden Pönalen als Einnahme im Rahmen des Belastungsausgleichs nach Anlage 1 Nummer 6.2 des Energiefinanzierungsgesetzes verbuchen. Sie müssen den Eingang der Pönalen von Bietern der ausschreibenden Stelle unverzüglich mitteilen.
 
 
 ## § 22 Rechtsschutz

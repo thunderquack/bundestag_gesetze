@@ -2665,6 +2665,11 @@ Mit Ausnahme der Klageschrift und solcher Schriftsätze, die Sachanträge enthal
 (4) Die Parteien sind von jeder Anordnung zu benachrichtigen. Wird das persönliche Erscheinen der Parteien angeordnet, so gelten die Vorschriften des § 141 Abs. 2, 3.
 
 
+##### § 273a Geheimhaltung
+
+Das Gericht kann auf Antrag einer Partei streitgegenständliche Informationen ganz oder teilweise als geheimhaltungsbedürftig einstufen, wenn diese ein Geschäftsgeheimnis nach § 2 Nummer 1 des Gesetzes zum Schutz von Geschäftsgeheimnissen sein können; die §§ 16 bis 20 des Gesetzes zum Schutz von Geschäftsgeheimnissen sind entsprechend anzuwenden.
+
+
 ##### § 274 Ladung der Parteien; Einlassungsfrist
 
 (1) Nach der Bestimmung des Termins zur mündlichen Verhandlung ist die Ladung der Parteien durch die Geschäftsstelle zu veranlassen.
@@ -3339,7 +3344,7 @@ Erscheint der Kläger im Termin zur mündlichen Verhandlung nicht, so ist auf An
 
 ##### § 331 Versäumnisurteil gegen den Beklagten
 
-(1) Beantragt der Kläger gegen den im Termin zur mündlichen Verhandlung nicht erschienenen Beklagten das Versäumnisurteil, so ist das tatsächliche mündliche Vorbringen des Klägers als zugestanden anzunehmen. Dies gilt nicht für Vorbringen zur Zuständigkeit des Gerichts nach § 29 Abs. 2, § 38.
+(1) Beantragt der Kläger gegen den im Termin zur mündlichen Verhandlung nicht erschienenen Beklagten das Versäumnisurteil, so ist das tatsächliche mündliche Vorbringen des Klägers als zugestanden anzunehmen. Dies gilt nicht für Vorbringen zur Zuständigkeit des Gerichts nach § 29 Abs. 2, § 38 sowie für Vorbringen zur Sprache des Gerichts nach § 184a Absatz 3 des Gerichtsverfassungsgesetzes.
 
 (2) Soweit es den Klageantrag rechtfertigt, ist nach dem Antrag zu erkennen; soweit dies nicht der Fall, ist die Klage abzuweisen.
 
@@ -4809,7 +4814,7 @@ Erfolgt die Verurteilung zur Vornahme einer Handlung, so kann der Beklagte zugle
 
 #### § 511 Statthaftigkeit der Berufung
 
-(1) Die Berufung findet gegen die im ersten Rechtszug erlassenen Endurteile statt.
+(1) Die Berufung findet gegen die im ersten Rechtszug erlassenen Endurteile der Amts- und Landgerichte statt.
 
 (2) Die Berufung ist nur zulässig, wenn
 
@@ -5989,15 +5994,95 @@ Werden im Urkundenprozess Ansprüche aus Wechseln im Sinne des Wechselgesetzes g
 Werden im Urkundenprozess Ansprüche aus Schecks im Sinne des Scheckgesetzes geltend gemacht (Scheckprozess), so sind die §§ 602 bis 605 entsprechend anzuwenden.
 
 
-## Buch 6 - (weggefallen)
+## Buch 6 - Weitere besondere Verfahren
 
 
 
-### (XXXX) §§ 606 bis 614 (weggefallen)
+### Abschnitt 1 - Englischsprachige Verfahren
 
 
 
-### (XXXX) §§ 615 bis 687 (weggefallen)
+#### § 606 Klageschrift
+
+Soll ein Verfahren nach Maßgabe des § 184a Absatz 1 des Gerichtsverfassungsgesetzes vollständig in englischer Sprache geführt werden, so ist dies in der englischsprachigen Klageschrift anzugeben. Sofern die Parteien eine Vereinbarung über die Führung des Verfahrens in englischer Sprache getroffen haben, ist diese Vereinbarung in der Klageschrift darzulegen.
+
+
+#### § 607 Beteiligung Dritter am Rechtsstreit
+
+(1) In einem in englischer Sprache geführten Verfahren gilt ein englischsprachiger Schriftsatz, der die Einbeziehung eines Dritten in den Rechtsstreit bewirken soll, als nicht zugestellt, wenn der Dritte die englische Sprache nicht versteht und der Zustellung deshalb binnen zwei Wochen gegenüber dem Gericht widerspricht. Auf das Recht zum Widerspruch nach Satz 1 hat das Gericht den Dritten in deutscher Sprache hinzuweisen.
+
+(2) Hat der Dritte der Zustellung nach Absatz 1 Satz 1 widersprochen, so setzt das Gericht die betroffene Partei hiervon unverzüglich in Kenntnis und fordert diese auf, binnen einer Frist von zwei Wochen eine Übersetzung des Schriftsatzes in die deutsche Sprache einzureichen.
+
+(3) Hat der Dritte der Zustellung nach Absatz 1 Satz 1 widersprochen, so kann die Zustellung dadurch erfolgen, dass dem Dritten der englischsprachige Schriftsatz zusammen mit einer Übersetzung in die deutsche Sprache zugestellt wird. In diesem Fall ist der Tag der Zustellung des Schriftsatzes der Tag, an dem die Zustellung nach Satz 1 bewirkt wird. Soll durch die Zustellung eine Frist gewahrt werden oder die Verjährung neu beginnen oder nach § 204 des Bürgerlichen Gesetzbuchs gehemmt werden, tritt diese Wirkung mit dem Tag ein, an dem der englischsprachige Schriftsatz dem Dritten erstmals zugestellt worden ist, wenn die Frist des Absatzes 2 gewahrt wurde.
+
+(4) Kosten einer Übersetzung nach Absatz 2 werden nicht erstattet.
+
+
+#### § 608 Übersetzung
+
+(1) Auf Antrag einer Partei ist eine vollstreckbare gerichtliche Entscheidung in die deutsche Sprache zu übersetzen. Die Übersetzung muss nicht den Tatbestand und die Entscheidungsgründe umfassen. Die Übersetzung ist untrennbar mit der vollständig abgefassten Entscheidung zu verbinden.
+
+(2) Auf Antrag einer Partei ist ein Vergleich nach § 794 Absatz 1 Nummer 1 in die deutsche Sprache zu übersetzen und die Übersetzung untrennbar mit dem Vergleich zu verbinden.
+
+(3) Ist die Veröffentlichung einer gerichtlichen Entscheidung beabsichtigt, hat das Gericht die Übersetzung der vollständig abgefassten Entscheidung in die deutsche Sprache zu veranlassen und beide Sprachfassungen zusammen zu veröffentlichen. Wird das Verfahren aufgrund einer Entscheidung nach § 273a nichtöffentlich geführt, so soll die Übersetzung der Entscheidung dergestalt auszugsweise erfolgen, dass keine Rückschlüsse auf schutzwürdige Einzelheiten des Verfahrens möglich sind.
+
+
+#### § 609 Rechtsmittelschrift
+
+(1) Rechtsmittelschriften gegen Entscheidungen in Verfahren, die in englischer Sprache geführt worden sind, sind in englischer Sprache einzureichen.
+
+(2) In Verfahren vor dem Bundesgerichtshof gilt Absatz 1 nur, wenn ein Antrag nach § 184b Absatz 1 Satz 1 Nummer 2 des Gerichtsverfassungsgesetzes gestellt wird. Wird der Antrag abgelehnt, ist die Rechtsmittelschrift auf Anforderung des Gerichts in deutscher Sprache nachzureichen.
+
+
+### Abschnitt 2 - Verfahren vor den Commercial Courts und den Commercial Chambers
+
+
+
+#### § 610 Anwendbare Vorschriften vor den Commercial Courts; Klageschrift
+
+(1) Für das Verfahren vor den Commercial Courts im ersten Rechtszug (§ 119b Absatz 1 des Gerichtsverfassungsgesetzes) sind die im ersten Rechtszug für das Verfahren vor den Landgerichten geltenden Vorschriften mit Ausnahme der §§ 348 bis 350 entsprechend anzuwenden, soweit sich aus den Vorschriften dieses Abschnittes keine Abweichungen ergeben.
+
+(2) In der Klageschrift ist zu beantragen, dass das Verfahren in erster Instanz vor dem Commercial Court geführt wird. Sofern die Parteien eine Vereinbarung über die Führung des Verfahrens in erster Instanz vor dem Commercial Court getroffen haben, ist diese Vereinbarung in der Klageschrift darzulegen.
+
+
+#### § 611 Verweisung an den Commercial Court
+
+(1) Wird in Verfahren, in denen die Parteien die Zuständigkeit des Commercial Courts vereinbaren können, die Klage beim Landgericht anhängig gemacht, so hat sich dieses für unzuständig zu erklären und den Rechtsstreit an den vom Kläger bezeichneten Commercial Court zu verweisen, wenn
+
+1.  der Kläger dies in der Klageschrift beantragt hat und
+
+
+2.  der Beklagte der Verweisung bis zum Ende der Klageerwiderungsfrist zustimmt.
+
+
+
+Satz 1 gilt entsprechend, wenn der Beklagte in der Klageerwiderung die Verweisung an den Commercial Court beantragt und der Kläger innerhalb der hierfür vom Gericht gesetzten Frist zustimmt.
+
+(2) Wird durch Widerklage oder durch Erweiterung des Klageantrags (§ 264 Nummer 2 oder 3) ein Anspruch erhoben, der die Zuständigkeit des Commercial Courts begründet, so hat sich das angerufene Gericht auf Antrag einer Partei für unzuständig zu erklären und den Rechtsstreit an den Commercial Court zu verweisen, sofern die Parteien die Anrufung des Commercial Courts vereinbart haben oder mit der Verweisung einverstanden sind.
+
+(3) Die Vorschrift des § 281 Absatz 2 und 3 Satz 1 gilt entsprechend.
+
+
+#### § 612 Organisationstermin
+
+Der Commercial Court im ersten Rechtszug und die Commercial Chamber treffen mit den Parteien so früh wie möglich in einem Organisationstermin Vereinbarungen über die Organisation und den Ablauf des Verfahrens, sofern keine sachlichen oder organisatorischen Gründe entgegenstehen. Die §§ 224, 296 und 356 gelten für Vereinbarungen, die im Rahmen eines Organisationstermins getroffen wurden, entsprechend.
+
+
+#### § 613 Wortprotokoll
+
+(1) Vor dem Commercial Court und der Commercial Chamber ist auf übereinstimmenden Antrag der Parteien im ersten Rechtszug das Protokoll als ein während der Verhandlung oder einer Beweisaufnahme für die Parteien mitlesbares Wortprotokoll zu führen, soweit dem keine tatsächlichen Gründe entgegenstehen. Abweichend von Satz 1 können die Parteien übereinstimmend auf die Mitlesbarkeit des Wortprotokolls verzichten.
+
+(2) Das Gericht kann auch eine oder mehrere geeignete gerichtsfremde Protokollpersonen zuziehen, wenn dies zur ordnungsgemäßen Aufnahme des Wortprotokolls erforderlich ist. Jede Protokollperson hat einen Eid dahingehend zu leisten, dass sie das Wortprotokoll unparteiisch und nach bestem Wissen und Gewissen erstellen wird. Ist die Protokollperson gemäß § 189 Absatz 2 des Gerichtsverfassungsgesetzes allgemein beeidigt, genügt die Berufung auf diesen Eid. § 189 Absatz 1 Satz 2 und 3 und Absatz 4 des Gerichtsverfassungsgesetzes ist entsprechend anzuwenden. Für die Zwecke der Protokollführung gelten Protokollpersonen nach Satz 1 als Urkundsbeamte der Geschäftsstelle.
+
+(3) Die Entscheidungen nach den Absätzen 1 und 2 sind unanfechtbar.
+
+
+#### § 614 Rechtsmittel gegen Urteile des Commercial Courts
+
+Gegen Urteile des Commercial Courts findet die Revision statt. Die Revision gegen Urteile im ersten Rechtszug bedarf keiner Zulassung.
+
+
+#### (XXXX) §§ 615 bis 687 (weggefallen)
 
 
 
