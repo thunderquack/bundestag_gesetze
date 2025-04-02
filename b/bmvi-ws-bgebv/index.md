@@ -20,6 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 29.1.2025 I Nr. 28
 
+Änderung durch
+:   Art. 1 V v. 25.3.2025 I Nr. 100 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -246,10 +249,13 @@ Im Zuständigkeitsbereich des Bundesministeriums für Digitales und Verkehr für
 72. Maritime-Medizin-Verordnung (MariMedV),
 
 
-73. EU-Fahrgastrechte-Schifffahrt-Gesetz (EU-FahrgRSchG),
+73. See-Unterkunftsverordnung (SeeUnterkunftsV)
 
 
-74. Sportseeschifferscheinverordnung (SportSeeSchV).
+74. EU-Fahrgastrechte-Schifffahrt-Gesetz (EU-FahrgRSchG),
+
+
+75. Sportseeschifferscheinverordnung (SportSeeSchV).
 
 
 
@@ -586,7 +592,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
     *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer festen Anlage für die Berufsschifffahrt auf Seeschifffahrtsstraßen
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   1 688 – 11 253
@@ -596,7 +602,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
     *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer schwimmenden Anlage für die Freizeitschifffahrt
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   316 – 2 813
@@ -606,7 +612,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
     *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer schwimmenden Anlage für die Berufsschifffahrt
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   1 688 – 4 220
@@ -616,7 +622,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
     *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Bootseinsatzstelle
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   703 – 4 220
@@ -626,7 +632,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
     *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Bootshebeanlage
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   1 055 – 5 626
@@ -636,7 +642,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
     *   Strom- und schifffahrtspolizeiliche Genehmigung für den Neubau oder die Grundsanierung einer Brücke
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   3 516 – 14 066
@@ -646,7 +652,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
     *   Strom- und schifffahrtspolizeiliche Genehmigung für Unterhaltungsarbeiten an einer Brücke
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   703 – 5 626
@@ -656,7 +662,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
     *   Strom- und schifffahrtspolizeiliche Genehmigung für Unterhaltungsarbeiten an bestehenden Anlagen
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   281 – 2 813
@@ -664,9 +670,9 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
 *    *   28
 
-    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb einer Rohrbrücke
+    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Rohrbrücke
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   1 688 – 5 626
@@ -674,9 +680,9 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
 *    *   29
 
-    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb eines Dalbens
+    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb eines Dalbens
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   422 – 2 813
@@ -684,9 +690,9 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
 *    *   30
 
-    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb einer unterirdischen Leitungskreuzung
+    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer unterirdischen Leitungskreuzung
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   1 125 – 7 033
@@ -694,9 +700,9 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
 *    *   31
 
-    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb einer oberirdischen Leitungskreuzung
+    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer oberirdischen Leitungskreuzung
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   562 – 4 220
@@ -706,7 +712,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
     *   Strom- und schifffahrtspolizeiliche Genehmigung für die Verlegung einer Leitung
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   bei einer Länge von weniger als 1 km
@@ -719,9 +725,9 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
 *    *   33
 
-    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb eines Einleitungs- oder Entnahmebauwerks
+    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb eines Einleitungs- oder Entnahmebauwerks
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   562 – 8 440
@@ -729,9 +735,9 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
 *    *   34
 
-    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb eines sonstigen Bauwerks an einer Bundeswasserstraße
+    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb eines sonstigen Bauwerks an einer Bundeswasserstraße
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   844 – 2 813
@@ -739,9 +745,9 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
 *    *   35
 
-    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb temporärer Bauwerke mit Blendwirkung
+    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb temporärer Bauwerke
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   281 – 844
@@ -749,9 +755,9 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
 *    *   36
 
-    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb von Messstationen
+    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb von Messstationen
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   281 – 2 110
@@ -759,9 +765,9 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
 *    *   37
 
-    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb von Lichtinstallationen an Bundeswasserstraßen
+    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb von Lichtinstallationen an Bundeswasserstraßen
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   281 – 844
@@ -769,9 +775,9 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
 *    *   38
 
-    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb einer Uferbefestigung
+    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Uferbefestigung
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   562 – 5 626
@@ -779,9 +785,9 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
 *    *   39
 
-    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb von Wasserbauwerken
+    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb von Wasserbauwerken
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   562 – 5 626
@@ -789,9 +795,9 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
 *    *   40
 
-    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb eines Tunnels
+    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb eines Tunnels
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   3 516 – 14 066
@@ -799,9 +805,9 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für gebühr
 
 *    *   41
 
-    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung oder den Betrieb einer Seilbahn
+    *   Strom- und schifffahrtspolizeiliche Genehmigung für die Errichtung, die Veränderung und den Betrieb einer Seilbahn
 
-    *   § 31 Absatz 2 Nummer 2 WaStrG
+    *   § 31 Absatz 1 Nummer 2 WaStrG
 
     *
     *   1 688 – 5 626
@@ -3389,7 +3395,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 
     *   Erlass von Verboten oder Geboten sowie Zulassung von Ausnahmen jeweils im Einzelfall
 
-    *   § 13 oder § 15 Absatz 1a SeeSpbootV
+    *   § 13 oder § 15 Absatz 2 SeeSpbootV
 
     *   297 – 595
 
@@ -3755,16 +3761,16 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 1.  Bei den Gebühren für die Genehmigung zur Führung einer anderen Nationalflagge wird die Gebühr einer zuvor erteilten Genehmigung, deren Bewilligungszeitraum noch nicht abgelaufen ist, anteilig berücksichtigt.
 
 
-2.  Bei den Gebührennummern 20-22, 24-30 sowie 32-33 werden die Reisekosten gesondert als Auslagen erhoben.
+2.  Bei den Gebührennummern 20-22, 24 - 30, 32 - 33 und 145 werden die Reisekosten gesondert als Auslagen erhoben.
 
 
 3.  Bei den Gebührennummern 34-43 werden die Kosten für Auslandsdienstreisen gesondert als Auslagen erhoben.
 
 
-4.  Bei der Gebührennummer 147 werden die Kosten für externe Labore, Sachverständige oder Gutachter als Auslagen erhoben.
+4.  Bei der Gebührennummer 150 werden die Kosten für externe Labore, Sachverständige oder Gutachter als Auslagen erhoben.
 
 
-5.  Bei den Gebührennummern 145-148 werden Gebühren nur erhoben, wenn Nichtkonformitäten festgestellt wurden.
+5.  Bei den Gebührennummern 148 - 151 werden Gebühren nur erhoben, wenn Nichtkonformitäten festgestellt wurden.
 
 
 
@@ -4173,7 +4179,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
     *   Zulassung eines Ballastwasser-
         Behandlungssystems mit veränderter Durchflussrate aufgrund von Erprobungen an Bord und an Land
 
-    *   § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAnlG
+    *   § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG
 
     *   68 552
 
@@ -4182,7 +4188,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 
     *   Zulassung eines Ballastwasser-Behandlungssystems mit veränderter Durchflussrate aufgrund der Überprüfung von Dokumenten
 
-    *   § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAnlG
+    *   § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG
 
     *   nach
         Zeitaufwand
@@ -4193,7 +4199,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
     *   Zulassung technischer Änderungen an zugelassenen Ballastwasser-
         Behandlungssystemen
 
-    *   § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAnlG
+    *   § 1 Nummer 16, § 5 Absatz 1 Nummer 4c SeeAufgG
 
     *   nach
         Zeitaufwand
@@ -5275,7 +5281,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 
     *   Befreiungen nach Regel 4 Teil A, Kapitel I i. V. m. Kapitel XI SOLAS
 
-    *   § 4 Anlage A.I.11.1, 11.2 SchSG
+    *   § 4, Anlage A.I.11.1, 11.2 SchSG
         i. V. m. Regel 4 Teil A, Kapitel I
         i. V. m. Kapitel XI SOLAS
 
@@ -5286,7 +5292,7 @@ Gebühren der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 
     *   Anlassbezogene Sonderbescheinigungen
 
-    *   § 4 Anlage A.I.11.1, 11.2 SchSG
+    *   § 4, Anlage A.I.11.1, 11.2 SchSG
         i. V. m. SOLAS Kapitel XI-1, XI-2
 
     *   149 – 329
@@ -5592,7 +5598,7 @@ Gebühren und Auslagen
 
 *    *   0201
 
-    *   Erteilung eines Sicherheitszeugnisses für Schiffe in der Auslandsfahrt vor Indienststellung einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen
+    *   Erteilung eines Sicherheitszeugnisses für Schiffe vor Indienststellung einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen
 
     *   § 9 Absatz 1 und 3 Nummer 2,
         Anlage 2 Abschnitt A. 1. Nummer 2 und 3 SchSV i. V. m. SOLAS Regel I/12
@@ -5602,7 +5608,7 @@ Gebühren und Auslagen
 
 *    *   0202
 
-    *   Erteilung eines Sicherheitszeugnisses für vorhandene Schiffe in der Auslandsfahrt einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen
+    *   Erteilung eines Sicherheitszeugnisses für vorhandene Schiffe einschließlich der Bestätigung für die durchzuführenden jährlichen und/oder regelmäßigen Besichtigungen
 
     *   § 9 Absatz 1 und 3 Nummer 2,
         Anlage 2 Abschnitt A. 1. Nummer 2 und 3 SchSV i. V. m. SOLAS Regel I/12
@@ -6039,6 +6045,16 @@ Gebühren und Auslagen
     *   359
 
 
+*    *   2103
+
+    *   Erteilung des Internationalen Ausnahmezeugnisses für unbemannte Bargen ohne eigenen Antrieb (UNSP-Bargen) in Bezug auf die Verhütung der Ölverschmutzung nach MARPOL Anlage I Regel 3 Absatz 7
+
+    *   § 9 Absatz 1 und 3 Nummer 1
+        i. V. m. § 3 Absatz 3 Nummer 2 und Anlage 2 Abschnitt A. 1. II. Nummer 14a SchSV i. V. m. MARPOL Anlage I Regel 3 Absatz 7
+
+    *   164
+
+
 *    *   **C. Internationales Zeugnis über die Verhütung der Verschmutzung bei der Beförderung schädlicher flüssiger Stoffe als Massengut**
 
 
@@ -6077,6 +6093,16 @@ Gebühren und Auslagen
     *   § 9 Absatz 1 und 3 Nummer 1,
         Anlage 2 Abschnitt A. 1. II. Nummer 16a SchSV i. V. m. MARPOL Anlage IV Regel 5 und 6 oder Anlage 2 Abschnitt A. 1. VII. Nummer 27 a) aa) SchSV i. V. m. Artikel 6 der Verordnung (EG) Nr. 782/2003 oder Anlage 2 Abschnitt A. 1. VII. Nummer 27 a) bb) SchSV
         i. V. m. Anlage 4 Regel 2 des AFS-Übereinkommens
+
+    *   164
+
+
+*    *   2303
+
+    *   Erteilung des Internationalen Ausnahmezeugnisses für unbemannte Bargen ohne eigenen Antrieb (UNSP-Bargen) in Bezug auf die Verhütung der Verschmutzung durch Abwasser nach MARPOL Anlage IV Regel 3 Absatz 2
+
+    *   § 9 Absatz 1 und 3 Nummer 1
+        i. V. m. Anlage 2 Abschnitt A. 1. II. Nummer 16b SchSV i. V. m. MARPOL Anlage IV Regel 3 Absatz 2
 
     *   164
 
@@ -6146,6 +6172,16 @@ Gebühren und Auslagen
         Regel 13 i. V. m. Kapitel 2 der Technischen NOx-Vorschrift 2008 MARPOL Anlage VI Regel 13 i. V. m. Kapitel 2 der Technischen NOx-Vorschrift 2008
 
     *   240
+
+
+*    *   2406
+
+    *   Erteilung des Internationalen Ausnahmezeugnisses für unbemannte Bargen ohne eigenen Antrieb (UNSP-Bargen) in Bezug auf die Verhütung der Luftverunreinigung durch Schiffe nach MARPOL Anlage VI Regel 3 Absatz 4
+
+    *   § 9 Absatz 1 und 3 Nummer 1
+        i. V. m. Anlage 2 Abschnitt A. 1. II. Nummer 17b SchSV i. V. m. MARPOL Anlage VI Regel 3 Absatz 4
+
+    *   164
 
 
 *    *   **F. Sonstige individuell zurechenbare öffentliche Leistungen auf dem Gebiet der Verhütung der Meeresverschmutzung**
@@ -6697,6 +6733,20 @@ Gebühren und Auslagen
     *   65,80
 
 
+*    *   3109
+
+    *   Erteilung von Ausnahmen und Genehmigungen aufgrund der SeeUnterkunftsV
+
+    *   § 5 Absatz 1, § 6 Absatz 1,
+        § 7 Absatz 1, § 15 Absatz 2 und 4,
+        § 16 Absatz 2 und 8, § 17 Absatz 6,
+        § 18 Absatz 3, § 19 Absatz 2,
+        § 20 Absatz 4 und 7,
+        § 25 SeeUnterkunftsV
+
+    *   65,80
+
+
 *    *   **C. Individuell zurechenbare öffentliche Leistungen auf dem Gebiet der Besetzung von Schiffen nach Schiffsbesetzungsverordnung und STCW-Übereinkommen**
 
 
@@ -6854,10 +6904,10 @@ Gebühren für gebührenpflichtige Leistungen
     b)  Sind aus Gründen des Gesundheitsschutzes behördliche Hygiene- und Schutzmaßnahmen zu beachten, können die diesbezüglichen Mehraufwendungen in der tatsächlich entstandenen Höhe, jedoch lediglich bis maximal 9 Euro für die theoretische und bis maximal 10 Euro für die praktische Prüfung als Auslagen erhoben werden.
 
 
-    c)  Sollte ein Befähigungsnachweis nicht zugestellt werden können und ein erneuter Zustellungsversuch notwendig werden, wird für die erneute Zustellung ein Zuschlag in Höhe von 15 Euro als Auslage erhoben.
+    c)  Sollte ein Befähigungsnachweis nicht zugestellt werden können und ein erneuter Zustellungsversuch notwendig werden, wird für die erneute Zustellung ein Zuschlag in Höhe von 15,30 Euro als Auslage erhoben.
 
 
-    d)  Für eine Auslandszustellung der Befähigungsnachweise nach dem Tabellenabschnitt 1 durch die beliehenen Verbände wird ein Zuschlag in Höhe von 7 Euro als Auslage erhoben. Für Auslandszustellungen nach dem Tabellenabschnitt 2 und Tabellenabschnitt 1 Nummer 14 wird ein Zuschlag von 1,60 Euro als Auslage erhoben.
+    d)  Für eine Auslandszustellung der Befähigungsnachweise nach dem Tabellenabschnitt 1 durch die beliehenen Verbände wird ein Zuschlag in Höhe von 7,35 Euro erhoben. Für Auslandszustellungen nach dem Tabellenabschnitt 2 und Tabellenabschnitt 1 Nummer 14 wird ein Zuschlag in Höhe von 1,95 Euro als Auslage erhoben.
 
 
 
@@ -7252,7 +7302,7 @@ Gebühren für gebührenpflichtige Leistungen
     *   § 10 Absatz 2 und 3, § 12 Absatz 4,
         § 11 Absatz 3 SportSeeSchV
 
-    *   16,70
+    *   17
 
 
 *    *   26
@@ -7262,7 +7312,7 @@ Gebühren für gebührenpflichtige Leistungen
     *   § 10 Absatz 4
         i. V. m. § 12 Absatz 4 SportSeeSchV
 
-    *   36,20
+    *   36,50
 
 
 *    *   27
@@ -7271,7 +7321,7 @@ Gebühren für gebührenpflichtige Leistungen
 
     *   § 6 Absatz 4 SportSeeSchV
 
-    *   18,25
+    *   18,55
 
 
 *    *   28
@@ -7280,7 +7330,7 @@ Gebühren für gebührenpflichtige Leistungen
 
     *   § 12 Absatz 1 und 2 SportSeeSchV
 
-    *   42
+    *   42,30
 
 
 *    *   29
@@ -7290,7 +7340,7 @@ Gebühren für gebührenpflichtige Leistungen
 
     *   § 12 Absatz 1 und 2 SportSeeSchV
 
-    *   44,70
+    *   45
 
 
 *    *   30
@@ -7300,7 +7350,7 @@ Gebühren für gebührenpflichtige Leistungen
     *   § 13 Absatz 4a
         i. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV
 
-    *   43,15
+    *   43,45
 
 
 *    *   31
@@ -7310,7 +7360,7 @@ Gebühren für gebührenpflichtige Leistungen
     *   § 13 Absatz 4a
         i. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV
 
-    *   46,10
+    *   46,40
 
 
 *    *   32
@@ -7319,7 +7369,7 @@ Gebühren für gebührenpflichtige Leistungen
 
     *   § 12 Absatz 3 SportSeeSchV
 
-    *   44,70
+    *   45
 
 
 *    *   33
@@ -7328,7 +7378,7 @@ Gebühren für gebührenpflichtige Leistungen
 
     *   § 12 Absatz 4 SportSeeSchV
 
-    *   42
+    *   42,30
 
 
 *    *   34
@@ -7338,7 +7388,7 @@ Gebühren für gebührenpflichtige Leistungen
     *   § 13 Absatz 4a
         i. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV
 
-    *   43,15
+    *   43,45
 
 
 *    *   35
@@ -7348,7 +7398,7 @@ Gebühren für gebührenpflichtige Leistungen
     *   § 13 Absatz 4a
         i. V. m. Anlage 3 Abschnitt C Nummer 3 SchSV
 
-    *   45,10
+    *   45,40
 
 
 

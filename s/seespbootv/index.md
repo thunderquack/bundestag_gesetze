@@ -22,6 +22,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 2 Abs. 2 V v. 22.11.2024 I Nr. 370 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 2 V v. 25.3.2025 I Nr. 100 mWv 2.4.2025 noch nicht berücksichtigt
+
 [^BJNR345710002_01]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen Parlaments und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), zuletzt geändert durch die Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20. Juli 1998 (ABl. EG Nr. L 217 S. 18) sind beachtet worden.
 [^BJNR345710002_02]:     § 3 dieser Verordnung dient der Umsetzung der Richtlinie 94/25/EG des Europäischen Parlaments und des Rates vom 16. Juni 1994 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über Sportboote (ABl. EG Nr. L 164 S. 15), soweit sie die Inbetriebnahme von Sportbooten auf den Seeschifffahrtsstraßen und den seewärts angrenzenden Gewässern betrifft. Hinsichtlich des Inverkehrbringens von Sportbooten wird die Richtlinie 94/25/EG durch die Verordnung über das Inverkehrbringen von Sportbooten vom 18. Dezember 1995 (BGBl. I S. 1936) umgesetzt.
 

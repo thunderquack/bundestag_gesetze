@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 1 V v. 29.1.2025 I Nr. 28 mWv 6.2.2025 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 6 V v. 25.3.2025 I Nr. 100 mWv 2.4.2025 noch nicht berücksichtigt
+
 
 ## § 1 Zielsetzung und Geltungsbereich
 

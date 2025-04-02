@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 72 Abs. 5 G v. 23.10.2024 I Nr. 323
 
+Änderung durch
+:   Art. 4 V v. 25.3.2025 I Nr. 100 mWv 2.4.2025 noch nicht berücksichtigt
+
 [^F785283_00_BJNR046000014]:     Die Verordnung dient auch der Umsetzung der                                         1.                                            Richtlinie (EU) 2022/993 des Europäischen Parlaments und des Rates vom 8. Juni 2022 über Mindestanforderungen für die Ausbildung von Seeleuten (ABl. L 169 vom 27.6.2022, S. 45),
 
 

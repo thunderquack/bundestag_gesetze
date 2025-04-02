@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 12.5.2022 I 777
 
+Änderung durch
+:   Art. 3 V v. 25.3.2025 I Nr. 100 mWv 2.4.2025 noch nicht berücksichtigt
+
 [^F785641_01_BJNR138310014]:     Diese Verordnung dient der Umsetzung der Richtlinie 92/29/EWG des Rates vom 31. März 1992 über Mindestvorschriften für die Sicherheit und den Gesundheitsschutz zum Zweck einer besseren medizinischen Versorgung auf Schiffen (ABl. L 113 vom 30.4.1992, S. 19) und der Richtlinie 2009/13/EG des Rates vom 16. Februar 2009 zur Durchführung der Vereinbarung zwischen dem Verband der Reeder in der Europäischen Gemeinschaft (ECSA) und der Europäischen Transportarbeiter-Föderation (ETF) über das Seearbeitsübereinkommen 2006 und zur Änderung der Richtlinie 1999/63/EG (ABl. L 124 vom 20.5.2009, S. 30).
 
 

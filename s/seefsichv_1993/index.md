@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 72 Abs. 2 G v. 23.10.2024 I Nr. 323
 
+Änderung durch
+:   Art. 5 V v. 25.3.2025 I Nr. 100 mWv 2.4.2025 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 
