@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1961, 1709
 
+V aufgeh. durch
+:   Art. 1 iVm Art. 2 V v. 28.3.2025 I Nr. 102 mWv 30.11.2025
+
 Zuletzt geändert durch
 :   Art. 1 V v. 15.4.2014 I 347
 
@@ -24,7 +27,7 @@ Zuletzt geändert durch
 Auf Grund des § 4 des Gesetzes zur Errichtung einer Stiftung "Preußischer Kulturbesitz" und zur Übertragung von Vermögenswerten des ehemaligen Landes Preußen auf die Stiftung vom 25. Juli 1957 (Bundesgesetzbl. I S. 841) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
-## Art I
+## Art I - 
 
 Die Stiftung "Preußischer Kulturbesitz" erhält folgende Satzung:
 **Satzung der Stiftung "Preußischer Kulturbesitz"**
@@ -289,7 +292,7 @@ Das Geschäftsjahr der Stiftung ist das Kalenderjahr.
 (4) Der Präsident regelt mit Zustimmung des Stiftungsrats und im Einvernehmen mit den betroffenen Ländern die Erstattung der Versorgungsaufwendungen für die Beamten, Angestellten und Arbeiter, wenn diese bei Eintritt des Versorgungsfalles für die auf die Stiftung übergegangenen Vermögenswerte ganz oder überwiegend beschäftigt gewesen sind und der Versorgungsfall vor dem Übernahmezeitpunkt (Absatz 1 und 2) eingetreten ist, sowie für deren Hinterbliebene.
 
 
-## Art II
+## Art II - 
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

@@ -596,7 +596,8 @@ Anlage zur
         der Wohnungen
         (§ 9 Abs. 1 Nr. 6 BauGB)
 
-    *   Aus besonderen städebaulichen Gründen kann die höchst-
+    *   Aus besonderen
+        städtebaulichen                      Gründen kann die höchst-
         zulässige Zahl der Wohnungen in Wohngebäuden durch
         Ergänzungen der Planzeichen festgesetzt werden.
 

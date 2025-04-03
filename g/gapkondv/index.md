@@ -16,7 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 2244
 
-Geändert durch
+Zuletzt geändert durch
 :   Art. 1 V v. 16.12.2024 I Nr. 417
 
 

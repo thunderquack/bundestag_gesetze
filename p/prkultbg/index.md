@@ -16,6 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1957, 841
 
+G aufgeh. durch
+:   § 20 Abs. 2 G v. 28.3.2025 I Nr. 101 mWv 1.12.2025
+
+Ersetzt durch
+:   G 224-34 v. 28.3.2025 I Nr. 101 (StiftPKG)
+
 Zuletzt geändert durch
 :   Art. 15 Abs. 59 G v. 5.2.2009 I 160
 
