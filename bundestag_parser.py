@@ -68,6 +68,7 @@ def parse(file_path, directory_name):
                 # compute a string from directory_name which has all umlaute replaced with an underscore
                 dirclean = directory_name.replace('ä', '_').replace('ö', '_').replace('ü', '_').replace('ß', '_').replace('Ä', '_').replace('Ö', '_').replace('Ü', '_')
 
+
                 chunk = {
                     'url_s': 'https://www.gesetze-im-internet.de/' + origslug + '/__' + current_paragraph + '.html',
                     'directory_name': directory_name,
