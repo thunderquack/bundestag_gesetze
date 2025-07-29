@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.4.1987 I 1074, 1319;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 1 G v. 7.11.2024 I Nr. 351
-
-Änderung durch
-:   Art. 2 G v. 17.7.2025 I Nr. 163 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 3 G v. 4.12.2024 I Nr. 395 ist berücksichtigt
+:   Art. 2 G v. 17.7.2025 I Nr. 163
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war

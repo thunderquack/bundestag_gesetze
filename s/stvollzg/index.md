@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 1976, 581 (2088) (1977 I 436)
 
 Zuletzt geändert durch
-:   Art. 7 G v. 12.7.2024 I Nr. 234
-
-Änderung durch
-:   Art. 3 G v. 17.7.2025 I Nr. 163 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 17.7.2025 I Nr. 163
 
 
 ## Eingangsformel
