@@ -17,3 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1993, Nr 230, 10553
 
+V aufgeh. durch
+:   Art. 2 V v. 4.8.2025 I Nr. 183 mWv 27.11.2025
+

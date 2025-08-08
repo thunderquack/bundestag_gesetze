@@ -18,6 +18,9 @@ Fundstelle
 :   BGBl. I: 2024, Nr. 420 (2025 I Nr. 6)
 
 Stand: Die V tritt gem. § 4 Satz 2 mit Ablauf des 31.12.2025 außer Kraft
+Geändert durch
+:   Art. 1 V v. 1.8.2025 I Nr. 184
+
 
 ## Eingangsformel
 
@@ -11100,8 +11103,7 @@ zkT zugelassener kommunaler Träger
 
 ## Anlage 4 Verteilung des Aufwendungsersatzes für Teilnehmenden an Förderungen der beruflichen Rehabilitation
 
-(Fundstelle: BGBl. 2024 I Nr. 420, S. 35 - 43)
-
+(Fundstelle: BGBl. 2025 I Nr. 184, S. 1 - 12)
 
 
 *    *   Träger-Nummer
@@ -11115,7 +11117,8 @@ zkT zugelassener kommunaler Träger
     *   Mittel für
         Teilnehmenden
         an Förderungen
-        der beruflichen Rehabilitation
+        der beruflichen
+        Rehabilitation
         nach § 66a
         in Prozent
 
@@ -11126,7 +11129,7 @@ zkT zugelassener kommunaler Träger
 
     *   Vorpommern-Greifswald
 
-    *   0,2954
+    *   0,8742
 
 
 *    *   03102
@@ -11135,7 +11138,7 @@ zkT zugelassener kommunaler Träger
 
     *   Mecklenburgische Seenplatte Süd
 
-    *   0,2634
+    *   0,3157
 
 
 *    *   03122
@@ -11144,7 +11147,7 @@ zkT zugelassener kommunaler Träger
 
     *   Mecklenburgische Seenplatte Nord
 
-    *   0,2395
+    *   0,2886
 
 
 *    *   03202
@@ -11153,7 +11156,7 @@ zkT zugelassener kommunaler Träger
 
     *   Rostock, Hansestadt
 
-    *   0,6706
+    *   0,8235
 
 
 *    *   03208
@@ -11162,7 +11165,7 @@ zkT zugelassener kommunaler Träger
 
     *   Landkreis Rostock
 
-    *   0,1516
+    *   0,5113
 
 
 *    *   03302
@@ -11171,7 +11174,7 @@ zkT zugelassener kommunaler Träger
 
     *   Schwerin, Landeshauptstadt
 
-    *   0,3672
+    *   0,5431
 
 
 *    *   03304
@@ -11180,7 +11183,7 @@ zkT zugelassener kommunaler Träger
 
     *   Nordwestmecklenburg
 
-    *   0,3193
+    *   0,3263
 
 
 *    *   03324
@@ -11189,7 +11192,7 @@ zkT zugelassener kommunaler Träger
 
     *   Ludwigslust-Parchim
 
-    *   0,1357
+    *   0,3664
 
 
 *    *   03444
@@ -11198,7 +11201,7 @@ zkT zugelassener kommunaler Träger
 
     *   Vorpommern-Rügen
 
-    *   0,3273
+    *   0,8459
 
 
 *    *   03502
@@ -11207,7 +11210,7 @@ zkT zugelassener kommunaler Träger
 
     *   Cottbus, Stadt
 
-    *   0,1117
+    *   0,2391
 
 
 *    *   03504
@@ -11216,7 +11219,7 @@ zkT zugelassener kommunaler Träger
 
     *   Elbe-Elster
 
-    *   0,1516
+    *   0,1649
 
 
 *    *   03506
@@ -11225,7 +11228,7 @@ zkT zugelassener kommunaler Träger
 
     *   Oberspreewald-Lausitz
 
-    *   0,1916
+    *   0,2580
 
 
 *    *   03510
@@ -11234,7 +11237,7 @@ zkT zugelassener kommunaler Träger
 
     *   Dahme-Spreewald
 
-    *   0,2634
+    *   0,1673
 
 
 *    *   03538
@@ -11243,7 +11246,7 @@ zkT zugelassener kommunaler Träger
 
     *   Spree-Neiße
 
-    *   0,0239
+    *   0,1555
 
 
 *    *   03602
@@ -11252,7 +11255,7 @@ zkT zugelassener kommunaler Träger
 
     *   Barnim
 
-    *   0,2794
+    *   0,1637
 
 
 *    *   03604
@@ -11261,7 +11264,7 @@ zkT zugelassener kommunaler Träger
 
     *   Uckermark
 
-    *   0,0958
+    *   0,3310
 
 
 *    *   03702
@@ -11270,7 +11273,7 @@ zkT zugelassener kommunaler Träger
 
     *   Frankfurt (Oder), Stadt
 
-    *   0,1117
+    *   0,2061
 
 
 *    *   03706
@@ -11279,7 +11282,7 @@ zkT zugelassener kommunaler Träger
 
     *   Oder-Spree
 
-    *   0,2634
+    *   0,1837
 
 
 *    *   03708
@@ -11288,7 +11291,7 @@ zkT zugelassener kommunaler Träger
 
     *   Märkisch-Oderland
 
-    *   0,2475
+    *   0,2344
 
 
 *    *   03802
@@ -11297,7 +11300,7 @@ zkT zugelassener kommunaler Träger
 
     *   Ostprignitz-Ruppin
 
-    *   0,6067
+    *   0,2038
 
 
 *    *   03804
@@ -11306,7 +11309,7 @@ zkT zugelassener kommunaler Träger
 
     *   Prignitz
 
-    *   0,1676
+    *   0,1213
 
 
 *    *   03806
@@ -11315,7 +11318,7 @@ zkT zugelassener kommunaler Träger
 
     *   Oberhavel
 
-    *   0,0798
+    *   0,2815
 
 
 *    *   03846
@@ -11324,7 +11327,7 @@ zkT zugelassener kommunaler Träger
 
     *   Havelland
 
-    *   0,0558
+    *   0,0612
 
 
 *    *   03902
@@ -11333,7 +11336,7 @@ zkT zugelassener kommunaler Träger
 
     *   Brandenburg an der Havel, Stadt
 
-    *   0,0638
+    *   0,1013
 
 
 *    *   03904
@@ -11342,7 +11345,7 @@ zkT zugelassener kommunaler Träger
 
     *   Potsdam, Stadt
 
-    *   0,1037
+    *   0,1095
 
 
 *    *   03908
@@ -11351,7 +11354,7 @@ zkT zugelassener kommunaler Träger
 
     *   Teltow-Fläming
 
-    *   0,1117
+    *   0,0871
 
 
 *    *   03942
@@ -11360,7 +11363,7 @@ zkT zugelassener kommunaler Träger
 
     *   Potsdam-Mittelmark
 
-    *   0,1437
+    *   0,0388
 
 
 *    *   04202
@@ -11369,7 +11372,7 @@ zkT zugelassener kommunaler Träger
 
     *   Dessau-Roßlau
 
-    *   0,0958
+    *   0,1531
 
 
 *    *   04208
@@ -11378,7 +11381,7 @@ zkT zugelassener kommunaler Träger
 
     *   Anhalt-Bitterfeld
 
-    *   0,4710
+    *   0,2992
 
 
 *    *   04214
@@ -11387,7 +11390,7 @@ zkT zugelassener kommunaler Träger
 
     *   Wittenberg
 
-    *   0,3512
+    *   0,6397
 
 
 *    *   04306
@@ -11396,7 +11399,7 @@ zkT zugelassener kommunaler Träger
 
     *   Harz
 
-    *   0,5429
+    *   0,4335
 
 
 *    *   04308
@@ -11405,7 +11408,7 @@ zkT zugelassener kommunaler Träger
 
     *   Salzlandkreis
 
-    *   0,2075
+    *   0,5325
 
 
 *    *   04402
@@ -11414,7 +11417,16 @@ zkT zugelassener kommunaler Träger
 
     *   Halle (Saale), Stadt
 
-    *   0,4311
+    *   0,6574
+
+
+*    *   04412
+
+    *   zkT
+
+    *   Saalekreis
+
+    *   0,3086
 
 
 *    *   04418
@@ -11423,7 +11435,7 @@ zkT zugelassener kommunaler Träger
 
     *   Burgenlandkreis
 
-    *   0,1996
+    *   0,2874
 
 
 *    *   04448
@@ -11432,7 +11444,7 @@ zkT zugelassener kommunaler Träger
 
     *   Mansfeld-Südharz
 
-    *   0,2794
+    *   0,2992
 
 
 *    *   04502
@@ -11441,7 +11453,7 @@ zkT zugelassener kommunaler Träger
 
     *   Magdeburg, Landeshauptstadt
 
-    *   0,7664
+    *   0,6256
 
 
 *    *   04506
@@ -11450,7 +11462,7 @@ zkT zugelassener kommunaler Träger
 
     *   Jerichower Land
 
-    *   0,0958
+    *   0,0600
 
 
 *    *   04514
@@ -11459,7 +11471,7 @@ zkT zugelassener kommunaler Träger
 
     *   Börde
 
-    *   0,3592
+    *   0,1873
 
 
 *    *   04518
@@ -11468,7 +11480,7 @@ zkT zugelassener kommunaler Träger
 
     *   Stendal
 
-    *   0,5029
+    *   0,2745
 
 
 *    *   04546
@@ -11477,7 +11489,7 @@ zkT zugelassener kommunaler Träger
 
     *   Altmarkkreis Salzwedel
 
-    *   0,0239
+    *   0,0459
 
 
 *    *   07146
@@ -11486,7 +11498,7 @@ zkT zugelassener kommunaler Träger
 
     *   Erzgebirgskreis
 
-    *   0,0958
+    *   0,2780
 
 
 *    *   07202
@@ -11495,7 +11507,7 @@ zkT zugelassener kommunaler Träger
 
     *   Bautzen
 
-    *   0,0239
+    *   0,3994
 
 
 *    *   07208
@@ -11504,7 +11516,7 @@ zkT zugelassener kommunaler Träger
 
     *   Görlitz
 
-    *   0,2155
+    *   0,4535
 
 
 *    *   07302
@@ -11513,7 +11525,7 @@ zkT zugelassener kommunaler Träger
 
     *   Chemnitz, Stadt
 
-    *   0,2235
+    *   0,5101
 
 
 *    *   07402
@@ -11522,7 +11534,7 @@ zkT zugelassener kommunaler Träger
 
     *   Dresden, Stadt
 
-    *   1,9401
+    *   1,9333
 
 
 *    *   07502
@@ -11531,7 +11543,7 @@ zkT zugelassener kommunaler Träger
 
     *   Leipzig, Stadt
 
-    *   0,9021
+    *   1,8191
 
 
 *    *   07602
@@ -11540,7 +11552,7 @@ zkT zugelassener kommunaler Träger
 
     *   Nordsachsen
 
-    *   0,1756
+    *   0,3157
 
 
 *    *   07610
@@ -11549,7 +11561,7 @@ zkT zugelassener kommunaler Träger
 
     *   Leipzig
 
-    *   0,1037
+    *   0,4041
 
 
 *    *   07702
@@ -11558,7 +11570,7 @@ zkT zugelassener kommunaler Träger
 
     *   Sächsische Schweiz-Osterzgebirge
 
-    *   0,3592
+    *   0,2639
 
 
 *    *   07804
@@ -11567,7 +11579,7 @@ zkT zugelassener kommunaler Träger
 
     *   Vogtlandkreis
 
-    *   0,0958
+    *   0,2639
 
 
 *    *   07904
@@ -11576,7 +11588,7 @@ zkT zugelassener kommunaler Träger
 
     *   Meißen
 
-    *   0,6147
+    *   0,6409
 
 
 *    *   08002
@@ -11585,7 +11597,7 @@ zkT zugelassener kommunaler Träger
 
     *   Mittelsachsen
 
-    *   0,0638
+    *   0,5030
 
 
 *    *   09202
@@ -11594,7 +11606,7 @@ zkT zugelassener kommunaler Träger
 
     *   Zwickau
 
-    *   0,2714
+    *   0,7811
 
 
 *    *   09302
@@ -11603,7 +11615,7 @@ zkT zugelassener kommunaler Träger
 
     *   Erfurt, Stadt
 
-    *   0,9341
+    *   0,5195
 
 
 *    *   09304
@@ -11612,7 +11624,7 @@ zkT zugelassener kommunaler Träger
 
     *   Ilm-Kreis
 
-    *   0,1037
+    *   0,1743
 
 
 *    *   09308
@@ -11621,7 +11633,7 @@ zkT zugelassener kommunaler Träger
 
     *   Sömmerda
 
-    *   0,0079
+    *   0,1272
 
 
 *    *   09310
@@ -11630,7 +11642,7 @@ zkT zugelassener kommunaler Träger
 
     *   Weimar, Stadt
 
-    *   0,0798
+    *   0,1284
 
 
 *    *   09312
@@ -11639,7 +11651,7 @@ zkT zugelassener kommunaler Träger
 
     *   Weimarer Land
 
-    *   0,1037
+    *   0,1331
 
 
 *    *   09318
@@ -11648,7 +11660,7 @@ zkT zugelassener kommunaler Träger
 
     *   Gotha
 
-    *   0,0958
+    *   0,1755
 
 
 *    *   09402
@@ -11657,7 +11669,7 @@ zkT zugelassener kommunaler Träger
 
     *   Gera, Stadt
 
-    *   0,1516
+    *   0,2332
 
 
 *    *   09418
@@ -11666,7 +11678,7 @@ zkT zugelassener kommunaler Träger
 
     *   Altenburger Land
 
-    *   0,1277
+    *   0,0930
 
 
 *    *   09437
@@ -11675,7 +11687,7 @@ zkT zugelassener kommunaler Träger
 
     *   Jena, Stadt
 
-    *   0,4471
+    *   0,2698
 
 
 *    *   09439
@@ -11684,7 +11696,7 @@ zkT zugelassener kommunaler Träger
 
     *   Saale-Holzland-Kreis
 
-    *   0,0558
+    *   0,0659
 
 
 *    *   09441
@@ -11693,7 +11705,7 @@ zkT zugelassener kommunaler Träger
 
     *   Saalfeld-Rudolstadt
 
-    *   0,1437
+    *   0,1319
 
 
 *    *   09446
@@ -11702,7 +11714,7 @@ zkT zugelassener kommunaler Träger
 
     *   Greiz
 
-    *   0,0239
+    *   0,0176
 
 
 *    *   09702
@@ -11711,7 +11723,16 @@ zkT zugelassener kommunaler Träger
 
     *   Nordhausen
 
-    *   0,1197
+    *   0,1602
+
+
+*    *   09704
+
+    *   zkT
+
+    *   Eichsfeld
+
+    *   0,0589
 
 
 *    *   09708
@@ -11720,7 +11741,7 @@ zkT zugelassener kommunaler Träger
 
     *   Kyffhäuserkreis
 
-    *   0,0399
+    *   0,1248
 
 
 *    *   09740
@@ -11729,7 +11750,16 @@ zkT zugelassener kommunaler Träger
 
     *   Unstrut-Hainich-Kreis
 
-    *   0,1277
+    *   0,1885
+
+
+*    *   09802
+
+    *   gE
+
+    *   Suhl, Stadt
+
+    *   0,0270
 
 
 *    *   09804
@@ -11738,7 +11768,7 @@ zkT zugelassener kommunaler Träger
 
     *   Hildburghausen
 
-    *   0,0958
+    *   0,0706
 
 
 *    *   09806
@@ -11747,7 +11777,7 @@ zkT zugelassener kommunaler Träger
 
     *   Sonneberg
 
-    *   0,1197
+    *   0,0459
 
 
 *    *   09810
@@ -11756,7 +11786,7 @@ zkT zugelassener kommunaler Träger
 
     *   Wartburgkreis
 
-    *   0,0878
+    *   0,2097
 
 
 *    *   09840
@@ -11765,7 +11795,7 @@ zkT zugelassener kommunaler Träger
 
     *   Schmalkalden-Meiningen
 
-    *   0,4231
+    *   0,1319
 
 
 *    *   11102
@@ -11774,7 +11804,7 @@ zkT zugelassener kommunaler Träger
 
     *   Stormarn
 
-    *   0,0558
+    *   0,1013
 
 
 *    *   11116
@@ -11783,7 +11813,7 @@ zkT zugelassener kommunaler Träger
 
     *   Herzogtum Lauenburg
 
-    *   0,1756
+    *   0,2674
 
 
 *    *   11502
@@ -11792,7 +11822,7 @@ zkT zugelassener kommunaler Träger
 
     *   Pinneberg
 
-    *   0,5508
+    *   0,2686
 
 
 *    *   11522
@@ -11801,7 +11831,7 @@ zkT zugelassener kommunaler Träger
 
     *   Segeberg
 
-    *   0,0718
+    *   0,2332
 
 
 *    *   11902
@@ -11810,7 +11840,16 @@ zkT zugelassener kommunaler Träger
 
     *   Flensburg, Stadt
 
-    *   0,3433
+    *   0,1413
+
+
+*    *   11904
+
+    *   zkT
+
+    *   Schleswig-Flensburg
+
+    *   0,1873
 
 
 *    *   11916
@@ -11819,7 +11858,7 @@ zkT zugelassener kommunaler Träger
 
     *   Nordfriesland
 
-    *   0,3273
+    *   0,1378
 
 
 *    *   12302
@@ -11828,7 +11867,7 @@ zkT zugelassener kommunaler Träger
 
     *   Hamburg, Freie und Hansestadt
 
-    *   3,2175
+    *   2,9737
 
 
 *    *   12702
@@ -11837,7 +11876,7 @@ zkT zugelassener kommunaler Träger
 
     *   Dithmarschen
 
-    *   0,3912
+    *   0,2474
 
 
 *    *   12712
@@ -11846,7 +11885,7 @@ zkT zugelassener kommunaler Träger
 
     *   Steinburg
 
-    *   0,1596
+    *   0,2332
 
 
 *    *   13102
@@ -11855,7 +11894,7 @@ zkT zugelassener kommunaler Träger
 
     *   Kiel, Landeshauptstadt
 
-    *   0,5508
+    *   0,1755
 
 
 *    *   13106
@@ -11864,7 +11903,7 @@ zkT zugelassener kommunaler Träger
 
     *   Plön
 
-    *   0,0958
+    *   0,0200
 
 
 *    *   13502
@@ -11873,7 +11912,7 @@ zkT zugelassener kommunaler Träger
 
     *   Lübeck, Hansestadt
 
-    *   0,2315
+    *   0,2297
 
 
 *    *   13506
@@ -11882,7 +11921,16 @@ zkT zugelassener kommunaler Träger
 
     *   Ostholstein
 
-    *   0,1277
+    *   0,1696
+
+
+*    *   13902
+
+    *   gE
+
+    *   Neumünster, Stadt
+
+    *   0,1449
 
 
 *    *   13912
@@ -11891,7 +11939,7 @@ zkT zugelassener kommunaler Träger
 
     *   Rendsburg-Eckernförde
 
-    *   0,0638
+    *   0,2203
 
 
 *    *   21102
@@ -11900,7 +11948,7 @@ zkT zugelassener kommunaler Träger
 
     *   Braunschweig, Stadt
 
-    *   0,2794
+    *   0,2591
 
 
 *    *   21104
@@ -11909,7 +11957,16 @@ zkT zugelassener kommunaler Träger
 
     *   Salzgitter, Stadt
 
-    *   0,0479
+    *   0,1154
+
+
+*    *   21106
+
+    *   gE
+
+    *   Wolfenbüttel
+
+    *   0,0541
 
 
 *    *   21124
@@ -11918,7 +11975,7 @@ zkT zugelassener kommunaler Träger
 
     *   Goslar
 
-    *   0,2235
+    *   0,2214
 
 
 *    *   21404
@@ -11927,7 +11984,16 @@ zkT zugelassener kommunaler Träger
 
     *   Bremen, Stadt
 
-    *   1,5009
+    *   0,9637
+
+
+*    *   21416
+
+    *   zkT
+
+    *   Osterholz
+
+    *   0,1083
 
 
 *    *   21420
@@ -11936,7 +12002,7 @@ zkT zugelassener kommunaler Träger
 
     *   Bremerhaven, Stadt
 
-    *   0,2554
+    *   0,3699
 
 
 *    *   22102
@@ -11945,7 +12011,7 @@ zkT zugelassener kommunaler Träger
 
     *   Celle
 
-    *   0,5349
+    *   0,1779
 
 
 *    *   22116
@@ -11954,7 +12020,7 @@ zkT zugelassener kommunaler Träger
 
     *   Heidekreis
 
-    *   0,0878
+    *   0,1001
 
 
 *    *   22402
@@ -11963,7 +12029,7 @@ zkT zugelassener kommunaler Träger
 
     *   Emden, Stadt
 
-    *   0,1037
+    *   0,1378
 
 
 *    *   22410
@@ -11972,7 +12038,7 @@ zkT zugelassener kommunaler Träger
 
     *   Leer
 
-    *   0,2475
+    *   0,1814
 
 
 *    *   22444
@@ -11981,7 +12047,7 @@ zkT zugelassener kommunaler Träger
 
     *   Wittmund
 
-    *   0,0878
+    *   0,0318
 
 
 *    *   22446
@@ -11990,7 +12056,7 @@ zkT zugelassener kommunaler Träger
 
     *   Aurich
 
-    *   0,3113
+    *   0,2450
 
 
 *    *   23102
@@ -11999,7 +12065,7 @@ zkT zugelassener kommunaler Träger
 
     *   Göttingen
 
-    *   0,0079
+    *   0,3228
 
 
 *    *   23106
@@ -12008,7 +12074,7 @@ zkT zugelassener kommunaler Träger
 
     *   Northeim
 
-    *   0,0399
+    *   0,1449
 
 
 *    *   23406
@@ -12017,7 +12083,7 @@ zkT zugelassener kommunaler Träger
 
     *   Holzminden
 
-    *   0,0479
+    *   0,0141
 
 
 *    *   23408
@@ -12026,7 +12092,7 @@ zkT zugelassener kommunaler Träger
 
     *   Hameln-Pyrmont
 
-    *   0,3433
+    *   0,1531
 
 
 *    *   23444
@@ -12035,7 +12101,7 @@ zkT zugelassener kommunaler Träger
 
     *   Schaumburg
 
-    *   0,3672
+    *   0,1331
 
 
 *    *   23702
@@ -12044,7 +12110,7 @@ zkT zugelassener kommunaler Träger
 
     *   Region Hannover
 
-    *   2,4510
+    *   1,6824
 
 
 *    *   24110
@@ -12053,7 +12119,7 @@ zkT zugelassener kommunaler Träger
 
     *   Helmstedt
 
-    *   0,0558
+    *   0,0836
 
 
 *    *   24112
@@ -12062,7 +12128,16 @@ zkT zugelassener kommunaler Träger
 
     *   Gifhorn
 
-    *   0,1836
+    *   0,0577
+
+
+*    *   24114
+
+    *   gE
+
+    *   Wolfsburg, Stadt
+
+    *   0,0494
 
 
 *    *   24402
@@ -12071,7 +12146,7 @@ zkT zugelassener kommunaler Träger
 
     *   Hildesheim
 
-    *   0,9820
+    *   0,7375
 
 
 *    *   24404
@@ -12080,7 +12155,7 @@ zkT zugelassener kommunaler Träger
 
     *   Peine
 
-    *   0,1836
+    *   0,1614
 
 
 *    *   25102
@@ -12089,7 +12164,7 @@ zkT zugelassener kommunaler Träger
 
     *   Lüneburg
 
-    *   0,5429
+    *   0,4276
 
 
 *    *   25104
@@ -12098,7 +12173,7 @@ zkT zugelassener kommunaler Träger
 
     *   Harburg
 
-    *   0,1117
+    *   0,2356
 
 
 *    *   25110
@@ -12107,7 +12182,7 @@ zkT zugelassener kommunaler Träger
 
     *   Lüchow-Dannenberg
 
-    *   0,0958
+    *   0,1178
 
 
 *    *   25112
@@ -12116,7 +12191,16 @@ zkT zugelassener kommunaler Träger
 
     *   Uelzen
 
-    *   0,1037
+    *   0,1531
+
+
+*    *   25704
+
+    *   zkT
+
+    *   Grafschaft Bentheim
+
+    *   0,0282
 
 
 *    *   25706
@@ -12125,7 +12209,7 @@ zkT zugelassener kommunaler Träger
 
     *   Emsland
 
-    *   0,5748
+    *   0,2132
 
 
 *    *   26104
@@ -12134,7 +12218,7 @@ zkT zugelassener kommunaler Träger
 
     *   Delmenhorst, Stadt
 
-    *   0,2794
+    *   0,2427
 
 
 *    *   26106
@@ -12143,7 +12227,7 @@ zkT zugelassener kommunaler Träger
 
     *   Oldenburg (Oldenburg), Stadt
 
-    *   0,3353
+    *   0,5560
 
 
 *    *   26110
@@ -12152,7 +12236,7 @@ zkT zugelassener kommunaler Träger
 
     *   Wesermarsch
 
-    *   0,3992
+    *   0,2120
 
 
 *    *   26112
@@ -12161,7 +12245,7 @@ zkT zugelassener kommunaler Träger
 
     *   Ammerland
 
-    *   0,1516
+    *   0,0530
 
 
 *    *   26118
@@ -12170,7 +12254,7 @@ zkT zugelassener kommunaler Träger
 
     *   Oldenburg
 
-    *   0,3033
+    *   0,1920
 
 
 *    *   26126
@@ -12179,7 +12263,7 @@ zkT zugelassener kommunaler Träger
 
     *   Wilhelmshaven, Stadt
 
-    *   0,1516
+    *   0,1885
 
 
 *    *   26130
@@ -12188,7 +12272,7 @@ zkT zugelassener kommunaler Träger
 
     *   Friesland
 
-    *   0,5029
+    *   0,1472
 
 
 *    *   26402
@@ -12197,7 +12281,7 @@ zkT zugelassener kommunaler Träger
 
     *   Osnabrück, Stadt
 
-    *   0,3992
+    *   0,2438
 
 
 *    *   26410
@@ -12206,7 +12290,7 @@ zkT zugelassener kommunaler Träger
 
     *   Osnabrück
 
-    *   0,0958
+    *   0,1649
 
 
 *    *   26702
@@ -12215,7 +12299,7 @@ zkT zugelassener kommunaler Träger
 
     *   Stade
 
-    *   0,2075
+    *   0,1566
 
 
 *    *   26704
@@ -12224,7 +12308,16 @@ zkT zugelassener kommunaler Träger
 
     *   Cuxhaven
 
-    *   0,1037
+    *   0,1107
+
+
+*    *   26706
+
+    *   zkT
+
+    *   Rotenburg (Wümme)
+
+    *   0,0636
 
 
 *    *   27402
@@ -12233,7 +12326,7 @@ zkT zugelassener kommunaler Träger
 
     *   Vechta
 
-    *   0,1117
+    *   0,1178
 
 
 *    *   27404
@@ -12242,7 +12335,7 @@ zkT zugelassener kommunaler Träger
 
     *   Cloppenburg
 
-    *   0,5508
+    *   0,2061
 
 
 *    *   27706
@@ -12251,7 +12344,7 @@ zkT zugelassener kommunaler Träger
 
     *   Verden
 
-    *   0,1596
+    *   0,2014
 
 
 *    *   27708
@@ -12260,7 +12353,7 @@ zkT zugelassener kommunaler Träger
 
     *   Diepholz
 
-    *   0,3912
+    *   0,2544
 
 
 *    *   27718
@@ -12269,7 +12362,7 @@ zkT zugelassener kommunaler Träger
 
     *   Nienburg (Weser)
 
-    *   0,2235
+    *   0,1649
 
 
 *    *   31106
@@ -12278,7 +12371,7 @@ zkT zugelassener kommunaler Träger
 
     *   Heinsberg
 
-    *   0,3592
+    *   0,2332
 
 
 *    *   31108
@@ -12287,7 +12380,7 @@ zkT zugelassener kommunaler Träger
 
     *   Städteregion Aachen
 
-    *   0,0558
+    *   0,5042
 
 
 *    *   31118
@@ -12296,7 +12389,7 @@ zkT zugelassener kommunaler Träger
 
     *   Düren
 
-    *   0,4471
+    *   0,3346
 
 
 *    *   31502
@@ -12305,7 +12398,7 @@ zkT zugelassener kommunaler Träger
 
     *   Leverkusen, Stadt
 
-    *   0,1916
+    *   0,2497
 
 
 *    *   31504
@@ -12314,7 +12407,7 @@ zkT zugelassener kommunaler Träger
 
     *   Oberbergischer Kreis
 
-    *   0,3353
+    *   0,2203
 
 
 *    *   31506
@@ -12323,7 +12416,7 @@ zkT zugelassener kommunaler Träger
 
     *   Rheinisch-Bergischer Kreis
 
-    *   0,2554
+    *   0,3075
 
 
 *    *   31704
@@ -12332,7 +12425,7 @@ zkT zugelassener kommunaler Träger
 
     *   Bielefeld, Stadt
 
-    *   1,0139
+    *   0,4500
 
 
 *    *   31778
@@ -12341,7 +12434,7 @@ zkT zugelassener kommunaler Träger
 
     *   Gütersloh
 
-    *   0,1916
+    *   0,3228
 
 
 *    *   32102
@@ -12350,7 +12443,7 @@ zkT zugelassener kommunaler Träger
 
     *   Bochum, Stadt
 
-    *   1,3732
+    *   0,5183
 
 
 *    *   32112
@@ -12359,7 +12452,7 @@ zkT zugelassener kommunaler Träger
 
     *   Herne, Stadt
 
-    *   0,2634
+    *   0,2603
 
 
 *    *   32302
@@ -12368,7 +12461,7 @@ zkT zugelassener kommunaler Träger
 
     *   Bonn, Stadt
 
-    *   0,4071
+    *   0,7940
 
 
 *    *   32304
@@ -12377,7 +12470,7 @@ zkT zugelassener kommunaler Träger
 
     *   Rhein-Sieg-Kreis
 
-    *   0,8143
+    *   0,7846
 
 
 *    *   32502
@@ -12386,7 +12479,7 @@ zkT zugelassener kommunaler Träger
 
     *   Rhein-Erft-Kreis
 
-    *   0,0958
+    *   0,4912
 
 
 *    *   32504
@@ -12395,7 +12488,7 @@ zkT zugelassener kommunaler Träger
 
     *   Euskirchen
 
-    *   0,3433
+    *   0,2309
 
 
 *    *   32702
@@ -12404,7 +12497,7 @@ zkT zugelassener kommunaler Träger
 
     *   Borken
 
-    *   0,4071
+    *   0,5337
 
 
 *    *   32704
@@ -12413,7 +12506,7 @@ zkT zugelassener kommunaler Träger
 
     *   Coesfeld
 
-    *   0,0479
+    *   0,2144
 
 
 *    *   33148
@@ -12422,7 +12515,7 @@ zkT zugelassener kommunaler Träger
 
     *   Lippe
 
-    *   1,4291
+    *   0,9814
 
 
 *    *   33302
@@ -12431,7 +12524,7 @@ zkT zugelassener kommunaler Träger
 
     *   Dortmund, Stadt
 
-    *   0,5349
+    *   1,9251
 
 
 *    *   33702
@@ -12440,7 +12533,7 @@ zkT zugelassener kommunaler Träger
 
     *   Düsseldorf, Stadt
 
-    *   1,2455
+    *   0,5537
 
 
 *    *   34102
@@ -12449,7 +12542,7 @@ zkT zugelassener kommunaler Träger
 
     *   Duisburg, Stadt
 
-    *   0,4630
+    *   0,6338
 
 
 *    *   34348
@@ -12458,7 +12551,7 @@ zkT zugelassener kommunaler Träger
 
     *   Essen, Stadt
 
-    *   1,8842
+    *   1,5964
 
 
 *    *   34502
@@ -12467,7 +12560,7 @@ zkT zugelassener kommunaler Träger
 
     *   Gelsenkirchen, Stadt
 
-    *   0,1836
+    *   0,2898
 
 
 *    *   34506
@@ -12476,7 +12569,7 @@ zkT zugelassener kommunaler Träger
 
     *   Bottrop, Stadt
 
-    *   0,0878
+    *   0,0989
 
 
 *    *   34702
@@ -12485,7 +12578,7 @@ zkT zugelassener kommunaler Träger
 
     *   Ennepe-Ruhr-Kreis
 
-    *   0,3672
+    *   0,5207
 
 
 *    *   34704
@@ -12494,7 +12587,7 @@ zkT zugelassener kommunaler Träger
 
     *   Hagen, Stadt
 
-    *   0,1357
+    *   0,3864
 
 
 *    *   35102
@@ -12503,7 +12596,7 @@ zkT zugelassener kommunaler Träger
 
     *   Hamm, Stadt
 
-    *   0,2475
+    *   0,4323
 
 
 *    *   35104
@@ -12512,7 +12605,7 @@ zkT zugelassener kommunaler Träger
 
     *   Unna
 
-    *   0,4550
+    *   0,7587
 
 
 *    *   35302
@@ -12521,7 +12614,7 @@ zkT zugelassener kommunaler Träger
 
     *   Herford
 
-    *   0,5508
+    *   0,2509
 
 
 *    *   35318
@@ -12530,7 +12623,7 @@ zkT zugelassener kommunaler Träger
 
     *   Minden-Lübbecke
 
-    *   0,2954
+    *   0,2097
 
 
 *    *   35502
@@ -12539,7 +12632,7 @@ zkT zugelassener kommunaler Träger
 
     *   Märkischer Kreis
 
-    *   0,5269
+    *   0,4971
 
 
 *    *   35702
@@ -12548,7 +12641,7 @@ zkT zugelassener kommunaler Träger
 
     *   Köln, Stadt
 
-    *   1,0299
+    *   2,1537
 
 
 *    *   36102
@@ -12557,7 +12650,7 @@ zkT zugelassener kommunaler Träger
 
     *   Krefeld
 
-    *   0,4311
+    *   0,3840
 
 
 *    *   36108
@@ -12566,7 +12659,7 @@ zkT zugelassener kommunaler Träger
 
     *   Viersen
 
-    *   0,3512
+    *   0,2026
 
 
 *    *   36402
@@ -12575,7 +12668,7 @@ zkT zugelassener kommunaler Träger
 
     *   Mettmann
 
-    *   0,8303
+    *   0,5360
 
 
 *    *   36502
@@ -12584,7 +12677,7 @@ zkT zugelassener kommunaler Träger
 
     *   Mönchengladbach, Stadt
 
-    *   0,8542
+    *   0,4029
 
 
 *    *   36504
@@ -12593,7 +12686,7 @@ zkT zugelassener kommunaler Träger
 
     *   Rhein-Kreis Neuss
 
-    *   1,2295
+    *   0,4535
 
 
 *    *   36704
@@ -12602,7 +12695,7 @@ zkT zugelassener kommunaler Träger
 
     *   Warendorf
 
-    *   0,0638
+    *   0,1319
 
 
 *    *   36748
@@ -12611,7 +12704,7 @@ zkT zugelassener kommunaler Träger
 
     *   Münster, Stadt
 
-    *   0,2475
+    *   0,2285
 
 
 *    *   37102
@@ -12620,7 +12713,7 @@ zkT zugelassener kommunaler Träger
 
     *   Mülheim an der Ruhr, Stadt
 
-    *   0,2395
+    *   0,2379
 
 
 *    *   37106
@@ -12629,7 +12722,7 @@ zkT zugelassener kommunaler Träger
 
     *   Oberhausen, Stadt
 
-    *   0,2475
+    *   0,4147
 
 
 *    *   37302
@@ -12638,7 +12731,7 @@ zkT zugelassener kommunaler Träger
 
     *   Paderborn
 
-    *   0,3273
+    *   0,3581
 
 
 *    *   37338
@@ -12647,7 +12740,7 @@ zkT zugelassener kommunaler Träger
 
     *   Höxter
 
-    *   0,1197
+    *   0,1755
 
 
 *    *   37548
@@ -12656,7 +12749,7 @@ zkT zugelassener kommunaler Träger
 
     *   Recklinghausen
 
-    *   1,6766
+    *   1,0603
 
 
 *    *   37710
@@ -12665,7 +12758,7 @@ zkT zugelassener kommunaler Träger
 
     *   Steinfurt
 
-    *   0,2075
+    *   0,4005
 
 
 *    *   38102
@@ -12674,7 +12767,7 @@ zkT zugelassener kommunaler Träger
 
     *   Siegen-Wittgenstein
 
-    *   1,1177
+    *   0,7045
 
 
 *    *   38104
@@ -12683,7 +12776,7 @@ zkT zugelassener kommunaler Träger
 
     *   Olpe
 
-    *   0,2155
+    *   0,2226
 
 
 *    *   38302
@@ -12692,7 +12785,7 @@ zkT zugelassener kommunaler Träger
 
     *   Soest
 
-    *   0,3832
+    *   0,3935
 
 
 *    *   38340
@@ -12701,7 +12794,7 @@ zkT zugelassener kommunaler Träger
 
     *   Hochsauerlandkreis
 
-    *   0,1596
+    *   0,2497
 
 
 *    *   38702
@@ -12710,7 +12803,7 @@ zkT zugelassener kommunaler Träger
 
     *   Wesel
 
-    *   0,7025
+    *   0,4630
 
 
 *    *   38704
@@ -12719,7 +12812,7 @@ zkT zugelassener kommunaler Träger
 
     *   Kleve
 
-    *   0,4391
+    *   0,2580
 
 
 *    *   39104
@@ -12728,7 +12821,7 @@ zkT zugelassener kommunaler Träger
 
     *   Remscheid, Stadt
 
-    *   0,1676
+    *   0,1119
 
 
 *    *   39106
@@ -12737,7 +12830,7 @@ zkT zugelassener kommunaler Träger
 
     *   Solingen, Stadt
 
-    *   0,2714
+    *   0,2698
 
 
 *    *   39148
@@ -12746,7 +12839,16 @@ zkT zugelassener kommunaler Träger
 
     *   Wuppertal, Stadt
 
-    *   1,4930
+    *   1,2217
+
+
+*    *   41102
+
+    *   zkT
+
+    *   Hersfeld-Rotenburg
+
+    *   0,0282
 
 
 *    *   41110
@@ -12755,7 +12857,7 @@ zkT zugelassener kommunaler Träger
 
     *   Fulda
 
-    *   0,3113
+    *   0,1637
 
 
 *    *   41502
@@ -12764,7 +12866,16 @@ zkT zugelassener kommunaler Träger
 
     *   Bergstraße
 
-    *   0,1197
+    *   0,3063
+
+
+*    *   41506
+
+    *   zkT
+
+    *   Darmstadt-Dieburg
+
+    *   0,1131
 
 
 *    *   41508
@@ -12773,7 +12884,7 @@ zkT zugelassener kommunaler Träger
 
     *   Odenwaldkreis
 
-    *   0,1197
+    *   0,0188
 
 
 *    *   41512
@@ -12782,7 +12893,7 @@ zkT zugelassener kommunaler Träger
 
     *   Darmstadt, Wissenschaftsstadt
 
-    *   0,1836
+    *   0,2509
 
 
 *    *   41920
@@ -12791,7 +12902,7 @@ zkT zugelassener kommunaler Träger
 
     *   Frankfurt am Main, Stadt
 
-    *   0,1836
+    *   0,4512
 
 
 *    *   42702
@@ -12800,7 +12911,16 @@ zkT zugelassener kommunaler Träger
 
     *   Gießen
 
-    *   0,4391
+    *   0,4017
+
+
+*    *   42704
+
+    *   zkT
+
+    *   Vogelsbergkreis
+
+    *   0,1154
 
 
 *    *   42708
@@ -12809,7 +12929,7 @@ zkT zugelassener kommunaler Träger
 
     *   Wetteraukreis
 
-    *   0,2315
+    *   0,4217
 
 
 *    *   43102
@@ -12818,7 +12938,7 @@ zkT zugelassener kommunaler Träger
 
     *   Main-Kinzig-Kreis
 
-    *   1,1816
+    *   0,3982
 
 
 *    *   43302
@@ -12827,7 +12947,16 @@ zkT zugelassener kommunaler Träger
 
     *   Hochtaunuskreis
 
-    *   0,0558
+    *   0,0989
+
+
+*    *   43304
+
+    *   zkT
+
+    *   Main-Taunus-Kreis
+
+    *   0,2356
 
 
 *    *   43306
@@ -12836,7 +12965,7 @@ zkT zugelassener kommunaler Träger
 
     *   Groß-Gerau
 
-    *   0,0079
+    *   0,1484
 
 
 *    *   43502
@@ -12845,7 +12974,7 @@ zkT zugelassener kommunaler Träger
 
     *   Kassel, documenta-Stadt
 
-    *   0,1037
+    *   0,2674
 
 
 *    *   43504
@@ -12854,7 +12983,16 @@ zkT zugelassener kommunaler Träger
 
     *   Kassel
 
-    *   0,3273
+    *   0,1578
+
+
+*    *   43520
+
+    *   gE
+
+    *   Werra-Meißner-Kreis
+
+    *   0,0883
 
 
 *    *   43902
@@ -12863,7 +13001,16 @@ zkT zugelassener kommunaler Träger
 
     *   Waldeck-Frankenberg
 
-    *   0,1596
+    *   0,1225
+
+
+*    *   43904
+
+    *   gE
+
+    *   Schwalm-Eder-Kreis
+
+    *   0,0695
 
 
 *    *   44302
@@ -12872,7 +13019,7 @@ zkT zugelassener kommunaler Träger
 
     *   Limburg-Weilburg
 
-    *   0,2315
+    *   0,1790
 
 
 *    *   44304
@@ -12881,7 +13028,7 @@ zkT zugelassener kommunaler Träger
 
     *   Lahn-Dill-Kreis
 
-    *   0,0638
+    *   0,2238
 
 
 *    *   44702
@@ -12890,7 +13037,7 @@ zkT zugelassener kommunaler Träger
 
     *   Marburg-Biedenkopf
 
-    *   0,4550
+    *   0,2214
 
 
 *    *   45108
@@ -12899,7 +13046,7 @@ zkT zugelassener kommunaler Träger
 
     *   Offenbach
 
-    *   0,0079
+    *   0,2226
 
 
 *    *   45148
@@ -12908,7 +13055,7 @@ zkT zugelassener kommunaler Träger
 
     *   Offenbach am Main, Stadt
 
-    *   0,0558
+    *   0,1072
 
 
 *    *   45902
@@ -12917,7 +13064,7 @@ zkT zugelassener kommunaler Träger
 
     *   Wiesbaden, Landeshauptstadt
 
-    *   0,6786
+    *   0,2851
 
 
 *    *   45904
@@ -12926,7 +13073,7 @@ zkT zugelassener kommunaler Träger
 
     *   Rheingau-Taunus-Kreis
 
-    *   0,2315
+    *   0,1578
 
 
 *    *   51102
@@ -12935,7 +13082,7 @@ zkT zugelassener kommunaler Träger
 
     *   Bad Kreuznach
 
-    *   0,2475
+    *   0,0977
 
 
 *    *   51106
@@ -12944,7 +13091,7 @@ zkT zugelassener kommunaler Träger
 
     *   Birkenfeld
 
-    *   0,0878
+    *   0,1083
 
 
 *    *   51110
@@ -12953,7 +13100,7 @@ zkT zugelassener kommunaler Träger
 
     *   Rhein-Hunsrück-Kreis
 
-    *   0,0798
+    *   0,0412
 
 
 *    *   51502
@@ -12962,7 +13109,7 @@ zkT zugelassener kommunaler Träger
 
     *   Donnersbergkreis
 
-    *   0,0958
+    *   0,0282
 
 
 *    *   51506
@@ -12971,7 +13118,25 @@ zkT zugelassener kommunaler Träger
 
     *   Kaiserslautern, Stadt
 
-    *   0,1756
+    *   0,1731
+
+
+*    *   51510
+
+    *   gE
+
+    *   Kaiserslautern
+
+    *   0,0176
+
+
+*    *   51516
+
+    *   gE
+
+    *   Pirmasens, Stadt
+
+    *   0,0565
 
 
 *    *   51518
@@ -12980,7 +13145,25 @@ zkT zugelassener kommunaler Träger
 
     *   Zweibrücken, Stadt
 
-    *   0,0798
+    *   0,0223
+
+
+*    *   51520
+
+    *   zkT
+
+    *   Südwestpfalz
+
+    *   0,0047
+
+
+*    *   51542
+
+    *   zkT
+
+    *   Kusel
+
+    *   0,0223
 
 
 *    *   51902
@@ -12989,7 +13172,16 @@ zkT zugelassener kommunaler Träger
 
     *   Koblenz, Stadt
 
-    *   0,1437
+    *   0,2167
+
+
+*    *   51904
+
+    *   gE
+
+    *   Cochem-Zell
+
+    *   0,0176
 
 
 *    *   51906
@@ -12998,7 +13190,7 @@ zkT zugelassener kommunaler Träger
 
     *   Ahrweiler
 
-    *   0,0399
+    *   0,1237
 
 
 *    *   51908
@@ -13007,7 +13199,7 @@ zkT zugelassener kommunaler Träger
 
     *   Mayen-Koblenz
 
-    *   0,0958
+    *   0,1555
 
 
 *    *   52302
@@ -13016,7 +13208,7 @@ zkT zugelassener kommunaler Träger
 
     *   Vorderpfalz-Ludwigshafen
 
-    *   0,1117
+    *   0,4724
 
 
 *    *   52704
@@ -13025,7 +13217,7 @@ zkT zugelassener kommunaler Träger
 
     *   Alzey-Worms
 
-    *   0,1996
+    *   0,0706
 
 
 *    *   52706
@@ -13034,7 +13226,7 @@ zkT zugelassener kommunaler Träger
 
     *   Mainz, Stadt
 
-    *   0,0718
+    *   0,1472
 
 
 *    *   52710
@@ -13043,7 +13235,7 @@ zkT zugelassener kommunaler Träger
 
     *   Worms, Stadt
 
-    *   0,0399
+    *   0,0341
 
 
 *    *   52744
@@ -13052,7 +13244,7 @@ zkT zugelassener kommunaler Träger
 
     *   Mainz-Bingen
 
-    *   0,0159
+    *   0,1378
 
 
 *    *   53502
@@ -13061,7 +13253,7 @@ zkT zugelassener kommunaler Träger
 
     *   Rhein-Lahn-Kreis
 
-    *   0,0319
+    *   0,0730
 
 
 *    *   53504
@@ -13070,7 +13262,7 @@ zkT zugelassener kommunaler Träger
 
     *   Westerwaldkreis
 
-    *   0,0239
+    *   0,1991
 
 
 *    *   54302
@@ -13079,7 +13271,7 @@ zkT zugelassener kommunaler Träger
 
     *   Germersheim
 
-    *   0,1676
+    *   0,1496
 
 
 *    *   54308
@@ -13088,7 +13280,7 @@ zkT zugelassener kommunaler Träger
 
     *   Landau-Südliche Weinstraße
 
-    *   0,3193
+    *   0,2792
 
 
 *    *   54312
@@ -13097,7 +13289,7 @@ zkT zugelassener kommunaler Träger
 
     *   Deutsche Weinstraße
 
-    *   0,1037
+    *   0,2214
 
 
 *    *   54702
@@ -13106,7 +13298,7 @@ zkT zugelassener kommunaler Träger
 
     *   Altenkirchen (Westerwald)
 
-    *   0,2075
+    *   0,2474
 
 
 *    *   54708
@@ -13115,7 +13307,7 @@ zkT zugelassener kommunaler Träger
 
     *   Neuwied
 
-    *   0,1996
+    *   0,4229
 
 
 *    *   55502
@@ -13124,7 +13316,7 @@ zkT zugelassener kommunaler Träger
 
     *   Regionalverband Saarbrücken
 
-    *   0,7185
+    *   0,7870
 
 
 *    *   55514
@@ -13133,7 +13325,16 @@ zkT zugelassener kommunaler Träger
 
     *   Neunkirchen
 
-    *   0,4950
+    *   0,1908
+
+
+*    *   55516
+
+    *   zkT
+
+    *   St. Wendel
+
+    *   0,1166
 
 
 *    *   55518
@@ -13142,7 +13343,7 @@ zkT zugelassener kommunaler Träger
 
     *   Saarpfalz-Kreis
 
-    *   0,2235
+    *   0,1013
 
 
 *    *   55520
@@ -13151,7 +13352,16 @@ zkT zugelassener kommunaler Träger
 
     *   Merzig-Wadern
 
-    *   0,0399
+    *   0,0848
+
+
+*    *   55522
+
+    *   zkT
+
+    *   Saarlouis
+
+    *   0,1519
 
 
 *    *   56302
@@ -13160,7 +13370,7 @@ zkT zugelassener kommunaler Träger
 
     *   Bernkastel-Wittlich
 
-    *   0,1357
+    *   0,0612
 
 
 *    *   56304
@@ -13169,7 +13379,7 @@ zkT zugelassener kommunaler Träger
 
     *   Bitburg-Prüm
 
-    *   0,1117
+    *   0,0553
 
 
 *    *   56306
@@ -13178,7 +13388,7 @@ zkT zugelassener kommunaler Träger
 
     *   Trier, Stadt
 
-    *   0,0958
+    *   0,1826
 
 
 *    *   56308
@@ -13187,7 +13397,7 @@ zkT zugelassener kommunaler Träger
 
     *   Trier-Saarburg
 
-    *   0,1197
+    *   0,0471
 
 
 *    *   56310
@@ -13196,7 +13406,7 @@ zkT zugelassener kommunaler Träger
 
     *   Vulkaneifel
 
-    *   0,0239
+    *   0,0365
 
 
 *    *   61108
@@ -13205,7 +13415,7 @@ zkT zugelassener kommunaler Träger
 
     *   Heidenheim
 
-    *   0,3353
+    *   0,1354
 
 
 *    *   61146
@@ -13214,7 +13424,7 @@ zkT zugelassener kommunaler Träger
 
     *   Ostalbkreis
 
-    *   0,1916
+    *   0,2427
 
 
 *    *   61402
@@ -13223,7 +13433,7 @@ zkT zugelassener kommunaler Träger
 
     *   Zollernalbkreis
 
-    *   0,0958
+    *   0,1272
 
 
 *    *   61406
@@ -13232,7 +13442,16 @@ zkT zugelassener kommunaler Träger
 
     *   Sigmaringen
 
-    *   0,1197
+    *   0,0765
+
+
+*    *   61702
+
+    *   gE
+
+    *   Breisgau-Hochschwarzwald
+
+    *   0,1543
 
 
 *    *   61704
@@ -13241,7 +13460,7 @@ zkT zugelassener kommunaler Träger
 
     *   Emmendingen
 
-    *   0,1916
+    *   0,0789
 
 
 *    *   61706
@@ -13250,7 +13469,7 @@ zkT zugelassener kommunaler Träger
 
     *   Freiburg im Breisgau, Stadt
 
-    *   0,1756
+    *   0,2321
 
 
 *    *   62102
@@ -13259,7 +13478,7 @@ zkT zugelassener kommunaler Träger
 
     *   Esslingen
 
-    *   0,6946
+    *   0,2662
 
 
 *    *   62106
@@ -13268,7 +13487,7 @@ zkT zugelassener kommunaler Träger
 
     *   Göppingen
 
-    *   0,1197
+    *   0,2014
 
 
 *    *   62402
@@ -13277,7 +13496,7 @@ zkT zugelassener kommunaler Träger
 
     *   Heidelberg, Stadt
 
-    *   0,1596
+    *   0,2438
 
 
 *    *   62404
@@ -13286,7 +13505,7 @@ zkT zugelassener kommunaler Träger
 
     *   Rhein-Neckar-Kreis
 
-    *   0,5828
+    *   0,7175
 
 
 *    *   62702
@@ -13295,7 +13514,7 @@ zkT zugelassener kommunaler Träger
 
     *   Heilbronn, Stadt
 
-    *   0,2554
+    *   0,2203
 
 
 *    *   62704
@@ -13304,7 +13523,7 @@ zkT zugelassener kommunaler Träger
 
     *   Heilbronn
 
-    *   0,0718
+    *   0,1213
 
 
 *    *   63102
@@ -13313,7 +13532,7 @@ zkT zugelassener kommunaler Träger
 
     *   Karlsruhe, Stadt
 
-    *   0,1996
+    *   0,3946
 
 
 *    *   63108
@@ -13322,7 +13541,7 @@ zkT zugelassener kommunaler Träger
 
     *   Karlsruhe
 
-    *   0,3353
+    *   0,3770
 
 
 *    *   63120
@@ -13331,7 +13550,7 @@ zkT zugelassener kommunaler Träger
 
     *   Baden-Baden, Stadt
 
-    *   0,0159
+    *   0,0259
 
 
 *    *   63122
@@ -13340,7 +13559,7 @@ zkT zugelassener kommunaler Träger
 
     *   Rastatt
 
-    *   0,0958
+    *   0,2050
 
 
 *    *   63402
@@ -13349,7 +13568,7 @@ zkT zugelassener kommunaler Träger
 
     *   Konstanz
 
-    *   0,4550
+    *   0,2709
 
 
 *    *   63404
@@ -13358,7 +13577,16 @@ zkT zugelassener kommunaler Träger
 
     *   Bodenseekreis
 
-    *   0,1277
+    *   0,0706
+
+
+*    *   63408
+
+    *   zkT
+
+    *   Ravensburg
+
+    *   0,0907
 
 
 *    *   63702
@@ -13367,7 +13595,16 @@ zkT zugelassener kommunaler Träger
 
     *   Lörrach
 
-    *   0,0239
+    *   0,0989
+
+
+*    *   63704
+
+    *   zkT
+
+    *   Waldshut
+
+    *   0,0223
 
 
 *    *   64148
@@ -13376,7 +13613,7 @@ zkT zugelassener kommunaler Träger
 
     *   Ludwigsburg
 
-    *   0,3033
+    *   0,2497
 
 
 *    *   64402
@@ -13385,7 +13622,16 @@ zkT zugelassener kommunaler Träger
 
     *   Mannheim, Universitätsstadt
 
-    *   0,3672
+    *   0,8883
+
+
+*    *   64702
+
+    *   gE
+
+    *   Calw
+
+    *   0,0506
 
 
 *    *   64708
@@ -13394,7 +13640,16 @@ zkT zugelassener kommunaler Träger
 
     *   Freudenstadt
 
-    *   0,2075
+    *   0,0777
+
+
+*    *   64710
+
+    *   zkT
+
+    *   Pforzheim, Stadt
+
+    *   0,1637
 
 
 *    *   64712
@@ -13403,7 +13658,7 @@ zkT zugelassener kommunaler Träger
 
     *   Enzkreis
 
-    *   0,0399
+    *   0,0742
 
 
 *    *   65106
@@ -13412,7 +13667,7 @@ zkT zugelassener kommunaler Träger
 
     *   Ortenaukreis
 
-    *   0,1756
+    *   0,1955
 
 
 *    *   66402
@@ -13421,7 +13676,7 @@ zkT zugelassener kommunaler Träger
 
     *   Reutlingen
 
-    *   0,1916
+    *   0,1614
 
 
 *    *   66404
@@ -13430,7 +13685,7 @@ zkT zugelassener kommunaler Träger
 
     *   Tübingen
 
-    *   0,3912
+    *   0,2026
 
 
 *    *   67102
@@ -13439,7 +13694,7 @@ zkT zugelassener kommunaler Träger
 
     *   Rems-Murr-Kreis
 
-    *   0,2874
+    *   0,2957
 
 
 *    *   67402
@@ -13448,7 +13703,7 @@ zkT zugelassener kommunaler Träger
 
     *   Hohenlohekreis
 
-    *   0,0079
+    *   0,0530
 
 
 *    *   67404
@@ -13457,7 +13712,7 @@ zkT zugelassener kommunaler Träger
 
     *   Schwäbisch Hall
 
-    *   0,1676
+    *   0,1531
 
 
 *    *   67408
@@ -13466,7 +13721,7 @@ zkT zugelassener kommunaler Träger
 
     *   Neckar-Odenwald-Kreis
 
-    *   0,0319
+    *   0,1590
 
 
 *    *   67410
@@ -13475,7 +13730,7 @@ zkT zugelassener kommunaler Träger
 
     *   Main-Tauber-Kreis
 
-    *   0,0079
+    *   0,0824
 
 
 *    *   67704
@@ -13484,7 +13739,7 @@ zkT zugelassener kommunaler Träger
 
     *   Böblingen
 
-    *   0,0878
+    *   0,1284
 
 
 *    *   67748
@@ -13493,7 +13748,7 @@ zkT zugelassener kommunaler Träger
 
     *   Stuttgart, Landeshauptstadt
 
-    *   0,0878
+    *   0,4618
 
 
 *    *   68402
@@ -13502,7 +13757,7 @@ zkT zugelassener kommunaler Träger
 
     *   Ulm, Universitätsstadt
 
-    *   0,1277
+    *   0,0647
 
 
 *    *   68404
@@ -13511,7 +13766,16 @@ zkT zugelassener kommunaler Träger
 
     *   Alb-Donau-Kreis
 
-    *   0,0558
+    *   0,0353
+
+
+*    *   68410
+
+    *   zkT
+
+    *   Biberach
+
+    *   0,0082
 
 
 *    *   68702
@@ -13520,7 +13784,7 @@ zkT zugelassener kommunaler Träger
 
     *   Schwarzwald-Baar-Kreis
 
-    *   0,1357
+    *   0,0942
 
 
 *    *   68706
@@ -13529,7 +13793,7 @@ zkT zugelassener kommunaler Träger
 
     *   Tuttlingen
 
-    *   0,1277
+    *   0,0282
 
 
 *    *   68708
@@ -13538,7 +13802,7 @@ zkT zugelassener kommunaler Träger
 
     *   Rottweil
 
-    *   0,1516
+    *   0,0518
 
 
 *    *   71102
@@ -13547,7 +13811,7 @@ zkT zugelassener kommunaler Träger
 
     *   Ansbach, Stadt
 
-    *   0,0079
+    *   0,0577
 
 
 *    *   71108
@@ -13556,7 +13820,16 @@ zkT zugelassener kommunaler Träger
 
     *   Weißenburg-Gunzenhausen
 
-    *   0,0958
+    *   0,0294
+
+
+*    *   71110
+
+    *   gE
+
+    *   Roth
+
+    *   0,0117
 
 
 *    *   71502
@@ -13565,7 +13838,16 @@ zkT zugelassener kommunaler Träger
 
     *   Aschaffenburg, Stadt
 
-    *   0,3193
+    *   0,1708
+
+
+*    *   71504
+
+    *   gE
+
+    *   Aschaffenburg
+
+    *   0,1025
 
 
 *    *   71506
@@ -13574,7 +13856,7 @@ zkT zugelassener kommunaler Träger
 
     *   Miltenberg
 
-    *   0,0079
+    *   0,0706
 
 
 *    *   72302
@@ -13583,7 +13865,16 @@ zkT zugelassener kommunaler Träger
 
     *   Bayreuth, Stadt
 
-    *   0,2235
+    *   0,0824
+
+
+*    *   72304
+
+    *   gE
+
+    *   Bayreuth
+
+    *   0,0565
 
 
 *    *   72306
@@ -13592,7 +13883,7 @@ zkT zugelassener kommunaler Träger
 
     *   Kulmbach
 
-    *   0,2235
+    *   0,0577
 
 
 *    *   72308
@@ -13601,7 +13892,7 @@ zkT zugelassener kommunaler Träger
 
     *   Hof, Stadt
 
-    *   0,2235
+    *   0,2156
 
 
 *    *   72310
@@ -13610,7 +13901,7 @@ zkT zugelassener kommunaler Träger
 
     *   Hof
 
-    *   0,0079
+    *   0,0612
 
 
 *    *   72312
@@ -13619,7 +13910,7 @@ zkT zugelassener kommunaler Träger
 
     *   Wunsiedel im Fichtelgebirge
 
-    *   0,0239
+    *   0,1189
 
 
 *    *   72702
@@ -13628,7 +13919,34 @@ zkT zugelassener kommunaler Träger
 
     *   Coburg, Stadt
 
-    *   0,0399
+    *   0,1095
+
+
+*    *   72704
+
+    *   gE
+
+    *   Coburg
+
+    *   0,0848
+
+
+*    *   72706
+
+    *   gE
+
+    *   Kronach
+
+    *   0,0306
+
+
+*    *   72708
+
+    *   gE
+
+    *   Lichtenfels
+
+    *   0,0070
 
 
 *    *   72710
@@ -13637,7 +13955,7 @@ zkT zugelassener kommunaler Träger
 
     *   Bamberg, Stadt
 
-    *   0,1916
+    *   0,1095
 
 
 *    *   72712
@@ -13646,7 +13964,7 @@ zkT zugelassener kommunaler Träger
 
     *   Bamberg
 
-    *   0,4151
+    *   0,1189
 
 
 *    *   72714
@@ -13655,7 +13973,7 @@ zkT zugelassener kommunaler Träger
 
     *   Forchheim
 
-    *   0,1916
+    *   0,0812
 
 
 *    *   72902
@@ -13664,7 +13982,7 @@ zkT zugelassener kommunaler Träger
 
     *   Fürth, Stadt
 
-    *   0,0958
+    *   0,1390
 
 
 *    *   72904
@@ -13673,7 +13991,7 @@ zkT zugelassener kommunaler Träger
 
     *   Fürth, Land
 
-    *   0,0159
+    *   0,0565
 
 
 *    *   72906
@@ -13682,7 +14000,25 @@ zkT zugelassener kommunaler Träger
 
     *   Erlangen, Stadt
 
-    *   0,0159
+    *   0,0754
+
+
+*    *   72908
+
+    *   gE
+
+    *   Erlangen-Höchstadt
+
+    *   0,0365
+
+
+*    *   72910
+
+    *   gE
+
+    *   Neustadt a.d. Aisch-Bad Windsheim
+
+    *   0,0318
 
 
 *    *   73514
@@ -13691,7 +14027,34 @@ zkT zugelassener kommunaler Träger
 
     *   Nürnberg, Stadt
 
-    *   0,0958
+    *   0,6892
+
+
+*    *   73522
+
+    *   gE
+
+    *   Nürnberger Land
+
+    *   0,1048
+
+
+*    *   73524
+
+    *   gE
+
+    *   Schwabach, Stadt
+
+    *   0,0483
+
+
+*    *   73902
+
+    *   gE
+
+    *   Neumarkt i.d. OPf
+
+    *   0,0447
 
 
 *    *   73904
@@ -13700,7 +14063,7 @@ zkT zugelassener kommunaler Träger
 
     *   Regensburg, Stadt
 
-    *   0,1516
+    *   0,3463
 
 
 *    *   73906
@@ -13709,7 +14072,7 @@ zkT zugelassener kommunaler Träger
 
     *   Regensburg
 
-    *   0,1197
+    *   0,0942
 
 
 *    *   73908
@@ -13718,7 +14081,7 @@ zkT zugelassener kommunaler Träger
 
     *   Kelheim
 
-    *   0,0159
+    *   0,0353
 
 
 *    *   74302
@@ -13727,7 +14090,16 @@ zkT zugelassener kommunaler Träger
 
     *   Amberg-Sulzbach
 
-    *   0,0718
+    *   0,0188
+
+
+*    *   74306
+
+    *   gE
+
+    *   Cham
+
+    *   0,0353
 
 
 *    *   74308
@@ -13736,7 +14108,7 @@ zkT zugelassener kommunaler Träger
 
     *   Schwandorf
 
-    *   0,1277
+    *   0,0871
 
 
 *    *   74702
@@ -13745,7 +14117,25 @@ zkT zugelassener kommunaler Träger
 
     *   Bad Kissingen
 
-    *   0,0958
+    *   0,0341
+
+
+*    *   74704
+
+    *   gE
+
+    *   Haßberge
+
+    *   0,0106
+
+
+*    *   74706
+
+    *   gE
+
+    *   Rhön-Grabfeld
+
+    *   0,0094
 
 
 *    *   74708
@@ -13754,7 +14144,16 @@ zkT zugelassener kommunaler Träger
 
     *   Schweinfurt, Stadt
 
-    *   0,0239
+    *   0,0577
+
+
+*    *   74710
+
+    *   gE
+
+    *   Schweinfurt
+
+    *   0,0695
 
 
 *    *   75102
@@ -13763,7 +14162,16 @@ zkT zugelassener kommunaler Träger
 
     *   Neustadt-Weiden
 
-    *   0,0319
+    *   0,0718
+
+
+*    *   75104
+
+    *   gE
+
+    *   Tirschenreuth
+
+    *   0,0329
 
 
 *    *   75902
@@ -13772,7 +14180,7 @@ zkT zugelassener kommunaler Träger
 
     *   Kitzingen
 
-    *   0,0239
+    *   0,0223
 
 
 *    *   75906
@@ -13781,7 +14189,7 @@ zkT zugelassener kommunaler Träger
 
     *   Würzburg, Stadt
 
-    *   0,1596
+    *   0,1590
 
 
 *    *   75908
@@ -13790,7 +14198,16 @@ zkT zugelassener kommunaler Träger
 
     *   Würzburg
 
-    *   0,2714
+    *   0,0765
+
+
+*    *   75910
+
+    *   gE
+
+    *   Main-Spessart
+
+    *   0,0153
 
 
 *    *   81102
@@ -13799,7 +14216,7 @@ zkT zugelassener kommunaler Träger
 
     *   Aichach-Friedberg
 
-    *   0,0558
+    *   0,0329
 
 
 *    *   81104
@@ -13808,7 +14225,7 @@ zkT zugelassener kommunaler Träger
 
     *   Augsburg, Stadt
 
-    *   0,4471
+    *   0,2992
 
 
 *    *   81110
@@ -13817,7 +14234,16 @@ zkT zugelassener kommunaler Träger
 
     *   Augsburg
 
-    *   0,0479
+    *   0,1378
+
+
+*    *   81502
+
+    *   gE
+
+    *   Deggendorf
+
+    *   0,0695
 
 
 *    *   81504
@@ -13826,7 +14252,7 @@ zkT zugelassener kommunaler Träger
 
     *   Regen
 
-    *   0,0159
+    *   0,0164
 
 
 *    *   81512
@@ -13835,16 +14261,16 @@ zkT zugelassener kommunaler Träger
 
     *   Straubing-Bogen
 
-    *   0,0079
+    *   0,0388
 
 
 *    *   81904
 
     *   gE
 
-    *   Dillingen a. d. Donau
+    *   Dillingen a.d. Donau
 
-    *   0,0798
+    *   0,0223
 
 
 *    *   81906
@@ -13853,7 +14279,16 @@ zkT zugelassener kommunaler Träger
 
     *   Donau-Ries
 
-    *   0,0399
+    *   0,0200
+
+
+*    *   81910
+
+    *   zkT
+
+    *   Günzburg
+
+    *   0,0388
 
 
 *    *   81912
@@ -13862,7 +14297,16 @@ zkT zugelassener kommunaler Träger
 
     *   Neu-Ulm
 
-    *   0,3033
+    *   0,0777
+
+
+*    *   82302
+
+    *   gE
+
+    *   Erding
+
+    *   0,0318
 
 
 *    *   82304
@@ -13871,16 +14315,52 @@ zkT zugelassener kommunaler Träger
 
     *   Freising
 
-    *   0,0558
+    *   0,0730
+
+
+*    *   82306
+
+    *   gE
+
+    *   Dachau
+
+    *   0,0153
+
+
+*    *   82308
+
+    *   gE
+
+    *   Ebersberg
+
+    *   0,0659
+
+
+*    *   82702
+
+    *   gE
+
+    *   Eichstätt
+
+    *   0,0164
+
+
+*    *   82706
+
+    *   gE
+
+    *   Neuburg-Schrobenhausen
+
+    *   0,0577
 
 
 *    *   82708
 
     *   gE
 
-    *   Pfaffenhofen a. d. Ilm
+    *   Pfaffenhofen a.d. Ilm
 
-    *   0,0798
+    *   0,0377
 
 
 *    *   82746
@@ -13889,7 +14369,7 @@ zkT zugelassener kommunaler Träger
 
     *   Ingolstadt, Stadt
 
-    *   0,0239
+    *   0,0812
 
 
 *    *   83104
@@ -13898,7 +14378,61 @@ zkT zugelassener kommunaler Träger
 
     *   Kempten (Allgäu), Stadt
 
-    *   0,0079
+    *   0,0259
+
+
+*    *   83106
+
+    *   gE
+
+    *   Lindau (Bodensee)
+
+    *   0,0023
+
+
+*    *   83110
+
+    *   gE
+
+    *   Ostallgäu
+
+    *   0,0153
+
+
+*    *   83142
+
+    *   zkT
+
+    *   Oberallgäu
+
+    *   0,0106
+
+
+*    *   83148
+
+    *   zkT
+
+    *   Kaufbeuren, Stadt
+
+    *   0,0365
+
+
+*    *   83502
+
+    *   gE
+
+    *   Dingolfing-Landau
+
+    *   0,0306
+
+
+*    *   83504
+
+    *   gE
+
+    *   Landshut, Stadt
+
+    *   0,0223
 
 
 *    *   83506
@@ -13907,7 +14441,16 @@ zkT zugelassener kommunaler Träger
 
     *   Landshut
 
-    *   0,0558
+    *   0,0388
+
+
+*    *   83510
+
+    *   gE
+
+    *   Rottal-Inn
+
+    *   0,0812
 
 
 *    *   84308
@@ -13916,7 +14459,7 @@ zkT zugelassener kommunaler Träger
 
     *   München, Landeshauptstadt
 
-    *   2,0279
+    *   1,4397
 
 
 *    *   84358
@@ -13925,7 +14468,16 @@ zkT zugelassener kommunaler Träger
 
     *   München
 
-    *   0,1916
+    *   0,1001
+
+
+*    *   84702
+
+    *   gE
+
+    *   Freyung-Grafenau
+
+    *   0,0035
 
 
 *    *   84704
@@ -13934,7 +14486,7 @@ zkT zugelassener kommunaler Träger
 
     *   Passau, Stadt
 
-    *   0,1277
+    *   0,0471
 
 
 *    *   84706
@@ -13943,7 +14495,25 @@ zkT zugelassener kommunaler Träger
 
     *   Passau
 
-    *   0,2315
+    *   0,0860
+
+
+*    *   85502
+
+    *   gE
+
+    *   Bad Tölz-Wolfratshausen
+
+    *   0,0565
+
+
+*    *   85504
+
+    *   zkT
+
+    *   Miesbach
+
+    *   0,0094
 
 
 *    *   85506
@@ -13952,7 +14522,7 @@ zkT zugelassener kommunaler Träger
 
     *   Rosenheim, Stadt
 
-    *   0,1117
+    *   0,0895
 
 
 *    *   85508
@@ -13961,7 +14531,16 @@ zkT zugelassener kommunaler Träger
 
     *   Rosenheim
 
-    *   0,1277
+    *   0,0907
+
+
+*    *   85902
+
+    *   gE
+
+    *   Berchtesgadener Land
+
+    *   0,0117
 
 
 *    *   85904
@@ -13970,7 +14549,25 @@ zkT zugelassener kommunaler Träger
 
     *   Traunstein
 
-    *   0,1516
+    *   0,0659
+
+
+*    *   85906
+
+    *   gE
+
+    *   Altötting
+
+    *   0,0377
+
+
+*    *   85908
+
+    *   gE
+
+    *   Mühldorf am Inn
+
+    *   0,0070
 
 
 *    *   86302
@@ -13979,7 +14576,7 @@ zkT zugelassener kommunaler Träger
 
     *   Garmisch-Partenkirchen
 
-    *   0,0079
+    *   0,0235
 
 
 *    *   86304
@@ -13988,7 +14585,16 @@ zkT zugelassener kommunaler Träger
 
     *   Landsberg am Lech
 
-    *   0,1117
+    *   0,0612
+
+
+*    *   86306
+
+    *   gE
+
+    *   Weilheim-Schongau
+
+    *   0,1154
 
 
 *    *   86308
@@ -13997,7 +14603,16 @@ zkT zugelassener kommunaler Träger
 
     *   Fürstenfeldbruck
 
-    *   0,0958
+    *   0,0871
+
+
+*    *   86310
+
+    *   gE
+
+    *   Starnberg
+
+    *   0,0129
 
 
 *    *   92202
@@ -14006,7 +14621,7 @@ zkT zugelassener kommunaler Träger
 
     *   Neukölln
 
-    *   0,2874
+    *   0,3923
 
 
 *    *   92204
@@ -14015,7 +14630,7 @@ zkT zugelassener kommunaler Träger
 
     *   Treptow-Köpenick
 
-    *   0,7425
+    *   0,5113
 
 
 *    *   92208
@@ -14024,7 +14639,7 @@ zkT zugelassener kommunaler Träger
 
     *   Steglitz-Zehlendorf
 
-    *   0,5908
+    *   0,2485
 
 
 *    *   92210
@@ -14033,7 +14648,7 @@ zkT zugelassener kommunaler Träger
 
     *   Tempelhof-Schöneberg
 
-    *   0,6147
+    *   0,3864
 
 
 *    *   95502
@@ -14042,7 +14657,7 @@ zkT zugelassener kommunaler Träger
 
     *   Charlottenburg-Wilmersdorf
 
-    *   0,5908
+    *   0,3852
 
 
 *    *   95504
@@ -14051,7 +14666,7 @@ zkT zugelassener kommunaler Träger
 
     *   Pankow
 
-    *   1,0938
+    *   0,6032
 
 
 *    *   95506
@@ -14060,7 +14675,7 @@ zkT zugelassener kommunaler Träger
 
     *   Reinickendorf
 
-    *   0,5828
+    *   0,3817
 
 
 *    *   95508
@@ -14069,7 +14684,7 @@ zkT zugelassener kommunaler Träger
 
     *   Spandau
 
-    *   0,3672
+    *   0,3687
 
 
 *    *   96202
@@ -14078,7 +14693,7 @@ zkT zugelassener kommunaler Träger
 
     *   Friedrichshain-Kreuzberg
 
-    *   1,0858
+    *   0,4606
 
 
 *    *   96204
@@ -14087,7 +14702,7 @@ zkT zugelassener kommunaler Träger
 
     *   Mitte
 
-    *   0,8063
+    *   0,4877
 
 
 *    *   96206
@@ -14096,7 +14711,7 @@ zkT zugelassener kommunaler Träger
 
     *   Marzahn-Hellersdorf
 
-    *   0,7584
+    *   0,7764
 
 
 *    *   96208
@@ -14105,7 +14720,7 @@ zkT zugelassener kommunaler Träger
 
     *   Lichtenberg
 
-    *   1,0618
+    *   0,8082
 
 
 
