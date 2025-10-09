@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 1980, 1237, 1264
 
 Zuletzt geändert durch
-:   Nr. 1 Beschluss d. Bundestages gem. Bek. v. 15.7.2002 I 3012
+:   Nr. 2 Beschluss d. Bundestages gem. Bek. v. 25.3.2020 I 764
 
 
 ## 1.
@@ -68,6 +68,11 @@ Ist der Vollzug einer angeordneten Durchsuchung oder Beschlagnahme gegen ein Mit
 ## 6.
 
 Der Ausschuß für Wahlprüfung, Immunität und Geschäftsordnung kann im Wege der Vorentscheidung das Verlangen des Bundestages auf Aussetzung eines Verfahrens gemäß Artikel 46 Abs. 4 des Grundgesetzes herbeiführen.
+
+
+## 6a.
+
+Der Deutsche Bundestag genehmigt die Anordnungen von freiheitsbeschränkenden Maßnahmen nach dem Infektionsschutzgesetz gegen Mitglieder des Bundestages. Die zuständigen Behörden sind verpflichtet, den Präsidenten des Deutschen Bundestages unverzüglich über die gegen ein Mitglied des Bundestages angeordneten Maßnahmen zu unterrichten. Der Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung ist berechtigt, zu prüfen, ob es sich um nach dem Infektionsschutzgesetz gerechtfertigte Maßnahmen handelt und ob die Maßnahme die Funktionsfähigkeit des Deutschen Bundestages unverhältnismäßig beeinträchtigt. Hält er sie in diesem Sinne für nicht oder nicht mehr vertretbar, so kann der Ausschuss im Wege der Vorentscheidung (Nummer 7 dieser Anlage) die Aussetzung der angeordneten Maßnahmen verlangen. Kann der Ausschuss innerhalb von zwei Tagen nach Eingang einer Mitteilung der zuständigen Behörden nicht zusammentreten, so hat der Präsident des Deutschen Bundestages insoweit die Rechte des Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung. Er hat den Ausschuss unverzüglich über seine Entscheidung in Kenntnis zu setzen. Im Übrigen dürfen durch allgemeine Maßnahmen nach dem Infektionsschutzgesetz, wie etwa Ausgangssperren, Abgeordnete nicht an der Ausübung ihres Mandats, insbesondere der Anreise zu Sitzungen des Deutschen Bundestages, gehindert werden.
 
 
 ## 7.
