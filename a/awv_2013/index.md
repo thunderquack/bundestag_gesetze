@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 2 V v. 11.12.2024 I Nr. 411
 
 Änderung durch
-:   Art. 1 V vom 29.10.2025 I Nr. 261 textlich nachgeweisen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V vom 29.10.2025 I Nr. 261 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand: V in Kraft gem. § 83 Satz 1 iVm Art. 4 Abs. 1 Satz 1 G v. 6.6.2013 I 1482 mWv 1.9.2013
 

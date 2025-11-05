@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2025, Nr. 38
 
-Geändert durch
-:   Art. 1 V v. 14.2.2025 I Nr. 39
+Zuletzt geändert durch
+:   Art. 1 V v. 31.10.2025 I Nr. 263
 
 Stand: Ersetzt V 7102-47-11 v. 29.6.1998 I 1762 (MPBetreibV)
 
@@ -553,17 +553,15 @@ und
 
 
 
-## Anlage 2 (zu § 13 Absatz 1 und § 15 Absatz 1)
+## Anlage 2 (zu § 4 Absatz 8, § 13 Absatz 1 und § 15 Absatz 1)
 
-(Fundstelle: BGBl. 2025 I Nr. 38, S. 13
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2025 I Nr. 263, S. 1 – 2)
 
 
-*    *   1
+*    *   **1**
 
-    *   **Produkte, die messtechnischen Kontrollen nach § 15 Absatz 1 Satz 1 unterliegen**
+    *   **Produkte, die messtechnischen Kontrollen nach § 15 Absatz 1 Satz 1 unterliegen**
 
-    *
 
 *    *
     *
@@ -629,30 +627,40 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   mit Photonenstrahlung im Energiebereich bis 1,33 MeV
 
+    *
+
+*    *
+    *
         –   allgemein
-
-
-        –   mit geeigneter Kontrollvorrichtung, wenn der Betreiber in jedem Messbereich des Dosimeters mindestens halbjährliche Kontrollmessungen ausführt, ihre Ergebnisse aufzeichnet und die bestehenden Anforderungen erfüllt werden
 
 
 
 
     *   2
+
+
+*    *
+    *
+        –   mit geeigneter Kontrollvorrichtung, wenn der Betreiber in jedem Messbereich des Dosimeters mindestens halbjährliche Kontrollmessungen ausführt, ihre Ergebnisse aufzeichnet und die bestehenden Anforderungen erfüllt werden
+
+
+
+
+    *   6
 
 
 *    *   1.5.2
 
     *   mit Photonenstrahlung im Energiebereich ab 1,33 MeV und mit Elektronenstrahlung aus Beschleunigern mit messtechnischer Kontrolle in Form von Vergleichsmessungen
 
-    *   6
+    *   2
 
 
 *    *   1.5.3
 
     *   mit Photonenstrahlung aus Co-60-Bestrahlungsanlagen wahlweise nach Nummer 1.5.1 oder Nummer 1.5.2
 
-    *   2
-
+    *
 
 *    *   1.6
 
@@ -668,14 +676,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2
 
 
-*    *   2
+*    *   **2**
 
     *   **Ausnahmen von messtechnischen Kontrollen**
         Abweichend von Nummer 1.5.1 unterliegen keiner messtechnischen Kontrolle Therapiedosimeter, die nach jeder Einwirkung, die die Richtigkeit der Messung beeinflussen kann, sowie mindestens alle zwei Jahre in den verwendeten Messbereichen kalibriert und die Ergebnisse aufgezeichnet werden. Die Kalibrierung muss von fachkundigen Personen, die vom Betreiber bestimmt sind, mit einem Therapiedosimeter durchgeführt werden, dessen Richtigkeit entsprechend § 15 Absatz 2 sichergestellt worden ist und das bei der die Therapie durchführenden Stelle ständig verfügbar ist.
 
     *
 
-*    *   3
+*    *   **3**
 
     *   **Messtechnische Kontrollen in Form von Vergleichsmessungen**
 
