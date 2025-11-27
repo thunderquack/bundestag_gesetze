@@ -25,7 +25,7 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 15 Nr. 3 G v. 18.12.2024 I Nr. 423 ist berücksichtigt
 
-Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2025 v. 25.11.2024 I Nr. 365 ist berücksichtigt
+Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
 
 ## Erstes Kapitel - Versicherter Personenkreis
 
